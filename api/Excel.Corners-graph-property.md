@@ -8,7 +8,7 @@ api_name:
 - Excel.Corners
 ms.assetid: 18e320a0-f138-a727-3205-419e07f4b339
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

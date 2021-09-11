@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.TargetPath
 ms.assetid: 8e8edcea-56cf-876f-ce88-6adcc59f69ec
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

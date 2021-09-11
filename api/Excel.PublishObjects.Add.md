@@ -8,7 +8,7 @@ api_name:
 - Excel.PublishObjects.Add
 ms.assetid: 74629499-04d1-11d5-20b8-02b72bb110ee
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

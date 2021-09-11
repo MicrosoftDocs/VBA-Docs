@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Placement
 ms.assetid: 485bc798-c9a2-ddf6-99ea-5f3fcd46e74b
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

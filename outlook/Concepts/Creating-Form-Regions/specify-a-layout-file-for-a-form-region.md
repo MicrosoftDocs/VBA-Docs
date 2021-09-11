@@ -3,7 +3,7 @@ title: Specify a Layout File for a Form Region
 ms.prod: outlook
 ms.assetid: fa418f65-a5e5-63fd-6efe-366268994711
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

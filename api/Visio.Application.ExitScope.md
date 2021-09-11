@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.ExitScope
 ms.assetid: 9306972d-6d07-fa82-507d-d4e6d8c80e17
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

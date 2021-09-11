@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BorderColor
 ms.assetid: 552b81f2-a811-7582-4e60-0c4903da7a9b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

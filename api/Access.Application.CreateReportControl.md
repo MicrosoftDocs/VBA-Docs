@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CreateReportControl
 ms.assetid: 4b970377-450b-9909-f5c3-cb7f8445139f
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

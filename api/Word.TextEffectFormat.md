@@ -8,7 +8,7 @@ api_name:
 - Word.TextEffectFormat
 ms.assetid: b274e5be-ed5b-7d63-aa4b-1d67b63e7c0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

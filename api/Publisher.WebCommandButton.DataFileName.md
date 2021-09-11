@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCommandButton.DataFileName
 ms.assetid: 5fd2bac7-7067-4833-4b34-26897c39ea58
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.Ruler
 ms.assetid: c5bcd6ec-6135-5589-c3b5-643e50273144
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

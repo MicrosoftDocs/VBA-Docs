@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.Settings
 ms.assetid: 90306459-fbed-ea11-acc5-e99f0c612cff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

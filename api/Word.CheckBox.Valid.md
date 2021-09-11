@@ -8,7 +8,7 @@ api_name:
 - Word.CheckBox.Valid
 ms.assetid: 5f14faf3-8025-709d-67a4-7ba0ae46b467
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CaptionLabel.NumberStyle
 ms.assetid: 1e668fdf-606c-04db-db3d-17284bd2d3af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

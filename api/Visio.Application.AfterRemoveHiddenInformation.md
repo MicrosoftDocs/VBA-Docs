@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.AfterRemoveHiddenInformation
 ms.assetid: abd8501a-b528-0433-1633-6d26960dcdaa
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ShowStartupDialog
 ms.assetid: 8ea751c4-a4b1-a84a-9566-c4de8c5b9f67
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

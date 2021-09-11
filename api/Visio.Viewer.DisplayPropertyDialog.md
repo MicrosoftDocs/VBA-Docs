@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.DisplayPropertyDialog
 ms.assetid: 92578d7a-53a1-0597-e4b6-21444db0dad8
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

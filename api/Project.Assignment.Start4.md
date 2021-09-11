@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Start4
 ms.assetid: 22750cd1-fa23-1925-1d8e-234c4acf2804
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.BuildKeyCode
 ms.assetid: 0bbc515d-5f39-fed8-2b86-99979af928a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

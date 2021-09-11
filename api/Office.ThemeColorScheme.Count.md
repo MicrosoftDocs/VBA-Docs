@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeColorScheme.Count
 ms.assetid: 49b37985-28bc-ea71-1f1d-59eaea3314a4
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

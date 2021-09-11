@@ -8,7 +8,7 @@ api_name:
 - Publisher.LayoutGuides.MarginTop
 ms.assetid: f0b4f600-6c79-060b-edd5-82f07f78770a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowUsingPivotTables
 ms.assetid: 42968839-1d82-3c0e-172b-1389c772f9a1
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

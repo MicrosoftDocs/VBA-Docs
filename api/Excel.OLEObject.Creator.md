@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Creator
 ms.assetid: 6bbbaad2-30f5-c443-c6ab-b6c375a7810f
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

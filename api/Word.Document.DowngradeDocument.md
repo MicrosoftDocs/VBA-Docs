@@ -8,7 +8,7 @@ api_name:
 - Word.Document.DowngradeDocument
 ms.assetid: 3f79fb57-dbce-0a12-3ecf-6a1f96992d9f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

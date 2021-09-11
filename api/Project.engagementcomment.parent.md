@@ -3,7 +3,7 @@ title: EngagementComment.Parent property (Project)
 ms.assetid: d27685a9-4a21-9095-d6e0-8a3978faf11d
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

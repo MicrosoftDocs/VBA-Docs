@@ -8,7 +8,7 @@ api_name:
 - Word.Footnotes.ContinuationSeparator
 ms.assetid: 5bcb180c-58a0-28e8-3712-7a1ee0e731b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

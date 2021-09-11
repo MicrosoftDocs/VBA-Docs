@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormDescription.Template
 ms.assetid: a4069437-0b4e-c65d-bc2a-203b08d16685
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

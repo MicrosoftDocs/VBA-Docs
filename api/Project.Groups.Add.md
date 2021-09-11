@@ -5,7 +5,7 @@ api_name:
 - Project.Groups.Add
 ms.assetid: 320bafe1-0cbd-282c-ffbc-c37d69088578
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

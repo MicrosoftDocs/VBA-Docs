@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Distribute
 ms.assetid: cef14a4b-4d6e-758e-928a-99233f893ddc
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.Conflicts
 ms.assetid: 212a4768-04a8-51f2-b29a-17d15854829d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

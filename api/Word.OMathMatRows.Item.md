@@ -8,7 +8,7 @@ api_name:
 - Word.OMathMatRows.Item
 ms.assetid: d16514e4-4d74-de53-3a2b-6b2748ff22ff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

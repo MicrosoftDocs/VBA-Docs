@@ -3,7 +3,7 @@ title: IBlogExtensibility members (Office)
 ms.prod: office
 ms.assetid: 55f27978-9b18-f9a5-c276-298b2539ec3c
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

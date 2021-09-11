@@ -8,7 +8,7 @@ api_name:
 - Visio.Cell.GlueTo
 ms.assetid: dc88ecf1-d7c2-994e-8b49-e4bfddef4472
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

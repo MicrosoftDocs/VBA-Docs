@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Sort
 ms.assetid: 2030f99e-0307-d2b7-9e14-1d0888f3fda6
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Variable.Parent
 ms.assetid: f401d51b-b8d3-6ae8-a673-8673e8157428
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

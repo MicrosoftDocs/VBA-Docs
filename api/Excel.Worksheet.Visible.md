@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Visible
 ms.assetid: 48860564-6079-932e-2cae-0802235be61e
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

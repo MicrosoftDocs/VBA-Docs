@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.PaperSize
 ms.assetid: fa7962fb-3ca0-470a-2337-3193ed0be2aa
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

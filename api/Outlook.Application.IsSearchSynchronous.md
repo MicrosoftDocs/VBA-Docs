@@ -8,7 +8,7 @@ api_name:
 - Outlook.Application.IsSearchSynchronous
 ms.assetid: cd757b43-5e3f-1504-9944-7431bda6f004
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

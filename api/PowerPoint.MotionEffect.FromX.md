@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MotionEffect.FromX
 ms.assetid: 1e849f47-aab0-3e54-6cfe-e7fe3021dcf7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

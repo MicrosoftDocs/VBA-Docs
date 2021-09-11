@@ -8,7 +8,7 @@ api_name:
 - Word.FileConverters.ConvertMacWordChevrons
 ms.assetid: c0a1f60c-f3aa-a091-2088-ff571f653ed1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

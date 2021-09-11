@@ -8,7 +8,7 @@ api_name:
 - Visio.GraphicItems.Count
 ms.assetid: 47f77980-e523-c1bc-63c1-3ddd344f74ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

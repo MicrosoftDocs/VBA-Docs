@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.ReplaceWithText
 ms.assetid: 7bd0457f-c55e-3350-fe16-b9eac7d7d4fa
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.MsoParagraphAlignment
 ms.assetid: 7e89a297-fe45-914e-df4b-95b8c8391221
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

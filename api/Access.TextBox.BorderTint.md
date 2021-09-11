@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BorderTint
 ms.assetid: 3e48aa7c-ed95-aa27-f092-70d5fb2f9fb1
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

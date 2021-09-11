@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.QueryCancelSuspend
 ms.assetid: 49e6dbe2-f1d9-5743-11d2-c64e1d98475d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

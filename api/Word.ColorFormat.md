@@ -8,7 +8,7 @@ api_name:
 - Word.ColorFormat
 ms.assetid: 5f12793f-d847-ecf2-6cf6-39387f7f0b28
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

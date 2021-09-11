@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorScaleCriterion.Index
 ms.assetid: 22521ce4-fa0d-b71c-0eaa-d3675dbfc199
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

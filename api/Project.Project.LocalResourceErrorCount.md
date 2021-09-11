@@ -8,7 +8,7 @@ api_name:
 - Project.Project.LocalResourceErrorCount
 ms.assetid: d4491ebf-67ef-f3fe-f9cc-7534a70be70c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

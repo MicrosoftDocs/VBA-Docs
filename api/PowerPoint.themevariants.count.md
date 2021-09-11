@@ -3,7 +3,7 @@ title: ThemeVariants.Count property (PowerPoint)
 ms.assetid: 8c81b865-ac46-60ce-ca0a-0650fce07eca
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

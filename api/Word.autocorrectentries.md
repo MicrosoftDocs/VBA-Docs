@@ -3,7 +3,7 @@ title: AutoCorrectEntries object (Word)
 ms.prod: word
 ms.assetid: 3823f96c-f600-d279-2592-253025ad63ff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

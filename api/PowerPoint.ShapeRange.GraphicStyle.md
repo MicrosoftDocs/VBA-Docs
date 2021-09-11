@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.GraphicStyle
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

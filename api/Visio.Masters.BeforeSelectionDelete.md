@@ -8,7 +8,7 @@ api_name:
 - Visio.Masters.BeforeSelectionDelete
 ms.assetid: 3aed0ebc-3658-f9b9-ae63-dd1f0e3efe54
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

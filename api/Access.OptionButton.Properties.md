@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.Properties
 ms.assetid: 91313756-130d-5b6f-406c-4d5768f522c9
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

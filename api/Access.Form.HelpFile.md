@@ -8,7 +8,7 @@ api_name:
 - Access.Form.HelpFile
 ms.assetid: 72b416b1-5257-9560-ebc0-625abc3f7e85
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

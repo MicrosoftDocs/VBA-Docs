@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.ClearCustomToolbars
 ms.assetid: 823877b1-ee82-f87e-d68f-d8c6010457cc
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

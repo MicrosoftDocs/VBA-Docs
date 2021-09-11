@@ -8,7 +8,7 @@ api_name:
 - Project.Resource.EnterpriseCheckedOutBy
 ms.assetid: 9e741c85-ffc7-6d49-18ea-bfdcafe23934
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

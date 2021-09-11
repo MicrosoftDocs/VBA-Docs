@@ -8,7 +8,7 @@ api_name:
 - Word.Columns.SetWidth
 ms.assetid: 42b9c3ce-5743-5143-f8e6-80bcbc0e206d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

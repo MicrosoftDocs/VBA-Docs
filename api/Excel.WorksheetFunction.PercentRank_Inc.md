@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.PercentRank_Inc
 ms.assetid: 589a4d54-d7ca-84ea-2b62-dccb5e6e3ad0
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

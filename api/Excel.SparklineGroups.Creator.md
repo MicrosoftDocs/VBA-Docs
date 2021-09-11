@@ -8,7 +8,7 @@ api_name:
 - Excel.SparklineGroups.Creator
 ms.assetid: c88587c7-8e6d-9ab5-f36a-d9376ec7cfeb
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

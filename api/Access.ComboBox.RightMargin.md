@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.RightMargin
 ms.assetid: 4ee85481-4489-4f81-123b-54062c071b97
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

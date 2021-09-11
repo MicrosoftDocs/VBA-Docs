@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.OnMouseDown
 ms.assetid: 034bf4b5-c170-f349-c4aa-d114f0d27caf
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

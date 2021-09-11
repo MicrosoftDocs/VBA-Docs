@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.DownloadState
 ms.assetid: 65aa9f55-8b53-4c39-e560-c091d397e5ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.MailMergeAfterMerge
 ms.assetid: dd01d8f5-f95e-e833-bb8b-708ced54240c
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

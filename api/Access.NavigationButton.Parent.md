@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.Parent
 ms.assetid: 381975a0-db89-1888-2c55-002157881db0
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

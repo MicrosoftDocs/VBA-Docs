@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MsoAnimAccumulate
 ms.assetid: 45e3dbc8-0785-ec94-07f7-7f45b409a809
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

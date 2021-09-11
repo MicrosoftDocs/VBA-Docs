@@ -6,7 +6,7 @@ api_name:
 - Excel.XlConsolidationFunction
 ms.assetid: a3d0e4c0-8463-340c-a258-219d49f715d7
 ms.date: 07/20/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.EmailSignature.NewMessageSignature
 ms.assetid: fed9f151-47b8-3e76-1764-b6e80bdbfb5e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoFilter
 ms.assetid: 1a6fcf3b-52be-b599-029b-a3c53d12f85e
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

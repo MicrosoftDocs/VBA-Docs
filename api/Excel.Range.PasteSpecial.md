@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.PasteSpecial
 ms.assetid: d3e991f2-7ef7-2ebc-d4bc-ba4c26be472e
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

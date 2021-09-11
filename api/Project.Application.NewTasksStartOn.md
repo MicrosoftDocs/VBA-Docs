@@ -8,7 +8,7 @@ api_name:
 - Project.Application.NewTasksStartOn
 ms.assetid: c5009674-105e-a861-56f0-4847926d6c36
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

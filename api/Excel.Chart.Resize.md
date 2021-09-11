@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Resize
 ms.assetid: d1b7d0bb-d190-18f2-83f9-b91b637d80aa
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

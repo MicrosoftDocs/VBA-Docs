@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.SaveAs
 ms.assetid: cda4cccc-1930-3aa8-d0e1-651de6b0a0b7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

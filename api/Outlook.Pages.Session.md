@@ -8,7 +8,7 @@ api_name:
 - Outlook.Pages.Session
 ms.assetid: cebf5807-8f1f-05f4-e990-35fb00e07f0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

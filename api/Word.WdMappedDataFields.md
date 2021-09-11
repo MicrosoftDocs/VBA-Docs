@@ -5,7 +5,7 @@ api_name:
 - Word.WdMappedDataFields
 ms.assetid: 99f4c08f-b0bc-6610-4a30-5cd785aa3402
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

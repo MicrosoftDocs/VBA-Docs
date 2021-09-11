@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxGetXPosition
 ms.assetid: df7a41c8-01df-bd60-0ae1-0fb60cbc3347
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

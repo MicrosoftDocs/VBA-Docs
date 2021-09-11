@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Tags.Value
 ms.assetid: 8d7507d2-6533-5d63-c6ff-fec9581fb44f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

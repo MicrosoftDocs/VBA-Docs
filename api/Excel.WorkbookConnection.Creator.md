@@ -8,7 +8,7 @@ api_name:
 - Excel.WorkbookConnection.Creator
 ms.assetid: b8862979-d128-cd86-31ef-19515741792c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

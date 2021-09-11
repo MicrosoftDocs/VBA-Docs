@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileTrailingMinusNumbers
 ms.assetid: 4e2257b2-fc88-145b-d307-35b6877d390b
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

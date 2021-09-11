@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Parent
 ms.assetid: 4c039b5b-050f-8f4d-bc90-7982e92fb17c
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

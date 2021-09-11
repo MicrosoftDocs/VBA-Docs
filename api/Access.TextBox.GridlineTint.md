@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.GridlineTint
 ms.assetid: 5dbbd8a7-0942-c39d-b702-a3c0e569e3c1
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

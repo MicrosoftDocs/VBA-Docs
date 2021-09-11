@@ -8,7 +8,7 @@ api_name:
 - Visio.Paths.Count
 ms.assetid: fb8ac400-7767-667a-d2b1-79962ed0fcac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

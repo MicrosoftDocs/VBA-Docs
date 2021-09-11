@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.EntryID
 ms.assetid: 0d0623c0-61bf-7dce-dbd6-e5fce3994a9e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

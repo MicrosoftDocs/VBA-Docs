@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.Width
 ms.assetid: 91558084-6eea-112f-b660-df353f9e893f
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

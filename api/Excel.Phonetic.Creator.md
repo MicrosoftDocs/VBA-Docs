@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetic.Creator
 ms.assetid: 8c299ced-36f4-747c-3fa6-4f1171431b59
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

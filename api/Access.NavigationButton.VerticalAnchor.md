@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.VerticalAnchor
 ms.assetid: 72694f69-3690-1848-5fff-ff232697a972
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

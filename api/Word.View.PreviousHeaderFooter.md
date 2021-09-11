@@ -8,7 +8,7 @@ api_name:
 - Word.View.PreviousHeaderFooter
 ms.assetid: fee57f18-348d-a671-2fb2-1f9797c39727
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

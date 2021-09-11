@@ -8,7 +8,7 @@ api_name:
 - Word.BuildingBlock.Index
 ms.assetid: 06a742e1-8454-c1b7-5de7-691860d1ab54
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

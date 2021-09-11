@@ -8,7 +8,7 @@ api_name:
 - Excel.ApplyPictToSides
 ms.assetid: aa6146cf-4e4f-b0c7-55eb-0ed8bd9dcc65
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

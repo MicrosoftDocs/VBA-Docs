@@ -8,7 +8,7 @@ api_name:
 - Excel.Areas.Creator
 ms.assetid: 0a612f3d-437c-95f2-ea15-042017ba941b
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

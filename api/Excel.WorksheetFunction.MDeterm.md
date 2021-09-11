@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MDeterm
 ms.assetid: 90d7be4e-308a-3641-2371-819b1687df79
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

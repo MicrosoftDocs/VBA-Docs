@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Document
 ms.assetid: fa7d64c9-1d50-3e35-cece-32b52790d158
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkBusinessCardControl.DoubleClick
 ms.assetid: 872535e7-e9e7-48d8-991f-2189527a314f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

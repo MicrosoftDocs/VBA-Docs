@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat.Contrast
 ms.assetid: 994cfca5-8ddb-d943-63c8-21abe8508de6
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

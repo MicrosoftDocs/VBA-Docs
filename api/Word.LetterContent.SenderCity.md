@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.SenderCity
 ms.assetid: 13a101c2-c149-2e70-a8ec-0b6eaecb57ff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

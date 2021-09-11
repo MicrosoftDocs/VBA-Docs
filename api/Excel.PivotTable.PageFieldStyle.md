@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PageFieldStyle
 ms.assetid: 8871fad2-211f-8c25-efe8-09d385c02a4e
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

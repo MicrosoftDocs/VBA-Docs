@@ -3,7 +3,7 @@ title: "Component 'item' or one of its dependencies not correctly registered: a 
 ms.prod: office
 ms.assetid: f77e11fb-a7e3-5b70-69dd-9744bb8f1ccd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

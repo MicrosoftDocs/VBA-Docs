@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.OldBorderStyle
 ms.assetid: cf94d8cb-512e-64ab-58db-d3013cfee9d2
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

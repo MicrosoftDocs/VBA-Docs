@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ItemsSelected
 ms.assetid: c2403562-00c4-12ec-4d31-9b83d081cb4d
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

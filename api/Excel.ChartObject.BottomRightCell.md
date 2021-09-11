@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObject.BottomRightCell
 ms.assetid: e437e7d9-b8fb-0a55-9741-1b11dea714b7
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

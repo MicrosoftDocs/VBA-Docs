@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.CatalogMergeItems
 ms.assetid: 1dcf4ae0-7a18-f1d5-2176-1912c63eefcc
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

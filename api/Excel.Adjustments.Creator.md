@@ -5,7 +5,7 @@ api_name:
 - Excel.Adjustments.Creator
 ms.assetid: 5038c1f3-8110-197b-c0f0-31c2e71bf003
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: publisher
 ms.assetid: cab28185-8c1f-40cd-9f56-daabf51ab2e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

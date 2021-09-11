@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.MarkForDownload
 ms.assetid: 85512e33-7a2a-7081-d17e-84953db3e0aa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

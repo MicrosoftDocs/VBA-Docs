@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.CurrentItem
 ms.assetid: eaaf0192-a169-c107-95a6-b8e759a3b873
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

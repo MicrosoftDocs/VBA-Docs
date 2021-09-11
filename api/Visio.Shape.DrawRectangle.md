@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.DrawRectangle
 ms.assetid: 2d02da32-0938-b019-0fa0-c4ef07d1a318
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

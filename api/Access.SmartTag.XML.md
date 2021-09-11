@@ -8,7 +8,7 @@ api_name:
 - Access.SmartTag.XML
 ms.assetid: 9ac7c6ae-5f9c-591d-177c-74436ae8a006
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

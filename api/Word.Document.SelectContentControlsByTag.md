@@ -8,7 +8,7 @@ api_name:
 - Word.Document.SelectContentControlsByTag
 ms.assetid: e61d5f1a-b838-e8f6-f72d-da7df327fd27
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.SelectNamesDialog.ForceResolution
 ms.assetid: f859e464-8d06-f44c-e388-f6b6427bec1a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

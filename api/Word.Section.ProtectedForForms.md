@@ -8,7 +8,7 @@ api_name:
 - Word.Section.ProtectedForForms
 ms.assetid: f87ef960-9ef3-f5a8-c3e0-325c263e985b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

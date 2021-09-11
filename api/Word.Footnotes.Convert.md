@@ -8,7 +8,7 @@ api_name:
 - Word.Footnotes.Convert
 ms.assetid: 6d703b30-b0a5-bf33-4ae8-c6574cceae99
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.GoForward
 ms.assetid: 5fb15a4f-d022-b82c-17ef-ec3808563a16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

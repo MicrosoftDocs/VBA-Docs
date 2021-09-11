@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SaveLinkValues
 ms.assetid: ee69911f-5a4a-5c2b-c14a-cd562f3ba9f4
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Tag
 ms.assetid: 85ee226a-3f66-820d-e90c-3e47ddb8d2d4
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

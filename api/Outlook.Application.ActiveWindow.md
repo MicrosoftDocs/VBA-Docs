@@ -8,7 +8,7 @@ api_name:
 - Outlook.Application.ActiveWindow
 ms.assetid: 5f5b4e8b-61e4-417b-6b0c-14d1ccb41594
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

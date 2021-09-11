@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Width
 ms.assetid: 3c57661f-34a3-c8d7-c8ca-076bf73610b0
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

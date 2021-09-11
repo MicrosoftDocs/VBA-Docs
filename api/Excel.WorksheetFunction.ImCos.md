@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImCos
 ms.assetid: 959ac671-64e4-ac72-9421-d7074bd5d4a8
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Unprotect
 ms.assetid: f955872b-d6bf-5c94-d956-0e84fc7bb9aa
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

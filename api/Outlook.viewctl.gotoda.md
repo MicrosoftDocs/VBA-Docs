@@ -3,7 +3,7 @@ title: ViewCtl.GoToDate Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 90a68432-0f2b-45f1-b720-edc7e76bd02b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

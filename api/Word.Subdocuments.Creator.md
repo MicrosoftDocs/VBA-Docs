@@ -8,7 +8,7 @@ api_name:
 - Word.Subdocuments.Creator
 ms.assetid: 6419c182-d35b-eafa-8f1d-17fe297c6037
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

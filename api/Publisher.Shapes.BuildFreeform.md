@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.BuildFreeform
 ms.assetid: ea24a9a2-e72c-beb3-b17d-161ea41fff1d
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

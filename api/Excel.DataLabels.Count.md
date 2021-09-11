@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabels.Count
 ms.assetid: 4838836f-d1b6-cdb5-47bf-0c7314d9d622
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

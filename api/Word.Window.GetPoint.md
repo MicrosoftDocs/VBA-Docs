@@ -8,7 +8,7 @@ api_name:
 - Word.Window.GetPoint
 ms.assetid: b0f2b558-0dfc-96f8-5177-3771f6fbb69b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Point.ClearFormats
 ms.assetid: 31717f21-5cda-5cc0-5d20-a6aa0ba29a30
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.FillFormat.TextureHorizontalScale
 ms.assetid: 95673ba4-db72-957a-9873-6a77029d578d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

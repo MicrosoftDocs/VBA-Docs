@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkColor.Application
 ms.assetid: 94d690fc-0484-a0a7-5952-1db57707e7e2
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.HorizontalFlip
 ms.assetid: 4c41e250-2a8f-3eab-3244-0910fb43362e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

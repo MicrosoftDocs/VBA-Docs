@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.Layout
 ms.assetid: d13cb988-9859-223f-e974-ecbd77cfaf93
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

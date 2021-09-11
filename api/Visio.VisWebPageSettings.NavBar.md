@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.NavBar
 ms.assetid: 5a3245df-d0b6-40c6-5ed9-6d7700e835c8
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

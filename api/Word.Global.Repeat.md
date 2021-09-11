@@ -8,7 +8,7 @@ api_name:
 - Word.Global.Repeat
 ms.assetid: 23e2e300-cc01-cd9d-f761-0113a07267bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.RetrieveInOfficeUILang
 ms.assetid: 51d2a8b7-75e6-c503-895b-0f5ab8d66265
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

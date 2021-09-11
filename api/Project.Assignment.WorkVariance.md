@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.WorkVariance
 ms.assetid: e92fce82-213f-b412-cc4a-f3c93d11ad8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

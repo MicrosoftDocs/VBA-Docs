@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AddIn.Name
 ms.assetid: d5a859ab-9304-1148-315d-2d2983251197
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.StoryLength
 ms.assetid: 0dd342e2-2a90-bbf9-2989-a2629fcf40a5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

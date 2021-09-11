@@ -5,7 +5,7 @@ api_name:
 - Word.WdReplace
 ms.assetid: e7e8b8c3-e862-5fe6-ee56-b054263a4402
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.OLETypeAllowed
 ms.assetid: ca669834-9bce-057c-dfb7-c8411b26bdd1
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

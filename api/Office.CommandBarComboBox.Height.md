@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Height
 ms.assetid: a3afc8c0-1c35-acc0-905c-0af47e84827d
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

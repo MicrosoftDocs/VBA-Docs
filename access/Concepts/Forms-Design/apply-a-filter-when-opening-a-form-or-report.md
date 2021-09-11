@@ -3,7 +3,7 @@ title: Apply a filter when opening a form or report
 ms.prod: access
 ms.assetid: d7a43e62-3003-d411-2128-dffe0536e119
 ms.date: 09/25/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

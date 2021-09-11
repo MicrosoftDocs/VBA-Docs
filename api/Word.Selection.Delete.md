@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Delete
 ms.assetid: 35bfdf19-62d3-5593-0b2f-dd6b642b4cc3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

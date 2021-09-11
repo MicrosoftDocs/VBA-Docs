@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBErrors.Count
 ms.assetid: 79c3afe1-bb75-b58b-c3c6-3e9faa561a98
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

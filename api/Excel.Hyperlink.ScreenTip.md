@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.ScreenTip
 ms.assetid: 472aeaca-90f4-3b27-6927-a51d708e61c2
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

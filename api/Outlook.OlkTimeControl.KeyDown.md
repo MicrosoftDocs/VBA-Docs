@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.KeyDown
 ms.assetid: 1214ffd2-033e-13bb-309e-254d98f903c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

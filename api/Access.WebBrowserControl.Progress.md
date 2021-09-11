@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Progress
 ms.assetid: ef77d863-a781-635e-eab4-6d98f88dac21
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

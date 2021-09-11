@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.NumberFormat
 ms.assetid: 22c58eaa-ad1c-ea73-f3da-2922da5327de
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

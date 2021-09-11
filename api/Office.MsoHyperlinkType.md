@@ -5,7 +5,7 @@ api_name:
 - Office.MsoHyperlinkType
 ms.assetid: 4945ef63-e47e-2305-b4d2-afbc1c086f4d
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

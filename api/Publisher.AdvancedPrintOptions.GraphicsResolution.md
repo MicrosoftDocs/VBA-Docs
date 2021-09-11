@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.GraphicsResolution
 ms.assetid: 1e4e06aa-327b-5689-ff97-eea9f866260a
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

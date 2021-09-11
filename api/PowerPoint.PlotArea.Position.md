@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PlotArea.Position
 ms.assetid: 91a145b4-928c-5ec2-d50c-8e860458e2bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

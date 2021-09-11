@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtNode.Hidden
 ms.assetid: 090033ae-903d-4405-4fad-d61fb2c990a7
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

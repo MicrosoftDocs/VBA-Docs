@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Timing.SmoothStart
 ms.assetid: 7e2f3578-7367-748d-7e3c-cd4643a71e9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

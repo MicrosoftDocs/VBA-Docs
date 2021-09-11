@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.OnGotFocus
 ms.assetid: 4d892495-791b-05b3-0bcb-3b3c3635a0bd
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

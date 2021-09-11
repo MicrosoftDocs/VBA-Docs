@@ -8,7 +8,7 @@ api_name:
 - Excel.Sort.Header
 ms.assetid: e5f2967f-de53-96a9-3742-5ba2353e0bcf
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

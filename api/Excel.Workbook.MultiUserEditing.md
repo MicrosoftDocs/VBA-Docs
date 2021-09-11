@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.MultiUserEditing
 ms.assetid: dc721463-ec34-8c52-6701-51c406beed23
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Creator
 ms.assetid: 68f1b65d-7bc3-89ba-e314-3103fa40ad44
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.SectionExists
 ms.assetid: 588a3b17-4831-b7bb-455f-12bc5c3620fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ListFormat.Creator
 ms.assetid: 523ef2e1-9119-bca1-324b-ab470bb7f6a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

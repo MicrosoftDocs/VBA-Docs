@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.CalloutRelationshipDeleted
 ms.assetid: 1a4c30f1-e449-f713-3cec-b02029935d02
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

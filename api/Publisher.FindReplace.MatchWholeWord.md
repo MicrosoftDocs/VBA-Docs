@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.MatchWholeWord
 ms.assetid: 512d37bc-c900-ee17-8a8e-5875db0a2f85
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

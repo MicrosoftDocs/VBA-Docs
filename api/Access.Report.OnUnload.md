@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnUnload
 ms.assetid: 0ebc34b7-3541-4d35-fc9b-ac0feb41b873
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

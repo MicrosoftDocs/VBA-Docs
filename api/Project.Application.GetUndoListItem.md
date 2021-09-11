@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GetUndoListItem
 ms.assetid: e77826ab-118d-2b69-6f99-cb8ce65afb43
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.DisplayTooltips
 ms.assetid: 98b62729-d1c8-a6dc-328e-8dbb6bbd80dc
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

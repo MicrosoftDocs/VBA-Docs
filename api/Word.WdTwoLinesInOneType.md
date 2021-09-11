@@ -5,7 +5,7 @@ api_name:
 - Word.WdTwoLinesInOneType
 ms.assetid: 7b7fa2ba-53f8-488e-65fd-b94bc8cde683
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

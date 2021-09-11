@@ -8,7 +8,7 @@ api_name:
 - Excel.Errors.Creator
 ms.assetid: 0bd8ce78-0ab3-f046-2497-7a537ca9d50c
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

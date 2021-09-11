@@ -8,7 +8,7 @@ api_name:
 - Excel.IconSetCondition.Parent
 ms.assetid: fa2260b1-f987-25c6-29d1-ac3786599fe4
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

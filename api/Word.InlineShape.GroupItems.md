@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShape.GroupItems
 ms.assetid: bed9535b-a4b6-0614-03b4-3ff4f43b6cab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

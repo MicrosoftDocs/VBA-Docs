@@ -5,7 +5,7 @@ api_name:
 - Office.Signature.Application
 ms.assetid: fc445340-37a7-f9df-49a6-1489ac49b5f6
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

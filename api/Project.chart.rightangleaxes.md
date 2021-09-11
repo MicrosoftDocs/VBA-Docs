@@ -3,7 +3,7 @@ title: Chart.RightAngleAxes property (Project)
 ms.prod: project-server
 ms.assetid: 51e8cde1-53c7-90ff-b5c7-72a091461f6b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

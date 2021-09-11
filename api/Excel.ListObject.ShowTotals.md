@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.ShowTotals
 ms.assetid: 99a86f33-d718-98df-9869-76d52ddab0bb
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

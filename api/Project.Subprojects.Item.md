@@ -5,7 +5,7 @@ api_name:
 - Project.Subprojects.Item
 ms.assetid: 5044cc36-2e53-d424-c037-dbebe30d821a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

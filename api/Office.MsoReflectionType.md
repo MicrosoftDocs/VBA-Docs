@@ -5,7 +5,7 @@ api_name:
 - Office.MsoReflectionType
 ms.assetid: 78337972-fcdd-4a65-c9b8-b9eed981c717
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

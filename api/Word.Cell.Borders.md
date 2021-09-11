@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Borders
 ms.assetid: a62d45e4-02ff-60ab-b0e6-93929cce64d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

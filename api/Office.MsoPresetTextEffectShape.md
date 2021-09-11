@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPresetTextEffectShape
 ms.assetid: d8b21a00-54af-b2cf-6a1d-4bbaef2aac78
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

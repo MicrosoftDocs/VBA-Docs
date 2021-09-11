@@ -8,7 +8,7 @@ api_name:
 - Word.ListLevel.TextPosition
 ms.assetid: ed0ea5ae-d017-a0a8-be0a-cd49015e3bfb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.WorkflowTemplate.Creator
 ms.assetid: 17d49292-fcfe-c9ea-35dc-c1e5cd0a1cc4
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

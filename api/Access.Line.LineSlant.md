@@ -8,7 +8,7 @@ api_name:
 - Access.Line.LineSlant
 ms.assetid: 336f66fe-2b15-f3d0-6cf2-5b48992ddafc
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

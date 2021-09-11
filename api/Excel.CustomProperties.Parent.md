@@ -8,7 +8,7 @@ api_name:
 - Excel.CustomProperties.Parent
 ms.assetid: 828feda2-1f06-6cd8-1f2f-cf74b9495d89
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

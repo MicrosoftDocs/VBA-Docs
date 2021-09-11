@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Sensitivity
 ms.assetid: 1e5aec44-3328-f6fe-6ee4-019a4afc8d21
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

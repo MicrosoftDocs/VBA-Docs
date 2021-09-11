@@ -8,7 +8,7 @@ api_name:
 - Access.Page.ControlTipText
 ms.assetid: 9903da60-7af6-c257-6eeb-ff2e77ac96e0
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

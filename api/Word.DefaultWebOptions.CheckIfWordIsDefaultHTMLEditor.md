@@ -8,7 +8,7 @@ api_name:
 - Word.DefaultWebOptions.CheckIfWordIsDefaultHTMLEditor
 ms.assetid: 9d3fbbe1-3a21-64eb-1266-ce22b2332e61
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

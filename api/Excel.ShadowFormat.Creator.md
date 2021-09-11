@@ -5,7 +5,7 @@ api_name:
 - Excel.ShadowFormat.Creator
 ms.assetid: 5c7397d1-dd9e-2889-ad96-6fa6510429e3
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

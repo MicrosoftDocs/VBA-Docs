@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.MarkAsTask
 ms.assetid: deab1b6c-2d22-678c-1a13-2b171d27a971
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.ShowPageMargins
 ms.assetid: 7001d6ae-40db-ca7b-5276-0f299890ff9f
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

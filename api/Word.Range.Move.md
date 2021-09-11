@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Move
 ms.assetid: 40c73c63-12da-4e8c-05c3-121f4df57f3f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

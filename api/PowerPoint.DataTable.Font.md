@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DataTable.Font
 ms.assetid: cb6f0d1c-284d-9dca-f7f0-aefc7594bfbe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

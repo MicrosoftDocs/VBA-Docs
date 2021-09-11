@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.OutlineLevel
 ms.assetid: ed44b494-84aa-3419-cc3f-69b330ec6aeb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

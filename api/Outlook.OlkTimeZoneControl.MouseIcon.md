@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.MouseIcon
 ms.assetid: 922034e9-0b3b-dad6-ee7a-1777358a210b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

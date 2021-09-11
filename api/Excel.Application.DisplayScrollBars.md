@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayScrollBars
 ms.assetid: a81d2111-38eb-f156-28d7-a4abedf4839c
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

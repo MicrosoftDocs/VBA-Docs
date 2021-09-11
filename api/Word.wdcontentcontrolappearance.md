@@ -3,7 +3,7 @@ title: WdContentControlAppearance enumeration (Word)
 ms.prod: word
 ms.assetid: a85138c7-2dc8-ed37-0994-244440b2bc21
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

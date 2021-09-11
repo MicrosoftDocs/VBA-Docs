@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.AllocateChanges
 ms.assetid: c751c5fb-ce22-64d1-669c-fdb064cf0408
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

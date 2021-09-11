@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Actions
 ms.assetid: 1fd1e1ad-d5ab-75ab-eb73-c5521d5801a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

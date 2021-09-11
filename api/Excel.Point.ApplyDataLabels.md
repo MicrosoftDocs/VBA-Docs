@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.ApplyDataLabels
 ms.assetid: f242eef7-75ed-868f-bb8d-d42838cc9ff0
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

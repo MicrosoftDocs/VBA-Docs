@@ -3,7 +3,7 @@ title: XlTimeUnit enumeration (Word)
 ms.prod: word
 ms.assetid: 5777d780-5995-56b7-d820-0b61f0161b53
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

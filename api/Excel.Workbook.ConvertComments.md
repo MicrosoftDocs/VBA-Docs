@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ConvertComments
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

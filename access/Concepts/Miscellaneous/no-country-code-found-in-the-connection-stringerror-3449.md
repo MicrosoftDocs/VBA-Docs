@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 477e2ff0-8c5b-69a0-8eb6-507ec1fae2e5
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # No country code found in the connection string. (Error 3449)

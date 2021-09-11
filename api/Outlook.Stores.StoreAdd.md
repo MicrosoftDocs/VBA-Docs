@@ -8,7 +8,7 @@ api_name:
 - Outlook.Stores.StoreAdd
 ms.assetid: 26e7eddc-9c5a-ffff-d574-afa48e5953d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

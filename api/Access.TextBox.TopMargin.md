@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.TopMargin
 ms.assetid: cd56b2b2-8bb5-b3cf-bacf-13d311e5479b
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

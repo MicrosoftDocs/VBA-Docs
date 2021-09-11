@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ApplyBackgroundToDocument
 ms.assetid: 441f1147-7f91-a4ac-f69c-0f1258400499
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

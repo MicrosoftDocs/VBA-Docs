@@ -8,7 +8,7 @@ api_name:
 - Excel.Range
 ms.assetid: 760f463d-3af3-515d-5da4-54f799fcfe0b
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Range property (Excel Graph)

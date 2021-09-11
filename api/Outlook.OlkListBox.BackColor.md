@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.BackColor
 ms.assetid: aabe5928-acde-7a21-b0d5-2910aa5855bb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.ShowCategoriesDialog
 ms.assetid: 00483040-7c23-e920-3d97-1ac456c25b05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

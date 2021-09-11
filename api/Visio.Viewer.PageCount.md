@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.PageCount
 ms.assetid: 3a7f90c0-6573-7ba5-414d-ede5b9c2fac6
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

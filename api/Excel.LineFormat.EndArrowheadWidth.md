@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.EndArrowheadWidth
 ms.assetid: 12148fae-ede6-9b05-9283-710f2bb68bbf
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

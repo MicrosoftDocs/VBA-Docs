@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.Permission
 ms.assetid: 394173d4-344a-148a-1628-b4ca47d4ef2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

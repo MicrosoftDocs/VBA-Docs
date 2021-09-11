@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Width
 ms.assetid: 78a6f0ca-2a29-933b-11d2-ec6967d00898
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

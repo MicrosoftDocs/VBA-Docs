@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Visible
 ms.assetid: d84b0e36-7ce1-d34a-45d6-8ab9895cf617
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AddChartAutoFormat
 ms.assetid: a75fe1dd-72f5-526c-a9b4-a309825e84d7
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

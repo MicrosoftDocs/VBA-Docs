@@ -8,7 +8,7 @@ api_name:
 - Excel.ListDataFormat.DecimalPlaces
 ms.assetid: 49c11876-2f79-5ca1-bdba-27e659dadc98
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.BorderTint
 ms.assetid: 819768fc-1473-5f7e-c320-b2d25d1b83d3
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.DistListItem.AfterWrite
 ms.assetid: aa924761-77c9-faf1-f34c-739f766ab5a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

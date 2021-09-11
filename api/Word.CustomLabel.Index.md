@@ -8,7 +8,7 @@ api_name:
 - Word.CustomLabel.Index
 ms.assetid: 19ce60f6-940a-610d-8687-66ecbc7c4700
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.UserPermission.ExpirationDate
 ms.assetid: 769cd094-62c2-a9cd-9214-6fcc799617be
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

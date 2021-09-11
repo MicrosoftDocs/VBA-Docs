@@ -8,7 +8,7 @@ api_name:
 - Outlook.Table.MoveToStart
 ms.assetid: af499471-dd21-9374-7399-3ce977368015
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

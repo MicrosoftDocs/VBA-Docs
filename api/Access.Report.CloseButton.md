@@ -8,7 +8,7 @@ api_name:
 - Access.Report.CloseButton
 ms.assetid: dad15f66-4787-a4eb-dbbe-d698faaa0917
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

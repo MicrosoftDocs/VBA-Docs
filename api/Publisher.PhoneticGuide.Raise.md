@@ -8,7 +8,7 @@ api_name:
 - Publisher.PhoneticGuide.Raise
 ms.assetid: 8c7bd7e9-1b63-ded0-5021-99995296ad08
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

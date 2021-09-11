@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.GroupShapes.Count
 ms.assetid: 1535f42d-43de-a9e2-0972-a1bb34b5578f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

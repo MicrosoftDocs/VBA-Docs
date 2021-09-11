@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.GutterStyle
 ms.assetid: cf2dafc3-1f08-d60d-830b-80ee921ee4cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

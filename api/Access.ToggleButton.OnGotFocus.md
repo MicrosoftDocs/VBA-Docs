@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OnGotFocus
 ms.assetid: bcc774c8-7766-942d-b37d-d4c96dd84911
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

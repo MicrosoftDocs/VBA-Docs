@@ -8,7 +8,7 @@ api_name:
 - Project.Application.OrganizerMoveItem
 ms.assetid: a597c657-130e-2e7b-3837-7e3f95421af7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

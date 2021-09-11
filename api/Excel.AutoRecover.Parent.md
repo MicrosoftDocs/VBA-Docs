@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoRecover.Parent
 ms.assetid: 8e145467-47d2-0038-808d-a7c6765bab6b
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.NumeralShapes
 ms.assetid: f0fda4bb-2522-622c-24ab-d3324a4b8dca
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

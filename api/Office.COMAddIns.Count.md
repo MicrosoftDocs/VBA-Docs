@@ -8,7 +8,7 @@ api_name:
 - Office.COMAddIns.Count
 ms.assetid: 5522bdc5-15b5-473f-94e3-5010a3d30f4a
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

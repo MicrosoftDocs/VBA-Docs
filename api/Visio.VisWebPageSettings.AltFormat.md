@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.AltFormat
 ms.assetid: 60f9af7d-dc5a-d234-976a-51db21473e28
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

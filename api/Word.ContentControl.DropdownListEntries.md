@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControl.DropdownListEntries
 ms.assetid: 4434c4cc-53f4-758d-5a9e-3a9aa2f74a05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

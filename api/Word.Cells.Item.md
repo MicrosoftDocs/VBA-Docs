@@ -8,7 +8,7 @@ api_name:
 - Word.Cells.Item
 ms.assetid: bb15b108-cb74-05ad-97c6-5a53a18e8cf4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

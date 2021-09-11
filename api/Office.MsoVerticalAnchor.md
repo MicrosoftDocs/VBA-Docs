@@ -5,7 +5,7 @@ api_name:
 - Office.MsoVerticalAnchor
 ms.assetid: eb79204e-6c76-6d63-9609-dcbf34073eb5
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

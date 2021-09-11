@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.FormDescription
 ms.assetid: 06043d0c-c56f-2f87-6018-4a4fa0b0735e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

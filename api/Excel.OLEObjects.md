@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects
 ms.assetid: e3fcf4bd-7c96-ecb3-dc04-551f7f7348f9
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Connect.ContainingPageID
 ms.assetid: 4503f9e3-74ca-5948-ddc2-a91116faa588
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

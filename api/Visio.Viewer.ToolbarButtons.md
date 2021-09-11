@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ToolbarButtons
 ms.assetid: 7663e0b1-6022-39c3-0268-fba3b287f868
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

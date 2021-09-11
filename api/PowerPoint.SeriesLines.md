@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SeriesLines
 ms.assetid: 5d953ed4-ca16-3cb3-ba8f-1742e4a56cb6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

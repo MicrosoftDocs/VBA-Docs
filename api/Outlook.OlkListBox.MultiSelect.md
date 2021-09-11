@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.MultiSelect
 ms.assetid: 33bd205a-9ed8-a20f-c1dd-796563476ed5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

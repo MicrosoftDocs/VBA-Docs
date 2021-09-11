@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.ActualWork
 ms.assetid: 1f4e3558-17c7-506b-3ff1-41da110aeec3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

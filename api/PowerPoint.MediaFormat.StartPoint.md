@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.StartPoint
 ms.assetid: a4628f91-0a8d-8416-b130-ef28eb528a6d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

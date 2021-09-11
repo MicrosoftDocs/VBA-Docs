@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.NumberFormatLocal
 ms.assetid: 3635d267-ecee-a5e9-f3e8-b4156f91d5d3
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

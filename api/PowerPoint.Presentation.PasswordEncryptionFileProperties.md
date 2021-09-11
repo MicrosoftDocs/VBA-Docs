@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.PasswordEncryptionFileProperties
 ms.assetid: 086ef0bb-5307-1445-3209-f3f79927965c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

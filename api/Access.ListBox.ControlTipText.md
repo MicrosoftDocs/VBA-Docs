@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ControlTipText
 ms.assetid: 27abccf5-e3f2-2c0c-06ee-4160eb447374
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.OLEFormat.Label
 ms.assetid: 3603bdee-3259-9068-9dfc-6861c253df97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

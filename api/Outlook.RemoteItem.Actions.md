@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.Actions
 ms.assetid: fcd2b35e-1fb9-eecb-d7f4-c42e7aa56f9c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

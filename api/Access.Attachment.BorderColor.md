@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.BorderColor
 ms.assetid: cd43f030-f832-c58a-a374-67a349c3d499
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

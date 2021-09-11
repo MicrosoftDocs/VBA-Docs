@@ -8,7 +8,7 @@ api_name:
 - Office.CustomTaskPane.Window
 ms.assetid: 8068fb04-0bd8-4711-1813-3198a2085256
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.CustomXMLPart.Creator
 ms.assetid: 0618751d-762d-62ba-249e-ed582c07fd61
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

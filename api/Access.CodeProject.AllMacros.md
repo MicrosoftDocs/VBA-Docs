@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.AllMacros
 ms.assetid: 493a515a-667d-ade9-bdd3-17305126d6ee
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

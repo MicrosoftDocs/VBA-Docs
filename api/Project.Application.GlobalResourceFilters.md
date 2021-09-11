@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GlobalResourceFilters
 ms.assetid: d3cd1f3f-7d46-612f-eaa1-3b3528ca4ab6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

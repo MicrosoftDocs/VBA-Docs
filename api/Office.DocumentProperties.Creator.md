@@ -8,7 +8,7 @@ api_name:
 - Office.DocumentProperties.Creator
 ms.assetid: 47ba7f73-b72e-2990-d35d-cd73b08b91cd
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

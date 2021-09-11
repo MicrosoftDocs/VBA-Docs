@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.SetDisplayedCategories
 ms.assetid: ae2290c3-43ff-c19d-63f8-41427aacd9ce
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

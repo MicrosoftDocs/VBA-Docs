@@ -5,7 +5,7 @@ api_name:
 - Office.NewFile.Creator
 ms.assetid: 86305588-d165-f72d-c38b-5bf5449810ef
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

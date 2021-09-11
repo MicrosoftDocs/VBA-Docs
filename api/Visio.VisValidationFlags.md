@@ -8,7 +8,7 @@ api_name:
 - Visio.VisValidationFlags
 ms.assetid: 5dbb841a-615e-5575-9eec-a2870e370e38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

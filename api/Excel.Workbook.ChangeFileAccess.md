@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ChangeFileAccess
 ms.assetid: 07f9cfc3-eece-efc1-6c03-38782ad7bcc2
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

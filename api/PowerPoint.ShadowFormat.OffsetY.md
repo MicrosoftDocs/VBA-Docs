@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShadowFormat.OffsetY
 ms.assetid: 286f5d2a-5601-f3d7-0ace-fc01f168224d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.VisSaveAsWeb.AttachToVisioDoc
 ms.assetid: ed2aba12-21b0-d953-8f5b-0634255f03b5
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

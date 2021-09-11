@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FindFile
 ms.assetid: c4367047-0f7d-1bda-5103-f26eedd98e8a
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

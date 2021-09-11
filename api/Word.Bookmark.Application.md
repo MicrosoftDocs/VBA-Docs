@@ -8,7 +8,7 @@ api_name:
 - Word.Bookmark.Application
 ms.assetid: d01f9125-72ff-2b49-a56a-7cc26b8ea4a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

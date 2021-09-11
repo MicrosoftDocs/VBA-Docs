@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeNodes.Delete
 ms.assetid: 09f7a8ef-cefd-5a68-f0a6-e99c2f111ea6
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

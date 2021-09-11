@@ -8,7 +8,7 @@ api_name:
 - Excel.VPageBreak.Type
 ms.assetid: 978801d6-2b21-39a4-4002-b09dd14a03f4
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

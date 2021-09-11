@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertNewPage
 ms.assetid: 54c7e18a-6dfb-b8da-0e6d-3c53e71f42cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

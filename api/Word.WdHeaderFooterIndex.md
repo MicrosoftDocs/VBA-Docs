@@ -5,7 +5,7 @@ api_name:
 - Word.WdHeaderFooterIndex
 ms.assetid: de39de15-b91e-4058-0eec-08ed16078a82
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

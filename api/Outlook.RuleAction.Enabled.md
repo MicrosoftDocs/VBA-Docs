@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleAction.Enabled
 ms.assetid: bea1a0e4-4fad-acc4-0b48-b2f64d996941
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

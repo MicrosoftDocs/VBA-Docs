@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BorderTint
 ms.assetid: 76bcaf37-6c2c-a3cf-6126-effbe218ba11
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.CellBorder.Weight
 ms.assetid: fb503000-5ca6-c917-ca9f-e3ba28a41114
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

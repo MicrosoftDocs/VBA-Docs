@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CodeContextObject
 ms.assetid: b675d334-33e6-b845-0dd9-6dca36f7b4ab
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

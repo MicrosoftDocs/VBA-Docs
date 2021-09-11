@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WorkbookBeforeXmlImport
 ms.assetid: 33c7f386-9eec-6ba4-519e-9480ab2f5a31
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Position
 ms.assetid: 362c6370-142d-e783-2802-64d2cf830b4f
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.OMathBorderBox.HideBot
 ms.assetid: b056075f-50c3-60bb-ee73-ddb0ee3e1ff6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

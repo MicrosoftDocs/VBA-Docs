@@ -8,7 +8,7 @@ api_name:
 - Word.Range.GoToNext
 ms.assetid: 011de2d6-c0fc-608f-8d7e-faac5947978d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

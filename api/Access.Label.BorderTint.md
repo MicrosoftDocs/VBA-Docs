@@ -8,7 +8,7 @@ api_name:
 - Access.Label.BorderTint
 ms.assetid: 7d095dcf-b8f9-15c5-36f2-5a20134ab98b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

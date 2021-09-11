@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Price
 ms.assetid: 5b7b4a72-98a4-9650-a6f4-38f3c8bb9346
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

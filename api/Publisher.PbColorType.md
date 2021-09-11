@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbColorType
 ms.assetid: 434758c9-d401-0a85-efff-e16d53c024b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.CurrentView
 ms.assetid: d1c33390-75f1-4e11-0735-a8860211b4ce
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

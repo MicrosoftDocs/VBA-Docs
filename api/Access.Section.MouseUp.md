@@ -8,7 +8,7 @@ api_name:
 - Access.Section.MouseUp
 ms.assetid: fcfb223c-b57e-5f3c-60aa-1a9edc149c48
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

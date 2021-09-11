@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Click
 ms.assetid: a32e55f6-65ec-26d0-32a5-8549bf4b30d7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

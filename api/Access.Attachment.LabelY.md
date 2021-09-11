@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.LabelY
 ms.assetid: 4ac59667-61bf-925c-a70a-0857fabcf2e1
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControlListEntry.Select
 ms.assetid: f600e267-39d9-238d-c6d2-9efba6b4044d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

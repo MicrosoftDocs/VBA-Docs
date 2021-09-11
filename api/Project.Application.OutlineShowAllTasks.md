@@ -8,7 +8,7 @@ api_name:
 - Project.Application.OutlineShowAllTasks
 ms.assetid: b8c089b5-f981-cdfd-7378-9e62259b43b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

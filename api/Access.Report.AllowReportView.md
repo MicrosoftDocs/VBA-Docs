@@ -8,7 +8,7 @@ api_name:
 - Access.Report.AllowReportView
 ms.assetid: 43db97fa-bdc0-883c-7b83-a7bbe7c62c07
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

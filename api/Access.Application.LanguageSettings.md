@@ -8,7 +8,7 @@ api_name:
 - Access.Application.LanguageSettings
 ms.assetid: f2b039bf-95a8-7820-355e-67fa5e47aaf6
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

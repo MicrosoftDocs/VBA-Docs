@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FillStyle
 ms.assetid: 0fcb840d-4ff6-718a-2267-25cd2622c8d2
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

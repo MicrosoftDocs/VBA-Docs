@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.ListFillRange
 ms.assetid: 1004b4a7-9315-7736-a71b-1d94d229fd7e
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

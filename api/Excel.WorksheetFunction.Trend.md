@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Trend
 ms.assetid: 3baae2ed-68c9-88b7-b44e-b5ea91bcbb1d
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

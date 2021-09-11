@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.EnableFieldList
 ms.assetid: 3f078d19-d2ec-1c1a-e039-69e8d7e21e95
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

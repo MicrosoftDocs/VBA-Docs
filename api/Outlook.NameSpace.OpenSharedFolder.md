@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.OpenSharedFolder
 ms.assetid: 907efeab-8a37-98a6-f241-0a051f03f472
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

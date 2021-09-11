@@ -8,7 +8,7 @@ api_name:
 - Word.Style.Borders
 ms.assetid: 6b53beed-8ff9-0d7f-fa83-037b0c6ceec1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

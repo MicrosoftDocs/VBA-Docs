@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.LinesCount
 ms.assetid: 0764107c-422d-5c97-1fd5-feae43579759
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

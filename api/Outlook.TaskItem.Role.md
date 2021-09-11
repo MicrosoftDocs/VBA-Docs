@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Role
 ms.assetid: 122d18ee-6a60-4a40-1b3e-66b8bd1c8a9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

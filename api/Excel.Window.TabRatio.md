@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.TabRatio
 ms.assetid: 41033d2d-9967-3990-b739-61c0649c24f3
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

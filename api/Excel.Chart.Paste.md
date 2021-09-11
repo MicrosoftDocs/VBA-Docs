@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Paste
 ms.assetid: e34d3d30-39f8-dbd4-1a39-d3ef9f84e0f4
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Frame.VerticalPosition
 ms.assetid: 584880c0-85e3-d96c-291f-5671b792f818
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.SplitHorizontal
 ms.assetid: 71f5aaaf-c519-dd51-410a-8f9039b11e65
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

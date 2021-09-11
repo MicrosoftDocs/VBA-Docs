@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition.ShortestBarValue
 ms.assetid: b262c385-0c12-87cc-45cc-83a658a61510
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

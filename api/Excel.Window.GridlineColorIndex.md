@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.GridlineColorIndex
 ms.assetid: c178bed5-8478-aea9-7cb4-2c7f498b533e
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Label.HyperlinkAddress
 ms.assetid: ed50cbbe-f0bb-d096-2c50-920ad2f48eb9
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

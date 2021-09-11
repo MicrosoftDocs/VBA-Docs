@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.BeforeUpdate
 ms.assetid: 9c887502-2d9c-6f21-e5ef-adc164cde095
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

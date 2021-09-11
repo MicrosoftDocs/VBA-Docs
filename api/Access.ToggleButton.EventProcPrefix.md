@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.EventProcPrefix
 ms.assetid: 80a9cfe1-87c1-b95d-f9a7-6afeca7c4755
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

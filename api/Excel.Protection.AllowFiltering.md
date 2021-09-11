@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowFiltering
 ms.assetid: dc0b8ab3-ea28-0692-9474-8f81cc395599
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

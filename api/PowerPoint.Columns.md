@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Columns
 ms.assetid: ba2fb830-bb60-b259-3a3f-1281f77d6368
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

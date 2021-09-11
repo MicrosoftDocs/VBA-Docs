@@ -8,7 +8,7 @@ api_name:
 - Publisher.CalloutFormat.CustomLength
 ms.assetid: 855df4af-a02f-fff3-9b12-af886a9788bc
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

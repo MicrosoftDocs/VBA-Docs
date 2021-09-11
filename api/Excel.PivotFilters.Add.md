@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFilters.Add
 ms.assetid: bf3bb727-4c00-1f8e-5acd-af0b974cba5b
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayFormat.Locked
 ms.assetid: 32941867-c714-cfa1-ad16-c214e745580e
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Table.Split
 ms.assetid: a96c6dff-8508-2a73-2f3a-fac755e026ff
 ms.date: 03/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

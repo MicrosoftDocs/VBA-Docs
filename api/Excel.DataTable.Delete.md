@@ -8,7 +8,7 @@ api_name:
 - Excel.DataTable.Delete
 ms.assetid: a5f3c5d3-6f8d-2a59-1329-9d6a1e2b528c
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

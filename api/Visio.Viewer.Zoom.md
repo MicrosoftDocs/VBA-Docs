@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.Zoom
 ms.assetid: 52bb7493-836e-1e1b-a91e-cb077f881c00
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

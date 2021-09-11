@@ -5,7 +5,7 @@ api_name:
 - Project.PjEnableCancelKey
 ms.assetid: a50ff9ef-7462-a414-8680-a127b1bdc9a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

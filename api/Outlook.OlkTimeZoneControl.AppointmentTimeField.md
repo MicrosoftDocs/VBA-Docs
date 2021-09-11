@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.AppointmentTimeField
 ms.assetid: 4b53560f-43b8-4bd8-4917-9a724e556782
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

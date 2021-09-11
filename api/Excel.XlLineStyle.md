@@ -5,7 +5,7 @@ api_name:
 - Excel.XlLineStyle
 ms.assetid: 602b5473-4a2e-e8a3-b846-8db77972f0b6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceFiles.Count
 ms.assetid: cc038461-99da-a257-204c-aac322f96e7f
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: PjEngagementViolationType enumeration (Project)
 ms.assetid: e65cf9c5-e122-a4ef-f8c1-efb27899e27b
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

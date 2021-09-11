@@ -3,7 +3,7 @@ title: VisDocExIntent enumeration (Visio)
 ms.prod: visio
 ms.assetid: ddf76405-46b9-0b4b-88c0-173297a0a24b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

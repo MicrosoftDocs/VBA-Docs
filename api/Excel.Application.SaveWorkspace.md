@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.SaveWorkspace
 ms.assetid: a95df3b2-1408-351b-05c4-177c8305420f
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

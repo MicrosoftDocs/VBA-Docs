@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.PathSeparator
 ms.assetid: 573ef52d-3f1a-4fa3-4d4b-f047be67f26f
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

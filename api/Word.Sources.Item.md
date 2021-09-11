@@ -8,7 +8,7 @@ api_name:
 - Word.Sources.Item
 ms.assetid: 350313b6-3646-b4ad-44a0-03a276a14bfe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

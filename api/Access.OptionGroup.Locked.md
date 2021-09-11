@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Locked
 ms.assetid: 3d131a07-41cf-a21c-afad-623f01ed14ad
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

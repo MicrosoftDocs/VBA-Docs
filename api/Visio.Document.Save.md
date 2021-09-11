@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Save
 ms.assetid: 5a9f104c-4893-c401-0093-bc860adf9a4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Style.LineBasedOn
 ms.assetid: eca82f5f-73e6-479b-e5b8-7680a32e274f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

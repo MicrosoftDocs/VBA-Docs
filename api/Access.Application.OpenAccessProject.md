@@ -8,7 +8,7 @@ api_name:
 - Access.Application.OpenAccessProject
 ms.assetid: fdc1b231-1512-cbcd-f376-935555861b38
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

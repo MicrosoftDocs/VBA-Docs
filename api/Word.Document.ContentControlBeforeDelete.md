@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ContentControlBeforeDelete
 ms.assetid: a690fb97-0de3-de0e-7e84-edaaea756e83
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

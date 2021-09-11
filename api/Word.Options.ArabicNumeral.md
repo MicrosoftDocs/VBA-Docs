@@ -8,7 +8,7 @@ api_name:
 - Word.Options.ArabicNumeral
 ms.assetid: d2dbb820-4b96-96ca-70d1-cd905190281a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

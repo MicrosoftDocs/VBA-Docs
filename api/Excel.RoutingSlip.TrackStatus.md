@@ -8,7 +8,7 @@ api_name:
 - Excel.RoutingSlip.TrackStatus
 ms.assetid: 3ef4ed69-1325-c557-c52d-307b2bd31280
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

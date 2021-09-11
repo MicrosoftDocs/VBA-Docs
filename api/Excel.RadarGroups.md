@@ -8,7 +8,7 @@ api_name:
 - Excel.RadarGroups
 ms.assetid: 5fbca532-ae99-fb41-dd1d-2d24909bf073
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

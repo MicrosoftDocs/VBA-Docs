@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.SpaceAfter
 ms.assetid: f00dff14-9d0b-aff5-c323-c1c71b28c127
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Section.HasContinued
 ms.assetid: 843cb415-5cab-f380-f6f9-854f91393576
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

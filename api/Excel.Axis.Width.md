@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.Width
 ms.assetid: e29e90aa-6a40-8776-4417-601e592f3a0d
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

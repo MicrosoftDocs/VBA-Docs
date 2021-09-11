@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfContents.Creator
 ms.assetid: 6ab6dab7-bc24-bae2-c1b6-a3b2f23f23f7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.ModifyAppliesToRange
 ms.assetid: 3baf8e16-4bb7-ec97-da0a-17187500f1f1
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

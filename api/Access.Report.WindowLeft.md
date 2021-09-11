@@ -8,7 +8,7 @@ api_name:
 - Access.Report.WindowLeft
 ms.assetid: 839ca3d7-4d53-c9e8-b47f-34f94eb5083f
 ms.date: 03/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

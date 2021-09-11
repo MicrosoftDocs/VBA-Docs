@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Duplicate
 ms.assetid: d4e32396-5d9e-2e10-3111-e0ceda52643e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

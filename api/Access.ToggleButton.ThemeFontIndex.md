@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ThemeFontIndex
 ms.assetid: c85eef50-220f-372d-9a86-2107a8447053
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DataEntry
 ms.assetid: 0a970904-10f9-d0c3-24d1-0b988725bb38
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

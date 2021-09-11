@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.MinorGridlines
 ms.assetid: f9e1168d-af71-6876-a289-a9e8d1db38cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

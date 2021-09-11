@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.AutoSize
 ms.assetid: 48f05f1b-8269-742f-20ca-6ebdde5fa682
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

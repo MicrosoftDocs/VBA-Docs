@@ -8,7 +8,7 @@ api_name:
 - Excel.Application
 ms.assetid: 19b73597-5cf9-4f56-8227-b5211f657f6f
 ms.date: 03/27/2019
-localization_priority: Priority
+ms.localizationpriority: high
 description: Application object (Excel)
 ---
 

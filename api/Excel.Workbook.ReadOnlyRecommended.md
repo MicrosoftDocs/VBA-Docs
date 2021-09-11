@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ReadOnlyRecommended
 ms.assetid: 3cae84e4-d5f0-f01c-64d9-ec586ffdf79c
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

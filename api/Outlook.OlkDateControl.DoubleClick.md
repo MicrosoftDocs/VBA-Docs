@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkDateControl.DoubleClick
 ms.assetid: 190ba56e-f4b2-ff11-0df9-1e98cdcef655
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpEntryEffect
 ms.assetid: fbaf1cfa-cd82-b5f6-074f-7a54d2905e06
 ms.date: 07/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

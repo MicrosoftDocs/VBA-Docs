@@ -8,7 +8,7 @@ api_name:
 - Access.Label.ThemeFontIndex
 ms.assetid: 56e24b5e-18c4-193a-95ec-dcfc5b8ff477
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

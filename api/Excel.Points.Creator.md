@@ -8,7 +8,7 @@ api_name:
 - Excel.Points.Creator
 ms.assetid: 2924d441-34b8-6a19-9591-57a2824248d5
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

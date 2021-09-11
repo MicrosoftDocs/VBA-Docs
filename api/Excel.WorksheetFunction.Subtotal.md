@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Subtotal
 ms.assetid: ec854287-1b12-8195-6b30-9101140d642e
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

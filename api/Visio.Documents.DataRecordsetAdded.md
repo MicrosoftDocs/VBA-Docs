@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.DataRecordsetAdded
 ms.assetid: 650fee65-2557-7707-4ff4-24ea700ab7ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

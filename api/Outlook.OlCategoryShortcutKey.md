@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlCategoryShortcutKey
 ms.assetid: 11e3f075-514c-f34c-453e-cf70ee128af5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

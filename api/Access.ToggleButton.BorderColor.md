@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.BorderColor
 ms.assetid: 0ef018d1-397f-f7e8-317e-639e85de0e98
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

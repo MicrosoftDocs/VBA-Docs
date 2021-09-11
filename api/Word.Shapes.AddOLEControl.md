@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.AddOLEControl
 ms.assetid: f0f5d8cb-ea31-58a9-f266-eff38610cf3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

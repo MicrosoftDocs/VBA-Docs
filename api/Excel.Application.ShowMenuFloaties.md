@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ShowMenuFloaties
 ms.assetid: 8c0ac60a-e2cc-25f9-3915-f8c8ecd3690d
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

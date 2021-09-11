@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectCellRight
 ms.assetid: 3753531a-5459-eb25-a9b9-2e9f748a0518
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

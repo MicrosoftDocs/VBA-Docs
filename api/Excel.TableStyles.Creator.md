@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyles.Creator
 ms.assetid: dc129be8-a2d9-b194-8759-88298470afe7
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.PressedColor
 ms.assetid: c5f446e8-d1a2-f4c9-08c1-7a809b5ae5b8
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

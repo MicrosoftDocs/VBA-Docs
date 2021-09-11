@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteSmartCutPaste
 ms.assetid: d25143d6-2c83-ce37-3f8e-3177af0eccdd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

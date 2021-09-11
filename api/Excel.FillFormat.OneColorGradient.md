@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat.OneColorGradient
 ms.assetid: dc44ddab-7aee-acd9-1008-1a9bbae13829
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

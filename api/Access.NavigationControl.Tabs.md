@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.Tabs
 ms.assetid: a8b2546c-9b1f-a8ff-1a6f-8e607415ffec
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.XlWindowType
 ms.assetid: eca25770-feb6-3723-9bbd-4d2186b8eafa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

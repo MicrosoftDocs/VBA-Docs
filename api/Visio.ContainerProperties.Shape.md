@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.Shape
 ms.assetid: 8d31264d-3cdf-35fa-b033-17e669131c4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

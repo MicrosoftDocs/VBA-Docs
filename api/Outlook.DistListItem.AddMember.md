@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.AddMember
 ms.assetid: 4c9b1310-1bbe-a5a1-9088-85efd18a7bf5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

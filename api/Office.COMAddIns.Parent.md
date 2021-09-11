@@ -8,7 +8,7 @@ api_name:
 - Office.COMAddIns.Parent
 ms.assetid: 1d0adb7a-867f-0241-8f13-1ba3310f201b
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

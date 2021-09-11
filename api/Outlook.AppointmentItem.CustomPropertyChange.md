@@ -5,7 +5,7 @@ api_name:
 - Outlook.AppointmentItem.CustomPropertyChange
 ms.assetid: f40abc41-efb5-d36e-229b-0b9fbbcf63cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

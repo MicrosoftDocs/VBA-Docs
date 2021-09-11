@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Formula
 ms.assetid: 3ede7311-fef4-eb8f-5776-25e492980593
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

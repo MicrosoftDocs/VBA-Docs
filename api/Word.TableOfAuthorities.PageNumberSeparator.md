@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfAuthorities.PageNumberSeparator
 ms.assetid: dad85c42-e819-1067-552e-e4387f344570
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

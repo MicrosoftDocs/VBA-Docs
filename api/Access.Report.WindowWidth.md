@@ -8,7 +8,7 @@ api_name:
 - Access.Report.WindowWidth
 ms.assetid: 55d2354d-1a7a-2432-f9ab-bef3f1920aa4
 ms.date: 03/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

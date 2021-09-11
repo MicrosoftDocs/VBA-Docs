@@ -3,7 +3,7 @@ title: OptionButton.WordWrap Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: e797c4ba-9b9e-d59d-b229-b2c652d06762
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

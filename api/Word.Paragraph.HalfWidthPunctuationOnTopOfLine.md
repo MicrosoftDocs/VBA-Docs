@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.HalfWidthPunctuationOnTopOfLine
 ms.assetid: 596456b6-cb29-9e9f-27ea-e8ad84d252f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

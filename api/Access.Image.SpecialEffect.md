@@ -8,7 +8,7 @@ api_name:
 - Access.Image.SpecialEffect
 ms.assetid: 30b9d6c8-4071-4eb0-27b8-cf4ddd7c44f7
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

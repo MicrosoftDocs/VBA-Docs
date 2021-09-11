@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OldBorderStyle
 ms.assetid: 64e0535d-d64d-1114-e01e-3cb1bcc62b2f
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

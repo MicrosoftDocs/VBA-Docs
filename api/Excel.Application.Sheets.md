@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Sheets
 ms.assetid: 729a512a-8faa-3a7e-758b-ff76e7200662
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

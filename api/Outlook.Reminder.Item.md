@@ -8,7 +8,7 @@ api_name:
 - Outlook.Reminder.Item
 ms.assetid: f8fb20c5-bb36-73c0-d7c3-252307e96140
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

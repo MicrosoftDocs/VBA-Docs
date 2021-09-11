@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Left
 ms.assetid: 01dc5c7c-4fc6-a2fe-fa27-c24ed0802dd6
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

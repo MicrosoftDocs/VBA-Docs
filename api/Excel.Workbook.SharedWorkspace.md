@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SharedWorkspace
 ms.assetid: 864fdee9-7149-360f-099d-e1a9b57a31db
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

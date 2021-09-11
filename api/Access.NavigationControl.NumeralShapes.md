@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.NumeralShapes
 ms.assetid: 207bbece-366e-bc72-876f-98c80f7bf6b5
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

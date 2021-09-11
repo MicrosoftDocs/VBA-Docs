@@ -8,7 +8,7 @@ api_name:
 - Access.Label.GridlineTint
 ms.assetid: 3f260e04-569f-b06a-57a0-31a5c0cb846d
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

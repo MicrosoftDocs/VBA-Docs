@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.BringForward
 ms.assetid: d12a81a5-6faa-6828-bdf0-279c27c89571
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

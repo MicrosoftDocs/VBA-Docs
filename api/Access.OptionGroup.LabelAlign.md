@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.LabelAlign
 ms.assetid: 701c5bc6-e81a-83e2-acf6-9756e3c86946
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

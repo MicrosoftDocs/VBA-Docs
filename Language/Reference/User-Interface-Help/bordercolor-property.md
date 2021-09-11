@@ -8,7 +8,7 @@ api_name:
 - Office.BorderColor
 ms.assetid: f5718e93-55fa-e3c6-5359-c9ccc7c7a76c
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

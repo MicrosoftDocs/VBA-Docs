@@ -8,7 +8,7 @@ api_name:
 - Access.Pages
 ms.assetid: e77c8d31-1cb7-d647-6faa-2eb234ce0708
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

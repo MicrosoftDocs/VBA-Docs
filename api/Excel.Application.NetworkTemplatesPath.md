@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.NetworkTemplatesPath
 ms.assetid: 4710091a-a655-dd49-7ad8-0f4c64eda13a
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

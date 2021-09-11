@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.OpenConnection
 ms.assetid: ed67b379-20aa-0d4c-11e0-3bb2fbe4ff06
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

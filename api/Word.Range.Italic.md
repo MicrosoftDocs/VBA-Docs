@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Italic
 ms.assetid: 7d52781a-46f2-7bca-067e-dc41772149fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

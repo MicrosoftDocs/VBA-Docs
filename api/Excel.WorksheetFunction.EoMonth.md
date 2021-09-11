@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.EoMonth
 ms.assetid: 46ffb33b-2992-88d4-59ed-5c0660fbbf5d
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

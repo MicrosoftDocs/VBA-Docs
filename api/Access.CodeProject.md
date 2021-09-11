@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject
 ms.assetid: 70b71f57-df23-2cf7-23f5-147053a8ec26
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

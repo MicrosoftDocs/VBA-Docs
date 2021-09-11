@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Sentences
 ms.assetid: fe870f13-d09f-efbf-1d2f-745f2c318c28
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

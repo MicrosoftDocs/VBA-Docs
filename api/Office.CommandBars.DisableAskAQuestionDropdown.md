@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.DisableAskAQuestionDropdown
 ms.assetid: a0954aa4-256c-4a14-6bab-959a00e9367d
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

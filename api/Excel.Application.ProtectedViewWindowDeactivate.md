@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ProtectedViewWindowDeactivate
 ms.assetid: 39df50ca-53e0-784a-a803-e9ac6f456d11
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartFormat.TextFrame2
 ms.assetid: 239a5c1e-5200-1271-6144-318ab7e28b08
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

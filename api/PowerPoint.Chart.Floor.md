@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.Floor
 ms.assetid: a599ed02-d137-f823-0a5e-325d3f8c7406
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Bold
 ms.assetid: 04723b36-43bb-4721-90a5-33447a9b742e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

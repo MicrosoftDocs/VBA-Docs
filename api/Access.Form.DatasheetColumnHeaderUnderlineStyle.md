@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetColumnHeaderUnderlineStyle
 ms.assetid: 9e689097-f3ed-bcda-9cc5-d423a3b92806
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

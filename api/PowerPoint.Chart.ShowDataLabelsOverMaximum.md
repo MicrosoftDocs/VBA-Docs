@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 92ca7542-3926-e7fd-0c45-5930646e6f04
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

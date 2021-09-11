@@ -5,7 +5,7 @@ api_name:
 - Project.PjResAssignOperation
 ms.assetid: 555d439a-6464-f5e1-a9f2-925640e321a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.SlideMaster
 ms.assetid: 86b11fcd-b979-6ffe-bda7-1b9c6e807d29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

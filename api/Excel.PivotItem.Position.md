@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItem.Position
 ms.assetid: 07e78622-f869-40d0-276a-b015ebe7a90f
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

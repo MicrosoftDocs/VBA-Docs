@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Count
 ms.assetid: 55e62f9b-7d7e-50bd-bd3b-0c2fdae903df
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

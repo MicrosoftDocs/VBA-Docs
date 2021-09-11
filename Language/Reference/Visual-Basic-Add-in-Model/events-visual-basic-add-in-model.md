@@ -8,7 +8,7 @@ f1_keywords:
 - vbob6.chm100150
 ms.assetid: ae90ce4d-7f61-4e7d-a4ab-7cf78028281a
 ms.date: 12/26/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

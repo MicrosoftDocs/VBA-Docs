@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsLogical
 ms.assetid: 1c7ac638-676c-6276-0604-5ecbf053407c
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

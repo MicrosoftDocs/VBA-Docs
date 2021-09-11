@@ -8,7 +8,7 @@ api_name:
 - Office.IMEMode
 ms.assetid: b47dd67c-f058-ad85-97ae-17efe46875ed
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

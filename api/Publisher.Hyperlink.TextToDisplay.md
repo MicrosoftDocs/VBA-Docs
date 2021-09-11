@@ -8,7 +8,7 @@ api_name:
 - Publisher.Hyperlink.TextToDisplay
 ms.assetid: 26b5857c-3f94-0d33-f65e-9c34f2a4cc2b
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

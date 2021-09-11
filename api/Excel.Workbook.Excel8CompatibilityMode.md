@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Excel8CompatibilityMode
 ms.assetid: 8471493b-8733-cddf-75fa-42d3d1719300
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

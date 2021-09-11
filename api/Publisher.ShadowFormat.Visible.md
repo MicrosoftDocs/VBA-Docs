@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShadowFormat.Visible
 ms.assetid: aac38753-320b-7c09-548c-318c8562e393
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetics.Add
 ms.assetid: 2a60a1cd-e15e-1341-2de8-953aa999ac07
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

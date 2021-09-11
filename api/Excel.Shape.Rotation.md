@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Rotation
 ms.assetid: 336d7d04-9c22-c632-5d85-feefff22023c
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Shape.TextEffect property (Project)
 ms.prod: project-server
 ms.assetid: 12fa0951-e3a5-807e-bebb-bff82650d200
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

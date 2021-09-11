@@ -8,7 +8,7 @@ api_name:
 - Publisher.Page.PageIndex
 ms.assetid: f64cc275-0474-7b97-d840-22e1e576d6f5
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

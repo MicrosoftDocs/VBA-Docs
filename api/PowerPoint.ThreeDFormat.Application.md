@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ThreeDFormat.Application
 ms.assetid: 958fcb9f-4eeb-d244-cdde-ecc62f09a58f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

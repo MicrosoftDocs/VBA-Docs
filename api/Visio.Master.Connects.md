@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.Connects
 ms.assetid: 72c01ae0-9134-d384-b860-dbb333a498fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

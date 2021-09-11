@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Erf
 ms.assetid: 1c40c49d-6866-084e-7b35-4caf3d97971e
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

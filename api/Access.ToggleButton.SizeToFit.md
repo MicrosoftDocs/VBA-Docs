@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.SizeToFit
 ms.assetid: 3533c064-f559-4eb4-4cca-add03df5e693
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

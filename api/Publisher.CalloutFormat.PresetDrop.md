@@ -8,7 +8,7 @@ api_name:
 - Publisher.CalloutFormat.PresetDrop
 ms.assetid: a709e54a-d08a-f83c-a0bf-bcdcfe6434cd
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

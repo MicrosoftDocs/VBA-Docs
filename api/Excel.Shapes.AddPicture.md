@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.AddPicture
 ms.assetid: 50a46fce-e87d-d5a8-3218-7843788f82bb
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

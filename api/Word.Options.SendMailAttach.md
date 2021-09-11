@@ -8,7 +8,7 @@ api_name:
 - Word.Options.SendMailAttach
 ms.assetid: e749ca30-089f-5116-ce70-a3d760006a2c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlFormatDateTime
 ms.assetid: b176f40b-cc51-95cc-1b82-accb1cefaa7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

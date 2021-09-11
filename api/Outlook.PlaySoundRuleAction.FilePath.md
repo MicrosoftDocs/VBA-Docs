@@ -8,7 +8,7 @@ api_name:
 - Outlook.PlaySoundRuleAction.FilePath
 ms.assetid: 8f27c644-aab4-4e9e-b563-0db7242cd86f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

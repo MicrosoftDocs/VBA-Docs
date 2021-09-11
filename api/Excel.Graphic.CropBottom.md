@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.CropBottom
 ms.assetid: ae0ab176-81c4-73ef-bfdb-e08c078dfc9e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

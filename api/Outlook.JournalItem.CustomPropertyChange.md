@@ -5,7 +5,7 @@ api_name:
 - Outlook.JournalItem.CustomPropertyChange
 ms.assetid: bdaad359-bc21-c8a9-c934-7acf92d836ae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

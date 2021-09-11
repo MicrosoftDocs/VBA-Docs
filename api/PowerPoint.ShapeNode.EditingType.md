@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeNode.EditingType
 ms.assetid: 6d7f285c-06a2-a9e6-dc3c-bddb1146640f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

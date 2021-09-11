@@ -4,7 +4,7 @@ description: Represents a digital signature attached to a document. Signature ob
 ms.prod: office
 ms.assetid: 1054db23-fe1c-f81f-e44b-d8c2c82ca7fa
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

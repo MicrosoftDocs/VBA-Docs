@@ -8,7 +8,7 @@ api_name:
 - Visio.Pages.PageChanged
 ms.assetid: 7e6f4eec-4043-fa9b-4225-6f5120676bde
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

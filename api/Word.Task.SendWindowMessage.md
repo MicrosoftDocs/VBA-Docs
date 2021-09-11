@@ -8,7 +8,7 @@ api_name:
 - Word.Task.SendWindowMessage
 ms.assetid: 3c4793b4-30cd-e27e-2b9f-cc5187304ddc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

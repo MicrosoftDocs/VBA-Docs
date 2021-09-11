@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DefaultSheetDirection
 ms.assetid: 33fad777-e2dd-99b5-9b33-a573a729b331
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

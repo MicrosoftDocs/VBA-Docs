@@ -5,7 +5,7 @@ api_name:
 - Word.WdConditionCode
 ms.assetid: 67a1b735-ad66-33a7-3e2c-cbdd708cb654
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

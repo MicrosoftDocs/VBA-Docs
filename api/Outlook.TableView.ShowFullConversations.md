@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.ShowFullConversations
 ms.assetid: 126cab84-5276-43bd-c19c-2d442e5a2aad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

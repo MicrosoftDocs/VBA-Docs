@@ -8,7 +8,7 @@ api_name:
 - Outlook.NotesModule.Position
 ms.assetid: 156677b0-2b18-e82a-69c1-4903fac8a47c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

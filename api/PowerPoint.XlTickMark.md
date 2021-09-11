@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.XlTickMark
 ms.assetid: aaf2d02a-7e21-8433-0b18-ecf9af32e3af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

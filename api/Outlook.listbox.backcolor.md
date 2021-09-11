@@ -3,7 +3,7 @@ title: ListBox.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: afd66dd8-5261-59d2-c4a6-047a00868e03
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Global.Parent
 ms.assetid: be8fd704-1ccc-23bd-d029-4a32ae1abf24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

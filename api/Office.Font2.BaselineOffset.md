@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.BaselineOffset
 ms.assetid: 93062fdc-25fd-3fe2-1b12-5301057bb1a7
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

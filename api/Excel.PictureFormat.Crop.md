@@ -5,7 +5,7 @@ api_name:
 - Excel.PictureFormat.Crop
 ms.assetid: 229fc83c-488f-887e-5ccf-b900c61ed840
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

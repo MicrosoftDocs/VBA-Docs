@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ProtectDrawingObjects
 ms.assetid: 6e65e306-ef55-7e05-41e2-14a1bbc1456e
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

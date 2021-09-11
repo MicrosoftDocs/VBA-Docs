@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.IsColor
 ms.assetid: ae466c89-8da0-986b-c3f8-b0aea651dffe
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

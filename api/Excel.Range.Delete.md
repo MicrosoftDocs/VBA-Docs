@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Delete
 ms.assetid: 7d890cc5-5b5b-35f9-2d97-e4fe48f244ee
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

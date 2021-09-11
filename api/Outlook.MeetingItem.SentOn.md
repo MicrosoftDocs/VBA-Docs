@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.SentOn
 ms.assetid: 361dfa26-6514-cc3a-aa1b-240728ac0dd9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

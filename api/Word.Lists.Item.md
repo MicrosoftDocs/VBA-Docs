@@ -8,7 +8,7 @@ api_name:
 - Word.Lists.Item
 ms.assetid: b4151fcc-b23d-e113-f417-b08efb1533be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

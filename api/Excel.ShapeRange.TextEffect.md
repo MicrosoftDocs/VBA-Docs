@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.TextEffect
 ms.assetid: 95c2ab5d-061e-f50e-fc2b-7c44ffca7ce9
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

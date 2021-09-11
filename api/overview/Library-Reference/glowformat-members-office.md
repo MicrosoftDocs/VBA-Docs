@@ -3,7 +3,7 @@ title: GlowFormat members (Office)
 ms.prod: office
 ms.assetid: 8d12e270-0b8b-930b-9c74-694b02a3a228
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

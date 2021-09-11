@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DDEPasteLink
 ms.assetid: f97547e7-b541-1a77-94a4-96da1a52ecb2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

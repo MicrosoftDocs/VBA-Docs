@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.Left
 ms.assetid: a6c8a129-b662-5fb7-4c5d-4f5d1c0aea34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

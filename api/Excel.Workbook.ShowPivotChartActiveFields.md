@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ShowPivotChartActiveFields
 ms.assetid: 8892b134-4882-e1ff-a265-65b36af66f1a
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

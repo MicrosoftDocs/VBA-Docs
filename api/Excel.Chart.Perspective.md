@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Perspective
 ms.assetid: 39367c4a-95a7-afe7-b3e4-29e10a88fbd3
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

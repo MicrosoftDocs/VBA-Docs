@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.OnEnter
 ms.assetid: 54894c2c-e0ab-8679-a55a-df44af856f8a
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

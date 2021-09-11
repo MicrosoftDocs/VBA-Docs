@@ -3,7 +3,7 @@ title: DataSpace (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 52bc0aa1-b3e6-4d2c-9a73-a9f185d028c4
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

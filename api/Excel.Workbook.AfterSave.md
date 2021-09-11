@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.AfterSave
 ms.assetid: 97fee36a-f77c-29ab-de1d-b6069b2d74d8
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

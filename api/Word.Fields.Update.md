@@ -8,7 +8,7 @@ api_name:
 - Word.Fields.Update
 ms.assetid: 55aaae86-015f-fc4f-ff7c-42fddad05c27
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CumIPmt
 ms.assetid: e8940dd7-26c2-ae9b-1876-1c61afcea33d
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

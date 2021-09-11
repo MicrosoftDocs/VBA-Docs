@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.BorderThemeColorIndex
 ms.assetid: 9256ceb3-6754-7c02-9625-2e79d5f0de01
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

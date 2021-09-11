@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.TabIndex
 ms.assetid: 7e04fd77-8f25-eaad-c902-526f69226322
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

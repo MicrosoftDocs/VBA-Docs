@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.TabStop
 ms.assetid: c22f2818-0c7f-522b-b17a-c4e32b26e99a
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.FormulaR1C1
 ms.assetid: 6e8f611d-2cd8-24d7-3cc8-f56ec611365a
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertStyleSeparator
 ms.assetid: cbfd7a55-4048-0e16-eeb2-e8d8d167a769
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

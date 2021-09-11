@@ -3,7 +3,7 @@ title: ICTPFactory members (Office)
 ms.prod: office
 ms.assetid: 34359a03-163f-40e5-88fe-ba7af0d73a14
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

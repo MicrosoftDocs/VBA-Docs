@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.AlternativeText
 ms.assetid: 13bc57af-7067-d60c-5096-a68b1f821d58
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

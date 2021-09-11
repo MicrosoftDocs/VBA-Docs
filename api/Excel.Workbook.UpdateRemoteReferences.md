@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.UpdateRemoteReferences
 ms.assetid: 055c1a88-c189-ddd3-c9b2-9458817cec90
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

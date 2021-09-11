@@ -8,7 +8,7 @@ api_name:
 - Excel.DropLines.Border
 ms.assetid: 71eab7d9-d579-a00c-de9a-758af5cb64e4
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicers.Count
 ms.assetid: bb5cafff-2c72-61b6-5c91-bd81594b03dd
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

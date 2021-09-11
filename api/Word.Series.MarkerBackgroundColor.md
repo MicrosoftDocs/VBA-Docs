@@ -8,7 +8,7 @@ api_name:
 - Word.Series.MarkerBackgroundColor
 ms.assetid: 8d2322fe-c482-b462-f344-7d174c897e81
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

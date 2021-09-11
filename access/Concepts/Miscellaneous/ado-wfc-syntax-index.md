@@ -3,7 +3,7 @@ title: ADO/WFC syntax index
 ms.prod: access
 ms.assetid: d49edfb1-bd76-b6cc-d023-753f4655ff11
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

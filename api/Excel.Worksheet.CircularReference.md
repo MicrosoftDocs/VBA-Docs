@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.CircularReference
 ms.assetid: 422c447d-a964-c17c-bb43-14254f962a89
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

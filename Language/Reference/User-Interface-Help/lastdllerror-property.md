@@ -8,7 +8,7 @@ api_name:
 - Office.LastDLLError
 ms.assetid: ed946e1e-a60a-576f-c6b6-0bec91b3d21d
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

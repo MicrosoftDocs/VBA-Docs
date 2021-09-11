@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.DisplayWhen
 ms.assetid: c03fdd8a-854a-8738-e904-7f857b94e52b
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

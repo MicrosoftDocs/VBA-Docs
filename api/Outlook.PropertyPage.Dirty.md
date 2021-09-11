@@ -8,7 +8,7 @@ api_name:
 - Outlook.PropertyPage.Dirty
 ms.assetid: fb654f40-9b80-654c-395a-811923dfb903
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

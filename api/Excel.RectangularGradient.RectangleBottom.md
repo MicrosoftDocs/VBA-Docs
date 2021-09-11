@@ -8,7 +8,7 @@ api_name:
 - Excel.RectangularGradient.RectangleBottom
 ms.assetid: f721689b-1d5f-85ac-e4e0-be802a828565
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

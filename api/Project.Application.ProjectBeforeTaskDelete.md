@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeTaskDelete
 ms.assetid: 3acc4ba4-0fdc-61fd-17df-e6450055a39b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

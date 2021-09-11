@@ -8,7 +8,7 @@ api_name:
 - Word.Options.DefaultBorderLineWidth
 ms.assetid: ab0ab48b-c05b-9be7-810e-2c97eb8ec2b7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

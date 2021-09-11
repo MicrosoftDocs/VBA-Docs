@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AlwaysUseClearType
 ms.assetid: f848fedf-8dc4-83c5-e2c6-e20db4d0eb0b
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

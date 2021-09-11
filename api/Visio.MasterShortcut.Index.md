@@ -8,7 +8,7 @@ api_name:
 - Visio.MasterShortcut.Index
 ms.assetid: aa2bf63b-ef42-74ec-f631-eb0700d9f392
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

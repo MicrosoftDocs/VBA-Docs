@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.StartTimer
 ms.assetid: ce293d24-8262-9d6a-8d9f-dbe8c3ce4e0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

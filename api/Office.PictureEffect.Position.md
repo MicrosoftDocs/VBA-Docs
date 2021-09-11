@@ -5,7 +5,7 @@ api_name:
 - Office.PictureEffect.Position
 ms.assetid: 29c2d136-777f-5984-3018-3dae2721ed76
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.BorderStyle
 ms.assetid: f0e06cd9-fe13-56a6-4251-8d14ac9b9d91
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

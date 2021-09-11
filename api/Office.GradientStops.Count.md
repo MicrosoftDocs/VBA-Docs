@@ -5,7 +5,7 @@ api_name:
 - Office.GradientStops.Count
 ms.assetid: d43892a5-8abc-38fc-efc1-311dc8125575
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

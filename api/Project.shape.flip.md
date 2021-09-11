@@ -3,7 +3,7 @@ title: Shape.Flip method (Project)
 ms.prod: project-server
 ms.assetid: 7be8741c-d476-39ab-6aaf-2022417824b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

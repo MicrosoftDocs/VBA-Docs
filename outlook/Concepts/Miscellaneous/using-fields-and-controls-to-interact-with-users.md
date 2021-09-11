@@ -3,7 +3,7 @@ title: Using Fields and Controls to Interact with Users
 ms.prod: outlook
 ms.assetid: ed55d122-d546-40fe-852c-0e2a9d498f6a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.Move
 ms.assetid: 841dfb2e-4e73-7a82-875c-8e3ad52c6cd0
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

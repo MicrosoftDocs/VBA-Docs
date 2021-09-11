@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfFigures.Caption
 ms.assetid: 66848200-1eaa-f0ed-f270-51339de1f213
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

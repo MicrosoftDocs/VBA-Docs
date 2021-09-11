@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.FillAdjacentFormulas
 ms.assetid: 513a9218-a0b9-2bf6-ebac-1d9e7bb594df
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

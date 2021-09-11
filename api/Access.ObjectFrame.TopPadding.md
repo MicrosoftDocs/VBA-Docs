@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.TopPadding
 ms.assetid: cbc4038c-e9e8-7e57-5bb2-7cafe917c6b3
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

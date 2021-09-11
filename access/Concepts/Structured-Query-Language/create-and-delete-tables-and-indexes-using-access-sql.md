@@ -3,7 +3,7 @@ title: Create and delete tables and indexes using Access SQL
 ms.prod: access
 ms.assetid: 44c9e6a7-ac29-7a88-e0c6-b7eaec1e95ea
 ms.date: 07/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

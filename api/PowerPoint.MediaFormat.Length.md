@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.Length
 ms.assetid: ba162f0c-4a96-949d-ac90-751a8ba07b7b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

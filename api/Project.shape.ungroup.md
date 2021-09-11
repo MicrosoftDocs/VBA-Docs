@@ -3,7 +3,7 @@ title: Shape.Ungroup method (Project)
 ms.prod: project-server
 ms.assetid: 3b2447ec-2639-e9dd-3c39-172e58f74bbe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.FontWeight
 ms.assetid: 23b07172-e1da-bd97-0515-a6c52da4636a
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

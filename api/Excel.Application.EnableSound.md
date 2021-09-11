@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.EnableSound
 ms.assetid: 8372b9dd-2929-6b5d-f51b-4409349dd6e6
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

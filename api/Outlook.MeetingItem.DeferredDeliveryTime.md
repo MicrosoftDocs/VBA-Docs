@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.DeferredDeliveryTime
 ms.assetid: 1d68f55d-dd1c-f043-8d7b-f96f0e981cbc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

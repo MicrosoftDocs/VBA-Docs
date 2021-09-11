@@ -8,7 +8,7 @@ api_name:
 - Publisher.Page.SaveAsPicture
 ms.assetid: 9b118126-e072-9516-9863-14ea60264f01
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

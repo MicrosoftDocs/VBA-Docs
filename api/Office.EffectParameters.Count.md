@@ -5,7 +5,7 @@ api_name:
 - Office.EffectParameters.Count
 ms.assetid: 19f2caa5-a393-4164-9b3e-560be1ccdf34
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

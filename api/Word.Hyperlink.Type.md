@@ -8,7 +8,7 @@ api_name:
 - Word.Hyperlink.Type
 ms.assetid: 8ee720a4-6335-2f80-fb45-233cdf29e244
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

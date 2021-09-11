@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.Left
 ms.assetid: 3b5dd250-f727-7653-82fa-2e187d8b625f
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.SmallScroll
 ms.assetid: d41345f6-1b46-0772-afba-81d377acc90f
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

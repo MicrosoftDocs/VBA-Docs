@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.BackColor
 ms.assetid: c73bd932-ebfe-8b3b-5dc2-0c88a6210c94
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

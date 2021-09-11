@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.MapPaperSize
 ms.assetid: c1d83fab-6abc-9103-78cf-047a503688b1
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

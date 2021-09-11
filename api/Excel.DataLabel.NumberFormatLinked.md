@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.NumberFormatLinked
 ms.assetid: 80e17e98-3657-70c1-8d9a-c37a9a99671c
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

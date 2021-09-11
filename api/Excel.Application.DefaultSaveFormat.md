@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DefaultSaveFormat
 ms.assetid: bb5c50db-8ba3-f79a-4577-f293ebc52b50
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

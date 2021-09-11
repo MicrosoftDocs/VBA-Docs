@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.VerticalAnchor
 ms.assetid: 0a4658e3-3406-a9f6-58e8-e284e95fe616
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

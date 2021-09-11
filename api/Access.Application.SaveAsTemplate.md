@@ -8,7 +8,7 @@ api_name:
 - Access.Application.SaveAsTemplate
 ms.assetid: 3f796181-70c7-f372-92e9-0c2dbbc7262a
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

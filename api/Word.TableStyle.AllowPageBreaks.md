@@ -8,7 +8,7 @@ api_name:
 - Word.TableStyle.AllowPageBreaks
 ms.assetid: 0302c49d-789f-593a-dee6-dbcc4cd6c449
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

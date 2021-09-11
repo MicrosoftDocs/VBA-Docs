@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.LeftIndent
 ms.assetid: cf4a4205-9123-505b-0f75-d021ac188035
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

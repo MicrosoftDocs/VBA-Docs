@@ -8,7 +8,7 @@ api_name:
 - Excel.SortField.CustomOrder
 ms.assetid: 02ac5d01-c4ea-bc10-b516-f9a424790287
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

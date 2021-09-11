@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.PromptForSummaryInfo
 ms.assetid: 6a7799d7-327f-fdea-9c01-da48cf85655b
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

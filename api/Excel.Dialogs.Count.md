@@ -8,7 +8,7 @@ api_name:
 - Excel.Dialogs.Count
 ms.assetid: aafcfb50-68fc-4e02-47d7-1317df4d343a
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

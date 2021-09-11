@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.DisplayWhen
 ms.assetid: dc4956e8-a34b-f4b6-d7fb-a095c74d63ef
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

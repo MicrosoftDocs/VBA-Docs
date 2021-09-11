@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.CreationTime
 ms.assetid: 95c48449-2488-4110-a498-e9a9a563d54f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

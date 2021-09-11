@@ -8,7 +8,7 @@ api_name:
 - Access.Form.BeforeInsert
 ms.assetid: de0f6b1a-fc11-4000-2c0c-b0ad9ccfccc2
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

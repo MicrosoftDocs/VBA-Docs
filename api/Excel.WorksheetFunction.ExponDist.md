@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ExponDist
 ms.assetid: 4e940718-309f-8194-7395-5abcf3adeae3
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.Redo
 ms.assetid: a72c916c-cf52-d9f3-b2ee-e0225f4b6940
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

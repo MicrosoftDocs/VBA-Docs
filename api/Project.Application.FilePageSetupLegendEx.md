@@ -8,7 +8,7 @@ api_name:
 - Project.Application.FilePageSetupLegendEx
 ms.assetid: 5cc6c6c1-2228-9c12-3ba6-fd124852a7aa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

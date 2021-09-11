@@ -5,7 +5,7 @@ api_name:
 - Excel.FillFormat.Creator
 ms.assetid: f4e02d6c-49b7-d837-c090-096975d8efb1
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Field.PhoneticGuide
 ms.assetid: c68dba00-56c0-abba-0be8-5bd1a725f678
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

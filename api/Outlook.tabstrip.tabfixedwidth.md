@@ -3,7 +3,7 @@ title: TabStrip.TabFixedWidth Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 3db4e0d2-c97b-a75b-3af6-b1678a1d5116
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

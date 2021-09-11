@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.PrintCommunication
 ms.assetid: 8b8ad1c5-1999-d733-44f4-734b7a388986
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

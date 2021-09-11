@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ZTest
 ms.assetid: 24d85668-2502-14b5-73b7-24a5dae7c332
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

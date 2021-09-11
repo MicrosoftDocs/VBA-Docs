@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbooks.Add
 ms.assetid: ea9f2a2c-3cad-0c35-37b5-82da2f24b876
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

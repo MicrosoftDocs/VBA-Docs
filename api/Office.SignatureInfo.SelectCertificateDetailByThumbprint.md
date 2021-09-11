@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureInfo.SelectCertificateDetailByThumbprint
 ms.assetid: 997010ee-330f-433d-c62c-bf211b8351d6
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PrintDrillIndicators
 ms.assetid: d0b90ecf-46f9-a85b-48af-d03eadbad090
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

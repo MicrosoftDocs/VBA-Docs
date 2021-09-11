@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.GeoMean
 ms.assetid: 9b999236-a220-10b2-890e-8d863c74bc74
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

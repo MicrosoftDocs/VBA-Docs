@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.IPAtEndOfLine
 ms.assetid: 8db37c0f-6c68-7ccd-0c34-9a40b62b9e9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

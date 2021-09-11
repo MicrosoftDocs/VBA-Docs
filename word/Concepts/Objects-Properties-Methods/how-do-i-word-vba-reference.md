@@ -3,7 +3,7 @@ title: How do I... (Word)
 ms.prod: word
 ms.assetid: 93242a67-809e-5e31-d8c4-50430332ab5a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

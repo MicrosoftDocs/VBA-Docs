@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ColumnHidden
 ms.assetid: 631ab036-cdbe-c471-a2bb-10172032bfcf
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

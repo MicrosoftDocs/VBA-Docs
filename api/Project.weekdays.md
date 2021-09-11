@@ -3,7 +3,7 @@ title: WeekDays object (Project)
 ms.prod: project-server
 ms.assetid: 757437a0-e2ff-0027-f044-87d1cb357f62
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Resource.WindowsUserAccount
 ms.assetid: 3183283f-3a35-c6da-8d5d-40fb3fd39bc2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

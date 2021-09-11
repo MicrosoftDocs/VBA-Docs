@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.GridlineTint
 ms.assetid: 83b2b75b-7c9d-0e6c-1015-eeead18cb20b
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.KeysBoundTo.CommandParameter
 ms.assetid: de72887d-0970-05e5-84e2-4ba4c5c6ae45
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

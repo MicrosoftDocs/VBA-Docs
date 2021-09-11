@@ -8,7 +8,7 @@ api_name:
 - Visio.Connects.Stat
 ms.assetid: e51e58fb-a7b5-b18e-3f53-8ab1ff4d2994
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

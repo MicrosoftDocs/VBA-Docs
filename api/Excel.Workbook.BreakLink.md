@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.BreakLink
 ms.assetid: 1e9d70c1-908e-92eb-26b8-d6ac753cc9c2
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

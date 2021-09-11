@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.Gutter
 ms.assetid: ec16576d-1b77-543e-aa8a-b52457f56675
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

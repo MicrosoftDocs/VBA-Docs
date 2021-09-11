@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.DblClick
 ms.assetid: cc43d05a-b8a6-8a6b-8baf-74ad3753515f
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

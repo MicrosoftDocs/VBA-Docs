@@ -8,7 +8,7 @@ api_name:
 - Access.Label.BorderColor
 ms.assetid: 1144f996-1262-2dd5-edcc-ec1616a1e86c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

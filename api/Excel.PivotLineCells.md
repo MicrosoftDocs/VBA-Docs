@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotLineCells
 ms.assetid: cfa51fcd-3384-4c75-3ae9-4a2c1d92a489
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

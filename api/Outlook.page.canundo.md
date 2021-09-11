@@ -3,7 +3,7 @@ title: Page.CanUndo Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 86494409-ae9f-4830-c7dd-f5e8284e04b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

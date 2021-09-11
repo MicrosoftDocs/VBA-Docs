@@ -8,7 +8,7 @@ api_name:
 - Word.PlotArea.Height
 ms.assetid: 03e7f6cd-7c5b-4d00-6d99-e20c3be28044
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

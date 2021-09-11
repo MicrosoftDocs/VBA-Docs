@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.Enter
 ms.assetid: ddeab2d3-1dfa-3f49-4480-1234196afb4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

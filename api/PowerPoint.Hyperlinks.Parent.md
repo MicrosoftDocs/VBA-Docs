@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Hyperlinks.Parent
 ms.assetid: ac7d6adf-288a-3459-a259-0dec4cbcf56b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

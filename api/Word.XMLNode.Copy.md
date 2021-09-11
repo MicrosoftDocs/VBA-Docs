@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.Copy
 ms.assetid: 7e68ff98-d80e-4723-1b0f-9575dea6aa16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

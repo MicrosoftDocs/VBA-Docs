@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.Delete
 ms.assetid: a9cddae9-0de3-c52b-026b-ecc564dca657
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

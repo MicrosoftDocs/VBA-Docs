@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.Depth
 ms.assetid: ef38cda1-5bf0-df3e-aee5-96f18fb1c600
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

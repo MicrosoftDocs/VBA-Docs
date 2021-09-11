@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.FontSize
 ms.assetid: 4abc5ab0-8d34-1f87-6e23-706e4d3c9e88
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

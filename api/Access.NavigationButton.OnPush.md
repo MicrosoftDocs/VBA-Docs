@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.OnPush
 ms.assetid: 09b91008-ab58-d7d6-40af-aeb2e41d8823
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

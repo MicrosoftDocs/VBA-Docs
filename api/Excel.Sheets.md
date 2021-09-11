@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets
 ms.assetid: 048fd93c-bc27-4b58-358f-56fcee1710f8
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

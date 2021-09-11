@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OpenArgs
 ms.assetid: f18ed66f-01e0-b8a3-a15b-687e738aafe6
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

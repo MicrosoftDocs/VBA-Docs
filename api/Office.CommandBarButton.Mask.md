@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarButton.Mask
 ms.assetid: de7179ac-6b39-2323-d84a-23abe3ed3167
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

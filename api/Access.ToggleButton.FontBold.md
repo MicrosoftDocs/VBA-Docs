@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.FontBold
 ms.assetid: d9c5bca6-1a89-2eb5-07dc-f855f1ea1580
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.DropIntoList
 ms.assetid: fcefca11-d64b-9f95-a00e-bf9968d26267
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

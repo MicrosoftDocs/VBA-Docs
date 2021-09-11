@@ -8,7 +8,7 @@ api_name:
 - Word.Rows.DistributeHeight
 ms.assetid: f5fe9eea-debc-c1e4-b9a0-81c5f9a0c04a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ListColumn.XPath
 ms.assetid: a025d423-4291-c40a-96b9-e1f807d4b388
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

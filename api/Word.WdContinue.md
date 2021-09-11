@@ -5,7 +5,7 @@ api_name:
 - Word.WdContinue
 ms.assetid: d0cec752-c3d7-bcbe-9065-60b319490558
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

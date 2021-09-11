@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.BorderStyle
 ms.assetid: a1156f6c-5649-ddef-619d-d15a57bb581a
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Index.AccentedLetters
 ms.assetid: 7358af59-a4ee-e509-2a46-d5499dc680d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

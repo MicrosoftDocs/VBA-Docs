@@ -8,7 +8,7 @@ api_name:
 - Access.Control.Layout
 ms.assetid: c290a3e7-bba1-0d67-1e82-a53a4b7b2588
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

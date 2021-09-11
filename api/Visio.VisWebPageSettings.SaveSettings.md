@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.SaveSettings
 ms.assetid: c3b7ba3c-23a0-285f-c668-d220e9d99833
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

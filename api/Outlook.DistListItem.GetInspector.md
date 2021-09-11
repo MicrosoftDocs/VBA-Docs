@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.GetInspector
 ms.assetid: 2ffab19b-17a3-0de0-f9dd-3a8fbfea8efd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

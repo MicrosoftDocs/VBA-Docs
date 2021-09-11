@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.EnableFormatConditionsCalculation
 ms.assetid: f1f56d9f-3a0f-e3d4-f686-1a695a55604e
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

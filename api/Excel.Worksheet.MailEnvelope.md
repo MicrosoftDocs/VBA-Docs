@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.MailEnvelope
 ms.assetid: 9490f86c-a82f-d1ab-7315-29b89c799301
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

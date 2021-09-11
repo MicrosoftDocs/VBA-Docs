@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.IgnoreBlank
 ms.assetid: 91913061-9cc7-8e96-11c3-67d7b84e2e25
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

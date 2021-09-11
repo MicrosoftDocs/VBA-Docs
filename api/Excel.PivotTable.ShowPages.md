@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ShowPages
 ms.assetid: 7ebb55ab-ecda-31f7-23d2-fdefc12ee161
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

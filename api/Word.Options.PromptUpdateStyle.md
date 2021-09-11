@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PromptUpdateStyle
 ms.assetid: 0646e8e2-3462-14c7-7e73-d35ad9a20724
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

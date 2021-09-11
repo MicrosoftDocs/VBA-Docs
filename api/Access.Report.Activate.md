@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Activate
 ms.assetid: 565cf35c-e7ea-e1ec-b23b-b84a6318fde7
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

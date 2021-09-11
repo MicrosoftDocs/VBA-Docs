@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Ddb
 ms.assetid: 7514f3b3-ca21-ec3f-28c5-f34281fc1a1f
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

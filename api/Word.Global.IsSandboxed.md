@@ -8,7 +8,7 @@ api_name:
 - Word.Global.IsSandboxed
 ms.assetid: 12bef36b-7ec6-5b43-f8b8-dbb5dacef868
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

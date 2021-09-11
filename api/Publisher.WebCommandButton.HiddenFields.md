@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCommandButton.HiddenFields
 ms.assetid: 187553fb-a4d3-a1fb-f583-49e1d76992ec
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

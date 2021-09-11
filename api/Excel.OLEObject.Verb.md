@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Verb
 ms.assetid: c5714863-641c-1bfd-5688-9267494fb12d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

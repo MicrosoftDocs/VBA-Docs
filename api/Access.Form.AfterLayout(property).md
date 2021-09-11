@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AfterLayout
 ms.assetid: 8d548e7b-6d68-4631-2c59-f6b8d39cbb12
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.Background
 ms.assetid: 8af622b9-029a-6839-7a44-fdf96fe75dc9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

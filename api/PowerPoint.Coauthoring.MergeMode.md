@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Coauthoring.MergeMode
 ms.assetid: b97391fd-c470-0fe5-ec1d-4d81e0ed02b8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Lists
 ms.assetid: 06d5539e-f0a2-0c93-4ade-26403eb6433e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

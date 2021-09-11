@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeMatchParentheses
 ms.assetid: bdb04e6e-a979-341c-fe6c-f7de33c1b568
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

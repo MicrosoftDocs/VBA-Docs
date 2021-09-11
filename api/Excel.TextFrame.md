@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame
 ms.assetid: 4a6d2201-84b8-d83a-cc13-703da047815e
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

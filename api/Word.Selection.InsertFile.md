@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertFile
 ms.assetid: 963a5987-e6f8-824a-47d6-9788f026cf10
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

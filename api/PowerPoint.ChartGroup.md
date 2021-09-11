@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartGroup
 ms.assetid: 5caa5855-bd69-3fbc-f601-504e431a42e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

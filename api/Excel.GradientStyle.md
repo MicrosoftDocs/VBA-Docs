@@ -8,7 +8,7 @@ api_name:
 - Excel.GradientStyle
 ms.assetid: 042a271c-165c-ba10-9702-7db744654760
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.PickUp
 ms.assetid: 35730a7e-3878-dfae-2aba-3395d41e5f3e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

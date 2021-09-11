@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.LastModificationTime
 ms.assetid: fa538cad-d82e-8e4f-5884-4bdc2505b3b6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

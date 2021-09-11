@@ -8,7 +8,7 @@ api_name:
 - Visio.Masters.Paste
 ms.assetid: fb355d9b-7b5f-469e-3a75-f1b0fed7300b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

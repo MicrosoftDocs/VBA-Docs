@@ -8,7 +8,7 @@ api_name:
 - Excel.Gridlines.Select
 ms.assetid: 186e7b88-99ee-6afa-23ab-864be0471ef1
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

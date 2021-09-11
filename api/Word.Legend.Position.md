@@ -8,7 +8,7 @@ api_name:
 - Word.Legend.Position
 ms.assetid: 62d90af0-cbab-430e-3bbe-ac6058d2dfa6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

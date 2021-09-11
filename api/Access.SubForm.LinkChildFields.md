@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.LinkChildFields
 ms.assetid: 74daa999-e531-88df-117b-ca7b3b6c795f
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

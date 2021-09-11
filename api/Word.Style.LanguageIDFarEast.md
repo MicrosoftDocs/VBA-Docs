@@ -8,7 +8,7 @@ api_name:
 - Word.Style.LanguageIDFarEast
 ms.assetid: f36c06a7-82e8-f934-9566-4c1275ed3e8c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

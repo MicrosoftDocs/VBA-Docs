@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.Categories
 ms.assetid: 6ecad980-eedd-b27a-1677-f8027adb6de8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

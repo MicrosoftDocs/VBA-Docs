@@ -8,7 +8,7 @@ api_name:
 - Excel.Name.ValidWorkbookParameter
 ms.assetid: fd8bef70-af4f-af01-1956-24b50ea210be
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

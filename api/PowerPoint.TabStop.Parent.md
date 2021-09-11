@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TabStop.Parent
 ms.assetid: 3edf1cbb-d979-7b86-9685-5f29163e916b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

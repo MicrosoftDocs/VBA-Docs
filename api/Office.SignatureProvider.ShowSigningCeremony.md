@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureProvider.ShowSigningCeremony
 ms.assetid: d098e755-2f64-4801-6b5c-ef36d721ee9c
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

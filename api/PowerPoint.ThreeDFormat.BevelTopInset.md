@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.BevelTopInset
 ms.assetid: 0589abd5-80e6-2079-1f51-93c57de594a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

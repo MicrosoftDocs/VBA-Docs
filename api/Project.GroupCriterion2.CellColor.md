@@ -5,7 +5,7 @@ api_name:
 - Project.GroupCriterion2.CellColor
 ms.assetid: f6d43a9d-7c5b-16bc-dd9e-fc33ae511959
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

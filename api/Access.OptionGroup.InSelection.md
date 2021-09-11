@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.InSelection
 ms.assetid: faae80ea-95ab-bcae-d923-39d264612e84
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

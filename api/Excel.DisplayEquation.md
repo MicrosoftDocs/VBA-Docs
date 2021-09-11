@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayEquation
 ms.assetid: f3638bfd-d25d-96b4-5c20-2acf8703658d
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

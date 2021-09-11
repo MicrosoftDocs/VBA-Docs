@@ -5,7 +5,7 @@ api_name:
 - Office.DocumentLibraryVersion.Creator
 ms.assetid: 634bd139-a0bb-ffc0-436f-22a5d7c77918
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

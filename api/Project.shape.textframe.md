@@ -3,7 +3,7 @@ title: Shape.TextFrame property (Project)
 ms.prod: project-server
 ms.assetid: 73227e78-07d0-874a-85b1-5aac91bff6cf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

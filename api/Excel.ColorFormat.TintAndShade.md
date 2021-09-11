@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorFormat.TintAndShade
 ms.assetid: b548b2ad-da3d-0d02-249e-2ab37271a5c6
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

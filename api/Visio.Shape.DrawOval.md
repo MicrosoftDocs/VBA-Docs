@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.DrawOval
 ms.assetid: 7f561251-251e-6aa9-5291-5919ccce1a9e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

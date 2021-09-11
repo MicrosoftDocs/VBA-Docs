@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Series.Points
 ms.assetid: 53bec845-d3a0-fdce-921b-66d2d4e1eb59
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

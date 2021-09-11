@@ -8,7 +8,7 @@ api_name:
 - Excel.DoughnutGroups
 ms.assetid: 41ca4213-c17b-7bba-c357-7ba65fd55d39
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

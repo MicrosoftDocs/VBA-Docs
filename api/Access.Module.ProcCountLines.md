@@ -8,7 +8,7 @@ api_name:
 - Access.Module.ProcCountLines
 ms.assetid: d85cacb5-127a-68a1-3bff-cc13a8a7e9ed
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

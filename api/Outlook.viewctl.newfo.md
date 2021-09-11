@@ -3,7 +3,7 @@ title: ViewCtl.NewForm Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 196834c0-eb2b-56a1-3f40-d2ed7e0fa792
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

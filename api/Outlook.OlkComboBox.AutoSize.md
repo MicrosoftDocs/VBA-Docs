@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.AutoSize
 ms.assetid: a7206a65-eb22-d671-3a19-2826f21f8e6f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

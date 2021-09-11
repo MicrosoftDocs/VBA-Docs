@@ -8,7 +8,7 @@ api_name:
 - Excel.CalloutFormat.DropType
 ms.assetid: ab947fa4-4af9-e491-f62d-e0ca036e1892
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.DisplayUnitLabel
 ms.assetid: e3a78e7b-464e-80b0-8bde-49f08ab4c842
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Task.Width
 ms.assetid: 3cba40e6-d097-04ff-d42c-435ae7fb57f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

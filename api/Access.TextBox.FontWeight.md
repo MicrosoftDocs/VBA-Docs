@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.FontWeight
 ms.assetid: 4dbf8092-c09c-c6ec-9476-20af2e9cf051
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

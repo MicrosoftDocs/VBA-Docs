@@ -8,7 +8,7 @@ api_name:
 - Word.PageNumbers.NumberStyle
 ms.assetid: 5a7a3101-3b16-a107-8790-3666fa7fba54
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

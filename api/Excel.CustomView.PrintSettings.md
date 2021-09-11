@@ -8,7 +8,7 @@ api_name:
 - Excel.CustomView.PrintSettings
 ms.assetid: 6ad51940-134c-f522-42f3-3d94da2ac21c
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextFrame.DeleteText
 ms.assetid: 0971765b-8d2c-a34a-7184-119af42be835
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

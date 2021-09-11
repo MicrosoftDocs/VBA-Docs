@@ -5,7 +5,7 @@ api_name:
 - Excel.XlFormatConditionOperator
 ms.assetid: f395f440-0870-513d-a1ae-0a15262f1a7a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

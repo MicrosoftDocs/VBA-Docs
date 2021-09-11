@@ -3,7 +3,7 @@ title: Image.BorderColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5c0a373c-1ca7-1907-83b7-c24e9066e020
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

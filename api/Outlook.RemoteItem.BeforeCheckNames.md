@@ -5,7 +5,7 @@ api_name:
 - Outlook.RemoteItem.BeforeCheckNames
 ms.assetid: b34071cd-b43f-4801-b5da-6008eaef6ebf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DLast
 ms.assetid: 0a04cbcc-0dbc-4cfc-e5a3-deb9b0f343be
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

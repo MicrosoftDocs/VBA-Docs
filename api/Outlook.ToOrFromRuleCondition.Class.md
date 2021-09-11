@@ -8,7 +8,7 @@ api_name:
 - Outlook.ToOrFromRuleCondition.Class
 ms.assetid: 853ceee0-906a-42f8-69c7-f293a226c690
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Field.ShowCodes
 ms.assetid: 36871ffb-b307-c36e-5896-74fba6feb524
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

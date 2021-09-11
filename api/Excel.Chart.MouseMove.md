@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.MouseMove
 ms.assetid: b1277953-a882-f00f-2ac1-dd0cc49fef72
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

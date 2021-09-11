@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.MouseMove
 ms.assetid: 357feeda-b69a-f867-530b-30f41c71b5af
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

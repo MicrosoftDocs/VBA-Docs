@@ -5,7 +5,7 @@ api_name:
 - Word.WdNumberingRule
 ms.assetid: 70993a58-4b2c-e809-ab71-ca1701539483
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.HoverColor
 ms.assetid: a3281985-5248-bbd2-c2d7-1b4431209d45
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

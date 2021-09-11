@@ -8,7 +8,7 @@ api_name:
 - Access.Application.LoadFromAXL
 ms.assetid: 1cce0568-1966-c089-a741-b0934b8676d6
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

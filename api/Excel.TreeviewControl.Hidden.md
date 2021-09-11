@@ -8,7 +8,7 @@ api_name:
 - Excel.TreeviewControl.Hidden
 ms.assetid: 134a3b6b-492b-6813-cd40-ce1ff3b52c6c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

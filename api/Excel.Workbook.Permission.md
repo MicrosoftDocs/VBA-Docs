@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Permission
 ms.assetid: ef04f56e-a04d-c3d9-fdda-611be7bf9d39
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

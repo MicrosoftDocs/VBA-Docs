@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DataEntryMode
 ms.assetid: 1fd9f191-3aa5-2548-2d41-b9d2bc79654b
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

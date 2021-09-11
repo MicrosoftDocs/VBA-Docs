@@ -5,7 +5,7 @@ api_name:
 - Outlook.RemoteItem.BeforeAttachmentWriteToTempFile
 ms.assetid: fb309e7f-b8a6-b73c-de7a-77a15a70249d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

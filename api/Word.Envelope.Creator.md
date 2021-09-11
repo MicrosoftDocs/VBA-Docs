@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.Creator
 ms.assetid: bb631423-89b4-cf3e-55a9-562b8b6aaad0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

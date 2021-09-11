@@ -8,7 +8,7 @@ api_name:
 - Excel.DataTable.Border
 ms.assetid: ebc9e1f4-69cb-b230-8821-22331ad5c76c
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

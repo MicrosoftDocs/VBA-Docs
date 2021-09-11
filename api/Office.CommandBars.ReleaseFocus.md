@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.ReleaseFocus
 ms.assetid: 2ddca1e1-b8f4-a09c-120d-498b816747c4
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

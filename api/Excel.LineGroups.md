@@ -8,7 +8,7 @@ api_name:
 - Excel.LineGroups
 ms.assetid: 3a8083b5-8b71-e28b-c775-6be50544d6b2
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

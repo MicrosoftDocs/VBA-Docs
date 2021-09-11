@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabel.Top
 ms.assetid: 3ecf2adf-7f2c-504c-f0d7-99654bb30345
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

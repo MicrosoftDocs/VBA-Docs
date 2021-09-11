@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.BackgroundStyle
 ms.assetid: 8b25d075-1ba8-ca90-7ec3-d28d7e7fa838
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

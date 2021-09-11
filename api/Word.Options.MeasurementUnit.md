@@ -8,7 +8,7 @@ api_name:
 - Word.Options.MeasurementUnit
 ms.assetid: 7d5b1c89-eedd-9818-2137-d94e6f80d629
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

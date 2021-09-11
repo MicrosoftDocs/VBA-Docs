@@ -8,7 +8,7 @@ api_name:
 - Access.Label.FontBold
 ms.assetid: 95394797-9cf9-ec4d-872f-a937eabcce34
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

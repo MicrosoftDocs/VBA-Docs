@@ -8,7 +8,7 @@ api_name:
 - Outlook.Categories.Count
 ms.assetid: b78ff508-c5c2-515c-d5f4-f4ab959f207a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

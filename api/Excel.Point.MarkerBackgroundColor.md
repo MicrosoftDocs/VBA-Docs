@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.MarkerBackgroundColor
 ms.assetid: a283c8d2-08f2-0865-b8fe-26bc45d497d8
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

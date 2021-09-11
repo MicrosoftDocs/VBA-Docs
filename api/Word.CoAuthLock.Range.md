@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthLock.Range
 ms.assetid: 092cafbc-09b1-75b7-660e-85b6cd2b5ba2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

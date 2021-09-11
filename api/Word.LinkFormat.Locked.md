@@ -8,7 +8,7 @@ api_name:
 - Word.LinkFormat.Locked
 ms.assetid: 13125ef5-1809-f22e-abf6-d8781bc53e9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

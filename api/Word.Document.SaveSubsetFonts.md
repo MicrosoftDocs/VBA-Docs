@@ -8,7 +8,7 @@ api_name:
 - Word.Document.SaveSubsetFonts
 ms.assetid: 01210b29-f346-e513-6876-3dab30b940e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

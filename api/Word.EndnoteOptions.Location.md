@@ -8,7 +8,7 @@ api_name:
 - Word.EndnoteOptions.Location
 ms.assetid: 3fd348a5-69cd-7319-898e-3f1a102fd644
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

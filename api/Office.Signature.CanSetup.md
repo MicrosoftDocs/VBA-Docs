@@ -8,7 +8,7 @@ api_name:
 - Office.Signature.CanSetup
 ms.assetid: 6c4903e9-2fd0-3947-aeb1-c0bc9c437fe7
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

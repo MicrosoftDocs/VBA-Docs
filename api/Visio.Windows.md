@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows
 ms.assetid: 3fa64269-adde-3918-9970-3ce412d638f2
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

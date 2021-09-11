@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.IsInplace
 ms.assetid: f492c09f-79d1-cde0-6cf1-db9644e41589
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

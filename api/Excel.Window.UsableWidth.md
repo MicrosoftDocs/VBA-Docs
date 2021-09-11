@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.UsableWidth
 ms.assetid: 7244a9e5-c4f0-715e-74c8-586101b368ce
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

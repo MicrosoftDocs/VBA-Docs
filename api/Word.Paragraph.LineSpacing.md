@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.LineSpacing
 ms.assetid: f4ccfe57-4be8-1cdf-3140-45da603fc5ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

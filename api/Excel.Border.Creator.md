@@ -8,7 +8,7 @@ api_name:
 - Excel.Border.Creator
 ms.assetid: 3135c4a4-fab8-6d7f-85da-909a290c1b1e
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

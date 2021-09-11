@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Caller
 ms.assetid: 0cfec08d-3cbc-0ab1-419a-f5b5702c3969
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

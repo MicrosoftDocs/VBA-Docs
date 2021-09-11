@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.Copy
 ms.assetid: 91a4124e-6fd4-b2bf-9860-a093ed760d6e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

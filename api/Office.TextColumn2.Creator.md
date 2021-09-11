@@ -5,7 +5,7 @@ api_name:
 - Office.TextColumn2.Creator
 ms.assetid: a18d3fb2-58ed-b498-40b5-ef1cea1b22d5
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

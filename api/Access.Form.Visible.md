@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Visible
 ms.assetid: 85567666-297a-3380-2d08-864d44b637a1
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.DataRecordsets.Add
 ms.assetid: 9eb136ce-d543-75c3-3a72-cb23dfc8df78
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

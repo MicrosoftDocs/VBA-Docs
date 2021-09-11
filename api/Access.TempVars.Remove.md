@@ -8,7 +8,7 @@ api_name:
 - Access.TempVars.Remove
 ms.assetid: a9ab9ff2-5bfc-d001-f5eb-9929907bc1b2
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

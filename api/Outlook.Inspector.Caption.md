@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.Caption
 ms.assetid: fddb17d2-dd9f-4147-a2ea-9595c4a4b688
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

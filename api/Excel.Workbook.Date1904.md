@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Date1904
 ms.assetid: 0556311c-4e45-aea3-e922-24a5830b19d4
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

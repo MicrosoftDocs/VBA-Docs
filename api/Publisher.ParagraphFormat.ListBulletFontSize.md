@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.ListBulletFontSize
 ms.assetid: 1ff1de0f-afcc-cc9c-bf45-d745695db89b
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

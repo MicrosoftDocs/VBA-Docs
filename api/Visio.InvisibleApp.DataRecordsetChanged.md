@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.DataRecordsetChanged
 ms.assetid: da80f525-ccf6-3d9b-789c-a4dd866ebf4c
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

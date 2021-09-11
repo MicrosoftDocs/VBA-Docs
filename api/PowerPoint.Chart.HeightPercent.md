@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.HeightPercent
 ms.assetid: 71b6b6e3-ab2c-4ba3-cbbe-940fcbfe7efa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

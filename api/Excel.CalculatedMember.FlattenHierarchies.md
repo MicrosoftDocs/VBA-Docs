@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedMember.FlattenHierarchies
 ms.assetid: b0df471b-884a-fe43-b839-9de943720d0e
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationPrint
 ms.assetid: 41a420b7-c5db-7869-6763-da9cec710d83
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Glow
 ms.assetid: ace54516-4040-f4d7-f910-b78e92389bcf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

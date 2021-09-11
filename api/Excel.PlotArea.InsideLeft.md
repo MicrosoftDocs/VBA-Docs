@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.InsideLeft
 ms.assetid: 193934e2-c3ca-c3cf-fb90-2dd45e17f9b8
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

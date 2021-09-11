@@ -8,7 +8,7 @@ api_name:
 - Publisher.Field.Unlink
 ms.assetid: 4dfe5c29-eb1e-b071-fd86-6ee222455c4e
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

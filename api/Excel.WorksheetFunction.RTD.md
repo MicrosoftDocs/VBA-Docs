@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.RTD
 ms.assetid: 1c3603d3-4f45-bd67-17f5-167685e3297c
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

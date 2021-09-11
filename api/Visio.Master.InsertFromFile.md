@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.InsertFromFile
 ms.assetid: 5a24e289-675a-d08b-36f7-0cfaedac5aaf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

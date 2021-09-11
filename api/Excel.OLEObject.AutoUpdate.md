@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.AutoUpdate
 ms.assetid: 3834c552-a282-ab75-781e-42c055346b7d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

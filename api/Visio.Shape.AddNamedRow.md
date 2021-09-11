@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.AddNamedRow
 ms.assetid: c18380b1-418d-454f-3c90-fa4624291628
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

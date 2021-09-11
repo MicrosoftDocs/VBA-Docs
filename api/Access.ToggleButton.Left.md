@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.Left
 ms.assetid: da08e677-2d2c-6f06-fde9-899b82349ec2
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

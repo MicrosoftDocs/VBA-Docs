@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnUpdated
 ms.assetid: 81b6208e-4034-41ba-8694-c75f0155d562
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

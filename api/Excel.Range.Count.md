@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Count
 ms.assetid: 080cbbe7-056f-b21c-9004-171a6acce664
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

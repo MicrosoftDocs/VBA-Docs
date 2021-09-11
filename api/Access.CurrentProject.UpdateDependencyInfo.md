@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentProject.UpdateDependencyInfo
 ms.assetid: 90461646-22a6-bfa8-4663-9f05c8ac3757
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.VPageBreak.Creator
 ms.assetid: 0ee8bcc1-890f-0d22-add5-f21622b64aac
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

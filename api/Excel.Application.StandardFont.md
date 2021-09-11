@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.StandardFont
 ms.assetid: 6bde5ec0-8868-fa00-52e3-b7387f39f56d
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnKeyDown
 ms.assetid: 8135c3e5-e7d0-bafa-3eef-740b6ee73edd
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

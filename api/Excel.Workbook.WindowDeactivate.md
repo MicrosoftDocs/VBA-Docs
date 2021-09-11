@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.WindowDeactivate
 ms.assetid: d84f0819-00df-585f-ea31-e4ab5a72950e
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

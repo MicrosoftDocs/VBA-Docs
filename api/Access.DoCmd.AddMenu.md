@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.AddMenu
 ms.assetid: d2db2143-fd15-56b3-ee99-b895bc6b21f8
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

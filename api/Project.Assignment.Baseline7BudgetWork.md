@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Baseline7BudgetWork
 ms.assetid: 0e21c0e9-8dca-91b4-6a63-d373eea6c7e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

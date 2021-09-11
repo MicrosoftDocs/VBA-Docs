@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.PresetShape
 ms.assetid: d85bcdf6-0ad4-4a3d-ed3a-40a96a4b63a0
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

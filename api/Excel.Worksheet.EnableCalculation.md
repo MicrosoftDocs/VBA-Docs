@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.EnableCalculation
 ms.assetid: fc70ae97-b56b-3b57-6f7b-8438b78c424d
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

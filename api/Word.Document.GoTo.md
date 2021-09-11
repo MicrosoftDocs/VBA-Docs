@@ -8,7 +8,7 @@ api_name:
 - Word.Document.GoTo
 ms.assetid: b03156a8-71a3-af2a-958e-79e1307e1af3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

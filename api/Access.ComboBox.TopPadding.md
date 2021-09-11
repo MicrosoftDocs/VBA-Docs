@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.TopPadding
 ms.assetid: 3e92fdc3-79a3-8ed9-2547-5bb49df29852
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

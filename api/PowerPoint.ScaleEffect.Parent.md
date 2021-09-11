@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ScaleEffect.Parent
 ms.assetid: d95ae142-5fd5-114f-a200-6a7d23b0b2fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

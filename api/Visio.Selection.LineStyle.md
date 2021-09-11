@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.LineStyle
 ms.assetid: 8bfba446-5987-58d1-54e2-5e861d7ce48d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

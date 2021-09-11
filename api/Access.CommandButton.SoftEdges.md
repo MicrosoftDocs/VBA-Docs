@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.SoftEdges
 ms.assetid: a970945c-a8d7-4888-8408-33bfc803d73d
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.EntireRow
 ms.assetid: 9e66da51-6cef-4109-ea4e-2acaad42aa1f
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

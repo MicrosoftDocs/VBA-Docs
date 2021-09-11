@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSize
 ms.assetid: 80767524-6f0c-0d3f-388a-a38891b2d04a
 ms.date: 06/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

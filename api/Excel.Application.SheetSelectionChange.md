@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.SheetSelectionChange
 ms.assetid: c98203c2-b306-d8b7-b75f-1304be7b5751
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

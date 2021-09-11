@@ -8,7 +8,7 @@ api_name:
 - Access.Label.ForeTint
 ms.assetid: cce432e8-44eb-d30c-04e2-b4e3861ecec7
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

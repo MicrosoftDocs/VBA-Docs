@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TaskDependencySync
 ms.assetid: 4b6ed7a4-9bde-0600-3715-fc3d25501a5a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

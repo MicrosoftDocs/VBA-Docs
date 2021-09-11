@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.DisplayWhen
 ms.assetid: cfe800d7-290d-3f5c-fb48-cbc0628cefcd
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

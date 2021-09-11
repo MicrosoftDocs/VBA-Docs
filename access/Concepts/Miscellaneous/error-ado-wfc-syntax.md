@@ -3,7 +3,7 @@ title: Error (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: b2b3f564-8268-32e6-7705-1f9fd2ef0514
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.InSelection
 ms.assetid: 5b2a7bf0-e779-681f-f748-97798c119c6f
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

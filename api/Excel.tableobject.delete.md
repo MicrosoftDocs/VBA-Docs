@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: f22ff4b2-1353-f2cd-9405-c0b76a1804be
 ms.date: 04/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

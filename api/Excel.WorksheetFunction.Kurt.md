@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Kurt
 ms.assetid: 46ff116f-9d74-e59c-d238-4a3c6d55677a
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

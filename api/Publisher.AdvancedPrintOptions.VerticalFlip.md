@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.VerticalFlip
 ms.assetid: d141d8c0-51a2-d47f-dda3-0cf273578b06
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

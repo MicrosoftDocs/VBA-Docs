@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Power
 ms.assetid: 5c8b0c32-1afb-8bc3-923f-8f71eb88d43f
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

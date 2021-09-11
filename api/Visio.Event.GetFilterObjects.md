@@ -8,7 +8,7 @@ api_name:
 - Visio.Event.GetFilterObjects
 ms.assetid: 89df76cd-16a4-d3ba-7399-b4dfca49b9cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

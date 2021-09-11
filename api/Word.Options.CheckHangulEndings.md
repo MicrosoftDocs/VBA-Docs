@@ -8,7 +8,7 @@ api_name:
 - Word.Options.CheckHangulEndings
 ms.assetid: fdb1e463-62d9-7053-13b2-e5dec345912e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

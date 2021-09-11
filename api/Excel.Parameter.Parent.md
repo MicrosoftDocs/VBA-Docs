@@ -8,7 +8,7 @@ api_name:
 - Excel.Parameter.Parent
 ms.assetid: 24467831-594b-e9a2-7954-65adc2ba1174
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

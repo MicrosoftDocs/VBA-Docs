@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.SurplusShapes
 ms.assetid: 8c1c5fee-bea0-1660-a4a5-b465879d6ec9
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.UnderlineStyle
 ms.assetid: 687db3cb-7360-75b7-2c20-f553bb25e8b4
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

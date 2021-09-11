@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.ContainerRelationshipAdded
 ms.assetid: 8cc692b3-f079-0c9a-b2fe-f0e3fac83ec6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

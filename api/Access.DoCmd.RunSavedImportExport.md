@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.RunSavedImportExport
 ms.assetid: cb0ade9a-5cd4-1225-5231-8266fdfb3690
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

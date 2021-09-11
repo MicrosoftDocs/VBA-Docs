@@ -8,7 +8,7 @@ api_name:
 - Word.Find.ClearAllFuzzyOptions
 ms.assetid: cf0b33a4-bfcc-36f9-e4b4-b98b3c628c0d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

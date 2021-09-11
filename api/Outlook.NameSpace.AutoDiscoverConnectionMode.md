@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.AutoDiscoverConnectionMode
 ms.assetid: a73a71ca-0f40-3c7e-bb89-9d6a45775c6f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

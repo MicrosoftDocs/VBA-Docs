@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.UpdateMethod
 ms.assetid: 3c29df53-33cd-d645-2c45-6ff49fe4068e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

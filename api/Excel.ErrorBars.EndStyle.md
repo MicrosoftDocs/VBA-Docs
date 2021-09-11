@@ -8,7 +8,7 @@ api_name:
 - Excel.ErrorBars.EndStyle
 ms.assetid: 865c1da8-1231-5290-c737-c0415615a0ea
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

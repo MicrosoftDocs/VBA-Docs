@@ -8,7 +8,7 @@ api_name:
 - Excel.Charts.Creator
 ms.assetid: 520db104-5cf3-c130-4590-e92b6b5e0d3e
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

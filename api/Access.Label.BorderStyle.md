@@ -8,7 +8,7 @@ api_name:
 - Access.Label.BorderStyle
 ms.assetid: 5dba0d04-3367-e34a-1a47-cd8312827667
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

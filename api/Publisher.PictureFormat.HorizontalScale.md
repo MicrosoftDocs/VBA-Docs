@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.HorizontalScale
 ms.assetid: 7be51cde-5b2d-7870-7f39-2fa9bd714d68
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.UniqueValues.Priority
 ms.assetid: c966b2b0-76ed-4ff4-0abc-950ffc7209e1
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

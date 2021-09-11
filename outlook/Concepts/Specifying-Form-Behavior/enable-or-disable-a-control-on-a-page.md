@@ -3,7 +3,7 @@ title: Enable or Disable a Control on a Page
 ms.prod: outlook
 ms.assetid: 045b7116-9c81-a5f1-0482-4dd2e8c17891
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

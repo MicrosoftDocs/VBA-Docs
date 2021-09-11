@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Home2TelephoneNumber
 ms.assetid: 18a3b191-e27d-7459-82aa-1138fbacbb21
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

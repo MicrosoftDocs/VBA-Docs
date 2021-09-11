@@ -8,7 +8,7 @@ api_name:
 - Office.Zoom
 ms.assetid: d5230fdb-8332-c136-231b-6e2ab3acaf6a
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

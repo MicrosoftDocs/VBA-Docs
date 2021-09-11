@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.EventList
 ms.assetid: f75372d2-2707-9095-6f45-fa0be7eb40ea
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Endnotes.Separator
 ms.assetid: e5085dbe-f9ab-33ec-d23e-4f488dc3eda3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

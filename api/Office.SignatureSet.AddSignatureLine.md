@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSet.AddSignatureLine
 ms.assetid: e887431f-8a01-99d7-6c9b-21aaf3d9198d
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

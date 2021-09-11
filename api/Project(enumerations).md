@@ -4,7 +4,7 @@ description: Documentation for the enumerations in the Project object model.
 ms.prod: project-server
 ms.assetid: 40a46a69-d5d5-48e8-ad97-06e5695deccd
 ms.date: 09/05/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

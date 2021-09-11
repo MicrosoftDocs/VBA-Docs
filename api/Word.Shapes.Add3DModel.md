@@ -4,7 +4,7 @@ ms.prod: word
 api_name:
 - Word.Shapes.Add3DModel
 ms.date: 04/12/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

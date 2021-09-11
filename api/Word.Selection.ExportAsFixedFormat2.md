@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.ExportAsFixedFormat2
 ms.assetid: 0fc22f07-6a21-d04e-e90b-73e33f5e4f36
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

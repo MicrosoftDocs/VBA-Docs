@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.TransferTime
 ms.assetid: 5fb7558a-9f0b-817c-6617-77bae53f4893
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

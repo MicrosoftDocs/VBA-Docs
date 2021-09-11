@@ -8,7 +8,7 @@ api_name:
 - Project.ViewCombination.TopView
 ms.assetid: dc5bfad0-750c-34a3-ba30-403d18c299e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

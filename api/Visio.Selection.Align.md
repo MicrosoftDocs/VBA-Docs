@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Align
 ms.assetid: 4a73dfee-2a78-f459-4481-5f722feb7204
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

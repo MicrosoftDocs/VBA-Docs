@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxSet
 ms.assetid: 06bcae73-5208-824d-4f55-119f35b37718
 ms.date: 11/09/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

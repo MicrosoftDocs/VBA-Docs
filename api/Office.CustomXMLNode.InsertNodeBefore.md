@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLNode.InsertNodeBefore
 ms.assetid: b2805906-16b7-aebd-ccde-ded736a1b69b
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

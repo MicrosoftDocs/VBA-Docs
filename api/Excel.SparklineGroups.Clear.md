@@ -8,7 +8,7 @@ api_name:
 - Excel.SparklineGroups.Clear
 ms.assetid: a985d901-db4c-ea03-e96c-5bf27ca6da16
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

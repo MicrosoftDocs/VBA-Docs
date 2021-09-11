@@ -8,7 +8,7 @@ api_name:
 - Word.Global.MacroContainer
 ms.assetid: 9718527c-eebd-4d62-f753-da449034b404
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

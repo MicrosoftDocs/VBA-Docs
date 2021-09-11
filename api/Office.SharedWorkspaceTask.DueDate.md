@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceTask.DueDate
 ms.assetid: 86ef146e-7528-9dfb-646f-8412abade012
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

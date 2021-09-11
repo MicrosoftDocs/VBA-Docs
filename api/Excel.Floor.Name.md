@@ -8,7 +8,7 @@ api_name:
 - Excel.Floor.Name
 ms.assetid: cf57bae9-531d-74b1-d0c8-80c2d164efea
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

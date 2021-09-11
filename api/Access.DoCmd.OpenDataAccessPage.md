@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenDataAccessPage
 ms.assetid: 130dcb88-e3e6-25a6-186c-bf541d114169
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

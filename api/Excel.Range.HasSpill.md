@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.HasSpill
 ms.assetid: ????
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

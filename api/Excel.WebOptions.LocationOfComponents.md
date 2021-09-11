@@ -8,7 +8,7 @@ api_name:
 - Excel.WebOptions.LocationOfComponents
 ms.assetid: 0581343b-e93e-1413-4348-529f48a166eb
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

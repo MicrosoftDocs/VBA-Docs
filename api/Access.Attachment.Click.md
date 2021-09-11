@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Click
 ms.assetid: cdeff1db-5d95-dab5-79ae-d02ac25d5659
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

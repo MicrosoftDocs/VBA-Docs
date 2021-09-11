@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.DispScreenRes
 ms.assetid: ec62976a-4a92-f904-b7de-1e9470dc5411
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Section.OnFormat
 ms.assetid: 061652a9-0253-8dc2-a8c0-02daa40d132d
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

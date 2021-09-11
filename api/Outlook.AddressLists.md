@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressLists
 ms.assetid: b8c5ce75-3030-0179-45bb-f44fe6628074
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

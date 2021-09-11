@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObjects.Cut
 ms.assetid: 842104f6-4317-8cac-5dd2-2ce2b1071052
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

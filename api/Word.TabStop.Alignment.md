@@ -8,7 +8,7 @@ api_name:
 - Word.TabStop.Alignment
 ms.assetid: f27f7f39-439d-0cbf-5538-8d3028abddf1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

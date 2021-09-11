@@ -8,7 +8,7 @@ api_name:
 - Visio.Style.Hidden
 ms.assetid: 3312e1ea-cbb5-8a47-bc4e-7d3de5ab8c5d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

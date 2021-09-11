@@ -8,7 +8,7 @@ api_name:
 - Word.Break.Parent
 ms.assetid: 4279af79-992c-2ae2-dd8d-456d39c46a4c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

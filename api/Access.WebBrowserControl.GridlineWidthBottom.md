@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.GridlineWidthBottom
 ms.assetid: ed4a2aed-d409-7167-2a52-7a4660383b3e
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Hyperlinks object (Word)
 ms.prod: word
 ms.assetid: 25801753-737f-9219-6a14-6531eb2ca699
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

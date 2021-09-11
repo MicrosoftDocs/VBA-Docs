@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.UserProperties
 ms.assetid: d1245b91-62e9-78b8-9012-85c11959166c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

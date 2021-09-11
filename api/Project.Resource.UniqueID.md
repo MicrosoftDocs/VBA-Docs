@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.UniqueID
 ms.assetid: f2b93da7-081e-66bb-97e3-65ac0ea304d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Frame.Copy Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 61654953-0233-f068-ae50-8f81a51f88d3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

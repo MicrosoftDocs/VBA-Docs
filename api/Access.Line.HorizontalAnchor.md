@@ -8,7 +8,7 @@ api_name:
 - Access.Line.HorizontalAnchor
 ms.assetid: f1c3408c-7507-13c6-8ae9-8d8fb086ecc5
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

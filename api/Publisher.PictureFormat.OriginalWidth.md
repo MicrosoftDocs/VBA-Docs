@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.OriginalWidth
 ms.assetid: 3c418f3f-b2af-3176-9a37-a548b15fb4bc
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

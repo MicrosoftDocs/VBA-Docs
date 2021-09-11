@@ -3,7 +3,7 @@ title: Private object modules cannot be used in public object modules as paramet
 ms.prod: office
 ms.assetid: 77abe263-21e9-1998-aa9d-f07969c46c1e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

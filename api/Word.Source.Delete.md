@@ -8,7 +8,7 @@ api_name:
 - Word.Source.Delete
 ms.assetid: 5fdfa8bc-1894-5adb-b9a3-6f767b64af31
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.SharingItem.Read
 ms.assetid: 2bcf07e6-e9c1-b3ce-118c-a2c82b48ff5f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

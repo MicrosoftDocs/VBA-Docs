@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.HierarchizeDistinct
 ms.assetid: 714f85b7-2adb-0ec1-5203-ca797b21e0a8
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

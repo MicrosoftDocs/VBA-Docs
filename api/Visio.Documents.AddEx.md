@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.AddEx
 ms.assetid: 4c287668-04b4-fb6c-2b1a-869d9d366991
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

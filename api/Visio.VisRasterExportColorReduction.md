@@ -8,7 +8,7 @@ api_name:
 - Visio.VisRasterExportColorReduction
 ms.assetid: bd88584a-c3ff-fd2e-e90e-ce3dc1b956bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

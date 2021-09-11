@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.OnEnter
 ms.assetid: 386524c3-8208-05dd-5d0f-9899e4619eb7
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

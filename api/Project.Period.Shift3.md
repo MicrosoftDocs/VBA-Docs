@@ -5,7 +5,7 @@ api_name:
 - Project.Period.Shift3
 ms.assetid: 7574f88f-3584-03c4-b75e-ca263a5bef44
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

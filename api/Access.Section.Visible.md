@@ -8,7 +8,7 @@ api_name:
 - Access.Section.Visible
 ms.assetid: 378042c4-48df-c45d-30ab-7bc46c417f31
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

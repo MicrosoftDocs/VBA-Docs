@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FixedDecimalPlaces
 ms.assetid: e264dce3-4589-3e83-c931-5d69e3b8b3be
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.FontItalic
 ms.assetid: d5e79d03-af96-98fb-8f80-6c1fa583a215
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

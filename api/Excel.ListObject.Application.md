@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.Application
 ms.assetid: 72c071cf-e0c8-fcc5-5207-93ca43272dfa
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

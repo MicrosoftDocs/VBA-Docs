@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkControl.EnableAutoLayout
 ms.assetid: 929f07f1-db56-9b31-910e-e0c83b57afde
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

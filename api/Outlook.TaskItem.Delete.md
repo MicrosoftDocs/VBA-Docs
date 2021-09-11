@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Delete
 ms.assetid: 0a2cf917-4899-0fe0-c7dc-35daa70f0892
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

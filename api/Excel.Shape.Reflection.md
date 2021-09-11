@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Reflection
 ms.assetid: 8f5a23a9-0245-224f-2827-982ef2814ad0
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AutoRecover
 ms.assetid: bc2453fa-4319-c1da-5ad5-2efb306c3063
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

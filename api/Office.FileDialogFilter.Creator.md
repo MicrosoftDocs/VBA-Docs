@@ -5,7 +5,7 @@ api_name:
 - Office.FileDialogFilter.Creator
 ms.assetid: 6e629add-d643-8e17-6fe2-cd3b24ddee6d
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.KeepWithNext
 ms.assetid: a0083251-893b-5323-7b4f-03df6ac32822
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

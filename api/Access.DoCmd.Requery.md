@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.Requery
 ms.assetid: 6869c39f-b43f-ad83-4140-67b763342605
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

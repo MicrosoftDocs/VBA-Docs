@@ -5,7 +5,7 @@ api_name:
 - Word.WdAutoFitBehavior
 ms.assetid: 018a463f-1c0f-8600-3ac4-fe3940dcfb2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

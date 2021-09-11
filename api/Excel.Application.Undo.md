@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Undo
 ms.assetid: b56bb8a0-2cd1-356a-03ba-47eb6f56f455
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

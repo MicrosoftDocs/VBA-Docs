@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.Space15
 ms.assetid: 6621d8e8-c207-0862-ddd4-33cb5bcd9cbc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlIconViewPlacement
 ms.assetid: 41c8daf2-3ecf-5dc7-8746-b81be0a8f18f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

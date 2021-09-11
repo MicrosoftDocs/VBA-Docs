@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.FormulaR1C1
 ms.assetid: 6b5cf60a-e18c-35ef-f116-4d61b5a59a4b
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

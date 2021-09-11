@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.CommitChanges
 ms.assetid: f64031c6-8309-7c8a-5786-949d2ec10dea
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

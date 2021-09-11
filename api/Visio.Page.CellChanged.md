@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.CellChanged
 ms.assetid: 78c9bc15-6d4b-1580-3d36-2109364a4a1c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

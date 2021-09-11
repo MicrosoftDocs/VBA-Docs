@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BackColor
 ms.assetid: 85d7d802-76d3-0a4f-debc-51dda0f81910
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ReferredBy
 ms.assetid: 052e1595-dd0f-d240-712d-e460bf78a1bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

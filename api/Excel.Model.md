@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.Model
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Model object (Excel)

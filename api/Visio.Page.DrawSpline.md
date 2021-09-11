@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.DrawSpline
 ms.assetid: a75d7f02-5bfd-f341-ca24-06762e56aca3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

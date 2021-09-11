@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.ReadingOrder
 ms.assetid: 52dab78d-5c67-4031-06b4-f7fa43207f4c
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

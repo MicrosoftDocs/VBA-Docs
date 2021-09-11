@@ -5,7 +5,7 @@ api_name:
 - Excel.XlDeleteShiftDirection
 ms.assetid: f9224480-48c5-d65e-3af1-74c345242d4a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

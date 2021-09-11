@@ -5,7 +5,7 @@ api_name:
 - Word.WdShapePositionRelative
 ms.assetid: 8472dcfe-e52f-e78d-8171-8e57e39207f4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

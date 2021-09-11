@@ -8,7 +8,7 @@ api_name:
 - Word.Point.Top
 ms.assetid: d0cb0bae-1291-5c9c-26bb-cac6fe2bf426
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

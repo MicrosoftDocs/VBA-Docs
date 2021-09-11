@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.FarEastLineBreakLevel
 ms.assetid: fc8354a6-cbd4-d0b4-0b39-a3150afab714
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

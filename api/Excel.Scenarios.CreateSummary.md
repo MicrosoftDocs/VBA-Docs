@@ -8,7 +8,7 @@ api_name:
 - Excel.Scenarios.CreateSummary
 ms.assetid: b223ad02-cd11-7adc-2144-5c6dd1683427
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

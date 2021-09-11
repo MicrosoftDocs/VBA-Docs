@@ -8,7 +8,7 @@ api_name:
 - Access.Application.TempVars
 ms.assetid: 356f2585-6789-ebe4-5c24-02a361289cd5
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

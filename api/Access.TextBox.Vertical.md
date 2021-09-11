@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Vertical
 ms.assetid: 40b9f9c0-daab-5562-395e-3e785d316d91
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

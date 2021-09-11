@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.SpaceAfter
 ms.assetid: 1d720690-f8e3-6b05-f5d2-dd86d29ec4b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

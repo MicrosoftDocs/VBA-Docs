@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.FillUp
 ms.assetid: 52498f52-95f9-5993-7c44-76cd8b696074
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

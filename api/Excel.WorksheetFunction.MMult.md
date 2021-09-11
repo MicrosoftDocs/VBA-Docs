@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MMult
 ms.assetid: 8f410152-5682-2d71-007a-5fba5f884860
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

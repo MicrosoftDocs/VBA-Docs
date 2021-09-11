@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.MDX
 ms.assetid: 50a211c9-4b46-568c-5313-fd093d99a140
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.DoNotPromptForConvert
 ms.assetid: d2af6528-4d9f-6e94-4fa6-2322098b4b17
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

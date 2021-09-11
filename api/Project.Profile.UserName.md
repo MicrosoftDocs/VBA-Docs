@@ -5,7 +5,7 @@ api_name:
 - Project.Profile.UserName
 ms.assetid: 8af2fe46-7218-39be-efd0-c7dd91f25ac7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

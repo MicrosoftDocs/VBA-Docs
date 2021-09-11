@@ -8,7 +8,7 @@ api_name:
 - Publisher.ReaderSpread.PageCount
 ms.assetid: 39d26cd7-f4b8-bbf3-a2a8-32a4c9362e30
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

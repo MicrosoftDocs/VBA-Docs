@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.MissingItemsLimit
 ms.assetid: ff15a86c-b57f-ed55-bbfa-74e1c5ce753c
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

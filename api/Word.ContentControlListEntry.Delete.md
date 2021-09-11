@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControlListEntry.Delete
 ms.assetid: fa28888a-6542-9216-e444-d43b2464cf65
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

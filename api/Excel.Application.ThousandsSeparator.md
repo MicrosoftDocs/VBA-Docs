@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ThousandsSeparator
 ms.assetid: da244add-1c85-4636-2aff-b26feec215f3
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

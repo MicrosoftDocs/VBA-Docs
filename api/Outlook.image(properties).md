@@ -3,7 +3,7 @@ title: Image Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5ef0bda8-9e63-4ffa-9370-ab3f17de01eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

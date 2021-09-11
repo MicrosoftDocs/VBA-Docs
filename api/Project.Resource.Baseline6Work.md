@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Baseline6Work
 ms.assetid: 89f207b0-b559-0208-c938-8c470a4a2343
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

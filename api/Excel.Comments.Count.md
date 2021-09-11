@@ -8,7 +8,7 @@ api_name:
 - Excel.Comments.Count
 ms.assetid: f2e80d61-d9ed-1f5b-3e28-07178174c4c4
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

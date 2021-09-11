@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsEven
 ms.assetid: a2abc4e5-8da1-2b43-e8a4-9c6efed1cd83
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

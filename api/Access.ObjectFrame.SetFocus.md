@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.SetFocus
 ms.assetid: 856855b5-6b61-6aea-c039-696d4662ee4c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

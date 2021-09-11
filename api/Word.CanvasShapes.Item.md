@@ -8,7 +8,7 @@ api_name:
 - Word.CanvasShapes.Item
 ms.assetid: 8a985058-b2ea-7011-274e-a3b336af72f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

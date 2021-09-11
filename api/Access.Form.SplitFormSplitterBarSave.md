@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SplitFormSplitterBarSave
 ms.assetid: 70bd37de-9b8c-0e47-80a8-83e53290e04c
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

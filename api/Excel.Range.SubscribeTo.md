@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.SubscribeTo
 ms.assetid: 6120c474-f4a9-0dce-dae4-a8b39f3d3656
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SheetBeforeDoubleClick
 ms.assetid: 69d21025-78ef-deab-39be-b7a092d611f5
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

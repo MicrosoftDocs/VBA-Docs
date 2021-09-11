@@ -8,7 +8,7 @@ api_name:
 - Access.Form.KeyPreview
 ms.assetid: f9153ec0-8b6e-60d5-8541-100e2ad1705e
 ms.date: 03/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

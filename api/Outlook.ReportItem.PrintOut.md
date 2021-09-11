@@ -8,7 +8,7 @@ api_name:
 - Outlook.ReportItem.PrintOut
 ms.assetid: 48d486f5-dd1f-2e82-017e-6c14aace4d1b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

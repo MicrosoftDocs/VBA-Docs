@@ -5,7 +5,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: ??? 
 ms.date: 12/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Formula vs Formula2

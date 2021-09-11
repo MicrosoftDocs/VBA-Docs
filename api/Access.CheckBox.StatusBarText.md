@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.StatusBarText
 ms.assetid: 5b199d3e-b79d-f611-9e66-1816f5c60f25
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

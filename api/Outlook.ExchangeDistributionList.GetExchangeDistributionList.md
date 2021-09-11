@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeDistributionList.GetExchangeDistributionList
 ms.assetid: deb9a04a-53dc-4ea8-ee5f-297cdd39bde2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

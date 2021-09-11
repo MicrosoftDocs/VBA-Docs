@@ -8,7 +8,7 @@ api_name:
 - Word.FirstLetterException.Index
 ms.assetid: 23ea4c7c-bf6e-96f6-20b6-7596c90b3647
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

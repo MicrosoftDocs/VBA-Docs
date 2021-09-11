@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotLayout.PivotTable
 ms.assetid: b4393cb2-33d2-453b-81ef-4fada332539b
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

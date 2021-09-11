@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpTabStopType
 ms.assetid: 8aa7e9c2-1511-edf6-88f6-2b63102cd2ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

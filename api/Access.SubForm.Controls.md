@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.Controls
 ms.assetid: 1f2c6835-7fa6-44cb-a258-e90807c93dd6
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

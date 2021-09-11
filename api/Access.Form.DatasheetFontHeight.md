@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetFontHeight
 ms.assetid: 5cfcf818-eda0-f7ec-f224-ee52ae7d39c9
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

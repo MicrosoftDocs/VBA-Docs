@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.MailMergeDataSourceValidate
 ms.assetid: 8e18b0a0-8fe8-f72e-8a75-1585367cc796
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

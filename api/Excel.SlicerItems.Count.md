@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerItems.Count
 ms.assetid: 63adcd4f-5fcc-13d9-5046-3c4215454e30
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

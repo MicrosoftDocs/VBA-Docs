@@ -8,7 +8,7 @@ api_name:
 - Outlook.CardView.Save
 ms.assetid: 78d967c3-c685-89c3-0569-52af744b10fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

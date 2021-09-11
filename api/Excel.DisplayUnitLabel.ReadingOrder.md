@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.ReadingOrder
 ms.assetid: fdb6d794-bf1d-2ce6-157a-2aac987c347d
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

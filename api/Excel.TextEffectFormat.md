@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat
 ms.assetid: 7fe03721-6a45-569e-add4-fc8849c99535
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

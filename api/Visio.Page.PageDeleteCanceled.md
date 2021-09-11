@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.PageDeleteCanceled
 ms.assetid: 5fa17e8b-5c80-962b-482e-f9c46f543a65
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

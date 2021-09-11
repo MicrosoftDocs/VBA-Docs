@@ -8,7 +8,7 @@ api_name:
 - Project.Application.WindowUnhide
 ms.assetid: 438693a7-5b99-e373-6d28-9a42dfcda7d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

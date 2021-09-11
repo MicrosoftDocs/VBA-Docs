@@ -8,7 +8,7 @@ api_name:
 - Word.ListFormat.SingleListTemplate
 ms.assetid: 9f02aa2f-c855-b117-c031-d03bac3d5f53
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

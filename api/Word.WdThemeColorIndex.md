@@ -5,7 +5,7 @@ api_name:
 - Word.WdThemeColorIndex
 ms.assetid: 53155d76-428a-20c2-66d4-241788e3377a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

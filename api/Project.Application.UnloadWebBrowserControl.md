@@ -5,7 +5,7 @@ api_name:
 - Project.Application.UnloadWebBrowserControl
 ms.assetid: beccb5ae-102c-4c68-595b-47ff08da72ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

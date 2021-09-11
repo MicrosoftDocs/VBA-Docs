@@ -8,7 +8,7 @@ api_name:
 - Outlook.TimelineView.StartField
 ms.assetid: 2477ce1d-a5d0-ddf5-49e9-b25dcd90efbd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

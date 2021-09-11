@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLPart.DocumentElement
 ms.assetid: 87e7eee5-ed09-08c2-a020-9505c70fbbbc
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

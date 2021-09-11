@@ -5,7 +5,7 @@ api_name:
 - Word.Sources.Count
 ms.assetid: 06a6f0b3-1591-52b3-fcff-aca4324a80e3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

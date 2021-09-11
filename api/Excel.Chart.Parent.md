@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Parent
 ms.assetid: 2c0db6d3-995a-cc3c-812b-a80761ac76e4
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Action.Coordinate
 ms.assetid: a37eca31-62f9-1833-d476-75997f7c40ff
 ms.date: 03/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

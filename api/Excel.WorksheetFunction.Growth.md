@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Growth
 ms.assetid: ecc3ffcc-9739-860a-60a6-366ef7133a33
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

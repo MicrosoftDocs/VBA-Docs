@@ -8,7 +8,7 @@ api_name:
 - Access.Application.RefreshDatabaseWindow
 ms.assetid: 63825d35-b24e-ae68-3214-5727dc97eb79
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

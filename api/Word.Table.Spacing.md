@@ -8,7 +8,7 @@ api_name:
 - Word.Table.Spacing
 ms.assetid: 56444e6f-70b6-c815-9098-e6e3ac2d6c3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.AllTables.Application
 ms.assetid: 2c5c5433-abca-1c36-af82-3b5dbf12c793
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

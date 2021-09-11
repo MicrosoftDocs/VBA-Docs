@@ -8,7 +8,7 @@ api_name:
 - Visio.ToolbarItem.ActionText
 ms.assetid: 0bb1f3a9-013d-4164-6de3-557dcf64ca92
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

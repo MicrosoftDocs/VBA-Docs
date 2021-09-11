@@ -8,7 +8,7 @@ api_name:
 - Access.Image.ObjectPalette
 ms.assetid: 394786b9-7ee1-bc79-e84e-12bb75189f12
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

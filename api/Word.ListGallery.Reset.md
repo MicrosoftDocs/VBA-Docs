@@ -8,7 +8,7 @@ api_name:
 - Word.ListGallery.Reset
 ms.assetid: 456ed895-6e6e-334d-7cab-9df4376d8025
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

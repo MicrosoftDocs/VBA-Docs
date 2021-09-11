@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.AppliesTo
 ms.assetid: 880127cd-bd8c-2b0f-594a-8fd2cffee6c6
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

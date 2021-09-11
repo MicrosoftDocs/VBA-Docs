@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationPane.Parent
 ms.assetid: 7e5e3b49-875e-531d-8fc9-6cb83fef6284
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

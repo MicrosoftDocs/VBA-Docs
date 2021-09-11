@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DDETerminate
 ms.assetid: 97684f64-dd80-03b6-965d-42e9d0e6f264
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

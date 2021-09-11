@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.LeaderLines
 ms.assetid: d08a982c-8ac0-3f72-3f94-d72b3081f013
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

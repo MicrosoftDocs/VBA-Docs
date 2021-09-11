@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.DownloadState
 ms.assetid: 15e33864-45fc-4c92-2a73-fc2b2956337d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

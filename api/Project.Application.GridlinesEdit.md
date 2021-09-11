@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GridlinesEdit
 ms.assetid: 75b9d660-88b5-da71-faf8-215abce897d2
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

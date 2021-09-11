@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.DeferRelationshipRecalc
 ms.assetid: 77c7842c-1dc0-fea9-2cdc-0381aab251d2
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

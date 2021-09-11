@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.Exit
 ms.assetid: 037013a6-170c-9859-1f0c-705064727c49
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

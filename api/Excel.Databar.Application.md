@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Application
 ms.assetid: 903716c7-d550-f1e3-6fee-a503215923a2
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.ThreeD
 ms.assetid: 18f48799-1ea2-6551-26f1-f02c6c74f368
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

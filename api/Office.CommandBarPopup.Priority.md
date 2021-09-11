@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.Priority
 ms.assetid: cef115fd-fdc8-d8a3-b51d-c9fbc21a810f
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

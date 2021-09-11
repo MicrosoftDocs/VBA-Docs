@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Ceiling
 ms.assetid: 4994e7d0-e626-bca4-64fc-77946438f4ed
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

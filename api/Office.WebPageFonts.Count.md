@@ -8,7 +8,7 @@ api_name:
 - Office.WebPageFonts.Count
 ms.assetid: 68a66e13-d560-ed11-93d2-e6e0d5e74d2e
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

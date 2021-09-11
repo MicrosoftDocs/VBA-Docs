@@ -8,7 +8,7 @@ api_name:
 - Word.Find.MatchDiacritics
 ms.assetid: db03ebc8-32d7-bdb4-e4fa-257045ecc48b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

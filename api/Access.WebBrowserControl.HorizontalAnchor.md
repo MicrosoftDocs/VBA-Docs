@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.HorizontalAnchor
 ms.assetid: 42f1b968-5b61-2d17-85f8-a354db3d8e51
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

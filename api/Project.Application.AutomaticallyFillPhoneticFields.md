@@ -5,7 +5,7 @@ api_name:
 - Project.Application.AutomaticallyFillPhoneticFields
 ms.assetid: 2c4eef7e-bde4-6aa9-b383-7634447997a0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

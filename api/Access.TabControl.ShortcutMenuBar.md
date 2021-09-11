@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.ShortcutMenuBar
 ms.assetid: cc1becd1-4300-9d96-ca4d-4f2addfc63e9
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

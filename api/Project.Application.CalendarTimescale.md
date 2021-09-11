@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CalendarTimescale
 ms.assetid: 4a3cbf04-974b-b83b-b552-572b7c48e31b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

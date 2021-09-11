@@ -8,7 +8,7 @@ api_name:
 - Excel.ReplaceText
 ms.assetid: 930c453b-5363-3124-ec06-62359e41ee47
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

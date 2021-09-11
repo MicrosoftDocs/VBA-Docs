@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.PrintHeadings
 ms.assetid: 027441c6-da40-f518-a166-adb54da02a27
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ValidationRule
 ms.assetid: 3ea94f44-46fa-57a7-a9b4-a9e7b58e087b
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

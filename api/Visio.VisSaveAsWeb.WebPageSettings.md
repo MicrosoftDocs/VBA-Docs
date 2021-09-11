@@ -5,7 +5,7 @@ api_name:
 - Visio.VisSaveAsWeb.WebPageSettings
 ms.assetid: a026cbcb-1156-89f9-429a-3d1b23c78065
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.GetSharedDefaultFolder
 ms.assetid: e2196423-e4f2-2797-c16c-dc54e2c0f7d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

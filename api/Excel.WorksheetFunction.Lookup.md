@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Lookup
 ms.assetid: 0088c289-2ef5-78ea-68e2-1b10d077e775
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

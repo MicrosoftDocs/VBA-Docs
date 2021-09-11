@@ -8,7 +8,7 @@ api_name:
 - Outlook.OrderField.ViewXMLSchemaName
 ms.assetid: a88c22ff-3d30-a4f2-87f6-6c32c1c2acb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

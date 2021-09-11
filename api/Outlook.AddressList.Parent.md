@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressList.Parent
 ms.assetid: cb7f5779-bd69-74a8-1986-6c2dafce8d20
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

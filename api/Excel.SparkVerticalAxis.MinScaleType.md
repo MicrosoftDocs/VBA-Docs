@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.MinScaleType
 ms.assetid: e3a306db-fe5d-fe5b-23bb-b3e8b70a516c
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

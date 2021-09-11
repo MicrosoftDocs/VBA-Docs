@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartFont.Underline
 ms.assetid: b5a3ccf1-97eb-ad6e-6147-2097fd51bf8e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

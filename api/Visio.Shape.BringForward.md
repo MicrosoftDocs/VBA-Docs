@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.BringForward
 ms.assetid: 88e5c746-e7f2-eddd-35c9-2d9c09c1a602
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

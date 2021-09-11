@@ -8,7 +8,7 @@ api_name:
 - Visio.Layer.CellsC
 ms.assetid: da7de08d-e492-a74d-a5de-139a32798deb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

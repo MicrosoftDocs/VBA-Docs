@@ -3,7 +3,7 @@ title: ListBox.MouseIcon Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5686f8d5-ea80-4097-1b17-4dc925eec878
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

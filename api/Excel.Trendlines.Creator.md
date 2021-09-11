@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendlines.Creator
 ms.assetid: 5163fb1c-4f90-52f7-fd3b-48a509abf10a
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

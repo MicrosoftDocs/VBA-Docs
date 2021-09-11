@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControlListEntries.Count
 ms.assetid: f2fe5f96-5fae-a688-e874-9ec3bbe4833a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

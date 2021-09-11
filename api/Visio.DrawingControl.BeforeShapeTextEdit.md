@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.BeforeShapeTextEdit
 ms.assetid: a499b10a-3163-b734-91b1-5985613712d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

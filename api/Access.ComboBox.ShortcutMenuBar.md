@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ShortcutMenuBar
 ms.assetid: e010eab3-c24c-b077-b8cd-6fbf708aa3a9
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

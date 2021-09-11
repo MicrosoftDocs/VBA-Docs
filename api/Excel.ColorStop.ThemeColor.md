@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStop.ThemeColor
 ms.assetid: bb650754-204a-3618-d431-bf7db289ceeb
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

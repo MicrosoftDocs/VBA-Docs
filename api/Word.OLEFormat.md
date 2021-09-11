@@ -8,7 +8,7 @@ api_name:
 - Word.OLEFormat
 ms.assetid: d4c7aa65-5d3a-0b79-914b-6f908b506f63
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

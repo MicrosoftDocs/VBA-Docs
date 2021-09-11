@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.SlideShowEnd
 ms.assetid: e46f8177-e00b-6704-1606-dbf9e96bf812
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

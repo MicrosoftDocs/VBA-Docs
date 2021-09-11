@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Adjustments
 ms.assetid: c7a39ae0-364a-2568-c3c5-e10c9a3c125f
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

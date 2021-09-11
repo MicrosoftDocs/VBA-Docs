@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Visible
 ms.assetid: 39ca5142-bf7b-a48d-ce9d-e929e4611aac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

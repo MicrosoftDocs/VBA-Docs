@@ -8,7 +8,7 @@ api_name:
 - Word.Frames.Add
 ms.assetid: e9b25f79-b95d-fcd4-f88c-a32b5f83f3dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

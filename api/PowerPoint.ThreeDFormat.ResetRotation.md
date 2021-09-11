@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.ResetRotation
 ms.assetid: a766095a-f7a4-0fdf-8533-3ed00755950f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

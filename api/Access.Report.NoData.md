@@ -8,7 +8,7 @@ api_name:
 - Access.Report.NoData
 ms.assetid: fa5f22b1-3695-bd16-2ca3-b2a1cc1f1d94
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

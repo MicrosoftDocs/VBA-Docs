@@ -8,7 +8,7 @@ api_name:
 - Word.Application.Repeat
 ms.assetid: 811e9f1c-cbdc-01dc-1e76-5521976943ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

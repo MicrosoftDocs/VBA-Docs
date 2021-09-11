@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Copy
 ms.assetid: c13c5310-cad2-c520-7304-507b81112551
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

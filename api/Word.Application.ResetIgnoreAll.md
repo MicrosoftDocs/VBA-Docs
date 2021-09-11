@@ -8,7 +8,7 @@ api_name:
 - Word.Application.ResetIgnoreAll
 ms.assetid: 8a6dcb30-23bb-70bb-e257-e519bc63a289
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

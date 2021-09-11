@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PrintOptions.Parent
 ms.assetid: d93f28db-9198-2edb-d6d0-77484bc54c13
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

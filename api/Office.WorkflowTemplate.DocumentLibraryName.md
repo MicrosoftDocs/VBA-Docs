@@ -8,7 +8,7 @@ api_name:
 - Office.WorkflowTemplate.DocumentLibraryName
 ms.assetid: 4fca9798-a8be-87c8-7210-4a1fa1e808b4
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

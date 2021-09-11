@@ -8,7 +8,7 @@ api_name:
 - Excel.CustomProperty.Creator
 ms.assetid: f877904d-7e39-359b-b39b-e57be8469795
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

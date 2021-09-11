@@ -3,7 +3,7 @@ title: Application.QueryCancelReplaceShapes event (Visio)
 ms.prod: visio
 ms.assetid: 50c0f2a6-f534-f3af-7e83-c865abda8bf9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

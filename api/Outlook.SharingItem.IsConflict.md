@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.IsConflict
 ms.assetid: 7cf12cb0-71f7-0692-26f0-b20e8a47deed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

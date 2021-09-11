@@ -6,7 +6,7 @@ ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt576716(v=office.15)
 ms:contentKeyID: 70083487
 ms.date: 01/29/2019
 mtps_version: v=office.15
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # VisRecordsetFieldStatus enumeration (Visio)

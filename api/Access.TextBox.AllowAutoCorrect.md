@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.AllowAutoCorrect
 ms.assetid: 9cafa161-c073-855f-edee-c7c9cb32be99
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

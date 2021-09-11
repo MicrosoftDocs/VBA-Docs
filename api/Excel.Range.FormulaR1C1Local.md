@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.FormulaR1C1Local
 ms.assetid: be0e3270-43fd-e6c7-1209-11ed3204e563
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

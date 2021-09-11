@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.IsVisible
 ms.assetid: 34487db4-6377-04f2-6848-a27dc5f4bab6
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

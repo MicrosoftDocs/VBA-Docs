@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.GroupCanceled
 ms.assetid: 135d8176-2c26-12aa-5bff-0df205e0640f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

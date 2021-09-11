@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BottomPadding
 ms.assetid: 75d2b8bb-c5c5-1d00-b175-8db80a7525c5
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

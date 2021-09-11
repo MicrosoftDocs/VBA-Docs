@@ -8,7 +8,7 @@ api_name:
 - Outlook.AutoFormatRule.Parent
 ms.assetid: 42564e9d-ebc7-001d-d002-6fcb3a6b8016
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

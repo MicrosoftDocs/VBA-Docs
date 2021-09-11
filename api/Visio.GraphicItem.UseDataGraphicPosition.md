@@ -8,7 +8,7 @@ api_name:
 - Visio.GraphicItem.UseDataGraphicPosition
 ms.assetid: d463eefb-8103-3701-fd8a-604c65f74713
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.MsoFillType
 ms.assetid: 43dd4aa6-40bc-e798-674d-d016d582631f
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

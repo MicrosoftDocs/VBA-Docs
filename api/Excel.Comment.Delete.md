@@ -8,7 +8,7 @@ api_name:
 - Excel.Comment.Delete
 ms.assetid: c0289c56-cf93-5c86-b62f-cb33083c2c1d
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

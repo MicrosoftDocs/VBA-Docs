@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCConnection.RefreshOnFileOpen
 ms.assetid: aa41bdde-c3c0-70ea-f3bc-99e641a306ac
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

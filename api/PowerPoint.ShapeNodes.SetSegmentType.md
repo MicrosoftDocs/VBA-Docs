@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeNodes.SetSegmentType
 ms.assetid: 8dfca78c-db97-b0a5-37e9-232354c2e21f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.DeleteText
 ms.assetid: e96a305c-085a-d807-1336-9dcc22760a7e
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

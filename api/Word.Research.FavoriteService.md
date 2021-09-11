@@ -8,7 +8,7 @@ api_name:
 - Word.Research.FavoriteService
 ms.assetid: ed8654bb-6f70-fe66-70cf-5736163028d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

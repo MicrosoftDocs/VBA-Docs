@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.InsertRowRange
 ms.assetid: 5957f802-96b8-60a3-74e4-d7abcea7544b
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

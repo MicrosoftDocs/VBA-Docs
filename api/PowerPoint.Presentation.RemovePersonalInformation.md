@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.RemovePersonalInformation
 ms.assetid: beb422cc-23c5-5de5-ed6f-0fc71315daec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

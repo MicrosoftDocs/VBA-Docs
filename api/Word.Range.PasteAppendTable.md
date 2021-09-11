@@ -8,7 +8,7 @@ api_name:
 - Word.Range.PasteAppendTable
 ms.assetid: dc3b9914-b0d6-aa85-a357-a96475680caf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

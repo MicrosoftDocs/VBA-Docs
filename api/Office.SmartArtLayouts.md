@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtLayouts
 ms.assetid: 25e33439-fb5e-01d7-1b85-01884a42ba68
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

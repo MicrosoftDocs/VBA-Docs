@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.HelpFile
 ms.assetid: 2fbe2d70-b8f7-d800-ed46-0ac88125b8f1
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

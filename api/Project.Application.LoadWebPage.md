@@ -5,7 +5,7 @@ api_name:
 - Project.Application.LoadWebPage
 ms.assetid: 393115c4-6245-3a1a-3c98-a5ddc1416aa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

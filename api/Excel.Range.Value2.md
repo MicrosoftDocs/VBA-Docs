@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Value2
 ms.assetid: 0a5d7e6f-2886-5048-66ad-a5078e3465e7
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

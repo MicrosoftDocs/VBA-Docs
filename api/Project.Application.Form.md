@@ -8,7 +8,7 @@ api_name:
 - Project.Application.Form
 ms.assetid: 23e7c800-bda9-c931-bc27-084dec872953
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

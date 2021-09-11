@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.DeleteAfterSubmit
 ms.assetid: 70d7bae4-6809-3708-0ae4-132c2355ea09
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

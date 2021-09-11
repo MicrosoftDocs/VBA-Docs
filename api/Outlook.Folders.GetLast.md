@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folders.GetLast
 ms.assetid: 6d981844-3ac0-c6f9-b2ee-9cf495ab6488
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

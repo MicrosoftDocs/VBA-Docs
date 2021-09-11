@@ -8,7 +8,7 @@ api_name:
 - Excel.ShowSeriesName
 ms.assetid: 73374913-f0b9-501c-7516-4497d6b85977
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

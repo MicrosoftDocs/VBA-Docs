@@ -8,7 +8,7 @@ api_name:
 - Publisher.PhoneticGuide.Parent
 ms.assetid: ea90594f-9f89-1e84-96e3-034b0016ef18
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

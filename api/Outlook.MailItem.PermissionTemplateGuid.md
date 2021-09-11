@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.PermissionTemplateGuid
 ms.assetid: 33436080-1a1c-dee2-5048-83392c241e86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

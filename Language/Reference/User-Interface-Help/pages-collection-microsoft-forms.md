@@ -8,7 +8,7 @@ api_name:
 - Office.Pages
 ms.assetid: 42400a43-7a27-e7d4-16ee-cea265482758
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

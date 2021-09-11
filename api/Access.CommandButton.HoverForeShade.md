@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.HoverForeShade
 ms.assetid: be9e6008-4cc4-94b5-869e-068c3b73443a
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

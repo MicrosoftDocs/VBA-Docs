@@ -3,7 +3,7 @@ title: Enumerating, Searching, and Filtering Items in a Folder
 ms.prod: outlook
 ms.assetid: d786d292-7a0e-0e1a-e132-affbfde37744
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

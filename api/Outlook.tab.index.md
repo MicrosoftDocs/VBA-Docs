@@ -3,7 +3,7 @@ title: Tab.Index Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 2cacd35e-edd4-6733-e932-a05114134754
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

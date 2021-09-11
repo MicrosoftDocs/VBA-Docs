@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.PasswordEncryptionFileProperties
 ms.assetid: 536ad729-424e-5f81-85e9-8a6ed71fb11a
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

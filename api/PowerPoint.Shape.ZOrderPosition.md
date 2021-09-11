@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.ZOrderPosition
 ms.assetid: 07e6c756-ae7b-f6d9-d903-92aef3b7fa9e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

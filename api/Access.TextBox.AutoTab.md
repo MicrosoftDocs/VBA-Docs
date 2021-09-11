@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.AutoTab
 ms.assetid: 27b17921-cd58-e243-e091-2686c64a7c02
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.ValidationRule
 ms.assetid: 1113ce22-08cf-f29d-8290-e2c86b0c4be5
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

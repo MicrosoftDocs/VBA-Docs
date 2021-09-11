@@ -8,7 +8,7 @@ api_name:
 - Office.MetaProperty.IsRequired
 ms.assetid: a48204c3-9176-db22-8373-2bf705e50c22
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

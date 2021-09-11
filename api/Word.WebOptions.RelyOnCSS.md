@@ -8,7 +8,7 @@ api_name:
 - Word.WebOptions.RelyOnCSS
 ms.assetid: 7d203567-e4a8-ac5a-4307-739d07996c2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

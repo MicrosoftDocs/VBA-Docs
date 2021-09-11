@@ -8,7 +8,7 @@ api_name:
 - Excel.DropLines.Parent
 ms.assetid: 9b6d3aba-4658-39b0-a2eb-b3f8b21d2355
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

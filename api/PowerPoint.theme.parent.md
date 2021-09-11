@@ -3,7 +3,7 @@ title: Theme.Parent property (PowerPoint)
 ms.assetid: a4332e6e-cbed-42bc-ef24-cabcde111c57
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

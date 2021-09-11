@@ -8,7 +8,7 @@ api_name:
 - Access.Application.ProductCode
 ms.assetid: b4e374ec-b52f-e73d-174e-bb07f40ab029
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

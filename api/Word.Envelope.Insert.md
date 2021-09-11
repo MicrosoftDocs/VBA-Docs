@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.Insert
 ms.assetid: 6fd42ed0-f8d0-d2be-175d-345f1367de61
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

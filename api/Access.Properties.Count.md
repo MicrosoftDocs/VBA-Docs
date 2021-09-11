@@ -8,7 +8,7 @@ api_name:
 - Access.Properties.Count
 ms.assetid: 00a6039e-82bf-7cfe-d7b2-9e9bdb12aa44
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

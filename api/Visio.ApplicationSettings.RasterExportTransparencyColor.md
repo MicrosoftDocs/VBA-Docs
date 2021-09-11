@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.RasterExportTransparencyColor
 ms.assetid: 39806af2-1bdd-d659-134f-9cd86110e195
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

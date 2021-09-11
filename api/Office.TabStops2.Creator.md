@@ -5,7 +5,7 @@ api_name:
 - Office.TabStops2.Creator
 ms.assetid: be65a4ff-ff1e-7514-0509-5e64de3b74e4
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Pages.Clear Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 48f28487-197a-c938-7051-b21f1ca17a72
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

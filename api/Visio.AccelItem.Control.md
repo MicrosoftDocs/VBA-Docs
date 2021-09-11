@@ -8,7 +8,7 @@ api_name:
 - Visio.AccelItem.Control
 ms.assetid: 4380925b-53ce-154a-f051-f3c7ab205109
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

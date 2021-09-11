@@ -8,7 +8,7 @@ api_name:
 - Excel.Bar3DGroup
 ms.assetid: abbf8004-862f-7d70-2ca7-83f278d32836
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

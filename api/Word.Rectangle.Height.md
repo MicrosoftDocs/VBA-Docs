@@ -8,7 +8,7 @@ api_name:
 - Word.Rectangle.Height
 ms.assetid: 39e76940-67ff-63d1-c0ab-79f2f9f6dd1c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

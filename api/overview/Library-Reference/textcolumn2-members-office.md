@@ -4,7 +4,7 @@ description: Represents a single text column. The TextColumn2 object is a member
 ms.prod: office
 ms.assetid: adfe4540-26e2-b315-6396-313169d503c6
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

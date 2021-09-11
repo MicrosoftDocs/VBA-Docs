@@ -8,7 +8,7 @@ api_name:
 - Word.MappedDataField.Parent
 ms.assetid: 196bd294-ff29-def4-84f5-0af4bc523b66
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

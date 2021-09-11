@@ -8,7 +8,7 @@ api_name:
 - Word.Application.AutoCorrect
 ms.assetid: 0a857e58-f37a-6023-fd13-bcb93109fdcd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

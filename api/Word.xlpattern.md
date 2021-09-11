@@ -3,7 +3,7 @@ title: XlPattern enumeration (Word)
 ms.prod: word
 ms.assetid: 743430eb-203e-7446-818e-79bbcd186b0e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

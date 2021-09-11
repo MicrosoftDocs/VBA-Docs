@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 84a4f616-3ace-0139-57d5-f0c070064ab2
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Customizing Outlook using COM add-ins

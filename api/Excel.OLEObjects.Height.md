@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.Height
 ms.assetid: 1c089f16-3294-275c-8ec0-5a510d6aee6b
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

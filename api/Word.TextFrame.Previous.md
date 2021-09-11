@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.Previous
 ms.assetid: b4d25586-4241-0cfb-4c5e-e5f973c1e83a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

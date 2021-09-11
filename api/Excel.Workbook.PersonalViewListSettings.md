@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.PersonalViewListSettings
 ms.assetid: 998320bf-d703-e42f-8b43-5a7b909a846d
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

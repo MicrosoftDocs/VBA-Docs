@@ -5,7 +5,7 @@ api_name:
 - Project.Profiles.ActiveProfile
 ms.assetid: ae35bf36-f49c-358c-6ea3-db2968665f7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

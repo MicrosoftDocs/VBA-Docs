@@ -8,7 +8,7 @@ api_name:
 - Excel.Styles.Creator
 ms.assetid: 4ca8554c-8acb-8715-c13c-456cb7c255e0
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

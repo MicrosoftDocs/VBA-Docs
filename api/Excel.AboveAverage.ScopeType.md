@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.ScopeType
 ms.assetid: e2cc03b3-82ef-215a-3075-61730de281f6
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

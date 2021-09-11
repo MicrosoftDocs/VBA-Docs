@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c00debc3-c39d-6c58-6206-f0210a6e1ea4
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 # Could not build key. (Error 3250)
   

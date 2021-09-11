@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.DisplayInkComments
 ms.assetid: bce6b184-7640-f51c-1feb-1973de6ff739
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

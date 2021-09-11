@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.GetCustomListContents
 ms.assetid: 3adafb35-f7d0-0233-ff7c-c31d5e48f574
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.Application
 ms.assetid: f92de9f0-9b57-ec63-d741-a8c548533b19
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

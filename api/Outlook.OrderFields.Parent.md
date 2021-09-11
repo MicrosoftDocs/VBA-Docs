@@ -8,7 +8,7 @@ api_name:
 - Outlook.OrderFields.Parent
 ms.assetid: ea9c5766-c0d3-6d3c-ed3f-5a1bf9f31197
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

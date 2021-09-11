@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyFirstIndents
 ms.assetid: a05e77d8-9280-7754-e842-6fe3ae66eaa9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

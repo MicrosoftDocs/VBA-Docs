@@ -8,7 +8,7 @@ api_name:
 - Publisher.DropCap.Size
 ms.assetid: c8111c4f-7b70-76ba-5c8e-acaeb4c90be7
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

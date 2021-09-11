@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.TopPadding
 ms.assetid: f6030eab-cb34-09b8-0015-a1b2febcaa22
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

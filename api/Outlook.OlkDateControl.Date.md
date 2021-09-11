@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkDateControl.Date
 ms.assetid: f1c1a454-4c1f-7ae6-2fbd-f3875beb6cea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

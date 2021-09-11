@@ -8,7 +8,7 @@ api_name:
 - Excel.Tab.ThemeColor
 ms.assetid: 81b073d3-86f6-1d8c-2d60-228d83cb2e66
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

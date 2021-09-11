@@ -8,7 +8,7 @@ api_name:
 - Publisher.Section.PageNumberStart
 ms.assetid: f4124b7d-4a90-2489-13da-947df0c34a3d
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

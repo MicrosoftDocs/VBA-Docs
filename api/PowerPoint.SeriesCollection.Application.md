@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SeriesCollection.Application
 ms.assetid: c872de5e-2a1c-fe96-9966-28e7d30f46c2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

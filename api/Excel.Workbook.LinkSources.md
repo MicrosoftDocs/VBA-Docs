@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.LinkSources
 ms.assetid: 6466bea0-5af8-7af0-e9d7-7595133073ae
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axes.Application
 ms.assetid: cc791f62-243b-07ec-38aa-7048d49bf3f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

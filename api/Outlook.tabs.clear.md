@@ -3,7 +3,7 @@ title: Tabs.Clear Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 06524f2d-1a23-af5f-7fbd-4fffd3aa8d4d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.DocumentLibraryVersions
 ms.assetid: 1be5fae8-0ea1-115f-3786-6979a473448b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

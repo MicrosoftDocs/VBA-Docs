@@ -8,7 +8,7 @@ api_name:
 - Word.OMathAutoCorrect.Parent
 ms.assetid: e325ae54-be32-0c67-c1c4-6a1009c3525c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

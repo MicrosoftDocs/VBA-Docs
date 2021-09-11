@@ -8,7 +8,7 @@ api_name:
 - Access.Form.MaxRecButton
 ms.assetid: 6f5ea968-1f79-1fbc-86e1-fff034dcc827
 ms.date: 03/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

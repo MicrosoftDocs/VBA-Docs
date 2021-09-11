@@ -5,7 +5,7 @@ api_name:
 - Visio.Shape.IsDataGraphicCallout
 ms.assetid: dedf6880-e597-8582-12e5-18bfe6286e66
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

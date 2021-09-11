@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPresetCamera
 ms.assetid: b7495803-a2f1-1dca-da3a-714d6fe9ba56
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

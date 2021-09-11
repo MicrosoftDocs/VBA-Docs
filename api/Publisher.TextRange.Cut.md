@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Cut
 ms.assetid: c9b8b896-26e7-ac58-0e1a-a66ef789f397
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

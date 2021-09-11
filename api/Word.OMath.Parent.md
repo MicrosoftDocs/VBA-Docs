@@ -8,7 +8,7 @@ api_name:
 - Word.OMath.Parent
 ms.assetid: 93e88e49-b9c9-d1b6-67c3-8f985648a74d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

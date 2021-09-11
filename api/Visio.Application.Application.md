@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.Application
 ms.assetid: be058d51-6bfa-c653-da44-fa38e0b96c63
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

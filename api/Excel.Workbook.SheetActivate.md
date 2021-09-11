@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SheetActivate
 ms.assetid: 2a7c05c3-5b66-8012-5ac5-981dcfc7f947
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

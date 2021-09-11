@@ -8,7 +8,7 @@ api_name:
 - Word.OMathFunction.ScrSup
 ms.assetid: fb2baa59-568b-307b-edf5-11b86d230ee1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Exceptions.Count
 ms.assetid: 33103731-ed2b-48b7-2952-522c366abc0c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

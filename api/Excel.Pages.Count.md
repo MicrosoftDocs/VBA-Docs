@@ -8,7 +8,7 @@ api_name:
 - Excel.Pages.Count
 ms.assetid: 8057db6b-1f13-3950-5508-0bbcec892359
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

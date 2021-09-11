@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpIndentControl
 ms.assetid: 54b75a9d-ef31-c768-271e-74aeeb2d9672
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

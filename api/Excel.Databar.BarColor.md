@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.BarColor
 ms.assetid: 68c823f7-93ca-a64a-43ea-bc5bcffa7bb4
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

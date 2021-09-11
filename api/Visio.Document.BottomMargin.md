@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.BottomMargin
 ms.assetid: 5fd185a5-ecc9-000e-f5b0-fa309d52847a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

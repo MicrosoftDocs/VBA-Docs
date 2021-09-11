@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.Overflowing
 ms.assetid: 5a0f053b-519a-1637-0d73-992c56cdd7f0
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

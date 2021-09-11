@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.SoftEdge
 ms.assetid: 5a61651f-0935-cca0-e5dd-c0b71fb703c4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

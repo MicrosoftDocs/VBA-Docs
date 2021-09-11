@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.ModifyAppliesToRange
 ms.assetid: b0bb1278-2a31-321b-1458-d62c30073610
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

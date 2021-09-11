@@ -8,7 +8,7 @@ api_name:
 - Access.Report.DateGrouping
 ms.assetid: e2495aa7-06e9-8eaf-81d8-182c7d51559c
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

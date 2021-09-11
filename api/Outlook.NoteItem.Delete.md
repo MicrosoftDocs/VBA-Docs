@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.Delete
 ms.assetid: 8af18879-a4e7-1ccf-bbc3-5140f506add1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

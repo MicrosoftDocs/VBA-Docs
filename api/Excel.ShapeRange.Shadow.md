@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Shadow
 ms.assetid: b5bbbb48-a061-d9c3-84e8-5bbe05b86007
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

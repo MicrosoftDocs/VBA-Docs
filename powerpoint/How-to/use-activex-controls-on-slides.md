@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: c33a5c5a-b83d-3079-dc00-57b423697ea4
 ms.date: 06/08/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

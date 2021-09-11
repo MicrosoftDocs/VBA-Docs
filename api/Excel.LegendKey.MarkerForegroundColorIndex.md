@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey.MarkerForegroundColorIndex
 ms.assetid: 76721fa3-33b1-adcc-6e00-92e6cf88a1fb
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

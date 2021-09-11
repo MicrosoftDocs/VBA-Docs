@@ -8,7 +8,7 @@ api_name:
 - Word.TableStyle.TopPadding
 ms.assetid: ad0f780e-097e-e368-7b06-5a0159d97151
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

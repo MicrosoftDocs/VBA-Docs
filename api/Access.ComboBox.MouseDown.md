@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.MouseDown
 ms.assetid: 3c780064-35e6-362c-4624-3c326f57080c
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

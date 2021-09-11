@@ -3,7 +3,7 @@ title: Make bulk changes to a DAO Recordset
 ms.prod: access
 ms.assetid: b66c857a-42ed-15c9-e01d-99c451651f3b
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

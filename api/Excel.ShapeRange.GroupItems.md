@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.GroupItems
 ms.assetid: daf6d12c-409a-cf0a-989f-319333d24596
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

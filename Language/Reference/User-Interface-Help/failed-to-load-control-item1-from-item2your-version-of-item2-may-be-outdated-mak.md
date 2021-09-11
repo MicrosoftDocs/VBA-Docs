@@ -3,7 +3,7 @@ title: Failed to load control 'item1' from 'item2'. Your version of 'item2' may 
 ms.prod: office
 ms.assetid: c9bbdce6-db1e-5fde-e052-1110273b4437
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

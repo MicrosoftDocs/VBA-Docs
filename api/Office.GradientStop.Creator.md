@@ -5,7 +5,7 @@ api_name:
 - Office.GradientStop.Creator
 ms.assetid: c321f96e-946d-bee2-9f5a-a9180e559a78
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

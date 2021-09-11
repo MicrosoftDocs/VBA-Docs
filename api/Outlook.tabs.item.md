@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: 3ceaf249-e2e8-4ef2-96f8-6379fbb81c4a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Tabs.Item Method (Outlook Forms Script)

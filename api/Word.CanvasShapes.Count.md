@@ -8,7 +8,7 @@ api_name:
 - Word.CanvasShapes.Count
 ms.assetid: d6f54f95-716b-1b6a-33b8-0dbbc1006a2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

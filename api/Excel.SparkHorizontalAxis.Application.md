@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkHorizontalAxis.Application
 ms.assetid: f353bf0e-ea75-9211-7a3d-55e0474c3a01
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

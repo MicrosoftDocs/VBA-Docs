@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.BeforeUpdate
 ms.assetid: e12072d3-cd24-ce5d-0738-80d44a9c9154
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Borders.TintAndShade
 ms.assetid: 29c591bf-311e-5706-0222-1db144a92b77
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

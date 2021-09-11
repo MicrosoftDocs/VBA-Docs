@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.Bevel
 ms.assetid: 199de5f0-71b1-7fc5-ff40-c4c76229e07c
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

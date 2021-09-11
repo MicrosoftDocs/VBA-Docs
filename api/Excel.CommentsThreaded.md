@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CommentsThreaded
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

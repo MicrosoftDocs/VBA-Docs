@@ -8,7 +8,7 @@ api_name:
 - Excel.CellDragAndDrop
 ms.assetid: f5520c3c-a55f-9d6c-6204-3fa9e72e11ed
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

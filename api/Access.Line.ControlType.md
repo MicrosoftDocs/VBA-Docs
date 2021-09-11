@@ -8,7 +8,7 @@ api_name:
 - Access.Line.ControlType
 ms.assetid: d45b769f-d4d0-00a0-5749-e1ce29ea8933
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

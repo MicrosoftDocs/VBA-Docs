@@ -5,7 +5,7 @@ api_name:
 - Project.OutlineCode.Parent
 ms.assetid: fd9ff0b9-3f51-65c3-88cc-5a0bb9378c20
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

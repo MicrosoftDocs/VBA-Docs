@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Copy
 ms.assetid: e259be01-3369-9c3e-54d7-615dbf595274
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.ValidationIssue.Application
 ms.assetid: 1d6ace63-df7d-565c-dcd1-97d7e357ac28
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

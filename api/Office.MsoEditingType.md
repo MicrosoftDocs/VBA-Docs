@@ -5,7 +5,7 @@ api_name:
 - Office.MsoEditingType
 ms.assetid: 5fe5c4f6-6467-c6a7-197c-ff700c384b92
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

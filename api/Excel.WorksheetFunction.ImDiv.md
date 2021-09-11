@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImDiv
 ms.assetid: 6379d38c-032c-da1e-b71d-cb32f59df51d
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

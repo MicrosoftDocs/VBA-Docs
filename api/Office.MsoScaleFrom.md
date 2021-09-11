@@ -5,7 +5,7 @@ api_name:
 - Office.MsoScaleFrom
 ms.assetid: 9d1bd699-261a-c360-f680-ff4fac667a31
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

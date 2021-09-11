@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.FontSize
 ms.assetid: b78fa323-4fcb-c12a-4166-f1689d9f0a93
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

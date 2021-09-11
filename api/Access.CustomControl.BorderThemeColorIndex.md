@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.BorderThemeColorIndex
 ms.assetid: 4e4d6aeb-dd68-b16f-375a-be4c3cf95286
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

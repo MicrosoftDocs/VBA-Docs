@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedItems.Item
 ms.assetid: ad7642b5-2579-17b4-ed2f-ebcac54bb595
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

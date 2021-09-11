@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayRecentFiles
 ms.assetid: 006a38f4-11dd-1aad-8f5a-3771d4ab1ffc
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

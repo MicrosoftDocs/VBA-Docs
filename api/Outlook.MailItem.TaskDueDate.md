@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.TaskDueDate
 ms.assetid: 161ed0ed-0e3f-2e4c-7e63-daad4e918dd6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

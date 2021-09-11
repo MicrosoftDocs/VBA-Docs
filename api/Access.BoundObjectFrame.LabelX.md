@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.LabelX
 ms.assetid: 1e2dcc6f-f192-aac2-060c-9b848ca18d10
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

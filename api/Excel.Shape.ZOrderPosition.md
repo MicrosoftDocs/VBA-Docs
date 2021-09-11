@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.ZOrderPosition
 ms.assetid: aaf86516-bf5d-bdb5-1d88-eb1784f9b26f
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

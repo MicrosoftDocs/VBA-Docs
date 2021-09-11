@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.TBillEq
 ms.assetid: 4b52fbb3-5d25-3fae-cdf8-ec3d406ce787
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.TabIndex
 ms.assetid: bca68c61-a795-34d9-9e42-97113f1d4387
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

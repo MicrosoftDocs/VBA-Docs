@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLNode.PreviousSibling
 ms.assetid: 511e6dfd-7027-220a-9d3e-e998a43e7239
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

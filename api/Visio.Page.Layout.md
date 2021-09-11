@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.Layout
 ms.assetid: 3611d496-ecb9-674e-b435-8462d55f7256
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

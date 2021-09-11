@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObjects.Parent
 ms.assetid: 479a6593-702e-f834-a944-a68df8cba69f
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

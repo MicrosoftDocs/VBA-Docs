@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceFolders.Parent
 ms.assetid: 1b228f33-d544-df76-1813-be68d0b9bf2c
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

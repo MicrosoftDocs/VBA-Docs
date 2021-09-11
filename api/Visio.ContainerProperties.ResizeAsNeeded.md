@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.ResizeAsNeeded
 ms.assetid: 13bd0493-95fd-73bf-454c-a39c69589bcd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

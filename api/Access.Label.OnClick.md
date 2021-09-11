@@ -8,7 +8,7 @@ api_name:
 - Access.Label.OnClick
 ms.assetid: a498c7de-614f-bdef-2c03-bc6c764b0953
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

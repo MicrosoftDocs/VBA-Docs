@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PivotRowAxis
 ms.assetid: 21aeafc9-6225-6632-b3b9-85365f598cfc
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

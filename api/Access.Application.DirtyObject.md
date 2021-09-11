@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DirtyObject
 ms.assetid: caf82388-d822-967f-c5f9-0042955ea8d8
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

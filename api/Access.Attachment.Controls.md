@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Controls
 ms.assetid: 767fd173-4a85-48ac-820a-9235776b7b00
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorScale.Formula
 ms.assetid: a46cf756-468f-d0ce-dee3-7c03a115afcd
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

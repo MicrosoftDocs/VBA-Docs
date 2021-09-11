@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.PictureSizeMode
 ms.assetid: 07d268ad-d4ba-c9ba-1ef4-7b3e7911ebba
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

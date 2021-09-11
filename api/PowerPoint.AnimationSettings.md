@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings
 ms.assetid: ebbe4257-236b-35b4-bdf1-e92a1b4b417b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

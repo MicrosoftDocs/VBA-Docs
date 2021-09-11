@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.Delete
 ms.assetid: 62821244-206b-039d-d321-e1b373a44d0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

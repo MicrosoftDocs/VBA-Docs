@@ -8,7 +8,7 @@ api_name:
 - Visio.Style.EventList
 ms.assetid: 69d4299f-77df-f170-c4bc-c6f3286ab339
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

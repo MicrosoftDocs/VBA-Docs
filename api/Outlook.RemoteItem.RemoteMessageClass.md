@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.RemoteMessageClass
 ms.assetid: 76060efd-f1e2-4c8a-42e5-adce84df4fac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

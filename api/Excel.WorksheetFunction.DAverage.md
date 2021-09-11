@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DAverage
 ms.assetid: eb94e5a1-625b-796d-74ca-1864c135dfdf
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

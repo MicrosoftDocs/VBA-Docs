@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.VBProjectData
 ms.assetid: dca456ea-dc82-0092-35d1-68b95d51e0b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

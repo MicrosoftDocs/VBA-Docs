@@ -8,7 +8,7 @@ api_name:
 - Excel.Areas
 ms.assetid: 43d05ef3-7ae2-2881-dec2-6fec8281f045
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

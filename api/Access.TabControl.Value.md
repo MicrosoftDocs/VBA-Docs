@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.Value
 ms.assetid: 85849d32-3ef9-b959-fe07-026de226623e
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SetPasswordEncryptionOptions
 ms.assetid: 3b6c9bfe-4cfb-1dde-fd57-07dd474df7db
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

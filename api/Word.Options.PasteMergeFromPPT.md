@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteMergeFromPPT
 ms.assetid: 5e0b04ba-5dce-a3cf-9bc8-672f55b5b10e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

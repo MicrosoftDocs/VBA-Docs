@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.ShapeLinkDeleted
 ms.assetid: c1ae3fda-d5fb-210e-7e84-98ffde8bbd29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

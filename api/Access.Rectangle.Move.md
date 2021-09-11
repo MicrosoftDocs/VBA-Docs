@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Move
 ms.assetid: d5550716-69f9-fcdd-3547-1178b2c1a9f0
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

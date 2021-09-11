@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.BackShade
 ms.assetid: 917bbe83-940a-edc5-8c6d-230af220d641
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

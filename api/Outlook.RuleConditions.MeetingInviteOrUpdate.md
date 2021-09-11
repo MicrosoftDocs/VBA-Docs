@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleConditions.MeetingInviteOrUpdate
 ms.assetid: 0204dfdb-bf93-db11-3550-3b23fdec47c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

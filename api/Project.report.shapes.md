@@ -3,7 +3,7 @@ title: Report.Shapes property (Project)
 ms.prod: project-server
 ms.assetid: 2f62c406-3845-79f8-3d17-e5891c1e23f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

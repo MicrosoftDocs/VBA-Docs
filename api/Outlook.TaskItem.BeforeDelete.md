@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskItem.BeforeDelete
 ms.assetid: bee490b1-2ddb-3942-adfe-ed8051b7b0d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

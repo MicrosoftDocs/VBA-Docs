@@ -5,7 +5,7 @@ api_name:
 - Outlook.SharingItem.AttachmentRead
 ms.assetid: 84374993-a9f6-2741-e644-09030e09eb70
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

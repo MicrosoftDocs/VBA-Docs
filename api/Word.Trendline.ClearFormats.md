@@ -8,7 +8,7 @@ api_name:
 - Word.Trendline.ClearFormats
 ms.assetid: da6a9a53-6dc9-ff4f-0388-b005bd8ce878
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

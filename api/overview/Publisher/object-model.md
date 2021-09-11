@@ -4,7 +4,7 @@ description: This section of the Publisher VBA Reference contains documentation 
 ms.prod: publisher
 ms.assetid: 18165c2b-0a00-4809-9cd0-5098261e5a67
 ms.date: 10/10/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

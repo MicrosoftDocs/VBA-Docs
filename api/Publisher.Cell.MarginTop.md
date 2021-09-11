@@ -8,7 +8,7 @@ api_name:
 - Publisher.Cell.MarginTop
 ms.assetid: f408edd3-7199-b49a-817b-7b0e8461715c
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

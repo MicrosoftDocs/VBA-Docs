@@ -5,7 +5,7 @@ api_name:
 - Project.Application.IsReducedFunctionalityMode
 ms.assetid: d53320db-377d-2e78-10b2-03af8d8bded3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

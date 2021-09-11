@@ -8,7 +8,7 @@ api_name:
 - Access.Image.DisplayWhen
 ms.assetid: 35638607-44a6-b16a-3b58-6490965e528e
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

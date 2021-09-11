@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.ReadingOrder
 ms.assetid: 5d436f27-e896-15c0-3733-ec7629d58214
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

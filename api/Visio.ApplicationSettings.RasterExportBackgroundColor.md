@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.RasterExportBackgroundColor
 ms.assetid: 25591439-b332-af75-dec0-562cd261a453
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

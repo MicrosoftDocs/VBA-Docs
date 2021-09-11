@@ -8,7 +8,7 @@ api_name:
 - Office.AtEndOfStream
 ms.assetid: 157b18dc-fdfb-a9f6-1368-aaf4654a2ef5
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

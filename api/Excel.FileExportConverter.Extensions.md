@@ -8,7 +8,7 @@ api_name:
 - Excel.FileExportConverter.Extensions
 ms.assetid: 448fdc36-4f11-1dff-98c1-797339e04ddb
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

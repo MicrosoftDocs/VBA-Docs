@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrectEntries.Count
 ms.assetid: 65456326-e7b4-b0ea-cf72-6575a708cddc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.AccelItem.AddOnName
 ms.assetid: 5775be57-b4aa-6cdf-89d0-84a646fb8e55
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

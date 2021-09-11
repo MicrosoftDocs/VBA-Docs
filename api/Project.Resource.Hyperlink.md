@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Hyperlink
 ms.assetid: 6ca08bee-46a8-9da3-29db-54d05cfe33ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

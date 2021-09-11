@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.CompactLayoutColumnHeader
 ms.assetid: 63bb7b64-9445-4fa7-6fee-63ac2435ef50
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

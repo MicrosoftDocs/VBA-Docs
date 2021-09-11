@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNamespace.Location
 ms.assetid: 2cd2394c-e7cf-f995-3261-62da3afaab08
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShape.Script
 ms.assetid: 91962d95-8704-5ca2-4619-6842e41e8777
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

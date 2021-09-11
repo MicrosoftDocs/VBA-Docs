@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarView.Delete
 ms.assetid: 90a07253-844e-d40b-6450-c97a9cf85c58
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

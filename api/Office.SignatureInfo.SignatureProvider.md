@@ -5,7 +5,7 @@ api_name:
 - Office.SignatureInfo.SignatureProvider
 ms.assetid: e426f4c6-95f7-dc3f-752d-0fee56bc2c65
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

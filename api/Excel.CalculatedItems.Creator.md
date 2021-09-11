@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedItems.Creator
 ms.assetid: 4ae7771b-4ea6-435e-b255-35320764fc77
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

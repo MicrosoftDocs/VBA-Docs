@@ -5,7 +5,7 @@ api_name:
 - Visio.MouseEvent.Application
 ms.assetid: 9e1ddf36-4b47-b697-1dd5-914a0442113d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

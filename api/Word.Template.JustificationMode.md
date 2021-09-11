@@ -8,7 +8,7 @@ api_name:
 - Word.Template.JustificationMode
 ms.assetid: 914994e8-8ea3-4119-271c-193970da060c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

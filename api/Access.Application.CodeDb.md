@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CodeDb
 ms.assetid: 7f0cff23-1265-231f-9ab5-fa83c19d39cf
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ConversationID
 ms.assetid: 13a4e7cf-66b3-fba6-b179-68eaf1de8db6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

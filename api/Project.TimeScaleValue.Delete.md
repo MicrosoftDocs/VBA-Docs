@@ -5,7 +5,7 @@ api_name:
 - Project.TimeScaleValue.Delete
 ms.assetid: ebe03270-1713-77f9-1ac9-97922b2aa612
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

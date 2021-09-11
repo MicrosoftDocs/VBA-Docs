@@ -5,7 +5,7 @@ api_name:
 - Excel.XlLinkStatus
 ms.assetid: 3bcf7b71-bd31-4073-2e4c-aa8643e5be2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

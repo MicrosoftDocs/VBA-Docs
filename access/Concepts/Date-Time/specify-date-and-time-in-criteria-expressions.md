@@ -3,7 +3,7 @@ title: Specify date and time in criteria expressions
 ms.prod: access
 ms.assetid: 749379e7-5fbe-3371-a780-ca7915d8de43
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

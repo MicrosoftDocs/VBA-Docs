@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.BoldRun
 ms.assetid: 0998afe2-dcd9-c1e4-9614-a1af4c6bbeaf
 ms.date: 05/17/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

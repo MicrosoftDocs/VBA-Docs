@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.RightMargin
 ms.assetid: 13f3fe1f-d5c3-33ac-9b9b-897df8ff5ba9
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

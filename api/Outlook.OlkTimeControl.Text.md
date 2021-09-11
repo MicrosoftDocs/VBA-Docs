@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.Text
 ms.assetid: bf9c97af-65af-655a-642f-17af6513c670
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

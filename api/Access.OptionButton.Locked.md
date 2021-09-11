@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.Locked
 ms.assetid: dac84eb2-1b12-8d4b-37a0-1cdf320f6faf
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

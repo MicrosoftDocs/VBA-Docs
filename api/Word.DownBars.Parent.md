@@ -8,7 +8,7 @@ api_name:
 - Word.DownBars.Parent
 ms.assetid: 938d456d-f8df-cce1-4946-348150a39734
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

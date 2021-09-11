@@ -5,7 +5,7 @@ api_name:
 - Excel.Explosion
 ms.assetid: 252a3533-28df-4317-8af1-7509339409a5
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

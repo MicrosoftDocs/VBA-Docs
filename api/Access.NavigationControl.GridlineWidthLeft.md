@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.GridlineWidthLeft
 ms.assetid: 884b81e2-4941-364f-b195-1731706bbd3d
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

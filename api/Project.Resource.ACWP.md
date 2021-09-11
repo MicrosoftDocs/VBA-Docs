@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.ACWP
 ms.assetid: 13172715-f614-44be-4f10-08b9fa9759a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

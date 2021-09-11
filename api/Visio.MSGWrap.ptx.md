@@ -8,7 +8,7 @@ api_name:
 - Visio.MSGWrap.ptx
 ms.assetid: 2dfae0e3-c78c-7beb-9edc-5b269d7f7c33
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

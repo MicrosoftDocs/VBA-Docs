@@ -8,7 +8,7 @@ api_name:
 - Project.Project.DefaultResourceOvertimeRate
 ms.assetid: 46b26279-651d-53bf-ed2b-3a356f0f506a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

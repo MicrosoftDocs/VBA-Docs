@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat.ColorType
 ms.assetid: 6c183163-8fbd-3a0f-b087-05d8d2cdbfd5
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

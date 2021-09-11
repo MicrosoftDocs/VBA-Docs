@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ODBCTimeout
 ms.assetid: 92262209-6a0f-f58f-e2d7-2f502f6bd397
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

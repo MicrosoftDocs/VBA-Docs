@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Wizard
 ms.assetid: 89014daf-66dc-7913-0b0e-ac80f6e85791
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

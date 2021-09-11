@@ -5,7 +5,7 @@ api_name:
 - Excel.XlPieSliceLocation
 ms.assetid: d0a2df51-6ab1-8f33-9cdb-29fddc98c058
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

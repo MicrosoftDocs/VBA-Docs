@@ -8,7 +8,7 @@ api_name:
 - Outlook.ViewField.ViewXMLSchemaName
 ms.assetid: 69490353-b470-6092-0b8e-b0f1c1549f7a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.InlineAlignment
 ms.assetid: daef2761-2a93-25da-9c12-1fed0fdd24ab
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

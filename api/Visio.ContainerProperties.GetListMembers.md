@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.GetListMembers
 ms.assetid: 9aa6047a-ae20-d05c-cb59-56594ed08b2f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Errors keyword summary
 ms.prod: office
 ms.assetid: 3ddd99d3-5a08-5e61-c7e4-84d9ab7cce00
 ms.date: 11/29/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

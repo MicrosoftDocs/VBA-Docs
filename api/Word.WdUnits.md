@@ -5,7 +5,7 @@ api_name:
 - Word.WdUnits
 ms.assetid: d8726033-e492-0d2d-bea1-3713e84d5701
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Retrieve information from the Clipboard
 ms.prod: access
 ms.assetid: 593d3047-c6c8-ab22-cdeb-aadc8b56ca81
 ms.date: 09/26/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormDescription.UseWordMail
 ms.assetid: fcc3623d-a9d3-db1e-61cf-8a7f0b5dca6c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.TableField.Width
 ms.assetid: ff691a5d-9d39-3ba2-f277-bebd56272a94
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

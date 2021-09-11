@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.BackStyle
 ms.assetid: e522ef3b-b397-c931-7978-2193b3f74b14
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

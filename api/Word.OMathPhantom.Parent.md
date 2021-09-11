@@ -8,7 +8,7 @@ api_name:
 - Word.OMathPhantom.Parent
 ms.assetid: e62b73fd-83a1-3bf8-4ac6-063623eeb810
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

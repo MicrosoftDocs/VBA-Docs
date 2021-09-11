@@ -8,7 +8,7 @@ api_name:
 - Access.Image.OnMouseDown
 ms.assetid: d9c4128e-0a52-698c-a605-cbf31e183e2c
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

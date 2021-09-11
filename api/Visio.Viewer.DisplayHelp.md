@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.DisplayHelp
 ms.assetid: 4d31b711-2521-cfd3-7689-0bd8618126b1
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

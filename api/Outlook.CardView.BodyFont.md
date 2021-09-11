@@ -8,7 +8,7 @@ api_name:
 - Outlook.CardView.BodyFont
 ms.assetid: 8ac8c38b-999b-439e-266c-249770d946c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

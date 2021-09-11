@@ -3,7 +3,7 @@ title: Timeline.StartDate property (Project)
 ms.assetid: 960deebd-d7c3-eee0-2658-ba170bf40fcd
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

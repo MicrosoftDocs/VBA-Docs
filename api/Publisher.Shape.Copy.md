@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Copy
 ms.assetid: cfec06d8-9f9b-4d88-eb28-e9e29fb1aed1
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

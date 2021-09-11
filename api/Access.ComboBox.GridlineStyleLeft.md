@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.GridlineStyleLeft
 ms.assetid: 00bb1dfe-ce6f-2bcc-75c6-bd1088d1c656
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

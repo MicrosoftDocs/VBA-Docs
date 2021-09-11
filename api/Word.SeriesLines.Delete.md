@@ -8,7 +8,7 @@ api_name:
 - Word.SeriesLines.Delete
 ms.assetid: e72eb5fa-4a70-1caa-5697-4d51b0a44537
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

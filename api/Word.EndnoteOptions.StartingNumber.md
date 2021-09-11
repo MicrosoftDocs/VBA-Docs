@@ -8,7 +8,7 @@ api_name:
 - Word.EndnoteOptions.StartingNumber
 ms.assetid: 10d8d08b-dac5-5439-1f75-2d485c905e8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

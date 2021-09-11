@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ProjectMove
 ms.assetid: ba30bd12-a26a-12e5-8cff-df1a34a58df0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

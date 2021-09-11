@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Height
 ms.assetid: 1446cfaa-c8ca-8572-ff73-ef2d6a631788
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

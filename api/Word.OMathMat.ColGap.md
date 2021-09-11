@@ -8,7 +8,7 @@ api_name:
 - Word.OMathMat.ColGap
 ms.assetid: 14789751-5c22-dd1a-17c4-3d517c7bc951
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

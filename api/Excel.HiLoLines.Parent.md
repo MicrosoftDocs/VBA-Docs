@@ -8,7 +8,7 @@ api_name:
 - Excel.HiLoLines.Parent
 ms.assetid: 273d502d-bdd2-a011-973d-248eed982e4b
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

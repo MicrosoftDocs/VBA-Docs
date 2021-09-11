@@ -8,7 +8,7 @@ api_name:
 - Excel.ReplacementList
 ms.assetid: 14209e45-f0e9-a166-7970-ecf3ca79e570
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.FontName
 ms.assetid: 52fe8d6b-9631-76b3-f210-e3b98c405549
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.CalloutFormat.PresetDrop
 ms.assetid: 48d67cad-d93b-2b69-35dd-c3de70340a42
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

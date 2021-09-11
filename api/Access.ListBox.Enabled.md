@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Enabled
 ms.assetid: f6e95fea-f038-e190-ee8c-1ab088e27828
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

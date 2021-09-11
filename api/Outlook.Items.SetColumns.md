@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.SetColumns
 ms.assetid: 90206a68-baf8-282c-5793-fee029fed452
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

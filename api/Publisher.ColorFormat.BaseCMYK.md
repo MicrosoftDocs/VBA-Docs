@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorFormat.BaseCMYK
 ms.assetid: 6bdbace8-0558-65c9-2c6a-235038bf528a
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

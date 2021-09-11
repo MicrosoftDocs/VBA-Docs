@@ -8,7 +8,7 @@ api_name:
 - Visio.Row.Style
 ms.assetid: d11fac30-0349-e202-a3db-fab9c65665a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

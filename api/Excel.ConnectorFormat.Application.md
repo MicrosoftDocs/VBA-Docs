@@ -8,7 +8,7 @@ api_name:
 - Excel.ConnectorFormat.Application
 ms.assetid: c605e69b-6335-c925-8fcb-75b5bfa2999a
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

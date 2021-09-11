@@ -8,7 +8,7 @@ api_name:
 - Access.AcSplitFormOrientation
 ms.assetid: de7f8f35-0972-c413-cf09-a613abf7402c
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

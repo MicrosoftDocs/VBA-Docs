@@ -8,7 +8,7 @@ api_name:
 - Access.Printers.Count
 ms.assetid: d9b60560-200f-9e44-4ec0-3becd14df560
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

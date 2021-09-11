@@ -5,7 +5,7 @@ api_name:
 - Office.MsoAlertIconType
 ms.assetid: bfaa9cfb-bf8e-793e-6981-967f394f6450
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

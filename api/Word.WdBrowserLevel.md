@@ -5,7 +5,7 @@ api_name:
 - Word.WdBrowserLevel
 ms.assetid: 337449df-bbda-2188-1ac5-c56700f13efa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

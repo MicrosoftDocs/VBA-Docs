@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartArea.Shadow
 ms.assetid: 062af1a6-298c-fd5b-0aa5-2e224127ef11
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

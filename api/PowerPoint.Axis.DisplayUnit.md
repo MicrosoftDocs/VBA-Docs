@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.DisplayUnit
 ms.assetid: 6545b191-ef58-49d5-2df3-04d0d0d06476
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

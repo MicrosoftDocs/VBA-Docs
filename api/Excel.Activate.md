@@ -8,7 +8,7 @@ api_name:
 - Excel.Activate
 ms.assetid: 20d0c11c-3ca1-4091-868a-1dcef50a2eba
 ms.date: 03/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

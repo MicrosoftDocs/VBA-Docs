@@ -8,7 +8,7 @@ api_name:
 - Visio.Color.Blue
 ms.assetid: 7291912d-3521-5081-0e9d-4ce1bf1cccda
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

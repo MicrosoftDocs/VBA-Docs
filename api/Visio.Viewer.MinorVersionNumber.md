@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.MinorVersionNumber
 ms.assetid: 9bb21829-690c-0ff3-1e30-f9964cc903c4
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

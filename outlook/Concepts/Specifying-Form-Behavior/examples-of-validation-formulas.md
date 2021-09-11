@@ -3,7 +3,7 @@ title: Examples of Validation Formulas
 ms.prod: outlook
 ms.assetid: 325d58cf-3735-71c4-5b00-bfd3f21e025c
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

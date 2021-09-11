@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.Stat
 ms.assetid: 1cc33fe9-e317-ab3d-1ce1-a7f8c619c4f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

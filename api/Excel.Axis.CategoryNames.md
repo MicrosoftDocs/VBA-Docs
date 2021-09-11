@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.CategoryNames
 ms.assetid: bc565687-ec07-8b60-0bac-a3e13456fefe
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

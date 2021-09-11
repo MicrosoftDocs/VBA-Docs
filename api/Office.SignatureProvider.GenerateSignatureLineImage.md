@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureProvider.GenerateSignatureLineImage
 ms.assetid: 36430574-939a-4050-c7b1-ce738be334a2
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

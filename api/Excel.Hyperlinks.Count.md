@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlinks.Count
 ms.assetid: e3f58f84-9f15-dd33-9561-04d334c368ed
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

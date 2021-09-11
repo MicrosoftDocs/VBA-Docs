@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Timer
 ms.assetid: 395c62a1-5731-01b8-a4ea-852bfb30572f
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

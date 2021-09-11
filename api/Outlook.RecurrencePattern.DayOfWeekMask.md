@@ -8,7 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.DayOfWeekMask
 ms.assetid: 79268798-90ab-4161-5a6e-97669daa475a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

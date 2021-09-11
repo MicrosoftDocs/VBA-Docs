@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.BorderStyle
 ms.assetid: 4eabd32b-8cee-f3f9-b78f-a3ace877e5e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

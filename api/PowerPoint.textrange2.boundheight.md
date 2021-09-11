@@ -3,7 +3,7 @@ title: TextRange2.BoundHeight property (PowerPoint)
 ms.assetid: 0a31b143-3bb6-496e-ae50-acde90472742
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

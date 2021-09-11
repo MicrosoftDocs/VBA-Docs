@@ -8,7 +8,7 @@ api_name:
 - Outlook.SelectNamesDialog.Caption
 ms.assetid: a728bcb5-8eee-8f77-76d7-4c15d53d79e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

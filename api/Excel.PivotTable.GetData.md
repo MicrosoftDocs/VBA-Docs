@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.GetData
 ms.assetid: c3b88918-c515-a976-5f2e-107b981ac76f
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

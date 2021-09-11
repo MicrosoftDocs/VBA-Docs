@@ -8,7 +8,7 @@ api_name:
 - Word.View.RevisionsBalloonWidth
 ms.assetid: f49d96e0-e159-38ec-fa61-6e5ba3827b1b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

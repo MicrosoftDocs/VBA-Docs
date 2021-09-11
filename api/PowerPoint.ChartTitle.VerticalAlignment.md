@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartTitle.VerticalAlignment
 ms.assetid: 5c942c0e-6e9d-b696-d395-a461e92e42ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ShowShapeSearchPane
 ms.assetid: 41c07355-5ce8-25fb-ff34-75c24c6c1e89
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

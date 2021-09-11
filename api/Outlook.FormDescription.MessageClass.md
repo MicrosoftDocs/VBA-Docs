@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormDescription.MessageClass
 ms.assetid: 51ab2c14-de92-b029-e5b8-2e158a626319
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

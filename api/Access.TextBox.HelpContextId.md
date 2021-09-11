@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.HelpContextId
 ms.assetid: 6829c95e-d7fc-c3c6-a8ab-0051c8e9af24
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

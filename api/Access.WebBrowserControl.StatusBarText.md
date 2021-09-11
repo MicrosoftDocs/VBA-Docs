@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.StatusBarText
 ms.assetid: 8d2daa59-e8aa-103a-ce26-99fe8a1eae80
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

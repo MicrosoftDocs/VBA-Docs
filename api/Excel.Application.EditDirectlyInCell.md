@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.EditDirectlyInCell
 ms.assetid: e867a786-5a34-2e12-e7c6-0637650611c0
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

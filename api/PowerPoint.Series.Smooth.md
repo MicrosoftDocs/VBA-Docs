@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Series.Smooth
 ms.assetid: fff72f72-25f3-801c-67eb-b801102c8aed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

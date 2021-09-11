@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DevSq
 ms.assetid: 9f74f91c-f9c0-4ffb-1145-32f010bcc257
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

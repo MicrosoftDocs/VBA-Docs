@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Summary
 ms.assetid: f9e18651-20b6-1094-2ee5-7cd23559498e
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

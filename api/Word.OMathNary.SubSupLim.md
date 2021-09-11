@@ -8,7 +8,7 @@ api_name:
 - Word.OMathNary.SubSupLim
 ms.assetid: 806cf02c-26c3-a76a-5c49-ac67ffa009af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.Move
 ms.assetid: 74581db7-0039-e59b-4371-9457c198e39d
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

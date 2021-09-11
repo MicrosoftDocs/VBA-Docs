@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.Sensitivity
 ms.assetid: db9b25ab-414f-daaf-d64f-47957e496f64
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

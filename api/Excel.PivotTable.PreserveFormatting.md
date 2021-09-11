@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PreserveFormatting
 ms.assetid: d37d215a-b031-5a20-f302-471df3a3b2a2
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

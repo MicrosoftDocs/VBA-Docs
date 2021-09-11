@@ -8,7 +8,7 @@ api_name:
 - Word.TextEffectFormat.NormalizedHeight
 ms.assetid: 7410b830-3b1c-dc32-2ab8-c17a5a743c05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

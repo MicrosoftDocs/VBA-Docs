@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.AutoKeyboardSwitching
 ms.assetid: 05f22aa6-332d-e033-ab9d-550eb08f1018
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

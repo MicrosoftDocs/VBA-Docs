@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.GetCustomStencilFile
 ms.assetid: 10c8ec1d-f4e0-07dd-4487-40f85cbf5497
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

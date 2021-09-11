@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Font.Name
 ms.assetid: 6798b75b-7fb8-a046-1532-a8cc41b76af8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

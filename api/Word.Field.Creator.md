@@ -8,7 +8,7 @@ api_name:
 - Word.Field.Creator
 ms.assetid: 4ef681fd-afbe-7f7b-8143-36616be30334
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

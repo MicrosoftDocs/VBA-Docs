@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.ColumnHidden
 ms.assetid: dfe097a5-18cb-5ee3-9122-cc790159c71e
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

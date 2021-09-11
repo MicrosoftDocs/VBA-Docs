@@ -8,7 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.LoadPictures
 ms.assetid: dc2bcc24-f30b-6d63-e85c-20f29a2aaf03
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

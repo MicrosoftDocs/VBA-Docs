@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PictureTiling
 ms.assetid: 44927121-1ec4-1edf-b3ca-3e00022fab08
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.GluedShapes
 ms.assetid: 0c9c551d-ce28-f7c6-4656-8120962e8d34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

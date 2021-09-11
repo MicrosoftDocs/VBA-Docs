@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.ApplyChartTemplate
 ms.assetid: 53d9e347-1a32-17a1-6426-38776bb87494
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

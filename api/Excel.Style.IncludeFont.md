@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.IncludeFont
 ms.assetid: 280f866f-dcd8-dabd-0673-a26090e7f53a
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

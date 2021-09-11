@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLSchema.Reload
 ms.assetid: 963b941a-0b93-fc02-c150-747975005561
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

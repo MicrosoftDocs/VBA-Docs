@@ -8,7 +8,7 @@ api_name:
 - Access.Hyperlink.ScreenTip
 ms.assetid: b935ea5c-17d8-e3ad-fca2-ef0985daa709
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

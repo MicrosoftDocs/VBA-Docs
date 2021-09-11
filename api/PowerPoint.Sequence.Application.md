@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequence.Application
 ms.assetid: af83a8ca-d6b9-8aa2-2468-d43f4650a101
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

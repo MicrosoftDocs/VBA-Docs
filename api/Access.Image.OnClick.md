@@ -8,7 +8,7 @@ api_name:
 - Access.Image.OnClick
 ms.assetid: ddd7ceb8-59ad-ffc4-771d-17ed0fb42ca2
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Shading.Texture
 ms.assetid: 97fac431-4e0a-fd92-9845-47ee99196a78
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

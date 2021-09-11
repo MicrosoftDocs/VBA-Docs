@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileCommaDelimiter
 ms.assetid: c6a7aefa-2b66-81a9-52ca-033cf606805b
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

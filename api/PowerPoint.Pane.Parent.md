@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Pane.Parent
 ms.assetid: 75432a2d-4db5-076c-dfeb-43955476e3a0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat.IncrementOffsetX
 ms.assetid: eaa71500-16dd-5df1-cf32-920ab71d77bb
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

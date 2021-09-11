@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.OnKey
 ms.assetid: 43662d8b-19e2-2b4a-4c3a-c64be4007643
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

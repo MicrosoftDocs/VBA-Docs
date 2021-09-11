@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.DisableLineHeightGrid
 ms.assetid: 8cb667e6-ce9c-8b1e-253e-bad67032ed72
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.StartUTC
 ms.assetid: 8bfbf95f-bd88-acdc-f592-c41b454afe4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.MsoEnvelope.EnvelopeShow
 ms.assetid: 30d8c943-4108-75e3-5235-d5eebdd389aa
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

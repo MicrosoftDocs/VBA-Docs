@@ -5,7 +5,7 @@ api_name:
 - Publisher.CaptionStyles.Count
 ms.assetid: c666dcd3-deb6-e7e4-df5e-8fea83af45b4
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.PickerResult.SubItems
 ms.assetid: a728f398-4d67-49cc-9ae8-6b14f1923e34
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

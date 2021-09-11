@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetics.Length
 ms.assetid: 62f4c46d-2dc3-d8dc-b699-ca74eff1f77f
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

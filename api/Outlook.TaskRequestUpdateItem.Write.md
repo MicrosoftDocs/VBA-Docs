@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestUpdateItem.Write
 ms.assetid: afad6071-f421-fc9f-c2b9-d090d5301f35
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

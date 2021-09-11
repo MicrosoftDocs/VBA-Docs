@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfFigures.Add
 ms.assetid: 9ebee370-deeb-24b1-0fa1-a98db85e1972
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

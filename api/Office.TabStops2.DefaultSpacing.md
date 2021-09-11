@@ -5,7 +5,7 @@ api_name:
 - Office.TabStops2.DefaultSpacing
 ms.assetid: 78d5846a-2c9a-c341-7323-0e1b2d130b77
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

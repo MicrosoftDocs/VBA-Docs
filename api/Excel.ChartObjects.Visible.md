@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObjects.Visible
 ms.assetid: c7e1fad7-1ed3-d76b-f637-2dfda5fe9b53
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

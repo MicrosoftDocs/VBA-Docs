@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Overallocated
 ms.assetid: 739fcdcd-5ef0-754b-8868-ef3e0662a2e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

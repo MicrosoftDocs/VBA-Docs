@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.PlotOrder
 ms.assetid: c74ba422-ca4d-db60-02aa-7b512bdd0241
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

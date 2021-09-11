@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.HideDuplicates
 ms.assetid: 3bcd4798-81fa-0cfb-4dd4-1ed9150dbb3a
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

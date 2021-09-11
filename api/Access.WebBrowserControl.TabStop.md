@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.TabStop
 ms.assetid: 92f60227-186c-6f46-bc1d-289a28de6bd0
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

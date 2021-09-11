@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.ServerSSOApplicationID
 ms.assetid: 7feb84b6-cd30-86f2-a9af-31bca655f05d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

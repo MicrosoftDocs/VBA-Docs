@@ -8,7 +8,7 @@ api_name:
 - Office.ControlSource
 ms.assetid: 69e5e7bb-5be9-2cca-7693-ac9020578762
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

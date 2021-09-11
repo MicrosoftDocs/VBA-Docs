@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.KeyPress
 ms.assetid: 8417f6e9-7727-c619-0ceb-e68dadd08e3f
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

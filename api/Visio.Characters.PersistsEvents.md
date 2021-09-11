@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.PersistsEvents
 ms.assetid: 3cff9c46-6558-322e-8040-7b24218d94a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

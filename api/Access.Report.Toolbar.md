@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Toolbar
 ms.assetid: e897d294-2d8d-aca7-9aed-4bd2ebd23552
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

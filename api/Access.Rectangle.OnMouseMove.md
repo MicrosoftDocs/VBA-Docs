@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.OnMouseMove
 ms.assetid: 691aad82-38cd-9caf-a4b2-90b3f24a8056
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

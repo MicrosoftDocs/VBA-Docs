@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.MaximumScale
 ms.assetid: 384e52b5-561e-aa07-910c-67ee0fb07ba0
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

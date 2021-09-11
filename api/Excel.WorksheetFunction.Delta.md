@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Delta
 ms.assetid: a8698aa3-88cf-fe5f-be57-f01daddfa4fd
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

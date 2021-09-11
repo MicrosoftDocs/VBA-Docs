@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.OperatingSystem
 ms.assetid: a36c5080-1d7e-a941-1bad-94f92522c7cf
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

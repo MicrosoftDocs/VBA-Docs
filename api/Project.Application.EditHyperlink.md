@@ -8,7 +8,7 @@ api_name:
 - Project.Application.EditHyperlink
 ms.assetid: d652ccc4-207e-933f-c281-a2d5d7db0b76
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

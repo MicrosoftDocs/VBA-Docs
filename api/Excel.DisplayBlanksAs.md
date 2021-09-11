@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayBlanksAs
 ms.assetid: c2669ad5-9532-ea7c-120c-bc8a15878864
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

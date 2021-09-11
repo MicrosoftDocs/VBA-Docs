@@ -5,7 +5,7 @@ api_name:
 - Excel.XlWindowState
 ms.assetid: 80d2ba14-7644-6998-5bff-d8a651502226
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.TaskDependencies.Application
 ms.assetid: 8eccf4cd-a1d6-8e8b-b5e4-c5a3f43463eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

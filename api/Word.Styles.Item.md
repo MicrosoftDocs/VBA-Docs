@@ -8,7 +8,7 @@ api_name:
 - Word.Styles.Item
 ms.assetid: efe843f3-d2d1-3bdc-c5d5-1255d50f8d95
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

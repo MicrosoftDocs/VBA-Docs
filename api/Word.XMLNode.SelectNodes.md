@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.SelectNodes
 ms.assetid: a72d1693-a5da-bf97-179f-4fba2412c4ae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkControl.Format
 ms.assetid: f2fbaf25-ae06-b954-0de2-a368ce023fb0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

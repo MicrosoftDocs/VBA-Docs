@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkControl.HorizontalLayout
 ms.assetid: c613a515-e27b-4046-3089-bc481225f014
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

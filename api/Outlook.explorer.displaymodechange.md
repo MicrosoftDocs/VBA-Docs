@@ -3,7 +3,7 @@ title: Explorer.DisplayModeChange event (Outlook)
 ms.assetid: cee77aad-8905-efed-466e-c2e88cfeeaa2
 ms.date: 06/08/2017
 ms.prod: outlook
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

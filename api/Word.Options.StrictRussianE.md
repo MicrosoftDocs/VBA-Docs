@@ -8,7 +8,7 @@ api_name:
 - Word.Options.StrictRussianE
 ms.assetid: a86bd867-5d89-0383-3718-6b48c78296ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

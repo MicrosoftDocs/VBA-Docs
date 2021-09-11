@@ -8,7 +8,7 @@ api_name:
 - Word.OMathAutoCorrect.UseOutsideOMath
 ms.assetid: befe2f17-3a5d-7a7a-dcc3-dc1895645049
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

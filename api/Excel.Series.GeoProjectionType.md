@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.Series.GeoProjectionType
 ms.date: 10/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Series.GeoProjectionType property (Excel)

@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.EndUTC
 ms.assetid: c741e893-3a29-10cc-0730-a0796d8c2e4c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

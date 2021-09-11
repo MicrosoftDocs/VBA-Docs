@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Parent
 ms.assetid: c588debe-db0f-46a0-a2f4-ff86e4eddc75
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

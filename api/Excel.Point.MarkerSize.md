@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.MarkerSize
 ms.assetid: eb7d0875-6751-d40d-9ae4-401227fb6021
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

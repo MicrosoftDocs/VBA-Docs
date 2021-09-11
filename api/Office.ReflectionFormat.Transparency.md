@@ -5,7 +5,7 @@ api_name:
 - Office.ReflectionFormat.Transparency
 ms.assetid: 3b3768e8-578c-6060-7c55-8a0934ebe65e
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

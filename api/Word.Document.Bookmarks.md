@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Bookmarks
 ms.assetid: 47aaace6-843c-0a2d-e584-7a8ef52f6953
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

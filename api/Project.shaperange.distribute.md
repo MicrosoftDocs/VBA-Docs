@@ -3,7 +3,7 @@ title: ShapeRange.Distribute method (Project)
 ms.prod: project-server
 ms.assetid: 149081d5-8826-1395-e838-1333a4233981
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

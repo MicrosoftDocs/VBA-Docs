@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OnClick
 ms.assetid: 54a5ade7-7da4-9357-588a-7b97f0a44661
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

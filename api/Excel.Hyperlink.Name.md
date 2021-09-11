@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.Name
 ms.assetid: 2b414d28-807f-bdf5-f2e3-b3034717006f
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.ColumnWidth
 ms.assetid: 8a545cee-33fd-8105-d3c2-665ec269c18e
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

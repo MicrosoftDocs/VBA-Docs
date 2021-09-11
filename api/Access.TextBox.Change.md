@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Change
 ms.assetid: adde0a6d-d37a-a457-0dea-f2358adbb665
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

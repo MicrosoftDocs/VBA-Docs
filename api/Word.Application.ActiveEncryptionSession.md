@@ -8,7 +8,7 @@ api_name:
 - Word.Application.ActiveEncryptionSession
 ms.assetid: a9ea5257-4cda-e25d-8af5-e29c10b7faa2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

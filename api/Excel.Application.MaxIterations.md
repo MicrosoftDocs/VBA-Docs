@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.MaxIterations
 ms.assetid: 83f12597-9186-e415-a22b-9e028bd95169
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

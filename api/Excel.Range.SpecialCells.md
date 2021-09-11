@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.SpecialCells
 ms.assetid: 30c2035c-34e3-3b1a-f243-69a9fed97f3b
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

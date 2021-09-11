@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.SelText
 ms.assetid: ba529e92-8a28-1c50-bf0a-0e67ae3645bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

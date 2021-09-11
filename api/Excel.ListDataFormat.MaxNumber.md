@@ -8,7 +8,7 @@ api_name:
 - Excel.ListDataFormat.MaxNumber
 ms.assetid: 61262a29-7a35-e351-71fa-0b217285e2b3
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.OtherCorrectionsException.Application
 ms.assetid: a1a471c2-d159-9a60-6a2e-3eee5ec19a2c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.ShapeChanged
 ms.assetid: cc831cfe-a0b5-58c8-a204-21a11de4262f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

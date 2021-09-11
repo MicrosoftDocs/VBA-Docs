@@ -8,7 +8,7 @@ api_name:
 - Word.Cells.Shading
 ms.assetid: ea9f4c8a-254d-6197-0f90-fa79465f940f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

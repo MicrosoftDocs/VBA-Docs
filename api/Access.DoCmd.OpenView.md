@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenView
 ms.assetid: 8d2970dd-9a06-f917-04da-850b085126dd
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

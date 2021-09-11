@@ -5,7 +5,7 @@ api_name:
 - Excel.XlRunAutoMacro
 ms.assetid: 03724ab8-23dd-1bbd-6a47-719309a17648
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

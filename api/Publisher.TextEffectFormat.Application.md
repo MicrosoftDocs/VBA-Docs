@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.Application
 ms.assetid: ecf4949b-ebf6-5a0e-6ba9-b0b3365ec77f
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

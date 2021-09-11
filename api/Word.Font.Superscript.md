@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Superscript
 ms.assetid: 07a1f270-263e-00af-ed8f-3b9d2904e78b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

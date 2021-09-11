@@ -8,7 +8,7 @@ api_name:
 - Excel.UsedObjects.Creator
 ms.assetid: 18526467-0a48-b372-bb34-6a810da25ce2
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.BeforeDelConfirm
 ms.assetid: 8926afb1-5a86-eddd-5b3f-68abe83fb076
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

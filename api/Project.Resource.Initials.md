@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Initials
 ms.assetid: b74494c1-955d-2984-9c3c-4271d382deb1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

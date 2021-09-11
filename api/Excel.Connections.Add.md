@@ -9,7 +9,7 @@ api_name:
 - Excel.Connections.Add
 ms.assetid: 2dff072d-b250-e052-64d7-f75a4746a23f
 ms.date: 07/20/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

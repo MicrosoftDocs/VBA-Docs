@@ -5,7 +5,7 @@ api_name:
 - Project.Group.GroupCriteria
 ms.assetid: c021a7ca-1e80-4318-7612-3d2bf579b683
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

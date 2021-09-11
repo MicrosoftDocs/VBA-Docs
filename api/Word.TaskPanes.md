@@ -5,7 +5,7 @@ api_name:
 - Word.TaskPanes
 ms.assetid: a560a41b-a1d7-175a-b475-af742c9fa1f8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

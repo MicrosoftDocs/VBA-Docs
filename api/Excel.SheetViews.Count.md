@@ -8,7 +8,7 @@ api_name:
 - Excel.SheetViews.Count
 ms.assetid: 626ada01-6eda-5531-e230-f1d00ea6ac08
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

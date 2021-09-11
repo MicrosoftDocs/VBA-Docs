@@ -8,7 +8,7 @@ api_name:
 - Office.IConverterUICallback.HrMessageBox
 ms.assetid: 41174ca5-0248-6f1b-23ce-54183a52ae48
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.InsertNotes
 ms.assetid: aa57d3c7-31d6-c7b2-7cda-576368a686a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

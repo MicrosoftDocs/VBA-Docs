@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.Shadow
 ms.assetid: 13f8b3b9-58e1-f28b-c99b-fa6bcdf39338
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.BarBorder
 ms.assetid: d573e56e-cd02-c67e-ace8-8e8bdf2efd00
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

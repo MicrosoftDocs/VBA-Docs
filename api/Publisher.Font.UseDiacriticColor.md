@@ -8,7 +8,7 @@ api_name:
 - Publisher.Font.UseDiacriticColor
 ms.assetid: 368d3599-b0b0-1790-0ce0-13f1936bccb0
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

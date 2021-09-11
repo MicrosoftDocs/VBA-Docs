@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Words
 ms.assetid: 0507992a-882a-81ed-c95f-5c7e26c70ebf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

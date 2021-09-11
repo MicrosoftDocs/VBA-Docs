@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.MoveIntoTextFlow
 ms.assetid: bf76c82c-09de-5238-2c48-6addc5a4f000
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

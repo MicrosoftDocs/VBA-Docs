@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CanRecordSounds
 ms.assetid: a2175b38-ee89-2e92-ffaa-c550115e319b
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

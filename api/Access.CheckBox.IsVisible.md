@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.IsVisible
 ms.assetid: 2fa958e4-1580-c69e-739a-3b9e49a5713f
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

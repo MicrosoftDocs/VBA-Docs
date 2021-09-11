@@ -3,7 +3,7 @@ title: ViewCtl Object (Outlook View Control)
 ms.prod: outlook
 ms.assetid: e5737688-6196-bc0a-767c-7b1fe7071fce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

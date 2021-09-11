@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Baseline4Work
 ms.assetid: d1d075e6-c248-1b7c-470c-95ae2241def7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

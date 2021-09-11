@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AutomationSecurity
 ms.assetid: ae19bf93-dc0f-f18a-d8ce-f54108602844
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

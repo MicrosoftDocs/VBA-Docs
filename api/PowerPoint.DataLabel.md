@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DataLabel
 ms.assetid: a17d23c5-0361-9129-28e5-b892f6966bda
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

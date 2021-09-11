@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.QueryCancelMasterDelete
 ms.assetid: 44720e86-63cf-c392-e981-672969e09f25
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

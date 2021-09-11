@@ -8,7 +8,7 @@ api_name:
 - Access.Module.InsertText
 ms.assetid: 105c77fe-29a3-ef93-3d01-8420f7725325
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

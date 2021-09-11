@@ -8,7 +8,7 @@ api_name:
 - Outlook.AutoFormatRules.Session
 ms.assetid: 725f7311-29bd-8536-4625-896cc9baffcb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.Orientation
 ms.assetid: f1bb3b1f-d0ae-4cd2-d406-75690cb43714
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

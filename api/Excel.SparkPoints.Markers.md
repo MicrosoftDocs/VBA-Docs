@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkPoints.Markers
 ms.assetid: 13d678b9-c0d1-93d1-3c0a-6c2b9a33cdc2
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.ChangeCase
 ms.assetid: c59fd653-02e6-0e9a-a7a7-3806a75fc146
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

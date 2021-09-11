@@ -8,7 +8,7 @@ api_name:
 - Visio.Style.CellsU
 ms.assetid: 3f4aae37-cd43-5128-a8fa-ac74c5a2b5a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

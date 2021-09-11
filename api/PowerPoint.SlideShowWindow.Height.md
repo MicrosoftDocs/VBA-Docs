@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowWindow.Height
 ms.assetid: 0108ffd6-2a91-4add-526f-9d34523ca3b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

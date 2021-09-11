@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SelectionChange
 ms.assetid: e31876fc-103a-d231-a6fa-7cb026a343e1
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.BuiltInDocumentProperties
 ms.assetid: d59341c4-70f4-b9be-0db6-3673d588a6bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ListItemsEditForm
 ms.assetid: 5db884d4-4d9f-23b5-9e3a-f6de953a4800
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

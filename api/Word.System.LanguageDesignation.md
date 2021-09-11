@@ -8,7 +8,7 @@ api_name:
 - Word.System.LanguageDesignation
 ms.assetid: c2cf7b97-262d-1b41-3d2e-58d93c243e4e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.AppointmentItem.BeforeCheckNames
 ms.assetid: e68833b3-c585-725a-aa71-bbba9ffbad16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

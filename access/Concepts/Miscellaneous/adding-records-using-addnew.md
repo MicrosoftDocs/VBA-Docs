@@ -4,7 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: b37978c6-cb5c-d54d-d6d8-b088b6218c5b
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Adding records using AddNew 

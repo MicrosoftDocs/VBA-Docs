@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Ordinal
 ms.assetid: 533ad2a0-a46b-2fbb-dc5f-29a2b838fe83
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

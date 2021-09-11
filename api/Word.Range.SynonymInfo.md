@@ -8,7 +8,7 @@ api_name:
 - Word.Range.SynonymInfo
 ms.assetid: b63d2a0b-baa1-306d-10ee-72223099a9f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

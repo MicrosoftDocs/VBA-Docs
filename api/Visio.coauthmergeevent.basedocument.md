@@ -3,7 +3,7 @@ title: CoauthMergeEvent.BaseDocument property (Visio)
 ms.prod: visio
 ms.assetid: 7ec09a85-6f51-685b-0c87-4b9eb3266773
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

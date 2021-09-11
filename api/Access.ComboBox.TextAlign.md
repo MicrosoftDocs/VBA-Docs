@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.TextAlign
 ms.assetid: c5de59ad-f41f-8f19-6056-16ca88a1937d
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.CanvasArrangementType
 ms.assetid: d86ee471-0c23-e6fc-d38c-b65e8c14d4c4
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CanvasShapes.BuildFreeform
 ms.assetid: eb960023-aeda-d272-c9c8-5474fb5867b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

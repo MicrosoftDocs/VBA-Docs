@@ -3,7 +3,7 @@ title: Engagement.ProjectName property (Project)
 ms.assetid: b1a82d6e-850d-e519-1d17-1699b1ecb56f
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

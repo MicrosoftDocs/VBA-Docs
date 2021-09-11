@@ -5,7 +5,7 @@ api_name:
 - Office.XlDataLabelPosition
 ms.assetid: 943ca7ac-761c-a0ed-0f5b-4a6ab4a75300
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

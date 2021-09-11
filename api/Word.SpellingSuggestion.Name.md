@@ -8,7 +8,7 @@ api_name:
 - Word.SpellingSuggestion.Name
 ms.assetid: c8c1e393-27a6-e2a0-a651-e7f638a369e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

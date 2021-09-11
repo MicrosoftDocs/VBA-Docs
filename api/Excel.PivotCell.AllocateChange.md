@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCell.AllocateChange
 ms.assetid: 21865f48-a011-478b-b485-16eba786dd92
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

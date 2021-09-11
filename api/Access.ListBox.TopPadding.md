@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.TopPadding
 ms.assetid: b453cfc4-d059-395a-7c62-ae07f12e1677
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

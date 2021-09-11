@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.SelectionChanged
 ms.assetid: 52f5dc68-51d8-7ee0-a31e-ba7525d9c470
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

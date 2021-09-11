@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.OnEnter
 ms.assetid: 381870d2-b3f2-d914-bdd5-0a120e1f28da
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

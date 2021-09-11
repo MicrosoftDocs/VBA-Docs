@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Percentile
 ms.assetid: a4918744-a7b1-28f9-4591-58c5ebf25c10
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

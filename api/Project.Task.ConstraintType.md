@@ -8,7 +8,7 @@ api_name:
 - Project.Task.ConstraintType
 ms.assetid: cdcd6a0d-a996-646d-130e-1a5ed2c93705
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

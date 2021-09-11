@@ -8,7 +8,7 @@ api_name:
 - Excel.ModuleView.Sheet
 ms.assetid: 69b58d96-2f32-7fb4-eff7-889de6c72fcf
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

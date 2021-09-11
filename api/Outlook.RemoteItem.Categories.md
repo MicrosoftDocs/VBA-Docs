@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.Categories
 ms.assetid: 7e4639b6-4fa5-ff9b-640e-d96702dc09e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

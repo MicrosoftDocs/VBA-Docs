@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.Parent
 ms.assetid: 3930aa9d-0e65-f8b4-888d-5ed28b8373ab
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

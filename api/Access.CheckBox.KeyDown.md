@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.KeyDown
 ms.assetid: 185941fa-3ae0-47ba-b3c5-b4acd82417f8
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

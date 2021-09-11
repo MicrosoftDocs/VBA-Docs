@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.FormatCount
 ms.assetid: 269825eb-a51d-5494-292b-b524e321d248
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

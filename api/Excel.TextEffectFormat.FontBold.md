@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.FontBold
 ms.assetid: 19773cce-32d3-b07f-4650-5a19a4aa469a
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

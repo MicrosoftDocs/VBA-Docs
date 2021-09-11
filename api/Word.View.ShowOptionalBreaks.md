@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowOptionalBreaks
 ms.assetid: e8d6d19e-9183-52cb-df79-d3678e75a461
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

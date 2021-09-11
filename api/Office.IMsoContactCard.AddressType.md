@@ -8,7 +8,7 @@ api_name:
 - Office.IMsoContactCard.AddressType
 ms.assetid: debb9ddd-4e7e-0a3b-d361-b48e7c6dff64
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Font.Underline
 ms.assetid: ee21ab18-b131-7e4d-de19-93c9b7549d3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

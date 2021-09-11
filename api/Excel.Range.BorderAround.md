@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.BorderAround
 ms.assetid: 3ffeb131-45f7-7799-e04a-11577fedaa16
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

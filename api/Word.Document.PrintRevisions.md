@@ -8,7 +8,7 @@ api_name:
 - Word.Document.PrintRevisions
 ms.assetid: 2dd7e497-70de-6bd5-7692-5757811fdec7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLPrefixMappings.AddNamespace
 ms.assetid: a4a58a81-3fdc-f808-ac19-0eb27e944f29
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

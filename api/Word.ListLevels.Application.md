@@ -8,7 +8,7 @@ api_name:
 - Word.ListLevels.Application
 ms.assetid: 3f4c9725-939f-7b89-7833-a40446106db3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

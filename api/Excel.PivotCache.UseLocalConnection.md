@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.UseLocalConnection
 ms.assetid: ce54adf2-22f3-f4dc-8b97-276d6ca53478
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

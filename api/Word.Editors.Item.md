@@ -8,7 +8,7 @@ api_name:
 - Word.Editors.Item
 ms.assetid: 58fee673-6162-37e3-803d-5fd0ce1fb144
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

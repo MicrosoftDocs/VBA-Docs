@@ -3,7 +3,7 @@ title: ShapeRange.IncrementRotation method (Project)
 ms.prod: project-server
 ms.assetid: 404bd4de-7c5f-3107-baa1-63c4c3362537
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

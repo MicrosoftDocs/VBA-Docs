@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ResourceComparison
 ms.assetid: 42223a8d-cc71-26c0-35e8-c184b40a46c2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

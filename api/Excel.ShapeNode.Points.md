@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeNode.Points
 ms.assetid: fe09c78f-44c9-4e66-df7b-c23720216ec5
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

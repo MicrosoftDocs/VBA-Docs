@@ -8,7 +8,7 @@ api_name:
 - Publisher.Tag
 ms.assetid: f485d2cc-8e39-5aa3-d407-8c14401ec8bd
 ms.date: 06/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.CreationTime
 ms.assetid: 787436e0-d3a0-b86b-6eeb-ac392b32e4c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

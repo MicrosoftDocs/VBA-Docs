@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.NumeralShapes
 ms.assetid: b89bf0e9-7cd2-0676-ca07-0d813cd175e9
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

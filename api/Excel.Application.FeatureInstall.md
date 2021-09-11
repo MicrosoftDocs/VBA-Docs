@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FeatureInstall
 ms.assetid: 0bfe9d01-543c-9ea8-8ff6-2032f056b070
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

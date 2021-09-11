@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame.HorizontalAlignment
 ms.assetid: d27deba0-dce5-de76-5d1e-88529a0bf946
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

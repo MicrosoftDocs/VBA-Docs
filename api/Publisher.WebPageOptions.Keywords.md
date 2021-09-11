@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebPageOptions.Keywords
 ms.assetid: 8dd7b073-747e-a6f6-a20d-0b3e3d9a27b8
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

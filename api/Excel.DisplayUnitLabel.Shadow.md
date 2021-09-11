@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Shadow
 ms.assetid: 4bba86c9-1407-a3ca-d98d-bee3b1f87493
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

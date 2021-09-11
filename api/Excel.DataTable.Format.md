@@ -8,7 +8,7 @@ api_name:
 - Excel.DataTable.Format
 ms.assetid: 26ff711b-3ad5-c239-1181-dec95e60ad7f
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

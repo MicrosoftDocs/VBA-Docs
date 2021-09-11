@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.AfterResume
 ms.assetid: 73cac713-6559-ae7c-32a6-5c421302a3d9
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

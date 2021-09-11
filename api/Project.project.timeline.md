@@ -3,7 +3,7 @@ title: Project.Timeline property (Project)
 ms.assetid: 6e463f3b-28fb-79dc-c51f-c3512183a310
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

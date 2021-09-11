@@ -8,7 +8,7 @@ api_name:
 - Excel.SizeRepresents
 ms.assetid: 54f87d5a-e388-e1d1-8a20-bec820f3449c
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

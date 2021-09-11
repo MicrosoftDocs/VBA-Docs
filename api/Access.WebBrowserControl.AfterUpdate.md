@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.AfterUpdate
 ms.assetid: 902cd078-1f4b-d35a-4136-bc43914b8503
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

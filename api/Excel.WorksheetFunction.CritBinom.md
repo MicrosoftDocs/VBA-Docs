@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CritBinom
 ms.assetid: df9bb77f-b3b5-3e2b-d0b1-f42aabe9c14a
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.ContactNames
 ms.assetid: 2cbafecb-4984-ed71-efec-c0a565966218
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

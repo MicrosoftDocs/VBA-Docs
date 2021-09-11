@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CalloutFormat
 ms.assetid: 7c06fe17-499e-b23c-3739-e53fe33d06f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

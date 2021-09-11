@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.ActualOvertimeCost
 ms.assetid: ee89c244-f153-e42c-3e56-a1d363b62f9c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

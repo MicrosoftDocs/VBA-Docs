@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.Z
 ms.assetid: 2c07809e-945c-f031-8657-33458daca8bb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

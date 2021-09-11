@@ -8,7 +8,7 @@ api_name:
 - Word.KeysBoundTo.Parent
 ms.assetid: 7b432b64-df2a-0440-f1d3-b28ba9f954bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.NextLinkedTextFrame
 ms.assetid: 5ba08ab5-8515-4efe-59a3-79a11f6a7c4e
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

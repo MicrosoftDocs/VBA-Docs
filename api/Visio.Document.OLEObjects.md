@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.OLEObjects
 ms.assetid: 3cb58d69-2287-2dbc-a6fb-f8a1ec9cf854
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

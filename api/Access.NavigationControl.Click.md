@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.Click
 ms.assetid: c49b26bd-dbab-666a-ecc0-2b3137bb10a0
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

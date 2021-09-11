@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.BottomMargin
 ms.assetid: db09e17d-8ef7-12f3-428d-1e6a0a551f4a
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

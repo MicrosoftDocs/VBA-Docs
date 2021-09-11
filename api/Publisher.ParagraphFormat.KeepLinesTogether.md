@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.KeepLinesTogether
 ms.assetid: a0f3f2f0-d986-4928-3c4f-0665711a6876
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

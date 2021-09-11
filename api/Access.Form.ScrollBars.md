@@ -8,7 +8,7 @@ api_name:
 - Access.Form.ScrollBars
 ms.assetid: d35e3e88-10ce-20f8-d4b1-305b27992395
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspace.Links
 ms.assetid: 7389c657-8028-3914-cb03-5f2f50c448b5
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

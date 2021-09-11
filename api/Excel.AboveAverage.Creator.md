@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.Creator
 ms.assetid: 87047e1c-b3d2-d95f-43c4-323427f998ec
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

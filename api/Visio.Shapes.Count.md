@@ -8,7 +8,7 @@ api_name:
 - Visio.Shapes.Count
 ms.assetid: 7e3246ec-f339-89b7-6e25-86217de86382
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

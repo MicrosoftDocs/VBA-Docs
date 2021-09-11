@@ -8,7 +8,7 @@ api_name:
 - Word.OMath.ArgSize
 ms.assetid: 6c3cca63-3404-6793-9a91-400506a15873
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

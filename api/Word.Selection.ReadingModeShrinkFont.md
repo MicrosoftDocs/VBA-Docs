@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.ReadingModeShrinkFont
 ms.assetid: 58472c33-7f8e-dc3b-04d8-7b50ca911ed4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

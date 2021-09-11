@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Weekday
 ms.assetid: dc3140ba-98bf-8e56-5440-5eba914b30bc
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

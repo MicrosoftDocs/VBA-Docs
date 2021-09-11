@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.NoAging
 ms.assetid: d8559f9a-b0e5-03ce-febd-e2bd2ca033c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

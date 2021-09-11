@@ -5,7 +5,7 @@ api_name:
 - Word.WdWrapTypeMerged
 ms.assetid: a227f0d4-2a0a-fa91-07f1-e94cd8eff798
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

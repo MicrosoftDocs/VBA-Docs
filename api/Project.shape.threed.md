@@ -3,7 +3,7 @@ title: Shape.ThreeD property (Project)
 ms.prod: project-server
 ms.assetid: 2f5ebc06-e59b-bfe1-fb02-0faf2fc1f1df
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

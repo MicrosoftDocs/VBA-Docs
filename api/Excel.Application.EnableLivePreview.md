@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.EnableLivePreview
 ms.assetid: 44163fba-3883-7744-de8b-36a0bd7f9e27
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

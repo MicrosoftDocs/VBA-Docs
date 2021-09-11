@@ -5,7 +5,7 @@ api_name:
 - Outlook.JournalItem.Close
 ms.assetid: 799ff435-3fca-85a5-bc39-99ffaf237505
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

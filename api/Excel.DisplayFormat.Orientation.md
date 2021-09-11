@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayFormat.Orientation
 ms.assetid: e60e9ee7-814e-9649-7eb4-fb7847eaa008
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

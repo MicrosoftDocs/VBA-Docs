@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.GridlineWidthTop
 ms.assetid: 337537e4-7754-40a9-b5e7-c672076578f9
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

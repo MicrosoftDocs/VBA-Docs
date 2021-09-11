@@ -4,7 +4,7 @@ description: A list of all enumerations in the Graph object model.
 ms.prod: excel
 ms.assetid: 069c9a0f-0f51-ba87-2e83-8f8db63ad656
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

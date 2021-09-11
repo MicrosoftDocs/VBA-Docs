@@ -3,7 +3,7 @@ title: Change the Default Form for a Folder
 ms.prod: outlook
 ms.assetid: 44e97ef3-b4db-35c9-1197-51c59457ad3d
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.FontItalic
 ms.assetid: 7147f297-b88b-c0b0-94eb-73977c1809ba
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

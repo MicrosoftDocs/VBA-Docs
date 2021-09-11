@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.TemplatesPath
 ms.assetid: 2db8397d-248b-7499-7959-1772b51d71a2
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

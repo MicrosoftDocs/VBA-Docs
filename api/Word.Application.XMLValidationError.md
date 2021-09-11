@@ -8,7 +8,7 @@ api_name:
 - Word.Application.XMLValidationError
 ms.assetid: bb75a555-fb5e-fb7b-f152-4c6436ecb1c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

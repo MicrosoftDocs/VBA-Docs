@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.TextStyles
 ms.assetid: a628e5c1-aed7-dd70-81fa-d9fb54afb527
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

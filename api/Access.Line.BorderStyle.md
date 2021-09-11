@@ -8,7 +8,7 @@ api_name:
 - Access.Line.BorderStyle
 ms.assetid: 1ddf622c-b1c4-009b-06df-0a6bc819b367
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

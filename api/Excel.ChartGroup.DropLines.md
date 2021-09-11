@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.DropLines
 ms.assetid: bf8ba5e6-ca8a-d664-f0b6-fe2af0353fbf
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

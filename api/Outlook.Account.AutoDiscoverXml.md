@@ -8,7 +8,7 @@ api_name:
 - Outlook.Account.AutoDiscoverXml
 ms.assetid: 201c5aba-5cff-0934-a750-b4ac0cb30860
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

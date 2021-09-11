@@ -8,7 +8,7 @@ api_name:
 - Word.Global.StatusBar
 ms.assetid: 6c304f2e-ab89-a78a-e092-ccb83bb392be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

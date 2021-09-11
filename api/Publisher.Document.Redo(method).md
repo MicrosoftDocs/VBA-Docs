@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.Redo
 ms.assetid: 4b76aeaa-77f7-5f22-ff80-77479b0f0702
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

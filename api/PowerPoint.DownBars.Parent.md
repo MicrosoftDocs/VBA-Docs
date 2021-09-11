@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DownBars.Parent
 ms.assetid: 6e4a65de-c892-c0cc-1ec8-c7929f12539a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

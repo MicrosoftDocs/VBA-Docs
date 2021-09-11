@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.XlChartGallery
 ms.assetid: 2b77fffe-d02d-bdd0-5784-25370d9cf820
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

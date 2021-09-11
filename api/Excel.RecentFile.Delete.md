@@ -8,7 +8,7 @@ api_name:
 - Excel.RecentFile.Delete
 ms.assetid: 3e37b557-56a1-a8c0-dcd6-17945a1bc8d4
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.SynonymInfo.AntonymList
 ms.assetid: 4ba1a1b1-79c7-e230-2eae-7b64182fa232
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

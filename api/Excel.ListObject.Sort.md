@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.Sort
 ms.assetid: 92c96e0f-354f-231a-ccff-8ff1a3049ddf
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

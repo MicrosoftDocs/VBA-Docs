@@ -8,7 +8,7 @@ api_name:
 - Access.References.Count
 ms.assetid: 185e5a96-96c9-74ec-c70d-7eb982249217
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

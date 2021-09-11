@@ -8,7 +8,7 @@ api_name:
 - Access.Control.ItemsSelected
 ms.assetid: 348bc66f-4274-df2e-fdec-d36f678fd7de
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Exit
 ms.assetid: a083d56d-7a57-6874-14e6-c830f598a950
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

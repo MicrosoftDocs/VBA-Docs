@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TableReset
 ms.assetid: 1db786fb-b79d-0404-fe39-4118e10f3cb4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

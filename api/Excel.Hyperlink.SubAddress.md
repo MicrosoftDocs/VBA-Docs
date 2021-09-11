@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.SubAddress
 ms.assetid: e83633c1-66b7-02f1-0e05-0397dc4f41ae
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

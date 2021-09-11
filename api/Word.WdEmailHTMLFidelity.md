@@ -5,7 +5,7 @@ api_name:
 - Word.WdEmailHTMLFidelity
 ms.assetid: c78bca31-084a-48f6-30af-cbf32361a0fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

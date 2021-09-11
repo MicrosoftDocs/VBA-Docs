@@ -8,7 +8,7 @@ api_name:
 - Access.Section.NewRowOrCol
 ms.assetid: c14c669a-9aff-6fc1-9bcc-b7bf011abed1
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

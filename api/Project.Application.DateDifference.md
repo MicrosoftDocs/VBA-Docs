@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DateDifference
 ms.assetid: 7f34e866-5cd3-971d-42ee-39e7768c1273
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

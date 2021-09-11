@@ -8,7 +8,7 @@ api_name:
 - Word.Application.MailMergeBeforeMerge
 ms.assetid: 968cf799-255f-b6fc-f576-7aec093ab1cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

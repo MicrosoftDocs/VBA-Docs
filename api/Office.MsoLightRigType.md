@@ -5,7 +5,7 @@ api_name:
 - Office.MsoLightRigType
 ms.assetid: 54a42ee8-a029-0580-eddc-adc305f34d0d
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

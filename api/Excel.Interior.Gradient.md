@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.Gradient
 ms.assetid: 23e55b1c-2fc8-af37-d674-0bb8dd2b1af7
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

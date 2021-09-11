@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceMember.Parent
 ms.assetid: 71a276c6-4145-827e-e033-38eb1d11ed42
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

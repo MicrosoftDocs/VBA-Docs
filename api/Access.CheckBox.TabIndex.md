@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.TabIndex
 ms.assetid: 094064c7-83f3-8d3d-25f2-b5b2956331ef
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

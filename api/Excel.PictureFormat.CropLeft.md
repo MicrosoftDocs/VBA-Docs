@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat.CropLeft
 ms.assetid: e5d542cb-8653-c798-aede-28c58e4979d6
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

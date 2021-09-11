@@ -5,7 +5,7 @@ api_name:
 - Office.TextFrame2.HorizontalAnchor
 ms.assetid: 27419e1a-63e6-a08b-2d45-0cd21ada8889
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

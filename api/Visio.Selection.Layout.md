@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Layout
 ms.assetid: 58ff8c1f-92b3-2473-d786-28e64e7c5586
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.TextFrame2
 ms.assetid: bc76d1e5-3feb-51c9-a4d4-61f0bf36183f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

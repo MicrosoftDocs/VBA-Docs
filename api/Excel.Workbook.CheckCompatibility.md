@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CheckCompatibility
 ms.assetid: 9379c010-6756-b7ea-b4ad-5c8a4b900124
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

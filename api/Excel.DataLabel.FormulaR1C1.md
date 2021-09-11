@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.FormulaR1C1
 ms.assetid: eb1d3ac2-638f-e622-5fd5-68584a3259ab
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

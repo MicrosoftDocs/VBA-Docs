@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.HoverForeTint
 ms.assetid: 81b67e89-3ae9-941f-4830-fcdbf02afd9e
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

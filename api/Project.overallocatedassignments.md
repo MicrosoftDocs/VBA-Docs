@@ -3,7 +3,7 @@ title: OverAllocatedAssignments object (Project)
 ms.prod: project-server
 ms.assetid: b2856ebf-cff2-04a6-53c9-123de09f2a3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

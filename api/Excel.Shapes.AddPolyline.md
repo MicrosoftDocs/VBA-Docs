@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.AddPolyline
 ms.assetid: b9caacf9-c87c-224e-c948-a96aceb3a0ee
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

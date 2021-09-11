@@ -8,7 +8,7 @@ api_name:
 - Office.BorderStyle
 ms.assetid: 211ffd49-cf3a-8fff-1f00-58a97b833580
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

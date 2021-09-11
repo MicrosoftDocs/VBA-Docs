@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Parse
 ms.assetid: 3580aeb7-e868-894a-9dd5-8e37475fb267
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

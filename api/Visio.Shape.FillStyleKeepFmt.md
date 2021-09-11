@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.FillStyleKeepFmt
 ms.assetid: 39fc0329-322e-fd96-2c42-43bdcd170c02
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

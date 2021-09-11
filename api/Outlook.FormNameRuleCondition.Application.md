@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormNameRuleCondition.Application
 ms.assetid: 23642b0c-2f1e-8559-9dee-71219dae8194
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Category.Index
 ms.assetid: 863ed3ea-6da8-b23e-8f25-2bab0643d343
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

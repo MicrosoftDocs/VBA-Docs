@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartArea.Clear
 ms.assetid: fa22b630-405c-f771-faaa-14bdf8d9fa8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ColumnOrder
 ms.assetid: a32260cc-33b0-0811-1102-63843d5d2a21
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

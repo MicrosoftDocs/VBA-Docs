@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.Parent
 ms.assetid: 96b43655-699c-96cc-bfc9-14199619b699
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

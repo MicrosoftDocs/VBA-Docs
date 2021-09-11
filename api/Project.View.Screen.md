@@ -5,7 +5,7 @@ api_name:
 - Project.View.Screen
 ms.assetid: 975af43e-76c8-ea69-b6d9-7e6408e22ae0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

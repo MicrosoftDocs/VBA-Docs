@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.EDate
 ms.assetid: c3f068c2-f6ef-bcb7-79db-e1de4348038c
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

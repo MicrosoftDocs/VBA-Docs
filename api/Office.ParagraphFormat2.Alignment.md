@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.Alignment
 ms.assetid: 8651f8e8-6e4d-f9b6-10b4-8ea3ee634bb4
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

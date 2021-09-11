@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMerge.Parent
 ms.assetid: 983636d1-f748-1f47-a52d-8c44c820de16
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

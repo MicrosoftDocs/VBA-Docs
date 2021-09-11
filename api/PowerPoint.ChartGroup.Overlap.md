@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartGroup.Overlap
 ms.assetid: fd8afe06-9ef0-7428-b410-9baf14138c2c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

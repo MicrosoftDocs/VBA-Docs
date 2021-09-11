@@ -5,7 +5,7 @@ api_name:
 - Word.WdMailMergeState
 ms.assetid: b8968e19-07fc-cd5f-fbf4-3204f4946f34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

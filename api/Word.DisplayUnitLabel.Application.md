@@ -8,7 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.Application
 ms.assetid: e0a0474e-87b8-fca8-4b67-e244ec3e9309
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

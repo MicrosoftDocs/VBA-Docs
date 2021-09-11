@@ -8,7 +8,7 @@ api_name:
 - Word.Conflict
 ms.assetid: e9fe0318-d3e3-7589-0c15-64210ac5b709
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

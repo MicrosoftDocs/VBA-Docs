@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatCondition.PTCondition
 ms.assetid: 23639e6f-4f78-8061-cd61-9a70a12fd953
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.MustFlushScopeBeginning
 ms.assetid: 98a47603-19c0-4588-3d65-1f9d3fe118c1
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

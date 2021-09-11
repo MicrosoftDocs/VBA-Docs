@@ -8,7 +8,7 @@ api_name:
 - Excel.GroupShapes.Creator
 ms.assetid: b93ba7af-2a53-591e-18b5-3eb645a96f7a
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

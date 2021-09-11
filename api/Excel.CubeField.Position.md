@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.Position
 ms.assetid: ff8a045d-2ac0-adea-5a71-189e42c6b609
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.MsoComboStyle
 ms.assetid: 77891fe2-e3b3-c429-0ffa-efdfc8547269
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.UserInitials
 ms.assetid: 00f7d562-4ce5-00e1-bf9d-4325d47947b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

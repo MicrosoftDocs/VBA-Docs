@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.DocumentChanged
 ms.assetid: bed6b530-8d95-10f1-2239-ae7fa940db76
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.IncludeInLayout
 ms.assetid: ef84d235-6d60-f5c9-f185-e474a8b6a0e7
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

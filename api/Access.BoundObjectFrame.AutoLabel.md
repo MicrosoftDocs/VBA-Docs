@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.AutoLabel
 ms.assetid: 9a2b49f1-e0e6-9f4d-065a-c24fe07b23f3
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

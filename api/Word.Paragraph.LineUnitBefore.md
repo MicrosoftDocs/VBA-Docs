@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.LineUnitBefore
 ms.assetid: e9947ad7-14aa-b261-7b2c-c26ad05863eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

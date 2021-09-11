@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.ActivePrinter
 ms.assetid: 48ba3853-6a8f-d523-807a-8324e59adbb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarView.BoldSubjects
 ms.assetid: b7bf5518-68d0-0a8a-98b2-94c267855f2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Explorer.BeforeFolderSwitch
 ms.assetid: ae65c073-6b4a-ac81-c4ae-691118b19df0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

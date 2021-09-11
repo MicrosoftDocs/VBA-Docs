@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabel.GetLabel
 ms.assetid: e91a2e48-feff-4468-8c45-d3738b6bd0d8
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabel.GetLabel method (Office)
 ---
 

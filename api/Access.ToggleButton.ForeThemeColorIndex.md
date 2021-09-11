@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ForeThemeColorIndex
 ms.assetid: 8358b6c4-960d-e414-a6c4-657700caeeb0
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

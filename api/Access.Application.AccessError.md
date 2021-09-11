@@ -8,7 +8,7 @@ api_name:
 - Access.Application.AccessError
 ms.assetid: 811ef090-bdd4-5d1d-afc5-782470f57483
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.FillFormat.TextureHorizontalScale
 ms.assetid: 3ffaf1b9-0657-96b4-9c28-39c111200f1d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

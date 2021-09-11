@@ -8,7 +8,7 @@ api_name:
 - Excel.Watches.Count
 ms.assetid: e7ec6288-1f24-d755-bbe4-3cf73ea7c308
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

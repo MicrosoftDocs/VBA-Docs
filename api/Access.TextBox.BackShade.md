@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BackShade
 ms.assetid: 36db2540-6d5b-ed43-a303-70b6282398cf
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

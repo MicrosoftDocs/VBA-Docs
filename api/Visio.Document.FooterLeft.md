@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.FooterLeft
 ms.assetid: e832c09d-3ddb-4351-43ad-e1c5633b7bc9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

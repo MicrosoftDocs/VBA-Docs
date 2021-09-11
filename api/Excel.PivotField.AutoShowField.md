@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.AutoShowField
 ms.assetid: 88d3a338-c809-0843-7968-9a8e60612445
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Entities.Parent
 ms.assetid: 0c6ee86f-50b7-abe2-1606-42966f3eb72e
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

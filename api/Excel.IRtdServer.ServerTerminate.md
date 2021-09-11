@@ -8,7 +8,7 @@ api_name:
 - Excel.IRtdServer.ServerTerminate
 ms.assetid: 56b619f9-98c1-e15b-b327-941632afa574
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

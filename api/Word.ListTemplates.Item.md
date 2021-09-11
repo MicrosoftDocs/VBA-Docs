@@ -8,7 +8,7 @@ api_name:
 - Word.ListTemplates.Item
 ms.assetid: fb33549f-3ca6-d969-e866-c57ebaa85dc6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

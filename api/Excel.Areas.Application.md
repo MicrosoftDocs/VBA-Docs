@@ -8,7 +8,7 @@ api_name:
 - Excel.Areas.Application
 ms.assetid: 317f3083-6f65-e085-c370-1ae6c3b31b78
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

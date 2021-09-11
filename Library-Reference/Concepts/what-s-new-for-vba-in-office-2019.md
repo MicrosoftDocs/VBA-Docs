@@ -2,7 +2,7 @@
 title: What's new for VBA in Office 2019
 ms.prod: office
 ms.date: 01/22/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # What's new for VBA in Office 2019

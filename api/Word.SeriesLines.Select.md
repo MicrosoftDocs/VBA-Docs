@@ -8,7 +8,7 @@ api_name:
 - Word.SeriesLines.Select
 ms.assetid: b7a2e3e8-ea12-c7fa-0777-2ff46e3b87ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

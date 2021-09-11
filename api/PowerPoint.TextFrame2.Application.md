@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.TextFrame2.Application
 ms.assetid: 84f55d2d-5c5a-12a3-bc4a-9e054963edff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

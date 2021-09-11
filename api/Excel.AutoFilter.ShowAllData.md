@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoFilter.ShowAllData
 ms.assetid: eaa22047-f394-4e93-d31c-544ca8373b95
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

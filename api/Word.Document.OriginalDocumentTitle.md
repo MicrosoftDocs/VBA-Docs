@@ -8,7 +8,7 @@ api_name:
 - Word.Document.OriginalDocumentTitle
 ms.assetid: 75f716ea-f944-54da-c3d9-4376c082e6f0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

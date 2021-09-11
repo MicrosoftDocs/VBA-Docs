@@ -3,7 +3,7 @@ title: ShapeRange.SoftEdge property (Project)
 ms.prod: project-server
 ms.assetid: 783a7bc9-5452-0407-8093-3c864205cfed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

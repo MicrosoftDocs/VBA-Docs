@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.Activate
 ms.assetid: 8c5a97cf-df0f-01ad-a87f-83f79761ad61
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

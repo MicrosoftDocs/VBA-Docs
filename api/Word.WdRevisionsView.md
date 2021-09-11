@@ -5,7 +5,7 @@ api_name:
 - Word.WdRevisionsView
 ms.assetid: b460e555-c709-8e81-f043-f5cd4bfa0f14
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlDataBinding.LoadSettings
 ms.assetid: 218026ec-829b-048d-2429-6983ecfc26fd
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

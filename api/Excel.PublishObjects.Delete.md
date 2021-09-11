@@ -8,7 +8,7 @@ api_name:
 - Excel.PublishObjects.Delete
 ms.assetid: a924208b-3fb3-9fc3-9a82-eb7db9b27c82
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

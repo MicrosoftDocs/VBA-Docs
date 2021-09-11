@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.LayoutID
 ms.assetid: 35cf3634-7e5e-8b38-27b2-b13dec239366
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

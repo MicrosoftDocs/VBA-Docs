@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlResponseStatus
 ms.assetid: b473d57a-76a1-0862-fecb-baf1cf317772
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

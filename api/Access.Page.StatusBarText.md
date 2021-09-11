@@ -8,7 +8,7 @@ api_name:
 - Access.Page.StatusBarText
 ms.assetid: 43dcd6d0-471c-a696-8764-e958910d7cde
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

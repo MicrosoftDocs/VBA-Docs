@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Baseline7Work
 ms.assetid: e22af816-cbd2-1bef-c9cb-cd53e884429c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

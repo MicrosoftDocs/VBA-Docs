@@ -8,7 +8,7 @@ api_name:
 - Visio.DataRecordset.LinkReplaceBehavior
 ms.assetid: a49a9a44-1067-dfc6-0fb0-aee15064078b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

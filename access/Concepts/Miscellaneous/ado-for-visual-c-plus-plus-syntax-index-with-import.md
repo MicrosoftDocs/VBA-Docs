@@ -3,7 +3,7 @@ title: ADO for Visual C++ syntax index with import
 ms.prod: access
 ms.assetid: 68821c65-a96d-2524-d77c-030215db8e53
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.ControlBox
 ms.assetid: c4d9976c-631d-ae99-0c5d-e7008bbdadf9
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

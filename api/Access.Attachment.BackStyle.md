@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.BackStyle
 ms.assetid: 7e86f99d-a74a-8153-64ef-fe7cea81d218
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

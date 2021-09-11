@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.DragBehavior
 ms.assetid: 98d9eb39-1810-831d-d2be-3a560916796f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNodes.Parent
 ms.assetid: 196fb38a-f407-70ed-f94c-06077a3e9a60
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

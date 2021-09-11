@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.FInv
 ms.assetid: 4194c2ca-a9c7-ba96-2f17-b24bcb6f4a36
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

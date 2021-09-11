@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItem.ChildItems
 ms.assetid: 5ae6936e-0ae7-284a-1733-86ba292e8a9c
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

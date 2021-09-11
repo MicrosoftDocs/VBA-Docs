@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Research.Parent
 ms.assetid: 14afddf4-e3b3-1cf8-0f4f-759597075b7e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

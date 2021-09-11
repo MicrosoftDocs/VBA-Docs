@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.Unlink
 ms.assetid: 37e70576-e577-cfbb-f5ee-63ba830e174e
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

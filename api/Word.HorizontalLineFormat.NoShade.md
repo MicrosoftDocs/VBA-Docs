@@ -8,7 +8,7 @@ api_name:
 - Word.HorizontalLineFormat.NoShade
 ms.assetid: 90728761-cdfa-fd2c-db00-44ca78a34017
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

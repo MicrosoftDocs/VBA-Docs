@@ -8,7 +8,7 @@ api_name:
 - Word.Column.Sort
 ms.assetid: c71dbc55-a0dc-4ced-f579-6b446c427f88
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.SmartArt
 ms.assetid: d38ed9b4-eb97-acec-46b0-6809988f6031
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

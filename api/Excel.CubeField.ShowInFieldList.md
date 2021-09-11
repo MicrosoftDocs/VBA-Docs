@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.ShowInFieldList
 ms.assetid: 9a9163f3-b398-5059-9dce-b993413e850b
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

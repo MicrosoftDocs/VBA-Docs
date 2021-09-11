@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.NewWorkbook
 ms.assetid: 3a50a338-53be-3ac9-d398-c58084e19e6d
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

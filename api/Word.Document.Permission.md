@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Permission
 ms.assetid: 17a100a0-3dc4-b15d-fcb6-e7bc57d08fc6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

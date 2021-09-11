@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.LastModificationTime
 ms.assetid: 8819609b-3cfb-d5bb-9a5c-469e05715e67
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

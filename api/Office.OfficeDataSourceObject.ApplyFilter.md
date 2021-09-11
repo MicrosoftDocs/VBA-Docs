@@ -8,7 +8,7 @@ api_name:
 - Office.OfficeDataSourceObject.ApplyFilter
 ms.assetid: 9ce3ed9b-3d84-9ebd-68ae-be958ad1a99c
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

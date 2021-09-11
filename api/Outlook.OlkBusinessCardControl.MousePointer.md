@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkBusinessCardControl.MousePointer
 ms.assetid: 3dc8e61b-eb35-5608-4013-9ae63f464943
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

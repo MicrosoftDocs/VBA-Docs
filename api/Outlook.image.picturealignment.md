@@ -3,7 +3,7 @@ title: Image.PictureAlignment Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 6e7053b9-146f-52b4-a75d-34db93ac0c9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

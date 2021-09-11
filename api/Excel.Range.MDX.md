@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.MDX
 ms.assetid: 6b22b79b-ce44-ce0d-0bb4-e1bf2cd83578
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

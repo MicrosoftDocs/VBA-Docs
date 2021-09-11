@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFilter.DataCubeField
 ms.assetid: 1170ed0e-f567-d01d-bca2-add9b6116352
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

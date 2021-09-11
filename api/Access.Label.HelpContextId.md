@@ -8,7 +8,7 @@ api_name:
 - Access.Label.HelpContextId
 ms.assetid: fab43591-bf88-901d-0f19-ca4fda93a578
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

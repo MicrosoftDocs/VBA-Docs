@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.EffectParameters.Color2
 ms.assetid: 9baff264-9b29-8065-a338-374bdc303451
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

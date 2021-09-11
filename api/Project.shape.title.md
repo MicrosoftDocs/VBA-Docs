@@ -3,7 +3,7 @@ title: Shape.Title property (Project)
 ms.prod: project-server
 ms.assetid: 09cfd863-e682-d64d-bb33-b8dffc30011e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

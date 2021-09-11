@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AfterUpdate
 ms.assetid: 5002727c-24bc-4067-0e5e-3c63b8b6427e
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

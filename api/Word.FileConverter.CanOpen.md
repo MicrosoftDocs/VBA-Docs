@@ -8,7 +8,7 @@ api_name:
 - Word.FileConverter.CanOpen
 ms.assetid: 0fe665dc-fe64-a61d-f6a5-a7ba2ff7b2d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

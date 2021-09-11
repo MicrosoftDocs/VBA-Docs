@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorFormat.Ink
 ms.assetid: 53851337-fdce-7b72-5626-50bce370457b
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

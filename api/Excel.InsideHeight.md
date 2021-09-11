@@ -8,7 +8,7 @@ api_name:
 - Excel.InsideHeight
 ms.assetid: 02528324-3aaf-17b3-984d-96ab7b446d5a
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

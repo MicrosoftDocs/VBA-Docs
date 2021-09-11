@@ -8,7 +8,7 @@ api_name:
 - Office.Signature.SignatureLineShape
 ms.assetid: 8ba372b9-40f9-bc9c-03de-97827b0c257d
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

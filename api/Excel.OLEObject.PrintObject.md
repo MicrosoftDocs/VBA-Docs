@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.PrintObject
 ms.assetid: 23cfc576-c4f1-5b60-1daa-4fc0a5e12d7e
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

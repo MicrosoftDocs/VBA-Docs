@@ -8,7 +8,7 @@ api_name:
 - Outlook.Panes
 ms.assetid: 657d1adf-41e0-858f-c734-e435153ae9ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

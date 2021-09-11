@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.Count
 ms.assetid: bc313541-1e87-cc85-e489-80d53f18abe5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

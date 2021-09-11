@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.MarkerBackgroundColor
 ms.assetid: a7149fae-47a7-b24d-c177-28afde2ab29d
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

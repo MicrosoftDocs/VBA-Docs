@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertDateTime
 ms.assetid: 2203a0bb-6c90-ee55-6bdc-73f6761e4603
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

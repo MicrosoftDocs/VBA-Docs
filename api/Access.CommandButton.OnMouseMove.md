@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.OnMouseMove
 ms.assetid: 1b24e970-1f29-af26-2d01-e6587812bf13
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition.ShowBarOnly
 ms.assetid: c5a6dbcb-656f-4dcf-8b86-f8c7a7b7231a
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

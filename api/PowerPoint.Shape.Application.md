@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Shape.Application
 ms.assetid: e4e8fb64-0bb0-90c4-579c-f19c45030dfc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

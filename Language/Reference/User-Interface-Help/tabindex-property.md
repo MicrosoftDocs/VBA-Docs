@@ -8,7 +8,7 @@ api_name:
 - Office.TabIndex
 ms.assetid: 5924d02f-d96c-2b81-6c41-c69ea68ad048
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

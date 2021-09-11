@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.OnMouseUp
 ms.assetid: 91489f10-4903-1eeb-6530-832b644c624f
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

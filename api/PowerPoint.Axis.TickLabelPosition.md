@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.TickLabelPosition
 ms.assetid: 439b3da0-37d1-1fd8-b810-66accac03001
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

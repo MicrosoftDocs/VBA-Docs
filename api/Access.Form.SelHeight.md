@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SelHeight
 ms.assetid: c8808132-ab4d-77f1-fbf7-121d37e188fe
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

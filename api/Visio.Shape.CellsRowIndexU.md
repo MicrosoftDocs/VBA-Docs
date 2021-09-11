@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.CellsRowIndexU
 ms.assetid: 425fbf08-d44c-2631-7400-55620fd429ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

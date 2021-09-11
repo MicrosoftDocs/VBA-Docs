@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.TextFrame
 ms.assetid: 2dbb7fb4-3ae4-d4c1-8b7e-3e087e32a96f
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

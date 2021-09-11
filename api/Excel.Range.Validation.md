@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Validation
 ms.assetid: d1cad7e6-bbfa-e280-33e7-048733efc0bc
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintDraft
 ms.assetid: 23be1e0a-784b-5b0f-107c-78e200e31159
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

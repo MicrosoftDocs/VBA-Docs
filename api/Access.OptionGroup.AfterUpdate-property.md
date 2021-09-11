@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.AfterUpdate
 ms.assetid: 30d35bfd-6128-0d68-12c8-56ad6f19c342
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

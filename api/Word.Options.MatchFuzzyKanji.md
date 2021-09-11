@@ -8,7 +8,7 @@ api_name:
 - Word.Options.MatchFuzzyKanji
 ms.assetid: 6d2a1b1f-2a1c-23d2-5e3b-aa8f2e26388e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

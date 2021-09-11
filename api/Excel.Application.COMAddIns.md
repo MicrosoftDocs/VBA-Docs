@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.COMAddIns
 ms.assetid: d51f3373-ba5d-20b4-7557-246a6fcf89c3
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.HelpAnswerWizard
 ms.assetid: d23eca0c-2145-e6b8-da1c-924169cf01ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

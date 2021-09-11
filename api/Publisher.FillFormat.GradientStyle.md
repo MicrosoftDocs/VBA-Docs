@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.GradientStyle
 ms.assetid: 38a38de1-4ed3-7919-421f-474b0b5d7b2f
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

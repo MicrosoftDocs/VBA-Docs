@@ -8,7 +8,7 @@ api_name:
 - Word.FillFormat
 ms.assetid: 39205d07-9e37-1be1-ec4a-93ba8bac2f26
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

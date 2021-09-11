@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.AutoResolvedWinner
 ms.assetid: 3c0ccbd5-47a6-7a0c-a488-037c48fc1958
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

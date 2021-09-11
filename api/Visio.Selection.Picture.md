@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Picture
 ms.assetid: fb3e59d3-2739-beee-441c-ffcee6621aa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

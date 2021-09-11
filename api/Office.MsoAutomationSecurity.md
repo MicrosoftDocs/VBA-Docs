@@ -5,7 +5,7 @@ api_name:
 - Office.MsoAutomationSecurity
 ms.assetid: 6147cad7-3db3-7f9a-397e-62dd64b89b50
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

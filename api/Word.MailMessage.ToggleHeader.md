@@ -8,7 +8,7 @@ api_name:
 - Word.MailMessage.ToggleHeader
 ms.assetid: 8f77e266-a537-8b89-134e-e0a053e9d150
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DoubleClick
 ms.assetid: 17958601-3e24-a7bb-7d8c-0c45b955f449
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

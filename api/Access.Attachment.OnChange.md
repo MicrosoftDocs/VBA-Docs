@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnChange
 ms.assetid: c2c12032-463a-2e3e-f434-defce71c8138
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

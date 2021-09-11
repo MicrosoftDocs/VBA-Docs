@@ -5,7 +5,7 @@ api_name:
 - Outlook.PostItem.Reply
 ms.assetid: 412fcf1a-fcb6-c559-7fab-7fad40720c24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

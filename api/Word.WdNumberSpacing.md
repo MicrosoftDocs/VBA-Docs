@@ -5,7 +5,7 @@ api_name:
 - Word.WdNumberSpacing
 ms.assetid: 46dd4d4d-aab4-2ae8-eff1-e6bf7567a0c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

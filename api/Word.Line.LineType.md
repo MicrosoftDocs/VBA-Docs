@@ -8,7 +8,7 @@ api_name:
 - Word.Line.LineType
 ms.assetid: 06f821b6-c296-8355-b20d-c8f003a29ead
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.MessageClass
 ms.assetid: 635ba15e-cacc-4e3e-0824-8ca4dfca2a82
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.MoveStartWhile
 ms.assetid: d0cff673-9248-88ae-7624-a838ce104e4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

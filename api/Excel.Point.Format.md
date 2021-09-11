@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Format
 ms.assetid: b6ff248b-94bd-45ec-d59e-2ed74d5079a2
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItem.Visible
 ms.assetid: baf4bbe8-2582-a431-1ca1-a676a364b47f
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

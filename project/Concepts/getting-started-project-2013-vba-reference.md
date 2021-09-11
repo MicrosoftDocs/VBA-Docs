@@ -4,7 +4,7 @@ ms.prod: project-server
 ms.assetid: 573914ee-aef5-4451-90a7-141b722f3fbb
 ROBOTS: NOINDEX
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

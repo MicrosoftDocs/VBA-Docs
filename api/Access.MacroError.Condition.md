@@ -8,7 +8,7 @@ api_name:
 - Access.MacroError.Condition
 ms.assetid: 4210aff0-6f94-9b09-3a03-bbfb2f2b2494
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

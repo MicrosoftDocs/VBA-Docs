@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.WindowNumber
 ms.assetid: 42dc6fa2-8c10-41d8-2f74-95401e154094
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

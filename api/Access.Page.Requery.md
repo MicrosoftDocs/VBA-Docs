@@ -8,7 +8,7 @@ api_name:
 - Access.Page.Requery
 ms.assetid: 011ca697-a0d5-c443-1715-05861b618a93
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

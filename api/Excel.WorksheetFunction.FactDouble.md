@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.FactDouble
 ms.assetid: 71d8d537-b06c-7614-d6d6-b6c57ed8c68f
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

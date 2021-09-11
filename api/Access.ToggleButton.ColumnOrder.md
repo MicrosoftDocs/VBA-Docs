@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ColumnOrder
 ms.assetid: f9344297-d639-208c-db4e-4ceac2fd56ad
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

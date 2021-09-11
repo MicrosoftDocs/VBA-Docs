@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeReplacePlainTextEmphasis
 ms.assetid: 7c01c19a-1c3e-6bea-1979-ebd524bdf981
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

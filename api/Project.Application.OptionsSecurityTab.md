@@ -8,7 +8,7 @@ api_name:
 - Project.Application.OptionsSecurityTab
 ms.assetid: f19ecd9c-2507-e437-7780-cf4998b7fd48
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

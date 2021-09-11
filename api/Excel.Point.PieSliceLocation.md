@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.PieSliceLocation
 ms.assetid: 90a318d4-0ad2-d326-c26b-3c965b1ffe43
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

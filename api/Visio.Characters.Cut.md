@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.Cut
 ms.assetid: 08c1e155-335c-0d90-2efa-d079ec14b180
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ExportAsFixedFormat
 ms.assetid: 4fa48315-c9e9-944c-71c3-72ec9894daac
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.ContainerRelationshipDeleted
 ms.assetid: 1aa5cd59-f350-ba47-0654-dc1bf1d6073f
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.PathSeparator
 ms.assetid: f8c07ce4-d171-9c5b-60ac-d544bf65e620
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.MemberCount
 ms.assetid: 56e3aa96-4e2a-bdf9-93a1-daa206fb8d30
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

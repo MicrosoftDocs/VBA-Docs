@@ -4,7 +4,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Model3D
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Page.Height
 ms.assetid: df6c7cc3-bcf5-6607-144a-383a1f26d21e
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

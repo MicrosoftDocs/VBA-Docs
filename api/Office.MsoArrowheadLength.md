@@ -5,7 +5,7 @@ api_name:
 - Office.MsoArrowheadLength
 ms.assetid: e39957f3-ffdd-17fe-dc60-1c3f8c5b14ce
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

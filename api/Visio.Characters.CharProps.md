@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.CharProps
 ms.assetid: 7c05633d-9e99-cee3-0d24-bff6d191ef24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

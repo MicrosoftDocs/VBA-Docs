@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.HelpContextId
 ms.assetid: f0678d0c-eb24-2398-208f-971772ea2c21
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

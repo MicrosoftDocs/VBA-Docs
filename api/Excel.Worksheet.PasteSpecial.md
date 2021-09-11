@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.PasteSpecial
 ms.assetid: 8fa41a45-e3d1-29e0-3968-877bcfdf4b57
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Worksheet.PasteSpecial method (Excel)

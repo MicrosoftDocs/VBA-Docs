@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.ZOrder
 ms.assetid: dd7c2c81-6582-5de9-d254-66061d4345ef
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

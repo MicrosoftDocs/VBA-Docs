@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatConditions.AddTop10
 ms.assetid: e6998652-fb2c-201e-5334-298297d4b41e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatApplyFirstIndents
 ms.assetid: c55fa4eb-9ef4-9061-b2be-cbe2da8ce3bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

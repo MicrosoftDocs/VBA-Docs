@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.AccrIntM
 ms.assetid: 9cb3e757-26c0-6b3e-91a2-e6a2de30c168
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

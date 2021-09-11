@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BackShade
 ms.assetid: 6608aa85-9301-1c3f-fbac-825010ade03e
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

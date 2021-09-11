@@ -3,7 +3,7 @@ title: Comment.Stat property (Visio)
 ms.prod: visio
 ms.assetid: f457598c-af42-cb83-ecd2-4fd42898ea16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Explorer.BeforeItemCut
 ms.assetid: 82861e5e-e990-aed9-4134-db9cbe63d47c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.FilterOnLoad
 ms.assetid: 546f367f-fbe5-355f-ad48-784ac5f28c8d
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

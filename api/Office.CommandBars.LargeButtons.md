@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.LargeButtons
 ms.assetid: bcacab92-9779-5061-f68a-69722210e14e
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

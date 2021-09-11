@@ -8,7 +8,7 @@ api_name:
 - Access.Form.ViewsAllowed
 ms.assetid: 2aa001e0-ea0d-4ef3-f8d2-fdd301502c96
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

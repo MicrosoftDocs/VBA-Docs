@@ -3,7 +3,7 @@ title: Timeline.BarCount property (Project)
 ms.assetid: 8c4f6fa2-62d5-3be4-a4e8-0b3301d1fd85
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

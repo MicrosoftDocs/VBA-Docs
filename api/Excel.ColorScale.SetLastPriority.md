@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorScale.SetLastPriority
 ms.assetid: 01c64e4d-98e8-3647-5e06-23fd1000757b
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

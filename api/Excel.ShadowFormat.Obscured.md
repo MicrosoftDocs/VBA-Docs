@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat.Obscured
 ms.assetid: a2cc3324-d394-5332-41d2-e3733d0eb2d7
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

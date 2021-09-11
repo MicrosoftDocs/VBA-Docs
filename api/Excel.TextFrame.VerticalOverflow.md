@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame.VerticalOverflow
 ms.assetid: a516ed25-e555-e00b-1a0f-61a5ac5954af
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

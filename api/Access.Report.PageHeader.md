@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PageHeader
 ms.assetid: 9f9fe114-b5a5-39c7-d2c0-39453948ace6
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

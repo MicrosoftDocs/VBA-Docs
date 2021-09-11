@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatApplyOtherParas
 ms.assetid: b6204429-d883-2235-f8c2-03e5d433c863
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetFontName
 ms.assetid: e6b963ca-7162-912e-e63d-1437904ec8f1
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

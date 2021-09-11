@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.ForeColor
 ms.assetid: 82b7dc37-d18e-efa5-d6ed-0a939dfc7b3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

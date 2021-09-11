@@ -8,7 +8,7 @@ api_name:
 - Office.MsoContactCardAddressType
 ms.assetid: 0edd8af5-1d4c-4aae-436f-8265e65620d6
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

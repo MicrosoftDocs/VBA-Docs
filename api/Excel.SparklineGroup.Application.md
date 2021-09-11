@@ -8,7 +8,7 @@ api_name:
 - Excel.SparklineGroup.Application
 ms.assetid: 07f584f6-ed89-4a08-7dfa-f44d03e5b487
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

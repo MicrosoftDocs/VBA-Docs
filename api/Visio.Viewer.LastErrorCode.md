@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.LastErrorCode
 ms.assetid: cbef3230-128c-3976-04da-eec6da9f6225
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddCurve
 ms.assetid: 47f90182-a71b-a028-c43f-a85d59d2a56b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

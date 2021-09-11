@@ -3,7 +3,7 @@ title: Collections (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: 3f5897d9-e618-7582-bb60-95f690c64cbb
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

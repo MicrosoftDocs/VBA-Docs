@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.ColumnHeads
 ms.assetid: f318f924-2629-8a7a-90b0-3ab386e50a22
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

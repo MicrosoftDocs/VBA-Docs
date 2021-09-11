@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OnEnter
 ms.assetid: be3b353e-7105-010a-0c6a-6c551dcf62d3
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

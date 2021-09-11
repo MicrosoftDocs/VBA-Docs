@@ -8,7 +8,7 @@ api_name:
 - Outlook.SyncObject.OnError
 ms.assetid: 1faa9708-959c-735b-b6ba-5a78e5fb2690
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

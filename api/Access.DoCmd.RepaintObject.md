@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.RepaintObject
 ms.assetid: 6def040f-ae34-ce49-d3a0-786ad09bdc20
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

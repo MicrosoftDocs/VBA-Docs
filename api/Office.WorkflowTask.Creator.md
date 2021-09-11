@@ -5,7 +5,7 @@ api_name:
 - Office.WorkflowTask.Creator
 ms.assetid: 9b8bbf0b-69f6-3724-ad7c-b2cb0d61ff7b
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

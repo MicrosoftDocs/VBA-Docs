@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Font
 ms.assetid: c2a24190-62fa-09c4-7c47-90a7ecf20d97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Attachments.Item
 ms.assetid: 2843bef3-2ace-1cc0-1f15-c3fb776c3bf9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

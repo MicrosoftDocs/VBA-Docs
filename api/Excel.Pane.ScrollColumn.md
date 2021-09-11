@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.ScrollColumn
 ms.assetid: 47165fe4-299d-8863-708f-9db22ef52ed1
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.SeparatorCharacters
 ms.assetid: 7a91ecdf-35e0-d32c-7355-7656d9ed7ad1
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

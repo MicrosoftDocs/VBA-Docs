@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintXMLTag
 ms.assetid: f0fd4863-d57a-f1cb-f87d-b60190b8093e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

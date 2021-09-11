@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.Replace
 ms.assetid: b2bce79a-5c46-1473-601d-a4a25176edeb
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

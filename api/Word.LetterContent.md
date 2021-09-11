@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent
 ms.assetid: 62a4e17a-6598-c904-f27d-817c19c04981
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

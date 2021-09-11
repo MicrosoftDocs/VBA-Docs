@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.BackTint
 ms.assetid: dd3abfa8-6c50-2b03-c409-a1ca5e3ba0ff
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

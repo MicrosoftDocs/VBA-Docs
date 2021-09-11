@@ -8,7 +8,7 @@ api_name:
 - Visio.Fonts
 ms.assetid: e08c8ad1-1c70-b80f-1a49-3a120f66ced8
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

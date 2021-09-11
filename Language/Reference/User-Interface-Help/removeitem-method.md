@@ -8,7 +8,7 @@ api_name:
 - Office.RemoveItem
 ms.assetid: b895775c-7b77-6f2b-b368-998d7114aa7a
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

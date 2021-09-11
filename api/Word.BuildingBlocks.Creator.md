@@ -5,7 +5,7 @@ api_name:
 - Word.BuildingBlocks.Creator
 ms.assetid: 42d378dc-d442-e8e2-382c-ea82b71ffcf8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

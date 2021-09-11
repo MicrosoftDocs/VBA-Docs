@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.SecFormat
 ms.assetid: 2c6fa96d-8a71-28fb-c8d7-f7ba6772fe43
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

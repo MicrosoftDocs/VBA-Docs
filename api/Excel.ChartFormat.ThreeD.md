@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartFormat.ThreeD
 ms.assetid: e4312222-c681-32b1-cd73-aa3cb9fa2064
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

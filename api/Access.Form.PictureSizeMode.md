@@ -8,7 +8,7 @@ api_name:
 - Access.Form.PictureSizeMode
 ms.assetid: b2e7646c-a040-0205-b840-0ed5b43982ab
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

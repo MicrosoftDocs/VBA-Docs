@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtNode.Demote
 ms.assetid: 075882bd-5784-9ba3-daed-065f4bf2c86e
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

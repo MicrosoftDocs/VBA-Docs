@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.StandardWidth
 ms.assetid: 6792ce79-0a73-fcbd-ea52-7d7aee7b9932
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

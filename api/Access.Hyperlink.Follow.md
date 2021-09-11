@@ -8,7 +8,7 @@ api_name:
 - Access.Hyperlink.Follow
 ms.assetid: 842f546c-b629-fd47-e8d0-d73d3ee7f3cd
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

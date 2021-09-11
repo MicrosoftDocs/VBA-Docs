@@ -3,7 +3,7 @@ title: Programmatic ID string too long 'item'. The Programmatic ID must be 39 ch
 ms.prod: office
 ms.assetid: d0f57285-75f6-44bc-0d79-2abf1c24ccbd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

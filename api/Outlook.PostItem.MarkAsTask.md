@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.MarkAsTask
 ms.assetid: 78ead34b-3861-0204-1bc3-687a2c25ab73
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

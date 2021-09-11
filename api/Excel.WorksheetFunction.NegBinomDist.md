@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.NegBinomDist
 ms.assetid: 7749759b-4698-6341-c28b-521087731951
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

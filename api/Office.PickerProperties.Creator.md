@@ -5,7 +5,7 @@ api_name:
 - Office.PickerProperties.Creator
 ms.assetid: c4f34ff1-559f-645c-0b7f-3956d51628cb
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

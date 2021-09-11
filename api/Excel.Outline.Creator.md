@@ -8,7 +8,7 @@ api_name:
 - Excel.Outline.Creator
 ms.assetid: b0d9637e-c913-54c1-f782-7f933e4b39dd
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

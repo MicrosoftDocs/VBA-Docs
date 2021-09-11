@@ -8,7 +8,7 @@ api_name:
 - Access.Hyperlink.AddToFavorites
 ms.assetid: 42c92d93-68a1-a5b9-8517-e9257100434e
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

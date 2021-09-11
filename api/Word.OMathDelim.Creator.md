@@ -8,7 +8,7 @@ api_name:
 - Word.OMathDelim.Creator
 ms.assetid: d02ba080-5ace-b94f-ffd1-487492ed2e46
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowInsertingColumns
 ms.assetid: 87938c66-e48a-dd1d-934e-08752bbf3e03
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

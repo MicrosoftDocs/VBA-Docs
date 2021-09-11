@@ -8,7 +8,7 @@ api_name:
 - Access.Form.NavigationCaption
 ms.assetid: 0801ef4c-3f0c-6d45-d1f1-4ed46163586e
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

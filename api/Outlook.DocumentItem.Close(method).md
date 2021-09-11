@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.Close
 ms.assetid: 400d28a9-bdae-0885-8eac-98e4ff6eac4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

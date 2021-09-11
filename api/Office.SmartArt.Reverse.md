@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArt.Reverse
 ms.assetid: e967a320-b314-f7b3-bd5a-ded5287a4fda
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

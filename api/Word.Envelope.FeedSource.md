@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.FeedSource
 ms.assetid: c6794e83-8136-7e50-fa82-819d4d6d6f8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

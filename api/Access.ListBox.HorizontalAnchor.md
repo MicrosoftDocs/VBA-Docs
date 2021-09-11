@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.HorizontalAnchor
 ms.assetid: f21376e7-55e3-03a2-4687-f02ee5b40a18
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

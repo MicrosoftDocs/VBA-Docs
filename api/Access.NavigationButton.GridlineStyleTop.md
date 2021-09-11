@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.GridlineStyleTop
 ms.assetid: 53a5bb2c-c76d-0ef4-b48b-63aaf502438c
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

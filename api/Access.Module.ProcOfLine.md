@@ -8,7 +8,7 @@ api_name:
 - Access.Module.ProcOfLine
 ms.assetid: 64a21820-923d-a816-6b6e-2a679d0e09ac
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

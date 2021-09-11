@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.AutoForwarded
 ms.assetid: 822bf508-4a5b-89ec-1077-1cbed75068c2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

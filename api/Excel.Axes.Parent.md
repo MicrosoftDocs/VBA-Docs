@@ -8,7 +8,7 @@ api_name:
 - Excel.Axes.Parent
 ms.assetid: d5cd5daf-7579-4df3-8dad-b3daf3e5b5ae
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.UserPicture
 ms.assetid: b1eaf724-42b4-657f-4d88-bc8547664893
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

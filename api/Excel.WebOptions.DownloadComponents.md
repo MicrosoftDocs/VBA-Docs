@@ -8,7 +8,7 @@ api_name:
 - Excel.WebOptions.DownloadComponents
 ms.assetid: d9f103f8-e41e-ee8b-0e02-8cda514f04c9
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

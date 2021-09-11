@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.BeforeAttachmentAdd
 ms.assetid: 843a4fee-6ce1-09cc-9b01-30729ccd99ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.BackgroundSavingStatus
 ms.assetid: 9cf29eb4-fc80-91ad-2867-6dc9d48e11c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

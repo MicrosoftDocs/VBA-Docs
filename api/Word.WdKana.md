@@ -5,7 +5,7 @@ api_name:
 - Word.WdKana
 ms.assetid: 8154f6ea-6e8e-eee5-57cf-2edcfdcbe92f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

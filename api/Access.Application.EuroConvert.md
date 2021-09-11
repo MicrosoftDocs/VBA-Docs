@@ -8,7 +8,7 @@ api_name:
 - Access.Application.EuroConvert
 ms.assetid: 35893059-c6cd-d359-f618-94701a50a049
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

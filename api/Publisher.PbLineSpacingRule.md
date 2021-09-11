@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbLineSpacingRule
 ms.assetid: 64a5742e-b361-8e9a-31e4-8953b23ded14
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

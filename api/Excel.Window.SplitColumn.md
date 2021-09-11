@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.SplitColumn
 ms.assetid: 699e2919-8786-4616-2363-78c3e01e4875
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

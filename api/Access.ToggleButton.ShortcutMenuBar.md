@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ShortcutMenuBar
 ms.assetid: ba7ac65f-644c-b75c-12cc-565cd27a7162
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

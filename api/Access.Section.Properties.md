@@ -8,7 +8,7 @@ api_name:
 - Access.Section.Properties
 ms.assetid: 012fade4-e62e-9e23-c436-82f1d6f92c89
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

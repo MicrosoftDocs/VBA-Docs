@@ -8,7 +8,7 @@ api_name:
 - Outlook.Category.Color
 ms.assetid: 42814031-97ee-bb71-7c24-4ddd367d793c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

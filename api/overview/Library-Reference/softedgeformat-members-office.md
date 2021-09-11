@@ -4,7 +4,7 @@ description: Represents the soft edges effect in Office graphics.
 ms.prod: office
 ms.assetid: a2d2a5b6-ffa1-3cfe-c84b-ca2bf04b0e94
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition
 ms.assetid: a31deaae-b32d-c45b-b3b2-113a9e62cc7a
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

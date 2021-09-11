@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.FontName
 ms.assetid: c1391e1d-ccb2-2a36-69fd-3f5efdabfe72
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

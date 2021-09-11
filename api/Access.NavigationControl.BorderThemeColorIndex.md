@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.BorderThemeColorIndex
 ms.assetid: 9ddd1a71-e974-c70c-0240-80c695c30e35
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

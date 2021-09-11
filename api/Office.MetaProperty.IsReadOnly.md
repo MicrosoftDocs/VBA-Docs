@@ -8,7 +8,7 @@ api_name:
 - Office.MetaProperty.IsReadOnly
 ms.assetid: 433dd92f-7791-7fe9-db2a-b290992175b5
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

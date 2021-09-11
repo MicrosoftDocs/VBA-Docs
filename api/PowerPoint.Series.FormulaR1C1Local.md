@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Series.FormulaR1C1Local
 ms.assetid: cb00cca5-b540-6083-7fc5-2d2d6a58719f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

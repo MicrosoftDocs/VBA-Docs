@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.MouseMove
 ms.assetid: b90b8fd3-13d6-a8f2-5187-608588edb1b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

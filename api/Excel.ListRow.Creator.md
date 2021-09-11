@@ -8,7 +8,7 @@ api_name:
 - Excel.ListRow.Creator
 ms.assetid: 3b750487-3ea6-815b-0389-55313cb2f36b
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

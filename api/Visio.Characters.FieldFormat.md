@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.FieldFormat
 ms.assetid: 298ee3a7-a81e-c10d-e978-ce28ca9408be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

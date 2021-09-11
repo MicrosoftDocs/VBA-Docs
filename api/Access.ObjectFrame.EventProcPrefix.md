@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.EventProcPrefix
 ms.assetid: a38ca887-8d70-eb89-a1ac-fd7308d17c0d
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

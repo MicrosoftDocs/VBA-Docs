@@ -8,7 +8,7 @@ api_name:
 - Word.AxisTitle.Width
 ms.assetid: d360a36d-b67f-bdba-411b-b19e35d4d10f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Cancel
 ms.assetid: a45d52e0-7566-2d16-8f74-7168a380f6a2
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.DownBars
 ms.assetid: dd8ae50c-0105-9645-467d-7eb07b56c95e
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

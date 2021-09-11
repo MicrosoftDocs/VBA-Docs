@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.BeforeModal
 ms.assetid: 505d3e54-c8f7-7f02-90d2-43f73573b296
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

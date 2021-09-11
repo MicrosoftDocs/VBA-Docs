@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SummaryResourceAssignmentsRefresh
 ms.assetid: 2f6c2c0d-b039-a613-51c6-3660c98456a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

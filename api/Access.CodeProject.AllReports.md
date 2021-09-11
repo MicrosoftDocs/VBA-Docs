@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.AllReports
 ms.assetid: 92536101-c4ec-e1a8-723c-ee912a24bdee
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

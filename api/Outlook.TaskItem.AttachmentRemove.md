@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskItem.AttachmentRemove
 ms.assetid: 2982d79c-81b8-cca9-4a46-ce6b0a95ff80
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

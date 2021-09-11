@@ -5,7 +5,7 @@ api_name:
 - Project.Project.DeliverableUpdate
 ms.assetid: 665e79a0-b3b4-e36e-6369-627e526f7db0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

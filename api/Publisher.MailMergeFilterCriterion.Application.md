@@ -5,7 +5,7 @@ api_name:
 - Publisher.MailMergeFilterCriterion.Application
 ms.assetid: 23438144-f791-8c76-d81c-aa40f592b948
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

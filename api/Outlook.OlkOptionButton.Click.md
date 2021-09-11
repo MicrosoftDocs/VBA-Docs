@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.Click
 ms.assetid: fe9250e7-f1ec-b35f-83fe-c2d1a9f03d36
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

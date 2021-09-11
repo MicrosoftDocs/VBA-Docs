@@ -8,7 +8,7 @@ api_name:
 - Visio.DrawingControl.HostID
 ms.assetid: ecc77cb3-04c8-6a31-0d40-d03dddb6bf20
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 # DrawingControl.HostID property (Visio)
 

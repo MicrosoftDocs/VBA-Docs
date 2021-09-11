@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Resize
 ms.assetid: 05af0539-8aa3-c83c-1972-dfac618929b9
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

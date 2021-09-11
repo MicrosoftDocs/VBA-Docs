@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBError.SqlState
 ms.assetid: cd05c61a-da9f-5022-c359-b90351e6489d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

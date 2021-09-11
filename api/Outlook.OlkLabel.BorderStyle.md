@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkLabel.BorderStyle
 ms.assetid: 37646b4c-b3d0-5c1e-c070-8a1df5f33558
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

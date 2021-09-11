@@ -8,7 +8,7 @@ api_name:
 - Access.Control.Hyperlink
 ms.assetid: f27ac8cc-f5ba-cbc5-4153-7b24ce199679
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

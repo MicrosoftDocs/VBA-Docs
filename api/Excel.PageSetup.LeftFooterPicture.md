@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.LeftFooterPicture
 ms.assetid: 296aa5d6-0354-741a-f96a-fb88e4c2e9de
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

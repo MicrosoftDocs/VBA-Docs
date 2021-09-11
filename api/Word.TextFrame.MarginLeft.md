@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.MarginLeft
 ms.assetid: 4f4deac5-a4be-af1d-72ac-f9c3481b0290
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

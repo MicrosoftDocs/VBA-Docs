@@ -8,7 +8,7 @@ api_name:
 - Visio.Document
 ms.assetid: 21640062-13a2-a2b2-7c61-7e707671207c
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

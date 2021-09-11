@@ -5,7 +5,7 @@ api_name:
 - Office.XlPivotFieldOrientation
 ms.assetid: ae2eed13-ca67-79f9-5100-a7f6b3135850
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

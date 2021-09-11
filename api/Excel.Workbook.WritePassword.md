@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.WritePassword
 ms.assetid: ac89063e-6ef5-f7c5-abb0-4e6ef1c5fd05
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

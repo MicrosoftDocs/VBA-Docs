@@ -4,7 +4,7 @@ description: A collection of WebPageFont objects that describe the proportional 
 ms.prod: office
 ms.assetid: e5e9941a-1f41-3d1b-1e31-420fcec7e951
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

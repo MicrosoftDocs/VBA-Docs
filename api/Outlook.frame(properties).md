@@ -3,7 +3,7 @@ title: Frame Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 21e6c900-986c-4c5d-86fe-7c663543fbaf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

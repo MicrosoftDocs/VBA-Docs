@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.SuggestMainOnly
 ms.assetid: f4a5aa0a-78be-bd98-22e8-b85eac0f4428
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Frame.Click Event (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1ca51b8c-2756-b73a-bebe-c4093bfdbbce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Evaluate
 ms.assetid: d5f49471-9047-6f72-1f0e-ccd891e73724
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

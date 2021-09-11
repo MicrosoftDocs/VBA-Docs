@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.MediaType
 ms.assetid: c42e3490-a4c9-d0bf-a201-71deff78d4b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

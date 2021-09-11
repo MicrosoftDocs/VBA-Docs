@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.MakeConnection
 ms.assetid: d0b29374-4d5a-7d9e-630a-500b505da1bd
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DVar
 ms.assetid: e1566391-4aac-548f-6475-6a8ee63a2bb7
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

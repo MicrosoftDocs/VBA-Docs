@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowTransition.AdvanceOnTime
 ms.assetid: 934c5acc-b230-2b7b-f0f2-4647cce5b62d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

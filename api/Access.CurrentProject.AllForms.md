@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentProject.AllForms
 ms.assetid: 4933a409-0d15-16ee-69a3-d78b0f2685c7
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

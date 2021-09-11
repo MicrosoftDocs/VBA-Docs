@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationBehavior.FilterEffect
 ms.assetid: e661aea9-f83d-db2e-6988-4bc1f9e15287
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

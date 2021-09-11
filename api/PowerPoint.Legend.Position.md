@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Legend.Position
 ms.assetid: 82d71eda-aa17-b463-9934-6f79fe370f67
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.PresentationElapsedTime
 ms.assetid: 6f710354-1691-4673-f83f-395d510d6999
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

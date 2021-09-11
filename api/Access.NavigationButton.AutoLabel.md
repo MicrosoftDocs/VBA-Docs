@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.AutoLabel
 ms.assetid: addd9533-d975-1b85-e941-c560188f0d8a
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

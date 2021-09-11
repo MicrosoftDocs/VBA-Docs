@@ -8,7 +8,7 @@ api_name:
 - Excel.CalloutFormat.CustomLength
 ms.assetid: 8c5034f9-32ca-6e34-be59-51e0cd8c8374
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

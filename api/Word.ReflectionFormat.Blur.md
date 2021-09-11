@@ -8,7 +8,7 @@ api_name:
 - Word.ReflectionFormat.Blur
 ms.assetid: f2b07885-e3c6-0281-0ff7-c80821e37b21
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

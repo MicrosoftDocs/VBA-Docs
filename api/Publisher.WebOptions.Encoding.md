@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebOptions.Encoding
 ms.assetid: 0aad6082-0ee4-3be0-14a0-73e219f254a0
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlinks.Parent
 ms.assetid: 75a2323c-1b57-c3a4-85be-54d3a76433f4
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

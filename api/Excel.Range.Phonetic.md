@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Phonetic
 ms.assetid: 9c6d1d83-b215-d60d-f78f-68e521e25368
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

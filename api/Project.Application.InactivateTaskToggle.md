@@ -8,7 +8,7 @@ api_name:
 - Project.Application.InactivateTaskToggle
 ms.assetid: af937c95-b434-95b8-7ea4-848c25ca30bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

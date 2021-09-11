@@ -8,7 +8,7 @@ api_name:
 - Word.GlowFormat.Color
 ms.assetid: d51c9b3a-7e54-4c44-b8ab-9b2b3b79381c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

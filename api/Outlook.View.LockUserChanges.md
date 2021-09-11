@@ -8,7 +8,7 @@ api_name:
 - Outlook.View.LockUserChanges
 ms.assetid: f4347b6f-b00d-6508-09e3-35cf98da26b1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

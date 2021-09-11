@@ -8,7 +8,7 @@ api_name:
 - Word.Document.FormattingShowParagraph
 ms.assetid: b2fc92be-02f5-1ed5-aa8a-76e4ed725b49
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

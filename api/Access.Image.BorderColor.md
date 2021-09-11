@@ -8,7 +8,7 @@ api_name:
 - Access.Image.BorderColor
 ms.assetid: 4bbc6f2a-c672-f3e3-a86d-287fa020a43d
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

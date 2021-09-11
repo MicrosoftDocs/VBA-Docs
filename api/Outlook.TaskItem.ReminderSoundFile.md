@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.ReminderSoundFile
 ms.assetid: 29bfa689-08b6-f963-9ecb-3744b1032062
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

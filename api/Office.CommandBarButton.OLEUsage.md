@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarButton.OLEUsage
 ms.assetid: 4ff6f74d-4eed-8a30-468c-22be5dee1c7e
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

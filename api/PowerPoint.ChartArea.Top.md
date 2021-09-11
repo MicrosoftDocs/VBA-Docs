@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartArea.Top
 ms.assetid: dac1cfbb-9fc3-c4ce-205a-bcaad54c5b88
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

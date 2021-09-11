@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationGroups.Item
 ms.assetid: a6521179-fa65-b5af-629a-458a852a29b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

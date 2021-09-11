@@ -8,7 +8,7 @@ api_name:
 - Word.Replacement.Creator
 ms.assetid: 4151ba54-23bc-62cc-7595-af5b90b7d970
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

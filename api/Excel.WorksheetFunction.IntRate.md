@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IntRate
 ms.assetid: cf5c96e2-6f5e-dcaa-7682-fd925c76d2c6
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

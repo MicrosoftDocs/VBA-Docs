@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.DeleteNumberFormat
 ms.assetid: d56c2e4c-5de2-fecf-6a1f-a9fdc79943cb
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

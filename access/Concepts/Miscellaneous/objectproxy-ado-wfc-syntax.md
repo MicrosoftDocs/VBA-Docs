@@ -3,7 +3,7 @@ title: ObjectProxy (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 8e3224b7-0b1d-1e08-eaa7-ceb0b6f5411c
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

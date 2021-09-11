@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Bin2Oct
 ms.assetid: 402e5aa3-19a5-4401-c9b0-cf2d231d02bc
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

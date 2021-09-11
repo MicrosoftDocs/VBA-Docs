@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.AddToFavorites
 ms.assetid: 14e1cd5a-41be-fc9a-61fa-df87698110e8
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.DocumentInspectors
 ms.assetid: 26d2575f-6e61-4509-6a67-45ae576bc9fe
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

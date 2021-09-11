@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.BeforeRead
 ms.assetid: 7641153e-d6c1-2551-60ae-76cff59dfa8e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

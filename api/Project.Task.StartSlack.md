@@ -5,7 +5,7 @@ api_name:
 - Project.Task.StartSlack
 ms.assetid: 0a777363-9535-31b3-c24b-729a53b83190
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

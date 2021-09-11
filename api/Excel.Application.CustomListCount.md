@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CustomListCount
 ms.assetid: 98a32161-e413-a0b7-a6be-4b11ae90fc00
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

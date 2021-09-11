@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.TransferText
 ms.assetid: e59f26dc-2df8-8d87-b73d-f3004eed0719
 ms.date: 03/07/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

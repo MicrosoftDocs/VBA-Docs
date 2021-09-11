@@ -5,7 +5,7 @@ api_name:
 - Project.Project.StartWeekOn
 ms.assetid: c4cbd07f-4258-3655-b013-c65480895203
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

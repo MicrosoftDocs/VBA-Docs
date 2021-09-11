@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleActions.Session
 ms.assetid: 10b906a5-421c-e858-f8f1-561818425f0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

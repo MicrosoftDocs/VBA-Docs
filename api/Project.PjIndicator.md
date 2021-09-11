@@ -5,7 +5,7 @@ api_name:
 - Project.PjIndicator
 ms.assetid: 97e7473c-4b4f-6934-0871-959d723fb72e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

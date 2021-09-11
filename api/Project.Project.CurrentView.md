@@ -5,7 +5,7 @@ api_name:
 - Project.Project.CurrentView
 ms.assetid: 002fc584-511e-0554-65f0-65dfd6b3dccb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

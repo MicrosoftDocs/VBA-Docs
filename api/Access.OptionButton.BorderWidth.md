@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.BorderWidth
 ms.assetid: cd4a5e9d-6444-7cac-aa04-c62b42887a16
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

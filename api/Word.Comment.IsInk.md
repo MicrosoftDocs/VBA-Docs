@@ -8,7 +8,7 @@ api_name:
 - Word.Comment.IsInk
 ms.assetid: 57204e17-cf5a-d006-0738-b1f1ef62632f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

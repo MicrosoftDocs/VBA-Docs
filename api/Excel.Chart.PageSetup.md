@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.PageSetup
 ms.assetid: 9a47bfd6-10b5-5f8e-86c2-e56c468de9d8
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

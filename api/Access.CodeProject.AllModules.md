@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.AllModules
 ms.assetid: 73d2919a-f486-db85-5df4-70b5fd9d8564
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

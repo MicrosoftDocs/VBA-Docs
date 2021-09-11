@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Collapse
 ms.assetid: ae177297-bf3b-ce0f-cf3a-29093b115996
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

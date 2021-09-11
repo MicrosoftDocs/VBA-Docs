@@ -8,7 +8,7 @@ api_name:
 - Outlook.TimelineView.LockUserChanges
 ms.assetid: 1e7dcc85-58a2-5599-9a48-8405331d04c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

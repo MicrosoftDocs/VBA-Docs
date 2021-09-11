@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.ForwardAsVcal
 ms.assetid: 5d5456b4-315c-b9e3-2ed8-a1b709999a2e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

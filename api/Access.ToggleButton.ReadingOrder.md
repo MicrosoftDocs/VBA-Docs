@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ReadingOrder
 ms.assetid: 172e40bd-bdd2-a4e8-3e96-d4bd8d3c40c8
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

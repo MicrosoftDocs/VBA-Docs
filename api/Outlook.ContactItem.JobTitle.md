@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.JobTitle
 ms.assetid: 6a08691c-7747-d9de-2349-5a3fbb01b136
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

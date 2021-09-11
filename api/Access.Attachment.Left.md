@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Left
 ms.assetid: cee21215-a0b0-9247-976d-9f7899287e54
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

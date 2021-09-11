@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.AfterUpdate
 ms.assetid: dbff2785-184c-601c-f26e-1ca99ea496a8
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

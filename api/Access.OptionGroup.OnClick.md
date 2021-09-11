@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.OnClick
 ms.assetid: 57ea9cba-cfbd-76f6-0cf9-193a5df87d66
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

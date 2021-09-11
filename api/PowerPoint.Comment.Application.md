@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Comment.Application
 ms.assetid: af56599d-2e68-5e6d-18cf-afcbeee09f32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

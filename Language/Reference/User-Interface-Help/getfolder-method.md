@@ -8,7 +8,7 @@ api_name:
 - Office.GetFolder
 ms.assetid: 772f1ae7-ac29-d4b4-e08a-d8553375510d
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

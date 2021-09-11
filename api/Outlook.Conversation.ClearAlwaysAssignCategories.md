@@ -8,7 +8,7 @@ api_name:
 - Outlook.Conversation.ClearAlwaysAssignCategories
 ms.assetid: 0494d8af-6569-c03d-99b1-be332c000985
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

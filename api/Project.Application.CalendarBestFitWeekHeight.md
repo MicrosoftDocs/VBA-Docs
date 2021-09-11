@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CalendarBestFitWeekHeight
 ms.assetid: 58b7e8e8-4001-ef47-c7ba-71af617768eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

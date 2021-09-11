@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindows.Count
 ms.assetid: 21ec98ac-23a3-94be-515d-0639eeaa63d4
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ReturnVars.Parent
 ms.assetid: 0abf087b-bf96-4e1d-9499-56ccc1c07234
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

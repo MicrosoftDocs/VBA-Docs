@@ -8,7 +8,7 @@ api_name:
 - Visio.Event
 ms.assetid: f11fffff-2218-8cc4-f223-31d956d1252d
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.BulletFormat.RelativeSize
 ms.assetid: ce90fbcb-9aa5-a286-1f91-f06a83351b97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

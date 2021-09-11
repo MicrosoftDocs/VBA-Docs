@@ -8,7 +8,7 @@ api_name:
 - Outlook.OutlookBarShortcuts.BeforeShortcutAdd
 ms.assetid: b31d495f-8288-a2ee-1429-6face8281787
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

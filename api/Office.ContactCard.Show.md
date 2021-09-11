@@ -5,7 +5,7 @@ api_name:
 - Office.ContactCard.Show
 ms.assetid: 57fe503a-3298-0bec-3c26-31ae88aa6534
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

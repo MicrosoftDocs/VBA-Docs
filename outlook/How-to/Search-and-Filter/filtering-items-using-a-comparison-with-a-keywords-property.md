@@ -3,7 +3,7 @@ title: Filtering Items Using a Comparison with a Keywords Property
 ms.prod: outlook
 ms.assetid: 8d1bcff0-cf25-662d-08ae-15e8d0edb8ea
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

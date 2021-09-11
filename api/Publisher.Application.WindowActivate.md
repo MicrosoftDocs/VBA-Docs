@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.WindowActivate
 ms.assetid: a7e4e396-9661-763c-8e41-dc279757af94
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

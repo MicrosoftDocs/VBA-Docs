@@ -8,7 +8,7 @@ api_name:
 - Word.ChartArea.Shadow
 ms.assetid: 6ca71639-95d0-eb11-80d2-4ad6bc20479c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

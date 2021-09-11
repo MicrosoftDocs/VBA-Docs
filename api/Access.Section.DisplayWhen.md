@@ -8,7 +8,7 @@ api_name:
 - Access.Section.DisplayWhen
 ms.assetid: cf084727-dab8-9105-c162-7216433eb181
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

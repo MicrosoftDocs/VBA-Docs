@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CreateReport
 ms.assetid: 4b086f8c-8017-0b5f-72a7-7c180c32f52d
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

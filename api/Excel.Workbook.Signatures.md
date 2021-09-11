@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Signatures
 ms.assetid: b45f8036-c2d7-6113-e95c-ff78ee6a1f46
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

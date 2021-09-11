@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnMouseUp
 ms.assetid: 8aea46bc-b62a-351a-0a02-6afbb1362b2b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

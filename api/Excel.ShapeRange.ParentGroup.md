@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.ParentGroup
 ms.assetid: b4e8b015-9380-734a-b7e3-74f73c5613fc
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

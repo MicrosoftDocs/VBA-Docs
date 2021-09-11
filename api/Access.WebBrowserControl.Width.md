@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Width
 ms.assetid: 0a55e8d9-c53e-0afe-b41e-31c1e3f8b10e
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

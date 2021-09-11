@@ -3,7 +3,7 @@ title: Task.IsStartValid property (Project)
 ms.prod: project-server
 ms.assetid: 6e5c90ab-7d7c-1f08-370c-8091d1a55aa6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

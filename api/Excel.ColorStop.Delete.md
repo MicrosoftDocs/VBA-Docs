@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStop.Delete
 ms.assetid: 3ca053f6-74f7-e2c0-6db4-7daed73cca39
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

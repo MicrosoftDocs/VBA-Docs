@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PlaySettings.PauseAnimation
 ms.assetid: a27beaaa-9ed6-f7cf-8abe-9012d1337fa8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

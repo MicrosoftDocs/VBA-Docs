@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatCondition.Font
 ms.assetid: 038b14f3-710a-0143-2b68-638eb22e6c87
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

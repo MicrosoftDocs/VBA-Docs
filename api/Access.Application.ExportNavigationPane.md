@@ -8,7 +8,7 @@ api_name:
 - Access.Application.ExportNavigationPane
 ms.assetid: 49bd679b-d763-ee3e-0cb4-165f1c45f60d
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.KeyboardLanguage
 ms.assetid: 5a4f4c8b-2d01-4613-2bb0-8c3e2c7dfda9
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

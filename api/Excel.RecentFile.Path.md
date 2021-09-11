@@ -8,7 +8,7 @@ api_name:
 - Excel.RecentFile.Path
 ms.assetid: bd2058b9-f5b6-968c-12f0-59edc98c0121
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

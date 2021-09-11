@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Style
 ms.assetid: 442acfef-795c-f41a-a19e-197a3b1ca12b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

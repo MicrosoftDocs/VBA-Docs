@@ -8,7 +8,7 @@ api_name:
 - Excel.HiLoLines.Delete
 ms.assetid: c35ec177-37dc-692c-d7d6-0ea3ccd6841d
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

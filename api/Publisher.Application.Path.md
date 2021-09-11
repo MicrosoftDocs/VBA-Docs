@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.Path
 ms.assetid: 36ac9a9c-8235-aeba-c3d5-d39aef960cc5
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

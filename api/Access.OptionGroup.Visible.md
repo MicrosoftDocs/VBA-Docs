@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Visible
 ms.assetid: 3af38a57-97bf-e427-acb5-ddc21678715a
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

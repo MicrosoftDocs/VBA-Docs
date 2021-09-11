@@ -8,7 +8,7 @@ api_name:
 - Outlook.StorageItem
 ms.assetid: 41776bc3-b838-2755-fd6b-3b5012fb9ae5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

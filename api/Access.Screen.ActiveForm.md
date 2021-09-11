@@ -8,7 +8,7 @@ api_name:
 - Access.Screen.ActiveForm
 ms.assetid: 5cf41661-656e-e62f-530e-0d2fa5466146
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

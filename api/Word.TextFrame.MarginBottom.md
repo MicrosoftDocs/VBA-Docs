@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.MarginBottom
 ms.assetid: 16e2f8ef-d28b-c61c-8a82-25c18c1252e0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

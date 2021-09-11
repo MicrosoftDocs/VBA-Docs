@@ -5,7 +5,7 @@ api_name:
 - Word.Rectangles.Item
 ms.assetid: 99cd8fa9-ce3b-1073-1d79-eff20b93055e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

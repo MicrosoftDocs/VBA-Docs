@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.Parent
 ms.assetid: 1c7f390f-6515-bf7f-baba-df05bdc57982
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.Parent
 ms.assetid: a6bada2b-c103-b526-eb48-24520a30e71b
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

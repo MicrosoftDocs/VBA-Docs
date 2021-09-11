@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: ebb7fee6-6bdf-9188-bb1b-1a9a4f0afa28
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

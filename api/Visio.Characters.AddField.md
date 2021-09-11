@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.AddField
 ms.assetid: 1b00cad3-d97a-4bdc-1f8e-cee39d9c836f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

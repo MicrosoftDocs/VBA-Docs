@@ -5,7 +5,7 @@ api_name:
 - Word.WdFootnoteLocation
 ms.assetid: 88108730-cc7e-47cd-7ced-1b37bc3ba749
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

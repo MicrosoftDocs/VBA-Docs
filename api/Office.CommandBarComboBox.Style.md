@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarComboBox.Style
 ms.assetid: 04d1270f-23b6-da23-312c-cb75c8969864
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

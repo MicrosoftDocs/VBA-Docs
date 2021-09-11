@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.TableStyle
 ms.assetid: e9c2d152-e060-3132-d27c-35020d3380ab
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

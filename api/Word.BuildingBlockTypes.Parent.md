@@ -8,7 +8,7 @@ api_name:
 - Word.BuildingBlockTypes.Parent
 ms.assetid: a41190b8-1168-182d-c345-2b37a9d9857a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

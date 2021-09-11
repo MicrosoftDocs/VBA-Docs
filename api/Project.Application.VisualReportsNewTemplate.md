@@ -8,7 +8,7 @@ api_name:
 - Project.Application.VisualReportsNewTemplate
 ms.assetid: 46fbe1f2-a79a-a0e2-ccfb-2c02ed46b184
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

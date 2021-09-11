@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.AutoUpdateSaveChanges
 ms.assetid: 06f9951d-a17a-bf88-4f6e-65835eb112f8
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

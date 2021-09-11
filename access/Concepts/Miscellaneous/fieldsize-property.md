@@ -9,7 +9,7 @@ api_name:
 - Access.FieldSize
 ms.assetid: 5cf8d67a-d81d-33d8-4afd-17e61abd3b08
 ms.date: 06/08/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

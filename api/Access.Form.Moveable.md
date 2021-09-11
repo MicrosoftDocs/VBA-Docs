@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Moveable
 ms.assetid: ad0db2eb-9905-15d9-7a96-e61cefd12842
 ms.date: 03/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

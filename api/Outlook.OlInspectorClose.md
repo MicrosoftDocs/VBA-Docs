@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlInspectorClose
 ms.assetid: 96df6281-7281-dae3-c088-74e512b381c8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

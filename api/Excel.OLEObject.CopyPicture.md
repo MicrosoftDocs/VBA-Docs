@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.CopyPicture
 ms.assetid: 2a4d8e14-5dfe-74f1-6ffe-7501c46e90ca
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

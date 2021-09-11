@@ -8,7 +8,7 @@ api_name:
 - Word.ChartFont.Bold
 ms.assetid: e203868f-5234-354e-6488-159351041083
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

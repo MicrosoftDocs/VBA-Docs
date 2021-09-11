@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PropertyEffect.From
 ms.assetid: 314435d3-27aa-323b-65f4-de7f7864f30d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

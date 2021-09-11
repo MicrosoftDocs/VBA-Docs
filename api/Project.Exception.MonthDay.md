@@ -5,7 +5,7 @@ api_name:
 - Project.Exception.MonthDay
 ms.assetid: a9b6e3f4-4cb2-1011-de42-bf32584e4f3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

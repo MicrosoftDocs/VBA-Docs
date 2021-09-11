@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.OnLostFocus
 ms.assetid: c802a73b-5f6b-d7b2-7a8b-303f3fdf3440
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

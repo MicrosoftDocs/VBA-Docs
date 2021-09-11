@@ -8,7 +8,7 @@ api_name:
 - Excel.Font.Underline
 ms.assetid: 81a2bdd2-bebd-b3ca-e0c3-6dd55280fcc0
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

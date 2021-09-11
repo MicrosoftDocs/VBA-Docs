@@ -8,7 +8,7 @@ api_name:
 - Word.DataTable.HasBorderVertical
 ms.assetid: cc104c8c-73b2-00a1-2ea9-641215560637
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

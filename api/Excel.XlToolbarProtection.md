@@ -5,7 +5,7 @@ api_name:
 - Excel.XlToolbarProtection
 ms.assetid: 985069aa-bf4c-ffbe-1ac6-352494c52d9b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

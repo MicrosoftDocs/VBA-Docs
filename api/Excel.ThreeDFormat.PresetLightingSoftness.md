@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.PresetLightingSoftness
 ms.assetid: e63a483b-16c6-edab-6a16-b539f0a424cb
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

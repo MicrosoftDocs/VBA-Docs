@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.NumberFormatLocal
 ms.assetid: e34e6f52-9279-7961-adfa-4aa84c44937a
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Range.NumberFormatLocal property (Excel)

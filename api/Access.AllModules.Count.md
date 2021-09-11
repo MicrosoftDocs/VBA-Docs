@@ -8,7 +8,7 @@ api_name:
 - Access.AllModules.Count
 ms.assetid: d661e66b-aac3-2baf-f9ae-63198d256ae1
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

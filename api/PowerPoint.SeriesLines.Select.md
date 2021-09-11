@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.SeriesLines.Select
 ms.assetid: c84d09ca-891a-9863-b1f5-acb49e024937
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Series.PlotOrder
 ms.assetid: 8813c546-f5ed-774e-e57f-3adfcb6ac926
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

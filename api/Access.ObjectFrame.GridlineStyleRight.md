@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.GridlineStyleRight
 ms.assetid: 98fe7dba-d488-3a19-7640-bab09b1aca7e
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

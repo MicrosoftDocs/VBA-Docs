@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.FileName
 ms.assetid: 4d39020e-b21f-35b5-f5dc-4d8d5b4fdc88
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

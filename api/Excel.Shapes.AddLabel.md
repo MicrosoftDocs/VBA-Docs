@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.AddLabel
 ms.assetid: eb0bfb2a-51ab-ce65-0ef2-aa964d3b08ba
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.DrawingControl.NegotiateMenus
 ms.assetid: 03a9ee41-1116-101f-fdbe-16b8fcd98866
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

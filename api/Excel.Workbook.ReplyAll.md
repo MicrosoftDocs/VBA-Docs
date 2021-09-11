@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ReplyAll
 ms.assetid: c378da35-1778-44db-5c58-8d6992ca0c93
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

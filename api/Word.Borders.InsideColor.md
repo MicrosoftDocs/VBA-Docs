@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.InsideColor
 ms.assetid: 90205db3-2b44-25dd-3b61-b9dc3ccb157a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

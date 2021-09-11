@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.CalcFor
 ms.assetid: 4ab81649-8221-a83d-5e51-0c4dbe01b175
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

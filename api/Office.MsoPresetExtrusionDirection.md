@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPresetExtrusionDirection
 ms.assetid: 6842c53f-a240-249c-32aa-18cac4859ecf
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

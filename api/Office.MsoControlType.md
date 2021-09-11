@@ -5,7 +5,7 @@ api_name:
 - Office.MsoControlType
 ms.assetid: 62167ab6-edbe-4718-ff4a-0f1ff1059e8b
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

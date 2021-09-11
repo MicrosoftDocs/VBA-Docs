@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.ControlTipText
 ms.assetid: 394aecbe-0053-d114-1804-c4ee6a9749d0
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

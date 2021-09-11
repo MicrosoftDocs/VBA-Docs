@@ -3,7 +3,7 @@ title: Cells and Ranges
 ms.prod: excel
 ms.assetid: 8b84060e-8a2c-4754-bd0c-df73e80f38fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

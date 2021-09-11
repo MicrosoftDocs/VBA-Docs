@@ -8,7 +8,7 @@ api_name:
 - Excel.TextureType
 ms.assetid: ba60a953-c506-ff49-0945-aa222dcd5f43
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

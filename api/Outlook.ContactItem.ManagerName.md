@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ManagerName
 ms.assetid: bf8c6303-75da-f589-c7a0-b16ded036bb3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

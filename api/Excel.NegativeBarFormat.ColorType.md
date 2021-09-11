@@ -8,7 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.ColorType
 ms.assetid: 01485eab-0aa3-278e-2976-02e0d0757a4f
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

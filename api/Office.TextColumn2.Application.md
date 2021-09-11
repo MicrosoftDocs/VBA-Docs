@@ -5,7 +5,7 @@ api_name:
 - Office.TextColumn2.Application
 ms.assetid: 7c70142d-65e8-85e7-a601-4f7aaf2eb335
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Calculating fields in SQL functions
 ms.prod: access
 ms.assetid: 441af335-469d-5d70-bd90-5309717cb941
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

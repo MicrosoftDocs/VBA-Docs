@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.StandardHeight
 ms.assetid: 43dd7321-5df7-2cda-9e51-75f81ab203f2
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

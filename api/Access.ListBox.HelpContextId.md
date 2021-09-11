@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.HelpContextId
 ms.assetid: df459501-09ff-cdae-4903-526d62e1c05b
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

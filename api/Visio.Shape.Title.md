@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Shape.Title
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Shape.Title property (Visio)

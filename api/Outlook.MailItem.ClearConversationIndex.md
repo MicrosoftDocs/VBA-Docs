@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.ClearConversationIndex
 ms.assetid: 5246a0ac-d4e3-4c3b-8362-f5b65e1a28ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

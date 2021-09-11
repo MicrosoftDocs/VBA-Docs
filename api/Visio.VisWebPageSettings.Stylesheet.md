@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

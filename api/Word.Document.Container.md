@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Container
 ms.assetid: f2a0ebbe-98dc-dfc4-5879-da2b79e75b7d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

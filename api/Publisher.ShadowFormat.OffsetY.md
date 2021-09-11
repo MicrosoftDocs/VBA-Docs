@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShadowFormat.OffsetY
 ms.assetid: e7deb108-e027-dd61-714f-1a76e904009b
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

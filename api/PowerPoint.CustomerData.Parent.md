@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CustomerData.Parent
 ms.assetid: 4e98aaba-00cc-ef38-7dd4-6166cd5a4fcf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

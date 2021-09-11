@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Caption
 ms.assetid: eb36b740-7aba-3af1-5f2e-40689db272e2
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

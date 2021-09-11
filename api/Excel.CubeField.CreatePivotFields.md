@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.CreatePivotFields
 ms.assetid: 87d868d7-8836-5a0b-a4b6-1ca3165b96e0
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

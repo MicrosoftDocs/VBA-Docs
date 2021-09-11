@@ -8,7 +8,7 @@ api_name:
 - Office.PasswordChar
 ms.assetid: 2dd645b2-fe8d-a644-b796-e0595627cbb8
 ms.date: 12/29/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

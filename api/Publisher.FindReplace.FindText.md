@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.FindText
 ms.assetid: 5c8d2803-174e-a82f-d94c-3d96c4b4a2eb
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

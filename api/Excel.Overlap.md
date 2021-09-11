@@ -8,7 +8,7 @@ api_name:
 - Excel.Overlap
 ms.assetid: 60e82754-4553-7ee9-7403-06cd12de733e
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

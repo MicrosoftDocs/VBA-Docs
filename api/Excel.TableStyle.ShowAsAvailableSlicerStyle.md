@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyle.ShowAsAvailableSlicerStyle
 ms.assetid: d8f1144a-4e17-0b53-049a-f18dc4092fdb
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

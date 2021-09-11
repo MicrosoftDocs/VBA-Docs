@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Connector
 ms.assetid: 04562f53-97a0-3f53-79de-c2c660f5a48e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

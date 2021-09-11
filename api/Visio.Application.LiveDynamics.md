@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.LiveDynamics
 ms.assetid: fc5a887b-318a-fd25-c2b5-52d6cc1c026e
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.MailMerge.State
 ms.assetid: eeee1112-91fb-ec32-a9ea-ab999f0c28e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Series.Type
 ms.assetid: 3f3ed60e-5c97-d1ca-fc32-d6c4ba7ab988
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

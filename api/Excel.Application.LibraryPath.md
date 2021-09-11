@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.LibraryPath
 ms.assetid: 783efa4a-640b-ab78-2831-da2ecd05558a
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

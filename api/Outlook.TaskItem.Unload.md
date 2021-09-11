@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskItem.Unload
 ms.assetid: ff7d2655-06b5-6344-3422-4bf7be761a39
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.MarkForDownload
 ms.assetid: 8d5f49e4-7941-47f7-e6f1-b2ddc145d0d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Footnote.Delete
 ms.assetid: 32db7e9d-e702-c970-ac29-df84bb849294
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

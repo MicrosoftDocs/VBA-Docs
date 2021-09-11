@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.PlotVisibleOnly
 ms.assetid: e09aee43-c3f7-9269-f01a-d6298ab780fa
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

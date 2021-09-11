@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.InstanceHandle32
 ms.assetid: d9e51540-21d5-5f52-68ef-1d49cb30cd51
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

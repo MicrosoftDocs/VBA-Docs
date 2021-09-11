@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.AddCanvas
 ms.assetid: ff6da70f-f6ce-83f8-8e30-95b50a1f4e4f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a1b4ae18-4efa-d79a-ffec-4ec705a0236b
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Syntax error in WITH OWNERACCESS OPTION declaration. (Error 3257)

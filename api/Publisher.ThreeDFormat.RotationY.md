@@ -8,7 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.RotationY
 ms.assetid: 571f090b-71a8-c92e-b4d8-4f21a4c383ed
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

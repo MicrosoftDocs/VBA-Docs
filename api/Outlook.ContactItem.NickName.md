@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.NickName
 ms.assetid: d970aad5-0197-8cf5-b6f1-8d768734d785
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

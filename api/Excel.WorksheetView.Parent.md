@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetView.Parent
 ms.assetid: fc7f2258-0b36-c18f-e324-1eaac5b99494
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

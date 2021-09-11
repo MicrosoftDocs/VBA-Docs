@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.BackShade
 ms.assetid: 3c3de7b4-9b86-6148-69af-f4a3ccb648ff
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

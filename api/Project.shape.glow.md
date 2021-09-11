@@ -3,7 +3,7 @@ title: Shape.Glow property (Project)
 ms.prod: project-server
 ms.assetid: 4bd06373-53b8-d790-1500-9e77312ab52b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

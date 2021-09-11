@@ -8,7 +8,7 @@ api_name:
 - Access.GroupLevel.GroupOn
 ms.assetid: 7fb9551f-5742-39a2-1cf3-7b3975ae517a
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.SharingItem.CustomPropertyChange
 ms.assetid: faf015c1-aa18-67f4-e1af-b456b7c89523
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebPageOptions.PublishFileName
 ms.assetid: d3f52a82-8876-303a-2a73-fdb6dd1ff1cb
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.AllStoredProcedures.Parent
 ms.assetid: c3078759-8f32-f7b9-1b71-1cd3f55578b1
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

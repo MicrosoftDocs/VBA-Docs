@@ -3,7 +3,7 @@ title: VisQuickStyleMatrixIndices enumeration (Visio)
 ms.prod: visio
 ms.assetid: 0fb0b448-85ba-4fc4-d933-21d574cefa2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

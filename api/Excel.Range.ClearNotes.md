@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ClearNotes
 ms.assetid: 24017be9-d3bf-2e8a-4587-d5b0a03fdcaf
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

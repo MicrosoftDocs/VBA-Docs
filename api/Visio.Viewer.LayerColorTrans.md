@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.LayerColorTrans
 ms.assetid: b081bc59-701f-3ac5-6324-9eb055185c09
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

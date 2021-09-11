@@ -8,7 +8,7 @@ api_name:
 - Word.WebOptions.OrganizeInFolder
 ms.assetid: 99ed0575-69d6-0f28-54bc-a3f7a94ebd52
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

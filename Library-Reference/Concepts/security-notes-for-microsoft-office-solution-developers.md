@@ -4,7 +4,7 @@ description: Security updates for Office developers
 ms.prod: office
 ms.assetid: 076ce284-5d1d-4823-ba74-f5e5c05bae9b
 ms.date: 09/07/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Security notes for Office solution developers

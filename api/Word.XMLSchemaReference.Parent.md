@@ -8,7 +8,7 @@ api_name:
 - Word.XMLSchemaReference.Parent
 ms.assetid: 894a45d1-8ae6-b086-ba2d-e0d52a658a32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

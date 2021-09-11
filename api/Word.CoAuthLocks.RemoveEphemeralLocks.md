@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthLocks.RemoveEphemeralLocks
 ms.assetid: fc894f97-b84c-8410-1847-ef2c3ad97300
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

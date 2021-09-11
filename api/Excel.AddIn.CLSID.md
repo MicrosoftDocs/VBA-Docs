@@ -8,7 +8,7 @@ api_name:
 - Excel.AddIn.CLSID
 ms.assetid: 3a8e7eeb-29f8-b05e-e0f8-9ee69a88356c
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

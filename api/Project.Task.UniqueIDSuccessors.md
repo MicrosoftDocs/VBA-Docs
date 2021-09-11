@@ -8,7 +8,7 @@ api_name:
 - Project.Task.UniqueIDSuccessors
 ms.assetid: 2462e6da-8624-62f6-408e-0f50de82096d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

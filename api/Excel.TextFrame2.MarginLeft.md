@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.MarginLeft
 ms.assetid: 16753c28-5322-b484-0948-19f7dc4651b7
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

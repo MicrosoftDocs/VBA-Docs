@@ -8,7 +8,7 @@ api_name:
 - Publisher.EmailMergeEnvelope.Subject
 ms.assetid: 3ffcaa88-2130-97d2-5a01-a23b09465e64
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

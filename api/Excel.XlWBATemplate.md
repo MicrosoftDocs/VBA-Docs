@@ -5,7 +5,7 @@ api_name:
 - Excel.XlWBATemplate
 ms.assetid: 89f3197f-df0c-4d7f-8907-b59b0a7049fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

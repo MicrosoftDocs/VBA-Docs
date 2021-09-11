@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Count
 ms.assetid: 17d38ae2-667c-d256-2098-4ed110b7488f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

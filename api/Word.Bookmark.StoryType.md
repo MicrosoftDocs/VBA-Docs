@@ -8,7 +8,7 @@ api_name:
 - Word.Bookmark.StoryType
 ms.assetid: 378a37f5-9ffd-1d11-4a59-b7f54f65e96b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

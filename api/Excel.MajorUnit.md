@@ -8,7 +8,7 @@ api_name:
 - Excel.MajorUnit
 ms.assetid: 46d4d4e0-f285-2800-f539-72e7acb98948
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

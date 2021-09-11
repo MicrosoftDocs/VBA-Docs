@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Frequency
 ms.assetid: e13a993f-c669-45ca-90f9-41655f01cc18
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

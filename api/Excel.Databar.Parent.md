@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Parent
 ms.assetid: 9055825f-bdf1-98c4-87d7-c6a0aa19d029
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

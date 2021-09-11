@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ShowAxisFieldButtons
 ms.assetid: 05eff4ce-c06b-b866-b0d7-8733cb51605a
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

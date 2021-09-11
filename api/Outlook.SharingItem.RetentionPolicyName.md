@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.RetentionPolicyName
 ms.assetid: 6b8327ef-4e34-23fb-cd3e-3d6820b6b42e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

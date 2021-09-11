@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressEntries.Count
 ms.assetid: 24b5bdb3-174d-1366-b2f5-c8243c71fa9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

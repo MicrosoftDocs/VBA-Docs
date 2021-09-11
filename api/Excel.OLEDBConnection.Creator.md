@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.Creator
 ms.assetid: a2a5b5cd-9fea-0756-d2a6-ff632a29ffa9
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

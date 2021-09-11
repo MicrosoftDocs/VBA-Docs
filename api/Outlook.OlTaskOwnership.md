@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlTaskOwnership
 ms.assetid: 1b3f1b21-e928-4cc2-e6ae-81cf9db688ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

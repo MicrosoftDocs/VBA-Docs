@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 3aae4616-ab44-5e57-ba10-1d5ca1659c6e
 ms.date: 12/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # DateSerial function

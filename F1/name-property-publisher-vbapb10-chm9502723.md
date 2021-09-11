@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: dbc42140-91e4-4608-9b88-39fa8446685b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Legend.Clear
 ms.assetid: 9026a3db-880e-c8d5-cbc1-b813c252bd8a
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

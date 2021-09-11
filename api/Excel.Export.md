@@ -8,7 +8,7 @@ api_name:
 - Excel.Export
 ms.assetid: c5929fa7-ac8a-0cb4-5c8d-01e5cfa23d1e
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

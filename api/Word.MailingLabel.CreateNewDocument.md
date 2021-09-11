@@ -8,7 +8,7 @@ api_name:
 - Word.MailingLabel.CreateNewDocument
 ms.assetid: a52831c0-42cb-e970-14e7-2c71bcc5c2f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

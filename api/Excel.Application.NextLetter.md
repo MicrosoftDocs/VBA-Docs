@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.NextLetter
 ms.assetid: 002ace38-48f1-cac2-6bbb-428b119c8ed0
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

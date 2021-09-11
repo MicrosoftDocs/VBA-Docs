@@ -5,7 +5,7 @@ api_name:
 - Office.MsoTextChangeCase
 ms.assetid: e54a2184-0a51-fb2a-e3ec-b43f6dc05d04
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

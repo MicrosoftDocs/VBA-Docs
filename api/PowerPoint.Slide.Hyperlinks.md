@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.Hyperlinks
 ms.assetid: 0e1d7545-815f-3be9-38b8-355f9e6e9962
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

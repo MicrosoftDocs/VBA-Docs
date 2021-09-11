@@ -8,7 +8,7 @@ api_name:
 - Access.AcColorIndex
 ms.assetid: 10e54a60-f96f-3e1a-571a-86bdb8b00a15
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.RemoveFromContainers
 ms.assetid: b9dbf604-01f0-675a-a0e1-7b30841ec5c5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

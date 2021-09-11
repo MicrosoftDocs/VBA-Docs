@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabels.Separator
 ms.assetid: daf3afde-8a33-de08-a615-57537855818a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

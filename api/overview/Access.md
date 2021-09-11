@@ -3,7 +3,7 @@ title: Access Visual Basic for Applications (VBA) reference
 ms.prod: access
 description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Access.
 ms.date: 10/10/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Access VBA reference

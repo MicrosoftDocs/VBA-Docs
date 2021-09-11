@@ -8,7 +8,7 @@ api_name:
 - Project.Project.CreationDate
 ms.assetid: 7126f72b-fe35-c183-04b7-03efd78a8589
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.BorderShade
 ms.assetid: 1b71c426-775f-1246-a659-e68faedee62a
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.OMathRad.Creator
 ms.assetid: d5aeb0ee-f3e4-67aa-ba5c-bd526de0de0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

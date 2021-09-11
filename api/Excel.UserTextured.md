@@ -8,7 +8,7 @@ api_name:
 - Excel.UserTextured
 ms.assetid: 063b74ef-8b82-3a59-457c-9240395a6eb2
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

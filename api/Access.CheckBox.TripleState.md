@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.TripleState
 ms.assetid: f2c9f398-6e1b-00cb-4033-b0fb5a83e737
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

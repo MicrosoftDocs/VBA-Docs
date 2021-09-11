@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.TickLabelSpacingIsAuto
 ms.assetid: 3eee7ade-a60b-b3be-aee9-26361ab09738
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

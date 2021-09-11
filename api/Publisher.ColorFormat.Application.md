@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorFormat.Application
 ms.assetid: 271eb1ca-16ad-fbd0-83e0-d7e7776994c1
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

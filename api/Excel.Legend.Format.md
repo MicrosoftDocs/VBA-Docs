@@ -8,7 +8,7 @@ api_name:
 - Excel.Legend.Format
 ms.assetid: ecaddfd4-0ce1-7fbc-0a61-6534e4bc413c
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

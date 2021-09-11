@@ -8,7 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.IncludeInLayout
 ms.assetid: 05f119fe-d0b1-9309-f6d2-86abdd81c548
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

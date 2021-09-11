@@ -8,7 +8,7 @@ api_name:
 - Access.Image.Tag
 ms.assetid: 627e6f93-8812-e66e-0291-d24be9185fc2
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

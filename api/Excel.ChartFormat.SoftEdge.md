@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartFormat.SoftEdge
 ms.assetid: daeff636-bd76-b11e-0fe6-d7cf85df28c7
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

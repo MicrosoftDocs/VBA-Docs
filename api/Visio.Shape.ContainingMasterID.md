@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.ContainingMasterID
 ms.assetid: e194cd7c-d7c0-2c08-a0df-764398efa447
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

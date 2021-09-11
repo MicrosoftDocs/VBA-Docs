@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Application
 ms.assetid: 1fd7d168-7d4e-c732-db7d-986757a0a483
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

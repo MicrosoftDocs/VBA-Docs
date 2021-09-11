@@ -8,7 +8,7 @@ api_name:
 - Word.AxisTitle.ReadingOrder
 ms.assetid: d605eea3-1ab6-a0b6-f6f4-bd5a0bbf4254
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

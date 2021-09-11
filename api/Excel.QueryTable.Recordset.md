@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.Recordset
 ms.assetid: d9f4190e-c43c-5fe5-113d-18c8efcc2a27
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

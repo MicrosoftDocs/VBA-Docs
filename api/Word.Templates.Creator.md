@@ -8,7 +8,7 @@ api_name:
 - Word.Templates.Creator
 ms.assetid: ba27eede-bd2b-9e13-d9c7-717a8fc83b0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

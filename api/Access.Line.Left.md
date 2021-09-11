@@ -8,7 +8,7 @@ api_name:
 - Access.Line.Left
 ms.assetid: a41aa014-e3f0-e01a-2e02-95175eb9d8bd
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

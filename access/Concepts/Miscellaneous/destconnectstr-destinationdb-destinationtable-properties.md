@@ -7,7 +7,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 5d9f3e9d-fc36-d4af-d82b-8d2ebd8044fa
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # DestConnectStr, DestinationDB, DestinationTable properties

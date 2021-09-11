@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.MeasurementUnit
 ms.assetid: 2f48eda1-9d82-d8fc-ce89-2d33a4801e12
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

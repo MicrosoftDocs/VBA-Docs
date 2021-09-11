@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarComboBox.Clear
 ms.assetid: f60afda8-5740-c6f6-7f3b-315dc95c45f8
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

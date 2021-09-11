@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Number2
 ms.assetid: 204c8d57-e778-5f56-2263-35e49dfe18ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

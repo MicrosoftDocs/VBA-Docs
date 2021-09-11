@@ -8,7 +8,7 @@ api_name:
 - Word.DataTable.Delete
 ms.assetid: 82ab6611-856f-1853-694d-589baa8544d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

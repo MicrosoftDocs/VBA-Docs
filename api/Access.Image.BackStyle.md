@@ -8,7 +8,7 @@ api_name:
 - Access.Image.BackStyle
 ms.assetid: bd3b2a60-2b9d-7b18-63d1-5bc6f059eb5a
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

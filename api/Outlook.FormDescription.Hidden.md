@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormDescription.Hidden
 ms.assetid: 0e5a447e-4a6e-6b55-c931-e24e931de380
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

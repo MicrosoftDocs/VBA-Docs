@@ -3,7 +3,7 @@ title: Comment.Application property (Visio)
 ms.prod: visio
 ms.assetid: e9f8e713-0fa6-b313-cc11-a7dae691d94f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

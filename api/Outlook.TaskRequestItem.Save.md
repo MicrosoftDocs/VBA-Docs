@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.Save
 ms.assetid: 11eddddb-985a-4254-1ed9-cc00e8f20b23
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

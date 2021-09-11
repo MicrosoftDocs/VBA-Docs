@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.PressedShade
 ms.assetid: 72176e9c-68bf-971c-3147-fea692240d17
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

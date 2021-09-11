@@ -3,7 +3,7 @@ title: XlTimelineLevel enumeration (Excel)
 ms.prod: excel
 ms.assetid: beb18b49-fd93-c037-4b09-3453569e945c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

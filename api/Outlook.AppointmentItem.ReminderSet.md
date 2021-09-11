@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.ReminderSet
 ms.assetid: 575d5fb2-1672-ddae-832c-7dcc7d1da2d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

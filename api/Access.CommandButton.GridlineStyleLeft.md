@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.GridlineStyleLeft
 ms.assetid: 4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Global.Documents
 ms.assetid: c3cd61bf-9497-3c47-6215-7f315881f9a8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

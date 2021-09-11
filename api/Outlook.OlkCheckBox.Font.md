@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.Font
 ms.assetid: ffabe2b5-1910-4480-b4d4-b684dd8203b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

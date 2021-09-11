@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.HideReadingPaneHeaderInfo
 ms.assetid: 1932f837-f04a-4bf4-e327-6666f5b89b5a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

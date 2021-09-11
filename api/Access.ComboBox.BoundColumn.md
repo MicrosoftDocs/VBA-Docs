@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.BoundColumn
 ms.assetid: ba2b5807-5f5a-52bb-d5d3-db7525bccba4
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

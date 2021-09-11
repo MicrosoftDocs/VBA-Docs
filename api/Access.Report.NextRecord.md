@@ -8,7 +8,7 @@ api_name:
 - Access.Report.NextRecord
 ms.assetid: 771508ff-9a2d-6317-2b23-a1c0b012e7ba
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlMaps.Add
 ms.assetid: 0197c932-73bf-024e-35b1-aba984175aee
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

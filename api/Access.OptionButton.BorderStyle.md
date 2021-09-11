@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.BorderStyle
 ms.assetid: 44aa551d-6b08-2e55-21e8-0c7af12e1cc2
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

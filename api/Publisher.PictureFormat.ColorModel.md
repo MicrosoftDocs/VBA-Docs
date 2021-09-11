@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.ColorModel
 ms.assetid: 8e3e259c-943d-c1a9-f090-2ee0f0bb29f2
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.VisLayoutDirection
 ms.assetid: 8161dc39-424c-1bec-408e-a2d829824d29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

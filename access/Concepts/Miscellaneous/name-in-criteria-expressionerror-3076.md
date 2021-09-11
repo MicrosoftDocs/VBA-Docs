@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: a21401b7-6c54-003e-f1b8-1c9f15405877
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # <Name> in criteria expression. (Error 3076)

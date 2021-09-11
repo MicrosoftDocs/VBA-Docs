@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.LinkFormat
 ms.assetid: aa2f91d3-b3fd-9834-b189-ec7fc783db6d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SplitFormDatasheet
 ms.assetid: 765eacb5-ef79-3b1d-6511-501ec0def22c
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

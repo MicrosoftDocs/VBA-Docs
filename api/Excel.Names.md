@@ -8,7 +8,7 @@ api_name:
 - Excel.Names
 ms.assetid: ffecf89d-7bae-c470-8e37-608857a9de2a
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

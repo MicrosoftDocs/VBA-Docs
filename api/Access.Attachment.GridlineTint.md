@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.GridlineTint
 ms.assetid: c1730e7b-88ae-3810-1a6c-9a0ff17b95b1
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

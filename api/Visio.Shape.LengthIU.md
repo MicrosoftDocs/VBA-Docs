@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.LengthIU
 ms.assetid: 11d57f17-5285-6b45-1da1-dc58db087395
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

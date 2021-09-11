@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AllowLayoutView
 ms.assetid: 70b273ef-60fa-00b8-b262-3c45e691ed42
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

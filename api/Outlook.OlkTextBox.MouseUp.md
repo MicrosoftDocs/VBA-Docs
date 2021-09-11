@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.MouseUp
 ms.assetid: 6dfa9337-2c66-f542-a78f-e9da849db6fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

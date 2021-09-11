@@ -3,7 +3,7 @@ title: Variables and constants keyword summary
 ms.prod: office
 ms.assetid: 92453b76-ff8c-15a2-c421-0786616f999f
 ms.date: 11/29/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

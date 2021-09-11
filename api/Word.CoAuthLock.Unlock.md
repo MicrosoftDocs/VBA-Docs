@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthLock.Unlock
 ms.assetid: 7f64431b-8b1b-60b3-142c-5251dce1a8a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

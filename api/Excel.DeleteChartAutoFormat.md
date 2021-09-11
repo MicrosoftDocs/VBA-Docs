@@ -8,7 +8,7 @@ api_name:
 - Excel.DeleteChartAutoFormat
 ms.assetid: 22f9c561-b0a1-2c75-391e-25bb54ad67a5
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

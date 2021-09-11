@@ -8,7 +8,7 @@ api_name:
 - Outlook.StorageItem.Delete
 ms.assetid: 0ace6d9e-3dc7-52d5-ac20-97c2f3b109de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

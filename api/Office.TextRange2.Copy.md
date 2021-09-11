@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.Copy
 ms.assetid: ad247113-31b4-424c-b62d-ab427081b46c
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

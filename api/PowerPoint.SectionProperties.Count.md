@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SectionProperties.Count
 ms.assetid: 2f9b5f64-244c-1137-d4cb-9aa60537d5e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.RefreshName
 ms.assetid: 488d5e0c-61f9-0c85-ac1b-16dc98360bb4
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

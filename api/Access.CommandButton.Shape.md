@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Shape
 ms.assetid: 92088237-5dd8-0b40-ed2d-e5a5bfef4495
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

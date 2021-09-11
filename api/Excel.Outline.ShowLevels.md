@@ -8,7 +8,7 @@ api_name:
 - Excel.Outline.ShowLevels
 ms.assetid: 2ebeb135-bbb9-aac1-57d7-02a141aa3ddb
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

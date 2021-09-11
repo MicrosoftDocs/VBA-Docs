@@ -3,7 +3,7 @@ title: Model.Initialize method (Excel)
 ms.prod: excel
 ms.assetid: fe85e378-26c6-e573-21c1-b8a3ccbe4d71
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

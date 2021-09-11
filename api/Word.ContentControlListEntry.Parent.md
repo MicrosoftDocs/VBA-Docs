@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControlListEntry.Parent
 ms.assetid: ca38e2a0-3c1e-c1bf-8965-bf4538e5380b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

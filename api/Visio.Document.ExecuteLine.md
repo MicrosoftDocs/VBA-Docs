@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.ExecuteLine
 ms.assetid: 0443c879-b569-c35b-e28c-77d0bf4b23ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

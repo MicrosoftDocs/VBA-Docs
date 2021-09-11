@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.Session
 ms.assetid: 93dba2e5-d11e-7761-ac29-08f5b7a83b49
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

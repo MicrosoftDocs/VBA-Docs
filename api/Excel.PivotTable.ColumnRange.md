@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ColumnRange
 ms.assetid: 7f54b908-b0cb-80c8-e16f-25c7ff536e43
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

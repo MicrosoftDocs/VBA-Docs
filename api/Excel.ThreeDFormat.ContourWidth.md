@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.ContourWidth
 ms.assetid: 1a42f2f6-e820-3f33-e304-8dc85aeabfd0
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

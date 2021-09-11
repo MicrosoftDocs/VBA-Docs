@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.GapWidth
 ms.assetid: 2bf93d07-9181-f43c-5a0f-9350fc1ebd62
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

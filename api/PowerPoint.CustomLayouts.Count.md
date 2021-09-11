@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.CustomLayouts.Count
 ms.assetid: 9267940e-244b-6f22-a517-2ec5728f40fa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

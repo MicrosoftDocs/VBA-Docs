@@ -8,7 +8,7 @@ api_name:
 - Word.OMathBreak.Delete
 ms.assetid: 27583320-f115-c2e7-1326-22b1316bc67e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

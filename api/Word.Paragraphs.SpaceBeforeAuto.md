@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.SpaceBeforeAuto
 ms.assetid: be2bbab2-81bb-a95e-201b-46487fda2ca8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

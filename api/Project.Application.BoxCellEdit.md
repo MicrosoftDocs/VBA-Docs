@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxCellEdit
 ms.assetid: 27063852-3dc4-57b2-c82a-6210674810ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

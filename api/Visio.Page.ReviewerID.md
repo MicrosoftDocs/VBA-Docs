@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.ReviewerID
 ms.assetid: f3de7746-f1f7-4a94-6fcb-e3c2775ed748
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

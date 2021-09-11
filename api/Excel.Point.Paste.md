@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Paste
 ms.assetid: 0a984f1c-54de-d49f-8677-43d513a0f9fc
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Global.IsObjectValid
 ms.assetid: 73115443-ad95-8e58-cd35-b9a34c6e641d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

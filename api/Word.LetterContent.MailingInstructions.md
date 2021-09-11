@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.MailingInstructions
 ms.assetid: a31f4a82-984d-8aae-294d-9ffaaa889028
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.Borders
 ms.assetid: 428953d4-b481-dd8a-0aff-a9fb754b935c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

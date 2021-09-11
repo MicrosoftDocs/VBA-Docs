@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowTransition.AdvanceOnClick
 ms.assetid: 0f517795-ea23-4c94-fad9-cc2e6c1cd5e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

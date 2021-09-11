@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.LeftPadding
 ms.assetid: 5e60f737-5cc7-97e9-af4a-b8f065a5277b
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

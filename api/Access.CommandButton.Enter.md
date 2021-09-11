@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Enter
 ms.assetid: cc60adbd-eb72-92c3-a562-08adbf0dcc99
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

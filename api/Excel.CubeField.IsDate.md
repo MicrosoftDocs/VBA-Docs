@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.IsDate
 ms.assetid: 094fdc93-9eb4-137c-7ffb-0e4a7138cce8
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

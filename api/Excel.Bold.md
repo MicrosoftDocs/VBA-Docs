@@ -8,7 +8,7 @@ api_name:
 - Excel.Bold
 ms.assetid: 224f4cc5-a495-062a-655b-828182cbe3de
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

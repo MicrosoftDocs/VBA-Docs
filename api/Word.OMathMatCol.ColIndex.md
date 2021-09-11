@@ -8,7 +8,7 @@ api_name:
 - Word.OMathMatCol.ColIndex
 ms.assetid: 607ba308-2c9f-e6a8-1573-0b853335b71e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

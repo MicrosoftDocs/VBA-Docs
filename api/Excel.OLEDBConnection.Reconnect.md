@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.Reconnect
 ms.assetid: 94f862a0-a42e-bd80-3e1c-9adc52414bfe
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

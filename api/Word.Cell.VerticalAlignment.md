@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.VerticalAlignment
 ms.assetid: fc4308f0-755e-251b-f7f2-6d86b78dc0b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

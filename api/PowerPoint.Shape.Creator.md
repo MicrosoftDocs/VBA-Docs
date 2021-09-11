@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Shape.Creator
 ms.assetid: 77d85e2f-aeba-7aba-b3d4-efe37ee487fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

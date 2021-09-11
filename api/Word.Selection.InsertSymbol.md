@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertSymbol
 ms.assetid: 13f18c60-89e7-3ba7-1c4c-928b28f5e72a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

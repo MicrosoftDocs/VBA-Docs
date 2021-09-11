@@ -8,7 +8,7 @@ api_name:
 - Access.Screen.PreviousControl
 ms.assetid: 089a62f7-2f3f-93e8-8e84-1b77d4f12e79
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

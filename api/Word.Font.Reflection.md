@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Reflection
 ms.assetid: a4dac2d4-5bfe-2d0a-922f-cbf5cc3c921d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

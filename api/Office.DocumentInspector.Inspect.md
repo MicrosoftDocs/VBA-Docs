@@ -8,7 +8,7 @@ api_name:
 - Office.DocumentInspector.Inspect
 ms.assetid: 5973fa7d-7218-74e3-b67c-c03fbaf4b930
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

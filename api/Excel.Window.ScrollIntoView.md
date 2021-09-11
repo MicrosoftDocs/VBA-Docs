@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.ScrollIntoView
 ms.assetid: 8d516288-90b2-b080-b909-fd49d10f0f5a
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

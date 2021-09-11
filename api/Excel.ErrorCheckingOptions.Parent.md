@@ -8,7 +8,7 @@ api_name:
 - Excel.ErrorCheckingOptions.Parent
 ms.assetid: 604897be-baec-313a-dbda-8b2a107ce4d6
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

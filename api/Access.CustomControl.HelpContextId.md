@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.HelpContextId
 ms.assetid: a96b1981-3366-f6e9-67c6-5276bfc590d9
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkPoints.Negative
 ms.assetid: 6231f95b-a923-c31a-ade9-3eb7519c474a
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

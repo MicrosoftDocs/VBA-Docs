@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.PictureCaptionArrangement
 ms.assetid: b33ce40a-b247-9d69-c06d-17c822c80283
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

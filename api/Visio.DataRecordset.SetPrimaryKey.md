@@ -8,7 +8,7 @@ api_name:
 - Visio.DataRecordset.SetPrimaryKey
 ms.assetid: 5ec125ff-b4a8-abcb-0d9d-140e97de6db2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Rules (Outlook)
 ms.prod: outlook
 ms.assetid: 1e1321e4-a4ee-4078-a519-8b98022dd49d
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

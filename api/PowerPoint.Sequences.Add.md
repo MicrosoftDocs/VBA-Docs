@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequences.Add
 ms.assetid: 5f1516ec-d617-ffcf-c786-318a7ba3cb1e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

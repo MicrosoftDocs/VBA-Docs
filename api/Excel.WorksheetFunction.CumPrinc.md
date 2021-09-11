@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CumPrinc
 ms.assetid: 6e561b97-97e2-11d8-0240-86fe374044ca
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

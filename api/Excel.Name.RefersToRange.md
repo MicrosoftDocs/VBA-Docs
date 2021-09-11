@@ -8,7 +8,7 @@ api_name:
 - Excel.Name.RefersToRange
 ms.assetid: 81c0e2fe-8ce6-0df9-9ffa-0931b87487e7
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

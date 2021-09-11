@@ -8,7 +8,7 @@ api_name:
 - Visio.GraphicItem.SetExpression
 ms.assetid: e0fd9a38-1fc0-3189-9def-64f2c181951d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

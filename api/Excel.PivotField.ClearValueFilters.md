@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.ClearValueFilters
 ms.assetid: 8a1e12a6-0f21-bc5d-3c63-b67f534172b6
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

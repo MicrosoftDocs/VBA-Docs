@@ -8,7 +8,7 @@ api_name:
 - Access.FormatConditions.Delete
 ms.assetid: ea322832-7a84-7fe6-4a86-a0a2ff7206b5
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

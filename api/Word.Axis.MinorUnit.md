@@ -8,7 +8,7 @@ api_name:
 - Word.Axis.MinorUnit
 ms.assetid: 9272b2da-0067-b180-a11f-1bec0dc1a416
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

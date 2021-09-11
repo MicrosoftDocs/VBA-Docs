@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.ActiveView
 ms.assetid: 1448c8c6-30e5-2e2a-f124-ebf544d8f297
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

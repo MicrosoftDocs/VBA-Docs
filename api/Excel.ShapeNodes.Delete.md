@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeNodes.Delete
 ms.assetid: 985a1bed-4c40-e169-42de-fce59eca8b79
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

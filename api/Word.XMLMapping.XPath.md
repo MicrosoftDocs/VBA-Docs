@@ -8,7 +8,7 @@ api_name:
 - Word.XMLMapping.XPath
 ms.assetid: 131234f2-ea3c-5b67-d10d-27c08aa94101
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

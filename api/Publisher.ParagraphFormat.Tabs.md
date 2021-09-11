@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.Tabs
 ms.assetid: c42ba898-b84f-7215-129d-8134670f75ac
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

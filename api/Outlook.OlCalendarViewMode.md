@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlCalendarViewMode
 ms.assetid: 5021527c-1830-0dcf-a1dd-cb2febef2aca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

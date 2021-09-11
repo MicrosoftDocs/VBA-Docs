@@ -8,7 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.Parent
 ms.assetid: 2a11e1f4-29c3-69d0-ecac-69ba9a0674df
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

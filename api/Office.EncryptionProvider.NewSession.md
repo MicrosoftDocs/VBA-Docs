@@ -8,7 +8,7 @@ api_name:
 - Office.EncryptionProvider.NewSession
 ms.assetid: b90f842a-6eb3-3e95-7175-c3ca9c3ce138
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

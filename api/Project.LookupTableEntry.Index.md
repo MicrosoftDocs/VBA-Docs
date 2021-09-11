@@ -8,7 +8,7 @@ api_name:
 - Project.LookupTableEntry.Index
 ms.assetid: 24c1ea75-522b-a010-3043-ed2ccf3547ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

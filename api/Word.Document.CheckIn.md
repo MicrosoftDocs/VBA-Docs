@@ -8,7 +8,7 @@ api_name:
 - Word.Document.CheckIn
 ms.assetid: 3c0e5a48-65e1-c7f7-c9f1-cabaabdcb3cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

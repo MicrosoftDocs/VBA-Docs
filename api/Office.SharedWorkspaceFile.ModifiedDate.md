@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceFile.ModifiedDate
 ms.assetid: c4d0f54c-db16-8a1e-a5d0-56ec9d5287fa
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 
