@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.ServerCredentialsMethod
 ms.assetid: 8c7a3e49-50a8-3211-6824-de91fd476182
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

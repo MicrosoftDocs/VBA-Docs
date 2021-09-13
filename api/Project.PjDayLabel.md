@@ -5,7 +5,7 @@ api_name:
 - Project.PjDayLabel
 ms.assetid: 13bd572e-446a-f91d-ca6d-d759a3b79383
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

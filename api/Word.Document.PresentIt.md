@@ -8,7 +8,7 @@ api_name:
 - Word.Document.PresentIt
 ms.assetid: 2565f8a5-d99d-0b40-aea6-2ad20f9ed07f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

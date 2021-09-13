@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ClearHyperlinks
 ms.assetid: 1bf0613b-4415-a9cc-88e0-5e71f0ab812b
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

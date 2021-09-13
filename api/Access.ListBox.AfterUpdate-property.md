@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.AfterUpdate
 ms.assetid: b71e1b7a-6893-505b-6de8-b877190c76d6
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ReturnVar.Value
 ms.assetid: 5602ca62-5fef-4a0d-a092-87edbe5f4749
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

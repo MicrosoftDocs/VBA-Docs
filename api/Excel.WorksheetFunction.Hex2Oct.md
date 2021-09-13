@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Hex2Oct
 ms.assetid: fd1bdc2b-a5bc-e37a-85c4-2275536e2efc
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

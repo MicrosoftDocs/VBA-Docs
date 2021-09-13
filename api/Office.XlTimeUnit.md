@@ -5,7 +5,7 @@ api_name:
 - Office.XlTimeUnit
 ms.assetid: 8db571a6-565c-c3b9-3394-ff2ec6c4989b
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

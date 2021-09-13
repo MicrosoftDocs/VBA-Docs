@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.SendUsingAccount
 ms.assetid: 81713c7b-dfb0-eb91-b017-82b427bee823
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

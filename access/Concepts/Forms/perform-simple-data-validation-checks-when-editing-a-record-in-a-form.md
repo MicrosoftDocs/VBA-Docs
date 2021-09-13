@@ -3,7 +3,7 @@ title: Perform simple data validation checks when editing a record in a form
 ms.prod: access
 ms.assetid: 7bb5bf02-30ef-960a-051e-a22592dd80f9
 ms.date: 09/25/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

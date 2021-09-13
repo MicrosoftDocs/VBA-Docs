@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CheckIn
 ms.assetid: f9750086-aaa6-3b04-6b51-ebcadf6b1911
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

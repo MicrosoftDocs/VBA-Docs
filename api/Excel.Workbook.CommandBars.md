@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CommandBars
 ms.assetid: 8d93b8cd-c4e3-b216-eda0-da4c6e573c40
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

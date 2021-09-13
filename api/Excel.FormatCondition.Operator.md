@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatCondition.Operator
 ms.assetid: 943fd9c1-30b2-d2aa-e9fe-f243af6b1292
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

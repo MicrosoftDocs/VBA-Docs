@@ -8,7 +8,7 @@ api_name:
 - Project.EventInfo
 ms.assetid: 97a51ee0-f7eb-5215-0686-1944c537e8fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

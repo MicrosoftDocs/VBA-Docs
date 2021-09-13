@@ -8,7 +8,7 @@ api_name:
 - Excel.Fill
 ms.assetid: 7a8ea56d-1b39-cc70-1fbc-7d1a488b1aba
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.TextFrame2.MarginTop
 ms.assetid: d42e148d-8a92-3331-b179-3a3af4447328
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.WebAddToFavorites
 ms.assetid: 3cf8b3e7-4dbf-8555-1662-2412e7d420b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

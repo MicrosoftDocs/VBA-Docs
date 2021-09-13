@@ -5,7 +5,7 @@ api_name:
 - Office.ServerPolicy.Application
 ms.assetid: 0d07cae1-9219-c617-f15d-01bc5ec59132
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

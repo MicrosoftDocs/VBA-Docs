@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Direction
 ms.assetid: 5bd71bea-0d29-42fc-130f-c64c1b9f06d9
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

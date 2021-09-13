@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.SelectShape
 ms.assetid: 3b3160e3-f4b4-fec2-ae1c-ed274eb69217
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

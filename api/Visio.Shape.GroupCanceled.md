@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.GroupCanceled
 ms.assetid: 89ce290b-a164-4581-b83d-64d205765aeb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

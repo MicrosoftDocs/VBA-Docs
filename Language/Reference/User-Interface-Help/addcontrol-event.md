@@ -8,7 +8,7 @@ api_name:
 - Office.AddControl
 ms.assetid: 9febc628-1d26-9ecf-7f04-7c9431a7b9c8
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

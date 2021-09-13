@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.WizardAfterChange
 ms.assetid: c4ec0950-3a58-1f29-b35f-35db9d87f330
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

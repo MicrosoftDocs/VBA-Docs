@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnMouseMove
 ms.assetid: 4bf67a8a-1c54-d67c-b93d-1cfd98e59e70
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

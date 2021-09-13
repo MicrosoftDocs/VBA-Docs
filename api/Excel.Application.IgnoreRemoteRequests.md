@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.IgnoreRemoteRequests
 ms.assetid: 94515401-eb26-a2d8-5013-33f1f38b884f
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

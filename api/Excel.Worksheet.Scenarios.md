@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Scenarios
 ms.assetid: 52e60b55-9316-4c0b-4cb7-ef4605bd31eb
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

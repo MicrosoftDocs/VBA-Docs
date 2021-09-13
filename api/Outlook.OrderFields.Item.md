@@ -8,7 +8,7 @@ api_name:
 - Outlook.OrderFields.Item
 ms.assetid: 0738f59e-8eda-18af-1aee-13d566c248db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

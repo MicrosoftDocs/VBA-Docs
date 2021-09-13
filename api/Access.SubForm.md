@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm
 ms.assetid: 60f961fa-dcf4-e1d1-8c50-9e88963f9dec
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

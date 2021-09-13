@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkContactPhoto.MouseUp
 ms.assetid: 7e542f18-9ebf-d889-8cdd-e9d413a24745
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

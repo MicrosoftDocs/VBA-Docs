@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.DialogFont
 ms.assetid: b9784c9b-99a5-7a48-01eb-dafbe6b2c4f9
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

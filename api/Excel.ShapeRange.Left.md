@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Left
 ms.assetid: 3e6dd9e4-c5c8-3f06-4af5-e245d1b10ec8
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

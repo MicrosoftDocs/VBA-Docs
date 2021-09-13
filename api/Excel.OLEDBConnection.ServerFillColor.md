@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.ServerFillColor
 ms.assetid: 18a5b515-df3b-bbf1-5fbb-e9d744370d6a
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

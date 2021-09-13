@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCategory.MouseUp
 ms.assetid: 9fdd7eba-d5fe-f239-b658-26f425632440
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideRange.TimeLine
 ms.assetid: 3d9ad2f6-6d36-dd3d-d564-9bfe97ce08d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

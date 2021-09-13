@@ -5,7 +5,7 @@ api_name:
 - Office.MsoTextTabAlign
 ms.assetid: 85c311cb-ea9e-88e6-f0f5-27c0d3766f80
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

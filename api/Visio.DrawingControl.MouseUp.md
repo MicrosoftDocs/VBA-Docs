@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.MouseUp
 ms.assetid: 34f7d931-5f4d-523e-b4d8-9096c4a634c3
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarButton.ShortcutText
 ms.assetid: e0c76e70-16db-d3ae-9767-069579c8ea91
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

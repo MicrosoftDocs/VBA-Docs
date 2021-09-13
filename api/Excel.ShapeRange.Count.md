@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Count
 ms.assetid: 5c3f307d-5607-fcb9-fdf0-4f5f9c075a09
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

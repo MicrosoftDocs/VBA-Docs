@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.Count
 ms.assetid: dd93b4d9-1816-010e-e519-bc2bf1c5e301
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.MouseDown
 ms.assetid: 4bcb1d42-9ef4-ff05-cf31-36459b75a668
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

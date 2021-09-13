@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.BlackWhiteMode
 ms.assetid: c85babbd-f05d-c3e1-3265-c08888eaf212
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

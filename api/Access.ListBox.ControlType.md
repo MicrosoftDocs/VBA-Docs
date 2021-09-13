@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ControlType
 ms.assetid: 3002d198-961a-69d4-58b5-c0b096747232
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

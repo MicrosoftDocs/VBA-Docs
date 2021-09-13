@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.PaperBin
 ms.assetid: d3e33714-0aa5-aa9e-2b66-86afca3b38ee
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

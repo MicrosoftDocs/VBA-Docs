@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayAlerts
 ms.assetid: d9f36a99-e9c9-9a67-abaf-9c8e49b4febc
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

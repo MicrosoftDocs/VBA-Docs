@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.BCWP
 ms.assetid: 8fb79ebc-760c-413c-72ef-bd709f20360e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

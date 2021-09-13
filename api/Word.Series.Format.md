@@ -8,7 +8,7 @@ api_name:
 - Word.Series.Format
 ms.assetid: dfa9ca4c-67bc-71e6-38f8-e04aff693968
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

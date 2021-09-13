@@ -8,7 +8,7 @@ api_name:
 - Project.Application.EditEnterpriseCalendar
 ms.assetid: f40f98f4-82cc-6576-c41e-a9bdd5adb9b8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

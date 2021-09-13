@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Chart
 ms.assetid: 15b69ed5-db0e-0bae-403d-263eedb7b4a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

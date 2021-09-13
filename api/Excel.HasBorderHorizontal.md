@@ -8,7 +8,7 @@ api_name:
 - Excel.HasBorderHorizontal
 ms.assetid: 9d5a86ea-73f1-a149-8fc9-ce104cdb41a3
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

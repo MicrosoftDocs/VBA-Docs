@@ -5,7 +5,7 @@ api_name:
 - Office.Crop.PictureOffsetY
 ms.assetid: cc36521e-69ac-56bf-5355-7bfa33c5ec30
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

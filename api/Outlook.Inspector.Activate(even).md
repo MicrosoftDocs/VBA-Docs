@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.Activate
 ms.assetid: 5a1021ab-9a55-b039-8c13-d75c9fdb45fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

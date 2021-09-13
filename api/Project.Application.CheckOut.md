@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CheckOut
 ms.assetid: 36e19455-a77d-46d5-c5c0-60f07feeba13
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

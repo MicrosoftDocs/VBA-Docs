@@ -8,7 +8,7 @@ api_name:
 - Word.ChartCharacters.Count
 ms.assetid: 8ee2abf3-4d80-a235-8fbc-a011842da718
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

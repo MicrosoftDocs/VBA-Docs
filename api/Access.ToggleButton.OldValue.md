@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OldValue
 ms.assetid: d23f0c45-004e-74c8-6309-a76854d79a1c
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLParts.SelectByNamespace
 ms.assetid: 39dcce9c-4354-0211-c2cf-393917bf6aef
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

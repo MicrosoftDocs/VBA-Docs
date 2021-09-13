@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AllowFilters
 ms.assetid: ca2998b5-d5e0-f1ba-f9da-d89ef24a3701
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

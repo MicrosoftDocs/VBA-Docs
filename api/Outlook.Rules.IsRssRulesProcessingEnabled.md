@@ -8,7 +8,7 @@ api_name:
 - Outlook.Rules.IsRssRulesProcessingEnabled
 ms.assetid: 7eff75e6-1e1a-0fbf-9d05-2f40e7f08145
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

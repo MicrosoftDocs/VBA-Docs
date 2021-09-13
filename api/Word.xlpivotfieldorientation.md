@@ -3,7 +3,7 @@ title: XlPivotFieldOrientation enumeration (Word)
 ms.prod: word
 ms.assetid: 22557bfb-06e0-b481-691d-79ddd2793e52
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

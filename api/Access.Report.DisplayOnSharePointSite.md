@@ -8,7 +8,7 @@ api_name:
 - Access.Report.DisplayOnSharePointSite
 ms.assetid: 4e13b1e9-3b79-d073-fb51-848fdc2dcada
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

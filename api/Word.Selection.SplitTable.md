@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.SplitTable
 ms.assetid: 5d68a031-1927-ae5c-de11-963bca9c1d2c
 ms.date: 03/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

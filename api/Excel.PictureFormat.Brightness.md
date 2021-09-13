@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat.Brightness
 ms.assetid: f17ee171-47da-c982-2f48-9ee333193add
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

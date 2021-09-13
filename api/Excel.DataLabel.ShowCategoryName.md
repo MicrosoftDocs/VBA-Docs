@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.ShowCategoryName
 ms.assetid: a8f2fdad-273a-3a45-7396-9691109c25d4
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Floor.Parent
 ms.assetid: f9bd1657-b572-fda5-34d4-50366321c478
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

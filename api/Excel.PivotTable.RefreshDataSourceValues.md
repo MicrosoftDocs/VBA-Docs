@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.RefreshDataSourceValues
 ms.assetid: 4312e319-bb90-b8d8-5add-f501553198a6
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

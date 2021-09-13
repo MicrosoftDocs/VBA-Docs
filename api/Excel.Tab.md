@@ -8,7 +8,7 @@ api_name:
 - Excel.Tab
 ms.assetid: c6555e96-b96e-54d8-b8c6-5ab13c256d97
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

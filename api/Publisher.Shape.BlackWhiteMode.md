@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.BlackWhiteMode
 ms.assetid: 0a735488-956f-bd3c-ad74-1639780e4e24
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Italic
 ms.assetid: adba2e3c-d904-d835-5a1c-c8762d319106
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

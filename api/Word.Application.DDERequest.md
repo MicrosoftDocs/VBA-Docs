@@ -8,7 +8,7 @@ api_name:
 - Word.Application.DDERequest
 ms.assetid: beed4867-0e2d-15be-82ae-1aba11f0a21a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

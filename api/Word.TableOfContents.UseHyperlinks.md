@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfContents.UseHyperlinks
 ms.assetid: 2ff74d58-6411-eb10-1ce4-86d0b8e37490
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

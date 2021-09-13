@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectTimescaleRange
 ms.assetid: 16a4bd12-7a60-c172-6a73-c3552b2baf4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

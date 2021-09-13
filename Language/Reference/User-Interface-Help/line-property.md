@@ -8,7 +8,7 @@ api_name:
 - Office.Line
 ms.assetid: 018367e8-d39b-f0a6-0100-d5e96e17442e
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

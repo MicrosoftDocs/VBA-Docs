@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.SelectAll
 ms.assetid: 9d3f5b93-2a8b-5b9a-d725-729baa190a38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

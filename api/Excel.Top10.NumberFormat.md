@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.NumberFormat
 ms.assetid: 26e7d330-384f-4601-bb51-d563f67c3ac2
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

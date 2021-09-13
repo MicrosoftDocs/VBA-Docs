@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarModule.Name
 ms.assetid: 1c1e262e-8775-5039-a9f2-1a279f4289a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

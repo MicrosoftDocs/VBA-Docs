@@ -5,7 +5,7 @@ api_name:
 - Office.SharedWorkspaceMembers.Application
 ms.assetid: dc694dd4-b3b9-0d30-729e-d7fdfcdbe2f5
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

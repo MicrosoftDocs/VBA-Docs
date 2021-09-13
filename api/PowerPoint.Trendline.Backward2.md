@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Trendline.Backward2
 ms.assetid: 76415c6a-2c7a-67b5-44a8-23eb768674e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

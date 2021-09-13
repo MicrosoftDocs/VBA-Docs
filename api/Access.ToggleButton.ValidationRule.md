@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ValidationRule
 ms.assetid: 2f7f967c-f98a-9d07-c2f7-7ce717d67e4a
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

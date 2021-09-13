@@ -8,7 +8,7 @@ api_name:
 - Word.Row.Shading
 ms.assetid: 79aee52a-8f9c-d41c-7247-2f7432f49683
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

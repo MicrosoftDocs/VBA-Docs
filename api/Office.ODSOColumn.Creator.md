@@ -5,7 +5,7 @@ api_name:
 - Office.ODSOColumn.Creator
 ms.assetid: 976cbec2-622f-610f-4188-3d0b0d368112
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.TopPadding
 ms.assetid: b6273300-0abf-8365-0c0a-23c7d225ee3f
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

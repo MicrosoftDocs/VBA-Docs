@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WarnOnFunctionNameConflict
 ms.assetid: c29a9dbc-cd1f-18cc-2d44-ec639b0e67fa
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.CalendarGuid
 ms.assetid: 1414fbad-fa79-f7ff-ce63-833fb179de6d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

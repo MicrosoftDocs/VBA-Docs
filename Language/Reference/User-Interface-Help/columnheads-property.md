@@ -8,7 +8,7 @@ api_name:
 - Office.ColumnHeads
 ms.assetid: 55cd26ad-8ef3-8e65-f655-315af620658d
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

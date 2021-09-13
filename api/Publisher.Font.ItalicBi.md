@@ -8,7 +8,7 @@ api_name:
 - Publisher.Font.ItalicBi
 ms.assetid: 604e776c-92b0-6e5b-2599-ab879c61a78a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.AutoShapeType
 ms.assetid: 3fdc36be-dd08-4fa1-8cef-a5ecf913eae0
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

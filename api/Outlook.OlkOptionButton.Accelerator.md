@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.Accelerator
 ms.assetid: f1b21d0d-b039-b37b-5f60-4d5acbeaf508
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

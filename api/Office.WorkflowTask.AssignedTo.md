@@ -8,7 +8,7 @@ api_name:
 - Office.WorkflowTask.AssignedTo
 ms.assetid: bd1e368f-09f1-95ba-b421-40912fbc085c
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

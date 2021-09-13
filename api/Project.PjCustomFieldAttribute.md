@@ -5,7 +5,7 @@ api_name:
 - Project.PjCustomFieldAttribute
 ms.assetid: a9c722e8-b268-5639-ad3d-7940fed9e9f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

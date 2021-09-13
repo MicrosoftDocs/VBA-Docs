@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnKeyDown
 ms.assetid: 4602eec0-96ae-1592-d8b8-d4a44d7e8312
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

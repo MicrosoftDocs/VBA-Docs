@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.Parent
 ms.assetid: afa92f13-222f-d48c-c739-9b21f15f1868
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

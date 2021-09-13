@@ -8,7 +8,7 @@ api_name:
 - Office.Debug
 ms.assetid: f95d394f-fbed-8d64-143d-a51368df158c
 ms.date: 11/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

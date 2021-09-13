@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnMouseMove
 ms.assetid: a78fede1-fa73-9a8d-60c7-a79709b12008
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

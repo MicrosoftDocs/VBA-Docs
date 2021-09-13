@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Tanh
 ms.assetid: a44229a8-a682-9ecf-74be-d5a6820e4fef
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

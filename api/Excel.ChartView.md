@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartView
 ms.assetid: 2e59e8c1-f1cd-1589-ae36-22d6c5dccbf6
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

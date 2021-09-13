@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.HighQualityRender
 ms.assetid: 39f59bc2-36ad-7c74-97de-85a486eb42c3
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

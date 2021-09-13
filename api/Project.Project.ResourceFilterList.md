@@ -5,7 +5,7 @@ api_name:
 - Project.Project.ResourceFilterList
 ms.assetid: d515691a-2f8c-ed61-4844-3a938c658847
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

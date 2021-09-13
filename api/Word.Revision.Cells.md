@@ -8,7 +8,7 @@ api_name:
 - Word.Revision.Cells
 ms.assetid: 6881d331-87d3-851b-98b1-1f50e315229c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

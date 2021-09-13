@@ -8,7 +8,7 @@ api_name:
 - Office.CustomTaskPane.VisibleStateChange
 ms.assetid: 6faccef7-f35f-d0c8-383f-54493e4b4c8b
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

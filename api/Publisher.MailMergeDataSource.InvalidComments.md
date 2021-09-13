@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.InvalidComments
 ms.assetid: ee08b03a-57e2-d79c-ee9f-a6f9231c8d6b
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

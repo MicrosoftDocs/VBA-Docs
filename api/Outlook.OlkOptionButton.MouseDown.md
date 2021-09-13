@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.MouseDown
 ms.assetid: a6cd60ae-c880-f6ca-8121-6873c53c481d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

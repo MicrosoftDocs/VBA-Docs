@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.OnExit
 ms.assetid: fd52a8c3-7d49-9504-9afd-f6132f138690
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

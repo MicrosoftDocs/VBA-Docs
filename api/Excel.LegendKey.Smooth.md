@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey.Smooth
 ms.assetid: 0de38d26-5f23-8a7b-54ca-7af20f51d45c
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

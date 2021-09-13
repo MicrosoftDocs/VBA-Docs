@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Paragraphs
 ms.assetid: 895c32cf-cdbe-74b0-ab47-6ae63d1bdea0
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

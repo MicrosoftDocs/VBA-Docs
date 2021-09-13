@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkPoints.Application
 ms.assetid: 4aca021f-94cc-e59d-4dfb-223fda675209
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.Exit
 ms.assetid: 3e78fb94-69d0-0192-d5e9-f14d8bbf8c4e
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

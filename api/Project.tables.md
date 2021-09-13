@@ -3,7 +3,7 @@ title: Tables object (Project)
 ms.prod: project-server
 ms.assetid: 0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.BorderShade
 ms.assetid: 52816058-36f4-3b68-38dd-5a1324b87428
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

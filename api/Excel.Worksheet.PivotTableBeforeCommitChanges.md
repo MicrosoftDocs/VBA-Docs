@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.PivotTableBeforeCommitChanges
 ms.assetid: 4dfcfd60-9249-4eed-1bb3-183b5c567125
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

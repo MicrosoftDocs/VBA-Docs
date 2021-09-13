@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnApplyFilter
 ms.assetid: 5e147a50-5516-f6d3-c1c9-e2c4522cb804
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

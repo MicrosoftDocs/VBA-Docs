@@ -8,7 +8,7 @@ api_name:
 - Word.Email.Application
 ms.assetid: 6c33e338-9a94-a39c-33f8-81ec7f868478
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

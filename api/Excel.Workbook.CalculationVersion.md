@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CalculationVersion
 ms.assetid: 09633164-998f-9fa7-f257-da109c369cd7
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

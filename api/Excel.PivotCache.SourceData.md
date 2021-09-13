@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.SourceData
 ms.assetid: 5a172543-3a06-9db0-7edc-0cf2aa7af114
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

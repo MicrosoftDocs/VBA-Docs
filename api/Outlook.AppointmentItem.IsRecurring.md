@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.IsRecurring
 ms.assetid: 93e243cc-fec9-2474-6828-5077bfd744e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

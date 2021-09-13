@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.Comment
 ms.assetid: 675b47c5-37da-c3c5-b473-d7df14463c09
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

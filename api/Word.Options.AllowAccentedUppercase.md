@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AllowAccentedUppercase
 ms.assetid: 69eecdb3-bec1-d0ac-785e-ba1113bc3e0e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

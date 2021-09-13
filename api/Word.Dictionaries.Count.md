@@ -8,7 +8,7 @@ api_name:
 - Word.Dictionaries.Count
 ms.assetid: 529865dc-b222-fa07-7b77-b8016cd20800
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

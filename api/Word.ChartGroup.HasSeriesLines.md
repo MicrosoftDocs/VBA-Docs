@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.HasSeriesLines
 ms.assetid: 56e85d95-4743-4afd-5bdf-d00065608708
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

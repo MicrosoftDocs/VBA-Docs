@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.DefaultTextStyle
 ms.assetid: cae34239-14af-92c3-a498-8ac7f51e1fa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

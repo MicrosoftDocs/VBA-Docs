@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Covariance_P
 ms.assetid: a1cc46fe-e725-3d29-d3d3-1c6a56a67abf
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Shape.Adjustments property (Project)
 ms.prod: project-server
 ms.assetid: e82838f6-fc59-b3ae-1e0a-f2acf9e9ea28
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

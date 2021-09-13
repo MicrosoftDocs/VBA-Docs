@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.BottomRightCell
 ms.assetid: 351b78a1-7e46-dba4-ae5e-cbd32f9785eb
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

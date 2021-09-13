@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.LabelAlign
 ms.assetid: 4714927a-9ce9-b1b0-dbeb-302aaa48a6c8
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.Model3DFormat.Parent
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

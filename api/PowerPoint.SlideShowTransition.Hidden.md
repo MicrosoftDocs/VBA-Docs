@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowTransition.Hidden
 ms.assetid: 38e9add2-d05a-f0c3-6d8e-58e548d9789d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

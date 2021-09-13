@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.VerticalScale
 ms.assetid: ff83d1bc-798b-5b42-7087-9b45f3ff573d
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

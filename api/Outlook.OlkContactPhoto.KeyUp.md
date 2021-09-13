@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkContactPhoto.KeyUp
 ms.assetid: ee99874f-e44a-4d76-73d1-66a994444005
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

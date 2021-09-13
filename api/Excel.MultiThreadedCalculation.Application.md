@@ -8,7 +8,7 @@ api_name:
 - Excel.MultiThreadedCalculation.Application
 ms.assetid: bd2ad5ed-98a1-f579-31be-9f551aa09de1
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.GotFocus
 ms.assetid: 50ebdaad-3e2c-9eff-47f0-43a402b17938
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.Move
 ms.assetid: 663c308f-3682-cbe9-ba31-f13fcf97fc85
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

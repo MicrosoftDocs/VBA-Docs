@@ -5,7 +5,7 @@ api_name:
 - Outlook.PostItem.Send
 ms.assetid: d0ff5a1c-6f15-c780-e98c-749e8e8dca77
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

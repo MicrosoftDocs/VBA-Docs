@@ -8,7 +8,7 @@ api_name:
 - Excel.BarShape
 ms.assetid: 2da9b9aa-84db-6ade-845e-abcb142acc3b
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

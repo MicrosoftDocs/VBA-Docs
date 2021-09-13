@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.UsedObjects
 ms.assetid: bf214478-990b-35c8-1e23-a9d1732e7ef3
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

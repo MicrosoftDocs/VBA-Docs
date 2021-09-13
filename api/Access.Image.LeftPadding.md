@@ -8,7 +8,7 @@ api_name:
 - Access.Image.LeftPadding
 ms.assetid: 2a409876-3c11-515a-37f5-ac676d693550
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

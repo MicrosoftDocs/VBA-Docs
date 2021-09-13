@@ -8,7 +8,7 @@ api_name:
 - Excel.Tab.TintAndShade
 ms.assetid: be8ee335-fcf0-2091-89c1-973f54aba2c4
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

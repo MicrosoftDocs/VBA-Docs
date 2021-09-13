@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.SendUsingAccount
 ms.assetid: d4e49128-a63a-d761-90b9-9e1a3305adc7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

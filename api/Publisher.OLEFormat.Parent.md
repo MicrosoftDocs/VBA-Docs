@@ -8,7 +8,7 @@ api_name:
 - Publisher.OLEFormat.Parent
 ms.assetid: 2ac5f8d6-336a-e8ce-cfa0-460955ed62e1
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.Change
 ms.assetid: e57d4b0b-0f9e-28e7-c1e0-6a1582f1cb0f
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

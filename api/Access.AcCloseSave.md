@@ -8,7 +8,7 @@ api_name:
 - Access.AcCloseSave
 ms.assetid: 52cb93d5-8430-7f16-533e-37e981de3829
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

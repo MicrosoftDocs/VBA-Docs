@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.SetBackgroundPicture
 ms.assetid: 5cff4730-24ba-6147-76c9-e1f9eb970989
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

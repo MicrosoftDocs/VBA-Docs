@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.NodeValue
 ms.assetid: 055e2b09-7ffa-e7c2-1b6c-83176dbe79db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

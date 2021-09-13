@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 6ed0992f-912f-10ca-27de-4e3c9d6a2f71
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 # Multiple fields in criteria expressions
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.Parent
 ms.assetid: ba791dce-8acb-bc66-44fa-813ca091cbea
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

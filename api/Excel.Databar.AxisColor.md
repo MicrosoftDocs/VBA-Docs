@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.AxisColor
 ms.assetid: 0c7dd109-001e-b5b7-69c8-c7a1e665e6ac
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

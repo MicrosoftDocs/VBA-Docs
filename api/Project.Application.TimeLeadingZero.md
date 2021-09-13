@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TimeLeadingZero
 ms.assetid: 292f06a7-2c3c-f7d7-1577-2b3d06a4731d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

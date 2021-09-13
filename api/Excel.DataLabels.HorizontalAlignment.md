@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabels.HorizontalAlignment
 ms.assetid: ed316f52-ccbb-2bc0-c3ee-dfddb76354b4
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.PressedTint
 ms.assetid: 1826cb99-d49c-465c-6c80-bca5a31f0f06
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

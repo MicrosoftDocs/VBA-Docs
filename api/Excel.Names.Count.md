@@ -8,7 +8,7 @@ api_name:
 - Excel.Names.Count
 ms.assetid: f33046db-1912-5047-a205-e87d01427dfa
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

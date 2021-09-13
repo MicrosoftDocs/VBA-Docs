@@ -3,7 +3,7 @@ title: Shape.Select method (Project)
 ms.prod: project-server
 ms.assetid: b96be944-9388-cecc-2c3f-ec25e9f96aec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.GlueSettings
 ms.assetid: 192fb40f-d244-48e9-59ad-4439385bf3e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

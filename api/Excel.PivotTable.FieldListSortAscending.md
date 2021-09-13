@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.FieldListSortAscending
 ms.assetid: d6c8a2b5-9653-1f89-06a8-ec738fe3e526
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

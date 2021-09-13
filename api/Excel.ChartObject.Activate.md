@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObject.Activate
 ms.assetid: 21997b8b-e446-249b-b33e-ee3b7f9aa564
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

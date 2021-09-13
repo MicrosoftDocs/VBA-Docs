@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceTask.Save
 ms.assetid: ebddddd5-f42d-5790-7bca-693554982edc
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

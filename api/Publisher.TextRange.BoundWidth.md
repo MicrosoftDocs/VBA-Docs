@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.BoundWidth
 ms.assetid: bab5053f-958b-9264-9a1e-6f81b5a860b7
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

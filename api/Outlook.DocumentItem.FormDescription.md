@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.FormDescription
 ms.assetid: d86f50bf-3c9e-c81f-93b5-f6c888f7ee38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

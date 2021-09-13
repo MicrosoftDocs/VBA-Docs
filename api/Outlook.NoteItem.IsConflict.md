@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.IsConflict
 ms.assetid: 5fc4880f-8e96-9993-9b93-341f7a57e420
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

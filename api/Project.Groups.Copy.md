@@ -5,7 +5,7 @@ api_name:
 - Project.Groups.Copy
 ms.assetid: fa53fb17-be05-ab03-c08b-a2c9034b7da6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

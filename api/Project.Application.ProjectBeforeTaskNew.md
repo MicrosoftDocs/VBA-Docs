@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeTaskNew
 ms.assetid: 77418f84-1d82-b227-75f8-c688b7bddf82
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

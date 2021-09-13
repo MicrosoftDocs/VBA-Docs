@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Text8
 ms.assetid: a247a79a-4bef-4bd1-5fa3-f3f36e367948
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

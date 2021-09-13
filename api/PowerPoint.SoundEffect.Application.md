@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SoundEffect.Application
 ms.assetid: a9e55b45-8238-be7b-a24b-9bfd7da99630
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

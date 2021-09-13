@@ -5,7 +5,7 @@ api_name:
 - Office.PickerResult.Application
 ms.assetid: 6c5cfb43-8c2c-47c5-38a7-60688420c862
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.TimeSaved
 ms.assetid: 801c7940-b838-15ae-cee8-e07ca5ae78ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

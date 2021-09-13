@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabel.ShowCategoryName
 ms.assetid: 7eeb3ab4-d0e3-3682-0ea4-a75fae60b800
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

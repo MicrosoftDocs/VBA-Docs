@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlActionResponseStyle
 ms.assetid: 9981a41c-57e4-b981-e245-075811a10cdc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

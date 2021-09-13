@@ -8,7 +8,7 @@ api_name:
 - Project.Application.LayoutRelatedNow
 ms.assetid: a76cca88-86ad-3fb8-82c6-5ce64a074d54
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeResourceChange2
 ms.assetid: 84128c94-0d0d-f8f2-6d5a-4c05a61a0a8d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

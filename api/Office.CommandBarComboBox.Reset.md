@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Reset
 ms.assetid: 28609b13-8036-a956-095a-1a6a748f00ad
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

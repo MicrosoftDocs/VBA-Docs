@@ -8,7 +8,7 @@ api_name:
 - Access.Report.ScaleMode
 ms.assetid: e3955e48-80bb-989e-2992-cd5a541b468b
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

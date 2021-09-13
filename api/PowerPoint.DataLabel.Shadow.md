@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabel.Shadow
 ms.assetid: cb3eb19f-a70a-000d-4853-9fea12a5d1ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

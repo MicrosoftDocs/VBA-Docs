@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.SendUsingAccount
 ms.assetid: 711382c3-1003-cf0e-2f29-fc3f9d4320a8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

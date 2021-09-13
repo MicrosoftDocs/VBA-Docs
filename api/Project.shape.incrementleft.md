@@ -3,7 +3,7 @@ title: Shape.IncrementLeft method (Project)
 ms.prod: project-server
 ms.assetid: dea230eb-19d9-18e3-b0ec-5b0ec8bbbd20
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

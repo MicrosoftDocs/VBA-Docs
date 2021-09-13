@@ -8,7 +8,7 @@ api_name:
 - Publisher.CatalogMergeShapes.VerticalRepeat
 ms.assetid: 2a4852d6-14ee-7fa9-ea5e-170033c3a56d
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

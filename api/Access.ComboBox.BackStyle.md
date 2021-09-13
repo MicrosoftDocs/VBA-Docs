@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.BackStyle
 ms.assetid: 1def822f-6b4a-8384-9d81-72b30e680908
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

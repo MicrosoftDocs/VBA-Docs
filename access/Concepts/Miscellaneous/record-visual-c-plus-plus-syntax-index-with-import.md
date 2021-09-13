@@ -3,7 +3,7 @@ title: Record (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 87c6d242-4977-2e81-c829-227e6dd326e5
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

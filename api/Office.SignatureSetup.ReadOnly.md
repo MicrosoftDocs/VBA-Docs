@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSetup.ReadOnly
 ms.assetid: 240ee346-2272-a600-d6ef-c573a138265f
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

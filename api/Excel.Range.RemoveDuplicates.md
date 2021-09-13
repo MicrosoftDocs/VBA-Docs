@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.RemoveDuplicates
 ms.assetid: 0e74bde2-08b3-898d-0b30-53de911bd7e9
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

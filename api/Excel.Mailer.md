@@ -8,7 +8,7 @@ api_name:
 - Excel.Mailer
 ms.assetid: bd6b8c82-3d2e-e029-58b3-525049b1e03c
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

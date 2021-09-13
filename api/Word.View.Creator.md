@@ -8,7 +8,7 @@ api_name:
 - Word.View.Creator
 ms.assetid: 7a78b765-a791-f05b-80bf-4d4230b94613
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

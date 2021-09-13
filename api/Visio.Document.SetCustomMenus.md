@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.SetCustomMenus
 ms.assetid: 05d373a4-3aec-a427-57aa-94fc3ac10161
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

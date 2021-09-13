@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.CreateVideoStatus
 ms.assetid: 0d4d99a9-321e-a9b7-0c58-369b66d855c3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

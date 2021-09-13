@@ -8,7 +8,7 @@ api_name:
 - Access.Line.SpecialEffect
 ms.assetid: 42d493be-128b-fe5e-6d96-d963ee3870cf
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Text
 ms.assetid: 22e073e3-06be-4888-cac3-7daad2a9cb33
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

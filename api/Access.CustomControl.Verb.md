@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.Verb
 ms.assetid: dffd74b7-2a69-9b18-dde2-d0fd02754f15
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

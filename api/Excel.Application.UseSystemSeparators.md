@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.UseSystemSeparators
 ms.assetid: eefa7bd0-9633-2f8a-cc80-61b1649fbace
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

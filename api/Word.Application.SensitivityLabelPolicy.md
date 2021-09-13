@@ -5,7 +5,7 @@ api_name:
 - Word.Application.SensitivityLabelPolicy
 ms.assetid: 63049957-3b5a-4a29-9b5b-922d0bbe0cbc
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Application.SensitivityLabelPolicy property (Word)
 ---
 

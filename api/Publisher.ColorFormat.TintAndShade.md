@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorFormat.TintAndShade
 ms.assetid: 1c4897e0-ac55-08a8-8c43-dbd25d097ecc
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

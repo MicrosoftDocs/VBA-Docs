@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.Creator
 ms.assetid: 123fa6b0-2800-7419-8058-3f46bd78b1a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

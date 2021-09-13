@@ -8,7 +8,7 @@ api_name:
 - Access.GroupLevel.SortOrder
 ms.assetid: 2c58785c-4ddb-a581-b438-5f6390f544dd
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

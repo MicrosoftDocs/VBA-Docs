@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.ShapeParentChanged
 ms.assetid: 0397a034-6b79-c760-9bbf-759f62109cef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

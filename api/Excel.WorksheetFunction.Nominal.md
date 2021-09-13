@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Nominal
 ms.assetid: 4ba61f10-233b-400b-76e1-90147fd7f503
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

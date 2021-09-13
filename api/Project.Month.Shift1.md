@@ -5,7 +5,7 @@ api_name:
 - Project.Month.Shift1
 ms.assetid: 7f5678f8-e252-4a0c-8623-d44920ce9fec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

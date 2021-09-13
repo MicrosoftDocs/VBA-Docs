@@ -3,7 +3,7 @@ title: Timeline.FinishDate property (Project)
 ms.assetid: d0f51644-63ba-9e7f-2da3-92995ec73551
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

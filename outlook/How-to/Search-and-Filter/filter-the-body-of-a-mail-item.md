@@ -3,7 +3,7 @@ title: Filter the Body of a Mail Item
 ms.prod: outlook
 ms.assetid: 15d8fec5-4b3d-340b-2394-479abf29847c
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

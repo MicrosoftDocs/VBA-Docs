@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.WebConsecutiveDelimitersAsOne
 ms.assetid: cc10dd93-2574-7575-3326-1d2992f4c731
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

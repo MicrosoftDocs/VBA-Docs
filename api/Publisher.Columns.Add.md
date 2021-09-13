@@ -8,7 +8,7 @@ api_name:
 - Publisher.Columns.Add
 ms.assetid: b3dfb892-6bda-d2c4-11f7-9bd29bf257aa
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

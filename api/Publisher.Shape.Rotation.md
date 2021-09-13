@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Rotation
 ms.assetid: 3cb55e8c-83fa-2f20-caac-a1e897e9a369
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.AttachmentRemove
 ms.assetid: 71e36429-33f6-9590-bcc2-4b12e96f97ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TickLabels.ReadingOrder
 ms.assetid: 44c36468-e72b-3042-e2d1-8b3a7323d97d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlSchema
 ms.assetid: 61a9b9be-fe04-fe6a-51c7-14b6c7232dca
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

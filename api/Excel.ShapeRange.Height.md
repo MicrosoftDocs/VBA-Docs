@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Height
 ms.assetid: e31a804a-4702-5892-fa5f-fbd87544968e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: TextBox.BorderColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 2ea6bcf2-ca1e-04cb-9ac8-4dd836a2b63e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

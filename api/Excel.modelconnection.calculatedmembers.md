@@ -3,7 +3,7 @@ title: ModelConnection.CalculatedMembers property (Excel)
 ms.assetid: 2969824d-b7a2-fb88-1066-cf5d36d8e9bb
 ms.date: 05/01/2019
 ms.prod: excel
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

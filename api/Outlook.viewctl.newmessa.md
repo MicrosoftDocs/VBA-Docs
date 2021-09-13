@@ -3,7 +3,7 @@ title: ViewCtl.NewMessage Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 2aaf9f35-ad03-54cc-0b08-07678b212728
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

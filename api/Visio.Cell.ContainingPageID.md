@@ -8,7 +8,7 @@ api_name:
 - Visio.Cell.ContainingPageID
 ms.assetid: 0d4c97cc-d84e-c13e-759b-8805114d191e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

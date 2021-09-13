@@ -8,7 +8,7 @@ api_name:
 - Word.Dialog.Application
 ms.assetid: 55ebf9c6-1ad0-d9c4-9c75-98cdb07e1ceb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

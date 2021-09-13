@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.SelectObject
 ms.assetid: def1bac5-57b1-0b2c-d39a-f0c10962880c
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

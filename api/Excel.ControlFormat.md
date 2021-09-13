@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat
 ms.assetid: fafc6e6b-641c-2179-0789-d86c2718b3c0
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

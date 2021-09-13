@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.Visible
 ms.assetid: 9aa5f926-af48-5685-da7f-ea960c4cdbb3
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

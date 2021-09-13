@@ -8,7 +8,7 @@ api_name:
 - Word.Document.OMathRightMargin
 ms.assetid: 2deedb5c-e1c6-d424-3a85-c95462f43b3a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

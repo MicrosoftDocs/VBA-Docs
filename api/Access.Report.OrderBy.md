@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OrderBy
 ms.assetid: 1939157c-12ad-2e58-bf4c-22c04a6c4366
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

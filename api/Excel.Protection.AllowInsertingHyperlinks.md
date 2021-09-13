@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowInsertingHyperlinks
 ms.assetid: ef334ce3-a8d3-d9db-e48b-739f150cfb98
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -4,7 +4,7 @@ description: Overview Project object model
 ms.prod: project-server
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07
 ms.date: 05/13/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

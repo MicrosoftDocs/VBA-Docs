@@ -8,7 +8,7 @@ api_name:
 - Project.Application.FilePageSetupFooter
 ms.assetid: 0ca38a3a-4004-d32b-5a8a-0a4fdb79b68b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

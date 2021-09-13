@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestUpdateItem.OutlookVersion
 ms.assetid: 19c6119b-1309-1ef5-d15c-76e2ad9004a8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

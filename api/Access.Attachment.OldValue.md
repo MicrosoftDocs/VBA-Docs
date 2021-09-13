@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OldValue
 ms.assetid: f3c20114-fc68-98ab-03de-0e023aacaaf1
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

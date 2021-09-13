@@ -8,7 +8,7 @@ api_name:
 - Outlook.Attachment.PropertyAccessor
 ms.assetid: 4b703cdb-f052-4386-e843-932c3cd18923
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

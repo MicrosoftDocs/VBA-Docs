@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.LayoutForm
 ms.assetid: a9077651-214f-6926-89fc-c29a1ff35682
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

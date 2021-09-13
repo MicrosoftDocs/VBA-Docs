@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.HeadersFooters.Footer
 ms.assetid: a684ae25-7174-50e5-095e-0073873628e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.Caption
 ms.assetid: 4c376ac9-cc84-684b-2476-137d87dc84a2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

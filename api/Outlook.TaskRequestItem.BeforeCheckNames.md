@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestItem.BeforeCheckNames
 ms.assetid: 6093de6d-a706-3798-8f7e-a9395ef9f776
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

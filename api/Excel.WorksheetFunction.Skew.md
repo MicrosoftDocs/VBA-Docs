@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Skew
 ms.assetid: cf10325a-0cb3-4779-d792-af365a830af9
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

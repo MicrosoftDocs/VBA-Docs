@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCaches
 ms.assetid: cfd979b9-d52f-f34b-4b66-4fb17efcdc92
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

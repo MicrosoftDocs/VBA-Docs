@@ -8,7 +8,7 @@ api_name:
 - Word.DropCap.Clear
 ms.assetid: 8d5148ff-04ad-bb4b-7d7e-76cbc01246a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

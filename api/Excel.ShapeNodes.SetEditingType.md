@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeNodes.SetEditingType
 ms.assetid: 5bf464d6-b9d3-f62b-a625-0d153d7f265e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

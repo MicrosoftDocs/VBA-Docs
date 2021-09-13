@@ -3,7 +3,7 @@ title: Shapes.Range method (Project)
 ms.prod: project-server
 ms.assetid: 984326ae-f567-18b8-562a-fcb2160b0dad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

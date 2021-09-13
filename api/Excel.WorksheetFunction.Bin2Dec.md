@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Bin2Dec
 ms.assetid: 05a212f7-8330-002f-8bbc-f54550d1276e
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

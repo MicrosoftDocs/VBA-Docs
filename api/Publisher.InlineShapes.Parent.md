@@ -8,7 +8,7 @@ api_name:
 - Publisher.InlineShapes.Parent
 ms.assetid: e60b1f80-60f0-930d-2a81-90b2187d31ef
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

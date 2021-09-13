@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImSqrt
 ms.assetid: 095ecba9-c987-8b58-f07e-d0f79436d650
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

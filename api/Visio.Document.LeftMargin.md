@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.LeftMargin
 ms.assetid: 9f880830-8b63-2a34-2a02-fd6b6a225c7a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

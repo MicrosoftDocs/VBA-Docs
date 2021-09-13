@@ -8,7 +8,7 @@ api_name:
 - Word.ListTemplate.Convert
 ms.assetid: 5b25c80e-a39c-3bcb-5c5f-bb9001e1ca86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

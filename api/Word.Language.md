@@ -8,7 +8,7 @@ api_name:
 - Word.Language
 ms.assetid: 0acc4a42-b4c2-a415-0e38-a049b085dc86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

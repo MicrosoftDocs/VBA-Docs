@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.InsertBarcodeVisible
 ms.assetid: 27b7f2aa-e7d7-5024-6c4a-75f2f275e924
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

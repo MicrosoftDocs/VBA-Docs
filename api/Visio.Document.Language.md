@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Language
 ms.assetid: 76f995fd-8b4d-7292-50c1-8dcb6448c2ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

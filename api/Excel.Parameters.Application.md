@@ -8,7 +8,7 @@ api_name:
 - Excel.Parameters.Application
 ms.assetid: 25cafe3a-43a9-9b47-21f9-2fab3efc13b3
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

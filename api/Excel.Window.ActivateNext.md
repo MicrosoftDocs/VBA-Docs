@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.ActivateNext
 ms.assetid: eeef1ef2-b1c5-6618-1f66-827bc64e2033
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

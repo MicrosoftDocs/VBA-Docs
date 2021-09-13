@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlViewType
 ms.assetid: f2fec9d0-55c2-0991-0e1b-4dd653fdf09d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

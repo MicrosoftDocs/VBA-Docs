@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PlotArea.InsideWidth
 ms.assetid: 99136fb4-4ee9-55e8-3c3b-bf03b95188d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

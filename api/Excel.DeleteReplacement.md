@@ -8,7 +8,7 @@ api_name:
 - Excel.DeleteReplacement
 ms.assetid: d82693f6-5275-2473-55e8-2b3cc156d702
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

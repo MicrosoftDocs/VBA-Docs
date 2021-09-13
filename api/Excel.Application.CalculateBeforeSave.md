@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CalculateBeforeSave
 ms.assetid: 133dbe08-8f41-c07c-8362-48412ed7c086
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

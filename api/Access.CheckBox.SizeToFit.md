@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.SizeToFit
 ms.assetid: 79309619-c2f7-d43a-5f92-ef2c4d1af208
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Axes
 ms.assetid: 040bf3e2-f60f-935b-9803-6f9bf146bee7
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

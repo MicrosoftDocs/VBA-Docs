@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.Sort
 ms.assetid: 7cb248a2-6885-8be5-df7b-fd5683081e01
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

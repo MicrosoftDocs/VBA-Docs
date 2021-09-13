@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Close
 ms.assetid: c0376cab-a2db-c606-67bf-0a4921b81e03
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

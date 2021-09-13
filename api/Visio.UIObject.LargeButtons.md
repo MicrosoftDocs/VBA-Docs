@@ -8,7 +8,7 @@ api_name:
 - Visio.UIObject.LargeButtons
 ms.assetid: 05f6f1e3-ae64-5a8a-cdc6-1efeb02a619f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

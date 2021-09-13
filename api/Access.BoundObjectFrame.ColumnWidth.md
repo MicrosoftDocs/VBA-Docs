@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.ColumnWidth
 ms.assetid: 3e7601ce-5aff-9f9e-feae-7ab6b9e35869
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

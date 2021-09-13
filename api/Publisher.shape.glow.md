@@ -3,7 +3,7 @@ title: Shape.Glow property (Publisher)
 ms.prod: publisher
 ms.assetid: f138e966-4b01-8cd2-36e7-d9d10b33062f
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

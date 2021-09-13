@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlAppointmentCopyOptions
 ms.assetid: b2ea721d-f800-6102-c893-28f265e70b88
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

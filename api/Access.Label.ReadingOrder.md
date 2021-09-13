@@ -8,7 +8,7 @@ api_name:
 - Access.Label.ReadingOrder
 ms.assetid: f6d9642b-b482-8300-e66a-5f320547fdfa
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

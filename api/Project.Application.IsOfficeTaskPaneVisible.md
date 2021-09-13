@@ -5,7 +5,7 @@ api_name:
 - Project.Application.IsOfficeTaskPaneVisible
 ms.assetid: 822ad2fd-de35-8340-7b24-56e59fb874b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

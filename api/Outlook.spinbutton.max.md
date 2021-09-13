@@ -3,7 +3,7 @@ title: SpinButton.Max Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: f8f77453-cc53-68c2-6574-bb2c665e1b76
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

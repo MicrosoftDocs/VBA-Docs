@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.BorderTint
 ms.assetid: 83bb493b-c15e-dcdf-7118-4bdb12f5e264
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

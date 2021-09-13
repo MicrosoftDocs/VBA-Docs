@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.IncrementLeft
 ms.assetid: a2b9a5e8-ba8c-612d-817f-c05d3df800b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

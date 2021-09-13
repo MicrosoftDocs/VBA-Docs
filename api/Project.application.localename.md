@@ -3,7 +3,7 @@ title: Application.LocaleName method (Project)
 ms.assetid: 989d8c73-3452-2abe-fbaa-f68d532e353e
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Word.WdContentControlDateStorageFormat
 ms.assetid: ae56d9f2-fbf3-f7f7-b601-5df23f434c7a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

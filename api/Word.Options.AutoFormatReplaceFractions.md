@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatReplaceFractions
 ms.assetid: e6ee4446-6ec0-766d-cb73-1fdbdb755118
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

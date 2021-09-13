@@ -8,7 +8,7 @@ api_name:
 - Access.Image.Requery
 ms.assetid: 98f16a2d-ad18-c576-11e0-43d43fcf8859
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

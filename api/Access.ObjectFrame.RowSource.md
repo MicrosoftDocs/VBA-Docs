@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.RowSource
 ms.assetid: de2aa92d-34e8-20e7-ece7-5e1dcb8cd877
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

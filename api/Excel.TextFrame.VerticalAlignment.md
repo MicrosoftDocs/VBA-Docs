@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame.VerticalAlignment
 ms.assetid: 72cb4110-ec7a-876e-b347-de1c2a83c0e2
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

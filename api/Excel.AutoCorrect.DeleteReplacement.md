@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoCorrect.DeleteReplacement
 ms.assetid: 765e207d-64b3-c85d-ae10-937eaf836e0a
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.PageRotated
 ms.assetid: 3880c99f-0fa3-080d-8ee3-94c061bb8ac8
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

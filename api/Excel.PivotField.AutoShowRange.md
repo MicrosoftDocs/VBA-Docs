@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.AutoShowRange
 ms.assetid: b554867d-a78a-f26a-24b0-405f2d8a7c54
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

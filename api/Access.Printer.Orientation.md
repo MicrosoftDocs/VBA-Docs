@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.Orientation
 ms.assetid: 274c875b-dcea-1534-3215-132001bbf53f
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

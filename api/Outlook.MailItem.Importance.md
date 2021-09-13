@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.Importance
 ms.assetid: 77de74c9-e910-e021-1015-6e65f3ead3df
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

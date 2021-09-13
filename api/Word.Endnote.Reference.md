@@ -8,7 +8,7 @@ api_name:
 - Word.Endnote.Reference
 ms.assetid: 7e7bb259-8203-445c-fa84-80f1c05505d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

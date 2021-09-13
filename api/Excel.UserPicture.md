@@ -8,7 +8,7 @@ api_name:
 - Excel.UserPicture
 ms.assetid: ad8e3079-c063-2bb6-e462-11a0e8ecfba6
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

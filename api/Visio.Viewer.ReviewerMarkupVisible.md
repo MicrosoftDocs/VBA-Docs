@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ReviewerMarkupVisible
 ms.assetid: 3c365da2-1eac-0462-607b-be9923f62942
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

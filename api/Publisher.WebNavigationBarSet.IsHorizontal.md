@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.IsHorizontal
 ms.assetid: d3bbb0b0-8d06-7d46-1ef7-fef0a3e846b7
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

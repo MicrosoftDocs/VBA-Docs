@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertFile
 ms.assetid: 9f35bacd-1cf3-42a4-c8ab-8c1cf183d2ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

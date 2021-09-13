@@ -5,7 +5,7 @@ api_name:
 - Word.WdOrganizerObject
 ms.assetid: 9dc50d8c-fdb4-4645-9e6c-ce89e8287d4a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

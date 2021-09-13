@@ -8,7 +8,7 @@ api_name:
 - Word.Frame.Delete
 ms.assetid: 0077be5a-21b3-e564-7b62-770227c9e31c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

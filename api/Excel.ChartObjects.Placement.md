@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObjects.Placement
 ms.assetid: 954e98e5-8b88-6918-3cbd-f8e982c0a47e
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

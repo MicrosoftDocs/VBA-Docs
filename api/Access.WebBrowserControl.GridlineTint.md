@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.GridlineTint
 ms.assetid: b5d2c928-bfa7-6510-a5c8-3ce0ce380375
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

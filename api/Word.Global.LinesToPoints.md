@@ -8,7 +8,7 @@ api_name:
 - Word.Global.LinesToPoints
 ms.assetid: 3acbbbef-0aec-d6aa-138f-cdd1e79e7dc6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

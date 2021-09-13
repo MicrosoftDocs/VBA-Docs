@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.PercentMin
 ms.assetid: bd8670f9-ae0b-3a1c-5b14-84cc00638b6e
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Poisson_Dist
 ms.assetid: 338193e2-6b52-417a-97b9-d6ba12a1275e
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

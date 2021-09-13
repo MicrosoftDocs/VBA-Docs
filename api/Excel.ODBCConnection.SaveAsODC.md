@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCConnection.SaveAsODC
 ms.assetid: a499de7c-ee4a-22d2-ff35-33489fcf4fe1
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

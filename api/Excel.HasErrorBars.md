@@ -8,7 +8,7 @@ api_name:
 - Excel.HasErrorBars
 ms.assetid: f16a2ffe-b481-ec32-1144-8c1e5718243f
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

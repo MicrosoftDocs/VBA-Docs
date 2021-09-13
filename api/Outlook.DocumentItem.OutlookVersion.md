@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.OutlookVersion
 ms.assetid: 5efb78c2-0049-a525-32d8-f8c516f2e97c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

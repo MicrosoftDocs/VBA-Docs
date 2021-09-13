@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.MatchAlefHamza
 ms.assetid: a8bdfbc3-13b5-e6a1-d86c-95e8f58ec263
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

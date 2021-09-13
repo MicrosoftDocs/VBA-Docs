@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Vertices
 ms.assetid: 16cee6dd-9403-70e7-14dc-e75860d6406d
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

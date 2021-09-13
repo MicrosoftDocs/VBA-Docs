@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.DisplayComments
 ms.assetid: b241151a-82b5-7188-a8b8-a4a04fc37165
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

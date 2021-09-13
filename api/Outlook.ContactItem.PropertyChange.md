@@ -5,7 +5,7 @@ api_name:
 - Outlook.ContactItem.PropertyChange
 ms.assetid: 4138deee-2915-f581-b003-16007e37f128
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

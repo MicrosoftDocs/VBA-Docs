@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeColorScheme
 ms.assetid: aa4e888e-cdcd-4682-13e3-fcae1a9e4d46
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

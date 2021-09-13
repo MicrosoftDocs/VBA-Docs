@@ -8,7 +8,7 @@ api_name:
 - Word.Dialog.Update
 ms.assetid: 7adf7403-77eb-85da-8a5a-092d1c8c548f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.IConverterPreferences.HrCheckFormat
 ms.assetid: fe68ef42-c50b-e27b-2080-3f80d0204ec3
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

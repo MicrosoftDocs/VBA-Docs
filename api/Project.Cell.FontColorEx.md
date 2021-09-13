@@ -8,7 +8,7 @@ api_name:
 - Project.Cell.FontColorEx
 ms.assetid: 3b9761b3-f1e8-9547-7f2f-8065f6646edc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

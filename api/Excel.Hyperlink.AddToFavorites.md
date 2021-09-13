@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.AddToFavorites
 ms.assetid: ac234164-9c20-451d-1146-199e44d07a87
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

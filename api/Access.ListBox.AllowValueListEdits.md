@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.AllowValueListEdits
 ms.assetid: cab2ec6f-affb-5111-af5e-6f3638189dff
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

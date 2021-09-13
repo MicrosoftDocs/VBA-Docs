@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Hyperlink.EmailSubject
 ms.assetid: 2416a620-9788-5da9-3095-432cab5cdc95
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarSharing.RestrictToWorkingHours
 ms.assetid: 2d655c66-fd3e-0b82-41b2-798d408f6531
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

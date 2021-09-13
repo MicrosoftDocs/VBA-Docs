@@ -8,7 +8,7 @@ api_name:
 - Word.System.CountryRegion
 ms.assetid: 51db26e6-9f24-5934-24a4-0ed87bb51f69
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

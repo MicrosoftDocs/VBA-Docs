@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotOnX
 ms.assetid: 66102cce-e4af-4b0c-d168-ea63f3bc0f30
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

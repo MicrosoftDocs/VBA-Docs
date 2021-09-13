@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Series.Has3DEffect
 ms.assetid: ce72d83a-d89e-1953-980e-3caea6b4d4c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

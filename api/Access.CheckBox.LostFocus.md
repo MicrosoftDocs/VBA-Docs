@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.LostFocus
 ms.assetid: b93f5eb0-4afc-28af-cd03-cbbd23500f39
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ColumnGrand
 ms.assetid: aa012e55-c944-22f1-13da-7ad76ae72c5b
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

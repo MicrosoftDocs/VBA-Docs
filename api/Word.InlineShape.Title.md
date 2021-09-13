@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShape.Title
 ms.assetid: 85a28df8-f579-79b9-60b9-30624a64dae7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

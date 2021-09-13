@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.FirstChild
 ms.assetid: ce0d09ac-383c-b9b4-3065-c26410b442d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

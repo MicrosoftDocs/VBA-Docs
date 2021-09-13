@@ -8,7 +8,7 @@ api_name:
 - Excel.AllowEditRange.ChangePassword
 ms.assetid: 1cc52121-f626-eaaa-9ea0-879634e34af7
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

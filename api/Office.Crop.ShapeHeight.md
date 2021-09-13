@@ -5,7 +5,7 @@ api_name:
 - Office.Crop.ShapeHeight
 ms.assetid: ccc352b8-2c1e-3116-6f50-a709760189fe
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

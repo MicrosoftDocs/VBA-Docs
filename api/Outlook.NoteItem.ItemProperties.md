@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.ItemProperties
 ms.assetid: a1e80257-4960-b650-23f6-8369e9e8684c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

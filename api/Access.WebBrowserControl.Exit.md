@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Exit
 ms.assetid: a4a6a5bf-1cc4-a311-d4cb-51a132a99892
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

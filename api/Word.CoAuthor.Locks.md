@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthor.Locks
 ms.assetid: 9f502e4e-2414-0232-78d0-5ce64d4297f0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

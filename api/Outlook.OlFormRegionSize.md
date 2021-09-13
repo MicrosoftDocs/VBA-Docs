@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlFormRegionSize
 ms.assetid: a52c7e73-b6f1-ddb0-2307-55107912bc44
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

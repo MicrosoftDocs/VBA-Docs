@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarButton.Left
 ms.assetid: 0a3a83ce-bbb5-1884-4125-0d9f1bf20d27
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.IconView.Language
 ms.assetid: 7b35d1ce-991f-00c6-c225-a5fcf3b7f888
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

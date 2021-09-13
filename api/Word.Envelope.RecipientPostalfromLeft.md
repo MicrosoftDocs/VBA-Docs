@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.RecipientPostalfromLeft
 ms.assetid: cf0e6156-4495-1808-f1cd-f2e068714d8e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

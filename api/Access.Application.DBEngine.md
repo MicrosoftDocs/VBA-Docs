@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DBEngine
 ms.assetid: ad4638e4-0c72-ce24-e322-e147e2f0cfc2
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

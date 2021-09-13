@@ -8,7 +8,7 @@ api_name:
 - Access.Section.KeepTogether
 ms.assetid: dbe3780b-2150-4b4c-d8bf-5685ab48181e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

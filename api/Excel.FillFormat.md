@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat
 ms.assetid: b602e09e-97ab-bfbe-1796-bc44ebb7dc28
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

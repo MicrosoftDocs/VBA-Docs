@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder.ShowAsOutlookAB
 ms.assetid: bb74591b-a3ea-efbd-e7b2-f374f1974be8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

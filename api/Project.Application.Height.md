@@ -5,7 +5,7 @@ api_name:
 - Project.Application.Height
 ms.assetid: e980a85d-218c-b82d-1043-9670cab23560
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

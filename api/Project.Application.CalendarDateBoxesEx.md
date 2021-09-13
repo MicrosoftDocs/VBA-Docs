@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CalendarDateBoxesEx
 ms.assetid: a6c1fffd-ce21-d3ef-348f-1f41b5231005
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

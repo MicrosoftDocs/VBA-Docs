@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.RandBetween
 ms.assetid: 0b55c6d6-bfb4-a1e3-d37e-afb3ab90dc70
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

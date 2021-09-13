@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.AutoRepeat
 ms.assetid: 028a5bdd-1e37-0499-202f-c9e3fdb83838
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

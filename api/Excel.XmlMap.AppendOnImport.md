@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlMap.AppendOnImport
 ms.assetid: b00eeaeb-1750-e5a9-85b5-7323ea766ead
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

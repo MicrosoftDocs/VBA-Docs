@@ -8,7 +8,7 @@ api_name:
 - Access.Form.ActiveControl
 ms.assetid: 0bb3cac4-fc88-cdd3-6bc4-1057b02d4eb5
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ToggleChangeHighlighting
 ms.assetid: 1b18eb3a-b614-a135-6a82-328cf33c5db8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

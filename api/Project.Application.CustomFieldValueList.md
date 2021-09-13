@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CustomFieldValueList
 ms.assetid: 7365511c-6746-869b-f8e7-d4b87c5b8e70
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Word.WdApplyQuickStyleSets
 ms.assetid: e70214c2-729c-2298-60ba-faf323bb5f2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

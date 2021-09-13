@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GanttBarSize
 ms.assetid: 691ee987-a62b-bf5f-0088-0f153aa64966
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

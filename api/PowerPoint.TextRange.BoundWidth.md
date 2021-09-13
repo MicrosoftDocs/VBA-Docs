@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.BoundWidth
 ms.assetid: 409d1c66-8956-cdd0-2328-f1cbe584f778
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

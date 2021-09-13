@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.HasHiLoLines
 ms.assetid: ea743b83-8a3c-7ce1-6659-9a25ebb8eeae
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

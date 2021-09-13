@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.Caption
 ms.assetid: d67910da-d357-39c1-83f0-471eda2ee0fc
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

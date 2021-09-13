@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Section
 ms.assetid: 297d3e45-8072-e31b-5462-badf2027ebe5
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

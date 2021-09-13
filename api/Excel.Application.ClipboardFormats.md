@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ClipboardFormats
 ms.assetid: 9b0de0b9-6acf-a73c-6d29-a405d0784170
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

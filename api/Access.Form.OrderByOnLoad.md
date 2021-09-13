@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OrderByOnLoad
 ms.assetid: 8acb931e-d0fc-4a17-cd89-1f802af4e4d1
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

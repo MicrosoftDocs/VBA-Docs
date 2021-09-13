@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.LegendEntry.Parent
 ms.assetid: 568a968e-9184-1956-ffef-0b50a2cf58f4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

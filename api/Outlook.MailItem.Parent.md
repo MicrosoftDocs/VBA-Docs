@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.Parent
 ms.assetid: 3aa4d8fe-f6eb-6d09-3475-3d77ca76a9ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

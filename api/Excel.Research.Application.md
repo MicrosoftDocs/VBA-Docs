@@ -8,7 +8,7 @@ api_name:
 - Excel.Research.Application
 ms.assetid: b54052f2-4fa5-b9c1-2408-5a43af0cb8fe
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

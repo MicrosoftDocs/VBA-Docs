@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.BaseLineAlignment
 ms.assetid: 27639ce6-4ef1-4252-873d-270ae19daba8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

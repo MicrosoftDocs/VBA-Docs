@@ -8,7 +8,7 @@ api_name:
 - Word.HTMLDivision.Parent
 ms.assetid: 45bbe9b8-e392-001b-b24c-932e44f56730
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

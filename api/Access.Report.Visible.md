@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Visible
 ms.assetid: b860f01b-3a3e-14ab-686b-402fef0027f9
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.RTFBody
 ms.assetid: 4bf67ee1-f0bc-92b8-948f-2de7807a1dd3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

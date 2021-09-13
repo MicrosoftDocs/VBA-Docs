@@ -3,7 +3,7 @@ title: PolicyItem members (Office)
 ms.prod: office
 ms.assetid: a2e43e08-64bb-f052-78a2-0618e2df46fc
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

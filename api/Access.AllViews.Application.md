@@ -8,7 +8,7 @@ api_name:
 - Access.AllViews.Application
 ms.assetid: c128d327-c0b8-f2a9-5981-1e1161de58c8
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

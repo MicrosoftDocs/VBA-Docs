@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.OddFYield
 ms.assetid: 286f2634-ae11-5443-d8a7-1e52a71b52bf
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

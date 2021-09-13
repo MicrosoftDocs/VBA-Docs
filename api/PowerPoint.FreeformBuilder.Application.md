@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.FreeformBuilder.Application
 ms.assetid: 837adf41-9d67-8bfc-9169-5654a65e477e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

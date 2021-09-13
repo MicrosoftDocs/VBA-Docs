@@ -8,7 +8,7 @@ api_name:
 - Office.GetExtensionName
 ms.assetid: 0fa9da71-7938-c50c-6fed-8a23d6a680d1
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

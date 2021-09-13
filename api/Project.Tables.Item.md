@@ -5,7 +5,7 @@ api_name:
 - Project.Tables.Item
 ms.assetid: d8900400-a6f0-546f-f03f-273c9ee175eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

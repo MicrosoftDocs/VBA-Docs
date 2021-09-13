@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ManualUpdate
 ms.assetid: 7686a4d0-720c-949a-d6a1-ba2fdea82340
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

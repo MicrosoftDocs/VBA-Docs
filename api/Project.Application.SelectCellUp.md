@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectCellUp
 ms.assetid: d2e2aecc-0a05-7dd5-23da-a47ffe161028
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Delete a Page in the Control Toolbox
 ms.prod: outlook
 ms.assetid: 7826b95a-417a-ca3b-6257-958e673b40cc
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

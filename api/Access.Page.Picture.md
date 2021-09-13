@@ -8,7 +8,7 @@ api_name:
 - Access.Page.Picture
 ms.assetid: 22487a28-6773-7223-ffcc-59e885790c69
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

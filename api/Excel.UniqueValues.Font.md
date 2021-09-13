@@ -8,7 +8,7 @@ api_name:
 - Excel.UniqueValues.Font
 ms.assetid: fd766edd-c0c5-7a69-4b68-e44a0e631671
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

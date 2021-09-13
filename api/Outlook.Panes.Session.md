@@ -8,7 +8,7 @@ api_name:
 - Outlook.Panes.Session
 ms.assetid: 3f0eeae2-e02e-d7f1-70de-6c9d869756d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Section.MouseDown
 ms.assetid: e262213a-cf22-bb6f-b3b0-bcbdba33e61d
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

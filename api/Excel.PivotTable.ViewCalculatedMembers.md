@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ViewCalculatedMembers
 ms.assetid: 2d1f752a-0bab-baa6-a9b0-e158cc9a4f09
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

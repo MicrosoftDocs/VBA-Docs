@@ -3,7 +3,7 @@ title: Detect the limits of a DAO Recordset
 ms.prod: access
 ms.assetid: f4be9ea8-25af-1c5c-4cd7-43d57e5d4d8b
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

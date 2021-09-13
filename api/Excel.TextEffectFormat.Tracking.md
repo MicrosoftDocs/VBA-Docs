@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.Tracking
 ms.assetid: b5190203-66c4-238b-e5b4-b61a9c70d99c
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

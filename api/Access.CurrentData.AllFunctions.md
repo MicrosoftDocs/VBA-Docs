@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentData.AllFunctions
 ms.assetid: 823d8ae8-b8b0-5bef-afe5-eeda12300738
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

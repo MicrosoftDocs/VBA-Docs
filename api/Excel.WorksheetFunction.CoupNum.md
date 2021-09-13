@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CoupNum
 ms.assetid: 6859fd93-9616-6330-e77b-0135d9d90c1d
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

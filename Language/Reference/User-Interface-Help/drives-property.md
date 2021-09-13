@@ -8,7 +8,7 @@ api_name:
 - Office.Drives
 ms.assetid: 23534228-121c-23df-6ea6-c4715f86e312
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

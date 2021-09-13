@@ -8,7 +8,7 @@ api_name:
 - Word.EmailSignature.Creator
 ms.assetid: 8a068616-b3ed-caf9-8fc7-0ee42a8b2015
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

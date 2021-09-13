@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteFormatFromExternalSource
 ms.assetid: 821e4983-1208-3d47-6378-f6b6d908c02f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

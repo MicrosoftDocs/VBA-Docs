@@ -5,7 +5,7 @@ api_name:
 - Excel.XlErrorBarDirection
 ms.assetid: 843da2a6-04e7-4029-db90-52eaeda93cfa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

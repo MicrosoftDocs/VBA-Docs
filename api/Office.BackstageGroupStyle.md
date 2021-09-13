@@ -5,7 +5,7 @@ api_name:
 - Office.BackstageGroupStyle
 ms.assetid: fe65008a-2579-0858-7912-29e8e3023937
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.InvertIfNegative
 ms.assetid: 5fdbfcb8-3d22-6ea2-6354-87f2107d31cb
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

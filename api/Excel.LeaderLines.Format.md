@@ -8,7 +8,7 @@ api_name:
 - Excel.LeaderLines.Format
 ms.assetid: 1e28cb7a-9256-7854-564a-5b15fbfd6596
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

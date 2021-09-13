@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ProtectSharing
 ms.assetid: 26660bc6-136a-ffc8-987e-c96db9c08231
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

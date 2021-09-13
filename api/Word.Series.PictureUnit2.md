@@ -8,7 +8,7 @@ api_name:
 - Word.Series.PictureUnit2
 ms.assetid: 461c860f-ad4d-394a-508c-a53ef6b00bdb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

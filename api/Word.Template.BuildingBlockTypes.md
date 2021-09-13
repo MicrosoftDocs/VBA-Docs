@@ -8,7 +8,7 @@ api_name:
 - Word.Template.BuildingBlockTypes
 ms.assetid: 9250d107-4943-c0bf-b11d-08aded886ef2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

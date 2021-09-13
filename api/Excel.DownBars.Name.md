@@ -8,7 +8,7 @@ api_name:
 - Excel.DownBars.Name
 ms.assetid: 006d214f-4477-006c-4b4e-761e2bbf1a21
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.WindowLeft
 ms.assetid: f9e90b5e-6008-675d-9168-6dd932559b6d
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

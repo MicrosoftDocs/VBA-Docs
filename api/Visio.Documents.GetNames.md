@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.GetNames
 ms.assetid: 3924a293-c07b-89fa-06d9-35e0e5395c9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

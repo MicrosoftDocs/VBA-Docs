@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.GridlineShade
 ms.assetid: 24b5e8fa-7416-b312-7d2f-75c3b60e4617
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

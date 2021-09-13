@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Parent
 ms.assetid: d43d43e8-8b92-bf87-fc4e-160166f26b10
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

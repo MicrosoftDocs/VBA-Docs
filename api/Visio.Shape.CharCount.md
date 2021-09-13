@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.CharCount
 ms.assetid: 2da9c359-d86c-bdf6-3553-01ded11d9208
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.WSParameter
 ms.assetid: 6d9f49f1-0185-a6fb-b46e-671edaa95cde
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationVertical
 ms.assetid: d2f1469b-fc64-9a1c-98ab-88158a0094a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

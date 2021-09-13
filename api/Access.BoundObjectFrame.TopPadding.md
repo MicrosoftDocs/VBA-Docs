@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.TopPadding
 ms.assetid: cb80b5d1-a9a5-00a7-f439-3f6e7be6439b
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

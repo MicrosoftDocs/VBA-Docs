@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.ShowValue
 ms.assetid: 83d4ead9-3539-d420-d4bd-2b474e174e10
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

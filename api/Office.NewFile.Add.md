@@ -8,7 +8,7 @@ api_name:
 - Office.NewFile.Add
 ms.assetid: 094e4093-fc2d-beaa-4a63-b3ad88557907
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

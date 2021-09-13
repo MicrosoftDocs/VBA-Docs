@@ -5,7 +5,7 @@ api_name:
 - Project.Application.JobCompleted
 ms.assetid: 44f7987c-92e0-a302-a775-7e62dab2ef86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

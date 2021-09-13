@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.DefaultLineStyle
 ms.assetid: 6a1d7752-25c9-638e-9e10-02928849a8db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

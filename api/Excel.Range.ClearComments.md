@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ClearComments
 ms.assetid: 736fd51f-a7cd-02cf-eb45-47e3f3132800
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

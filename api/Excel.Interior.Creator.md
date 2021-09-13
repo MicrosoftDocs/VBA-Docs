@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.Creator
 ms.assetid: e1cc823c-b673-7598-cb6f-d7aa66b66798
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

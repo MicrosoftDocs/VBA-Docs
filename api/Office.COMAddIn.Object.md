@@ -8,7 +8,7 @@ api_name:
 - Office.COMAddIn.Object
 ms.assetid: 20dd8eca-6f8e-7445-ec0c-a29b29409c58
 ms.date: 01/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

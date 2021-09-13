@@ -8,7 +8,7 @@ api_name:
 - Word.Pane.AutoScroll
 ms.assetid: c0f35128-c98e-2a9e-0ce4-3386c9db89ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

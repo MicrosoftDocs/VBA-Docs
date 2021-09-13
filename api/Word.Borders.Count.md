@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.Count
 ms.assetid: 83a26cef-75ec-d762-de63-14ad6cce08a6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

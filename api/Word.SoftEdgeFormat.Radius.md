@@ -8,7 +8,7 @@ api_name:
 - Word.SoftEdgeFormat.Radius
 ms.assetid: 087f9d1f-959c-014a-c1a5-19713ec02434
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

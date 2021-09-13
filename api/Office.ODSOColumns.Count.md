@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOColumns.Count
 ms.assetid: f0551681-2550-44a7-497b-2d270623040b
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

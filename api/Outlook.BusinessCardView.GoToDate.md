@@ -8,7 +8,7 @@ api_name:
 - Outlook.BusinessCardView.GoToDate
 ms.assetid: 110b8ba2-c441-cfcc-77bc-f55715a9f2ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

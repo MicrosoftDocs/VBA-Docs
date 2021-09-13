@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ShowTableStyleRowHeaders
 ms.assetid: 223de9b9-f98e-4151-758f-0ec886bb9636
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

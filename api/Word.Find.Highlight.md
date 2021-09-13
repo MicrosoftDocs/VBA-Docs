@@ -8,7 +8,7 @@ api_name:
 - Word.Find.Highlight
 ms.assetid: 75873be2-035e-ae93-1f5d-28e86d383a8c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

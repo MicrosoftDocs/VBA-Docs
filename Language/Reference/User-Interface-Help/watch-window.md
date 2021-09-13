@@ -3,7 +3,7 @@ title: Watch window
 ms.prod: office
 ms.assetid: 618fc1d3-dcab-6240-ff9c-048830212663
 ms.date: 11/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Point.PieSliceLocation
 ms.assetid: 9af5f72b-3626-9f49-09e5-6fdde51f238e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

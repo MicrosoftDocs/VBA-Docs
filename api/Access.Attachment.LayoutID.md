@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.LayoutID
 ms.assetid: e66ced6f-59de-b7ec-6b15-28825f154992
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

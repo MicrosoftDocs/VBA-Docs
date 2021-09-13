@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ConnectorFormat.EndConnectionSite
 ms.assetid: fa65a404-573a-939b-6e2c-d54e4de5c1f0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

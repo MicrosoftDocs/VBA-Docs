@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 1638b7f6-23e5-2fc1-e81b-5b8f54023967
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

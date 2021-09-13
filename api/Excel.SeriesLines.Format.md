@@ -8,7 +8,7 @@ api_name:
 - Excel.SeriesLines.Format
 ms.assetid: 2451c441-91b9-fbcf-3ada-3a9484205c2b
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

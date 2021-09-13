@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Fill
 ms.assetid: b8e8322f-8d31-db8b-2dbc-3e1bc84a0826
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

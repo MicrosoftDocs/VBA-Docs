@@ -8,7 +8,7 @@ api_name:
 - Access.Form.RecordsetClone
 ms.assetid: d73ef798-477d-9c36-6e29-82b22352c60b
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

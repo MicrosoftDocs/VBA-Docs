@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.AlternativeText
 ms.assetid: 8485fffc-b1db-d93f-8945-2f871211fc5d
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

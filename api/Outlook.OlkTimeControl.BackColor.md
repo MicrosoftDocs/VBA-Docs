@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.BackColor
 ms.assetid: ca962737-f5d3-c99f-1a9a-2ff68c0582bb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

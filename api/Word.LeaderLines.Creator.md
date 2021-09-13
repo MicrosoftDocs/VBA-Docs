@@ -8,7 +8,7 @@ api_name:
 - Word.LeaderLines.Creator
 ms.assetid: 2e23e29b-6008-d534-9160-10ec27c21b98
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

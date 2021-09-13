@@ -8,7 +8,7 @@ api_name:
 - Outlook.ConversationHeader.Session
 ms.assetid: 1262a068-ad5f-492d-2a96-edc365956fe6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.DefaultFaceUp
 ms.assetid: ce745551-4385-420d-1790-464bf03da3d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

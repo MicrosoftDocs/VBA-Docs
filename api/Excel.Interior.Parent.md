@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.Parent
 ms.assetid: 16fe3a67-2fce-1ed9-abf3-665f4e9ee9d4
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

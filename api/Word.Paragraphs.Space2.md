@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.Space2
 ms.assetid: dfd70842-8a1b-8266-7c37-1b8d61c046ae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

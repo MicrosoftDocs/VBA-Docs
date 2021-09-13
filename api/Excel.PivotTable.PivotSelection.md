@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PivotSelection
 ms.assetid: efc3898f-aba8-3ffb-1421-da4c4864b712
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

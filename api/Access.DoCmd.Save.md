@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.Save
 ms.assetid: 7e01f370-36c9-9f4d-b506-61bc8886ee18
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

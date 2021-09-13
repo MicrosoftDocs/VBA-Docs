@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.End
 ms.assetid: 99e3bd79-a8f1-8057-1ac2-b9e76eab99ff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

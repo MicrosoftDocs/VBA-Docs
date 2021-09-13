@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabels.Shadow
 ms.assetid: f18c0d34-758d-add3-8133-4b5d74496885
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

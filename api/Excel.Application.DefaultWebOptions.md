@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DefaultWebOptions
 ms.assetid: 51524888-0812-85ee-c8f9-e14d9b558f57
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Font.Strikethrough
 ms.assetid: fc505f12-66ae-a941-c6cf-90f81bc44dea
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.KeyUp
 ms.assetid: 1c7a4958-424b-3188-a46d-cc3204b4a2e0
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

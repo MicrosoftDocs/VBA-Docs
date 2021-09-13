@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.BeginCustomUndoAction
 ms.assetid: 316f443e-6782-594b-b955-f5ab60140f6a
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

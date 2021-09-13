@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ActiveCell
 ms.assetid: 7ebfbec8-dc4e-36c5-188a-347d42649e76
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

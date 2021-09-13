@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalModule.Visible
 ms.assetid: de3466db-3f96-b6bd-ba58-3e052e686d91
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.MathZones
 ms.assetid: 277aa819-d717-e2f5-5bc7-607abfce20a4
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

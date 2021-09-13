@@ -5,7 +5,7 @@ api_name:
 - Word.TableOfContents
 ms.assetid: 629a03c1-ae97-649d-7ec4-25210b4b9ecd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

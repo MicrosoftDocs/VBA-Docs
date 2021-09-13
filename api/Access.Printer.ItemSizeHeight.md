@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.ItemSizeHeight
 ms.assetid: 84689cd3-e835-c61f-0334-15c2323553be
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

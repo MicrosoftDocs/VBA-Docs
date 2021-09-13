@@ -8,7 +8,7 @@ api_name:
 - Word.TextRetrievalMode
 ms.assetid: b76ad3a6-efc2-4abb-abb4-b8128577bbf2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

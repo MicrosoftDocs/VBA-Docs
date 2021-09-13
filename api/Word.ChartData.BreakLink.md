@@ -8,7 +8,7 @@ api_name:
 - Word.ChartData.BreakLink
 ms.assetid: 19b483c2-8fca-38f5-c769-f7052c3bfee1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

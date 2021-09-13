@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetView.DisplayHeadings
 ms.assetid: 2572f6bf-c309-aadb-7c66-26016087ed96
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

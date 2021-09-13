@@ -8,7 +8,7 @@ api_name:
 - Word.HangulHanjaConversionDictionaries.Creator
 ms.assetid: 6a281d80-c137-9f30-bf64-ea82b0752203
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Start
 ms.assetid: 40604058-7c3e-b4c7-c793-bbf09091b4c1
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

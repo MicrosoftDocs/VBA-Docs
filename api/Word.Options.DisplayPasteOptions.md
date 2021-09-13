@@ -8,7 +8,7 @@ api_name:
 - Word.Options.DisplayPasteOptions
 ms.assetid: 518789bd-4a9e-a3c7-0fab-16e44f63e68d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

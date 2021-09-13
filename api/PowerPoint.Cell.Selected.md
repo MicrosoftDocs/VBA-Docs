@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Cell.Selected
 ms.assetid: 3773ff08-043d-2b57-25ea-ba44cc30c77a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.EditCut
 ms.assetid: 63b43184-4dcf-d863-87a9-af93c54d4001
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ChartCharacters.Delete
 ms.assetid: a7e91ab2-7aeb-7a53-62b9-f5745cd02e38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

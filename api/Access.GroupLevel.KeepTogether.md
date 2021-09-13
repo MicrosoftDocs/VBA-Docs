@@ -8,7 +8,7 @@ api_name:
 - Access.GroupLevel.KeepTogether
 ms.assetid: 65bc99df-7b0f-ec66-5add-0943ef0cd1f3
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

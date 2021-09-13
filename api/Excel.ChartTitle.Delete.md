@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Delete
 ms.assetid: f5ad76d9-2cec-d834-283f-c1f5ab17db1b
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

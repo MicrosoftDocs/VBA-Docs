@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartCharacters.Insert
 ms.assetid: 28495f16-3216-be64-853f-34f697a72c51
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

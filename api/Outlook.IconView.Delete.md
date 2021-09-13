@@ -8,7 +8,7 @@ api_name:
 - Outlook.IconView.Delete
 ms.assetid: fa5ea9eb-3eb9-6617-d4e4-76b06e6dfa96
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

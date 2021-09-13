@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShape.Width
 ms.assetid: c5f8c0fd-913e-2bba-e1c5-4fbe82ca0461
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

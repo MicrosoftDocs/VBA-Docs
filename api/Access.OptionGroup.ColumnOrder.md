@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.ColumnOrder
 ms.assetid: b1222140-b035-db57-db74-40b0db56aecd
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.SaveAsPicture
 ms.assetid: 0be9b741-8f11-a386-313b-231a3269883a
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

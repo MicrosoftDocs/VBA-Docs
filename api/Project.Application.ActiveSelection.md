@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ActiveSelection
 ms.assetid: aa72b337-4031-a970-0921-d1d60f66096e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.Width
 ms.assetid: da0c1b22-1373-63da-5a02-7f4fe7d1aef2
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

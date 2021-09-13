@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.DialogFont
 ms.assetid: 8742b97f-7f66-38c7-fafd-a343c1160671
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

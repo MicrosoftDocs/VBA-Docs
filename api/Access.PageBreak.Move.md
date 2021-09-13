@@ -8,7 +8,7 @@ api_name:
 - Access.PageBreak.Move
 ms.assetid: cfd45d6e-4470-b159-ba9b-47c4b76c879b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

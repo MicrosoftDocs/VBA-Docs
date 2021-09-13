@@ -8,7 +8,7 @@ api_name:
 - Access.Section.OnRetreat
 ms.assetid: 0da552f0-72bc-3886-2708-a8c4180f4903
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

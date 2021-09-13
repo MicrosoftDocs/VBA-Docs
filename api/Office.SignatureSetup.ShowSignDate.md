@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSetup.ShowSignDate
 ms.assetid: 2dea2e14-befa-d89e-8f6d-93d57c68261a
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

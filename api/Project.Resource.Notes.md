@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Notes
 ms.assetid: 63916a17-8ac0-e921-a29f-4d315c6cbc79
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

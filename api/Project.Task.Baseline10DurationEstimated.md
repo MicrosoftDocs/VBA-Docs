@@ -8,7 +8,7 @@ api_name:
 - Project.Task.Baseline10DurationEstimated
 ms.assetid: 8482cd80-093f-1280-96bc-cd6f0d8af6cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

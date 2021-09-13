@@ -8,7 +8,7 @@ api_name:
 - Visio.MSGWrap.Message
 ms.assetid: ae780612-a017-93b8-1c39-abe8097dfbf2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Module.ReplaceLine
 ms.assetid: 9e267b4a-5c15-a1bc-e2e0-a528871c9268
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

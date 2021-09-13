@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationGroups.NavigationFolderAdd
 ms.assetid: b290941c-794d-0c95-ed63-ea8db3be553e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.PickerProperties.Count
 ms.assetid: 32ce0084-58d8-790b-6f43-071504f1d834
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Shape.SetShapesDefaultProperties method (Project)
 ms.prod: project-server
 ms.assetid: 13888451-ad56-8900-ce09-4aae1bbd8edf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

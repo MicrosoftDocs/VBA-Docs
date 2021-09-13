@@ -8,7 +8,7 @@ api_name:
 - Access.Report.RecordSourceQualifier
 ms.assetid: 8ebf77b6-69c8-e386-2bd5-687e46a872fb
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

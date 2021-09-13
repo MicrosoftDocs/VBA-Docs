@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Union
 ms.assetid: 1ab7ce2a-98af-c455-7558-6f4f9226eeb9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

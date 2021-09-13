@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.ReadingModeGrowFont
 ms.assetid: 5a23b50e-073f-1cbd-e1df-6ee846cb1ecf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

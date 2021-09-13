@@ -8,7 +8,7 @@ api_name:
 - Access.Label.Name
 ms.assetid: 5d452246-b13f-af03-b733-c0f4cb207c89
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

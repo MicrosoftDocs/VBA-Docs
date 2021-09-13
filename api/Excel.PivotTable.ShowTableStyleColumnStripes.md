@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ShowTableStyleColumnStripes
 ms.assetid: f7b40346-0332-2efa-6c7b-e364defae3b8
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

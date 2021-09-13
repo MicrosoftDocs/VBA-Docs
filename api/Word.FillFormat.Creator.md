@@ -8,7 +8,7 @@ api_name:
 - Word.FillFormat.Creator
 ms.assetid: 1bb9d3ad-ab28-f109-f449-624c61be3746
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

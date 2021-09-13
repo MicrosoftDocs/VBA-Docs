@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.RevisionNumber
 ms.assetid: 7ea9fde5-eb89-a9b0-b637-980f1533d8ec
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.Reply
 ms.assetid: de74bf54-a365-4d41-bfe9-abb3def52ece
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

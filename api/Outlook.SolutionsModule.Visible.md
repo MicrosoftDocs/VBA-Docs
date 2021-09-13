@@ -8,7 +8,7 @@ api_name:
 - Outlook.SolutionsModule.Visible
 ms.assetid: 4f4d15e5-fb5a-e586-5695-3f0aeea216b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

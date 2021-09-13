@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Series.Type
 ms.assetid: 87dcb817-fd6d-d249-cd8d-50cbfe051cf0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

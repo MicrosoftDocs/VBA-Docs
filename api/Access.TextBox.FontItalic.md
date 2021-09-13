@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.FontItalic
 ms.assetid: f982c1ce-ad47-a05e-6b12-1eb51dbc0eb7
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

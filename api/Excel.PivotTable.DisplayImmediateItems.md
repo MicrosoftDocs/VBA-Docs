@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayImmediateItems
 ms.assetid: 796529b1-1f19-4e86-b172-1b2e4173b045
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

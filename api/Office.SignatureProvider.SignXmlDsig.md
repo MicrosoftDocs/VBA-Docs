@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureProvider.SignXmlDsig
 ms.assetid: d278f48f-4128-b8b1-f32d-d81ccbbf6771
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

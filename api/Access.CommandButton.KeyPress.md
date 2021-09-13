@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.KeyPress
 ms.assetid: afdc1037-c0fd-d5f2-3ccd-bc67c98aa482
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

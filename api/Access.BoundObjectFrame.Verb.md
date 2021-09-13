@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.Verb
 ms.assetid: edbca2b1-fe7a-f0d0-1baf-fedbccb6dfb7
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

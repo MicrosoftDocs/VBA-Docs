@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.BeforeRightClick
 ms.assetid: d01f6911-2f6b-3118-27a2-dfafa48791ab
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

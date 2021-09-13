@@ -8,7 +8,7 @@ api_name:
 - Project.Task.Baseline7FinishText
 ms.assetid: c6e180bc-12de-2fae-cb12-86c5ee25549d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

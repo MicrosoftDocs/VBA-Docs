@@ -8,7 +8,7 @@ api_name:
 - Excel.Pie3DGroup
 ms.assetid: 85e3866d-a38e-9749-c732-1e2d95a76c21
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

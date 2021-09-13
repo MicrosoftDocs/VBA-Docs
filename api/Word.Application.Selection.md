@@ -8,7 +8,7 @@ api_name:
 - Word.Application.Selection
 ms.assetid: d2362378-06a1-3a1a-2bd0-358f190eb6f3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

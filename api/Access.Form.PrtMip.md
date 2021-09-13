@@ -8,7 +8,7 @@ api_name:
 - Access.Form.PrtMip
 ms.assetid: 0b87f955-638c-5cd2-95b1-5aec870350ff
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnMouseMove
 ms.assetid: c0d5b1f8-edbc-d319-6edd-e48768b61f40
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

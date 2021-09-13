@@ -8,7 +8,7 @@ api_name:
 - Visio.MouseEvent.DragState
 ms.assetid: 958fa39f-5ca4-3911-72f5-2bea3c1ded48
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

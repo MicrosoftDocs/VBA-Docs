@@ -8,7 +8,7 @@ api_name:
 - Publisher.LayoutGuides.MarginLeft
 ms.assetid: 02d1a544-3e41-3875-3027-61bdc465e89b
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Fields object (Word)
 ms.prod: word
 ms.assetid: c79065bb-ba29-22fd-a9d7-90bb10550035
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

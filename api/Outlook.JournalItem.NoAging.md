@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.NoAging
 ms.assetid: 7ff32f89-ec5d-de26-e813-82ff33af8689
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

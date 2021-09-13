@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BorderShade
 ms.assetid: 5a8baed2-9f1d-e835-013b-b3973e79e228
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

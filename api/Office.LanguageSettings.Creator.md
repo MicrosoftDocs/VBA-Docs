@@ -5,7 +5,7 @@ api_name:
 - Office.LanguageSettings.Creator
 ms.assetid: 6c7f0a01-af17-c246-5b52-4c70d45568e7
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

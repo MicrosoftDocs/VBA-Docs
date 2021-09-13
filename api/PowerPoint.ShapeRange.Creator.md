@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ShapeRange.Creator
 ms.assetid: 6c273206-ecd1-d420-bf40-877ca678876c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

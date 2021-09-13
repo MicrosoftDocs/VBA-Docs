@@ -8,7 +8,7 @@ api_name:
 - Excel.UserAccessList
 ms.assetid: 8b753ffc-e4d5-0824-e465-a3bdb9ed9202
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

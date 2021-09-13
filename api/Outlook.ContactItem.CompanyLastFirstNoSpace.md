@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.CompanyLastFirstNoSpace
 ms.assetid: dd8b1ac3-b671-c1a3-bbc3-8c2cdeefaaca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

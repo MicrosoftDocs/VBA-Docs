@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Previous
 ms.assetid: 64bc6592-e7ae-15bc-456e-1ba0cb1b2935
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.BeforeUpdate
 ms.assetid: a6f40320-1cbb-08bd-b9b0-7e70b25d4529
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

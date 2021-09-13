@@ -8,7 +8,7 @@ api_name:
 - Word.Pane.SmallScroll
 ms.assetid: e4d82e4b-ed4e-0050-c6d9-67fb580dde6d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

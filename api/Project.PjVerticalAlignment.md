@@ -5,7 +5,7 @@ api_name:
 - Project.PjVerticalAlignment
 ms.assetid: 4c49f78c-7ebd-a158-9574-c06dcfeeafd8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

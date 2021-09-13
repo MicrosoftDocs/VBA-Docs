@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.LostFocus
 ms.assetid: 6098212b-fd3b-0868-1112-9f52ae886e7e
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

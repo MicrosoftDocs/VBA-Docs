@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.TransitionNavigKeys
 ms.assetid: 261afa51-44f7-4527-9145-b542cc68d812
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

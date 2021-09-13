@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShadowFormat.ForeColor
 ms.assetid: 1ff2210f-1ab4-e991-746b-d4383a87c9e8
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.BackShade
 ms.assetid: e66e1f6c-5511-92cb-78dd-ad5f259dbcb3
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

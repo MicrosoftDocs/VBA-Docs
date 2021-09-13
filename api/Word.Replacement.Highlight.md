@@ -8,7 +8,7 @@ api_name:
 - Word.Replacement.Highlight
 ms.assetid: 4bcccceb-7e0b-673d-09b7-d30a1938601e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

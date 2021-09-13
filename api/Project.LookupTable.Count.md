@@ -5,7 +5,7 @@ api_name:
 - Project.LookupTable.Count
 ms.assetid: 8b00cad1-b49d-8365-46f9-3dd3d9e191cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

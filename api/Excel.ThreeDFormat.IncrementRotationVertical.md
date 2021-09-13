@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.IncrementRotationVertical
 ms.assetid: 09b5e785-9aac-6143-7fdf-630813654216
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

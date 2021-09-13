@@ -8,7 +8,7 @@ api_name:
 - Word.AxisTitle.Left
 ms.assetid: f22941e1-bbe0-efa1-01a8-b08481f6133f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

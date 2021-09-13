@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Gridlines.Name
 ms.assetid: 72b87fc5-56a8-91b9-4afd-7ae4f6d1acfb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

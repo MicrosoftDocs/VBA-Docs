@@ -8,7 +8,7 @@ api_name:
 - Excel.Ranges.Parent
 ms.assetid: c93dacfe-e619-083d-df4e-645c501329fd
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

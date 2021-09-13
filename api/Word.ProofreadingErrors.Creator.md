@@ -8,7 +8,7 @@ api_name:
 - Word.ProofreadingErrors.Creator
 ms.assetid: 230d4232-3171-0029-52ed-c8724e666fa8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

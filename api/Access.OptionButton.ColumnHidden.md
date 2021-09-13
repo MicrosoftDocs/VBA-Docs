@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.ColumnHidden
 ms.assetid: 962a7bf7-8898-d2e5-f26a-691b8c9b5d71
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

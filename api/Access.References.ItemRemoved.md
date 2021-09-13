@@ -8,7 +8,7 @@ api_name:
 - Access.References.ItemRemoved
 ms.assetid: 19498b96-5e92-8a7a-512a-95a89b878eb2
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

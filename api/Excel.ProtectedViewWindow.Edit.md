@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.Edit
 ms.assetid: bdb626b2-ed4a-06d2-076c-5d242d23a162
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

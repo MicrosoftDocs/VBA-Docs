@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.HeadersFooters
 ms.assetid: e8a53212-99cb-26df-12dd-ec6a6c7b7116
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

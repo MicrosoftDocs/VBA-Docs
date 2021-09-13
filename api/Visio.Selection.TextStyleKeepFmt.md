@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.TextStyleKeepFmt
 ms.assetid: d9900f73-dc39-e717-d923-78a9b275271e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

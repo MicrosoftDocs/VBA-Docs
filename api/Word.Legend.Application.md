@@ -8,7 +8,7 @@ api_name:
 - Word.Legend.Application
 ms.assetid: 146098ae-7602-462c-2403-cadb2917f852
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteAdjustTableFormatting
 ms.assetid: 8c486ea0-d653-b82a-8507-c192d4d11ecb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

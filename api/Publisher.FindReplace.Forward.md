@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.Forward
 ms.assetid: a1a0046c-81be-62d6-8739-5dc843d249bc
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

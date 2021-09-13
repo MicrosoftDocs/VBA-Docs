@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.UsedRange
 ms.assetid: f004b93c-d785-de19-1fb4-bbe0b2e9b6cd
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

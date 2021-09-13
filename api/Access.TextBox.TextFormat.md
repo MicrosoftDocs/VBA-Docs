@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.TextFormat
 ms.assetid: 3d164782-9d9c-5462-ac40-51772d475407
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

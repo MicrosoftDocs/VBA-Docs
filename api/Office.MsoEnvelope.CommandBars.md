@@ -8,7 +8,7 @@ api_name:
 - Office.MsoEnvelope.CommandBars
 ms.assetid: ac2a7180-044a-e945-98f9-1d2fa76e7cb8
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.Exists
 ms.assetid: 2892065c-f892-5337-c789-e1e5b556768b
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

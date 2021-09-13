@@ -8,7 +8,7 @@ api_name:
 - Access.Image.GridlineStyleRight
 ms.assetid: 038f4c8e-a7ba-bfa4-df87-a68baaad1c0b
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

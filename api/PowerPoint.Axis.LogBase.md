@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.LogBase
 ms.assetid: e071420c-6940-4ba8-28b3-d19fe1d844c3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

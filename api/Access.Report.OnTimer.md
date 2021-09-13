@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnTimer
 ms.assetid: ef7ac956-ffa4-da79-0d39-9c505409b4af
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

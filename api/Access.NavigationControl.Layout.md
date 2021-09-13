@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.Layout
 ms.assetid: eb8ab5e3-2443-d755-6dfa-6432223e87c0
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

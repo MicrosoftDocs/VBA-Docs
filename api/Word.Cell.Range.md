@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Range
 ms.assetid: 579a25ad-91fa-a7c9-7eb8-4307521aeddd
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

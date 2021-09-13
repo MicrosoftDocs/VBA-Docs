@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BackTint
 ms.assetid: 822bb0ff-5439-8150-5c3d-1738160ae654
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.Parent
 ms.assetid: 02925312-0c0b-b1b9-c353-7d559f0e0050
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

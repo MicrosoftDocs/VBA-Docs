@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets.Parent
 ms.assetid: 6dc641aa-b501-5934-cb64-be277af222c8
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

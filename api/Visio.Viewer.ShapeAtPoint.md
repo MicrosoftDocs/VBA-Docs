@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ShapeAtPoint
 ms.assetid: 0b9562f2-aa9e-5ca2-b3d3-6d6f0f65f5a3
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.AddIndent
 ms.assetid: 47cfb2a4-9050-354f-08f6-e86f0164be02
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

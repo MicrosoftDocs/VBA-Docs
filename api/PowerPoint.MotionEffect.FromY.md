@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MotionEffect.FromY
 ms.assetid: e9754587-f8bc-4af5-bd2b-ec6b1e3c4bc4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

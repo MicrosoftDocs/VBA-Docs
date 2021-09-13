@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.VerticalAnchor
 ms.assetid: d429b552-298e-1a0c-0485-4ef8b8e60c7f
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

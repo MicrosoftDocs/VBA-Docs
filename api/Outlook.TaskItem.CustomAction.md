@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskItem.CustomAction
 ms.assetid: 6d093473-9ac3-71a1-9bd6-6511e131afc6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

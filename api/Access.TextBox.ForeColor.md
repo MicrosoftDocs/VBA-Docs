@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ForeColor
 ms.assetid: 125bc04a-b747-6397-33ff-31de47004633
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

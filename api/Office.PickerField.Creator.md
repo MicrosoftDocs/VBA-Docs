@@ -5,7 +5,7 @@ api_name:
 - Office.PickerField.Creator
 ms.assetid: 1f55ec91-3106-047b-28b4-64792830c331
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

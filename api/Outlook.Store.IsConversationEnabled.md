@@ -8,7 +8,7 @@ api_name:
 - Outlook.Store.IsConversationEnabled
 ms.assetid: ce333881-a5f3-2115-0ae4-296d15c4bead
 ms.date: 06/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

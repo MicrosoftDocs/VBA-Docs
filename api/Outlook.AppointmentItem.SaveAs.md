@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.SaveAs
 ms.assetid: 24dc2663-ca45-395d-5c7f-6a6eaaff120f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.ID
 ms.assetid: f3cfe8a7-99dc-065b-4398-8ad708ab2b24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

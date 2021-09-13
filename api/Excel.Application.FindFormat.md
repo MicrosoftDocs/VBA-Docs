@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FindFormat
 ms.assetid: b2b62232-1f11-ec82-9344-edd39e0ae33d
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

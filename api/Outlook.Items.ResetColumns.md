@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.ResetColumns
 ms.assetid: 0543dd17-1e65-5484-ab21-d4791b3b1194
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

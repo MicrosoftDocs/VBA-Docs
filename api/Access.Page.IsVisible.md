@@ -8,7 +8,7 @@ api_name:
 - Access.Page.IsVisible
 ms.assetid: dae9781d-b640-47b8-3266-364678590119
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

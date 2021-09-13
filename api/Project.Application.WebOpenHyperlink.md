@@ -8,7 +8,7 @@ api_name:
 - Project.Application.WebOpenHyperlink
 ms.assetid: f1da5d5f-45a1-02e0-8783-7f919578e3fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

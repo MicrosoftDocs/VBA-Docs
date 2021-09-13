@@ -8,7 +8,7 @@ api_name:
 - Excel.Connections.AddFromFile
 ms.assetid: 24b13d14-6e5e-ee76-d4a9-79441647a803
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

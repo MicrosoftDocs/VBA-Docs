@@ -8,7 +8,7 @@ api_name:
 - Excel.IRtdServer.DisconnectData
 ms.assetid: 139d6f10-474b-3704-660c-19208be4d737
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

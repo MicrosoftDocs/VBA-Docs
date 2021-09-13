@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.Unload
 ms.assetid: 4b746cbf-2f81-b4ef-3f5e-4df93a543292
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

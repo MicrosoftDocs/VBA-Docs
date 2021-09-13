@@ -8,7 +8,7 @@ api_name:
 - Word.Style.AutomaticallyUpdate
 ms.assetid: 6b224938-9519-5cb3-4ca5-ca9e465432e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

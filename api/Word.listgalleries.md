@@ -3,7 +3,7 @@ title: ListGalleries object (Word)
 ms.prod: word
 ms.assetid: 3ae91fbf-fb7c-e96f-fd13-e4e4e9c4f09e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

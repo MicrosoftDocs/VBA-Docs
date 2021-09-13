@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.View.Type
 ms.assetid: 24779d38-87e6-c416-10ec-5dadb44e30b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

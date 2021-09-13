@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.OtherAddressCountry
 ms.assetid: c9fd6c5f-db32-e1d6-1f2f-88c0c12285c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

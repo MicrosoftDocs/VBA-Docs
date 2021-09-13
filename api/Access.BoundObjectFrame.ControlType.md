@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.ControlType
 ms.assetid: 16ccb55a-9866-fd21-12a1-791e2c460db2
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

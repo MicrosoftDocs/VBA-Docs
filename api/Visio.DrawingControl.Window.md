@@ -8,7 +8,7 @@ api_name:
 - Visio.DrawingControl.Window
 ms.assetid: 0ecfab32-03eb-e5be-228e-a9e3f96ca536
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

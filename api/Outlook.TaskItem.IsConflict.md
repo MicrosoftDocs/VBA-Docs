@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.IsConflict
 ms.assetid: de713a49-bdc8-363e-4990-cf3535b27981
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

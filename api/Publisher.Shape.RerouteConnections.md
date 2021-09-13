@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.RerouteConnections
 ms.assetid: 04afd4aa-dc84-d39c-e9fa-d06f8f4c0a02
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

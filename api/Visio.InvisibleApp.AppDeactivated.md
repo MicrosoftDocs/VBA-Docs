@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.AppDeactivated
 ms.assetid: 1ec2fc2f-8c57-3aa0-acff-c57bf1136bb6
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

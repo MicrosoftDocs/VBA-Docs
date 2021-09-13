@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.RTFBody
 ms.assetid: f8e7e632-113b-a50e-211b-dbd182221168
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

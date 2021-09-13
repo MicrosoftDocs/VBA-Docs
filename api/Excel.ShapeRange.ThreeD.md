@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.ThreeD
 ms.assetid: 0b4ab4b8-841b-eea6-67a4-effe144d19fe
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

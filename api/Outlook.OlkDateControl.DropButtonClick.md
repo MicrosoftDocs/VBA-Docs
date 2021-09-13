@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkDateControl.DropButtonClick
 ms.assetid: 425118d2-afa4-4582-1f89-857e5b7ae903
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

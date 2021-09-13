@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.Caption
 ms.assetid: d8a5ca13-90b8-d7ce-d041-2cdc544789e5
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

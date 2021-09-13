@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.sectionIndex
 ms.assetid: 4a992a39-100a-d23b-0a67-c24199ff9a9f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

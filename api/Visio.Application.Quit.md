@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.Quit
 ms.assetid: 1f8b73cd-10bd-e571-eee4-db05d9aa12cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

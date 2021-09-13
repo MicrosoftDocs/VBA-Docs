@@ -8,7 +8,7 @@ api_name:
 - Word.Font.ColorIndexBi
 ms.assetid: cadba8bf-8f2d-e9c3-e6f3-af34282bd75c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

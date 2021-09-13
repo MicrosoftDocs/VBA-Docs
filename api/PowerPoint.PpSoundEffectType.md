@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpSoundEffectType
 ms.assetid: a8facdea-92bc-6dbe-cef4-f81bbebd1fbe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

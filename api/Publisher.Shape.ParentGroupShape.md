@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.ParentGroupShape
 ms.assetid: ced4c348-4ef5-c703-fdea-65c33d37b4c0
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

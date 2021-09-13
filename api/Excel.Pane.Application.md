@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.Application
 ms.assetid: ec2d6535-1160-6196-25e9-7a4dafa376da
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

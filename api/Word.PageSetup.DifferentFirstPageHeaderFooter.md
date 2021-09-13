@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.DifferentFirstPageHeaderFooter
 ms.assetid: 50664181-4a3b-1b68-98e2-558fa9ee538e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Font.StylisticAlternates
 ms.assetid: cfb46152-4a54-27df-0a77-1e8b7fd3a711
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.HasBorderVertical
 ms.assetid: ee6f449d-369c-1953-8540-b8baa4b281ab
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

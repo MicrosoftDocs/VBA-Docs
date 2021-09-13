@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBar
 ms.assetid: 78603954-40aa-64cb-c407-2e0820d65231
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

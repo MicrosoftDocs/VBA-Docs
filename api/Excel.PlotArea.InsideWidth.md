@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.InsideWidth
 ms.assetid: 2ebad523-2f25-28c1-5d6e-56517e2690b7
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

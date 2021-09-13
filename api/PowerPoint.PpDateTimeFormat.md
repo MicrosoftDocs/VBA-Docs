@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpDateTimeFormat
 ms.assetid: 28660011-3f32-3846-7a4a-ad2272f8ca6c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.Shapes
 ms.assetid: b97eec13-d5d2-324b-0012-dbd00c0303ac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

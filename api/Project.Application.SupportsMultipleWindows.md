@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SupportsMultipleWindows
 ms.assetid: d52eb74c-a809-2084-9e4e-45ca4d53d2e4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

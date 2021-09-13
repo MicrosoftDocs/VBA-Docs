@@ -8,7 +8,7 @@ api_name:
 - Word.Frameset.FrameName
 ms.assetid: f0b22dfe-3d12-0f75-1af2-23467b83a4ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

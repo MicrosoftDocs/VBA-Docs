@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Manager
 ms.assetid: 6aa5bcfc-55b5-88ce-a9a8-d0f6a73ee69f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

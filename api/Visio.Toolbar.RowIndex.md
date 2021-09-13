@@ -8,7 +8,7 @@ api_name:
 - Visio.Toolbar.RowIndex
 ms.assetid: f55616ce-73a0-332b-ece0-f9f83ef43547
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

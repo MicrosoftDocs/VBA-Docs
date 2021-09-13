@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ColumnOrder
 ms.assetid: b5b271bc-5b3c-9b2c-ec87-524be29597d0
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

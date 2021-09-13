@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.ContainingObject
 ms.assetid: f15c81b5-d03f-0d83-323b-6ec6f57b4f26
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

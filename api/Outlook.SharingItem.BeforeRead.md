@@ -5,7 +5,7 @@ api_name:
 - Outlook.SharingItem.BeforeRead
 ms.assetid: 3c376a67-6d50-5eb2-45e9-975b68b17a5e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

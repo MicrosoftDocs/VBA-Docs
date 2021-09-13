@@ -8,7 +8,7 @@ api_name:
 - Office.Permission.Count
 ms.assetid: fdef7ae3-00d1-ab53-0ddf-212883e1858a
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

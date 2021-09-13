@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestUpdateItem.BeforeAttachmentPreview
 ms.assetid: 3f071f28-40ba-53af-82de-23fff1b2a521
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

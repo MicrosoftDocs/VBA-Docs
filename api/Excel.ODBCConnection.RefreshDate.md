@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCConnection.RefreshDate
 ms.assetid: aba86ae7-f160-6d41-f2f4-17fcac66972f
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

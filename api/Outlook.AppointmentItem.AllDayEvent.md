@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.AllDayEvent
 ms.assetid: 42803963-dce2-9eb1-bddb-62867abc57b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

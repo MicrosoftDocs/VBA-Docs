@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.PriceDisc
 ms.assetid: 973cf0b8-4bb5-bc0b-f32b-59d46b8474ef
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

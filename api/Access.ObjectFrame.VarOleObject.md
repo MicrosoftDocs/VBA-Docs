@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.VarOleObject
 ms.assetid: e04e769d-07fb-dacc-aa70-ddd3a064d785
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

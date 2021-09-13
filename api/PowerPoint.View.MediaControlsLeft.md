@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.View.MediaControlsLeft
 ms.assetid: 8afbdf98-df59-95b5-0705-1d55e1162c62
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

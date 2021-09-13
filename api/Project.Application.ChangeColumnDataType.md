@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ChangeColumnDataType
 ms.assetid: 25cbcb73-4cbd-3ea7-ff16-90a4d3028af9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

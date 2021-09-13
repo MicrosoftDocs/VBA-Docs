@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Enabled
 ms.assetid: f88401a5-b180-63e5-e301-a60addaacab4
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

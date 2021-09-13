@@ -8,7 +8,7 @@ api_name:
 - Publisher.Row.Height
 ms.assetid: fd243edc-1521-bd67-a365-2c4685ee5037
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

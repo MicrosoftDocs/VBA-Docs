@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.HyperlinkAddress
 ms.assetid: 13683f2f-3ada-5b45-e9e0-0b2dbed16e94
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

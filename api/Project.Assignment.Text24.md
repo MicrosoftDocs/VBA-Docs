@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Text24
 ms.assetid: 0cb73f81-293b-4281-19fa-022d0af71609
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

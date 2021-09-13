@@ -5,7 +5,7 @@ api_name:
 - Word.Research.Creator
 ms.assetid: 5947e75d-97b3-0d6a-9241-1843ab76c635
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

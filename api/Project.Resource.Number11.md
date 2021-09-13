@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Number11
 ms.assetid: 6658205e-afa4-54c5-6897-6ec0ff46ca0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

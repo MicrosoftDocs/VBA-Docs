@@ -8,7 +8,7 @@ api_name:
 - Word.TabStops.Creator
 ms.assetid: 656e7362-a08e-ef90-2996-17ed7bcead6b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

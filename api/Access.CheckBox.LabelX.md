@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.LabelX
 ms.assetid: 5067374b-9e37-3e13-003c-c3688812221f
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

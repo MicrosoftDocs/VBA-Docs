@@ -8,7 +8,7 @@ api_name:
 - Word.LegendEntries.Creator
 ms.assetid: 4153e082-a1df-a118-3db6-4603e991bf9c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

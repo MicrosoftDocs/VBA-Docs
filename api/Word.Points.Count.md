@@ -8,7 +8,7 @@ api_name:
 - Word.Points.Count
 ms.assetid: 10a49c86-aee2-6319-7994-ed3d9c2a6393
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

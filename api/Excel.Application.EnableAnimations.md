@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.EnableAnimations
 ms.assetid: fb49fb3c-a842-73ab-1819-054f7403c85e
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

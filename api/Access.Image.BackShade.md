@@ -8,7 +8,7 @@ api_name:
 - Access.Image.BackShade
 ms.assetid: 899c5320-a2ef-7861-2905-fc08f5b7a1fb
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.XlPhoneticAlignment
 ms.assetid: 366eb2b0-a1f9-af29-835a-c610ae8205d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.GridLines
 ms.assetid: 9dc77c2a-854f-63c0-4648-b7802fb6d9a2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

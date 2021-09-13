@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTables.Creator
 ms.assetid: a2428c94-1af6-4848-0a21-0461b6e44d41
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

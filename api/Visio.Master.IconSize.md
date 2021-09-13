@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.IconSize
 ms.assetid: c6516b30-642d-1e61-22b4-f95d6c47a8ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

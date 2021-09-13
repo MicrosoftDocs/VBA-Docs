@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetView.Sheet
 ms.assetid: 78fc5918-fcd8-d98a-7cc1-df8734127900
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

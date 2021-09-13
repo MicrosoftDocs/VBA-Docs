@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.Interior
 ms.assetid: aa11d693-0713-1f0c-0ef0-87bb81f705bd
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

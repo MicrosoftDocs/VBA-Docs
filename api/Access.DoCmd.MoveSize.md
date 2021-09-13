@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.MoveSize
 ms.assetid: 8fe8fc60-023e-26ce-c11a-2c29ffc21fbb
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

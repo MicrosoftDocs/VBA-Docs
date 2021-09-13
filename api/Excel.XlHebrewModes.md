@@ -5,7 +5,7 @@ api_name:
 - Excel.XlHebrewModes
 ms.assetid: a3dafb53-dae1-33c2-4470-2daca721064c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

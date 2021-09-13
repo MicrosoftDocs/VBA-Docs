@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.Flip
 ms.assetid: f340183a-4ef6-1a17-bbbb-5b1ec2b9aa4e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

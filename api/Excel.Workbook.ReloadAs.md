@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ReloadAs
 ms.assetid: ce6a9d1a-7945-3dca-ff2d-a42289c2ccf9
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

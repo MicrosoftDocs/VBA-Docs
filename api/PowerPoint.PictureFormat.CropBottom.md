@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PictureFormat.CropBottom
 ms.assetid: 6d2252ab-33ed-802b-e0c5-3e12be23bec4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

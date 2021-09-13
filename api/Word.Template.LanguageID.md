@@ -8,7 +8,7 @@ api_name:
 - Word.Template.LanguageID
 ms.assetid: a65168f1-daef-038a-fc2a-90592b63a82f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

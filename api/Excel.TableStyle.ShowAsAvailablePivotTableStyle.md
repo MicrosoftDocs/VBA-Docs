@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyle.ShowAsAvailablePivotTableStyle
 ms.assetid: c9439773-e9e2-d642-ed80-4b44b7e79130
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

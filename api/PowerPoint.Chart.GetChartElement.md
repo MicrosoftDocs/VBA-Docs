@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.GetChartElement
 ms.assetid: c0764342-dcd3-fdc6-6661-bbeed20f6e5a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

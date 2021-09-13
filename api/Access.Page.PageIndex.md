@@ -8,7 +8,7 @@ api_name:
 - Access.Page.PageIndex
 ms.assetid: 22b71f19-2734-f735-8a64-d02901c598c0
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.NotesPage
 ms.assetid: 8d102704-1660-cc5f-6701-d7bc67b5924b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

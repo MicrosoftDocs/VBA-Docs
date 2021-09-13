@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.ItemStatus
 ms.assetid: 2dcd9875-222d-fdb9-c2be-1a1df4ee86e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

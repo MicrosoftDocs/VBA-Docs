@@ -8,7 +8,7 @@ api_name:
 - Word.PageNumbers.IncludeChapterNumber
 ms.assetid: 0ab2dbb4-4bf3-f878-1fd9-abca20dd790a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

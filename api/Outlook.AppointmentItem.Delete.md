@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Delete
 ms.assetid: 5114b1ca-d923-9de2-cbad-8b14be001deb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

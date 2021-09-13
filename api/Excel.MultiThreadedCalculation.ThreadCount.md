@@ -8,7 +8,7 @@ api_name:
 - Excel.MultiThreadedCalculation.ThreadCount
 ms.assetid: 213ee475-51f1-b7bd-47ec-ec8893c77668
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

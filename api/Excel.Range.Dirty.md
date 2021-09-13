@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Dirty
 ms.assetid: c3f177ef-19b9-07e7-a42f-978874528207
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PublishObject.Publish
 ms.assetid: 890382ef-8aec-466d-40f9-e2bae6dc558b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

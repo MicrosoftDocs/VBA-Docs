@@ -8,7 +8,7 @@ api_name:
 - Excel.AddIns2.Parent
 ms.assetid: 50c49516-8bb9-b010-4dfb-29c5425dff29
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

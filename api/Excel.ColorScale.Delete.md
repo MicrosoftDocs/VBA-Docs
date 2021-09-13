@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorScale.Delete
 ms.assetid: 57976564-37a4-929b-528f-276668e899e1
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

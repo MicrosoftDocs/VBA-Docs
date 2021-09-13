@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.LabelAlign
 ms.assetid: d6562f66-5b9a-1f91-e140-b84a57ea5ff9
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

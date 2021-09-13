@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforeModal
 ms.assetid: 9e31701c-23fa-393a-b118-18a757e4f895
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

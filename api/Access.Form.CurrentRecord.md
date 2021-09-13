@@ -8,7 +8,7 @@ api_name:
 - Access.Form.CurrentRecord
 ms.assetid: a682d187-0b9a-2fc3-3443-f2dcd6df4ca2
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

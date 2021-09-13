@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Parent
 ms.assetid: a1fe6219-650c-4a2b-4121-0de42109dc3f
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

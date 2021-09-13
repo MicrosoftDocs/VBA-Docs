@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextStyles
 ms.assetid: 8a250160-0400-62e7-8301-5a5743fb2485
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

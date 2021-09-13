@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPresetLightingDirection
 ms.assetid: d3de37f8-f4c8-d04f-12a9-5fb7340fb8b1
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

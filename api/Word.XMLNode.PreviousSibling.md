@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.PreviousSibling
 ms.assetid: f4935228-6aaf-e763-27eb-71ed25c1eb6a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

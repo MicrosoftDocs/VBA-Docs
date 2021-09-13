@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.ContainingMasterID
 ms.assetid: 50ed7758-208e-15f0-14ac-801db910dabd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

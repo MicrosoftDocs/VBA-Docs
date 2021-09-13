@@ -8,7 +8,7 @@ api_name:
 - Word.Columns.Borders
 ms.assetid: 2c6a6d97-f4c2-f4dd-4a97-026926cb1170
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

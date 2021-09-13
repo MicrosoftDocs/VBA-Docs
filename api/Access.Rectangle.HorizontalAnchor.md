@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.HorizontalAnchor
 ms.assetid: f00173af-cb55-516f-de3e-293414d8fd08
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

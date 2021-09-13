@@ -5,7 +5,7 @@ api_name:
 - Outlook.AppointmentItem.BeforeAttachmentRead
 ms.assetid: db38a11b-c9bc-ebda-5900-00391cdf080f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

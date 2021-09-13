@@ -8,7 +8,7 @@ api_name:
 - Word.Rows.AllowOverlap
 ms.assetid: 2a5205d6-dd9c-6c12-38a3-37633cfd644b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

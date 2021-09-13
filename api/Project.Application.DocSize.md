@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DocSize
 ms.assetid: 03eb42ef-748e-ef42-a453-8305b0e2835c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

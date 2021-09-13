@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.BackgroundStyle
 ms.assetid: 58a5bc61-809c-f7ac-9282-6e48107eb6a6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

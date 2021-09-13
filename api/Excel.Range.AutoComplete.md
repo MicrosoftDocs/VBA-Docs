@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.AutoComplete
 ms.assetid: 723a452f-34e1-fcd1-a2d6-4932c5cc0542
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

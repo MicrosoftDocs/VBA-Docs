@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.LinkedCell
 ms.assetid: 398f46f0-593a-6020-6832-5aebe8c8cd68
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

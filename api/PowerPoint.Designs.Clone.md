@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Designs.Clone
 ms.assetid: 2365a43f-8adc-ad26-97fc-0376aedf0b80
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

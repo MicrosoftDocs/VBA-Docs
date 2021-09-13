@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyleElement.HasFormat
 ms.assetid: 3a9778ef-f2f4-7d07-5378-1d12feeb2711
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

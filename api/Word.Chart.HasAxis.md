@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.HasAxis
 ms.assetid: b5b7effe-48c6-75d9-fdc4-7a9ff148f0e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ContentControlOnExit
 ms.assetid: 1c988334-2bb3-2a86-747b-0d1d46894da1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

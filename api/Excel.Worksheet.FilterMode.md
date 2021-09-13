@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.FilterMode
 ms.assetid: d9bcaa8a-caf3-96a4-445d-d957a987b057
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

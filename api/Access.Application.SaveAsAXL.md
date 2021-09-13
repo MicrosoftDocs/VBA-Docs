@@ -8,7 +8,7 @@ api_name:
 - Access.Application.SaveAsAXL
 ms.assetid: a9557499-7e69-b405-8e2f-d9fcb23fb012
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

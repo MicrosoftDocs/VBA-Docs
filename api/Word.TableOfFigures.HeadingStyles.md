@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfFigures.HeadingStyles
 ms.assetid: d3e8f859-05eb-163a-d9a0-e49121d441de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

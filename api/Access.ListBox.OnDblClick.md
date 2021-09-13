@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.OnDblClick
 ms.assetid: 4271eff9-1d13-209a-9d7b-965893e36f59
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

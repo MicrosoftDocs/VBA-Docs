@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.SetFocus
 ms.assetid: 53e9c9f3-f1b8-f68d-8e9a-8b15ab4a3e83
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

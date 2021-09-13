@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.Left
 ms.assetid: 61b2d1ca-cc30-18cb-1bcf-463048be408f
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

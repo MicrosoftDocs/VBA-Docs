@@ -8,7 +8,7 @@ api_name:
 - Outlook.Exception.AppointmentItem
 ms.assetid: 35541126-99c0-6eaa-18a2-2d13519f03e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

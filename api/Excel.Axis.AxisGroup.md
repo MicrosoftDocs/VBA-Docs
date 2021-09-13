@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.AxisGroup
 ms.assetid: daf04d13-4bb3-1282-55ee-dacf3ab76020
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Parent
 ms.assetid: e6dd19b4-77b1-e314-c5d3-26a5a51373b8
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

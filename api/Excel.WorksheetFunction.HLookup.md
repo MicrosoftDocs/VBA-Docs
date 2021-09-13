@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.HLookup
 ms.assetid: 6e7b5ad0-3f70-d7a8-b161-ce418107d2a1
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

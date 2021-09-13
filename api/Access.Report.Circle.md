@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Circle
 ms.assetid: 4f5d24e2-75bf-3586-7e0d-0902adee61a6
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

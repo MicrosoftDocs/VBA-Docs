@@ -9,7 +9,7 @@ api_name:
 - PowerPoint.Presentation.SaveCopyAs2
 ms.author: lindalu
 ms.date: 09/18/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

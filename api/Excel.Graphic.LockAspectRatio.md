@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.LockAspectRatio
 ms.assetid: d38851e4-7ca6-bb1f-4b16-03fe78fae726
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

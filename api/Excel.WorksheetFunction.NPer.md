@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.NPer
 ms.assetid: ea610791-bed5-d2d3-6405-6372f46e28d8
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

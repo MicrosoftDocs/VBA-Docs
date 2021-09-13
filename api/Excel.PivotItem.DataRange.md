@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItem.DataRange
 ms.assetid: 6946f4eb-60ef-0d7a-394a-cd7904967a02
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

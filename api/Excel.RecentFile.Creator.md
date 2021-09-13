@@ -8,7 +8,7 @@ api_name:
 - Excel.RecentFile.Creator
 ms.assetid: bfece094-0df1-0e65-766c-393f217af3f6
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

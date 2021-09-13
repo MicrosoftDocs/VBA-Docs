@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.BringToFront
 ms.assetid: 91689605-16b4-eda5-2513-3e04f78fc13e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

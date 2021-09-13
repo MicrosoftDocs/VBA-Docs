@@ -8,7 +8,7 @@ api_name:
 - Outlook.Explorers.Parent
 ms.assetid: 3303e3d9-19d9-3439-e86b-af96fb28d8b7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

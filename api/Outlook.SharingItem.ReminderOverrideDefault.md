@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.ReminderOverrideDefault
 ms.assetid: 811f7f85-5ddd-26ec-a654-e98eca51c946
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

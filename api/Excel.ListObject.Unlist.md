@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.Unlist
 ms.assetid: 030f8f78-08e1-8a49-ee06-a7b4254aa5fc
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

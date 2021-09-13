@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormRegion.Session
 ms.assetid: 13b9a148-c898-a3ef-8341-073767ce665e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Find.MatchSuffix
 ms.assetid: e6af1ad2-7fc6-2565-3bf7-cd29dd15f28a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

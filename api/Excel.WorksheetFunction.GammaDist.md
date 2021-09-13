@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.GammaDist
 ms.assetid: fa290089-e6e0-4354-f28c-49f1a702dca5
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

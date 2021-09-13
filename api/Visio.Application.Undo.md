@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.Undo
 ms.assetid: 728d9af0-c9f2-c3ff-5ed3-a20e8a507a6a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

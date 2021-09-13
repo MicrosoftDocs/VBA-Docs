@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.CalcFor
 ms.assetid: 9a9e04df-f3f8-2daa-b58c-3245f4bfe6c9
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

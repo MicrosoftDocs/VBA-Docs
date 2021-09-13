@@ -8,7 +8,7 @@ api_name:
 - Access.Screen.ActiveDatasheet
 ms.assetid: cff189e7-9b8a-280f-e287-e4367f8ac134
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

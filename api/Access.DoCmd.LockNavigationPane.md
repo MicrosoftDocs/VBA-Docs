@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.LockNavigationPane
 ms.assetid: 64b44d9b-4cbd-182c-9bfb-89b4ca04dbf9
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

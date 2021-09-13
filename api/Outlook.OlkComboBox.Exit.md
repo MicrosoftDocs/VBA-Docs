@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Exit
 ms.assetid: ce386495-2c81-b256-c1dd-ede086f7a0f3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

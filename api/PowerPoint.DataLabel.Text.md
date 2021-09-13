@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabel.Text
 ms.assetid: fbd8fff8-8682-5e41-55e1-3294979803e0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

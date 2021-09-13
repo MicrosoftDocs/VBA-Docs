@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.GeStep
 ms.assetid: dc39a836-c1eb-491f-7f5a-67999c52218a
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

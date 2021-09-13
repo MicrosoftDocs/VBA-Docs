@@ -8,7 +8,7 @@ api_name:
 - Excel.UniqueValues.Type
 ms.assetid: 42260fd6-693f-0da7-8f2b-5ffbc7823b8f
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

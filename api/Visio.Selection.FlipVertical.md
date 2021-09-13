@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.FlipVertical
 ms.assetid: e83d7faa-25c2-cdf2-ea78-de9061e5098a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

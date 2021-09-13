@@ -8,7 +8,7 @@ api_name:
 - Access.Application.GetOption
 ms.assetid: 32736ddf-3551-07f5-1559-d0e139c1697d
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

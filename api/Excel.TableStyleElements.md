@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyleElements
 ms.assetid: d8f29faa-039d-6820-028c-763ee2a2989b
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

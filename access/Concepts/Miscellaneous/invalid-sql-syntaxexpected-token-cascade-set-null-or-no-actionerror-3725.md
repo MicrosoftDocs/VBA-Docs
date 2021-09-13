@@ -3,7 +3,7 @@ title: "Invalid SQL syntax - Expected token: CASCADE, SET NULL, or NO ACTION. (E
 ms.prod: access
 ms.assetid: 9813dbcb-2861-5d30-65f9-8e7ab34d7be1
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

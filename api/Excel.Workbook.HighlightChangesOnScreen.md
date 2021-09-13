@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.HighlightChangesOnScreen
 ms.assetid: 146f9a16-d32b-cc8f-fece-03864f0e13a2
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.Application
 ms.assetid: ec61fee1-46bd-d385-0d50-4c2c0d82b43e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

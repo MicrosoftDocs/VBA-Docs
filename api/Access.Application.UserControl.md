@@ -8,7 +8,7 @@ api_name:
 - Access.Application.UserControl
 ms.assetid: e82213ac-bd7b-2669-3001-330f40cfdaaa
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Columns.Count
 ms.assetid: 5e39029a-7918-8e6e-3cda-6ebd976d87de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

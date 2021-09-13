@@ -8,7 +8,7 @@ api_name:
 - Excel.IRTDUpdateEvent.HeartbeatInterval
 ms.assetid: 45a3df85-59c1-fedb-e94b-8f011601fc72
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

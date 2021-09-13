@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.OnKeyUp
 ms.assetid: f0a0c7c6-989c-d914-ccf5-7bac89d84dce
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

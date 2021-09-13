@@ -3,7 +3,7 @@ title: FileDialogFilter members (Office)
 ms.prod: office
 ms.assetid: 1dc53857-3ef2-37a7-1a89-83a5fe42823a
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

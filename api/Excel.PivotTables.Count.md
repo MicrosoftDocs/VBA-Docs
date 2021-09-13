@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTables.Count
 ms.assetid: dd0aecc5-b2d5-1994-0785-d340b543171c
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

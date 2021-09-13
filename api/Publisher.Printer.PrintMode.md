@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.Printer.PrintMode
 ms.assetid: 47ca11d1-d058-0f4e-dd22-ec452dafaf1a
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

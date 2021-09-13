@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.Parent
 ms.assetid: 12786bfd-70a0-5aa2-8624-25d58ea49838
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

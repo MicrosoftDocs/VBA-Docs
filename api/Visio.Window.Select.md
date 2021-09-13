@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.Select
 ms.assetid: 04394905-0b6b-a07d-4085-a46cecf8afe3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

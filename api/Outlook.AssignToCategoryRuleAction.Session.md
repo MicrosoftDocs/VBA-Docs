@@ -8,7 +8,7 @@ api_name:
 - Outlook.AssignToCategoryRuleAction.Session
 ms.assetid: 4ee91dde-9f5d-101f-f259-98192e45a76d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

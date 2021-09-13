@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroups.Count
 ms.assetid: 400d14b9-4b05-d601-5003-35b5eb87a19f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

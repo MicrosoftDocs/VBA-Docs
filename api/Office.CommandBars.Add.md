@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.Add
 ms.assetid: 544cfa94-924a-90ca-d716-c7b2f9e8732f
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

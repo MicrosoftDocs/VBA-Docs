@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Duplicate
 ms.assetid: 86add1f8-9c1f-57c0-87d5-9fdef0841880
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

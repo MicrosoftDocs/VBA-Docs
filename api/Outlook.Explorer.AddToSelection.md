@@ -8,7 +8,7 @@ api_name:
 - Outlook.Explorer.AddToSelection
 ms.assetid: b85ad121-9e26-0782-3c5e-7651499f8e66
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

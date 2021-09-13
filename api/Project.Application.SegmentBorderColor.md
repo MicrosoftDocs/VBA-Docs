@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SegmentBorderColor
 ms.assetid: 99c2d2ba-f0c5-b462-5801-ac9c7ee75a02
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtQuickStyles.Count
 ms.assetid: b70c5f59-50e1-86c8-c5c6-bd4b1e79165c
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

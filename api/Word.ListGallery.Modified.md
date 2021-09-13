@@ -8,7 +8,7 @@ api_name:
 - Word.ListGallery.Modified
 ms.assetid: c5acfd0e-5a6f-237e-0a9e-962525fd17d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

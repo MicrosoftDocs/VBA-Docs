@@ -8,7 +8,7 @@ api_name:
 - Access.Form.PopUp
 ms.assetid: 0ccaa174-80e2-5ca3-9614-93b12dc1bfcd
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

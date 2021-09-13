@@ -8,7 +8,7 @@ api_name:
 - Project.Project.ReceiveNotifications
 ms.assetid: 16ac7115-ff63-7d49-eeb0-ef416a087959
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

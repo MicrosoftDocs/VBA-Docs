@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTables.Application
 ms.assetid: 428b9fbb-8119-0de6-d86a-719edbe5d667
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

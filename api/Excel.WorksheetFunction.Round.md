@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Round
 ms.assetid: 37b1abed-ed4e-5e92-ba8d-a13f573813a0
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

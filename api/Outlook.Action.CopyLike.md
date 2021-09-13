@@ -8,7 +8,7 @@ api_name:
 - Outlook.Action.CopyLike
 ms.assetid: 4cde4458-1bf1-7673-1c5f-d3d9c4e9b8f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

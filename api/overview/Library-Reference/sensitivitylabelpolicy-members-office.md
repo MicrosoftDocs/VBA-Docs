@@ -3,7 +3,7 @@ title: SensitivityLabelPolicy members (Office)
 ms.prod: office
 ms.assetid: d612d39c-97a1-4c7d-97a2-9a2d52b4e01a
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabelPolicy members (Office)
 ---
 

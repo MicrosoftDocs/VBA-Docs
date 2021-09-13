@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GlobalBaseCalendars
 ms.assetid: 98a498f9-e040-9b00-e84a-806a8a17a181
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

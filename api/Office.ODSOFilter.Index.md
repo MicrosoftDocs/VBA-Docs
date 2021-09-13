@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOFilter.Index
 ms.assetid: 7a7986d6-812a-2237-5211-fd7c782dd497
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

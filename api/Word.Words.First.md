@@ -8,7 +8,7 @@ api_name:
 - Word.Words.First
 ms.assetid: 93525a9b-1259-30a2-23e6-5887ea93fb95
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

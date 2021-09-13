@@ -5,7 +5,7 @@ api_name:
 - Project.Application.MailSession
 ms.assetid: 00f67414-eb0d-6b2a-d557-26812aaee04c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Width
 ms.assetid: 092eb5e0-2f9f-9ea2-2fb0-759a781b771b
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

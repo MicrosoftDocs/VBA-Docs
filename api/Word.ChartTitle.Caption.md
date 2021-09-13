@@ -8,7 +8,7 @@ api_name:
 - Word.ChartTitle.Caption
 ms.assetid: a8fe173f-9fa8-827e-d7e2-f5d85d0859be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

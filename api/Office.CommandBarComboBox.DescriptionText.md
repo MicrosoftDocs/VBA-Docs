@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarComboBox.DescriptionText
 ms.assetid: e06b5800-eecd-6863-68f7-9b88d3c4696b
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

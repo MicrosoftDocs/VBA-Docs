@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.MeetingWorkspaceURL
 ms.assetid: f4b6708b-70ab-d20c-4c28-c6d0d2d991f0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

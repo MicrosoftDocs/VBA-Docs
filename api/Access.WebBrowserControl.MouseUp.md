@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.MouseUp
 ms.assetid: 8446770d-c347-3389-aefa-431d9387d06f
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

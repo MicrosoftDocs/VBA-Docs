@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeFilterCriterion.CompareTo
 ms.assetid: 6e81fa38-a5d7-8421-6722-a18c5e9a8229
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

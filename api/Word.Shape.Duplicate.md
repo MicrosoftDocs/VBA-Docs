@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.Duplicate
 ms.assetid: 8734d0f7-62fa-01eb-7aa8-9f959d36d195
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

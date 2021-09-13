@@ -3,7 +3,7 @@ title: Properties (Microsoft Forms)
 ms.prod: office
 ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

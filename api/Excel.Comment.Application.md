@@ -8,7 +8,7 @@ api_name:
 - Excel.Comment.Application
 ms.assetid: a5cf6bf0-73e6-d925-d905-1a6388ef8c6d
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

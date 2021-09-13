@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.AutoActivate
 ms.assetid: e6e0dfce-1bfe-707b-d7f0-45a216d4aa55
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

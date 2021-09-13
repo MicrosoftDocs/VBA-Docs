@@ -5,7 +5,7 @@ api_name:
 - Publisher.Application.Assistance
 ms.assetid: 2abac248-bec5-876f-9ae5-88a59ce16b59
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

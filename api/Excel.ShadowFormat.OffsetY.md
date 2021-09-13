@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat.OffsetY
 ms.assetid: 54783d52-c32e-14ef-2cae-25f3a7676d80
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

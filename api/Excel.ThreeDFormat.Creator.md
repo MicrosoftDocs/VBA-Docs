@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.Creator
 ms.assetid: adae19fb-0ef7-6366-e70d-ff43b443419a
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

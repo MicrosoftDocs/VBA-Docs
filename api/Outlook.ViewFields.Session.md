@@ -8,7 +8,7 @@ api_name:
 - Outlook.ViewFields.Session
 ms.assetid: 480ac826-b966-9204-8850-214b53a1b0da
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Walls.Parent
 ms.assetid: 9fbe4071-2a9d-ffc3-2917-6b1fce69e1d9
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

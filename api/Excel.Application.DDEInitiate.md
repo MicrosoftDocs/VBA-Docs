@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DDEInitiate
 ms.assetid: 4b14e2ee-d7b0-a028-42a7-0809fa381f7e
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

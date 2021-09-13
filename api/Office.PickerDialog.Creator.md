@@ -5,7 +5,7 @@ api_name:
 - Office.PickerDialog.Creator
 ms.assetid: 1c4ac795-ba4d-62e8-3d7d-e656bcbf85d3
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: ShapeRange.ParentGroup property (Project)
 ms.prod: project-server
 ms.assetid: a2276d7e-70b2-8aa7-1f9c-f2976f8454ac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

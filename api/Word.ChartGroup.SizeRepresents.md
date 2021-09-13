@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.SizeRepresents
 ms.assetid: 9611e92a-725c-fbe8-41bf-ef57d2166e4d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

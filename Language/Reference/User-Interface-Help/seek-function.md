@@ -3,7 +3,7 @@ title: Seek function (Visual Basic for Applications)
 ms.prod: office
 ms.assetid: 870aba03-b7ad-c931-928d-33aaf9cf5ab6
 ms.date: 12/13/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

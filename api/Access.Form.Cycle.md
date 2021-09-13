@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Cycle
 ms.assetid: 621d7101-5237-b239-fcb3-2d942a0329b0
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.IsRecurring
 ms.assetid: 09684a02-bab4-56ff-cdb3-0a20049c968d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

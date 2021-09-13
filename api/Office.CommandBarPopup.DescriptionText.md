@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.DescriptionText
 ms.assetid: 81a6b11d-40ea-d17d-4a28-ca423a3e29ec
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabels.NumberFormatLocal
 ms.assetid: 76da6803-23d6-5e1f-6073-882090542fb9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

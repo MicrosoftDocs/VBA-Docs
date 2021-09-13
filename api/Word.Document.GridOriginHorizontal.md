@@ -8,7 +8,7 @@ api_name:
 - Word.Document.GridOriginHorizontal
 ms.assetid: e4315f83-a89c-59c1-094d-4945ae2d1ce2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

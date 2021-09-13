@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.BorderShade
 ms.assetid: 5464f403-791a-d324-2c7a-eb6aa26acf8f
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

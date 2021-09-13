@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.CircleInvalid
 ms.assetid: d0e697a4-0c8a-bf2a-06a1-e162696a64dd
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

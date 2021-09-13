@@ -8,7 +8,7 @@ api_name:
 - Excel.Adjustments
 ms.assetid: c69c4bbf-5687-f453-e238-28d4b98d4808
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

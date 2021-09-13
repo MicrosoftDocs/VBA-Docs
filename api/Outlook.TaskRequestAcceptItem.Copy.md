@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Copy
 ms.assetid: 1d8c86a1-8b80-46f4-52f6-9118c0b9cb41
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

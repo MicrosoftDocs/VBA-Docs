@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.PrintOut
 ms.assetid: 3a4e7037-fcde-5a57-4a80-45f2a0994370
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

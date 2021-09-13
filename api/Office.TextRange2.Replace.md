@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.Replace
 ms.assetid: e14f0ad0-3b9c-d9f5-a13d-d3bbdcae50e1
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

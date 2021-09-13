@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.HorizontalAnchor
 ms.assetid: 9dfa13fe-d062-d7a8-87a3-2e6e37fce5e9
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

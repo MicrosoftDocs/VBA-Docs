@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.BevelBottomType
 ms.assetid: 606feaa0-6851-6872-c0f6-681eb064c616
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

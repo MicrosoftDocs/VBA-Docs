@@ -5,7 +5,7 @@ api_name:
 - Outlook.AppointmentItem.Forward
 ms.assetid: 3d56ee04-9a9a-1f10-0436-a2b567b17229
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

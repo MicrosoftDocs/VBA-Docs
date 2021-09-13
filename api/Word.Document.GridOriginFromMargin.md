@@ -8,7 +8,7 @@ api_name:
 - Word.Document.GridOriginFromMargin
 ms.assetid: 137b250a-31d6-89c7-365b-285f14ae3dac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

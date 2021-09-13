@@ -8,7 +8,7 @@ api_name:
 - Word.Tasks.Application
 ms.assetid: 900f7a82-1973-1ab3-0d28-7ab3bb9c3455
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

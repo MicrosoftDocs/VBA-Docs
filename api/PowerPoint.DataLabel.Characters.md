@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DataLabel.Characters
 ms.assetid: 0ac6cc61-6a4e-df5a-44c8-754dc08c381f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

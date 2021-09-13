@@ -8,7 +8,7 @@ api_name:
 - Word.KeysBoundTo.Application
 ms.assetid: e64646b5-d02b-72c2-dada-ae223f39094e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

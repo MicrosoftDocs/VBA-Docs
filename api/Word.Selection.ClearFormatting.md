@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.ClearFormatting
 ms.assetid: 66c2f088-5d35-f8b0-10e5-2faa0db14d7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

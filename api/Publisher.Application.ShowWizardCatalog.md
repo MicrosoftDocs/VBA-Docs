@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.ShowWizardCatalog
 ms.assetid: a8307ff9-a6c1-7655-8127-284f3781dae9
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

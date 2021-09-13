@@ -8,7 +8,7 @@ api_name:
 - Excel.AllowEditRange.Unprotect
 ms.assetid: 3c7679c6-828d-e1c4-7009-f42bad1a66d6
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

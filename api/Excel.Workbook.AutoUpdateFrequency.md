@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.AutoUpdateFrequency
 ms.assetid: dfded5c8-94d6-8a0f-24c1-248bd502850b
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

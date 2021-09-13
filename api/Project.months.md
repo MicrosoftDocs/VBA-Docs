@@ -3,7 +3,7 @@ title: Months object (Project)
 ms.prod: project-server
 ms.assetid: 5db0ed37-cc23-7bc8-ebe5-fdaf6275b5db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

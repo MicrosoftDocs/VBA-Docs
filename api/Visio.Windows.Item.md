@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows.Item
 ms.assetid: 61a17578-83c2-ce4e-95a4-739b32c7ad95
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

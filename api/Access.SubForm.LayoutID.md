@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.LayoutID
 ms.assetid: ec73504d-252b-40d5-aabf-5ac128cbe778
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

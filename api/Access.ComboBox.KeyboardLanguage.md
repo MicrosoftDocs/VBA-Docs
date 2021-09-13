@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.KeyboardLanguage
 ms.assetid: 5eb0e03c-c931-45b5-7801-d790c4678768
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

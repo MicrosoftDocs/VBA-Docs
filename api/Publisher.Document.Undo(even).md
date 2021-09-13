@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.Undo
 ms.assetid: 9789e469-dc84-a0b7-ffe0-405d4e7ad861
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

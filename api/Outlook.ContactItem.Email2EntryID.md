@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Email2EntryID
 ms.assetid: 0c5691bb-e112-763b-d126-2bcc2c52ccce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.ShowInput
 ms.assetid: 8760c403-c982-4cbd-6211-cb8b1c83bc91
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

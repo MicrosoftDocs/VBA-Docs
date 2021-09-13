@@ -8,7 +8,7 @@ api_name:
 - Access.Image.PictureAlignment
 ms.assetid: e0ebec64-9a26-859e-b9fd-5f4a47253bba
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

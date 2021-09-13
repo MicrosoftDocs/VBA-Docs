@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Creator
 ms.assetid: 39bb2896-2a2f-a7b2-8139-40f0f37104ed
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

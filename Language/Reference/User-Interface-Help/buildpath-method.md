@@ -8,7 +8,7 @@ api_name:
 - Office.BuildPath
 ms.assetid: 55f3dbad-0e0a-1968-a749-fe87986e9690
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

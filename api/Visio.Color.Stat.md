@@ -8,7 +8,7 @@ api_name:
 - Visio.Color.Stat
 ms.assetid: f2e837bc-0bfc-965c-cedb-decb54434bc1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

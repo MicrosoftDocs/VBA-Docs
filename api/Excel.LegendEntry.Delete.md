@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntry.Delete
 ms.assetid: 1967ac14-e375-9308-bd53-fbfd1e71ac69
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

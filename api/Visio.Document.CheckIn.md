@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.CheckIn
 ms.assetid: 9b75d468-24bc-e205-cafa-6e585f469e38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

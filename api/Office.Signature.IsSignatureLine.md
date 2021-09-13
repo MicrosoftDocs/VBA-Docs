@@ -8,7 +8,7 @@ api_name:
 - Office.Signature.IsSignatureLine
 ms.assetid: 88ed582d-ee3c-7aaa-cb46-90098f6968a9
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

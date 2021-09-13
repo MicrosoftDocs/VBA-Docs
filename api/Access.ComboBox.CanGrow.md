@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.CanGrow
 ms.assetid: 0abc0d9c-35dc-ea5f-dcb1-dbfe37b7a143
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatConditions.Parent
 ms.assetid: 6c550438-23b1-82f4-9459-41badddd5247
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

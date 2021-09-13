@@ -8,7 +8,7 @@ api_name:
 - Excel.HPageBreaks.Parent
 ms.assetid: 5f130cc0-520c-360b-a9e9-6d6eb8f5aecb
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

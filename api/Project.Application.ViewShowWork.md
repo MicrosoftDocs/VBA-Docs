@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ViewShowWork
 ms.assetid: fc2071b1-9aed-015a-a9b5-67de2a9ae12f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

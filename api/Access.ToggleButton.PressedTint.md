@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.PressedTint
 ms.assetid: 01fa017e-05b3-7bd7-b2bf-19bf4a641802
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

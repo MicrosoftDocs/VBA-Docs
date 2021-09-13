@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyNumberedLists
 ms.assetid: a20be170-7297-0f55-4650-04540fc6f4f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

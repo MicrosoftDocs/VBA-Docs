@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.HideSelection
 ms.assetid: 6d378717-9b9c-737a-5fdd-79e72b2538be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

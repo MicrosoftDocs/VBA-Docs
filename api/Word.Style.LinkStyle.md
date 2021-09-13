@@ -8,7 +8,7 @@ api_name:
 - Word.Style.LinkStyle
 ms.assetid: 3a5c4f41-be1e-9da4-5f94-6d2db00616f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

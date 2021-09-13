@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Duplicate
 ms.assetid: 545dbfdb-4cd5-99b1-1ba3-b723e8d7b827
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

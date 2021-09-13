@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.BeforeStyleDelete
 ms.assetid: 791c3d0d-17bc-535e-23b6-dc343f05ebe2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

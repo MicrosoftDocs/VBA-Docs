@@ -8,7 +8,7 @@ api_name:
 - Word.CaptionLabel.Delete
 ms.assetid: fe77725d-bc17-7d72-410e-8379f9f60d25
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

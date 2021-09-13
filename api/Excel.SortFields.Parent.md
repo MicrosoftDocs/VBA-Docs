@@ -8,7 +8,7 @@ api_name:
 - Excel.SortFields.Parent
 ms.assetid: 66b972e9-5ec9-5c1c-5bea-a76b118b9d0d
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.XmlDataQuery
 ms.assetid: de728702-962f-a047-a58d-3e2fa9c86acd
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

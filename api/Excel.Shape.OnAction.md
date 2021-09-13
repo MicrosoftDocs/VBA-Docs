@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.OnAction
 ms.assetid: 7b278ba3-75d3-1f97-dbe2-181485a88365
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

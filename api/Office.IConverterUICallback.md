@@ -8,7 +8,7 @@ api_name:
 - Office.IConverterUICallback
 ms.assetid: 9e1a4016-b96a-08b7-db0c-a2e4d63e11e1
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

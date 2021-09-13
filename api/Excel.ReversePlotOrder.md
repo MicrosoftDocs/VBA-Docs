@@ -8,7 +8,7 @@ api_name:
 - Excel.ReversePlotOrder
 ms.assetid: d9854c4c-b530-44b6-2335-ad293443ebba
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.Modules
 ms.assetid: eb99e25f-9a31-82cd-1b61-41c8a227b859
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

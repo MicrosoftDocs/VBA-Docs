@@ -8,7 +8,7 @@ api_name:
 - Excel.GroupShapes.Count
 ms.assetid: b2a13491-1633-85fa-afb2-b8091815d047
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

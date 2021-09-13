@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Move
 ms.assetid: a16304f5-891c-b80c-80b3-1f75692cb30f
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

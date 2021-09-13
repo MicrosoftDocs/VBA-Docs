@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.BorderWidth
 ms.assetid: ac847423-f5ad-4d56-655d-25c468f82240
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

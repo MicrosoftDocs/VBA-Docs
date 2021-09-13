@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.AddFormControl
 ms.assetid: c1654020-630c-b988-54f1-99a2f2a93e56
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

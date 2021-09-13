@@ -8,7 +8,7 @@ api_name:
 - Word.Cells.AutoFit
 ms.assetid: bc8dcae8-2f71-a978-f5be-c32fb052f428
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

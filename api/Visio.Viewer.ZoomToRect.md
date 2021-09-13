@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ZoomToRect
 ms.assetid: 80d4da31-55b9-abc8-9727-6ebd8ebe0ddb
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

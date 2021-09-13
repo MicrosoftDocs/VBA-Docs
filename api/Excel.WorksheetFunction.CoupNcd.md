@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CoupNcd
 ms.assetid: f52fc397-a48e-8eec-6996-c0e11f11e194
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.ContainingPage
 ms.assetid: 18fe6146-34eb-9369-603b-b3b316aa23d7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

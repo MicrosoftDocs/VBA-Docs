@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.NamedSlideShows.Count
 ms.assetid: e4a48f6c-32f8-fdc5-101d-3ddec1f79f59
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

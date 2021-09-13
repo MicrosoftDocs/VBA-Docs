@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.VerticalAnchor
 ms.assetid: ac25f518-9954-7422-b0ac-61bb5a8ea758
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

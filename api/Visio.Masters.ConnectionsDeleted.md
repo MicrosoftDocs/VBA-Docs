@@ -8,7 +8,7 @@ api_name:
 - Visio.Masters.ConnectionsDeleted
 ms.assetid: bf2ed2be-276a-04d8-cd98-70929cfd31f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

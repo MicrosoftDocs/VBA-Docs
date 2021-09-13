@@ -8,7 +8,7 @@ api_name:
 - Visio.Cell.ResultStrU
 ms.assetid: 2a2fc8c9-eb2c-6c49-9af6-abc120bbd610
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

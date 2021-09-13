@@ -5,7 +5,7 @@ api_name:
 - Word.WdUseFormattingFrom
 ms.assetid: f4860fb9-c291-6e20-6fc5-e307e629ee7c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

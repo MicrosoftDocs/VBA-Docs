@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OnKeyUp
 ms.assetid: a932ab8a-3b48-8aa3-5ee4-97593b4394a4
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

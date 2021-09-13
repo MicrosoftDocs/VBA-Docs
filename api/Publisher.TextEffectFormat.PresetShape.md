@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.PresetShape
 ms.assetid: 4e98e606-d26b-aa81-0e19-5b8535ba6df1
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

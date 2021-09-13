@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PSet
 ms.assetid: 951a262b-b17b-9b95-b5f2-922d4aff9ce9
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

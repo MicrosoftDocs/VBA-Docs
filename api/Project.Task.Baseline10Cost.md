@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Baseline10Cost
 ms.assetid: 16597d73-b539-fe39-fe69-be463d632442
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetic.Visible
 ms.assetid: 3a2f0ac3-2a6b-221e-3a7c-d5c395db5bc5
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

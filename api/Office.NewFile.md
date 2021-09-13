@@ -8,7 +8,7 @@ api_name:
 - Office.NewFile
 ms.assetid: 6f53ced5-4488-b67f-ca1f-729aeb790eb1
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

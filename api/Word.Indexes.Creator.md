@@ -8,7 +8,7 @@ api_name:
 - Word.Indexes.Creator
 ms.assetid: 88fed4ac-033b-a33f-0355-c750fcea0783
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

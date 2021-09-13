@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.CommandBars
 ms.assetid: 3829b033-aed4-a132-ff44-96d419dd09cd
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

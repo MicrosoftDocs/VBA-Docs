@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.DragToColumn
 ms.assetid: 1734e0d2-28bb-0341-65fe-090aa7c3ce60
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

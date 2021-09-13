@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.XmlMap
 ms.assetid: 8bb623c7-84bc-5170-6afd-335853e716b2
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

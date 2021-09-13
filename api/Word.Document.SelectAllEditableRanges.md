@@ -8,7 +8,7 @@ api_name:
 - Word.Document.SelectAllEditableRanges
 ms.assetid: 510cd397-4c39-f36b-ed59-524247b35f16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

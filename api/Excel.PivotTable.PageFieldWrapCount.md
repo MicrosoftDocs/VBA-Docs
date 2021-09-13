@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PageFieldWrapCount
 ms.assetid: 930bfe25-362e-f907-d593-6898db07f55b
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

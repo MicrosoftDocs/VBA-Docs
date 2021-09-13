@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.ResultRange
 ms.assetid: 7d7bde05-0e46-a282-dbdc-b2f5edcc2000
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

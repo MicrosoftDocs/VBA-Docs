@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Importance
 ms.assetid: cab606ff-7b3c-4d94-779d-c8b07a5913ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

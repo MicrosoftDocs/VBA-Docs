@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.BeforeWindowClosed
 ms.assetid: 4543e237-6b2c-d02c-66df-9f90b0266e4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

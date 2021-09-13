@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AfterCalculate
 ms.assetid: ed76a36f-1b52-4464-da44-e64c81fb8d38
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

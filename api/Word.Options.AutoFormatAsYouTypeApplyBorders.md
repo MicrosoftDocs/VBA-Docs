@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyBorders
 ms.assetid: 6600f044-10a7-9cc6-51d2-63c73d158219
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

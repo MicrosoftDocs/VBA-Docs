@@ -5,7 +5,7 @@ api_name:
 - Word.WdOpenFormat
 ms.assetid: 48727357-ff8a-5516-9f45-09f0282ca89f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

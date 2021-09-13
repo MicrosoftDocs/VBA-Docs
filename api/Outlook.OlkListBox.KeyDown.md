@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.KeyDown
 ms.assetid: 9b91fbfd-df9f-125e-cda5-34d2a69624bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

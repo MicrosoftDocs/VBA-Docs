@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.TabIndex
 ms.assetid: 2240626f-2aa8-be76-ce5a-b706bcb70de6
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

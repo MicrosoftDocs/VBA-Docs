@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.GetBuiltInStencilFile
 ms.assetid: 2f8e28a9-67bd-31fd-25f1-f684dfeeeca8
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ContentControlBeforeStoreUpdate
 ms.assetid: a73aae31-bd03-1422-dbf2-1e7943d4a08a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

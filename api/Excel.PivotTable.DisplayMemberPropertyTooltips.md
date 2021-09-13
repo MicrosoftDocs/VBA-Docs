@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayMemberPropertyTooltips
 ms.assetid: c91c6030-9e61-ae09-8973-53b28f1edd0c
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

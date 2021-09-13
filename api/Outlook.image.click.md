@@ -3,7 +3,7 @@ title: Image.Click Event (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 59ac08ce-2527-6cfb-ac0b-66322bc10e9f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Width
 ms.assetid: 75c3aff6-25a0-2f64-2c25-da213b87393b
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

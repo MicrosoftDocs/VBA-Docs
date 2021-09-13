@@ -8,7 +8,7 @@ api_name:
 - Word.Application.CompareDocuments
 ms.assetid: 511c811f-3f2b-9b93-f339-32324569a765
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

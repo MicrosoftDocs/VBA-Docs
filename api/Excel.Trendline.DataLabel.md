@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendline.DataLabel
 ms.assetid: 8af73d2d-c5b3-d1ec-75a2-0a0a5562fb69
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Parent
 ms.assetid: 543f205c-03fe-cc58-d467-dbfdfe438438
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

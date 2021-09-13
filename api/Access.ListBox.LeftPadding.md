@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.LeftPadding
 ms.assetid: 63a94bd3-7929-c204-3612-080bbb5869bc
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

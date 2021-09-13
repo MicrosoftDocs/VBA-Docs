@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbPrintGraphics
 ms.assetid: 48ce8605-4212-2cf0-879f-accfb036fadb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

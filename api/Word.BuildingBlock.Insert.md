@@ -8,7 +8,7 @@ api_name:
 - Word.BuildingBlock.Insert
 ms.assetid: e2f3fd61-624b-fd18-3b5a-2c9f16fa6bd2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

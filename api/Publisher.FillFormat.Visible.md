@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.Visible
 ms.assetid: 9cbb2604-6c33-de51-71f4-8c0304868cb5
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

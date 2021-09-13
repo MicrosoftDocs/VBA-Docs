@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Find
 ms.assetid: 4e87760e-ffc9-39a0-a072-a077ce1ef54b
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFilter.Application
 ms.assetid: 7062c76e-9239-b01e-cfef-0a8e0e2de52d
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.BeforeUpdate
 ms.assetid: 5d3cd45b-2f27-f162-a198-bcabf766591e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

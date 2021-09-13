@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.Visible
 ms.assetid: 16300521-9a38-b3dd-7cab-ada7031d47ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.CalculatedFields
 ms.assetid: 8f09c79d-48e7-0c75-8db2-2201fcdcc974
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

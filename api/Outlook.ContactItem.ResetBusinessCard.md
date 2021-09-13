@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ResetBusinessCard
 ms.assetid: a6eed85a-ac25-64c6-6bf3-650d5129c8e3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

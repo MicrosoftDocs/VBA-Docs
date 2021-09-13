@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.AnimationSettings
 ms.assetid: c960d0de-afb3-55f2-b6fb-e67779cc42d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

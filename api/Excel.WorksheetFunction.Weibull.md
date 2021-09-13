@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Weibull
 ms.assetid: 2636d646-d867-a66b-ceba-b180e4ae69fa
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

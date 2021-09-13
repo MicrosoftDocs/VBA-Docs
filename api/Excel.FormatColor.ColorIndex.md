@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatColor.ColorIndex
 ms.assetid: ac930c75-5440-9a0b-8ef8-b14bc7a8d597
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

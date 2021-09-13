@@ -8,7 +8,7 @@ api_name:
 - Publisher.Table.TableDirection
 ms.assetid: ffd664a8-781f-8fdc-055c-1ea7309b3b38
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

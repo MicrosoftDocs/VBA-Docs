@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.DrawPolyline
 ms.assetid: 79bd8e58-097e-6af3-cc52-435acbeececd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

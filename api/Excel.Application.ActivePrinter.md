@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ActivePrinter
 ms.assetid: 72c4a525-27ab-f109-64d3-bcc7a12df505
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

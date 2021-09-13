@@ -5,7 +5,7 @@ api_name:
 - Project.ViewCombination.Index
 ms.assetid: 3a9ebd6e-a2c6-1a90-4d41-e31bd8455611
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

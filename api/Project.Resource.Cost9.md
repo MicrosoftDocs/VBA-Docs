@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Cost9
 ms.assetid: 6908ddc2-9e21-5baf-c382-b5be59c4c0b7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

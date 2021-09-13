@@ -8,7 +8,7 @@ api_name:
 - Access.Form.InsideWidth
 ms.assetid: c92954cd-0b8b-94d8-8826-684e886da0a2
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

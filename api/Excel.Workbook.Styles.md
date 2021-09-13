@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Styles
 ms.assetid: c9a70be9-cab5-ea5f-2e3f-949b1acf43d9
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

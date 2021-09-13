@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Formula
 ms.assetid: 0fec018a-5a6f-f5ec-ed1c-a963e53c27b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

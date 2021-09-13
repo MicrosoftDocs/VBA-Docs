@@ -8,7 +8,7 @@ api_name:
 - Visio.KeyboardEvent
 ms.assetid: 5091c972-b226-1caa-d40f-96a5f3b5bf01
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

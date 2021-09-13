@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ControlType
 ms.assetid: 4cc842d9-2985-b65e-e259-697cedaa56fc
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

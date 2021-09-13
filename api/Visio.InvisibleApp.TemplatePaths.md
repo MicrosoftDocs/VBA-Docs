@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.TemplatePaths
 ms.assetid: 05ba5082-7f49-36cb-3482-2b04a876dae3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

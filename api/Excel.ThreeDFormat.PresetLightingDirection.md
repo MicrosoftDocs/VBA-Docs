@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.PresetLightingDirection
 ms.assetid: 5aea55a7-1718-a741-fc9b-f3e402469651
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

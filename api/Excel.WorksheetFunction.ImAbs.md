@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImAbs
 ms.assetid: 630fc586-8899-59e2-dde9-629c08f2b8eb
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

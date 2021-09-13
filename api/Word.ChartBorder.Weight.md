@@ -8,7 +8,7 @@ api_name:
 - Word.ChartBorder.Weight
 ms.assetid: f1fc8001-0437-0e4c-d158-8aed3d254360
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

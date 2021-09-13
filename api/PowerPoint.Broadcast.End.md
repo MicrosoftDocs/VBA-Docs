@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Broadcast.End
 ms.assetid: b4ccda97-aa08-77ff-3a2f-8600721a55b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

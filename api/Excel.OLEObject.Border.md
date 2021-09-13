@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Border
 ms.assetid: a58c5519-461d-6974-02a8-5b8a30b9d561
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

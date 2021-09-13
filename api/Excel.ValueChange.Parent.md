@@ -8,7 +8,7 @@ api_name:
 - Excel.ValueChange.Parent
 ms.assetid: 386e01d9-1e88-861a-c6f2-7658f3f53903
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

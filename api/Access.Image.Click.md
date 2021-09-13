@@ -8,7 +8,7 @@ api_name:
 - Access.Image.Click
 ms.assetid: 1bca7597-b536-908e-c3fd-25f9dd5e1ab8
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

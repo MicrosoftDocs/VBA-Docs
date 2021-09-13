@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.Z
 ms.assetid: 7f4de241-5544-ac97-3bb6-0d84751c1cf7
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

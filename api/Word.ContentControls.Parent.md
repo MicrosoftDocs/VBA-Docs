@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControls.Parent
 ms.assetid: ddaa995a-1fad-516a-823d-de67806dbfa3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

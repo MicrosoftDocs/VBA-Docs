@@ -8,7 +8,7 @@ api_name:
 - Office.WebPageFont.ProportionalFontSize
 ms.assetid: b51333ff-5017-8533-ea74-3a104ed67dd8
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

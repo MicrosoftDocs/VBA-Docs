@@ -3,7 +3,7 @@ title: Task.IsFinishValid property (Project)
 ms.prod: project-server
 ms.assetid: 13981c95-28fc-7b2f-d8b2-5b235bbe684e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

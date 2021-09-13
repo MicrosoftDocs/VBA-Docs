@@ -8,7 +8,7 @@ api_name:
 - Word.Email.CurrentEmailAuthor
 ms.assetid: a317b265-f712-2954-aeaf-3a17da38d380
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

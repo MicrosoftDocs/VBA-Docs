@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey.Shadow
 ms.assetid: f36ae7fa-1a5c-1706-fca3-10b1f57dcd7a
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

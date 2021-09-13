@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.HasDataLabel
 ms.assetid: 924f70a0-fdeb-e155-c857-55e0dfb7ca60
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

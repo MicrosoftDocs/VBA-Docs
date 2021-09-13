@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.FindNext
 ms.assetid: 7edd2936-85d2-27f1-e72e-2408338fa740
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

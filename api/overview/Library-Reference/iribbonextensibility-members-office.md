@@ -3,7 +3,7 @@ title: IRibbonExtensibility members (Office)
 ms.prod: office
 ms.assetid: 8d8ecf4f-5502-1876-46af-381078c7710e
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

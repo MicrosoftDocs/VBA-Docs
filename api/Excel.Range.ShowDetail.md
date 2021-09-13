@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ShowDetail
 ms.assetid: 1908af55-f61a-2a0f-d828-350e9a680377
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

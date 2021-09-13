@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.BorderStyle
 ms.assetid: ba7b7eb5-5f1c-addd-483f-a3104a50115b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

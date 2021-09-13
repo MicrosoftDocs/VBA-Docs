@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.Duplicate
 ms.assetid: 83156999-7867-05c2-9e85-4cc0f580ac6e
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

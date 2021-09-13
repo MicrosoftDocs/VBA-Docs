@@ -3,7 +3,7 @@ title: TextBox.Text Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: fbd89972-8313-b21a-dbe5-f03b093c9ff4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

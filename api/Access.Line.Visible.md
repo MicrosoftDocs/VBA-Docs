@@ -8,7 +8,7 @@ api_name:
 - Access.Line.Visible
 ms.assetid: ac50ead5-9b85-8fcd-070f-d13b99a315fb
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

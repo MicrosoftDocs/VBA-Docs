@@ -8,7 +8,7 @@ api_name:
 - Word.LinkFormat.AutoUpdate
 ms.assetid: 39525118-e17e-d19e-33b8-98dc52d895f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

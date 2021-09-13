@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.BusinessCardType
 ms.assetid: 57de9454-83e0-976f-cb69-d472bfd9fb3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

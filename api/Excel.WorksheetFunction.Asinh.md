@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Asinh
 ms.assetid: cd10bb5e-8f4f-c619-8e70-bb437a6cd86d
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

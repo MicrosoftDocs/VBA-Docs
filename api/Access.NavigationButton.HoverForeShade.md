@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.HoverForeShade
 ms.assetid: cc98ba4b-1237-cfd7-fb44-983f0d56e512
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

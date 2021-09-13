@@ -8,7 +8,7 @@ api_name:
 - Access.AccessObject.IsDependentUpon
 ms.assetid: aba465c5-4176-c69a-8eb8-1a6737b6d8cf
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

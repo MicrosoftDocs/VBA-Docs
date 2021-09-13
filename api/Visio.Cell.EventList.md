@@ -8,7 +8,7 @@ api_name:
 - Visio.Cell.EventList
 ms.assetid: d88186f6-ecf6-c645-5250-46e07862a745
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

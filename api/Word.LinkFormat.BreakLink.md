@@ -8,7 +8,7 @@ api_name:
 - Word.LinkFormat.BreakLink
 ms.assetid: 19f5f0b5-2536-b6d1-4476-4d46f3d7484e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

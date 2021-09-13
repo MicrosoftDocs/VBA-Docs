@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.OnDblClick
 ms.assetid: 19b575b9-a727-85e0-f5c3-c4ebe3bbd987
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

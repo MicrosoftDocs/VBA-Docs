@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnLoad
 ms.assetid: b9ce7eaf-3f52-4cdf-a8eb-74f242c6b526
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

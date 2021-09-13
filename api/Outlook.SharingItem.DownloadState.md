@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.DownloadState
 ms.assetid: cc34148c-3b57-cb71-5027-b8f530286fb2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

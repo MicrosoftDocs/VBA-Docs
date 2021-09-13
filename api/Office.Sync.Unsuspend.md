@@ -8,7 +8,7 @@ api_name:
 - Office.Sync.Unsuspend
 ms.assetid: 456a5f22-30bf-224d-7e3c-092711188f80
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

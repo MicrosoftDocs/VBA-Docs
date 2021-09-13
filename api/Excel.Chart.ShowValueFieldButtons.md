@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ShowValueFieldButtons
 ms.assetid: 7997b313-ce87-95eb-3d1e-b9b7b6eda84b
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

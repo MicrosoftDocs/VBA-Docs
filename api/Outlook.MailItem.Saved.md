@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.Saved
 ms.assetid: 54a436a6-3da4-89d0-e1a6-db45c3732d95
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

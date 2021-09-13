@@ -8,7 +8,7 @@ api_name:
 - Visio.MouseEvent.Window
 ms.assetid: 8935d013-26d4-c6a6-805e-6606444d1d1e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

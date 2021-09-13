@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Pi
 ms.assetid: b19bc395-1eaf-1dba-b14f-8ae8fbb6b16f
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarPopup.OLEMenuGroup
 ms.assetid: 32b1bc39-19bc-d0ed-59b5-2e7fa03f329e
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

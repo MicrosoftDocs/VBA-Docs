@@ -9,7 +9,7 @@ api_name:
 - Word.Application.CommandBars
 ms.assetid: 1082697d-edc8-c619-40d1-466d2ebf3817
 ms.date: 07/20/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

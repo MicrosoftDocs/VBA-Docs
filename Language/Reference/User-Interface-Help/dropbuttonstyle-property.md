@@ -8,7 +8,7 @@ api_name:
 - Office.DropButtonStyle
 ms.assetid: 14d5061f-1267-64b5-5734-65febe6e584c
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

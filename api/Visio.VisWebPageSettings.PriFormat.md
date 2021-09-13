@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.PriFormat
 ms.assetid: 84c7c085-0f12-f25d-bf17-646cc8b7cd97
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

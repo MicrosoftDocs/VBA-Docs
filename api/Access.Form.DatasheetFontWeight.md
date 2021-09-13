@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetFontWeight
 ms.assetid: 6dd2c6d3-1f27-8b86-abf5-f5581fbe7d23
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

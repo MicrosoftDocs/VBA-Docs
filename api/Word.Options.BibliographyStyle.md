@@ -8,7 +8,7 @@ api_name:
 - Word.Options.BibliographyStyle
 ms.assetid: e0f77139-b71c-d249-96f0-febc6abd385b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

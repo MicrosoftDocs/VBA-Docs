@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendline.Name
 ms.assetid: 440ea1dc-94a7-7b0f-0193-e0b9ca65ec63
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

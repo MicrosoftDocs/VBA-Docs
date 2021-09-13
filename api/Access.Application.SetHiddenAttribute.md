@@ -8,7 +8,7 @@ api_name:
 - Access.Application.SetHiddenAttribute
 ms.assetid: b92a1edc-033a-095c-980f-852b8f7e0785
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationGroups.NavigationFolderRemove
 ms.assetid: 1ea9f463-2ddd-32ef-31d6-e6257b9b34cf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

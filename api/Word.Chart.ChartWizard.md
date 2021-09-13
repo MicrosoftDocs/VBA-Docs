@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.ChartWizard
 ms.assetid: 5c4c4cb1-3ef7-e3c3-d441-6f92cb8e7771
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

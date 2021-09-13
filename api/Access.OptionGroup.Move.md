@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Move
 ms.assetid: 49f4a11d-ab81-7b81-cb28-904eba61048c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

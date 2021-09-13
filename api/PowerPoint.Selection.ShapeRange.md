@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Selection.ShapeRange
 ms.assetid: 3fd7aed0-ab63-adaa-1a46-c745b6c3e245
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

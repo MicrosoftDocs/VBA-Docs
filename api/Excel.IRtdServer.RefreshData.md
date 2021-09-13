@@ -8,7 +8,7 @@ api_name:
 - Excel.IRtdServer.RefreshData
 ms.assetid: 42a2ad6f-a413-6b09-ca38-3369475e1cd5
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Name.ShortcutKey
 ms.assetid: ff763568-4c18-9414-45a7-bcf75b597261
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

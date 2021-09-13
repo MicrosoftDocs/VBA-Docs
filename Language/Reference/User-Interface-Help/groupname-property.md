@@ -8,7 +8,7 @@ api_name:
 - Office.GroupName
 ms.assetid: ae7312e7-3125-3110-1c90-bb87c4453e32
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.StyleDeleteCanceled
 ms.assetid: e41c45b9-e9eb-4f3f-bbda-05febb25e0c6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.FillFormat.GradientStyle
 ms.assetid: dca37bf2-1219-d815-7584-97a8665e3420
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

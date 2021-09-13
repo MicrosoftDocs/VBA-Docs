@@ -5,7 +5,7 @@ api_name:
 - Office.SharedWorkspaceFiles.Creator
 ms.assetid: e5d5aff6-e658-daff-da59-c7e74b727eba
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

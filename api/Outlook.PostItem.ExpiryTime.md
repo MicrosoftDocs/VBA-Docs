@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.ExpiryTime
 ms.assetid: 2e6c6759-64b2-7559-6b19-7440e2a359d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

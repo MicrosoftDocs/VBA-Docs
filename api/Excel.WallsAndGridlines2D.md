@@ -8,7 +8,7 @@ api_name:
 - Excel.WallsAndGridlines2D
 ms.assetid: 1ea9d256-926d-093f-07b5-f80904a34636
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

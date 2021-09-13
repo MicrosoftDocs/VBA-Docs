@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.InnerDetail
 ms.assetid: 385449ab-fbe2-8b69-374e-a5d374a3f76f
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

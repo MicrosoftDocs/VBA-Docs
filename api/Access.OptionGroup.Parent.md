@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Parent
 ms.assetid: 882e6786-a8c3-d865-675d-a97e3143a8ab
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

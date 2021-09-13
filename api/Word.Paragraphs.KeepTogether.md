@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.KeepTogether
 ms.assetid: 9134a865-5157-a911-417e-190f8b2072cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

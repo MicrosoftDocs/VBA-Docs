@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.OutsideLineStyle
 ms.assetid: 13e9dfa7-6168-c217-b1bb-eebc81a40fbd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

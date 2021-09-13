@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenFunction
 ms.assetid: 56168394-9e83-f620-8b5e-680e824ec941
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

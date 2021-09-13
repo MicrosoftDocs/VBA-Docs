@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ReadingOrder
 ms.assetid: 9af8afab-e253-01d4-f79c-01bfa9d8e60b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

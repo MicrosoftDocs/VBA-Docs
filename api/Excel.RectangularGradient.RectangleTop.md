@@ -8,7 +8,7 @@ api_name:
 - Excel.RectangularGradient.RectangleTop
 ms.assetid: ecdfba38-50da-7e85-f75a-caa5301b4330
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

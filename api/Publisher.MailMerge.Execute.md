@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMerge.Execute
 ms.assetid: edcabcc5-f2ce-53ce-d422-0d6fcb5f8a33
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

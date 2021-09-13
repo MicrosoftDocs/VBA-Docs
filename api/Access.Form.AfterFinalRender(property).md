@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AfterFinalRender
 ms.assetid: c6e294f8-8cd9-1413-eff8-f2b033766326
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

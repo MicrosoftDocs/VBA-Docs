@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SpellingCheck
 ms.assetid: e9eea1ad-f2c1-7683-2c09-802a0d33fcec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

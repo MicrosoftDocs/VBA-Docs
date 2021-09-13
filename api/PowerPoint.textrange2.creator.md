@@ -3,7 +3,7 @@ title: TextRange2.Creator property (PowerPoint)
 ms.assetid: fe646c57-3620-462d-b91f-93eb90a49b30
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

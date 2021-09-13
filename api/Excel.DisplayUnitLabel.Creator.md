@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Creator
 ms.assetid: 8150429a-3533-6681-36cf-22db6196610f
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

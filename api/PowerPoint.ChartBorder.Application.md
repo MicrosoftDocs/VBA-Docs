@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartBorder.Application
 ms.assetid: d13374e6-ff65-4cca-fe49-5abb6a4b9a77
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

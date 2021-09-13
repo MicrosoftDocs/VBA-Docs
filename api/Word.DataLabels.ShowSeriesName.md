@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabels.ShowSeriesName
 ms.assetid: 51064a11-512b-d49d-86c1-1839da0576a4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

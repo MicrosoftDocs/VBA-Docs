@@ -8,7 +8,7 @@ api_name:
 - Word.XMLSchemaReferences.Add
 ms.assetid: fe6fa7d5-287a-f79f-b83b-fc182002504a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

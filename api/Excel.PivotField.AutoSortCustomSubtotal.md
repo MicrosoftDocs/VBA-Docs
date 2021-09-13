@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.AutoSortCustomSubtotal
 ms.assetid: 9f930467-25ca-bf09-da3e-da7d3c9e6b70
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

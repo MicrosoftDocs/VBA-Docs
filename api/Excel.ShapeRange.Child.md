@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Child
 ms.assetid: ce25e66e-6446-1c43-1ab5-0ec486311ef2
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

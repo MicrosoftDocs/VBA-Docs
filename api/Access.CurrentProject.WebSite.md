@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentProject.WebSite
 ms.assetid: ab2cc5f8-bd24-9f88-2598-1d8e6c71895e
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

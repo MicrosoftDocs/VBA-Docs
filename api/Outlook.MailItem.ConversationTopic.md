@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.ConversationTopic
 ms.assetid: d5625f97-3929-95e8-cdaf-6e555cdf9c2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

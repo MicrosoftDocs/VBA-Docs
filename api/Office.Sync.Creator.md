@@ -5,7 +5,7 @@ api_name:
 - Office.Sync.Creator
 ms.assetid: c12c2c8f-a94d-e673-d528-0eaf68e75f35
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

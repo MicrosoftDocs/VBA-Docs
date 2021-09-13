@@ -8,7 +8,7 @@ api_name:
 - Word.View.Magnifier
 ms.assetid: a195490b-a84d-78cb-f834-f154063c1021
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

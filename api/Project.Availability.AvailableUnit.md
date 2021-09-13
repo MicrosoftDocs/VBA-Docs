@@ -5,7 +5,7 @@ api_name:
 - Project.Availability.AvailableUnit
 ms.assetid: a22d2325-e512-08c5-608f-0fadce9d33e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

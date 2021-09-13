@@ -3,7 +3,7 @@ title: DataSpace object and CreateObject method example (VBScript)
 ms.prod: access
 ms.assetid: 0132996b-e3e1-4dbe-95dc-4313824669b7
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

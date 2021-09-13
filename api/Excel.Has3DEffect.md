@@ -8,7 +8,7 @@ api_name:
 - Excel.Has3DEffect
 ms.assetid: e19f4d47-ca7b-ea70-01eb-ced3c1dd343f
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

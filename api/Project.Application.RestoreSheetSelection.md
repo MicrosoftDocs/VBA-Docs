@@ -8,7 +8,7 @@ api_name:
 - Project.Application.RestoreSheetSelection
 ms.assetid: cbc4dd00-4055-b505-661b-e2c0276335b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

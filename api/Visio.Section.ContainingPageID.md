@@ -8,7 +8,7 @@ api_name:
 - Visio.Section.ContainingPageID
 ms.assetid: 9c32b32a-7052-be2c-ee2a-fc145be626eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

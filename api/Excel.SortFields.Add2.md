@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SortFields.Add2
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # SortFields.Add2 method (Excel)

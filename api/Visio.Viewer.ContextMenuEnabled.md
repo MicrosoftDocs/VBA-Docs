@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ContextMenuEnabled
 ms.assetid: 0617d59d-59ed-4012-7dc5-d0aa8be8d110
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

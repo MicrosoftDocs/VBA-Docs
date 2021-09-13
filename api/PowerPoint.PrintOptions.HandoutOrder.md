@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PrintOptions.HandoutOrder
 ms.assetid: d71782ef-42d6-6dd4-6812-3463d41e8173
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

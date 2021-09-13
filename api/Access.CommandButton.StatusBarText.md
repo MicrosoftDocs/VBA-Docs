@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.StatusBarText
 ms.assetid: 2dc18f10-0b6f-2ae5-21c6-52c6d21ff03b
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

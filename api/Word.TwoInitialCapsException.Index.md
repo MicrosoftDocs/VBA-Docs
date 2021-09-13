@@ -8,7 +8,7 @@ api_name:
 - Word.TwoInitialCapsException.Index
 ms.assetid: e49dfa05-1c54-19a3-6621-029536fa91dd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

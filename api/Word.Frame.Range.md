@@ -8,7 +8,7 @@ api_name:
 - Word.Frame.Range
 ms.assetid: b1094be5-953c-8f36-8c78-2bdd521c8ac4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

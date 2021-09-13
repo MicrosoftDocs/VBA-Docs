@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.DistanceFrom
 ms.assetid: 316858c5-51b0-1cc0-407f-0bee7d48aaae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

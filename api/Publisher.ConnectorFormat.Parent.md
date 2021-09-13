@@ -8,7 +8,7 @@ api_name:
 - Publisher.ConnectorFormat.Parent
 ms.assetid: c6401c5a-3aaf-4c98-0ebf-58988eefbb7f
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

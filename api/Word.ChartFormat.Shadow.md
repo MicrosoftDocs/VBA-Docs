@@ -8,7 +8,7 @@ api_name:
 - Word.ChartFormat.Shadow
 ms.assetid: c2f88d68-4294-9da9-0d45-24f8df9e50af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

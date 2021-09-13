@@ -8,7 +8,7 @@ api_name:
 - Word.OMathEqArray.E
 ms.assetid: ec7d54fd-0b2d-ef17-978d-7ebbf7a0f5ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

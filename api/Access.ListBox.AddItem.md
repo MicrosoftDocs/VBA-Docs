@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.AddItem
 ms.assetid: dab0c3e4-8ecc-774b-4c7e-f973eb4c1516
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

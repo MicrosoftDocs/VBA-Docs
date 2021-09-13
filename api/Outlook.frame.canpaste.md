@@ -3,7 +3,7 @@ title: Frame.CanPaste Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 520b845a-289f-9ed0-5af1-b5435462e027
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

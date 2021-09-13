@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.PageSetup
 ms.assetid: 81327801-ad21-967c-9682-54a847f79e29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

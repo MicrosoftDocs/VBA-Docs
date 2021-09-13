@@ -8,7 +8,7 @@ api_name:
 - Excel.TickLabels.Offset
 ms.assetid: a353b803-34a3-0ff9-83d2-3318c308ec35
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

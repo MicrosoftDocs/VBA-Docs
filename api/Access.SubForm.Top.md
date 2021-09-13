@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.Top
 ms.assetid: c5ffd8bb-479d-81a2-cfbb-67ae1bbd2cd5
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

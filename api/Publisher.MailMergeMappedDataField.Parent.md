@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeMappedDataField.Parent
 ms.assetid: 70c81e84-4b67-835a-af1d-9a9db5068a2b
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.GroupCriteria2.AddEx
 ms.assetid: 8474aa63-bf63-be29-86ef-177d8105e105
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

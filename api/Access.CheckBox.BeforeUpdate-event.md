@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.BeforeUpdate
 ms.assetid: cc0951d0-8772-8d76-5eb6-0507026587eb
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

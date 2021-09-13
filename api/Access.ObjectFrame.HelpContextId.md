@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.HelpContextId
 ms.assetid: 85fa8d67-b0ff-129d-b689-ceca69e8b487
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

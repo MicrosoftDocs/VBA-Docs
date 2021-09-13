@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.LastModificationTime
 ms.assetid: d59018c1-2d32-9081-9e65-8a4627c62ab4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

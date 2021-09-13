@@ -8,7 +8,7 @@ api_name:
 - Office.MultiRow
 ms.assetid: 2030addd-5a90-e94f-9647-a4aa50e68690
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

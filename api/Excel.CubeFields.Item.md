@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeFields.Item
 ms.assetid: d068ccda-13e0-9938-7945-e8639e79d089
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.PasswordEncryptionAlgorithm
 ms.assetid: 5317832f-936b-5c3b-5acc-6c067563acd6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

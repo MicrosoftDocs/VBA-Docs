@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.FormulaChanged
 ms.assetid: 6d2a9ab6-778e-cbba-0b63-f7d38116dc85
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

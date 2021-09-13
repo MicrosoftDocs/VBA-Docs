@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.ListBulletText
 ms.assetid: fa80957a-be91-398f-a24f-5a0449a9466f
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

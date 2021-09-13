@@ -8,7 +8,7 @@ api_name:
 - Excel.MinorUnitIsAuto
 ms.assetid: ca6a18d5-f93f-4801-7704-4d3a25b633cb
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

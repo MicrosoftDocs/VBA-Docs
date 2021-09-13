@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Height
 ms.assetid: f0b715ff-a1d4-4040-59e6-818705042691
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

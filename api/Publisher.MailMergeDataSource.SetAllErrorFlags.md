@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 17c41fbb-3b21-c31a-63cd-ed26065bfa79
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

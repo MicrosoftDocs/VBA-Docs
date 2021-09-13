@@ -8,7 +8,7 @@ api_name:
 - Word.FillFormat.GradientDegree
 ms.assetid: c9fba9b0-cfbb-4cf1-c416-5886c77098fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

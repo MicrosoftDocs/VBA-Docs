@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkHorizontalAxis.IsDateAxis
 ms.assetid: eb6b66ca-c5f1-15ec-ef3f-c748698e4dad
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.Requery
 ms.assetid: acbd946a-bb2c-e205-9f81-54e034a26e0a
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

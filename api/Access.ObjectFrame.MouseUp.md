@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.MouseUp
 ms.assetid: 0f818329-7817-d62f-2ccd-a35232cf67dc
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

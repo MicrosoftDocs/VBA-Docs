@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.MarginBottom
 ms.assetid: 36847492-45d4-5856-383c-291ca6d64a7e
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

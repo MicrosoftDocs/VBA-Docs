@@ -5,7 +5,7 @@ api_name:
 - Office.TextFrame2.NoTextRotation
 ms.assetid: a20eae43-cc72-5dc5-c240-a3e9f7aa3a18
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

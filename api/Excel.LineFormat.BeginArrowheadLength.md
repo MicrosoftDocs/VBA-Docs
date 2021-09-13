@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.BeginArrowheadLength
 ms.assetid: 7116965a-601c-46b5-9cb6-6cd339cccb80
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

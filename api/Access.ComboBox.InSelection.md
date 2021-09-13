@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.InSelection
 ms.assetid: 0e0bf471-8d24-52a8-c14c-3e4441a2fc8d
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

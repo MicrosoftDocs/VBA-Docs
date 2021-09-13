@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Height
 ms.assetid: de6a638d-c197-a35b-130e-a9507d1b918e
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

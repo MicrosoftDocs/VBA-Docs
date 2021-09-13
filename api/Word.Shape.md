@@ -8,7 +8,7 @@ api_name:
 - Word.Shape
 ms.assetid: 604029ce-9b2f-9748-5d4e-b458796fa2f0
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

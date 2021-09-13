@@ -8,7 +8,7 @@ api_name:
 - Access.Form.WindowHeight
 ms.assetid: 53af4131-a174-c0c3-db29-f0f0cabb4b05
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

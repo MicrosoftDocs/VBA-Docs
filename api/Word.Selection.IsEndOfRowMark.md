@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.IsEndOfRowMark
 ms.assetid: 0729a8f2-628c-902b-fca1-488742234873
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

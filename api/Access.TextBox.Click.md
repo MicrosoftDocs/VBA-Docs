@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Click
 ms.assetid: d102a526-2051-3a36-0f7a-fc234f126c47
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

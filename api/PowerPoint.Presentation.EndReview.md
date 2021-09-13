@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.EndReview
 ms.assetid: c77350c1-7bb5-c122-4ed2-2b2f504b517d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

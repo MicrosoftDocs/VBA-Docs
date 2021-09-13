@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.MultiRow
 ms.assetid: b5c3a830-d0df-7cbc-c83b-4b93bced8cd7
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

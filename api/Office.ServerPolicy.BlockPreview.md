@@ -8,7 +8,7 @@ api_name:
 - Office.ServerPolicy.BlockPreview
 ms.assetid: a211ccbe-ee3e-168f-1f2f-15a1eddc876d
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

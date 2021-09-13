@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.SenderInitials
 ms.assetid: 8c2bdb64-840f-c442-a7b6-28c756701c30
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

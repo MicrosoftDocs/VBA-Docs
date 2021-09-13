@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayStatusBar
 ms.assetid: bf70a679-bd50-cce7-0dc0-0dc57835038c
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

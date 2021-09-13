@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.OldBorderStyle
 ms.assetid: 255ec4d3-dff4-d63e-38a1-ad9a36e08104
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

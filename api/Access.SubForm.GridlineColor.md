@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.GridlineColor
 ms.assetid: 4b4ea587-e1b1-37f5-81e8-a0b26d62568e
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

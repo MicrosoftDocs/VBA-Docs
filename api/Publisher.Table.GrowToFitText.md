@@ -8,7 +8,7 @@ api_name:
 - Publisher.Table.GrowToFitText
 ms.assetid: d8822df7-a252-a5bb-be26-83df8ec5eb94
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

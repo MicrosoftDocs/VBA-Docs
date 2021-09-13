@@ -8,7 +8,7 @@ api_name:
 - Office.SearchFolders.Add
 ms.assetid: 2ed409a3-d57a-bfc5-ceb3-a7ef4b89b345
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

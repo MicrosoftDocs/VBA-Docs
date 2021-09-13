@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.SetFormulas
 ms.assetid: fb419eb5-6bd3-cfc7-d358-cef9e68dddbf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Replacement.Frame
 ms.assetid: 70c7da24-effd-7db8-f3be-e866577eb88a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.ScaleLeft
 ms.assetid: 1e20b9ca-5b5b-2b05-431e-1957f5c70524
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

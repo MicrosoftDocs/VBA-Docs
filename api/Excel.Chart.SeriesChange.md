@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.SeriesChange
 ms.assetid: 80a8058c-0445-0051-24d1-1a965c302790
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

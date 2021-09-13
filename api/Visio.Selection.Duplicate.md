@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Duplicate
 ms.assetid: 515b522c-8b99-ea51-822f-47f0de24d330
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

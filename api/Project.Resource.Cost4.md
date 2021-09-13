@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Cost4
 ms.assetid: 3a256054-21fe-0c3d-1b8a-075216b6d20f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WebOptions.Encoding
 ms.assetid: 99395ad8-4503-eac2-b194-6a4706e5264d
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

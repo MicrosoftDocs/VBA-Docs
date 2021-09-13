@@ -5,7 +5,7 @@ api_name:
 - Office.SmartDocument.Creator
 ms.assetid: e0928b40-f565-e063-83f4-f730c41ca77e
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

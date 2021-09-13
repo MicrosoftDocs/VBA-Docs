@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.ChartStyle
 ms.assetid: 53db7507-4fbf-15af-ea31-7ce5466f58f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

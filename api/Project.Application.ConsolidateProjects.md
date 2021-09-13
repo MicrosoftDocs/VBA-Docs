@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ConsolidateProjects
 ms.assetid: 6f1f719c-09c0-076f-4680-24ac26a6538d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

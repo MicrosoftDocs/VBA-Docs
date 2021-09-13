@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.MailMergeBeforeMerge
 ms.assetid: 735ef282-e99f-b3f2-c509-b180bea30d36
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

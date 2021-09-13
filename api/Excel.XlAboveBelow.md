@@ -5,7 +5,7 @@ api_name:
 - Excel.xlAboveBelow
 ms.assetid: 234b7c1c-c06f-94dd-df89-61911353a727
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

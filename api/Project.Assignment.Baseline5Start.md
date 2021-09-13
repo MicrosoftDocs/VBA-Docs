@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Baseline5Start
 ms.assetid: 4d2a1a50-5e71-78b2-f2d6-55dc0bca7494
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

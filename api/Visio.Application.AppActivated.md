@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.AppActivated
 ms.assetid: 150864ab-574a-6556-a56a-8ca619796062
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

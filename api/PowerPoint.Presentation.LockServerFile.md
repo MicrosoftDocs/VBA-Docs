@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.LockServerFile
 ms.assetid: 4d32b87c-d461-392b-f267-cd2643f65fcb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

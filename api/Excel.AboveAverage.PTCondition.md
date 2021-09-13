@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.PTCondition
 ms.assetid: 58a7c3ce-f4dc-f003-5071-8becc3d82564
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

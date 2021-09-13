@@ -5,7 +5,7 @@ api_name:
 - Office.MsoFilterConjunction
 ms.assetid: b111c84f-eff0-aa97-8b9c-3b0c7849f695
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

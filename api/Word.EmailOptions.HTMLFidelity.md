@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.HTMLFidelity
 ms.assetid: 4b9107af-9af5-7691-9237-c3173c71fcd4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

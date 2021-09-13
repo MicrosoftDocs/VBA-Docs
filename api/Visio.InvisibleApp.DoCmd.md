@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.DoCmd
 ms.assetid: d38786e8-5511-a489-937a-4fb9cd3fc502
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

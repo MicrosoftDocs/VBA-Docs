@@ -3,7 +3,7 @@ title: Recordset and SourceRecordset properties example (VBScript)
 ms.prod: access
 ms.assetid: 235118ce-8468-18b1-ff49-8739fde69427
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

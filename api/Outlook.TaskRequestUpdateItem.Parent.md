@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestUpdateItem.Parent
 ms.assetid: c7fe56d6-42b4-3889-8336-36d4235138dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlFormatPercent
 ms.assetid: f04c47fd-41b8-b593-63c8-b40ac28956b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

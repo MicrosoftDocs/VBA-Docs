@@ -5,7 +5,7 @@ api_name:
 - Outlook.DocumentItem.BeforeAttachmentPreview
 ms.assetid: 687c0c41-c423-a30f-3fb6-562c2ab76f0c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

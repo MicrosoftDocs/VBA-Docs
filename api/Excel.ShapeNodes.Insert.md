@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeNodes.Insert
 ms.assetid: b4f7e695-2102-5cbd-2d6b-bc167407cc0f
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Characters.Parent
 ms.assetid: 6c0dac76-03b6-8c55-1cb3-f88211c81f27
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

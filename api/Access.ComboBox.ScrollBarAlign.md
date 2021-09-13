@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ScrollBarAlign
 ms.assetid: ded4533c-2879-d57f-b6ff-cccd20a88090
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

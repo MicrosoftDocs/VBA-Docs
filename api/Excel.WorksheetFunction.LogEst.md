@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.LogEst
 ms.assetid: 1730086d-5d14-4d9f-dc0e-5186cf932099
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

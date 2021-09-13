@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ForeColor
 ms.assetid: bbc345ab-fd78-3e30-b2d6-d0a43291f576
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

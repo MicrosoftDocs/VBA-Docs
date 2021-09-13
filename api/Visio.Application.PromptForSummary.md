@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.PromptForSummary
 ms.assetid: 6250acdc-ed15-5d07-cbbe-8a4b400d775d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

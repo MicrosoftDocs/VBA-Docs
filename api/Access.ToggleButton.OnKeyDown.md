@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OnKeyDown
 ms.assetid: b6a167f8-a6a3-a0b1-e04f-7bf1b595c318
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SmartDocument.PickSolution
 ms.assetid: ea50c7a4-4b52-10c4-8b1a-86c7ef80dec1
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

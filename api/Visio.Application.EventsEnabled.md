@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.EventsEnabled
 ms.assetid: 92775825-c17d-fd4f-a315-7a181d75aed5
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

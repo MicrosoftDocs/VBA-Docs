@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.InSelection
 ms.assetid: 326f62af-fd2c-2884-966d-ad6b08132ee7
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

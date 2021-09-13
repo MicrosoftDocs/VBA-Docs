@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.PressedColor
 ms.assetid: 63df3f05-fa03-013c-78f0-c72c97e72ea6
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

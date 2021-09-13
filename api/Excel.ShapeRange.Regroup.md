@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Regroup
 ms.assetid: d30d3064-c37e-84b0-10a6-11dcd18c593e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

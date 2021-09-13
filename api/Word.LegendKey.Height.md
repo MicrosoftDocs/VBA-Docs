@@ -8,7 +8,7 @@ api_name:
 - Word.LegendKey.Height
 ms.assetid: 0fa15ff7-f630-2d2e-e272-69a64b2b5dd3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

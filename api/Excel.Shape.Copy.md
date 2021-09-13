@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Copy
 ms.assetid: c3092b9f-6a37-814e-8571-bc5eb3aaa21e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

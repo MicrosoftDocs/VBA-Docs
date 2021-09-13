@@ -8,7 +8,7 @@ api_name:
 - Word.SeriesCollection.Count
 ms.assetid: 9a79979f-2cd8-c5f9-92aa-f7a9ed80089e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

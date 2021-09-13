@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCache.Delete
 ms.assetid: 34bc2dce-5286-deb2-995d-c64f146a2cd7
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

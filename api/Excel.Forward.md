@@ -8,7 +8,7 @@ api_name:
 - Excel.Forward
 ms.assetid: 6a2e78d9-12ca-160a-7154-4968054f6b72
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

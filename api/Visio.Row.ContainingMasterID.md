@@ -8,7 +8,7 @@ api_name:
 - Visio.Row.ContainingMasterID
 ms.assetid: 12832d29-2eaf-ce37-fb30-ce2de24b140c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

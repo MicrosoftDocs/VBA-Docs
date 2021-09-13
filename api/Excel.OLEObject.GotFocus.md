@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.GotFocus
 ms.assetid: 2bd9a3d8-9305-2354-5ddd-262f4720b444
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

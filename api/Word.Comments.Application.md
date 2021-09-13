@@ -8,7 +8,7 @@ api_name:
 - Word.Comments.Application
 ms.assetid: 296fb824-b0b2-dce4-2d34-081c4fd5ab00
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.IsVisible
 ms.assetid: ef61a89d-69a3-2428-352a-10bfe1b39c47
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

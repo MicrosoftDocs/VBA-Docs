@@ -8,7 +8,7 @@ api_name:
 - Office.ScopeFolder.AddToSearchFolders
 ms.assetid: e77e2406-b709-0f3e-736d-2fd56c7447e1
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

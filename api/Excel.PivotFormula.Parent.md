@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFormula.Parent
 ms.assetid: d284b184-bfbd-4c7f-874f-58e8146d171c
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

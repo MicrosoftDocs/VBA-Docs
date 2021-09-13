@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.Delete
 ms.assetid: 434d5963-7099-0ec4-0ab9-88c91d793eee
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

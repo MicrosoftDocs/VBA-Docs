@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnGotFocus
 ms.assetid: a25aa4f5-8ac6-86e9-d8de-725072a77007
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Word.WdInternationalIndex
 ms.assetid: 1a66f0c8-8b91-a44c-88dd-b0ca8033df72
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

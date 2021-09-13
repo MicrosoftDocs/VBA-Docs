@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: e37ff08f-5c09-0a71-27e1-e2a332147087
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

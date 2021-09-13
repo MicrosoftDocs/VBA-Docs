@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.KeyPress
 ms.assetid: 1112052d-c5b4-75fd-b76e-79c247910201
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.FieldCategory
 ms.assetid: b9c1ecca-ae27-83b8-862d-e8677f8c4c9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

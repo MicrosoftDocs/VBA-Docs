@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.OptionValue
 ms.assetid: 23e170c7-21ac-4725-b54b-ad778bba9f31
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

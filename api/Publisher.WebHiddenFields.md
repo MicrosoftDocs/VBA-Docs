@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebHiddenFields
 ms.assetid: 8ced4021-fa99-39dd-e880-b9793426871f
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

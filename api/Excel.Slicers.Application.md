@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicers.Application
 ms.assetid: f3878abf-c107-8248-31cb-c1df60f52cef
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Bevel
 ms.assetid: b9bd9082-75b3-e249-a477-ce402bff1e43
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.Elevation
 ms.assetid: 2913dce4-e35a-31ff-3ea0-237c85dbad23
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

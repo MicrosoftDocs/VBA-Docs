@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.Style
 ms.assetid: def64adc-46db-a54f-539b-fbe8fcc1b22e
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

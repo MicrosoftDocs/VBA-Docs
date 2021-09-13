@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.ControlType
 ms.assetid: c41e555b-195b-7af9-f2ee-09d92980e557
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

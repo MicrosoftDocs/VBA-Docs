@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Connector
 ms.assetid: ce05006f-38b0-c04e-4a0f-dded72dfbc10
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.Visible
 ms.assetid: dc297a24-9a39-7b74-715d-e86d02c546c9
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

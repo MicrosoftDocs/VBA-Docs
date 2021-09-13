@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 08f9c7e0-0c79-e88d-8194-ede635c49f49
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Subqueries cannot be used in the expression <expression>. (Error 3203)

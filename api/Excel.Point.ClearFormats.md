@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.ClearFormats
 ms.assetid: 487bc619-209c-a0e3-a2f4-20a8b586b098
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

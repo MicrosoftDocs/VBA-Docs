@@ -8,7 +8,7 @@ api_name:
 - Access.Entity.Operations
 ms.assetid: 13113ff7-0f9d-cb50-c603-fede2aea910c
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

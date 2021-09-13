@@ -8,7 +8,7 @@ api_name:
 - Office.FileDialog.Execute
 ms.assetid: 63899b0e-51d4-f20a-b114-c713d8743527
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

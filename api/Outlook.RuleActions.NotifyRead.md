@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleActions.NotifyRead
 ms.assetid: 922a1ea7-8992-0387-e4e1-2e74d6a2cf2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

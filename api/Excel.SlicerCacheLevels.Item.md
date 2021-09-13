@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCacheLevels.Item
 ms.assetid: 4cf91d69-7489-9752-2b8e-ec5c7ce1a293
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

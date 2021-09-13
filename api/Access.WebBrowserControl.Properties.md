@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Properties
 ms.assetid: 1ede61ba-0ff4-0147-ae1b-2c45d033cf6e
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

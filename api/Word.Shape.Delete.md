@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.Delete
 ms.assetid: 7125f94f-fe82-dacf-b407-9e2bb374dbc4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

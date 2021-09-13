@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ErfC_Precise
 ms.assetid: 7ea46b1f-22cb-85e7-eda3-c283c2aa98cb
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

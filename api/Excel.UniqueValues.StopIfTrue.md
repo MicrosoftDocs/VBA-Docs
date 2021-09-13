@@ -8,7 +8,7 @@ api_name:
 - Excel.UniqueValues.StopIfTrue
 ms.assetid: d739e671-af5c-d41e-4bd6-e343818afa3f
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Left
 ms.assetid: e219f939-b714-1229-f847-433d7ce6e2f6
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

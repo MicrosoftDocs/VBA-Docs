@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.ScaleWithDocHeaderFooter
 ms.assetid: bc3a0d8a-23fc-19cb-475f-78b0dbb5d1f3
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

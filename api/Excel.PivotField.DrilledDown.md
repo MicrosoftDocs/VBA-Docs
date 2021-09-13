@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.DrilledDown
 ms.assetid: 6fb6ae8b-ce41-9343-316c-d26bb1ae9630
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Filters.Application
 ms.assetid: 3cc9e318-4ede-d440-482a-430ca5d53893
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

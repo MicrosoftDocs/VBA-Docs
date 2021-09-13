@@ -8,7 +8,7 @@ api_name:
 - Office.Assert
 ms.assetid: 50bc7f70-d1d0-b23b-e449-f41815cc3178
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

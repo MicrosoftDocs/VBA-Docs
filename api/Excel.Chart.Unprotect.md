@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Unprotect
 ms.assetid: 59a367bd-037b-84aa-5b2f-d532614ed347
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

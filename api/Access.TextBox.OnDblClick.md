@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.OnDblClick
 ms.assetid: 571a01ff-b92b-bb9b-1363-43086ef71c02
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

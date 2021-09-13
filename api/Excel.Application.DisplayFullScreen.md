@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayFullScreen
 ms.assetid: b42708ea-a273-c38a-5a61-d15e26c14fed
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

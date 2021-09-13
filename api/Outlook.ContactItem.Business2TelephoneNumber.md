@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Business2TelephoneNumber
 ms.assetid: ba436db9-61e1-5913-4209-efec732c652e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

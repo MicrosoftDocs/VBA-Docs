@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Quartile_Inc
 ms.assetid: 7febaae3-28f7-5bdb-0c20-f47dfd3c4227
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

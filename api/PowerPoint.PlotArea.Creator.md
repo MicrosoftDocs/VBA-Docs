@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PlotArea.Creator
 ms.assetid: 5fe6eea5-2de6-4292-3a89-c125a8ce44a5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

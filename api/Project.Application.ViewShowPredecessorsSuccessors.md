@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ViewShowPredecessorsSuccessors
 ms.assetid: 14c92bb3-0e0a-35ac-c587-6b7c75146ff0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

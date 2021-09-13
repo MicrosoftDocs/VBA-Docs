@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Close
 ms.assetid: 3a716692-268c-39cb-82e6-53a12bbf95a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

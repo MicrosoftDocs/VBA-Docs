@@ -8,7 +8,7 @@ api_name:
 - Outlook.Reminder.Caption
 ms.assetid: b83b10f7-745c-337c-182b-74dabac65a17
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

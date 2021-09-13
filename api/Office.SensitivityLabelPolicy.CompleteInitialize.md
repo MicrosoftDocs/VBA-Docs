@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabelPolicy.CompleteInitialize
 ms.assetid: 2b7e5588-9224-42f4-88fc-39d7b7499eb2
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabelPolicy.CompleteInitialize method (Office)
 ---
 

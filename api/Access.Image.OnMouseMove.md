@@ -8,7 +8,7 @@ api_name:
 - Access.Image.OnMouseMove
 ms.assetid: 9890dd97-0025-7329-1751-82d69799510d
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.hWndAccessApp
 ms.assetid: 7a4f162a-e2de-728b-09e0-f9272ad52053
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

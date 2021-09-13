@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArts.Count
 ms.assetid: 024cd14d-80f7-7372-c550-ef804661bbae
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

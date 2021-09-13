@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalModule.Session
 ms.assetid: 416b232d-bed3-fcf5-db47-2946b5a8d244
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

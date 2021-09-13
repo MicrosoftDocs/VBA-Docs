@@ -5,7 +5,7 @@ api_name:
 - Project.PjLegacyFileFormats
 ms.assetid: 6c037bf7-2991-fb29-5649-e79547d4e2b8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

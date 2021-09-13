@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntry.Height
 ms.assetid: 519fdbf7-ce93-2572-d395-5a7668a93cde
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

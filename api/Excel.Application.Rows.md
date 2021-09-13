@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Rows
 ms.assetid: 499f6045-1334-a8f8-9a04-f1aef7908312
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

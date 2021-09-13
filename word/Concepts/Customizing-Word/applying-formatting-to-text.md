@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: c20713bb-0e67-01d4-c9d4-91415658c0d7
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 # Applying formatting to text
 

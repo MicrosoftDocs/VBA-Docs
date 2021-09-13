@@ -8,7 +8,7 @@ api_name:
 - Visio.MovedSelectionEvent.Application
 ms.assetid: fba31c9f-b18c-f6f6-d8ed-f60e82463fc9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.LayerCount
 ms.assetid: 0ebcdf53-ebf3-8e26-236f-086f2c9f3c08
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

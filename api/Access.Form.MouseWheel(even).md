@@ -8,7 +8,7 @@ api_name:
 - Access.Form.MouseWheel
 ms.assetid: eec18d43-1cee-463c-37e6-760eccb0b890
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

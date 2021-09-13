@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Visible
 ms.assetid: 4d702074-7d76-7b43-25e1-11d6a440392f
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

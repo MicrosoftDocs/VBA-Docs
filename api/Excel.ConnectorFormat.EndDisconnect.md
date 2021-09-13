@@ -8,7 +8,7 @@ api_name:
 - Excel.ConnectorFormat.EndDisconnect
 ms.assetid: 518345b5-c287-6183-93ae-61c5b56fb9a5
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AllowEditRange.Delete
 ms.assetid: 3b2dad3a-62fa-398f-b0ff-b9586b413ebd
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.Application
 ms.assetid: 8ef81060-38c0-82cd-221f-881138c0fe3e
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

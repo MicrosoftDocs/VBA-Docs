@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.LayoutID
 ms.assetid: b77ccc32-fbaf-e574-b0ae-293d6f999879
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

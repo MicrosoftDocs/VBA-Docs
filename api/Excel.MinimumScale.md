@@ -8,7 +8,7 @@ api_name:
 - Excel.MinimumScale
 ms.assetid: 4aca27ef-c1af-e74e-8ca5-6a3fc1aefaa2
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

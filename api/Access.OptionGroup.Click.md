@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Click
 ms.assetid: 7a673665-88ed-9685-d7ca-9146e224f090
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

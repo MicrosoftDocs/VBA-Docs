@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.Height
 ms.assetid: 32d5baad-2c78-02ad-7814-f703889f8a36
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

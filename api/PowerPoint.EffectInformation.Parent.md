@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.EffectInformation.Parent
 ms.assetid: 780fb3b7-8bdc-3b47-d5ce-b84c6b7c5b13
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

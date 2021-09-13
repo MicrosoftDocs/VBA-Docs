@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.Enabled
 ms.assetid: cb8b9afa-4bef-b93f-0b3d-d4a7eb7e416b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

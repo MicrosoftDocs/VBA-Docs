@@ -5,7 +5,7 @@ api_name:
 - Word.Document.SensitivityLabel
 ms.assetid: 89054432-f25e-4861-aee5-ce5468ed78c5
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Document.SensitivityLabel property (Word)
 ---
 

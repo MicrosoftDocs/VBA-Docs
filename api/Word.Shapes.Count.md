@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.Count
 ms.assetid: 427f38a3-fc4e-8e9d-cd9f-c6ebb063ffb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

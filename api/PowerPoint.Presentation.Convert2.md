@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.Convert2
 ms.assetid: 001e2e98-bbdb-05cf-da93-0a9738081f08
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

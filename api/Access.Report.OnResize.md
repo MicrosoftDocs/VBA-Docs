@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnResize
 ms.assetid: 336eceb4-7f78-b0b0-cb8f-a6a35c8bea76
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

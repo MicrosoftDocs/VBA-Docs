@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.FeatureInstall
 ms.assetid: 254fc432-9ee5-d978-19ac-5fa6f94daa94
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

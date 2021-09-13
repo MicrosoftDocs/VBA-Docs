@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CustomDocumentProperties
 ms.assetid: 8470adbb-5b10-96ba-71f7-c667c33b6707
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

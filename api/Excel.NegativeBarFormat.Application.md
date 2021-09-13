@@ -8,7 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.Application
 ms.assetid: 12a8b047-9840-381d-8614-37967470118f
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

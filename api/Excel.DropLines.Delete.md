@@ -8,7 +8,7 @@ api_name:
 - Excel.DropLines.Delete
 ms.assetid: c02ab83f-498b-8358-b840-b369fb1b6c1b
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

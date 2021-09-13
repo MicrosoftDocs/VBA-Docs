@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Confidence_T
 ms.assetid: b4e497b6-bf5a-5630-3092-d806012e0c97
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

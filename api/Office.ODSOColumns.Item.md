@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOColumns.Item
 ms.assetid: be6035d4-aac3-879d-ab87-2aa57a70756c
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

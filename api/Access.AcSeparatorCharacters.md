@@ -8,7 +8,7 @@ api_name:
 - Access.AcSeparatorCharacters
 ms.assetid: f6f0c881-d092-b68a-ea1f-bd4e28b730a8
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

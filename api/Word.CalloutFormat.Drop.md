@@ -8,7 +8,7 @@ api_name:
 - Word.CalloutFormat.Drop
 ms.assetid: e68a15a5-a976-bb70-f11f-f7eec126bb0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

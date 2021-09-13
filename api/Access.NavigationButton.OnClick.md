@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.OnClick
 ms.assetid: 8011ea46-129e-4194-7b2f-e577378111c7
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

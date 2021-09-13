@@ -8,7 +8,7 @@ api_name:
 - Word.Rows.ConvertToText
 ms.assetid: 36b763f2-807b-53c0-e7ff-42b63bd356dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

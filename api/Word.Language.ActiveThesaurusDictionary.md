@@ -8,7 +8,7 @@ api_name:
 - Word.Language.ActiveThesaurusDictionary
 ms.assetid: 2fedc56e-e694-56a7-0ce9-7ff45c6cbed1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

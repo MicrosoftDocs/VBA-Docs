@@ -8,7 +8,7 @@ api_name:
 - Access.Image.BorderStyle
 ms.assetid: bec20ddf-359c-d684-6561-130c830ef62f
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

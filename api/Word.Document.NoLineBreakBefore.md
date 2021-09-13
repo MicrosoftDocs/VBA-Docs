@@ -8,7 +8,7 @@ api_name:
 - Word.Document.NoLineBreakBefore
 ms.assetid: 03d4bb24-1941-5f12-f9e5-bccdda37fb33
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.GapDepth
 ms.assetid: e25fdb39-735f-6158-2628-b0696c08b733
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TabStop.Position
 ms.assetid: f44ce39b-34e6-992b-fe50-be53bd6f53bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

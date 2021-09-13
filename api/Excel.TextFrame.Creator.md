@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame.Creator
 ms.assetid: 7aa570dc-1a79-40b4-f6ad-ea71dae97110
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

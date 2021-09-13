@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowComments
 ms.assetid: 01d688e8-9a5c-acd3-1626-d45a24a6b3b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

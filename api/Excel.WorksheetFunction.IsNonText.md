@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsNonText
 ms.assetid: d6260ebc-7fdb-c79a-1031-737e99b7695b
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 363c3150-fa6d-fcb3-d61d-00a36b528387
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.HelpContextId
 ms.assetid: 87ac2391-64d5-5257-d7e8-2ce45b37eeb7
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

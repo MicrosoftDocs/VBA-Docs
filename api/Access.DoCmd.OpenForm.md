@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenForm
 ms.assetid: a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0
 ms.date: 03/07/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

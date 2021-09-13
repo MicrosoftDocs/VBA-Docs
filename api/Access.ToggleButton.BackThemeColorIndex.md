@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.BackThemeColorIndex
 ms.assetid: 9d8c3d6d-e992-b1a6-b005-487270e1fe43
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

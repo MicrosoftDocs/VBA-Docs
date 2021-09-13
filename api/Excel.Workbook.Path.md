@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Path
 ms.assetid: f4cbf76a-2ed3-63b7-3262-45403d6f086e
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

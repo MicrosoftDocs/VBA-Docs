@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpPrintOutputType
 ms.assetid: 1e917d29-7621-e805-77f1-75cf1eec8b7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

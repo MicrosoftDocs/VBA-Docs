@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.BackColor
 ms.assetid: 412b99b5-5f9d-0f31-a5fe-40439d840b89
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

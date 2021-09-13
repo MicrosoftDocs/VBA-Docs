@@ -5,7 +5,7 @@ api_name:
 - Project.PjInformationTab
 ms.assetid: 6d66b730-d4b7-7718-59d1-6af49465b7d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

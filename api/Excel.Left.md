@@ -8,7 +8,7 @@ api_name:
 - Excel.Left
 ms.assetid: 9d300adc-3d72-02d5-e39c-c40e21b7e8d5
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

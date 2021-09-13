@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkInfoBar.MouseDown
 ms.assetid: a158b599-0f02-49e4-f4fe-5495540a3676
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

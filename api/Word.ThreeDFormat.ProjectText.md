@@ -8,7 +8,7 @@ api_name:
 - Word.ThreeDFormat.ProjectText
 ms.assetid: 0223f0a4-78c8-776d-33dc-157ee7cad14a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

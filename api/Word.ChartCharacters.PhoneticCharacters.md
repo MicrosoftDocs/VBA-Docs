@@ -8,7 +8,7 @@ api_name:
 - Word.ChartCharacters.PhoneticCharacters
 ms.assetid: 3bf59590-d83c-1d11-f092-61b190cd24ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

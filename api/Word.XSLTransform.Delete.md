@@ -8,7 +8,7 @@ api_name:
 - Word.XSLTransform.Delete
 ms.assetid: 258a1ee9-8cf8-13fb-599c-00d228a8499c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

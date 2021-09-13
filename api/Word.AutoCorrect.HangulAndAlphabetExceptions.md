@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrect.HangulAndAlphabetExceptions
 ms.assetid: afb525ff-be41-c260-5210-f6ef930b8b04
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

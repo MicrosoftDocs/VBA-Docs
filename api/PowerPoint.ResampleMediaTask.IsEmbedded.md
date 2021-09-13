@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ResampleMediaTask.IsEmbedded
 ms.assetid: 12eeeb1a-1993-e6e5-d5a8-b8938c2e9b19
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

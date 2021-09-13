@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.RangeFromPoint
 ms.assetid: ece6172d-013d-5175-55e3-4968947d9e4e
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

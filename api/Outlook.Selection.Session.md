@@ -8,7 +8,7 @@ api_name:
 - Outlook.Selection.Session
 ms.assetid: 22390a36-a51c-615d-a646-45e5aa7d253f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

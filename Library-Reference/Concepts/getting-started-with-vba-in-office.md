@@ -3,7 +3,7 @@ title: Getting started with VBA in Office
 ms.prod: office
 ms.assetid: 7208a87a-a567-41d9-af5b-0df3884c58d9
 ms.date: 08/14/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

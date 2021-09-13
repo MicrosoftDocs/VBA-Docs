@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.SnapToObjects
 ms.assetid: 84fcb808-bf3b-49f7-666e-915ac6b04a96
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

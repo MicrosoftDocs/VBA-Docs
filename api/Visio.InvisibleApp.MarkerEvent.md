@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.MarkerEvent
 ms.assetid: 264b9682-2979-3ddb-a110-2f4d88847d85
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

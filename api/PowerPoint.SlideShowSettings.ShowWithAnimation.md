@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.ShowWithAnimation
 ms.assetid: 9255fc7b-50fa-c65e-5ef4-3c214dede4a4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

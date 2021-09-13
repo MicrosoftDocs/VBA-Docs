@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.AppDeactivated
 ms.assetid: 362bb2fb-91a2-01be-e686-3bf076388341
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

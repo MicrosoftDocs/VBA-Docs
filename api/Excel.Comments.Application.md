@@ -8,7 +8,7 @@ api_name:
 - Excel.Comments.Application
 ms.assetid: 29fe9ed7-7fd5-acf1-de6a-69a7e3b0809b
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

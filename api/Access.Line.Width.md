@@ -8,7 +8,7 @@ api_name:
 - Access.Line.Width
 ms.assetid: 01bb11d8-2d82-c3d6-cf04-f30ed3259193
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

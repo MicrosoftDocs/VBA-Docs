@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.MoveRight
 ms.assetid: fcac96c7-7189-87b2-d800-9d161edb1e09
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

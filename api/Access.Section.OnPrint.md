@@ -8,7 +8,7 @@ api_name:
 - Access.Section.OnPrint
 ms.assetid: f8df36f2-697b-7a1d-6343-76d2a2a7b0cf
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

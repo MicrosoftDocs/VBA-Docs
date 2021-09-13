@@ -8,7 +8,7 @@ api_name:
 - Publisher.Hyperlink.EmailSubject
 ms.assetid: 16b60648-56fe-b8ba-3424-0dd6e88727e6
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

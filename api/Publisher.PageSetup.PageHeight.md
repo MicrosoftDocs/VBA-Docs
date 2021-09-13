@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSetup.PageHeight
 ms.assetid: 1ef153e2-5d13-d896-cd69-2066efa2f8ef
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

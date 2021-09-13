@@ -3,7 +3,7 @@ title: Image.AutoSize Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 053d8d6f-37d1-98e0-0ef8-e409d9ecaa78
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

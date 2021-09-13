@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: fda10e55-ef1a-3d19-e6ed-0aa9a041e889
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

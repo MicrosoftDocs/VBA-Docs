@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabel.Select
 ms.assetid: 10a8d96c-8646-c65c-76aa-fc80a963c544
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.ValidationRule
 ms.assetid: 4ebb1371-acd0-2227-49e9-ec646a0daaad
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

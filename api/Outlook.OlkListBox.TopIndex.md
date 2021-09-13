@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.TopIndex
 ms.assetid: 8d024de7-4135-4957-4d84-1b0199219f8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

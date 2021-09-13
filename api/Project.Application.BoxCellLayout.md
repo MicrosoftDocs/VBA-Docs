@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxCellLayout
 ms.assetid: 9b1ab0f5-d3ef-3258-aa01-ae1dea264ec5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

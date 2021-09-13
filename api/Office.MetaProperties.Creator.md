@@ -5,7 +5,7 @@ api_name:
 - Office.MetaProperties.Creator
 ms.assetid: 377c8cee-9561-21aa-666c-f5e291ca899a
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

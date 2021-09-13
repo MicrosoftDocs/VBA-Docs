@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Row.Cells
 ms.assetid: 2cbd413f-21ab-fdb1-9a88-b64af753ae4c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

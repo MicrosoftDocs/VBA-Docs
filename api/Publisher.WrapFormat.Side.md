@@ -8,7 +8,7 @@ api_name:
 - Publisher.WrapFormat.Side
 ms.assetid: b7998643-216a-a294-bbee-e5f1947400a7
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

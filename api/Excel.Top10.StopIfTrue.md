@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.StopIfTrue
 ms.assetid: 12e0820e-8c6b-29c0-fd63-0cd49d175b51
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

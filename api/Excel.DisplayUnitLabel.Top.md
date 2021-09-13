@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Top
 ms.assetid: 2b9acdf7-15cc-c89a-414e-383af5247acf
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: IMsoContactCard members (Office)
 ms.prod: office
 ms.assetid: 03c92ec4-11c8-8354-377f-d60ebdb5d2f3
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

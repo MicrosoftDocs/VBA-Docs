@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.TaskSubject
 ms.assetid: 2a0aac6a-efd1-4c8c-b351-c19249a04d7a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

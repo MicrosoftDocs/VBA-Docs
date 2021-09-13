@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.SpaceBefore
 ms.assetid: 2e028be2-72d2-0101-a148-038957851cf2
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

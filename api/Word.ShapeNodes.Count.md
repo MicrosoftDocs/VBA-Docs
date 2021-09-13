@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeNodes.Count
 ms.assetid: 0143ede9-5ebc-ab12-90af-ab25886ddd0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

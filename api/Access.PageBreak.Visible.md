@@ -8,7 +8,7 @@ api_name:
 - Access.PageBreak.Visible
 ms.assetid: bce10ac3-a7a5-5d0e-df76-b8222aa64267
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

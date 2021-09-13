@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.DblClick
 ms.assetid: 83a69067-7505-f126-0fa6-12f8d06d7144
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CalloutFormat.CustomDrop
 ms.assetid: 0172ed46-cb73-755a-00c1-cf9c4d29e835
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

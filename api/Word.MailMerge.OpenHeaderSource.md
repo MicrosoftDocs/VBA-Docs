@@ -8,7 +8,7 @@ api_name:
 - Word.MailMerge.OpenHeaderSource
 ms.assetid: 0cf1102f-716b-4302-6d64-85fba29822ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

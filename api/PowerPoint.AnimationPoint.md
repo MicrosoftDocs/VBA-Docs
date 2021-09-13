@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationPoint
 ms.assetid: 79aa1a47-abab-f98f-955a-48be10a94c41
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

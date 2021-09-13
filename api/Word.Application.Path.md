@@ -8,7 +8,7 @@ api_name:
 - Word.Application.Path
 ms.assetid: 224b4c66-f49c-55f1-8b6b-74f5ed979a3d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

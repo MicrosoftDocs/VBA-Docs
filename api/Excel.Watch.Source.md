@@ -8,7 +8,7 @@ api_name:
 - Excel.Watch.Source
 ms.assetid: d21d19fb-cef2-b1c9-b3b7-4393ccbcec8c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.HeaderFooter
 ms.assetid: d38e5e7e-45d7-667b-b6f2-9ad8e764af79
 ms.date: 05/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

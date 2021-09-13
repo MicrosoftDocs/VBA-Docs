@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder.Delete
 ms.assetid: 3df0f063-3f41-e3b7-d1e3-7ea08970c56d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

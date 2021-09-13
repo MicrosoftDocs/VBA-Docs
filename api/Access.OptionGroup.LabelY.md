@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.LabelY
 ms.assetid: 5044ac6f-630d-1a09-1e8e-5eae3c38c3c4
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

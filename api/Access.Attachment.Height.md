@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Height
 ms.assetid: 377565ec-9e10-2a3f-5d05-e1440707dc9c
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

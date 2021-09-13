@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.TransferSharePointList
 ms.assetid: 9cbd8de6-dc1a-47b0-c1f4-62959a66faf4
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

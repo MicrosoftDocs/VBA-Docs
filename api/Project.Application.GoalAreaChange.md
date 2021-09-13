@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GoalAreaChange
 ms.assetid: 84341db8-3f8e-44f3-4b34-e702ee2841dd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

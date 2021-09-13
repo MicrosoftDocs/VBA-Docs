@@ -8,7 +8,7 @@ api_name:
 - Word.TabStops.Before
 ms.assetid: 7a6ff83f-a1cc-1f60-6a29-08bc1f94ef7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

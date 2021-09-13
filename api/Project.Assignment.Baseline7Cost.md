@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Baseline7Cost
 ms.assetid: ca6f21e7-7430-24c3-cef5-e94565acb98e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

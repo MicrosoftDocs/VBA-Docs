@@ -8,7 +8,7 @@ api_name:
 - Visio.GraphicItems.Item
 ms.assetid: bcd5ed67-3913-41ea-0d51-30ad24d04196
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

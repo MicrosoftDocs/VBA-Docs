@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.TextAlign
 ms.assetid: 2b6e5ad7-02f5-4e33-47a4-87882a3113b2
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

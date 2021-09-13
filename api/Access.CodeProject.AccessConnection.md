@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.AccessConnection
 ms.assetid: 04b389d0-b87f-9eb9-f067-6b5e0d68e3f8
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

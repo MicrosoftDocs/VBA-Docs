@@ -5,7 +5,7 @@ api_name:
 - Excel.Constants
 ms.assetid: 498b9056-a7f4-ad18-0955-eacef759d5fd
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

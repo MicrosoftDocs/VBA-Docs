@@ -8,7 +8,7 @@ api_name:
 - Office.WebPageFont
 ms.assetid: daf3c079-520d-68bd-ec02-027776074505
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

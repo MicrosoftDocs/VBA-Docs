@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactsModule.NavigationModuleType
 ms.assetid: 6b621ab2-e84b-3e7b-4d5a-8cf1e8d0e766
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

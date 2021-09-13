@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition.FontBold
 ms.assetid: e1dc25fc-05ad-e6c2-de46-d33aa98dcc97
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

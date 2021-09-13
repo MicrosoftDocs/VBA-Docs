@@ -3,7 +3,7 @@ title: CubeDef example (VBScript)
 ms.prod: access
 ms.assetid: bcd50cc6-fe2b-d47a-a402-cd2ba4662b2d
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

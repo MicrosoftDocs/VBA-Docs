@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.GetClickIndex
 ms.assetid: 678feca3-79d4-e4e8-83aa-3484f5c099e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

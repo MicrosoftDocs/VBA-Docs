@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Overallocated
 ms.assetid: 4cb06be7-0140-1bd0-3314-2a6b50d5a51b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

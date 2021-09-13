@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectResourceField
 ms.assetid: 6942d5a5-4072-4a95-f2b7-33bf965e302f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

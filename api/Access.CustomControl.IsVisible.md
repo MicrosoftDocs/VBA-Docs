@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.IsVisible
 ms.assetid: e432566c-c8a9-6d08-4b01-5c5949248ba9
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

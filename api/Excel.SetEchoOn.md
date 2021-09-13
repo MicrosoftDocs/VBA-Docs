@@ -8,7 +8,7 @@ api_name:
 - Excel.SetEchoOn
 ms.assetid: 48490f33-63ef-aef1-8e54-51ac5d8f35e5
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

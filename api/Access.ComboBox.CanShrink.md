@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.CanShrink
 ms.assetid: 6f74e442-0b65-1d15-b247-6e12b9a08f1e
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

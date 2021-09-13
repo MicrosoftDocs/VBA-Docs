@@ -3,7 +3,7 @@ title: ShapeRange.GroupItems property (Project)
 ms.prod: project-server
 ms.assetid: fd8a48bd-dfe1-1adc-5871-0fbe18af352f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

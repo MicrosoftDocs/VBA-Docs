@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.Last
 ms.assetid: 9d9d173d-7d4f-ff23-35be-e3aeed85cc3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

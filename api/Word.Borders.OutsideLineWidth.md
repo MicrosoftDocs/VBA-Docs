@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.OutsideLineWidth
 ms.assetid: 4f2c2f67-7a0e-e06a-c49c-30e8446bebe2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

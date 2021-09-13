@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.Refreshing
 ms.assetid: 7b89fbec-3365-5b23-1b21-da3b0145d9bc
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

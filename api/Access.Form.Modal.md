@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Modal
 ms.assetid: a36b42f6-9d97-acea-cda3-2f380a3270c2
 ms.date: 03/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

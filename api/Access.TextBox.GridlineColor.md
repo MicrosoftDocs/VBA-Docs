@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.GridlineColor
 ms.assetid: 849e0843-ab35-90d6-02a6-44faa316c83f
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

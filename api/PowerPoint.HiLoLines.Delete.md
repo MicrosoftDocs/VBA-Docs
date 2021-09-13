@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.HiLoLines.Delete
 ms.assetid: dfbb63fe-c7b6-2837-d7ba-de47f8f8fc00
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

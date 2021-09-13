@@ -8,7 +8,7 @@ api_name:
 - Office.LayoutEffect
 ms.assetid: 74e19b13-605c-caa8-4a12-e877d638d316
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

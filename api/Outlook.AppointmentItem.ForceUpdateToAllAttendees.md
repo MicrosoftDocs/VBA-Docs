@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.ForceUpdateToAllAttendees
 ms.assetid: fe926820-2694-9aa3-8359-cc2ed3ac2f32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

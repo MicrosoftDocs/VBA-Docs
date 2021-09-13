@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.TextFrame2
 ms.assetid: 6be8d80d-dda3-3981-48ad-c30143bc4c99
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

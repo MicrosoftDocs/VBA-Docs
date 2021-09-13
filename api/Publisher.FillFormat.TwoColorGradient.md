@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.TwoColorGradient
 ms.assetid: 7b0d1b19-a7bf-7b3d-66f4-60dfc588abfe
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

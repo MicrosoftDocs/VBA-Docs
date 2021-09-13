@@ -8,7 +8,7 @@ api_name:
 - Access.Image.BackColor
 ms.assetid: 6003c9d8-a6bd-4718-b2ea-c6e1ccb0a76a
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

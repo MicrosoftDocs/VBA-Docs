@@ -3,7 +3,7 @@ title: Chart.HasLegend property (Project)
 ms.prod: project-server
 ms.assetid: 3e4ba5bd-eb29-bb28-7403-87222b47ae40
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

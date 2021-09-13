@@ -3,7 +3,7 @@ title: Document conventions (VBA)
 ms.prod: office
 ms.assetid: 1eece8df-7e11-f66d-a2b7-18985c288e81
 ms.date: 12/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

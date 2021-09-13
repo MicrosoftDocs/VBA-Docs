@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.Creator
 ms.assetid: 47d808f6-27f5-c8d9-97ab-1d135d25e4f7
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

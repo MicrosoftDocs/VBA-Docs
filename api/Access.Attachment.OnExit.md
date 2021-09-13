@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnExit
 ms.assetid: 5ca25e6f-1fc3-826a-9111-b899e324ef99
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

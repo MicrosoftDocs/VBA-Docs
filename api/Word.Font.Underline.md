@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Underline
 ms.assetid: 3fbcecb6-c38c-746e-671a-1339aa855b15
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

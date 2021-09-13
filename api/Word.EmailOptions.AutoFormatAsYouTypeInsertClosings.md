@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeInsertClosings
 ms.assetid: f08ab03c-bcc1-0fd2-c752-5476ba641504
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

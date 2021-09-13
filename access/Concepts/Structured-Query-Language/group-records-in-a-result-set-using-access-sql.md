@@ -3,7 +3,7 @@ title: Group records in a result set using Access SQL
 ms.prod: access
 ms.assetid: 217e1a5a-cfe2-0859-1e16-a3d27450008c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

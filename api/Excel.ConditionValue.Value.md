@@ -8,7 +8,7 @@ api_name:
 - Excel.ConditionValue.Value
 ms.assetid: 376dccc8-2d47-c7ed-1b14-d41dcdd1a8ff
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

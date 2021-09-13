@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.CanGrow
 ms.assetid: 5e96e693-9e1a-1f1f-5d5d-672e6232c330
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

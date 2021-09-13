@@ -5,7 +5,7 @@ api_name:
 - Word.Rectangles.Application
 ms.assetid: 6096264c-3da4-9f28-6014-9c0f2c495128
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

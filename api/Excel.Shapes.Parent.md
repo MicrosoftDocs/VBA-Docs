@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.Parent
 ms.assetid: 68b8a251-42af-75ed-20ed-0fc4da492605
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

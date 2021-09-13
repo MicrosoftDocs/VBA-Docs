@@ -8,7 +8,7 @@ api_name:
 - Access.AllForms.Parent
 ms.assetid: fa16ed80-9eb2-7bd8-fdc6-a8c9a8eb7ea0
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

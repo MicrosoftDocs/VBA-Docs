@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.OpenBrowser
 ms.assetid: 701defdf-9f1c-b136-0af5-48605d255f88
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

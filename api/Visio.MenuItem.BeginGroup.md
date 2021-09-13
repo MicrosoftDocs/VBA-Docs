@@ -8,7 +8,7 @@ api_name:
 - Visio.MenuItem.BeginGroup
 ms.assetid: 1ae4844b-b9d3-c998-2ead-e3465f84d2a5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

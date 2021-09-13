@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ConvertToLinkedDataType
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

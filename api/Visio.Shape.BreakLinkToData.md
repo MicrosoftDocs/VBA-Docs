@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.BreakLinkToData
 ms.assetid: 1f4ed559-061e-f016-739c-e760e634dba8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

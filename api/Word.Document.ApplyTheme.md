@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ApplyTheme
 ms.assetid: a4b9180e-5128-6a19-a629-47c20837f84b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

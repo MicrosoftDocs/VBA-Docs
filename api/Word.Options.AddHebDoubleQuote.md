@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AddHebDoubleQuote
 ms.assetid: c98728b2-9b9a-f95a-6db8-2e039c50d68a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

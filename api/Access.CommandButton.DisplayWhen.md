@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.DisplayWhen
 ms.assetid: 3775036c-c483-1c2d-6845-cd999104925d
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Case
 ms.assetid: 983f7bd3-10b4-882f-5b4d-01e44127676f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

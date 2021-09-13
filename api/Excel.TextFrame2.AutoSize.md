@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.AutoSize
 ms.assetid: 8c2659b2-a315-18c3-23f3-7b1488ce8107
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

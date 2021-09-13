@@ -5,7 +5,7 @@ api_name:
 - Project.PjLevelSelectedOption
 ms.assetid: 6d465e8c-b41e-de33-43e7-66fb92901651
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

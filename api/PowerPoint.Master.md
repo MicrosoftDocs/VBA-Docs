@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Master
 ms.assetid: 22e8805e-6469-1a34-7f7b-f1ea5c6c49ff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

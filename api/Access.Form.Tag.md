@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Tag
 ms.assetid: 7fec664b-b82e-8cd1-93ff-5162c72fb036
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

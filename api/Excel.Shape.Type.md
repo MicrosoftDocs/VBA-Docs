@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Type
 ms.assetid: 93939e9f-2630-4db2-6b66-6705720877f6
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

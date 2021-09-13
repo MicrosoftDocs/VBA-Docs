@@ -8,7 +8,7 @@ api_name:
 - Access.Image.Hyperlink
 ms.assetid: 13a80139-3b1e-f94c-d5fc-1d5c0f305a0d
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

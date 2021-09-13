@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CalculationState
 ms.assetid: 2f424286-7757-12e2-77c2-c26cf7c4bcf1
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

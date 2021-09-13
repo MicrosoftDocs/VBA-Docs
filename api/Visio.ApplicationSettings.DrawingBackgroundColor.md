@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.DrawingBackgroundColor
 ms.assetid: c07d8268-d0f6-afc7-8c6f-da16a3f643a0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

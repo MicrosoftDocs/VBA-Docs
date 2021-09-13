@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.IntegralHeight
 ms.assetid: 80868c46-30b6-be23-f188-4492e6146f4e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

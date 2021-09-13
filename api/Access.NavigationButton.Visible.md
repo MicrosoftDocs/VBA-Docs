@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.Visible
 ms.assetid: 26773edc-1143-d13f-eb75-206640cfae2e
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

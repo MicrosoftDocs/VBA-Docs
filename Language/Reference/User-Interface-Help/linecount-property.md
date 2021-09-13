@@ -8,7 +8,7 @@ api_name:
 - Office.LineCount
 ms.assetid: a7dd67ca-ef98-6a7b-d703-344765328eda
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

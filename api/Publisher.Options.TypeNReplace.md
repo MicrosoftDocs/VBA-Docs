@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.TypeNReplace
 ms.assetid: 0eb378d2-3554-6a46-8b6b-4a990b4638db
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

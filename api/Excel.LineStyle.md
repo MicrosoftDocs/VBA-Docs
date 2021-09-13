@@ -8,7 +8,7 @@ api_name:
 - Excel.LineStyle
 ms.assetid: 4783a76a-9e73-c605-ade5-be8fec821b1d
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

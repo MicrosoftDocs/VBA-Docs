@@ -8,7 +8,7 @@ api_name:
 - Excel.ValueChange.Order
 ms.assetid: f64f8739-212b-6aca-3ddc-09c68c44978c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

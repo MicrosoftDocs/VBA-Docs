@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.ThreeD
 ms.assetid: ae85ffd6-ec5b-7082-66a9-3de9fff159ee
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

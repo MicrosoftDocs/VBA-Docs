@@ -8,7 +8,7 @@ api_name:
 - Word.TextInput.Width
 ms.assetid: 98d200de-9832-5ab5-4187-7d3cb81a149e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

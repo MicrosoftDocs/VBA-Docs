@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.GridlineWidthRight
 ms.assetid: 4a3292f9-1371-38ef-eca6-616d623a34b8
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ForeShade
 ms.assetid: 4917e73f-595e-7286-adc0-05d3a9e44b34
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

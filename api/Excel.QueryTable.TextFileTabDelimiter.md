@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileTabDelimiter
 ms.assetid: 50734a26-afa7-0447-f6f1-205425ba03eb
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

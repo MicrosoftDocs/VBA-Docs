@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.SingleStep
 ms.assetid: fa355661-9605-9477-15f6-10f0a163ba67
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

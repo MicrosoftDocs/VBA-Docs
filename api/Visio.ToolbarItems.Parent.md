@@ -8,7 +8,7 @@ api_name:
 - Visio.ToolbarItems.Parent
 ms.assetid: 184cc588-9a42-7f74-0354-3f6ab4a1f909
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

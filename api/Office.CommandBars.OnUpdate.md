@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBars.OnUpdate
 ms.assetid: 4da9354b-92ed-d85e-f667-c01dfec07689
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

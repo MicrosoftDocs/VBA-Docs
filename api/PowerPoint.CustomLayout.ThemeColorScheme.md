@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.ThemeColorScheme
 ms.assetid: c60258b6-5119-ee70-0d81-60c7a7869c34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.TabIndent
 ms.assetid: db62f9c2-e205-4f57-5baf-2c06bbd30644
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

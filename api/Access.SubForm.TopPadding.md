@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.TopPadding
 ms.assetid: 8a22f683-1f0c-be79-48d7-b59bd4d0759a
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

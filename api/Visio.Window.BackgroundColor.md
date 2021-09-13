@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.BackgroundColor
 ms.assetid: 5c954890-aa8f-7dc7-c64c-38fd8f3317fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

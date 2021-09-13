@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.LayerVisible
 ms.assetid: b62ce57e-a1a0-06b2-ade5-71e1c11b0596
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

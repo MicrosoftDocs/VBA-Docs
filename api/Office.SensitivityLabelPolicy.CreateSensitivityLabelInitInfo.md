@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabelPolicy.CreateSensitivityLabelInitInfo
 ms.assetid: 98d78182-a1d1-46f3-9aca-f43606fdc1b0
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabelPolicy.CreateSensitivityLabelInitInfo method (Office)
 ---
 

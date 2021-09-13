@@ -8,7 +8,7 @@ api_name:
 - Word.Document.RevisedDocumentTitle
 ms.assetid: 9783dc13-6cf5-90ac-86c4-ea4a8fc85504
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

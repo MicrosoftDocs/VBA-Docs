@@ -8,7 +8,7 @@ api_name:
 - Access.Section.InSelection
 ms.assetid: dbcca22e-b793-8615-ec67-2f3cb897c6b6
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

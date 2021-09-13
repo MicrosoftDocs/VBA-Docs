@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.SharePointVersion
 ms.assetid: 9d561b10-dba9-8af5-6e64-66e41714e894
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

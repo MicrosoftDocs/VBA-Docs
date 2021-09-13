@@ -8,7 +8,7 @@ api_name:
 - Word.Range.Kana
 ms.assetid: ed64b73e-6970-3099-6f75-0beac6bba84e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

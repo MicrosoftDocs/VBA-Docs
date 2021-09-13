@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.InternetCodepage
 ms.assetid: a9186d58-a6b3-8269-56ab-105456883283
 ms.date: 07/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

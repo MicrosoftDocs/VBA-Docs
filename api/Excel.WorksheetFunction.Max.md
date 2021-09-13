@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Max
 ms.assetid: f0b2df1d-3b0e-2387-fa91-f8bf8cb6c4da
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.BuildCriteria
 ms.assetid: 098e9aca-3dc1-ad21-4374-5d8ae7c80c56
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Application.BuildCriteria method (Access)

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideRange.Count
 ms.assetid: ff280d05-41f1-fbdc-16c3-ae30a1102340
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

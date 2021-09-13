@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Shadow
 ms.assetid: d6ee257c-9a26-abfc-9e8e-ef89bf627690
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

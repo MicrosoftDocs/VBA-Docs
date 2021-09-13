@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.SharePointURL
 ms.assetid: a5b19612-c8e8-4952-e15c-a60da10f65d1
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.TickLabels
 ms.assetid: 80e39b06-b01d-f817-5357-e6abbbc28e1c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

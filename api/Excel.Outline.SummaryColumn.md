@@ -8,7 +8,7 @@ api_name:
 - Excel.Outline.SummaryColumn
 ms.assetid: b134c991-7875-445a-ca73-d48bf23f3eea
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

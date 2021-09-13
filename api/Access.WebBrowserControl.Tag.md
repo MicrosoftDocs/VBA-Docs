@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Tag
 ms.assetid: 540e37bb-db7b-4b5d-9713-b4829a8acd57
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

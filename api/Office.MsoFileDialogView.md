@@ -5,7 +5,7 @@ api_name:
 - Office.MsoFileDialogView
 ms.assetid: fbeb4236-417c-53ba-199d-4ce7e219d2a2
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

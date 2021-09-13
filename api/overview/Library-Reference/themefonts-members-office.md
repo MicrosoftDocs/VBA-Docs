@@ -4,7 +4,7 @@ description: Represents a collection of major and minor fonts in the font scheme
 ms.prod: office
 ms.assetid: 3ee20de9-c245-4432-e352-857326e08561
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.SecondPlotSize
 ms.assetid: 68f4d170-62c8-eb34-26a2-693aa96fc5f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

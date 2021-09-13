@@ -5,7 +5,7 @@ api_name:
 - Excel.XlEditionFormat
 ms.assetid: 920212e6-4f4a-2e8d-da55-378242356129
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

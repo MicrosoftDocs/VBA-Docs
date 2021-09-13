@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder.GetStorage
 ms.assetid: cc5ee63b-7d11-6340-8392-8b35a689a28c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

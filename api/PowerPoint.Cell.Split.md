@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Cell.Split
 ms.assetid: edd81309-f0de-da70-67b2-4197059378fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

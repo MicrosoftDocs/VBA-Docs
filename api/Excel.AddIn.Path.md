@@ -8,7 +8,7 @@ api_name:
 - Excel.AddIn.Path
 ms.assetid: 28516688-d6ed-2fbc-51ee-6dd6434e461d
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

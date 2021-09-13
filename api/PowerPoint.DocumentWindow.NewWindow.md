@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.NewWindow
 ms.assetid: 1c9f4e37-4e40-8d0b-246b-f9897ad9a56a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

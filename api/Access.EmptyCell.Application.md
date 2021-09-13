@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.Application
 ms.assetid: df8b9d6b-3065-ac43-3ead-ff504bd76db1
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

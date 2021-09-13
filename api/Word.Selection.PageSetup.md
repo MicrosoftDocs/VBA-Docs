@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.PageSetup
 ms.assetid: 65e8953b-0b52-b31f-1c81-e607a37ba916
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

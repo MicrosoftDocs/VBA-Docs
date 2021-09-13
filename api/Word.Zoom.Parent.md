@@ -8,7 +8,7 @@ api_name:
 - Word.Zoom.Parent
 ms.assetid: 5a9d6429-ee91-2abd-125b-64c9019641e4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

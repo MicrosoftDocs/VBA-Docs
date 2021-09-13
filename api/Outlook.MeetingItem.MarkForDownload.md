@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.MarkForDownload
 ms.assetid: a5a0bc64-4129-f93e-ff07-2a1785a10099
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

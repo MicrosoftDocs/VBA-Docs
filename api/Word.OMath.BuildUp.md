@@ -8,7 +8,7 @@ api_name:
 - Word.OMath.BuildUp
 ms.assetid: 70b72433-6400-eb97-7e0d-427495ac746a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.UserProperty.ValidationFormula
 ms.assetid: 1420a7d9-2d10-ea1a-a893-e573f93919ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Image.PictureData
 ms.assetid: 64d4a266-2c7f-5b08-4f32-bca25dac87d8
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

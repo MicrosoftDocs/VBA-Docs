@@ -3,7 +3,7 @@ title: Sorting Items in a Folder
 ms.prod: outlook
 ms.assetid: bc3651da-cfdb-4301-4034-bb848f371e55
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

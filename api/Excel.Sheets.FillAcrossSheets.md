@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets.FillAcrossSheets
 ms.assetid: eee9b0a2-0727-dfc8-ea7b-d7c582466d5c
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

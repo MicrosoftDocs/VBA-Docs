@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Master.Shapes
 ms.assetid: a4620f02-d3d2-da87-6bbc-430557365c2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpViewType
 ms.assetid: ae5e79ec-4176-4a00-5690-aca0570dcb84
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

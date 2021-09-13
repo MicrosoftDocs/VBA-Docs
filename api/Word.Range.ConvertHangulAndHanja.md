@@ -8,7 +8,7 @@ api_name:
 - Word.Range.ConvertHangulAndHanja
 ms.assetid: 2b640faf-da3c-a3b6-976b-d7dca3cb710f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

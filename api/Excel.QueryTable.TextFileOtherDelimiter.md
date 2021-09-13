@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileOtherDelimiter
 ms.assetid: e632984a-4316-4e65-754f-01a2c77d5cad
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

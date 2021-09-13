@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressEntry.GetExchangeDistributionList
 ms.assetid: 060ac302-b916-d85d-5ba8-c682894129e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

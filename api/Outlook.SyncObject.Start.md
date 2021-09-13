@@ -8,7 +8,7 @@ api_name:
 - Outlook.SyncObject.Start
 ms.assetid: 3e826228-b8a4-42df-1757-3248acd26a2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

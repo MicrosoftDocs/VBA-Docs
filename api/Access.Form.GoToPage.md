@@ -8,7 +8,7 @@ api_name:
 - Access.Form.GoToPage
 ms.assetid: 932c15b9-57dd-0cf7-1db2-21364bc214ea
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

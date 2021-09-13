@@ -8,7 +8,7 @@ api_name:
 - Publisher.DropCap.ApplyCustomDropCap
 ms.assetid: 906cf476-3826-8510-315f-425f6f50a92a
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

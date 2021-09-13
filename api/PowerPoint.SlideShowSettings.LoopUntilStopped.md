@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.LoopUntilStopped
 ms.assetid: 767a5865-b50b-d7c6-6076-6786b43c6b88
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

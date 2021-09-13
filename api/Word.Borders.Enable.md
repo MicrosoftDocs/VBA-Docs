@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.Enable
 ms.assetid: 5595b02a-35a3-30ce-0b9b-e6e5867d7258
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

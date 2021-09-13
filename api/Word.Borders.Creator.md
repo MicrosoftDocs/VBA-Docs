@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.Creator
 ms.assetid: 2cedddeb-5440-68de-49da-5d383495451b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

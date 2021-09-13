@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.WarpFormat
 ms.assetid: 2ea707b9-0ed1-1196-2bf9-a32ae87d456a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

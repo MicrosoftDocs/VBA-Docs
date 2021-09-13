@@ -8,7 +8,7 @@ api_name:
 - Word.FreeformBuilder.Parent
 ms.assetid: 0958b71d-383f-1f42-31d5-5b7236334029
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

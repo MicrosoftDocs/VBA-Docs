@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.Select
 ms.assetid: e21e5987-c1ce-79a0-db17-46f9beec07aa
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

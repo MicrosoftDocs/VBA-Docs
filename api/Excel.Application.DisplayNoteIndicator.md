@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayNoteIndicator
 ms.assetid: 96d43af3-0ceb-4bc2-ebaf-33cbe3e30a8a
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

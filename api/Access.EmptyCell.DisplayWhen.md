@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.DisplayWhen
 ms.assetid: 571ed93a-6a13-8417-de92-5a019d895955
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Windows2.Count
 ms.assetid: dc11d58b-71bb-24bf-888c-93877f2b6527
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

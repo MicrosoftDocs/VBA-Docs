@@ -8,7 +8,7 @@ api_name:
 - Excel.MultiThreadedCalculation.Parent
 ms.assetid: 756fb6b4-5292-751c-0933-894f38758399
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

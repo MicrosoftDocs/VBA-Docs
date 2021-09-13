@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.PrintTitleRows
 ms.assetid: de01a1a9-a6f5-9eb4-5785-2993475c1a02
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

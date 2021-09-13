@@ -8,7 +8,7 @@ api_name:
 - Excel.Solid
 ms.assetid: 34fcc8d7-df60-2bad-0674-a1b9819509f7
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

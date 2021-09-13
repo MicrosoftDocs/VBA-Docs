@@ -8,7 +8,7 @@ api_name:
 - Word.DefaultWebOptions.OptimizeForBrowser
 ms.assetid: c85aced0-0f4d-8237-e9c9-15fc65e0fd2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

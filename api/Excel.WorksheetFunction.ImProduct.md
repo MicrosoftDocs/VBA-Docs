@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImProduct
 ms.assetid: 62733d0c-118b-1382-6c54-e8bc358c702c
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

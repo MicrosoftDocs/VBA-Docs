@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.DisplayWhen
 ms.assetid: e1e91c9b-aba6-4bf1-6b54-6c64badfa7af
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

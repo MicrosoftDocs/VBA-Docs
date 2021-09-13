@@ -8,7 +8,7 @@ api_name:
 - Access.References.AddFromFile
 ms.assetid: 23934c34-2315-b109-57ae-ed2dae347307
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

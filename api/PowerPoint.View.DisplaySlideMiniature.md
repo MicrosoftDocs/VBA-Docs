@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.View.DisplaySlideMiniature
 ms.assetid: 50781703-1e04-0e95-80d9-2b518130f3eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

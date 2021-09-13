@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.TopPadding
 ms.assetid: 475398a6-ab75-1e39-12dc-ba7056b8caa0
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

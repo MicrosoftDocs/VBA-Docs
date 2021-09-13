@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.StencilLinesPerMaster
 ms.assetid: 0d962d29-2cb5-5a9f-342f-1a35905a3438
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

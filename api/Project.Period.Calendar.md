@@ -5,7 +5,7 @@ api_name:
 - Project.Period.Calendar
 ms.assetid: 906ad2e8-e057-9a69-0184-06f298858b8a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

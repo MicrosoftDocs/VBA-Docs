@@ -8,7 +8,7 @@ api_name:
 - Office.PickerDialog.Show
 ms.assetid: 3073defe-4585-816d-6b86-9959cce4655f
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

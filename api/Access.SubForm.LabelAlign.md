@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.LabelAlign
 ms.assetid: b121862b-9bea-bfa2-c31c-ae4f77f62f04
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

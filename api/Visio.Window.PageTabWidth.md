@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.PageTabWidth
 ms.assetid: b0182545-21c9-4d68-9541-7b29018adf17
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

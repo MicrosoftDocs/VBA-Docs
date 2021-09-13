@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.CheckSpelling
 ms.assetid: 9c39b0f1-4401-1399-58fa-444c9fa9fab4
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.ParentFolder
 ms.assetid: 980e6bf3-fdc2-4335-7587-e5e932aee0a2
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

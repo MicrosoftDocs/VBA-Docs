@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.PrintOut
 ms.assetid: 753ec4e0-7a92-361d-0a63-0af698f54ce6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

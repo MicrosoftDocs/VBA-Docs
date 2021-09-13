@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbooks.CheckOut
 ms.assetid: 11b9eb2a-8c9a-6e61-63e2-554030243388
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.BackTint
 ms.assetid: 80c3d5f6-7240-9001-f035-0d464e8c49f2
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

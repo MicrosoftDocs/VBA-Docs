@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Activate
 ms.assetid: 1409c52b-8a77-0e0d-1a26-7dc4ce8bb320
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.GetAssociatedTask
 ms.assetid: 4d92d092-b8b8-4378-1193-8b7f17b9dacb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

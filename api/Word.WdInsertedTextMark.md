@@ -5,7 +5,7 @@ api_name:
 - Word.WdInsertedTextMark
 ms.assetid: 298df626-b215-6ea3-bcf9-0c491f3545c1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

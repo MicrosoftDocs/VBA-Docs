@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.Hyphenation
 ms.assetid: 984aa078-9b18-7b96-d2d6-0cd603719c6b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

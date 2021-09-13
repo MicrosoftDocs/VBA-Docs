@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoCorrect.AddReplacement
 ms.assetid: 33b83ca0-77b5-00ed-1344-fc5e9a816f74
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

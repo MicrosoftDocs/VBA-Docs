@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.GridlineColor
 ms.assetid: 9859d2e9-e58e-003d-9349-a0bec21ed25a
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

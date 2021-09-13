@@ -5,7 +5,7 @@ api_name:
 - Office.MsoGradientStyle
 ms.assetid: 1f0e723f-293c-3646-fd77-da2c8842c71f
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStops.Item
 ms.assetid: 23b7a530-715e-94a5-8039-bfe55c5c19d5
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

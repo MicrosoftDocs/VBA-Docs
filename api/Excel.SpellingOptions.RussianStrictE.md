@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.RussianStrictE
 ms.assetid: 7d1d44b8-bac3-bd1a-3959-99090842864d
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

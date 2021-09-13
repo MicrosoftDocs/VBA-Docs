@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.FontSize
 ms.assetid: 73bf8d74-c616-8824-c2e0-8eed072df582
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

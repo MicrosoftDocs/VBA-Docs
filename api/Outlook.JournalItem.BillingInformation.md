@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.BillingInformation
 ms.assetid: 304224a5-8d0c-3c77-703c-15c0d1ef008d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

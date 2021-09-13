@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.AxisPosition
 ms.assetid: 0e239fd1-8bdf-2355-10ae-b7766b9befaf
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

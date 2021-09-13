@@ -5,7 +5,7 @@ api_name:
 - Office.MsoArrowheadWidth
 ms.assetid: 7183f2e0-7431-170b-f4e7-3f8737017ed8
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

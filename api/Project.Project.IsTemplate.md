@@ -8,7 +8,7 @@ api_name:
 - Project.Project.IsTemplate
 ms.assetid: 43acba15-faa9-7b1a-a51b-c4ceb50f229a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

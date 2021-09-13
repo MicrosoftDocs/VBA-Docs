@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlSchemas.Creator
 ms.assetid: c9000e23-0426-9571-8104-6b4542f661fa
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

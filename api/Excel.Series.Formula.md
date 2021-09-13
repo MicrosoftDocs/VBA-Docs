@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.Formula
 ms.assetid: c3b75251-55c0-150f-6a41-94d7f6444520
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

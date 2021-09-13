@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Orientation
 ms.assetid: 63e9661b-fbfb-b77a-d159-70717a4fb489
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

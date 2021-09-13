@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.OnKeyPress
 ms.assetid: 6831ae04-07b0-e84b-4451-0c728e80d8e9
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

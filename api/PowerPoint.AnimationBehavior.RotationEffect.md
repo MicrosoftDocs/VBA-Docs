@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationBehavior.RotationEffect
 ms.assetid: 46983cf0-0977-41ec-6264-958216ee44dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

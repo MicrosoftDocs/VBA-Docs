@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.MarkerStyle
 ms.assetid: 9e723281-665c-996f-37cf-d59b6c57ea25
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.SetWidth
 ms.assetid: fd9fbeb1-a8c7-a6bf-1c9e-b63954848baf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

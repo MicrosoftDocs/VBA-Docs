@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.GroupShapes.Application
 ms.assetid: 66ec102a-4c7d-aa61-6b05-8950f429468c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

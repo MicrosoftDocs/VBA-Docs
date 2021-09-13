@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPictureColorType
 ms.assetid: d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.UndoRecord.Application
 ms.assetid: ffabdf37-3ac6-318f-3481-6dde1993debf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

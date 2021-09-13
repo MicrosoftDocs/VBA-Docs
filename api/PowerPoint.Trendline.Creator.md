@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Trendline.Creator
 ms.assetid: ac99c7b9-e191-1209-9ce2-e49607b6300f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

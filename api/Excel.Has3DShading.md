@@ -8,7 +8,7 @@ api_name:
 - Excel.Has3DShading
 ms.assetid: 1a6d41c5-83d5-72f6-f8d5-86cbf52af501
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Label.MouseDown
 ms.assetid: 1895790f-e5d6-493e-6005-a2c6a83cbd87
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

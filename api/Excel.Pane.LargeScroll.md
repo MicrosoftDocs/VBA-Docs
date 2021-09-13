@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.LargeScroll
 ms.assetid: e785bf52-d19b-a6e6-212b-0c5b5de88910
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

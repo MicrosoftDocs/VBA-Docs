@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.CommandType
 ms.assetid: 3258a47d-ca98-be25-437e-4d9f5124e96a
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

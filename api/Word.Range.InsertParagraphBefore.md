@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertParagraphBefore
 ms.assetid: 78d62099-fa2c-911d-690b-93a9ee4f58eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

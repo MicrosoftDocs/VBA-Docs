@@ -8,7 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.Visible
 ms.assetid: dbda23fe-de06-cc17-c3bc-2bfb780d3184
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

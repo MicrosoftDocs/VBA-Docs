@@ -5,7 +5,7 @@ api_name:
 - Outlook.DocumentItem.AttachmentAdd
 ms.assetid: 229bc1b9-64bb-2198-1ec9-10f7129a59b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

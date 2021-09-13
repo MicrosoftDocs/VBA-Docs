@@ -8,7 +8,7 @@ api_name:
 - Access.Report.LayoutForPrint
 ms.assetid: f661155f-696b-3acf-5b90-44fba06345ab
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

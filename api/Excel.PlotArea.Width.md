@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.Width
 ms.assetid: 9bf7bd1f-e50e-378d-cb16-2b931c34aa65
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

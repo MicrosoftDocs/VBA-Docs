@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarPopup.Controls
 ms.assetid: 0b116a89-f4a8-8043-0c0c-c64eb07a3941
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

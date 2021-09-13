@@ -8,7 +8,7 @@ api_name:
 - Access.Page.Click
 ms.assetid: 7de6a718-d808-96bb-cf96-0eeee5b6ffbb
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

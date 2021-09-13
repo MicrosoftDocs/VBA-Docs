@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Column.Width
 ms.assetid: 7b2bcf80-25d5-b1b8-64a5-d8cdf8818978
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

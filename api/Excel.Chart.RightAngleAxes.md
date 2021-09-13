@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.RightAngleAxes
 ms.assetid: 632aa454-4113-97d3-a80c-eb745a950c6f
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

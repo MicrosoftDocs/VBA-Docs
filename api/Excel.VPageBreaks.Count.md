@@ -8,7 +8,7 @@ api_name:
 - Excel.VPageBreaks.Count
 ms.assetid: cc302751-24f8-d4d2-3c08-7671010a9598
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TableStyle.AllowBreakAcrossPage
 ms.assetid: 22ca3964-79ba-dd92-1898-0746f73f4d8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.BottomRightCell
 ms.assetid: daa803f5-76d7-270e-9116-9b5da9f497c4
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

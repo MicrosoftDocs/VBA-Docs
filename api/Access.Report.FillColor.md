@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FillColor
 ms.assetid: 04fa1376-fddb-a4b3-04fd-d562f0567136
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

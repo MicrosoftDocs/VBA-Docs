@@ -3,7 +3,7 @@ title: Chart.SetDefaultChart method (Project)
 ms.prod: project-server
 ms.assetid: e0586f53-9ca4-7d06-97ed-ecc418644d9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

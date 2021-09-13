@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Text17
 ms.assetid: aa453e8e-64e8-bb06-a617-203d60294627
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

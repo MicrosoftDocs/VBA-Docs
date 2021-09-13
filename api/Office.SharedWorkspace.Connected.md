@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspace.Connected
 ms.assetid: 071502b9-c4f7-45f5-062b-818d5859708e
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

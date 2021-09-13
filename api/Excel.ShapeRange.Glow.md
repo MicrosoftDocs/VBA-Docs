@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Glow
 ms.assetid: d2b7670f-2715-51f6-1c67-434e3ab39a67
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

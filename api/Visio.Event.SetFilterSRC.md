@@ -8,7 +8,7 @@ api_name:
 - Visio.Event.SetFilterSRC
 ms.assetid: 06ba59d2-57a4-7686-3250-388e499bfc76
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

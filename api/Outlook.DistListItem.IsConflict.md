@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.IsConflict
 ms.assetid: 3c1417a8-6609-c715-04f1-625ea733134c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.MajorityFont
 ms.assetid: b0007ebc-ed0b-aab8-49fe-76353efbc1d2
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

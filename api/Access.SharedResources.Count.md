@@ -8,7 +8,7 @@ api_name:
 - Access.SharedResources.Count
 ms.assetid: 80fba38f-3f2e-a683-f187-830e5e9e4403
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

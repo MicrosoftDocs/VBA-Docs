@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.Reset
 ms.assetid: 9a2ac15e-406e-2e83-114c-82fa2324f26a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

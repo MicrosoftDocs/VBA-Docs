@@ -8,7 +8,7 @@ api_name:
 - Visio.VisContainerAutoResize
 ms.assetid: bcc77146-eee5-24ac-b9a2-03f60b118dbc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

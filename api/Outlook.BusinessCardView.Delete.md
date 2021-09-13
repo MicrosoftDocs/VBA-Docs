@@ -8,7 +8,7 @@ api_name:
 - Outlook.BusinessCardView.Delete
 ms.assetid: 0f771496-ef4a-1c2e-49b4-19f786bff055
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

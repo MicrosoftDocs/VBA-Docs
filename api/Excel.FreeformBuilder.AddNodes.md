@@ -8,7 +8,7 @@ api_name:
 - Excel.FreeformBuilder.AddNodes
 ms.assetid: 8fff188d-1c47-87f0-8388-2b12534e82c2
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

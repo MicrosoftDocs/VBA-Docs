@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.BackTint
 ms.assetid: 623b7f0d-b48d-c50f-a139-99b4853b885d
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

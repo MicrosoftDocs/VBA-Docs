@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.SlideShowOnPrevious
 ms.assetid: 466a5363-047b-f107-011b-6450db6a5f31
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

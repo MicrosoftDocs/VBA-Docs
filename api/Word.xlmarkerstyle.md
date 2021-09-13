@@ -3,7 +3,7 @@ title: XlMarkerStyle enumeration (Word)
 ms.prod: word
 ms.assetid: 09985bc6-00e7-203d-efed-15b32f0c2666
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

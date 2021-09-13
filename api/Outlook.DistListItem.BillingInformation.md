@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.BillingInformation
 ms.assetid: 6d6c9e2d-b61c-0baf-7b5e-e4042a80d614
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

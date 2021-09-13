@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Charts
 ms.assetid: 582d9a78-d86f-ab69-0c22-85f8a59412d9
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

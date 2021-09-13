@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCError.Application
 ms.assetid: b89dce82-77cc-deec-1ee4-cfe4db4bf785
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

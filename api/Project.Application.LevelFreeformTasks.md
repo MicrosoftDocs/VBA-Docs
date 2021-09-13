@@ -5,7 +5,7 @@ api_name:
 - Project.Application.LevelFreeformTasks
 ms.assetid: d9a9abca-0efa-ea38-3665-7f7b7ecccc9e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

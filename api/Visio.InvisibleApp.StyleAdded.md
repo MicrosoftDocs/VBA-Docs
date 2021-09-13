@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.StyleAdded
 ms.assetid: b45dadaa-6d7b-a320-76fb-d66e2b1d5e6a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

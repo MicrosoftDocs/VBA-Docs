@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings.AnimateBackground
 ms.assetid: 929ba50f-23c4-9dea-09fb-fa580715b118
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

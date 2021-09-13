@@ -8,7 +8,7 @@ api_name:
 - Word.Window.EnvelopeVisible
 ms.assetid: d04d6714-ba32-39cc-4853-e9ac6696e718
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BorderWidth
 ms.assetid: f06fa232-f6cd-7736-aeb9-96461d2338fc
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

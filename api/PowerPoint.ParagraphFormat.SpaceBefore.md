@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ParagraphFormat.SpaceBefore
 ms.assetid: be73b3fe-4490-df58-57fd-47c51767b985
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

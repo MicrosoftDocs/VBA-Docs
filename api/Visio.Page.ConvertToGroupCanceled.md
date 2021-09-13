@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.ConvertToGroupCanceled
 ms.assetid: c44afba7-eeb5-3760-7ab3-1e5e86d92060
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

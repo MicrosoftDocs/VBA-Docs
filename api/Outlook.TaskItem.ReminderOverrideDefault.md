@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.ReminderOverrideDefault
 ms.assetid: 3a11ee36-3418-422e-0783-e39bf92ded6f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

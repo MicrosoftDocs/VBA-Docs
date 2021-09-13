@@ -8,7 +8,7 @@ api_name:
 - Access.Control.Dropdown
 ms.assetid: 45957d42-3e81-f7eb-9579-e5e75c833f59
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

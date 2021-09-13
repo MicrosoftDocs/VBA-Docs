@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.BackColor
 ms.assetid: d0afc912-f982-24f2-f82d-829d410d51cf
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

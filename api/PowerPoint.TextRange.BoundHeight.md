@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.BoundHeight
 ms.assetid: 8f3b9947-5ee3-260d-3d44-0ad2da422724
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

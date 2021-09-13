@@ -8,7 +8,7 @@ api_name:
 - Project.Project.ProjectNotes
 ms.assetid: 2a9dcdbe-50f2-544a-8aba-c2db0d6762bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

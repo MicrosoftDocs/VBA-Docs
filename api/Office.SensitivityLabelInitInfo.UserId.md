@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabelInitInfo.UserId
 ms.assetid: bf2bc6f8-e1ee-4d76-afcd-967debe37e40
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabelInitInfo.UserId property (Office)
 ---
 

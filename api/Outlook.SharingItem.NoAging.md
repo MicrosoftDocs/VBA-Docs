@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.NoAging
 ms.assetid: ab7a8774-b22f-74ce-4ec6-2f4e4630243f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

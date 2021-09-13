@@ -3,7 +3,7 @@ title: Comment.AssociatedObject property (Visio)
 ms.prod: visio
 ms.assetid: e28eed2e-260e-59c9-9b24-631817fe1ae1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

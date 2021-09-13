@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.Name
 ms.assetid: 6bc5ab2b-194b-47b2-e128-6ba22fc8be0b
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

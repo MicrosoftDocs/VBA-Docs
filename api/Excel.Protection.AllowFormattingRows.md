@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowFormattingRows
 ms.assetid: c58f9511-b6f5-a911-d20d-90dbb46248b7
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextStyles.Add
 ms.assetid: 56bb84a2-5632-1baa-4b97-3c48d43367bf
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

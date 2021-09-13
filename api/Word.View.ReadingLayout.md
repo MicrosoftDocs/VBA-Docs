@@ -8,7 +8,7 @@ api_name:
 - Word.View.ReadingLayout
 ms.assetid: e53d6913-0c2c-2933-384a-31b1e8ab4986
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

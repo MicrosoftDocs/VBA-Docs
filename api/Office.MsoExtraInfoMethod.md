@@ -5,7 +5,7 @@ api_name:
 - Office.MsoExtraInfoMethod
 ms.assetid: eb8edb9c-2a9a-62b5-f592-e40a2325a555
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

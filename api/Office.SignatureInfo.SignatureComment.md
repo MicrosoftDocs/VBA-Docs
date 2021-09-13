@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureInfo.SignatureComment
 ms.assetid: 2cd03ccf-4291-ff80-ef13-4c03590aa10b
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

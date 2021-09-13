@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatConditions.AddDatabar
 ms.assetid: 4e22e749-860b-4224-b983-ba6dbbc7096a
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

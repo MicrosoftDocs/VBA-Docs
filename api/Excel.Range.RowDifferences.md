@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.RowDifferences
 ms.assetid: 89030ca3-9f59-7426-d050-89dcabf00887
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

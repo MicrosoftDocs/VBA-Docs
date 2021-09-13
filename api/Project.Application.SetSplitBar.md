@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SetSplitBar
 ms.assetid: caf26a56-43ad-1714-79e4-cab013a55f3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

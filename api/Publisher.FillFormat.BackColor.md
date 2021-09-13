@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.BackColor
 ms.assetid: 61c6171b-f707-6741-68d2-5389bb3fac10
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

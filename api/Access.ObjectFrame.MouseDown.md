@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.MouseDown
 ms.assetid: 54fb7a4f-8428-429d-e560-3c4b64c0f683
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

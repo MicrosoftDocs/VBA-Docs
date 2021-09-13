@@ -8,7 +8,7 @@ api_name:
 - Word.Reviewers
 ms.assetid: ae1bec96-e6dc-39f0-421a-dfeeb95c9049
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

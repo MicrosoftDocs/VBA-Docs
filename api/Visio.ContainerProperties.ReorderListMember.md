@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.ReorderListMember
 ms.assetid: 6bcb8928-750d-bea6-bee8-1a4f18cfd08e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

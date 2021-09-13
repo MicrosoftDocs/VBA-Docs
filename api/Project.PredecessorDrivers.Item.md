@@ -5,7 +5,7 @@ api_name:
 - Project.PredecessorDrivers.Item
 ms.assetid: 4ed85587-a5a9-f684-2835-50ef8a1833bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.PathSeparator
 ms.assetid: 29347a13-8edb-0b02-32c3-d091eb52c9f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

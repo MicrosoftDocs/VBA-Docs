@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.SizeToFit
 ms.assetid: 6b436216-a814-62ab-d87a-6608959365e7
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

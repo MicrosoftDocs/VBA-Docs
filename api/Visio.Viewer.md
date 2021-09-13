@@ -3,7 +3,7 @@ title: Viewer object (Visio Viewer)
 ms.prod: visio
 ms.assetid: 4d25251a-5c4d-42d4-a73e-7e1e987ff593
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.NewItemAlertRuleAction.ActionType
 ms.assetid: e6cb9c35-48c3-f7fe-cfed-4eb45cb83149
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

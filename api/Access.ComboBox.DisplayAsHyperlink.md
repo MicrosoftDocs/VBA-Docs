@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.DisplayAsHyperlink
 ms.assetid: 7abd6406-9276-e2d2-de15-9450deb94973
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

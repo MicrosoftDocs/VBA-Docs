@@ -8,7 +8,7 @@ api_name:
 - Word.FileConverter.Extensions
 ms.assetid: 18a9819b-ddc3-5928-8ce7-882d00d3f5c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

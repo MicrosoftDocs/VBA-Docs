@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.PreviousRevision
 ms.assetid: e516037f-047d-5cd2-19b4-3b7870a14b5a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideRange.Layout
 ms.assetid: 0aa40bd1-9493-ed4c-dd09-fb0b35086e7c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.SaveData
 ms.assetid: 7657e1ee-cbed-91c6-0e69-defe4ca69897
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

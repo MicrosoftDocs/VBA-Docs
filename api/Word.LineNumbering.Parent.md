@@ -8,7 +8,7 @@ api_name:
 - Word.LineNumbering.Parent
 ms.assetid: 64feebf9-42e3-d5b3-191b-55c6d62d64b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

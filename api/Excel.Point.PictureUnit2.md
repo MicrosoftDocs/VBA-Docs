@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.PictureUnit2
 ms.assetid: adddcc7a-9d88-3b72-1279-b7d0e1894c6d
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Break
 ms.assetid: 771ba998-c22e-3cf0-fab7-af9329793855
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

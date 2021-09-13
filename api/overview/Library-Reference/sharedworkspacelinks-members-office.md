@@ -4,7 +4,7 @@ description: A collection of the SharedWorkspaceLink objects in the current shar
 ms.prod: office
 ms.assetid: 49c747c3-fcf9-9452-a391-6062666c3205
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

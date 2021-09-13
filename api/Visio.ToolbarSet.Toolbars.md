@@ -8,7 +8,7 @@ api_name:
 - Visio.ToolbarSet.Toolbars
 ms.assetid: ad345f3e-a000-6a6d-55bd-ed593678c3ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxLinks
 ms.assetid: da12c972-9647-9e1f-2909-1e0a18aff32b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

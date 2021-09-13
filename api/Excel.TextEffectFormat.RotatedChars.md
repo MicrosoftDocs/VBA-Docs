@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.RotatedChars
 ms.assetid: 708f076d-82e7-f7f3-a2df-3f4a4d628092
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

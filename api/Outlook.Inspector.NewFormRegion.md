@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.NewFormRegion
 ms.assetid: a8f3c116-6e90-ce85-d160-2b48798b45cf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

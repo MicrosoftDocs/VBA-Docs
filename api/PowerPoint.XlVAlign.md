@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.XlVAlign
 ms.assetid: eb79c279-ae90-8cb3-c59c-74206f34bf4e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

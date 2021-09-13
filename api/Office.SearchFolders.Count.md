@@ -8,7 +8,7 @@ api_name:
 - Office.SearchFolders.Count
 ms.assetid: d7d34fe2-eafb-58d7-83b5-f23a542abadb
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Characters
 ms.assetid: 1703bbe3-6c46-a45b-9f36-1205a0d2d47c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

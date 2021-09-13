@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.Previous
 ms.assetid: a53741b0-8325-696c-51e5-ffd3f9358ca8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

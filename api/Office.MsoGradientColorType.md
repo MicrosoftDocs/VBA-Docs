@@ -5,7 +5,7 @@ api_name:
 - Office.MsoGradientColorType
 ms.assetid: 0940fc83-d089-8b1d-dcf1-73773d0e21c5
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

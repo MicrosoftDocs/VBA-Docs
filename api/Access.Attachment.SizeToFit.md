@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.SizeToFit
 ms.assetid: 9e9b8a65-79ba-9fda-08d8-9b5444678228
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

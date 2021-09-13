@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.SplitValue
 ms.assetid: a7cab670-1510-5334-f11b-12dc8cc13570
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Options.MatchFuzzyTC
 ms.assetid: 9dc9eb01-d530-f2ac-0bb7-27630ca3ad60
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

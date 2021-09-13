@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.Alignment
 ms.assetid: 637e83e0-813e-1a8d-18f2-6a8d41dc47af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

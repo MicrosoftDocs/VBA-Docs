@@ -8,7 +8,7 @@ api_name:
 - Access.Label.RightPadding
 ms.assetid: 62e0dc41-59fb-06c3-b6c6-6da02d32f54b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

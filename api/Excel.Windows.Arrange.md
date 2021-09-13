@@ -8,7 +8,7 @@ api_name:
 - Excel.Windows.Arrange
 ms.assetid: 6b5088ea-6a75-b0df-941f-2032c9cc34a7
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

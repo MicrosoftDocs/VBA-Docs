@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.ObjectPalette
 ms.assetid: e4c8ea81-b39f-e580-9a68-c809c0deaf71
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

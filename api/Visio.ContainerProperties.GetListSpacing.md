@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.GetListSpacing
 ms.assetid: cc20b7dc-1498-998d-23fa-a69bbba35294
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

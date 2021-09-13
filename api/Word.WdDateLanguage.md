@@ -5,7 +5,7 @@ api_name:
 - Word.WdDateLanguage
 ms.assetid: fdb242cc-0cfb-3e3f-92f6-722039812502
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

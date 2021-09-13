@@ -8,7 +8,7 @@ api_name:
 - Visio.Addons.GetNames
 ms.assetid: b0f0fc37-0dfd-b61e-399e-10fb8c8b4b43
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

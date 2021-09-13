@@ -8,7 +8,7 @@ api_name:
 - Visio.IVBUndoUnit.OnNextAdd
 ms.assetid: a5504398-75a9-06be-346c-3afd85ce708e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

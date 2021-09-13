@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.LanguageID
 ms.assetid: 3fc73136-6107-ae4c-7f18-0c6ec944591a
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

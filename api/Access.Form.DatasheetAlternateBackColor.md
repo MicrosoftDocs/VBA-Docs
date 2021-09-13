@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetAlternateBackColor
 ms.assetid: d2a63a1f-0604-be80-5eef-67af92104bc2
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

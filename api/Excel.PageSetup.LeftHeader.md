@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.LeftHeader
 ms.assetid: 9d566b06-1178-9409-a299-f9da6debddaa
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

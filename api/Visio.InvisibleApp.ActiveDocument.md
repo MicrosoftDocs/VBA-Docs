@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.ActiveDocument
 ms.assetid: 371a2ac8-e2f4-b266-be65-0086baaee59f
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.UniqueTable
 ms.assetid: 25f543fd-d636-db47-ef83-97f4409e74c2
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

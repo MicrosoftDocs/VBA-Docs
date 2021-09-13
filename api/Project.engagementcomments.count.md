@@ -3,7 +3,7 @@ title: EngagementComments.Count property (Project)
 ms.assetid: 8767e8f8-7e89-5644-a53a-5d28e34dc75d
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

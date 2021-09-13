@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Placement
 ms.assetid: 03cc3dc9-7e91-3410-be95-29e62b09331d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.InstantiateTemplate
 ms.assetid: de91646c-1681-37e5-30c4-97b42617497b
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

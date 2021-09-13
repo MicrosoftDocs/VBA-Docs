@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.ObjectVerbs
 ms.assetid: e0e2c596-7276-3626-1ce4-ec5502bec02c
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

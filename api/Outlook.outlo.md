@@ -3,7 +3,7 @@ title: Outlook View Control reference (Outlook)
 ms.prod: outlook
 ms.assetid: 16c12559-3a33-4ab4-ac20-75ea77e4ec68
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

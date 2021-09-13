@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.FunctionWizard
 ms.assetid: a9a0c765-4903-4969-8f09-c8f051213a96
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

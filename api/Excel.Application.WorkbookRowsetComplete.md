@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WorkbookRowsetComplete
 ms.assetid: cc472400-5622-5b4f-60a2-d3347ded266f
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

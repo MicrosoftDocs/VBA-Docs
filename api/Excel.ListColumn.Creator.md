@@ -8,7 +8,7 @@ api_name:
 - Excel.ListColumn.Creator
 ms.assetid: 9dad6409-cd84-e7ef-71e0-d003ca61cdda
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

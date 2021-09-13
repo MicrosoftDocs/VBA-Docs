@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.GetFormatName
 ms.assetid: 5586e07a-8b05-8894-d877-45c27584d4e0
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

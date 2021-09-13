@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.NoTextRotation
 ms.assetid: ec749919-a096-bcdf-0400-3fc66bf4e2e9
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

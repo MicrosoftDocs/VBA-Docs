@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.RotationY
 ms.assetid: 71d6e255-eb1c-62bc-61f2-8b4f8be3ad6f
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

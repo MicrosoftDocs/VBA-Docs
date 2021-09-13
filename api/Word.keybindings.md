@@ -3,7 +3,7 @@ title: KeyBindings object (Word)
 ms.prod: word
 ms.assetid: d2e38b04-b7e1-b35c-e511-5988d132b074
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

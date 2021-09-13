@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.Floor
 ms.assetid: 1544e584-3b0f-92a8-cc8f-6b12ed66109e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.Height
 ms.assetid: 53d6085e-e01e-5260-0802-3958f62e378a
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

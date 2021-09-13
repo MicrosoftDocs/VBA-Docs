@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CustomOutlineCodeEditEx
 ms.assetid: fc0f60a6-18bf-a8e6-9376-1222a126a64a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

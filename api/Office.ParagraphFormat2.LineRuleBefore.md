@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.LineRuleBefore
 ms.assetid: 8fff6daa-b7de-f490-6137-efc49c45c8dc
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

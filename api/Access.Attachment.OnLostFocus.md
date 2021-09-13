@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnLostFocus
 ms.assetid: 546d0491-ddb8-87d4-9f97-d68cfd96070c
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

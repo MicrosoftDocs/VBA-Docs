@@ -8,7 +8,7 @@ api_name:
 - Office.Permission.StoreLicenses
 ms.assetid: c08e088c-8cdf-baa0-56e4-3d4d6f3caab8
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

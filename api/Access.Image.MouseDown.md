@@ -8,7 +8,7 @@ api_name:
 - Access.Image.MouseDown
 ms.assetid: 03da9154-2e2b-7801-ec11-06101f7cecb0
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

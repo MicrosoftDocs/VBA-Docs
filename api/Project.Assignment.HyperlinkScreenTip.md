@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.HyperlinkScreenTip
 ms.assetid: 48b8b03c-4662-3ea8-646e-22a1ce268f81
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: ToggleButton Object Reference (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 9332af2f-e50a-4c56-a29e-1f1362a5ce17
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 8cfd38bf-8336-0106-a170-1319bcea0eb8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

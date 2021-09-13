@@ -8,7 +8,7 @@ api_name:
 - Excel.SeriesCollection.Add
 ms.assetid: 11bedfdb-de8e-94cf-a23d-2c6e1d85cc9a
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

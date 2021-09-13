@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.PointsToScreenPixelsY
 ms.assetid: f90f957e-a233-a3fc-a774-1ba784265214
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

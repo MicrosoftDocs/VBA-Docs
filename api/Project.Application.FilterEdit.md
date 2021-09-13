@@ -8,7 +8,7 @@ api_name:
 - Project.Application.FilterEdit
 ms.assetid: e576d3e2-5ac9-006a-2151-dc918b71eef8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

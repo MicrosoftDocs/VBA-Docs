@@ -8,7 +8,7 @@ api_name:
 - Outlook.SelectNamesDialog.Parent
 ms.assetid: f088ce9e-718a-29cf-cc1c-197101644e73
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

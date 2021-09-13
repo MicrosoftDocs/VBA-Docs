@@ -8,7 +8,7 @@ api_name:
 - Excel.Sort.Orientation
 ms.assetid: 58c6264f-0c0c-f2d7-da2a-83277fdd0698
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ReplaceB
 ms.assetid: 8853dcdd-6cd0-6ac5-1a71-27054f2a4776
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

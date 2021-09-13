@@ -8,7 +8,7 @@ api_name:
 - Word.FormFields.Item
 ms.assetid: abf89441-a6a0-f1a4-25fe-c14d05e32cd6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

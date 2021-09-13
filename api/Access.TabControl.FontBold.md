@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.FontBold
 ms.assetid: a76c23ea-b15c-8d2a-cc27-f082c6d81ca9
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

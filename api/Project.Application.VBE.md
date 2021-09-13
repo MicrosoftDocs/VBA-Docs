@@ -8,7 +8,7 @@ api_name:
 - Project.Application.VBE
 ms.assetid: abd71fdd-1ae8-5b29-a2a3-0ffedde3f667
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.MarkerStyle
 ms.assetid: fec57799-b01b-a8f8-2c26-1e7b11dd9777
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

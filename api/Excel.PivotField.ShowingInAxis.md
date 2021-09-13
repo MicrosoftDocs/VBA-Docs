@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.ShowingInAxis
 ms.assetid: 5939c4ff-b256-8cf8-8aa3-3249349be0ce
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

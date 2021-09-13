@@ -8,7 +8,7 @@ api_name:
 - Excel.Watch.Parent
 ms.assetid: 550dcfdc-9da8-c320-2af8-83eb92062284
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

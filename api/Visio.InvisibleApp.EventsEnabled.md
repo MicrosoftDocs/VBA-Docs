@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.EventsEnabled
 ms.assetid: d13291ee-d305-8bee-5eab-01232ba0bbdc
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

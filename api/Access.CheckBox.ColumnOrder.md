@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.ColumnOrder
 ms.assetid: b485afc6-b19a-cd0a-990e-9de14f6f9104
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

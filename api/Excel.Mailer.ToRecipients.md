@@ -8,7 +8,7 @@ api_name:
 - Excel.Mailer.ToRecipients
 ms.assetid: 725ba114-e5d9-de48-39e7-3f5f9b33783e
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

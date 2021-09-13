@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnClick
 ms.assetid: a02c677d-d96b-754f-3ca8-0089a27a7e84
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

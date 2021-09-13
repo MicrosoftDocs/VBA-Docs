@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.ModifiedFormPages
 ms.assetid: ac377d47-846a-1217-592f-7ed190b824ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

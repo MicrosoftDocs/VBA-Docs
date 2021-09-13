@@ -8,7 +8,7 @@ api_name:
 - Access.Line.DisplayWhen
 ms.assetid: b5d425f8-744b-89e6-1929-f1ef9b187b0c
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.TopBottom
 ms.assetid: 8ab43085-677e-1883-5f88-4194f4027f2b
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.RemoveDateAndTime
 ms.assetid: 43520dad-0374-06c9-184e-da71de304360
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

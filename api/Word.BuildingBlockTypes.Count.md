@@ -8,7 +8,7 @@ api_name:
 - Word.BuildingBlockTypes.Count
 ms.assetid: 72fdde8a-94e0-5228-e3d7-4faffdcbc55b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

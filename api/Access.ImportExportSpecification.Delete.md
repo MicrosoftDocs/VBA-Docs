@@ -8,7 +8,7 @@ api_name:
 - Access.ImportExportSpecification.Delete
 ms.assetid: cc91c51e-1b2e-1d6e-b236-61a538843ce4
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Page.OnMouseMove
 ms.assetid: aa52fc17-d3b3-516a-ccad-f8471faf427d
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.SlideShowNextBuild
 ms.assetid: 63919ea5-57e4-853a-0e5a-94e1126cbfbf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

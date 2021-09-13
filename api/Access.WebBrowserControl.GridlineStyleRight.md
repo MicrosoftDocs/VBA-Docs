@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.GridlineStyleRight
 ms.assetid: e1781daa-5b1b-a4e9-ff41-3bf7a436f56e
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

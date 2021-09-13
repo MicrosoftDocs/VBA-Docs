@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.SizeToFit
 ms.assetid: ac4daffa-e89d-7d22-3885-3fe54ba9e155
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

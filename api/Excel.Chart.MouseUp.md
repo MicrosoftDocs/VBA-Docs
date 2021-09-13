@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.MouseUp
 ms.assetid: 45281aac-a4f6-390d-e767-a4fe2ee670fc
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

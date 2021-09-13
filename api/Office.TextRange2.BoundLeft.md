@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.BoundLeft
 ms.assetid: 8af6b9b9-4ecf-c127-87db-b87cabe9184b
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

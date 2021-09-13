@@ -8,7 +8,7 @@ api_name:
 - Outlook.TimeZones
 ms.assetid: c68f8589-44e9-3c12-45c1-96943fa9bcb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

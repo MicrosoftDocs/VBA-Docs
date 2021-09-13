@@ -8,7 +8,7 @@ api_name:
 - Word.LineFormat.EndArrowheadStyle
 ms.assetid: 8893f334-4da7-ec32-f3e6-268706e3ca84
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

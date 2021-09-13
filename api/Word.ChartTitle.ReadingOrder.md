@@ -8,7 +8,7 @@ api_name:
 - Word.ChartTitle.ReadingOrder
 ms.assetid: adda6dec-148f-b985-45cf-892e2e7b3b9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

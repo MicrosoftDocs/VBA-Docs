@@ -8,7 +8,7 @@ api_name:
 - Word.UndoRecord.IsRecordingCustomRecord
 ms.assetid: 08693e04-4a76-f7ab-9671-cdad35ac87ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

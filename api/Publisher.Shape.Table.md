@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Table
 ms.assetid: a9b29d1f-2459-556c-56f8-f8f809b879c9
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

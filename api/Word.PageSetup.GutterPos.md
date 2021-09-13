@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.GutterPos
 ms.assetid: 71027b04-e01b-e826-c0ae-39ca3c33182a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

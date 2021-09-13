@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BeforeUpdate
 ms.assetid: 2a0c1046-4d40-87f8-7ecc-4ef262ae90f0
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

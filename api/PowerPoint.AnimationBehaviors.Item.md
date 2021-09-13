@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationBehaviors.Item
 ms.assetid: 22f5f62b-3724-daab-dfbc-a9bd6a91b177
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

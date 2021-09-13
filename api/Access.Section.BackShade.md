@@ -8,7 +8,7 @@ api_name:
 - Access.Section.BackShade
 ms.assetid: 36d9b31e-f632-cd7e-0ecf-6ea6de57e1a4
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

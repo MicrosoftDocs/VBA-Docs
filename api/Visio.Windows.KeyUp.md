@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows.KeyUp
 ms.assetid: 16254787-b9ff-ecb5-4ae4-eb50338e12a4
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

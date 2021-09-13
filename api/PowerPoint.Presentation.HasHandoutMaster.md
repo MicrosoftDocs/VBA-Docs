@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.HasHandoutMaster
 ms.assetid: 40834cb4-1c7a-f2f3-0027-d93f294cfec2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

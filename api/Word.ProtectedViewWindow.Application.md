@@ -8,7 +8,7 @@ api_name:
 - Word.ProtectedViewWindow.Application
 ms.assetid: 9043ea49-8df6-2a62-1277-f0e220b0bd02
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

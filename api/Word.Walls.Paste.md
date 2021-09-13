@@ -8,7 +8,7 @@ api_name:
 - Word.Walls.Paste
 ms.assetid: f723f84b-4193-fd57-3e32-5134034482c1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

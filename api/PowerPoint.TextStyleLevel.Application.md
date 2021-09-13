@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextStyleLevel.Application
 ms.assetid: 45781e55-cec4-39a1-02df-e6cff65cde51
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

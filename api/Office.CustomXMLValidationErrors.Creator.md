@@ -5,7 +5,7 @@ api_name:
 - Office.CustomXMLValidationErrors.Creator
 ms.assetid: 53232bbe-a116-2393-7ee4-ee7eff31481f
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

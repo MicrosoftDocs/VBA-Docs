@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PrtDevNames
 ms.assetid: 96a3437b-3655-5a87-9a1f-722116c82708
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

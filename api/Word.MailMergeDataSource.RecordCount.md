@@ -8,7 +8,7 @@ api_name:
 - Word.MailMergeDataSource.RecordCount
 ms.assetid: d69db5d2-7ef0-dd9a-7e03-0029f6defd37
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

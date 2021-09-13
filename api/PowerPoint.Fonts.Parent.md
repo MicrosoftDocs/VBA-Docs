@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Fonts.Parent
 ms.assetid: 022cb574-2454-7289-0ce7-b16e9970c512
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

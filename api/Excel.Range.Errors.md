@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Errors
 ms.assetid: 88dcc606-d412-a9ce-82bc-5fbba8baae87
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertAfter
 ms.assetid: 25b2c0be-e9c7-1e42-09ea-308bbdcde7c6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

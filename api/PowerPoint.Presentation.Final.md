@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.Final
 ms.assetid: 03b16954-2f23-905b-8392-d88070e86e9f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

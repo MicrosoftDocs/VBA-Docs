@@ -8,7 +8,7 @@ api_name:
 - Outlook.CardView.HeadingsFont
 ms.assetid: 3287437e-4ac5-35f5-818a-caea608f8095
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

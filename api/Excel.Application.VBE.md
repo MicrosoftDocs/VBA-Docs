@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.VBE
 ms.assetid: e75dc57a-f9de-beb2-c50c-58445e47d63a
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

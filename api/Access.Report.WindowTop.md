@@ -8,7 +8,7 @@ api_name:
 - Access.Report.WindowTop
 ms.assetid: 99d1bec5-f6ac-bf5b-39d0-869a565e0572
 ms.date: 03/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

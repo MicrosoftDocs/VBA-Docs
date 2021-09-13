@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.Copies
 ms.assetid: 49d9387c-1714-5dbd-a349-6d7c2ce46ab9
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

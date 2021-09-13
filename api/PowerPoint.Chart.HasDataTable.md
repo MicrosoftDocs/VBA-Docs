@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.HasDataTable
 ms.assetid: 6864181a-da77-9da5-adad-008ecc5c8f7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

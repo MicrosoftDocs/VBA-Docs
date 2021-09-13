@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.BeforeSave
 ms.assetid: dfa3e20f-1fb2-f84f-4b92-a98f22b6e637
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

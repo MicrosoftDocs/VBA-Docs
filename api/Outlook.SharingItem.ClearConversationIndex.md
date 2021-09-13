@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.ClearConversationIndex
 ms.assetid: 8faf7fb6-21cb-b545-869b-3ddb7a516442
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabel.Parent
 ms.assetid: bedd8d82-0d50-4a2e-9764-c447d71d33ba
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabel.Parent property (Office)
 ---
 

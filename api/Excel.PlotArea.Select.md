@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.Select
 ms.assetid: 0aa567a6-b6d6-633a-e2b2-6ef07431692a
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

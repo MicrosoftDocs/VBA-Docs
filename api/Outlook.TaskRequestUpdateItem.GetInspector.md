@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestUpdateItem.GetInspector
 ms.assetid: 9542e72b-9b9d-be7a-5c2f-1c4a653be4d7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.MsoPresetThreeDFormat
 ms.assetid: 9d362115-1979-d079-d7e5-2e7788da614b
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

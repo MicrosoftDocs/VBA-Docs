@@ -8,7 +8,7 @@ api_name:
 - Office.IConverterPreferences
 ms.assetid: c45e5b48-eced-32e6-1887-ff5c100ae1cc
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

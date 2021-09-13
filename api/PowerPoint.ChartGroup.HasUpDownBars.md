@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartGroup.HasUpDownBars
 ms.assetid: fbc2efef-d3dd-cd26-fe90-3888425b7401
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

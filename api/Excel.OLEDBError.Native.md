@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBError.Native
 ms.assetid: 2eae623f-7803-b3ce-467b-ee4f9c5c8c20
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

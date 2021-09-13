@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.BackShade
 ms.assetid: 68800e85-9dfa-958d-e87d-1241be551f90
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

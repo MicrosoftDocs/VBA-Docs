@@ -8,7 +8,7 @@ api_name:
 - Office.DocumentLibraryVersions
 ms.assetid: 075c0315-fade-6d45-9ab9-6c798f6f09ac
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.RulerLevel2.Parent
 ms.assetid: 6331e73e-63b2-d702-6a43-552f856db9a5
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

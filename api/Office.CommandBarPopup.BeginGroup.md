@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.BeginGroup
 ms.assetid: 0ecc5c98-5db7-792c-8f33-86f7df32d912
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

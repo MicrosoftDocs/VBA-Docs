@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ViewShowRemainingAvailability
 ms.assetid: 9e76e3e1-1f50-d744-3804-70d4ce9cff33
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

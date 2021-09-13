@@ -8,7 +8,7 @@ api_name:
 - Word.View.DisplayBackgrounds
 ms.assetid: 6b1dfa3a-a2bd-a737-e0b2-0792d13451ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

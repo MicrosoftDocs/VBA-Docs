@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.AddToContainers
 ms.assetid: 7f3e739f-a573-049c-9f54-9e93a401191f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

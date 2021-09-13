@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Finish8
 ms.assetid: 5733c2cf-795a-42b0-adf9-9665940cbe28
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

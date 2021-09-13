@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatPlainTextWordMail
 ms.assetid: 87b5f068-772c-e37d-9370-377849138d07
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

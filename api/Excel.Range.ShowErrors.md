@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ShowErrors
 ms.assetid: 02366ef0-b4dc-a10c-e186-d9392a8b656c
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

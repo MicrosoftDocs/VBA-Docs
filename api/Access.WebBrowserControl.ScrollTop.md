@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.ScrollTop
 ms.assetid: adc0ee0f-1262-373f-a0db-de7bba917e13
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

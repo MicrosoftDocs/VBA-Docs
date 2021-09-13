@@ -5,7 +5,7 @@ api_name:
 - Outlook.ContactItem.Open
 ms.assetid: 80f12bd2-a36d-d5ae-e6a1-55df6fe2fc2c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

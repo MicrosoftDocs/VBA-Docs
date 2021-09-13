@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Width
 ms.assetid: 03db8a33-19f3-94dc-4a46-5d643ab0da14
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.FileValidation
 ms.assetid: 2f88d1a7-98a7-9ec6-09b3-a09c1a934e01
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

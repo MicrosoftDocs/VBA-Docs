@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.BorderWidth
 ms.assetid: 520ed761-de5d-9e70-3cc8-79264f6c0f3f
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

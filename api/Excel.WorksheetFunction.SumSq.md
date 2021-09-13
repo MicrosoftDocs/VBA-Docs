@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.SumSq
 ms.assetid: 63e68e24-459a-d8bb-21b2-e9905a3c14ff
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

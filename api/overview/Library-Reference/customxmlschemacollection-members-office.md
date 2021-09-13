@@ -3,7 +3,7 @@ title: CustomXMLSchemaCollection members (Office)
 ms.prod: office
 ms.assetid: 68e492da-a554-0cf3-beec-78619036348d
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.ConsolidationSources
 ms.assetid: d7868b1c-c9ae-97c5-a092-033fe52db5d4
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

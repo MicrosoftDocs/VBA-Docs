@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabels.VerticalAlignment
 ms.assetid: 0d3b60ea-6d6f-7cc4-ef2a-0fc107553a7b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

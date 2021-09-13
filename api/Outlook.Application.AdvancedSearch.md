@@ -8,7 +8,7 @@ api_name:
 - Outlook.Application.AdvancedSearch
 ms.assetid: 7b433d8b-08b9-dff1-b854-287d76b47a90
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

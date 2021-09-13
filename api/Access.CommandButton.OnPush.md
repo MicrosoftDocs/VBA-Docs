@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.OnPush
 ms.assetid: 38fab0d1-495e-9053-5e24-932ae0d8bdce
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

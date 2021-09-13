@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceMembers.ItemCountExceeded
 ms.assetid: 9e647bd4-fc49-5e11-385a-79f6add9f335
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

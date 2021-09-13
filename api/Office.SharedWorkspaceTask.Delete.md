@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceTask.Delete
 ms.assetid: 6383a6bc-8a1c-744e-0639-dda06af97a1e
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

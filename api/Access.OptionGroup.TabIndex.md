@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.TabIndex
 ms.assetid: 1ceeb9cd-e9b6-129f-72b9-3d15d9622709
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

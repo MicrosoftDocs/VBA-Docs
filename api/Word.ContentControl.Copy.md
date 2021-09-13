@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControl.Copy
 ms.assetid: ce3ba4ce-aef7-cb7d-ec7b-a160155a939d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

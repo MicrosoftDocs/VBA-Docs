@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.ForeShade
 ms.assetid: 266e2047-8d29-69e7-bda9-c3d152cf78ba
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

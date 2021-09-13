@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequence.FindFirstAnimationFor
 ms.assetid: 124dda8e-b93a-5d8a-06ba-30529cf5c6a0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

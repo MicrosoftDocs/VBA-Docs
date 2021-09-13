@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedAlign
 ms.assetid: 5c2dc0a7-981f-731d-6a85-0971c7e19a62
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

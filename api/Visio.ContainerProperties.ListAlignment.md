@@ -8,7 +8,7 @@ api_name:
 - Visio.ContainerProperties.ListAlignment
 ms.assetid: f8d62807-9663-b5ac-0154-d37fea1f9816
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

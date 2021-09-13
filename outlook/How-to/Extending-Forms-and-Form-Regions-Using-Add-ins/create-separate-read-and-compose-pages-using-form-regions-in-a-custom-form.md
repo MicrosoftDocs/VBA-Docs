@@ -3,7 +3,7 @@ title: Create Separate Read and Compose Pages Using Form Regions in a Custom For
 ms.prod: outlook
 ms.assetid: 6e773aff-c7ec-f836-b4c2-84d6121fc62e
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

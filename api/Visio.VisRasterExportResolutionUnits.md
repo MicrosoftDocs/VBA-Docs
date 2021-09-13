@@ -8,7 +8,7 @@ api_name:
 - Visio.VisRasterExportResolutionUnits
 ms.assetid: bc3fbcf3-7b15-0bc2-4e03-6badf4be00ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

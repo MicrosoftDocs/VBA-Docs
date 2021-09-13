@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DDEAppReturnCode
 ms.assetid: 9b55dcce-eea8-a8b7-dace-296191de18a4
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

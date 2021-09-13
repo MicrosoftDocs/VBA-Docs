@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PaletteSource
 ms.assetid: 9dc324a1-dc31-b0c5-edca-c4bc1674155a
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

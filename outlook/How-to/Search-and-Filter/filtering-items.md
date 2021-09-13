@@ -3,7 +3,7 @@ title: Filtering Items
 ms.prod: outlook
 ms.assetid: 4038e042-1b07-5d18-18b0-c2b58c9c42da
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

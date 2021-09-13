@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FastLaserPrinting
 ms.assetid: b96ec618-de46-8802-0d9e-064fd8835fbd
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

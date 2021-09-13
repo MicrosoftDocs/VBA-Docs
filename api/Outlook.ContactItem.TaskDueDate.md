@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.TaskDueDate
 ms.assetid: 3449ec3e-ca65-c8e3-c3fc-ca9eb5ab0f75
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

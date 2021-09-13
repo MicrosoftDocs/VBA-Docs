@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFormula.Creator
 ms.assetid: d3d302ec-3f9a-7969-bfbe-51e56680cce5
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

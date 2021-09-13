@@ -3,7 +3,7 @@ title: Manipulating Controls Programmatically
 ms.prod: outlook
 ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

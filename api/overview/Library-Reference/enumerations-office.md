@@ -3,7 +3,7 @@ title: Enumerations (Office)
 ms.prod: office
 ms.assetid: cdde7c32-e142-4db6-aa28-e2e81a6f0785
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

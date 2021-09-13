@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectionExtend
 ms.assetid: cffc56a0-0b25-2afa-427c-840aa2053921
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.OldValue
 ms.assetid: ddee64e6-38cf-d033-4963-76529744ef81
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

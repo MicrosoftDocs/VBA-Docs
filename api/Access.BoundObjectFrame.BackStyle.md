@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BackStyle
 ms.assetid: 335ce425-d682-831a-ecfa-4c46b9bf5a28
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

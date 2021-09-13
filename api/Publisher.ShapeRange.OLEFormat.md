@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.OLEFormat
 ms.assetid: 237b51e8-dced-3e21-d257-410121107a63
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

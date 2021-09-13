@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.GridlineShade
 ms.assetid: f095b4d4-6c8b-5e17-6282-f4e97a7ef21f
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

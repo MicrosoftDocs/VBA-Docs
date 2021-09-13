@@ -8,7 +8,7 @@ api_name:
 - Excel.Actions.Creator
 ms.assetid: 453bcc61-d054-47b8-3447-f2896c343699
 ms.date: 03/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

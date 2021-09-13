@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.Copy
 ms.assetid: 4314de01-8a25-0ab4-582f-7a61f62f8a18
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

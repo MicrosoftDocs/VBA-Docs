@@ -3,7 +3,7 @@ title: Page.Cut Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 9b2d18c2-2007-d689-5645-d4a6f6306862
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

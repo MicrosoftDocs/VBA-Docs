@@ -8,7 +8,7 @@ api_name:
 - Excel.RectangularGradient.ColorStops
 ms.assetid: 92ca6107-4d6f-2f69-1f89-87acb138c277
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

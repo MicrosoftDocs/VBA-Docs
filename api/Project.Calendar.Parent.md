@@ -5,7 +5,7 @@ api_name:
 - Project.Calendar.Parent
 ms.assetid: b86fa5e8-f468-862e-f8a9-7ab2cb6b43b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

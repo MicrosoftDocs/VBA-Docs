@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.IsTrusted
 ms.assetid: 11f0088a-77f4-cd37-e730-86c4641f4a70
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

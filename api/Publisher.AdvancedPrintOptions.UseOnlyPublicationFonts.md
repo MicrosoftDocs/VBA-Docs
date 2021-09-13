@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
 ms.assetid: f5973b32-37f3-8f65-1437-a465aa488ef4
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.SetFocus
 ms.assetid: 68d0ec9e-7a2e-1402-6a2a-38caad5d13bb
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

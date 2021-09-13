@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.DisplayWhen
 ms.assetid: 6f45b7da-6c6f-a7cf-b79a-4537b8f74dfe
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

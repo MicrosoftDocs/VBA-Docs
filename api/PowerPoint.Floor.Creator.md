@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Floor.Creator
 ms.assetid: e5e50882-ab96-0e99-2da6-aa481174022b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.SensitivityLabelInitInfo.Application
 ms.assetid: 76217866-88c8-4524-8256-7e56725b3d94
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SensitivityLabelInitInfo.Application property (Office)
 ---
 

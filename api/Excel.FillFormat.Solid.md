@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat.Solid
 ms.assetid: 5db7e000-7449-6bbc-192f-8b718ccffac6
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

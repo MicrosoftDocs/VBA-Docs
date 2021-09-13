@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.MatchDiacritics
 ms.assetid: e23d01a1-9252-4077-c52f-87c53b5c0589
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ProtectedViewWindows.Open
 ms.assetid: 864042f4-bfe7-3a70-6428-f7ab166da08d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

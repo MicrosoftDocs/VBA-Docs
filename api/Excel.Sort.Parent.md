@@ -8,7 +8,7 @@ api_name:
 - Excel.Sort.Parent
 ms.assetid: d2ad848c-e811-0baa-ca23-623f7a731ae7
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PrintCount
 ms.assetid: 9228d6eb-872c-db58-b316-78bff8b375dc
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

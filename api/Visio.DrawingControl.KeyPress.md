@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.KeyPress
 ms.assetid: 3561c566-8abd-518a-f78b-4b2db6f16697
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

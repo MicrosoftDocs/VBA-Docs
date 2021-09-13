@@ -5,7 +5,7 @@ api_name:
 - Publisher.BuildingBlocks.Parent
 ms.assetid: 86a04e61-5170-d4a6-373a-02a4ec1a01b6
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

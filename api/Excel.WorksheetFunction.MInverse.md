@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MInverse
 ms.assetid: ff41fb08-8c25-f84c-dbca-ecfe4687359e
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

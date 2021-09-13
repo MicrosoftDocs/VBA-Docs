@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorIndex
 ms.assetid: e9a9c9de-8a42-0f61-be25-4c158709df68
 ms.date: 04/10/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

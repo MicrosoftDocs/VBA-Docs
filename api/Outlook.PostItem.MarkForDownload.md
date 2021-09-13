@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.MarkForDownload
 ms.assetid: 1b263e7f-923b-89ba-a63c-18af6efa7d38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

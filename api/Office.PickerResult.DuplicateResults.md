@@ -8,7 +8,7 @@ api_name:
 - Office.PickerResult.DuplicateResults
 ms.assetid: 5f08ff79-faf7-cc6d-45d5-3ed1d32a5e02
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

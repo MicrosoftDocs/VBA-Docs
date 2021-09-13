@@ -8,7 +8,7 @@ api_name:
 - Excel.Mailer.CCRecipients
 ms.assetid: efcceedd-dc35-a683-bdc1-50b8b8368f31
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.PictureData
 ms.assetid: 3154933c-0945-81b8-272b-3e37fa819b05
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

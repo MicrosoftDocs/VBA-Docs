@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Section
 ms.assetid: 60c253a2-aefc-f85a-b928-f34548f10713
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

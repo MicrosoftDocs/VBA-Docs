@@ -8,7 +8,7 @@ api_name:
 - Excel.Walls
 ms.assetid: 97c3a312-abf1-9da7-cbff-8e48737bf499
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

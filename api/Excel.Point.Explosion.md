@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Explosion
 ms.assetid: b6b557c3-d41b-d496-4093-336ec07fb575
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

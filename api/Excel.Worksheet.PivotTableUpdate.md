@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.PivotTableUpdate
 ms.assetid: 66186c97-6855-b360-a6c0-56da617d24a6
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

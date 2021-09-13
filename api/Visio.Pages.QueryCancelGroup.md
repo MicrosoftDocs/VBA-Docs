@@ -8,7 +8,7 @@ api_name:
 - Visio.Pages.QueryCancelGroup
 ms.assetid: 02e97010-02b9-1062-22fb-0b3d24eb90f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

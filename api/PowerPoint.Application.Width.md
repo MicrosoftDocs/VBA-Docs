@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.Width
 ms.assetid: ba9c122d-4283-1865-63f1-07bf746f1606
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

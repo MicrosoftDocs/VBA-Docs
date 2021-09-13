@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.FisherInv
 ms.assetid: bf4656e3-b79d-7fe6-917f-16afedc736fe
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

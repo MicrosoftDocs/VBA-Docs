@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.OnDblClick
 ms.assetid: 3c4f98d5-3190-e88b-50ce-df08a3c4aac0
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.Properties
 ms.assetid: ae014699-7594-181d-7f98-e72f7cf3c071
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

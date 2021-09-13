@@ -3,7 +3,7 @@ title: EffectParameter members (Office)
 ms.prod: office
 ms.assetid: a52ed620-d0eb-4111-495e-bfe6e768c8df
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ChartArea.Width
 ms.assetid: 623e72a1-f584-0c59-5a74-4edf8c469c3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

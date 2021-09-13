@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonControl.Tag
 ms.assetid: d0f041c
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfContents.TabLeader
 ms.assetid: aba91b67-33c6-fe8c-0a13-4d5692256091
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

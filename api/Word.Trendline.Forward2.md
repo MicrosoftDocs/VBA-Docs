@@ -8,7 +8,7 @@ api_name:
 - Word.Trendline.Forward2
 ms.assetid: a1135396-fca9-329f-27a7-964a305604b6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

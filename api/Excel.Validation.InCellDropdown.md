@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.InCellDropdown
 ms.assetid: 019cf85b-831f-38f0-ea69-a30066acf30e
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Drop
 ms.assetid: 1e6b2d14-71c2-4adc-a9d7-ec123b2b7f31
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

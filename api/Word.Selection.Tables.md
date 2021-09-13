@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Tables
 ms.assetid: 1639cfda-d347-0227-6a4c-8f269c81230f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

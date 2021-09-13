@@ -8,7 +8,7 @@ api_name:
 - Access.Image.GridlineShade
 ms.assetid: 1ed961e6-9698-322f-361c-76e42b81433e
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

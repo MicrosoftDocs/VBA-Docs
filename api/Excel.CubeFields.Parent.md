@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeFields.Parent
 ms.assetid: 84ba29bf-e810-55a2-52d1-ebf5d43ff6f4
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

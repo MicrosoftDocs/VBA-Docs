@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.BorderTint
 ms.assetid: 0fda73df-4394-7399-3b54-84d80f56aeea
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

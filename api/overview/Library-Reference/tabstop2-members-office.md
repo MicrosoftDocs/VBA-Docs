@@ -4,7 +4,7 @@ description: Represents a single tab stop. The TabStop2 object is a member of th
 ms.prod: office
 ms.assetid: e917b4b4-3df3-93a1-3cf8-ce65edc5f18e
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

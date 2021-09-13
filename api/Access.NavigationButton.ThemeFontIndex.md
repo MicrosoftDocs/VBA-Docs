@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.ThemeFontIndex
 ms.assetid: fb9dab70-239b-f5c9-a160-f2ce23678598
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

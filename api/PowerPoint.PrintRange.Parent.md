@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PrintRange.Parent
 ms.assetid: bdf7de95-8cea-be3b-6554-e7d68a7992d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

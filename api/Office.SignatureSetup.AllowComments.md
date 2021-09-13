@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSetup.AllowComments
 ms.assetid: 18e47357-7f3f-98d9-54fd-97ac81bfbde6
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

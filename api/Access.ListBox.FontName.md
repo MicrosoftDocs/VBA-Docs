@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.FontName
 ms.assetid: 9bcab0c1-7a13-2b1a-91c1-56f784451bdf
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

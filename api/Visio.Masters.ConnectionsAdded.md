@@ -8,7 +8,7 @@ api_name:
 - Visio.Masters.ConnectionsAdded
 ms.assetid: 1ebdad8c-5073-7f6c-d811-42d3725776ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

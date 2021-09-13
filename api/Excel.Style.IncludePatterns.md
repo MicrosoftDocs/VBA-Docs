@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.IncludePatterns
 ms.assetid: edb7e87f-20d2-2bea-b2e8-83ffab749e3e
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

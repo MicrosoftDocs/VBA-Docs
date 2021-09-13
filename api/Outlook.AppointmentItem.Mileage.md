@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Mileage
 ms.assetid: 4562097b-3489-768c-f808-84249e030aab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

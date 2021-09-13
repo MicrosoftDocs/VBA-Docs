@@ -8,7 +8,7 @@ api_name:
 - Excel.RoutingSlip
 ms.assetid: 126d4c87-7e1c-3ecd-d223-f23a02444f61
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

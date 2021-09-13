@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.StyleChanged
 ms.assetid: 750c621a-d392-a17f-fced-f98a36f82951
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOColumns.Parent
 ms.assetid: b0d2184c-e33e-9cc0-e21c-bd26174aefc4
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

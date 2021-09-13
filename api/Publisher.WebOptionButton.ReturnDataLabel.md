@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebOptionButton.ReturnDataLabel
 ms.assetid: 22b4a4d6-1068-2b35-d054-42bbea3f9098
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.PlotBy
 ms.assetid: 14b696d7-148c-267f-4294-4dddc9fba4e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

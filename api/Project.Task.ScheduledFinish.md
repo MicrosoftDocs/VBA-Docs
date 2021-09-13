@@ -5,7 +5,7 @@ api_name:
 - Project.Task.ScheduledFinish
 ms.assetid: 2d3a8af8-8d88-e271-4e2f-377b328257ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

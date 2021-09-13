@@ -8,7 +8,7 @@ api_name:
 - Word.TextEffectFormat.Alignment
 ms.assetid: df07036c-9e87-da8f-1131-81c44ff7ad68
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

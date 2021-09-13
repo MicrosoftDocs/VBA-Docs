@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObject.BringToFront
 ms.assetid: 2b9d6071-41e4-cd8b-2a4c-ddfbbfbb4348
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

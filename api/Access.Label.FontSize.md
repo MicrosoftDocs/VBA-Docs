@@ -8,7 +8,7 @@ api_name:
 - Access.Label.FontSize
 ms.assetid: 9b669364-ba6e-8b1a-7750-bf0c25b42e40
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

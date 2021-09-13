@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.HyperlinkAddress
 ms.assetid: ead317d6-aa1a-57a1-4d58-189ccf551b40
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

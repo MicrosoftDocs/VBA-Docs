@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Hyperlinks.Count
 ms.assetid: c16de153-87c8-2be0-7953-1838f57b5155
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

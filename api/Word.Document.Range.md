@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Range
 ms.assetid: 7dd33ac8-38f6-925d-a511-8677ca6437e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.AddMemberPropertyField
 ms.assetid: 721f9720-00c0-d9cf-1413-f3b0cc658595
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

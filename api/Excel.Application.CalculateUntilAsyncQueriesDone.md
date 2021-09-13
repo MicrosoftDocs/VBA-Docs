@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CalculateUntilAsyncQueriesDone
 ms.assetid: 5796365e-5a79-3e4b-023e-3a1a120e92df
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

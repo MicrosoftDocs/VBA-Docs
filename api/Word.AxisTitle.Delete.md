@@ -8,7 +8,7 @@ api_name:
 - Word.AxisTitle.Delete
 ms.assetid: 6d4d05c5-8319-5df7-c892-02d9e15e18d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

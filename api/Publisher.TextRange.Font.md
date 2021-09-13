@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Font
 ms.assetid: c5795f33-4e7b-f765-9ba8-f5b6706561d6
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

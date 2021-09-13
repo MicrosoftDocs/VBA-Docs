@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.Line
 ms.assetid: 0e4f0853-171a-486b-7d91-7921aa91387f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

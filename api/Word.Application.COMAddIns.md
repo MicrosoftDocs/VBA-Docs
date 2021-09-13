@@ -8,7 +8,7 @@ api_name:
 - Word.Application.COMAddIns
 ms.assetid: 2e13bcfd-f2e1-61a5-164a-24cf121011a4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Hide and Unhide Columns
 ms.prod: excel
 ms.assetid: fbfd24bb-9862-4895-9ac4-3e4f92197ede
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

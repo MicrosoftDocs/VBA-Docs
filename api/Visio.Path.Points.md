@@ -8,7 +8,7 @@ api_name:
 - Visio.Path.Points
 ms.assetid: 3c14acdb-33ad-9bd9-96d9-320bd53fa5c9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

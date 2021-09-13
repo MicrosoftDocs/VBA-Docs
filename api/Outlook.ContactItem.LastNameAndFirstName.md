@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.LastNameAndFirstName
 ms.assetid: 7667650d-3da9-8a30-63d5-2d6b0d55ccb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

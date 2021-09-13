@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.Shadow
 ms.assetid: 0095ff4e-56f0-9b56-73e2-2e3066ee8b03
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

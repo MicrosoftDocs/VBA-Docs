@@ -3,7 +3,7 @@ title: Distribution List Forms Overview
 ms.prod: outlook
 ms.assetid: cff157d1-4436-64f3-f952-578f20fe622a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Operations.Count
 ms.assetid: 1ce7a163-281e-6450-7ac0-818a76372b4f
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

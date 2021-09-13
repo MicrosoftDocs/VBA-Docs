@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.HebrewModes
 ms.assetid: b8ecfa29-7ec4-180b-fb37-6876ab6c0cc7
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

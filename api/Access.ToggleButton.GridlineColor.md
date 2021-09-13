@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.GridlineColor
 ms.assetid: 8c35e5ad-5a5e-479f-4161-82637aae376c
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

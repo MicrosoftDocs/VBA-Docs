@@ -5,7 +5,7 @@ api_name:
 - Excel.XlEnableSelection
 ms.assetid: 91b1a272-86e3-a9cf-8c90-d5fcbb22d5f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

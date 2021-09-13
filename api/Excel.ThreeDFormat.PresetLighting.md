@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.PresetLighting
 ms.assetid: 68ff6d02-167c-8be0-c785-879431f5ef5c
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

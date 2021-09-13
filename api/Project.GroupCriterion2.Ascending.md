@@ -5,7 +5,7 @@ api_name:
 - Project.GroupCriterion2.Ascending
 ms.assetid: 925ca236-4327-de03-d208-093f71d2f135
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

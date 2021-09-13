@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.PrintQuality
 ms.assetid: 1c497526-214a-92ed-ce5b-920799ec52ff
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

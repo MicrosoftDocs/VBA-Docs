@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GanttBarStyleEdit
 ms.assetid: a955c65c-5579-bd76-150e-d98b5045302d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

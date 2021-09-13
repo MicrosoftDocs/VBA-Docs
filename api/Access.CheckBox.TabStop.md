@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.TabStop
 ms.assetid: 2949f9f9-a18d-900b-cc43-05732b91eb19
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

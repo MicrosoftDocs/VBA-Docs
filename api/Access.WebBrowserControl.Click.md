@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Click
 ms.assetid: 3fe2ddc2-f208-3374-3b90-34fd130281ca
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.DropDown.Default
 ms.assetid: aaf2920c-1077-3c5d-f80e-4ad119b3ae2f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

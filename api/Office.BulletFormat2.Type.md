@@ -5,7 +5,7 @@ api_name:
 - Office.BulletFormat2.Type
 ms.assetid: 994b3307-70bc-90d1-2028-db30df8e7c63
 ms.date: 01/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

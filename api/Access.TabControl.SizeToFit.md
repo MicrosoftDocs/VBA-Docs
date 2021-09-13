@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.SizeToFit
 ms.assetid: d2509998-4d85-8611-c97a-4ce458d83f58
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

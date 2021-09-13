@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.Height
 ms.assetid: e67cfeb0-b0be-aeab-c5ea-0719bc92d376
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

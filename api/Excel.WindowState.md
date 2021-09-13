@@ -8,7 +8,7 @@ api_name:
 - Excel.WindowState
 ms.assetid: 22ce1105-6f4e-54d2-4f9a-216019462f04
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

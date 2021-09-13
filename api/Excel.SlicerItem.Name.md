@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerItem.Name
 ms.assetid: c12e25db-b923-fe1e-0f2d-139dc1baff92
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

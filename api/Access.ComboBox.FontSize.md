@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.FontSize
 ms.assetid: 6dcd4b7e-01ec-a44d-4ceb-eecaa02ed1d7
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

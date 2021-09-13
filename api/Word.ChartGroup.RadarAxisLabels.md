@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.RadarAxisLabels
 ms.assetid: 30b37487-bef9-b333-7df7-546d85a92047
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

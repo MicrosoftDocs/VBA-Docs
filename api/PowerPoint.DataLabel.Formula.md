@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DataLabel.Formula
 ms.assetid: dad80c89-34dc-1327-8ff0-00c0a4d691fa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

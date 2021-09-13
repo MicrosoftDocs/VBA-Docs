@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ObjectLinks
 ms.assetid: fd83706e-cbdf-fcab-9e64-1867952800f8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

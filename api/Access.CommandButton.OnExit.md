@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.OnExit
 ms.assetid: 8ff969a9-bb7c-9185-dba3-3259647fddbd
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

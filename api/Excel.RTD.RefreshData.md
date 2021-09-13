@@ -8,7 +8,7 @@ api_name:
 - Excel.RTD.RefreshData
 ms.assetid: fa2ddf47-1821-25b6-fcd9-b42853c2689a
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

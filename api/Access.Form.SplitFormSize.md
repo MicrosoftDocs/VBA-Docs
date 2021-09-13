@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SplitFormSize
 ms.assetid: 2fb63076-aebe-23ef-2a11-1c7b1b82ccb1
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Cell.FormulaChanged
 ms.assetid: 7f612470-ea40-1b7e-7334-825a124a96f3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

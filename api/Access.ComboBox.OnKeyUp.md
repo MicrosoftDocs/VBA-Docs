@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OnKeyUp
 ms.assetid: 5ee1855c-c6ba-84a6-4cc8-586ee2b201e0
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

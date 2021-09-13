@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.Gradient
 ms.assetid: ac12829e-ec4c-7f6e-93fa-918dc84bf7ce
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

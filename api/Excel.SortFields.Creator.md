@@ -8,7 +8,7 @@ api_name:
 - Excel.SortFields.Creator
 ms.assetid: ffdbea4a-0e5f-49cb-0345-8d6ffe8d0eef
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

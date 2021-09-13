@@ -8,7 +8,7 @@ api_name:
 - Word.Find.Execute
 ms.assetid: 3b607955-0e82-aa13-dad1-7a5069a57b9d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Watch.Creator
 ms.assetid: 32ceb2af-a620-3a2e-cc27-92165eb81d8f
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.ConnectionSiteCount
 ms.assetid: ce638d98-1db8-3f76-3f83-a38c62a04a1e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

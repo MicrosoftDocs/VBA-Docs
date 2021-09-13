@@ -8,7 +8,7 @@ api_name:
 - Word.OMathBorderBox.StrikeBLTR
 ms.assetid: 74547e18-bf99-641b-bb68-aed13bc19057
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

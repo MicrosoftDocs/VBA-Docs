@@ -5,7 +5,7 @@ api_name:
 - Office.SearchScope.Creator
 ms.assetid: 99656cbc-57c0-ca7c-4048-3239db958355
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

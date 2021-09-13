@@ -8,7 +8,7 @@ api_name:
 - Excel.Strikethrough
 ms.assetid: 62aff502-2f8e-df3b-f185-a44262bdaa64
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

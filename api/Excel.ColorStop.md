@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStop
 ms.assetid: 43c4d024-8213-5f93-dfa9-229f37e09d9a
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

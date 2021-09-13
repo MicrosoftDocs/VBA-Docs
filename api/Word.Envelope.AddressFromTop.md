@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.AddressFromTop
 ms.assetid: 425eb517-85af-68e2-951b-66282b813e9b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

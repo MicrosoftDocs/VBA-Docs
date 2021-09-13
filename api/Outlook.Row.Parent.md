@@ -8,7 +8,7 @@ api_name:
 - Outlook.Row.Parent
 ms.assetid: fd1ce056-66e8-76a0-a37d-3352829967cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

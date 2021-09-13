@@ -8,7 +8,7 @@ api_name:
 - Excel.Borders.Creator
 ms.assetid: 00a52b71-0faa-e52c-ad65-f33e684187f9
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.IConverter.HrExport
 ms.assetid: aa7b77ea-bacc-bd92-0de4-72a9a714d6a7
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

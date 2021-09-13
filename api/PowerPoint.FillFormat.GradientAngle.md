@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.FillFormat.GradientAngle
 ms.assetid: eb5362f0-5d3b-0091-7a83-0a8d58d90438
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

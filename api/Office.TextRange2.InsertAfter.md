@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.InsertAfter
 ms.assetid: 67ebed89-0090-98cb-882a-c1eaf701d182
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

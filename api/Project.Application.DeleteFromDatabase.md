@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DeleteFromDatabase
 ms.assetid: 22bed2ff-0e8b-e589-1479-06c482f296a9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

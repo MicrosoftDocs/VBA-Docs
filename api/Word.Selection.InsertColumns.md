@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertColumns
 ms.assetid: d58691b4-afa5-959a-a6a8-f202723df9f1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

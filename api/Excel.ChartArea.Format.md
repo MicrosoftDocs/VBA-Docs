@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartArea.Format
 ms.assetid: 619c67b5-0d7d-c37c-c585-1d569b2144ef
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

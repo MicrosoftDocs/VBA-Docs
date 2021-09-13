@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationFolders.Application
 ms.assetid: ea42857b-e3db-f384-43aa-626d9109a0a5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

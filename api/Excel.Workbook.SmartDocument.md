@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SmartDocument
 ms.assetid: 19916b63-e93a-7f1e-532c-f4bbdb60622d
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

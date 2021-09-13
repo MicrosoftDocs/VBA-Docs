@@ -8,7 +8,7 @@ api_name:
 - Office.VolumeName
 ms.assetid: 8592ae63-f36e-e87a-8286-72419d7781d0
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

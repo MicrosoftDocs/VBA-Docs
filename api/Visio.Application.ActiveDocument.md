@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.ActiveDocument
 ms.assetid: 0dbc95b6-4920-4291-55c0-ec0128e7f006
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

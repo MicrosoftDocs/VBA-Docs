@@ -8,7 +8,7 @@ api_name:
 - Access.Form.KeyPress
 ms.assetid: 62ebe014-955a-e47e-6506-f7be9aa44de6
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

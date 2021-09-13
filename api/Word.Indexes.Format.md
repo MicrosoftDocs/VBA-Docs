@@ -8,7 +8,7 @@ api_name:
 - Word.Indexes.Format
 ms.assetid: f1122cba-7d90-7c6e-5d64-efe15724cdcf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

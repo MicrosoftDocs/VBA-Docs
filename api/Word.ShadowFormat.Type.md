@@ -8,7 +8,7 @@ api_name:
 - Word.ShadowFormat.Type
 ms.assetid: b5ef2cb6-983c-0d4f-731c-54340f5142df
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

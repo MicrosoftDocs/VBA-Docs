@@ -3,7 +3,7 @@ title: CoauthMergeEvent.Stat property (Visio)
 ms.prod: visio
 ms.assetid: d8a96b8e-36b5-c61f-8cea-76266f7eed39
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

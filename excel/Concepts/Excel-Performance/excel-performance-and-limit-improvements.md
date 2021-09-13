@@ -3,7 +3,7 @@ title: Excel performance - Performance and limit improvements
 description: Find out about performance improvements in Excel 2016 and Excel 2010. 
 ms.date: 08/06/2020
 author: FastExcel
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Excel performance: Performance and limit improvements

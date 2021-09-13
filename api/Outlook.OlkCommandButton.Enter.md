@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.Enter
 ms.assetid: af533f23-e899-3171-51e0-b2bb380ad943
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

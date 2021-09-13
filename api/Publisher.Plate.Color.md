@@ -8,7 +8,7 @@ api_name:
 - Publisher.Plate.Color
 ms.assetid: 4c4897f5-90bb-cb84-e9b8-47df1a912916
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

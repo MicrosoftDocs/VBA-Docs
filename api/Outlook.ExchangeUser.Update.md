@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeUser.Update
 ms.assetid: a2672fbf-f32a-f120-227c-24ee5c361f35
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceTasks.ItemCountExceeded
 ms.assetid: 4a33fbae-1a7d-9d66-960b-e631b8d07316
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

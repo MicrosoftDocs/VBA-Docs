@@ -8,7 +8,7 @@ api_name:
 - Word.Section.Application
 ms.assetid: 14858227-9055-a62b-02a7-48eae79aa618
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

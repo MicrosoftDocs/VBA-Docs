@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.Height
 ms.assetid: a11515c7-19d1-b113-cce9-b8c94c6ccbc7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

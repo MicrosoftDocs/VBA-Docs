@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.TextToDisplay
 ms.assetid: b7b8e4ef-2a37-1733-f9a0-2bd6e7367f8d
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

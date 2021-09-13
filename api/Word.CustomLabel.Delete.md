@@ -8,7 +8,7 @@ api_name:
 - Word.CustomLabel.Delete
 ms.assetid: 812c213f-c34e-883b-014c-fa558f1be45a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

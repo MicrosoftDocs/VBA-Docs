@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.LineSpacing
 ms.assetid: bf1d5cef-8f0e-f759-3499-2f567097800e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.Exit
 ms.assetid: 47f37eb3-c0c1-457f-31ec-3b33b02ba986
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

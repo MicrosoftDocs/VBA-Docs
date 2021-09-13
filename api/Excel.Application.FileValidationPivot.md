@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FileValidationPivot
 ms.assetid: 3cf6e177-9dbe-8ee8-3d84-599d7e2221da
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

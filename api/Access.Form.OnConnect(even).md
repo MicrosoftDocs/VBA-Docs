@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnConnect
 ms.assetid: 39966052-0e06-bde9-142f-ee74d16a9973
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

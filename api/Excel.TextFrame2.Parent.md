@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.Parent
 ms.assetid: aed28538-c3bd-ebf7-47d5-ed6be97db000
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

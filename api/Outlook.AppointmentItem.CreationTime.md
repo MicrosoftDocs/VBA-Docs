@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.CreationTime
 ms.assetid: d1bb179b-5ac4-d1e8-0b49-bca0e2ec1f16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

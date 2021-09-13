@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Log
 ms.assetid: baf9306b-0bb4-85d1-6509-6b510dbf4949
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

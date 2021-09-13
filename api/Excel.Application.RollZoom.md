@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.RollZoom
 ms.assetid: 0bdad2a6-9d8d-cd69-cb73-45e9f92447d1
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.AttachedToText
 ms.assetid: 1bfb902c-d728-1f97-513c-dcee54ce57a8
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

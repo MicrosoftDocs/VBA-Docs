@@ -8,7 +8,7 @@ api_name:
 - Access.Label.GridlineColor
 ms.assetid: f6982726-825a-1ef2-286d-b1f567678002
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

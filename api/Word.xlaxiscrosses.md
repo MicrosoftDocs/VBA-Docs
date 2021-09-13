@@ -3,7 +3,7 @@ title: XlAxisCrosses enumeration (Word)
 ms.prod: word
 ms.assetid: 614181e7-483a-8742-c27b-31b598528e17
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

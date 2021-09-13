@@ -3,7 +3,7 @@ title: MsoMergeCmd enumeration (Office)
 ms.assetid: 41a8359d-9a48-f847-488c-b842efe15e28
 ms.date: 01/31/2019
 ms.prod: office
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.DocumentLibraryVersions
 ms.assetid: b6338994-b5d9-ef9b-83b5-bdd47d0fd407
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

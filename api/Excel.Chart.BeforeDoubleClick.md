@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.BeforeDoubleClick
 ms.assetid: 406c6b9f-1182-5f5b-b954-afe10cd21a9b
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

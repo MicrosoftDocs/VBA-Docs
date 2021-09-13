@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.Callout
 ms.assetid: 87cc8811-497d-17b9-4483-682cdd1fbce3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

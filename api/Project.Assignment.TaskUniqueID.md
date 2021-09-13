@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.TaskUniqueID
 ms.assetid: 76fef662-2199-7c70-7d69-e97ea8cebb8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

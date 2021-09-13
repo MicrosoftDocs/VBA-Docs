@@ -8,7 +8,7 @@ api_name:
 - Publisher.ObjectVerbs
 ms.assetid: e04cf7db-ee56-7d95-9f5c-7ecee1844866
 ms.date: 06/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

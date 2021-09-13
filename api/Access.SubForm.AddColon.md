@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.AddColon
 ms.assetid: 9272df79-15cb-3f69-e5d3-b7221f38c47c
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

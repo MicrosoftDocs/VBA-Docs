@@ -5,7 +5,7 @@ api_name:
 - Office.SoftEdgeFormat.Type
 ms.assetid: eae3608a-ef0e-4b47-b420-c05a4be8524e
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

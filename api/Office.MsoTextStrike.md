@@ -5,7 +5,7 @@ api_name:
 - Office.MsoTextStrike
 ms.assetid: 398c51a1-0296-b4ae-b6b0-6e46ba071bd8
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

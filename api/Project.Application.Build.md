@@ -5,7 +5,7 @@ api_name:
 - Project.Application.Build
 ms.assetid: 26a8b2d9-0af9-9ec6-ed02-e52229214ce1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SendMailer
 ms.assetid: e44955e1-e250-7279-19e5-e13db80ceddc
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

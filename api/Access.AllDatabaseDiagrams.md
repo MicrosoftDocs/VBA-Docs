@@ -8,7 +8,7 @@ api_name:
 - Access.AllDatabaseDiagrams
 ms.assetid: 417427aa-1783-29da-30c9-66a7032a0088
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

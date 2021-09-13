@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DecimalSeparator
 ms.assetid: 2423d0dd-2b67-e8d2-c611-2bd3c8061f66
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

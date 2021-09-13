@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.ThemeName
 ms.assetid: 9efd26b1-7426-1ff4-0b51-5463a2beb822
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

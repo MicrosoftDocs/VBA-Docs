@@ -8,7 +8,7 @@ api_name:
 - Publisher.Plates.FindPlateByInkName
 ms.assetid: 4ebbc826-468b-7cd7-806e-056e4cbb488c
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

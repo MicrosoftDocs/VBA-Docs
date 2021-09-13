@@ -8,7 +8,7 @@ api_name:
 - Access.Application.WebServices
 ms.assetid: fed37107-137f-a2c6-96ba-1a97d3c9780a
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

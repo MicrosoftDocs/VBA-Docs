@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CanPlaySounds
 ms.assetid: 4e74bdbe-c649-9171-b42c-3c226b6c92a0
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

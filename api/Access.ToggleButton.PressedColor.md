@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.PressedColor
 ms.assetid: b0296b52-1207-0dfa-c4b8-fd8ef5c88338
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

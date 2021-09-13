@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DSum
 ms.assetid: b10de80b-343f-9526-e386-c8f03fea755b
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

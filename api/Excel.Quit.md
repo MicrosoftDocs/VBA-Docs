@@ -8,7 +8,7 @@ api_name:
 - Excel.Quit
 ms.assetid: 8195f39e-d12e-3189-f324-1d8e0b5e3463
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

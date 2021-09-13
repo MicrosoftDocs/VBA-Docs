@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Initials
 ms.assetid: f1daa747-1c53-f244-6a08-cd6147a02ff3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrect.CorrectSentenceCaps
 ms.assetid: 47eb861a-2dcc-27c9-33ee-5e5bc0d6df4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

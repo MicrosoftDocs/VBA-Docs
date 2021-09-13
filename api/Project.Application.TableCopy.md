@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TableCopy
 ms.assetid: 90e0a546-2802-5ba7-6b49-086b32051451
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

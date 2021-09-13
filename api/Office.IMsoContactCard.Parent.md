@@ -8,7 +8,7 @@ api_name:
 - Office.IMsoContactCard.Parent
 ms.assetid: 1d84be51-89ed-c91f-3703-4b014de6e961
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

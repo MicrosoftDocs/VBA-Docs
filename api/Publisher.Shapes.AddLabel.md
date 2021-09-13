@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.AddLabel
 ms.assetid: 5a803aa2-d37f-6da1-7d8b-58ee2dcd8146
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

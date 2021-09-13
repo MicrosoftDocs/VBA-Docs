@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.OutlineCode10
 ms.assetid: da53aeed-f6a8-70aa-d186-d49e172bdce2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

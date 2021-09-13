@@ -8,7 +8,7 @@ api_name:
 - Office.WorkflowTasks.Count
 ms.assetid: 0c1dafe0-d89e-d7b4-1461-5c78db47cae9
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

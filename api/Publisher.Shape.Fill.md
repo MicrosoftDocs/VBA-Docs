@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Fill
 ms.assetid: ff1b8d02-150e-e023-2f0a-b1608cc99644
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

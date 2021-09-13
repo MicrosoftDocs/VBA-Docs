@@ -8,7 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.AllowPNG
 ms.assetid: b4cdab42-25ed-e313-ebf2-fc9abd68474b
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

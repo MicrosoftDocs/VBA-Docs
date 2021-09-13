@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfFigures.Update
 ms.assetid: bab9ec6b-402d-a4d4-720f-b77fd187f95f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ListGalleries.Parent
 ms.assetid: 71c4e3b7-0aa3-2f3c-7dd7-978f183b525b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

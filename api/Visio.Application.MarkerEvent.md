@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.MarkerEvent
 ms.assetid: 1d0c20cc-ccfd-595c-04ea-afce487e582c
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

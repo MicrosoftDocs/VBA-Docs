@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.IndexInStencil
 ms.assetid: 3c2c12c4-0233-4aa3-c3d7-a3613bb391ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

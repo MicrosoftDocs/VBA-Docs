@@ -8,7 +8,7 @@ api_name:
 - Outlook.JournalItem.Type
 ms.assetid: ae32bbdd-79ba-b67f-385a-dc17967b1a25
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

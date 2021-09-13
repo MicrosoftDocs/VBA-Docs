@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCache.OLAP
 ms.assetid: 621ca936-5b60-98be-45a2-ea15ef5297ba
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

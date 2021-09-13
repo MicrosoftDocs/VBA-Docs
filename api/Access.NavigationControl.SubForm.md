@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.SubForm
 ms.assetid: e99cec35-3186-98ec-3318-0bcfb47e97ba
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

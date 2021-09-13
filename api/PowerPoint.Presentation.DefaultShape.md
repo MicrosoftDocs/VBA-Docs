@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.DefaultShape
 ms.assetid: 318ec04a-8b30-29b3-c8a6-732564efd7a8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

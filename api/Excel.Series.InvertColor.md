@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.InvertColor
 ms.assetid: 889cef2a-8211-c1b2-0668-8e0c48a894ec
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

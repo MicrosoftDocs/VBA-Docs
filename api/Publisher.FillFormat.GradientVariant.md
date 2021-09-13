@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.GradientVariant
 ms.assetid: f57224dc-e9c6-e1aa-e950-97dfd5ed483f
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

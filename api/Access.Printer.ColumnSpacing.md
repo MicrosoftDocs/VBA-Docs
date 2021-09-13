@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.ColumnSpacing
 ms.assetid: 058fbbf6-5c39-063a-e0a6-6b1942df0a4e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

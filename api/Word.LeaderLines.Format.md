@@ -8,7 +8,7 @@ api_name:
 - Word.LeaderLines.Format
 ms.assetid: b19f88c5-d72b-fe4b-743e-315e6a6f8cd6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

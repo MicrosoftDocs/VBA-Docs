@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.ShowTableStyleColumnStripes
 ms.assetid: 30e2236b-df82-0fa2-e820-a0fc8978ced1
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

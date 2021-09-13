@@ -8,7 +8,7 @@ api_name:
 - Word.Global.DDETerminateAll
 ms.assetid: 67688b3e-06df-a6b0-10f6-ecbd29ed386a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

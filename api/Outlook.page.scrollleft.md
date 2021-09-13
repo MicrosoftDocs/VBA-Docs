@@ -3,7 +3,7 @@ title: Page.ScrollLeft Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8a8be730-5dca-5ad7-2f08-370fc0a95dd3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

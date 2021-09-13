@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.StatusBarText
 ms.assetid: dc8ec458-8013-f6ff-5763-d083babcb4c9
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

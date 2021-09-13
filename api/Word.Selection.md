@@ -8,7 +8,7 @@ api_name:
 - Word.Selection
 ms.assetid: 7b574a91-c33e-ecfd-6783-6b7528b2ed8f
 ms.date: 05/23/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

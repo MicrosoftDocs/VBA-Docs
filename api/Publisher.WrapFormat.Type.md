@@ -8,7 +8,7 @@ api_name:
 - Publisher.WrapFormat.Type
 ms.assetid: da53302c-ae95-5aa9-a4ce-32647a2569d6
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

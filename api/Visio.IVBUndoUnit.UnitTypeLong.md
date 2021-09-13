@@ -8,7 +8,7 @@ api_name:
 - Visio.IVBUndoUnit.UnitTypeLong
 ms.assetid: 4fb63748-baf1-3360-f143-52de4c24c16d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

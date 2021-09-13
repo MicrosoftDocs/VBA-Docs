@@ -8,7 +8,7 @@ api_name:
 - Word.DefaultWebOptions.Fonts
 ms.assetid: 3a3247af-ae74-33f1-2944-0371bf13be6f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

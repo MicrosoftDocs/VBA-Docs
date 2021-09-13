@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FilterOn
 ms.assetid: 94751217-8b8b-0979-b4f8-c9af9f38ae69
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

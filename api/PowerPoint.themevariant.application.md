@@ -3,7 +3,7 @@ title: ThemeVariant.Application property (PowerPoint)
 ms.assetid: b9725f46-f03e-5df2-0ab3-cd8dd89aa468
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

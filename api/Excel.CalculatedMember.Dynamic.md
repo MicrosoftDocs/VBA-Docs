@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedMember.Dynamic
 ms.assetid: b201fe58-1320-1fe0-8045-ab17b7543eee
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

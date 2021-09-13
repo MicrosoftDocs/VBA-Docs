@@ -8,7 +8,7 @@ api_name:
 - Word.Document.DocumentTheme
 ms.assetid: f570f807-6b36-bed8-17b4-848142c37ce7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

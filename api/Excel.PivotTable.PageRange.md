@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PageRange
 ms.assetid: 05629703-c43f-282c-e4da-22c95094e15b
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

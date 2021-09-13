@@ -8,7 +8,7 @@ api_name:
 - Word.ListLevel.NumberPosition
 ms.assetid: 444df40d-4165-54b9-3456-ca4dfbdb8053
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

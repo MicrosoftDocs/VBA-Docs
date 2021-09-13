@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.GridlineTint
 ms.assetid: b0f0aad3-7355-d594-8874-ec7229c1dff1
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

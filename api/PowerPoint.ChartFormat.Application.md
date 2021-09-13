@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartFormat.Application
 ms.assetid: de828024-79ad-1572-baaf-6c62af532832
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

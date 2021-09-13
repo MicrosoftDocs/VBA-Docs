@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.TickLabelSpacing
 ms.assetid: 9a6694cb-bb6c-fc5d-a2a3-656327121581
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

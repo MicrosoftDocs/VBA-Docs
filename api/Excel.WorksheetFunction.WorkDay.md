@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.WorkDay
 ms.assetid: 358c358f-c76e-1309-4a2f-8e50f8d7e7d9
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

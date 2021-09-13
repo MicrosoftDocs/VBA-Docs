@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ExtendList
 ms.assetid: b368047b-9d30-5a6f-a7db-748e3e91a3c0
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

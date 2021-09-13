@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Width
 ms.assetid: 87c0422d-5f4f-44a3-902a-cb751b459ef9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.LeaderLines.Delete
 ms.assetid: 57b6cb0c-f0fe-70b7-4958-cfdfd20ee059
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

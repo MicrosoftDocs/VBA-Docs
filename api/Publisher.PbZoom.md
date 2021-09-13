@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbZoom
 ms.assetid: 05728fea-d9a1-0385-b31f-55e73ff5240b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

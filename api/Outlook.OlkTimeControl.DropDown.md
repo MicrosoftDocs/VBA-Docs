@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.DropDown
 ms.assetid: 88a5aeb6-31d7-83d3-ca4c-f4efbda7ac90
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

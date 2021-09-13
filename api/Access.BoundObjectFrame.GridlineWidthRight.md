@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.GridlineWidthRight
 ms.assetid: 5118a22e-0339-ffda-96e6-7dfe54b26cf7
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

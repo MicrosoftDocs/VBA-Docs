@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ValidationText
 ms.assetid: 5d3ab2a3-9166-714f-a0c2-d56d42b19ebc
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

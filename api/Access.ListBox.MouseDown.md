@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.MouseDown
 ms.assetid: bc55d5f4-b475-2f7d-2434-a5d71bada0f3
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

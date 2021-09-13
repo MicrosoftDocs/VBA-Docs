@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 68d4e339-67b2-37e7-214d-318edd683b23
 ms.date: 12/12/2018
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # DateAdd function

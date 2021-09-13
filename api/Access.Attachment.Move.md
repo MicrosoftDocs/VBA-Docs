@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Move
 ms.assetid: cd807ce2-79b8-0873-c035-7927bc91967d
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

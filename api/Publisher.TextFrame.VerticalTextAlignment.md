@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.VerticalTextAlignment
 ms.assetid: cd809f00-b092-c483-fe99-2aa8043fb684
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartGroups.Item
 ms.assetid: 0b04a471-d726-f400-062c-8d4a7dc9c752
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

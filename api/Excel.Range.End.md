@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.End
 ms.assetid: d46d75c9-b152-e93d-82c3-f59f0e7f69da
 ms.date: 05/10/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

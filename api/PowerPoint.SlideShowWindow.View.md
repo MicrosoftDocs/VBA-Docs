@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowWindow.View
 ms.assetid: ebf565af-fc90-ab1b-0e05-6dcb90a7c2d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

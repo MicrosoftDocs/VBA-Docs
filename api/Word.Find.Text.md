@@ -8,7 +8,7 @@ api_name:
 - Word.Find.Text
 ms.assetid: d92917aa-32f7-e9cc-bb74-03f7ed17498a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

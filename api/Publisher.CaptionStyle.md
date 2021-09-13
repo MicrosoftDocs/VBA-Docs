@@ -8,7 +8,7 @@ api_name:
 - Publisher.CaptionStyle
 ms.assetid: f6ac42fc-4557-c10c-d46e-89015719ed3a
 ms.date: 05/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

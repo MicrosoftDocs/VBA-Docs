@@ -5,7 +5,7 @@ api_name:
 - Excel.xlAllocationValue
 ms.assetid: d7f73242-4adf-f700-a115-29c10d3a028a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

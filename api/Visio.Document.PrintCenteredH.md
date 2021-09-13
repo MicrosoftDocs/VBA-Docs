@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.PrintCenteredH
 ms.assetid: f91d63cf-e447-1e1a-2c45-c2a48d0ab4dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

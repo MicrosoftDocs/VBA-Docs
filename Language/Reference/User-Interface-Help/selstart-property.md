@@ -8,7 +8,7 @@ api_name:
 - Office.SelStart
 ms.assetid: ca0db01c-bea0-6827-376f-f2a41c4eb5ed
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

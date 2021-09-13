@@ -8,7 +8,7 @@ api_name:
 - Word.ListParagraphs.Creator
 ms.assetid: 55780a9a-646f-6e8c-0535-7521f60882b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

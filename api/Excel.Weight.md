@@ -8,7 +8,7 @@ api_name:
 - Excel.Weight
 ms.assetid: 59a3b106-5811-f082-d9cf-c21f2945da31
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.Left
 ms.assetid: 59e47bba-05d1-563a-8df1-d0265d77f94e
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

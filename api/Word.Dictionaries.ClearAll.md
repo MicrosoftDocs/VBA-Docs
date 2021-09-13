@@ -8,7 +8,7 @@ api_name:
 - Word.Dictionaries.ClearAll
 ms.assetid: cdca60de-9382-1d03-b1b2-0a8827f69e24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

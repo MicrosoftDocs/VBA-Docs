@@ -5,7 +5,7 @@ api_name:
 - Excel.XlSaveAction
 ms.assetid: a6aa8be8-a367-ae7c-f676-d09c6faa1af4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

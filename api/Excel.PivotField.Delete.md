@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.Delete
 ms.assetid: 48801a14-53fc-b81b-43c5-d7cb233282bc
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartBorder.Color
 ms.assetid: f1aa6b63-4327-977d-38e6-f218d0b9c0d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

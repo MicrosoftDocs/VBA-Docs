@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.DrawRegion
 ms.assetid: 3c3a04d9-a275-a73e-8325-eadd3cae1999
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSizes.Count
 ms.assetid: 10770705-e8b3-903c-bcfa-84ba26dc1478
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

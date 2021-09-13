@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.AddSharedImage
 ms.assetid: 7e1e0455-65e0-820e-e25c-17989a40000b
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

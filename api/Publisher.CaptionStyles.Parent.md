@@ -5,7 +5,7 @@ api_name:
 - Publisher.CaptionStyles.Parent
 ms.assetid: ea77b815-3f65-104f-87a6-73474a7f1f2d
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.LargeChange
 ms.assetid: 2e47bd4f-59dc-d620-14f0-e4ecdfb4eb78
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

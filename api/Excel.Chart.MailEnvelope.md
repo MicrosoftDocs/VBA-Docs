@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.MailEnvelope
 ms.assetid: b64d9f0e-6c1d-9d42-5d0e-8c408c057efc
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

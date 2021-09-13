@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationPane.Application
 ms.assetid: 04c4060d-2e49-2369-db58-462e7464bedc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

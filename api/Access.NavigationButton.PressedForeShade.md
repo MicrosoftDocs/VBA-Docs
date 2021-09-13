@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.PressedForeShade
 ms.assetid: 5a086d71-d916-5b97-9e98-51f6394f3eaa
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

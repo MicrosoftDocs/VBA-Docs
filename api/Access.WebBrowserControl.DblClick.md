@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.DblClick
 ms.assetid: e22f8c94-0208-b463-635d-f28c5f20e9fa
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

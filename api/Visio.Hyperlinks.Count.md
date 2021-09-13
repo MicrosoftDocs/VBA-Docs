@@ -8,7 +8,7 @@ api_name:
 - Visio.Hyperlinks.Count
 ms.assetid: c460e4ee-679c-b6ed-3c60-e0735bc81815
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

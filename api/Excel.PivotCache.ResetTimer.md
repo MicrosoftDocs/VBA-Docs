@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.ResetTimer
 ms.assetid: 846a6d82-a86f-ea3c-f0b7-0481bda02470
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MRound
 ms.assetid: 66a8641e-3797-43a4-2b4e-a4c555391c72
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

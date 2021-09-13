@@ -3,7 +3,7 @@ title: Shape.Reflection property (Publisher)
 ms.prod: publisher
 ms.assetid: a9a12d07-8edc-2f1b-9f7d-4aeae43b1335
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

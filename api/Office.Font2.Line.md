@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.Line
 ms.assetid: 9e2b48e7-e69b-4bd3-e2dd-1b4a6f6e5575
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

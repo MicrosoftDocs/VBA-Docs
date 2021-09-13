@@ -8,7 +8,7 @@ api_name:
 - Word.Range.TCSCConverter
 ms.assetid: 71684cdd-fca8-37b7-04fe-eeeb35dcfe66
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

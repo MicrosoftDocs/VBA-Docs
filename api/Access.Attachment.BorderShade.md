@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.BorderShade
 ms.assetid: 39792e3b-e10d-98e8-4fcc-cb95fac69ce1
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

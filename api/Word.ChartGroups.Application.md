@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroups.Application
 ms.assetid: dd8748ec-5f56-9ede-8029-f9aea63281bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.OMathLimLow
 ms.assetid: 061f6748-778b-7377-a1c5-ab93dc2c6f83
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

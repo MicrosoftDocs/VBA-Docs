@@ -8,7 +8,7 @@ api_name:
 - Excel.Tab.Parent
 ms.assetid: ccd66a14-c182-9314-5507-7a5ea790eb1c
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

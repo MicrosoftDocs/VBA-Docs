@@ -8,7 +8,7 @@ api_name:
 - Access.SmartTagProperties.Count
 ms.assetid: 992c649f-4cd0-5de0-3127-033cd5851fdd
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

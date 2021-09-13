@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ProtectedViewWindow.Caption
 ms.assetid: 4cf88d8a-7bab-e3d9-828e-9c8dee3d7315
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

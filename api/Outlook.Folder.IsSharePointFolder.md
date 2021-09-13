@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder.IsSharePointFolder
 ms.assetid: fc2e2645-d6e0-0bc0-29a2-8cc17f456225
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

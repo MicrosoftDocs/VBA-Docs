@@ -8,7 +8,7 @@ api_name:
 - Word.Editors.Count
 ms.assetid: b108fde4-3310-9ea3-640e-90f38a31022b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

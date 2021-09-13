@@ -8,7 +8,7 @@ api_name:
 - Access.PageBreak.Properties
 ms.assetid: 3e29ef61-b97e-75e4-b900-7ff4613ead85
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

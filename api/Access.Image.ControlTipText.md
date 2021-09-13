@@ -8,7 +8,7 @@ api_name:
 - Access.Image.ControlTipText
 ms.assetid: 13a3cadf-8a2e-3407-5fa8-d76e3b2c9cac
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

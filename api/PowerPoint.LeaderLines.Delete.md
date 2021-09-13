@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.LeaderLines.Delete
 ms.assetid: 75b6a628-40dd-3ee4-62f0-1d1e4f4c85b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.MsoAppLanguageID
 ms.assetid: 78196ded-10d3-2088-f263-44a771ee78b4
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

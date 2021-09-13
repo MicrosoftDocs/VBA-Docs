@@ -8,7 +8,7 @@ api_name:
 - Publisher.CalloutFormat.DropType
 ms.assetid: fd4ec192-0732-e860-4ff8-e305aa0d90a9
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

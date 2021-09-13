@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.AddLine
 ms.assetid: d1c609c3-d5d1-80e8-4f95-184a9a536feb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

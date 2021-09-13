@@ -8,7 +8,7 @@ api_name:
 - Access.PageBreak.Parent
 ms.assetid: 9d2d7b85-c720-f3f1-cf5f-949823d0c22b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.StatusBarText
 ms.assetid: 430dabc5-ffdb-37fa-473d-359035bac761
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

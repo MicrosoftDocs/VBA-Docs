@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.OLEFormat
 ms.assetid: 7f2ff868-a7cf-3a9f-4ad8-6213f55573ea
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

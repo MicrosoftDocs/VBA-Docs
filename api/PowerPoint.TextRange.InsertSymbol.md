@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.InsertSymbol
 ms.assetid: a424e011-1bfe-f690-cbc0-604f89718831
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

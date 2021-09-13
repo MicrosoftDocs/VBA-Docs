@@ -8,7 +8,7 @@ api_name:
 - Word.Table.PreferredWidth
 ms.assetid: 15c3d169-9c61-fb70-3cc6-15f385bab8c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

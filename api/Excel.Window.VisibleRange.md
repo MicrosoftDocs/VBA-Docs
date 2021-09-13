@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.VisibleRange
 ms.assetid: 50e1dc87-6d7f-4b02-bdbe-77f61a96ca16
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

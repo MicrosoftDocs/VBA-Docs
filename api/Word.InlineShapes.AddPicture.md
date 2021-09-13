@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShapes.AddPicture
 ms.assetid: 89c5f587-d591-d56b-d52a-fd21073f76fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

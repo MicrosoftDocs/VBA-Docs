@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.SaveAs
 ms.assetid: 9f563508-e7fc-ee35-366b-6937604cf25f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

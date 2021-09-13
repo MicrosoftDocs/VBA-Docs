@@ -8,7 +8,7 @@ api_name:
 - Word.Document.GridDistanceVertical
 ms.assetid: 4b3c6f15-a379-9399-fab6-ac6ec45717fa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

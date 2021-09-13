@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 078ae060-a90b-e992-2cfb-34ee6b003098
 ms.date: 08/14/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 # Can't find project or library
 

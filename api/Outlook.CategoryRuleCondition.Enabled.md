@@ -8,7 +8,7 @@ api_name:
 - Outlook.CategoryRuleCondition.Enabled
 ms.assetid: 027949cf-d5a9-b6a8-3edf-ae00cb97d6e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

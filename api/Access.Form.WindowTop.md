@@ -8,7 +8,7 @@ api_name:
 - Access.Form.WindowTop
 ms.assetid: 1257fe21-3983-bd51-4683-e0778b59a975
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

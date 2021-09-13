@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbReplaceScope
 ms.assetid: 17c0eb7e-9572-40cf-843b-451ef6c1fb93
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

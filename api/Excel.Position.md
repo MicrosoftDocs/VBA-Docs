@@ -8,7 +8,7 @@ api_name:
 - Excel.Position
 ms.assetid: 0e9e41e2-30a8-c744-72d1-3820cc4975f2
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

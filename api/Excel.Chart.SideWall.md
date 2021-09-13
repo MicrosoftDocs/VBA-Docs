@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.SideWall
 ms.assetid: 79a6e074-acd1-c14a-02cc-21e549ebffd8
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

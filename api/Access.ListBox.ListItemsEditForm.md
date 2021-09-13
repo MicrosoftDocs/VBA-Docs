@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ListItemsEditForm
 ms.assetid: f744fc52-4c50-f740-7a2f-eeccb12de7c9
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

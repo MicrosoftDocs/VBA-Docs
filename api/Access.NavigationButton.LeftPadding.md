@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.LeftPadding
 ms.assetid: 9b0fac0b-4ffd-8c83-5d7f-bdfd6f3c8c9a
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

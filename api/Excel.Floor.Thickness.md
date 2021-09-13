@@ -8,7 +8,7 @@ api_name:
 - Excel.Floor.Thickness
 ms.assetid: 96d1e08c-0b1b-7e0b-12b0-a9db33e08ac3
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

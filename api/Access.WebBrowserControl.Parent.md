@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Parent
 ms.assetid: e55825ab-95a2-9431-487c-66e246410258
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

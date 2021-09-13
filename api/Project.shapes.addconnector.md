@@ -3,7 +3,7 @@ title: Shapes.AddConnector method (Project)
 ms.prod: project-server
 ms.assetid: bfd75cf3-f70b-8d19-bf28-94e2f4b227dd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.Position
 ms.assetid: a23d98ea-2ced-ea07-a995-bb5bd34fbccd
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.ShapeRange.GraphicStyle
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

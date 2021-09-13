@@ -5,7 +5,7 @@ api_name:
 - Project.PjPoolAction
 ms.assetid: 316088e3-33b2-a010-05c8-4453ede8c360
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

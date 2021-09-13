@@ -5,7 +5,7 @@ api_name:
 - Word.OMathFrac.Creator
 ms.assetid: ed064a2e-53ad-0127-db03-f58546156924
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

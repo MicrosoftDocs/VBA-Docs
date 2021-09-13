@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.MouseDown
 ms.assetid: 66136634-ddb3-54fd-c6d4-f32550689d28
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

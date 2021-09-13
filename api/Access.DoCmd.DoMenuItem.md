@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.DoMenuItem
 ms.assetid: b897bfdb-7f03-2b42-2bfd-219a2f4aa21b
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

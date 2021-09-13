@@ -5,7 +5,7 @@ api_name:
 - Office.TabStop2.Clear
 ms.assetid: 18087f5f-5886-d349-b002-6830739ff883
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Application.Width
 ms.assetid: ac9b369e-6661-ef67-6674-85ab02ef4621
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

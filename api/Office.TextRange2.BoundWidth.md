@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.BoundWidth
 ms.assetid: a5668c93-0206-c26f-41bc-771c1ceef7e6
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

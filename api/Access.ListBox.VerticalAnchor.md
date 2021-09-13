@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.VerticalAnchor
 ms.assetid: 2c38763c-5b90-9219-8a3b-3bfef035a9bb
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

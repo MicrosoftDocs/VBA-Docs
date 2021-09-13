@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DropLines.Application
 ms.assetid: 0ca03e5d-b2a4-d200-4aa6-481537cd6295
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

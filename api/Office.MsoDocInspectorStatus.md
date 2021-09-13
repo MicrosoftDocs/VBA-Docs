@@ -5,7 +5,7 @@ api_name:
 - Office.MsoDocInspectorStatus
 ms.assetid: b194864a-037c-532c-41f6-5f6dd9cad216
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

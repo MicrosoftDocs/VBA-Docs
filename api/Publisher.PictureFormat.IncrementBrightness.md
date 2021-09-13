@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.IncrementBrightness
 ms.assetid: 912fd08e-bbb3-bf98-b0da-7128926f3409
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.DocumentItem.Copy
 ms.assetid: d5c221dd-b718-f566-764f-b0c5c5ef4430
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

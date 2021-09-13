@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.IsExcess
 ms.assetid: 217689d6-7508-92ab-3828-e61fc70f0993
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

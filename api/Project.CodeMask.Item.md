@@ -5,7 +5,7 @@ api_name:
 - Project.CodeMask.Item
 ms.assetid: 9b4aa0df-9b5a-15fa-5bf5-4c7468c6bce5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

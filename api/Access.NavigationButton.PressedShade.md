@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.PressedShade
 ms.assetid: f595839b-cbd8-4dd3-baa1-49db6a9c58ca
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

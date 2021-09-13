@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Locked
 ms.assetid: c39c4177-a7b7-fdcc-c037-5934c7638be8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

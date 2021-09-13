@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.UnRead
 ms.assetid: b9503cfa-03c8-d881-daf3-1d1d4256ab6f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

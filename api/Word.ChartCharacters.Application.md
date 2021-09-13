@@ -8,7 +8,7 @@ api_name:
 - Word.ChartCharacters.Application
 ms.assetid: eeeb9510-d6ef-e0f7-820c-0cebb738bed5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

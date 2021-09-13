@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.NetworkDays_Intl
 ms.assetid: 04f1b585-396c-f981-9491-70d1b7948e6e
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

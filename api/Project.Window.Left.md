@@ -5,7 +5,7 @@ api_name:
 - Project.Window.Left
 ms.assetid: 9be4d384-a908-8c92-c5dd-14575b1a3662
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

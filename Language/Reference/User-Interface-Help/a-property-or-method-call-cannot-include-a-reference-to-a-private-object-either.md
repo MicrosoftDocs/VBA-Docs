@@ -3,7 +3,7 @@ title: A property or method call cannot include a reference to a private object,
 ms.prod: office
 ms.assetid: 1f4e72f6-1972-4337-a56a-adc366264954
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

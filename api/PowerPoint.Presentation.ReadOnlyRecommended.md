@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.ReadOnlyRecommended
 ms.date: 09/18/2020
 ms.author: lindalu
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

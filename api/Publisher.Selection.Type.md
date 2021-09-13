@@ -8,7 +8,7 @@ api_name:
 - Publisher.Selection.Type
 ms.assetid: 4dfcfecc-dd76-36b6-21df-34c3865b3064
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

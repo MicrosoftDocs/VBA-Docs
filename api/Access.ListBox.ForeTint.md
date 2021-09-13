@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ForeTint
 ms.assetid: 3d2d2e77-5819-673b-8e9c-d2d94d06a1bd
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

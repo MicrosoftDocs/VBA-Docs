@@ -5,7 +5,7 @@ api_name:
 - Project.WeekDays.Application
 ms.assetid: 68a5859b-2696-a0ab-9b45-755cc5a326db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

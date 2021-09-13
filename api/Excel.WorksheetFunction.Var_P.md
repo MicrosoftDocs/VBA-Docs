@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Var_P
 ms.assetid: de79a934-8395-b93f-aa5c-4c16e449e995
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

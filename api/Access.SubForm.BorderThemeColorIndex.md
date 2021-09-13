@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.BorderThemeColorIndex
 ms.assetid: 676f3c59-fad3-093e-248f-a43e103ae480
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

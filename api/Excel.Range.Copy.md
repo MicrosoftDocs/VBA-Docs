@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df
 ms.date: 08/14/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Range.Copy method (Excel)

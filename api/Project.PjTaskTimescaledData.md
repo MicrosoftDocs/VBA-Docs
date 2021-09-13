@@ -5,7 +5,7 @@ api_name:
 - Project.PjTaskTimescaledData
 ms.assetid: ece1e216-a43b-4d62-f866-83937f7a493a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.ContainingShape
 ms.assetid: c25dec03-dfa9-d61f-ad02-8ea7ee6cd87f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

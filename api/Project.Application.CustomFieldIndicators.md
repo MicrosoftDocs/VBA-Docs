@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CustomFieldIndicators
 ms.assetid: afbb7bff-49fe-7e12-a257-cab4c730bfbb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

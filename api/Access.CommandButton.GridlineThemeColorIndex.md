@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.GridlineThemeColorIndex
 ms.assetid: e736f508-fc12-0244-5f46-825bbbbc24c8
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

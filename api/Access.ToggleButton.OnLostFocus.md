@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.OnLostFocus
 ms.assetid: f7f9f17d-0fb3-49b1-a6d8-d9498b188651
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

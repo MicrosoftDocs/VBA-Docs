@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.StopIfTrue
 ms.assetid: af5acf21-8bba-19ca-f3ae-eaf3b28f2201
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

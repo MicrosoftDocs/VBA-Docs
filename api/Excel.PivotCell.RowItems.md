@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCell.RowItems
 ms.assetid: 4833f772-9abd-a2fa-e3f0-e86f54caf05e
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnInsert
 ms.assetid: 26c0ceb7-f345-2ca8-eb0c-744c60cf5340
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

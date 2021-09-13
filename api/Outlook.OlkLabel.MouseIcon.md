@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkLabel.MouseIcon
 ms.assetid: e576c0c1-0d1f-1614-c43c-6be3226b6510
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

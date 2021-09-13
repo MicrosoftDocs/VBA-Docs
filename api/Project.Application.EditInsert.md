@@ -8,7 +8,7 @@ api_name:
 - Project.Application.EditInsert
 ms.assetid: c6b858c7-beb4-9e0e-b3f3-39a1fc37d106
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

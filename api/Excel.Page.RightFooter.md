@@ -8,7 +8,7 @@ api_name:
 - Excel.Page.RightFooter
 ms.assetid: 457fb633-d748-bfc4-9188-87b0a46209dc
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

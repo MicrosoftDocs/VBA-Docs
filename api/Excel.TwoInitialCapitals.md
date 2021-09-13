@@ -8,7 +8,7 @@ api_name:
 - Excel.TwoInitialCapitals
 ms.assetid: cf6931c7-11ee-77b0-feb2-e047f7cb58e6
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

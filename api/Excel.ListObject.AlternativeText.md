@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.AlternativeText
 ms.assetid: 363423a9-5332-126a-8ebf-983269c2f72e
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnNavigateError
 ms.assetid: aeb415fb-3dcf-f656-db0d-71db2a72433c
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

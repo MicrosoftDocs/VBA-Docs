@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeUser.PrimarySmtpAddress
 ms.assetid: 2dda21da-44a2-fbfe-babc-58646c76689d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

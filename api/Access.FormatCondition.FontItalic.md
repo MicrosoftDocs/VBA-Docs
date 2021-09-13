@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition.FontItalic
 ms.assetid: eb7dceb1-ecfb-59b4-f810-28c2becd8a95
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

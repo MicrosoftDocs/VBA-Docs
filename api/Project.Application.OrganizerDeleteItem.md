@@ -8,7 +8,7 @@ api_name:
 - Project.Application.OrganizerDeleteItem
 ms.assetid: 7c243672-0e31-e224-eadd-3545f7efcde4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

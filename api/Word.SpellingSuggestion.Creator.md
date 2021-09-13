@@ -8,7 +8,7 @@ api_name:
 - Word.SpellingSuggestion.Creator
 ms.assetid: 59f969ef-e105-4a13-f48c-c5ab9e666f2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

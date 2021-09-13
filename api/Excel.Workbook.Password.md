@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Password
 ms.assetid: 5eaaf8cd-4344-946e-ecfa-c0f48946d2f2
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

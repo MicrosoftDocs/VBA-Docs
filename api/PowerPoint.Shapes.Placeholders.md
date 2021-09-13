@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.Placeholders
 ms.assetid: 2926d893-056a-0805-85ba-681e64bf81ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.MacroShowCode
 ms.assetid: 671c557f-0f56-a751-d7bb-37d3c2266687
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.CustomAction
 ms.assetid: b10158d6-feef-feb1-b922-5dc377cdba63
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

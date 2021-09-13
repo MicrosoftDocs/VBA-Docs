@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.MousePointer
 ms.assetid: ba3ef4e0-c825-b705-18f6-fc93397bb13c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

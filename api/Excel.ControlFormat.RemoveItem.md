@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.RemoveItem
 ms.assetid: 351c2333-9e8c-90a6-90a9-839f43184bb8
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

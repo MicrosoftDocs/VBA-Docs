@@ -8,7 +8,7 @@ api_name:
 - Access.Controls.Parent
 ms.assetid: 89ec2e2d-ebab-c6db-9810-75f83c712c4d
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

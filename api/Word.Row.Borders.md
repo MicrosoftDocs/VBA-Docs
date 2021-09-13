@@ -8,7 +8,7 @@ api_name:
 - Word.Row.Borders
 ms.assetid: e2f20e2f-32b5-1d49-8e04-7110f6adf4d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

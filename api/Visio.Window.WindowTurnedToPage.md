@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.WindowTurnedToPage
 ms.assetid: f1f92687-41b3-fc58-d862-93d4343c5808
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

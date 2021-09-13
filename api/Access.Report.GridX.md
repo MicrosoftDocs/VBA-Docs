@@ -8,7 +8,7 @@ api_name:
 - Access.Report.GridX
 ms.assetid: b932531f-89d3-5f8e-d6cc-43baf1004149
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

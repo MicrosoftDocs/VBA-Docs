@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ActiveEncryptionSession
 ms.assetid: a13b5785-5b27-6276-1df5-f213a419446d
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

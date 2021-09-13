@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Shape.GraphicStyle
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

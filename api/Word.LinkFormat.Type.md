@@ -8,7 +8,7 @@ api_name:
 - Word.LinkFormat.Type
 ms.assetid: a982ba94-ed73-6739-c554-86f17d58aaa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlTaskStatus
 ms.assetid: 99ff6947-b53d-9cbc-cbe7-726de6ed93ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

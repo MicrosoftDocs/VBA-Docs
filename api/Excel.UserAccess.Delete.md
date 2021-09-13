@@ -8,7 +8,7 @@ api_name:
 - Excel.UserAccess.Delete
 ms.assetid: 4c064fb7-3d22-0471-71d2-403976eb8d5d
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

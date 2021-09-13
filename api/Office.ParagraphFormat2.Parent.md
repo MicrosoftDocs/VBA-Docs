@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.Parent
 ms.assetid: 889a6ae2-63dc-32d9-bffe-a9bd58dbf46b
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

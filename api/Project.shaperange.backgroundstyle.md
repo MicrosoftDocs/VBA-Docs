@@ -3,7 +3,7 @@ title: ShapeRange.BackgroundStyle property (Project)
 ms.prod: project-server
 ms.assetid: 1c09518c-c30e-3862-2a0f-287e9254ba5d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

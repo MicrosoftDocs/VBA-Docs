@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorCMYK.Cyan
 ms.assetid: 47729474-40f4-e336-a92c-62f3ac19ed8f
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

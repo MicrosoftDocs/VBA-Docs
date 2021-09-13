@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Parent
 ms.assetid: d9778b20-a0ff-0977-3638-4920b905dc95
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

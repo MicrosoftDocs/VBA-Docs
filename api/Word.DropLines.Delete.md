@@ -8,7 +8,7 @@ api_name:
 - Word.DropLines.Delete
 ms.assetid: a455b3fe-9891-5f15-034c-7415c5bb46a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

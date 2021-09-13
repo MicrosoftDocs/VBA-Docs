@@ -8,7 +8,7 @@ api_name:
 - Outlook.Store.FilePath
 ms.assetid: 3b0ed312-9304-61a6-7152-5693a0e2f0fe
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

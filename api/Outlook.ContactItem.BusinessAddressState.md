@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.BusinessAddressState
 ms.assetid: 0d8d9136-6d41-b0ed-f320-6e26fca15cf7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CustomLabel.Creator
 ms.assetid: cbfdeb02-a9e9-4ab9-755e-77098a6ff68e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.FormatPainter
 ms.assetid: fb2e2fa1-2e14-26ea-6057-583871e4b170
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

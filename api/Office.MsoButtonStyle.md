@@ -5,7 +5,7 @@ api_name:
 - Office.MsoButtonStyle
 ms.assetid: da6a0258-5cef-1745-793d-ead1ac4e9006
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Mode_Sngl
 ms.assetid: d9e3139a-8b81-69b9-11cc-93cc0357cd51
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

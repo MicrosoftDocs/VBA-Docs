@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarView.Session
 ms.assetid: 550d9b8a-e980-9671-f45d-7ff54abdd591
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

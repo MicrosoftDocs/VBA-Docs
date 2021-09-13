@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.SaveAsEx
 ms.assetid: c0bef38d-1849-67ab-606f-8178de46c7c6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

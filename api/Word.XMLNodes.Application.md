@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNodes.Application
 ms.assetid: 62946624-a69a-9d7b-5ba3-87307890194d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

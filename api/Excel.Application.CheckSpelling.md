@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CheckSpelling
 ms.assetid: dfae0789-4635-5ec5-5146-c5a1acefa306
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

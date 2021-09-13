@@ -8,7 +8,7 @@ api_name:
 - Publisher.MasterPages.Add
 ms.assetid: af237acb-9e4c-f9d8-685c-c86d58e9ee01
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

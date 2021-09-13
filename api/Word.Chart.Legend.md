@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.Legend
 ms.assetid: b1ffdbfb-854c-bd65-dd63-d3b8d0547f67
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

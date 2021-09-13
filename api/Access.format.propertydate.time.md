@@ -3,7 +3,7 @@ title: Date/Time data type (Format property)
 ms.prod: access
 ms.assetid: d043c816-aefe-4881-90bd-59dcbb3b28da
 ms.date: 11/29/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

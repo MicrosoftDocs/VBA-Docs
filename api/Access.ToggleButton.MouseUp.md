@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.MouseUp
 ms.assetid: a7db8f67-202d-21a4-f74a-3826e80bb22c
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

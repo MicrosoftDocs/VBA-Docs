@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.Application
 ms.assetid: b55a6901-fbd4-36a1-47e7-2c1e37e0a31c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.Alignment
 ms.assetid: f569ea7c-9a9f-f50e-e88c-610da0adf153
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

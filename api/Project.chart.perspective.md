@@ -3,7 +3,7 @@ title: Chart.Perspective property (Project)
 ms.prod: project-server
 ms.assetid: a6a07c7a-ca79-d6aa-e6ef-1aa26b716852
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

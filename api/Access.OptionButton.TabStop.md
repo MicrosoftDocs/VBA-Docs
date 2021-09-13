@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.TabStop
 ms.assetid: b7bd7921-2ba3-1445-1e89-ce8fa0c2ed4e
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

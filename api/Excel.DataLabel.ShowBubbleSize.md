@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.ShowBubbleSize
 ms.assetid: e2768811-a45a-40cb-5327-64e3985095f0
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

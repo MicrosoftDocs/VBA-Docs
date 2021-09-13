@@ -8,7 +8,7 @@ api_name:
 - Word.Legend.Parent
 ms.assetid: 23a9e2b4-65e2-c7ee-5822-a565a311295f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

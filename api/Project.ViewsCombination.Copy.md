@@ -5,7 +5,7 @@ api_name:
 - Project.ViewsCombination.Copy
 ms.assetid: 2e28885e-6b65-8123-193a-1ac0ee883f75
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectTPTask
 ms.assetid: ef27e878-8c80-ad09-157d-f803ec2e7352
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

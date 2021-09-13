@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArtFormat.RevertToOriginalColor
 ms.assetid: 6b966576-eac4-3e55-ffdc-c064341474c0
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

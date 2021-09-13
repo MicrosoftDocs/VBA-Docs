@@ -8,7 +8,7 @@ api_name:
 - Word.Border.ArtStyle
 ms.assetid: 999569c0-96de-0c6c-462c-ec32804f8801
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

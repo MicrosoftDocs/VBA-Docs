@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: c0b7ba20-7b1a-a6de-b2e0-8ec095a0e448
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Could not delete from specified tables. (Error 3086)

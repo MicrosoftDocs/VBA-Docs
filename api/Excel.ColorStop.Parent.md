@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStop.Parent
 ms.assetid: 93338e3a-7e35-40c6-9a8f-f0160e88b059
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

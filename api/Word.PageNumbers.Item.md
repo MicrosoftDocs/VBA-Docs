@@ -8,7 +8,7 @@ api_name:
 - Word.PageNumbers.Item
 ms.assetid: dd39bc8f-ee56-f35c-0867-671f0951904d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

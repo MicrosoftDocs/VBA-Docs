@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.LockUserChanges
 ms.assetid: 3d4491ff-dad0-055a-b9e5-9de19cd1eb0d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

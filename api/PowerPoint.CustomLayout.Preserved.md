@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.Preserved
 ms.assetid: 8a686dd4-2a03-6e56-650c-fc9b52f14b24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

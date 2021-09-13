@@ -8,7 +8,7 @@ api_name:
 - Word.Endnote.Index
 ms.assetid: 8f41fac6-7a2e-f787-9c4a-749c323aa3d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 
