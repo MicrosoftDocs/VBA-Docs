@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.Next
 ms.assetid: cf7ce145-8c19-eda8-fea0-01d154a3ec32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

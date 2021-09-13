@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArt.Parent
 ms.assetid: d3cf59dd-044d-222b-1232-8e10399a3c47
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

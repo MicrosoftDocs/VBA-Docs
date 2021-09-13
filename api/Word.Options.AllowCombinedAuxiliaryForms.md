@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AllowCombinedAuxiliaryForms
 ms.assetid: c692e1de-7b89-7255-7fba-6c6bdd472a0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

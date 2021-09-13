@@ -5,7 +5,7 @@ api_name:
 - Excel.ColorFormat.Brightness
 ms.assetid: 36428885-90c0-327f-2ecc-5160ae6263cd
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

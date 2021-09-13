@@ -3,7 +3,7 @@ title: ReplaceShapesEvent.Stat property (Visio)
 ms.prod: visio
 ms.assetid: 96f3d382-5dda-7f93-088d-96edc831cd7c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.Exit
 ms.assetid: a89b3d32-c540-ea72-b018-fabc9b9760f3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

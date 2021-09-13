@@ -5,7 +5,7 @@ api_name:
 - Outlook.MeetingItem.Close
 ms.assetid: 9af94b62-d992-39e8-ddce-507db6a2febb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

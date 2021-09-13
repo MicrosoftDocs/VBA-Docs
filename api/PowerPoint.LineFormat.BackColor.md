@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.LineFormat.BackColor
 ms.assetid: 5c8e915a-6fb6-92b1-1d49-a74ee3a3e06d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

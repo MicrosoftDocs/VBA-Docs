@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.RemovePicture
 ms.assetid: a67d9d39-1697-0780-b52f-a3cc463f60d9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

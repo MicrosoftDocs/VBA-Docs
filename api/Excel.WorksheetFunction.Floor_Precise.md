@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Floor_Precise
 ms.assetid: 003159fa-9397-a648-67aa-5751c93e3c92
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

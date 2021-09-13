@@ -8,7 +8,7 @@ api_name:
 - Word.Endnotes.ContinuationSeparator
 ms.assetid: 4f62aa74-5c9e-6f95-ddc5-ff02c9a00bcf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

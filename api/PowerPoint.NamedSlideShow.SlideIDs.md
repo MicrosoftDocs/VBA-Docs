@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.NamedSlideShow.SlideIDs
 ms.assetid: 69c2a31e-bfb1-1a00-777f-4f5c46023ba0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

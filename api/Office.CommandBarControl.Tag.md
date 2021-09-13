@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.Tag
 ms.assetid: d528c260-09dc-9cb2-d8ce-8476f91ebc7b
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

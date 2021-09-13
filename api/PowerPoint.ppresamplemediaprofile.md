@@ -3,7 +3,7 @@ title: PpResampleMediaProfile enumeration (PowerPoint)
 ms.assetid: ceaa8213-e549-5dac-b082-af2f391d682c
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SearchFolders.Item
 ms.assetid: e3ea4b1a-648e-1266-8a88-ef0cbd978989
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Average
 ms.assetid: 9d6b697d-f7e0-6e81-a4a4-39fafafb879f
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

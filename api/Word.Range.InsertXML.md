@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertXML
 ms.assetid: daee0fee-01cb-5ad7-f61d-ea6ebec1d04a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

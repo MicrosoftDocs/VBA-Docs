@@ -3,7 +3,7 @@ title: TextRange2.InsertChartField method (PowerPoint)
 ms.assetid: 42c07916-74e1-46c2-8cbc-5777c9fe1ae4
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

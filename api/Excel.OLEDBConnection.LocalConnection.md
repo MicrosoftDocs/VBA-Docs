@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.LocalConnection
 ms.assetid: 9f9e8aab-3804-1a30-3db1-4e453583ff1e
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

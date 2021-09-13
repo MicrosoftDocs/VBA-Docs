@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSetup.SuggestedSignerLine2
 ms.assetid: 889dca6d-7242-c442-8b33-848e6d0a469d
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OrderField.Application
 ms.assetid: 31a9f88f-0dbe-b5b9-10fa-80eb6aff59fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

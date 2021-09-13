@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.PressedTint
 ms.assetid: 3a657cd9-e81a-f82b-88f1-2387688d0650
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.DialogSheetView
 ms.assetid: d468b3e8-c73e-d94a-0902-193f6983d893
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

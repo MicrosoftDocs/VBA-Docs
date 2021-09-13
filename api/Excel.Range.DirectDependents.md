@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.DirectDependents
 ms.assetid: 266b054e-6838-ffe7-14e2-e712a149e5be
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

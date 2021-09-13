@@ -8,7 +8,7 @@ api_name:
 - Outlook.BusinessCardView.Copy
 ms.assetid: 9a0a1a14-87bd-ff53-6643-5e11a07733a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

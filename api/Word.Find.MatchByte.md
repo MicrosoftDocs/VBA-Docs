@@ -8,7 +8,7 @@ api_name:
 - Word.Find.MatchByte
 ms.assetid: c7da111f-e3ea-dec9-8091-5ccd9cd63cc7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

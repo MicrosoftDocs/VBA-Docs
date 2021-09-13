@@ -8,7 +8,7 @@ api_name:
 - Word.Dictionary.Parent
 ms.assetid: 4231857b-7cfb-21e9-d8a6-0290e4ed7944
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

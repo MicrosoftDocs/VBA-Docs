@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.AfterResumeEvents
 ms.assetid: 33117394-135e-0f44-79e8-d16531cd0ca5
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

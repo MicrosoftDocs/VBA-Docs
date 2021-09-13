@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.ScaleWidth
 ms.assetid: e96bdabb-b633-28de-5ceb-75edb8c5dcfb
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

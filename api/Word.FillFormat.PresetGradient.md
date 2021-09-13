@@ -8,7 +8,7 @@ api_name:
 - Word.FillFormat.PresetGradient
 ms.assetid: bffe754d-6593-9684-abf4-b5d1e9df720e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

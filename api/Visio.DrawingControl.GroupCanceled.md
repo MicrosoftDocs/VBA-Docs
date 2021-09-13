@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.GroupCanceled
 ms.assetid: b7f6002c-8fe9-ed07-e9cb-519b7b2b8931
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.EventProcPrefix
 ms.assetid: 335b6a0b-eb64-221c-ea4f-3dc2fb7a8191
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Browser.Previous
 ms.assetid: b23b637e-b7ee-05ae-dd7a-9f97ca2e6d7c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

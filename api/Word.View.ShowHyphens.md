@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowHyphens
 ms.assetid: 2294ea01-1ddc-0d29-4fa4-a5285d6d7cfb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

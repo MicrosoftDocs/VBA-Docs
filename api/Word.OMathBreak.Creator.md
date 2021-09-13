@@ -8,7 +8,7 @@ api_name:
 - Word.OMathBreak.Creator
 ms.assetid: 9ef2c743-f021-dae8-8296-7c04af95c47e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.AddIns.Unload
 ms.assetid: de0e4683-2630-0d2b-03d7-7710be1a6740
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheets.PrintPreview
 ms.assetid: cf0206e2-5016-2472-be89-c45e9c7a38f0
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

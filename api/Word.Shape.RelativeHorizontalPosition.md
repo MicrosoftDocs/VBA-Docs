@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.RelativeHorizontalPosition
 ms.assetid: e691c13e-69c8-e6e4-0be8-a02a9763135a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

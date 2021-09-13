@@ -8,7 +8,7 @@ api_name:
 - Word.Window.Index
 ms.assetid: 470c660a-08cb-b018-21b0-b5506419379b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

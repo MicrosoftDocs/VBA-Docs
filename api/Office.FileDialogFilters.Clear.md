@@ -8,7 +8,7 @@ api_name:
 - Office.FileDialogFilters.Clear
 ms.assetid: 1d5fa55e-6a61-d808-51a4-86116420f89f
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

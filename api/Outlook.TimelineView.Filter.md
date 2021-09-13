@@ -8,7 +8,7 @@ api_name:
 - Outlook.TimelineView.Filter
 ms.assetid: 588f39bd-9bc2-4e11-3359-da75bfbff62d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

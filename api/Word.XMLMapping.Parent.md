@@ -8,7 +8,7 @@ api_name:
 - Word.XMLMapping.Parent
 ms.assetid: 1b7882fe-389f-da24-7024-7ff0635efb12
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

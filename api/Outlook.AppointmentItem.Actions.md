@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Actions
 ms.assetid: 8c2c91c4-b242-df8d-a8d1-b6493cf95bdd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

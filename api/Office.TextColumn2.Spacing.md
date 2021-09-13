@@ -5,7 +5,7 @@ api_name:
 - Office.TextColumn2.Spacing
 ms.assetid: 991c6288-3044-5fe5-8e5b-e507daac88e6
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Errors
 ms.assetid: d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

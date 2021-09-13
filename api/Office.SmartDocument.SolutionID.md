@@ -8,7 +8,7 @@ api_name:
 - Office.SmartDocument.SolutionID
 ms.assetid: e1eea0af-d951-a316-4b58-a65ffd280c89
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

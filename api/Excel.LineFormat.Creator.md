@@ -5,7 +5,7 @@ api_name:
 - Excel.LineFormat.Creator
 ms.assetid: afcb3c96-048f-e105-6c05-6bf455972284
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

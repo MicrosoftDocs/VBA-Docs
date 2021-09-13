@@ -5,7 +5,7 @@ api_name:
 - Word.WdAutoMacros
 ms.assetid: cd724f11-d18a-a97c-b46c-c4aa354f9e2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

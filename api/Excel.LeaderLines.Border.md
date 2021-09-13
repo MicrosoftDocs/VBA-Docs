@@ -8,7 +8,7 @@ api_name:
 - Excel.LeaderLines.Border
 ms.assetid: 9f8eea5d-0885-c2d8-8c52-179e9aa4299f
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

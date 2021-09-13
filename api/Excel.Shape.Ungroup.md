@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Ungroup
 ms.assetid: 678ff982-25c7-cbaa-7cc5-011b53ecf6b6
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

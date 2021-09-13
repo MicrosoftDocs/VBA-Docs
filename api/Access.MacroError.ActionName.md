@@ -8,7 +8,7 @@ api_name:
 - Access.ActionName
 ms.assetid: 1ccb5787-8bc3-2576-6bcf-154273fa4cc0
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

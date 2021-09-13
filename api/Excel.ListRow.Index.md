@@ -8,7 +8,7 @@ api_name:
 - Excel.ListRow.Index
 ms.assetid: 701262e9-1c24-0117-023e-8f11ef26ed6b
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

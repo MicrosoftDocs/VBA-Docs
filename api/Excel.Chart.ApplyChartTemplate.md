@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ApplyChartTemplate
 ms.assetid: b4695f3f-26ac-1e35-7318-0091d9b1f130
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

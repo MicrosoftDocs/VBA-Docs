@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.LogNormDist
 ms.assetid: 93f8135e-4967-5708-1372-0c27a0d8be12
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

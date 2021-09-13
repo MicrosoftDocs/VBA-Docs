@@ -8,7 +8,7 @@ api_name:
 - Word.Pages.Application
 ms.assetid: 0801f89b-9cea-4fe8-bc0f-6deb333e2807
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

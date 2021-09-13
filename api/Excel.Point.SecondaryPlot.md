@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.SecondaryPlot
 ms.assetid: 1a12020a-bbd5-30b0-106a-589a44b45ca6
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

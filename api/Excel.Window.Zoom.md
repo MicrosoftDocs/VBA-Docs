@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.Zoom
 ms.assetid: 82e6ac47-7054-52a9-383e-80be278dab0f
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

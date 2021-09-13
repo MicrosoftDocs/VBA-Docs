@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.FillFormat.TextureTile
 ms.assetid: 14d1b329-8d06-b4d6-1ade-aea80f5427ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

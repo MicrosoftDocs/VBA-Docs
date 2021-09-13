@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeFont.Parent
 ms.assetid: 64cb890b-05dd-9b71-6f7d-dee961188cb7
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

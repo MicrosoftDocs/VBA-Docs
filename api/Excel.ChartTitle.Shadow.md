@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Shadow
 ms.assetid: caf5d60f-9904-1fca-e731-cff15b7d569d
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

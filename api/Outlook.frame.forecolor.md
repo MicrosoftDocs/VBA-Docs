@@ -3,7 +3,7 @@ title: Frame.ForeColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: d21cbb7e-4a3b-33fc-00dd-61248f52a205
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

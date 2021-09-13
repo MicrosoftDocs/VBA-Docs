@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DataLabel.Left
 ms.assetid: 7792787a-aa61-a76f-f1b4-4be9cd8995dd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

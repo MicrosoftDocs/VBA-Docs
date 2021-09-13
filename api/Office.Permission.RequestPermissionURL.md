@@ -8,7 +8,7 @@ api_name:
 - Office.Permission.RequestPermissionURL
 ms.assetid: 7d37d706-a7bf-9cb0-8930-299bd2bf37b0
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

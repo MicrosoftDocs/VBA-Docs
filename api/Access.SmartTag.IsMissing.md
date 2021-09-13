@@ -8,7 +8,7 @@ api_name:
 - Access.SmartTag.IsMissing
 ms.assetid: 072199c2-6f46-654a-ab89-9e4aff0537fc
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

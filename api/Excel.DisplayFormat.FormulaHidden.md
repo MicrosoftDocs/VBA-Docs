@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayFormat.FormulaHidden
 ms.assetid: 3db0fd6b-da1b-f19a-e859-a949b5f4d2b3
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

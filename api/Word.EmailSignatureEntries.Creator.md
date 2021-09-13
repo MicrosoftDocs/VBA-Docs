@@ -8,7 +8,7 @@ api_name:
 - Word.EmailSignatureEntries.Creator
 ms.assetid: cca4c109-d018-50bf-72d0-0d84b1436aad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

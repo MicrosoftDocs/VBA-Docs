@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntries.Count
 ms.assetid: 66fa1994-1a0e-dd70-c508-ee9ffe875388
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

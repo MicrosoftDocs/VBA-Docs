@@ -5,7 +5,7 @@ api_name:
 - Excel.XlFixedFormatType
 ms.assetid: 2071c2e8-f216-eac1-0f1f-7aadaef465e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

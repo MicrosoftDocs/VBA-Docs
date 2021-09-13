@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatApplyBulletedLists
 ms.assetid: a66aacd6-0709-d4ac-0af4-314a386ee39c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

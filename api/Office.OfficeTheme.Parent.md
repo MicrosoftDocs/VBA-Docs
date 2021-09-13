@@ -5,7 +5,7 @@ api_name:
 - Office.OfficeTheme.Parent
 ms.assetid: a0818510-9bc2-6325-4c9e-91e9496e2879
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.KeyPress
 ms.assetid: d6beecb3-a178-3220-94fe-ae6e68b31980
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

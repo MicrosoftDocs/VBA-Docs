@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.BeforeMinimize
 ms.assetid: a2a6ce7e-5980-2914-6785-be87d9b163c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

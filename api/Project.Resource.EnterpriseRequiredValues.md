@@ -8,7 +8,7 @@ api_name:
 - Project.Resource.EnterpriseRequiredValues
 ms.assetid: be6d061b-0327-8262-da89-0b2433d19bff
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

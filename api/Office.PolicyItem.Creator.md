@@ -5,7 +5,7 @@ api_name:
 - Office.PolicyItem.Creator
 ms.assetid: cef768a9-8c16-25dd-a596-7a9d2aa85bc3
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

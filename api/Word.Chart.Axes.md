@@ -5,7 +5,7 @@ api_name:
 - Word.Chart.Axes
 ms.assetid: 37f422b5-31f2-92ce-c04e-a837b0a3d407
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Outlook.AppointmentItem.Read
 ms.assetid: aa39ec06-19ed-4655-6990-e4c4c45649d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ServerViewableItems.Parent
 ms.assetid: a65da6d1-74ef-ffef-8205-6e6a7588e31b
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

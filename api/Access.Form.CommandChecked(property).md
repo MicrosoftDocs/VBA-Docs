@@ -8,7 +8,7 @@ api_name:
 - Access.Form.CommandChecked
 ms.assetid: 4f3bb0fa-6f3f-4836-a0d0-06d480e1d194
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

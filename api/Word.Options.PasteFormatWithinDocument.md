@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteFormatWithinDocument
 ms.assetid: 57075eeb-5a03-8b44-7293-b79c70da1e24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

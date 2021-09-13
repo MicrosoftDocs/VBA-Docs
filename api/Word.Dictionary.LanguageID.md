@@ -8,7 +8,7 @@ api_name:
 - Word.Dictionary.LanguageID
 ms.assetid: 598efc88-f26d-49b2-6451-e2cbedd20ff7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

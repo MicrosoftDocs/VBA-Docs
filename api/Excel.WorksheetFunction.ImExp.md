@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImExp
 ms.assetid: 38072c27-dbd3-cdc6-a69a-f1782af7eb9c
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

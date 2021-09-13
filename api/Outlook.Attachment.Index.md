@@ -8,7 +8,7 @@ api_name:
 - Outlook.Attachment.Index
 ms.assetid: 639ebc08-40a1-12ab-d9e1-6754add14b24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

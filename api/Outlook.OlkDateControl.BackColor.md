@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkDateControl.BackColor
 ms.assetid: 9b4bf367-18c7-deea-dab6-09d2e53ad5e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

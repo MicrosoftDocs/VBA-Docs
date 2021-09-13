@@ -8,7 +8,7 @@ api_name:
 - Access.AcPictureCaptionArrangement
 ms.assetid: e77a758f-4139-343f-9f1c-5e29db3fe5a3
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

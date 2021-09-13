@@ -8,7 +8,7 @@ api_name:
 - Word.FileConverter.Path
 ms.assetid: 85809cfe-7db5-cada-9b25-3d6276356ea9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

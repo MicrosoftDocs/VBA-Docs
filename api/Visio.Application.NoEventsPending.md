@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.NoEventsPending
 ms.assetid: 8cb93f89-4541-53f8-a95c-abf5b349f67d
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

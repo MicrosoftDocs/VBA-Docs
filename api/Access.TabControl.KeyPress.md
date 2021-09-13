@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.KeyPress
 ms.assetid: 4b67dc83-b7fe-4f76-c785-e9b576f51500
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

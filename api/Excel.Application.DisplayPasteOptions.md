@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayPasteOptions
 ms.assetid: da9cc6c1-e803-411a-220d-5c9c82d94504
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

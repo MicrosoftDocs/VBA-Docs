@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.InsertAfter
 ms.assetid: 2af4e134-c205-fbe6-a006-3fc1ca8d6a50
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

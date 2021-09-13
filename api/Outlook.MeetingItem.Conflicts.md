@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.Conflicts
 ms.assetid: 8cdf2d98-8780-1fac-cc11-4e36f93aab29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

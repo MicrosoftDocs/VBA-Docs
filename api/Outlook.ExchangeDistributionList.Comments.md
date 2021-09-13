@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeDistributionList.Comments
 ms.assetid: 9456246f-30a7-5046-9b07-783649cd54f3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

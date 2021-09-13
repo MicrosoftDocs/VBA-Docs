@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsOdd
 ms.assetid: a55beb79-80de-60b0-651f-0cf69a815280
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

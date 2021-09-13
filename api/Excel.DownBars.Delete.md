@@ -8,7 +8,7 @@ api_name:
 - Excel.DownBars.Delete
 ms.assetid: c9803782-d5e4-9d04-17c3-f20a04b2f994
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Sensitivity
 ms.assetid: b4b91017-bae5-4766-37ec-606cf57683e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

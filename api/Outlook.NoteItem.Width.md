@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.Width
 ms.assetid: 84006489-db28-a3ce-a897-7ec1a3e35f05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

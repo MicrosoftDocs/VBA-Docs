@@ -8,7 +8,7 @@ api_name:
 - Access.Form.FitToScreen
 ms.assetid: 5ef37719-ff3b-1f3d-1521-423633ceccc0
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

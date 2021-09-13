@@ -3,7 +3,7 @@ title: TaskGroups object (Project)
 ms.prod: project-server
 ms.assetid: 76d01102-cc38-36c1-f2fb-c5155f3056db
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

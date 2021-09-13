@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd
 ms.assetid: 3ce44cca-9979-0a1e-9787-079a52ce528f
 ms.date: 03/06/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

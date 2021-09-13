@@ -8,7 +8,7 @@ api_name:
 - Project.Task.FinishSlack
 ms.assetid: 478b5cc7-0075-0876-1811-55cde2973463
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

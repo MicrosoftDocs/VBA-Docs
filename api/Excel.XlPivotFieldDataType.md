@@ -5,7 +5,7 @@ api_name:
 - Excel.XlPivotFieldDataType
 ms.assetid: ce96a616-ab5e-c281-35bf-1072a4e87598
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

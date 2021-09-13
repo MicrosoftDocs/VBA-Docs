@@ -8,7 +8,7 @@ api_name:
 - Office.IBlogPictureExtensibility
 ms.assetid: 07cedf63-0c59-5c5e-25df-1d627db89cbe
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

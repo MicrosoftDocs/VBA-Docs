@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.MouseIcon
 ms.assetid: 01d4fa08-f3ea-4c74-5f23-c79dc5817e2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

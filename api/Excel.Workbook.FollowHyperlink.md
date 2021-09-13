@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.FollowHyperlink
 ms.assetid: d070ecc9-fbb6-c146-f250-5c99b09063ec
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

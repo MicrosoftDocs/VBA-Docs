@@ -8,7 +8,7 @@ api_name:
 - Visio.MenuSet.Enabled
 ms.assetid: 66e238f9-56e5-61e5-5e96-4a9387a8d59d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

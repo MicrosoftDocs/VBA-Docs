@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.Parent
 ms.assetid: 7c1941d8-6d4c-a061-d8ef-68a7781d9134
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

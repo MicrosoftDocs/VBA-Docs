@@ -8,7 +8,7 @@ api_name:
 - Excel.IconSetCondition.PTCondition
 ms.assetid: 66b29dd4-83e3-2f85-7ff5-7ed948b93e50
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

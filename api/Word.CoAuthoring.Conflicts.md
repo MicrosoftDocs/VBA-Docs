@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthoring.Conflicts
 ms.assetid: bd6aab5d-5342-ee1b-c5af-1f67753d55fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

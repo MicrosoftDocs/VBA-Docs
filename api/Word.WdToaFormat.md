@@ -5,7 +5,7 @@ api_name:
 - Word.WdToaFormat
 ms.assetid: fcd22df1-8a63-5a92-35c9-a7c04468a354
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

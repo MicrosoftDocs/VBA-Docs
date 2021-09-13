@@ -8,7 +8,7 @@ api_name:
 - Visio.MenuItems.AddAt
 ms.assetid: 1a987305-29f9-4f58-758b-a89d1e1911ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

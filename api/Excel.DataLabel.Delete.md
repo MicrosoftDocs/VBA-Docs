@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.Delete
 ms.assetid: edf4ef78-c29f-6a8c-484b-36c286c46344
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

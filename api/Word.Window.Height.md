@@ -8,7 +8,7 @@ api_name:
 - Word.Window.Height
 ms.assetid: 9b96ac83-57cc-4cb2-768b-2b5012c49bbc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

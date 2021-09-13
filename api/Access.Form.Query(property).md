@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Query
 ms.assetid: fcef59f9-f405-0a05-f986-b29c2b0528de
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

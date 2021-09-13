@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.CrossFilterType
 ms.assetid: 2e91a528-a253-e731-6f11-a33f9ee6d9e2
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Control.Requery
 ms.assetid: 95f68520-7bbc-6627-0702-477b839f98c5
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

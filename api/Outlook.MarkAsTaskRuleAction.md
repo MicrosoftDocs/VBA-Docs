@@ -8,7 +8,7 @@ api_name:
 - Outlook.MarkAsTaskRuleAction
 ms.assetid: 639d9242-7387-2b25-9d0f-f7a14cf16790
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

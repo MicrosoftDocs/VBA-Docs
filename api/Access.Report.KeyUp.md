@@ -8,7 +8,7 @@ api_name:
 - Access.Report.KeyUp
 ms.assetid: 5561cbab-b6bd-ab4e-83a6-fbf7ec9272d1
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

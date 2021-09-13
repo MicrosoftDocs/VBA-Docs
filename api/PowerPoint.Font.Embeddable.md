@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Font.Embeddable
 ms.assetid: 50824587-0371-e7eb-8885-370f97b8bf0c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.ReadingOrder
 ms.assetid: b0c40eaf-447a-0051-6ffe-2c7895cdbb58
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

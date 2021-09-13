@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ReplaceFormat
 ms.assetid: df2242dc-9f23-b3c8-455d-1f0474eca873
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

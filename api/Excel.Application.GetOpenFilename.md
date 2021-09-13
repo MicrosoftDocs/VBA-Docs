@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.GetOpenFilename
 ms.assetid: 83931dc2-59b3-550b-6ce1-880413fd23d6
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartGroup.UpBars
 ms.assetid: c6496698-c9a3-eee4-f829-f2feec787118
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

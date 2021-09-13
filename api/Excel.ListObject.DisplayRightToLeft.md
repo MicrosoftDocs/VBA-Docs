@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.DisplayRightToLeft
 ms.assetid: d8e7223d-2e7c-8149-8843-900152f491b1
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

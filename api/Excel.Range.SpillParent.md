@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.SpillParent
 ms.assetid: ????
 ms.date: 12/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

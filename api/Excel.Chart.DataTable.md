@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.DataTable
 ms.assetid: e977daf1-45a1-a069-3d6c-afbe13724d11
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

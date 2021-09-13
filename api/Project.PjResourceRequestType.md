@@ -5,7 +5,7 @@ api_name:
 - Project.PjResourceRequestType
 ms.assetid: 4709e570-b0b7-7052-0fb9-fd1c4cca071d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

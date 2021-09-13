@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.XlGeoProjectionType
 ms.date: 10/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # XlGeoProjectionType enumeration (Excel)

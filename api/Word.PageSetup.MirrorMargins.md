@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.MirrorMargins
 ms.assetid: ae7c53d9-7669-fb22-323f-2ad3984e2dfa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

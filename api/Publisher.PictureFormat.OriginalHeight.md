@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.OriginalHeight
 ms.assetid: 0bf97bb1-d333-a7ed-686c-da2f3cce97c5
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

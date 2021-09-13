@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat.ForeColor
 ms.assetid: af89408d-a354-d277-c8f3-4e10213ce563
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

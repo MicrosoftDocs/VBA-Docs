@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.OnChange
 ms.assetid: ea25341f-fd30-62b1-476d-29febf4db4b4
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

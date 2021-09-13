@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.TabStop
 ms.assetid: 0581f18a-7d23-2836-0959-88f84dc1a4ad
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

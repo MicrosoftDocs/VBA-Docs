@@ -5,7 +5,7 @@ api_name:
 - Project.Task.RecalcFlags
 ms.assetid: d5a5989e-b134-240b-fd37-11f4999e74bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

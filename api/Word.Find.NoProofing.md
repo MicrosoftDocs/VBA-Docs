@@ -8,7 +8,7 @@ api_name:
 - Word.Find.NoProofing
 ms.assetid: 4e13dab9-8bff-5615-c2c0-4d18a354c711
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

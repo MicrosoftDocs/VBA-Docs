@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnClick
 ms.assetid: 45161619-ed2c-ff3d-00a6-26ed802e0480
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

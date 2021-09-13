@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.NumberOfColumns
 ms.assetid: 9d4d1d8c-723d-3e90-96ae-a0faa1980077
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

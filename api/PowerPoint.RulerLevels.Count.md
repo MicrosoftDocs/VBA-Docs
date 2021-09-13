@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.RulerLevels.Count
 ms.assetid: 5278b041-dabb-7b14-32ef-528b238d3326
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.FindReplace.Application
 ms.assetid: 9712b527-a24d-a5fd-122b-12846973692c
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Point.Application
 ms.assetid: 66d3f58a-59c8-0556-eb38-72a87492b4e5
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

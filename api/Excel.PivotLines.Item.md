@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotLines.Item
 ms.assetid: c243bd8d-07a5-c472-8eba-fd5b0eb93c31
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

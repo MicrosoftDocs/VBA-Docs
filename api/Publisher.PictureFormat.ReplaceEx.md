@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.ReplaceEx
 ms.assetid: 0f1b9eaf-51b6-ae21-518f-55663184ab87
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

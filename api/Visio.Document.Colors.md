@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Colors
 ms.assetid: e7ed0aa2-c365-bbf7-e06c-5df34094dd9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

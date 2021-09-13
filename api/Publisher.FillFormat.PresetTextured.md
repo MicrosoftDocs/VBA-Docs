@@ -8,7 +8,7 @@ api_name:
 - Publisher.FillFormat.PresetTextured
 ms.assetid: 971eac34-4e29-c898-93c8-9e71bd92238d
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

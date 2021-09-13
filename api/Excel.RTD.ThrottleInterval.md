@@ -8,7 +8,7 @@ api_name:
 - Excel.RTD.ThrottleInterval
 ms.assetid: ae3a5561-e880-b5ee-763c-f38f887bc2a0
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

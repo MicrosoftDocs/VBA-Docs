@@ -8,7 +8,7 @@ api_name:
 - Publisher.Stories.Count
 ms.assetid: 3380c5fc-cfd7-98d6-9c19-4a2fe9877166
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

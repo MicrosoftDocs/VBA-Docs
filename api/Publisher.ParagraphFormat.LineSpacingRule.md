@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.LineSpacingRule
 ms.assetid: e9855daa-59f4-a4b6-f153-5de515261414
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

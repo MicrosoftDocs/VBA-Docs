@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.FormulaLocal
 ms.assetid: 90f54862-dbef-0092-7d1d-273124fdbfc6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

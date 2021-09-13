@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.ReminderSoundFile
 ms.assetid: 3d0d0543-97f5-cecd-a838-c36b5c35b8aa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Category.CategoryBorderColor
 ms.assetid: 95251459-f216-7cc8-55ef-c939090cf3bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

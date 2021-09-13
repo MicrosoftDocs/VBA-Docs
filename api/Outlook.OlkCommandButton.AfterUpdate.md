@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.AfterUpdate
 ms.assetid: 2f968ed1-7043-a3de-8219-927c27e12832
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

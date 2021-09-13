@@ -4,7 +4,7 @@ description: Represents a collection of SmartArt layout diagrams.
 ms.prod: office
 ms.assetid: 29154639-17b7-7999-a9e1-b16cf9b2ada6
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

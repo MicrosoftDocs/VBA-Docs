@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.OtherAddress
 ms.assetid: 16bc351b-9522-4cf9-2838-74e644fec828
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

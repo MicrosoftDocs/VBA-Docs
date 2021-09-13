@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CreateAdditionalData
 ms.assetid: d27df827-1bcc-eb1e-00d2-46eebd265440
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

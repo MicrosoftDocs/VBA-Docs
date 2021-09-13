@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.ColorType
 ms.assetid: a1cc3739-4398-caf0-7970-f114190e66cb
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

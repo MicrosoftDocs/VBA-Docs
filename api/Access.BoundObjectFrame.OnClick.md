@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnClick
 ms.assetid: 1afb4220-a3de-076b-5619-d758b4e8483c
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

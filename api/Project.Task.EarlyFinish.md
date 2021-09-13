@@ -8,7 +8,7 @@ api_name:
 - Project.Task.EarlyFinish
 ms.assetid: 17127825-4eec-7278-8a77-1692142e15e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

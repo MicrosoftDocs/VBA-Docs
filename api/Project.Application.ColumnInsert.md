@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ColumnInsert
 ms.assetid: 5dfa6b58-7d13-4a96-fdea-8cbe95af52eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Hyperlink.AddToFavorites
 ms.assetid: 40a6f12e-3ad3-f028-ed47-b131b36af5fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

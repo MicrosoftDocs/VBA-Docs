@@ -8,7 +8,7 @@ api_name:
 - Excel.CustomView.Delete
 ms.assetid: bcfdea3b-0d7e-8dd2-230a-d318f638945e
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

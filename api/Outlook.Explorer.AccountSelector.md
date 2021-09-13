@@ -8,7 +8,7 @@ api_name:
 - Outlook.Explorer.AccountSelector
 ms.assetid: 5d383684-a88e-8266-522b-7762895e69d3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.OnMouseUp
 ms.assetid: a0f93909-a3d6-255f-6c9d-77259155741b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

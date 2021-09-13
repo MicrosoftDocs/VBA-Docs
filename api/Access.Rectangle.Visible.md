@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Visible
 ms.assetid: 189ade15-1523-7543-8382-73d53c1c0f86
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

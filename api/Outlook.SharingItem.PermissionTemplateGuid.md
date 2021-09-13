@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.PermissionTemplateGuid
 ms.assetid: 166c2975-b6be-d1ca-4aa8-ad7deb42c68d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.PrimaryItem
 ms.assetid: febdc4ec-d7db-7b4f-145b-aa9b23a2d5d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

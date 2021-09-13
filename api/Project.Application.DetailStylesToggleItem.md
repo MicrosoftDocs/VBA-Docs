@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DetailStylesToggleItem
 ms.assetid: 744022ac-e5c1-ee5a-c02b-c6962c821c55
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

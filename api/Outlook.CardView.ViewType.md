@@ -8,7 +8,7 @@ api_name:
 - Outlook.CardView.ViewType
 ms.assetid: 411f59e2-6deb-fafa-22cf-60740fc4d08c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

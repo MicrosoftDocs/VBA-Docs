@@ -8,7 +8,7 @@ api_name:
 - Excel.ServerViewableItems.Application
 ms.assetid: 60cd4946-d68a-cf52-754e-41c325c756fe
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

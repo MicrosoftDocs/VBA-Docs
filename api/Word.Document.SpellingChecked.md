@@ -8,7 +8,7 @@ api_name:
 - Word.Document.SpellingChecked
 ms.assetid: 053f8fbd-30cd-038f-e36f-d55fdd26fe13
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

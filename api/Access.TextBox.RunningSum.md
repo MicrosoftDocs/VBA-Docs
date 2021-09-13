@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.RunningSum
 ms.assetid: 8918a58c-8c07-84dc-f43c-2486d54cd677
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

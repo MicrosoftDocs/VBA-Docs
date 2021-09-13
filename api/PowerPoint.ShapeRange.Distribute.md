@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Distribute
 ms.assetid: bbabe9db-30ba-e165-0dcc-7a15e849228e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

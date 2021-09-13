@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.LinkInfo
 ms.assetid: 016295a3-72c1-95b3-c259-8f286b12b73c
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

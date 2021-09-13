@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.AddItem
 ms.assetid: fffc243b-3f94-14ab-f7b4-83c56325aa5e
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

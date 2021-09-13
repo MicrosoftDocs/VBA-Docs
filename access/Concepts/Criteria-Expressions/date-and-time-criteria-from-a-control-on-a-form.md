@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 132cf297-eb3b-68a1-7a47-b832931a5091
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 # Date and time criteria from a control on a form
 

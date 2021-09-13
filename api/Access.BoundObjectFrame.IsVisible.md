@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.IsVisible
 ms.assetid: e750fe64-ee9a-5b42-2f5b-da8017002960
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.SuppressEndnotes
 ms.assetid: be1a8712-8763-646f-6126-30fa0056f159
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

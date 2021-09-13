@@ -8,7 +8,7 @@ api_name:
 - Word.Columns.Delete
 ms.assetid: ea6b4743-3333-5048-4dd8-880b21e4cac7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

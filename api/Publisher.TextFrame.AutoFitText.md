@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.AutoFitText
 ms.assetid: 468a9d3e-cb9d-8147-60ea-eb839d691e7a
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

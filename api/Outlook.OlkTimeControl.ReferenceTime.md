@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.ReferenceTime
 ms.assetid: 3979de6d-4992-f42c-b894-7f9661826ca6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

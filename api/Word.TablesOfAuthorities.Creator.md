@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfAuthorities.Creator
 ms.assetid: 05961d38-4bba-45d3-1c13-110b7363f7fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

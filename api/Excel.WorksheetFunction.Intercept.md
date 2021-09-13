@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Intercept
 ms.assetid: 8fa9d911-24af-6e1c-0c0b-b42b18e75e10
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

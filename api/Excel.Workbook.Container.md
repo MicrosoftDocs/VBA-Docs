@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Container
 ms.assetid: 7ad370bc-9901-3b8b-12e6-1ee57f0300e0
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

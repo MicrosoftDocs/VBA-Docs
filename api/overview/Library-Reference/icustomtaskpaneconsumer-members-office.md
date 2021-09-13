@@ -3,7 +3,7 @@ title: ICustomTaskPaneConsumer members (Office)
 ms.prod: office
 ms.assetid: 60770e22-c08b-d554-c1f2-89e940031531
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.InputTitle
 ms.assetid: 77e6bb8b-1fc2-084c-69b7-31b07f8145d3
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

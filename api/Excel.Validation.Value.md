@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.Value
 ms.assetid: 8c1e3946-ea57-4aa7-5f1d-be9e6a2c8f77
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

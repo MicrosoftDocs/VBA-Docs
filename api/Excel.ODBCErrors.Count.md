@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCErrors.Count
 ms.assetid: bb668c7f-d70e-0141-cf67-7286925f9979
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

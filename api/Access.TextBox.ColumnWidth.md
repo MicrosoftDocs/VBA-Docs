@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ColumnWidth
 ms.assetid: 19060aac-ccb0-3998-39c7-42f1454c339e
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

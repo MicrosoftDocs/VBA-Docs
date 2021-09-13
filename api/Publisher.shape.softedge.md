@@ -3,7 +3,7 @@ title: Shape.SoftEdge property (Publisher)
 ms.prod: publisher
 ms.assetid: 1bbb441e-314d-30d6-bae7-f96f81224dd9
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

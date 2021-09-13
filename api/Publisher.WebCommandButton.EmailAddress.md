@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCommandButton.EmailAddress
 ms.assetid: 8961e459-1ce1-558a-2450-c3b8da2d5559
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

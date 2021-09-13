@@ -8,7 +8,7 @@ api_name:
 - Access.Label.MouseUp
 ms.assetid: da68ccbf-8b14-e605-552d-2e515b5793a3
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

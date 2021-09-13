@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.MinorGridlines
 ms.assetid: 5725fdb3-05de-e555-5734-cbc64c6a2068
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

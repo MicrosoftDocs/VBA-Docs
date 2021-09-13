@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebOptions.ShowOnlyWebFonts
 ms.assetid: d18197f4-9abe-d523-77fd-f33a8ecc8076
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.ImportIcon
 ms.assetid: 886d724d-9d02-ab6f-8049-80fa04f8caec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

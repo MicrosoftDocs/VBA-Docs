@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.DisplayWhen
 ms.assetid: d8a82522-97db-1b8d-2089-6e808be7889f
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.AutoUpdate
 ms.assetid: b9ce8dde-c09f-6fe9-6935-cb4903a17b85
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

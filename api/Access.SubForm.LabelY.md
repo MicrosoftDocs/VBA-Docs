@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.LabelY
 ms.assetid: 4dc620c1-eadb-b664-62e4-ff9093527cc9
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

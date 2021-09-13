@@ -8,7 +8,7 @@ api_name:
 - Word.Range.LookupNameProperties
 ms.assetid: a3a0facf-898a-d8c9-033a-b48416b53266
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

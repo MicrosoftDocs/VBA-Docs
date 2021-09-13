@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.AutoText
 ms.assetid: a549b738-59fb-a096-c4e9-d8f00bc59239
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

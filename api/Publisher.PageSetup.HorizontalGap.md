@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSetup.HorizontalGap
 ms.assetid: e8ee51e0-59b3-8fb6-21f6-87d67a96dd66
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

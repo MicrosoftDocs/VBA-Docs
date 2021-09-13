@@ -8,7 +8,7 @@ api_name:
 - Excel.IconCriterion.Operator
 ms.assetid: 8c6cb2ee-5ff7-8119-028d-c95505524705
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

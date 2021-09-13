@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Cycle
 ms.assetid: 031194ca-f058-3a73-3551-f67d4e9bc27a
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

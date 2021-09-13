@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.SelectionForDragCopy
 ms.assetid: e34de916-5dc4-b9af-70b3-7c68340e2afb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Frameset.Delete
 ms.assetid: 21290f22-9881-02a9-278c-055c0b8d1051
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

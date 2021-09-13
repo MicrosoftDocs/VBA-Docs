@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.InSelection
 ms.assetid: 202ce7d7-4363-b759-0ba7-f81c74dfd1f4
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

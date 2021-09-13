@@ -8,7 +8,7 @@ api_name:
 - Word.Range.PhoneticGuide
 ms.assetid: f720cf42-4d61-977c-8e09-6346a48afecf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

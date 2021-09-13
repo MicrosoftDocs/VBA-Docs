@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressEntries.Parent
 ms.assetid: 42155333-c917-a950-6162-0ddc8f3616d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

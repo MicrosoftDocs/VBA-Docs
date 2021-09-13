@@ -8,7 +8,7 @@ api_name:
 - Excel.AddReplacement
 ms.assetid: 70a6a3f7-e42f-e8b4-d7f8-1ad8f8c66ba7
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

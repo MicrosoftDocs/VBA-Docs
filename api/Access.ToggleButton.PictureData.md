@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.PictureData
 ms.assetid: 1d2f0d70-0176-a43c-37a5-e527b9e48e40
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

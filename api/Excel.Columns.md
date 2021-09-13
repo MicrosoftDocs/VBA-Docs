@@ -8,7 +8,7 @@ api_name:
 - Excel.Columns
 ms.assetid: 7c5bd414-aa86-49e6-c853-0fa0c56d11a7
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

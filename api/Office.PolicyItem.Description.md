@@ -8,7 +8,7 @@ api_name:
 - Office.PolicyItem.Description
 ms.assetid: 3eaa6a5a-0606-5f1d-9ead-f7d92328173f
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

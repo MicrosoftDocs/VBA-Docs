@@ -8,7 +8,7 @@ api_name:
 - Word.OMathAcc.E
 ms.assetid: 84ce8134-3c49-deeb-2702-0bd6b2528b29
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

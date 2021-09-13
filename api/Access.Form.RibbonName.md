@@ -8,7 +8,7 @@ api_name:
 - Access.Form.RibbonName
 ms.assetid: e352711e-a43d-2dd2-d6db-2bbec7c99e74
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

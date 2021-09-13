@@ -8,7 +8,7 @@ api_name:
 - Excel.PlotArea.InsideHeight
 ms.assetid: a9b2e591-afc5-331e-86b5-bbeb47696c3d
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

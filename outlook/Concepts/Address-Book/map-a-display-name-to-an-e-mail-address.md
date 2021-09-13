@@ -3,7 +3,7 @@ title: Map a Display Name to an Email Address
 ms.prod: outlook
 ms.assetid: ac4e12f8-ea0f-02df-5ce9-23a1c7eda8e0
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

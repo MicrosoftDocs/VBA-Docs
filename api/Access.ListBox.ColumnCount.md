@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ColumnCount
 ms.assetid: a1712119-2afe-f389-ff68-ed6aa1f7dde4
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TaskComparison
 ms.assetid: 61d0c322-39a3-f731-3662-f6cf6709bb12
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

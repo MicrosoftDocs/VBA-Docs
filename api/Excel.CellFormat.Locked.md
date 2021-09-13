@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.Locked
 ms.assetid: 6cf62248-2ef4-ba2a-61da-427775e5414a
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

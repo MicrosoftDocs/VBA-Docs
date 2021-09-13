@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.BeforeShapeTextEdit
 ms.assetid: 1d39001d-6efa-7d58-1eaa-f6c2531e2018
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

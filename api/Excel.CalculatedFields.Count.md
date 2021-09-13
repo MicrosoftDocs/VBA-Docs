@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedFields.Count
 ms.assetid: db7c3a92-088e-d13a-e582-540c29fd96e9
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Close
 ms.assetid: 529a238b-087c-f70e-e651-2630ef1d427a
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

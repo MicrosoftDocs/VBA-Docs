@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedFields.Item
 ms.assetid: cae0c3a5-3403-f1b1-fe7f-c38ff6be6b07
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

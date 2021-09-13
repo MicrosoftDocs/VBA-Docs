@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.LtrRun
 ms.assetid: e2b905f1-3ce1-ce51-bc9f-c5325fa0e9af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

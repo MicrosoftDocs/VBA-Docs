@@ -8,7 +8,7 @@ api_name:
 - Excel.ModuleView
 ms.assetid: c9133d55-52ab-782d-3d77-8b453b6ab343
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkLabel
 ms.assetid: 52e5bbb2-4b22-f308-d5d4-1a1eafad2f48
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

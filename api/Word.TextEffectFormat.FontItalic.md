@@ -8,7 +8,7 @@ api_name:
 - Word.TextEffectFormat.FontItalic
 ms.assetid: a5fa97ea-c01d-8742-9e9e-20a8148a3326
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

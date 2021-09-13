@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.FindRecord
 ms.assetid: a4b37255-bdff-ac61-6d18-05a4fe008beb
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Word.WdVisualSelection
 ms.assetid: b1bae4a5-f232-3fa4-3ec6-a401de4a9855
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

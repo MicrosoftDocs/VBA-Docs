@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.OnKeyUp
 ms.assetid: 99b7e4be-f2fc-f221-814e-b31cd3360063
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

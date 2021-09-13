@@ -8,7 +8,7 @@ api_name:
 - Excel.Column3DGroup
 ms.assetid: 9fa90f46-29b8-c710-93de-4150e276330c
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

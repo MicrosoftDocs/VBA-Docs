@@ -5,7 +5,7 @@ api_name:
 - Word.WdEditorType
 ms.assetid: 78e4fce6-6cc3-65c5-cb90-581a6d460d0d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

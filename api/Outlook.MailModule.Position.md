@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailModule.Position
 ms.assetid: 46cfff8e-07ac-f929-94be-c7b39980daa8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

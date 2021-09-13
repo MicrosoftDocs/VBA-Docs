@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ExportAsFixedFormat
 ms.assetid: 9786c633-e9bd-3ce3-0246-7bcb3c4b4ce1
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

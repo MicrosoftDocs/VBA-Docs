@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.SecondPlotSize
 ms.assetid: 231541fa-0353-3533-6b4b-0653b6157568
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.PasteToLocation
 ms.assetid: c5c94265-23ee-5516-525d-ed3f34d2e7bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

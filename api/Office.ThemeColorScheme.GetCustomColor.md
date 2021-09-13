@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeColorScheme.GetCustomColor
 ms.assetid: 67ac156e-19ab-245e-b6f8-03514f802acb
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

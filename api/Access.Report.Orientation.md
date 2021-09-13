@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Orientation
 ms.assetid: 46687f4f-77e2-d9c3-ed12-5df0a8abc2bb
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

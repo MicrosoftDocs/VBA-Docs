@@ -8,7 +8,7 @@ api_name:
 - Access.Report.TextWidth
 ms.assetid: 98827373-8610-5e48-ab46-2c89f8e2d2a7
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.BackThemeColorIndex
 ms.assetid: 02c8f49a-d16a-05d1-b4e9-2d71285d4880
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

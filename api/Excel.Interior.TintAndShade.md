@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.TintAndShade
 ms.assetid: 45b12e93-1a6d-b5a3-b31d-4b41d87f3f73
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

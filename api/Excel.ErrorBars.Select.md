@@ -8,7 +8,7 @@ api_name:
 - Excel.ErrorBars.Select
 ms.assetid: 699994c5-e3b0-7eae-47c8-cac5bfab29af
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

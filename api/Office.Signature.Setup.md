@@ -8,7 +8,7 @@ api_name:
 - Office.Signature.Setup
 ms.assetid: 9ccfd72f-af1c-a0d5-3a8f-97ee58bda211
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

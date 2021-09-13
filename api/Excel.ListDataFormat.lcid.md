@@ -8,7 +8,7 @@ api_name:
 - Excel.ListDataFormat.lcid
 ms.assetid: 954812f2-d50e-8eff-429d-37da5cd8cff1
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

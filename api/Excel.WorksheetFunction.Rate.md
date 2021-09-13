@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Rate
 ms.assetid: 5b412b46-d54a-a36a-a309-c819f2671185
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

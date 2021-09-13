@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.AddPicture
 ms.assetid: 198d5663-7e35-b0e4-3729-48f156ddd8bf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCategory.Enabled
 ms.assetid: 79b761c4-10d2-c797-99bd-5bb60fd7200f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

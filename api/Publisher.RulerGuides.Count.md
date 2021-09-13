@@ -8,7 +8,7 @@ api_name:
 - Publisher.RulerGuides.Count
 ms.assetid: 92a93b1a-80c1-7a41-cb94-ac0859a4a470
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

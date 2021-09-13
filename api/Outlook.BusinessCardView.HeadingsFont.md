@@ -8,7 +8,7 @@ api_name:
 - Outlook.BusinessCardView.HeadingsFont
 ms.assetid: 760529d2-c197-7d01-3d1a-6c59c50fe1f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

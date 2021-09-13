@@ -3,7 +3,7 @@ title: Chart.ClearToMatchStyle method (Project)
 ms.prod: project-server
 ms.assetid: 6715dd6c-4213-6fc6-5cdb-5eefbaf9d875
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

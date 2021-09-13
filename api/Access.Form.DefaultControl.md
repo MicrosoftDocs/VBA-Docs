@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DefaultControl
 ms.assetid: f6444b54-cf68-0ec6-ebd0-041caba21d74
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

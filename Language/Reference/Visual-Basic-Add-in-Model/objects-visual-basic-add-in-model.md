@@ -17,7 +17,7 @@ f1_keywords:
 - vbob6.chm102256
 ms.assetid: d92a32be-3e40-4ce2-ba11-fa797840984a
 ms.date: 12/26/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

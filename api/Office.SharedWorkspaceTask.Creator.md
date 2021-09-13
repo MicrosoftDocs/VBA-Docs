@@ -5,7 +5,7 @@ api_name:
 - Office.SharedWorkspaceTask.Creator
 ms.assetid: 414bba79-c72b-04f6-9784-3fb959b593e1
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

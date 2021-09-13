@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ContentControlOnEnter
 ms.assetid: 593eca61-886c-85e9-fde2-1dc20c80740b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

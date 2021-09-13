@@ -3,7 +3,7 @@ title: How Outlook Forms and Items Work Together
 ms.prod: outlook
 ms.assetid: e9b96721-3835-532e-990c-b11bf3affd6d
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

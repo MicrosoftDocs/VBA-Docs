@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.BackSideInsertFaceUp
 ms.assetid: 359c05bf-e040-5dcc-910f-6510887ac554
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

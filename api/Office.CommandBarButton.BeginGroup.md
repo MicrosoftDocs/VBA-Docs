@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarButton.BeginGroup
 ms.assetid: 62f522cd-30de-85a6-bd2d-0bd3f6ccb44f
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

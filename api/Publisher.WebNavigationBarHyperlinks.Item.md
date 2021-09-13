@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Item
 ms.assetid: f5ba7ecf-1938-9fd7-ea18-e8fb0e94a661
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

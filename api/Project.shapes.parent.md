@@ -3,7 +3,7 @@ title: Shapes.Parent property (Project)
 ms.prod: project-server
 ms.assetid: ca0ec6c1-657d-517b-eebe-6a5b20bbe21f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

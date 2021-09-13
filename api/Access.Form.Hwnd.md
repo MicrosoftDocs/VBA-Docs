@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Hwnd
 ms.assetid: 894b2d6d-b11d-c674-e1e5-21ff33aeca36
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

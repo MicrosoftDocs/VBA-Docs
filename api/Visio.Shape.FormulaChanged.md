@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.FormulaChanged
 ms.assetid: cf141b03-5eaf-bf42-a64f-049f8dec2a14
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

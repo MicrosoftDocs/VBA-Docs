@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlMap.PreserveNumberFormatting
 ms.assetid: 2eb38b1b-a2d0-ac24-2bfa-4bc24819d2af
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

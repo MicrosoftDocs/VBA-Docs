@@ -3,7 +3,7 @@ title: Concepts (Object library reference for Office)
 ms.prod: office
 ms.assetid: 96bfd6b4-62c0-c4e8-252d-046d9993761f
 ms.date: 01/22/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Parent
 ms.date: 06/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

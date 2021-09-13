@@ -8,7 +8,7 @@ api_name:
 - Excel.IconSetCondition.ModifyAppliesToRange
 ms.assetid: 89f13781-2641-4cba-061b-cc82b479b6df
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

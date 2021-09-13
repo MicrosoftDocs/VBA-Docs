@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspace.Disconnect
 ms.assetid: a742bdc5-4fe1-fa51-bdb9-290fd7179ea7
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Control
 ms.assetid: ce2362e5-4390-590e-06c0-6f27e8d988cd
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

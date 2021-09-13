@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetic.Font
 ms.assetid: 37bc2d18-fd3d-ec0f-b8b9-be0a849b9afc
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

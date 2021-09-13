@@ -8,7 +8,7 @@ api_name:
 - Word.Rows.Delete
 ms.assetid: c48541e1-d0da-1193-0139-3f37b8d20fd9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

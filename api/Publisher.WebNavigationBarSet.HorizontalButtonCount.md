@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.HorizontalButtonCount
 ms.assetid: 2f6c5258-16c9-19fd-16c6-ea59c561e9de
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

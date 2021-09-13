@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceTasks.Item
 ms.assetid: 801adcf2-ed06-fbe3-39c6-15fcc72c25fb
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

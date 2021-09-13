@@ -3,7 +3,7 @@ title: Chart.BarShape property (Project)
 ms.prod: project-server
 ms.assetid: a8259558-5541-65a8-8366-ae391bc943bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

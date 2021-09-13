@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.CustomPropertyName
 ms.assetid: 6cd7838b-9c7b-0f07-e94b-c24dc800b2d2
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

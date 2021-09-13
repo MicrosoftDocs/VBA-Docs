@@ -3,7 +3,7 @@ title: XlErrorBarType enumeration (Word)
 ms.prod: word
 ms.assetid: 52ad9b53-5dc0-fc7d-b08b-92d89e9c59f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TextEffectFormat.Tracking
 ms.assetid: 40e1ac58-b292-ac12-6e82-a93f87013d6d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

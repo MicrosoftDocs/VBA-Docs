@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.Caption
 ms.assetid: 76220635-772b-4e4a-f31d-e9eb020f38cc
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

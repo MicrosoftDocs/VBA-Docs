@@ -8,7 +8,7 @@ api_name:
 - Publisher.RulerGuide.Parent
 ms.assetid: 90d89193-8c2c-e25b-7bdc-286c647f49ea
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

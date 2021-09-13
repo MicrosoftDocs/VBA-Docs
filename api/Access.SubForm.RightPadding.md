@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.RightPadding
 ms.assetid: 17cae6e0-4010-86e1-73ba-1f8a9b629dd4
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

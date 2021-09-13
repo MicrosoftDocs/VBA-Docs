@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.FindPrevious
 ms.assetid: c03f2e17-d28c-8b0d-b8c8-024863523c99
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

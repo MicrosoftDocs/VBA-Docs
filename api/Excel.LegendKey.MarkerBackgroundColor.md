@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey.MarkerBackgroundColor
 ms.assetid: 1563a2db-49b4-04b5-2c90-df6abc715cee
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

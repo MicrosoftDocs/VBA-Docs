@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Top
 ms.assetid: badaa1a0-44ef-c2cd-64fa-8450add21d69
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

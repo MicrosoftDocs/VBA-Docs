@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.Delete
 ms.assetid: bcbe57bc-879d-b6a4-27ae-ec87153b1111
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

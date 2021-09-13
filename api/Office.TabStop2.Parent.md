@@ -5,7 +5,7 @@ api_name:
 - Office.TabStop2.Parent
 ms.assetid: dde4b645-362f-30ff-d62c-448a726f4b0b
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

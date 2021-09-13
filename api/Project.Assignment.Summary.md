@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Summary
 ms.assetid: 7f8f38f3-c712-0f4e-6b46-0d8eb02119f4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.FreeformBuilder.AddNodes
 ms.assetid: 4022d4cd-796b-8917-7265-d97bff5282ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

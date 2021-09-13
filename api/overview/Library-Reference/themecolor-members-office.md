@@ -4,7 +4,7 @@ description: Represents a color in the color scheme of a Microsoft Office theme.
 ms.prod: office
 ms.assetid: 88735add-61c1-34e4-fa95-3f028e97aa87
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

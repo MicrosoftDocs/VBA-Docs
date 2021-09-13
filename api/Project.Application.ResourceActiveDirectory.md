@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ResourceActiveDirectory
 ms.assetid: d86f7d15-6ec1-711e-b382-95dd908aee7b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

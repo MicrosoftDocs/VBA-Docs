@@ -5,7 +5,7 @@ api_name:
 - Excel.XlReferenceType
 ms.assetid: a15bf421-985a-c72c-656b-d73689b45819
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

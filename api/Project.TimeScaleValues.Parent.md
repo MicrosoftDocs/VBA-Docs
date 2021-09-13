@@ -5,7 +5,7 @@ api_name:
 - Project.TimeScaleValues.Parent
 ms.assetid: 1235dcdf-1cb0-23d3-f943-4e7acf513b40
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

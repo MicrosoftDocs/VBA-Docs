@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.PixelsToPoints
 ms.assetid: 5d7e453f-e962-e557-48e4-44766d0c64d9
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

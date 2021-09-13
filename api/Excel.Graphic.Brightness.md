@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.Brightness
 ms.assetid: 42776335-6992-b37d-39a8-4a388b56da3e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

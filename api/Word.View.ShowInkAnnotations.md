@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowInkAnnotations
 ms.assetid: 5e022729-7e0e-4843-adbe-cd774c2d8e23
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

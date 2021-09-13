@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlGroupType
 ms.assetid: 2a5ee820-41fa-91fc-2ce0-46d97fc4bf11
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

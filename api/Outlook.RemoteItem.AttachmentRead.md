@@ -5,7 +5,7 @@ api_name:
 - Outlook.RemoteItem.AttachmentRead
 ms.assetid: 1a3a7f96-6d48-e93c-476b-2b06ee3807ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

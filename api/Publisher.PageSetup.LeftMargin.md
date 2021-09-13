@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSetup.LeftMargin
 ms.assetid: 19fbb72e-bb6e-18e9-28f3-c7e99b071bfb
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

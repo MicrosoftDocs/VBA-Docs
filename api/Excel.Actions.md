@@ -8,7 +8,7 @@ api_name:
 - Excel.Actions
 ms.assetid: c4175be1-826d-e5f8-6e3b-b98a1bd755ef
 ms.date: 03/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

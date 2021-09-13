@@ -8,7 +8,7 @@ api_name:
 - Publisher.EmailMergeEnvelope.Bcc
 ms.assetid: 1d846fac-d93c-6a20-ce3b-090525dbbfe1
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

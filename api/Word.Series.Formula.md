@@ -8,7 +8,7 @@ api_name:
 - Word.Series.Formula
 ms.assetid: 744473dd-b7f2-6f70-a285-ddc95ef5221f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.HTMLDivision.RightIndent
 ms.assetid: d691b48c-343f-5b4a-666b-83cae994b8b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

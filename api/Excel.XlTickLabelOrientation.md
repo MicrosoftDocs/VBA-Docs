@@ -5,7 +5,7 @@ api_name:
 - Excel.XlTickLabelOrientation
 ms.assetid: e278abce-7454-05c2-7ce5-7295a6568afd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

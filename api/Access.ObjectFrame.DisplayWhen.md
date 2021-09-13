@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.DisplayWhen
 ms.assetid: 37e03fc6-aee9-b6cf-eafb-7af111b5b9e3
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

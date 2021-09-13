@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.BackPage
 ms.assetid: cef2dac4-cf12-d692-cbbc-a6023f2d78e0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

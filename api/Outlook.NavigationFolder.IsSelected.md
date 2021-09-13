@@ -8,7 +8,7 @@ api_name:
 - Outlook.NavigationFolder.IsSelected
 ms.assetid: a8fb9430-0477-2417-0dba-e30e9f8ebe8d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

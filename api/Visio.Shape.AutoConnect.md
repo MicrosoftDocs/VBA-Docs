@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.AutoConnect
 ms.assetid: 36b634be-9943-1aec-f8e0-70467b82eed1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

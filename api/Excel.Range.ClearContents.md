@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.ClearContents
 ms.assetid: 8c957fdd-e99d-ca0e-7d2c-4cb1db62639a
 ms.date: 05/10/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Footnotes.NumberStyle
 ms.assetid: ec5443be-1a43-4fa7-ca77-1a98e55cc468
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

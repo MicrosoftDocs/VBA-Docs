@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.ColumnWidth
 ms.assetid: fb173bbb-8bcc-ee35-3248-2cbaa35ce5ca
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

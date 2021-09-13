@@ -8,7 +8,7 @@ api_name:
 - Excel.SeriesLines.Delete
 ms.assetid: 8d6869b2-64fa-00b8-5ac8-2ac1d1c8b22b
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

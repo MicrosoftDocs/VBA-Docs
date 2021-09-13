@@ -8,7 +8,7 @@ api_name:
 - Office.MatchFound
 ms.assetid: db350684-1758-a849-c9e1-34714a00f1c3
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

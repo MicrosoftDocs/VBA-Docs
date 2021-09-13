@@ -8,7 +8,7 @@ api_name:
 - Word.Index.HeadingSeparator
 ms.assetid: fa517204-b376-b25d-fbb2-8f1b5ef79e5c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

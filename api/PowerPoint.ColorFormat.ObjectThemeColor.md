@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ColorFormat.ObjectThemeColor
 ms.assetid: 40264b94-b16d-2a52-9adc-8e8510ec581d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

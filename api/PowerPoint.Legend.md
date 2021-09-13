@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Legend
 ms.assetid: 7be25694-8694-049a-c31f-533fe6fd0562
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

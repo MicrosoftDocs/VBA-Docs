@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.SelectCurrentAlignment
 ms.assetid: 89d76005-c75a-7548-c1da-da292183d5ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

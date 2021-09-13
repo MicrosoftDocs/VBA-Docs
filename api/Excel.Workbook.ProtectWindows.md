@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ProtectWindows
 ms.assetid: 0f285fbe-2545-5c7d-9e3d-f08d57e78092
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

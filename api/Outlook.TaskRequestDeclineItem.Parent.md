@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Parent
 ms.assetid: 1046270a-9193-06be-96ca-48a6d8d6205d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

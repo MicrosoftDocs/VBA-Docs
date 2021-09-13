@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowTabs
 ms.assetid: eca4147b-323f-10f3-e604-b3d9394bbbef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

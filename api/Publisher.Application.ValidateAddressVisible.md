@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.ValidateAddressVisible
 ms.assetid: 64d3732b-c549-c97b-511f-3122bb192ee5
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

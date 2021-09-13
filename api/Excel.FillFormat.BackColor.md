@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat.BackColor
 ms.assetid: 2837c06d-5297-4de8-5e81-18515e3d321e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Conversation.GetAlwaysDelete
 ms.assetid: 95843bf3-7fff-fab0-ca7b-014ba290d718
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

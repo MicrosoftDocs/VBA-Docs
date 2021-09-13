@@ -8,7 +8,7 @@ api_name:
 - Excel.CustomViews.Count
 ms.assetid: 06cefdb0-c448-8d84-c5cf-34f311a76320
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

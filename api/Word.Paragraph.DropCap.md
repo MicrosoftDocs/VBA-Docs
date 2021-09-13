@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.DropCap
 ms.assetid: 32fb0f84-bef9-13cc-86e3-4f644cb76bc7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

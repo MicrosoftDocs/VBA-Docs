@@ -5,7 +5,7 @@ api_name:
 - Office.WebPageFont.Creator
 ms.assetid: 6d304d18-eaec-dfd2-04ea-f4621cfdda3a
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.VBProject
 ms.assetid: bf9d4c60-8e7a-b076-b20c-0021e9352273
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

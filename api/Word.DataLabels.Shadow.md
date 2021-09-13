@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabels.Shadow
 ms.assetid: 573a2dbb-2cbf-ef08-b052-c21723daf91e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

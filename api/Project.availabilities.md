@@ -3,7 +3,7 @@ title: Availabilities object (Project)
 ms.prod: project-server
 ms.assetid: 51224d62-777b-1ae3-a646-ca977464d37d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

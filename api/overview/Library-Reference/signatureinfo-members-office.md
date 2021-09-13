@@ -4,7 +4,7 @@ description: Represents the information used to create a digital or in-document 
 ms.prod: office
 ms.assetid: 52c19097-8afb-d35c-a9f7-eae81e91c05d
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.VisualReportsView
 ms.assetid: 80742129-71eb-355d-1bb8-f64579eef344
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat.PresetTextured
 ms.assetid: 44661e53-9aee-7abd-6a6e-b6cb0a97ee2d
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Height
 ms.assetid: 2842f4c9-93b6-64a8-2394-72b47cf0cc83
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

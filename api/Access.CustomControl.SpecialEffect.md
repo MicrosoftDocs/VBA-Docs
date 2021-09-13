@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.SpecialEffect
 ms.assetid: cad6b92e-b927-fa6f-518c-f019dba0f879
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

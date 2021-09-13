@@ -3,7 +3,7 @@ title: Shapes.Item method (Project)
 ms.prod: project-server
 ms.assetid: 43fba4f4-f3d3-20a0-2c77-15e31dcdcbf5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

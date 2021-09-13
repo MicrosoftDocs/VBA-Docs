@@ -3,7 +3,7 @@ title: Parameter (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: 9c066008-6c02-ccf6-b5ce-f36892fa96a0
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

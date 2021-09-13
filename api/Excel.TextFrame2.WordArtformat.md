@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.WordArtformat
 ms.assetid: 66944f16-1a5e-a7f5-942e-9007107a7fbf
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

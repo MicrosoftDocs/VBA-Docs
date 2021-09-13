@@ -8,7 +8,7 @@ api_name:
 - Word.KeyBindings.Item
 ms.assetid: b3f8ad6b-2244-0f7d-4e8f-443958d78021
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

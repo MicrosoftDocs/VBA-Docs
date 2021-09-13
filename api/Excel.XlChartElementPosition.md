@@ -5,7 +5,7 @@ api_name:
 - Excel.xlChartElementPosition
 ms.assetid: 37de7a13-ac72-42e8-7eca-a845b84ff4a0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

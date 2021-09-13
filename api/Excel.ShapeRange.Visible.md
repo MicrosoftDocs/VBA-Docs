@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Visible
 ms.assetid: a9c378e0-bf56-1f4b-7d54-aff336471273
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

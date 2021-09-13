@@ -8,7 +8,7 @@ api_name:
 - Word.Floor.Creator
 ms.assetid: e3ef282c-5510-2816-7803-3ae5b31c665d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Font.Superscript
 ms.assetid: 23a5d707-d92a-6591-beaf-8fc62f4d3237
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

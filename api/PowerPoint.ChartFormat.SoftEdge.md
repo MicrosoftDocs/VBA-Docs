@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartFormat.SoftEdge
 ms.assetid: e52b0d7b-d9d5-3d0a-11ca-fa8bc7d55c38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

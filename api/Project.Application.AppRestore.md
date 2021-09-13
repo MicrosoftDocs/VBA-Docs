@@ -8,7 +8,7 @@ api_name:
 - Project.Application.AppRestore
 ms.assetid: f50a1158-83d1-e38e-65e6-cdc456f14bc7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

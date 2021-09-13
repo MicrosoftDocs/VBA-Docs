@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.Orientation
 ms.assetid: 73c7a581-cabe-b634-ccf0-28e640b33129
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

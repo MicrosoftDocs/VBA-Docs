@@ -3,7 +3,7 @@ title: Window elements
 ms.prod: office
 ms.assetid: 110962ce-94b2-4de0-aec1-1397dbbea2f7
 ms.date: 11/26/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Window elements

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFields
 ms.assetid: 018d4cea-09ea-d4be-baef-5fd55062935b
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

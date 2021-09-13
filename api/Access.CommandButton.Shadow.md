@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Shadow
 ms.assetid: 71af60bc-6f69-1408-8f3a-076a75daddcc
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

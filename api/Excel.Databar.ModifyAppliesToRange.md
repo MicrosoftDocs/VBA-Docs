@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.ModifyAppliesToRange
 ms.assetid: d1da8a48-3b62-c7ff-007b-f1629fa44ab7
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

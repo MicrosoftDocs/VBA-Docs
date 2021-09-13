@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.Find
 ms.assetid: ad5bc61a-a7f1-485a-0fc8-a3bd6707f956
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

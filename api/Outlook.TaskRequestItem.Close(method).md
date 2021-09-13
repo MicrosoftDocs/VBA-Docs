@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.Close
 ms.assetid: c24b364b-f4d5-22dc-2357-691311e9f34b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

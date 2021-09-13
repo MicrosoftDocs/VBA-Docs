@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBError.Stage
 ms.assetid: 71dd6495-3d03-307d-a7cd-816779f25754
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

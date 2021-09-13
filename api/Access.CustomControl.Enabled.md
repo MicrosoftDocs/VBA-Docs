@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.Enabled
 ms.assetid: d84b19c0-173d-ffbd-dfb3-47a47709d130
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

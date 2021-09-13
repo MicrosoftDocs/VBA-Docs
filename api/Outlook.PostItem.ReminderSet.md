@@ -8,7 +8,7 @@ api_name:
 - Outlook.PostItem.ReminderSet
 ms.assetid: 11e1c054-2f84-ca6a-fd53-4fee64b4f708
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

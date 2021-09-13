@@ -8,7 +8,7 @@ api_name:
 - Word.Global.Documents
 ms.assetid: a86bad22-aabf-dd0d-4b23-fc608d5db4c1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

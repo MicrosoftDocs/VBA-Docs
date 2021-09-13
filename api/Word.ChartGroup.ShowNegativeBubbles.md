@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.ShowNegativeBubbles
 ms.assetid: 6102a2dd-2ef8-2047-f14a-ca64e88a0565
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

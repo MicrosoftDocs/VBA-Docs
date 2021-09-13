@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Split
 ms.assetid: c7eb0d00-ff7e-a737-2083-e16f46ead256
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

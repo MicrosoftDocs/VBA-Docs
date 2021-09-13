@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.TraceFlags
 ms.assetid: 88961668-0d06-de44-0a05-d211df6c44f4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.GoToPage
 ms.assetid: 37fe25b3-85b2-f681-acfd-96dab039e58f
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

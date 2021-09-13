@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorFormat.RGB
 ms.assetid: 5a190b70-3b23-ae13-6b7f-8b101d0de15d
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

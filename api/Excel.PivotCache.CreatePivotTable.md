@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.CreatePivotTable
 ms.assetid: dca20930-5d58-8db7-bd81-3c90b7588011
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

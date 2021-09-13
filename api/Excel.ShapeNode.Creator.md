@@ -5,7 +5,7 @@ api_name:
 - Excel.ShapeNode.Creator
 ms.assetid: 10c4e270-6b82-85be-2428-3d7509249335
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

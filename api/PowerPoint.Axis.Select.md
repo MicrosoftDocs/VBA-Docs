@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.Select
 ms.assetid: 1bc059fa-f8b5-f3be-64e2-462dc9cee175
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

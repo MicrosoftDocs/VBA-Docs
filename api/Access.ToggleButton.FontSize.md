@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.FontSize
 ms.assetid: 0175a789-55cb-afeb-33ad-81705983a28d
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

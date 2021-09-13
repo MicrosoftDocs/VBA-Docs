@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.OLEUsage
 ms.assetid: c3f818a9-7481-0a2f-aa34-5c7e36ea72c1
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

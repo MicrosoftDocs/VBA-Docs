@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLPart.Delete
 ms.assetid: 2f5b0556-9807-8224-8b3a-e202163fc3e5
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

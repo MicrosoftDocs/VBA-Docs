@@ -5,7 +5,7 @@ api_name:
 - Excel.XlSubtotalLocationType
 ms.assetid: 8b9fc551-ef4a-3e95-9eec-56aa835d24cd
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

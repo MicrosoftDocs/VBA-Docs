@@ -8,7 +8,7 @@ api_name:
 - Excel.XYGroups
 ms.assetid: d334382a-8d27-2b35-4306-a16f5fa13c89
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

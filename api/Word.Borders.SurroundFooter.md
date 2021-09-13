@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.SurroundFooter
 ms.assetid: 890b0ba3-6815-6836-591d-f73d90758c4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

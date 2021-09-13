@@ -8,7 +8,7 @@ api_name:
 - Access.Form.ViewChange
 ms.assetid: a3788eca-783f-cb5d-1a7b-1c4a23648629
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

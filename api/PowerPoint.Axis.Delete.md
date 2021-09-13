@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.Delete
 ms.assetid: be589a1e-0484-dffc-f514-fc93c377f9c2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

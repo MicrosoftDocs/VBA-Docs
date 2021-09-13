@@ -5,7 +5,7 @@ api_name:
 - Excel.XlSaveAsAccessMode
 ms.assetid: 245c910e-4a23-6a4d-40a1-68528f06150c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

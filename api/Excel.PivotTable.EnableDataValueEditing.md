@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.EnableDataValueEditing
 ms.assetid: 57b4ed51-46d5-0d9f-d947-cdc45e523095
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

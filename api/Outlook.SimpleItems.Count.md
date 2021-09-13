@@ -8,7 +8,7 @@ api_name:
 - Outlook.SimpleItems.Count
 ms.assetid: 2656676b-ee82-aad0-21b9-8ca963cb57d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

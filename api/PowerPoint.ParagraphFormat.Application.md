@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ParagraphFormat.Application
 ms.assetid: 76be8546-409c-1762-a195-8d9c30d7a00b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

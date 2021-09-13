@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.Height
 ms.assetid: adb3c4a2-b9d3-783d-cd90-5f73d46132bd
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

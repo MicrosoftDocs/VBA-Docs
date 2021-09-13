@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Copy
 ms.assetid: e0d92492-fa0e-9424-471d-09866402702c
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

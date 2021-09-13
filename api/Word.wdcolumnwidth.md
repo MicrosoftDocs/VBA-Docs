@@ -3,7 +3,7 @@ title: WdColumnWidth enumeration (Word)
 ms.prod: word
 ms.assetid: 47a249f8-ace6-84a8-784c-d621a29ced9a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

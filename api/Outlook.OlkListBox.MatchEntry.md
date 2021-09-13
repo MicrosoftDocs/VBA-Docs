@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.MatchEntry
 ms.assetid: 356d3bf5-aee6-5085-a7b5-5d2dbb8d1335
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

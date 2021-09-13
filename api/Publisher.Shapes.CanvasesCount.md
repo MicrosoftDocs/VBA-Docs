@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.CanvasesCount
 ms.assetid: d6755303-b05e-705f-bf15-cc6ec413c273
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

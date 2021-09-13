@@ -8,7 +8,7 @@ api_name:
 - Publisher.Story
 ms.assetid: 0385b4be-0046-9198-a186-0d992601780e
 ms.date: 06/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

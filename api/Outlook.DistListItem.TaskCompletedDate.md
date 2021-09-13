@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.TaskCompletedDate
 ms.assetid: 2ed811dd-4603-8bb1-7bc7-451b6df145ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.AverageIfs
 ms.assetid: ec1071d7-c36d-4894-dee9-6b5423f13c0b
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

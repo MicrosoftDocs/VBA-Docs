@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.SampleWidth
 ms.assetid: 40facdaf-200c-c7c5-3835-fa5be601385e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.FontName
 ms.assetid: d5aee022-b60b-f747-3c6b-7ae7e70cf6f8
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

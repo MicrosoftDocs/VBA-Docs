@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Hyperlink
 ms.assetid: fa85ede7-5845-cde8-c945-6a68beff196c
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

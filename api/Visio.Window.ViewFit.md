@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.ViewFit
 ms.assetid: 5ee12ad7-4acf-aaf9-a928-93fc473e1c8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

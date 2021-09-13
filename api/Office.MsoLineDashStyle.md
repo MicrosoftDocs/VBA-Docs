@@ -5,7 +5,7 @@ api_name:
 - Office.MsoLineDashStyle
 ms.assetid: aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

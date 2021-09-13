@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Modal
 ms.assetid: 654ff830-c8d9-5bd9-1ec6-61ee6546b4db
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

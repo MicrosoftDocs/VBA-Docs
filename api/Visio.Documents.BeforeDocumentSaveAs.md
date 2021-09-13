@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.BeforeDocumentSaveAs
 ms.assetid: f5ee2f06-9559-470b-bf32-23dad5a5cc0a
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: PpPlayerState enumeration (PowerPoint)
 ms.assetid: ea70a230-a2bf-604f-e326-68b9f1beec00
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Series.BubbleSizes
 ms.assetid: c4be04b4-fb9c-1301-a5cb-e16528a97903
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ChartBorder
 ms.assetid: eea90670-c599-2ec8-5b7b-c946a4bcd638
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

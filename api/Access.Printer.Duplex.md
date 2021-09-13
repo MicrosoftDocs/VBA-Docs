@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.Duplex
 ms.assetid: 9b683f3c-5971-b60c-8482-833b6521c40d
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Frameset.WidthType
 ms.assetid: a5e998bc-317a-dc62-a139-4e5ada8a4866
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

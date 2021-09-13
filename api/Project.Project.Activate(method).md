@@ -5,7 +5,7 @@ api_name:
 - Project.Project.Activate
 ms.assetid: 965ad204-9f56-591f-91a1-7c42ded480cf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

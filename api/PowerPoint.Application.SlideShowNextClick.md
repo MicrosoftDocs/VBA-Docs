@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.SlideShowNextClick
 ms.assetid: 95a83383-62a4-a99b-3cd4-a69700bfbc3a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

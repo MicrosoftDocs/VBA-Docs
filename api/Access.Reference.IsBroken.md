@@ -8,7 +8,7 @@ api_name:
 - Access.Reference.IsBroken
 ms.assetid: 7a0bce38-0362-2645-a934-ddfb92322bcd
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

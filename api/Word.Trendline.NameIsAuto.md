@@ -8,7 +8,7 @@ api_name:
 - Word.Trendline.NameIsAuto
 ms.assetid: 83e61517-6255-252c-3fee-1a0415e8b741
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

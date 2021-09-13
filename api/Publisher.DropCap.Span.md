@@ -8,7 +8,7 @@ api_name:
 - Publisher.DropCap.Span
 ms.assetid: 00c51e48-5bbc-13e9-2d0c-e8993f753bbe
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

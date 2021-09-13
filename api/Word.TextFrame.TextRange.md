@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.TextRange
 ms.assetid: fd715d4e-6995-2b28-d842-2897d7c1097f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

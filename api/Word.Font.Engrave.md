@@ -8,7 +8,7 @@ api_name:
 - Word.Font.Engrave
 ms.assetid: 9d062637-05c8-d1c9-2231-23439bed30b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

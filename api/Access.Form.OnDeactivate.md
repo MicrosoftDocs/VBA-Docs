@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnDeactivate
 ms.assetid: c241c3cc-377b-7407-87f3-3003edb3ff8f
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.PjShape
 ms.assetid: 9a9b570a-02ef-8699-7fa0-95f05781256a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.RightPadding
 ms.assetid: 6e71d162-7a8a-9ff2-38ec-c7867804d28b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.LayerCount
 ms.assetid: 83871b37-9c5b-9da2-8869-61a2284ae1c0
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

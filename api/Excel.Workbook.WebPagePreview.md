@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.WebPagePreview
 ms.assetid: 2c88f15e-5cd3-82da-f779-55b63959a2b0
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

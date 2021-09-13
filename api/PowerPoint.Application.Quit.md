@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.Quit
 ms.assetid: d7040179-ca03-563f-5bd9-80a5fd5e5d4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

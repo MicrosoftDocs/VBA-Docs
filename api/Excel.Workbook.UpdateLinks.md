@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.UpdateLinks
 ms.assetid: c8d374d7-0b32-eb32-fa29-ab496d6786e7
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

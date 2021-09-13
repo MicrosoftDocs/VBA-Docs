@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.MergeCells
 ms.assetid: 42904357-5e55-1eb0-9b06-83b446fc6275
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

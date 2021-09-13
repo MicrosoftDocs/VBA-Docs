@@ -8,7 +8,7 @@ api_name:
 - Excel.Styles.Application
 ms.assetid: 4926c689-1328-ceb8-520d-74f029e45c98
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

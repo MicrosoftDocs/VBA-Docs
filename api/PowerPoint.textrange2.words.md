@@ -3,7 +3,7 @@ title: TextRange2.Words property (PowerPoint)
 ms.assetid: 40f37363-0d43-4c59-8d9e-f35d06762204
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

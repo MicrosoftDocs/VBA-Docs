@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.BackColor
 ms.assetid: a329bf89-7bb8-71a5-d2f1-7ae5a0649089
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

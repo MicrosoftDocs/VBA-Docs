@@ -8,7 +8,7 @@ api_name:
 - Word.AddIns.Count
 ms.assetid: ff6dd23f-35f7-03f3-3c2f-c3be814d1676
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

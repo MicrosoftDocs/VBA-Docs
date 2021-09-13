@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Refresh
 ms.assetid: e7a15c34-d3ec-184f-8d03-3e264fcc60d0
 ms.date: 03/09/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.GridY
 ms.assetid: e4a13708-fa05-8ac4-af5f-0f78ee15e623
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Application.Quit
 ms.assetid: ecf0b50b-db6f-7eaf-90bd-bae942bf9287
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

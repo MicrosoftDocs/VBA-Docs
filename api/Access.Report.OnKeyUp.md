@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnKeyUp
 ms.assetid: a31122bb-3f5a-4021-a2b5-16487aa0ce7c
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

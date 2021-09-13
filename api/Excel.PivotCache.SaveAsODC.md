@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.SaveAsODC
 ms.assetid: d7b553a5-70b1-41e7-9e35-088c23357570
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

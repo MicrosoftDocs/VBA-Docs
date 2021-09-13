@@ -8,7 +8,7 @@ api_name:
 - Project.Project.YearLabelDisplay
 ms.assetid: b15f8460-45cb-0383-4d70-14c506ea364a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

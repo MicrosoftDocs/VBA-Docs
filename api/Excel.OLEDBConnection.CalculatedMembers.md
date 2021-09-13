@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.CalculatedMembers
 ms.assetid: 9d0e8250-8045-7017-629a-f39729df1083
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

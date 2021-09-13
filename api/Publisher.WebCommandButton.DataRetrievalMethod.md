@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCommandButton.DataRetrievalMethod
 ms.assetid: 81b89a3b-dcc5-c2b5-fbc4-6e02b587bc42
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

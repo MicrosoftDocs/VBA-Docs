@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows.KeyPress
 ms.assetid: 3db88ff7-a2d0-2725-c564-477ca92fabc4
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

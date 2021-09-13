@@ -3,7 +3,7 @@ title: LabelInfo members (Office)
 ms.prod: office
 ms.assetid: b702522a-fc69-4035-88d3-8075fa713f14
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: LabelInfo members (Office)
 ---
 

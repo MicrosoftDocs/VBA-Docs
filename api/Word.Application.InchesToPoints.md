@@ -8,7 +8,7 @@ api_name:
 - Word.Application.InchesToPoints
 ms.assetid: 67a7e59c-bc61-be03-852d-05fadebef148
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

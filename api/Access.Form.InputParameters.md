@@ -8,7 +8,7 @@ api_name:
 - Access.Form.InputParameters
 ms.assetid: fc3e17a7-f62a-a6bb-c44a-f3a9d7efe6ac
 ms.date: 03/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

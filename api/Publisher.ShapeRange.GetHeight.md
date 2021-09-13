@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.GetHeight
 ms.assetid: 63501bf7-c24d-b58e-e4c5-c8a229f07c4e
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

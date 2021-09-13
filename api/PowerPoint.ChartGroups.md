@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartGroups
 ms.assetid: 2db874db-91af-0b1e-7496-92a8443caade
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

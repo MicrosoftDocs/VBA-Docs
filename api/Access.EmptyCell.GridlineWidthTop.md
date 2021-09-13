@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.GridlineWidthTop
 ms.assetid: 4393308b-16f1-8dbe-b90b-8d2bc3dcc824
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

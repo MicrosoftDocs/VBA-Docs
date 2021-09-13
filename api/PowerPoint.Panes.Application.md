@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Panes.Application
 ms.assetid: 757d9a6d-0dcb-c168-59cb-7bf1906a59e4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

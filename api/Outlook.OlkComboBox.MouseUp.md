@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.MouseUp
 ms.assetid: 6ed2b75b-10e7-48a1-6cf6-8a6ec98ec923
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

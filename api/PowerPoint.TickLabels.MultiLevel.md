@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TickLabels.MultiLevel
 ms.assetid: d418f012-e1ad-040f-3276-18188348671c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

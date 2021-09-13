@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Author.Name
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

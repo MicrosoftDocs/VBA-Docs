@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ShowDevTools
 ms.assetid: de2c027f-cab2-f860-33aa-6c5fc63a5f73
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

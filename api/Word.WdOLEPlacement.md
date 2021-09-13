@@ -5,7 +5,7 @@ api_name:
 - Word.WdOLEPlacement
 ms.assetid: d0a5e2c7-dccd-1bee-031e-2b73f505bc38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

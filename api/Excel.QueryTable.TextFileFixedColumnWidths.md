@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileFixedColumnWidths
 ms.assetid: adfc63a2-3594-5b36-dccf-28a1cd99c84d
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.CellRange.Application
 ms.assetid: 8e3b256e-9bef-7053-ca35-627649c132ab
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

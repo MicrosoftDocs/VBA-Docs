@@ -8,7 +8,7 @@ api_name:
 - Access.Image.ControlType
 ms.assetid: 6f84953b-a408-a741-a2a9-18eff2406abc
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

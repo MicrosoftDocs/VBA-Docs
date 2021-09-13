@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.IsActivePrinter
 ms.assetid: 578fc5d4-2601-66db-cdec-657814756e29
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

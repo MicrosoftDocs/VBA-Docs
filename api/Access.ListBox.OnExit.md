@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.OnExit
 ms.assetid: 87ac5b4f-85d0-7edb-28d6-253f44496946
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

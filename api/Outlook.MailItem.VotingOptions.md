@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.VotingOptions
 ms.assetid: 696b6dfe-1840-d43b-e6ec-e410a387665c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

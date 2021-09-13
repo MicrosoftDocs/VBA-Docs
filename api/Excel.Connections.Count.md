@@ -8,7 +8,7 @@ api_name:
 - Excel.Connections.Count
 ms.assetid: ccd881e6-0869-0067-8d24-20e9cf5fc7ef
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

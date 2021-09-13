@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.FieldOfView
 ms.assetid: 6c77f573-dc70-202a-3bbc-c24417dc77fd
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

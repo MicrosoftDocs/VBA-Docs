@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.NoAging
 ms.assetid: e2d61020-254a-bb77-c93d-ead5aa5f0225
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

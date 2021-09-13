@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.NavigationWhereClause
 ms.assetid: ee8e7435-44cf-d065-b7ee-d7c870726101
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

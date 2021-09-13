@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup
 ms.assetid: 2fd22df9-5987-f723-04a9-9a3f2e84ac81
 ms.date: 03/30/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

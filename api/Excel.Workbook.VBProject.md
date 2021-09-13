@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.VBProject
 ms.assetid: 1bef5b7e-e169-fa4b-9810-6cd87ecd0a8d
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

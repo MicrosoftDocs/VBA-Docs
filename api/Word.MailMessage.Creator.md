@@ -8,7 +8,7 @@ api_name:
 - Word.MailMessage.Creator
 ms.assetid: 6e5fbcf4-965d-c932-fc6c-0f6d61cb53c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

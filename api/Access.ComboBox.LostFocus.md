@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.LostFocus
 ms.assetid: e25f07da-2399-0258-b3be-bf1fd6a1e171
 ms.date: 02/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.MSGWrap.PostTime
 ms.assetid: e43c865b-eca8-22c7-de8e-1c6ec3f53348
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

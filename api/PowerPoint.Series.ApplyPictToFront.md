@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Series.ApplyPictToFront
 ms.assetid: babe864c-1301-a8d1-ab13-41b9ccc71824
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

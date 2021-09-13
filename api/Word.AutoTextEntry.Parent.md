@@ -8,7 +8,7 @@ api_name:
 - Word.AutoTextEntry.Parent
 ms.assetid: 705dc3b0-fad0-dc6f-067d-958c40ad5d5f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.WebSelectionType
 ms.assetid: f0068811-96f8-55c6-a18d-29af4ae3a0e2
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.SizeToFit
 ms.assetid: 17289703-1943-2499-48c5-f34f200fd304
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

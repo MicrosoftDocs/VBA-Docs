@@ -8,7 +8,7 @@ api_name:
 - Word.Options.MoveToTextMark
 ms.assetid: 39ba110d-bd19-a63a-b759-5057ed3f1852
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

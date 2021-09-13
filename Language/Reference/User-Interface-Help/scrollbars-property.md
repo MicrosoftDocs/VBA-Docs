@@ -8,7 +8,7 @@ api_name:
 - Office.ScrollBars
 ms.assetid: cf925c0d-45ac-a724-6149-2aed7725b593
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.Next
 ms.assetid: cf95eef7-4fd7-4c47-4436-037ec1882d4c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

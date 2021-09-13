@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.AddUndoUnit
 ms.assetid: 00d2492a-4154-6004-c961-906ddf191f2f
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

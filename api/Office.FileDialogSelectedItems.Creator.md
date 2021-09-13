@@ -5,7 +5,7 @@ api_name:
 - Office.FileDialogSelectedItems.Creator
 ms.assetid: f01be845-be7c-3f3c-773f-5cebd1c30830
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

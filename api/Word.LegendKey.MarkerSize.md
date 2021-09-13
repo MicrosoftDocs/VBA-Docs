@@ -8,7 +8,7 @@ api_name:
 - Word.LegendKey.MarkerSize
 ms.assetid: 6828b06b-1ec2-9205-4618-f0fc46411226
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

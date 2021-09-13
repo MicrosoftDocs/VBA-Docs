@@ -8,7 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.FolderSuffix
 ms.assetid: ff0821ab-a2fd-58bc-058c-2abdaefbf04d
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.DocumentInspector.Creator
 ms.assetid: cf0888d5-5688-912f-97ee-65a0c85d4624
 ms.date: 01/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

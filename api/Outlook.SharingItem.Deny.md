@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.Deny
 ms.assetid: f2a5af98-280d-48f1-f6c3-3d17a2654774
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

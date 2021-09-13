@@ -5,7 +5,7 @@ api_name:
 - Word.WdSpecialPane
 ms.assetid: bd1a3500-775d-04fc-218d-c7a47dde8b2b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

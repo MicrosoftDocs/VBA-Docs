@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.ColumnWidth
 ms.assetid: ff97ad0c-952b-1d83-93e8-9a6144b09ceb
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

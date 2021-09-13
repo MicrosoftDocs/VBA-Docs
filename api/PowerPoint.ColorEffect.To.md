@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ColorEffect.To
 ms.assetid: c5a3a2bd-c33a-13ed-b2fd-e9ebb1f446e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

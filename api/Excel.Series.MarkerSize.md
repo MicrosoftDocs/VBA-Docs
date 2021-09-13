@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.MarkerSize
 ms.assetid: d1e499ae-d59c-3493-c741-9607c3c27a17
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

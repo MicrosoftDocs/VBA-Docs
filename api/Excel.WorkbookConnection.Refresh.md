@@ -8,7 +8,7 @@ api_name:
 - Excel.WorkbookConnection.Refresh
 ms.assetid: 5e6f045f-6625-857c-eb55-ac52f70e8fb9
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

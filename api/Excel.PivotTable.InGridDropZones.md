@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.InGridDropZones
 ms.assetid: 464e175b-8333-a693-da1e-a2ccf7632fca
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

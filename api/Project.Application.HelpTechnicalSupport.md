@@ -8,7 +8,7 @@ api_name:
 - Project.Application.HelpTechnicalSupport
 ms.assetid: bbc15d5b-ef91-3899-3ae2-cce5fbb3d328
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

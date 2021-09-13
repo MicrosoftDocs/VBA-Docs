@@ -3,7 +3,7 @@ title: RDS Code Examples in Microsoft Visual Basic Scripting Edition
 ms.prod: access
 ms.assetid: 5db8e82d-79ac-3647-5acf-0ebc438fb1e6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

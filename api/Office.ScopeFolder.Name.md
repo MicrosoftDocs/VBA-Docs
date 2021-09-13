@@ -8,7 +8,7 @@ api_name:
 - Office.ScopeFolder.Name
 ms.assetid: da1cc239-2988-2b57-11d1-8313ae3d5566
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

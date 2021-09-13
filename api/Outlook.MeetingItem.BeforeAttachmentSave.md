@@ -5,7 +5,7 @@ api_name:
 - Outlook.MeetingItem.BeforeAttachmentSave
 ms.assetid: 1ed68d13-6368-05f4-99ad-c7db8997eb34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

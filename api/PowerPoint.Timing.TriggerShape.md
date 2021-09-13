@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Timing.TriggerShape
 ms.assetid: 0b9431d2-0cea-d279-4aa7-24dd145e987e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

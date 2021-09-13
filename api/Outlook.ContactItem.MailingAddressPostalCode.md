@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.MailingAddressPostalCode
 ms.assetid: bdb1cd44-1ae5-598d-0f25-604deafdb7ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

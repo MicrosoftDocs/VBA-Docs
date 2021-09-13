@@ -8,7 +8,7 @@ api_name:
 - Word.Words.Count
 ms.assetid: abbb4293-0ffb-f845-cdda-acbbe0ff477b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

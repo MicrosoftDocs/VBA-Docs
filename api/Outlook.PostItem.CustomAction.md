@@ -5,7 +5,7 @@ api_name:
 - Outlook.PostItem.CustomAction
 ms.assetid: 656a6511-1461-8f22-12d3-faec3b89b482
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

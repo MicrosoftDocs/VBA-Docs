@@ -8,7 +8,7 @@ api_name:
 - Visio.Connect.FromSheet
 ms.assetid: 621aa755-3d17-4c3c-118f-7513d3926b52
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

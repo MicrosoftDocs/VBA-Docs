@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.Parent
 ms.assetid: 6c8eb6f6-6e33-baae-41d5-5d71f2e9a2c7
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

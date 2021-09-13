@@ -8,7 +8,7 @@ api_name:
 - Outlook.ReportItem.Display
 ms.assetid: 583673cd-f646-2843-82ce-b11d673df5a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

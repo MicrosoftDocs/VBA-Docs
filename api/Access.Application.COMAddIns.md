@@ -8,7 +8,7 @@ api_name:
 - Access.Application.COMAddIns
 ms.assetid: b94474b4-3690-54ab-1a4b-b30744354db5
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

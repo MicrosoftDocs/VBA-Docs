@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ResampleMediaTasks.Resume
 ms.assetid: d58b0932-38f9-1589-efdc-7860fab1f5ad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

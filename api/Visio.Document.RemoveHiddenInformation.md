@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.RemoveHiddenInformation
 ms.assetid: cc097f8b-5e74-9b44-4ba9-19537169c88b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

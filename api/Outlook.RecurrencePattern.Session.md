@@ -8,7 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.Session
 ms.assetid: f30fce75-350c-6893-276a-47b19f211249
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

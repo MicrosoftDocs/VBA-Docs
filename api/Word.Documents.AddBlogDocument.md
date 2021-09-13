@@ -8,7 +8,7 @@ api_name:
 - Word.Documents.AddBlogDocument
 ms.assetid: d47b1b27-a5df-1c82-a8eb-6a4a2853f1ac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

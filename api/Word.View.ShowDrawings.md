@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowDrawings
 ms.assetid: fa03b2f0-e090-5130-c370-4a00ee6db958
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

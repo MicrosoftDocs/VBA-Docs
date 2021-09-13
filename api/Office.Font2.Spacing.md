@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.Spacing
 ms.assetid: 4957d0cf-1c22-1f30-bc91-bb994d69454d
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

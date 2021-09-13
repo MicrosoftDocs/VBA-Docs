@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.SetBegin
 ms.assetid: 257a6ec4-b9c4-4c42-3c57-6e53c1d4d526
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

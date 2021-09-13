@@ -8,7 +8,7 @@ api_name:
 - Excel.TextEffectFormat.ToggleVerticalText
 ms.assetid: 9b4312b8-1642-9a49-6395-b49b129f44f2
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

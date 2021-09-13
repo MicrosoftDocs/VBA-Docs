@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.OnMouseMove
 ms.assetid: 0f987181-1506-51ee-8f40-5a902c86d458
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

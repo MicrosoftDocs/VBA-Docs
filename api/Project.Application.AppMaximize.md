@@ -8,7 +8,7 @@ api_name:
 - Project.Application.AppMaximize
 ms.assetid: c194beb5-3d8c-93ac-9338-54d52f6e460a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

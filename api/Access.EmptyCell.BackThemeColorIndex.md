@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.BackThemeColorIndex
 ms.assetid: 066e08aa-7f83-fb6f-195c-a212355b7b1d
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

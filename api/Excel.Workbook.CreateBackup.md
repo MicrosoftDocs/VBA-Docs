@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.CreateBackup
 ms.assetid: 33f05bf8-00ef-81f4-c083-30326f019cd4
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

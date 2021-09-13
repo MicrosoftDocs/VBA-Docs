@@ -8,7 +8,7 @@ api_name:
 - Excel.Charts.HPageBreaks
 ms.assetid: 10d612e1-9818-892c-3f8b-d4d33c89aaab
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Using the Add-In Manager (VBA)
 ms.prod: office
 ms.assetid: 74c12f6c-fd24-de25-64e7-a2473857901b
 ms.date: 12/26/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

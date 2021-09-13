@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.GridlineColor
 ms.assetid: 21502538-377c-fd82-62bb-c68cabd1b2cd
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

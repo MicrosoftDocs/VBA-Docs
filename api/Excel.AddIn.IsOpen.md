@@ -8,7 +8,7 @@ api_name:
 - Excel.AddIn.IsOpen
 ms.assetid: 3fe3379a-3893-833c-e834-abda4d7b063f
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Find.Forward
 ms.assetid: deacedde-ca81-6fa0-6a62-696163d8c52d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

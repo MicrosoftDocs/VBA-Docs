@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CoupDaysNc
 ms.assetid: ad915fa9-2faf-cebd-368b-603357ee98a9
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

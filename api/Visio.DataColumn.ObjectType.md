@@ -8,7 +8,7 @@ api_name:
 - Visio.DataColumn.ObjectType
 ms.assetid: 1e4049ca-a37d-9a50-d6b2-5230ce9be592
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

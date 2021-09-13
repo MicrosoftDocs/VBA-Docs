@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabels.Separator
 ms.assetid: bdcd548c-f992-064d-9638-95e1193c3b15
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

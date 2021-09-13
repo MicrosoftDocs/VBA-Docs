@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.LeftMargin
 ms.assetid: 60c43199-1d31-35f5-67fc-344baac19cde
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

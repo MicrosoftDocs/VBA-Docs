@@ -3,7 +3,7 @@ title: List of worksheet functions that support long strings
 ms.prod: excel
 ms.assetid: 1045f56f-980b-4c2f-9be6-2d350feb8cd7
 ms.date: 11/13/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

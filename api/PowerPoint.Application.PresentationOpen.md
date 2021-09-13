@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationOpen
 ms.assetid: 1739cee9-cfc1-0650-de24-be699bafe910
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

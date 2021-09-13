@@ -8,7 +8,7 @@ api_name:
 - Excel.Action.Caption
 ms.assetid: f59938e8-17ad-2376-cf2d-f5592a3c6244
 ms.date: 03/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -4,7 +4,7 @@ description: Represents a container for the font schemes of a Microsoft Office t
 ms.prod: office
 ms.assetid: 29f19d99-b33b-4f31-0a37-7665d7ef828b
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

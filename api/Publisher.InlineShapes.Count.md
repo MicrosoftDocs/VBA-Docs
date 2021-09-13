@@ -8,7 +8,7 @@ api_name:
 - Publisher.InlineShapes.Count
 ms.assetid: a78ae487-e7d6-1099-236f-6464c601686f
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

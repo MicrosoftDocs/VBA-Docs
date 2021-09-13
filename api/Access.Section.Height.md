@@ -8,7 +8,7 @@ api_name:
 - Access.Section.Height
 ms.assetid: 7e568d9f-518b-6d26-e960-dac84e93d45b
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

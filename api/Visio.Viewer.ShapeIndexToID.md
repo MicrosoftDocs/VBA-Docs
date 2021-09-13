@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.ShapeIndexToID
 ms.assetid: 9f43bcb1-1c10-3759-e740-bc4ae04a51be
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

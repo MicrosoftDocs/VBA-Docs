@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folders.FolderChange
 ms.assetid: cd379b87-6fb7-bfa4-544a-0c406a170832
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

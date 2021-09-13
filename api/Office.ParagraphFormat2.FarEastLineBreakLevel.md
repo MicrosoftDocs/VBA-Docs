@@ -5,7 +5,7 @@ api_name:
 - Office.ParagraphFormat2.FarEastLineBreakLevel
 ms.assetid: c837e6f9-280f-37eb-1d9b-6a28b397429c
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

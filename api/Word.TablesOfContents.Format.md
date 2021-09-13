@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfContents.Format
 ms.assetid: ea94f93f-3fce-2b21-1f8b-675d5d3de96e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

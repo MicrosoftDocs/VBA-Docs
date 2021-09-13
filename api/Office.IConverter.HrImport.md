@@ -8,7 +8,7 @@ api_name:
 - Office.IConverter.HrImport
 ms.assetid: cc329008-286a-81aa-d9c6-b5cd3bf05e37
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

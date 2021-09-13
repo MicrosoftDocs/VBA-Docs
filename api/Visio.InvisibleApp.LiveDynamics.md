@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.LiveDynamics
 ms.assetid: 2c309987-1abc-5f01-7f1b-42bc14d4cb3f
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

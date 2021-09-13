@@ -8,7 +8,7 @@ api_name:
 - Excel.UpBars.Creator
 ms.assetid: 0cfa8ef1-fd09-073c-8156-f2c684894b90
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

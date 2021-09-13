@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.BringToFront
 ms.assetid: 07742776-f3fd-9260-b982-b6f791d52e40
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

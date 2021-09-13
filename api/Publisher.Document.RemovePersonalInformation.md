@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.RemovePersonalInformation
 ms.assetid: bbc1aee1-90ca-966e-c17c-579064318cd1
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SelLength
 ms.assetid: 86f86e84-b22e-a86a-12b9-dc1011cbcf9d
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

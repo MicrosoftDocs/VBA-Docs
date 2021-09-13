@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.AutoExpand
 ms.assetid: 0b3fabf8-4004-0868-3ddc-aef297514324
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

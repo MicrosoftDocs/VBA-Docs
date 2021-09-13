@@ -8,7 +8,7 @@ api_name:
 - Word.Endnotes.Item
 ms.assetid: 95fdbb34-ab7a-b662-dabe-f82cbbe93004
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

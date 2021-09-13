@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.Session
 ms.assetid: 6443565e-2a7a-5466-a68e-9baf13e316c5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

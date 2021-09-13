@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.FullName
 ms.assetid: 137e4310-8431-ed2a-503a-c225378a9a74
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

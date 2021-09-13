@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.WidowControl
 ms.assetid: 461a8d5f-2f64-b3c4-657b-0b592c482ac0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

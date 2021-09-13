@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Recalc
 ms.assetid: 61786e64-dc17-b685-f427-fc7952d0320f
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Cell.TextRange
 ms.assetid: 31aa92d1-852f-3742-defa-94485411bcc3
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

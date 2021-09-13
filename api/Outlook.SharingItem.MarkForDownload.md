@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.MarkForDownload
 ms.assetid: 0bdeeb91-981c-9a32-62ed-a0ea6cd4c559
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

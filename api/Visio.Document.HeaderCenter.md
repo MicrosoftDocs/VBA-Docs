@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.HeaderCenter
 ms.assetid: 8695883a-8b00-eef4-aecd-81ad47581a82
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

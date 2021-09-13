@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntry.Font
 ms.assetid: 4bb7ab38-aa33-4574-3190-e3c229e3c644
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.MouseUp
 ms.assetid: af4d03e6-af13-d91f-168f-70e90783aa2a
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

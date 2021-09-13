@@ -8,7 +8,7 @@ api_name:
 - Outlook.AutoFormatRule.Font
 ms.assetid: 25cd0b69-fb9d-5e48-a14d-686037490839
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.SendRuleAction.Recipients
 ms.assetid: 5a4a9a2f-4e3c-a4b3-e29c-99c6e8e7a061
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

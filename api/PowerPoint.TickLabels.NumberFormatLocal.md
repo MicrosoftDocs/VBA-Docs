@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TickLabels.NumberFormatLocal
 ms.assetid: e9415f73-32aa-2043-06e5-7a796749e823
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

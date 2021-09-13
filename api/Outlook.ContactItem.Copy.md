@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Copy
 ms.assetid: 0e99dbcb-95f0-b1a2-e709-165a09035354
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

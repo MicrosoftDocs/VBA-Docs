@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.Display
 ms.assetid: 8b6f7748-7a96-0ab2-c11f-3c7e9b729b05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DDEExecute
 ms.assetid: 18cd97e6-4dff-2386-84bf-25e8c85b5277
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

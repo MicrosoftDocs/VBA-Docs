@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.AutoTab
 ms.assetid: 3d484269-c00b-3f5e-8492-6e0ca60460b8
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

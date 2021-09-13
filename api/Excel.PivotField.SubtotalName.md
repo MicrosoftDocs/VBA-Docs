@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.SubtotalName
 ms.assetid: db2f8366-75a4-edca-f46f-f0bff083ccbe
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

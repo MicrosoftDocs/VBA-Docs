@@ -8,7 +8,7 @@ api_name:
 - Visio.ToolbarItem.IsHierarchical
 ms.assetid: 663080e1-3608-8ce9-0b82-1c8d18776037
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WorkbookBeforePrint
 ms.assetid: 27cb5f84-fda3-dc89-6e12-0c31ed16f47c
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

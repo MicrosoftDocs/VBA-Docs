@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddPolyline
 ms.assetid: e42c4f7a-de68-88bf-d250-28e642b56232
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.TextChanged
 ms.assetid: 9224577c-a285-c26f-60be-3adbf3285ef3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

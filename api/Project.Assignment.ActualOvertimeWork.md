@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.ActualOvertimeWork
 ms.assetid: cc427c88-18f4-5235-f787-d8366c3e3a23
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

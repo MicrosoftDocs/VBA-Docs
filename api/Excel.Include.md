@@ -8,7 +8,7 @@ api_name:
 - Excel.Include
 ms.assetid: ed92c49d-88fc-7f44-15cf-0641032157b2
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

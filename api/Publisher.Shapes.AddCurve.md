@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.AddCurve
 ms.assetid: 888a35cb-190d-4058-e0d7-a848d77ba920
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

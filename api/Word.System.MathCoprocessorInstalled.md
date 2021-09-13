@@ -8,7 +8,7 @@ api_name:
 - Word.System.MathCoprocessorInstalled
 ms.assetid: 77f7da63-b940-ac22-125e-596a1518b6b8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

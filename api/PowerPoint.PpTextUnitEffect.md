@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpTextUnitEffect
 ms.assetid: e6bd9c0b-5490-6b43-857d-5144a91c9cdb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

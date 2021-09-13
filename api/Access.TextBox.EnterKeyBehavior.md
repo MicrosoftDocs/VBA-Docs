@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.EnterKeyBehavior
 ms.assetid: b7830316-a1aa-ddc1-094f-5976c5298bc1
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

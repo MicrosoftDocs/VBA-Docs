@@ -8,7 +8,7 @@ api_name:
 - Word.Application.WindowSize
 ms.assetid: 96d55786-52c8-68a9-b9e9-b29c320a435a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

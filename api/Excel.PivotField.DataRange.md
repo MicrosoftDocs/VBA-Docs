@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.DataRange
 ms.assetid: 14d5e4c4-1acb-aa02-6694-28e358afc881
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

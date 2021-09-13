@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ActiveSlicer
 ms.assetid: d3858353-0be1-338c-e43f-1e5ffb7f37ba
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

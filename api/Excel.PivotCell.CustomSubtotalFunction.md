@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCell.CustomSubtotalFunction
 ms.assetid: 35c031a2-7ad4-9cbb-c57b-1f529368d307
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

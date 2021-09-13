@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.GridlineStyleTop
 ms.assetid: 57a47306-5b85-06e0-e59f-f86e617d9c75
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

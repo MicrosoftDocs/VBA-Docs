@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbWrapSideType
 ms.assetid: 8b6082e2-d650-310d-7cfe-e2351a93226f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

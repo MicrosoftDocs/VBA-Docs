@@ -8,7 +8,7 @@ api_name:
 - Excel.IRTDUpdateEvent.UpdateNotify
 ms.assetid: e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

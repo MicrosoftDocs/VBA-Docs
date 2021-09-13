@@ -8,7 +8,7 @@ api_name:
 - Access.Form.PictureType
 ms.assetid: 93d3b9e4-ca7d-5f21-81b7-24270532dfa2
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

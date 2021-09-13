@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 30583bb1-3a39-bdf5-7632-c8810b9e3617
 ms.date: 12/13/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Pmt function

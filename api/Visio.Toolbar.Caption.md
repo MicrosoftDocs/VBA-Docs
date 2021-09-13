@@ -8,7 +8,7 @@ api_name:
 - Visio.Toolbar.Caption
 ms.assetid: 953f0a2c-3fae-5d21-8107-ebadebd7087b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Field.Copy
 ms.assetid: 8e897929-051d-deeb-9294-6afc5284542b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

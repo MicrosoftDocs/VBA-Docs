@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeNodes.SetSegmentType
 ms.assetid: 64f742fb-8216-9ec3-3fa9-ca2b319cf3e9
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

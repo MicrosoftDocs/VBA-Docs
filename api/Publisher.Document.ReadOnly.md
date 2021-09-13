@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.ReadOnly
 ms.assetid: 9ee6488d-3070-e784-e772-78dace2c1284
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

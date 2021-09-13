@@ -8,7 +8,7 @@ api_name:
 - Access.AcHyperlinkPart
 ms.assetid: 9b093af7-b629-75d1-0186-dd7e7e302b36
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

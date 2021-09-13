@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.BottomPadding
 ms.assetid: 63d7a4bb-8e82-2f27-afd0-2162c5b3cb5c
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.BoundColumn
 ms.assetid: 6c5c5c31-0bd3-87bf-4c1d-0b1064ffc0d6
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

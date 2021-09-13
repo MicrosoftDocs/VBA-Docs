@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SubdatasheetHeight
 ms.assetid: 0db2e4b5-e64b-6f55-ebfa-bcce98734491
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

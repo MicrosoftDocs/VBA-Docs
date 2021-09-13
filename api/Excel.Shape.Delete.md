@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Delete
 ms.assetid: f4b046a9-aff8-e78d-90f4-25875336476a
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -4,7 +4,7 @@ description: This section of the PowerPoint VBA Reference contains documentation
 ms.prod: powerpoint
 ms.assetid: 00acd64a-5896-0459-39af-98df2849849e
 ms.date: 01/22/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

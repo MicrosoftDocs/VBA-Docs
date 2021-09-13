@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.LightAngle
 ms.assetid: 07b676ce-11df-282f-34ff-6625db0114f6
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

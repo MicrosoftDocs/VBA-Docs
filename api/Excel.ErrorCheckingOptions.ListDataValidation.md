@@ -8,7 +8,7 @@ api_name:
 - Excel.ErrorCheckingOptions.ListDataValidation
 ms.assetid: 9b044055-d957-46dc-b307-73d5a556cb7f
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

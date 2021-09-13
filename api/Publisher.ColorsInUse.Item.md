@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorsInUse.Item
 ms.assetid: aaeb4351-0896-812c-5f0d-6edd4f0eba93
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

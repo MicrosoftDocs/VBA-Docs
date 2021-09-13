@@ -8,7 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Parent
 ms.assetid: 5bc7bcec-18bb-ebfb-a8e4-329a354841cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

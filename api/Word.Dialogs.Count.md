@@ -8,7 +8,7 @@ api_name:
 - Word.Dialogs.Count
 ms.assetid: 1c734758-d00a-31d7-d4f7-bf8c406ab6b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

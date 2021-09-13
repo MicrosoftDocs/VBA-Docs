@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.GridlineWidthLeft
 ms.assetid: daf142dd-6174-66b0-21fe-a70853c20760
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

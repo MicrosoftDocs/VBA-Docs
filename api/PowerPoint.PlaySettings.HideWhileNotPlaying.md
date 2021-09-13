@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PlaySettings.HideWhileNotPlaying
 ms.assetid: 04fb6933-b0ee-762a-f24b-662253647a16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

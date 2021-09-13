@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSetup
 ms.assetid: 23fe3235-88ea-ac93-6d7d-850298263046
 ms.date: 06/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

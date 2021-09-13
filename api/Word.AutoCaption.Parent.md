@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCaption.Parent
 ms.assetid: 9e47c8a5-dfcc-e06f-4621-69dab5e7430c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OutlookBarStorage.Parent
 ms.assetid: d8f82919-4a68-4092-f37b-87d63b0dd57a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

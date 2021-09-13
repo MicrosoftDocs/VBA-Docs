@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Start2
 ms.assetid: 21db7a4f-5203-eca8-986a-952d3a73b8c8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

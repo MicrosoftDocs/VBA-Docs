@@ -8,7 +8,7 @@ api_name:
 - Word.Window.Active
 ms.assetid: 8413477e-aee6-43c6-34e1-267a59718da3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

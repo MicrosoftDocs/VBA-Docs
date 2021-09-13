@@ -5,7 +5,7 @@ api_name:
 - Outlook.PostItem.Open
 ms.assetid: b0bbf1cf-14cd-defe-125a-e78fb664ce97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.LeftIndent
 ms.assetid: f9cc3a86-d382-92d7-ec24-d13fc5e3d844
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

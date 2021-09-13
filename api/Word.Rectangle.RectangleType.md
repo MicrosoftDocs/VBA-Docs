@@ -8,7 +8,7 @@ api_name:
 - Word.Rectangle.RectangleType
 ms.assetid: 0d483c0d-5a97-7f68-d7fa-7458063b6643
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

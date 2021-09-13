@@ -8,7 +8,7 @@ api_name:
 - Word.ChartTitle.Left
 ms.assetid: ab1cbe1d-0378-3cd6-e349-aa4de30a9b8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

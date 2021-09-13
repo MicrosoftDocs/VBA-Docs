@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpSlideShowAdvanceMode
 ms.assetid: 58167ce9-3859-ebf4-b9ee-2bef2c88822c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Enter
 ms.assetid: 58f29589-8754-2323-c044-09dbea35fd83
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Range.TableStyle
 ms.assetid: ff392d59-eb86-7ba3-c811-67090fe9889f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

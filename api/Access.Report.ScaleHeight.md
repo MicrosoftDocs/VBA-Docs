@@ -8,7 +8,7 @@ api_name:
 - Access.Report.ScaleHeight
 ms.assetid: b150ece7-b285-669f-8677-f28d6899454b
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

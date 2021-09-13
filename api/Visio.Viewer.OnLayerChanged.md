@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.OnLayerChanged
 ms.assetid: d0731153-f975-cde1-3649-be34df859168
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

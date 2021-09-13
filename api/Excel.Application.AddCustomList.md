@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AddCustomList
 ms.assetid: 31518c3c-78ce-f9e9-9572-a1338aa6d2e7
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

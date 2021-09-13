@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.Application
 ms.assetid: 9d2bf0db-7dc3-1295-ab68-e32863ed0143
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

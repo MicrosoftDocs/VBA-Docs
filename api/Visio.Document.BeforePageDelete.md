@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.BeforePageDelete
 ms.assetid: dd41d679-d6f7-524f-c714-bea38ae1a0b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

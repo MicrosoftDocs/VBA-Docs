@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.HelpContextId
 ms.assetid: f5e6a8ac-bcdd-64e4-24e8-d68cfab6ec4a
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

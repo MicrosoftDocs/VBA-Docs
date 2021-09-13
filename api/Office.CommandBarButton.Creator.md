@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarButton.Creator
 ms.assetid: 9c54fa96-8c97-fcae-067f-e8511560a15f
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

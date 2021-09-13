@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.Fill
 ms.assetid: 90cdad1e-ecc5-e5be-4270-51c28666b0f4
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

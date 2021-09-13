@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.AfterUpdate
 ms.assetid: 609ef5f3-3894-85eb-4879-5db3fc7ff188
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

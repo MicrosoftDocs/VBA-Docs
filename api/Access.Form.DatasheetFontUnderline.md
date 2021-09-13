@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DatasheetFontUnderline
 ms.assetid: a232a1a8-b537-4935-bd64-138548241c7c
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -9,7 +9,7 @@ api_name:
 ms.assetid: b0cdbc8e-973c-1921-a646-d2f5ef091ce9
 ms.date: 06/20/2017
 description: Document.DeleteAllCommentsShown method (Word)
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

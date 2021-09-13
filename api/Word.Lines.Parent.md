@@ -8,7 +8,7 @@ api_name:
 - Word.Lines.Parent
 ms.assetid: 628882b1-29ef-c7ef-c7e2-8488a40ecf16
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

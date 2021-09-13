@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.DisplayAsCaption
 ms.assetid: b2eadf78-2b5b-69cf-7929-fba28608de38
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.RowHeight
 ms.assetid: 103c7209-9a4f-8f9c-7bdc-3013113867a5
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoFilter.Parent
 ms.assetid: d656aaeb-f72b-9d38-4f3e-2e6363444181
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

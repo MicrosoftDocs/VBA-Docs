@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ProtectedViewWindow.Left
 ms.assetid: 1434f29b-e0e0-0067-dad8-d3583630cc96
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

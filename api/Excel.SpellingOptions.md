@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions
 ms.assetid: 3ba7d0b4-bebb-0cc9-cb50-066d1c19d876
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

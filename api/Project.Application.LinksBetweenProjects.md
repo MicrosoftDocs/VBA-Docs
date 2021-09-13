@@ -8,7 +8,7 @@ api_name:
 - Project.Application.LinksBetweenProjects
 ms.assetid: 63962df8-05ef-f3b4-7ad7-4c75b50ac398
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

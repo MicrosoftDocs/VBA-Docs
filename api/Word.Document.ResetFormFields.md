@@ -8,7 +8,7 @@ api_name:
 - Word.Document.ResetFormFields
 ms.assetid: 77354799-7ba7-a4e1-5379-c7664c8820b0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

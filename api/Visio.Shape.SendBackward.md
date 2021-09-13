@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.SendBackward
 ms.assetid: 9e43cfd9-c2d3-9042-46e3-39e209ae54aa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

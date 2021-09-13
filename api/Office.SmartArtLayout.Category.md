@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtLayout.Category
 ms.assetid: 1981f073-1407-b27c-d388-55d9cb51c7f1
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

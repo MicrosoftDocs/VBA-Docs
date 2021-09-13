@@ -8,7 +8,7 @@ api_name:
 - Office.Sync.OpenVersion
 ms.assetid: 22892531-5e6d-f977-c430-0160cadb4490
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

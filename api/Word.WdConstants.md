@@ -5,7 +5,7 @@ api_name:
 - Word.WdConstants
 ms.assetid: 5e9789a4-1442-5769-01f6-5425dff8a9d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

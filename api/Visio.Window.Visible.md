@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.Visible
 ms.assetid: e713d0cd-def0-0ae2-08c9-fcfed9ffe883
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

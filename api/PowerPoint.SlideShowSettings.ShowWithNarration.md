@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.ShowWithNarration
 ms.assetid: 65390c53-abeb-ca9e-0697-f68dcb455324
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

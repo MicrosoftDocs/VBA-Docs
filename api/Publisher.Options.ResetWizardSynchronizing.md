@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.ResetWizardSynchronizing
 ms.assetid: 1027a113-45aa-b722-b625-a6bb7bbcc3e6
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

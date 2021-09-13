@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.Parent
 ms.assetid: b0b2c1c7-56fc-a9ac-418a-d14dc6673d97
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

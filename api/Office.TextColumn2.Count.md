@@ -5,7 +5,7 @@ api_name:
 - Office.TextColumn2.Count
 ms.assetid: 7fb374fb-23bf-e28e-1ceb-796d098b45e0
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

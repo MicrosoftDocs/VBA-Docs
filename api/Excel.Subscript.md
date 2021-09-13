@@ -8,7 +8,7 @@ api_name:
 - Excel.Subscript
 ms.assetid: 47864964-27f4-8102-d309-9977131aa98a
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

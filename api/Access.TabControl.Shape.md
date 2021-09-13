@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.Shape
 ms.assetid: 579e6710-0e42-74ac-ea97-1618baf9497a
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

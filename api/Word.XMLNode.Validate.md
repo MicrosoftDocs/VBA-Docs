@@ -8,7 +8,7 @@ api_name:
 - Word.XMLNode.Validate
 ms.assetid: 1a520e28-6b4c-dd95-ba74-cde60e36ad32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

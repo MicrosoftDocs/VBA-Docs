@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.GridlineColor
 ms.assetid: 2cc8616d-e480-2e10-52a6-6914d58579ac
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

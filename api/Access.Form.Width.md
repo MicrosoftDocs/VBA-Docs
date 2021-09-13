@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Width
 ms.assetid: 3f417a95-16a7-fdfa-8661-e71992c757cc
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

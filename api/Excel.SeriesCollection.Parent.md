@@ -8,7 +8,7 @@ api_name:
 - Excel.SeriesCollection.Parent
 ms.assetid: c7d4b8d3-8c58-709a-9d90-bbebfe21338e
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

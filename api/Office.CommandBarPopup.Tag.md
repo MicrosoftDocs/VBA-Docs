@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.Tag
 ms.assetid: 161b54b5-e7e6-123b-1d68-244d2b64230e
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

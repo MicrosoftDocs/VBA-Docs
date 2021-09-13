@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: publisher
 ms.assetid: c43df0d0-1bb8-4e61-64d3-fb5f76daa6dd
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

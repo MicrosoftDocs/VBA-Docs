@@ -8,7 +8,7 @@ api_name:
 - Visio.Page.Print
 ms.assetid: 021cdd78-1699-4345-5b32-c2c0a300ca00
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

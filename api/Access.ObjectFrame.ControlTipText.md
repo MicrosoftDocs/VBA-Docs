@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.ControlTipText
 ms.assetid: 6b2bf5d6-fa3d-149c-1fb7-178c8bf1cd9b
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Orientation
 ms.assetid: 4f0588b6-2570-fe2f-0cbe-09868b77cff3
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

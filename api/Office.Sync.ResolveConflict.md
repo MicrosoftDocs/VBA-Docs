@@ -8,7 +8,7 @@ api_name:
 - Office.Sync.ResolveConflict
 ms.assetid: d127ccab-644c-a2e3-68d1-57138ca200df
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

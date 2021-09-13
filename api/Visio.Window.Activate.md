@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.Activate
 ms.assetid: e34a74e0-8a47-a0bb-4ac5-6fdc8c9e5e08
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

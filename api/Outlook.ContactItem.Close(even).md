@@ -5,7 +5,7 @@ api_name:
 - Outlook.ContactItem.Close
 ms.assetid: beeeb53c-94fe-ae1b-7870-87bd37b3debf
 ms.date: 12/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

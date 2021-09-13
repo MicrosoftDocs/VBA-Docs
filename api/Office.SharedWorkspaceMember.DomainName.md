@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceMember.DomainName
 ms.assetid: 2cbbea6f-7b2c-9ddc-7a37-2e2b6be10405
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

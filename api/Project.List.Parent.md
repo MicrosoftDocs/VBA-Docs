@@ -5,7 +5,7 @@ api_name:
 - Project.List.Parent
 ms.assetid: 08d2d7d8-fafc-8f60-be78-c2d462005eaf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

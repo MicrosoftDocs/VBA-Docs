@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.FitToPagesTall
 ms.assetid: 1a0141cb-a665-caf5-6bd6-b037f65486dc
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkControl.ItemProperty
 ms.assetid: bed8ceaf-c8ae-0102-14ca-55982e49d650
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

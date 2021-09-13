@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormRegion.SetControlItemProperty
 ms.assetid: da0b3762-e10d-85d1-70bf-94156d21e900
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

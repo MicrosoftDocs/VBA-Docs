@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartTitle.Orientation
 ms.assetid: e5cbc985-0afc-8e07-35ac-7dad72e5e380
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

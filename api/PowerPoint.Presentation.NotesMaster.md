@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.NotesMaster
 ms.assetid: 0889b69b-4c51-82cf-ccc2-ccb211d8a34e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

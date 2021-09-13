@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.AddColon
 ms.assetid: 962c79fd-4575-1eea-982a-27a8d55416aa
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ChartFont.Creator
 ms.assetid: d5be9856-817e-a03e-1f7d-43ef421f23f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

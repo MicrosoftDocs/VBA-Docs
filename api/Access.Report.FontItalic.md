@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FontItalic
 ms.assetid: e6cc9478-2bbd-6a80-daff-95e160bdcbe6
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

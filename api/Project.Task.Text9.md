@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Text9
 ms.assetid: b9b0f6d9-36e6-e074-d772-d3c5f324cc4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

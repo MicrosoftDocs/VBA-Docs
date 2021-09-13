@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.BlackWhiteMode
 ms.assetid: a9d51d2d-aee3-78ba-3213-6ad7263f268c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

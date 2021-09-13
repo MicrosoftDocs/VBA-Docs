@@ -8,7 +8,7 @@ api_name:
 - Outlook.Conflicts
 ms.assetid: c4e1c060-519a-a6d1-8fb2-c7dfa1e3e66f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeNodes
 ms.assetid: 663721f1-8bd0-dd21-2362-fea2da3988bf
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

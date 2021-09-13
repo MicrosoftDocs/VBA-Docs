@@ -8,7 +8,7 @@ api_name:
 - Access.AllForms.Count
 ms.assetid: 1540145e-541d-10fc-249b-9fadc6861a11
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

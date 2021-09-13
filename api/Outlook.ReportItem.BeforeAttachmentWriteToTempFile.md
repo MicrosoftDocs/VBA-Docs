@@ -5,7 +5,7 @@ api_name:
 - Outlook.ReportItem.BeforeAttachmentWriteToTempFile
 ms.assetid: c4bfb8ad-3fa2-2319-fd83-5784aa4ab203
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

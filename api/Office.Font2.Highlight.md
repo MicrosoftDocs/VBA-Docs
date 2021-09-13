@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.Highlight
 ms.assetid: 320ee1c7-6d0e-c284-37e7-33cf99d0db9b
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

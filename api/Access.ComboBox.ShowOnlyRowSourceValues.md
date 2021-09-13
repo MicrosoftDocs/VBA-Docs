@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ShowOnlyRowSourceValues
 ms.assetid: 3400539d-64c2-bd83-6d82-b70bf9ba6654
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

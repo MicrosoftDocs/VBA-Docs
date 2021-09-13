@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopCount
 ms.assetid: 34d34a04-5fdb-3d43-9140-fcf10b420efd
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

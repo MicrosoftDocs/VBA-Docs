@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.PageIndexToID
 ms.assetid: d354e9d4-1272-2fd1-44dd-5664e94bc6ac
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

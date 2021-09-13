@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Select
 ms.assetid: 4aa0b78a-fdd5-3951-7d63-17dd2427a125
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

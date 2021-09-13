@@ -8,7 +8,7 @@ api_name:
 - Word.Language.ActiveGrammarDictionary
 ms.assetid: 6cded20a-78e3-f01b-9ea8-42134ca5d7c7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

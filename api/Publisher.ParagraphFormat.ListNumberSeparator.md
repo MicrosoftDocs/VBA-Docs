@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.ListNumberSeparator
 ms.assetid: 63189011-12a0-c7bc-f6c6-7b17b0dcedf2
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

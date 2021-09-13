@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Xnpv
 ms.assetid: db61e7a8-70c2-9e32-48dd-adddcbc886b6
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

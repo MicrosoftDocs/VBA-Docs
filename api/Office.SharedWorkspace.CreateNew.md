@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspace.CreateNew
 ms.assetid: 67fbf788-bca0-f83d-acb5-a756bf0ddfb4
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

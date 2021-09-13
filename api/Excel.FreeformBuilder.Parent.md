@@ -8,7 +8,7 @@ api_name:
 - Excel.FreeformBuilder.Parent
 ms.assetid: 0d1e9d6c-2c2f-e373-4a8d-3c1dbb2b8dc8
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

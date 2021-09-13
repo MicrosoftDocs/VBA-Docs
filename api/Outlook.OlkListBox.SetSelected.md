@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.SetSelected
 ms.assetid: ee8a6553-4cf4-b99d-9289-bec4d86e7c32
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

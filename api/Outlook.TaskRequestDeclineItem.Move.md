@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Move
 ms.assetid: bf3e3500-a334-f5fd-dd80-c90a9a1c42cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

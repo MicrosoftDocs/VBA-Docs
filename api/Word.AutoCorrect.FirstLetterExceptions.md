@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrect.FirstLetterExceptions
 ms.assetid: 393a7a13-90eb-ce63-f82a-d1b0a9ae2339
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

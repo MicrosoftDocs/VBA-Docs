@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.IsVisible
 ms.assetid: e9fdcd98-275a-7e54-bee5-74d97a6de086
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

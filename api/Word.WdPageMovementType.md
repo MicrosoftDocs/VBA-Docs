@@ -4,7 +4,7 @@ ms.prod: word
 api_name:
 - Word.WdPageMovementType
 ms.date: 08/15/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # WdPageMovementType enumeration (Word)

@@ -8,7 +8,7 @@ api_name:
 - Word.AutoTextEntry.Creator
 ms.assetid: 65442204-2c47-49b9-ceb3-846621b016d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

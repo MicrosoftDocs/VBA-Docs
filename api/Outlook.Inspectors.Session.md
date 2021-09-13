@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspectors.Session
 ms.assetid: 32d60741-21f1-39f8-0069-7dddf3078879
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

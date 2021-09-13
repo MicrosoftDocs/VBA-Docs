@@ -8,7 +8,7 @@ api_name:
 - Excel.IRtdServer
 ms.assetid: 6a85aa64-9514-74bb-3c63-141275f1b671
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

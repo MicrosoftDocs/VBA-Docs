@@ -5,7 +5,7 @@ api_name:
 - Office.ODSOFilters.Application
 ms.assetid: 942b52ed-cb45-6ad0-55a0-4313a4aa9d66
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

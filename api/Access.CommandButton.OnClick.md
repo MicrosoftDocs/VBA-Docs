@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.OnClick
 ms.assetid: 1034aa82-58cd-f639-d936-326049ccf38c
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Addon.Run
 ms.assetid: 223d87ff-8fd6-b68c-a716-3ff30659f898
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

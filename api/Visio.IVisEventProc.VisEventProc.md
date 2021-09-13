@@ -8,7 +8,7 @@ api_name:
 - Visio.IVisEventProc.VisEventProc
 ms.assetid: d5a33174-4dcb-8afd-991c-eb59ddb2ea2d
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

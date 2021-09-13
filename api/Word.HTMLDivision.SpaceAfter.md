@@ -8,7 +8,7 @@ api_name:
 - Word.HTMLDivision.SpaceAfter
 ms.assetid: 27101c18-02d9-c4b4-77b8-4d324a02e8d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentProject.FileFormat
 ms.assetid: eb062d95-3042-eae7-9c0b-9d052e28b8cd
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

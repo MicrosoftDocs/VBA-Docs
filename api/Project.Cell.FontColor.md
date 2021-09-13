@@ -5,7 +5,7 @@ api_name:
 - Project.Cell.FontColor
 ms.assetid: 02c03268-f945-1a27-28fd-025a7dcd6d48
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

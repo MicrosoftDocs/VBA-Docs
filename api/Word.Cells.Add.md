@@ -8,7 +8,7 @@ api_name:
 - Word.Cells.Add
 ms.assetid: 93e63c5b-a617-0a30-e303-aabe24ae7a0e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

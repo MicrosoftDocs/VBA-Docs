@@ -8,7 +8,7 @@ api_name:
 - Access.AllQueries.Parent
 ms.assetid: 6ecf7fa6-f150-fa1d-94b5-2c2c48480367
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

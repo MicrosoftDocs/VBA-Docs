@@ -8,7 +8,7 @@ api_name:
 - Visio.Menus.Parent
 ms.assetid: 1dffd96d-d53c-874d-405b-c8f9de9ae459
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

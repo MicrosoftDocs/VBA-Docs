@@ -8,7 +8,7 @@ api_name:
 - Word.TextFrame.HorizontalAnchor
 ms.assetid: 6e78d938-343c-304c-2a40-ccf747c4f15d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

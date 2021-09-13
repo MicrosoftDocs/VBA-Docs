@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.BackgroundQuery
 ms.assetid: c106c0d8-16ea-83dc-1b4e-1a311d9c0d9e
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

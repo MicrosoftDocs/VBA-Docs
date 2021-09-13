@@ -5,7 +5,7 @@ api_name:
 - Excel.XlPrintErrors
 ms.assetid: c724f9b2-ba79-6a7c-e05f-1490b7354487
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

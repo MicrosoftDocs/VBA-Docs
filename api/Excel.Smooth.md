@@ -8,7 +8,7 @@ api_name:
 - Excel.Smooth
 ms.assetid: 037fa5ed-dd47-c544-50c4-813bc8000955
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

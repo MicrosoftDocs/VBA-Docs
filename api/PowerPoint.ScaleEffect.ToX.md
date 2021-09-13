@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ScaleEffect.ToX
 ms.assetid: 12d225bb-2268-f644-8dfb-7d457ae79afa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

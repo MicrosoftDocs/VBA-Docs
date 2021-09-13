@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrect.CorrectHangulAndAlphabet
 ms.assetid: b6dc4a8e-9245-0c29-370f-c6fcbb3a924a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

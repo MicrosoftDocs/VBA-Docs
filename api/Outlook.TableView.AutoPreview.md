@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.AutoPreview
 ms.assetid: 51d20d34-5a2f-03f6-cfea-2279d286f067
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

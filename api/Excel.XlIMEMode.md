@@ -5,7 +5,7 @@ api_name:
 - Excel.XlIMEMode
 ms.assetid: 846620f7-6d41-5b53-cc5b-1985a95c173d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

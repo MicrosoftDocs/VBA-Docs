@@ -8,7 +8,7 @@ api_name:
 - Word.Pane.Next
 ms.assetid: abadc092-dede-ddf9-a934-984d6c18553a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

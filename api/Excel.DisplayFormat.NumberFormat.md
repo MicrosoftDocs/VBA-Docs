@@ -8,7 +8,7 @@ api_name:
 - Excel.DisplayFormat.NumberFormat
 ms.assetid: 516faa6b-177a-7166-8526-10ebba5531a5
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.ActiveWindow
 ms.assetid: 6da310fd-3fb1-618b-d80f-98ee1e45d5a2
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

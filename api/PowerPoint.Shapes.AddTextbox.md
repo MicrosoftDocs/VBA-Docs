@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddTextbox
 ms.assetid: 0c7c6093-48f6-e1f1-1837-e69d6ef13e57
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

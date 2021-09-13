@@ -3,7 +3,7 @@ title: Object library for Visual Basic for Applications not found
 ms.prod: office
 ms.assetid: 1776826f-0842-4a7c-8e05-6dd4d777eca3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

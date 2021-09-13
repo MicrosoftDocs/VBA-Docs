@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.AccuracyVersion
 ms.assetid: bc81782c-662c-87ec-8381-d06e77674d0c
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

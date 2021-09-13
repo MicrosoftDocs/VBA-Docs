@@ -8,7 +8,7 @@ api_name:
 - Outlook.ImportanceRuleCondition.Class
 ms.assetid: 888893ab-a032-3426-9675-29ca01356500
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

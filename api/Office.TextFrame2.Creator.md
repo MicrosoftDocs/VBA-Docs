@@ -5,7 +5,7 @@ api_name:
 - Office.TextFrame2.Creator
 ms.assetid: 12c1e3ee-4c76-907a-2606-661108f8a6ae
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

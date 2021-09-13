@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.MouseMove
 ms.assetid: e684139a-dfde-c9b0-389d-fae941caa481
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

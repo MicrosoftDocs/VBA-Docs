@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroups.Creator
 ms.assetid: 3008f9c3-a7d8-3202-2edb-d090deb039af
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

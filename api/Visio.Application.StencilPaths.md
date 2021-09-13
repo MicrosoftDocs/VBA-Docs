@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.StencilPaths
 ms.assetid: 1b664a6d-ba52-7115-7c48-bf2f6dd8068d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

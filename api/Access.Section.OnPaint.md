@@ -8,7 +8,7 @@ api_name:
 - Access.Section.OnPaint
 ms.assetid: ecc8a106-3aff-e0e2-3e7b-86a793cc6f7e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

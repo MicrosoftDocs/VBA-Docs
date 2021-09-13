@@ -3,7 +3,7 @@ title: ToggleButton.MousePointer Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 99b9049e-c83f-933e-a48c-8ff97b1e157a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

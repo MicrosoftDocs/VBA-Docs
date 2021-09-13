@@ -8,7 +8,7 @@ api_name:
 - Excel.TextFrame.ReadingOrder
 ms.assetid: 9c6c6b10-3837-fc47-1021-cfadb31cfcbc
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

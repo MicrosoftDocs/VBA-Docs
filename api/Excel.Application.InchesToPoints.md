@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.InchesToPoints
 ms.assetid: 7689eae4-f533-32e3-d431-4873029a8bc1
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

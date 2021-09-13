@@ -8,7 +8,7 @@ api_name:
 - Word.InlineShape.AlternativeText
 ms.assetid: a9eba1a4-393d-7d85-a964-984d7b5bd485
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.Caption
 ms.assetid: f6281931-8a78-9e8b-0a41-ae7d63f8755e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows.MouseDown
 ms.assetid: e9865821-842c-226a-7351-c1c7527ca711
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

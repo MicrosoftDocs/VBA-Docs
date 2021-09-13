@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.Interior
 ms.assetid: 49c68b75-7358-e9bd-6532-bac221a1241c
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

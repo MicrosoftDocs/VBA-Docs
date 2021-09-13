@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ResampleMediaTask.AudioCompressionType
 ms.assetid: 26b867a7-f738-f38c-8a93-b883b69add90
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

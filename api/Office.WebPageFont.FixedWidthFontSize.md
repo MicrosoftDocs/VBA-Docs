@@ -8,7 +8,7 @@ api_name:
 - Office.WebPageFont.FixedWidthFontSize
 ms.assetid: a3f68d85-219d-c94b-15d2-c55374158fc2
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

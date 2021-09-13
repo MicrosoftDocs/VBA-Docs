@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendline.Border
 ms.assetid: 5b253b40-e9c1-031d-305c-bfe4a600427c
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

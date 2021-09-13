@@ -8,7 +8,7 @@ api_name:
 - Outlook.PropertyAccessor.DeleteProperties
 ms.assetid: e9c11799-cb75-fd8c-0c98-aca46796bb46
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.CC
 ms.assetid: c74c1aea-79d1-7096-8f3d-cdd6795fa672
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

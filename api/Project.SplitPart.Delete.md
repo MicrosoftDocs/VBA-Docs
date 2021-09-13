@@ -5,7 +5,7 @@ api_name:
 - Project.SplitPart.Delete
 ms.assetid: 6d09354b-3cda-fe22-0e6f-157f509ce026
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

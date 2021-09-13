@@ -8,7 +8,7 @@ api_name:
 - Project.Project.HyperlinkColor
 ms.assetid: de3fac1b-b422-39f2-1163-124700bae03a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

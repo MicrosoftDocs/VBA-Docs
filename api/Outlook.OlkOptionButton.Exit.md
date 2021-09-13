@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.Exit
 ms.assetid: 25967971-8d98-579e-a4f7-e6bfc3a16834
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCheckBox
 ms.assetid: adcdf233-50b8-acbe-e52f-1e86e175b31d
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

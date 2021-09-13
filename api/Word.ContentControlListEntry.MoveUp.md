@@ -8,7 +8,7 @@ api_name:
 - Word.ContentControlListEntry.MoveUp
 ms.assetid: e67c7c3c-fdf0-64b4-7e93-7e6f7a47c9bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

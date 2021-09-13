@@ -8,7 +8,7 @@ api_name:
 - Word.HTMLDivisions.Creator
 ms.assetid: f3aedffb-d2d4-69f3-2049-2eecf955c116
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

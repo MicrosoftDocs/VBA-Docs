@@ -8,7 +8,7 @@ api_name:
 - Publisher.Font.SetScriptName
 ms.assetid: f1f2c01e-098c-1afd-0e64-1d563c1ca626
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

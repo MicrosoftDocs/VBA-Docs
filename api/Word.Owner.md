@@ -8,7 +8,7 @@ api_name:
 - Word.Owner
 ms.assetid: 55158805-f9fe-6cb0-c13a-30207b5f6f2d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

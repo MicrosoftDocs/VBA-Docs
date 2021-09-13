@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntry.Left
 ms.assetid: 42b0e8aa-50a1-0a98-f0c6-b5540753e8f8
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

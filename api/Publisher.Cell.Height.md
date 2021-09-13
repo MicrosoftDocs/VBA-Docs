@@ -8,7 +8,7 @@ api_name:
 - Publisher.Cell.Height
 ms.assetid: ced71ac0-eca8-0939-8812-fe0e79a47cba
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

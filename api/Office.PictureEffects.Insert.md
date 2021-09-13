@@ -5,7 +5,7 @@ api_name:
 - Office.PictureEffects.Insert
 ms.assetid: 589c38d7-1d0a-ad87-a84c-72147b6b07cf
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

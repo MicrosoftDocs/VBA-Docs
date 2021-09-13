@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOFilter.Conjunction
 ms.assetid: 22d2287c-9b0e-c4ce-164d-e8424c62aa86
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.PjMonthLabel
 ms.assetid: 5d49cf70-e15e-3734-ae1c-267f5ae0f917
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

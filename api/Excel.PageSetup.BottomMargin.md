@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.BottomMargin
 ms.assetid: 4c1cd3e0-0ba6-9d2d-4d5a-69d9ee811704
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

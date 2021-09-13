@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.StatusBarText
 ms.assetid: 098391de-a83b-b8cb-e045-b6d9edac3ff5
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

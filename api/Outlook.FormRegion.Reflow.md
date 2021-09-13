@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormRegion.Reflow
 ms.assetid: 06874e99-8cca-2176-52ab-211f672d5783
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

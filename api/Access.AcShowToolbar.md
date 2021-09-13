@@ -8,7 +8,7 @@ api_name:
 - Access.AcShowToolbar
 ms.assetid: b8546ec8-fd58-a2b7-24a0-ee678bfa3f33
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

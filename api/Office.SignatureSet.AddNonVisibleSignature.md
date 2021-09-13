@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureSet.AddNonVisibleSignature
 ms.assetid: f8d3a749-9507-628f-2192-552bd4cbb00c
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

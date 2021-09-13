@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CutCopyMode
 ms.assetid: d45d3352-2a33-99ae-22f2-0b1c11466209
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CustomProperties.Item
 ms.assetid: d262b0ed-ed09-5f74-0b3e-0cafd4df9f8a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

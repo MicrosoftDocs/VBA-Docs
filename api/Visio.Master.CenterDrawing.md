@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.CenterDrawing
 ms.assetid: 1bf660a3-30eb-4a0b-fcea-66d0e0574ae0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

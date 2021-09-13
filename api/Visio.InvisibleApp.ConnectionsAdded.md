@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.ConnectionsAdded
 ms.assetid: 635d640f-305b-4d9c-10c2-750f7f29cc00
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

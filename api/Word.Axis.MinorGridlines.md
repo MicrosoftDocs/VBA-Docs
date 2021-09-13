@@ -8,7 +8,7 @@ api_name:
 - Word.Axis.MinorGridlines
 ms.assetid: b234c5ca-0381-6834-b2f9-fae3048a2fbf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

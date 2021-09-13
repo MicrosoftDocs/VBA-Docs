@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeNode.Parent
 ms.assetid: 1626a200-8608-70fe-19be-89056eafc256
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

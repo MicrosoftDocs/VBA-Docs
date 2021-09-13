@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.UpgradeMedia
 ms.assetid: a05e171a-1fff-1128-7a2d-a5576593fc70
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

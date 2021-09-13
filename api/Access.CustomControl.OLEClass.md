@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.OLEClass
 ms.assetid: d9aad7b9-6388-3365-881a-6e42ebebcfd6
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

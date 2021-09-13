@@ -5,7 +5,7 @@ api_name:
 - Office.PickerField.Type
 ms.assetid: 1ac12ab8-9250-e554-b674-c56d06de8149
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

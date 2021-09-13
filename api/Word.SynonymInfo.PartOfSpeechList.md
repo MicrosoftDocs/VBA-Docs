@@ -8,7 +8,7 @@ api_name:
 - Word.SynonymInfo.PartOfSpeechList
 ms.assetid: 98d61149-8e25-7c1d-38af-d211d1d205f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.AutoTab
 ms.assetid: 269d7e71-66df-9c88-e707-1e6a89391f50
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

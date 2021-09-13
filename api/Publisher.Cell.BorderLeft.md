@@ -8,7 +8,7 @@ api_name:
 - Publisher.Cell.BorderLeft
 ms.assetid: f996a96f-4392-48c2-e5c2-bfe373a7997a
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

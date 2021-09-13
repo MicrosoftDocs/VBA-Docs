@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.Application
 ms.assetid: 29e3d68f-4f67-793d-6976-e18e290145fe
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

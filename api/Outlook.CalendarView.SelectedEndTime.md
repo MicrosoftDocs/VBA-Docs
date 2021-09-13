@@ -8,7 +8,7 @@ api_name:
 - Outlook.CalendarView.SelectedEndTime
 ms.assetid: cf617cf4-9c71-96ca-e8f5-52fa4596cb6b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

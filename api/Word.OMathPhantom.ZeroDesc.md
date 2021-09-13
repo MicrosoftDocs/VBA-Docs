@@ -8,7 +8,7 @@ api_name:
 - Word.OMathPhantom.ZeroDesc
 ms.assetid: 56236b3e-6594-659d-8f04-40cda1393835
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

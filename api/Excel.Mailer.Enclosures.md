@@ -8,7 +8,7 @@ api_name:
 - Excel.Mailer.Enclosures
 ms.assetid: 04f93d28-737a-eadf-7ed6-c5517a020805
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

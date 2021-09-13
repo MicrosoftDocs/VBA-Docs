@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.LegendKey
 ms.assetid: 98e8b9c3-b53e-9595-9389-6f92a6d730f4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

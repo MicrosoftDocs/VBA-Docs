@@ -8,7 +8,7 @@ api_name:
 - Visio.Menu.Width
 ms.assetid: 64af17f0-9915-c65b-df69-dc02c2b338ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

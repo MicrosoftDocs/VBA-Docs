@@ -3,7 +3,7 @@ title: Calculate elapsed time
 ms.prod: access
 ms.assetid: 90e46152-6d97-0860-a414-a17cc8ba40cf
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.MailMergeFields.AddSet
 ms.assetid: 6b35e6ab-e918-26bd-6cdd-547882d2bef5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

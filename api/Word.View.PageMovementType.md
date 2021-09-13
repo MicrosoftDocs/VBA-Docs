@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.View.PageMovementType
 ms.date: 08/15/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # View.PageMovementType property (Word)

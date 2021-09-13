@@ -3,7 +3,7 @@ title: TextRange2.Replace method (PowerPoint)
 ms.assetid: 2c62469a-6e94-42cb-9329-c054688661fd
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

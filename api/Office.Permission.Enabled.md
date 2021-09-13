@@ -8,7 +8,7 @@ api_name:
 - Office.Permission.Enabled
 ms.assetid: e77fab6f-0191-3ba4-d418-dc25dc79422d
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

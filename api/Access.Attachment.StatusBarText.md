@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.StatusBarText
 ms.assetid: 9d947d11-edb1-947a-df0c-727ef9b1599a
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

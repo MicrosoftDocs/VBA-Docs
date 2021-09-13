@@ -5,7 +5,7 @@ api_name:
 - Project.WeekDay.Shift2
 ms.assetid: cc686169-6b7d-099a-6602-9381418fa0de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TableStyle.Borders
 ms.assetid: 5b8660de-dfbc-f6ea-9195-954afec5eca4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

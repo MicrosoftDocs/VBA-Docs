@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.CanCheckOut
 ms.assetid: b16fec91-fe8d-3967-7bb2-67ddde44681c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

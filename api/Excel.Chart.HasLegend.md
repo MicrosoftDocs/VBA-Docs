@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.HasLegend
 ms.assetid: e791cc18-03a3-1e60-f064-256cdbd6bd2e
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

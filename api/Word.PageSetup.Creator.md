@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.Creator
 ms.assetid: 5b21e35c-aac4-3eef-3aa2-718e47417d56
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

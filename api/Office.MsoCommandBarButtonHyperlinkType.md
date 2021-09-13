@@ -5,7 +5,7 @@ api_name:
 - Office.MsoCommandBarButtonHyperlinkType
 ms.assetid: 24d14e60-52ad-f79e-9cd8-2a8bdac8caaa
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

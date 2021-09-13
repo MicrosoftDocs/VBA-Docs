@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.Height
 ms.assetid: 38ee74b8-45ea-cf1b-157b-e4dd850ee8ff
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

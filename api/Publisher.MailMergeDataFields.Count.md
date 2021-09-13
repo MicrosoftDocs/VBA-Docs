@@ -8,7 +8,7 @@ api_name:
 - Publisher.MailMergeDataFields.Count
 ms.assetid: f46da7b1-acd8-f2d2-a6aa-71cc3c8eca99
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

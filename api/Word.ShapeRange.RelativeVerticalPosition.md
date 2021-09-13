@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.RelativeVerticalPosition
 ms.assetid: 4bcb0d85-53aa-e16d-98f3-4154de5355d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

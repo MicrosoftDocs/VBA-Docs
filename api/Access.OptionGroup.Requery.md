@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Requery
 ms.assetid: 5cc8188a-a579-3cd6-335a-afb2d05c955c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

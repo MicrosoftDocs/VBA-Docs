@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ReplyWithChanges
 ms.assetid: 60424d69-0062-aa5e-ea8f-4fb07086167a
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

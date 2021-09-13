@@ -3,7 +3,7 @@ title: Font.Weight Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 674d5bd0-3cf7-1330-5d3c-7b742bb3df7c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

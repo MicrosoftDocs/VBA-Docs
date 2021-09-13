@@ -3,7 +3,7 @@ title: Shape.LockAspectRatio property (Project)
 ms.prod: project-server
 ms.assetid: b465aad3-d253-d6ce-0f6e-bb0638733647
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

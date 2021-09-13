@@ -8,7 +8,7 @@ api_name:
 - Outlook.ViewFont.Session
 ms.assetid: 8f126189-3bec-6eee-1e62-b178738d361b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

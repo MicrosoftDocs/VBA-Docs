@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Exit
 ms.assetid: 2c8000f7-256d-232a-c2ac-f027eac7bc6a
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.QueryCancelPageDelete
 ms.assetid: d3dd09f7-b3b8-cc99-c060-09a9c06c36a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

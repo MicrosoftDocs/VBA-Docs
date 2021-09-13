@@ -8,7 +8,7 @@ api_name:
 - Access.AccessObject.Parent
 ms.assetid: 3db6009b-6c7e-65de-4033-1d592b122887
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

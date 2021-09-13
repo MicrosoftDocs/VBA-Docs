@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.Apply
 ms.assetid: 699a945f-656a-170a-e784-07b3004a858f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

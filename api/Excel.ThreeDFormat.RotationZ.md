@@ -5,7 +5,7 @@ api_name:
 - Excel.ThreeDFormat.RotationZ
 ms.assetid: 4e28396e-9d1e-4d2c-920c-e49e735cee27
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

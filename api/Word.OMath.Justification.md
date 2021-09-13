@@ -8,7 +8,7 @@ api_name:
 - Word.OMath.Justification
 ms.assetid: 6e5d2221-bbfb-b108-159f-d705b900c25e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

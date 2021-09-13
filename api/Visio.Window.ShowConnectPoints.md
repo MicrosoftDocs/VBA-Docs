@@ -8,7 +8,7 @@ api_name:
 - Visio.Window.ShowConnectPoints
 ms.assetid: e69f8fc7-243e-0443-4486-7c0db3a532e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

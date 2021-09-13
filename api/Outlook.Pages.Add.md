@@ -8,7 +8,7 @@ api_name:
 - Outlook.Pages.Add
 ms.assetid: 4a28aac5-be6f-0892-0fc1-17ded4dff783
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

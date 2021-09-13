@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.HasNextLink
 ms.assetid: 907ec470-e283-906a-e25f-f5a8548a18a4
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

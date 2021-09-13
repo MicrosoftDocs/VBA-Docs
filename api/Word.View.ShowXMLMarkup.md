@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowXMLMarkup
 ms.assetid: 70873416-6ca8-18c7-550f-46973a7b0f6e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

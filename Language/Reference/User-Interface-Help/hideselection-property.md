@@ -8,7 +8,7 @@ api_name:
 - Office.HideSelection
 ms.assetid: fe840b76-7f50-8801-642f-3cce6707bb62
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

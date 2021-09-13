@@ -8,7 +8,7 @@ api_name:
 - Access.Line.InSelection
 ms.assetid: eaeac7f9-a452-7121-5950-1c9741c662c2
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

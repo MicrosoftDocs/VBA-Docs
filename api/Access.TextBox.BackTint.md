@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BackTint
 ms.assetid: 3740b360-334c-db71-9fb6-1f7aab304811
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

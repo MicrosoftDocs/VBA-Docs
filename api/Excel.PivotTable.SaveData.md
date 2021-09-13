@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.SaveData
 ms.assetid: f8f788cf-b8a2-4694-1a52-f48e00e6471c
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

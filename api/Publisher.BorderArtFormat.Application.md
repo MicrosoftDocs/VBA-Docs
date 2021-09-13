@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArtFormat.Application
 ms.assetid: 329de5c7-c469-b7c0-1398-cecbbc6107b2
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

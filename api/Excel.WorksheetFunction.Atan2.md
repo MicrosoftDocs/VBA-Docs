@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Atan2
 ms.assetid: d6a6597d-9d46-fdad-3bf1-05cee4cf9e20
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TabStops.DefaultSpacing
 ms.assetid: f404f50d-ae85-3310-a478-6800d39fb582
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.Left
 ms.assetid: 3e4f76fa-9e5c-a501-ae7f-38dfd89a836a
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

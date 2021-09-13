@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotAxis
 ms.assetid: f8f4fbef-5cf7-1615-2ed3-7c90ab6c82f6
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

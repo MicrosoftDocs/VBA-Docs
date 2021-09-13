@@ -8,7 +8,7 @@ api_name:
 - Word.KeysBoundTo.Item
 ms.assetid: f1456b2f-6817-5fec-68c1-f9672c6456d3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

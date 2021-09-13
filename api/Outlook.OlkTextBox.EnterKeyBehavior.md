@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.EnterKeyBehavior
 ms.assetid: f392f600-3b62-d202-da6d-a23919d2df1c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

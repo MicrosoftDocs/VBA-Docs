@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartObjects.Locked
 ms.assetid: 6d9fc386-3dcc-c52f-d590-2749dac2378f
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

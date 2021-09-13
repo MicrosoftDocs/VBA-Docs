@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.OnReviewerChanged
 ms.assetid: a705878b-cb2e-5b5c-01ae-e0fca790c0d5
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

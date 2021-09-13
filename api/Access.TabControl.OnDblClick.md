@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.OnDblClick
 ms.assetid: 3c3271cd-478b-7b4b-2043-f641920e16e8
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

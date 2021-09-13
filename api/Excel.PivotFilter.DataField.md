@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotFilter.DataField
 ms.assetid: 33757882-60d0-2473-c5b9-fe8cc7fc8221
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

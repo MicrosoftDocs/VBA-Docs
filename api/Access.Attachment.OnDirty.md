@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.OnDirty
 ms.assetid: a3f0e108-3abe-23b2-6c7d-e528432fc3d9
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

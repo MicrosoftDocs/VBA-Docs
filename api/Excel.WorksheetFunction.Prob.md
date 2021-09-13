@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Prob
 ms.assetid: 7715295d-90da-53fc-ef66-8422e829e05c
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

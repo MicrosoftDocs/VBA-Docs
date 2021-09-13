@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CountIf
 ms.assetid: d0251b63-cc9e-a58c-1862-adbd58004126
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

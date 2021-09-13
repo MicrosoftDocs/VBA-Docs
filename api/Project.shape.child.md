@@ -3,7 +3,7 @@ title: Shape.Child property (Project)
 ms.prod: project-server
 ms.assetid: 1760dd8a-80d8-fbb5-ad4f-12042ee410be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

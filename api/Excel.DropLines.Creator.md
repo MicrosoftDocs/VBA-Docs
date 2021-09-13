@@ -8,7 +8,7 @@ api_name:
 - Excel.DropLines.Creator
 ms.assetid: c1c7acab-e33b-ec58-6303-c31923c3f1fc
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

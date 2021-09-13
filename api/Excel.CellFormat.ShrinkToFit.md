@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.ShrinkToFit
 ms.assetid: 978403ae-7eb5-046f-6c76-d7abcc0e2b2e
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

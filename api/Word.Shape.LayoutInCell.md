@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.LayoutInCell
 ms.assetid: 6a80b806-2a7b-aced-4601-774d8937ee2f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

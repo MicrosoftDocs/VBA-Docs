@@ -8,7 +8,7 @@ api_name:
 - Office.SignatureInfo.ShowSignatureCertificate
 ms.assetid: 8fef7299-e110-b0a2-7a0c-552e9068e001
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

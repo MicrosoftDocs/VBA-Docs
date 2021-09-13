@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.Application
 ms.assetid: 0fa19d12-4947-7b85-332a-5067eb467be4
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

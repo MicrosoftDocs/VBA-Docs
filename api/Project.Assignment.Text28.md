@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Text28
 ms.assetid: 70dd5ef5-d25b-4b9e-97d7-b894b1649242
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Left
 ms.assetid: da310fc7-9fb7-fddf-9cb7-a6e2a7be0bc6
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

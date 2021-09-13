@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Match
 ms.assetid: 901cdd78-e8fc-f149-66ff-5887f7099c96
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

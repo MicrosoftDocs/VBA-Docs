@@ -8,7 +8,7 @@ api_name:
 - Excel.RectangularGradient.Parent
 ms.assetid: ad63ed29-b62c-ea55-76b3-88d0354b35ca
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

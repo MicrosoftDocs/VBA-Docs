@@ -5,7 +5,7 @@ api_name:
 - Excel.XlWindowView
 ms.assetid: b60b88f9-af0b-e06e-d4dc-8524e3118e4c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

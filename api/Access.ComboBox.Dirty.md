@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.Dirty
 ms.assetid: 15273cae-5466-0e5c-1783-796458ceb34d
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSize.TopMargin
 ms.assetid: 1d1755c2-bb53-5bc2-002c-93714df13784
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

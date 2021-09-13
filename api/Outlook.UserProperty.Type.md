@@ -8,7 +8,7 @@ api_name:
 - Outlook.UserProperty.Type
 ms.assetid: d1eea53e-c46d-8dad-94cd-9338091b4ffd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

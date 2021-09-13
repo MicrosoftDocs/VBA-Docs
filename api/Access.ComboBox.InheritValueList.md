@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.InheritValueList
 ms.assetid: 9189cd24-c4f2-c9a4-289f-0515d4b7fd45
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

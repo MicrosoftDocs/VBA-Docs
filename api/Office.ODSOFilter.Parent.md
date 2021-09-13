@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOFilter.Parent
 ms.assetid: f74b9a54-8464-8de0-cdab-c9a1966d2b39
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

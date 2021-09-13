@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.GetSaveAsFilename
 ms.assetid: 2ad52070-22d7-a755-9267-daaa5edbbb0d
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.MailingLabel.PrintOut
 ms.assetid: 3519226b-1c5f-8343-62b1-7e275793ca3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.CustomFieldGetFormula
 ms.assetid: ce741a1a-1227-b3ae-f45e-0d1f3a048311
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

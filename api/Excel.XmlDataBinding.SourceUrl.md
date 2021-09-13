@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlDataBinding.SourceUrl
 ms.assetid: 0c6f07c8-43db-eca4-ada2-5919f1e3160e
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

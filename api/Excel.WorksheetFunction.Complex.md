@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Complex
 ms.assetid: 4ea29dda-7f01-1f48-5cda-f1bc7a0a52f2
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

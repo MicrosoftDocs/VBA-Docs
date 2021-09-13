@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CellRange.Application
 ms.assetid: 8f3aaa0e-05ee-71d5-df33-6b449fa893ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Number7
 ms.assetid: fa480ff7-3ab2-7c46-7360-d7a8455910ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

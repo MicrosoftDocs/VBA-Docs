@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Parent
 ms.assetid: ef27abde-9789-52f2-ac30-b346404939d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

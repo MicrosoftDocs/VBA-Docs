@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.CommandText
 ms.assetid: 5f1f84f2-d613-17be-7b2e-3b6a3cc56002
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

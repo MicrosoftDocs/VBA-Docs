@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.GridlineWidthBottom
 ms.assetid: b0a50d2f-25b2-22a9-4cf2-219348ec8daa
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

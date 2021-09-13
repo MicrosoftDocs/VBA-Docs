@@ -8,7 +8,7 @@ api_name:
 - Excel.Rotation
 ms.assetid: f78b6998-fae2-c80b-3a98-96ad359e6c47
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

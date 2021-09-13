@@ -8,7 +8,7 @@ api_name:
 - Excel.SortField
 ms.assetid: 2becf77f-c072-2060-9baf-ebcf785c05bb
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

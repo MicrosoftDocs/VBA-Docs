@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkListBox.KeyUp
 ms.assetid: 78a6ce9e-ee5c-977c-44fe-6438d34e845d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.BuiltIn
 ms.assetid: c1c62ce7-0cd8-7fa7-c596-e53ced7d591a
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

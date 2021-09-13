@@ -5,7 +5,7 @@ api_name:
 - Outlook.JournalItem.BeforeAttachmentSave
 ms.assetid: cfb390f5-b3b3-aef5-d814-97534928bfda
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

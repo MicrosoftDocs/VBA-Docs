@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.FreezePanes
 ms.assetid: fd8c7b3b-4f70-72bd-68e4-a34442192a4e
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

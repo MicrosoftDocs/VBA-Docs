@@ -8,7 +8,7 @@ api_name:
 - Publisher.LayoutGuides.RowGutterWidth
 ms.assetid: a7629683-68d2-4953-4c95-7e79e431f9c4
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

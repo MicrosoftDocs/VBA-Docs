@@ -8,7 +8,7 @@ api_name:
 - Outlook.ReportItem.RetentionPolicyName
 ms.assetid: 054e4a80-a00e-62c1-f442-50d5340eb36e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

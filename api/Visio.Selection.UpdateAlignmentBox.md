@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.UpdateAlignmentBox
 ms.assetid: d7f13dcd-3ff6-0e0f-d996-afe59c16f813
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

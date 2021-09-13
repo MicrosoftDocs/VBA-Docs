@@ -8,7 +8,7 @@ api_name:
 - Word.ConditionalStyle.Creator
 ms.assetid: f0311e68-ce40-86fd-1009-adf361a072e0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

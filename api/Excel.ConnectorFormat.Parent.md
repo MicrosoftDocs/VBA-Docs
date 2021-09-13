@@ -8,7 +8,7 @@ api_name:
 - Excel.ConnectorFormat.Parent
 ms.assetid: d9f8adf3-739b-9bca-9725-12733feb2547
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

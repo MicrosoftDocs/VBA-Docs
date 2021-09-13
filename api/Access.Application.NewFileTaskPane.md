@@ -8,7 +8,7 @@ api_name:
 - Access.Application.NewFileTaskPane
 ms.assetid: 22b069c2-9c3a-7ee1-e47f-4916a24b32d0
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.PathForPublications
 ms.assetid: d33d5eab-eb52-b533-8968-31ddb5e12d99
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

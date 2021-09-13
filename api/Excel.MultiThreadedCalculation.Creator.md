@@ -8,7 +8,7 @@ api_name:
 - Excel.MultiThreadedCalculation.Creator
 ms.assetid: 4121064b-2a70-e46c-c4e0-dc72cb894edf
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

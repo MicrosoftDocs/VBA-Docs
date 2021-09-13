@@ -8,7 +8,7 @@ api_name:
 - Excel.PublishObject.Source
 ms.assetid: 2f8ca565-91f1-9636-d0c2-f5988c176ddb
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Point.MarkerBackgroundColor
 ms.assetid: afb56414-a2f4-944d-5b69-014ae5374719
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

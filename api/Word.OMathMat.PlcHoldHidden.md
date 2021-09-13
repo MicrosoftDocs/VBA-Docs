@@ -8,7 +8,7 @@ api_name:
 - Word.OMathMat.PlcHoldHidden
 ms.assetid: ebc46941-8c4c-3511-42ac-72dcad557e2a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

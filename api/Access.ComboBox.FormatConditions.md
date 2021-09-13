@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.FormatConditions
 ms.assetid: 0eeb11b4-453b-4a00-0a1f-92e3108ab2b9
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

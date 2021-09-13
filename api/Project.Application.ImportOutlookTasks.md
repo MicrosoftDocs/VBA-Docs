@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ImportOutlookTasks
 ms.assetid: 74764d22-eb1b-d7ac-fd63-2151f03e85dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.GridlineStyleRight
 ms.assetid: c4855cec-2481-1640-9b4e-990d5d4a25a1
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Search.GetTable
 ms.assetid: 3aba6b77-73a3-9620-9c18-b2e03c7b63bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.ShowTipPages
 ms.assetid: 44f91cf1-68e3-0755-3114-5dc41a2e4eba
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

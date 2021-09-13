@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.ButtonStyle
 ms.assetid: 39251032-d51e-3895-af18-cb4b613a38f4
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

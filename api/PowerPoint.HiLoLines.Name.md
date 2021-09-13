@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.HiLoLines.Name
 ms.assetid: 90ddd817-bf54-d035-91c8-95ab89f3d4c3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.GridlineTint
 ms.assetid: 38c2d0ea-6832-3ea3-c0fd-74d2135cfafd
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

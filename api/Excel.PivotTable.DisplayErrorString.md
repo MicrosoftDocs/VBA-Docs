@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayErrorString
 ms.assetid: 57ec3e1f-b6ea-dfd0-996e-6efa48bd9793
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

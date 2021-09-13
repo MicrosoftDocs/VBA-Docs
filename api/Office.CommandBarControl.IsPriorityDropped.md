@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.IsPriorityDropped
 ms.assetid: cc537dd9-3b10-cba1-d8e0-bdf3952a1e23
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

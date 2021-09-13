@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.Save
 ms.assetid: 6d1251bb-27f3-0a80-bc2f-d385e2b3e3ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

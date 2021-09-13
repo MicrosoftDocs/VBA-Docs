@@ -8,7 +8,7 @@ api_name:
 - Access.DependencyInfo.InsufficientPermissions
 ms.assetid: bfcc05fa-0f50-ae2a-34d2-06db486fcebd
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

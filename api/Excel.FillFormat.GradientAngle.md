@@ -5,7 +5,7 @@ api_name:
 - Excel.FillFormat.GradientAngle
 ms.assetid: cc2b2d08-1411-f79f-806c-5f832a1ce715
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

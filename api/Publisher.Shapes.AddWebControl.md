@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.AddWebControl
 ms.assetid: 94b54939-9627-6b38-4375-f1c87fc8c4f7
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

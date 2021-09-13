@@ -8,7 +8,7 @@ api_name:
 - Visio.Windows.Count
 ms.assetid: 8923a141-36c9-04ff-fd73-e192cf76a4e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

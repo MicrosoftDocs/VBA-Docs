@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.Item
 ms.assetid: 8ea600ad-31b0-5b6e-6391-c954bbc97245
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

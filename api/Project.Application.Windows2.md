@@ -5,7 +5,7 @@ api_name:
 - Project.Application.Windows2
 ms.assetid: 038d051c-769d-3a14-c884-7b4b669d3cc8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

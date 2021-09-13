@@ -8,7 +8,7 @@ api_name:
 - Word.ListTemplate.OutlineNumbered
 ms.assetid: 0d728c52-b33d-7764-a0ef-6573040ed1ef
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

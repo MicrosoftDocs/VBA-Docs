@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Fill
 ms.assetid: 689cef96-6ad8-aa20-27c6-065af06b5753
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

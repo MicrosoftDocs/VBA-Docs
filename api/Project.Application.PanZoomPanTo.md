@@ -5,7 +5,7 @@ api_name:
 - Project.Application.PanZoomPanTo
 ms.assetid: 7bdca9f2-d006-6cab-872b-01cf54f6e8ce
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

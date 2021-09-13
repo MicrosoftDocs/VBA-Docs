@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.LeftPadding
 ms.assetid: 6b6d0829-1c61-db95-f955-863df4827972
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

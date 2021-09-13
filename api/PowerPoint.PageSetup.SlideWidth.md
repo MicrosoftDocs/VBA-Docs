@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PageSetup.SlideWidth
 ms.assetid: 671d3962-a4d0-fcca-009e-784abaedbd8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

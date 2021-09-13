@@ -8,7 +8,7 @@ api_name:
 - Excel.Comment.Creator
 ms.assetid: c0765a60-a99b-ea10-b708-549222dc4e95
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

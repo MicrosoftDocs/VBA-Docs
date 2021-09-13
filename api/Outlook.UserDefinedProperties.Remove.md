@@ -8,7 +8,7 @@ api_name:
 - Outlook.UserDefinedProperties.Remove
 ms.assetid: 69bfb78a-0add-2c28-99e5-50a6686c7790
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

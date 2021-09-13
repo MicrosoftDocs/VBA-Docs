@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.DashStyle
 ms.assetid: b1a6f135-ca68-5399-9156-3044e99bf3ab
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkBusinessCardControl.Click
 ms.assetid: 355058c3-ab60-f63a-6cdc-7d75a8a7e77a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

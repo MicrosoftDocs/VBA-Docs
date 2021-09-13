@@ -8,7 +8,7 @@ api_name:
 - Word.LegendKey.Shadow
 ms.assetid: 4a8ebe9a-819a-27ac-2afd-63231955a779
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

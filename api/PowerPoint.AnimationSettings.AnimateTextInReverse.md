@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings.AnimateTextInReverse
 ms.assetid: cceba8ad-9896-10ef-5c11-7c93d370c82c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

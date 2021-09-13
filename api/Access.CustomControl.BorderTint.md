@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.BorderTint
 ms.assetid: 30e29d2f-df31-457d-eb2d-520d6e6bb9a4
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

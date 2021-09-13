@@ -8,7 +8,7 @@ api_name:
 - Word.Document.UserControl
 ms.assetid: 34ab71eb-397e-4c14-dfbe-d3f29f84c753
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

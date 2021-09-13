@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforeRemoteChange
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

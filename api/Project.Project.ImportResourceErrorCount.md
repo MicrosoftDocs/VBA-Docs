@@ -8,7 +8,7 @@ api_name:
 - Project.Project.ImportResourceErrorCount
 ms.assetid: 4366d326-5888-4846-5ea0-a1e5349d03ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

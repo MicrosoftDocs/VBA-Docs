@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.StEyx
 ms.assetid: 6a637f86-3ef6-dc6a-fe21-51693c814159
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetView.DisplayZeros
 ms.assetid: 7adc9302-f937-326b-40b1-feb031799736
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

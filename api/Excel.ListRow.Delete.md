@@ -8,7 +8,7 @@ api_name:
 - Excel.ListRow.Delete
 ms.assetid: fdba9c37-b1a7-3ed7-2665-9f2720ac7d8a
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

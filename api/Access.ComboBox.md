@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox
 ms.assetid: 1cf508d5-023e-eb38-3991-71e82b2a4e7e
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

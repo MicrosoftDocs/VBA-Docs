@@ -8,7 +8,7 @@ api_name:
 - Project.Task.Baseline3DeliverableStart
 ms.assetid: 9e62f3a1-c760-2ce7-0d73-81ff04be8df5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

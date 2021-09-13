@@ -8,7 +8,7 @@ api_name:
 - Excel.TreeviewControl
 ms.assetid: 32a5e647-14e0-d2a8-05f7-a01db9250a88
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

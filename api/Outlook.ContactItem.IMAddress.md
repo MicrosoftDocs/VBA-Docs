@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.IMAddress
 ms.assetid: d7f916b0-aa5b-872d-0928-bbab5000ac75
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

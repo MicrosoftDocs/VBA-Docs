@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 6221823d-4b8c-a16f-09d9-535ef36bfd58
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # VisGraphicItemTypes enumeration (Visio)

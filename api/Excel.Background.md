@@ -8,7 +8,7 @@ api_name:
 - Excel.Background
 ms.assetid: f20b2bfe-4f10-8300-be78-7b37135445a4
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

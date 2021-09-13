@@ -8,7 +8,7 @@ api_name:
 - Office.LanguageSettings.LanguagePreferredForEditing
 ms.assetid: 345e29df-6cb7-13cc-a8ec-22196f38fc62
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

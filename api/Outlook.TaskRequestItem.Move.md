@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.Move
 ms.assetid: 9a33da92-aa10-fe5a-b5d2-9c68be1886e5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

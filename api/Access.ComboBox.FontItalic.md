@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.FontItalic
 ms.assetid: 57a1a671-1001-e614-ff10-8b5e7a16ca43
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

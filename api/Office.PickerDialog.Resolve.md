@@ -8,7 +8,7 @@ api_name:
 - Office.PickerDialog.Resolve
 ms.assetid: 50b1792a-ecf0-ab66-6a9d-7f72c788d859
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

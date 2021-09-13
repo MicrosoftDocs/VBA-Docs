@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.MarkComplete
 ms.assetid: e8641735-8bce-6175-d1a7-eb9a69ed8977
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

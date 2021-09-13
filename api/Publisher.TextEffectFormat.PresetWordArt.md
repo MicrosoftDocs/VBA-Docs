@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.PresetWordArt
 ms.assetid: 0b78499e-1a66-143b-91b0-2efb66617017
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

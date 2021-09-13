@@ -8,7 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.IncrementRotationY
 ms.assetid: 54260253-c914-6600-60ef-17bdde12be59
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

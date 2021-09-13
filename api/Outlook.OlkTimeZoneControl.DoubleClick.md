@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.DoubleClick
 ms.assetid: 2d04a3fc-a7f6-f851-7462-6d9adc95884b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

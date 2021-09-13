@@ -8,7 +8,7 @@ api_name:
 - Word.Sections.Last
 ms.assetid: 57b1a019-8998-861a-6662-da0696df9c86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

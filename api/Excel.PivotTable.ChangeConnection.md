@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ChangeConnection
 ms.assetid: 189c7ccc-d31c-dae8-f203-d590d1e46b82
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

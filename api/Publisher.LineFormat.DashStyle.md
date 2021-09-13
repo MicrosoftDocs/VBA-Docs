@@ -8,7 +8,7 @@ api_name:
 - Publisher.LineFormat.DashStyle
 ms.assetid: c2904350-89c1-2fc0-5bae-86f5193c8732
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

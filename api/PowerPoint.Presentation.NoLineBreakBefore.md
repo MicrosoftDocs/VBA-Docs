@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.NoLineBreakBefore
 ms.assetid: d7f7f559-cf20-ef3f-60aa-122dc28da203
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

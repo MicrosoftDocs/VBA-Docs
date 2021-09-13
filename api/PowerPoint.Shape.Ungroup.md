@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.Ungroup
 ms.assetid: 2d0447df-7356-35e7-972e-e763ac1b3b8e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

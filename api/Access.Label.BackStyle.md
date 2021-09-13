@@ -8,7 +8,7 @@ api_name:
 - Access.Label.BackStyle
 ms.assetid: 27657ddf-0bd4-d8cc-61ed-39811c4269b3
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

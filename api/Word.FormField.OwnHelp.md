@@ -8,7 +8,7 @@ api_name:
 - Word.FormField.OwnHelp
 ms.assetid: a066ffc1-89d3-12d4-0bf1-bf338679d2d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

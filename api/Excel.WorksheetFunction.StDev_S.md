@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.StDev_S
 ms.assetid: 8c62edde-7978-8b75-8554-2a1a77a5f0e2
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

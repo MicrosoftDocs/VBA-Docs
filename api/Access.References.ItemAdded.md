@@ -8,7 +8,7 @@ api_name:
 - Access.References.ItemAdded
 ms.assetid: c84b2bd3-42ce-be34-8a5c-ad3cdf1c3f63
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

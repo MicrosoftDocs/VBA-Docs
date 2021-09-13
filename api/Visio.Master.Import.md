@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.Import
 ms.assetid: 3b13025f-1a83-0dcf-41e1-03cd83dfc7be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

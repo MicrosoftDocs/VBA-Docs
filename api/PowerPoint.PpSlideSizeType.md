@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpSlideSizeType
 ms.assetid: cfb46d0b-35e3-ac11-1052-a8865ba40aeb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

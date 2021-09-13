@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItems.Creator
 ms.assetid: 9d055e55-5ca3-a763-cd0b-acb742f55d12
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

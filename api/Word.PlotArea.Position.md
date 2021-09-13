@@ -8,7 +8,7 @@ api_name:
 - Word.PlotArea.Position
 ms.assetid: 2556f373-2926-a485-76d6-8f026d408c30
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

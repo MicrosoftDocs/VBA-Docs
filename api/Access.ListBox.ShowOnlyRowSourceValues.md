@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ShowOnlyRowSourceValues
 ms.assetid: 35fc7924-ba76-d322-99ae-f5e355536bc0
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

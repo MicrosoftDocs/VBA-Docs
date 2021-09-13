@@ -8,7 +8,7 @@ api_name:
 - Outlook.Views.Count
 ms.assetid: cbdd4b27-6383-0df9-2b8a-715fc40f1eb6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

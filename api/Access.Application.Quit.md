@@ -8,7 +8,7 @@ api_name:
 - Access.Application.Quit
 ms.assetid: 075ad885-f25d-ea2d-bf74-8ec915265c63
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

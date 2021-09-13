@@ -8,7 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.GetOccurrence
 ms.assetid: 2a0cd7d2-d16d-7b07-eb5d-43df0bbf022f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

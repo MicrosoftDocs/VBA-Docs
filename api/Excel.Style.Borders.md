@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.Borders
 ms.assetid: 7da8309e-f01f-b131-b462-f974dde67007
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

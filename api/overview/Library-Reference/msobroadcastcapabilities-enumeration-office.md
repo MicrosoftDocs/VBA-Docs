@@ -3,7 +3,7 @@ title: MsoBroadcastCapabilities enumeration (Office)
 ms.assetid: 445ff0f7-fcb1-d65a-b055-189c268e2076
 ms.date: 01/31/2019
 ms.prod: office
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

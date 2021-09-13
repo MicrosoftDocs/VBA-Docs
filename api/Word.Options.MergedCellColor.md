@@ -8,7 +8,7 @@ api_name:
 - Word.Options.MergedCellColor
 ms.assetid: 4f26b379-63fc-db31-cd9c-0a64ed227755
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

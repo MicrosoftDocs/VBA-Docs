@@ -8,7 +8,7 @@ api_name:
 - Office.ActiveControl
 ms.assetid: 069cdfc6-3457-f022-122a-f0daf2c0cc4d
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

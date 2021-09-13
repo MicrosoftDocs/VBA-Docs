@@ -3,7 +3,7 @@ title: Shell constants
 ms.prod: office
 ms.assetid: 76b5cc9e-e896-f658-7d23-ca850305a16b
 ms.date: 12/11/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

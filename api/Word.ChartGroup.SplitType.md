@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.SplitType
 ms.assetid: 0bebc2f8-4dd6-8a74-993b-9e16357f38d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

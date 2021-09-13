@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.HasSmartArt
 ms.assetid: 949d84a0-cdce-4351-70b7-f7dc92f3d5aa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

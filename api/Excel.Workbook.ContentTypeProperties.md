@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ContentTypeProperties
 ms.assetid: a2919232-3fa2-7f37-00c2-48eb3edb10fd
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.Categories
 ms.assetid: c4099fe0-23af-a4cb-dfef-92cbe0c6e600
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

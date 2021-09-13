@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextStyles.Count
 ms.assetid: c8620d07-d5ad-68f6-67c6-0179da441a4c
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

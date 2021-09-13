@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.Mileage
 ms.assetid: e4d08bb4-799d-f0ca-dd25-4f9ebd17d5ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

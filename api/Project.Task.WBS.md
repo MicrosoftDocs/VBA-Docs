@@ -5,7 +5,7 @@ api_name:
 - Project.Task.WBS
 ms.assetid: 21268405-15da-f12f-2beb-a8e757ed5752
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Conversation.Parent
 ms.assetid: e1b3f294-227a-27d9-84db-042da1be0caa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.EventProcPrefix
 ms.assetid: 89611b46-0c56-d855-9e4d-d1a301f300ae
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

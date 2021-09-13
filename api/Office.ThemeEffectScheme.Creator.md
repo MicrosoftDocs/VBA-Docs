@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeEffectScheme.Creator
 ms.assetid: 97e31f94-3d2a-9b7b-8249-fe952e4187f7
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

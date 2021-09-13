@@ -3,7 +3,7 @@ title: LanguageSettings members (Office)
 ms.prod: office
 ms.assetid: 068383c2-78f1-2299-2087-9eaa3409e6fe
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

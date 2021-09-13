@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeDistributionList.GetFreeBusy
 ms.assetid: b7b5ac5a-3973-a9ed-e716-50491cd5d9da
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.ShowCard
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.FileSize
 ms.assetid: 8bad7bc0-7381-9bd8-3db8-5841e41ccb34
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

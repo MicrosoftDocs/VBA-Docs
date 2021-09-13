@@ -8,7 +8,7 @@ api_name:
 - Office.AtEndOfLine
 ms.assetid: a5b02fc7-362c-474d-7238-64c0783277ce
 ms.date: 12/19/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

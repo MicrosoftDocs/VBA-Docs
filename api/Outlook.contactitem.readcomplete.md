@@ -3,7 +3,7 @@ title: ContactItem.ReadComplete event (Outlook)
 ms.assetid: 1700ad85-3113-e937-9eb3-be78246fd4d5
 ms.date: 06/08/2017
 ms.prod: outlook
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CustomProperties.Add
 ms.assetid: d4240861-d58c-783d-a441-d20f66881fd9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.LegendEntries.Application
 ms.assetid: 41c01d34-0f89-c898-4b8a-43daf05d9a8d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

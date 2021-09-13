@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folders.Parent
 ms.assetid: 4fe483ec-7e6e-ca82-8a1d-d039a7b9e89c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

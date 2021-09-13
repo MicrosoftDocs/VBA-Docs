@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnBeforeNavigate
 ms.assetid: 89b73b25-a815-f286-7777-bd19cb39b402
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.Report
 ms.assetid: c7c76bef-92cc-b9e4-bdcb-11046611effd
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

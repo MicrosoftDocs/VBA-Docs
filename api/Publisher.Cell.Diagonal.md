@@ -8,7 +8,7 @@ api_name:
 - Publisher.Cell.Diagonal
 ms.assetid: 4ec93690-38ef-7434-55a5-419f14c9ea73
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

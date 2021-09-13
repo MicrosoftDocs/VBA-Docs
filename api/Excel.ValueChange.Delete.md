@@ -8,7 +8,7 @@ api_name:
 - Excel.ValueChange.Delete
 ms.assetid: 69b0c9e0-42a2-c282-67d1-ca1b0299e08a
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

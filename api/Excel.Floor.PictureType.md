@@ -8,7 +8,7 @@ api_name:
 - Excel.Floor.PictureType
 ms.assetid: 73ddeb38-15b6-1da3-8059-42153a73c118
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

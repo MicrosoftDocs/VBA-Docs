@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PicturePages
 ms.assetid: a1266a43-3e1c-33f3-ae18-a7306723cc11
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

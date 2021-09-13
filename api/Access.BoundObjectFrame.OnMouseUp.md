@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnMouseUp
 ms.assetid: 333e2527-f190-e8b1-0f3b-789f4e37bff6
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

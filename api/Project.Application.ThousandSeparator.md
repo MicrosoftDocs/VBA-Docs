@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ThousandSeparator
 ms.assetid: 27e0548f-2def-1aa6-6ffb-46fbeba85dca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

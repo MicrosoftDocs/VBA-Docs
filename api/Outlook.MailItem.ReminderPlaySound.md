@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.ReminderPlaySound
 ms.assetid: 7fd10182-445f-2aa6-db9f-2534d66fe0ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

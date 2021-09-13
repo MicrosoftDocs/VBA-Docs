@@ -8,7 +8,7 @@ api_name:
 - Visio.Toolbar
 ms.assetid: 46123342-0a39-bb65-f442-7b2737e4cf04
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

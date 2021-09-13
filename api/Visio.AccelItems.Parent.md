@@ -8,7 +8,7 @@ api_name:
 - Visio.AccelItems.Parent
 ms.assetid: e2da1e5c-c173-aab8-af6c-9cddfbf6449d
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

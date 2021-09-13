@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.AutoLabel
 ms.assetid: 00feb954-30a3-f7ba-591c-41679e4d8f4b
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

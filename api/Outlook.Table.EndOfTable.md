@@ -8,7 +8,7 @@ api_name:
 - Outlook.Table.EndOfTable
 ms.assetid: 8c185230-65ce-1b66-7b63-8de3533dea86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

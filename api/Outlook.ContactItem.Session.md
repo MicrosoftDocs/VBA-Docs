@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Session
 ms.assetid: b67eb0d4-9b97-2be7-fc24-ecdd58fb01ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

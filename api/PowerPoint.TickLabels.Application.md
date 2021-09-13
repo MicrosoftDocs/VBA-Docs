@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TickLabels.Application
 ms.assetid: e8a228fe-5fce-f19d-6e6a-e9045ef4655f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

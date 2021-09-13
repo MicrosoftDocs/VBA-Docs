@@ -5,7 +5,7 @@ api_name:
 - Outlook.DocumentItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 09ec6f62-e5c6-1884-ba77-e4865978d0ba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

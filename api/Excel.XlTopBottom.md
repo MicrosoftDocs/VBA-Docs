@@ -5,7 +5,7 @@ api_name:
 - Excel.XlTopBottom
 ms.assetid: f398b424-6150-0aa8-be99-218ba2d913b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

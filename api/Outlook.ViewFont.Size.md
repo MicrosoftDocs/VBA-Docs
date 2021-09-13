@@ -8,7 +8,7 @@ api_name:
 - Outlook.ViewFont.Size
 ms.assetid: 3eecba24-6e4e-637f-bffb-21def66127d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

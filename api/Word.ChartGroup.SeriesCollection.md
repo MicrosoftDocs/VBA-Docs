@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.SeriesCollection
 ms.assetid: 4b4b7383-0967-cd2f-979c-eda9ef691459
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

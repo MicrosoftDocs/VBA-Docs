@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabel.FormulaLocal
 ms.assetid: 3e6849b4-defb-738c-ef78-93d7e648d7b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

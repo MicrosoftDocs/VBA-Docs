@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.Salutation
 ms.assetid: 115a740f-720f-a7d7-df68-148cd36b22c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

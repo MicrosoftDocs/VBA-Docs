@@ -8,7 +8,7 @@ api_name:
 - Project.Project.ProjectGuideUseDefaultContent
 ms.assetid: 6105b6f4-1508-8289-32e2-4dcbbf4dd4d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

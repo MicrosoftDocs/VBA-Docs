@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.GetTop
 ms.assetid: bbee5dec-78fd-efd9-1368-2089a44d9bff
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

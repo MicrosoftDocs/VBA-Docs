@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.ShapeRange
 ms.assetid: 0674c2dd-72ab-df1d-d972-e2909eb27de7
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

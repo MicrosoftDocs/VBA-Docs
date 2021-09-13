@@ -8,7 +8,7 @@ api_name:
 - Word.PageSetup.SetAsTemplateDefault
 ms.assetid: 3938fd43-6850-d991-be89-b59ef744ac97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

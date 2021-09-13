@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.NoAging
 ms.assetid: 9461e00f-5332-fa43-edcf-53442de085fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Label.MouseIcon Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 6cbc5361-fd1a-5990-31c8-b294fee9dbb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

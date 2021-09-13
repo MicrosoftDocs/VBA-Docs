@@ -8,7 +8,7 @@ api_name:
 - Word.Options.OMathAutoBuildUp
 ms.assetid: 37d1a568-2c5c-9a06-4474-5f06802d7fbb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

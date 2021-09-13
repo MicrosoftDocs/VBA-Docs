@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TickLabels.Orientation
 ms.assetid: 72ec5032-4d66-4536-adf3-1aa41056ac6a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

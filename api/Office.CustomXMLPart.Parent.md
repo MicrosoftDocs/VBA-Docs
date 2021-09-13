@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLPart.Parent
 ms.assetid: 024c2fd5-81fc-fcdd-c5e5-b65fc2434a79
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

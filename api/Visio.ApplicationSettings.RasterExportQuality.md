@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.RasterExportQuality
 ms.assetid: 6864bbfd-bb2d-721f-4146-f66974318929
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.FillFormat.TextureVerticalScale
 ms.assetid: 270d5d58-bf3d-033f-bdcb-30a5080bf9c7
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.ShowAllRecords
 ms.assetid: 765ead1a-d626-3a54-1831-1490fc8daacc
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

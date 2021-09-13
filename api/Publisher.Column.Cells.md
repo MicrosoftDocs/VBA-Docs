@@ -8,7 +8,7 @@ api_name:
 - Publisher.Column.Cells
 ms.assetid: 6c8b33f9-61f0-086c-1ceb-996221aa3a02
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

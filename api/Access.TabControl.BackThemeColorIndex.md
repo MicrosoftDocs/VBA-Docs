@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.BackThemeColorIndex
 ms.assetid: 696df45f-b0b7-f0ec-122e-1bd2241b09a7
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

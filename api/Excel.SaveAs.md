@@ -8,7 +8,7 @@ api_name:
 - Excel.SaveAs
 ms.assetid: d8b3e963-e50a-3307-9abf-4ea37c46f114
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

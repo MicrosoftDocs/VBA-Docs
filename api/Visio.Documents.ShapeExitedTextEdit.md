@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.ShapeExitedTextEdit
 ms.assetid: bbfaa850-b3aa-3f61-ccc7-05b2387a14f8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

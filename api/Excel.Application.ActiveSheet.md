@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ActiveSheet
 ms.assetid: 6ed42d87-2ad5-eecc-ad5b-4c92617a04bc
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

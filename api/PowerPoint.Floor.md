@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Floor
 ms.assetid: ed9ff3d1-8001-840c-d26e-7513ebe73ae9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

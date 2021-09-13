@@ -5,7 +5,7 @@ api_name:
 - Project.GroupCriterion2.FontItalic
 ms.assetid: 12a5735a-8e6f-4da3-2c4f-9669e2daf80a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

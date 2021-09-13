@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatCondition.Interior
 ms.assetid: 3d1dab0b-719e-791c-c22a-61b273f2ade0
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.XlRobustConnect
 ms.assetid: 124b8c0f-5120-043e-f226-80d0a7fefe15
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

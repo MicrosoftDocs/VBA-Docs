@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Load
 ms.assetid: a7547066-e1eb-6cdc-a170-2ee222081720
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

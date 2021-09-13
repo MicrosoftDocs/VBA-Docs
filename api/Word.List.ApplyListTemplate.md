@@ -8,7 +8,7 @@ api_name:
 - Word.List.ApplyListTemplate
 ms.assetid: 55fbbdef-880b-5b3c-ada3-4f8d423c68b3
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

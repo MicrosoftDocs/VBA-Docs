@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DStDevP
 ms.assetid: ca5fb7ad-d91e-1222-e99a-8c55f34482f3
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowMainTextLayer
 ms.assetid: 0e2b3dd8-8e42-5f53-abc0-849daa5683bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

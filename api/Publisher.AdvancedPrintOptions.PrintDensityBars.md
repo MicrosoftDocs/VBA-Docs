@@ -8,7 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintDensityBars
 ms.assetid: b98baed0-e2ba-bf69-78e2-d60125d7f57a
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

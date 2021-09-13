@@ -8,7 +8,7 @@ api_name:
 - Visio.MasterShortcuts.Paste
 ms.assetid: 6ec6f938-35a1-3fc5-8ff8-5fd39bc8ad79
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

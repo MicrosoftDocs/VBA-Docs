@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Delete
 ms.assetid: fef1973c-af98-0f3b-454b-023c181ee11d
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

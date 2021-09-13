@@ -3,7 +3,7 @@ title: Shape.SoftEdge property (Project)
 ms.prod: project-server
 ms.assetid: fdb3ce07-488b-163c-63a2-de9ee80f2887
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

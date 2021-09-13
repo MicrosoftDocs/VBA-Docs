@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.FontUnderline
 ms.assetid: e5839cc1-d600-d46b-0433-d50aaadd79ca
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

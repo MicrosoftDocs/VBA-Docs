@@ -8,7 +8,7 @@ api_name:
 - Word.OMathAutoCorrect
 ms.assetid: 933b77bd-335e-4f4c-026d-8141bd5fc6e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

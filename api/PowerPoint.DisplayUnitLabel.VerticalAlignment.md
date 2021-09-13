@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DisplayUnitLabel.VerticalAlignment
 ms.assetid: 247def05-2d24-c0aa-a3b6-0e2b548ee10e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Application
 ms.assetid: ccce55d3-b2ec-bd03-f1f5-46df97b5a07d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

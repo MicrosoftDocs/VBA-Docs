@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressList.GetContactsFolder
 ms.assetid: 9ea91624-bd7d-af64-7220-a2d9b659787a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

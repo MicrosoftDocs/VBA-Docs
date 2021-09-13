@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.Connection
 ms.assetid: a576c5d2-113c-cbd0-1ad2-aa46591944de
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

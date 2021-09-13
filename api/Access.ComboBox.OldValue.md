@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OldValue
 ms.assetid: ed5ddacb-c447-02b1-3de1-3762a7540bff
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

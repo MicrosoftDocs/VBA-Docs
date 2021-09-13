@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.BorderStyle
 ms.assetid: 9135151b-2e00-ac34-9c82-a85c76b97eb5
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Report.Count
 ms.assetid: 72848003-cdf4-586b-c059-6c821104fbda
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.RoutingSlip.Reset
 ms.assetid: 904f64ba-2828-3940-acc0-324845bb055d
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

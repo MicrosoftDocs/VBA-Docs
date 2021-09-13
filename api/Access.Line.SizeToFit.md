@@ -8,7 +8,7 @@ api_name:
 - Access.Line.SizeToFit
 ms.assetid: ee0912e1-ccb2-5c3c-db09-9f4a19fa992c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

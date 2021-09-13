@@ -8,7 +8,7 @@ api_name:
 - Visio.Pages.GetNames
 ms.assetid: 9e3c9e6a-94fe-aa1f-0591-60e6f7314b7f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

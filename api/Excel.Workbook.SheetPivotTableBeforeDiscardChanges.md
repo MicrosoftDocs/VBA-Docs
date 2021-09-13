@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SheetPivotTableBeforeDiscardChanges
 ms.assetid: e8f1ae21-c9ed-6f4d-a85c-d6768060a66f
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

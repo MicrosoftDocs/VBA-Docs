@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.Reflection
 ms.assetid: 75adc2d0-9d8f-1c22-a360-8c43e776499e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

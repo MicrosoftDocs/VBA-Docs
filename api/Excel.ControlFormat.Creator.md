@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.Creator
 ms.assetid: d3174b4f-70ad-4026-2205-8f71c8f1338a
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

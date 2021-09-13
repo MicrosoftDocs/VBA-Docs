@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.EnableItemSelection
 ms.assetid: ae55f88a-618f-3063-2019-a993a3146b67
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

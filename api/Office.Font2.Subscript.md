@@ -5,7 +5,7 @@ api_name:
 - Office.Font2.Subscript
 ms.assetid: 904325fa-e08e-999b-dd11-ef8c3bcc124c
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

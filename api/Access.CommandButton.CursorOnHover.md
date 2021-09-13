@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.CursorOnHover
 ms.assetid: 98bfdba4-4b42-8bbc-e1d2-d68cc21defc3
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

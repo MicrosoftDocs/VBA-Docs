@@ -5,7 +5,7 @@ api_name:
 - Word.WdKeyCategory
 ms.assetid: 8389e00c-776f-5066-bfeb-f1f81ac85319
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

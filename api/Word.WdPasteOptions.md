@@ -5,7 +5,7 @@ api_name:
 - Word.WdPasteOptions
 ms.assetid: a5c03792-5662-9fa0-1c77-cb7c77cd32b2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarControls.Count
 ms.assetid: 1c2b4afd-2b31-bcee-53b5-6d9761203be1
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.ItemsAcross
 ms.assetid: 6fe60a67-00a0-8551-73e9-d27f358a7e8e
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

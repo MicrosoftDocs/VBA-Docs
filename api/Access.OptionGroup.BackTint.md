@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.BackTint
 ms.assetid: 4e33a712-af8f-bffa-f6c8-0502fb292813
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

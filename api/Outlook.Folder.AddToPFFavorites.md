@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder.AddToPFFavorites
 ms.assetid: d3926957-bf6d-ad4d-9c24-bfc5037ba9fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

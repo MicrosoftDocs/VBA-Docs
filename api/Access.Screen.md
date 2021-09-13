@@ -8,7 +8,7 @@ api_name:
 - Access.Screen
 ms.assetid: 00743775-071b-9ccd-7687-f3b992e9346e
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

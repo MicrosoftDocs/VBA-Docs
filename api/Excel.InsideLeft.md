@@ -8,7 +8,7 @@ api_name:
 - Excel.InsideLeft
 ms.assetid: 04c9291b-efbf-4deb-d6b4-373473531ba6
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

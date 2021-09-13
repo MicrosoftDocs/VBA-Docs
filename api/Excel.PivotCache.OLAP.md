@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotCache.OLAP
 ms.assetid: d40d3a71-0a27-c4a6-0c3b-47ab7a1a0e06
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.Class
 ms.assetid: c745856b-c447-af0a-ed9e-9945d3917d10
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

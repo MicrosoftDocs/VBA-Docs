@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbTableAutoFormatType
 ms.assetid: 5ed0b262-6f16-f99a-a5ef-bf653acbd1f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

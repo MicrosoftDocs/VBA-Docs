@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.XML
 ms.assetid: d7a810ea-10c0-5ac6-b8dd-55a934e5df42
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.BorderWidth
 ms.assetid: 75994c77-6a4e-f5bd-82ce-38343dfe79bc
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

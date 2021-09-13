@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.GridlineWidthBottom
 ms.assetid: bf5457cf-a762-2f12-7468-0372aedbe9b1
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Line.Height
 ms.assetid: 51a38ab5-c631-6707-6db5-8cdbc8c5a97f
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

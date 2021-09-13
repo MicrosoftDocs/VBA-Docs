@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ValidationRule
 ms.assetid: d3a605d6-cb17-fc4a-0e01-72a21416f980
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

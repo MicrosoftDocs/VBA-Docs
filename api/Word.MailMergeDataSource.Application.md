@@ -8,7 +8,7 @@ api_name:
 - Word.MailMergeDataSource.Application
 ms.assetid: f4831ac1-36a6-b210-2aad-179b52d6b7d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

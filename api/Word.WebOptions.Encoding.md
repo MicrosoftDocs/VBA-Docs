@@ -8,7 +8,7 @@ api_name:
 - Word.WebOptions.Encoding
 ms.assetid: 4156a3cc-744f-5a62-5961-a26e0e155567
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

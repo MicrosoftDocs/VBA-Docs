@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeAutoLetterWizard
 ms.assetid: 3a11e89f-7f02-e20c-4dcb-0bcf2724c043
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

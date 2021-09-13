@@ -8,7 +8,7 @@ api_name:
 - Publisher.PictureFormat.Recolor
 ms.assetid: 42bc2280-b6d0-862a-7118-38ec1513b9c7
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.IconSetCondition.Application
 ms.assetid: a61b039d-9b67-994b-4e00-f7b8a34a63e1
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

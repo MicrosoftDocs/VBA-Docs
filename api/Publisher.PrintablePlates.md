@@ -5,7 +5,7 @@ api_name:
 - Publisher.PrintablePlates
 ms.assetid: 40766b1a-64b3-e18a-2c67-c3db4c4ceb26
 ms.date: 05/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

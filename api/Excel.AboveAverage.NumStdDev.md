@@ -8,7 +8,7 @@ api_name:
 - Excel.AboveAverage.NumStdDev
 ms.assetid: 7eb6584a-04ba-ba8d-4ccf-a2ed503c148a
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.LayoutSubtotalLocation
 ms.assetid: 77f250da-7bc3-430d-c6ef-53f79588ecf2
 ms.date: 05/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

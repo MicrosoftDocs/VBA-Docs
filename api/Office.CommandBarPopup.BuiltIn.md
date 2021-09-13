@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.BuiltIn
 ms.assetid: 7cf5322a-b970-39da-c200-fc8303d60f29
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

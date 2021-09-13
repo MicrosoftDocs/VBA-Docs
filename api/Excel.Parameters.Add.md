@@ -8,7 +8,7 @@ api_name:
 - Excel.Parameters.Add
 ms.assetid: 043276ed-4af7-3b7a-dbfb-549489d3a127
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Styles.GetNames
 ms.assetid: f0bf6bd1-77a4-4dbe-83d7-6fbd4adbbf0d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

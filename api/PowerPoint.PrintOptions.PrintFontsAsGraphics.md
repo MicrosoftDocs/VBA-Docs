@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PrintOptions.PrintFontsAsGraphics
 ms.assetid: f782be2c-9787-72e3-139e-163041e066f7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Hwnd
 ms.assetid: ed98b59c-1ebf-f319-f986-3406e4fdb766
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

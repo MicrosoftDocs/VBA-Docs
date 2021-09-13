@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.EffectInformation.Application
 ms.assetid: 52dcd295-5996-0ae4-9169-5577404882de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

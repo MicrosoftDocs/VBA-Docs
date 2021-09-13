@@ -8,7 +8,7 @@ api_name:
 - Access.DependencyObjects.Count
 ms.assetid: 4d3d9995-037a-b124-0e06-9766b9f2d69b
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

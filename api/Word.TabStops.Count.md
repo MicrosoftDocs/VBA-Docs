@@ -8,7 +8,7 @@ api_name:
 - Word.TabStops.Count
 ms.assetid: 26a15104-70c8-b3f2-8ec1-fb1544a10da4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

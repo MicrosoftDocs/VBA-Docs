@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.SumProduct
 ms.assetid: 26562c80-1575-3019-f98c-9c974a9b863f
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceMember.Email
 ms.assetid: 3539becc-bde4-9331-432c-e907523975a7
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

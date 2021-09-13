@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Layout
 ms.assetid: 18453d2c-d719-1433-124e-2e05e3009cd1
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

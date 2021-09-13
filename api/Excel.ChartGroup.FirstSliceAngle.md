@@ -8,7 +8,7 @@ api_name:
 - Excel.ChartGroup.FirstSliceAngle
 ms.assetid: a6bded62-d757-fc67-4677-7f9c12fd6395
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

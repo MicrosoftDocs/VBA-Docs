@@ -5,7 +5,7 @@ api_name:
 - Project.Task.IsPublished
 ms.assetid: ace2c679-37fe-a3fc-b5f4-de55128efd05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

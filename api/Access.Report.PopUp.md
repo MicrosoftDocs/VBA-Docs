@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PopUp
 ms.assetid: 76e82181-c5d5-01b2-c7ce-b2c78f237a75
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

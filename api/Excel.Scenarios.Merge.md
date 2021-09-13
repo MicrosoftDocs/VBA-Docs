@@ -8,7 +8,7 @@ api_name:
 - Excel.Scenarios.Merge
 ms.assetid: db956914-aec1-ed2a-e4fa-d0f9c15ec882
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

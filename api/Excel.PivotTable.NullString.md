@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.NullString
 ms.assetid: f9d678d1-5e9f-8d3b-1f9a-73e8679ae499
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatColor.Creator
 ms.assetid: 8167e66c-152d-efd7-9b8a-d98f11d4ce8c
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

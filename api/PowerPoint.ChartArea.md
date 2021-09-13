@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartArea
 ms.assetid: 2c8bd84e-18e7-6417-de4d-d643064e20f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

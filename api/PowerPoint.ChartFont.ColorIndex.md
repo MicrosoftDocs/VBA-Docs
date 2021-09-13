@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ChartFont.ColorIndex
 ms.assetid: 2f0765bf-9a3b-999a-2dd6-17009fbd619d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

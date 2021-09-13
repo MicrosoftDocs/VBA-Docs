@@ -8,7 +8,7 @@ api_name:
 - Word.Range.InsertCrossReference
 ms.assetid: 5899db5b-254c-17ac-4c4b-943a5a5b44cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.UniqueValues.Interior
 ms.assetid: 303e650f-eeb7-20ed-1265-c1a735c4f3ba
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

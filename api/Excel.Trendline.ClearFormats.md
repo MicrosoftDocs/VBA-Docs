@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendline.ClearFormats
 ms.assetid: 5519cfa5-4a1f-8880-8f00-a6843a6b57e3
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

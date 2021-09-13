@@ -8,7 +8,7 @@ api_name:
 - Excel.Page.CenterFooter
 ms.assetid: b8fc6bc5-9cf3-3b47-5d9f-9ade28c2d775
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

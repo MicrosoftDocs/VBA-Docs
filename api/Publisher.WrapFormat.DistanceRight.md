@@ -8,7 +8,7 @@ api_name:
 - Publisher.WrapFormat.DistanceRight
 ms.assetid: f7d15011-c4a8-98ca-8303-690f88f564b1
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEDBConnection.CancelRefresh
 ms.assetid: 28272852-36f8-c96c-0901-5d0bf237527e
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

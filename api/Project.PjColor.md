@@ -5,7 +5,7 @@ api_name:
 - Project.PjColor
 ms.assetid: 46108cf5-1e35-9774-b424-6c84223d9aac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

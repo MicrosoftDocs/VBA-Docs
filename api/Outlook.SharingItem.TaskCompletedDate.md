@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.TaskCompletedDate
 ms.assetid: 4e255fd1-5a67-da55-e1e0-2ac8a63231ab
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

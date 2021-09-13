@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.Tracking
 ms.assetid: 9e110e21-be0c-ec49-6bc4-1ff210de141c
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

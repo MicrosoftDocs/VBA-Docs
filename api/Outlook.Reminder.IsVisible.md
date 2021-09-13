@@ -8,7 +8,7 @@ api_name:
 - Outlook.Reminder.IsVisible
 ms.assetid: e99f8fab-32fa-94ef-be9b-523b580fa551
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

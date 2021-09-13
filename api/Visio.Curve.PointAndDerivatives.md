@@ -8,7 +8,7 @@ api_name:
 - Visio.Curve.PointAndDerivatives
 ms.assetid: 2df3753b-f0f5-37ff-75d9-f63d6fc491dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

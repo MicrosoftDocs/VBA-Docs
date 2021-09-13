@@ -8,7 +8,7 @@ api_name:
 - Outlook.NoteItem.CreationTime
 ms.assetid: 48b48a2f-9020-984c-e9d5-e92da465e1bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

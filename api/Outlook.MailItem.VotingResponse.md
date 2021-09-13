@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.VotingResponse
 ms.assetid: a35c8dd1-57d6-0357-9062-6596a802b8a1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

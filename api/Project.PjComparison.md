@@ -5,7 +5,7 @@ api_name:
 - Project.PjComparison
 ms.assetid: 80a06c71-4cb7-a83c-16bb-36fb97bbc495
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

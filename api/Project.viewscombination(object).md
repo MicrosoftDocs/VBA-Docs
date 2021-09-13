@@ -3,7 +3,7 @@ title: ViewsCombination object (Project)
 ms.prod: project-server
 ms.assetid: eb9549ed-d6af-29ba-0e11-74984d954f38
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

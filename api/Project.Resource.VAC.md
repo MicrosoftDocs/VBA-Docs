@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.VAC
 ms.assetid: ad0f461c-5f8d-1bcd-e5c7-9d127030b291
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

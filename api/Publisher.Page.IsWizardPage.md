@@ -8,7 +8,7 @@ api_name:
 - Publisher.Page.IsWizardPage
 ms.assetid: 09c1352d-6760-ad54-aa95-211727c968b3
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

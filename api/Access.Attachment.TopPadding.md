@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.TopPadding
 ms.assetid: 18c89f2e-e276-6c9f-b317-5fa931dd7003
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

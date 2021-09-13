@@ -8,7 +8,7 @@ api_name:
 - Outlook.CardView
 ms.assetid: cdac229b-f2b6-9ecb-e1a7-b53509426570
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.ThemeFontScheme.MajorFont
 ms.assetid: e69f7f10-28cb-7113-91cf-f4d7dc2064dc
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBar.ShowPopup
 ms.assetid: e501b7d2-2606-976c-b391-1aa8fa07f105
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

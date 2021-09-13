@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.BorderShade
 ms.assetid: 66de642f-bdf7-58db-1ae5-ba859f6cdc02
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

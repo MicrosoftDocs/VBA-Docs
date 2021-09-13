@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.ProcessID
 ms.assetid: d089bfa9-83a4-1b44-80ab-f23c5198801f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

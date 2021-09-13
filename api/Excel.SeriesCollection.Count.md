@@ -8,7 +8,7 @@ api_name:
 - Excel.SeriesCollection.Count
 ms.assetid: 500d2632-89d7-176f-d2cc-71489b0daece
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

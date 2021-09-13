@@ -8,7 +8,7 @@ api_name:
 - Visio.MenuItems.Count
 ms.assetid: b1261b4a-6b79-224f-b941-f96988e796d2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

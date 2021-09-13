@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddMediaObjectFromEmbedTag
 ms.assetid: c463e7e2-8bac-8762-fec8-e1e84847907b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

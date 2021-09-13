@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleActions.ClearCategories
 ms.assetid: db594b52-1700-67a7-8445-338f7df254e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

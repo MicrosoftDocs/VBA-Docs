@@ -8,7 +8,7 @@ api_name:
 - Word.Font.NumberForm
 ms.assetid: 730ce7a1-a0f4-3ed8-d7a0-5b4039f56817
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArtFormat.Color
 ms.assetid: fb2fe2f7-d321-43d3-232d-db3b513dae43
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

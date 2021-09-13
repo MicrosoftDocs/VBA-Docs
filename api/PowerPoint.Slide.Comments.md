@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.Comments
 ms.assetid: 396c2d6b-f0cb-3ed8-94ae-6ee864d194c1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

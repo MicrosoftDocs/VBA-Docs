@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.Exit
 ms.assetid: bdff5a6a-fd28-f33e-7926-360d438b1e71
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

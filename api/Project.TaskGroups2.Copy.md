@@ -5,7 +5,7 @@ api_name:
 - Project.TaskGroups2.Copy
 ms.assetid: 7afc3518-e5bb-52be-0a45-edb436381250
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

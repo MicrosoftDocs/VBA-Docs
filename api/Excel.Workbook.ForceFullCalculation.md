@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ForceFullCalculation
 ms.assetid: 76f46d18-79e3-9828-d126-e221ae1a8157
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

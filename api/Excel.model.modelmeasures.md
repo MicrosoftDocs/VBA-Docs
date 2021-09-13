@@ -3,7 +3,7 @@ title: Model.ModelMeasures property (Excel)
 ms.assetid: b92f52fc-7c11-accc-bf3a-ba62c87daf71
 ms.date: 04/30/2019
 ms.prod: excel
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

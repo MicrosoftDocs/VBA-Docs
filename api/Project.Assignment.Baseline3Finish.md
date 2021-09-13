@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Baseline3Finish
 ms.assetid: a52d9f03-e7f0-b1a0-69bd-cc563162bb69
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

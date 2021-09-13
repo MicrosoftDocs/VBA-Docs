@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Gcd
 ms.assetid: 243cc3ae-d35d-66a1-2db5-d5542dec548e
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

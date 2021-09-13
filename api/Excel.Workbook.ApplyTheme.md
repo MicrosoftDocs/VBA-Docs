@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ApplyTheme
 ms.assetid: 11580293-22da-9154-20a0-6435b8870ac9
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

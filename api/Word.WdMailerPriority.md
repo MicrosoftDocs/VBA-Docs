@@ -5,7 +5,7 @@ api_name:
 - Word.WdMailerPriority
 ms.assetid: 82b17b91-ded6-a96c-70ef-e0230e7b6658
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Window.WindowState
 ms.assetid: 0be17839-28d5-6ba7-5f66-02504a4aa604
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

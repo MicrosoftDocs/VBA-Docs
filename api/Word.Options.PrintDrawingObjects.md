@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintDrawingObjects
 ms.assetid: 366ddc26-1cb0-fe48-8d54-ff9d5d3492b4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

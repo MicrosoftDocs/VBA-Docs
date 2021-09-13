@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.Attachments
 ms.assetid: 1a023cb6-5ca5-078b-a33d-61e754d99bb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.Crosses
 ms.assetid: 93390bc6-8d94-4bf3-257e-c20fce2a2c62
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

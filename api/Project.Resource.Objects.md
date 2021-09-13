@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Objects
 ms.assetid: b4d7e7ed-494d-1a8e-ac93-30d6c02a6183
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

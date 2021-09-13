@@ -8,7 +8,7 @@ api_name:
 - Excel.ThreeDFormat.Perspective
 ms.assetid: 9f31508e-c723-e55a-07a9-cef1bc526136
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

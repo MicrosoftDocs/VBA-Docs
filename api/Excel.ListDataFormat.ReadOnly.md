@@ -8,7 +8,7 @@ api_name:
 - Excel.ListDataFormat.ReadOnly
 ms.assetid: 978c9dc4-fc82-fb26-11f0-e333e43393b6
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

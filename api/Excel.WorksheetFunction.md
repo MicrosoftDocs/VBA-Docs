@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction
 ms.assetid: 7b1d5639-363d-632c-2cf0-2232562646b6
 ms.date: 04/03/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.OLEObject.ForeignType
 ms.assetid: efbbf903-12ba-e269-bb86-eb4ecc99e190
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

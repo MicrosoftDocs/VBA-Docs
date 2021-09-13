@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthors.Creator
 ms.assetid: a94deeeb-992f-ec40-9080-cb4aa6a6e1d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

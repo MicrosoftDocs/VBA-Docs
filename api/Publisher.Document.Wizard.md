@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.Wizard
 ms.assetid: 26603c80-2b03-9889-27d7-623e71f84b74
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

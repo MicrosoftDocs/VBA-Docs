@@ -8,7 +8,7 @@ api_name:
 - Excel.ShapeRange.SoftEdge
 ms.assetid: 49976464-fcc3-b7e0-a3aa-5d6873b0e857
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

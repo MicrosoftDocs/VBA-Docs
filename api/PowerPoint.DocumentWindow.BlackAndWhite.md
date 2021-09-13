@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.BlackAndWhite
 ms.assetid: 1363b7df-8de5-955f-60a7-682cd6b4c848
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

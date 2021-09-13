@@ -8,7 +8,7 @@ api_name:
 - Word.Application.PointsToMillimeters
 ms.assetid: b4933ff2-1d64-3ba2-8c28-69b7fa783358
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

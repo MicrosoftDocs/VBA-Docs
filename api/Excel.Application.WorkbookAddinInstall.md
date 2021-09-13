@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WorkbookAddinInstall
 ms.assetid: 955c8f2a-4647-ed7e-29f9-8d6d165898ec
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.OnKeyDown
 ms.assetid: 8300e663-ec50-a08f-7ee5-f8b5cf7e5db0
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

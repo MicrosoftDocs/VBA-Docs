@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.MouseDown
 ms.assetid: f3c569de-879d-aa27-77f2-22192731febf
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

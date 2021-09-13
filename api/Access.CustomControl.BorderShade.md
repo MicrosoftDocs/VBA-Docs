@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.BorderShade
 ms.assetid: 43cf768f-ad41-5729-e5bf-41d445b54efa
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

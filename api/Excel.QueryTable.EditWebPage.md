@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.EditWebPage
 ms.assetid: 4de607d1-266f-cbd4-c236-af748cfe0d03
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

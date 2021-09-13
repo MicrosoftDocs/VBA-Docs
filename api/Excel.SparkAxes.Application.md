@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkAxes.Application
 ms.assetid: ee7a581a-e0f8-a5bb-0ba6-01f0674da347
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

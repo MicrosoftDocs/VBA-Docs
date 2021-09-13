@@ -3,7 +3,7 @@ title: VisWebPageSettings object (Visio Save As Web)
 ms.prod: visio
 ms.assetid: 1f286540-2c46-4a2a-b133-2bfd6168db36
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.IsVisible
 ms.assetid: c403b7c0-ac77-a39d-cea0-1dbe585ba54f
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

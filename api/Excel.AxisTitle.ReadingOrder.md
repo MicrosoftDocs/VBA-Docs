@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.ReadingOrder
 ms.assetid: 5461e0ca-3233-ea24-3774-41c39171afe5
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

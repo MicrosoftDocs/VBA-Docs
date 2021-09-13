@@ -3,7 +3,7 @@ title: Chart.Format property (Project)
 ms.prod: project-server
 ms.assetid: 3ccd9fd1-5a70-4692-ffd5-9b04544554fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

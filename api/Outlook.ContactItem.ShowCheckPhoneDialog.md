@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ShowCheckPhoneDialog
 ms.assetid: 3ef93046-c2b0-5707-9bb1-4dbfb5d7366c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

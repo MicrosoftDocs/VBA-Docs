@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.SaveAs
 ms.assetid: ba8b85d7-8ca9-dcf5-12b4-4cabced743e6
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.OptionsInterfaceEx
 ms.assetid: da4dc69c-021f-7ecb-22f6-aebf1d9252dd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

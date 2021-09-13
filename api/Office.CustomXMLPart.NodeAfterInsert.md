@@ -8,7 +8,7 @@ api_name:
 - Office.CustomXMLPart.NodeAfterInsert
 ms.assetid: 7ea1ce05-9992-608b-bac9-95f5d80ff586
 ms.date: 01/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

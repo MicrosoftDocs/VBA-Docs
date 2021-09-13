@@ -8,7 +8,7 @@ api_name:
 - Word.CaptionLabel.Creator
 ms.assetid: b4850d7a-0ad4-2e77-7292-d5db4ed08355
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

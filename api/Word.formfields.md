@@ -3,7 +3,7 @@ title: FormFields object (Word)
 ms.prod: word
 ms.assetid: a44a0f57-123b-cade-e306-ba6dc179b619
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

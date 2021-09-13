@@ -8,7 +8,7 @@ api_name:
 - Excel.DataTable.Creator
 ms.assetid: 5a6faf28-485f-26e6-2f47-b0cd9275f261
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

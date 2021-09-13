@@ -5,7 +5,7 @@ api_name:
 - Project.PjTeamStatusCompletedWork
 ms.assetid: 01c2b474-5785-1159-3902-801755c0f2cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.SmartArtNode.Nodes
 ms.assetid: ed1dc125-5160-ed59-3187-620e3253af59
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

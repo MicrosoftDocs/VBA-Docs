@@ -8,7 +8,7 @@ api_name:
 - Excel.FormatCondition.SetLastPriority
 ms.assetid: fd6263a1-e67f-f4e8-2423-1601f73bdd5c
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

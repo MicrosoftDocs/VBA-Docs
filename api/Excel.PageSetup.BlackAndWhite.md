@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.BlackAndWhite
 ms.assetid: 81d1fd09-d317-7d3f-5200-875340a5917e
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

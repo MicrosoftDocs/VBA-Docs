@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleActions.MoveToFolder
 ms.assetid: 6d9c577d-e022-72fc-45f2-bdda7a8761de
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

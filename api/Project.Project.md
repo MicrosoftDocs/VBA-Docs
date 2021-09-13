@@ -5,7 +5,7 @@ api_name:
 - Project.Project
 ms.assetid: 855c1ad9-0e84-f274-9e0e-2424e7cab447
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

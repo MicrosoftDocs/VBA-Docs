@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.RemovePeriods
 ms.assetid: 581c9be1-94f4-d73b-c274-16b2575cac60
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

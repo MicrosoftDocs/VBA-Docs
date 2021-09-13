@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BorderWidth
 ms.assetid: e842887f-9ec1-4405-0558-6b3b3d3d221c
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

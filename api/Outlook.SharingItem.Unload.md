@@ -5,7 +5,7 @@ api_name:
 - Outlook.SharingItem.Unload
 ms.assetid: b79a4c94-46cc-5571-a36d-ad537db97bcc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

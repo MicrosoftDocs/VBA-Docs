@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfAuthorities.TabLeader
 ms.assetid: b437456d-30a2-8e47-2527-dab0b6a43755
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

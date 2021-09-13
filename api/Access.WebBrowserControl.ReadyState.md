@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.ReadyState
 ms.assetid: 49ba1888-9a1e-ea35-18ed-b3bfbbfd3f31
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

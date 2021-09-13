@@ -8,7 +8,7 @@ api_name:
 - Outlook.Store.IsInstantSearchEnabled
 ms.assetid: 0fba75cc-c506-157b-7dfa-ec438e932f5c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

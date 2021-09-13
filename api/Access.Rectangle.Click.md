@@ -8,7 +8,7 @@ api_name:
 - Access.Rectangle.Click
 ms.assetid: 959cbabf-ac13-f449-e313-50beadd2d83d
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

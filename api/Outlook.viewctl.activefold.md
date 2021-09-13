@@ -3,7 +3,7 @@ title: ViewCtl.ActiveFolder Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 4c4f3cbc-92c4-b108-fd31-aa217f7a7753
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

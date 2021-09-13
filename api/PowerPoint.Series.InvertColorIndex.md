@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Series.InvertColorIndex
 ms.assetid: 879637a8-52a7-a6ac-a882-386dad1808cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

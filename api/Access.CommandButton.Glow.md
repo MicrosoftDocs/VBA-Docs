@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.Glow
 ms.assetid: e6c147b4-c378-90bd-7132-f44021994ecd
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

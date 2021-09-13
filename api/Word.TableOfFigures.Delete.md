@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfFigures.Delete
 ms.assetid: cd35bd01-1a2f-b14b-c1ef-f6279458d592
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

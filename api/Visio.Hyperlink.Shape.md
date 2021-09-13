@@ -8,7 +8,7 @@ api_name:
 - Visio.Hyperlink.Shape
 ms.assetid: 554b5282-d7dd-1aca-c579-ab11daf42837
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

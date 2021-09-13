@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Adjustments
 ms.assetid: 425befaf-e058-dff9-2265-66e4f1cbca39
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Callout
 ms.assetid: 25b9b444-6cbf-085a-df7f-8899e8e55057
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

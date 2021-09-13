@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.Export
 ms.assetid: 41ecd499-358d-804a-3311-43d0041a5562
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

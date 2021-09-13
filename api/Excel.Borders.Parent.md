@@ -8,7 +8,7 @@ api_name:
 - Excel.Borders.Parent
 ms.assetid: 43a8a82d-d2b9-59d3-36b2-97ffffea6cdb
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

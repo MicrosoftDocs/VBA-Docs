@@ -5,7 +5,7 @@ api_name:
 - Excel.TextEffectFormat.Creator
 ms.assetid: 50833f23-3320-a156-2836-c6ea5fbc6437
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

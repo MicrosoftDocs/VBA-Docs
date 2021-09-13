@@ -8,7 +8,7 @@ api_name:
 - Excel.SetDefaultChart
 ms.assetid: 1afc1023-654b-67cd-aace-bc4b87747520
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Split
 ms.assetid: 847c5cfd-a10f-ea6a-aa49-2e2e88d1840e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

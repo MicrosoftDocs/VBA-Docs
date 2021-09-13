@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.TripleState
 ms.assetid: f0f8f928-28e2-3f0f-dcd6-afe0dc4a6618
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

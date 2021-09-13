@@ -8,7 +8,7 @@ api_name:
 - Outlook.RuleActions.DesktopAlert
 ms.assetid: 700c3e5a-ebb1-3cfe-e27d-eea305c27143
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

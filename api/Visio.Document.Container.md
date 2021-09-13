@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Container
 ms.assetid: a5b2c90e-f9e0-cc09-8388-566729c1c4eb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.SeriesLines.Border
 ms.assetid: b27a6fca-d041-0458-7e42-b157e7958271
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

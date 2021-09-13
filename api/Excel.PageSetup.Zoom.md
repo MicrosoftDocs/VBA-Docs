@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.Zoom
 ms.assetid: 3deebce5-8605-c549-371c-033848073ffe
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

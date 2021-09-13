@@ -5,7 +5,7 @@ api_name:
 - Project.PjTaskLinkType
 ms.assetid: 141a1145-0eb5-3664-4755-394584aec8ac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

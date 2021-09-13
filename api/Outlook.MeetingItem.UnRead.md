@@ -8,7 +8,7 @@ api_name:
 - Outlook.MeetingItem.UnRead
 ms.assetid: 5d556f3d-96bd-fa20-cc96-37c98150079a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

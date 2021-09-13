@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCache.Parent
 ms.assetid: 77cd3061-b954-50ef-121f-51296dbfd3c8
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

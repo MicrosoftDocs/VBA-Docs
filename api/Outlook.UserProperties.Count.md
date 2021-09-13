@@ -8,7 +8,7 @@ api_name:
 - Outlook.UserProperties.Count
 ms.assetid: 6e316d8a-68b5-f25a-c3d2-4d72a054b027
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileStartRow
 ms.assetid: 91b774d8-cf7b-354d-510e-a8561076532c
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

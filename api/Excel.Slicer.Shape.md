@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.Shape
 ms.assetid: 60fd5911-592e-a12a-8244-b6eaddd248ba
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.GetInspector
 ms.assetid: 8892e56a-275d-b9df-9d9d-bbfd39b98c33
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

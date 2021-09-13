@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.Line
 ms.assetid: 3bb8d585-8af8-a3fc-f61c-d7bcfe4ffa13
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

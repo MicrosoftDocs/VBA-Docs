@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets.VPageBreaks
 ms.assetid: 98de4186-6900-b53b-4d4d-91bb8131180f
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

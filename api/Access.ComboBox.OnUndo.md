@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OnUndo
 ms.assetid: 848f5228-7238-6e56-af49-8334c821ec04
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

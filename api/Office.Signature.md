@@ -8,7 +8,7 @@ api_name:
 - Office.Signature
 ms.assetid: 574d246b-95cd-e4da-081b-4540387662a0
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

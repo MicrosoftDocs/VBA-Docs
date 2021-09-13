@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.Parent
 ms.assetid: d6727c3d-7666-2339-1271-d44e4545b97c
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

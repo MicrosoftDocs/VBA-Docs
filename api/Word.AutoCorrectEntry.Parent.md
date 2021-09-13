@@ -8,7 +8,7 @@ api_name:
 - Word.AutoCorrectEntry.Parent
 ms.assetid: 22f02b7e-d270-2315-649a-36516b4997fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

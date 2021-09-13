@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.View.MediaControlsVisible
 ms.assetid: 7cd6d54e-7a72-0190-47fd-f615313bc17f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat.Parent
 ms.assetid: f259fce5-50b8-ccdd-f955-b30a11c67a51
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

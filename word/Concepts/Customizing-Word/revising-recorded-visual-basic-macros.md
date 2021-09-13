@@ -3,7 +3,7 @@ title: Revising Recorded Visual Basic Macros
 ms.prod: word
 ms.assetid: e17875d2-f11a-825c-1f92-a0ba6cb3309f
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

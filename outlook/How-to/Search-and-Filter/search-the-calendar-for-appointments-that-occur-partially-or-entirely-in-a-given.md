@@ -3,7 +3,7 @@ title: Search the Calendar for Appointments that Occur Partially or Entirely in 
 ms.prod: outlook
 ms.assetid: 3ff170d3-f098-51ab-9ae4-0e71cc587bac
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

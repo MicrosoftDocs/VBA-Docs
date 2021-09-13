@@ -8,7 +8,7 @@ api_name:
 - Word.XMLSchemaReferences.IgnoreMixedContent
 ms.assetid: 51515e72-a33c-b6c4-ee48-8252631dd438
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

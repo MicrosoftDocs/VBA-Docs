@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.EventProcPrefix
 ms.assetid: 8dbf1fee-d9ab-ff0c-5571-e606c19fbf94
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

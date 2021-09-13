@@ -8,7 +8,7 @@ api_name:
 - Access.Image.GridlineThemeColorIndex
 ms.assetid: 4768daef-932f-969f-fe6f-434fc14b150f
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

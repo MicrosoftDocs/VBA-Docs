@@ -8,7 +8,7 @@ api_name:
 - Access.AllFunctions.Item
 ms.assetid: d705b1b9-5509-4a1e-8a0e-55357a544d62
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

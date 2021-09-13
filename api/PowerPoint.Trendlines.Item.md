@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Trendlines.Item
 ms.assetid: ddda769f-ffc2-c03f-4087-755a5530f156
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

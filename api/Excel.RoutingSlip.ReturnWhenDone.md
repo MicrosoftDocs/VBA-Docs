@@ -8,7 +8,7 @@ api_name:
 - Excel.RoutingSlip.ReturnWhenDone
 ms.assetid: fd2efb86-476f-faa8-d7f4-db5be000ea24
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Adjustments.Count
 ms.assetid: e8761617-484a-128a-3bab-487e0c5fd6b3
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

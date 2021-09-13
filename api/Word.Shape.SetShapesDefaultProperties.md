@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.SetShapesDefaultProperties
 ms.assetid: 372bf936-720a-bb15-a7cc-0bb8ca20181d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

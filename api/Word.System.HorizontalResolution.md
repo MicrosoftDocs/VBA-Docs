@@ -8,7 +8,7 @@ api_name:
 - Word.System.HorizontalResolution
 ms.assetid: 1e26725e-4914-b9ac-be2d-05991f4c144f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.DataConnection
 ms.assetid: db21a645-d24d-253f-11ee-c75261d0896b
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

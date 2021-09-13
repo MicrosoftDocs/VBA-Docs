@@ -8,7 +8,7 @@ api_name:
 - Word.Options.UpdateStyleListBehavior
 ms.assetid: 96414cf7-6944-93ed-79a8-2fbfcb65ca3d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

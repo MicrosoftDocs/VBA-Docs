@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkTextBox.PasswordChar
 ms.assetid: 1632642a-2948-4cc0-b086-ae454ae9a7ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

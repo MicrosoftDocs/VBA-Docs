@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.Decorative
 ms.assetid: 2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}
 ms.date: 08/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

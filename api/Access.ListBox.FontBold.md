@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.FontBold
 ms.assetid: b1060b7d-36ca-3048-a046-90e9bdf8f402
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

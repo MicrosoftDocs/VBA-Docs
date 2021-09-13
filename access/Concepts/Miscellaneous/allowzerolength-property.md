@@ -9,7 +9,7 @@ api_name:
 - Access.AllowZeroLength
 ms.assetid: e65dd834-7daa-ad78-0560-87aad5efa1a8
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

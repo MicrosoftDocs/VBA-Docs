@@ -5,7 +5,7 @@ api_name:
 - Project.ResourceGroups2.Application
 ms.assetid: 3a063a67-9efc-c74d-f82d-d0022fad2a0a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

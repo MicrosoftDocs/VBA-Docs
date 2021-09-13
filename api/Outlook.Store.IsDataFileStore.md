@@ -8,7 +8,7 @@ api_name:
 - Outlook.Store.IsDataFileStore
 ms.assetid: 76dc73b7-1d19-465f-744f-1209211f2496
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

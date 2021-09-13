@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.RemoveSubtotal
 ms.assetid: ec1fd131-551d-009f-1eea-033d805bb34d
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

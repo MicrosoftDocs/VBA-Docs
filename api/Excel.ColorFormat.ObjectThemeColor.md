@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorFormat.ObjectThemeColor
 ms.assetid: 0143043a-bb1d-bca9-372f-d0dbdfefb793
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

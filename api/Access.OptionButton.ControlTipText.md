@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.ControlTipText
 ms.assetid: 4a2ff101-e8dc-cc96-abb7-7b66c2c8e74d
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

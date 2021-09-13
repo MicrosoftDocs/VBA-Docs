@@ -5,7 +5,7 @@ api_name:
 - Word.Sentences.Item
 ms.assetid: e68b4bac-c7b2-9953-d24d-e97e6b2f026c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

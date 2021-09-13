@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.BackShade
 ms.assetid: d536f879-2819-9dff-56ba-aa92f3964b50
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

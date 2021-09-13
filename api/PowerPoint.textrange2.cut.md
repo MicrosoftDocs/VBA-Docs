@@ -3,7 +3,7 @@ title: TextRange2.Cut method (PowerPoint)
 ms.assetid: 65095843-c03d-4860-be7d-e50fc0e4366d
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

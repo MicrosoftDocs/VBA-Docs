@@ -3,7 +3,7 @@ title: Input and output keyword summary
 ms.prod: office
 ms.assetid: 5ac43791-945d-3deb-47ff-b970fc9dec15
 ms.date: 11/29/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

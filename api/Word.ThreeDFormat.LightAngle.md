@@ -8,7 +8,7 @@ api_name:
 - Word.ThreeDFormat.LightAngle
 ms.assetid: 61094082-32b6-14a4-4b03-d853c5710e01
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

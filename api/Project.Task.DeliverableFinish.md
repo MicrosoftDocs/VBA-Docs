@@ -5,7 +5,7 @@ api_name:
 - Project.Task.DeliverableFinish
 ms.assetid: 255a464b-ba2d-0701-f991-ba2b4b6cffd9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

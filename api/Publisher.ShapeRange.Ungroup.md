@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Ungroup
 ms.assetid: 253a366c-7317-14e7-2668-191eccec6cb8
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

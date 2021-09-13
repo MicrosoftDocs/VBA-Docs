@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.MessageClass
 ms.assetid: a719fb30-fee2-24c1-77aa-4650b90bf426
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

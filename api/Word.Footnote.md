@@ -8,7 +8,7 @@ api_name:
 - Word.Footnote
 ms.assetid: 877340c4-14f9-4560-eaf8-2c6482a1ade8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

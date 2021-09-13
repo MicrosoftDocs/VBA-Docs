@@ -8,7 +8,7 @@ api_name:
 - Word.PlotArea.InsideWidth
 ms.assetid: acdb721d-73a9-15af-d833-d044e83b3c87
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.MasterShortcut.Delete
 ms.assetid: fcea6204-cdd1-374e-8310-4424c1c8db78
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

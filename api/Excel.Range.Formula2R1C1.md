@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Formula2R1C1
 ms.assetid: ???
 ms.date: 12/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

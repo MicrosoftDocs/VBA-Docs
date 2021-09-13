@@ -8,7 +8,7 @@ api_name:
 - Outlook.OutlookBarShortcuts.Session
 ms.assetid: 538cc6e5-2772-23bb-6ed4-658ed8607660
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

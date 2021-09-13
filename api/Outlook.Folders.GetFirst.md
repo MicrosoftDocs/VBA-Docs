@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folders.GetFirst
 ms.assetid: 74757061-2f38-374e-1624-f8df211a711b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

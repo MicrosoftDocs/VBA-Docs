@@ -5,7 +5,7 @@ api_name:
 - Excel.xlArrowHeadWidth
 ms.assetid: dbb6ad81-ea76-cfa4-82a4-8f03d183998a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

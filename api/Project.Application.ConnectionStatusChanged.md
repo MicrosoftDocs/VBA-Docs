@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ConnectionStatusChanged
 ms.assetid: ffc6fc8a-f5b7-3a3d-4829-712a8305ed17
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

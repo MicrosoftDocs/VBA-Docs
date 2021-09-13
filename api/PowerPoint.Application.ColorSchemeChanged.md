@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.ColorSchemeChanged
 ms.assetid: 8b517ce7-879d-bb96-477b-072477c991d5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

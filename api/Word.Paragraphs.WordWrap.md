@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraphs.WordWrap
 ms.assetid: bf77cc49-c440-3c8e-7384-721658207386
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

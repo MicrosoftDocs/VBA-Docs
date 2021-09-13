@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedItems.Count
 ms.assetid: 85876ce3-df54-65d5-984c-ad0469a114f9
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

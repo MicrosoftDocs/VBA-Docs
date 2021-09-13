@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.SaveAutoRecoverInfo
 ms.assetid: 1cbb7960-8995-37f4-5989-01b97152269f
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

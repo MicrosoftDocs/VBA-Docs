@@ -8,7 +8,7 @@ api_name:
 - Word.Options.CreateBackup
 ms.assetid: 02933ae3-1c3b-8309-d496-09c44d28a616
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

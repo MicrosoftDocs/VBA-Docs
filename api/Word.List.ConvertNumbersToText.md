@@ -8,7 +8,7 @@ api_name:
 - Word.List.ConvertNumbersToText
 ms.assetid: 302fc63e-626c-fb16-0514-25a2d6381363
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

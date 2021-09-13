@@ -8,7 +8,7 @@ api_name:
 - Access.WebService
 ms.assetid: d197a825-12da-fd66-7881-7211a59d6bc9
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

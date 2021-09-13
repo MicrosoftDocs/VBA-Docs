@@ -8,7 +8,7 @@ api_name:
 - Word.HeadingStyles.Add
 ms.assetid: 1ad89871-cd73-4159-e85f-e0cdbe3633af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

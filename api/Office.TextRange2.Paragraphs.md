@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.Paragraphs
 ms.assetid: 15479f9e-f261-7ea6-0460-861ccea08440
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

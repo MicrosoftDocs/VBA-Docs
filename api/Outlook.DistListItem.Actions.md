@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.Actions
 ms.assetid: 7f2b7322-4791-fc2f-e6d2-b895170c7c57
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

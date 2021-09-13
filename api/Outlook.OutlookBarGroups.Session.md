@@ -8,7 +8,7 @@ api_name:
 - Outlook.OutlookBarGroups.Session
 ms.assetid: f62d8290-7e42-1dbb-1135-3298b47124d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

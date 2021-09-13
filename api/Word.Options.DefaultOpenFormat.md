@@ -8,7 +8,7 @@ api_name:
 - Word.Options.DefaultOpenFormat
 ms.assetid: 8caa36b7-6758-d280-e170-54376a1fd624
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

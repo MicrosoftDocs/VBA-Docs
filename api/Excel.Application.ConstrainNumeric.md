@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ConstrainNumeric
 ms.assetid: 910dd5ad-1750-71b8-8c12-df5107d21063
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

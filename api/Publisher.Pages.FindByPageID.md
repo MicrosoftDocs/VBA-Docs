@@ -8,7 +8,7 @@ api_name:
 - Publisher.Pages.FindByPageID
 ms.assetid: 23ff5e69-33b1-e394-9d09-7199eae19fe9
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

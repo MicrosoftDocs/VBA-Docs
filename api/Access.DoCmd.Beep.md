@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.Beep
 ms.assetid: 822a565d-89d9-fdc1-eb01-b8535e363714
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

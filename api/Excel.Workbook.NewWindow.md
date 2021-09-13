@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.NewWindow
 ms.assetid: ba568cee-c1cb-6e6a-8935-2cc8ce3a8400
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

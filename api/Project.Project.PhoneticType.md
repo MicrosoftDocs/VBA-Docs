@@ -8,7 +8,7 @@ api_name:
 - Project.Project.PhoneticType
 ms.assetid: d959bb6c-9efa-2b4c-594a-1b9294460770
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

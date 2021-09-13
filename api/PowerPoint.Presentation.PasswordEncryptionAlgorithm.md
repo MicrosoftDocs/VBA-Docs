@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.PasswordEncryptionAlgorithm
 ms.assetid: 728934cf-b4f3-6acd-0e42-6fc5928af807
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

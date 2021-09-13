@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotLines.Count
 ms.assetid: d640d353-ed51-c9e9-ca41-33ccb1a1da03
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

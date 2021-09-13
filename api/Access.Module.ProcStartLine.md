@@ -8,7 +8,7 @@ api_name:
 - Access.Module.ProcStartLine
 ms.assetid: ef9a1ab4-f992-5077-b52b-d16cba10f697
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.TickLabels.Name
 ms.assetid: a6edb084-c50f-df3e-22a2-dc811e72b419
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

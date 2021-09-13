@@ -8,7 +8,7 @@ api_name:
 - Word.DropDown.Parent
 ms.assetid: 5b721c1a-6553-5ffb-167d-ff73a9e42f01
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

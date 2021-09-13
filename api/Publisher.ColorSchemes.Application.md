@@ -8,7 +8,7 @@ api_name:
 - Publisher.ColorSchemes.Application
 ms.assetid: dd48e1ec-9504-a07c-3dfe-6ca8527da8c2
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

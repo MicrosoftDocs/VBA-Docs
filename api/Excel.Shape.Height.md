@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Height
 ms.assetid: b0b7ee95-509d-edff-f371-e57685ac2ddc
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

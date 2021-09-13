@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Words
 ms.assetid: bbbc7c5f-ce5a-2608-ba0c-e9769bff287a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

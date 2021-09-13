@@ -5,7 +5,7 @@ api_name:
 - Word.WdMonthNames
 ms.assetid: 3ae517eb-4f72-59c4-3ee1-5a0fe220263e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

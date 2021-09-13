@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextEffectFormat.KernedPairs
 ms.assetid: 03f0395e-ee31-80d2-7c0d-f404685a0e86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

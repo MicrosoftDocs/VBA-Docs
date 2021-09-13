@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintEvenPagesInAscendingOrder
 ms.assetid: 355f973c-d60f-5953-8b0d-0b8c5798dce1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

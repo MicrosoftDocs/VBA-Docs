@@ -8,7 +8,7 @@ api_name:
 - Excel.SparkColor.Visible
 ms.assetid: 7aedc128-2597-1065-2875-676ed15bcd9a
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

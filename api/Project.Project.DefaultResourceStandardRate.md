@@ -5,7 +5,7 @@ api_name:
 - Project.Project.DefaultResourceStandardRate
 ms.assetid: 39c5fc04-5710-2a6b-38af-cfc547f3c970
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

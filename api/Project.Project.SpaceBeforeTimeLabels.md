@@ -5,7 +5,7 @@ api_name:
 - Project.Project.SpaceBeforeTimeLabels
 ms.assetid: fe047ed1-cff4-3f8b-9412-0cb60faadfad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

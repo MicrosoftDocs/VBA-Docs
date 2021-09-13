@@ -8,7 +8,7 @@ api_name:
 - Visio.Curve.ObjectType
 ms.assetid: df2c3f5d-255b-10b5-4c29-49b9f45d18d3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.ShowToolbar
 ms.assetid: 63663cc5-a591-c847-25c8-25777cf7806a
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

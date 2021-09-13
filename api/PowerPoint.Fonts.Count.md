@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Fonts.Count
 ms.assetid: 94f6cfda-23f5-0a89-388f-6cb3b544fdb6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

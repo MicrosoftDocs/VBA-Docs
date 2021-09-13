@@ -8,7 +8,7 @@ api_name:
 - Access.Form.DataChange
 ms.assetid: 14fd4c9c-eb18-8f4d-ebd9-6f389523c4cf
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

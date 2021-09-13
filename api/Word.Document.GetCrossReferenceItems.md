@@ -8,7 +8,7 @@ api_name:
 - Word.Document.GetCrossReferenceItems
 ms.assetid: 380e3019-2574-f50b-d871-dcebb564b06e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.Model3D
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

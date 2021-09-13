@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Union
 ms.assetid: 7c70a5be-2696-5fc2-bd69-6c6ff4d3291e
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

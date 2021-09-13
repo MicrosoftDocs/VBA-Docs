@@ -8,7 +8,7 @@ api_name:
 - Access.Label.HorizontalAnchor
 ms.assetid: ccdb70d5-53be-a818-52db-0f36df5c6714
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

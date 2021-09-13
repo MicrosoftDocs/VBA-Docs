@@ -8,7 +8,7 @@ api_name:
 - Excel.Characters.PhoneticCharacters
 ms.assetid: 05e5cfa5-aef8-c413-29e4-3c608bd4f953
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Phonetics.Alignment
 ms.assetid: 20573e0b-37d4-1600-dcc8-8f05e6a31bb1
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

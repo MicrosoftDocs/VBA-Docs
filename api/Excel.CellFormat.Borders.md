@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.Borders
 ms.assetid: 8a2ad449-a1b4-14ff-6a67-f475dba82c45
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

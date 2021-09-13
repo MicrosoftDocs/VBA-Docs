@@ -8,7 +8,7 @@ api_name:
 - Excel.Paste
 ms.assetid: 4cb4fa45-b319-f3a8-e477-80b96060905b
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

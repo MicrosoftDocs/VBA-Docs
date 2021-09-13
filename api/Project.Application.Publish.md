@@ -8,7 +8,7 @@ api_name:
 - Project.Application.Publish
 ms.assetid: 8605f6c9-8710-0c08-79c8-8dec2bedfe18
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

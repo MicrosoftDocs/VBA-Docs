@@ -8,7 +8,7 @@ api_name:
 - Word.Borders.InsideLineStyle
 ms.assetid: d82862c7-58b2-cb6c-1099-4aaa5bcdf03e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

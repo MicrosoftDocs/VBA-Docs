@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.UserStatus
 ms.assetid: 0df24f8a-b60b-fd8c-3436-903652487a09
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

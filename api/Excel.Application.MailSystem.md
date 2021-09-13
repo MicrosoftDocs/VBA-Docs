@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.MailSystem
 ms.assetid: df7b1238-bdf5-d9f8-9f50-585b489fd8a8
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

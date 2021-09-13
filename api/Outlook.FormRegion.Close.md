@@ -8,7 +8,7 @@ api_name:
 - Outlook.FormRegion.Close
 ms.assetid: 0c3f779e-a7a1-e41a-31ca-a0c7c1af3463
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

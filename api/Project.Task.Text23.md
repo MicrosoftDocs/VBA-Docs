@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Text23
 ms.assetid: 3263f528-dd9c-48c2-27fe-7f4ae69f2c11
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.Document
 ms.assetid: b95000f8-67df-99f4-bbfc-020b14ae73b8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

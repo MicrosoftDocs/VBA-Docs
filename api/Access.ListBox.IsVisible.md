@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.IsVisible
 ms.assetid: 6105ef5f-5c92-c7c0-748d-3d8a1efb9050
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

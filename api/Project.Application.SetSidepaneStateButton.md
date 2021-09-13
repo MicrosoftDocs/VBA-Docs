@@ -5,7 +5,7 @@ api_name:
 - Project.Application.SetSidepaneStateButton
 ms.assetid: 21603c44-d9f3-96b6-ee42-df17eb58287a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

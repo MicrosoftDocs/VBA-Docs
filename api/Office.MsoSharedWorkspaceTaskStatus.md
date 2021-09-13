@@ -5,7 +5,7 @@ api_name:
 - Office.MsoSharedWorkspaceTaskStatus
 ms.assetid: 3b983dde-c584-8777-24f3-48a1e6be931d
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

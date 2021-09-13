@@ -8,7 +8,7 @@ api_name:
 - Publisher.CatalogMergeShapes.Count
 ms.assetid: a871af2f-183c-f5a8-7ad0-c8d25c71e41f
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

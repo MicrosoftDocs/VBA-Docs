@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ApplyLayout
 ms.assetid: 0e07936d-c179-9b38-a6d4-1d71d1c5af3b
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

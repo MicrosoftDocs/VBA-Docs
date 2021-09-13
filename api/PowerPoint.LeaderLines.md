@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.LeaderLines
 ms.assetid: 2357c570-0f68-8bb4-910a-e88c00ed9884
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

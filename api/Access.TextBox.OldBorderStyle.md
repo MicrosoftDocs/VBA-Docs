@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.OldBorderStyle
 ms.assetid: 6064f8b9-31ec-da00-0346-cd259b917daa
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

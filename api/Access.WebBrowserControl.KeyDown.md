@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.KeyDown
 ms.assetid: 1136ba36-01c9-bc97-7ba8-8bf215ad8a53
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.GetFromClipboard
 ms.assetid: 8a034bf7-b6cf-ed9f-2e1c-2a4325494970
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

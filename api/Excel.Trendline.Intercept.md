@@ -8,7 +8,7 @@ api_name:
 - Excel.Trendline.Intercept
 ms.assetid: a3a1b427-2da2-4409-5488-20a1eb0ceb94
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.ShowAllFieldButtons
 ms.assetid: b5a9dc1a-2c85-eece-b678-2d3509780a46
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

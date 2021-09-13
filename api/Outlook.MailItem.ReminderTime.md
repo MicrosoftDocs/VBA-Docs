@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.ReminderTime
 ms.assetid: ace829f9-a5db-fbce-8948-fde98778d57f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AddIn.Path
 ms.assetid: 0d3ecedf-ac35-f839-06ed-2fc7bab54ce5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

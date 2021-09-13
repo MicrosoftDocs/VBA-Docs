@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.Gradient
 ms.assetid: b23fb655-67bf-645f-f510-c4baafe02e58
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

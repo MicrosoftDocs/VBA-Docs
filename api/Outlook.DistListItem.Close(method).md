@@ -8,7 +8,7 @@ api_name:
 - Outlook.DistListItem.Close
 ms.assetid: 6e56d716-ec8b-4a4c-1b1a-061f659f5c08
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

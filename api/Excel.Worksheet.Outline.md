@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Outline
 ms.assetid: e53d8038-f20b-9d55-1ee0-c5f6b4a099d4
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

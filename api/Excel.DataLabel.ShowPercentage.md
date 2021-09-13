@@ -8,7 +8,7 @@ api_name:
 - Excel.DataLabel.ShowPercentage
 ms.assetid: 9d084502-545d-7a9a-1b6d-e12d4e2b34e6
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

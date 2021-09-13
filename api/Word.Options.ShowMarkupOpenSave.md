@@ -8,7 +8,7 @@ api_name:
 - Word.Options.ShowMarkupOpenSave
 ms.assetid: 7e622cce-2465-48fd-08c0-3385cbc36d55
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.MailSession
 ms.assetid: 45dbbaa1-3da2-55f9-415b-ac9218d293dc
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

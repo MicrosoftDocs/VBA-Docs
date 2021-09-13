@@ -5,7 +5,7 @@ api_name:
 - Word.WdAraSpeller
 ms.assetid: d0918b28-4a0f-eb61-1d34-a85d3932c590
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

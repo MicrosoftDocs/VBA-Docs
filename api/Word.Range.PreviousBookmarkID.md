@@ -8,7 +8,7 @@ api_name:
 - Word.Range.PreviousBookmarkID
 ms.assetid: 19aab6c4-bc86-3f65-4fbc-206fdf3dbb3a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

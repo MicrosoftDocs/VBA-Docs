@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCategory.BackStyle
 ms.assetid: 6653e34d-c03e-1efd-623b-ba6ecc4f05f7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

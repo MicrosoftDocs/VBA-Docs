@@ -8,7 +8,7 @@ api_name:
 - Word.Dictionary.Creator
 ms.assetid: bc739b16-50ab-254d-7620-61439ecbd7a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

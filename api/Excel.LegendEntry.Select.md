@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendEntry.Select
 ms.assetid: 1d4d2259-3150-ed51-a12b-9a2ca95109c9
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

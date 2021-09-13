@@ -8,7 +8,7 @@ api_name:
 - Word.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 651b2b17-d87b-0007-3722-dc330f3e1f2e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

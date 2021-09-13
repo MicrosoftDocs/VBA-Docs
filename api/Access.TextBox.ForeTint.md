@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ForeTint
 ms.assetid: 8229f864-5ed3-309e-ba29-6a45bf9d59a8
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

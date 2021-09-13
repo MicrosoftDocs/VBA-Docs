@@ -3,7 +3,7 @@ title: Count the number of records in a DAO Recordset
 ms.prod: access
 ms.assetid: ea524046-4d04-b595-1a45-13b399745f44
 ms.date: 09/21/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

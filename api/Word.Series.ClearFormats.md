@@ -8,7 +8,7 @@ api_name:
 - Word.Series.ClearFormats
 ms.assetid: b4733fd8-d7be-8c8c-4baf-d241b80ab024
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

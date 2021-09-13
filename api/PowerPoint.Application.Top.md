@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.Top
 ms.assetid: d8c70fc9-e0f1-ed53-7a22-150838599719
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Border.LineStyle
 ms.assetid: 7f2529b7-4782-8d8d-d529-6d8d19417db4
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

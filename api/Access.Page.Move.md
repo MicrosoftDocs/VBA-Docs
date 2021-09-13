@@ -8,7 +8,7 @@ api_name:
 - Access.Page.Move
 ms.assetid: d44456cf-21b7-593d-ae1f-75900c93ce33
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

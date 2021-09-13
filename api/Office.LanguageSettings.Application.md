@@ -5,7 +5,7 @@ api_name:
 - Office.LanguageSettings.Application
 ms.assetid: 48bd707e-4dac-df46-fa5b-e8d1159aa19d
 ms.date: 01/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

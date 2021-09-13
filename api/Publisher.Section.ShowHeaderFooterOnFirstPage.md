@@ -8,7 +8,7 @@ api_name:
 - Publisher.Section.ShowHeaderFooterOnFirstPage
 ms.assetid: 6c814884-9bee-72ae-3a40-5118bebd6f02
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

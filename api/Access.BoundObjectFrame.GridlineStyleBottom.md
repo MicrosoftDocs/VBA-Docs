@@ -8,7 +8,7 @@ api_name:
 - Access.BoundObjectFrame.GridlineStyleBottom
 ms.assetid: 422508e7-d735-55a5-04e9-b0297536c2f5
 ms.date: 02/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

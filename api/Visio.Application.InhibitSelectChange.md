@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.InhibitSelectChange
 ms.assetid: d3673adf-a8e2-bc85-aa56-232ec3a93588
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

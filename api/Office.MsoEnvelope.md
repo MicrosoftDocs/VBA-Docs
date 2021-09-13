@@ -8,7 +8,7 @@ api_name:
 - Office.MsoEnvelope
 ms.assetid: 64cfde6b-cd71-1d7b-0e8f-1181d88d9457
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

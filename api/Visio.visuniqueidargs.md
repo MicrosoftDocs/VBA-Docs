@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 7268c074-3de9-72c8-d20e-1f6008aff347
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

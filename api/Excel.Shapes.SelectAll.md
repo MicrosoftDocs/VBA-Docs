@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.SelectAll
 ms.assetid: 322f53c0-3a01-ce08-6112-89447f5ce686
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

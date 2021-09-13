@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ChiSq_Dist
 ms.assetid: be655878-fdb2-7b04-0a9b-6d39652b7e77
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.PTCondition
 ms.assetid: 70a73169-ca80-9566-2cbe-61e8dca87eb3
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

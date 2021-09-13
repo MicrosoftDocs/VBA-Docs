@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.LabelAlign
 ms.assetid: b3fa2e58-3390-57cf-88c8-b346c77cf488
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

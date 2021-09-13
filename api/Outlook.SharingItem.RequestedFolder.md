@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.RequestedFolder
 ms.assetid: 429f14d7-9e33-a988-2d64-7eda720399ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.Perspective
 ms.assetid: 5a85f7fa-2c72-e9b0-75f0-e6d6680ecd99
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

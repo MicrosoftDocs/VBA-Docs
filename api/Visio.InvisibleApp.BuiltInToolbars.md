@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.BuiltInToolbars
 ms.assetid: b28f212c-b5ab-0d43-1f7a-a91a7c62043d
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

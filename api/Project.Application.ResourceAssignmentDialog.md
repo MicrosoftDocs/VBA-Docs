@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ResourceAssignmentDialog
 ms.assetid: efe91944-bdfa-a15c-6f28-44fe4d629974
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

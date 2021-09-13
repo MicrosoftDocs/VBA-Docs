@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Paste
 ms.assetid: bfee86bb-622e-0b24-aa24-abb1dce79b86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

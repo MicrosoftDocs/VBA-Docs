@@ -5,7 +5,7 @@ api_name:
 - Excel.XlThreadMode
 ms.assetid: c313db9b-0d8c-7499-20da-50b5132afdcc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.IsConflict
 ms.assetid: 41d090c3-18de-84ef-1108-17c7df018182
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

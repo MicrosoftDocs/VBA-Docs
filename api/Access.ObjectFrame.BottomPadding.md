@@ -8,7 +8,7 @@ api_name:
 - Access.ObjectFrame.BottomPadding
 ms.assetid: e0e5586d-ae5c-9d22-9876-ad717a9805d1
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

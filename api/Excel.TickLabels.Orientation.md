@@ -8,7 +8,7 @@ api_name:
 - Excel.TickLabels.Orientation
 ms.assetid: 94ab0869-c4bf-7481-df88-84e4a53ec4d7
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

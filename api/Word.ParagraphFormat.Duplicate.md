@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.Duplicate
 ms.assetid: cc5e9633-ea7c-8317-5321-c7bbf1288579
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

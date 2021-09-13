@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.ZOrderPosition
 ms.assetid: 46eb765b-578e-f6df-43b7-c14443cddbb2
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

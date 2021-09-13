@@ -8,7 +8,7 @@ api_name:
 - Project.Application.DrawingCycleColor
 ms.assetid: 2465b550-ff0d-360e-0881-641f23fc61c8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

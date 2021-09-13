@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.WriteReserved
 ms.assetid: 96cc86d1-0e77-b6f3-3045-f6346de0f969
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

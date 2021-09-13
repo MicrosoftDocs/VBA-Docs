@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoRecover.Time
 ms.assetid: 096783b6-77ae-75eb-08cc-fa3978aa6121
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

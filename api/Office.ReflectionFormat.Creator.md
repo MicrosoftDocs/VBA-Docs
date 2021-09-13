@@ -5,7 +5,7 @@ api_name:
 - Office.ReflectionFormat.Creator
 ms.assetid: a2e8bf4f-55a5-fb34-2cdf-438ab3948ba1
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

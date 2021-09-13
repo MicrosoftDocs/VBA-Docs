@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlTextAlign
 ms.assetid: f79a8b30-37e0-c1e6-7414-f664dfeb0c86
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

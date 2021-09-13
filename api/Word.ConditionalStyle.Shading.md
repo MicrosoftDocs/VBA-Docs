@@ -8,7 +8,7 @@ api_name:
 - Word.ConditionalStyle.Shading
 ms.assetid: 6261dc5b-0804-9f4a-481a-c658ceaa7162
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

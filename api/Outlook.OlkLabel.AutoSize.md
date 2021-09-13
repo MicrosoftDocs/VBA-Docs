@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkLabel.AutoSize
 ms.assetid: ed1e472f-3e61-13d0-591d-c640786159fc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Application.ColumnHistory
 ms.assetid: e2c1b71f-6561-b38d-8173-9926bc4bd9da
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

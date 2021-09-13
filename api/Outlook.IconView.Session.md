@@ -8,7 +8,7 @@ api_name:
 - Outlook.IconView.Session
 ms.assetid: 456b7396-f69c-57bb-1e71-cfc26b9e5613
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

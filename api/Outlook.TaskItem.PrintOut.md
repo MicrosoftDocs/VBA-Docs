@@ -8,7 +8,7 @@ api_name:
 - Outlook.TaskItem.PrintOut
 ms.assetid: af648672-6e49-a196-44a2-b9df0b4d3539
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

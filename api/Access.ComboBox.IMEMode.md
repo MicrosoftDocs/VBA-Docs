@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.IMEMode
 ms.assetid: 117b9f33-004e-40f9-7ec9-bb397fda33c0
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

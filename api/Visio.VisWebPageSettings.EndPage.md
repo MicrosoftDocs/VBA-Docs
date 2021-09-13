@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.EndPage
 ms.assetid: 4b7ebf2d-b814-8588-b25e-7c54fd0affda
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

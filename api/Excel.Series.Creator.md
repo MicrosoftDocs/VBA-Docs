@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.Creator
 ms.assetid: f0c855a2-6901-be4f-13e2-426b97d34ef8
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

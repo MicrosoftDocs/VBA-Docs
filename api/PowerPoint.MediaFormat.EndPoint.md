@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.EndPoint
 ms.assetid: bc2476a0-581c-4363-4f39-d7dd23c560af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

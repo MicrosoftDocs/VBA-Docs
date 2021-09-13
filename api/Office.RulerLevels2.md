@@ -5,7 +5,7 @@ api_name:
 - Office.RulerLevels2
 ms.assetid: 01bd257c-1c26-a7cd-cf2a-8478c861b78a
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfContents.IncludePageNumbers
 ms.assetid: 2097f009-ae18-70c3-3f3b-dbabcee06fa5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

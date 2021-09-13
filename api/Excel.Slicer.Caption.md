@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.Caption
 ms.assetid: f0ba7c9b-d745-a72c-770e-852fc9cde9e0
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

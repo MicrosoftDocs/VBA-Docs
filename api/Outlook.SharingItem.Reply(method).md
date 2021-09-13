@@ -8,7 +8,7 @@ api_name:
 - Outlook.SharingItem.Reply
 ms.assetid: c40fffed-8f56-c500-8dd8-7ae889f91712
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

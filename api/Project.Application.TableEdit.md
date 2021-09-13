@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TableEdit
 ms.assetid: 370ab75d-9b99-b4b3-db5f-96697320bc68
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

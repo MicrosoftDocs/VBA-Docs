@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DVar
 ms.assetid: 01f75308-fab4-1373-3fd3-c2362ddc7791
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

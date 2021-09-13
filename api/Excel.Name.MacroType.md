@@ -8,7 +8,7 @@ api_name:
 - Excel.Name.MacroType
 ms.assetid: 46f02cb6-56c3-7b0e-27a4-db356802abe6
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

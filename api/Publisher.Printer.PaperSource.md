@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.PaperSource
 ms.assetid: 3c3f9007-c1ea-6957-6fa5-b34873e0a17f
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

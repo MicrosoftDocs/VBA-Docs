@@ -3,7 +3,7 @@ title: Tab Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: cc15db10-38d7-4b6a-bb90-71af5aad78ce
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Tab Members (Outlook Forms Script)

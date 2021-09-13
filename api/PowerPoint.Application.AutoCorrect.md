@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Application.AutoCorrect
 ms.assetid: 490fc728-c639-2a32-22b8-1757c14e9bd7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

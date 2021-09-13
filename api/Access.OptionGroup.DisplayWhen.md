@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.DisplayWhen
 ms.assetid: a69b8fd5-d388-7277-d0de-5cf0ab620a33
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Timing.BounceEnd
 ms.assetid: 79693e7a-424a-0f7f-feb4-2be2dc0b11ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

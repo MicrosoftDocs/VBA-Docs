@@ -8,7 +8,7 @@ api_name:
 - Office.Sync.LastSyncTime
 ms.assetid: d85af059-a39e-e100-c81a-06265b43cade
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.SaveChartTemplate
 ms.assetid: d980f663-7e73-7b55-9f7c-1fc9da84c0bd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

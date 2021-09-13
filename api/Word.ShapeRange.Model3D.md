@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.ShapeRange.Model3D
 ms.date: 04/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

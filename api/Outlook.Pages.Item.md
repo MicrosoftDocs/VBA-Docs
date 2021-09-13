@@ -8,7 +8,7 @@ api_name:
 - Outlook.Pages.Item
 ms.assetid: f2bdcbfa-33d1-04bd-7ab5-551ea779e648
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ExecuteExcel4Macro
 ms.assetid: 0afa77ab-43e0-0120-4ffd-25e290c72f6c
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

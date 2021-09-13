@@ -8,7 +8,7 @@ api_name:
 - Visio.Documents.TextChanged
 ms.assetid: 84e3b4b0-4c12-b8fb-bf5f-aa2c60e946e0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

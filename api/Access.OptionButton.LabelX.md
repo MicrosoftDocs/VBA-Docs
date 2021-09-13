@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.LabelX
 ms.assetid: 432534bb-9c5b-6a07-0509-97c967c04cf0
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

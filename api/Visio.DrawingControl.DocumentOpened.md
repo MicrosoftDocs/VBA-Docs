@@ -5,7 +5,7 @@ api_name:
 - Visio.DrawingControl.DocumentOpened
 ms.assetid: f791954d-fd9e-8e45-ddec-2743e90faedf
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

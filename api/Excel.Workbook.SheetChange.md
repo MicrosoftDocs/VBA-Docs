@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SheetChange
 ms.assetid: 37e727d8-255c-ac23-45d8-13a8e7639991
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

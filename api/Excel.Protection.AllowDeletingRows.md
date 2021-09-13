@@ -8,7 +8,7 @@ api_name:
 - Excel.Protection.AllowDeletingRows
 ms.assetid: da418f4e-ca3e-b0f2-4b12-fe578b0bf20b
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

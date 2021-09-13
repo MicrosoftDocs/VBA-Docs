@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TickLabels.Font
 ms.assetid: 2aafc69f-e3bc-c6fe-a8da-12377bceb2ae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

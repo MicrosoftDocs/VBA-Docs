@@ -8,7 +8,7 @@ api_name:
 - Visio.Selection.FitCurve
 ms.assetid: d0f3c799-c15d-cdc8-c0b0-34aeeecec495
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

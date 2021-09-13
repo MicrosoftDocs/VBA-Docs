@@ -5,7 +5,7 @@ api_name:
 - Project.PjProjectServerTrackingMethod
 ms.assetid: 7b7717cb-316b-96fd-1131-002377ae4a7b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

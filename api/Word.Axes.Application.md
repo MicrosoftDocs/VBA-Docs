@@ -8,7 +8,7 @@ api_name:
 - Word.Axes.Application
 ms.assetid: c038be24-fe29-5c10-a6d3-d98e14bcc3b3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

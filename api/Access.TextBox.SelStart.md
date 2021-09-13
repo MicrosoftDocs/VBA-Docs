@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.SelStart
 ms.assetid: 51c773bb-2b70-b812-6b6a-9e062e493ebb
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

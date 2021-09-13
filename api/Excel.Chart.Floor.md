@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Floor
 ms.assetid: 7771ab49-b254-f0f0-a21b-596f541ab6c1
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

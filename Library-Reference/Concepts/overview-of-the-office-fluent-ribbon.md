@@ -3,7 +3,7 @@ title: Overview of the Office Fluent ribbon
 ms.prod: office
 ms.assetid: 773c202c-f5f9-c4f6-f833-0dd56eb21a8f
 ms.date: 01/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

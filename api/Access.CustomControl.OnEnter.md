@@ -8,7 +8,7 @@ api_name:
 - Access.CustomControl.OnEnter
 ms.assetid: c2ca822a-2b67-5b06-0d5c-ff602b21226b
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Label.ForeThemeColorIndex
 ms.assetid: 68165420-a121-a610-51bd-17a83fd9ee90
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

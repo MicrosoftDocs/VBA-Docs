@@ -8,7 +8,7 @@ api_name:
 - Excel.ListColumn
 ms.assetid: c2060e4a-2340-c606-f272-1e4dad6964d0
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.View.Parent
 ms.assetid: 04b729f8-3aa0-df73-f711-7878386e7b3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

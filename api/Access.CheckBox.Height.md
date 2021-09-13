@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.Height
 ms.assetid: c45447cc-6659-c370-398d-fd7d4888f7a2
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

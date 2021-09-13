@@ -8,7 +8,7 @@ api_name:
 - Word.ProtectedViewWindow.Width
 ms.assetid: 607ec503-2096-4b4a-fce5-9979bea6c847
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

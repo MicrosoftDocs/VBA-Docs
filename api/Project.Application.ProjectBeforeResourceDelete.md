@@ -5,7 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeResourceDelete
 ms.assetid: aadef12e-57dc-210e-d29a-54f79d1c1abd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

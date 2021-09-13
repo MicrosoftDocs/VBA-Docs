@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.IndentFirstLineCharWidth
 ms.assetid: 9531e607-4287-d4a3-de85-315e806d9b51
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

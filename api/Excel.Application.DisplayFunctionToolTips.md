@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayFunctionToolTips
 ms.assetid: cc294f6d-3e81-9fdc-b758-0a581b03ba9c
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

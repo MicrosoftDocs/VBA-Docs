@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TaskOnTimeline
 ms.assetid: 8201380b-f0ae-4e53-7461-e323ad6fe5e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

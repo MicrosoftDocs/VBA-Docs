@@ -8,7 +8,7 @@ api_name:
 - Word.TextColumns.EvenlySpaced
 ms.assetid: 9498889e-0f61-ddad-df6b-6defb11dc566
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

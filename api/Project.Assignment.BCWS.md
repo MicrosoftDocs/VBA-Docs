@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.BCWS
 ms.assetid: 22ffb05e-6e36-061b-771b-f8fc3bf8217e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

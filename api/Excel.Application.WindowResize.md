@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.WindowResize
 ms.assetid: 937c4b8f-3b37-ada7-ee72-0ad4707c2e2b
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

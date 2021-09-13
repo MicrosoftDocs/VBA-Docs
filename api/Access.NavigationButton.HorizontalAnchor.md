@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationButton.HorizontalAnchor
 ms.assetid: a68f440f-99fd-54f1-bcc0-e06502ac2dbc
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

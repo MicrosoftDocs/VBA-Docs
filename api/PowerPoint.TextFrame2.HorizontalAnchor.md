@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.HorizontalAnchor
 ms.assetid: 17d27713-15c9-d846-f847-96e62768fafb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

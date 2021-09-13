@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DDEInitiate
 ms.assetid: 7b05c3ad-574e-d904-5d50-ff646486ef07
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

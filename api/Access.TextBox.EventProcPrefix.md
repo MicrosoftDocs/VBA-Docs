@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.EventProcPrefix
 ms.assetid: a8cd7cdc-605b-473c-95b1-9d1736e0ec96
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

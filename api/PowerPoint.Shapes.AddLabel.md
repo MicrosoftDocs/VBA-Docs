@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddLabel
 ms.assetid: b744daf1-5b99-9649-8b97-d3f2193373c1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

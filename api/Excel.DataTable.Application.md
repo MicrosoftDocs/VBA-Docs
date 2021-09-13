@@ -8,7 +8,7 @@ api_name:
 - Excel.DataTable.Application
 ms.assetid: 0bc376d3-bf52-5b23-c737-60dc5b3bf899
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

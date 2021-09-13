@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.GetChartElement
 ms.assetid: e9ebb101-1625-9a6a-1da9-dbb02c49f01c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

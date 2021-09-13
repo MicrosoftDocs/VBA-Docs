@@ -8,7 +8,7 @@ api_name:
 - Excel.Border.ColorIndex
 ms.assetid: 35e2dbbf-fd35-a08c-a969-bd08d0544d97
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

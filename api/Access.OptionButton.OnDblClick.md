@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.OnDblClick
 ms.assetid: 45a7b4fa-ce24-aab3-6057-ce23b1055a74
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

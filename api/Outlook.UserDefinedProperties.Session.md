@@ -8,7 +8,7 @@ api_name:
 - Outlook.UserDefinedProperties.Session
 ms.assetid: 7fb72c53-bb2e-5c27-61e6-a7ac79726647
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

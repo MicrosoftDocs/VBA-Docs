@@ -8,7 +8,7 @@ api_name:
 - Word.OMathDelim.NoRightChar
 ms.assetid: 2d8adc59-b919-8017-46ef-67377d3a8269
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

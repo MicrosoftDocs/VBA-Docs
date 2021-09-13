@@ -3,7 +3,7 @@ title: Display a custom dialog box when the user deletes a record
 ms.prod: access
 ms.assetid: 512b324b-fe2f-b086-78d2-4c09933f5d25
 ms.date: 09/25/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

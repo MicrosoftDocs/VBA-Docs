@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.ControlTipText
 ms.assetid: 3952c7f5-e5d1-7a7d-3187-d4c327a33fe0
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.FileConverter.OpenFormat
 ms.assetid: d5a83e1f-bbf6-d0f5-8223-c2140850bc27
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

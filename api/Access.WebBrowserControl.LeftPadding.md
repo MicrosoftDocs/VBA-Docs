@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.LeftPadding
 ms.assetid: 905192bd-eaaf-ef28-03b2-fbb5b3dca0ce
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoCorrect.TwoInitialCapitals
 ms.assetid: bc24bbfc-fe6d-ca18-c246-49c4c59e9181
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

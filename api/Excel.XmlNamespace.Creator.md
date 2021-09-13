@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlNamespace.Creator
 ms.assetid: ceed703f-148b-607f-f6cf-13484aeff5da
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

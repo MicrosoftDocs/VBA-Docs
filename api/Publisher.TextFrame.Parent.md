@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.Parent
 ms.assetid: c4d2d0bd-7a6b-201c-4b1b-416490ab8023
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

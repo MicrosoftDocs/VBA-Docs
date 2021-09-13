@@ -8,7 +8,7 @@ api_name:
 - Office.FileDialogFilter.Extensions
 ms.assetid: ee80ebef-8214-8cef-9676-e6293e5d2a3f
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

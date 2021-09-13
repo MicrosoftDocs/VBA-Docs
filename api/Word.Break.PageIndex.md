@@ -8,7 +8,7 @@ api_name:
 - Word.Break.PageIndex
 ms.assetid: cb58716a-801a-11ba-5208-ef8b4e022c97
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

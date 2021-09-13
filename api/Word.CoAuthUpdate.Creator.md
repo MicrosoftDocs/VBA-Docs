@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthUpdate.Creator
 ms.assetid: 68e57f41-0826-87bf-e767-7004268f5824
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

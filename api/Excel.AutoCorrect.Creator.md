@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoCorrect.Creator
 ms.assetid: 25c3b228-cfac-8703-acd9-533cf86387cb
 ms.date: 04/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

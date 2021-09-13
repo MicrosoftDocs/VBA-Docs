@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.MasterDeleteCanceled
 ms.assetid: a62cc5d8-c229-3c73-29f8-a41fb96dd5ea
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

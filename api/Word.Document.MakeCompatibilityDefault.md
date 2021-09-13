@@ -8,7 +8,7 @@ api_name:
 - Word.Document.MakeCompatibilityDefault
 ms.assetid: 06c3cede-312c-aacf-3780-4d79dd7c6fc3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

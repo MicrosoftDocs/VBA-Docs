@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.FormDescription
 ms.assetid: 618b1bda-696c-9232-f68b-37613940ab20
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

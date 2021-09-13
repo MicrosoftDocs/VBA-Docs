@@ -4,7 +4,7 @@ description: A collection of the SharedWorkspaceTask objects in the current shar
 ms.prod: office
 ms.assetid: 6323d5c3-b1ed-af53-25e6-e97b22554699
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

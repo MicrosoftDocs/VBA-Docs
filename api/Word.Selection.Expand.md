@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Expand
 ms.assetid: 8b716453-7656-e8b8-f6b0-0dc97ef2714d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

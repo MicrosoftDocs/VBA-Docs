@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.RowNumbers
 ms.assetid: e0e91e2a-f7b6-ef5b-8046-9e93a51395db
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.PasteSpecial
 ms.assetid: 97bfd298-f8e8-32f0-b05c-6a93ed651954
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

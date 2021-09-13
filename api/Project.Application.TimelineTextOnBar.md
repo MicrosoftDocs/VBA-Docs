@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TimelineTextOnBar
 ms.assetid: d57ec0d8-8e35-b6eb-1932-454210bc7dad
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

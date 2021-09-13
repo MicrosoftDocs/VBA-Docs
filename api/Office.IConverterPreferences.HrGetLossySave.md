@@ -8,7 +8,7 @@ api_name:
 - Office.IConverterPreferences.HrGetLossySave
 ms.assetid: 272d52de-e118-fe90-8e6f-adccd57e4ebc
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

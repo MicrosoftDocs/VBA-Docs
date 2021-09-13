@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequence.ConvertToAnimateInReverse
 ms.assetid: dabea9a8-1ac5-6e2a-1932-7051efb9577d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

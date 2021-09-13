@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.Application
 ms.assetid: 9d8eb663-9f14-331f-60ab-bee49651940b
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

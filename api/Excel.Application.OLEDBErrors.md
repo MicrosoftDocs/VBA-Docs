@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.OLEDBErrors
 ms.assetid: 0a42417f-f8b6-10bf-712a-44c1107f0f3e
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

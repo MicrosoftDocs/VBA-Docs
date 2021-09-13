@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.TextWrap
 ms.assetid: 40fbc7aa-0a1b-7835-76bf-1815d7ccffc4
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

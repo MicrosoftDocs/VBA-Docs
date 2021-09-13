@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.BeforeMasterDelete
 ms.assetid: 5f482099-7b42-de36-6e51-34ff463a49ed
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

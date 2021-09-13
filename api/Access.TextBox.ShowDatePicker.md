@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ShowDatePicker
 ms.assetid: 5d65938b-ac7b-abbd-2e50-41f41c0b1558
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

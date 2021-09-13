@@ -8,7 +8,7 @@ api_name:
 - Excel.Slicer.DisplayHeader
 ms.assetid: e94dcb16-367c-24fe-359d-786900650f97
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

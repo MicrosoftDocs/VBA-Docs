@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Rows
 ms.assetid: 9a72b6bb-2aec-e37b-f1a2-005f910e1335
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

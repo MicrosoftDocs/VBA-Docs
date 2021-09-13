@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.MouseMove
 ms.assetid: 7f360b69-539e-bdf2-2ff5-1b67090e01ac
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

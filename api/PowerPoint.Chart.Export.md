@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.Export
 ms.assetid: 19b95f24-c262-902e-7e96-c488affeb88d
 ms.date: 08/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

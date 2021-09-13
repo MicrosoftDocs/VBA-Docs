@@ -8,7 +8,7 @@ api_name:
 - Access.CodeData.AllTables
 ms.assetid: d7feab36-aa71-6085-f395-a23571460d25
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

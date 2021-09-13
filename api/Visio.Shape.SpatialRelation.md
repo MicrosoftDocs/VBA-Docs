@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.SpatialRelation
 ms.assetid: 7e9f26b5-2887-493f-01c1-5e3900ea8c05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

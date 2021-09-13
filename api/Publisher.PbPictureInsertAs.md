@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbPictureInsertAs
 ms.assetid: 210c5813-fd62-f736-779e-85975f6536f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

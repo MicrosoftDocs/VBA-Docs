@@ -8,7 +8,7 @@ api_name:
 - Access.EmptyCell.GridlineTint
 ms.assetid: a8749810-6ec0-d10b-2ea8-71531e2dac0a
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

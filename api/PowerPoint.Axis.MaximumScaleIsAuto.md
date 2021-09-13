@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.MaximumScaleIsAuto
 ms.assetid: f25fd6a9-4ca7-2f06-3db4-35002f1c91ae
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

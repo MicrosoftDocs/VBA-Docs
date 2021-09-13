@@ -8,7 +8,7 @@ api_name:
 - Access.AcImportXMLOption
 ms.assetid: f51b40cc-b8bb-addd-2bc6-5a0300e2cc2a
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

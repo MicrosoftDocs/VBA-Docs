@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.DrawingBackgroundColorGradient
 ms.assetid: 3bd4693b-4312-3b99-5f48-a4d7909cf41c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

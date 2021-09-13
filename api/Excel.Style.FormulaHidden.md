@@ -8,7 +8,7 @@ api_name:
 - Excel.Style.FormulaHidden
 ms.assetid: 7b36f86b-2f88-3fb4-173e-cca7e747a195
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

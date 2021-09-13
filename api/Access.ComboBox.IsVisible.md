@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.IsVisible
 ms.assetid: 8dddc896-d0fa-084d-948d-670e7957e737
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

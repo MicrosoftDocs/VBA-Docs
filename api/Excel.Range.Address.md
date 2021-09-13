@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Address
 ms.assetid: aaa2432e-9bb1-4a48-3868-86455bc53938
 ms.date: 05/10/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.RTD
 ms.assetid: e181eb35-d8aa-4f46-3d50-6aa51776be7e
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.AutoSize
 ms.assetid: 581fd371-1ab4-78fd-1f04-e775bc576125
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

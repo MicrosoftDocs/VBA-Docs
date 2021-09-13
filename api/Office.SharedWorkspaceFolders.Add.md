@@ -8,7 +8,7 @@ api_name:
 - Office.SharedWorkspaceFolders.Add
 ms.assetid: 5b941034-502b-b2a5-c6b3-aed57bc2a578
 ms.date: 01/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

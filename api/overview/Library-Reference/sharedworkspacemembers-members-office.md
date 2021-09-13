@@ -4,7 +4,7 @@ description: A collection of the SharedWorkspaceMember objects in the current sh
 ms.prod: office
 ms.assetid: 296d0a8c-f0e6-769b-d5a4-8d38ad4403e2
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

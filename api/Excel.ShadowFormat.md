@@ -8,7 +8,7 @@ api_name:
 - Excel.ShadowFormat
 ms.assetid: 2566c68e-f8d6-badc-3ce9-b6ae5f9c1cc2
 ms.date: 04/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

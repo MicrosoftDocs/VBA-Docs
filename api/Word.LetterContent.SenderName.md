@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.SenderName
 ms.assetid: 3f6825d1-98ab-0539-d09b-508697dbfe14
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

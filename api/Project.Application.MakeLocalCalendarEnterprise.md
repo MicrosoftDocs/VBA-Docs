@@ -8,7 +8,7 @@ api_name:
 - Project.Application.MakeLocalCalendarEnterprise
 ms.assetid: deb355ad-39ca-77cd-7d0d-f5915c7185da
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

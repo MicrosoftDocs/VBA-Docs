@@ -8,7 +8,7 @@ api_name:
 - Excel.Characters.Caption
 ms.assetid: 8724563d-2954-2141-de30-f5058912e060
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.XMLUseXSLTWhenSaving
 ms.assetid: b2161a4f-9169-6927-8f37-2bc7f5a0b319
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Charts.PrintOut
 ms.assetid: ad6e659e-0fa8-a0c0-1a24-a0ec0e3b55b8
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

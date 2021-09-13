@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Cell.Borders
 ms.assetid: 1c9e2d38-237b-4c86-1135-af7533876501
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

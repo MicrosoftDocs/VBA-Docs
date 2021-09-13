@@ -8,7 +8,7 @@ api_name:
 - Excel.Charts.Count
 ms.assetid: e759c195-52b0-03d8-06c5-aff76a773d49
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

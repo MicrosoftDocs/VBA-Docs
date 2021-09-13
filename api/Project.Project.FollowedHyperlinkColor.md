@@ -8,7 +8,7 @@ api_name:
 - Project.Project.FollowedHyperlinkColor
 ms.assetid: d3af6416-bc5e-928e-37b5-1751abeb968d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

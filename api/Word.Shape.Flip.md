@@ -8,7 +8,7 @@ api_name:
 - Word.Shape.Flip
 ms.assetid: 6da14b0b-9e75-7891-dd92-db771cc242a4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

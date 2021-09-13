@@ -3,7 +3,7 @@ title: XlCategoryLabelLevel enumeration (Word)
 ms.prod: word
 ms.assetid: 928d0096-9743-1cd6-842f-12050faefdf3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

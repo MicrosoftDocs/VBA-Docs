@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AllowPivotChartView
 ms.assetid: 5585b530-d114-d07e-63cb-8d96dec458e8
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

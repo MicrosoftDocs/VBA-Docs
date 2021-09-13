@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.OnClick
 ms.assetid: 9cb266d8-6e7d-80c9-c5e9-1d2406b7d54d
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

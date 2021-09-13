@@ -8,7 +8,7 @@ api_name:
 - Word.Legend.IncludeInLayout
 ms.assetid: dd0e4c44-ba2a-191b-fa0a-d231a27506f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

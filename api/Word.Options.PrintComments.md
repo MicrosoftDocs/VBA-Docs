@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintComments
 ms.assetid: 8c65566a-a6e8-5c38-9ef5-23591086bb68
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

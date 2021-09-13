@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.AfterUpdate
 ms.assetid: 58e20c71-189c-d2df-54a0-42b8fad6ec07
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

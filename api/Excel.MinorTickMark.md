@@ -8,7 +8,7 @@ api_name:
 - Excel.MinorTickMark
 ms.assetid: cbb515d8-fdae-2546-f13b-80ed75cc4192
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

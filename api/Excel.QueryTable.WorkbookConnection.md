@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.WorkbookConnection
 ms.assetid: d35d7bb6-5036-1dd9-46ff-e96127d3db09
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.XmlMap.Export
 ms.assetid: 174f902f-7244-866d-b16c-6a6bcf0ae58b
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.StyleAdded
 ms.assetid: a966cbc6-529e-5525-5fc2-ed9cd3250dfa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarControl.Parameter
 ms.assetid: 6a1fd988-0c3f-3945-307f-e4e647c3642c
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.ZOrder
 ms.assetid: e2eede8f-6e8f-2219-2cb2-47db93e9f90a
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

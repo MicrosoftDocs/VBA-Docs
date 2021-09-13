@@ -8,7 +8,7 @@ api_name:
 - Access.Form.RecordSelectors
 ms.assetid: 7700f0c5-621f-5145-57be-777d53228379
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

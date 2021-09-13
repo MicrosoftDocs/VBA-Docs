@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PasteAdjustWordSpacing
 ms.assetid: 28c20e9a-8ebe-323f-0fa5-63c6310e988e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

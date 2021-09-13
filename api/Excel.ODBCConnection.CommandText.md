@@ -8,7 +8,7 @@ api_name:
 - Excel.ODBCConnection.CommandText
 ms.assetid: f76073fd-5052-5813-ee9a-631c795e9b76
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

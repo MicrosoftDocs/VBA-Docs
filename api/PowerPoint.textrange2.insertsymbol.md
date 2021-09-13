@@ -3,7 +3,7 @@ title: TextRange2.InsertSymbol method (PowerPoint)
 ms.assetid: cfec2f5d-fcd8-4a49-bf1e-5c86a0570ff7
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

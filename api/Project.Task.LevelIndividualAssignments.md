@@ -5,7 +5,7 @@ api_name:
 - Project.Task.LevelIndividualAssignments
 ms.assetid: 79db0de9-485a-148e-b3ae-ba460ac29ca6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

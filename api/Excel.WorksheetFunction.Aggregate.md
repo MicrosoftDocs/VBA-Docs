@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Aggregate
 ms.assetid: 261e51bf-44d4-900c-2a5d-c6612ec9f98c
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Degrees
 ms.assetid: 3f66157e-0d2d-f746-1d73-ee7093e6c759
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

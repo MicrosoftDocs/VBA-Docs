@@ -8,7 +8,7 @@ api_name:
 - Access.CodeProject.UpdateDependencyInfo
 ms.assetid: 52530a57-6246-d204-b317-0673f762f138
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

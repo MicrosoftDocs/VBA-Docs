@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 3a460343-126c-5d83-38c2-c7fe7d2c59d1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

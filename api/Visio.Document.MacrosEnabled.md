@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.MacrosEnabled
 ms.assetid: 361b7bad-55f9-2d4b-4de3-8a12da48d59e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

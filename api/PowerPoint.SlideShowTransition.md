@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowTransition
 ms.assetid: 60707d0d-62a8-0366-c22f-c5c5635fd762
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

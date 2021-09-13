@@ -8,7 +8,7 @@ api_name:
 - Access.Application.GUIDFromString
 ms.assetid: 943da2f6-a578-f05d-5778-990b6892fc64
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

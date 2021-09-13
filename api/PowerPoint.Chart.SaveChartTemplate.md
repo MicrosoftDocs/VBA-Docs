@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.SaveChartTemplate
 ms.assetid: 568abe18-27d3-4944-7bca-186faa534959
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

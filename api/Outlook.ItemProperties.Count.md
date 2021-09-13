@@ -8,7 +8,7 @@ api_name:
 - Outlook.ItemProperties.Count
 ms.assetid: 4838ad3a-a06e-b7e2-0566-734c9b79515c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

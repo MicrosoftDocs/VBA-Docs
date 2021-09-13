@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Page.Title
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Page.Title property (Visio)

@@ -8,7 +8,7 @@ api_name:
 - Access.Section.CanShrink
 ms.assetid: e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc
 ms.date: 02/28/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

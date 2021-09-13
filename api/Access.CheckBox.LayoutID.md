@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.LayoutID
 ms.assetid: a54fcf07-a233-aa9d-4014-4fd75abe5591
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

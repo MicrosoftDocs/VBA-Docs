@@ -8,7 +8,7 @@ api_name:
 - Project.Application.TaskDeliverableSync
 ms.assetid: e5903c42-bade-959b-3c20-d02e3cf56b24
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

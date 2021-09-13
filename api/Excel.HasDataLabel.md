@@ -8,7 +8,7 @@ api_name:
 - Excel.HasDataLabel
 ms.assetid: d8fd8c48-4723-4da9-0b8a-82d02c93a19f
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

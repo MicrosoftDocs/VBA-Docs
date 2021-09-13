@@ -8,7 +8,7 @@ api_name:
 - Word.CoAuthor.ID
 ms.assetid: a3118c4d-c4c7-9084-3182-8a449f32b020
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShadowFormat.IncrementOffsetX
 ms.assetid: 29fbda10-d3ed-963f-364d-5a5bbce92f34
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebCommandButton.ButtonText
 ms.assetid: 0a9a7bd9-de7e-7e80-0aa2-7cefda17f354
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ConnectorFormat.BeginDisconnect
 ms.assetid: 30d8ffc0-e8a5-6d9e-a098-8c06d5fde3a9
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.IconSet.Item
 ms.assetid: 4208ddeb-dedb-3d96-c705-adddfcd9a2fe
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

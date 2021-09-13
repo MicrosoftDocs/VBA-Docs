@@ -8,7 +8,7 @@ api_name:
 - Excel.LinkFormat.Locked
 ms.assetid: 13e9baf7-ecb0-f193-4b69-7e15c9463ed0
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

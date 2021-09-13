@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.RefreshAll
 ms.assetid: c1a956dc-263c-5c24-3b51-fc4af22dcd33
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

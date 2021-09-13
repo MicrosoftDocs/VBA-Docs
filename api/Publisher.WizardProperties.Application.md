@@ -8,7 +8,7 @@ api_name:
 - Publisher.WizardProperties.Application
 ms.assetid: 2532d645-f317-90cb-6d78-d631bc116582
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

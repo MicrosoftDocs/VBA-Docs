@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.PTCondition
 ms.assetid: 313c3c44-3ca5-dbc1-fcde-3c2c0c3e2c0e
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

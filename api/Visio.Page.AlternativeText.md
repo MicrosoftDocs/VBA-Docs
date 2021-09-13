@@ -4,7 +4,7 @@ ms.prod: visio
 api_name:
 - Visio.Page.AlternativeText
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Page.AlternativeText property (Visio)

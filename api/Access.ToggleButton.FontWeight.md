@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.FontWeight
 ms.assetid: 8b74b5cb-c5d0-82d4-a902-42dcd49ee106
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.KoreanUseAutoChangeList
 ms.assetid: 9ee57b2d-2a13-8055-d543-234134484fc4
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.BuildingBlocks
 ms.assetid: 05841850-c5a1-f1f0-6a57-a4f16e76a1df
 ms.date: 05/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

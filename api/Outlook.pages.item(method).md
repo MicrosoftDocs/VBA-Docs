@@ -3,7 +3,7 @@ title: Pages.Item Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c2d80659-9741-115b-a78e-553e2b42f8d2
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Pages.Item Method (Outlook Forms Script)

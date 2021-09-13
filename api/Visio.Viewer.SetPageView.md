@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.SetPageView
 ms.assetid: 669c8d29-9793-08a3-05ee-54aab77881bb
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

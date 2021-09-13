@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.FontUnderline
 ms.assetid: 67bf0551-21c0-73cd-9418-dc7b3582f53c
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

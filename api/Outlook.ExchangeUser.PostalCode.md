@@ -8,7 +8,7 @@ api_name:
 - Outlook.ExchangeUser.PostalCode
 ms.assetid: b135d7a6-daa1-4154-d6e7-506c59860a81
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

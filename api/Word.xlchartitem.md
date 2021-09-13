@@ -3,7 +3,7 @@ title: XlChartItem enumeration (Word)
 ms.prod: word
 ms.assetid: 66a4e750-6edf-18e9-ba02-72913796954b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

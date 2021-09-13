@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.GraphicItem.Delete
 ms.assetid: cd395089-594a-a021-0455-5bd7de9c3468
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Validation.ErrorTitle
 ms.assetid: bafa328c-9f2f-3bb3-be61-5772e28fed47
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

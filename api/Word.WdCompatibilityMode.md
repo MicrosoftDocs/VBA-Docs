@@ -5,7 +5,7 @@ api_name:
 - Word.WdCompatibilityMode
 ms.assetid: 244e1519-32ea-741c-7e2a-ff8a2e0713aa
 ms.date: 06/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

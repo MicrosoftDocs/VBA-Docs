@@ -5,7 +5,7 @@ api_name:
 - Excel.XlConnectionType
 ms.assetid: d1849087-2cd0-7b96-9d58-840033af0839
 ms.date: 11/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.HangulHanjaConversionDictionaries.ClearAll
 ms.assetid: 920a8b08-0475-131a-28cc-58cbeb8b6a9c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

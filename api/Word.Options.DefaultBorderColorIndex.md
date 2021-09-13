@@ -8,7 +8,7 @@ api_name:
 - Word.Options.DefaultBorderColorIndex
 ms.assetid: 8d430be3-b27e-7650-0c23-87436f088a0b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

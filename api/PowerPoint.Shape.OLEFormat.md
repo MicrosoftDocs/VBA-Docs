@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.OLEFormat
 ms.assetid: d9353732-0b91-ae53-a468-07a57359295d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

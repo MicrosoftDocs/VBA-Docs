@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.BoundLeft
 ms.assetid: 1ad36906-3dbf-9158-173b-b9047910f6d2
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

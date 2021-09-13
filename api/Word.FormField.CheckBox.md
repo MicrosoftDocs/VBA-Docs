@@ -8,7 +8,7 @@ api_name:
 - Word.FormField.CheckBox
 ms.assetid: 6843d3e0-8f34-422f-403e-3bab806dc6be
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

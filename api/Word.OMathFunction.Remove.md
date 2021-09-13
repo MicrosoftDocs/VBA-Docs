@@ -8,7 +8,7 @@ api_name:
 - Word.OMathFunction.Remove
 ms.assetid: 5c706b8d-39c1-c6c4-a5f5-e942d55a3a27
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ValueChange.Value
 ms.assetid: 928efc98-0420-e4b9-46fe-1b7124669b9a
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

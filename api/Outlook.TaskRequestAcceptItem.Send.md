@@ -5,7 +5,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Send
 ms.assetid: 47bbd12c-699e-8fb5-697d-e52e3acd12b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

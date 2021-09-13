@@ -8,7 +8,7 @@ api_name:
 - Access.AcNavigationSpan
 ms.assetid: 355a6133-aceb-d412-07f9-842b65a03a0f
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

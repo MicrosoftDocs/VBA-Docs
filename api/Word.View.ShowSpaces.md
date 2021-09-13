@@ -8,7 +8,7 @@ api_name:
 - Word.View.ShowSpaces
 ms.assetid: c560747d-691a-1ddb-b748-2c91f519ba53
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

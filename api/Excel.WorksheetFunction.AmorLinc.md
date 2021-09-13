@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.AmorLinc
 ms.assetid: 9daa4b32-2364-fcfc-13e8-c3e7689700d4
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

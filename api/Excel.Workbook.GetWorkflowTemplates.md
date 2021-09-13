@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.GetWorkflowTemplates
 ms.assetid: adff72bb-39ab-69ed-8a9b-defe75a5fede
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Chart.Export
 ms.assetid: 49660450-ae9f-c59e-8974-b04327a72dc0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

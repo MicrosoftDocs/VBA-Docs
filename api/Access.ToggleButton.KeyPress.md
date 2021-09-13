@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.KeyPress
 ms.assetid: 2f4d96de-5d2e-5a52-9df2-94262ad7def2
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

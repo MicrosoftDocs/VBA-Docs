@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.TBillPrice
 ms.assetid: ab67c60b-d612-9f96-4c64-00ae7344ff9c
 ms.date: 05/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

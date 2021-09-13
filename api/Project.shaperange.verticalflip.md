@@ -3,7 +3,7 @@ title: ShapeRange.VerticalFlip property (Project)
 ms.prod: project-server
 ms.assetid: ce162eda-0bc5-b13a-fcf3-a2da0165c3da
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

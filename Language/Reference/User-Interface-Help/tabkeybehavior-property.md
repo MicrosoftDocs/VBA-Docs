@@ -8,7 +8,7 @@ api_name:
 - Office.TabKeyBehavior
 ms.assetid: 9019c946-8590-2538-fbf0-c9d131a78963
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenReport
 ms.assetid: 3c08755a-5116-f085-d498-725dc12e62f1
 ms.date: 03/07/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

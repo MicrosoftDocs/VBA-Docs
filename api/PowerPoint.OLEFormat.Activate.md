@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.OLEFormat.Activate
 ms.assetid: cc4691a3-726f-5093-6345-f688b68ac15a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

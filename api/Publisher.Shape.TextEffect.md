@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.TextEffect
 ms.assetid: 187b55f8-9593-6a00-61e6-dbcf5c56b987
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

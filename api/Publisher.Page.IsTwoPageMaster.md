@@ -8,7 +8,7 @@ api_name:
 - Publisher.Page.IsTwoPageMaster
 ms.assetid: dbfc3c21-0070-3f0a-c0b0-746d83c46765
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SectionProperties.FirstSlide
 ms.assetid: 136be75f-7932-8f91-767a-3eda127e47af
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

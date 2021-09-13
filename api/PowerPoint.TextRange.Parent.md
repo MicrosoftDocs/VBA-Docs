@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextRange.Parent
 ms.assetid: 303cc0cf-8c1c-60af-648e-fea4d25abb36
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 ms.assetid: 70013db6-bb60-8c19-5ef4-1cb54f79b68c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Formatting and VBA codes for headers and footers

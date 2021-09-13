@@ -5,7 +5,7 @@ api_name:
 - Office.GradientStops.Insert
 ms.assetid: 98aec7ed-44f9-c9b4-7a1a-e5b9a1d26d95
 ms.date: 01/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

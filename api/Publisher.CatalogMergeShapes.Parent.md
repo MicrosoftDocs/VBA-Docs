@@ -8,7 +8,7 @@ api_name:
 - Publisher.CatalogMergeShapes.Parent
 ms.assetid: 9e16517b-4b54-f7fb-6407-4ac577085149
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.BeforePrint
 ms.assetid: 4d819aab-726e-ab00-89e0-aedcb62d834e
 ms.date: 06/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

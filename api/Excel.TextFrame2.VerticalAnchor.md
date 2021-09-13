@@ -5,7 +5,7 @@ api_name:
 - Excel.TextFrame2.VerticalAnchor
 ms.assetid: 605adc62-1b33-d1d9-46ea-7154efb748ed
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

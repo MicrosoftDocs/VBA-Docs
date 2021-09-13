@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.SaveChartTemplate
 ms.assetid: d9e36023-b5bb-aaf4-5b34-9a22df468ced
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

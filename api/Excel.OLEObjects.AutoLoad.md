@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObjects.AutoLoad
 ms.assetid: 0b833fe9-33c6-e97d-3b19-52429ed88d88
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

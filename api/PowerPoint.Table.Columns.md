@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Table.Columns
 ms.assetid: 0645fa19-d5a2-1f4c-ae15-9623925d39bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

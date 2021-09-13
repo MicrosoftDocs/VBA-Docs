@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.AutoDiscoverComplete
 ms.assetid: b7cac212-4d38-660e-0caf-48f97035f14a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

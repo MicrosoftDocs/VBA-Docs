@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.AdvancedFilter
 ms.assetid: fe1a19fc-ab0f-6149-25d9-6102d5789757
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Visio.Viewer.PropertyDialogEnabled
 ms.assetid: 66055cb8-535d-16e5-386d-1e7a44faa669
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

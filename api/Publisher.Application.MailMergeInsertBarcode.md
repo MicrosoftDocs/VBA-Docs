@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.MailMergeInsertBarcode
 ms.assetid: 6b901953-eaff-0189-1d33-678e935a2f7e
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

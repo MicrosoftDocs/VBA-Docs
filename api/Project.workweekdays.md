@@ -3,7 +3,7 @@ title: WorkWeekDays object (Project)
 ms.prod: project-server
 ms.assetid: 70ef7283-1dc1-7b19-5d84-5b3d5698e169
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

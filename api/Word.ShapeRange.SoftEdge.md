@@ -8,7 +8,7 @@ api_name:
 - Word.ShapeRange.SoftEdge
 ms.assetid: f25d7dc2-05a5-91f0-924e-2807d66bc8cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

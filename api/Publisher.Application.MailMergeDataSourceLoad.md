@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.MailMergeDataSourceLoad
 ms.assetid: afca3a05-d6a6-15f1-8cbf-593777066757
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: Engagement.ProposedFinish property (Project)
 ms.assetid: 2c2233f2-ee0b-5054-1300-ed4afdfd4c5f
 ms.date: 06/08/2017
 ms.prod: project-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

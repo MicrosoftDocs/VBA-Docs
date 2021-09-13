@@ -8,7 +8,7 @@ api_name:
 - Word.Bookmarks.Count
 ms.assetid: 2a399e4d-19b6-fd32-8c17-e63941972e4f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

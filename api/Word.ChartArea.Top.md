@@ -8,7 +8,7 @@ api_name:
 - Word.ChartArea.Top
 ms.assetid: ce59ca5d-ebb5-93bf-f68a-27d38ee941f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

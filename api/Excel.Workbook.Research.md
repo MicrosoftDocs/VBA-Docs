@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.Research
 ms.assetid: 3a7ba740-314b-664b-3be6-1e8cdeded234
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

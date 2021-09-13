@@ -8,7 +8,7 @@ api_name:
 - Outlook.Account.ExchangeMailboxServerName
 ms.assetid: f75354c9-3374-140f-63a6-ca04ce6101cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

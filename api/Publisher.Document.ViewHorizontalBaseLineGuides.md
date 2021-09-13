@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.ViewHorizontalBaseLineGuides
 ms.assetid: e5471313-38e0-9454-04af-4c85d976b312
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

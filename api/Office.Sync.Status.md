@@ -8,7 +8,7 @@ api_name:
 - Office.Sync.Status
 ms.assetid: fdddff38-268b-835a-7c8d-db76d862e392
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

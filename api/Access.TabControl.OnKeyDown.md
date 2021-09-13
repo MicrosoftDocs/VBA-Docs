@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.OnKeyDown
 ms.assetid: 2ced5814-b1b0-0fff-1003-a5e72e66dbc3
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ProgressLines
 ms.assetid: d1c56c86-3882-bfa1-dff8-ed42dd5ce8f2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

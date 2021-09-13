@@ -5,7 +5,7 @@ api_name:
 - Office.MsoSharedWorkspaceTaskPriority
 ms.assetid: eb893f36-92ca-ab44-423b-24cff4bf971c
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

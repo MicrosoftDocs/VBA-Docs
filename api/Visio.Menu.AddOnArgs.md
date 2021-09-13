@@ -8,7 +8,7 @@ api_name:
 - Visio.Menu.AddOnArgs
 ms.assetid: dcf410a5-24e0-8ccc-acfe-9bec39603a15
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Clear
 ms.assetid: 56f46ac7-8bb0-2651-8024-312c7cb7356c
 ms.date: 05/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

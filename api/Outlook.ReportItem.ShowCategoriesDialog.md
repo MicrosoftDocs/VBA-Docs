@@ -8,7 +8,7 @@ api_name:
 - Outlook.ReportItem.ShowCategoriesDialog
 ms.assetid: d73cf745-580c-47c9-c011-55d88460295e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

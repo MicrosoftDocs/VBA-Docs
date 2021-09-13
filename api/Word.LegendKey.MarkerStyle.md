@@ -8,7 +8,7 @@ api_name:
 - Word.LegendKey.MarkerStyle
 ms.assetid: b083dee8-4e0f-a859-8dc3-95ef77e26221
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Paragraph.OutlineDemote
 ms.assetid: 02e65a97-6334-5205-b69e-a38f7aaeb8fd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

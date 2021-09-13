@@ -8,7 +8,7 @@ api_name:
 - Excel.VaryByCategories
 ms.assetid: e64bd5cb-1dfa-b78a-ee7e-cf3eb7b4a788
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

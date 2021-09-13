@@ -8,7 +8,7 @@ api_name:
 - Excel.ColorStop.TintAndShade
 ms.assetid: 64602eee-9196-fa9b-9a09-e11a4433b4f3
 ms.date: 04/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.OutlineCode.OnlyLeaves
 ms.assetid: cc477127-c784-fdea-53b1-7399d18d6b8b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

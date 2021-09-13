@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertDateTime
 ms.assetid: f9cfca41-e0f2-4656-5fa2-2463c50af1f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

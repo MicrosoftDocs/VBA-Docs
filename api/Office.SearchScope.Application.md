@@ -5,7 +5,7 @@ api_name:
 - Office.SearchScope.Application
 ms.assetid: a05fa069-e742-8c14-d10a-840469e6b535
 ms.date: 01/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

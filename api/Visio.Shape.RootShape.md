@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.RootShape
 ms.assetid: c2e91d43-4968-cfee-e53b-4df115d171f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

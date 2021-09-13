@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.ShowTableStyleRowStripes
 ms.assetid: e4853b8a-862f-857b-2d61-a0da3a78e40d
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

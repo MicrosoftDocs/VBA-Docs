@@ -8,7 +8,7 @@ api_name:
 - Word.Dialog.Parent
 ms.assetid: 7af230b6-2653-bca0-0a55-9da042838cb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

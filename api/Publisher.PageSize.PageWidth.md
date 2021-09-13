@@ -8,7 +8,7 @@ api_name:
 - Publisher.PageSize.PageWidth
 ms.assetid: 5b8d9f75-06b6-51a8-8463-57eac69f0197
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

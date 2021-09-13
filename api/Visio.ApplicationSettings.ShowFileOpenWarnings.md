@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ShowFileOpenWarnings
 ms.assetid: 643daf77-2109-5609-6761-3d3d0be066c0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.ListColumns.Parent
 ms.assetid: 53182784-926e-d800-7b7b-2090d5a0ad42
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

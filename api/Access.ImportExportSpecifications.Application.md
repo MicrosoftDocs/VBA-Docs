@@ -8,7 +8,7 @@ api_name:
 - Access.ImportExportSpecifications.Application
 ms.assetid: 513bafb1-c905-20cd-d8a4-e7379031a54a
 ms.date: 03/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.ReminderPlaySound
 ms.assetid: a9941154-6c65-57c7-1dab-6d6a59620d92
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

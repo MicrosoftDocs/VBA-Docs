@@ -3,7 +3,7 @@ title: Comment.CreateDate property (Visio)
 ms.prod: visio
 ms.assetid: b643e13e-da12-a992-3a59-99b37f003fb9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

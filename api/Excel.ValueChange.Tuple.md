@@ -8,7 +8,7 @@ api_name:
 - Excel.ValueChange.Tuple
 ms.assetid: 911c65e3-a15c-81b3-316b-155d2ff55ea4
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

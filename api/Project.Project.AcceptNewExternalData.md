@@ -8,7 +8,7 @@ api_name:
 - Project.Project.AcceptNewExternalData
 ms.assetid: 6060d7df-9da5-520c-8293-f7ef2a1597d0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.FillFormat.ForeColor
 ms.assetid: e5ee9372-6737-e9aa-4d74-24991ae2007e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

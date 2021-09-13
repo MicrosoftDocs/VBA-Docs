@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.DocumentSheet
 ms.assetid: 914bf120-2f7c-6a2e-0f8a-a6b05252f49b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

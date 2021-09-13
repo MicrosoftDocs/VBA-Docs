@@ -8,7 +8,7 @@ api_name:
 - Excel.GradientDegree
 ms.assetid: 6f325dc0-5f6c-7a55-52fa-55eeb15ccfe6
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

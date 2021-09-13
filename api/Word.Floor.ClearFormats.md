@@ -8,7 +8,7 @@ api_name:
 - Word.Floor.ClearFormats
 ms.assetid: 401aeace-51c9-0d39-0646-3f49c80d2d15
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotItem.Caption
 ms.assetid: 5b7f3136-971e-6e11-f709-7fffbc86975a
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

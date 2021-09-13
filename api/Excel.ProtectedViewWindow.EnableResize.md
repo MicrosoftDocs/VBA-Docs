@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.EnableResize
 ms.assetid: 110c4080-7dea-e34d-224b-47337e5d6777
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

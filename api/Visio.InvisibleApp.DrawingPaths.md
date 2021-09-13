@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.DrawingPaths
 ms.assetid: 8c59c65b-c1d3-4a72-49ff-566d4fb1d492
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

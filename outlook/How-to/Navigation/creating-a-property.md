@@ -3,7 +3,7 @@ title: Creating a Property
 ms.prod: outlook
 ms.assetid: 511754a6-e9b7-6ad6-7159-62105ec53a76
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

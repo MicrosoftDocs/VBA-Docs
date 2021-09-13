@@ -8,7 +8,7 @@ api_name:
 - Word.Documents.CanCheckOut
 ms.assetid: eaa052ff-0194-4c3f-a8e3-5a18ae77038e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

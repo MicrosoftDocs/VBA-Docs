@@ -8,7 +8,7 @@ api_name:
 - Project.Application.WindowNewWindow
 ms.assetid: fe0c2bcb-7bee-3bec-9c47-3015938ae75d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

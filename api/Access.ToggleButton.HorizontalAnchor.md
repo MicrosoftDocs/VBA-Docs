@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.HorizontalAnchor
 ms.assetid: 89bab994-84a3-b363-7169-a12418ef1703
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

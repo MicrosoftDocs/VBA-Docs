@@ -8,7 +8,7 @@ api_name:
 - Word.Footnote.Creator
 ms.assetid: 38ed2317-24ab-c45a-c948-ab16401f1df6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

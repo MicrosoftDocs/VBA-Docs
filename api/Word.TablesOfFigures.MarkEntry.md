@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfFigures.MarkEntry
 ms.assetid: bd5847c0-5714-cb41-5809-138a97ab10f9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

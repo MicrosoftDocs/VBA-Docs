@@ -8,7 +8,7 @@ api_name:
 - Word.TablesOfFigures.Parent
 ms.assetid: bea138b0-c091-337b-54ae-0e6d3254d9f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

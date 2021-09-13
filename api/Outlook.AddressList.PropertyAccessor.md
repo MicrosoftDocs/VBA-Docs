@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressList.PropertyAccessor
 ms.assetid: 8cc763f0-e73f-97f9-5a30-e6f50b17ca2c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.IndentLevel
 ms.assetid: f4d5af31-904a-27eb-fb2d-e5ae38a7ebb9
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

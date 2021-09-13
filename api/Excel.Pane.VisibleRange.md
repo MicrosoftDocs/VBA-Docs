@@ -8,7 +8,7 @@ api_name:
 - Excel.Pane.VisibleRange
 ms.assetid: 03853894-ca83-1672-21bb-15099bab03d8
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

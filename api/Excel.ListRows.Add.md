@@ -8,7 +8,7 @@ api_name:
 - Excel.ListRows.Add
 ms.assetid: 32213e09-fd25-3787-3ab8-45ee1249ca1c
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

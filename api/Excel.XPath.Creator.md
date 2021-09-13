@@ -8,7 +8,7 @@ api_name:
 - Excel.XPath.Creator
 ms.assetid: 845511a6-088b-0bba-a17c-3adf9baf65d8
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

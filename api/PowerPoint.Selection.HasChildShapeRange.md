@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Selection.HasChildShapeRange
 ms.assetid: f86dac76-66cc-7512-fe7c-1a16f5a381f8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

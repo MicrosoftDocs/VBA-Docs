@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.Paths
 ms.assetid: 8a179059-7cab-728a-c7b8-a4d8b31476ee
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

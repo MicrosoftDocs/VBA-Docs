@@ -8,7 +8,7 @@ api_name:
 - Word.Pane.Creator
 ms.assetid: 142cc9bf-41f9-fcb5-73c0-8cc9f21cd553
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

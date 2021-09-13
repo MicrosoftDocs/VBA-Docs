@@ -3,7 +3,7 @@ title: ListParagraphs object (Word)
 ms.prod: word
 ms.assetid: 759c510b-bca1-0b4b-005c-5a3783dd8e96
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

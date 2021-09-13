@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.PanAndZoom
 ms.assetid: 83d1ac9d-e489-0656-a573-ebadd6e06156
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

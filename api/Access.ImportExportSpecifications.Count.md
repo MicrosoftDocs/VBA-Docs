@@ -8,7 +8,7 @@ api_name:
 - Access.ImportExportSpecifications.Count
 ms.assetid: e3c722f8-0ccd-bd0a-7e2a-f873413caa93
 ms.date: 03/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

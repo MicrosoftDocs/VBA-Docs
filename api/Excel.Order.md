@@ -8,7 +8,7 @@ api_name:
 - Excel.Order
 ms.assetid: aa56d241-870c-c3a9-00da-269fb8c314ea
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

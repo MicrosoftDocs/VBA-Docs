@@ -5,7 +5,7 @@ api_name:
 - Project.PjTaskWarnings
 ms.assetid: 02bff43f-4459-3c34-5e8f-c441ffefe954
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

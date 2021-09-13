@@ -8,7 +8,7 @@ api_name:
 - Excel.CalloutFormat.AutoLength
 ms.assetid: aadce7bf-e4b3-b56d-8a10-cf8183282149
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

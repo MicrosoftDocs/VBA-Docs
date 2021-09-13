@@ -8,7 +8,7 @@ api_name:
 - Access.AllFunctions.Count
 ms.assetid: 198a89c4-b798-cf69-22f7-7bf3a5b8accf
 ms.date: 02/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

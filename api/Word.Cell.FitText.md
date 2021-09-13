@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.FitText
 ms.assetid: ba600e01-1892-557d-95e8-fc9cdea8ef6b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

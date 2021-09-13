@@ -8,7 +8,7 @@ api_name:
 - Outlook.Inspector.SetCurrentFormPage
 ms.assetid: a0e11ca9-d5be-cec9-ad78-bfbaec1b92d6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

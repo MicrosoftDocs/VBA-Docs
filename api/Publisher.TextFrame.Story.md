@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextFrame.Story
 ms.assetid: 7bbe0967-83aa-745b-ad13-8a7dfe61811c
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CalloutFormat.AutoLength
 ms.assetid: 345f77e7-0043-9c4f-e981-18f370314db1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

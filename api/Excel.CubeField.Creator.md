@@ -8,7 +8,7 @@ api_name:
 - Excel.CubeField.Creator
 ms.assetid: 2534f870-90cd-e3ab-b1fd-d63455a75809
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

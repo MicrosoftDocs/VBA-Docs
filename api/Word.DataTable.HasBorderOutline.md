@@ -8,7 +8,7 @@ api_name:
 - Word.DataTable.HasBorderOutline
 ms.assetid: c7766f52-ee4f-f51b-a716-b1b76dcb434f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.HasLinks
 ms.assetid: 71e0e494-a96a-53e5-5e38-92b3ce331076
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

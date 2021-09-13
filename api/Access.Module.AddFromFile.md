@@ -8,7 +8,7 @@ api_name:
 - Access.Module.AddFromFile
 ms.assetid: a782b4dc-a4be-5166-3ce3-deb87ed1195b
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

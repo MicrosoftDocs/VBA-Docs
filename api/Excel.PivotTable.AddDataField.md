@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.AddDataField
 ms.assetid: 768b1eb7-80ea-fb0f-0de5-803ec19bbe18
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

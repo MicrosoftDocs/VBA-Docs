@@ -8,7 +8,7 @@ api_name:
 - Word.Window.ScrollIntoView
 ms.assetid: b16afab5-8645-dfd6-2b4b-8924fe49916a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

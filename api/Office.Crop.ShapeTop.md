@@ -5,7 +5,7 @@ api_name:
 - Office.Crop.ShapeTop
 ms.assetid: 4bbb6765-e571-0d66-d6e6-96cc54e67d3f
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

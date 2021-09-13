@@ -8,7 +8,7 @@ api_name:
 - Excel.ShowPercentage
 ms.assetid: 32e2e547-8fb6-f3c7-3f61-a32a5d77d98d
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

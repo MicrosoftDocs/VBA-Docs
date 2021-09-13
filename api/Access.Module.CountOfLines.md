@@ -8,7 +8,7 @@ api_name:
 - Access.Module.CountOfLines
 ms.assetid: 6c3bb4c8-15a9-6365-155d-d28dc0c5de78
 ms.date: 03/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

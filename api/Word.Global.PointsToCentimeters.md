@@ -8,7 +8,7 @@ api_name:
 - Word.Global.PointsToCentimeters
 ms.assetid: 82f64aa2-3c9c-a3e0-5326-8d4227cee170
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

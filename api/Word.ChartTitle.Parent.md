@@ -8,7 +8,7 @@ api_name:
 - Word.ChartTitle.Parent
 ms.assetid: 65d62f08-f1ef-cc3e-3515-f9eb89684972
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

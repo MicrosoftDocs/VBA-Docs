@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.VerticalFlip
 ms.assetid: 3b50edac-a167-8e07-3286-6ced14bb715d
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

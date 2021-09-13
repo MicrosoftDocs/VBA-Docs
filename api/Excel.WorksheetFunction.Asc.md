@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Asc
 ms.assetid: c89ee3d9-1a3b-6a85-7e5e-b8c3049d63a0
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

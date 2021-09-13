@@ -3,7 +3,7 @@ title: ViewCtl.EnableRowPersistance Property (Outlook View Control)
 ms.prod: outlook
 ms.assetid: e1a16e69-50b0-30cc-49a4-5dbaaf417b8f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

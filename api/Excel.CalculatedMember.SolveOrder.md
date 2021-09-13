@@ -8,7 +8,7 @@ api_name:
 - Excel.CalculatedMember.SolveOrder
 ms.assetid: 45e461ac-4900-000b-cb72-4022bcc1a7c9
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

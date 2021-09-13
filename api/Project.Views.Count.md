@@ -5,7 +5,7 @@ api_name:
 - Project.Views.Count
 ms.assetid: 3a9d5722-2233-4f9a-fb5f-73c5bffc52c5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TabControl.GridlineWidthBottom
 ms.assetid: 1ac4edd2-df9b-f7f9-7bbb-234d46ba81a7
 ms.date: 02/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

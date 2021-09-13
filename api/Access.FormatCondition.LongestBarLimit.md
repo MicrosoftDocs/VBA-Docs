@@ -8,7 +8,7 @@ api_name:
 - Access.FormatCondition.LongestBarLimit
 ms.assetid: 5cf6d17c-78de-f67b-0b47-33b6d05e62cd
 ms.date: 03/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

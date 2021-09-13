@@ -8,7 +8,7 @@ api_name:
 - Excel.Insert
 ms.assetid: 5f6a5961-9278-a2fa-6f08-4360646a7566
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

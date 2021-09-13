@@ -8,7 +8,7 @@ api_name:
 - Access.AcWebUserGroupsDisplay
 ms.assetid: f9036c50-5fa3-63ec-f569-a058e48057da
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

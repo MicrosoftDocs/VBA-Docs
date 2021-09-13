@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.Pattern
 ms.assetid: 2485a32b-422c-fc99-df19-05e23925579c
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

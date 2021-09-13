@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.BulletFormat.UseTextFont
 ms.assetid: 8d572d8d-bd89-ec94-2484-045306d2730e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

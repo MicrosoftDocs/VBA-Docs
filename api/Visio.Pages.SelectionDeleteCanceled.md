@@ -8,7 +8,7 @@ api_name:
 - Visio.Pages.SelectionDeleteCanceled
 ms.assetid: 3644b404-e5e5-b18c-5131-406822fd66e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

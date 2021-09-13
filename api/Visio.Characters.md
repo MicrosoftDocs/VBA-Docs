@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters
 ms.assetid: aaff009b-c665-c2ea-8494-e917126d8491
 ms.date: 06/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

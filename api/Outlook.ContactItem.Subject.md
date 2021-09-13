@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.Subject
 ms.assetid: 99c06ab3-1ecd-062f-0b47-1b102b136cbb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

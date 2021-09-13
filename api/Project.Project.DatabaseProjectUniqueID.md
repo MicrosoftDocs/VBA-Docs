@@ -8,7 +8,7 @@ api_name:
 - Project.Project.DatabaseProjectUniqueID
 ms.assetid: c2630e58-286e-1ff8-351e-9510f6ff2d4a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

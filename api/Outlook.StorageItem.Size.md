@@ -8,7 +8,7 @@ api_name:
 - Outlook.StorageItem.Size
 ms.assetid: 7bf2fd39-8705-aa1b-af76-a3a21073d152
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

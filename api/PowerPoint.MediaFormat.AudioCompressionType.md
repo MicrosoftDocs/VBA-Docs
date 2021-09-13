@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.AudioCompressionType
 ms.assetid: 7324393f-bfff-9de7-60d1-6acbc9f0b397
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Document.CanCheckin
 ms.assetid: 7021b14b-3e45-9850-bc59-d76c267f2934
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

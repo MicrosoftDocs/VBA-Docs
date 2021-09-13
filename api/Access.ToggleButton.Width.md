@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.Width
 ms.assetid: 77c69a42-4203-77ee-9d2e-b100cad9b75b
 ms.date: 02/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Options.DiacriticColorVal
 ms.assetid: bbc1c850-f4d4-7ddb-5fbf-2b9f07788a44
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

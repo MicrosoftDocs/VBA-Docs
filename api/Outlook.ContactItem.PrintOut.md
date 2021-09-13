@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.PrintOut
 ms.assetid: 97546d46-1171-76f6-1f4f-e02cc39110a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

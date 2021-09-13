@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.FileDialog
 ms.assetid: 96a6fdc5-1bde-68dd-2493-9d8a92915afb
 ms.date: 04/04/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

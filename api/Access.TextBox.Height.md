@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Height
 ms.assetid: 3f3d88d9-3561-a25b-5f22-a21b9cad6673
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlRecipientSelectors
 ms.assetid: d7025d23-ef48-eeab-26b6-ea5ebee58c8e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

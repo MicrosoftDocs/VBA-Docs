@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.SendKeys
 ms.assetid: 585666b9-adbc-5d04-c480-58e55ea7fb9d
 ms.date: 04/05/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

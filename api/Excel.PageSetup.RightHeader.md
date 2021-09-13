@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.RightHeader
 ms.assetid: 97e1780d-d511-d433-0e31-501381e6318d
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

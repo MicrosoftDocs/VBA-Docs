@@ -8,7 +8,7 @@ api_name:
 - Visio.Characters.Copy
 ms.assetid: afa21cde-4f1e-cdec-149c-8be7aa88935e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

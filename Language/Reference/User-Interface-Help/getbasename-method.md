@@ -8,7 +8,7 @@ api_name:
 - Office.GetBaseName
 ms.assetid: 2f3af3ff-a996-e2f7-0048-1f5aa891d674
 ms.date: 12/14/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.BeforeUpdate
 ms.assetid: 4c4513e2-8596-fc44-a333-ae6ea9dce937
 ms.date: 02/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

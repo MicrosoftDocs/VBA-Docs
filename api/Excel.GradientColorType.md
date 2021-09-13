@@ -8,7 +8,7 @@ api_name:
 - Excel.GradientColorType
 ms.assetid: 78a2bd69-e8a5-1c43-4c75-9715de4202c0
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Activate
 ms.assetid: 046c97b6-89a6-0455-088a-cc54dd176d35
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

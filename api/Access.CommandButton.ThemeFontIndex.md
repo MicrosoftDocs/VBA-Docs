@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.ThemeFontIndex
 ms.assetid: 8cb51c03-09a1-83ba-c6bf-7e74d7444c8b
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

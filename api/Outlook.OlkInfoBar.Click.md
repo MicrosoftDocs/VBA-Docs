@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkInfoBar.Click
 ms.assetid: 05d1cc58-f7be-d653-7450-cae2eb5b4809
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

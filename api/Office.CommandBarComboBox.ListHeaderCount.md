@@ -8,7 +8,7 @@ api_name:
 - Office.CommandBarComboBox.ListHeaderCount
 ms.assetid: 54625ef5-2e09-5a39-7909-e775c4e9e0c4
 ms.date: 01/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

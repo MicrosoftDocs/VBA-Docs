@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.ActivePrinter
 ms.assetid: 1b0587d1-75e0-3a1d-963c-f4fb29e52d8c
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.CommandEffect.Type
 ms.assetid: c4ce74d9-1e16-34f9-88cf-f4ccb132c690
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

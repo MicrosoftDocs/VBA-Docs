@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Chart
 ms.assetid: 99022573-a117-cd22-1810-4d734349067d
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

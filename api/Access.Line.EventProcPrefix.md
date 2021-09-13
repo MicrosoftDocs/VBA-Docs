@@ -8,7 +8,7 @@ api_name:
 - Access.Line.EventProcPrefix
 ms.assetid: d275d05d-5b38-d358-ebf1-3e3210afe704
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

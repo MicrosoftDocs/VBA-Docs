@@ -8,7 +8,7 @@ api_name:
 - Word.OMathMatCols.Item
 ms.assetid: 0ae67cd5-82d6-12e8-d5b2-f2da04c5cc3b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

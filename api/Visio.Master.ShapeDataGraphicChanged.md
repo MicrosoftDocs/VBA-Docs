@@ -8,7 +8,7 @@ api_name:
 - Visio.Master.ShapeDataGraphicChanged
 ms.assetid: 74eb2604-bcb2-0cba-37e2-50ad896991ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

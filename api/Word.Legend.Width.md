@@ -8,7 +8,7 @@ api_name:
 - Word.Legend.Width
 ms.assetid: f1096781-043f-385e-6920-0b697d79a44d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

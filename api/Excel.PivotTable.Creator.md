@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.Creator
 ms.assetid: 7066bafd-10d6-f4f3-4236-40bd942a1c39
 ms.date: 05/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

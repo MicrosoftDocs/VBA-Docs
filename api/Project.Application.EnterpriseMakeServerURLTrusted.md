@@ -5,7 +5,7 @@ api_name:
 - Project.Application.EnterpriseMakeServerURLTrusted
 ms.assetid: c91df8a2-370c-5f56-c6b4-44239d613ba6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

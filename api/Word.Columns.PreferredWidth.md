@@ -8,7 +8,7 @@ api_name:
 - Word.Columns.PreferredWidth
 ms.assetid: 72a64aaa-0c53-2e61-9c33-fb10436823e9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

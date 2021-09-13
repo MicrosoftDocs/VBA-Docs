@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.LocationURL
 ms.assetid: 1ef6dad3-cfcb-1768-e891-09ada810569a
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

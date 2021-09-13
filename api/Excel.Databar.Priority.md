@@ -8,7 +8,7 @@ api_name:
 - Excel.DataBar.Priority
 ms.assetid: 5d7340f6-675f-5c5a-785f-2bb97dcc9ab0
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.OvertimeWork
 ms.assetid: c9656656-2e8f-d09d-8c91-ebf4d42ccaba
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

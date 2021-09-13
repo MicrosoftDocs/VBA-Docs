@@ -3,7 +3,7 @@ title: Shapes.AddChart method (Project)
 ms.prod: project-server
 ms.assetid: d404a9de-c1aa-c2a0-bf85-dc1f1735cf3c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

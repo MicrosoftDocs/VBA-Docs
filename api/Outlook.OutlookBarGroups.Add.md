@@ -8,7 +8,7 @@ api_name:
 - Outlook.OutlookBarGroups.Add
 ms.assetid: cf3e449f-82c2-463b-1b30-c7a0729d9208
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

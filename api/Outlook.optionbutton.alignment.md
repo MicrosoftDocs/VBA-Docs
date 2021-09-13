@@ -3,7 +3,7 @@ title: OptionButton.Alignment Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 5e5ae0fd-6a1a-77d9-c678-6435eab34932
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

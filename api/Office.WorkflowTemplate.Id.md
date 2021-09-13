@@ -8,7 +8,7 @@ api_name:
 - Office.WorkflowTemplate.Id
 ms.assetid: 4143adf9-895e-ae83-300b-37cf3e966644
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

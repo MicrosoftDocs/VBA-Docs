@@ -8,7 +8,7 @@ api_name:
 - Word.Options.PrintBackground
 ms.assetid: 3e51bfb2-63b1-d072-2a63-f3a417ffdba5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

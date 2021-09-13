@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Glow
 ms.assetid: 299274f6-2285-ce40-e29b-83795368efe3
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

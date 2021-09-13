@@ -8,7 +8,7 @@ api_name:
 - Outlook.Attachment.Position
 ms.assetid: f280b9f5-3484-ad4c-87f8-1caa8631d808
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

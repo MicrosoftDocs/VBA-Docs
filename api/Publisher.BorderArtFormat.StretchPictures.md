@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArtFormat.StretchPictures
 ms.assetid: d3a9c867-111c-a4b1-0e56-6e5ed1e52c8c
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

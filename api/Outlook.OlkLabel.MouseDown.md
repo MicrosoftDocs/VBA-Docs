@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkLabel.MouseDown
 ms.assetid: 80da9c8c-e743-c37a-3cb7-9a6af24fcac1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.Workbook.Reply
 ms.assetid: a59e2890-9795-4a78-bf94-31ec8fd17b3e
 ms.date: 03/29/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Workbook.SensitivityLabel property (Excel)
 ---
 

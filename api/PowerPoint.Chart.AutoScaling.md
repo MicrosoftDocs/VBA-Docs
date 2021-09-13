@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart.AutoScaling
 ms.assetid: 330a185a-713a-409a-704e-3b163394aa92
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

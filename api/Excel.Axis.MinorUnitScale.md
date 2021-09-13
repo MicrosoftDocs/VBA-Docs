@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.MinorUnitScale
 ms.assetid: bcbb3e11-5a30-f275-1beb-8575bac3a7fb
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

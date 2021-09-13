@@ -8,7 +8,7 @@ api_name:
 - Word.Footnotes.StartingNumber
 ms.assetid: c058fc5b-80d0-beba-5e89-2f8661264122
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ListLevel.LinkedStyle
 ms.assetid: 11a48d9a-87fa-6cc6-8614-deb35775d6b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

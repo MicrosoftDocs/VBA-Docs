@@ -3,7 +3,7 @@ title: XlTickLabelOrientation enumeration (Word)
 ms.prod: word
 ms.assetid: c5d0bce0-4878-f606-ff06-dec9c23b3e3a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

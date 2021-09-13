@@ -8,7 +8,7 @@ api_name:
 - Word.LetterContent.SenderCode
 ms.assetid: ffb4132d-ca14-f466-c089-a271423bf65c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

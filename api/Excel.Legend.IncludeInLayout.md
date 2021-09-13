@@ -8,7 +8,7 @@ api_name:
 - Excel.Legend.IncludeInLayout
 ms.assetid: ebb55dfa-8b3e-b247-4574-65b22640eadd
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

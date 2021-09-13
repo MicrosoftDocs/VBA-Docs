@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoCreateNewDrawings
 ms.assetid: d774e700-d62d-1418-e860-b3cd05281468
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

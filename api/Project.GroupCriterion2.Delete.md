@@ -5,7 +5,7 @@ api_name:
 - Project.GroupCriterion2.Delete
 ms.assetid: a7ece042-6081-ae12-cfbe-d009f03e06e1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

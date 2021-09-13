@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.RGBColor.Parent
 ms.assetid: b3ccd9cc-9f65-32dc-93e1-2e1560180c53
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

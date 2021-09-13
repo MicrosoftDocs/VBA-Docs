@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.TextToColumns
 ms.assetid: 0b0bf329-ab99-7edc-1b8f-aad03513abde
 ms.date: 04/19/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

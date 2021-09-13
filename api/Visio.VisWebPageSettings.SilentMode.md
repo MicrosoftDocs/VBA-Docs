@@ -5,7 +5,7 @@ api_name:
 - Visio.VisWebPageSettings.SilentMode
 ms.assetid: 93161e3b-3469-3b86-5143-3ea42229eeea
 ms.date: 06/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

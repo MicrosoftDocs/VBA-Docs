@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTables.Add
 ms.assetid: ac6cd03e-31aa-cd8c-aa67-a551894c6eb3
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

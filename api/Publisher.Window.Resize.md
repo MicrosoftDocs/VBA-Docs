@@ -8,7 +8,7 @@ api_name:
 - Publisher.Window.Resize
 ms.assetid: 478e5f05-a2f9-c3b0-5dd0-3248272b2c37
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

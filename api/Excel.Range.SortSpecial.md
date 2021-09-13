@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.SortSpecial
 ms.assetid: 706420cb-989a-1b48-b051-ca6e5fe45824
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.DocumentWindows.Count
 ms.assetid: d659a980-cc23-c805-6084-4c724c0bc6cd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

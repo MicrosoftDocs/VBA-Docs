@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ScreenUpdating
 ms.assetid: 08fa0272-faeb-f8f2-c0f2-e001620cc838
 ms.date: 04/05/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

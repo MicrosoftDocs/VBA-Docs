@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.Font
 ms.assetid: e1baae08-ed23-9513-c773-24b4c92cfe0c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

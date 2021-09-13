@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.AutoFormatAsYouTypeReplaceHyperlinks
 ms.assetid: 92c02556-f39a-7ca4-31f5-88a5c9da12ea
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOFilter.CompareTo
 ms.assetid: dc14c506-1315-d0f9-edcd-38c395feab63
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

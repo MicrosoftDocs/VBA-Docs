@@ -8,7 +8,7 @@ api_name:
 - Publisher.BorderArts.Parent
 ms.assetid: 1bed2f23-8cb2-662f-e3fa-81fa8a6f52f9
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

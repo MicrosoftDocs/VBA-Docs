@@ -8,7 +8,7 @@ api_name:
 - Word.System.Connect
 ms.assetid: c2f2bc89-89a7-8ca0-3e78-ea558068b044
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

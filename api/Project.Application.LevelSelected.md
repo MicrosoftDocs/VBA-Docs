@@ -8,7 +8,7 @@ api_name:
 - Project.Application.LevelSelected
 ms.assetid: 1e9383cc-43d3-b479-9b95-cf6fb8cf05b1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SaveAsOldFileFormat
 ms.assetid: 0fcdaf08-df42-6d0c-702b-4bd522ab0795
 ms.date: 04/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

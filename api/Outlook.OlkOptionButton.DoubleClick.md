@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.DoubleClick
 ms.assetid: 0cc58eca-7633-803a-8f95-d14a36ad7e54
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

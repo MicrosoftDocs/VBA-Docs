@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 3ce76681-1a37-258b-594c-11d1d4f161c6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.ODSOFilter.Column
 ms.assetid: 53caf4f7-73f1-3969-b407-8fa89883c78d
 ms.date: 01/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.CustomLabel.PageSize
 ms.assetid: b2a9e63e-041a-d4fc-6135-0e1e294886a2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

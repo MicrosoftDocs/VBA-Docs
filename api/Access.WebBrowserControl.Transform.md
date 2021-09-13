@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.Transform
 ms.assetid: 7ed545dc-96f4-2cb5-ad35-e50ff4beb270
 ms.date: 03/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

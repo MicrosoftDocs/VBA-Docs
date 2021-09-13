@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SelWidth
 ms.assetid: a5ce22e3-af69-209c-f988-16cf4f77fd62
 ms.date: 03/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

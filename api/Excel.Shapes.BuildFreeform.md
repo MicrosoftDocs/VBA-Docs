@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.BuildFreeform
 ms.assetid: 0eec4b87-1a40-1e60-a66a-a8bb2b2f7efa
 ms.date: 05/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailModule.Name
 ms.assetid: 6bb6f48d-c3cb-57dc-076c-67b1a2883926
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

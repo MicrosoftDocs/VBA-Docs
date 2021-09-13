@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImReal
 ms.assetid: 9fc2b5e5-f8dc-0d90-8bd2-cbb608656ed1
 ms.date: 05/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

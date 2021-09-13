@@ -8,7 +8,7 @@ api_name:
 - Access.Report.OnMouseDown
 ms.assetid: 8b66aa47-d409-4cc6-2441-6c959f7120a4
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

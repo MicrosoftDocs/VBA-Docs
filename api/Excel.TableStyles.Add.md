@@ -8,7 +8,7 @@ api_name:
 - Excel.TableStyles.Add
 ms.assetid: 90f8f3ff-91e5-c2c5-f3c6-b19ec174270f
 ms.date: 05/17/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

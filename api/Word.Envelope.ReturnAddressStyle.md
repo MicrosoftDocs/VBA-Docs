@@ -8,7 +8,7 @@ api_name:
 - Word.Envelope.ReturnAddressStyle
 ms.assetid: cebc53db-5c79-c036-7e15-835095affbde
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

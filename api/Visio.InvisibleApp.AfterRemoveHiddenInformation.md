@@ -5,7 +5,7 @@ api_name:
 - Visio.InvisibleApp.AfterRemoveHiddenInformation
 ms.assetid: 806422e1-66ce-5bed-da8d-5fcdbb2cd662
 ms.date: 06/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

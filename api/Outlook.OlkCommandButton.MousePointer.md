@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.MousePointer
 ms.assetid: dec41380-229d-ab4d-5643-158bc9563ae9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

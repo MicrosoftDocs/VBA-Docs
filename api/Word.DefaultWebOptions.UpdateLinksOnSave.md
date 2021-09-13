@@ -8,7 +8,7 @@ api_name:
 - Word.DefaultWebOptions.UpdateLinksOnSave
 ms.assetid: f926c078-ae86-fa73-8201-568e3cba2306
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.Left
 ms.assetid: 1dffff64-fe2a-c164-52e2-2ea3507c6bec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

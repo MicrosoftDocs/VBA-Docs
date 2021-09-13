@@ -8,7 +8,7 @@ api_name:
 - Excel.AxisTitle.VerticalAlignment
 ms.assetid: 94029fff-1b1b-bfc0-9645-ab36519aefb0
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

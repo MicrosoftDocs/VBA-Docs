@@ -5,7 +5,7 @@ api_name:
 - Project.Assignment.Duration10
 ms.assetid: f6ad9b7e-41e0-9929-879a-51c12e89d56f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

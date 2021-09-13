@@ -8,7 +8,7 @@ api_name:
 - Outlook.RemoteItem.FormDescription
 ms.assetid: 5f93ee72-3812-eea8-ff36-e32e85fd466f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ProtectedViewWindows.Count
 ms.assetid: edd30c3f-6890-be71-57c0-0aa3b1dea1a5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

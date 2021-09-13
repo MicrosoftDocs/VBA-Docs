@@ -5,7 +5,7 @@ api_name:
 - Office.MsoRecolorType
 ms.assetid: 989e4451-e7d5-cd9a-a295-f752ae89f4f1
 ms.date: 01/31/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

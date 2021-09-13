@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Axis.MinimumScaleIsAuto
 ms.assetid: 7ec5b07d-3683-e45b-ca39-d67ce959edfc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

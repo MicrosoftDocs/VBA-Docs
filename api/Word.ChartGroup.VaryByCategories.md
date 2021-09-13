@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.VaryByCategories
 ms.assetid: e7ee35a4-ddb7-83ef-3c9b-0076f601bb19
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

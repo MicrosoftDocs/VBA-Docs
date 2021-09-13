@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.LabelX
 ms.assetid: 4d3ce486-bd79-cd6d-5886-a0a64cc7abb5
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotField.MemberPropertyCaption
 ms.assetid: 66f2ad5f-cd37-74ef-e9df-cd4793212026
 ms.date: 05/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

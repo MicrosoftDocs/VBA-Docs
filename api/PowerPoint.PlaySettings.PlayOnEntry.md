@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PlaySettings.PlayOnEntry
 ms.assetid: 63a226b9-b0f2-b739-ced2-f4e57a91b5f5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

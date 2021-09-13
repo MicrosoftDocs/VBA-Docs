@@ -3,7 +3,7 @@ title: TextRange2.Paragraphs property (PowerPoint)
 ms.assetid: 0f43072e-8f46-4094-b67a-3388b2138c14
 ms.date: 06/08/2017
 ms.prod: powerpoint
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

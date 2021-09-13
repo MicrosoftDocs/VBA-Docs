@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.SelectCurrentColor
 ms.assetid: f7d23b80-7e1a-40a5-b292-820c3db500a6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

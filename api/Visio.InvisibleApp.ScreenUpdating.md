@@ -8,7 +8,7 @@ api_name:
 - Visio.InvisibleApp.ScreenUpdating
 ms.assetid: c932e8be-b6a6-df5c-d8bc-88aa0c3bd3dc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

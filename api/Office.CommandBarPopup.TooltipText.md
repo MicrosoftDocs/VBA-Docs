@@ -5,7 +5,7 @@ api_name:
 - Office.CommandBarPopup.TooltipText
 ms.assetid: 4b2d39b5-3fcd-0478-51ae-098094a8a4c6
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

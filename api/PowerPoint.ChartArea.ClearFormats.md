@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartArea.ClearFormats
 ms.assetid: 80732262-f84d-1153-811e-30ce887a8661
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

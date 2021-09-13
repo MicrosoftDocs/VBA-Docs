@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Font.NameFarEast
 ms.assetid: 0b3f7d98-bda5-eec3-f570-20d8b575c0a3
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Language.SpellingDictionaryType
 ms.assetid: 4bde19be-a568-7145-f094-d483dc997020
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

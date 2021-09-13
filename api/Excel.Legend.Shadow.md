@@ -8,7 +8,7 @@ api_name:
 - Excel.Legend.Shadow
 ms.assetid: e368bdb3-a2f5-e5fa-e35a-9223b5658b08
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.BorderColor
 ms.assetid: 266c8082-30c4-0182-3004-b02b5a9c4a7b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

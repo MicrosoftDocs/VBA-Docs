@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowWindow.Left
 ms.assetid: dca2a215-cfeb-662a-d495-6f1940bd0f66
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

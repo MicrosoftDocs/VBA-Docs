@@ -8,7 +8,7 @@ api_name:
 - Excel.LeaderLines.Parent
 ms.assetid: ad43b787-ecf3-fcf7-9079-4de99b1c9d2e
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

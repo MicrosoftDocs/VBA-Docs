@@ -8,7 +8,7 @@ api_name:
 - Word.ChartGroup.FirstSliceAngle
 ms.assetid: 0b5b9e0b-1210-6fc6-9e2c-2913cdb552cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

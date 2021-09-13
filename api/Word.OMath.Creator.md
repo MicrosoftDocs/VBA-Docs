@@ -8,7 +8,7 @@ api_name:
 - Word.OMath.Creator
 ms.assetid: 7c009fb5-8b5d-e745-de33-7b6f6387765d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

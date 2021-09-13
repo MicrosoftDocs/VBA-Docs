@@ -8,7 +8,7 @@ api_name:
 - Excel.SlicerCache.WorkbookConnection
 ms.assetid: ffe4fcbc-025e-6349-aaee-39a938b61e1e
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

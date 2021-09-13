@@ -8,7 +8,7 @@ api_name:
 - Word.WebOptions.AllowPNG
 ms.assetid: 61fb3c31-0c6a-f4f0-390b-81d0ffa348ec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

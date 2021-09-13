@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Adjustments
 ms.assetid: e76f2051-c362-9848-59be-fc3c9662e3a8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

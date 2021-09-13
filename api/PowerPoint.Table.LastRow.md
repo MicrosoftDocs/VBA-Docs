@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Table.LastRow
 ms.assetid: b3cf6345-42bf-f371-3e70-f4d62b11f15d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

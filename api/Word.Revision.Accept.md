@@ -8,7 +8,7 @@ api_name:
 - Word.Revision.Accept
 ms.assetid: 3e98b15a-edc3-dc85-0297-288886d8c479
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileSemicolonDelimiter
 ms.assetid: 61a4ea08-aadd-6cf5-b810-448fe00b68f5
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

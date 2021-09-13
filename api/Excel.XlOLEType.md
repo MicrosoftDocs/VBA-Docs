@@ -5,7 +5,7 @@ api_name:
 - Excel.XlOLEType
 ms.assetid: 5fe95292-a441-c04a-caa1-b6390554a209
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.ArabicStrictAlefHamza
 ms.assetid: 0e144aee-eb66-173f-2ee0-69ad433fcd25
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

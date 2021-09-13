@@ -8,7 +8,7 @@ api_name:
 - Word.TableOfContents.TableID
 ms.assetid: d95186f5-b6ee-20cd-840e-e55ec3f06d04
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

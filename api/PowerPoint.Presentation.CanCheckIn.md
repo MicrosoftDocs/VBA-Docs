@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.CanCheckIn
 ms.assetid: 26d76ca4-4fd3-2037-e193-0d2d39f59361
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

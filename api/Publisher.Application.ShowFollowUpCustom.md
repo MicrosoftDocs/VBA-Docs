@@ -8,7 +8,7 @@ api_name:
 - Publisher.Application.ShowFollowUpCustom
 ms.assetid: 5853d057-f31b-d7e0-81fb-3e353e30709a
 ms.date: 06/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

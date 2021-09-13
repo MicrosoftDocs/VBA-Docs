@@ -5,7 +5,7 @@ api_name:
 - Office.TextRange2.InsertSymbol
 ms.assetid: 74642859-0d84-5de9-494a-a58b9d93de88
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

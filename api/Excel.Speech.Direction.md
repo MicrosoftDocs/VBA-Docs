@@ -8,7 +8,7 @@ api_name:
 - Excel.Speech.Direction
 ms.assetid: 8cbedcb3-2d91-b9c1-c1ae-6f06cd8d442b
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.TopPadding
 ms.assetid: 56cae307-f23c-d2e1-5095-fe6b696a6d98
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

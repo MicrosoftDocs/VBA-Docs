@@ -8,7 +8,7 @@ api_name:
 - Excel.LinkFormat.Parent
 ms.assetid: 37d31c34-01a7-0995-ccf0-6b18c623ebae
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

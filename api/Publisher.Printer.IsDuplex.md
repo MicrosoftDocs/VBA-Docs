@@ -8,7 +8,7 @@ api_name:
 - Publisher.Printer.IsDuplex
 ms.assetid: d39beb76-8a30-5f2d-3f04-016cfac943fa
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

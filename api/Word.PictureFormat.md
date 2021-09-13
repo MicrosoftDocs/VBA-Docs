@@ -8,7 +8,7 @@ api_name:
 - Word.PictureFormat
 ms.assetid: 79556e36-81bb-f8df-45ef-c040df709497
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

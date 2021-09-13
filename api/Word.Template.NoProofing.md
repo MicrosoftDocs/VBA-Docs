@@ -8,7 +8,7 @@ api_name:
 - Word.Template.NoProofing
 ms.assetid: 201b9df1-a290-1d7a-569f-956b7bc2da4a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

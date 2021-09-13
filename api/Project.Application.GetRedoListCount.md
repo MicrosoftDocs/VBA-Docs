@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GetRedoListCount
 ms.assetid: c505545d-4dda-7b0e-42c2-46591e711b74
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

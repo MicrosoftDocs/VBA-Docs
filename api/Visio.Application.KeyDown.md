@@ -5,7 +5,7 @@ api_name:
 - Visio.Application.KeyDown
 ms.assetid: 3e9481cc-b9e7-17c0-7b7d-93b6fa2f8825
 ms.date: 06/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Views.Item
 ms.assetid: 5470e19c-5d07-903c-860f-2d710cdbab87
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

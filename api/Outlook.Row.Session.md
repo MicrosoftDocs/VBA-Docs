@@ -8,7 +8,7 @@ api_name:
 - Outlook.Row.Session
 ms.assetid: a9773e62-0091-50b4-f64c-dab4217035cc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

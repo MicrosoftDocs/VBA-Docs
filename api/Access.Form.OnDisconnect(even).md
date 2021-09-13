@@ -8,7 +8,7 @@ api_name:
 - Access.Form.OnDisconnect
 ms.assetid: b5b2a18b-d159-c122-c35e-fe749d755f0e
 ms.date: 03/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Page.CenterHeader
 ms.assetid: e8f9ab4e-4f25-0378-0959-97a8cfefc7b6
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

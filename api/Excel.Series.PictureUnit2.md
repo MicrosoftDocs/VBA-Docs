@@ -8,7 +8,7 @@ api_name:
 - Excel.Series.PictureUnit2
 ms.assetid: 6c29fd60-2e42-3f7a-1fc0-67309ea75a3a
 ms.date: 05/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

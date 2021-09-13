@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Locked
 ms.assetid: b820438b-1ebf-780f-9fe9-e51d90bbf326
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

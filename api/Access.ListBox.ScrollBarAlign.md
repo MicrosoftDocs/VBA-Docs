@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.ScrollBarAlign
 ms.assetid: 6eb9b2d1-e306-5980-7ad0-ff0b9c1cd0c6
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

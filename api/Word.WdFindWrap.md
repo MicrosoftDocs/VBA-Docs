@@ -5,7 +5,7 @@ api_name:
 - Word.WdFindWrap
 ms.assetid: 7baf9a4e-e4e1-cd71-ac03-3e23ff2e1f63
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.FTPSite
 ms.assetid: 24f6f207-763f-5a5b-83f1-ba099a780b67
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

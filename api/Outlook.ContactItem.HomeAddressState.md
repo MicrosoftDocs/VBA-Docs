@@ -8,7 +8,7 @@ api_name:
 - Outlook.ContactItem.HomeAddressState
 ms.assetid: bc052902-1e38-3d6a-1b7b-308861357731
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

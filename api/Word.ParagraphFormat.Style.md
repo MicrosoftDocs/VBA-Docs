@@ -8,7 +8,7 @@ api_name:
 - Word.ParagraphFormat.Style
 ms.assetid: 81da5d84-32e6-e133-4f2c-a7652b0356b1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

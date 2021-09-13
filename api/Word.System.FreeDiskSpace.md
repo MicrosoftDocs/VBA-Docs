@@ -8,7 +8,7 @@ api_name:
 - Word.System.FreeDiskSpace
 ms.assetid: 739db138-37f3-821b-8214-013153b20fa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.RemovePersonalInformation
 ms.assetid: f5cdc655-8ba9-6dd1-ab05-028d98c11972
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

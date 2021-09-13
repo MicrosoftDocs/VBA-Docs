@@ -8,7 +8,7 @@ api_name:
 - Visio.Document.Validation
 ms.assetid: 725533ed-49bd-5796-972c-9e84896a3139
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

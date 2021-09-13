@@ -8,7 +8,7 @@ api_name:
 - Visio.Application.ConvertResult
 ms.assetid: b326c9cf-a7f3-33d7-1b29-8d1360301a9d
 ms.date: 06/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

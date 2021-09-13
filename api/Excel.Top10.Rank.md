@@ -8,7 +8,7 @@ api_name:
 - Excel.Top10.Rank
 ms.assetid: a3245519-8fa3-d9cb-ace9-22d78893c0fa
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -9,7 +9,7 @@ api_name:
 - Access.UniqueRecords
 ms.assetid: 05ab9d9b-d23f-2da3-9ba4-fa917e013dec
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

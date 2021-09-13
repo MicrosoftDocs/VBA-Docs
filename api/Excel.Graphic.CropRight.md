@@ -8,7 +8,7 @@ api_name:
 - Excel.Graphic.CropRight
 ms.assetid: 2954d5c9-9b24-db6e-06b7-e3a6e905e50c
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

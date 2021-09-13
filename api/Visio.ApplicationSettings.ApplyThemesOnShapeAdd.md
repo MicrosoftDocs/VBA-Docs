@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ApplyThemesOnShapeAdd
 ms.assetid: c2a83004-852e-83d7-718f-f27f254aae58
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

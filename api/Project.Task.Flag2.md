@@ -5,7 +5,7 @@ api_name:
 - Project.Task.Flag2
 ms.assetid: 1df70945-b230-f827-6d67-62a4650bce49
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

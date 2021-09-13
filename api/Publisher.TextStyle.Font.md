@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextStyle.Font
 ms.assetid: 80d7177a-fef9-c3fd-f559-94644a2ba0f7
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

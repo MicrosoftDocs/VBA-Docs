@@ -8,7 +8,7 @@ api_name:
 - Project.Application.ToggleResourceDetails
 ms.assetid: b8fe41db-b808-cf3d-2ee9-36afca3cd269
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

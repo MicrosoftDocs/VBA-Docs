@@ -8,7 +8,7 @@ api_name:
 - Word.Window.Next
 ms.assetid: 28587dfe-dd49-88b7-0261-b4e42a12eeac
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

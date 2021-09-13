@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideRange.PublishSlides
 ms.assetid: 353f511d-b414-776c-e277-3da258836130
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

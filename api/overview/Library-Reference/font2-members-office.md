@@ -3,7 +3,7 @@ title: Font2 members (Office)
 ms.prod: office
 ms.assetid: 8c91a433-b474-486a-4c03-eb9f7b44ecb0
 ms.date: 01/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

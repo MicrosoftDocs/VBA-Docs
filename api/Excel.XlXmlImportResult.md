@@ -5,7 +5,7 @@ api_name:
 - Excel.XlXmlImportResult
 ms.assetid: 9a43512f-c2f3-f92b-f486-14e5c8bd114a
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.LabelAlign
 ms.assetid: a586c545-c1b1-ff31-5213-5a3cd055a2b6
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

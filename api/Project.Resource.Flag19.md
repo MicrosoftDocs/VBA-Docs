@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.Flag19
 ms.assetid: f28cabc4-eb6f-e503-5975-5ee92b1c1534
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.BeforeDragOver
 ms.assetid: 0c2803fc-0f69-60d8-06fb-36870aad8a27
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

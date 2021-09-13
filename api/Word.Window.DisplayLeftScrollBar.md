@@ -8,7 +8,7 @@ api_name:
 - Word.Window.DisplayLeftScrollBar
 ms.assetid: 4f9be094-144c-cb4a-20e8-b3dc550a6bd0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ShowPageMultipleItemLabel
 ms.assetid: 2f816331-4017-a208-d1b2-fea219d2ca71
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

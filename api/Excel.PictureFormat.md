@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat
 ms.assetid: 7e8ec723-b6e0-fdc9-ff4e-22cbb31be4df
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

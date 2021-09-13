@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.SizeToFit
 ms.assetid: 3b296b66-1193-92de-61ee-c29cae54735b
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

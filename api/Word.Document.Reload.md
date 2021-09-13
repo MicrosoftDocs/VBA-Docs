@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Reload
 ms.assetid: 4feda9b6-dd7b-2e3c-b822-04684638e9d8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

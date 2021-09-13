@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shapes.FindShapeByWizardTag
 ms.assetid: f1018f3a-4f8f-2686-ac58-6eee8827c743
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

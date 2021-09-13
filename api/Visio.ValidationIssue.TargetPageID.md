@@ -8,7 +8,7 @@ api_name:
 - Visio.ValidationIssue.TargetPageID
 ms.assetid: fe893b42-839c-573e-fada-88f6e54fa562
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

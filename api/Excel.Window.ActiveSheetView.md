@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.ActiveSheetView
 ms.assetid: 75bdb4a6-0579-649c-20a4-6cd55fbd7e3e
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

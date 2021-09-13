@@ -8,7 +8,7 @@ api_name:
 - Publisher.Font.SmallCaps
 ms.assetid: ab50b850-f371-7d8e-0c19-00ad68e700f0
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

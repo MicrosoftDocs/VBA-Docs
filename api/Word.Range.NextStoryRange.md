@@ -8,7 +8,7 @@ api_name:
 - Word.Range.NextStoryRange
 ms.assetid: 392b17ff-335f-9b2b-7641-62ae44d7e919
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

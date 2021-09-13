@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopForever
 ms.assetid: f2e90665-09e9-5215-59e4-f93e4469d0df
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

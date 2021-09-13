@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.PictureFormat.Crop
 ms.assetid: 8e39ec71-ae5e-99a0-c090-a55d15c6e9f7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

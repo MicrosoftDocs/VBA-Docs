@@ -8,7 +8,7 @@ api_name:
 - Excel.AddIns.Count
 ms.assetid: ed72ad41-e673-05dd-780c-5a3612af0ba2
 ms.date: 04/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

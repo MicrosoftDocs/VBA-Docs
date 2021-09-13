@@ -8,7 +8,7 @@ api_name:
 - Word.Zoom.Application
 ms.assetid: 1946d7d3-ad39-af1f-106b-0a4d8b231ec6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

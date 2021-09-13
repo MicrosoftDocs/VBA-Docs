@@ -6,7 +6,7 @@ api_name:
 - PowerPoint.PpSlideShowType
 ms.assetid: 9e8b1429-2175-6329-7c6f-82648b84c147
 ms.date: 09/09/2021
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.Form.PrtDevNames
 ms.assetid: 0befbc54-6536-9f51-62da-aa01b5b96961
 ms.date: 03/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

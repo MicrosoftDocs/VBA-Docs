@@ -8,7 +8,7 @@ api_name:
 - Word.Axis.DisplayUnit
 ms.assetid: b3f8bbbb-d532-679a-fbb1-01260554425e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

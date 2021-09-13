@@ -8,7 +8,7 @@ api_name:
 - Word.HeaderFooter.Exists
 ms.assetid: 84ce3ac9-a4be-f99a-eb4b-1a145373659f
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

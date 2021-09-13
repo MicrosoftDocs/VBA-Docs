@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ZoomOnRoll
 ms.assetid: 27475650-3703-4a95-f71c-d979ba2066f6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

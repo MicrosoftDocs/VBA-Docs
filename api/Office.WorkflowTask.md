@@ -8,7 +8,7 @@ api_name:
 - Office.WorkflowTask
 ms.assetid: 9d17947e-f12a-2f97-7888-8d5ec9f85011
 ms.date: 01/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Hyperlink.Creator
 ms.assetid: f944b677-ac58-77ca-7546-2fbfc04233ae
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

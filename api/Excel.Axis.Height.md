@@ -8,7 +8,7 @@ api_name:
 - Excel.Axis.Height
 ms.assetid: 637e4f6e-5492-c417-2ffc-472bf4b2d467
 ms.date: 04/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Lists.Count
 ms.assetid: 79a16caf-e6d7-ad2a-9e41-b71c84f7d914
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

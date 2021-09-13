@@ -8,7 +8,7 @@ api_name:
 - Outlook.PropertyPage.GetPageInfo
 ms.assetid: 39243864-a81a-eaa6-965d-c1a5ac5ac781
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

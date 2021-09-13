@@ -8,7 +8,7 @@ api_name:
 - Publisher.Page.XOffsetWithinReaderSpread
 ms.assetid: 42ae7545-78f5-c034-33b4-f8c8f6a0b935
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

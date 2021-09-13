@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.WebNavigationBarSets
 ms.assetid: 4193dbce-a2e3-2587-5282-43b4c3cec921
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

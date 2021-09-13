@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ForeThemeColorIndex
 ms.assetid: 89138cf8-23f1-e795-1d6c-951299c3d90e
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

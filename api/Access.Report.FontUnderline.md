@@ -8,7 +8,7 @@ api_name:
 - Access.Report.FontUnderline
 ms.assetid: 37f62220-069d-939d-7ad0-e9f25ae6bf36
 ms.date: 03/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

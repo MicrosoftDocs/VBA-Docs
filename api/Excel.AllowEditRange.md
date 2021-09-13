@@ -8,7 +8,7 @@ api_name:
 - Excel.AllowEditRange
 ms.assetid: 2bfd80d1-3a59-162e-194a-8699ca6b0d4b
 ms.date: 03/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

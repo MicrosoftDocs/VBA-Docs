@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Covar
 ms.assetid: 8e08c1c6-c4c4-9088-bd2e-3ab0edc831e2
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

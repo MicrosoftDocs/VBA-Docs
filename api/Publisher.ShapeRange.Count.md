@@ -8,7 +8,7 @@ api_name:
 - Publisher.ShapeRange.Count
 ms.assetid: 5037bfe9-b430-4205-c514-b2f4313b4c53
 ms.date: 06/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

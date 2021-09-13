@@ -5,7 +5,7 @@ api_name:
 - Office.SmartDocument.Application
 ms.assetid: e8685850-ac4b-e1df-2eae-71e8bfcef8ff
 ms.date: 01/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

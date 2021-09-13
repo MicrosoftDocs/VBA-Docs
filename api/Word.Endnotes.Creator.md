@@ -8,7 +8,7 @@ api_name:
 - Word.Endnotes.Creator
 ms.assetid: 01b4e67b-b7d3-36ed-b58c-a0aab01035e7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

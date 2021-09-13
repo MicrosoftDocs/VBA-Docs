@@ -3,7 +3,7 @@ title: Working with building blocks
 ms.prod: word
 ms.assetid: c32a8972-a6fc-bb66-b62a-039b88580b37
 ms.date: 03/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

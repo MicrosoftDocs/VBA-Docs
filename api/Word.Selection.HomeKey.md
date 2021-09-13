@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.HomeKey
 ms.assetid: 24264193-d610-acbc-b393-de41fd55e976
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

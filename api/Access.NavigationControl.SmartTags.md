@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.SmartTags
 ms.assetid: e4c3553a-7ce3-291e-b83a-c88e20685b4d
 ms.date: 03/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

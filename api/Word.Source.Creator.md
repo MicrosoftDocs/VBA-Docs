@@ -8,7 +8,7 @@ api_name:
 - Word.Source.Creator
 ms.assetid: 19a8a10c-8b2f-3990-819d-8c06229e64a2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

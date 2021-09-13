@@ -8,7 +8,7 @@ api_name:
 - Project.Application.GanttBarStyleDelete
 ms.assetid: 3cac2b37-147c-f1bf-bc94-d2bc9bffa14b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

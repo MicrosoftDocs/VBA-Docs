@@ -8,7 +8,7 @@ api_name:
 - Excel.LineFormat.Weight
 ms.assetid: e875fbac-10a5-4285-3565-0b9f05c83d42
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.ConditionalStyle.Font
 ms.assetid: a811b570-d5cf-3411-ecb3-f0424b9a7005
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

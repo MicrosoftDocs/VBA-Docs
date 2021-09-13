@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.OnEnter
 ms.assetid: d8f7aa7f-5222-ec0e-7be9-4022f5e697af
 ms.date: 02/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

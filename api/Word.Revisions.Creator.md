@@ -8,7 +8,7 @@ api_name:
 - Word.Revisions.Creator
 ms.assetid: c8db3880-70c4-7d3f-5705-828e061f2c52
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

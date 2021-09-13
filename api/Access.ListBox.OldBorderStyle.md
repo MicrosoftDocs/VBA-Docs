@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.OldBorderStyle
 ms.assetid: 4da79825-91df-d731-ec39-c1d304972077
 ms.date: 02/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

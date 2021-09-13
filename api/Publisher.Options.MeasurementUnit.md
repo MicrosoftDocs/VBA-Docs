@@ -8,7 +8,7 @@ api_name:
 - Publisher.Options.MeasurementUnit
 ms.assetid: 49221e4e-c84a-6706-8f9a-3853283ebb18
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

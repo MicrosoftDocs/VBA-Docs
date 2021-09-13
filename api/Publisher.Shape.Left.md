@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.Left
 ms.assetid: 275f5af9-9812-2a6b-bba3-704d4a7f5601
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

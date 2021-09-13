@@ -8,7 +8,7 @@ api_name:
 - Excel.Filters.Item
 ms.assetid: a24c9aeb-b253-c11a-29dc-c4a2bba86e21
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

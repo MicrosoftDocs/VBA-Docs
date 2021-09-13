@@ -8,7 +8,7 @@ api_name:
 - Access.Application.Eval
 ms.assetid: d02d5278-1ff3-c405-d579-7a58f2e1ea68
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

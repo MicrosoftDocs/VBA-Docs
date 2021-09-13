@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebPageOptions.Application
 ms.assetid: ca588fc3-bfb2-2176-5451-244362a33b41
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

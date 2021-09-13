@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior
 ms.assetid: 5e1fd240-62f6-bb27-8590-283d295ffc76
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

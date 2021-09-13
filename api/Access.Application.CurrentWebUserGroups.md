@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CurrentWebUserGroups
 ms.assetid: efe80f7a-b6ac-12a5-3704-6e662c87e134
 ms.date: 02/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

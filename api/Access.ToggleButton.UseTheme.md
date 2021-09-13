@@ -8,7 +8,7 @@ api_name:
 - Access.ToggleButton.UseTheme
 ms.assetid: 770bea3c-4039-f6a5-a341-93d878d74085
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

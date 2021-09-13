@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Model3DFormat.AutoFit
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

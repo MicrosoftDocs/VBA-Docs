@@ -8,7 +8,7 @@ api_name:
 - Project.Application.BoxStylesEdit
 ms.assetid: 21a15566-3ee2-521a-f813-0f0baa806bfd
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

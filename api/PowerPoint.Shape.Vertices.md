@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.Vertices
 ms.assetid: b9ce441c-b305-4224-3fe8-3f947199a4d4
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

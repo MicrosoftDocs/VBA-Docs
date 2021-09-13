@@ -5,7 +5,7 @@ api_name:
 - Excel.FillFormat.TextureOffsetY
 ms.assetid: dd8346ac-2f22-9240-d9b8-214c7eb47bff
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

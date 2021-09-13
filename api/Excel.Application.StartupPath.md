@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.StartupPath
 ms.assetid: 04bdd294-8127-37f2-7a39-b42923ac45b5
 ms.date: 04/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

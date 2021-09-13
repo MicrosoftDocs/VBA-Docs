@@ -8,7 +8,7 @@ api_name:
 - Access.Report.PictureData
 ms.assetid: b9100f5e-5734-ca30-1cbf-45f8afaadd75
 ms.date: 03/05/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

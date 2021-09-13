@@ -8,7 +8,7 @@ api_name:
 - Word.Subdocument.HasFile
 ms.assetid: dbe85127-35cf-7c5f-5ec5-8f1dd35deda1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

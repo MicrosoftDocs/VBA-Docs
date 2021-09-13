@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequence.ConvertToAnimateBackground
 ms.assetid: 75fd5a43-f8cf-5ba9-de92-3031eb938eb7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

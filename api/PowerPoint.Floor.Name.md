@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.Floor.Name
 ms.assetid: 683e99b5-59ea-3495-272b-1452613a147e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

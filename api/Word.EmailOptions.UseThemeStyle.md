@@ -8,7 +8,7 @@ api_name:
 - Word.EmailOptions.UseThemeStyle
 ms.assetid: e34f27c6-4222-aa9a-dfbc-40c7c5c55a67
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

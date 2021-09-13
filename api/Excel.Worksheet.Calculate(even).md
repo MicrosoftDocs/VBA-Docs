@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Calculate
 ms.assetid: c54b75d0-79dd-3e14-0669-447e740e134b
 ms.date: 05/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

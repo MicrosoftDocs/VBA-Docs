@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebTextBox.EchoAsterisks
 ms.assetid: eefab42f-9fe7-e77e-50cd-c4b1b35548f1
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.CostCenter
 ms.assetid: e6639803-e3f6-9e04-0b44-0bdc6c12348c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

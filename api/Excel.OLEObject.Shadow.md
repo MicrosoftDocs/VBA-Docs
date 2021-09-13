@@ -8,7 +8,7 @@ api_name:
 - Excel.OLEObject.Shadow
 ms.assetid: 02974bd4-cb9d-99fb-8f41-d80168dcdc94
 ms.date: 05/02/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.VisualTotals
 ms.assetid: 2bcb64ef-8db8-f62d-5f7d-eb3d5b2fcda5
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

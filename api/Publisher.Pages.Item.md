@@ -8,7 +8,7 @@ api_name:
 - Publisher.Pages.Item
 ms.assetid: b220d9bf-321d-808a-d3cf-63a641e691e0
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

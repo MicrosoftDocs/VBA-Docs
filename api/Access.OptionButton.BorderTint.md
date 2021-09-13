@@ -8,7 +8,7 @@ api_name:
 - Access.OptionButton.BorderTint
 ms.assetid: 901c10bf-1d49-2fbd-4403-8d93547d534f
 ms.date: 02/20/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

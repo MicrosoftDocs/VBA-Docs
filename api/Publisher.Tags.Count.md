@@ -8,7 +8,7 @@ api_name:
 - Publisher.Tags.Count
 ms.assetid: 46d443a3-643b-a43f-a77e-19a32af67217
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

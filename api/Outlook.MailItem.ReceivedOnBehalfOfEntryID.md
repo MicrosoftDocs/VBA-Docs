@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.ReceivedOnBehalfOfEntryID
 ms.assetid: fffcb637-9a7d-3541-49fc-85f314cd92cb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

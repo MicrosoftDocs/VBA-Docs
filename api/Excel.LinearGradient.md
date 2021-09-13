@@ -8,7 +8,7 @@ api_name:
 - Excel.LinearGradient
 ms.assetid: cb648564-0f57-f1b9-1c89-0329c110583f
 ms.date: 03/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

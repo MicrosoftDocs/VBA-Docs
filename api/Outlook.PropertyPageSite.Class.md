@@ -8,7 +8,7 @@ api_name:
 - Outlook.PropertyPageSite.Class
 ms.assetid: 4235397e-40d0-a903-1de4-9ef28bf53aa0
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

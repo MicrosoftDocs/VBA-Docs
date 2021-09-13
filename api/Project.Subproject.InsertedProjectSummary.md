@@ -5,7 +5,7 @@ api_name:
 - Project.Subproject.InsertedProjectSummary
 ms.assetid: a98d0c9c-2c9d-d15e-2716-ed27ee9273c2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

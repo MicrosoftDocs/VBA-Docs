@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.MouseUp
 ms.assetid: 704acc3b-6ff6-fb0e-9adf-bd34185443e4
 ms.date: 02/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

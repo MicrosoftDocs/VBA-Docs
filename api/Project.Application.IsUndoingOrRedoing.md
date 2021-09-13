@@ -5,7 +5,7 @@ api_name:
 - Project.Application.IsUndoingOrRedoing
 ms.assetid: e0e5ddc7-aa22-0d43-1de6-83a260d57608
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

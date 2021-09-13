@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ShowConflictHistory
 ms.assetid: d8588b9e-3e4b-6224-aaa7-ce0b63ff0607
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

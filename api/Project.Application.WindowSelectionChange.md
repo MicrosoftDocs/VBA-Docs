@@ -5,7 +5,7 @@ api_name:
 - Project.Application.WindowSelectionChange
 ms.assetid: 239c0a87-7966-b4b5-5731-9fe059f56a43
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

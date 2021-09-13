@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.DisplayInsertOptions
 ms.assetid: 81c1d837-463f-bc33-f815-7c6dc9678d1b
 ms.date: 04/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

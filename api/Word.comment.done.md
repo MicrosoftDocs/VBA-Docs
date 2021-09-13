@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: 60b655ec-e523-13c4-2d26-1b0863b55a24
 ms.date: 06/25/2020
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

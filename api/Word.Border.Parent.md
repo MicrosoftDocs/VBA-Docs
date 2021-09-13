@@ -8,7 +8,7 @@ api_name:
 - Word.Border.Parent
 ms.assetid: e89380be-c72e-7ab0-bd39-db2703cb8292
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

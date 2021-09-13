@@ -8,7 +8,7 @@ api_name:
 - Word.DataLabels.Creator
 ms.assetid: 6fb91562-f359-2d9f-af66-d802943eaea7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

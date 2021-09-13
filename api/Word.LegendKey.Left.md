@@ -8,7 +8,7 @@ api_name:
 - Word.LegendKey.Left
 ms.assetid: 6ced807c-affc-ad14-7287-32ee589f424c
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -3,7 +3,7 @@ title: MsoLineFillType enumeration (Office)
 ms.assetid: 659dd96d-67d0-2109-44e0-812c9306e47d
 ms.date: 01/31/2019
 ms.prod: office
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

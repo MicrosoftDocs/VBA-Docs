@@ -8,7 +8,7 @@ api_name:
 - Access.NavigationControl.TabIndex
 ms.assetid: 2fc2511e-5a92-7039-cfec-2556b3384fb7
 ms.date: 02/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

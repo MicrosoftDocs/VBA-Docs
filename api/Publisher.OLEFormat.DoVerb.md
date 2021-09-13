@@ -8,7 +8,7 @@ api_name:
 - Publisher.OLEFormat.DoVerb
 ms.assetid: c4bca1f2-a3dd-0c49-1268-40e68e1fcef0
 ms.date: 06/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

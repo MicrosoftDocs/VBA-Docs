@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.GetLinkedDataRow
 ms.assetid: 55e578a5-da95-9a5c-3d1d-5cc5edeb57a7
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

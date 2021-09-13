@@ -8,7 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.Parent
 ms.assetid: ef03c59d-0ee2-37e3-37c0-c48f44539e21
 ms.date: 05/01/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

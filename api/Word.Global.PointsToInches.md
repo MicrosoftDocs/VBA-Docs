@@ -8,7 +8,7 @@ api_name:
 - Word.Global.PointsToInches
 ms.assetid: e3d6ab40-3919-55e0-5829-603fca24c226
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

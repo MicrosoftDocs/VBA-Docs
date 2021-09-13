@@ -8,7 +8,7 @@ api_name:
 - Outlook.Categories
 ms.assetid: 319efa26-269d-9f2f-c8ec-33082e80a9e2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Categories object (Outlook)

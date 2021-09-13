@@ -8,7 +8,7 @@ api_name:
 - Word.ThreeDFormat.BevelBottomInset
 ms.assetid: 99feb954-a4d1-89b4-1f7d-fd28b480158d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

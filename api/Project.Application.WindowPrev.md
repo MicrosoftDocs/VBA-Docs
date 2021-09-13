@@ -8,7 +8,7 @@ api_name:
 - Project.Application.WindowPrev
 ms.assetid: f95cf733-fc5c-e454-55b6-11f704dee431
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

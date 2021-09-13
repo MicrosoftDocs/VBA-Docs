@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextRange.Expand
 ms.assetid: 66d8b1a3-5fc4-bed7-94d2-06be6203e1e9
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlTaskResponse
 ms.assetid: 7616cbdc-fc9c-abbe-fd07-ebdadc13ede2
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

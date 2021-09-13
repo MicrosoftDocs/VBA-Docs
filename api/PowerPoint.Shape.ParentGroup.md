@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shape.ParentGroup
 ms.assetid: 1566110f-81dc-b73a-d658-2f6189113068
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

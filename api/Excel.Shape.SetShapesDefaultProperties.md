@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.SetShapesDefaultProperties
 ms.assetid: 7fee7695-99ea-5094-002a-f21f280d5541
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

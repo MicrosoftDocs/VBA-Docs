@@ -3,7 +3,7 @@ title: Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request
 ms.prod: outlook
 ms.assetid: 42d53f48-d9de-18d8-d39b-86feceff0eaa
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

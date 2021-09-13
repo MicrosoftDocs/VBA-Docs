@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.DriverName
 ms.assetid: 7434f44a-8b55-1f21-e595-363327199037
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

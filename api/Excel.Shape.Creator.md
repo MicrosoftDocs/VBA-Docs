@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.Creator
 ms.assetid: cfe75d7d-a265-5b08-35a2-58470473df39
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

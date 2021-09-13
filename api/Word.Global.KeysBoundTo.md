@@ -8,7 +8,7 @@ api_name:
 - Word.Global.KeysBoundTo
 ms.assetid: 6347357b-1c63-eea2-d236-2c5f182eb676
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

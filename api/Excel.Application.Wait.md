@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Wait
 ms.assetid: 71425d1c-6b37-a510-d8b5-072136e98f04
 ms.date: 04/05/2019
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 

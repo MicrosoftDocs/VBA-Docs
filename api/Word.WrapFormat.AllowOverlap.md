@@ -8,7 +8,7 @@ api_name:
 - Word.WrapFormat.AllowOverlap
 ms.assetid: b224d70d-0128-cfec-39f2-97fd12b0c5ca
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

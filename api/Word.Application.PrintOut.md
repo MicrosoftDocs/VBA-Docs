@@ -8,7 +8,7 @@ api_name:
 - Word.Application.PrintOut
 ms.assetid: f795218e-cd49-f3ac-c03d-9a9424361392
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

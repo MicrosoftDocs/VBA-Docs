@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DataLabel.FormulaR1C1Local
 ms.assetid: 481db10c-2ec6-5cb0-abe9-1c81125b0a4b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

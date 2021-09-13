@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.NormSDist
 ms.assetid: d1016e46-c04e-9274-3809-4cdefe59a18e
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

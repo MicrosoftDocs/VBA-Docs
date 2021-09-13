@@ -8,7 +8,7 @@ api_name:
 - Office.CustomTaskPane.Height
 ms.assetid: 0397ab5b-82d8-cc3c-190a-d23443677f24
 ms.date: 01/04/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

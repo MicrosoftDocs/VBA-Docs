@@ -3,7 +3,7 @@ title: Shapes.Value property (Project)
 ms.prod: project-server
 ms.assetid: f10fef14-baee-ddd3-fb39-81fef0bc132d
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

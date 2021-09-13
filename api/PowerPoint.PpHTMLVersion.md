@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.PpHTMLVersion
 ms.assetid: b67f8548-dc27-6fd2-ee17-c162b2962d05
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

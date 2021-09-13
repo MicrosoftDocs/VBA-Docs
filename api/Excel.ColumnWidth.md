@@ -8,7 +8,7 @@ api_name:
 - Excel.ColumnWidth
 ms.assetid: fffb3493-4b40-7a0b-f3ad-d191baebb87f
 ms.date: 04/10/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

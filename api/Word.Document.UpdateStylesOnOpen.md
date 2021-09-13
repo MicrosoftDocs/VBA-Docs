@@ -8,7 +8,7 @@ api_name:
 - Word.Document.UpdateStylesOnOpen
 ms.assetid: 7b126a45-2347-8140-25b8-861672dcc8b5
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

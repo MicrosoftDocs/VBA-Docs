@@ -3,7 +3,7 @@ title: Project.Reports property (Project)
 ms.prod: project-server
 ms.assetid: dc725fac-a25e-c134-6017-d73060c51e83
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

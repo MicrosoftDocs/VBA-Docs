@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Top
 ms.assetid: 02434828-0000-1744-cb06-9cfa3968cd00
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

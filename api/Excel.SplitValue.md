@@ -8,7 +8,7 @@ api_name:
 - Excel.SplitValue
 ms.assetid: 3200801a-9464-6bde-59a2-0a8baafcb8ff
 ms.date: 04/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

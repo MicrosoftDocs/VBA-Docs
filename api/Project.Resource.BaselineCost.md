@@ -5,7 +5,7 @@ api_name:
 - Project.Resource.BaselineCost
 ms.assetid: 4ae79c29-7d7f-347e-edeb-26e35bb5a3bc
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

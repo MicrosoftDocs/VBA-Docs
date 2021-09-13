@@ -8,7 +8,7 @@ api_name:
 - Access.WebBrowserControl.GridlineShade
 ms.assetid: d6547541-832c-a560-4176-29004c0011dd
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

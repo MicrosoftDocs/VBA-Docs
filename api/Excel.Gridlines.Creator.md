@@ -8,7 +8,7 @@ api_name:
 - Excel.Gridlines.Creator
 ms.assetid: 095a985e-3823-a483-59d5-82afd93f5a5e
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

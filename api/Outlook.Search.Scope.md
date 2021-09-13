@@ -8,7 +8,7 @@ api_name:
 - Outlook.Search.Scope
 ms.assetid: aa4b9aea-029f-6f80-87b1-b99c04ff9631
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

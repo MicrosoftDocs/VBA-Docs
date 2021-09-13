@@ -8,7 +8,7 @@ api_name:
 - Excel.ServerViewableItems.DeleteAll
 ms.assetid: 8f2bf876-50ba-3b91-d353-6d73a35e9462
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

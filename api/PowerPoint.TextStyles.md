@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.TextStyles
 ms.assetid: 5c56df6d-8f37-ebe7-2955-c6c5de1ed771
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

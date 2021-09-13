@@ -8,7 +8,7 @@ api_name:
 - Excel.PictureFormat.TransparentBackground
 ms.assetid: 9b7cc5b5-610a-821b-cf99-e2af5c4ecf61
 ms.date: 05/03/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

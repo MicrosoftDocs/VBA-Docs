@@ -5,7 +5,7 @@ api_name:
 - Office.FileTypes.Application
 ms.assetid: fcb569ba-c8ad-f9df-f943-b2d678f90cda
 ms.date: 01/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

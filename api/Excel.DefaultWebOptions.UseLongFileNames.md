@@ -8,7 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.UseLongFileNames
 ms.assetid: b594ad04-866a-b811-338b-73d45352866b
 ms.date: 04/25/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

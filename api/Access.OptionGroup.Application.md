@@ -8,7 +8,7 @@ api_name:
 - Access.OptionGroup.Application
 ms.assetid: 21d0325e-4552-699e-4972-1fc5ee157b21
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

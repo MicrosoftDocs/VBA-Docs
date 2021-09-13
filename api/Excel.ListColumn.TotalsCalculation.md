@@ -8,7 +8,7 @@ api_name:
 - Excel.ListColumn.TotalsCalculation
 ms.assetid: bb8c1dd1-1ee6-3ef8-8af4-2b3f24eb642d
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

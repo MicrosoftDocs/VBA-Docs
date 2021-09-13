@@ -8,7 +8,7 @@ api_name:
 - Word.Sections.Creator
 ms.assetid: ecb1915f-d954-808f-f934-a70ab72cf900
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

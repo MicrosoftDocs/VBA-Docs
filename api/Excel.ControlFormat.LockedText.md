@@ -8,7 +8,7 @@ api_name:
 - Excel.ControlFormat.LockedText
 ms.assetid: 3b663597-4dec-8e9c-9d85-d07e162c4243
 ms.date: 04/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

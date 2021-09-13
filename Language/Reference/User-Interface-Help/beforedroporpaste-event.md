@@ -8,7 +8,7 @@ api_name:
 - Office.BeforeDropOrPaste
 ms.assetid: ba572265-1a9d-2d02-6346-82f88c1f249a
 ms.date: 11/15/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

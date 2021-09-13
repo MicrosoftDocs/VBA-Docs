@@ -8,7 +8,7 @@ api_name:
 - Excel.WorkbookConnection.Ranges
 ms.assetid: 639d15c2-44ae-6f6c-c876-1514e3ab7bb0
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Word.WdNumberStyleWordBasicBiDi
 ms.assetid: 2adde082-b067-af9f-99b1-1f70cca382ea
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

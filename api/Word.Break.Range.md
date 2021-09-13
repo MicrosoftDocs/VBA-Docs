@@ -8,7 +8,7 @@ api_name:
 - Word.Break.Range
 ms.assetid: a78720bd-334b-9f97-bc5d-81da30c0986b
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

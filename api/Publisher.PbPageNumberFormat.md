@@ -8,7 +8,7 @@ api_name:
 - Publisher.PbPageNumberFormat
 ms.assetid: 0c23a61f-4267-fb6e-7483-ef366fd0c772
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

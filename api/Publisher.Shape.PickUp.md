@@ -8,7 +8,7 @@ api_name:
 - Publisher.Shape.PickUp
 ms.assetid: 12b59235-db2d-b451-de8e-9e8df6bfeb1c
 ms.date: 06/13/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

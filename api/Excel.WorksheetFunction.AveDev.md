@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.AveDev
 ms.assetid: 8fb937b3-4291-e257-f96a-7e52e6714b00
 ms.date: 05/22/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.TextStyle.Delete
 ms.assetid: 4b04a7f3-9bf1-122f-ca09-7552e06c9222
 ms.date: 06/15/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

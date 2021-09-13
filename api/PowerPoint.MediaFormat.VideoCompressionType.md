@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.VideoCompressionType
 ms.assetid: 2242d6ee-a663-b5ca-510d-f06bd291f615
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

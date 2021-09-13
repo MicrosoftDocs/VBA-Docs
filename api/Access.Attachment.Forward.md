@@ -8,7 +8,7 @@ api_name:
 - Access.Attachment.Forward
 ms.assetid: 0fec305d-b2b9-29a4-c756-2f3e59679316
 ms.date: 02/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

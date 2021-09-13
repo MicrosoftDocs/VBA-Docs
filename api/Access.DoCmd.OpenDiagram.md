@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenDiagram
 ms.assetid: a9736e57-eb82-77d7-c57a-8c793333392a
 ms.date: 03/07/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

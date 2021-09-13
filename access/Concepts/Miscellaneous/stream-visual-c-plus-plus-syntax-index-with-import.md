@@ -3,7 +3,7 @@ title: Stream (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: a3188858-9c0d-aff6-c893-2111aee77383
 ms.date: 10/12/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

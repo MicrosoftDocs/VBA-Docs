@@ -8,7 +8,7 @@ api_name:
 - Outlook.TableView.GetTable
 ms.assetid: 4f20a3cc-5ec9-a58b-8fcf-00e86f160493
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

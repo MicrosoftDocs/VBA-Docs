@@ -8,7 +8,7 @@ api_name:
 - Word.Shapes.SelectAll
 ms.assetid: 2d907cfd-75ad-c29f-8ef8-85f810915ba8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

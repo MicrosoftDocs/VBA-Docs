@@ -8,7 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ConnectorSplittingEnabled
 ms.assetid: f13df7d6-13b6-b39e-1671-a2287505c923
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

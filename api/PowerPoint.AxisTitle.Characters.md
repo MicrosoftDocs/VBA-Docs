@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.Characters
 ms.assetid: 8b1b9dc9-6aa3-872f-964a-fe623feff6fa
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

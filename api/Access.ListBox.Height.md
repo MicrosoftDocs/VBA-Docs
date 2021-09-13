@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.Height
 ms.assetid: b8ef3b9c-58bc-e30c-b754-3a3cf574c840
 ms.date: 02/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folders.Add
 ms.assetid: 20ced7ad-779c-a9b0-267e-6d729c0eb822
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

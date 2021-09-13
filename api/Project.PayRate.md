@@ -5,7 +5,7 @@ api_name:
 - Project.PayRate
 ms.assetid: 4c8ba1f3-bf18-2179-5f50-c090c63e46b9
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

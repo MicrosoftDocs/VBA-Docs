@@ -8,7 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.Caption
 ms.assetid: fe3f8026-71e2-3a5a-9376-7b9d93f97b6f
 ms.date: 05/09/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PatternColorIndex
 ms.assetid: d11aa18c-b46d-950c-78ef-e58dd1c751fb
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

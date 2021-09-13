@@ -8,7 +8,7 @@ api_name:
 - Access.Printer.Port
 ms.assetid: 0fef85fb-fbe7-eada-1629-d56b6008e039
 ms.date: 03/23/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

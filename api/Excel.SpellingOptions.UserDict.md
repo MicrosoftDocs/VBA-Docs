@@ -8,7 +8,7 @@ api_name:
 - Excel.SpellingOptions.UserDict
 ms.assetid: 8816b44e-98e5-8829-cb6e-af4ac4040838
 ms.date: 05/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

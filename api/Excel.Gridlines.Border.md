@@ -8,7 +8,7 @@ api_name:
 - Excel.Gridlines.Border
 ms.assetid: 4acc2605-a74f-0e8a-4e44-c43f71103a2f
 ms.date: 04/26/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

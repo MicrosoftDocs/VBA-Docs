@@ -8,7 +8,7 @@ api_name:
 - Word.TextInput.EditType
 ms.assetid: edd9efba-ca77-3f2f-021e-89e86ac9efc8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

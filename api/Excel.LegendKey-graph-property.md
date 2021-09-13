@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey
 ms.assetid: 55277508-2a81-c9c0-1f34-4d44c967ae8e
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

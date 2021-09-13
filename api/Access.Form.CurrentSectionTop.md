@@ -8,7 +8,7 @@ api_name:
 - Access.Form.CurrentSectionTop
 ms.assetid: d6f4f5f6-641f-3092-7d99-195c77722718
 ms.date: 03/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

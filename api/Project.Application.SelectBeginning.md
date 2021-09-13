@@ -8,7 +8,7 @@ api_name:
 - Project.Application.SelectBeginning
 ms.assetid: 4adf20ae-4fd2-818a-da8c-133c08cad7fb
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

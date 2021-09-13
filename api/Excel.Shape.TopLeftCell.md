@@ -8,7 +8,7 @@ api_name:
 - Excel.Shape.TopLeftCell
 ms.assetid: 20c15d22-5a54-2167-05bf-80b13cf56580
 ms.date: 05/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

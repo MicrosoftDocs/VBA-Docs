@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Next
 ms.assetid: a0e53eba-c9e9-7997-4765-90debeb8ae5d
 ms.date: 04/16/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

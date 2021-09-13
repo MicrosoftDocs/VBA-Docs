@@ -3,7 +3,7 @@ title: Views object (Project)
 ms.prod: project-server
 ms.assetid: 53717121-f6da-d762-af97-15a819ea5d82
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

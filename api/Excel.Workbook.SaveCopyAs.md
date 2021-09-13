@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.SaveCopyAs
 ms.assetid: 84f58488-6a2b-7fef-1472-e1b9771a60b0
 ms.date: 05/29/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

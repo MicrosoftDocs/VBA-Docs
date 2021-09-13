@@ -8,7 +8,7 @@ api_name:
 - Excel.LegendKey.InvertIfNegative
 ms.assetid: f0c6cd77-b24f-f0ce-36da-117f5f291858
 ms.date: 04/27/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

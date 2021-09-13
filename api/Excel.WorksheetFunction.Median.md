@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Median
 ms.assetid: a2dfcdbe-2291-e346-beca-0e93c9851532
 ms.date: 05/24/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

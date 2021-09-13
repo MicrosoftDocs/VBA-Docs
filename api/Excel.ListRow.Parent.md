@@ -8,7 +8,7 @@ api_name:
 - Excel.ListRow.Parent
 ms.assetid: fd49742d-66ad-3aa5-e66e-818d0897d510
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

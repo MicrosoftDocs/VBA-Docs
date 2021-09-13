@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.GridlineThemeColorIndex
 ms.assetid: 62339876-c58b-6636-5a3d-1fadee6a5c3c
 ms.date: 02/14/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

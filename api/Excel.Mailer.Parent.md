@@ -8,7 +8,7 @@ api_name:
 - Excel.Mailer.Parent
 ms.assetid: 09f38d9f-9a42-b753-7377-f236e6d55aea
 ms.date: 04/30/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

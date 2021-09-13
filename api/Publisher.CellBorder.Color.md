@@ -8,7 +8,7 @@ api_name:
 - Publisher.CellBorder.Color
 ms.assetid: 59a43522-f0df-fe1a-6e35-19cb012b103f
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

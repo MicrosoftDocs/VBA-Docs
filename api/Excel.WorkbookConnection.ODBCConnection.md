@@ -8,7 +8,7 @@ api_name:
 - Excel.WorkbookConnection.ODBCConnection
 ms.assetid: b5d388da-dcd0-9d9f-3dab-c311e42e46ba
 ms.date: 05/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

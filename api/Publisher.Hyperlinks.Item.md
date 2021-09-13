@@ -8,7 +8,7 @@ api_name:
 - Publisher.Hyperlinks.Item
 ms.assetid: 8d288fc6-9ded-5732-b972-6fa366ef31c3
 ms.date: 06/08/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

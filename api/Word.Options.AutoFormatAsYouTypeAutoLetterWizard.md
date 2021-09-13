@@ -8,7 +8,7 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeAutoLetterWizard
 ms.assetid: be49edd1-cb44-12d1-df43-ddaaddccef04
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

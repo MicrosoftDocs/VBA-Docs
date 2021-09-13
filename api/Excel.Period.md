@@ -8,7 +8,7 @@ api_name:
 - Excel.Period
 ms.assetid: 6f0378a3-a158-b21d-eef3-acde9e86f94b
 ms.date: 04/11/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

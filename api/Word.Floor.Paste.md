@@ -8,7 +8,7 @@ api_name:
 - Word.Floor.Paste
 ms.assetid: e6fff5fb-8b89-62c6-7a89-01c8f1eeebb1
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

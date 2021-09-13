@@ -8,7 +8,7 @@ api_name:
 - Excel.Window.SheetViews
 ms.assetid: eb88a287-0ec7-f7cf-7aae-de529441ebb4
 ms.date: 05/21/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

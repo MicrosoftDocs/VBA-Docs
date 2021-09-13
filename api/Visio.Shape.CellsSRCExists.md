@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.CellsSRCExists
 ms.assetid: 7d614820-2a64-c3ee-b61c-a7c0dcfb90c8
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

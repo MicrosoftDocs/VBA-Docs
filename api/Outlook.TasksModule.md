@@ -8,7 +8,7 @@ api_name:
 - Outlook.TasksModule
 ms.assetid: fc6ae6c9-6b13-b5f2-9506-c3dbbe709df6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

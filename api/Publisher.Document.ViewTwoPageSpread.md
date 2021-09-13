@@ -8,7 +8,7 @@ api_name:
 - Publisher.Document.ViewTwoPageSpread
 ms.assetid: b5e851ff-d5fc-a98d-02b3-7e14c1b957dc
 ms.date: 06/06/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.WebTextBox.Limit
 ms.assetid: b6bf334e-a610-492a-b316-e8b52d223176
 ms.date: 06/18/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

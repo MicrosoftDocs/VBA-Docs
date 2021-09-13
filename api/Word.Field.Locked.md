@@ -8,7 +8,7 @@ api_name:
 - Word.Field.Locked
 ms.assetid: 2f1b1351-8de1-f2b0-0c39-b944bf23a92e
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

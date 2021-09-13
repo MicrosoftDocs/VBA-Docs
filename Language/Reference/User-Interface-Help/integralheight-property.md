@@ -8,7 +8,7 @@ api_name:
 - Office.IntegralHeight
 ms.assetid: 1aeec970-ef48-a9e8-f130-1ac51c61d026
 ms.date: 11/16/2018
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

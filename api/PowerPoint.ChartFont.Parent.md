@@ -5,7 +5,7 @@ api_name:
 - PowerPoint.ChartFont.Parent
 ms.assetid: 25a894a3-cd13-bf09-1bf6-9d25c29a20b6
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.CharBasedFirstLineIndent
 ms.assetid: d0432be6-2e6a-39fa-9e9a-0300a0437f35
 ms.date: 06/12/2019
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

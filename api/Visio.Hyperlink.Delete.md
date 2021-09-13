@@ -8,7 +8,7 @@ api_name:
 - Visio.Hyperlink.Delete
 ms.assetid: a288cec6-ea84-9c7a-6bf1-b876d32bd468
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 

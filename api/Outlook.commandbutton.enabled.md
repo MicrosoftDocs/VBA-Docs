@@ -3,7 +3,7 @@ title: CommandButton.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 51520f48-79c6-2bfe-7c21-ba41baf46f22
 ms.date: 06/08/2017
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 
