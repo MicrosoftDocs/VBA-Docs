@@ -30,14 +30,14 @@ When you run your code, execution may stop if:
     
 **To halt execution manually**
 
-1. To switch to break mode, choose **Break** (CTRL+BREAK) from the **[Run](../reference/user-interface-help/run-menu.md)** menu, or use the toolbar shortcut: ![Toolbar button](../../images/tbr_brk_ZA01201682.gif).
+1. To switch to break mode, choose **Break** (CTRL+BREAK) from the **[Run](../reference/user-interface-help/run-menu.md)** menu, or use the toolbar shortcut: ![image of toolbar button shortcut to switch to break mode](../../images/tbr_brk_ZA01201682.gif).
     
-2. To switch to design time, choose **Reset <projectname&gt;** from the **Run** menu, or use the toolbar shortcut: ![Toolbar button](../../images/tbr_end_ZA01201701.gif).
+2. To switch to design time, choose **Reset <projectname&gt;** from the **Run** menu, or use the toolbar shortcut: ![image of toolbar button shortcut to switch to design time](../../images/tbr_end_ZA01201701.gif).
     
 
 **To continue execution when your application has halted**
 
-- On the **Run** menu, choose **Continue** (F5), or use the toolbar shortcut: ![Toolbar button](../../images/tbr_strt_ZA01201751.gif), or...
+- On the **Run** menu, choose **Continue** (F5), or use the toolbar shortcut: ![image of toolbar button to continue](../../images/tbr_strt_ZA01201751.gif), or...
     
 - On the **[Debug](../reference/user-interface-help/debug-menu.md)** menu, choose **Step Into** (F8), **Step Over** (SHIFT+F8), **Step Out** (CTRL+SHIFT+F8), or **Run To Cursor** (CTRL+F8).
     
