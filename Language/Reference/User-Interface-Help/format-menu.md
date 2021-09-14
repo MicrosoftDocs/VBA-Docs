@@ -62,10 +62,10 @@ Changes the horizontal space between selected [objects](../../Glossary/vbe-gloss
 
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
-|**Make Equal**|Moves the selected objects so that there is equal space between them by using the outermost objects as endpoints. The outermost objects do not move.|![Make Equal Toolbar button](../../../images/tbr_heql_ZA01201706.gif)|
-|**Increase**|Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **[General](general-tab-options-dialog-box.md)** tab of the **[Options](options-dialog-box.md)** dialog box.|![Increase Toolbar button](../../../images/tbr_hinc_ZA01201707.gif)|
+|**Make Equal**|Moves the selected objects so that there is equal space between them by using the outermost objects as endpoints. The outermost objects do not move.|![Make Equal Toolbar button horizontally](../../../images/tbr_heql_ZA01201706.gif)|
+|**Increase**|Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **[General](general-tab-options-dialog-box.md)** tab of the **[Options](options-dialog-box.md)** dialog box.|![Increase Toolbar button horizontally](../../../images/tbr_hinc_ZA01201707.gif)|
 |**Decrease**|Decreases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Decrease Toolbar button](../../../images/tbr_hdec_ZA01201705.gif)|
-|**Remove**|Removes the horizontal space so that the objects are aligned with their edges touching based on the object with focus. When an object has focus, white handles appear on its borders.|![Remove Toolbar button](../../../images/tbr_hrem_ZA01201708.gif)|
+|**Remove**|Removes the horizontal space so that the objects are aligned with their edges touching based on the object with focus. When an object has focus, white handles appear on its borders.|![Remove Toolbar button horizontally](../../../images/tbr_hrem_ZA01201708.gif)|
 
 > [!NOTE] 
 > The object with focus does not move but the other objects move around it.
@@ -110,10 +110,10 @@ Changes the vertical space between the selected [objects](../../Glossary/vbe-glo
 
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
-|**Make Equal**|Moves the selected objects so that there is equal space between them by using the top and bottom objects as the endpoints.|![Make Equal Toolbar button](../../../images/tbr_veql_ZA01201765.gif)|
-|**Increase**|Increases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Increase Toolbar button](../../../images/tbr_vinc_ZA01201766.gif)|
-|**Decrease**|Decreases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Decrease Toolbar button](../../../images/tbr_vdec_ZA01201764.gif)|
-|**Remove**|Removes the vertical spacing so that the object's borders are touching, based on the object with focus.|![Remove Toolbar button](../../../images/tbr_vrem_ZA01201767.gif)|
+|**Make Equal**|Moves the selected objects so that there is equal space between them by using the top and bottom objects as the endpoints.|![Make Equal Toolbar button vertically](../../../images/tbr_veql_ZA01201765.gif)|
+|**Increase**|Increases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Increase Toolbar button vertically](../../../images/tbr_vinc_ZA01201766.gif)|
+|**Decrease**|Decreases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Decrease Toolbar button vertically](../../../images/tbr_vdec_ZA01201764.gif)|
+|**Remove**|Removes the vertical spacing so that the object's borders are touching, based on the object with focus.|![Remove Toolbar button vertically](../../../images/tbr_vrem_ZA01201767.gif)|
 
 > [!NOTE] 
 > The object with focus does not move but the other objects move around it.

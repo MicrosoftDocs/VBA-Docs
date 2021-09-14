@@ -30,9 +30,9 @@ As you run your code, it may stop executing for one of the following reasons:
     
 **To halt execution manually**
 
-- To switch to break mode, from the **[Run](../reference/user-interface-help/run-menu.md)** menu, choose **Break** (CTRL+BREAK), or use the toolbar shortcut: ![Toolbar button](../../images/tbr_brk_ZA01201682.gif).
+- To switch to break mode, from the **[Run](../reference/user-interface-help/run-menu.md)** menu, choose **Break** (CTRL+BREAK), or use the toolbar shortcut: ![image of toolbar button to switch to break mode](../../images/tbr_brk_ZA01201682.gif).
     
-- To switch to design time, from the **Run** menu, choose **Reset <projectname&gt;**, or use the toolbar shortcut: ![Toolbar button](../../images/tbr_end_ZA01201701.gif).
+- To switch to design time, from the **Run** menu, choose **Reset <projectname&gt;**, or use the toolbar shortcut: ![image of toolbar button to switch to design time](../../images/tbr_end_ZA01201701.gif).
     
 **To continue execution when your application has halted**
 

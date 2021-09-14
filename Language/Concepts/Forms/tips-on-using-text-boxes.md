@@ -25,10 +25,9 @@ The **[TextBox](../../reference/user-interface-help/textbox-control.md)** is a f
 - **[AutoSize](../../reference/user-interface-help/autosize-property.md)** controls whether the **TextBox** adjusts to display all of the text. When using **AutoSize** with a **TextBox**, the width of the **TextBox** shrinks or expands according to the amount of text in the **TextBox** and the font size used to display the text.
   
  **AutoSize** works well in the following situations:
-
-    - Displaying a caption of one or more lines.   
-    - Displaying the contents of a single-line **TextBox**.
-    - Displaying the contents of a multiline **TextBox** that is read-only to the user.
+ - Displaying a caption of one or more lines
+ - Displaying the contents of a single-line **TextBox**
+ - Displaying the contents of a multiline **TextBox** that is read-only to the user
     
 > [!NOTE] 
 > Avoid using **AutoSize** with an empty **TextBox** that also uses the **MultiLine** and **WordWrap** properties. When the user enters text into a **TextBox** with these properties, the **TextBox** automatically sizes to a long narrow box one character wide and as long as the line of text.
