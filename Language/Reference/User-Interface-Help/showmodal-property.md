@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ShowModal
 ms.assetid: 710c7bc7-ce50-057f-680e-e2be157d0dac
-ms.date: 12/19/2018
+ms.date: 09/19/2021
 ms.localizationpriority: medium
 ---
 
@@ -16,15 +16,12 @@ ms.localizationpriority: medium
 
 Sets a **[UserForm](userform-object.md)** to be modal or modeless in its display. Read-only at [run time](../../Glossary/vbe-glossary.md#run-time).
 
-## Remarks
-
 The settings for the **ShowModal** property are:
 
 |Setting|Description|
 |:-----|:-----|
 |**True**|(Default) The **UserForm** is modal.|
 |**False**|The **UserForm** is modeless.|
-
 
 ## Remarks
 
