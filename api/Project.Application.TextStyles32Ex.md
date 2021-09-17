@@ -37,7 +37,6 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 | _CellColor_|Optional|**Long**|The background color of the cell. Can be a hexadecimal value for the RGB color.|
 | _Pattern_|Optional|**Integer**|The background pattern of the cell. Can be one of the **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
 
-<br/>
 
 ### If the Gantt Chart is active
 
@@ -53,7 +52,6 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 |**pjTaskFilterHighlight**|**pjGanttExternalTask**|
 |**pjTaskRowColumnTitles**||
 
-<br/>
 
 ### If the Task Usage view is active
 
@@ -67,7 +65,6 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 |**pjProjectSummary**|**pjTaskUsageExternalTask**|
 |**pjSummary**||
 
-<br/>
 
 ### If the Task Sheet is active
 
@@ -101,7 +98,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 |**pjMilestone**|**pjTaskFilterHighlight**|
 |**pjNoncritical**|**pjTaskRowColumnTitles**|
 
-<br/>
+
 
 ## Return value
 
