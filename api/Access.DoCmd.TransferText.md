@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.TransferText
 ms.assetid: e59f26dc-2df8-8d87-b73d-f3004eed0719
-ms.date: 03/07/2019
+ms.date: 09/17/2021
 ms.localizationpriority: high
 ---
 
@@ -16,13 +16,11 @@ ms.localizationpriority: high
 
 The **TransferText** method carries out the TransferText action in Visual Basic.
 
-
 ## Syntax
 
 _expression_.**TransferText** (_TransferType_, _SpecificationName_, _TableName_, _FileName_, _HasFieldNames_, _HTMLTableName_, _CodePage_)
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
-
 
 ## Parameters
 
@@ -34,14 +32,13 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 |_FileName_|Optional|**Variant**|A string expression that's the full name, including the path, of the text file you want to import from, export to, or link to.|
 |_HasFieldNames_|Optional|**Variant**|Use **True** (1) to use the first row of the text file as field names when importing, exporting, or linking. Use **False** (0) to treat the first row of the text file as normal data. If you leave this argument blank, the default (**False**) is assumed. This argument is ignored for Microsoft Word mail merge data files, which must always contain the field names in the first row.|
 |_HTMLTableName_|Optional|**Variant**|A string expression that's the name of the table or list in the HTML file that you want to import or link. This argument is ignored unless the _TransferType_ argument is set to **acImportHTML** or **acLinkHTML**. If you leave this argument blank, the first table or list in the HTML file is imported or linked.<br/><br/>The name of the table or list in the HTML file is determined by the text specified by the **CAPTION** tag, if there's a **CAPTION** tag. If there's no **CAPTION** tag, the name is determined by the text specified by the **TITLE** tag. If more than one table or list has the same name, Access distinguishes them by adding a number to the end of each table or list name; for example, Employees1 and Employees2.|
-|[CodePage Identifiers](https://docs.microsoft.com/windows/desktop/Intl/code-page-identifiers)|Optional|**Variant**|A **Long** value indicating the character set of the code page.|
+|[CodePage Identifiers](/windows/desktop/Intl/code-page-identifiers.md)|Optional|**Variant**|A **Long** value indicating the character set of the code page.|
 
 ## Remarks
 
 You can use the **TransferText** method to import or export text between the current Access database or Access project (.adp) and a text file. You can also link the data in a text file to the current Access database. With a linked text file, you can view the text data with Access while still allowing complete access to the data from your word processing program. You can also import from, export to, and link to a table or list in an HTML file (*.html).
 
 You can export the data in Access select queries to text files. Access exports the result set of the query, treating it just like a table.
-
 
 ## Example
 
@@ -117,8 +114,5 @@ Public Sub DoMailMerge(strFileSavePath As String)
 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
