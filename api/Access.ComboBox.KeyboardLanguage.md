@@ -7,20 +7,17 @@ ms.prod: access
 api_name:
 - Access.ComboBox.KeyboardLanguage
 ms.assetid: 5eb0e03c-c931-45b5-7801-d790c4678768
-ms.date: 03/02/2019
+ms.date: 09/02/2021
 ms.localizationpriority: medium
 ---
 
-
 # ComboBox.KeyboardLanguage property (Access)
-
 
 ## Syntax
 
 _expression_.**KeyboardLanguage**
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
-
 
 ## Remarks
 
@@ -32,7 +29,7 @@ Setting this property to a language that is not installed may either have no eff
 
 ## See also
 
-- [Language Identifiers](https://docs.microsoft.com/windows/desktop/intl/language-identifiers)
+- [Language Identifiers](/windows/desktop/intl/language-identifiers.md)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
