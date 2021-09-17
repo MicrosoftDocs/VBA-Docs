@@ -2,7 +2,7 @@
 title: About Units of Measure (Visio)
 ms.prod: visio
 ms.assetid: b6140312-b8e6-0cf2-9fe0-b14e800216bf
-ms.date: 06/08/2017
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -15,12 +15,9 @@ Visio evaluates the result of a formula differently depending on the cell in whi
 
 Always specify a unit of measure when you enter a formula in a cell that expects a dimensional value. If you do not specify a unit of measure, Visio uses the default unit for that cell, which can be page units, drawing units, type units, duration units, or angular units.
 
-
 ## Units of measure
 
 When indicating units of measure in ShapeSheet formulas, use the abbreviations listed in the following table.
-
-
 
 |**To specify these units of measure**|**Use**|**Automation constant**|
 |:-----|:-----|:-----|
@@ -55,8 +52,6 @@ In formulas, you can express units of measure for compound numbers using the abb
 
 For example, if you enter  _45.635°_, Visio displays the equivalent value as 45° 38' 6".
 
-
-
 |**To specify units**|**Use this abbreviation**|**Automation constant**|
 |:-----|:-----|:-----|
 | Ciceros and didots| CICERO/DIDOT| **visCicerosAndDidots** (52)|
@@ -69,17 +64,10 @@ For example, if you enter  _45.635°_, Visio displays the equivalent value as 45
 You can specify fractional units of measure in the DrawingScale cell to affect the number of ruler subdivisions that Visio displays in the drawing window. By default, Visio divides distances into tenths when drawing its rulers. If you use fractional units of measure in the DrawingScale cell, Visio divides distance into the following:
 
 
-
-
-- Eighths for **visInchFrac** and **visMileFrac**
-    
-- Twelfths for **visFeetAndInches**
-    
-
+- Eighths for **visInchFrac** and **visMileFrac**    
+- Twelfths for **visFeetAndInches**    
 
 Fractional units of measure have no effect in cells other than in the DrawingScale cell.
-
-
 
 |**To specify fractional units**|**Use this abbreviation**|**Automation constant**|
 |:-----|:-----|:-----|
@@ -90,8 +78,6 @@ Fractional units of measure have no effect in cells other than in the DrawingSca
 ## Multidimensional units of measure
 
 In formulas, you can express units of measure for multidimensional numbers using the abbreviations in the following table. Visio simplifies the results and displays them in the multidimensional units.
-
-
 
 |**To specify multidimensional units**|**Use this abbreviation**|**Automation constant**|
 |:-----|:-----|:-----|
@@ -109,8 +95,6 @@ In formulas, you can express units of measure for multidimensional numbers using
 ## Universal strings
 
 In localized versions of Visio, the set of recognized strings changes with the language. If you want your program to work with multiple languages, use the universal strings for units of measure.
-
-
 
 |**For**|**Use**|
 |:-----|:-----|
@@ -154,14 +138,12 @@ For example, suppose you enter the equivalent of 1 inch in cell A using explicit
 To enter units implicitly, use the following syntax.
 
 
-
-
 ```vb
 number [unit, flag]  
 ```
 
-
-
+|**Variable**|**Description**|
+|:-----|:-----|
 | _number_|The original value, such as 3.7, 1.7E-4, or 5 1/2.|
 | _unit_|The units in which  _number_ originally is expressed.|
 | _flag_|The measurement system to use when the implicit-value unit is displayed. See below for values.|
@@ -185,9 +167,7 @@ Using the implicit syntax described above, this expression (=2 DL) is equivalent
 
 ## Default units of measure
 
-Following are the default units of measure along with their equivalent settings in the user interface.
-
-
+The following table lists the default units of measure along with their equivalent settings in the user interface.
 
 |**Default unit of measure**|**User interface equivalent**|
 |:-----|:-----|

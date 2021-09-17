@@ -2,7 +2,7 @@
 title: Specifying Form Regions in the Windows Registry
 ms.prod: outlook
 ms.assetid: 0de3fcb1-b357-8300-c943-9a5a788d4976
-ms.date: 06/08/2019
+ms.date: 06/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -67,7 +67,7 @@ The following is an example of the XML for a form region for a derived message c
 
 To register the form region, create the following value in the Windows registry:
 
-|     |     |
+|   **Registry value**  |  **Entry**   |
 | --- | --- |
 | **Key**|HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact.MapUser|
 | **Name**|MapTab|
