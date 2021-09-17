@@ -174,11 +174,11 @@ To run the form region, you must register it in the Windows registry, specifying
 3. Under the **FormRegions** key, add the key **IPM.Contact**, if it does not already exist.
 4. For the key **IPM.Contact**, add a value of the type **String**, specifying **ContosoAdjoining** as the name, and **c:\Form Regions\contoso.xml** as the data.
 5. Close the registry.
-
+1. 
 ## Use the form region
 
 1. Start Outlook.
-2. Open a contact item.
+2. Open a contact item.\
 
 You will see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form, as shown in Figure 1.
 
