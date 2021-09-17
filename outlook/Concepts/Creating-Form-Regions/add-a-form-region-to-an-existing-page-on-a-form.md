@@ -18,18 +18,50 @@ This walkthrough shows how to add an adjoining form region to the **General** pa
 
 ## Design the form region
 
-To create and design a form region, you will use the Forms Designer in much the same way as you customize a form page, by adding controls from the control toolbox to the form region and optionally binding controls to fields. You will create an adjoining form region that will append to the end of the **General** page of the contact form. This form region will contain six controls. You will insert the controls in the form region, create three user-defined fields, and bind the controls to the fields. When you are done with designing, you will save the form region to an .OFS file. The following figure shows the resultant **General** page of the Contact form.
+To create and design a form region, you will use the Forms Designer in much the same way as you customize a form page, by adding controls from the control toolbox to the form region and optionally binding controls to fields. You will create an adjoining form region that will append to the end of the **General** page of the contact form. This form region will contain six controls. You will insert the controls in the form region, create three user-defined fields, and bind the controls to the fields. When you are done with designing, you will save the form region to an .OFS file. Figure 1 shows the resultant **General** page of the Contact form.
+
+**Figure 1. The customized Contact form at runtime - the General page showing an adjoining form region at the bottom.**
 
 ![Contact form](../../../images/olContactFormWithFormRegion_ZA10107785.gif)
 
 1. In Outlook, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Design a Form**.
-2. In the **Design Form** box, click **Contact** and then click **Open**.<br/>![Design form dialog box](../../../images/olDesignFormDialog_ZA10107628.gif)
-3. In the Forms Designer, click **Form Region** and then **New Form Region**.<br/>![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](../../../images/olNewFormRegionMenuItem_ZA10107630.gif)
-4. Next, you'll create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it.<br/>![Field chooser dialog box, showing the New button selected.](../../../images/olFieldChooserDialog_ZA10107631.gif)
-5. Click **New**. Type **Frequent Flyer Number** as the **Name**, and click **OK** to create the Frequent Flyer Number field as a custom text field.<br/>![Screenshot showing New Field dialog box with the Name field populated.](../../../images/olNewFieldDialogFFN_ZA10107632.gif)
-6. Click **New**. Type **Vegetarian** as the **Name**, select **Yes/No** as the **Type**, and select **Yes/No** as the **Format**, and click **OK** to create the Vegetarian field as a Yes/No field.<br/>![Screenshot showing New Field dialog box with custom field called Vegetarian.](../../../images/olNewFieldDialogSmoker_ZA10107633.gif)
-7. Click **New**. Type **Seat Preference** as the **Name**, select **Text** as the **Type**, and click **OK** to create the Seat Preference field as a custom text field.<br/>![Screenshot showing New Field dialog box with custom field called Seat Preference.](../../../images/olNewFieldDialogSP_ZA10107634.gif)
-8. In steps 9 through 12, you'll insert six Outlook controls in the form region.
+2. In the **Design Form** box, click **Contact** and then click **Open**, as in Figure 2.
+
+ **Figure 2. Choose a standard form to start your customization.**
+
+   ![Design form dialog box](../../../images/olDesignFormDialog_ZA10107628.gif)
+
+3. In the Forms Designer, click **Form Region** and then **New Form Region**, as in Figure 3.
+
+ **Figure 3. Create a form region.**
+
+   ![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](../../../images/olNewFormRegionMenuItem_ZA10107630.gif)
+
+4. Next, you will create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it as in Figure 4.
+
+ **Figure 4. Use the Field chooser to create custom fields.**
+
+   ![Field chooser dialog box, showing the New button selected.](../../../images/olFieldChooserDialog_ZA10107631.gif)
+
+5. Click **New**. Type **Frequent Flyer Number** as the **Name** (see Figure 5), and click **OK** to create the Frequent Flyer Number field as a custom text field.
+
+ **Figure 5. Create the custom field Frequent Flyer Number.**
+
+   ![Screenshot showing New Field dialog box with the Name field populated.](../../../images/olNewFieldDialogFFN_ZA10107632.gif)
+
+6. Click **New**. Type **Vegetarian** as the **Name**, select **Yes/No** as the **Type**, and select **Yes/No** as the **Format** (see Figure 6), and click **OK** to create the Vegetarian field as a Yes/No field.
+
+ **Figure 6. Create the custom field Vegetarian.**
+
+   ![Screenshot showing New Field dialog box with custom field called Vegetarian.](../../../images/olNewFieldDialogSmoker_ZA10107633.gif)
+
+7. Click **New**. Type **Seat Preference** as the **Name**, select **Text** as the **Type** (see Figure 7), and click **OK** to create the Seat Preference field as a custom text field.
+
+ **Figure 7. Create the custom field Seat Preference.**
+
+   ![Screenshot showing New Field dialog box with custom field called Seat Preference.](../../../images/olNewFieldDialogSP_ZA10107634.gif)
+
+8. In steps 9 through 12, you will insert six Outlook controls in the form region.
 
    > [!NOTE]
    > The control toolbox is initialized only with Microsoft Forms 2.0 controls. When you insert a Forms 2.0 control in a form region, if a themed Outlook counterpart control exists as an Outlook control, Outlook will automatically replace the Forms 2.0 control with the themed counterpart. 
@@ -38,11 +70,15 @@ To create and design a form region, you will use the Forms Designer in much the 
    >
    > However, there are other Microsoft Outlook controls (for example, the Microsoft Outlook Recipient Control and the Microsoft Outlook Sender Photo Control) that do not exist in the Toolbox by default. To use these Outlook controls for the first time, you will have to add them to the Toolbox, by right-clicking the bottom of the Toolbox and clicking **Custom Controls**.
 
-   The following screenshot shows the resultant layout of the form region we are going to create. Steps 9, 10, 11, and 12 involve inserting controls from the Toolbox, and binding user-defined fields to some of the controls.<br/>![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olCompletedFormRegion_ZA10107636.gif)
+   Figure 8 shows the resultant layout of the form region we are going to create. Steps 9, 10, 11, and 12 involve inserting controls from the Toolbox, and binding user-defined fields to some of the controls. 
+
+ **Figure 8. The desired form region in the Forms Designer.**
+
+   ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olCompletedFormRegion_ZA10107636.gif)
 
 9. Add a label control for the title of the form region, **Contoso Airlines**.
     
-   1. Pick and click the label control to add it from the Toolbox to the form region as shown in the previous screenshot.
+   1. Pick and click the label control to add it from the Toolbox to the form region as shown in Figure 8.
     
       > [!NOTE]
       > Using pick-and-click instead of drag-and-drop to insert a control from the Toolbox to the form region allows you to insert the control in the appropriate default size in the form region.
@@ -52,26 +88,43 @@ To create and design a form region, you will use the Forms Designer in much the 
    4. Click **OK**.
    5. Use the mouse to pull on the right handle of the label control to adjust the width to accommodate the length of the caption.
     
-10. Add a label control and a text box control, and bind the Frequent Flyer Number field to the text box control.<br/>![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field selected to bind it to the text box control.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
-   
-   1. Pick and click another label control to add it from the Toolbox to the form region.
+10. Add a label control and a text box control, and bind the Frequent Flyer Number field to the text box control.
+    
+   1. Pick and click another label control to add it from the Toolbox to the form region as shown in Figure 9.
    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Frequent Flyer Number:** as the **Caption**. Click **OK**.
    3. Use the mouse to pull on the right handle of the label control to adjust the width to accommodate the length of the caption.
-   4. Pick and click the text box control to add it from the Toolbox to the form region.
-   5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**. Then click **OK**.
+   4. Pick and click the text box control to add it from the Toolbox to the form region as shown in Figure 9.
+   5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**, as in Figure 9. Then click **OK**.
 
-11. Add a check box control and bind the Vegetarian field to the check box control.<br/>![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
-    
-   1. Pick and click the check box control to add it from the Toolbox to the form region.
-   2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**.     
-   3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in the following screenshot. Then click **OK**.<br/>![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
+  **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
 
-12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.<br/>![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
+   ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field selected to bind it to the text box control.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
+
+11. Add a check box control and bind the Vegetarian field to the check box control.
     
-   1. Pick and click the label control to add it from the Toolbox to the form region
+   1. Pick and click the check box control to add it from the Toolbox to the form region as shown in Figure 10.
+   2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**, as in Figure 10. 
+    
+   **Figure 10. Specify a caption for the check box control.**
+
+   ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
+
+   3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in Figure 11. Then click **OK**. 
+    
+   **Figure 11. Bind the Vegetarian field to the check box control.**
+
+   ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
+
+12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.
+    
+   1. Pick and click the label control to add it from the Toolbox to the form region as shown in Figure 12.
    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Seat Preference:** as the **Caption**. Click **OK**.
-   3. Pick and click the combo box control to add it from the Toolbox to the form region.
-   4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**.
+   3. Pick and click the combo box control to add it from the Toolbox to the form region as shown in Figure 12.
+   4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**, as in Figure 12. 
+    
+     **Figure 12. Bind the Seat Preference field to the combo box control.**
+     ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
+
    5. To define values for the drop-down list, type **Aisle,Center,Window** as the **Possible Values**.
    6. Check **Set the initial value of this field to:**, and type **Aisle** in the next text box as the initial display value. Then click **OK**.
      
@@ -127,6 +180,6 @@ To run the form region, you must register it in the Windows registry, specifying
 1. Start Outlook.
 2. Open a contact item.
 
-You'll see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form..
+You will see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form, as shown in Figure 1.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
