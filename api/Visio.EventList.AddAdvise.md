@@ -82,7 +82,7 @@ End Function
 
 The following table lists descriptions of the arguments to **VisEventProc**.
 
-|** Argument**|** Description**|
+|**Argument**|**Description**|
 |:-----|:-----|
 | nEventCode| The event(s) that occurred. You can provide a distinct object for each event or provide a single object that receives all notifications and switches internally based on nEventCode.|
 | pSourceObj| The object whose **EventList** collection contains the **Event** object that triggered the notification.|
@@ -95,7 +95,6 @@ pSourceObj .EventList.ItemFromID(nEventID )`|
 If nEventCode identifies a query event (events prefixed with **Query**), return **True** to cancel the event, and **False** to allow it to happen. The value is arbitrary for other events. If no explicit value is returned, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant**, which Visio interprets as **False**.
 
 The connection between the source object and the **Event** object exists until one of the following occurs:
-
 
 - The program deletes the **Event** object. 
 - The program releases the last reference to the source object. (The **EventList** collection and **Event** objects hold a reference on their source object.)
