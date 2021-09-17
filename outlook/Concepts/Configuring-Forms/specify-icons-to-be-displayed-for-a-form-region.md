@@ -48,8 +48,8 @@ The following table shows the states of an item that you can consider to identif
     
 2. Depending on how you would like the custom icon file to be specified, do either of the following:
 
-    - If you want Outlook to load the icon from an icon file or a resource file, specify the location of the icon file or resource file in the child element.
-    - If you want an add-in to inform Outlook which icon to display, specify  `addin` in the child element.
+- If you want Outlook to load the icon from an icon file or a resource file, specify the location of the icon file or resource file in the child element.
+- If you want an add-in to inform Outlook which icon to display, specify  `addin` in the child element.
     
 The following example specifies custom icons for several states of an item belonging to the message class supported by a form region: 
 
