@@ -11,9 +11,7 @@ ms.localizationpriority: medium
 
 Represents a functional and visual control group.
 
-
 ## Methods
-
 
 |Name|Description|
 |:-----|:-----|
@@ -26,13 +24,10 @@ Represents a functional and visual control group.
 | [SetDefaultTabOrder](Outlook.Frame.setdefaulttaborder.md)|Sets the  **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.|
 | [UndoAction](Outlook.Frame.undoaction.md)|Reverses the most recent action that supports the  **Undo** command.|
 
-
 ## Properties
-
 
 |Name|Description|
 |:-----|:-----|
-
 | [ActiveControl](Outlook.Frame.activecontrol.md)|Returns an **Object** that has the focus. Read-only.|
 | [BackColor](Outlook.Frame.backcolor.md)|Returns or sets a **Long** that specifies the background color of the object. Read/write.|
 | [BorderColor](Outlook.Frame.bordercolor.md)|Returns or sets a **Long** that specifies the border color of an object. Read/write.|
@@ -61,8 +56,6 @@ Represents a functional and visual control group.
 | [SpecialEffect](Outlook.Frame.specialeffect.md)|Returns or sets an **Integer** that specifies the visual appearance of an object. Read/write.|
 | [VerticalScrollBarSide](Outlook.Frame.verticalscrollbarside.md)|Returns or sets an **Integer** that specifies whether a vertical scroll bar appears on the right or left side of a frame. Read/write.|
 | [Zoom](Outlook.Frame.zoom.md)|Returns or sets an **Integer** that specifies the percentage to increase or decrease the displayed image. Read/write.|
-
-
 
 ## Events
 
