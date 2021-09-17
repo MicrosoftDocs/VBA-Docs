@@ -1,13 +1,13 @@
 ---
-title: Specify Icons to be Displayed for a Form Region
+title: Specify icons to be displayed for a form region
 ms.prod: outlook
 ms.assetid: 9ffb9f46-a3b9-d90c-6771-9cd9f9b2e04a
-ms.date: 06/08/2019
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
 
-# Specify Icons to be Displayed for a Form Region
+# Specify icons to be displayed for a form fegion
 
 When you define a form region for a custom message class, such as **IPM.Note.Customer**, you can specify custom icons to be displayed in the explorer, inspector, and the ribbon for items belonging to that message class. 
 
@@ -25,6 +25,7 @@ The following table shows the states of an item that you can consider to identif
 
 
 | **State of an Item**| **XML Child Element**| **Example**|
+|:-----|:-----|:-----|
 |Any state that applies to the item, if no other custom icon has been defined for that state.| **default**| `<default>c:\default.ico</default>`|
 |Icon to identify in the explorer that item has been encrypted.| **encrypted**| `<encrypted>c:\encryptedicon.ico</encrypted>`|
 |Icon to identify in the explorer that item has been forwarded.| **forwarded**| `<forwarded>c:\forwardedicon.ico</forwarded>`|
@@ -63,15 +64,12 @@ The following example specifies custom icons for several states of an item belon
 The four custom icons include:
 
 
-- A custom icon file for the read state
-    
-- A custom icon file for the unread state
-    
-- A location in a resource file for the encrypted state
-    
+- A custom icon file for the read state    
+- A custom icon file for the unread state    
+- A location in a resource file for the encrypted state    
 - A default icon file for all other states applicable to the item
     
-
- **Note** The value of the child element can be expressed either as a file path to an icon file or a resource file, or as  `addin`. The file path can be expressed as a full path or a path relative to the location of the form region manifest XML file, and can involve system variables. For more information on specifying an icon using an add-in, see [How to: Use an Add-in to Specify Icons for a Form Region](../Specifying-Form-Behavior/use-an-add-in-to-specify-icons-for-a-form-region.md).
+> [!NOTE]
+> The value of the child element can be expressed either as a file path to an icon file or a resource file, or as  `addin`. The file path can be expressed as a full path or a path relative to the location of the form region manifest XML file, and can involve system variables. For more information on specifying an icon using an add-in, see [How to: Use an Add-in to Specify Icons for a Form Region](../Specifying-Form-Behavior/use-an-add-in-to-specify-icons-for-a-form-region.md).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
