@@ -82,7 +82,7 @@ There are a number of wildcard characters to choose from, and the following tabl
 
 |**Wildcard character**|**Description**|
 |:-----|:-----|
-|\*\|Zero or more characters|
+|\*|Zero or more characters|
 |?|Any single character|
 |#|Any single digit (0-9)|
 |[ _charlist_ ]|Any single character in  _charlist_|
