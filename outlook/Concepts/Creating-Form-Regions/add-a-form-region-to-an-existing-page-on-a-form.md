@@ -23,18 +23,12 @@ To create and design a form region, you will use the Forms Designer in much the 
 ![Contact form](../../../images/olContactFormWithFormRegion_ZA10107785.gif)
 
 1. In Outlook, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Design a Form**.
-2. In the **Design Form** box, click **Contact** and then click **Open**.
-   ![Design form dialog box](../../../images/olDesignFormDialog_ZA10107628.gif)
-3. In the Forms Designer, click **Form Region** and then **New Form Region**.
-   ![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](../../../images/olNewFormRegionMenuItem_ZA10107630.gif)
-4. Next, you'll create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it.
-   ![Field chooser dialog box, showing the New button selected.](../../../images/olFieldChooserDialog_ZA10107631.gif)
-5. Click **New**. Type **Frequent Flyer Number** as the **Name**, and click **OK** to create the Frequent Flyer Number field as a custom text field.
-   ![Screenshot showing New Field dialog box with the Name field populated.](../../../images/olNewFieldDialogFFN_ZA10107632.gif)
-6. Click **New**. Type **Vegetarian** as the **Name**, select **Yes/No** as the **Type**, and select **Yes/No** as the **Format**, and click **OK** to create the Vegetarian field as a Yes/No field.
-   ![Screenshot showing New Field dialog box with custom field called Vegetarian.](../../../images/olNewFieldDialogSmoker_ZA10107633.gif)
-7. Click **New**. Type **Seat Preference** as the **Name**, select **Text** as the **Type**, and click **OK** to create the Seat Preference field as a custom text field.
-   ![Screenshot showing New Field dialog box with custom field called Seat Preference.](../../../images/olNewFieldDialogSP_ZA10107634.gif)
+2. In the **Design Form** box, click **Contact** and then click **Open**.<br/>![Design form dialog box](../../../images/olDesignFormDialog_ZA10107628.gif)
+3. In the Forms Designer, click **Form Region** and then **New Form Region**.<br/>![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](../../../images/olNewFormRegionMenuItem_ZA10107630.gif)
+4. Next, you'll create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it.<br/>![Field chooser dialog box, showing the New button selected.](../../../images/olFieldChooserDialog_ZA10107631.gif)
+5. Click **New**. Type **Frequent Flyer Number** as the **Name**, and click **OK** to create the Frequent Flyer Number field as a custom text field.<br/>![Screenshot showing New Field dialog box with the Name field populated.](../../../images/olNewFieldDialogFFN_ZA10107632.gif)
+6. Click **New**. Type **Vegetarian** as the **Name**, select **Yes/No** as the **Type**, and select **Yes/No** as the **Format**, and click **OK** to create the Vegetarian field as a Yes/No field.<br/>![Screenshot showing New Field dialog box with custom field called Vegetarian.](../../../images/olNewFieldDialogSmoker_ZA10107633.gif)
+7. Click **New**. Type **Seat Preference** as the **Name**, select **Text** as the **Type**, and click **OK** to create the Seat Preference field as a custom text field.<br/>![Screenshot showing New Field dialog box with custom field called Seat Preference.](../../../images/olNewFieldDialogSP_ZA10107634.gif)
 8. In steps 9 through 12, you'll insert six Outlook controls in the form region.
 
    > [!NOTE]
