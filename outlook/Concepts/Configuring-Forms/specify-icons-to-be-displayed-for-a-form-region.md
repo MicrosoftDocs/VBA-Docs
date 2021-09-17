@@ -2,7 +2,7 @@
 title: Specify icons to be displayed for a form region
 ms.prod: outlook
 ms.assetid: 9ffb9f46-a3b9-d90c-6771-9cd9f9b2e04a
-ms.date: 09/08/2021
+ms.date: 09/18/2021
 ms.localizationpriority: medium
 ---
 
@@ -46,7 +46,8 @@ The following table shows the states of an item that you can consider to identif
 
 1. In the form region manifest XML file, under the **icons** element, specify the child element that maps to the state that you would like to customize.
     
-2. Depending on how you would like the custom icon file to be specified, do either of the following: 
+2. Depending on how you would like the custom icon file to be specified, do either of the following:
+
     - If you want Outlook to load the icon from an icon file or a resource file, specify the location of the icon file or resource file in the child element.
     - If you want an add-in to inform Outlook which icon to display, specify  `addin` in the child element.
     
