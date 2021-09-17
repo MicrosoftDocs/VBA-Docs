@@ -21,7 +21,7 @@ Represents a collection of slide design templates.
 
 Use the [Designs](PowerPoint.Slide.Design.md) property of the **[Presentation](PowerPoint.Presentation.md)** object to reference a design template.
 
-To add or clone an individual design template, use the  **Designs** collection's [Add](PowerPoint.Designs.Add.md) or [Clone](PowerPoint.Designs.Clone.md) methods, respectively. To refer to an individual design template, use the [Item](PowerPoint.Designs.Item.md) method.
+To add or clone an individual design template, use the **Designs** collection's [Add](PowerPoint.Designs.Add.md) or [Clone](PowerPoint.Designs.Clone.md) methods, respectively. To refer to an individual design template, use the [Item](PowerPoint.Designs.Item.md) method.
 
 To load a design template, use the [Load](PowerPoint.Designs.Load.md) method.
 
