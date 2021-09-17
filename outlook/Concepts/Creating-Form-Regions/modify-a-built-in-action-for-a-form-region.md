@@ -46,6 +46,7 @@ The following example identifies the two built-in actions,  `reply` and `replyAl
 Note that by default, there are four built-in actions for each form region. You can identify them with the following keywords:
 
 | **Keyword**| **Built-in Action**|
+|:-----|:-----|
 | **forward**|Forward current item.|
 | **reply**|Reply to current item.|
 | **replyAll**|Reply to all recipients of the current item.|
