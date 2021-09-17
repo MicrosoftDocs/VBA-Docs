@@ -16,14 +16,12 @@ ms.localizationpriority: medium
 
 This object corresponds to an attachment control. Use an attachment control when you want to manipulate the contents fields of the attachment data type.
 
-
 ## Remarks
 
 > [!NOTE] 
 > You can attach files only to databases that you create in Office Access 2007 and later and that use the new .accdb file format. You cannot share attachments between an Office Access 2007 (.accdb) database and a database in the earlier (.mdb) file format.
 
 You can attach a maximum of two gigabytes of data (the maximum size for an Access database). Individual files cannot exceed 256 megabytes in size.
-
 
 ### Supported image file formats
 
@@ -40,22 +38,18 @@ Office Access 2007 and later support the following graphic file formats natively
 - ICON, ICO (Icon)    
 - WMF (Windows Metafile)    
 - EMF (Enhanced Metafile)
-    
 
 ### Supported formats for documents and other files
 
 As a rule, you can attach any file that was created with one of the 2007 Microsoft Office or later system programs. You can also attach log files (.log), text files (.text, .txt), and compressed .zip files.
 
-
 ### File-naming conventions
 
 The names of your attached files can contain any Unicode character supported by the NTFS file system used in Microsoft Windows NT (NTFS). In addition, file names must conform to these guidelines:
 
-- Names must not exceed 255 characters, including the file name extensions.
-    
+- Names must not exceed 255 characters, including the file name extensions.    
 - Names cannot contain the following characters: question marks (?), quotation marks ("), forward or backward slashes (/ \\), opening or closing brackets (< >), asterisks (*), vertical bars or pipes ( | ), colons ( : ), or paragraph marks.
-    
-
+- 
 ### Types of files that Access compresses
 
 Access will compress your attached files unless those files are compressed natively. For example, JPEG files are compressed by the graphics program that created them, so Access does not compress them. The following table lists some supported file types and whether or not Access compresses them.
@@ -234,7 +228,5 @@ Office Access 2007 blocks the following types of attached files. At this time, y
 ## See also
 
 - [Access Object Model Reference](overview/Access/object-model.md)
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
