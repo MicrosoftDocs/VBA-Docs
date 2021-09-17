@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following values:<br/>-4104|Everything will be pasted. This is the default value.<br/>-4122|Copied source formats are pasted.<br/>-4123|Formulas are pasted.<br/>|
+| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following values:<br/>**4104** Everything will be pasted. This is the default value.<br/>**4122** Copied source formats are pasted.<br/>**4123** Formulas are pasted.<br/>|
 
 ## Example
 
