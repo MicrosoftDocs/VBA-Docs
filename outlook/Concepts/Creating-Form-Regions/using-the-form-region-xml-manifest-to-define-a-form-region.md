@@ -2,10 +2,9 @@
 title: Using the Form Region XML Manifest to Define a Form Region
 ms.prod: outlook
 ms.assetid: a1c150b1-a6ee-6f16-9798-82d253cbcc6a
-ms.date: 06/08/2019
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
-
 
 # Using the Form Region XML Manifest to Define a Form Region
 
@@ -16,8 +15,8 @@ For example, if you are designing a form region for items of the message class I
 You can specify the functionality, behavior, and other innate properties of a form region through elements in the form region XML schema. Some of the more commonly used elements are listed as follows. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 
 
-
 | **Schema Elements**| **Purpose**| **Further Information**|
+|:-----|:-----|:-----\
 | **name**, **title**, **formRegionName**|Identify a form region internally and in the user interface.| [How-to: Name a Form Region](name-a-form-region.md)|
 | **formRegionType**|Specify a form region to occupy part of a page or an entire page of a form.| [How to: Specify the Location of a Form Region in a Custom Form](specify-the-location-of-a-form-region-in-a-custom-form.md)|
 | **displayAfter**|Order multiple form regions in a custom form.| [How to: Specify the Location of a Form Region in a Custom Form](specify-the-location-of-a-form-region-in-a-custom-form.md)|
