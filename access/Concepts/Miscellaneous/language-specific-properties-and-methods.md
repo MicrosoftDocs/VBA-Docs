@@ -5,7 +5,7 @@ f1_keywords:
 - vbaac10.chm5280133
 ms.prod: access
 ms.assetid: 7c7cc1dc-7674-fd13-85bb-a24ee4b51775
-ms.date: 06/08/2019
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -18,15 +18,15 @@ Properties and methods that are available only in Asian or right-to-left languag
 
 |Property or method|Object|
 |:-----|:-----|
-|[AsianLineBreak](https://docs.microsoft.com/office/vba/api/Access.TextBox.AsianLineBreak)|TextBox|
-|[FuriganaControl](https://docs.microsoft.com/office/vba/api/Access.TextBox.FuriganaControl)|TextBox|
+|[AsianLineBreak](/office/vba/api/Access.TextBox.AsianLineBreak.md)|TextBox|
+|[FuriganaControl](/office/vba/api/Access.TextBox.FuriganaControl.md)|TextBox|
 |IMEHold|ComboBox, ListBox, TextBox|
 |IMEMode|ComboBox, Label, ListBox, TextBox|
 |IMESentenceMode|ComboBox, Label, ListBox, TextBox|
 |KeyboardLanguage|ComboBox, TextBox|
 |NumeralShapes|ComboBox, Label, ListBox, TextBox|
-|[Orientation](https://docs.microsoft.com/office/vba/api/Access.Form.Orientation)|Form|
-|[PostalAddress](https://docs.microsoft.com/office/vba/api/Access.TextBox.PostalAddress)|TextBox|
+|[Orientation](/office/vba/api/Access.Form.Orientation.md)|Form|
+|[PostalAddress](/office/vba/api/Access.TextBox.PostalAddress.md)|TextBox|
 |ReadingOrder|CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton|
 |ScrollBarAlign|ComboBox, ListBox, TextBox|
 
