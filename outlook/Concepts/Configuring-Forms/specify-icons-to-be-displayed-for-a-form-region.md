@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Specify icons to be displayed for a form fegion
+# Specify icons to be displayed for a form region
 
 When you define a form region for a custom message class, such as **IPM.Note.Customer**, you can specify custom icons to be displayed in the explorer, inspector, and the ribbon for items belonging to that message class. 
 
