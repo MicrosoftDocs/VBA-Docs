@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Chart.Paste
 ms.assetid: e159d28e-c2ff-9105-3b52-278fe55b078c
-ms.date: 06/08/2017
+ms.date: 06/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -16,31 +16,21 @@ ms.localizationpriority: medium
 
 Pastes chart data from the Clipboard into the chart.
 
-
 ## Syntax
 
 _expression_.**Paste** (_Type_)
 
 _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following values: 
-
-|-4104|Everything will be pasted. This is the default value.|
-|-4122|Copied source formats are pasted.|
-|-4123|Formulas are pasted.|
-|
+| _Type_|Optional| **Variant**|Specifies the chart information to paste if a chart is on the Clipboard. Can be one of the following values:<br/>-4104|Everything will be pasted. This is the default value.<br/>-4122|Copied source formats are pasted.<br/>-4123|Formulas are pasted.<br/>|
 
 ## Example
 
 The following example activates the Microsoft Excel workbook associated with the first chart in the active document. If the Excel workbook has multiple windows, the example activates the first window. The example then copies the contents of cells B1 through B5 and pastes the cell contents into the chart.
-
 
 ```vb
 With ActiveDocument.InlineShapes(1) 
@@ -54,9 +44,7 @@ End With
 
 ```
 
-
 ## See also
-
 
 [Chart Object](Word.Chart.md)
 
