@@ -38,9 +38,7 @@ To create and design a form region, you will use the Forms Designer in much the 
    >
    > However, there are other Microsoft Outlook controls (for example, the Microsoft Outlook Recipient Control and the Microsoft Outlook Sender Photo Control) that do not exist in the Toolbox by default. To use these Outlook controls for the first time, you will have to add them to the Toolbox, by right-clicking the bottom of the Toolbox and clicking **Custom Controls**.
 
-   The following screenshot shows the resultant layout of the form region we are going to create. Steps 9, 10, 11, and 12 involve inserting controls from the Toolbox, and binding user-defined fields to some of the controls.
-   
-   ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olCompletedFormRegion_ZA10107636.gif)
+   The following screenshot shows the resultant layout of the form region we are going to create. Steps 9, 10, 11, and 12 involve inserting controls from the Toolbox, and binding user-defined fields to some of the controls.<br/>![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](../../../images/olCompletedFormRegion_ZA10107636.gif)
 
 9. Add a label control for the title of the form region, **Contoso Airlines**.
     
@@ -54,9 +52,7 @@ To create and design a form region, you will use the Forms Designer in much the 
    4. Click **OK**.
    5. Use the mouse to pull on the right handle of the label control to adjust the width to accommodate the length of the caption.
     
-10. Add a label control and a text box control, and bind the Frequent Flyer Number field to the text box control.
-    
-   ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field selected to bind it to the text box control.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
+10. Add a label control and a text box control, and bind the Frequent Flyer Number field to the text box control.<br/>![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field selected to bind it to the text box control.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
    
    1. Pick and click another label control to add it from the Toolbox to the form region.
    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Frequent Flyer Number:** as the **Caption**. Click **OK**.
@@ -64,18 +60,13 @@ To create and design a form region, you will use the Forms Designer in much the 
    4. Pick and click the text box control to add it from the Toolbox to the form region.
    5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**. Then click **OK**.
 
-
-11. Add a check box control and bind the Vegetarian field to the check box control.
-   ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
+11. Add a check box control and bind the Vegetarian field to the check box control.<br/>![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
     
    1. Pick and click the check box control to add it from the Toolbox to the form region.
    2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**.     
-   3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in the following screenshot. Then click **OK**. 
-    
-   ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
+   3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in the following screenshot. Then click **OK**.<br/>![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
 
-12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.
-     ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
+12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.<br/>![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
     
    1. Pick and click the label control to add it from the Toolbox to the form region
    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Seat Preference:** as the **Caption**. Click **OK**.
