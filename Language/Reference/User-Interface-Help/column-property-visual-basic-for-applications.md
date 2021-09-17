@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Column property
+# Column property (Visual Basic for Applications)
 
 Read-only property that returns the column number of the current character position in a **TextStream** file.
 
