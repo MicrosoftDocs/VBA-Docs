@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WhatsThisHelp
 ms.assetid: f36a9ddc-c0d3-c2d7-8cf8-03b49bd00679
-ms.date: 12/19/2018
+ms.date: 09/19/2021
 ms.localizationpriority: medium
 ---
 
@@ -25,8 +25,6 @@ The settings for the **WhatsThisHelp** property are:
 |**True**|The application uses one of the What's This access techniques to start Windows Help and load a topic identified by the **WhatsThisHelpID** property.|
 |**False**|(Default) The application uses the F1 key to start Windows Help and load the topic identified by the **HelpContextID** property.|
 
-
-## Remarks
 
 There are two access techniques for providing What's This Help in an application. The **WhatsThisHelp** property must be set to **True** for any of these techniques to work.
 
