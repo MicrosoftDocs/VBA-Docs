@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Asc
 ms.assetid: c89ee3d9-1a3b-6a85-7e5e-b8c3049d63a0
-ms.date: 05/22/2019
+ms.date: 09/22/2021
 ms.localizationpriority: medium
 ---
 
@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 For double-byte character set (DBCS) languages, changes full-width (double-byte) characters to half-width (single-byte) characters.
 
-
 ## Syntax
 
 _expression_.**Asc** (_Arg1_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
-
 
 ## Parameters
 
@@ -36,6 +34,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-**WorksheetFunction.Asc()** is not equivalent to **[Asc()](../../language/reference/user-interface-help/asc-function.md)**, which converts a string to an integer.
+**WorksheetFunction.Asc()** is not equivalent to **[Asc()](/office/vba/Language/Reference/user-interface-help/asc-function.md)**, which converts a string to an integer.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
