@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WhatsThisButton
 ms.assetid: f9e24796-d4e0-1719-32b3-2119f20a6b5a
-ms.date: 12/19/2018
+ms.date: 09/19/2021
 ms.localizationpriority: medium
 ---
 
@@ -24,9 +24,6 @@ The settings for the **WhatsThisButton** property are:
 |:-----|:-----|
 |**True**|Turns on display of the **What's This Help** button.|
 |**False**|(Default) Turns off display of the **What's This Help** button.|
-
-
-## Remarks
 
 The **WhatsThisHelp** property must be **True** for the **WhatsThisButton** property to be **True**.
 
