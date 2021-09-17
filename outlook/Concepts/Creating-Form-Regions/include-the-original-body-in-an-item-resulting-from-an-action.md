@@ -30,6 +30,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 Note that the child **body** element of the **action** element can contain one of the folowing values:
 
 | **Value**| **Description**|
+|:-----|:-----|
 | **attach**|The current item is attached to the resulting item.|
 | **include**|The body of the current item is included as the body of the resulting item.|
 | **indent**|The body of the current item is included in the body of the resulting item and indented.|
