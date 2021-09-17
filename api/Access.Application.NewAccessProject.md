@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.NewAccessProject
 ms.assetid: e3b3b9ef-31f8-885c-5c92-d269b824fbdb
-ms.date: 02/05/2019
+ms.date: 09/15/2021
 ms.localizationpriority: medium
 ---
 
@@ -15,7 +15,6 @@ ms.localizationpriority: medium
 # Application.NewAccessProject method (Access)
 
 You can use the **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Access window.
-
 
 ## Syntax
 
@@ -29,7 +28,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|The name of the new Access project, including the path name and the file name extension.|
-| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO **[ConnectionString](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/connectionstring-property-ado)** property for details about this string.|
+| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO **[ConnectionString](/office/client-developer/access/desktop-database-reference/connectionstring-property-ado.md)** property for details about this string.|
 
 ## Return value
 
@@ -46,8 +45,5 @@ The new Access project is opened under the Admin user account.
 
 > [!NOTE] 
 > To open an Access database, use the **[NewCurrentDatabase](Access.Application.NewCurrentDatabase.md)** method of the **Application** object.
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
