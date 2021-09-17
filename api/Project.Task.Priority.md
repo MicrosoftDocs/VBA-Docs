@@ -4,7 +4,7 @@ ms.prod: project-server
 api_name:
 - Project.Task.Priority
 ms.assetid: 8680e903-a03e-cf83-70e7-fc856297dae2
-ms.date: 06/08/2017
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -13,26 +13,21 @@ ms.localizationpriority: medium
 
 Gets or sets the priority for the task. Read/write  **Variant**.
 
-
 ## Syntax
 
 _expression_.**Priority**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
-
 ## Remarks
 
 The **Priority** property can be a value from 0 to 1000. A value of 1000 has the effect that the task is not leveled in a leveling operation.Because **Priority** is a **Variant**, you can set the priority of task 2 to 900, for example, with the following code: `activeproject.Tasks(2).Priority = "Highest"`. The following table shows the string values and the corresponding integer values for the **Priority** property.
 
-
 > [!NOTE] 
 > Do not use the **[PjPriority](Project.PjPriority.md)** constants, which have values only from 0 to 9 for some previous versions of Project.
 
-
-|||
-|:-----|:-----|
 |**String**|**Priority value**|
+|:-----|:-----|
 |"Do not level"|1000|
 |"Highest|900|
 |"Very high"|800|
@@ -45,7 +40,6 @@ The **Priority** property can be a value from 0 to 1000. A value of 1000 has the
 |"Lowest"|100|
 
 Project uses the **Priority** property of the project summary task (task 0) to determine how to treat tasks when leveling resources across multiple projects. If two projects have equal priorities, the priority for individual tasks is used. You can set the project priority in the **Project Information** dialog box, or show the project summary task on the Gantt chart, select the task, and then use a statement such as `ActiveCell.Task.Priority = 700`.
-
 
 ## Example
 
