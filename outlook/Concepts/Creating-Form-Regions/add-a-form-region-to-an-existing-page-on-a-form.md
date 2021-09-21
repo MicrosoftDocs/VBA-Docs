@@ -2,7 +2,7 @@
 title: Add a Form Region to an Existing Page on a Form
 ms.prod: outlook
 ms.assetid: 3c988dac-f171-966d-cf9a-17139353d604
-ms.date: 09/08/2021
+ms.date: 09/21/2021
 ms.localizationpriority: medium
 ---
 
@@ -120,11 +120,8 @@ To create and design a form region, you will use the Forms Designer in much the 
    1. Pick and click the label control to add it from the Toolbox to the form region as shown in Figure 12.
    2. Right-click the label control, click **Properties**. On the **Display** tab, type **Seat Preference:** as the **Caption**. Click **OK**.
    3. Pick and click the combo box control to add it from the Toolbox to the form region as shown in Figure 12.
-   4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**, as in Figure 12. 
-    
-     **Figure 12. Bind the Seat Preference field to the combo box control.**
+   4. Right-click the combo box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Seat Preference**, as in the following figure
      ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](../../../images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
-
    5. To define values for the drop-down list, type **Aisle,Center,Window** as the **Possible Values**.
    6. Check **Set the initial value of this field to:**, and type **Aisle** in the next text box as the initial display value. Then click **OK**.
      
