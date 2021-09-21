@@ -2,7 +2,7 @@
 title: Specifying Form Regions in the Windows Registry
 ms.prod: outlook
 ms.assetid: 0de3fcb1-b357-8300-c943-9a5a788d4976
-ms.date: 06/08/2019
+ms.date: 06/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -22,27 +22,17 @@ There are a few ways to specify this information about the form region in the re
 
  The following steps show how to register a form region under the local machine:
 
-
-1. Close Outlook.
-    
-2. Add the following key to the registry if it does not already exist: **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**.
-    
-3. Under the **FormRegions** key, add a key with the name of the message class that the form region is associated with, if that key does not already exist. For example, to create a form region for the contact item, add a key with the name **IPM.Contact**, if it does not already exist.
-    
+1. Close Outlook.   
+2. Add the following key to the registry if it does not already exist: **HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions**.   
+3. Under the **FormRegions** key, add a key with the name of the message class that the form region is associated with, if that key does not already exist. For example, to create a form region for the contact item, add a key with the name **IPM.Contact**, if it does not already exist.   
 4. For that key, add a value of the type **REG_SZ**, and specify the name to be the same as the **name** element of the form region. This is the internal name for the form region; the internal name supports only ASCII characters. Specify the data as one of the following possible values:
-    
-      - Explicitly the XML that specifies the layout, behavior, and other characteristics for the form region, and that conforms to the form region XML schema. In this case, you must precede the data with a less than sign (**&lt;**).
-    
-  - The ProgID of an add-in that will provide Outlook the XML manifest for the form region. In this case, you must precede the data with an equal sign (**=**). For example, if the ProgID of an add-in is MyAddinProject1.ConnectClass, you would specify the data of the key to be **=MyAddinProject1.ConnectClass**.
-    
-  - The full local file path name to a form region XML manifest file that describes the layout, behavior, and other characteristics of the form region. If the data does not precede with a less than sign (**&lt;**) or an equal sign (**=**), then Outlook will assume the data is a path name to the form regions XML manifest file. For example, if your form region XML manifest file, map.xml, is at c:\Form Regions\, you would specify the data of the key to be **c:\Form Regions\map.xml**.
-    
-
-
+    - Explicitly the XML that specifies the layout, behavior, and other characteristics for the form region, and that conforms to the form region XML schema. In this case, you must precede the data with a less than sign (**&lt;**).
+    - The ProgID of an add-in that will provide Outlook the XML manifest for the form region. In this case, you must precede the data with an equal sign (**=**). For example, if the ProgID of an add-in is MyAddinProject1.ConnectClass, you would specify the data of the key to be **=MyAddinProject1.ConnectClass**.
+    - The full local file path name to a form region XML manifest file that describes the layout, behavior, and other characteristics of the form region. If the data does not precede with a less than sign (**&lt;**) or an equal sign (**=**), then Outlook will assume the data is a path name to the form regions XML manifest file. For example, if your form region XML manifest file, map.xml, is at c:\Form Regions\, you would specify the data of the key to be **c:\Form Regions\map.xml**.
 
 ## Specifying Form Regions as Replacements for Standard Forms
 
-Outlook allows you to customize the standard form for each of the Outlook message classes by adding adjoining form regions or separate form regions to the form. The following table shows the standard forms and corresponding message classes in Outlook. 
+Outlook allows you to customize the standard form for each of the Outlook message classes by adding adjoining form regions or separate form regions to the form. The following table shows the standard forms and corresponding message classes in Outlook.
 
 | **Standard Form**| **Message Class**|
 | :--- | :--- |
@@ -55,7 +45,7 @@ Outlook allows you to customize the standard form for each of the Outlook messag
 |Task| **IPM.Request**|
 |Task Request| **IPM.Task**|
 
- **Note** You cannot specify form regions for the root Outlook message class, **IPM**. 
+ **Note** You cannot specify form regions for the root Outlook message class, **IPM**.
 
 You can add separate form regions as extra pages to a standard form, but you cannot replace any existing pages on the standard form and keep the form for the same Outlook message class. If you need to replace the default page or all pages of a standard form, you will have to derive a new message class for that form, specify a replacement form region to replace the default page or a replace-all form region to replace the entire form, and register that form region for the derived message class.
 
@@ -77,7 +67,7 @@ The following is an example of the XML for a form region for a derived message c
 
 To register the form region, create the following value in the Windows registry:
 
-|     |     |
+|   **Registry value**  |  **Entry**   |
 | --- | --- |
 | **Key**|HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact.MapUser|
 | **Name**|MapTab|

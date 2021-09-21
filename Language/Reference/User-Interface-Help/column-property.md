@@ -7,12 +7,12 @@ ms.prod: office
 api_name:
 - Office.Column
 ms.assetid: 989f9e98-8764-ca23-c90d-a64966568f86
-ms.date: 11/15/2018
+ms.date: 09/15/2021
 ms.localizationpriority: medium
 ---
 
 
-# Column property
+# Column property (Microsoft Forms)
 
 Specifies one or more items in a **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.
 

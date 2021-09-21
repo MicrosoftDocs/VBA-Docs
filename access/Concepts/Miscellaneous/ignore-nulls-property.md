@@ -22,6 +22,7 @@ You can use the IgnoreNulls property to specify that records with Null values in
 |:-----|:-----|:-----|
 |Yes|**True**|Records that contain Null values in the indexed fields aren't included in the index.|
 |No|**False**|(Default) Records that contain Null values in the indexed fields are included in the index.|
+
 You can set this property by using the Indexes window of table Design view or Visual Basic.
 
 To access the **Ignore Nulls** property of an index by using Visual Basic, use the DAO **IgnoreNulls** property.

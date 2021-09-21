@@ -39,10 +39,8 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 The **PjTeamPlannerStyle** constants are equivalent to the five styles shown in the **Format** tab of the **Team Planner Tools** in the ribbon, as follows:
 
-
-|||
-|:-----|:-----|
 |**Constant**|**Style**|
+|:-----|:-----|
 |**pjTPActualWork**|**Actual Work**|
 |**pjTPLateTask**|**Late Task**|
 |**pjTPManualTask**|**Manually Scheduled**|
@@ -52,7 +50,6 @@ The **PjTeamPlannerStyle** constants are equivalent to the five styles shown in 
 ## Example
 
 The following line of code resets the border color and fill color of auto-scheduled assignments in the Team Planner to their default values.
-
 
 ```vb
 ResetTPStyle Style:=pjTPScheduledWork

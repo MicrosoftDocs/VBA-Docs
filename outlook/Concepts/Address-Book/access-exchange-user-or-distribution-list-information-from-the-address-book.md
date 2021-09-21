@@ -2,7 +2,7 @@
 title: Access Exchange User or Distribution List Information from the Address Book
 ms.prod: outlook
 ms.assetid: 077a8666-09c5-e641-0b9b-7d83133d931f
-ms.date: 06/08/2019
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -19,20 +19,15 @@ The **ExchangeUser** object supports properties like **[OfficeLocation](../../..
 
 The **ExchangeUser** object also supports methods like **[GetDirectReports](../../../api/Outlook.ExchangeUser.GetDirectReports.md)**, **[GetExchangeUserManager](../../../api/Outlook.ExchangeUser.GetExchangeUserManager.md)**, and **[GetMemberOfList](../../../api/Outlook.ExchangeUser.GetMemberOfList.md)** to facilitate accessing information specific to this Exchange user, such as full **AddressEntry** information for the associated direct reports, manager, and distribution lists.
 
-
 ## Security
 
 Certain properties like **OfficeLocation** and **JobTitle** are read-write and can only be updated (using **[ExchangeUser.Update](../../../api/Outlook.ExchangeUser.Update.md)**) by code that is running under an appropriate Exchange administrator account.
-
 
 ## Exchange Distribution List
 
  The **ExchangeDistributionList** object supports properties like **Alias**, **[Comments](../../../api/Outlook.ExchangeDistributionList.Comments.md)**, and **[PrimarySmtpAddress](../../../api/Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)** that the parent **AddressEntry** object does not support. Other properties of the Exchange distribution list that are not exposed in the object model are accessible through **[ExchangeDistributionList.PropertyAccessor](../../../api/Outlook.ExchangeDistributionList.PropertyAccessor.md)**.
 
 The **ExchangeDistributionList** object also supports methods like **[GetExchangeDistributionListMembers](../../../api/Outlook.ExchangeDistributionList.GetExchangeDistributionListMembers.md)**, **[GetMemberOfList](../../../api/Outlook.ExchangeDistributionList.GetMemberOfList.md)** and **[GetOwners](../../../api/Outlook.ExchangeDistributionList.GetOwners.md)** to facilitate accessing information specific to a distribution list, such as full **AddressEntry** information for the associated members in this distribution list, other distribution lists that this list is a member of, and owners of this list.
-
-
-## Security
 
 Certain properties like **Comments** are read-write and can only be updated (using **[ExchangeDistributionList.Update](../../../api/Outlook.ExchangeDistributionList.Update.md)**) by code that is running under an appropriate Exchange administrator account.
 

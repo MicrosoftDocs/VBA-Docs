@@ -2,10 +2,9 @@
 title: Specify Locale-Specific User Interface for a Form Region
 ms.prod: outlook
 ms.assetid: 74cf8452-5e75-c939-2bf8-91607241bb76
-ms.date: 06/08/2019
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
-
 
 # Specify Locale-Specific User Interface for a Form Region
 
@@ -18,6 +17,7 @@ Under the **stringOverride** element, you can specify the localization informati
 The following table shows the pieces of user interface in a form region that you can localize. If you choose to specify the localization information inline, you can use the corresponding XML child elements under the **stringOverride** element.
 
 | **Localizeable User Interface**| **XML Child Elements**|
+|:-----|:-----|
 |Display name of the form region| **title**|
 |Form region identifier| **formRegionName**|
 |Description of the form region| **description**|

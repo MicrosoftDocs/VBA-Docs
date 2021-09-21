@@ -7,7 +7,7 @@ ms.prod: project-server
 api_name:
 - Project.Application.ViewApplyEx
 ms.assetid: 437ec3b5-d42d-ed79-e8c7-220f797023b5
-ms.date: 06/08/2017
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -33,19 +33,16 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 | _ApplyTo_|Optional|**Integer**|Specifies where the view is applied. The value can be one of the [ApplyTo values](#applyto-values).|
 | _BuiltInView_|Optional|**PjViewType**|Specifies a built-in view. Can be one of the **[PjViewType](Project.pjviewtype.md)** constants. The default is **pjViewUndefined**. _BuiltInView_ is ignored if _Name_ is specified.|
 
-<br/>
 
 ### ApplyTo values
 
-|||
-|:-----|:-----|
 |Value|Description|
+|:-----|:-----|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|
 |5|Primary pane, or the Timeline if it is active|
 
-<br/>
 
 ## Return value
 

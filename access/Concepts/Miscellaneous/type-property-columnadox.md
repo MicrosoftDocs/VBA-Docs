@@ -3,7 +3,7 @@ title: Type property (Column) (ADOX)
 ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 3e222e89-f57e-28f9-8488-81828f882643
-ms.date: 06/08/2017
+ms.date: 09/08/2021
 ms.localizationpriority: medium
 ---
 
@@ -16,12 +16,11 @@ Indicates the data type of a column.
 
 ## Settings and return values
 
-Sets or returns a **Long** value that can be one of the **[DataTypeEnum](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/datatypeenum)** constants. The default value is **adVarWChar**.
-
+Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office/client-developer/access/desktop-database-reference/datatypeenum.md)** constants. The default value is **adVarWChar**.
 
 ## Remarks
 
-This property is read/write until the **[Column](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/column-object-adox)** object is appended to a collection or to another object, after which it is read-only.
+This property is read/write until the **[Column](/office/client-developer/access/desktop-database-reference/column-object-adox.md)** object is appended to a collection or to another object, after which it is read-only.
 
 ## See also
 

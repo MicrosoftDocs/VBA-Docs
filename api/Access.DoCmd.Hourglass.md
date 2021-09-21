@@ -7,10 +7,9 @@ ms.prod: access
 api_name:
 - Access.DoCmd.Hourglass
 ms.assetid: e032e879-6ce4-982d-08cb-f9622c000b11
-ms.date: 03/07/2019
+ms.date: 09/07/2021
 ms.localizationpriority: medium
 ---
-
 
 # DoCmd.Hourglass method (Access)
 
@@ -22,7 +21,6 @@ The **Hourglass** method carries out the Hourglass action in Visual Basic.
 _expression_.**Hourglass** (_HourglassOn_)
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
-
 
 ## Parameters
 
@@ -38,8 +36,6 @@ You often use this method if you've turned echo off by using the **Echo** method
 
 Access automatically resets the _HourglassOn_ argument to **False** when the procedure finishes running.
 
-To determine the current state of the hourglass, you can check the value of [Screen.MousePointer](https://docs.microsoft.com/office/vba/api/access.screen.mousepointer). If `Screen.MousePointer = 11`, the hourglass is currently being displayed.
-
-
+To determine the current state of the hourglass, you can check the value of [Screen.MousePointer](/office/vba/api/access.screen.mousepointer.md). If `Screen.MousePointer = 11`, the hourglass is currently being displayed.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
