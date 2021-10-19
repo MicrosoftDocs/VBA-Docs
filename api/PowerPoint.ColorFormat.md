@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat object (PowerPoint)
 
-Represents the color of a one-color object, the foreground or background color of an object with a gradient or patterned fill, or the pointer color. You can set colors to an explicit red-green-blue value (by using the [RGB](PowerPoint.ColorFormat.RGB.md) property) or to a color in the color scheme (by using the [SchemeColor](PowerPoint.ColorFormat.SchemeColor.md) property).
+Represents the color of a one-color object, the foreground or background color of an object with a gradient or patterned fill, or the pointer color. You can set colors to an explicit red-green-blue value (by using the [RGB](PowerPoint.ColorFormat.RGB.md) property) or to a color in the theme (by using the [ObjectThemeColor]) or the legacy pre-Office 2007 color scheme (by using the [SchemeColor](PowerPoint.ColorFormat.SchemeColor.md) property).
 
 
 ## Remarks
