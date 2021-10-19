@@ -26,23 +26,23 @@ _expression_ A variable that represents a [ColorFormat](PowerPoint.ColorFormat.m
 
 ## Return value
 
-MsoThemeColorSchemeIndex
+Long
 
 
 ## Example
 
-This example sets the background color for color scheme three in the active presentation and then applies the color scheme to all slides in the presentation that are based on the slide master.
+This example sets the background color for the first shape on the first slide of the active presentation to red and Accent 1 to green in the theme for the first slide master.
 
 
 ```vb
 With ActivePresentation
+    Dim oCF As ColorFormat
+    
+    Set oCF = .Slides(1).Shapes(1).Fill.ForeColor
+    
+    oCF.RGB = RGB(255, 0, 0)
 
-    Set cs1 = .ColorSchemes(3)
-
-    cs1.Colors(ppBackground).RGB = RGB(128, 128, 0)
-
-    .SlideMaster.ColorScheme = cs1
-
+    .Designs(1).SlideMaster.Theme.ThemeColorScheme(msoThemeAccent1).RGB = RGB(0, 255, 0)
 End With
 ```
 
