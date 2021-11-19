@@ -17,7 +17,7 @@ Returns a **Variant** (**Date**) containing the current system date.
 ## Syntax
 
 **Date**
-
+h
 ## Remarks
 
 To set the system date, use the **Date** statement.
