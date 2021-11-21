@@ -72,7 +72,7 @@ Case 1 To 5    ' Number between 1 and 5, inclusive.
 Case 6, 7, 8    ' Number between 6 and 8. 
     Debug.Print "Between 6 and 8" 
 Case 9 To 10    ' Number is 9 or 10. 
-Debug.Print "Greater than 8" 
+    Debug.Print "Greater than 8" 
 Case Else    ' Other values. 
     Debug.Print "Not between 1 and 10" 
 End Select
