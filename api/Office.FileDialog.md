@@ -19,7 +19,7 @@ Provides file dialog box functionality similar to the functionality of the stand
 
 ## Remarks
 
-Use the **FileDialog** property to return a **FileDialog** object. The **FileDialog** property is located in each individual Office application's **Application** object. The property takes a single argument, _DialogType_, that determines the type of **FileDialog** object that the property returns. There are four types of **FileDialog** object:
+Use the **FileDialog** property to return a **FileDialog** object. The **FileDialog** property is located in each individual Office application's **Application** object. The property takes a single argument, [FileDialogType](https://docs.microsoft.com/en-us/office/vba/api/office.msofiledialogtype), that determines the type of **FileDialog** object that the property returns. There are four types of **FileDialog** object:
 
 - **Open** dialog box: lets users select one or more files that you can then open in the host application by using the **Execute** method.
     
