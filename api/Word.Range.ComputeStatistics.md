@@ -36,6 +36,19 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
+The Statistic returned for **[Table](Word.Table.md)**.**[Cell](Word.Table.Cell.md)** Range will be inaccurate. The end-of-cell marker interferes with the Statistic. Truncating the Range to remove the end-of-cell-marker will result in the correct Statistic value.
+
+```vb
+Set cell = Documents("Report.doc").Tables(1).Cell(1, 1)
+Set myRange = cell.Range
+
+lineCount = myRange.ComputeStatistics(Statistic:=wdStatisticLines) 'Returns 0
+rng.MoveEnd wdCharacter, -1 'Truncate the range to remove end-of-cell marker
+lineCount = myRange.ComputeStatistics(Statistic:=wdStatisticLines) 'Return accurate line count
+
+MsgBox "The first paragraph contains " & wordCount _ 
+ & " words and a total of " & charCount & " characters."
+```
 
 ## Example
 
