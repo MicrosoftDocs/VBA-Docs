@@ -36,6 +36,17 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
+The Statistic returned for Table.Cell Range will be inaccurate due to the end-of-cell marker interfering with the Statistic. Truncating the Range to remove the end-of-cell-marker will result in the correct Statistic value.
+
+```vb
+Set cell = Documents("Report.doc").Tables(1).Cell(1, 1)
+Set myRange = cell.Range
+lineCount = myRange.ComputeStatistics(Statistic:=wdStatisticLines) 'Returns 0
+rng.MoveEnd wdCharacter, -1 
+lineCount = myRange.ComputeStatistics(Statistic:=wdStatisticLines)
+MsgBox "The first cell contains " & lineCount _ 
+ & " lines."
+```
 
 ## Example
 
