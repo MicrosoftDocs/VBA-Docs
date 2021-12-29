@@ -17,9 +17,22 @@ Deletes this query and its underlying connection and removes it from the **Queri
 
 ## Syntax
 
-_expression_.**Delete**
+_expression_.**Delete**(_DeleteConnection_)
 
 _expression_ A variable that represents a **[WorkbookQuery](Excel.WorkbookQuery.md)** object.
+
+
+## Parameters
+
+|Name|Required/Optional|Data type|Description|
+|:-----|:-----|:-----|:-----|
+| _DeleteConnection_|Optional| **Variant**| **True** To delete the both the query and its underlying connection . The default is **False**.|
+
+
+## Return value
+
+**Nothing**
+
 
 
 
