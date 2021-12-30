@@ -4,7 +4,7 @@ keywords: vbaxl10.chm974077
 f1_keywords:
 - vbaxl10.chm974077
 ms.assetid: 05f42f34-1814-870f-081a-c0538b438aec
-ms.date: 05/18/2019
+ms.date: 12/29/2021
 ms.prod: excel
 ms.localizationpriority: medium
 ---
@@ -34,7 +34,8 @@ _expression_ A variable that represents a **[WorkbookQuery](Excel.WorkbookQuery.
 **Nothing**
 
 
+## Remarks
 
-
+By default, the underlying connection is not deleted. To delete both the query and the underlying connection, add the parameter (TRUE).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

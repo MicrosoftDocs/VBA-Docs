@@ -16,8 +16,9 @@ Determines whether the value of an expression is equal to any of several values 
 
 ## Syntax
 
-_expr_ [ **Not** ] **In**( _value1, value2, …_ )
+_expr_ [ **Not** ] **In** ( _value1, value2, …_ )
 
+_expr_ [ **Not** ] **In** ( _[SELECT](https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/select-statement-microsoft-access-sql?redirectedfrom=MSDN) …_ )
 
 ## Remarks
 
@@ -38,6 +39,12 @@ FROM Orders
 WHERE ShipRegion In ('Avon','Glos','Som')
 ```
 
+You can also use **In** to reference a table or query that exists in an external database file:
+
+```sql
+SELECT qryValues 
+FROM qryValues In 'c:\files\MyDB.accdb'
+```
 
 ## Example
 
