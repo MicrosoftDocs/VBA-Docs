@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoThemeColorSchemeIndex
 ms.assetid: a5382465-5552-c131-fad4-d6851f9c0f3e
-ms.date: 01/31/2019
+ms.date: 12/28/2021
 ms.localizationpriority: medium
 ---
 
@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 # MsoThemeColorSchemeIndex enumeration (Office)
 
 Indicates the color scheme for an Office theme.
-
-<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -30,13 +28,13 @@ Indicates the color scheme for an Office theme.
 |**msoThemeLight1**|2|Specifies color scheme Light 1.|
 |**msoThemeLight2**|4|Specifies color scheme Light 2.|
 
-# Remarks
+## Remarks
 
-An Office Theme.ThemeColorShceme comprises two light colors, two dark colors, six accent colors and two colors for hyperlinked text. Use this enumeration to set or return the colors for the specified theme. When theme colors are assigned to the ColorFormat object for a shape, they are mapped via the [MsoThemeColorIndex enumeration](https://docs.microsoft.com/en-us/office/vba/api/office.msothemecolorindex). For PowerPoint this mapping takes into account whether the object is present on a light or dark background style for the slide. There are twelve background styles, six light and six dark. For a light background style, an object set to use msoThemeColorBackground1 will be assigned to the Dark 1 color from the theme. For the same object on one of the dark background styles, the Light 1 color is used for the same msoThemeColorBackground1 assignment.
+An Office Theme.ThemeColorShceme comprises two light colors, two dark colors, six accent colors and two colors for hyperlinked text. Use this enumeration to set or return the colors for the specified theme. When theme colors are assigned to the ColorFormat object for a shape, they are mapped via the [MsoThemeColorIndex enumeration](/office/vba/api/office.msothemecolorindex.MD). For PowerPoint this mapping takes into account whether the object is present on a light or dark background style for the slide. There are twelve background styles, six light and six dark. For a light background style, an object set to use msoThemeColorBackground1 will be assigned to the Dark 1 color from the theme. For the same object on one of the dark background styles, the Light 1 color is used for the same msoThemeColorBackground1 assignment.
 
 When programmatically assigning a theme color to an object, the MsoThemeColorIndex enumeration should be used, specifically values 13 to 16 for the first four colors of the theme. If values 1 to 4 are used then the Office colour picker UI will not correctly highlight the theme color.
 
-# Example
+## Example
 
 The following example outputs the Hex color values in BGR format for the twelve colors in the theme for the first slide master in the active presentation, in the order in which they appear in the Office theme editor UI.
 
