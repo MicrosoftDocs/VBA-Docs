@@ -18,10 +18,13 @@ Deletes this query and its underlying connection and removes it from the **Queri
 ## Syntax
 
 _expression_.**Delete**
+_expression_.**Delete(TRUE)**
 
 _expression_ A variable that represents a **[WorkbookQuery](Excel.WorkbookQuery.md)** object.
 
 
+## Remarks
 
+By default, the underlying connection is not deleted. To delete both the query and the underlying connection, add the parameter (TRUE).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
