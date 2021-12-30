@@ -17,7 +17,6 @@ An object that represents a query that was created by Power Query. Introduced in
 ## Methods
 
 - [Delete](Excel.workbookquery.delete.md)
-- [Refresh](Excel.workbookquery.refresh.md)
 
 ## Properties
 
