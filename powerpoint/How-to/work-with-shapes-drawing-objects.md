@@ -71,7 +71,15 @@ The preceding guidelines also apply when you are setting properties of shapes th
 
 ## Looping through a Shapes or ShapeRange collection
 
-Even if you cannot perform an operation on several shapes in the user interface at the same time by selecting them and then using a command, you can perform the equivalent action programmatically by looping through the **Shapes** collection or through a **ShapeRange** collection that contains the shapes you want to work with, and applying the appropriate properties and methods to the individual **Shape** objects in the collection. The following example loops through all the shapes on `myDocument` and adds text to each shape that is an AutoShape. and adds text to each shape that is an AutoShape. `Set myDocument = ActivePresentation.Slides(1) For Each sh In myDocument.Shapes If sh.Type = msoAutoShape Then sh.TextFrame.TextRange.InsertAfter " (version 1)" End If Next`
+Even if you cannot perform an operation on several shapes in the user interface at the same time by selecting them and then using a command, you can perform the equivalent action programmatically by looping through the **Shapes** collection or through a **ShapeRange** collection that contains the shapes you want to work with, and applying the appropriate properties and methods to the individual **Shape** objects in the collection. The following example loops through all the shapes on `myDocument` and adds text to each shape that is an AutoShape. and adds text to each shape that is an AutoShape. 
+```vb
+Set myDocument = ActivePresentation.Slides(1) 
+For Each sh In myDocument.Shapes 
+    If sh.Type = msoAutoShape Then 
+        sh.TextFrame.TextRange.InsertAfter " (version 1)" 
+    End If 
+Next
+```
 
 The following example constructs **ShapeRange** collection that contains all the currently selected shapes in the active window and sets the text in each shape in the collection that can contain text.
 
