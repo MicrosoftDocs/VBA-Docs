@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat.SchemeColor property (PowerPoint)
 
-Returns or sets the color in the applied color scheme that's associated with the specified object. Read/write.
+Returns or sets the color in the applied legacy color scheme that's associated with the specified object. Provided for backwards compatibility. Use the [ObjectThemeColor] instead for Office 2007 and later. Read/write.
 
 
 ## Syntax
