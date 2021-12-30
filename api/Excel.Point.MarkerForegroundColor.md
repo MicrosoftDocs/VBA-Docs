@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Point.MarkerForegroundColor property (Excel)
 
-Sets the marker foreground color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write **Long**.
+Sets the marker foreground color as an RGB value or returns the corresponding color index value. The foreground color is displayed as the Border color in the application. Applies only to line, scatter, and radar charts. Read/write **Long**.
 
 
 ## Syntax
@@ -26,12 +26,21 @@ _expression_ A variable that represents a **[Point](Excel.Point(object).md)** ob
 
 ## Example
 
-This example sets the marker background and foreground colors for the second point in series one on Chart1.
+This example sets the marker background (fill) and foreground (border) colors for the first point in series one on Chart1.
+
+```vb
+With Charts("Chart1").SeriesCollection(1).Points(1) 
+ .MarkerBackgroundColor = RGB(0,255,0) ' green fill
+ .MarkerForegroundColor = RGB(255,0,0) ' red border
+End With
+```
+
+This example sets the marker colors to automatic for the second point in series one on Chart1.
 
 ```vb
 With Charts("Chart1").SeriesCollection(1).Points(2) 
- .MarkerBackgroundColor = RGB(0,255,0) ' green 
- .MarkerForegroundColor = RGB(255,0,0) ' red 
+ .MarkerBackgroundColor = -1 ' automatic fill
+ .MarkerForegroundColor = -1 ' automatic border
 End With
 ```
 
