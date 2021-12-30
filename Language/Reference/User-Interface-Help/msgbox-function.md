@@ -26,7 +26,7 @@ The **MsgBox** function syntax has these [named arguments](../../Glossary/vbe-gl
 |Part|Description|
 |:-----|:-----|
 |_prompt_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) displayed as the message in the dialog box. The maximum length of _prompt_ is approximately 1024 characters, depending on the width of the characters used. If _prompt_ consists of more than one line, you can separate the lines by using a carriage return character (**Chr**(13)), a linefeed character (**Chr**(10)), or carriage return - linefeed character combination (**Chr**(13) & **Chr**(10)) between each line.|
-|_buttons_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for _buttons_ is 0.|
+|_buttons_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the combination of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for _buttons_ is 0.|
 |_title_|Optional. String expression displayed in the title bar of the dialog box. If you omit _title_, the application name is placed in the title bar.|
 |_helpfile_|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If _helpfile_ is provided, _context_ must also be provided.|
 |_context_|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If _context_ is provided, _helpfile_ must also be provided.|
@@ -60,7 +60,7 @@ The _buttons_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 <br/>
 
-The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the _buttons_ argument, use only one number from each group.
+The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When combining numbers to create a final value for the _buttons_ argument, use only one number from each group.
 
 > [!NOTE] 
 > These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
@@ -95,7 +95,7 @@ This example uses the **MsgBox** function to display a critical-error message in
 ```vb
 Dim Msg, Style, Title, Help, Ctxt, Response, MyString
 Msg = "Do you want to continue ?"    ' Define message.
-Style = vbYesNo + vbCritical + vbDefaultButton2    ' Define buttons.
+Style = vbYesNo Or vbCritical Or vbDefaultButton2    ' Define buttons.
 Title = "MsgBox Demonstration"    ' Define title.
 Help = "DEMO.HLP"    ' Define Help file.
 Ctxt = 1000    ' Define topic context. 
