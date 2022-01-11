@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # GroupShapes object (PowerPoint)
 
-Represents the individual shapes within a grouped shape. Each shape is represented by a **[Shape](PowerPoint.Shape.md)** object. Using the [Item](PowerPoint.GroupShapes.Item.md)method with this object, you can work with single shapes within a group without having to ungroup them.
+Represents the individual shapes within a grouped shape. Each shape is represented by a **[Shape](PowerPoint.Shape.md)** object. Using the [Item](PowerPoint.GroupShapes.Item.md) method with this object, you can work with single shapes within a group without having to ungroup them.
 
 
 ## Example
 
-Use the [GroupItems](PowerPoint.Shape.GroupItems.md)property to return the  **GroupShapes** collection. Use **GroupItems** (_index_), where _index_ is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
+Use the [GroupItems](PowerPoint.Shape.GroupItems.md) property to return the  **GroupShapes** collection. Use **GroupItems** (_index_), where _index_ is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to _myDocument_, groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb
