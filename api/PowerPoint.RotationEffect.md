@@ -19,7 +19,7 @@ Represents a rotation effect for an **[AnimationBehavior](PowerPoint.AnimationBe
 
 ## Example
 
-Use the [RotationEffect](PowerPoint.AnimationBehavior.RotationEffect.md) property of the  **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
+Use the [RotationEffect](PowerPoint.AnimationBehavior.RotationEffect.md) property of the **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
 
 
 ```vb
