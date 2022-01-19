@@ -19,14 +19,14 @@ Represents a rotation effect for an **[AnimationBehavior](PowerPoint.AnimationBe
 
 ## Example
 
-Use the [RotationEffect](PowerPoint.AnimationBehavior.RotationEffect.md)property of the  **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
+Use the [RotationEffect](PowerPoint.AnimationBehavior.RotationEffect.md) property of the **AnimationBehavior** object to return a **RotationEffect** object. The following example refers to the rotation effect for a given animation behavior.
 
 
 ```vb
 ActivePresentation.Slides(1).TimeLine.MainSequence.Item.Behaviors(1).RotationEffect
 ```
 
-Use the [By](PowerPoint.RotationEffect.By.md), [From](PowerPoint.RotationEffect.From.md), and [To](PowerPoint.RotationEffect.To.md)properties of the  **RotationEffect** object to affect an object's animation rotation. The following example adds a new shape to the first slide and sets the rotation animation behavior.
+Use the [By](PowerPoint.RotationEffect.By.md), [From](PowerPoint.RotationEffect.From.md), and [To](PowerPoint.RotationEffect.To.md) properties of the **RotationEffect** object to affect an object's animation rotation. The following example adds a new shape to the first slide and sets the rotation animation behavior.
 
 
 
