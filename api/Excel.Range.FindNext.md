@@ -28,7 +28,8 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _After_|Optional| **Variant**|The cell after which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Be aware that _After_ must be a single cell in the range.<br/><br/> Remember that the search begins after this cell; the specified cell is not searched until the method wraps back around to this cell. If this argument is not specified, the search starts after the cell in the upper-left corner of the range.|
+| _After_|Optional| **Variant**|The cell after which you want to search. This corresponds to the position of the active cell when a search is done from the user interface. Be aware that _After_ must be a single cell in the range.
+ Remember that the search begins after this cell; the specified cell is not searched until the method wraps back around to this cell. If this argument is not specified, the search starts after the cell in the upper-left corner of the range.|
 
 ## Return value
 
@@ -42,7 +43,7 @@ When the search reaches the end of the specified search range, it wraps around t
 
 ## Example
 
-This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes the entire cell value to 5.  That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
+This example finds all cells in the range A1:A500 on worksheet one that contain the value 2, and changes the entire cell value to 5. That is, the values 1234 and 99299 both contain 2 and both cell values will become 5.
 
 ```vb
 Sub FindValue()
@@ -63,8 +64,6 @@ Sub FindValue()
     
 End Sub
 ```
-
-<br/>
 
 This example finds all the cells in the first four columns that contain a constant X, and hides the column that contains the X.
 

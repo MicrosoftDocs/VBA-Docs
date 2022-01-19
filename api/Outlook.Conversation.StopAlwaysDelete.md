@@ -47,7 +47,7 @@ Calling this method on a conversation that is already in the Deleted Items folde
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to stop the always-delete action for the conversation of a specific mail item. The code example,  `DemoStopAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item.  `DemoStopAlwaysDelete` verifies that conversations are enabled on the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to stop the always-delete action for that conversation on that store.
+The following Visual Basic for Applications (VBA) example shows how to stop the always-delete action for the conversation of a specific mail item. The code example, `DemoStopAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item. `DemoStopAlwaysDelete` verifies that conversations are enabled on the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to stop the always-delete action for that conversation on that store.
 
 
 ```vb

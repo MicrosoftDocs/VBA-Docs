@@ -76,7 +76,7 @@ The following illustration shows the order in which the additional regression st
 > ![Formula](../images/awflnst3_ZA06051201.gif)
 
 
-You can describe any straight line with the slope and the y-intercept: `Slope (m)`.  To find the slope of a line, often written as m, take two points on the line, (x1,y1) and (x2,y2); the slope is equal to (y2 - y1)/(x2 - x1). Y-intercept (b): The y-intercept of a line, often written as b, is the value of y at the point where the line crosses the y-axis. The equation of a straight line is y = mx + b. After you know the values of m and b, you can calculate any point on the line by plugging the y- or x-value into that equation. You can also use the TREND function.
+You can describe any straight line with the slope and the y-intercept: `Slope (m)`. To find the slope of a line, often written as m, take two points on the line, (x1,y1) and (x2,y2); the slope is equal to (y2 - y1)/(x2 - x1). Y-intercept (b): The y-intercept of a line, often written as b, is the value of y at the point where the line crosses the y-axis. The equation of a straight line is y = mx + b. After you know the values of m and b, you can calculate any point on the line by plugging the y- or x-value into that equation. You can also use the TREND function.
     
 When you have only one independent x-variable, you can obtain the slope and y-intercept values directly by using the following formulas: 
 
@@ -96,19 +96,19 @@ In **regression analysis**, Microsoft Excel calculates for each point the square
 In some cases, one or more of the X columns (assume that Y's and X's are in columns) may have no additional predictive value in the presence of the other X columns. In other words, eliminating one or more X columns might lead to predicted Y values that are equally accurate. In that case, these redundant X columns should be omitted from the regression model. This phenomenon is called _collinearity_ because any redundant X column can be expressed as a sum of multiples of the non-redundant X columns. **LinEst** checks for collinearity and removes any redundant X columns from the regression model when it identifies them. Removed X columns can be recognized in **LinEst** output as having 0 coefficients as well as 0 se's. 
 
 - If one or more columns are removed as redundant, df is affected because df depends on the number of X columns actually used for predictive purposes. If df is changed because redundant X columns are removed, values of sey and F are also affected. 
-- Collinearity should be relatively rare in practice. However, one case where it is more likely to arise is when some X columns contain only 0's and 1's as indicators of whether a subject in an experiment is or is not a member of a particular group. If const = TRUE or omitted, **LinEst** effectively inserts an additional X column of all 1's to model the intercept. If you have a column with a 1 for each subject if male, or 0 if not, and you also have a column with a 1 for each subject if female, or 0 if not, this latter column is redundant because entries in it can be obtained from subtracting the entry in the _male indicator_ column from the entry in the additional column of all 1's added by **LinEst**.  
+- Collinearity should be relatively rare in practice. However, one case where it is more likely to arise is when some X columns contain only 0's and 1's as indicators of whether a subject in an experiment is or is not a member of a particular group. If const = TRUE or omitted, **LinEst** effectively inserts an additional X column of all 1's to model the intercept. If you have a column with a 1 for each subject if male, or 0 if not, and you also have a column with a 1 for each subject if female, or 0 if not, this latter column is redundant because entries in it can be obtained from subtracting the entry in the _male indicator_ column from the entry in the additional column of all 1's added by **LinEst**. 
 - df is calculated as follows when no X columns are removed from the model due to collinearity: if there are k columns of known_x's and const = TRUE or omitted, `df = n - k - 1`. If const = FALSE, `df = n - k`. In both cases, each X column removed due to collinearity increases df by 1.
     
 Formulas that return arrays must be entered as array formulas.
     
-- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in **Regional and Language Options** in **Control Panel**.   
+- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in **Regional and Language Options** in **Control Panel**.
 - Note that the y-values predicted by the regression equation may not be valid if they are outside the range of the y-values you used to determine the equation.
     
-The underlying algorithm used in the **LinEst** function is different than the underlying algorithm used in the **Slope** and **Intercept** functions. The difference between these algorithms can lead to different results when data is undetermined and collinear. For example, if the data points of the known_y's argument are 0 and the data points of the known_x's argument are 1: 
+The underlying algorithm used in the **LinEst** function is different than the underlying algorithm used in the **Slope** and **Intercept** functions. The difference between these algorithms can lead to different results when data is undetermined and collinear. For example, if the data points of the known_y's argument are 0 and the data points of the known_x's argument are 1:
     
 - **LinEst** returns a value of 0. The **LinEst** algorithm is designed to return reasonable results for collinear data, and in this case at least one answer can be found.
 - **Slope** and **Intercept** return a #DIV/0! error. The **Slope** and **Intercept** algorithm is designed to look for one and only one answer, and in this case there can be more than one answer.
-    
+ 
 
 
 

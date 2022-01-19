@@ -52,7 +52,7 @@ The **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to set the folder to which existing conversation items and new items that arrive in the conversation of a specific mail item are always moved. The code example,  `DemoSetAlwaysMoveToFolder`, chooses the first mail item displayed in the Reading Pane as the specific mail item, and the folder named "1-Reference" under the Inbox folder as the folder to move the conversation items to.  `DemoSetAlwaysMoveToFolder` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysMoveToFolder** to always move all existing conversation items and new items that arrive in the conversation to the specified folder.
+The following Visual Basic for Applications (VBA) example shows how to set the folder to which existing conversation items and new items that arrive in the conversation of a specific mail item are always moved. The code example,  `DemoSetAlwaysMoveToFolder`, chooses the first mail item displayed in the Reading Pane as the specific mail item, and the folder named "1-Reference" under the Inbox folder as the folder to move the conversation items to. `DemoSetAlwaysMoveToFolder` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysMoveToFolder** to always move all existing conversation items and new items that arrive in the conversation to the specified folder.
 
 
 ```vb

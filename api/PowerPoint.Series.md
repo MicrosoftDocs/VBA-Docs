@@ -32,7 +32,7 @@ Represents a series in a chart.
 
 Use **[SeriesCollection](PowerPoint.Chart.SeriesCollection.md)** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
 
-The series index number indicates the order in which the series were added to the chart.  `SeriesCollection(1)` is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
+The series index number indicates the order in which the series were added to the chart. `SeriesCollection(1)` is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
 
 
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TimelineState.StartDate property (Excel)
 
-Returns the start of the filtering date range.  Read-only **Variant**.
+Returns the start of the filtering date range. Read-only **Variant**.
 
 
 ## Syntax

@@ -41,7 +41,7 @@ Nothing
 
 ## Remarks
 
-Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs.  _Shape IDs_ are numeric and uniquely identify shapes within the scope of an individual drawing page. They are not unique within a wider scope, however.
+Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs. _Shape IDs_ are numeric and uniquely identify shapes within the scope of an individual drawing page. They are not unique within a wider scope, however.
 
  _Unique IDs_ are globally unique identifiers (GUIDs). They are unique within the scope of the application.
 

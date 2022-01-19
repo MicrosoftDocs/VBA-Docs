@@ -27,7 +27,7 @@ Single
 
 ## Remarks
 
-The rotation of a 3D model is reported as a trio of x, y, and z Euler angles.  The properties **[RotationX](PowerPoint.Model3DFormat.RotationX.md)**, **[RotationY](PowerPoint.Model3DFormat.RotationY.md)**, and **RotationZ** can be used to read or change the absolute orientation of a 3D model.
+The rotation of a 3D model is reported as a trio of x, y, and z Euler angles. The properties **[RotationX](PowerPoint.Model3DFormat.RotationX.md)**, **[RotationY](PowerPoint.Model3DFormat.RotationY.md)**, and **RotationZ** can be used to read or change the absolute orientation of a 3D model.
 
 The methods **[IncrementRotationX](PowerPoint.Model3DFormat.IncrementRotationX.md)**, **[IncrementRotationY](PowerPoint.Model3DFormat.IncrementRotationY.md)**, and **[IncrementRotationZ](PowerPoint.Model3DFormat.IncrementRotationZ.md)** can be used to rotate a 3D model relative to its current orientation.
 

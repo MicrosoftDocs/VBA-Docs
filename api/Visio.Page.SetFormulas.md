@@ -43,7 +43,7 @@ Integer
 
 The **SetFormulas** method behaves like the **Formula** property except that you can use it to set the formulas of many cells at once, rather than one cell at a time.
 
-For **Page** objects, you can use the **SetFormulas** method to set results of any set of cells in any set of shapes of the page or master. You tell the **SetFormulas** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
+For **Page** objects, you can use the **SetFormulas** method to set results of any set of cells in any set of shapes of the page or master. You tell the **SetFormulas** method which cells you want to set by passing an array of integers in _SID_SRCStream()_. _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
 
 For **Page** objects _SID_SRCStream()_ should be a one-dimensional array of 4 _n_ 2-byte integers for _n_ >= 1. The **SetFormulas** method interprets the stream as:
 

@@ -44,7 +44,7 @@ If **SetAlwaysDelete** returns **olDoNotDelete**, existing conversation items an
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to set the always-delete setting for the conversation of a specific mail item. The code example,  `DemoSetAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item.  `DemoSetAlwaysDelete` verifies that conversations are enabled in the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to always move existing and new items for that conversation to the Deleted Items folder in the same store.
+The following Visual Basic for Applications (VBA) example shows how to set the always-delete setting for the conversation of a specific mail item. The code example, `DemoSetAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item. `DemoSetAlwaysDelete` verifies that conversations are enabled in the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to always move existing and new items for that conversation to the Deleted Items folder in the same store.
 
 
 ```vb

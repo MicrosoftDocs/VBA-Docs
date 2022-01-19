@@ -23,8 +23,8 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _NumRows_|Required|**Long**|The number of rows in the table.  _NumRows_ is ignored when creating a table.|
-| _NumColumns_|Required|**Long**|The number of columns in the table.  _NumColumns_ is ignored when creating a table.|
+| _NumRows_|Required|**Long**|The number of rows in the table. _NumRows_ is ignored when creating a table.|
+| _NumColumns_|Required|**Long**|The number of columns in the table. _NumColumns_ is ignored when creating a table.|
 | _Left_|Required|**Single**|The left edge (in points) of the table, relative to the left side of the report pane.|
 | _Top_|Required|**Single**|The top edge (in points) of the table, relative to the top of the report pane.|
 | _Width_|Required|**Single**|The width of the table, in points.|

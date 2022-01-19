@@ -47,7 +47,7 @@ Sub CheckInPresentation(strPresentation As String)
         MsgBox strPresentation & " has been checked in."
     Else
         MsgBox strPresentation & " cannot be checked in " & _
-        "at this time.  Please try again later."
+        "at this time. Please try again later."
     End If
 
 End Sub

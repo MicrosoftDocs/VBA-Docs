@@ -58,7 +58,7 @@ Sub CheckInPresentation(strPresentation As String)
 
     Else
 
-        MsgBox strPresentation & " cannot be checked in at this time.  Please try again later."
+        MsgBox strPresentation & " cannot be checked in at this time. Please try again later."
 
     End If
 
