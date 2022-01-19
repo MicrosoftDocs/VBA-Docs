@@ -38,7 +38,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 - If any event handler returns **True** (cancel), the instance fires **SuspendCanceled** and does not enter a suspended state.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeSuspend** and then enters a suspended state.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeSuspend** and then enters a suspended state.
     
 
 

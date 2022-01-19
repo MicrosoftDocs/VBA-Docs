@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-This property returns  **False** if the document was created or opened programmatically from another Microsoft Office application with the **Open** method or the Visual Basic **CreateObject** or **GetObject** command.
+This property returns **False** if the document was created or opened programmatically from another Microsoft Office application with the **Open** method or the Visual Basic **CreateObject** or **GetObject** command.
 
 
 > [!NOTE] 

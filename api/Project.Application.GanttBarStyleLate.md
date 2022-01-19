@@ -30,7 +30,7 @@ _expression_. `GanttBarStyleLate`( `_Show_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|If  **False**, hides the late tasks style. If **True**, shows the late tasks style.|
+| _Show_|Optional|**Boolean**|If **False**, hides the late tasks style. If **True**, shows the late tasks style.|
 
 ## Return value
 

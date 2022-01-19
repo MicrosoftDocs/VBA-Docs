@@ -41,7 +41,7 @@ A Microsoft Visio instance fires  **QueryCancelWindowClose** after the user has 
 
 - If any event handler returns **True** (cancel), the instance fires **WindowCloseCanceled** and does not close the window.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeWindowClosed** and then closes the window.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeWindowClosed** and then closes the window.
     
 
 

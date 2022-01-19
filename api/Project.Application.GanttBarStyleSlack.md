@@ -30,7 +30,7 @@ _expression_. `GanttBarStyleSlack`( `_Show_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|If  **False**, hides the slack. If **True**, shows the slack.|
+| _Show_|Optional|**Boolean**|If **False**, hides the slack. If **True**, shows the slack.|
 
 ## Return value
 

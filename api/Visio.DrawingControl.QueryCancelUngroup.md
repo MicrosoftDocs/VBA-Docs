@@ -38,7 +38,7 @@ A Microsoft Visio instance fires  **QueryCancelUngroup** after the user has dire
 
 - If any event handler returns **True** (cancel), the instance fires **UngroupCanceled** and does not ungroup the shapes.
     
-- If all handlers return  **False** (don't cancel), the instance fires **ShapeParentChanged**, **BeforeSelectionDelete**, and **BeforeShapeDelete**, and then ungroups the shapes.
+- If all handlers return **False** (don't cancel), the instance fires **ShapeParentChanged**, **BeforeSelectionDelete**, and **BeforeShapeDelete**, and then ungroups the shapes.
     
 
 

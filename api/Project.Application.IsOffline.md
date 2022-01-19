@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.IsOffline method (Project)
 
-Returns  **False** if Project Professional is connected with Project Server.
+Returns **False** if Project Professional is connected with Project Server.
 
 
 ## Syntax

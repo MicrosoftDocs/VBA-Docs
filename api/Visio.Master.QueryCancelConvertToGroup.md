@@ -41,7 +41,7 @@ A Microsoft Visio instance fires  **QueryCancelConvertToGroup** after the user h
 
 - If any event handler returns **True** (cancel), the instance fires **ConvertToGroupCanceled** and does not convert the shapes.
     
-- If all handlers return  **False** (don't cancel), the conversion is performed.
+- If all handlers return **False** (don't cancel), the conversion is performed.
     
 
 

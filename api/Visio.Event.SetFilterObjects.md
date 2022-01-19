@@ -63,7 +63,7 @@ For an event to successfully pass through an object event filter, it must satisf
     
 - If all filters are **True**, the event must match at least one filter.
     
-- If all filters are  **False**, the event must not match any filter.
+- If all filters are **False**, the event must not match any filter.
     
 - If the filters are a mixture of **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     

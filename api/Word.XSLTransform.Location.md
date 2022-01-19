@@ -30,7 +30,7 @@ _expression_.**Location** (_AllUsers_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _AllUsers_|Optional| **Boolean**|Specifies whether to return the location for all users.  **False** returns the location for only the current user, which may be different than the location for all users.|
+| _AllUsers_|Optional| **Boolean**|Specifies whether to return the location for all users. **False** returns the location for only the current user, which may be different than the location for all users.|
 
 ## See also
 

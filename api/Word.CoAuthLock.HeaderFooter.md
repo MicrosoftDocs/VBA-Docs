@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 > [!NOTE] 
 > This object or member has been deprecated. You should not use it in new applications.
 
-This property will always return  **False**.
+This property will always return **False**.
 
 ## See also
 

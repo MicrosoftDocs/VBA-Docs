@@ -43,7 +43,7 @@ A Visio instance fires  **QueryCancelSuspendEvents** after client code has direc
 
 - If any event handler returns **True** (cancel), the instance fires **SuspendEventsCanceled** and does not suspend events.
     
-- If all handlers return  **False** (don't cancel), the suspension occurs.
+- If all handlers return **False** (don't cancel), the suspension occurs.
     
 
 

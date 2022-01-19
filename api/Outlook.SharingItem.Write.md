@@ -31,7 +31,7 @@ _expression_. `Write`( `_Cancel_` )
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the save operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the save operation is not completed.
 
 
 ## See also

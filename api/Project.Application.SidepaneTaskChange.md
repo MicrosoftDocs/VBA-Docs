@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ID_|Required|**Integer**|The ID number of the side pane in the **Project Guide**.|
-| _IsGoalArea_|Optional|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
+| _IsGoalArea_|Optional|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**. **False** if trying to change to a different **Project Guide** task.|
 
 ## Return value
 

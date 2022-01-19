@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the **Project Guide** is being changed.|
 | _ID_|Required|**Long**|The ID of the task in the **Project Guide** you are trying to display.|
-| _IsGoalArea_|Required|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
+| _IsGoalArea_|Required|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**. **False** if trying to change to a different **Project Guide** task.|
 
 ## Return value
 

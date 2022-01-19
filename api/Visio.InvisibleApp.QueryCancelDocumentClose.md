@@ -38,7 +38,7 @@ A Microsoft Visio instance fires  **QueryCancelDocumentClose** after the user ha
 
 - If any event handler returns **True** (cancel), the instance fires **DocumentCloseCanceled** and does not close the document.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeDocumentClose** and then closes the document.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeDocumentClose** and then closes the document.
     
 
 

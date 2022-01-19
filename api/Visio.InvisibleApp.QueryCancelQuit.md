@@ -38,7 +38,7 @@ A Visio instance fires  **QueryCancelQuit** after the user has directed the inst
 
 - If any event handler returns **True** (cancel), the instance fires **QuitCanceled** and does not terminate.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeQuit** and then terminates.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeQuit** and then terminates.
     
 
 

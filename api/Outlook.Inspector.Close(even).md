@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the close operation isn't completed and the inspector is left open. This event cannot be canceled.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the close operation isn't completed and the inspector is left open. This event cannot be canceled.
 
 If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 

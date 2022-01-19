@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Remarks
 
-This property returns  **False** if the object referenced by the variable has been deleted.
+This property returns **False** if the object referenced by the variable has been deleted.
 
 
 ## Example

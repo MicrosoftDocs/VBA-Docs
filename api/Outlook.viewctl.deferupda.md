@@ -21,6 +21,6 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 ## Remarks
 
-When set to **True**, this property prevents changes to control properties from being displayed in the control. When set to  **False**, the control updates to reflect current property settings.
+When set to **True**, this property prevents changes to control properties from being displayed in the control. When set to **False**, the control updates to reflect current property settings.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

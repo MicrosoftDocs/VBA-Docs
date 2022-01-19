@@ -28,11 +28,11 @@ _expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Forward_|Required| **Object**|The new item being forwarded.|
-| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the forward operation is not completed and the new item is not displayed.|
+| _Cancel_|Required| **Boolean**|(Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True**, the forward operation is not completed and the new item is not displayed.|
 
 ## Remarks
 
-In VBScript, if you set the return value of this function to  **False**, the forward action is not completed and the new item is not displayed.
+In VBScript, if you set the return value of this function to **False**, the forward action is not completed and the new item is not displayed.
 
 
 ## See also

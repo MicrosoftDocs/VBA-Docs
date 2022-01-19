@@ -38,7 +38,7 @@ A Microsoft Visio instance fires  **QueryCancelStyleDelete** after the user has 
 
 - If any event handler returns **True** (cancel), the instance fires **StyleDeleteCanceled** and does not delete the style.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeStyleDelete** and then deletes the style.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeStyleDelete** and then deletes the style.
     
 
 

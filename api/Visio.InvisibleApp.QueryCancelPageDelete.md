@@ -38,7 +38,7 @@ A Visio instance fires  **QueryCancelPageDelete** after the user has directed th
 
 - If any event handler returns **True** (cancel), the instance fires **PageDeleteCanceled** and does not delete the page.
     
-- If all handlers return  **False** (don't cancel) the instance fires **BeforePageDelete** and then deletes the page.
+- If all handlers return **False** (don't cancel) the instance fires **BeforePageDelete** and then deletes the page.
     
 
 

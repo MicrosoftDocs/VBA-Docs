@@ -32,7 +32,7 @@ If the active explorer uses the  **Day/Week/Month** or **Day/Week/Month View wit
 
 If the active explorer uses another view, such as the  **All Appointments** view, to display navigation folders in the **Calendar** navigation module, or in navigation modules other than the **Calendar** navigation module, this property returns **True** if the navigation folder is selected and currently displayed in the active explorer; otherwise, the property returns **False**. 
 
-In either case, an error occurs if the value of this property is set to  **False** for all **NavigationFolder** objects in the parent **[NavigationFolders](Outlook.NavigationFolders.md)** collection, or if the **NavigationFolder** object is contained by a navigation module other than the navigation module currently displayed in the navigation pane.
+In either case, an error occurs if the value of this property is set to **False** for all **NavigationFolder** objects in the parent **[NavigationFolders](Outlook.NavigationFolders.md)** collection, or if the **NavigationFolder** object is contained by a navigation module other than the navigation module currently displayed in the navigation pane.
 
 The **[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)** event for the parent **NavigationFolders** collection is raised if the value of this property is changed for a **NavigationFolder** object in a **Calendar** navigation module, regardless of the current view.
 

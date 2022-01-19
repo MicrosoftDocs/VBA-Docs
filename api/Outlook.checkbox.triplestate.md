@@ -26,7 +26,7 @@ _expression_ A variable that represents a **CheckBox** object.
 
  **True** if the control clicks through three states, **False** if the control only supports two states, **True** and **False** (default).
 
-When the  **TripleState** property is **True**, a user can choose from the values of  **Null**, **True**, and  **False**. The **Null** value is displayed as a shaded button.
+When the  **TripleState** property is **True**, a user can choose from the values of  **Null**, **True**, and **False**. The **Null** value is displayed as a shaded button.
 
 When  **TripleState** is **False**, the user can choose either **True** or **False**.
 

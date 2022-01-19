@@ -30,7 +30,7 @@ Returns **True** to display the webpage specified by the **[WebViewURL](Outlook.
 
 Microsoft Outlook uses the rendering engine of the version Windows Internet Explorer installed on the client computer to display the webpage. If Internet Explorer is not installed on the client computer, Outlook will not display the webpage.
 
-This property is always  **False** if the value of the **WebViewURL** property is empty.
+This property is always **False** if the value of the **WebViewURL** property is empty.
 
 Also, setting the  **WebViewOn** property to **True** before setting the **WebViewURL** property will not display the home page specified in the **WebViewURL** property.
 

@@ -26,7 +26,7 @@ _expression_. `SuggestFromMainDictionaryOnly`
 
 ## Remarks
 
-This property returns  **False** if it draws spelling suggestions from the main dictionary and any custom dictionaries that have been added.
+This property returns **False** if it draws spelling suggestions from the main dictionary and any custom dictionaries that have been added.
 
 
 ## Example

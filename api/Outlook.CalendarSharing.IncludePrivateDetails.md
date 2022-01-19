@@ -31,7 +31,7 @@ _expression_. `IncludePrivateDetails`
 
 ## Remarks
 
-This property must be set to  **False** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly**.
+This property must be set to **False** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly**.
 
 
 ## See also

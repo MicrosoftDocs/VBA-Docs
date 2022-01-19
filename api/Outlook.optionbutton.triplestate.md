@@ -27,7 +27,7 @@ Although the  **TripleState** property exists on the **OptionButton**, the prope
 
 Regardless of the property setting, the  **Null** value can always be assigned programmatically to an **OptionButton**, causing that control to appear shaded.
 
-When the  **TripleState** property is **True**, a user can choose from the values of  **Null**, **True**, and  **False**. The null value is displayed as a shaded button.
+When the  **TripleState** property is **True**, a user can choose from the values of  **Null**, **True**, and **False**. The null value is displayed as a shaded button.
 
 When  **TripleState** is **False**, the user can choose either **True** or **False**.
 

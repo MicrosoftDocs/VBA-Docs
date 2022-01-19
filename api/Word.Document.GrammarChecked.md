@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-Returns  **False** if all or some of the specified document has not been checked for grammar. To recheck the grammar in a document, set the **GrammarChecked** property to **False**.
+Returns **False** if all or some of the specified document has not been checked for grammar. To recheck the grammar in a document, set the **GrammarChecked** property to **False**.
 
 
 ## Example
