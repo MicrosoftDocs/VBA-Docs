@@ -73,7 +73,7 @@ The additional regression statistics are as follows.
 
 The following illustration shows the order in which the additional regression statistics are returned. 
 
-> ![Formula](../images/awflnst3_ZA06051201.gif)
+> ![illustration showing the order in which the additional regression statistics are returned](../images/awflnst3_ZA06051201.gif)
 
 
 You can describe any straight line with the slope and the y-intercept: `Slope (m)`. To find the slope of a line, often written as m, take two points on the line, (x1,y1) and (x2,y2); the slope is equal to (y2 - y1)/(x2 - x1). Y-intercept (b): The y-intercept of a line, often written as b, is the value of y at the point where the line crosses the y-axis. The equation of a straight line is y = mx + b. After you know the values of m and b, you can calculate any point on the line by plugging the y- or x-value into that equation. You can also use the TREND function.
@@ -85,9 +85,9 @@ When you have only one independent x-variable, you can obtain the slope and y-in
     
 The accuracy of the line calculated by **LinEst** depends on the degree of scatter in your data. The more linear the data, the more accurate the **LinEst** model. **LinEst** uses the method of least squares for determining the best fit for the data. When you have only one independent x-variable, the calculations for m and b are based on the following formulas:
 
-> ![Formula](../images/awflnst1_ZA06047512.gif)
+> ![Formula showing calculations for m and b](../images/awflnst1_ZA06047512.gif)
 
-> ![Formula](../images/awflnst2_ZA06051200.gif) &nbsp; where x and y are sample means, that is, x = AVERAGE(known x's) and y = AVERAGE(known_y's). 
+> ![Formula showing calculations for m and b where x and y are sample means](../images/awflnst2_ZA06051200.gif) &nbsp; where x and y are sample means, that is, x = AVERAGE(known x's) and y = AVERAGE(known_y's). 
     
 The line- and curve-fitting functions **LinEst** and **[LogEst](excel.worksheetfunction.logest.md)** can calculate the best straight line or exponential curve that fits your data. However, you have to decide which of the two results best fits your data. You can calculate `TREND(known_y's,known_x's)` for a straight line, or `GROWTH(known_y's, known_x's)` for an exponential curve. These functions, without the new_x's argument, return an array of y-values predicted along that line or curve at your actual data points. You can then compare the predicted values with the actual values. You may want to chart them both for a visual comparison.
     
