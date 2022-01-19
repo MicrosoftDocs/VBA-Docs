@@ -7,7 +7,7 @@ ms.prod: outlook
 api_name:
 - Outlook.Account
 ms.assetid: f624438c-4e45-2822-18b6-bfe8074a33c0
-ms.date: 12-29-2021
+ms.date: 12/29/2021
 ms.localizationpriority: medium
 ---
 
