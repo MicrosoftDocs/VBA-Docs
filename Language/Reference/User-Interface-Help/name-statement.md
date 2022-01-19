@@ -41,7 +41,7 @@ This example uses the **Name** statement to rename a file. For purposes of this 
 ```vb
 Dim oldName, oldName 
 oldName = "OLDFILE": newName = "NEWFILE" ' Define file names. 
-Name oldName As oldName ' Rename file. 
+Name oldName As newName ' Rename file. 
  
 oldName = "C:\MYDIR\OLDFILE": newName = "C:\YOURDIR\NEWFILE" 
 Name oldName As newName ' Move and rename file. 
