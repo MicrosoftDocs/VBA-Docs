@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Type property (Word)
 
-Returns or sets the trendline type. Read/write  **[XlTrendlineType](Word.xltrendlinetype.md)**.
+Returns or sets the trendline type. Read/write **[XlTrendlineType](Word.xltrendlinetype.md)**.
 
 
 ## Syntax

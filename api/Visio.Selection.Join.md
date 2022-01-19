@@ -31,11 +31,11 @@ Nothing
 
 ## Remarks
 
-Calling the  **Join** method is equivalent to clicking **Join** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its container—the _n_th shape in the  **Shapes** collection of its containing shape, where _n_ = Count.
+Calling the **Join** method is equivalent to clicking **Join** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its container—the _n_th shape in the **Shapes** collection of its containing shape, where _n_ = Count.
 
 The original shapes are deleted and no shapes are selected when the operation is complete.
 
-The  **Join** method and the **Combine** method are similar but differ in the following ways:
+The **Join** method and the **Combine** method are similar but differ in the following ways:
 
 
 

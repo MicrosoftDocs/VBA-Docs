@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Inspector.BeforeMove event (Outlook)
 
-Occurs when the  **[Inspector](Outlook.Inspector.md)** is moved by the user.
+Occurs when the **[Inspector](Outlook.Inspector.md)** is moved by the user.
 
 
 ## Syntax

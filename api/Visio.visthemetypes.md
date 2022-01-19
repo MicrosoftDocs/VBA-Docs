@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisThemeTypes enumeration (Visio)
 
-Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
+Theme types passed to the **Document.GetThemeNames** and **Document.GetThemeNamesU** methods, as well as the **Page.GetTheme** method.
 
 
 

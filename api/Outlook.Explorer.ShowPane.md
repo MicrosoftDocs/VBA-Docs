@@ -39,12 +39,12 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 
 > [!NOTE] 
-> You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to display or hide the Outlook Bar.
+> You can also use the **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to display or hide the Outlook Bar.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example uses the  **ShowPane** and **[IsPaneVisible](Outlook.Explorer.IsPaneVisible.md)** methods to hide the preview pane if it is visible or to display it if it is hidden.
+This Microsoft Visual Basic for Applications (VBA) example uses the **ShowPane** and **[IsPaneVisible](Outlook.Explorer.IsPaneVisible.md)** methods to hide the preview pane if it is visible or to display it if it is hidden.
 
 
 ```vb

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Tasks object (Word)
 
-A collection of  **[Task](Word.Task.md)** objects that represents all the tasks currently running on the system.
+A collection of **[Task](Word.Task.md)** objects that represents all the tasks currently running on the system.
 
 
 ## Remarks
@@ -30,9 +30,9 @@ Else
 End If
 ```
 
-Use Visual Basic's  **Shell** function to run an executable program and add the program to the **Tasks** collection.
+Use Visual Basic's **Shell** function to run an executable program and add the program to the **Tasks** collection.
 
-Use  **Tasks** (Index), where Index is the application name or the index number, to return a single **Task** object. The following example opens and resizes the application window for the first visible task in the **Tasks** collection.
+Use **Tasks** (Index), where Index is the application name or the index number, to return a single **Task** object. The following example opens and resizes the application window for the first visible task in the **Tasks** collection.
 
 
 

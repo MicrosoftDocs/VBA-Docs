@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Paragraphs object (Word)
 
-A collection of  **[Paragraph](Word.Paragraph.md)** objects in a selection, range, or document.
+A collection of **[Paragraph](Word.Paragraph.md)** objects in a selection, range, or document.
 
 
 ## Remarks
@@ -42,7 +42,7 @@ The following example also adds a paragraph before the first paragraph in the se
 Selection.Paragraphs(1).Range.InsertParagraphBefore
 ```
 
-Use  **Paragraphs** (Index), where Index is the index number, to return a single **Paragraph** object. The following example right aligns the first paragraph in the active document.
+Use **Paragraphs** (Index), where Index is the index number, to return a single **Paragraph** object. The following example right aligns the first paragraph in the active document.
 
 
 

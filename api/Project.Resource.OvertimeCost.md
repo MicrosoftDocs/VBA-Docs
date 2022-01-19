@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.OvertimeCost property (Project)
 
-Gets the overtime cost for a resource. Read-only  **Variant**.
+Gets the overtime cost for a resource. Read-only **Variant**.
 
 
 ## Syntax

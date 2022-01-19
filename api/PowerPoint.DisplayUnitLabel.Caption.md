@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DisplayUnitLabel.Caption property (PowerPoint)
 
-Returns or sets the display unit label text. Read/write  **String**.
+Returns or sets the display unit label text. Read/write **String**.
 
 
 ## Syntax

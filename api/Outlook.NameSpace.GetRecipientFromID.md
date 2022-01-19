@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NameSpace.GetRecipientFromID method (Outlook)
 
-Returns the  **[Recipient](Outlook.Recipient.md)** object that is identified by the specified entry ID (if valid).
+Returns the **[Recipient](Outlook.Recipient.md)** object that is identified by the specified entry ID (if valid).
 
 
 ## Syntax
@@ -41,12 +41,12 @@ A **Recipient** object that represents the specified recipient.
 
 This method is used to ease the transition between MAPI and OLE/Messaging applications and Microsoft Outlook.
 
-This method is similar to the  **[GetRecipientFromID](Outlook.Account.GetRecipientFromID.md)** method of the **[Account](Outlook.Account.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
+This method is similar to the **[GetRecipientFromID](Outlook.Account.GetRecipientFromID.md)** method of the **[Account](Outlook.Account.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example gets the entry ID of the first recipient for the first item in the  **[Items](Outlook.Items.md)** collection for the **Inbox** folder, uses **GetRecipientFromID** to obtain the recipient from the entry ID, and displays the recipient name.
+This Visual Basic for Applications (VBA) example gets the entry ID of the first recipient for the first item in the **[Items](Outlook.Items.md)** collection for the **Inbox** folder, uses **GetRecipientFromID** to obtain the recipient from the entry ID, and displays the recipient name.
 
 
 ```vb

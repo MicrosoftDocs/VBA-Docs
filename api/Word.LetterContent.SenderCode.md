@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.SenderCode property (Word)
 
-Returns or sets the sender code. Not used in the U.S. English version of Microsoft Word. Read/write  **String**.
+Returns or sets the sender code. Not used in the U.S. English version of Microsoft Word. Read/write **String**.
 
 
 ## Syntax

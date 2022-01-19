@@ -24,7 +24,7 @@ The **RulerLevel** object is a member of the **[RulerLevels](PowerPoint.RulerLev
 
 ## Example
 
-Use  **RulerLevels** (_index_), where _index_ is the outline level, to return a single **RulerLevel** object. The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
+Use **RulerLevels** (_index_), where _index_ is the outline level, to return a single **RulerLevel** object. The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
 
 
 ```vb

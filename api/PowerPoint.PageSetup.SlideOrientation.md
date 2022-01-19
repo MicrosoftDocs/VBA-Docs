@@ -31,7 +31,7 @@ MsoOrientation
 
 ## Remarks
 
-The value of the  **SlideOrientation** property can be one of these **MsoOrientation** constants.
+The value of the **SlideOrientation** property can be one of these **MsoOrientation** constants.
 
 
 ||

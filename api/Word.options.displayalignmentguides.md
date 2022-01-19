@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Options.DisplayAlignmentGuides property (Word)
 
-Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read/write.
+Returns or sets a **Boolean** that specifies whether alignment guides are enabled in the user interface. Read/write.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 ## Remarks
 
-If  **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Setting  **DisplayAlignmentGuides** to **True** corresponds to selecting **Use Alignment Guides** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.
+If **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Setting **DisplayAlignmentGuides** to **True** corresponds to selecting **Use Alignment Guides** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.
 
 
 ## Property value

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Slides.Item method (PowerPoint)
 
-Returns a single  **Slide** object from the specified **Slides** collection.
+Returns a single **Slide** object from the specified **Slides** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Slides](PowerPoint.Slides.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Slide** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Slide** object in the collection to be returned.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.LastChild property (Word)
 
-Returns an  **XMLNode** object that represents the last child node of an XML element.
+Returns an **XMLNode** object that represents the last child node of an XML element.
 
 
 ## Syntax

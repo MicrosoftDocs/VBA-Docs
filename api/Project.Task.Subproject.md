@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Subproject property (Project)
 
-Gets or sets the subproject name for the task. Read/write  **String**.
+Gets or sets the subproject name for the task. Read/write **String**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Example
 
-The following line of code inserts the specified project as a subproject for the task. If the project is not found, it displays a file dialog box with the title  **Cannot find inserted project - C:\Project\MySubProject.mpp**.
+The following line of code inserts the specified project as a subproject for the task. If the project is not found, it displays a file dialog box with the title **Cannot find inserted project - C:\Project\MySubProject.mpp**.
 
 
 ```vb

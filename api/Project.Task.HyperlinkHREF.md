@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.HyperlinkHREF property (Project)
 
-Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write  **String**.
+Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write **String**.
 
 
 ## Syntax

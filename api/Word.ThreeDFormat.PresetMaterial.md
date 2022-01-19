@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetMaterial property (Word)
 
-Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial**.
+Returns or sets the extrusion surface material. Read/write **MsoPresetMaterial**.
 
 
 ## Syntax

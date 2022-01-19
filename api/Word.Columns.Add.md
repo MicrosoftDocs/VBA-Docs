@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Add method (Word)
 
-Returns a  **Column** object that represents a column added to a table.
+Returns a **Column** object that represents a column added to a table.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DateSeparator property (Project)
 
-Gets the date separator character. Read-only  **String**.
+Gets the date separator character. Read-only **String**.
 
 
 ## Syntax

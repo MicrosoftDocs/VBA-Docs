@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListFormat.List property (Word)
 
-Returns a  **[List](Word.List.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
+Returns a **[List](Word.List.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
 
 
 ## Syntax

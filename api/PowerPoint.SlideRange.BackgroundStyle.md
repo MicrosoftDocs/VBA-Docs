@@ -26,7 +26,7 @@ _expression_.**BackgroundStyle**
 
 ## Remarks
 
-The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)** constants.
+The value of the **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)** constants.
 
 
 ## See also

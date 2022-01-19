@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.Occurrences property (Project)
 
-Gets the number of occurrences of the calendar exception. Read/write  **Long**.
+Gets the number of occurrences of the calendar exception. Read/write **Long**.
 
 
 ## Syntax

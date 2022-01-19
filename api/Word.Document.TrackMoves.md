@@ -26,7 +26,7 @@ _expression_. `TrackMoves`
 
 ## Remarks
 
-By default, when Track Changes is turned on, moved text is marked as deleted and inserted. When  **TrackMoves** is **True**, moved text is marked as moved, with the from text being marked with strikethrough formatting. This property corresponds to the **Track Moves** check box in the **Track Change Options** dialog box.
+By default, when Track Changes is turned on, moved text is marked as deleted and inserted. When **TrackMoves** is **True**, moved text is marked as moved, with the from text being marked with strikethrough formatting. This property corresponds to the **Track Moves** check box in the **Track Change Options** dialog box.
 
 
 ## See also

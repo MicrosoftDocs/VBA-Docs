@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Reflection property (Project)
-Gets the reflection formatting for the shape range. Read-only  **[ReflectionFormat](https://msdn.microsoft.com/library/office/ff863140%28v=office.15%29)**.
+Gets the reflection formatting for the shape range. Read-only **[ReflectionFormat](https://msdn.microsoft.com/library/office/ff863140%28v=office.15%29)**.
 
 ## Syntax
 

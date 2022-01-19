@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReferences.HideValidationErrors property (Word)
 
-Returns a  **Boolean** indicating whether Word displays schema validation errors for the current XML document. Read/write.
+Returns a **Boolean** indicating whether Word displays schema validation errors for the current XML document. Read/write.
 
 
 ## Syntax

@@ -19,20 +19,20 @@ Represents the background associated with a **Table** object.
 
 ## Remarks
 
-Use the  **[Background](PowerPoint.Table.Background.md)** property of a **[Table](PowerPoint.Table.md)** object to return the **TableBackground** object associated with the table.
+Use the **[Background](PowerPoint.Table.Background.md)** property of a **[Table](PowerPoint.Table.md)** object to return the **TableBackground** object associated with the table.
 
  To get a **Table** object from an existing shape, use the **Table** property of the **[Shape](PowerPoint.Shape.md)** or **[ShapeRange](PowerPoint.ShapeRange.md)** object that contains the table. You can create a shape that contains a table by using the **[AddTable](PowerPoint.Shapes.AddTable.md)** method of the **[Shapes](PowerPoint.Shapes.md)** collection.
 
-The properties of the  **TableBackground** object return objects that represent various aspects of the formatting associated with a table.
+The properties of the **TableBackground** object return objects that represent various aspects of the formatting associated with a table.
 
 
-- Use the  **[Fill](PowerPoint.TableBackground.Fill.md)** property to return a **[FillFormat](PowerPoint.FillFormat.md)** object.
+- Use the **[Fill](PowerPoint.TableBackground.Fill.md)** property to return a **[FillFormat](PowerPoint.FillFormat.md)** object.
     
-- Use the  **[Picture](PowerPoint.TableBackground.Picture.md)** property to return a **[PictureFormat](PowerPoint.PictureFormat.md)** object.
+- Use the **[Picture](PowerPoint.TableBackground.Picture.md)** property to return a **[PictureFormat](PowerPoint.PictureFormat.md)** object.
     
-- Use the  **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](Office.ReflectionFormat.md)** object.
+- Use the **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](Office.ReflectionFormat.md)** object.
     
-- Use the  **[Shadow](PowerPoint.TableBackground.Shadow.md)** property to return a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object.
+- Use the **[Shadow](PowerPoint.TableBackground.Shadow.md)** property to return a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object.
     
 
 ## Example

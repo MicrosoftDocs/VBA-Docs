@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ApplicationSettings.RasterExportColorFormat property (Visio)
 
-Determines the color format that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, JPG, PNG, or TIFF file. Read/write.
+Determines the color format that is applied to the exported image when you call the **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, JPG, PNG, or TIFF file. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_.**RasterExportColorFormat**
 
 ## Remarks
 
-The value of the  **RasterExportColorFormat** property must be one of the following **VisRasterExportColorFormat** constants.
+The value of the **RasterExportColorFormat** property must be one of the following **VisRasterExportColorFormat** constants.
 
 
 
@@ -49,8 +49,8 @@ The value of the  **RasterExportColorFormat** property must be one of the follow
 | **visRaster256ColorGrayScale**|9|256-color grayscale color format|TIFF|
 | **visRaster16Bit**|10|16-bit color format|BMP|
 
-For any given session of Microsoft Visio, when the  **RasterExportColorFormat** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
+For any given session of Microsoft Visio, when the **RasterExportColorFormat** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
-The setting of the  **RasterExportColorFormat** property corresponds to the **Color format** setting in the **BMP Output Options**,  **JPG Output Options**,  **PNG Output Options**, or  **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)**,  **JPEG File Interchange Format (*.jpg)**,  **Portable Network Graphics (*.png)**, or  **Tag Image File Format (*.tif)**, and then click  **Save**.)
+The setting of the **RasterExportColorFormat** property corresponds to the **Color format** setting in the **BMP Output Options**, **JPG Output Options**, **PNG Output Options**, or **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)**, **JPEG File Interchange Format (*.jpg)**, **Portable Network Graphics (*.png)**, or **Tag Image File Format (*.tif)**, and then click **Save**.)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

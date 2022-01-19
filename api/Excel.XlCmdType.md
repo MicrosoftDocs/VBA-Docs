@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # XlCmdType enumeration (Excel)
 
-Specifies the value of the  **CommandText** property.
+Specifies the value of the **CommandText** property.
 
 
 

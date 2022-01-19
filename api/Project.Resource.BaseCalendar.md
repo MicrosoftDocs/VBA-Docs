@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.BaseCalendar property (Project)
 
-Gets or sets the name of the base calendar for a resource. Read/write  **String**.
+Gets or sets the name of the base calendar for a resource. Read/write **String**.
 
 
 ## Syntax

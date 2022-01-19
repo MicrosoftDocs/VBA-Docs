@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MenuSets.ItemAtID property (Visio)
 
-Returns the  **MenuSet** object with the specified ID within the **MenuSets** collection. Read-only.
+Returns the **MenuSet** object with the specified ID within the **MenuSets** collection. Read-only.
 
 
 ## Syntax
@@ -43,6 +43,6 @@ MenuSet
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The ID corresponds to a window or context menu. Constants for IDs are prefixed with  **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](Visio.visuiobjsets.md)**.
+The ID corresponds to a window or context menu. Constants for IDs are prefixed with **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](Visio.visuiobjsets.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

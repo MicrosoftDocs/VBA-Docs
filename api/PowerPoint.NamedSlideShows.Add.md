@@ -40,7 +40,7 @@ NamedSlideShow
 
 ## Remarks
 
-The name you specify when you add a named slide show is the name you use as an argument to the  **[Run](PowerPoint.Application.Run.md)** method to run the named slide show.
+The name you specify when you add a named slide show is the name you use as an argument to the **[Run](PowerPoint.Application.Run.md)** method to run the named slide show.
 
 
 ## See also

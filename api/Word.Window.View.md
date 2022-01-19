@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.View property (Word)
 
-Returns a  **[View](Word.View.md)** object that represents the view for the specified window or pane.
+Returns a **[View](Word.View.md)** object that represents the view for the specified window or pane.
 
 
 ## Syntax

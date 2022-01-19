@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.Alignment property (Word)
 
-Returns or sets a  **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
+Returns or sets a **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax

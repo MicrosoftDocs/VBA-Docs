@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.ScrSup property (Word)
 
-Returns an  **[OMathScrSup](Word.OMathScrSup.md)** object that represents the mathematical superscript function. Read-only.
+Returns an **[OMathScrSup](Word.OMathScrSup.md)** object that represents the mathematical superscript function. Read-only.
 
 
 ## Syntax

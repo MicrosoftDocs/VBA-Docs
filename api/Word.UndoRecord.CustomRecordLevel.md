@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UndoRecord.CustomRecordLevel property (Word)
 
-Returns a  **Long** that specifies the number of custom undo action calls that are currently active. Read-only.
+Returns a **Long** that specifies the number of custom undo action calls that are currently active. Read-only.
 
 
 ## Syntax

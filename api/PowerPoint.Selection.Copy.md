@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Selection](PowerPoint.Selection.md) o
 
 ## Remarks
 
-Use the  **Paste** method to paste the contents of the Clipboard.
+Use the **Paste** method to paste the contents of the Clipboard.
 
 
 ## Example

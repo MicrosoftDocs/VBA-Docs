@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property returns  **olModuleContacts** for the **[ContactsModule](Outlook.ContactsModule.md)** object.
+This property returns **olModuleContacts** for the **[ContactsModule](Outlook.ContactsModule.md)** object.
 
 
 ## See also

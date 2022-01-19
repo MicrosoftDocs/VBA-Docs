@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.RegularWork property (Project)
 
-Gets the amount of regular work for the resource. Read-only  **Variant**.
+Gets the amount of regular work for the resource. Read-only **Variant**.
 
 
 ## Syntax

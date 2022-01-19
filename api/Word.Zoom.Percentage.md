@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Zoom.Percentage property (Word)
 
-Returns or sets the magnification for a window as a percentage. Read/write  **Long**.
+Returns or sets the magnification for a window as a percentage. Read/write **Long**.
 
 
 ## Syntax

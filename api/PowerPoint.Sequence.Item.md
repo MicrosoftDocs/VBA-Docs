@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sequence.Item method (PowerPoint)
 
-Returns a single  **Effect** object from the specified **Sequence** collection.
+Returns a single **Effect** object from the specified **Sequence** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Effect** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Effect** object in the collection to be returned.|
 
 ## Return value
 

@@ -39,12 +39,12 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 ## Remarks
 
-You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to determine whether the **Shortcuts** pane is visible.
+You can also use the **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to determine whether the **Shortcuts** pane is visible.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](Outlook.Explorer.ShowPane.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the navigation pane.
+This Microsoft Visual Basic for Applications (VBA) sample uses the **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](Outlook.Explorer.ShowPane.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the navigation pane.
 
 
 ```vb

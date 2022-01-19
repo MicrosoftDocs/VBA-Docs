@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.GrammaticalErrors property (Word)
 
-Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
+Returns a **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
 
 
 ## Syntax

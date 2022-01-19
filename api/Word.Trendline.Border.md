@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Border property (Word)
 
-Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)**.
+Returns the border of the object. Read-only **[ChartBorder](Word.ChartBorder.md)**.
 
 
 ## Syntax

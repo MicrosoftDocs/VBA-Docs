@@ -22,11 +22,11 @@ Represents character formatting for text or a bullet. The **Font** object is a m
 The following examples describes how to do the following:
 
 
-- Return the  **Font** object that represents the font attributes of a specified bullet, a specified range of text, or all text at a specified outline level
+- Return the **Font** object that represents the font attributes of a specified bullet, a specified range of text, or all text at a specified outline level
     
 - Return a **Font** object from the collection of all the fonts used in the presentation
     
-Use the [Font](PowerPoint.TextRange.Font.md)property to return the  **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
+Use the [Font](PowerPoint.TextRange.Font.md)property to return the **Font** object that represents the font attributes for a specific bullet, text range, or outline level. The following example sets the title text on slide one and sets the font properties.
 
 
 
@@ -51,7 +51,7 @@ With ActivePresentation.Slides(1).Shapes.Title _
 End With
 ```
 
-Use  **Fonts** (_index_), where _index_ is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
+Use **Fonts** (_index_), where _index_ is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
 
 
 

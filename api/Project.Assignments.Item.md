@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignments.Item property (Project)
 
-Gets a single  **Assignment** object from the **Assignments** collection. Read-only **Assignment**.
+Gets a single **Assignment** object from the **Assignments** collection. Read-only **Assignment**.
 
 
 ## Syntax

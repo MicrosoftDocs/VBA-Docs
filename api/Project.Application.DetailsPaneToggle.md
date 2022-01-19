@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DetailsPaneToggle method (Project)
 
-Shows or hides the task or resource  **Details** pane for the selected item.
+Shows or hides the task or resource **Details** pane for the selected item.
 
 
 ## Syntax

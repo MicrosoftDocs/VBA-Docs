@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.CreationDate property (Project)
 
-Gets the date a project was created. Read-only  **Variant**.
+Gets the date a project was created. Read-only **Variant**.
 
 
 ## Syntax

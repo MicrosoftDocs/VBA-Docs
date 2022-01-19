@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddFillIn method (Word)
 
-Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a FILLIN field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

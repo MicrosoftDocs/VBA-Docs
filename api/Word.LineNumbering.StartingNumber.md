@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineNumbering.StartingNumber property (Word)
 
-Returns or sets the starting line number. Read/write  **Long**.
+Returns or sets the starting line number. Read/write **Long**.
 
 
 ## Syntax

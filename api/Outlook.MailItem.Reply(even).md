@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # MailItem.Reply event (Outlook)
 
-Occurs when the user selects the  **Reply** action for an item, or when the **Reply** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **Reply** action for an item, or when the **Reply** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Reply** event and sets the **Sent Items** folder for the reply item to the folder in which the original item resides. To use this example, open an existing mailitem, run the `Initialize Handler()` procedure, then reply to the open item.
+This Visual Basic for Applications (VBA) example uses the **Reply** event and sets the **Sent Items** folder for the reply item to the folder in which the original item resides. To use this example, open an existing mailitem, run the `Initialize Handler()` procedure, then reply to the open item.
 
 
 ```vb

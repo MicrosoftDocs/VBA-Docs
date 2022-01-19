@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FromRssFeedRuleCondition.ConditionType property (Outlook)
 
-Returns a constant,  **olConditionFromRssFeed**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant, **olConditionFromRssFeed**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

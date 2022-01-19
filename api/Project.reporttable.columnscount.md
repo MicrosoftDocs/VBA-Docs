@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ReportTable.ColumnsCount property (Project)
-Gets the number of columns in the table. Read-only  **Long**.
+Gets the number of columns in the table. Read-only **Long**.
 
 ## Syntax
 

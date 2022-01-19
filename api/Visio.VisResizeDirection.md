@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisResizeDirection enumeration (Visio)
 
-Specifies the resize directions that correspond to the shape handles to move; passed to the  **[Shape.Resize](Visio.Shape.Resize.md)** and **[Selection.Resize](Visio.Selection.Resize.md)** methods.
+Specifies the resize directions that correspond to the shape handles to move; passed to the **[Shape.Resize](Visio.Shape.Resize.md)** and **[Selection.Resize](Visio.Selection.Resize.md)** methods.
 
 
 

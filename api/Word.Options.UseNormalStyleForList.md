@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.UseNormalStyleForList property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
 
 
 ## Syntax

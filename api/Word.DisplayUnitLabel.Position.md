@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DisplayUnitLabel.Position property (Word)
 
-Returns or sets the position of the unit label on an axis in the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)**.
+Returns or sets the position of the unit label on an axis in the chart. Read/write **[XlChartElementPosition](Word.xlchartelementposition.md)**.
 
 
 ## Syntax

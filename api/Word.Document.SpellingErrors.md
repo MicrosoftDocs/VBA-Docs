@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SpellingErrors property (Word)
 
-Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the words identified as spelling errors in the specified document or range. Read-only.
+Returns a **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the words identified as spelling errors in the specified document or range. Read-only.
 
 
 ## Syntax

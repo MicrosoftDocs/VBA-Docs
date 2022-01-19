@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartCharacters.Count property (Word)
 
-Returns the number of objects in the collection. Read-only  **Long**.
+Returns the number of objects in the collection. Read-only **Long**.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # OverAllocatedAssignments object (Project)
 
-Represents a collection of  **[Assignment](Project.Assignment.md)** objects where the resource is overallocated.
+Represents a collection of **[Assignment](Project.Assignment.md)** objects where the resource is overallocated.
  
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.CurrentFilter property (Project)
 
-Gets the name of the active filter for a project. Read-only  **String**.
+Gets the name of the active filter for a project. Read-only **String**.
 
 
 ## Syntax

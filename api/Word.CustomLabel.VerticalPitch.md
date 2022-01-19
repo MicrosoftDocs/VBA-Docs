@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.VerticalPitch property (Word)
 
-Returns or sets the vertical distance between the top of one mailing label and the top of the next mailing label. Read/write  **Single**.
+Returns or sets the vertical distance between the top of one mailing label and the top of the next mailing label. Read/write **Single**.
 
 
 ## Syntax

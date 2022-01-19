@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 
 # VisToParts enumeration (Visio)
 
-Values returned by the  **Connect.ToPart** property.
+Values returned by the **Connect.ToPart** property.
 
 
 ## Remarks
 
-The  **VisToParts** return codes indicate the part of a shape to which a connection is made.
+The **VisToParts** return codes indicate the part of a shape to which a connection is made.
 
 
 

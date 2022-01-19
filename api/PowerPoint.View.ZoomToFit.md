@@ -33,9 +33,9 @@ MsoTriState
 
 This property applies only to slide view, notes page view, or master view.
 
-When the value of the  **[Zoom](PowerPoint.View.Zoom.md)** property is explicitly set, the value of the **ZoomToFit** property is automatically set to **msoFalse**.
+When the value of the **[Zoom](PowerPoint.View.Zoom.md)** property is explicitly set, the value of the **ZoomToFit** property is automatically set to **msoFalse**.
 
-The value of the  **ZoomToFit** property can be one of these **MsoTriState** constants.
+The value of the **ZoomToFit** property can be one of these **MsoTriState** constants.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectNodes method (Word)
 
-Returns an  **XMLNodes** collection that represents all the nodes that match the XPath parameter in the order in which they appear in the document or range.
+Returns an **XMLNodes** collection that represents all the nodes that match the XPath parameter in the order in which they appear in the document or range.
 
 
 ## Syntax

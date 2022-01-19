@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property returns  **olModuleTasks** for the **[TasksModule](Outlook.TasksModule.md)** object.
+This property returns **olModuleTasks** for the **[TasksModule](Outlook.TasksModule.md)** object.
 
 
 ## See also

@@ -19,7 +19,7 @@ Represents a single mail merge field in a data source. The **MailMergeDataField*
 
 ## Remarks
 
-Use  **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
+Use **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
 
 
 ```vb

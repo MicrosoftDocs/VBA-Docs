@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.FinishVariance property (Project)
 
-Gets the variance (in minutes) between the baseline finish date and the finish date of a task. Read-only  **Variant**.
+Gets the variance (in minutes) between the baseline finish date and the finish date of a task. Read-only **Variant**.
 
 
 ## Syntax

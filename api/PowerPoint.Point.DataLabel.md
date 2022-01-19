@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Point.DataLabel property (PowerPoint)
 
-Returns the data label associated with the point. Read-only  **[DataLabel](PowerPoint.DataLabel.md)**.
+Returns the data label associated with the point. Read-only **[DataLabel](PowerPoint.DataLabel.md)**.
 
 
 ## Syntax

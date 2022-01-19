@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CodeMaskLevel.Sequence property (Project)
 
-Gets or sets the type of character sequence in a code mask. Read/write  **PjCustomOutlineCodeSequence**.
+Gets or sets the type of character sequence in a code mask. Read/write **PjCustomOutlineCodeSequence**.
 
 
 ## Syntax

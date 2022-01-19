@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Frames property (Word)
 
-Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a document. Read-only.
+Returns a **[Frames](Word.Frames.md)** collection that represents all the frames in a document. Read-only.
 
 
 ## Syntax

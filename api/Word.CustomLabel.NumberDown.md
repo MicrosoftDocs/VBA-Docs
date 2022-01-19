@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.NumberDown property (Word)
 
-Returns or sets the number of custom mailing labels down the length of a page. Read/write  **Long**.
+Returns or sets the number of custom mailing labels down the length of a page. Read/write **Long**.
 
 
 ## Syntax

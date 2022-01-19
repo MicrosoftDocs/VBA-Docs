@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Walls property (Word)
 
-Returns the walls of the 3D chart. Read-only  **[Walls](Word.Walls.md)**.
+Returns the walls of the 3D chart. Read-only **[Walls](Word.Walls.md)**.
 
 
 ## Syntax

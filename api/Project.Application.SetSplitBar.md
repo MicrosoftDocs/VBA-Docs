@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ShowColumns_|Optional|**Long**|Specifies the number of columns to display, including the locked  **ID** column. The value can be 1 through 75. The default value is the total number of columns currently displayed, including any partially hidden column.|
+| _ShowColumns_|Optional|**Long**|Specifies the number of columns to display, including the locked **ID** column. The value can be 1 through 75. The default value is the total number of columns currently displayed, including any partially hidden column.|
 
 ## Return value
 
@@ -46,7 +46,7 @@ If the split bar is partially hiding the right-most column, using the **SetSplit
 
 ## Example
 
-If the standard Gantt Chart is the active view, the following statement sets the split bar to show only the **ID**,  **Indicators**,  **Task Mode**, and  **Task Name** columns.
+If the standard Gantt Chart is the active view, the following statement sets the split bar to show only the **ID**, **Indicators**, **Task Mode**, and **Task Name** columns.
 
 
 ```vb

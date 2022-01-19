@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailingLabel.CreateNewDocumentByID method (Word)
 
-Creates a new label document using either the default label options or ones that you specify. Returns a  **Document** object that represents the new document.
+Creates a new label document using either the default label options or ones that you specify. Returns a **Document** object that represents the new document.
 
 
 ## Syntax

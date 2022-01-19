@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbListSeparator enumeration (Publisher)
 
-Constants that represent the list separator of the specified paragraphs, passed to and returned by the  **ParagraphFormat.ListNumberSeparator** property.
+Constants that represent the list separator of the specified paragraphs, passed to and returned by the **ParagraphFormat.ListNumberSeparator** property.
 
 
 

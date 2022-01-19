@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OptionsGeneralEx method (Project)
 
-Sets some options that are on the **General**,  **Schedule**, and  **Advanced** tabs of the **Project Options** dialog box.
+Sets some options that are on the **General**, **Schedule**, and **Advanced** tabs of the **Project Options** dialog box.
 
 
 ## Syntax

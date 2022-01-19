@@ -32,7 +32,7 @@ _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDe
 
 ## Return value
 
-A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
+A **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

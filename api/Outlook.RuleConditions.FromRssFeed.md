@@ -26,9 +26,9 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Remarks
 
-Use the returned  **FromRSSFeedRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the message is from a specific RSS subscription.
+Use the returned **FromRSSFeedRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the message is from a specific RSS subscription.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **FromRSSFeedRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[FromRSSFeedRuleCondition.Enabled](Outlook.FromRssFeedRuleCondition.Enabled.md)** will be **True**.
+This property of the **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **FromRSSFeedRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[FromRSSFeedRuleCondition.Enabled](Outlook.FromRssFeedRuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

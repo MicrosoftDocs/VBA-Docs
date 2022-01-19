@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControlListEntries.Add method (Word)
 
-Adds a new list item to a drop-down list or combo box content control and returns a  **[ContentControlListEntry](Word.ContentControlListEntry.md)** object.
+Adds a new list item to a drop-down list or combo box content control and returns a **[ContentControlListEntry](Word.ContentControlListEntry.md)** object.
 
 
 ## Syntax

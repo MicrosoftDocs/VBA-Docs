@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[LinkFormat](PowerPoint.LinkFormat.m
 
 ## Remarks
 
-To update all the links in a presentation at once, use the  **[UpdateLinks](PowerPoint.Presentation.UpdateLinks.md)** method.
+To update all the links in a presentation at once, use the **[UpdateLinks](PowerPoint.Presentation.UpdateLinks.md)** method.
 
 
 ## Example

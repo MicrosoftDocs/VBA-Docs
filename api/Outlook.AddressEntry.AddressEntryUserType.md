@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressEntry.AddressEntryUserType property (Outlook)
 
-Returns a constant from the  **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
+Returns a constant from the **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Example
 
-The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)**, the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
+The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)**, the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
 
 
 ```vb

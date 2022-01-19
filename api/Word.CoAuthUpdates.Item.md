@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthUpdates.Item method (Word)
 
-Returns an individual  **CoAuthUpdates** object in a collection.
+Returns an individual **CoAuthUpdates** object in a collection.
 
 
 ## Syntax

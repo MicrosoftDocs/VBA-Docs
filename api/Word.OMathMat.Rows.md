@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.Rows property (Word)
 
-Returns an  **[OMathMatRows](Word.OMathMatRows.md)** object that represents the rows in a matrix. Read-only.
+Returns an **[OMathMatRows](Word.OMathMatRows.md)** object that represents the rows in a matrix. Read-only.
 
 
 ## Syntax

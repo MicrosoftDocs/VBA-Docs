@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.EmphasisMark property (Word)
 
-Returns or sets the emphasis mark for a character or designated character string. Read/write  **WdEmphasisMark**.
+Returns or sets the emphasis mark for a character or designated character string. Read/write **WdEmphasisMark**.
 
 
 ## Syntax

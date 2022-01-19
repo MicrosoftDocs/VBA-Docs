@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisContainerFlags enumeration (Visio)
 
-Specifies which container member shape IDs to return; constants passed to the  **[ContainerProperties.GetMemberShapes](Visio.ContainerProperties.GetMemberShapes.md)** method.
+Specifies which container member shape IDs to return; constants passed to the **[ContainerProperties.GetMemberShapes](Visio.ContainerProperties.GetMemberShapes.md)** method.
 
 
 

@@ -19,7 +19,7 @@ Represents a mail merge field name in a data source. The **MailMergeFieldName** 
 
 ## Remarks
 
-Use  **FieldNames** (Index), where Index is the index number, to return a single **MailMergeFieldName** object. The index number represents the position of the field in the mail merge data source. The following example retrieves the name of the last field in the data source attached to the active document.
+Use **FieldNames** (Index), where Index is the index number, to return a single **MailMergeFieldName** object. The index number represents the position of the field in the mail merge data source. The following example retrieves the name of the last field in the data source attached to the active document.
 
 
 ```vb

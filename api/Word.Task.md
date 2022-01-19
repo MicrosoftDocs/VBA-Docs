@@ -19,7 +19,7 @@ Represents a single task running on the system. The **Task** object is a member 
 
 ## Remarks
 
-Use  **Tasks** (Index), where Index is the application name or the index number, to return a single **Task** object. The following example switches to and resizes the application window for the first visible task in the **Tasks** collection.
+Use **Tasks** (Index), where Index is the application name or the index number, to return a single **Task** object. The following example switches to and resizes the application window for the first visible task in the **Tasks** collection.
 
 
 ```vb
@@ -43,7 +43,7 @@ If Tasks.Exists("Calculator") = True Then
 End If
 ```
 
-Use Visual Basic's  **Shell** function to run an executable program and add the program to the **[Tasks](Word.tasks.md)** collection.
+Use Visual Basic's **Shell** function to run an executable program and add the program to the **[Tasks](Word.tasks.md)** collection.
 
 
 ## See also

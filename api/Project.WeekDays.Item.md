@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WeekDays.Item property (Project)
 
-Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **WeekDay**.
+Gets a single **WeekDay** object from the **WeekDays** collection. Read-only **WeekDay**.
 
 
 ## Syntax

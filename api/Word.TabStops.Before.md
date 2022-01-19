@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStops.Before method (Word)
 
-Returns the next  **TabStop** object to the left of Position.
+Returns the next **TabStop** object to the left of Position.
 
 
 ## Syntax

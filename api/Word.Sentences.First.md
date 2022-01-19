@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sentences.First property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the first sentence in a collection of sentences within a document, range, or selection.
+Returns a **[Range](Word.Range.md)** object that represents the first sentence in a collection of sentences within a document, range, or selection.
 
 
 ## Syntax

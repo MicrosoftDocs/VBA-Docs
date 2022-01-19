@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.FontBold property (Word)
 
-Sets the font to bold for the specified Word Art shape. Read/write  **MsoTriState**.
+Sets the font to bold for the specified Word Art shape. Read/write **MsoTriState**.
 
 
 ## Syntax

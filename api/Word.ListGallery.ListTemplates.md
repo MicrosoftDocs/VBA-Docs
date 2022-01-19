@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListGallery.ListTemplates property (Word)
 
-Returns a  **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
+Returns a **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.CurrentGroup property (Project)
 
-Gets the name of the active group for the active project. Read-only  **String**.
+Gets the name of the active group for the active project. Read-only **String**.
 
 
 ## Syntax

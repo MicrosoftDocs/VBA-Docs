@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SpellingSuggestions.Count property (Word)
 
-Returns a  **Long** that represents the number of spelling suggestions in the collection. Read-only.
+Returns a **Long** that represents the number of spelling suggestions in the collection. Read-only.
 
 
 ## Syntax

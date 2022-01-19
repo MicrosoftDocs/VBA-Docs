@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultTrayID property (Word)
 
-Returns or sets the default tray your printer uses to print documents. Read/write  **WdPaperTray**.
+Returns or sets the default tray your printer uses to print documents. Read/write **WdPaperTray**.
 
 
 ## Syntax

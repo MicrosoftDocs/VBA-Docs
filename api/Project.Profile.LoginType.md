@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Profile.LoginType property (Project)
 
-Gets or sets the login type for an account profile in Project Professional. Read/write  **[PjLoginType](Project.PjLoginType.md)**.
+Gets or sets the login type for an account profile in Project Professional. Read/write **[PjLoginType](Project.PjLoginType.md)**.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ResourceGroups2 object (Project)
 
-Represents all of the resource-based group definitions, where group hierarchy can be maintained.  **ResourceGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
+Represents all of the resource-based group definitions, where group hierarchy can be maintained. **ResourceGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  
 
 

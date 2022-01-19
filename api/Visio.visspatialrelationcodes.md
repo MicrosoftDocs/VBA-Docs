@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSpatialRelationCodes enumeration (Visio)
 
-Codes for spatial relationships between shapes to be passed to the  **Shape.SpatialRelation** property.
+Codes for spatial relationships between shapes to be passed to the **Shape.SpatialRelation** property.
 
 
 ## Remarks

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ReadabilityStatistics object (Word)
 
-A collection of  **[ReadabilityStatistic](Word.ReadabilityStatistic.md)** objects for a document or range.
+A collection of **[ReadabilityStatistic](Word.ReadabilityStatistic.md)** objects for a document or range.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ For Each rs in Selection.Range.ReadabilityStatistics
 Next rs
 ```
 
-Use  **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
+Use **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the word count for the active document.
 
 
 

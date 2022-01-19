@@ -81,7 +81,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 Using the **FilePageSetupLegendEx** method without specifying any arguments displays the **Page Setup** dialog box with the **Legend** tab selected.
 
-**Note**   **FilePageSetupLegendEx** works only with views of task data.
+**Note**  **FilePageSetupLegendEx** works only with views of task data.
 
 
 ## Example

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Styles object (Word)
 
-A collection of  **Style** objects that represent both the built-in and user-defined styles in a document.
+A collection of **Style** objects that represent both the built-in and user-defined styles in a document.
 
 
 ## Remarks
@@ -43,7 +43,7 @@ End With
 Selection.Range.Style = "Introduction"
 ```
 
-Use  **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **[Style](Word.Style.md)** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font of the user-defined style named "Color" in the active document.
+Use **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **[Style](Word.Style.md)** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font of the user-defined style named "Color" in the active document.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.InformationDialog method (Project)
 
-Displays the **Assignment Information**,  **Resource Information**, or  **Task Information** dialog box for the selected assignment, resource, or task.
+Displays the **Assignment Information**, **Resource Information**, or **Task Information** dialog box for the selected assignment, resource, or task.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Tab_|Optional|**Long**|The tab to display in the **Assignment Information**, **Resource Information**, or  **Task Information** dialog box.|
+| _Tab_|Optional|**Long**|The tab to display in the **Assignment Information**, **Resource Information**, or **Task Information** dialog box.|
 
 ## Return value
 
@@ -39,12 +39,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If multiple items are selected, the **InformationDialog** method displays the **Multiple Assignment Information**,  **Multiple Resource Information**, or  **Multiple Task Information** dialog box.
+If multiple items are selected, the **InformationDialog** method displays the **Multiple Assignment Information**, **Multiple Resource Information**, or **Multiple Task Information** dialog box.
 
-If an assignment is selected, Tab can be one of the following  **PjInformationTab** constants: **pjAssignmentGeneralTab**, **pjAssignmentTrackingTab**, or **pjAssignmentNotesTab**.
+If an assignment is selected, Tab can be one of the following **PjInformationTab** constants: **pjAssignmentGeneralTab**, **pjAssignmentTrackingTab**, or **pjAssignmentNotesTab**.
 
-If a resource is selected, Tab can be one of the following  **PjInformationTab** constants: **pjResourceGeneralTab**, **pjResourceWorkingTimeTab**, **pjResourceCostsTab**, or **pjResourceNotesTab**.
+If a resource is selected, Tab can be one of the following **PjInformationTab** constants: **pjResourceGeneralTab**, **pjResourceWorkingTimeTab**, **pjResourceCostsTab**, or **pjResourceNotesTab**.
 
-If a task is selected, Tab can be one of the following  **PjInformationTab** constants: **pjTaskGeneralTab**, **pjTaskPredecessorsTab**, **pjTaskResourcesTab**, **pjTaskAdvancedTab**, or **pjTaskNotesTab**.
+If a task is selected, Tab can be one of the following **PjInformationTab** constants: **pjTaskGeneralTab**, **pjTaskPredecessorsTab**, **pjTaskResourcesTab**, **pjTaskAdvancedTab**, or **pjTaskNotesTab**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Forward event (Outlook)
 
-Occurs when the user selects the  **Forward** action for an item, or when the **[Forward](Outlook.SharingItem.Forward(method).md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **Forward** action for an item, or when the **[Forward](Outlook.SharingItem.Forward(method).md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax

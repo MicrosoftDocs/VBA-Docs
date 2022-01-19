@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabels.NumberFormat property (Word)
 
-Returns or sets the format code for the object. Read/write  **String**.
+Returns or sets the format code for the object. Read/write **String**.
 
 
 ## Syntax

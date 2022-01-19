@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.RecentFiles property (Word)
 
-Returns a  **RecentFiles** collection that represents the most recently accessed files.
+Returns a **RecentFiles** collection that represents the most recently accessed files.
 
 
 ## Syntax

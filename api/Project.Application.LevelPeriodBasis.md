@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.LevelPeriodBasis property (Project)
 
-Gets or sets the period by which resources are checked for overallocations. Read/write  **PjLevelPeriodBasis**.
+Gets or sets the period by which resources are checked for overallocations. Read/write **PjLevelPeriodBasis**.
 
 
 ## Syntax

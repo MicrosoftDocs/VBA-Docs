@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Pane.View method (Project)
 
-Returns the active  **View** object.
+Returns the active **View** object.
 
 
 ## Syntax

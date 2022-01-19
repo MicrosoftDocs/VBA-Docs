@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.ClearHitHighlight method (Word)
 
-Removes the highlighting for all text located in a hit highlighting find operation, and returns a  **Boolean** that represents whether the operation was successful.
+Removes the highlighting for all text located in a hit highlighting find operation, and returns a **Boolean** that represents whether the operation was successful.
 
 
 ## Syntax

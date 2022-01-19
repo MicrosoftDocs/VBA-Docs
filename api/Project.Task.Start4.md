@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Start4 property (Project)
 
-Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

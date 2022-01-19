@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLMapping.CustomXMLPart property (Word)
 
-Returns a  **CustomXMLPart** object that represents the custom XML part to which the content control in the document maps.
+Returns a **CustomXMLPart** object that represents the custom XML part to which the content control in the document maps.
 
 
 ## Syntax

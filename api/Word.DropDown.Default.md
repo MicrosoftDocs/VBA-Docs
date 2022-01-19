@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DropDown.Default property (Word)
 
-Returns or sets a  **Long** that represents the default drop-down item. Read/write.
+Returns or sets a **Long** that represents the default drop-down item. Read/write.
 
 
 ## Syntax

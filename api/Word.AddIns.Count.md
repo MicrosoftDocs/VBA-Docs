@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddIns.Count property (Word)
 
-Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** collection. Read-only **Long**.
+Returns the number of **[AddIn](Word.AddIn.md)** objects in the **AddIns** collection. Read-only **Long**.
 
 
 ## Syntax

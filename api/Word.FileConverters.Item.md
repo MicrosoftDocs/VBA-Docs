@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverters.Item method (Word)
 
-Returns an individual  **FileConverter** object in a collection.
+Returns an individual **FileConverter** object in a collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[FileConverters](Word.filec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
+| _Index_|Required| **Variant**|The individual object to be returned. Can be a **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
 ## Return value
 

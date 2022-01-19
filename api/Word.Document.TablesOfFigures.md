@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.TablesOfFigures property (Word)
 
-Returns a  **[TablesOfFigures](Word.Document.TablesOfFigures.md)** collection that represents the tables of figures in the specified document. Read-only.
+Returns a **[TablesOfFigures](Word.Document.TablesOfFigures.md)** collection that represents the tables of figures in the specified document. Read-only.
 
 
 ## Syntax

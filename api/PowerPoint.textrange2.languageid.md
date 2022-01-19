@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TextRange2.LanguageID property (PowerPoint)
 
-Gets or sets the  **MsoLanguageID** value of the **TextRange2** object. Read/write.
+Gets or sets the **MsoLanguageID** value of the **TextRange2** object. Read/write.
 
 
 ## Syntax

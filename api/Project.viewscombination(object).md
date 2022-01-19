@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewsCombination object (Project)
 
-Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** objects.
+Contains a collection of **[ViewCombination](Project.ViewCombination.md)** objects.
  
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Shadow property (Word)
 
-Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape. Read-only.
+Returns a **ShadowFormat** object that represents the shadow formatting for the specified shape. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathEqArray.RowSpacingRule property (Word)
 
-Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that represents the rule that defines spacing in an equation array. Read/write.
+Returns or sets a **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that represents the rule that defines spacing in an equation array. Read/write.
 
 
 ## Syntax

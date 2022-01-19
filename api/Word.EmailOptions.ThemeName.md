@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailOptions.ThemeName property (Word)
 
-Returns or sets the name of the theme plus any theme formatting options to use for new email messages. Read/write  **String**.
+Returns or sets the name of the theme plus any theme formatting options to use for new email messages. Read/write **String**.
 
 
 ## Syntax

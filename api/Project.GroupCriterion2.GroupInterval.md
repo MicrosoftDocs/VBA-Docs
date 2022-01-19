@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.GroupInterval property (Project)
 
-Gets or sets the interval for a field used as a criterion in a group definition. Read/write  **Variant**.
+Gets or sets the interval for a field used as a criterion in a group definition. Read/write **Variant**.
 
 
 ## Syntax

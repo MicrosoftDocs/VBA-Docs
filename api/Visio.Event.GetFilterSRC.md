@@ -31,9 +31,9 @@ Integer()
 
 ## Remarks
 
-The event filters described in the array returned by the  **GetFilterSRC** method provide developers a way of ignoring specified events based on object type. The array returned is that passed to the **SetFilterSRC** method for this **Event** object.
+The event filters described in the array returned by the **GetFilterSRC** method provide developers a way of ignoring specified events based on object type. The array returned is that passed to the **SetFilterSRC** method for this **Event** object.
 
-The array that is returned by the  **GetFilterSRC** method can be interpreted in the following manner.
+The array that is returned by the **GetFilterSRC** method can be interpreted in the following manner.
 
 The number of elements in the array is a multiple of 7. These seven elements contain the following values:
 
@@ -65,6 +65,6 @@ For an event to successfully pass through a cell range filter, it must satisfy t
 
 If there are no **True** ranges defined in the array, events are considered **True**.
 
-For details about using command IDs to define event filters, see the  **SetFilterSRC** method.
+For details about using command IDs to define event filters, see the **SetFilterSRC** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

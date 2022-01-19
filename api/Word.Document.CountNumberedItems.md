@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.CountNumberedItems method (Word)
 
-Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **Document** object.
+Returns the number of bulleted or numbered items and LISTNUM fields in the specified **Document** object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ _expression_. `CountNumberedItems`( `_NumberType_` , `_Level_` )
 
 ## Remarks
 
-Bulleted items are counted when either  **wdNumberParagraph** or **wdNumberAllNumbers** (the default) is specified for NumberType.
+Bulleted items are counted when either **wdNumberParagraph** or **wdNumberAllNumbers** (the default) is specified for NumberType.
 
 There are two types of numbers: preset numbers (**wdNumberParagraph**), which you can add to paragraphs by selecting a template in the **Bullets and Numbering** dialog box; and LISTNUM fields (**wdNumberListNum**), which allow you to add more than one number per paragraph.
 

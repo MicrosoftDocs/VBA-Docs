@@ -31,11 +31,11 @@ MsoTriState
 
 ## Remarks
 
-Setting this property to  **msoTrue** sets the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property of the **AnimationSettings** object to **msoTrue**. Setting the **Animate** property to **msoFalse** automatically sets the **PlayOnEntry** property to **msoFalse**.
+Setting this property to **msoTrue** sets the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property of the **AnimationSettings** object to **msoTrue**. Setting the **Animate** property to **msoFalse** automatically sets the **PlayOnEntry** property to **msoFalse**.
 
-Use the  **[ActionVerb](PowerPoint.ActionSetting.ActionVerb.md)** property to set the verb that will be invoked when the media clip is animated.
+Use the **[ActionVerb](PowerPoint.ActionSetting.ActionVerb.md)** property to set the verb that will be invoked when the media clip is animated.
 
-The value of the  **PlayOnEntry** property can be one of these **MsoTriState** constants.
+The value of the **PlayOnEntry** property can be one of these **MsoTriState** constants.
 
 
 

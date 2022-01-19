@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.BeforeFolderSharingDialog event (Outlook)
 
-Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder](Outlook.Folder.md)** object.
+Occurs before the **Sharing** dialog box is displayed for a selected **[Folder](Outlook.Folder.md)** object.
 
 
 ## Syntax

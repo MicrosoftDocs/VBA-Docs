@@ -31,7 +31,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new object.|
-| _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the  **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection at where the new object is to be inserted.|
+| _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection at where the new object is to be inserted.|
 
 ## Return value
 
@@ -42,7 +42,7 @@ An **AutoFormatRule** object that represents the new formatting rule.
 
 This method cannot be used to insert custom formatting rules between or ahead of built-in formatting rules.
 
-Duplicate names for  **AutoFormatRule** objects are allowed in the **AutoFormatRules** collection. A maximum of 25 custom formatting rules can be added to the collection. Built-in formatting rules are not counted against that limit.
+Duplicate names for **AutoFormatRule** objects are allowed in the **AutoFormatRules** collection. A maximum of 25 custom formatting rules can be added to the collection. Built-in formatting rules are not counted against that limit.
 
 
 ## See also

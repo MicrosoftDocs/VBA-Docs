@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.CostPerUse property (Project)
 
-Gets or sets the cost per use of a resource. Read/write  **Variant**.
+Gets or sets the cost per use of a resource. Read/write **Variant**.
 
 
 ## Syntax

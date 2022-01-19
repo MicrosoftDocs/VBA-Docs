@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Bookmarks property (Word)
 
-Returns a  **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document, range, or selection. Read-only.
+Returns a **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document, range, or selection. Read-only.
 
 
 ## Syntax

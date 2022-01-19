@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.FarEastLineBreakLevel property (Word)
 
-Returns or sets the line break control level for the specified document. Read/write  **WdFarEastLineBreakLevel**.
+Returns or sets the line break control level for the specified document. Read/write **WdFarEastLineBreakLevel**.
 
 
 ## Syntax

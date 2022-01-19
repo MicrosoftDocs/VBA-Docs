@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Remarks
 
-This property supports both Exchange and non-Exchange stores. If the store is not a .pst or .ost store,  **FilePath** returns an empty string.
+This property supports both Exchange and non-Exchange stores. If the store is not a .pst or .ost store, **FilePath** returns an empty string.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.PasswordEncryptionProvider property (Word)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax

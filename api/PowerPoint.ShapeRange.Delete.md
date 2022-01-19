@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Delete method (PowerPoint)
 
-Deletes the specified  **ShapeRange** object.
+Deletes the specified **ShapeRange** object.
 
 
 ## Syntax

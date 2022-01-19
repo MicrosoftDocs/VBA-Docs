@@ -31,7 +31,7 @@ The return type depends on the shortcut type. If the shortcut represents an Outl
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example steps through the shortcuts in the first  **Shortcuts** pane group. It counts the number of shortcuts that are Outlook folders and displays the count.
+This Microsoft Visual Basic for Applications (VBA) example steps through the shortcuts in the first **Shortcuts** pane group. It counts the number of shortcuts that are Outlook folders and displays the count.
 
 
 ```vb

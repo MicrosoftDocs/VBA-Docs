@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.CurrencyDigits property (Project)
 
-Sets or returns the number of digits following the decimal separator character in currency values. Read/write  **Integer**.
+Sets or returns the number of digits following the decimal separator character in currency values. Read/write **Integer**.
 
 
 ## Syntax

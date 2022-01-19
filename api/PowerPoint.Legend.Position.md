@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Legend.Position property (PowerPoint)
 
-Returns or sets the position of the legend on the chart. Read/write  **[XlLegendPosition](PowerPoint.XlLegendPosition.md)**.
+Returns or sets the position of the legend on the chart. Read/write **[XlLegendPosition](PowerPoint.XlLegendPosition.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Remarks
 
-A message is always created and submitted in a folder, usually the  **Outbox**. 
+A message is always created and submitted in a folder, usually the **Outbox**. 
 
 
 ## See also

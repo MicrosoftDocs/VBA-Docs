@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.PreleveledStart property (Project)
 
-Gets the start date of a task before leveling occurred. Read-only  **Variant**.
+Gets the start date of a task before leveling occurred. Read-only **Variant**.
 
 
 ## Syntax

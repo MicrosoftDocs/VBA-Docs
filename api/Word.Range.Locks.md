@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Locks property (Word)
 
-Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection object that represents all the locks in the range. Read-only.
+Returns a **[CoAuthLocks](Word.CoAuthLocks.md)** collection object that represents all the locks in the range. Read-only.
 
 
 ## Syntax

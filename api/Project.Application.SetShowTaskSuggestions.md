@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SetShowTaskSuggestions method (Project)
 
-Sets the global  **Show Suggestions** option for tasks.
+Sets the global **Show Suggestions** option for tasks.
 
 
 ## Syntax

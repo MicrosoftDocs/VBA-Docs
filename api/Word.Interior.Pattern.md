@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Interior.Pattern property (Word)
 
-Returns or sets a  **Variant** value, containing an **[XlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
+Returns or sets a **Variant** value, containing an **[XlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax

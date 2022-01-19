@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.BaselineDurationText property (Project)
 
-Gets or sets a string representation of the baseline duration of a task. Read/write  **String**.
+Gets or sets a string representation of the baseline duration of a task. Read/write **String**.
 
 
 ## Syntax

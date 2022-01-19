@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.DefaultDateFormat property (Project)
 
-Gets or sets the default date format. Read/write  **PjDateFormat**.
+Gets or sets the default date format. Read/write **PjDateFormat**.
 
 
 ## Syntax

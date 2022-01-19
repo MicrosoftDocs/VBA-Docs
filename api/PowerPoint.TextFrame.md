@@ -19,7 +19,7 @@ Represents the text frame in a **Shape** object. Contains the text in the text f
 
 ## Example
 
-Use the  **TextFrame** property to return a **TextFrame** object. The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame.
+Use the **TextFrame** property to return a **TextFrame** object. The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame.
 
 
 ```vb

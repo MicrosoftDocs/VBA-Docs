@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ApplicationSettings.ShowShapeSearchPane property (Visio)
 
-Gets or sets whether the  **Shape Search** pane is visible in the Microsoft Visio user interface (UI). Read/write.
+Gets or sets whether the **Shape Search** pane is visible in the Microsoft Visio user interface (UI). Read/write.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The setting of the  **ShowShapeSearchPage** property corresponds to the setting of the **Show Shape Search pane** checkbox under **Shape search** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+The setting of the **ShowShapeSearchPage** property corresponds to the setting of the **Show Shape Search pane** checkbox under **Shape search** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

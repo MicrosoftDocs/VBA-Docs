@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OriginalDocumentTitle property (Word)
 
-Returns a  **String** that represents the document title for the original document after running a legal-blackline document compare function. Read-only.
+Returns a **String** that represents the document title for the original document after running a legal-blackline document compare function. Read-only.
 
 
 ## Syntax

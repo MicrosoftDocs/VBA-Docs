@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStops.Item method (PowerPoint)
 
-Returns a single tab stop from the specified  **TabStops** collection.
+Returns a single tab stop from the specified **TabStops** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [TabStops](PowerPoint.TabStops.md) obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **TabStop** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **TabStop** object in the collection to be returned.|
 
 ## Return value
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # StartDriver.Warnings property (Project)
 
-Gets a combination of  **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
+Gets a combination of **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_. `Warnings`
 
 ## Remarks
 
-If there are no warnings for a task, the value of  **Warnings** is 0. Because the value of **pjTaskWarningResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningResourceOverallocated** is 128, if **Warnings** is 192, the task has both of the problems.
+If there are no warnings for a task, the value of **Warnings** is 0. Because the value of **pjTaskWarningResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningResourceOverallocated** is 128, if **Warnings** is 192, the task has both of the problems.
 
 
 > [!NOTE] 

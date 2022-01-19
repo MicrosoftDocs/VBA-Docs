@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.AttentionLine property (Word)
 
-Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write  **String**.
+Returns or sets the attention line text for a letter created by the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

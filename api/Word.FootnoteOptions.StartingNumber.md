@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FootnoteOptions.StartingNumber property (Word)
 
-Returns or sets the starting footnote number. Read/write  **Long**.
+Returns or sets the starting footnote number. Read/write **Long**.
 
 
 ## Syntax

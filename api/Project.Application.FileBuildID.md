@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.FileBuildID property (Project)
 
-Gets the file build identification number (ID) of the specified project. The build ID consists of the version and build of the Project application that created the file. Read-only  **String**.
+Gets the file build identification number (ID) of the specified project. The build ID consists of the version and build of the Project application that created the file. Read-only **String**.
 
 
 ## Syntax

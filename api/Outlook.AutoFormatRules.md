@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # AutoFormatRules object (Outlook)
 
-Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in a view.
+Represents the collection of **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in a view.
 
 
 ## Remarks
 
-Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](Outlook.View.md)** object:
+Use the **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
 - **[BusinessCardView](Outlook.businessCardView.md)**
@@ -39,7 +39,7 @@ Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outl
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **AutoFormatRules** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
+The following Visual Basic for Applications (VBA) example enumerates the **AutoFormatRules** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
 ```vb

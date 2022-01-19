@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row.Parent property (Outlook)
 
-Returns the parent object of the  **[Row](Outlook.Row.md)** object. Read-only.
+Returns the parent object of the **[Row](Outlook.Row.md)** object. Read-only.
 
 
 ## Syntax

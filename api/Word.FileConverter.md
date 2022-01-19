@@ -19,7 +19,7 @@ Represents a file converter that's used to open or save files. The **FileConvert
 
 ## Remarks
 
-Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **FileConverter** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
+Use **FileConverters** (Index), where Index is a class name or index number, to return a single **FileConverter** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
 
 
 ```vb

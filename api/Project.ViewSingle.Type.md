@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ViewSingle.Type property (Project)
 
-Gets the type of item in the single view, such as tasks or resources. Read-only  **PjItemType**.
+Gets the type of item in the single view, such as tasks or resources. Read-only **PjItemType**.
 
 
 ## Syntax

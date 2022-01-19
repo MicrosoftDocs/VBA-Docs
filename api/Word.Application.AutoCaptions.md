@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AutoCaptions property (Word)
 
-Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
+Returns an **[AutoCaptions](Word.autocaptions.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
 
 
 ## Syntax

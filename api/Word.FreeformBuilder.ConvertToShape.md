@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FreeformBuilder.ConvertToShape method (Word)
 
-Creates a shape that has the geometric characteristics of the specified object. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified object. Returns a **[Shape](Word.Shape.md)** object that represents the new shape.
 
 
 ## Syntax

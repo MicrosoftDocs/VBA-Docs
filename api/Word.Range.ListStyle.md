@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ListStyle property (Word)
 
-Returns a  **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
+Returns a **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
 
 
 ## Syntax

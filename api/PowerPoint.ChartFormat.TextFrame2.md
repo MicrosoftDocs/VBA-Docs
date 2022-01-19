@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.TextFrame2 property (PowerPoint)
 
-Returns the text formatting for the specified chart element. Read-only  **[TextFrame2](PowerPoint.TextFrame2.md)**.
+Returns the text formatting for the specified chart element. Read-only **[TextFrame2](PowerPoint.TextFrame2.md)**.
 
 
 ## Syntax

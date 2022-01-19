@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultStartTime property (Project)
 
-Gets or sets the default start time for the project. Read/write  **Variant**.
+Gets or sets the default start time for the project. Read/write **Variant**.
 
 
 ## Syntax

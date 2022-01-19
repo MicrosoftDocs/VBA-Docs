@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.CalloutsAssociated property (Visio)
 
-Returns an array of  **Long** values that represent the collection of identifiers for all of the callout shapes that are associated with the target shape by a callout relationship. Read-only.
+Returns an array of **Long** values that represent the collection of identifiers for all of the callout shapes that are associated with the target shape by a callout relationship. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-If there are no callouts associated with the target shape, the  **CalloutsAssociated** property returns an empty array.
+If there are no callouts associated with the target shape, the **CalloutsAssociated** property returns an empty array.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

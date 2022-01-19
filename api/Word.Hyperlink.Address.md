@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.Address property (Word)
 
-Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write  **String**.
+Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write **String**.
 
 
 ## Syntax

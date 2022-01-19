@@ -31,7 +31,7 @@ To optimize a single document for Word 97, use the **[OptimizeForWord97](Word.Do
 
 ## Example
 
-This example sets Word to disable all formatting in new documents that's incompatible with Word 97, and then it creates a new document whose  **OptimizeForWord97** property is automatically set to True.
+This example sets Word to disable all formatting in new documents that's incompatible with Word 97, and then it creates a new document whose **OptimizeForWord97** property is automatically set to True.
 
 
 ```vb

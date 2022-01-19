@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivisions.Add method (Word)
 
-Returns an  **HTMLDivision** object that represents a new HTML division added to a web document.
+Returns an **HTMLDivision** object that represents a new HTML division added to a web document.
 
 
 ## Syntax

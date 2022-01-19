@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.WrapFormat property (Word)
 
-Returns a  **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
+Returns a **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConversationHeader.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ConversationHeader](Outlook.Conversa
 
 ## Remarks
 
-The parent of the  **ConversationHeader** object returns a **[Selection](Outlook.Selection.md)** object.
+The parent of the **ConversationHeader** object returns a **[Selection](Outlook.Selection.md)** object.
 
  The returned **Selection** object contains only **[ConversationHeader](Outlook.ConversationHeader.md)** objects. Getting the **Parent** property is equivalent to calling the **[Selection.GetSelection](Outlook.Selection.GetSelection.md)** method with the **olConversationHeaders** argument.
 

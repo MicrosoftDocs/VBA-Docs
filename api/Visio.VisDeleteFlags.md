@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisDeleteFlags enumeration (Visio)
 
-Specifies constants that define particular sets of instruction to apply to a deletion; passed to the  **[Selection.DeleteEx](Visio.Selection.DeleteEx.md)** and **[Shape.DeleteEx](Visio.Shape.DeleteEx.md)** methods.
+Specifies constants that define particular sets of instruction to apply to a deletion; passed to the **[Selection.DeleteEx](Visio.Selection.DeleteEx.md)** and **[Shape.DeleteEx](Visio.Shape.DeleteEx.md)** methods.
 
 
 

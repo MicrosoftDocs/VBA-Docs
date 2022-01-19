@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddNextIf method (Word)
 
-Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a NEXTIF field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

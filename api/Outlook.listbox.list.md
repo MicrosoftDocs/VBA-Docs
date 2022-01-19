@@ -14,7 +14,7 @@ Returns or sets a **Variant** that represents the specified entry in a **[ListBo
 
 ## Syntax
 
-_expression_.**List**(**_pvargIndex_**,  **_pvargColumn_**)
+_expression_.**List**(**_pvargIndex_**, **_pvargColumn_**)
 
 _expression_ A variable that represents a **ListBox** object.
 
@@ -36,8 +36,8 @@ The **List** property works with the **[ListCount](Outlook.listbox.listcount.md)
 
 Initially, a **ListBox** contains an empty list.
 
-To specify items you want to display in a **ListBox**, use the  **[AddItem](Outlook.listbox.additem.md)** method. To remove items, use the **[RemoveItem](Outlook.listbox.removeitem.md)** method.
+To specify items you want to display in a **ListBox**, use the **[AddItem](Outlook.listbox.additem.md)** method. To remove items, use the **[RemoveItem](Outlook.listbox.removeitem.md)** method.
 
-Use  **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
+Use **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

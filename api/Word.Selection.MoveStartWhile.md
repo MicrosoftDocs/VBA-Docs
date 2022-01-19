@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-While any character in Cset is found, the start position of the selection is moved. This method returns the number of characters that the start position of the selection moved as a  **Long** value. If not Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a position beyond the original end position, the end position is set to the new start position.
+While any character in Cset is found, the start position of the selection is moved. This method returns the number of characters that the start position of the selection moved as a **Long** value. If not Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a position beyond the original end position, the end position is set to the new start position.
 
 
 ## Example

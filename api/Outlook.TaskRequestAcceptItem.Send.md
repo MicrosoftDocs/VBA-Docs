@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskRequestAcceptItem.Send event (Outlook)
 
-Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
+Occurs when the user selects the **Send** action for an item (which is an instance of the parent object).
 
 
 ## Syntax
@@ -36,7 +36,7 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Send** event and sends an item with an automatic expiration date. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook.
+This Visual Basic for Applications (VBA) example uses the **Send** event and sends an item with an automatic expiration date. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

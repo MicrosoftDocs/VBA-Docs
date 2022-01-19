@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Months.Item property (Project)
 
-Gets a single  **Month** object from the **Months** collection. Read-only **Month**.
+Gets a single **Month** object from the **Months** collection. Read-only **Month**.
 
 
 ## Syntax

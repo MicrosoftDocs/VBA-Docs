@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Spacing property (Word)
 
-Returns or sets the spacing (in points) between characters. Read/write  **Single**.
+Returns or sets the spacing (in points) between characters. Read/write **Single**.
 
 
 ## Syntax

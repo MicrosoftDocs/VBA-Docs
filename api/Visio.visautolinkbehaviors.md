@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisAutoLinkBehaviors enumeration (Visio)
 
-Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** method.
+Linking behavior constants passed to the **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** method.
 
 
 > [!NOTE] 

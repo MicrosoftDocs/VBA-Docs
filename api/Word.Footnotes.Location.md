@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.Location property (Word)
 
-Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation**.
+Returns or sets the position of all footnotes. Read/write **WdFootnoteLocation**.
 
 
 ## Syntax

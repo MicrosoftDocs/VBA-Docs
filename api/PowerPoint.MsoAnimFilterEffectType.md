@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # MsoAnimFilterEffectType enumeration (PowerPoint)
 
-Constants that specify the type of animation filter effect, passed to and returned by the  **Type** property of the **FilterEffect** object.
+Constants that specify the type of animation filter effect, passed to and returned by the **Type** property of the **FilterEffect** object.
 
 
 

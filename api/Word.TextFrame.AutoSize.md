@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.AutoSize property (Word)
 
-Returns or sets a  **Long** that represents whether a text frame is sized automatically. Read/write.
+Returns or sets a **Long** that represents whether a text frame is sized automatically. Read/write.
 
 
 ## Syntax

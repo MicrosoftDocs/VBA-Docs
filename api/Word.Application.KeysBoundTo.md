@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.KeysBoundTo property (Word)
 
-Returns a  **[KeysBoundTo](Word.keysboundto.md)** object that represents all the key combinations assigned to the specified item.
+Returns a **[KeysBoundTo](Word.keysboundto.md)** object that represents all the key combinations assigned to the specified item.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.Orientation property (Word)
 
-Returns or sets the orientation of the page. Read/write  **[WdOrientation](Word.WdOrientation.md)**.
+Returns or sets the orientation of the page. Read/write **[WdOrientation](Word.WdOrientation.md)**.
 
 
 ## Syntax

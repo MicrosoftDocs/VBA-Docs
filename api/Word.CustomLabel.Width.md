@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.Width property (Word)
 
-Returns or sets the width of a custom mailing label, in points. Read/write  **Long**.
+Returns or sets the width of a custom mailing label, in points. Read/write **Long**.
 
 
 ## Syntax

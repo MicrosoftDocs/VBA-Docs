@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathNary.Grow property (Word)
 
-Returns or sets a  **Boolean** that represents whether n-ary operators grow to the full height of the arguments that they contain. Read/write.
+Returns or sets a **Boolean** that represents whether n-ary operators grow to the full height of the arguments that they contain. Read/write.
 
 
 ## Syntax

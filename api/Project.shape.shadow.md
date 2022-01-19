@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Shadow property (Project)
-Gets or sets the shadow formatting properties for the shape. Read-only  **[ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)**.
+Gets or sets the shadow formatting properties for the shape. Read-only **[ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)**.
 
 ## Syntax
 

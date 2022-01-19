@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.GroupItems property (Word)
 
-Returns a  **[GroupShapes](Word.groupshapes.md)** collection that represents the shapes that are grouped together for an inline shape. Read-only.
+Returns a **[GroupShapes](Word.groupshapes.md)** collection that represents the shapes that are grouped together for an inline shape. Read-only.
 
 
 ## Syntax

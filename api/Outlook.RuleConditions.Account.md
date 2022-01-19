@@ -26,9 +26,9 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Remarks
 
-Use the returned  **AccountRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that a message is sent or received through the specified account.
+Use the returned **AccountRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that a message is sent or received through the specified account.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns an **AccountRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[AccountRuleCondition.Enabled](Outlook.AccountRuleCondition.Enabled.md)** will be **True**.
+This property of the **[RuleConditions](Outlook.RuleConditions.md)** collection always returns an **AccountRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[AccountRuleCondition.Enabled](Outlook.AccountRuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

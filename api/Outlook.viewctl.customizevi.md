@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.CustomizeView Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **View Summary** dialog box.
+Displays the Microsoft Outlook **View Summary** dialog box.
 
 
 ## Syntax

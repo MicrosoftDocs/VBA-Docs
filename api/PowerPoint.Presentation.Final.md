@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-The setting of the  **Final** property corresponds to the status of the **Mark As Final** command in the PowerPoint user interface (click the **Office** button, and then point to **Prepare**). 
+The setting of the **Final** property corresponds to the status of the **Mark As Final** command in the PowerPoint user interface (click the **Office** button, and then point to **Prepare**). 
 
 Marking a presentation as final makes the presentation read-only and prevents changes to the presentation. When a presentation is marked as final, typing, editing commands, and proofing marks are disabled or turned off and the presentation becomes read-only.
 

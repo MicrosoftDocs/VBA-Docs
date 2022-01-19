@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Availabilities.Item property (Project)
 
-Gets a single  **Availability** object from the **Availabilities** collection. Read-only **Availability**.
+Gets a single **Availability** object from the **Availabilities** collection. Read-only **Availability**.
 
 
 ## Syntax

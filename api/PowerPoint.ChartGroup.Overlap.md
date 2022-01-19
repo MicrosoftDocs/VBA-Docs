@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.Overlap property (PowerPoint)
 
-Specifies how bars and columns are positioned. Read/write  **Long**.
+Specifies how bars and columns are positioned. Read/write **Long**.
 
 
 ## Syntax

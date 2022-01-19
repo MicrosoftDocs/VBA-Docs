@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetCamera property (Word)
 
-Returns an  **MsoPresetCamera** constant that represents the camera presets. Read-only.
+Returns an **MsoPresetCamera** constant that represents the camera presets. Read-only.
 
 
 ## Syntax

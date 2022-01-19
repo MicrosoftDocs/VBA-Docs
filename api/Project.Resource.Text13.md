@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Text13 property (Project)
 
-Gets or sets the value of a local Text custom field for the resource. Read/write  **String**.
+Gets or sets the value of a local Text custom field for the resource. Read/write **String**.
 
 
 ## Syntax

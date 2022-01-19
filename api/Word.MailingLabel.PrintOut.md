@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[MailingLabel](Word.Mailing
 | _Name_|Optional| **Variant**|The mailing label name.|
 | _Address_|Optional| **Variant**|The text for the label address.|
 | _ExtractAddress_|Optional| **Variant**| **True** to use the text marked by the "EnvelopeAddress" bookmark (a user-defined bookmark) as the label text. If this argument is specified, Address and AutoText are ignored.|
-| _LaserTray_|Optional| **Variant**|The laser printer tray to be used. Can be any  **WdPaperTray** constant.|
+| _LaserTray_|Optional| **Variant**|The laser printer tray to be used. Can be any **WdPaperTray** constant.|
 | _SingleLabel_|Optional| **Variant**| **True** to print a single label; **False** to print an entire page of the same label.|
 | _Row_|Optional| **Variant**|The label row for a single label. Not valid if SingleLabel is **False**.|
 | _Column_|Optional| **Variant**|The label column for a single label. Not valid if SingleLabel is **False**.|

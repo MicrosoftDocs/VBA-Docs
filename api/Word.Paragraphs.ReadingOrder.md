@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.ReadingOrder property (Word)
 
-Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write  **WdReadingOrder**.
+Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write **WdReadingOrder**.
 
 
 ## Syntax

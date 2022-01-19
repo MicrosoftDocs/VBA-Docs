@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.OvertimeCost property (Project)
 
-Gets the overtime cost for a task. Read-only  **Variant**.
+Gets the overtime cost for a task. Read-only **Variant**.
 
 
 ## Syntax

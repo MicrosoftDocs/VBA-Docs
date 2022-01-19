@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlPermissionService enumeration (Outlook)
 
-Specifies the permission service used when sending an Information Rights Management (IRM) protected  **MailItem** object.
+Specifies the permission service used when sending an Information Rights Management (IRM) protected **MailItem** object.
 
 
 

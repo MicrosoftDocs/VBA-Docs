@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.LastSaveDate property (Project)
 
-Gets the date a project was last saved. Read-only  **Variant**.
+Gets the date a project was last saved. Read-only **Variant**.
 
 
 ## Syntax

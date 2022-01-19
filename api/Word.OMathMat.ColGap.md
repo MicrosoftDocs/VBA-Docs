@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.ColGap property (Word)
 
-Returns or sets a  **Long** that represents the spacing between columns in a matrix. Read/write.
+Returns or sets a **Long** that represents the spacing between columns in a matrix. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Conflicts.Item method (Word)
 
-Returns an individual  **Conflicts** object in a collection.
+Returns an individual **Conflicts** object in a collection.
 
 
 ## Syntax

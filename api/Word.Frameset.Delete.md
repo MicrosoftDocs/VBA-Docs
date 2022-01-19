@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frameset.Delete method (Word)
 
-Deletes the specified  **Frameset** object.
+Deletes the specified **Frameset** object.
 
 
 ## Syntax

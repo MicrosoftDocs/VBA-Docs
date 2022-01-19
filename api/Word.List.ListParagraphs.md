@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # List.ListParagraphs property (Word)
 
-Returns a  **[ListParagraphs](Word.listparagraphs.md)** collection that represents all the numbered paragraphs in the list, document, or range. Read-only.
+Returns a **[ListParagraphs](Word.listparagraphs.md)** collection that represents all the numbered paragraphs in the list, document, or range. Read-only.
 
 
 ## Syntax

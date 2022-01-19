@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.Condition method (Word)
 
-Returns a  **[ConditionalStyle](Word.ConditionalStyle.md)** object that represents special style formatting for a portion of a table.
+Returns a **[ConditionalStyle](Word.ConditionalStyle.md)** object that represents special style formatting for a portion of a table.
 
 
 ## Syntax

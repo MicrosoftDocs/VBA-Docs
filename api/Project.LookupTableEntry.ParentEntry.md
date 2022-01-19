@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LookupTableEntry.ParentEntry property (Project)
 
-Gets the parent lookup table entry in a hierarchical lookup table. Read-only  **LookupTableEntry**.
+Gets the parent lookup table entry in a hierarchical lookup table. Read-only **LookupTableEntry**.
 
 
 ## Syntax

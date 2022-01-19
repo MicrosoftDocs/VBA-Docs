@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.AddressEntryUserType property (Outlook)
 
-Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
+Returns **olExchangeUserAddressEntry** which is a constant from the **[OlAddressEntryUserType](Outlook.OlAddressEntryUserType.md)** enumeration representing the user type of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax

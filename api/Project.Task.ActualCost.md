@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ActualCost property (Project)
 
-Gets or sets the actual cost for the task. Read/write  **Variant**.
+Gets or sets the actual cost for the task. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultTray property (Word)
 
-Returns or sets the default tray your printer uses to print documents. Read/write  **String**.
+Returns or sets the default tray your printer uses to print documents. Read/write **String**.
 
 
 ## Syntax

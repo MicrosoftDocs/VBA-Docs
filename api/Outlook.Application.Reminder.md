@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays the item that fired the  **Reminder** event when the event fires. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example displays the item that fired the **Reminder** event when the event fires. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Descr property (Word)
 
-Returns or sets a  **String** that contains a description for the specified table. Read/write.
+Returns or sets a **String** that contains a description for the specified table. Read/write.
 
 
 ## Syntax

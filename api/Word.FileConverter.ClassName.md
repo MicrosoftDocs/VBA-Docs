@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.ClassName property (Word)
 
-Returns a unique name that identifies the file converter. Read-only  **String**.
+Returns a unique name that identifies the file converter. Read-only **String**.
 
 
 ## Syntax

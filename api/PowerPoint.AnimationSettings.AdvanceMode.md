@@ -26,9 +26,9 @@ _expression_ A variable that represents an [AnimationSettings](PowerPoint.Animat
 
 ## Remarks
 
-If your shape doesn't become animated, make sure that the  **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property is set to a value other than **ppAnimateLevelNone** and that the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **True**.
+If your shape doesn't become animated, make sure that the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property is set to a value other than **ppAnimateLevelNone** and that the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **True**.
 
-The value of the  **AdvanceMode** property can be one of these **PpAdvanceMode** constants.
+The value of the **AdvanceMode** property can be one of these **PpAdvanceMode** constants.
 
 
 ||

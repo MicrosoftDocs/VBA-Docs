@@ -39,7 +39,7 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Example
 
-This example shows how to delete  **Shape** objects.
+This example shows how to delete **Shape** objects.
 
 
 ```vb

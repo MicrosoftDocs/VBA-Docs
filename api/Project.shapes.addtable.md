@@ -44,7 +44,7 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
 ## Remarks
 
-Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates a table. When a table is created, it has one row and one column, which contains the text **Use the Table Data taskpane to build a table** (see Figure 1). When you select the table, Project shows the table data task pane named **Field List**, with  **TASKS** selected by default. Using the **Field List** task pane, you can manually add fields to the report.
+Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates a table. When a table is created, it has one row and one column, which contains the text **Use the Table Data taskpane to build a table** (see Figure 1). When you select the table, Project shows the table data task pane named **Field List**, with **TASKS** selected by default. Using the **Field List** task pane, you can manually add fields to the report.
 
 
 **Figure 1. The AddTable method creates a table with one row and one column**
@@ -119,7 +119,7 @@ To specify fields for the table, use the **UpdateTableData** method. Add the fol
     theReportTable.UpdateTableData Task:=True, OutlineLevel:=1, SafeArrayOfPjField:=fieldArray
 ```
 
-Run the modified  **TestReportTable** macro on a project that has four tasks with various values for percent complete and resource costs. Figure 2 is an example of the table results.
+Run the modified **TestReportTable** macro on a project that has four tasks with various values for percent complete and resource costs. Figure 2 is an example of the table results.
 
 
 **Figure 2. The UpdateTableData method can add fields to a table**

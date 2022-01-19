@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Designs](PowerPoint.Designs.md) objec
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _designName_|Required|**String**|The name of the design.|
-| _Index_|Optional|**Integer**|The index number of the design in the  **Designs** collection. The default value is -1, which means that if you omit the Index parameter, the new slide design is added at the end of existing slide designs.|
+| _Index_|Optional|**Integer**|The index number of the design in the **Designs** collection. The default value is -1, which means that if you omit the Index parameter, the new slide design is added at the end of existing slide designs.|
 
 ## Return value
 

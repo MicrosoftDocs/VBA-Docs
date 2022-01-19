@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.PageSetup property (Word)
 
-Returns a  **[PageSetup](Word.PageSetup.md)** object that's associated with the specified selection.
+Returns a **[PageSetup](Word.PageSetup.md)** object that's associated with the specified selection.
 
 
 ## Syntax

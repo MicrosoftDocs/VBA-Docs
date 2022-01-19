@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.Add method (Word)
 
-Returns an  **Endnote** object that represents an endnote added to a range.
+Returns an **Endnote** object that represents an endnote added to a range.
 
 
 ## Syntax

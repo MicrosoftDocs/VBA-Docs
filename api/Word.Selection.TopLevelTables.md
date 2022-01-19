@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.TopLevelTables property (Word)
 
-Returns a  **[Tables](Word.tables.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
+Returns a **[Tables](Word.tables.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
 
 
 ## Syntax

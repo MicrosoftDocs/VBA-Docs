@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MailSystem property (Word)
 
-Returns the mail system (or systems) installed on the host computer. Read-only  **WdMailSystem**.
+Returns the mail system (or systems) installed on the host computer. Read-only **WdMailSystem**.
 
 
 ## Syntax

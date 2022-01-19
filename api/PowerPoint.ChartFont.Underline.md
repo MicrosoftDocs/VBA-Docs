@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFont.Underline property (PowerPoint)
 
-Returns or sets the type of underline applied to the font. Can be one of the  **[XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)** constants. Read/write **Variant**.
+Returns or sets the type of underline applied to the font. Can be one of the **[XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)** constants. Read/write **Variant**.
 
 
 ## Syntax

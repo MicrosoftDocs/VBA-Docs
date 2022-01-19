@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WrapFormat.DistanceLeft property (Word)
 
-Returns or sets the distance (in points) between the document text and the left edge of the text-free area surrounding the specified shape. Read/write  **Single**.
+Returns or sets the distance (in points) between the document text and the left edge of the text-free area surrounding the specified shape. Read/write **Single**.
 
 
 ## Syntax

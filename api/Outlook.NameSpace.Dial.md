@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NameSpace.Dial method (Outlook)
 
-Displays the  **New Call** dialog box that allows users to dial the primary phone number of a specified contact.
+Displays the **New Call** dialog box that allows users to dial the primary phone number of a specified contact.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example opens the  **New Call** dialog box.
+The following Microsoft Visual Basic for Applications (VBA) example opens the **New Call** dialog box.
 
 
 ```vb
@@ -47,7 +47,7 @@ Sub DialContact()
 End Sub
 ```
 
-The following VBA example opens the  **New Call** dialog box with the contact's information. To run this example, replace 'Jeff Smith' with a valid contact name.
+The following VBA example opens the **New Call** dialog box with the contact's information. To run this example, replace 'Jeff Smith' with a valid contact name.
 
 
 

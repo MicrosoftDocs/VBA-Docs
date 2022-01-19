@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Paths property (Visio)
 
-Returns a  **Paths** collection that reports the coordinates of a shape's paths in the coordinate system of the shape's parent. Read-only.
+Returns a **Paths** collection that reports the coordinates of a shape's paths in the coordinate system of the shape's parent. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Paths
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro places a shape on the page, retrieves its  **Paths** collection, and then uses the **Points** property of the **Path** object to return an array of points that defines a polyline approximating the **Path** object.
+This Microsoft Visual Basic for Applications (VBA) macro places a shape on the page, retrieves its **Paths** collection, and then uses the **Points** property of the **Path** object to return an array of points that defines a polyline approximating the **Path** object.
 
 
 ```vb

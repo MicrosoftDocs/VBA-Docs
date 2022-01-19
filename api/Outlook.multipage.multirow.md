@@ -26,6 +26,6 @@ _expression_ A variable that represents a **MultiPage** object.
 
  **True** to allow more than one row of tabs, **False** to restrict tabs to a single row (default).
 
-The width and number of tabs determines the number of rows. Changing the control's size also changes the number of rows. This allows the developer to resize the control and ensure that tabs wrap to fit the control. If the  **MultiRow** property is **False**, then truncation occurs if the width of the tabs exceeds the width of the control.
+The width and number of tabs determines the number of rows. Changing the control's size also changes the number of rows. This allows the developer to resize the control and ensure that tabs wrap to fit the control. If the **MultiRow** property is **False**, then truncation occurs if the width of the tabs exceeds the width of the control.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBindings.Key method (Word)
 
-Returns a  **KeyBinding** object that represents the specified custom key combination.
+Returns a **KeyBinding** object that represents the specified custom key combination.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ KeyBinding
 
 ## Remarks
 
-If the key combination doesn't exist, this method returns  **Nothing**.
+If the key combination doesn't exist, this method returns **Nothing**.
 
 You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 

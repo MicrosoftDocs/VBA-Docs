@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BulletFormat.StartValue property (PowerPoint)
 
-Returns or sets the beginning value of a bulleted list when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read/write.
+Returns or sets the beginning value of a bulleted list when the **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-The value of the  **StartValue** property must be in the range of 1 to 32767.
+The value of the **StartValue** property must be in the range of 1 to 32767.
 
 
 ## Example

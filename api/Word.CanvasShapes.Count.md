@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.Count property (Word)
 
-Returns a  **Long** that represents the number of canvas shapes in the specified collection. Read-only.
+Returns a **Long** that represents the number of canvas shapes in the specified collection. Read-only.
 
 
 ## Syntax

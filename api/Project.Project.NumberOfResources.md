@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.NumberOfResources property (Project)
 
-Gets the number of resources in a project, not including blank entries. Read-only  **Long**.
+Gets the number of resources in a project, not including blank entries. Read-only **Long**.
 
 
 ## Syntax

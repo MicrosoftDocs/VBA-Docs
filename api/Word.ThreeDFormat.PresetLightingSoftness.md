@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetLightingSoftness property (Word)
 
-Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness**.
+Returns or sets the intensity of the extrusion lighting. Read/write **MsoPresetLightingSoftness**.
 
 
 ## Syntax

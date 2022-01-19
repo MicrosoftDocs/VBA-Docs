@@ -40,7 +40,7 @@ Long
 
 ## Remarks
 
-This method returns a  **Long** value that indicates the number of items deleted, or it returns 0 (zero) if the deletion was unsuccessful.
+This method returns a **Long** value that indicates the number of items deleted, or it returns 0 (zero) if the deletion was unsuccessful.
 
 
 ## Example

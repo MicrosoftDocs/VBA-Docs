@@ -67,7 +67,7 @@ The following is an example of the XML for a form region for a derived message c
 
 To register the form region, create the following value in the Windows registry:
 
-|   **Registry value**  |  **Entry**   |
+|  **Registry value**  | **Entry**   |
 | --- | --- |
 | **Key**|HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact.MapUser|
 | **Name**|MapTab|

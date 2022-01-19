@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.IconLabel property (Word)
 
-Returns or sets the text displayed below the icon for an OLE object. Read/write  **String**.
+Returns or sets the text displayed below the icon for an OLE object. Read/write **String**.
 
 
 ## Syntax

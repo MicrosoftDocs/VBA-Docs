@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.LeftIndent property (Word)
 
-Returns or sets a  **Single** that represents the left indent value (in points) for the specified paragraph. Read/write.
+Returns or sets a **Single** that represents the left indent value (in points) for the specified paragraph. Read/write.
 
 
 ## Syntax

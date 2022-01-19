@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LinkFormat.SourcePath property (Word)
 
-Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only  **String**.
+Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only **String**.
 
 
 ## Syntax

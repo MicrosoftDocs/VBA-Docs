@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # EngagementComment object (Project)
 
-A collection of  **EngagementComment** objects. Introduced in Office 2016.
+A collection of **EngagementComment** objects. Introduced in Office 2016.
  
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PostItem.Forward method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
+Executes the **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Syntax

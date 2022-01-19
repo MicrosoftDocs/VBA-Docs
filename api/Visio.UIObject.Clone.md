@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UIObject.Clone property (Visio)
 
-Returns a copy of the  **UIObject** object. Read-only.
+Returns a copy of the **UIObject** object. Read-only.
 
 
 ## Syntax
@@ -31,9 +31,9 @@ UIObject
 
 ## Example
 
-This example shows how to use the  **Clone** property to make a copy of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
+This example shows how to use the **Clone** property to make a copy of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
 
-To restore the built-in toolbars in Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in toolbars in Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

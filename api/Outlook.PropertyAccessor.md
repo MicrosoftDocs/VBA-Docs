@@ -19,16 +19,16 @@ Provides the ability to create, get, set, and delete properties on objects.
 
 ## Remarks
 
-Use the  **PropertyAccessor** object to get and set item-level properties that are not explicitly exposed in the Outlook object model, or properties for the following non-item objects: **[AddressEntry](Outlook.AddressEntry.md)**, **[AddressList](Outlook.AddressList.md)**, **[Attachment](Outlook.Attachment.md)**, **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**, **[ExchangeUser](Outlook.ExchangeUser.md)**, **[Folder](Outlook.Folder.md)**, **[Recipient](Outlook.Recipient.md)**, and **[Store](Outlook.Store.md)**.
+Use the **PropertyAccessor** object to get and set item-level properties that are not explicitly exposed in the Outlook object model, or properties for the following non-item objects: **[AddressEntry](Outlook.AddressEntry.md)**, **[AddressList](Outlook.AddressList.md)**, **[Attachment](Outlook.Attachment.md)**, **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**, **[ExchangeUser](Outlook.ExchangeUser.md)**, **[Folder](Outlook.Folder.md)**, **[Recipient](Outlook.Recipient.md)**, and **[Store](Outlook.Store.md)**.
 
-To get or set multiple custom properties, use the  **PropertyAccessor** object instead of the **[UserProperties](Outlook.UserProperties.md)** object for better performance.
+To get or set multiple custom properties, use the **PropertyAccessor** object instead of the **[UserProperties](Outlook.UserProperties.md)** object for better performance.
 
-For more information on using the  **PropertyAccessor** object, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
+For more information on using the **PropertyAccessor** object, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 
 
 ## Example
 
-The following code sample demonstrates how to use the  **[PropertyAccessor.GetProperty](Outlook.PropertyAccessor.GetProperty.md)** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but that is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
+The following code sample demonstrates how to use the **[PropertyAccessor.GetProperty](Outlook.PropertyAccessor.GetProperty.md)** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but that is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
 
 
 ```vb
@@ -63,7 +63,7 @@ Sub DemoPropertyAccessorGetProperty()
 End Sub
 ```
 
-The next code sample demonstrates how the  **[PropertyAccessor.SetProperties](Outlook.PropertyAccessor.SetProperties.md)** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. If the object supports an explicit **Save** operation, then the properties are saved to the object when the explicit **Save** operation is called. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
+The next code sample demonstrates how the **[PropertyAccessor.SetProperties](Outlook.PropertyAccessor.SetProperties.md)** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. If the object supports an explicit **Save** operation, then the properties are saved to the object when the explicit **Save** operation is called. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
 
 
 

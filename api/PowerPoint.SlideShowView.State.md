@@ -31,7 +31,7 @@ PpSlideShowState
 
 ## Remarks
 
-The value of the  **State** property can be one of these **PpSlideShowState** constants.
+The value of the **State** property can be one of these **PpSlideShowState** constants.
 
 
 ||

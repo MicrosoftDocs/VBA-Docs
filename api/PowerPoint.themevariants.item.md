@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ThemeVariants.Item method (PowerPoint)
 
-Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the collection.
+Returns a single **[ThemeVariant](PowerPoint.themevariant.md)** object from the collection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ _expression_ A variable that represents a 'ThemeVariants' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ThemeVariant** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ThemeVariant** object in the collection to be returned.|
 | _Index_|Required|INT||
 
 ## Return value

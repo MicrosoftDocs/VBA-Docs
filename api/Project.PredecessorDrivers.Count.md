@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'PredecessorDrivers' object.
 
 ## Remarks
 
-If  **TotalDetectedCount** is greater than 5 then count is 0.
+If **TotalDetectedCount** is greater than 5 then count is 0.
 
 
 ## See also

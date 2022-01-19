@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.UpBars property (Word)
 
-Returns the up bars on a line chart. Read-only  **[UpBars](Word.UpBars.md)**.
+Returns the up bars on a line chart. Read-only **[UpBars](Word.UpBars.md)**.
 
 
 ## Syntax

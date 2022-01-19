@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.HourLabelDisplay property (Project)
 
-Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax

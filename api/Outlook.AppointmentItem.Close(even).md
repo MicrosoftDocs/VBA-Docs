@@ -31,7 +31,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the close operation isn't completed and the inspector is left open.
 
-If you use the  **[Close](Outlook.AppointmentItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
+If you use the **[Close](Outlook.AppointmentItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
 
 ## See also

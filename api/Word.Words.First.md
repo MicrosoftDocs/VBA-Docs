@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Words.First property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the first word in a collection of words.
+Returns a **[Range](Word.Range.md)** object that represents the first word in a collection of words.
 
 
 ## Syntax

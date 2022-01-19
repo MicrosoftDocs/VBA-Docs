@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exceptions.Count property (Project)
 
-Gets the number of  **[Exception](Project.exceptions.md)** objects in the calendar **Exceptions** collection. Read-only **Long**.
+Gets the number of **[Exception](Project.exceptions.md)** objects in the calendar **Exceptions** collection. Read-only **Long**.
 
 
 ## Syntax

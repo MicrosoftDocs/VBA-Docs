@@ -30,11 +30,11 @@ _expression_. `MarkAsTask`( `_MarkInterval_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **SharingItem**.|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the **SharingItem**.|
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property to **True** and updates the **[TaskStartDate](Outlook.SharingItem.TaskStartDate.md)**, **[TaskDueDate](Outlook.SharingItem.TaskDueDate.md)**, and **[TaskOrdinal](Outlook.SharingItem.ToDoTaskOrdinal.md)** properties depending on the value provided in _MarkInterval_.
+Calling this method sets the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property to **True** and updates the **[TaskStartDate](Outlook.SharingItem.TaskStartDate.md)**, **[TaskDueDate](Outlook.SharingItem.TaskDueDate.md)**, and **[TaskOrdinal](Outlook.SharingItem.ToDoTaskOrdinal.md)** properties depending on the value provided in _MarkInterval_.
 
 
 ## See also

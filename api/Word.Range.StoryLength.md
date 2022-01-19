@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.StoryLength property (Word)
 
-Returns the number of characters in the story that contains the specified range. Read-only  **Long**.
+Returns the number of characters in the story that contains the specified range. Read-only **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Example
 
-This example determines whether the header in the active document is empty. If the header story is not empty, a message box displays the contents of the header. If the document header is empty,  **StoryLength** returns 1 for the final paragraph mark.
+This example determines whether the header in the active document is empty. If the header story is not empty, a message box displays the contents of the header. If the document header is empty, **StoryLength** returns 1 for the final paragraph mark.
 
 
 ```vb

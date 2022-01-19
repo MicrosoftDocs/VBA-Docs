@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Perspective property (Word)
 
-Returns or sets the perspective for the 3D chart view. Read/write  **Long**.
+Returns or sets the perspective for the 3D chart view. Read/write **Long**.
 
 
 ## Syntax

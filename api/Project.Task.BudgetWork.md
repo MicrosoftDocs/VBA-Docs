@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.BudgetWork property (Project)
 
-Gets or sets the rollup calculated value of all the budget work hours across all the non-cost resources in the project. Applies only to the project summary task. Read/write  **Variant**.
+Gets or sets the rollup calculated value of all the budget work hours across all the non-cost resources in the project. Applies only to the project summary task. Read/write **Variant**.
 
 
 ## Syntax

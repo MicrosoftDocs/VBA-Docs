@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfAuthorities.Category property (Word)
 
-Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long**.
+Returns or sets the category of entries to be included in a table of authorities. Read/write **Long**.
 
 
 ## Syntax

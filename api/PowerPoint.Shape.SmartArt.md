@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 
 ## Remarks
 
-The returned Microsoft Office  **SmartArt** object replaces the PowerPoint **Diagram** object, which is deprecated as of PowerPoint.
+The returned Microsoft Office **SmartArt** object replaces the PowerPoint **Diagram** object, which is deprecated as of PowerPoint.
 
 
 ## See also

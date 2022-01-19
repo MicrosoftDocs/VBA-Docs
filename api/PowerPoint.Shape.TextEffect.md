@@ -31,7 +31,7 @@ TextEffectFormat
 
 ## Remarks
 
-Applies to  **[Shape](PowerPoint.Shape.md)** objects that represent WordArt.
+Applies to **[Shape](PowerPoint.Shape.md)** objects that represent WordArt.
 
 
 ## Example

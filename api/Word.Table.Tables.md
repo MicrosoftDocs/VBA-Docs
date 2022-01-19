@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Tables property (Word)
 
-Returns a  **[Tables](Word.tables.md)** collection that represents all the tables nested within the specified table. Read-only.
+Returns a **[Tables](Word.tables.md)** collection that represents all the tables nested within the specified table. Read-only.
 
 
 ## Syntax

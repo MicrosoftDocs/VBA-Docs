@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.ParentFunction property (Word)
 
-Returns an  **[OMathFunction](Word.OMathFunction.md)** object that represents the parent, or containing, function. Read-only.
+Returns an **[OMathFunction](Word.OMathFunction.md)** object that represents the parent, or containing, function. Read-only.
 
 
 ## Syntax

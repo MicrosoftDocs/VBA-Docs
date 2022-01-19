@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SynonymInfo.SynonymList property (Word)
 
-Returns a list of synonyms for a specified meaning of a word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
+Returns a list of synonyms for a specified meaning of a word or phrase. The list is returned as an array of strings. Read-only **Variant**.
 
 
 ## Syntax

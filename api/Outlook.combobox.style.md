@@ -24,7 +24,7 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-The settings of the  **Style** property are:
+The settings of the **Style** property are:
 
 
 

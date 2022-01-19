@@ -26,7 +26,7 @@ _expression_ A variable that represents a **Page** object.
 
  **True** to specify the page is visible (default), **False** to specify the page is hidden.
 
-Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
+Use the **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
 
 All pages are visible at design time.
 

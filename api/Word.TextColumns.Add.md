@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextColumns.Add method (Word)
 
-Returns a  **TextColumn** object that represents a new text column added to a section or document.
+Returns a **TextColumn** object that represents a new text column added to a section or document.
 
 
 ## Syntax

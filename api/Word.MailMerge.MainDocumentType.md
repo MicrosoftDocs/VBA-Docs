@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.MainDocumentType property (Word)
 
-Returns or sets the mail merge main document type. Read/write  **WdMailMergeMainDocType**.
+Returns or sets the mail merge main document type. Read/write **WdMailMergeMainDocType**.
 
 
 ## Syntax

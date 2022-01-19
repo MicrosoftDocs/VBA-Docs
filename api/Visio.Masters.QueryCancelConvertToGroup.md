@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelConvertToGroup** after the user has directed the instance to convert one or more shapes into groups.
+A Microsoft Visio instance fires **QueryCancelConvertToGroup** after the user has directed the instance to convert one or more shapes into groups.
 
 
 
@@ -45,7 +45,7 @@ A Microsoft Visio instance fires  **QueryCancelConvertToGroup** after the user h
     
 
 
-In some cases, such as when a shape that has a  **ForeignType** property of **visTypeMetafile** is converted to a group, the initial shape is deleted and replaced with new shapes. In such cases, the Visio instance subsequently fires **BeforeSelectionDelete** and **BeforeShapeDelete** events before converting the shapes.
+In some cases, such as when a shape that has a **ForeignType** property of **visTypeMetafile** is converted to a group, the initial shape is deleted and replaced with new shapes. In such cases, the Visio instance subsequently fires **BeforeSelectionDelete** and **BeforeShapeDelete** events before converting the shapes.
 
 While a Visio instance is firing a query or cancel event, it responds to inquiries from client code but refuses to perform operations. Client code can show forms or message boxes while responding to a query or cancel event.
 

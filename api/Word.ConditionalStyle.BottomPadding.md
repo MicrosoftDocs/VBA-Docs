@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConditionalStyle.BottomPadding property (Word)
 
-Returns or sets a  **Single** that represents the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write.
+Returns or sets a **Single** that represents the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write.
 
 
 ## Syntax

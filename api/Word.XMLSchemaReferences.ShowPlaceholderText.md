@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReferences.ShowPlaceholderText property (Word)
 
-Returns or sets a  **Boolean** that represents whether automatic placeholder text is displayed for XML elements in a document. Read/write.
+Returns or sets a **Boolean** that represents whether automatic placeholder text is displayed for XML elements in a document. Read/write.
 
 
 ## Syntax

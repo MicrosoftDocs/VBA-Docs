@@ -31,10 +31,10 @@ Integer
 
 ## Remarks
 
-If the  **Characters** object does not contain a field or contains non-field characters, the **FieldCode** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldCode** property.
+If the **Characters** object does not contain a field or contains non-field characters, the **FieldCode** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldCode** property.
 
-Field codes correspond to the fields in the  **Field** list in the **Field** dialog box (click **Field** on the **Insert** tab).
+Field codes correspond to the fields in the **Field** list in the **Field** dialog box (click **Field** on the **Insert** tab).
 
-Constants for field codes are declared by the Microsoft Visio type library in  **[VisFieldCodes](Visio.visfieldcodes.md)**.
+Constants for field codes are declared by the Microsoft Visio type library in **[VisFieldCodes](Visio.visfieldcodes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

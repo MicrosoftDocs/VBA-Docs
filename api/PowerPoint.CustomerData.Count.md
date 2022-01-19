@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CustomerData.Count property (PowerPoint)
 
-Returns the number of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects in the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
+Returns the number of **[CustomXMLPart](Office.CustomXMLPart.md)** objects in the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 
 
 ## Syntax

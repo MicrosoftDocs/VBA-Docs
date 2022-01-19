@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelStyleDelete** after the user has directed the instance to delete a style.
+A Microsoft Visio instance fires **QueryCancelStyleDelete** after the user has directed the instance to delete a style.
 
 
 

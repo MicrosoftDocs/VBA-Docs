@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ShadeEditableRanges property (Word)
 
-Returns or sets a  **Long** that represents whether shading is applied to the ranges in a document for which users have permission to modify. .
+Returns or sets a **Long** that represents whether shading is applied to the ranges in a document for which users have permission to modify. .
 
 
 ## Syntax

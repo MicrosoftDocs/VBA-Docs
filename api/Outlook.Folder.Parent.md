@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folder.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-The parent of the  **[Folder](Outlook.Folder.md)** object is the **[Folders](Outlook.Folders.md)** collection object.
+The parent of the **[Folder](Outlook.Folder.md)** object is the **[Folders](Outlook.Folders.md)** collection object.
 
 
 ## See also

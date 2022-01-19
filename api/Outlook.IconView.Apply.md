@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # IconView.Apply method (Outlook)
 
-Applies the  **[IconView](Outlook.IconView.md)** object to the current view.
+Applies the **[IconView](Outlook.IconView.md)** object to the current view.
 
 
 ## Syntax

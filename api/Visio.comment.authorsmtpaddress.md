@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.AuthorSMTPAddress property (Visio)
 
-Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the comment. Read-only  **String**.
+Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the comment. Read-only **String**.
 
 
 ## Syntax

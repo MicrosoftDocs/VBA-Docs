@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementCommittedFinish property (Project)
 
-Returns the committed finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the committed finish date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

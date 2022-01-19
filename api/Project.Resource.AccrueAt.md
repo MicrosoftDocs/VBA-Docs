@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.AccrueAt property (Project)
 
-Gets or sets the way a task accrues the cost of a resource assigned to it. Read/write  **Variant**.
+Gets or sets the way a task accrues the cost of a resource assigned to it. Read/write **Variant**.
 
 
 ## Syntax

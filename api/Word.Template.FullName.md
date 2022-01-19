@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.FullName property (Word)
 
-Specifies the name of a template, including the drive or Web path. Read-only  **String**.
+Specifies the name of a template, including the drive or Web path. Read-only **String**.
 
 
 ## Syntax

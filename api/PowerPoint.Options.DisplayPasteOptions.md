@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DisplayPasteOptions property (PowerPoint)
 
-Determines whether Microsoft PowerPoint displays the  **Paste Options** button, which appears directly under newly pasted text. Read/write.
+Determines whether Microsoft PowerPoint displays the **Paste Options** button, which appears directly under newly pasted text. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **DisplayPasteOptions** property can be one of these **MsoTriState** constants.
+The value of the **DisplayPasteOptions** property can be one of these **MsoTriState** constants.
 
 
 
@@ -42,7 +42,7 @@ The value of the  **DisplayPasteOptions** property can be one of these **MsoTriS
 
 ## Example
 
-This example enables the  **Paste Options** button if the option has been disabled.
+This example enables the **Paste Options** button if the option has been disabled.
 
 
 ```vb

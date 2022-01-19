@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.ForwardAsVcal method (Outlook)
 
-Forwards the  **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtual calendar item.
+Forwards the **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtual calendar item.
 
 
 ## Syntax

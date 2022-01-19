@@ -31,7 +31,7 @@ MsoFillType
 
 ## Remarks
 
-The value of the  **Type** property can be one of these **MsoFillType** constants.
+The value of the **Type** property can be one of these **MsoFillType** constants.
 
 
 ||

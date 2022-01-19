@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.IsInk property (Word)
 
-Returns a  **Boolean** that represents whether a comment is a handwritten comment.
+Returns a **Boolean** that represents whether a comment is a handwritten comment.
 
 
 ## Syntax

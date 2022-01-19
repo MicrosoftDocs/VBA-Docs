@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.ScaleWidth property (Word)
 
-Scales the width of the specified inline shape relative to its original size. Read/write  **Single**.
+Scales the width of the specified inline shape relative to its original size. Read/write **Single**.
 
 
 ## Syntax

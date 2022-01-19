@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.Data property (Word)
 
-Returns or sets data in an ADDIN field. Read/write  **String**.
+Returns or sets data in an ADDIN field. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.ReturnAddressStyle property (Word)
 
-Returns a  **[Style](Word.Style.md)** object that represents the return address style for the envelope.
+Returns a **[Style](Word.Style.md)** object that represents the return address style for the envelope.
 
 
 ## Syntax

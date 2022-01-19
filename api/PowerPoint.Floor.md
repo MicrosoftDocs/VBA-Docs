@@ -25,7 +25,7 @@ Represents the floor of a 3D chart.
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Floor](PowerPoint.Chart.Floor.md)** property to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart is not a 3D chart.
+Use the **[Floor](PowerPoint.Chart.Floor.md)** property to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart is not a 3D chart.
 
 
 

@@ -29,7 +29,7 @@ Msgbox "Spelling errors: " & sc & vbCr _
  & "Grammatical errors: " & gc
 ```
 
-Use  **SpellingErrors** (Index), where Index is the index number, to return a single spelling error (represented by a **Range** object). The following example finds the second spelling error in the selection and then selects it.
+Use **SpellingErrors** (Index), where Index is the index number, to return a single spelling error (represented by a **Range** object). The following example finds the second spelling error in the selection and then selects it.
 
 
 
@@ -39,7 +39,7 @@ Set myRange = Selection.Range.SpellingErrors(2)
 myRange.Select
 ```
 
-Use  **GrammarErrors** (Index), where Index is the index number, to return a single grammatical error (represented by a **Range** object). The following example returns the sentence that contains the first grammatical error in the selection.
+Use **GrammarErrors** (Index), where Index is the index number, to return a single grammatical error (represented by a **Range** object). The following example returns the sentence that contains the first grammatical error in the selection.
 
 
 

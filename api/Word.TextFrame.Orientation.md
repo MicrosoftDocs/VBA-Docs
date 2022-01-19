@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.Orientation property (Word)
 
-Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation**.
+Returns or sets the orientation of the text inside the frame. Read/write **MsoTextOrientation**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.Separator property (Word)
 
-Returns a  **Range** object that represents the endnote separator.
+Returns a **Range** object that represents the endnote separator.
 
 
 ## Syntax

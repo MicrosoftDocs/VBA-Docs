@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssue.Rule property (Visio)
 
-Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that generated the validation issue. Read-only.
+Returns the **[ValidationRule](Visio.ValidationRule.md)** object that generated the validation issue. Read-only.
 
 
 ## Syntax

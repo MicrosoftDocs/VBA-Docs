@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Bookmarks property (Word)
 
-Returns a  **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document. Read-only.
+Returns a **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document. Read-only.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ PpFarEastLineBreakLevel
 
 ## Remarks
 
-The value of the  **FarEastLineBreakLevel** property can be one of these **PpFarEastLineBreakLevel** constants.
+The value of the **FarEastLineBreakLevel** property can be one of these **PpFarEastLineBreakLevel** constants.
 
 
 ||

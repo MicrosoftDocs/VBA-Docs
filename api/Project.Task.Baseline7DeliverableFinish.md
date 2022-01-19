@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Baseline7DeliverableFinish property (Project)
 
-Gets or sets the task baseline7 deliverables finish date. Read/write  **Variant**.
+Gets or sets the task baseline7 deliverables finish date. Read/write **Variant**.
 
 
 ## Syntax

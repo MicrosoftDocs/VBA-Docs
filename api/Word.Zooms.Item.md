@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Zooms.Item method (Word)
 
-Returns the specified  **Zoom** object.
+Returns the specified **Zoom** object.
 
 
 ## Syntax

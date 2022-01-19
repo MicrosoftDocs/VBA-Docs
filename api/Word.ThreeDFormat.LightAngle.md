@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.LightAngle property (Word)
 
-Returns or sets a  **Single** that represents angle of the lighting. Read/write.
+Returns or sets a **Single** that represents angle of the lighting. Read/write.
 
 
 ## Syntax

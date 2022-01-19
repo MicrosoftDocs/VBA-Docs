@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DeliverableGuid property (Project)
 
-Gets or sets the GUID of the task deliverable. Read/write  **String**.
+Gets or sets the GUID of the task deliverable. Read/write **String**.
 
 
 ## Syntax

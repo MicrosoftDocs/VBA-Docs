@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SmartArtColors property (PowerPoint)
 
-Returns the SmartArt colors of the current  **Application** object. Read-only.
+Returns the SmartArt colors of the current **Application** object. Read-only.
 
 
 ## Syntax

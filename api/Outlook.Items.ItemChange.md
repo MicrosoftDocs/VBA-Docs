@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 ## Example
 
-This example uses the  **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate**, the example offers to mark the appointment as private.
+This example uses the **[Start](Outlook.AppointmentItem.Start.md)** property of the **[AppointmentItem](Outlook.AppointmentItem.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](Outlook.AppointmentItem.Sensitivity.md)** property of the **AppointmentItem** object is not already set to **olPrivate**, the example offers to mark the appointment as private.
 
 
 ```vb

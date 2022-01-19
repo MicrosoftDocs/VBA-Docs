@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataFields object (Word)
 
-A collection of  **MappedDataField** objects that represents all the mapped data fields available in Microsoft Word.
+A collection of **MappedDataField** objects that represents all the mapped data fields available in Microsoft Word.
 
 
 ## Remarks

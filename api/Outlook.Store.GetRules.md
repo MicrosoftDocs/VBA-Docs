@@ -31,9 +31,9 @@ A **Rules** collection object that represents the set of **Rules** defined for t
 
 ## Remarks
 
-Calling  **GetRules** can be an expensive operation in terms of performance on slow connections to an Exchange server.
+Calling **GetRules** can be an expensive operation in terms of performance on slow connections to an Exchange server.
 
-The order of the  **Rule** objects in the collection returned from **GetRules** follows that of **[Rule.ExecutionOrder](Outlook.Rule.ExecutionOrder.md)** with **ExecutionOrder** equal 1 being the first **Rule** in the collection and **ExecutionOrder** equal **[Rules.Count](Outlook.Rules.Count.md)** being the last **Rule** in the collection.
+The order of the **Rule** objects in the collection returned from **GetRules** follows that of **[Rule.ExecutionOrder](Outlook.Rule.ExecutionOrder.md)** with **ExecutionOrder** equal 1 being the first **Rule** in the collection and **ExecutionOrder** equal **[Rules.Count](Outlook.Rules.Count.md)** being the last **Rule** in the collection.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Signatures property (Word)
 
-Returns a  **SignatureSet** collection that represents the digital signatures for a document.
+Returns a **SignatureSet** collection that represents the digital signatures for a document.
 
 
 ## Syntax

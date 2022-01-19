@@ -39,7 +39,7 @@ A **Recipient** object that represents the recipient associated with the specifi
 
 ## Remarks
 
-This method is similar to the  **[GetRecipientFromID](Outlook.NameSpace.GetRecipientFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
+This method is similar to the **[GetRecipientFromID](Outlook.NameSpace.GetRecipientFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetRecipientFromID** method for the corresponding account.
 
 
 ## See also

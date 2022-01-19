@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # SlideShowWindows object (PowerPoint)
 
-A collection of all the  **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** objects that represent the open slide shows in Microsoft PowerPoint.
+A collection of all the **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** objects that represent the open slide shows in Microsoft PowerPoint.
 
 
 ## Example
 
-Use the [SlideShowWindows](PowerPoint.Application.SlideShowWindows.md)property to return the  **SlideShowWindows** collection. Use **SlideShowWindows** (_index_), where _index_ is the window index number, to return a single **SlideShowWindow** object. The following example reduces the height of slide show window one if it is a full-screen window.
+Use the [SlideShowWindows](PowerPoint.Application.SlideShowWindows.md)property to return the **SlideShowWindows** collection. Use **SlideShowWindows** (_index_), where _index_ is the window index number, to return a single **SlideShowWindow** object. The following example reduces the height of slide show window one if it is a full-screen window.
 
 
 ```vb
@@ -34,7 +34,7 @@ With SlideShowWindows(1)
 End With
 ```
 
-Use the [Run](PowerPoint.SlideShowSettings.Run.md)method to create a new slide show window and add it to the  **SlideShowWindows** collection. The following example runs a slide show of the active presentation.
+Use the [Run](PowerPoint.SlideShowSettings.Run.md)method to create a new slide show window and add it to the **SlideShowWindows** collection. The following example runs a slide show of the active presentation.
 
 
 

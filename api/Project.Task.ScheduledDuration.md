@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ScheduledDuration property (Project)
 
-Gets the scheduled (as opposed to actual) duration of a task. Read-only  **Variant**.
+Gets the scheduled (as opposed to actual) duration of a task. Read-only **Variant**.
 
 
 ## Syntax

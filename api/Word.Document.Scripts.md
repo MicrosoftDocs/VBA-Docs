@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Scripts property (Word)
 
-Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
+Returns a **Scripts** collection that represents the collection of HTML scripts in the specified object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Example
 
-This example displays the text in the first  **Script** object of the active document.
+This example displays the text in the first **Script** object of the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddMergeRec method (Word)
 
-Adds a MERGEREC field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a MERGEREC field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

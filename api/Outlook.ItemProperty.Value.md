@@ -26,12 +26,12 @@ _expression_ A variable that represents an [ItemProperty](Outlook.ItemProperty.m
 
 ## Remarks
 
-Even though  **ItemProperty.Value** allows you to get or set an explicit built-in property or a custom property, you can reference explicit built-in properties directly from the parent object, for example, `ContactItem.Body`. For more information on accessing properties in Outlook, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
+Even though **ItemProperty.Value** allows you to get or set an explicit built-in property or a custom property, you can reference explicit built-in properties directly from the parent object, for example, `ContactItem.Body`. For more information on accessing properties in Outlook, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a contact item and sets its  **Body** property
+The following Visual Basic for Applications (VBA) example creates a contact item and sets its **Body** property
 
 
 ```vb

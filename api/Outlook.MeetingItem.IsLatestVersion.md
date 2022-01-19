@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Remarks
 
-This property applies to all  **MeetingItem** objects including meeting requests, meeting updates, and meeting cancellation.
+This property applies to all **MeetingItem** objects including meeting requests, meeting updates, and meeting cancellation.
 
  **True** indicates that the latest version of the meeting item is on the organizer's calendar; **False** indicates that the meeting item on the calendar is not the latest version, or that there is a conflict between the meeting request and another appointment item on the calendar.
 

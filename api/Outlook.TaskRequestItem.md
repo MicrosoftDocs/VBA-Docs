@@ -19,9 +19,9 @@ Represents a change to the recipient's Tasks list initiated by another party or 
 
 ## Remarks
 
-Unlike other Microsoft Outlook objects, you cannot create this object. When the sender applies the  **[Assign](Outlook.TaskItem.Assign.md)** and **[Send](Outlook.TaskItem.Send(method).md)** methods to a **[TaskItem](Outlook.TaskItem.md)** object to assign (delegate) the associated task to another user, the **TaskRequestItem** object is created when the item is received in the recipient's Inbox.
+Unlike other Microsoft Outlook objects, you cannot create this object. When the sender applies the **[Assign](Outlook.TaskItem.Assign.md)** and **[Send](Outlook.TaskItem.Send(method).md)** methods to a **[TaskItem](Outlook.TaskItem.md)** object to assign (delegate) the associated task to another user, the **TaskRequestItem** object is created when the item is received in the recipient's Inbox.
 
-Use the  **[GetAssociatedTask](Outlook.TaskRequestItem.GetAssociatedTask.md)** method to return the **TaskItem** object, and work directly with the **TaskItem** object to respond to the request.
+Use the **[GetAssociatedTask](Outlook.TaskRequestItem.GetAssociatedTask.md)** method to return the **TaskItem** object, and work directly with the **TaskItem** object to respond to the request.
 
 
 ## Example

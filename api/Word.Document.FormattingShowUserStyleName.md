@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FormattingShowUserStyleName property (Word)
 
-Returns or sets a  **Boolean** that represents whether to show user-defined styles. Read/write.
+Returns or sets a **Boolean** that represents whether to show user-defined styles. Read/write.
 
 
 ## Syntax

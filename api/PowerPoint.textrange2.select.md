@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TextRange2.Select method (PowerPoint)
 
-Selects the  **TextRange2** object.
+Selects the **TextRange2** object.
 
 
 ## Syntax

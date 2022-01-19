@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorScheme.Delete method (PowerPoint)
 
-Deletes the specified  **ColorScheme** object.
+Deletes the specified **ColorScheme** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItems.Item property (Visio)
 
-Returns the  **GraphicItem** object at the specified index position in the **GraphicItems** collection. Read-only.
+Returns the **GraphicItem** object at the specified index position in the **GraphicItems** collection. Read-only.
 
 
 > [!NOTE] 
@@ -47,7 +47,7 @@ GraphicItem
 
  The **GraphicItems** collection is indexed starting with 1.
 
-When you retrieve objects from a collection, you can omit  **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
+When you retrieve objects from a collection, you can omit **Item** from the expression because it is the default property of all collections. The following statement is equivalent to the syntax example given above:
 
 
 

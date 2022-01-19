@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.HangulHanjaDictionaries property (Word)
 
-Returns a  **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
+Returns a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
 
 
 ## Syntax

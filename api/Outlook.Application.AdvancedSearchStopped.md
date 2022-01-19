@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AdvancedSearchStopped event (Outlook)
 
-Occurs when a specified  **[Search](Outlook.Search.md)** object's **[Stop](Outlook.Search.Stop.md)** method has been executed.
+Occurs when a specified **[Search](Outlook.Search.md)** object's **[Stop](Outlook.Search.Stop.md)** method has been executed.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Remarks
 
-After this event is fired, the  **Search** object's **[Results](Outlook.Results.md)** collection will no longer be updated. This event can only be triggered programmatically.
+After this event is fired, the **Search** object's **[Results](Outlook.Results.md)** collection will no longer be updated. This event can only be triggered programmatically.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example starts searching the  **Inbox** for items with subject equal to "Test" and immediately stops the search. This causes the `AdvanceSearchStopped` event procedure to be run. The sample code must be placed in a class module such as `ThisOutlookSession`. The  `StopSearch()` procedure must be called before the event procedure can be called by Microsoft Outlook.
+The following Visual Basic for Applications (VBA) example starts searching the **Inbox** for items with subject equal to "Test" and immediately stops the search. This causes the `AdvanceSearchStopped` event procedure to be run. The sample code must be placed in a class module such as `ThisOutlookSession`. The  `StopSearch()` procedure must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Cells property (Visio)
 
-Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
+Returns a **Cell** object that represents a ShapeSheet cell. Read-only.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ Cell
 
  **Cells** ("somestring") raises an "Unexpected end of file" exception if "somestring" does not name an actual cell. You can use the **CellExists** property to determine if a cell with the name "somestring" exists.
 
-The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. You can use the  **Cells** property to access cells in named rows.
+The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. You can use the **Cells** property to access cells in named rows.
 
 For example, if "Row_1" is the name of a row in a shape's User-Defined Cells section, you can use this statement to access the first cell in this row (the cell in column zero, which holds the name of the row):
 
@@ -92,7 +92,7 @@ As a developer, you can use universal names in a program when you don't want to 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Cells** property to get a particular ShapeSheet cell by its name. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Cells** property to get a particular ShapeSheet cell by its name. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. This is accomplished by changing the ShapeSheet row types for each side of the rectangle from LineTo to ArcTo and then changing the values of the X and Y cells in each of these rows.
 
 
 ```vb

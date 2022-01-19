@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WdFieldKind enumeration (Word)
 
-Specifies the type of field for a  **Field** object.
+Specifies the type of field for a **Field** object.
 
 
 

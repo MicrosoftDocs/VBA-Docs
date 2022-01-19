@@ -26,9 +26,9 @@ _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) 
 
 ## Remarks
 
-Use the returned  **PlaySoundRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies playing a sound file as an action.
+Use the returned **PlaySoundRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies playing a sound file as an action.
 
-This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **PlaySoundRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[PlaySoundRuleAction.Enabled](Outlook.PlaySoundRuleAction.Enabled.md)** will be **True**.
+This property of the **[RuleActions](Outlook.RuleActions.md)** collection always returns a **PlaySoundRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[PlaySoundRuleAction.Enabled](Outlook.PlaySoundRuleAction.Enabled.md)** will be **True**.
 
 
 ## See also

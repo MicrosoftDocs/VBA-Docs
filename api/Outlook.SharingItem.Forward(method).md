@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Forward method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[SharingItem](Outlook.SharingItem.md)** object.
+Executes the **Forward** action for an item and returns the resulting copy as a **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## Syntax

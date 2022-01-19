@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XSLTransform.ID property (Word)
 
-Returns a  **String** containing the GUID assigned to the current[XSLTransform](Word.XSLTransform.md) object. Read-only.
+Returns a **String** containing the GUID assigned to the current[XSLTransform](Word.XSLTransform.md) object. Read-only.
 
 
 ## Syntax

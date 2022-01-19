@@ -36,7 +36,7 @@ _expression_.**QueryCancelSuspendEvents** (_app_)
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelSuspendEvents** after client code has directed the instance to suspend events.
+A Visio instance fires **QueryCancelSuspendEvents** after client code has directed the instance to suspend events.
 
 
 

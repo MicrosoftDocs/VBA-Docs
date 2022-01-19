@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PrintRanges.ClearAll method (PowerPoint)
 
-Clears all the print ranges from the  **[PrintRanges](PowerPoint.PrintRanges.md)** collection. Use the **Add** method of the **PrintRanges** collection to add print ranges to the collection.
+Clears all the print ranges from the **[PrintRanges](PowerPoint.PrintRanges.md)** collection. Use the **Add** method of the **PrintRanges** collection to add print ranges to the collection.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[FileConverter](PowerPoint.
 
 ## Remarks
 
-Visual Basic's  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
+Visual Basic's **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
 
 
 ## See also

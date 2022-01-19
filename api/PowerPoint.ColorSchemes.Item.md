@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorSchemes.Item method (PowerPoint)
 
-Returns a single  **ColorScheme** object from the specified **ColorSchemes** collection.
+Returns a single **ColorScheme** object from the specified **ColorSchemes** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ColorSchemes](PowerPoint.ColorSchemes
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **ColorScheme** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **ColorScheme** object in the collection to be returned.|
 
 ## Return value
 

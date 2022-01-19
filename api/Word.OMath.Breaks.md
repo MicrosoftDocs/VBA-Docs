@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.Breaks property (Word)
 
-Returns an  **[OMathBreaks](Word.OMathBreaks.md)** collection that represents the line breaks in an equation. Read-only.
+Returns an **[OMathBreaks](Word.OMathBreaks.md)** collection that represents the line breaks in an equation. Read-only.
 
 
 ## Syntax

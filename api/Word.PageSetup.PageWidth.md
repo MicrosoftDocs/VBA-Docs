@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.PageWidth property (Word)
 
-Returns or sets the width of the page in points. Read/write  **Single**.
+Returns or sets the width of the page in points. Read/write **Single**.
 
 
 ## Syntax

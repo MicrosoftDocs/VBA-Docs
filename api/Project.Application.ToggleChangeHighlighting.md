@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ToggleChangeHighlighting method (Project)
 
-Toggles calculation  **Change Highlighting** on or off.
+Toggles calculation **Change Highlighting** on or off.
 
 
 ## Syntax

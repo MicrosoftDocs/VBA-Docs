@@ -37,7 +37,7 @@ The following examples describe how to:
 
 ## Example
 
-Use the [TextRange](PowerPoint.TextFrame.TextRange.md)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the [Text](PowerPoint.TextRange.Text.md)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to _myDocument_ and sets the text it contains.
+Use the [TextRange](PowerPoint.TextFrame.TextRange.md)property of the **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the [Text](PowerPoint.TextRange.Text.md)property to return the string of text in the **TextRange** object. The following example adds a rectangle to _myDocument_ and sets the text it contains.
 
 
 ```vb
@@ -48,7 +48,7 @@ myDocument.Shapes.AddShape(msoShapeRectangle, 0, 0, 250, 140) _
     .TextFrame.TextRange.Text = "Here is some test text"
 ```
 
-Because the  **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
+Because the **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
 
 
 
@@ -65,7 +65,7 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
 Use the [HasTextFrame](PowerPoint.Shape.HasTextFrame.md)property to determine whether a shape has a text frame, and use the [HasText](PowerPoint.TextFrame.HasText.md)property to determine whether the text frame contains text.
 
-Use the  **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
+Use the **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
 
 
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Guid property (Project)
 
-Gets the GUID of the resource. Read-only  **String**.
+Gets the GUID of the resource. Read-only **String**.
 
 
 ## Syntax

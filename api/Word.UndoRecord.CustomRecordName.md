@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UndoRecord.CustomRecordName property (Word)
 
-Returns a  **String** that specifies the entry that appears on the undo stack when all custom undo actions have completed. Read-only.
+Returns a **String** that specifies the entry that appears on the undo stack when all custom undo actions have completed. Read-only.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The following code example creates nested custom undo records. When the code com
 
 
 > [!NOTE] 
-> To run this code example, place it the code file for  **ThisDocument** in the Visual Basic for Applications Project Explorer.
+> To run this code example, place it the code file for **ThisDocument** in the Visual Basic for Applications Project Explorer.
 
 
 ```vb

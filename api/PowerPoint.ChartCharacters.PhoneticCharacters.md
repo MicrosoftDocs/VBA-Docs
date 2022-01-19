@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartCharacters.PhoneticCharacters property (PowerPoint)
 
-Returns or sets the phonetic text for the object. Read/write  **String**.
+Returns or sets the phonetic text for the object. Read/write **String**.
 
 
 ## Syntax

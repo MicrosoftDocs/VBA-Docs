@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.DataLabels method (Word)
 
-Returns an object that represents either a single data label (a  **[DataLabel](Word.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](Word.DataLabels.md)** collection).
+Returns an object that represents either a single data label (a **[DataLabel](Word.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](Word.DataLabels.md)** collection).
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 ## Return value
 
-An object that represents either a single data label (a  **DataLabel** object) or a collection of all the data labels for the series (a **DataLabels** collection).
+An object that represents either a single data label (a **DataLabel** object) or a collection of all the data labels for the series (a **DataLabels** collection).
 
 
 ## Remarks

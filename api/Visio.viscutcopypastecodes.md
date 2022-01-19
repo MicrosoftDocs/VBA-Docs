@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisCutCopyPasteCodes enumeration (Visio)
 
-Flags to be passed to the  **Cut**, **Copy**, or **Paste** methods.
+Flags to be passed to the **Cut**, **Copy**, or **Paste** methods.
 
 
 

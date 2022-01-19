@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlinks.Item method (PowerPoint)
 
-Returns a single  **Hyperlink** object from the specified **Hyperlinks** collection.
+Returns a single **Hyperlink** object from the specified **Hyperlinks** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Hyperlinks](PowerPoint.Hyperlinks.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Hyperlink** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Hyperlink** object in the collection to be returned.|
 
 ## Return value
 

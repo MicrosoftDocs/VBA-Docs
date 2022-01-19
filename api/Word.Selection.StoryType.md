@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.StoryType property (Word)
 
-Returns the story type for the specified selection. Read-only  **WdStoryType**.
+Returns the story type for the specified selection. Read-only **WdStoryType**.
 
 
 ## Syntax

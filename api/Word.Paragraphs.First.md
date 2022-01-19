@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.First property (Word)
 
-Returns a  **[Paragraph](Word.Paragraph.md)** object that represents the first item in the **Paragraphs** collection.
+Returns a **[Paragraph](Word.Paragraph.md)** object that represents the first item in the **Paragraphs** collection.
 
 
 ## Syntax

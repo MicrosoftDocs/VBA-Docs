@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Width property (Word)
 
-Returns or sets the width of the specified  **Task** object, in points. Read/write **Long**.
+Returns or sets the width of the specified **Task** object, in points. Read/write **Long**.
 
 
 ## Syntax

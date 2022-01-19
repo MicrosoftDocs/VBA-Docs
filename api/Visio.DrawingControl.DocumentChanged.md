@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[DrawingControl](Visio.DrawingContro
 
 ## Remarks
 
-The  **DocumentChanged** event indicates that one of a document's properties, such as **Author** or **Description**, has changed.
+The **DocumentChanged** event indicates that one of a document's properties, such as **Author** or **Description**, has changed.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

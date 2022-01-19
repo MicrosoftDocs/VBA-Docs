@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabel.Separator property (Word)
 
-Returns or sets the separator used for the data labels on a chart. Read/write  **Variant**.
+Returns or sets the separator used for the data labels on a chart. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' objec
 
 ## Remarks
 
-If you use a string, you will get a string as the separator. If you use  **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline character, depending on the data label.
+If you use a string, you will get a string as the separator. If you use **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline character, depending on the data label.
 
 
 ## Example

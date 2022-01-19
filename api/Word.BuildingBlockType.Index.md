@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlockType.Index property (Word)
 
-Returns a  **Long** that represents the position of an item in a collection. Read-only.
+Returns a **Long** that represents the position of an item in a collection. Read-only.
 
 
 ## Syntax

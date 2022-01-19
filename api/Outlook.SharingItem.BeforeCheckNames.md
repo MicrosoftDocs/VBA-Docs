@@ -31,14 +31,14 @@ _expression_. `BeforeCheckNames`( `_Cancel_` )
 
 ## Remarks
 
-You use the  **BeforeCheckNames** event in VBScript, but the event does not fire when an email name is resolved on the form.
+You use the **BeforeCheckNames** event in VBScript, but the event does not fire when an email name is resolved on the form.
 
 The event does not fire under the following circumstances:
 
 
-- You customized a Journal Entry form and then resolved a contact in the  **Contacts** field.
+- You customized a Journal Entry form and then resolved a contact in the **Contacts** field.
     
-- You customized a Contact form and then resolved a contact in the  **Contacts** field.
+- You customized a Contact form and then resolved a contact in the **Contacts** field.
     
 - You customized any type of form and Outlook automatically resolved the name in the background.
     

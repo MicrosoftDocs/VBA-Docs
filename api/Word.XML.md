@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.XML property (Word)
 
-Returns a  **String** that represents the text, with or without XML markup, that is contained within an XML node. Read-only.
+Returns a **String** that represents the text, with or without XML markup, that is contained within an XML node. Read-only.
 
 
 ## Syntax

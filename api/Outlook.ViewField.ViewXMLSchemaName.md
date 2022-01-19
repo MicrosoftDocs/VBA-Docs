@@ -26,12 +26,12 @@ _expression_ A variable that represents a [ViewField](Outlook.ViewField.md) obje
 
 ## Remarks
 
-The value of this property contains the name of the property as it is included within the XML definition of the view containing the  **ViewField** object. This value may not match the name used to refer to the property when the **ViewField** object was defined.
+The value of this property contains the name of the property as it is included within the XML definition of the view containing the **ViewField** object. This value may not match the name used to refer to the property when the **ViewField** object was defined.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[ViewFields](Outlook.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb

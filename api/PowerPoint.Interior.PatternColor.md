@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Interior.PatternColor property (PowerPoint)
 
-Returns or sets the color of the interior pattern as an RGB value. Read/write  **Variant**.
+Returns or sets the color of the interior pattern as an RGB value. Read/write **Variant**.
 
 
 ## Syntax

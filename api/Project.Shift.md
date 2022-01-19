@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
  
 
-Represents a work shift for a day, month, period, weekday, or year. There is no collection for  **Shift** objects. The **Shift** object can be accessed through the **Shift*n*** properties of appropriate objects, such as the **Day**. **[Shift1](Project.Day.Shift1.md)** property.
+Represents a work shift for a day, month, period, weekday, or year. There is no collection for **Shift** objects. The **Shift** object can be accessed through the **Shift*n*** properties of appropriate objects, such as the **Day**. **[Shift1](Project.Day.Shift1.md)** property.
  
  **Using the Shift Object**
  

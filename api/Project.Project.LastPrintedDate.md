@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.LastPrintedDate property (Project)
 
-Gets the date a project was last printed. Read-only  **Variant**.
+Gets the date a project was last printed. Read-only **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideRange.sectionIndex property (PowerPoint)
 
-Returns the index of the selected section in the  **SlideRange**. Read-only.
+Returns the index of the selected section in the **SlideRange**. Read-only.
 
 
 ## Syntax

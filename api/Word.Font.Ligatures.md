@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Ligatures property (Word)
 
-Returns or sets the ligatures setting for the specified  **Font** object. Read/write[WdLigatures](Word.WdLigatures.md).
+Returns or sets the ligatures setting for the specified **Font** object. Read/write[WdLigatures](Word.WdLigatures.md).
 
 
 ## Syntax

@@ -31,11 +31,11 @@ _expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestI
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **OlSaveAsType** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following **OlSaveAsType** constants: **olHTML**, **olMSG**, **olRTF**, **olTemplate**, **olDoc**, **olTXT**, **olVCal**, **olVCard**, **olICal**, or **olMSGUnicode**.|
 
 ## Remarks
 
-Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, messages in HTML format cannot be saved in Document format, and the **olDoc** constant works only if Microsoft Word is set up as the default email editor.
+Also note that even though **olDoc** is a valid **OlSaveAsType** constant, messages in HTML format cannot be saved in Document format, and the **olDoc** constant works only if Microsoft Word is set up as the default email editor.
 
 
 ## See also

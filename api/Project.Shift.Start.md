@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Shift.Start property (Project)
 
-Gets or sets the start date of the work shift. Read/write  **Variant**.
+Gets or sets the start date of the work shift. Read/write **Variant**.
 
 
 ## Syntax

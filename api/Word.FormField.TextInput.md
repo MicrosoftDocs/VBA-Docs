@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.TextInput property (Word)
 
-Returns a  **[TextInput](Word.TextInput.md)** object that represents a text form field.
+Returns a **[TextInput](Word.TextInput.md)** object that represents a text form field.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ViewsSingle.Item property (Project)
 
-Gets a single  **View** object from the **ViewsSingle** collection. Read-only **View**.
+Gets a single **View** object from the **ViewsSingle** collection. Read-only **View**.
 
 
 ## Syntax

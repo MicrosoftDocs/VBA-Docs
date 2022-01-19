@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.DistanceRight property (Word)
 
-Returns or sets the distance (in points) between the document text and the right edge of the specified table. Read/write  **Single**.
+Returns or sets the distance (in points) between the document text and the right edge of the specified table. Read/write **Single**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 
 ## Remarks
 
-This property doesn't have any effect if  **WrapAroundText** is **False**.
+This property doesn't have any effect if **WrapAroundText** is **False**.
 
 
 ## Example

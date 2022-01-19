@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.GraphicItems property (Visio)
 
-Returns the  **GraphicItems** collection that the master contains. Read-only.
+Returns the **GraphicItems** collection that the master contains. Read-only.
 
 
 > [!NOTE] 
@@ -35,6 +35,6 @@ GraphicItems
 
 ## Remarks
 
-The master must be of type  **visTypeDataGraphic**.
+The master must be of type **visTypeDataGraphic**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

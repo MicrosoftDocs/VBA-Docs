@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Flag13 property (Project)
 
-Gets or sets the value of a task flag custom field. Read/write  **Variant**.
+Gets or sets the value of a task flag custom field. Read/write **Variant**.
 
 
 ## Syntax

@@ -26,9 +26,9 @@ _expression_. `RemoteID`
 
 ## Remarks
 
-This property contains either a GUID or EntryID for the sharing context contained within the  **SharingItem** object.
+This property contains either a GUID or EntryID for the sharing context contained within the **SharingItem** object.
 
-This property is set to an empty string if the  **[Type](Outlook.SharingItem.Type.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest**.
+This property is set to an empty string if the **[Type](Outlook.SharingItem.Type.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest**.
 
 
 ## See also

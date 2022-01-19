@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)'
 
 ## Remarks
 
-Using the  **[BreakLink](PowerPoint.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False**.
+Using the **[BreakLink](PowerPoint.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False**.
 
 
 ## Example
@@ -37,7 +37,7 @@ Using the  **[BreakLink](PowerPoint.ChartData.BreakLink.md)** method to remove t
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the  **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](PowerPoint.ChartData.Activate.md)** method to display the embedded data for the chart.
+The following example verifies whether the data for the first chart in the active document is linked to an external Excel workbook. If the data for the chart is linked, the example then uses the **BreakLink** method to remove the link. If the data for the chart is not linked, the example uses the **[Activate](PowerPoint.ChartData.Activate.md)** method to display the embedded data for the chart.
 
 
 

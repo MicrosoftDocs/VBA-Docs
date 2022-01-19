@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Deadline property (Project)
 
-Gets or sets a deadline for a task. Read/write  **Variant**.
+Gets or sets a deadline for a task. Read/write **Variant**.
 
 
 ## Syntax

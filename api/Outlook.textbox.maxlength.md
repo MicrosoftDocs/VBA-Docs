@@ -21,6 +21,6 @@ _expression_ A variable that represents a **TextBox** object.
 
 ## Remarks
 
-Setting the  **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
+Setting the **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

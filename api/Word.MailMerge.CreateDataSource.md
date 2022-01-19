@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[MailMerge](Word.MailMerge
 | _Name_|Optional| **Variant**|The path and file name for the new data source.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the new data source.|
 | _WritePasswordDocument_|Optional| **Variant**|The password required to save changes to the data source.|
-| _HeaderRecord_|Optional| **Variant**|Field names for the header record. If this argument is omitted, the standard header record is used: "Title, FirstName, LastName, JobTitle, Company, Address1, Address2, City, State, PostalCode, Country, HomePhone, WorkPhone." To separate field names, use the list separator specified in  **Regional Settings** in **Control Panel**.|
+| _HeaderRecord_|Optional| **Variant**|Field names for the header record. If this argument is omitted, the standard header record is used: "Title, FirstName, LastName, JobTitle, Company, Address1, Address2, City, State, PostalCode, Country, HomePhone, WorkPhone." To separate field names, use the list separator specified in **Regional Settings** in **Control Panel**.|
 | _MSQuery_|Optional| **Variant**| **True** to launch Microsoft Query, if it is installed. The Name, PasswordDocument, and HeaderRecord arguments are ignored.|
 | _SQLStatement_|Optional| **Variant**|Defines query options for retrieving data.|
 | _SQLStatement1_|Optional| **Variant**|If the query string is longer than 255 characters, SQLStatement specifies the first portion of the string, and SQLStatement1 specifies the second portion.|

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisContainerTypes enumeration (Visio)
 
-Specifies whether member shapes are arranged in a list; value returned by the  **[ContainerProperties.ContainerType](Visio.ContainerProperties.ContainerType.md)** property.
+Specifies whether member shapes are arranged in a list; value returned by the **[ContainerProperties.ContainerType](Visio.ContainerProperties.ContainerType.md)** property.
 
 
 

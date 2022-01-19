@@ -31,9 +31,9 @@ This property can only be set to a value between 1 and 8. An error occurs if you
 Changing the value of this property for a **NavigationModule** object changes the **Position** values of other navigation modules contained by a **[NavigationModules](Outlook.NavigationModules.md)** collection, depending on the relative change between the new value and the original value of the **Position** property for that **NavigationModule** object:
 
 
-- If the new value is less than the original value, then the specified  **NavigationModule** object moves up to the new position and pushes the other navigation modules already at or below that new position down.
+- If the new value is less than the original value, then the specified **NavigationModule** object moves up to the new position and pushes the other navigation modules already at or below that new position down.
     
-- If the new value is greater than the original value, then the specified  **NavigationModule** object moves down to the new position and pushes the other navigation modules between the old position and the new position up, filling the old position.
+- If the new value is greater than the original value, then the specified **NavigationModule** object moves down to the new position and pushes the other navigation modules between the old position and the new position up, filling the old position.
     
 
 ## See also

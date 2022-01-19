@@ -31,8 +31,8 @@ Variant
 
 ## Remarks
 
-You can use the  **SubType** property of the **Window** object to determine whether the **Window** object shows a master. If the **Window** object does not show a master, the **Master** property raises an exception.
+You can use the **SubType** property of the **Window** object to determine whether the **Window** object shows a master. If the **Window** object does not show a master, the **Master** property raises an exception.
 
-If the  **Window** object shows a master that is open for editing, the master returned is the temporary master being edited, not the original master that was opened for editing.
+If the **Window** object shows a master that is open for editing, the master returned is the temporary master being edited, not the original master that was opened for editing.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

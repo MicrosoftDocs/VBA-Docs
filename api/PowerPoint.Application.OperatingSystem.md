@@ -31,7 +31,7 @@ String
 
 ## Example
 
-This example tests the  **OperatingSystem** property to see whether Microsoft PowerPoint is running with a 32-bit version of Microsoft Windows.
+This example tests the **OperatingSystem** property to see whether Microsoft PowerPoint is running with a 32-bit version of Microsoft Windows.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Research property (Word)
 
-Returns a  **Research** object that represents the research service for a document. Read-only.
+Returns a **Research** object that represents the research service for a document. Read-only.
 
 
 ## Syntax

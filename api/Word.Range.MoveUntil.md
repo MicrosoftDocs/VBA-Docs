@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-This method returns the number of characters by which the specified range was moved, as a  **Long** value. If Count is greater than 0 (zero), this method returns the number of characters moved plus one. If Count is less than 0 (zero), this method returns the number of characters moved minus one. If no Cset characters are found, the range isn't not changed and the method returns 0 (zero).
+This method returns the number of characters by which the specified range was moved, as a **Long** value. If Count is greater than 0 (zero), this method returns the number of characters moved plus one. If Count is less than 0 (zero), this method returns the number of characters moved minus one. If no Cset characters are found, the range isn't not changed and the method returns 0 (zero).
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.SV property (Project)
 
-Gets the earned value scheduled variance (SV) of the resource. Read-only  **Variant**.
+Gets the earned value scheduled variance (SV) of the resource. Read-only **Variant**.
 
 
 ## Syntax

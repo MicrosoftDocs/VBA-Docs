@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectStart property (Project)
 
-Gets or sets the start date for a project. Read/write  **Variant**.
+Gets or sets the start date for a project. Read/write **Variant**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Setting  **ProjectStart** value also causes the project to be scheduled from its start date. This has the same effect as setting the **ScheduleFromStart** property to **True**.
+Setting **ProjectStart** value also causes the project to be scheduled from its start date. This has the same effect as setting the **ScheduleFromStart** property to **True**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

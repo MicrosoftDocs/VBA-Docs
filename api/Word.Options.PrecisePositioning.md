@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PrecisePositioning property (Word)
 
-Returns or sets a  **Boolean** that represents whether Word optimizes character positioning for print layout rather than on-screen readability. **True** disables the default setting that compresses character spacing to facilitate on-screen readability and enables character spacing for print media. Read/write.
+Returns or sets a **Boolean** that represents whether Word optimizes character positioning for print layout rather than on-screen readability. **True** disables the default setting that compresses character spacing to facilitate on-screen readability and enables character spacing for print media. Read/write.
 
 
 ## Syntax

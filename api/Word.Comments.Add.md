@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comments.Add method (Word)
 
-Returns a  **Comment** object that represents a comment added to a range.
+Returns a **Comment** object that represents a comment added to a range.
 
 
 ## Syntax

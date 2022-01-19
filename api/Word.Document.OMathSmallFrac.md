@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMathSmallFrac property (Word)
 
-Returns or sets a  **Boolean** that represents whether to use small fractions in equations contained within the document. Read/write.
+Returns or sets a **Boolean** that represents whether to use small fractions in equations contained within the document. Read/write.
 
 
 ## Syntax

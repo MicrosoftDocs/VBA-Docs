@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetCamera property (PowerPoint)
 
-Returns the effects camera type used by the specified  **ThreeDFormat** object. Read-only.
+Returns the effects camera type used by the specified **ThreeDFormat** object. Read-only.
 
 
 ## Syntax

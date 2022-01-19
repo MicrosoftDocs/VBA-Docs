@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartCharacters.Caption property (PowerPoint)
 
-Returns the text of this range of characters. Read-only  **String**.
+Returns the text of this range of characters. Read-only **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.LeaderLines property (PowerPoint)
 
-Returns the leader lines for the series. Read-only  **[LeaderLines](PowerPoint.LeaderLines.md)**.
+Returns the leader lines for the series. Read-only **[LeaderLines](PowerPoint.LeaderLines.md)**.
 
 
 ## Syntax

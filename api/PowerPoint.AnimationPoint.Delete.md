@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AnimationPoint.Delete method (PowerPoint)
 
-Deletes the specified  **AnimationPoint** object.
+Deletes the specified **AnimationPoint** object.
 
 
 ## Syntax

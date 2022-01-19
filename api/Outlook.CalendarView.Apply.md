@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalendarView.Apply method (Outlook)
 
-Applies the  **[CalendarView](Outlook.CalendarView.md)** object to the current view.
+Applies the **[CalendarView](Outlook.CalendarView.md)** object to the current view.
 
 
 ## Syntax

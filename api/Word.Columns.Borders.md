@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Borders property (Word)
 
-Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified columns.
+Returns a **[Borders](Word.borders.md)** collection that represents all the borders for the specified columns.
 
 
 ## Syntax

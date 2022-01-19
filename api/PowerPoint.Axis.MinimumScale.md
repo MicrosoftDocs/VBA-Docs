@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MinimumScale property (PowerPoint)
 
-Returns or sets the minimum value on the value axis. Read/write  **Double**.
+Returns or sets the minimum value on the value axis. Read/write **Double**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting this property sets the  **[MinimumScaleIsAuto](PowerPoint.Axis.MinimumScaleIsAuto.md)** property to **False**.
+Setting this property sets the **[MinimumScaleIsAuto](PowerPoint.Axis.MinimumScaleIsAuto.md)** property to **False**.
 
 
 ## Example

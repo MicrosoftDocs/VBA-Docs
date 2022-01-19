@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDocCleanTargets enumeration (Visio)
 
-Flags passed to the  **Document.Clean** method to indicate which objects to examine.
+Flags passed to the **Document.Clean** method to indicate which objects to examine.
 
 
 

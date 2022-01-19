@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormRegion.Parent property (Outlook)
 
-Returns the parent  **Object** of the form region. Read-only.
+Returns the parent **Object** of the form region. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DocumentWindows.Item method (PowerPoint)
 
-Returns a single  **DocumentWindow** object from the specified **DocumentWindows** collection.
+Returns a single **DocumentWindow** object from the specified **DocumentWindows** collection.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ _expression_ A variable that represents a [DocumentWindows](PowerPoint.DocumentW
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **DocumentWindow** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **DocumentWindow** object in the collection to be returned.|
 
 ## Return value
 

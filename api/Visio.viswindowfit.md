@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisWindowFit enumeration (Visio)
 
-Values returned by the  **Window.ViewFit** property.
+Values returned by the **Window.ViewFit** property.
 
 
 

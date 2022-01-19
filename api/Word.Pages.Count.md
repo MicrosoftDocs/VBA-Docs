@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pages.Count property (Word)
 
-Returns a  **Long** that represents the number of pages in the collection. Read-only.
+Returns a **Long** that represents the number of pages in the collection. Read-only.
 
 
 ## Syntax

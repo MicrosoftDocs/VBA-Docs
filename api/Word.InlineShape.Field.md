@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Field property (Word)
 
-Returns a  **Field** object that represents the field associated with the specified inline shape. Read-only.
+Returns a **Field** object that represents the field associated with the specified inline shape. Read-only.
 
 
 ## Syntax

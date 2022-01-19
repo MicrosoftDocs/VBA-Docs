@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.Type property (Word)
 
-Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)**.
+Returns the template type. Read-only **[WdTemplateType](Word.WdTemplateType.md)**.
 
 
 ## Syntax

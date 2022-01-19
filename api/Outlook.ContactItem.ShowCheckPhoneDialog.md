@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContactItem.ShowCheckPhoneDialog method (Outlook)
 
-Displays the  **Check Phone Number** dialog box for a specified telephone number contained by a **[ContactItem](Outlook.ContactItem.md)** object.
+Displays the **Check Phone Number** dialog box for a specified telephone number contained by a **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax

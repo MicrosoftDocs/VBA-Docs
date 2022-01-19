@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _VerbIndex_|Optional| **Variant**|The verb that the OLE object should perform. If this argument is omitted, the default verb is sent. If the OLE object does not support the requested verb, an error will occur. Can be any  **WdOLEVerb** constant.|
+| _VerbIndex_|Optional| **Variant**|The verb that the OLE object should perform. If this argument is omitted, the default verb is sent. If the OLE object does not support the requested verb, an error will occur. Can be any **WdOLEVerb** constant.|
 
 ## Remarks
 

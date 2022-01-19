@@ -21,7 +21,7 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 ## Remarks
 
-If neither the  **Namespace** nor the **[Folder](Outlook.viewctl.fold.md)** properties are set and the control is contained in a Microsoft Outlook folder home page, the control displays the current folder. If the **Namespace** property is set to "MAPI" and the **Folder** property is not set, the control displays the user's **Inbox**.
+If neither the **Namespace** nor the **[Folder](Outlook.viewctl.fold.md)** properties are set and the control is contained in a Microsoft Outlook folder home page, the control displays the current folder. If the **Namespace** property is set to "MAPI" and the **Folder** property is not set, the control displays the user's **Inbox**.
 
 The namespace represents an abstract root object for any data source.
 

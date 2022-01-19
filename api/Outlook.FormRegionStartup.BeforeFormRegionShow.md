@@ -34,11 +34,11 @@ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 ## Remarks
 
-This method lets Outlook pass the  **FormRegion** object to the add-in, and allows an add-in to update the user interface of the form region before it is displayed so that, for instance, the text of labels can be changed or irrelevant content can be suppressed. It is called after the controls are instantiated and the layout is calculated, but before the form region is made visible.
+This method lets Outlook pass the **FormRegion** object to the add-in, and allows an add-in to update the user interface of the form region before it is displayed so that, for instance, the text of labels can be changed or irrelevant content can be suppressed. It is called after the controls are instantiated and the layout is calculated, but before the form region is made visible.
 
 When implementing this method, keep in mind that the item obtained from the  _FormRegion_ parameter (that is, the **[Item](Outlook.FormRegion.Item.md)** property of the **FormRegion** object) is read-only.
 
-For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement **FormRegionStartup**, see code sample downloads on MSDN.
 
 
 ## See also

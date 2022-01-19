@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.BibliographySort property (Word)
 
-Returns or sets a  **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
+Returns or sets a **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
 
 
 ## Syntax

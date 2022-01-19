@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Remarks
 
-This property is of the type  **OLE_COLOR** which is a **Long** value. The default value for this property is 0x80000005, "Window."
+This property is of the type **OLE_COLOR** which is a **Long** value. The default value for this property is 0x80000005, "Window."
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.SplitSpecial property (Word)
 
-Returns or sets the active window pane. Read/write  **WdSpecialPane**.
+Returns or sets the active window pane. Read/write **WdSpecialPane**.
 
 
 ## Syntax

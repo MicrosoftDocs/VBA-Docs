@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisContainerFormatType enumeration (Visio)
 
-Specifies constants that determine the container format to change; passed to the  **[Selection.SetContainerFormat](Visio.Selection.SetContainerFormat.md)** method.
+Specifies constants that determine the container format to change; passed to the **[Selection.SetContainerFormat](Visio.Selection.SetContainerFormat.md)** method.
 
 Version Added: Visio 2010 
 

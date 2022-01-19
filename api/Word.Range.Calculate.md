@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Calculate method (Word)
 
-Calculates a mathematical expression within a range or selection. Returns the result as a  **Single**.
+Calculates a mathematical expression within a range or selection. Returns the result as a **Single**.
 
 
 ## Syntax

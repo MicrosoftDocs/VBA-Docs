@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SelectNamesDialog.Parent property (Outlook)
 
-Returns the parent object of the  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
+Returns the parent object of the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
 
 
 ## Syntax

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Remarks
 
-Use the  **RemoveStore** method to remove a .pst that is already added to a profile.
+Use the **RemoveStore** method to remove a .pst that is already added to a profile.
 
 
 ## Example

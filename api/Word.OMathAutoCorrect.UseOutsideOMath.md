@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathAutoCorrect.UseOutsideOMath property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word uses math autocorrect rules outside equations in a document. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word uses math autocorrect rules outside equations in a document. Read/write.
 
 
 ## Syntax

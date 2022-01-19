@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartCharacters.Caption property (Word)
 
-Returns the text of this range of characters. Read-only  **String**.
+Returns the text of this range of characters. Read-only **String**.
 
 
 ## Syntax

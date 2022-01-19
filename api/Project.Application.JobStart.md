@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _bstrName_|Required|**String**|Name of the project whose queue job was completed.|
 | _bstrprojGuid_|Required|**String**|GUID of the project whose queue job was completed.|
 | _bstrjobGuid_|Required|**String**|GUID of the job that was completed.|
-| _jobType_|Required|**Long**|Job Type of the job that was completed. For example,  **Project Save**, **Project Publish**, **Project Status Update**.|
+| _jobType_|Required|**Long**|Job Type of the job that was completed. For example, **Project Save**, **Project Publish**, **Project Status Update**.|
 | _lResult_|Required|**Long**|**HResult** (error code) of the queue operation. For example, **0** indicates that the job succeeded, **E_FAIL** indicates failure|
 
 ## Return value

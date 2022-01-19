@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.MoveItem Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Move Items** dialog box for the items that are selected in the control.
+Displays the Microsoft Outlook **Move Items** dialog box for the items that are selected in the control.
 
 
 ## Syntax

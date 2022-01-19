@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Work property (Project)
 
-Gets or sets the work (in minutes) for the assignment. Read/write  **Variant**.
+Gets or sets the work (in minutes) for the assignment. Read/write **Variant**.
 
 
 ## Syntax

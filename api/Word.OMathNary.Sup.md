@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathNary.Sup property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the upper limit of an n-ary operator. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the upper limit of an n-ary operator. Read-only.
 
 
 ## Syntax

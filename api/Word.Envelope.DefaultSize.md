@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.DefaultSize property (Word)
 
-Returns or sets the default envelope size. Read/write  **String**.
+Returns or sets the default envelope size. Read/write **String**.
 
 
 ## Syntax

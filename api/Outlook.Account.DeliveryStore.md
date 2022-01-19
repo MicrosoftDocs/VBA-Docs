@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Remarks
 
-Returns  **Null** (**Nothing** in Visual Basic) if the account does not have a default delivery store.
+Returns **Null** (**Nothing** in Visual Basic) if the account does not have a default delivery store.
 
 
 ## See also

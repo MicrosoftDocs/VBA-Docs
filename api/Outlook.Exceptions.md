@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # Exceptions object (Outlook)
 
-Contains a group of  **[Exception](Outlook.Exception.md)** objects.
+Contains a group of **[Exception](Outlook.Exception.md)** objects.
 
 
 ## Remarks
 
-If you have a recurring  **[AppointmentItem](Outlook.AppointmentItem.md)**, the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object defines the recurrence of these appointments. The **Exceptions** object contains the group of **Exception** objects that define the exceptions to that series of appointments.
+If you have a recurring **[AppointmentItem](Outlook.AppointmentItem.md)**, the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object defines the recurrence of these appointments. The **Exceptions** object contains the group of **Exception** objects that define the exceptions to that series of appointments.
 
  **Exception** objects are added to the **Exceptions** object whenever a property in the corresponding **AppointmentItem** object is altered.
 
 
 ## Example
 
-The following example sets a reference to the  **Exceptions** object.
+The following example sets a reference to the **Exceptions** object.
 
 
 ```vb

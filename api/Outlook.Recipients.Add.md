@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Recipients.Add method (Outlook)
 
-Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
+Creates a new recipient in the **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## Syntax

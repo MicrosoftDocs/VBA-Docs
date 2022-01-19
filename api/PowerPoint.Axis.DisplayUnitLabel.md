@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.DisplayUnitLabel property (PowerPoint)
 
-Returns the  **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](PowerPoint.Axis.HasDisplayUnitLabel.md)** property is set to **False**. Read-only.
+Returns the **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](PowerPoint.Axis.HasDisplayUnitLabel.md)** property is set to **False**. Read-only.
 
 
 ## Syntax

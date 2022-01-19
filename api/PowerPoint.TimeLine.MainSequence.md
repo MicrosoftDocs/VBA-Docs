@@ -31,7 +31,7 @@ Sequence
 
 ## Remarks
 
-The default value of the  **MainSequence** property is an empty **Sequence** collection. Any attempt to return a value from this property without adding one or more **Effect** objects to the main animation sequence will result in a run-time error.
+The default value of the **MainSequence** property is an empty **Sequence** collection. Any attempt to return a value from this property without adding one or more **Effect** objects to the main animation sequence will result in a run-time error.
 
 
 ## Example

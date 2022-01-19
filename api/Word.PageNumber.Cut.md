@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[PageNumber](Word.PageNumb
 
 ## Remarks
 
-If expression returns a  **Range** or **Selection** object, the contents of the object are moved to the Clipboard but the collapsed object remains in the document.
+If expression returns a **Range** or **Selection** object, the contents of the object are moved to the Clipboard but the collapsed object remains in the document.
 
 
 ## Example

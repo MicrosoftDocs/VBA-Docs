@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.FormatName property (Word)
 
-Returns the name of the specified file converter. Read-only  **String**.
+Returns the name of the specified file converter. Read-only **String**.
 
 
 ## Syntax

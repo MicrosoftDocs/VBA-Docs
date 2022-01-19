@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathGroupChar.CharTop property (Word)
 
-Returns or sets a  **Boolean** that represents whether the grouping character is placed above the base text of the group character object. **False** displays the group character under the base text. Read/write.
+Returns or sets a **Boolean** that represents whether the grouping character is placed above the base text of the group character object. **False** displays the group character under the base text. Read/write.
 
 
 ## Syntax

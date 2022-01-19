@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailOptions.MarkCommentsWith property (Word)
 
-Returns or sets the string with which Microsoft Word marks comments in email messages. Read/write  **String**.
+Returns or sets the string with which Microsoft Word marks comments in email messages. Read/write **String**.
 
 
 ## Syntax

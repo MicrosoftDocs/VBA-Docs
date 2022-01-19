@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.Last property (Word)
 
-Returns a  **Paragraph** object that represents the last item in the collection of paragraphs.
+Returns a **Paragraph** object that represents the last item in the collection of paragraphs.
 
 
 ## Syntax

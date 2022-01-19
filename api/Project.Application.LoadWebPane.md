@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.LoadWebPane event (Project)
 
-Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, or the **Project/Resource Import Wizard**.
+Occurs when Project loads a Web pane for **Task Drivers**, **Deliverables**, or the **Project/Resource Import Wizard**.
 
 
 ## Syntax

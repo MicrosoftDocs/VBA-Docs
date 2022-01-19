@@ -47,7 +47,7 @@ _expression_. `DocumentExport`( `_FileName_`, `_FileType_`, `_IncludeDocumentPro
 
 Running the **DocumentExport** method without any parameters brings up the **Browse** dialog box and the name of the active project as a PDF file. If the user cancels the **Browse** or the subsequent **Document Export Options** dialog box, **DocumentExport** returns **False**.
 
-To export a custom format PDF or XPS document, where you can use a pointer to a class in an add-in, see  **[ExportAsFixedFormat](Project.Project.ExportAsFixedFormat.md)**.
+To export a custom format PDF or XPS document, where you can use a pointer to a class in an add-in, see **[ExportAsFixedFormat](Project.Project.ExportAsFixedFormat.md)**.
 
 
 ## Example

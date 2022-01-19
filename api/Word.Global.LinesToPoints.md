@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.LinesToPoints method (Word)
 
-Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax

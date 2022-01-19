@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Subprojects.Item property (Project)
 
-Gets a single  **Subproject** object from the **Subprojects** collection. Read-only **Subproject**.
+Gets a single **Subproject** object from the **Subprojects** collection. Read-only **Subproject**.
 
 
 ## Syntax

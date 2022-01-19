@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressEntry.Update method (Outlook)
 
-Posts a change to the  **[AddressEntry](Outlook.AddressEntry.md)** object in the messaging system.
+Posts a change to the **[AddressEntry](Outlook.AddressEntry.md)** object in the messaging system.
 
 
 ## Syntax
@@ -35,9 +35,9 @@ _expression_.**Update** (_MakePermanent_, _Refresh_)
 
 ## Remarks
 
-New entries or changes to existing entries are not persisted in the collection until the  **Update** method has been called with its _MakePermanent_ parameter set to **True**.
+New entries or changes to existing entries are not persisted in the collection until the **Update** method has been called with its _MakePermanent_ parameter set to **True**.
 
-To flush the cache and then reload the values from the address book, call  **Update** with the _MakePermanent_ parameter set to **False** and the _Refresh_ parameter set to **True**.
+To flush the cache and then reload the values from the address book, call **Update** with the _MakePermanent_ parameter set to **False** and the _Refresh_ parameter set to **True**.
 
 
 ## See also

@@ -30,7 +30,7 @@ If you do not want to format all the text in an **[AxisTitle](PowerPoint.AxisTit
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example formats the title of the first chart as bold. Use the  **Font** property to return the **ChartFont** object.
+The following example formats the title of the first chart as bold. Use the **Font** property to return the **ChartFont** object.
 
 
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DisplayUnitLabel.Position property (PowerPoint)
 
-Returns or sets the position of the unit label on an axis in the chart. Read/write  **[XlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
+Returns or sets the position of the unit label on an axis in the chart. Read/write **[XlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
 
 
 ## Syntax

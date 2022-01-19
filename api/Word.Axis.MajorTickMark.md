@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MajorTickMark property (Word)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write **[XlTickMark](Word.xltickmark.md)**.
 
 
 ## Syntax

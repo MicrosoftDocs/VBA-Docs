@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisScrollbarStates enumeration (Visio)
 
-Constants passed to and returned by the  **Window.ShowScrollBars** property.
+Constants passed to and returned by the **Window.ShowScrollBars** property.
 
 
 

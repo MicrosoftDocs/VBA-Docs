@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.WBS property (Project)
 
-Gets or sets the work breakdown structure (WBS) code of the task. Read/write  **String**.
+Gets or sets the work breakdown structure (WBS) code of the task. Read/write **String**.
 
 
 ## Syntax

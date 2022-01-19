@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Inspector.WindowState property (Outlook)
 
-Returns or sets the property with a constant in the  **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
+Returns or sets the property with a constant in the **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathDelim.NoRightChar property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the closing delimiter in a delimiter object. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the closing delimiter in a delimiter object. Read/write.
 
 
 ## Syntax

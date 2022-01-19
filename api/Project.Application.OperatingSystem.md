@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.OperatingSystem property (Project)
 
-Gets the name and version of the operating system. Read-only  **String**.
+Gets the name and version of the operating system. Read-only **String**.
 
 
 ## Syntax

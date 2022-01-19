@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row.ConvertToText method (Word)
 
-Converts a table to text and returns a  **Range** object that represents the delimited text.
+Converts a table to text and returns a **Range** object that represents the delimited text.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any following  **WdTableFieldSeparator** constants: **wdSeparateByCommas**, **wdSeparateByDefaultListSeparator**, **wdSeparateByParagraphs**, or **wdSeparateByTabs** (Default).|
+| _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any following **WdTableFieldSeparator** constants: **wdSeparateByCommas**, **wdSeparateByDefaultListSeparator**, **wdSeparateByParagraphs**, or **wdSeparateByTabs** (Default).|
 | _NestedTables_|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs**. The default value is **True**.|
 
 ## See also

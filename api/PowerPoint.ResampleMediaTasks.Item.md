@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ResampleMediaTasks.Item method (PowerPoint)
 
-Returns a single  **ResampleMediaTask** object from the specified **ResampleMediaTasks** collection.
+Returns a single **ResampleMediaTask** object from the specified **ResampleMediaTasks** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ResampleMediaTasks](PowerPoint.Resamp
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ResampleMediaTask** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ResampleMediaTask** object in the collection to be returned.|
 
 ## Return value
 

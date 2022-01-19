@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextInput.Format property (Word)
 
-Returns the text formatting for the specified text box. Read-only  **String**.
+Returns the text formatting for the specified text box. Read-only **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.Functions property (Word)
 
-Returns an  **[OMathFunctions](Word.OMathFunctions.md)** collection that represents the functions contained within an equation. Read-only.
+Returns an **[OMathFunctions](Word.OMathFunctions.md)** collection that represents the functions contained within an equation. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[TableView](Outlook.tableView.md)** object is created using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the **SaveOption** property is set when the **[TableView](Outlook.tableView.md)** object is created using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example

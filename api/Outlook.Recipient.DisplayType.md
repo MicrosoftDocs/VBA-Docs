@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Recipient.DisplayType property (Outlook)
 
-Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[Recipient](Outlook.Recipient.md)**. Read-only.
+Returns a constant belonging to the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[Recipient](Outlook.Recipient.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) obje
 
 ## Remarks
 
-You can use the  **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
+You can use the **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
 
 
 ## See also

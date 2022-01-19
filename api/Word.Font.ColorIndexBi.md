@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.ColorIndexBi property (Word)
 
-Returns or sets the color for the specified  **Font** object in a right-to-left language document. Read/write **WdColorIndex**.
+Returns or sets the color for the specified **Font** object in a right-to-left language document. Read/write **WdColorIndex**.
 
 
 ## Syntax

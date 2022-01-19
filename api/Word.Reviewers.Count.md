@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Reviewers.Count property (Word)
 
-Returns a  **Long** that represents the number of reviewers in the collection. Read-only.
+Returns a **Long** that represents the number of reviewers in the collection. Read-only.
 
 
 ## Syntax

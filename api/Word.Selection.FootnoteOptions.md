@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.FootnoteOptions property (Word)
 
-Returns  **[FootnoteOptions](Word.FootnoteOptions.md)** object that represents the footnotes in a selection.
+Returns **[FootnoteOptions](Word.FootnoteOptions.md)** object that represents the footnotes in a selection.
 
 
 ## Syntax

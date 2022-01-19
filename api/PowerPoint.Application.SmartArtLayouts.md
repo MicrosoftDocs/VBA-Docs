@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SmartArtLayouts property (PowerPoint)
 
-Returns the SmartArt layout of the current  **Application** object. Read-only.
+Returns the SmartArt layout of the current **Application** object. Read-only.
 
 
 ## Syntax

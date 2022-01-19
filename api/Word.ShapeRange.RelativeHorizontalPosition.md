@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.RelativeHorizontalPosition property (Word)
 
-Specifies the relative horizontal position of a range of shapes. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
+Specifies the relative horizontal position of a range of shapes. Read/write **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax

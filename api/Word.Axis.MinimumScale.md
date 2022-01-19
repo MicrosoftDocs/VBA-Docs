@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MinimumScale property (Word)
 
-Returns or sets the minimum value on the value axis. Read/write  **Double**.
+Returns or sets the minimum value on the value axis. Read/write **Double**.
 
 
 ## Syntax

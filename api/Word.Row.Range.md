@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the specified table row.
+Returns a **Range** object that represents the portion of a document that is contained within the specified table row.
 
 
 ## Syntax

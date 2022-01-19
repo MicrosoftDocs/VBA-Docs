@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.ConnectionSiteCount property (Project)
-Gets the number of connection sites on the shape range. Read-only  **Long**.
+Gets the number of connection sites on the shape range. Read-only **Long**.
 
 ## Syntax
 

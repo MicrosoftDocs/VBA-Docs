@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bookmark.Copy method (Word)
 
-Copies a bookmark to the new bookmark specified in the Name argument, and returns a  **Bookmark** object.
+Copies a bookmark to the new bookmark specified in the Name argument, and returns a **Bookmark** object.
 
 
 ## Syntax

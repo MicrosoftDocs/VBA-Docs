@@ -19,7 +19,7 @@ Represents an order field, used to sort information in a view.
 
 ## Remarks
 
-Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outlook.OrderFields.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](Outlook.View.md)** object:
+Use the **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outlook.OrderFields.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
 - **[BusinessCardView](Outlook.businessCardView.md)**
@@ -30,14 +30,14 @@ Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outl
     
 - **[TableView](Outlook.TableView.md)**
     
-Use the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
+Use the **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
 
  **OrderField** objects contained in an **OrderFields** collection are applied to Outlook items displayed in the view in the order in which the objects are contained in the collection. For each **OrderField** object, use the **[IsDescending](Outlook.OrderField.IsDescending.md)** property to determine whether to sort the contents of the order field in ascending or descending order.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
 
 
 ```vb

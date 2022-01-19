@@ -33,11 +33,11 @@ Single
 
 Negative numbers move the object horizontally to the left. Floating point numbers (for example, 55.5) are allowed.
 
-To scale or move an object horizontally, use the  **ByX** property.
+To scale or move an object horizontally, use the **ByX** property.
 
-If both the  **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
+If both the **ByX** and **ByY** properties are set, then the object is scaled or moves both horizontally and vertically.
 
-Do not confuse this property with the  **By** property of the **[ColorEffect](PowerPoint.ColorEffect.md)**, **[RotationEffect](PowerPoint.RotationEffect.md)**, or **[PropertyEffect](PowerPoint.PropertyEffect.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **By** property of the **[ColorEffect](PowerPoint.ColorEffect.md)**, **[RotationEffect](PowerPoint.RotationEffect.md)**, or **[PropertyEffect](PowerPoint.PropertyEffect.md)** objects, which is used to set colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.DateStorageFormat property (Word)
 
-Returns or sets a  **[WdContentControlDateStorageFormat](Word.WdContentControlDateStorageFormat.md)** that represents the format for storage and retrieval of dates when a date content control is bound to the XML data store of the active document. Read/write.
+Returns or sets a **[WdContentControlDateStorageFormat](Word.WdContentControlDateStorageFormat.md)** that represents the format for storage and retrieval of dates when a date content control is bound to the XML data store of the active document. Read/write.
 
 
 ## Syntax

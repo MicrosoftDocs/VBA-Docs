@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoTextEntries.Add method (Word)
 
-Returns an  **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
+Returns an **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
 
 
 ## Syntax

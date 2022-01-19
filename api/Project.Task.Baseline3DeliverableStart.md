@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Baseline3DeliverableStart property (Project)
 
-Gets or sets the task baseline3 deliverables start date. Read/write  **Variant**.
+Gets or sets the task baseline3 deliverables start date. Read/write **Variant**.
 
 
 ## Syntax

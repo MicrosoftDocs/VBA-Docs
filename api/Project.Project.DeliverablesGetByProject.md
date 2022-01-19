@@ -70,7 +70,7 @@ End Sub
 
 
 > [!NOTE] 
-> To find members of a variable of type  **Object**, such as the **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
+> To find members of a variable of type **Object**, such as the **ds** variable, set a watch on the object, and then set a breakpoint after you assign a value to the object. Expand the variable in the **Watch** pane, and you can see the **XML** member.
 
 The message box shows only the first 1024 characters of the total 17,295 characters of the XML result (in this example). In the following XML result, attributes are broken into separate lines. The actual XML result is all on one line, which you can see if you print the result to the **Immediate** pane in the VBE. The example does not show the XML schema, which makes up most of the content.
 

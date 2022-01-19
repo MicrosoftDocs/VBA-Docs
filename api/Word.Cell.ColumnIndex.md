@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.ColumnIndex property (Word)
 
-Returns the number of the table column that contains the specified cell. Read-only  **Long**.
+Returns the number of the table column that contains the specified cell. Read-only **Long**.
 
 
 ## Syntax

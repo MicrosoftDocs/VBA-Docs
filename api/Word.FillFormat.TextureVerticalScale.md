@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.TextureVerticalScale property (Word)
 
-Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
+Returns or sets a **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 
 
 ## Syntax

@@ -21,6 +21,6 @@ _expression_ A variable that represents a **Page** object.
 
 ## Remarks
 
-To designate an accelerator key, enter a single character for the  **Accelerator** property. You can set **Accelerator** in the property sheet or in code. If the value of this property contains more than one character, the first character in the string becomes the value of **Accelerator**. You cannot use digits in an accelerator.
+To designate an accelerator key, enter a single character for the **Accelerator** property. You can set **Accelerator** in the property sheet or in code. If the value of this property contains more than one character, the first character in the string becomes the value of **Accelerator**. You cannot use digits in an accelerator.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

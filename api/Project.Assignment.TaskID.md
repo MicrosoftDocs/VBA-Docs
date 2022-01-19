@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.TaskID property (Project)
 
-Gets or sets the identification number of a task in the assignment. Read/write  **Long**.
+Gets or sets the identification number of a task in the assignment. Read/write **Long**.
 
 
 ## Syntax

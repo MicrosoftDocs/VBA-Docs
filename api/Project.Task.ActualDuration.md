@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ActualDuration property (Project)
 
-Gets or sets the actual duration (in minutes) of a task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual duration (in minutes) of a task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

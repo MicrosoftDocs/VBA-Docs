@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.NestingLevel property (Word)
 
-Returns a  **Long** that represents the nesting level for an **OMath** object. Read-only.
+Returns a **Long** that represents the nesting level for an **OMath** object. Read-only.
 
 
 ## Syntax

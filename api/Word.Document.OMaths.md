@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMaths property (Word)
 
-Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the specified range. Read-only.
+Returns an **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the specified range. Read-only.
 
 
 ## Syntax

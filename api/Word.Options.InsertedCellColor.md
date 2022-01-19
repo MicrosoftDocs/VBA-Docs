@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.InsertedCellColor property (Word)
 
-Returns or sets a  **WdCellColor** constant that represents the color for an inserted table cell. Read/write.
+Returns or sets a **WdCellColor** constant that represents the color for an inserted table cell. Read/write.
 
 
 ## Syntax

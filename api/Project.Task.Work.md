@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Work property (Project)
 
-Gets or sets the work (in minutes) for the task. Read/write  **Variant**.
+Gets or sets the work (in minutes) for the task. Read/write **Variant**.
 
 
 ## Syntax

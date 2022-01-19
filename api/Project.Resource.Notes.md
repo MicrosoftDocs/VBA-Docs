@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Notes property (Project)
 
-Gets or sets the notes for a resource. Read/write  **String**.
+Gets or sets the notes for a resource. Read/write **String**.
 
 
 ## Syntax

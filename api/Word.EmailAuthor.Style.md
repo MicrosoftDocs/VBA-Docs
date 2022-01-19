@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailAuthor.Style property (Word)
 
-Returns a  **Style** object that represents the style associated with the current email author for unsent replies, forwards, or new email messages.
+Returns a **Style** object that represents the style associated with the current email author for unsent replies, forwards, or new email messages.
 
 
 ## Syntax

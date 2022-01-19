@@ -39,7 +39,7 @@ AddIn
 
 ## Remarks
 
-This method doesn't load the new add-in. You must set the  **Loaded** property to load the add-in.
+This method doesn't load the new add-in. You must set the **Loaded** property to load the add-in.
 
 
 ## See also

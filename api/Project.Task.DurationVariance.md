@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.DurationVariance property (Project)
 
-Gets the variance (in minutes) between the planned duration and the duration of the task. Read-only  **Variant**.
+Gets the variance (in minutes) between the planned duration and the duration of the task. Read-only **Variant**.
 
 
 ## Syntax

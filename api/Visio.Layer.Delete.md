@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Layer.Delete method (Visio)
 
-Deletes a  **Layer** object. Can also delete shapes assigned to the deleted layer.
+Deletes a **Layer** object. Can also delete shapes assigned to the deleted layer.
 
 
 ## Syntax

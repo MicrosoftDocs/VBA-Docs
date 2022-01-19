@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMathFontName property (Word)
 
-Returns or sets a  **String** that represents the name of the font used in a document to display equations. Read/write.
+Returns or sets a **String** that represents the name of the font used in a document to display equations. Read/write.
 
 
 ## Syntax

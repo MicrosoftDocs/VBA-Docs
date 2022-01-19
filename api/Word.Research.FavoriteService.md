@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Research.FavoriteService property (Word)
 
-Returns or sets a  **String** that specifies the favorite research service.
+Returns or sets a **String** that specifies the favorite research service.
 
 
 ## Syntax

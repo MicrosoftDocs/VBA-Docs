@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 
 ## Remarks
 
-This method does not select  **InlineShape** objects. You cannot use this method to select more than one canvas.
+This method does not select **InlineShape** objects. You cannot use this method to select more than one canvas.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TaskRequestUpdateItem.ShowCategoriesDialog method (Outlook)
 
-Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
+Displays the **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Peak property (Project)
 
-Gets the largest number of resource units for the assignment. Read-only  **Variant**.
+Gets the largest number of resource units for the assignment. Read-only **Variant**.
 
 
 ## Syntax

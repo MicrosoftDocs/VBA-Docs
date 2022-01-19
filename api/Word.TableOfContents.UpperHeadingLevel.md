@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfContents.UpperHeadingLevel property (Word)
 
-Returns or sets the starting heading level for a table of contents. Read/write  **Long**.
+Returns or sets the starting heading level for a table of contents. Read/write **Long**.
 
 
 ## Syntax

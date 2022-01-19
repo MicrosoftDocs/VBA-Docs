@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Variant**|The chart group number. If specified, a single  **[ChartGroup](PowerPoint.ChartGroup.md)** object is returned. If omitted, a **[ChartGroups](PowerPoint.ChartGroups.md)** object is returned which contains a collection of every **ChartGroup** object for that chart.|
+| _Index_|Optional|**Variant**|The chart group number. If specified, a single **[ChartGroup](PowerPoint.ChartGroup.md)** object is returned. If omitted, a **[ChartGroups](PowerPoint.ChartGroups.md)** object is returned which contains a collection of every **ChartGroup** object for that chart.|
 
 ## Example
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.SenderCity property (Word)
 
-Returns or sets the sender's city. Not used in the U.S. English version of Microsoft Word. Read/write  **String**.
+Returns or sets the sender's city. Not used in the U.S. English version of Microsoft Word. Read/write **String**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRu
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[AutoFormatRules](Outlook.TableView.AutoFormatRules.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
+The following Visual Basic for Applications (VBA) example enumerates the **[AutoFormatRules](Outlook.TableView.AutoFormatRules.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.ParentRow property (Word)
 
-Returns an  **[OMathMatRow](Word.OMathMatRow.md)** object that represents the parent row in a matrix. Read-only.
+Returns an **[OMathMatRow](Word.OMathMatRow.md)** object that represents the parent row in a matrix. Read-only.
 
 
 ## Syntax

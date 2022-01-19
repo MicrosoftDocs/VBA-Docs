@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetThreeDFormat property (Word)
 
-Returns the preset extrusion format. Read-only  **MsoPresetThreeDFormat**.
+Returns the preset extrusion format. Read-only **MsoPresetThreeDFormat**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDF
 
 ## Remarks
 
-Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**.
+Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns **msoPresetThreeDFormatMixed**.
 
 The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the **3D** button on the **Drawing** toolbar.
 

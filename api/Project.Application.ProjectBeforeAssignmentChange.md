@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _asg_|Required|**Assignment**|The assignment whose field is being changed.|
 | _Field_|Required|**PjAssignmentField**| The field being changed. If more than one field is changed by the user, the event is triggered for each field changed. Can be one of the following **[PjAssignmentField](Project.PjAssignmentField.md)** constants.|
-| _NewVal_|Required|**Variant**|The new value for the field specified with  **Field**.|
+| _NewVal_|Required|**Variant**|The new value for the field specified with **Field**.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with **Field** is not changed.|
 
 ## Remarks

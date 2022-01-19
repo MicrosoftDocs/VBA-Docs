@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Rad property (Word)
 
-Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathematical radical function. Read-only.
+Returns an **[OMathRad](Word.OMathRad.md)** object that represents the mathematical radical function. Read-only.
 
 
 ## Syntax

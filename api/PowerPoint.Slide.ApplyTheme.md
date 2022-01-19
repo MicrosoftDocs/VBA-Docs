@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the  **Slide** object.|
+| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the **Slide** object.|
 
 ## Example
 

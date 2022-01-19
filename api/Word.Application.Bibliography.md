@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Bibliography property (Word)
 
-Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references sources stored in Microsoft Word. Read-only.
+Returns a **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references sources stored in Microsoft Word. Read-only.
 
 
 ## Syntax

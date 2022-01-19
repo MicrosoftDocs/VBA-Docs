@@ -26,9 +26,9 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the [CurrentUser](Outlook.Account.CurrentUser.md) property of a specific account.
+In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the **AddressEntry** object of the user that is represented by the [CurrentUser](Outlook.Account.CurrentUser.md) property of a specific account.
 
-If you set the  **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
+If you set the **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFrac.Type property (Word)
 
-Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that represents the layout of a fraction, whether it is stacked, skewed, linear, or without a fraction bar. Read/write.
+Returns or sets a **[WdOMathFracType](Word.WdOMathFracType.md)** constant that represents the layout of a fraction, whether it is stacked, skewed, linear, or without a fraction bar. Read/write.
 
 
 ## Syntax

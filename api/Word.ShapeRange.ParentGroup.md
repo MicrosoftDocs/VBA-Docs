@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.ParentGroup property (Word)
 
-Returns a  **Shape** object that represents the common parent shape of a range of shapes.
+Returns a **Shape** object that represents the common parent shape of a range of shapes.
 
 
 ## Syntax

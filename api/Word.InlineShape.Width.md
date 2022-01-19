@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Width property (Word)
 
-Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the specified inline shape. Read/write  **Long**.
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the specified inline shape. Read/write **Long**.
 
 
 ## Syntax

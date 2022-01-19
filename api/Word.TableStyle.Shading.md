@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.Shading property (Word)
 
-Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified table style.
+Returns a **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified table style.
 
 
 ## Syntax

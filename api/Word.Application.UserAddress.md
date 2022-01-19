@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.UserAddress property (Word)
 
-Returns or sets the user's mailing address. Read/write  **String**.
+Returns or sets the user's mailing address. Read/write **String**.
 
 
 ## Syntax

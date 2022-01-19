@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ReflectionFormat.Type property (Word)
 
-Returns or sets an  **MsoLightRigType** constant that represents the type and direction of the lighting for a shape reflection. Read/write.
+Returns or sets an **MsoLightRigType** constant that represents the type and direction of the lighting for a shape reflection. Read/write.
 
 
 ## Syntax

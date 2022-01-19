@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.PathSeparator property (Project)
 
-Gets the separator character for the file system path. Read/write  **String**.
+Gets the separator character for the file system path. Read/write **String**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The default value of  **PathSeparator** is "\", for example, in the path "C:\Projects". Project sets the value of **PathSeparator** internally.
+The default value of **PathSeparator** is "\", for example, in the path "C:\Projects". Project sets the value of **PathSeparator** internally.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

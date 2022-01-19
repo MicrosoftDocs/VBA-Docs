@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.PasswordEncryptionAlgorithm property (Word)
 
-Returns a  **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
+Returns a **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
 
 
 ## Syntax

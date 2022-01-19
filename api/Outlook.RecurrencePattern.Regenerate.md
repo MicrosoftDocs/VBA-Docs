@@ -28,12 +28,12 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 This property is used to control the regeneration of the task as each occurrence of a recurring task is completed. It is only valid for tasks. It is not valid for appointments.
 
-To create a recurrence pattern, you must first set the  **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True**, do not set it to **False**. If you subsequently set **Regenerate** to **False**, then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](Outlook.RecurrencePattern.md)** object.
+To create a recurrence pattern, you must first set the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to set the frequency, then set the **Regenerate** property to **True** to regenerate the task. After setting **Regenerate** to **True**, do not set it to **False**. If you subsequently set **Regenerate** to **False**, then you should set up the recurrence pattern again by getting a new **[RecurrencePattern](Outlook.RecurrencePattern.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a task called "Oil Change" that recurs every three months and uses the  **Regenerate** property to set it to regenerate after each recurrence.
+This Visual Basic for Applications (VBA) example creates a task called "Oil Change" that recurs every three months and uses the **Regenerate** property to set it to regenerate after each recurrence.
 
 
 ```vb

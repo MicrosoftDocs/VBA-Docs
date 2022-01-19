@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.NextSibling property (Word)
 
-Returns an  **XMLNode** object that represents the next element in the document that is at the same level as the specified element.
+Returns an **XMLNode** object that represents the next element in the document that is at the same level as the specified element.
 
 
 ## Syntax

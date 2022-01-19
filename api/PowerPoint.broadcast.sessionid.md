@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) o
 
 ## Remarks
 
-If a broadcast is not in progress,  **SessionID** returns an empty string.
+If a broadcast is not in progress, **SessionID** returns an empty string.
 
 
 ## Property value

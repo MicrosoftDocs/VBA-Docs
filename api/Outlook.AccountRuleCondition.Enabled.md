@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AccountRuleCondition](Outlook.Accoun
 
 ## Remarks
 
-After you enable a rule condition, you must also save the rule by using  **[Rules.Save](Outlook.Rules.Save.md)** so that the rule condition and its enabled state will persist beyond the current session. A rule condition is only enabled after it has been saved successfully.
+After you enable a rule condition, you must also save the rule by using **[Rules.Save](Outlook.Rules.Save.md)** so that the rule condition and its enabled state will persist beyond the current session. A rule condition is only enabled after it has been saved successfully.
 
 
 ## See also

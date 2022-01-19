@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.DateDisplayLocale property (Word)
 
-Returns a  **WdLanguageID** that represents the language format for the date displayed in a date content control. Read/write.
+Returns a **WdLanguageID** that represents the language format for the date displayed in a date content control. Read/write.
 
 
 ## Syntax

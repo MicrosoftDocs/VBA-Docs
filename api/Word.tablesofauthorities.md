@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TablesOfAuthorities object (Word)
 
-A collection of  **[TableOfAuthorities](Word.TableOfAuthorities.md)** objects (TOA fields) that represents the tables of authorities in a document.
+A collection of **[TableOfAuthorities](Word.TableOfAuthorities.md)** objects (TOA fields) that represents the tables of authorities in a document.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
  Passim:=True, Category:=0, EntrySeparator:= ", "
 ```
 
-Use  **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
+Use **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
 
 
 

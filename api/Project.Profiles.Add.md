@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Profiles.Add method (Project)
 
-Adds an account  **[Profile](Project.Profile.md)** object to the **Profiles** collection.
+Adds an account **[Profile](Project.Profile.md)** object to the **Profiles** collection.
 
 
 ## Syntax

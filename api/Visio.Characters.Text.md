@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Characters.Text property (Visio)
 
-Returns the range of text represented by a  **Characters** object, which may be a subset of the shape's text depending on the values of the **Characters** object's **Begin** and **End** properties.Read/write.
+Returns the range of text represented by a **Characters** object, which may be a subset of the shape's text depending on the values of the **Characters** object's **Begin** and **End** properties.Read/write.
 
 
 ## Syntax
@@ -31,13 +31,13 @@ Variant
 
 ## Remarks
 
-The text for a  **Characters** object is returned in a **Variant** of type **String**, as opposed to in a **String**. This is typically transparent if you are using Microsoft Visual Basic.
+The text for a **Characters** object is returned in a **Variant** of type **String**, as opposed to in a **String**. This is typically transparent if you are using Microsoft Visual Basic.
 
-In the text returned by a  **Characters** object, fields are expanded to the number of characters that are visible in the drawing window. For example, if a shape's text contains a field that displays the file name of a drawing, the **Text** property of a **Characters** object returns the expanded file name (provided the **Begin** and **End** properties were not altered).
+In the text returned by a **Characters** object, fields are expanded to the number of characters that are visible in the drawing window. For example, if a shape's text contains a field that displays the file name of a drawing, the **Text** property of a **Characters** object returns the expanded file name (provided the **Begin** and **End** properties were not altered).
 
-If a  **Characters** object represents the text of a shape that is a group, it will always return the text of the group.
+If a **Characters** object represents the text of a shape that is a group, it will always return the text of the group.
 
-Objects from other applications and guides don't have a  **Text** property.
+Objects from other applications and guides don't have a **Text** property.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 
@@ -47,7 +47,7 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to get the  **Text** property of a **Characters** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to get the **Text** property of a **Characters** object.
 
 
 ```vb

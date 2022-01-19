@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Tasks.Count property (Word)
 
-Returns a  **Long** that represents the number of tasks in the collection. Read-only.
+Returns a **Long** that represents the number of tasks in the collection. Read-only.
 
 
 ## Syntax

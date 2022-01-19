@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MinorTickMark property (Word)
 
-Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)**.
+Returns or sets the type of minor tick mark for the specified axis. Read/write **[XlTickMark](Word.xltickmark.md)**.
 
 
 ## Syntax

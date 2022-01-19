@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shapes.Item method (Project)
-Returns an individual  **Shape** object in the **Shapes** collection.
+Returns an individual **Shape** object in the **Shapes** collection.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.TextureOffsetX property (Word)
 
-Returns or sets a  **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
+Returns or sets a **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DoNotPromptForConvert property (Word)
 
-Sets or returns a  **Boolean** that represents whether to prompt a warning dialog when the Convert command is invoked for documents that are in compatibility mode. Read/write.
+Sets or returns a **Boolean** that represents whether to prompt a warning dialog when the Convert command is invoked for documents that are in compatibility mode. Read/write.
 
 
 ## Syntax

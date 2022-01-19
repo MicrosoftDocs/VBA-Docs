@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataTable.Font property (PowerPoint)
 
-Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
+Returns the font of the specified object. Read-only **[ChartFont](PowerPoint.ChartFont.md)**.
 
 
 ## Syntax

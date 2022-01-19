@@ -26,12 +26,12 @@ _expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestI
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime**.
+This property corresponds to the MAPI property **PidTagLastModificationTime**.
 
 
 ## Example
 
-This Visual Basic for Applications example uses the  **[Items.Restrict](Outlook.Items.Restrict.md)** method to apply a filter to contact items based on the item's **LastModificationTime** property. You can apply a similar approach to filter on the **LastModificationTime** property of other Outlook items.
+This Visual Basic for Applications example uses the **[Items.Restrict](Outlook.Items.Restrict.md)** method to apply a filter to contact items based on the item's **LastModificationTime** property. You can apply a similar approach to filter on the **LastModificationTime** property of other Outlook items.
 
 
 ```vb

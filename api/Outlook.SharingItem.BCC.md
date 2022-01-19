@@ -30,7 +30,7 @@ This property contains only the display names, delimited with semicolon (;) char
 
 
 > [!NOTE] 
-> If the  **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](Outlook.SharingItem.Send(method).md)** method to raise an error.
+> If the **SharingItem** uses an Exchange sharing context, then setting this property to any value other than **Nothing** prevents the item from being sent and causes the **[Send](Outlook.SharingItem.Send(method).md)** method to raise an error.
 
 
 ## See also

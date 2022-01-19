@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[Selection](Visio.Selection.md)** ob
 
 ## Remarks
 
-When you call the  **RemoveFromContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property for each container to determine how the container resizes.
+When you call the **RemoveFromContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property for each container to determine how the container resizes.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

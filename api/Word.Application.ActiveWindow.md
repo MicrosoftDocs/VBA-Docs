@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ActiveWindow property (Word)
 
-Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). If there are no windows open, an error occurs. Read-only.
+Returns a **[Window](Word.Window.md)** object that represents the active window (the window with the focus). If there are no windows open, an error occurs. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.BevelBottomInset property (Word)
 
-Returns or sets a  **Single** that represents the inset size for the bottom bevel. Read/write.
+Returns or sets a **Single** that represents the inset size for the bottom bevel. Read/write.
 
 
 ## Syntax

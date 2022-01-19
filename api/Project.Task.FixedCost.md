@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.FixedCost property (Project)
 
-Gets or sets a fixed cost for a task. Read/write  **Variant**.
+Gets or sets a fixed cost for a task. Read/write **Variant**.
 
 
 ## Syntax

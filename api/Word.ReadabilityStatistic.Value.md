@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ReadabilityStatistic.Value property (Word)
 
-Returns the value of the grammar statistic. Read-only  **Long**.
+Returns the value of the grammar statistic. Read-only **Long**.
 
 
 ## Syntax

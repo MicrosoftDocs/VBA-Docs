@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Tables.Count property (Word)
 
-Returns a  **Long** that represents the number of tables in the collection. Read-only.
+Returns a **Long** that represents the number of tables in the collection. Read-only.
 
 
 ## Syntax

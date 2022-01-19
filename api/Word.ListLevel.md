@@ -19,7 +19,7 @@ Represents a single list level, either the only level for a bulleted or numbered
 
 ## Remarks
 
-Use  **ListLevels** (Index), where Index is a number from 1 through 9, to return a single **ListLevel** object. The following example sets list level one of list template one in the active document to start at 4.
+Use **ListLevels** (Index), where Index is a number from 1 through 9, to return a single **ListLevel** object. The following example sets list level one of list template one in the active document to start at 4.
 
 
 ```vb

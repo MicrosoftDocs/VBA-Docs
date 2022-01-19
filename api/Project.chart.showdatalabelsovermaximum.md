@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ShowDataLabelsOverMaximum property (Project)
-Gets or sets whether to show data labels on a 2D chart when the value is greater than the maximum value on the value axis. Read/write  **Boolean**.
+Gets or sets whether to show data labels on a 2D chart when the value is greater than the maximum value on the value axis. Read/write **Boolean**.
 
 ## Syntax
 

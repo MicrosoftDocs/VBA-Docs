@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bibliography.BibliographyStyle property (Word)
 
-Returns or sets a  **String** that represents the name of the active style to use for a bibliography. Read/write.
+Returns or sets a **String** that represents the name of the active style to use for a bibliography. Read/write.
 
 
 ## Syntax

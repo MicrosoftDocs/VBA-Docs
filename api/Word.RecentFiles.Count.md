@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RecentFiles.Count property (Word)
 
-Returns a  **Long** that represents the number of recent files in the collection. Read-only.
+Returns a **Long** that represents the number of recent files in the collection. Read-only.
 
 
 ## Syntax

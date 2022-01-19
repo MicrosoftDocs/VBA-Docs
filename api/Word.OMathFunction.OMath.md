@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.OMath property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the equation. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the equation. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.PasswordEncryptionKeyLength property (Word)
 
-Returns a  **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
+Returns a **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax

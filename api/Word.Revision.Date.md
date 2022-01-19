@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Date property (Word)
 
-The date and time that the tracked change was made. Read-only  **Date**.
+The date and time that the tracked change was made. Read-only **Date**.
 
 
 ## Syntax

@@ -41,7 +41,7 @@ _expression_ A variable that represents a [Series](Word.Series.md) object.
 
 ## Remarks
 
-The Type parameter can be one of the following  **xlDataLabelsType** constants:
+The Type parameter can be one of the following **xlDataLabelsType** constants:
 
 - **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
     

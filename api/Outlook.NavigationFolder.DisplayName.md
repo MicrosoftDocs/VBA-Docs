@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationF
 
 ## Remarks
 
-Use  **NavigationFolder.DisplayName**, instead of **[Folder.Name](Outlook.Folder.Name.md)**, to get the name of a shared folder.
+Use **NavigationFolder.DisplayName**, instead of **[Folder.Name](Outlook.Folder.Name.md)**, to get the name of a shared folder.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.ID property (Word)
 
-Returns the identification type for the range of shapes. Read-only  **Long**.
+Returns the identification type for the range of shapes. Read-only **Long**.
 
 
 ## Syntax

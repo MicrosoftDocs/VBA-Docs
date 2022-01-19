@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SendRuleAction.ActionType property (Outlook)
 
-Returns a constant,  **olRuleActionRedirect**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant, **olRuleActionRedirect**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

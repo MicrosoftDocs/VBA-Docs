@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.ZOrderPosition property (Project)
-Gets the position of the shape in the z-order. Read-only  **Long**.
+Gets the position of the shape in the z-order. Read-only **Long**.
 
 ## Syntax
 

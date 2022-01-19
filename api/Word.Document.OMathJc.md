@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMathJc property (Word)
 
-Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** constant that represents the default justification—left, right, centered, or centered as a group—of a group of equations. Read/write.
+Returns or sets a **[WdOMathJc](Word.WdOMathJc.md)** constant that represents the default justification—left, right, centered, or centered as a group—of a group of equations. Read/write.
 
 
 ## Syntax

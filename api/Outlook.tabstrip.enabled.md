@@ -23,8 +23,8 @@ _expression_ A variable that represents a **TabStrip** object.
 
  **True** is the control can receive the focus and respond to user-generated events, and is accessible through code (default). **False** if the user cannot interact with the control by using the mouse, keystrokes, accelerators, or hotkeys. The control is generally still accessible through code.
 
-Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
+Use the **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-When the user tabs into an enabled  **[TabStrip](Outlook.tabstrip.md)**, the first tab in the control receives the focus. If the first tab of a **TabStrip** is disabled, the first enabled tab of that control receives the focus. If all tabs of a **TabStrip** are disabled, the control is disabled and cannot receive the focus.
+When the user tabs into an enabled **[TabStrip](Outlook.tabstrip.md)**, the first tab in the control receives the focus. If the first tab of a **TabStrip** is disabled, the first enabled tab of that control receives the focus. If all tabs of a **TabStrip** are disabled, the control is disabled and cannot receive the focus.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CaptionLabels.Count property (Word)
 
-Returns a  **Long** that represents the number of caption labels in the collection. Read-only.
+Returns a **Long** that represents the number of caption labels in the collection. Read-only.
 
 
 ## Syntax

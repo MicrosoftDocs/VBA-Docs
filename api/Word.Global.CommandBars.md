@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.CommandBars property (Word)
 
-Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
+Returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
 
 ## Syntax

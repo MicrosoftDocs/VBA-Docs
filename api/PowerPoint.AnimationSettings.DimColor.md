@@ -31,7 +31,7 @@ ColorFormat
 
 ## Remarks
 
-If you don't get the effect you expect, check your other build settings. You won't see the effect of the  **DimColor** property unless the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property of the **AnimationSettings** object is set to something other than **ppAnimateLevelNone**, the **[AfterEffect](PowerPoint.EffectInformation.AfterEffect.md)** property is set to **ppAfterEffectDim**, and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **True**. In addition, if the specified shape is the only item or the last item to be built on the slide, the shape won't be dimmed. To change the build order of the shapes on a slide, use the **[AnimationOrder](PowerPoint.AnimationSettings.AnimationOrder.md)** property.
+If you don't get the effect you expect, check your other build settings. You won't see the effect of the **DimColor** property unless the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property of the **AnimationSettings** object is set to something other than **ppAnimateLevelNone**, the **[AfterEffect](PowerPoint.EffectInformation.AfterEffect.md)** property is set to **ppAfterEffectDim**, and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **True**. In addition, if the specified shape is the only item or the last item to be built on the slide, the shape won't be dimmed. To change the build order of the shapes on a slide, use the **[AnimationOrder](PowerPoint.AnimationSettings.AnimationOrder.md)** property.
 
 
 ## Example

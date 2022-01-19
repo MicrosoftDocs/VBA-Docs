@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # JournalItem.Conflicts property (Outlook)
 
-Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Returns the **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DropCap object (Word)
 
-Represents a dropped capital letter at the beginning of a paragraph. There is no  **DropCaps** collection; each **[Paragraph](Word.Paragraph.md)** object contains only one **DropCap** object.
+Represents a dropped capital letter at the beginning of a paragraph. There is no **DropCaps** collection; each **[Paragraph](Word.Paragraph.md)** object contains only one **DropCap** object.
 
 
 ## Remarks

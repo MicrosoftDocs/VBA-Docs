@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpSoundEffectType enumeration (PowerPoint)
 
-Constants that specify the type of sound effect, passed to and returned by the  **Type** property of the **SoundEffect** object.
+Constants that specify the type of sound effect, passed to and returned by the **Type** property of the **SoundEffect** object.
 
 
 

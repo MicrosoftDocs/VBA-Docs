@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pane.Pages property (Word)
 
-Returns a  **[Pages](Word.pages.md)** collection that represents the pages in a document.
+Returns a **[Pages](Word.pages.md)** collection that represents the pages in a document.
 
 
 ## Syntax

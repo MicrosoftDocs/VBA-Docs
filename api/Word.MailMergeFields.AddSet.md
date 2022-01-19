@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddSet method (Word)
 
-Adds a SET field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a SET field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

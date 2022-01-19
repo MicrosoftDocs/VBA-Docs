@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.ReplyRecipientNames property (Outlook)
 
-Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a semicolon-delimited **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property only contains the display names for the reply recipients. The reply recipients list should be set by using the  **[ReplyRecipients](Outlook.SharingItem.ReplyRecipients.md)** collection.
+This property only contains the display names for the reply recipients. The reply recipients list should be set by using the **[ReplyRecipients](Outlook.SharingItem.ReplyRecipients.md)** collection.
 
 
 ## See also

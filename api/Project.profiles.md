@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Profiles object (Project)
 
-Contains a collection of  **[Profile](Project.Profile.md)** objects, which are local or Project Server accounts that are defined in Project Professional.
+Contains a collection of **[Profile](Project.Profile.md)** objects, which are local or Project Server accounts that are defined in Project Professional.
  
 
 

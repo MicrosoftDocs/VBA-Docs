@@ -31,18 +31,18 @@ Long()
 
 ## Remarks
 
-The event filters described in the array returned by the  **GetFilterCommands** method provide developers a way of ignoring specified events based on command ID. The array returned is that passed to the **SetFilterCommands** method for this **Event** object.
+The event filters described in the array returned by the **GetFilterCommands** method provide developers a way of ignoring specified events based on command ID. The array returned is that passed to the **SetFilterCommands** method for this **Event** object.
 
-The array that is returned by the  **GetFilterCommands** method can be interpreted in the following manner:
+The array that is returned by the **GetFilterCommands** method can be interpreted in the following manner:
 
 The number of elements in the array is a multiple of 3, as follows:
 
 
 
 
-- The first element contains the beginning command ID of the range (any member of  **[VisUICmds](Visio.visuicmds.md)**).
+- The first element contains the beginning command ID of the range (any member of **[VisUICmds](Visio.visuicmds.md)**).
     
-- The second element contains the end command ID of the range (any member of  **VisUICmds**).
+- The second element contains the end command ID of the range (any member of **VisUICmds**).
     
 - The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
@@ -65,6 +65,6 @@ For an event to successfully pass through a command filter, it must satisfy the 
 
 If there are no **True** ranges defined in the array, events are considered **True**.
 
-For details about using command IDs to define event filters, see the  **SetFilterCommands** method.
+For details about using command IDs to define event filters, see the **SetFilterCommands** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

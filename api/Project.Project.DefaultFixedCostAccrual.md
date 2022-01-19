@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultFixedCostAccrual property (Project)
 
-Gets or sets the default method used to accrue fixed task costs in the project. Read/write  **PjAccrueAt**.
+Gets or sets the default method used to accrue fixed task costs in the project. Read/write **PjAccrueAt**.
 
 
 ## Syntax

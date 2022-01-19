@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.AutoFormatType property (Word)
 
-Returns the type of automatic formatting that's been applied to the specified table. Read-only  **Long**.
+Returns the type of automatic formatting that's been applied to the specified table. Read-only **Long**.
 
 
 ## Syntax

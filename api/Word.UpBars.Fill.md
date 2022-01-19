@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UpBars.Fill property (Word)
 
-Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
+Returns a **[FillFormat](Word.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisMeasurementSystem enumeration (Visio)
 
-Measurement system types to be passed to the  **Documents.AddEx** method.
+Measurement system types to be passed to the **Documents.AddEx** method.
 
 
 

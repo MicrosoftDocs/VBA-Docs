@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.DefaultHeight property (Word)
 
-Returns or sets the default envelope height, in points. Read/write  **Single**.
+Returns or sets the default envelope height, in points. Read/write **Single**.
 
 
 ## Syntax

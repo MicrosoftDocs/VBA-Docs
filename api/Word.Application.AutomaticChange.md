@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AutomaticChange method (Word)
 
-Performs an  **AutoFormat** action when there is a change suggested by the Office Assistant. If no AutoFormat action is active, this method generates an error.
+Performs an **AutoFormat** action when there is a change suggested by the Office Assistant. If no AutoFormat action is active, this method generates an error.
 
 
 ## Syntax

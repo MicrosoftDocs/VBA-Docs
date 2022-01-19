@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.Closing property (Word)
 
-Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write  **String**.
+Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write **String**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Cost property (Project)
 
-Gets the total cost of the resource in a project. Read/write  **Variant**.
+Gets the total cost of the resource in a project. Read/write **Variant**.
 
 
 ## Syntax

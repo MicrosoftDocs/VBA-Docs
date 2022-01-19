@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfAuthorities.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a table of authorities.
+Returns a **Range** object that represents the portion of a document that is contained within a table of authorities.
 
 
 ## Syntax

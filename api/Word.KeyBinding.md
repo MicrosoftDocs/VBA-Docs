@@ -19,7 +19,7 @@ Represents a custom key assignment in the current context. The **KeyBinding** ob
 
 ## Remarks
 
-Use  **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **[KeyBindings](Word.keybindings.md)** collection.
+Use **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **[KeyBindings](Word.keybindings.md)** collection.
 
 
 ```vb

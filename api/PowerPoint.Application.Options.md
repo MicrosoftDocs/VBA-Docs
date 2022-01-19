@@ -31,7 +31,7 @@ Options
 
 ## Example
 
-Use the  **Options** property to return the **Options** object. The following example sets three application options for PowerPoint.
+Use the **Options** property to return the **Options** object. The following example sets three application options for PowerPoint.
 
 
 ```vb

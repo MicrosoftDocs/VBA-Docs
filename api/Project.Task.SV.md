@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.SV property (Project)
 
-Gets the earned value scheduled variance (SV) of the task. Read-only  **Variant**.
+Gets the earned value scheduled variance (SV) of the task. Read-only **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Value property (Word)
 
-Returns or sets a  **String** that represents the contents of a building block. Read/write.
+Returns or sets a **String** that represents the contents of a building block. Read/write.
 
 
 ## Syntax

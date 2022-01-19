@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailOptions.ComposeStyle property (Word)
 
-Returns a  **[Style](Word.Style.md)** object that represents the style used to compose new email messages. Read-only.
+Returns a **[Style](Word.Style.md)** object that represents the style used to compose new email messages. Read-only.
 
 
 ## Syntax

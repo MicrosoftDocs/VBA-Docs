@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Reflection property (Word)
 
-Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a shape. Read-only.
+Returns a **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a shape. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AnimationBehaviors.Item method (PowerPoint)
 
-Returns a single  **AnimationBehavior** object from the specified **AnimationBehaviors** collection.
+Returns a single **AnimationBehavior** object from the specified **AnimationBehaviors** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AnimationBehaviors](PowerPoint.Anima
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **AnimationBehavior** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **AnimationBehavior** object in the collection to be returned.|
 
 ## Return value
 

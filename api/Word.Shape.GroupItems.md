@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.GroupItems property (Word)
 
-Returns a  **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
+Returns a **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 ## Remarks
 
-This property applies to  **Shape** object that represent grouped shapes. Use the **Item** method of the **[GroupShapes](Word.groupshapes.md)** object to return a single shape from the group.
+This property applies to **Shape** object that represent grouped shapes. Use the **Item** method of the **[GroupShapes](Word.groupshapes.md)** object to return a single shape from the group.
 
 
 ## Example

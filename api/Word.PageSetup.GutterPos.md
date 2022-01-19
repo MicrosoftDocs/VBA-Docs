@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.GutterPos property (Word)
 
-Returns or sets on which side the gutter appears in a document. Read/write  **WdGutterStyle**.
+Returns or sets on which side the gutter appears in a document. Read/write **WdGutterStyle**.
 
 
 ## Syntax

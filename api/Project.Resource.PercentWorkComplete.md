@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.PercentWorkComplete property (Project)
 
-Gets or sets the percentage of work complete for a resource. Read-only  **Variant**.
+Gets or sets the percentage of work complete for a resource. Read-only **Variant**.
 
 
 ## Syntax

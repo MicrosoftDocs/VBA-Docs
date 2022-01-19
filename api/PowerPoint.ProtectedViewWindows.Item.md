@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindows.Item method (PowerPoint)
 
-Returns a single  **ProtectedViewWindow** object from the specified **ProtectedViewWindows** collection.
+Returns a single **ProtectedViewWindow** object from the specified **ProtectedViewWindows** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ProtectedViewWindows](PowerPoint.Prot
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ProtectedViewWindow** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ProtectedViewWindow** object in the collection to be returned.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Top property (Word)
 
-Returns a  **Long** that represents the top edge of the page. Read-only.
+Returns a **Long** that represents the top edge of the page. Read-only.
 
 
 ## Syntax

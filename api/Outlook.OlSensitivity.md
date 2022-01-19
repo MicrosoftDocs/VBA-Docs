@@ -27,6 +27,6 @@ Represents the sensitivity for the Microsoft Outlook item.
 
 ## Remarks
 
-Used by the  **Sensitivity** property of Outlook items.
+Used by the **Sensitivity** property of Outlook items.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

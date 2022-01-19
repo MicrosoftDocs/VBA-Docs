@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dictionary.Path property (Word)
 
-Returns the path to the specified dictionary. Read-only  **String**.
+Returns the path to the specified dictionary. Read-only **String**.
 
 
 ## Syntax

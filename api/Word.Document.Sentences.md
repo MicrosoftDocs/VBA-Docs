@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Sentences property (Word)
 
-Returns a  **[Sentences](Word.sentences.md)** collection that represents all the sentences in the document. Read-only.
+Returns a **[Sentences](Word.sentences.md)** collection that represents all the sentences in the document. Read-only.
 
 
 ## Syntax

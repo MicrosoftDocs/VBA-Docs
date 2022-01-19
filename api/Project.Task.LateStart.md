@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.LateStart property (Project)
 
-Gets the latest date on which a task can start. Read-only  **Variant**.
+Gets the latest date on which a task can start. Read-only **Variant**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ TextRange
 
 ## Remarks
 
-Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

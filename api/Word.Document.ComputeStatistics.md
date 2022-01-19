@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ComputeStatistics method (Word)
 
-Returns a statistic based on the contents of the specified document.  **Long**.
+Returns a statistic based on the contents of the specified document. **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Account.AccountType property (Outlook)
 
-Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumeration that indicates the type of the **[Account](Outlook.Account.md)**. Read-only.
+Returns a constant in the **[OlAccountType](Outlook.OlAccountType.md)** enumeration that indicates the type of the **[Account](Outlook.Account.md)**. Read-only.
 
 
 ## Syntax

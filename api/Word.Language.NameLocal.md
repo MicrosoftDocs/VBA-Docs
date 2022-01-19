@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.NameLocal property (Word)
 
-Returns the name of a proofing tool language in the language of the user. Read-only  **String**.
+Returns the name of a proofing tool language in the language of the user. Read-only **String**.
 
 
 ## Syntax

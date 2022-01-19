@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.HorizontalResolution property (Word)
 
-Returns the horizontal display resolution, in pixels. Read-only  **Long**.
+Returns the horizontal display resolution, in pixels. Read-only **Long**.
 
 
 ## Syntax

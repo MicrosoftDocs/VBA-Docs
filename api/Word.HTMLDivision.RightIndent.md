@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivision.RightIndent property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single**.
+Returns or sets the right indent (in points) for the specified paragraphs. Read/write **Single**.
 
 
 ## Syntax

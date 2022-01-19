@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.MediaFormat property (PowerPoint)
 
-Returns the current  **MediaFormat** object. Read-only.
+Returns the current **MediaFormat** object. Read-only.
 
 
 ## Syntax

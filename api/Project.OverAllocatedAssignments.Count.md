@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OverAllocatedAssignments.Count property (Project)
 
-Gets the number of  **Assignment** objects in the **OverAllocatedAssignments** collection. Read-only **Long**.
+Gets the number of **Assignment** objects in the **OverAllocatedAssignments** collection. Read-only **Long**.
 
 
 ## Syntax

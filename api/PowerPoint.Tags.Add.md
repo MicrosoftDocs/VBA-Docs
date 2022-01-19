@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Tags.Add method (PowerPoint)
 
-Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
+Adds a tag to the **[Tags](PowerPoint.Tags.md)** collection of an object.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ViewField](Outlook.ViewField.md) obje
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb

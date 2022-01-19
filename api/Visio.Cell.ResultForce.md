@@ -37,9 +37,9 @@ Double
 
 ## Remarks
 
-Use the  **ResultForce** method to set a cell's value even if the cell's formula is protected with a GUARD function. If the string is invalid, an error is generated.
+Use the **ResultForce** method to set a cell's value even if the cell's formula is protected with a GUARD function. If the string is invalid, an error is generated.
 
-Setting the  **ResultForce** property is similar to setting a cell's **ResultFromIntForce** property. The difference is that the **ResultFromIntForce** property accepts an integer for the value of the cell, whereas the **ResultForce** property accepts a floating point number.
+Setting the **ResultForce** property is similar to setting a cell's **ResultFromIntForce** property. The difference is that the **ResultFromIntForce** property accepts an integer for the value of the cell, whereas the **ResultForce** property accepts a floating point number.
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
@@ -51,8 +51,8 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. For example,
 
 For a complete list of valid unit strings along with their corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
+Automation constants for representing units are declared by the Visio type library in member **[VisUnitCodes](Visio.visunitcodes.md)**.
 
-To specify internal units, pass a zero-length string (""). Internal units are inches for distance and radians for angles. To specify implicit units, you must use the  **Formula** property.
+To specify internal units, pass a zero-length string (""). Internal units are inches for distance and radians for angles. To specify implicit units, you must use the **Formula** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

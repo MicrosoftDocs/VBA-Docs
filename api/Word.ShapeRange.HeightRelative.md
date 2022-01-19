@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.HeightRelative property (Word)
 
-Returns or sets a  **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
+Returns or sets a **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
 
 
 ## Syntax

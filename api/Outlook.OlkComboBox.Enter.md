@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkComboBox.Enter event (Outlook)
 
-Occurs when the control receives focus, immediately after the previous control's  **Exit** event.
+Occurs when the control receives focus, immediately after the previous control's **Exit** event.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-This is similar to the  **GotFocus** event exposed by managed-code controls or in Microsoft Visual Basic 6.
+This is similar to the **GotFocus** event exposed by managed-code controls or in Microsoft Visual Basic 6.
 
 
 ## See also

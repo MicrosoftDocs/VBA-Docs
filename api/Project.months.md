@@ -9,13 +9,13 @@ ms.localizationpriority: medium
 
 # Months object (Project)
 
-Contains a collection of  **[Month](Project.Month.md)** objects.
+Contains a collection of **[Month](Project.Month.md)** objects.
  
 
 
 ## Remarks
 
-Use  **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object.
+Use **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object.
  
 
  

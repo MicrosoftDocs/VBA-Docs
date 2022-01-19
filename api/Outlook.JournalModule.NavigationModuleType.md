@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property returns  **olModuleJournal** for the **[JournalModule](Outlook.JournalModule.md)** object.
+This property returns **olModuleJournal** for the **[JournalModule](Outlook.JournalModule.md)** object.
 
 
 ## See also

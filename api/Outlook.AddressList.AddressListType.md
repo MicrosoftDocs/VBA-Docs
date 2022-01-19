@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressList.AddressListType property (Outlook)
 
-Returns a constant from the  **[OlAddressListType](Outlook.OlAddressListType.md)** enumeration that represents the type of the **[AddressList](Outlook.AddressList.md)**. Read-only.
+Returns a constant from the **[OlAddressListType](Outlook.OlAddressListType.md)** enumeration that represents the type of the **[AddressList](Outlook.AddressList.md)**. Read-only.
 
 
 ## Syntax

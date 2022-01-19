@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelWindowClose** after the user has directed the instance to close a window.
+A Microsoft Visio instance fires **QueryCancelWindowClose** after the user has directed the instance to close a window.
 
 
 

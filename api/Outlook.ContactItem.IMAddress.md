@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-Unlike the  **[Recipients](Outlook.MailItem.Recipients.md)** or **[To](Outlook.MailItem.To.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
+Unlike the **[Recipients](Outlook.MailItem.Recipients.md)** or **[To](Outlook.MailItem.To.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ListSeparator property (Project)
 
-Gets or sets the character that separates items in lists. Read/write  **String**.
+Gets or sets the character that separates items in lists. Read/write **String**.
 
 
 ## Syntax

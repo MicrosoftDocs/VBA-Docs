@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 
 # TimeScaleValues object (Project)
 
-Contains a collection of  **[TimeScaleValue](Project.TimeScaleValue.md)** objects.
+Contains a collection of **[TimeScaleValue](Project.TimeScaleValue.md)** objects.
 
 
 ## Examples
 
  **Using the TimeScaleValue Object**
 
-Use  **TimeScaleValues** (_index_), where _index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
+Use **TimeScaleValues** (_index_), where _index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
 
 
 

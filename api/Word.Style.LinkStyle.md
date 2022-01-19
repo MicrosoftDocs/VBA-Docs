@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.LinkStyle property (Word)
 
-Sets or returns a  **Variant** that represents a link between a paragraph and a character style. Read/write.
+Sets or returns a **Variant** that represents a link between a paragraph and a character style. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Line property (Word)
 
-Returns a  **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
+Returns a **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.CrossesAt property (PowerPoint)
 
-Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
+Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write **Double**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting this property causes the  **[Crosses](PowerPoint.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom**.
+Setting this property causes the **[Crosses](PowerPoint.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom**.
 
 You cannot use this property on radar charts. For 3D charts, this property indicates where the plane defined by the category axes crosses the value axis.
 

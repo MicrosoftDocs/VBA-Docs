@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Kerning property (Word)
 
-Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write  **Single**.
+Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write **Single**.
 
 
 ## Syntax

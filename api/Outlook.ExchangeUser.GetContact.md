@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.GetContact method (Outlook)
 
-Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeUser](Outlook.ExchangeUser.md)** object does not correspond to a contact in a Contacts Address Book.
+Returns **Null** (**Nothing** in Visual Basic) because the **[ExchangeUser](Outlook.ExchangeUser.md)** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## Syntax

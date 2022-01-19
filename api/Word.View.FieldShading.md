@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.FieldShading property (Word)
 
-Returns or sets on-screen shading for fields. Read/write  **WdFieldShading**.
+Returns or sets on-screen shading for fields. Read/write **WdFieldShading**.
 
 
 ## Syntax

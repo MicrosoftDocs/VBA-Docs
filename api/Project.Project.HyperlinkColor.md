@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.HyperlinkColor property (Project)
 
-Gets or sets the color used to denote unfollowed hyperlinks. Read/write  **PjColor**.
+Gets or sets the color used to denote unfollowed hyperlinks. Read/write **PjColor**.
 
 
 ## Syntax

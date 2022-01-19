@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.CVPercent property (Project)
 
-Gets the cost variance percent of the task. Read-only  **Variant**.
+Gets the cost variance percent of the task. Read-only **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.Alignment property (Word)
 
-Returns or sets an  **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
+Returns or sets an **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
 
 
 ## Syntax

@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|The chart group number. If specified, a single  **[ChartGroup](Word.ChartGroup.md)** object is returned. If omitted, a **[ChartGroups](Word.ChartGroups.md)** object, which contains a collection of every **ChartGroup** object for that chart, is returned.|
+| _Index_|Optional| **Variant**|The chart group number. If specified, a single **[ChartGroup](Word.ChartGroup.md)** object is returned. If omitted, a **[ChartGroups](Word.ChartGroups.md)** object, which contains a collection of every **ChartGroup** object for that chart, is returned.|
 
 ## Example
 

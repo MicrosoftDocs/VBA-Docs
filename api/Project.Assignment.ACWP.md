@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ACWP property (Project)
 
-Gets the actual cost of work performed for the assignment. Read-only  **Variant**.
+Gets the actual cost of work performed for the assignment. Read-only **Variant**.
 
 
 ## Syntax

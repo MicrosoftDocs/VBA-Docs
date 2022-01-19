@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.FillBasedOn property (Visio)
 
-Gets or sets the fill style on which the  **Style** object is based. Read/write.
+Gets or sets the fill style on which the **Style** object is based. Read/write.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ String
 
 ## Remarks
 
-To base a style on no style, set the  **FillBasedOn** property to a zero-length string ("").
+To base a style on no style, set the **FillBasedOn** property to a zero-length string ("").
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

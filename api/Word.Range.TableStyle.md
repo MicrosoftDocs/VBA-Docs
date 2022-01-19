@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.TableStyle property (Word)
 
-Returns a  **Variant** that represents the style used to format a table. Read-only.
+Returns a **Variant** that represents the style used to format a table. Read-only.
 
 
 ## Syntax

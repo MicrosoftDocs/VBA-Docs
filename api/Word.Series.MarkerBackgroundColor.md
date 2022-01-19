@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.MarkerBackgroundColor property (Word)
 
-Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
+Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write **Long**.
 
 
 ## Syntax

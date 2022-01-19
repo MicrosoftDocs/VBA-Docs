@@ -30,7 +30,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The owner of the folder. Note that the  **Recipient** object must be resolved.|
+| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The owner of the folder. Note that the **Recipient** object must be resolved.|
 | _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of folder.|
 
 ## Return value
@@ -40,14 +40,14 @@ A **Folder** object that represents the specified default folder for the specifi
 
 ## Remarks
 
-This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared  **Calendar** folder).
+This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared **Calendar** folder).
 
  _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar**, **olFolderContacts**, **olFolderDrafts**, **olFolderInbox**, **olFolderJournal**, **olFolderNotes**, or **olFolderTasks**. (The constants **olFolderDeletedItems**, **olFolderOutbox**, **olFolderJunk**, **olFolderConflicts**, **olFolderLocalFailures**, **olFolderServerFailures**, **olFolderSyncIssues**, **olPublicFoldersAllPublicFolders**, **olFolderRssSubscriptions**, **olFolderToDo**, **olFolderManagedEmail**, and **olFolderSentMail** cannot be specified for this argument.)
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **GetSharedDefaultFolder** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **GetSharedDefaultFolder** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
 
 
 ```vb

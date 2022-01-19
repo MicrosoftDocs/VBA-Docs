@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.MinuteLabelDisplay property (Project)
 
-Gets or sets the abbreviation for "minute" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "minute" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBorderBox.StrikeV property (Word)
 
-Returns or sets a  **Boolean** that represents a vertical strikethrough. Read/write.
+Returns or sets a **Boolean** that represents a vertical strikethrough. Read/write.
 
 
 ## Syntax

@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[ValidationIssue](Visio.ValidationIs
 
 ## Remarks
 
-If the issue is not associated with a specific page, the  **TargetPageID** property returns -1.
+If the issue is not associated with a specific page, the **TargetPageID** property returns -1.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

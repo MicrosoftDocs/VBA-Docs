@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Options.EnableLiveDrag property (Word)
 
-Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read/write.
+Returns or sets a **Boolean** that is **True** if live drag is enabled. Read/write.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 ## Remarks
 
-Setting  **EnableLiveDrag** to True is the equivalent of selecting **Update document content while dragging** under **User Interface options** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
+Setting **EnableLiveDrag** to True is the equivalent of selecting **Update document content while dragging** under **User Interface options** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
 
 
 ## Property value

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.Type property (Word)
 
-Returns or sets a  **WdOMathType** constant that represents whether an equation is displayed inline with the text around it or displayed on its own line. Read/write.
+Returns or sets a **WdOMathType** constant that represents whether an equation is displayed inline with the text around it or displayed on its own line. Read/write.
 
 
 ## Syntax

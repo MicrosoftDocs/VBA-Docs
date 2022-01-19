@@ -30,8 +30,8 @@ _expression_. `SetPlaceholderText`( `_BuildingBlock_` , `_Range_` , `_Text_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _BuildingBlock_|Optional| **BuildingBlock**|Specifies a  **BuildingBlock** object that contains the contents of the placeholder text.|
-| _Range_|Optional| **Range**|Specifies a  **Range** object that contains the contents of the placeholder text.|
+| _BuildingBlock_|Optional| **BuildingBlock**|Specifies a **BuildingBlock** object that contains the contents of the placeholder text.|
+| _Range_|Optional| **Range**|Specifies a **Range** object that contains the contents of the placeholder text.|
 | _Text_|Optional| **String**|Specifies the contents of the placeholder text.|
 
 ## Remarks

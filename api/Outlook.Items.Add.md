@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Items.Add method (Outlook)
 
-Creates a new Outlook item in the  **[Items](Outlook.Items.md)** collection for the folder.
+Creates a new Outlook item in the **[Items](Outlook.Items.md)** collection for the folder.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ An **Object** value that represents the new Outlook item.
 
 ## Remarks
 
-If not specified, the  **Type** property of the Outlook item defaults to the type of the folder or to **[MailItem](Outlook.MailItem.md)** if the parent folder is not typed.
+If not specified, the **Type** property of the Outlook item defaults to the type of the folder or to **[MailItem](Outlook.MailItem.md)** if the parent folder is not typed.
 
 
 ## Example

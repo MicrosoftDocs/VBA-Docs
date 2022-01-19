@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ToolbarSet.Toolbars property (Visio)
 
-Returns the  **Toolbars** collection of a **ToolbarSet** object. Read-only.
+Returns the **Toolbars** collection of a **ToolbarSet** object. Read-only.
 
 
 ## Syntax
@@ -31,13 +31,13 @@ Toolbars
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Toolbars** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Toolbars** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
 
 
 
 Before running this code, replace `path\filename` with the full path to and name of a valid icon (.ico) file on your computer.
 
-To restore the built-in Visio toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in Visio toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

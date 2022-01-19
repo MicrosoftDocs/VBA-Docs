@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.EndArrowheadLength property (Word)
 
-Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadLength**.
+Returns or sets the length of the arrowhead at the end of the specified line. Read/write **MsoArrowheadLength**.
 
 
 ## Syntax

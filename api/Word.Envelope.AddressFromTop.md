@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.AddressFromTop property (Word)
 
-Returns or sets the distance (in points) between the top edge of the envelope and the delivery address. Read/write  **Single**.
+Returns or sets the distance (in points) between the top edge of the envelope and the delivery address. Read/write **Single**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextStyles.Item method (PowerPoint)
 
-Returns a single text style from the specified  **[TextStyles](PowerPoint.TextStyles.md)** collection.
+Returns a single text style from the specified **[TextStyles](PowerPoint.TextStyles.md)** collection.
 
 
 ## Syntax

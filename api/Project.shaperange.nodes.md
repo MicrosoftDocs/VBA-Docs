@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Nodes property (Project)
-Gets the geometric description of nodes or control points in the shape range. Read-only  **[ShapeNodes](https://msdn.microsoft.com/library/office/ff822109%28v=office.15%29)**.
+Gets the geometric description of nodes or control points in the shape range. Read-only **[ShapeNodes](https://msdn.microsoft.com/library/office/ff822109%28v=office.15%29)**.
 
 ## Syntax
 

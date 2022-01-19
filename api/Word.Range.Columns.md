@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Columns property (Word)
 
-Returns a  **[Columns](Word.columns.md)** collection that represents all the table columns in the range. Read-only.
+Returns a **[Columns](Word.columns.md)** collection that represents all the table columns in the range. Read-only.
 
 
 ## Syntax

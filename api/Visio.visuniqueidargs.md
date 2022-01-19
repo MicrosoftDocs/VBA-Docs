@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUniqueIDArgs enumeration (Visio)
 
-Action codes to be passed to the  **Shape.UniqueID** property.
+Action codes to be passed to the **Shape.UniqueID** property.
 
 
 

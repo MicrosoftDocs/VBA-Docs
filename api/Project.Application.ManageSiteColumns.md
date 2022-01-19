@@ -49,7 +49,7 @@ The following table shows the columns and default synchronized fields in the **M
 To add the **Priority** field in the Project Field column and synchronize with the **Priority** column in SharePoint, try the following:
 
 
-1. Rename a text custom field in Project; for example, name  **Text1** as **SharePoint Priority**.    
+1. Rename a text custom field in Project; for example, name **Text1** as **SharePoint Priority**.    
 2. Run the **ManageSiteColumns** method, and then in the **Manage Fields** dialog box, select **SharePoint Priority (Text1)** in the **Project Field** drop-down list that corresponds to **Priority** in the SharePoint column.    
 3. Run the **SyncPriority** macro.
 

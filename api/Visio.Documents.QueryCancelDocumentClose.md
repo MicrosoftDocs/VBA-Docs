@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Documents](Visio.Documents.md)** ob
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelDocumentClose** after the user has directed the instance to close a document.
+A Microsoft Visio instance fires **QueryCancelDocumentClose** after the user has directed the instance to close a document.
 
 
 

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Bookmarks object (Word)
 
-A collection of  **[Bookmark](Word.Bookmark.md)** objects that represent the bookmarks in the specified selection, range, or document.
+A collection of **[Bookmark](Word.Bookmark.md)** objects that represent the bookmarks in the specified selection, range, or document.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ Use the **[Add](Word.Bookmarks.Add.md)** method to set a bookmark for a range in
 ActiveDocument.Bookmarks.Add Name:="temp", Range:=Selection.Range
 ```
 
-Use  **Bookmarks** (_index_), where _index_ is the bookmark name or index number, to return a single **Bookmark** object. You must exactly match the spelling (but not necessarily the capitalization) of the bookmark name. The following example selects the bookmark named "temp" in the active document.
+Use **Bookmarks** (_index_), where _index_ is the bookmark name or index number, to return a single **Bookmark** object. You must exactly match the spelling (but not necessarily the capitalization) of the bookmark name. The following example selects the bookmark named "temp" in the active document.
 
 
 

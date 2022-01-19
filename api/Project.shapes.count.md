@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shapes.Count property (Project)
-Gets the number of  **Shape** objects in the **Shapes** collection. Read-only **Long**.
+Gets the number of **Shape** objects in the **Shapes** collection. Read-only **Long**.
 
 ## Syntax
 

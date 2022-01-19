@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Explorers](Outlook.Explorers.md) obj
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Folder_|Required| **Variant**|The **Variant** object to display in the explorer window when it is created.|
-| _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** constants.|
+| _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** constants.|
 
 ## Return value
 
@@ -42,7 +42,7 @@ An **[Explorer](Outlook.Explorer.md)** object that represents a new instance of 
 
 The  _Folder_ argument can represent either a **[Folder](Outlook.Folder.md)** object or the URL to that folder.
 
-The explorer window is initially hidden. You must call the  **[Display](Outlook.Explorer.Display.md)** method of the **Explorer** object to make it visible.
+The explorer window is initially hidden. You must call the **[Display](Outlook.Explorer.Display.md)** method of the **Explorer** object to make it visible.
 
 
 ## Example

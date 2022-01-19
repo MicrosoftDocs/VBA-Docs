@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Subdocuments.AddFromFile method (Word)
 
-Adds the specified subdocument to the master document at the start of the selection and returns a  **Subdocument** object.
+Adds the specified subdocument to the master document at the start of the selection and returns a **Subdocument** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Master property (Visio)
 
-Returns the master from which the  **Shape** object was created. Read-only.
+Returns the master from which the **Shape** object was created. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ Master
 
 ## Remarks
 
-If the  **Shape** object is not an instance of a master, its **Master** property returns **Nothing**.
+If the **Shape** object is not an instance of a master, its **Master** property returns **Nothing**.
 
-If the  **Shape** object is in a group, its **Master** property is the same as the group's **Master** property.
+If the **Shape** object is in a group, its **Master** property is the same as the group's **Master** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DeliverableStart property (Project)
 
-Gets or sets the task deliverable start date. Read/write  **Variant**.
+Gets or sets the task deliverable start date. Read/write **Variant**.
 
 
 ## Syntax

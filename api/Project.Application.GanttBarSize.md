@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Size_|Required|**Long**|A constant specifying the height, in [points](../language/glossary/vbe-glossary.md#point), of the Gantt bars in the active Gantt Chart. Can be one of the following  **[PjBarSize](Project.PjBarSize.md)** constants.|
+| _Size_|Required|**Long**|A constant specifying the height, in [points](../language/glossary/vbe-glossary.md#point), of the Gantt bars in the active Gantt Chart. Can be one of the following **[PjBarSize](Project.PjBarSize.md)** constants.|
 
 ## Return value
 

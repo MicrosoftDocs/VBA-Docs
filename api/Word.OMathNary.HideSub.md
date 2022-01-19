@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathNary.HideSub property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the lower limit of an n-ary operator. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the lower limit of an n-ary operator. Read/write.
 
 
 ## Syntax

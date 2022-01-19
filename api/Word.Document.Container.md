@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Container property (Word)
 
-Returns the object that represents the container application for the specified document. Read-only  **Object**.
+Returns the object that represents the container application for the specified document. Read-only **Object**.
 
 
 ## Syntax

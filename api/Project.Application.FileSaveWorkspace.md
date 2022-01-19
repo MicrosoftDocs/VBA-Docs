@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of the file to create. If  **Name** is omitted, Project prompts for the file name.|
+| _Name_|Optional|**String**|The name of the file to create. If **Name** is omitted, Project prompts for the file name.|
 
 ## Return value
 

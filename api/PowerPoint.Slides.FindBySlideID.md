@@ -39,7 +39,7 @@ Slide
 
 ## Remarks
 
-Unlike the  **SlideIndex** property, the **SlideID** property of a **Slide** object won't change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **FindBySlideID** method with the slide ID number can be a more reliable way to return a specific **Slide** object from a **[Slides](PowerPoint.Slides.md)** collection than using the **Item** method with the slide's index number.
+Unlike the **SlideIndex** property, the **SlideID** property of a **Slide** object won't change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **FindBySlideID** method with the slide ID number can be a more reliable way to return a specific **Slide** object from a **[Slides](PowerPoint.Slides.md)** collection than using the **Item** method with the slide's index number.
 
 
 ## Example

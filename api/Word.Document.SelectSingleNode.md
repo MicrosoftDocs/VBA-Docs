@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectSingleNode method (Word)
 
-Returns an  **XMLNode** object that represents the first node that matches the XPath parameter in the specified document.
+Returns an **XMLNode** object that represents the first node that matches the XPath parameter in the specified document.
 
 
 ## Syntax

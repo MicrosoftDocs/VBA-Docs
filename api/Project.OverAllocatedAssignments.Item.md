@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OverAllocatedAssignments.Item property (Project)
 
-Gets a single  **Assignment** object from the **OverAllocatedAssignments** collection. Read-only **[Assignment](Project.Assignment.md)**.
+Gets a single **Assignment** object from the **OverAllocatedAssignments** collection. Read-only **[Assignment](Project.Assignment.md)**.
 
 
 ## Syntax

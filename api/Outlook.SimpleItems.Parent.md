@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SimpleItems.Parent property (Outlook)
 
-Returns the parent  **Object** of the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
+Returns the parent **Object** of the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 
 
 ## Syntax

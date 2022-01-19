@@ -19,7 +19,7 @@ Represents a language used for proofing or formatting in Microsoft Word. The **L
 
 ## Remarks
 
-Use  **Languages** (Index) to return a single **Language** object, where Index can be the value of the **Name** property, the value of the **NameLocal** property, one of the **WdLanguageID** constants, or one of the **MsoLanguageID** constants. (For the list of valid **WdLanguageID** or **MsoLanguageID** constants, see the Object Browser in the Visual Basic Editor.)
+Use **Languages** (Index) to return a single **Language** object, where Index can be the value of the **Name** property, the value of the **NameLocal** property, one of the **WdLanguageID** constants, or one of the **MsoLanguageID** constants. (For the list of valid **WdLanguageID** or **MsoLanguageID** constants, see the Object Browser in the Visual Basic Editor.)
 
 The **Name** property returns the name of a language, whereas the **NameLocal** property returns the name of a language in the language of the user. The following example returns the string "Italiano" for **Name** and "Italian (Standard)" for **NameLocal** when it is run in the U.S. English version of Word.
 
@@ -83,7 +83,7 @@ Sub SetWritingStyle()
 End Sub
 ```
 
-If you mark text as  **wdNoProofing**, Word skips the marked text when running a spelling or grammar check.
+If you mark text as **wdNoProofing**, Word skips the marked text when running a spelling or grammar check.
 
 
 > [!NOTE] 

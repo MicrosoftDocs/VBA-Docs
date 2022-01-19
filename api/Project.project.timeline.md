@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Project.Timeline property (Project)
 
-Returns the root object for all Timeline properties. Read/write  **object**. Introduced in Office 2016.
+Returns the root object for all Timeline properties. Read/write **object**. Introduced in Office 2016.
 
 
 ## Syntax

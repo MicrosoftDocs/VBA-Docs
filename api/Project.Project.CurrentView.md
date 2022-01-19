@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.CurrentView property (Project)
 
-Gets the name of the active view for a project. Read-only  **String**.
+Gets the name of the active view for a project. Read-only **String**.
 
 
 ## Syntax

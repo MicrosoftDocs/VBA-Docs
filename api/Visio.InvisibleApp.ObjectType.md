@@ -31,6 +31,6 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

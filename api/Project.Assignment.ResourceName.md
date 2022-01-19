@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ResourceName property (Project)
 
-Gets or sets the name of the resource for the assignment. Read/write  **String**.
+Gets or sets the name of the resource for the assignment. Read/write **String**.
 
 
 ## Syntax

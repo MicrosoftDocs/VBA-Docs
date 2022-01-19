@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MinorUnit property (Word)
 
-Returns or sets the minor units on the value axis. Read/write  **Double**.
+Returns or sets the minor units on the value axis. Read/write **Double**.
 
 
 ## Syntax

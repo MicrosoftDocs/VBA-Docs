@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableField.Field property (Project)
 
-Gets or sets the type of a table field. Read/write  **PjField**.
+Gets or sets the type of a table field. Read/write **PjField**.
 
 
 ## Syntax

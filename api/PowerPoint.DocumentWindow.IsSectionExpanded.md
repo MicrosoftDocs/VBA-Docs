@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DocumentWindow.IsSectionExpanded method (PowerPoint)
 
-Indicates whether the selected section is expanded in the  **DocumentWindow**.
+Indicates whether the selected section is expanded in the **DocumentWindow**.
 
 
 ## Syntax

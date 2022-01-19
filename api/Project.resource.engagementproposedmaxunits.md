@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementProposedMaxUnits property (Project)
 
-Returns the proposed maximum units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
+Returns the proposed maximum units for the engagement. Read-only **Integer**. Introduced in Office 2016.
 
 
 ## Syntax

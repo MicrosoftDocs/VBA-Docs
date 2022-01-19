@@ -30,7 +30,7 @@ The **Chart** object in Project does not implement events. So, a chart in Projec
 
 ## Example
 
-The following example creates a simple scalar chart for tasks in the active project. The chart shows the **Actual Work**,  **Remaining Work**, and  **Work** default fields.
+The following example creates a simple scalar chart for tasks in the active project. The chart shows the **Actual Work**, **Remaining Work**, and **Work** default fields.
 
 To create some sample data, add four tasks to a new project, assign local resources to those tasks, and set various values of duration and actual work. For example, try the values in Table 1.
 

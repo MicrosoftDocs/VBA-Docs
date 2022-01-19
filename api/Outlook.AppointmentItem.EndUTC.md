@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-Changing the value for the  **[AppointmentItem.End](Outlook.AppointmentItem.End.md)** property or the **[AppointmentItem.EndTimeZone](Outlook.AppointmentItem.EndTimeZone.md)** property will cause Outlook to recalculate the **EndUTC**.
+Changing the value for the **[AppointmentItem.End](Outlook.AppointmentItem.End.md)** property or the **[AppointmentItem.EndTimeZone](Outlook.AppointmentItem.EndTimeZone.md)** property will cause Outlook to recalculate the **EndUTC**.
 
 
 ## See also

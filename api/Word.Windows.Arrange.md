@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Windows](Word.windows.md)' collectio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ArrangeStyle_|Optional| **Variant**|The window arrangement. Can be either of the following  **WdArrangeStyle** constants: **wdIcons** or **wdTiled**.|
+| _ArrangeStyle_|Optional| **Variant**|The window arrangement. Can be either of the following **WdArrangeStyle** constants: **wdIcons** or **wdTiled**.|
 
 ## Remarks
 

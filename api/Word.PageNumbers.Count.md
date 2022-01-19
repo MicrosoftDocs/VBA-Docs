@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageNumbers.Count property (Word)
 
-Returns a  **Long** that represents the number of page numbers in the collection. Read-only.
+Returns a **Long** that represents the number of page numbers in the collection. Read-only.
 
 
 ## Syntax

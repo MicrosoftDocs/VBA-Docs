@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ListFormat property (Word)
 
-Returns a  **[ListFormat](Word.ListFormat.md)** object that represents all the list formatting characteristics of a range. Read-only.
+Returns a **[ListFormat](Word.ListFormat.md)** object that represents all the list formatting characteristics of a range. Read-only.
 
 
 ## Syntax

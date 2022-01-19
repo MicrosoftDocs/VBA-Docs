@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.VerticalAlignment property (Word)
 
-Returns or sets the vertical alignment of text in one or more cells of a table. Read/write  **WdCellVerticalAlignment**.
+Returns or sets the vertical alignment of text in one or more cells of a table. Read/write **WdCellVerticalAlignment**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Use the **SynonymInfo** property to return a **SynonymInfo** object. The **Synon
 temp = SynonymInfo(Word:="meant", LanguageID:=wdEnglishUS).Found
 ```
 
-The following example returns a  **SynonymInfo** object from a range.
+The following example returns a **SynonymInfo** object from a range.
 
 
 

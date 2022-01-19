@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.LineSpacing property (Word)
 
-Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single**.
+Returns or sets the line spacing (in points) for the specified paragraphs. Read/write **Single**.
 
 
 ## Syntax

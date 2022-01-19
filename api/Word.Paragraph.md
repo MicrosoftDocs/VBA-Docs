@@ -19,7 +19,7 @@ Represents a single paragraph in a selection, range, or document. The **Paragrap
 
 ## Remarks
 
-Use  **Paragraphs** (Index), where Index is the index number, to return a single **Paragraph** object. The following example right aligns the first paragraph in the active document.
+Use **Paragraphs** (Index), where Index is the index number, to return a single **Paragraph** object. The following example right aligns the first paragraph in the active document.
 
 
 ```vb

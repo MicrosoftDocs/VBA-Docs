@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Options.ParagraphAlignmentGuides property (Word)
 
-Returns or sets a  **Boolean** that specifies whether paragraph alignment guides are displayed in the user interface. Read/write.
+Returns or sets a **Boolean** that specifies whether paragraph alignment guides are displayed in the user interface. Read/write.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 ## Remarks
 
-If  **ParagraphAlignmentGuides** is set to **True**, paragraph alignment guides are displayed. Setting  **ParagraphAlignmentGuides** to **True** corresponds to selecting **Paragraph guides** under **Alignment Guides** in the **Grid and Guides** dialog box. (Click **Grid Settings** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.) For the **ParagraphAlignmentGuides** setting to have any effect, **[DisplayAlignmentGuides](Word.options.displayalignmentguides.md)** must be set to **True**.
+If **ParagraphAlignmentGuides** is set to **True**, paragraph alignment guides are displayed. Setting **ParagraphAlignmentGuides** to **True** corresponds to selecting **Paragraph guides** under **Alignment Guides** in the **Grid and Guides** dialog box. (Click **Grid Settings** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.) For the **ParagraphAlignmentGuides** setting to have any effect, **[DisplayAlignmentGuides](Word.options.displayalignmentguides.md)** must be set to **True**.
 
 
 ## Property value

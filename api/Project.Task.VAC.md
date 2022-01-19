@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.VAC property (Project)
 
-Gets the VAC (Variance At Completion) cost for the task. Read-only  **Variant**.
+Gets the VAC (Variance At Completion) cost for the task. Read-only **Variant**.
 
 
 ## Syntax

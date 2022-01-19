@@ -24,8 +24,8 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an unbound data source, there is a 10-column limit (0 to 9).
+Setting **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an unbound data source, there is a 10-column limit (0 to 9).
 
-You can use the  **[ColumnWidths](Outlook.combobox.columnwidths.md)** property to set the width of the columns displayed in the control.
+You can use the **[ColumnWidths](Outlook.combobox.columnwidths.md)** property to set the width of the columns displayed in the control.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

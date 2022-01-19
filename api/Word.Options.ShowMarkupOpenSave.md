@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.ShowMarkupOpenSave property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word displays hidden markup when opening or saving a file.
+Returns or sets a **Boolean** that represents whether Microsoft Word displays hidden markup when opening or saving a file.
 
 
 ## Syntax

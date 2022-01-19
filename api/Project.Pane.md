@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
  
 
-Represents a pane of a window. (There is no collection for  **Pane** objects.) You can access the **Pane** object through the **[ActivePane](Project.Window.ActivePane.md)**, **[TopPane](Project.Window.TopPane.md)**, and **[BottomPane](Project.Window.BottomPane.md)** properties of a **Window** object.
+Represents a pane of a window. (There is no collection for **Pane** objects.) You can access the **Pane** object through the **[ActivePane](Project.Window.ActivePane.md)**, **[TopPane](Project.Window.TopPane.md)**, and **[BottomPane](Project.Window.BottomPane.md)** properties of a **Window** object.
  
  **Using the Pane Object**
  

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathPhantom.ZeroAsc property (Word)
 
-Returns or sets a  **Boolean** that represents whether the ascent of the phantom contents is ignored in the spacing of the layout. Read/write.
+Returns or sets a **Boolean** that represents whether the ascent of the phantom contents is ignored in the spacing of the layout. Read/write.
 
 
 ## Syntax

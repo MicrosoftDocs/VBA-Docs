@@ -40,11 +40,11 @@ _expression_.**ShapeLinkDeleted** (_Shape_, _DataRecordsetID_, _DataRowID_)
 
 ## Remarks
 
-The  **ShapeLinkDeleted** event of the **Shape** object does not occur when the link is broken between the source shape itself and a data row. It occurs only when the link is broken between one or more sub-shapes of the source shape and a data row or rows.
+The **ShapeLinkDeleted** event of the **Shape** object does not occur when the link is broken between the source shape itself and a data row. It occurs only when the link is broken between one or more sub-shapes of the source shape and a data row or rows.
 
-The  **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
+The **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
 
-When the  **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
+When the **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
 
  `/DataRecordsetID = n /DataRowID = m`
 

@@ -26,9 +26,9 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagAccount**.
+This property corresponds to the MAPI property **PidTagAccount**.
 
-Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeDistributionList** object.
+Returns an empty string if this property has not been implemented or does not exist for the **ExchangeDistributionList** object.
 
 
 ## See also

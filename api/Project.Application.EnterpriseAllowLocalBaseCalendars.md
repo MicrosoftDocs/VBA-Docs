@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EnterpriseAllowLocalBaseCalendars property (Project)
 
-**True** if enterprise projects can use local base calendars. Read-only  **Boolean**.
+**True** if enterprise projects can use local base calendars. Read-only **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To enable projects to use local calendars, click  **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web App.
+To enable projects to use local calendars, click **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web App.
 
 The **EnterpriseAllowLocalBaseCalendars** property is available only in Project Professional.
 

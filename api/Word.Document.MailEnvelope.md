@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.MailEnvelope property (Word)
 
-Returns an  **MsoEnvelope** object that represents an email header for a document.
+Returns an **MsoEnvelope** object that represents an email header for a document.
 
 
 ## Syntax

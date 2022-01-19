@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.ListGalleries property (Word)
 
-Returns a  **ListGalleries** collection that represents the three list template galleries (**Bulleted**,  **Numbered**, and  **Outline Numbered**).
+Returns a **ListGalleries** collection that represents the three list template galleries (**Bulleted**, **Numbered**, and **Outline Numbered**).
 
 
 ## Syntax

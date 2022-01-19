@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.AllowOpenInDraftView property (Word)
 
-Returns or sets a  **Boolean** that represents whether to allow users to open documents in draft view. Read/write.
+Returns or sets a **Boolean** that represents whether to allow users to open documents in draft view. Read/write.
 
 
 ## Syntax

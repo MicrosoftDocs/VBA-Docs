@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Index.HeadingSeparator property (Word)
 
-Returns or sets the text between alphabetical groups (entries that start with the same letter) in the index. Corresponds to the \h switch for an INDEX field. Read/write  **WdHeadingSeparator**.
+Returns or sets the text between alphabetical groups (entries that start with the same letter) in the index. Corresponds to the \h switch for an INDEX field. Read/write **WdHeadingSeparator**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](Outlook.AppointmentItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.AppointmentItem.ReminderPlaySound.md)** properties are set to **True**.
+This property is only valid if the **[ReminderOverrideDefault](Outlook.AppointmentItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.AppointmentItem.ReminderPlaySound.md)** properties are set to **True**.
 
 
 ## See also

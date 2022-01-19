@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.HorizontalInVertical property (Word)
 
-Returns or sets the formatting for horizontal text set within vertical text. Read/write  **WdHorizontalInVerticalType**.
+Returns or sets the formatting for horizontal text set within vertical text. Read/write **WdHorizontalInVerticalType**.
 
 
 ## Syntax

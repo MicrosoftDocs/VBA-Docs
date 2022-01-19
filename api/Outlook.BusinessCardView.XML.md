@@ -28,12 +28,12 @@ _expression_.**XML**
 
 The XML definition describes the view type by using a series of tags and keywords corresponding to various properties of the view itself. When the view is created, the XML definition is parsed to render the settings for the new view.
 
-To determine how the XML should be structured when creating views, create a view by using the Outlook user interface and then retrieve the  **XML** property for that view.
+To determine how the XML should be structured when creating views, create a view by using the Outlook user interface and then retrieve the **XML** property for that view.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[Views](Outlook.Views.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](Outlook.BusinessCardView.md)** object named "Card View".
+The following Visual Basic for Applications (VBA) example enumerates the **[Views](Outlook.Views.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](Outlook.BusinessCardView.md)** object named "Card View".
 
 
 ```vb

@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection.|
 
 ## Return value
 

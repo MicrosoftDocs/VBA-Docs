@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TickLabels.Offset property (PowerPoint)
 
-Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long**.
+Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write **Long**.
 
 
 ## Syntax

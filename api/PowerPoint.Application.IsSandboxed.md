@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-Use the  **IsSandboxed** property to determine whether a presentation is open in a Protected View window.
+Use the **IsSandboxed** property to determine whether a presentation is open in a Protected View window.
 
 
 ## See also

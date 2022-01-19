@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # SplitParts.Item property (Project)
 
-Gets a single  **SplitPart** object from the **SplitParts** collection. Read-only **SplitPart**.
+Gets a single **SplitPart** object from the **SplitParts** collection. Read-only **SplitPart**.
 
 
 ## Syntax

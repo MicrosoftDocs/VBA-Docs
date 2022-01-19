@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](Outlook.TaskItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.TaskItem.ReminderPlaySound.md)** properties are set to **True**.
+This property is only valid if the **[ReminderOverrideDefault](Outlook.TaskItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.TaskItem.ReminderPlaySound.md)** properties are set to **True**.
 
 
 ## See also

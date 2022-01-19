@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LookupTableEntry.Level property (Project)
 
-Gets or sets the specific level of the lookup table entry. Can be an integer value between 1 and 255. Read/write  **Long**.
+Gets or sets the specific level of the lookup table entry. Can be an integer value between 1 and 255. Read/write **Long**.
 
 
 ## Syntax

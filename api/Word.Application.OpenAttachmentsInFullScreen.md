@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OpenAttachmentsInFullScreen property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word opens email attachments in Reading mode. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word opens email attachments in Reading mode. Read/write.
 
 
 ## Syntax

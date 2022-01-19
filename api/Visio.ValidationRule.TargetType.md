@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRul
 
 ## Remarks
 
-Valid validation-rule targets include documents, pages, and shapes. The  **TargetType** property value must be one of the following **VisRuleTargets** constants.
+Valid validation-rule targets include documents, pages, and shapes. The **TargetType** property value must be one of the following **VisRuleTargets** constants.
 
 
 
@@ -41,12 +41,12 @@ Valid validation-rule targets include documents, pages, and shapes. The  **Targe
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|
 | **visRuleTargetDocument**|2|The rule applies to the document itself.|
 
-If you pass any other value to the  **TargetType** property, Visio returns an invalid-parameter error.
+If you pass any other value to the **TargetType** property, Visio returns an invalid-parameter error.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **TargetType** property to specify the type of object to which the validation rule named "Unglued2DShape" should apply.
+The following Visual Basic for Applications (VBA) example shows how to use the **TargetType** property to specify the type of object to which the validation rule named "Unglued2DShape" should apply.
 
 
 ```vb

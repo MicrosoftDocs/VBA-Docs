@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example tests for the  **[Close](Outlook.MailItem.Close(even).md)** event and if the item has not been **[Saved](Outlook.MailItem.Saved.md)**, it uses the **[Save](Outlook.MailItem.Save.md)** method to save the item without prompting the user.
+This Microsoft Visual Basic for Applications (VBA) example tests for the **[Close](Outlook.MailItem.Close(even).md)** event and if the item has not been **[Saved](Outlook.MailItem.Saved.md)**, it uses the **[Save](Outlook.MailItem.Save.md)** method to save the item without prompting the user.
 
 
 ```vb

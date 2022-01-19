@@ -40,7 +40,7 @@ _expression_. `TaskMoveToStatusDate`( `_MoveCompleted_`, `_MoveIncomplete_` )
 
 ## Remarks
 
-To set or change the status date, click  **Project Information** on the Project tab on the Ribbon. The Project Information dialog box includes the **Status date** field. If the status date value is "NA", no status date is set. In that case, the current date is the status date.
+To set or change the status date, click **Project Information** on the Project tab on the Ribbon. The Project Information dialog box includes the **Status date** field. If the status date value is "NA", no status date is set. In that case, the current date is the status date.
 
 If both the  _MoveCompleted_ and _MoveIncomplete_ arguments are **False**, **TaskMoveToStatusDate** takes no action but still returns **True**. If both arguments are **True**, **TaskMoveToStatusDate** moves only the incomplete parts to the status date.
 

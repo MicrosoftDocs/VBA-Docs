@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWi
 
 ## Remarks
 
-When you use this method, PowerPoint will close an open presentation without prompting users to save their work. To prevent the loss of work, use the  **Save** method or the **SaveAs** method before you use the **Close** method.
+When you use this method, PowerPoint will close an open presentation without prompting users to save their work. To prevent the loss of work, use the **Save** method or the **SaveAs** method before you use the **Close** method.
 
 
 ## Example

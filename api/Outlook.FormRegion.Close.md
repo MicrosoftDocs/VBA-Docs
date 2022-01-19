@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormRegion.Close event (Outlook)
 
-Represents the closing of the frame for a form region, which occurs just before the  **[Close](Outlook.Inspector.Close(even).md)** event of the Inspector associated with the Outlook item.
+Represents the closing of the frame for a form region, which occurs just before the **[Close](Outlook.Inspector.Close(even).md)** event of the Inspector associated with the Outlook item.
 
 
 ## Syntax

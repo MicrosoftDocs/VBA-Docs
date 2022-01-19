@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbColorScheme enumeration (Publisher)
 
-Represents a color scheme returned by the  **Item** property. It is a set of coordinated colors used collectively in a publication to provide consistent color.
+Represents a color scheme returned by the **Item** property. It is a set of coordinated colors used collectively in a publication to provide consistent color.
 
 
 

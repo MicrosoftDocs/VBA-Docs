@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.AreaIU property (Visio)
 
-Returns the area of a  **Shape** object in internal units (square inches). Read-only.
+Returns the area of a **Shape** object in internal units (square inches). Read-only.
 
 
 ## Syntax

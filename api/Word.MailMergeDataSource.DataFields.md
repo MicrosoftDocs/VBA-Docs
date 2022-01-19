@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.DataFields property (Word)
 
-Returns a  **[MailMergeDataFields](Word.mailmergedatafields.md)** collection that represents the fields in the specified mail merge data source. Read-only.
+Returns a **[MailMergeDataFields](Word.mailmergedatafields.md)** collection that represents the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax

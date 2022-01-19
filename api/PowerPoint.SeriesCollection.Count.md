@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # SeriesCollection.Count property (PowerPoint)
 
-Returns the number of objects in the collection. Read-only  **Long**.
+Returns the number of objects in the collection. Read-only **Long**.
 
 
 ## Syntax

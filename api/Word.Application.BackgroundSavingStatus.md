@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.BackgroundSavingStatus property (Word)
 
-Returns the number of files queued up to be saved in the background. Read-only  **Long**.
+Returns the number of files queued up to be saved in the background. Read-only **Long**.
 
 
 ## Syntax

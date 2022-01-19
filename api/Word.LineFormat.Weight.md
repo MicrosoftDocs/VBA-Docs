@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.Weight property (Word)
 
-Returns or sets the thickness of the specified line in points. Read/write  **Single**.
+Returns or sets the thickness of the specified line in points. Read/write **Single**.
 
 
 ## Syntax

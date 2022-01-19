@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Walls property (PowerPoint)
 
-Returns the walls of the 3D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
+Returns the walls of the 3D chart. Read-only **[Walls](PowerPoint.Walls.md)**.
 
 
 ## Syntax

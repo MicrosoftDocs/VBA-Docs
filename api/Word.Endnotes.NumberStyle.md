@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.NumberStyle property (Word)
 
-Returns or sets the number style. Read/write  **WdNoteNumberStyle**.
+Returns or sets the number style. Read/write **WdNoteNumberStyle**.
 
 
 ## Syntax

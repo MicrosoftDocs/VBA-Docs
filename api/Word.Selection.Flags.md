@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Flags property (Word)
 
-Returns or sets properties of the selection. Read/write  **WdSelectionFlags**.
+Returns or sets properties of the selection. Read/write **WdSelectionFlags**.
 
 
 ## Syntax

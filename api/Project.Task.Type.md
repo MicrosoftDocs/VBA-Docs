@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Type property (Project)
 
-Gets or sets the way the task is calculated; that is, which one of units, duration, or work are fixed. Read/write  **PjTaskFixedType**.
+Gets or sets the way the task is calculated; that is, which one of units, duration, or work are fixed. Read/write **PjTaskFixedType**.
 
 
 ## Syntax

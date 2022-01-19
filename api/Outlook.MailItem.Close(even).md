@@ -33,12 +33,12 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the close operation isn't completed and the inspector is left open.
 
-If you use the  **[Close](Outlook.MailItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
+If you use the **[Close](Outlook.MailItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example tests for the  **Close** event and if the item has not been **[Saved](Outlook.MailItem.Saved.md)**, it uses the **[Save](Outlook.MailItem.Save.md)** method to save the item without prompting the user.
+This Microsoft Visual Basic for Applications (VBA) example tests for the **Close** event and if the item has not been **[Saved](Outlook.MailItem.Saved.md)**, it uses the **[Save](Outlook.MailItem.Save.md)** method to save the item without prompting the user.
 
 
 ```vb

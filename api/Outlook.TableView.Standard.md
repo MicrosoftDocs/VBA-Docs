@@ -31,7 +31,7 @@ The **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates through the  **[Views](Outlook.Views.md)** collection of the current **[Folder](Outlook.Folder.md)** object, using the **Standard** property to determine if a **View** object is a built-in Outlook view. If the **View** object is a built-in Outlook view, the sample calls the **Reset** method to reset the view to its default settings. Otherwise, the sample uses the **[Delete](Outlook.View.Delete.md)** method to delete the view.
+The following Visual Basic for Applications (VBA) example enumerates through the **[Views](Outlook.Views.md)** collection of the current **[Folder](Outlook.Folder.md)** object, using the **Standard** property to determine if a **View** object is a built-in Outlook view. If the **View** object is a built-in Outlook view, the sample calls the **Reset** method to reset the view to its default settings. Otherwise, the sample uses the **[Delete](Outlook.View.Delete.md)** method to delete the view.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Background property (PowerPoint)
 
-Returns the  **TableBackground** object associated with the specified table. Read-only.
+Returns the **TableBackground** object associated with the specified table. Read-only.
 
 
 ## Syntax

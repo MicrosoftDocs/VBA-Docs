@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](Outlook.ContactItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.ContactItem.ReminderPlaySound.md)** properties are set to **True**.
+This property is only valid if the **[ReminderOverrideDefault](Outlook.ContactItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.ContactItem.ReminderPlaySound.md)** properties are set to **True**.
 
 
 ## See also

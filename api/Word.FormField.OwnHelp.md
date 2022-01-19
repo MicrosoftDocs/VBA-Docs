@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.OwnHelp property (Word)
 
-Specifies the source of the text that's displayed in a message box when a form field has the focus and the user presses F1. Read/write  **Boolean**.
+Specifies the source of the text that's displayed in a message box when a form field has the focus and the user presses F1. Read/write **Boolean**.
 
 
 ## Syntax

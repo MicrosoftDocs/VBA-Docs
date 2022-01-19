@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.BaselineSavedDate property (Project)
 
-Gets date the specified baseline was last saved. Read-only  **Variant**.
+Gets date the specified baseline was last saved. Read-only **Variant**.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-If the specified baseline has not been saved,  **BaselineSavedDate** returns "NA".
+If the specified baseline has not been saved, **BaselineSavedDate** returns "NA".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

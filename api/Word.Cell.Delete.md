@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ShiftCells_|Optional| **Variant**|The direction in which the remaining cells are to be shifted. Can be any  **[WdDeleteCells](Word.WdDeleteCells.md)** constant. If omitted, cells to the right of the last deleted cell are shifted left.|
+| _ShiftCells_|Optional| **Variant**|The direction in which the remaining cells are to be shifted. Can be any **[WdDeleteCells](Word.WdDeleteCells.md)** constant. If omitted, cells to the right of the last deleted cell are shifted left.|
 
 ## Example
 

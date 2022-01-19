@@ -14,14 +14,14 @@ ms.localizationpriority: medium
 
 # Folders object (Outlook)
 
-Contains a set of  **[Folder](Outlook.Folder.md)** objects that represent all the available Outlook folders in a specific subset at one level of the folder tree.
+Contains a set of **[Folder](Outlook.Folder.md)** objects that represent all the available Outlook folders in a specific subset at one level of the folder tree.
 
 
 ## Remarks
 
-Use the  **[Folders](Outlook.NameSpace.Folders.md)** property to return the **Folders** object from a **[NameSpace](Outlook.NameSpace.md)** object or another **Folder** object.
+Use the **[Folders](Outlook.NameSpace.Folders.md)** property to return the **Folders** object from a **[NameSpace](Outlook.NameSpace.md)** object or another **Folder** object.
 
-Use  **Folders** (_index_), where _index_ is the name or index number, to return a single **Folder** object. Folder names are case-sensitive.
+Use **Folders** (_index_), where _index_ is the name or index number, to return a single **Folder** object. Folder names are case-sensitive.
 
 
 ## Example

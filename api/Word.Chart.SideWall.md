@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.SideWall property (Word)
 
-Returns a  **[Walls](Word.Walls.md)** object that allows the user to individually format the side wall of a 3D chart. Read-only.
+Returns a **[Walls](Word.Walls.md)** object that allows the user to individually format the side wall of a 3D chart. Read-only.
 
 
 ## Syntax

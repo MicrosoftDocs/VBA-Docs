@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Indexes.MarkAllEntries method (Word)
 
-Inserts an XE (Index Entry) field after all instances of the text in  **Range**.
+Inserts an XE (Index Entry) field after all instances of the text in **Range**.
 
 
 ## Syntax

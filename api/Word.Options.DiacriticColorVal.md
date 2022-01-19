@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by the Microsoft Visual Basic **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
+This property can be any valid **WdColor** constant or a value returned by the Microsoft Visual Basic **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
 
 
 ## Example

@@ -23,7 +23,7 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-For enterprise text fields with a lookup table,  **OnlyCompleteCodes** is always **False** and non-writeable.
+For enterprise text fields with a lookup table, **OnlyCompleteCodes** is always **False** and non-writeable.
 
 
 ## Example

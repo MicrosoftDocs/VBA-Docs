@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Report.Shapes property (Project)
-Gets the collection of  **Shape** objects in the report. Read-only **Shapes**.
+Gets the collection of **Shape** objects in the report. Read-only **Shapes**.
 
 ## Syntax
 

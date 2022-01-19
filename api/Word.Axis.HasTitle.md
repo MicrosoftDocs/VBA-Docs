@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](Word.AxisTitle.md)** object.
+An axis title is represented by an **[AxisTitle](Word.AxisTitle.md)** object.
 
 
 ## Example

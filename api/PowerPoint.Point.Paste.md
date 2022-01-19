@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](PowerPoint.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
+You can use this method on column, bar, line, or radar charts, and it sets the **[MarkerStyle](PowerPoint.Point.MarkerStyle.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example

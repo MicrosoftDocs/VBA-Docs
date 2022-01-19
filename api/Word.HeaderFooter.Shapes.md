@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeaderFooter.Shapes property (Word)
 
-Returns a  **Shapes** collection that represents all the **Shape** objects in a header or footer. Read-only.
+Returns a **Shapes** collection that represents all the **Shape** objects in a header or footer. Read-only.
 
 
 ## Syntax

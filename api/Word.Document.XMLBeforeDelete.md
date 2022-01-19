@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DeletedRange_|Required| **[Range](Word.Range.md)**|The contents of the XML element being deleted. If only an element is deleted and not associated text, the DeletedRange parameter will not exist and will, therefore, be set to  **Nothing**.|
+| _DeletedRange_|Required| **[Range](Word.Range.md)**|The contents of the XML element being deleted. If only an element is deleted and not associated text, the DeletedRange parameter will not exist and will, therefore, be set to **Nothing**.|
 | _OldXMLNode_|Required| **[XMLNode](Word.XMLNode.md)**|The node that is being deleted.|
 | _InUndoRedo_|Required| **Boolean**| **True** indicates the action was performed using the **Undo** or **Redo** feature in Microsoft Word.|
 

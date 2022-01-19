@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bibliography.Sources property (Word)
 
-Returns a  **[Sources](Word.Sources.md)** collection that represents all the sources contained in a bibliography. Read-only.
+Returns a **[Sources](Word.Sources.md)** collection that represents all the sources contained in a bibliography. Read-only.
 
 
 ## Syntax

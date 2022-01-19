@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.Caption property (Word)
 
-Returns or sets the chart title text. Read/write  **String**.
+Returns or sets the chart title text. Read/write **String**.
 
 
 ## Syntax

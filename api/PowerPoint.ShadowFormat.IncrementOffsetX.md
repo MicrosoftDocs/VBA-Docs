@@ -32,7 +32,7 @@ _expression_ A variable that represents an [ShadowFormat](PowerPoint.ShadowForma
 
 ## Remarks
 
-Use the  **[OffsetX](PowerPoint.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
+Use the **[OffsetX](PowerPoint.ShadowFormat.OffsetX.md)** property to set the absolute horizontal shadow offset.
 
 
 ## Example

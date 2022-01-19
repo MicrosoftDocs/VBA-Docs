@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.ServerIdentification property (Project)
 
-Gets or sets the way Project Professional users are identified to Project Server. Read/write  **PjAuthentication**.
+Gets or sets the way Project Professional users are identified to Project Server. Read/write **PjAuthentication**.
 
 
 ## Syntax

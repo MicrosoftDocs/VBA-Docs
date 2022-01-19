@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.SaveInterval property (Word)
 
-Returns or sets the time interval in minutes for saving AutoRecover information. Read/write  **Long**.
+Returns or sets the time interval in minutes for saving AutoRecover information. Read/write **Long**.
 
 
 ## Syntax

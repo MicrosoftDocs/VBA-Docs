@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Floor.Thickness property (PowerPoint)
 
-Returns or sets the thickness of the floor. Read/write  **Long**.
+Returns or sets the thickness of the floor. Read/write **Long**.
 
 
 ## Syntax

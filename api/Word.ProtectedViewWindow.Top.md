@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.Top property (Word)
 
-Returns or sets the vertical position, in [points](../language/glossary/vbe-glossary.md#point), of the specified Protected View window. Read/write  **Long**
+Returns or sets the vertical position, in [points](../language/glossary/vbe-glossary.md#point), of the specified Protected View window. Read/write **Long**
 
 
 ## Syntax

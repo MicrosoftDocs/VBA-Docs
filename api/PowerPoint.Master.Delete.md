@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.Delete method (PowerPoint)
 
-Deletes the specified  **Master** object.
+Deletes the specified **Master** object.
 
 
 ## Syntax

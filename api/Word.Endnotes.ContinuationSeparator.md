@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.ContinuationSeparator property (Word)
 
-Returns a  **Range** object that represents the endnote continuation separator. Read-only.
+Returns a **Range** object that represents the endnote continuation separator. Read-only.
 
 
 ## Syntax

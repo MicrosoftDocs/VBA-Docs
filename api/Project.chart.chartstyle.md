@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ChartStyle property (Project)
-Gets or sets the chart style for a chart. Read/write  **Variant**.
+Gets or sets the chart style for a chart. Read/write **Variant**.
 
 ## Syntax
 
@@ -24,7 +24,7 @@ You can use a number from 1 to 48 to set the chart style.
 
 ## Example
 
-To use the following  **CycleThroughStyles** method, make a chart active, and then set a breakpoint in the **For … Next** loop to observe the chart styles.
+To use the following **CycleThroughStyles** method, make a chart active, and then set a breakpoint in the **For … Next** loop to observe the chart styles.
 
 
 ```vb

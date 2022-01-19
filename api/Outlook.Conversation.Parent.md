@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Conversation.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified **[Conversation](Outlook.Conversation.md)** object. Read-only.
+Returns the parent **Object** of the specified **[Conversation](Outlook.Conversation.md)** object. Read-only.
 
 
 ## Syntax

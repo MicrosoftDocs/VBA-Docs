@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.EMailAddress property (Project)
 
-Gets or sets the email address of the resource. Read/write  **String**.
+Gets or sets the email address of the resource. Read/write **String**.
 
 
 ## Syntax

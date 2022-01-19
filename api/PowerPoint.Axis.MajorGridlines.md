@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MajorGridlines property (PowerPoint)
 
-Returns the major gridlines for the specified axis. Read-only  **[Gridlines](PowerPoint.GridLines.md)**.
+Returns the major gridlines for the specified axis. Read-only **[Gridlines](PowerPoint.GridLines.md)**.
 
 
 ## Syntax

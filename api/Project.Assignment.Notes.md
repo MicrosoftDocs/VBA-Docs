@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Notes property (Project)
 
-Gets or sets the notes for an assignment. Read/write  **String**.
+Gets or sets the notes for an assignment. Read/write **String**.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ _expression_ A variable that represents an [ItemProperties](Outlook.ItemProperti
 
 ## Remarks
 
-You can create a property of a type that is defined by the  **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**,  **olOutlookInternal**, and  **olSmartFrom**.
+You can create a property of a type that is defined by the **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**, **olOutlookInternal**, and **olSmartFrom**.
 
 
 ## See also

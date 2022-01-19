@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivision.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained in the specified object.
+Returns a **Range** object that represents the portion of a document that's contained in the specified object.
 
 
 ## Syntax

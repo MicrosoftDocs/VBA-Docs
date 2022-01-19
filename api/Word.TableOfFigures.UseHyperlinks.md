@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfFigures.UseHyperlinks property (Word)
 
-Returns or sets whether entries in a table of figures should be formatted as hyperlinks when publishing to the Web. Read/write  **Boolean**.
+Returns or sets whether entries in a table of figures should be formatted as hyperlinks when publishing to the Web. Read/write **Boolean**.
 
 
 ## Syntax

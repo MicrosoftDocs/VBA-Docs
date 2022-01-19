@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.Categories Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Categories** dialog box for the currently selected item or items in the control.
+Displays the Microsoft Outlook **Categories** dialog box for the currently selected item or items in the control.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Contains information about how the specified slide advances during a slide show.
 
 ## Example
 
-Use the [SlideShowTransition](PowerPoint.Slide.SlideShowTransition.md)property to return the  **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
+Use the [SlideShowTransition](PowerPoint.Slide.SlideShowTransition.md)property to return the **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
 
 
 ```vb

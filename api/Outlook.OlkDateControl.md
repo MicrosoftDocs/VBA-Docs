@@ -19,7 +19,7 @@ A control that supports the drop-down date picker used in inspectors for task an
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook Date Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook Date Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor.
 
 The following is an example of the date control at runtime. This control supports Microsoft Windows themes.
 
@@ -28,9 +28,9 @@ The following is an example of the date control at runtime. This control support
 
 
 
-This control can bind to any built-in or custom  **DateTime** field. However, the control does not support any date format setting for the field, nor does it support the select range behavior that is available in the appointment inspector.
+This control can bind to any built-in or custom **DateTime** field. However, the control does not support any date format setting for the field, nor does it support the select range behavior that is available in the appointment inspector.
 
-If the  **[Click](Outlook.OlkDateControl.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkDateControl.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
+If the **[Click](Outlook.OlkDateControl.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkDateControl.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
 For more information about Outlook controls, see [Controls in a Custom Form](../outlook/Concepts/Forms/controls-in-a-custom-form.md). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 

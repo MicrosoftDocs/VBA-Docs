@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyboardEvent.Window property (Visio)
 
-Returns the window associated with a  **KeyboardEvent** object. Read-only.
+Returns the window associated with a **KeyboardEvent** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Window
 
 ## Remarks
 
-For the  **KeyboardEvent** object, the **Window** property returns the window associated with the event represented by this object.
+For the **KeyboardEvent** object, the **Window** property returns the window associated with the event represented by this object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

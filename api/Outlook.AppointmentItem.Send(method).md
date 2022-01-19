@@ -31,7 +31,7 @@ The **Send** method sends an item using the default account specified for the se
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment. The example sets the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment. The example sets the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
 
 
 ```vb

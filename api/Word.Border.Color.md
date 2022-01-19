@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Border.Color property (Word)
 
-Returns or sets the 24-bit color for the specified  **Border** object.
+Returns or sets the 24-bit color for the specified **Border** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Border](Word.Border.md)' o
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example

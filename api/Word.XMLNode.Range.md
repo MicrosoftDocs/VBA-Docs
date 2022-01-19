@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.Range property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
+Returns a **[Range](Word.Range.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
 
 
 ## Syntax

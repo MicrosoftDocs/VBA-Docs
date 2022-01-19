@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.DownBars property (PowerPoint)
 
-Returns the down bars on a line chart. Read-only  **[DownBars](PowerPoint.DownBars.md)**.
+Returns the down bars on a line chart. Read-only **[DownBars](PowerPoint.DownBars.md)**.
 
 
 ## Syntax

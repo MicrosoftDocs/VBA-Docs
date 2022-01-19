@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rule.RuleType property (Outlook)
 
-Returns a constant from the  **[OlRuleType](Outlook.OlRuleType.md)** enumeration that indicates if the rule applies to messages that are being sent or received. Read-only.
+Returns a constant from the **[OlRuleType](Outlook.OlRuleType.md)** enumeration that indicates if the rule applies to messages that are being sent or received. Read-only.
 
 
 ## Syntax

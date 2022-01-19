@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Placeholders.FindByName method (PowerPoint)
 
-Finds the placeholder in the  **[Placeholders](PowerPoint.Placeholders.md)** collection at the specified index location or with the specified name.
+Finds the placeholder in the **[Placeholders](PowerPoint.Placeholders.md)** collection at the specified index location or with the specified name.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ Because it takes a **Variant**, the **FindByName** method makes it possible to l
 
 ## Example
 
-The following example shows how to use the  **FindByName** method to select the title placeholder in slide one in the active presentation.
+The following example shows how to use the **FindByName** method to select the title placeholder in slide one in the active presentation.
 
 
 ```vb

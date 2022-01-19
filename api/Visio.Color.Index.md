@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Color.Index property (Visio)
 
-Gets the ordinal position of a  **Color** object in the **Colors** collection. Read-only.
+Gets the ordinal position of a **Color** object in the **Colors** collection. Read-only.
 
 
 ## Syntax

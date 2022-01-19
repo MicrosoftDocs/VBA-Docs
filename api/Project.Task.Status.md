@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Status property (Project)
 
-Gets the status of a specified task. Read-only  **PjStatusType**.
+Gets the status of a specified task. Read-only **PjStatusType**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-The Status property can be one of the following  **[PjStatusType](Project.PjStatusType.md)** constants: **pjComplete**, **pjFutureTask**, **pjLate**, **pjNoData**, or **pjOnSchedule**.
+The Status property can be one of the following **[PjStatusType](Project.PjStatusType.md)** constants: **pjComplete**, **pjFutureTask**, **pjLate**, **pjNoData**, or **pjOnSchedule**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

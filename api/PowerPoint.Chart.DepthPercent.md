@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.DepthPercent property (PowerPoint)
 
-Returns or sets the depth of a 3D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
+Returns or sets the depth of a 3D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write **Long**.
 
 
 ## Syntax

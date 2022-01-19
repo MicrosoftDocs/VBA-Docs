@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeDistributionList.Update method (Outlook)
 
-Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object in the messaging system.
+Posts a change to the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object in the messaging system.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
  New entries or changes to existing entries are not persisted in the collection until the **Update** method has been called with its _MakePermanent_ parameter set to **True**. 
 
-To flush the cache and then reload the values from the address book, call  **Update** with the _MakePermanent_ parameter set to **False** and the _Refresh_ parameter set to **True**. 
+To flush the cache and then reload the values from the address book, call **Update** with the _MakePermanent_ parameter set to **False** and the _Refresh_ parameter set to **True**. 
 
 
 ## See also

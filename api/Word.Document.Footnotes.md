@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Footnotes property (Word)
 
-Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a document. Read-only.
+Returns a **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a document. Read-only.
 
 
 ## Syntax

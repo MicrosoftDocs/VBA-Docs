@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Next method (Word)
 
-Returns a  **Range** object that represents the next unit relative to the specified selection.
+Returns a **Range** object that represents the next unit relative to the specified selection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **[WdUnits](Word.WdUnits.md)** constant.|
+| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any **[WdUnits](Word.WdUnits.md)** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
 ## Return value

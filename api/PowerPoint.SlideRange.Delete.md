@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideRange.Delete method (PowerPoint)
 
-Deletes the specified  **SlideRange** object.
+Deletes the specified **SlideRange** object.
 
 
 ## Syntax

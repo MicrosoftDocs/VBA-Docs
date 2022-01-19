@@ -14,21 +14,21 @@ ms.localizationpriority: medium
 
 # HeadersFooters object (PowerPoint)
 
-Contains all the  **[HeaderFooter](PowerPoint.HeaderFooter.md)** objects on the specified slide, notes page, handout, or master.
+Contains all the **[HeaderFooter](PowerPoint.HeaderFooter.md)** objects on the specified slide, notes page, handout, or master.
 
 
 ## Remarks
 
-Each  **HeaderFooter** object represents a header, footer, date and time, or slide number.
+Each **HeaderFooter** object represents a header, footer, date and time, or slide number.
 
 
 > [!NOTE] 
->  **HeaderFooter** objects aren't available for **[Slide](PowerPoint.Slide.md)** objects that represent notes pages. The **HeaderFooter** object that represents a header is available only for a notes master or handout master.
+> **HeaderFooter** objects aren't available for **[Slide](PowerPoint.Slide.md)** objects that represent notes pages. The **HeaderFooter** object that represents a header is available only for a notes master or handout master.
 
 
 ## Example
 
-Use the  **[HeadersFooters](PowerPoint.Slide.HeadersFooters.md)** property to return the **HeadersFooters** object. Use the **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)**, **[Footer](PowerPoint.HeadersFooters.Footer.md)**, **[Header](PowerPoint.HeadersFooters.Header.md)**, or **[SlideNumber](PowerPoint.HeadersFooters.SlideNumber.md)** property to return an individual **HeaderFooter** object. The following example sets the footer text for slide one in the active presentation.
+Use the **[HeadersFooters](PowerPoint.Slide.HeadersFooters.md)** property to return the **HeadersFooters** object. Use the **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)**, **[Footer](PowerPoint.HeadersFooters.Footer.md)**, **[Header](PowerPoint.HeadersFooters.Header.md)**, or **[SlideNumber](PowerPoint.HeadersFooters.SlideNumber.md)** property to return an individual **HeaderFooter** object. The following example sets the footer text for slide one in the active presentation.
 
 
 ```vb

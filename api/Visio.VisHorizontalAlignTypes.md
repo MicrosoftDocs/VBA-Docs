@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisHorizontalAlignTypes enumeration (Visio)
 
-Specifies horizontal alignment type values to pass to the  **[Selection.Align](Visio.Selection.Align.md)** method.
+Specifies horizontal alignment type values to pass to the **[Selection.Align](Visio.Selection.Align.md)** method.
 
 
 

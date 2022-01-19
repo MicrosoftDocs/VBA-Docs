@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStops.Add method (PowerPoint)
 
-Creates a tab stop and adds it to the  **TabStops** collection.
+Creates a tab stop and adds it to the **TabStops** collection.
 
 
 ## Syntax

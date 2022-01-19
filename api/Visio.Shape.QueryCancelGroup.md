@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelGroup** after the user has directed the instance to group a selection of shapes. The event fires only if the shapes in the selection are all sub-shapes of the parent shape.
+A Microsoft Visio instance fires **QueryCancelGroup** after the user has directed the instance to group a selection of shapes. The event fires only if the shapes in the selection are all sub-shapes of the parent shape.
 
 
 

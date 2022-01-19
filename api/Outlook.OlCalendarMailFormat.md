@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlCalendarMailFormat enumeration (Outlook)
 
-Determines the format of the calendar information in the body of the  **[MailItem](Outlook.MailItem.md)** created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method.
+Determines the format of the calendar information in the body of the **[MailItem](Outlook.MailItem.md)** created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method.
 
 
 

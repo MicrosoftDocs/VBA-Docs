@@ -30,11 +30,11 @@ _expression_ A variable that represents a [TimeZones](Outlook.TimeZones.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|An  **Integer** representing a one-based index into the **[TimeZones](Outlook.TimeZones.md)** collection.|
+| _Index_|Required| **Long**|An **Integer** representing a one-based index into the **[TimeZones](Outlook.TimeZones.md)** collection.|
 
 ## Return value
 
-A  **TimeZone** object that represents the specified object in the collection.
+A **TimeZone** object that represents the specified object in the collection.
 
 
 ## See also

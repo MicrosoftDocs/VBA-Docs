@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MenusObject_|Required| **[IVUIOBJECT]**|An expression that returns a  **UIObject** object that represents the new custom menus.|
+| _MenusObject_|Required| **[IVUIOBJECT]**|An expression that returns a **UIObject** object that represents the new custom menus.|
 
 ## Return value
 
@@ -43,14 +43,14 @@ Nothing
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If the  **UIObject** object was created in a separate process by using the CreateObject procedure instead of getting the appropriate property of an **Application** or **Document** object, the **SetCustomMenus** method returns an error.
+If the **UIObject** object was created in a separate process by using the CreateObject procedure instead of getting the appropriate property of an **Application** or **Document** object, the **SetCustomMenus** method returns an error.
 
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to add a menu and menu item to the user interface, and then replace the built-in menu set with the custom set.
 
-To restore the Microsoft Visio built-in user interface after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the Microsoft Visio built-in user interface after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

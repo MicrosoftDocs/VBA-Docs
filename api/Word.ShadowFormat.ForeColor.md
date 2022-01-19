@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShadowFormat.ForeColor property (Word)
 
-Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
+Returns or sets a **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 
 
 ## Syntax

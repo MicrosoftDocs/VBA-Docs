@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PrintRanges.Item method (PowerPoint)
 
-Returns a single  **PrintRange** object from the specified **PrintRanges** collection.
+Returns a single **PrintRange** object from the specified **PrintRanges** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [PrintRanges](PowerPoint.PrintRanges.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **PrintRange** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **PrintRange** object in the collection to be returned.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.ExtrusionColor property (Word)
 
-Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
+Returns a **[ColorFormat](Word.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
 
 
 ## Syntax

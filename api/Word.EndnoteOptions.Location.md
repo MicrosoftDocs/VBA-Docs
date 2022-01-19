@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EndnoteOptions.Location property (Word)
 
-Returns or sets the position of all endnotes. Read/write  **WdEndnoteLocation**.
+Returns or sets the position of all endnotes. Read/write **WdEndnoteLocation**.
 
 
 ## Syntax

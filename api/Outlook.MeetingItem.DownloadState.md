@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MeetingItem.DownloadState property (Outlook)
 
-Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
+Returns a constant that belongs to the **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MeetingItem](Outlook.MeetingItem.md) 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example searches through the user's  **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
+The following Microsoft Visual Basic for Applications (VBA) example searches through the user's **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
 
 
 ```vb

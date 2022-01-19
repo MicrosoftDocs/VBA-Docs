@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.Row property (Word)
 
-Returns a  **[Row](Word.Row.md)** object that represents the row containing the specified cell.
+Returns a **[Row](Word.Row.md)** object that represents the row containing the specified cell.
 
 
 ## Syntax

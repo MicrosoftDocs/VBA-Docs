@@ -45,7 +45,7 @@ Menu
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-The beginning of a  **Menus** collection is the leftmost menu when the menus are arranged horizontally.
+The beginning of a **Menus** collection is the leftmost menu when the menus are arranged horizontally.
 
 
 ## Example

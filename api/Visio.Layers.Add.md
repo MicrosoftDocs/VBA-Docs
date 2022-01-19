@@ -39,7 +39,7 @@ Layer
 
 ## Example
 
-The following macro shows how to add a  **Layer** object to the **Layers** collection.
+The following macro shows how to add a **Layer** object to the **Layers** collection.
 
 
 ```vb

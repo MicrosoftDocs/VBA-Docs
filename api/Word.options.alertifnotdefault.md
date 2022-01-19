@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Options.AlertIfNotDefault property (Word)
 
-Returns or sets a  **Boolean** that is **True** if users are notified if Word is not the default program for viewing and editing documents. Read/write.
+Returns or sets a **Boolean** that is **True** if users are notified if Word is not the default program for viewing and editing documents. Read/write.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 ## Remarks
 
-The setting of  **AlertIfNotDefault** corresponds to the setting of **Tell me if Microsoft Word isn't the default program for viewing and editing documents** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
+The setting of **AlertIfNotDefault** corresponds to the setting of **Tell me if Microsoft Word isn't the default program for viewing and editing documents** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
 
 
 ## Property value

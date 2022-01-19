@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SoftEdgeFormat.Type property (Word)
 
-Returns or sets an  **MsoBevelType** constant that represents the bevel type for the edges of images that use soft edge formatting. Read/write.
+Returns or sets an **MsoBevelType** constant that represents the bevel type for the edges of images that use soft edge formatting. Read/write.
 
 
 ## Syntax

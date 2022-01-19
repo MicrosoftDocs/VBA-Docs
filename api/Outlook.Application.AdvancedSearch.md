@@ -42,7 +42,7 @@ A **[Search](Outlook.Search.md)** object that represents the results of the sear
 
 ## Remarks
 
-You can run multiple searches simultaneously by calling the  **AdvancedSearch** method in successive lines of code. However, you should be aware that programmatically creating a large number of search folders can result in significant simultaneous search activity that would affect the performance of Outlook, especially if Outlook conducts the search in online Exchange mode.
+You can run multiple searches simultaneously by calling the **AdvancedSearch** method in successive lines of code. However, you should be aware that programmatically creating a large number of search folders can result in significant simultaneous search activity that would affect the performance of Outlook, especially if Outlook conducts the search in online Exchange mode.
 
 The **AdvancedSearch** method and related features in the Outlook object model do not create a Search Folder that will appear in the Outlook user interface. However, you can use the **[Save](Outlook.Search.Save.md)** method of the **Search** object that is returned to create a Search Folder that will appear in the Search Folders list in the Outlook user interface.
 
@@ -68,7 +68,7 @@ The  _Filter_ parameter can be any valid DASL query. For additional information 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example searches the  **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the email items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
+The following Visual Basic for Applications (VBA) example searches the **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the email items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
 
 
 ```vb
@@ -100,7 +100,7 @@ Sub TestAdvancedSearchComplete()
 End Sub
 ```
 
-The following Microsoft Visual Basic for Applications example uses the  **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True**. When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
+The following Microsoft Visual Basic for Applications example uses the **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True**. When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
 
 
 

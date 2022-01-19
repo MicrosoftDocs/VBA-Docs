@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.Left property (PowerPoint)
 
-Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of the chart area. Read-only  **Double**.
+Returns the distance, in [points](../language/glossary/vbe-glossary.md#point), from the left edge of the object to the left edge of the chart area. Read-only **Double**.
 
 
 ## Syntax

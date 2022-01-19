@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _HelpFile_|Optional|**String**|The name of the Help file you want to display. Can be either a .chm or an .hlp file. If this argument is not specified, Microsoft PowerPoint Help is used.|
-| _ContextID_|Optional|**Long**|The context ID number for the Help topic. If this argument is not specified or if it specifies a context ID number that is not associated with a Help topic, the  **Help Topics** dialog box is displayed.|
+| _ContextID_|Optional|**Long**|The context ID number for the Help topic. If this argument is not specified or if it specifies a context ID number that is not associated with a Help topic, the **Help Topics** dialog box is displayed.|
 
 ## Example
 

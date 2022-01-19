@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 This property is set as the  _Filter_ argument in the **[Application](Outlook.Application.md)** object's **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 
-When searching  **Text** fields, you can use either an apostrophe (') or double quotation marks ("") to delimit the values that are part of the filter. For example, all of the following lines function correctly when the field is of type **String** :
+When searching **Text** fields, you can use either an apostrophe (') or double quotation marks ("") to delimit the values that are part of the filter. For example, all of the following lines function correctly when the field is of type **String** :
 
 
 

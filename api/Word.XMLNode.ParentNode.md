@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.ParentNode property (Word)
 
-Returns an  **XMLNode** object that represents the parent element of the specified element.
+Returns an **XMLNode** object that represents the parent element of the specified element.
 
 
 ## Syntax

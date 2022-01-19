@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Envelope property (Word)
 
-Returns an  **[Envelope](Word.Envelope.md)** object that represents an envelope and envelope features in a document. Read-only.
+Returns an **[Envelope](Word.Envelope.md)** object that represents an envelope and envelope features in a document. Read-only.
 
 
 ## Syntax

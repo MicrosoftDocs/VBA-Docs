@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
+The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
 Setting the ReportAllFields parameter to **True** can degrade performance.
 

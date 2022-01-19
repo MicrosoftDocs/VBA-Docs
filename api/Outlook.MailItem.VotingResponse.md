@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property is usually set to one of the delimited values returned by the  **[VotingOptions](Outlook.MailItem.VotingOptions.md)** property on a reply to the original message.
+This property is usually set to one of the delimited values returned by the **[VotingOptions](Outlook.MailItem.VotingOptions.md)** property on a reply to the original message.
 
 
 ## See also

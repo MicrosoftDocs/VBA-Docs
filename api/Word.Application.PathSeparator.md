@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PathSeparator property (Word)
 
-Returns the character used to separate folder names. This property returns a backslash (\). Read-only  **String**.
+Returns the character used to separate folder names. This property returns a backslash (\). Read-only **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `PathSeparator`
 
 ## Remarks
 
-You can use  **PathSeparator** property to build web addresses even though they contain forward slashes (/).
+You can use **PathSeparator** property to build web addresses even though they contain forward slashes (/).
 
 
 > [!NOTE] 

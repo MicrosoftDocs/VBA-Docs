@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.EarnedValueBaseline property (Project)
 
-Gets or sets the baseline for the earned values of tasks. Read/write  **PjBaselines**.
+Gets or sets the baseline for the earned values of tasks. Read/write **PjBaselines**.
 
 
 ## Syntax

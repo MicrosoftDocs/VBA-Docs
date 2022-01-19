@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Type property (Word)
 
-Returns a  **BuildingBlockType** object that represents the type for a building block. Read-only.
+Returns a **BuildingBlockType** object that represents the type for a building block. Read-only.
 
 
 ## Syntax

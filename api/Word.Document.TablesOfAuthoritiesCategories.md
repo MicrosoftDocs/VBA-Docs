@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.TablesOfAuthoritiesCategories property (Word)
 
-Returns a  **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
+Returns a **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
 
 
 ## Syntax

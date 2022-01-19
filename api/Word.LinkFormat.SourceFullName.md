@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LinkFormat.SourceFullName property (Word)
 
-Returns or sets the path and name of the source file for the specified linked OLE object, picture, or field. Read/write  **String**.
+Returns or sets the path and name of the source file for the specified linked OLE object, picture, or field. Read/write **String**.
 
 
 ## Syntax

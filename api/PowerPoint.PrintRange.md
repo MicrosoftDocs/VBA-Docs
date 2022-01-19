@@ -21,12 +21,12 @@ Represents a single range of consecutive slides or pages to be printed.
 
  The **PrintRange** object is a member of the **[PrintRanges](PowerPoint.PrintRanges.md)** collection. The **PrintRanges** collection contains all the print ranges that have been defined for the specified presentation.
 
-You can set print ranges in the  **PrintRanges** collection independent of the **RangeType** setting; these ranges are retained as long as the presentation they're contained in is loaded. The ranges in the **PrintRanges** collection are applied when the **RangeType** property is set to **ppPrintSlideRange**.
+You can set print ranges in the **PrintRanges** collection independent of the **RangeType** setting; these ranges are retained as long as the presentation they're contained in is loaded. The ranges in the **PrintRanges** collection are applied when the **RangeType** property is set to **ppPrintSlideRange**.
 
 
 ## Example
 
-Use  **Ranges** (_index_), where _index_ is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
+Use **Ranges** (_index_), where _index_ is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
 
 
 ```vb

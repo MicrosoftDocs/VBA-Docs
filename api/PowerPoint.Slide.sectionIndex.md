@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Slide.sectionIndex property (PowerPoint)
 
-Returns the index of the selected section in the  **Slide** range. Read-only.
+Returns the index of the selected section in the **Slide** range. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationG
 
 ## Remarks
 
-This property returns  **olNavigationGroups** for the **[NavigationGroups](Outlook.NavigationGroups.md)** object.
+This property returns **olNavigationGroups** for the **[NavigationGroups](Outlook.NavigationGroups.md)** object.
 
 
 ## See also

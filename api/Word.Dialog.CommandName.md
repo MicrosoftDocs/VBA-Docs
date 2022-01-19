@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.CommandName property (Word)
 
-Returns the name of the procedure that displays the specified built-in dialog box. Read-only  **String**.
+Returns the name of the procedure that displays the specified built-in dialog box. Read-only **String**.
 
 
 ## Syntax

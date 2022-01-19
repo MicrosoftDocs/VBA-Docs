@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.FootnoteOptions property (Word)
 
-Returns  **FootnoteOptions** object that represents the footnotes in a selection or range.
+Returns **FootnoteOptions** object that represents the footnotes in a selection or range.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Case property (Word)
 
-Returns or sets a  **WdCharacterCase** constant that represents the case of the text in the specified range. Read/write.
+Returns or sets a **WdCharacterCase** constant that represents the case of the text in the specified range. Read/write.
 
 
 ## Syntax

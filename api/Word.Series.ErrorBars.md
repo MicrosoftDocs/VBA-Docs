@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.ErrorBars property (Word)
 
-Returns the error bars for the series. Read-only  **[ErrorBars](Word.ErrorBars.md)**.
+Returns the error bars for the series. Read-only **[ErrorBars](Word.ErrorBars.md)**.
 
 
 ## Syntax

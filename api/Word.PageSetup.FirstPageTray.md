@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.FirstPageTray property (Word)
 
-Returns or sets the paper tray to use for the first page of a document or section. Read/write  **WdPaperTray**.
+Returns or sets the paper tray to use for the first page of a document or section. Read/write **WdPaperTray**.
 
 
 ## Syntax

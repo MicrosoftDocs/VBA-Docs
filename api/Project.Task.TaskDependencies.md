@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 ## Remarks
 
-Each  **TaskDependency** object in the **TaskDependencies** collection includes the link type and link lag information between the tasks.
+Each **TaskDependency** object in the **TaskDependencies** collection includes the link type and link lag information between the tasks.
 
 
 ## Example

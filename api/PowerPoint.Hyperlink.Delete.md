@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.Delete method (PowerPoint)
 
-Deletes the specified  **Hyperlink** object.
+Deletes the specified **Hyperlink** object.
 
 
 ## Syntax

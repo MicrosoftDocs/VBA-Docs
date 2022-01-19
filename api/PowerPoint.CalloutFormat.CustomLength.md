@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[AutomaticLength](PowerPoint.CalloutFormat.AutomaticLength.md)** method to specify that the first segment of the callout line be scaled automatically whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
+Use the **[AutomaticLength](PowerPoint.CalloutFormat.AutomaticLength.md)** method to specify that the first segment of the callout line be scaled automatically whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 Applying this method sets the [AutoLength](PowerPoint.CalloutFormat.AutoLength.md)property to **False** and sets the **Length** property to the value specified for the Length argument.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.ContextualSpeller property (Word)
 
-Returns or sets a  **Boolean** that represents whether to use the contextual speller to check spelling based on the context of a word and the words around it. Read/write.
+Returns or sets a **Boolean** that represents whether to use the contextual speller to check spelling based on the context of a word and the words around it. Read/write.
 
 
 ## Syntax

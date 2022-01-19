@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.BookingType property (Project)
 
-Gets or sets the booking type for a resource. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
+Gets or sets the booking type for a resource. Can be one of the following **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 
 
 ## Syntax

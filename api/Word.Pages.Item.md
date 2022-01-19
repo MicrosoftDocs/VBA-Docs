@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pages.Item method (Word)
 
-Returns an individual  **Page** object in a collection.
+Returns an individual **Page** object in a collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[Pages](Word.pages.md)' col
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a **Long** indicating the ordinal position of the individual object.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.KeyBindings property (Word)
 
-Returns a  **[KeyBindings](Word.keybindings.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
+Returns a **[KeyBindings](Word.keybindings.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.Write event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.AppointmentItem.Save.md)** or **[SaveAs](Outlook.AppointmentItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the **[Save](Outlook.AppointmentItem.Save.md)** or **[SaveAs](Outlook.AppointmentItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax

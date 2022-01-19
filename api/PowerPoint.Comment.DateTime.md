@@ -31,7 +31,7 @@ Date
 
 ## Remarks
 
-Don't confuse this property with the  **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)** property, which applies to the headers and footers of a slide.
+Don't confuse this property with the **[DateAndTime](PowerPoint.HeadersFooters.DateAndTime.md)** property, which applies to the headers and footers of a slide.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLayout.Index property (PowerPoint)
 
-Returns the index position of the specified custom layout in the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection. Read-only.
+Returns the index position of the specified custom layout in the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection. Read-only.
 
 
 ## Syntax

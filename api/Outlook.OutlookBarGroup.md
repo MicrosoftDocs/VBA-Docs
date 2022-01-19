@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # OutlookBarGroup object (Outlook)
 
-Represents a group of shortcuts in the  **Shortcuts** pane of an explorer window.
+Represents a group of shortcuts in the **Shortcuts** pane of an explorer window.
 
 
 ## Remarks
 
-Use the  **[Item](Outlook.OutlookBarGroups.Item.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object. Because the **[Name](Outlook.OutlookBarGroup.Name.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
+Use the **[Item](Outlook.OutlookBarGroups.Item.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object. Because the **[Name](Outlook.OutlookBarGroup.Name.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
 
 
 ## Example

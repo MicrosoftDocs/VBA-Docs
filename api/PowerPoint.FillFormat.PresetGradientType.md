@@ -31,9 +31,9 @@ MsoPresetGradientType
 
 ## Remarks
 
-Use the  **[PresetGradient](PowerPoint.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](PowerPoint.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
 
-The value of the  **PresetGradientType** property can be one of these **MsoPresetGradientType** constants.
+The value of the **PresetGradientType** property can be one of these **MsoPresetGradientType** constants.
 
 
 ||

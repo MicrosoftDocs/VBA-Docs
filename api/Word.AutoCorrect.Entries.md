@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.Entries property (Word)
 
-Returns an  **[AutoCorrectEntries](Word.autocorrectentries.md)** collection that represents the current list of AutoCorrect entries.
+Returns an **[AutoCorrectEntries](Word.autocorrectentries.md)** collection that represents the current list of AutoCorrect entries.
 
 
 ## Syntax

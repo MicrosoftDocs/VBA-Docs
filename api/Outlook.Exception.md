@@ -25,14 +25,14 @@ Represents information about one instance of an **[AppointmentItem](Outlook.Appo
 > [!NOTE] 
 > The **[Exceptions](Outlook.Exceptions.md)** object is on the **[RecurrencePattern](Outlook.RecurrencePattern.md)**, not the **AppointmentItem** object itself.
 
-When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](Outlook.Exception.md)** or **RecurrencePattern** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
+When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring **AppointmentItem** object, and any **[Exception](Outlook.Exception.md)** or **RecurrencePattern** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
 
 Note that even after you release your reference and attempt to obtain a new reference, if there is still an active reference, held by another add-in or Outlook, to one of the above objects, your new reference will still point to an out-of-date copy of the object. Therefore, it is important that you release your references as soon as you are finished with the recurring appointment.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example retrieves the first  **Exception** object from the **Exceptions** collection object associated with a **RecurrencePattern** object.
+The following Visual Basic for Applications (VBA) example retrieves the first **Exception** object from the **Exceptions** collection object associated with a **RecurrencePattern** object.
 
 
 ```vb

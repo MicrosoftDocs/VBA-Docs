@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bibliography.GenerateUniqueTag method (Word)
 
-Generates a unique identification tag for a bibliography source and returns a  **String** that represents the tag.
+Generates a unique identification tag for a bibliography source and returns a **String** that represents the tag.
 
 
 ## Syntax

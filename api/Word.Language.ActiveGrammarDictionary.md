@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.ActiveGrammarDictionary property (Word)
 
-Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active grammar dictionary for the specified language. Read-only.
+Returns a **[Dictionary](Word.Dictionary.md)** object that represents the active grammar dictionary for the specified language. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Language](Word.Language.md)' object.
 
 ## Remarks
 
-If there is no grammar dictionary installed for the specified language, this property returns  **Nothing**.
+If there is no grammar dictionary installed for the specified language, this property returns **Nothing**.
 
 
 ## Example

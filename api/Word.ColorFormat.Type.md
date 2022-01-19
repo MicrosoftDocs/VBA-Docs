@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat.Type property (Word)
 
-Returns or sets the shape color type. Read-only  **MsoColorType**.
+Returns or sets the shape color type. Read-only **MsoColorType**.
 
 
 ## Syntax

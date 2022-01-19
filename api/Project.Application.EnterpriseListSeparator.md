@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EnterpriseListSeparator property (Project)
 
-Gets or sets the separator character for enterprise lists. Read/write  **String**.
+Gets or sets the separator character for enterprise lists. Read/write **String**.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Represents a field. The **Field** object is a member of the **Fields** collectio
 
 ## Remarks
 
-Use  **Fields** (Index), where Index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or document. The following example displays the field code and the result of the first field in the active document.
+Use **Fields** (Index), where Index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or document. The following example displays the field code and the result of the first field in the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.LinkFormat property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of the specified field. Read/only.
+Returns a **LinkFormat** object that represents the link options of the specified field. Read/only.
 
 
 ## Syntax

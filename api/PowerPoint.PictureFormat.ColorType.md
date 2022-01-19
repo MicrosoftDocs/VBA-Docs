@@ -31,7 +31,7 @@ MsoPictureColorType
 
 ## Remarks
 
-The value of the  **ColorType** property can be one of these **MsoPictureColorType** constants.
+The value of the **ColorType** property can be one of these **MsoPictureColorType** constants.
 
 
 ||

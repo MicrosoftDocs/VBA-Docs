@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[InlineShapes](Word.inlineshapes.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
+| _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](Excel.XlChartType.md)|The type of chart.|
 | _Range_|Optional|**Variant**|The range where the chart will be placed in the text. The chart replaces the range, unless the range is collapsed. If this argument is omitted, the chart is placed automatically.|
 | _NewLayout_|Optional|**Variant**|If _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|

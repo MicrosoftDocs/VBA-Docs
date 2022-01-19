@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Fields property (Word)
 
-Returns a read-only  **[Fields](Word.fields.md)** collection that represents all the fields in the selection.
+Returns a read-only **[Fields](Word.fields.md)** collection that represents all the fields in the selection.
 
 
 ## Syntax

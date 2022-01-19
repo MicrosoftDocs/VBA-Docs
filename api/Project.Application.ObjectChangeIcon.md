@@ -36,14 +36,14 @@ The bitmap or drawing object must be displayed as an icon and selected. The **Ob
 
 1. Open the **Project Options** dialog box, choose the **Customize Ribbon** tab, and then choose the list of commands not in the Ribbon.
     
-2. In the **Customize the Ribbon** drop-down list, select **Main Tabs**, and then choose  **New Tab**. Rename the tab, for example,  **Old Methods**. 
+2. In the **Customize the Ribbon** drop-down list, select **Main Tabs**, and then choose **New Tab**. Rename the tab, for example, **Old Methods**. 
     
-3. Choose  **New Group** to add a group to the **Old Methods** tab. Rename the group, for example, **Objects**.
+3. Choose **New Group** to add a group to the **Old Methods** tab. Rename the group, for example, **Objects**.
     
 4. Select the **Objects** group, add the **Object** and **Convert** commands to the group from the list of commands not in the Ribbon, and then choose **OK**.
     
-5. On the Gantt chart, choose  **Object** in the **Old Methods** tab. In the **Insert Object** dialog box, choose **Bitmap Image**. You can create a new image or add it from a file. Check  **Display As Icon**.
+5. On the Gantt chart, choose **Object** in the **Old Methods** tab. In the **Insert Object** dialog box, choose **Bitmap Image**. You can create a new image or add it from a file. Check **Display As Icon**.
     
-6. Select the bitmap image object on the Gantt chart, and then choose  **Convert** on the **Old Methods** tab of the Ribbon. In the **Convert** dialog box, choose **Change Icon**.
+6. Select the bitmap image object on the Gantt chart, and then choose **Convert** on the **Old Methods** tab of the Ribbon. In the **Convert** dialog box, choose **Change Icon**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

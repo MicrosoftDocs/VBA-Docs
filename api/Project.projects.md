@@ -19,7 +19,7 @@ Contains a collection of **[Project](Project.Project.md)** objects.
 
  **Using the Project Object**
 
-Use  **Projects** (Index), where Index is the project index number or project name, to return a single **Project** object. The following example switches among all the open projects, memorizes the full name of each, and then displays the results.
+Use **Projects** (Index), where Index is the project index number or project name, to return a single **Project** object. The following example switches among all the open projects, memorizes the full name of each, and then displays the results.
 
 
 

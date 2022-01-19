@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 ![Symbol](../images/fe274_ZA06051753.gif)" and "
 ![Symbol](../images/fe275_ZA06051754.gif)" and between "
 ![Symbol](../images/fe276_ZA06051755.gif)" and "
-![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write  **Boolean**.
+![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write **Boolean**.
 
 
 ## Syntax

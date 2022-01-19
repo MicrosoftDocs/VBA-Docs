@@ -34,7 +34,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Slides** (_index_), where _index_ is the slide name or index number, or use **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
+Use **Slides** (_index_), where _index_ is the slide name or index number, or use **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 ```vb
 ActivePresentation.Slides(1).Layout = ppLayoutTitle
@@ -47,25 +47,25 @@ The following example sets the layout for the slide with the ID number 265.
 ActivePresentation.Slides.FindBySlideID(265).Layout = ppLayoutTitle
 ```
 
-Use  **Selection.SlideRange** (_index_), where _index_ is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
+Use **Selection.SlideRange** (_index_), where _index_ is the slide name or index number within the selection, to return a single **Slide** object. The following example sets the layout for slide one in the selection in the active window, assuming that there's at least one slide selected.
 
 ```vb
 ActiveWindow.Selection.SlideRange(1).Layout = ppLayoutTitle
 ```
 
-If there's only one slide selected, you can use  **Selection.SlideRange** to return a **SlideRange** collection that contains the selected slide. The following example sets the layout for slide one in the current selection in the active window, assuming that there's exactly one slide selected.
+If there's only one slide selected, you can use **Selection.SlideRange** to return a **SlideRange** collection that contains the selected slide. The following example sets the layout for slide one in the current selection in the active window, assuming that there's exactly one slide selected.
 
 ```vb
 ActiveWindow.Selection.SlideRange.Layout = ppLayoutTitle
 ```
 
-Use the  **Slide** property to return the slide that's currently displayed in the specified document window or slide show window view. The following example copies the slide that's currently displayed in document window two to the Clipboard.
+Use the **Slide** property to return the slide that's currently displayed in the specified document window or slide show window view. The following example copies the slide that's currently displayed in document window two to the Clipboard.
 
 ```vb
 Windows(2).View.Slide.Copy
 ```
 
-Use the  **Add** method to create a new slide and add it to the presentation. The following example adds a title slide to the beginning of the active presentation.
+Use the **Add** method to create a new slide and add it to the presentation. The following example adds a title slide to the beginning of the active presentation.
 
 ```vb
 ActivePresentation.Slides.Add 1, ppLayoutTitleOnly

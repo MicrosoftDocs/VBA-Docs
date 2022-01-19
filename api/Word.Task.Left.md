@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Left property (Word)
 
-Returns or sets a  **Long** that represents the horizontal position of the specified task, measured in points. Read/write.
+Returns or sets a **Long** that represents the horizontal position of the specified task, measured in points. Read/write.
 
 
 ## Syntax

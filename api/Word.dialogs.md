@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Dialogs object (Word)
 
-A collection of  **[Dialog](Word.Dialog.md)** objects in Word. Each **Dialog** object represents a built-in Word dialog box.
+A collection of **[Dialog](Word.Dialog.md)** objects in Word. Each **Dialog** object represents a built-in Word dialog box.
 
 
 ## Remarks

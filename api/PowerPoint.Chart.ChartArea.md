@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartArea property (PowerPoint)
 
-Returns the complete chart area for the chart. Read-only  **[ChartArea](PowerPoint.ChartArea.md)**.
+Returns the complete chart area for the chart. Read-only **[ChartArea](PowerPoint.ChartArea.md)**.
 
 
 ## Syntax

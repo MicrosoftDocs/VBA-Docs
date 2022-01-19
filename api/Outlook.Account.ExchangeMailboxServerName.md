@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Remarks
 
-This property is similar to the  **[ExchangeMailboxServerName](Outlook.NameSpace.ExchangeMailboxServerName.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the **[ExchangeMailboxServerName](Outlook.NameSpace.ExchangeMailboxServerName.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 If an Exchange mailbox is not associated with this account, this property returns an empty string.
 

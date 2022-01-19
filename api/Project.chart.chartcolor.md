@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ChartColor property (Project)
-Gets or sets the index of chart colors for the active chart. Read/write  **Variant**.
+Gets or sets the index of chart colors for the active chart. Read/write **Variant**.
 
 ## Syntax
 

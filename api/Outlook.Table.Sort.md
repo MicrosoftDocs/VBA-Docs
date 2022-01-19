@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Sort method (Outlook)
 
-Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.
+Sorts the rows of the **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the  **Table**.|
-| _Descending_|Optional| **Boolean**|Whether to sort the  **Table** in descending order.|
+| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the **Table**.|
+| _Descending_|Optional| **Boolean**|Whether to sort the **Table** in descending order.|
 
 ## Remarks
 
@@ -39,7 +39,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 Sorting the table is equivalent to calling a **[MoveToStart](Outlook.Table.MoveToStart.md)** method. The cursor will be positioned to the start of the Table.
 
-If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_.
+If **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_.
 
  **Table.Sort** only supports sorting on a single column.
 

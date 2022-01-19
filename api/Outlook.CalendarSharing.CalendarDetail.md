@@ -31,7 +31,7 @@ A **OlCalendarDetail** value that indicates the level of detail for calendar ite
 
 ## Remarks
 
-The value of this property determines the allowable values for the following properties of the  **CalendarSharing** object:
+The value of this property determines the allowable values for the following properties of the **CalendarSharing** object:
 
 
 - **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.

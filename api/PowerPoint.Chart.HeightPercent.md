@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.HeightPercent property (PowerPoint)
 
-Returns or sets the height of a 3D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long**.
+Returns or sets the height of a 3D chart as a percentage of the chart width (from 5 through 500 percent). Read/write **Long**.
 
 
 ## Syntax

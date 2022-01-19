@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementProposedStart property (Project)
 
-Returns the proposed start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the proposed start date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

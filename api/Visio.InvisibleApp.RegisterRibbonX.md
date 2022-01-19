@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.RegisterRibbonX method (Visio)
 
-Registers the  **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
+Registers the **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
 
 
 ## Syntax

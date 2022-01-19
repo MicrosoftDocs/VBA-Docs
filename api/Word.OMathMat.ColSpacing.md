@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.ColSpacing property (Word)
 
-Returns or sets a  **Long** that represents the spacing for columns in a matrix. Read/write.
+Returns or sets a **Long** that represents the spacing for columns in a matrix. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.DefaultAssignmentOwner property (Project)
 
-Sets or gets the user name responsible for providing progress updates for assignments made to the resource. Read/write  **String**.
+Sets or gets the user name responsible for providing progress updates for assignments made to the resource. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RuleConditions object (Outlook)
 
-Contains a set of  **[RuleCondition](Outlook.RuleCondition.md)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](Outlook.Rule.md)** to execute.
+Contains a set of **[RuleCondition](Outlook.RuleCondition.md)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](Outlook.Rule.md)** to execute.
 
 
 ## Remarks

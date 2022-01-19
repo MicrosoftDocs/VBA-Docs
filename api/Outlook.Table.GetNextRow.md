@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.GetNextRow method (Outlook)
 
-Moves the current row to the next row in the  **[Table](Outlook.Table.md)** and obtains that row in the **Table**.
+Moves the current row to the next row in the **[Table](Outlook.Table.md)** and obtains that row in the **Table**.
 
 
 ## Syntax

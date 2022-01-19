@@ -31,7 +31,7 @@ PictureFormat
 
 ## Remarks
 
-This property applies to  **Shape** or **ShapeRange** objects that represent pictures or OLE objects.
+This property applies to **Shape** or **ShapeRange** objects that represent pictures or OLE objects.
 
 
 ## Example

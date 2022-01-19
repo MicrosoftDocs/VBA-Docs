@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The object to drop. While this is typically a Visio object such as a  **Master**, **Shape**, or **Selection** object, it can be any OLE object that provides an **IDataObject** interface.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The object to drop. While this is typically a Visio object such as a **Master**, **Shape**, or **Selection** object, it can be any OLE object that provides an **IDataObject** interface.|
 | _xPos_|Required| **Integer**|The x-coordinate at which to place the center of the shape's width or PinX.|
 | _yPos_|Required| **Integer**|The y-coordinate at which to place the center of the shape's height or PinY.|
 
@@ -41,7 +41,7 @@ Master
 
 ## Remarks
 
-Using the  **Drop** method is similar to moving a shape with the mouse. The object dropped ( _ObjectToDrop_) can be a master or a shape on the drawing page.
+Using the **Drop** method is similar to moving a shape with the mouse. The object dropped ( _ObjectToDrop_) can be a master or a shape on the drawing page.
 
 If  _ObjectToDrop_ is a **Master**, the pin of the master is dropped at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 

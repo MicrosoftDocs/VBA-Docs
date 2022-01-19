@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Sentences property (Word)
 
-Returns a  **[Sentences](Word.sentences.md)** collection that represents all the sentences in the selection. Read-only.
+Returns a **[Sentences](Word.sentences.md)** collection that represents all the sentences in the selection. Read-only.
 
 
 ## Syntax

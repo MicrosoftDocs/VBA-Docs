@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.ClassType property (Word)
 
-Returns or sets the class type for the specified OLE object, picture, or field. Read/write  **String**.
+Returns or sets the class type for the specified OLE object, picture, or field. Read/write **String**.
 
 
 ## Syntax

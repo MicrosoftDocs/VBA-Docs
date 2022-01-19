@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Number11 property (Project)
 
-Gets or sets a Number local custom field for an assignment. Read/write  **Double**.
+Gets or sets a Number local custom field for an assignment. Read/write **Double**.
 
 
 ## Syntax

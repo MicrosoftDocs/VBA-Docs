@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Password property (Word)
 
-Sets a password that must be supplied to open the specified document. Write-only  **String**.
+Sets a password that must be supplied to open the specified document. Write-only **String**.
 
 
 ## Syntax

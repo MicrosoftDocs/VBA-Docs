@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.EnterpriseCheckedOutBy property (Project)
 
-Gets the name of the user who has the enterprise resource checked out. Read-only  **String**.
+Gets the name of the user who has the enterprise resource checked out. Read-only **String**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReadReceiptRequested**. Read/write for email items that have been created but have not been sent or posted; read-only for sent email items.
+This property corresponds to the MAPI property **PidTagReadReceiptRequested**. Read/write for email items that have been created but have not been sent or posted; read-only for sent email items.
 
 
 ## See also

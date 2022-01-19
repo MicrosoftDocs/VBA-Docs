@@ -31,7 +31,7 @@ Pane
 
 ## Example
 
-If the active pane is the slide pane, this example makes the notes pane the active pane. The notes pane is the third member of the  **Panes** collection.
+If the active pane is the slide pane, this example makes the notes pane the active pane. The notes pane is the third member of the **Panes** collection.
 
 
 ```vb

@@ -21,7 +21,7 @@ _expression_ A variable that represents an **OptionButton** object.
 
 ## Remarks
 
-The settings for  **PicturePosition** are:
+The settings for **PicturePosition** are:
 
 
 
@@ -43,6 +43,6 @@ The settings for  **PicturePosition** are:
 
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
 
-This property is ignored if the  **[Picture](Outlook.optionbutton.picture.md)** property does not specify a picture.
+This property is ignored if the **[Picture](Outlook.optionbutton.picture.md)** property does not specify a picture.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

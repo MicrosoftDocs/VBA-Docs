@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ActiveEncryptionSession property (Word)
 
-Returns a  **Long** that represents the encryption session associated with the active document. Read-only.
+Returns a **Long** that represents the encryption session associated with the active document. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.TabPosition property (Word)
 
-Returns or sets the tab position for the specified  **ListLevel** object. Read/write **Single**.
+Returns or sets the tab position for the specified **ListLevel** object. Read/write **Single**.
 
 
 ## Syntax

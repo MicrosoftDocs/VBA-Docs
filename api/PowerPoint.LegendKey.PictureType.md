@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # LegendKey.PictureType property (PowerPoint)
 
-Returns or sets the way pictures are displayed on a legend key. Read/write  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
+Returns or sets the way pictures are displayed on a legend key. Read/write **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
 
 
 ## Syntax

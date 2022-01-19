@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.SelectNodes method (Word)
 
-Returns an  **[XMLNodes](Word.XMLNodes.md)** collection that represents all the child elements that match the XPath parameter, in the order in which they appear within the specified XML element.
+Returns an **[XMLNodes](Word.XMLNodes.md)** collection that represents all the child elements that match the XPath parameter, in the order in which they appear within the specified XML element.
 
 
 ## Syntax

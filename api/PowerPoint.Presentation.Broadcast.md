@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.Broadcast property (PowerPoint)
 
-Returns the  **Broadcast** object of the current **Presentation** object. Read-only.
+Returns the **Broadcast** object of the current **Presentation** object. Read-only.
 
 
 ## Syntax

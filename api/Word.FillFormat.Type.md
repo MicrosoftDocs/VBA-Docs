@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.Type property (Word)
 
-Returns the shape fill format type. Read-only  **MsoFillType**.
+Returns the shape fill format type. Read-only **MsoFillType**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Column.Delete method (PowerPoint)
 
-Deletes the specified  **Column** object.
+Deletes the specified **Column** object.
 
 
 ## Syntax

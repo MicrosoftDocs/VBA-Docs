@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SolutionsModule.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
+Returns the parent **Object** of the specified **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 
 
 ## Syntax

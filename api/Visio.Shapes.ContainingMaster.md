@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.ContainingMaster property (Visio)
 
-Returns the  **Master** object that contains an object. Read-only.
+Returns the **Master** object that contains an object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Master
 
 ## Remarks
 
-If the object isn't in a  **Master** object, the **ContainingMaster** property returns **Nothing**. For example, if a **Shape** object belongs to the **Shapes** collection of a **Page** object, the **ContainingMaster** property returns **Nothing**.
+If the object isn't in a **Master** object, the **ContainingMaster** property returns **Nothing**. For example, if a **Shape** object belongs to the **Shapes** collection of a **Page** object, the **ContainingMaster** property returns **Nothing**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

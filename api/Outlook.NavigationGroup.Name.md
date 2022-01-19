@@ -26,9 +26,9 @@ _expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGr
 
 ## Remarks
 
-This property is limited to 127 characters.  **String** values longer than 127 characters are truncated.
+This property is limited to 127 characters. **String** values longer than 127 characters are truncated.
 
-An error occurs if you attempt to set the value of this property for any  **NavigationGroup** object associated with a **[MailModule](Outlook.MailModule.md)** object.
+An error occurs if you attempt to set the value of this property for any **NavigationGroup** object associated with a **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also

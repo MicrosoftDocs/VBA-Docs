@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # PrintRanges object (PowerPoint)
 
-A collection of all the  **[PrintRange](PowerPoint.PrintRange.md)** objects in the specified presentation. Each **PrintRange** object represents a range of consecutive slides or pages to be printed.
+A collection of all the **[PrintRange](PowerPoint.PrintRange.md)** objects in the specified presentation. Each **PrintRange** object represents a range of consecutive slides or pages to be printed.
 
 
 ## Example
 
-Use the [Ranges](PowerPoint.PrintOptions.Ranges.md)property to return the  **PrintRanges** collection. The following example clears all previously defined print ranges from the collection for the active presentation.
+Use the [Ranges](PowerPoint.PrintOptions.Ranges.md)property to return the **PrintRanges** collection. The following example clears all previously defined print ranges from the collection for the active presentation.
 
 
 ```vb
@@ -53,7 +53,7 @@ End With
 ActivePresentation.PrintOut
 ```
 
-Use  **Ranges** (_index_), where _index_ is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
+Use **Ranges** (_index_), where _index_ is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
 
 
 

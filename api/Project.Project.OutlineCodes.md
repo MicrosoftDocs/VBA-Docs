@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Use the local  **OutlineCode[1-10]** properties of resources or tasks to set outline code values in an open project. For example, use the **[OutlineCode4](Project.Task.OutlineCode4.md)** property of the **Task** object.
+Use the local **OutlineCode[1-10]** properties of resources or tasks to set outline code values in an open project. For example, use the **[OutlineCode4](Project.Task.OutlineCode4.md)** property of the **Task** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

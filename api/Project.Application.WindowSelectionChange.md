@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the selection occurs.|
 | _sel_|Required|**Selection**|The selection.|
-| _selType_|Required|**Long**|The type of data included in the selection. Can be one of the following  **PjItemType** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.|
+| _selType_|Required|**Long**|The type of data included in the selection. Can be one of the following **PjItemType** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.SynonymInfo property (Word)
 
-Returns a  **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the specified word or phrase.
+Returns a **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the specified word or phrase.
 
 
 ## Syntax

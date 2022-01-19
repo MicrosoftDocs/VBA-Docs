@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Permission property (Word)
 
-Returns a  **Permission** object that represents the permission settings in the specified document.
+Returns a **Permission** object that represents the permission settings in the specified document.
 
 
 ## Syntax

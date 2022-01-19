@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Title property (Word)
 
-Returns or sets a  **String** that contains a title for the shapes in the specified shape range. Read/write.
+Returns or sets a **String** that contains a title for the shapes in the specified shape range. Read/write.
 
 
 ## Syntax

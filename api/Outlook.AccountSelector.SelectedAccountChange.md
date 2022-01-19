@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccountSelector.SelectedAccountChange event (Outlook)
 
-Occurs when the user selects a different account in the drop-down list under  **Account Information** on the **Info** tab of the Microsoft Office Backstage view.
+Occurs when the user selects a different account in the drop-down list under **Account Information** on the **Info** tab of the Microsoft Office Backstage view.
 
 
 ## Syntax

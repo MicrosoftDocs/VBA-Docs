@@ -19,7 +19,7 @@ Represents a single table of authorities in a document (a TOA field). The **Tabl
 
 ## Remarks
 
-Use  **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
+Use **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
 
 
 ```vb

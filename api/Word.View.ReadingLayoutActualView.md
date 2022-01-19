@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ReadingLayoutActualView property (Word)
 
-Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are displayed using the same layout as printed pages.
+Sets or returns a **Boolean** that represents whether pages displayed in reading layout view are displayed using the same layout as printed pages.
 
 
 ## Syntax

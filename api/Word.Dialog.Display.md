@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.Display method (Word)
 
-Displays the specified built-in Word dialog box until either the user closes it or the specified amount of time has passed. Returns a  **Long** that indicates which button was clicked to close the dialog box.
+Displays the specified built-in Word dialog box until either the user closes it or the specified amount of time has passed. Returns a **Long** that indicates which button was clicked to close the dialog box.
 
 
 ## Syntax

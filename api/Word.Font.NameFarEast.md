@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.NameFarEast property (Word)
 
-Returns or sets an East Asian font name. Read/write  **String**.
+Returns or sets an East Asian font name. Read/write **String**.
 
 
 ## Syntax

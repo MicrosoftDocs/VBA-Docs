@@ -31,7 +31,7 @@ NewFile
 
 ## Example
 
-This example lists a presentation on the  **New Presentation** task pane at the bottom of the last section in the pane.
+This example lists a presentation on the **New Presentation** task pane at the bottom of the last section in the pane.
 
 
 ```vb

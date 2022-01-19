@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartCharacters.Font property (PowerPoint)
 
-Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.ChartFont.md)**.
+Returns the font of the specified object. Read-only **[ChartFont](PowerPoint.ChartFont.md)**.
 
 
 ## Syntax

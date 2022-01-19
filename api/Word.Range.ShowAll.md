@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-This property only affects the specified range when  **Show Markup** is set to **Show Revisions in Balloons**. When  **Range.ShowAll** is set to **False**,  **[Range.Text](Word.Range.Text.md)** provides all of the text in the range except deleted text. If you set **Range.ShowAll** to **True**, then  **[Range.Text](Word.Range.Text.md)** provides all of the text in the range including the text that was deleted.
+This property only affects the specified range when **Show Markup** is set to **Show Revisions in Balloons**. When **Range.ShowAll** is set to **False**, **[Range.Text](Word.Range.Text.md)** provides all of the text in the range except deleted text. If you set **Range.ShowAll** to **True**, then **[Range.Text](Word.Range.Text.md)** provides all of the text in the range including the text that was deleted.
 
 
 ## Example
@@ -35,7 +35,7 @@ The following example displays all the text in the specified range, excluding de
 
 
 > [!NOTE] 
-> This example assumes that the active document has change tracking enabled, that  **Show Markup** is set to **Show Revisions in Balloons**, and that some text has been deleted from the document.
+> This example assumes that the active document has change tracking enabled, that **Show Markup** is set to **Show Revisions in Balloons**, and that some text has been deleted from the document.
 
 
 ```vb

@@ -23,7 +23,7 @@ Represents a single co author in the document. The **CoAuthor** object is a memb
 
 ## Remarks
 
-Use  **CoAuthors** (_index_), where _index_ is the index number to return a single **CoAuthor** object.
+Use **CoAuthors** (_index_), where _index_ is the index number to return a single **CoAuthor** object.
 
 
 > [!NOTE] 

@@ -26,9 +26,9 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Remarks
 
-If you do not set  **Caption**, the title of the dialog box will be **Select Names** or the localized equivalent. If you set **Caption** to an empty string, the dialog box caption will be an empty string.
+If you do not set **Caption**, the title of the dialog box will be **Select Names** or the localized equivalent. If you set **Caption** to an empty string, the dialog box caption will be an empty string.
 
-Setting the  **Caption** to a long string (for example, 300 characters) will cause the caption to be truncated, and will not cause the width of the **Select Names** dialog to change.
+Setting the **Caption** to a long string (for example, 300 characters) will cause the caption to be truncated, and will not cause the width of the **Select Names** dialog to change.
 
 
 ## See also

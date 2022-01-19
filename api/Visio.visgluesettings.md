@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisGlueSettings enumeration (Visio)
 
-Flags passed to or returned by the  **Document.GlueSettings** property.
+Flags passed to or returned by the **Document.GlueSettings** property.
 
 
 

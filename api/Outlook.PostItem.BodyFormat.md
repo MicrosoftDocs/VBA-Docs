@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 The body text format determines the standard used to display the text of the message. Microsoft Outlook provides three body text format options: Plain Text, Rich Text (RTF), and HTML.
 
-All text formatting will be lost when the  **BodyFormat** property is switched from RTF to HTML and vice-versa.
+All text formatting will be lost when the **BodyFormat** property is switched from RTF to HTML and vice-versa.
 
 
 ## See also

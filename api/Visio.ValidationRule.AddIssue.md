@@ -30,8 +30,8 @@ _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRul
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TargetPage_|Optional| **[Page](Visio.Page.md)**|The page that has the issue. May be  **Nothing**.|
-| _TargetShape_|Optional| **[Shape](Visio.Shape.md)**|The shape that has the issue. May be  **Nothing**.|
+| _TargetPage_|Optional| **[Page](Visio.Page.md)**|The page that has the issue. May be **Nothing**.|
+| _TargetShape_|Optional| **[Shape](Visio.Shape.md)**|The shape that has the issue. May be **Nothing**.|
 
 ## Return value
 
@@ -49,7 +49,7 @@ If you do not pass values for either of the optional parameters, the validation 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
+The following Visual Basic for Applications (VBA) example shows how to use the **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
 
 
 ```vb

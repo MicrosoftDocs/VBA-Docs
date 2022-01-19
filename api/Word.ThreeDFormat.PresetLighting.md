@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetLighting property (Word)
 
-Returns or sets an  **MsoBevelType** constant that represents the lighting preset. Read/write.
+Returns or sets an **MsoBevelType** constant that represents the lighting preset. Read/write.
 
 
 ## Syntax

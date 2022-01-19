@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these  **[WdHelpType](Word.WdHelpType.md)** constants.|
+| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these **[WdHelpType](Word.WdHelpType.md)** constants.|
 
 ## Remarks
 

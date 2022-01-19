@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Bar property (Word)
 
-Returns an  **[OMathBar](Word.OMathBar.md)** object that represents the mathematical overbar for an object. Read-only.
+Returns an **[OMathBar](Word.OMathBar.md)** object that represents the mathematical overbar for an object. Read-only.
 
 
 ## Syntax

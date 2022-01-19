@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PlotArea.Height property (PowerPoint)
 
-Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write  **Double**.
+Returns or sets the height, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write **Double**.
 
 
 ## Syntax

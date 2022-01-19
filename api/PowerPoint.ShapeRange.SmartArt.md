@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.SmartArt property (PowerPoint)
 
-Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
+Returns the SmartArt diagram of the **ShapeRange** object. Read-only.
 
 
 ## Syntax

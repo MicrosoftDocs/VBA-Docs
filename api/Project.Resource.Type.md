@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Type property (Project)
 
-Gets or sets the type of the resource (work, material, or cost). Read/write  **PjResourceTypes**.
+Gets or sets the type of the resource (work, material, or cost). Read/write **PjResourceTypes**.
 
 
 ## Syntax

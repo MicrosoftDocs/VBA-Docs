@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Fonts.Replace method (PowerPoint)
 
-Replaces a font in the  **Fonts** collection.
+Replaces a font in the **Fonts** collection.
 
 
 ## Syntax

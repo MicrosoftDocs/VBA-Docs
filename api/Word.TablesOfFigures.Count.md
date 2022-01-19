@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfFigures.Count property (Word)
 
-Returns a  **Long** that represents the number of tables of figures in the collection. Read-only.
+Returns a **Long** that represents the number of tables of figures in the collection. Read-only.
 
 
 ## Syntax

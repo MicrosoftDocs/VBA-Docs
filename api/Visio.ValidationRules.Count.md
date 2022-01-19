@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationRules.Count property (Visio)
 
-Returns the number of  **[ValidationRule](Visio.ValidationRule.md)** objects in the collection. Read-only.
+Returns the number of **[ValidationRule](Visio.ValidationRule.md)** objects in the collection. Read-only.
 
 
 ## Syntax

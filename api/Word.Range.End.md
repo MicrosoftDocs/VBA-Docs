@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.End property (Word)
 
-Returns or sets the ending character position of a range. Read/write  **Long**.
+Returns or sets the ending character position of a range. Read/write **Long**.
 
 
 ## Syntax

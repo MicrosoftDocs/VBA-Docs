@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[ValidationIssue](Visio.ValidationIs
 
 ## Remarks
 
-Ignored issues are still recorded but, by default, they are not displayed in the  **Issues** window.
+Ignored issues are still recorded but, by default, they are not displayed in the **Issues** window.
 
  **Ignored** is the default property of the **ValidationIssue** object.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TimelineView.Apply method (Outlook)
 
-Applies the  **[TimelineView](Outlook.TimelineView.md)** object to the current view.
+Applies the **[TimelineView](Outlook.TimelineView.md)** object to the current view.
 
 
 ## Syntax

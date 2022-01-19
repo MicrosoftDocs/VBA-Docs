@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CostRateTables.Item property (Project)
 
-Gets a single  **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
+Gets a single **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Borders.DistanceFromRight property (Word)
 
-Returns or sets the space (in points) between the right edge of the text and the right border. Read/write  **Long**.
+Returns or sets the space (in points) between the right edge of the text and the right border. Read/write **Long**.
 
 
 ## Syntax

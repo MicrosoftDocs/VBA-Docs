@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.DefaultTab property (Word)
 
-Returns or sets the active tab when the specified dialog box is displayed. Read/write  **WdWordDialogTab**.
+Returns or sets the active tab when the specified dialog box is displayed. Read/write **WdWordDialogTab**.
 
 
 ## Syntax

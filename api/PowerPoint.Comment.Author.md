@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property returns only the author's name. To return the author's initials, use the  **[AuthorInitials](PowerPoint.Comment.AuthorInitials.md)** property. Specify the author of a comment when you add a new comment to the presentation.
+This property returns only the author's name. To return the author's initials, use the **[AuthorInitials](PowerPoint.Comment.AuthorInitials.md)** property. Specify the author of a comment when you add a new comment to the presentation.
 
 
 ## Example

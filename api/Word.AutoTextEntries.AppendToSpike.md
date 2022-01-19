@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoTextEntries.AppendToSpike method (Word)
 
-Deletes the specified range and adds the contents of the range to the Spike (a built-in AutoText entry). This method returns the Spike as an  **AutoTextEntry** object.
+Deletes the specified range and adds the contents of the range to the Spike (a built-in AutoText entry). This method returns the Spike as an **AutoTextEntry** object.
 
 
 ## Syntax

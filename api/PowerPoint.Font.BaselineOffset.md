@@ -33,13 +33,13 @@ Single
 
 The **BaselineOffset** property value be a floating-point value from - 1 through 1. A value of - 1 represents an offset of - 100 percent, and a value of 1 represents an offset of 100 percent.
 
-Setting the  **BaselineOffset** property to a negative value automatically sets the **Subscript** property to **True** and the **Superscript** property to **False**.
+Setting the **BaselineOffset** property to a negative value automatically sets the **Subscript** property to **True** and the **Superscript** property to **False**.
 
-Setting the  **BaselineOffset** property to a positive value automatically sets the **Subscript** property to **False** and the **Superscript** property to **True**.
+Setting the **BaselineOffset** property to a positive value automatically sets the **Subscript** property to **False** and the **Superscript** property to **True**.
 
-Setting the  **Subscript** property to **True** automatically sets the **BaselineOffset** property to 0.3 (30 percent).
+Setting the **Subscript** property to **True** automatically sets the **BaselineOffset** property to 0.3 (30 percent).
 
-Setting the  **Superscript** property to **True** automatically sets the **BaselineOffset** property to - 0.25 ( - 25 percent).
+Setting the **Superscript** property to **True** automatically sets the **BaselineOffset** property to - 0.25 ( - 25 percent).
 
 
 ## Example

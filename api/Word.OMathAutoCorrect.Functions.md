@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathAutoCorrect.Functions property (Word)
 
-Returns an  **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** collection that represents the recognized functions that are automatically corrected using the equation autocorrect feature. Read-only.
+Returns an **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** collection that represents the recognized functions that are automatically corrected using the equation autocorrect feature. Read-only.
 
 
 ## Syntax

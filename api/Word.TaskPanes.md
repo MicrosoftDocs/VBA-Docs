@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskPanes object (Word)
 
-A collection of  **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
+A collection of **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
 
 
 ## Remarks

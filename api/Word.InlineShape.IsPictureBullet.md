@@ -26,7 +26,7 @@ _expression_. `IsPictureBullet`
 
 ## Remarks
 
-Although picture bullets are considered inline shapes, searching a document's  **InlineShapes** collection will not return picture bullets.
+Although picture bullets are considered inline shapes, searching a document's **InlineShapes** collection will not return picture bullets.
 
 
 ## Example

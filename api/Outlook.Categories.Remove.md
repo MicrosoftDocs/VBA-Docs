@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Categories](Outlook.Categories.md) ob
 
 ## Remarks
 
-If the name of a category is specified in  _Index_, this method removes the first  **Category** object that matches the specified value.
+If the name of a category is specified in  _Index_, this method removes the first **Category** object that matches the specified value.
 
 
 ## See also

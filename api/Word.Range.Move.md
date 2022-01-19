@@ -40,7 +40,7 @@ Long
 
 ## Remarks
 
-This method returns a  **Long** value that indicates the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
+This method returns a **Long** value that indicates the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 The start and end positions of a collapsed range are equal.
 

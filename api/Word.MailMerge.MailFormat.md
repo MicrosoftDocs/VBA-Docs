@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.MailFormat property (Word)
 
-Returns a  **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an email message. Read/write.
+Returns a **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an email message. Read/write.
 
 
 ## Syntax

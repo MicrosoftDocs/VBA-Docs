@@ -36,7 +36,7 @@ An **AddressEntries** collection object that represents the Exchange distributio
 
 ## Example
 
-The following code sample shows how to obtain the names of the Exchange distribution lists to which the manager of the current user belongs. It uses the  **ExchangeUser** object to obtain specific Exchange user information such as the user's Exchange account alias, details about the user's manager, and the distribution lists that the user's manager has joined.
+The following code sample shows how to obtain the names of the Exchange distribution lists to which the manager of the current user belongs. It uses the **ExchangeUser** object to obtain specific Exchange user information such as the user's Exchange account alias, details about the user's manager, and the distribution lists that the user's manager has joined.
 
 
 ```vb

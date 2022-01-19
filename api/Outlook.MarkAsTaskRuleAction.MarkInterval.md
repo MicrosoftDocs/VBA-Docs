@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MarkAsTaskRuleAction.MarkInterval property (Outlook)
 
-Returns or sets a constant in the  **[OlMarkInterval](Outlook.OlMarkInterval.md)** enumeration that represents the interval before the task is due. Read/write.
+Returns or sets a constant in the **[OlMarkInterval](Outlook.OlMarkInterval.md)** enumeration that represents the interval before the task is due. Read/write.
 
 
 ## Syntax

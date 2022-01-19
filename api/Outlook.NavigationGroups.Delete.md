@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationGroups.Delete method (Outlook)
 
-Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+Deletes the specified **[NavigationGroup](Outlook.NavigationGroup.md)** object from the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ The **Delete** method raises an error if:
     
 - The **[GroupType](Outlook.NavigationGroup.GroupType.md)** property of the navigation group specified in _Group_ is set to **olMyFoldersGroup**.
     
-- The parent of the  **NavigationGroups** collection is a **[MailModule](Outlook.MailModule.md)** object.
+- The parent of the **NavigationGroups** collection is a **[MailModule](Outlook.MailModule.md)** object.
     
 
 ## See also

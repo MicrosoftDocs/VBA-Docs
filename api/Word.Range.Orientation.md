@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Orientation property (Word)
 
-Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write  **WdTextOrientation**.
+Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write **WdTextOrientation**.
 
 
 ## Syntax

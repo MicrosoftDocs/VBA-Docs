@@ -19,7 +19,7 @@ Contains information about how the specified media clip will be played during a 
 
 ## Example
 
-Use the [PlaySettings](PowerPoint.AnimationSettings.PlaySettings.md)property to return the  **PlaySettings** object. The following example inserts a movie named "Clock.avi" into slide one in the active presentation. It then sets it to be played automatically after the previous animation or slide transition, specifies that the slide show continue while the movie plays, and specifies that the movie object be hidden during a slide show except when it is playing.
+Use the [PlaySettings](PowerPoint.AnimationSettings.PlaySettings.md)property to return the **PlaySettings** object. The following example inserts a movie named "Clock.avi" into slide one in the active presentation. It then sets it to be played automatically after the previous animation or slide transition, specifies that the slide show continue while the movie plays, and specifies that the movie object be hidden during a slide show except when it is playing.
 
 
 ```vb

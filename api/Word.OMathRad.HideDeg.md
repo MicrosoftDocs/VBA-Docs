@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathRad.HideDeg property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the degree for a radical. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the degree for a radical. Read/write.
 
 
 ## Syntax

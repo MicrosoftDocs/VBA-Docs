@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.Height property (Word)
 
-Returns or sets the height of the Protected View window. Read/write  **Long**.
+Returns or sets the height of the Protected View window. Read/write **Long**.
 
 
 ## Syntax

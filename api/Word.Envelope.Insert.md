@@ -45,7 +45,7 @@ _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.
 | _ReturnAddressFromLeft_|Optional| **Variant**|The distance, measured in points, between the left edge of the envelope and the return address.|
 | _ReturnAddressFromTop_|Optional| **Variant**|The distance, measured in points, between the top edge of the envelope and the return address.|
 | _DefaultFaceUp_|Optional| **Variant**| **True** to print the envelope face up, **False** to print it face down.|
-| _DefaultOrientation_|Optional| **Variant**|The orientation for the envelope. Can be any  **WdEnvelopeOrientation** constant.|
+| _DefaultOrientation_|Optional| **Variant**|The orientation for the envelope. Can be any **WdEnvelopeOrientation** constant.|
 | _PrintEPostage_|Optional| **Variant**| **True** to insert postage from an Internet postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** to print vertical text on the envelope. Used for Asian envelopes. Default is **False**.|
 | _RecipientNamefromLeft_|Optional| **Variant**|Position of the recipient's name, measured in points from the left edge of the envelope. Used for Asian envelopes.|

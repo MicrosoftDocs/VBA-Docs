@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath object (Word)
 
-Represents an equation.  **OMath** objects are members of the **OMaths** collection.
+Represents an equation. **OMath** objects are members of the **OMaths** collection.
 
 
 ## Remarks

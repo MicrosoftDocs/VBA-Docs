@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabel.Caption property (Word)
 
-Returns or sets the data label text. Read/write  **String**.
+Returns or sets the data label text. Read/write **String**.
 
 
 ## Syntax

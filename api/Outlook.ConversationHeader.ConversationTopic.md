@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ConversationHeader](Outlook.Conversa
 
 ## Remarks
 
-Corresponds to the MAPI property  **PidTagConversationTopic**.
+Corresponds to the MAPI property **PidTagConversationTopic**.
 
 
 ## See also

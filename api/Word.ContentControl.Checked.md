@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.Checked property (Word)
 
-Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/write.
+Returns or sets a **Boolean** that represents the current state (checked/unchecked) for a check box. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Use the **Checked** property to get/set the current state for a check box conten
 
 ## Example
 
-The following code example sets the specified check box content control  **Checked** property.
+The following code example sets the specified check box content control **Checked** property.
 
 
 ```vb

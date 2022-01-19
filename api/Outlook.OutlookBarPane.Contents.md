@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OutlookBarPane.Contents property (Outlook)
 
-Returns the  **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object for the specified Outlook Bar pane. Read-only.
+Returns the **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object for the specified Outlook Bar pane. Read-only.
 
 
 ## Syntax

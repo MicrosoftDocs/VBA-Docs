@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.MemberOfContainers property (Visio)
 
-Returns an array of  **Long** values that represent the identifiers of the container shapes that include the shape as a member. Read-only.
+Returns an array of **Long** values that represent the identifiers of the container shapes that include the shape as a member. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-The  **MemberOfContainers** property returns **Nothing** if the shape is not a member of any container.
+The **MemberOfContainers** property returns **Nothing** if the shape is not a member of any container.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comments.Item method (PowerPoint)
 
-Returns a single  **Comment** object from the specified **Comments** collection.
+Returns a single **Comment** object from the specified **Comments** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Comments](PowerPoint.Comments.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Comment** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Comment** object in the collection to be returned.|
 
 ## Return value
 

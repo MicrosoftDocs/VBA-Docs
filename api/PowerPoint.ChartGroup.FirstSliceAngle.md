@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.FirstSliceAngle property (PowerPoint)
 
-Returns or sets the angle, in degrees (clockwise from vertical), of the first pie-chart or doughnut-chart slice. Read/write  **Long**.
+Returns or sets the angle, in degrees (clockwise from vertical), of the first pie-chart or doughnut-chart slice. Read/write **Long**.
 
 
 ## Syntax

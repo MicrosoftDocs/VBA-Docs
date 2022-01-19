@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskDependency.Type property (Project)
 
-Gets or sets the link type of the task dependency. Read/write  **PjTaskLinkType**.
+Gets or sets the link type of the task dependency. Read/write **PjTaskLinkType**.
 
 
 ## Syntax

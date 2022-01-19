@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.State property (Word)
 
-Returns the current state of a mail merge operation. Read-only  **WdMailMergeState**.
+Returns the current state of a mail merge operation. Read-only **WdMailMergeState**.
 
 
 ## Syntax

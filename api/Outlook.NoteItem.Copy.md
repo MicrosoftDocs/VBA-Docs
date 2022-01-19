@@ -31,7 +31,7 @@ A **[NoteItem](Outlook.NoteItem.md)** object that represents a copy of the speci
 
 ## Example
 
-This Visual Basic for Applications example creates an email message, sets the  **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created email folder named "Saved Mail" within the Inbox folder.
+This Visual Basic for Applications example creates an email message, sets the **Subject** to "Speeches", uses the **Copy** method to copy it, then moves the copy into a newly created email folder named "Saved Mail" within the Inbox folder.
 
 
 ```vb

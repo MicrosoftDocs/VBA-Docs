@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Name property (Word)
 
-Returns or sets the name of the specified object. Read/write  **String**.
+Returns or sets the name of the specified object. Read/write **String**.
 
 
 ## Syntax

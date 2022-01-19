@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.BackColor property (Word)
 
-Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the background color for a patterned line. Read/write.
+Returns or sets a **[ColorFormat](Word.ColorFormat.md)** object that represents the background color for a patterned line. Read/write.
 
 
 ## Syntax

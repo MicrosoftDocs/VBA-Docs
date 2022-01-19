@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.NumberAcross property (Word)
 
-Returns or sets the number of custom mailing labels across a page. Read/write  **Long**.
+Returns or sets the number of custom mailing labels across a page. Read/write **Long**.
 
 
 ## Syntax

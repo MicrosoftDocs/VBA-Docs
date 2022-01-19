@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 ## Remarks
 
-If several pages of a document have default names and any page but the last is deleted, Microsoft Visio will automatically rename the remaining pages to preserve the naming sequence, but the renaming will not trigger the  **PageChanged** event. For example, if a document contains Page-1, Page-2, and Page-3, and then Page-1 is deleted, Page-2 will be renamed Page-1, and Page-3 will be renamed Page-2, but no **PageChanged** event occurs.
+If several pages of a document have default names and any page but the last is deleted, Microsoft Visio will automatically rename the remaining pages to preserve the naming sequence, but the renaming will not trigger the **PageChanged** event. For example, if a document contains Page-1, Page-2, and Page-3, and then Page-1 is deleted, Page-2 will be renamed Page-1, and Page-3 will be renamed Page-2, but no **PageChanged** event occurs.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

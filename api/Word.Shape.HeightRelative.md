@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.HeightRelative property (Word)
 
-Returns or sets a  **Single** that represents the percentage of the relative height of a shape. Read/write.
+Returns or sets a **Single** that represents the percentage of the relative height of a shape. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMatCol.ColIndex property (Word)
 
-Returns a  **Long** that represents the ordinal position of a column within the collection of columns in a matrix. Read-only.
+Returns a **Long** that represents the ordinal position of a column within the collection of columns in a matrix. Read-only.
 
 
 ## Syntax

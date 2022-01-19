@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.FormatDescription property (Word)
 
-Returns a  **String** representing a description of tracked formatting changes in a revision. Read-only.
+Returns a **String** representing a description of tracked formatting changes in a revision. Read-only.
 
 
 ## Syntax

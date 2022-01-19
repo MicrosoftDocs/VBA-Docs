@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Nodes property (Word)
 
-Returns a  **[ShapeNodes](Word.shapenodes.md)** collection that represents the geometric description of the specified shape.
+Returns a **[ShapeNodes](Word.shapenodes.md)** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax

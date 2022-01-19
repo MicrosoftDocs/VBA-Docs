@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.HiLoLines property (PowerPoint)
 
-Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](PowerPoint.HiLoLines.md)**.
+Returns the high-low lines for a series on a line chart. Read-only **[HiLoLines](PowerPoint.HiLoLines.md)**.
 
 
 ## Syntax

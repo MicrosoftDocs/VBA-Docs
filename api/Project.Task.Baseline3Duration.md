@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Baseline3Duration property (Project)
 
-Gets or sets the baseline3 duration (in minutes) of a task. Read/write  **Variant**.
+Gets or sets the baseline3 duration (in minutes) of a task. Read/write **Variant**.
 
 
 ## Syntax

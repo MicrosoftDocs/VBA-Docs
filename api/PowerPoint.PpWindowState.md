@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpWindowState enumeration (PowerPoint)
 
-Constants that specify the window state, passed to and returned by the  **WindowState** property of the **DocumentWindow** object.
+Constants that specify the window state, passed to and returned by the **WindowState** property of the **DocumentWindow** object.
 
 
 

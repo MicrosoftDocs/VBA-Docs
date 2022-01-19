@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.Item method (PowerPoint)
 
-Returns a single  **Row** object from the specified **Rows** collection.
+Returns a single **Row** object from the specified **Rows** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Rows](PowerPoint.Rows.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Row** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Row** object in the collection to be returned.|
 
 ## Return value
 

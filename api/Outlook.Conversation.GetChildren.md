@@ -39,9 +39,9 @@ A **SimpleItems** collection that represents the set of child items in the conve
 
 ## Remarks
 
-The returned  **SimpleItems** collection contains immediate child items of the conversation node specified by the _Item_ parameter. If the specified node does not exist in the conversation, the **GetChildren** method returns an error.
+The returned **SimpleItems** collection contains immediate child items of the conversation node specified by the _Item_ parameter. If the specified node does not exist in the conversation, the **GetChildren** method returns an error.
 
-If no child items exist under that node, the  **GetChildren** method returns a **SimpleItems** collection with zero objects, in which case the **[Count](Outlook.SimpleItems.Count.md)** property of the **SimpleItems** collection returns 0.
+If no child items exist under that node, the **GetChildren** method returns a **SimpleItems** collection with zero objects, in which case the **[Count](Outlook.SimpleItems.Count.md)** property of the **SimpleItems** collection returns 0.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultBorderLineWidth property (Word)
 
-Returns or sets the default line width of borders. Read/write  **WdLineWidth**.
+Returns or sets the default line width of borders. Read/write **WdLineWidth**.
 
 
 ## Syntax

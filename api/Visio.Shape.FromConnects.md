@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.FromConnects property (Visio)
 
-Returns a  **Connects** collection of the shapes connected to a shape. Read-only.
+Returns a **Connects** collection of the shapes connected to a shape. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ Connects
 
 ## Remarks
 
-The  **FromConnects** property of a shape returns a **Connects** collection that contains every **Connect** object for which the shape is the **ToSheet** property. This tells you all the shapes connected to a shape.
+The **FromConnects** property of a shape returns a **Connects** collection that contains every **Connect** object for which the shape is the **ToSheet** property. This tells you all the shapes connected to a shape.
 
-To obtain a  **Connects** collection that contains every **Connect** object for which the shape is the **FromSheet** property, use the shape's **Connects** property. This tells you all the shapes to which the shape is connected.
+To obtain a **Connects** collection that contains every **Connect** object for which the shape is the **FromSheet** property, use the shape's **Connects** property. This tells you all the shapes to which the shape is connected.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

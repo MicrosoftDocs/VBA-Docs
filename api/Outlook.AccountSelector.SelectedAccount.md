@@ -26,9 +26,9 @@ _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSel
 
 ## Remarks
 
-In the Outlook user interface, you can select an account explicitly on the  **Info** tab of the Backstage view, or you can select an account implicitly when you select a folder in a list of folders. The **SelectedAccount** property represents the currently selected account in the Backstage view for a given instance of the **[Explorer](Outlook.Explorer.md)** object. To determine the account that is selected implicitly, identify the **Account** object that has its **[DefaultStore](Outlook.NameSpace.DefaultStore.md)** property equal to the **[Store](Outlook.Folder.Store.md)** property of the current folder (which is represented by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**).
+In the Outlook user interface, you can select an account explicitly on the **Info** tab of the Backstage view, or you can select an account implicitly when you select a folder in a list of folders. The **SelectedAccount** property represents the currently selected account in the Backstage view for a given instance of the **[Explorer](Outlook.Explorer.md)** object. To determine the account that is selected implicitly, identify the **Account** object that has its **[DefaultStore](Outlook.NameSpace.DefaultStore.md)** property equal to the **[Store](Outlook.Folder.Store.md)** property of the current folder (which is represented by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**).
 
-This property returns  **Null** (**Nothing** in Visual Basic) if no accounts are defined in the session's profile; that is, the **[Namespace.Accounts.Count](Outlook.Accounts.Count.md)** property is 0.
+This property returns **Null** (**Nothing** in Visual Basic) if no accounts are defined in the session's profile; that is, the **[Namespace.Accounts.Count](Outlook.Accounts.Count.md)** property is 0.
 
 
 ## See also

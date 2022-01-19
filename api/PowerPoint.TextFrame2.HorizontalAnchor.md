@@ -31,7 +31,7 @@ MsoHorizontalanchor
 
 ## Remarks
 
-The value of the  **HorizontalAnchor** property can be one of these **MsoHorizontalAnchor** constants.
+The value of the **HorizontalAnchor** property can be one of these **MsoHorizontalAnchor** constants.
 
 
 ||

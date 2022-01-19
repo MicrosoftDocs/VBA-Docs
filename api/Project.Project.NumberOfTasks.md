@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.NumberOfTasks property (Project)
 
-Gets the number of tasks in a project, not including blank entries. Read-only  **Long**.
+Gets the number of tasks in a project, not including blank entries. Read-only **Long**.
 
 
 ## Syntax

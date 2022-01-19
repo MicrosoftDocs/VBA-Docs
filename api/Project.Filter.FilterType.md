@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Filter.FilterType property (Project)
 
-Gets the type of the filter. Read-only  **PjItemType**.
+Gets the type of the filter. Read-only **PjItemType**.
 
 
 ## Syntax

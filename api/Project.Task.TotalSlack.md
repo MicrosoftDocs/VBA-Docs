@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.TotalSlack property (Project)
 
-Gets the total slack time for a task in minutes. Read-only  **Variant**.
+Gets the total slack time for a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

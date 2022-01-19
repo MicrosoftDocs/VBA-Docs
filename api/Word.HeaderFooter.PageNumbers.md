@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeaderFooter.PageNumbers property (Word)
 
-Returns a  **[PageNumbers](Word.pagenumbers.md)** collection that represents all the page number fields included in the specified header or footer.
+Returns a **[PageNumbers](Word.pagenumbers.md)** collection that represents all the page number fields included in the specified header or footer.
 
 
 ## Syntax

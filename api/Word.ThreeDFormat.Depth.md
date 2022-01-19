@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.Depth property (Word)
 
-Returns or sets the depth of the shape's extrusion. Read/write  **Single**.
+Returns or sets the depth of the shape's extrusion. Read/write **Single**.
 
 
 ## Syntax

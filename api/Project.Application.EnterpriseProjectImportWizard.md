@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EnterpriseProjectImportWizard method (Project)
 
-Starts the Enterprise  **Project Import Wizard**. Available in Project Professional only.
+Starts the Enterprise **Project Import Wizard**. Available in Project Professional only.
 
 
 ## Syntax

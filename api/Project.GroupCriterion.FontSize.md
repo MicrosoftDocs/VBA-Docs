@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion.FontSize property (Project)
 
-Gets or sets the size of the font for a field used as a criterion in a group definition, in points. Read/write  **Long**.
+Gets or sets the size of the font for a field used as a criterion in a group definition, in points. Read/write **Long**.
 
 
 ## Syntax

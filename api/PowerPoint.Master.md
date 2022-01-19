@@ -19,7 +19,7 @@ Represents a slide master, title master, handout master, notes master, or design
 
 ## Example
 
-To return a **Master** object, use the [Master](PowerPoint.Slide.Master.md)property of the  **[Slide](PowerPoint.Slide.md)** object or **[SlideRange](PowerPoint.SlideRange.md)** collection, or use the [HandoutMaster](PowerPoint.Presentation.HandoutMaster.md), [NotesMaster](PowerPoint.Presentation.NotesMaster.md), [SlideMaster](PowerPoint.Design.SlideMaster.md), or [TitleMaster](PowerPoint.Presentation.TitleMaster.md)property of the  **[Presentation](PowerPoint.Presentation.md)** object. Note that some of these properties are also available from the **[Design](PowerPoint.Design.md)** object as well. The following example sets the background fill for the slide master for the active presentation.
+To return a **Master** object, use the [Master](PowerPoint.Slide.Master.md)property of the **[Slide](PowerPoint.Slide.md)** object or **[SlideRange](PowerPoint.SlideRange.md)** collection, or use the [HandoutMaster](PowerPoint.Presentation.HandoutMaster.md), [NotesMaster](PowerPoint.Presentation.NotesMaster.md), [SlideMaster](PowerPoint.Design.SlideMaster.md), or [TitleMaster](PowerPoint.Presentation.TitleMaster.md)property of the **[Presentation](PowerPoint.Presentation.md)** object. Note that some of these properties are also available from the **[Design](PowerPoint.Design.md)** object as well. The following example sets the background fill for the slide master for the active presentation.
 
 
 ```vb

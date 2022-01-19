@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.KernedPairs property (Word)
 
-Indicates that character pairs in a WordArt object have been kerned. Read/write  **MsoTriState**.
+Indicates that character pairs in a WordArt object have been kerned. Read/write **MsoTriState**.
 
 
 ## Syntax

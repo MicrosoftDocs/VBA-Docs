@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Editor.NextRange property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the next range for which a user has permissions to modify.
+Returns a **[Range](Word.Range.md)** object that represents the next range for which a user has permissions to modify.
 
 
 ## Syntax

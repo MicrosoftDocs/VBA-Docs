@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisRibbonXModes enumeration (Visio)
 
-Specifies constants that identify the various modes in which to display the custom UI; constant passed to the  **RegisterRibbonX** method.
+Specifies constants that identify the various modes in which to display the custom UI; constant passed to the **RegisterRibbonX** method.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheet.FullName property (Word)
 
-Specifies the name of a cascading style sheet, including the drive or Web path. Read-only  **String**.
+Specifies the name of a cascading style sheet, including the drive or Web path. Read-only **String**.
 
 
 ## Syntax

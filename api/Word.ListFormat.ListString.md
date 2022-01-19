@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListFormat.ListString property (Word)
 
-Returns a  **String** that represents the appearance of the list value of the first paragraph in the range for the specified **ListFormat** object. For example, the second paragraph in an alphabetical list would return B. Read-only.
+Returns a **String** that represents the appearance of the list value of the first paragraph in the range for the specified **ListFormat** object. For example, the second paragraph in an alphabetical list would return B. Read-only.
 
 
 ## Syntax

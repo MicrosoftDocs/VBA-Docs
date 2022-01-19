@@ -40,7 +40,7 @@ InlineShape
 
 ## Remarks
 
-ActiveX controls are represented as either  **Shape** objects or **InlineShape** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
+ActiveX controls are represented as either **Shape** objects or **InlineShape** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
 
 For information about available ActiveX control class types, see [OLE Programmatic Identifiers](overview/Word.md).
 

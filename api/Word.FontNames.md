@@ -34,7 +34,7 @@ For Each aFont In FontNames
 Next aFont
 ```
 
-Use  **FontNames** (Index), where Index is the index number, to return the name of a font. The following example displays the first font name in the **FontNames** object.
+Use **FontNames** (Index), where Index is the index number, to return the name of a font. The following example displays the first font name in the **FontNames** object.
 
 
 

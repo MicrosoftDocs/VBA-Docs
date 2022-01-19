@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeDistributionList.Class property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
+Returns a constant in the **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax

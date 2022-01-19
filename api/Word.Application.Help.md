@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these  **[WdHelpType](Word.WdHelpType.md)** constants: **wdHelp**, **wdHelpAbout**, **wdHelpActiveWindow**, **wdHelpContents**, **wdHelpHWP**, **wdHelpIchitaro**, **wdHelpIndex**, **wdHelpPE2**, **wdHelpPSSHelp**, **wdHelpSearch**, **wdHelpUsingHelp**. (Some of the constants listed here may not be available to you, depending on the language that you have selected or installed.)|
+| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these **[WdHelpType](Word.WdHelpType.md)** constants: **wdHelp**, **wdHelpAbout**, **wdHelpActiveWindow**, **wdHelpContents**, **wdHelpHWP**, **wdHelpIchitaro**, **wdHelpIndex**, **wdHelpPE2**, **wdHelpPSSHelp**, **wdHelpSearch**, **wdHelpUsingHelp**. (Some of the constants listed here may not be available to you, depending on the language that you have selected or installed.)|
 
 ## Example
 

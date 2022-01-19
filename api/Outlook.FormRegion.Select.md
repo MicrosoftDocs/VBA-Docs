@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-If the form region is an adjoining form region, then  **Select** will expand the form region (if it is not already expanded) and set focus on the first control on that page. If the form region is a separate form region and is not already the active page, then **Select** will switch to the form region page and set focus on the first control on that page. If the form region is a separate form region and is already the active page, then nothing happens.
+If the form region is an adjoining form region, then **Select** will expand the form region (if it is not already expanded) and set focus on the first control on that page. If the form region is a separate form region and is not already the active page, then **Select** will switch to the form region page and set focus on the first control on that page. If the form region is a separate form region and is already the active page, then nothing happens.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.SourceName property (Word)
 
-Returns the name of the source file for the specified Protected View window. Read-only  **String**.
+Returns the name of the source file for the specified Protected View window. Read-only **String**.
 
 
 ## Syntax

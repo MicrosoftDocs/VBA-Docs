@@ -55,7 +55,7 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 | **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
 | **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced.|
 
-Calling the  **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**). 
+Calling the **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to **Space Shapes**, and then click **More Distribute Options**). 
 
 Passing **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
 
@@ -64,7 +64,7 @@ When you pass **True** for _GlueToGuide_, Visio creates guides to retain the dis
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Distribute** method to distribute three shapes vertically so that their right edges are uniformally spaced and glued to guides.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Distribute** method to distribute three shapes vertically so that their right edges are uniformally spaced and glued to guides.
 
 
 ```vb

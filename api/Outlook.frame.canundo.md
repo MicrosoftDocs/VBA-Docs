@@ -28,6 +28,6 @@ _expression_ A variable that represents a **Frame** object.
 
  **CanUndo** is read-only.
 
-Many user actions can be undone with the  **Undo** command. The **CanUndo** property indicates whether the most recent action can be undone.
+Many user actions can be undone with the **Undo** command. The **CanUndo** property indicates whether the most recent action can be undone.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Reply method (Outlook)
 
-Creates a reply, pre-addressed to the original sender, from the original  **[SharingItem](Outlook.SharingItem.md)**.
+Creates a reply, pre-addressed to the original sender, from the original **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

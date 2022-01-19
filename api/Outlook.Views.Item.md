@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Views.Item method (Outlook)
 
-Returns an  **[View](Outlook.View.md)** object from the collection.
+Returns an **[View](Outlook.View.md)** object from the collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 ## Return value
 
-A  **View** object that represents the specified object.
+A **View** object that represents the specified object.
 
 
 ## See also

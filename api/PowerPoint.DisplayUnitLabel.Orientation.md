@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DisplayUnitLabel.Orientation property (PowerPoint)
 
-Returns or sets the text orientation. Read/write  **Long**.
+Returns or sets the text orientation. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.Display
 
 ## Remarks
 
-The value of this property can be an integer value from -90 through 90 degrees or one of the  **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
+The value of this property can be an integer value from -90 through 90 degrees or one of the **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
 
 
 ## See also

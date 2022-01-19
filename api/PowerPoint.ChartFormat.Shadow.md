@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.Shadow property (PowerPoint)
 
-Returns shadow formatting properties for the chart element. Read-only  **[ShadowFormat](PowerPoint.ShadowFormat.md)**.
+Returns shadow formatting properties for the chart element. Read-only **[ShadowFormat](PowerPoint.ShadowFormat.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeNode.EditingType property (Word)
 
-If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **MsoEditingType**. .
+If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only **MsoEditingType**. .
 
 
 ## Syntax

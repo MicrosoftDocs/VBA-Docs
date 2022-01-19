@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pane.View property (Word)
 
-Returns a  **View** object that represents the view for the specified pane.
+Returns a **View** object that represents the view for the specified pane.
 
 
 ## Syntax

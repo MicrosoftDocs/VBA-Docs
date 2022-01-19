@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.Elevation property (Project)
-Gets or sets the elevation of the 3D chart view, in degrees. Read/write  **Long**.
+Gets or sets the elevation of the 3D chart view, in degrees. Read/write **Long**.
 
 ## Syntax
 

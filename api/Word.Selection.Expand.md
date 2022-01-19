@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Expand method (Word)
 
-Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long**.
+Expands the specified range or selection. Returns the number of characters added to the range or selection. **Long**.
 
 
 ## Syntax

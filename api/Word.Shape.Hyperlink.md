@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Hyperlink property (Word)
 
-Returns a  **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
+Returns a **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
 
 
 ## Syntax

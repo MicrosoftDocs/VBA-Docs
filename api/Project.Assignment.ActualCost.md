@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ActualCost property (Project)
 
-Gets or sets the actual cost for the assignment. Read/write  **Variant**.
+Gets or sets the actual cost for the assignment. Read/write **Variant**.
 
 
 ## Syntax

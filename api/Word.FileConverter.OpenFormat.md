@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.OpenFormat property (Word)
 
-Returns the file format of the specified file converter. Read-only  **Long**.
+Returns the file format of the specified file converter. Read-only **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[FileConverter](Word.FileCo
 
 ## Remarks
 
-This property can be any valid  **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
+This property can be any valid **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
 
 
 ## Example

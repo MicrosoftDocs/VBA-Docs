@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[ApplicationSettings](Visio.Applica
 
 ## Remarks
 
-Setting the  **ZoomOnRoll** property is equivalent to setting the **Zoom on roll with Intellimouse** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **ZoomOnRoll** property is equivalent to setting the **Zoom on roll with Intellimouse** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

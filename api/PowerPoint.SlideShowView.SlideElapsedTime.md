@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-Use the  **[ResetSlideTime](PowerPoint.SlideShowView.ResetSlideTime.md)** method to reset the elapsed time for the slide that's currently displayed.
+Use the **[ResetSlideTime](PowerPoint.SlideShowView.ResetSlideTime.md)** method to reset the elapsed time for the slide that's currently displayed.
 
 
 ## Example

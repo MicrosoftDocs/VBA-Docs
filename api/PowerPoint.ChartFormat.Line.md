@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.Line property (PowerPoint)
 
-Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](PowerPoint.LineFormat.md)**.
+Returns the line formatting properties for the specified chart element. Read-only **[LineFormat](PowerPoint.LineFormat.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
 
 
 ## See also

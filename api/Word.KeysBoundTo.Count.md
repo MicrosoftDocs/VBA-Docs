@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeysBoundTo.Count property (Word)
 
-Returns a  **Long** that represents the number of keys in the collection. Read-only.
+Returns a **Long** that represents the number of keys in the collection. Read-only.
 
 
 ## Syntax

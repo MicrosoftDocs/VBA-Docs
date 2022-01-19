@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathLimLow.Lim property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the lower limit object. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the limit of the lower limit object. Read-only.
 
 
 ## Syntax

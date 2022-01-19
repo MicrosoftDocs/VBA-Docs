@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OrderFields object (Outlook)
 
-Represents the collection of  **[OrderField](Outlook.OrderField.md)** objects in a view.
+Represents the collection of **[OrderField](Outlook.OrderField.md)** objects in a view.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ The **OrderFields** collection represents the Outlook item properties used to so
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
 
 
 ```vb

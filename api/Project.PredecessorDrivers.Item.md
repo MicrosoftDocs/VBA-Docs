@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PredecessorDrivers.Item property (Project)
 
-Gets a single  **TaskDependency** object from a **PredecessorDrivers** collection. Read-only **TaskDependency**.
+Gets a single **TaskDependency** object from a **PredecessorDrivers** collection. Read-only **TaskDependency**.
 
 
 ## Syntax

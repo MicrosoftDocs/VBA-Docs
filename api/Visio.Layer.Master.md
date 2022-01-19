@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Layer.Master property (Visio)
 
-Returns the master that contains the  **Layer** object. Read-only.
+Returns the master that contains the **Layer** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Master
 
 ## Remarks
 
-If the  **Layer** object is from a page rather than a master, its **Master** property returns **Nothing**.
+If the **Layer** object is from a page rather than a master, its **Master** property returns **Nothing**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

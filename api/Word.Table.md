@@ -19,7 +19,7 @@ Represents a single table. The **Table** object is a member of the **[Tables](./
 
 ## Remarks
 
-Use  **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
+Use **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
 
 
 ```vb

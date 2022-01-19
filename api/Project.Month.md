@@ -21,7 +21,7 @@ Represents a month in a year. The **Month** object is a member of the **[Months]
  
 
  
-Use  **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object. The following example counts the number of working days in each month of 2012 for each selected resource.
+Use **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object. The following example counts the number of working days in each month of 2012 for each selected resource.
  
 
  

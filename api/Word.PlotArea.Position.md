@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PlotArea.Position property (Word)
 
-Returns or sets the position of the plot area on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)**.
+Returns or sets the position of the plot area on the chart. Read/write **[XlChartElementPosition](Word.xlchartelementposition.md)**.
 
 
 ## Syntax

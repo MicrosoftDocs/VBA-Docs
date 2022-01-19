@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverters.ConvertMacWordChevrons property (Word)
 
-Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write  **Long**. .
+Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write **Long**. .
 
 
 ## Syntax

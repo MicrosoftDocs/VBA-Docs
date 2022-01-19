@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Comment.Done property (Word)
 
-Returns or sets a  **Boolean** whose value is **True** if the specified comment has been marked closed. Read/write.
+Returns or sets a **Boolean** whose value is **True** if the specified comment has been marked closed. Read/write.
 
 > [!IMPORTANT]
 > This property has changed. The `Comment.Done` property is still available, but when setting the **Done** flag for a single comment reply, there will be no visible effect in the Redesigned Comments experience. The command will apply the **Done** flag, so when a user opens the document in the previous commenting experience, the comment reply is displayed as resolved or unresolved.

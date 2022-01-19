@@ -19,7 +19,7 @@ Represents the ruler for the text in the specified shape or for all text in the 
 
 ## Example
 
-Use the [Ruler](PowerPoint.TextFrame.Ruler.md)property of the  **TextFrame** object to return the **Ruler** object that represents the ruler for the text in the specified shape. Use the [TabStops](PowerPoint.Ruler.TabStops.md)property to return the  **TabStops** object that contains the tab stops on the ruler. Use the [Levels](PowerPoint.Ruler.Levels.md)property to return the  **RulerLevels** object that contains the indentation settings for text outline levels. The following example sets a left-aligned tab stop at 2 inches (144 Points) and sets a hanging indent for the text in object two on slide one in the active presentation.
+Use the [Ruler](PowerPoint.TextFrame.Ruler.md)property of the **TextFrame** object to return the **Ruler** object that represents the ruler for the text in the specified shape. Use the [TabStops](PowerPoint.Ruler.TabStops.md)property to return the **TabStops** object that contains the tab stops on the ruler. Use the [Levels](PowerPoint.Ruler.Levels.md)property to return the **RulerLevels** object that contains the indentation settings for text outline levels. The following example sets a left-aligned tab stop at 2 inches (144 Points) and sets a hanging indent for the text in object two on slide one in the active presentation.
 
 
 ```vb
@@ -34,7 +34,7 @@ With ActivePresentation.Slides(1).Shapes(2).TextFrame.Ruler
 End With
 ```
 
-Use the [Ruler](PowerPoint.TextStyle.Ruler.md)property of the  **TextStyle** object to return the **Ruler** object that represents the ruler for one of the four defined text styles (title text, body text, notes text, or default text). The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
+Use the [Ruler](PowerPoint.TextStyle.Ruler.md)property of the **TextStyle** object to return the **Ruler** object that represents the ruler for one of the four defined text styles (title text, body text, notes text, or default text). The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
 
 
 

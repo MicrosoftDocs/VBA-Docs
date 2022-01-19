@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Hyperlink property (Project)
 
-Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write  **String**.
+Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write **String**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object
 
 ## Remarks
 
-This value is stored as part of the  **TZI** value for the time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](overview/Outlook.md)** structure.
+This value is stored as part of the **TZI** value for the time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](overview/Outlook.md)** structure.
 
 
 ## See also

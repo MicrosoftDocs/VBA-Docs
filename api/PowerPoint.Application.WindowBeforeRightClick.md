@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.WindowBeforeRightClick event (PowerPoint)
 
-Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the  **MouseUp** event.
+Occurs when you right-click a shape, a slide, a notes page, or some text. This event is triggered by the **MouseUp** event.
 
 
 ## Syntax

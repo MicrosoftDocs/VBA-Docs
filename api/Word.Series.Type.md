@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.Type property (Word)
 
-Returns or sets the series type. Read/write  **Long**.
+Returns or sets the series type. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 ## Remarks
 
-You can use the following  **[XlConstants](Word.XlConstants.md)** constants for this property:
+You can use the following **[XlConstants](Word.XlConstants.md)** constants for this property:
 
 
 - **xlColumn**

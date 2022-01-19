@@ -19,7 +19,7 @@ Represents a custom layout associated with a presentation design. The **CustomLa
 
 ## Remarks
 
-Use the  **CustomLayout** property of the **[Slide](PowerPoint.Slide.md)** or **[SlideRange](PowerPoint.SlideRange.md)** objects to access a **CustomLayout** object, for example:
+Use the **CustomLayout** property of the **[Slide](PowerPoint.Slide.md)** or **[SlideRange](PowerPoint.SlideRange.md)** objects to access a **CustomLayout** object, for example:
 
 
 ```vb
@@ -31,7 +31,7 @@ ActiveWindow.Selection.SlideRange(1).CustomLayout
 ActivePresentation.Slides(1).CustomLayout
 ```
 
-Use the  **[Add](PowerPoint.CustomLayouts.Add.md)** method of the **CustomLayouts** collection to add a new custom layout to the presentation design's custom layouts. Use the **[Item](PowerPoint.CustomLayouts.Add.md)** method to refer to a custom layout. Use the **[Paste](PowerPoint.CustomLayouts.Paste.md)** method to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
+Use the **[Add](PowerPoint.CustomLayouts.Add.md)** method of the **CustomLayouts** collection to add a new custom layout to the presentation design's custom layouts. Use the **[Item](PowerPoint.CustomLayouts.Add.md)** method to refer to a custom layout. Use the **[Paste](PowerPoint.CustomLayouts.Paste.md)** method to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
 
 
 ## Methods

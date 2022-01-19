@@ -55,8 +55,8 @@ To use the following example, create a project with several tasks, and then open
 2. Run the **SwitchNumberAndText** macro. The macro switches the headings and types of the two custom fields.
     
     > [!NOTE] 
-> Because the value of the **Text1** custom field in the first task is **42 X**, when  **ChangeColumnDataType** tries to convert that column to the **Number1** custom field, Project shows an error dialog box with the message, **Converting this data will cause errors. The contents of 1 records will be deleted. Do you want to continue anyway?**
-3. To continue with the conversion, click  **Yes** in the error dialog box. When the **Text1** custom field changes to the **Number1** custom field, the value **42 X** changes to **0**.
+> Because the value of the **Text1** custom field in the first task is **42 X**, when **ChangeColumnDataType** tries to convert that column to the **Number1** custom field, Project shows an error dialog box with the message, **Converting this data will cause errors. The contents of 1 records will be deleted. Do you want to continue anyway?**
+3. To continue with the conversion, click **Yes** in the error dialog box. When the **Text1** custom field changes to the **Number1** custom field, the value **42 X** changes to **0**.
     
 4. To change back to a standard table in the Gantt Chart view, right-click the **Select All** cell (the unnamed top-left cell in the table), and then select a different table in the drop-down list.
     

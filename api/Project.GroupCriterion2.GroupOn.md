@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.GroupOn property (Project)
 
-Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write  **Long**. Can be one of the **[PjGroupOn](Project.PjGroupOn.md)** constants.
+Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write **Long**. Can be one of the **[PjGroupOn](Project.PjGroupOn.md)** constants.
 
 
 ## Syntax

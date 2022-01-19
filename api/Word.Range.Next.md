@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Next method (Word)
 
-Returns a  **Range** object that represents the specified unit relative to the specified range.
+Returns a **Range** object that represents the specified unit relative to the specified range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **WdUnits** constant.|
+| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any **WdUnits** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
 ## Return value

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNamespace.Location property (Word)
 
-Returns or sets a  **String** that represents the physical location of the namespace of an XML schema in the Schema Library. Read/write.
+Returns or sets a **String** that represents the physical location of the namespace of an XML schema in the Schema Library. Read/write.
 
 
 ## Syntax

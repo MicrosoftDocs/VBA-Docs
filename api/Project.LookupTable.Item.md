@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # LookupTable.Item property (Project)
 
-Gets a single  **LookupTableEntry** object from the **LookupTable** collection object. Read-only **LookupTableEntry**.
+Gets a single **LookupTableEntry** object from the **LookupTable** collection object. Read-only **LookupTableEntry**.
 
 
 ## Syntax

@@ -37,9 +37,9 @@ _expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 ## Remarks
 
-Use  **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True**. Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
+Use **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True**. Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
 
-The parameters to the  **Execute** method are optional. If you do not specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
+The parameters to the **Execute** method are optional. If you do not specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
 
 
 
@@ -49,7 +49,7 @@ The parameters to the  **Execute** method are optional. If you do not specify an
 | _IncludeSubfolders_| **False**|
 | _RuleExecuteOption_| **OlRuleExecuteOption.olRuleExecuteAllMessages**|
 
-If  _ShowProgress_ is **True** and the user cancels the progress dialog box, rule execution is canceled in the same manner as if the user had canceled rule execution through the **Rules and Alerts Wizard**.  **Execute** returns an error when the user cancels the progress dialog.
+If  _ShowProgress_ is **True** and the user cancels the progress dialog box, rule execution is canceled in the same manner as if the user had canceled rule execution through the **Rules and Alerts Wizard**. **Execute** returns an error when the user cancels the progress dialog.
 
 If you plan to show a custom progress user interface instead of using the progress dialog box, you should be aware that there are no events that indicate when rule execution starts and stops. 
 

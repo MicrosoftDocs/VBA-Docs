@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.RestrictLinkedStyles property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word allows linked styles. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word allows linked styles. Read/write.
 
 
 ## Syntax

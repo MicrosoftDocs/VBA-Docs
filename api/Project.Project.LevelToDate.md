@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.LevelToDate property (Project)
 
-Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write  **Variant**.
+Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write **Variant**.
 
 
 ## Syntax

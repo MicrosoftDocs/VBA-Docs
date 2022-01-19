@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Hyperlinks property (Visio)
 
-Returns the  **Hyperlinks** collection for a **Shape** object. Read-only.
+Returns the **Hyperlinks** collection for a **Shape** object. Read-only.
 
 
 ## Syntax

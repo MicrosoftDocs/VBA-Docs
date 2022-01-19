@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # SeriesCollection.Item method (Project)
-Gets an individual  **Series** object in the series collection. Read-only **Series**.
+Gets an individual **Series** object in the series collection. Read-only **Series**.
 
 ## Syntax
 

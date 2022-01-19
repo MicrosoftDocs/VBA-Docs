@@ -28,9 +28,9 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
  The default value for this property is **False**.
 
-For a single-line text box, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
+For a single-line text box, setting **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
 
-For a multiline text box that contains no text, setting  **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the text box. For a multiline text box that contains text, setting **AutoSize** to **True** automatically extends the text box vertically to display the entire text. The width of the text box does not change.
+For a multiline text box that contains no text, setting **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the text box. For a multiline text box that contains text, setting **AutoSize** to **True** automatically extends the text box vertically to display the entire text. The width of the text box does not change.
 
 
 ## See also

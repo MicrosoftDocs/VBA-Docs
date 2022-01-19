@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Dialogs property (Word)
 
-Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
+Returns a **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ For a list of built-in dialog boxes, see the **[WdWordDialog](Word.WdWordDialog.
 
 ## Example
 
-This example displays the built-in  **Find** dialog box, with "Hello" in the **Find What** box.
+This example displays the built-in **Find** dialog box, with "Hello" in the **Find What** box.
 
 
 ```vb
@@ -47,7 +47,7 @@ With dlgFind
 End With
 ```
 
-This example displays the built-in  **Open** dialog box showing all file types.
+This example displays the built-in **Open** dialog box showing all file types.
 
 
 

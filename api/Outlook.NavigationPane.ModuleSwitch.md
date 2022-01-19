@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationPane.ModuleSwitch event (Outlook)
 
-Occurs after the selection changes for a navigation module in the  **[NavigationModules](Outlook.NavigationModules.md)** collection of the **[NavigationPane](Outlook.NavigationPane.md)** object.
+Occurs after the selection changes for a navigation module in the **[NavigationModules](Outlook.NavigationModules.md)** collection of the **[NavigationPane](Outlook.NavigationPane.md)** object.
 
 
 ## Syntax

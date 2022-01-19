@@ -36,7 +36,7 @@ The **Application.Windows** collection contains all the windows in the applicati
  
 
  
-Use  **Windows** (*Index* ), where*Index* is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
+Use **Windows** (*Index* ), where*Index* is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
  
 
  

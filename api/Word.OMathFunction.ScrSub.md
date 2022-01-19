@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.ScrSub property (Word)
 
-Represents an  **[OMathScrSub](Word.OMathScrSub.md)** object that represents the mathematical subscript function. Read-only.
+Represents an **[OMathScrSub](Word.OMathScrSub.md)** object that represents the mathematical subscript function. Read-only.
 
 
 ## Syntax

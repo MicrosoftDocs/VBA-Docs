@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.ContinuationSeparator property (Word)
 
-Returns a  **Range** object that represents the footnote continuation separator. Read-only.
+Returns a **Range** object that represents the footnote continuation separator. Read-only.
 
 
 ## Syntax

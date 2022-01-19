@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIBarRow enumeration (Visio)
 
-Values passed to and returned by the  **MenuSet.RowIndex** and **Toolbar.RowIndex** properties.
+Values passed to and returned by the **MenuSet.RowIndex** and **Toolbar.RowIndex** properties.
 
 
 > [!NOTE] 

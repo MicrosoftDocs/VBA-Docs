@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-Specifying a value for the  **Copies** argument of the **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the value of this property. The default value is 1.
+Specifying a value for the **Copies** argument of the **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the value of this property. The default value is 1.
 
 
 ## Example

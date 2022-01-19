@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folder.Folders property (Outlook)
 
-Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[Folder](Outlook.Folder.md)**. Read-only.
+Returns the **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[Folder](Outlook.Folder.md)**. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The **[NameSpace](Outlook.NameSpace.md)** object is the root of all the folders 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Folders.Add](Outlook.Folders.Add.md)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
+This Visual Basic for Applications (VBA) example uses the **[Folders.Add](Outlook.Folders.Add.md)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
 
 
 ```vb
@@ -54,7 +54,7 @@ Sub CreatePersonalContacts()
 End Sub
 ```
 
-This VBA example uses the  **Folders.Add** method to add two new folders in the **Tasks** folder. The first folder, "My Notes Folder", will contain note items. The second folder, "My Contacts Folder", will contain contact items. If the folders already exist, a message box will inform the user.
+This VBA example uses the **Folders.Add** method to add two new folders in the **Tasks** folder. The first folder, "My Notes Folder", will contain note items. The second folder, "My Contacts Folder", will contain contact items. If the folders already exist, a message box will inform the user.
 
 
 

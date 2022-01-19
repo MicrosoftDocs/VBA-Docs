@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TextColumn.SpaceAfter property (Word)
 
-Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single**.
+Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write **Single**.
 
 
 ## Syntax

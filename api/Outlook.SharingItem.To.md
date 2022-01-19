@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.To property (Outlook)
 
-Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
+Returns or sets a semicolon-delimited **String** list of display names for the **To** recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

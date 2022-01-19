@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.Count property (Word)
 
-Returns a  **Long** that represents the number of endnotes in the collection. Read-only.
+Returns a **Long** that represents the number of endnotes in the collection. Read-only.
 
 
 ## Syntax

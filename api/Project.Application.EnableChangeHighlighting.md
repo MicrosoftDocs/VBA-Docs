@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The default value of  **EnableChangeHighlighting** is **False**. See also the **[ToggleChangeHighlighting](Project.Application.ToggleChangeHighlighting.md)** method.
+The default value of **EnableChangeHighlighting** is **False**. See also the **[ToggleChangeHighlighting](Project.Application.ToggleChangeHighlighting.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

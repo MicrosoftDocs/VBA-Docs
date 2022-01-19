@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.Style property (Word)
 
-Returns or sets the line format style. Read/write  **MsoLineStyle**.
+Returns or sets the line format style. Read/write **MsoLineStyle**.
 
 
 ## Syntax

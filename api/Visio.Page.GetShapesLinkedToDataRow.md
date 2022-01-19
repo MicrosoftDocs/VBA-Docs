@@ -36,7 +36,7 @@ _expression_. `GetShapesLinkedToDataRow`( `_DataRecordsetID_` , `_DataRowID_` , 
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of a data recordset contained in the current document.|
 | _DataRowID_|Required| **Long**|The ID of a data row in the data recordset specified in DataRecordsetID.|
-| _ShapeIDs()_|Required| **Long**|Out parameter. An array of type  **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data row specified in DataRowID in the data recordset specified in DataRecordsetID.|
+| _ShapeIDs()_|Required| **Long**|Out parameter. An array of type **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data row specified in DataRowID in the data recordset specified in DataRecordsetID.|
 
 ## Return value
 
@@ -45,16 +45,16 @@ Nothing
 
 ## Remarks
 
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. If there are no shapes on the page linked to the data row specified by DataRowID in the data recordset specified by DataRecordsetID, **GetShapesLinkedToDataRow** will return an empty array.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type **Long**. If there are no shapes on the page linked to the data row specified by DataRowID in the data recordset specified by DataRecordsetID, **GetShapesLinkedToDataRow** will return an empty array.
 
-To determine the IDs of all the data rows in a data recordset, use the  **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** method. Note that data row IDs do not necessarily always correspond to the logical position of the data rows in the data recordset.
+To determine the IDs of all the data rows in a data recordset, use the **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** method. Note that data row IDs do not necessarily always correspond to the logical position of the data rows in the data recordset.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetShapesLinkedToDataRow** method to determine the shape IDs of the shapes on the page linked to data in the data row with ID number 1 in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetShapesLinkedToDataRow** method to determine the shape IDs of the shapes on the page linked to data in the data row with ID number 1 in the data recordset most recently added to the **DataRecordsets** collection of the current document. It prints the shape IDs in the Immediate window.
 
-Before running this macro, use the  **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure there is at least one shape on the active page linked to data in the data row with ID number 1 in the data recordset.
+Before running this macro, use the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method or another means to add at least one data recordset to the **DataRecordsets** collection, and make sure there is at least one shape on the active page linked to data in the data row with ID number 1 in the data recordset.
 
 
 

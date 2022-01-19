@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.AuthorInitials property (PowerPoint)
 
-Returns the author's initials as a read-only  **String** for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
+Returns the author's initials as a read-only **String** for a specified **[Comment](PowerPoint.Comment.md)** object. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property only returns the author's initials. To return the author's name use the  **[Author](PowerPoint.Comment.Author.md)** property. Specify the author's initials when you add a new comment to the presentation.
+This property only returns the author's initials. To return the author's name use the **[Author](PowerPoint.Comment.Author.md)** property. Specify the author's initials when you add a new comment to the presentation.
 
 
 ## Example

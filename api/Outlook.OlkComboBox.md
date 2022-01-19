@@ -28,7 +28,7 @@ The following is an example of a combo box control that has been bound to the Se
 
 
 
-If the  **[Click](Outlook.OlkComboBox.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkComboBox.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
+If the **[Click](Outlook.OlkComboBox.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkComboBox.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
 For more information about Outlook controls, see [Controls in a Custom Form](../outlook/Concepts/Forms/controls-in-a-custom-form.md). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 

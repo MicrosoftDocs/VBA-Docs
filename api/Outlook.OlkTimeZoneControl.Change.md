@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkTimeZoneControl.Change event (Outlook)
 
-Occurs when the  **[Value](Outlook.OlkTimeZoneControl.Value.md)** property changes.
+Occurs when the **[Value](Outlook.OlkTimeZoneControl.Value.md)** property changes.
 
 
 ## Syntax

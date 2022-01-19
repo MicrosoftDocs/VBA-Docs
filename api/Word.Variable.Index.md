@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Variable.Index property (Word)
 
-Returns a  **Long** that represents the ordinal position of a variable with in the collection of variables. Read-only.
+Returns a **Long** that represents the ordinal position of a variable with in the collection of variables. Read-only.
 
 
 ## Syntax

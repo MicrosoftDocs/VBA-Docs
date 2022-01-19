@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Type property (Word)
 
-Returns the revision type. Read-only  **[WdRevisionType](Word.WdRevisionType.md)**.
+Returns the revision type. Read-only **[WdRevisionType](Word.WdRevisionType.md)**.
 
 
 ## Syntax

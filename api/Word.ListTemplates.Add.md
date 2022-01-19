@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListTemplates.Add method (Word)
 
-Returns a  **ListTemplate** object that represents a new list template.
+Returns a **ListTemplate** object that represents a new list template.
 
 
 ## Syntax

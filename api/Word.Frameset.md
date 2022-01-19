@@ -47,7 +47,7 @@ ActiveDocument.ActiveWindow.ActivePane.Frameset _
  .AddNewFrame wdFramesetNewRight
 ```
 
-This example sets the name of the third child  **Frameset** object of the frames page to "BottomFrame."
+This example sets the name of the third child **Frameset** object of the frames page to "BottomFrame."
 
 
 

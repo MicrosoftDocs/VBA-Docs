@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.LinkedStyle property (Word)
 
-Returns or sets the name of the style that's linked to the specified  **ListLevel** object. Read/write **String**.
+Returns or sets the name of the style that's linked to the specified **ListLevel** object. Read/write **String**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 1. Right-click the control that you want to make transparent, then click **Advanced Properties**. 
     
-   **Note** In this context, "transparent" means that the control inherits the background color of the parent control.
+  **Note** In this context, "transparent" means that the control inherits the background color of the parent control.
 2. Set the **BackStyle** property to **Transparent**. To set the property, click the **BackStyle** property, and then click **Transparent** in the **Apply** list. If the control supports the **BorderStyle** property, set it to **None**. 
     
 

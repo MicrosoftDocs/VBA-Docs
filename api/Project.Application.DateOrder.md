@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.DateOrder property (Project)
 
-Gets the order of display of the day, month, and year in date values. Read-only  **PjDateOrder**.
+Gets the order of display of the day, month, and year in date values. Read-only **PjDateOrder**.
 
 
 ## Syntax

@@ -31,9 +31,9 @@ MsoGradientColorType
 
 ## Remarks
 
-Use the [OneColorGradient](PowerPoint.FillFormat.OneColorGradient.md), [PresetGradient](PowerPoint.FillFormat.PresetGradient.md), or  **[TwoColorGradient](PowerPoint.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
+Use the [OneColorGradient](PowerPoint.FillFormat.OneColorGradient.md), [PresetGradient](PowerPoint.FillFormat.PresetGradient.md), or **[TwoColorGradient](PowerPoint.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
 
-The value returned by the  **GradientColorType** property can be one of these **MsoGradientColorType** constants.
+The value returned by the **GradientColorType** property can be one of these **MsoGradientColorType** constants.
 
 
 ||

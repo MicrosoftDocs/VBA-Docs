@@ -26,6 +26,6 @@ _expression_ A variable that represents a **[Validation](Visio.Validation.md)** 
 
 ## Remarks
 
-If the document has never been validated, the  **LastValidatedDate** property returns zero (0).
+If the document has never been validated, the **LastValidatedDate** property returns zero (0).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

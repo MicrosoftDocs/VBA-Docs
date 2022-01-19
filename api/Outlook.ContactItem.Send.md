@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ContactItem.Send event (Outlook)
 
-Occurs when the user selects the  **Send** action for an item (which is an instance of the parent object).
+Occurs when the user selects the **Send** action for an item (which is an instance of the parent object).
 
 
 ## Syntax

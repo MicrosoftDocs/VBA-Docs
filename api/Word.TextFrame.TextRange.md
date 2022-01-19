@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.TextRange property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the text in the specified text frame.
+Returns a **[Range](Word.Range.md)** object that represents the text in the specified text frame.
 
 
 ## Syntax

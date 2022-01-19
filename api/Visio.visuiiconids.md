@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIIconIDs enumeration (Visio)
 
-Icon identifiers used in conjunction with the  **FaceID** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
+Icon identifiers used in conjunction with the **FaceID** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 
 
 > [!NOTE] 

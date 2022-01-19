@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.Calculation property (Project)
 
-Gets or sets the calculation mode. Read/write  **PjCalculation**.
+Gets or sets the calculation mode. Read/write **PjCalculation**.
 
 
 ## Syntax

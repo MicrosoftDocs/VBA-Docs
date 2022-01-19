@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frameset.ParentFrameset property (Word)
 
-Returns a  **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
+Returns a **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ For more information on creating frames pages, see [Creating Frames Pages](../wo
 
 ## Example
 
-This example returns the number of child  **Frameset** objects belonging to the parent **Frameset** object of the specified frame.
+This example returns the number of child **Frameset** objects belonging to the parent **Frameset** object of the specified frame.
 
 
 ```vb

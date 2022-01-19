@@ -33,7 +33,7 @@ Presentations
 
 For information about returning a single member of a collection, see [Returning an object from a collection](../powerpoint/How-to/return-objects-from-collections.md).
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
 - **Microsoft.Office.Interop.PowerPoint._Application.Presentations**

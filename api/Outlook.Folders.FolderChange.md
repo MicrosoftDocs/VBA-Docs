@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folders.FolderChange event (Outlook)
 
-Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collection is changed.
+Occurs when a folder in the specified **[Folders](Outlook.Folders.md)** collection is changed.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ The **FolderChange** event fires when a folder in a **Folders** collection objec
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prompts the user to remove a folder from the  **Deleted Items** folder if the folder is empty. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example prompts the user to remove a folder from the **Deleted Items** folder if the folder is empty. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

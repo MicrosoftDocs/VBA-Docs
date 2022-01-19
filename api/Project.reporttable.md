@@ -75,7 +75,7 @@ Sub TestReportTable()
 End Sub
 ```
 
-In Figure 1, the top  **ReportTable** object in the Table Tests report is created by the **TestReportTable** macro. When you first create the table, it has one row and one column; the _NumRows_ and _NumColumns_ parameters of the **AddTable** method have no effect. The number of rows and columns in the table is updated when you manually add fields to the table from the **Field List** task pane, or when you use the [UpdateTableData](Project.reporttable.updatetabledata.md) method. You can filter the fields to limit the number of rows. The **TestReportTable** macro writes the following in the Immediate window of the VBE:
+In Figure 1, the top **ReportTable** object in the Table Tests report is created by the **TestReportTable** macro. When you first create the table, it has one row and one column; the _NumRows_ and _NumColumns_ parameters of the **AddTable** method have no effect. The number of rows and columns in the table is updated when you manually add fields to the table from the **Field List** task pane, or when you use the [UpdateTableData](Project.reporttable.updatetabledata.md) method. You can filter the fields to limit the number of rows. The **TestReportTable** macro writes the following in the Immediate window of the VBE:
  
 
  
@@ -89,7 +89,7 @@ Table contents:
 Use the Table Data taskpane to build a table
 ```
 
-The bottom  **ReportTable** object in Figure 1 is the default report table that Project creates when you choose **Table** on the **DESIGN** tab under **REPORT TOOLS**. It shows the project name, start date, finish date, and percent complete of the project summary task (task ID = 0).
+The bottom **ReportTable** object in Figure 1 is the default report table that Project creates when you choose **Table** on the **DESIGN** tab under **REPORT TOOLS**. It shows the project name, start date, finish date, and percent complete of the project summary task (task ID = 0).
  
 
  

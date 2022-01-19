@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectContentControlsByTitle method (Word)
 
-Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the title specified in the Title parameter. Read-only.
+Returns a **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the title specified in the Title parameter. Read-only.
 
 
 ## Syntax

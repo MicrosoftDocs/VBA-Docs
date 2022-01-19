@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Characters property (Visio)
 
-Returns a  **Characters** object that represents the text of a shape. Read-only.
+Returns a **Characters** object that represents the text of a shape. Read-only.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Characters** property of a shape to get a **Characters** object. Once a **Characters** object has been retrieved, the example uses the **Shape** property of the **Characters** object to get the shape that contains the characters and demonstrates that the containing shape has been retrieved by printing its text in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Characters** property of a shape to get a **Characters** object. Once a **Characters** object has been retrieved, the example uses the **Shape** property of the **Characters** object to get the shape that contains the characters and demonstrates that the containing shape has been retrieved by printing its text in the Immediate window.
 
 
 ```vb

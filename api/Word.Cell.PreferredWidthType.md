@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.PreferredWidthType property (Word)
 
-Returns or sets the preferred unit of measurement to use for the width of the specified cell. Read-only  **WdPreferredWidthType**.
+Returns or sets the preferred unit of measurement to use for the width of the specified cell. Read-only **WdPreferredWidthType**.
 
 
 ## Syntax

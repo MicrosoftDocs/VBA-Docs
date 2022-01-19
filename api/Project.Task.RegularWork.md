@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.RegularWork property (Project)
 
-Gets the amount of regular work for the task. Read-only  **Variant**.
+Gets the amount of regular work for the task. Read-only **Variant**.
 
 
 ## Syntax

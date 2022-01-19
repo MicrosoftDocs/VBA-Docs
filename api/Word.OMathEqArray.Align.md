@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathEqArray.Align property (Word)
 
-Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that represents the type of vertical alignment for an equation array with respect to the text that surrounds the array. Read/write.
+Returns or sets a **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that represents the type of vertical alignment for an equation array with respect to the text that surrounds the array. Read/write.
 
 
 ## Syntax

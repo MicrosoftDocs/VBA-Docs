@@ -31,7 +31,7 @@ MsoShapeType
 
 ## Remarks
 
-The value returned by the  **ContainedType** property can be one of the **[MsoShapeType](Office.MsoShapeType.md)** constants.
+The value returned by the **ContainedType** property can be one of the **[MsoShapeType](Office.MsoShapeType.md)** constants.
 
 
 ## See also

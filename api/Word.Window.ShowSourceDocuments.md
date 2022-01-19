@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.ShowSourceDocuments property (Word)
 
-Returns or sets a  **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** constant that represents how Microsoft Word displays source documents after a compare and merge process. Read/write.
+Returns or sets a **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** constant that represents how Microsoft Word displays source documents after a compare and merge process. Read/write.
 
 
 ## Syntax

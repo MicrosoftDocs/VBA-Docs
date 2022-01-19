@@ -19,9 +19,9 @@ Represents a task (an assigned, delegated, or self-imposed task to be performed 
 
 ## Remarks
 
-Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **TaskItem** object that represents a new task.
+Use the **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **TaskItem** object that represents a new task.
 
-Use  **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of a task or a value used to match the default property of a task, to return a single **TaskItem** object from a Tasks folder.
+Use **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of a task or a value used to match the default property of a task, to return a single **TaskItem** object from a Tasks folder.
 
 
 ## Example

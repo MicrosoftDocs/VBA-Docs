@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This is the value displayed as  **End time** in the appointment inspector user interface.
+This is the value displayed as **End time** in the appointment inspector user interface.
 
 
 ## See also

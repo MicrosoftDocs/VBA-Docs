@@ -30,8 +30,8 @@ _expression_ A variable that represents a [MediaBookmarks](PowerPoint.MediaBookm
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Position_|Required|**Long**|The position of the  **MediaBookmark**.|
-| _Name_|Required|**String**|The name of the  **MediaBookmark**.|
+| _Position_|Required|**Long**|The position of the **MediaBookmark**.|
+| _Name_|Required|**String**|The name of the **MediaBookmark**.|
 
 ## Return value
 

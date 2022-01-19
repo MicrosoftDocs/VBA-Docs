@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MergeDocuments method (Word)
 
-Compares two documents and returns a  **Document** object that represents the document that contains the differences between the two documents, marked using tracked changes.
+Compares two documents and returns a **Document** object that represents the document that contains the differences between the two documents, marked using tracked changes.
 
 
 ## Syntax

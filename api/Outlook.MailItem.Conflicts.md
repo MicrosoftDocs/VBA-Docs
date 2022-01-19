@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailItem.Conflicts property (Outlook)
 
-Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Return the **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example uses the  **[Count](Outlook.Conflicts.Count.md)** property of the **Conflicts** object to determine if the item is involved in any conflict. To run this example, make sure a mail item is open in the active window.
+The following Microsoft Visual Basic for Applications (VBA) example uses the **[Count](Outlook.Conflicts.Count.md)** property of the **Conflicts** object to determine if the item is involved in any conflict. To run this example, make sure a mail item is open in the active window.
 
 
 ```vb

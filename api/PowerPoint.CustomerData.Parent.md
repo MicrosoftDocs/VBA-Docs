@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomerData.Parent property (PowerPoint)
 
-Returns the parent object of the specified  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
+Returns the parent object of the specified **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 
 ## Syntax

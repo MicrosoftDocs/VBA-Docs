@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthLocks.Add method (Word)
 
-Returns a  **[CoAuthLock](Word.CoAuthLock.md)** object that represents a lock added to a specified range.
+Returns a **[CoAuthLock](Word.CoAuthLock.md)** object that represents a lock added to a specified range.
 
 
 ## Syntax

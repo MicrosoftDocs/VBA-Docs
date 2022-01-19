@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIMenuAnimation enumeration (Visio)
 
-Values used in conjunction with the  **UIObject.MenuAnimationStyle** property.
+Values used in conjunction with the **UIObject.MenuAnimationStyle** property.
 
 
 > [!NOTE] 

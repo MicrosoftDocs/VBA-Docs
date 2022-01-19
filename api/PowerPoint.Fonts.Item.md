@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Fonts.Item method (PowerPoint)
 
-Returns a single  **Font** object from the specified **Fonts** collection.
+Returns a single **Font** object from the specified **Fonts** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Fonts](PowerPoint.Fonts.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Font** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Font** object in the collection to be returned.|
 
 ## Return value
 

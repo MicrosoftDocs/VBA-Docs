@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Elevation property (Word)
 
-Returns or sets the elevation, in degrees, of the 3D chart view. Read/write  **Long**.
+Returns or sets the elevation, in degrees, of the 3D chart view. Read/write **Long**.
 
 
 ## Syntax

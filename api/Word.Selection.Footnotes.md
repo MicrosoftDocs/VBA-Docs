@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Footnotes property (Word)
 
-Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a range, selection, or document. Read-only.
+Returns a **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a range, selection, or document. Read-only.
 
 
 ## Syntax

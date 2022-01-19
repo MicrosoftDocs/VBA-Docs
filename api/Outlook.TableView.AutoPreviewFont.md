@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample decrements the value of the  **[Size](Outlook.ViewFont.Size.md)** property for the **ViewFont** object returned from the **AutoPreviewFont** property for the current **TableView** object.
+The following Visual Basic for Applications (VBA) sample decrements the value of the **[Size](Outlook.ViewFont.Size.md)** property for the **ViewFont** object returned from the **AutoPreviewFont** property for the current **TableView** object.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.ChildNodes property (Word)
 
-Returns an  **XMLNodes** collection that represents the child elements of a specified element.
+Returns an **XMLNodes** collection that represents the child elements of a specified element.
 
 
 ## Syntax

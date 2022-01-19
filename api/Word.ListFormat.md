@@ -41,7 +41,7 @@ Use the **ListFormat** property with a **Range** object to access the list forma
 ActiveDocument.Paragraphs(2).Range.ListFormat.ApplyBulletDefault
 ```
 
-However, if there is already a list defined in your document, you can access a  **List** object by using the **Lists** property. The following example changes the format of the list created in the preceding example to the first number format on the **Numbered** tab in the **Bullets and Numbering** dialog box.
+However, if there is already a list defined in your document, you can access a **List** object by using the **Lists** property. The following example changes the format of the list created in the preceding example to the first number format on the **Numbered** tab in the **Bullets and Numbering** dialog box.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Editor.Delete method (Word)
 
-Deletes the specified  **Editor** object.
+Deletes the specified **Editor** object.
 
 
 ## Syntax

@@ -39,7 +39,7 @@ The **SetAlwaysMoveToFolder** method operates on conversation items in the deliv
 
 If the  _MoveToFolder_ parameter specifies an invalid folder that does not exist, has been moved, or is read-only, Outlook will raise an error.
 
-To stop the always-move-to-folder action for conversations items in a store, call the  **[StopAlwaysMoveToFolder](Outlook.Conversation.StopAlwaysMoveToFolder.md)** method.
+To stop the always-move-to-folder action for conversations items in a store, call the **[StopAlwaysMoveToFolder](Outlook.Conversation.StopAlwaysMoveToFolder.md)** method.
 
 
 

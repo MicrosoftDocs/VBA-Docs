@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.PreviousBookmarkID property (Word)
 
-Returns the number of the last bookmark that starts before or at the same place as the specified range. Read-only  **Long**.
+Returns the number of the last bookmark that starts before or at the same place as the specified range. Read-only **Long**.
 
 
 ## Syntax

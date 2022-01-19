@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Adjustments property (Word)
 
-Returns an  **[Adjustments](Word.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified **ShapeRange** object that represents an AutoShape or WordArt. Read-only.
+Returns an **[Adjustments](Word.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified **ShapeRange** object that represents an AutoShape or WordArt. Read-only.
 
 
 ## Syntax

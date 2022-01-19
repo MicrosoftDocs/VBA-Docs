@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Finish8 property (Project)
 
-Gets or sets the local Finish custom field of the assignment. Read/write  **Variant**.
+Gets or sets the local Finish custom field of the assignment. Read/write **Variant**.
 
 
 ## Syntax

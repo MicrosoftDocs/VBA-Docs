@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Remarks
 
-For out-of-process callers that have instantiated the  **[Application](Outlook.Application.md)** object, **IsTrusted** always returns **False**. For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
+For out-of-process callers that have instantiated the **[Application](Outlook.Application.md)** object, **IsTrusted** always returns **False**. For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
 
 
 ## See also

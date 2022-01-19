@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetLighting property (PowerPoint)
 
-Returns or sets the effects lighting used by the specified  **ThreeDFormat** object. Read/write.
+Returns or sets the effects lighting used by the specified **ThreeDFormat** object. Read/write.
 
 
 ## Syntax

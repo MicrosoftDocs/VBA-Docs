@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDataColumnProperties enumeration (Visio)
 
-Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** and **[DataColumns.SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** methods and returned by the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** method.
+Data-column-property constants passed to the **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** and **[DataColumns.SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** methods and returned by the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** method.
 
 
 > [!NOTE] 

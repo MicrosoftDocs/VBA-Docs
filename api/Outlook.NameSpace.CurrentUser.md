@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CurrentUser** property to obtain the name of the currently logged-on user and then displays a message box containing the name.
+This Visual Basic for Applications (VBA) example uses the **CurrentUser** property to obtain the name of the currently logged-on user and then displays a message box containing the name.
 
 
 ```vb

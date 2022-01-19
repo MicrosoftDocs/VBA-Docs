@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Comments object (PowerPoint)
 
-Represents a collection of  **[Comment](PowerPoint.Comment.md)** objects.
+Represents a collection of **[Comment](PowerPoint.Comment.md)** objects.
 
 
 ## Example
 
-Use the [Comments](PowerPoint.Slide.Comments.md)property to refer to the  **Comments** collection. The following example displays the number of comments on the current slide.
+Use the [Comments](PowerPoint.Slide.Comments.md)property to refer to the **Comments** collection. The following example displays the number of comments on the current slide.
 
 
 ```vb

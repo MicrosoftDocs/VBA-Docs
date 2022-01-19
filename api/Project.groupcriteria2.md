@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # GroupCriteria2 object (Project)
 
-Contains a collection of  **[GroupCriterion2](Project.GroupCriterion2.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
+Contains a collection of **[GroupCriterion2](Project.GroupCriterion2.md)** objects, where the group hierarchy can be maintained and cell color can be a hexadecimal value.
  
 
 
@@ -19,7 +19,7 @@ Contains a collection of  **[GroupCriterion2](Project.GroupCriterion2.md)** obje
  
 
  
-Use  **GroupCriteria2(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion2** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
+Use **GroupCriteria2(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion2** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
  
 
  

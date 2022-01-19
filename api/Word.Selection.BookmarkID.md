@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.BookmarkID property (Word)
 
-Returns the number of the bookmark that encloses the beginning of the specified selection. Read-only  **Long**.
+Returns the number of the bookmark that encloses the beginning of the specified selection. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbFixedFormatIntent enumeration (Publisher)
 
-Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify how the user intends to share the resulting file.
+Constants passed to the **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify how the user intends to share the resulting file.
 
 
 

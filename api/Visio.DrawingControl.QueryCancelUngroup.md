@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[DrawingControl](Visio.DrawingContro
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelUngroup** after the user has directed the instance to ungroup one or more shapes.
+A Microsoft Visio instance fires **QueryCancelUngroup** after the user has directed the instance to ungroup one or more shapes.
 
 
 

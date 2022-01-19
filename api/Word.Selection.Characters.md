@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Characters property (Word)
 
-Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document, range, or selection. Read-only.
+Returns a **[Characters](Word.characters.md)** collection that represents the characters in a document, range, or selection. Read-only.
 
 
 ## Syntax

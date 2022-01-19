@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Reports.Item property (Project)
-Gets a single  **Report** object from the **Reports** collection. Read-only **Report**.
+Gets a single **Report** object from the **Reports** collection. Read-only **Report**.
 
 ## Syntax
 

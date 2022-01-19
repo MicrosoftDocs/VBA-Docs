@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WrapFormat.DistanceTop property (Word)
 
-Returns or sets the distance (in points) between the document text and the top edge of the text-free area surrounding the specified shape. Read/write  **Single**.
+Returns or sets the distance (in points) between the document text and the top edge of the text-free area surrounding the specified shape. Read/write **Single**.
 
 
 ## Syntax

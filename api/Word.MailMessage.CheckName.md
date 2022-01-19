@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMessage.CheckName method (Word)
 
-Validates the email addresses that appear in the **To**,  **Cc**, and  **Bcc** lines in the active email message.
+Validates the email addresses that appear in the **To**, **Cc**, and **Bcc** lines in the active email message.
 
 
 ## Syntax

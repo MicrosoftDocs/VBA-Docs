@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.ValidationErrorText property (Word)
 
-Returns a  **String** that represents the description for a validation error on an **XMLNode** object.
+Returns a **String** that represents the description for a validation error on an **XMLNode** object.
 
 
 ## Syntax

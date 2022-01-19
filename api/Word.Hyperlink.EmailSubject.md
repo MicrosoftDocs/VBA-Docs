@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.EmailSubject property (Word)
 
-Returns or sets the text string for the specified hyperlink's subject line. Read/write  **String**.
+Returns or sets the text string for the specified hyperlink's subject line. Read/write **String**.
 
 
 ## Syntax

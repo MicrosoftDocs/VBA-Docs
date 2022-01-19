@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-Returns  **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified font or range.
+Returns **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified font or range.
 
 
 ## See also

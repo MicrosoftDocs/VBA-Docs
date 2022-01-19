@@ -13,7 +13,7 @@ Represents a shape range, which is a collection of one or more shapes in a repor
 
 ## Remarks
 
-Project uses the same Office Art infrastructure that other Office applications use, and adapts Office Art to reports, tables, and charts that can use fields in the active project. However, Project does not implement all  **ShapeRange** operations. For example, Project does not support automatic alignment, distribution, grouping, or merging of shapes in a shape range.
+Project uses the same Office Art infrastructure that other Office applications use, and adapts Office Art to reports, tables, and charts that can use fields in the active project. However, Project does not implement all **ShapeRange** operations. For example, Project does not support automatic alignment, distribution, grouping, or merging of shapes in a shape range.
  
 
  
@@ -103,7 +103,7 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 |Moves each shape in the shape range horizontally by the specified number of points.|
 |Rotates each shape in the shape range around the z-axis by the specified number of degrees.|
 |Moves each shape in the shape range vertically by the specified number of points.|
-|Gets an individual  **Shape** object in the shape range collection.|
+|Gets an individual **Shape** object in the shape range collection.|
 |The **MergeShapes** method is not implemented in Project.|
 |Copies the formatting of the shape range.|
 |The **Regroup** method is not implemented in Project.|

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.LoadWebPaneControl method (Project)
 
-Supports the Web pane that hosts the **Task Drivers**,  **Project/Resource Import Wizard**, and  **Deliverables** features.
+Supports the Web pane that hosts the **Task Drivers**, **Project/Resource Import Wizard**, and **Deliverables** features.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TargetPage_|Required|**String**|A numeric ID that identifies the HTML target page that needs to be displayed.  **TargetPage** can also be set to a URL, an XML stream, a pointer to an XML file, or any other string value.|
+| _TargetPage_|Required|**String**|A numeric ID that identifies the HTML target page that needs to be displayed. **TargetPage** can also be set to a URL, an XML stream, a pointer to an XML file, or any other string value.|
 | _WrapperPage_|Optional|**Variant**|A pointer to an HTML page that provides wrapper functionality for the page being displayed in Project. The wrapper page contains event-handling code that allows Project functionality, such as saving files or changing views, to work when a webpage is being displayed. The WrapperPage parameter is only used when the **Project Guid**e is hidden. When the **Project Guide** is shown, mainpage.htm is used as the wrapper page, and a **WrapperPage** parameter, if specified, is ignored. If no WrapperPage parameter is specified, Project's default wrapper page, gbui://wrapper.htm, is used|
 
 ## Return value

@@ -31,14 +31,14 @@ _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRul
 
 ## Remarks
 
-When you validate a diagram by calling the  **[Validate](Visio.Validation.Validate.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the expression that you set as the **FilterExpression** property value to determine whether a target object must satisfy the validation rule. If the filter expression you set evaluates to **True**, Visio uses the **[TestExpression](Visio.ValidationRule.TestExpression.md)** property value you set to determine whether to generate an issue for the target object. If the filter expression evaluates to **False**, Visio does not apply the validation rule to the target object during validation.
+When you validate a diagram by calling the **[Validate](Visio.Validation.Validate.md)** method or by clicking **Check Diagram** on the **Process** tab, Microsoft Visio uses the expression that you set as the **FilterExpression** property value to determine whether a target object must satisfy the validation rule. If the filter expression you set evaluates to **True**, Visio uses the **[TestExpression](Visio.ValidationRule.TestExpression.md)** property value you set to determine whether to generate an issue for the target object. If the filter expression evaluates to **False**, Visio does not apply the validation rule to the target object during validation.
 
-The syntax for the  **FilterExpression** property value is the same as that for a ShapeSheet expression. When you set the **FilterExpression** property, Visio does not validate the syntax of the filter expression. If the expression is not syntactically correct, Visio does not apply the validation rule to the target object during validation
+The syntax for the **FilterExpression** property value is the same as that for a ShapeSheet expression. When you set the **FilterExpression** property, Visio does not validate the syntax of the filter expression. If the expression is not syntactically correct, Visio does not apply the validation rule to the target object during validation
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **FilterExpression** property to determine whether a particular shape target must satisfy a validation rule.
+The following Visual Basic for Applications (VBA) example shows how to use the **FilterExpression** property to determine whether a particular shape target must satisfy a validation rule.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.ShowDevTools property (Word)
 
-Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write.
+Returns or sets a **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write.
 
 
 ## Syntax

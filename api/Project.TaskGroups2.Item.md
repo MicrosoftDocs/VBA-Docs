@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskGroups2.Item property (Project)
 
-Gets a single item from a collection. Read-only  **Object**.
+Gets a single item from a collection. Read-only **Object**.
 
 
 ## Syntax

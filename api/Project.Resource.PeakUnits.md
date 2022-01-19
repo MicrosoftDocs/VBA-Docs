@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.PeakUnits property (Project)
 
-Gets the largest unit percentage of a resource used at one time. Read-only  **Variant**.
+Gets the largest unit percentage of a resource used at one time. Read-only **Variant**.
 
 
 ## Syntax

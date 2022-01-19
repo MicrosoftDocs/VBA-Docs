@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ThemeVariants object (PowerPoint)
 
-A collection of  **[ThemeVariant](PowerPoint.themevariant.md)** objects that represent variations in the theme.
+A collection of **[ThemeVariant](PowerPoint.themevariant.md)** objects that represent variations in the theme.
 
 
 ## Example

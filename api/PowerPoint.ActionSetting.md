@@ -21,12 +21,12 @@ Contains information about how the specified shape or text range reacts to mouse
 
 The **ActionSetting** object is a member of the **[ActionSettings](PowerPoint.ActionSettings.md)** collection. The **ActionSettings** collection contains one **ActionSetting** object that represents how the specified object reacts when the user clicks it during a slide show and one **ActionSetting** object that represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
 
-If you've set properties of the  **ActionSetting** object that don't seem to be taking effect, make sure that you've set the [Action](PowerPoint.ActionSetting.Action.md) property to the appropriate value.
+If you've set properties of the **ActionSetting** object that don't seem to be taking effect, make sure that you've set the [Action](PowerPoint.ActionSetting.Action.md) property to the appropriate value.
 
 
 ## Example
 
-Use  **ActionSettings** (_index_), where _index_ is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
+Use **ActionSettings** (_index_), where _index_ is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DeliverableFinish property (Project)
 
-Gets or sets the task deliverable end date. Read/write  **Variant**.
+Gets or sets the task deliverable end date. Read/write **Variant**.
 
 
 ## Syntax

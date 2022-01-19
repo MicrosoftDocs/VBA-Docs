@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Shapes property (Word)
 
-Returns a  **[Shapes](Word.shapes.md)** collection that represents all the **Shape** objects in the specified document. Read-only.
+Returns a **[Shapes](Word.shapes.md)** collection that represents all the **Shape** objects in the specified document. Read-only.
 
 
 ## Syntax

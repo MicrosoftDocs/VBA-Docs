@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sections.First property (Word)
 
-Returns a  **[Section](Word.Section.md)** object that represents the first item in the **Sections** collection.
+Returns a **[Section](Word.Section.md)** object that represents the first item in the **Sections** collection.
 
 
 ## Syntax

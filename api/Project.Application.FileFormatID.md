@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FileFormatID property (Project)
 
-Gets a value that indicates the file format for the specified project. Possible formats are those that Project can directly open as a project file. Read-only  **String**.
+Gets a value that indicates the file format for the specified project. Possible formats are those that Project can directly open as a project file. Read-only **String**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ If the value of this property is set to **True**, then the **[Filter](Outlook.Au
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **AutoFormatRules** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
+The following Visual Basic for Applications (VBA) example enumerates the **AutoFormatRules** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
 ```vb

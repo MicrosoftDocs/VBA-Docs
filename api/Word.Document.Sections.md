@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Sections property (Word)
 
-Returns a  **[Section](Word.Section.md)** collection that represents the sections in the specified document. Read-only.
+Returns a **[Section](Word.Section.md)** collection that represents the sections in the specified document. Read-only.
 
 
 ## Syntax

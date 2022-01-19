@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Explorer.WindowState property (Outlook)
 
-Returns or sets the property with a constant in the  **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
+Returns or sets the property with a constant in the **[OlWindowState](Outlook.OlWindowState.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 ## Example
 
-This Microsoft Visual Basic for Applications example minimizes all open explorer windows. It uses the  **[Count](Outlook.Explorers.Count.md)** property and **[Item](Outlook.Explorers.Item.md)** method of the **[Explorers](Outlook.Explorers.md)** collection to enumerate the open explorer windows.
+This Microsoft Visual Basic for Applications example minimizes all open explorer windows. It uses the **[Count](Outlook.Explorers.Count.md)** property and **[Item](Outlook.Explorers.Item.md)** method of the **[Explorers](Outlook.Explorers.md)** collection to enumerate the open explorer windows.
 
 
 ```vb

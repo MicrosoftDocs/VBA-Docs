@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBar.BarTop property (Word)
 
-Returns or sets a  **Boolean** that represents the position of a bar in a bar object. **True** specifies a mathematical overbar. **False** specifies a mathematical underbar. Read/write.
+Returns or sets a **Boolean** that represents the position of a bar in a bar object. **True** specifies a mathematical overbar. **False** specifies a mathematical underbar. Read/write.
 
 
 ## Syntax

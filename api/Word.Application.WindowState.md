@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.WindowState property (Word)
 
-Returns or sets the state of the specified document window or task window. Read/write  **WdWindowState**.
+Returns or sets the state of the specified document window or task window. Read/write **WdWindowState**.
 
 
 ## Syntax

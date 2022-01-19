@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 
 ## Remarks
 
-When you use this method, PowerPoint will close an open presentation without prompting the user to save their work. To prevent the loss of work, use the  **Save** method or the **SaveAs** method before you use the **Close** method.
+When you use this method, PowerPoint will close an open presentation without prompting the user to save their work. To prevent the loss of work, use the **Save** method or the **SaveAs** method before you use the **Close** method.
 
 
 ## Example

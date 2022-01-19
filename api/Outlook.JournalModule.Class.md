@@ -26,7 +26,7 @@ _expression_ A variable that represents a [JournalModule](Outlook.JournalModule.
 
 ## Remarks
 
-This property returns  **olJournalModule** for the **[JournalModule](Outlook.JournalModule.md)** object.
+This property returns **olJournalModule** for the **[JournalModule](Outlook.JournalModule.md)** object.
 
 
 ## See also

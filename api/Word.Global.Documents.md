@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.Documents property (Word)
 
-Returns a  **[Documents](Word.documents.md)** collection that represents all the open documents. Read-only.
+Returns a **[Documents](Word.documents.md)** collection that represents all the open documents. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ShowInkAnnotations property (Word)
 
-Returns or sets  **Boolean** that shows or hides handwritten ink annotations. **True** displays ink annotations. **False** hides ink annotations.
+Returns or sets **Boolean** that shows or hides handwritten ink annotations. **True** displays ink annotations. **False** hides ink annotations.
 
 
 ## Syntax

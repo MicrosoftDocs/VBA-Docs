@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailingLabel.DefaultLaserTray property (Word)
 
-Returns or sets the default paper tray that contains sheets of mailing labels. Read/write  **WdPaperTray**.
+Returns or sets the default paper tray that contains sheets of mailing labels. Read/write **WdPaperTray**.
 
 
 ## Syntax

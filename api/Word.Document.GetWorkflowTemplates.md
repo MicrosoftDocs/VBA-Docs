@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GetWorkflowTemplates method (Word)
 
-Returns a  **WorkflowTemplates** collection that represents the workflow templates attached to a document.
+Returns a **WorkflowTemplates** collection that represents the workflow templates attached to a document.
 
 
 ## Syntax

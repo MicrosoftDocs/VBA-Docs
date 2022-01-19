@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.PictureFormat property (Word)
 
-Returns a  **[PictureFormat](Word.PictureFormat.md)** object for a specified chart that contains pictures. Read-only.
+Returns a **[PictureFormat](Word.PictureFormat.md)** object for a specified chart that contains pictures. Read-only.
 
 
 ## Syntax

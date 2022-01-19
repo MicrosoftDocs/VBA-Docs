@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CardView.Apply method (Outlook)
 
-Applies the  **[CardView](Outlook.CardView.md)** object to the current view.
+Applies the **[CardView](Outlook.CardView.md)** object to the current view.
 
 
 ## Syntax

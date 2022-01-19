@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationRuleSet.Document property (Visio)
 
-Returns the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
+Returns the **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 
 
 ## Syntax

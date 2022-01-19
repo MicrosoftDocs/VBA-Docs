@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # HangulHanjaConversionDictionaries object (Word)
 
-A collection of  **Dictionary** objects that includes the active custom Hangul-Hanja conversion dictionaries.
+A collection of **Dictionary** objects that includes the active custom Hangul-Hanja conversion dictionaries.
 
 
 ## Remarks

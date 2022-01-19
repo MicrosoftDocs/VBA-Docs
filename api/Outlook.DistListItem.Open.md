@@ -31,7 +31,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Remarks
 
-When this event occurs, the  **Inspector** object is initialized but not yet displayed. The **Open** event differs from the **[Read](Outlook.AppointmentItem.Read.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an inspector.
+When this event occurs, the **Inspector** object is initialized but not yet displayed. The **Open** event differs from the **[Read](Outlook.AppointmentItem.Read.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an inspector.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the open operation is not completed and the inspector is not displayed.
 

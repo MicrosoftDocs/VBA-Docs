@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.Values property (Word)
 
-Returns or sets a collection of all the values in the series. Read/write  **Variant**.
+Returns or sets a collection of all the values in the series. Read/write **Variant**.
 
 
 ## Syntax

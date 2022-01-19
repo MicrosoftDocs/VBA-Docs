@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.HasAxis property (Word)
 
-Returns or sets which axes exist on the chart. Read/write  **Variant**.
+Returns or sets which axes exist on the chart. Read/write **Variant**.
 
 
 ## Syntax

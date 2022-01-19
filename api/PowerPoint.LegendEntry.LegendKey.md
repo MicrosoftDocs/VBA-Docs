@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LegendEntry.LegendKey property (PowerPoint)
 
-Returns the legend key that is associated with the entry. Read-only  **[LegendKey](PowerPoint.LegendKey.md)**.
+Returns the legend key that is associated with the entry. Read-only **[LegendKey](PowerPoint.LegendKey.md)**.
 
 
 ## Syntax

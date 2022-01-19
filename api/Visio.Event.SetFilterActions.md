@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Event.SetFilterActions method (Visio)
 
-Specifies the extensions to the  **MouseMove** event that Visio reports.
+Specifies the extensions to the **MouseMove** event that Visio reports.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-The  **SetFilterActions** method provides a way of ignoring selected extensions of the **MouseMove** event based on extension type. Extension types are based on mouse actions that are part of a drag and drop operation, as shown in the table below. By default, Visio reports firings of all event extensions.
+The **SetFilterActions** method provides a way of ignoring selected extensions of the **MouseMove** event based on extension type. Extension types are based on mouse actions that are part of a drag and drop operation, as shown in the table below. By default, Visio reports firings of all event extensions.
 
 The  _filterActionStream_ parameter is an array defined in the following way. The number of elements in _filterActionStream_ is a multiple of 3:
 
@@ -50,20 +50,20 @@ The  _filterActionStream_ parameter is an array defined in the following way. Th
     
 - The third element contains a **True** or **False** value indicating whether you want to listen to events for that action range (**True** to listen to events of a certain sub-type, or **MouseMove** event extension; **False** to exclude an event sub-type).
     
-The filter actions that you can place in the first and second array elements of each element triplet are defined in the  **VisFilterActions** enumeration, which is declared in the Visio type library, and shown in the following table.
+The filter actions that you can place in the first and second array elements of each element triplet are defined in the **VisFilterActions** enumeration, which is declared in the Visio type library, and shown in the following table.
 
 
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-| **visFilterMouseMoveDragBegin**|1|Filter the  **DragBegin** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragDrop**|5|Filter the  **DragDrop** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragEnter**|2|Filter the  **DragEnter** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragLeave**|4|Filter the  **DragLeave** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragOver**|3|Filter the  **DragOver** extension of the **MouseMove** event.|
-| **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the  **MouseMove** event.|
+| **visFilterMouseMoveDragBegin**|1|Filter the **DragBegin** extension of the **MouseMove** event.|
+| **visFilterMouseMoveDragDrop**|5|Filter the **DragDrop** extension of the **MouseMove** event.|
+| **visFilterMouseMoveDragEnter**|2|Filter the **DragEnter** extension of the **MouseMove** event.|
+| **visFilterMouseMoveDragLeave**|4|Filter the **DragLeave** extension of the **MouseMove** event.|
+| **visFilterMouseMoveDragOver**|3|Filter the **DragOver** extension of the **MouseMove** event.|
+| **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the **MouseMove** event.|
 
-For example, if you want to listen to all  **MouseEvent** extensions except the **DragOver** event extension, you can build an array like the following:
+For example, if you want to listen to all **MouseEvent** extensions except the **DragOver** event extension, you can build an array like the following:
 
 
 
@@ -76,7 +76,7 @@ Dim alngFilterActions(1 to 1 * 3) As Long
 
 ```
 
-Or, to listen only to the  **DragEnter** event extension, ignoring mouse actions that come before and after, set up an array like the following:
+Or, to listen only to the **DragEnter** event extension, ignoring mouse actions that come before and after, set up an array like the following:
 
 
 

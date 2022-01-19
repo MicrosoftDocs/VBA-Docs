@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Chart property (PowerPoint)
 
-Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
+Returns the **Chart** object of the current **ShapeRange** object. Read-only.
 
 
 ## Syntax

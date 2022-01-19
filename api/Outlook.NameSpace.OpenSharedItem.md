@@ -50,7 +50,7 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 |Outlook message (.msg) file|Type corresponds to the type of the item that was saved as the .msg file|
 
 > [!NOTE] 
-> This method does not support iCalendar calendar (.ics) files. To open iCalendar calendar files, you can use the  **[OpenSharedFolder](Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object.
+> This method does not support iCalendar calendar (.ics) files. To open iCalendar calendar files, you can use the **[OpenSharedFolder](Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object.
 
 
 ## See also

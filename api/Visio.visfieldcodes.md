@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisFieldCodes enumeration (Visio)
 
-Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
+Text-field codes passed to the **AddField** and **AddFieldEx** methods.
 
 
 

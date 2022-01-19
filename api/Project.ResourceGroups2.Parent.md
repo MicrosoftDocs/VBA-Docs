@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ResourceGroups2.Parent property (Project)
 
-Gets the parent of the object. Read-only  **Project**.
+Gets the parent of the object. Read-only **Project**.
 
 
 ## Syntax

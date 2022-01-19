@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Projects.Item property (Project)
 
-Gets a single  **Project** object from the **Projects** collection. Read-only **Project**.
+Gets a single **Project** object from the **Projects** collection. Read-only **Project**.
 
 
 ## Syntax

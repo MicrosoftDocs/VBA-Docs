@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Editors property (Word)
 
-Returns an  **Editors** object that represents all the users authorized to modify a selection or range within a document.
+Returns an **Editors** object that represents all the users authorized to modify a selection or range within a document.
 
 
 ## Syntax

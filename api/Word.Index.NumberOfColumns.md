@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Index.NumberOfColumns property (Word)
 
-Sets or returns the number of columns for each page of an index. Read/write  **Long**.
+Sets or returns the number of columns for each page of an index. Read/write **Long**.
 
 
 ## Syntax

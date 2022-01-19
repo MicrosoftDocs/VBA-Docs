@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.Sensitivity property (Outlook)
 
-Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
+Returns or sets a constant in the **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSensitivity**.
+This property corresponds to the MAPI property **PidTagSensitivity**.
 
 
 ## See also

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 
 ## Remarks
 
-You can also use the  **[Item](PowerPoint.Placeholders.Item.md)** method of the **[Shapes](PowerPoint.Shapes.md)** or **[Placeholders](PowerPoint.Placeholders.md)** collection to return the slide title.
+You can also use the **[Item](PowerPoint.Placeholders.Item.md)** method of the **[Shapes](PowerPoint.Shapes.md)** or **[Placeholders](PowerPoint.Placeholders.md)** collection to return the slide title.
 
 
 ## Example

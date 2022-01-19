@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TickLabels.Alignment property (Word)
 
-Returns or sets the alignment for the specified phonetic text or tick label. Read/write  **Long**.
+Returns or sets the alignment for the specified phonetic text or tick label. Read/write **Long**.
 
 
 ## Syntax

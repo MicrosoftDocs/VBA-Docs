@@ -29,7 +29,7 @@ _expression_ A variable that represents a **TabStrip** object.
 
 ## Remarks
 
-The following are examples of actions that initiate the  **Click** event of the specified control:
+The following are examples of actions that initiate the **Click** event of the specified control:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
@@ -42,6 +42,6 @@ The following are examples of actions that initiate the  **Click** event of the 
 
 The **Click** event is not initiated when **Value** is set to **Null**.
 
-Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
+Left-clicking changes the value of a control, thus it initiates the **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

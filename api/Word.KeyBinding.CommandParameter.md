@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBinding.CommandParameter property (Word)
 
-Returns the command parameter assigned to the specified shortcut key. Read-only  **String**.
+Returns the command parameter assigned to the specified shortcut key. Read-only **String**.
 
 
 ## Syntax

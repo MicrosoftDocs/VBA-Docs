@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SidepaneTaskChange method (Project)
 
-Changes the side pane that is displayed in  **Project Guide**.
+Changes the side pane that is displayed in **Project Guide**.
 
 
 ## Syntax

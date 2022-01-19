@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 
 ## Remarks
 
-The value of the  **Shadow** property can be one of these **MsoTriState** constants.
+The value of the **Shadow** property can be one of these **MsoTriState** constants.
 
 
 

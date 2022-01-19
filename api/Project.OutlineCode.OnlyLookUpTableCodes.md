@@ -23,7 +23,7 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-For enterprise text fields with lookup tables,  **OnlyLookUpTableCodes** is always true and non-writeable.
+For enterprise text fields with lookup tables, **OnlyLookUpTableCodes** is always true and non-writeable.
 
 
 ## Example

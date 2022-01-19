@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Availability.AvailableUnit property (Project)
 
-Gets or sets the percentage of time the resource is available during the availability period. Read/write  **Double**.
+Gets or sets the percentage of time the resource is available during the availability period. Read/write **Double**.
 
 
 ## Syntax

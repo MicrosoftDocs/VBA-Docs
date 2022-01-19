@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthor.ID property (Word)
 
-Returns a  **String** that specifies a unique identifier for the specified author. Read-only.
+Returns a **String** that specifies a unique identifier for the specified author. Read-only.
 
 
 ## Syntax

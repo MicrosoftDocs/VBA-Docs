@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ShowXMLMarkup property (Word)
 
-Returns a  **Long** that represents whether XML tags are visible in a document.
+Returns a **Long** that represents whether XML tags are visible in a document.
 
 
 ## Syntax

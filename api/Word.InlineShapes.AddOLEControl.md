@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents an '[InlineShapes](Word.inline
 
 ## Remarks
 
-ActiveX controls are represented as either  **Shape** objects or **[InlineShape](Word.InlineShape.md)** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
+ActiveX controls are represented as either **Shape** objects or **[InlineShape](Word.InlineShape.md)** objects in Microsoft Word. To modify the properties for an ActiveX control, you use the **Object** property of the **OLEFormat** object for the specified shape or inline shape.
 
 
 

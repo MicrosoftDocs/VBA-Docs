@@ -46,9 +46,9 @@ The  _Commands()_ parameter passed to **SetFilterCommands** is an array defined 
 The number of elements in  _Commands()_ is a multiple of 3:
 
 
-- The first element contains the beginning command ID of the range (any member of  **VisUICmds**).
+- The first element contains the beginning command ID of the range (any member of **VisUICmds**).
     
-- The second element contains the end command ID of the range (any member of  **VisUICmds**).
+- The second element contains the end command ID of the range (any member of **VisUICmds**).
     
 - The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
@@ -87,7 +87,7 @@ For example, to set up an array that blocks out a single command, use the follow
 
 ```
 
-Or, to set up an array that listens only to the  **Send to Back** command:
+Or, to set up an array that listens only to the **Send to Back** command:
 
 
 

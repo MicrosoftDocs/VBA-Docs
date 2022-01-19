@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text.
+This property returns **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text.
 
 
 ## Example

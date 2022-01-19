@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # XSLTransforms.Add method (Word)
 
-Returns an  **XSLTransform** object that represents an Extensible Stylesheet Language Transformation (XSLT) added to the collection of XSLTs for a specified schema.
+Returns an **XSLTransform** object that represents an Extensible Stylesheet Language Transformation (XSLT) added to the collection of XSLTs for a specified schema.
 
 
 ## Syntax

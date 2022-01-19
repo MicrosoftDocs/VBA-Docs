@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.GetWorkflowTemplates method (PowerPoint)
 
-Returns the Microsoft Office  **WorkflowTemplates** collection.
+Returns the Microsoft Office **WorkflowTemplates** collection.
 
 
 ## Syntax

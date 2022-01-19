@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlFormRegistry enumeration (Outlook)
 
-Indicates the form registry (library) where the  **Form** is stored.
+Indicates the form registry (library) where the **Form** is stored.
 
 
 

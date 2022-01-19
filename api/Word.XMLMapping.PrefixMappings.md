@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLMapping.PrefixMappings property (Word)
 
-Returns a  **String** that represents the prefix mappings used to evaluate the XPath for the current XML mapping. Read-only.
+Returns a **String** that represents the prefix mappings used to evaluate the XPath for the current XML mapping. Read-only.
 
 
 ## Syntax

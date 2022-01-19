@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GridSpaceBetweenHorizontalLines property (Word)
 
-Returns or sets the interval at which Microsoft Word displays horizontal character gridlines in print layout view. Read/write  **Long**.
+Returns or sets the interval at which Microsoft Word displays horizontal character gridlines in print layout view. Read/write **Long**.
 
 
 ## Syntax

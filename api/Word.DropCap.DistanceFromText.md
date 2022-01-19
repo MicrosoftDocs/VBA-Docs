@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DropCap.DistanceFromText property (Word)
 
-Returns or sets a  **Single** that represents the distance (in points) between the dropped capital letter and the paragraph text. Read/write.
+Returns or sets a **Single** that represents the distance (in points) between the dropped capital letter and the paragraph text. Read/write.
 
 
 ## Syntax

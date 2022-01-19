@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoTextEntry.Insert method (Word)
 
-Inserts the AutoText entry in place of the specified range. Returns a  **Range** object that represents the AutoText entry.
+Inserts the AutoText entry in place of the specified range. Returns a **Range** object that represents the AutoText entry.
 
 
 ## Syntax

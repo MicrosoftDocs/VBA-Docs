@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-This property is used only when the  **[FirstName](Outlook.ContactItem.FirstName.md)**, **[LastName](Outlook.ContactItem.LastName.md)**, and **[Suffix](Outlook.ContactItem.Suffix.md)** properties (the fields that define this property) contain Asian (DBCS) characters. Note that any such changes or entries to the **FirstName**, **LastName**, or **Suffix** properties will be overwritten by any subsequent changes or entries to FullName.
+This property is used only when the **[FirstName](Outlook.ContactItem.FirstName.md)**, **[LastName](Outlook.ContactItem.LastName.md)**, and **[Suffix](Outlook.ContactItem.Suffix.md)** properties (the fields that define this property) contain Asian (DBCS) characters. Note that any such changes or entries to the **FirstName**, **LastName**, or **Suffix** properties will be overwritten by any subsequent changes or entries to FullName.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Warning property (Project)
 
-Gets the active warning for a task. Read-only  **Variant**.
+Gets the active warning for a task. Read-only **Variant**.
 
 
 ## Syntax

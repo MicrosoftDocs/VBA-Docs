@@ -19,7 +19,7 @@ Represents a chart axis title.
 
 ## Remarks
 
-Use the  **[AxisTitle](PowerPoint.Axis.AxisTitle.md)** property to return an **AxisTitle** object.
+Use the **[AxisTitle](PowerPoint.Axis.AxisTitle.md)** property to return an **AxisTitle** object.
 
 The **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](PowerPoint.Axis.HasTitle.md)** property for the axis is **True**.
 

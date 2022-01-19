@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFont.Size property (Word)
 
-Returns or sets the size of the font. Read/write  **Variant**.
+Returns or sets the size of the font. Read/write **Variant**.
 
 
 ## Syntax

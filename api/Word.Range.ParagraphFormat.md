@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ParagraphFormat property (Word)
 
-Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified range. Read/write.
+Returns or sets a **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified range. Read/write.
 
 
 ## Syntax

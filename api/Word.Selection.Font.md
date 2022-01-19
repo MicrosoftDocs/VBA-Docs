@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Font property (Word)
 
-Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write.
+Returns or sets a **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write.
 
 
 ## Syntax

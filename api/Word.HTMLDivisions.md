@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivisions object (Word)
 
-A collection of  **HTMLDivision** objects that represents the HTML DIV elements that exist in a web document.
+A collection of **HTMLDivision** objects that represents the HTML DIV elements that exist in a web document.
 
 
 ## Remarks

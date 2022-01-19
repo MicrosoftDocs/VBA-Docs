@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.PictureFormat property (Word)
 
-Returns a  **PictureFormat** object that contains picture formatting properties for the specified range of shapes. Read-only.
+Returns a **PictureFormat** object that contains picture formatting properties for the specified range of shapes. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** o
 
 ## Remarks
 
-Applies to  **ShapeRange** objects that represent pictures or OLE objects.
+Applies to **ShapeRange** objects that represent pictures or OLE objects.
 
 
 ## See also

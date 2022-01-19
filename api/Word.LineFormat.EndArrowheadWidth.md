@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.EndArrowheadWidth property (Word)
 
-Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadWidth**.
+Returns or sets the width of the arrowhead at the end of the specified line. Read/write **MsoArrowheadWidth**.
 
 
 ## Syntax

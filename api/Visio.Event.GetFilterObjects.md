@@ -31,14 +31,14 @@ Long()
 
 ## Remarks
 
-The event filters described in the array returned by the  **GetFilterObjects** method provide developers a way of ignoring specified events based on object type. The array returned is that passed to the **SetFilterObjects** method for this **Event** object.
+The event filters described in the array returned by the **GetFilterObjects** method provide developers a way of ignoring specified events based on object type. The array returned is that passed to the **SetFilterObjects** method for this **Event** object.
 
-The array that is returned by the  **GetFilterObjects** method can be interpreted in the following manner.
+The array that is returned by the **GetFilterObjects** method can be interpreted in the following manner.
 
 The number of elements in the array is a multiple of 2: 
 
 
-- The first element contains an object type (one of  **visTypePage**, **visTypeGroup**, **visTypeShape**, **visTypeForeignObject**, **visTypeGuide**, or **visTypeDoc**).
+- The first element contains an object type (one of **visTypePage**, **visTypeGroup**, **visTypeShape**, **visTypeForeignObject**, **visTypeGuide**, or **visTypeDoc**).
     
 - The second element contains a **True** or **False** value indicating whether you are listening to events for that object (**True** to listen to an object's events; **False** to exclude an object's events).
     
@@ -59,6 +59,6 @@ For an event to successfully pass through an object event filter, it must satisf
 
 If there are no **True** ranges defined in the array, events are considered **True**.
 
-For details about defining event filters using command IDs, see the  **SetFilterObjects** method.
+For details about defining event filters using command IDs, see the **SetFilterObjects** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **[ChartTitle](PowerPoint.Chart.ChartTitle.md)** property to return the **ChartTitle** object.
+Use the **[ChartTitle](PowerPoint.Chart.ChartTitle.md)** property to return the **ChartTitle** object.
 
 The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](PowerPoint.Chart.HasTitle.md)** property for the chart is **True**.
 

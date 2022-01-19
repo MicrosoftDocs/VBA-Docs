@@ -19,7 +19,7 @@ Represents a building block in a template. A building block is pre-built content
 
 ## Remarks
 
-Each  **BuildingBlock** object is a member of the **[BuildingBlocks](Word.BuildingBlocks.md)** and **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collections. Building blocks are stored in Microsoft Word templates. Therefore, to access the building blocks available for a document, you need to access an attached template. Built-in building blocks are stored in the template named "Building Blocks.dotx".
+Each **BuildingBlock** object is a member of the **[BuildingBlocks](Word.BuildingBlocks.md)** and **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collections. Building blocks are stored in Microsoft Word templates. Therefore, to access the building blocks available for a document, you need to access an attached template. Built-in building blocks are stored in the template named "Building Blocks.dotx".
 
  Use the **[Item](Word.BuildingBlocks.Item.md)** method of the collection or the **BuildingBlocks** collection to return an individual building block. The following example accesses the first building block in the first template in the **[Templates](Word.templates.md)** collection.
 
@@ -36,7 +36,7 @@ Set objBB = objTemplate.BuildingBlockEntries.Item(1)
 
 
 > [!NOTE] 
-> Depending on how you access the collection, the collection returned may change. For example, if you access a collection of building blocks with a type of  **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General". Therefore, the first item in a collection accessed from the **BuildingBlockEntries** collection may be different from the first item in the collection accessed from the **BuildingBlocks** collection.
+> Depending on how you access the collection, the collection returned may change. For example, if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General". Therefore, the first item in a collection accessed from the **BuildingBlockEntries** collection may be different from the first item in the collection accessed from the **BuildingBlocks** collection.
 
 To create a new building block, you can use the **Add** method for either the **BuildingBlockEntries** collection or the **BuildingBlocks** collection. However, the recommended way to create a new building block is by using the **[Add](Word.BuildingBlockEntries.Add.md)** method for the **BuildingBlockEntries** collection. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](Word.templates.md)** collection.
 
@@ -110,7 +110,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
 Next
 ```
 
-Each building block has properties that contain information that applies uniquely to it, such as  **[Name](Word.BuildingBlock.Name.md)**, **[Description](Word.BuildingBlock.Description.md)**, **[Type](Word.BuildingBlock.Type.md)**, and **[Value](Word.BuildingBlock.Value.md)**.
+Each building block has properties that contain information that applies uniquely to it, such as **[Name](Word.BuildingBlock.Name.md)**, **[Description](Word.BuildingBlock.Description.md)**, **[Type](Word.BuildingBlock.Type.md)**, and **[Value](Word.BuildingBlock.Value.md)**.
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 

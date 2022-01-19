@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.ShowSelectionFloaties property (Word)
 
-Returns or sets a  **Boolean** that represents whether mini toolbars display when a user selects text. Read/write.
+Returns or sets a **Boolean** that represents whether mini toolbars display when a user selects text. Read/write.
 
 
 ## Syntax

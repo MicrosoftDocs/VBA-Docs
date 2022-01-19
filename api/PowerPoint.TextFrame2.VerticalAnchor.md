@@ -26,7 +26,7 @@ _expression_.**VerticalAnchor**
 
 ## Remarks
 
-The value of the  **VerticalAnchor** property can be one of these **MsoVerticalAnchor** constants.
+The value of the **VerticalAnchor** property can be one of these **MsoVerticalAnchor** constants.
 
 
 ||

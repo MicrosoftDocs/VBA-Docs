@@ -23,7 +23,7 @@ You receive a **PropertyPages** object as a parameter of the **[OptionsPagesAdd]
 
 
 > [!NOTE] 
-> If more than one program handles the  **OptionsPagesAdd** event, the order in which the programs receive the event (and therefore, the order in which pages are added to the **PropertyPages** object) cannot be guaranteed.
+> If more than one program handles the **OptionsPagesAdd** event, the order in which the programs receive the event (and therefore, the order in which pages are added to the **PropertyPages** object) cannot be guaranteed.
 
 
 ## Methods

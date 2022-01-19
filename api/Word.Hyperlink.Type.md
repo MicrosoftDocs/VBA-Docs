@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.Type property (Word)
 
-Returns the hyperlink type. Read-only  **MsoHyperlinkType**.
+Returns the hyperlink type. Read-only **MsoHyperlinkType**.
 
 
 ## Syntax

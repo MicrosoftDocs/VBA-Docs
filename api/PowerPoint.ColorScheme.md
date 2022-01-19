@@ -26,14 +26,14 @@ The following examples describe how to do the following:
 
 - Return a **ColorScheme** object from the collection of all the color schemes in the presentation
     
-- Return the  **ColorScheme** object attached to a specific slide or master
+- Return the **ColorScheme** object attached to a specific slide or master
     
 - Return the color of a single slide element from a **ColorScheme** object
     
 
 ## Example
 
-Use  **ColorSchemes** (_index_), where _index_ is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
+Use **ColorSchemes** (_index_), where _index_ is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
 
 
 ```vb

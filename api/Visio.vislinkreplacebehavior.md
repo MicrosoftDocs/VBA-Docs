@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisLinkReplaceBehavior enumeration (Visio)
 
-Link replacement behavior constants passed to and returned by the  **[DataRecordset.LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)** property.
+Link replacement behavior constants passed to and returned by the **[DataRecordset.LinkReplaceBehavior](Visio.DataRecordset.LinkReplaceBehavior.md)** property.
 
 
 > [!NOTE] 

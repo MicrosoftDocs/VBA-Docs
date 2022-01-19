@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Documents](Visio.Documents.md)** ob
 
 ## Remarks
 
-When Microsoft Visio performs validation, it fires a  **RuleSetValidated** event for every rule set that it processes, even if a rule set is empty.
+When Microsoft Visio performs validation, it fires a **RuleSetValidated** event for every rule set that it processes, even if a rule set is empty.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataField.DataFieldName property (Word)
 
-Sets or returns a  **String** that represents the name of the field in the mail merge data source to which a mapped data field maps. Read/write.
+Sets or returns a **String** that represents the name of the field in the mail merge data source to which a mapped data field maps. Read/write.
 
 
 ## Syntax

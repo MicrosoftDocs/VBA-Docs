@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectContentControlsByTag method (Word)
 
-Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the tag value specified in the Tag parameter. Read-only.
+Returns a **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the tag value specified in the Tag parameter. Read-only.
 
 
 ## Syntax

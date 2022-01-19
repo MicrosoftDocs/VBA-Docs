@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.WBSSuccessors property (Project)
 
-Gets the work breakdown structure (WBS) codes of the task successors, separated by the list separator. Read-only  **String**.
+Gets the work breakdown structure (WBS) codes of the task successors, separated by the list separator. Read-only **String**.
 
 
 ## Syntax

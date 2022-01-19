@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeDistributionList.GetExchangeDistributionList method (Outlook)
 
-Returns the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
+Returns the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeDistributionList](Outlook.Ex
 
 ## Return value
 
-The parent  **ExchangeDistributionList** object.
+The parent **ExchangeDistributionList** object.
 
 
 ## See also

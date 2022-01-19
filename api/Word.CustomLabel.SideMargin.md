@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.SideMargin property (Word)
 
-Returns or sets the side margin widths (in points) for the specified custom mailing label. Read/write  **Single**.
+Returns or sets the side margin widths (in points) for the specified custom mailing label. Read/write **Single**.
 
 
 ## Syntax

@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Remarks
 
-If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected**, the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **NameSpace.Offline** property returns **False**.
+If the **ExchangeConnectionMode** property is **olOffline** or **olDisconnected**, the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **NameSpace.Offline** property returns **False**.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example marks the items that are sent with high importance for download if the connection mode is 'Connected Headers' and the download state is 'Header Only' in the  **Inbox** folder.
+The following Microsoft Visual Basic for Applications (VBA) example marks the items that are sent with high importance for download if the connection mode is 'Connected Headers' and the download state is 'Header Only' in the **Inbox** folder.
 
 
 ```vb

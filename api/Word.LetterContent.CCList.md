@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.CCList property (Word)
 
-Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write  **String**.
+Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

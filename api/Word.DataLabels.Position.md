@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabels.Position property (Word)
 
-Returns or sets the position of the data labels. Read/write  **[XlDataLabelPosition](Word.xldatalabelposition.md)**.
+Returns or sets the position of the data labels. Read/write **[XlDataLabelPosition](Word.xldatalabelposition.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TemplateId_|Optional|**[PjReportLayoutTemplateId](Project.pjreportlayouttemplateid.md)**|Specifies the kind of report; can be one of the following constants:  **pjReportLayoutComparison**,  **pjReportLayoutTitleAndChart**,  **pjReportLayoutTitleAndTable**, or  **pjReportLayoutTitleOnly**.|
+| _TemplateId_|Optional|**[PjReportLayoutTemplateId](Project.pjreportlayouttemplateid.md)**|Specifies the kind of report; can be one of the following constants: **pjReportLayoutComparison**, **pjReportLayoutTitleAndChart**, **pjReportLayoutTitleAndTable**, or **pjReportLayoutTitleOnly**.|
 | _TemplateId_|Optional|PJREPORTLAYOUTTEMPLATEID||
 
 ## Return value

@@ -39,7 +39,7 @@ A **Selection** object that contains the specified kind of objects that are sele
 
 ## Remarks
 
-The only reason that this method is exposed on the  **AttachmentSelection** object is because the **AttachmentSelection** inherits from the **Selection** object. This method is not intended to be called on the **AttachmentSelection** object.
+The only reason that this method is exposed on the **AttachmentSelection** object is because the **AttachmentSelection** inherits from the **Selection** object. This method is not intended to be called on the **AttachmentSelection** object.
 
 
 ## See also

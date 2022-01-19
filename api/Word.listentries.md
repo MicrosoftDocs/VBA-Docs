@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ListEntries object (Word)
 
-A collection of  **[ListEntry](Word.ListEntry.md)** objects that represent all the items in a drop-down form field.
+A collection of **[ListEntry](Word.ListEntry.md)** objects that represent all the items in a drop-down form field.
 
 
 ## Remarks
@@ -40,7 +40,7 @@ With myField.DropDown.ListEntries
 End With
 ```
 
-Use  **ListEntries** (Index), where Index is the list entry name or the index number, to return a single **ListEntry** object. The index number represents the position of the entry in the drop-down form field (the first item is index number 1). The following example deletes the "Blue" entry from the drop-down form field named "Color."
+Use **ListEntries** (Index), where Index is the list entry name or the index number, to return a single **ListEntry** object. The index number represents the position of the entry in the drop-down form field (the first item is index number 1). The following example deletes the "Blue" entry from the drop-down form field named "Color."
 
 
 

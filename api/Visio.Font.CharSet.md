@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.CharSet property (Visio)
 
-Returns the Microsoft Windows character set for a  **Font** object. Read-only.
+Returns the Microsoft Windows character set for a **Font** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Integer
 
 ## Remarks
 
-The Windows character set specifies character mapping for a font. The possible values of the  **CharSet** property correspond to those of the **lfCharSet** member of the Windows **LOGFONT** data structure. For details, search for " **LOGFONT** " in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
+The Windows character set specifies character mapping for a font. The possible values of the **CharSet** property correspond to those of the **lfCharSet** member of the Windows **LOGFONT** data structure. For details, search for " **LOGFONT** " in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the form field.
+Returns a **Range** object that represents the portion of a document that is contained within the form field.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Window.Hwnd property (Word)
 
-Returns a  **Long** that indicates the window handle of the specified window. Read-only.
+Returns a **Long** that indicates the window handle of the specified window. Read-only.
 
 
 ## Syntax

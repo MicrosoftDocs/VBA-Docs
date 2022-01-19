@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSpatialRelationFlags enumeration (Visio)
 
-Flags passed to various properties of the  **Shape** object, including the **DistanceFrom**, **DistanceFromPoint**, **SpatialNeighbors**, **SpatialRelation**, and **SpatialSearch** properties.
+Flags passed to various properties of the **Shape** object, including the **DistanceFrom**, **DistanceFromPoint**, **SpatialNeighbors**, **SpatialRelation**, and **SpatialSearch** properties.
 
 
 

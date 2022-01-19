@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # FirstLetterExceptions object (Word)
 
-A collection of  **FirstLetterException** objects that represent the abbreviations excluded from automatic correction.
+A collection of **FirstLetterException** objects that represent the abbreviations excluded from automatic correction.
 
 
 ## Remarks
@@ -52,7 +52,7 @@ Use the **Add** method to add an abbreviation to the list of first-letter except
 AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 ```
 
-Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **[FirstLetterException](Word.FirstLetterException.md)** object. The following example deletes the abbreviation "appt." from the **FirstLetterExceptions** collection.
+Use **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **[FirstLetterException](Word.FirstLetterException.md)** object. The following example deletes the abbreviation "appt." from the **FirstLetterExceptions** collection.
 
 
 

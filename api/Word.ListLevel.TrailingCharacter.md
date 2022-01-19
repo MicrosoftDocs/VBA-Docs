@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.TrailingCharacter property (Word)
 
-Returns or sets the character inserted after the number for the specified list level. Read/write  **WdTrailingCharacter**.
+Returns or sets the character inserted after the number for the specified list level. Read/write **WdTrailingCharacter**.
 
 
 ## Syntax

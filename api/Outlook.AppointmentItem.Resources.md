@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.Resources property (Outlook)
 
-Returns a semicolon-delimited  **String** of resource names for the meeting. Read/write.
+Returns a semicolon-delimited **String** of resource names for the meeting. Read/write.
 
 
 ## Syntax

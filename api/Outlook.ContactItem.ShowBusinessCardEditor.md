@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContactItem.ShowBusinessCardEditor method (Outlook)
 
-Displays the electronic business card (EBC) editor dialog box for the  **[ContactItem](Outlook.ContactItem.md)** object.
+Displays the electronic business card (EBC) editor dialog box for the **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ShowBusinessCardEditor`
 
 ## Remarks
 
-Calling this method retrieves the data for the specified  **ContactItem** object and then modally displays that data in the EBC editor dialog box. An error occurs if the data cannot be retrieved.
+Calling this method retrieves the data for the specified **ContactItem** object and then modally displays that data in the EBC editor dialog box. An error occurs if the data cannot be retrieved.
 
 
 ## See also

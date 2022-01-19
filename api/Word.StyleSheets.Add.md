@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheets.Add method (Word)
 
-Returns a  **StyleSheet** object that represents a new style sheet added to a web document.
+Returns a **StyleSheet** object that represents a new style sheet added to a web document.
 
 
 ## Syntax

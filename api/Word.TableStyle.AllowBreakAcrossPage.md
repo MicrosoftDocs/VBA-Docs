@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.AllowBreakAcrossPage property (Word)
 
-Sets or returns a  **Long** indicating whether lines in the rows of tables formatted with a specified style break across pages. Read/write.
+Sets or returns a **Long** indicating whether lines in the rows of tables formatted with a specified style break across pages. Read/write.
 
 
 ## Syntax

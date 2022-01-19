@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Store.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Remarks
 
-The parent of the  **[Store](Outlook.Store.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
+The parent of the **[Store](Outlook.Store.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## See also

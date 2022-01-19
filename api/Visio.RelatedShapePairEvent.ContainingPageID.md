@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RelatedShapePairEvent.ContainingPageID property (Visio)
 
-Returns the identifier of the  **[Page](Visio.Page.md)** object that is associated with the **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object. Read-only.
+Returns the identifier of the **[Page](Visio.Page.md)** object that is associated with the **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object. Read-only.
 
 
 ## Syntax

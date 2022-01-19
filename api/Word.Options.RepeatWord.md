@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.RepeatWord property (Word)
 
-Returns or sets a  **Boolean** that represents whether to mark words that are repeated when spelling is checked. **True** flags repeated words. Read/write.
+Returns or sets a **Boolean** that represents whether to mark words that are repeated when spelling is checked. **True** flags repeated words. Read/write.
 
 
 ## Syntax

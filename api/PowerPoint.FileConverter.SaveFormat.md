@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.SaveFormat property (PowerPoint)
 
-Returns the file format of the specified document or file converter. Read-only  **Long**.
+Returns the file format of the specified document or file converter. Read-only **Long**.
 
 
 ## Syntax

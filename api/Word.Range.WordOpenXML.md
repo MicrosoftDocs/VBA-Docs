@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.WordOpenXML property (Word)
 
-Returns a  **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.
+Returns a **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.
 
 
 ## Syntax

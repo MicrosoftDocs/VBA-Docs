@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Background property (Word)
 
-Returns a  **Shape** object that represents the background image for the specified document. Read-only.
+Returns a **Shape** object that represents the background image for the specified document. Read-only.
 
 
 ## Syntax

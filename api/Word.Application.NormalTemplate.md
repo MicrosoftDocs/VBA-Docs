@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.NormalTemplate property (Word)
 
-Returns a  **[Template](Word.Template.md)** object that represents the Normal template.
+Returns a **[Template](Word.Template.md)** object that represents the Normal template.
 
 
 ## Syntax

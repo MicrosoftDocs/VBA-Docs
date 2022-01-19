@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LegendEntry.Index property (Word)
 
-Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
+Returns the index number of the object within the collection of similar objects. Read-only **Long**.
 
 
 ## Syntax

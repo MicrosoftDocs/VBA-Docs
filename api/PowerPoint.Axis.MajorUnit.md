@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MajorUnit property (PowerPoint)
 
-Returns or sets the major units for the value axis. Read/write  **Double**.
+Returns or sets the major units for the value axis. Read/write **Double**.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting this property sets the  **[MajorUnitIsAuto](PowerPoint.Axis.MajorUnitIsAuto.md)** property to **False**.
+Setting this property sets the **[MajorUnitIsAuto](PowerPoint.Axis.MajorUnitIsAuto.md)** property to **False**.
 
-Use the  **[TickMarkSpacing](PowerPoint.Axis.TickMarkSpacing.md)** property to set tick mark spacing on the category axis.
+Use the **[TickMarkSpacing](PowerPoint.Axis.TickMarkSpacing.md)** property to set tick mark spacing on the category axis.
 
 
 ## Example

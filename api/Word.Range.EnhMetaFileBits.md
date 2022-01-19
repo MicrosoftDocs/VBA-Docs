@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.EnhMetaFileBits property (Word)
 
-Returns a  **Variant** that represents a picture representation of how a range of text appears.
+Returns a **Variant** that represents a picture representation of how a range of text appears.
 
 
 ## Syntax

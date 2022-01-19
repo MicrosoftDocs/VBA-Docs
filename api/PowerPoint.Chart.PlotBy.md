@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.PlotBy property (PowerPoint)
 
-Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long**.
+Returns or sets the way columns or rows are used as data series on the chart. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlRowCol](PowerPoint.XlRowCol.md)** constants:
+The value of this property can be one of the following **[XlRowCol](PowerPoint.XlRowCol.md)** constants:
 
 
 - **xlColumns**
@@ -35,7 +35,7 @@ The value of this property can be one of the following  **[XlRowCol](PowerPoint.
     
 
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns**.
+For PivotChart reports, this property is read-only and always returns **xlColumns**.
 
 
 ## Example

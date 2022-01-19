@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.RequiredAttendees property (Outlook)
 
-Returns a semicolon-delimited  **String** of required attendee names for the meeting appointment. Read/write.
+Returns a semicolon-delimited **String** of required attendee names for the meeting appointment. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property only contains the display names for the required attendees. The attendee list should be set by using the  **[Recipients](Outlook.Recipients.md)** collection.
+This property only contains the display names for the required attendees. The attendee list should be set by using the **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## See also

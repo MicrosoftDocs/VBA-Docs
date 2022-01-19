@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Email property (Word)
 
-Returns an  **[Email](Word.Email.md)** object that contains all the email-related properties of the current document. Read-only.
+Returns an **[Email](Word.Email.md)** object that contains all the email-related properties of the current document. Read-only.
 
 
 ## Syntax

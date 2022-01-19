@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.CreateLetterContent method (Word)
 
-Creates and returns a  **LetterContent** object based on the specified letter elements. **LetterContent** object.
+Creates and returns a **LetterContent** object based on the specified letter elements. **LetterContent** object.
 
 
 ## Syntax

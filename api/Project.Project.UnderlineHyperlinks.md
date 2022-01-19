@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-The default value of  **UnderlineHyperlinks** is **True**. The application default can be set with the **[OptionsEditEx](Project.Application.OptionsEditEx.md)** method.
+The default value of **UnderlineHyperlinks** is **True**. The application default can be set with the **[OptionsEditEx](Project.Application.OptionsEditEx.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

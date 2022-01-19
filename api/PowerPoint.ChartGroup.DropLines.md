@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.DropLines property (PowerPoint)
 
-Returns the drop lines for a series on a line chart or area chart. Read-only  **[DropLines](PowerPoint.DropLines.md)**.
+Returns the drop lines for a series on a line chart or area chart. Read-only **[DropLines](PowerPoint.DropLines.md)**.
 
 
 ## Syntax

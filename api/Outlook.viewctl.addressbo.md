@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.AddressBook Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Address Book** dialog box.
+Displays the Microsoft Outlook **Address Book** dialog box.
 
 
 ## Syntax

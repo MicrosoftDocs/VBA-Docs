@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.ZOrderPosition property (Word)
 
-Returns a  **Long** that represents the position of the specified shape in the z-order. Read-only.
+Returns a **Long** that represents the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax

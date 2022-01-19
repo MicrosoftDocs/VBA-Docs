@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OrderFields.RemoveAll method (Outlook)
 
-Removes all sorting properties from the  **[OrderFields](Outlook.OrderFields.md)** collection.
+Removes all sorting properties from the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax

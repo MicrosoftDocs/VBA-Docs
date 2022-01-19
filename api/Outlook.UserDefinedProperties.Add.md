@@ -32,22 +32,22 @@ _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDe
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new user-defined property.|
 | _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new user-defined property.|
-| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
+| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see [DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
 | _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula**.|
 
 ## Return value
 
-A  **UserDefinedProperty** object that represents the new user-defined property.
+A **UserDefinedProperty** object that represents the new user-defined property.
 
 
 ## Remarks
 
-You can create a property of a type that is defined by the  **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**,  **olOutlookInternal**, and  **olSmartFrom**.
+You can create a property of a type that is defined by the **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**, **olOutlookInternal**, and **olSmartFrom**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **Add** method to create and add several **UserDefinedProperty** objects to the **Inbox** default folder.
+The following Visual Basic for Applications (VBA) example uses the **Add** method to create and add several **UserDefinedProperty** objects to the **Inbox** default folder.
 
 
 ```vb

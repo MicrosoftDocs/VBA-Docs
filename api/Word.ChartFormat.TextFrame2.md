@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.TextFrame2 property (Word)
 
-Returns the text formatting for the specified chart element. Read-only  **TextFrame2**.
+Returns the text formatting for the specified chart element. Read-only **TextFrame2**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Cells property (Word)
 
-Returns a  **Cells** collection that represents the table cells that have been marked with revision marks. Read-only.
+Returns a **Cells** collection that represents the table cells that have been marked with revision marks. Read-only.
 
 
 ## Syntax

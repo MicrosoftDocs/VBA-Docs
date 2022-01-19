@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.ActiveWindow property (Word)
 
-Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). Read-only.
+Returns a **[Window](Word.Window.md)** object that represents the active window (the window with the focus). Read-only.
 
 
 ## Syntax

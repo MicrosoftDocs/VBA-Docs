@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # XlGradientFillType enumeration (Excel)
 
-Specifies the type of  **gradient fill**.
+Specifies the type of **gradient fill**.
 
 
 

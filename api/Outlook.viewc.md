@@ -20,13 +20,13 @@ You can set the control's properties programmatically to customize the folder an
 
 For example, you can place multiple View Controls on an HTML page so that a user can view the contents of more than one folder in a single window. This can be useful in a scenario where you want to display calendar information for more than one user at a time.
 
-To use the  **ViewCtl** object in your code, you must set a reference to the View Control's type library.
+To use the **ViewCtl** object in your code, you must set a reference to the View Control's type library.
 
 To set a reference to the View Control's type library:
 
 
-1. In the Visual Basic for Applications Code Editor, on the  **Tools** menu, click **References**. The **References** command on the **Tools** menu is available only when a **Module** window is open and active in **Design** view.
+1. In the Visual Basic for Applications Code Editor, on the **Tools** menu, click **References**. The **References** command on the **Tools** menu is available only when a **Module** window is open and active in **Design** view.
     
-2. Select the  **Microsoft Outlook View Control** check box.
+2. Select the **Microsoft Outlook View Control** check box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

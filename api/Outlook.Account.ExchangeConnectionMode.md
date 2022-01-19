@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Remarks
 
-This property is similar to the  **[ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectionMode.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the **[ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectionMode.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 
 ## See also

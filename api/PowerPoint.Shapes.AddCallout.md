@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-You can insert a greater variety of callouts by using the  **[AddShape](PowerPoint.Shapes.AddShape.md)** method.
+You can insert a greater variety of callouts by using the **[AddShape](PowerPoint.Shapes.AddShape.md)** method.
 
 
 ## Example

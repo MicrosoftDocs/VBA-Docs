@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.RemainingWork property (Project)
 
-Gets or sets the remaining work (in minutes) for the assignment. Read/write  **Variant**.
+Gets or sets the remaining work (in minutes) for the assignment. Read/write **Variant**.
 
 
 ## Syntax

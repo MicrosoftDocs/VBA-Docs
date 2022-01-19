@@ -66,7 +66,7 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Rotate** method to rotate a selection 45 degrees relative to the center of the selection.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Rotate** method to rotate a selection 45 degrees relative to the center of the selection.
 
 
 ```vb

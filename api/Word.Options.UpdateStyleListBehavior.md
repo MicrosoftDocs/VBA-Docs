@@ -26,7 +26,7 @@ _expression_. `UpdateStyleListBehavior`
 
 ## Remarks
 
-Setting this property has the same effect as selecting an item in the dropdown list in the Word **Options** dialog (**Advanced** tab, **Editing options**,  **Updating style to match selection:**.
+Setting this property has the same effect as selecting an item in the dropdown list in the Word **Options** dialog (**Advanced** tab, **Editing options**, **Updating style to match selection:**.
 
 
 ## See also

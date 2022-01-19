@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.ShapeStyle property (Project)
-Gets or sets the style of the shape. Read/write  **[MsoShapeStyleIndex](https://msdn.microsoft.com/library/office/ff862067%28v=office.15%29)**.
+Gets or sets the style of the shape. Read/write **[MsoShapeStyleIndex](https://msdn.microsoft.com/library/office/ff862067%28v=office.15%29)**.
 
 ## Syntax
 

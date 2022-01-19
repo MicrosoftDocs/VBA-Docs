@@ -40,9 +40,9 @@ _expression_.**ShapeLinkDeleted** (_Shape_, _DataRecordsetID_, _DataRowID_)
 
 ## Remarks
 
-The  **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
+The **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
 
-When the  **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
+When the **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
 
  `/DataRecordsetID = n /DataRowID = m`
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisCellIndices enumeration (Visio)
 
-Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.md)** or **[Style](Visio.Style.md)** objects.
+Specifies logical indices of cells in ShapeSheet rows of **[Shape](Visio.Shape.md)** or **[Style](Visio.Style.md)** objects.
 
 
 

@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Validation](Visio.Validation.md)** 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Issues** property to get an object that represents the collection of all the validation issues in the document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Issues** property to get an object that represents the collection of all the validation issues in the document.
 
 
 ```vb

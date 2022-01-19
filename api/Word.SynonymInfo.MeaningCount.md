@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SynonymInfo.MeaningCount property (Word)
 
-Returns the number of entries in the list of meanings found in the thesaurus for the word or phrase. Returns 0 (zero) if no meanings were found. Read-only  **Long**.
+Returns the number of entries in the list of meanings found in the thesaurus for the word or phrase. Returns 0 (zero) if no meanings were found. Read-only **Long**.
 
 
 ## Syntax

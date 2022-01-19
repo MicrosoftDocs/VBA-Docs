@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 The contents of the clipboard are pasted in unformatted text.
 
-This method does not paste anything when the control's  **[Style](Outlook.OlkComboBox.Style.md)** is **olComboBoxStyleListBox**.
+This method does not paste anything when the control's **[Style](Outlook.OlkComboBox.Style.md)** is **olComboBoxStyleListBox**.
 
 
 ## See also

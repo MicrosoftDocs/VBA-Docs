@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.OtherPagesTray property (Word)
 
-Returns or sets the paper tray to be used for all but the first page of a document or section. Read/write  **WdPaperTray**.
+Returns or sets the paper tray to be used for all but the first page of a document or section. Read/write **WdPaperTray**.
 
 
 ## Syntax

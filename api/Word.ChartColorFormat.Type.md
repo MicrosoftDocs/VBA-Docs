@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartColorFormat.Type property (Word)
 
-Returns the color format type. Read-only  **Long**.
+Returns the color format type. Read-only **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartColorFormat](Word.ChartColorFor
 
 ## Remarks
 
-This property returns one of the following  **[MsoColorType](Office.MsoColorType.md)** constants:
+This property returns one of the following **[MsoColorType](Office.MsoColorType.md)** constants:
 
 
 - **msoColorTypeRGB**

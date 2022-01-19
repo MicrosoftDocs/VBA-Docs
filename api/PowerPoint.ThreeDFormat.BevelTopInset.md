@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.BevelTopInset property (PowerPoint)
 
-Returns or sets the top bevel inset for the specified  **ThreeDFormat** object, in points. Read/write.
+Returns or sets the top bevel inset for the specified **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.Height property (Word)
 
-Returns a  **Long** that represents the height of a rectangle, in pixels.
+Returns a **Long** that represents the height of a rectangle, in pixels.
 
 
 ## Syntax

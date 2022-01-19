@@ -14,7 +14,7 @@ This topic describes how to store private application data in solution storage p
 
 1. Determine the folder where you would like to store your application data. 
     
-   **Note** Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
+  **Note** Because solution storage is created as hidden items in a folder, you can only store solution data if the store provider supports hidden items and the client has rights to write to that folder.
 2. Use **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to obtain either an existing **[StorageItem](../../../api/Outlook.StorageItem.md)** object or a new **StorageItem** object if one does not already exist.
     
 3. Use **[StorageItem.Size](../../../api/Outlook.StorageItem.Size.md)** to determine if the **StorageItem** is new. If it is, then use the **[Add](../../../api/Outlook.UserProperties.Add.md)** method of **[StorageItem.UserProperties](../../../api/Outlook.StorageItem.UserProperties.md)** to create a custom property **Order Number**.

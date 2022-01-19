@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStop.Alignment property (Word)
 
-Returns or sets a  **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.
+Returns or sets a **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.
 
 
 ## Syntax

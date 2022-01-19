@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PasteFormatWithinDocument property (Word)
 
-Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied or cut and then pasted in the same document. Read/write.
+Returns or sets a **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied or cut and then pasted in the same document. Read/write.
 
 
 ## Syntax

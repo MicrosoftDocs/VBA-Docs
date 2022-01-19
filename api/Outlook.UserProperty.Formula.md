@@ -26,7 +26,7 @@ _expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Formula** property.
+The following Visual Basic for Applications (VBA) example shows how to use the **Formula** property.
 
 
 ```vb

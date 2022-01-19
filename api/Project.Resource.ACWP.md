@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.ACWP property (Project)
 
-Gets the actual cost of work performed for the resource. Read-only  **Variant**.
+Gets the actual cost of work performed for the resource. Read-only **Variant**.
 
 
 ## Syntax

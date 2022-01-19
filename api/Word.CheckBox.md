@@ -19,7 +19,7 @@ Represents a single check box form field.
 
 ## Remarks
 
-Use  **FormFields** (Index), where Index is index number or the bookmark name associated with the check box, to return a single **[FormField](Word.FormField.md)** object. Use the **[CheckBox](Word.FormField.CheckBox.md)** property with the **FormField** object to return a **CheckBox** object. The following example selects the check box form field named "Check1" in the active document.
+Use **FormFields** (Index), where Index is index number or the bookmark name associated with the check box, to return a single **[FormField](Word.FormField.md)** object. Use the **[CheckBox](Word.FormField.CheckBox.md)** property with the **FormField** object to return a **CheckBox** object. The following example selects the check box form field named "Check1" in the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Title property (Word)
 
-Returns or sets a  **String** that contains a title for the specified inline shape. Read/write.
+Returns or sets a **String** that contains a title for the specified inline shape. Read/write.
 
 
 ## Syntax

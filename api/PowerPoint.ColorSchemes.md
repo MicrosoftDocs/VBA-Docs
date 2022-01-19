@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # ColorSchemes object (PowerPoint)
 
-A collection of all the  **[ColorScheme](PowerPoint.ColorScheme.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
+A collection of all the **[ColorScheme](PowerPoint.ColorScheme.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
 
 
 ## Example
 
-Use the [ColorSchemes](PowerPoint.Presentation.ColorSchemes.md)property to return the  **ColorSchemes** collection. Use **ColorSchemes** (_index_), where _index_ is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
+Use the [ColorSchemes](PowerPoint.Presentation.ColorSchemes.md)property to return the **ColorSchemes** collection. Use **ColorSchemes** (_index_), where _index_ is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
 
 
 ```vb
 ActivePresentation.ColorSchemes(2).Delete
 ```
 
-Use the [Add](PowerPoint.ColorSchemes.Add.md)method to create a new color scheme and add it to the  **ColorSchemes** collection. The following example adds a color scheme to the active presentation and sets the title color and background color for the color scheme (because no argument was used with the **Add** method, the added color scheme is initially identical to the first standard color scheme in the presentation).
+Use the [Add](PowerPoint.ColorSchemes.Add.md)method to create a new color scheme and add it to the **ColorSchemes** collection. The following example adds a color scheme to the active presentation and sets the title color and background color for the color scheme (because no argument was used with the **Add** method, the added color scheme is initially identical to the first standard color scheme in the presentation).
 
 
 

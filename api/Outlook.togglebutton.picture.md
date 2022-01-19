@@ -21,12 +21,12 @@ _expression_ A variable that represents a **ToggleButton** object.
 
 ## Remarks
 
-You must use the control's property page to assign a bitmap to the  **Picture** property. You cannot use the Visual Basic **LoadPicture** function to assign a bitmap to **Picture**.
+You must use the control's property page to assign a bitmap to the **Picture** property. You cannot use the Visual Basic **LoadPicture** function to assign a bitmap to **Picture**.
 
-To remove a picture that is assigned to a control, click the value of the  **Picture** property in the property page and then press **DELETE**. Pressing  **BACKSPACE** will not remove the picture.
+To remove a picture that is assigned to a control, click the value of the **Picture** property in the property page and then press **DELETE**. Pressing **BACKSPACE** will not remove the picture.
 
-For controls with captions, use the  **[PicturePosition](Outlook.togglebutton.pictureposition.md)** property to specify where to display the picture on the object.
+For controls with captions, use the **[PicturePosition](Outlook.togglebutton.pictureposition.md)** property to specify where to display the picture on the object.
 
-Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
+Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images. **[Image](Outlook.image.md)** supports opaque images.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

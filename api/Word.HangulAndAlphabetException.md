@@ -19,7 +19,7 @@ Represents a single Hangul or alphabet AutoCorrect exception. The **HangulAndAlp
 
 ## Remarks
 
-Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alphabet AutoCorrect exception name or the index number, to return a single **HangulAndAlphabetException** object. The following example deletes the alphabet AutoCorrect exception named "hello."
+Use **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alphabet AutoCorrect exception name or the index number, to return a single **HangulAndAlphabetException** object. The following example deletes the alphabet AutoCorrect exception named "hello."
 
 
 ```vb

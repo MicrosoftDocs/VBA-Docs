@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.OpenSheetWindow method (Visio)
 
-Opens a ShapeSheet window for a  **Shape** object.
+Opens a ShapeSheet window for a **Shape** object.
 
 
 ## Syntax
@@ -31,12 +31,12 @@ Window
 
 ## Remarks
 
-The  **OpenSheetWindow** method opens a new ShapeSheet window for the shape even if the information is already displayed in another window.
+The **OpenSheetWindow** method opens a new ShapeSheet window for the shape even if the information is already displayed in another window.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **OpenSheetWindow** method to open the ShapeSheet window of a **Shape** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **OpenSheetWindow** method to open the ShapeSheet window of a **Shape** object.
 
 
 ```vb

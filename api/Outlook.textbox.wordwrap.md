@@ -23,6 +23,6 @@ _expression_ A variable that represents a **TextBox** object.
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-For controls that support the  **[MultiLine](Outlook.textbox.multiline.md)** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
+For controls that support the **[MultiLine](Outlook.textbox.multiline.md)** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

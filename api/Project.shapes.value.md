@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shapes.Value property (Project)
-Gets an individual  **Shape** object in the **Shapes** collection. Read-only **Shape**.
+Gets an individual **Shape** object in the **Shapes** collection. Read-only **Shape**.
 
 ## Syntax
 
@@ -43,7 +43,7 @@ If you leave off the **Shapes** property, the following statement is effectively
 ? ActiveProject.Reports("Table Tests").Shapes(1).Name
 ```
 
- **Shapes.Item** acts like **Shapes.Value**, except  **Item** is a method:
+ **Shapes.Item** acts like **Shapes.Value**, except **Item** is a method:
 
 
 

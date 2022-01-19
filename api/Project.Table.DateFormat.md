@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.DateFormat property (Project)
 
-Gets or sets the date format of the table. Read/write  **PjDateFormat**.
+Gets or sets the date format of the table. Read/write **PjDateFormat**.
 
 
 ## Syntax

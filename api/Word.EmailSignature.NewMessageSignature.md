@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignature.NewMessageSignature property (Word)
 
-Returns or sets the signature that Microsoft Word appends to new email messages. Read/write  **String**.
+Returns or sets the signature that Microsoft Word appends to new email messages. Read/write **String**.
 
 
 ## Syntax

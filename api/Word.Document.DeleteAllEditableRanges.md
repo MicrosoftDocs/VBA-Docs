@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users. If omitted, no permissions are deleted from a document.|
+| _EditorID_|Optional| **Variant**|Can be either a **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users. If omitted, no permissions are deleted from a document.|
 
 ## Remarks
 

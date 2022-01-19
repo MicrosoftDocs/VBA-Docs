@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Years.Item property (Project)
 
-Gets a single  **Year** object from the **Years** collection. Read-only **Year**.
+Gets a single **Year** object from the **Years** collection. Read-only **Year**.
 
 
 ## Syntax

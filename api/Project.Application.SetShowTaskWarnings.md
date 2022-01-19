@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SetShowTaskWarnings method (Project)
 
-Sets the global  **Show Warnings** option for tasks.
+Sets the global **Show Warnings** option for tasks.
 
 
 ## Syntax

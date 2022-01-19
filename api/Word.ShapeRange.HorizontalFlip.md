@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.HorizontalFlip property (Word)
 
-Indicates that a range of shapes has been flipped horizontally. Read-only  **MsoTriState**.
+Indicates that a range of shapes has been flipped horizontally. Read-only **MsoTriState**.
 
 
 ## Syntax

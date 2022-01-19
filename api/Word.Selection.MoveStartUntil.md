@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-This method returns the number of characters by which the start position of the specified selection moved, as a  **Long** value. If Count is greater than 0 (zero), this method returns the number of characters moved plus 1. If Count is less than 0 (zero), this method returns the number of characters moved minus 1. If no Cset characters are found, the specified selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a point beyond the end position, the selection is collapsed and both the start and end positions are moved together.
+This method returns the number of characters by which the start position of the specified selection moved, as a **Long** value. If Count is greater than 0 (zero), this method returns the number of characters moved plus 1. If Count is less than 0 (zero), this method returns the number of characters moved minus 1. If no Cset characters are found, the specified selection isn't changed and the method returns 0 (zero). If the start position is moved forward to a point beyond the end position, the selection is collapsed and both the start and end positions are moved together.
 
 
 ## Example

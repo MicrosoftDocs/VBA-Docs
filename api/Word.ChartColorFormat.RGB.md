@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartColorFormat.RGB property (Word)
 
-Returns the red-green-blue value of the specified color. Read-only  **Long**.
+Returns the red-green-blue value of the specified color. Read-only **Long**.
 
 
 ## Syntax

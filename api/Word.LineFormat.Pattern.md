@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.Pattern property (Word)
 
-Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType**.
+Returns or sets a value that represents the pattern applied to the specified line. Read/write **MsoPatternType**.
 
 
 ## Syntax

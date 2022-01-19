@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Width property (Word)
 
-Returns or sets the width of the specified document window, in points. Read/write  **Long**.
+Returns or sets the width of the specified document window, in points. Read/write **Long**.
 
 
 ## Syntax

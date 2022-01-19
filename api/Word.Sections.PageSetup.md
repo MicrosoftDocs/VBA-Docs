@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sections.PageSetup property (Word)
 
-Returns a  **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
+Returns a **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
 
 
 ## Syntax

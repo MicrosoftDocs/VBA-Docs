@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisExistsFlags enumeration (Visio)
 
-Flags to be passed to the  **Shape.SectionExists** property and similar properties.
+Flags to be passed to the **Shape.SectionExists** property and similar properties.
 
 
 

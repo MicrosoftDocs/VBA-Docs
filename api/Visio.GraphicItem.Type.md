@@ -31,7 +31,7 @@ VisGraphicItemTypes
 
 ## Remarks
 
-The following possible values for the  **Type** property are from the **VisGraphicItemTypes** enumeration. which is declared in the Visio type library. These values correspond to the graphic item types listed in the **New Item** list in the **New Data Graphic** and **Edit Data Graphic** dialog boxes in the Microsoft Visio user interface.
+The following possible values for the **Type** property are from the **VisGraphicItemTypes** enumeration. which is declared in the Visio type library. These values correspond to the graphic item types listed in the **New Item** list in the **New Data Graphic** and **Edit Data Graphic** dialog boxes in the Microsoft Visio user interface.
 
 
 |Constant|Value|Description|

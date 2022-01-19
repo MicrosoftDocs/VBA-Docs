@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.TextRange2 property (PowerPoint)
 
-Returns the  **TextRange2** object of the current **Selection** object. Read-only.
+Returns the **TextRange2** object of the current **Selection** object. Read-only.
 
 
 ## Syntax

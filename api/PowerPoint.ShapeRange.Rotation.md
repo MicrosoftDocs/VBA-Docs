@@ -33,7 +33,7 @@ Single
 
 A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation.
 
-To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the  **[RotationX](PowerPoint.ThreeDFormat.RotationX.md)** property or the **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property of the **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object.
+To set the rotation of a three-dimensional shape around the x-axis or the y-axis, use the **[RotationX](PowerPoint.ThreeDFormat.RotationX.md)** property or the **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property of the **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object.
 
 
 ## Example

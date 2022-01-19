@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.LanguageDesignation property (Word)
 
-Returns the designated language of the system software. Read-only  **String**.
+Returns the designated language of the system software. Read-only **String**.
 
 
 ## Syntax

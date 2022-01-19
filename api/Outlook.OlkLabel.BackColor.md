@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkLabel](Outlook.OlkLabel.md) objec
 
 ## Remarks
 
-This property is of the type  **OLE_COLOR** which is a **Long** value. The default value for this property is 0x8000000F, "Button Face."
+This property is of the type **OLE_COLOR** which is a **Long** value. The default value for this property is 0x8000000F, "Button Face."
 
 
 ## See also

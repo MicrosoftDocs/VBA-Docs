@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBorderBox.HideLeft property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the left border of an equation's bounding box. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the left border of an equation's bounding box. Read/write.
 
 
 ## Syntax

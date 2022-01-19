@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.RecalcFlags property (Project)
 
-Gets a bit mask, flagging one or more conditions that are driving the task. Read-only  **Long**.
+Gets a bit mask, flagging one or more conditions that are driving the task. Read-only **Long**.
 
 
 ## Syntax

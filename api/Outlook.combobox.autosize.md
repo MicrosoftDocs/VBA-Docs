@@ -23,8 +23,8 @@ _expression_ A variable that represents a **ComboBox** object.
 
  **True** to automatically resize the control to display its entire contents. **False** to keep the size of the control constant; contents are clipped when they exceed the area of the control (default).
 
-For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a **[ComboBox](Outlook.combobox.md)**, for example, setting  **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
+For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a **[ComboBox](Outlook.combobox.md)**, for example, setting **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
 
-If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
+If you manually change the size of a control while **AutoSize** is **True**, the manual change overrides the size previously set by **AutoSize**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

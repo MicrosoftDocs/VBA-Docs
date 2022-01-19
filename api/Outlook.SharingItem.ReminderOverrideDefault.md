@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.SharingItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.SharingItem.ReminderSoundFile.md)** properties.
+You must set the **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.SharingItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.SharingItem.ReminderSoundFile.md)** properties.
 
 
 ## See also

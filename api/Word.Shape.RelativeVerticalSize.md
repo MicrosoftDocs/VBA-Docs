@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.RelativeVerticalSize property (Word)
 
-Returns or sets a  **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the relative vertical size of a shape. Read/write.
+Returns or sets a **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the relative vertical size of a shape. Read/write.
 
 
 ## Syntax

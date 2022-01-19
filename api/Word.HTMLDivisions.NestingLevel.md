@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivisions.NestingLevel property (Word)
 
-Returns the nesting level of the specified HTML DIV elements. Read-only  **Long**.
+Returns the nesting level of the specified HTML DIV elements. Read-only **Long**.
 
 
 ## Syntax

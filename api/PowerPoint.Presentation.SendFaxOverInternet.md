@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 
 ## Remarks
 
-Using the  **SendFaxOverInternet** method requires that the fax service be enabled on a user's computer.
+Using the **SendFaxOverInternet** method requires that the fax service be enabled on a user's computer.
 
 The format used for specifying fax numbers in the Recipients parameter is either _recipientsfaxnumber_ @ _usersfaxprovider_ or _recipientsname_ @ _recipientsfaxnumber_. You can access the user's fax provider information by using the following registry path:
 

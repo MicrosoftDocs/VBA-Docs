@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DurationText property (Project)
 
-Gets or sets a string representation of the task duration. Read/write  **String**.
+Gets or sets a string representation of the task duration. Read/write **String**.
 
 
 ## Syntax

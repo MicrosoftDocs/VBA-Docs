@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.BaselineDurationEstimated property (Project)
 
-Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant**.
+Gets or sets the baseline duration (in minutes) of a task. Read/write **Variant**.
 
 
 ## Syntax

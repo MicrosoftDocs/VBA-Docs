@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.ColumnStripe property (Word)
 
-Returns or sets a  **Long** that represents the number of columns in the banding when a style specifies odd- or even-column banding. Read/write.
+Returns or sets a **Long** that represents the number of columns in the banding when a style specifies odd- or even-column banding. Read/write.
 
 
 ## Syntax

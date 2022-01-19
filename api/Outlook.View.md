@@ -32,18 +32,18 @@ The **View** object allows you to create customizable views that allow you to be
     
 - The timeline view type (**olTimelineView**) allows you to view data as it is received in a customizable linear time line.
     
-Views are defined and customized using the  **View** object's **[XML](Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
+Views are defined and customized using the **View** object's **[XML](Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
 
-Use  **Views** (_index_), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
+Use **Views** (_index_), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
 
-Use the  **[Add](Outlook.Views.Add.md)** method of the **Views** collection to create a new view.
+Use the **[Add](Outlook.Views.Add.md)** method of the **Views** collection to create a new view.
 
-Always use  **[Save](Outlook.View.Save.md)** to save a view after you change any property of the view.
+Always use **[Save](Outlook.View.Save.md)** to save a view after you change any property of the view.
 
 
 ## Example
 
-The following example returns a view called Table View and stores it in a variable of type  **View** called objView. Before running this example, make sure a view by the name 'Table View' exists.
+The following example returns a view called Table View and stores it in a variable of type **View** called objView. Before running this example, make sure a view by the name 'Table View' exists.
 
 
 ```vb
@@ -70,7 +70,7 @@ Sub GetView()
 End Sub
 ```
 
-The following example creates a new view of type  **olTableView** called New Table.
+The following example creates a new view of type **olTableView** called New Table.
 
 
 

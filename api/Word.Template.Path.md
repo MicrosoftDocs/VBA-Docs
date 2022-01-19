@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.Path property (Word)
 
-Returns the path to the specified document template. Read-only  **String**.
+Returns the path to the specified document template. Read-only **String**.
 
 
 ## Syntax

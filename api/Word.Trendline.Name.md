@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Name property (Word)
 
-Returns or sets name of the object. Read/write  **String**.
+Returns or sets name of the object. Read/write **String**.
 
 
 ## Syntax

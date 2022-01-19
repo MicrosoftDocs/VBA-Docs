@@ -59,7 +59,7 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 ## Example
 
-This VBA macro shows how to capture the  **QueryCancelSuspend** event and allow the operating system to suspend. Declare a **WithEvents** variable to capture events fired by the **Application** object.
+This VBA macro shows how to capture the **QueryCancelSuspend** event and allow the operating system to suspend. Declare a **WithEvents** variable to capture events fired by the **Application** object.
 
 
 ```vb

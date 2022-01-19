@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.JustificationMode property (Word)
 
-Returns or sets the character spacing adjustment for the specified document. Read/write  **[WdJustificationMode](Word.WdJustificationMode.md)**.
+Returns or sets the character spacing adjustment for the specified document. Read/write **[WdJustificationMode](Word.WdJustificationMode.md)**.
 
 
 ## Syntax

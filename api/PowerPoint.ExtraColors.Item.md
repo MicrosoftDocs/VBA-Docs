@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExtraColors.Item method (PowerPoint)
 
-Returns a single color from the specified  **ExtraColors** collection.
+Returns a single color from the specified **ExtraColors** collection.
 
 
 ## Syntax

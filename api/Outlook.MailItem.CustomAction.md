@@ -40,7 +40,7 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CustomAction** event to set the **Subject** property on the response item. Execute the `AddAction` procedure before executing the `Initialize_Handler` to create an item with a custom event called 'Link Original'.
+This Visual Basic for Applications (VBA) example uses the **CustomAction** event to set the **Subject** property on the response item. Execute the `AddAction` procedure before executing the `Initialize_Handler` to create an item with a custom event called 'Link Original'.
 
 
 ```vb

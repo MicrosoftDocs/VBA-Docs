@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoFormatRules.Save method (Outlook)
 
-Save all changes to  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects within the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
+Save all changes to **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects within the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Remarks
 
-Any changes made to the  **AutoFormatRules** collection, such as adding or removing **AutoFormatRule** objects, or to an **AutoFormatRule** object within the collection, are persisted only if this method is called.
+Any changes made to the **AutoFormatRules** collection, such as adding or removing **AutoFormatRule** objects, or to an **AutoFormatRule** object within the collection, are persisted only if this method is called.
 
 
 ## See also

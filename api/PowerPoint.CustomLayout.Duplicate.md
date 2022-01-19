@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLayout.Duplicate method (PowerPoint)
 
-Creates a duplicate of the specified custom layout, adds the new custom layout to the  **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection immediately after the original custom layout, and returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the duplicate layout.
+Creates a duplicate of the specified custom layout, adds the new custom layout to the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection immediately after the original custom layout, and returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents the duplicate layout.
 
 
 ## Syntax

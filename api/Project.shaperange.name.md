@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Name property (Project)
-Gets or sets the name of the shape range. Read/write  **String**.
+Gets or sets the name of the shape range. Read/write **String**.
 
 ## Syntax
 

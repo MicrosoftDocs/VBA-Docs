@@ -101,7 +101,7 @@ Sub FlipShape()
 End Sub
 ```
 
-Figure 1 shows the result, where the shape is selected to make the ribbon  **FORMAT** tab under **DRAWING TOOLS** available, although the active tab is **DESIGN** under **REPORT TOOLS**. If the shape were not selected,  **DRAWING TOOLS** and the **FORMAT** tab would not be visible.
+Figure 1 shows the result, where the shape is selected to make the ribbon **FORMAT** tab under **DRAWING TOOLS** available, although the active tab is **DESIGN** under **REPORT TOOLS**. If the shape were not selected, **DRAWING TOOLS** and the **FORMAT** tab would not be visible.
  
 
  

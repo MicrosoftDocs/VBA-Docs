@@ -35,6 +35,6 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of  **Left** must be greater than or equal to zero.
+The value of **Left** must be greater than or equal to zero.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

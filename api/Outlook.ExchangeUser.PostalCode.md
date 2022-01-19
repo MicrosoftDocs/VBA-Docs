@@ -26,9 +26,9 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagPostalCode**.
+This property corresponds to the MAPI property, **PidTagPostalCode**.
 
-Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeUser** object.
+Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 
 
 ## See also

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisProtection enumeration (Visio)
 
-Flags to be passed to or returned by the  **Document.Protection** property.
+Flags to be passed to or returned by the **Document.Protection** property.
 
 
 

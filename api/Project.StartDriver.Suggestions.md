@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # StartDriver.Suggestions property (Project)
 
-Gets a combination of  **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are potential problems that should be fixed for a specified task. Read-only **Long**.
+Gets a combination of **[PjTaskWarnings](Project.PjTaskWarnings.md)** values that indicate whether there are potential problems that should be fixed for a specified task. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_. `Suggestions`
 
 ## Remarks
 
-If there are no suggestions for a task, the value of  **Suggestions** is 0. Because the value of **pjTaskWarningsResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningsResourceOverallocated** is 128, if **Suggestions** is 192, the task has both of the potential problems.
+If there are no suggestions for a task, the value of **Suggestions** is 0. Because the value of **pjTaskWarningsResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningsResourceOverallocated** is 128, if **Suggestions** is 192, the task has both of the potential problems.
 
 
 > [!NOTE] 

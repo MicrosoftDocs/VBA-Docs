@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.PrivateProfileString property (Word)
 
-Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write  **String**.
+Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write **String**.
 
 
 ## Syntax

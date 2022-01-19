@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlDefaultExpandCollapseSetting enumeration (Outlook)
 
-Specifies the expand/collapse default value specified in the  **[DefaultExpandCollapseSetting](Outlook.TableView.DefaultExpandCollapseSetting.md)** property of the **[TableView](Outlook.TableView.md)** and **[TimelineView](Outlook.TimelineView.md)** objects.
+Specifies the expand/collapse default value specified in the **[DefaultExpandCollapseSetting](Outlook.TableView.DefaultExpandCollapseSetting.md)** property of the **[TableView](Outlook.TableView.md)** and **[TimelineView](Outlook.TimelineView.md)** objects.
 
 
 

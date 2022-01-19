@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting the  **[MajorUnit](PowerPoint.Axis.MajorUnit.md)** property sets this property to **False**.
+Setting the **[MajorUnit](PowerPoint.Axis.MajorUnit.md)** property sets this property to **False**.
 
 
 ## Example

@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelQuit** after the user has directed the instance to terminate.
+A Visio instance fires **QueryCancelQuit** after the user has directed the instance to terminate.
 
 
 

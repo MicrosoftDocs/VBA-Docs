@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.LanguageDetected property (Word)
 
-Returns or sets a value that specifies whether Microsoft Word has detected the language of the specified text. Read/write  **Boolean**.
+Returns or sets a value that specifies whether Microsoft Word has detected the language of the specified text. Read/write **Boolean**.
 
 
 ## Syntax

@@ -50,7 +50,7 @@ Using the **FilePageSetupCalendarText** method without any arguments displays th
 
 
 > [!NOTE] 
->  **FilePageSetupCalendarText** works only for printing calendar views.
+> **FilePageSetupCalendarText** works only for printing calendar views.
 
 To format calendar text where  _Color_ can be a hexadecimal RGB value, use the **[FilePageSetupCalendarTextEx](Project.Application.FilePageSetupCalendarTextEx.md)** method.
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.ID property (Project)
 
-Gets the identification number of a project. Read-only  **Long**.
+Gets the identification number of a project. Read-only **Long**.
 
 
 ## Syntax

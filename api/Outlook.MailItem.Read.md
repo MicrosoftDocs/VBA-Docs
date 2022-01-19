@@ -28,7 +28,7 @@ The **Read** event differs from the **[Open](Outlook.MailItem.Open.md)** event i
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Read** event to increment a counter that tracks how often an item is read.
+This Visual Basic for Applications (VBA) example uses the **Read** event to increment a counter that tracks how often an item is read.
 
 
 ```vb

@@ -30,14 +30,14 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 |:-----|:-----|:-----|:-----|
 | _Background_|Optional| **Variant**|Set to **True** to have the macro continue while Microsoft Word prints the document.|
 | _Append_|Optional| **Variant**|Set to **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|
-| _Range_|Optional| **Variant**|The page range. Can be any  **WdPrintOutRange** constant.|
+| _Range_|Optional| **Variant**|The page range. Can be any **WdPrintOutRange** constant.|
 | _OutputFileName_|Optional| **Variant**|If PrintToFile is **True**, this argument specifies the path and file name of the output file.|
-| _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo**.|
-| _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo**.|
-| _Item_|Optional| **Variant**|The item to be printed. Can be any  **WdPrintOutItem** constant.|
+| _From_|Optional| **Variant**|The starting page number when Range is set to **wdPrintFromTo**.|
+| _To_|Optional| **Variant**|The ending page number when Range is set to **wdPrintFromTo**.|
+| _Item_|Optional| **Variant**|The item to be printed. Can be any **WdPrintOutItem** constant.|
 | _Copies_|Optional| **Variant**|The number of copies to be printed.|
 | _Pages_|Optional| **Variant**|The page numbers and page ranges to be printed, separated by commas. For example, "2, 6-10" prints page 2 and pages 6 through 10.|
-| _PageType_|Optional| **Variant**|The type of pages to be printed. Can be any  **WdPrintOutPages** constant.|
+| _PageType_|Optional| **Variant**|The type of pages to be printed. Can be any **WdPrintOutPages** constant.|
 | _PrintToFile_|Optional| **Variant**| **True** to send printer instructions to a file. Make sure to specify a file name with OutputFileName.|
 | _Collate_|Optional| **Variant**|When printing multiple copies of a document, **True** to print all pages of the document before printing the next copy.|
 | _FileName_|Optional| **Variant**|The path and file name of the document to be printed. If this argument is omitted, Word prints the active document. (Available only with the **Application** object.)|

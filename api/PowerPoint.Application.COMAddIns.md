@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.COMAddIns property (PowerPoint)
 
-Returns a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft PowerPoint. These add-ins are listed on the  **Add-Ins** tab in the **PowerPoint Options** dialog box. Read-only.
+Returns a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft PowerPoint. These add-ins are listed on the **Add-Ins** tab in the **PowerPoint Options** dialog box. Read-only.
 
 
 ## Syntax

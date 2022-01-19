@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Index.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within an index.
+Returns a **Range** object that represents the portion of a document that is contained within an index.
 
 
 ## Syntax

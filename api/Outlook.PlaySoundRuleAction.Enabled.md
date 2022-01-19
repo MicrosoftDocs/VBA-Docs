@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PlaySoundRuleAction](Outlook.PlaySoun
 
 ## Remarks
 
-After you enable a rule, you must also save the rule by using  **[Rules.Save](Outlook.Rules.Save.md)** so that the rule and its enabled state will persist beyond the current session. A rule is only enabled after it has been saved successfully.
+After you enable a rule, you must also save the rule by using **[Rules.Save](Outlook.Rules.Save.md)** so that the rule and its enabled state will persist beyond the current session. A rule is only enabled after it has been saved successfully.
 
 
 ## See also

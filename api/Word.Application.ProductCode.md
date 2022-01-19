@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ProductCode method (Word)
 
-Returns the Microsoft Word globally unique identifier (GUID) as a  **String**.
+Returns the Microsoft Word globally unique identifier (GUID) as a **String**.
 
 
 ## Syntax

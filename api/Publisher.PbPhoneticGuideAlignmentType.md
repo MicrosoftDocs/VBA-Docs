@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbPhoneticGuideAlignmentType enumeration (Publisher)
 
-Constants passed to the  **[Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
+Constants passed to the **[Fields.AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)** method that specify the alignment of the added phonetic text.
 
 <br/>
 

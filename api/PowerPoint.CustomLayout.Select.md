@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLayout.Select method (PowerPoint)
 
-Selects the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object.
+Selects the specified **[CustomLayout](PowerPoint.CustomLayout.md)** object.
 
 
 ## Syntax

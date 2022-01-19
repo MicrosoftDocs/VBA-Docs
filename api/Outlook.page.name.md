@@ -24,10 +24,10 @@ _expression_ A variable that represents a **Page** object.
 
 ## Remarks
 
-Guidelines for assigning a string to  **Name**, such as the maximum length of the name, vary from one application to another.
+Guidelines for assigning a string to **Name**, such as the maximum length of the name, vary from one application to another.
 
-For objects, the default value of  **Name** consists of the object's class name followed by an integer. For example, the default name for the first **[TextBox](Outlook.textbox.md)** you place on a form is TextBox1. The default name for the second **TextBox** is TextBox2.
+For objects, the default value of **Name** consists of the object's class name followed by an integer. For example, the default name for the first **[TextBox](Outlook.textbox.md)** you place on a form is TextBox1. The default name for the second **TextBox** is TextBox2.
 
-You can set the  **Name** property for a control from the control's property sheet or, for controls added at run time, by using program statements. If you add a control at design time, you cannot modify its **Name** property at run time.
+You can set the **Name** property for a control from the control's property sheet or, for controls added at run time, by using program statements. If you add a control at design time, you cannot modify its **Name** property at run time.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

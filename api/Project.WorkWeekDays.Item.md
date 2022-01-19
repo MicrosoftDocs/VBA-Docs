@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WorkWeekDays.Item property (Project)
 
-Gets a single  **WorkWeekDay** object from the **WorkWeekDays** collection. Read-only **WorkWeekDay**.
+Gets a single **WorkWeekDay** object from the **WorkWeekDays** collection. Read-only **WorkWeekDay**.
 
 
 ## Syntax

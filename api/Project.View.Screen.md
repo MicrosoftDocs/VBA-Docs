@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # View.Screen property (Project)
 
-Gets the screen type for the view. Read-only  **PjViewScreen**.
+Gets the screen type for the view. Read-only **PjViewScreen**.
 
 
 ## Syntax

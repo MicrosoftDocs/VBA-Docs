@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Kana property (Word)
 
-Returns or sets whether the specified range of Japanese language text is hiragana or katakana. Read/write  **WdKana**.
+Returns or sets whether the specified range of Japanese language text is hiragana or katakana. Read/write **WdKana**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-This property returns  **wdUndefined** if the range contains a mix of hiragana and katakana or if the range contains some non-Japanese text. If you set the **Kana** property to **wdUndefined**, an error occurs.
+This property returns **wdUndefined** if the range contains a mix of hiragana and katakana or if the range contains some non-Japanese text. If you set the **Kana** property to **wdUndefined**, an error occurs.
 
 
 ## Example

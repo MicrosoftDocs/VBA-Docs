@@ -36,7 +36,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 Actions which trigger this event would include actions such as modifying a slide's or slide master's color scheme, or applying a template.
 
-To access the  **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+To access the **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

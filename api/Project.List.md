@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # List object (Project)
 
-Represents a collection of strings or numbers that contain field identification numbers, field names, reports, resource filters, resource tables, resource views, task filters, task tables, task views, or views. (There is no collection for  **List** objects.) It can be accessed through the **List** properties of the appropriate objects.
+Represents a collection of strings or numbers that contain field identification numbers, field names, reports, resource filters, resource tables, resource views, task filters, task tables, task views, or views. (There is no collection for **List** objects.) It can be accessed through the **List** properties of the appropriate objects.
 
 
 ## Example

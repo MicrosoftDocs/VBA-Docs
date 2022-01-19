@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheet.Title property (Word)
 
-Returns or sets a  **String** representing the title of a Web style sheet. Read/write.
+Returns or sets a **String** representing the title of a Web style sheet. Read/write.
 
 
 ## Syntax

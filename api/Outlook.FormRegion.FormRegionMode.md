@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Sent](Outlook.MailItem.Sent.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
+If the user has a mail item in the Reading Pane, you can use the **[MailItem.Sent](Outlook.MailItem.Sent.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
 
 
 ## See also

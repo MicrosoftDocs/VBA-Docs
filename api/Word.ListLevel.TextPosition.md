@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.TextPosition property (Word)
 
-Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel** object. Read/write **Single**.
+Returns or sets the position (in points) for the second line of wrapping text for the specified **ListLevel** object. Read/write **Single**.
 
 
 ## Syntax

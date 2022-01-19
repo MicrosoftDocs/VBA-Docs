@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.AxisTitle property (PowerPoint)
 
-Returns the title of the specified axis. Read-only  **[AxisTitle](PowerPoint.AxisTitle.md)**.
+Returns the title of the specified axis. Read-only **[AxisTitle](PowerPoint.AxisTitle.md)**.
 
 
 ## Syntax

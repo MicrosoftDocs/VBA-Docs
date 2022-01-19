@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.ID property (Word)
 
-Returns the identification type for the specified shape. Read-only  **Long**.
+Returns the identification type for the specified shape. Read-only **Long**.
 
 
 ## Syntax

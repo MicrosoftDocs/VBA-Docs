@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.FieldName property (Project)
 
-Gets the column title of the field in the active cell. If the title does not exist, then the field name is returned. Read-only  **String**.
+Gets the column title of the field in the active cell. If the title does not exist, then the field name is returned. Read-only **String**.
 
 
 ## Syntax

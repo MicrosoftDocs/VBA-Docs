@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.KeysBoundTo property (Word)
 
-Returns a  **KeysBoundTo** object that represents all the key combinations assigned to the specified item.
+Returns a **KeysBoundTo** object that represents all the key combinations assigned to the specified item.
 
 
 ## Syntax

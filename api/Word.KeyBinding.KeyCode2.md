@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBinding.KeyCode2 property (Word)
 
-Returns a unique number for the second key in the specified key binding. Read-only  **Long**.
+Returns a unique number for the second key in the specified key binding. Read-only **Long**.
 
 
 ## Syntax

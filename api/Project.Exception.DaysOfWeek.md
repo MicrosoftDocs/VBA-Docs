@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.DaysOfWeek property (Project)
 
-Gets or sets the bit mask used for calendar exceptions of type  **pjWeekly**, indicating the days on which the exception occurs. Read/write **Long**.
+Gets or sets the bit mask used for calendar exceptions of type **pjWeekly**, indicating the days on which the exception occurs. Read/write **Long**.
 
 
 ## Syntax

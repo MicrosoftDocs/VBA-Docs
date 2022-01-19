@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideRange.ColorScheme property (PowerPoint)
 
-Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
+Returns or sets the **[ColorScheme](PowerPoint.ColorScheme.md)** object that represents the scheme colors for the specified slide, slide range, or slide master. Read/write.
 
 
 ## Syntax

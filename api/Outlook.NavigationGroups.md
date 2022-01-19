@@ -14,16 +14,16 @@ ms.localizationpriority: medium
 
 # NavigationGroups object (Outlook)
 
-Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the navigation pane.
+Contains a set of **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the navigation pane.
 
 
 ## Remarks
 
-Use the  **[NavigationGroups](Outlook.MailModule.NavigationGroups.md)** property of the parent navigation module, such as a **[MailModule](Outlook.MailModule.md)** object, to return a **NavigationGroups** object.
+Use the **[NavigationGroups](Outlook.MailModule.NavigationGroups.md)** property of the parent navigation module, such as a **[MailModule](Outlook.MailModule.md)** object, to return a **NavigationGroups** object.
 
-Use the  **[Create](Outlook.NavigationGroups.Create.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](Outlook.NavigationGroups.Item.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](Outlook.NavigationGroups.Delete.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
+Use the **[Create](Outlook.NavigationGroups.Create.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](Outlook.NavigationGroups.Item.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](Outlook.NavigationGroups.Delete.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
 
-Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** to return the default navigation group for a specified group type.
+Use the **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** to return the default navigation group for a specified group type.
 
 
 ## Events

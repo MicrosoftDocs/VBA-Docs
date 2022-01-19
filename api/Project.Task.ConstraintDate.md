@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ConstraintDate property (Project)
 
-Gets or sets a constraint date for a task. Read/write  **Variant**.
+Gets or sets a constraint date for a task. Read/write **Variant**.
 
 
 ## Syntax

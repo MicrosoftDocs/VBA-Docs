@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.ScrPre property (Word)
 
-Returns an  **[OMathScrPre](Word.OMathScrPre.md)** object that represents a superscript and subscript to the left of the base. Read-only.
+Returns an **[OMathScrPre](Word.OMathScrPre.md)** object that represents a superscript and subscript to the left of the base. Read-only.
 
 
 ## Syntax

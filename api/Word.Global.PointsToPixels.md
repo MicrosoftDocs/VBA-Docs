@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.PointsToPixels method (Word)
 
-Converts a measurement from points to pixels. Returns the converted measurement as a  **Single**.
+Converts a measurement from points to pixels. Returns the converted measurement as a **Single**.
 
 
 ## Syntax

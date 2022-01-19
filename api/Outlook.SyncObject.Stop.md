@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SyncObject.Stop method (Outlook)
 
-Immediately ends synchronizing a user's folders using the specified  **Send/Receive** group.
+Immediately ends synchronizing a user's folders using the specified **Send/Receive** group.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ This method does not undo any synchronization that has already occurred.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays all the  **Send/Receive** groups set up for the user and starts the synchronization based on the user's response. The subroutine following the one below immediately stops the synchronization. The `syc` variable is declared as a public variable so it can be referenced by both the subroutines.
+This Microsoft Visual Basic for Applications (VBA) example displays all the **Send/Receive** groups set up for the user and starts the synchronization based on the user's response. The subroutine following the one below immediately stops the synchronization. The `syc` variable is declared as a public variable so it can be referenced by both the subroutines.
 
 
 ```vb

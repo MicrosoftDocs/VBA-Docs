@@ -31,6 +31,6 @@ String
 
 ## Remarks
 
-Setting the  **UserName** property is equivalent to entering a name in the **Name** box on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **UserName** property is equivalent to entering a name in the **Name** box on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

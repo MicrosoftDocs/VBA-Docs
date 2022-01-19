@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Subdocument.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained within the subdocument.
+Returns a **Range** object that represents the portion of a document that's contained within the subdocument.
 
 
 ## Syntax

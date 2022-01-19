@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.
 
 ## Remarks
 
-This property doesn't affect the order of  **Bookmark** objects in the **Bookmarks** collection.
+This property doesn't affect the order of **Bookmark** objects in the **Bookmarks** collection.
 
 
 ## Example

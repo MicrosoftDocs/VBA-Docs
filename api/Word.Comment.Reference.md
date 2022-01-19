@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.Reference property (Word)
 
-Returns a  **Range** object that represents a reference mark for a comment.
+Returns a **Range** object that represents a reference mark for a comment.
 
 
 ## Syntax

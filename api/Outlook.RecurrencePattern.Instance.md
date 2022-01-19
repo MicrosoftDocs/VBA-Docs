@@ -26,7 +26,7 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 ## Remarks
 
-This property is only valid for recurrences of the  **olRecursMonthNth** and **olRecursYearNth** type and allows the definition of a recurrence pattern that is only valid for the Nth occurrence, such as "the 2nd Sunday in March" pattern. The count is set numerically: 1 for the first, 2 for the second, and so on through 5 for the last. Values greater than 5 will generate errors when the pattern is saved.
+This property is only valid for recurrences of the **olRecursMonthNth** and **olRecursYearNth** type and allows the definition of a recurrence pattern that is only valid for the Nth occurrence, such as "the 2nd Sunday in March" pattern. The count is set numerically: 1 for the first, 2 for the second, and so on through 5 for the last. Values greater than 5 will generate errors when the pattern is saved.
 
 
 ## See also

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateContr
 
 ## Remarks
 
-The default value of the  **Text** property is the empty string.
+The default value of the **Text** property is the empty string.
 
 The **Text** property provides the same value as the **[Value](Outlook.OlkDateControl.Value.md)** property, but the value is strongly typed as a **String**.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comments.ShowBy property (Word)
 
-Returns or sets the name of the reviewer whose comments are shown in the comments pane. Read/write  **String**.
+Returns or sets the name of the reviewer whose comments are shown in the comments pane. Read/write **String**.
 
 
 ## Syntax

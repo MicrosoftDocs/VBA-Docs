@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _fUndo_|Optional|**Integer**|Specifies the number of actions to undo. If the total number of actions is less than fUndo,  **EditUndo** undoes all actions.|
+| _fUndo_|Optional|**Integer**|Specifies the number of actions to undo. If the total number of actions is less than fUndo, **EditUndo** undoes all actions.|
 
 ## Return value
 

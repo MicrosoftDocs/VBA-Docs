@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # View.RevisionsFilter property (Word)
 
-Returns an instance of a  **RevisionsFilter** object. Read-only.
+Returns an instance of a **RevisionsFilter** object. Read-only.
 
 
 ## Syntax

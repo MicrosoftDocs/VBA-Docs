@@ -96,7 +96,7 @@ To create and design a form region, you will use the Forms Designer in much the 
    4. Pick and click the text box control to add it from the Toolbox to the form region as shown in Figure 9.
    5. Right-click the text box control, click **Properties**. On the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Frequent Flyer Number**, as in Figure 9. Then click **OK**.
 
-  **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
+ **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
 
    ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field selected to bind it to the text box control.](../../../images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
 
@@ -105,13 +105,13 @@ To create and design a form region, you will use the Forms Designer in much the 
    1. Pick and click the check box control to add it from the Toolbox to the form region as shown in Figure 10.
    2. Right-click the check box control, click **Properties**. On the **Display** tab, type **Vegetarian?** as the **Caption**, as in Figure 10. 
     
-   **Figure 10. Specify a caption for the check box control.**
+  **Figure 10. Specify a caption for the check box control.**
 
    ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](../../../images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
 
    3. Click the **Value** tab, click **Choose Field**. Point to **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in Figure 11. Then click **OK**. 
     
-   **Figure 11. Bind the Vegetarian field to the check box control.**
+  **Figure 11. Bind the Vegetarian field to the check box control.**
 
    ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](../../../images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.DisplayAutoCorrectOptions property (PowerPoint)
 
-Determines whether Microsoft PowerPoint should display the  **AutoCorrect Options** button. Read/write.
+Determines whether Microsoft PowerPoint should display the **AutoCorrect Options** button. Read/write.
 
 
 ## Syntax
@@ -31,18 +31,18 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **DisplayAutoCorrectOptions** property can be one of these **MsoTriState** constants.
+The value of the **DisplayAutoCorrectOptions** property can be one of these **MsoTriState** constants.
 
 
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|Do not display the  **AutoCorrect Options** button.|
+|**msoFalse**|Do not display the **AutoCorrect Options** button.|
 |**msoTrue**| Display the **AutoCorrect Options** button.|
 
 ## Example
 
-This example disables display of the  **AutoCorrect Options** and **AutoLayout Options** buttons.
+This example disables display of the **AutoCorrect Options** and **AutoLayout Options** buttons.
 
 
 ```vb

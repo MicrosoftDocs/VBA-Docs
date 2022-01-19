@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.Count property (Word)
 
-Returns a  **Long** that represents the number of paragraphs in the collection. Read-only.
+Returns a **Long** that represents the number of paragraphs in the collection. Read-only.
 
 
 ## Syntax

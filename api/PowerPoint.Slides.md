@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Slides object (PowerPoint)
 
-A collection of all the  **[Slide](PowerPoint.Slide.md)** objects in the specified presentation.
+A collection of all the **[Slide](PowerPoint.Slide.md)** objects in the specified presentation.
 
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
 - **Microsoft.Office.Interop.PowerPoint.Slides.GetEnumerator** (to enumerate the **Slide** objects.)
@@ -45,7 +45,7 @@ Use the [Slides](PowerPoint.Presentation.Slides.md) property to return a **Slide
 ActivePresentation.Slides.Add 2, ppLayoutBlank
 ```
 
-Use  **Slides** (_index_), where _index_ is the slide name or index number, or use the **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
+Use **Slides** (_index_), where _index_ is the slide name or index number, or use the **Slides.FindBySlideID** (_index_), where _index_ is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 
 
@@ -63,7 +63,7 @@ The following example sets the layout for the slide named "Big Chart" in the act
 ActivePresentation.Slides("Big Chart").Layout = ppLayoutTitle
 ```
 
-Use  **Slides.Range** (_index_), where _index_ is the slide index number or name or an array of slide index numbers or an array of slide names, to return a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the **Slides** collection. The following example sets the background fill for slides one and three in the active presentation.
+Use **Slides.Range** (_index_), where _index_ is the slide index number or name or an array of slide index numbers or an array of slide names, to return a **[SlideRange](PowerPoint.SlideRange.md)** object that represents a subset of the **Slides** collection. The following example sets the background fill for slides one and three in the active presentation.
 
 
 
@@ -76,7 +76,7 @@ With ActivePresentation.Slides.Range(Array(1, 3))
 End With
 ```
 
-If you want to do something to all the slides in your presentation at the same time (such as delete all of them or set a property for all of them), use  **Slides.Range** with no argument to construct a **SlideRange** collection that contains all the slides in the **Slides** collection, and then apply the appropriate property or method to the **SlideRange** collection. The following example sets the background fill for all the slides in the active presentation
+If you want to do something to all the slides in your presentation at the same time (such as delete all of them or set a property for all of them), use **Slides.Range** with no argument to construct a **SlideRange** collection that contains all the slides in the **Slides** collection, and then apply the appropriate property or method to the **SlideRange** collection. The following example sets the background fill for all the slides in the active presentation
 
 
 

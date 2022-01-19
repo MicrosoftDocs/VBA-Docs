@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisLayoutVertAlignType enumeration (Visio)
 
-Specifies constants that define the different ways to incrementally align a shape vertically; passed to the  **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
+Specifies constants that define the different ways to incrementally align a shape vertically; passed to the **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
 
 
 

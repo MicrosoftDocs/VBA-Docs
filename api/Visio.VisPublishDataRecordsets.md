@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisPublishDataRecordsets enumeration (Visio)
 
-Specifies constants that define which data recordsets to publish; passed to the  **[ServerPublishOptions.SetRecordsetsToPublish](Visio.ServerPublishOptions.SetRecordsetsToPublish.md)** method and returned by the **[ServerPublishOptions.GetRecordsetsToPublish](Visio.ServerPublishOptions.GetRecordsetsToPublish.md)** method.
+Specifies constants that define which data recordsets to publish; passed to the **[ServerPublishOptions.SetRecordsetsToPublish](Visio.ServerPublishOptions.SetRecordsetsToPublish.md)** method and returned by the **[ServerPublishOptions.GetRecordsetsToPublish](Visio.ServerPublishOptions.GetRecordsetsToPublish.md)** method.
 
 
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Save_|Optional|**Long**|Can be one of the following  **PjSave** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
+| _Save_|Optional|**Long**|Can be one of the following **PjSave** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
 | _NoAuto_|Optional|**Boolean**|**True** if an **Auto_Close** macro is not run and the **Close** event is not raised. The default value is **False**.|
 | _CheckIn_|Optional|**Variant**|**True** if file is checked in after closing. The default value is **False**.|
 

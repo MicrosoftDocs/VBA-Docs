@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMatCol.Align property (Word)
 
-Returns or sets a  **[WdOMathHorizAlignType](Word.WdOMathHorizAlignType.md)** constant that represents the horizontal alignment for arguments in a matrix column. Read/write.
+Returns or sets a **[WdOMathHorizAlignType](Word.WdOMathHorizAlignType.md)** constant that represents the horizontal alignment for arguments in a matrix column. Read/write.
 
 
 ## Syntax

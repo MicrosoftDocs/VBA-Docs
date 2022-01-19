@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.XMLShowAdvancedErrors property (Word)
 
-Returns or sets a  **Boolean** that represents whether error message text is generated from the built-in Microsoft Word error messages or from the Microsoft XML Core Services (MSXML) 5.0 component included with Office.
+Returns or sets a **Boolean** that represents whether error message text is generated from the built-in Microsoft Word error messages or from the Microsoft XML Core Services (MSXML) 5.0 component included with Office.
 
 
 ## Syntax

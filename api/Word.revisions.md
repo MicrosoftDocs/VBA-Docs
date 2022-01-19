@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Revisions object (Word)
 
-A collection of  **[Revision](Word.Revision.md)** objects that represent the changes marked with revision marks in a range or document.
+A collection of **[Revision](Word.Revision.md)** objects that represent the changes marked with revision marks in a range or document.
 
 
 ## Remarks
@@ -52,7 +52,7 @@ ActiveDocument.TrackRevisions = True
 Selection.InsertBefore "The "
 ```
 
-Use  **Revisions** (Index), where Index is the index number, to return a single **Revision** object. The index number represents the position of the revision in the range or document. The following code example displays the author name for the first revision in the first section.
+Use **Revisions** (Index), where Index is the index number, to return a single **Revision** object. The index number represents the position of the revision in the range or document. The following code example displays the author name for the first revision in the first section.
 
 
 

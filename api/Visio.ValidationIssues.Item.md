@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssues.Item property (Visio)
 
-Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that has the specified name or index position. The **Item** property is the default property for all collections. Read-only.
+Returns the **[ValidationIssue](Visio.ValidationIssue.md)** object that has the specified name or index position. The **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ _expression_ A variable that represents a **[ValidationIssues](Visio.ValidationI
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression, because it is the default property for all collections.
+When retrieving objects from a collection, you can omit **Item** from the expression, because it is the default property for all collections.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

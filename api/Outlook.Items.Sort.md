@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the  **UserDefinedProperties** collection for **[Items.Parent](Outlook.Items.Parent.md)**, which represents the **[Folder](Outlook.Folder.md)** object that contains the items.|
+| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the **UserDefinedProperties** collection for **[Items.Parent](Outlook.Items.Parent.md)**, which represents the **[Folder](Outlook.Folder.md)** object that contains the items.|
 | _Descending_|Optional| **Variant**| **True** to sort in descending order. The default value is **False** (ascending).|
 
 ## Remarks
@@ -53,7 +53,7 @@ _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **Sort** method to sort the **[Items](Outlook.Items.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
+The following Visual Basic for Applications (VBA) example uses the **Sort** method to sort the **[Items](Outlook.Items.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
 
 
 ```vb

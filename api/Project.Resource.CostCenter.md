@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.CostCenter property (Project)
 
-Sets or gets the identifier for the unit or organization that tracks costs for the resource. Read/write  **String**.
+Sets or gets the identifier for the unit or organization that tracks costs for the resource. Read/write **String**.
 
 
 ## Syntax

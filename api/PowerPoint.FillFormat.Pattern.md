@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.m
 
 ## Remarks
 
-Use the  **[BackColor](PowerPoint.FillFormat.BackColor.md)** and **[ForeColor](PowerPoint.FillFormat.ForeColor.md)** properties to set the colors used in the pattern.
+Use the **[BackColor](PowerPoint.FillFormat.BackColor.md)** and **[ForeColor](PowerPoint.FillFormat.ForeColor.md)** properties to set the colors used in the pattern.
 
 
 ## Example

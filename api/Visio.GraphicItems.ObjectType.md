@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItems.ObjectType property (Visio)
 
-Returns  **visObjTypeGraphicItems**, the type of a **GraphicItems** object. Read-only.
+Returns **visObjTypeGraphicItems**, the type of a **GraphicItems** object. Read-only.
 
 
 > [!NOTE] 
@@ -35,6 +35,6 @@ VisObjectTypes
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

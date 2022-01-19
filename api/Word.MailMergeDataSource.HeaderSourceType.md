@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.HeaderSourceType property (Word)
 
-Returns a value that indicates the way the header source is being supplied for the mail merge operation. Read-only  **WdMailMergeDataSource**.
+Returns a value that indicates the way the header source is being supplied for the mail merge operation. Read-only **WdMailMergeDataSource**.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 ## Remarks
 
-Objects that can contain  **Group** objects are **Groups**, **ResourceGroups**, and **TaskGroups**.
+Objects that can contain **Group** objects are **Groups**, **ResourceGroups**, and **TaskGroups**.
 
 The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 

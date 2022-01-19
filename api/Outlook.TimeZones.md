@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # TimeZones object (Outlook)
 
-A collection of  **[TimeZone](Outlook.TimeZone.md)** objects.
+A collection of **[TimeZone](Outlook.TimeZone.md)** objects.
 
 
 ## Remarks
 
-This collection is read-only, and serves the purpose of enumerating time zones supported by Windows and thus Outlook. Its value is accessible through the property  **[Application.TimeZones](Outlook.Application.TimeZones.md)** and is based on the data stored in the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones.
+This collection is read-only, and serves the purpose of enumerating time zones supported by Windows and thus Outlook. Its value is accessible through the property **[Application.TimeZones](Outlook.Application.TimeZones.md)** and is based on the data stored in the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones.
 
 
 ## Methods

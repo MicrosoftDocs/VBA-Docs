@@ -26,12 +26,12 @@ _expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md
 
 ## Remarks
 
-The validation formula is used by Outlook to validate the  **[Value](Outlook.UserProperty.Value.md)** property when an item is saved.
+The validation formula is used by Outlook to validate the **[Value](Outlook.UserProperty.Value.md)** property when an item is saved.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example demonstrates the use of  **ValidationText** and **ValidationFormula** properties.
+The following Visual Basic for Applications (VBA) example demonstrates the use of **ValidationText** and **ValidationFormula** properties.
 
 
 ```vb

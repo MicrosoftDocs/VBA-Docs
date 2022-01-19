@@ -39,11 +39,11 @@ _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
 ## Remarks
 
-If  **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the **Info** tab, and then click **Manage Global Template**.
+If **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the **Info** tab, and then click **Manage Global Template**.
 
 
 > [!NOTE] 
-> If  **AutoSaveToGlobal** successfully runs, it always returns **True**.
+> If **AutoSaveToGlobal** successfully runs, it always returns **True**.
 
 To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pane of the VBE, and then create and save a view. For example, do the following:
 
@@ -56,9 +56,9 @@ To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pan
     
 4. In the **Using Resource** dialog box, select R2 for the task filter.
     
-5. In the **Resource Views** group, click **Other Views**, and then click  **Save View**. For example, save the view with the name  **R2 View Test**.
+5. In the **Resource Views** group, click **Other Views**, and then click **Save View**. For example, save the view with the name **R2 View Test**.
     
-6. Click  **Other Views** again, and then click **More Views**. The **Views** list contains the view you saved.
+6. Click **Other Views** again, and then click **More Views**. The **Views** list contains the view you saved.
     
 7. In the **More Views** dialog box, click **Organizer**. Scroll through the **Global (+ non-cached Enterprise)** list to see that **R2 View Test** was automatically added to the global template.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.StartAt property (Word)
 
-Returns or sets the starting number for the specified  **ListLevel** object. Read/write **Long**.
+Returns or sets the starting number for the specified **ListLevel** object. Read/write **Long**.
 
 
 ## Syntax

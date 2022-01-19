@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.Type property (Word)
 
-Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)**.
+Returns the field type. Read-only **[WdFieldType](Word.WdFieldType.md)**.
 
 
 ## Syntax

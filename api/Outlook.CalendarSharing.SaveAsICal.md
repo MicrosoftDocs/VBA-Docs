@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalendarSharing.SaveAsICal method (Outlook)
 
-Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as an iCalendar calendar (.ics) file.
+Exports calendar information from the parent **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as an iCalendar calendar (.ics) file.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_. `SaveAsICal`( `_Path_` )
 
 ## Remarks
 
-The level of detail provided in the iCalendar file is determined by a combination of values in the following  **CalendarSharing** properties:
+The level of detail provided in the iCalendar file is determined by a combination of values in the following **CalendarSharing** properties:
 
 
 - **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)**
@@ -45,7 +45,7 @@ The level of detail provided in the iCalendar file is determined by a combinatio
     
 - **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)**
     
-You can set the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
+You can set the **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
 
 
 ## Example

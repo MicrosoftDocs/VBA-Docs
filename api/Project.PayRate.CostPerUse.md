@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PayRate.CostPerUse property (Project)
 
-Gets or sets the cost per use for the pay rate. Read/write  **Variant**.
+Gets or sets the cost per use for the pay rate. Read/write **Variant**.
 
 
 ## Syntax

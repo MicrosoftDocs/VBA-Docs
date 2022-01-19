@@ -30,8 +30,8 @@ _expression_ A variable that represents a [Rules](Outlook.Rules.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|A string identifier for the rule, which will be represented by  **[Rule.Name](Outlook.Rule.Name.md)** after rule creation. Names of rules in a collection are not unique.|
-| _RuleType_|Required| **[OlRuleType](Outlook.OlRuleType.md)**|A constant in the  **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
+| _Name_|Required| **String**|A string identifier for the rule, which will be represented by **[Rule.Name](Outlook.Rule.Name.md)** after rule creation. Names of rules in a collection are not unique.|
+| _RuleType_|Required| **[OlRuleType](Outlook.OlRuleType.md)**|A constant in the **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
 
 ## Return value
 
@@ -42,12 +42,12 @@ A **Rule** object that represents the newly created rule.
 
 The  _RuleType_ parameter of the added rule determines valid rule actions, rule conditions, and rule exception conditions that can be associated with the **Rule** object.
 
-When a rule is added to the collection, the  **[Rule.ExecutionOrder](Outlook.Rule.ExecutionOrder.md)** of the new rule is 1. The **ExecutionOrder** of other rules in the collection is incremented by 1.
+When a rule is added to the collection, the **[Rule.ExecutionOrder](Outlook.Rule.ExecutionOrder.md)** of the new rule is 1. The **ExecutionOrder** of other rules in the collection is incremented by 1.
 
 
 ## Example
 
-The following code sample in Visual Basic for Applications (VBA) uses the Rules object model to create a rule. The code sample uses the  **[RuleAction](Outlook.RuleAction.md)** and **[RuleCondition](Outlook.RuleCondition.md)** objects to specify a rule that forwards messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder "Dan" under the Inbox.
+The following code sample in Visual Basic for Applications (VBA) uses the Rules object model to create a rule. The code sample uses the **[RuleAction](Outlook.RuleAction.md)** and **[RuleCondition](Outlook.RuleCondition.md)** objects to specify a rule that forwards messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder "Dan" under the Inbox.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListFormat.ListType property (Word)
 
-Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType**.
+Returns the type of lists that are contained in the range for the specified **ListFormat** object. Read-only **WdListType**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[ListFormat](Word.ListForma
 
 ## Remarks
 
-The constant  **wdListListNumOnly** refers to LISTNUM fields, which are fields that can be added within the text of a paragraph.
+The constant **wdListListNumOnly** refers to LISTNUM fields, which are fields that can be added within the text of a paragraph.
 
 
 ## Example

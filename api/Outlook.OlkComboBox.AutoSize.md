@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
  The default value for this property is **False**.
 
-Setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the combo box. This behavior is similar to the single-line text box.
+Setting **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the combo box. This behavior is similar to the single-line text box.
 
 
 ## See also

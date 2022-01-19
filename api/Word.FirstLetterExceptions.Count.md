@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FirstLetterExceptions.Count property (Word)
 
-Returns a  **Long** that represents the number of first letter exceptions in the collection. Read-only.
+Returns a **Long** that represents the number of first letter exceptions in the collection. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.XMLMapping property (Word)
 
-Returns an  **[XMLMapping](Word.XMLMapping.md)** object that represents the mapping of a content control to XML data in the data store of a document. Read-only.
+Returns an **[XMLMapping](Word.XMLMapping.md)** object that represents the mapping of a content control to XML data in the data store of a document. Read-only.
 
 
 ## Syntax

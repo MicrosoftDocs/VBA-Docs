@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.Path property (Word)
 
-Returns the disk or Web path to the specified object. Read-only  **String**.
+Returns the disk or Web path to the specified object. Read-only **String**.
 
 
 ## Syntax

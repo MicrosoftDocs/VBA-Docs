@@ -19,9 +19,9 @@ Represents a mail message.
 
 ## Remarks
 
-Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **MailItem** object that represents a new mail message.
+Use the **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **MailItem** object that represents a new mail message.
 
-Use the  **[Folder.Items](Outlook.Folder.Items.md)** property to obtain an **[Items](Outlook.Items.md)** collection representing the mail items in a folder, and the **[Items.Item](Outlook.Items.Item.md)** (_index_) method, where _index_ is the index number of a mail message or a value used to match the default property of a message, to return a single **MailItem** object from the specified folder.
+Use the **[Folder.Items](Outlook.Folder.Items.md)** property to obtain an **[Items](Outlook.Items.md)** collection representing the mail items in a folder, and the **[Items.Item](Outlook.Items.Item.md)** (_index_) method, where _index_ is the index number of a mail message or a value used to match the default property of a message, to return a single **MailItem** object from the specified folder.
 
 
 ## Example

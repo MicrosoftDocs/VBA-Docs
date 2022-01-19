@@ -33,7 +33,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the close operation isn't completed and the inspector is left open.
 
-If you use the  **[Close](Outlook.ContactItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
+If you use the **[Close](Outlook.ContactItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
 >[!NOTE]
 > In C#, there is no ContactItem.Close event, only [Close](https://docs.microsoft.com/office/vba/api/outlook.contactitem.close(method)).

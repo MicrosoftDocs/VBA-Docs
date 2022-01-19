@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.DisableFeaturesIntroducedAfter property (Word)
 
-Disables all features introduced after a specified version of Microsoft Word in the document only. Read/write  **WdDisableFeaturesIntroducedAfter**.
+Disables all features introduced after a specified version of Microsoft Word in the document only. Read/write **WdDisableFeaturesIntroducedAfter**.
 
 
 ## Syntax

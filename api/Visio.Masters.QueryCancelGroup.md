@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
+A Microsoft Visio instance fires **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
 
 
 

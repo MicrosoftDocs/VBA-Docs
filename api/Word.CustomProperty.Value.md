@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomProperty.Value property (Word)
 
-Returns or sets the value of a custom property. Read/write  **String**.
+Returns or sets the value of a custom property. Read/write **String**.
 
 
 ## Syntax

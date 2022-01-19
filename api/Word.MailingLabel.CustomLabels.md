@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailingLabel.CustomLabels property (Word)
 
-Returns a  **[CustomLabels](Word.customlabels.md)** collection that represents the available custom mailing labels. Read-only.
+Returns a **[CustomLabels](Word.customlabels.md)** collection that represents the available custom mailing labels. Read-only.
 
 
 ## Syntax

@@ -35,21 +35,21 @@ Identifies the navigation module type of a **[NavigationModule](Outlook.Navigati
 This enumeration is used by the [NavigationModule.NavigationModuleType property (Outlook)](Outlook.NavigationModule.NavigationModuleType.md) for the following objects to identify the type of navigation module:
 
 
-1.  **CalendarModule**
+1. **CalendarModule**
     
-2.  **ContactsModule**
+2. **ContactsModule**
     
-3.  **JournalModule**
+3. **JournalModule**
     
-4.  **MailModule**
+4. **MailModule**
     
-5.  **Module**
+5. **Module**
     
-6.  **NotesModule**
+6. **NotesModule**
     
-7.  **SolutionsModule**
+7. **SolutionsModule**
     
-8.  **TasksModule**
+8. **TasksModule**
     
 The enumeration is also used by the [NavigationModules.GetNavigationModule method (Outlook)](Outlook.NavigationModules.GetNavigationModule.md) to identify the navigation module type of the **NavigationModule** to retrieve.
 

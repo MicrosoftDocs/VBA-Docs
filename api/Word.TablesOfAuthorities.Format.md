@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfAuthorities.Format property (Word)
 
-Returns or sets the formatting for the tables of authorities in the specified document. Read/write  **WdToaFormat**.
+Returns or sets the formatting for the tables of authorities in the specified document. Read/write **WdToaFormat**.
 
 
 ## Syntax

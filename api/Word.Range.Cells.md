@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Cells property (Word)
 
-Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a range. Read-only.
+Returns a **[Cells](Word.cells.md)** collection that represents the table cells in a range. Read-only.
 
 
 ## Syntax

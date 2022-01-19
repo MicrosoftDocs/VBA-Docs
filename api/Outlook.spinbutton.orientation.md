@@ -21,7 +21,7 @@ _expression_ A variable that represents a **SpinButton** object.
 
 ## Remarks
 
-The settings for  **Orientation** are:
+The settings for **Orientation** are:
 
 
 

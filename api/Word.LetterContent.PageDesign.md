@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.PageDesign property (Word)
 
-Returns or sets the name of the template attached to the document created by the Letter Wizard. Read/write  **String**.
+Returns or sets the name of the template attached to the document created by the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

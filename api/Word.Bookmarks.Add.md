@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bookmarks.Add method (Word)
 
-Returns a  **Bookmark** object that represents a bookmark added to a range.
+Returns a **Bookmark** object that represents a bookmark added to a range.
 
 
 ## Syntax

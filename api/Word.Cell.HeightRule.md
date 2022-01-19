@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.HeightRule property (Word)
 
-Returns or sets a  **WdRowHeightRule** constant that represents the rule for determining the height of the specified cells or rows. Read/write.
+Returns or sets a **WdRowHeightRule** constant that represents the rule for determining the height of the specified cells or rows. Read/write.
 
 
 ## Syntax

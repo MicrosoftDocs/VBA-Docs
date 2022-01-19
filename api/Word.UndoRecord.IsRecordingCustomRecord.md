@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UndoRecord.IsRecordingCustomRecord property (Word)
 
-Returns a  **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
+Returns a **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
 
 
 ## Syntax

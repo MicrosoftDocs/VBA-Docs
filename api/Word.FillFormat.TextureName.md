@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.TextureName property (Word)
 
-Returns the name of the custom texture file for the specified fill. Read-only  **String**.
+Returns the name of the custom texture file for the specified fill. Read-only **String**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ MsoWarpFormat
 
 ## Remarks
 
-The value of the  **WarpFormat** property can be one of the **[MsoWarpFormat](Office.MsoWarpFormat.md)** constants.
+The value of the **WarpFormat** property can be one of the **[MsoWarpFormat](Office.MsoWarpFormat.md)** constants.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartTitle property (Word)
 
-Returns the title of the specified chart. Read-only  **[ChartTitle](Word.ChartTitle.md)**.
+Returns the title of the specified chart. Read-only **[ChartTitle](Word.ChartTitle.md)**.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TablesOfFigures object (Word)
 
-A collection of  **[TableOfFigures](Word.TableOfFigures.md)** objects that represent the tables of figures in a document.
+A collection of **[TableOfFigures](Word.TableOfFigures.md)** objects that represent the tables of figures in a document.
 
 
 ## Remarks
@@ -34,7 +34,7 @@ ActiveDocument.TablesOfFigures.Add Range:=Selection.Range, _
  IncludeLabel:=True, IncludePageNumbers:=True
 ```
 
-Use  **TablesOfFigures** (Index), where Index is the index number, to return a single **TableOfFigures** object. The index number represents the position of the table of figures in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
+Use **TablesOfFigures** (Index), where Index is the index number, to return a single **TableOfFigures** object. The index number represents the position of the table of figures in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
 
 
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpTextLevelEffect enumeration (PowerPoint)
 
-Constants that specify the paragraph level by which text effects are animated, passed to and returned by the  **TextLevelEffect** property of the **AnimationSettings** object.
+Constants that specify the paragraph level by which text effects are animated, passed to and returned by the **TextLevelEffect** property of the **AnimationSettings** object.
 
 
 

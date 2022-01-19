@@ -19,7 +19,7 @@ Represents an individual slide design template. The **Design** object is a membe
 
 ## Remarks
 
-Use the  **Design** property of the **Master**, **Slide**, or **SlideRange** objects to access a **Design** object, for example:
+Use the **Design** property of the **Master**, **Slide**, or **SlideRange** objects to access a **Design** object, for example:
 
 
 -  `ActivePresentation.SlideMaster.Design`
@@ -28,7 +28,7 @@ Use the  **Design** property of the **Master**, **Slide**, or **SlideRange** obj
     
 -  `ActivePresentation.Slides.Range.Design`
     
-Use the [Add](PowerPoint.Designs.Add.md), [Item](PowerPoint.Designs.Item.md), [Clone](PowerPoint.Designs.Clone.md), or [Load](PowerPoint.Designs.Load.md)methods of the  **Designs** collection to add, refer to, clone, or load a **Design** object, respectively. For example, to add a design template, use `ActivePresentation.Designs.Add designName:="MyDesign"`
+Use the [Add](PowerPoint.Designs.Add.md), [Item](PowerPoint.Designs.Item.md), [Clone](PowerPoint.Designs.Clone.md), or [Load](PowerPoint.Designs.Load.md)methods of the **Designs** collection to add, refer to, clone, or load a **Design** object, respectively. For example, to add a design template, use `ActivePresentation.Designs.Add designName:="MyDesign"`
 
 
 ## Example

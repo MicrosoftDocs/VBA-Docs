@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.CharacterUnitFirstLineIndent property (Word)
 
-Returns or sets the value (in characters) for a first-line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single**.
+Returns or sets the value (in characters) for a first-line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write **Single**.
 
 
 ## Syntax

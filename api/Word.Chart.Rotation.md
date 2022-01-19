@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Rotation property (Word)
 
-Returns or sets the rotation, in degrees, of the 3D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant**.
+Returns or sets the rotation, in degrees, of the 3D chart view (the rotation of the plot area around the z-axis). Read/write **Variant**.
 
 
 ## Syntax

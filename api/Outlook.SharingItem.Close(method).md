@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Close method (Outlook)
 
-Closes and optionally saves changes to the  **[SharingItem](Outlook.SharingItem.md)**.
+Closes and optionally saves changes to the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

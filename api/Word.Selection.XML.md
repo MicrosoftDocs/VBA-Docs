@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.XML property (Word)
 
-Returns a  **String** that represents the XML text in the specified object. .
+Returns a **String** that represents the XML text in the specified object. .
 
 
 ## Syntax

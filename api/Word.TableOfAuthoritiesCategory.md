@@ -21,7 +21,7 @@ Represents a single table of authorities category. The **TableOfAuthoritiesCateg
 
 The **TablesOfAuthoritiesCategories** collection includes all 16 categories listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box.
 
-Use  **TablesOfAuthoritiesCategories** (Index), where Index is the category name or index number, to return a single **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
+Use **TablesOfAuthoritiesCategories** (Index), where Index is the category name or index number, to return a single **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
 
 
 

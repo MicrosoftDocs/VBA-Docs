@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Windows property (Visio)
 
-Returns the  **Windows** collection for a Microsoft Visio instance or window. Read-only.
+Returns the **Windows** collection for a Microsoft Visio instance or window. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Windows
 
 ## Example
 
-This Microsoft Visual Basic macro gets the  **Windows** collection of the **Application** object and prints the ID of each window in the collection in the Immediate window.
+This Microsoft Visual Basic macro gets the **Windows** collection of the **Application** object and prints the ID of each window in the collection in the Immediate window.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pane.BrowseWidth property (Word)
 
-Returns the width (in points) of the area in which text wraps in the specified pane. Read-only  **Long**.
+Returns the width (in points) of the area in which text wraps in the specified pane. Read-only **Long**.
 
 
 ## Syntax

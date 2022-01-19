@@ -32,8 +32,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _MajorUnits_|Optional|**Variant**|Time units for the middle timescale tier. Specify with the **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** enumeration. The default value is **pjTimescaleWeeks** (3).|
 | _MinorUnits_|Optional|**Variant**|Time units for the bottom timescale tier. Specify with the **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** enumeration. The default value is **pjTimescaleDays** (2).|
-| _MajorLabel_|Optional|**Variant**|Date or time labels for the middle timescale tier. Specify with one of the following enumerations:  **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjWeekLabelWeek_mmm_dd_yyy** (13). For example, default values are **Mar 7, '10** and **Mar 14, '10**.|
-| _MinorLabel_|Optional|**Variant**|Date or time labels for the bottom timescale tier. Specify with one of the following enumerations:  **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjDayLabelDay_di** (20). For example, default values are **S**,  **M**, and  **T**.|
+| _MajorLabel_|Optional|**Variant**|Date or time labels for the middle timescale tier. Specify with one of the following enumerations: **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjWeekLabelWeek_mmm_dd_yyy** (13). For example, default values are **Mar 7, '10** and **Mar 14, '10**.|
+| _MinorLabel_|Optional|**Variant**|Date or time labels for the bottom timescale tier. Specify with one of the following enumerations: **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjDayLabelDay_di** (20). For example, default values are **S**, **M**, and **T**.|
 | _MajorAlign_|Optional|**Variant**|The **[PjAlignment](Project.PjAlignment.md)** enumeration specifies how to align labels within each time period of the middle tier. The default is value is **pjLeft** (0).|
 | _MinorAlign_|Optional|**Variant**|The **[PjAlignment](Project.PjAlignment.md)** enumeration specifies how to align labels within each time period of the bottom tier. The default is value is **pjLeft** (0).|
 | _MajorCount_|Optional|**Variant**|Specifies the time unit interval in which to show labels for the middle tier. For example, if the time unit is weeks, a value of 1 shows a label every week; a value of 2 shows a label every two weeks.|
@@ -45,7 +45,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _MajorUseFY_|Optional|**Variant**|Specifies whether to base the middle tier labels on the fiscal year. The default value is **False**.|
 | _MinorUseFY_|Optional|**Variant**|Specifies whether to base the bottom tier labels on the fiscal year. The default value is **False**.|
 | _TopUnits_|Optional|**Variant**|Time units for the top timescale tier. Specify with the **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** enumeration. The default value is **pjTimescaleMonths** (2).|
-| _TopLabel_|Optional|**Variant**|Date or time labels for the top timescale tier. Specify with one of the following enumerations:  **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjDayLabelDay_di** (20). For example, default values are **S**,  **M**, and  **T**.|
+| _TopLabel_|Optional|**Variant**|Date or time labels for the top timescale tier. Specify with one of the following enumerations: **[PjDateLabel](Project.PjDateLabel.md)**, **[PjDayLabel](Project.PjDayLabel.md)**, **[PjMonthLabel](Project.PjMonthLabel.md)**, or **[PjWeekLabel](Project.PjWeekLabel.md)**. The default value is **pjDayLabelDay_di** (20). For example, default values are **S**, **M**, and **T**.|
 | _TopAlign_|Optional|**Variant**|The **[PjAlignment](Project.PjAlignment.md)** enumeration specifies how to align labels within each time period of the top tier. The default is value is **pjLeft** (0).|
 | _TopCount_|Optional|**Variant**|Specifies the time unit interval in which to show labels for the top tier. For example, if the time unit is months, a value of 1 shows a label every month; a value of 2 shows a label every two months.|
 | _TopTicks_|Optional|**Variant**|Specifies whether to show tick marks that separate time periods in the top tier. For example, if the time unit is months, a value of **False** removes the tick marks between months.|
@@ -59,12 +59,12 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-To manually edit a timescale in Project, right-click the timescale, and then choose  **Timescale**. Executing the **TimescaleEdit** method with no parameters displays the **Timescale** dialog box. If the user choose **Cancel**,  **TimescaleEdit** returns **False**. If the user makes valid changes and chooses **OK**,  **TimescaleEdit** returns **True**.
+To manually edit a timescale in Project, right-click the timescale, and then choose **Timescale**. Executing the **TimescaleEdit** method with no parameters displays the **Timescale** dialog box. If the user choose **Cancel**, **TimescaleEdit** returns **False**. If the user makes valid changes and chooses **OK**, **TimescaleEdit** returns **True**.
 
 
 ## Example
 
-The following example sets the timescale to three tiers, where the top tier units are months, the top labels are the month name and year, the middle tier units are weeks, and the middle tier labels are the month and day numbers. For example, top tier labels are  **May 2012** and **June 2012**, and middle tier labels are  **5/27** and **6/3**.
+The following example sets the timescale to three tiers, where the top tier units are months, the top labels are the month name and year, the middle tier units are weeks, and the middle tier labels are the month and day numbers. For example, top tier labels are **May 2012** and **June 2012**, and middle tier labels are **5/27** and **6/3**.
 
 
 ```vb

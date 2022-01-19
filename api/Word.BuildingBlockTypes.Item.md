@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlockTypes.Item method (Word)
 
-Returns a  **BuildingBlockType** object that represents the specified item in the collection.
+Returns a **BuildingBlockType** object that represents the specified item in the collection.
 
 
 ## Syntax

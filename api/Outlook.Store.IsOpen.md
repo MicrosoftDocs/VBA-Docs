@@ -30,7 +30,7 @@ This property supports both Exchange and non-Exchange stores.
 
  **IsOpen** only indicates if the store is open. It does not indicate if the store is offline, or if it is an Exchange mailbox or an Exchange Public Folder and the store server is down.
 
-Because opening a store can impose a performance overhead, and  **[Store.GetRootFolder](Outlook.Store.GetRootFolder.md)** and **[Store.GetSearchFolders](Outlook.Store.GetSearchFolders.md)** will open a store if it is not already open, you can use **IsOpen** before deciding to call **GetRootFolder** or **GetSearchFolders** to minimize performance overhead.
+Because opening a store can impose a performance overhead, and **[Store.GetRootFolder](Outlook.Store.GetRootFolder.md)** and **[Store.GetSearchFolders](Outlook.Store.GetSearchFolders.md)** will open a store if it is not already open, you can use **IsOpen** before deciding to call **GetRootFolder** or **GetSearchFolders** to minimize performance overhead.
 
 
 ## See also

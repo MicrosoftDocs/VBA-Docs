@@ -36,22 +36,22 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Return value
 
-A  **[TaskItem](Outlook.TaskItem.md)** that represents the response to the task request.
+A **[TaskItem](Outlook.TaskItem.md)** that represents the response to the task request.
 
 
 ## Remarks
 
-When you call the  **Respond** method with the **olTaskAccept** parameter, Outlook creates a new **TaskItem** that duplicates the task request item. The new item has a different Entry ID. Outlook then removes the original item.
+When you call the **Respond** method with the **olTaskAccept** parameter, Outlook creates a new **TaskItem** that duplicates the task request item. The new item has a different Entry ID. Outlook then removes the original item.
 
-The following table describes the behavior of the  **Respond** method depending on the parent object, and the _fNoUI_ and _fAdditionalTextDialog_ parameters.
+The following table describes the behavior of the **Respond** method depending on the parent object, and the _fNoUI_ and _fAdditionalTextDialog_ parameters.
 
 
 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
-| **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](Outlook.TaskItem.Send(method).md)** method.|
+| **True, True**|Response item is returned with no user interface. To send the response, you must call the **[Send](Outlook.TaskItem.Send(method).md)** method.|
 | **True, False**|Same result as with **True, True**.|
-| **False, True**|If the  **[Display](Outlook.TaskItem.Display.md)** method has been called, the user prompt appears. Otherwise, the item is sent without prompting and the resulting item is nothing.|
+| **False, True**|If the **[Display](Outlook.TaskItem.Display.md)** method has been called, the user prompt appears. Otherwise, the item is sent without prompting and the resulting item is nothing.|
 | **False, False**|Does nothing. |
 
 ## See also

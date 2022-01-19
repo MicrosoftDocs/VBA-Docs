@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Inspector.IsWordMail method (Outlook)
 
-Determines whether the mail message associated with an inspector is displayed in an Outlook  **[Inspector](Outlook.Inspector.md)** or in Microsoft Word.
+Determines whether the mail message associated with an inspector is displayed in an Outlook **[Inspector](Outlook.Inspector.md)** or in Microsoft Word.
 
 
 ## Syntax

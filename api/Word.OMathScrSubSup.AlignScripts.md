@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathScrSubSup.AlignScripts property (Word)
 
-Returns or sets a  **Boolean** that represents whether to horizontally align subscripts and superscripts in the sub-superscript object. Read/write.
+Returns or sets a **Boolean** that represents whether to horizontally align subscripts and superscripts in the sub-superscript object. Read/write.
 
 
 ## Syntax

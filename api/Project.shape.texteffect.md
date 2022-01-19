@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.TextEffect property (Project)
-Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](https://msdn.microsoft.com/library/office/ff834714%28v=office.15%29)**.
+Gets text formatting properties for the shape. Read-only **[TextEffectFormat](https://msdn.microsoft.com/library/office/ff834714%28v=office.15%29)**.
 
 ## Syntax
 

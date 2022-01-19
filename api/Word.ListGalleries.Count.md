@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListGalleries.Count property (Word)
 
-Returns a  **Long** that represents the number of list galleries in the collection. Read-only.
+Returns a **Long** that represents the number of list galleries in the collection. Read-only.
 
 
 ## Syntax

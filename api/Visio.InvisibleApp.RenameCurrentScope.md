@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-The new name assigned to the undo scope appears on the  **Undo** menu as the item name. If there is no open undo scope, the **RenameCurrentScope** method raises an exception.
+The new name assigned to the undo scope appears on the **Undo** menu as the item name. If there is no open undo scope, the **RenameCurrentScope** method raises an exception.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

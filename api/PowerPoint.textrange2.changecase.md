@@ -29,7 +29,7 @@ _expression_. `ChangeCase`( `_Type_` )
 
 ## Remarks
 
-Examples of the  **MsoTextChangeCase** enumeration include **msoCaseLower**, **msoCaseUpper**, and **msoCaseTitle**.
+Examples of the **MsoTextChangeCase** enumeration include **msoCaseLower**, **msoCaseUpper**, and **msoCaseTitle**.
 
 
 ## See also

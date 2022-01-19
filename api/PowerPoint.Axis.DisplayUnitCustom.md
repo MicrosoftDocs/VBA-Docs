@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.DisplayUnitCustom property (PowerPoint)
 
-If the value of the  **[DisplayUnit](PowerPoint.Axis.DisplayUnit.md)** property is **xlCustom**, returns or sets the value of the displayed units. Read/write **Double**.
+If the value of the **[DisplayUnit](PowerPoint.Axis.DisplayUnit.md)** property is **xlCustom**, returns or sets the value of the displayed units. Read/write **Double**.
 
 
 ## Syntax

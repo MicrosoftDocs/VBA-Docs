@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListGalleries.Item method (Word)
 
-Returns an individual  **ListGalleries** object in a collection.
+Returns an individual **ListGalleries** object in a collection.
 
 
 ## Syntax

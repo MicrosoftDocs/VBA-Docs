@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.BaseName property (Word)
 
-Returns a  **String** that represents the name of the element without any prefix.
+Returns a **String** that represents the name of the element without any prefix.
 
 
 ## Syntax

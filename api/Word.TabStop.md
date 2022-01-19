@@ -19,7 +19,7 @@ Represents a single tab stop. The **TabStop** object is a member of the **[TabSt
 
 ## Remarks
 
-Use  **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
+Use **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
 
 
 ```vb

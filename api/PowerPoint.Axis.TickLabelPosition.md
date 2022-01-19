@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabelPosition property (PowerPoint)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](PowerPoint.XlTickLabelPosition.md)**.
+Describes the position of tick-mark labels on the specified axis. Read/write **[XlTickLabelPosition](PowerPoint.XlTickLabelPosition.md)**.
 
 
 ## Syntax

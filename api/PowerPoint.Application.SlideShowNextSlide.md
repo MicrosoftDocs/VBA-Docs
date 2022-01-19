@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SlideShowNextSlide event (PowerPoint)
 
-Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the  **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event.
+Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the **[SlideShowBegin](PowerPoint.Application.SlideShowBegin.md)** event.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ _expression_. `SlideShowNextSlide`(_Wn_)
 
 ## Remarks
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example
 
-This example determines the slide position for the slide following the  **SlideShowNextSlide** event. If the next slide is slide three, the example changes the type of pointer to a pen and the pen color to red.
+This example determines the slide position for the slide following the **SlideShowNextSlide** event. If the next slide is slide three, the example changes the type of pointer to a pen and the pen color to red.
 
 
 ```vb
@@ -82,7 +82,7 @@ This example sets a global counter variable to zero. Then it calculates the numb
 
 
 > [!NOTE] 
-> The array created in this example is also used in the  **SlideShowNextBuild** event example.
+> The array created in this example is also used in the **SlideShowNextBuild** event example.
 
 
 

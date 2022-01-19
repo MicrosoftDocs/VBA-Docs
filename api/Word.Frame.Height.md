@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.Height property (Word)
 
-Returns or sets a  **Single** that represents the height (in points) of the specified frame. Read/write .
+Returns or sets a **Single** that represents the height (in points) of the specified frame. Read/write .
 
 
 ## Syntax

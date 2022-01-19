@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReferenceType_|Required| **Variant**|The type of item for which a cross-reference is to be inserted. Can be any  **WdReferenceType** or **WdCaptionLabelID** constant or a user defined caption label.|
+| _ReferenceType_|Required| **Variant**|The type of item for which a cross-reference is to be inserted. Can be any **WdReferenceType** or **WdCaptionLabelID** constant or a user defined caption label.|
 | _ReferenceKind_|Required| **WdReferenceKind**|The information to be included in the cross-reference.|
 | _ReferenceItem_|Required| **Variant**|If ReferenceType is **wdRefTypeBookmark**, this argument specifies a bookmark name. For all other ReferenceType values, this argument specifies the item number or name in the **Reference type** box in the **Cross-reference** dialog box. Use the **GetCrossReferenceItems** method to return a list of item names that can be used with this argument.|
 | _InsertAsHyperlink_|Optional| **Variant**| **True** to insert the cross-reference as a hyperlink.|
@@ -40,7 +40,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-If you specify  **wdPageNumber** for the value of ReferenceKind, you may need to repaginate the document to see the correct cross-reference information.
+If you specify **wdPageNumber** for the value of ReferenceKind, you may need to repaginate the document to see the correct cross-reference information.
 
 
 ## Example

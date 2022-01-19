@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ID property (Word)
 
-Returns or sets the identification name for the specified range. Read/write  **String**.
+Returns or sets the identification name for the specified range. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Text property (Word)
 
-Returns or sets the text in the specified selection. Read/write  **String**.
+Returns or sets the text in the specified selection. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.SenderInitials property (Word)
 
-Returns or sets the initials of the person creating a letter with the Letter Wizard. Read/write  **String**.
+Returns or sets the initials of the person creating a letter with the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Profile.UserName property (Project)
 
-Gets or sets the logon name of the current account profile. Read/write  **String**.
+Gets or sets the logon name of the current account profile. Read/write **String**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ The **UserName** property of the **Profile** object shows the logon name. By com
 
 ## Example
 
-If there are two account profiles, and the user named Jeff Smith logs on with the DOMAIN\jsmith account, the first statement in the following code shows  **DOMAIN\jsmith** in the **Immediate** pane of the VBE. The second statement shows **Jeff Smith**.
+If there are two account profiles, and the user named Jeff Smith logs on with the DOMAIN\jsmith account, the first statement in the following code shows **DOMAIN\jsmith** in the **Immediate** pane of the VBE. The second statement shows **Jeff Smith**.
 
 
 ```vb

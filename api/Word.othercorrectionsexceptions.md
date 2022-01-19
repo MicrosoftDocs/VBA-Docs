@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # OtherCorrectionsExceptions object (Word)
 
-A collection of  **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
+A collection of **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ If the value of the **OtherCorrectionsAutoAdd** property is **True**, words are 
 AutoCorrect.OtherCorrectionsExceptions.Add Name:="TipTop"
 ```
 
-Use  **OtherCorrectionsExceptions** (Index), where Index is the name or the index number, to return a single **OtherCorrectionsException** object. The following example deletes "WTop" from the list of AutoCorrect exceptions.
+Use **OtherCorrectionsExceptions** (Index), where Index is the name or the index number, to return a single **OtherCorrectionsException** object. The following example deletes "WTop" from the list of AutoCorrect exceptions.
 
 
 

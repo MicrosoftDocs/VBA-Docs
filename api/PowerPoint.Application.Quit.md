@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Quit method (PowerPoint)
 
-Quits Microsoft PowerPoint. This is equivalent to clicking the  **Office** button and then clicking **Exit PowerPoint**.
+Quits Microsoft PowerPoint. This is equivalent to clicking the **Office** button and then clicking **Exit PowerPoint**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-To avoid being prompted to save changes, use either the  **Save** or **SaveAs** method to save all open presentations before calling the **Quit** method.
+To avoid being prompted to save changes, use either the **Save** or **SaveAs** method to save all open presentations before calling the **Quit** method.
 
 
 ## Example

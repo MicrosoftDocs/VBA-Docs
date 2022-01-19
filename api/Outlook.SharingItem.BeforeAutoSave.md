@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # SharingItem.BeforeAutoSave event (Outlook)
 
-Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically saved by Outlook.
+Occurs before the **[SharingItem](Outlook.SharingItem.md)** is automatically saved by Outlook.
 
 
 ## Syntax

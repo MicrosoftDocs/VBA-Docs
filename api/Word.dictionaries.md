@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Dictionaries object (Word)
 
-A collection of  **Dictionary** objects that includes the active custom spelling dictionaries.
+A collection of **Dictionary** objects that includes the active custom spelling dictionaries.
 
 
 ## Remarks

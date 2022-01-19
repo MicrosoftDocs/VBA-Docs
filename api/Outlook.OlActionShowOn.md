@@ -26,6 +26,6 @@ Identifies where an **[Action](Outlook.Action.md)** is displayed as an available
 
 ## Remarks
 
-Displaying an action on a toolbar is only supported in versions of Outlook without the Office Fluent ribbon, before Microsoft Office Outlook 2007. In versions of Outlook that contain the Ribbon, custom actions are displayed only on the  **Custom Actions** menu on the ribbon for an inspector, and on the context menu of an item.
+Displaying an action on a toolbar is only supported in versions of Outlook without the Office Fluent ribbon, before Microsoft Office Outlook 2007. In versions of Outlook that contain the Ribbon, custom actions are displayed only on the **Custom Actions** menu on the ribbon for an inspector, and on the context menu of an item.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

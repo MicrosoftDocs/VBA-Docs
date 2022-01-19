@@ -24,7 +24,7 @@ Use the **Words** property to return the **Words** object. The following code ex
 MsgBox Selection.Words.Count & " words are selected"
 ```
 
-Use  **Words** (Index), where Index is the index number, to return a **Range** object that represents one word. The index number represents the position of the word in the **Words** collection. The following code example formats the first word in the selection as 24-point italic.
+Use **Words** (Index), where Index is the index number, to return a **Range** object that represents one word. The index number represents the position of the word in the **Words** collection. The following code example formats the first word in the selection as 24-point italic.
 
 
 

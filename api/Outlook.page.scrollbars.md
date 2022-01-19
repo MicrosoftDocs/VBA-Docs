@@ -21,7 +21,7 @@ _expression_ A variable that represents a **Page** object.
 
 ## Remarks
 
-The settings for  **ScrollBars** are:
+The settings for **ScrollBars** are:
 
 
 
@@ -32,9 +32,9 @@ The settings for  **ScrollBars** are:
 |2|Displays a vertical scroll bar.|
 |3|Displays both a horizontal and a vertical scroll bar.|
 
-If the  **[KeepScrollBarsVisible](Outlook.page.keepscrollbarsvisible.md)** property is **True**, any scroll bar on a form or page is always visible, regardless of whether the object's contents fit within the object's borders.
+If the **[KeepScrollBarsVisible](Outlook.page.keepscrollbarsvisible.md)** property is **True**, any scroll bar on a form or page is always visible, regardless of whether the object's contents fit within the object's borders.
 
-If visible, a scroll bar constrains its scroll box to the visible region of the scroll bar. It also modifies the scroll position as needed to keep the entire scroll bar visible. The range of a scroll bar changes when the value of the  **ScrollBars** property changes, the scroll size changes, or the visible size changes.
+If visible, a scroll bar constrains its scroll box to the visible region of the scroll bar. It also modifies the scroll position as needed to keep the entire scroll bar visible. The range of a scroll bar changes when the value of the **ScrollBars** property changes, the scroll size changes, or the visible size changes.
 
 If a scroll bar is not visible, then you can set its scroll position to any value. Negative values and values greater than the scroll size are both valid.
 

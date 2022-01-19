@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pages.Add method (Outlook)
 
-Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
+Creates a new page in the **[Pages](Outlook.Pages.md)** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationGroups.NavigationFolderRemove event (Outlook)
 
-Occurs after a navigation folder has been removed from the  **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
+Occurs after a navigation folder has been removed from the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax

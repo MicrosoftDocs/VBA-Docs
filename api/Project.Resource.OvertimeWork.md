@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.OvertimeWork property (Project)
 
-Gets the overtime work for a resource. Read-only  **Variant**.
+Gets the overtime work for a resource. Read-only **Variant**.
 
 
 ## Syntax

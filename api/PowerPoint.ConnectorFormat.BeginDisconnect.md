@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ConnectorFormat](PowerPoint.Connector
 
 ## Remarks
 
-This method doesn't alter the size or position of the connector: the beginning of the connector remains positioned at a connection site but is no longer connected. Use the  **[EndDisconnect](PowerPoint.ConnectorFormat.EndDisconnect.md)** method to detach the end of the connector from a shape.
+This method doesn't alter the size or position of the connector: the beginning of the connector remains positioned at a connection site but is no longer connected. Use the **[EndDisconnect](PowerPoint.ConnectorFormat.EndDisconnect.md)** method to detach the end of the connector from a shape.
 
 
 ## Example

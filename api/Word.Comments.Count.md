@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comments.Count property (Word)
 
-Returns a  **Long** that represents the number of items in the **Comments** collection. Read-only.
+Returns a **Long** that represents the number of items in the **Comments** collection. Read-only.
 
 
 ## Syntax

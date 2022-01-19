@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.LanguageIDFarEast property (Word)
 
-Returns or sets an East Asian language for the specified object. Read/write  **[WdLanguageID](Word.WdLanguageID.md)**.
+Returns or sets an East Asian language for the specified object. Read/write **[WdLanguageID](Word.WdLanguageID.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Attachments.Remove](Outlook.Attachments.Remove.md)** method to remove all attachments from a forwarded mail message before sending it on to 'Dan Wilson'. To run this example, replace 'Dan Wilson' with a valid recipient's name and keep an item with attachments open in an inspector window.
+This Visual Basic for Applications (VBA) example uses the **[Attachments.Remove](Outlook.Attachments.Remove.md)** method to remove all attachments from a forwarded mail message before sending it on to 'Dan Wilson'. To run this example, replace 'Dan Wilson' with a valid recipient's name and keep an item with attachments open in an inspector window.
 
 
 ```vb

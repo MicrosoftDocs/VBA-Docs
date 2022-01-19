@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.ID property (Project)
-Gets the identification type for the shape range. Read-only  **Long**.
+Gets the identification type for the shape range. Read-only **Long**.
 
 ## Syntax
 

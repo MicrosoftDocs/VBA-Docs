@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Type property (Word)
 
-Returns the shape type. Read-only  **MsoShapeType**.
+Returns the shape type. Read-only **MsoShapeType**.
 
 
 ## Syntax

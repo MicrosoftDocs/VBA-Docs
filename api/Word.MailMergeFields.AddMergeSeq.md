@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddMergeSeq method (Word)
 
-Adds a MERGESEQ field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a MERGESEQ field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

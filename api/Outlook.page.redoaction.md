@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Page.RedoAction Method (Outlook Forms Script)
 
-Reverses the effect of the most recent  **Undo** action.
+Reverses the effect of the most recent **Undo** action.
 
 
 ## Syntax
@@ -26,6 +26,6 @@ A **Boolean** that specifies **True** if the method succeeds, **False** otherwis
 
 ## Remarks
 
-Redo reverses the last  **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
+Redo reverses the last **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

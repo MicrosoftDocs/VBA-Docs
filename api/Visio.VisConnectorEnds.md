@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisConnectorEnds enumeration (Visio)
 
-Specifies constants that define the end points of a connector; passed to the  **[Shape.Disconnect](Visio.Shape.Disconnect.md)** method.
+Specifies constants that define the end points of a connector; passed to the **[Shape.Disconnect](Visio.Shape.Disconnect.md)** method.
 
 
 

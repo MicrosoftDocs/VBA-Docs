@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a rectangle.
+Returns a **Range** object that represents the portion of a document that is contained within a rectangle.
 
 
 ## Syntax

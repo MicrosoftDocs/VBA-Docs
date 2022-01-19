@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFieldNames.Item method (Word)
 
-Returns an individual  **MailMergeFieldNames** object in a collection.
+Returns an individual **MailMergeFieldNames** object in a collection.
 
 
 ## Syntax

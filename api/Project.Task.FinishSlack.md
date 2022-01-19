@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.FinishSlack property (Project)
 
-Gets or sets the finish slack of a task in minutes. Read-only  **Variant**.
+Gets or sets the finish slack of a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

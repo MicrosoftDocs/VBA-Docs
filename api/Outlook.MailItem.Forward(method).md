@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailItem.Forward method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
+Executes the **Forward** action for an item and returns the resulting copy as a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ A **MailItem** object that represents the new mail item.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Remove](Outlook.Attachments.Remove.md)** method to remove all attachments from a forwarded message before sending it on to Dan Wilson. To run this example, replace 'Dan Wilson' with a valid recipient name and keep a mail item that contains at least one attachment open in the active window.
+This Visual Basic for Applications (VBA) example uses the **[Remove](Outlook.Attachments.Remove.md)** method to remove all attachments from a forwarded message before sending it on to Dan Wilson. To run this example, replace 'Dan Wilson' with a valid recipient name and keep a mail item that contains at least one attachment open in the active window.
 
 
 ```vb

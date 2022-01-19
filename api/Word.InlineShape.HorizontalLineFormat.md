@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.HorizontalLineFormat property (Word)
 
-Returns a  **[HorizontalLineFormat](Word.HorizontalLineFormat.md)** object that contains the horizontal line formatting for the specified **InlineShape** object. Read-only.
+Returns a **[HorizontalLineFormat](Word.HorizontalLineFormat.md)** object that contains the horizontal line formatting for the specified **InlineShape** object. Read-only.
 
 
 ## Syntax

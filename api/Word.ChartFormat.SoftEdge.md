@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.SoftEdge property (Word)
 
-Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)**.
+Returns the soft edge formatting for a shape. Read-only **[SoftEdgeFormat](Word.SoftEdgeFormat.md)**.
 
 
 ## Syntax

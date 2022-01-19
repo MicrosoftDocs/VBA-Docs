@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Explorer.Close method (Outlook)
 
-Closes the  **[Explorer](Outlook.Explorer.md)** object.
+Closes the **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Syntax

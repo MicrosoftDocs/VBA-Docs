@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.System property (Word)
 
-Returns a  **[System](Word.System.md)** object, which can be used to return system-related information and perform system-related tasks.
+Returns a **[System](Word.System.md)** object, which can be used to return system-related information and perform system-related tasks.
 
 
 ## Syntax

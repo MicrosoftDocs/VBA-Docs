@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.RemainingOvertimeWork property (Project)
 
-Gets the remaining overtime work (in minutes) for the resource. Read-only  **Variant**.
+Gets the remaining overtime work (in minutes) for the resource. Read-only **Variant**.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Indexes object (Word)
 
-A collection of  **[Index](Word.Index.md)** objects that represents all the indexes in the specified document.
+A collection of **[Index](Word.Index.md)** objects that represents all the indexes in the specified document.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ myRange.Collapse Direction:=wdCollapseEnd
 ActiveDocument.Indexes.Add Range:=myRange, Type:=wdIndexRunin
 ```
 
-Use  **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
+Use **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
 
 
 

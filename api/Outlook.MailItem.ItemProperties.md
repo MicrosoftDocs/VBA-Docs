@@ -31,7 +31,7 @@ The **ItemProperties** collection is a zero-based collection, meaning that the f
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns the  **ItemProperties** collection associated with a **[MailItem](Outlook.MailItem.md)** object.
+The following Microsoft Visual Basic for Applications (VBA) example returns the **ItemProperties** collection associated with a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ```vb

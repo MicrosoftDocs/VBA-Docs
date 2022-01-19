@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultBorderLineStyle property (Word)
 
-Returns or sets the default border line style. Read/write  **WdLineStyle**.
+Returns or sets the default border line style. Read/write **WdLineStyle**.
 
 
 ## Syntax

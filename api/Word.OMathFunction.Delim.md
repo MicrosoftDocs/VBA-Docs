@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Delim property (Word)
 
-Returns an  **[OMathDelim](Word.OMathDelim.md)** object that represents the delimiter function. Read-only.
+Returns an **[OMathDelim](Word.OMathDelim.md)** object that represents the delimiter function. Read-only.
 
 
 ## Syntax

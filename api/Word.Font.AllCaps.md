@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 Returns **True**, **False**, or wdUndefined (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle** (reverses the current setting).
 
-Setting  **AllCaps** to **True** sets **[SmallCaps](Word.Font.SmallCaps.md)** to **False**, and vice versa.
+Setting **AllCaps** to **True** sets **[SmallCaps](Word.Font.SmallCaps.md)** to **False**, and vice versa.
 
 
 ## Example

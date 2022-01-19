@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Path property (Word)
 
-Returns the disk or Web path to the document. Read-only  **String**.
+Returns the disk or Web path to the document. Read-only **String**.
 
 
 ## Syntax

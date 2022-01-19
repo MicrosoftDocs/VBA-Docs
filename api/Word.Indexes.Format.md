@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Indexes.Format property (Word)
 
-Returns or sets a  **WdIndexFormat** that represents the formatting for the indexes in the specified document. Read/write.
+Returns or sets a **WdIndexFormat** that represents the formatting for the indexes in the specified document. Read/write.
 
 
 ## Syntax

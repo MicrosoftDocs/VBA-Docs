@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PredecessorDrivers.TotalDetectedCount property (Project)
 
-Gets the total number of predecessor tasks that affect the start date of a task. Read-only  **Long**.
+Gets the total number of predecessor tasks that affect the start date of a task. Read-only **Long**.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 To use the **ResourceMappingDialog** method, a local project must be open and active. If an enterprise project is active, using the **ResourceMappingDialog** method results in the run-time error 1100.
 
-You can use  **ResourceMappingDialog** to avoid the extra step of opening a project with the **[EnterpriseResourcesImportEx](Project.Application.EnterpriseResourcesImportEx.md)** method or by using the **Import Resources to Enterprise** command on the **Add Resources** drop-down menu of the **Resource** tab in the Ribbon.
+You can use **ResourceMappingDialog** to avoid the extra step of opening a project with the **[EnterpriseResourcesImportEx](Project.Application.EnterpriseResourcesImportEx.md)** method or by using the **Import Resources to Enterprise** command on the **Add Resources** drop-down menu of the **Resource** tab in the Ribbon.
 
  The **ResourceMappingDialog** method is available only in Project Professional.
 

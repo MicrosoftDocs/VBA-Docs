@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.EndnoteOptions property (Word)
 
-Returns an  **[EndnoteOptions](Word.EndnoteOptions.md)** object that represents the endnotes in a selection.
+Returns an **[EndnoteOptions](Word.EndnoteOptions.md)** object that represents the endnotes in a selection.
 
 
 ## Syntax

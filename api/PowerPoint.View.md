@@ -28,7 +28,7 @@ Represents the current editing view in the specified document window.
 
 ## Example
 
-Use the [View](PowerPoint.DocumentWindow.View.md)property of the  **[DocumentWindow](PowerPoint.DocumentWindow.md)** object to return the **View** object. The following example sets the size of window one and then sets the zoom to fit the new window size.
+Use the [View](PowerPoint.DocumentWindow.View.md)property of the **[DocumentWindow](PowerPoint.DocumentWindow.md)** object to return the **View** object. The following example sets the size of window one and then sets the zoom to fit the new window size.
 
 
 ```vb

@@ -31,7 +31,7 @@ TextEffectFormat
 
 ## Remarks
 
-Applies to  **[ShapeRange](PowerPoint.ShapeRange.md)** objects that represent WordArt.
+Applies to **[ShapeRange](PowerPoint.ShapeRange.md)** objects that represent WordArt.
 
 
 ## Example

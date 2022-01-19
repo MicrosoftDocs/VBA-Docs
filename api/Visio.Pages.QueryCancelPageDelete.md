@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Pages](Visio.Pages.md)** object.
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelPageDelete** after the user has directed the instance to delete a page.
+A Visio instance fires **QueryCancelPageDelete** after the user has directed the instance to delete a page.
 
 
 

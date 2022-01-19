@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskRequestUpdateItem.Forward event (Outlook)
 
-Occurs when the user selects the  **Forward** action for an item (which is an instance of the parent object).
+Occurs when the user selects the **Forward** action for an item (which is an instance of the parent object).
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentations.Item method (PowerPoint)
 
-Returns a single  **Presentation** object from the specified **Presentations** collection.
+Returns a single **Presentation** object from the specified **Presentations** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Presentations](PowerPoint.Presentatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Presentation** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Presentation** object in the collection to be returned.|
 
 ## Return value
 

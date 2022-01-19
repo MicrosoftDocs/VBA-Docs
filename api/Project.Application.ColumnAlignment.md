@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Align_|Required|**Long**|The alignment of text in the active columns. Can be one of the following  **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
+| _Align_|Required|**Long**|The alignment of text in the active columns. Can be one of the following **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 
 ## Return value
 

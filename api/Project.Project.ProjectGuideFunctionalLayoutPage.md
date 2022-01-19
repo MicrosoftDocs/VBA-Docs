@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectGuideFunctionalLayoutPage property (Project)
 
-Gets or sets the Project Guide functional layout page for the specified project. Read/write  **String**.
+Gets or sets the Project Guide functional layout page for the specified project. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.GetRowCount method (Outlook)
 
-Obtains the number of rows in the  **[Table](Outlook.Table.md)**.
+Obtains the number of rows in the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[TimelineView](Outlook.timelineView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the **SaveOption** property is set when the **[TimelineView](Outlook.timelineView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 
 # ContactItem.ShowCheckFullNameDialog method (Outlook)
-Displays the  **Check Full Name** dialog box to verify name details of the contact.
+Displays the **Check Full Name** dialog box to verify name details of the contact.
 
 ## Version information
 

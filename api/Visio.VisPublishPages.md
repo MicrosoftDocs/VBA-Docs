@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisPublishPages enumeration (Visio)
 
-Specifies constants that define which pages to publish; passed to the  **[ServerPublishOptions.SetPagesToPublish](Visio.ServerPublishOptions.SetPagesToPublish.md)** method and returned by the **[ServerPublishOptions.GetPagesToPublish](Visio.ServerPublishOptions.GetPagesToPublish.md)** method.
+Specifies constants that define which pages to publish; passed to the **[ServerPublishOptions.SetPagesToPublish](Visio.ServerPublishOptions.SetPagesToPublish.md)** method and returned by the **[ServerPublishOptions.GetPagesToPublish](Visio.ServerPublishOptions.GetPagesToPublish.md)** method.
 
 
 

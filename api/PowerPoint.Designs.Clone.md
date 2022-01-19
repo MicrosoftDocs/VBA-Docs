@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Designs](PowerPoint.Designs.md) objec
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _pOriginal_|Required|**Design**|**Design** object. The original design.|
-| _Index_|Optional|**Long**|The index location in the  **Designs** collection into which the design will be copied. If Index is omitted, the cloned design is added to the end of the **Designs** collection.|
+| _Index_|Optional|**Long**|The index location in the **Designs** collection into which the design will be copied. If Index is omitted, the cloned design is added to the end of the **Designs** collection.|
 
 ## Return value
 

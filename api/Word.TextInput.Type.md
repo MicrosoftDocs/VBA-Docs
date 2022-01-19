@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextInput.Type property (Word)
 
-Returns the type of text form field. Read-only  **[WdTextFormFieldType](Word.WdTextFormFieldType.md)**.
+Returns the type of text form field. Read-only **[WdTextFormFieldType](Word.WdTextFormFieldType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignatureEntries.Count property (Word)
 
-Returns a  **Long** that represents the number of email signature entries in the collection. Read-only.
+Returns a **Long** that represents the number of email signature entries in the collection. Read-only.
 
 
 ## Syntax

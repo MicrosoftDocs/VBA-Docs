@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Type property (Word)
 
-Returns a  **[WdOMathFunctionType](Word.WdOMathFunctionType.md)** constant that represents the type of function. Read-only.
+Returns a **[WdOMathFunctionType](Word.WdOMathFunctionType.md)** constant that represents the type of function. Read-only.
 
 
 ## Syntax

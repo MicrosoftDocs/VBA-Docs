@@ -34,8 +34,8 @@ _expression_. `DropLegend`( `_OuterList_` , `_InnerList_` , `_populateFlags_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OuterList_|Required| **[UNKNOWN]**|A  **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object that represents the legend object. Corresponds to the outermost list shape.|
-| _InnerContainer_|Required| **[UNKNOWN]**|A  **Master** or **MasterShortcut** object that represents the legend object. Corresponds to the inner field container shape used within the legend for each data-graphic field.|
+| _OuterList_|Required| **[UNKNOWN]**|A **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object that represents the legend object. Corresponds to the outermost list shape.|
+| _InnerContainer_|Required| **[UNKNOWN]**|A **Master** or **MasterShortcut** object that represents the legend object. Corresponds to the inner field container shape used within the legend for each data-graphic field.|
 | _populateFlags_|Required| **[VisLegendFlags](Visio.VisLegendFlags.md)**|A flag that specifies whether Visio should populate the legend.|
 
 ## Return value
@@ -54,8 +54,8 @@ The value of the  _populateFlags_ parameter must be one of the following **VisLe
 | **visLegendPopulate**|0|Insert the legend and populate it.|
 | **visLegendNoContents**|1|Insert the legend but do not populate it.|
 
-If you pass  **visLegendPopulate** for the _populateFlags_ parameter, Visio inserts the legend and populates it with eligible data-graphic items in use on the specified drawing page. If no such items exist, Visio returns the error EU_API_NOOP, "Operation succeeded but no action taken."
+If you pass **visLegendPopulate** for the _populateFlags_ parameter, Visio inserts the legend and populates it with eligible data-graphic items in use on the specified drawing page. If no such items exist, Visio returns the error EU_API_NOOP, "Operation succeeded but no action taken."
 
-If you pass  **visLegendNoContents** for the _populateFlags_ parameter, Visio inserts a legend that consists of the outer list shape as well as a single inner container shape, which contains an inner list shape but has no heading text.
+If you pass **visLegendNoContents** for the _populateFlags_ parameter, Visio inserts a legend that consists of the outer list shape as well as a single inner container shape, which contains an inner list shape but has no heading text.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

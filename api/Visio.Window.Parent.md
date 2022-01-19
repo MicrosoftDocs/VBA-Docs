@@ -31,6 +31,6 @@ Windows
 
 ## Remarks
 
-In general, an object's parent is the object that contains it. For example, the parent of a  **Window** object is the **Windows** collection that contains the **Window** object.
+In general, an object's parent is the object that contains it. For example, the parent of a **Window** object is the **Windows** collection that contains the **Window** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

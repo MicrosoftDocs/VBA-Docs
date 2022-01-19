@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.FormFields property (Word)
 
-Returns a  **[FormFields](Word.formfields.md)** collection that represents all the form fields in the selection. Read-only.
+Returns a **[FormFields](Word.formfields.md)** collection that represents all the form fields in the selection. Read-only.
 
 
 ## Syntax

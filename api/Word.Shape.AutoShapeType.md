@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.AutoShapeType property (Word)
 
-Returns or sets the shape type for the specified  **Shape** object, which must represent an AutoShape other than a line or freeform drawing. Read/write **MsoAutoShapeType**.
+Returns or sets the shape type for the specified **Shape** object, which must represent an AutoShape other than a line or freeform drawing. Read/write **MsoAutoShapeType**.
 
 
 ## Syntax

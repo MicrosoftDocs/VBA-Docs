@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Conflicts.GetPrevious method (Outlook)
 
-Returns the previous object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
+Returns the previous object in the **[Conflicts](Outlook.Conflicts.md)** collection.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ A **[Conflict](Outlook.Conflict.md)** object that represents the previous object
 
 ## Remarks
 
-It returns  **Nothing** if no previous object exists, for example, if already positioned at the beginning of the collection. To ensure correct operation of the **[GetFirst](Outlook.Conflicts.GetFirst.md)**, **[GetLast](Outlook.Conflicts.GetLast.md)**, **[GetNext](Outlook.Conflicts.GetNext.md)**, and **GetPrevious** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns **Nothing** if no previous object exists, for example, if already positioned at the beginning of the collection. To ensure correct operation of the **[GetFirst](Outlook.Conflicts.GetFirst.md)**, **[GetLast](Outlook.Conflicts.GetLast.md)**, **[GetNext](Outlook.Conflicts.GetNext.md)**, and **GetPrevious** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also

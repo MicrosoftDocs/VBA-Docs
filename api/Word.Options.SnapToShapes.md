@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Options](Word.Options.md)** object
 
 ## Remarks
 
-This property creates additional invisible gridlines for each AutoShape.  **SnapToShapes** works independently of the **SnapToGrid** property.
+This property creates additional invisible gridlines for each AutoShape. **SnapToShapes** works independently of the **SnapToGrid** property.
 
 
 ## Example

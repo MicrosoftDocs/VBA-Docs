@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FarEastLineBreakLanguage property (Word)
 
-Returns or sets a  **[WdFarEastLineBreakLanguageID](Word.WdFarEastLineBreakLanguageID.md)** that represents the East Asian language to use when breaking lines of text in the specified document or template. Read/write.
+Returns or sets a **[WdFarEastLineBreakLanguageID](Word.WdFarEastLineBreakLanguageID.md)** that represents the East Asian language to use when breaking lines of text in the specified document or template. Read/write.
 
 
 ## Syntax

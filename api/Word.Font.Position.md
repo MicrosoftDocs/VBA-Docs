@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Position property (Word)
 
-Returns or sets the position of text (in points) relative to the base line. Read/write  **Long**.
+Returns or sets the position of text (in points) relative to the base line. Read/write **Long**.
 
 
 ## Syntax

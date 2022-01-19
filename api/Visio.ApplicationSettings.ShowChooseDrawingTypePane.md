@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ApplicationSettings.ShowChooseDrawingTypePane property (Visio)
 
-Determines if the  **New** tab appears when the user opens Microsoft Visio. Read/write.
+Determines if the **New** tab appears when the user opens Microsoft Visio. Read/write.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **ShowChooseDrawingTypePane** property is equivalent to setting the **Show New screen on launch** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **ShowChooseDrawingTypePane** property is equivalent to setting the **Show New screen on launch** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

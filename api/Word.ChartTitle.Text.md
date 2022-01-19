@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.Text property (Word)
 
-Returns or sets the text for the specified object. Read/write  **String**.
+Returns or sets the text for the specified object. Read/write **String**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Remarks
 
-The values of the  **StartField** and **[EndField](Outlook.TimelineView.EndField.md)** properties indicate which Outlook item properties are used by the **TimelineView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
+The values of the **StartField** and **[EndField](Outlook.TimelineView.EndField.md)** properties indicate which Outlook item properties are used by the **TimelineView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
 
 
 ## See also

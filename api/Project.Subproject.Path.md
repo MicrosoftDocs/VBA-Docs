@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Subproject.Path property (Project)
 
-Gets or sets the path to the source project. Read/write  **String**.
+Gets or sets the path to the source project. Read/write **String**.
 
 
 ## Syntax

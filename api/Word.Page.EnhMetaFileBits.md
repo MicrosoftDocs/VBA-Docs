@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.EnhMetaFileBits property (Word)
 
-Returns a  **Variant** that represents a picture representation of how a page of text appears. Read-only.
+Returns a **Variant** that represents a picture representation of how a page of text appears. Read-only.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-While any character in Cset is found, the end position of the specified range is moved. This method returns the number of characters that the end position of the range moved as a  **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero). If the end position is moved backward to a point that precedes the original start position, the start position is set to the new end position.
+While any character in Cset is found, the end position of the specified range is moved. This method returns the number of characters that the end position of the range moved as a **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero). If the end position is moved backward to a point that precedes the original start position, the start position is set to the new end position.
 
 
 ## Example

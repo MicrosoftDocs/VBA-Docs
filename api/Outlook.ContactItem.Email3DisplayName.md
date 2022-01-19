@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-This property is set to the value of the  **[FullName](Outlook.ContactItem.FullName.md)** property by default.
+This property is set to the value of the **[FullName](Outlook.ContactItem.FullName.md)** property by default.
 
 
 ## See also

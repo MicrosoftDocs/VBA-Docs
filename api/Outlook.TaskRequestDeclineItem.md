@@ -19,11 +19,11 @@ Represents a response to a **[TaskRequestItem](Outlook.TaskRequestItem.md)** sen
 
 ## Remarks
 
-If the delegated user declines the task, the  **[ResponseState](Outlook.TaskItem.ResponseState.md)** property is set to **olTaskDecline**. The associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestDeclineItem** object.
+If the delegated user declines the task, the **[ResponseState](Outlook.TaskItem.ResponseState.md)** property is set to **olTaskDecline**. The associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestDeclineItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestDeclineItem**. Work directly with the **TaskItem** object.
+Use the **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestDeclineItem**. Work directly with the **TaskItem** object.
 
 
 ## Events

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HangulAndAlphabetExceptions.Add method (Word)
 
-Returns a  **HangulAndAlphabetException** object that represents a new exception to the list of AutoCorrect exceptions.
+Returns a **HangulAndAlphabetException** object that represents a new exception to the list of AutoCorrect exceptions.
 
 
 ## Syntax

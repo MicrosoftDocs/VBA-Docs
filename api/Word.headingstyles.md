@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # HeadingStyles object (Word)
 
-A collection of  **HeadingStyle** objects that represent the styles used to compile a table of figures or table of contents.
+A collection of **HeadingStyle** objects that represent the styles used to compile a table of figures or table of contents.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Set myToc = ActiveDocument.TablesOfContents.Add _
 myToc.HeadingStyles.Add Style:="Title", Level:=2
 ```
 
-Use  **HeadingStyles** (Index), where Index is the index number, to return a single **[HeadingStyle](Word.HeadingStyle.md)** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
+Use **HeadingStyles** (Index), where Index is the index number, to return a single **[HeadingStyle](Word.HeadingStyle.md)** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
 
 
 

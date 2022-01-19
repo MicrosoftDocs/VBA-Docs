@@ -45,16 +45,16 @@ Nothing
 
 ## Remarks
 
-The  **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)**, except that it links a single shape, instead of a selection of shapes, to a single data row.
+The **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)**, except that it links a single shape, instead of a selection of shapes, to a single data row.
 
 If you pass **True** for the AutoApplyDataGraphics parameter, Microsoft Visio re-applies the existing data graphic to a shape if it already had a data graphic applied before you called the method. For a shape that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **LinkToData** method to link a shape to a data row.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **LinkToData** method to link a shape to a data row.
 
-Before running this macro, add at least one data recordset to the  **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. The macro uses the ID of the data recordset most recently added to the collection. It draws a rectangle shape on the page and links it to the data in the first row of the data recordset, while applying the default data graphic to the shape.
+Before running this macro, add at least one data recordset to the **[DataRecordsets](Visio.DataRecordsets.md)** collection of the document. The macro uses the ID of the data recordset most recently added to the collection. It draws a rectangle shape on the page and links it to the data in the first row of the data recordset, while applying the default data graphic to the shape.
 
 
 

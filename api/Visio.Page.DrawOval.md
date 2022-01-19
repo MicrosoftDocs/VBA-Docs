@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.DrawOval method (Visio)
 
-Adds an oval (ellipse) to the  **Shapes** collection of a page.
+Adds an oval (ellipse) to the **Shapes** collection of a page.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-Using the  **DrawOval** method is equivalent to using the **Ellipse** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the ellipse is being placed.
+Using the **DrawOval** method is equivalent to using the **Ellipse** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the ellipse is being placed.
 
 
 ## Example

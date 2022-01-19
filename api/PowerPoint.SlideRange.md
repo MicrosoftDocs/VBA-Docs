@@ -28,13 +28,13 @@ For those operations that work in the user interface whether you have a single s
 
 - Applying a method to a **SlideRange** collection is equivalent to applying the method to all the **Slide** objects in that range as a group.
     
-- Setting the value of a property of the  **SlideRange** collection is equivalent to setting the value of the property in each slide in that range individually (for a property that takes an enumerated type, setting the value to the "Mixed" value has no effect).
+- Setting the value of a property of the **SlideRange** collection is equivalent to setting the value of the property in each slide in that range individually (for a property that takes an enumerated type, setting the value to the "Mixed" value has no effect).
     
-- A property of the  **SlideRange** collection that returns an enumerated type returns the value of the property for an individual slide in the collection if all slides in the collection have the same value for that property. If the slides in the collection don't all have the same value for the property, the property returns the "Mixed" value.
+- A property of the **SlideRange** collection that returns an enumerated type returns the value of the property for an individual slide in the collection if all slides in the collection have the same value for that property. If the slides in the collection don't all have the same value for the property, the property returns the "Mixed" value.
     
-- A property of the  **SlideRange** collection that returns a simple data type (such as **Long**, **Single**, or **String**) returns the value of the property for an individual slide in the collection if all slides in the collection have the same value for that property. If the slides in the collection don't all have the same value for the property, the property will return - 2 or generate an error. For example, using the **Name** property on a **SlideRange** object that contains multiple slides will generate an error because each slide has a different value for its **Name** property.
+- A property of the **SlideRange** collection that returns a simple data type (such as **Long**, **Single**, or **String**) returns the value of the property for an individual slide in the collection if all slides in the collection have the same value for that property. If the slides in the collection don't all have the same value for the property, the property will return - 2 or generate an error. For example, using the **Name** property on a **SlideRange** object that contains multiple slides will generate an error because each slide has a different value for its **Name** property.
     
-- Some formatting properties of slides aren't set by properties and methods that apply directly to the  **SlideRange** collection, but by properties and methods that apply to an object contained in the **SlideRange** collection, such as the **ColorScheme** object. If the contained object represents operations that can be performed on multiple objects in the user interface, you'll be able to return the object from a **SlideRange** collection that contains more than one slide, and its properties and methods will follow the preceding rules. For example, you can use the **ColorScheme** property to return the **ColorScheme** object that represents the color schemes used on all the slides in the specified **SlideRange** collection. Setting properties for this **ColorScheme** object will also set these properties for the **ColorScheme** objects on all the individual slides in the **SlideRange** collection.
+- Some formatting properties of slides aren't set by properties and methods that apply directly to the **SlideRange** collection, but by properties and methods that apply to an object contained in the **SlideRange** collection, such as the **ColorScheme** object. If the contained object represents operations that can be performed on multiple objects in the user interface, you'll be able to return the object from a **SlideRange** collection that contains more than one slide, and its properties and methods will follow the preceding rules. For example, you can use the **ColorScheme** property to return the **ColorScheme** object that represents the color schemes used on all the slides in the specified **SlideRange** collection. Setting properties for this **ColorScheme** object will also set these properties for the **ColorScheme** objects on all the individual slides in the **SlideRange** collection.
     
 The following examples describe how to:
 
@@ -50,7 +50,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Slides.Range** (_index_), where _index_ is the name or index number of the slide or an array that contains either names or index numbers of slides, to return a **SlideRange** collection that represents a set of slides in a presentation. You can use the **Array** function to construct an array of names or index numbers. The following example sets the background fill for slides one and three in the active presentation.
+Use **Slides.Range** (_index_), where _index_ is the name or index number of the slide or an array that contains either names or index numbers of slides, to return a **SlideRange** collection that represents a set of slides in a presentation. You can use the **Array** function to construct an array of names or index numbers. The following example sets the background fill for slides one and three in the active presentation.
 
 
 ```vb
@@ -78,9 +78,9 @@ With ActivePresentation.Slides.Range(Array("Intro", "Big Chart"))
 End With
 ```
 
-Although you can use the [Range](PowerPoint.Slides.Range.md)method to return any number of slides, it is simpler to use the [Item](PowerPoint.Slides.Item.md)method if you only want to return a single member of the  **SlideRange** collection. For example, `Slides(1)` is simpler than `Slides.Range(1)`.
+Although you can use the [Range](PowerPoint.Slides.Range.md)method to return any number of slides, it is simpler to use the [Item](PowerPoint.Slides.Item.md)method if you only want to return a single member of the **SlideRange** collection. For example, `Slides(1)` is simpler than `Slides.Range(1)`.
 
-Use the [SlideRange](PowerPoint.Selection.SlideRange.md)property of the  **[Selection](PowerPoint.Selection.md)** object to return all the slides in the selection. The following example sets the background fill for all the selected slides in window one, assuming that there's at least one slide selected.
+Use the [SlideRange](PowerPoint.Selection.SlideRange.md)property of the **[Selection](PowerPoint.Selection.md)** object to return all the slides in the selection. The following example sets the background fill for all the selected slides in window one, assuming that there's at least one slide selected.
 
 
 
@@ -95,7 +95,7 @@ With Windows(1).Selection.SlideRange
 End With
 ```
 
-Use  **Selection.SlideRange** (_index_), where _index_ is the slide name or index number, to return a single slide from the selection. The following example sets the background fill for slide two in the collection of selected slides in window one, assuming that there are at least two slides selected.
+Use **Selection.SlideRange** (_index_), where _index_ is the slide name or index number, to return a single slide from the selection. The following example sets the background fill for slide two in the collection of selected slides in window one, assuming that there are at least two slides selected.
 
 
 
@@ -110,7 +110,7 @@ With Windows(1).Selection.SlideRange(2)
 End With
 ```
 
-Use the  **NotesPage** property to return a **SlideRange** collection that represents the specified notes page. The following example inserts text into placeholder two (the notes area) on the notes page for slide one in the active presentation.
+Use the **NotesPage** property to return a **SlideRange** collection that represents the specified notes page. The following example inserts text into placeholder two (the notes area) on the notes page for slide one in the active presentation.
 
 
 

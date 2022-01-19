@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DataLabel.Caption property (PowerPoint)
 
-Returns or sets the data label text. Read/write  **String**.
+Returns or sets the data label text. Read/write **String**.
 
 
 ## Syntax

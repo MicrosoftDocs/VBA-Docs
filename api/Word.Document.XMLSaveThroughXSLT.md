@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.XMLSaveThroughXSLT property (Word)
 
-Sets or returns a  **String** that specifies the path and file name for the Extensible Stylesheet Language Transformation (XSLT) to apply when a user saves a document.
+Sets or returns a **String** that specifies the path and file name for the Extensible Stylesheet Language Transformation (XSLT) to apply when a user saves a document.
 
 
 ## Syntax

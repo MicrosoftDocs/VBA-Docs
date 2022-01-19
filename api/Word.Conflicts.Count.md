@@ -26,7 +26,7 @@ _expression_.**Count**
 
 ## Example
 
-The following code example gets the number of  **Conflict** objects in the active document.
+The following code example gets the number of **Conflict** objects in the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.Orientation property (PowerPoint)
 
-Returns or sets the text orientation. Read/write  **Long**.
+Returns or sets the text orientation. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 
 ## Remarks
 
-The value of this property can be an integer value from -90 to 90 degrees or one of the  **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
+The value of this property can be an integer value from -90 to 90 degrees or one of the **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
 
 
 ## See also

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Report.Name property (Project)
-Gets or sets the name of the report. Read/write  **String**.
+Gets or sets the name of the report. Read/write **String**.
 
 ## Syntax
 

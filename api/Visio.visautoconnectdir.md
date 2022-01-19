@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisAutoConnectDir enumeration (Visio)
 
-Auto-connect direction constants passed to the  **Shape.AutoConnect** method.
+Auto-connect direction constants passed to the **Shape.AutoConnect** method.
 
 
 

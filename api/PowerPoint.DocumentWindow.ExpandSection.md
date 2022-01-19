@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DocumentWindow.ExpandSection method (PowerPoint)
 
-Expands the section in the current  **DocumentWindow**.
+Expands the section in the current **DocumentWindow**.
 
 
 ## Syntax

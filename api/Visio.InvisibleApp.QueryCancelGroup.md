@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
+A Microsoft Visio instance fires **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
 
 
 

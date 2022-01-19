@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.BaselineStartText property (Project)
 
-Gets or sets a string representation of the baseline start date of a task. Read/write  **String**.
+Gets or sets a string representation of the baseline start date of a task. Read/write **String**.
 
 
 ## Syntax

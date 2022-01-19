@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRe
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagConversationIndex**.
+This property corresponds to the MAPI property **PidTagConversationIndex**.
 
 
 ## See also

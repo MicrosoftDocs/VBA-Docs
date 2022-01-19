@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TickLabels.NumberFormatLocal property (Word)
 
-Returns or sets the format code for the object as a string in the language of the user. Read/write  **Variant**.
+Returns or sets the format code for the object as a string in the language of the user. Read/write **Variant**.
 
 
 ## Syntax

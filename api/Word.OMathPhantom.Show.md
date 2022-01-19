@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathPhantom.Show property (Word)
 
-Returns or sets a  **Boolean** that represents whether the contents of a phantom object are visible. Read/write.
+Returns or sets a **Boolean** that represents whether the contents of a phantom object are visible. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.FormatName property (PowerPoint)
 
-Returns the name of the specified file converter. Read-only  **String**.
+Returns the name of the specified file converter. Read-only **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConver
 
 ## Remarks
 
-The format names appear in the  **Save as type** box in the **Save As** dialog box.
+The format names appear in the **Save as type** box in the **Save As** dialog box.
 
 
 ## Example

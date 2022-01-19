@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # XlForecastAggregation enumeration (Excel)
 
-Constants passed to various  **WorksheetFunction** and **Workbook** statistical forecasting methods.
+Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.
 
 
 ## Members

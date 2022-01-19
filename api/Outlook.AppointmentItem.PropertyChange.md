@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.PropertyChange event (Outlook)
 
-Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
+Occurs when an explicit built-in property (for example, **[Subject](Outlook.AppointmentItem.Subject.md)**) of an instance of the parent object is changed.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The property name is passed to the event so that you can determine which propert
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **PropertyChange** event to prevent someone from disabling a reminder on an item.
+This Visual Basic for Applications (VBA) example uses the **PropertyChange** event to prevent someone from disabling a reminder on an item.
 
 
 ```vb

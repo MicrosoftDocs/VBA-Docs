@@ -33,7 +33,7 @@ A **SimpleItems** collection that includes the root item or all root items of th
 
 A conversation can have one or more root items. For example, if the root item of the conversation has three child items and the root item is permanently deleted, all three child items become root items.
 
-If all items are deleted from the conversation after the  **[Conversation](Outlook.Conversation.md)** object has been obtained, **GetRootItems** returns a **SimpleItems** collection with zero objects. In this case, the **[Count](Outlook.SimpleItems.Count.md)** property of the **SimpleItems** collection returns 0.
+If all items are deleted from the conversation after the **[Conversation](Outlook.Conversation.md)** object has been obtained, **GetRootItems** returns a **SimpleItems** collection with zero objects. In this case, the **[Count](Outlook.SimpleItems.Count.md)** property of the **SimpleItems** collection returns 0.
 
 
 ## See also

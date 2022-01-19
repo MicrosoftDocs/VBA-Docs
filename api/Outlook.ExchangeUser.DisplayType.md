@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.DisplayType property (Outlook)
 
-Returns  **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration representing the nature of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
+Returns **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration representing the nature of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagDisplayType**.
+This property corresponds to the MAPI property, **PidTagDisplayType**.
 
  The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeUser**, **DisplayType** should always return **olUser**.
 

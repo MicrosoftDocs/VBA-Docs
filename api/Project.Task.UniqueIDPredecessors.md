@@ -30,6 +30,6 @@ If a task has two predecessor tasks with the **UniqueID** values of 9 and 10, fo
 
 
 > [!NOTE] 
->  **UniqueID** values remain constant within a project and do not necessarily match the task **ID** values that can change with the position of the task in the outline or as tasks are deleted and added.
+> **UniqueID** values remain constant within a project and do not necessarily match the task **ID** values that can change with the position of the task in the outline or as tasks are deleted and added.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

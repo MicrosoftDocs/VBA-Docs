@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Notes property (Project)
 
-Gets or sets the notes for a task. Read/write  **String**.
+Gets or sets the notes for a task. Read/write **String**.
 
 
 ## Syntax

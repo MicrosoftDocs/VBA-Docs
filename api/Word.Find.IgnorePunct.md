@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.IgnorePunct property (Word)
 
-Returns or sets a  **Boolean** that represents whether a find operation should ignore punctuation in found text. Read/write.
+Returns or sets a **Boolean** that represents whether a find operation should ignore punctuation in found text. Read/write.
 
 
 ## Syntax

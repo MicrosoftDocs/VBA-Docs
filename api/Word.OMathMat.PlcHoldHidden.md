@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.PlcHoldHidden property (Word)
 
-Returns or sets a  **Boolean** that represents whether placeholders in a matrix are hidden from display. **True** hides placeholder text. Read/write.
+Returns or sets a **Boolean** that represents whether placeholders in a matrix are hidden from display. **True** hides placeholder text. Read/write.
 
 
 ## Syntax

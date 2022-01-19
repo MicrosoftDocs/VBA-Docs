@@ -33,13 +33,13 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 | _ExcludeHeader_|Optional| **Variant**| **True** to exclude the first row from the sort operation. The default value is **False**.|
 | _FieldNumber_|Optional| **Variant**|The first field by which to sort. Microsoft Word sorts by FieldNumber, then by FieldNumber2, and then by FieldNumber3.|
 | _SortFieldType_|Optional| **Variant**|The sort type for FieldNumber. Can be one of the **WdSortFieldType** constants. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed. The default value is **wdSortFieldAlphanumeric**.|
-| _SortOrder_|Optional| **Variant**|The sorting order to use when sorting FieldNumber. Can be a  **WdSortOrder** constant.|
+| _SortOrder_|Optional| **Variant**|The sorting order to use when sorting FieldNumber. Can be a **WdSortOrder** constant.|
 | _FieldNumber2_|Optional| **Variant**|The second field by which to sort.|
 | _SortFieldType2_|Optional| **Variant**|The sort type for FieldNumber2. Can be one of the **WdSortFieldType** constants. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed. The default value is **wdSortFieldAlphanumeric**.|
-| _SortOrder2_|Optional| **Variant**|The sorting order to use when sorting FieldNumber2. Can be one  **WdSortOrder** constant.|
+| _SortOrder2_|Optional| **Variant**|The sorting order to use when sorting FieldNumber2. Can be one **WdSortOrder** constant.|
 | _FieldNumber3_|Optional| **Variant**|The third field by which to sort.|
 | _SortFieldType3_|Optional| **Variant**|The sort type for FieldNumber3. Can be one of the **WdSortFieldType** constants. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed. The default value is **wdSortFieldAlphanumeric**.|
-| _SortOrder3_|Optional| **Variant**|The sorting order to use when sorting FieldNumber3. Can be one  **WdSortOrder** constant.|
+| _SortOrder3_|Optional| **Variant**|The sorting order to use when sorting FieldNumber3. Can be one **WdSortOrder** constant.|
 | _CaseSensitive_|Optional| **Variant**| **True** to sort with case sensitivity. The default value is **False**.|
 | _BidiSort_|Optional| **Variant**| **True** to sort based on right-to-left language rules. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 | _IgnoreThe_|Optional| **Variant**| **True** to ignore the Arabic character alef lam when sorting right-to-left language text. This argument may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|

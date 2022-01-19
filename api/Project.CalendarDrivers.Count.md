@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'CalendarDrivers' object.
 
 ## Remarks
 
-If  **TotalDetectedCount** is greater than 5, **Count** is 0.
+If **TotalDetectedCount** is greater than 5, **Count** is 0.
 
 Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.NumberingRule property (Word)
 
-Returns or sets the way endnotes are numbered after page breaks or section breaks. Read/write  **[WdNumberingRule](Word.WdNumberingRule.md)**.
+Returns or sets the way endnotes are numbered after page breaks or section breaks. Read/write **[WdNumberingRule](Word.WdNumberingRule.md)**.
 
 
 ## Syntax

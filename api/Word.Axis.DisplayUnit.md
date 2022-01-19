@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.DisplayUnit property (Word)
 
-Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](Word.xldisplayunit.md)**, **xlCustom**, or **xlNone**.
+Returns or sets the unit label for the value axis. Read/write **[XlDisplayUnit](Word.xldisplayunit.md)**, **xlCustom**, or **xlNone**.
 
 
 ## Syntax

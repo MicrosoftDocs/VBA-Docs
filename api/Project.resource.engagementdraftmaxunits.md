@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementDraftMaxUnits property (Project)
 
-Returns the draft max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
+Returns the draft max units for the engagement. Read-only **Integer**. Introduced in Office 2016.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.PathFormat property (Word)
 
-Returns or sets the path type for the specified text frame. Read/write  **MsoPathType**.
+Returns or sets the path type for the specified text frame. Read/write **MsoPathType**.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The value of the **PathFormat** property can be one of the following **MsoPathTy
     
 
 
-The value  **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
+The value **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
 
 
 ## See also

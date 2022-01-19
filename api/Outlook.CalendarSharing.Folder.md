@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalendarSharing.Folder property (Outlook)
 
-Returns the  **[Folder](Outlook.Folder.md)** containing the calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read-only.
+Returns the **[Folder](Outlook.Folder.md)** containing the calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read-only.
 
 
 ## Syntax

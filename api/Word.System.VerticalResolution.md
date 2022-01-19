@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.VerticalResolution property (Word)
 
-Returns the vertical screen resolution in pixels. Read-only  **Long**.
+Returns the vertical screen resolution in pixels. Read-only **Long**.
 
 
 ## Syntax

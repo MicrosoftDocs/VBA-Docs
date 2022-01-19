@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataField.Name property (Word)
 
-Returns name of the specified object. Read-only  **String**.
+Returns name of the specified object. Read-only **String**.
 
 
 ## Syntax

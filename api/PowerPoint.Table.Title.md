@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Title property (PowerPoint)
 
-Returns or sets the title of the  **Table** object. Read/write.
+Returns or sets the title of the **Table** object. Read/write.
 
 
 ## Syntax

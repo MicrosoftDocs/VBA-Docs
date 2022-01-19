@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.MonthItem property (Project)
 
-Gets or sets the day of the week value for a monthly type of exception. Read/write  **PjExceptionItem**.
+Gets or sets the day of the week value for a monthly type of exception. Read/write **PjExceptionItem**.
 
 
 ## Syntax

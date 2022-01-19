@@ -28,7 +28,7 @@ _expression_ A variable that represents a [DataLabels](PowerPoint.DataLabels.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The index number in the  **DataLabels** collection of the data label to propagate.|
+| _Index_|Required|**Variant**|The index number in the **DataLabels** collection of the data label to propagate.|
 | _Index_|Required|**Variant**||
 
 ## Return value

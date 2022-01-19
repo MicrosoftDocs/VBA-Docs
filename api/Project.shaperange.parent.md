@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Parent property (Project)
-Gets the parent object of the shape. Read-only  **Object**.
+Gets the parent object of the shape. Read-only **Object**.
 
 ## Syntax
 

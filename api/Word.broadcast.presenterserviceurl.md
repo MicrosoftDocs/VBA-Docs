@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Broadcast.PresenterServiceUrl property (Word)
 
-If a broadcast is in progress, returns a  **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
+If a broadcast is in progress, returns a **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** obj
 
 ## Remarks
 
-If a broadcast is not in progress,  **PresenterServiceUrl** returns an empty string.
+If a broadcast is not in progress, **PresenterServiceUrl** returns an empty string.
 
 
 ## Property value

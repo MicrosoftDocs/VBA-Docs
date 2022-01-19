@@ -19,9 +19,9 @@ Represents the storage for objects in the Outlook Bar.
 
 ## Remarks
 
-Use the  **[Contents](Outlook.OutlookBarPane.Contents.md)** property of an **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
+Use the **[Contents](Outlook.OutlookBarPane.Contents.md)** property of an **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
 
-Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to retrieve the **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object for the Outlook Bar.
+Use the **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to retrieve the **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object for the Outlook Bar.
 
 
 ## Example

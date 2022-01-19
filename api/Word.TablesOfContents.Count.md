@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfContents.Count property (Word)
 
-Returns a  **Long** that represents the number of tables of contents in the collection. Read-only.
+Returns a **Long** that represents the number of tables of contents in the collection. Read-only.
 
 
 ## Syntax

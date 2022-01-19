@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Category](Outlook.Category.md) object
 
 ## Remarks
 
-You can share the same color for multiple categories, by specifying the same constant that represents the category color in the  **OlCategoryColor** enumeration for those **Category** objects.
+You can share the same color for multiple categories, by specifying the same constant that represents the category color in the **OlCategoryColor** enumeration for those **Category** objects.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing color assignments for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing color assignments for each **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb

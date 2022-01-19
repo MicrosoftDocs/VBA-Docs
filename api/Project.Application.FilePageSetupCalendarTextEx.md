@@ -50,7 +50,7 @@ Using the **FilePageSetupCalendarTextEx** method without any arguments displays 
 
 
 > [!NOTE] 
->  **FilePageSetupCalendarTextEx** works only for printing calendar views.
+> **FilePageSetupCalendarTextEx** works only for printing calendar views.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PrintXMLTag property (Word)
 
-Returns a  **Boolean** that represents whether to print the XML tags when printing a document. Corresponds to the **XML tags** check box on the **Print** tab in the **Options** dialog box. .
+Returns a **Boolean** that represents whether to print the XML tags when printing a document. Corresponds to the **XML tags** check box on the **Print** tab in the **Options** dialog box. .
 
 
 ## Syntax

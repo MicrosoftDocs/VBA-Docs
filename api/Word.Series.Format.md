@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.Format property (Word)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)**.
+Returns the line, fill, and effect formatting for the object. Read-only **[ChartFormat](Word.ChartFormat.md)**.
 
 
 ## Syntax

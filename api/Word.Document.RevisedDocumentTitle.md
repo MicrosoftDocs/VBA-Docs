@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.RevisedDocumentTitle property (Word)
 
-Returns a  **String** that represents the document title for a revised document after running a legal-blackline document compare function. Read-only.
+Returns a **String** that represents the document title for a revised document after running a legal-blackline document compare function. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeNodes.Count property (Word)
 
-Returns a  **Long** that represents the number of shape nodes in the collection. Read-only.
+Returns a **Long** that represents the number of shape nodes in the collection. Read-only.
 
 
 ## Syntax

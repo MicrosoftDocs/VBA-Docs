@@ -21,7 +21,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 > [!NOTE] 
-> In Project, the connect and disconnect methods do not work for a **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**,  **BeginConnectedShape**,  **BeginConnectedSite**,  **EndConnected**,  **EndConnectedShape**, and  **EndConnectedSite** properties have no meaning.
+> In Project, the connect and disconnect methods do not work for a **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**, **BeginConnectedShape**, **BeginConnectedSite**, **EndConnected**, **EndConnectedShape**, and **EndConnectedSite** properties have no meaning.
 
 For example, in the following code snippet, the **BeginConnect** method gives a run-time error 13, 'Type mismatch'.
 

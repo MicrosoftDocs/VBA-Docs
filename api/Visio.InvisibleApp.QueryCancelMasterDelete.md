@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
+A Microsoft Visio instance fires **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.MovedRange property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents a range of text that was moved from one place to another in a document with tracked changes. Read-only.
+Returns a **[Range](Word.Range.md)** object that represents a range of text that was moved from one place to another in a document with tracked changes. Read-only.
 
 
 ## Syntax

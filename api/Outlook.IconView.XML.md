@@ -28,7 +28,7 @@ _expression_ A variable that represents an [IconView](Outlook.IconView.md) objec
 
 The XML definition describes the view type by using a series of tags and keywords corresponding to various properties of the view itself. When the view is created, the XML definition is parsed to render the settings for the new view.
 
-To determine how the XML should be structured when creating views, you can create a view by using the Outlook user interface and then you can retrieve the  **XML** property for that view.
+To determine how the XML should be structured when creating views, you can create a view by using the Outlook user interface and then you can retrieve the **XML** property for that view.
 
 
 ## See also

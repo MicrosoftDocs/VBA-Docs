@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkTimeZoneControl.DropButtonClick event (Outlook)
 
-Occurs when the user clicks the drop button to expand the drop-down list in the time zone control, or when the  **[DropDown](Outlook.OlkTimeZoneControl.DropDown.md)** method is called programmatically.
+Occurs when the user clicks the drop button to expand the drop-down list in the time zone control, or when the **[DropDown](Outlook.OlkTimeZoneControl.DropDown.md)** method is called programmatically.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultDurationUnits property (Project)
 
-Gets or sets the default duration units. Read/write  **PjUnit**.
+Gets or sets the default duration units. Read/write **PjUnit**.
 
 
 ## Syntax

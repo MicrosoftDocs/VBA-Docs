@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # StartDriver.OverAllocatedAssignments property (Project)
 
-Gets overallocated assignments for a task start driver. Read-only  **OverAllocatedAssignments**.
+Gets overallocated assignments for a task start driver. Read-only **OverAllocatedAssignments**.
 
 
 ## Syntax

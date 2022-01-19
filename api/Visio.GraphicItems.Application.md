@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItems.Application property (Visio)
 
-Returns the instance of Microsoft Visio associated with the  **GraphicItems** collection. Read-only.
+Returns the instance of Microsoft Visio associated with the **GraphicItems** collection. Read-only.
 
 
 > [!NOTE] 

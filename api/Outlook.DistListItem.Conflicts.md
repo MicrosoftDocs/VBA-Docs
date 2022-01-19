@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DistListItem.Conflicts property (Outlook)
 
-Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Return the **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.Layers property (Visio)
 
-Returns the  **Layers** collection of an object. Read-only.
+Returns the **Layers** collection of an object. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Layers
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Layers** property to add shapes to layers. It also uses the **Layer** property to get a reference to a particular layer, the **LayerCount** property to determine the number of layers to which a shape is assigned, and the **Name** property to get the name of the current layer.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Layers** property to add shapes to layers. It also uses the **Layer** property to get a reference to a particular layer, the **LayerCount** property to determine the number of layers to which a shape is assigned, and the **Name** property to get the name of the current layer.
 
 
 ```vb

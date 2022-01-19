@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GetLetterContent method (Word)
 
-Retrieves letter elements from the specified document and returns a  **[LetterContent](Word.LetterContent.md)** object.
+Retrieves letter elements from the specified document and returns a **[LetterContent](Word.LetterContent.md)** object.
 
 
 ## Syntax

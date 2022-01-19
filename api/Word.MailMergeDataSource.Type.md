@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.Type property (Word)
 
-Returns the type of mail merge data source. Read-only  **[WdMailMergeDataSource](Word.WdMailMergeDataSource.md)**.
+Returns the type of mail merge data source. Read-only **[WdMailMergeDataSource](Word.WdMailMergeDataSource.md)**.
 
 
 ## Syntax

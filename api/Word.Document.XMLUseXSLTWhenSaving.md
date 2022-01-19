@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.XMLUseXSLTWhenSaving property (Word)
 
-Returns a  **Boolean** that represents whether to save a document through an Extensible Stylesheet Language Transformation (XSLT). **True** saves a document through an XSLT.
+Returns a **Boolean** that represents whether to save a document through an Extensible Stylesheet Language Transformation (XSLT). **True** saves a document through an XSLT.
 
 
 ## Syntax

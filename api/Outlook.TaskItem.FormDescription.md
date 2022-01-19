@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TaskItem.FormDescription property (Outlook)
 
-Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
+Returns the **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 
 
 ## Syntax

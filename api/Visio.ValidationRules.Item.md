@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationRules.Item property (Visio)
 
-Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the specified index position. The **Item** property is the default property for all collections. Read-only.
+Returns the **[ValidationRule](Visio.ValidationRule.md)** object that has the specified index position. The **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[ValidationRules](Visio.ValidationRu
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
+When retrieving objects from a collection, you can omit **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
 
 
 ```vb

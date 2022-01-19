@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.Parent property (Word)
 
-Returns a  **Shape** object that represents the parent shape of the text frame.
+Returns a **Shape** object that represents the parent shape of the text frame.
 
 
 ## Syntax

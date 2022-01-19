@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.Code property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents a field's code. Read/write.
+Returns a **[Range](Word.Range.md)** object that represents a field's code. Read/write.
 
 
 ## Syntax

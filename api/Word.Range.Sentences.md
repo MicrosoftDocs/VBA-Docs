@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Sentences property (Word)
 
-Returns a  **Sentences** collection that represents all the sentences in the range. Read-only.
+Returns a **Sentences** collection that represents all the sentences in the range. Read-only.
 
 
 ## Syntax

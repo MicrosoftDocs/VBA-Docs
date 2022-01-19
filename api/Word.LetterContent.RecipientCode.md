@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.RecipientCode property (Word)
 
-Returns or sets the recipient code. Read/write  **String**.
+Returns or sets the recipient code. Read/write **String**.
 
 
 ## Syntax

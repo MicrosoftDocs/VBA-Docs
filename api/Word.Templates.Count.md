@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Templates.Count property (Word)
 
-Returns a  **Long** that represents the number of templates in the specified collection. Read-only.
+Returns a **Long** that represents the number of templates in the specified collection. Read-only.
 
 
 ## Syntax

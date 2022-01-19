@@ -39,13 +39,13 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _NewFieldName_|Optional|**String**|The name of a new field. The field specified with NewFieldName replaces the field specified with FieldName.|
 | _Title_|Optional|**String**|The title for the field specified with FieldName.|
 | _Width_|Optional|**Integer**|A number that specifies the width of the field specified with FieldName. The default value is 10 for new fields.|
-| _Align_|Optional|**Integer**|Specifies how to align the text in the field specified with FieldName. Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjRight**.|
+| _Align_|Optional|**Integer**|Specifies how to align the text in the field specified with FieldName. Can be one of the following **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjRight**.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the table name appears in the **Tables** drop-down menu; otherwise, **False**. (The **Tables** drop-down menu is on the **View** tab of the Ribbon.) The default value is **False.**|
 | _LockFirstColumn_|Optional|**Boolean**|**True** if Project locks or prevents changes to the first column of the table; otherwise, **False**. The default value is **False**.|
 | _DateFormat_|Optional|**Integer**|A constant that specifies the format for the date fields in the table. Can be one of the **[PjDateFormat](Project.PjDateFormat.md)** constants. The default value is **pjDateDefault**.|
 | _RowHeight_|Optional|**Integer**|The height of the rows in the table. The default value is 1.|
 | _ColumnPosition_|Optional|**Long**|The number of the column to edit. (Columns are numbered from left to right, starting with 0.) If a value for NewFieldName is specified, a new column is inserted in the table. If ColumnPosition is set to 0, the new field is inserted in the first column (LockFirstColumn is **False**) or the second column (LockFirstColumn is **True**) of the table. Set ColumnPosition to -1 to specify the last column of the table. The default value is -1.|
-| _AlignTitle_|Optional|**Long**|A constant that specifies the alignment of the column title. Can be one of the following  **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
+| _AlignTitle_|Optional|**Long**|A constant that specifies the alignment of the column title. Can be one of the following **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
 | _HeaderAutoRowHeightAdjustment_|Optional|**Boolean**|**True** if Project automatically adjusts the row height of the table; otherwise, **False**. The default value is **True**.|
 | _HeaderTextWrap_|Optional|**Boolean**|**True** if Project wraps text in the header of the table; otherwise, **False**. The default value is **True**.|
 

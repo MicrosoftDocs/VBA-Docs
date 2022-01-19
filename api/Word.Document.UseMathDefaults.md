@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.UseMathDefaults property (Word)
 
-Returns or sets a  **Boolean** that represents whether to use the default math settings when creating new equations. Read/write.
+Returns or sets a **Boolean** that represents whether to use the default math settings when creating new equations. Read/write.
 
 
 ## Syntax

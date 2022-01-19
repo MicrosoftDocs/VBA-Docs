@@ -19,7 +19,7 @@ Represents a collection of animation points for a **[PropertyEffect](PowerPoint.
 
 ## Example
 
-Use the [Points](PowerPoint.PropertyEffect.Points.md)property of the  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object to return an **AnimationPoints** collection object. The following example adds an animation point to the first behavior in the active presentation's main animation sequence.
+Use the [Points](PowerPoint.PropertyEffect.Points.md)property of the **[PropertyEffect](PowerPoint.PropertyEffect.md)** object to return an **AnimationPoints** collection object. The following example adds an animation point to the first behavior in the active presentation's main animation sequence.
 
 
 ```vb

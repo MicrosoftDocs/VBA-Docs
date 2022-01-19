@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.ContainerProperties property (Visio)
 
-Returns the  **[ContainerProperties](Visio.ContainerProperties.md)** object associated with the shape. Read-only.
+Returns the **[ContainerProperties](Visio.ContainerProperties.md)** object associated with the shape. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-If the shape is not a container, the  **ContainerProperties** property returns **Nothing**.
+If the shape is not a container, the **ContainerProperties** property returns **Nothing**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

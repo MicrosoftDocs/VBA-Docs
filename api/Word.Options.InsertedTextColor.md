@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.InsertedTextColor property (Word)
 
-Returns or sets the color of text that is inserted while change tracking is enabled. Read/write  **WdColorIndex**.
+Returns or sets the color of text that is inserted while change tracking is enabled. Read/write **WdColorIndex**.
 
 
 ## Syntax

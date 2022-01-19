@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConversationHeader.Session property (Outlook)
 
-Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
+Returns the **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[ConversationHeader](Outlook.Conversa
 
 ## Remarks
 
-Returns  **Null** (**Nothing** in Visual Basic) if there is no logged-on session.
+Returns **Null** (**Nothing** in Visual Basic) if there is no logged-on session.
 
-You can use the  **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method interchangeably to obtain the **NameSpace** object for the current session.
+You can use the **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method interchangeably to obtain the **NameSpace** object for the current session.
 
 
 ## See also

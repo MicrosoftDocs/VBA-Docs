@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|The custom field. Can be one of the **[PjCustomField](Project.PjCustomField.md)** constants.|
-| _Index_|Required|**Integer**|The position of the test condition to delete from the list specified by  **CriteriaList**.|
-| _CriteriaList_|Optional|**Long**|The criteria list containing the test condition to be deleted. Can be one of the following  **PjCriteriaList** constants: **pjCriteriaNonSummary**, **pjCriteriaSummary**, or **pjCriteriaProjectSummary**. The default value is **pjCriteriaNonSummary**.|
+| _Index_|Required|**Integer**|The position of the test condition to delete from the list specified by **CriteriaList**.|
+| _CriteriaList_|Optional|**Long**|The criteria list containing the test condition to be deleted. Can be one of the following **PjCriteriaList** constants: **pjCriteriaNonSummary**, **pjCriteriaSummary**, or **pjCriteriaProjectSummary**. The default value is **pjCriteriaNonSummary**.|
 
 ## Return value
 

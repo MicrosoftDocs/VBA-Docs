@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.Add method (Word)
 
-Returns a  **Row** object that represents a row added to a table.
+Returns a **Row** object that represents a row added to a table.
 
 
 ## Syntax

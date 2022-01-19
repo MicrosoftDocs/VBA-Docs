@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataFields object (Word)
 
-A collection of  **[MailMergeDataField](Word.MailMergeDataField.md)** objects that represent the data fields in a mail merge data source.
+A collection of **[MailMergeDataField](Word.MailMergeDataField.md)** objects that represent the data fields in a mail merge data source.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ If ActiveDocument.MailMerge.DataSource.Type = _
 End If
 ```
 
-Use  **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
+Use **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
 
 
 

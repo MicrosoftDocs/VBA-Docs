@@ -31,7 +31,7 @@ AutoCorrect
 
 ## Example
 
-The following example disables display of the  **AutoCorrect Options** and **AutoLayout Options** buttons.
+The following example disables display of the **AutoCorrect Options** and **AutoLayout Options** buttons.
 
 
 ```vb

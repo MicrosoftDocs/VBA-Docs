@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row.GetValues method (Outlook)
 
-Obtains a one-dimensional array containing the values for all columns at the  **[Row](Outlook.Row.md)** in the parent **[Table](Outlook.Table.md)**.
+Obtains a one-dimensional array containing the values for all columns at the **[Row](Outlook.Row.md)** in the parent **[Table](Outlook.Table.md)**.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ A **Variant** that represents an array of values for all the columns at that **R
 
  **GetValues** is a helper method that facilitates fetching all the column values in the **Row** in a single call.
 
-Since the array is zero-based, the length of the array is the number of columns in the  **Row** minus one.
+Since the array is zero-based, the length of the array is the number of columns in the **Row** minus one.
 
-Values returned in the array are of the same type as the values in the parent  **Table**. This means that binary properties in the **Table** are returned as arrays of bytes. For date-time properties, if a **[Column](Outlook.Column.md)** is a default column or if it has been added using an explicit built-in property name, then its value in the **Table** and in the array are expressed in local time. If the **Column** has been added to the **Table** using a namespace reference, then its value in the **Table** and in the array are expressed in Coordinated Universal Time (UTC). For more information on referencing properties by namespace, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md). 
+Values returned in the array are of the same type as the values in the parent **Table**. This means that binary properties in the **Table** are returned as arrays of bytes. For date-time properties, if a **[Column](Outlook.Column.md)** is a default column or if it has been added using an explicit built-in property name, then its value in the **Table** and in the array are expressed in local time. If the **Column** has been added to the **Table** using a namespace reference, then its value in the **Table** and in the array are expressed in Coordinated Universal Time (UTC). For more information on referencing properties by namespace, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md). 
 
 
 ## See also

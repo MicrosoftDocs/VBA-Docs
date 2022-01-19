@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisFixedFormatTypes enumeration (Visio)
 
-File format types passed to the  **Document.ExportAsFixedFormat** method.
+File format types passed to the **Document.ExportAsFixedFormat** method.
 
 
 

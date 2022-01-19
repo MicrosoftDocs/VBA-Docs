@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.Height property (PowerPoint)
 
-Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only  **Double**.
+Returns the height, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read-only **Double**.
 
 
 ## Syntax

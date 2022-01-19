@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfContents.TableID property (Word)
 
-Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write  **String**.
+Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write **String**.
 
 
 ## Syntax

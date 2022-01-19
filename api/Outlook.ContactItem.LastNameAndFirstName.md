@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Remarks
 
-This property is parsed from the  **[FirstName](Outlook.ContactItem.FirstName.md)** and **[LastName](Outlook.ContactItem.LastName.md)** properties for the contact, which are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
+This property is parsed from the **[FirstName](Outlook.ContactItem.FirstName.md)** and **[LastName](Outlook.ContactItem.LastName.md)** properties for the contact, which are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
 
 
 ## See also

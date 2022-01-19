@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBinding.Command property (Word)
 
-Returns the command assigned to the specified key combination. Read-only  **String**.
+Returns the command assigned to the specified key combination. Read-only **String**.
 
 
 ## Syntax

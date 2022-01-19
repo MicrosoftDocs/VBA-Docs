@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AttachmentSelection](Outlook.Attach
 
 ## Remarks
 
-This property always returns the constant  **olAttachmentWell**.
+This property always returns the constant **olAttachmentWell**.
 
 
 ## See also

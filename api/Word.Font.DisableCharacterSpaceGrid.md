@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified text.
+This property returns **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified text.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame2.Column property (PowerPoint)
 
-Returns the  **[Column](PowerPoint.Column.md)** object that represents the columns of the specified text frame. Read-only.
+Returns the **[Column](PowerPoint.Column.md)** object that represents the columns of the specified text frame. Read-only.
 
 
 ## Syntax

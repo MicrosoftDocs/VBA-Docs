@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PasteFormatBetweenDocuments property (Word)
 
-Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from another Microsoft Office Word document. Read/write.
+Returns or sets a **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from another Microsoft Office Word document. Read/write.
 
 
 ## Syntax

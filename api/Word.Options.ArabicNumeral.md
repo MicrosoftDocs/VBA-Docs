@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.ArabicNumeral property (Word)
 
-Returns or sets the numeral style for an Arabic language document. Read/write  **WdArabicNumeral**.
+Returns or sets the numeral style for an Arabic language document. Read/write **WdArabicNumeral**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Reminders.BeforeReminderShow event (Outlook)
 
-Occurs before the  **Reminder** dialog box is displayed.
+Occurs before the **Reminder** dialog box is displayed.
 
 
 ## Syntax

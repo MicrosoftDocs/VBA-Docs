@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.ArgSize property (Word)
 
-Returns or sets a  **Long** that represents the script size of an argument, for example, text, script, or script-script. Read/write.
+Returns or sets a **Long** that represents the script size of an argument, for example, text, script, or script-script. Read/write.
 
 
 ## Syntax

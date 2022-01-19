@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccountSelector.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSel
 
 ## Remarks
 
-The parent of the  **AccountSelector** object returns an **[Explorer](Outlook.Explorer.md)** object.
+The parent of the **AccountSelector** object returns an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## See also

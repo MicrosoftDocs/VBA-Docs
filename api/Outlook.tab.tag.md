@@ -23,8 +23,8 @@ _expression_ A variable that represents a **Tab** object.
 
 The default is a zero-length string ("").
 
-Use the  **Tag** property to assign an identification string to an object without affecting other property settings or attributes.
+Use the **Tag** property to assign an identification string to an object without affecting other property settings or attributes.
 
-For example, you can use  **Tag** to check the identity of a form or control that is passed as a variable to a procedure.
+For example, you can use **Tag** to check the identity of a form or control that is passed as a variable to a procedure.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.EAC property (Project)
 
-Gets the estimate at completion (EAC) for the task. Read-only  **Variant**.
+Gets the estimate at completion (EAC) for the task. Read-only **Variant**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Attachment](Outlook.Attachment.md) o
 
 ## Remarks
 
-Use this property in conjunction with the  **[PathName](Outlook.Attachment.PathName.md)** property.
+Use this property in conjunction with the **[PathName](Outlook.Attachment.PathName.md)** property.
 
 
 ## See also

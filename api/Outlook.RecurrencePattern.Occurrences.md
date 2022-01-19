@@ -26,7 +26,7 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 ## Remarks
 
-This property allows the definition of a recurrence pattern that is only valid for the specified number of subsequent occurrences. For example, you can set this property to 10 for a formal training course that will be held on the next ten Thursday evenings. This property must be coordinated with other properties when setting up a recurrence pattern. If the  **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** property or the **Occurrences** property is set, the pattern is considered to be finite and the **[NoEndDate](Outlook.RecurrencePattern.NoEndDate.md)** property is **False**. If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True**.
+This property allows the definition of a recurrence pattern that is only valid for the specified number of subsequent occurrences. For example, you can set this property to 10 for a formal training course that will be held on the next ten Thursday evenings. This property must be coordinated with other properties when setting up a recurrence pattern. If the **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** property or the **Occurrences** property is set, the pattern is considered to be finite and the **[NoEndDate](Outlook.RecurrencePattern.NoEndDate.md)** property is **False**. If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True**.
 
 
 ## See also

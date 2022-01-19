@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.StoryType property (Word)
 
-Returns the story type for the specified range, selection, or bookmark. Read-only  **[WdStoryType](Word.WdStoryType.md)**.
+Returns the story type for the specified range, selection, or bookmark. Read-only **[WdStoryType](Word.WdStoryType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.TextColumns property (Word)
 
-Returns a  **[TextColumns](Word(textcolumns).md)** collection that represents the set of text columns for the specified **PageSetup** object.
+Returns a **[TextColumns](Word(textcolumns).md)** collection that represents the set of text columns for the specified **PageSetup** object.
 
 
 ## Syntax

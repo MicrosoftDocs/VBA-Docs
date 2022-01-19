@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlAddressEntryUserType enumeration (Outlook)
 
-Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry**.
+Represents the type of user for the **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry**.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Rows property (Word)
 
-Returns a  **Rows** collection that represents all the table rows within a table. Read-only.
+Returns a **Rows** collection that represents all the table rows within a table. Read-only.
 
 
 ## Syntax

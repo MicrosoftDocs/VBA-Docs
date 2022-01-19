@@ -31,12 +31,12 @@ Integer
 
 ## Remarks
 
-If the action code of the  **Event** object is **visActCodeRunAddon**, the event also specifies the target of the action and the arguments to send to the target. This information is stored in the **Target** and **TargetArgs** properties, respectively.
+If the action code of the **Event** object is **visActCodeRunAddon**, the event also specifies the target of the action and the arguments to send to the target. This information is stored in the **Target** and **TargetArgs** properties, respectively.
 
-If the action code of the  **Event** object is **visActCodeAdvise**, the event also specifies the object to receive event notifications (sometimes called the sink object) and arguments to send to the sink object along with the notification.
+If the action code of the **Event** object is **visActCodeAdvise**, the event also specifies the object to receive event notifications (sometimes called the sink object) and arguments to send to the sink object along with the notification.
 
-Event codes are declared by the Microsoft Visio type library in  **[VisEventCodes](Visio.viseventcodes.md)**. They are prefixed with " **visEvt** ". For a list of event codes, see [Event Codes](../visio/Concepts/event-codesvisio.md).
+Event codes are declared by the Microsoft Visio type library in **[VisEventCodes](Visio.viseventcodes.md)**. They are prefixed with " **visEvt** ". For a list of event codes, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
-A program can use the  **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
+A program can use the **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

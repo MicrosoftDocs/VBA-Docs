@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GroupShapes.Item method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **GroupShapes** collection.
+Returns a single **Shape** object from the specified **GroupShapes** collection.
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Represents a line of rates from the cost rate table of a resource. The **PayRate
  
  **Using the PayRate Object**
  
-Use  **PayRates** (*Index* ), where*Index* is the pay rate index number or date for which to return the rates in effect, to return a single **PayRate** object. The following example returns the standard pay rate for Tamara's first row of rates in cost rate table C.
+Use **PayRates** (*Index* ), where*Index* is the pay rate index number or date for which to return the rates in effect, to return a single **PayRate** object. The following example returns the standard pay rate for Tamara's first row of rates in cost rate table C.
  
 
 

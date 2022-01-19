@@ -35,15 +35,15 @@ Visio continually processes messages in its message queue. When its message queu
     
 2. Visio tells Microsoft Visual Basic for Applications to perform its idle-time processing.
     
-3. If the message queue is still empty, Visio fires the  **VisioIsIdle** event.
+3. If the message queue is still empty, Visio fires the **VisioIsIdle** event.
     
-4. If the message queue is still empty, Visio calls  **WaitMessage**, which is a call to Microsoft Windows that doesn't return until a new message gets added to the Visio message queue.
+4. If the message queue is still empty, Visio calls **WaitMessage**, which is a call to Microsoft Windows that doesn't return until a new message gets added to the Visio message queue.
     
 
 
-A client program can use the  **VisioIsIdle** event as a signal to perform its own background processing.
+A client program can use the **VisioIsIdle** event as a signal to perform its own background processing.
 
-The  **VisioIsIdle** event is not the equivalent of a standard timer event. Client programs that need to be called on a periodic basis should use standard timer techniques, because the duration in which Visio is idle (calls **WaitMessage**) is unpredictable. For client programs that are only monitoring Visio activity, however, the **VisioIsIdle** event can be sufficient, because until **WaitMessage** returns to Visio, there cannot have been any Visio activity since the **VisioIsIdle** event was last fired.
+The **VisioIsIdle** event is not the equivalent of a standard timer event. Client programs that need to be called on a periodic basis should use standard timer techniques, because the duration in which Visio is idle (calls **WaitMessage**) is unpredictable. For client programs that are only monitoring Visio activity, however, the **VisioIsIdle** event can be sufficient, because until **WaitMessage** returns to Visio, there cannot have been any Visio activity since the **VisioIsIdle** event was last fired.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

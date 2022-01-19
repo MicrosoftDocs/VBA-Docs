@@ -26,14 +26,14 @@ _expression_ A variable that represents a [TextEffectFormat](PowerPoint.TextEffe
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **Shape** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **Shape** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
 
 The **[Flip](PowerPoint.Shape.Flip.md)** method and **[Rotation](PowerPoint.Shape.Rotation.md)** property of the **[Shape](PowerPoint.Shape.md)** object and the **[RotatedChars](PowerPoint.TextEffectFormat.RotatedChars.md)** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to _myDocument_, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1**) to vertical text flow.
+This example adds WordArt that contains the text "Test" to _myDocument_, and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1**) to vertical text flow.
 
 
 ```vb

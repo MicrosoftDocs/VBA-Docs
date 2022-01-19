@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.BuildingBlockType property (Word)
 
-Returns or sets a  **WdBuildingBlockTypes** constant that represents they type of building block for a building block content control. Read/write.
+Returns or sets a **WdBuildingBlockTypes** constant that represents they type of building block for a building block content control. Read/write.
 
 
 ## Syntax

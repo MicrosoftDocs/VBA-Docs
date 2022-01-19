@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Panes.Item method (PowerPoint)
 
-Returns a single  **Pane** object from the specified **Panes** collection.
+Returns a single **Pane** object from the specified **Panes** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Panes](PowerPoint.Panes.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Pane** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Pane** object in the collection to be returned.|
 
 ## Return value
 

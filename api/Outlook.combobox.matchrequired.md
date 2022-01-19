@@ -28,7 +28,7 @@ The user can enter non-matching values, but may not leave the control until a ma
 
  **True** if the text entered must match an existing list entry. **False** if the text entered can be different from all existing list entries (default).
 
-If the  **MatchRequired** property is **True**, the user cannot exit the  **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
+If the **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 
 Not all containers enforce this property.
 

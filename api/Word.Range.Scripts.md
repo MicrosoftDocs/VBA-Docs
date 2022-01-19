@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Scripts property (Word)
 
-Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
+Returns a **Scripts** collection that represents the collection of HTML scripts in the specified object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Example
 
-This example tests the second  **Script** object in the specified range to determine its language.
+This example tests the second **Script** object in the specified range to determine its language.
 
 
 ```vb

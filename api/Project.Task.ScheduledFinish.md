@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ScheduledFinish property (Project)
 
-Gets the scheduled (as opposed to actual) finish time of a task. Read-only  **Variant**
+Gets the scheduled (as opposed to actual) finish time of a task. Read-only **Variant**
 
 
 ## Syntax

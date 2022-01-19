@@ -26,12 +26,12 @@ _expression_ A variable that represents an [IconView](Outlook.IconView.md) objec
 
 ## Remarks
 
-If the value of the  **[IconViewType](Outlook.IconView.IconViewType.md)** property is set to **olIconViewList**, the value of this property is automatically set to **olIconSortAndAutoArrange**.
+If the value of the **[IconViewType](Outlook.IconView.IconViewType.md)** property is set to **olIconViewList**, the value of this property is automatically set to **olIconSortAndAutoArrange**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **IconView** object to display Outlook items as a sorted, auto-arranged set of large icons.
+The following Visual Basic for Applications (VBA) example configures the current **IconView** object to display Outlook items as a sorted, auto-arranged set of large icons.
 
 
 ```vb

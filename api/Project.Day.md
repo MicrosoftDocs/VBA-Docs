@@ -21,7 +21,7 @@ Represents a day in a month. The **Day** object is a member of the **[Days](Proj
  
 
  
-Use  **Days** (*Index* ), where*Index* is the day index number or **[PjWeekday](Project.PjWeekday.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2008 for each selected resource.
+Use **Days** (*Index* ), where*Index* is the day index number or **[PjWeekday](Project.PjWeekday.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2008 for each selected resource.
  
 
  

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlGridLineStyle enumeration (Outlook)
 
-Indicates the line style used to display grid lines for  **[TableView](Outlook.TableView.md)** objects.
+Indicates the line style used to display grid lines for **[TableView](Outlook.TableView.md)** objects.
 
 
 

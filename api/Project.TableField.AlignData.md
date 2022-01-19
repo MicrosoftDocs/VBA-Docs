@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableField.AlignData property (Project)
 
-Gets or sets the alignment of data in a table field. Read/write  **PjAlignment**.
+Gets or sets the alignment of data in a table field. Read/write **PjAlignment**.
 
 
 ## Syntax
@@ -26,6 +26,6 @@ _expression_ A variable that represents a [TableField](./Project.TableField.md) 
 
 ## Remarks
 
-Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
+Can be one of the following **[PjAlignment](Project.PjAlignment.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

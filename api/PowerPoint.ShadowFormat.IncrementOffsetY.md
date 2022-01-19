@@ -34,7 +34,7 @@ _expression_ A variable that represents an [ShadowFormat](PowerPoint.ShadowForma
 
 ## Remarks
 
-Use the  **[OffsetY](PowerPoint.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
+Use the **[OffsetY](PowerPoint.ShadowFormat.OffsetY.md)** property to set the absolute vertical shadow offset.
 
 
 ## Example

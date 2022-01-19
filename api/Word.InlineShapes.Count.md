@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShapes.Count property (Word)
 
-Returns a  **Long** that represents the number of inline shapes in the collection. Read-only.
+Returns a **Long** that represents the number of inline shapes in the collection. Read-only.
 
 
 ## Syntax

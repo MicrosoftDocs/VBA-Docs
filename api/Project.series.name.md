@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 
 # Series.Name property (Project)
-Gets the name of the data series on a chart. Read-only  **String**.
+Gets the name of the data series on a chart. Read-only **String**.
 
 ## Syntax
 

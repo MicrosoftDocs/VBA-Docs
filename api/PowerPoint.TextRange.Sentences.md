@@ -50,7 +50,7 @@ If Start is greater than the number of sentences in the specified text, the retu
 
 If Length is greater than the number of sentences from the specified starting sentence to the end of the text, the returned range contains all those sentences.
 
-For information about counting or looping through the sentences in a text range, see the  **[TextRange](PowerPoint.TextRange.md)** object.
+For information about counting or looping through the sentences in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
 
 
 ## Example

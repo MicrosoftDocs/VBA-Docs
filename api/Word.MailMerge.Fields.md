@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.Fields property (Word)
 
-Returns a read-only  **MailMergeFields** collection that represents all the mail merge fields in the specified document.
+Returns a read-only **MailMergeFields** collection that represents all the mail merge fields in the specified document.
 
 
 ## Syntax

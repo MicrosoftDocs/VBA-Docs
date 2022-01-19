@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AssignToCategoryRuleAction.ActionType property (Outlook)
 
-Returns a constant,  **olRuleActionAssignToCategory**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant, **olRuleActionAssignToCategory**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

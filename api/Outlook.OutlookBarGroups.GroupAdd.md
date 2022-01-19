@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OutlookBarGroups.GroupAdd event (Outlook)
 
-Occurs when a new group has been added to the  **Shortcuts** pane.
+Occurs when a new group has been added to the **Shortcuts** pane.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a shortcut to the  **Calendar** whenever a group is created. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example adds a shortcut to the **Calendar** whenever a group is created. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

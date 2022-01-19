@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.StatusText property (Word)
 
-Returns or sets the text that is displayed in the status bar when a form field has the focus. Read/write  **String**.
+Returns or sets the text that is displayed in the status bar when a form field has the focus. Read/write **String**.
 
 
 ## Syntax

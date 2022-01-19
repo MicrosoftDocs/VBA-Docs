@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ConstraintType property (Project)
 
-Gets or sets a constraint type for a task. Read/write  **Variant**.
+Gets or sets a constraint type for a task. Read/write **Variant**.
 
 
 ## Syntax

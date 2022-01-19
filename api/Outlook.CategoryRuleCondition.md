@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CategoryRuleCondition object (Outlook)
 
-Represents a rule condition that evaluates categories on a message as compared with  **CategoryRuleCondition.Categories**.
+Represents a rule condition that evaluates categories on a message as compared with **CategoryRuleCondition.Categories**.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListTemplate.ListLevels property (Word)
 
-Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate**.
+Returns a **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate**.
 
 
 ## Syntax

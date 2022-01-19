@@ -43,7 +43,7 @@ A **[Series](Word.Series.md)** object that represents the new series.
 
 ## Remarks
 
-This method does not actually return a  **Series** object as stated in the Object Browser.
+This method does not actually return a **Series** object as stated in the Object Browser.
 
 
 ## Example

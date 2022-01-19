@@ -14,17 +14,17 @@ ms.localizationpriority: medium
 
 # Panes object (PowerPoint)
 
-A collection of  **[Pane](PowerPoint.Pane.md)** objects that represent the slide, outline, and notes panes in the document window for normal view, or the single pane of any other view in the document window.
+A collection of **[Pane](PowerPoint.Pane.md)** objects that represent the slide, outline, and notes panes in the document window for normal view, or the single pane of any other view in the document window.
 
 
 ## Remarks
 
-In normal view, the  **Panes** collection contains three members. All other document window views have only a single pane, resulting in a **Panes** collection with one member.
+In normal view, the **Panes** collection contains three members. All other document window views have only a single pane, resulting in a **Panes** collection with one member.
 
 
 ## Example
 
-Use the  **Panes** property to return the **Panes** collection. The following example tests for the number of panes in the active window. If the value is one, indicating any view other that normal view, then normal view is activated and the vertical pane divider is set to divide the document window at 15% outline pane and 85% slide pane.
+Use the **Panes** property to return the **Panes** collection. The following example tests for the number of panes in the active window. If the value is one, indicating any view other that normal view, then normal view is activated and the vertical pane divider is set to divide the document window at 15% outline pane and 85% slide pane.
 
 
 ```vb

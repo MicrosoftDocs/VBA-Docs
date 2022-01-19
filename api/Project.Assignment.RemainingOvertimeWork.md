@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.RemainingOvertimeWork property (Project)
 
-Gets the remaining overtime work (in minutes) for the assignment. Read/write  **Variant**.
+Gets the remaining overtime work (in minutes) for the assignment. Read/write **Variant**.
 
 
 ## Syntax

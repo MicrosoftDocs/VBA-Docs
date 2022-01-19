@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.DateCalendarType property (Word)
 
-Returns or sets a  **[WdCalendarType](Word.WdCalendarType.md)** constant that represents the calendar type for a calendar content control. Read/write.
+Returns or sets a **[WdCalendarType](Word.WdCalendarType.md)** constant that represents the calendar type for a calendar content control. Read/write.
 
 
 ## Syntax

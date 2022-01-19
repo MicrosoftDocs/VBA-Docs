@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailModule](Outlook.MailModule.md) ob
 
 ## Remarks
 
-This property returns  **olMailModule** for the **[MailModule](Outlook.MailModule.md)** object.
+This property returns **olMailModule** for the **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also

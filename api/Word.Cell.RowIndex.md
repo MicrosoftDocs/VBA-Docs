@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.RowIndex property (Word)
 
-Returns the number of the row that contains the specified cell. Read-only  **Long**.
+Returns the number of the row that contains the specified cell. Read-only **Long**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **Visible** property can be one of these **MsoTriState** constants.
+The value of the **Visible** property can be one of these **MsoTriState** constants.
 
 
 

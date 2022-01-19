@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Color property (PowerPoint)
 
-Returns or sets the color of the current  **Font** object. Read/write.
+Returns or sets the color of the current **Font** object. Read/write.
 
 
 ## Syntax

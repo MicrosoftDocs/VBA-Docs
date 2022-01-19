@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.ExportIcon method (Visio)
 
-Exports the icon for a  **Master** object to a named file or the Clipboard.
+Exports the icon for a **Master** object to a named file or the Clipboard.
 
 
 ## Syntax

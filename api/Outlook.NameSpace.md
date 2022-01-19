@@ -21,7 +21,7 @@ Represents an abstract root object for any data source.
 
 The object itself provides methods for logging in and out, accessing storage objects directly by ID, accessing certain special default folders directly, and accessing data sources owned by other users.
 
-Use  **[GetNameSpace](Outlook.Application.GetNamespace.md)** ("MAPI") to return the Outlook **NameSpace** object from the **[Application](Outlook.Application.md)** object.
+Use **[GetNameSpace](Outlook.Application.GetNamespace.md)** ("MAPI") to return the Outlook **NameSpace** object from the **[Application](Outlook.Application.md)** object.
 
 The only data source supported is MAPI, which allows access to all Outlook data stored in the user's mail stores.
 

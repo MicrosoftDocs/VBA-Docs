@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelSelectionDelete** after the user has directed the instance to delete one or more shapes.
+A Microsoft Visio instance fires **QueryCancelSelectionDelete** after the user has directed the instance to delete one or more shapes.
 
 
 

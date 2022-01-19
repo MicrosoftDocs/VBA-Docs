@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagConversationIndex**.
+This property corresponds to the MAPI property **PidTagConversationIndex**.
 
 
 ## See also

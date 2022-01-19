@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDocModeArgs enumeration (Visio)
 
-Flags passed to or returned by the  **Document.Mode** property and IDs returned by **Document.ID**.
+Flags passed to or returned by the **Document.Mode** property and IDs returned by **Document.ID**.
 
 
 

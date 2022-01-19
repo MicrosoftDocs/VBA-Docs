@@ -30,11 +30,11 @@ _expression_. `CalendarBarStylesEditEx`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following  **[PjBarItem](Project.PjBarItem.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
-| _Bar_|Optional|**Long**|The bar type. Can be one of the following  **[PjCalendarBarType](Project.PjCalendarBarType.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
+| _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following **[PjBarItem](Project.PjBarItem.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
+| _Bar_|Optional|**Long**|The bar type. Can be one of the following **[PjCalendarBarType](Project.PjCalendarBarType.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
 | _Pattern_|Optional|**Long**|The bar pattern. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The bar color. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
-| _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
+| _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 | _Wrap_|Optional|**Boolean**|**True** if Project wraps text in the bar; otherwise, **False**.|
 | _Shadow_|Optional|**Boolean**|**True** if the bar has a shadow; otherwise, **False**.|
 | _Field1_|Optional|**String**|The first field to display in the bar.|
@@ -42,7 +42,7 @@ _expression_. `CalendarBarStylesEditEx`( `_Item_`, `_Bar_`, `_Pattern_`, `_Color
 | _Field3_|Optional|**String**|The third field to display in the bar.|
 | _Field4_|Optional|**String**|The fourth field to display in the bar.|
 | _Field5_|Optional|**String**|The fifth field to display in the bar.|
-| _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following  **[PjLineType](Project.PjLineType.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
+| _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following **[PjLineType](Project.PjLineType.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Line property (Word)
 
-Returns a  **LineFormat** object that contains line formatting properties for the specified range of shapes. Read-only.
+Returns a **LineFormat** object that contains line formatting properties for the specified range of shapes. Read-only.
 
 
 ## Syntax

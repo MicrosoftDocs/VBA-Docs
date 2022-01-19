@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSelectItemStatus enumeration (Visio)
 
-Values returned by the  **Selection.ItemStatus** property.
+Values returned by the **Selection.ItemStatus** property.
 
 
 

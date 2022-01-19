@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 
 # Shapes object (Word)
 
-A collection of  **Shape** objects that represent all the shapes in a document or all the shapes in all the headers and footers in a document. Each **[Shape](Word.Shape.md)** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
+A collection of **Shape** objects that represent all the shapes in a document or all the shapes in all the headers and footers in a document. Each **[Shape](Word.Shape.md)** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 
 ## Remarks
 
-If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](Word.shaperange.md)** collection that contains the shapes you want to work with.
+If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a **[ShapeRange](Word.shaperange.md)** collection that contains the shapes you want to work with.
 
 Use the **Shapes** property to return the **Shapes** collection. The following example selects all the shapes on the active document.
 
@@ -41,7 +41,7 @@ Use one of the following methods of the **Shapes** collection: **Add3DModel**, *
 ActiveDocument.Shapes.AddShape msoShapeRectangle, 50, 50, 100, 200
 ```
 
-Use  **Shapes** (Index), where Index is the name or the index number, to return a single **Shape** object. The following example horizontally flips shape one on the active document.
+Use **Shapes** (Index), where Index is the name or the index number, to return a single **Shape** object. The following example horizontally flips shape one on the active document.
 
 
 

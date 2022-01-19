@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableView.Apply method (Outlook)
 
-Applies the  **[TableView](Outlook.TableView.md)** object to the current view.
+Applies the **[TableView](Outlook.TableView.md)** object to the current view.
 
 
 ## Syntax

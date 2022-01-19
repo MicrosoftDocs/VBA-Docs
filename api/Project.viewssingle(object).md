@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewsSingle object (Project)
 
-Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
+Contains a collection of **[ViewSingle](Project.ViewSingle.md)** objects.
  
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.StyleAreaWidth property (Word)
 
-Returns or sets the width of the style area in points. Read/write  **Single**.
+Returns or sets the width of the style area in points. Read/write **Single**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Lines object (Word)
 
-A collection of  **Line** objects that represents the lines in a **Rectangle** object that is of type **wdTextRectangle**.
+A collection of **Line** objects that represents the lines in a **Rectangle** object that is of type **wdTextRectangle**.
 
 
 ## Remarks

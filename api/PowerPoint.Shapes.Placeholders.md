@@ -31,7 +31,7 @@ Placeholders
 
 ## Remarks
 
-Each placeholder in the  **Placeholders** collection can contain text, a chart, a table, an organizational chart, or another object.
+Each placeholder in the **Placeholders** collection can contain text, a chart, a table, an organizational chart, or another object.
 
 
 ## Example

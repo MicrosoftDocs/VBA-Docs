@@ -19,7 +19,7 @@ Represents a single text form field.
 
 ## Remarks
 
-Use  **FormFields** (Index), where Index is either the bookmark name associated with the text form field or the index number, to return a **FormField** object. Use the **TextInput** property with the **FormField** object to return a **TextInput** object. The following example deletes the contents of the text form field named "Text1" in the active document.
+Use **FormFields** (Index), where Index is either the bookmark name associated with the text form field or the index number, to return a **FormField** object. Use the **TextInput** property with the **FormField** object to return a **TextInput** object. The following example deletes the contents of the text form field named "Text1" in the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Frameset property (Word)
 
-Returns a  **[Frameset](Word.Frameset.md)** object that represents an entire frames page or a single frame on a frames page. Read-only.
+Returns a **[Frameset](Word.Frameset.md)** object that represents an entire frames page or a single frame on a frames page. Read-only.
 
 
 ## Syntax

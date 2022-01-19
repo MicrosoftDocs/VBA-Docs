@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.UnregisterRibbonX method (Visio)
 
-Unregisters a previously registered  **IRibbonExtensibility** interface that a Microsoft Visio add-in implements.
+Unregisters a previously registered **IRibbonExtensibility** interface that a Microsoft Visio add-in implements.
 
 
 ## Syntax

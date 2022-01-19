@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBox.OpEmu property (Word)
 
-Returns or sets a  **Boolean** that represents that the box and its contents behave as a single operator and inherit the properties of an operator. Read/write.
+Returns or sets a **Boolean** that represents that the box and its contents behave as a single operator and inherit the properties of an operator. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.TabStops property (Word)
 
-Returns or sets a  **TabStops** collection that represents all the custom tab stops for the specified paragraph. Read/write.
+Returns or sets a **TabStops** collection that represents all the custom tab stops for the specified paragraph. Read/write.
 
 
 ## Syntax

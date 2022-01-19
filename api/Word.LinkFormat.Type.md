@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LinkFormat.Type property (Word)
 
-Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)**.
+Returns the link type. Read-only **[WdLinkType](Word.WdLinkType.md)**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultFinishTime property (Project)
 
-Gets or sets the default finish time of the project. Read/write  **Variant**.
+Gets or sets the default finish time of the project. Read/write **Variant**.
 
 
 ## Syntax

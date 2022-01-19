@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Subdocuments object (Word)
 
-A collection of  **[Subdocument](Word.Subdocument.md)** objects that represent the subdocuments in a range or document.
+A collection of **[Subdocument](Word.Subdocument.md)** objects that represent the subdocuments in a range or document.
 
 
 ## Remarks
@@ -49,7 +49,7 @@ With ActiveDocument.Subdocuments
 End With
 ```
 
-Use  **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
+Use **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
 
 
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskDependencies.Item property (Project)
 
-Gets a single  **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
+Gets a single **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
 
 
 ## Syntax

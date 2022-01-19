@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomProperties object (Word)
 
-A collection of  **[CustomProperty](Word.CustomProperty.md)** objects that represents the properties related to a smart tag. The **CustomProperties** collection includes all the smart tag custom properties in a document.
+A collection of **[CustomProperty](Word.CustomProperty.md)** objects that represents the properties related to a smart tag. The **CustomProperties** collection includes all the smart tag custom properties in a document.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ Sub AddProps()
 End Sub
 ```
 
-Use  **Properties** (Index) to return a single property for a smart tag, where Index is the number of the property. This example displays the name and value of the first property of the first smart tag in the current document.
+Use **Properties** (Index) to return a single property for a smart tag, where Index is the number of the property. This example displays the name and value of the first property of the first smart tag in the current document.
 
 
 

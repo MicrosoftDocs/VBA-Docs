@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.LineNumbering property (Word)
 
-Returns or sets a  **[LineNumbering](Word.LineNumbering.md)** object that represents the line numbers for the specified **PageSetup** object.
+Returns or sets a **[LineNumbering](Word.LineNumbering.md)** object that represents the line numbers for the specified **PageSetup** object.
 
 
 ## Syntax

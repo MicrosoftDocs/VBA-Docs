@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folder.Views property (Outlook)
 
-Returns the  **[Views](Outlook.Views.md)** collection object of the **[Folder](Outlook.Folder.md)** object. Read-only.
+Returns the **[Views](Outlook.Views.md)** collection object of the **[Folder](Outlook.Folder.md)** object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the  **Views** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
+The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the **Views** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
 
 
 ```vb

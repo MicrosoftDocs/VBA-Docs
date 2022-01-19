@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.Result property (Word)
 
-Returns a  **String** that represents the result of the specified form field. Read/write.
+Returns a **String** that represents the result of the specified form field. Read/write.
 
 
 ## Syntax

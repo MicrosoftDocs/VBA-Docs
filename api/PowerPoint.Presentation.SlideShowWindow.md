@@ -31,7 +31,7 @@ SlideShowWindow
 
 ## Remarks
 
-You can use this property in conjunction with the  **Me** keyword and the **Parent** property to return the slide show window in which an ActiveX control event was fired, as shown in the example.
+You can use this property in conjunction with the **Me** keyword and the **Parent** property to return the slide show window in which an ActiveX control event was fired, as shown in the example.
 
 
 ## Example

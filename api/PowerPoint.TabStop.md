@@ -19,7 +19,7 @@ Represents a single tab stop. The **TabStop** object is a member of the **[TabSt
 
 ## Example
 
-Use  **TabStops** (_index_), where _index_ is the tab stop index number, to return a single **TabStop** object. The following example clears tab stop one for the text in shape two on slide one in the active presentation.
+Use **TabStops** (_index_), where _index_ is the tab stop index number, to return a single **TabStop** object. The following example clears tab stop one for the text in shape two on slide one in the active presentation.
 
 
 ```vb

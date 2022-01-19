@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Filters.Item property (Project)
 
-Gets a single  **Filter** object from the **Filters** collection. Read-only **Filter**.
+Gets a single **Filter** object from the **Filters** collection. Read-only **Filter**.
 
 
 ## Syntax

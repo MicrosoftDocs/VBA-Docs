@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.SynonymInfo property (Word)
 
-Returns a  **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the contents of a range.
+Returns a **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the contents of a range.
 
 
 ## Syntax

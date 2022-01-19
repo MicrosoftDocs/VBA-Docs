@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.LeftRelative property (Word)
 
-Returns or sets a  **Single** that represents the relative left position of a shape. Read/write.
+Returns or sets a **Single** that represents the relative left position of a shape. Read/write.
 
 
 ## Syntax

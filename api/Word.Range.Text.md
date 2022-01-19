@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Text property (Word)
 
-Returns or sets the text in the specified range or selection. Read/write  **String**. Read/write **String**.
+Returns or sets the text in the specified range or selection. Read/write **String**. Read/write **String**.
 
 
 ## Syntax

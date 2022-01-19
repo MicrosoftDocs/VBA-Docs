@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' objec
 
 ## Remarks
 
-Deleting a  **LegendKey** object deletes the entire series.
+Deleting a **LegendKey** object deletes the entire series.
 
 
 ## See also

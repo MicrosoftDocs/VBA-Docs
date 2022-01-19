@@ -74,7 +74,7 @@ Documents.Add.RunLetterWizard LetterContent:=myLetter, _
  WizardMode:=True
 ```
 
-You can duplicate a  **LetterContent** object by using the **Duplicate** property. The following example retrieves the letter elements in the active document and makes a duplicate copy. The example assigns the duplicate copy to _aLetter_ and resets the recipient's name and address to empty strings. The **RunLetterWizard** method is used to run the Letter Wizard, using the values in the revised **LetterContent** object ( _aLetter_ ) as the default settings.
+You can duplicate a **LetterContent** object by using the **Duplicate** property. The following example retrieves the letter elements in the active document and makes a duplicate copy. The example assigns the duplicate copy to _aLetter_ and resets the recipient's name and address to empty strings. The **RunLetterWizard** method is used to run the Letter Wizard, using the values in the revised **LetterContent** object ( _aLetter_ ) as the default settings.
 
 
 

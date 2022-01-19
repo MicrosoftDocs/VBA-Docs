@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.LayoutMode property (Word)
 
-Returns or sets the layout mode for the current document. Read/write  **WdLayoutMode**.
+Returns or sets the layout mode for the current document. Read/write **WdLayoutMode**.
 
 
 ## Syntax

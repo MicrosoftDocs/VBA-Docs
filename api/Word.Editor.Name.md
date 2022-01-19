@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Editor.Name property (Word)
 
-Returns or sets the name of the specified object. Read-only  **String**.
+Returns or sets the name of the specified object. Read-only **String**.
 
 
 ## Syntax

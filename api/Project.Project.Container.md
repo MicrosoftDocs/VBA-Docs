@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.Container property (Project)
 
-Gets the object that contains the embedded project. Read-only  **Object**.
+Gets the object that contains the embedded project. Read-only **Object**.
 
 
 ## Syntax

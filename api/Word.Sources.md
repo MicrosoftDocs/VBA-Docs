@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Sources object (Word)
 
-Represents a collection of  **Source** objects.
+Represents a collection of **Source** objects.
 
 
 ## Remarks

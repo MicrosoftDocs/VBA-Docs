@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Range method (Word)
 
-Returns a  **Range** object by using the specified starting and ending character positions.
+Returns a **Range** object by using the specified starting and ending character positions.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Days.Item property (Project)
 
-Gets a single  **Day** object from the **Days** collection. Read-only **Day**.
+Gets a single **Day** object from the **Days** collection. Read-only **Day**.
 
 
 ## Syntax

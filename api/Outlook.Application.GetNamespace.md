@@ -44,7 +44,7 @@ The only supported name space type is "MAPI". The **GetNameSpace** method is fun
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property to change the displayed folder to the user's **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property to change the displayed folder to the user's **Calendar** folder.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationGroups.GetDefaultNavigationGroup method (Outlook)
 
-Returns the  **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds to the selected default shared folder group.
+Returns the **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds to the selected default shared folder group.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.LayoutInCell property (Word)
 
-Returns a  **Long** that represents whether a shape in a table is displayed inside or outside the table.
+Returns a **Long** that represents whether a shape in a table is displayed inside or outside the table.
 
 
 ## Syntax

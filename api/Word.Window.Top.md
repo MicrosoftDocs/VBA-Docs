@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Top property (Word)
 
-Returns or sets the vertical position of the specified document window, in points. Read/write  **Long**.
+Returns or sets the vertical position of the specified document window, in points. Read/write **Long**.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
 ## Remarks
 
-Following are the objects that can contain  **Shift** objects:
+Following are the objects that can contain **Shift** objects:
 
 
 - **Day**

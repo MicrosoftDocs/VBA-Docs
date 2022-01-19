@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.CommandBarId property (Word)
 
-Returns a  **Long** that represents the toolbar control id for a built-in Microsoft Word dialog box. Read-only.
+Returns a **Long** that represents the toolbar control id for a built-in Microsoft Word dialog box. Read-only.
 
 
 ## Syntax

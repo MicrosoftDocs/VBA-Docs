@@ -34,6 +34,6 @@ A Boolean that returns **True** if the method succeeds, **False** otherwise.
 
 ## Remarks
 
-This method will not remove a row from the list if the  **ListBox** is data bound.
+This method will not remove a row from the list if the **ListBox** is data bound.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

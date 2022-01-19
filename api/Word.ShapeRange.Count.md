@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Count property (Word)
 
-Returns a  **Long** that represents the number of shapes in the collection. Read-only.
+Returns a **Long** that represents the number of shapes in the collection. Read-only.
 
 
 ## Syntax

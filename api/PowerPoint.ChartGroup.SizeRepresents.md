@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.SizeRepresents property (PowerPoint)
 
-Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long**.
+Returns or sets what the bubble size represents on a bubble chart. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 
 ## Remarks
 
-This property can be either of the following  **[XlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
+This property can be either of the following **[XlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
 
 
 - **xlSizeIsArea**

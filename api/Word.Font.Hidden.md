@@ -30,7 +30,7 @@ This property returns **True**, **False** or **wdUndefined** (a mixture of **Tru
 
 To control the display of hidden text, use the **ShowHiddenText** property of the **View** object.
 
-To control whether properties and methods that return  **Range** objects include or exclude hidden text when hidden text isn't displayed, use the **IncludeHiddenText** property of the **TextRetrievalMode** object.
+To control whether properties and methods that return **Range** objects include or exclude hidden text when hidden text isn't displayed, use the **IncludeHiddenText** property of the **TextRetrievalMode** object.
 
 
 ## Example

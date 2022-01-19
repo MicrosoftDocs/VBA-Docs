@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsMo
 
 ## Remarks
 
-The display name of the  **Solutions** module can be customized if there is only one solution root folder under the **Solutions** module. If there are multiple solution root folders, the name reverts back to **Solutions**.
+The display name of the **Solutions** module can be customized if there is only one solution root folder under the **Solutions** module. If there are multiple solution root folders, the name reverts back to **Solutions**.
 
 
 ## See also

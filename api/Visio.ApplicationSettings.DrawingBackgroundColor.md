@@ -42,11 +42,11 @@ Valid values for an **OLE_COLOR** property within Visio can be one of the follow
     
 
 
-For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
+For details about the **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR**.
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for **OLE_COLOR**.
 
 
 
@@ -61,7 +61,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
 
-Setting the  **BackgroundColor** property of the active window to a value other than the default (-1) overrides the **DrawingBackgroundColor** setting for that window. To be able to reset the background color of the same active window by setting the **DrawingBackgroundColor** property, you must reset **BackgroundColor** to its default value, -1. If multiple windows are open, setting **BackgroundColor** for one window has no effect on the setting for other open windows.
+Setting the **BackgroundColor** property of the active window to a value other than the default (-1) overrides the **DrawingBackgroundColor** setting for that window. To be able to reset the background color of the same active window by setting the **DrawingBackgroundColor** property, you must reset **BackgroundColor** to its default value, -1. If multiple windows are open, setting **BackgroundColor** for one window has no effect on the setting for other open windows.
 
 
 
@@ -72,7 +72,7 @@ Setting the  **BackgroundColor** property of the active window to a value other 
 
 ## Example
 
-The following VBA macro shows how to use the  **DrawingBackgroundColor** property to get and set the application background color. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object, and it demonstrates the relationship between the **DrawingBackgroundColor** property and the **Window.BackgroundColor** property. This example assumes there is a drawing window open in Visio and that initially all background color properties are set to their default values.
+The following VBA macro shows how to use the **DrawingBackgroundColor** property to get and set the application background color. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object, and it demonstrates the relationship between the **DrawingBackgroundColor** property and the **Window.BackgroundColor** property. This example assumes there is a drawing window open in Visio and that initially all background color properties are set to their default values.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.HTMLDivisions property (Word)
 
-Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an HTML division in a web document.
+Returns an **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an HTML division in a web document.
 
 
 ## Syntax

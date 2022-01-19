@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.PitchAndFamily property (Visio)
 
-Returns the pitch and family code for a  **Font** object. Read-only.
+Returns the pitch and family code for a **Font** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Integer
 
 ## Remarks
 
-The possible values of the  **PitchAndFamily** property correspond to those of the **lfPitchAndFamily** member of the Windows **LOGFONT** data structure. For details, search for "LOGFONT" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
+The possible values of the **PitchAndFamily** property correspond to those of the **lfPitchAndFamily** member of the Windows **LOGFONT** data structure. For details, search for "LOGFONT" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

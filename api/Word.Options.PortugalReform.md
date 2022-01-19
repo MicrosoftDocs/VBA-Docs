@@ -26,7 +26,7 @@ _expression_. `PortugalReform`
 
 ## Remarks
 
-Setting this property has the same effect as selecting an item in the dropdown box next to  **European Portuguese modes:** in the **Word Options** dialog (**Proofing**,  **When correcting spelling in Microsoft Office programs**). 
+Setting this property has the same effect as selecting an item in the dropdown box next to **European Portuguese modes:** in the **Word Options** dialog (**Proofing**, **When correcting spelling in Microsoft Office programs**). 
 
 
 > [!NOTE] 

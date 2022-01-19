@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartCategory.IsFiltered property (Word)
 
-Returns or sets a  **Boolean** that determines whether the specified chart category is filtered out from the chart. Read/write.
+Returns or sets a **Boolean** that determines whether the specified chart category is filtered out from the chart. Read/write.
 
 
 ## Syntax

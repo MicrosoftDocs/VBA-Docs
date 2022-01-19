@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.ShapeRange property (Word)
 
-Returns a  **[ShapeRange](Word.shaperange.md)** collection that represents all the **Shape** objects in the selection. Read-only.
+Returns a **[ShapeRange](Word.shaperange.md)** collection that represents all the **Shape** objects in the selection. Read-only.
 
 
 ## Syntax

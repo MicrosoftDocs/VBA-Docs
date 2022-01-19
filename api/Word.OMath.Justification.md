@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.Justification property (Word)
 
-Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justification for an equation. Read/write.
+Returns or sets a **[WdOMathJc](Word.WdOMathJc.md)** that represents the justification for an equation. Read/write.
 
 
 ## Syntax

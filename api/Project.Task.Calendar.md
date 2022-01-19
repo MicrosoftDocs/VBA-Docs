@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Calendar property (Project)
 
-Gets or sets the name of the calendar to be used when scheduling the task. Read/write  **String**.
+Gets or sets the name of the calendar to be used when scheduling the task. Read/write **String**.
 
 
 ## Syntax

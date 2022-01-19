@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Phonetics property (Project)
 
-Gets or sets the phonetic representation of a resource name. Read/write  **String**.
+Gets or sets the phonetic representation of a resource name. Read/write **String**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exceptions.Item property (Project)
 
-Gets a single  **Exception** object from the **Exceptions** collection. Read-only **Exception**.
+Gets a single **Exception** object from the **Exceptions** collection. Read-only **Exception**.
 
 
 ## Syntax

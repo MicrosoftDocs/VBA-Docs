@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectFinish property (Project)
 
-Gets or sets the finish date for a project. Read/write  **Variant**.
+Gets or sets the finish date for a project. Read/write **Variant**.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Setting  **ProjectFinish** also causes the project to be scheduled from its finish date. This has the same effect as setting the **ScheduleFromStart** property to **False**.
+Setting **ProjectFinish** also causes the project to be scheduled from its finish date. This has the same effect as setting the **ScheduleFromStart** property to **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

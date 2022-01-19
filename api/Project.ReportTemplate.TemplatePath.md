@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ReportTemplate.TemplatePath property (Project)
 
-Gets the path and file name of the Visual Report template. Read-only  **String**.
+Gets the path and file name of the Visual Report template. Read-only **String**.
 
 
 ## Syntax

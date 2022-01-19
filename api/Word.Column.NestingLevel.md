@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Column.NestingLevel property (Word)
 
-Returns the nesting level of the specified column. Read-only  **Long**.
+Returns the nesting level of the specified column. Read-only **Long**.
 
 
 ## Syntax

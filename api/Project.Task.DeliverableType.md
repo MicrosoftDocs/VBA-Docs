@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DeliverableType property (Project)
 
-Gets or sets the type of deliverable for the task. Read/write  **Integer**.
+Gets or sets the type of deliverable for the task. Read/write **Integer**.
 
 
 ## Syntax

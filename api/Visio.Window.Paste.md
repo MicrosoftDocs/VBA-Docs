@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 ## Remarks
 
-The  **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the [Page](Visio.Page.md), [Master](Visio.Master.md), or [Shape](Visio.Shape.md) object. (Use the **Shape** object in the case of group shapes.)
+The **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the [Page](Visio.Page.md), [Master](Visio.Master.md), or [Shape](Visio.Shape.md) object. (Use the **Shape** object in the case of group shapes.)
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
 

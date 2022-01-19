@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PayRates.Item property (Project)
 
-Gets a single  **PayRate** object from the **PayRates** collection. Read-only **PayRate**.
+Gets a single **PayRate** object from the **PayRates** collection. Read-only **PayRate**.
 
 
 ## Syntax

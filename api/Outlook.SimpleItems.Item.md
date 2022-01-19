@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SimpleItems.Item method (Outlook)
 
-Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
+Returns an item in the **[SimpleItems](Outlook.SimpleItems.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [SimpleItems](Outlook.SimpleItems.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The zero-based index number of the object in the  **SimpleItems** collection.|
+| _Index_|Required| **Variant**|The zero-based index number of the object in the **SimpleItems** collection.|
 
 ## Return value
 

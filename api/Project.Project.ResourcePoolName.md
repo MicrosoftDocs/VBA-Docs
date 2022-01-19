@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ResourcePoolName property (Project)
 
-Gets the name of the enterprise resource pool that a project uses in Project Professional. Read-only  **String**.
+Gets the name of the enterprise resource pool that a project uses in Project Professional. Read-only **String**.
 
 
 ## Syntax
@@ -26,8 +26,8 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-If the project is using enterprise resources,  **ResourcePoolName** gets the name of the virtual resource pool. For example, in Project, the value is "VirtualResPool1".
+If the project is using enterprise resources, **ResourcePoolName** gets the name of the virtual resource pool. For example, in Project, the value is "VirtualResPool1".
 
-If the project is not using enterprise resources,  **ResourcePoolName** gets the path and name of the project.
+If the project is not using enterprise resources, **ResourcePoolName** gets the path and name of the project.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

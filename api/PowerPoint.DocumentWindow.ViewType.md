@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWi
 
 ## Remarks
 
-The value of the  **ViewType** property can be one of these **PpViewType** constants.
+The value of the **ViewType** property can be one of these **PpViewType** constants.
 
 
 ||

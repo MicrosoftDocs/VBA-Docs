@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.DatabaseProjectUniqueID property (Project)
 
-Gets the project unique ID for a project stored in a database. Read/write  **Variant**.
+Gets the project unique ID for a project stored in a database. Read/write **Variant**.
 
 
 ## Syntax

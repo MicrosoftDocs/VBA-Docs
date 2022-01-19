@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **FontBold** property can be one of these **MsoTriState** constants.
+The value of the **FontBold** property can be one of these **MsoTriState** constants.
 
 
 

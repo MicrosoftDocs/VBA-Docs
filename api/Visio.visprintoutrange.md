@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPrintOutRange enumeration (Visio)
 
-Range constants to be used with the  **Document.PrintOut** method.
+Range constants to be used with the **Document.PrintOut** method.
 
 
 

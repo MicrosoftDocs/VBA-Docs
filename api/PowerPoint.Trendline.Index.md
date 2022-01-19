@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Trendline.Index property (PowerPoint)
 
-Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
+Returns the index number of the object within the collection of similar objects. Read-only **Long**.
 
 
 ## Syntax

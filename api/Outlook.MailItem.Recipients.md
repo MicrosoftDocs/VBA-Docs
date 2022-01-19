@@ -31,7 +31,7 @@ A recipient can be specified by a string representing the recipient's display na
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a new email message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
+This Visual Basic for Applications (VBA) example creates a new email message, uses the **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
 
 
 ```vb

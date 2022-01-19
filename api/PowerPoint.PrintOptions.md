@@ -18,7 +18,7 @@ Contains print options for a presentation.
 
 
 > [!NOTE] 
-> Specifying the optional arguments From, To, Copies, and Collate for the  **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the corresponding properties of the **PrintOptions** object.
+> Specifying the optional arguments From, To, Copies, and Collate for the **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the corresponding properties of the **PrintOptions** object.
 
 
 ## Example

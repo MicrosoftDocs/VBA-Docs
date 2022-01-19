@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TaskGroups object (Project)
 
-Represents all the task-based group definitions.  **TaskGroups** is a collection of **[Group](Project.Group.md)** objects.
+Represents all the task-based group definitions. **TaskGroups** is a collection of **[Group](Project.Group.md)** objects.
  
 
 

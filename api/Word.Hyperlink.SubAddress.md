@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.SubAddress property (Word)
 
-Returns or sets a named location in the destination of the specified hyperlink. Read/write  **String**.
+Returns or sets a named location in the destination of the specified hyperlink. Read/write **String**.
 
 
 ## Syntax

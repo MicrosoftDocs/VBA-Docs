@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.FormFields property (Word)
 
-Returns a  **[FormFields](Word.formfields.md)** collection that represents all the form fields in the range. Read-only.
+Returns a **[FormFields](Word.formfields.md)** collection that represents all the form fields in the range. Read-only.
 
 
 ## Syntax

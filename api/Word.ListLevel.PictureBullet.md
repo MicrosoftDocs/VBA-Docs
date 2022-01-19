@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.PictureBullet property (Word)
 
-Returns an  **[InlineShape](Word.InlineShape.md)** object that represents a picture bullet.
+Returns an **[InlineShape](Word.InlineShape.md)** object that represents a picture bullet.
 
 
 ## Syntax

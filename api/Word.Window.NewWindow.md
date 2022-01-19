@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.NewWindow method (Word)
 
-Opens a new window with the same document as the specified window. Returns a  **Window** object.
+Opens a new window with the same document as the specified window. Returns a **Window** object.
 
 
 ## Syntax

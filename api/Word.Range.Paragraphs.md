@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Paragraphs property (Word)
 
-Returns a  **Paragraphs** collection that represents all the paragraphs in the specified range. Read-only.
+Returns a **Paragraphs** collection that represents all the paragraphs in the specified range. Read-only.
 
 
 ## Syntax

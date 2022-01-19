@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIButtonStyle enumeration (Visio)
 
-Constants describing the style of command bar buttons to be passed to and returned by the  **ToolbarItem.Style** property.
+Constants describing the style of command bar buttons to be passed to and returned by the **ToolbarItem.Style** property.
 
 
 > [!NOTE] 

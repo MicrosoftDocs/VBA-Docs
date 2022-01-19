@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ReadabilityStatistics property (Word)
 
-Returns a  **ReadabilityStatistics** collection that represents the readability statistics for the specified document or range. Read-only.
+Returns a **ReadabilityStatistics** collection that represents the readability statistics for the specified document or range. Read-only.
 
 
 ## Syntax

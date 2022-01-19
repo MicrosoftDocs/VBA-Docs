@@ -23,7 +23,7 @@ _expression_. `GroupCriteria`
 
 ## Example
 
-The following example lists all of the group criteria in the second  **Group2** object of the **TaskGroups2** collection.
+The following example lists all of the group criteria in the second **Group2** object of the **TaskGroups2** collection.
 
 
 ```vb

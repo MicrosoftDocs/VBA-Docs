@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.PrintOut method (Outlook)
 
-Prints the  **[SharingItem](Outlook.SharingItem.md)** using all default settings.
+Prints the **[SharingItem](Outlook.SharingItem.md)** using all default settings.
 
 
 ## Syntax

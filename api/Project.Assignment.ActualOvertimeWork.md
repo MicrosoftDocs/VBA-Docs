@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ActualOvertimeWork property (Project)
 
-Gets or sets the actual overtime work (in minutes) for an assignment. Read/write  **Variant**.
+Gets or sets the actual overtime work (in minutes) for an assignment. Read/write **Variant**.
 
 
 ## Syntax

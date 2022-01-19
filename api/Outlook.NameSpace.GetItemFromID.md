@@ -42,7 +42,7 @@ An **Object** value that represents the specified Outlook item.
 
 This method is used for ease of transition between MAPI and OLE/Messaging applications and Outlook.
 
-For more information about Entry IDs, see the  **[EntryID](Outlook.Folder.EntryID.md)** property.
+For more information about Entry IDs, see the **[EntryID](Outlook.Folder.EntryID.md)** property.
 
 
 ## See also

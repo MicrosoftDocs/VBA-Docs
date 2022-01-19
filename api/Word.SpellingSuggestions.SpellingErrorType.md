@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SpellingSuggestions.SpellingErrorType property (Word)
 
-Returns the spelling error type. Read-only  **WdSpellingErrorType**.
+Returns the spelling error type. Read-only **WdSpellingErrorType**.
 
 
 ## Syntax

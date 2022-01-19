@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Application.GetCacheStatusForProject property (Project)
-Gets the state of a specified job that the active cache in Project Professional sends to the Project Server Queue System. Read-only  **PjCacheJobState**.
+Gets the state of a specified job that the active cache in Project Professional sends to the Project Server Queue System. Read-only **PjCacheJobState**.
 
 ## Syntax
 

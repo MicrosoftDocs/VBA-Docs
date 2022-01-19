@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.ScaleType property (Word)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](Word.xlscaletype.md)**.
+Returns or sets the value axis scale type. Read/write **[XlScaleType](Word.xlscaletype.md)**.
 
 
 ## Syntax

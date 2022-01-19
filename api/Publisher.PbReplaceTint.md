@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbReplaceTint enumeration (Publisher)
 
-Constants passed to the  **Plate.Delete** method specifying how to replace the colors in a deleted plate.
+Constants passed to the **Plate.Delete** method specifying how to replace the colors in a deleted plate.
 
 
 

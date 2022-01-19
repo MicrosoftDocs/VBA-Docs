@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControlListEntry.Value property (Word)
 
-Returns or sets a  **String** that represents the programmatic value of an item in a drop-down list or combo box content control. Read/write.
+Returns or sets a **String** that represents the programmatic value of an item in a drop-down list or combo box content control. Read/write.
 
 
 ## Syntax

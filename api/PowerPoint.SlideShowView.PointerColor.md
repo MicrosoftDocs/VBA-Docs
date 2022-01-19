@@ -33,7 +33,7 @@ ColorFormat
 
 As soon as the slide show is finished, the color reverts to the default color for the presentation. 
 
-To change the pointer to a pen, set the  **[PointerType](PowerPoint.SlideShowView.PointerType.md)** property to **ppSlideShowPointerPen**.
+To change the pointer to a pen, set the **[PointerType](PowerPoint.SlideShowView.PointerType.md)** property to **ppSlideShowPointerPen**.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.ReturnAddressShortForm property (Word)
 
-Returns or sets the short form address. Read/write  **String**.
+Returns or sets the short form address. Read/write **String**.
 
 
 ## Syntax

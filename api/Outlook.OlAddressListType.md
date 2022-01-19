@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlAddressListType enumeration (Outlook)
 
-Represents the type of  **[AddressList](Outlook.AddressList.md)**.
+Represents the type of **[AddressList](Outlook.AddressList.md)**.
 
 
 

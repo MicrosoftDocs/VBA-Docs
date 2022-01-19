@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) obje
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. Before running this example, replace 'Dan Wilson' with a valid recipient name.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. Before running this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

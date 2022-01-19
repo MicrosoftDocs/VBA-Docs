@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _TaskID_|Optional|**Variant**|TaskID for the task or  **null**.|
+| _TaskID_|Optional|**Variant**|TaskID for the task or **null**.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Words property (Word)
 
-Returns a  **Words** collection that represents all the words in a range. Read-only.
+Returns a **Words** collection that represents all the words in a range. Read-only.
 
 
 ## Syntax

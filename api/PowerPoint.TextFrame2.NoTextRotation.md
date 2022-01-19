@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame2.NoTextRotation property (PowerPoint)
 
-Indicates whether to rotate text with the  **TextFrame2** rotation. One of the **MsoTriState** constants. Read/write.
+Indicates whether to rotate text with the **TextFrame2** rotation. One of the **MsoTriState** constants. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextFrame2](PowerPoint.TextFrame2.m
 
 ## Remarks
 
-If  **MsoTriState** is set to msoTrue, the text remains horizontal.
+If **MsoTriState** is set to msoTrue, the text remains horizontal.
 
 
 ## See also

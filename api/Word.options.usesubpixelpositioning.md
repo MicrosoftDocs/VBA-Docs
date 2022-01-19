@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Options.UseSubPixelPositioning property (Word)
 
-Returns or sets a  **Boolean** that specifies whether sub-pixel positioning is enabled. Read/write.
+Returns or sets a **Boolean** that specifies whether sub-pixel positioning is enabled. Read/write.
 
 
 ## Syntax

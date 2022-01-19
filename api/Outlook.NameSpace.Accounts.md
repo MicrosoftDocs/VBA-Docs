@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) obje
 
 ## Remarks
 
-If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts** collection with **[Accounts.Count](Outlook.Accounts.Count.md)** equal to 0.
+If Outlook is running in sessionless mode, **Accounts** returns an **Accounts** collection with **[Accounts.Count](Outlook.Accounts.Count.md)** equal to 0.
 
 
 ## See also

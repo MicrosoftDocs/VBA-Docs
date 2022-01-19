@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Application property (Word)
 
-Returns an  **[Application](Word.Application.md)** object that represents the Microsoft OfficeWord application.
+Returns an **[Application](Word.Application.md)** object that represents the Microsoft OfficeWord application.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 
 ## Remarks
 
-The Microsoft Visual Basic  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications (VBA) project.
+The Microsoft Visual Basic **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications (VBA) project.
 
 
 ## See also

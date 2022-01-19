@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.DefaultWidth property (Word)
 
-Returns or sets the default envelope width, in points. Read/write  **Single**.
+Returns or sets the default envelope width, in points. Read/write **Single**.
 
 
 ## Syntax

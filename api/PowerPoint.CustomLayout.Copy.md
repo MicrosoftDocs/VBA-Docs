@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout
 
 ## Remarks
 
-Use the  **[Paste](PowerPoint.CustomLayouts.Paste.md)** method of the **[CustomLayouts](PowerPoint.CustomLayouts.md)** object to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
+Use the **[Paste](PowerPoint.CustomLayouts.Paste.md)** method of the **[CustomLayouts](PowerPoint.CustomLayouts.md)** object to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
 
 
 ## See also

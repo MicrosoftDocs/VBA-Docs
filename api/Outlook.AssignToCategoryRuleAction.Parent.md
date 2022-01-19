@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AssignToCategoryRuleAction.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AssignToCategoryRuleAction](Outlook.
 
 ## Remarks
 
-The parent of the  **[AssignToCategoryRuleAction](Outlook.assigntocategoryRuleAction.md)** object is the **[RuleAction](Outlook.RuleAction.md)** object.
+The parent of the **[AssignToCategoryRuleAction](Outlook.assigntocategoryRuleAction.md)** object is the **[RuleAction](Outlook.RuleAction.md)** object.
 
 
 ## See also

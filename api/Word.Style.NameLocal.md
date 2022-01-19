@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.NameLocal property (Word)
 
-Returns the name of a built-in style in the language of the user. Read/write  **String**.
+Returns the name of a built-in style in the language of the user. Read/write **String**.
 
 
 ## Syntax

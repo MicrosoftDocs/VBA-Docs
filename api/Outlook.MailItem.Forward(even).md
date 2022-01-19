@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # MailItem.Forward event (Outlook)
 
-Occurs when the user selects the  **Forward** action for an item, or when the **Forward** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **Forward** action for an item, or when the **Forward** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ In VBScript, if you set the return value of this function to **False**, the forw
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example uses the  **Forward** event to disable forwarding on an item that has the subject "Do not forward" by setting the Cancel argument to **True** and it also displays a message that the item may not be forwarded. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_Handler()` routine should be called before the event procedure can be called by Microsoft Outlook. A email item must be open when you run `Initialize_Handler()`.
+This Microsoft Visual Basic for Applications (VBA) example uses the **Forward** event to disable forwarding on an item that has the subject "Do not forward" by setting the Cancel argument to **True** and it also displays a message that the item may not be forwarded. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_Handler()` routine should be called before the event procedure can be called by Microsoft Outlook. A email item must be open when you run `Initialize_Handler()`.
 
 
 ```vb

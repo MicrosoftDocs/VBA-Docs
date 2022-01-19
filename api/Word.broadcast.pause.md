@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** obj
 
 ## Remarks
 
-If the specified broadcast is not in progress,  **Pause** returns run-time error 4702.
+If the specified broadcast is not in progress, **Pause** returns run-time error 4702.
 
 
 ## See also

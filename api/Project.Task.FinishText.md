@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.FinishText property (Project)
 
-Gets or sets a string representation of the task finish date. Read/write  **String**.
+Gets or sets a string representation of the task finish date. Read/write **String**.
 
 
 ## Syntax

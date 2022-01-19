@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.PreleveledFinish property (Project)
 
-Gets the finish date of a task before leveling occurred. Read-only  **Variant**.
+Gets the finish date of a task before leveling occurred. Read-only **Variant**.
 
 
 ## Syntax

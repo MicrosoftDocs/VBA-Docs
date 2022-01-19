@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.RegularWork property (Project)
 
-Gets the amount of regular work for the assignment. Read/write  **Variant**.
+Gets the amount of regular work for the assignment. Read/write **Variant**.
 
 
 ## Syntax

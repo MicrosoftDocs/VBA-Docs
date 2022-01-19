@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.RemainingWork property (Project)
 
-Gets or sets the remaining work (in minutes) for the resource. Read-only  **Variant**.
+Gets or sets the remaining work (in minutes) for the resource. Read-only **Variant**.
 
 
 ## Syntax

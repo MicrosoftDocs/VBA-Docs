@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Profile.Server property (Project)
 
-Gets or sets the name of the profile for Project Server. Read/write  **String**.
+Gets or sets the name of the profile for Project Server. Read/write **String**.
 
 
 ## Syntax

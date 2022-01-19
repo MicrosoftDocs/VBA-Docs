@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.HasAxis property (Project)
-Gets or sets which axes exist on a chart. Read/write  **Variant**.
+Gets or sets which axes exist on a chart. Read/write **Variant**.
 
 ## Syntax
 
@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 You must enter a value for at least one of the parameters when setting the **HasAxis** property.
 
-Project may create or delete axes if you change the chart type or the **IMsoAxis.AxisGroup**,  **IMsoChartGroup.AxisGroup**, or  **IMsoSeries.AxisGroup** properties.
+Project may create or delete axes if you change the chart type or the **IMsoAxis.AxisGroup**, **IMsoChartGroup.AxisGroup**, or **IMsoSeries.AxisGroup** properties.
 
 
 ## Example

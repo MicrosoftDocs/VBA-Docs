@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.MoveToTextColor property (Word)
 
-Returns or sets a  **[WdColorIndex](Word.WdColorIndex.md)** constant that represents the color of moved text. Read/write.
+Returns or sets a **[WdColorIndex](Word.WdColorIndex.md)** constant that represents the color of moved text. Read/write.
 
 
 ## Syntax

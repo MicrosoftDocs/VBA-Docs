@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.FullName property (Project)
 
-Gets the path and file name of a project. Read-only  **String**.
+Gets the path and file name of a project. Read-only **String**.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-A value of zero makes the list as wide as the  **ComboBox**. The default value is to make the list as wide as the text portion of the control.
+A value of zero makes the list as wide as the **ComboBox**. The default value is to make the list as wide as the text portion of the control.
 
 If you want to display a multicolumn list, enter a value that will make the list box wide enough to fit all the columns.
 

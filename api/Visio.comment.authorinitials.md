@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.AuthorInitials property (Visio)
 
-Returns the initials of the author of the specified comment. Read-only  **String**.
+Returns the initials of the author of the specified comment. Read-only **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Type property (Word)
 
-Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)**.
+Returns the document type (template or document). Read-only **[WdDocumentType](Word.WdDocumentType.md)**.
 
 
 ## Syntax

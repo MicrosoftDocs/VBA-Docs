@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SetLetterContent method (Word)
 
-Inserts the contents of the specified  **LetterContent** object into a document.
+Inserts the contents of the specified **LetterContent** object into a document.
 
 
 ## Syntax

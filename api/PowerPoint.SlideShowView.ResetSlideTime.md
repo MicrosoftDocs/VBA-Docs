@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowView.ResetSlideTime method (PowerPoint)
 
-Resets the elapsed time (represented by the  **[SlideElapsedTime](PowerPoint.SlideShowView.SlideElapsedTime.md)** property) for the slide that's currently displayed to 0 (zero).
+Resets the elapsed time (represented by the **[SlideElapsedTime](PowerPoint.SlideShowView.SlideElapsedTime.md)** property) for the slide that's currently displayed to 0 (zero).
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.Month property (Project)
 
-Gets or sets the month for a yearly type of exception. Read/write  **PjMonth**.
+Gets or sets the month for a yearly type of exception. Read/write **PjMonth**.
 
 
 ## Syntax

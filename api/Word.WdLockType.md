@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WdLockType enumeration (Word)
 
-Specifies the type of lock for a  **[CoAuthLock](Word.CoAuthLock.md)** object.
+Specifies the type of lock for a **[CoAuthLock](Word.CoAuthLock.md)** object.
 
 
 

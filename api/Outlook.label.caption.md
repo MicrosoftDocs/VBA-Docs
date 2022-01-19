@@ -27,6 +27,6 @@ If a control's caption is too long, the caption is truncated. If a form's captio
 
 The **[ForeColor](Outlook.label.forecolor.md)** property of the control determines the color of the text in the caption.
 
-Setting  **[AutoSize](Outlook.label.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
+Setting **[AutoSize](Outlook.label.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

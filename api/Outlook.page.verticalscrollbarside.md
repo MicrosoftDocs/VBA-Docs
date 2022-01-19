@@ -21,7 +21,7 @@ _expression_ A variable that represents a **Page** object.
 
 ## Remarks
 
-The settings for  **VerticalScrollBarSide** are:
+The settings for **VerticalScrollBarSide** are:
 
 
 

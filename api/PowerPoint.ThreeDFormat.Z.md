@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.Z property (PowerPoint)
 
-Returns or sets the distance the specified  **ThreeDFormat** object is moved away from the ground plane, in points. Read/write.
+Returns or sets the distance the specified **ThreeDFormat** object is moved away from the ground plane, in points. Read/write.
 
 
 ## Syntax

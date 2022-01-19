@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FullName property (Word)
 
-Returns a  **String** that represents the name of a document, including the path. Read-only.
+Returns a **String** that represents the name of a document, including the path. Read-only.
 
 
 ## Syntax

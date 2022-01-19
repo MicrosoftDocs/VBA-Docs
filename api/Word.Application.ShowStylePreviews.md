@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ShowStylePreviews property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word shows a preview of the formatting for styles in the **Styles** dialog box. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word shows a preview of the formatting for styles in the **Styles** dialog box. Read/write.
 
 
 ## Syntax

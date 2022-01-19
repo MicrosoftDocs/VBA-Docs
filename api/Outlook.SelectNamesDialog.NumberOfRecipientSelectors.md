@@ -26,11 +26,11 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Remarks
 
-A recipient edit box allows you to enter recipient names. Each recipient edit box is associated with a command button in the  **Select Names** dialog box; examples of a command button for a recipient edit box are the **To** and **Cc** command buttons. The default value of **NumberOfRecipientSelectors** is **OlRecipientSelectors.olToCcBcc**.
+A recipient edit box allows you to enter recipient names. Each recipient edit box is associated with a command button in the **Select Names** dialog box; examples of a command button for a recipient edit box are the **To** and **Cc** command buttons. The default value of **NumberOfRecipientSelectors** is **OlRecipientSelectors.olToCcBcc**.
 
-If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowTo** and then subsequently set the text for **[SelectNamesDialog.CcLabel](Outlook.SelectNamesDialog.CcLabel.md)** or **[SelectNamesDialog.BccLabel](Outlook.SelectNamesDialog.BccLabel.md)**, the **NumberOfRecipientSelectors** will remain unchanged.
+If you set **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowTo** and then subsequently set the text for **[SelectNamesDialog.CcLabel](Outlook.SelectNamesDialog.CcLabel.md)** or **[SelectNamesDialog.BccLabel](Outlook.SelectNamesDialog.BccLabel.md)**, the **NumberOfRecipientSelectors** will remain unchanged.
 
-If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone**, then the **[SelectNamesDialog.AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)** property will be ignored.
+If you set **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone**, then the **[SelectNamesDialog.AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)** property will be ignored.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.HebrewMode property (Word)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **WdHebSpellStart**.
+Returns or sets the mode for the Hebrew spelling checker. Read/write **WdHebSpellStart**.
 
 
 ## Syntax

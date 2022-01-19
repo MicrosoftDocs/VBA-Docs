@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.ContainingRange property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the entire story in a series of shapes with linked text frames that the specified text frame belongs to. Read-only.
+Returns a **[Range](Word.Range.md)** object that represents the entire story in a series of shapes with linked text frames that the specified text frame belongs to. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.PreviousRevision method (Word)
 
-Locates and returns the previous tracked change as a  **Revision** object.
+Locates and returns the previous tracked change as a **Revision** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.LinkFormat property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of the specified inline shape that is linked to a file. Read/only.
+Returns a **LinkFormat** object that represents the link options of the specified inline shape that is linked to a file. Read/only.
 
 
 ## Syntax

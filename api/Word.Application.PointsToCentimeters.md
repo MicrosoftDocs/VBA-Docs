@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PointsToCentimeters method (Word)
 
-Converts a measurement from points to centimeters (1 centimeter = 28.35 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from points to centimeters (1 centimeter = 28.35 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax

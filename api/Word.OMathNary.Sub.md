@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathNary.Sub property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the lower limit of an n-ary operator. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the lower limit of an n-ary operator. Read-only.
 
 
 ## Syntax

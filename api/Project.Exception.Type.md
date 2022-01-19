@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.Type property (Project)
 
-Gets or sets the type of calendar exception. Read/write  **PjExceptionType**.
+Gets or sets the type of calendar exception. Read/write **PjExceptionType**.
 
 
 ## Syntax

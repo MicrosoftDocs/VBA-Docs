@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Baseline4BudgetCost property (Project)
 
-Gets or sets the baseline4 budget cost for the rollup calculated value of all the cost resources within the project. Applies only to the project summary task. Read/write  **Variant**.
+Gets or sets the baseline4 budget cost for the rollup calculated value of all the cost resources within the project. Applies only to the project summary task. Read/write **Variant**.
 
 
 ## Syntax

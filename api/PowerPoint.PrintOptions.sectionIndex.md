@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PrintOptions.sectionIndex property (PowerPoint)
 
-Returns the index of the selected section in the  **PrintOptions** object. Read/write.
+Returns the index of the selected section in the **PrintOptions** object. Read/write.
 
 
 ## Syntax

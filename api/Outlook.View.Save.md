@@ -26,7 +26,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 ## Remarks
 
-Always use  **Save** to save a view after you change any property of the view.
+Always use **Save** to save a view after you change any property of the view.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.OvertimeWork property (Project)
 
-Gets or sets the overtime work for an assignment. Read/write  **Variant**.
+Gets or sets the overtime work for an assignment. Read/write **Variant**.
 
 
 ## Syntax

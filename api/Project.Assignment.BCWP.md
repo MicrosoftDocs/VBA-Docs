@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.BCWP property (Project)
 
-Gets the budgeted cost of work performed for the assignment. Read-only  **Variant**.
+Gets the budgeted cost of work performed for the assignment. Read-only **Variant**.
 
 
 ## Syntax

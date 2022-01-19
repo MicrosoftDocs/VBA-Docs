@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SetEffect](PowerPoint.SetEffect.md) o
 
 ## Remarks
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## See also

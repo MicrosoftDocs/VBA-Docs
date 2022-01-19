@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PlotArea.InsideLeft property (Word)
 
-Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#point), from the chart edge to the inside left edge of the plot area. Read/write  **Double**.
+Returns or sets the distance, in [points](../language/glossary/vbe-glossary.md#point), from the chart edge to the inside left edge of the plot area. Read/write **Double**.
 
 
 ## Syntax

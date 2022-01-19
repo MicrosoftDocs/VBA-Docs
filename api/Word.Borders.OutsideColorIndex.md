@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Borders.OutsideColorIndex property (Word)
 
-Returns or sets the color of the outside borders. Read/write  **WdColorIndex**.
+Returns or sets the color of the outside borders. Read/write **WdColorIndex**.
 
 
 ## Syntax

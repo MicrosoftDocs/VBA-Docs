@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.MoveToStart method (Outlook)
 
-Moves the current row of the  **[Table](Outlook.Table.md)** to just before the first row of the **Table**.
+Moves the current row of the **[Table](Outlook.Table.md)** to just before the first row of the **Table**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.BubbleSizes property (Word)
 
-Returns or sets a string that refers to the worksheet cells that contain the x-value, y-value, and size data for the bubble chart. Read/write  **Variant**.
+Returns or sets a string that refers to the worksheet cells that contain the x-value, y-value, and size data for the bubble chart. Read/write **Variant**.
 
 
 ## Syntax

@@ -39,9 +39,9 @@ An ANSI key is one that produces a typeable character when the user presses it. 
 A **KeyPress** event does not occur under the following conditions:
 
 
-- Pressing  **TAB**
+- Pressing **TAB**
     
-- Pressing  **ENTER**
+- Pressing **ENTER**
     
 - Pressing an arrow key
     

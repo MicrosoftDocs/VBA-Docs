@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ActiveThemeDisplayName property (Word)
 
-Returns the display name of the active theme for the specified document. Read-only  **String**.
+Returns the display name of the active theme for the specified document. Read-only **String**.
 
 
 ## Syntax

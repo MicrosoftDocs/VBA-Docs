@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project are updated. **False** if only the selected tasks are updated. The default value is **True**.|
 | _UpdateDate_|Optional|**Variant**|The update date to use for the specified action. |
-| _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following  **[PjProjectUpdate](Project.PjProjectUpdate.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
+| _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following **[PjProjectUpdate](Project.PjProjectUpdate.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
 
 ## Return value
 

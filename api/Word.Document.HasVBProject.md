@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.HasVBProject property (Word)
 
-Returns a  **Boolean** that represents whether a document has an attached Microsoft Visual Basic for Applications project. Read-only.
+Returns a **Boolean** that represents whether a document has an attached Microsoft Visual Basic for Applications project. Read-only.
 
 
 ## Syntax

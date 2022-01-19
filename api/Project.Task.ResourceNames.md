@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ResourceNames property (Project)
 
-Gets or sets the names of the resources assigned to a task. Read/write  **String**.
+Gets or sets the names of the resources assigned to a task. Read/write **String**.
 
 
 ## Syntax

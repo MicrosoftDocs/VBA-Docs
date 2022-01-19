@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFormat.SoftEdge property (PowerPoint)
 
-Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)**.
+Returns the soft edge formatting for a shape. Read-only **[SoftEdgeFormat](Office.SoftEdgeFormat.md)**.
 
 
 ## Syntax

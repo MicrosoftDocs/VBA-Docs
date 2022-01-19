@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheet.Type property (Word)
 
-Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.WdStyleSheetLinkType.md)**.
+Returns or sets the style sheet type. Read/write **[WdStyleSheetLinkType](Word.WdStyleSheetLinkType.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime**. When you send an item using the object's **[Send](Outlook.SharingItem.Send(method).md)** method, the transport provider sets the **[ReceivedTime](Outlook.SharingItem.ReceivedTime.md)** and **SentOn** properties for you.
+This property corresponds to the MAPI property **PidTagClientSubmitTime**. When you send an item using the object's **[Send](Outlook.SharingItem.Send(method).md)** method, the transport provider sets the **[ReceivedTime](Outlook.SharingItem.ReceivedTime.md)** and **SentOn** properties for you.
 
 
 ## See also

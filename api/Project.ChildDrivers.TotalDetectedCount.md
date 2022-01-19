@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChildDrivers.TotalDetectedCount property (Project)
 
-Gets the total number of child task drivers that affect the dates of a task. Read-only  **Long**.
+Gets the total number of child task drivers that affect the dates of a task. Read-only **Long**.
 
 
 ## Syntax

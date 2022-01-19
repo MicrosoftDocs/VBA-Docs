@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisArcSweepFlags enumeration (Visio)
 
-Sweep flag constants used in conjunction with the  **DrawQuarterArc** method.
+Sweep flag constants used in conjunction with the **DrawQuarterArc** method.
 
 
 

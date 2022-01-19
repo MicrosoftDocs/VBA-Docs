@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.SizeRepresents property (Word)
 
-Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long**.
+Returns or sets what the bubble size represents on a bubble chart. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** o
 
 ## Remarks
 
-This property can be either of the following  **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
+This property can be either of the following **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
 
 
 - **xlSizeIsArea**

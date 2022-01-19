@@ -54,7 +54,7 @@ End With
 ```
 
 > [!NOTE] 
-> If you use a string for the Separator parameter, you will get a string as the separator. If you use  **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline, depending on the data label.When a value of 1 is returned, it indicates that the user has not changed the default separator, which is a comma (,). You can also pass a value of 1 to change the separator back to the default separator.The chart must first be active before you can access the data labels programmatically; otherwise, a run-time error occurs.
+> If you use a string for the Separator parameter, you will get a string as the separator. If you use **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline, depending on the data label.When a value of 1 is returned, it indicates that the user has not changed the default separator, which is a comma (,). You can also pass a value of 1 to change the separator back to the default separator.The chart must first be active before you can access the data labels programmatically; otherwise, a run-time error occurs.
 
 
 

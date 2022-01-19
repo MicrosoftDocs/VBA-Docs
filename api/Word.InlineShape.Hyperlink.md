@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Hyperlink property (Word)
 
-Returns a  **Hyperlink** object that represents the hyperlink associated with the specified inline shape. Read-only.
+Returns a **Hyperlink** object that represents the hyperlink associated with the specified inline shape. Read-only.
 
 
 ## Syntax

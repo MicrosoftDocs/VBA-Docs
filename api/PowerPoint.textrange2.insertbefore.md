@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TextRange2.InsertBefore method (PowerPoint)
 
-Inserts text to the left of the existing text in the  **TextRange2** object.
+Inserts text to the left of the existing text in the **TextRange2** object.
 
 
 ## Syntax

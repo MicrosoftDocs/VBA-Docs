@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.LockTheme property (Word)
 
-Returns or sets a  **Boolean** that represents whether a user can change a document theme. Read/write.
+Returns or sets a **Boolean** that represents whether a user can change a document theme. Read/write.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Groups object (Project)
 
-Represents a collection of  **[Group](Project.Group.md)** objects.
+Represents a collection of **[Group](Project.Group.md)** objects.
  
 
 

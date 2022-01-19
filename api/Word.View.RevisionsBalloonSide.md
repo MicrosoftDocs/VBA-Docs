@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.RevisionsBalloonSide property (Word)
 
-Sets or returns a  **WdRevisionsBalloonMargin** constant that specifies whether Word displays revision balloons in the left or right margin in a document.
+Sets or returns a **WdRevisionsBalloonMargin** constant that specifies whether Word displays revision balloons in the left or right margin in a document.
 
 
 ## Syntax

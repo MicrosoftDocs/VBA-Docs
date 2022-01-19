@@ -26,10 +26,10 @@ _expression_ A variable that represents a **ScrollBar** object.
 
 Moving the scroll box in a **ScrollBar** changes the **Value** property of the control.
 
-The value for the  **Max** property corresponds to the lowest position of a vertical **ScrollBar** or the rightmost position of a horizontal **ScrollBar**.
+The value for the **Max** property corresponds to the lowest position of a vertical **ScrollBar** or the rightmost position of a horizontal **ScrollBar**.
 
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 
- **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of  **Max** could be less than the value of **[Min](Outlook.scrollbar.min.md)**. If this is the case, moving toward the  **Max** (bottom) position means decreasing **Value**; moving toward the  **Min** (top) position means increasing **Value**.
+ **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of **Max** could be less than the value of **[Min](Outlook.scrollbar.min.md)**. If this is the case, moving toward the **Max** (bottom) position means decreasing **Value**; moving toward the **Min** (top) position means increasing **Value**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

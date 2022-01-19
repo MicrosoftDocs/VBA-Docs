@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.ConnectString property (Word)
 
-Returns the connection string for the specified mail merge data source. Read-only  **String**.
+Returns the connection string for the specified mail merge data source. Read-only **String**.
 
 
 ## Syntax

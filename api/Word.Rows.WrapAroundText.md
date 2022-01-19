@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.WrapAroundText property (Word)
 
-Returns or sets whether text should wrap around the specified rows. Read/write  **Long**.
+Returns or sets whether text should wrap around the specified rows. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `WrapAroundText`
 
 ## Remarks
 
-Returns  **wdUndefined** if only some of the specified rows have wrapping enabled. Can be set to **True** or **False**. Setting the **WrapAroundText** property to **False** also sets the **[AllowOverlap](Word.Rows.AllowOverlap.md)** property to **False**. Setting the **AllowOverlap** property to **True** also sets the **WrapAroundText** property to **True**.
+Returns **wdUndefined** if only some of the specified rows have wrapping enabled. Can be set to **True** or **False**. Setting the **WrapAroundText** property to **False** also sets the **[AllowOverlap](Word.Rows.AllowOverlap.md)** property to **False**. Setting the **AllowOverlap** property to **True** also sets the **WrapAroundText** property to **True**.
 
 
 ## Example

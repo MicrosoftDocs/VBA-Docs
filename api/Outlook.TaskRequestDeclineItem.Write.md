@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskRequestDeclineItem.Write event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.TaskRequestDeclineItem.Save.md)** or **[SaveAs](Outlook.TaskRequestDeclineItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the **[Save](Outlook.TaskRequestDeclineItem.Save.md)** or **[SaveAs](Outlook.TaskRequestDeclineItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax

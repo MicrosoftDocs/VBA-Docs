@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.TimelineGotoSelectedTask method (Project)
 
-When a task is selected in the Timeline view,  **TimelineGotoSelectedTask** selects the same task in the main view.
+When a task is selected in the Timeline view, **TimelineGotoSelectedTask** selects the same task in the main view.
 
 
 ## Syntax

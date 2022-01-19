@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Content property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the main document story. Read-only.
+Returns a **[Range](Word.Range.md)** object that represents the main document story. Read-only.
 
 
 ## Syntax

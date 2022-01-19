@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabelSpacing property (PowerPoint)
 
-Returns or sets the number of categories or series between tick-mark labels. Read/write  **Long**.
+Returns or sets the number of categories or series between tick-mark labels. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.PictureFormat property (Word)
 
-Returns a  **PictureFormat** object that contains picture formatting properties for the inline shape. Read-only.
+Returns a **PictureFormat** object that contains picture formatting properties for the inline shape. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' 
 
 ## Remarks
 
-Applies to  **InlineShape** objects that represent pictures or OLE objects.
+Applies to **InlineShape** objects that represent pictures or OLE objects.
 
 
 ## See also

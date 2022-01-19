@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WdSmartTagControlType enumeration (Word)
 
-Specifies the type of control associated with a  **SmartTagAction** object.
+Specifies the type of control associated with a **SmartTagAction** object.
 
 
 

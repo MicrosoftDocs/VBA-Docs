@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.LanguageSettings property (Word)
 
-Returns a  **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
+Returns a **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
 
 
 ## Syntax

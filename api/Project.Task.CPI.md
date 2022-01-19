@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.CPI property (Project)
 
-Gets the cost performance index of a specified task. Read-only  **Double**.
+Gets the cost performance index of a specified task. Read-only **Double**.
 
 
 ## Syntax

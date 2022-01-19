@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.ID property (Project)
-Gets the identification type for the shape. Read-only  **Long**.
+Gets the identification type for the shape. Read-only **Long**.
 
 ## Syntax
 

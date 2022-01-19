@@ -19,7 +19,7 @@ Represents a custom mailing label. The **CustomLabel** object is a member of the
 
 ## Remarks
 
-Use  **[CustomLabels](Word.MailingLabel.CustomLabels.md)** (Index), where Index is the custom label name or index number, to return a single **CustomLabel** object. The following example creates a new document with an existing custom label layout named "My Labels."
+Use **[CustomLabels](Word.MailingLabel.CustomLabels.md)** (Index), where Index is the custom label name or index number, to return a single **CustomLabel** object. The following example creates a new document with an existing custom label layout named "My Labels."
 
 
 ```vb
@@ -44,7 +44,7 @@ End If
 
 
 > [!NOTE] 
->  **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](Word.customlabels.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
+> **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](Word.customlabels.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
 
 Use the **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 

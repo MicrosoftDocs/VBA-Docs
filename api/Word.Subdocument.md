@@ -19,7 +19,7 @@ Represents a subdocument within a document or range. The **Subdocument** object 
 
 ## Remarks
 
-Use  **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
+Use **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
 
 
 ```vb

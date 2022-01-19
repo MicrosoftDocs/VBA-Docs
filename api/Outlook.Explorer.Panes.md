@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a group named "Marketing" as the second group in the  **Shortcuts** pane.
+This Microsoft Visual Basic for Applications (VBA) example adds a group named "Marketing" as the second group in the **Shortcuts** pane.
 
 
 ```vb

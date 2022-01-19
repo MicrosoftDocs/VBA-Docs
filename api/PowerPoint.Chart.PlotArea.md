@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.PlotArea property (PowerPoint)
 
-Returns the plot area of a chart. Read-only  **[PlotArea](PowerPoint.PlotArea.md)**.
+Returns the plot area of a chart. Read-only **[PlotArea](PowerPoint.PlotArea.md)**.
 
 
 ## Syntax

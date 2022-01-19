@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained within a revision mark.
+Returns a **Range** object that represents the portion of a document that's contained within a revision mark.
 
 
 ## Syntax

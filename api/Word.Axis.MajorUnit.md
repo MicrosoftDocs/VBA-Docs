@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MajorUnit property (Word)
 
-Returns or sets the major units for the value axis. Read/write  **Double**.
+Returns or sets the major units for the value axis. Read/write **Double**.
 
 
 ## Syntax

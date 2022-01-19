@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.DrawLine method (Visio)
 
-Adds a line to the  **Shapes** collection of a page.
+Adds a line to the **Shapes** collection of a page.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-Using the  **DrawLine** method is equivalent to using the **Line** tool in Microsoft Visio. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the line is being placed.
+Using the **DrawLine** method is equivalent to using the **Line** tool in Microsoft Visio. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the line is being placed.
 
 
 ## Example

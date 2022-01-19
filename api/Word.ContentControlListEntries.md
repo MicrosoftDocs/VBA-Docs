@@ -30,7 +30,7 @@ Use the **[Item](Word.ContentControlListEntries.Item.md)** method or the **[Drop
 
 
 > [!NOTE] 
-> The following code example assumes that the first  **ContentControl** object in the active document is a drop-down list or combo box.
+> The following code example assumes that the first **ContentControl** object in the active document is a drop-down list or combo box.
 
 
 

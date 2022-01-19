@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.Address property (Word)
 
-Returns the envelope delivery address as a  **Range** object. Read-only.
+Returns the envelope delivery address as a **Range** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.FrenchReform property (Word)
 
-Returns or sets a  **[WdFrenchSpeller](Word.WdFrenchSpeller.md)** constant that represents which spelling dictionary to use for regions of text with language formatting set to French. Read/write.
+Returns or sets a **[WdFrenchSpeller](Word.WdFrenchSpeller.md)** constant that represents which spelling dictionary to use for regions of text with language formatting set to French. Read/write.
 
 
 ## Syntax

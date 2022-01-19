@@ -42,7 +42,7 @@ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' objec
     
 - If neither adjoining cell contains a value, Word inserts {=SUM(ABOVE)}.
     
-- If you don't specify  **Formula** and all the cells above and to the left of the insertion point are empty, the result of the field is an error.
+- If you don't specify **Formula** and all the cells above and to the left of the insertion point are empty, the result of the field is an error.
     
 
 ## Example

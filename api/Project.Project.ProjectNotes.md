@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectNotes property (Project)
 
-Gets or sets the notes for the project. Read/write  **String**.
+Gets or sets the notes for the project. Read/write **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-To see the project  **Properties** dialog box in Project, choose the **FILE** tab on the ribbon to show the **Backstage** view, choose the **Info** tab, and then choose **Advanced Properties** in the **Project Information** drop-down menu.
+To see the project **Properties** dialog box in Project, choose the **FILE** tab on the ribbon to show the **Backstage** view, choose the **Info** tab, and then choose **Advanced Properties** in the **Project Information** drop-down menu.
 
 
 ## Example

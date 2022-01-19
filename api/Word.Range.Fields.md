@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Fields property (Word)
 
-Returns a  **[Fields](Word.fields.md)** collection that represents all the fields in the range. Read-only.
+Returns a **[Fields](Word.fields.md)** collection that represents all the fields in the range. Read-only.
 
 
 ## Syntax

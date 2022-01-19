@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-When the  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method is used with an **[AppointmentItem](Outlook.AppointmentItem.md)** object, this property is set to **True**.
+When the **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method is used with an **[AppointmentItem](Outlook.AppointmentItem.md)** object, this property is set to **True**.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathAutoCorrect.Entries property (Word)
 
-Returns an  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection that represents the collection of equation autocorrect entries within the equation autocorrect feature. Read-only.
+Returns an **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection that represents the collection of equation autocorrect entries within the equation autocorrect feature. Read-only.
 
 
 ## Syntax

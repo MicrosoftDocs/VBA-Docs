@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.PMText property (Project)
 
-Gets the text that Project displays next to evening hours in the 12-hour time format. Read-only  **String**.
+Gets the text that Project displays next to evening hours in the 12-hour time format. Read-only **String**.
 
 
 ## Syntax
@@ -27,6 +27,6 @@ Project sets the **AMText** and **PMText** properties equal to the corresponding
 
 
 > [!NOTE] 
-> Although the VBA Object Browser shows  **PMText** as read-write, you cannot set the value using the **PMText** property.
+> Although the VBA Object Browser shows **PMText** as read-write, you cannot set the value using the **PMText** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

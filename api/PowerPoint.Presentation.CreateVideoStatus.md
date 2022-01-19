@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.CreateVideoStatus property (PowerPoint)
 
-Returns the status of creating a video in the current  **Presentation**. Read-only.
+Returns the status of creating a video in the current **Presentation**. Read-only.
 
 
 ## Syntax

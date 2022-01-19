@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CoAuthLocks object (Word)
 
-A collection of  **[CoAuthLock](Word.CoAuthLock.md)** objects.
+A collection of **[CoAuthLock](Word.CoAuthLock.md)** objects.
 
 
 ## Remarks

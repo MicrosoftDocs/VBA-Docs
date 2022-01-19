@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.TopRelative property (Word)
 
-Returns or sets a  **Single** that represents the relative top position of a range of shapes. Read/write.
+Returns or sets a **Single** that represents the relative top position of a range of shapes. Read/write.
 
 
 ## Syntax

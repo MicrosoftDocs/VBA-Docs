@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Version.Date property (Word)
 
-The date and time that the document version was saved. Read-only  **Date**.
+The date and time that the document version was saved. Read-only **Date**.
 
 
 ## Syntax

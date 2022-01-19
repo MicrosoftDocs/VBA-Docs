@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Type_|Optional|**Long**|The type of item to rename. Can be one of the **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _FileName_|Required|**String**|The name of the file containing the item to rename.|
 | _Name_|Required|**String**|The name of the item to rename.|
-| _NewName_|Required|**String**|The new name for the item specified by  **Name**.|
+| _NewName_|Required|**String**|The new name for the item specified by **Name**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
 ## Return value

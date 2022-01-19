@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TextColumns object (Word)
 
-A collection of  **TextColumn** objects that represent all the columns of text in a document or a section of a document.
+A collection of **TextColumn** objects that represent all the columns of text in a document or a section of a document.
 
 
 ## Remarks

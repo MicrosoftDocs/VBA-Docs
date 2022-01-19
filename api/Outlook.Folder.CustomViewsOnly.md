@@ -28,12 +28,12 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 If set to the **True**, only user-created views will appear on the menu.
 
-This property has an effect only on the  **View** menu. It does not affect the display of views in the navigation pane.
+This property has an effect only on the **View** menu. It does not affect the display of views in the navigation pane.
 
 
 ## Example
 
-The following example prompts the user to select a view option. If the user chooses to view all views, the  **CustomViewsOnly** property is set to **False**. If the user chooses to view only custom views, the **CustomViewsOnly** property is set to **True**. Once the property is changed, the outcome of the change can be seen in the user interface.
+The following example prompts the user to select a view option. If the user chooses to view all views, the **CustomViewsOnly** property is set to **False**. If the user chooses to view only custom views, the **CustomViewsOnly** property is set to **True**. Once the property is changed, the outcome of the change can be seen in the user interface.
 
 
 ```vb

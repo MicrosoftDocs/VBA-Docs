@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.StoryRanges property (Word)
 
-Returns a  **[StoryRanges](Word.storyranges.md)** collection that represents all the stories in the specified document. Read-only.
+Returns a **[StoryRanges](Word.storyranges.md)** collection that represents all the stories in the specified document. Read-only.
 
 
 ## Syntax

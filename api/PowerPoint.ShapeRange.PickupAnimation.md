@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.PickupAnimation method (PowerPoint)
 
-Picks up all animation from the  **ShapeRange** object.
+Picks up all animation from the **ShapeRange** object.
 
 
 ## Syntax

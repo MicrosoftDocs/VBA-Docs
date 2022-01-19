@@ -45,7 +45,7 @@ The **SelectCellDown** method is not available when the Calendar, Network Diagra
 
 ## Example
 
-The following example applies the Complete and Incomplete Resources grouping to the Resource Sheet view, and then uses  **SelectCellDown** to select the first cell in each row and tests whether the row is a group summary. The process continues until the row is empty, and then shows a message box with the test results for each row.
+The following example applies the Complete and Incomplete Resources grouping to the Resource Sheet view, and then uses **SelectCellDown** to select the first cell in each row and tests whether the row is a group summary. The process continues until the row is empty, and then shows a message box with the test results for each row.
 
 
 ```vb

@@ -31,15 +31,15 @@ Integer
 
 ## Remarks
 
-The value of an object's  **TypeSpecific1** property depends on the value of its **CntrlType** property.
+The value of an object's **TypeSpecific1** property depends on the value of its **CntrlType** property.
 
 
 
 |**CntrlType value **|**TypeSpecific1 value **|
 |:-----|:-----|
-| **visCtrlTypeBUTTON**|Any constant prefixed with  **visIconIX** that is declared by the Visio type library.|
+| **visCtrlTypeBUTTON**|Any constant prefixed with **visIconIX** that is declared by the Visio type library.|
 | **visCtrlTypeCOMBOBOX**|Zero (0).|
 | **visCtrlTypeEDITBOX**|Zero (0).|
-| **visCtrlTypeLABEL**|The  **TypeSpecific1** property is not used.|
+| **visCtrlTypeLABEL**|The **TypeSpecific1** property is not used.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

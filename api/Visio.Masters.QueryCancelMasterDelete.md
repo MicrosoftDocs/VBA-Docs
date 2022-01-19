@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
+A Microsoft Visio instance fires **QueryCancelMasterDelete** after the user has directed the instance to delete a master.
 
 
 

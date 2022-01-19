@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Fields object (Word)
 
-A collection of  **Field** objects that represent all the fields in a selection, range, or document.
+A collection of **Field** objects that represent all the fields in a selection, range, or document.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ Set myField = ActiveDocument.Fields.Add(Range:=Selection.Range, _
 MsgBox myField.Result
 ```
 
-Use  **Fields** (Index), where Index is the index number, to return a single **[Field](Word.Field.md)** object. The index number represents the position of the field in the selection, range, or document. The following example displays the field code and the result of the first field in the active document.
+Use **Fields** (Index), where Index is the index number, to return a single **[Field](Word.Field.md)** object. The index number represents the position of the field in the selection, range, or document. The following example displays the field code and the result of the first field in the active document.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sections.Add method (Word)
 
-Returns a  **Section** object that represents a new section added to a document.
+Returns a **Section** object that represents a new section added to a document.
 
 
 ## Syntax

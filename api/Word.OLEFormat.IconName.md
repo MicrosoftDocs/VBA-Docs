@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.IconName property (Word)
 
-Returns or sets the program file in which the icon for an OLE object is stored. Read/write  **String**.
+Returns or sets the program file in which the icon for an OLE object is stored. Read/write **String**.
 
 
 ## Syntax

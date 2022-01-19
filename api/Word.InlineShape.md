@@ -21,7 +21,7 @@ Represents an object in the text layer of a document. An inline shape can only b
 
  **InlineShape** objects are treated like characters and are positioned as characters within a line of text.
 
-Use  **InlineShapes** (Index), where Index is the index number, to return a single **InlineShape** object. Inline shapes don't have names. The following example activates the first inline shape in the active document.
+Use **InlineShapes** (Index), where Index is the index number, to return a single **InlineShape** object. Inline shapes don't have names. The following example activates the first inline shape in the active document.
 
 
 

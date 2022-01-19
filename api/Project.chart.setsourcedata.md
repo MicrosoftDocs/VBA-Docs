@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The source data range.|
-| _PlotBy_|Optional|**Variant**|Specifies the way the data is plotted. Can be one of the following  **Office.XlRowCol** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional|**Variant**|Specifies the way the data is plotted. Can be one of the following **Office.XlRowCol** constants: **xlColumns** or **xlRows**.|
 
 
 ## Return value
@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-A chart in a Project report can use a data range from Excel, if Project programmatically accesses an Excel worksheet. The charting object model in Project accepts range address strings for properties and methods that accept  **Range** objects in Excel. A range address string in Project is expressed differently than a range in Excel. For example, the _Source_ parameter can have a range value such as `"='Sheet1'!$A$1:$D$5"`. 
+A chart in a Project report can use a data range from Excel, if Project programmatically accesses an Excel worksheet. The charting object model in Project accepts range address strings for properties and methods that accept **Range** objects in Excel. A range address string in Project is expressed differently than a range in Excel. For example, the _Source_ parameter can have a range value such as `"='Sheet1'!$A$1:$D$5"`. 
 
 
 

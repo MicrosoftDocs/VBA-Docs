@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressEntry.DisplayType property (Outlook)
 
-Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
+Returns a constant belonging to the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[AddressEntry](Outlook.AddressEntry.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Remarks
 
-You can use the  **DisplayType** property to filter address entries. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
+You can use the **DisplayType** property to filter address entries. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
 
 
 ## See also

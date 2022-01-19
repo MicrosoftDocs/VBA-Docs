@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.RowSpacingRule property (Word)
 
-Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for rows in a matrix. Read/write.
+Returns or sets a **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for rows in a matrix. Read/write.
 
 
 ## Syntax

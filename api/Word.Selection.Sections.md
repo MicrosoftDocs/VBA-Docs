@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Sections property (Word)
 
-Returns a  **[Sections](Word.sections.md)** collection that represents the sections in the specified selection. Read-only.
+Returns a **[Sections](Word.sections.md)** collection that represents the sections in the specified selection. Read-only.
 
 
 ## Syntax

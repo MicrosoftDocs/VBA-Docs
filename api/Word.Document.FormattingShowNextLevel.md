@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FormattingShowNextLevel property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word shows the next heading level when the previous heading level is used. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word shows the next heading level when the previous heading level is used. Read/write.
 
 
 ## Syntax

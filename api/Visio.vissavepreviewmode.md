@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSavePreviewMode enumeration (Visio)
 
-Values passed to and returned by the  **Document.SavePreviewMode** property.
+Values passed to and returned by the **Document.SavePreviewMode** property.
 
 
 

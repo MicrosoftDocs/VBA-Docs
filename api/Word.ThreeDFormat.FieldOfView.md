@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.FieldOfView property (Word)
 
-Returns or sets a  **Single** that represents the amount of perspective for a shape. Read/write.
+Returns or sets a **Single** that represents the amount of perspective for a shape. Read/write.
 
 
 ## Syntax

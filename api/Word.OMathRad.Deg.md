@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathRad.Deg property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the degree for a radical. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the degree for a radical. Read-only.
 
 
 ## Syntax

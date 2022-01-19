@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Group property (Project)
 
-Gets or sets the group to which a resource belongs. Read/write  **String**.
+Gets or sets the group to which a resource belongs. Read/write **String**.
 
 
 ## Syntax

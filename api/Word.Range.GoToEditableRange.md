@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.GoToEditableRange method (Word)
 
-Returns a  **Range** object that represents an area of a document that can be modified by the specified user or group of users.
+Returns a **Range** object that represents an area of a document that can be modified by the specified user or group of users.
 
 
 ## Syntax

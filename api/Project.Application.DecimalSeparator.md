@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.DecimalSeparator property (Project)
 
-Gets the character that separates the whole and fractional parts of a number. Read-only  **String**.
+Gets the character that separates the whole and fractional parts of a number. Read-only **String**.
 
 
 ## Syntax

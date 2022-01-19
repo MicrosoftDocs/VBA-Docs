@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.ProgID property (Word)
 
-Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only  **String**.
+Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only **String**.
 
 
 ## Syntax

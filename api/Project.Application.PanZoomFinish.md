@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PanZoomFinish property (Project)
 
-Gets or sets the finish date of the Gantt chart view after a pan or zoom operation. Read/write  **Variant**.
+Gets or sets the finish date of the Gantt chart view after a pan or zoom operation. Read/write **Variant**.
 
 
 ## Syntax

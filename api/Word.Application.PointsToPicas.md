@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PointsToPicas method (Word)
 
-Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax

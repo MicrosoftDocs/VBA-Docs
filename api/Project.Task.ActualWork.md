@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ActualWork property (Project)
 
-Gets or sets the actual work (in minutes) for the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual work (in minutes) for the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisLayoutHorzAlignType enumeration (Visio)
 
-Specifies constants that define the different ways to incrementally align a shape horizontally; passed to the  **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
+Specifies constants that define the different ways to incrementally align a shape horizontally; passed to the **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
 
 
 

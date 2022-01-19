@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Languages property (Word)
 
-Returns a  **[Languages](Word.languages.md)** collection that represents the proofing languages listed in the **Language** dialog box.
+Returns a **[Languages](Word.languages.md)** collection that represents the proofing languages listed in the **Language** dialog box.
 
 
 ## Syntax

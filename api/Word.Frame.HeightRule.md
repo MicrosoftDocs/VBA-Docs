@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.HeightRule property (Word)
 
-Returns or sets a  **WdFrameSizeRule** that represents the rule for determining the height of the specified frame. Read/write.
+Returns or sets a **WdFrameSizeRule** that represents the rule for determining the height of the specified frame. Read/write.
 
 
 ## Syntax

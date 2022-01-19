@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.Footers property (Word)
 
-Returns a  **[HeadersFooters](Word.headersfooters.md)** collection that represents the footers in the specified section. Read-only.
+Returns a **[HeadersFooters](Word.headersfooters.md)** collection that represents the footers in the specified section. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Section](Word.Section.md)' object.
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md). To return a  **HeadersFooters** collection that represents the headers for the specified section, use the **[Headers](Word.Section.Headers.md)** property.
+For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md). To return a **HeadersFooters** collection that represents the headers for the specified section, use the **[Headers](Word.Section.Headers.md)** property.
 
 
 ## Example

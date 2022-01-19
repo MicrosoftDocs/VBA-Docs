@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 
 ## Remarks
 
-The value of the  **Layout** property can be one of these **PpSlideLayout** constants.
+The value of the **Layout** property can be one of these **PpSlideLayout** constants.
 
 
 ||

@@ -44,7 +44,7 @@ If the  _Column_ parameter is omitted, **AddNewColumn** inserts a column to the 
 
 ## Example
 
-The following example selects the third column in the current view, and then adds a column to the right of the selected column. In the default  **Gantt Chart** view, the third column is **Task Name**.
+The following example selects the third column in the current view, and then adds a column to the right of the selected column. In the default **Gantt Chart** view, the third column is **Task Name**.
 
 
 ```vb
@@ -54,6 +54,6 @@ AddNewColumn (3)
 
 
 > [!NOTE] 
-> If the user does not name the column header,  **AddNewColumn** removes the selected column. When you add a column, it does not exist until the field is named. If you try to use the **ColumnEdit** method after **AddNewColumn**, Project shows run-time error 1100 (the command in the macro is not available in this situation).
+> If the user does not name the column header, **AddNewColumn** removes the selected column. When you add a column, it does not exist until the field is named. If you try to use the **ColumnEdit** method after **AddNewColumn**, Project shows run-time error 1100 (the command in the macro is not available in this situation).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

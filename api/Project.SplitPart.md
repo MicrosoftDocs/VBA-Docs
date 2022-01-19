@@ -21,7 +21,7 @@ Represents a task portion. The **SplitPart** object is a member of the **[SplitP
  
 
  
-Use  **SplitParts** (*Index* ), where*Index* is the index number of the task portion, to return a single **SplitPart** object. The following example lists the start and finish times of each task portion of the task in the active cell.
+Use **SplitParts** (*Index* ), where*Index* is the index number of the task portion, to return a single **SplitPart** object. The following example lists the start and finish times of each task portion of the task in the active cell.
  
 
  

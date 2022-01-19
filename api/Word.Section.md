@@ -19,7 +19,7 @@ Represents a single section in a selection, range, or document. The **Section** 
 
 ## Remarks
 
-Use  **Sections** (Index), where Index is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
+Use **Sections** (Index), where Index is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
 
 
 ```vb

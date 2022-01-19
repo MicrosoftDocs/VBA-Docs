@@ -44,7 +44,7 @@ A **Recipient** object that represents the new recipient.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md)** method to resolve the **[Recipient](Outlook.Recipient.md)** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder. To run this example, replace 'Dan Wilson' with a valid recipient name and make sure the calendar is shared and you have permissions to view the calendar.
+This Visual Basic for Applications (VBA) example uses the **[GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md)** method to resolve the **[Recipient](Outlook.Recipient.md)** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder. To run this example, replace 'Dan Wilson' with a valid recipient name and make sure the calendar is shared and you have permissions to view the calendar.
 
 
 ```vb

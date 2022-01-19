@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.HeaderFooter property (Word)
 
-Returns a  **[HeaderFooter](Word.HeaderFooter.md)** object for the specified selection. Read-only.
+Returns a **[HeaderFooter](Word.HeaderFooter.md)** object for the specified selection. Read-only.
 
 
 ## Syntax

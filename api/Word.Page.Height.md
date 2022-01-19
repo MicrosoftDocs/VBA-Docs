@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Height property (Word)
 
-Returns a  **Long** that represents the height of a page, in pixels.
+Returns a **Long** that represents the height of a page, in pixels.
 
 
 ## Syntax

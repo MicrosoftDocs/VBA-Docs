@@ -28,6 +28,6 @@ Indicates the status of an item after it is received by a remote user.
 
 ## Remarks
 
-See  **MarkForDownLoad** property.
+See **MarkForDownLoad** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Name** property to obtain the name of the folder displayed in the active explorer.
+This Visual Basic for Applications (VBA) example uses the **Name** property to obtain the name of the folder displayed in the active explorer.
 
 
 ```vb

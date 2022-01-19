@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SenderInAddressListRuleCondition object (Outlook)
 
-Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
+Represents a rule condition that the sender's address is in the address list specified in **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 
 
 ## Remarks

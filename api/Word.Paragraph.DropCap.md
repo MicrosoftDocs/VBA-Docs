@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.DropCap property (Word)
 
-Returns a  **[DropCap](Word.DropCap.md)** object that represents a dropped capital letter for the specified paragraph. Read-only.
+Returns a **[DropCap](Word.DropCap.md)** object that represents a dropped capital letter for the specified paragraph. Read-only.
 
 
 ## Syntax

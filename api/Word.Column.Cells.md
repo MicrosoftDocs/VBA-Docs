@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Column.Cells property (Word)
 
-Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a table column. Read-only.
+Returns a **[Cells](Word.cells.md)** collection that represents the table cells in a table column. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.FollowedHyperlinkColor property (Project)
 
-Gets or sets the color used to denote followed hyperlinks. Read/write  **PjColor**.
+Gets or sets the color used to denote followed hyperlinks. Read/write **PjColor**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabels.Orientation property (Word)
 
-Returns or sets the text orientation. Read/write  **Long**.
+Returns or sets the text orientation. Read/write **Long**.
 
 
 ## Syntax

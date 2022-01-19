@@ -84,7 +84,7 @@ Sub TestTaskPath()
 End Sub
 ```
 
-For the project in Figure 1, if the **Predecessors**,  **Driving Predecessors**,  **Successors**, and  **Driven Successors** items are all selected in **Task Path**, the **TestTaskPath** macro has the following output:
+For the project in Figure 1, if the **Predecessors**, **Driving Predecessors**, **Successors**, and **Driven Successors** items are all selected in **Task Path**, the **TestTaskPath** macro has the following output:
 
 
 

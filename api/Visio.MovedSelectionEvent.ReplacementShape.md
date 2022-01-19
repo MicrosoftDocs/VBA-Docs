@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MovedSelectionEvent.ReplacementShape property (Visio)
 
-Returns a  **[Shape](Visio.Shape.md)** object that represents the shape that is in the source page and that replaces the source-page shapes or selection being moved to a sub-process page. Read-only.
+Returns a **[Shape](Visio.Shape.md)** object that represents the shape that is in the source page and that replaces the source-page shapes or selection being moved to a sub-process page. Read-only.
 
 
 ## Syntax

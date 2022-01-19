@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DownBars.Name property (PowerPoint)
 
-Returns the name of the object. Read-only  **String**.
+Returns the name of the object. Read-only **String**.
 
 
 ## Syntax

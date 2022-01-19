@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Resume property (Project)
 
-Gets or sets the date that the remaining portion of the task is scheduled to resume after you enter any progress. Read/write  **Variant**.
+Gets or sets the date that the remaining portion of the task is scheduled to resume after you enter any progress. Read/write **Variant**.
 
 
 ## Syntax

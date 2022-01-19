@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # KeyBindings object (Word)
 
-A collection of  **[KeyBinding](Word.KeyBinding.md)** objects that represent the custom key assignments in the current context. Custom key assignments are made in the **Customize Keyboard** dialog box.
+A collection of **[KeyBinding](Word.KeyBinding.md)** objects that represent the custom key assignments in the current context. Custom key assignments are made in the **Customize Keyboard** dialog box.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryStyle, _
  KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, wdKeyH)
 ```
 
-Use  **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **KeyBindings** collection.
+Use **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **KeyBindings** collection.
 
 
 

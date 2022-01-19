@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ShowLegendFieldButtons property (Project)
-Gets or sets whether to display legend field buttons on a PivotChart. Read/write  **Boolean**.
+Gets or sets whether to display legend field buttons on a PivotChart. Read/write **Boolean**.
 
 ## Syntax
 

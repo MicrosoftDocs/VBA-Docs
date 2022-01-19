@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Version.SavedBy property (Word)
 
-Returns the name of the user who saved the specified version of the document. Read-only  **String**.
+Returns the name of the user who saved the specified version of the document. Read-only **String**.
 
 
 ## Syntax

@@ -39,7 +39,7 @@ FileDialog
 
 ## Remarks
 
-The value of the Type parameter can be one of these  **MsoFileDialogType** constants.
+The value of the Type parameter can be one of these **MsoFileDialogType** constants.
 
 
 ||
@@ -51,7 +51,7 @@ The value of the Type parameter can be one of these  **MsoFileDialogType** const
 
 ## Example
 
-This example displays the  **Save As** dialog box.
+This example displays the **Save As** dialog box.
 
 
 ```vb
@@ -67,7 +67,7 @@ Sub ShowSaveAsDialog()
 End Sub
 ```
 
-This example displays the  **Open** dialog box and allows a user to select multiple files to open.
+This example displays the **Open** dialog box and allows a user to select multiple files to open.
 
 
 

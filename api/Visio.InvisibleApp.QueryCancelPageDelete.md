@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[InvisibleApp](Visio.InvisibleApp.m
 
 ## Remarks
 
-A Visio instance fires  **QueryCancelPageDelete** after the user has directed the instance to delete a page.
+A Visio instance fires **QueryCancelPageDelete** after the user has directed the instance to delete a page.
 
 
 
