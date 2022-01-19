@@ -41,15 +41,15 @@ Changes to the following shape properties cause the  **ShapeChanged** event to f
 
 
 
--  **Name** (the **EventInfo** property contains "/name")
+- **Name** (the **EventInfo** property contains "/name")
     
--  **Data1** (the **EventInfo** property contains "/data1")
+- **Data1** (the **EventInfo** property contains "/data1")
     
--  **Data2** (the **EventInfo** property contains "/data2")
+- **Data2** (the **EventInfo** property contains "/data2")
     
--  **Data3** (the **EventInfo** property contains "/data3")
+- **Data3** (the **EventInfo** property contains "/data3")
     
--  **UniqueID** (the **EventInfo** property contains "/uniqueid")
+- **UniqueID** (the **EventInfo** property contains "/uniqueid")
     
 
 

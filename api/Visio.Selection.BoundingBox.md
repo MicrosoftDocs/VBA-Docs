@@ -93,11 +93,11 @@ If the shape is a guide, the procedure passes  **visBBoxIncludeGuides** to the *
 
 
 
--  **visBBoxUprightWH** : an upright box that encloses the shape's width-height box
+- **visBBoxUprightWH** : an upright box that encloses the shape's width-height box
     
--  **visBBoxUprightText** : an upright box that encloses the shape's text box
+- **visBBoxUprightText** : an upright box that encloses the shape's text box
     
--  **visBBoxExtents** : an upright box that encloses the shape's paths
+- **visBBoxExtents** : an upright box that encloses the shape's paths
     
 
 

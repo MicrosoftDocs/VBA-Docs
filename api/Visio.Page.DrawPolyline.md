@@ -49,9 +49,9 @@ The  _Flags_ argument is a bitmask that specifies options for drawing the new sh
 
 
 
--  **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
+- **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1D) behavior; otherwise, it produces a shape with two-dimensional (2D) behavior.
     
--  **visPolyarcs**, Microsoft Visio will produce a sequence of arcs rather than a sequence of line segments; _xyArray_ should specify the initial _x,y_ point of the sequence followed by _x,y_ bow triples. Visio will produce a shape with EllipticalArcTo rows where the bow of the arc matches the specified value.
+- **visPolyarcs**, Microsoft Visio will produce a sequence of arcs rather than a sequence of line segments; _xyArray_ should specify the initial _x,y_ point of the sequence followed by _x,y_ bow triples. Visio will produce a shape with EllipticalArcTo rows where the bow of the arc matches the specified value.
     
 
 

@@ -30,11 +30,11 @@ The **BeforeRead** event corresponds to the Exchange Client Extensions (ECE) eve
 Only the following members of the item object can be accessed in the  **BeforeRead** event:
 
 
--  **[Class](Outlook.TaskRequestItem.Class.md)**
+- **[Class](Outlook.TaskRequestItem.Class.md)**
     
--  **[MessageClass](Outlook.TaskRequestItem.MessageClass.md)**
+- **[MessageClass](Outlook.TaskRequestItem.MessageClass.md)**
     
--  **MAPIOBJECT**
+- **MAPIOBJECT**
     
 The **MAPIOBJECT** property is a hidden property in the Outlook object model. This property provides access to the underlying MAPI **[IMessage](https://msdn.microsoft.com/library/cc842097%28office.15%29.aspx)** object, and can be invoked only via the **[IUnknown](https://msdn.microsoft.com/library/ms680509%28VS.85%29.aspx)** interface. The property is accessible to programs written in languages such as C or C++ that support **IUnknown**. **MAPIOBJECT** is not available through the **[IDispatch](https://msdn.microsoft.com/library/ms221608.aspx)** interface. Development languages such as Visual Basic for Applications (VBA), Visual C#, and Visual Basic support the **IDispatch** interface and not **IUnknown**, and therefore, they cannot access **MAPIOBJECT**. If other properties or methods of the parent item are accessed in this event, Outlook raises an error.
 

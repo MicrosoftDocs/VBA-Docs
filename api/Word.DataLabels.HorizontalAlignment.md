@@ -29,15 +29,15 @@ _expression_ A variable that represents a **[DataLabels](Word.DataLabels.md)** o
 You can set the value of this property to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
 
 
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlLeft**
+- **xlLeft**
     
--  **xlRight**
+- **xlRight**
     
 
 

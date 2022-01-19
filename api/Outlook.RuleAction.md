@@ -22,17 +22,17 @@ Represents an action that is run when a **[Rule](Outlook.Rule.md)** object execu
  **RuleAction** is the base class for rule actions that are supported in programmatic rule creation. The classes derived from **RuleAction** include:
 
 
--  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)**
+- **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)**
     
--  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)**
+- **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)**
     
--  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)**
+- **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)**
     
--  **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)**
+- **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)**
     
--  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)**
+- **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)**
     
--  **[SendRuleAction](Outlook.SendRuleAction.md)**
+- **[SendRuleAction](Outlook.SendRuleAction.md)**
     
 
 

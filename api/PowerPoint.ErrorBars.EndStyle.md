@@ -29,9 +29,9 @@ _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)
 The value of this property can be one of the following  **[XlEndStyleCap](PowerPoint.XlEndStyleCap.md)** constants:
 
 
--  **xlCap**
+- **xlCap**
     
--  **xlNoCap**
+- **xlNoCap**
     
 
 

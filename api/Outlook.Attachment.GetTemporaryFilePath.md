@@ -36,21 +36,21 @@ The **GetTemporaryFilePath** method is only valid for those attachments whose **
  **GetTemporaryFilePath** also returns an error when accessing an **[Attachment](Outlook.Attachment.md)** object in an **[Attachments](Outlook.Attachments.md)** collection or in the **[AttachmentSelection](Outlook.AttachmentSelection.md)** object. Use **GetTemporaryFilePath** only in attachment event callbacks listed below for various Microsoft Outlook items:
 
 
--  **AttachmentAdd**
+- **AttachmentAdd**
     
--  **AttachmentRead**
+- **AttachmentRead**
     
--  **AttachmentRemove**
+- **AttachmentRemove**
     
--  **BeforeAttachmentAdd**
+- **BeforeAttachmentAdd**
     
--  **BeforeAttachmentPreview**
+- **BeforeAttachmentPreview**
     
--  **BeforeAttachmentRead**
+- **BeforeAttachmentRead**
     
--  **BeforeAttachmentSave**
+- **BeforeAttachmentSave**
     
--  **BeforeAttachmentWriteToTempFile**
+- **BeforeAttachmentWriteToTempFile**
     
 
 

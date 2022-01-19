@@ -37,9 +37,9 @@ _expression_. `NewPresentation`( `_Pres_` )
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.EApplication_NewPresentationEventHandler** (the **NewPresentation** delegate.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_NewPresentationEventHandler** (the **NewPresentation** delegate.)
     
--  **Microsoft.Office.Interop.PowerPoint.EApplication_Event.NewPresentation** (the **NewPresentation** event.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_Event.NewPresentation** (the **NewPresentation** event.)
     
 
 ## Example

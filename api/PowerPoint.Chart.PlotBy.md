@@ -29,9 +29,9 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 The value of this property can be one of the following  **[XlRowCol](PowerPoint.XlRowCol.md)** constants:
 
 
--  **xlColumns**
+- **xlColumns**
     
--  **xlRows**
+- **xlRows**
     
 
 
