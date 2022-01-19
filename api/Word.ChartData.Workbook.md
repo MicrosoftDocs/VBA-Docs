@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartData.Workbook property (Word)
 
-Returns the workbook that contains the chart data associated with the chart. Read-only  **Object**.
+Returns the workbook that contains the chart data associated with the chart. Read-only **Object**.
 
 
 ## Syntax

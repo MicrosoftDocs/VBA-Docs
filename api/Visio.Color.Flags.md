@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Color.Flags property (Visio)
 
-Gets or sets the flags that specify how you use a  **Color** object. Read/write.
+Gets or sets the flags that specify how you use a **Color** object. Read/write.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Integer
 
 ## Remarks
 
-The  **Flags** property of a **Color** object corresponds to the **peFlags** member of a Microsoft Windows **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
+The **Flags** property of a **Color** object corresponds to the **peFlags** member of a Microsoft Windows **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

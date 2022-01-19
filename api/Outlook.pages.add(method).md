@@ -34,9 +34,9 @@ A **Page** object that represents the added page.
 
 ## Remarks
 
-The index value for the first  **Page** of a collection is 0, the value for the second **Page** is 1, and so on.
+The index value for the first **Page** of a collection is 0, the value for the second **Page** is 1, and so on.
 
-You can change the  **Name** property of the object at run time only if you added that control at run time with the **Add** method.
+You can change the **Name** property of the object at run time only if you added that control at run time with the **Add** method.
 
 
 ## See also

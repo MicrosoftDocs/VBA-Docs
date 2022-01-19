@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByEntryId**.
+This property corresponds to the MAPI property **PidTagReceivedByEntryId**.
 
 
 ## See also

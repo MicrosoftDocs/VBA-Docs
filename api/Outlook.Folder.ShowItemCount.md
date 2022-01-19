@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folder.ShowItemCount property (Outlook)
 
-Sets or returns a constant in the  **[OlShowItemCount](Outlook.OlShowItemCount.md)** enumeration that indicates whether to display the number of unread messages in the folder or the total number of items in the folder in the navigation pane. Read/write.
+Sets or returns a constant in the **[OlShowItemCount](Outlook.OlShowItemCount.md)** enumeration that indicates whether to display the number of unread messages in the folder or the total number of items in the folder in the navigation pane. Read/write.
 
 
 ## Syntax

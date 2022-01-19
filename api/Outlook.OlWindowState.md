@@ -26,6 +26,6 @@ Indicates the window state.
 
 ## Remarks
 
-Used by the  **WindowState** property of **Inspector** and **Explorer** objects.
+Used by the **WindowState** property of **Inspector** and **Explorer** objects.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

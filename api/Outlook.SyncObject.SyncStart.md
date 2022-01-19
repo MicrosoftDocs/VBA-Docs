@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SyncObject.SyncStart event (Outlook)
 
-Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified  **Send\Receive** group.
+Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified **Send\Receive** group.
 
 
 ## Syntax

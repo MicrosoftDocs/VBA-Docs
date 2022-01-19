@@ -31,7 +31,7 @@ AnimationBehaviors
 
 ## Remarks
 
-To return a single  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object in the **AnimationBehaviors** collection, use the **[Item](PowerPoint.AnimationBehaviors.Item.md)** method or **Behaviors** (_index_), where _index_ is the index number of the **AnimationBehavior** object in the **AnimationBehaviors** collection.
+To return a single **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object in the **AnimationBehaviors** collection, use the **[Item](PowerPoint.AnimationBehaviors.Item.md)** method or **Behaviors** (_index_), where _index_ is the index number of the **AnimationBehavior** object in the **AnimationBehaviors** collection.
 
 
 ## Example

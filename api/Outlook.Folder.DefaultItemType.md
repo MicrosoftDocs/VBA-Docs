@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folder.DefaultItemType property (Outlook)
 
-Returns a constant from the  **[OlItemType](Outlook.OlItemType.md)** enumeration indicating the default Outlook item type contained in the folder. Read-only.
+Returns a constant from the **[OlItemType](Outlook.OlItemType.md)** enumeration indicating the default Outlook item type contained in the folder. Read-only.
 
 
 ## Syntax

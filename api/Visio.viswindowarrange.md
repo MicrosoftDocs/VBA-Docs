@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisWindowArrange enumeration (Visio)
 
-Values to pass to the  **Windows.Arrange** method.
+Values to pass to the **Windows.Arrange** method.
 
 
 

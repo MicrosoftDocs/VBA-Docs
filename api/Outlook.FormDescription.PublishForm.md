@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormDescription.PublishForm method (Outlook)
 
-Saves the definition of the  **[FormDescription](Outlook.FormDescription.md)** object in the specified form registry (library).
+Saves the definition of the **[FormDescription](Outlook.FormDescription.md)** object in the specified form registry (library).
 
 
 ## Syntax
@@ -44,7 +44,7 @@ Forms are registered as one of three classes: Folder, Organization, or Personal.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a contact, obtains its  **[FormDescription](Outlook.FormDescription.md)** object, and saves it in the Folder form registry of the default **Contacts** folder.
+This Visual Basic for Applications (VBA) example creates a contact, obtains its **[FormDescription](Outlook.FormDescription.md)** object, and saves it in the Folder form registry of the default **Contacts** folder.
 
 
 > [!NOTE] 
@@ -81,11 +81,11 @@ Sub PublishToFolder()
 End Sub
 ```
 
-This VBA example creates an appointment, obtains its  **FormDescription** object, and saves it in the user's Personal form registry.
+This VBA example creates an appointment, obtains its **FormDescription** object, and saves it in the user's Personal form registry.
 
 
 
-To view the form after you have published it, on the  **File** menu, point to **New**, and click  **Choose Form**. In the **Look in** box, click **Personal Forms Library**. To open your new form, double-click **Interview Scheduler**.
+To view the form after you have published it, on the **File** menu, point to **New**, and click **Choose Form**. In the **Look in** box, click **Personal Forms Library**. To open your new form, double-click **Interview Scheduler**.
 
 
 

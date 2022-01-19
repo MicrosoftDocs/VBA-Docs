@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MinorGridlines property (PowerPoint)
 
-Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](PowerPoint.GridLines.md)**.
+Returns the minor gridlines for the specified axis. Read-only **[Gridlines](PowerPoint.GridLines.md)**.
 
 
 ## Syntax

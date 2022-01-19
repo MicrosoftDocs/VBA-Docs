@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Editors.Add method (Word)
 
-Returns an  **Editor** object that represents a new permission for a specified user to modify a range or selection within a document. .
+Returns an **Editor** object that represents a new permission for a specified user to modify a range or selection within a document. .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** that represents a group of users.|
+| _EditorID_|Optional| **Variant**|Can be either a **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** that represents a group of users.|
 
 ## Example
 

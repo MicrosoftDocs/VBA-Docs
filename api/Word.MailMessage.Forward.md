@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMessage.Forward method (Word)
 
-Opens a new email message with an empty  **To** line for forwarding the active message.
+Opens a new email message with an empty **To** line for forwarding the active message.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MasterShortcut.ImportIcon method (Visio)
 
-Imports the icon for a  **Master** object from a named file.
+Imports the icon for a **Master** object from a named file.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ Nothing
 
 ## Remarks
 
-The  **ImportIcon** method can only import files that were produced by exporting a master icon in the application's internal icon format (**visIconFormatVisio**); it does not accept icons in other file formats.
+The **ImportIcon** method can only import files that were produced by exporting a master icon in the application's internal icon format (**visIconFormatVisio**); it does not accept icons in other file formats.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

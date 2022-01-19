@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.RelativeHorizontalPosition property (Word)
 
-Specifies the relative horizontal position of a group of rows. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
+Specifies the relative horizontal position of a group of rows. Read/write **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax

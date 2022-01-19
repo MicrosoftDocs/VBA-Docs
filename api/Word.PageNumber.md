@@ -16,7 +16,7 @@ Represents a page number in a header or footer. The **PageNumber** object is a m
 
 ## Remarks
 
-Use  **PageNumbers** (Index), where Index is the index number, to return a single **PageNumber** object. In most cases, a header or footer will contain only one page number, which is index number 1. The following example centers the first page number in the primary header in section one in the active document.
+Use **PageNumbers** (Index), where Index is the index number, to return a single **PageNumber** object. In most cases, a header or footer will contain only one page number, which is index number 1. The following example centers the first page number in the primary header in section one in the active document.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.FindKey property (Word)
 
-Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the specified key combination. Read-only.
+Returns a **[KeyBinding](Word.KeyBinding.md)** object that represents the specified key combination. Read-only.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argume
 
 ## Example
 
-This example disables the ALT+SHIFT+F12 key combination in the template attached to the active document. To return a  **KeyBinding** object that includes more than two keys, use the **BuildKeyCode** method, as shown in the example.
+This example disables the ALT+SHIFT+F12 key combination in the template attached to the active document. To return a **KeyBinding** object that includes more than two keys, use the **BuildKeyCode** method, as shown in the example.
 
 
 ```vb

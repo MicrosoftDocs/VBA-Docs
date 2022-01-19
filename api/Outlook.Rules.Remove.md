@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rules.Remove method (Outlook)
 
-Removes from the  **Rules** collection a **Rule** object specified by _Index_ , which is either a numerical index into the **[Rules](Outlook.Rules.md)** collection or the rule name.
+Removes from the **Rules** collection a **Rule** object specified by _Index_ , which is either a numerical index into the **[Rules](Outlook.Rules.md)** collection or the rule name.
 
 
 ## Syntax

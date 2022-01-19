@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.Align property (Word)
 
-Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** constant that represents the vertical alignment for a matrix. Read/write.
+Returns or sets a **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** constant that represents the vertical alignment for a matrix. Read/write.
 
 
 ## Syntax

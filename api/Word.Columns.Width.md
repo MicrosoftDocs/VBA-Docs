@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Width property (Word)
 
-Returns or sets the width of the specified columns, in points. Read/write  **Long**.
+Returns or sets the width of the specified columns, in points. Read/write **Long**.
 
 
 ## Syntax

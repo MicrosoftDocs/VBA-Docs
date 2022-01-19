@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Search](Outlook.Search.md) object.
 
 ## Remarks
 
-The scope of the search is defined when the search is initiated. For more information, see the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
+The scope of the search is defined when the search is initiated. For more information, see the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 
 
 ## Example

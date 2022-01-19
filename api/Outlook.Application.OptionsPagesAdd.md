@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OptionsPagesAdd event (Outlook)
 
-Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins** tab of the Outlook **Options** dialog box.
+Occurs whenever the user clicks the **Add-in Options** button on the **Add-ins** tab of the Outlook **Options** dialog box.
 
 
 ## Syntax
@@ -31,18 +31,18 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pages_|Required| **[PropertyPages](Outlook.PropertyPages.md)**|The collection of property pages that have been added to the dialog box. This collection includes only custom property pages. It does not include standard Microsoft Outlook property pages.|
-| _Folder_|Required| **PropertyPages**|This argument is only used with the  **[Folder](Outlook.Folder.md)** object. The **Folder** object for which the **Properties** dialog box is being opened.|
+| _Folder_|Required| **PropertyPages**|This argument is only used with the **[Folder](Outlook.Folder.md)** object. The **Folder** object for which the **Properties** dialog box is being opened.|
 
 ## Remarks
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-Your program handles this event to add a custom property page. The property page will be added to the  **Options** dialog box. When the event fires, the **PropertyPages** collection object identified by _Pages_ contains the property pages that have been added prior to the event handler being called. To add your property page to the collection, use the **[Add](Outlook.PropertyPages.Add.md)** method of the **PropertyPages** collection before exiting the event handler.
+Your program handles this event to add a custom property page. The property page will be added to the **Options** dialog box. When the event fires, the **PropertyPages** collection object identified by _Pages_ contains the property pages that have been added prior to the event handler being called. To add your property page to the collection, use the **[Add](Outlook.PropertyPages.Add.md)** method of the **PropertyPages** collection before exiting the event handler.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example adds a new property page to the Outlook  **Options** dialog box. The sample code must be placed in a class module of a Component Object Model (COM) add-in. For information about COM add-ins, see [Customizing Outlook using COM add-ins](../outlook/Concepts/Getting-Started/customizing-outlook-using-com-add-ins.md).
+This Microsoft Visual Basic for Applications (VBA) example adds a new property page to the Outlook **Options** dialog box. The sample code must be placed in a class module of a Component Object Model (COM) add-in. For information about COM add-ins, see [Customizing Outlook using COM add-ins](../outlook/Concepts/Getting-Started/customizing-outlook-using-com-add-ins.md).
 
 
 ```vb

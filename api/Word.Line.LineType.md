@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Line.LineType property (Word)
 
-Returns a  **wdLineType** constant that indicates whether a line is a text line or a table row.
+Returns a **wdLineType** constant that indicates whether a line is a text line or a table row.
 
 
 ## Syntax

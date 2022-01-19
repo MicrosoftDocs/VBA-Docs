@@ -31,7 +31,7 @@ FillFormat
 
 ## Remarks
 
-A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill. You can use the properties and methods of the  **FillFormat** object returned by the **Fill** property to specify the appearance and behavior of the fill associated with the table background.
+A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill. You can use the properties and methods of the **FillFormat** object returned by the **Fill** property to specify the appearance and behavior of the fill associated with the table background.
 
 
 ## See also

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Code property (Project)
 
-Gets or sets the code value of the resource. Read/write  **String**.
+Gets or sets the code value of the resource. Read/write **String**.
 
 
 ## Syntax

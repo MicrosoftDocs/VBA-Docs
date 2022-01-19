@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Subtotal
 ms.assetid: ec854287-1b12-8195-6b30-9101140d642e
-ms.date: 05/25/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
 
 # WorksheetFunction.Subtotal method (Excel)
 
-Creates subtotals. 
+Creates subtotals.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|A number indicating the aggregation function to be used by the method.|
 | _Arg2_|Required| **[Range](Excel.Range(object).md)**|The first **Range** object for which a subtotal is to be calculated.|
-| _Arg3 - Arg30_|Optional| **Variant**|Subsequent  **Range** objects for which a subtotal is to be calculated.|
+| _Arg3 - Arg30_|Optional| **Variant**|Subsequent **Range** objects for which a subtotal is to be calculated.|
 
 ## Return value
 

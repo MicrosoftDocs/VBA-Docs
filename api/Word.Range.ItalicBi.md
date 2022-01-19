@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-This property returns  **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text). Can be set to **True**, **False**, or **wdToggle**.
+This property returns **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text). Can be set to **True**, **False**, or **wdToggle**.
 
 
 > [!NOTE] 

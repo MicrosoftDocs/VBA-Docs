@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Left property (Word)
 
-Returns or sets a  **Single** that represents the horizontal position, measured in points, of the specified range of shapes. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
+Returns or sets a **Single** that represents the horizontal position, measured in points, of the specified range of shapes. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperan
 
 The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The **RelativeHorizontalPosition** property controls whether the anchor is positioned alongside a character, column, margin, or the edge of the page.
 
-For a  **ShapeRange** object that contains more than one shape, the **Left** property sets the horizontal position of each shape.
+For a **ShapeRange** object that contains more than one shape, the **Left** property sets the horizontal position of each shape.
 
 
 ## Example

@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectList_|Optional|**String**|A comma-separated list of portfolio projects in the database.|
-| _PoolOption_|Optional|**Long**|Specifies the resource pool option. Can be one of the following  **PjResSubstitutionPoolOption** constants: **pjResSubstitutionResInList**, **pjResSubstitutionResInProject**, or **pjResSubstitutionResInRBS**. The default value is **pjResSubstitutionResInProject**.|
-| _RBSorResourceList_|Optional|**String**|The name of the RBS (resource breakdown structure) level to use if  **pjResSubstitutionResInRBS** was specified in the PoolOption argument. If **pjResSubstitutionResInList** was specified in the PoolOption argument, the **RBSorResourceList** argument specifies a comma-separated list of resource names to use.|
+| _PoolOption_|Optional|**Long**|Specifies the resource pool option. Can be one of the following **PjResSubstitutionPoolOption** constants: **pjResSubstitutionResInList**, **pjResSubstitutionResInProject**, or **pjResSubstitutionResInRBS**. The default value is **pjResSubstitutionResInProject**.|
+| _RBSorResourceList_|Optional|**String**|The name of the RBS (resource breakdown structure) level to use if **pjResSubstitutionResInRBS** was specified in the PoolOption argument. If **pjResSubstitutionResInList** was specified in the PoolOption argument, the **RBSorResourceList** argument specifies a comma-separated list of resource names to use.|
 | _FreezeHorizonDate_|Optional|**String**|The date of the resource freeze horizon.|
 | _UpdateProjects_|Optional|**Boolean**|**True** if the **Resource Substitution Wizard** updates projects with the new resource information. The default value is **True**.|
 | _SaveReport_|Optional|**Boolean**|**True** if the **Resource Substitution Wizard** saves a report. The default value is **False**.|

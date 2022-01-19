@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Delete method (Visio)
 
-Deletes a  **Page** object. Can also renumber remaining pages.
+Deletes a **Page** object. Can also renumber remaining pages.
 
 
 ## Syntax

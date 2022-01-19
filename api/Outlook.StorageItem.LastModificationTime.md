@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime**.
+This property corresponds to the MAPI property **PidTagLastModificationTime**.
 
 
 ## See also

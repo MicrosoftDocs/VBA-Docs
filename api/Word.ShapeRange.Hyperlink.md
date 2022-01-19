@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Hyperlink property (Word)
 
-Returns a  **Hyperlink** object that represents the hyperlink associated with the specified **ShapeRange** object. Read-only.
+Returns a **Hyperlink** object that represents the hyperlink associated with the specified **ShapeRange** object. Read-only.
 
 
 ## Syntax

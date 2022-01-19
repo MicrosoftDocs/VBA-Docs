@@ -26,7 +26,7 @@ _expression_. `SentOnBehalfOfName`
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSentRepresentingName**.
+This property corresponds to the MAPI property **PidTagSentRepresentingName**.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frames.Item method (Word)
 
-Returns an individual  **Frames** object in a collection.
+Returns an individual **Frames** object in a collection.
 
 
 ## Syntax

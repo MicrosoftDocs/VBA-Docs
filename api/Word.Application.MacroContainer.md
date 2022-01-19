@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MacroContainer property (Word)
 
-Returns a  **[Template](Word.Template.md)** or **[Document](Word.Document.md)** object that represents the template or document in which the module that contains the running procedure is stored.
+Returns a **[Template](Word.Template.md)** or **[Document](Word.Document.md)** object that represents the template or document in which the module that contains the running procedure is stored.
 
 
 ## Syntax

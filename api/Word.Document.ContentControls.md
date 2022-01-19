@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ContentControls property (Word)
 
-Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document. Read-only.
+Returns a **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document. Read-only.
 
 
 ## Syntax

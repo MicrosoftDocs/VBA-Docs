@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Height property (Word)
 
-Returns or sets the height of the specified task window. Read/write  **Long**.
+Returns or sets the height of the specified task window. Read/write **Long**.
 
 
 ## Syntax

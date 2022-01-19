@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfContents.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the specified table of contents.
+Returns a **Range** object that represents the portion of a document that is contained within the specified table of contents.
 
 
 ## Syntax

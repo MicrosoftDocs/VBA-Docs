@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Options property (Word)
 
-Returns an  **[Options](Word.Options.md)** object that represents application settings in Microsoft Word.
+Returns an **[Options](Word.Options.md)** object that represents application settings in Microsoft Word.
 
 
 ## Syntax

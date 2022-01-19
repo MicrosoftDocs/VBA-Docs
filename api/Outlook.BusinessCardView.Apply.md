@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BusinessCardView.Apply method (Outlook)
 
-Applies the  **[BusinessCardView](Outlook.BusinessCardView.md)** object to the current view.
+Applies the **[BusinessCardView](Outlook.BusinessCardView.md)** object to the current view.
 
 
 ## Syntax

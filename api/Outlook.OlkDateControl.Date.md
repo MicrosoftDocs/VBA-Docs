@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkDateControl.Date property (Outlook)
 
-Returns or sets the currently selected  **Date** value with the time set to 12:00 AM. Read/write.
+Returns or sets the currently selected **Date** value with the time set to 12:00 AM. Read/write.
 
 
 ## Syntax

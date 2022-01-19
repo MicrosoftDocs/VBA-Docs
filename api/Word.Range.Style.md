@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Style property (Word)
 
-Returns or sets the style for the specified object. Read/write  **Variant**.
+Returns or sets the style for the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
+To set this property, specify the local name of the style, an integer, a **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
 
 
 ## Example

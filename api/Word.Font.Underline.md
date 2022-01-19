@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Underline property (Word)
 
-Returns or sets the type of underline applied to the font. Read/write  **[WdUnderline](Word.WdUnderline.md)**.
+Returns or sets the type of underline applied to the font. Read/write **[WdUnderline](Word.WdUnderline.md)**.
 
 
 ## Syntax

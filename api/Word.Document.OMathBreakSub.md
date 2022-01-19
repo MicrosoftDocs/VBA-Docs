@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMathBreakSub property (Word)
 
-Returns or sets a  **[WdOMathBreakSub](Word.WdOMathBreakSub.md)** constant that represents how Microsoft Word handles a subtraction operator that falls before a line break. Read/write.
+Returns or sets a **[WdOMathBreakSub](Word.WdOMathBreakSub.md)** constant that represents how Microsoft Word handles a subtraction operator that falls before a line break. Read/write.
 
 
 ## Syntax

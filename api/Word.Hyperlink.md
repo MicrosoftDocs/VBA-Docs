@@ -26,7 +26,7 @@ Use the **Hyperlink** property to return a **Hyperlink** object associated with 
 ActiveDocument.Shapes(1).Hyperlink.Follow
 ```
 
-Use  **Hyperlinks** (Index), where Index is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example activates the first hyperlink in the selection.
+Use **Hyperlinks** (Index), where Index is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example activates the first hyperlink in the selection.
 
 
 

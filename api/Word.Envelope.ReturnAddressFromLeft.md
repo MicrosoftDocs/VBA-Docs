@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.ReturnAddressFromLeft property (Word)
 
-Returns or sets the distance (in points) between the left edge of the envelope and the return address. Read/write  **Single**.
+Returns or sets the distance (in points) between the left edge of the envelope and the return address. Read/write **Single**.
 
 
 ## Syntax

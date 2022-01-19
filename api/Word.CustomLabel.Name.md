@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLabel.Name property (Word)
 
-Returns or sets the name of the specified object. Read/write  **CustomLabel**.
+Returns or sets the name of the specified object. Read/write **CustomLabel**.
 
 
 ## Syntax

@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the cube file (.cub).|
 | _PjVisualReportsCubeType_|Optional|**Long**|Save cube type. Can be one of the **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.md)** consants. Default is **pjTaskTP**.|
-| _ReportAlLFields_|Optional|**Boolean**|If  **True**, all noncustom fields are included in the report. Default is **False**.|
+| _ReportAlLFields_|Optional|**Boolean**|If **True**, all noncustom fields are included in the report. Default is **False**.|
 | _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
 ## Return value
@@ -42,9 +42,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
+The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
-Setting the ReportAllFields parameter to  **True** can degrade performance.
+Setting the ReportAllFields parameter to **True** can degrade performance.
 
 
 ## Example

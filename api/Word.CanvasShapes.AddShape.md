@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.AddShape method (Word)
 
-Adds an AutoShape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the AutoShape.
+Adds an AutoShape to a drawing canvas. Returns a **[Shape](Word.Shape.md)** object that represents the AutoShape.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[CanvasShapes](Word.Canvas
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **Long**|The type of shape to be returned. Can be any  **MsoAutoShape** constant.|
+| _Type_|Required| **Long**|The type of shape to be returned. Can be any **MsoAutoShape** constant.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the AutoShape.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the AutoShape.|
 | _Width_|Required| **Single**|The width, measured in points, of the AutoShape.|

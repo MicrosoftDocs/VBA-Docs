@@ -19,7 +19,7 @@ Represents a single table of figures in a document. The **TableOfFigures** objec
 
 ## Remarks
 
-Use  **TablesOfFigures** (Index), where Index is the index number, to return a single **TableOfFigures** object. The index number represents the position of the table of figures in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
+Use **TablesOfFigures** (Index), where Index is the index number, to return a single **TableOfFigures** object. The index number represents the position of the table of figures in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
 
 
 ```vb

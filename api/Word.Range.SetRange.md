@@ -42,7 +42,7 @@ The **SetRange** method redefines the starting and ending positions of an existi
 
 ## Example
 
-This example uses  **SetRange** to redefine _myRange_ to refer to the first three paragraphs in the active document.
+This example uses **SetRange** to redefine _myRange_ to refer to the first three paragraphs in the active document.
 
 
 ```vb
@@ -51,7 +51,7 @@ myRange.SetRange Start:=myRange.Start, _
  End:=ActiveDocument.Paragraphs(3).Range.End
 ```
 
-This example uses  **SetRange** to redefine _myRange_ to refer to the area starting at the beginning of the document and ending at the end of the current selection.
+This example uses **SetRange** to redefine _myRange_ to refer to the area starting at the beginning of the document and ending at the end of the current selection.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MediaBookmarks.Item method (PowerPoint)
 
-Returns the specified  **MediaBookmark**.
+Returns the specified **MediaBookmark**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [MediaBookmarks](PowerPoint.MediaBookm
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**[INT]**|The position of the  **MediaBookmark**.|
+| _Index_|Required|**[INT]**|The position of the **MediaBookmark**.|
 
 ## Return value
 

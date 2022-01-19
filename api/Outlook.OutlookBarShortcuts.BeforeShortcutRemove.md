@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OutlookBarShortcuts.BeforeShortcutRemove event (Outlook)
 
-Occurs before a new shortcut is removed from a group in the  **Shortcuts** pane, either as a result of user action or through program code.
+Occurs before a new shortcut is removed from a group in the **Shortcuts** pane, either as a result of user action or through program code.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prevents a user from removing a shortcut from the  **Shortcuts** pane. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prevents a user from removing a shortcut from the **Shortcuts** pane. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

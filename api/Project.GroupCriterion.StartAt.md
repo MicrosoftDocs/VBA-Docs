@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion.StartAt property (Project)
 
-Gets or sets the start of the intervals for a field used as a criterion in a group definition. Read/write  **Variant**.
+Gets or sets the start of the intervals for a field used as a criterion in a group definition. Read/write **Variant**.
 
 
 ## Syntax

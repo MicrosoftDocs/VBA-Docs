@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalloutFormat.Gap property (Word)
 
-Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write  **Single**.
+Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write **Single**.
 
 
 ## Syntax

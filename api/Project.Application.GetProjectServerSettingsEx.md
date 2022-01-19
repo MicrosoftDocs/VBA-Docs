@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Following is the format of the XML string returned by  **GetProjectServerSettingsEx** method.
+Following is the format of the XML string returned by **GetProjectServerSettingsEx** method.
 
 
 ```xml
@@ -50,7 +50,7 @@ Following is the format of the XML string returned by  **GetProjectServerSetting
 
  **ProjectIDInProjectServer -** The class identifier of the active project.
 
- **AdminDefaultTrackingMethod -** Default tracking method for task status. You can see this on Microsoft Project Web Access by going to **Server Settings**->(**Time and task management section**)  **Task Settings and Display**-> **Tracking Method** property. It can be one of the following:
+ **AdminDefaultTrackingMethod -** Default tracking method for task status. You can see this on Microsoft Project Web Access by going to **Server Settings**->(**Time and task management section**) **Task Settings and Display**-> **Tracking Method** property. It can be one of the following:
 
 
 - 1 = Hours of work done per day. Resources report their hours worked on each task per day.)

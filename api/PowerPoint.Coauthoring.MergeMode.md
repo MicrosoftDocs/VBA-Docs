@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Coauthoring.MergeMode property (PowerPoint)
 
-Returns  **True** if the application is in merge mode. Read-only.
+Returns **True** if the application is in merge mode. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlAlign enumeration (Outlook)
 
-Specifies the alignment for the  **[Label](Outlook.ColumnFormat.Label.md)** property of the **[ColumnFormat](Outlook.ColumnFormat.md)** object.
+Specifies the alignment for the **[Label](Outlook.ColumnFormat.Label.md)** property of the **[ColumnFormat](Outlook.ColumnFormat.md)** object.
 
 
 

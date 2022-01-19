@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.LeftIndent property (Word)
 
-Returns or sets a  **Single** that represents the left indent value (in points) for the specified table rows. Read/write.
+Returns or sets a **Single** that represents the left indent value (in points) for the specified table rows. Read/write.
 
 
 ## Syntax

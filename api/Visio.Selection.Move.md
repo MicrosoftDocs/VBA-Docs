@@ -48,7 +48,7 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Move** method to move a selection by a specified amount.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Move** method to move a selection by a specified amount.
 
 
 ```vb

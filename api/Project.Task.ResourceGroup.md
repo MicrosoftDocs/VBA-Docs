@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ResourceGroup property (Project)
 
-Gets the names of groups associated with the resources assigned to a task, separated by the list separator. Read-only  **String**.
+Gets the names of groups associated with the resources assigned to a task, separated by the list separator. Read-only **String**.
 
 
 ## Syntax

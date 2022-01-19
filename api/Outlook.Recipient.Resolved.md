@@ -31,7 +31,7 @@ If similar names exist for a recipient in an Address Book, you can resolve the r
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Resolve](Outlook.Recipient.Resolve.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[Resolve](Outlook.Recipient.Resolve.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
 
 
 ```vb

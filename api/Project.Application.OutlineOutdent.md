@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Levels_|Optional|**Long**|A number that specifies how many levels to indent the task. Applies to  **Application** object only. The default value is 1.|
+| _Levels_|Optional|**Long**|A number that specifies how many levels to indent the task. Applies to **Application** object only. The default value is 1.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathEqArray.ObjDist property (Word)
 
-Returns or sets a  **Boolean** that represents whether the equations in an equation array are spaced to the maximum width of the equation array. Read/write.
+Returns or sets a **Boolean** that represents whether the equations in an equation array are spaced to the maximum width of the equation array. Read/write.
 
 
 ## Syntax

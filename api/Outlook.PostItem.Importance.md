@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance**.
+This property corresponds to the MAPI property **PidTagImportance**.
 
 
 ## See also

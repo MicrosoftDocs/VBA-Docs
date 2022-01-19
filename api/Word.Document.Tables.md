@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Tables property (Word)
 
-Returns a  **[Table](Word.Table.md)** collection that represents all the tables in the specified document. Read-only.
+Returns a **[Table](Word.Table.md)** collection that represents all the tables in the specified document. Read-only.
 
 
 ## Syntax

@@ -31,8 +31,8 @@ Integer
 
 ## Remarks
 
-Type value constants for  **Shape** objects (the possible values that the **Type** property of a **Shape** object returns) are declared by the Visio type library in **[VisShapeTypes](Visio.visshapetypes.md)**.
+Type value constants for **Shape** objects (the possible values that the **Type** property of a **Shape** object returns) are declared by the Visio type library in **[VisShapeTypes](Visio.visshapetypes.md)**.
 
-If a  **Shape** object is type **visTypeForeignObject**, use the **ForeignType** property to determine the type of foreign object represented by the object.
+If a **Shape** object is type **visTypeForeignObject**, use the **ForeignType** property to determine the type of foreign object represented by the object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,7 +19,7 @@ An object representing one of the three panes in normal view or the single pane 
 
 ## Remarks
 
-Use  **Panes** (_index_), where _index_ is the index number for a pane, to return a single **Pane** object. The following table lists the names of the panes in normal view with their corresponding index numbers.
+Use **Panes** (_index_), where _index_ is the index number for a pane, to return a single **Pane** object. The following table lists the names of the panes in normal view with their corresponding index numbers.
 
 
 
@@ -29,7 +29,7 @@ Use  **Panes** (_index_), where _index_ is the index number for a pane, to retur
 |Slide|2|
 |Notes|3|
 
-When using a document window view other than normal view, use  **Panes** (1) to reference the single **Pane** object.
+When using a document window view other than normal view, use **Panes** (1) to reference the single **Pane** object.
 
 Use the [Activate](PowerPoint.Pane.Activate.md)method to make the specified pane active.
 
@@ -40,7 +40,7 @@ Normal view is the only view with multiple panes. All other document window view
 
 ## Example
 
-The following example uses the  **ViewType** property to determine whether the slide pane is the active pane. If it is, then the **Activate** method makes the notes pane the active pane.
+The following example uses the **ViewType** property to determine whether the slide pane is the active pane. If it is, then the **Activate** method makes the notes pane the active pane.
 
 
 ```vb

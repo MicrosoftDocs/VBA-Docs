@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Predecessors property (Project)
 
-Gets or sets a list of the identification numbers of a task's predecessors. Read/write  **String**.
+Gets or sets a list of the identification numbers of a task's predecessors. Read/write **String**.
 
 
 ## Syntax

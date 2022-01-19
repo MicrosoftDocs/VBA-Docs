@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Value property (Project)
-Gets an individual  **Shape** object in the **ShapeRange** collection. Read-only **Shape**.
+Gets an individual **Shape** object in the **ShapeRange** collection. Read-only **Shape**.
 
 ## Syntax
 

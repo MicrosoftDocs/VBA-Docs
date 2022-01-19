@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ActualStartDrivers.Count property (Project)
 
-Gets the number of  **Assignment** objects in the **ActualStartDrivers** collection. Read-only **Long**.
+Gets the number of **Assignment** objects in the **ActualStartDrivers** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents an 'ActualStartDrivers' object.
 
 ## Remarks
 
-This property returns a read-only  **Long** value in the range 0 through 5; if **TotalDetectedCount** is greater than 5, **Count** returns 0.
+This property returns a read-only **Long** value in the range 0 through 5; if **TotalDetectedCount** is greater than 5, **Count** returns 0.
 
 Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LookupTableEntry.LocalizedCookie property (Project)
 
-Represents a token for the localized lookup table structure. Read-only  **String**.
+Represents a token for the localized lookup table structure. Read-only **String**.
 
 
 ## Syntax

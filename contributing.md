@@ -169,11 +169,11 @@ You now have local copies (in a new local branch) of the work that you submitted
 
 #### Delete a branch
 
-Once your changes are successfully merged into the main repository, delete the branch you used because you no longer need it.  Any additional work should be done in a new branch.  
+Once your changes are successfully merged into the main repository, delete the branch you used because you no longer need it. Any additional work should be done in a new branch.
 
 1. In the Git Bash command prompt, type `git checkout main`. This ensures that you aren't in the branch to be deleted (which isn't allowed).
 2. Next, at the command prompt, type `git branch -d <branch name>`. This deletes the branch on your computer only if it has been successfully merged to the upstream repository. (You can override this behavior with the `–D` flag, but first be sure you want to do this.)
-3. Finally, type `git push origin :<branch name>` at the command prompt (a space before the colon and no space after it).  This will delete the branch on your github fork.  
+3. Finally, type `git push origin :<branch name>` at the command prompt (a space before the colon and no space after it). This will delete the branch on your github fork.
 
 Congratulations, you have successfully contributed to the project!
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TableFields.Item property (Project)
 
-Gets a single  **TableField** object from the **TableFields** collection. Read-only **TableField**.
+Gets a single **TableField** object from the **TableFields** collection. Read-only **TableField**.
 
 
 ## Syntax

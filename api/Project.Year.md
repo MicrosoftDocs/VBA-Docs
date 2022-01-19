@@ -31,7 +31,7 @@ The **Years** collection in Project begins in 1984 and ends in 2149. In previous
  
 
  
-Use  **Years** ( _Index_), where  _Index_ is the year index number, to return a single **Year** object. The following example counts the number of working days in the month of September 2012 for each selected resource.
+Use **Years** ( _Index_), where  _Index_ is the year index number, to return a single **Year** object. The following example counts the number of working days in the month of September 2012 for each selected resource.
  
 
  

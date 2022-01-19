@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example obtains the  **[EntryID](Outlook.Folder.EntryID.md)** and **StoreID** for the default Tasks folder and then calls the **[NameSpace.GetFolderFromID](Outlook.NameSpace.GetFolderFromID.md)** method using these values to obtain the same folder. The folder is then displayed.
+This Visual Basic for Applications (VBA) example obtains the **[EntryID](Outlook.Folder.EntryID.md)** and **StoreID** for the default Tasks folder and then calls the **[NameSpace.GetFolderFromID](Outlook.NameSpace.GetFolderFromID.md)** method using these values to obtain the same folder. The folder is then displayed.
 
 
 ```vb

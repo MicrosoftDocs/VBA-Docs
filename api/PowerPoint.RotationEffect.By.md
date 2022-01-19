@@ -28,11 +28,11 @@ _expression_ A variable that represents a [RotationEffect](PowerPoint.RotationEf
 
 The specified object will be rotated with the center of the object remaining in the same position on the screen.
 
-If both the  **By** and **[To](PowerPoint.RotationEffect.To.md)** properties are set for a rotation effect, then the value of the **By** property is ignored.
+If both the **By** and **[To](PowerPoint.RotationEffect.To.md)** properties are set for a rotation effect, then the value of the **By** property is ignored.
 
 Floating point numbers (for example, 55.5) are valid, but negative numbers are not.
 
-Do not confuse this property with the  **ByX** or **ByY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ByX** or **ByY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

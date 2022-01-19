@@ -23,9 +23,9 @@ A **NoteItem** is not customizable. If you open a new note, you will notice that
 
 The **[Subject](Outlook.NoteItem.Subject.md)** property of a **NoteItem** object is read-only because it is calculated from the body text of the note. Also, the **NoteItem** **[Body](Outlook.NoteItem.Body.md)** can only be rich text, so the properties that correspond to HTML and Microsoft Word content do not apply. Although the **[GetInspector](Outlook.NoteItem.GetInspector.md)** property will work on notes, because notes can't be customized, some of the **[Inspector](Outlook.Inspector.md)** properties, methods, and events will not apply to **NoteItem** objects.
 
-Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **NoteItem** object that represents a new note.
+Use the **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **NoteItem** object that represents a new note.
 
-Use  **[Items](Outlook.Items.Item.md)** (_index_), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
+Use **[Items](Outlook.Items.Item.md)** (_index_), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
 
 
 ## Example

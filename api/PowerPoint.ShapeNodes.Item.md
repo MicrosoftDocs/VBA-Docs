@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeNodes.Item method (PowerPoint)
 
-Returns a single  **ShapeNode** object from the specified **ShapeNodes** collection.
+Returns a single **ShapeNode** object from the specified **ShapeNodes** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[ShapeNodes](PowerPoint.ShapeNodes.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **ShapeNode** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **ShapeNode** object in the collection to be returned.|
 
 ## Return value
 

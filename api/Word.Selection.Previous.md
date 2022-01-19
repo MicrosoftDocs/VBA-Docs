@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Previous method (Word)
 
-Moves the selected text by the specified number of units, and returns a  **Range** object relative to the collapsed selection.
+Moves the selected text by the specified number of units, and returns a **Range** object relative to the collapsed selection.
 
 
 ## Syntax

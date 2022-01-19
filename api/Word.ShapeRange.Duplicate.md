@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Duplicate method (Word)
 
-Creates a duplicate of the specified  **ShapeRange** object, adds the new range of shapes to the **Shapes** collection at a standard offset from the original shapes, and then returns a **Shape** object.
+Creates a duplicate of the specified **ShapeRange** object, adds the new range of shapes to the **Shapes** collection at a standard offset from the original shapes, and then returns a **Shape** object.
 
 
 ## Syntax

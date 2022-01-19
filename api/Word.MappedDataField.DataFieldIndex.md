@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataField.DataFieldIndex property (Word)
 
-Returns or sets a  **Long** that represents the corresponding field number in the mail merge data source to which a mapped data field maps. Read/write.
+Returns or sets a **Long** that represents the corresponding field number in the mail merge data source to which a mapped data field maps. Read/write.
 
 
 ## Syntax

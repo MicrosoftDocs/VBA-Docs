@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PictureEditor property (Word)
 
-Returns or sets the name of the application to use to edit pictures. Read/write  **String**.
+Returns or sets the name of the application to use to edit pictures. Read/write **String**.
 
 
 ## Syntax

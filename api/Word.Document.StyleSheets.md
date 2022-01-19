@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.StyleSheets property (Word)
 
-Returns a  **[StyleSheets](Word.StyleSheets.md)** collection that represents the Web style sheets attached to a document.
+Returns a **[StyleSheets](Word.StyleSheets.md)** collection that represents the Web style sheets attached to a document.
 
 
 ## Syntax

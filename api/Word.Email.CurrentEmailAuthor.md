@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Email.CurrentEmailAuthor property (Word)
 
-Returns an  **[EmailAuthor](Word.EmailAuthor.md)** object that represents the author of the current email message. Read-only.
+Returns an **[EmailAuthor](Word.EmailAuthor.md)** object that represents the author of the current email message. Read-only.
 
 
 ## Syntax

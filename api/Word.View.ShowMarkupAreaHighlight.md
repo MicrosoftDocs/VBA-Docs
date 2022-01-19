@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ShowMarkupAreaHighlight property (Word)
 
-Returns or sets a  **Boolean** that represents whether the markup area that shows revision and comment balloons is shaded. Read/write.
+Returns or sets a **Boolean** that represents whether the markup area that shows revision and comment balloons is shaded. Read/write.
 
 
 ## Syntax

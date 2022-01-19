@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.ContinuationNotice property (Word)
 
-Returns a  **Range** object that represents the footnote continuation notice. Read-only.
+Returns a **Range** object that represents the footnote continuation notice. Read-only.
 
 
 ## Syntax

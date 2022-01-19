@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.Width property (Project)
 
-Gets or sets the width in points of the main window in the Project application. Read/write  **Long**.
+Gets or sets the width in points of the main window in the Project application. Read/write **Long**.
 
 
 ## Syntax

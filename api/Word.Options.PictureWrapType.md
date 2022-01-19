@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PictureWrapType property (Word)
 
-Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
+Sets or returns a **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
 
 
 ## Syntax

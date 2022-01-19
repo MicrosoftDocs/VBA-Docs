@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Successors property (Project)
 
-Gets or sets a list of the identification numbers of a task's successors. Read/write  **String**.
+Gets or sets a list of the identification numbers of a task's successors. Read/write **String**.
 
 
 ## Syntax

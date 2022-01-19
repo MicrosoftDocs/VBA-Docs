@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-By default, a mail item is not marked with any flag and the default value for this property is the empty string. You can set the value of  **FlagRequest** either through the user interface or programmatically. When you mark a mail item with a flag through the user interface, the default value of **FlagRequest** is "Follow up".
+By default, a mail item is not marked with any flag and the default value for this property is the empty string. You can set the value of **FlagRequest** either through the user interface or programmatically. When you mark a mail item with a flag through the user interface, the default value of **FlagRequest** is "Follow up".
 
 
 ## See also

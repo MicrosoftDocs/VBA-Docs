@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.AddPolyline method (Word)
 
-Adds an open or closed polygon to a drawing canvas. Returns a  **Shape** object that represents the polygon and adds it to the **CanvasShapes** collection.
+Adds an open or closed polygon to a drawing canvas. Returns a **Shape** object that represents the polygon and adds it to the **CanvasShapes** collection.
 
 
 ## Syntax

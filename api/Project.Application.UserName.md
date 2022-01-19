@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.UserName property (Project)
 
-Gets or sets the local name of the current user. Read/write  **String**.
+Gets or sets the local name of the current user. Read/write **String**.
 
 
 ## Syntax

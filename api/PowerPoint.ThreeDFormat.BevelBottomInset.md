@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.BevelBottomInset property (PowerPoint)
 
-Returns or sets the bottom bevel inset for the specified  **ThreeDFormat** object, in points. Read/write.
+Returns or sets the bottom bevel inset for the specified **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax

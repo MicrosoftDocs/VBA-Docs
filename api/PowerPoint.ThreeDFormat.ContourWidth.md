@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.ContourWidth property (PowerPoint)
 
-Returns or sets the width of the contour around the specified  **ThreeDFormat** object, in points. Read/write.
+Returns or sets the width of the contour around the specified **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Single
 
 ## Remarks
 
-The maximum value of the  **ContourWidth** property is 144 points.
+The maximum value of the **ContourWidth** property is 144 points.
 
 
 ## See also

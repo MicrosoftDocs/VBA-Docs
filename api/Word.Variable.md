@@ -19,7 +19,7 @@ Represents a variable stored as part of a document. Document variables are used 
 
 ## Remarks
 
-Use  **Variables** (Index), where Index is the document variable name or the index number, to return a single **Variable** object. The following example displays the value of the Temp document variable in the active document.
+Use **Variables** (Index), where Index is the document variable name or the index number, to return a single **Variable** object. The following example displays the value of the Temp document variable in the active document.
 
 
 ```vb

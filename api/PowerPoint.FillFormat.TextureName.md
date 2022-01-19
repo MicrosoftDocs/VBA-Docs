@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property is read-only. Use the  **[UserTextured](PowerPoint.FillFormat.UserTextured.md)** method to set the texture file for the fill.
+This property is read-only. Use the **[UserTextured](PowerPoint.FillFormat.UserTextured.md)** method to set the texture file for the fill.
 
 
 ## Example

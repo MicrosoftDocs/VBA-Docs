@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ReadabilityStatistics.Count property (Word)
 
-Returns a  **Long** that represents the number of readability statistics in the collection. Read-only.
+Returns a **Long** that represents the number of readability statistics in the collection. Read-only.
 
 
 ## Syntax

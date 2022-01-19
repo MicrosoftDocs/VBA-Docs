@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisCharsBias enumeration (Visio)
 
-Bias constants to be passed to the  **Characters.CharPropsRow** property and similar properties.
+Bias constants to be passed to the **Characters.CharPropsRow** property and similar properties.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

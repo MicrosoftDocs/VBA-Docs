@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.AlternativeText property (Word)
 
-Returns or sets the alternative text associated with a shape in a webpage. Read/write  **String**.
+Returns or sets the alternative text associated with a shape in a webpage. Read/write **String**.
 
 
 ## Syntax

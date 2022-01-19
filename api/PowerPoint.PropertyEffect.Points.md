@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PropertyEffect](PowerPoint.PropertyEf
 
 ## Remarks
 
-Use the  **[From](PowerPoint.PropertyEffect.From.md)** and **[To](PowerPoint.PropertyEffect.To.md)** properties to set the value of this property.
+Use the **[From](PowerPoint.PropertyEffect.From.md)** and **[To](PowerPoint.PropertyEffect.To.md)** properties to set the value of this property.
 
 
 ## See also

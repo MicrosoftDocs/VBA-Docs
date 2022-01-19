@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OverAllocatedAssignments.TotalDetectedCount property (Project)
 
-Gets the total number of overallocated assignments, including those that exceed maximum resource time available. Read-only  **Long**.
+Gets the total number of overallocated assignments, including those that exceed maximum resource time available. Read-only **Long**.
 
 
 ## Syntax

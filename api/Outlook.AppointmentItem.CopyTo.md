@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.CopyTo method (Outlook)
 
-Copies the  **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that is specified by the _DestinationFolder_ parameter and returns an object that represents the item created in the destination folder by the copy operation.
+Copies the **[AppointmentItem](Outlook.AppointmentItem.md)** to the folder that is specified by the _DestinationFolder_ parameter and returns an object that represents the item created in the destination folder by the copy operation.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Specifies the folder to which the  **AppointmentItem** object is copied.|
+| _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Specifies the folder to which the **AppointmentItem** object is copied.|
 | _CopyOptions_|Required| **[OlAppointmentCopyOptions](Outlook.OlAppointmentCopyOptions.md)**|Specifies the user experience of the copy operation.|
 
 ## Return value

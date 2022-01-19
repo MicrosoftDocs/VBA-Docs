@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Trendline.Type property (PowerPoint)
 
-Returns or sets the trendline type. Read/write  **[XlTrendlineType](PowerPoint.XlTrendlineType.md)**.
+Returns or sets the trendline type. Read/write **[XlTrendlineType](PowerPoint.XlTrendlineType.md)**.
 
 
 ## Syntax

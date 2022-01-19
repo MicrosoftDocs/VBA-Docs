@@ -26,9 +26,9 @@ _expression_.**TextureOffsetY**
 
 ## Remarks
 
-The position of the origin is determined by the setting of the  **[TextureAlignment](PowerPoint.FillFormat.TextureAlignment.md)** property.
+The position of the origin is determined by the setting of the **[TextureAlignment](PowerPoint.FillFormat.TextureAlignment.md)** property.
 
-The setting of the  **TextureHorizontalScale** property corresponds to the setting of the **Scale X** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the  **Format Tab**, in the  **Shape Styles** group, click **Format Shape**.)
+The setting of the **TextureHorizontalScale** property corresponds to the setting of the **Scale X** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the **Format Tab**, in the **Shape Styles** group, click **Format Shape**.)
 
 
 ## See also

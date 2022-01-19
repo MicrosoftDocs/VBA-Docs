@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickMarkSpacing property (PowerPoint)
 
-Returns or sets the number of categories or series between tick marks. Read/write  **Long**.
+Returns or sets the number of categories or series between tick marks. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 This property applies only to category and series axes. It can be a value from 1 through 31999. 
 
-Use the  **[MajorUnit](PowerPoint.Axis.MajorUnit.md)** and **[MinorUnit](PowerPoint.Axis.MinorUnit.md)** properties to set tick-mark spacing on the value axis.
+Use the **[MajorUnit](PowerPoint.Axis.MajorUnit.md)** and **[MinorUnit](PowerPoint.Axis.MinorUnit.md)** properties to set tick-mark spacing on the value axis.
 
 
 ## Example

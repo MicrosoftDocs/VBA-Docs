@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PlotArea.Width property (Word)
 
-Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write  **Double**.
+Returns or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write **Double**.
 
 
 ## Syntax

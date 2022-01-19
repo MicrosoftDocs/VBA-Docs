@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBinding.KeyCategory property (Word)
 
-Returns the type of item assigned to the specified key binding. Read-only  **WdKeyCategory**.
+Returns the type of item assigned to the specified key binding. Read-only **WdKeyCategory**.
 
 
 ## Syntax

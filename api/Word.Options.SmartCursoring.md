@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.SmartCursoring property (Word)
 
-Returns or sets a  **Boolean** that represents whether smart cursoring is enabled. **True** enables smart cursoring.
+Returns or sets a **Boolean** that represents whether smart cursoring is enabled. **True** enables smart cursoring.
 
 
 ## Syntax

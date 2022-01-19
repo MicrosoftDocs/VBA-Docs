@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # PublishObjects object (PowerPoint)
 
-A collection of  **[PublishObject](PowerPoint.PublishObject.md)** objects representing the set of complete or partial loaded presentations that are available for publishing to HTML.
+A collection of **[PublishObject](PowerPoint.PublishObject.md)** objects representing the set of complete or partial loaded presentations that are available for publishing to HTML.
 
 
 ## Remarks
 
-You can specify the content and attributes of the published presentation by setting various properties of the  **PublishObject** object. For example, the [SourceType](PowerPoint.PublishObject.SourceType.md)property defines the portion of a loaded presentation to be published. The [RangeStart](PowerPoint.PublishObject.RangeStart.md)property and the [RangeEnd](PowerPoint.PublishObject.RangeEnd.md)property specify the range of slides to publish, and the [SpeakerNotes](PowerPoint.PublishObject.SpeakerNotes.md)property designates whether or not to publish the speaker's notes.
+You can specify the content and attributes of the published presentation by setting various properties of the **PublishObject** object. For example, the [SourceType](PowerPoint.PublishObject.SourceType.md)property defines the portion of a loaded presentation to be published. The [RangeStart](PowerPoint.PublishObject.RangeStart.md)property and the [RangeEnd](PowerPoint.PublishObject.RangeEnd.md)property specify the range of slides to publish, and the [SpeakerNotes](PowerPoint.PublishObject.SpeakerNotes.md)property designates whether or not to publish the speaker's notes.
 
-You cannot add to the  **PublishObjects** collection.
+You cannot add to the **PublishObjects** collection.
 
 
 ## Example
 
-Use the  **PublishObjects** property to return the **PublishObjects** collection. This example publishes slides three through five of the active presentation to HTML. It names the published presentation Mallard.htm.
+Use the **PublishObjects** property to return the **PublishObjects** collection. This example publishes slides three through five of the active presentation to HTML. It names the published presentation Mallard.htm.
 
 
 ```vb
@@ -45,9 +45,9 @@ With ActivePresentation.PublishObjects(1)
 End With
 ```
 
-Use  **Item** (_index_), where _index_ is always "1", to return the single **PublishObject** object for a loaded presentation. There can be only one **PublishObject** object for each loaded presentation.
+Use **Item** (_index_), where _index_ is always "1", to return the single **PublishObject** object for a loaded presentation. There can be only one **PublishObject** object for each loaded presentation.
 
-This example defines the  **PublishObject** object to be the entire active presentation by setting the **SourceType** property to **ppPublishAll**.
+This example defines the **PublishObject** object to be the entire active presentation by setting the **SourceType** property to **ppPublishAll**.
 
 
 

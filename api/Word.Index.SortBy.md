@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Index.SortBy property (Word)
 
-Returns or sets the sorting criteria for the specified index. Read/write  **WdIndexSortBy**.
+Returns or sets the sorting criteria for the specified index. Read/write **WdIndexSortBy**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Replacement.Style property (Word)
 
-Returns or sets the style for the specified object. To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or an object that represents the style. Read/write **Variant**.
+Returns or sets the style for the specified object. To set this property, specify the local name of the style, an integer, a **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or an object that represents the style. Read/write **Variant**.
 
 
 ## Syntax

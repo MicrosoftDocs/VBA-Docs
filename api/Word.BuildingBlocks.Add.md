@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # BuildingBlocks.Add method (Word)
 
-Creates a new building block and returns a  **BuildingBlock** object.
+Creates a new building block and returns a **BuildingBlock** object.
 
 
 ## Syntax

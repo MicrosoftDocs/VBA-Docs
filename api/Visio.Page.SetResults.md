@@ -46,7 +46,7 @@ The **SetResults** method is like the **Result** method of a **Cell** object, ex
 
 For **Page** objects, you can use the **SetResults** method to set results of any set of cells in any set of shapes of the page or master.
 
-You tell the **SetResults** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
+You tell the **SetResults** method which cells you want to set by passing an array of integers in _SID_SRCStream(). _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
 
 For **Page** objects, _SID_SRCStream()_ should be a one-dimensional array of 4 _n_ 2-byte integers for _n_ >= 1. The **SetResults** method interprets the stream as:
 

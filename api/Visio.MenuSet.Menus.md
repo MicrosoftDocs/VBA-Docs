@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MenuSet.Menus property (Visio)
 
-Returns the  **Menus** collection of a **MenuSet** object. Read-only.
+Returns the **Menus** collection of a **MenuSet** object. Read-only.
 
 
 ## Syntax
@@ -35,14 +35,14 @@ Menus
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-A  **Menu** object's index within the **Menus** collection determines its left-to-right position on the menu bar.
+A **Menu** object's index within the **Menus** collection determines its left-to-right position on the menu bar.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Menus** property to get the **Menus** collection of a **MenuSet** object. It adds a menu and menu item to the user interface and sets the **Caption** property of the menu and menu item.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Menus** property to get the **Menus** collection of a **MenuSet** object. It adds a menu and menu item to the user interface and sets the **Caption** property of the menu and menu item.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

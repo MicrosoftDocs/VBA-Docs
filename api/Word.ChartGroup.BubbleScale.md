@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.BubbleScale property (Word)
 
-Returns or sets the scale factor for bubbles in the specified chart group. Read/write  **Long**.
+Returns or sets the scale factor for bubbles in the specified chart group. Read/write **Long**.
 
 
 ## Syntax

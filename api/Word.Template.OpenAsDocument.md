@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.OpenAsDocument method (Word)
 
-Opens the specified template as a document and returns a  **Document** object.
+Opens the specified template as a document and returns a **Document** object.
 
 
 ## Syntax

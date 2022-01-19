@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.AutoFilter property (Project)
 
-Gets or sets whether the AutoFilter feature is turned on for a project. Read/write  **Boolean**.
+Gets or sets whether the AutoFilter feature is turned on for a project. Read/write **Boolean**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.CompatibilityMode property (Word)
 
-Returns a  **Long** that specifies the compatibility mode that Word uses when opening the document. Read-only.
+Returns a **Long** that specifies the compatibility mode that Word uses when opening the document. Read-only.
 
 
 ## Syntax

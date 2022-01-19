@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sections.Count property (Word)
 
-Returns a  **Long** that represents the number of sections in the collection. Read-only.
+Returns a **Long** that represents the number of sections in the collection. Read-only.
 
 
 ## Syntax

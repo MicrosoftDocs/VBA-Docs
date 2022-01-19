@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.VerticalAlignment property (Word)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
+Returns or sets the vertical alignment of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,18 +26,18 @@ _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' obj
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
+You can set the value of this property to one of the following **[XlConstants](Word.XlConstants.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 

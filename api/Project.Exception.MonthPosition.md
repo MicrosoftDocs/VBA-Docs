@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.MonthPosition property (Project)
 
-Gets or sets the position of the exception in the month, for a monthly or yearly calendar exception. Read/write  **PjExceptionPosition**.
+Gets or sets the position of the exception in the month, for a monthly or yearly calendar exception. Read/write **PjExceptionPosition**.
 
 
 ## Syntax

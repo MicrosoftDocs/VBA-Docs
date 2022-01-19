@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TasksModule](Outlook.TasksModule.md) 
 
 ## Remarks
 
-This property returns  **olTasksModule** for the **[TasksModule](Outlook.TasksModule.md)** object.
+This property returns **olTasksModule** for the **[TasksModule](Outlook.TasksModule.md)** object.
 
 
 ## See also

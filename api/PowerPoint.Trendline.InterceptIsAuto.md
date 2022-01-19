@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)'
 
 ## Remarks
 
-Setting the  **[Intercept](PowerPoint.Trendline.Intercept.md)** property sets this property to **False**.
+Setting the **[Intercept](PowerPoint.Trendline.Intercept.md)** property sets this property to **False**.
 
 
 ## Example

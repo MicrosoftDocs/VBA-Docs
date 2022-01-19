@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.Add method (Word)
 
-Returns a  **MailMergeField** object that represents a mail merge field added to the data source document.
+Returns a **MailMergeField** object that represents a mail merge field added to the data source document.
 
 
 ## Syntax

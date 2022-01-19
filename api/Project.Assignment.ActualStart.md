@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ActualStart property (Project)
 
-Gets or sets the actual start date of the assignment. Read/write  **Variant**.
+Gets or sets the actual start date of the assignment. Read/write **Variant**.
 
 
 ## Syntax

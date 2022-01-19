@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Chart.DataTable property (Word)
 
-Returns the chart data table. Read-only  **[DataTable](Word.DataTable.md)**.
+Returns the chart data table. Read-only **[DataTable](Word.DataTable.md)**.
 
 
 ## Syntax

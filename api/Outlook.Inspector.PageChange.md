@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Remarks
 
-An error occurs if the event handler for this event calls either the  **[Close](Outlook.Inspector.Close(method).md)** or **[SetCurrentFormPage](Outlook.Inspector.SetCurrentFormPage.md)** methods.
+An error occurs if the event handler for this event calls either the **[Close](Outlook.Inspector.Close(method).md)** or **[SetCurrentFormPage](Outlook.Inspector.SetCurrentFormPage.md)** methods.
 
 
 ## See also

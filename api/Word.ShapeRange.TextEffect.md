@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.TextEffect property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** o
 
 ## Remarks
 
-Applies to  **ShapeRange** objects that represent WordArt.
+Applies to **ShapeRange** objects that represent WordArt.
 
 
 ## See also

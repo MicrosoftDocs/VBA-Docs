@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TimeScaleValue.StartDate property (Project)
 
-The start date for a period of time that defines a timescale data unit. Read-only  **Variant**.
+The start date for a period of time that defines a timescale data unit. Read-only **Variant**.
 
 
 ## Syntax

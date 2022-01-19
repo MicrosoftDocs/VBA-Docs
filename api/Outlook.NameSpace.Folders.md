@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NameSpace.Folders property (Outlook)
 
-Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[NameSpace](Outlook.NameSpace.md)**. Read-only.
+Returns the **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[NameSpace](Outlook.NameSpace.md)**. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_.**Class**
 
 ## Remarks
 
-This property returns  **olNavigationModule** for the **[NavigationModule](Outlook.NavigationModule.md)** object.
+This property returns **olNavigationModule** for the **[NavigationModule](Outlook.NavigationModule.md)** object.
 
 
 ## See also

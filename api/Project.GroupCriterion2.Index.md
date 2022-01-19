@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.Index property (Project)
 
-Gets the index of an object in its containing collection. Read-only  **Long**.
+Gets the index of an object in its containing collection. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_.**Index**
 
 ## Example
 
-If you always put a Gantt chart in the same index of a project's  **Windows** collection, you can display a Gantt chart in one project and then use this macro to easily switch to the Gantt charts of your other projects.
+If you always put a Gantt chart in the same index of a project's **Windows** collection, you can display a Gantt chart in one project and then use this macro to easily switch to the Gantt charts of your other projects.
 
 
 ## See also

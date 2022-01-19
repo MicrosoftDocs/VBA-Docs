@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.NumLock property (Word)
 
-Returns the state of the NUM LOCK key.  **True** if the keys on the numeric keypad insert numbers, **False** if the keys move the insertion point. Read-only **Boolean**.
+Returns the state of the NUM LOCK key. **True** if the keys on the numeric keypad insert numbers, **False** if the keys move the insertion point. Read-only **Boolean**.
 
 
 ## Syntax

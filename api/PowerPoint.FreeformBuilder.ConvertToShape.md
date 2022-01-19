@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FreeformBuilder.ConvertToShape method (PowerPoint)
 
-Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](PowerPoint.FreeformBuilder.md)** object. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified **[FreeformBuilder](PowerPoint.FreeformBuilder.md)** object. Returns a **[Shape](PowerPoint.Shape.md)** object that represents the new shape.
 
 
 ## Syntax

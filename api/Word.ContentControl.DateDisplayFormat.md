@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.DateDisplayFormat property (Word)
 
-Returns or sets a  **String** that represents the format in which dates are displayed. Read/write.
+Returns or sets a **String** that represents the format in which dates are displayed. Read/write.
 
 
 ## Syntax

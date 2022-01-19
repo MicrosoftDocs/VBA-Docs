@@ -23,6 +23,6 @@ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.m
 
 ## Remarks
 
-If there are no values in the outline code lookup table, then  **OnlyLeaves** is **False** and non-writeable. For enterprise text fields with a lookup table, **OnlyLeaves** is always **False** and non-writeable.
+If there are no values in the outline code lookup table, then **OnlyLeaves** is **False** and non-writeable. For enterprise text fields with a lookup table, **OnlyLeaves** is always **False** and non-writeable.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

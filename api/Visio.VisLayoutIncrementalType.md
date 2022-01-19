@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisLayoutIncrementalType enumeration (Visio)
 
-Specifies constants that define types of incremental layout; passed to the  **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
+Specifies constants that define types of incremental layout; passed to the **[Page.LayoutIncremental](Visio.Page.LayoutIncremental.md)** and **[Selection.LayoutIncremental](Visio.Selection.LayoutIncremental.md)** methods.
 
 
 

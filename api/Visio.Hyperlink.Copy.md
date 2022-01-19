@@ -31,6 +31,6 @@ Nothing
 
 ## Remarks
 
-To make a copy without using the Clipboard, use the  **Duplicate** method.
+To make a copy without using the Clipboard, use the **Duplicate** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

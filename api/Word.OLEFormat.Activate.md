@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.Activate method (Word)
 
-Activates the specified  **OLEFormat** object.
+Activates the specified **OLEFormat** object.
 
 
 ## Syntax

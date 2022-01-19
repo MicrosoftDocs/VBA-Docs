@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Chart property (Word)
 
-Returns a  **Chart** object that represents a chart within the collection of inline shapes in a document. Read-only.
+Returns a **Chart** object that represents a chart within the collection of inline shapes in a document. Read-only.
 
 
 ## Syntax

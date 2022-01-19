@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPageTypes enumeration (Visio)
 
-Type codes returned by the  **Page.Type** property.
+Type codes returned by the **Page.Type** property.
 
 
 

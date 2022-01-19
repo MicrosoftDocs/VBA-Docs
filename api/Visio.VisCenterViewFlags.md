@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisCenterViewFlags enumeration (Visio)
 
-Specifies constants that define the different ways to center the view; passed to the  **[Windows.CenterViewOnShape](Visio.Window.CenterViewOnShape.md)** method.
+Specifies constants that define the different ways to center the view; passed to the **[Windows.CenterViewOnShape](Visio.Window.CenterViewOnShape.md)** method.
 
 
 

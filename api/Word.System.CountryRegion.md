@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.CountryRegion property (Word)
 
-Returns the country/region designation of the system. Read-only  **WdCountry**.
+Returns the country/region designation of the system. Read-only **WdCountry**.
 
 
 ## Syntax

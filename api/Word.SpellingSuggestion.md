@@ -19,7 +19,7 @@ Represents a single spelling suggestion for a misspelled word. The **SpellingSug
 
 ## Remarks
 
-Use  **GetSpellingSuggestions** (Index), where Index is the index number, to return a single **SpellingSuggestion** object. The following example checks to see whether there are any spelling suggestions for the first word in the active document. If there are, the first suggestion is displayed in a message box.
+Use **GetSpellingSuggestions** (Index), where Index is the index number, to return a single **SpellingSuggestion** object. The following example checks to see whether there are any spelling suggestions for the first word in the active document. If there are, the first suggestion is displayed in a message box.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Shading property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified font.
+Returns a **Shading** object that refers to the shading formatting for the specified font.
 
 
 ## Syntax

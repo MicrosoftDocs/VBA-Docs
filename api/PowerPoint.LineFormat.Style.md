@@ -31,7 +31,7 @@ MsoLineStyle
 
 ## Remarks
 
-The value of the  **Style** property can be one of these **MsoLineStyle** constants.
+The value of the **Style** property can be one of these **MsoLineStyle** constants.
 
 
 ||

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressList](Outlook.AddressList.md)
 
 ## Remarks
 
-The transport provider assigns a permanent, unique string  **ID** property when an individual member object is created. These identifiers do not change from one session to another.
+The transport provider assigns a permanent, unique string **ID** property when an individual member object is created. These identifiers do not change from one session to another.
 
 
 ## See also

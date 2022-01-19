@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.KeyBindings property (Word)
 
-Returns a  **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
+Returns a **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax

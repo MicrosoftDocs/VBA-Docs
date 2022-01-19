@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.TextFrame2 property (PowerPoint)
 
-Returns the  **[TextFrame2](PowerPoint.TextFrame2.md)** object associated with the specified **[Shape](PowerPoint.Shape.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
+Returns the **[TextFrame2](PowerPoint.TextFrame2.md)** object associated with the specified **[Shape](PowerPoint.Shape.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -31,9 +31,9 @@ TextFrame2
 
 ## Remarks
 
-Use the  **[TextRange](PowerPoint.TextFrame2.TextRange.md)** property of the **TextFrame2** object to return the text in the text frame.
+Use the **[TextRange](PowerPoint.TextFrame2.TextRange.md)** property of the **TextFrame2** object to return the text in the text frame.
 
-Use the  **[HasTextFrame](PowerPoint.Shape.HasTextFrame.md)** property to determine whether a shape contains a text frame before you attempt to get the **TextFrame2** property value.
+Use the **[HasTextFrame](PowerPoint.Shape.HasTextFrame.md)** property to determine whether a shape contains a text frame before you attempt to get the **TextFrame2** property value.
 
 
 ## See also

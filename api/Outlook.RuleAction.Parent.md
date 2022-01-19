@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RuleAction.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [RuleAction](Outlook.RuleAction.md) ob
 
 ## Remarks
 
-The parent of the  **[RuleAction](Outlook.RuleAction.md)** object is the **[RuleActions](Outlook.RuleActions.md)** object.
+The parent of the **[RuleAction](Outlook.RuleAction.md)** object is the **[RuleActions](Outlook.RuleActions.md)** object.
 
 
 ## See also

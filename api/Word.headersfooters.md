@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # HeadersFooters object (Word)
 
-A collection of  **[HeaderFooter](Word.HeaderFooter.md)** objects that represent the headers or footers in the specified section of a document.
+A collection of **[HeaderFooter](Word.HeaderFooter.md)** objects that represent the headers or footers in the specified section of a document.
 
 
 ## Remarks
@@ -29,9 +29,9 @@ End With
 
 
 > [!NOTE] 
-> You cannot add  **HeaderFooter** objects to the **HeadersFooters** collection.
+> You cannot add **HeaderFooter** objects to the **HeadersFooters** collection.
 
-Use  **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants (**wdHeaderFooterEvenPages**, **wdHeaderFooterFirstPage**, or **wdHeaderFooterPrimary**), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
+Use **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants (**wdHeaderFooterEvenPages**, **wdHeaderFooterFirstPage**, or **wdHeaderFooterPrimary**), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
 
 
 
@@ -43,7 +43,7 @@ With ActiveDocument.Sections(1)
 End With
 ```
 
-You can also return a single  **HeaderFooter** object by using the **HeaderFooter** property with a **Selection** object.
+You can also return a single **HeaderFooter** object by using the **HeaderFooter** property with a **Selection** object.
 
 Use the **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page. The following example inserts text into the first page footer in the active document.
 

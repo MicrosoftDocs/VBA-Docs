@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Designs.Item method (PowerPoint)
 
-Returns a single  **Design** object from the specified **Designs** collection.
+Returns a single **Design** object from the specified **Designs** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Designs](PowerPoint.Designs.md) objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Design** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Design** object in the collection to be returned.|
 
 ## Return value
 

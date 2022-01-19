@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Cell.Text property (Project)
 
-Gets the text contents of the cell. Read-only  **String**.
+Gets the text contents of the cell. Read-only **String**.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ProjectName_|Optional|**String**|The name of the project containing  **TaskID** when working with consolidated projects. The default value is the name of the active project.|
+| _ProjectName_|Optional|**String**|The name of the project containing **TaskID** when working with consolidated projects. The default value is the name of the active project.|
 | _TaskID_|Optional|**Long**|The identification number of the task represented by the box to change. The default behavior is to change the boxes that represent one or more selected tasks.|
 | _DataTemplate_|Optional|**String**|The name of the data template to use.|
 | _HorizontalGridlines_|Optional|**Boolean**|**True** if horizontal gridlines separate each row in the box; otherwise, **False**.|
@@ -49,7 +49,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If  **TaskID** is specified, the associated task cannot be hidden due to application of a filter or a collapsed outline structure.
+If **TaskID** is specified, the associated task cannot be hidden due to application of a filter or a collapsed outline structure.
 
 Using the **BoxFormat** method without specifying any arguments displays the **Format Box** dialog box for the selected tasks. If no tasks are selected, the **BoxFormat** method has no effect.
 

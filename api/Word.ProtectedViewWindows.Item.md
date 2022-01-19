@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindows.Item method (Word)
 
-Returns an individual  **ProtectedViewWindows** object in a collection.
+Returns an individual **ProtectedViewWindows** object in a collection.
 
 
 ## Syntax

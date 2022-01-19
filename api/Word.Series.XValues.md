@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.XValues property (Word)
 
-Returns or sets an array of x values for a chart series. Read/write  **Variant**.
+Returns or sets an array of x values for a chart series. Read/write **Variant**.
 
 
 ## Syntax

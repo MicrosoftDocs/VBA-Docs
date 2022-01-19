@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.FontName property (Project)
 
-Gets or sets the name of the font for a field used as a criterion in a group definition. Read/write  **String**.
+Gets or sets the name of the font for a field used as a criterion in a group definition. Read/write **String**.
 
 
 ## Syntax

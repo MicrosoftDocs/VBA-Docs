@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates an appointment item and sets the  **[AppointmentItem.ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property before saving it.
+This Microsoft Visual Basic for Applications (VBA) example creates an appointment item and sets the **[AppointmentItem.ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property before saving it.
 
 
 ```vb

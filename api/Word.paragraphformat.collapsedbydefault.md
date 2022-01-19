@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.CollapsedByDefault property (Word)
 
-Returns or sets whether the specified paragraph format is collapsed by default. Read/write  **Long**.
+Returns or sets whether the specified paragraph format is collapsed by default. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddIns.Item method (PowerPoint)
 
-Returns a single  **Addin** object from the specified **Addins** collection.
+Returns a single **Addin** object from the specified **Addins** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AddIns](PowerPoint.AddIns.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Addin** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Addin** object in the collection to be returned.|
 
 ## Return value
 

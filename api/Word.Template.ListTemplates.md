@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.ListTemplates property (Word)
 
-Returns a  **[ListTemplates](Word.listtemplates.md)** collection that represents all the list formats for the specified template. Read-only.
+Returns a **[ListTemplates](Word.listtemplates.md)** collection that represents all the list formats for the specified template. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthLocks.Item method (Word)
 
-Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collection.
+Returns an individual **[CoAuthLock](Word.CoAuthLock.md)** object in a collection.
 
 
 ## Syntax

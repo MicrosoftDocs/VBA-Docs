@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.LeftPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the left of the contents of all the cells in a table. Read/write  **Single**.
+Returns or sets the amount of space (in points) to add to the left of the contents of all the cells in a table. Read/write **Single**.
 
 
 ## Syntax

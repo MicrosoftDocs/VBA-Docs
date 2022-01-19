@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.LanguageIDOther property (Word)
 
-Returns or sets the language for the specified range. Read/write  **WdLanguageID**.
+Returns or sets the language for the specified range. Read/write **WdLanguageID**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.TimeSeparator property (Project)
 
-Gets the time separator character. Read-only  **String**.
+Gets the time separator character. Read-only **String**.
 
 
 ## Syntax

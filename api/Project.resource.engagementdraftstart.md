@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementDraftStart property (Project)
 
-Returns the draft start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the draft start date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

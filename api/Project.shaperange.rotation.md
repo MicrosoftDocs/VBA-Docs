@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Rotation property (Project)
-Gets or sets the rotation of the shape range, in degrees. Read/write  **Single**.
+Gets or sets the rotation of the shape range, in degrees. Read/write **Single**.
 
 ## Syntax
 

@@ -24,7 +24,7 @@ The **TextStyleLevel** object is a member of the **[TextStyleLevels](PowerPoint.
 
 ## Example
 
-Use  **Levels** (_index_), where _index_ is a number from 1 through 5 that corresponds to the outline level, to return a single **TextStyleLevel** object. The following example sets the font name and font size, the space before paragraphs, and the paragraph alignment for level-one body text on all the slides in the active presentation.
+Use **Levels** (_index_), where _index_ is a number from 1 through 5 that corresponds to the outline level, to return a single **TextStyleLevel** object. The following example sets the font name and font size, the space before paragraphs, and the paragraph alignment for level-one body text on all the slides in the active presentation.
 
 
 ```vb

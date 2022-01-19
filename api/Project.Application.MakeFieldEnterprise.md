@@ -48,7 +48,7 @@ The **MakeFieldEnterprise** method corresponds to the **Add Field to Enterprise*
 
 ## Example
 
-To use the following example, create a local custom field, such as a task text custom field, named  **LocalWithLUT2Enterprise**. Add a lookup table for the custom field that has some values.
+To use the following example, create a local custom field, such as a task text custom field, named **LocalWithLUT2Enterprise**. Add a lookup table for the custom field that has some values.
 
 
 

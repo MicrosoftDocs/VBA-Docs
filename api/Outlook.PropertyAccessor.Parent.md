@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PropertyAccessor.Parent property (Outlook)
 
-Returns the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
+Returns the parent object of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
 
 
 ## Syntax

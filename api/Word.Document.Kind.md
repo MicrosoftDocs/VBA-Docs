@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Kind property (Word)
 
-Returns or sets the format type that Microsoft Word uses when automatically formatting the specified document. Read/write  **[WdDocumentKind](Word.WdDocumentKind.md)**.
+Returns or sets the format type that Microsoft Word uses when automatically formatting the specified document. Read/write **[WdDocumentKind](Word.WdDocumentKind.md)**.
 
 
 ## Syntax

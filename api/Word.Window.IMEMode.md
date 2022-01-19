@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.IMEMode property (Word)
 
-Returns or sets the default start-up mode for the Japanese Input Method Editor (IME). Read/write  **WdIMEMode**.
+Returns or sets the default start-up mode for the Japanese Input Method Editor (IME). Read/write **WdIMEMode**.
 
 
 ## Syntax

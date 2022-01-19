@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # List.StyleName property (Word)
 
-Returns the name of the style applied to the specified AutoText entry. Read-only  **String**.
+Returns the name of the style applied to the specified AutoText entry. Read-only **String**.
 
 
 ## Syntax

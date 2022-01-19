@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Manual property (Project)
 
- **True** if task recalculation is set to **Manually Scheduled**;  **False** if task recalculation is set to **Auto Schedule**. Read/write  **Variant**.
+ **True** if task recalculation is set to **Manually Scheduled**; **False** if task recalculation is set to **Auto Schedule**. Read/write **Variant**.
 
 
 ## Syntax

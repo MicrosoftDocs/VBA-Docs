@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectVerbs.Item method (PowerPoint)
 
-Returns a single object from the specified  **ObjectVerbs** collection.
+Returns a single object from the specified **ObjectVerbs** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Title property (Word)
 
-Returns or sets a  **String** that contains a title for the specified shape. Read/write.
+Returns or sets a **String** that contains a title for the specified shape. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StoryRanges.Count property (Word)
 
-Returns a  **Long** that represents the number of story ranges in the collection. Read-only.
+Returns a **Long** that represents the number of story ranges in the collection. Read-only.
 
 
 ## Syntax

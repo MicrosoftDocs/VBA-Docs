@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLMapping object (Word)
 
-Represents the XML mapping on a  **[ContentControl](Word.ContentControl.md)** object between custom XML and a content control. An XML mapping is a link between the text in a content control and an XML element in the custom XML data store for this document.
+Represents the XML mapping on a **[ContentControl](Word.ContentControl.md)** object between custom XML and a content control. An XML mapping is a link between the text in a content control and an XML element in the custom XML data store for this document.
 
 
 ## Remarks
@@ -64,7 +64,7 @@ Set objMap = objcc.XMLMapping
 blnMap = objMap.SetMappingByNode(objNode)
 ```
 
-The following example creates a new  **CustomXMLPart** object, loads custom XML into it, and then creates two new content controls and maps each to a different XML element within the custom XML.
+The following example creates a new **CustomXMLPart** object, loads custom XML into it, and then creates two new content controls and maps each to a different XML element within the custom XML.
 
 
 

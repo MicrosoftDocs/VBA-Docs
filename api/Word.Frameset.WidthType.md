@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frameset.WidthType property (Word)
 
-Returns or sets the width type for the specified  **Frameset** object. Read/write **WdFramesetSizeType**.
+Returns or sets the width type for the specified **Frameset** object. Read/write **WdFramesetSizeType**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md
 
 ## Example
 
-This example sets the width of the first  **Frameset** object in the active document to 25% of the window width.
+This example sets the width of the first **Frameset** object in the active document to 25% of the window width.
 
 
 ```vb

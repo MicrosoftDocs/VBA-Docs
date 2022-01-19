@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Type property (Word)
 
-Returns the window type. Read-only  **[WdWindowType](Word.WdWindowType.md)**.
+Returns the window type. Read-only **[WdWindowType](Word.WdWindowType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # List.CountNumberedItems method (Word)
 
-Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **List** object.
+Returns the number of bulleted or numbered items and LISTNUM fields in the specified **List** object.
 
 
 ## Syntax

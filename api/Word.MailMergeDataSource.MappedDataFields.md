@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.MappedDataFields property (Word)
 
-Returns a  **[MappedDataFields](Word.MappedDataFields.md)** collection that represents the mapped data fields available in Microsoft Word.
+Returns a **[MappedDataFields](Word.MappedDataFields.md)** collection that represents the mapped data fields available in Microsoft Word.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ _expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowVi
 
 ## Remarks
 
-The value of the ResetSlide parameter can be one of these  **MsoTriState** constants. The default is **msoTrue**.
+The value of the ResetSlide parameter can be one of these **MsoTriState** constants. The default is **msoTrue**.
 
 
 ||
@@ -43,7 +43,7 @@ The value of the ResetSlide parameter can be one of these  **MsoTriState** const
 |**msoFalse**|
 |**msoTrue**|
 
-If you switch from one slide to another during a slide show with ResetSlide set to  **msoFalse**, when you return to the first slide, its animation picks up where it left off. If you switch from one slide to another with ResetSlide set to **msoTrue**, when you return to the first slide, its entire animation starts over.
+If you switch from one slide to another during a slide show with ResetSlide set to **msoFalse**, when you return to the first slide, its animation picks up where it left off. If you switch from one slide to another with ResetSlide set to **msoTrue**, when you return to the first slide, its entire animation starts over.
 
 
 ## Example

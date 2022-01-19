@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisObjectTypes enumeration (Visio)
 
-Specifies codes returned by the  **ObjectType** property.
+Specifies codes returned by the **ObjectType** property.
 
 
 

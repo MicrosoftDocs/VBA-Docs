@@ -19,7 +19,7 @@ Represents a style used to build a table of contents or figures. The **HeadingSt
 
 ## Remarks
 
-Use  **HeadingStyles** (Index), where Index is the index number, to return a single **HeadingStyle** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
+Use **HeadingStyles** (Index), where Index is the index number, to return a single **HeadingStyle** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
 
 
 ```vb

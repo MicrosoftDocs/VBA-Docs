@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.BackgroundStyle property (Project)
-Gets or sets the background style. Read/write  **MsoBackgroundStyleIndex**.
+Gets or sets the background style. Read/write **MsoBackgroundStyleIndex**.
 
 ## Syntax
 

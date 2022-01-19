@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Height property (Word)
 
-Returns or sets the height of an inline shape. Read/write  **Single**.
+Returns or sets the height of an inline shape. Read/write **Single**.
 
 
 ## Syntax

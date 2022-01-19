@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Left property (Word)
 
-Returns a  **Long** that represents the left edge of the page. Read-only.
+Returns a **Long** that represents the left edge of the page. Read-only.
 
 
 ## Syntax

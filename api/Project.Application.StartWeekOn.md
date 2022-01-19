@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.StartWeekOn property (Project)
 
-Gets or sets the first day of the week for new projects. Read/write  **PjWeekday**.
+Gets or sets the first day of the week for new projects. Read/write **PjWeekday**.
 
 
 ## Syntax

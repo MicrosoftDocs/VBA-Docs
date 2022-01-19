@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.Tracking property (Word)
 
-Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt in relation to the width of the character. Read/write  **Single**.
+Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt in relation to the width of the character. Read/write **Single**.
 
 
 ## Syntax

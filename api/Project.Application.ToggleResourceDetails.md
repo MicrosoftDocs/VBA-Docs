@@ -33,6 +33,6 @@ _expression_. `ToggleResourceDetails`
 
 The **ToggleResourceDetails** method corresponds to selecting or clearing the **Details** check box in the **Split View** group on the **View** tab under **Resource Tools** on the ribbon, where **Resource Form** iis selected in the **Details** drop-down list.
 
-You can use  **ToggleResourceDetails** to add a **Resource Form** split view to other views except an empty Timeline view.
+You can use **ToggleResourceDetails** to add a **Resource Form** split view to other views except an empty Timeline view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,7 +17,7 @@ Returns or sets a **Variant** that represents the specified entry in a **[ComboB
 
 ## Syntax
 
-_expression_.**List**(**_pvargIndex_**,  **_pvargColumn_**)
+_expression_.**List**(**_pvargIndex_**, **_pvargColumn_**)
 
 _expression_ A variable that represents a **ComboBox** object.
 
@@ -28,8 +28,8 @@ _expression_ A variable that represents a **ComboBox** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|pvargIndex|Optional| **Variant**|An integer with a range from 0 to one less than the number of entries in the list of the  **ComboBox**.|
-|pvargColumn|Optional| **Variant**|An integer with a range from 0 to one less than the number of columns in the list of the  **ComboBox**.|
+|pvargIndex|Optional| **Variant**|An integer with a range from 0 to one less than the number of entries in the list of the **ComboBox**.|
+|pvargColumn|Optional| **Variant**|An integer with a range from 0 to one less than the number of columns in the list of the **ComboBox**.|
 
 ## Remarks
 
@@ -39,8 +39,8 @@ The **List** property works with the **[ListCount](Outlook.combobox.listcount.md
 
 Initially, a **ComboBox** contains an empty list.
 
-To specify items you want to display in a **ComboBox**, use the  **[AddItem](Outlook.combobox.additem.md)** method. To remove items, use the **[RemoveItem](Outlook.combobox.removeitem.md)** method.
+To specify items you want to display in a **ComboBox**, use the **[AddItem](Outlook.combobox.additem.md)** method. To remove items, use the **[RemoveItem](Outlook.combobox.removeitem.md)** method.
 
-Use  **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
+Use **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

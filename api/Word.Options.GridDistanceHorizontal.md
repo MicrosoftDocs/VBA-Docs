@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.GridDistanceHorizontal property (Word)
 
-Returns or sets the amount of horizontal space between the invisible gridlines that Word uses when you draw, move, and resize AutoShapes or East Asian characters in new documents. Read/write  **Single**.
+Returns or sets the amount of horizontal space between the invisible gridlines that Word uses when you draw, move, and resize AutoShapes or East Asian characters in new documents. Read/write **Single**.
 
 
 ## Syntax

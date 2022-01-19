@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OutlookBarGroup](Outlook.OutlookBarG
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example deletes all empty groups in the  **Shortcuts** pane.
+This Microsoft Visual Basic for Applications (VBA) example deletes all empty groups in the **Shortcuts** pane.
 
 
 ```vb

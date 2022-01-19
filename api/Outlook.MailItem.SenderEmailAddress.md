@@ -26,12 +26,12 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
+This property corresponds to the MAPI property **PidTagSenderEmailAddress**.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the  **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender email address in the Test folder.
+The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender email address in the Test folder.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DisplayEntryBar property (Project)
 
-Gets or sets a value that determines whether the data entry bar is visible.  **True** if the data entry bar is visible. Read/write **Boolean**.
+Gets or sets a value that determines whether the data entry bar is visible. **True** if the data entry bar is visible. Read/write **Boolean**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.CodeName property (Word)
 
-Returns the code name for the specified document. Read-only  **String**.
+Returns the code name for the specified document. Read-only **String**.
 
 
 ## Syntax

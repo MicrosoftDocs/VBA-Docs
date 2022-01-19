@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStop.Leader property (Word)
 
-Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader**.
+Returns or sets the leader for the specified **TabStop** object. Read/write **WdTabLeader**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CloseUndoTransaction method (Project)
 
-Closes an undo set for a series of operations previously created by  **[OpenUndoTransaction](Project.Application.OpenUndoTransaction.md)** method.
+Closes an undo set for a series of operations previously created by **[OpenUndoTransaction](Project.Application.OpenUndoTransaction.md)** method.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Child property (Project)
-Gets a value that indicates whether the shape is a child shape. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
+Gets a value that indicates whether the shape is a child shape. Read-only **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfFigures.LowerHeadingLevel property (Word)
 
-Returns or sets the ending heading level for a table of figures. Read/write  **Long**.
+Returns or sets the ending heading level for a table of figures. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.ForeColor property (Word)
 
-Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the line. Read/write.
+Returns or sets a **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the line. Read/write.
 
 
 ## Syntax

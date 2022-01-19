@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisRefreshSettings enumeration (Visio)
 
-Data recordset refresh constants passed to and returned by the  **[DataRecordset.RefreshSettings](Visio.DataRecordset.RefreshSettings.md)** property.
+Data recordset refresh constants passed to and returned by the **[DataRecordset.RefreshSettings](Visio.DataRecordset.RefreshSettings.md)** property.
 
 
 > [!NOTE] 
@@ -22,7 +22,7 @@ Data recordset refresh constants passed to and returned by the  **[DataRecordset
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **visRefreshNoReconcilationUI**|2|Disables display of the  **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
+| **visRefreshNoReconcilationUI**|2|Disables display of the **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made since the previous refresh operation.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

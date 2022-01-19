@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns the parent **Object** of the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-If the  **SharingItem** was just created, this property returns a **[Folder](Outlook.Folder.md)** object representing the **Inbox** folder. Otherwise, this property returns a **Folder** object representing the folder in which the **SharingItem** was saved.
+If the **SharingItem** was just created, this property returns a **[Folder](Outlook.Folder.md)** object representing the **Inbox** folder. Otherwise, this property returns a **Folder** object representing the folder in which the **SharingItem** was saved.
 
 
 ## See also

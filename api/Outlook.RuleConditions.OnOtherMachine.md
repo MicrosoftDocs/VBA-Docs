@@ -26,11 +26,11 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Remarks
 
-Use the returned  **RuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule. This rule condition indicates that the rule can run only on some machine other than the local machine.
+Use the returned **RuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule. This rule condition indicates that the rule can run only on some machine other than the local machine.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **RuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition.
+This property of the **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **RuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition.
 
-You cannot programmatically enable or disable a condition of type  **olConditionOtherMachine**. This type of rule condition indicates that the rule can run only on a specific computer that is not the current one. This happens when the rule is created on that computer and the rule condition **olConditionLocalMachineOnly** is enabled, indicating that the rule can run only on that computer. When you run the same rule on another computer, the rule will show that the condition **olConditionOtherMachine** is enabled.
+You cannot programmatically enable or disable a condition of type **olConditionOtherMachine**. This type of rule condition indicates that the rule can run only on a specific computer that is not the current one. This happens when the rule is created on that computer and the rule condition **olConditionLocalMachineOnly** is enabled, indicating that the rule can run only on that computer. When you run the same rule on another computer, the rule will show that the condition **olConditionOtherMachine** is enabled.
 
 
 ## See also

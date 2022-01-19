@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NameSpace.PickFolder method (Outlook)
 
-Displays the  **Pick Folder** dialog box.
+Displays the **Pick Folder** dialog box.
 
 
 ## Syntax

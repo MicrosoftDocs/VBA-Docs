@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReadReceiptRequested**. This property is read/write for **[SharingItem](Outlook.SharingItem.md)** objects that have been created but have not been sent or posted; it is read-only for sent **SharingItem** objects.
+This property corresponds to the MAPI property **PidTagReadReceiptRequested**. This property is read/write for **[SharingItem](Outlook.SharingItem.md)** objects that have been created but have not been sent or posted; it is read-only for sent **SharingItem** objects.
 
 
 ## See also

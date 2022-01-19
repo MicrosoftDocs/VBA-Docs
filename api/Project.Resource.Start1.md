@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Start1 property (Project)
 
-Gets or sets a Start local custom field for the resource. Read/write  **Variant**.
+Gets or sets a Start local custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

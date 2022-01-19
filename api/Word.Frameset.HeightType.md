@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frameset.HeightType property (Word)
 
-Returns or sets the width type for the specified frame on a frames page. Read/write  **WdFramesetSizeType**.
+Returns or sets the width type for the specified frame on a frames page. Read/write **WdFramesetSizeType**.
 
 
 ## Syntax

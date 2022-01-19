@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.MailItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.MailItem.ReminderSoundFile.md)** properties.
+You must set the **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.MailItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.MailItem.ReminderSoundFile.md)** properties.
 
 
 ## See also

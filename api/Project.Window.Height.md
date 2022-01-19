@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Window.Height property (Project)
 
-Gets or sets the height of a project window in points. Read/write  **Long**.
+Gets or sets the height of a project window in points. Read/write **Long**.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPageSizingBehaviors enumeration (Visio)
 
-Values for the  **DrawingControl.PageSizingBehavior** property.
+Values for the **DrawingControl.PageSizingBehavior** property.
 
 
 

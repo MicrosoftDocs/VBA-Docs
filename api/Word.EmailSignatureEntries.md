@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignatureEntries object (Word)
 
-A collection of  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** objects that represents all the email signature entries available to Word.
+A collection of **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** objects that represents all the email signature entries available to Word.
 
 
 ## Remarks

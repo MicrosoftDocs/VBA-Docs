@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TimeScaleValue.Value property (Project)
 
-Gets or sets the value of a timephased data item. Work values are in minutes. Read/write  **Variant**.
+Gets or sets the value of a timephased data item. Work values are in minutes. Read/write **Variant**.
 
 
 ## Syntax

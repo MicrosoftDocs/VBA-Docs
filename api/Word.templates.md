@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Templates object (Word)
 
-A collection of  **[Template](Word.Template.md)** objects that represent all the templates that are currently available. This collection includes open templates, templates attached to open documents, and global templates loaded in the **Templates and Add-ins** dialog box.
+A collection of **[Template](Word.Template.md)** objects that represent all the templates that are currently available. This collection includes open templates, templates attached to open documents, and global templates loaded in the **Templates and Add-ins** dialog box.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ The **Add** method isn't available for the **Templates** collection. Instead, yo
     
 - Using the **AttachedTemplate** property with the **Document** object to attach a template to a document
     
-Use  **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Dot1.dot template.
+Use **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Dot1.dot template.
 
 
 

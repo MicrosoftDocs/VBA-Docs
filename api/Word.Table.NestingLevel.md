@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.NestingLevel property (Word)
 
-Returns the nesting level of the specified table. Read-only  **Long**.
+Returns the nesting level of the specified table. Read-only **Long**.
 
 
 ## Syntax

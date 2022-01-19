@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.Name property (PowerPoint)
 
-The name of the presentation includes the file name extension (for file types that are registered) but doesn't include its path. You cannot use this property to set the name. Use the  **[SaveAs](PowerPoint.Presentation.SaveAs.md)** method to save the presentation under a different name if you need to change the name. Read-only.
+The name of the presentation includes the file name extension (for file types that are registered) but doesn't include its path. You cannot use this property to set the name. Use the **[SaveAs](PowerPoint.Presentation.SaveAs.md)** method to save the presentation under a different name if you need to change the name. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-You can use the object's name in conjunction with the  **Item** method to return a reference to the object if the **Item** method for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, `.Shapes("Rectangle 2")` returns a reference to that shape.
+You can use the object's name in conjunction with the **Item** method to return a reference to the object if the **Item** method for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, `.Shapes("Rectangle 2")` returns a reference to that shape.
 
 
 ## See also

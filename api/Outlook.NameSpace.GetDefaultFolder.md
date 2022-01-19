@@ -39,14 +39,14 @@ A **Folder** object that represents the default folder of the requested type for
 
 ## Remarks
 
-To return a specific non-default folder, use the  **[Folders](Outlook.Folders.md)** collection.
+To return a specific non-default folder, use the **[Folders](Outlook.Folders.md)** collection.
 
-If the default folder of the requested type does not exist, depending on the type, Outlook may create and return the folder, or may raise an error. For example, if  **olFolderManagedEmail** is specified as the _FolderType_ but the Managed Folders group has not been deployed, Microsoft Outlook raises an error.
+If the default folder of the requested type does not exist, depending on the type, Outlook may create and return the folder, or may raise an error. For example, if **olFolderManagedEmail** is specified as the _FolderType_ but the Managed Folders group has not been deployed, Microsoft Outlook raises an error.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property to change the displayed folder to the user's default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property to change the displayed folder to the user's default **Calendar** folder.
 
 
 ```vb

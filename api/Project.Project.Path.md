@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.Path property (Project)
 
-Gets the path of the open project. Read-only  **String**.
+Gets the path of the open project. Read-only **String**.
 
 
 ## Syntax

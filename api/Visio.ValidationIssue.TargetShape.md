@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssue.TargetShape property (Visio)
 
-Returns the  **[Shape](Visio.Shape.md)** object that is associated with the validation issue. Read-only.
+Returns the **[Shape](Visio.Shape.md)** object that is associated with the validation issue. Read-only.
 
 
 ## Syntax

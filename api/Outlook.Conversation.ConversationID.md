@@ -26,9 +26,9 @@ _expression_ A variable that represents a [Conversation](Outlook.Conversation.md
 
 ## Remarks
 
-This property associates items with a conversation. These items and the conversation all have the same value in their  **ConversationID** property.
+This property associates items with a conversation. These items and the conversation all have the same value in their **ConversationID** property.
 
-This property corresponds with the MAPI property  **PidTagConversationId**.
+This property corresponds with the MAPI property **PidTagConversationId**.
 
 
 ## See also

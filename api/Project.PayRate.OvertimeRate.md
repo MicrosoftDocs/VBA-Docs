@@ -23,6 +23,6 @@ _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object
 
 ## Remarks
 
-For a code example that sets overtime rates for a resources, see  **[OvertimeRate](Project.Resource.OvertimeRate.md)** for the **Resource** object.
+For a code example that sets overtime rates for a resources, see **[OvertimeRate](Project.Resource.OvertimeRate.md)** for the **Resource** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

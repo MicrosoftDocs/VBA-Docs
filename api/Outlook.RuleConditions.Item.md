@@ -30,7 +30,7 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule condition within the  **RuleConditions** collection. For example, the index value of the first rule condition in the collection is 1, and the index value of the second rule condition is 2.|
+| _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule condition within the **RuleConditions** collection. For example, the index value of the first rule condition in the collection is 1, and the index value of the second rule condition is 2.|
 
 ## Return value
 

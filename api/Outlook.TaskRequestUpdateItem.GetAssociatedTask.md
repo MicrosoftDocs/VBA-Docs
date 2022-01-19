@@ -34,7 +34,7 @@ _expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRe
 
 ## Return value
 
-A  **TaskItem** object that represents the requested task.
+A **TaskItem** object that represents the requested task.
 
 
 ## Remarks

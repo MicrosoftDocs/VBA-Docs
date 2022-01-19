@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.PageSetup property (Word)
 
-Returns a  **PageSetup** object that's associated with the specified range.
+Returns a **PageSetup** object that's associated with the specified range.
 
 
 ## Syntax

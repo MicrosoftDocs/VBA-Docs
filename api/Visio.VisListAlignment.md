@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisListAlignment enumeration (Visio)
 
-Specifies constants that define different ways to align shapes; passed to and returned by the  **[ContainerProperties.ListAlignment](Visio.ContainerProperties.ListAlignment.md)** property.
+Specifies constants that define different ways to align shapes; passed to and returned by the **[ContainerProperties.ListAlignment](Visio.ContainerProperties.ListAlignment.md)** property.
 
 
 

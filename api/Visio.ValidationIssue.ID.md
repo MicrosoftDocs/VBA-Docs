@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssue.ID property (Visio)
 
-Gets the identifier of the  **[ValidationIssue](Visio.ValidationIssue.md)** object assigned by Microsoft Visio. Read-only.
+Gets the identifier of the **[ValidationIssue](Visio.ValidationIssue.md)** object assigned by Microsoft Visio. Read-only.
 
 
 ## Syntax

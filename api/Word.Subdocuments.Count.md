@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Subdocuments.Count property (Word)
 
-Returns a  **Long** that represents the number of subdocuments in the collection. Read-only.
+Returns a **Long** that represents the number of subdocuments in the collection. Read-only.
 
 
 ## Syntax

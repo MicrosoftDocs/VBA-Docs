@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FirstLetterExceptions.Add method (Word)
 
-Returns a  **FirstLetterException** object that represents a new exception added to the list of AutoCorrect exceptions.
+Returns a **FirstLetterException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax

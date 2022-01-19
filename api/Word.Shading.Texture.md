@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shading.Texture property (Word)
 
-Returns or sets the shading texture for the specified object. Read/write  **WdTextureIndex**.
+Returns or sets the shading texture for the specified object. Read/write **WdTextureIndex**.
 
 
 ## Syntax

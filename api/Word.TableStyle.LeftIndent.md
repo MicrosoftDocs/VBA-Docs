@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.LeftIndent property (Word)
 
-Returns or sets a  **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
+Returns or sets a **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
 
 
 ## Syntax

@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-To get a collection of task-based  **Group2** objects, use the **[TaskGroups2](Project.Project.TaskGroups2.md)** property.
+To get a collection of task-based **Group2** objects, use the **[TaskGroups2](Project.Project.TaskGroups2.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

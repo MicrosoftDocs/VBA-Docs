@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.Type property (Visio)
 
-Returns the type of the  **Master** object. Read-only.
+Returns the type of the **Master** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ VisMasterTypes
 
 ## Remarks
 
-Type value constants for  **Master** objects (the possible values that the **Type** property of a **Master** object returns) are declared by the Visio type library in **[VisMasterTypes](Visio.vismastertypes.md)**.
+Type value constants for **Master** objects (the possible values that the **Type** property of a **Master** object returns) are declared by the Visio type library in **[VisMasterTypes](Visio.vismastertypes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

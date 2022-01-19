@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ReadingModeLayoutFrozen property (Word)
 
-Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
+Sets or returns a **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EnableCancelKey property (Project)
 
-Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write  **PjEnableCancelKey**.
+Gets or sets a value that controls how the CTRL + BREAK key combination is handled when a macro is running. Read/write **PjEnableCancelKey**.
 
 
 ## Syntax

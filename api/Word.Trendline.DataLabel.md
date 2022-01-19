@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.DataLabel property (Word)
 
-Returns the data label that is associated with the trendline. Read-only  **[DataLabel](Word.DataLabel.md)**.
+Returns the data label that is associated with the trendline. Read-only **[DataLabel](Word.DataLabel.md)**.
 
 
 ## Syntax

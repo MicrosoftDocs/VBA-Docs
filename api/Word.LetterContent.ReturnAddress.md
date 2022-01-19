@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.ReturnAddress property (Word)
 
-Returns or sets the return address for a letter created with the Letter Wizard. Read/write  **String**.
+Returns or sets the return address for a letter created with the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

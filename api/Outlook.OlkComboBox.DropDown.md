@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
 
 ## Remarks
 
-Simulates the user clicking the drop button on the control. This method causes the  **[DropButtonClick](Outlook.OlkComboBox.DropButtonClick.md)** event to fire.
+Simulates the user clicking the drop button on the control. This method causes the **[DropButtonClick](Outlook.OlkComboBox.DropButtonClick.md)** event to fire.
 
 
 ## See also

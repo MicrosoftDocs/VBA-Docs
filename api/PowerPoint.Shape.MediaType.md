@@ -31,7 +31,7 @@ PpMediaType
 
 ## Remarks
 
-The value of the  **MediaType** property can be one of these **PpMediaType** constants.
+The value of the **MediaType** property can be one of these **PpMediaType** constants.
 
 
 ||

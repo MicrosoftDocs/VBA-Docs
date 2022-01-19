@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # List.ConvertNumbersToText method (Word)
 
-Changes the list numbers and LISTNUM fields in the specified  **List** object.
+Changes the list numbers and LISTNUM fields in the specified **List** object.
 
 
 ## Syntax

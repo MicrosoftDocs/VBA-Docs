@@ -19,7 +19,7 @@ Represents access to the linked or embedded data associated with a chart.
 
 ## Remarks
 
-Use the  **[ChartData](PowerPoint.Chart.ChartData.md)** property to return the **ChartData** object.
+Use the **[ChartData](PowerPoint.Chart.ChartData.md)** property to return the **ChartData** object.
 
 
 ## Example
@@ -30,7 +30,7 @@ Use the  **[ChartData](PowerPoint.Chart.ChartData.md)** property to return the *
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example uses the  **[Activate](PowerPoint.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](PowerPoint.ChartData.Activate.md)** method to display the data associated with the first chart in the active document.
 
 
 

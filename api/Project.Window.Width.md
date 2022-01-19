@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Window.Width property (Project)
 
-Gets or sets the width in points of the window. Read/write  **Long**.
+Gets or sets the width in points of the window. Read/write **Long**.
 
 
 ## Syntax

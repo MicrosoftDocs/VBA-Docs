@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.RevisedLinesColor property (Word)
 
-Returns or sets the color of changed lines in a document with tracked changes. Read/write  **WdColorIndex**.
+Returns or sets the color of changed lines in a document with tracked changes. Read/write **WdColorIndex**.
 
 
 ## Syntax

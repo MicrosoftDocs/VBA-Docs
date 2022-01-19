@@ -30,7 +30,7 @@ _expression_ A variable that represents a [SectionProperties](PowerPoint.Section
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** collection.|
+| _sectionIndex_|Required|**Integer**|The index of the section in the **SectionProperties** collection.|
 
 ## Return value
 

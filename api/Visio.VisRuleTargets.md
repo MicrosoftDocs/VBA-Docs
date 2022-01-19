@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisRuleTargets enumeration (Visio)
 
-Specifies contants that define the target of the validation rule; passed to and returned by the  **[ValidationRule.TargetType](Visio.ValidationRule.TargetType.md)** property.
+Specifies contants that define the target of the validation rule; passed to and returned by the **[ValidationRule.TargetType](Visio.ValidationRule.TargetType.md)** property.
 
 
 

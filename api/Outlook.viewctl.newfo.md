@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.NewForm Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Choose Form** dialog box.
+Displays the Microsoft Outlook **Choose Form** dialog box.
 
 
 ## Syntax

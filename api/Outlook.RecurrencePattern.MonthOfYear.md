@@ -26,7 +26,7 @@ _expression_ A variable that represents a [RecurrencePattern](Outlook.Recurrence
 
 ## Remarks
 
-The value can be a number from 1 through 12. For example, setting this property to 5 and the  **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to **olRecursYearly** would cause this recurrence pattern to occur every May. This property is only valid for recurrence patterns whose **RecurrenceType** property is set to **olRecursYearly** or **olRecursYearNth**.
+The value can be a number from 1 through 12. For example, setting this property to 5 and the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to **olRecursYearly** would cause this recurrence pattern to occur every May. This property is only valid for recurrence patterns whose **RecurrenceType** property is set to **olRecursYearly** or **olRecursYearNth**.
 
 
 ## See also

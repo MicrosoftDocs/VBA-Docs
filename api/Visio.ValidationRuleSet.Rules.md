@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[ValidationRuleSet](Visio.Validation
 
 The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Rules** property to get the names of all the validation rules in an existing validation rule set named "Fault Tree Analysis" in the active document. The example then prints those names in the Immediate window.
+The following Visual Basic for Applications (VBA) example shows how to use the **Rules** property to get the names of all the validation rules in an existing validation rule set named "Fault Tree Analysis" in the active document. The example then prints those names in the Immediate window.
 
 
 

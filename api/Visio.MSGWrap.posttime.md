@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MSGWrap.PostTime property (Visio)
 
-Gets or sets the  **Time** member of the **MSG** structure being wrapped. Read/write.
+Gets or sets the **Time** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The  **PostTime** property corresponds to the **Time** member of the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
+The **PostTime** property corresponds to the **Time** member of the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
 
 
 

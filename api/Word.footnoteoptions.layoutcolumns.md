@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # FootnoteOptions.LayoutColumns property (Word)
 
-Returns or sets the way footnotes are laid out in columns when the section containing the reference mark has multiple columns. Read-Write  **Long**.
+Returns or sets the way footnotes are laid out in columns when the section containing the reference mark has multiple columns. Read-Write **Long**.
 
 
 ## Syntax

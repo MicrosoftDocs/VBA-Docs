@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalloutFormat.Drop property (Word)
 
-Returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single**.
+Returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only **Single**.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ Represents the data label on a chart point or trendline.
 
 ## Example
 
-Use  **[DataLabels](Word.Series.DataLabels.md)** (_index_), where _index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
+Use **[DataLabels](Word.Series.DataLabels.md)** (_index_), where _index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
 
 
 ```vb

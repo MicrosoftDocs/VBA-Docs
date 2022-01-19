@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbListType enumeration (Publisher)
 
-Constants specifying the list type of a  **ParagraphFormat** object, passed to the **SetListType** method.
+Constants specifying the list type of a **ParagraphFormat** object, passed to the **SetListType** method.
 
 
 

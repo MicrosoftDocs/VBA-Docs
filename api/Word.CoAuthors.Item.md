@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthors.Item method (Word)
 
-Returns an individual  **CoAuthor** object in a collection.
+Returns an individual **CoAuthor** object in a collection.
 
 
 ## Syntax

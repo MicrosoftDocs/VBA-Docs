@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactsModule](Outlook.ContactsModul
 
 ## Remarks
 
-This property returns  **olContactsModule** for the **[ContactsModule](Outlook.ContactsModule.md)** object.
+This property returns **olContactsModule** for the **[ContactsModule](Outlook.ContactsModule.md)** object.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GridSpaceBetweenVerticalLines property (Word)
 
-Returns or sets the interval at which Microsoft Word displays vertical character gridlines in print layout view. Read/write  **Long**.
+Returns or sets the interval at which Microsoft Word displays vertical character gridlines in print layout view. Read/write **Long**.
 
 
 ## Syntax

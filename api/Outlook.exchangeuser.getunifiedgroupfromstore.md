@@ -24,7 +24,7 @@ _expression_ A variable that represents a [ExchangeUser](Outlook.ExchangeUser.md
 
 ## Return value
 
-Returns the  **Outlook.Folder** object associated with the group using the [GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md) and **GetUnifiedGroupFromStore** members.
+Returns the **Outlook.Folder** object associated with the group using the [GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md) and **GetUnifiedGroupFromStore** members.
 
 
 ## See also

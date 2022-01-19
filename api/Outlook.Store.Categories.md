@@ -26,14 +26,14 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Remarks
 
-This property is similar to the  **[Categories](Outlook.NameSpace.Categories.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that the **Store.Categories** property applies to a session profile that specifies one or more accounts and **Store.Categories** specifies the categories for the store that an account is associated with, whereas **NameSpace.Categories** applies to a session profile that defines only one account and the **NameSpace.Categories** property specifies the Master Category List for that session.
+This property is similar to the **[Categories](Outlook.NameSpace.Categories.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that the **Store.Categories** property applies to a session profile that specifies one or more accounts and **Store.Categories** specifies the categories for the store that an account is associated with, whereas **NameSpace.Categories** applies to a session profile that defines only one account and the **NameSpace.Categories** property specifies the Master Category List for that session.
 
-For certain secondary delivery stores such as an IMAP store, the  **Categories** property returns the **Categories** collection for the primary store. IMAP stores do not actually support a separate categories collection.
+For certain secondary delivery stores such as an IMAP store, the **Categories** property returns the **Categories** collection for the primary store. IMAP stores do not actually support a separate categories collection.
 
 
 ## Example
 
-The following code sample in Microsoft Visual Basic for Applications (VBA) displays the name of each  **[Category](Outlook.Category.md)** object that is contained in the **Categories** collection associated with each **Store** object in the **[Stores](Outlook.Stores.md)** collection for the session.
+The following code sample in Microsoft Visual Basic for Applications (VBA) displays the name of each **[Category](Outlook.Category.md)** object that is contained in the **Categories** collection associated with each **Store** object in the **[Stores](Outlook.Stores.md)** collection for the session.
 
 
 ```vb

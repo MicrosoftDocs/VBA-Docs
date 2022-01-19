@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.RecipientAddress property (Word)
 
-Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String**.
+Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

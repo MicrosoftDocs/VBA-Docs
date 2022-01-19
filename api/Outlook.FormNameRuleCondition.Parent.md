@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormNameRuleCondition.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNa
 
 ## Remarks
 
-The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
+The parent object is the **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 
 ## See also

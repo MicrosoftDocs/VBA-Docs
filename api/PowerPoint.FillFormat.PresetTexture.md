@@ -31,7 +31,7 @@ MsoPresetTexture
 
 ## Remarks
 
-The value of the  **PresetTexture** property can be one of these **MsoPresetTexture** constants.
+The value of the **PresetTexture** property can be one of these **MsoPresetTexture** constants.
 
 
 ||

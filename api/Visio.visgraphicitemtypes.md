@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # VisGraphicItemTypes enumeration (Visio)
 
-Represent the types of graphic items that can be added to data graphics. Returned by the  **GraphicItem.Type** property.
+Represent the types of graphic items that can be added to data graphics. Returned by the **GraphicItem.Type** property.
 
 > [!NOTE] 
 > This Visio object or member is available only to licensed users of Visio Professional 2013.

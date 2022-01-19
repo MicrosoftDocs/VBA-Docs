@@ -35,7 +35,7 @@ End With
 
 
 > [!NOTE] 
-> There is no EmailSignatures collection; each  **[EmailOptions](Word.EmailOptions.md)** object contains only one **EmailSignature** object.
+> There is no EmailSignatures collection; each **[EmailOptions](Word.EmailOptions.md)** object contains only one **EmailSignature** object.
 
 
 ## See also

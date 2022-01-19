@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-Changing the value for the  **[AppointmentItem.Start](Outlook.AppointmentItem.Start.md)** property or the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)** property will cause Outlook to recalculate the value of **StartUTC**.
+Changing the value for the **[AppointmentItem.Start](Outlook.AppointmentItem.Start.md)** property or the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)** property will cause Outlook to recalculate the value of **StartUTC**.
 
 
 ## See also

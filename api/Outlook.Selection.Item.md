@@ -39,14 +39,14 @@ An **Object** that represents the specified item or conversation header.
 
 ## Remarks
 
-Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
+Do not make any assumptions about the **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
 
 The **[Selection](Outlook.Selection.md)** collection contains **ConversationHeader** objects only if you specify **olConversationHeaders** in the **[GetSelection](Outlook.Selection.GetSelection.md)** method of the **Selection** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object, returned by the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property, to display the senders of all messages that are selected in the active explorer.
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object, returned by the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property, to display the senders of all messages that are selected in the active explorer.
 
 
 ```vb

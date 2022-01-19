@@ -33,7 +33,7 @@ If you do not set the **InitialAddressList** property and then set **ShowOnlyIni
 
 ## Example
 
-The following code sample shows how to use  **IsInitialAddressList** and **ShowOnlyInitialAddressList** to have the **Select Names** dialog box always display only the address list in the default Contacts folder, regardless of the user's setting for the initial address list.
+The following code sample shows how to use **IsInitialAddressList** and **ShowOnlyInitialAddressList** to have the **Select Names** dialog box always display only the address list in the default Contacts folder, regardless of the user's setting for the initial address list.
 
 
 ```vb

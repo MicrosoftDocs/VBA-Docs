@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.ID property (Word)
 
-Returns a  **String** that represents the internal identification number for a building block. Read-only.
+Returns a **String** that represents the internal identification number for a building block. Read-only.
 
 
 ## Syntax

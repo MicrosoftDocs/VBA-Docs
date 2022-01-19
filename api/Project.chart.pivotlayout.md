@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.PivotLayout property (Project)
-Gets an object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only  **Object**.
+Gets an object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only **Object**.
 
 ## Syntax
 

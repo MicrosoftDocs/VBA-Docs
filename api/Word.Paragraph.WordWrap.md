@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.
 
 ## Remarks
 
-This property returns  **wdUndefined** if it's set to **True** for only some of the specified paragraphs or text frames. This usage may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+This property returns **wdUndefined** if it's set to **True** for only some of the specified paragraphs or text frames. This usage may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## Example

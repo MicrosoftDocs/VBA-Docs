@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.RightIndent property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraph. Read/write  **Single**.
+Returns or sets the right indent (in points) for the specified paragraph. Read/write **Single**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ PpTextUnitEffect
 
 ## Remarks
 
-The value of the  **TextUnitEffect** property can be one of these **PpTextUnitEffect** constants.
+The value of the **TextUnitEffect** property can be one of these **PpTextUnitEffect** constants.
 
 
 ||
@@ -41,7 +41,7 @@ The value of the  **TextUnitEffect** property can be one of these **PpTextUnitEf
 |**ppAnimateByWord**|
 |**ppAnimateUnitMixed**|
 
-For the  **TextUnitEffect** property setting to take effect, the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property for the specified shape must have a value other than **ppAnimateLevelNone** or **ppAnimateByAllLevels**, and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**.
+For the **TextUnitEffect** property setting to take effect, the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property for the specified shape must have a value other than **ppAnimateLevelNone** or **ppAnimateByAllLevels**, and the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property must be set to **True**.
 
 
 ## Example

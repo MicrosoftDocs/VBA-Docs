@@ -19,9 +19,9 @@ Represents various animation options for an **[Effect](PowerPoint.Effect.md)** o
 
 ## Remarks
 
-Use the members of the  **EffectInformation** object to return the current state of an **Effect** object, such as the after effect, whether the background animates along with its corresponding text, whether text animates in reverse, play settings, sound effects, text building behavior. All of the members of the **EffectInformation** object are read-only. To change any effect information properties, you must use the methods of the corresponding **[Sequence](PowerPoint.Sequence.md)** object.
+Use the members of the **EffectInformation** object to return the current state of an **Effect** object, such as the after effect, whether the background animates along with its corresponding text, whether text animates in reverse, play settings, sound effects, text building behavior. All of the members of the **EffectInformation** object are read-only. To change any effect information properties, you must use the methods of the corresponding **[Sequence](PowerPoint.Sequence.md)** object.
 
-Use the [EffectInformation](PowerPoint.Effect.EffectInformation.md)property of the  **Effect** object to return an **EffectInformation** object.
+Use the [EffectInformation](PowerPoint.Effect.EffectInformation.md)property of the **Effect** object to return an **EffectInformation** object.
 
 
 ## Example

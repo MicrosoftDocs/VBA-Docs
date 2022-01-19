@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PropertyAccessor.Application property (Outlook)
 
-Returns the  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
+Returns the **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectSingleNode method (Word)
 
-Returns an  **XMLNode** object that represents the first node that matches the XPath parameter in the specified document.
+Returns an **XMLNode** object that represents the first node that matches the XPath parameter in the specified document.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ XMLNode
 
 ## Remarks
 
-Setting the FastSearchSkippingTextNodes parameter to  **False** diminishes performance because Microsoft Word searches all nodes in a document against the text contained in the node.
+Setting the FastSearchSkippingTextNodes parameter to **False** diminishes performance because Microsoft Word searches all nodes in a document against the text contained in the node.
 
 
 ## Example

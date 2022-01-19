@@ -19,7 +19,7 @@ Represents the geometry and the geometry-editing properties of the nodes in a us
 
 ## Remarks
 
-Use  **Nodes** (Index), where Index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use **Nodes** (Index), where Index is the node index number, to return a single **ShapeNode** object. If node one in shape three on the active document is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 
 
 ```vb

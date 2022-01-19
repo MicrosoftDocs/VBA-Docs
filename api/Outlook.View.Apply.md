@@ -50,7 +50,7 @@ End Sub
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new view called  **New Table** and applies it.
+The following Visual Basic for Applications (VBA) example creates a new view called **New Table** and applies it.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.CompareProjectsCurrentVersionName property (Project)
 
-Gets or sets the name of the current version of a project for a comparison of project versions. Read/write  **String**.
+Gets or sets the name of the current version of a project for a comparison of project versions. Read/write **String**.
 
 
 ## Syntax

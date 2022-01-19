@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Characters.First property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the first character in the collection.
+Returns a **[Range](Word.Range.md)** object that represents the first character in the collection.
 
 
 ## Syntax

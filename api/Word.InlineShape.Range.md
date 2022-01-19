@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within an inline shape.
+Returns a **Range** object that represents the portion of a document that is contained within an inline shape.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReferences object (Word)
 
-A collection of  **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
+A collection of **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
 
 
 ## Remarks

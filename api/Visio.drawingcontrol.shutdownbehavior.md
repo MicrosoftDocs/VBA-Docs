@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.ShutDownBehavior property (Visio)
 
-Determines how the Visio Drawing Control unloads the Visio application when the  **DrawingControl** object is released. Read/write **Integer**.
+Determines how the Visio Drawing Control unloads the Visio application when the **DrawingControl** object is released. Read/write **Integer**.
 
 
 ## Syntax

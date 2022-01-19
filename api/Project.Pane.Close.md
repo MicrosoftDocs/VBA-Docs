@@ -31,7 +31,7 @@ _expression_.**Close**
 The following commands exercise the **Close** method for **Pane** objects.
 
 
-1. Create and apply a combination view named  **Combo View**.
+1. Create and apply a combination view named **Combo View**.
     
 2. Close the bottom pane.
     

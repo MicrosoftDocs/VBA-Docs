@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Callout property (Word)
 
-Returns a  **[CalloutFormat](Word.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Read-only.
+Returns a **[CalloutFormat](Word.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 ## Remarks
 
-This property applies to  **Shape** objects that represent callouts.
+This property applies to **Shape** objects that represent callouts.
 
 
 ## Example

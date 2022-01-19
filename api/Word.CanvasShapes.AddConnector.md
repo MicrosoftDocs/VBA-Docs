@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.AddConnector method (Word)
 
-Returns a  **[Shape](Word.Shape.md)** object that represents a connecting line between two shapes in a drawing canvas.
+Returns a **[Shape](Word.Shape.md)** object that represents a connecting line between two shapes in a drawing canvas.
 
 
 ## Syntax

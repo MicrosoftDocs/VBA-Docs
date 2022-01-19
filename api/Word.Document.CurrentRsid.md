@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.CurrentRsid property (Word)
 
-Returns a  **Long** that represents a random number that Word assigns to changes in a document. Read-only.
+Returns a **Long** that represents a random number that Word assigns to changes in a document. Read-only.
 
 
 ## Syntax

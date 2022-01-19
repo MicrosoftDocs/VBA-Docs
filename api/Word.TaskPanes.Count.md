@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TaskPanes.Count property (Word)
 
-Returns a  **Long** that represents the number of task panes in the collection. Read-only.
+Returns a **Long** that represents the number of task panes in the collection. Read-only.
 
 
 ## Syntax

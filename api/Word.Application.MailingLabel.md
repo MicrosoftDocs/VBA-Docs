@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MailingLabel property (Word)
 
-Returns a  **[MailingLabel](Word.MailingLabel.md)** object that represents a mailing label.
+Returns a **[MailingLabel](Word.MailingLabel.md)** object that represents a mailing label.
 
 
 ## Syntax

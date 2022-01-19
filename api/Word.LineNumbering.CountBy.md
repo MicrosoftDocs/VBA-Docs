@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineNumbering.CountBy property (Word)
 
-Returns or sets the numeric increment for line numbers. Read/write  **Long**.
+Returns or sets the numeric increment for line numbers. Read/write **Long**.
 
 
 ## Syntax

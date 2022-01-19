@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.InterpretHighAnsi property (Word)
 
-Returns or sets the high-ANSI text interpretation behavior. Read/write  **WdHighAnsiText**.
+Returns or sets the high-ANSI text interpretation behavior. Read/write **WdHighAnsiText**.
 
 
 ## Syntax

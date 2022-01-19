@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkForma
 
 ## Remarks
 
-If you use this property with a  **Shape** object that is a floating linked picture (a picture added with the **AddPicture** method of the **Shapes** object), an error occurs.
+If you use this property with a **Shape** object that is a floating linked picture (a picture added with the **AddPicture** method of the **Shapes** object), an error occurs.
 
 
 ## See also

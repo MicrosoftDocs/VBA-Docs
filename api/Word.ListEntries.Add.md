@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListEntries.Add method (Word)
 
-Returns a  **ListEntry** object that represents an item added to a drop-down form field.
+Returns a **ListEntry** object that represents an item added to a drop-down form field.
 
 
 ## Syntax

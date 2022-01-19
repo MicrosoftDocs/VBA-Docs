@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PresentationCloseFinal event (PowerPoint)
 
-Represents closing the final  **Presentation** object.
+Represents closing the final **Presentation** object.
 
 
 ## Syntax

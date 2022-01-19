@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TimeScaleValue.EndDate property (Project)
 
-The end date for a period of time that defines the timescale value. Read-only  **Variant**.
+The end date for a period of time that defines the timescale value. Read-only **Variant**.
 
 
 ## Syntax

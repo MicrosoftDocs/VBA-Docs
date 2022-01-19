@@ -26,7 +26,7 @@ _expression_.**Type**
 
 ## Remarks
 
-An error occurs if you attempt to set this property after the sharing message has been sent or received, or if you attempt to set this property to  **olSharingMsgTypeResponseAllow** or **olSharingMsgTypeResponseDeny**.
+An error occurs if you attempt to set this property after the sharing message has been sent or received, or if you attempt to set this property to **olSharingMsgTypeResponseAllow** or **olSharingMsgTypeResponseDeny**.
 
 
 ## See also

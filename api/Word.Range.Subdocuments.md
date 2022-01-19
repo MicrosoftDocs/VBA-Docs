@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Subdocuments property (Word)
 
-Returns a  **Subdocuments** collection that represents all the subdocuments in the specified range or document. Read-only.
+Returns a **Subdocuments** collection that represents all the subdocuments in the specified range or document. Read-only.
 
 
 ## Syntax

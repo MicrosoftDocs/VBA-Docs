@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Panes object (Word)
 
-A collection of  **Pane** objects that represent the window panes for a single window.
+A collection of **Pane** objects that represent the window panes for a single window.
 
 
 ## Remarks

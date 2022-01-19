@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.UserInitials property (Word)
 
-Returns or sets the user's initials, which Microsoft Word uses to construct comment marks. Read/write  **String**.
+Returns or sets the user's initials, which Microsoft Word uses to construct comment marks. Read/write **String**.
 
 
 ## Syntax

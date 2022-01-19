@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # CustomLabels object (Word)
 
-A collection of  **CustomLabel** objects available in the **Label Options** dialog box. This collection includes custom labels of all printer types (dot-matrix, laser, and ink-jet printers).
+A collection of **CustomLabel** objects available in the **Label Options** dialog box. This collection includes custom labels of all printer types (dot-matrix, laser, and ink-jet printers).
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Set ML = _
 ML.PageSize = wdCustomLabelA4
 ```
 
-Use  **[CustomLabels](Word.MailingLabel.CustomLabels.md)** (Index), where Index is the custom label name or index number, to return a single **[CustomLabel](Word.CustomLabel.md)** object. The following example creates a new document with an existing custom label layout named "My Labels."
+Use **[CustomLabels](Word.MailingLabel.CustomLabels.md)** (Index), where Index is the custom label name or index number, to return a single **[CustomLabel](Word.CustomLabel.md)** object. The following example creates a new document with an existing custom label layout named "My Labels."
 
 
 

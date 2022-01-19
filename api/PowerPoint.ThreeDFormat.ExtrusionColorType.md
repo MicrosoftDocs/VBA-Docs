@@ -31,7 +31,7 @@ MsoExtrusionColorType
 
 ## Remarks
 
-The value of the  **ExtrusionColorType** property can be one of these **MsoExtrusionColorType** constants.
+The value of the **ExtrusionColorType** property can be one of these **MsoExtrusionColorType** constants.
 
 
 

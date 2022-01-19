@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeadersFooters.Item method (Word)
 
-Returns a  **HeaderFooter** object that represents a header or footer in a range or section.
+Returns a **HeaderFooter** object that represents a header or footer in a range or section.
 
 
 ## Syntax

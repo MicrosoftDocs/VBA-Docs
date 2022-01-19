@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Frames property (Word)
 
-Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a selection. Read-only.
+Returns a **[Frames](Word.Frames.md)** collection that represents all the frames in a selection. Read-only.
 
 
 ## Syntax

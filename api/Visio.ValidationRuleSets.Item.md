@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationRuleSets.Item property (Visio)
 
-Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has the specified universal name or index position. Read-only.
+Returns the **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has the specified universal name or index position. Read-only.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ _expression_ A variable that represents a **[ValidationRuleSets](Visio.Validatio
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections.
+When retrieving objects from a collection, you can omit **Item** from the expression because it is the default property for all collections.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

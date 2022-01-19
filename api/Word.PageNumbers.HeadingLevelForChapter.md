@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageNumbers.HeadingLevelForChapter property (Word)
 
-Returns or sets the heading level style that's applied to the chapter titles in the document. Read/write  **Long**.
+Returns or sets the heading level style that's applied to the chapter titles in the document. Read/write **Long**.
 
 
 ## Syntax

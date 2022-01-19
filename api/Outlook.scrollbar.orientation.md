@@ -24,7 +24,7 @@ _expression_ A variable that represents a **ScrollBar** object.
 
 ## Remarks
 
-The settings for  **Orientation** are:
+The settings for **Orientation** are:
 
 
 

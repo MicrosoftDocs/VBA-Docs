@@ -32,7 +32,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The date of availability, starting at midnight.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. Default is 30 minutes.|
-| _CompleteFormat_|Optional| **Variant**|A value of  **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
+| _CompleteFormat_|Optional| **Variant**|A value of **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
 
 ## Return value
 
@@ -41,7 +41,7 @@ A **String** that represents the availability of the Exchange user for a period 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **GetFreeBusy** method to retrieve the free/busy information, with each time slot representing a 60 minute period, for the manager assigned to the current user. The example then uses that information to calculate the date and time on which the first free period occurs, and displays that information in the **Debug** window.
+The following Visual Basic for Applications (VBA) example uses the **GetFreeBusy** method to retrieve the free/busy information, with each time slot representing a 60 minute period, for the manager assigned to the current user. The example then uses that information to calculate the date and time on which the first free period occurs, and displays that information in the **Debug** window.
 
 
 ```vb

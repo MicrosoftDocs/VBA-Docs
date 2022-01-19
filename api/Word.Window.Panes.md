@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Panes property (Word)
 
-Returns a  **[Panes](Word.panes.md)** collection that represents all the window panes for the specified window.
+Returns a **[Panes](Word.panes.md)** collection that represents all the window panes for the specified window.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.RelativeHorizontalPosition property (Word)
 
-Specifies the relative horizontal position of a frame. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
+Specifies the relative horizontal position of a frame. Read/write **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax

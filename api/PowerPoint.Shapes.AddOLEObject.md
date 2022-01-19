@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 | _IconFileName_|Optional|**String**|The file that contains the icon to be displayed.|
 | _IconIndex_|Optional|**Long**|The index of the icon within IconFileName. The first icon in the file has the index number 0 (zero). If an icon with the given index number doesn't exist in IconFileName, the icon with the index number 1 (the second icon in the file) is used. The default value is 0 (zero).|
 | _IconLabel_|Optional|**String**|A label (caption) to be displayed beneath the icon.|
-| _Link_|Optional|**[MsoTriState](Office.MsoTriState.md)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
+| _Link_|Optional|**[MsoTriState](Office.MsoTriState.md)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be **msoFalse**.|
 
 ## Return value
 

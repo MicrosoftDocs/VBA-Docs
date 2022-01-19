@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControlListEntry.Text property (Word)
 
-Returns or sets a  **String** that represents the display text of a list item for a drop-down list or combo box content control. Read/write.
+Returns or sets a **String** that represents the display text of a list item for a drop-down list or combo box content control. Read/write.
 
 
 ## Syntax

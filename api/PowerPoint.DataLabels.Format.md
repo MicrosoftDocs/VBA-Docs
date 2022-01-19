@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabels.Format property (PowerPoint)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](PowerPoint.ChartFormat.md)**.
+Returns the line, fill, and effect formatting for the object. Read-only **[ChartFormat](PowerPoint.ChartFormat.md)**.
 
 
 ## Syntax

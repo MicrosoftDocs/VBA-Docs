@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeadingStyles.Add method (Word)
 
-Returns a  **HeadingStyle** object that represents a new heading style added to a document. The new heading style will be included whenever you compile a table of contents or table of figures.
+Returns a **HeadingStyle** object that represents a new heading style added to a document. The new heading style will be included whenever you compile a table of contents or table of figures.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[HeadingStyles](Word.headin
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a  **Style** object.|
+| _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a **Style** object.|
 | _Level_|Required| **Integer**|A number that represents the level of the heading.|
 
 ## Return value

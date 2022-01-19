@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.RemainingCost property (Project)
 
-Gets the remaining cost for the assignment. Read-only  **Variant**.
+Gets the remaining cost for the assignment. Read-only **Variant**.
 
 
 ## Syntax

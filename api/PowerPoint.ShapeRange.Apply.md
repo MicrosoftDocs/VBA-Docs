@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Apply method (PowerPoint)
 
-Applies to the specified shape range formatting that's been copied by using the  **PickUp** method.
+Applies to the specified shape range formatting that's been copied by using the **PickUp** method.
 
 
 ## Syntax

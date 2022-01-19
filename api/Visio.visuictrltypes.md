@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUICtrlTypes enumeration (Visio)
 
-Constants that describe control types, used in conjuction with the  **CntrlType** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
+Constants that describe control types, used in conjuction with the **CntrlType** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 
 
 > [!NOTE] 

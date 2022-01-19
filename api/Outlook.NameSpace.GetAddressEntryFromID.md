@@ -39,7 +39,7 @@ An **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property t
 
 ## Remarks
 
-This method is similar to the  **[GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)** method of the **[Account](Outlook.Account.md)** object. Use this method if there is only the primary Exchange account in the current profile. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetAddressEntryFromID** method for the corresponding account.
+This method is similar to the **[GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)** method of the **[Account](Outlook.Account.md)** object. Use this method if there is only the primary Exchange account in the current profile. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetAddressEntryFromID** method for the corresponding account.
 
 The **ID** property for an **AddressEntry** is a permanent, unique string identifier that the transport provider assigns when an **AddressEntry** is created.
 

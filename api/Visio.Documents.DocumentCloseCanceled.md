@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Documents.DocumentCloseCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelDocumentClose** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelDocumentClose** event.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Tables object (Word)
 
-A collection of  **[Table](Word.Table.md)** objects that represent the tables in a selection, range, or document.
+A collection of **[Table](Word.Table.md)** objects that represent the tables in a selection, range, or document.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ Set myRange = ActiveDocument.Range(Start:=0, End:=0)
 ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 ```
 
-Use  **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
+Use **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
 
 
 

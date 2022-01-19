@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row.Delete method (PowerPoint)
 
-Deletes the specified  **Row** object.
+Deletes the specified **Row** object.
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Represents an assignment for a task or resource. The **Assignment** object is a 
 
  **Using the Assignment Object**
 
-Use  **Assignments** (_index_), where _index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
+Use **Assignments** (_index_), where _index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
 
 
 

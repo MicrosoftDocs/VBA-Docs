@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisMasterTypes enumeration (Visio)
 
-Master-type constants passed to the  **[Masters.AddEx](Visio.Masters.AddEx.md)** method.
+Master-type constants passed to the **[Masters.AddEx](Visio.Masters.AddEx.md)** method.
 
 
 

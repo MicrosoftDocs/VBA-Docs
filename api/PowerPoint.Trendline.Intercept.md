@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Intercept property (PowerPoint)
 
-Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
+Returns or sets the point where the trendline crosses the value axis. Read/write **Double**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)'
 
 ## Remarks
 
-Setting this property sets the  **[InterceptIsAuto](PowerPoint.Trendline.InterceptIsAuto.md)** property to **False**.
+Setting this property sets the **[InterceptIsAuto](PowerPoint.Trendline.InterceptIsAuto.md)** property to **False**.
 
 
 ## Example

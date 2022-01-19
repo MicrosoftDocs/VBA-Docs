@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeDistributionList.Parent property (Outlook)
 
-Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
+Returns the parent **Object** of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax

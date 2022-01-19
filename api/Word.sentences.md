@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Sentences object (Word)
 
-A collection of  **[Range](Word.Range.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
+A collection of **[Range](Word.Range.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
 
 
 ## Remarks
@@ -21,7 +21,7 @@ Use the **Sentences** property to return the **Sentences** collection. The follo
 MsgBox Selection.Sentences.Count & " sentences are selected"
 ```
 
-Use  **Sentences** (Index), where Index is the index number, to return a **Range** object that represents a sentence. The index number represents the position of a sentence in the **Sentences** collection. The following example formats the first sentence in the active document.
+Use **Sentences** (Index), where Index is the index number, to return a **Range** object that represents a sentence. The index number represents the position of a sentence in the **Sentences** collection. The following example formats the first sentence in the active document.
 
 
 

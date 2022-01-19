@@ -39,7 +39,7 @@ You cannot nest one undo transaction within another.
 
 ## Example
 
-The following example demonstrates using the **OpenUndoTransaction** method to create an undo transaction set. After you run the macro, the task named **Task outside transaction** shows as the item **Insert Task** in the **Undo** drop-down list on the **Quick Access Toolbar**. The six tasks named  **UndoMe 1** to **UndoMe 6** show as **Create 6 tasks** in the **Undo** list.
+The following example demonstrates using the **OpenUndoTransaction** method to create an undo transaction set. After you run the macro, the task named **Task outside transaction** shows as the item **Insert Task** in the **Undo** drop-down list on the **Quick Access Toolbar**. The six tasks named **UndoMe 1** to **UndoMe 6** show as **Create 6 tasks** in the **Undo** list.
 
 
 ```vb

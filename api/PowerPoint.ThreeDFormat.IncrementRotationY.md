@@ -34,11 +34,11 @@ _expression_ A variable that represents an [ThreeDFormat](PowerPoint.ThreeDForma
 
 ## Remarks
 
-Use the  **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
+Use the **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 
-To change the rotation of a shape around the x-axis, use the  **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotation](PowerPoint.Shape.IncrementRotation.md)** method.
+To change the rotation of a shape around the x-axis, use the **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotation](PowerPoint.Shape.IncrementRotation.md)** method.
 
-You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the  **RotationY** property (90 degrees to -90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
+You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the **RotationY** property (90 degrees to -90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
 
 
 ## Example

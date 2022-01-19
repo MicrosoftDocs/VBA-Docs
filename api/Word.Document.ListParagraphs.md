@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ListParagraphs property (Word)
 
-Returns a  **ListParagraphs** object that represents all the numbered paragraphs in a document. Read-only.
+Returns a **ListParagraphs** object that represents all the numbered paragraphs in a document. Read-only.
 
 
 ## Syntax

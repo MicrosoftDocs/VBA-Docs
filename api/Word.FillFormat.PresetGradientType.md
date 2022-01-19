@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.PresetGradientType property (Word)
 
-Returns the preset gradient type for the specified fill. Read-only  **MsoPresetGradientType**.
+Returns the preset gradient type for the specified fill. Read-only **MsoPresetGradientType**.
 
 
 ## Syntax

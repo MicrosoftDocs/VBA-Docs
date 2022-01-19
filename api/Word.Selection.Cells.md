@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Cells property (Word)
 
-Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a selection. Read-only.
+Returns a **[Cells](Word.cells.md)** collection that represents the table cells in a selection. Read-only.
 
 
 ## Syntax

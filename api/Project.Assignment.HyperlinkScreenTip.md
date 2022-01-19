@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.HyperlinkScreenTip property (Project)
 
-Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
+Gets or sets a ScreenTip for the hyperlink. Read/write **String**.
 
 
 ## Syntax

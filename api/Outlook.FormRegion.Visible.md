@@ -28,7 +28,7 @@ _expression_ A variable that represents a '[FormRegion](Outlook.FormRegion.md)' 
 
  **True** if the form region is visible; **False** if it is hidden. The default is **True**.
 
-Use the  **Visible** property to control access to information without displaying it in a form region.
+Use the **Visible** property to control access to information without displaying it in a form region.
 
 
 ## See also

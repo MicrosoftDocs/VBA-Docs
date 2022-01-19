@@ -26,14 +26,14 @@ _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) obje
 
 ## Remarks
 
-A reminder can be removed from the  **Reminders** collection by any of the following means:
+A reminder can be removed from the **Reminders** collection by any of the following means:
 
 
 - The **Reminders** collection's **[Remove](Outlook.Reminders.Remove.md)** method.
     
 - The **Reminder** object's **[Dismiss](Outlook.Reminder.Dismiss.md)** method.
     
-- When the user clicks the  **Dismiss** button.
+- When the user clicks the **Dismiss** button.
     
 - When a user turns off a meeting reminder from within the associated item.
     

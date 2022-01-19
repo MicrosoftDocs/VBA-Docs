@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # NamedSlideShows object (PowerPoint)
 
-A collection of all the  **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** objects in the presentation. Each **NamedSlideShow** object represents a custom slide show.
+A collection of all the **[NamedSlideShow](PowerPoint.NamedSlideShow.md)** objects in the presentation. Each **NamedSlideShow** object represents a custom slide show.
 
 
 ## Example
 
-Use the [NamedSlideShows](PowerPoint.SlideShowSettings.NamedSlideShows.md)property to return the  **NamedSlideShows** collection. Use **NamedSlideShows** (_index_), where _index_ is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
+Use the [NamedSlideShows](PowerPoint.SlideShowSettings.NamedSlideShows.md)property to return the **NamedSlideShows** collection. Use **NamedSlideShows** (_index_), where _index_ is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
 
 
 ```vb
@@ -27,7 +27,7 @@ ActivePresentation.SlideShowSettings _
     .NamedSlideShows("Quick Show").Delete
 ```
 
-Use the [Add](PowerPoint.NamedSlideShows.Add.md)method to create a new slide show and add it to the  **NamedSlideShows** collection. The following example adds to the active presentation the named slide show "Quick Show" that contains slides 2, 7, and 9. The example then runs this custom slide show.
+Use the [Add](PowerPoint.NamedSlideShows.Add.md)method to create a new slide show and add it to the **NamedSlideShows** collection. The following example adds to the active presentation the named slide show "Quick Show" that contains slides 2, 7, and 9. The example then runs this custom slide show.
 
 
 

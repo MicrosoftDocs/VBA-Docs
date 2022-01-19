@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FontNames property (Word)
 
-Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available fonts. Read-only.
+Returns a **[FontNames](Word.FontNames.md)** object that includes the names of all the available fonts. Read-only.
 
 
 ## Syntax

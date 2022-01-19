@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Editors property (Word)
 
-Returns an  **[Editors](Word.Editors.md)** object that represents all the users authorized to modify a selection within a document.
+Returns an **[Editors](Word.Editors.md)** object that represents all the users authorized to modify a selection within a document.
 
 
 ## Syntax

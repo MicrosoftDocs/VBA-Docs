@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Nary property (Word)
 
-Returns an  **[OMathNary](Word.OMathNary.md)** object that represents the n-ary operation. Read-only.
+Returns an **[OMathNary](Word.OMathNary.md)** object that represents the n-ary operation. Read-only.
 
 
 ## Syntax

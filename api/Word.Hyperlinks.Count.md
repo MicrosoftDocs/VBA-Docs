@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlinks.Count property (Word)
 
-Returns a  **Long** that represents the number of hyperlinks in the collection. Read-only.
+Returns a **Long** that represents the number of hyperlinks in the collection. Read-only.
 
 
 ## Syntax

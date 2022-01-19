@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.MaterialLabel property (Project)
 
-Gets or sets the label for a material resource. Read/write  **String**.
+Gets or sets the label for a material resource. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.ReplyAll method (Outlook)
 
-Creates a reply to all original recipients from the original  **[SharingItem](Outlook.SharingItem.md)**.
+Creates a reply to all original recipients from the original **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

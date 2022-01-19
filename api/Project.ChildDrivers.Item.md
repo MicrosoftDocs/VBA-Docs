@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChildDrivers.Item property (Project)
 
-Gets a single  **Task** object from the **ChildDrivers** collection. Read-only **Task**.
+Gets a single **Task** object from the **ChildDrivers** collection. Read-only **Task**.
 
 
 ## Syntax

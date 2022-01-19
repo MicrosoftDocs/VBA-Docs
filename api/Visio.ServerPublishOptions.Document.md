@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ServerPublishOptions.Document property (Visio)
 
-Gets the  **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
+Gets the **[Document](Visio.Document.md)** object that is associated with an object. Read-only.
 
 
 > [!NOTE] 

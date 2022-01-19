@@ -21,7 +21,7 @@ _expression_ A variable that represents an **OptionButton** object.
 
 ## Remarks
 
-The settings for  **TextAlign** are:
+The settings for **TextAlign** are:
 
 
 

@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-Use the  **[Replace](PowerPoint.Fonts.Replace.md)** method to change the font that's applied to all text and that appears in the **Font** box on the **Font** tab.
+Use the **[Replace](PowerPoint.Fonts.Replace.md)** method to change the font that's applied to all text and that appears in the **Font** box on the **Font** tab.
 
 
 ## Example

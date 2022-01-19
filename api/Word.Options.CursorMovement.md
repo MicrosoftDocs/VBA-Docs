@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.CursorMovement property (Word)
 
-Returns or sets how the insertion point progresses within bidirectional text. Read/write  **WdCursorMovement**.
+Returns or sets how the insertion point progresses within bidirectional text. Read/write **WdCursorMovement**.
 
 
 ## Syntax

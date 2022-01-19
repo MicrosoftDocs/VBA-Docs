@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Description property (Word)
 
-Returns or sets a  **String** that represents the description for a building block. Read/write.
+Returns or sets a **String** that represents the description for a building block. Read/write.
 
 
 ## Syntax

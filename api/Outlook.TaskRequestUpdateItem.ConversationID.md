@@ -26,11 +26,11 @@ _expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRe
 
 ## Remarks
 
-This property associates items with a conversation. These items and the conversation all have the same value in their  **ConversationID** property.
+This property associates items with a conversation. These items and the conversation all have the same value in their **ConversationID** property.
 
-This property corresponds with the MAPI property  **PidTagConversationId**.
+This property corresponds with the MAPI property **PidTagConversationId**.
 
-If the  **TaskRequestUpdateItem** object is created in a version of Microsoft Outlook earlier than Outlook 2013, or if Outlook is running in online mode against a version of Microsoft Exchange Server earlier than Microsoft Exchange Server 2010, this property returns the same value as the **[ConversationTopic](Outlook.AppointmentItem.ConversationTopic.md)** property.
+If the **TaskRequestUpdateItem** object is created in a version of Microsoft Outlook earlier than Outlook 2013, or if Outlook is running in online mode against a version of Microsoft Exchange Server earlier than Microsoft Exchange Server 2010, this property returns the same value as the **[ConversationTopic](Outlook.AppointmentItem.ConversationTopic.md)** property.
 
 
 ## See also

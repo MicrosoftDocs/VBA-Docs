@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Envelope.ReturnAddress property (Word)
 
-Returns a  **Range** object that represents the envelope return address.
+Returns a **Range** object that represents the envelope return address.
 
 
 ## Syntax

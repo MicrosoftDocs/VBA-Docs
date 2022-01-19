@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.SoftEdge property (Word)
 
-Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
+Returns a **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
 
 
 ## Syntax

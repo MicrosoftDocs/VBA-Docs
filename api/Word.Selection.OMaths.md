@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.OMaths property (Word)
 
-Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the current selection. Read-only.
+Returns an **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the current selection. Read-only.
 
 
 ## Syntax

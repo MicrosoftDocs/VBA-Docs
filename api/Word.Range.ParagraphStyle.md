@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ParagraphStyle property (Word)
 
-Returns a  **Variant** that represents the style used to format a paragraph. Read-only.
+Returns a **Variant** that represents the style used to format a paragraph. Read-only.
 
 
 ## Syntax

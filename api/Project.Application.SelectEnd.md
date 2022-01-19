@@ -39,6 +39,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-In the Resource Graph,  **SelectEnd** selects the resource with the highest identification number. In the Network Diagram, **SelectEnd** selects the box closest to the lower-right corner of the view. The **SelectEnd** method is not available when the Calendar view is active.
+In the Resource Graph, **SelectEnd** selects the resource with the highest identification number. In the Network Diagram, **SelectEnd** selects the box closest to the lower-right corner of the view. The **SelectEnd** method is not available when the Calendar view is active.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

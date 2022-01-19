@@ -9,13 +9,13 @@ ms.localizationpriority: medium
 
 # OutlineCodes object (Project)
 
-Contains a collection of  **[OutlineCode](Project.OutlineCode.md)** objects.
+Contains a collection of **[OutlineCode](Project.OutlineCode.md)** objects.
  
 
 
 ## Remarks
 
-An outline code is a type of local custom field that has a hierarchical text lookup table. Enterprise custom fields of type  **Text** that have hierarchical lookup tables act as outline codes. Use the **[OutlineCodes](Project.Project.OutlineCodes.md)** property to return an **OutlineCodes** collection. Use the **[Add](Project.OutlineCodes.Add.md)** method to add a local outline code to the **OutlineCodes** collection. To add an enterprise custom field, you must use Project Web App or the Project Server Interface (PSI).
+An outline code is a type of local custom field that has a hierarchical text lookup table. Enterprise custom fields of type **Text** that have hierarchical lookup tables act as outline codes. Use the **[OutlineCodes](Project.Project.OutlineCodes.md)** property to return an **OutlineCodes** collection. Use the **[Add](Project.OutlineCodes.Add.md)** method to add a local outline code to the **OutlineCodes** collection. To add an enterprise custom field, you must use Project Web App or the Project Server Interface (PSI).
  
 
  

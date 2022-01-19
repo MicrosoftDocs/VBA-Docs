@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SoftEdgeFormat.Radius property (Word)
 
-Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a soft edge effect. Read/write.
 
 
 ## Syntax

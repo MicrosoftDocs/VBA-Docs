@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.DataTable property (PowerPoint)
 
-Returns the chart data table. Read-only  **[DataTable](PowerPoint.DataTable.md)**.
+Returns the chart data table. Read-only **[DataTable](PowerPoint.DataTable.md)**.
 
 
 ## Syntax

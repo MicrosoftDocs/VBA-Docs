@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.Windows property (Word)
 
-Returns a  **Windows** collection that represents all open document windows. Read-only.
+Returns a **Windows** collection that represents all open document windows. Read-only.
 
 
 ## Syntax

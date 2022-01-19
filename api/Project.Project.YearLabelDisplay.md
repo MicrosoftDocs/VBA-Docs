@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.YearLabelDisplay property (Project)
 
-Gets or sets how the year label displays in rates. Read/write  **Integer**.
+Gets or sets how the year label displays in rates. Read/write **Integer**.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ The **AvailableTo** property does not return any meaningful information for mate
 
 ## Example
 
-The following line of code prints the latest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date before the next nearest  **Available From** date. If no subsequent availability dates are defined, the code prints "NA".
+The following line of code prints the latest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date before the next nearest **Available From** date. If no subsequent availability dates are defined, the code prints "NA".
 
 
 ```vb

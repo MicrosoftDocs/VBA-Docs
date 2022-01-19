@@ -31,7 +31,7 @@ Shape
 
 ## Remarks
 
-This method will cause an error if you haven't previously deleted the title placeholder from the specified slide. Use the  **[HasTitle](PowerPoint.Shapes.HasTitle.md)** property to determine whether the title placeholder has been deleted.
+This method will cause an error if you haven't previously deleted the title placeholder from the specified slide. Use the **[HasTitle](PowerPoint.Shapes.HasTitle.md)** property to determine whether the title placeholder has been deleted.
 
 
 ## Example

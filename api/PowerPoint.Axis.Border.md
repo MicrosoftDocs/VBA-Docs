@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.Border property (PowerPoint)
 
-Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBorder.md)**.
+Returns the border of the object. Read-only **[ChartBorder](PowerPoint.ChartBorder.md)**.
 
 
 ## Syntax

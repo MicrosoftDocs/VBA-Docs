@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Ungroup method (Word)
 
-Ungroups any grouped shapes in the specified range of shapes, disassembles pictures and OLE objects within the specified shape or range of shapes, and returns the ungrouped shapes as a single  **ShapeRange** object.
+Ungroups any grouped shapes in the specified range of shapes, disassembles pictures and OLE objects within the specified shape or range of shapes, and returns the ungrouped shapes as a single **ShapeRange** object.
 
 
 ## Syntax

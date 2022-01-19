@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Style property (Word)
 
-Returns a  **Style** object that represents the style associated with a revision mark.
+Returns a **Style** object that represents the style associated with a revision mark.
 
 
 ## Syntax

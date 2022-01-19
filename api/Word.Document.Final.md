@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Final property (Word)
 
-Returns or sets a  **Boolean** that indicates whether a document is final. Read/write.
+Returns or sets a **Boolean** that indicates whether a document is final. Read/write.
 
 
 ## Syntax

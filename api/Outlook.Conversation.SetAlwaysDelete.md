@@ -39,12 +39,12 @@ The **SetAlwaysDelete** method operates on conversation items in the delivery st
 
 If the  _AlwaysDelete_ parameter is **olAlwaysDelete**, conversation items are moved to the Deleted Items folder for the specified store. In this case, the items are not permanently deleted, unless the user has specified a separate option to permanently delete items when Microsoft Outlook shuts down.
 
-If  **SetAlwaysDelete** returns **olDoNotDelete**, existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
+If **SetAlwaysDelete** returns **olDoNotDelete**, existing conversation items and new items that arrive in the conversation are not moved to the Deleted Items folder in the specified delivery store, and existing conversation items in the Deleted Items folder are moved to the Inbox.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to set the always-delete setting for the conversation of a specific mail item. The code example,  `DemoSetAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item.  `DemoSetAlwaysDelete` verifies that conversations are enabled in the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to always move existing and new items for that conversation to the Deleted Items folder in the same store.
+The following Visual Basic for Applications (VBA) example shows how to set the always-delete setting for the conversation of a specific mail item. The code example, `DemoSetAlwaysDelete`, chooses the first mail item displayed in the Reading Pane as the specific mail item. `DemoSetAlwaysDelete` verifies that conversations are enabled in the store for the mail item, obtains the conversation that involves that mail item if a conversation exists, and uses **SetAlwaysDelete** to always move existing and new items for that conversation to the Deleted Items folder in the same store.
 
 
 ```vb

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Windows object (Word)
 
-A collection of  **[Window](Word.Window.md)** objects that represent all the available windows. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Document** object contains only the windows that display the specified document.
+A collection of **[Window](Word.Window.md)** objects that represent all the available windows. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Document** object contains only the windows that display the specified document.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ NewWindow
 Windows.Add
 ```
 
-Use  **Windows** (Index), where Index is the window name or the index number, to return a single **Window** object. The following example maximizes the Document1 window.
+Use **Windows** (Index), where Index is the window name or the index number, to return a single **Window** object. The following example maximizes the Document1 window.
 
 
 

@@ -19,7 +19,7 @@ Represents a single list format that's been applied to specified paragraphs in a
 
 ## Remarks
 
-Use  **Lists** (Index), where Index is the index number, to return a single **List** object. The following example returns the number of items in list one in the active document.
+Use **Lists** (Index), where Index is the index number, to return a single **List** object. The following example returns the number of items in list one in the active document.
 
 
 ```vb
@@ -36,7 +36,7 @@ Use the **CountNumberedItems** method to return the number of items in a numbere
 
 To determine whether a list contains more than one list template, use the **SingleListTemplate** property.
 
-You can manipulate the individual  **List** objects within a document, but for more precise control you should work with the **ListFormat** object.
+You can manipulate the individual **List** objects within a document, but for more precise control you should work with the **ListFormat** object.
 
 
 > [!NOTE] 

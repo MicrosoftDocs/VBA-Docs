@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat.Brightness property (Word)
 
-Returns a  **Single** that represents the brightness of a specified shape color. Read/write.
+Returns a **Single** that represents the brightness of a specified shape color. Read/write.
 
 
 ## Syntax

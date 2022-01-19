@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FromRssFeedRuleCondition.FromRssFeed property (Outlook)
 
-Returns or sets an array of  **String** elements that represent the RSS subscriptions that are being evaluated by the rule condition. Read/write.
+Returns or sets an array of **String** elements that represent the RSS subscriptions that are being evaluated by the rule condition. Read/write.
 
 
 ## Syntax

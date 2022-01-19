@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SyncObjects.AppFolders property (Outlook)
 
-This property returns the  **SyncObject** object for application folders. Read-only.
+This property returns the **SyncObject** object for application folders. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The **SyncObject** is where folders are automatically added when the **InAppFold
 
 ## Example
 
-The following example sets the  **SyncObject** for the application folders and synchronizes the user's Inbox.
+The following example sets the **SyncObject** for the application folders and synchronizes the user's Inbox.
 
 
 ```vb

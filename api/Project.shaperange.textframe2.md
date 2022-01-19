@@ -19,7 +19,7 @@ _expression_ A variable that represents a 'ShapeRange' object.
 
 ## Remarks
 
-A **TextFrame2** object contains many of the same properties as a **TextFrame** object, plus additional properties such as **AutoSize**,  **ThreeD**, and  **WordArtformat**.
+A **TextFrame2** object contains many of the same properties as a **TextFrame** object, plus additional properties such as **AutoSize**, **ThreeD**, and **WordArtformat**.
 
 
 ## Example

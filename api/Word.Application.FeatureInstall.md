@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FeatureInstall property (Word)
 
-Returns or sets how Microsoft Word handles calls to methods and properties that require features not yet installed. Read/write  **MsoFeatureInstall**.
+Returns or sets how Microsoft Word handles calls to methods and properties that require features not yet installed. Read/write **MsoFeatureInstall**.
 
 
 ## Syntax

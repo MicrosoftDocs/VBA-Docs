@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssue.Delete method (Visio)
 
-Deletes the  **[ValidationIssue](Visio.ValidationIssue.md)** object from the document.
+Deletes the **[ValidationIssue](Visio.ValidationIssue.md)** object from the document.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[ValidationIssue](Visio.ValidationIs
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Delete** method to delete validation issues that belong to a particular validation rule set.
+The following Visual Basic for Applications (VBA) example shows how to use the **Delete** method to delete validation issues that belong to a particular validation rule set.
 
 
 ```vb

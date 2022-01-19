@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivision.SpaceAfter property (Word)
 
-Returns or sets the amount of spacing (in points) after the specified HTML DIV element. Read/write  **Single**.
+Returns or sets the amount of spacing (in points) after the specified HTML DIV element. Read/write **Single**.
 
 
 ## Syntax

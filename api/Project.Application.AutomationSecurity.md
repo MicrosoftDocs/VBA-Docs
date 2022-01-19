@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.AutomationSecurity property (Project)
 
-Gets or sets a value that represents the security mode that Project uses when programmatically opening files. Read/write  **MsoAutomationSecurity**.
+Gets or sets a value that represents the security mode that Project uses when programmatically opening files. Read/write **MsoAutomationSecurity**.
 
 
 ## Syntax

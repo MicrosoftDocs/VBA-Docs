@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DataLabels.VerticalAlignment property (PowerPoint)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
+Returns or sets the vertical alignment of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -23,18 +23,18 @@ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
+You can set the value of this property to one of the following **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 

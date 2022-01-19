@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # SplitParts object (Project)
 
-Contains a collection of  **[SplitPart](Project.SplitPart.md)** objects.
+Contains a collection of **[SplitPart](Project.SplitPart.md)** objects.
  
 
 
@@ -19,7 +19,7 @@ Contains a collection of  **[SplitPart](Project.SplitPart.md)** objects.
  
 
  
-Use  **SplitParts** (*Index* ), where*Index* is the index number of the task index number, to return a single **SplitPart** object. The following example lists the start and finish times of each task portion of the task in the active cell.
+Use **SplitParts** (*Index* ), where*Index* is the index number of the task index number, to return a single **SplitPart** object. The following example lists the start and finish times of each task portion of the task in the active cell.
  
 
  

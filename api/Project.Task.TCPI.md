@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.TCPI property (Project)
 
-Gets the TCPI (to complete performance index) value for the task. Read-only  **Double**.
+Gets the TCPI (to complete performance index) value for the task. Read-only **Double**.
 
 
 ## Syntax

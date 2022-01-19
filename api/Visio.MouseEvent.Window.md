@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MouseEvent.Window property (Visio)
 
-Returns the window associated with a  **MouseEvent** object. Read-only.
+Returns the window associated with a **MouseEvent** object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Window
 
 ## Remarks
 
-For the  **KeyboardEvent** object, the **Window** property returns the window associated with the event represented by the object.
+For the **KeyboardEvent** object, the **Window** property returns the window associated with the event represented by the object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

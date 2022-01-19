@@ -35,7 +35,7 @@ The **Creator** property is designed to be used in Microsoft Office applications
 
 ## Example
 
-This example displays a message about the creator of the  **TextFrame2** object.
+This example displays a message about the creator of the **TextFrame2** object.
 
 
 ```vb

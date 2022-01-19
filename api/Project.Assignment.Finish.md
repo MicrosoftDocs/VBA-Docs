@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Finish property (Project)
 
-Gets or sets the finish date of an assignment. Read/write  **Variant**.
+Gets or sets the finish date of an assignment. Read/write **Variant**.
 
 
 ## Syntax

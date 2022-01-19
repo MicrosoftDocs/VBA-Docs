@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resources.Item property (Project)
 
-Gets a single  **Resource** object from the **Resources** collection. Read-only **Resource**.
+Gets a single **Resource** object from the **Resources** collection. Read-only **Resource**.
 
 
 ## Syntax

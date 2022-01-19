@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.AddTextEffect method (Word)
 
-Adds a WordArt shape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the WordArt.
+Adds a WordArt shape to a drawing canvas. Returns a **[Shape](Word.Shape.md)** object that represents the WordArt.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_. `ShowFirstPageNumber`
 
 ## Remarks
 
-Setting this property to  **True** automatically adds page numbers to a section.
+Setting this property to **True** automatically adds page numbers to a section.
 
 
 ## Example

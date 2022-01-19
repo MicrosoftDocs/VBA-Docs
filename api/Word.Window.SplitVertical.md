@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.SplitVertical property (Word)
 
-Returns or sets the vertical split percentage for the specified window. Read/write  **Long**.
+Returns or sets the vertical split percentage for the specified window. Read/write **Long**.
 
 
 ## Syntax

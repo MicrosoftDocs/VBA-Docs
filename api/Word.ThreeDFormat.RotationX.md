@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.RotationX property (Word)
 
-Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write  **Single**.
+Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write **Single**.
 
 
 ## Syntax

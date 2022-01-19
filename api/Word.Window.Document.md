@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Document property (Word)
 
-Returns a  **[Document](Word.Document.md)** object associated with the specified pane, window, or selection. Read-only.
+Returns a **[Document](Word.Document.md)** object associated with the specified pane, window, or selection. Read-only.
 
 
 ## Syntax

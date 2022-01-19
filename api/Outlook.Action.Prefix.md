@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Action](Outlook.Action.md) object.
 
 ## Remarks
 
-Outlook automatically adds a colon (:) to the value of the  **Prefix** property when setting the subject of the item.
+Outlook automatically adds a colon (:) to the value of the **Prefix** property when setting the subject of the item.
 
 
 ## See also

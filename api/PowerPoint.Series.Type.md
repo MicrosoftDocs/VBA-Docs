@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Series.Type property (PowerPoint)
 
-Returns or sets the series type. Read/write  **Long**.
+Returns or sets the series type. Read/write **Long**.
 
 
 ## Syntax
@@ -23,34 +23,34 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 ## Remarks
 
-You can use the following  **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
+You can use the following **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
 
 
--  **xlColumn**
+- **xlColumn**
     
--  **xlBar**
+- **xlBar**
     
--  **xl3DBar**
+- **xl3DBar**
     
--  **xlLine**
+- **xlLine**
     
--  **xlPie**
+- **xlPie**
     
--  **xlXYScatter**
+- **xlXYScatter**
     
--  **xlArea**
+- **xlArea**
     
--  **xl3DArea**
+- **xl3DArea**
     
--  **xlDoughnut**
+- **xlDoughnut**
     
--  **xlRadar**
+- **xlRadar**
     
--  **xl3DSurface**
+- **xl3DSurface**
     
--  **xl3DColumn**
+- **xl3DColumn**
     
--  **xl3DBar**
+- **xl3DBar**
     
 
 

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.Parent property (Project)
-Gets the parent object of the chart. Read-only  **Object**.
+Gets the parent object of the chart. Read-only **Object**.
 
 ## Syntax
 

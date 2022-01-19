@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnotes.ContinuationNotice property (Word)
 
-Returns a  **Range** object that represents the endnote continuation notice. Read-only.
+Returns a **Range** object that represents the endnote continuation notice. Read-only.
 
 
 ## Syntax

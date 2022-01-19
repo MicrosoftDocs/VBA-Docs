@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.AdministrativeProject property (Project)
 
-In Microsoft Project 2003, indicates whether the project is an administrative project. Read/write  **Boolean**. Not used in later versions of Project.
+In Microsoft Project 2003, indicates whether the project is an administrative project. Read/write **Boolean**. Not used in later versions of Project.
 
 
 ## Syntax

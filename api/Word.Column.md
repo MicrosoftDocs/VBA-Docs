@@ -19,7 +19,7 @@ Represents a single table column. The **Column** object is a member of the **[Co
 
 ## Remarks
 
-Use  **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **[Columns](Word.columns.md)** collection (counting from left to right).
+Use **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **[Columns](Word.columns.md)** collection (counting from left to right).
 
 The following example selects column one in table one in the active document.
 

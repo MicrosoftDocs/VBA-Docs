@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.CellColorEx property (Project)
 
-Gets or sets the color of the cell background. Read/write  **Long**.
+Gets or sets the color of the cell background. Read/write **Long**.
 
 
 ## Syntax

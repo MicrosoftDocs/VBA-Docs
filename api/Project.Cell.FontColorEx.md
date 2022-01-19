@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.FontColorEx property (Project)
 
-Gets or sets the color of the font. Read/write  **Long**.
+Gets or sets the color of the font. Read/write **Long**.
 
 
 ## Syntax

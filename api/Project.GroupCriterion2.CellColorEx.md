@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.CellColorEx property (Project)
 
-Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write  **Long**.
+Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write **Long**.
 
 
 ## Syntax

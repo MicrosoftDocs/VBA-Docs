@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Style property (Word)
 
-Returns or sets the style for the specified table. Read/write  **Variant**.
+Returns or sets the style for the specified table. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 
 ## Remarks
 
-To set this property, you can specify the local name of the style, an integer, a  **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or a **[TableStyle](Word.TableStyle.md)** object that contains the desired formatting for the table.
+To set this property, you can specify the local name of the style, an integer, a **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or a **[TableStyle](Word.TableStyle.md)** object that contains the desired formatting for the table.
 
 
 ## See also

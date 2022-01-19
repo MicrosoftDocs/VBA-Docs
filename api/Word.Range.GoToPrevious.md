@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.GoToPrevious method (Word)
 
-Returns a  **Range** object that refers to the start position of the previous item or location specified by the What argument.
+Returns a **Range** object that refers to the start position of the previous item or location specified by the What argument.
 
 
 ## Syntax

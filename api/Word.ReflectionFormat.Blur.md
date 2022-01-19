@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ReflectionFormat.Blur property (Word)
 
-Returns or sets a  **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
+Returns or sets a **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
 
 
 ## Syntax

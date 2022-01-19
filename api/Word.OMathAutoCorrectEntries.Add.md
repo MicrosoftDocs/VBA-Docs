@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathAutoCorrectEntries.Add method (Word)
 
-Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** object.
+Creates an equation auto correct entry and returns an **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** object.
 
 
 ## Syntax

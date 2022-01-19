@@ -33,8 +33,8 @@ String
 
 If this **Window** object is not merged, the GUID will contain all zeros (GUID_NULL).
 
-The  **MergeID** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
+The **MergeID** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 
-Use the  **Type** property to determine window type.
+Use the **Type** property to determine window type.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

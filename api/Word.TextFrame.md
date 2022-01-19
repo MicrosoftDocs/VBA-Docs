@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame object (Word)
 
-Represents the text frame in a  **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
+Represents the text frame in a **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 
 
 ## Remarks

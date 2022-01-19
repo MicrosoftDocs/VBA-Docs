@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Height property (Word)
 
-Returns or sets the height of the specified shape range. Read/write  **Single**.
+Returns or sets the height of the specified shape range. Read/write **Single**.
 
 
 ## Syntax

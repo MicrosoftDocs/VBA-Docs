@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDocCleanActions enumeration (Visio)
 
-Flags passed to the  **Document.Clean** method that indicate which document conditions to detect, report, and fix.
+Flags passed to the **Document.Clean** method that indicate which document conditions to detect, report, and fix.
 
 
 

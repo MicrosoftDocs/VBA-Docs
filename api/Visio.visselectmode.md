@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSelectMode enumeration (Visio)
 
-Constants passed to and returned by the  **Selection.IterationMode** property and the **CreateSelection** method.
+Constants passed to and returned by the **Selection.IterationMode** property and the **CreateSelection** method.
 
 
 

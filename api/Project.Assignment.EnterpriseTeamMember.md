@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.EnterpriseTeamMember method (Project)
 
-Indicates whether the specified assignment belongs to the project.  **True** if the assignment belongs to the specified project; otherwise, **False**. Available in Project Professional only.
+Indicates whether the specified assignment belongs to the project. **True** if the assignment belongs to the specified project; otherwise, **False**. Available in Project Professional only.
 
 
 ## Syntax

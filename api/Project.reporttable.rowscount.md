@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ReportTable.RowsCount property (Project)
-Gets the number of rows in the table. Read-only  **Long**.
+Gets the number of rows in the table. Read-only **Long**.
 
 ## Syntax
 

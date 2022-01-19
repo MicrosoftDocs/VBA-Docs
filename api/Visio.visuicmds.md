@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUICmds enumeration (Visio)
 
-UI command ID constants, to be used in conjunction with the  **CmdNum** property of various objects. These constants also correspond to scope IDs passed with the **EnterScope** and **ExitScope** events, and to command ranges passed to the **Event.GetFilterCommands** and **Event.SetFilterCommands** methods, as well as to commands passed to the **Application.DoCmd** method.
+UI command ID constants, to be used in conjunction with the **CmdNum** property of various objects. These constants also correspond to scope IDs passed with the **EnterScope** and **ExitScope** events, and to command ranges passed to the **Event.GetFilterCommands** and **Event.SetFilterCommands** methods, as well as to commands passed to the **Application.DoCmd** method.
 
 
 

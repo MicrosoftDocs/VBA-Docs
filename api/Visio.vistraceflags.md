@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 
 # VisTraceFlags enumeration (Visio)
 
-Flags to use with the  **Application.TraceFlags** property.
+Flags to use with the **Application.TraceFlags** property.
 
 
 ## Remarks
 
-The value of the  **TraceFlags** property can be a combination of the following values.
+The value of the **TraceFlags** property can be a combination of the following values.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.LandscapeFontNames property (Word)
 
-Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available landscape fonts.
+Returns a **[FontNames](Word.FontNames.md)** object that includes the names of all the available landscape fonts.
 
 
 ## Syntax

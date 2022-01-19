@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.ShowFields Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Show Fields** dialog box.
+Displays the Microsoft Outlook **Show Fields** dialog box.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartType property (Word)
 
-Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)**.
+Returns or sets the chart type. Read/write **[XlChartType](Excel.XlChartType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.Result property (Word)
 
-Returns a  **Range** object that represents a field's result. Read/write.
+Returns a **Range** object that represents a field's result. Read/write.
 
 
 ## Syntax

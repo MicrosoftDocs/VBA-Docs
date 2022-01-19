@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Line.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a line.
+Returns a **Range** object that represents the portion of a document that is contained within a line.
 
 
 ## Syntax

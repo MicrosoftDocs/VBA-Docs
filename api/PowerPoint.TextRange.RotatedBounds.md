@@ -37,7 +37,7 @@ _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) o
 
 ## Example
 
-This example uses the values returned by the arguments of the  **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
+This example uses the values returned by the arguments of the **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
 
 
 ```vb

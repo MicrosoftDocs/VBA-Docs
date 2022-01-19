@@ -30,15 +30,15 @@ _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required|**MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3D Rotation** submenu on the **Shape Effects** menu.|
+| _PresetThreeDFormat_|Required|**MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the **3D Rotation** submenu on the **Shape Effects** menu.|
 
 ## Remarks
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion.
 
-This method sets the  **[PresetThreeDFormat](PowerPoint.ThreeDFormat.PresetThreeDFormat.md)** property to the format specified by the PresetThreeDFormat parameter.
+This method sets the **[PresetThreeDFormat](PowerPoint.ThreeDFormat.PresetThreeDFormat.md)** property to the format specified by the PresetThreeDFormat parameter.
 
-The value of the PresetThreeDFormat parameter can be one of these  **MsoPresetThreeDFormat** constants. Specifying **msoPresetThreeDFormatMixed** causes an error.
+The value of the PresetThreeDFormat parameter can be one of these **MsoPresetThreeDFormat** constants. Specifying **msoPresetThreeDFormatMixed** causes an error.
 
 
 ||

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.Type property (Word)
 
-Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDialog](Word.WdWordDialog.md)**.
+Returns the type of built-in Microsoft Word dialog box. Read-only **[WdWordDialog](Word.WdWordDialog.md)**.
 
 
 ## Syntax

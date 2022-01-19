@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Finish9 property (Project)
 
-Gets or sets the local Finish custom field of the resource. Read/write  **Variant**.
+Gets or sets the local Finish custom field of the resource. Read/write **Variant**.
 
 
 ## Syntax

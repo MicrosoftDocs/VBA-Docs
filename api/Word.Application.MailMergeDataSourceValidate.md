@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MailMergeDataSourceValidate event (Word)
 
-Occurs when a user validates mail merge recipients by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
+Occurs when a user validates mail merge recipients by clicking **Validate** in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax

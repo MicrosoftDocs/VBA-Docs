@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StorageItem.Delete method (Outlook)
 
-Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from the parent folder.
+Permanently removes the **[StorageItem](Outlook.StorageItem.md)** object from the parent folder.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ For more information on deleting solution data stored in a **StorageItem** objec
 
 ## Example
 
-The following code sample in Visual Basic for Applications shows how to clean up any existing  **StorageItem** object that has the specified subject, create a new instance with the same subject, assign a value to a custom property, and save the new instance.
+The following code sample in Visual Basic for Applications shows how to clean up any existing **StorageItem** object that has the specified subject, create a new instance with the same subject, assign a value to a custom property, and save the new instance.
 
 
 ```vb

@@ -45,7 +45,7 @@ You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argume
 
 ## Example
 
-This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl**, **wdKeyShift**, and **wdKeyA**.
+This example displays the key combination string (CTRL+SHIFT+A) for the following **WdKey** constants: **wdKeyControl**, **wdKeyShift**, and **wdKeyA**.
 
 
 ```vb

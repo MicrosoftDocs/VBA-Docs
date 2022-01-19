@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeNode.SegmentType property (Word)
 
-Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only  **MsoSegmentType**.
+Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only **MsoSegmentType**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[ShapeNode](Word.ShapeNode
 
 ## Remarks
 
-If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**.
+If the specified node is a control point for a curved segment, this property returns **msoSegmentCurve**.
 
 Use the **SetSegmentType** method to set the value of this property.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Event.SetFilterCommands method (Visio)
 
-Specifies an array of command ranges and a  **True** or **False** value indicating how to filter events for each command range.
+Specifies an array of command ranges and a **True** or **False** value indicating how to filter events for each command range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Commands()_|Required| **Long**|An array of command ranges and a  **True** or **False** value specifying how to filter events for each command range.|
+| _Commands()_|Required| **Long**|An array of command ranges and a **True** or **False** value specifying how to filter events for each command range.|
 
 ## Return value
 
@@ -46,11 +46,11 @@ The  _Commands()_ parameter passed to **SetFilterCommands** is an array defined 
 The number of elements in  _Commands()_ is a multiple of 3:
 
 
-- The first element contains the beginning command ID of the range (any member of  **VisUICmds**).
+- The first element contains the beginning command ID of the range (any member of **VisUICmds**).
     
-- The second element contains the end command ID of the range (any member of  **VisUICmds**).
+- The second element contains the end command ID of the range (any member of **VisUICmds**).
     
-- The third element contains a  **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
+- The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
 
 
@@ -61,15 +61,15 @@ For an event to successfully pass through a command filter, it must satisfy the 
 
 - It must have a valid command ID.
     
-- If all filters are  **True**, the event must match at least one filter.
+- If all filters are **True**, the event must match at least one filter.
     
-- If all filters are  **False**, the event must not match any filter.
+- If all filters are **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges in the array, events are considered **True**.
+If there are no **True** ranges in the array, events are considered **True**.
 
 For example, to set up an array that blocks out a single command, use the following: 
 
@@ -87,7 +87,7 @@ For example, to set up an array that blocks out a single command, use the follow
 
 ```
 
-Or, to set up an array that listens only to the  **Send to Back** command:
+Or, to set up an array that listens only to the **Send to Back** command:
 
 
 

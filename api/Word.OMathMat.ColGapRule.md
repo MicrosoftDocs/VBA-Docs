@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.ColGapRule property (Word)
 
-Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for the space that appears between columns in a matrix. Read/write.
+Returns or sets a **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for the space that appears between columns in a matrix. Read/write.
 
 
 ## Syntax

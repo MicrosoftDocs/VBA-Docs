@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # LineFormat object (PowerPoint)
 
-Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
+Represents line and arrowhead formatting. For a line, the **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
 
 
 ## Example
 
-Use the  **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
+Use the **Line** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
 
 
 ```vb

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # RecentFiles object (Word)
 
-A collection of  **[RecentFile](Word.RecentFile.md)** objects that represents the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
+A collection of **[RecentFile](Word.RecentFile.md)** objects that represents the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ If ActiveDocument.Saved = True Then
 End If
 ```
 
-Use  **RecentFiles** (Index), where Index is the index number, to return a single **RecentFile** object. The index number represents the position of the file on the **File** menu. The following example opens the first document in the **RecentFiles** collection.
+Use **RecentFiles** (Index), where Index is the index number, to return a single **RecentFile** object. The index number represents the position of the file on the **File** menu. The following example opens the first document in the **RecentFiles** collection.
 
 
 

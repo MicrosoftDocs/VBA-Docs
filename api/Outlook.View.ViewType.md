@@ -26,12 +26,12 @@ _expression_. `ViewType`
 
 ## Remarks
 
-This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to  **olLargeIcon**, it will not have any effect.
+This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to **olLargeIcon**, it will not have any effect.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays the name and type of all views in the user's  **Inbox**.
+The following Visual Basic for Applications (VBA) example displays the name and type of all views in the user's **Inbox**.
 
 
 ```vb

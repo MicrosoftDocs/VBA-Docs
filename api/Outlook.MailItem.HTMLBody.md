@@ -28,7 +28,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 The **HTMLBody** property should be an HTML syntax string.
 
-Setting the  **HTMLBody** property will always update the **[Body](Outlook.MailItem.Body.md)** property immediately.
+Setting the **HTMLBody** property will always update the **[Body](Outlook.MailItem.Body.md)** property immediately.
 
 
 ## Example

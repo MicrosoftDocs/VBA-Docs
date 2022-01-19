@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailOptions.ReplyStyle property (Word)
 
-Returns a  **[Style](Word.Style.md)** object that represents the style used when replying to email messages.
+Returns a **[Style](Word.Style.md)** object that represents the style used when replying to email messages.
 
 
 ## Syntax

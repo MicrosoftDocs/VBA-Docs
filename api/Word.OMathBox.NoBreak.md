@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBox.NoBreak property (Word)
 
-Returns or sets a  **Boolean** that represents whether breaks are allowed inside the box object. Read/write.
+Returns or sets a **Boolean** that represents whether breaks are allowed inside the box object. Read/write.
 
 
 ## Syntax

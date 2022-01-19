@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PasteOptionKeepBulletsAndNumbers property (Word)
 
-Returns or sets a  **Boolean** that represents whether to keep bullets and numbering when selecting **Keep text only** from the **Paste Options** context menu. Read/write.
+Returns or sets a **Boolean** that represents whether to keep bullets and numbering when selecting **Keep text only** from the **Paste Options** context menu. Read/write.
 
 
 ## Syntax

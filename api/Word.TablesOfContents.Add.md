@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfContents.Add method (Word)
 
-Returns a  **TableOfContents** object that represents a table of contents added to a document.
+Returns a **TableOfContents** object that represents a table of contents added to a document.
 
 
 ## Syntax

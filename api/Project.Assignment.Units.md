@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Units property (Project)
 
-Gets or sets the number of units completed for the assignment. Read/write  **Variant**.
+Gets or sets the number of units completed for the assignment. Read/write **Variant**.
 
 
 ## Syntax

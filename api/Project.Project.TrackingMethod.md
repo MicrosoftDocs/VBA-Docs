@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.TrackingMethod property (Project)
 
-Gets or sets the tracking method used by Project Server for the project. Read/write  **PjProjectServerTrackingMethod**.
+Gets or sets the tracking method used by Project Server for the project. Read/write **PjProjectServerTrackingMethod**.
 
 
 ## Syntax

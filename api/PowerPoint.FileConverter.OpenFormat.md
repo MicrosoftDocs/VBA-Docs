@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.OpenFormat property (PowerPoint)
 
-Returns the file format of the specified file converter. Read-only  **Long**.
+Returns the file format of the specified file converter. Read-only **Long**.
 
 
 ## Syntax

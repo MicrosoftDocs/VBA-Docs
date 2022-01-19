@@ -24,6 +24,6 @@ _expression_ A variable that represents a **Frame** object.
 
 ## Remarks
 
-The minimum value is zero; the maximum value is the difference between the value of the  **[ScrollWidth](Outlook.frame.scrollwidth.md)** property and the value of the **Width** property for the form or page.
+The minimum value is zero; the maximum value is the difference between the value of the **[ScrollWidth](Outlook.frame.scrollwidth.md)** property and the value of the **Width** property for the form or page.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

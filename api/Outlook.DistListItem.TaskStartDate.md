@@ -26,7 +26,7 @@ _expression_. `TaskStartDate`
 
 ## Remarks
 
-This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property is set to **False**.
+This property returns **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

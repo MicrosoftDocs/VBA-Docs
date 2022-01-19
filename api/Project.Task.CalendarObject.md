@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.CalendarObject property (Project)
 
-Gets the Calendar object to be used when scheduling the task. Read-only  **Calendar**.
+Gets the Calendar object to be used when scheduling the task. Read-only **Calendar**.
 
 
 ## Syntax

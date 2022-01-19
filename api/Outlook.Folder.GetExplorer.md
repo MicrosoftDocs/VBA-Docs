@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DisplayMode_|Optional| **Variant**|The display mode of the folder. Can be one of the constants in the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** enumeration.|
+| _DisplayMode_|Optional| **Variant**|The display mode of the folder. Can be one of the constants in the **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** enumeration.|
 
 ## Return value
 
@@ -54,7 +54,7 @@ The explorer can also be displayed in Folder-Only mode (**olFolderDisplayFolderO
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **GetExplorer** method to return a new, inactive explorer for the default Contacts folder and then displays the explorer in the default mode of **olFolderDisplayNormal**.
+This Visual Basic for Applications (VBA) example uses the **GetExplorer** method to return a new, inactive explorer for the default Contacts folder and then displays the explorer in the default mode of **olFolderDisplayNormal**.
 
 
 ```vb

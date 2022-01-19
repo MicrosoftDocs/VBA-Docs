@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.Left property (Word)
 
-Returns or sets a  **Long**, in [points](../language/glossary/vbe-glossary.md#point), that represents the horizontal position of the specified Protected View window. Read/write.
+Returns or sets a **Long**, in [points](../language/glossary/vbe-glossary.md#point), that represents the horizontal position of the specified Protected View window. Read/write.
 
 
 ## Syntax

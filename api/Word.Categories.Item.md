@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Categories.Item method (Word)
 
-Returns a  **Category** object that represents the specified item in the collection.
+Returns a **Category** object that represents the specified item in the collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_.**Item** (_Index_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
+| _Index_|Required| **Variant**|Specifies a **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
 ## Return value
 

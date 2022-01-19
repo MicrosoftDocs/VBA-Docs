@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Hyperlinks object (Word)
 
-Represents the collection of  **Hyperlink** objects in a document, range, or selection.
+Represents the collection of **Hyperlink** objects in a document, range, or selection.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ ActiveDocument.Hyperlinks.Add Address:="https://www.msn.com/", _
  Anchor:=Selection.Range
 ```
 
-Use  **Hyperlinks** (Index), where Index is the index number, to return a single **[Hyperlink](Word.Hyperlink.md)** object in a document, range, or selection. The following example activates the first hyperlink in the selection.
+Use **Hyperlinks** (Index), where Index is the index number, to return a single **[Hyperlink](Word.Hyperlink.md)** object in a document, range, or selection. The following example activates the first hyperlink in the selection.
 
 
 

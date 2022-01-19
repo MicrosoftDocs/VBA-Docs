@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Inspector.Close method (Outlook)
 
-Closes the  **[Inspector](Outlook.Inspector.md)** and optionally saves changes to the displayed Outlook item.
+Closes the **[Inspector](Outlook.Inspector.md)** and optionally saves changes to the displayed Outlook item.
 
 
 ## Syntax

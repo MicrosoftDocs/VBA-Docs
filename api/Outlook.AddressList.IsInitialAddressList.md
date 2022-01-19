@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressList](Outlook.AddressList.md)
 
 ## Remarks
 
- **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
+ **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then **Options** in the **Address Book** dialog box.
 
 
 ## See also

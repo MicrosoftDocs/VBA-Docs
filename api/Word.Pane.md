@@ -19,7 +19,7 @@ Represents a window pane. The **Pane** object is a member of the **Panes** colle
 
 ## Remarks
 
-Use  **Panes** (Index), where Index is the index number, to return a single **Pane** object. The following example closes the active pane.
+Use **Panes** (Index), where Index is the index number, to return a single **Pane** object. The following example closes the active pane.
 
 
 ```vb

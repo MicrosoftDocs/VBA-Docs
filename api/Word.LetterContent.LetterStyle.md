@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.LetterStyle property (Word)
 
-Returns or sets the layout of a letter created by the Letter Wizard. Read/write  **WdLetterStyle**.
+Returns or sets the layout of a letter created by the Letter Wizard. Read/write **WdLetterStyle**.
 
 
 ## Syntax

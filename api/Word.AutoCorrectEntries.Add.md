@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrectEntries.Add method (Word)
 
-Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect entry added to the list of available AutoCorrect entries.
+Returns an **AutoCorrectEntry** object that represents a plain-text AutoCorrect entry added to the list of available AutoCorrect entries.
 
 
 ## Syntax

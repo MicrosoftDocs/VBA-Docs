@@ -33,7 +33,7 @@ The **AvailableFrom** property does not return any meaningful information for ma
 
 ## Example
 
-The following line of code prints the earliest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date after the most recent  **Available To** date. If no previous availability dates are defined, the code prints "NA".
+The following line of code prints the earliest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date after the most recent **Available To** date. If no previous availability dates are defined, the code prints "NA".
 
 
 ```vb

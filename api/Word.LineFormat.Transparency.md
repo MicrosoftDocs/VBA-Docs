@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.Transparency property (Word)
 
-Returns or sets the degree of transparency of line. Read/write  **Single**.
+Returns or sets the degree of transparency of line. Read/write **Single**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.Cell property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents a cell in a matrix. Read-only.
 
 
 ## Syntax

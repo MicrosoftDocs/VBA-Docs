@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.SV property (Project)
 
-Gets the earned value scheduled variance (SV) of the assignment. Read-only  **Variant**.
+Gets the earned value scheduled variance (SV) of the assignment. Read-only **Variant**.
 
 
 ## Syntax

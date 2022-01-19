@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.Type property (Word)
 
-Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)**.
+Returns or sets the view type. Read/write **[WdViewType](Word.WdViewType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TickLabels.MultiLevel property (PowerPoint)
 
-Returns or sets a value that indicates whether an axis is multilevel. Read/write  **Boolean**.
+Returns or sets a value that indicates whether an axis is multilevel. Read/write **Boolean**.
 
 
 ## Syntax

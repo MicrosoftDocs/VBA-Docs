@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.PhoneticType property (Project)
 
-Gets or sets the type of characters used to display phonetic information. Read/write  **PjPhoneticType**.
+Gets or sets the type of characters used to display phonetic information. Read/write **PjPhoneticType**.
 
 
 ## Syntax

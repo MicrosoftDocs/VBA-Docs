@@ -39,12 +39,12 @@ An **[Inspector](Outlook.Inspector.md)** object that represents a new inspector 
 
 ## Remarks
 
-This method is essentially identical to the  **GetInspector** property of an Outlook item, such as **[MailItem](Outlook.MailItem.md)**.
+This method is essentially identical to the **GetInspector** property of an Outlook item, such as **[MailItem](Outlook.MailItem.md)**.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prompts the user for a company name, uses the  **[Restrict](Outlook.Items.Restrict.md)** method to locate all contact items in the Contacts folder with that name, and displays each one.
+This Microsoft Visual Basic for Applications (VBA) example prompts the user for a company name, uses the **[Restrict](Outlook.Items.Restrict.md)** method to locate all contact items in the Contacts folder with that name, and displays each one.
 
 
 ```vb

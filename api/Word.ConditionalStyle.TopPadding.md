@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConditionalStyle.TopPadding property (Word)
 
-Returns or sets the amount of space (in points) to add above the contents of a single cell or all the cells in a table. Read/write  **Single**.
+Returns or sets the amount of space (in points) to add above the contents of a single cell or all the cells in a table. Read/write **Single**.
 
 
 ## Syntax

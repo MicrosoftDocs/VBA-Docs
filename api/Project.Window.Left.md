@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Window.Left property (Project)
 
-Gets or sets the distance of a project window from the left edge of the main window in points. Read/write  **Long**.
+Gets or sets the distance of a project window from the left edge of the main window in points. Read/write **Long**.
 
 
 ## Syntax

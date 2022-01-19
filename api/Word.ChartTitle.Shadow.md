@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.Shadow property (Word)
 
-Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
+Returns or sets a value that indicates whether the object has a shadow. Read/write **Boolean**.
 
 
 ## Syntax

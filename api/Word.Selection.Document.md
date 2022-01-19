@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Document property (Word)
 
-Returns a  **[Document](Word.Document.md)** object associated with the specified selection. Read-only.
+Returns a **[Document](Word.Document.md)** object associated with the specified selection. Read-only.
 
 
 ## Syntax

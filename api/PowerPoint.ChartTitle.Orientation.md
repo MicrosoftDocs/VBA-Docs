@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.Orientation property (PowerPoint)
 
-Returns or sets the text orientation. Read/write  **Long**.
+Returns or sets the text orientation. Read/write **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the **[XlOrientation](PowerPoint.XlOrientation.md)** constants.
 
 
 ## See also

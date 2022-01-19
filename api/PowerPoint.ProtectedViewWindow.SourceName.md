@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.SourceName property (PowerPoint)
 
-Returns the source name of the current  **ProtectedViewWindow** object. Read-only.
+Returns the source name of the current **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax

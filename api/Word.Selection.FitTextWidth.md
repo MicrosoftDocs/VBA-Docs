@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.FitTextWidth property (Word)
 
-Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection. Read/write  **Single**.
+Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection. Read/write **Single**.
 
 
 ## Syntax

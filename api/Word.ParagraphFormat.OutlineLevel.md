@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.OutlineLevel property (Word)
 
-Returns or sets the outline level for the specified paragraphs. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)**.
+Returns or sets the outline level for the specified paragraphs. Read/write **[WdOutlineLevel](Word.WdOutlineLevel.md)**.
 
 
 ## Syntax

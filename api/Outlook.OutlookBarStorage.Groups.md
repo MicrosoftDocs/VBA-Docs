@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OutlookBarStorage](Outlook.OutlookBa
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the number of groups in the  **Shortcuts** pane.
+The following Microsoft Visual Basic for Applications (VBA) example displays the number of groups in the **Shortcuts** pane.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.ConvertToShape method (Word)
 
-Converts an inline shape to a free-floating shape. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
+Converts an inline shape to a free-floating shape. Returns a **[Shape](Word.Shape.md)** object that represents the new shape.
 
 
 ## Syntax

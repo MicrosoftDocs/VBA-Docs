@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListLevel.NumberFormat property (Word)
 
-Returns or sets the number format for the specified list level. Read/write  **String**.
+Returns or sets the number format for the specified list level. Read/write **String**.
 
 
 ## Syntax

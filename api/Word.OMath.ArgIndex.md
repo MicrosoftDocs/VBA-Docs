@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.ArgIndex property (Word)
 
-Returns a  **Long** that represents the argument index of this component relative to the containing math object. Read-only.
+Returns a **Long** that represents the argument index of this component relative to the containing math object. Read-only.
 
 
 ## Syntax

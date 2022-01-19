@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 ## Remarks
 
-This property returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**) and can be set to **True**, **False**, or **wdToggle**.
+This property returns **True**, **False** or **wdUndefined** (a mixture of **True** and **False**) and can be set to **True**, **False**, or **wdToggle**.
 
 
 ## Example

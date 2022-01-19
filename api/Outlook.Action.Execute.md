@@ -31,7 +31,7 @@ An **Object** value that represents the Outlook item created by the action upon 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Execute** method to look through all the actions for the given email message and executes the action called "Reply."
+This Visual Basic for Applications (VBA) example uses the **Execute** method to look through all the actions for the given email message and executes the action called "Reply."
 
 
 ```vb

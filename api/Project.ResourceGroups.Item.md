@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ResourceGroups.Item property (Project)
 
-Gets a single  **Group** object from the **ResourceGroups** collection. Read-only **Group**.
+Gets a single **Group** object from the **ResourceGroups** collection. Read-only **Group**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStop.Clear method (PowerPoint)
 
-Clears the specified tab stop from the ruler and deletes it from the  **TabStops** collection.
+Clears the specified tab stop from the ruler and deletes it from the **TabStops** collection.
 
 
 ## Syntax

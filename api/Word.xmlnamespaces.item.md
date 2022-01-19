@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # XMLNamespaces.Item method (Word)
 
-Returns an individual  **XMLNamespace** object in a collection.
+Returns an individual **XMLNamespace** object in a collection.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a '' collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
+| _Index_|Required| **Variant**|The individual object to be returned. Can be a **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
 ## Return value
 

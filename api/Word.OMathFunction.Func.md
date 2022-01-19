@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Func property (Word)
 
-Returns an  **[OMathFunc](Word.OMathFunc.md)** object that represents a type of mathematical function that consists of a function name, such as sin or cos, and an argument. Read-only.
+Returns an **[OMathFunc](Word.OMathFunc.md)** object that represents a type of mathematical function that consists of a function name, such as sin or cos, and an argument. Read-only.
 
 
 ## Syntax

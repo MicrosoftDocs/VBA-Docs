@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Reports' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Source_|Required|**Variant**|Name or  **Report** object of the report to copy.|
+| _Source_|Required|**Variant**|Name or **Report** object of the report to copy.|
 | _NewName_|Required|**String**|Name of the new report.|
 | _Source_|Required|**Variant**||
 | _NewName_|Required|**String**||

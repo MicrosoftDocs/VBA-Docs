@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StoryRanges.Item method (Word)
 
-Returns a single story of a range or selection as a  **Range** object.
+Returns a single story of a range or selection as a **Range** object.
 
 
 ## Syntax

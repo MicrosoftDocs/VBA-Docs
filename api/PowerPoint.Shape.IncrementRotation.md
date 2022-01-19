@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.IncrementRotation method (PowerPoint)
 
-Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the  **Rotation** property to set the absolute rotation of the shape.
+Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the **Rotation** property to set the absolute rotation of the shape.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 
 ## Remarks
 
-To rotate a three-dimensional shape around the x-axis or the y-axis, use the  **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method or the **[IncrementRotationY](PowerPoint.ThreeDFormat.IncrementRotationY.md)** method.
+To rotate a three-dimensional shape around the x-axis or the y-axis, use the **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method or the **[IncrementRotationY](PowerPoint.ThreeDFormat.IncrementRotationY.md)** method.
 
 
 ## Example

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # WeekDays object (Project)
 
-Contains a collection of  **[Weekday](Project.WeekDay.md)** objects.
+Contains a collection of **[Weekday](Project.WeekDay.md)** objects.
  
 
 
@@ -19,7 +19,7 @@ Contains a collection of  **[Weekday](Project.WeekDay.md)** objects.
  
 
  
-Use  **Weekdays** (*Index* ), where*Index* is the weekday index number, three-letter abbreviation of the day name, or **PjWeekday** constant, to return a single **Weekday** object. The following example sets Friday (the sixth day of a week starting on Sunday) as a half-day by setting the start and finish times for the first shift and clearing the values of the second and third shifts.
+Use **Weekdays** (*Index* ), where*Index* is the weekday index number, three-letter abbreviation of the day name, or **PjWeekday** constant, to return a single **Weekday** object. The following example sets Friday (the sixth day of a week starting on Sunday) as a half-day by setting the start and finish times for the first shift and clearing the values of the second and third shifts.
  
 
  

@@ -19,7 +19,7 @@ Represents a single version of a document. The **Version** object is a member of
 
 ## Remarks
 
-Use  **Versions** (Index), where Index is the index number, to return a single **Version** object. The index number represents the position of the version in the **Versions** collection. The first version added to the **Versions** collection is index number 1. The following example displays the comment, author, and date of the first version of the active document.
+Use **Versions** (Index), where Index is the index number, to return a single **Version** object. The index number represents the position of the version in the **Versions** collection. The first version added to the **Versions** collection is index number 1. The following example displays the comment, author, and date of the first version of the active document.
 
 
 ```vb

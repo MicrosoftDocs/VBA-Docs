@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.IncrementRotation method (PowerPoint)
 
-Changes the rotation of the specified shape range around the z-axis by the specified number of degrees. Use the  **Rotation** property to set the absolute rotation of the shape range.
+Changes the rotation of the specified shape range around the z-axis by the specified number of degrees. Use the **Rotation** property to set the absolute rotation of the shape range.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.m
 
 ## Remarks
 
-To rotate a three-dimensional shape range around the x-axis or the y-axis, use the  **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method or the **[IncrementRotationY](PowerPoint.ThreeDFormat.IncrementRotationY.md)** method.
+To rotate a three-dimensional shape range around the x-axis or the y-axis, use the **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method or the **[IncrementRotationY](PowerPoint.ThreeDFormat.IncrementRotationY.md)** method.
 
 
 ## Example

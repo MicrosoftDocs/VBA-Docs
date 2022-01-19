@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Display** method to display the default Inbox folder. This example will not return an error, even if there are no items in the Inbox, because you are not asking for the display of a specific item.
+This Visual Basic for Applications (VBA) example uses the **Display** method to display the default Inbox folder. This example will not return an error, even if there are no items in the Inbox, because you are not asking for the display of a specific item.
 
 
 ```vb
@@ -51,7 +51,7 @@ This Visual Basic for Applications example displays the first item in the Inbox 
 
 
 > [!NOTE] 
-> The items in the  **Items** collection object are not guaranteed to be in any particular order.
+> The items in the **Items** collection object are not guaranteed to be in any particular order.
 
 
 

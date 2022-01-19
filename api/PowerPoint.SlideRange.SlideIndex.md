@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideRange.SlideIndex property (PowerPoint)
 
-Returns the index number of the specified slide within the  **Slides** collection. Read-only.
+Returns the index number of the specified slide within the **Slides** collection. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-Unlike the  **SlideID** property, the **SlideIndex** property of a **Slide** object can change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **[FindBySlideID](PowerPoint.Slides.FindBySlideID.md)** method with the slide's ID number can be a more reliable way to return a specific **Slide** object from a **Slides** collection than using the **Item** method with the slide's index number.
+Unlike the **SlideID** property, the **SlideIndex** property of a **Slide** object can change when you add slides to the presentation or rearrange the slides in the presentation. Therefore, using the **[FindBySlideID](PowerPoint.Slides.FindBySlideID.md)** method with the slide's ID number can be a more reliable way to return a specific **Slide** object from a **Slides** collection than using the **Item** method with the slide's index number.
 
 
 ## Example

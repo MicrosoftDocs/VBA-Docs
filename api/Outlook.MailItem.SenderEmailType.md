@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example demonstrates how to use the  **SenderEmailType** property. To run this example without errors, an email item should be open in the active inspector window.
+The following Microsoft Visual Basic for Applications (VBA) example demonstrates how to use the **SenderEmailType** property. To run this example without errors, an email item should be open in the active inspector window.
 
 
 ```vb

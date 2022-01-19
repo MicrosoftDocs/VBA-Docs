@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat.RGB property (Word)
 
-Returns or sets the red-green-blue (RGB) value of the specified color. Read/write  **Long**.
+Returns or sets the red-green-blue (RGB) value of the specified color. Read/write **Long**.
 
 
 ## Syntax

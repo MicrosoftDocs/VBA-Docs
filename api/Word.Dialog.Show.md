@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dialog.Show method (Word)
 
-Displays and carries out actions initiated in the specified built-in Word dialog box. Returns a  **Long** that indicates which button was clicked to close the dialog box.
+Displays and carries out actions initiated in the specified built-in Word dialog box. Returns a **Long** that indicates which button was clicked to close the dialog box.
 
 
 ## Syntax

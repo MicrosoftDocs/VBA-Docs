@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.ActivePane property (Word)
 
-Returns a  **[Pane](Word.Pane.md)** object that represents the active pane for the specified window. Read-only.
+Returns a **[Pane](Word.Pane.md)** object that represents the active pane for the specified window. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_. `TaskSubject`
 
 ## Remarks
 
-This property returns the value of the  **[Subject](Outlook.MailItem.Subject.md)** property if the **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property is set to **False**.
+This property returns the value of the **[Subject](Outlook.MailItem.Subject.md)** property if the **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

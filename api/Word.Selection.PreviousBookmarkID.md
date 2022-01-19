@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.PreviousBookmarkID property (Word)
 
-Returns the number of the last bookmark that starts before or at the same place as the specified selection or range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long**.
+Returns the number of the last bookmark that starts before or at the same place as the specified selection or range; returns 0 (zero) if there is no corresponding bookmark. Read-only **Long**.
 
 
 ## Syntax

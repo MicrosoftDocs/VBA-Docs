@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Local custom fields can be accessed directly from  **ProjectSummaryTask** as task custom fields.
+Local custom fields can be accessed directly from **ProjectSummaryTask** as task custom fields.
 
 
 > [!NOTE] 
@@ -32,7 +32,7 @@ Local custom fields can be accessed directly from  **ProjectSummaryTask** as tas
 
 ## Example
 
-The following example sets the local  **Cost1** task custom field and displays it in a message box.
+The following example sets the local **Cost1** task custom field and displays it in a message box.
 
 
 ```vb

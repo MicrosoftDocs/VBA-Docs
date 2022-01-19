@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReferences.Add method (Word)
 
-Returns an  **XMLSchemaReference** that represents a schema applied to a document.
+Returns an **XMLSchemaReference** that represents a schema applied to a document.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Paragraphs property (Word)
 
-Returns a  **[Paragraphs](Word.paragraphs.md)** collection that represents all the paragraphs in the specified selection. Read-only.
+Returns a **[Paragraphs](Word.paragraphs.md)** collection that represents all the paragraphs in the specified selection. Read-only.
 
 
 ## Syntax

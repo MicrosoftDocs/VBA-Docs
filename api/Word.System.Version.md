@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # System.Version property (Word)
 
-Returns the version number of the operating system. Read-only  **String**.
+Returns the version number of the operating system. Read-only **String**.
 
 
 ## Syntax

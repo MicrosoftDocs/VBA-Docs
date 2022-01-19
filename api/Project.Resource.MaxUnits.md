@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.MaxUnits property (Project)
 
-Gets or sets the maximum percent availability of the resource. Read/write  **Variant**.
+Gets or sets the maximum percent availability of the resource. Read/write **Variant**.
 
 
 ## Syntax

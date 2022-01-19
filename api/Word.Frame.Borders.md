@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.Borders property (Word)
 
-Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified frame.
+Returns a **[Borders](Word.borders.md)** collection that represents all the borders for the specified frame.
 
 
 ## Syntax

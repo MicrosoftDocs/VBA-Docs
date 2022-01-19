@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Footnotes object (Word)
 
-A collection of  **Footnote** objects that represent all the footnotes in a selection, range, or document.
+A collection of **Footnote** objects that represent all the footnotes in a selection, range, or document.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
  Text:="The Willow Tree, (Lone Creek Press, 1996)."
 ```
 
-Use  **Footnotes** (_index_), where _index_ is the index number, to return a single **[Footnote](Word.Footnote.md)** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
+Use **Footnotes** (_index_), where _index_ is the index number, to return a single **[Footnote](Word.Footnote.md)** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
 
 
 

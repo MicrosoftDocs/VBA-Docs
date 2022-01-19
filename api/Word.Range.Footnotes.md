@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Footnotes property (Word)
 
-Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a range. Read-only.
+Returns a **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a range. Read-only.
 
 
 ## Syntax

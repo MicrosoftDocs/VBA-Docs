@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.HoursPerWeek property (Project)
 
-Gets or sets the number of hours per week for tasks in a project. Read/write  **Double**.
+Gets or sets the number of hours per week for tasks in a project. Read/write **Double**.
 
 
 ## Syntax

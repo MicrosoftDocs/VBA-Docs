@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TimeScaleValues.Item property (Project)
 
-Gets a single  **TimeScaleValue** object from the **TimeScaleValues** collection. Read-only **TimeScaleValue**.
+Gets a single **TimeScaleValue** object from the **TimeScaleValues** collection. Read-only **TimeScaleValue**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListFormat.ListLevelNumber property (Word)
 
-Returns or sets the list level for the first paragraph in the specified  **ListFormat** object. Read/write **Long**.
+Returns or sets the list level for the first paragraph in the specified **ListFormat** object. Read/write **Long**.
 
 
 ## Syntax

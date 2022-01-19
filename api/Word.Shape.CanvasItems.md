@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.CanvasItems property (Word)
 
-Returns a  **[CanvasShapes](Word.CanvasShapes.md)** object that represents a collection of shapes in a drawing canvas.
+Returns a **[CanvasShapes](Word.CanvasShapes.md)** object that represents a collection of shapes in a drawing canvas.
 
 
 ## Syntax

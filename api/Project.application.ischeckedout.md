@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Application.IsCheckedOut property (Project)
-Gets whether an open project is checked out from Project Web App by the user. Read-only  **Boolean**.
+Gets whether an open project is checked out from Project Web App by the user. Read-only **Boolean**.
 
 ## Syntax
 

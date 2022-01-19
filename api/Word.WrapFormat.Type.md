@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WrapFormat.Type property (Word)
 
-Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.WdWrapType.md)**.
+Returns the wrap type for the specified shape. Read/write **[WdWrapType](Word.WdWrapType.md)**.
 
 
 ## Syntax

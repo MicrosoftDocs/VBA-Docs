@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a hyperlink.
+Returns a **Range** object that represents the portion of a document that is contained within a hyperlink.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultEarnedValueMethod property (Project)
 
-Gets or sets the default method for calculating earned value for a project. Read/write  **PjEarnedValueMethod**.
+Gets or sets the default method for calculating earned value for a project. Read/write **PjEarnedValueMethod**.
 
 
 ## Syntax

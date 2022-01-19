@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Pane.Zooms property (Word)
 
-Returns a  **[Zooms](Word.zooms.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
+Returns a **[Zooms](Word.zooms.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
 
 
 ## Syntax

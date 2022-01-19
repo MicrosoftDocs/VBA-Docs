@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.Shapes property (Visio)
 
-Returns the  **Shapes** collection for a page, master, or group. Read-only.
+Returns the **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Shapes
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Shapes** property to get the **Shapes** collection. It prints the names of all shapes on Page1 in the Immediate window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Shapes** property to get the **Shapes** collection. It prints the names of all shapes on Page1 in the Immediate window.
 
 To run this macro, make sure the active document has shapes on Page1.
 

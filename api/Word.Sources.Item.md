@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sources.Item method (Word)
 
-Returns a  **Source** object that represents the specified item in the collection.
+Returns a **Source** object that represents the specified item in the collection.
 
 
 ## Syntax

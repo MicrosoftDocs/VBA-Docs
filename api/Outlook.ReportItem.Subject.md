@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ReportItem](Outlook.ReportItem.md) ob
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSubject**. The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property **PidTagSubject**. The **Subject** property is the default property for Outlook items.
 
 
 ## See also

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationF
 
 ## Remarks
 
-This property returns  **olNavigationFolder** for the **[NavigationFolder](Outlook.NavigationFolder.md)** object.
+This property returns **olNavigationFolder** for the **[NavigationFolder](Outlook.NavigationFolder.md)** object.
 
 
 ## See also

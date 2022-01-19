@@ -32,7 +32,7 @@ PpSlideShowType
 
 ## Remarks
 
-The value of the  **ShowType** property can be one of these **PpSlideShowType** constants.
+The value of the **ShowType** property can be one of these **PpSlideShowType** constants.
 
 
 ||

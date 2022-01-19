@@ -19,7 +19,7 @@ Represents a chart in a document.
 
 ## Remarks
 
-The Example section describes the following properties and methods for returning a  **Chart** object:
+The Example section describes the following properties and methods for returning a **Chart** object:
 
 
 

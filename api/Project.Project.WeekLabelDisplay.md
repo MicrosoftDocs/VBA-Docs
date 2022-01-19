@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.WeekLabelDisplay property (Project)
 
-Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax

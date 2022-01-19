@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Documents.QueryCancelDocumentClose event (Visio)
 
-Occurs before the application closes a document in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application closes a document in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -34,14 +34,14 @@ _expression_ A variable that represents a **[Documents](Visio.Documents.md)** ob
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelDocumentClose** after the user has directed the instance to close a document.
+A Microsoft Visio instance fires **QueryCancelDocumentClose** after the user has directed the instance to close a document.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **DocumentCloseCanceled** and does not close the document.
+- If any event handler returns **True** (cancel), the instance fires **DocumentCloseCanceled** and does not close the document.
     
-- If all handlers return  **False** (don't cancel), the instance fires **BeforeDocumentClose** and then closes the document.
+- If all handlers return **False** (don't cancel), the instance fires **BeforeDocumentClose** and then closes the document.
     
 
 

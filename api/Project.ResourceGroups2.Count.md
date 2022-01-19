@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ResourceGroups2.Count property (Project)
 
-Gets the number of  **Group2** objects in the **ResourceGroups2** collection. Read-only **Long**.
+Gets the number of **Group2** objects in the **ResourceGroups2** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.IsTemplate property (Project)
 
-Gets or sets a value that indicates whether the project is a template. Read/write  **Boolean**.
+Gets or sets a value that indicates whether the project is a template. Read/write **Boolean**.
 
 
 ## Syntax

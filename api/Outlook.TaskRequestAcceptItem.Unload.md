@@ -23,11 +23,11 @@ _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRe
 
 ## Remarks
 
-This event occurs after the  **Close** event for the Outlook item occurs, but before the Outlook item is unloaded from memory, allowing an add-in to release any resources related to the object. Although the event occurs before the Outlook item is unloaded from memory, this event cannot be canceled.
+This event occurs after the **Close** event for the Outlook item occurs, but before the Outlook item is unloaded from memory, allowing an add-in to release any resources related to the object. Although the event occurs before the Outlook item is unloaded from memory, this event cannot be canceled.
 
 
 > [!NOTE] 
-> This event is meant only as a notification event, so that an add-in can dereference the object. An error occurs if any property or method for this object is called within the  **Unload** event.
+> This event is meant only as a notification event, so that an add-in can dereference the object. An error occurs if any property or method for this object is called within the **Unload** event.
 
 
 ## See also

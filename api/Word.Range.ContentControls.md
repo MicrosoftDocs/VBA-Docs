@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ContentControls property (Word)
 
-Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents the content controls contained within a range. Read-only.
+Returns a **[ContentControls](Word.ContentControls.md)** collection that represents the content controls contained within a range. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.Size property (Word)
 
-Returns or sets the font size, in points. Read/write  **Single**.
+Returns or sets the font size, in points. Read/write **Single**.
 
 
 ## Syntax

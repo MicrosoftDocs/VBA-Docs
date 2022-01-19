@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.HorizontalFlip property (Project)
-Gets a value that indicates whether the shape is flipped around the horizontal axis. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
+Gets a value that indicates whether the shape is flipped around the horizontal axis. Read-only **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

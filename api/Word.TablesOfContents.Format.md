@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfContents.Format property (Word)
 
-Returns or sets the formatting for the tables of contents in the specified document. Read/write  **WdTocFormat**.
+Returns or sets the formatting for the tables of contents in the specified document. Read/write **WdTocFormat**.
 
 
 ## Syntax

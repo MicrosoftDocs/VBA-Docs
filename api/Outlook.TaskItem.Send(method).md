@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. Replace 'Dan Wilson' with a valid recipient name before running this example.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. Replace 'Dan Wilson' with a valid recipient name before running this example.
 
 
 ```vb

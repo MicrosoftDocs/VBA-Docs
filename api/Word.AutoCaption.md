@@ -19,7 +19,7 @@ Represents a single caption that can be automatically added when items such as t
 
 ## Remarks
 
-Use  **[AutoCaptions](Word.Application.AutoCaptions.md)** (_index_), where _index_ is the caption name or index number, to return a single **AutoCaption** object. The caption names correspond to the items listed in the **AutoCaption** dialog box. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **AutoCaption** dialog box. The following example enables autocaptions for Word tables.
+Use **[AutoCaptions](Word.Application.AutoCaptions.md)** (_index_), where _index_ is the caption name or index number, to return a single **AutoCaption** object. The caption names correspond to the items listed in the **AutoCaption** dialog box. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **AutoCaption** dialog box. The following example enables autocaptions for Word tables.
 
 
 ```vb

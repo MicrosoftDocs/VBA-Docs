@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Windows](Visio.Windows.md)** object
 
 ## Remarks
 
-This event fires whenever the zoom level or scroll position of a  **Window** object of the type **visDrawing** changes.
+This event fires whenever the zoom level or scroll position of a **Window** object of the type **visDrawing** changes.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

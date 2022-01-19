@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CaptionLabel.ID property (Word)
 
-Returns a  **WdCaptionLabelID** constant that represents the type for the specified caption label if the **BuiltIn** property of the **CaptionLabel** object is **True**. Read-only.
+Returns a **WdCaptionLabelID** constant that represents the type for the specified caption label if the **BuiltIn** property of the **CaptionLabel** object is **True**. Read-only.
 
 
 ## Syntax

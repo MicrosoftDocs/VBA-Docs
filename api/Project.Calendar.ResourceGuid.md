@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Calendar.ResourceGuid property (Project)
 
-Gets the GUID of the resource calendar. Read-only  **String**.
+Gets the GUID of the resource calendar. Read-only **String**.
 
 
 ## Syntax

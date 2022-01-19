@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.GetSpellingSuggestions method (Word)
 
-Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection that represents the words suggested as spelling replacements for a given word.
+Returns a **[SpellingSuggestions](Word.spellingsuggestions.md)** collection that represents the words suggested as spelling replacements for a given word.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The word whose spelling is to be checked.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** to ignore words in all uppercase letters. If this argument is omitted, the current value of the **[IgnoreUppercase](Word.Options.IgnoreUppercase.md)** property is used.|
-| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **[WdSpellingWordType](Word.WdSpellingWordType.md)** constants: **wdAnagram**, **wdSpellword**, or **wdWildcard**. The default value is **WdSpellword**.|
+| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following **[WdSpellingWordType](Word.WdSpellingWordType.md)** constants: **wdAnagram**, **wdSpellword**, or **wdWildcard**. The default value is **WdSpellword**.|
 
 ## Remarks
 

@@ -26,9 +26,9 @@ _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' objec
 
 ## Remarks
 
-Returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
+Returns **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
 
-If  **SpaceAfterAuto** is set to **True**, the **SpaceAfter** property is ignored.
+If **SpaceAfterAuto** is set to **True**, the **SpaceAfter** property is ignored.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShadowFormat.Type property (Word)
 
-Returns or sets the shape shadow type. Read/write  **MsoShadowType**.
+Returns or sets the shape shadow type. Read/write **MsoShadowType**.
 
 
 ## Syntax

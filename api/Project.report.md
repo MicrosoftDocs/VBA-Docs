@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Report object (Project)
-Represents a report in Project that can contain Office Art objects such as a **Shape**,  **ReportTable**, or  **Chart**. The **Report** object is a member of the **Reports** collection.
+Represents a report in Project that can contain Office Art objects such as a **Shape**, **ReportTable**, or **Chart**. The **Report** object is a member of the **Reports** collection.
  
 
 ## Remarks
@@ -34,7 +34,7 @@ To create a report, use the **[Reports.Add](Project.reports.add.md)** method. Fo
 ActiveProject.Reports.Add "My New Report"
 ```
 
-When you run the command, Project creates the report and then changes the view to the **DESIGN** tab of the ribbon, under **REPORT TOOLS**. You can use the design tool items on the ribbon to add images, shapes, charts, tables, or text boxes to the report. Alternately, you can programmatically add and edit items in the report by using members of the **Shape**,  **ShapeRange**,  **Chart**, and  **ReportTable** objects.
+When you run the command, Project creates the report and then changes the view to the **DESIGN** tab of the ribbon, under **REPORT TOOLS**. You can use the design tool items on the ribbon to add images, shapes, charts, tables, or text boxes to the report. Alternately, you can programmatically add and edit items in the report by using members of the **Shape**, **ShapeRange**, **Chart**, and **ReportTable** objects.
  
 
  

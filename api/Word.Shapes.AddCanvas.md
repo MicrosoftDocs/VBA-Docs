@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.AddCanvas method (Word)
 
-Adds a drawing canvas to a document. Returns a  **[Shape](Word.Shape.md)** object that represents the drawing canvas and adds it to the **Shapes** collection.
+Adds a drawing canvas to a document. Returns a **[Shape](Word.Shape.md)** object that represents the drawing canvas and adds it to the **Shapes** collection.
 
 
 ## Syntax

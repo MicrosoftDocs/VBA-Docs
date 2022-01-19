@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ServerPublishOptions.IsPublishedPage property (Visio)
 
-Returns  **True** if the specified page is designated to be included when the document is published as a .vdw file. Read-only.
+Returns **True** if the specified page is designated to be included when the document is published as a .vdw file. Read-only.
 
 
 ## Syntax
@@ -40,8 +40,8 @@ _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerP
 
 ## Remarks
 
-The setting of the  **IsPublishedPage** property corresponds to the status (selected or cleared) of the box that represents the specified page in the **Pages** list in the **Publish Settings** dialog box. (Click the **File** tab, click **Save & Send**, click  **Save to SharePoint**, click  **Web Drawing (*.vdw)**, click  **Save As**, and then click  **Options**.) The default is for all pages in the document to be designated for publishing.
+The setting of the **IsPublishedPage** property corresponds to the status (selected or cleared) of the box that represents the specified page in the **Pages** list in the **Publish Settings** dialog box. (Click the **File** tab, click **Save & Send**, click **Save to SharePoint**, click **Web Drawing (*.vdw)**, click **Save As**, and then click **Options**.) The default is for all pages in the document to be designated for publishing.
 
-To change the publish status of a page, you can use the  **[IncludePage](Visio.ServerPublishOptions.IncludePage.md)** and **[ExcludePage](Visio.ServerPublishOptions.ExcludePage.md)** methods of the **ServerPublishOptions** object.
+To change the publish status of a page, you can use the **[IncludePage](Visio.ServerPublishOptions.IncludePage.md)** and **[ExcludePage](Visio.ServerPublishOptions.ExcludePage.md)** methods of the **ServerPublishOptions** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

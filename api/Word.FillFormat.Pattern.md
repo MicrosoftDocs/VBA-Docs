@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.Pattern property (Word)
 
-Returns or sets a  **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
+Returns or sets a **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
 
 
 ## Syntax

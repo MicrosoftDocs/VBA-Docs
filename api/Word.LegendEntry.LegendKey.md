@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LegendEntry.LegendKey property (Word)
 
-Returns the legend key that is associated with the entry. Read-only  **[LegendKey](Word.LegendKey.md)**.
+Returns the legend key that is associated with the entry. Read-only **[LegendKey](Word.LegendKey.md)**.
 
 
 ## Syntax

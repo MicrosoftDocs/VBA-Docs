@@ -33,7 +33,7 @@ Single
 
 A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left.
 
-If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the  **[IncrementOffsetX](PowerPoint.ShadowFormat.IncrementOffsetX.md)** method or the **[IncrementOffsetY](PowerPoint.ShadowFormat.IncrementOffsetY.md)** method.
+If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the **[IncrementOffsetX](PowerPoint.ShadowFormat.IncrementOffsetX.md)** method or the **[IncrementOffsetY](PowerPoint.ShadowFormat.IncrementOffsetY.md)** method.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.EnterpriseLastModifiedDate property (Project)
 
-Gets the date and time when the resource was last checked in to the enterprise resource pool. Read-only  **Variant**.
+Gets the date and time when the resource was last checked in to the enterprise resource pool. Read-only **Variant**.
 
 
 ## Syntax

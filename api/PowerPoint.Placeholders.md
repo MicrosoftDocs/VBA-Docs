@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Placeholders object (PowerPoint)
 
-A collection of all the  **Shape** objects that represent placeholders on the specified slide.
+A collection of all the **Shape** objects that represent placeholders on the specified slide.
 
 
 ## Remarks

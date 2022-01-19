@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.AllowPageBreaks property (Word)
 
-Allows Microsoft Word to break the specified table across pages. Read/write  **Boolean**.
+Allows Microsoft Word to break the specified table across pages. Read/write **Boolean**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.ChildShapeRange property (Word)
 
-Returns a  **[ShapeRange](Word.shaperange.md)** collection representing the child shapes contained within a selection.
+Returns a **[ShapeRange](Word.shaperange.md)** collection representing the child shapes contained within a selection.
 
 
 ## Syntax

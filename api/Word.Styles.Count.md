@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Styles.Count property (Word)
 
-Returns a  **Long** that represents the number of styles in the collection. Read-only.
+Returns a **Long** that represents the number of styles in the collection. Read-only.
 
 
 ## Syntax

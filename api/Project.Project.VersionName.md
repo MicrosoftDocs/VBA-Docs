@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.VersionName property (Project)
 
-Gets the version name of the project. Obsolete in Project. Read-only  **String**.
+Gets the version name of the project. Obsolete in Project. Read-only **String**.
 
 
 ## Syntax

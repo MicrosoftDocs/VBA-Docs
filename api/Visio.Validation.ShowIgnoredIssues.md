@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Validation.ShowIgnoredIssues property (Visio)
 
-Determines whether ignored validation issues appear in the  **Issues** window. Read/write.
+Determines whether ignored validation issues appear in the **Issues** window. Read/write.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_. `TaskDueDate`
 
 ## Remarks
 
-This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property is set to **False**.
+This property returns **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

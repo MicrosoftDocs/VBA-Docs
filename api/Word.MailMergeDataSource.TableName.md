@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.TableName property (Word)
 
-Returns a  **String** with the SQL query used to retrieve the records from the data source file attached to a mail merge document. Read-only.
+Returns a **String** with the SQL query used to retrieve the records from the data source file attached to a mail merge document. Read-only.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ This example checks to see if the Customers table is the name of the table in th
 
 
 > [!NOTE] 
-> This example uses the Visual Basic  **InStr** function, which returns the position of the first character in the second string if it exists in the first string. A value of zero (0) is returned if the first string does not contain the second string. Setting the conditional value to less than one (1) indicates that the attached table is not named Customers.
+> This example uses the Visual Basic **InStr** function, which returns the position of the first character in the second string if it exists in the first string. A value of zero (0) is returned if the first string does not contain the second string. Setting the conditional value to less than one (1) indicates that the attached table is not named Customers.
 
 
 ```vb

@@ -28,10 +28,10 @@ The settings for SpecialEffect are:
 |Value|Description|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both.|
-|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **[ToggleButton](Outlook.togglebutton.md)**.|
+|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for **[ToggleButton](Outlook.togglebutton.md)**.|
 
  **SpecialEffect** uses the system colors to define its borders.
 
-Although the  **SpecialEffect** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the  **ToggleButton** **ToggleButton**.
+Although the **SpecialEffect** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton** **ToggleButton**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

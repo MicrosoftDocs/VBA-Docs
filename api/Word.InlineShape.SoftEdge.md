@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.SoftEdge property (Word)
 
-Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents the soft edge formatting for a shape. Read-only.
+Returns a **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents the soft edge formatting for a shape. Read-only.
 
 
 ## Syntax

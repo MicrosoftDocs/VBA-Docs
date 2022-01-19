@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NoteItem](Outlook.NoteItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagCreationTime**.
+This property corresponds to the MAPI property **PidTagCreationTime**.
 
 
 ## See also

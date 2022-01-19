@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Move method (Word)
 
-Collapses the specified selection to its start or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** value that represents the number of units by which the selection was moved, or it returns 0 (zero) if the move was unsuccessful.
+Collapses the specified selection to its start or end position and then moves the collapsed object by the specified number of units. This method returns a **Long** value that represents the number of units by which the selection was moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ Applying the **Move** method to a range doesn't rearrange text in the document. 
 
 If you apply the **Move** method to any range other than a **Range** object variable (for example, `Selection.Paragraphs(3).Range.Move`), the method has no effect.
 
-Moving a  **Selection** object collapses the selection and moves the insertion point either forward or backward in the document.
+Moving a **Selection** object collapses the selection and moves the insertion point either forward or backward in the document.
 
 
 ## Example

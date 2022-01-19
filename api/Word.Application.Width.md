@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Width property (Word)
 
-Returns or sets the width of the application window, in points. Read/write  **Long**.
+Returns or sets the width of the application window, in points. Read/write **Long**.
 
 
 ## Syntax

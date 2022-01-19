@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataField.Value property (Word)
 
-Returns the contents of the mail merge data field or mapped data field for the current record. Read-only  **String**.
+Returns the contents of the mail merge data field or mapped data field for the current record. Read-only **String**.
 
 
 ## Syntax

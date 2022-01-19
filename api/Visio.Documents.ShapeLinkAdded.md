@@ -40,9 +40,9 @@ _expression_.**ShapeLinkAdded** (_Shape_, _DataRecordsetID_, _DataRowID_)
 
 ## Remarks
 
-The  **ShapeLinkAdded** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
+The **ShapeLinkAdded** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
 
-When the  **ShapeLinkAdded** event is fired, the **EventInfo** property returns the following string:
+When the **ShapeLinkAdded** event is fired, the **EventInfo** property returns the following string:
 
  `/DataRecordsetID = n /DataRowID = m`
 

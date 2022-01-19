@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional|**Long**|Specifies whether Project saves changes before quitting. Can be one of the following  **[PjSaveType](Project.PjSaveType.md)** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default is **pjPromptSave** for new project files and projects that have changed since the last save.|
+| _SaveChanges_|Optional|**Long**|Specifies whether Project saves changes before quitting. Can be one of the following **[PjSaveType](Project.PjSaveType.md)** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default is **pjPromptSave** for new project files and projects that have changed since the last save.|
 
 ## Example
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.ID property (Project)
 
-Gets the identification number of a resource. Read-only  **Long**.
+Gets the identification number of a resource. Read-only **Long**.
 
 
 ## Syntax

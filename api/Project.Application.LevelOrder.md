@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.LevelOrder property (Project)
 
-Gets or sets the order in which tasks with overallocations will be delayed when resources are leveled. Read/write  **PjLevelOrder**.
+Gets or sets the order in which tasks with overallocations will be delayed when resources are leveled. Read/write **PjLevelOrder**.
 
 
 ## Syntax

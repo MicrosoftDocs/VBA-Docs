@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.Fill property (Word)
 
-Returns a  **[FillFormat](Word.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
+Returns a **[FillFormat](Word.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

@@ -42,7 +42,7 @@ _expression_. `TaskOnTimeline`( `_TaskID_`, `_Remove_`, `_TimelineViewName_` )
 
 ## Remarks
 
-Running  **TaskOnTimeline** with no arguments puts selected tasks on the active timeline.
+Running **TaskOnTimeline** with no arguments puts selected tasks on the active timeline.
 
 If the project includes custom timeline views, using the  _TimelineViewName_ argument activates the specified timeline, and then applies changes specified by the other arguments. If the specified timeline does not exist, **TaskOnTimeline** takes no action, but still returns **True**.
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CalendarDrivers.Item property (Project)
 
-Gets a single  **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.
+Gets a single **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.
 
 
 ## Syntax

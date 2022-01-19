@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[CanvasShapes](Word.Canvas
 
 ## Remarks
 
-This method doesn't select  **InlineShape** objects.
+This method doesn't select **InlineShape** objects.
 
 
 ## Example

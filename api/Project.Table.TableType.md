@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.TableType property (Project)
 
-Gets the table type for the specified table. Read-only  **PjItemType**.
+Gets the table type for the specified table. Read-only **PjItemType**.
 
 
 ## Syntax

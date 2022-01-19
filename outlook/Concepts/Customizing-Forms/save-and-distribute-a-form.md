@@ -29,7 +29,7 @@ For more information, see the following topics:
 ## Forms customized with form pages
 
 
-- Save the form in a forms library when you want to save a form to a location for easy access. There are three forms libraries. To open the libraries in an open form, on the **per** tab, in the **Form** group, click **Choose Form**. The libraries are listed in the      **x.
+- Save the form in a forms library when you want to save a form to a location for easy access. There are three forms libraries. To open the libraries in an open form, on the **per** tab, in the **Form** group, click **Choose Form**. The libraries are listed in the     **x.
     
   - **Personal Forms Library**. Forms saved in this library are accessible only to you and are stored in your mailbox. Use this library when you create a form for your own personal use, such as a form to track mileage.
     

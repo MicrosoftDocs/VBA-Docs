@@ -34,22 +34,22 @@ _expression_ A variable that represents a **[Masters](Visio.Masters.md)** object
 
 ## Remarks
 
-To determine which properties have changed when  **ShapeChanged** fires, use the **EventInfo** property. The string returned by the **EventInfo** property contains a list of substrings that identify the properties that changed.
+To determine which properties have changed when **ShapeChanged** fires, use the **EventInfo** property. The string returned by the **EventInfo** property contains a list of substrings that identify the properties that changed.
 
-Changes to the following shape properties cause the  **ShapeChanged** event to fire:
-
-
+Changes to the following shape properties cause the **ShapeChanged** event to fire:
 
 
--  **Name** (the **EventInfo** property contains "/name")
+
+
+- **Name** (the **EventInfo** property contains "/name")
     
--  **Data1** (the **EventInfo** property contains "/data1")
+- **Data1** (the **EventInfo** property contains "/data1")
     
--  **Data2** (the **EventInfo** property contains "/data2")
+- **Data2** (the **EventInfo** property contains "/data2")
     
--  **Data3** (the **EventInfo** property contains "/data3")
+- **Data3** (the **EventInfo** property contains "/data3")
     
--  **UniqueID** (the **EventInfo** property contains "/uniqueid")
+- **UniqueID** (the **EventInfo** property contains "/uniqueid")
     
 
 
@@ -63,14 +63,14 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-If you are handling this event from a program that receives a notification over a connection that was created by using  **AddAdvise**, the _varMoreInfo_ argument to **VisEventProc** contains the string: "/doc=1 /page=1 /shape=Sheet.3"
+If you are handling this event from a program that receives a notification over a connection that was created by using **AddAdvise**, the _varMoreInfo_ argument to **VisEventProc** contains the string: "/doc=1 /page=1 /shape=Sheet.3"
 
 
 
 
 > [!NOTE] 
-> You can use VBA  **WithEvents** variables to sink the **ShapeChanged** event.
+> You can use VBA **WithEvents** variables to sink the **ShapeChanged** event.
 
-For performance considerations, the  **Document** object's event set does not include the **ShapeChanged** event. To sink the **ShapeChanged** event from a **Document** object (and from the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **ShapeChanged** event. To sink the **ShapeChanged** event from a **Document** object (and from the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeadingStyle.Style property (Word)
 
-Returns or sets the style for a heading. Read/write  **Variant**.
+Returns or sets the style for a heading. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[HeadingStyle](Word.Heading
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  **WdBuiltinStyle** constant, or an object that represents the style.
+To set this property, specify the local name of the style, an integer, a **WdBuiltinStyle** constant, or an object that represents the style.
 
 
 ## See also

@@ -19,7 +19,7 @@ Represents a single mail merge field in a document. The **MailMergeDataField** o
 
 ## Remarks
 
-Use  **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
+Use **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
 
 
 ```vb

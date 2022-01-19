@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RulerLevels.Item method (PowerPoint)
 
-Returns a single  **RulerLevel** object from the specified **RulerLevels** collection.
+Returns a single **RulerLevel** object from the specified **RulerLevels** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [RulerLevels](PowerPoint.RulerLevels.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **RulerLevel** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **RulerLevel** object in the collection to be returned.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.GetArray method (Outlook)
 
-Obtains a two-dimensional array that contains a set of row and column values from the  **[Table](Outlook.Table.md)**.
+Obtains a two-dimensional array that contains a set of row and column values from the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MaxRows_|Required| **Long**|Specifies the maximum number of rows to return from the  **Table**.|
+| _MaxRows_|Required| **Long**|Specifies the maximum number of rows to return from the **Table**.|
 
 ## Return value
 
@@ -43,9 +43,9 @@ The **GetArray** method offers a conceptually simple means to get values from a 
 
  **GetArray** always starts at the current row of the **Table**. It returns an array with _MaxRows_ number of rows if there are at least _MaxRows_ number of rows in the **Table** starting at the current position. If _MaxRows_ is not larger than the total number of rows in the **Table**, and there are fewer than _MaxRows_ number of elements in the **Table** starting at the current row, it will return an array that contains only the remaining rows in the **Table**. If **GetArray** is called and there are no remaining rows, then **GetArray** returns an empty array with zero elements.
 
-After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table**, if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
+After obtaining the appropriate rows from the **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table**, if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
 
-The values in the columns map to columns in the  **Table**, and are therefore determined by the format of the property name used for the column. For more information, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
+The values in the columns map to columns in the **Table**, and are therefore determined by the format of the property name used for the column. For more information, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
 
 ## Example

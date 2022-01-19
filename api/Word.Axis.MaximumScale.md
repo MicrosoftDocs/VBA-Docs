@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MaximumScale property (Word)
 
-Returns or sets the maximum value on the value axis. Read/write  **Double**.
+Returns or sets the maximum value on the value axis. Read/write **Double**.
 
 
 ## Syntax

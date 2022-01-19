@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Cell.CellColor property (Project)
 
-Gets or sets the color of the cell background. Read/write  **PjColor**.
+Gets or sets the color of the cell background. Read/write **PjColor**.
 
 
 ## Syntax

@@ -14,20 +14,20 @@ ms.localizationpriority: medium
 
 # UserProperties object (Outlook)
 
-Contains  **[UserProperty](Outlook.UserProperty.md)** objects that represent the custom properties of an Outlook item.
+Contains **[UserProperty](Outlook.UserProperty.md)** objects that represent the custom properties of an Outlook item.
 
 
 ## Remarks
 
-Use the  **UserProperties** property to return the **UserProperties** object for an Outlook item. This applies to all Outlook items except for the **[NoteItem](Outlook.NoteItem.md)**.
+Use the **UserProperties** property to return the **UserProperties** object for an Outlook item. This applies to all Outlook items except for the **[NoteItem](Outlook.NoteItem.md)**.
 
-Use the  **[Add](Outlook.UserProperties.Add.md)** method to create a new **UserProperty** for an item and add it to the **UserProperties** object. The **Add** method allows you to specify a name and type for the new property. When you create a new property, it can also be added as a custom field to the folder that contains the item (using the same name as the property) by setting the _AddToFolderFields_ parameter to **True** when calling the **Add** method. That field can then be used as a column in folder views.
+Use the **[Add](Outlook.UserProperties.Add.md)** method to create a new **UserProperty** for an item and add it to the **UserProperties** object. The **Add** method allows you to specify a name and type for the new property. When you create a new property, it can also be added as a custom field to the folder that contains the item (using the same name as the property) by setting the _AddToFolderFields_ parameter to **True** when calling the **Add** method. That field can then be used as a column in folder views.
 
-Use  **UserProperties** (_index_), where _index_ is a name or one-based index number, to return a single **[UserProperty](Outlook.UserProperty.md)** object.
+Use **UserProperties** (_index_), where _index_ is a name or one-based index number, to return a single **[UserProperty](Outlook.UserProperty.md)** object.
 
-You can use the  **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** property of the **[Folder](Outlook.Folder.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
+You can use the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** property of the **[Folder](Outlook.Folder.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
 
-To get or set multiple custom properties, use the  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object instead of the **UserProperties** object for better performance.
+To get or set multiple custom properties, use the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object instead of the **UserProperties** object for better performance.
 
 
 ## Example

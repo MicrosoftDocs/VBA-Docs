@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.Format property (Word)
 
-Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the formatting of the specified paragraph or paragraphs.
+Returns or sets a **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the formatting of the specified paragraph or paragraphs.
 
 
 ## Syntax

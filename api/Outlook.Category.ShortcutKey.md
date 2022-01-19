@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Category](Outlook.Category.md) object
 
 ## Remarks
 
-Any  **OlCategoryShortcutKey** constant other than **olCategoryShortcutKeyNone** can only be used by one **Category** object at any given time. Setting the value of this property to an **OlCategoryShortcutKey** constant already in use sets the **ShortcutKey** property of the **Category** object already using the specified value to **olCategoryShortcutKeyNone**.
+Any **OlCategoryShortcutKey** constant other than **olCategoryShortcutKeyNone** can only be used by one **Category** object at any given time. Setting the value of this property to an **OlCategoryShortcutKey** constant already in use sets the **ShortcutKey** property of the **Category** object already using the specified value to **olCategoryShortcutKeyNone**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb

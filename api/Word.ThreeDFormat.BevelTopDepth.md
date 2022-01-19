@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.BevelTopDepth property (Word)
 
-Returns or sets a  **Single** that represents the depth of the top bevel. Read/write.
+Returns or sets a **Single** that represents the depth of the top bevel. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.CalendarGuid property (Project)
 
-Gets the GUID of the calendar for the task. Read-only  **String**.
+Gets the GUID of the calendar for the task. Read-only **String**.
 
 
 ## Syntax

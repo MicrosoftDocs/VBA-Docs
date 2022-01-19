@@ -23,7 +23,7 @@ _expression_.**Name**
 
 ## Example
 
-The following example displays the name of each  **Group2** object in the **TaskGroups2** collection in the Immediate window.
+The following example displays the name of each **Group2** object in the **TaskGroups2** collection in the Immediate window.
 
 
 ```vb

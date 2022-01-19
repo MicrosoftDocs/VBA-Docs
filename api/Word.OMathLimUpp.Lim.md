@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathLimUpp.Lim property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the upper limit object. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the limit of the upper limit object. Read-only.
 
 
 ## Syntax

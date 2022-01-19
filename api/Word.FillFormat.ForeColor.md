@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.ForeColor property (Word)
 
-Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill. Read/write.
+Returns or sets a **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill. Read/write.
 
 
 ## Syntax

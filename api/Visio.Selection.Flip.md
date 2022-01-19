@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Flip method (Visio)
 
-Flips selected shapes either as a group or individually about their pins. Returns  **Nothing**.
+Flips selected shapes either as a group or individually about their pins. Returns **Nothing**.
 
 
 ## Syntax
@@ -68,7 +68,7 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Flip** method to flip a selection horizontally.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Flip** method to flip a selection horizontally.
 
 
 ```vb

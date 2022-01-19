@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Shading](Word.Shading.md)'
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example

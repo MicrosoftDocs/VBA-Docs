@@ -33,10 +33,10 @@ DocumentWindows
 
 This property doesn't return any slide show windows associated with the presentation.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
+- **Microsoft.Office.Interop.PowerPoint._Presentation.Windows**
     
 
 ## See also

@@ -30,7 +30,7 @@ _expression_. `GetCrossReferenceItems`( `_ReferenceType_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReferenceType_|Required| **Variant**|The type of item you want to insert a cross-reference to. Can be any  **[WdReferenceType](Word.WdReferenceType.md)** constant.|
+| _ReferenceType_|Required| **Variant**|The type of item you want to insert a cross-reference to. Can be any **[WdReferenceType](Word.WdReferenceType.md)** constant.|
 
 ## Remarks
 

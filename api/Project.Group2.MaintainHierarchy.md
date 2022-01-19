@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Group2.MaintainHierarchy property (Project)
 
-Gets or sets a value that specifies whether hierarchy is maintained in the group view. Read/write  **Boolean**.
+Gets or sets a value that specifies whether hierarchy is maintained in the group view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The **MaintainHierarchy** property corresponds to the **Maintain Hierarchy in Cu
 
 ## Example
 
-The following example displays the name of the second  **Group2** object in the **TaskGroups2** collection, and then displays the setting for the **MaintainHierarchy** property in the Immediate window.
+The following example displays the name of the second **Group2** object in the **TaskGroups2** collection, and then displays the setting for the **MaintainHierarchy** property in the Immediate window.
 
 
 ```vb

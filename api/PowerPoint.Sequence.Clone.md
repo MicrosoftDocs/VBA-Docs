@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Sequence](PowerPoint.Sequence.md) obj
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|**Effect** object. The animation effect to be cloned.|
-| _Index_|Optional|**Long**|The position at which the cloned animation effect will be added to the  **Sequences** collection. The default value is -1 (added to the end).|
+| _Index_|Optional|**Long**|The position at which the cloned animation effect will be added to the **Sequences** collection. The default value is -1 (added to the end).|
 
 ## Return value
 

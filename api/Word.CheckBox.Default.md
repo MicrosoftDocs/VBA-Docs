@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CheckBox.Default property (Word)
 
-Returns or sets the default check box value.  **True** if the default value is checked. Read/write **Boolean**.
+Returns or sets the default check box value. **True** if the default value is checked. Read/write **Boolean**.
 
 
 ## Syntax

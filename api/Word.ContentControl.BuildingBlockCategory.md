@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.BuildingBlockCategory property (Word)
 
-Returns or sets a  **String** that represents the category for a building block content control. Read/write.
+Returns or sets a **String** that represents the category for a building block content control. Read/write.
 
 
 ## Syntax

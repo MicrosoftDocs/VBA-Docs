@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The address of the chart data range that contains the source data.|
-| _PlotBy_|Optional|**Variant**|Specifies the way the data will be plotted. Can be either of the following  **[XlRowCol](PowerPoint.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
+| _PlotBy_|Optional|**Variant**|Specifies the way the data will be plotted. Can be either of the following **[XlRowCol](PowerPoint.XlRowCol.md)** constants: **xlColumns** or **xlRows**.|
 
 ## Example
 

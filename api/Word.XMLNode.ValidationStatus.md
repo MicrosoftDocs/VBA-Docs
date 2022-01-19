@@ -25,7 +25,7 @@ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)'
 
 ## Remarks
 
-This property can return either of the two following  **WdXMLValidationStatus** constants.
+This property can return either of the two following **WdXMLValidationStatus** constants.
 
 |**Constant**|**Description**|
 |:-----|:-----|

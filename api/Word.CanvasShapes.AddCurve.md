@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.AddCurve method (Word)
 
-Returns a  **[Shape](Word.Shape.md)** object that represents a Bézier curve in a drawing canvas.
+Returns a **[Shape](Word.Shape.md)** object that represents a Bézier curve in a drawing canvas.
 
 
 ## Syntax

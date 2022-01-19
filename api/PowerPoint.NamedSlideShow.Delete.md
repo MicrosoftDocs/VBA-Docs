@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NamedSlideShow.Delete method (PowerPoint)
 
-Deletes the specified  **NamedSlideShow** object.
+Deletes the specified **NamedSlideShow** object.
 
 
 ## Syntax

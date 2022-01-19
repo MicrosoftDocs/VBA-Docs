@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Delay property (Project)
 
-Gets or sets the amount of time an assignment is delayed in minutes. Read/write  **Variant**.
+Gets or sets the amount of time an assignment is delayed in minutes. Read/write **Variant**.
 
 
 ## Syntax

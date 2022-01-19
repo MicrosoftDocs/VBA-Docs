@@ -31,9 +31,9 @@ MsoTriState
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](PowerPoint.Presentation.SetPasswordEncryptionOptions.md)** method to specify the algorithm PowerPoint uses for encrypting documents with passwords.
+Use the **[SetPasswordEncryptionOptions](PowerPoint.Presentation.SetPasswordEncryptionOptions.md)** method to specify the algorithm PowerPoint uses for encrypting documents with passwords.
 
-The value of the  **PasswordEncryptionFileProperties** property can be one of these **MsoTriState** constants.
+The value of the **PasswordEncryptionFileProperties** property can be one of these **MsoTriState** constants.
 
 
 

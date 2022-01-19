@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.ServerPolicy property (PowerPoint)
 
-Returns a Microsoft Office  **[ServerPolicy](Office.ServerPolicy.md)** object. Read-only.
+Returns a Microsoft Office **[ServerPolicy](Office.ServerPolicy.md)** object. Read-only.
 
 
 ## Syntax

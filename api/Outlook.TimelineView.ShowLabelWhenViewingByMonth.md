@@ -26,12 +26,12 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Remarks
 
-This property is applicable only if the  **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property is set to **olTimelineViewMonth**.
+This property is applicable only if the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property is set to **olTimelineViewMonth**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 
 ```vb

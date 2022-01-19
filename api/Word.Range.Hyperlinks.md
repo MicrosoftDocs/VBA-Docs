@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Hyperlinks property (Word)
 
-Returns a  **Hyperlinks** collection that represents all the hyperlinks in the specified range. Read-only.
+Returns a **Hyperlinks** collection that represents all the hyperlinks in the specified range. Read-only.
 
 
 ## Syntax

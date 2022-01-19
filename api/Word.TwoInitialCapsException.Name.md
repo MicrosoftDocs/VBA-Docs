@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TwoInitialCapsException.Name property (Word)
 
-Returns the name of the specified object. Read-only  **String**.
+Returns the name of the specified object. Read-only **String**.
 
 
 ## Syntax

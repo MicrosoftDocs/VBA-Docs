@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Range.TextVisibleOnScreen property (Word)
 
-Returns a  **Long** that indicates whether the text in the specified range is visible on the screen. Read-only.
+Returns a **Long** that indicates whether the text in the specified range is visible on the screen. Read-only.
 
 
 ## Syntax

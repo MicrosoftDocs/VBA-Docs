@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriteria2.Item property (Project)
 
-Gets a single item from a collection. Read-only  **GroupCriterion2**.
+Gets a single item from a collection. Read-only **GroupCriterion2**.
 
 
 ## Syntax

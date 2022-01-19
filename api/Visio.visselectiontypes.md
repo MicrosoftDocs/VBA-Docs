@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSelectionTypes enumeration (Visio)
 
-Selection types to be passed to the  **CreateSelection** method of the **Master**, **Page**, and **Shape** objects.
+Selection types to be passed to the **CreateSelection** method of the **Master**, **Page**, and **Shape** objects.
 
 
 

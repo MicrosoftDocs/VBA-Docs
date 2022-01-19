@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.LinkFormat property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of a shape that is linked to a file. Read/only.
+Returns a **LinkFormat** object that represents the link options of a shape that is linked to a file. Read/only.
 
 
 ## Syntax

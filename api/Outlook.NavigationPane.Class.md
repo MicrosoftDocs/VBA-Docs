@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationPane](Outlook.NavigationPan
 
 ## Remarks
 
-This property returns  **olNavigationPane** for the **[NavigationPane](Outlook.NavigationPane.md)** object.
+This property returns **olNavigationPane** for the **[NavigationPane](Outlook.NavigationPane.md)** object.
 
 
 ## See also

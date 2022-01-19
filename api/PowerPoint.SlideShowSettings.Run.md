@@ -31,7 +31,7 @@ SlideShowWindow
 
 ## Remarks
 
-To run a custom slide show, set the  **RangeType** property to **ppShowNamedSlideShow**, and set the **SlideShowName** property to the name of the custom show you want to run.
+To run a custom slide show, set the **RangeType** property to **ppShowNamedSlideShow**, and set the **SlideShowName** property to the name of the custom show you want to run.
 
 
 ## Example

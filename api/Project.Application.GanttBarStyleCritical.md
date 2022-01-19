@@ -30,7 +30,7 @@ _expression_. `GanttBarStyleCritical`( `_Show_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|If  **False**, hides the critical path style. If **True**, shows the critical task style.|
+| _Show_|Optional|**Boolean**|If **False**, hides the critical path style. If **True**, shows the critical task style.|
 
 ## Return value
 

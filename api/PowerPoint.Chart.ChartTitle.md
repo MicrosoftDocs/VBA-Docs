@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartTitle property (PowerPoint)
 
-Returns the title of the specified chart. Read-only  **[ChartTitle](PowerPoint.ChartTitle.md)**.
+Returns the title of the specified chart. Read-only **[ChartTitle](PowerPoint.ChartTitle.md)**.
 
 
 ## Syntax

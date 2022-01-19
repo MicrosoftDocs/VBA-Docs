@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.UnderlineColor property (Word)
 
-Returns or sets the 24-bit color of the underline for the specified  **Font** object. .
+Returns or sets the 24-bit color of the underline for the specified **Font** object. .
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Font](Word.Font.md)** obj
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function. Setting the **UnderlineColor** property to **wdColorAutomatic** resets the color of the underline to the color of the text above it.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function. Setting the **UnderlineColor** property to **wdColorAutomatic** resets the color of the underline to the color of the text above it.
 
 
 ## See also

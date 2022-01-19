@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeMaskLevel.Length property (Project)
 
-Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. Read/write  **Variant**.
+Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. Read/write **Variant**.
 
 
 ## Syntax

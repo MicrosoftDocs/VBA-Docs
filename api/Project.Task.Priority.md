@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Priority property (Project)
 
-Gets or sets the priority for the task. Read/write  **Variant**.
+Gets or sets the priority for the task. Read/write **Variant**.
 
 ## Syntax
 

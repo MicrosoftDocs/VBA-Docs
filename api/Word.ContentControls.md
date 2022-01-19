@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ContentControls object (Word)
 
-A collection of  **[ContentControl](Word.ContentControl.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
+A collection of **[ContentControl](Word.ContentControl.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SynonymInfo.MeaningList property (Word)
 
-Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
+Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only **Variant**.
 
 
 ## Syntax

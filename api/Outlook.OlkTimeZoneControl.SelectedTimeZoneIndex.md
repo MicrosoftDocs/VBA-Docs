@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkTimeZoneControl.SelectedTimeZoneIndex property (Outlook)
 
-Returns or sets an index into the  **[Application.TimeZones](Outlook.Application.TimeZones.md)** collection that determines the selected time zone. Read/write.
+Returns or sets an index into the **[Application.TimeZones](Outlook.Application.TimeZones.md)** collection that determines the selected time zone. Read/write.
 
 
 ## Syntax

@@ -23,6 +23,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Setting  **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
+Setting **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

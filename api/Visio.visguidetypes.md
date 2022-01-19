@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisGuideTypes enumeration (Visio)
 
-Guide type codes to be passed to the  **Page.AddGuide** method.
+Guide type codes to be passed to the **Page.AddGuide** method.
 
 
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 
 # Chart.Creator property (Project)
-Gets a 32-bit integer that indicates the application in which the chart was created. Read-only  **Long**.
+Gets a 32-bit integer that indicates the application in which the chart was created. Read-only **Long**.
 
 ## Syntax
 

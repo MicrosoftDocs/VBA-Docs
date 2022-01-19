@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShadowFormat.Blur property (Word)
 
-Returns or sets a  **Single** that represents the blur level for a shadow format. Read/write.
+Returns or sets a **Single** that represents the blur level for a shadow format. Read/write.
 
 
 ## Syntax

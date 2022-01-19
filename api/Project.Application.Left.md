@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.Left property (Project)
 
-Gets or sets the distance of the main window from the left edge of the screen in points. Read/write  **Long**.
+Gets or sets the distance of the main window from the left edge of the screen in points. Read/write **Long**.
 
 
 ## Syntax

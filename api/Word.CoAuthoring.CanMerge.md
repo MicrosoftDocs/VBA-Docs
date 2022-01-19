@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthoring.CanMerge property (Word)
 
-Returns a  **Boolean** that specifies whether the document can be auto-merged. Read-only.
+Returns a **Boolean** that specifies whether the document can be auto-merged. Read-only.
 
 
 ## Syntax

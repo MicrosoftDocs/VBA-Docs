@@ -14,16 +14,16 @@ ms.localizationpriority: medium
 
 # Views object (Outlook)
 
-Contains a collection of all  **[View](Outlook.View.md)** objects in the current folder.
+Contains a collection of all **[View](Outlook.View.md)** objects in the current folder.
 
 
 ## Remarks
 
-Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** (_index_),where _index_ is the object's name or position within the collection, to return a single **View** object.
+Use the **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** (_index_),where _index_ is the object's name or position within the collection, to return a single **View** object.
 
-Use the  **[Add](Outlook.Views.Add.md)** method of the views collection to add a new view to the collection.
+Use the **[Add](Outlook.Views.Add.md)** method of the views collection to add a new view to the collection.
 
-Use the  **[Remove](Outlook.Views.Remove.md)** method to remove a view from the collection.
+Use the **[Remove](Outlook.Views.Remove.md)** method to remove a view from the collection.
 
 
 ## Example
@@ -55,7 +55,7 @@ Sub GetView()
 End Sub
 ```
 
-The following example adds a new view of type  **olIconView** in the user's Notes folder.
+The following example adds a new view of type **olIconView** in the user's Notes folder.
 
 
 > [!NOTE] 

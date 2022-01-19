@@ -24,7 +24,7 @@ The **Task.PathDrivingPredecessor** property is related to the **Driving Predece
 
 **Figure 1. Using the task path properties to highlight tasks**
 
-![Using the task path properties to highlight tasks](../images/pj15_VBA_TaskPathDrivingPredecessor.gif)The **PathDrivingPredecessor** property does not act like the **Driving Predecessors** selection in the user interface. Instead, the **PathDrivingPredecessor** property is **True** whenboth of the following conditions are true: (a) the task is a driving predecessor of the selected task, and (b) the **Driving Predecessors** item is selected in **Task Path**. You can manually select a task or use VBA to select a task, and then use VBA to check whether another task is a driving predecessor to the selected task. For example, if you select the third task as in Figure 1, and the **Driving Predecessors** item is selected in **Task Path**, the following statement prints  **True** in the Immediate window of the VBE.
+![Using the task path properties to highlight tasks](../images/pj15_VBA_TaskPathDrivingPredecessor.gif)The **PathDrivingPredecessor** property does not act like the **Driving Predecessors** selection in the user interface. Instead, the **PathDrivingPredecessor** property is **True** whenboth of the following conditions are true: (a) the task is a driving predecessor of the selected task, and (b) the **Driving Predecessors** item is selected in **Task Path**. You can manually select a task or use VBA to select a task, and then use VBA to check whether another task is a driving predecessor to the selected task. For example, if you select the third task as in Figure 1, and the **Driving Predecessors** item is selected in **Task Path**, the following statement prints **True** in the Immediate window of the VBE.
 
 
 
@@ -81,7 +81,7 @@ Sub TestTaskPath()
 End Sub
 ```
 
-For the project in Figure 1, if the **Predecessors**,  **Driving Predecessors**,  **Successors**, and  **Driven Successors** items are all selected in **Task Path**, the **TestTaskPath** macro has the following output:
+For the project in Figure 1, if the **Predecessors**, **Driving Predecessors**, **Successors**, and **Driven Successors** items are all selected in **Task Path**, the **TestTaskPath** macro has the following output:
 
 
 

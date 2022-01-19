@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
  To add a calendar to the enterprise global template, first create a local calendar, and then add the local calendar to the enterprise global template with the **MakeLocalCalendarEnterprise** method.
 
-To enable creating local base calendars in an enterprise project, check  **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web App.
+To enable creating local base calendars in an enterprise project, check **Allow projects to use local base calendars** on the Additional Server Settings page in Project Web App.
 
 
 ## Example

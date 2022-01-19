@@ -19,7 +19,7 @@ Represents a single index. The **Index** object is a member of the **Indexes** c
 
 ## Remarks
 
-Use  **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
+Use **Indexes** (Index), where Index is the index number, to return a single **Index** object. The index number represents the position of the **Index** object in the document. The following example updates the first index in the active document.
 
 
 ```vb

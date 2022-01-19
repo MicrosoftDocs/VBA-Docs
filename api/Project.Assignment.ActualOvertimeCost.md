@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ActualOvertimeCost property (Project)
 
-Gets the actual overtime cost for an assignment. Read-only  **Variant**.
+Gets the actual overtime cost for an assignment. Read-only **Variant**.
 
 
 ## Syntax

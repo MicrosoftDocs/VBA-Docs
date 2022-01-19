@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comments.Count property (Visio)
 
-Returns the number of objects in a collection. Read-only  **Long**.
+Returns the number of objects in a collection. Read-only **Long**.
 
 
 ## Syntax

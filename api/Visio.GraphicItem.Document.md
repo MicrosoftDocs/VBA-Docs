@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItem.Document property (Visio)
 
-Gets the  **Document** object that contains the **Master** object of type **visTypeDataGraphic** that contains the **GraphicItem** object. Read-only.
+Gets the **Document** object that contains the **Master** object of type **visTypeDataGraphic** that contains the **GraphicItem** object. Read-only.
 
 
 > [!NOTE] 

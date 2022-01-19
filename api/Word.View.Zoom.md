@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.Zoom property (Word)
 
-Returns a  **[Zoom](Word.Zoom.md)** object that represents the magnification for the specified view.
+Returns a **[Zoom](Word.Zoom.md)** object that represents the magnification for the specified view.
 
 
 ## Syntax

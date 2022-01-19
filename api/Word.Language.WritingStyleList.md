@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.WritingStyleList property (Word)
 
-Returns a string array that contains the names of all writing styles available for the specified language. Read-only  **Variant**.
+Returns a string array that contains the names of all writing styles available for the specified language. Read-only **Variant**.
 
 
 ## Syntax

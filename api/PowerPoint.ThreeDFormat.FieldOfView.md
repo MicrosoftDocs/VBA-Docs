@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.FieldOfView property (PowerPoint)
 
-Returns or sets the camera field of view for the specified  **ThreeDFormat** object, in degrees. Read/write.
+Returns or sets the camera field of view for the specified **ThreeDFormat** object, in degrees. Read/write.
 
 
 ## Syntax

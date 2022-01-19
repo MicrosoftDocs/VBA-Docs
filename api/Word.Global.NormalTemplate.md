@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.NormalTemplate property (Word)
 
-Returns a  **Template** object that represents the Normal template.
+Returns a **Template** object that represents the Normal template.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.MailMessage property (Word)
 
-Returns a  **[MailMessage](Word.MailMessage.md)** object that represents the active email message.
+Returns a **[MailMessage](Word.MailMessage.md)** object that represents the active email message.
 
 
 ## Syntax

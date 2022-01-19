@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowSettings.ShowPresenterView property (PowerPoint)
 
-Returns the presenter view of the  **SlideShowSettings** object. Read/write.
+Returns the presenter view of the **SlideShowSettings** object. Read/write.
 
 
 ## Syntax

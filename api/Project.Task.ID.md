@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ID property (Project)
 
-Gets the identification number of a task. Read-only  **Long**.
+Gets the identification number of a task. Read-only **Long**.
 
 
 ## Syntax

@@ -26,9 +26,9 @@ _expression_ A variable that represents a [Category](Outlook.Category.md) object
 
 ## Remarks
 
-Setting the  **[Color](Outlook.Category.Color.md)** property of the **Category** object to an **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant changes the value of this property, as well as the value of the **[CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md)** and **[CategoryBorderColor](Outlook.Category.CategoryBorderColor.md)** properties.
+Setting the **[Color](Outlook.Category.Color.md)** property of the **Category** object to an **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant changes the value of this property, as well as the value of the **[CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md)** and **[CategoryBorderColor](Outlook.Category.CategoryBorderColor.md)** properties.
 
-This color should be used to display a gradient-shaded color swatch for the  **Category** object.
+This color should be used to display a gradient-shaded color swatch for the **Category** object.
 
 
 ## See also

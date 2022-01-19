@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.Version property (Project)
 
-Gets the version number of the Project application. Read-only  **String**.
+Gets the version number of the Project application. Read-only **String**.
 
 
 ## Syntax

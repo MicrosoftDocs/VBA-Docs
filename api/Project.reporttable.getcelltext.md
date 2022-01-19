@@ -50,11 +50,11 @@ The **GetTableText** example finds all of the tables on the active report, gets 
 
 1. Manually create a report. For example, on the **PROJECT** tab of the ribbon, in the **Reports** drop-down list, choose **More Reports**. In the **Reports** dialog box, choose **New** in the left pane, choose **Blank** in the right pane, and then choose **Select**. In the **Report Name** dialog box, typeReport 1.
     
-2. Add two tables to the report. Under  **REPORT TOOLS** on the **DESIGN** tab of the ribbon, use the **Table** command in the **Insert** group.
+2. Add two tables to the report. Under **REPORT TOOLS** on the **DESIGN** tab of the ribbon, use the **Table** command in the **Insert** group.
     
-3. Keep the default values in the first table, which includes the **Name**,  **Start**,  **Finish**, and  **% Complete** fields of the project summary task. Select the first table to display the **Field List** task pane, and then select **Actual Cost** and **Remaining Cost**.
+3. Keep the default values in the first table, which includes the **Name**, **Start**, **Finish**, and **% Complete** fields of the project summary task. Select the first table to display the **Field List** task pane, and then select **Actual Cost** and **Remaining Cost**.
     
-4. Select the second table. In the **Field List** task pane, change the **Filter** to **All Tasks**, and then select  **Actual Cost** and **Remaining Cost**. In the table, select and delete the **Start** column and the **Finish** column.
+4. Select the second table. In the **Field List** task pane, change the **Filter** to **All Tasks**, and then select **Actual Cost** and **Remaining Cost**. In the table, select and delete the **Start** column and the **Finish** column.
     
 5. Add two text boxes to the report, by using the **Text Box** control in the **Insert** group on the ribbon. For example, edit the first text box to showProject summary task, and edit the second text box to show Task information.
     

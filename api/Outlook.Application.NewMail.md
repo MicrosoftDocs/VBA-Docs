@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.NewMail event (Outlook)
 
-Occurs when one or more new email messages are received in the  **Inbox**. 
+Occurs when one or more new email messages are received in the **Inbox**. 
 
 
 ## Syntax
@@ -28,14 +28,14 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The **NewMail** event fires when new messages arrive in the Inbox and before client rule processing occurs. If you want to process items that arrive in the **Inbox**, consider using the  **[ItemAdd](Outlook.Items.ItemAdd.md)** event on the collection of items in the **Inbox**. The **ItemAdd** event passes a reference to each item that is added to a folder.
+The **NewMail** event fires when new messages arrive in the Inbox and before client rule processing occurs. If you want to process items that arrive in the **Inbox**, consider using the **[ItemAdd](Outlook.Items.ItemAdd.md)** event on the collection of items in the **Inbox**. The **ItemAdd** event passes a reference to each item that is added to a folder.
 
 The **NewMail** event does not fire when the user is in offline mode.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays the  **Inbox** folder when a new email message arrives. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example displays the **Inbox** folder when a new email message arrives. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

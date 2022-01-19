@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ViewCombination.Screen property (Project)
 
-Gets the screen type for the combination view. Read-only  **PjViewScreen**.
+Gets the screen type for the combination view. Read-only **PjViewScreen**.
 
 
 ## Syntax

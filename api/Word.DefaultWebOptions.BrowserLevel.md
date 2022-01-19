@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DefaultWebOptions.BrowserLevel property (Word)
 
-Returns or sets a  **WdBrowserLevel** constant that represents the level of the web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
+Returns or sets a **WdBrowserLevel** constant that represents the level of the web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
 
 
 ## Syntax

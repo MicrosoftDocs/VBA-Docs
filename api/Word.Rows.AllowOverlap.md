@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 
 ## Remarks
 
-This property returns  **wdUndefined** if the specified rows include both overlapping rows and nonoverlapping rows. Can be set to either **True** or **False**. Read/write **Long**. Setting **AllowOverlap** to **True** also sets **WrapAroundText** to **True**, and setting **WrapAroundText** to **False** also sets **AllowOverlap** to **False**.
+This property returns **wdUndefined** if the specified rows include both overlapping rows and nonoverlapping rows. Can be set to either **True** or **False**. Read/write **Long**. Setting **AllowOverlap** to **True** also sets **WrapAroundText** to **True**, and setting **WrapAroundText** to **False** also sets **AllowOverlap** to **False**.
 
-Because HTML doesn't support overlapping tables or shapes,  **AllowOverlap** is ignored in web layout view.
+Because HTML doesn't support overlapping tables or shapes, **AllowOverlap** is ignored in web layout view.
 
 
 ## Example

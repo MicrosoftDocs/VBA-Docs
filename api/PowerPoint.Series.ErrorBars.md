@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.ErrorBars property (PowerPoint)
 
-Returns the error bars for the series. Read-only  **[ErrorBars](PowerPoint.ErrorBars.md)**.
+Returns the error bars for the series. Read-only **[ErrorBars](PowerPoint.ErrorBars.md)**.
 
 
 ## Syntax

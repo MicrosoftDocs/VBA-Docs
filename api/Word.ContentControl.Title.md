@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.Title property (Word)
 
-Returns or sets a  **String** that represents the title for a content control. Read/write.
+Returns or sets a **String** that represents the title for a content control. Read/write.
 
 
 ## Syntax

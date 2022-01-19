@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.Width property (Word)
 
-Returns or sets the width of a table cell, in points. Read/write  **Long**.
+Returns or sets the width of a table cell, in points. Read/write **Long**.
 
 
 ## Syntax

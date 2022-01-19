@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PrintRange.Delete method (PowerPoint)
 
-Deletes the specified  **PrintRange** object.
+Deletes the specified **PrintRange** object.
 
 
 ## Syntax

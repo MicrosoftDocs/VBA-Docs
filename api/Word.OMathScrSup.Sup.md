@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathScrSup.Sup property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the superscript for a superscript object. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the superscript for a superscript object. Read-only.
 
 
 ## Syntax

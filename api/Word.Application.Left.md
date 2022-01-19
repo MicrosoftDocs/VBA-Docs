@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Left property (Word)
 
-Returns or sets a  **Long** that represents the horizontal position of the active document, measured in points. Read/write.
+Returns or sets a **Long** that represents the horizontal position of the active document, measured in points. Read/write.
 
 
 ## Syntax

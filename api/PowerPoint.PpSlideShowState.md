@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpSlideShowState enumeration (PowerPoint)
 
-Constants that specify the state of the slide show, passed to and returned by the  **State** property of the **SlideShowView** object.
+Constants that specify the state of the slide show, passed to and returned by the **State** property of the **SlideShowView** object.
 
 
 

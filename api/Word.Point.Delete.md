@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
 ## Remarks
 
-Deleting a  **Point** object deletes the entire series.
+Deleting a **Point** object deletes the entire series.
 
 
 ## See also

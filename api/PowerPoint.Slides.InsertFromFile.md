@@ -31,9 +31,9 @@ _expression_ A variable that represents a [Slides](PowerPoint.Slides.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file that contains the slides you want to insert.|
-| _Index_|Required|**Long**|The index number of the  **Slide** object in the specified **Slides** collection you want to insert the new slides after.|
-| _SlideStart_|Optional|**Long**|The index number of the first  **Slide** object in the **Slides** collection in the file denoted by FileName.|
-| _SlideEnd_|Optional|**Long**|The index number of the last  **Slide** object in the **Slides** collection in the file denoted by FileName.|
+| _Index_|Required|**Long**|The index number of the **Slide** object in the specified **Slides** collection you want to insert the new slides after.|
+| _SlideStart_|Optional|**Long**|The index number of the first **Slide** object in the **Slides** collection in the file denoted by FileName.|
+| _SlideEnd_|Optional|**Long**|The index number of the last **Slide** object in the **Slides** collection in the file denoted by FileName.|
 
 ## Return value
 

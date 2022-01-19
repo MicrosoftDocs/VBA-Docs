@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Republish_|Optional|**Boolean**|If  **True**, publish the entire project plan.|
+| _Republish_|Optional|**Boolean**|If **True**, publish the entire project plan.|
 | _WssUrl_|Optional|**String**|URL for the SharePoint site where the project workspace is to be provisioned. If NULL, no workspace is provisioned.|
 
 ## Return value

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.LanguageDetected property (Word)
 
-Returns or sets a  **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
+Returns or sets a **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
 
 
 ## Syntax

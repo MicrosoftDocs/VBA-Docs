@@ -33,7 +33,7 @@ NamedSlideShows
 
 Each named slide show, or custom slide show, is a user-selected subset of the specified presentation.
 
-Use the  **[Add](PowerPoint.NamedSlideShows.Add.md)** method of the **NamedSlideShows** object to create a named slide show.
+Use the **[Add](PowerPoint.NamedSlideShows.Add.md)** method of the **NamedSlideShows** object to create a named slide show.
 
 
 ## Example

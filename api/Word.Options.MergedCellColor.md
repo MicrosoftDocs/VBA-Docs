@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.MergedCellColor property (Word)
 
-Returns or sets a  **WdCellColor** constant that represents the color for merged table cells. Read/write.
+Returns or sets a **WdCellColor** constant that represents the color for merged table cells. Read/write.
 
 
 ## Syntax

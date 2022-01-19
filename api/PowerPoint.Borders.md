@@ -14,14 +14,14 @@ ms.localizationpriority: medium
 
 # Borders object (PowerPoint)
 
-A collection of  **[LineFormat](PowerPoint.LineFormat.md)** objects that represent the borders and diagonal lines of a cell or range of cells in a table.
+A collection of **[LineFormat](PowerPoint.LineFormat.md)** objects that represent the borders and diagonal lines of a cell or range of cells in a table.
 
 
 ## Remarks
 
-Each  **Cell** object or **CellRange** collection has six elements in the **Borders** collection. You cannot add objects to the **Borders** collection.
+Each **Cell** object or **CellRange** collection has six elements in the **Borders** collection. You cannot add objects to the **Borders** collection.
 
-Use  **Borders** (index), where index identifies the cell border or diagonal line, to return a single **Border** object. The index value can be any **PPBorderType** constant.
+Use **Borders** (index), where index identifies the cell border or diagonal line, to return a single **Border** object. The index value can be any **PPBorderType** constant.
 
 
 ||

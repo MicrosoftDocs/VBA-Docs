@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Hyperlinks property (Word)
 
-Returns a  **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified selection. Read-only.
+Returns a **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified selection. Read-only.
 
 
 ## Syntax

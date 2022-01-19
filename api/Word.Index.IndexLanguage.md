@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Index.IndexLanguage property (Word)
 
-Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the sorting language to use for the specified index. Read/write .
+Returns or sets a **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the sorting language to use for the specified index. Read/write .
 
 
 ## Syntax

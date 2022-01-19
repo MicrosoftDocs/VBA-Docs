@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.First property (Word)
 
-Returns a  **[Row](Word.Row.md)** object that represents the first item in the **Rows** collection.
+Returns a **[Row](Word.Row.md)** object that represents the first item in the **Rows** collection.
 
 
 ## Syntax

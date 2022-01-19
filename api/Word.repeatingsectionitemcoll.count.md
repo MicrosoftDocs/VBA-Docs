@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # RepeatingSectionItemColl.Count property (Word)
 
-Returns a  **Long** that represents the number of repeating section items in the collection. Read-only.
+Returns a **Long** that represents the number of repeating section items in the collection. Read-only.
 
 
 ## Syntax

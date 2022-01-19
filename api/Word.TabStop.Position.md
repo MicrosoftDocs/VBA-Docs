@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStop.Position property (Word)
 
-Returns or sets the position of a tab stop relative to the left margin. Read/write  **Single**.
+Returns or sets the position of a tab stop relative to the left margin. Read/write **Single**.
 
 
 ## Syntax

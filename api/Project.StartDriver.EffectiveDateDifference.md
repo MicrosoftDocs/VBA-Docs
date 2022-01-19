@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # StartDriver.EffectiveDateDifference property (Project)
 
-Gets the duration between two dates in minutes, using the effective calendar for a manually scheduled task. Read-only  **Long**.
+Gets the duration between two dates in minutes, using the effective calendar for a manually scheduled task. Read-only **Long**.
 
 
 ## Syntax

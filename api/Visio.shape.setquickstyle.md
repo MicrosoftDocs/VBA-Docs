@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 ## Remarks
 
-Calling the  **SetQuickStyle** method corresponds to setting a quick style in the **Shape Styles** gallery on the **Home** tab of the ribbon.
+Calling the **SetQuickStyle** method corresponds to setting a quick style in the **Shape Styles** gallery on the **Home** tab of the ribbon.
 
 
 

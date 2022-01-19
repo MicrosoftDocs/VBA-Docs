@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Words property (Word)
 
-Returns a  **[Words](Word.words.md)** collection that represents all the words in a selection. Read-only.
+Returns a **[Words](Word.words.md)** collection that represents all the words in a selection. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.HasChildNodes property (Word)
 
-Returns a  **Boolean** that represents whether an XML node has child nodes. Read-only.
+Returns a **Boolean** that represents whether an XML node has child nodes. Read-only.
 
 
 ## Syntax

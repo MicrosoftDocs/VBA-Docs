@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.BarShape property (Project)
-Gets or sets the shape used with the 3D bar chart or 3D column chart. Read/write  **Office.XlBarShape**.
+Gets or sets the shape used with the 3D bar chart or 3D column chart. Read/write **Office.XlBarShape**.
 
 ## Syntax
 

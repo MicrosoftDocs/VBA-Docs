@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ActualOvertimeWork property (Project)
 
-Gets the actual overtime work (in minutes) for a task. Read-only  **Variant**.
+Gets the actual overtime work (in minutes) for a task. Read-only **Variant**.
 
 
 ## Syntax

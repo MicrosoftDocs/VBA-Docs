@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagComment**.
+This property corresponds to the MAPI property **PidTagComment**.
 
 
 ## See also

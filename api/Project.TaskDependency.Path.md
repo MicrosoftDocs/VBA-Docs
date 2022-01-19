@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskDependency.Path property (Project)
 
-Gets or sets the path of the project that contains an external task. Read/write  **String**.
+Gets or sets the path of the project that contains an external task. Read/write **String**.
 
 
 ## Syntax

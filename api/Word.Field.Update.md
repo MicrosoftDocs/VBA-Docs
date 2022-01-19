@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Field.Update method (Word)
 
-Updates the result of the field. Returns  **True** if the field is updated successfully.
+Updates the result of the field. Returns **True** if the field is updated successfully.
 
 
 ## Syntax

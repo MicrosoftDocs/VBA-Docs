@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.Text property (Visio)
 
-Returns or sets the text of the specified comment. Read/write  **String**.
+Returns or sets the text of the specified comment. Read/write **String**.
 
 
 ## Syntax

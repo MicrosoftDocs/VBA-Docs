@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Text property (Word)
 
-Returns or sets the text to find. Read/write  **String**.
+Returns or sets the text to find. Read/write **String**.
 
 
 ## Syntax

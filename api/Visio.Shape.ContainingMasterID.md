@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.ContainingMasterID property (Visio)
 
-Returns the ID of the  **Master** object that contains an object. Read-only.
+Returns the ID of the **Master** object that contains an object. Read-only.
 
 
 ## Syntax
@@ -31,6 +31,6 @@ Long
 
 ## Remarks
 
-If the object is not in a  **Master** object, the **ContainingMasterID** property returns -1. For example, if a **Shape** object belongs to the **Shapes** collection of a **Page** object, the **ContainingMasterID** property returns -1.
+If the object is not in a **Master** object, the **ContainingMasterID** property returns -1. For example, if a **Shape** object belongs to the **Shapes** collection of a **Page** object, the **ContainingMasterID** property returns -1.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

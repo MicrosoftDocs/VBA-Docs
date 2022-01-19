@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.ScaleType property (PowerPoint)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](PowerPoint.XlScaleType.md)**.
+Returns or sets the value axis scale type. Read/write **[XlScaleType](PowerPoint.XlScaleType.md)**.
 
 
 ## Syntax

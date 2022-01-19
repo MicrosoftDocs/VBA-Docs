@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Characters property (Word)
 
-Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a range. Read-only.
+Returns a **[Characters](Word.characters.md)** collection that represents the characters in a range. Read-only.
 
 
 ## Syntax

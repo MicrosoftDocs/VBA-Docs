@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)
 
 ## Remarks
 
-If set to  **True**, Word replaces bullet character with bullets defined in the **Bullets And Numbering** dialog box (**Format** menu) as you type.
+If set to **True**, Word replaces bullet character with bullets defined in the **Bullets And Numbering** dialog box (**Format** menu) as you type.
 
 
 ## Example

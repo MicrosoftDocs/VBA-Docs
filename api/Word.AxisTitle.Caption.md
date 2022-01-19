@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.Caption property (Word)
 
-Returns or sets a  **String** value that represents the axis title text.
+Returns or sets a **String** value that represents the axis title text.
 
 
 ## Syntax

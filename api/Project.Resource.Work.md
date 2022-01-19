@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Work property (Project)
 
-Gets the work (in minutes) for the resource. Read-only  **Variant**.
+Gets the work (in minutes) for the resource. Read-only **Variant**.
 
 
 ## Syntax

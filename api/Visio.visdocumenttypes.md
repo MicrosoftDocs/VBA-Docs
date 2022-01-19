@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDocumentTypes enumeration (Visio)
 
-Type codes returned by the  **Document.Type** property.
+Type codes returned by the **Document.Type** property.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GridOriginHorizontal property (Word)
 
-Returns or sets a  **Single** that represents the point, relative to the left edge of the page, where you want the invisible grid for drawing, moving, and resizing AutoShapes or East Asian characters to begin in the specified document. Read/write.
+Returns or sets a **Single** that represents the point, relative to the left edge of the page, where you want the invisible grid for drawing, moving, and resizing AutoShapes or East Asian characters to begin in the specified document. Read/write.
 
 
 ## Syntax

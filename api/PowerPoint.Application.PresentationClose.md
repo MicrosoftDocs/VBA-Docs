@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PresentationClose event (PowerPoint)
 
-Occurs immediately before any open presentation closes, as it is removed from the  **[Presentations](PowerPoint.Presentations.md)** collection.
+Occurs immediately before any open presentation closes, as it is removed from the **[Presentations](PowerPoint.Presentations.md)** collection.
 
 
 ## Syntax

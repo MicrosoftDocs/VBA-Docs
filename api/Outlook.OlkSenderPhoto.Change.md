@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPho
 
 ## Remarks
 
-The change of the sender's contact picture usually means that the  **[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)** and **[PreferredHeight](Outlook.OlkSenderPhoto.PreferredHeight.md)** properties have changed as well. Therefore, this event can be used as an indication of the necessity to resize the control.
+The change of the sender's contact picture usually means that the **[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)** and **[PreferredHeight](Outlook.OlkSenderPhoto.PreferredHeight.md)** properties have changed as well. Therefore, this event can be used as an indication of the necessity to resize the control.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.Range property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained within the frame.
+Returns a **[Range](Word.Range.md)** object that represents the portion of a document that's contained within the frame.
 
 
 ## Syntax

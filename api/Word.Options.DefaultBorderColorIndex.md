@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultBorderColorIndex property (Word)
 
-Returns or sets the default line color for borders. Read/write  **WdColorIndex**.
+Returns or sets the default line color for borders. Read/write **WdColorIndex**.
 
 
 ## Syntax

@@ -61,7 +61,7 @@ With myDocument.Shapes
 End With
 ```
 
-This example has the same result as the previous example even though it doesn't explicitly use the  **Item** property.
+This example has the same result as the previous example even though it doesn't explicitly use the **Item** property.
 
 
 

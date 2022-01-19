@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.TopLevelTables property (Word)
 
-Returns a  **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
+Returns a **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
 
 
 ## Syntax

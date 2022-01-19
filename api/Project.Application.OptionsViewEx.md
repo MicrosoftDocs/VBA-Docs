@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OptionsViewEx method (Project)
 
-Sets display options for the **General**,  **Display**, and  **Advanced** tabs of the **Project Options** dialog box.
+Sets display options for the **General**, **Display**, and **Advanced** tabs of the **Project Options** dialog box.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _DisplayEntryBar_|Optional|**Boolean**|**True** if the entry bar appears.|
 | _DisplayScrollBars_|Optional|**Boolean**|**True** if scroll bars appear.|
 | _CurrencySymbol_|Optional|**String**|The symbol to use for currency values.|
-| _SymbolPlacement_|Optional|**Long**|The position to display the currency symbol in currency values. Can be one of the following  **[PjPlacement](Project.PjPlacement.md)** constants: **pjAfter**, **pjAfterWithSpace**, **pjBefore**, or **pjBeforeWithSpace**.|
+| _SymbolPlacement_|Optional|**Long**|The position to display the currency symbol in currency values. Can be one of the following **[PjPlacement](Project.PjPlacement.md)** constants: **pjAfter**, **pjAfterWithSpace**, **pjBefore**, or **pjBeforeWithSpace**.|
 | _CurrencyDigits_|Optional|**Integer**|The number of digits following the decimal point in currency values.|
 | _ProjectCurrency_|Optional|**Variant**|The three-character ISO standard currency code. For example, USD is the code for United States dollars. The **Currency** drop-down list on the **Display** tab includes all of the currency codes that Project supports.|
 | _DisplayOutlineNumber_|Optional|**Boolean**|**True** if the outline numbers for tasks appear.|
@@ -61,7 +61,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If an argument is omitted, the default value is specified by the corresponding setting on the **General**,  **Display**, or  **Advanced** tab of the **Project Options** dialog box.
+If an argument is omitted, the default value is specified by the corresponding setting on the **General**, **Display**, or **Advanced** tab of the **Project Options** dialog box.
 
 Using the **OptionsViewEx** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 

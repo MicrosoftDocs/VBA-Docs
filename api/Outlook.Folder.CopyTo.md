@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required  **Folder** object that represents the destination folder.|
+| _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required **Folder** object that represents the destination folder.|
 
 ## Return value
 
@@ -44,7 +44,7 @@ Setting the REG_MULTI_SZ value,  `DisableCrossAccountCopy`, in  `HKCU\Software\M
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CopyTo** method to copy the default Contacts folder to the default Inbox folder.
+This Visual Basic for Applications (VBA) example uses the **CopyTo** method to copy the default Contacts folder to the default Inbox folder.
 
 
 ```vb

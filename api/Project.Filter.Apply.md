@@ -30,7 +30,7 @@ _expression_ An expression that returns a [Filter](./Project.Filter.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Highlight_|Optional|**Boolean**|If  **True**, highlights the filtered items within the list of all items. If **False**, shows only the filtered items in the view. The default is **False**.|
+| _Highlight_|Optional|**Boolean**|If **True**, highlights the filtered items within the list of all items. If **False**, shows only the filtered items in the view. The default is **False**.|
 
 ## Return value
 

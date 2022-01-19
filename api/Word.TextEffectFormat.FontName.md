@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.FontName property (Word)
 
-Returns or sets the name of the font for the dropped capital letter. Read/write  **String**.
+Returns or sets the name of the font for the dropped capital letter. Read/write **String**.
 
 
 ## Syntax

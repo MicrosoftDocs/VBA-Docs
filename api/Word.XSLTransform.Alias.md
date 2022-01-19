@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XSLTransform.Alias property (Word)
 
-Returns a  **String** that represents the display name for the specified object.
+Returns a **String** that represents the display name for the specified object.
 
 
 ## Syntax

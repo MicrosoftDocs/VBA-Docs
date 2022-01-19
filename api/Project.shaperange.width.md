@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Width property (Project)
-Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the shapes within the range. Read/write  **Long**.
+Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the shapes within the range. Read/write **Long**.
 
 ## Syntax
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisThemeColors enumeration (Visio)
 
-Specifies theme color constants that are passed to and returned by the  **[Page.ThemeColors](Visio.Page.ThemeColors.md)** property.
+Specifies theme color constants that are passed to and returned by the **[Page.ThemeColors](Visio.Page.ThemeColors.md)** property.
 
 
 

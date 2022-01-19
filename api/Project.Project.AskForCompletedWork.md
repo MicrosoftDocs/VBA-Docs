@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.AskForCompletedWork property (Project)
 
-Gets or sets the way completed work is reported in team status messages. Read/write  **PjTeamStatusCompletedWork**.
+Gets or sets the way completed work is reported in team status messages. Read/write **PjTeamStatusCompletedWork**.
 
 
 ## Syntax

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.AdvancedFind Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Advanced Find** dialog box.
+Displays the Microsoft Outlook **Advanced Find** dialog box.
 
 
 ## Syntax

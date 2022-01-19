@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoTextEntry.Value property (Word)
 
-Returns or sets the value of the AutoText entry. Read/write  **String**.
+Returns or sets the value of the AutoText entry. Read/write **String**.
 
 
 ## Syntax

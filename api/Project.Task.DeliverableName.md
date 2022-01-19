@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.DeliverableName property (Project)
 
-Gets or sets the name of the deliverable. Read/write  **String**.
+Gets or sets the name of the deliverable. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Start property (Word)
 
-Returns or sets the starting character position of a range. Read/write  **Long**.
+Returns or sets the starting character position of a range. Read/write **Long**.
 
 
 ## Syntax

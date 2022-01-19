@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddSkipIf method (Word)
 
-Adds a SKIPIF field to a mail merge main document. Returns a  **MailMergeField** object. .
+Adds a SKIPIF field to a mail merge main document. Returns a **MailMergeField** object. .
 
 
 ## Syntax

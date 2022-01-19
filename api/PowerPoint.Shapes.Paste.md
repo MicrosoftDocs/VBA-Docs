@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.Paste method (PowerPoint)
 
-Pastes the shapes, slides, or text on the Clipboard into the specified  **Shapes** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains entire slides, the slides will be pasted as shapes that contain the images of the slides. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the pasted objects.
+Pastes the shapes, slides, or text on the Clipboard into the specified **Shapes** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains entire slides, the slides will be pasted as shapes that contain the images of the slides. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the pasted objects.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ ShapeRange
 
 ## Remarks
 
-Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

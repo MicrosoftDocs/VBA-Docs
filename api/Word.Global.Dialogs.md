@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.Dialogs property (Word)
 
-Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
+Returns a **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ Each text style contains a **[TextFrame](PowerPoint.TextFrame.md)** object that 
 
 ## Example
 
-Use  **TextStyles** (_index_), where _index_ is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. This example sets the margins for the notes body area on all the notes pages in the active presentation.
+Use **TextStyles** (_index_), where _index_ is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. This example sets the margins for the notes body area on all the notes pages in the active presentation.
 
 
 ```vb

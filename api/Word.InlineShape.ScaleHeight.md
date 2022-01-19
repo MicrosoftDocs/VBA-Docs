@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.ScaleHeight property (Word)
 
-Scales the height of the specified inline shape relative to its original size. Read/write  **Single**.
+Scales the height of the specified inline shape relative to its original size. Read/write **Single**.
 
 
 ## Syntax

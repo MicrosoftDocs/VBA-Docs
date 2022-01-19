@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextRuleCondition.Text property (Outlook)
 
-Returns or sets an array of  **String** elements that represents the text to be evaluated by the rule condition. Read/write.
+Returns or sets an array of **String** elements that represents the text to be evaluated by the rule condition. Read/write.
 
 
 ## Syntax

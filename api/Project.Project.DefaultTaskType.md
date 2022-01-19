@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultTaskType property (Project)
 
-Gets or sets the default task type. Read/write  **PjTaskFixedType**.
+Gets or sets the default task type. Read/write **PjTaskFixedType**.
 
 
 ## Syntax

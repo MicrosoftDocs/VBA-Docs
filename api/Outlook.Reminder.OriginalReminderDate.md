@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object
 
 ## Remarks
 
-This value corresponds to the original date and time value before the  **[Snooze](Outlook.Reminder.Snooze.md)** method is executed or the user clicks the **Snooze** button.
+This value corresponds to the original date and time value before the **[Snooze](Outlook.Reminder.Snooze.md)** method is executed or the user clicks the **Snooze** button.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a report of all reminders in the  **[Reminders](Outlook.Reminders.md)** collection and the dates at which they are scheduled to occur. The subroutine concatenates the **[Caption](Outlook.Reminder.Caption.md)** and **OriginalReminderDate** properties of all **[Reminder](Outlook.Reminder.md)** objects in the collection into a string and displays the string in a dialog box.
+The following Microsoft Visual Basic for Applications (VBA) example creates a report of all reminders in the **[Reminders](Outlook.Reminders.md)** collection and the dates at which they are scheduled to occur. The subroutine concatenates the **[Caption](Outlook.Reminder.Caption.md)** and **OriginalReminderDate** properties of all **[Reminder](Outlook.Reminder.md)** objects in the collection into a string and displays the string in a dialog box.
 
 
 ```vb

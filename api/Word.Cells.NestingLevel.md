@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cells.NestingLevel property (Word)
 
-Returns the nesting level of the specified cells. Read-only  **Long**.
+Returns the nesting level of the specified cells. Read-only **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns object (Outlook)
 
-Represents the collection of  **[Column](Outlook.Column.md)** objects in a **[Table](Outlook.Table.md)** object.
+Represents the collection of **[Column](Outlook.Column.md)** objects in a **[Table](Outlook.Table.md)** object.
 
 
 ## Remarks

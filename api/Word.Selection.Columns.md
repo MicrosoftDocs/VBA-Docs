@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Columns property (Word)
 
-Returns a  **Columns** collection that represents all the table columns in a selection. Read-only.
+Returns a **Columns** collection that represents all the table columns in a selection. Read-only.
 
 
 ## Syntax

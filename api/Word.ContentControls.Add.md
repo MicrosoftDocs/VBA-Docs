@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControls.Add method (Word)
 
-Adds a new content control, of the type specified, into the active document and returns a  **[ContentControl](Word.ContentControl.md)** object that represents the new content control.
+Adds a new content control, of the type specified, into the active document and returns a **[ContentControl](Word.ContentControl.md)** object that represents the new content control.
 
 
 ## Syntax

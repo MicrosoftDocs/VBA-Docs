@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CanvasShapes.AddLine method (Word)
 
-Adds a line to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the line and adds it to the **CanvasShapes** collection.
+Adds a line to a drawing canvas. Returns a **[Shape](Word.Shape.md)** object that represents the line and adds it to the **CanvasShapes** collection.
 
 
 ## Syntax

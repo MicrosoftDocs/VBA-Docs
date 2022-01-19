@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DefaultTextEncoding property (Word)
 
-Returns or sets an  **MsoEncoding** constant representing the code page, or character set, that Microsoft Word uses for all documents saved as encoded text files. Read/write.
+Returns or sets an **MsoEncoding** constant representing the code page, or character set, that Microsoft Word uses for all documents saved as encoded text files. Read/write.
 
 
 ## Syntax

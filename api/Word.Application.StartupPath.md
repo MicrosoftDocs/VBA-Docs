@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.StartupPath property (Word)
 
-Returns or sets the complete path of the startup folder, excluding the final separator. Read/write  **String**.
+Returns or sets the complete path of the startup folder, excluding the final separator. Read/write **String**.
 
 
 ## Syntax

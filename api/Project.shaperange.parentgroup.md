@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.ParentGroup property (Project)
-Gets the common parent shape of a child shape or a range of child shapes. Read-only  **Shape**.
+Gets the common parent shape of a child shape or a range of child shapes. Read-only **Shape**.
 
 ## Syntax
 

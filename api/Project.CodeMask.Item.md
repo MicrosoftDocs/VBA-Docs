@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CodeMask.Item property (Project)
 
-Gets a single  **CodeMaskLevel** object from the **CodeMask** collection. Read-only **CodeMaskLevel**.
+Gets a single **CodeMaskLevel** object from the **CodeMask** collection. Read-only **CodeMaskLevel**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMatCol.Args property (Word)
 
-Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments in a matrix column. Read-only.
+Returns an **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments in a matrix column. Read-only.
 
 
 ## Syntax

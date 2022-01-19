@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.Text property (Word)
 
-Returns or sets the text contained within the XML element. Read/write  **String**.
+Returns or sets the text contained within the XML element. Read/write **String**.
 
 
 ## Syntax

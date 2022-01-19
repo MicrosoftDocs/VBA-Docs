@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Characters.Last property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the last character in the collection.
+Returns a **[Range](Word.Range.md)** object that represents the last character in the collection.
 
 
 ## Syntax

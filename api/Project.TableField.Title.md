@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableField.Title property (Project)
 
-Gets or sets the title of the field in a table. Read/write  **String**.
+Gets or sets the title of the field in a table. Read/write **String**.
 
 
 ## Syntax

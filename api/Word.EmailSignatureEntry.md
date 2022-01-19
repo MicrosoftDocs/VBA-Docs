@@ -19,7 +19,7 @@ Represents a single email signature entry. The **EmailSignatureEntry** object is
 
 ## Remarks
 
-Use  **EmailSignatureEntries** (Index), where Index is the email signature entry name or item number, to return a single **EmailSignatureEntry** object. You must match exactly the spelling (but not necessarily the capitalization) of the name. The following example uses the **[Delete](Word.EmailSignatureEntry.Delete.md)** method to delete the signature entry named "Jeff Smith."
+Use **EmailSignatureEntries** (Index), where Index is the email signature entry name or item number, to return a single **EmailSignatureEntry** object. You must match exactly the spelling (but not necessarily the capitalization) of the name. The following example uses the **[Delete](Word.EmailSignatureEntry.Delete.md)** method to delete the signature entry named "Jeff Smith."
 
 
 ```vb

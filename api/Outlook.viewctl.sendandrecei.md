@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.SendAndReceive Method (Outlook View Control)
 
-Sends all messages that are in the  **Outbox** folder and checks for new messages.
+Sends all messages that are in the **Outbox** folder and checks for new messages.
 
 
 ## Syntax

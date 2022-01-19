@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Endnotes property (Word)
 
-Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes in a document. Read-only.
+Returns an **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes in a document. Read-only.
 
 
 ## Syntax

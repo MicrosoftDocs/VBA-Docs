@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisListDirection enumeration (Visio)
 
-Specifies constants that identify the list direction; passed to and returned by the  **[ContainerProperties.ListDirection](Visio.ContainerProperties.ListDirection.md)** property.
+Specifies constants that identify the list direction; passed to and returned by the **[ContainerProperties.ListDirection](Visio.ContainerProperties.ListDirection.md)** property.
 
 
 

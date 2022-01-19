@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.RadarAxisLabels property (PowerPoint)
 
-Returns the radar axis labels for the specified chart group. Read-only  **[TickLabels](PowerPoint.TickLabels.md)**.
+Returns the radar axis labels for the specified chart group. Read-only **[TickLabels](PowerPoint.TickLabels.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ReadingLayoutSizeX property (Word)
 
-Sets or returns a  **Long** that represents the width of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
+Sets or returns a **Long** that represents the width of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
 
 
 ## Syntax

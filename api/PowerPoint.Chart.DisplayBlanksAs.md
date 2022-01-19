@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.DisplayBlanksAs property (PowerPoint)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](PowerPoint.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the **[XlDisplayBlanksAs](PowerPoint.XlDisplayBlanksAs.md)** constants. Read/write **Long**.
 
 
 ## Syntax

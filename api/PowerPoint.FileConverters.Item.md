@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverters.Item method (PowerPoint)
 
-Returns an individual  **FileConverter** object in a collection.
+Returns an individual **FileConverter** object in a collection.
 
 
 ## Syntax

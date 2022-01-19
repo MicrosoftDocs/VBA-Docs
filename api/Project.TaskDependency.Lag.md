@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TaskDependency.Lag property (Project)
 
-The duration of lag time between linked tasks. Read/write  **Variant**.
+The duration of lag time between linked tasks. Read/write **Variant**.
 
 
 ## Syntax

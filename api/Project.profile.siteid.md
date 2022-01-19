@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Profile.SiteId property (Project)
-Gets the GUID of the Project Web App instance for the active profile. Read-only  **String**.
+Gets the GUID of the Project Web App instance for the active profile. Read-only **String**.
 
 ## Syntax
 

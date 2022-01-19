@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Model3DFormat](PowerPoint.Model3DFo
 
 ## Remarks
 
-Use the **ResetModel** method to restore 3D model properties back to default settings.  Any camera settings, shape properties, light properties, and animation properties are set to the same values that are applied when a 3D model is first inserted into a document.  
+Use the **ResetModel** method to restore 3D model properties back to default settings. Any camera settings, shape properties, light properties, and animation properties are set to the same values that are applied when a 3D model is first inserted into a document. 
 
 The size of the 3D model frame can also be conditionally changed if the parameter _ResetFrameSize_ is set to **True**.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkTextBox.Change event (Outlook)
 
-Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
+Occurs when the **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
 
 ## Syntax

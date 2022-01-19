@@ -31,11 +31,11 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cset_|Required| **Variant**|One or more characters. This argument is case-sensitive.|
-| _Count_|Optional| **Variant**|The maximum number of characters by which the selection is to be moved. Can be a number or either  **wdForward** or **wdBackward**. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
+| _Count_|Optional| **Variant**|The maximum number of characters by which the selection is to be moved. Can be a number or either **wdForward** or **wdBackward**. If Count is a positive number, the selection is moved forward in the document. If it is a negative number, the selection is moved backward. The default value is **wdForward**.|
 
 ## Remarks
 
-While any character in Cset is found, the end position of the specified selection is moved. This method returns the number of characters that the end position of the selection moved as a  **Long** value. If no Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the end position is moved backward to a point that precedes the original start position, the start position is set to the new end position.
+While any character in Cset is found, the end position of the specified selection is moved. This method returns the number of characters that the end position of the selection moved as a **Long** value. If no Cset characters are found, the selection isn't changed and the method returns 0 (zero). If the end position is moved backward to a point that precedes the original start position, the start position is set to the new end position.
 
 
 ## Example
@@ -47,7 +47,7 @@ This example moves the end position of the selection forward while the space cha
 Selection.MoveEndWhile Cset:=" ", Count:=wdForward
 ```
 
-This example moves the end position of the selection forward while  **Count** is less than or equal to 10 and any letter from "a" through "h" is found.
+This example moves the end position of the selection forward while **Count** is less than or equal to 10 and any letter from "a" through "h" is found.
 
 
 

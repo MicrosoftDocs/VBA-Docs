@@ -30,7 +30,7 @@ Newly created documents use the suffix returned by the **FolderSuffix** property
 
 By default, the name of the supporting folder is the name of the webpage plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Word in which the file was saved as a webpage). For example, suppose that you use the Dutch language version of Word to save a file called "Page1" as a webpage. The default name of the supporting folder is Page1_bestanden.
 
-The following table lists each language version of Office and gives its corresponding  **LanguageID** property value and folder suffix. For the languages that are not listed in the table, the suffix ".files" is used.
+The following table lists each language version of Office and gives its corresponding **LanguageID** property value and folder suffix. For the languages that are not listed in the table, the suffix ".files" is used.
 
 
 

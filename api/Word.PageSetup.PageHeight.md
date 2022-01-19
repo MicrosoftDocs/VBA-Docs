@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.PageHeight property (Word)
 
-Returns or sets the height of the page in points. Read/write  **Single**.
+Returns or sets the height of the page in points. Read/write **Single**.
 
 
 ## Syntax

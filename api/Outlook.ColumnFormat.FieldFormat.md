@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md
 
 ## Remarks
 
-The value of this property is a constant from an enumeration, where the enumeration is dependent on the value of the  **[FieldType](Outlook.ColumnFormat.FieldType.md)** property for the **ColumnFormat** object:
+The value of this property is a constant from an enumeration, where the enumeration is dependent on the value of the **[FieldType](Outlook.ColumnFormat.FieldType.md)** property for the **ColumnFormat** object:
 
 
 

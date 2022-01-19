@@ -23,7 +23,7 @@ _expression_ A variable that represents a **TextBox** object.
 
 The default value is a zero-length string ("").
 
-Any value you assign to the  **Text** property is also assigned to the **[Value](Outlook.textbox.value.md)** property.
+Any value you assign to the **Text** property is also assigned to the **[Value](Outlook.textbox.value.md)** property.
 
 The **[ForeColor](Outlook.textbox.forecolor.md)** property determines the color of the text.
 

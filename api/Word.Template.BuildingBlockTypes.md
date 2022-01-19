@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.BuildingBlockTypes property (Word)
 
-Returns a  **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that represents the collection of building block types that are contained in a template. Read-only.
+Returns a **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that represents the collection of building block types that are contained in a template. Read-only.
 
 
 ## Syntax

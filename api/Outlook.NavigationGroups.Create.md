@@ -30,7 +30,7 @@ _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationG
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _GroupDisplayName_|Required| **String**|The value of the  **[Name](Outlook.NavigationGroup.Name.md)** property for the new **NavigationGroup** object.|
+| _GroupDisplayName_|Required| **String**|The value of the **[Name](Outlook.NavigationGroup.Name.md)** property for the new **NavigationGroup** object.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.PresentationNewSlide event (PowerPoint)
 
-Occurs when a new slide is created in any open presentation, as the slide is added to the  **[Slides](PowerPoint.Slides.md)** collection.
+Occurs when a new slide is created in any open presentation, as the slide is added to the **[Slides](PowerPoint.Slides.md)** collection.
 
 
 ## Syntax

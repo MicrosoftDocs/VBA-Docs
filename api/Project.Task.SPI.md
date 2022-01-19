@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.SPI property (Project)
 
-Gets the value of the schedule performance index (SPI) calculation for the task. Read-only  **Double**.
+Gets the value of the schedule performance index (SPI) calculation for the task. Read-only **Double**.
 
 
 ## Syntax

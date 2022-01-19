@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Tasks.Item property (Project)
 
-Gets a single  **Task** object from the **Tasks** collection. Read-only **Task**.
+Gets a single **Task** object from the **Tasks** collection. Read-only **Task**.
 
 
 ## Syntax

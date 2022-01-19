@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Conflicts.GetLast method (Outlook)
 
-Returns the last object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
+Returns the last object in the **[Conflicts](Outlook.Conflicts.md)** collection.
 
 
 ## Syntax

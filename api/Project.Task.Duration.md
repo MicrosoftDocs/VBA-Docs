@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Duration property (Project)
 
-Gets or sets the duration (in minutes) of a task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the duration (in minutes) of a task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

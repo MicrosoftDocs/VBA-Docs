@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.ClearConversationIndex method (Outlook)
 
-Clears the index of the conversation thread for the  **[SharingItem](Outlook.SharingItem.md)**.
+Clears the index of the conversation thread for the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

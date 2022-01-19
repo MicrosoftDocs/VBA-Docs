@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Chart.SetElement method (Word)
 
-Sets chart elements on a chart. Read/write  **MsoChartElementType**.
+Sets chart elements on a chart. Read/write **MsoChartElementType**.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ For charts, the following commands in the **Layout** tab correspond to the **Set
     
 - Everything in the **Analysis** group.
     
--  **PlotArea**,  **Chart Wall**, and  **Chart Floor** buttons.
+- **PlotArea**, **Chart Wall**, and **Chart Floor** buttons.
     
 
 

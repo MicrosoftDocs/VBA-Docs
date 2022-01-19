@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartBorder.LineStyle property (Word)
 
-Returns or sets the line style for the border. Read/write  **[XlLineStyle](Word.xllinestyle.md)**, **xlGray25**, **xlGray50**, **xlGray75**, or **xlAutomatic**.
+Returns or sets the line style for the border. Read/write **[XlLineStyle](Word.xllinestyle.md)**, **xlGray25**, **xlGray50**, **xlGray75**, or **xlAutomatic**.
 
 
 ## Syntax

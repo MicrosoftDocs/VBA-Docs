@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.BCWS property (Project)
 
-Gets the budgeted cost of work scheduled for the assignment. Read-only  **Variant**.
+Gets the budgeted cost of work scheduled for the assignment. Read-only **Variant**.
 
 
 ## Syntax

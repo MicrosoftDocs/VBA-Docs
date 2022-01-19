@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCaption.CaptionLabel property (Word)
 
-Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write  **Variant**.
+Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' 
 
 ## Remarks
 
-This property can be set to a string or a  **WdCaptionLabelID** constant.
+This property can be set to a string or a **WdCaptionLabelID** constant.
 
 
 ## Example

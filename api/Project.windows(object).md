@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Windows object (Project)
 
-Contains a collection of  **[Window](Project.Window.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
+Contains a collection of **[Window](Project.Window.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
  
 
 
@@ -30,7 +30,7 @@ Contains a collection of  **[Window](Project.Window.md)** objects. The **Windows
  
 
  
-Use  **Windows** ( _Index_), where  _Index_ is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
+Use **Windows** ( _Index_), where  _Index_ is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
  
 
  

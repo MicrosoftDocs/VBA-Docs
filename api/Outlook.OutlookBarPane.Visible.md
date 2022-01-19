@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OutlookBarPane](Outlook.OutlookBarPa
 
  **True** to display the object; **False** to hide the object.
 
-You can also use the  **[ShowPane](Outlook.Explorer.ShowPane.md)** method or the **[IsPaneVisible](Outlook.Explorer.IsPaneVisible.md)** method of an **[Explorer](Outlook.Explorer.md)** object to set or retrieve this value.
+You can also use the **[ShowPane](Outlook.Explorer.ShowPane.md)** method or the **[IsPaneVisible](Outlook.Explorer.IsPaneVisible.md)** method of an **[Explorer](Outlook.Explorer.md)** object to set or retrieve this value.
 
 
 ## Example

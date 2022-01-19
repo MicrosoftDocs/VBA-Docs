@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # Inspectors object (Outlook)
 
-Contains a set of  **[Inspector](Outlook.Inspector.md)** objects representing all inspectors.
+Contains a set of **[Inspector](Outlook.Inspector.md)** objects representing all inspectors.
 
 
 ## Remarks
 
  An inspector need not be visible to be included in the collection.
 
-Use the  **[Inspectors](Outlook.Application.Inspectors.md)** property to return the **Inspectors** object from the **[Application](Outlook.Application.md)** object.
+Use the **[Inspectors](Outlook.Application.Inspectors.md)** property to return the **Inspectors** object from the **[Application](Outlook.Application.md)** object.
 
 
 ## Example
 
-The following example shows how to retrieve the  **Inspectors** object in Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA).
+The following example shows how to retrieve the **Inspectors** object in Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA).
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.StartText property (Project)
 
-Gets or sets a string representation of the task start date. Read/write  **String**.
+Gets or sets a string representation of the task start date. Read/write **String**.
 
 
 ## Syntax

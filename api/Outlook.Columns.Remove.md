@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Remove method (Outlook)
 
-Removes the  **[Column](Outlook.Column.md)** object specified by _Index_ and resets the **[Table](Outlook.Table.md)**.
+Removes the **[Column](Outlook.Column.md)** object specified by _Index_ and resets the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax

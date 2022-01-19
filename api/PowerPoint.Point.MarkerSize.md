@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Point.MarkerSize property (PowerPoint)
 
-Returns or sets the data-marker size, in points. Read/write  **Long**.
+Returns or sets the data-marker size, in points. Read/write **Long**.
 
 
 ## Syntax

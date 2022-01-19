@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ActualStartDrivers.Item property (Project)
 
-Gets a single  **Assignment** object from an **ActualStartDrivers** collection. Read-only **Assignment**.
+Gets a single **Assignment** object from an **ActualStartDrivers** collection. Read-only **Assignment**.
 
 
 ## Syntax

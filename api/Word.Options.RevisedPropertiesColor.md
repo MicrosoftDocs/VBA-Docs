@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.RevisedPropertiesColor property (Word)
 
-Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write  **WdColorIndex**.
+Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write **WdColorIndex**.
 
 
 ## Syntax

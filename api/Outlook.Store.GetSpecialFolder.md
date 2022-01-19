@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FolderType_|Required| **[OlSpecialFolders](Outlook.OlSpecialFolders.md)**|A constant in the  **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
+| _FolderType_|Required| **[OlSpecialFolders](Outlook.OlSpecialFolders.md)**|A constant in the **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
 
 ## Return value
 

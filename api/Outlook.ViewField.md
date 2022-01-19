@@ -19,19 +19,19 @@ Represents a view field, used to display information in a view.
 
 ## Remarks
 
-Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[ViewFields](Outlook.ViewFields.md)** collection to add an Outlook item property to the following objects derived from the **[View](Outlook.View.md)** object:
+Use the **[Add](Outlook.ViewFields.Add.md)** method of the **[ViewFields](Outlook.ViewFields.md)** collection to add an Outlook item property to the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[CardView](Outlook.CardView.md)**
+- **[CardView](Outlook.CardView.md)**
     
--  **[TableView](Outlook.TableView.md)**
+- **[TableView](Outlook.TableView.md)**
     
-Use the  **[ColumnFormat](Outlook.ViewField.ColumnFormat.md)** property to access the **[ColumnFormat](Outlook.ColumnFormat.md)** object representing the display properties associated with the view field. Use the **[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** property to obtain the name of the view field as referenced in the XML definition of the view.
+Use the **[ColumnFormat](Outlook.ViewField.ColumnFormat.md)** property to access the **[ColumnFormat](Outlook.ColumnFormat.md)** object representing the display properties associated with the view field. Use the **[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** property to obtain the name of the view field as referenced in the XML definition of the view.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb

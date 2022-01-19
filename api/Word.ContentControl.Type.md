@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.Type property (Word)
 
-Returns or sets a  **[WdContentControlType](Word.WdContentControlType.md)** that represents the type for a content control. Read/write.
+Returns or sets a **[WdContentControlType](Word.WdContentControlType.md)** that represents the type for a content control. Read/write.
 
 
 ## Syntax

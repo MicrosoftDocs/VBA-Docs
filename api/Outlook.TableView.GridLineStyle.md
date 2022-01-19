@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example sets the  **GridLineStyle** property of the current **TableView** object to display the grid with small dotted lines.
+The following Visual Basic for Applications (VBA) example sets the **GridLineStyle** property of the current **TableView** object to display the grid with small dotted lines.
 
 
 ```vb

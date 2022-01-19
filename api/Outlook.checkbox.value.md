@@ -24,7 +24,7 @@ _expression_ A variable that represents a **CheckBox** object.
 
 ## Remarks
 
-The settings for  **Value** are:
+The settings for **Value** are:
 
 
 

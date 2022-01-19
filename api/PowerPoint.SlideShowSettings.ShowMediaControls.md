@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowSettings.ShowMediaControls property (PowerPoint)
 
-Allows access to the media controls in the  **SlideShowSettings** object. Read/write.
+Allows access to the media controls in the **SlideShowSettings** object. Read/write.
 
 
 ## Syntax

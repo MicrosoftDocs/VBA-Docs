@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.HasAxis property (PowerPoint)
 
-Returns or sets which axes exist on the chart. Read/write  **Variant**.
+Returns or sets which axes exist on the chart. Read/write **Variant**.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the  **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
-| _Index2_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
+| _Index1_|Optional|**Variant**|The axis type. Series axes apply only to 3D charts. Can be one of the **[XlAxisType](PowerPoint.XlAxisType.md)** constants.|
+| _Index2_|Optional|**Variant**|The axis group. 3D charts have only one set of axes. Can be one of the **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants.|
 
 ## Remarks
 
 You must enter a value for at least one of the parameters when you set this property.
 
-Microsoft Word may create or delete axes if you change the chart type or the  **[AxisGroup](PowerPoint.Axis.AxisGroup.md)** property.
+Microsoft Word may create or delete axes if you change the chart type or the **[AxisGroup](PowerPoint.Axis.AxisGroup.md)** property.
 
 
 ## Example

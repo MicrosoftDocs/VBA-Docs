@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.PercentComplete property (Project)
 
-Gets or sets the percent complete of a task. Read/write  **Variant**.
+Gets or sets the percent complete of a task. Read/write **Variant**.
 
 
 ## Syntax

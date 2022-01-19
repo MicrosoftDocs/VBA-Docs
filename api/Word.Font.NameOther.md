@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.NameOther property (Word)
 
-Returns or sets the font used for characters with character codes from 128 through 255. Read/write  **String**.
+Returns or sets the font used for characters with character codes from 128 through 255. Read/write **String**.
 
 
 ## Syntax

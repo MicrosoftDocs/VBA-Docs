@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-A message is always created and submitted in a folder, usually the  **Outbox**. 
+A message is always created and submitted in a folder, usually the **Outbox**. 
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.Name property (Word)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax

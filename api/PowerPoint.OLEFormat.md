@@ -24,7 +24,7 @@ The **[LinkFormat](PowerPoint.LinkFormat.md)** object contains properties and me
 
 ## Example
 
-Use the  **OLEFormat** property to return an **OLEFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
+Use the **OLEFormat** property to return an **OLEFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
 
 
 ```vb

@@ -26,12 +26,12 @@ _expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md
 
 ## Remarks
 
-The validation text is the error message that a user receives when the  **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)**.
+The validation text is the error message that a user receives when the **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example demonstrates the use of  **ValidationText** and **ValidationFormula** properties.
+The following Visual Basic for Applications (VBA) example demonstrates the use of **ValidationText** and **ValidationFormula** properties.
 
 
 ```vb

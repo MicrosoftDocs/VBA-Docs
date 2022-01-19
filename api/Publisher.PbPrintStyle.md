@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbPrintStyle enumeration (Publisher)
 
-Constants specifying the print style and passed to the  **PrintOutEx** and **ExportAsFixedFormat** methods.
+Constants specifying the print style and passed to the **PrintOutEx** and **ExportAsFixedFormat** methods.
 
 
 

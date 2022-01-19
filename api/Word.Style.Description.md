@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.Description property (Word)
 
-Returns the description of the specified style. Read-only  **String**.
+Returns the description of the specified style. Read-only **String**.
 
 
 ## Syntax

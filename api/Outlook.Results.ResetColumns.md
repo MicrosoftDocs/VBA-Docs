@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Results.ResetColumns method (Outlook)
 
-Clears the properties that have been cached with the  **[SetColumns](Outlook.Results.SetColumns.md)** method.
+Clears the properties that have been cached with the **[SetColumns](Outlook.Results.SetColumns.md)** method.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 ## Remarks
 
-All properties are accessible after calling the  **ResetColumns** method. **SetColumns** should be reused to store new properties again. **ResetColumns** does nothing if **SetColumns** has not been called first.
+All properties are accessible after calling the **ResetColumns** method. **SetColumns** should be reused to store new properties again. **ResetColumns** does nothing if **SetColumns** has not been called first.
 
 
 ## See also

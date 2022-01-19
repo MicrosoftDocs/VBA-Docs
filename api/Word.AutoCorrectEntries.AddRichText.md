@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrectEntries.AddRichText method (Word)
 
-Creates a formatted AutoCorrect entry, preserving all text attributes of the specified range. Returns an  **AutoCorrectEntry** object.
+Creates a formatted AutoCorrect entry, preserving all text attributes of the specified range. Returns an **AutoCorrectEntry** object.
 
 
 ## Syntax

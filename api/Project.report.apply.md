@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'Report' object.
 
 ## Example
 
-The following example determines whether a report named  **Report 1** exists, and if so, displays the report.
+The following example determines whether a report named **Report 1** exists, and if so, displays the report.
 
 
 ```vb

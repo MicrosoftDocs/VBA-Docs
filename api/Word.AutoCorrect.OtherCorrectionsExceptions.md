@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.OtherCorrectionsExceptions property (Word)
 
-Returns an  **[OtherCorrectionsExceptions](Word.othercorrectionsexceptions.md)** collection that represents the list of words that Microsoft Word won't correct automatically.
+Returns an **[OtherCorrectionsExceptions](Word.othercorrectionsexceptions.md)** collection that represents the list of words that Microsoft Word won't correct automatically.
 
 
 ## Syntax

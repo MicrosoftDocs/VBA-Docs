@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Account](Outlook.Account.md)' objec
 
 ## Remarks
 
-This property is similar to the  **[ExchangeMailboxServerVersion](Outlook.NameSpace.ExchangeMailboxServerVersion.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the **[ExchangeMailboxServerVersion](Outlook.NameSpace.ExchangeMailboxServerVersion.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 This property returns a string that contains the version number of the Exchange server for the account. The version number has the following four parts. 
 

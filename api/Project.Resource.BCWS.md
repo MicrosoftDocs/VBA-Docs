@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.BCWS property (Project)
 
-Gets the budgeted cost of work scheduled for the resource. Read-only  **Variant**.
+Gets the budgeted cost of work scheduled for the resource. Read-only **Variant**.
 
 
 ## Syntax

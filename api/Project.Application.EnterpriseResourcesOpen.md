@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EUID_|Optional|**Variant**|A comma-delimited list of unique IDs of the enterprise resource.|
-| _OpenType_|Optional|**Long**|Specifies how the enterprise resources are to be checked out. Can be one of the following  **PjCheckOutType** constants: **pjReadOnly** or **pjReadWrite**. The default value is **pjReadWrite**.|
+| _OpenType_|Optional|**Long**|Specifies how the enterprise resources are to be checked out. Can be one of the following **PjCheckOutType** constants: **pjReadOnly** or **pjReadWrite**. The default value is **pjReadWrite**.|
 
 ## Return value
 

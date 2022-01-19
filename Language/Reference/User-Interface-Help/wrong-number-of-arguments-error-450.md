@@ -24,7 +24,7 @@ The number of [arguments](../../Glossary/vbe-glossary.md#argument) to a procedur
     
 - You tried to assign a value to a read-only [property](../../Glossary/vbe-glossary.md#property), or you tried to assign a value to a property for which no **Property Let** procedure exists.
     
-    Assigning a value to a property is the same as passing the value as an argument to the object's  **Property Let** procedure. Properly define the **Property Let** procedure; it must have one more argument than the corresponding **Property Get** procedure. If the property is meant to be read-only, you can't assign a value to it.
+    Assigning a value to a property is the same as passing the value as an argument to the object's **Property Let** procedure. Properly define the **Property Let** procedure; it must have one more argument than the corresponding **Property Get** procedure. If the property is meant to be read-only, you can't assign a value to it.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

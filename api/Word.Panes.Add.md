@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Panes.Add method (Word)
 
-Returns a  **Pane** object that represents a new pane to a window.
+Returns a **Pane** object that represents a new pane to a window.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.Perspective property (Project)
-Gets or sets a value that represents the perspective for the 3D chart view. Read/write  **Long**.
+Gets or sets a value that represents the perspective for the 3D chart view. Read/write **Long**.
 
 ## Syntax
 

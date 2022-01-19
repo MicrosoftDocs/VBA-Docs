@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Last property (Word)
 
-Returns a  **Column** object that represents the last column in a table.
+Returns a **Column** object that represents the last column in a table.
 
 
 ## Syntax

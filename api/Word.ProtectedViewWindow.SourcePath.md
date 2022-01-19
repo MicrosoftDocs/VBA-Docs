@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.SourcePath property (Word)
 
-Returns the path of the source file for the specified Protected View window. Read-only  **String**.
+Returns the path of the source file for the specified Protected View window. Read-only **String**.
 
 
 ## Syntax

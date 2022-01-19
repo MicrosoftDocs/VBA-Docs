@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowWindows.Item method (PowerPoint)
 
-Returns a single  **SlideShowWindow** object from the specified **SlideShowWindows** collection.
+Returns a single **SlideShowWindow** object from the specified **SlideShowWindows** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [SlideShowWindows](PowerPoint.SlideSho
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **SlideShowWindow** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **SlideShowWindow** object in the collection to be returned.|
 
 ## Return value
 

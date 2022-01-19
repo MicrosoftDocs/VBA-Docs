@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.TextEffect property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 
 ## Remarks
 
-This property applies to  **Shape** objects that represent WordArt.
+This property applies to **Shape** objects that represent WordArt.
 
 
 ## Example

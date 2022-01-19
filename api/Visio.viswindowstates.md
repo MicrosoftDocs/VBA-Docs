@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisWindowStates enumeration (Visio)
 
-Window-state codes passed to and returned by the  **Window.WindowState** property.
+Window-state codes passed to and returned by the **Window.WindowState** property.
 
 
 

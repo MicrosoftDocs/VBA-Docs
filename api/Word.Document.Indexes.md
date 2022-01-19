@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Indexes property (Word)
 
-Returns an  **[Indexes](Word.indexes.md)** collection that represents all the indexes in the specified document. Read-only.
+Returns an **[Indexes](Word.indexes.md)** collection that represents all the indexes in the specified document. Read-only.
 
 
 ## Syntax

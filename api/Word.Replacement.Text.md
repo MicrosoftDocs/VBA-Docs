@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Replacement.Text property (Word)
 
-Returns or sets the text to replace. Read/write  **String**.
+Returns or sets the text to replace. Read/write **String**.
 
 
 ## Syntax

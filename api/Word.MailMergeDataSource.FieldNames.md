@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.FieldNames property (Word)
 
-Returns a  **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
+Returns a **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax

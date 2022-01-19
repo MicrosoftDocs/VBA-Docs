@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.GradientStyle property (Word)
 
-Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle**.
+Returns the gradient style for the specified fill. Read-only **MsoGradientStyle**.
 
 
 ## Syntax

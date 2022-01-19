@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Borders.DistanceFromTop property (Word)
 
-Returns or sets the space (in points) between the text and the top border. Read/write  **Long**.
+Returns or sets the space (in points) between the text and the top border. Read/write **Long**.
 
 
 ## Syntax

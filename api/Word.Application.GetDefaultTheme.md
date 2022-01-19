@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.GetDefaultTheme method (Word)
 
-Returns a  **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, email messages, or Web pages.
+Returns a **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, email messages, or Web pages.
 
 
 ## Syntax

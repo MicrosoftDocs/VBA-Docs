@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormDescription](Outlook.FormDescript
 
 ## Remarks
 
-The custom form will not appear on the menu or in the  **Choose Form** dialog box and will be used only if it is designated as the response form from another custom form. The default value is **False**.
+The custom form will not appear on the menu or in the **Choose Form** dialog box and will be used only if it is designated as the response form from another custom form. The default value is **False**.
 
 
 ## See also

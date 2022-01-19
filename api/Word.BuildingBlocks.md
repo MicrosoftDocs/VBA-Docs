@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # BuildingBlocks object (Word)
 
-Represents a collection of  **[BuildingBlock](Word.BuildingBlock.md)** objects for a specific building block type and category in a template.
+Represents a collection of **[BuildingBlock](Word.BuildingBlock.md)** objects for a specific building block type and category in a template.
 
 
 ## Remarks

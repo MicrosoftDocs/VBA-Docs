@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConnectorFormat.EndDisconnect method (PowerPoint)
 
-Detaches the end of the specified connector from the shape it is attached to. This method doesn't alter the size or position of the connector: the end of the connector remains positioned at a connection site but is no longer connected. Use the  **[BeginDisconnect](PowerPoint.ConnectorFormat.BeginDisconnect.md)** method to detach the beginning of the connector from a shape.
+Detaches the end of the specified connector from the shape it is attached to. This method doesn't alter the size or position of the connector: the end of the connector remains positioned at a connection site but is no longer connected. Use the **[BeginDisconnect](PowerPoint.ConnectorFormat.BeginDisconnect.md)** method to detach the beginning of the connector from a shape.
 
 
 ## Syntax

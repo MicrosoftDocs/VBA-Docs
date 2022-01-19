@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DataLabel.Shadow property (PowerPoint)
 
-Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean**.
+Returns or sets a value that indicates whether the object has a shadow. Read/write **Boolean**.
 
 
 ## Syntax

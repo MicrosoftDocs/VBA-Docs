@@ -31,7 +31,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 Remarks
 
-To use Automation (formerly OLE Automation) to control Word from another application, use the Microsoft Visual Basic  **CreateObject** or **GetObject** function to return a Word **Application** object. The following Microsoft Excel example starts Word (if it is not already running) and opens an existing document.
+To use Automation (formerly OLE Automation) to control Word from another application, use the Microsoft Visual Basic **CreateObject** or **GetObject** function to return a Word **Application** object. The following Microsoft Excel example starts Word (if it is not already running) and opens an existing document.
 
 
 

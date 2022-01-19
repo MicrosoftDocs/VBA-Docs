@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddNext method (Word)
 
-Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a NEXT field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

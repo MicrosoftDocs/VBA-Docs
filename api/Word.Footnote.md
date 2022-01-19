@@ -19,7 +19,7 @@ Represents a footnote positioned at the bottom of the page or beneath text. The 
 
 ## Remarks
 
-Use  **Footnotes** (Index), where Index is the index number, to return a single **Footnote** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
+Use **Footnotes** (Index), where Index is the index number, to return a single **Footnote** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
 
 
 ```vb

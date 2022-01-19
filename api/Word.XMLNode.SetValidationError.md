@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)'
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Status_|Required| **WdXMLValidationStatus**|Specifies whether to set the validation status error text (**wdXMLValidationStatusCustom**) or to clear the validation status error text (**wdXMLValidationStatusOK**).|
-| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to  **wdXMLValidationStatusOK**.|
+| _ErrorText_|Optional| **Variant**|The text displayed to the user. Leave blank when the Status parameter is set to **wdXMLValidationStatusOK**.|
 | _ClearedAutomatically_|Optional| **Boolean**| **True** automatically clears the error message as soon as the next validation event occurs on the specified node. **False** requires running the **SetValidationError** method with a Status parameter of **wdXMLValidationStatusOK** to clear the custom error text.|
 
 ## Remarks

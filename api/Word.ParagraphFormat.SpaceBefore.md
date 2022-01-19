@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.SpaceBefore property (Word)
 
-Returns or sets the spacing (in points) before the specified paragraphs. Read/write  **Single**.
+Returns or sets the spacing (in points) before the specified paragraphs. Read/write **Single**.
 
 
 ## Syntax

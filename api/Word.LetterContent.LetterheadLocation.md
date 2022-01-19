@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.LetterheadLocation property (Word)
 
-Returns or sets the location of the preprinted letterhead in a letter created by the Letter Wizard. Read/write  **WdLetterheadLocation**.
+Returns or sets the location of the preprinted letterhead in a letter created by the Letter Wizard. Read/write **WdLetterheadLocation**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Baseline2BudgetWork property (Project)
 
-Gets or sets the baseline2 budget work for the rollup calculated budgeted work hours for all the work and the material resources for the project. Applies only to the project summary task. Read/write  **Variant**.
+Gets or sets the baseline2 budget work for the rollup calculated budgeted work hours for all the work and the material resources for the project. Applies only to the project summary task. Read/write **Variant**.
 
 
 ## Syntax

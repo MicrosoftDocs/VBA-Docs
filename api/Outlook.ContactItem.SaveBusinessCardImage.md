@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContactItem.SaveBusinessCardImage method (Outlook)
 
-Saves an image of the business card generated from the specified  **[ContactItem](Outlook.ContactItem.md)** object.
+Saves an image of the business card generated from the specified **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ _expression_. `SaveBusinessCardImage`( `_Path_` )
 
 ## Remarks
 
-This method generates an image, as a Portable Network Graphics (.png) file, of the business card generated from the specified  **ContactItem** object. If the path and file name specified in Path cannot be resolved, an error occurs.
+This method generates an image, as a Portable Network Graphics (.png) file, of the business card generated from the specified **ContactItem** object. If the path and file name specified in Path cannot be resolved, an error occurs.
 
 
 ## See also

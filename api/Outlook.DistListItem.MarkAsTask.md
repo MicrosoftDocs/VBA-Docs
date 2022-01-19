@@ -30,7 +30,7 @@ _expression_. `MarkAsTask`( `_MarkInterval_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **DistListItem**.|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the **DistListItem**.|
 
 ## Remarks
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TablesOfAuthoritiesCategories object (Word)
 
-A collection of  **[TableOfAuthoritiesCategory](Word.TableOfAuthoritiesCategory.md)** objects that represent the table of authorities categories, such as Cases and Statutes. The **TablesOfAuthoritiesCategories** collection includes all 16 categories listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box.
+A collection of **[TableOfAuthoritiesCategory](Word.TableOfAuthoritiesCategory.md)** objects that represent the table of authorities categories, such as Cases and Statutes. The **TablesOfAuthoritiesCategories** collection includes all 16 categories listed in the **Category** box on the **Table of Authorities** tab in the **Index and Tables** dialog box.
 
 
 ## Remarks
@@ -29,7 +29,7 @@ Next aCat
 
 The **Add** method isn't available for the **TablesOfAuthoritiesCategories** collection. The collection is limited to 16 items; however, you can use the **Name** property to rename an existing category.
 
-Use  **TablesOfAuthoritiesCategories** (Index), where Index is the category name or index number, to return a single **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
+Use **TablesOfAuthoritiesCategories** (Index), where Index is the category name or index number, to return a single **TableOfAuthoritiesCategory** object. The following example renames the Rules category as Other Provisions.
 
 
 

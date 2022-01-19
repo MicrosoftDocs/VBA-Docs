@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ShowCropMarks property (Word)
 
-Returns or sets a  **Boolean** that represents whether to show crop marks in the corners of pages to indicate where margins are located. Read/write.
+Returns or sets a **Boolean** that represents whether to show crop marks in the corners of pages to indicate where margins are located. Read/write.
 
 
 ## Syntax

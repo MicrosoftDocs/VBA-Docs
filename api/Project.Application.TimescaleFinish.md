@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.TimescaleFinish property (Project)
 
-Gets the date and time that the timescale in the current view ends. Read-only  **Variant**.
+Gets the date and time that the timescale in the current view ends. Read-only **Variant**.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_. `TimescaleFinish`
 
 ## Remarks
 
-The end of the timescale in a Gantt chart can be moved to a position within the time period. To change the timescale duration, use any of the following methods:  **ZoomTimescale**,  **ZoomOut**,  **ZoomIn**, or  **Zoom**.
+The end of the timescale in a Gantt chart can be moved to a position within the time period. To change the timescale duration, use any of the following methods: **ZoomTimescale**, **ZoomOut**, **ZoomIn**, or **Zoom**.
 
 
 ## Example
 
-If the Gantt chart timescale ends on June 2, 2012, the following statement shows  **6/2/2012 2:51:00 PM** in the **Immediate** pane of the VBE.
+If the Gantt chart timescale ends on June 2, 2012, the following statement shows **6/2/2012 2:51:00 PM** in the **Immediate** pane of the VBE.
 
 
 ```vb

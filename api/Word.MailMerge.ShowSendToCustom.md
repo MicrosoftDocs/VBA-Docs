@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.ShowSendToCustom property (Word)
 
-Returns or sets a  **String** corresponding to the caption on a custom button on the Complete the merge step (step six) of the Mail Merge Wizard. Read/write.
+Returns or sets a **String** corresponding to the caption on a custom button on the Complete the merge step (step six) of the Mail Merge Wizard. Read/write.
 
 
 ## Syntax

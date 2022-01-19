@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.HasSmartArt property (PowerPoint)
 
-Returns  **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
+Returns **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
 
 
 ## Syntax

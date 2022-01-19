@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property always returns  **olSharing** for the **[SharingItem](Outlook.SharingItem.md)** object.
+This property always returns **olSharing** for the **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## See also

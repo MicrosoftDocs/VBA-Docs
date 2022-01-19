@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Coauthoring.PendingUpdates property (PowerPoint)
 
-Returns  **True** if merge-mode updates are pending. Read-only.
+Returns **True** if merge-mode updates are pending. Read-only.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents an '[AddIns](Word.addins.md)' 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The individual add-in to be returned. Index can be an  **Long** indicating the ordinal position of the add-in in the collection or a **String** representing the name of the individual add-in.|
+| _Index_|Required| **Variant**|The individual add-in to be returned. Index can be an **Long** indicating the ordinal position of the add-in in the collection or a **String** representing the name of the individual add-in.|
 
 ## See also
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EmailOptions property (Word)
 
-Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the global preferences for email authoring. Read-only.
+Returns an **[EmailOptions](Word.EmailOptions.md)** object that represents the global preferences for email authoring. Read-only.
 
 
 ## Syntax

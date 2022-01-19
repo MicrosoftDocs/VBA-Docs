@@ -26,7 +26,7 @@ _expression_ A variable that represents an [IconView](Outlook.IconView.md) objec
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[IconView](Outlook.iconView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the **SaveOption** property is set when the **[IconView](Outlook.iconView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example

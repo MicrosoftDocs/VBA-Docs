@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**|The task whose field is being changed.|
 | _Field_|Required|**Long**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the **[PjField](Project.PjField.md)** constants.|
-| _NewVal_|Required|**Variant**|The new value for the field specified with  **Field**.|
+| _NewVal_|Required|**Variant**|The new value for the field specified with **Field**.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with **Field** is not changed.|
 
 ## Remarks

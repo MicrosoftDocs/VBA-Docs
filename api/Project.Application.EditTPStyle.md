@@ -46,7 +46,7 @@ To see the available style colors in the Team Planner view, or to manually forma
 
 ## Example
 
-In the following example, the first call to  **EditTPStyle** sets late tasks to medium-dark red with a black border. The second call sets manually scheduled tasks to light red with a gray border.
+In the following example, the first call to **EditTPStyle** sets late tasks to medium-dark red with a black border. The second call sets manually scheduled tasks to light red with a gray border.
 
 
 ```vb

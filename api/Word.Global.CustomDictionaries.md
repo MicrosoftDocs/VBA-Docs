@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.CustomDictionaries property (Word)
 
-Returns a  **[Dictionaries](Word.dictionaries.md)** object that represents the collection of active custom dictionaries. Read-only.
+Returns a **[Dictionaries](Word.dictionaries.md)** object that represents the collection of active custom dictionaries. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SolutionsModule](Outlook.SolutionsMod
 
 ## Remarks
 
-For the  **SolutionsModule** object, this property returns the value **olModuleSolutions**.
+For the **SolutionsModule** object, this property returns the value **olModuleSolutions**.
 
 
 ## See also

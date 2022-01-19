@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisStatCodes enumeration (Visio)
 
-Status information codes returned by the  **Stat** property of various objects.
+Status information codes returned by the **Stat** property of various objects.
 
 
 

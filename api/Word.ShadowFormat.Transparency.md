@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShadowFormat.Transparency property (Word)
 
-Returns or sets the degree of transparency of the specified shadow as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single**.
+Returns or sets the degree of transparency of the specified shadow as a value between 0.0 (opaque) and 1.0 (clear). Read/write **Single**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Top property (Word)
 
-Returns or sets the vertical position of the active document. Read/write  **Long**.
+Returns or sets the vertical position of the active document. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.Count property (Word)
 
-Returns a  **Long** that represents the number of mail merge fields in the collection. Read-only.
+Returns a **Long** that represents the number of mail merge fields in the collection. Read-only.
 
 
 ## Syntax

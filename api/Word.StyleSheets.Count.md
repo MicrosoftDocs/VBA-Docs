@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheets.Count property (Word)
 
-Returns a  **Long** that represents the number of style sheets in the collection. Read-only.
+Returns a **Long** that represents the number of style sheets in the collection. Read-only.
 
 
 ## Syntax

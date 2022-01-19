@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ResourceUniqueID property (Project)
 
-Gets or sets a unique identification number of the resource for the assignment. Read/write  **Long**.
+Gets or sets a unique identification number of the resource for the assignment. Read/write **Long**.
 
 
 ## Syntax

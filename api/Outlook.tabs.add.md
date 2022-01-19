@@ -32,13 +32,13 @@ _expression_ A variable that represents a **Tabs** object.
 
 ## Return value
 
-A  **Tab** object that represents the added tab.
+A **Tab** object that represents the added tab.
 
 
 ## Remarks
 
-The index value for the first  **Tab** of a collection is 0, the value for the second **Tab** is 1, and so on.
+The index value for the first **Tab** of a collection is 0, the value for the second **Tab** is 1, and so on.
 
-You can change the  **Name** property of the object at run time only if you added that control at run time with the **Add** method.
+You can change the **Name** property of the object at run time only if you added that control at run time with the **Add** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

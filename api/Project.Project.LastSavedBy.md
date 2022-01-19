@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.LastSavedBy property (Project)
 
-Gets the name of the user who last saved a project. Read-only  **String**.
+Gets the name of the user who last saved a project. Read-only **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.Duplicate property (Word)
 
-Returns a read-only  **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
+Returns a read-only **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
 
 
 ## Syntax

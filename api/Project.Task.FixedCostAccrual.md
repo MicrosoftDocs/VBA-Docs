@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.FixedCostAccrual property (Project)
 
-Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
+Gets or sets the way the task accrues fixed costs. Read/write **PjAccrueAt**.
 
 
 ## Syntax

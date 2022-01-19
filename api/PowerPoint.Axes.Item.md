@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Axes.Item method (PowerPoint)
 
-Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collection.
+Returns a single **[Axis](PowerPoint.Axis.md)** object from an **Axes** collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sentences.Last property (Word)
 
-Returns a  **Range** object that represents the last sentence in a document, selection, or range.
+Returns a **Range** object that represents the last sentence in a document, selection, or range.
 
 
 ## Syntax

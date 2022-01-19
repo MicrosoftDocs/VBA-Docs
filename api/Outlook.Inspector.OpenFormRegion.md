@@ -39,7 +39,7 @@ An **Object** that represents the page displaying the form region in the inspect
 
 ## Remarks
 
-If the inspector is not already in design mode,  **OpenFormRegion** will put it in design mode.
+If the inspector is not already in design mode, **OpenFormRegion** will put it in design mode.
 
 
 ## See also

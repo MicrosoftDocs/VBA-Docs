@@ -37,7 +37,7 @@ _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 
 ## Remarks
 
-Exporting a presentation doesn't set the  **[Saved](PowerPoint.Presentation.Saved.md)** property of a presentation to **True**.
+Exporting a presentation doesn't set the **[Saved](PowerPoint.Presentation.Saved.md)** property of a presentation to **True**.
 
 PowerPoint uses the specified graphics filter to save each individual slide. The names of the slides exported and saved to disk are determined by PowerPoint. They are typically saved by using names such as Slide1.wmf, Slide2.wmf. The path of the saved files is specified in the FileName argument.
 

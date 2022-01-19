@@ -34,9 +34,9 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-Microsoft PowerPoint creates the slide show window and passes it to this event. If one slide show branches to another, the  **SlideShowBegin** event does not occur again when the second slide show begins.
+Microsoft PowerPoint creates the slide show window and passes it to this event. If one slide show branches to another, the **SlideShowBegin** event does not occur again when the second slide show begins.
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

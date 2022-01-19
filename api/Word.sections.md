@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Sections object (Word)
 
-A collection of  **Section** objects in a selection, range, or document.
+A collection of **Section** objects in a selection, range, or document.
 
 
 ## Remarks
@@ -50,7 +50,7 @@ Selection.Paragraphs(1).Range.InsertBreak _
 MsgBox ActiveDocument.Sections.Count & " sections"
 ```
 
-Use  **Sections** (_index_), where _index_ is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
+Use **Sections** (_index_), where _index_ is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
 
 
 

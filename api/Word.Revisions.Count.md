@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revisions.Count property (Word)
 
-Returns a  **Long** that represents the number of revisions in the collection. Read-only.
+Returns a **Long** that represents the number of revisions in the collection. Read-only.
 
 
 ## Syntax

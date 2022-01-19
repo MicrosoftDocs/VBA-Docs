@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 ## Remarks
 
-Returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
+Returns **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
 
 ## Example

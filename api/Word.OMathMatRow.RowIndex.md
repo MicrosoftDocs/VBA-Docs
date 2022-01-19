@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMatRow.RowIndex property (Word)
 
-Returns or sets a  **Long** that represents the ordinal position of a matrix row within the collection of matrix rows. Read/write.
+Returns or sets a **Long** that represents the ordinal position of a matrix row within the collection of matrix rows. Read/write.
 
 
 ## Syntax

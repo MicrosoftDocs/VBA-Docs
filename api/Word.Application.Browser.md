@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Browser property (Word)
 
-Returns a  **[Browser](Word.Browser.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
+Returns a **[Browser](Word.Browser.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
 
 
 ## Syntax

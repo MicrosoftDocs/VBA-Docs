@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Row object (Outlook)
 
-Represents a row of data in the  **[Table](Outlook.Table.md)** object.
+Represents a row of data in the **[Table](Outlook.Table.md)** object.
 
 
 ## Remarks

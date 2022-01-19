@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.EndnoteOptions property (Word)
 
-Returns an  **EndnoteOptions** object that represents the endnotes in a range.
+Returns an **EndnoteOptions** object that represents the endnotes in a range.
 
 
 ## Syntax

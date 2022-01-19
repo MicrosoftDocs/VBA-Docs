@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ShowValueFieldButtons property (Project)
-Gets or sets whether to display value field buttons on a PivotChart. Read/write  **Boolean**.
+Gets or sets whether to display value field buttons on a PivotChart. Read/write **Boolean**.
 
 ## Syntax
 

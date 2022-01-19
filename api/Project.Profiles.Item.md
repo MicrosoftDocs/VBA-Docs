@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Profiles.Item property (Project)
 
-Gets a single  **Profile** object from the **Profiles** collection. Read-only **Profile**.
+Gets a single **Profile** object from the **Profiles** collection. Read-only **Profile**.
 
 
 ## Syntax

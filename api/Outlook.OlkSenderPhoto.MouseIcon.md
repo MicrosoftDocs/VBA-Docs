@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPho
 
 ## Remarks
 
-The custom picture is of the Microsoft Windows type  **StdPicture**. The default value is **Null** (**Nothing** in Visual Basic).
+The custom picture is of the Microsoft Windows type **StdPicture**. The default value is **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.Range property (Word)
 
-Returns a  **Range** object that represents the contents of a comment.
+Returns a **Range** object that represents the contents of a comment.
 
 
 ## Syntax

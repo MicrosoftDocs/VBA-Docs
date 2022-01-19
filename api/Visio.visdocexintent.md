@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # VisDocExIntent enumeration (Visio)
 
-Export intent constants passed to the  **[Document.ExportAsFixedFormat](Visio.Document.ExportAsFixedFormat.md)** method.
+Export intent constants passed to the **[Document.ExportAsFixedFormat](Visio.Document.ExportAsFixedFormat.md)** method.
 
 
 

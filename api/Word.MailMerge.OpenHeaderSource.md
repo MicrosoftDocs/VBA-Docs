@@ -37,7 +37,7 @@ _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the **File** menu.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the header source document. (See Remarks below.)|
 | _PasswordTemplate_|Optional| **Variant**|The password required to open the header source template. (See Remarks below.)|
-| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
+| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document. **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password required to save changes to the document data source. (See Remarks below.)|
 | _WritePasswordTemplate_|Optional| **Variant**|The password required to save changes to the template data source. (See Remarks below.)|
 | _OpenExclusive_|Optional| **Variant**| **True** to open exclusively.|

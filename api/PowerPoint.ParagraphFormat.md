@@ -19,7 +19,7 @@ Represents the paragraph formatting of a text range.
 
 ## Example
 
-Use the [ParagraphFormat](PowerPoint.TextRange.ParagraphFormat.md)property to return the  **ParagraphFormat** object. The following example left aligns the paragraphs in shape two on slide one in the active presentation.
+Use the [ParagraphFormat](PowerPoint.TextRange.ParagraphFormat.md)property to return the **ParagraphFormat** object. The following example left aligns the paragraphs in shape two on slide one in the active presentation.
 
 
 ```vb

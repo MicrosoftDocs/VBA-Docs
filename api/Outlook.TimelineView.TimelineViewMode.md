@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Script property (Word)
 
-Returns a  **Script** object, which represents a block of script or code for an image on a webpage.
+Returns a **Script** object, which represents a block of script or code for an image on a webpage.
 
 
 ## Syntax

@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # SetEffect object (PowerPoint)
 
-Represents a set effect for an animation behavior. You can use the  **SetEffect** object to set the value of a property.
+Represents a set effect for an animation behavior. You can use the **SetEffect** object to set the value of a property.
 
 
 ## Remarks
 
-Use the  **SetEffect** property of the **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object to return a **SetEffect** object. Set effects can be changed using the **SetEffect** object's **Property** and **To** properties.
+Use the **SetEffect** property of the **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object to return a **SetEffect** object. Set effects can be changed using the **SetEffect** object's **Property** and **To** properties.
 
 
 ## Example

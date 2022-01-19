@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-If this property returns  **True**, then the mail message can be forwarded.
+If this property returns **True**, then the mail message can be forwarded.
 
 
 ## See also

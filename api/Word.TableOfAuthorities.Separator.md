@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfAuthorities.Separator property (Word)
 
-Returns or sets up to five characters that appear between the sequence number and the page number in a table of authorities. Read/write  **String**.
+Returns or sets up to five characters that appear between the sequence number and the page number in a table of authorities. Read/write **String**.
 
 
 ## Syntax

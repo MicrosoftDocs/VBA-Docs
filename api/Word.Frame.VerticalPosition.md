@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' obj
 
 ## Remarks
 
-Can be a number that indicates a measurement in points, or can be any valid  **[WdFramePosition](Word.WdFramePosition.md)** constant.
+Can be a number that indicates a measurement in points, or can be any valid **[WdFramePosition](Word.WdFramePosition.md)** constant.
 
 
 ## Example

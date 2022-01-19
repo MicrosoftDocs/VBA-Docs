@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNodes.Count property (Word)
 
-Returns a  **Long** that represents the number of XML elements in the collection. Read-only.
+Returns a **Long** that represents the number of XML elements in the collection. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Trendline.DataLabel property (PowerPoint)
 
-Returns the data label that is associated with the trendline. Read-only  **[DataLabel](PowerPoint.DataLabel.md)**.
+Returns the data label that is associated with the trendline. Read-only **[DataLabel](PowerPoint.DataLabel.md)**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)'
 
 ## Remarks
 
-To enable data labels for a trendline, you need to set the  **[DisplayEquation](PowerPoint.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](PowerPoint.Trendline.DisplayRSquared.md)** property to **True**.
+To enable data labels for a trendline, you need to set the **[DisplayEquation](PowerPoint.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](PowerPoint.Trendline.DisplayRSquared.md)** property to **True**.
 
 
 ## See also

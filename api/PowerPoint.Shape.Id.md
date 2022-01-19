@@ -31,7 +31,7 @@ Long
 
 ## Example
 
-This example adds a new shape to the active presentation, then fills the shape according to the value of the  **Id** property.
+This example adds a new shape to the active presentation, then fills the shape according to the value of the **Id** property.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeysBoundTo.Command property (Word)
 
-Returns a  **String** that represents the command assigned to the specified key combination. Read-only.
+Returns a **String** that represents the command assigned to the specified key combination. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Recipient](Outlook.Recipient.md)' ob
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagRecipientFlags**. It returns **True** if **PidTagRecipientFlags** is equal to 0x00000001. Setting the property changes **PidTagRecipientFlags** accordingly.
+This property corresponds to the MAPI property **PidTagRecipientFlags**. It returns **True** if **PidTagRecipientFlags** is equal to 0x00000001. Setting the property changes **PidTagRecipientFlags** accordingly.
 
 This property applies only to a recipient of a meeting request. If the recipient is not on a meeting request, getting and setting this property does not do anything.
 

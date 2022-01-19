@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowView.EraseDrawing method (PowerPoint)
 
-Removes lines drawn during a slide show by using either the  **[DrawLine](PowerPoint.SlideShowView.DrawLine.md)** method or the pen tool.
+Removes lines drawn during a slide show by using either the **[DrawLine](PowerPoint.SlideShowView.DrawLine.md)** method or the pen tool.
 
 
 ## Syntax

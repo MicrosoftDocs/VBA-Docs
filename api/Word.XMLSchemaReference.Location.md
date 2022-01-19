@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReference.Location property (Word)
 
-Returns a  **String** that represents the physical location of an XML schema. Read-only.
+Returns a **String** that represents the physical location of an XML schema. Read-only.
 
 
 ## Syntax

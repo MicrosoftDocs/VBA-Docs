@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Series.ChartType property (PowerPoint)
 
-Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)**.
+Returns or sets the chart type. Read/write **[XlChartType](Excel.XlChartType.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.MultiLine property (Word)
 
-Returns a  **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.
+Returns a **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.
 
 
 ## Syntax

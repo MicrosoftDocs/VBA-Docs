@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.TaskSummaryName property (Project)
 
-Gets the name of the summary task for the task in the assignment. Read-only  **String**.
+Gets the name of the summary task for the task in the assignment. Read-only **String**.
 
 
 ## Syntax

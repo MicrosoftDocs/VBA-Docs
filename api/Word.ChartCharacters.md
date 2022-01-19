@@ -18,7 +18,7 @@ Represents characters in an object that contains text.
 
 The **ChartCharacters** object lets you modify any sequence of characters contained in the full text string.
 
-Use  **Characters** ( _Start_ , _Length_ ), where _Start_ is the start character number and _Length_ is the number of characters, to return a **ChartCharacters** object.
+Use **Characters** ( _Start_ , _Length_ ), where _Start_ is the start character number and _Length_ is the number of characters, to return a **ChartCharacters** object.
 
 
 ## Example

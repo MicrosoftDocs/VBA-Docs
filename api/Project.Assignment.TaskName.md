@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Assignment.TaskName property (Project)
 
-Gets or sets the name of the task in the assignment. Read/write  **String**.
+Gets or sets the name of the task in the assignment. Read/write **String**.
 
 
 ## Syntax

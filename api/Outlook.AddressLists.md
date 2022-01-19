@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressLists object (Outlook)
 
-Contains a set of  **[AddressList](Outlook.AddressList.md)** objects.
+Contains a set of **[AddressList](Outlook.AddressList.md)** objects.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ The **AddressLists** collection provides access to the root of the transport pro
 
 ## Example
 
-The following example sets a reference to the  **AddressLists** object.
+The following example sets a reference to the **AddressLists** object.
 
 
 ```vb

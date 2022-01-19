@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ListLevels object (Word)
 
-A collection of  **ListLevel** objects that represents all the list levels of a list template, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list.
+A collection of **ListLevel** objects that represents all the list levels of a list template, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ For Each lev In mytemp.ListLevels
 Next lev
 ```
 
-Use  **ListLevels** (Index), where Index is a number from 1 through 9, to return a single **[ListLevel](Word.ListLevel.md)** object. The following example sets list level one of list template one in the active document to start at four.
+Use **ListLevels** (Index), where Index is a number from 1 through 9, to return a single **[ListLevel](Word.ListLevel.md)** object. The following example sets list level one of list template one in the active document to start at four.
 
 
 

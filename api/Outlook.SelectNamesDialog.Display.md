@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SelectNamesDialog.Display method (Outlook)
 
-Displays the  **Select Names** dialog box.
+Displays the **Select Names** dialog box.
 
 
 ## Syntax
@@ -26,21 +26,21 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 ## Return value
 
-A **Boolean** value that is **True** if the user has clicked **OK**, and  **False** if the user has clicked **Cancel** or the Close icon.
+A **Boolean** value that is **True** if the user has clicked **OK**, and **False** if the user has clicked **Cancel** or the Close icon.
 
 
 ## Remarks
 
-When displaying the  **Select Names** dialog box, **Display** uses the previous location and size (indicated by the top, left, width, and height) of the dialog box.
+When displaying the **Select Names** dialog box, **Display** uses the previous location and size (indicated by the top, left, width, and height) of the dialog box.
 
-The **Select Names** dialog box is modal, meaning that code execution will halt until the user clicks **OK**,  **Cancel**, or the close icon.
+The **Select Names** dialog box is modal, meaning that code execution will halt until the user clicks **OK**, **Cancel**, or the close icon.
 
 You should detect for error conditions that include insufficient memory or another message or dialog box is open.
 
 
 ## Example
 
-The following code sample shows how to create a mail item, allow the user to select recipients from the Exchange Global Address List in the  **Select Names** dialog box, and if the user has selected recipients that can be completely resolved, then send the mail item.
+The following code sample shows how to create a mail item, allow the user to select recipients from the Exchange Global Address List in the **Select Names** dialog box, and if the user has selected recipients that can be completely resolved, then send the mail item.
 
 
 ```vb

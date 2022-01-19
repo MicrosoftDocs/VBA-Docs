@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Assignment.WorkContour property (Project)
 
-Gets or sets the type of work contour for the assignment. Read/write  **PjWorkContourType**.
+Gets or sets the type of work contour for the assignment. Read/write **PjWorkContourType**.
 
 
 ## Syntax

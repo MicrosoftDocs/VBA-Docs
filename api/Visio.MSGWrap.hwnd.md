@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MSGWrap.hWnd property (Visio)
 
-Gets or sets the  **HWND** member of the **MSG** structure being wrapped. Read/write.
+Gets or sets the **HWND** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The properties of the  **MSGWrap** object correspond to the members of the **MSG** structure defined as part of the Microsoft Windows operating system.
+The properties of the **MSGWrap** object correspond to the members of the **MSG** structure defined as part of the Microsoft Windows operating system.
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 

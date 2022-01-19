@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShadowFormat.Size property (Word)
 
-Returns or sets a  **Single** that represents the width of the shadow. Read/write.
+Returns or sets a **Single** that represents the width of the shadow. Read/write.
 
 
 ## Syntax

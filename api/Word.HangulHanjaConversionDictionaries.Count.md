@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HangulHanjaConversionDictionaries.Count property (Word)
 
-Returns a  **Long** that represents the number of dictionaries in the collection. Read-only.
+Returns a **Long** that represents the number of dictionaries in the collection. Read-only.
 
 
 ## Syntax

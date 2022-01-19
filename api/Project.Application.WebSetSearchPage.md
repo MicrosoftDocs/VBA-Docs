@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Address_|Optional|**String**|The address to use as a Search Page. If  **Address** is omitted, the current document is set as the Search Page.|
+| _Address_|Optional|**String**|The address to use as a Search Page. If **Address** is omitted, the current document is set as the Search Page.|
 
 ## Return value
 

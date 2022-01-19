@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.VisualReportsAdditionalTemplatePath property (Project)
 
-Gets or sets the additional path for Visual Reports templates. Read/write  **String**.
+Gets or sets the additional path for Visual Reports templates. Read/write **String**.
 
 
 ## Syntax

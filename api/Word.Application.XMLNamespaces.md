@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.XMLNamespaces property (Word)
 
-Returns an  **** collection that represents the XML schemas in the Schema Library.
+Returns an **** collection that represents the XML schemas in the Schema Library.
 
 
 ## Syntax

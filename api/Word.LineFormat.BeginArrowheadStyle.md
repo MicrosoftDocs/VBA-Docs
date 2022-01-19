@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LineFormat.BeginArrowheadStyle property (Word)
 
-Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadStyle**.
+Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write **MsoArrowheadStyle**.
 
 
 ## Syntax

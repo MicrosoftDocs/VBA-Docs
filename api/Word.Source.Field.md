@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Source.Field property (Word)
 
-Returns a  **String** that represents the value of a field in a bibliography source. Read-only.
+Returns a **String** that represents the value of a field in a bibliography source. Read-only.
 
 
 ## Syntax

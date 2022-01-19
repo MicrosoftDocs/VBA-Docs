@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # OutlookBarPane object (Outlook)
 
-Represents the  **Shortcuts** pane in an explorer window.
+Represents the **Shortcuts** pane in an explorer window.
 
 
 ## Remarks
 
-Use the  **[Item](Outlook.Panes.Item.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](Outlook.Panes.md)** object. Because the **[Name](Outlook.OutlookBarPane.Name.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
+Use the **[Item](Outlook.Panes.Item.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](Outlook.Panes.md)** object. Because the **[Name](Outlook.OutlookBarPane.Name.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
 
 
 ## Example

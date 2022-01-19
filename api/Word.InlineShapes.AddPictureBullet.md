@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShapes.AddPictureBullet method (Word)
 
-Adds a picture bullet based on an image file to the current document. Returns an  **[InlineShape](Word.InlineShape.md)** object.
+Adds a picture bullet based on an image file to the current document. Returns an **[InlineShape](Word.InlineShape.md)** object.
 
 
 ## Syntax

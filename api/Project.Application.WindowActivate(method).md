@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Optional|**String**|The name of the window to activate. The name of a window is the exact text that appears in the title bar of the window. The default is the name of the active window.|
-| _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following  **[PjDialog](Project.PjDialog.md)** constant: **pjResourceAssignment**.|
+| _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following **[PjDialog](Project.PjDialog.md)** constant: **pjResourceAssignment**.|
 | _TopPane_|Optional|**Boolean**|**True** if Project should activate the upper pane. The default value is **True**.|
 
 ## Return value

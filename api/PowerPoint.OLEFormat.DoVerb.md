@@ -34,7 +34,7 @@ _expression_ A variable that represents an [OLEFormat](PowerPoint.OLEFormat.md) 
 
 ## Remarks
 
-Use the  **[ObjectVerbs](PowerPoint.OLEFormat.ObjectVerbs.md)** property to determine the available verbs for an OLE object.
+Use the **[ObjectVerbs](PowerPoint.OLEFormat.ObjectVerbs.md)** property to determine the available verbs for an OLE object.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CalendarDrivers.TotalDetectedCount property (Project)
 
-Gets the total number of calendar drivers that affect the dates of a task. Read-only  **Long**.
+Gets the total number of calendar drivers that affect the dates of a task. Read-only **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'CalendarDrivers' object.
 
 ## Remarks
 
-For an example that uses actual start drivers, see  **[TotalDetectedCount](Project.ActualStartDrivers.TotalDetectedCount.md)** for the **ActualStartDrivers** object.
+For an example that uses actual start drivers, see **[TotalDetectedCount](Project.ActualStartDrivers.TotalDetectedCount.md)** for the **ActualStartDrivers** object.
 
 
 ## See also

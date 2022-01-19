@@ -19,7 +19,7 @@ Represents a single comment. The **Comment** object is a member of the **[Commen
 
 ## Remarks
 
-Use  **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
+Use **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
 
 
 ```vb

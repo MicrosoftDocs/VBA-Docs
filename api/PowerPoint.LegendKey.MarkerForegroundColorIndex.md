@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # LegendKey.MarkerForegroundColorIndex property (PowerPoint)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax

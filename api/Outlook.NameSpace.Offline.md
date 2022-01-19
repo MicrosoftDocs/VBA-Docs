@@ -28,12 +28,12 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 The Offline property returns valid information only for an Exchange profile. It is not intended for non-Exchange account types such as POP3, IMAPI, and HTTP.
 
-If the  **[NameSpace.ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectionMode.md)** property is **olOffline** or **olDisconnected**, the **Offline** property will return **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **Offline** property will return **False**.
+If the **[NameSpace.ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectionMode.md)** property is **olOffline** or **olDisconnected**, the **Offline** property will return **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **Offline** property will return **False**.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns  **True** or **False** depending on whether the **NameSpace** object is currently online.
+The following Microsoft Visual Basic for Applications (VBA) example returns **True** or **False** depending on whether the **NameSpace** object is currently online.
 
 
 ```vb

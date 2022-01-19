@@ -38,7 +38,7 @@ Each preset extrusion format contains a set of preset values for the various pro
 
 
 > [!NOTE] 
-> Specifying  **msoPresetThreeDFormatMixed** for the PresetThreeDFormat argument causes an error.
+> Specifying **msoPresetThreeDFormatMixed** for the PresetThreeDFormat argument causes an error.
 
 
 ## Example

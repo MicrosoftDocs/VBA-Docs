@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Creator
 ms.assetid: 142d1b93-b4cf-2d69-c2c3-48072e31032b
-ms.date: 05/22/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
 
 # WorksheetFunction.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long**.
 
 
 ## Syntax

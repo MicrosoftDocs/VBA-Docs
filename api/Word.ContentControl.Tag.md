@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.Tag property (Word)
 
-Returns or sets a  **String** that represents a value to identify a content control. Read/write.
+Returns or sets a **String** that represents a value to identify a content control. Read/write.
 
 
 ## Syntax

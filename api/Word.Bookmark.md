@@ -21,7 +21,7 @@ Represents a single bookmark in a document, selection, or range. The **Bookmark*
 
 Using the Bookmark Object
 
-Use  **Bookmarks** (_index_), where _index_ is the bookmark name or index number, to return a single **Bookmark** object. You must exactly match the spelling (but not necessarily the capitalization) of the bookmark name. The following example selects the bookmark named "temp" in the active document.
+Use **Bookmarks** (_index_), where _index_ is the bookmark name or index number, to return a single **Bookmark** object. You must exactly match the spelling (but not necessarily the capitalization) of the bookmark name. The following example selects the bookmark named "temp" in the active document.
 
 
 

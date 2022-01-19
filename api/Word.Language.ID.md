@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.ID property (Word)
 
-Returns a number that identifies the specified language. Read-only  **WdLanguageID**.
+Returns a number that identifies the specified language. Read-only **WdLanguageID**.
 
 
 ## Syntax

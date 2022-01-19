@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Frac property (Word)
 
-Returns an  **[OMathFrac](Word.OMathFrac.md)** object that represents a fraction. Read-only.
+Returns an **[OMathFrac](Word.OMathFrac.md)** object that represents a fraction. Read-only.
 
 
 ## Syntax

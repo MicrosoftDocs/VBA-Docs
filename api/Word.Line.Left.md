@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Line.Left property (Word)
 
-Returns a  **Long** that represents the number of pixels from the left edge of the page to the left edge of a line.
+Returns a **Long** that represents the number of pixels from the left edge of the page to the left edge of a line.
 
 
 ## Syntax

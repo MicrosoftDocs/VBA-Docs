@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.MailMerge property (Word)
 
-Returns a  **[MailMerge](Word.MailMerge.md)** object that represents the mail merge functionality for the specified document. Read-only.
+Returns a **[MailMerge](Word.MailMerge.md)** object that represents the mail merge functionality for the specified document. Read-only.
 
 
 ## Syntax

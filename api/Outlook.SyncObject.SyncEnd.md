@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SyncObject.SyncEnd event (Outlook)
 
-Occurs immediately after Microsoft Outlook finishes synchronizing a user's folders using the specified  **Send/Receive** group.
+Occurs immediately after Microsoft Outlook finishes synchronizing a user's folders using the specified **Send/Receive** group.
 
 
 ## Syntax

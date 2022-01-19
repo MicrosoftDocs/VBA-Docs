@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Shapes property (Visio)
 
-Returns the  **Shapes** collection for a page, master, or group. Read-only.
+Returns the **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax

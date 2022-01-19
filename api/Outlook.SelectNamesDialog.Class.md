@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SelectNamesDialog.Class property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
+Returns a constant in the **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
 
 
 ## Syntax

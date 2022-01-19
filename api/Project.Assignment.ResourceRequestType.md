@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.ResourceRequestType property (Project)
 
-Gets or sets the type of resource request for the assignment. Read/write  **PjResourceRequestType**.
+Gets or sets the type of resource request for the assignment. Read/write **PjResourceRequestType**.
 
 
 ## Syntax

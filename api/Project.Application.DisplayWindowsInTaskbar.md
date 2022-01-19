@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-If  **DisplayWindowsInTaskbar** is **False**, the taskbar shows only the **Microsoft Project** button with the active project name. In Microsoft Windows 7, if taskbar buttons are combined, the button group shows only one item, **Microsoft Project** with the active project name.
+If **DisplayWindowsInTaskbar** is **False**, the taskbar shows only the **Microsoft Project** button with the active project name. In Microsoft Windows 7, if taskbar buttons are combined, the button group shows only one item, **Microsoft Project** with the active project name.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

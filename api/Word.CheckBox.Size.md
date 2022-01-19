@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CheckBox.Size property (Word)
 
-Returns or sets the size of a check box, in points. Read/write  **Single**.
+Returns or sets the size of a check box, in points. Read/write **Single**.
 
 
 ## Syntax

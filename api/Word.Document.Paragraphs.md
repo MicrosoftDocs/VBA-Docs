@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Paragraphs property (Word)
 
-Returns a  **Paragraphs** collection that represents all the paragraphs in the specified document. Read-only.
+Returns a **Paragraphs** collection that represents all the paragraphs in the specified document. Read-only.
 
 
 ## Syntax

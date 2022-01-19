@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.InlineShapes property (Word)
 
-Returns an  **[InlineShapes](Word.inlineshapes.md)** collection that represents all the **InlineShape** objects in a selection. Read-only.
+Returns an **[InlineShapes](Word.inlineshapes.md)** collection that represents all the **InlineShape** objects in a selection. Read-only.
 
 
 ## Syntax

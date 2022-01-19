@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Document property (Visio)
 
-Gets the  **Document** object that is associated with an object. Read-only.
+Gets the **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax

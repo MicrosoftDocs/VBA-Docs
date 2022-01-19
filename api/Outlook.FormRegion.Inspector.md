@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-Returns  **Null** (**Nothing** in Visual Basic) if the form region is displayed in the Reading Pane.
+Returns **Null** (**Nothing** in Visual Basic) if the form region is displayed in the Reading Pane.
 
 
 ## See also

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.EditDate property (Visio)
 
-Returns the most recent date on which the specified comment was edited. Read-only  **Date**.
+Returns the most recent date on which the specified comment was edited. Read-only **Date**.
 
 
 ## Syntax

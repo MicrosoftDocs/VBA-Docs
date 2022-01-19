@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.Shading property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified object.
+Returns a **Shading** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax

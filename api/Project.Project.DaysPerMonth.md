@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DaysPerMonth property (Project)
 
-Gets or sets the number of days per month for tasks in a project. Read/write  **Double**.
+Gets or sets the number of days per month for tasks in a project. Read/write **Double**.
 
 
 ## Syntax

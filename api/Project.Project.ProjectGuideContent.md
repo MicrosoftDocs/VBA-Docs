@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectGuideContent property (Project)
 
-Gets or sets the name of the XML schema being used by the Project Guide. Read/write  **String**.
+Gets or sets the name of the XML schema being used by the Project Guide. Read/write **String**.
 
 
 ## Syntax

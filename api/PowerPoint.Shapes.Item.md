@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.Item method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **Shapes** collection.
+Returns a single **Shape** object from the specified **Shapes** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Shape** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Shape** object in the collection to be returned.|
 
 ## Return value
 

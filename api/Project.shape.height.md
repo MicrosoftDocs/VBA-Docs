@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Height property (Project)
-Gets or sets the height of the shape, in points. Read/write  **Single**.
+Gets or sets the height of the shape, in points. Read/write **Single**.
 
 ## Syntax
 

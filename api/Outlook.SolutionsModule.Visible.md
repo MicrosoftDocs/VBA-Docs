@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsMo
 
 ## Remarks
 
-If there are no solutions under the  **Solutions** module, setting or getting the **Visible** property raises an error.
+If there are no solutions under the **Solutions** module, setting or getting the **Visible** property raises an error.
 
 
 ## See also

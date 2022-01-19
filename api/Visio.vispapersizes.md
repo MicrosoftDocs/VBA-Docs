@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPaperSizes enumeration (Visio)
 
-Flags passed to or returned by the  **Document.PaperSize** property.
+Flags passed to or returned by the **Document.PaperSize** property.
 
 
 

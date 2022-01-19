@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.FormattedText property (Word)
 
-Returns or sets a  **[Range](Word.Range.md)** object that includes the formatted text in the specified range or selection. Read/write.
+Returns or sets a **[Range](Word.Range.md)** object that includes the formatted text in the specified range or selection. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Selection](Word.Selection.md)** obj
 
 ## Remarks
 
-This property returns a  **[Range](Word.Range.md)** object with the character formatting and text from the specified range or selection. Paragraph formatting is included in the **[Range](Word.Range.md)** object if there is a paragraph mark in the range or selection.
+This property returns a **[Range](Word.Range.md)** object with the character formatting and text from the specified range or selection. Paragraph formatting is included in the **[Range](Word.Range.md)** object if there is a paragraph mark in the range or selection.
 
 
 

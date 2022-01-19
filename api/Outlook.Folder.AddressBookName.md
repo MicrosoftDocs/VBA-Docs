@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-If you try to set the  **AddressBookName** property in a non-Contacts folder, an error will be returned.
+If you try to set the **AddressBookName** property in a non-Contacts folder, an error will be returned.
 
 
 ## Example

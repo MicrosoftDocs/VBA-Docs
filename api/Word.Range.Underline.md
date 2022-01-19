@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Underline property (Word)
 
-Returns or sets the type of underline applied to a range. Read/write  **WdUnderline**.
+Returns or sets the type of underline applied to a range. Read/write **WdUnderline**.
 
 
 ## Syntax

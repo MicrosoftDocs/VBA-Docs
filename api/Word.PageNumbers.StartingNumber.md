@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageNumbers.StartingNumber property (Word)
 
-Returns or sets the starting note number, line number, or page number. Read/write  **Long**.
+Returns or sets the starting note number, line number, or page number. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ Required. An expression that returns a '[PageNumbers](Word.pagenumb
 
 You must be in print layout view to see line numbering.
 
-When applied to page numbers, this property returns or sets the beginning page number for the specified  **[HeaderFooter](Word.HeaderFooter.md)** object. This number may or may not be visible on the first page, depending on the setting of the **[ShowFirstPageNumber](Word.PageNumbers.ShowFirstPageNumber.md)** property. The **[RestartNumberingAtSection](Word.PageNumbers.RestartNumberingAtSection.md)** property, if set to **False**, will override the **StartingNumber** property so that page numbering can continue from the previous section.
+When applied to page numbers, this property returns or sets the beginning page number for the specified **[HeaderFooter](Word.HeaderFooter.md)** object. This number may or may not be visible on the first page, depending on the setting of the **[ShowFirstPageNumber](Word.PageNumbers.ShowFirstPageNumber.md)** property. The **[RestartNumberingAtSection](Word.PageNumbers.RestartNumberingAtSection.md)** property, if set to **False**, will override the **StartingNumber** property so that page numbering can continue from the previous section.
 
 
 ## Example

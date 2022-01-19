@@ -31,7 +31,7 @@ ShapeRange
 
 ## Remarks
 
-If you use the  **Background** property to set the background for an individual slide without changing the slide master, the **FollowMasterBackground** property for that slide must be set to **False**.
+If you use the **Background** property to set the background for an individual slide without changing the slide master, the **FollowMasterBackground** property for that slide must be set to **False**.
 
 
 ## Example

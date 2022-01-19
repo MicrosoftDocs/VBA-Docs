@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.QueryCancelUngroup event (Visio)
 
-Occurs before the application ungroups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application ungroups a selection of shapes in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -31,14 +31,14 @@ _expression_ A variable that represents a **[DrawingControl](Visio.DrawingContro
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelUngroup** after the user has directed the instance to ungroup one or more shapes.
+A Microsoft Visio instance fires **QueryCancelUngroup** after the user has directed the instance to ungroup one or more shapes.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **UngroupCanceled** and does not ungroup the shapes.
+- If any event handler returns **True** (cancel), the instance fires **UngroupCanceled** and does not ungroup the shapes.
     
-- If all handlers return  **False** (don't cancel), the instance fires **ShapeParentChanged**, **BeforeSelectionDelete**, and **BeforeShapeDelete**, and then ungroups the shapes.
+- If all handlers return **False** (don't cancel), the instance fires **ShapeParentChanged**, **BeforeSelectionDelete**, and **BeforeShapeDelete**, and then ungroups the shapes.
     
 
 

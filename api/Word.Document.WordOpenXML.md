@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.WordOpenXML property (Word)
 
-Returns a  **String** that represents the flat XML format for the Word Open XML contents of the document. Read-only.
+Returns a **String** that represents the flat XML format for the Word Open XML contents of the document. Read-only.
 
 
 ## Syntax

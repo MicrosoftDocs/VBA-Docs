@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SetShowTaskSuggestions method (Project)
 
-Sets the global  **Show Suggestions** option for tasks.
+Sets the global **Show Suggestions** option for tasks.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_. `SetShowTaskSuggestions`( `_Set_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Set_|Optional|**Variant**|If  **True**, turns on the **Show Suggestions** option. The default value is **False**.|
+| _Set_|Optional|**Variant**|If **True**, turns on the **Show Suggestions** option. The default value is **False**.|
 
 ## Return value
 

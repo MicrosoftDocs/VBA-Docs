@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.AssociatedObject property (Visio)
 
-Returns the object associated with the specified comment. Read-only  **Object**.
+Returns the object associated with the specified comment. Read-only **Object**.
 
 
 ## Syntax

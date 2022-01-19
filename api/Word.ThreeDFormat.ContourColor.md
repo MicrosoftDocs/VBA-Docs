@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.ContourColor property (Word)
 
-Returns or sets a  **ColorFormat** object that represents color of the contour of a shape. Read/write.
+Returns or sets a **ColorFormat** object that represents color of the contour of a shape. Read/write.
 
 
 ## Syntax

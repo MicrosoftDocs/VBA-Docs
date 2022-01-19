@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindows object (PowerPoint)
 
-Represents a collection of  **ProtectedViewWindow** objects.
+Represents a collection of **ProtectedViewWindow** objects.
 
 
 ## See also

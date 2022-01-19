@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MovedSelectionEvent.SelectionSource property (Visio)
 
-Returns a  **[Selection](Visio.Selection.md)** object that represents the set of selected shapes before they are moved to a sub-process page. Read-only.
+Returns a **[Selection](Visio.Selection.md)** object that represents the set of selected shapes before they are moved to a sub-process page. Read-only.
 
 
 ## Syntax

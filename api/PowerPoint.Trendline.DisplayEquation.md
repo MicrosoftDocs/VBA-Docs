@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)'
 
 ## Remarks
 
-Setting this property to  **True** automatically enables data labels.
+Setting this property to **True** automatically enables data labels.
 
 
 ## Example

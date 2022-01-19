@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Vertices property (Word)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only  **Variant**.
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only **Variant**.
 
 
 ## Syntax

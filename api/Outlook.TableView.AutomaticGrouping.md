@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Remarks
 
-If this property is set to  **True**, items are automatically grouped in the view according to the arrangement specified in the Outlook user interface. If this property is set to **False**, items are grouped in the view according to the contents of the **[GroupByFields](Outlook.TableView.GroupByFields.md)** property.
+If this property is set to **True**, items are automatically grouped in the view according to the arrangement specified in the Outlook user interface. If this property is set to **False**, items are grouped in the view according to the contents of the **[GroupByFields](Outlook.TableView.GroupByFields.md)** property.
 
 
 ## See also

@@ -19,7 +19,7 @@ Represents a single initial-capital AutoCorrect exception. The **TwoInitialCapsE
 
 ## Remarks
 
-Use  **TwoInitialCapsExceptions** (Index), where Index is the initial capital exception name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital exception named "KMenu."
+Use **TwoInitialCapsExceptions** (Index), where Index is the initial capital exception name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital exception named "KMenu."
 
 
 ```vb

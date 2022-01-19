@@ -31,7 +31,7 @@ SlideRange
 
 ## Remarks
 
-A slide range can be constructed in slide view, slide sorter view, normal view, notes page view, or outline view. In slide view,  **SlideRange** returns one slide — the current, displayed slide.
+A slide range can be constructed in slide view, slide sorter view, normal view, notes page view, or outline view. In slide view, **SlideRange** returns one slide — the current, displayed slide.
 
 
 ## Example

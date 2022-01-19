@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Language property (Word)
 
-Returns an  **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
+Returns an **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
 
 
 ## Syntax

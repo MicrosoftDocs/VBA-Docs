@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Fonts object (PowerPoint)
 
-A collection of all the  **[Font](PowerPoint.Font.md)** objects in the specified presentation.
+A collection of all the **[Font](PowerPoint.Font.md)** objects in the specified presentation.
 
 
 ## Remarks
 
-Each  **Font** object represents a font that's used in the presentation.
+Each **Font** object represents a font that's used in the presentation.
 
 
 ## Example
@@ -31,7 +31,7 @@ Use the [Fonts](PowerPoint.Presentation.Fonts.md) property to return the **Fonts
 MsgBox ActivePresentation.Fonts.Count
 ```
 
-Use  **Fonts** (_index_), where _index_ is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
+Use **Fonts** (_index_), where _index_ is the font's name or index number, to return a single **Font** object. The following example checks to see whether font one in the active presentation is embedded in the presentation.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.GetExchangeUser method (Outlook)
 
-Returns the  **[ExchangeUser](Outlook.ExchangeUser.md)** object.
+Returns the **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Return value
 
-The parent  **ExchangeUser** object.
+The parent **ExchangeUser** object.
 
 
 ## See also

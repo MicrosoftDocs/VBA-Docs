@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.EqArray property (Word)
 
-Returns an  **[OMathEqArray](Word.OMathEqArray.md)** object that represents an equation array function. Read-only.
+Returns an **[OMathEqArray](Word.OMathEqArray.md)** object that represents an equation array function. Read-only.
 
 
 ## Syntax

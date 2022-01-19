@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Borders](Word.borders.md)'
 
 ## Remarks
 
-This property returns  **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True**, **False**, or one of the following **WdLineWidth** constants.
+This property returns **wdUndefined** if the object has inside borders with more than one line width; otherwise, returns **False** or a **WdLineWidth** constant. Can be set to **True**, **False**, or one of the following **WdLineWidth** constants.
 
 
 ## Example

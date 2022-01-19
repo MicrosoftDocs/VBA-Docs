@@ -39,7 +39,7 @@ A **Category** object that represents the specified object.
 
 ## Remarks
 
-If the name of a category is specified in  _Index_, this method returns the first  **Category** object that matches the specified value. If a match cannot be found, the method returns **Null** (**Nothing** in Visual Basic.)
+If the name of a category is specified in  _Index_, this method returns the first **Category** object that matches the specified value. If a match cannot be found, the method returns **Null** (**Nothing** in Visual Basic.)
 
 
 ## See also

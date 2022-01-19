@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.WidthRelative property (Word)
 
-Returns or sets a  **Single** that represents the relative width of a range of shapes. Read/write.
+Returns or sets a **Single** that represents the relative width of a range of shapes. Read/write.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisRemoveHiddenInfoItems enumeration (Visio)
 
-Document information constants passed to the  **Document.RemoveHiddenInformation** method.
+Document information constants passed to the **Document.RemoveHiddenInformation** method.
 
 
 

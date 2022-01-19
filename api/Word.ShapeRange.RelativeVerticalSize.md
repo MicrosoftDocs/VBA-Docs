@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.RelativeVerticalSize property (Word)
 
-Returns or sets a  **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the object to which a range of shapes is relative. Read/write.
+Returns or sets a **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the object to which a range of shapes is relative. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.Type property (Project)
 
-Gets the type of a project. Read-only  **PjProjectType**.
+Gets the type of a project. Read-only **PjProjectType**.
 
 
 ## Syntax

@@ -21,7 +21,7 @@ _expression_ A variable that represents a **ToggleButton** object.
 
 ## Remarks
 
-The settings for  **Value** are:
+The settings for **Value** are:
 
 
 

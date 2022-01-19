@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GlowFormat.Radius property (Word)
 
-Returns or sets a  **Single** that represents the length of the radius for a glow effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a glow effect. Read/write.
 
 
 ## Syntax

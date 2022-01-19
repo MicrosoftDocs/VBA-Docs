@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabels property (Word)
 
-Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](Word.TickLabels.md)**.
+Returns the tick-mark labels for the specified axis. Read-only **[TickLabels](Word.TickLabels.md)**.
 
 
 ## Syntax

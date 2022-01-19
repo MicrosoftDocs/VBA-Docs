@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AnimationBehavior.Delete method (PowerPoint)
 
-Deletes the specified  **AnimationBehavior** object.
+Deletes the specified **AnimationBehavior** object.
 
 
 ## Syntax

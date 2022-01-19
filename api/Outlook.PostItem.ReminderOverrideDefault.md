@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.PostItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.PostItem.ReminderSoundFile.md)** properties.
+You must set the **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.PostItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.PostItem.ReminderSoundFile.md)** properties.
 
 
 ## See also

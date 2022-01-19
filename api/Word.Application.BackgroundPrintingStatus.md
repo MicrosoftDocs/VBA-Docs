@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.BackgroundPrintingStatus property (Word)
 
-Returns the number of print jobs in the background printing queue. Read-only  **Long**.
+Returns the number of print jobs in the background printing queue. Read-only **Long**.
 
 
 ## Syntax

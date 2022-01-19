@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentations.CanCheckOut method (PowerPoint)
 
-Returns  **True** if Microsoft PowerPoint can check out a specified presentation from a server.
+Returns **True** if Microsoft PowerPoint can check out a specified presentation from a server.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Words.Last property (Word)
 
-Returns a  **Range** object that represents the last word in a collection of words.
+Returns a **Range** object that represents the last word in a collection of words.
 
 
 ## Syntax

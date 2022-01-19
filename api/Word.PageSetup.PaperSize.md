@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.PaperSize property (Word)
 
-Returns or sets the paper size. Read/write  **WdPaperSize**.
+Returns or sets the paper size. Read/write **WdPaperSize**.
 
 
 ## Syntax

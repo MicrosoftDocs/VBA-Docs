@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Floor property (PowerPoint)
 
-Returns the floor of the 3D chart. Read-only  **[Floor](PowerPoint.Floor.md)**.
+Returns the floor of the 3D chart. Read-only **[Floor](PowerPoint.Floor.md)**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3D chart (the  **Floor** property fails on 2D charts).
+The following example sets the floor color of the first chart in the active document to blue. You should run the example on a 3D chart (the **Floor** property fails on 2D charts).
 
 
 

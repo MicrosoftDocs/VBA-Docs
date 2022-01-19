@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Rows property (Word)
 
-Returns a  **[Rows](Word.rows.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
+Returns a **[Rows](Word.rows.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
 
 
 ## Syntax

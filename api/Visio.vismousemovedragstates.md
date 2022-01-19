@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisMouseMoveDragStates enumeration (Visio)
 
-Constants returned by the  **MouseEvent.DragState** property.
+Constants returned by the **MouseEvent.DragState** property.
 
 
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # SpellingSuggestions object (Word)
 
-A collection of  **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
+A collection of **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
 
 
 ## Remarks

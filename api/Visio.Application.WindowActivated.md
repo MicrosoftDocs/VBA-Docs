@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Remarks
 
-The  **WindowActivated** event indicates that the active window has changed in a Visio instance. This event implies that the **ActiveDocument** and **ActivePage** properties of the **Application** object may also have changed; in contrast, any time the **ActiveDocument** or **ActivePage** property changes, a **WindowActivated** event is always generated.
+The **WindowActivated** event indicates that the active window has changed in a Visio instance. This event implies that the **ActiveDocument** and **ActivePage** properties of the **Application** object may also have changed; in contrast, any time the **ActiveDocument** or **ActivePage** property changes, a **WindowActivated** event is always generated.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
@@ -46,8 +46,8 @@ To find an event code for the event that you want to create, see [Event codes](.
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this event maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.EApplication_WindowActivatedEventHandler** (the **WindowActivated** delegate.)
+- **Microsoft.Office.Interop.Visio.EApplication_WindowActivatedEventHandler** (the **WindowActivated** delegate.)
     
--  **Microsoft.Office.Interop.Visio.EApplication_Event.WindowActivated** (the **WindowActivated** event.)
+- **Microsoft.Office.Interop.Visio.EApplication_Event.WindowActivated** (the **WindowActivated** event.)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

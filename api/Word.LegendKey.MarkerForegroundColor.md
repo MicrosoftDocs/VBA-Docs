@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LegendKey.MarkerForegroundColor property (Word)
 
-Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long**.
+Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write **Long**.
 
 
 ## Syntax

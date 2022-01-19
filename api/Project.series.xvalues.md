@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Series.XValues property (Project)
-Gets the horizontal (X) axis values for the data series on a chart. Read-only  **Variant**.
+Gets the horizontal (X) axis values for the data series on a chart. Read-only **Variant**.
 
 ## Syntax
 

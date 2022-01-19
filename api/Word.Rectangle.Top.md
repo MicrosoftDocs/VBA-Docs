@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.Top property (Word)
 
-Returns a  **Long** that represents the number of pixels from the top of the page to the top of a rectangle.
+Returns a **Long** that represents the number of pixels from the top of the page to the top of a rectangle.
 
 
 ## Syntax

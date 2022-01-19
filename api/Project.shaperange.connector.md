@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Connector property (Project)
-Gets a value that indicates whether the shape range is a connector. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
+Gets a value that indicates whether the shape range is a connector. Read-only **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**
 
 ## Syntax
 

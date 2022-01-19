@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.CrossesAt property (Word)
 
-Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double**.
+Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write **Double**.
 
 
 ## Syntax

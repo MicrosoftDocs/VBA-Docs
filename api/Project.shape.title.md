@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Title property (Project)
-Gets or sets the title of the shape. Read/write  **String**.
+Gets or sets the title of the shape. Read/write **String**.
 
 ## Syntax
 

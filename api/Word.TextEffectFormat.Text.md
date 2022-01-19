@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.Text property (Word)
 
-Returns or sets the text in the specified object. Read/write  **String**.
+Returns or sets the text in the specified object. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FormattingShowFilter property (Word)
 
-Sets or returns a  **WdShowFilter** constant that represents the styles and formatting displayed in the **Styles and Formatting** task pane. Read/write **Boolean**.
+Sets or returns a **WdShowFilter** constant that represents the styles and formatting displayed in the **Styles and Formatting** task pane. Read/write **Boolean**.
 
 
 ## Syntax

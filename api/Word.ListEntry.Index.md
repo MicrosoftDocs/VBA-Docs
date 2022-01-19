@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListEntry.Index property (Word)
 
-Returns a  **Long** that represents the position of an item in a collection. Read-only.
+Returns a **Long** that represents the position of an item in a collection. Read-only.
 
 
 ## Syntax

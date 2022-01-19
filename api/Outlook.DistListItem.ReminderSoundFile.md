@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](Outlook.DistListItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.DistListItem.ReminderPlaySound.md)** properties are set to **True**.
+This property is only valid if the **[ReminderOverrideDefault](Outlook.DistListItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.DistListItem.ReminderPlaySound.md)** properties are set to **True**.
 
 
 ## See also

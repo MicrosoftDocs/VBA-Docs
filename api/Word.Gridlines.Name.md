@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Gridlines.Name property (Word)
 
-Returns the name of the object. Read-only  **String**.
+Returns the name of the object. Read-only **String**.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ShowAxisFieldButtons property (Project)
-Gets or sets whether to display axis field buttons on a PivotChart. Read/write  **Boolean**.
+Gets or sets whether to display axis field buttons on a PivotChart. Read/write **Boolean**.
 
 ## Syntax
 

@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # ResampleMediaTasks object (PowerPoint)
 
-A collection of  **ResampleMediaTask** objects.
+A collection of **ResampleMediaTask** objects.
 
 
 ## Remarks
 
-Use  **ResampleMediaTasks** (_index_) to return a **ResampleMediaTask** object, where _index_ is the position of the **ResampleMediaTask** object to return.
+Use **ResampleMediaTasks** (_index_) to return a **ResampleMediaTask** object, where _index_ is the position of the **ResampleMediaTask** object to return.
 
 
 ## See also

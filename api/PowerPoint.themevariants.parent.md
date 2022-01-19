@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ThemeVariants.Parent property (PowerPoint)
 
-Returns the parent for the specified object. Read-only  **Object**.
+Returns the parent for the specified object. Read-only **Object**.
 
 
 ## Syntax

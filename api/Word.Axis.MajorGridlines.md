@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MajorGridlines property (Word)
 
-Returns the major gridlines for the specified axis. Read-only  **[Gridlines](Word.GridLines.md)**.
+Returns the major gridlines for the specified axis. Read-only **[Gridlines](Word.GridLines.md)**.
 
 
 ## Syntax

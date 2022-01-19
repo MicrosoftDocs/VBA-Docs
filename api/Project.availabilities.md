@@ -19,7 +19,7 @@ ms.localizationpriority: medium
  
 
  
-Use  **Availabilities(** Index **)**, where Index is the availability index number, to return a single **Availability** object. The following example returns the availability information from the first line of the **Resource Availability** grid for the specified resource.
+Use **Availabilities(** Index **)**, where Index is the availability index number, to return a single **Availability** object. The following example returns the availability information from the first line of the **Resource Availability** grid for the specified resource.
  
 
  

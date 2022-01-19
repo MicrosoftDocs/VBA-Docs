@@ -28,7 +28,7 @@ _expression_ A variable that represents a 'Guides' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **Guide** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **Guide** object in the collection to be returned.|
 | _Index_|Required|INT||
 
 ## Return value

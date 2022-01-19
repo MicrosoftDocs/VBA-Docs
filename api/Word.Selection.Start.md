@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Start property (Word)
 
-Returns or sets the starting character position of a selection. Read/write  **Long**.
+Returns or sets the starting character position of a selection. Read/write **Long**.
 
 
 ## Syntax

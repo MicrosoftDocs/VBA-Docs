@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailOptions.EmailSignature property (Word)
 
-Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents the signatures Microsoft Word appends to outgoing email messages. Read-only.
+Returns an **[EmailSignature](Word.EmailSignature.md)** object that represents the signatures Microsoft Word appends to outgoing email messages. Read-only.
 
 
 ## Syntax

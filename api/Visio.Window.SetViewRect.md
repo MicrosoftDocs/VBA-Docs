@@ -42,6 +42,6 @@ Nothing
 
 ## Remarks
 
-If the  **Window** object is not a **visDrawing** type, the **SetViewRect** method raises an exception.
+If the **Window** object is not a **visDrawing** type, the **SetViewRect** method raises an exception.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

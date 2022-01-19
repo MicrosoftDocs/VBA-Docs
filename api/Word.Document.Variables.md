@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Variables property (Word)
 
-Returns a  **[Variables](Word.variables.md)** collection that represents the variables stored in the specified document. Read-only.
+Returns a **[Variables](Word.variables.md)** collection that represents the variables stored in the specified document. Read-only.
 
 
 ## Syntax

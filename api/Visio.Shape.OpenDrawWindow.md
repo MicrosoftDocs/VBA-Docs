@@ -31,6 +31,6 @@ Window
 
 ## Remarks
 
-The  **OpenDrawWindow** method opens a new drawing window, even if the group is already displayed in a drawing window.
+The **OpenDrawWindow** method opens a new drawing window, even if the group is already displayed in a drawing window.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

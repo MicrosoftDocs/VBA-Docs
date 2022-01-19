@@ -45,7 +45,7 @@ MenuItem
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-The beginning of a  **MenuItems** collection is the topmost menu item.
+The beginning of a **MenuItems** collection is the topmost menu item.
 
 
 ## Example

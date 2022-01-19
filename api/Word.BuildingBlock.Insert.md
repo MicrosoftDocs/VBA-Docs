@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Insert method (Word)
 
-Inserts the value of a building block into a document and returns a  **[Range](Word.Range.md)** object that represents the contents of the building block within the document.
+Inserts the value of a building block into a document and returns a **[Range](Word.Range.md)** object that represents the contents of the building block within the document.
 
 
 ## Syntax

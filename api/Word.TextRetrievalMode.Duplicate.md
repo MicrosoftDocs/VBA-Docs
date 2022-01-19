@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextRetrievalMode.Duplicate property (Word)
 
-Returns a read-only  **TextRetrievalMode** object that represents options related to retrieving text from a **Range** object.
+Returns a read-only **TextRetrievalMode** object that represents options related to retrieving text from a **Range** object.
 
 
 ## Syntax

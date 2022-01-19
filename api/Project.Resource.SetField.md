@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Resource](./Project.Resource.md) obje
 The following example shows how to access an enterprise resource custom field by using the **SetField** method and the **GetField** method for the **Resource** object together with the **FieldNameToFieldConstant** and **FieldConstantToFieldName** methods.
 
 
-1. To use the example, use Project Web App to create an enterprise resource text custom field named, for example,  **TestEntResText**. 
+1. To use the example, use Project Web App to create an enterprise resource text custom field named, for example, **TestEntResText**. 
     
 2. Restart Project Professional with a Project Server profile, so that it includes the new custom field.
     

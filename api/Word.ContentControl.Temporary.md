@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.Temporary property (Word)
 
-Returns or sets a  **Boolean** that represents whether to remove a content control from the active document when the user edits the contents of the control. Read/write.
+Returns or sets a **Boolean** that represents whether to remove a content control from the active document when the user edits the contents of the control. Read/write.
 
 
 ## Syntax

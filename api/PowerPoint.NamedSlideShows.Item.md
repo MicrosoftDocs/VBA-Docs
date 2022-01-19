@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NamedSlideShows.Item method (PowerPoint)
 
-Returns a single  **NamedSlideShow** object from the specified **NamedSlideShows** collection.
+Returns a single **NamedSlideShow** object from the specified **NamedSlideShows** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [NamedSlideShows](PowerPoint.NamedSlid
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **NamedSlideShow** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **NamedSlideShow** object in the collection to be returned.|
 
 ## Return value
 

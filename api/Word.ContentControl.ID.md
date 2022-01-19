@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.ID property (Word)
 
-Returns a  **String** that represents the identification for a content control. Read-only.
+Returns a **String** that represents the identification for a content control. Read-only.
 
 
 ## Syntax

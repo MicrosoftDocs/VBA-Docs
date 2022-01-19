@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.DownBars property (Word)
 
-Returns the down bars on a line chart. Read-only  **[DownBars](Word.DownBars.md)**.
+Returns the down bars on a line chart. Read-only **[DownBars](Word.DownBars.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ShowStartupDialog property (PowerPoint)
 
-Determines whether to display the  **New Presentation** task pane when Microsoft PowerPoint is started. Read/write.
+Determines whether to display the **New Presentation** task pane when Microsoft PowerPoint is started. Read/write.
 
 
 ## Syntax
@@ -31,18 +31,18 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **ShowStartupDialog** property can be one of these **MsoTriState** constants.
+The value of the **ShowStartupDialog** property can be one of these **MsoTriState** constants.
 
 
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|Hides the  **New Presentation** task pane.|
+|**msoFalse**|Hides the **New Presentation** task pane.|
 |**msoTrue**| The default. Displays the **New Presentation** task pane.|
 
 ## Example
 
-The following line of code hides the  **New Presentation** task pane when PowerPoint starts.
+The following line of code hides the **New Presentation** task pane when PowerPoint starts.
 
 
 ```vb

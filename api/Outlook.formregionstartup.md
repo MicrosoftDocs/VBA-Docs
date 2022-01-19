@@ -24,13 +24,13 @@ The **FormRegionStartup** interface is an abstract class, which means that it ca
 Implements Outlook.FormRegionStartup
 ```
 
-An add-in deploying a form region in an Outlook form on a client computer must implement the  **FormRegionStartup** interface which consists of the two methods, **[BeforeFormRegionShow](Outlook.FormRegionStartup.BeforeFormRegionShow.md)** and **[GetFormRegionStorage](Outlook.FormRegionStartup.GetFormRegionStorage.md)**. When Outlook loads the add-in, Outlook queries the **IDTExtensibility2** interface for **FormRegionStartup**.
+An add-in deploying a form region in an Outlook form on a client computer must implement the **FormRegionStartup** interface which consists of the two methods, **[BeforeFormRegionShow](Outlook.FormRegionStartup.BeforeFormRegionShow.md)** and **[GetFormRegionStorage](Outlook.FormRegionStartup.GetFormRegionStorage.md)**. When Outlook loads the add-in, Outlook queries the **IDTExtensibility2** interface for **FormRegionStartup**.
 
-The add-in indicates the storage and layout file for the form region in  **GetFormRegionStorage**. By calling **GetFormRegionStorage**, Outlook allocates storage and calculates the layout for the form region, instantiates an object for the form region, and returns a value representing the storage allocated to the add-in. If **GetFormRegionStorage** is successful, just before the form region is displayed in an Inspector window or in the Reading Pane, Outlook will call **BeforeFormRegionShow** and pass the **[FormRegion](Outlook.FormRegion.md)** object of the form region to the add-in. The add-in uses this opportunity before the form region is displayed to update any controls in the form region.
+The add-in indicates the storage and layout file for the form region in **GetFormRegionStorage**. By calling **GetFormRegionStorage**, Outlook allocates storage and calculates the layout for the form region, instantiates an object for the form region, and returns a value representing the storage allocated to the add-in. If **GetFormRegionStorage** is successful, just before the form region is displayed in an Inspector window or in the Reading Pane, Outlook will call **BeforeFormRegionShow** and pass the **[FormRegion](Outlook.FormRegion.md)** object of the form region to the add-in. The add-in uses this opportunity before the form region is displayed to update any controls in the form region.
 
 When the add-in closes the frame for the form region, the add-in must release the object for the form region.
 
-For more information on writing add-ins for form regions, see [Extending a Form Region with an Add-in](../outlook/Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md). For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
+For more information on writing add-ins for form regions, see [Extending a Form Region with an Add-in](../outlook/Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md). For examples of add-ins in C# and Visual Basic .NET that implement **FormRegionStartup**, see code sample downloads on MSDN.
 
 
 ## Methods

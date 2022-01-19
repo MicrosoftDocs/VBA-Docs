@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # InlineShape.HasSmartArt property (Word)
 
-Returns  **True** if there is a SmartArt diagram present on the shape. Read-only.
+Returns **True** if there is a SmartArt diagram present on the shape. Read-only.
 
 
 ## Syntax

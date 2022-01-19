@@ -31,7 +31,7 @@ Slide
 
 ## Remarks
 
-If the currently displayed slide is from an embedded presentation, you can use the  **[Parent](PowerPoint.Slide.Parent.md)** property of the **Slide** object returned by the **Slide** property to return the embedded presentation that contains the slide. (The **[Presentation](PowerPoint.SlideShowWindow.Presentation.md)** property of the **SlideShowWindow** object or **DocumentWindow** object returns the presentation from which the window was created, not the embedded presentation.)
+If the currently displayed slide is from an embedded presentation, you can use the **[Parent](PowerPoint.Slide.Parent.md)** property of the **Slide** object returned by the **Slide** property to return the embedded presentation that contains the slide. (The **[Presentation](PowerPoint.SlideShowWindow.Presentation.md)** property of the **SlideShowWindow** object or **DocumentWindow** object returns the presentation from which the window was created, not the embedded presentation.)
 
 
 ## See also

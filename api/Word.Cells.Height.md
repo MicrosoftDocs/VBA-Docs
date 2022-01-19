@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cells.Height property (Word)
 
-Returns or sets the height of the specified table cells. Read/write  **Single**.
+Returns or sets the height of the specified table cells. Read/write **Single**.
 
 
 ## Syntax

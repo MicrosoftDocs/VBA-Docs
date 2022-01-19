@@ -31,7 +31,7 @@ Sequences
 
 ## Remarks
 
-The default value of the  **InteractiveSequences** property is an empty **[Sequences](PowerPoint.Sequences.md)** collection.
+The default value of the **InteractiveSequences** property is an empty **[Sequences](PowerPoint.Sequences.md)** collection.
 
 
 ## Example

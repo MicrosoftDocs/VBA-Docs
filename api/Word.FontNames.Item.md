@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FontNames.Item method (Word)
 
-Returns a  **String** that represents the name of a font.
+Returns a **String** that represents the name of a font.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a '[FontNames](Word.FontNames.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a **Long** indicating the ordinal position of the individual object.|
 
 ## Return value
 

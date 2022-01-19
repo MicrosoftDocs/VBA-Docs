@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.StartVariance property (Project)
 
-Gets the variance (in minutes) between the baseline start date and the start date of the assignment. Read-only  **Variant**.
+Gets the variance (in minutes) between the baseline start date and the start date of the assignment. Read-only **Variant**.
 
 
 ## Syntax

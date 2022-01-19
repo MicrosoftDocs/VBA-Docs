@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # StartDriver.EffectiveDateAdd property (Project)
 
-Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only  **Variant**.
+Gets the date and time that follows another date by a specified duration, using the effective calendar for a manually scheduled task. Read-only **Variant**.
 
 
 ## Syntax

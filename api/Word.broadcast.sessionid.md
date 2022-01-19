@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Broadcast.SessionID property (Word)
 
-If a broadcast is in progress, returns a  **String** that specifies the ID of the session. Read-only.
+If a broadcast is in progress, returns a **String** that specifies the ID of the session. Read-only.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Broadcast](Word.broadcast.md)** obj
 
 ## Remarks
 
-If a broadcast is not in progress,  **SessionID** returns an empty string.
+If a broadcast is not in progress, **SessionID** returns an empty string.
 
 
 ## Property value

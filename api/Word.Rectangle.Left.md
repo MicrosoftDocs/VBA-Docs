@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.Left property (Word)
 
-Returns a  **Long** that represents the number of pixels from the left edge of the page to the left edge of a rectangle.
+Returns a **Long** that represents the number of pixels from the left edge of the page to the left edge of a rectangle.
 
 
 ## Syntax

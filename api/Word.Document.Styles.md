@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Styles property (Word)
 
-Returns a  **[Styles](Word.styles.md)** collection for the specified document. Read-only.
+Returns a **[Styles](Word.styles.md)** collection for the specified document. Read-only.
 
 
 ## Syntax

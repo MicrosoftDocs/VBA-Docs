@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLayout.MoveTo method (PowerPoint)
 
-Moves the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object to a different position in the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
+Moves the specified **[CustomLayout](PowerPoint.CustomLayout.md)** object to a different position in the **[CustomLayouts](PowerPoint.CustomLayouts.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _toPos_|Required|**Long**|The index position in the  **CustomLayouts** collection to which the **CustomLayout** object will be moved.|
+| _toPos_|Required|**Long**|The index position in the **CustomLayouts** collection to which the **CustomLayout** object will be moved.|
 
 ## See also
 

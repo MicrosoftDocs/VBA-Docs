@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Expand method (Word)
 
-Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long**.
+Expands the specified range or selection. Returns the number of characters added to the range or selection. **Long**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The unit by which to expand the range. Can be one of the following  **WdUnits** constants: **wdCharacter**, **wdWord**, **wdSentence**, **wdParagraph**, **wdSection**, **wdStory**, **wdCell** **wdColumn**, **wdRow**, or **wdTable**.|
+| _Unit_|Optional| **Variant**|The unit by which to expand the range. Can be one of the following **WdUnits** constants: **wdCharacter**, **wdWord**, **wdSentence**, **wdParagraph**, **wdSection**, **wdStory**, **wdCell** **wdColumn**, **wdRow**, or **wdTable**.|
 
 ## Example
 

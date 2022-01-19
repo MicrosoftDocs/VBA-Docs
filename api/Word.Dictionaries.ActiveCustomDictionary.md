@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dictionaries.ActiveCustomDictionary property (Word)
 
-Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents the custom dictionary to which words will be added. Read/write.
+Returns or sets a **[Dictionary](Word.Dictionary.md)** object that represents the custom dictionary to which words will be added. Read/write.
 
 
 ## Syntax

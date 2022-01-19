@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FileConverters property (PowerPoint)
 
-Returns information about installed file converters. Returns  **null** if there are no converters installed. Read-only **Variant**.
+Returns information about installed file converters. Returns **null** if there are no converters installed. Read-only **Variant**.
 
 
 ## Syntax

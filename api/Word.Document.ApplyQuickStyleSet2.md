@@ -30,7 +30,7 @@ _expression_. `ApplyQuickStyleSet2`( `_Style_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|Can be either a  **String** that specifies the name of the set to use (corresponds to the name listed in the **Style Set** list) or a constant from the [WdApplyQuickStyleSets](Word.WdApplyQuickStyleSets.md) enumeration.|
+| _Style_|Required| **Variant**|Can be either a **String** that specifies the name of the set to use (corresponds to the name listed in the **Style Set** list) or a constant from the [WdApplyQuickStyleSets](Word.WdApplyQuickStyleSets.md) enumeration.|
 
 ## See also
 

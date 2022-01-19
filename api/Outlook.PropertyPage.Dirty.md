@@ -32,12 +32,12 @@ _expression_ A variable that represents a [PropertyPage](Outlook.PropertyPage.md
 
 ## Remarks
 
-The ActiveX control that implements the  **[PropertyPage](Outlook.PropertyPage.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method of a **[PropertyPageSite](Outlook.PropertyPageSite.md)** object.
+The ActiveX control that implements the **[PropertyPage](Outlook.PropertyPage.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method of a **[PropertyPageSite](Outlook.PropertyPageSite.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example returns the value of the  **[Dirty](Outlook.PropertyPage.Dirty.md)** property as the value of a global variable.
+This Visual Basic for Applications (VBA) example returns the value of the **[Dirty](Outlook.PropertyPage.Dirty.md)** property as the value of a global variable.
 
 
 ```vb

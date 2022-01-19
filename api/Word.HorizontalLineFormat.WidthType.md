@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HorizontalLineFormat.WidthType property (Word)
 
-Returns or sets the width type for the specified  **HorizontalLineFormat** object. Read/write **WdHorizontalLineWidthType**.
+Returns or sets the width type for the specified **HorizontalLineFormat** object. Read/write **WdHorizontalLineWidthType**.
 
 
 ## Syntax

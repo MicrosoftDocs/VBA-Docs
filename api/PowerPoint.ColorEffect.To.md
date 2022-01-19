@@ -31,9 +31,9 @@ ColorFormat
 
 ## Remarks
 
-Use this property in conjunction with the  **From** property to transition from one color to another.
+Use this property in conjunction with the **From** property to transition from one color to another.
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

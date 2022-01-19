@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Cell.FontColor property (Project)
 
-Gets or sets the color of the font. Read/write  **PjColor**.
+Gets or sets the color of the font. Read/write **PjColor**.
 
 
 ## Syntax

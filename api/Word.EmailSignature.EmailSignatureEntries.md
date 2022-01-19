@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignature.EmailSignatureEntries property (Word)
 
-Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object that represents the email signature entries in Microsoft Word. Read-only.
+Returns an **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object that represents the email signature entries in Microsoft Word. Read-only.
 
 
 ## Syntax

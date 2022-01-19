@@ -26,13 +26,13 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-Returns  **True** to display the webpage specified by the **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object.
+Returns **True** to display the webpage specified by the **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object.
 
 Microsoft Outlook uses the rendering engine of the version Windows Internet Explorer installed on the client computer to display the webpage. If Internet Explorer is not installed on the client computer, Outlook will not display the webpage.
 
-This property is always  **False** if the value of the **WebViewURL** property is empty.
+This property is always **False** if the value of the **WebViewURL** property is empty.
 
-Also, setting the  **WebViewOn** property to **True** before setting the **WebViewURL** property will not display the home page specified in the **WebViewURL** property.
+Also, setting the **WebViewOn** property to **True** before setting the **WebViewURL** property will not display the home page specified in the **WebViewURL** property.
 
 
 ## Example

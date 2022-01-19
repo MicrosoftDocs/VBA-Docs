@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.GetOrganizer method (Outlook)
 
-Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the organizer of the **[AppointmentItem](Outlook.AppointmentItem.md)**.
+Obtains the **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the organizer of the **[AppointmentItem](Outlook.AppointmentItem.md)**.
 
 
 ## Syntax

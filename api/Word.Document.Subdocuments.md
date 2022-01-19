@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Subdocuments property (Word)
 
-Returns a  **[Subdocuments](Word.subdocuments.md)** collection that represents all the subdocuments in the specified document. Read-only.
+Returns a **[Subdocuments](Word.subdocuments.md)** collection that represents all the subdocuments in the specified document. Read-only.
 
 
 ## Syntax

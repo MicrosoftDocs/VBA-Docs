@@ -40,7 +40,7 @@ The new report is empty; it does not contain any shapes such as tables or charts
 
 ## Examples
 
-The following example adds an empty report named  **Report 1**, and displays the report.
+The following example adds an empty report named **Report 1**, and displays the report.
 
 
 ```vb

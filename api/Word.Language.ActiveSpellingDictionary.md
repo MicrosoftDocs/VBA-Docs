@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.ActiveSpellingDictionary property (Word)
 
-Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active spelling dictionary for the specified language.
+Returns a **[Dictionary](Word.Dictionary.md)** object that represents the active spelling dictionary for the specified language.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ActiveSpellingDictionary`
 
 ## Remarks
 
-If there is no spelling dictionary installed for the specified language, this property returns  **Nothing**.
+If there is no spelling dictionary installed for the specified language, this property returns **Nothing**.
 
 
 ## Example

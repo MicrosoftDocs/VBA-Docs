@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Variables.Add method (Word)
 
-Returns a  **Variable** object that represents a variable added to a document.
+Returns a **Variable** object that represents a variable added to a document.
 
 
 ## Syntax

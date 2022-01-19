@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMaths.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only **Long**.
 
 
 ## Syntax

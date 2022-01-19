@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # KeysBoundTo object (Word)
 
-A collection of  **[KeyBinding](Word.KeyBinding.md)** objects assigned to a command, style, macro, or other item in the current context.
+A collection of **[KeyBinding](Word.KeyBinding.md)** objects assigned to a command, style, macro, or other item in the current context.
 
 
 ## Remarks

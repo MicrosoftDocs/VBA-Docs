@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindow.SourcePath property (PowerPoint)
 
-Returns the source path of the current  **ProtectedViewWindow** object. Read-only.
+Returns the source path of the current **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax

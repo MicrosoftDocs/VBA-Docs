@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ReadingLayoutTruncateMargins property (Word)
 
-Returns or sets a  **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** constant that represents whether margins are visible or hidden when a document is viewed in Full Screen Reading view. Read/write.
+Returns or sets a **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** constant that represents whether margins are visible or hidden when a document is viewed in Full Screen Reading view. Read/write.
 
 
 ## Syntax

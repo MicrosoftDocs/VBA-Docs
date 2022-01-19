@@ -24,7 +24,7 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Remarks
 
-If this property is set to  **True**, the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property.
+If this property is set to **True**, the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property.
 
 | **Property value**| **Label location**|
 |:-----|:-----|
@@ -34,7 +34,7 @@ If this property is set to  **True**, the location in which week number labels a
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 ```vb
 Private Sub ConfigureMonthTimelineView() 

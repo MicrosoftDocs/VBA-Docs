@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # WorkbookConnection.RefreshWithRefreshAll property (Excel)
 
-Determines if the connection should be refreshed when Refresh All is executed.  Read/write **Boolean**.
+Determines if the connection should be refreshed when Refresh All is executed. Read/write **Boolean**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.DownloadState property (Outlook)
 
-Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
+Returns a constant that belongs to the **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

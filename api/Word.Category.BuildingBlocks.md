@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Category.BuildingBlocks property (Word)
 
-Returns a  **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represents the building blocks for a category. Read-only.
+Returns a **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represents the building blocks for a category. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.CaptionLabels property (Word)
 
-Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents all the available caption labels. Read-only.
+Returns a **[CaptionLabels](Word.captionlabels.md)** collection that represents all the available caption labels. Read-only.
 
 
 ## Syntax

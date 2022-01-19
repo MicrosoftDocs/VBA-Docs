@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Type property (Word)
 
-Returns the type of inline shape. Read-only  **MsoShapeType**.
+Returns the type of inline shape. Read-only **MsoShapeType**.
 
 
 ## Syntax

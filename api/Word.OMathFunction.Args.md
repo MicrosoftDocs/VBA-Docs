@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Args property (Word)
 
-Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments for an equation. Read-only.
+Returns an **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments for an equation. Read-only.
 
 
 ## Syntax

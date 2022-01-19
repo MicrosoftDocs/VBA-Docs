@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.LevelingDelay property (Project)
 
-Gets or sets the amount of time the task is delayed due to leveling. Read/write  **Variant**.
+Gets or sets the amount of time the task is delayed due to leveling. Read/write **Variant**.
 
 
 ## Syntax

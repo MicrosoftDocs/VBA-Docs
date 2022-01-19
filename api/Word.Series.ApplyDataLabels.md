@@ -41,19 +41,19 @@ _expression_ A variable that represents a [Series](Word.Series.md) object.
 
 ## Remarks
 
-The Type parameter can be one of the following  **xlDataLabelsType** constants:
+The Type parameter can be one of the following **xlDataLabelsType** constants:
 
--  **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
+- **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
     
--  **xlDataLabelsShowLabelAndPercent** The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.
+- **xlDataLabelsShowLabelAndPercent** The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.
     
--  **xlDataLabelsShowPercent** The percentage of the total. Available only for pie charts and doughnut charts.
+- **xlDataLabelsShowPercent** The percentage of the total. Available only for pie charts and doughnut charts.
     
--  **xlDataLabelsShowLabel** The category for the point.
+- **xlDataLabelsShowLabel** The category for the point.
     
--  **xlDataLabelsShowNone** No data labels.
+- **xlDataLabelsShowNone** No data labels.
     
--  **xlDataLabelsShowValue** (Default) The value for the point (assumed if this argument is not specified).
+- **xlDataLabelsShowValue** (Default) The value for the point (assumed if this argument is not specified).
     
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Line.Top property (Word)
 
-Returns a  **Long** that represents the number of pixels from the top of the page to the top of a line.
+Returns a **Long** that represents the number of pixels from the top of the page to the top of a line.
 
 
 ## Syntax

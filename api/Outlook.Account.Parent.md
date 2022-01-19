@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Account.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Account](Outlook.Account.md) object.
 
 ## Remarks
 
-The parent of the  **[Account](Outlook.Account.md)** object is the **[Accounts](Outlook.Accounts.md)** object.
+The parent of the **[Account](Outlook.Account.md)** object is the **[Accounts](Outlook.Accounts.md)** object.
 
 
 ## See also

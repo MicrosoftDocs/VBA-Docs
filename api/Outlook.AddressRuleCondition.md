@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressRuleCondition object (Outlook)
 
-Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
+Represents a rule condition that evaluates whether the address for the recipient or sender of the message is contained in the address specified in **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 
 
 ## Remarks

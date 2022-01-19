@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Columns property (Word)
 
-Returns a  **[Columns](Word.columns.md)** collection that represents all the table columns in the table. Read-only.
+Returns a **[Columns](Word.columns.md)** collection that represents all the table columns in the table. Read-only.
 
 
 ## Syntax

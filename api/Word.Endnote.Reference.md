@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Endnote.Reference property (Word)
 
-Returns a  **Range** object that represents an endnote reference mark.
+Returns a **Range** object that represents an endnote reference mark.
 
 
 ## Syntax

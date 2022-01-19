@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.NumberStyle property (Word)
 
-Returns or sets the number style for the footnotes. Read/write  **WdNoteNumberStyle**.
+Returns or sets the number style for the footnotes. Read/write **WdNoteNumberStyle**.
 
 
 ## Syntax

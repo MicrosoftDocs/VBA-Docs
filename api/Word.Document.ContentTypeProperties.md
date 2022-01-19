@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ContentTypeProperties property (Word)
 
-Returns a  **MetaProperties** collection that represents the metadata stored in a document, such as author name, subject, and company. Read-only.
+Returns a **MetaProperties** collection that represents the metadata stored in a document, such as author name, subject, and company. Read-only.
 
 
 ## Syntax

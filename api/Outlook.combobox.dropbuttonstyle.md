@@ -24,7 +24,7 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-The possible values for  **DropButtonStyle** are:
+The possible values for **DropButtonStyle** are:
 
 
 

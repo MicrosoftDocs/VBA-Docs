@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.m
 
 ## Remarks
 
-Note that applying the  **Background** method to a shape's fill isn't the same as setting a transparent fill for the shape, nor is it always the same as applying the same fill to the shape as you apply to the background. The second example demonstrates this.
+Note that applying the **Background** method to a shape's fill isn't the same as setting a transparent fill for the shape, nor is it always the same as applying the same fill to the shape as you apply to the background. The second example demonstrates this.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthoring.Me property (Word)
 
-Returns a  **[CoAuthor](Word.CoAuthor.md)** object that represents the current user. Read-only.
+Returns a **[CoAuthor](Word.CoAuthor.md)** object that represents the current user. Read-only.
 
 
 ## Syntax

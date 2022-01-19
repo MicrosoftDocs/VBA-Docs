@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIBarPosition enumeration (Visio)
 
-Values passed to and returned by the  **MenuSet.Position** and **Toolbar.Position** properties.
+Values passed to and returned by the **MenuSet.Position** and **Toolbar.Position** properties.
 
 
 > [!NOTE] 

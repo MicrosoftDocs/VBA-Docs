@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Window.Caption property (Project)
 
-Gets or sets the text in the title bar of a project window. Read/write  **String**.
+Gets or sets the text in the title bar of a project window. Read/write **String**.
 
 
 ## Syntax

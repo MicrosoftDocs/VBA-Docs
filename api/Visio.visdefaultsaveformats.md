@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 
 # VisDefaultSaveFormats enumeration (Visio)
 
-Default  **Save** format options.
+Default **Save** format options.
 
 
 ## Remarks
 
-These options correspond to those available in the  **Save files in this format** list on the **Save** tab of the **Options** dialog box (click the **File** tab, and then click **Options**).
+These options correspond to those available in the **Save files in this format** list on the **Save** tab of the **Options** dialog box (click the **File** tab, and then click **Options**).
 
 
 

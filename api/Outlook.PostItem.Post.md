@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PostItem.Post method (Outlook)
 
-Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
+Sends (posts) the **[PostItem](Outlook.PostItem.md)** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthoring.Locks property (Word)
 
-Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection that represents the locks in the document. Read-only.
+Returns a **[CoAuthLocks](Word.CoAuthLocks.md)** collection that represents the locks in the document. Read-only.
 
 
 ## Syntax

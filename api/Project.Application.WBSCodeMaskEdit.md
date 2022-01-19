@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |:-----|:-----|:-----|:-----|
 | _CodePrefix_|Optional|**String**|The WBS code prefix for the project.|
 | _Level_|Optional|**Long**|The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.|
-| _Sequence_|Optional|**Long**|The sequence for the level specified in Level. Can be one of the following  **[PjWBSSequence](Project.PjWBSSequence.md)** constants: **pjWBSOrderedNumbers**, **pjWBSOrderedLowercaseLetters**, **pjWBSOrderedUppercaseLetters**, or **pjWBSUnorderedCharacters**. The default value is **pjWBSOrderedNumbers**.|
+| _Sequence_|Optional|**Long**|The sequence for the level specified in Level. Can be one of the following **[PjWBSSequence](Project.PjWBSSequence.md)** constants: **pjWBSOrderedNumbers**, **pjWBSOrderedLowercaseLetters**, **pjWBSOrderedUppercaseLetters**, or **pjWBSUnorderedCharacters**. The default value is **pjWBSOrderedNumbers**.|
 | _Length_|Optional|**Variant**|Specifies the length for a given level. Can be the string "Any" or an integer value 1-255. The default value is "Any".|
 | _Separator_|Optional|**String**|The character that separates the level specified in Level from the next. Can be one of ".", "-", "+", or "/". The default value is ".".|
 | _CodeGenerate_|Optional|**Boolean**|**True** if a new WBS code is generated whenever a new task is created.|

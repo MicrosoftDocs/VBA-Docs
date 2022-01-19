@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange.AlternativeText
 ms.assetid: 8485fffc-b1db-d93f-8945-2f871211fc5d
-ms.date: 05/14/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
 
 # ShapeRange.AlternativeText property (Excel)
 
-Returns or sets the descriptive (alternative) text string for a  **[ShapeRange](Excel.ShapeRange.md)** object when the object is saved to a webpage. Read/write **String**.
+Returns or sets the descriptive (alternative) text string for a **[ShapeRange](Excel.ShapeRange.md)** object when the object is saved to a webpage. Read/write **String**.
 
 
 ## Syntax

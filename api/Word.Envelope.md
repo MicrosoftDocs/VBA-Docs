@@ -55,7 +55,7 @@ Use the **Insert** method to add an envelope to the specified document. Use the 
 
 
 > [!NOTE] 
-> There is no Envelopes collection; each  **Document** object contains only one **Envelope** object.
+> There is no Envelopes collection; each **Document** object contains only one **Envelope** object.
 
 
 ## See also

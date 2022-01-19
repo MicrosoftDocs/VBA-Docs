@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.ReadingOrder property (Word)
 
-Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

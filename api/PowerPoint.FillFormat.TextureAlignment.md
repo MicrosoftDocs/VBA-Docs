@@ -31,7 +31,7 @@ MsoTextureAlignment
 
 ## Remarks
 
-The value returned by the  **TextureAlignment** property can be one of these **MsoTextureAlignment** constants.
+The value returned by the **TextureAlignment** property can be one of these **MsoTextureAlignment** constants.
 
 
 ||
@@ -46,7 +46,7 @@ The value returned by the  **TextureAlignment** property can be one of these **M
 |**msoTextureBottom**|
 |**msoTextureBottomRight**|
 
-The setting of the  **TextureAlignment** property corresponds to the setting of the **Alignment** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the  **Format Tab**, in the  **Shape Styles** group, click **Format Shape**.)
+The setting of the **TextureAlignment** property corresponds to the setting of the **Alignment** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the **Format Tab**, in the **Shape Styles** group, click **Format Shape**.)
 
 
 ## See also

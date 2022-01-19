@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.Delete method (Outlook)
 
-Deletes the  **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
+Deletes the **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[AddressEntries](Outlook.AddressEntries.md)** collection object to which it belongs.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Represents a frame. The **Frame** object is a member of the **Frames** collectio
 
 ## Remarks
 
-Use  **Frames** (Index), where Index is the index number, to return a single **Frame** object. The index number represents the position of the frame in the selection, range, or document. The following example allows text to wrap around the first frame in the active document.
+Use **Frames** (Index), where Index is the index number, to return a single **Frame** object. The index number represents the position of the frame in the selection, range, or document. The following example allows text to wrap around the first frame in the active document.
 
 
 ```vb
@@ -36,7 +36,7 @@ ActiveDocument.Frames.Add _
  Range:=ActiveDocument.Paragraphs(1).Range
 ```
 
-You can wrap text around  **Shape** or **ShapeRange** objects by using the **WrapFormat** property. You can position a **Shape** or **ShapeRange** object by using the **Top** and **Left** properties.
+You can wrap text around **Shape** or **ShapeRange** objects by using the **WrapFormat** property. You can position a **Shape** or **ShapeRange** object by using the **Top** and **Left** properties.
 
 
 ## See also

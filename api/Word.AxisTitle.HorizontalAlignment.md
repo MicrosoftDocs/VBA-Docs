@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.HorizontalAlignment property (Word)
 
-Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
+Returns or sets the horizontal alignment for the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,18 +26,18 @@ _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' obje
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
+The value of this property can be set to one of the following **[XlConstants](Word.XlConstants.md)** constants:
 
 
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlLeft**
+- **xlLeft**
     
--  **xlRight**
+- **xlRight**
     
 Some of these constants may not be available to you, depending on the language support (for example, U.S. English) that you have selected or installed.
 

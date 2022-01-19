@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # RuleCondition.ConditionType property (Outlook)
 
-Returns a constant in the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of condition for the **[RuleCondition](Outlook.RuleCondition.md)** object. Read-only.
+Returns a constant in the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of condition for the **[RuleCondition](Outlook.RuleCondition.md)** object. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.HyperlinkSubAddress property (Project)
 
-Gets or sets the address of a location within the target document. Read/write  **String**.
+Gets or sets the address of a location within the target document. Read/write **String**.
 
 
 ## Syntax

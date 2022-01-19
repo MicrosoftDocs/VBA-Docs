@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.MaximumScale property (PowerPoint)
 
-Returns or sets the maximum value on the value axis. Read/write  **Double**.
+Returns or sets the maximum value on the value axis. Read/write **Double**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting this property sets the  **[MaximumScaleIsAuto](PowerPoint.Axis.MaximumScaleIsAuto.md)** property to **False**.
+Setting this property sets the **[MaximumScaleIsAuto](PowerPoint.Axis.MaximumScaleIsAuto.md)** property to **False**.
 
 
 ## Example

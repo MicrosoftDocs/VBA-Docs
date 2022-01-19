@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # UpBars.Interior property (Word)
 
-Returns the interior of the object. Read-only  **[Interior](Word.Interior.md)**.
+Returns the interior of the object. Read-only **[Interior](Word.Interior.md)**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SlideShowSettings](PowerPoint.SlideSh
 
 ## Remarks
 
-The value of the  **AdvanceMode** property can be one of these **PpSlideShowAdvanceMode** constants.
+The value of the **AdvanceMode** property can be one of these **PpSlideShowAdvanceMode** constants.
 
 
 ||

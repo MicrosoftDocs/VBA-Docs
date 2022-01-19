@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.LineSpacing property (Word)
 
-Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single**.
+Returns or sets the line spacing (in points) for the specified paragraphs. Read/write **Single**.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Use the **[LinesToPoints](Word.Global.LinesToPoints.md)** method to convert a nu
 The **LineSpacing** property can be set after the **[LineSpacingRule](Word.Paragraphs.LineSpacingRule.md)** property has been set to:
 
 
--  **wdLineSpaceAtLeast** the line spacing can be greater than or equal to, but never less than, the specified **LineSpacing** value.
+- **wdLineSpaceAtLeast** the line spacing can be greater than or equal to, but never less than, the specified **LineSpacing** value.
     
--  **wdLineSpaceExactly** the line spacing never changes from the specified **LineSpacing** value, even if a larger font is used within the paragraph.
+- **wdLineSpaceExactly** the line spacing never changes from the specified **LineSpacing** value, even if a larger font is used within the paragraph.
     
--  **wdLineSpaceMultiple** a **LineSpacing** property value must be specified, in points.
+- **wdLineSpaceMultiple** a **LineSpacing** property value must be specified, in points.
     
 
 ## Example

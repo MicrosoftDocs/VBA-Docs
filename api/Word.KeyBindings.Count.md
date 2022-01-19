@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # KeyBindings.Count property (Word)
 
-Returns a  **Long** that represents the number of key bindings in the collection. Read-only.
+Returns a **Long** that represents the number of key bindings in the collection. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.HanjaPhoneticHangul property (Word)
 
-Returns or sets a  **Boolean** that represents whether to locate phonetic Hangul and hanja characters in a Korean language find operation. Read/write.
+Returns or sets a **Boolean** that represents whether to locate phonetic Hangul and hanja characters in a Korean language find operation. Read/write.
 
 
 ## Syntax

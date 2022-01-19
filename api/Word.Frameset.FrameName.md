@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frameset.FrameName property (Word)
 
-Returns or sets the name of the specified frame on a frames page. Read/write  **String**.
+Returns or sets the name of the specified frame on a frames page. Read/write **String**.
 
 
 ## Syntax

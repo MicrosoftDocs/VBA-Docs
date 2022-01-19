@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _MiddlePattern_|Optional|**Long**|The middle pattern of the Gantt bar. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be one of the **PjColor** constants.|
 | _EndShape_|Optional|**Long**|The end shape of the Gantt bar. Can be one of the **PjBarEndShape** constants.|
-| _EndType_|Optional|**Long**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**.|
+| _EndType_|Optional|**Long**|The end type of the Gantt bar. Can be one of the following **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**.|
 | _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be one of the **PjColor** constants.|
 | _LeftText_|Optional|**String**|The task field to display to the left of the Gantt bar.|
 | _RightText_|Optional|**String**|The task field to display to the right of the Gantt bar.|
@@ -47,7 +47,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _BottomText_|Optional|**String**|The task field to display below the Gantt bar.|
 | _InsideText_|Optional|**String**|The task field to display inside the Gantt bar.|
 | _Reset_|Optional|**Boolean**|**True** if the bar formatting is reset to the default formatting of the style in the **Bar Styles** dialog box; otherwise, **False**.|
-| _ProjectName_|Optional|**String**|The name of the project containing  **TaskID** if consolidation is involved. The default value is the name of the active project.|
+| _ProjectName_|Optional|**String**|The name of the project containing **TaskID** if consolidation is involved. The default value is the name of the active project.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlockEntries.Add method (Word)
 
-Creates a new building block entry in a template and returns a  **[BuildingBlock](Word.BuildingBlock.md)** object that represents the new building block entry.
+Creates a new building block entry in a template and returns a **[BuildingBlock](Word.BuildingBlock.md)** object that represents the new building block entry.
 
 
 ## Syntax

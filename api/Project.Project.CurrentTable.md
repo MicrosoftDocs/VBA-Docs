@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.CurrentTable property (Project)
 
-Gets the name of the active table for a project. Read-only  **String**.
+Gets the name of the active table for a project. Read-only **String**.
 
 
 ## Syntax

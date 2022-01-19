@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisGraphicField enumeration (Visio)
 
-Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpression](Visio.GraphicItem.SetExpression.md)** method and returned by the **[GraphicItem.GetExpression](Visio.GraphicItem.GetExpression.md)** method.
+Graphic item primary-data-field constants passed to the **[GraphicItem.SetExpression](Visio.GraphicItem.SetExpression.md)** method and returned by the **[GraphicItem.GetExpression](Visio.GraphicItem.GetExpression.md)** method.
 
 
 > [!NOTE] 

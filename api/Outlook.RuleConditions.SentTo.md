@@ -26,9 +26,9 @@ _expression_ A variable that represents a [RuleConditions](Outlook.RuleCondition
 
 ## Remarks
 
-Use the returned  **ToOrFromRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the recipients (in the **To** and **Cc** text boxes) of the message are in the specified list of **[Recipients](Outlook.Recipients.md)**.
+Use the returned **ToOrFromRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the recipients (in the **To** and **Cc** text boxes) of the message are in the specified list of **[Recipients](Outlook.Recipients.md)**.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **ToOrFromRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[ToOrFromRuleCondition.Enabled](Outlook.ToOrFromRuleCondition.Enabled.md)** will be **True**.
+This property of the **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **ToOrFromRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[ToOrFromRuleCondition.Enabled](Outlook.ToOrFromRuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

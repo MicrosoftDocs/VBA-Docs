@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.RecordCount property (Word)
 
-Returns a  **Long** that represents the number of records in the data source. Read-only.
+Returns a **Long** that represents the number of records in the data source. Read-only.
 
 
 ## Syntax

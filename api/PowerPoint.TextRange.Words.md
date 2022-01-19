@@ -40,7 +40,7 @@ TextRange
 
 ## Remarks
 
-For information about counting or looping through the words in a text range, see the  **[TextRange](PowerPoint.TextRange.md)** object.
+For information about counting or looping through the words in a text range, see the **[TextRange](PowerPoint.TextRange.md)** object.
 
 If both Start and Length are omitted, the returned range starts with the first word and ends with the last paragraph in the specified range.
 

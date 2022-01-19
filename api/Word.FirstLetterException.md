@@ -21,7 +21,7 @@ Represents an abbreviation excluded from automatic correction. The **[FirstLette
 
 The **FirstLetterExceptions** collection includes all the excluded abbreviations.The first character following a period is automatically capitalized when the **CorrectSentenceCaps** property is set to **True**. The character you type following an item in the **FirstLetterExceptions** collection isn't capitalized.
 
-Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **FirstLetterException** object. The following example deletes the abbreviation "appt." from the **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection.
+Use **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **FirstLetterException** object. The following example deletes the abbreviation "appt." from the **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection.
 
 
 

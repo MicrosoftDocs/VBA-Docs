@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Name property (Word)
 
-Returns or sets a  **String** that represents the name of a building block. Read/write.
+Returns or sets a **String** that represents the name of a building block. Read/write.
 
 
 ## Syntax

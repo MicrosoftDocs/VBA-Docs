@@ -28,9 +28,9 @@ _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object
 
 The **HTMLBody** property should be an HTML syntax string.
 
-Setting the  **HTMLBody** property sets the **[EditorType](Outlook.Inspector.EditorType.md)** property of the item's **[Inspector](Outlook.Inspector.md)** to **olEditorHTML**.
+Setting the **HTMLBody** property sets the **[EditorType](Outlook.Inspector.EditorType.md)** property of the item's **[Inspector](Outlook.Inspector.md)** to **olEditorHTML**.
 
-Setting the  **HTMLBody** property will always update the **[Body](Outlook.PostItem.Body.md)** property immediately.
+Setting the **HTMLBody** property will always update the **[Body](Outlook.PostItem.Body.md)** property immediately.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ResourceInitials property (Project)
 
-Gets the initials of the resources assigned to a task, separated by the list separator. Read-only  **String**.
+Gets the initials of the resources assigned to a task, separated by the list separator. Read-only **String**.
 
 
 ## Syntax

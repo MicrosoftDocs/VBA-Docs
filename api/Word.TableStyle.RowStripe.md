@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.RowStripe property (Word)
 
-Returns or sets a  **Long** that represents the number of rows to include in the banding when a style specifies odd- or even-row banding. Read/write.
+Returns or sets a **Long** that represents the number of rows to include in the banding when a style specifies odd- or even-row banding. Read/write.
 
 
 ## Syntax

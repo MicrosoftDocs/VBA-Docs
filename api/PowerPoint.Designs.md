@@ -28,7 +28,7 @@ To load a design template, use the [Load](PowerPoint.Designs.Load.md) method.
 
 ## Example
 
-The following example adds a new design template to the  **Designs** collection and confirms it was added correctly.
+The following example adds a new design template to the **Designs** collection and confirms it was added correctly.
 
 
 ```vb

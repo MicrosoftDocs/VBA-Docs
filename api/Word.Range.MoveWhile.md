@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-While any character in Cset is found, the specified range is moved. The resulting  **Range** object is positioned as an insertion point after whatever Cset characters were found. This method returns the number of characters by which the specified range was moved, as a **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero).
+While any character in Cset is found, the specified range is moved. The resulting **Range** object is positioned as an insertion point after whatever Cset characters were found. This method returns the number of characters by which the specified range was moved, as a **Long** value. If no Cset characters are found, the range isn't changed and the method returns 0 (zero).
 
 
 ## Example

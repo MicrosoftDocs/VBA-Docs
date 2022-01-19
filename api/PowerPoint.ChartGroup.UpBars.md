@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.UpBars property (PowerPoint)
 
-Returns the up bars on a line chart. Read-only  **[UpBars](PowerPoint.UpBars.md)**.
+Returns the up bars on a line chart. Read-only **[UpBars](PowerPoint.UpBars.md)**.
 
 
 ## Syntax

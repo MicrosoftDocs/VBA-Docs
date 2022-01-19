@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextColumns.Count property (Word)
 
-Returns a  **Long** that represents the number of text columns in the collection. Read-only.
+Returns a **Long** that represents the number of text columns in the collection. Read-only.
 
 
 ## Syntax

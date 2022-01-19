@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cells.Add method (Word)
 
-Returns a  **Cell** object that represents a cell added to a table.
+Returns a **Cell** object that represents a cell added to a table.
 
 
 ## Syntax

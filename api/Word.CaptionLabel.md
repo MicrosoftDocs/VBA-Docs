@@ -19,7 +19,7 @@ Represents a single caption label. The **CaptionLabel** object is a member of th
 
 ## Remarks
 
-Use  **[CaptionLabels](Word.Application.CaptionLabels.md)** (_index_), where _index_ is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
+Use **[CaptionLabels](Word.Application.CaptionLabels.md)** (_index_), where _index_ is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
 
 
 ```vb

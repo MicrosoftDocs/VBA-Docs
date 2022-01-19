@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.PhysicalPercentComplete property (Project)
 
-Gets or sets the physical percent complete of a task. Read/write  **Variant**.
+Gets or sets the physical percent complete of a task. Read/write **Variant**.
 
 
 ## Syntax

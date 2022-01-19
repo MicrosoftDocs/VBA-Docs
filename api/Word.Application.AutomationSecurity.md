@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AutomationSecurity property (Word)
 
-Returns or sets an  **MsoAutomationSecurity** constant that represents the security setting Microsoft Word uses when programmatically opening files. .
+Returns or sets an **MsoAutomationSecurity** constant that represents the security setting Microsoft Word uses when programmatically opening files. .
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 The default setting of the **AutomationSecurity** property is **msoAutomationSecurityLow**. Therefore, to avoid changing the users security settings or breaking solutions that rely on the default setting, you should be careful to set this property back to its original setting after programmatically opening a file.
 
-Setting  **ScreenUpdating** to **False** does not affect alerts and will not affect security warnings. The **DisplayAlerts** setting will not apply to security warnings. For example, if the user sets **DisplayAlerts** equal to **False** and **AutomationSecurity** to **msoAutomationSecurityByUI**, while the user is on Medium security level, then there will be security warnings while a macro is running. This allows the macro to trap file open errors, while still showing the security warning if the file open succeeds.
+Setting **ScreenUpdating** to **False** does not affect alerts and will not affect security warnings. The **DisplayAlerts** setting will not apply to security warnings. For example, if the user sets **DisplayAlerts** equal to **False** and **AutomationSecurity** to **msoAutomationSecurityByUI**, while the user is on Medium security level, then there will be security warnings while a macro is running. This allows the macro to trap file open errors, while still showing the security warning if the file open succeeds.
 
 
 ## Example

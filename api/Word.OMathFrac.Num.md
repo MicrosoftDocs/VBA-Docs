@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFrac.Num property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the numerator for a fraction. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the numerator for a fraction. Read-only.
 
 
 ## Syntax

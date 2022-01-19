@@ -31,7 +31,7 @@ The **NextReminderDate** property value changes every time the object's **[Snooz
 
 ## Example
 
-The following example creates a report of all reminders in the collection and the dates when they will next occur. The subroutine concatenates the  **[Caption](Outlook.Reminder.Caption.md)** and **NextReminderDate** properties into a string and displays the string in a dialog box.
+The following example creates a report of all reminders in the collection and the dates when they will next occur. The subroutine concatenates the **[Caption](Outlook.Reminder.Caption.md)** and **NextReminderDate** properties into a string and displays the string in a dialog box.
 
 
 ```vb

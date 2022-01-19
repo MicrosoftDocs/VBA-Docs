@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.TablesOfContents property (Word)
 
-Returns a  **[TablesOfContents](Word.tablesofcontents.md)** collection that represents the tables of contents in the specified document. Read-only.
+Returns a **[TablesOfContents](Word.tablesofcontents.md)** collection that represents the tables of contents in the specified document. Read-only.
 
 
 ## Syntax

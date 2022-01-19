@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Store.ExchangeStoreType property (Outlook)
 
-Returns a constant in the  **[OlExchangeStoreType](Outlook.OlExchangeStoreType.md)** enumeration that indicates the type of an Exchange store. Read-only.
+Returns a constant in the **[OlExchangeStoreType](Outlook.OlExchangeStoreType.md)** enumeration that indicates the type of an Exchange store. Read-only.
 
 
 ## Syntax

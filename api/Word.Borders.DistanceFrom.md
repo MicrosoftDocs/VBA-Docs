@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Borders.DistanceFrom property (Word)
 
-Returns or sets a value that indicates whether the specified page border is measured from the edge of the page or from the text it surrounds. Read/write  **WdBorderDistanceFrom**.
+Returns or sets a value that indicates whether the specified page border is measured from the edge of the page or from the text it surrounds. Read/write **WdBorderDistanceFrom**.
 
 
 ## Syntax

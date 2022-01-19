@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLSchemaReference.NamespaceURI property (Word)
 
-Returns a  **String** that represents the Uniform Resource Identifier (URI) of the schema namespace for the specified object. Read-only.
+Returns a **String** that represents the Uniform Resource Identifier (URI) of the schema namespace for the specified object. Read-only.
 
 
 ## Syntax

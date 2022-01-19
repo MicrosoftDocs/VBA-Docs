@@ -16,10 +16,10 @@ The code sample in this topic uses the **[Table](../../../api/Outlook.Table.md)*
     
 2. It applies the filter to **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** and obtains a **Table** of a subset of mail items in the Inbox that satisfies the filter.
     
-   **Note** The returned table contains a default set of properties for each of the filtered items: **EntryID**, **Subject**, **CreationTime**, **LastModificationTime**, and **MessageClass**. 
+  **Note** The returned table contains a default set of properties for each of the filtered items: **EntryID**, **Subject**, **CreationTime**, **LastModificationTime**, and **MessageClass**. 
 3. It then uses **[Columns.RemoveAll](../../../api/Outlook.Columns.RemoveAll.md)** and **[Columns.Add](../../../api/Outlook.Columns.Add.md)** to update the **Table** with the actually desired properties: **Subject**, **LastModificationTime**, and the hidden attribute (**PidTagAttributeHidden**). It specifies properties with their explicit built-in names if they exist (for example, **Subject**, **LastModificationTime**), and only when they don't, it references the properties by their namespaces (for example, the hidden attribute of a mail item).
     
-   **Note** The **Table** objects returned from **Folder.GetTable** in Step 2 and **Columns.Add** in Step 3 contain different property values but for the same set of filtered items in the Inbox.
+  **Note** The **Table** objects returned from **Folder.GetTable** in Step 2 and **Columns.Add** in Step 3 contain different property values but for the same set of filtered items in the Inbox.
 4. Lastly, it uses **[Table.GetNextRow](../../../api/Outlook.Table.GetNextRow.md)** to enumerate the filtered items (until **[Table.EndOfTable](../../../api/Outlook.Table.EndOfTable.md)** becomes true), displaying the values of the three desired properties for each item.
     
 

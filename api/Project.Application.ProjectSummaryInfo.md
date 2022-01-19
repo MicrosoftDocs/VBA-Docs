@@ -40,7 +40,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Comments_|Optional|**String**|The comments associated with the project.|
 | _Start_|Optional|**Variant**|The start date of the project. If ScheduleFrom is **pjProjectFinish**, Start is ignored.|
 | _Finish_|Optional|**Variant**|The finish date of the project. If ScheduleFrom is **pjProjectStart**, Finish is ignored.|
-| _ScheduleFrom_|Optional|**Integer**|Can be one of the following  **[PjScheduleProjectFrom](Project.PjScheduleProjectFrom.md)** constants: **pjProjectStart** or **pjProjectFinish**.|
+| _ScheduleFrom_|Optional|**Integer**|Can be one of the following **[PjScheduleProjectFrom](Project.PjScheduleProjectFrom.md)** constants: **pjProjectStart** or **pjProjectFinish**.|
 | _CurrentDate_|Optional|**Variant**|The current date for the project.|
 | _Calendar_|Optional|**String**|The name of the base calendar for the project.|
 | _StatusDate_|Optional|**Variant**|The current status date for the project.|

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.Scope property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the range of text marked by the specified comment.
+Returns a **[Range](Word.Range.md)** object that represents the range of text marked by the specified comment.
 
 
 ## Syntax

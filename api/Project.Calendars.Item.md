@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Calendars.Item property (Project)
 
-Gets a single  **Calendar** object from the **Calendars** collection. Read-only **Calendar**.
+Gets a single **Calendar** object from the **Calendars** collection. Read-only **Calendar**.
 
 
 ## Syntax

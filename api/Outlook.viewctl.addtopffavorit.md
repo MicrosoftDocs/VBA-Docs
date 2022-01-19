@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.AddToPFFavorites Method (Outlook View Control)
 
-Adds the current public folder to the user's Microsoft Exchange Server  **Favorites** public folder.
+Adds the current public folder to the user's Microsoft Exchange Server **Favorites** public folder.
 
 
 ## Syntax

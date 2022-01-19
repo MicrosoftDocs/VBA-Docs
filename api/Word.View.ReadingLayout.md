@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.ReadingLayout property (Word)
 
-Sets or returns a  **Boolean** that represents whether a document is being viewed in reading layout view. .
+Sets or returns a **Boolean** that represents whether a document is being viewed in reading layout view. .
 
 
 ## Syntax

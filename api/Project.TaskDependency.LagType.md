@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskDependency.LagType property (Project)
 
-Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](Project.PjFormatUnit.md)**.
+Gets the unit of lag time between linked tasks. Read-only **[PjFormatUnit](Project.PjFormatUnit.md)**.
 
 
 ## Syntax

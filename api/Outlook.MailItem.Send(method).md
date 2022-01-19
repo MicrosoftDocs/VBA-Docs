@@ -31,7 +31,7 @@ The **Send** method sends an item using the default account specified for the se
 
 ## Example
 
-If you use Microsoft Visual Basic Scripting Edition (VBScript) in an Outlook form, you do not create the  **[Application](Outlook.Application.md)** object, and you cannot use named constants. This example shows how to forward a mail item using VBScript code.
+If you use Microsoft Visual Basic Scripting Edition (VBScript) in an Outlook form, you do not create the **[Application](Outlook.Application.md)** object, and you cannot use named constants. This example shows how to forward a mail item using VBScript code.
 
 
 ```vb

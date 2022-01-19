@@ -21,6 +21,6 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 ## Remarks
 
-This property is effective only when Microsoft Outlook hosts the View Control. When set to  **True**, the View Control retains the information. When set to  **False**, it does not. The default value is **False**.
+This property is effective only when Microsoft Outlook hosts the View Control. When set to **True**, the View Control retains the information. When set to **False**, it does not. The default value is **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

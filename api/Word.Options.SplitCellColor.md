@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.SplitCellColor property (Word)
 
-Returns or sets a  **WdCellColor** that represents the color for split table cells. Read/write.
+Returns or sets a **WdCellColor** that represents the color for split table cells. Read/write.
 
 
 ## Syntax

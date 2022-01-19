@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # SelectNamesDialog object (Outlook)
 
-Displays the  **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)**.
+Displays the **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)**.
 
 
 ## Remarks
 
-You can instantiate an instance of the  **SelectNamesDialog** object by calling **[NameSpace.GetSelectNamesDialog](Outlook.NameSpace.GetSelectNamesDialog.md)**.
+You can instantiate an instance of the **SelectNamesDialog** object by calling **[NameSpace.GetSelectNamesDialog](Outlook.NameSpace.GetSelectNamesDialog.md)**.
 
-The dialog box displayed by  **[SelectNamesDialog.Display](Outlook.SelectNamesDialog.Display.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**,  **Cc**, and  **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see [Display Names from the Address Book](../outlook/Concepts/Address-Book/display-names-from-the-address-book.md).
+The dialog box displayed by **[SelectNamesDialog.Display](Outlook.SelectNamesDialog.Display.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**, **Cc**, and **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see [Display Names from the Address Book](../outlook/Concepts/Address-Book/display-names-from-the-address-book.md).
 
 
 ## Example
 
-The following code sample shows how to use the  **SelectNamesDialog** object to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
+The following code sample shows how to use the **SelectNamesDialog** object to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
 
 
 ```vb

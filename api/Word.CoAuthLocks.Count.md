@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthLocks.Count property (Word)
 
-Returns a  **Long** that represents the number of locks in the **[CoAuthLocks](Word.CoAuthLocks.md)** collection. Read-only.
+Returns a **Long** that represents the number of locks in the **[CoAuthLocks](Word.CoAuthLocks.md)** collection. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLMapping.XPath property (Word)
 
-Returns a  **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
+Returns a **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
 
 
 ## Syntax

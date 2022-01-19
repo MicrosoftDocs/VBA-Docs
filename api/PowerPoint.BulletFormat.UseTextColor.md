@@ -31,9 +31,9 @@ MsoTriState
 
 ## Remarks
 
-You cannot explicitly set this property to  **msoFalse**. Setting the bullet format color (using the **[Color](PowerPoint.Font.Color.md)** property of the **Font** object) sets this property to **msoFalse**. When **UseTextColor** is **msoFalse**, you can set it to **msoTrue** to reset the bullet format to the default color.
+You cannot explicitly set this property to **msoFalse**. Setting the bullet format color (using the **[Color](PowerPoint.Font.Color.md)** property of the **Font** object) sets this property to **msoFalse**. When **UseTextColor** is **msoFalse**, you can set it to **msoTrue** to reset the bullet format to the default color.
 
-The value of the  **UseTextColor** property can be one of these **MsoTriState** constants.
+The value of the **UseTextColor** property can be one of these **MsoTriState** constants.
 
 
 

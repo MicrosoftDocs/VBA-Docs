@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ShowAssignmentUnitsAs property (Project)
 
-Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**.
+Gets or sets the way assignment units display. Read/write **PjAssignmentUnits**.
 
 
 ## Syntax
@@ -26,6 +26,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The ShowAssignmentUnits property can be one of the following  **[PjAssignmentUnits](Project.PjAssignmentUnits.md)** constants: **pjDecimalAssignmentUnits** or **pjPercentageAssignmentUnits**.
+The ShowAssignmentUnits property can be one of the following **[PjAssignmentUnits](Project.PjAssignmentUnits.md)** constants: **pjDecimalAssignmentUnits** or **pjPercentageAssignmentUnits**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

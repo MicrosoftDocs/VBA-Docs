@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Sequences.Item method (PowerPoint)
 
-Returns a single  **Sequence** object from the specified **Sequences** collection.
+Returns a single **Sequence** object from the specified **Sequences** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Sequences](PowerPoint.Sequences.md) o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Sequence** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Sequence** object in the collection to be returned.|
 
 ## Return value
 

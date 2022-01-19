@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.RelativeVerticalPosition property (Word)
 
-Specifies the relative vertical position of a group of rows. Read/write  **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)**.
+Specifies the relative vertical position of a group of rows. Read/write **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)**.
 
 
 ## Syntax

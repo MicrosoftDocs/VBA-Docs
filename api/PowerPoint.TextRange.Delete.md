@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextRange.Delete method (PowerPoint)
 
-Deletes the specified  **TextRange** object.
+Deletes the specified **TextRange** object.
 
 
 ## Syntax

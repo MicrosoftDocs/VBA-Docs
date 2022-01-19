@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Initials property (Project)
 
-Gets or sets the initials of a resource. Read/write  **String**.
+Gets or sets the initials of a resource. Read/write **String**.
 
 
 ## Syntax

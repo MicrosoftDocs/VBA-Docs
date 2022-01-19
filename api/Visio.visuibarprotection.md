@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIBarProtection enumeration (Visio)
 
-Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Protection** properties.
+Values passed to and returned by the **MenuSet.Protection** and **Toolbar.Protection** properties.
 
 
 > [!NOTE] 

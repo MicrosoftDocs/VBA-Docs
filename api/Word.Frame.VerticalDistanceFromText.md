@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.VerticalDistanceFromText property (Word)
 
-Returns or sets the vertical distance (in points) between a frame and the surrounding text. Read/write  **Single**.
+Returns or sets the vertical distance (in points) between a frame and the surrounding text. Read/write **Single**.
 
 
 ## Syntax

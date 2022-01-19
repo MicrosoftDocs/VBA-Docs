@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # CaptionLabels object (Word)
 
-A collection of  **[CaptionLabel](Word.CaptionLabel.md)** objects that represent the available caption labels. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
+A collection of **[CaptionLabel](Word.CaptionLabel.md)** objects that represent the available caption labels. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ Use the **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption labe
 CaptionLabels.Add Name:="Photo"
 ```
 
-Use  **CaptionLabels** (_index_), where _index_ is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
+Use **CaptionLabels** (_index_), where _index_ is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
 
 
 

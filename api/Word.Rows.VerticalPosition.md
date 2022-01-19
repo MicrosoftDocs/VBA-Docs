@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** obj
 
 ## Remarks
 
-This property can be a number that indicates a measurement in points, or can be any valid  **[WdTablePosition](Word.WdTablePosition.md)** constant.
+This property can be a number that indicates a measurement in points, or can be any valid **[WdTablePosition](Word.WdTablePosition.md)** constant.
 
 
 ## Example

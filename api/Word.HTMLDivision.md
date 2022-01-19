@@ -19,7 +19,7 @@ Represents a single HTML DIV element within a web document. The **HTMLDivision**
 
 ## Remarks
 
-Use  **HTMLDivisions** (Index), where Index refers to the HTML division in the document, to return a single **HTMLDivision** object. Use the **Borders** property to format border properties for an HTML division. This example formats three nested divisions in the active document. This example assumes that the active document is an HTML document with at least three divisions.
+Use **HTMLDivisions** (Index), where Index refers to the HTML division in the document, to return a single **HTMLDivision** object. Use the **Borders** property to format border properties for an HTML division. This example formats three nested divisions in the active document. This example assumes that the active document is an HTML document with at least three divisions.
 
 
 ```vb

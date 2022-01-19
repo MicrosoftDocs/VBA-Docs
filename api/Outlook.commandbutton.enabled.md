@@ -23,21 +23,21 @@ _expression_ A variable that represents a **CommandButton** object.
 
  **True** is the control can receive the focus and respond to user-generated events, and is accessible through code (default). **False** if the user cannot interact with the control by using the mouse, keystrokes, accelerators, or hotkeys. The control is generally still accessible through code.
 
-Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
+Use the **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
 The **Enabled** and **[Locked](Outlook.commandbutton.locked.md)** properties work together to achieve the following effects:
 
 
-- If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.
+- If **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.
     
-- If  **Enabled** is **True** and **Locked** is **False**, the control can receive focus and appears normally in the form. The user can copy and edit data in the control.
+- If **Enabled** is **True** and **Locked** is **False**, the control can receive focus and appears normally in the form. The user can copy and edit data in the control.
     
-- If  **Enabled** is **False** and **Locked** is **True**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
+- If **Enabled** is **False** and **Locked** is **True**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
     
-- If  **Enabled** and **Locked** are both **False**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
+- If **Enabled** and **Locked** are both **False**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
     
 
 
-You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a **[CommandButton](Outlook.commandbutton.md)** with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the **CommandButton** won't appear in the tab order. However, if **Enabled** is **True**, then the user can still click the command button, as long as  **[TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)** is set to **True**.
+You can combine the settings of the **Enabled** and the **TabStop** properties to prevent the user from selecting a **[CommandButton](Outlook.commandbutton.md)** with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the **CommandButton** won't appear in the tab order. However, if **Enabled** is **True**, then the user can still click the command button, as long as **[TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)** is set to **True**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

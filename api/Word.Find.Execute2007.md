@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Execute2007 method (Word)
 
-Runs the specified find operation. Returns  **True** if the find operation is successful.
+Runs the specified find operation. Returns **True** if the find operation is successful.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.ChartType property (Project)
-Gets or sets the chart type. Read/write  **Office.XlChartType**.
+Gets or sets the chart type. Read/write **Office.XlChartType**.
 
 ## Syntax
 

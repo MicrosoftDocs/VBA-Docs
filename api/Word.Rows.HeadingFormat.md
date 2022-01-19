@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 
 ## Remarks
 
-Rows formatted as table headings are repeated when a table spans more than one page. Can be  **True**, **False** or **wdUndefined**.
+Rows formatted as table headings are repeated when a table spans more than one page. Can be **True**, **False** or **wdUndefined**.
 
 
 ## Example

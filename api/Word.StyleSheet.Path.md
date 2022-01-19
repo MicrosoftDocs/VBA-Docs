@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheet.Path property (Word)
 
-Returns the disk or Web path to the specified style sheet. Read-only  **String**.
+Returns the disk or Web path to the specified style sheet. Read-only **String**.
 
 
 ## Syntax

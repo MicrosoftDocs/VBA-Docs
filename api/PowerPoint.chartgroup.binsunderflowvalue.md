@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.BinsUnderflowValue property (PowerPoint)
 
-If [ChartGroup.BinsUnderflowEnabled property (PowerPoint)](PowerPoint.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
+If [ChartGroup.BinsUnderflowEnabled property (PowerPoint)](PowerPoint.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

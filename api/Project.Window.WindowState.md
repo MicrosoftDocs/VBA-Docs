@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Window.WindowState property (Project)
 
-Gets or sets the state the window, where the state is maximized or normal. Read/write  **PjWindowState**.
+Gets or sets the state the window, where the state is maximized or normal. Read/write **PjWindowState**.
 
 
 ## Syntax

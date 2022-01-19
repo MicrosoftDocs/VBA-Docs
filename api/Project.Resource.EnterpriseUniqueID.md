@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.EnterpriseUniqueID property (Project)
 
-Gets the enterprise unique identification number for a resource. Read-only  **Long**.
+Gets the enterprise unique identification number for a resource. Read-only **Long**.
 
 
 ## Syntax

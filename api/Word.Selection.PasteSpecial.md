@@ -32,7 +32,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 | _Link_|Optional| **Variant**| **True** to create a link to the source file of the Clipboard contents. The default value is **False**.|
 | _Placement_|Optional| **Variant**|Can be either of the **[WdOLEPlacement](Word.WdOLEPlacement.md)** constants.|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the link as an icon. The default value is **False**.|
-| _DataType_|Optional| **Variant**|A format for the Clipboard contents when they are inserted into the document.  **[WdPasteDataType](Word.WdPasteDataType.md)**.|
+| _DataType_|Optional| **Variant**|A format for the Clipboard contents when they are inserted into the document. **[WdPasteDataType](Word.WdPasteDataType.md)**.|
 | _IconFileName_|Optional| **Variant**|If DisplayAsIcon is **True**, this argument is the path and file name for the file in which the icon to be displayed is stored.|
 | _IconLabel_|Optional| **Variant**|If DisplayAsIcon is **True**, this argument is the text that appears below the icon.|
 

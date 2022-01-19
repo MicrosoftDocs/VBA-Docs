@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpTransitionSpeed enumeration (PowerPoint)
 
-Constants that specify the speed of the transition from one slide to the next, passed to and returned by the  **Speed** property of the **SlideShowTransition** object
+Constants that specify the speed of the transition from one slide to the next, passed to and returned by the **Speed** property of the **SlideShowTransition** object
 
 
 

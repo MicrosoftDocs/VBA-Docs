@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # PbLigaturePresetType enumeration (Publisher)
 
-Constants passed to and returned by the  **[Font.Ligature](Publisher.font.ligature.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
+Constants passed to and returned by the **[Font.Ligature](Publisher.font.ligature.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
 
 
 

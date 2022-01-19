@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Mat property (Word)
 
-Returns an  **[OMathMat](Word.OMathMat.md)** object that represents a mathematical matrix. Read-only.
+Returns an **[OMathMat](Word.OMathMat.md)** object that represents a mathematical matrix. Read-only.
 
 
 ## Syntax

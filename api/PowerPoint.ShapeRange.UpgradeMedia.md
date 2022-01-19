@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.UpgradeMedia method (PowerPoint)
 
-Upgrades media within the specified  **ShapeRange** object.
+Upgrades media within the specified **ShapeRange** object.
 
 
 ## Syntax

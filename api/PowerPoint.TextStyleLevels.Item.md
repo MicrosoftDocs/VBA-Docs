@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextStyleLevels.Item method (PowerPoint)
 
-Returns a single text style level from the specified  **TextStyleLevels** collection.
+Returns a single text style level from the specified **TextStyleLevels** collection.
 
 
 ## Syntax

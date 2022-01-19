@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.Contact property (Project)
 
-Gets or sets contact information of the person who is responsible for a task. Read/write  **String**.
+Gets or sets contact information of the person who is responsible for a task. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.Thumbnails property (Word)
 
-Sets or returns a  **Boolean** that represents whether thumbnail images of the pages in a document are displayed along the left side of the Microsoft Word document window.
+Sets or returns a **Boolean** that represents whether thumbnail images of the pages in a document are displayed along the left side of the Microsoft Word document window.
 
 
 ## Syntax

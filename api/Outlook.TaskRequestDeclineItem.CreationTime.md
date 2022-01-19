@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskR
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagCreationTime**.
+This property corresponds to the MAPI property **PidTagCreationTime**.
 
 
 ## See also

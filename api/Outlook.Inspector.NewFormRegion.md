@@ -31,7 +31,7 @@ An **Object** that represents the page displaying the form region in the inspect
 
 ## Remarks
 
-If the inspector is not already in design mode,  **NewFormRegion** will put it in design mode.
+If the inspector is not already in design mode, **NewFormRegion** will put it in design mode.
 
 This method only opens a page for a new form region in design mode. This method is not intended for creating a form region at runtime.
 

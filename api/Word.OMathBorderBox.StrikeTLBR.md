@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBorderBox.StrikeTLBR property (Word)
 
-Returns or sets a  **Boolean** that represents a diagonal strikethrough from upper left to lower right. Read/write.
+Returns or sets a **Boolean** that represents a diagonal strikethrough from upper left to lower right. Read/write.
 
 
 ## Syntax

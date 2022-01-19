@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.ActualCost property (Project)
 
-Gets the current actual cost for the resource on the project. Read-only  **Variant**.
+Gets the current actual cost for the resource on the project. Read-only **Variant**.
 
 
 ## Syntax

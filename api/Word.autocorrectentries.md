@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # AutoCorrectEntries object (Word)
 
-A collection of  **AutoCorrectEntry** objects that represent all the AutoCorrect entries available to Word. The **AutoCorrectEntries** collection includes all the entries in the **AutoCorrect** dialog box.
+A collection of **AutoCorrectEntry** objects that represent all the AutoCorrect entries available to Word. The **AutoCorrectEntries** collection includes all the entries in the **AutoCorrect** dialog box.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ The following example creates an AutoCorrect entry named "PMO" based on the text
 AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 ```
 
-Use  **Entries** (_index_), where _index_ is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoCorrect entry named "teh."
+Use **Entries** (_index_), where _index_ is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoCorrect entry named "teh."
 
 
 

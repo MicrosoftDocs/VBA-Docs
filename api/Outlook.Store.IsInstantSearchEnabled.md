@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Remarks
 
-Use  **IsInstantSearchEnabled** to evaluate whether you should use **ci_startswith** or **ci_phrasematch** operators in your query. If you use **ci_startswith** or **ci_phrasematch** in the query and Instant Search is not enabled, Outlook will return an error.
+Use **IsInstantSearchEnabled** to evaluate whether you should use **ci_startswith** or **ci_phrasematch** operators in your query. If you use **ci_startswith** or **ci_phrasematch** in the query and Instant Search is not enabled, Outlook will return an error.
 
 
 ## Example
 
-The following code sample accepts a matching string as an input parameter, constructs a DASL filter with the content indexing keyword  **ci_phrasematch** if Instant Search is enabled on the store, and returns the filter. Otherwise, if Instant Search is not operational, then the code sample returns a filter that uses the **like** keyword.
+The following code sample accepts a matching string as an input parameter, constructs a DASL filter with the content indexing keyword **ci_phrasematch** if Instant Search is enabled on the store, and returns the filter. Otherwise, if Instant Search is not operational, then the code sample returns a filter that uses the **like** keyword.
 
 For more information on filtering with keywords, see [Filtering Items Using Query Keywords](../outlook/How-to/Search-and-Filter/filtering-items-using-query-keywords.md).
 

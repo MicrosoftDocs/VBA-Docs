@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of the macro to run. If  **Name** is omitted, the **Macros** dialog box appears.|
+| _Name_|Optional|**String**|The name of the macro to run. If **Name** is omitted, the **Macros** dialog box appears.|
 
 ## Return value
 

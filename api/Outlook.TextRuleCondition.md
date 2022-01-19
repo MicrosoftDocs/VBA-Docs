@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextRuleCondition object (Outlook)
 
-Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by  **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)**, contains the words specified in **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)**.
+Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by **[TextRuleCondition.ConditionType](Outlook.TextRuleCondition.ConditionType.md)**, contains the words specified in **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)**.
 
 
 ## Remarks

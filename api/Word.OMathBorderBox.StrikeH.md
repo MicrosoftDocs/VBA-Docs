@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBorderBox.StrikeH property (Word)
 
-Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/write.
+Returns or sets a **Boolean** that represents a horizontal strikethrough. Read/write.
 
 
 ## Syntax

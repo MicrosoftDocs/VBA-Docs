@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MarkAsTaskRuleAction](Outlook.MarkAsT
 
 ## Remarks
 
-Returns an error if  **FlagTo** is an empty string.
+Returns an error if **FlagTo** is an empty string.
 
 
 ## See also

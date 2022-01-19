@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PayRate.StandardRate property (Project)
 
-Gets or sets the standard rate of the pay rate. Read/write  **Variant**.
+Gets or sets the standard rate of the pay rate. Read/write **Variant**.
 
 
 ## Syntax

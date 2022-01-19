@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # WorkWeek.Start property (Project)
 
-Gets or sets the start date of the work week. Read/write  **Variant**.
+Gets or sets the start date of the work week. Read/write **Variant**.
 
 
 ## Syntax

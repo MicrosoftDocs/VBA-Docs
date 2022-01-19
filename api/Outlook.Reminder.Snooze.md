@@ -34,7 +34,7 @@ _expression_. `Snooze`( `_SnoozeTime_` )
 
 ## Remarks
 
-This is equivalent to the user clicking the  **Snooze** button.
+This is equivalent to the user clicking the **Snooze** button.
 
 This method will fail if the current reminder is not active.
 

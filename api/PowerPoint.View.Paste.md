@@ -28,7 +28,7 @@ _expression_ A variable that represents a [View](PowerPoint.View.md) object.
 
 Attempting to paste an object into a view that won't accept it causes an error. 
 
-Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

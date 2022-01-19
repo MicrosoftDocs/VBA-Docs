@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OMathRightMargin property (Word)
 
-Returns or sets a  **Single** that represents the right margin for equations. Read/write.
+Returns or sets a **Single** that represents the right margin for equations. Read/write.
 
 
 ## Syntax

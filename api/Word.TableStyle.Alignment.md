@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableStyle.Alignment property (Word)
 
-Returns or sets a  **WdRowAlignment** constant that represents the alignment for the specified table style. Read/write.
+Returns or sets a **WdRowAlignment** constant that represents the alignment for the specified table style. Read/write.
 
 
 ## Syntax

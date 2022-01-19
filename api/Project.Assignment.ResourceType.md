@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Assignment.ResourceType property (Project)
 
-Gets the type of resource for the assignment. Read-only  **PjResourceTypes**.
+Gets the type of resource for the assignment. Read-only **PjResourceTypes**.
 
 
 ## Syntax

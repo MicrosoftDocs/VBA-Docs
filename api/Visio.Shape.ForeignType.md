@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.ForeignType property (Visio)
 
-Returns the subtype of a  **Shape** object that represents a foreign object. Read-only.
+Returns the subtype of a **Shape** object that represents a foreign object. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-If the  **Type** property of a **Shape** object returns any value other than **visTypeForeignObject**, the **ForeignType** property returns the same value as the **Shape** object's **Type** property. If the **Type** property of a **Shape** object returns **visTypeForeignObject**, the **ForeignType** property returns a combination of the following values.
+If the **Type** property of a **Shape** object returns any value other than **visTypeForeignObject**, the **ForeignType** property returns the same value as the **Shape** object's **Type** property. If the **Type** property of a **Shape** object returns **visTypeForeignObject**, the **ForeignType** property returns a combination of the following values.
 
 
 
@@ -44,6 +44,6 @@ If the  **Type** property of a **Shape** object returns any value other than **v
 | **visTypeIsControl**|&H0400|
 | **visTypeIsOLE2**|&H8000|
 
-If the shape represents an OLE 2.0 embedded object, for example, its  **ForeignType** property is &H8200.
+If the shape represents an OLE 2.0 embedded object, for example, its **ForeignType** property is &H8200.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

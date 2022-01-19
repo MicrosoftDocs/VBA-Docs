@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpSlideSizeType enumeration (PowerPoint)
 
-Constants that specify the size type for the slide, passed to and returned by the  **SlideSize** property of the **PageSetup** object.
+Constants that specify the size type for the slide, passed to and returned by the **SlideSize** property of the **PageSetup** object.
 
 
 

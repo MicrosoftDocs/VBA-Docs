@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ConsecutiveHyphensLimit property (Word)
 
-Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write.  **Long**.
+Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write. **Long**.
 
 
 ## Syntax

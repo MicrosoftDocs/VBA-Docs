@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.WorkVariance property (Project)
 
-Gets the variance between the baseline work and the work for the assignment. Read-only  **Variant**.
+Gets the variance between the baseline work and the work for the assignment. Read-only **Variant**.
 
 
 ## Syntax

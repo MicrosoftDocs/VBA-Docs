@@ -26,7 +26,7 @@ _expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md
 
 ## Remarks
 
-To set for the first time a property created by the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method, use the **UserProperty.Value** property instead of the **[SetProperties](Outlook.PropertyAccessor.SetProperties.md)** or **[SetProperty](Outlook.PropertyAccessor.SetProperty.md)** method of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.
+To set for the first time a property created by the **[UserProperties.Add](Outlook.UserProperties.Add.md)** method, use the **UserProperty.Value** property instead of the **[SetProperties](Outlook.PropertyAccessor.SetProperties.md)** or **[SetProperty](Outlook.PropertyAccessor.SetProperty.md)** method of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.
 
 For more information on accessing properties in Outlook, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 

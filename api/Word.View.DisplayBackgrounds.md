@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.DisplayBackgrounds property (Word)
 
-Returns or sets a  **Boolean** that represents whether background colors and images are shown when a document is displayed in print layout view. .
+Returns or sets a **Boolean** that represents whether background colors and images are shown when a document is displayed in print layout view. .
 
 
 ## Syntax

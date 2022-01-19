@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.Category property (Word)
 
-Returns a  **[Category](Word.Category.md)** object that represents the category for a building block. Read-only.
+Returns a **[Category](Word.Category.md)** object that represents the category for a building block. Read-only.
 
 
 ## Syntax

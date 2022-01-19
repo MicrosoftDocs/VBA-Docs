@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.MeasurementUnit property (Word)
 
-Returns or sets the standard measurement unit for Microsoft Word. Read/write  **WdMeasurementUnits**.
+Returns or sets the standard measurement unit for Microsoft Word. Read/write **WdMeasurementUnits**.
 
 
 ## Syntax

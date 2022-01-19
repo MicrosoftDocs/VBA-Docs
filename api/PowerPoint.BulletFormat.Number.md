@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BulletFormat.Number property (PowerPoint)
 
-Returns the bullet number of a paragraph when the  **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read-only.
+Returns the bullet number of a paragraph when the **[Type](PowerPoint.BulletFormat.Type.md)** property of the **BulletFormat** object is set to **ppBulletNumbered**. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-If this property is queried for multiple paragraphs with different numbers, then the value  **ppBulletMixed** is returned. If this property is queried for a paragraph with a type other than **ppBulletNumbered**, then a run-time error occurs.
+If this property is queried for multiple paragraphs with different numbers, then the value **ppBulletMixed** is returned. If this property is queried for a paragraph with a type other than **ppBulletNumbered**, then a run-time error occurs.
 
 
 ## Example

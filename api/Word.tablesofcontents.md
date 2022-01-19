@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TablesOfContents object (Word)
 
-A collection of  **[TableOfContents](Word.TableOfContents.md)** objects that represent the tables of contents in a document.
+A collection of **[TableOfContents](Word.TableOfContents.md)** objects that represent the tables of contents in a document.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
  UpperHeadingLevel:=1
 ```
 
-Use  **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
+Use **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
 
 
 

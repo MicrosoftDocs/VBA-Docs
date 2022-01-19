@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.OvertimeRate property (Project)
 
-Gets or sets the overtime rate of a resource. Read/write  **Variant**.
+Gets or sets the overtime rate of a resource. Read/write **Variant**.
 
 
 ## Syntax

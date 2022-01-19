@@ -17,11 +17,11 @@ Represents one page of a [MultiPage](Outlook.multipage.md) or a single member of
 | [Copy](Outlook.Page.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.Page.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
 | [Paste](Outlook.Page.paste.md)|Transfers the contents of the Clipboard to an object.|
-| [RedoAction](Outlook.Page.redoaction.md)|Reverses the effect of the most recent  **Undo** action.|
+| [RedoAction](Outlook.Page.redoaction.md)|Reverses the effect of the most recent **Undo** action.|
 | [Repaint](Outlook.Page.repaint.md)|Updates the display by redrawing the page.|
 | [Scroll](Outlook.Page.scroll.md)|Moves the scroll bar on an object.|
-| [SetDefaultTabOrder](Outlook.Page.setdefaulttaborder.md)|Sets the  **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.|
-| [UndoAction](Outlook.Page.undoaction.md)|Reverses the most recent action that supports the  **Undo** command.|
+| [SetDefaultTabOrder](Outlook.Page.setdefaulttaborder.md)|Sets the **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.|
+| [UndoAction](Outlook.Page.undoaction.md)|Reverses the most recent action that supports the **Undo** command.|
 
 
 ## Properties

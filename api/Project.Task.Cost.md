@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Cost property (Project)
 
-Gets the total cost of the task. Read/write  **Variant**.
+Gets the total cost of the task. Read/write **Variant**.
 
 
 ## Syntax

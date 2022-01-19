@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.Destination property (Word)
 
-Returns or sets the destination of the mail merge results. Read/write  **WdMailMergeDestination**.
+Returns or sets the destination of the mail merge results. Read/write **WdMailMergeDestination**.
 
 
 ## Syntax

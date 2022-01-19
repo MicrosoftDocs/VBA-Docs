@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.RemoveDateAndTime property (Word)
 
-Sets or returns a  **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
+Sets or returns a **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
 
 
 ## Syntax

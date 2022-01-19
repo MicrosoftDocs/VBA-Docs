@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Frame property (Word)
 
-Returns a  **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
+Returns a **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
 
 
 ## Syntax

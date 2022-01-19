@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting the  **[MinimumScale](PowerPoint.Axis.MinimumScale.md)** property sets this property to **False**.
+Setting the **[MinimumScale](PowerPoint.Axis.MinimumScale.md)** property sets this property to **False**.
 
 
 ## Example

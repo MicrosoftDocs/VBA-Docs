@@ -39,7 +39,7 @@ A **Folder** object that represents the specified object.
 
 ## Example
 
-The following example adds the public folder  **Internal** to the user's **Favorites** folder by using the **AddToPFFavorites** method.
+The following example adds the public folder **Internal** to the user's **Favorites** folder by using the **AddToPFFavorites** method.
 
 
 ```vb

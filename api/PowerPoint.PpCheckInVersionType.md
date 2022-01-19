@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpCheckInVersionType enumeration (PowerPoint)
 
-Constants that specify the type of version of the Microsoft PowerPoint file to be checked in, passed to the  **CheckInWithVersion** method of the **Presentation** object.
+Constants that specify the type of version of the Microsoft PowerPoint file to be checked in, passed to the **CheckInWithVersion** method of the **Presentation** object.
 
 
 

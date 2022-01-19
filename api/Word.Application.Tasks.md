@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Tasks property (Word)
 
-Returns a  **[Tasks](Word.tasks.md)** collection that represents all the applications that are running.
+Returns a **[Tasks](Word.tasks.md)** collection that represents all the applications that are running.
 
 
 ## Syntax

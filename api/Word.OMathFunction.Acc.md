@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Acc property (Word)
 
-Returns an  **[OMathAcc](Word.OMathAcc.md)** object that represents a base character with a combining accent mark. Read-only.
+Returns an **[OMathAcc](Word.OMathAcc.md)** object that represents a base character with a combining accent mark. Read-only.
 
 
 ## Syntax

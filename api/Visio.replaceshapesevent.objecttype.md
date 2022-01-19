@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ReplaceShapesEvent.ObjectType property (Visio)
 
-Returns  **visObjTypeReplaceShapesEvent**, the type of the specified  **ReplaceShapesEvent** object. Read-only.
+Returns **visObjTypeReplaceShapesEvent**, the type of the specified **ReplaceShapesEvent** object. Read-only.
 
 
 ## Syntax
@@ -21,7 +21,7 @@ _expression_ A variable that represents a **[ReplaceShapesEvent](Visio.ReplaceSh
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Property value

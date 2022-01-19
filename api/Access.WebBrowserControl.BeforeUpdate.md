@@ -56,7 +56,7 @@ If the user enters a new value in the control, the **OldValue** property setting
 
 You often use the **BeforeUpdate** event to validate data, especially when you perform complex validations, such as those that:
 
-- Involve conditions for more than one value on a form.   
+- Involve conditions for more than one value on a form. 
 - Display different error messages for different data entered.  
 - Can be overridden by the user.  
 - Contain references to controls on other forms or contain user-defined functions. 

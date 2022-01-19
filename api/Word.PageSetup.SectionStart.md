@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.SectionStart property (Word)
 
-Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart**.
+Returns or sets the type of section break for the specified object. Read/write **WdSectionStart**.
 
 
 ## Syntax

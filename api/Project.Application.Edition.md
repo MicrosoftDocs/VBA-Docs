@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Edition property (Project)
 
-Gets the edition of the Project application, either Project Standard or Project Professional. Read-only  **PjEditionType**.
+Gets the edition of the Project application, either Project Standard or Project Professional. Read-only **PjEditionType**.
 
 
 ## Syntax

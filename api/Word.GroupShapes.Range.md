@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GroupShapes.Range method (Word)
 
-Returns a  **ShapeRange** object.
+Returns a **ShapeRange** object.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ ShapeRange
 
  **ShapeRange** objects don't include **InlineShape** objects. An **InlineShape** object is equivalent to a character and is positioned as a character within a range of text. **Shape** objects are anchored to a range of text (the selection, by default), but they can be positioned anywhere on the page. A **Shape** object will always appear on the same page as the range it is anchored to.
 
-Most operations that you can do with a  **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
+Most operations that you can do with a **Shape** object you can also do with a **ShapeRange** object that contains a single shape. Some operations, when performed on a **ShapeRange** object that contains multiple shapes, produce an error.
 
 
 ## Example

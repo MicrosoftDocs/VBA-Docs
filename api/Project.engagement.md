@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Engagement object (Project)
 
-Collection of  **Engagement** objects. Introduced in Office 2016.
+Collection of **Engagement** objects. Introduced in Office 2016.
 
 
 ## Remarks

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Shadow property (Word)
 
-Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape.
+Returns a **ShadowFormat** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax

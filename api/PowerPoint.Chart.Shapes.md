@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Shapes property (PowerPoint)
 
-Returns a collection that represents all the shapes on the chart sheet. Read-only  **[Shapes](PowerPoint.Shapes.md)**.
+Returns a collection that represents all the shapes on the chart sheet. Read-only **[Shapes](PowerPoint.Shapes.md)**.
 
 
 ## Syntax

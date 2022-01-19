@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControlListEntry.Index property (Word)
 
-Returns or sets a  **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
+Returns or sets a **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
 
 
 ## Syntax

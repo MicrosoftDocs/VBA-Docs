@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.ApplyAnimation method (PowerPoint)
 
-Applies the last picked up animation to the  **Shape** object.
+Applies the last picked up animation to the **Shape** object.
 
 
 ## Syntax

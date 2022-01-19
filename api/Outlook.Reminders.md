@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Reminders object (Outlook)
 
-Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
+Contains a collection of all the **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 
 
 ## Remarks
 
-Use the  **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** (_index_), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
+Use the **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** (_index_), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
 
 Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an **[AppointmentItem](Outlook.AppointmentItem.md)** object is created and the **AppointmentItem** object's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 
@@ -58,7 +58,7 @@ Sub ViewReminderInfo()
 End Sub
 ```
 
-The following example creates a new appointment item and sets the  **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
+The following example creates a new appointment item and sets the **ReminderSet** property to **True**, adding a new **Reminder** object to the **Reminders** collection.
 
 
 

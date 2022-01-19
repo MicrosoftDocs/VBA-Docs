@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.TrustProjectServerAndWSSPages property (Project)
 
-Gets or sets a value that indicates whether Web pages in Project Web App and SharePoint sites for project workspaces are trusted. Read/write  **Boolean**.
+Gets or sets a value that indicates whether Web pages in Project Web App and SharePoint sites for project workspaces are trusted. Read/write **Boolean**.
 
 
 ## Syntax

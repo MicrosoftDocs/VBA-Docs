@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.BookFoldPrintingSheets property (Word)
 
-Returns or sets a  **Long** which represents the number of pages for each booklet. Read/write **Boolean**.
+Returns or sets a **Long** which represents the number of pages for each booklet. Read/write **Boolean**.
 
 
 ## Syntax

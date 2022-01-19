@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' obj
 
 ## Remarks
 
-As an example of how this method functions, if you apply a table format with  **AutoFormat** and then insert rows and columns, the table may no longer match the predefined look. **UpdateAutoFormat** restores the format.
+As an example of how this method functions, if you apply a table format with **AutoFormat** and then insert rows and columns, the table may no longer match the predefined look. **UpdateAutoFormat** restores the format.
 
 
 ## Example

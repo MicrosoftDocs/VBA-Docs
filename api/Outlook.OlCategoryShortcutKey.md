@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlCategoryShortcutKey enumeration (Outlook)
 
-Identifies the shortcut key specified for the  **[ShortcutKey](Outlook.Category.ShortcutKey.md)** property of the **[Category](Outlook.Category.md)** object.
+Identifies the shortcut key specified for the **[ShortcutKey](Outlook.Category.ShortcutKey.md)** property of the **[Category](Outlook.Category.md)** object.
 
 
 

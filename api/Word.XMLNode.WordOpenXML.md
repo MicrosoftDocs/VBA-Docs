@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.WordOpenXML property (Word)
 
-Returns a  **String** that represents the XML for the node in the Microsoft Word Open XML format. Read-only.
+Returns a **String** that represents the XML for the node in the Microsoft Word Open XML format. Read-only.
 
 
 ## Syntax

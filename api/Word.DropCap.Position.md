@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DropCap.Position property (Word)
 
-Returns or sets the position of a dropped capital letter. Read/write  **WdDropPosition**.
+Returns or sets the position of a dropped capital letter. Read/write **WdDropPosition**.
 
 
 ## Syntax

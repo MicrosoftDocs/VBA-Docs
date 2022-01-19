@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Intercept property (Word)
 
-Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
+Returns or sets the point where the trendline crosses the value axis. Read/write **Double**.
 
 
 ## Syntax

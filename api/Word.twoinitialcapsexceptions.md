@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TwoInitialCapsExceptions object (Word)
 
-A collection of  **[TwoInitialCapsException](Word.TwoInitialCapsException.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
+A collection of **[TwoInitialCapsException](Word.TwoInitialCapsException.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ If the **TwoInitialCapsAutoAdd** property is **True**, words are automatically a
 AutoCorrect.TwoInitialCapsExceptions.Add Name:="INdustry"
 ```
 
-Use  **TwoInitialCapsExceptions** (Index), where Index is the initial cap name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital item named "KMenu."
+Use **TwoInitialCapsExceptions** (Index), where Index is the initial cap name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital item named "KMenu."
 
 
 

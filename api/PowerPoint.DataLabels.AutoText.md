@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md
 
 ## Remarks
 
-Setting the value of this property sets the  **[AutoText](PowerPoint.DataLabel.AutoText.md)** property of all **[DataLabel](PowerPoint.DataLabel.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True**; otherwise, this property returns **False**.
+Setting the value of this property sets the **[AutoText](PowerPoint.DataLabel.AutoText.md)** property of all **[DataLabel](PowerPoint.DataLabel.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True**; otherwise, this property returns **False**.
 
 
 ## Example

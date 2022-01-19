@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) obje
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the item that fired the  **Reminder** event every time a reminder is executed.
+The following Microsoft Visual Basic for Applications (VBA) example displays the item that fired the **Reminder** event every time a reminder is executed.
 
 
 ```vb

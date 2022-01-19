@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SynonymInfo.RelatedWordList property (Word)
 
-Returns a list of words related to the specified word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
+Returns a list of words related to the specified word or phrase. The list is returned as an array of strings. Read-only **Variant**.
 
 
 ## Syntax

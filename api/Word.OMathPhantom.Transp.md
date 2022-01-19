@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathPhantom.Transp property (Word)
 
-Returns or sets a  **Boolean** that represents whether a phantom object is transparent. Read/write.
+Returns or sets a **Boolean** that represents whether a phantom object is transparent. Read/write.
 
 
 ## Syntax

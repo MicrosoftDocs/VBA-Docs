@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisLayoutDirection enumeration (Visio)
 
-Specifies constants that define the layout directions for a diagram or selection; passed to the  **[ContainerProperties.RotateFlipList](Visio.ContainerProperties.RotateFlipList.md)** and **[Selection.LayoutChangeDirection](Visio.Selection.LayoutChangeDirection.md)** methods.
+Specifies constants that define the layout directions for a diagram or selection; passed to the **[ContainerProperties.RotateFlipList](Visio.ContainerProperties.RotateFlipList.md)** and **[Selection.LayoutChangeDirection](Visio.Selection.LayoutChangeDirection.md)** methods.
 
 
 

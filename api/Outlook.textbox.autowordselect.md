@@ -25,6 +25,6 @@ _expression_ A variable that represents a **TextBox** object.
 
 The **AutoWordSelect** property specifies how the selection extends or contracts in the edit region of a **[TextBox](Outlook.textbox.md)**.
 
-If the user places the insertion point in the middle of a word and then extends the selection while  **AutoWordSelect** is **True**, the selection includes the entire word.
+If the user places the insertion point in the middle of a word and then extends the selection while **AutoWordSelect** is **True**, the selection includes the entire word.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

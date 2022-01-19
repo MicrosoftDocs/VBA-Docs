@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddIn.Name property (Word)
 
-Returns the name of an add-in. Read-only  **String**.
+Returns the name of an add-in. Read-only **String**.
 
 
 ## Syntax

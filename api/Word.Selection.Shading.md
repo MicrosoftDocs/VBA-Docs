@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Shading property (Word)
 
-Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified selection.
+Returns a **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified selection.
 
 
 ## Syntax

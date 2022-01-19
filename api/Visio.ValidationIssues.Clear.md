@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssues.Clear method (Visio)
 
-Removes all  **[ValidationIssue](Visio.ValidationIssue.md)** objects from the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
+Removes all **[ValidationIssue](Visio.ValidationIssue.md)** objects from the **[ValidationRules](Visio.ValidationRules.md)** collection of the document.
 
 
 ## Syntax
@@ -31,14 +31,14 @@ _expression_ A variable that represents a **[ValidationIssues](Visio.ValidationI
 
 ## Remarks
 
-Calling the  **Clear** method also resets the **[Validation.LastValidatedDate](Visio.Validation.LastValidatedDate.md)** property value to 0 (zero).
+Calling the **Clear** method also resets the **[Validation.LastValidatedDate](Visio.Validation.LastValidatedDate.md)** property value to 0 (zero).
 
 
 ## Example
 
 The following sample code is based on code provided by: [David Parker](https://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Clear** method to clear all validation issues from the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Clear** method to clear all validation issues from the active document.
 
 
 

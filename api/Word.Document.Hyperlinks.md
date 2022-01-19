@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Hyperlinks property (Word)
 
-Returns a  **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified document. Read-only.
+Returns a **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified document. Read-only.
 
 
 ## Syntax

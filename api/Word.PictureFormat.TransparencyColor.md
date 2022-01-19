@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PictureFormat.TransparencyColor property (Word)
 
-Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write  **Long**.
+Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write **Long**.
 
 
 ## Syntax

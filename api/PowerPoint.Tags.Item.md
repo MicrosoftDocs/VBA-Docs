@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Tags.Item method (PowerPoint)
 
-Returns a single tag from the specified  **[Tags](PowerPoint.Tags.md)** collection.
+Returns a single tag from the specified **[Tags](PowerPoint.Tags.md)** collection.
 
 
 ## Syntax

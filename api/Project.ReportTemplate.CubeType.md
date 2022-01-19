@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ReportTemplate.CubeType property (Project)
 
-Gets the cube type that is used to build the template. Read-only  **PjVisualReportsCubeType**.
+Gets the cube type that is used to build the template. Read-only **PjVisualReportsCubeType**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.PlaceholderText property (Word)
 
-Sets or returns a  **String** that represents the text displayed for an element that contains no text.
+Sets or returns a **String** that represents the text displayed for an element that contains no text.
 
 
 ## Syntax

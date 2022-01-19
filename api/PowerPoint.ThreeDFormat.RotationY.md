@@ -33,11 +33,11 @@ Single
 
 Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right.
 
-To set the rotation of the extruded shape around the x-axis, use the  **[RotationX](PowerPoint.ThreeDFormat.RotationX.md)** property of the **ThreeDFormat** object.
+To set the rotation of the extruded shape around the x-axis, use the **[RotationX](PowerPoint.ThreeDFormat.RotationX.md)** property of the **ThreeDFormat** object.
 
-To set the rotation of the extruded shape around the z-axis, use the  **[Rotation](PowerPoint.Shape.Rotation.md)** property of the **[Shape](PowerPoint.Shape.md)** object.
+To set the rotation of the extruded shape around the z-axis, use the **[Rotation](PowerPoint.Shape.Rotation.md)** property of the **[Shape](PowerPoint.Shape.md)** object.
 
-To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the  **[SetExtrusionDirection](PowerPoint.ThreeDFormat.SetExtrusionDirection.md)** method.
+To change the direction of the extrusion's sweep path without rotating the front face of the extrusion, use the **[SetExtrusionDirection](PowerPoint.ThreeDFormat.SetExtrusionDirection.md)** method.
 
 
 ## Example

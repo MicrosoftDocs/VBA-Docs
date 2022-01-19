@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeUser.Class property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
+Returns a constant in the **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
 
 ## Syntax

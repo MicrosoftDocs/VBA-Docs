@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Source.XML property (Word)
 
-Returns a  **String** that represents the XML markup for a **Source** object. Read-only.
+Returns a **String** that represents the XML markup for a **Source** object. Read-only.
 
 
 ## Syntax

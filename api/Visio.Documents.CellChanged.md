@@ -48,14 +48,14 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 
 > [!NOTE] 
-> You can use VBA  **WithEvents** variables to sink the **CellChanged** event.
+> You can use VBA **WithEvents** variables to sink the **CellChanged** event.
 
-For performance considerations, the  **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
 
 ## Example
 
-This VBA module shows how to use the  **CellChanged** event to trap changes to a shape's cells.
+This VBA module shows how to use the **CellChanged** event to trap changes to a shape's cells.
 
 
 ```vb

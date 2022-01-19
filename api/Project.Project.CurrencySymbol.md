@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.CurrencySymbol property (Project)
 
-Gets or sets the characters that denote currency values. Read/write  **String**.
+Gets or sets the characters that denote currency values. Read/write **String**.
 
 
 ## Syntax

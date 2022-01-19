@@ -31,7 +31,7 @@ PpEntryEffect
 
 ## Remarks
 
-If the  **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property for the specified shape is set to **ppAnimateLevelNone** (the default value) or the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **False**, you won't see the special effect you've applied with the **EntryEffect** property.
+If the **[TextLevelEffect](PowerPoint.AnimationSettings.TextLevelEffect.md)** property for the specified shape is set to **ppAnimateLevelNone** (the default value) or the **[Animate](PowerPoint.AnimationSettings.Animate.md)** property is set to **False**, you won't see the special effect you've applied with the **EntryEffect** property.
 
 
 ## Example

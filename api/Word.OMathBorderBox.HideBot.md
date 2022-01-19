@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBorderBox.HideBot property (Word)
 
-Returns or sets a  **Boolean** that represents whether to hide the bottom border of an equation's bounding box. Read/write.
+Returns or sets a **Boolean** that represents whether to hide the bottom border of an equation's bounding box. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.BCWP property (Project)
 
-Gets the budgeted cost of work performed for the task. Read-only  **Variant**.
+Gets the budgeted cost of work performed for the task. Read-only **Variant**.
 
 
 ## Syntax

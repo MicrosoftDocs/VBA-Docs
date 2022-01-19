@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Profile.Name property (Project)
 
-Gets the name of an account profile in Project Professional. Read/write  **String**.
+Gets the name of an account profile in Project Professional. Read/write **String**.
 
 
 ## Syntax

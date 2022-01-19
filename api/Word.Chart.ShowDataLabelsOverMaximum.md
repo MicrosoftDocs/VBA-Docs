@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ShowDataLabelsOverMaximum property (Word)
 
-Returns or sets a value that indicates whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write  **Boolean**.
+Returns or sets a value that indicates whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write **Boolean**.
 
 
 ## Syntax

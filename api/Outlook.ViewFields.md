@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ViewFields object (Outlook)
 
-Represents the collection of  **[ViewField](Outlook.ViewField.md)** objects in a view.
+Represents the collection of **[ViewField](Outlook.ViewField.md)** objects in a view.
 
 
 ## Remarks
@@ -22,16 +22,16 @@ Represents the collection of  **[ViewField](Outlook.ViewField.md)** objects in a
 The **ViewFields** collection represents the Outlook item properties available for display in the view. Use the **[Add](Outlook.ViewFields.Add.md)** method of the **ViewFields** collection to add a view field for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[CardView](Outlook.CardView.md)**
+- **[CardView](Outlook.CardView.md)**
     
--  **[TableView](Outlook.TableView.md)**
+- **[TableView](Outlook.TableView.md)**
     
-In a table view, the order of  **ViewField** objects in the **ViewFields** collection is not the same as the order that field columns are displayed in the table view. A workaround to obtain the column order is to parse the string returned by the **[View.XML](Outlook.View.XML.md)** property.
+In a table view, the order of **ViewField** objects in the **ViewFields** collection is not the same as the order that field columns are displayed in the table view. A workaround to obtain the column order is to parse the string returned by the **[View.XML](Outlook.View.XML.md)** property.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb

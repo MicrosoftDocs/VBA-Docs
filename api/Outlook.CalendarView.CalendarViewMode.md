@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **CalendarView** object to show a single day, using an 8-point Verdana font to display items and a 16-point Verdana font to display time values and the Tasks header within the view.
+The following Visual Basic for Applications (VBA) example configures the current **CalendarView** object to show a single day, using an 8-point Verdana font to display items and a 16-point Verdana font to display time values and the Tasks header within the view.
 
 
 ```vb

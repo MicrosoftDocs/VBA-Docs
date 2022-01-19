@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TablesOfAuthorities.Count property (Word)
 
-Returns a  **Long** that represents the number of tables of authorities in the collection. Read-only.
+Returns a **Long** that represents the number of tables of authorities in the collection. Read-only.
 
 
 ## Syntax

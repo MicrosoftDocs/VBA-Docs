@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TaskGroups2 object (Project)
 
-Represents all the task-based group definitions, where group hierarchy can be maintained.  **TaskGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
+Represents all the task-based group definitions, where group hierarchy can be maintained. **TaskGroups2** is a collection of **[Group2](Project.Group2.md)** objects.
  
 
 

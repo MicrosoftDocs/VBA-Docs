@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.MarkupMode property (Word)
 
-Returns or sets a  **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that represents the display mode for tracked changes. Read/write.
+Returns or sets a **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that represents the display mode for tracked changes. Read/write.
 
 
 ## Syntax

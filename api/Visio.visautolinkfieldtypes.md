@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisAutoLinkFieldTypes enumeration (Visio)
 
-Constants passed to the  **Selection.AutomaticLink** method, specifying the shape data (custom property) field to which to link shapes.
+Constants passed to the **Selection.AutomaticLink** method, specifying the shape data (custom property) field to which to link shapes.
 
 
 > [!NOTE] 

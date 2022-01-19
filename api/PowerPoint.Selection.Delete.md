@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Delete method (PowerPoint)
 
-Deletes the specified  **Selection** object.
+Deletes the specified **Selection** object.
 
 
 ## Syntax

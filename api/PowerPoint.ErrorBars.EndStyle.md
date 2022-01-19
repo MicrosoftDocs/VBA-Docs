@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ErrorBars.EndStyle property (PowerPoint)
 
-Returns or sets the end style for the error bars. Read/write  **Long**.
+Returns or sets the end style for the error bars. Read/write **Long**.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlEndStyleCap](PowerPoint.XlEndStyleCap.md)** constants:
+The value of this property can be one of the following **[XlEndStyleCap](PowerPoint.XlEndStyleCap.md)** constants:
 
 
--  **xlCap**
+- **xlCap**
     
--  **xlNoCap**
+- **xlNoCap**
     
 
 

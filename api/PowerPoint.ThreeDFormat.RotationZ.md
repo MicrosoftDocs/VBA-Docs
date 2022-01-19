@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.RotationZ property (PowerPoint)
 
-Returns or sets the rotation of the effects camera for the specified  **ThreeDFormat** object, in degrees. Read/write.
+Returns or sets the rotation of the effects camera for the specified **ThreeDFormat** object, in degrees. Read/write.
 
 
 ## Syntax

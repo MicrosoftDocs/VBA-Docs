@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Stop property (Project)
 
-Gets or sets the date on which a task stops. Read/write  **Variant**.
+Gets or sets the date on which a task stops. Read/write **Variant**.
 
 
 ## Syntax

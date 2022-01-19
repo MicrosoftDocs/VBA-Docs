@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following  **[PjDateFormat](Project.PjDateFormat.md)** constants.|
+| _DateFormat_|Required|**Long**|A constant specifying the format of dates in the Gantt bar text. Can be one of the following **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 
 ## Return value
 

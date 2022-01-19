@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Rows property (Word)
 
-Returns a  **Rows** collection that represents all the table rows in a range. Read-only.
+Returns a **Rows** collection that represents all the table rows in a range. Read-only.
 
 
 ## Syntax

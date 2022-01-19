@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.Shading property (Word)
 
-Returns a  **Shading** object that refers to the shading formatting for the specified paragraphs.
+Returns a **Shading** object that refers to the shading formatting for the specified paragraphs.
 
 
 ## Syntax

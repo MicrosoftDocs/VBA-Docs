@@ -26,7 +26,7 @@ _expression_ A variable that represents a [BusinessCardView](Outlook.BusinessCar
 
 ## Remarks
 
-This property returns  **olBusinessCardView** for the **[BusinessCardView](Outlook.BusinessCardView.md)** object.
+This property returns **olBusinessCardView** for the **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## See also

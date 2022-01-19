@@ -21,7 +21,7 @@ _expression_ A variable that represents a **Page** object.
 
 ## Remarks
 
-The settings for  **PictureSizeMode** are:
+The settings for **PictureSizeMode** are:
 
 
 
@@ -33,6 +33,6 @@ The settings for  **PictureSizeMode** are:
 
 The 1 and 3 settings both enlarge the image, but 1 causes distortion. The 1 setting enlarges the image horizontally and vertically until the image reaches the corresponding edges of the container or control. The 3 setting enlarges the image until it reaches either the horizontal or vertical edges of the container or control. If the image reaches the horizontal edges first, any remaining distance to the vertical edges remains blank. If it reaches the vertical edges first, any remaining distance to the horizontal edges remains blank.
 
-Setting the  **PictureSizeMode** property to 2 overrides **[PictureAlignment](Outlook.page.picturealignment.md)**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
+Setting the **PictureSizeMode** property to 2 overrides **[PictureAlignment](Outlook.page.picturealignment.md)**. When **PictureSizeMode** is set to 2, the picture fills the entire control or container.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

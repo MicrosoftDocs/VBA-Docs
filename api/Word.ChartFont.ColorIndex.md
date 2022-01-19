@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFont.ColorIndex property (Word)
 
-Returns or sets the color of the font. Read/write  **Variant**.
+Returns or sets the color of the font. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' objec
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](Word.xlcolorindex.md)** constants:
 
 
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**
     
--  **xlColorIndexNone**
+- **xlColorIndexNone**
     
 
 ## Example

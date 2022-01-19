@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.Table property (Word)
 
-Returns a  **[TableStyle](Word.tableStyle.md)** object representing properties that can be applied to a table using a table style.
+Returns a **[TableStyle](Word.tableStyle.md)** object representing properties that can be applied to a table using a table style.
 
 
 ## Syntax

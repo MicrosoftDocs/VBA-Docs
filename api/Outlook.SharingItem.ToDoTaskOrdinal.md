@@ -26,9 +26,9 @@ _expression_. `ToDoTaskOrdinal`
 
 ## Remarks
 
-This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property is set to **False**.
+This property returns **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property is set to **False**.
 
-This property is used to indicate how the task should be ordered within the parent groups, such as the  **Today** group or the **Tomorrow** group, of the **To-Do Bar**. The value used in this property does not have any relation to the values of the  **[TaskStartDate](Outlook.SharingItem.TaskStartDate.md)**, **[TaskDueDate](Outlook.SharingItem.TaskDueDate.md)**, or **[TaskCompletedDate](Outlook.SharingItem.TaskCompletedDate.md)** properties.
+This property is used to indicate how the task should be ordered within the parent groups, such as the **Today** group or the **Tomorrow** group, of the **To-Do Bar**. The value used in this property does not have any relation to the values of the **[TaskStartDate](Outlook.SharingItem.TaskStartDate.md)**, **[TaskDueDate](Outlook.SharingItem.TaskDueDate.md)**, or **[TaskCompletedDate](Outlook.SharingItem.TaskCompletedDate.md)** properties.
 
 
 ## See also

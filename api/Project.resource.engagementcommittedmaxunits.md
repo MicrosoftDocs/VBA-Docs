@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementCommittedMaxUnits property (Project)
 
-Returns the committed max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
+Returns the committed max units for the engagement. Read-only **Integer**. Introduced in Office 2016.
 
 
 ## Syntax

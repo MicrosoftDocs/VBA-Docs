@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-The index for the  **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
+The index for the **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Items** property to obtain the collection of **[ContactItem](Outlook.ContactItem.md)** objects from the default Contacts folder.
+This Visual Basic for Applications (VBA) example uses the **Items** property to obtain the collection of **[ContactItem](Outlook.ContactItem.md)** objects from the default Contacts folder.
 
 
 ```vb

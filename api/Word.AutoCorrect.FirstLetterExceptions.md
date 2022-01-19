@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.FirstLetterExceptions property (Word)
 
-Returns a  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection that represents the list of abbreviations after which Word won't automatically capitalize the next letter. Read-only.
+Returns a **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection that represents the list of abbreviations after which Word won't automatically capitalize the next letter. Read-only.
 
 
 ## Syntax

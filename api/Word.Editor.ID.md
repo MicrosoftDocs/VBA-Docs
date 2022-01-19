@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Editor.ID property (Word)
 
-Returns or sets the identifying label for the specified object when the parent document is saved as a webpage. Read-only  **String**.
+Returns or sets the identifying label for the specified object when the parent document is saved as a webpage. Read-only **String**.
 
 
 ## Syntax

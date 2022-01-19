@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Start1 property (Project)
 
-Gets or sets a Start local custom field for the assignment. Read/write  **Variant**.
+Gets or sets a Start local custom field for the assignment. Read/write **Variant**.
 
 
 ## Syntax

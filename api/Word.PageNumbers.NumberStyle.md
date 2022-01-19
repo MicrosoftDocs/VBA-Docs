@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageNumbers.NumberStyle property (Word)
 
-Returns or sets a  **[WdPageNumberStyle](Word.WdPageNumberStyle.md)** constant that represents the number style. Read/write.
+Returns or sets a **[WdPageNumberStyle](Word.WdPageNumberStyle.md)** constant that represents the number style. Read/write.
 
 
 ## Syntax

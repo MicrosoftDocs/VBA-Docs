@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.LineUnitAfter property (Word)
 
-Returns or sets the amount of spacing (in gridlines) after the specified paragraph. Read/write  **Single**.
+Returns or sets the amount of spacing (in gridlines) after the specified paragraph. Read/write **Single**.
 
 
 ## Syntax

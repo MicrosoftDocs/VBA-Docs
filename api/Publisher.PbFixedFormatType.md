@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PbFixedFormatType enumeration (Publisher)
 
-Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify the different file formats in which you can save fixed-format publications, PDF or XPS.
+Constants passed to the **[ExportAsFixedFormat](Publisher.Document.ExportAsFixedFormat.md)** method that specify the different file formats in which you can save fixed-format publications, PDF or XPS.
 
 
 

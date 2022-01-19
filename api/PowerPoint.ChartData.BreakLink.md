@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)'
 
 ## Remarks
 
-Calling this method sets the  **[IsLinked](PowerPoint.ChartData.IsLinked.md)** property of the **ChartData** object to **False**.
+Calling this method sets the **[IsLinked](PowerPoint.ChartData.IsLinked.md)** property of the **ChartData** object to **False**.
 
 
 ## Example
@@ -37,7 +37,7 @@ Calling this method sets the  **[IsLinked](PowerPoint.ChartData.IsLinked.md)** p
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example removes the link between the  **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
+The following example removes the link between the **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
 
 
 

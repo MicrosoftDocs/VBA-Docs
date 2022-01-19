@@ -26,12 +26,12 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSubject**. The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property **PidTagSubject**. The **Subject** property is the default property for Outlook items.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates a new email message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, sets the **Subject** property, and displays the message.
+This Microsoft Visual Basic for Applications (VBA) example creates a new email message, uses the **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, sets the **Subject** property, and displays the message.
 
 
 ```vb

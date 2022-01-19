@@ -37,7 +37,7 @@ The **ChangePivotCache** method can only be used with a PivotTable that uses dat
 
 ## Example
 
-In the following code sample, the pivot table named **PivotTable1** is on Sheet1.  The code changes its pivot cache to a cache created from the data stored in the table called **Table2** in the same workbook.
+In the following code sample, the pivot table named **PivotTable1** is on Sheet1. The code changes its pivot cache to a cache created from the data stored in the table called **Table2** in the same workbook.
 
 ```vb
 Sheets("Sheet1").PivotTables("PivotTable1").ChangePivotCache _

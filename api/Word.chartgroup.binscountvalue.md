@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.BinsCountValue property (Word)
 
-Specifies the number of bins in the histogram chart. Read/write  **Long**.
+Specifies the number of bins in the histogram chart. Read/write **Long**.
 
 
 ## Syntax

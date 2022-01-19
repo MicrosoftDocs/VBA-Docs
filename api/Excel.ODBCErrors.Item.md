@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ODBCErrors.Item
 ms.assetid: 694a0e7e-f6c0-8721-792b-8e82e6a8e5c1
-ms.date: 05/01/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[ODBCErrors](Excel.ODBCErrors.md)**
 
 ## Return value
 
-An  **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
+An **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
 
 
 ## Example

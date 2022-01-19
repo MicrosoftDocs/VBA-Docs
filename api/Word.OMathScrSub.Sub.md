@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathScrSub.Sub property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the subscript for a subscript object. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the subscript for a subscript object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataFields.Item method (Word)
 
-Returns an individual  **MappedDataField** object.
+Returns an individual **MappedDataField** object.
 
 
 ## Syntax

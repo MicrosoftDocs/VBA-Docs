@@ -95,9 +95,9 @@ Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Val
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **Office.XlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
-|AxisType|Specifies the axis type. Can be one of the following  **Office.XlAxisType** constants: **xlCategory**,  **xlSeriesAxis**, or  **xlValue**.|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **Office.XlPivotFieldOrientation** constants: **xlColumnField**,  **xlDataField**,  **xlPageField**, or  **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following **Office.XlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
+|AxisType|Specifies the axis type. Can be one of the following **Office.XlAxisType** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following **Office.XlPivotFieldOrientation** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the **Office.IMsoChart.ChartGroups** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
 |PointIndex|Specifies the offset within the **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **1** indicates that all data points are selected.|
@@ -108,7 +108,7 @@ Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Val
 ## Example
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
-The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1,  **xlPlotArea** = 19.
+The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1, **xlPlotArea** = 19.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.RectangleType property (Word)
 
-Returns a  **WdRectangleType** constant that represents the type for the specified rectangle.
+Returns a **WdRectangleType** constant that represents the type for the specified rectangle.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OrderField](Outlook.OrderField.md) o
 
 ## Remarks
 
-If this property is set to  **True**, the contents of the property referenced by the **OrderField** object are sorted in descending order; otherwise, the contents are sorted in ascending order.
+If this property is set to **True**, the contents of the property referenced by the **OrderField** object are sorted in descending order; otherwise, the contents are sorted in ascending order.
 
 
 ## See also

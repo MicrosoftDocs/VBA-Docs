@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Column.Class property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Column](Outlook.Column.md)** object. Read-only.
+Returns a constant in the **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Column](Outlook.Column.md)** object. Read-only.
 
 
 ## Syntax

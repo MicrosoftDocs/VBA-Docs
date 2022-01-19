@@ -22,11 +22,11 @@ Represents the window in which an Outlook item is displayed.
 
 
 
-- Use the  **[ActiveInspector](Outlook.Application.ActiveInspector.md)** method to return the object representing the currently active inspector (if there is one).
+- Use the **[ActiveInspector](Outlook.Application.ActiveInspector.md)** method to return the object representing the currently active inspector (if there is one).
     
-- Use the  **[GetInspector](Outlook.MailItem.GetInspector.md)** property to return the **Inspector** object associated with an item.
+- Use the **[GetInspector](Outlook.MailItem.GetInspector.md)** property to return the **Inspector** object associated with an item.
     
-- Use the  **[Display](Outlook.MailItem.Display.md)** method to display an item in its associated inspector.
+- Use the **[Display](Outlook.MailItem.Display.md)** method to display an item in its associated inspector.
     
 
 ## Events

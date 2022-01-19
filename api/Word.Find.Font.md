@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Font property (Word)
 
-Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font**.
+Returns or sets a **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 ## Remarks
 
-To set this property, specify an expression that returns a  **[Font](Word.Font.md)** object.
+To set this property, specify an expression that returns a **[Font](Word.Font.md)** object.
 
 
 ## Example

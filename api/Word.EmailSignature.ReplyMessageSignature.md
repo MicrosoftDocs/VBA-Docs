@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignature.ReplyMessageSignature property (Word)
 
-Returns or sets the signature that Microsoft Word appends to email message replies. Read/write  **String**.
+Returns or sets the signature that Microsoft Word appends to email message replies. Read/write **String**.
 
 
 ## Syntax

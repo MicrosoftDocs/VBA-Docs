@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressList object (Outlook)
 
-Represents an address book that contains a set of  **[AddressEntry](Outlook.AddressEntry.md)** objects.
+Represents an address book that contains a set of **[AddressEntry](Outlook.AddressEntry.md)** objects.
 
 
 ## Remarks

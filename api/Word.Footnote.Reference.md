@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnote.Reference property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents a footnote reference mark.
+Returns a **[Range](Word.Range.md)** object that represents a footnote reference mark.
 
 
 ## Syntax

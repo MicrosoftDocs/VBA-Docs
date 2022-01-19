@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Resource.WindowsUserAccount property (Project)
 
-Gets or sets the user account for Microsoft Windows authentication of the resource. Read/write  **String**.
+Gets or sets the user account for Microsoft Windows authentication of the resource. Read/write **String**.
 
 
 ## Syntax

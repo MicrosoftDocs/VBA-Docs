@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.Next method (Word)
 
-Returns a  **Paragraph** object that represents the next paragraph.
+Returns a **Paragraph** object that represents the next paragraph.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ComputeStatistics method (Word)
 
-Returns a  **Long** that represents a statistic based on the contents of the specified range.
+Returns a **Long** that represents a statistic based on the contents of the specified range.
 
 
 ## Syntax

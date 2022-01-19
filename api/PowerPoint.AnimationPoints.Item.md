@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AnimationPoints.Item method (PowerPoint)
 
-Returns a single  **AnimationPoint** object from the specified **AnimationPoints** collection.
+Returns a single **AnimationPoint** object from the specified **AnimationPoints** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AnimationPoints](PowerPoint.Animatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **AnimationPoint** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **AnimationPoint** object in the collection to be returned.|
 
 ## Return value
 

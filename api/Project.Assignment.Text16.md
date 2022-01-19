@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Text16 property (Project)
 
-Gets or sets the value of a local Text custom field for the assignment. Read/write  **String**.
+Gets or sets the value of a local Text custom field for the assignment. Read/write **String**.
 
 
 ## Syntax

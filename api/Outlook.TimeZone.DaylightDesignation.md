@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object
 
 ## Remarks
 
-This property is stored as the  **Dlt** value for the time zone in the registry.
+This property is stored as the **Dlt** value for the time zone in the registry.
 
 
 ## See also

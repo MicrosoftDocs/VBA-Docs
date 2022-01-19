@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comments.ObjectType property (Visio)
 
-Returns  **visObjTypeComments**, the type of a  **Comments** object. Read-only.
+Returns **visObjTypeComments**, the type of a **Comments** object. Read-only.
 
 
 ## Syntax
@@ -21,7 +21,7 @@ _expression_ A variable that represents a **[Comments](Visio.Comments.md)** obje
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](Visio.VisObjectTypes.md)**.
 
 
 ## Property value

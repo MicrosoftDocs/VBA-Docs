@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Height property (Word)
 
-Returns or sets the height of the active document window in pixels. Read/write  **Long**.
+Returns or sets the height of the active document window in pixels. Read/write **Long**.
 
 
 ## Syntax

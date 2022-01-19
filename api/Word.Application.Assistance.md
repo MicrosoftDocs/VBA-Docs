@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Assistance property (Word)
 
-Returns an  **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
+Returns an **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-If a mail item is an inline reply, calling  **Save** on that mail item may fail and result in unexpected behavior.
+If a mail item is an inline reply, calling **Save** on that mail item may fail and result in unexpected behavior.
 
 
 ## See also

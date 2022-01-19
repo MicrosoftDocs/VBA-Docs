@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.MarginBottom property (Word)
 
-Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write  **Single**.
+Returns or sets the distance (in [points](../language/glossary/vbe-glossary.md#point)) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write **Single**.
 
 
 ## Syntax

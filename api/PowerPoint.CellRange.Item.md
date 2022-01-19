@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CellRange.Item method (PowerPoint)
 
-Returns a single  **Cell** object from the specified **CellRange** collection.
+Returns a single **Cell** object from the specified **CellRange** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [CellRange](PowerPoint.CellRange.md) o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Cell** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Cell** object in the collection to be returned.|
 
 ## Return value
 

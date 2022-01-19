@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivision.SpaceBefore property (Word)
 
-Returns or sets the spacing (in points) before the specified HTML DIV element. Read/write  **Single**.
+Returns or sets the spacing (in points) before the specified HTML DIV element. Read/write **Single**.
 
 
 ## Syntax

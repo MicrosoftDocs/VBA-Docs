@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ContentControls.Item method (Word)
 
-Returns a  **[ContentControl](Word.ContentControl.md)** object that represents the specified content control within the collection of content controls in a document.
+Returns a **[ContentControl](Word.ContentControl.md)** object that represents the specified content control within the collection of content controls in a document.
 
 
 ## Syntax

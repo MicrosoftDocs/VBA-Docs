@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.HasSmartArt property (PowerPoint)
 
-Returns  **True** if the current **ShapeRange** object has a SmartArt diagram. Read-only.
+Returns **True** if the current **ShapeRange** object has a SmartArt diagram. Read-only.
 
 
 ## Syntax

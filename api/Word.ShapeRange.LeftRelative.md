@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.LeftRelative property (Word)
 
-Returns or sets a  **Single** that represents the relative left position of a range of shapes. Read/write.
+Returns or sets a **Single** that represents the relative left position of a range of shapes. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ConditionalStyle.Shading property (Word)
 
-Returns a  **Shading** object that represents the shading formatting for the style formatting of a table.
+Returns a **Shading** object that represents the shading formatting for the style formatting of a table.
 
 
 ## Syntax

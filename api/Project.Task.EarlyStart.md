@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.EarlyStart property (Project)
 
-Gets the earliest date on which a task can start. Read-only  **Variant**.
+Gets the earliest date on which a task can start. Read-only **Variant**.
 
 
 ## Syntax

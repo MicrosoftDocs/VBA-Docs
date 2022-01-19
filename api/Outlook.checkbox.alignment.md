@@ -24,7 +24,7 @@ _expression_ A variable that represents a **CheckBox** object.
 
 ## Remarks
 
-The possible values of  **Alignment** is 0 or 1. A value of 0 places the caption to the left of the control. A value of 1 places the caption to the right of the control (default).
+The possible values of **Alignment** is 0 or 1. A value of 0 places the caption to the left of the control. A value of 1 places the caption to the right of the control (default).
 
 The caption text for a control is left-aligned.
 

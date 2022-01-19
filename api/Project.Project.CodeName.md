@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.CodeName property (Project)
 
-Gets the code name for the project. Read-only  **String**.
+Gets the code name for the project. Read-only **String**.
 
 
 ## Syntax

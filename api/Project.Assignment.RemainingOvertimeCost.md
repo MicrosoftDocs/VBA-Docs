@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.RemainingOvertimeCost property (Project)
 
-Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
+Gets the remaining overtime cost for the assignment. Read-only **Variant**.
 
 
 ## Syntax

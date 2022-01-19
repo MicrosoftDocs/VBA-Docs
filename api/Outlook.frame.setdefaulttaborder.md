@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Frame.SetDefaultTabOrder Method (Outlook Forms Script)
 
-Sets the  **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.
+Sets the **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.
 
 
 ## Syntax

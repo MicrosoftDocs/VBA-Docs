@@ -39,7 +39,7 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 ## Remarks
 
-For more information on type conversion when using the  **PropertyAccessor** object, see [Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
+For more information on type conversion when using the **PropertyAccessor** object, see [Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
 
 
 ## Example

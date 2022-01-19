@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # CodeMaskLevel.Separator property (Project)
 
-Gets or sets the character that separates the levels of a code mask Read/write  **String**.
+Gets or sets the character that separates the levels of a code mask Read/write **String**.
 
 
 ## Syntax

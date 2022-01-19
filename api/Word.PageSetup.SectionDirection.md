@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.SectionDirection property (Word)
 
-Returns or sets the reading order and alignment for the specified sections. Read/write  **WdSectionDirection**.
+Returns or sets the reading order and alignment for the specified sections. Read/write **WdSectionDirection**.
 
 
 ## Syntax

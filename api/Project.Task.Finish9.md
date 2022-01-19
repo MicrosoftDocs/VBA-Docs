@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Finish9 property (Project)
 
-Gets or sets the local Finish custom field of the task. Read/write  **Variant**.
+Gets or sets the local Finish custom field of the task. Read/write **Variant**.
 
 
 ## Syntax

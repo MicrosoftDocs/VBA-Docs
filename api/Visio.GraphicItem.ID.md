@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItem.ID property (Visio)
 
-Gets the unique identifier of the  **GraphicItem** object. Read-only.
+Gets the unique identifier of the **GraphicItem** object. Read-only.
 
 
 > [!NOTE] 

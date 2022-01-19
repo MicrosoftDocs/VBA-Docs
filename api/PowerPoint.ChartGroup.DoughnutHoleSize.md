@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.DoughnutHoleSize property (PowerPoint)
 
-Returns or sets the size of the hole in a doughnut chart group. Read/write  **Long**.
+Returns or sets the size of the hole in a doughnut chart group. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dictionary.Type property (Word)
 
-Returns the dictionary type. Read-only  **WdDictionaryType**.
+Returns the dictionary type. Read-only **WdDictionaryType**.
 
 
 ## Syntax

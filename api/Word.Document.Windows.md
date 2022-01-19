@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Windows property (Word)
 
-Returns a  **[Windows](Word.windows.md)** collection that represents all windows for the specified document. Read-only.
+Returns a **[Windows](Word.windows.md)** collection that represents all windows for the specified document. Read-only.
 
 
 ## Syntax

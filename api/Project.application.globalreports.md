@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Application.GlobalReports property (Project)
-Gets the collection of global (built-in) reports. Read-only  **Reports**.
+Gets the collection of global (built-in) reports. Read-only **Reports**.
 
 ## Syntax
 

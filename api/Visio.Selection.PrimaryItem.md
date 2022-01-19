@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.PrimaryItem property (Visio)
 
-Returns the  **Shape** object that is a **Selection** object's primary item. Read-only.
+Returns the **Shape** object that is a **Selection** object's primary item. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ Shape
 
 ## Remarks
 
-In a drawing window, the primary selected item is shown with green selection handles and non-primary selected items are shown with blue selection handles. The outcome of some operations is affected by which selected item is the primary item. For example, the  **Align Shapes** command aligns non-primary selected items with the primary selected item.
+In a drawing window, the primary selected item is shown with green selection handles and non-primary selected items are shown with blue selection handles. The outcome of some operations is affected by which selected item is the primary item. For example, the **Align Shapes** command aligns non-primary selected items with the primary selected item.
 
-If a  **Selection** object contains no **Shape** objects, or the primary **Shape** object is one that isn't enumerated given the **Selection** object's **IterationMode** property, the **PrimaryItem** property returns **Nothing** and raises no exception.
+If a **Selection** object contains no **Shape** objects, or the primary **Shape** object is one that isn't enumerated given the **Selection** object's **IterationMode** property, the **PrimaryItem** property returns **Nothing** and raises no exception.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfAuthorities.IncludeSequenceName property (Word)
 
-Returns or sets the Sequence (SEQ) field identifier for a table of authorities. Read/write  **String**.
+Returns or sets the Sequence (SEQ) field identifier for a table of authorities. Read/write **String**.
 
 
 ## Syntax

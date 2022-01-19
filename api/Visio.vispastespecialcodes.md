@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPasteSpecialCodes enumeration (Visio)
 
-Format codes passed to the  **PasteSpecial** method.
+Format codes passed to the **PasteSpecial** method.
 
 
 

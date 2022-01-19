@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Parent property (Outlook)
 
-Returns the parent object of the  **[Columns](Outlook.Columns.md)** object. Read-only.
+Returns the parent object of the **[Columns](Outlook.Columns.md)** object. Read-only.
 
 
 ## Syntax

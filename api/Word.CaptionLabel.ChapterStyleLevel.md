@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CaptionLabel.ChapterStyleLevel property (Word)
 
-Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write  **Long**.
+Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write **Long**.
 
 
 ## Syntax

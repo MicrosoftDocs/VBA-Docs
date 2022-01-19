@@ -21,10 +21,10 @@ _expression_ A variable that represents a **TextBox** object.
 
 ## Remarks
 
-The possible values of  **DragBehavior** are 0 and 1. 0 represents that drag-and-drop action is not allowed. 1 represents that drag-and-drop action is allowed.
+The possible values of **DragBehavior** are 0 and 1. 0 represents that drag-and-drop action is not allowed. 1 represents that drag-and-drop action is allowed.
 
-If the  **DragBehavior** property is enabled, dragging in a text box starts a drag-and-drop operation on the selected text. If **DragBehavior** is disabled, dragging in a text box selects text.
+If the **DragBehavior** property is enabled, dragging in a text box starts a drag-and-drop operation on the selected text. If **DragBehavior** is disabled, dragging in a text box selects text.
 
-You can combine the effects of the  **[EnterFieldBehavior](Outlook.textbox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of text box styles.
+You can combine the effects of the **[EnterFieldBehavior](Outlook.textbox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of text box styles.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

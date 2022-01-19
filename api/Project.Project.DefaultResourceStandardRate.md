@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultResourceStandardRate property (Project)
 
-Gets or sets the default standard rate of pay for resources. Read/write  **Variant**.
+Gets or sets the default standard rate of pay for resources. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.TwoInitialCapsExceptions property (Word)
 
-Returns a  **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection that represents the list of terms containing mixed capitalization that Word won't correct automatically.
+Returns a **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection that represents the list of terms containing mixed capitalization that Word won't correct automatically.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Rectangles property (Word)
 
-Returns a  **Rectangles** collection that represents a portion of text or graphics in a page in a document.
+Returns a **Rectangles** collection that represents a portion of text or graphics in a page in a document.
 
 
 ## Syntax

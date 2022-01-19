@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.CustomizationContext property (Word)
 
-Returns or sets a  **Template** or **[Document](Word.Document.md)** object that represents the template or document in which changes to menu bars, toolbars, and key bindings are stored. Read/write. .
+Returns or sets a **Template** or **[Document](Word.Document.md)** object that represents the template or document in which changes to menu bars, toolbars, and key bindings are stored. Read/write. .
 
 
 ## Syntax

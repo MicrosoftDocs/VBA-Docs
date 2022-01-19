@@ -28,7 +28,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 In general, there are three different kinds of messages: sent, posted, and saved. Sent messages are items sent to a recipient or public folder. Posted messages are created in a public folder. Saved messages are created and saved without either sending or posting.
 
-If this property is set to  **True**, attempting to set the **[SendUsingAccount](Outlook.SharingItem.SendUsingAccount.md)** property raises an error.
+If this property is set to **True**, attempting to set the **[SendUsingAccount](Outlook.SharingItem.SendUsingAccount.md)** property raises an error.
 
 
 ## See also

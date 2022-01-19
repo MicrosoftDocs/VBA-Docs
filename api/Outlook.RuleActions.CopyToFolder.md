@@ -26,9 +26,9 @@ _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) 
 
 ## Remarks
 
-Use the returned  **MoveOrCopyRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies copying a message to a specific folder as an action.
+Use the returned **MoveOrCopyRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies copying a message to a specific folder as an action.
 
-This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **MoveOrCopyRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[MoveOrCopyRuleAction.Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)** will be **True**.
+This property of the **[RuleActions](Outlook.RuleActions.md)** collection always returns a **MoveOrCopyRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[MoveOrCopyRuleAction.Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)** will be **True**.
 
 
 ## See also

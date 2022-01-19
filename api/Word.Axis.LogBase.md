@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.LogBase property (Word)
 
-Returns or sets the base of the logarithm when you are using log scales. Read/write  **Double**.
+Returns or sets the base of the logarithm when you are using log scales. Read/write **Double**.
 
 
 ## Syntax

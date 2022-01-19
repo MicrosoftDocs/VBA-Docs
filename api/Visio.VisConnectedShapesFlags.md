@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisConnectedShapesFlags enumeration (Visio)
 
-Specifies constants that identify shapes by the directionality of their connectors; passed to the  **[Shape.ConnectedShapes](Visio.Shape.ConnectedShapes.md)** method.
+Specifies constants that identify shapes by the directionality of their connectors; passed to the **[Shape.ConnectedShapes](Visio.Shape.ConnectedShapes.md)** method.
 
 
 > [!NOTE] 

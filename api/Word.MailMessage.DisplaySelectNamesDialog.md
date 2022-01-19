@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMessage.DisplaySelectNamesDialog method (Word)
 
-Displays the **Select Names** dialog box, in which the user can add addresses to the **To**,  **Cc**, and  **Bcc** lines in the active, unsent email message.
+Displays the **Select Names** dialog box, in which the user can add addresses to the **To**, **Cc**, and **Bcc** lines in the active, unsent email message.
 
 
 ## Syntax

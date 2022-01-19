@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revisions.Item method (Word)
 
-Returns an individual  **Revisions** object in a collection.
+Returns an individual **Revisions** object in a collection.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Wrap property (Word)
 
-Returns or sets what happens if the search begins at a point other than the beginning of the document and the end of the document is reached (or vice versa if  **Forward** is set to **False**) or if the search text isn't found in the specified selection or range. Read/write **WdFindWrap**.
+Returns or sets what happens if the search begins at a point other than the beginning of the document and the end of the document is reached (or vice versa if **Forward** is set to **False**) or if the search text isn't found in the specified selection or range. Read/write **WdFindWrap**.
 
 
 ## Syntax

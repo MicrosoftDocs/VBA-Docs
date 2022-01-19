@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TextRange2.Item method (PowerPoint)
 
-Gets the range of text specified by the index number from the  **TextRange2** object.
+Gets the range of text specified by the index number from the **TextRange2** object.
 
 
 ## Syntax

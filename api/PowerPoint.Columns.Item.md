@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.Item method (PowerPoint)
 
-Returns a single  **Column** object from the specified **Columns** collection.
+Returns a single **Column** object from the specified **Columns** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Columns](PowerPoint.Columns.md) objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Column** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Column** object in the collection to be returned.|
 
 ## Return value
 

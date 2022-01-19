@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Inspector.ModifiedFormPages property (Outlook)
 
-Returns the  **[Pages](Outlook.Pages.md)** collection that represents all the pages for the item in the inspector. Read-only.
+Returns the **[Pages](Outlook.Pages.md)** collection that represents all the pages for the item in the inspector. Read-only.
 
 
 ## Syntax
@@ -26,12 +26,12 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Remarks
 
-The main page and up to five customizable pages can be obtained using the  **[Add](Outlook.Pages.Add.md)** method.
+The main page and up to five customizable pages can be obtained using the **[Add](Outlook.Pages.Add.md)** method.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) displays the count of pages in the  **ModifiedFormPages** collection. To run this example without any errors, display a contact item in the active window.
+This Visual Basic for Applications (VBA) displays the count of pages in the **ModifiedFormPages** collection. To run this example without any errors, display a contact item in the active window.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Legend property (PowerPoint)
 
-Returns the legend for the chart. Read-only  **[Legend](PowerPoint.Legend.md)**.
+Returns the legend for the chart. Read-only **[Legend](PowerPoint.Legend.md)**.
 
 
 ## Syntax

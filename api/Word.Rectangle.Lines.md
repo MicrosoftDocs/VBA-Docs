@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.Lines property (Word)
 
-Returns a  **[Lines](Word.Lines.md)** collection that represents the lines in a specified portion of text in a page.
+Returns a **[Lines](Word.Lines.md)** collection that represents the lines in a specified portion of text in a page.
 
 
 ## Syntax

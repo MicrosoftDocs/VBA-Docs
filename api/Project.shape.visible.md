@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Visible property (Project)
-Gets or sets a value that determines whether the shape is visible. Read/write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
+Gets or sets a value that determines whether the shape is visible. Read/write **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

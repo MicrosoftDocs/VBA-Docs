@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.PresetShape property (Word)
 
-Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape**.
+Returns or sets the shape of the specified WordArt. Read/write **MsoPresetTextEffectShape**.
 
 
 ## Syntax

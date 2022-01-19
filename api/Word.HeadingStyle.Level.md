@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HeadingStyle.Level property (Word)
 
-Returns or sets the level for the heading style in a table of contents or table of figures. Read/write  **Integer**.
+Returns or sets the level for the heading style in a table of contents or table of figures. Read/write **Integer**.
 
 
 ## Syntax

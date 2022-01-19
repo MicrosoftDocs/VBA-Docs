@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Return value
 
-A  **TaskItem** object that represents the task.
+A **TaskItem** object that represents the task.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ This method allows a task to be assigned (delegated) to another user. You must c
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. To run this example, replace 'Dan Wilson' with a valid recipient name.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](Outlook.Application.CreateItem.md)** to create a simple task and delegate it as a task request to another user. To run this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

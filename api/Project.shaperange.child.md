@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Child property (Project)
-Gets a value that indicates whether all shapes in the shape range are child shapes of the same parent. Read-only  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
+Gets a value that indicates whether all shapes in the shape range are child shapes of the same parent. Read-only **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

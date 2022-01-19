@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Remarks
 
-A chart title is represented by a  **[ChartTitle](Word.ChartTitle.md)** object.
+A chart title is represented by a **[ChartTitle](Word.ChartTitle.md)** object.
 
 
 ## See also

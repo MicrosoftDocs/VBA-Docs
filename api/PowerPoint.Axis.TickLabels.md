@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabels property (PowerPoint)
 
-Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](PowerPoint.TickLabels.md)**.
+Returns the tick-mark labels for the specified axis. Read-only **[TickLabels](PowerPoint.TickLabels.md)**.
 
 
 ## Syntax

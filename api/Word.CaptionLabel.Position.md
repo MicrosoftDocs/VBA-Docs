@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CaptionLabel.Position property (Word)
 
-Returns or sets the position of caption label text. Read/write  **WdCaptionPosition**.
+Returns or sets the position of caption label text. Read/write **WdCaptionPosition**.
 
 
 ## Syntax

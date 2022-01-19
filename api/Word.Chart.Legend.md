@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Legend property (Word)
 
-Returns the legend for the chart. Read-only  **[Legend](Word.Legend.md)**.
+Returns the legend for the chart. Read-only **[Legend](Word.Legend.md)**.
 
 
 ## Syntax

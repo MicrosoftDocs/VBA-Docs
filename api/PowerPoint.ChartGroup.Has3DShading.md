@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.m
 
 ## Remarks
 
-Setting  **Has3DShading** to **False** removes the 3D shading effect from the chart (rendering it as flat). Setting **Has3DShading** to **True** sets the chart content to the default.
+Setting **Has3DShading** to **False** removes the 3D shading effect from the chart (rendering it as flat). Setting **Has3DShading** to **True** sets the chart content to the default.
 
 
 ## Example

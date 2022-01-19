@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisFlipTypes enumeration (Visio)
 
-Type constants to pass to the  **Selection.Flip** method.
+Type constants to pass to the **Selection.Flip** method.
 
 
 

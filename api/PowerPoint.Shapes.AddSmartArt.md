@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.AddSmartArt method (PowerPoint)
 
-Adds a SmartArt diagram to the  **Shapes** object.
+Adds a SmartArt diagram to the **Shapes** object.
 
 
 ## Syntax

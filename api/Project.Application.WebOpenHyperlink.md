@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Address_|Optional|**String**|The address of the target document. If  **Address** is omitted, the text of the selected field is used.|
+| _Address_|Optional|**String**|The address of the target document. If **Address** is omitted, the text of the selected field is used.|
 | _SubAddress_|Optional|**String**|A location within the target document.|
 | _AddHistory_|Optional|**Boolean**|**True** if the target document is added to the History folder. The default value is **True**.|
 | _NewWindow_|Optional|**Boolean**|**True** if the target document displays in a new window. The default value is **False**.|

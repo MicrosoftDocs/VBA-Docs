@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.Position property (Word)
 
-Returns or sets the position of the chart title on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)**.
+Returns or sets the position of the chart title on the chart. Read/write **[XlChartElementPosition](Word.xlchartelementposition.md)**.
 
 
 ## Syntax

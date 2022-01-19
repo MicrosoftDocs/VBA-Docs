@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Views](Outlook.Views.md) object.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the name of the view that has been removed from the collection when the  **ViewRemove** event is fired. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `DeleteView()` procedure should be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example displays the name of the view that has been removed from the collection when the **ViewRemove** event is fired. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `DeleteView()` procedure should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

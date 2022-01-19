@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.TextToDisplay property (Word)
 
-Returns or sets the specified hyperlink's visible text in a document. Read/write  **String**.
+Returns or sets the specified hyperlink's visible text in a document. Read/write **String**.
 
 
 ## Syntax

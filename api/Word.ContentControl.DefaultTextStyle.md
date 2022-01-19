@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.DefaultTextStyle property (Word)
 
-Returns or sets a  **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.
+Returns or sets a **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.
 
 
 ## Syntax

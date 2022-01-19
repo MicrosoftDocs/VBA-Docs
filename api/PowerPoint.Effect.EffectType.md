@@ -31,7 +31,7 @@ MsoAnimEffect
 
 ## Remarks
 
-The value of the  **EffectType** property can be one of these **MsoAnimEffect** constants.
+The value of the **EffectType** property can be one of these **MsoAnimEffect** constants.
 
 
 ||

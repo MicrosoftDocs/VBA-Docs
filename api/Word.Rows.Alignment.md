@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rows.Alignment property (Word)
 
-Returns or sets a  **WdRowAlignment** constant that represents the alignment for the specified rows. Read/write.
+Returns or sets a **WdRowAlignment** constant that represents the alignment for the specified rows. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.ResourcePhonetics property (Project)
 
-Gets the phonetic representation of a resource name. Read-only  **String**.
+Gets the phonetic representation of a resource name. Read-only **String**.
 
 
 ## Syntax

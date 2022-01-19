@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZ
 
 ## Remarks
 
-Simulates the user clicking the drop button on the control. This method causes the  **[DropButtonClick](Outlook.OlkTimeZoneControl.DropButtonClick.md)** event to fire.
+Simulates the user clicking the drop button on the control. This method causes the **[DropButtonClick](Outlook.OlkTimeZoneControl.DropButtonClick.md)** event to fire.
 
 
 ## See also

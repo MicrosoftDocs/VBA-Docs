@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisFlipDirection enumeration (Visio)
 
-Direction constants to pass to the  **Selection.Flip** method.
+Direction constants to pass to the **Selection.Flip** method.
 
 
 

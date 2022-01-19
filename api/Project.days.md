@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Days object (Project)
 
-Contains a collection of  **[Day](Project.Day.md)** objects.
+Contains a collection of **[Day](Project.Day.md)** objects.
  
 
 
@@ -19,7 +19,7 @@ Contains a collection of  **[Day](Project.Day.md)** objects.
  
 
  
-Use  **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekday](Project.PjWeekday.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2002 for each selected resource.
+Use **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekday](Project.PjWeekday.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2002 for each selected resource.
  
 
  

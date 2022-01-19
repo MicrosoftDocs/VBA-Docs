@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddIns.Add method (Word)
 
-Returns an  **[AddIn](Word.AddIn.md)** object that represents an add-in added to the list of available add-ins.
+Returns an **[AddIn](Word.AddIn.md)** object that represents an add-in added to the list of available add-ins.
 
 
 ## Syntax

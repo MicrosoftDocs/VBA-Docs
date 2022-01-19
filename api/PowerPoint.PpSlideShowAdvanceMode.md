@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpSlideShowAdvanceMode enumeration (PowerPoint)
 
-Constants that specify the mode of advance of the slide show, passed to and returned by the  **AdvanceMode** property of the **SlideShowSettings** object.
+Constants that specify the mode of advance of the slide show, passed to and returned by the **AdvanceMode** property of the **SlideShowSettings** object.
 
 
 

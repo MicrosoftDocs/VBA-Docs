@@ -40,6 +40,6 @@ _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 
 ## Remarks
 
-When you call  **SplitConnector**, Microsoft Visio duplicates the connector (except for text), positions the shape automatically, and glues the shape to the two resulting connectors.
+When you call **SplitConnector**, Microsoft Visio duplicates the connector (except for text), positions the shape automatically, and glues the shape to the two resulting connectors.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

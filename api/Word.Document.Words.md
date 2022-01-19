@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Words property (Word)
 
-Returns a  **[Words](Word.words.md)** collection that represents all the words in a document. Read-only.
+Returns a **[Words](Word.words.md)** collection that represents all the words in a document. Read-only.
 
 
 ## Syntax

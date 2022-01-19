@@ -31,7 +31,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **NormalizedHeight** property can be one of these **MsoTriState** constants.
+The value of the **NormalizedHeight** property can be one of these **MsoTriState** constants.
 
 
 

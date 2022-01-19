@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.TaskErrorCount property (Project)
 
-Gets or sets the number of task errors associated with a project. Read/write  **Long**.
+Gets or sets the number of task errors associated with a project. Read/write **Long**.
 
 
 ## Syntax

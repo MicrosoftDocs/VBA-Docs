@@ -29,18 +29,18 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 |:-----|:-----|:-----|:-----|
 | _Action_|Required| **Object**|The **[Action](Outlook.Action.md)** object.|
 | _Response_|Required| **Object**|The newly created item resulting from the custom action.|
-| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True**, the custom action is not completed.|
+| _Cancel_|Required| **Boolean**|(Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True**, the custom action is not completed.|
 
 ## Remarks
 
 The **Action** object and the newly created item resulting from the custom action are passed to the event.
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False**, the custom action operation is not completed.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False**, the custom action operation is not completed.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CustomAction** event to set the **Subject** property on the response item. Execute the `AddAction` procedure before executing the `Initialize_Handler` to create an item with a custom event called 'Link Original'.
+This Visual Basic for Applications (VBA) example uses the **CustomAction** event to set the **Subject** property on the response item. Execute the `AddAction` procedure before executing the `Initialize_Handler` to create an item with a custom event called 'Link Original'.
 
 
 ```vb

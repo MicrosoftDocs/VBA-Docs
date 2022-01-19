@@ -31,9 +31,9 @@ MsoTriState
 
 ## Remarks
 
-For the  **PauseAnimation** property setting to take effect, the **[PlayOnEntry](PowerPoint.PlaySettings.PlayOnEntry.md)** property of the specified shape must be set to **msoTrue**.
+For the **PauseAnimation** property setting to take effect, the **[PlayOnEntry](PowerPoint.PlaySettings.PlayOnEntry.md)** property of the specified shape must be set to **msoTrue**.
 
-The value of the  **PauseAnimation** property can be one of these **MsoTriState** constants.
+The value of the **PauseAnimation** property can be one of these **MsoTriState** constants.
 
 
 

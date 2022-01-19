@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.Borders property (Word)
 
-Returns a  **[Borders](Word.borders.md)** collection that represents all the borders in the section.
+Returns a **[Borders](Word.borders.md)** collection that represents all the borders in the section.
 
 
 ## Syntax

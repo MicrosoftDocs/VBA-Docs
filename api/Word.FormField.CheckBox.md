@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.CheckBox property (Word)
 
-Returns a  **[CheckBox](Word.CheckBox.md)** object that represents a check box form field. Read-only.
+Returns a **[CheckBox](Word.CheckBox.md)** object that represents a check box form field. Read-only.
 
 
 ## Syntax

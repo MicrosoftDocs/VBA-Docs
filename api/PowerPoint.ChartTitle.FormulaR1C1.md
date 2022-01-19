@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartTitle.FormulaR1C1 property (PowerPoint)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String**.
+Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write **String**.
 
 
 ## Syntax

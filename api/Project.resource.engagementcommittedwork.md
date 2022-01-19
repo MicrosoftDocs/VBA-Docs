@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Resource.EngagementCommittedWork property (Project)
 
-Returns the committed work for the engagement. Read-only  **Double**. Introduced in Office 2016.
+Returns the committed work for the engagement. Read-only **Double**. Introduced in Office 2016.
 
 
 ## Syntax

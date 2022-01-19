@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.StartSlack property (Project)
 
-Gets the starting slack time of a task in minutes. Read-only  **Variant**.
+Gets the starting slack time of a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

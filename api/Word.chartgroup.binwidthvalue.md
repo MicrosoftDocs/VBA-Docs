@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.BinWidthValue property (Word)
 
-Specifies the number of points in each range. Read/write  **Double**.
+Specifies the number of points in each range. Read/write **Double**.
 
 
 ## Syntax

@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # FileConverters object (PowerPoint)
 
-A collection of  **[FileConverter](PowerPoint.FileConverter.md)** objects that represent all the file converters available for opening and saving files.
+A collection of **[FileConverter](PowerPoint.FileConverter.md)** objects that represent all the file converters available for opening and saving files.
 
 
 ## Remarks
 
-Use the  **FileConverters** property to return the **FileConverters** collection. The following example determines whether a WordPerfect 6.0 converter is available.
+Use the **FileConverters** property to return the **FileConverters** collection. The following example determines whether a WordPerfect 6.0 converter is available.
 
 
 ```vb
@@ -36,7 +36,7 @@ Next conv
 
 The **Add** method isn't available for the **FileConverters** collection. **[FileConverter](PowerPoint.FileConverter.md)** objects are added during installation of Microsoft Office or by installing supplemental converters.
 
-Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
+Use **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
 
 
 
@@ -45,7 +45,7 @@ Use  **FileConverters** (Index), where Index is a class name or index number, to
 MsgBox FileConverters("MSBiff").Extensions
 ```
 
-The index number represents the position of the file converter in the  **FileConverters** collection. The following example displays the format name of the first file converter.
+The index number represents the position of the file converter in the **FileConverters** collection. The following example displays the format name of the first file converter.
 
 
 
@@ -54,7 +54,7 @@ The index number represents the position of the file converter in the  **FileCon
 MsgBox FileConverters(1).FormatName
 ```
 
-File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box.
+File converters for saving documents are listed in the **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box.
 
 
 ## See also

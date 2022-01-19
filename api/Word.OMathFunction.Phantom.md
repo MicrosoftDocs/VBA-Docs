@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.Phantom property (Word)
 
-Returns an  **[OMathPhantom](Word.OMathPhantom.md)** object that represents an object used for advanced layout of an equation. Read-only.
+Returns an **[OMathPhantom](Word.OMathPhantom.md)** object that represents an object used for advanced layout of an equation. Read-only.
 
 
 ## Syntax

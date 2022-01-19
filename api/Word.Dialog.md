@@ -19,7 +19,7 @@ Represents a built-in dialog box. The **Dialog** object is a member of the **[Di
 
 ## Remarks
 
-Use  **Dialogs** (Index), where Index is a **WdWordDialog** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays and carries out the actions taken in the built-in **Open** dialog box.
+Use **Dialogs** (Index), where Index is a **WdWordDialog** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays and carries out the actions taken in the built-in **Open** dialog box.
 
 
 ```vb

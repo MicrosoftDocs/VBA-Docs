@@ -40,7 +40,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _OnePageWide_|Optional|**Boolean**|**True** if Project prints only the leftmost columns of the active view. The default value is **False**.|
 | _Preview_|Optional|**Boolean**|**True** if Project previews the active view rather than printing it. The default value is **False**.|
 | _Color_|Optional|**Boolean**|**True** if Project prints the active view in color. The default value is **False**.|
-| _ShowIEPrintDialog_|Optional|**Boolean**|If  **True**, shows the Internet Explorer print dialog while printing.|
+| _ShowIEPrintDialog_|Optional|**Boolean**|If **True**, shows the Internet Explorer print dialog while printing.|
 
 ## Return value
 

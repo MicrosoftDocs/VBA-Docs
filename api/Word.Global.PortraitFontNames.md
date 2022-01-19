@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.PortraitFontNames property (Word)
 
-Returns a  **FontNames** object that includes the names of all the available portrait fonts.
+Returns a **FontNames** object that includes the names of all the available portrait fonts.
 
 
 ## Syntax

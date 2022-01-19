@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Subdocuments.AddFromRange method (Word)
 
-Creates one or more subdocuments from the text in the specified range and returns a  **SubDocument** object.
+Creates one or more subdocuments from the text in the specified range and returns a **SubDocument** object.
 
 
 ## Syntax

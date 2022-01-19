@@ -34,7 +34,7 @@ _expression_ A variable that represents a [UserDefinedProperties](Outlook.UserDe
 
 ## Return value
 
-A  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object that represents the specified object.
+A **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object that represents the specified object.
 
 
 ## See also

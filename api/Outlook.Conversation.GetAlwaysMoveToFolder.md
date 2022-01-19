@@ -41,12 +41,12 @@ A **Folder** object in the specified store to which all new items that arrive in
 
 If the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the **GetAlwaysMoveToFolder** method returns a **Folder** object that applies to conversation items on the default delivery store.
 
-If no folder, other than the  **Deleted Items** folder, has been specified to always move conversation items into, the **GetAlwaysMoveToFolder** method returns **Null** (**Nothing** in Visual Basic).
+If no folder, other than the **Deleted Items** folder, has been specified to always move conversation items into, the **GetAlwaysMoveToFolder** method returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Application (VBA) example shows how to find the folder into which new items that arrive in the conversation of the first mail item displayed in the Reading Pane are always moved. The code example,  `DemoGetAlwaysMoveToFolder`, verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, uses  **GetAlwaysMoveToFolder** to obtain the folder, and displays the folder name.
+The following Microsoft Visual Basic for Application (VBA) example shows how to find the folder into which new items that arrive in the conversation of the first mail item displayed in the Reading Pane are always moved. The code example,  `DemoGetAlwaysMoveToFolder`, verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, uses **GetAlwaysMoveToFolder** to obtain the folder, and displays the folder name.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.SetPresetCamera method (PowerPoint)
 
-Specifies the effects camera type and rotation to use for the specified  **ThreeDFormat** object.
+Specifies the effects camera type and rotation to use for the specified **ThreeDFormat** object.
 
 
 ## Syntax

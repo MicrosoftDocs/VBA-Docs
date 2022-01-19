@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.ActiveThesaurusDictionary property (Word)
 
-Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active thesaurus dictionary for the specified language.
+Returns a **[Dictionary](Word.Dictionary.md)** object that represents the active thesaurus dictionary for the specified language.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ActiveThesaurusDictionary`
 
 ## Remarks
 
-If there is no thesaurus dictionary installed for the specified language, this property returns  **Nothing**.
+If there is no thesaurus dictionary installed for the specified language, this property returns **Nothing**.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.FreeSlack property (Project)
 
-Gets the free slack for a task in minutes. Read-only  **Variant**.
+Gets the free slack for a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

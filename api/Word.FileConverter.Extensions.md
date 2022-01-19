@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FileConverter.Extensions property (Word)
 
-Returns the file name extensions associated with the specified  **FileConverter** object. Read-only **String**.
+Returns the file name extensions associated with the specified **FileConverter** object. Read-only **String**.
 
 
 ## Syntax

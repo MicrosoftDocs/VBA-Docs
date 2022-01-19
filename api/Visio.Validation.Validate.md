@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Validation](Visio.Validation.md)** 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RuleSet_|Optional| **[ValidationRuleSet](Visio.ValidationRuleSet.md)**|The rule set to validate across the entire document. |
-| _Flags_|Optional| **[VisValidationFlags](Visio.VisValidationFlags.md)**|Whether to open the  **Issues** window after validation.|
+| _Flags_|Optional| **[VisValidationFlags](Visio.VisValidationFlags.md)**|Whether to open the **Issues** window after validation.|
 
 ## Return value
 
@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[Validation](Visio.Validation.md)** 
 
 ## Remarks
 
-To validate all rule sets active in the document, pass  **Nothing** for _RuleSet_.
+To validate all rule sets active in the document, pass **Nothing** for _RuleSet_.
 
  _Flags_ must be one of the following **VisValidationFlags** constants.
 
@@ -48,17 +48,17 @@ To validate all rule sets active in the document, pass  **Nothing** for _RuleSet
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-| **visValidationDefault**|0|Validate document and open  **Issues** window. The default.|
-| **visValidationNoOpenWindow**|1|Validate document but do not open  **Issues** window.|
+| **visValidationDefault**|0|Validate document and open **Issues** window. The default.|
+| **visValidationNoOpenWindow**|1|Validate document but do not open **Issues** window.|
 
 If you do not set the optional  _Flags_ parameter, Microsoft Visio applies the default behavior (**visValidationDefault**).
 
-When you call the  **Validate** method, Microsoft Visio checks whether the rule set is active before evaluating it. Visio does not display message boxes during the evaluation, except to notify you if, when _Flags_ is set to **visValidationDefault**, it finds no errors; and it displays the progress bar only if **Application.ShowProgressBars** is **True**.
+When you call the **Validate** method, Microsoft Visio checks whether the rule set is active before evaluating it. Visio does not display message boxes during the evaluation, except to notify you if, when _Flags_ is set to **visValidationDefault**, it finds no errors; and it displays the progress bar only if **Application.ShowProgressBars** is **True**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Validate** method to validate the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Validate** method to validate the active document.
 
 
 ```vb

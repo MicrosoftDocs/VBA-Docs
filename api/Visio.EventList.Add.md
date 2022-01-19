@@ -31,9 +31,9 @@ _expression_ A variable that represents an **[EventList](Visio.EventList.md)** o
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventCode_|Required| **Integer**|The event(s) to capture.|
-| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
+| _Action_|Required| **Integer**|The action to perform. Must be **visActCodeRunAddon**, a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
 | _Target_|Required| **String**|The name of your add-on.|
-| _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
+| _TargetArgs_|Required| **String**|The string that is passed to your **Event** object to set its **TargetArgs** property.|
 
 ## Return value
 
@@ -42,15 +42,15 @@ Event
 
 ## Remarks
 
-The source object whose  **EventList** collection contains the **Event** object establishes the scope in which the events are reported. Events are reported for the source object and objects lower in the object model hierarchy. For example, to run an add-on when a particular document is opened, add an **Event** object for the **DocumentOpened** event to the **EventList** collection of that document. To run an add-on when any document is opened in an instance of the application, add the **Event** object to the **EventList** collection of the **Application** object.
+The source object whose **EventList** collection contains the **Event** object establishes the scope in which the events are reported. Events are reported for the source object and objects lower in the object model hierarchy. For example, to run an add-on when a particular document is opened, add an **Event** object for the **DocumentOpened** event to the **EventList** collection of that document. To run an add-on when any document is opened in an instance of the application, add the **Event** object to the **EventList** collection of the **Application** object.
 
-Creating  **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire, but when you create **Event** objects, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
+Creating **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire, but when you create **Event** objects, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
 
  **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True**.
 
-The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event**, **Action** (**visActCodeRunAddon**), **Target**, and **TargetArgs** properties.
+The arguments passed to the **Add** method set the initial values of the **Event** object's **Event**, **Action** (**visActCodeRunAddon**), **Target**, and **TargetArgs** properties.
 
-Event codes are declared by the Visio type library and have the prefix  **visEvt**. Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event that you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
+Event codes are declared by the Visio type library and have the prefix **visEvt**. Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event that you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 
 To create an **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
 

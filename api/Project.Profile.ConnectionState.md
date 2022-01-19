@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Profile.ConnectionState property (Project)
 
-Gets the connection state of Project Professional, which allows you to determine whether the online mode is for a local profile or for Project Server. Read-only  **PjProfileConnectionState**.
+Gets the connection state of Project Professional, which allows you to determine whether the online mode is for a local profile or for Project Server. Read-only **PjProfileConnectionState**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoFormatRules.RemoveAll method (Outlook)
 
-Removes all custom formatting rules from the  **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
+Removes all custom formatting rules from the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AutoFormatRules](Outlook.AutoFormatR
 
 ## Remarks
 
-This method removes every  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **False**.
+This method removes every **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **False**.
 
 
 ## See also

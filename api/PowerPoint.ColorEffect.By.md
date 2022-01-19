@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ColorEffect](PowerPoint.ColorEffect.m
 
 ## Remarks
 
-Do not confuse this property with the  **ByX** or **ByY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ByX** or **ByY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlockType.Name property (Word)
 
-Returns a  **String** that represents the localized name of a building block type. Read-only.
+Returns a **String** that represents the localized name of a building block type. Read-only.
 
 
 ## Syntax

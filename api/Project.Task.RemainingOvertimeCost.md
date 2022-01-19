@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.RemainingOvertimeCost property (Project)
 
-Gets the remaining overtime cost for the task. Read-only  **Variant**.
+Gets the remaining overtime cost for the task. Read-only **Variant**.
 
 
 ## Syntax

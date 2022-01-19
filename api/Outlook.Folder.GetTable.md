@@ -30,8 +30,8 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filter_|Optional| **String**|A filter in Microsoft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent  **Folder**.|
-| _TableContents_|Optional| **[OlTableContents](Outlook.OlTableContents.md)**|Specifies the type of items in the folder that  **GetTable** returns. The default is **olUserItems**.|
+| _Filter_|Optional| **String**|A filter in Microsoft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent **Folder**.|
+| _TableContents_|Optional| **[OlTableContents](Outlook.OlTableContents.md)**|Specifies the type of items in the folder that **GetTable** returns. The default is **olUserItems**.|
 
 ## Return value
 
@@ -46,12 +46,12 @@ For more information on filters, see [Filtering Items](../outlook/How-to/Search-
 
  **GetTable** returns a **Table** with the default column set for the folder type of the parent **Folder**. To modify the default column set, use the **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object. When _TableContents_ is **olHiddenItems**, the default column set is always the default column set for a mail folder even though the parent **Folder** might be, for example, a Contacts folder. For more information on default column sets, see [Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md).
 
-You can use  **[Table.Restrict](Outlook.Table.Restrict.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
+You can use **[Table.Restrict](Outlook.Table.Restrict.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
 
 
 ## Example
 
-The following code sample illustrates how to use  **Folder.GetTable** to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It then enumerates and prints the values of a couple of default properties of these items.
+The following code sample illustrates how to use **Folder.GetTable** to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It then enumerates and prints the values of a couple of default properties of these items.
 
 
 ```vb

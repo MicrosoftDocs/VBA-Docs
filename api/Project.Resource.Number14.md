@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.Number14 property (Project)
 
-Gets or sets a Number local custom field for a resource. Read/write  **Double**.
+Gets or sets a Number local custom field for a resource. Read/write **Double**.
 
 
 ## Syntax

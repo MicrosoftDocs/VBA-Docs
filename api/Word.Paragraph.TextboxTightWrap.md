@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.TextboxTightWrap property (Word)
 
-Returns or sets a  **[WdTextboxTightWrap](Word.WdTextboxTightWrap.md)** constant that represents how tightly text wraps around shapes or text boxes. Read/write.
+Returns or sets a **[WdTextboxTightWrap](Word.WdTextboxTightWrap.md)** constant that represents how tightly text wraps around shapes or text boxes. Read/write.
 
 
 ## Syntax

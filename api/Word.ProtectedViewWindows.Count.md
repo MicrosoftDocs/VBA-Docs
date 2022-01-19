@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProtectedViewWindows.Count property (Word)
 
-Returns a  **Long** that represents the number of Protected View windows in the collection. Read-only.
+Returns a **Long** that represents the number of Protected View windows in the collection. Read-only.
 
 
 ## Syntax

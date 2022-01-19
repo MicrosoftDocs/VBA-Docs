@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.StatusManagerName property (Project)
 
-Gets or sets the GUID of the enterprise resource responsible for accepting or rejecting assignment progress updates for the task. Read/write  **String**.
+Gets or sets the GUID of the enterprise resource responsible for accepting or rejecting assignment progress updates for the task. Read/write **String**.
 
 
 ## Syntax

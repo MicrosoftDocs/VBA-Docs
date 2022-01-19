@@ -41,13 +41,13 @@ Canceling this property will revert the control to the current value of the prop
 
 1. User focuses on the control
     
-2.  **BeforeUpdate** occurs
+2. **BeforeUpdate** occurs
     
 3. Control data is updated
     
-4.  **AfterUpdate** occurs
+4. **AfterUpdate** occurs
     
-5.  **[Exit](Outlook.OlkTimeZoneControl.Exit.md)** occurs: User moves focus away from control
+5. **[Exit](Outlook.OlkTimeZoneControl.Exit.md)** occurs: User moves focus away from control
     
 
 

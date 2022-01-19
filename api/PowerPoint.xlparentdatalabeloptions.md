@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # XlParentDataLabelOptions enumeration (PowerPoint)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 
 

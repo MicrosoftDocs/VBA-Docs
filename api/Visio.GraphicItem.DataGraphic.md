@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItem.DataGraphic property (Visio)
 
-Returns the  **Master** object of type **visTypeDataGraphic** that contains the graphic item. Read-only.
+Returns the **Master** object of type **visTypeDataGraphic** that contains the graphic item. Read-only.
 
 
 > [!NOTE] 

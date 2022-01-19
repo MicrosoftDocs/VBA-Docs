@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md
 
 ## Remarks
 
-The values of the  **StartField** and **[EndField](Outlook.CalendarView.EndField.md)** properties indicate which Outlook item properties are used by the **CalendarView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
+The values of the **StartField** and **[EndField](Outlook.CalendarView.EndField.md)** properties indicate which Outlook item properties are used by the **CalendarView** object to represent the duration of an Outlook item. Both custom and built-in properties can be specified, but only date/time properties are allowed.
 
 
 ## See also

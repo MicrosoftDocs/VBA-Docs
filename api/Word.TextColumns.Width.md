@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextColumns.Width property (Word)
 
-Returns or sets the width of the Word art text effects, in points. Read/write  **Long**.
+Returns or sets the width of the Word art text effects, in points. Read/write **Long**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriteria2.Count property (Project)
 
-Gets the number of  **GroupCriterion2** objects in the **GroupCriteria2** collection. Read-only **Long**.
+Gets the number of **GroupCriterion2** objects in the **GroupCriteria2** collection. Read-only **Long**.
 
 
 ## Syntax

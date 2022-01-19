@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields object (Word)
 
-A collection of  **[MailMergeField](Word.MailMergeField.md)** objects that represent the mail merge related fields in a document.
+A collection of **[MailMergeField](Word.MailMergeField.md)** objects that represent the mail merge related fields in a document.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _
  Name:="MiddleInitial"
 ```
 
-Use  **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
+Use **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
 
 
 

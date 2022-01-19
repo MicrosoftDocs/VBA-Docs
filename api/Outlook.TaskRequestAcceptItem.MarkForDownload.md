@@ -31,7 +31,7 @@ This property gives remote users with less-than-ideal data-transfer capabilities
 
 ## Example
 
-The following example searches through the user's  **Inbox** for items that have not yet been fully downloaded. If any items are found that are not fully downloaded, a message is displayed and the item is marked for download.
+The following example searches through the user's **Inbox** for items that have not yet been fully downloaded. If any items are found that are not fully downloaded, a message is displayed and the item is marked for download.
 
 
 ```vb

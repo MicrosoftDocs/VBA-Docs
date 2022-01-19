@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Style.Frame property (Word)
 
-Returns a  **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style. Read-only.
+Returns a **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style. Read-only.
 
 
 ## Syntax

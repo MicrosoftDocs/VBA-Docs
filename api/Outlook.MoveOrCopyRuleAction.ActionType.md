@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MoveOrCopyRuleAction.ActionType property (Outlook)
 
-Returns a constant,  **olRuleActionMoveToFolder**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant, **olRuleActionMoveToFolder**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

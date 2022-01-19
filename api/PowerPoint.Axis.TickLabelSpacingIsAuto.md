@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabelSpacingIsAuto property (PowerPoint)
 
-Returns or sets a value that indicates whether the tick label spacing is automatic. Read/write  **Boolean**.
+Returns or sets a value that indicates whether the tick label spacing is automatic. Read/write **Boolean**.
 
 
 ## Syntax

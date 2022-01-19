@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.RevisedLinesMark property (Word)
 
-Returns or sets the placement of changed lines in a document with tracked changes. Read/write  **WdRevisedLinesMark**.
+Returns or sets the placement of changed lines in a document with tracked changes. Read/write **WdRevisedLinesMark**.
 
 
 ## Syntax

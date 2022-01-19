@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSnapSettings enumeration (Visio)
 
-Flags passed to or returned by the  **Document.SnapSettings** property.
+Flags passed to or returned by the **Document.SnapSettings** property.
 
 
 

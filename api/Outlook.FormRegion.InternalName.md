@@ -30,7 +30,7 @@ The internal name is required for a form region. The `<name>` tag in the corresp
 
 For more information about the XML schema for form regions, download the [Microsoft Outlook 2010 XML Schema Reference](https://www.microsoft.com/en-us/download/details.aspx?id=22609).
 
-The value of the  **InternalName** property is used by the add-in or Microsoft Outlook to refer to the form region, for example, to determine which form region is being loaded or to load strings from the localized string resources. The **InternalName** property supports only ASCII characters. The string is case-insensitive, and its maximum length is 256 characters.
+The value of the **InternalName** property is used by the add-in or Microsoft Outlook to refer to the form region, for example, to determine which form region is being loaded or to load strings from the localized string resources. The **InternalName** property supports only ASCII characters. The string is case-insensitive, and its maximum length is 256 characters.
 
 
 ## See also

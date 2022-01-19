@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.CreateAutoTextEntry method (Word)
 
-Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoTextEntries](Word.autotextentries.md)** collection, based on the current selection.
+Adds a new **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoTextEntries](Word.autotextentries.md)** collection, based on the current selection.
 
 
 ## Syntax

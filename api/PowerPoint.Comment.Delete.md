@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Comment.Delete method (PowerPoint)
 
-Deletes the specified  **Comment** object.
+Deletes the specified **Comment** object.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.DefaultView property (Project)
 
-Gets or sets the name of the view that appears when you start Project. Read/write  **String**.
+Gets or sets the name of the view that appears when you start Project. Read/write **String**.
 
 
 ## Syntax

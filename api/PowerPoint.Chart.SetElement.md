@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.SetElement method (PowerPoint)
 
-Sets chart elements on a chart. Read/write  **MsoChartElementType**.
+Sets chart elements on a chart. Read/write **MsoChartElementType**.
 
 
 ## Syntax
@@ -34,16 +34,16 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 ## Remarks
 
-For charts, the following commands in the  **Layout** tab correspond to the **SetElement** method:
+For charts, the following commands in the **Layout** tab correspond to the **SetElement** method:
 
 
-- Everything in the  **Labels** group.
+- Everything in the **Labels** group.
     
-- Everything in the  **Axes** group.
+- Everything in the **Axes** group.
     
-- Everything in the  **Analysis** group.
+- Everything in the **Analysis** group.
     
-- **PlotArea**,  **Chart Wall**, and  **Chart Floor** buttons.
+- **PlotArea**, **Chart Wall**, and **Chart Floor** buttons.
     
 
 

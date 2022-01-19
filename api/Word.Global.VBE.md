@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.VBE property (Word)
 
-Returns a  **VBE** object that represents the Visual Basic Editor.
+Returns a **VBE** object that represents the Visual Basic Editor.
 
 
 ## Syntax

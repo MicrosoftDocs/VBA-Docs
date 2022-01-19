@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Slide.Delete method (PowerPoint)
 
-Deletes the specified  **Slide** object.
+Deletes the specified **Slide** object.
 
 
 ## Syntax

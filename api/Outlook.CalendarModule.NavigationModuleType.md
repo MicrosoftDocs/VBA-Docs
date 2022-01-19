@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property returns  **olModuleCalendar** for the **[CalendarModule](Outlook.CalendarModule.md)** object.
+This property returns **olModuleCalendar** for the **[CalendarModule](Outlook.CalendarModule.md)** object.
 
 
 ## See also

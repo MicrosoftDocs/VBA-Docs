@@ -43,16 +43,16 @@ The **GetTable** method returns a **Table** that has all items of the conversati
 |4| **LastModificationTime**|
 |5| **MessageClass**|
 
-By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
+By default, the rows in the table are sorted by the **ConversationIndex** property of the items.
 
-To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
+To modify the default column set, use the **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
 
 The **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) code example,  `DemoConversationTable`, assumes that there is a mail item opened in an inspector.  `DemoConversationTable` gets a **[Conversation](Outlook.Conversation.md)** object based on this mail item, and calls the **GetTable** method to get a **Table** of all the conversation items. To get specific information for each item in the conversation, which can span across stores, `DemoConversationTable` adds the store entry ID property, `https://schemas.microsoft.com/mapi/proptag/0x0FFB0102`, as a column to the table. As `DemoConversationTable` enumerates each item (represented by a row) in the table, it uses the store entry ID property that corresponds to that item to call the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain the item object. The example then displays the subject and the number of attachments for that item.
+The following Visual Basic for Applications (VBA) code example,  `DemoConversationTable`, assumes that there is a mail item opened in an inspector. `DemoConversationTable` gets a **[Conversation](Outlook.Conversation.md)** object based on this mail item, and calls the **GetTable** method to get a **Table** of all the conversation items. To get specific information for each item in the conversation, which can span across stores, `DemoConversationTable` adds the store entry ID property, `https://schemas.microsoft.com/mapi/proptag/0x0FFB0102`, as a column to the table. As `DemoConversationTable` enumerates each item (represented by a row) in the table, it uses the store entry ID property that corresponds to that item to call the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain the item object. The example then displays the subject and the number of attachments for that item.
 
 
 > [!NOTE] 

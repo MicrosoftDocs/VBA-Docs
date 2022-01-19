@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Union** method is equivalent to clicking **Union** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape.
+Calling the **Union** method is equivalent to clicking **Union** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape.
 
 When the operation is complete, the original shapes are deleted and no shapes are selected.
 

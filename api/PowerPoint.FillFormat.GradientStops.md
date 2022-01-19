@@ -31,12 +31,12 @@ GradientStops
 
 ## Remarks
 
-You can use the  **[GradientStops.Insert](Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
+You can use the **[GradientStops.Insert](Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example
 
-The following example shows how to add a gradient stop at the 50% position to the  **GradientStops** collection of the fill format of the first shape on the first slide of the active presentation. For this example to work, the shape must already have a gradient fill applied.
+The following example shows how to add a gradient stop at the 50% position to the **GradientStops** collection of the fill format of the first shape on the first slide of the active presentation. For this example to work, the shape must already have a gradient fill applied.
 
 
 ```vb

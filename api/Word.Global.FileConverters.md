@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.FileConverters property (Word)
 
-Returns a  **[FileConverters](Word.fileconverters.md)** collection that represents all the file converters available to Microsoft Word. Read-only.
+Returns a **[FileConverters](Word.fileconverters.md)** collection that represents all the file converters available to Microsoft Word. Read-only.
 
 
 ## Syntax

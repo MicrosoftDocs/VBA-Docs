@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Title property (Project)
-Gets or sets the title of the shapes in the shape range. Read/write  **String**.
+Gets or sets the title of the shapes in the shape range. Read/write **String**.
 
 ## Syntax
 

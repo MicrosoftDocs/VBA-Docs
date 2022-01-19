@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Event.SetFilterSRC method (Visio)
 
-Specifies an array of cell ranges and a  **True** or **False** value indicating how to filter events for each cell range.
+Specifies an array of cell ranges and a **True** or **False** value indicating how to filter events for each cell range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SRCStream()_|Required| **Integer**|An array of cell ranges and a  **True** or **False** value specifying how to filter events for each range.|
+| _SRCStream()_|Required| **Integer**|An array of cell ranges and a **True** or **False** value specifying how to filter events for each range.|
 
 ## Return value
 
@@ -52,7 +52,7 @@ The number of elements in the array is a multiple of 7:
     
 - The next three elements describe the section, row, and cell of the end cell of the range.
     
-- The last element contains a  **True** or **False** value indicating how to filter events for the cell range (**True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
+- The last element contains a **True** or **False** value indicating how to filter events for the cell range (**True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
     
 
 
@@ -63,15 +63,15 @@ For an event to successfully pass through a cell range filter, it must satisfy t
 
 - It must be a valid section, row, cell reference.
     
-- If all filters are  **True**, the event must match at least one filter.
+- If all filters are **True**, the event must match at least one filter.
     
-- If all filters are  **False**, the event must not match any filter.
+- If all filters are **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True**.
+If there are no **True** ranges defined in the array, events are considered **True**.
 
 For example, if you want to listen for any changes in the Value cell of the second row in the Shape Data section, use the following:
 

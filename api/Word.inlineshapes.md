@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # InlineShapes object (Word)
 
-A collection of  **InlineShape** objects that represent all the inline shapes in a document, range, or selection.
+A collection of **InlineShape** objects that represent all the inline shapes in a document, range, or selection.
 
 
 ## Remarks

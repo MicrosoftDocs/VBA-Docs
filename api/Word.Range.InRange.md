@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.InRange method (Word)
 
-Returns  **True** if the range to which the method is applied is contained in the range specified by the Range argument.
+Returns **True** if the range to which the method is applied is contained in the range specified by the Range argument.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified  **Range** object.|
+| _Range_|Required| **Range**|Specifies the range that this method uses to determine if it is contained within the specified **Range** object.|
 
 ## Return value
 

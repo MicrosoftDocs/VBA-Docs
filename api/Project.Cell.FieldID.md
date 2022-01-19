@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.FieldID property (Project)
 
-Gets the identification number of the task or resource field in the active cell. Read-only  **Long**.
+Gets the identification number of the task or resource field in the active cell. Read-only **Long**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 ## Remarks
 
-If the active cell contains a task, can be one of the following  **[PjField](Project.PjField.md)** constants:
+If the active cell contains a task, can be one of the following **[PjField](Project.PjField.md)** constants:
 
 
 |||
@@ -116,7 +116,7 @@ If the active cell contains a task, can be one of the following  **[PjField](Pro
 |**pjTaskHyperlinkHref**|**pjTaskWorkVariance**|
 |**pjTaskHyperlinkScreenTip**||
 
-If the active cell contains a resource, can be one of the following  **PjField** constants:
+If the active cell contains a resource, can be one of the following **PjField** constants:
 
 
 |||

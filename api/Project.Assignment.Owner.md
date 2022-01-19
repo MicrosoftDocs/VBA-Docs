@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Owner property (Project)
 
-Gets or sets the name of the assignment owner. Read/write  **String**.
+Gets or sets the name of the assignment owner. Read/write **String**.
 
 
 ## Syntax

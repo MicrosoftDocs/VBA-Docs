@@ -14,16 +14,16 @@ ms.localizationpriority: medium
 
 # Recipients object (Outlook)
 
-Contains a collection of  **[Recipient](Outlook.Recipient.md)** objects for an Outlook item.
+Contains a collection of **[Recipient](Outlook.Recipient.md)** objects for an Outlook item.
 
 
 ## Remarks
 
-Use the  **Recipients** property to return the **Recipients** object of an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[JournalItem](Outlook.JournalItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** object.
+Use the **Recipients** property to return the **Recipients** object of an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[JournalItem](Outlook.JournalItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** object.
 
-Use the  **[Add](Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **Recipients** object. The **[Type](Outlook.Recipient.Type.md)** property of a new **Recipient** object is set to the default for the associated **AppointmentItem**, **JournalItem**, **MailItem**, or **TaskItem** object and must be reset to indicate another recipient type.
+Use the **[Add](Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **Recipients** object. The **[Type](Outlook.Recipient.Type.md)** property of a new **Recipient** object is set to the default for the associated **AppointmentItem**, **JournalItem**, **MailItem**, or **TaskItem** object and must be reset to indicate another recipient type.
 
-Use  **Recipients** (_index_), where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string representing the display name, the alias, or the full SMTP email address of the recipient.
+Use **Recipients** (_index_), where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string representing the display name, the alias, or the full SMTP email address of the recipient.
 
 
 ## Example
@@ -37,7 +37,7 @@ Set myItem = Application.CreateItem(olMailItem)
 Set myRecipient = myItem.Recipients.Add ("Jon Grande")
 ```
 
-The following example creates the same  **MailItem** object as the preceding example, and then changes the type of the **Recipient** object from the default ("To") to CC.
+The following example creates the same **MailItem** object as the preceding example, and then changes the type of the **Recipient** object from the default ("To") to CC.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Placeholders.Item method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **Placeholders** collection.
+Returns a single **Shape** object from the specified **Placeholders** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Placeholders](PowerPoint.Placeholders
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Shape** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Shape** object in the collection to be returned.|
 
 ## Return value
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # PpSlideShowType enumeration (PowerPoint)
 
-Constants that specify the type of slide show, passed to and returned by the  **ShowType** property of the **SlideShowSettings** object.
+Constants that specify the type of slide show, passed to and returned by the **ShowType** property of the **SlideShowSettings** object.
 
 
 

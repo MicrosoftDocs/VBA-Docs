@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMaths.Add method (Word)
 
-Creates an equation, from the text equation contained within the specified range, and returns a  **Range** object that contains the new equation.
+Creates an equation, from the text equation contained within the specified range, and returns a **Range** object that contains the new equation.
 
 
 ## Syntax

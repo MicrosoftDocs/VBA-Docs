@@ -26,9 +26,9 @@ _expression_ A variable that represents a [ColorEffect](PowerPoint.ColorEffect.m
 
 ## Remarks
 
-Use this property in conjunction with the  **[To](PowerPoint.ColorEffect.To.md)** property to transition from one color to another.
+Use this property in conjunction with the **[To](PowerPoint.ColorEffect.To.md)** property to transition from one color to another.
 
-Do not confuse this property with the  **FromX** or **FromY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **FromX** or **FromY** properties of the **[ScaleEffect](PowerPoint.ScaleEffect.md)** and **[MotionEffect](PowerPoint.MotionEffect.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

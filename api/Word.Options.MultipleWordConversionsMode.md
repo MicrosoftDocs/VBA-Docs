@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.MultipleWordConversionsMode property (Word)
 
-Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMultipleWordConversionsMode**.
+Returns or sets the direction for conversion between Hangul and Hanja. Read/write **WdMultipleWordConversionsMode**.
 
 
 ## Syntax

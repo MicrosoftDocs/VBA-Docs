@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PublishObjects.Item method (PowerPoint)
 
-Returns a single  **PublishObject** object from the specified **PublishObjects** collection.
+Returns a single **PublishObject** object from the specified **PublishObjects** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [PublishObjects](PowerPoint.PublishObj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **PublishObject** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **PublishObject** object in the collection to be returned.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.BarShape property (PowerPoint)
 
-Returns or sets the shape used for every series in a 3D bar or column chart. Read/write  **[XlBarShape](PowerPoint.XlBarShape.md)**.
+Returns or sets the shape used for every series in a 3D bar or column chart. Read/write **[XlBarShape](PowerPoint.XlBarShape.md)**.
 
 
 ## Syntax

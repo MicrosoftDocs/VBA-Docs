@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Dictionary object (Word)
 
-Represents a dictionary.  **Dictionary** objects that represent custom dictionaries are members of the **[Dictionaries](Word.dictionaries.md)** collection. Other dictionary objects are returned by properties of the **[Languages](Word.languages.md)** collection; these include the **[ActiveSpellingDictionary](Word.Language.ActiveSpellingDictionary.md)**, **[ActiveGrammarDictionary](Word.Language.ActiveGrammarDictionary.md)**, **[ActiveThesaurusDictionary](Word.Language.ActiveThesaurusDictionary.md)**, and **[ActiveHyphenationDictionary](Word.Language.ActiveHyphenationDictionary.md)** properties.
+Represents a dictionary. **Dictionary** objects that represent custom dictionaries are members of the **[Dictionaries](Word.dictionaries.md)** collection. Other dictionary objects are returned by properties of the **[Languages](Word.languages.md)** collection; these include the **[ActiveSpellingDictionary](Word.Language.ActiveSpellingDictionary.md)**, **[ActiveGrammarDictionary](Word.Language.ActiveGrammarDictionary.md)**, **[ActiveThesaurusDictionary](Word.Language.ActiveThesaurusDictionary.md)**, and **[ActiveHyphenationDictionary](Word.Language.ActiveHyphenationDictionary.md)** properties.
 
 
 ## Remarks
 
-Use  **[CustomDictionaries](Word.Application.CustomDictionaries.md)** (Index), where Index is an index number or the string name for the dictionary, to return a single **Dictionary** object that represents a custom dictionary. The following example returns the first dictionary in the collection.
+Use **[CustomDictionaries](Word.Application.CustomDictionaries.md)** (Index), where Index is an index number or the string name for the dictionary, to return a single **Dictionary** object that represents a custom dictionary. The following example returns the first dictionary in the collection.
 
 
 ```vb

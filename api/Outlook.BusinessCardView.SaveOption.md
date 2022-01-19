@@ -26,7 +26,7 @@ _expression_. `SaveOption`
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[BusinessCardView](Outlook.businesscardView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the **SaveOption** property is set when the **[BusinessCardView](Outlook.businesscardView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example

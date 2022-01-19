@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLMapping.SetMappingByNode method (Word)
 
-Allows creating or changing the XML data mapping on a content control. Returns  **True** if Microsoft Word maps the content control to a custom XML node in the document's custom XML data store.
+Allows creating or changing the XML data mapping on a content control. Returns **True** if Microsoft Word maps the content control to a custom XML node in the document's custom XML data store.
 
 
 ## Syntax

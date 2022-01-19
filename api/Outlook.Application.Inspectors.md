@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Example
 
-This Microsoft Visual Basic example uses the  **[Inspectors](Outlook.Application.Inspectors.md)** property and the **[Count](Outlook.Inspectors.Count.md)** property and **[Item](Outlook.Inspectors.Item.md)** method of the **[Inspectors](Outlook.Inspectors.md)** object to display the captions of all inspector windows.
+This Microsoft Visual Basic example uses the **[Inspectors](Outlook.Application.Inspectors.md)** property and the **[Count](Outlook.Inspectors.Count.md)** property and **[Item](Outlook.Inspectors.Item.md)** method of the **[Inspectors](Outlook.Inspectors.md)** object to display the captions of all inspector windows.
 
 
 ```vb

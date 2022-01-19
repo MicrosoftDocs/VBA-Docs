@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 
 # Series.Values property (Project)
-Gets the vertical (Y) axis values for the data series on a chart. Read-only  **Variant**.
+Gets the vertical (Y) axis values for the data series on a chart. Read-only **Variant**.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Design.Delete method (PowerPoint)
 
-Deletes the specified  **Design** object.
+Deletes the specified **Design** object.
 
 
 ## Syntax

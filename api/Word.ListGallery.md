@@ -19,11 +19,11 @@ Represents a single gallery of list formats. The **ListGallery** object is a mem
 
 ## Remarks
 
-Each  **ListGallery** object represents one of the three tabs in the **Bullets and Numbering** dialog box.
+Each **ListGallery** object represents one of the three tabs in the **Bullets and Numbering** dialog box.
 
-Use  **ListGalleries** (Index), where Index is **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**, to return a single **ListGallery** object.
+Use **ListGalleries** (Index), where Index is **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**, to return a single **ListGallery** object.
 
-The following example returns the third list format (excluding  **None**) on the **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
+The following example returns the third list format (excluding **None**) on the **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
 
 
 

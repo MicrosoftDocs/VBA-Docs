@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ArbitraryXMLSupportAvailable property (Word)
 
-Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
+Returns a **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
 
 
 ## Syntax

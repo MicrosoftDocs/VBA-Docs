@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisVerticalAlignTypes enumeration (Visio)
 
-Vertical alignment type values to pass to the  **Selection.Align** method.
+Vertical alignment type values to pass to the **Selection.Align** method.
 
 
 

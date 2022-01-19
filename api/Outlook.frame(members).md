@@ -18,11 +18,11 @@ Represents a functional and visual control group.
 | [Copy](Outlook.Frame.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.Frame.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
 | [Paste](Outlook.Frame.paste.md)|Transfers the contents of the Clipboard to an object.|
-| [RedoAction](Outlook.Frame.redoaction.md)|Reverses the effect of the most recent  **Undo** action.|
+| [RedoAction](Outlook.Frame.redoaction.md)|Reverses the effect of the most recent **Undo** action.|
 | [Repaint](Outlook.Frame.repaint.md)|Updates the display by redrawing the frame.|
 | [Scroll](Outlook.Frame.scroll.md)|Moves the scroll bar on an object.|
-| [SetDefaultTabOrder](Outlook.Frame.setdefaulttaborder.md)|Sets the  **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.|
-| [UndoAction](Outlook.Frame.undoaction.md)|Reverses the most recent action that supports the  **Undo** command.|
+| [SetDefaultTabOrder](Outlook.Frame.setdefaulttaborder.md)|Sets the **TabIndex** property of each control on a frame or page, using a default top-to-bottom, left-to-right tab order.|
+| [UndoAction](Outlook.Frame.undoaction.md)|Reverses the most recent action that supports the **Undo** command.|
 
 ## Properties
 

@@ -25,6 +25,6 @@ _expression_ A variable that represents a **TextBox** object.
 
 The **IntegralHeight** property relates to the height of the text box, just as the **[AutoSize](Outlook.textbox.autosize.md)** property relates to the width of the text box.
 
-If  **IntegralHeight** is **True**, the text box automatically resizes when necessary to show full rows. If  **False**, the text box remains a fixed size; if items are taller than the available space in the text box, the entire item is not shown.
+If **IntegralHeight** is **True**, the text box automatically resizes when necessary to show full rows. If **False**, the text box remains a fixed size; if items are taller than the available space in the text box, the entire item is not shown.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

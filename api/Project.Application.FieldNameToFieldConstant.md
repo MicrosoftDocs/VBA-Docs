@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FieldName_|Required|**String**|The name of the local or enterprise custom field.|
-| _FieldType_|Optional|**Long**|The type of field. Can be one of the following  **[PjFieldType](Project.PjFieldType.md)** constants: **pjProject**, **pjResource**, or **pjTask**. The default value is **pjTask**.|
+| _FieldType_|Optional|**Long**|The type of field. Can be one of the following **[PjFieldType](Project.PjFieldType.md)** constants: **pjProject**, **pjResource**, or **pjTask**. The default value is **pjTask**.|
 
 ## Return value
 
@@ -54,7 +54,7 @@ You can access project custom fields through the **ProjectSummaryTask** property
 The following example shows the difference between the **FieldNameToFieldConstant** method and the **[FieldConstantToFieldName](Project.Application.FieldConstantToFieldName.md)** method:
 
 
-1. To use the example, use Project Web App to create an enterprise project text custom field named  **TestEntProjText**. 
+1. To use the example, use Project Web App to create an enterprise project text custom field named **TestEntProjText**. 
     
 2. Restart Project with a Project Server profile so that it includes the new custom field.
     

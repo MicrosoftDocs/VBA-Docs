@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Build property (Word)
 
-Returns the version and build number of the Word application. Read-only  **String**.
+Returns the version and build number of the Word application. Read-only **String**.
 
 
 ## Syntax

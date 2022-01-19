@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.PresetLightingDirection property (Word)
 
-Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection**.
+Returns or sets the position of the light source relative to the extrusion. Read/write **MsoPresetLightingDirection**.
 
 
 ## Syntax

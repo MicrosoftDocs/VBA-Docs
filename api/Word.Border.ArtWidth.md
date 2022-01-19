@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Border.ArtWidth property (Word)
 
-Returns or sets the width (in points) of the specified graphical page border. Read/write  **Long**.
+Returns or sets the width (in points) of the specified graphical page border. Read/write **Long**.
 
 
 ## Syntax

@@ -26,12 +26,12 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 ## Remarks
 
-Some  **Explorer** objects may not have an associated **NavigationPane** object. In such cases, this property returns **Null** (**Nothing** in Visual Basic.)
+Some **Explorer** objects may not have an associated **NavigationPane** object. In such cases, this property returns **Null** (**Nothing** in Visual Basic.)
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample retrieves the  **NavigationPane** object from the active **Explorer** object and then displays information about the number of navigation modules contained and displayed by the object.
+The following Visual Basic for Applications (VBA) sample retrieves the **NavigationPane** object from the active **Explorer** object and then displays information about the number of navigation modules contained and displayed by the object.
 
 
 ```vb

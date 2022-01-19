@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NotesModule](Outlook.NotesModule.md) 
 
 ## Remarks
 
-This property returns  **olNotesModule** for the **[NotesModule](Outlook.NotesModule.md)** object.
+This property returns **olNotesModule** for the **[NotesModule](Outlook.NotesModule.md)** object.
 
 
 ## See also

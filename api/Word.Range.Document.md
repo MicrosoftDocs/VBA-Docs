@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Document property (Word)
 
-Returns a  **[Document](Word.Document.md)** object associated with the specified range. Read-only.
+Returns a **[Document](Word.Document.md)** object associated with the specified range. Read-only.
 
 
 ## Syntax

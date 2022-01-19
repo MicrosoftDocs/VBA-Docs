@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[MailItem.Send](Outlook.MailItem.Send(even).md)** event and sends an item with an automatic expiration date.
+This Visual Basic for Applications (VBA) example uses the **[MailItem.Send](Outlook.MailItem.Send(even).md)** event and sends an item with an automatic expiration date.
 
 
 ```vb

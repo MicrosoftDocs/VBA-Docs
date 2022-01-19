@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Shapes object (PowerPoint)
 
-A collection of all the  **[Shape](PowerPoint.Shape.md)** objects on the specified slide.
+A collection of all the **[Shape](PowerPoint.Shape.md)** objects on the specified slide.
 
 
 ## Remarks
 
-Each  **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
+Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 
 > [!NOTE] 
@@ -28,7 +28,7 @@ Each  **Shape** object represents an object in the drawing layer, such as an Aut
 
 ## Example
 
-Use the  **Shapes** property to return the **Shapes** collection. The following example selects all the shapes in the active presentation.
+Use the **Shapes** property to return the **Shapes** collection. The following example selects all the shapes in the active presentation.
 
 
 ```vb
@@ -39,7 +39,7 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 > [!NOTE] 
 > If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](PowerPoint.Shapes.Range.md)method with no argument to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use the [AddCallout](PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](PowerPoint.Shapes.AddConnector.md), [AddCurve](PowerPoint.Shapes.AddCurve.md), [AddLabel](PowerPoint.Shapes.AddLabel.md), [AddLine](PowerPoint.Shapes.AddLine.md), [AddMediaObject](PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](PowerPoint.Shapes.AddOLEObject.md), [AddPicture](PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](PowerPoint.Shapes.AddPolyline.md), [AddShape](PowerPoint.Shapes.AddShape.md), [AddTable](PowerPoint.Shapes.AddTable.md), [AddTextbox](PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the  **Shapes** collection. Use the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
+Use the [AddCallout](PowerPoint.Shapes.AddCallout.md), [AddComment](overview/PowerPoint.md), [AddConnector](PowerPoint.Shapes.AddConnector.md), [AddCurve](PowerPoint.Shapes.AddCurve.md), [AddLabel](PowerPoint.Shapes.AddLabel.md), [AddLine](PowerPoint.Shapes.AddLine.md), [AddMediaObject](PowerPoint.Shapes.AddMediaObject.md), [AddOLEObject](PowerPoint.Shapes.AddOLEObject.md), [AddPicture](PowerPoint.Shapes.AddPicture.md), [AddPlaceholder](PowerPoint.Shapes.AddPlaceholder.md), [AddPolyline](PowerPoint.Shapes.AddPolyline.md), [AddShape](PowerPoint.Shapes.AddShape.md), [AddTable](PowerPoint.Shapes.AddTable.md), [AddTextbox](PowerPoint.Shapes.AddTextbox.md), [AddTextEffect](PowerPoint.Shapes.AddTextEffect.md), or [AddTitle](PowerPoint.Shapes.AddTitle.md)method to create a new shape and add it to the **Shapes** collection. Use the [BuildFreeform](PowerPoint.Shapes.BuildFreeform.md)method in conjunction with the [ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 
 
 
@@ -50,7 +50,7 @@ ActivePresentation.Slides(1).Shapes.AddShape Type:=msoShapeRectangle, _
     Left:=50, Top:=50, Width:=100, Height:=200
 ```
 
-Use  **Shapes** (_index_), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
+Use **Shapes** (_index_), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
 
 
 
@@ -63,7 +63,7 @@ ActivePresentation.Slides(1).Shapes(1).Fill _
     PresetGradientType:=msoGradientBrass
 ```
 
-Use  **Shapes.Range** (_index_), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](PowerPoint.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
+Use **Shapes.Range** (_index_), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](PowerPoint.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
 
 
 
@@ -74,7 +74,7 @@ ActivePresentation.Slides(1).Shapes.Range(Array(1, 3)).Fill _
     .Patterned Pattern:=msoPatternHorizontalBrick
 ```
 
-Use  **Shapes.Placeholders** (_index_), where _index_ is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
+Use **Shapes.Placeholders** (_index_), where _index_ is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
 
 
 

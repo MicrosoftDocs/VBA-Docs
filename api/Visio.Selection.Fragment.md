@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Fragment** method is equivalent to clicking **Fragment** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shapes are the topmost shapes in the containing shape of the selected shapes. They inherit the formatting of the first selected shape and have no text.
+Calling the **Fragment** method is equivalent to clicking **Fragment** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shapes are the topmost shapes in the containing shape of the selected shapes. They inherit the formatting of the first selected shape and have no text.
 
 The original shapes are deleted and there aren't any shapes selected when the operation is complete.
 

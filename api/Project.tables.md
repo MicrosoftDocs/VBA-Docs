@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Tables object (Project)
 
-Contains a collection of  **[Table](Project.Table.md)** objects.
+Contains a collection of **[Table](Project.Table.md)** objects.
 
 
 ## Methods

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Tables property (Word)
 
-Returns a  **Tables** collection that represents all the tables in the specified range. Read-only.
+Returns a **Tables** collection that represents all the tables in the specified range. Read-only.
 
 
 ## Syntax

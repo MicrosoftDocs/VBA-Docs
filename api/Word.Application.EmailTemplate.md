@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EmailTemplate property (Word)
 
-Returns or sets a  **String** that represents the document template to use when sending email messages. Read/write.
+Returns or sets a **String** that represents the document template to use when sending email messages. Read/write.
 
 
 ## Syntax

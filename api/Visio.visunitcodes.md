@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUnitCodes enumeration (Visio)
 
-Unit codes used in conjunction with  **Cell.Result** and similar properties.
+Unit codes used in conjunction with **Cell.Result** and similar properties.
 
 
 

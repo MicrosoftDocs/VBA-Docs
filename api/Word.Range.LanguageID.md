@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.LanguageID property (Word)
 
-Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified range. Read/write.
+Returns or sets a **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified range. Read/write.
 
 
 ## Syntax

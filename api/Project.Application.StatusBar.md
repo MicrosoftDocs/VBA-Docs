@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.StatusBar property (Project)
 
-Gets or sets text in the status bar. Read/write  **Variant**.
+Gets or sets text in the status bar. Read/write **Variant**.
 
 
 ## Syntax

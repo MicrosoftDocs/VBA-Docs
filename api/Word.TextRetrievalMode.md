@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextRetrievalMode object (Word)
 
-Represents options that control how text is retrieved from a  **Range** object.
+Represents options that control how text is retrieved from a **Range** object.
 
 
 ## Remarks

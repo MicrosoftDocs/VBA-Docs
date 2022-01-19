@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDrawSplineFlags enumeration (Visio)
 
-Flags to pass to the  **DrawSpline** and **DrawPolyline** methods.
+Flags to pass to the **DrawSpline** and **DrawPolyline** methods.
 
 
 

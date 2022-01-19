@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.NoLineBreakAfter property (Word)
 
-Returns or sets the kinsoku characters after which Microsoft Word will not break a line. Read/write  **String**.
+Returns or sets the kinsoku characters after which Microsoft Word will not break a line. Read/write **String**.
 
 
 ## Syntax

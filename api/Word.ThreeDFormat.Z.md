@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.Z property (Word)
 
-Returns or sets a  **Single** that represents the z-axis for the shape. Read/write.
+Returns or sets a **Single** that represents the z-axis for the shape. Read/write.
 
 
 ## Syntax

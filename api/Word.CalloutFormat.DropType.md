@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CalloutFormat.DropType property (Word)
 
-Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **MsoCalloutDropType**.
+Returns a value that indicates where the callout line attaches to the callout text box. Read-only **MsoCalloutDropType**.
 
 
 ## Syntax

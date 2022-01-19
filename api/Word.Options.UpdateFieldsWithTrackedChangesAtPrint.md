@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Options](Word.Options.md)** object
 
 ## Remarks
 
-Setting this property has the same effect as selecting or unselecting the check box next to  **Allow fields containing tracked changes to update before printing** in the **Word Options** dialog (**Advanced** tab, **Print**) in Word. 
+Setting this property has the same effect as selecting or unselecting the check box next to **Allow fields containing tracked changes to update before printing** in the **Word Options** dialog (**Advanced** tab, **Print**) in Word. 
 
 
 ## See also

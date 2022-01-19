@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlinks.Add method (Word)
 
-Returns a  **Hyperlink** object that represents a new hyperlink added to a range, selection, or document.
+Returns a **Hyperlink** object that represents a new hyperlink added to a range, selection, or document.
 
 
 ## Syntax

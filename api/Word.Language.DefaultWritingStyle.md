@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Language.DefaultWritingStyle property (Word)
 
-Returns or sets the default writing style used by the grammar checker for the specified language. Read/write  **String**.
+Returns or sets the default writing style used by the grammar checker for the specified language. Read/write **String**.
 
 
 ## Syntax

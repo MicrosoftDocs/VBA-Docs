@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Item method (Project)
-Gets an individual  **Shape** object in the shape range collection.
+Gets an individual **Shape** object in the shape range collection.
 
 ## Syntax
 

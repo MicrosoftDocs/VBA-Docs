@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.RevisionsBalloonWidth property (Word)
 
-Sets or returns a  **Single** representing the global setting in Microsoft Word that specifies the width of the revision balloons. Read/write.
+Sets or returns a **Single** representing the global setting in Microsoft Word that specifies the width of the revision balloons. Read/write.
 
 
 ## Syntax

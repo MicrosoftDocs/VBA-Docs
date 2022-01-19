@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.HorizontalAnchor property (Word)
 
-Returns or sets the horizontal alignment of text in a text frame. Read/write  **[MsoHorizontalAnchor](Office.MsoHorizontalAnchor.md)**.
+Returns or sets the horizontal alignment of text in a text frame. Read/write **[MsoHorizontalAnchor](Office.MsoHorizontalAnchor.md)**.
 
 
 ## Syntax

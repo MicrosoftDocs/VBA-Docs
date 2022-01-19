@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Revisions property (Word)
 
-Returns a  **Revisions** collection that represents the tracked changes in the range. Read-only.
+Returns a **Revisions** collection that represents the tracked changes in the range. Read-only.
 
 
 ## Syntax

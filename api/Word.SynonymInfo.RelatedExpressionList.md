@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SynonymInfo.RelatedExpressionList property (Word)
 
-Returns a list of expressions related to the specified word or phrase. The list is returned as an array of strings. Read-only  **Variant**.
+Returns a list of expressions related to the specified word or phrase. The list is returned as an array of strings. Read-only **Variant**.
 
 
 ## Syntax

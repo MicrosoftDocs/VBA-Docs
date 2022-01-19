@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.BookingType property (Project)
 
-Gets the booking type for an assignment. Can be one of the following  **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
+Gets the booking type for an assignment. Can be one of the following **PjBookingTypes** constants: **pjBookingTypeCommitted** or **pjBookingTypeProposed**. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.Separator property (Word)
 
-Returns a  **[Range](Word.Range.md)** object that represents the footnote separator.
+Returns a **[Range](Word.Range.md)** object that represents the footnote separator.
 
 
 ## Syntax

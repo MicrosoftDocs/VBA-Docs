@@ -31,7 +31,7 @@ _expression_.**ContainerType**
 
 ## Remarks
 
-The value of the  **ContainerType** property can be one of the following **VisContainerTypes** constants.
+The value of the **ContainerType** property can be one of the following **VisContainerTypes** constants.
 
 
 

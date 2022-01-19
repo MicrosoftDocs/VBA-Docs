@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectNamePrefix property (Project)
 
-Gets the prefix of the project name of the specified project. Read-only  **String**.
+Gets the prefix of the project name of the specified project. Read-only **String**.
 
 
 ## Syntax

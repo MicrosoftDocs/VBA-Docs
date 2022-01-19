@@ -31,7 +31,7 @@ Integer
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GeometryCount** property to determine the number of Geometry sections a shape has.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GeometryCount** property to determine the number of Geometry sections a shape has.
 
 
 

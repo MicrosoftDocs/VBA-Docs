@@ -29,19 +29,19 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 The **WordEditor** property is only valid if the **[IsWordMail](Outlook.Inspector.IsWordMail.md)** method returns **True** and the **[EditorType](Outlook.Inspector.EditorType.md)** property is **olEditorWord**. The returned **WordDocument** object provides access to most of the Word object model except for the following members:
 
 
--  **Tables.Add**
+- **Tables.Add**
     
--  **Range.ConvertToTable**
+- **Range.ConvertToTable**
     
--  **InlineShapes.AddChart**
+- **InlineShapes.AddChart**
     
--  **Shapes.AddChart**
+- **Shapes.AddChart**
     
--  **Range.InsertXML**
+- **Range.InsertXML**
     
--  **Selection.InsertXML**
+- **Selection.InsertXML**
     
--  **Range.ImportFragment**
+- **Range.ImportFragment**
     
 
 

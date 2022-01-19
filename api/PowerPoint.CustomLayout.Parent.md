@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomLayout.Parent property (PowerPoint)
 
-Returns a reference to the slide master object that is the parent of the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object. Read-only.
+Returns a reference to the slide master object that is the parent of the specified **[CustomLayout](PowerPoint.CustomLayout.md)** object. Read-only.
 
 
 ## Syntax

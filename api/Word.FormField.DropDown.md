@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormField.DropDown property (Word)
 
-Returns a  **[DropDown](Word.DropDown.md)** object that represents a drop-down form field. Read-only.
+Returns a **[DropDown](Word.DropDown.md)** object that represents a drop-down form field. Read-only.
 
 
 ## Syntax

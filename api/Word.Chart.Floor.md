@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.Floor property (Word)
 
-Returns the floor of the 3D chart. Read-only  **[Floor](Word.Floor.md)**.
+Returns the floor of the 3D chart. Read-only **[Floor](Word.Floor.md)**.
 
 
 ## Syntax

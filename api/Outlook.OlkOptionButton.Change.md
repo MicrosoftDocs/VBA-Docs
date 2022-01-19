@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OlkOptionButton.Change event (Outlook)
 
-Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
+Occurs when the **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 
 
 ## Syntax

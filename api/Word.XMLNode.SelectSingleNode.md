@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNode.SelectSingleNode method (Word)
 
-Returns an  **XMLNode** object that represents the first child element that matches the XPath parameter within the specified XML element. .
+Returns an **XMLNode** object that represents the first child element that matches the XPath parameter within the specified XML element. .
 
 
 ## Syntax

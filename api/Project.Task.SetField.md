@@ -40,7 +40,7 @@ You can access project custom fields through the **ProjectSummaryTask** property
 The following example uses the **SetField** method and the **GetField** method together with the **FieldNameToFieldConstant** and **FieldConstantToFieldName** methods.
 
 
-1. To use the example, use Project Web App to create an enterprise project text custom field named  **TestEntProjText**.
+1. To use the example, use Project Web App to create an enterprise project text custom field named **TestEntProjText**.
     
 2. Restart Project Professional with a Project Server profile, so that it includes the new custom field.
     

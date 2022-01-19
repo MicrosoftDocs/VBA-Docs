@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 
 ## Remarks
 
-The value returned represents all members of the distribution list, including member distribution lists. Each member distribution list is counted as a single member. That is,  **MemberCount** is not an aggregate sum of the recipients in the distribution list plus recipients in member distribution lists. For example, if a distribution list contains 10 recipients plus one distribution list containing 15 recipients, **MemberCount** returns 11.
+The value returned represents all members of the distribution list, including member distribution lists. Each member distribution list is counted as a single member. That is, **MemberCount** is not an aggregate sum of the recipients in the distribution list plus recipients in member distribution lists. For example, if a distribution list contains 10 recipients plus one distribution list containing 15 recipients, **MemberCount** returns 11.
 
 
 ## Example

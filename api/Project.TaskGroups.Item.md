@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # TaskGroups.Item property (Project)
 
-Gets a single  **Group** object from the **TaskGroups** collection. Read-only **Group**.
+Gets a single **Group** object from the **TaskGroups** collection. Read-only **Group**.
 
 
 ## Syntax

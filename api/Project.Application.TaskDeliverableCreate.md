@@ -30,7 +30,7 @@ _expression_. `TaskDeliverableCreate`( `_Create_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Create_|Optional|**Variant**|If the selected task has no associated deliverable,  **True** creates a deliverable. If the selected task does have an associated deliverable, **False** removes the deliverable. The default value is **False**.|
+| _Create_|Optional|**Variant**|If the selected task has no associated deliverable, **True** creates a deliverable. If the selected task does have an associated deliverable, **False** removes the deliverable. The default value is **False**.|
 
 ## Return value
 

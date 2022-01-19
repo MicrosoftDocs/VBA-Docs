@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TextRange2.InsertSymbol method (PowerPoint)
 
-Inserts a symbol from the specified font set into the range of text represented by the  **TextRange2** object.
+Inserts a symbol from the specified font set into the range of text represented by the **TextRange2** object.
 
 
 ## Syntax

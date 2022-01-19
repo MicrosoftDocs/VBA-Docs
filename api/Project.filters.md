@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Filters object (Project)
 
-Contains a collection of  **[Filter](Project.Filter.md)** objects.
+Contains a collection of **[Filter](Project.Filter.md)** objects.
  
 
 

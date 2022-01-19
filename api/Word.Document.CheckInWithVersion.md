@@ -31,13 +31,13 @@ _expression_ A variable that represents a **[Document](Word.Document.md)** objec
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional| **Boolean**| **True** to save the document to the server location. The default is **True**.|
-| _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (applies only if SaveChanges is set to  **True**).|
+| _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (applies only if SaveChanges is set to **True**).|
 | _MakePublic_|Optional| **Boolean**| **True** to allow the user to publish the document after it is checked in.|
 | _VersionType_|Optional| **Variant**|Specifies versioning information for the document. |
 
 ## Remarks
 
-Setting the MakePublic parameter to  **True** submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (applies only if SaveChanges is set to **True**).
+Setting the MakePublic parameter to **True** submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (applies only if SaveChanges is set to **True**).
 
 To take advantage of the collaboration features built into Microsoft Word, documents must be stored on a Microsoft SharePoint Server.
 

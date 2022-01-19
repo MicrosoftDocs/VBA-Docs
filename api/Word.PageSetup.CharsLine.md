@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PageSetup.CharsLine property (Word)
 
-Returns or sets the number of characters per line in the document grid. Read/write  **Single**.
+Returns or sets the number of characters per line in the document grid. Read/write **Single**.
 
 
 ## Syntax

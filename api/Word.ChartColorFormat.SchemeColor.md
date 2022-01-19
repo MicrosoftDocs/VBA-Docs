@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartColorFormat.SchemeColor property (Word)
 
-Returns or sets the index of a color in the current color scheme. Read/write  **Long**.
+Returns or sets the index of a color in the current color scheme. Read/write **Long**.
 
 
 ## Syntax

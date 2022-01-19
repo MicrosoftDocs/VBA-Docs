@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrect.HangulAndAlphabetExceptions property (Word)
 
-Returns a  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
+Returns a **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
 
 
 ## Syntax

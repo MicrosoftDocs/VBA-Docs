@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MappedDataFields.Count property (Word)
 
-Returns a  **Long** that represents the number of mapped data fields in the collection. Read-only.
+Returns a **Long** that represents the number of mapped data fields in the collection. Read-only.
 
 
 ## Syntax

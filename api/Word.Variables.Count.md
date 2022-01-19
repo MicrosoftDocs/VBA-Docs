@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Variables.Count property (Word)
 
-Returns a  **Long** that represents the number of variables in the collection.
+Returns a **Long** that represents the number of variables in the collection.
 
 
 ## Syntax

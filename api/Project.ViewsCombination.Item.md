@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ViewsCombination.Item property (Project)
 
-Gets a single  **View** object from the **ViewsCombination** collection. Read-only **View**.
+Gets a single **View** object from the **ViewsCombination** collection. Read-only **View**.
 
 
 ## Syntax

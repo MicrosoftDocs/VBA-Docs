@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FarEastLineBreakLevel property (Word)
 
-Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
+Returns or sets a **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
 
 
 ## Syntax

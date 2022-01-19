@@ -39,7 +39,7 @@ A **Recipient** object representing the specified member.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example locates every distribution list in the default  **Contacts** folder and determines whether the list contains the current user.
+This Microsoft Visual Basic for Applications (VBA) example locates every distribution list in the default **Contacts** folder and determines whether the list contains the current user.
 
 
 ```vb

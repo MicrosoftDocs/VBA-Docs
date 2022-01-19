@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivisions.Count property (Word)
 
-Returns a  **Long** that represents the number of HTML DIV elements in the collection. Read-only.
+Returns a **Long** that represents the number of HTML DIV elements in the collection. Read-only.
 
 
 ## Syntax

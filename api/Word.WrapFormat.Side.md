@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WrapFormat.Side property (Word)
 
-Returns or sets a value that indicates whether the document text should wrap on both sides of the specified shape, on either the left or right side only, or on the side of the shape that's farthest from the page margin.Read/write  **WdWrapSideType**.
+Returns or sets a value that indicates whether the document text should wrap on both sides of the specified shape, on either the left or right side only, or on the side of the shape that's farthest from the page margin.Read/write **WdWrapSideType**.
 
 
 ## Syntax

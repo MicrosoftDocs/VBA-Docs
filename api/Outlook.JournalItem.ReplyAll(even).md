@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # JournalItem.ReplyAll event (Outlook)
 
-Occurs when the user selects the  **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax

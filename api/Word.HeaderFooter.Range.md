@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # HeaderFooter.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the specified header or footer.
+Returns a **Range** object that represents the portion of a document that is contained within the specified header or footer.
 
 
 ## Syntax

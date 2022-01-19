@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Category](Outlook.Category.md) object
 
 ## Remarks
 
-Because the  **[Name](Outlook.Category.Name.md)** property of a **Category** object can be changed either programmatically or by user action, each **Category** object is uniquely identified by a globally unique identifier (GUID), assigned to the object, that can be retrieved using this property. The GUID is presented as a string using the following format:
+Because the **[Name](Outlook.Category.Name.md)** property of a **Category** object can be changed either programmatically or by user action, each **Category** object is uniquely identified by a globally unique identifier (GUID), assigned to the object, that can be retrieved using this property. The GUID is presented as a string using the following format:
 
 
 ```vb
@@ -36,7 +36,7 @@ Because the  **[Name](Outlook.Category.Name.md)** property of a **Category** obj
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb

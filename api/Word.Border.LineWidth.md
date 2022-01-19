@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Border](Word.Border.md)' o
 
 ## Remarks
 
-Returns a  **WdLineWidth** constant or **wdUndefined** if the object either has no borders or has borders with more than one line width. If the specified line width isn't available for the border's line style, this property generates an error. To determine the line widths available for a particular line style, see the **Borders and Shading** dialog box (**Format** menu).
+Returns a **WdLineWidth** constant or **wdUndefined** if the object either has no borders or has borders with more than one line width. If the specified line width isn't available for the border's line style, this property generates an error. To determine the line widths available for a particular line style, see the **Borders and Shading** dialog box (**Format** menu).
 
 
 ## Example

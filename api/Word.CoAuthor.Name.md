@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthor.Name property (Word)
 
-Returns a  **String** that contains the display name of the specified co author. Read-only.
+Returns a **String** that contains the display name of the specified co author. Read-only.
 
 
 ## Syntax

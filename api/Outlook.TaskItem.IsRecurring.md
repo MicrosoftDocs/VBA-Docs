@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Remarks
 
-When the  **[GetRecurrencePattern](Outlook.TaskItem.GetRecurrencePattern.md)** method is used with a **[TaskItem](Outlook.TaskItem.md)** object, this property is set to **True**.
+When the **[GetRecurrencePattern](Outlook.TaskItem.GetRecurrencePattern.md)** method is used with a **[TaskItem](Outlook.TaskItem.md)** object, this property is set to **True**.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AutoCorrectEntry.Value property (Word)
 
-Returns or sets the value of the AutoCorrect entry. Read/write  **String**.
+Returns or sets the value of the AutoCorrect entry. Read/write **String**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' col
 
 ## Remarks
 
-This property can be  **True**, **False** or **wdUndefined**.
+This property can be **True**, **False** or **wdUndefined**.
 
 
 ## Example

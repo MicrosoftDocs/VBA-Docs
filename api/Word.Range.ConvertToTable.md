@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ConvertToTable method (Word)
 
-Converts text within a range to a table. Returns the table as a  **Table** object.
+Converts text within a range to a table. Returns the table as a **Table** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Separator_|Optional| **Variant**|Specifies the character used to separate text into cells. Can be a character or one of the following  **WdTableFieldSeparator** constant. If this argument is omitted, the value of the **DefaultTableSeparator** property is used.|
+| _Separator_|Optional| **Variant**|Specifies the character used to separate text into cells. Can be a character or one of the following **WdTableFieldSeparator** constant. If this argument is omitted, the value of the **DefaultTableSeparator** property is used.|
 | _NumRows_|Optional| **Variant**|The number of rows in the table. If this argument is omitted, Microsoft Word sets the number of rows, based on the contents of the range.|
 | _NumColumns_|Optional| **Variant**|The number of columns in the table. If this argument is omitted, Word sets the number of columns, based on the contents of the range.|
 | _InitialColumnWidth_|Optional| **Variant**|The initial width of each column, in points. If this argument is omitted, Word calculates and adjusts the column width so that the table stretches from margin to margin.|
@@ -44,7 +44,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 | _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format.|
 | _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format.|
 | _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells.|
-| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior**, this argument is ignored.|
+| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior**, this argument is ignored.|
 | _DefaultTableBehavior_|Optional| **Variant**| Sets a value that specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit). Can be one of the **WdDefaultTableBehavior** constant.|
 
 ## Return value

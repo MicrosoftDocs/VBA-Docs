@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpPublishSourceType enumeration (PowerPoint)
 
-Constants that specify the type of source material to be published, passed to and returned by the  **SourceType** property of the **PublishObject** object.
+Constants that specify the type of source material to be published, passed to and returned by the **SourceType** property of the **PublishObject** object.
 
 
 

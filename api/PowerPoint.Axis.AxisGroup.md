@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.AxisGroup property (PowerPoint)
 
-Returns the type of axis group. Read-only  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)**.
+Returns the type of axis group. Read-only **[XlAxisGroup](PowerPoint.XlAxisGroup.md)**.
 
 
 ## Syntax

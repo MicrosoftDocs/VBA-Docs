@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Left property (Word)
 
-Returns or sets a  **Single** that represents the horizontal position, measured in points, of the specified shape or shape range. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
+Returns or sets a **Single** that represents the horizontal position, measured in points, of the specified shape or shape range. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
 
 
 ## Syntax

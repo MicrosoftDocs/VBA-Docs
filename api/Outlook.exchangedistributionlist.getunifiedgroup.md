@@ -24,7 +24,7 @@ _expression_ A variable that represents a [ExchangeDistributionList](Outlook.Exc
 
 ## Return value
 
-Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and [ExchangeDistributionList.GetUnifiedGroupFromStore method (Outlook)](Outlook.exchangedistributionlist.getunifiedgroupfromstore.md) methods.
+Returns the **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and [ExchangeDistributionList.GetUnifiedGroupFromStore method (Outlook)](Outlook.exchangedistributionlist.getunifiedgroupfromstore.md) methods.
 
 
 ## See also

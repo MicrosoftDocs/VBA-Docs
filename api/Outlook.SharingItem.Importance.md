@@ -26,7 +26,7 @@ _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance**.
+This property corresponds to the MAPI property **PidTagImportance**.
 
 
 ## See also

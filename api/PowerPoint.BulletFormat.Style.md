@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[BulletFormat](PowerPoint.BulletForm
 
 ## Remarks
 
-Some of the  **PpNumberedBulletStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **PpNumberedBulletStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

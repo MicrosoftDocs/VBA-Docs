@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AutoCorrect property (Word)
 
-Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
+Returns an **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 
 
 ## Syntax

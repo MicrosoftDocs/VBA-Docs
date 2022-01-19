@@ -31,7 +31,7 @@ PpColorSchemeIndex
 
 ## Remarks
 
-The value of the  **SchemeColor** property can be one of these **PpColorSchemeIndex** constants.
+The value of the **SchemeColor** property can be one of these **PpColorSchemeIndex** constants.
 
 
 ||

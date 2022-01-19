@@ -31,7 +31,7 @@ MsoFarEastLineBreakLanguageID
 
 ## Remarks
 
-The value of the  **FarEastLineBreakLanguage** property can be one of these **MsoFarEastLineBreakLanguageID** constants.
+The value of the **FarEastLineBreakLanguage** property can be one of these **MsoFarEastLineBreakLanguageID** constants.
 
 
 ||

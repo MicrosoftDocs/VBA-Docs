@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.Column property (Word)
 
-Returns a  **Column** object that represents the table column containing the specified cell. Read-only.
+Returns a **Column** object that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax

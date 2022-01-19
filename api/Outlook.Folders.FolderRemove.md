@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Folders.FolderRemove event (Outlook)
 
-Occurs when a folder is removed from the specified  **[Folders](Outlook.Folders.md)** collection.
+Occurs when a folder is removed from the specified **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax

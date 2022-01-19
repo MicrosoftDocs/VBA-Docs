@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.PlotBy property (Word)
 
-Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long**.
+Returns or sets the way columns or rows are used as data series on the chart. Read/write **Long**.
 
 
 ## Syntax
@@ -26,16 +26,16 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlRowCol](Word.xlrowcol.md)** constants:
+The value of this property can be one of the following **[XlRowCol](Word.xlrowcol.md)** constants:
 
 
--  **xlColumns**
+- **xlColumns**
     
--  **xlRows**
+- **xlRows**
     
 
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns**.
+For PivotChart reports, this property is read-only and always returns **xlColumns**.
 
 
 ## Example

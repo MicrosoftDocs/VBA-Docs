@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.FontColor property (Project)
 
-Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write  **PjColor**.
+Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write **PjColor**.
 
 
 ## Syntax

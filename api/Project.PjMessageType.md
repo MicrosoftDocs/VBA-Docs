@@ -17,9 +17,9 @@ Contains constants that specify the buttons to be included in a message dialog b
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**pjOKCancel**|1|Display  **OK** and **Cancel** buttons.|
-|**pjOKOnly**|0|Display  **OK** button.|
-|**pjYesNo**|2|Display  **Yes** and **No** buttons.|
-|**pjYesNoCancel**|3|Display  **Yes**,  **No**, and  **Cancel** buttons.|
+|**pjOKCancel**|1|Display **OK** and **Cancel** buttons.|
+|**pjOKOnly**|0|Display **OK** button.|
+|**pjYesNo**|2|Display **Yes** and **No** buttons.|
+|**pjYesNoCancel**|3|Display **Yes**, **No**, and **Cancel** buttons.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,7 +26,7 @@ _expression_. `ToDoTaskOrdinal`
 
 ## Remarks
 
-This property is used to indicate how the task should be ordered within the parent groups, such as the  **Today** group or the **Tomorrow** group, of the **To-Do Bar**.
+This property is used to indicate how the task should be ordered within the parent groups, such as the **Today** group or the **Tomorrow** group, of the **To-Do Bar**.
 
 
 ## See also

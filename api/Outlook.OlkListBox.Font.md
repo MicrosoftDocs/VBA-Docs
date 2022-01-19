@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkListBox](Outlook.OlkListBox.md) o
 
 ## Remarks
 
-The font is expressed as the Microsoft Windows type  **StdFont**.
+The font is expressed as the Microsoft Windows type **StdFont**.
 
 
 ## See also

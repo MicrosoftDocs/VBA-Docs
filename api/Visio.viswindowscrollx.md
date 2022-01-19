@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisWindowScrollX enumeration (Visio)
 
-X parameters to pass to the  **Window.Scroll** method.
+X parameters to pass to the **Window.Scroll** method.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunc.FName property (Word)
 
-Returns an  **[OMath](Word.OMath.md)** object that represents the name of a mathematical function, such as sin or cos. Read-only.
+Returns an **[OMath](Word.OMath.md)** object that represents the name of a mathematical function, such as sin or cos. Read-only.
 
 
 ## Syntax

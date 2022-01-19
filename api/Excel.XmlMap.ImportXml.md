@@ -29,7 +29,8 @@ _expression_ A variable that represents an **[XmlMap](Excel.XmlMap.md)** object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XmlData_|Required| **String**|The string that contains the XML data to import.|
-| _Overwrite_|Optional| **Variant**|Specifies whether to overwrite the contents of cells that are currently mapped to the specified XML map. Set to **True** to overwrite the cells; set to **False** to append the data to the existing range.<br/><br/>If this parameter is not specified, the current value of the **[AppendOnImport](Excel.XmlMap.AppendOnImport.md)** property of the XML map determines whether the contents of cells are overwritten.|
+| _Overwrite_|Optional| **Variant**|Specifies whether to overwrite the contents of cells that are currently mapped to the specified XML map. Set to **True** to overwrite the cells; set to **False** to append the data to the existing range.
+If this parameter is not specified, the current value of the **[AppendOnImport](Excel.XmlMap.AppendOnImport.md)** property of the XML map determines whether the contents of cells are overwritten.|
 
 ## Return value
 
@@ -42,7 +43,7 @@ To import the contents of an XML data file into cells mapped to a specific schem
 
 If either of the following conditions is **True**, a run-time error occurs. If more than one condition is **True**, Excel returns a run-time error for the most severe (they are listed with the most severe listed first):
 
-- If the XML data contains syntactical errors.   
+- If the XML data contains syntactical errors.
 - If the import is cancelled because not all the data could fit on the worksheet.
     
 

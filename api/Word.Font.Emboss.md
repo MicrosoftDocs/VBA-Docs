@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 ## Remarks
 
-Returns  **True**, **False**, or **wdUndefined**. Can be set to **True**, **False**, or **wdToggle**. Setting **Emboss** to **True** sets **[Engrave](Word.Font.Engrave.md)** to **False**, and vice versa.
+Returns **True**, **False**, or **wdUndefined**. Can be set to **True**, **False**, or **wdToggle**. Setting **Emboss** to **True** sets **[Engrave](Word.Font.Engrave.md)** to **False**, and vice versa.
 
 
 ## Example

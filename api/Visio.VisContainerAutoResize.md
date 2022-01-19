@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisContainerAutoResize enumeration (Visio)
 
-Specifies constants that define the different ways that the container boundary can resize automatically to fit its contents; passed to and returned by the  **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property.
+Specifies constants that define the different ways that the container boundary can resize automatically to fit its contents; passed to and returned by the **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property.
 
 
 

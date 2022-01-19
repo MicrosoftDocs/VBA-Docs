@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 ## Remarks
 
-This property can be  **True**, **False** or **wdUndefined** (only some of the specified text is allowed to split).
+This property can be **True**, **False** or **wdUndefined** (only some of the specified text is allowed to split).
 
 
 ## Example

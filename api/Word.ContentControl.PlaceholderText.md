@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.PlaceholderText property (Word)
 
-Returns a  **BuildingBlock** object that represents the placeholder text for a content control. Read-only.
+Returns a **BuildingBlock** object that represents the placeholder text for a content control. Read-only.
 
 
 ## Syntax

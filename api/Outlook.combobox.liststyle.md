@@ -24,7 +24,7 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-The settings for  **ListStyle** are:
+The settings for **ListStyle** are:
 
 
 

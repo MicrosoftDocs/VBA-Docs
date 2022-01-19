@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax

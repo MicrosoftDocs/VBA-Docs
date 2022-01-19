@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationRuleSets.AddCopy method (Visio)
 
-Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
+Adds a copy of an existing **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of the document.
 
 
 ## Syntax

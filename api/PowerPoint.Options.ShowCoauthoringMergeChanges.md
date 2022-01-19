@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Options](PowerPoint.Options.md) obje
 
 ## Remarks
 
-Set this value to  **msoTrue** for the application to show changes. The default value is **msoFalse**.
+Set this value to **msoTrue** for the application to show changes. The default value is **msoFalse**.
 
 
 ## See also

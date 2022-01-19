@@ -34,9 +34,9 @@ _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat
 
 ## Remarks
 
-This method sets the  **[PresetExtrusionDirection](PowerPoint.ThreeDFormat.PresetExtrusionDirection.md)** property to the direction specified by the PresetExtrusionDirection argument.
+This method sets the **[PresetExtrusionDirection](PowerPoint.ThreeDFormat.PresetExtrusionDirection.md)** property to the direction specified by the PresetExtrusionDirection argument.
 
-The PresetExtrusionDirection parameter value can be one of these  **MsoPresetExtrusionDirection** constants.
+The PresetExtrusionDirection parameter value can be one of these **MsoPresetExtrusionDirection** constants.
 
 
 ||

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paths.Item property (Visio)
 
-Returns an object from a collection. The  **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
+Returns an object from a collection. The **Item** property is the default property for all collections, and for the **Path** and **Selection** objects. Read-only.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Path
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
+When retrieving objects from a collection, you can omit **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
 
 
 ```vb

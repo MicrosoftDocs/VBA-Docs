@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
  
 
-Represents a period in a calendar. There is no collection for  **Period** objects.
+Represents a period in a calendar. There is no collection for **Period** objects.
  
  **Using the Period Object**
  

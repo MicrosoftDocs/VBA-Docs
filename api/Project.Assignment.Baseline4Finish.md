@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Baseline4Finish property (Project)
 
-Gets or sets the baseline finish date of a task  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline finish date of a task **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

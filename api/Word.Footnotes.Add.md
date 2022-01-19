@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.Add method (Word)
 
-Returns a  **Footnote** object that represents a footnote added to a range.
+Returns a **Footnote** object that represents a footnote added to a range.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
 
 ## Remarks
 
-The value is the same as the value of  **[Text](Outlook.OlkTextBox.Text.md)**, except that this property is **Variant** and **Text** is strongly typed as **String**.
+The value is the same as the value of **[Text](Outlook.OlkTextBox.Text.md)**, except that this property is **Variant** and **Text** is strongly typed as **String**.
 
 
 ## See also

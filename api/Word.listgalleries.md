@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ListGalleries object (Word)
 
-A collection of  **[ListGallery](Word.ListGallery.md)** objects that represent the three tabs in the **Bullets and Numbering** dialog box.
+A collection of **[ListGallery](Word.ListGallery.md)** objects that represent the three tabs in the **Bullets and Numbering** dialog box.
 
 
 ## Remarks
@@ -25,9 +25,9 @@ For Each lg In ListGalleries
 Next lg
 ```
 
-Use  **ListGalleries** (Index), where Index is **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**, to return a single **ListGallery** object.
+Use **ListGalleries** (Index), where Index is **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery**, to return a single **ListGallery** object.
 
-The following code example returns the third list format (excluding  **None**) on the **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
+The following code example returns the third list format (excluding **None**) on the **Bulleted** tab in the **Bullets and Numbering** dialog box and then applies it to the selection.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Lists property (Word)
 
-Returns a  **[Lists](Word.lists.md)** collection that contains all the formatted lists in the specified document. Read-only.
+Returns a **[Lists](Word.lists.md)** collection that contains all the formatted lists in the specified document. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlockEntries object (Word)
 
-Represents a collection of all  **[BuildingBlock](Word.BuildingBlock.md)** objects in a template.
+Represents a collection of all **[BuildingBlock](Word.BuildingBlock.md)** objects in a template.
 
 
 ## Remarks

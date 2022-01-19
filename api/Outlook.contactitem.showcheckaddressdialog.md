@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 
 # ContactItem.ShowCheckAddressDialog method (Outlook)
-Displays the  **Check Address** dialog box to verify address details of the contact.
+Displays the **Check Address** dialog box to verify address details of the contact.
 
 ## Version information
 

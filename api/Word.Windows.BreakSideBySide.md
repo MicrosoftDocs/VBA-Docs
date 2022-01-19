@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Windows.BreakSideBySide method (Word)
 
-Ends side by side mode if two windows are in side by side mode. Returns a  **Boolean** that represents whether the method was successful.
+Ends side by side mode if two windows are in side by side mode. Returns a **Boolean** that represents whether the method was successful.
 
 
 ## Syntax

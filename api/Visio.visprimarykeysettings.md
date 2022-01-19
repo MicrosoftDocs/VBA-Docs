@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisPrimaryKeySettings enumeration (Visio)
 
-Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method and returned by the **[DataRecordset.GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** method.
+Primary key settings constants passed to the **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method and returned by the **[DataRecordset.GetPrimaryKey](Visio.DataRecordset.GetPrimaryKey.md)** method.
 
 
 > [!NOTE] 

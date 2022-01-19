@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.PercentWorkComplete property (Project)
 
-Gets or sets the percentage of work complete for an assignment. Read/write  **Variant**.
+Gets or sets the percentage of work complete for an assignment. Read/write **Variant**.
 
 
 ## Syntax

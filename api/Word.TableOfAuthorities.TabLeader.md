@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfAuthorities.TabLeader property (Word)
 
-Returns or sets the leader character that appears between entries and their associated page numbers in a table of authorities. Read/write  **WdTabLeader**.
+Returns or sets the leader character that appears between entries and their associated page numbers in a table of authorities. Read/write **WdTabLeader**.
 
 
 ## Syntax

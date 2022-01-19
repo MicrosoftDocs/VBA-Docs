@@ -34,9 +34,9 @@ _expression_ A variable that represents a **[FillFormat](powerpoint.fillformat.m
 
 ## Remarks
 
-Use the [BackColor](PowerPoint.FillFormat.BackColor.md)and  **[ForeColor](PowerPoint.FillFormat.ForeColor.md)** properties to set the colors used in the pattern.
+Use the [BackColor](PowerPoint.FillFormat.BackColor.md)and **[ForeColor](PowerPoint.FillFormat.ForeColor.md)** properties to set the colors used in the pattern.
 
-The value of the Pattern parameter can be one of these  **MsoPatternType** constants.
+The value of the Pattern parameter can be one of these **MsoPatternType** constants.
 
 
 ||

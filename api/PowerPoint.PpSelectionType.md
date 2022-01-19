@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpSelectionType enumeration (PowerPoint)
 
-Constants that specify the type of selection, returned by the  **Type** property of the **Selection** object.
+Constants that specify the type of selection, returned by the **Type** property of the **Selection** object.
 
 
 

@@ -41,17 +41,17 @@ A **[MeetingItem](Outlook.MeetingItem.md)** object that represents the response 
 
 ## Remarks
 
-When you call the  **Respond** method with the **olMeetingAccepted** or **olMeetingTentative** parameter, Outlook will create a new appointment item that duplicates the original appointment item. The new item will have a different Entry ID. Outlook will then remove the original item. You should no longer use the Entry ID of the original item, but instead call the **[EntryID](Outlook.AppointmentItem.EntryID.md)** property to obtain the Entry ID for the new item for any subsequent needs. This is to ensure that this appointment item will be properly synchronized on your calendar if more than one client computer accesses your calendar but may be offline using the cache mode occasionally.
+When you call the **Respond** method with the **olMeetingAccepted** or **olMeetingTentative** parameter, Outlook will create a new appointment item that duplicates the original appointment item. The new item will have a different Entry ID. Outlook will then remove the original item. You should no longer use the Entry ID of the original item, but instead call the **[EntryID](Outlook.AppointmentItem.EntryID.md)** property to obtain the Entry ID for the new item for any subsequent needs. This is to ensure that this appointment item will be properly synchronized on your calendar if more than one client computer accesses your calendar but may be offline using the cache mode occasionally.
 
-The following table describes the behavior of the  **Respond** method depending on the parent object, and the _fNoUI_ and _fAdditionalTextDialog_ parameters.
+The following table describes the behavior of the **Respond** method depending on the parent object, and the _fNoUI_ and _fAdditionalTextDialog_ parameters.
 
 
 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
-| **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](Outlook.AppointmentItem.Send(method).md)** method.|
-| **True, False**|Same result as with  **True, True**.|
-| **False, True**|Prompts user to  **Send** or **Edit** before sending the response.|
+| **True, True**|Response item is returned with no user interface. To send the response, you must call the **[Send](Outlook.AppointmentItem.Send(method).md)** method.|
+| **True, False**|Same result as with **True, True**.|
+| **False, True**|Prompts user to **Send** or **Edit** before sending the response.|
 | **False, False**|New response item appears in the user interface, but no prompt is displayed. |
 
 ## Example

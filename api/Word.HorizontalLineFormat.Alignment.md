@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HorizontalLineFormat.Alignment property (Word)
 
-Returns or sets a  **WdHorizontalLineAlignment** constant that represents the alignment for the specified horizontal line. Read/write.
+Returns or sets a **WdHorizontalLineAlignment** constant that represents the alignment for the specified horizontal line. Read/write.
 
 
 ## Syntax

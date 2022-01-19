@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.BuiltInDocumentProperties property (Word)
 
-Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified document.
+Returns a **DocumentProperties** collection that represents all the built-in document properties for the specified document.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-To return a single  **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
+To return a single **DocumentProperty** object that represents a specific built-in document property, use the **BuiltinDocumentProperties** property. If Microsoft Word doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property generates an error.
 
  For information about returning a single member of a collection, see [Returning an object from a collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

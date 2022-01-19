@@ -26,12 +26,12 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagOfficeLocation**.
+This property corresponds to the MAPI property **PidTagOfficeLocation**.
 
 
 ## Example
 
-This Visual Basic for Applications example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb

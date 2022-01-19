@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.ContourWidth property (Word)
 
-Returns or sets a  **Single** that represents the width of the contour of a shape. Read/write.
+Returns or sets a **Single** that represents the width of the contour of a shape. Read/write.
 
 
 ## Syntax

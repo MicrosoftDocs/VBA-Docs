@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ExchangeDistributionList.GetExchangeUser method (Outlook)
 
-Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
+Returns **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ## Syntax

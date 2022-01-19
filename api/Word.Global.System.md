@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.System property (Word)
 
-Returns a  **System** object, which can be used to return system-related information and perform system-related tasks.
+Returns a **System** object, which can be used to return system-related information and perform system-related tasks.
 
 
 ## Syntax

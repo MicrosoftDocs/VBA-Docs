@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GraphicItems.Count property (Visio)
 
-Returns the number of  **GraphicItem** objects in the **GraphicItems** collection. Read-only.
+Returns the number of **GraphicItem** objects in the **GraphicItems** collection. Read-only.
 
 
 > [!NOTE] 

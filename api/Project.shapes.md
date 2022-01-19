@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shapes object (Project)
-Represents a collection of  **[Shape](./Project.shape.md)** objects in a custom report.
+Represents a collection of **[Shape](./Project.shape.md)** objects in a custom report.
 
 ## Example
 

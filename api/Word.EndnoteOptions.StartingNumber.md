@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EndnoteOptions.StartingNumber property (Word)
 
-Returns or sets the starting endnote number. Read/write  **Long**.
+Returns or sets the starting endnote number. Read/write **Long**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.BaseUnit property (Word)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](Word.xltimeunit.md)**.
+Returns or sets the base unit for the specified category axis. Read/write **[XlTimeUnit](Word.xltimeunit.md)**.
 
 
 ## Syntax

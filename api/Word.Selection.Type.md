@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Type property (Word)
 
-Returns the selection type. Read-only  **[WdSelectionType](Word.WdSelectionType.md)**.
+Returns the selection type. Read-only **[WdSelectionType](Word.WdSelectionType.md)**.
 
 
 ## Syntax

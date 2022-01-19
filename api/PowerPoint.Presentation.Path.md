@@ -33,7 +33,7 @@ String
 
 If you use this property to return a path for a presentation that has not been saved, it returns an empty string.
 
-The path doesn't include the final backslash (\) or the name of the specified object. Use the  **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
+The path doesn't include the final backslash (\) or the name of the specified object. Use the **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
 
 
 ## Example

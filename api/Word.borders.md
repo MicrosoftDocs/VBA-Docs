@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Borders object (Word)
 
-A collection of  **[Border](Word.Border.md)** objects that represent the borders of an object.
+A collection of **[Border](Word.Border.md)** objects that represent the borders of an object.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ ActiveDocument.Paragraphs(1).Borders.Enable = True
 
 **Border** objects cannot be added to the **Borders** collection. The number of members in the **Borders** collection is finite and varies depending on the type of object. For example, a table has six elements in the **Borders** collection, whereas a paragraph has four.
 
-Use  **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](Word.WdBorderType.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Use **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](Word.WdBorderType.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 Use the **[LineStyle](Word.Border.LineStyle.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
 

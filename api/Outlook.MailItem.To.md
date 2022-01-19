@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailItem.To property (Outlook)
 
-Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the Outlook item. Read/write.
+Returns or sets a semicolon-delimited **String** list of display names for the **To** recipients for the Outlook item. Read/write.
 
 
 ## Syntax

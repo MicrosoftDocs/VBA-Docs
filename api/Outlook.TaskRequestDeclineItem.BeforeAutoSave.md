@@ -27,7 +27,7 @@ _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskR
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)** to be saved.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)** to be saved.|
 
 ## See also
 

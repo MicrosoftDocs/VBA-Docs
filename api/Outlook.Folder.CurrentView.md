@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 To obtain a **View** object for the view of the current **[Explorer](Outlook.Explorer.md)**, use **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of the **CurrentView** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**.
 
-You must save a reference to the  **View** object returned by **CurrentView** before you proceed to use it for any purpose.
+You must save a reference to the **View** object returned by **CurrentView** before you proceed to use it for any purpose.
 
 To properly reset the current view, you must do a **[View.Reset](Outlook.View.Reset.md)** and then a **[View.Apply](Outlook.View.Apply.md)**. The code sample below illustrates the order of the calls:
 

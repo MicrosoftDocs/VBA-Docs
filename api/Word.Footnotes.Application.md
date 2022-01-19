@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Footnotes.Application property (Word)
 
-Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
+Returns an **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.
 
 ## Remarks
 
-The Visual Basic functions  **CreateObject** and **GetObject** enable access to an OLE Automation object from a Visual Basic for Applications project.
+The Visual Basic functions **CreateObject** and **GetObject** enable access to an OLE Automation object from a Visual Basic for Applications project.
 
 
 ## See also

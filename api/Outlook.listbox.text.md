@@ -23,9 +23,9 @@ _expression_ A variable that represents a **ListBox** object.
 
 The default value is a zero-length string ("").
 
-The value of  **Text** must match an existing list entry. Specifying a value that does not match an existing list entry causes an error.
+The value of **Text** must match an existing list entry. Specifying a value that does not match an existing list entry causes an error.
 
-You cannot use  **Text** to change the value of an entry in a **ListBox**; use the  **[Column](Outlook.listbox.column.md)** or **[List](Outlook.listbox.list.md)** property for this purpose.
+You cannot use **Text** to change the value of an entry in a **ListBox**; use the **[Column](Outlook.listbox.column.md)** or **[List](Outlook.listbox.list.md)** property for this purpose.
 
 The **[ForeColor](Outlook.listbox.forecolor.md)** property determines the color of the text.
 

@@ -31,9 +31,9 @@ TextFrame
 
 ## Remarks
 
-Use the  **TextRange** property of the **TextFrame** object to return the text in the text frame.
+Use the **TextRange** property of the **TextFrame** object to return the text in the text frame.
 
-Use the  **HasTextFrame** property to determine whether a shape contains a text frame before you apply the **TextFrame** property.
+Use the **HasTextFrame** property to determine whether a shape contains a text frame before you apply the **TextFrame** property.
 
 
 ## Example

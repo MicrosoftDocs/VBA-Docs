@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Sections property (Word)
 
-Returns a  **Sections** collection that represents the sections in the specified range. Read-only.
+Returns a **Sections** collection that represents the sections in the specified range. Read-only.
 
 
 ## Syntax

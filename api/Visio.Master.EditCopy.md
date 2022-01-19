@@ -31,6 +31,6 @@ Master
 
 ## Remarks
 
-If there is no master associated with the object that is open for editing, the  **EditCopy** property returns **Nothing**.
+If there is no master associated with the object that is open for editing, the **EditCopy** property returns **Nothing**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FontNames.Count property (Word)
 
-Returns a  **Long** that represents the number of font names in the collection. Read-only **Long**.
+Returns a **Long** that represents the number of font names in the collection. Read-only **Long**.
 
 
 ## Syntax

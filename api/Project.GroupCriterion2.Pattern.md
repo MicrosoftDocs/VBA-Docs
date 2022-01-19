@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.Pattern property (Project)
 
-Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write  **PjBackgroundPattern**.
+Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write **PjBackgroundPattern**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.ActivePrinter property (Word)
 
-Returns or sets the name of the active printer. Read/write  **String**.
+Returns or sets the name of the active printer. Read/write **String**.
 
 
 ## Syntax

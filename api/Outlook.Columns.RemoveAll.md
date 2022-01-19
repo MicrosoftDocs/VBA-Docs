@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.RemoveAll method (Outlook)
 
-Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
+Removes all the columns from the **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax

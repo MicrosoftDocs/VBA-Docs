@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Indexes.Item method (Word)
 
-Returns an individual  **Index** object in a collection.
+Returns an individual **Index** object in a collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a **Long** indicating the ordinal position of the individual object.|
 
 ## Return value
 

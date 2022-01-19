@@ -14,7 +14,7 @@ Moves the scroll bar on an object.
 
 ## Syntax
 
-_expression_.**Scroll**(**_xAction_**,  **_yAction_**)
+_expression_.**Scroll**(**_xAction_**, **_yAction_**)
 
 _expression_ A variable that represents a **Page** object.
 
@@ -39,8 +39,8 @@ The settings for  _xAction_ and _yAction_ are:
 |0|Do not scroll in the specified direction.|
 |1|Move up on a vertical scroll bar or left on a horizontal scroll bar. Movement is equivalent to pressing the up or left arrow key on the keyboard to move the scroll bar.|
 |2|Move down on a vertical scroll bar or right on a horizontal scroll bar. Movement is equivalent to pressing the right or down arrow key on the keyboard to move the scroll bar.|
-|3|Move one pageup on a vertical scroll bar or one page left on a horizontal scroll bar. Movement is equivalent to pressing  **PAGE UP** on the keyboard to move the scroll bar.|
-|4|Move one pagedown on a vertical scroll bar or one page right on a horizontal scroll bar. Movement is equivalent to pressing  **PAGE DOWN** on the keyboard to move the scroll bar.|
+|3|Move one pageup on a vertical scroll bar or one page left on a horizontal scroll bar. Movement is equivalent to pressing **PAGE UP** on the keyboard to move the scroll bar.|
+|4|Move one pagedown on a vertical scroll bar or one page right on a horizontal scroll bar. Movement is equivalent to pressing **PAGE DOWN** on the keyboard to move the scroll bar.|
 |5|Move to the top of a vertical scroll bar or to the left end of a horizontal scroll bar.|
 |6|Move to the bottom of a vertical scroll bar or to the right end of a horizontal scroll bar.|
 

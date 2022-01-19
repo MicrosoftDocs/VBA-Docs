@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
  
 
-Represents all of the resource-based group definitions.  **ResourceGroups** is a collection of **[Group](Project.Group.md)** objects.
+Represents all of the resource-based group definitions. **ResourceGroups** is a collection of **[Group](Project.Group.md)** objects.
  
  **Using the ResourceGroups Collection**
  

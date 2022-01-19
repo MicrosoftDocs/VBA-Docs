@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.GrammaticalErrors property (Word)
 
-Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check in the specified document. Read-only.
+Returns a **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check in the specified document. Read-only.
 
 
 ## Syntax

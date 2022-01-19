@@ -21,7 +21,7 @@ Represents an Outlook item that is in conflict with another Outlook item.
 
  Each Outlook item has a **[Conflicts](Outlook.Conflicts.md)** collection object associated with it that represents all the items that are in conflict with that item.
 
-Use the  **[Item](Outlook.Conflicts.Item.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
+Use the **[Item](Outlook.Conflicts.Item.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
 
 
 ## Example

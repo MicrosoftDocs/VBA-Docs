@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationFolders.Session property (Outlook)
 
-Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
+Returns the **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax

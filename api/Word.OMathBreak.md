@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathBreak object (Word)
 
-Represents individual line breaks in an equation. Each  **OMathBreak** object is a member of the **[OMathBreaks](Word.OMathBreaks.md)** collection.
+Represents individual line breaks in an equation. Each **OMathBreak** object is a member of the **[OMathBreaks](Word.OMathBreaks.md)** collection.
 
 
 ## See also

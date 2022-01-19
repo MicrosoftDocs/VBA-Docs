@@ -31,6 +31,6 @@ Cell
 
 ## Remarks
 
-If the formula in this cell is a local formula, the  **InheritedFormulaSource** property returns itself.
+If the formula in this cell is a local formula, the **InheritedFormulaSource** property returns itself.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

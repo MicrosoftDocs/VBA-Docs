@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.UniqueID property (Project)
 
-Gets the unique identification number of the task. Read-only  **Long**.
+Gets the unique identification number of the task. Read-only **Long**.
 
 
 ## Syntax

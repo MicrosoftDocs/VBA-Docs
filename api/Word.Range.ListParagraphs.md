@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.ListParagraphs property (Word)
 
-Returns a  **ListParagraphs** collection that represents all the numbered paragraphs in the range. Read-only.
+Returns a **ListParagraphs** collection that represents all the numbered paragraphs in the range. Read-only.
 
 
 ## Syntax

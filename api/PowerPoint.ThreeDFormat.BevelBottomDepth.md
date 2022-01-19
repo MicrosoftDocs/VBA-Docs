@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ThreeDFormat.BevelBottomDepth property (PowerPoint)
 
-Returns or sets the bottom bevel height for the specified  **ThreeDFormat** object, in points. Read/write.
+Returns or sets the bottom bevel height for the specified **ThreeDFormat** object, in points. Read/write.
 
 
 ## Syntax

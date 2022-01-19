@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.DocumentLibraryVersions property (Word)
 
-Returns a  **DocumentLibraryVersions** collection that represents the collection of versions of a shared document that has versioning enabled and that is stored in a document library on a server.
+Returns a **DocumentLibraryVersions** collection that represents the collection of versions of a shared document that has versioning enabled and that is stored in a document library on a server.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Series.Name property (PowerPoint)
 
-Returns or sets the name of the object. Read/write  **String**.
+Returns or sets the name of the object. Read/write **String**.
 
 
 ## Syntax

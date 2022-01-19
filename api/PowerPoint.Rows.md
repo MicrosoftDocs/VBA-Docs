@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Rows object (PowerPoint)
 
-A collection of  **[Row](PowerPoint.Row.md)** objects that represent the rows in a table.
+A collection of **[Row](PowerPoint.Row.md)** objects that represent the rows in a table.
 
 
 ## Example
 
-Use the [Rows](PowerPoint.Table.Rows.md)property to return the  **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
+Use the [Rows](PowerPoint.Table.Rows.md)property to return the **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
 
 
 ```vb
@@ -45,7 +45,7 @@ Use the [Add](PowerPoint.Rows.Add.md)method to add a row to a table. This exampl
 ActivePresentation.Slides(2).Shapes(5).Table.Rows.Add (2)
 ```
 
-Use  **Rows** (_index_), where _index_ is a number that represents the position of the row in the table, to return a single **Row** object. This example deletes the first row from the table in shape five on slide two.
+Use **Rows** (_index_), where _index_ is a number that represents the position of the row in the table, to return a single **Row** object. This example deletes the first row from the table in shape five on slide two.
 
 
 

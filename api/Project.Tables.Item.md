@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Tables.Item property (Project)
 
-Gets a single  **Table** object from the **Tables** collection. Read-only **Table**.
+Gets a single **Table** object from the **Tables** collection. Read-only **Table**.
 
 
 ## Syntax

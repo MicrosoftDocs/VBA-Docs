@@ -26,8 +26,8 @@ _expression_ A variable that represents a **TextBox** object.
 
  **True** if pressing **ENTER** creates a new line, **False** if pressing **ENTER** moves the focus to the next object in the tab order (default).
 
-The **EnterKeyBehavior** and **[MultiLine](Outlook.textbox.multiline.md)** properties are closely related. The values described above only apply if **MultiLine** is **True**. If  **MultiLine** is **False**, pressing  **ENTER** always moves the focus to the next control in the tab order regardless of the value of **EnterKeyBehavior**.
+The **EnterKeyBehavior** and **[MultiLine](Outlook.textbox.multiline.md)** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing **ENTER** always moves the focus to the next control in the tab order regardless of the value of **EnterKeyBehavior**.
 
-The effect of pressing  **CTRL+ENTER** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+ENTER** creates a new line regardless of the value of **EnterKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+ENTER** has no effect.
+The effect of pressing **CTRL+ENTER** also depends on the value of **MultiLine**. If **MultiLine** is **True**, pressing **CTRL+ENTER** creates a new line regardless of the value of **EnterKeyBehavior**. If **MultiLine** is **False**, pressing **CTRL+ENTER** has no effect.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

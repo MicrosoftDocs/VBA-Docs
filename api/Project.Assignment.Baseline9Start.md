@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Baseline9Start property (Project)
 
-Gets or sets the baseline start date of a task  **Assignment**. Read/write **Variant**.
+Gets or sets the baseline start date of a task **Assignment**. Read/write **Variant**.
 
 
 ## Syntax

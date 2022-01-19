@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ParagraphFormat.Duplicate property (Word)
 
-Returns a read-only  **ParagraphFormat** object that represents the paragraph formatting of the specified paragraph.
+Returns a read-only **ParagraphFormat** object that represents the paragraph formatting of the specified paragraph.
 
 
 ## Syntax

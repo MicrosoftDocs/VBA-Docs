@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ColorFormat.TintAndShade property (Word)
 
-Returns a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
+Returns a **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
 ## Syntax

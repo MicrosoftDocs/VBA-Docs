@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.LockContents property (Word)
 
-Returns or sets a  **Boolean** that represents whether the user can edit the contents of a content control. Read/write.
+Returns or sets a **Boolean** that represents whether the user can edit the contents of a content control. Read/write.
 
 
 ## Syntax

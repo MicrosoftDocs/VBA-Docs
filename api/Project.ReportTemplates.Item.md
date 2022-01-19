@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ReportTemplates.Item property (Project)
 
-Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **ReportTemplate**.
+Gets a single **ReportTemplate** object from a **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **ReportTemplate**.
 
 
 ## Syntax

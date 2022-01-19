@@ -24,6 +24,6 @@ _expression_ A variable that represents a **ComboBox** object.
 
 ## Remarks
 
-If the control is bound to data, the  **Clear** method fails.
+If the control is bound to data, the **Clear** method fails.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

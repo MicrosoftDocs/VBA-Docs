@@ -48,7 +48,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use  **SeriesCollection** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
+Use **SeriesCollection** (_index_), where _index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
 
 
 

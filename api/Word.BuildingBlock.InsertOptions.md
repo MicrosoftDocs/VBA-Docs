@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BuildingBlock.InsertOptions property (Word)
 
-Returns or sets a  **Long** that represents how to insert the contents of a building block into a document. Read/write.
+Returns or sets a **Long** that represents how to insert the contents of a building block into a document. Read/write.
 
 
 ## Syntax

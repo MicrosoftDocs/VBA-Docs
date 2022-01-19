@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Axes.Item method (Word)
 
-Returns a single  **[Axis](Word.Axis.md)** object from an **Axes** collection.
+Returns a single **[Axis](Word.Axis.md)** object from an **Axes** collection.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Bottom_|Optional|**Long**| The size of the bottom margin in inches or centimeters.|
 | _Left_|Optional|**Long**|The size of the left margin in inches or centimeters.|
 | _Right_|Optional|**Long**|The size of the right margin in inches or centimeters.|
-| _Borders_|Optional|**Long**|Where to print borders. Can be one of the following  **PjBorder** constants: **pjNoBorder**, **pjAroundEveryPage**, or **pjOutsidePages**.|
+| _Borders_|Optional|**Long**|Where to print borders. Can be one of the following **PjBorder** constants: **pjNoBorder**, **pjAroundEveryPage**, or **pjOutsidePages**.|
 
 ## Return value
 

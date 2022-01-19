@@ -31,7 +31,7 @@ This method works only on built-in Outlook views.
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example resets all built-in views in the user's  **Inbox** default folder to their original settings. The **[Standard](Outlook.View.Standard.md)** property is returned to determine if the view is a built-in Outlook view.
+The following Visual Basic for Applications (VBA) example resets all built-in views in the user's **Inbox** default folder to their original settings. The **[Standard](Outlook.View.Standard.md)** property is returned to determine if the view is a built-in Outlook view.
 
 
 ```vb

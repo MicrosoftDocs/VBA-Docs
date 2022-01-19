@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpFixedFormatIntent enumeration (PowerPoint)
 
-Constants that specify the intent of the fixed-format file export, passed to the  **ExportAsFixedFormat** method of the **Presentation** object.
+Constants that specify the intent of the fixed-format file export, passed to the **ExportAsFixedFormat** method of the **Presentation** object.
 
 
 

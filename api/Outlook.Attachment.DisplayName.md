@@ -26,12 +26,12 @@ _expression_ A variable that represents an [Attachment](Outlook.Attachment.md) o
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayName**.
+This property corresponds to the MAPI property **PidTagDisplayName**.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Attachment.SaveAsFile](Outlook.Attachment.SaveAsFile.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
+This Visual Basic for Applications (VBA) example uses the **[Attachment.SaveAsFile](Outlook.Attachment.SaveAsFile.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
 
 
 ```vb

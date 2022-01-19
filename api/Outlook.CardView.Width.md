@@ -28,15 +28,15 @@ _expression_ A variable that represents a [CardView](Outlook.CardView.md) object
 
 This property can be set to a value between 20 and 1000. If this property is set to a value less than 20, the property is set to 20. If this property is set to a value greater than 1000, the property is set to 1000.
 
-The default value for this property depends on the  **[DefaultItemType](Outlook.Folder.DefaultItemType.md)** property value of the **[Folder](Outlook.Folder.md)** object displayed by the view:
+The default value for this property depends on the **[DefaultItemType](Outlook.Folder.DefaultItemType.md)** property value of the **[Folder](Outlook.Folder.md)** object displayed by the view:
 
 
 
 |** **DefaultItemType value****|** **Default value****|
 |:-----|:-----|
 | **olAppointmentItem**|40|
-| **olContactItem**,  **olDistributionListItem**|36|
-| **olJournalItem**,  **olMailItem**,  **olNoteItem**,  **olPostItem**|32|
+| **olContactItem**, **olDistributionListItem**|36|
+| **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**|32|
 | **olTaskItem**|50|
 
 ## See also

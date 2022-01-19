@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartStyle property (PowerPoint)
 
-Returns or sets the chart style for the chart. Read/write  **Variant**.
+Returns or sets the chart style for the chart. Read/write **Variant**.
 
 
 ## Syntax

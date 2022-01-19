@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataConnection.Document property (Visio)
 
-Gets the  **Document** object that contains the **DataConnection** object. Read-only.
+Gets the **Document** object that contains the **DataConnection** object. Read-only.
 
 
 > [!NOTE] 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.PrintBackgrounds property (Word)
 
-Returns a  **Boolean** that represents whether background colors and images are printed when a document is printed.
+Returns a **Boolean** that represents whether background colors and images are printed when a document is printed.
 
 
 ## Syntax

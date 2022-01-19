@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AddIns property (Word)
 
-Returns an  **[AddIns](Word.addins.md)** collection that represents all available add-ins, regardless of whether they're currently loaded. Read-only.
+Returns an **[AddIns](Word.addins.md)** collection that represents all available add-ins, regardless of whether they're currently loaded. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OutlookBarShortcut.SetIcon method (Outlook)
 
-Sets the icon for the specified shortcut on the  **Shortcuts** pane.
+Sets the icon for the specified shortcut on the **Shortcuts** pane.
 
 
 ## Syntax

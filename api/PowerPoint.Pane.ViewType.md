@@ -31,7 +31,7 @@ PpViewType
 
 ## Remarks
 
-The value of the  **ViewType** property can be one of these **PpViewType** constants.
+The value of the **ViewType** property can be one of these **PpViewType** constants.
 
 
 ||
@@ -51,7 +51,7 @@ The value of the  **ViewType** property can be one of these **PpViewType** const
 
 ## Example
 
-If the view in the active pane is slide view, this example makes the notes pane the active pane. The notes pane is the third member of the  **Panes** collection.
+If the view in the active pane is slide view, this example makes the notes pane the active pane. The notes pane is the third member of the **Panes** collection.
 
 
 ```vb

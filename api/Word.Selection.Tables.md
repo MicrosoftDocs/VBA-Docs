@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.Tables property (Word)
 
-Returns a  **[Tables](Word.tables.md)** collection that represents all the tables in the specified selection. Read-only.
+Returns a **[Tables](Word.tables.md)** collection that represents all the tables in the specified selection. Read-only.
 
 
 ## Syntax

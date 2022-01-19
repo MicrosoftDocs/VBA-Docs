@@ -21,7 +21,7 @@ Represents the high-low lines in a chart group.
 
  High-low lines connect the highest point with the lowest point in every category in the chart group. Only 2D line groups can have high-low lines. This object is not a collection. There is no object that represents a single high-low line; you either enable high-low lines for all points in a chart group or disable them.
 
-If the  **[HasHiLoLines](PowerPoint.ChartGroup.HasHiLoLines.md)** property is **False**, most properties of the **HiLoLines** object are disabled.
+If the **[HasHiLoLines](PowerPoint.ChartGroup.HasHiLoLines.md)** property is **False**, most properties of the **HiLoLines** object are disabled.
 
 
 ## Example
@@ -32,7 +32,7 @@ If the  **[HasHiLoLines](PowerPoint.ChartGroup.HasHiLoLines.md)** property is **
 > [!NOTE] 
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[HiLoLines](PowerPoint.ChartGroup.HiLoLines.md)** property to return the **HiLoLines** object. The following example uses the **HasHiLowLines** property to add high-low lines to the first chart (the chart must be a line chart) in the active document. The example then makes the high-low lines blue.
+Use the **[HiLoLines](PowerPoint.ChartGroup.HiLoLines.md)** property to return the **HiLoLines** object. The following example uses the **HasHiLowLines** property to add high-low lines to the first chart (the chart must be a line chart) in the active document. The example then makes the high-low lines blue.
 
 
 

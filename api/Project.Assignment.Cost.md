@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Cost property (Project)
 
-Gets the total cost of the assignment. Read/write  **Variant**.
+Gets the total cost of the assignment. Read/write **Variant**.
 
 
 ## Syntax

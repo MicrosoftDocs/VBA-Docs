@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Allow method (Outlook)
 
-Allows a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)**.
+Allows a sharing request and sends a sharing response to the sender of the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

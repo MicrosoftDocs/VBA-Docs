@@ -26,7 +26,7 @@ _expression_.**ShapeStyle**
 
 ## Remarks
 
-The value of the  **ShapeStyle** property can be one of the **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** constants.
+The value of the **ShapeStyle** property can be one of the **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** constants.
 
 
 ## See also

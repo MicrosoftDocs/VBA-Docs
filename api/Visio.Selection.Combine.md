@@ -31,15 +31,15 @@ Nothing
 
 ## Remarks
 
-Calling the  **Combine** method is equivalent to clicking **Combine** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape. The original shapes are deleted and no shapes are selected when the operation is complete.
+Calling the **Combine** method is equivalent to clicking **Combine** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). The produced shape will be the topmost shape in its containing shape and will inherit the text and formatting of the first selected shape. The original shapes are deleted and no shapes are selected when the operation is complete.
 
-The  **Combine** method is similar to the **Join** method but differs in the following ways:
-
-
+The **Combine** method is similar to the **Join** method but differs in the following ways:
 
 
-- The  **Combine** method produces a shape with one Geometry section for each original shape. The resulting shape will have holes in regions where the original shapes overlapped.
+
+
+- The **Combine** method produces a shape with one Geometry section for each original shape. The resulting shape will have holes in regions where the original shapes overlapped.
     
-- The  **Join** method differs from **Combine** in that it will coalesce abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
+- The **Join** method differs from **Combine** in that it will coalesce abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LookupTableEntry.Description property (Project)
 
-Gets or sets the description of the individual entry. Read/write  **String**.
+Gets or sets the description of the individual entry. Read/write **String**.
 
 
 ## Syntax

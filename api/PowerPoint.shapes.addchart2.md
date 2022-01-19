@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|**Long**|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
+| _Style_|Optional|**Long**|The chart style. Use "-1" to get the default style for the chart type specified in **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](Excel.XlChartType.md)|The type of chart.|
 | _Left_|Optional|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the left edge of the chart, relative to the anchor.|
 | _Top_|Optional|**Single**|The position, in [points](../language/glossary/vbe-glossary.md#point), of the top edge of the chart, relative to the anchor.|

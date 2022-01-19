@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeFields.AddIf method (Word)
 
-Adds an IF field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds an IF field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

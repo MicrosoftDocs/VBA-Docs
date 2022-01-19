@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisRotationTypes enumeration (Visio)
 
-Rotation type constants to be passed to the  **Selection.Rotate** method.
+Rotation type constants to be passed to the **Selection.Rotate** method.
 
 
 

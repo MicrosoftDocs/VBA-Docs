@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Example
 
-The following example demonstrates how  **SaveSheetSelection** and **RestoreSheetSelection** work.
+The following example demonstrates how **SaveSheetSelection** and **RestoreSheetSelection** work.
 
 
 ```vb

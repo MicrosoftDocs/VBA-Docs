@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.DefaultWorkUnits property (Project)
 
-Gets or sets the default work units for the project. Read/write  **PjUnit**.
+Gets or sets the default work units for the project. Read/write **PjUnit**.
 
 
 ## Syntax

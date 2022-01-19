@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.DocumentInspectors property (PowerPoint)
 
-Returns the Microsoft Office  **[DocumentInspectors](Office.DocumentInspectors.md)** collection. Read-only.
+Returns the Microsoft Office **[DocumentInspectors](Office.DocumentInspectors.md)** collection. Read-only.
 
 
 ## Syntax

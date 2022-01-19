@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LinkFormat.SourceName property (Word)
 
-Returns the name of the source file for the specified linked OLE object, picture, or field. Read-only  **String**.
+Returns the name of the source file for the specified linked OLE object, picture, or field. Read-only **String**.
 
 
 ## Syntax

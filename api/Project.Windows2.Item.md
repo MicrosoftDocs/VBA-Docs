@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Windows2.Item property (Project)
 
-Gets a single  **Window** object from the **Windows2** collection. Read-only **Window**.
+Gets a single **Window** object from the **Windows2** collection. Read-only **Window**.
 
 
 ## Syntax

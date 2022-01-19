@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OutlineCode.LinkedFieldID property (Project)
 
-Gets or sets the outline code field ID for a linked lookup table. Obsolete in Project. Read/write  **Long**.
+Gets or sets the outline code field ID for a linked lookup table. Obsolete in Project. Read/write **Long**.
 
 
 ## Syntax

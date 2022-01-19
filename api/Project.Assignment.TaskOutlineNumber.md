@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.TaskOutlineNumber property (Project)
 
-Gets the task outline number of the assignment. Read-only  **String**.
+Gets the task outline number of the assignment. Read-only **String**.
 
 
 ## Syntax

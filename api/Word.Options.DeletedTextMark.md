@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.DeletedTextMark property (Word)
 
-Returns or sets the format of text that is deleted while change tracking is enabled. Read/write  **WdDeletedTextMark**.
+Returns or sets the format of text that is deleted while change tracking is enabled. Read/write **WdDeletedTextMark**.
 
 
 ## Syntax

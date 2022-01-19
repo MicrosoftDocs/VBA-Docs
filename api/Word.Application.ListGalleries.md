@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ListGalleries property (Word)
 
-Returns a  **[ListGalleries](Word.listgalleries.md)** collection that represents the three list template galleries. .
+Returns a **[ListGalleries](Word.listgalleries.md)** collection that represents the three list template galleries. .
 
 
 ## Syntax

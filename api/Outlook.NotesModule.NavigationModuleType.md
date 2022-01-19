@@ -26,7 +26,7 @@ _expression_. `NavigationModuleType`
 
 ## Remarks
 
-This property returns  **olModuleNotes** for the **[NotesModule](Outlook.NotesModule.md)** object.
+This property returns **olModuleNotes** for the **[NotesModule](Outlook.NotesModule.md)** object.
 
 
 ## See also

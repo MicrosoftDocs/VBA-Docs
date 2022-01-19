@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime**. When you send an item using the object's **[Send](Outlook.MailItem.Send(method).md)** method, the transport provider sets the **[ReceivedTime](Outlook.MailItem.ReceivedTime.md)** and **SentOn** properties for you.
+This property corresponds to the MAPI property **PidTagClientSubmitTime**. When you send an item using the object's **[Send](Outlook.MailItem.Send(method).md)** method, the transport provider sets the **[ReceivedTime](Outlook.MailItem.ReceivedTime.md)** and **SentOn** properties for you.
 
 
 ## See also

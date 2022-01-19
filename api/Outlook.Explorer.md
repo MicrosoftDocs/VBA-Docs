@@ -22,13 +22,13 @@ Represents the window in which the contents of a folder are displayed.
 
 
 
-- Use the  **[Item](Outlook.Explorers.Item.md)** method of the **[Explorers](Outlook.Explorers.md)** object to return the object representing a specific explorer.
+- Use the **[Item](Outlook.Explorers.Item.md)** method of the **[Explorers](Outlook.Explorers.md)** object to return the object representing a specific explorer.
     
-- Use the  **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method to return the object representing the currently active explorer (if there is one).
+- Use the **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method to return the object representing the currently active explorer (if there is one).
     
-- Use the  **[GetExplorer](Outlook.Folder.GetExplorer.md)** method to return the **Explorer** object associated with a folder.
+- Use the **[GetExplorer](Outlook.Folder.GetExplorer.md)** method to return the **Explorer** object associated with a folder.
     
-- Use the  **[Display](Outlook.Folder.Display.md)** method of a **[Folder](Outlook.Folder.md)** object to display a folder in its associated explorer.
+- Use the **[Display](Outlook.Folder.Display.md)** method of a **[Folder](Outlook.Folder.md)** object to display a folder in its associated explorer.
     
 
 ## Events

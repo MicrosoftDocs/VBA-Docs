@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SelectUnlinkedControls method (Word)
 
-Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all content controls in a document that are not linked to an XML node in the document's XML data store. Read-only.
+Returns a **[ContentControls](Word.ContentControls.md)** collection that represents all content controls in a document that are not linked to an XML node in the document's XML data store. Read-only.
 
 
 ## Syntax

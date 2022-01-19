@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.AuthorName property (Visio)
 
-Returns the name of the author of the comment. Read-only  **String**.
+Returns the name of the author of the comment. Read-only **String**.
 
 
 ## Syntax

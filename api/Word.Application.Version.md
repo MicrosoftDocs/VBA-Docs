@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Version property (Word)
 
-Returns the Microsoft Word version number. Read-only  **String**.
+Returns the Microsoft Word version number. Read-only **String**.
 
 
 ## Syntax

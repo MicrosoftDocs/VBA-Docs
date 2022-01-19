@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Find method (Project)
 
-Searches for an unfiltered value; returns  **True** if the value is found.
+Searches for an unfiltered value; returns **True** if the value is found.
 
 
 ## Syntax

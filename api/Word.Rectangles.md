@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Rectangles object (Word)
 
-A collection of  **Rectangle** objects in a page that represent portions of text and graphics. Use the **Rectangles** collection and related objects and properties for programmatically defining page layout in a document.
+A collection of **Rectangle** objects in a page that represent portions of text and graphics. Use the **Rectangles** collection and related objects and properties for programmatically defining page layout in a document.
 
 
 ## Remarks

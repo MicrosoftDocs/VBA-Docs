@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideRange.HasNotesPage property (PowerPoint)
 
-Indicates whether the selected  **SlideRange** has media that resides on a notes page. Read-only.
+Indicates whether the selected **SlideRange** has media that resides on a notes page. Read-only.
 
 
 ## Syntax

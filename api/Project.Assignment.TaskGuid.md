@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Assignment.TaskGuid property (Project)
 
-Gets the GUID of the task for the assignment. Read-only  **String**.
+Gets the GUID of the task for the assignment. Read-only **String**.
 
 
 ## Syntax

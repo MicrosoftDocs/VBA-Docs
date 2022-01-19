@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressList.AddressEntries property (Outlook)
 
-Returns the  **[AddressEntries](Outlook.AddressEntries.md)** collection for the specified object. Read-only.
+Returns the **[AddressEntries](Outlook.AddressEntries.md)** collection for the specified object. Read-only.
 
 
 ## Syntax

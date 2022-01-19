@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CalendarModule](Outlook.CalendarModul
 
 ## Remarks
 
-This property returns  **olCalendarModule** for the **[CalendarModule](Outlook.CalendarModule.md)** object.
+This property returns **olCalendarModule** for the **[CalendarModule](Outlook.CalendarModule.md)** object.
 
 
 ## See also

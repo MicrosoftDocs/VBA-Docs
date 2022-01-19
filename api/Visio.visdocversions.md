@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisDocVersions enumeration (Visio)
 
-Return values for the  **Document.Version** property.
+Return values for the **Document.Version** property.
 
 
 

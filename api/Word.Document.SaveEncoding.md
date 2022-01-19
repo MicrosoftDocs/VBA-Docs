@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.SaveEncoding property (Word)
 
-Returns or sets the encoding to use when saving a document. Read/write  **MsoEncoding**.
+Returns or sets the encoding to use when saving a document. Read/write **MsoEncoding**.
 
 
 ## Syntax

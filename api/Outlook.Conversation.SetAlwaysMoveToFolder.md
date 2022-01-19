@@ -39,7 +39,7 @@ The **SetAlwaysMoveToFolder** method operates on conversation items in the deliv
 
 If the  _MoveToFolder_ parameter specifies an invalid folder that does not exist, has been moved, or is read-only, Outlook will raise an error.
 
-To stop the always-move-to-folder action for conversations items in a store, call the  **[StopAlwaysMoveToFolder](Outlook.Conversation.StopAlwaysMoveToFolder.md)** method.
+To stop the always-move-to-folder action for conversations items in a store, call the **[StopAlwaysMoveToFolder](Outlook.Conversation.StopAlwaysMoveToFolder.md)** method.
 
 
 
@@ -52,7 +52,7 @@ The **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to set the folder to which existing conversation items and new items that arrive in the conversation of a specific mail item are always moved. The code example,  `DemoSetAlwaysMoveToFolder`, chooses the first mail item displayed in the Reading Pane as the specific mail item, and the folder named "1-Reference" under the Inbox folder as the folder to move the conversation items to.  `DemoSetAlwaysMoveToFolder` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysMoveToFolder** to always move all existing conversation items and new items that arrive in the conversation to the specified folder.
+The following Visual Basic for Applications (VBA) example shows how to set the folder to which existing conversation items and new items that arrive in the conversation of a specific mail item are always moved. The code example,  `DemoSetAlwaysMoveToFolder`, chooses the first mail item displayed in the Reading Pane as the specific mail item, and the folder named "1-Reference" under the Inbox folder as the folder to move the conversation items to. `DemoSetAlwaysMoveToFolder` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysMoveToFolder** to always move all existing conversation items and new items that arrive in the conversation to the specified folder.
 
 
 ```vb

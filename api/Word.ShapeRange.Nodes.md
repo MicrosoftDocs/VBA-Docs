@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Nodes property (Word)
 
-Returns a  **ShapeNodes** collection that represents the geometric description of the specified shape.
+Returns a **ShapeNodes** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax

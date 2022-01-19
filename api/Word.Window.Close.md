@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[Window](Word.Window.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following  **WdSaveOptions** constants: **wdDoNotSaveChanges**, **wdPromptToSaveChanges**, or **wdSaveChanges**.|
+| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following **WdSaveOptions** constants: **wdDoNotSaveChanges**, **wdPromptToSaveChanges**, or **wdSaveChanges**.|
 | _RouteDocument_|Optional| **Variant**| **True** to route the document to the next recipient. If the document doesn't have a routing slip attached, this argument is ignored.|
 
 ## Example

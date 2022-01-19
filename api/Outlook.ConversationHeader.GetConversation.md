@@ -40,7 +40,7 @@ A **Conversation** object that represents the conversation to which this convers
     
 - Conversations are disabled through the Windows registry.
     
-- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange that is earlier than Microsoft Exchange Server 2010). Use the  **[IsConversationEnabled](Outlook.Store.IsConversationEnabled.md)** property of the **[Store](Outlook.Store.md)** object to determine whether the store supports Conversation view.
+- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange that is earlier than Microsoft Exchange Server 2010). Use the **[IsConversationEnabled](Outlook.Store.IsConversationEnabled.md)** property of the **[Store](Outlook.Store.md)** object to determine whether the store supports Conversation view.
     
 
 

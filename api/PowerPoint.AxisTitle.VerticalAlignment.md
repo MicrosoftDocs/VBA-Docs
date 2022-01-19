@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.VerticalAlignment property (PowerPoint)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
+Returns or sets the vertical alignment of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,18 +26,18 @@ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
+The value of this property can be set to one of the following **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 ## See also

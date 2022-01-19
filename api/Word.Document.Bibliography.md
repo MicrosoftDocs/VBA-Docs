@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Bibliography property (Word)
 
-Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references contained within a document. Read-only.
+Returns a **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references contained within a document. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.EnforceStyle property (Word)
 
-Returns or sets a  **Boolean** that represents whether formatting restrictions are enforced in a protected document.
+Returns or sets a **Boolean** that represents whether formatting restrictions are enforced in a protected document.
 
 
 ## Syntax

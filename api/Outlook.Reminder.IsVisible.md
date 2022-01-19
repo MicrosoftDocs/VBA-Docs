@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Reminder](Outlook.Reminder.md) object
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example dismisses all reminders that are currently visible. For example, if the current reminder is active, the  **IsVisible** property will return **True**.
+The following Microsoft Visual Basic for Applications (VBA) example dismisses all reminders that are currently visible. For example, if the current reminder is active, the **IsVisible** property will return **True**.
 
 
 ```vb

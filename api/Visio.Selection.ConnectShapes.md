@@ -31,7 +31,7 @@ Nothing
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ConnectShapes** method to connect two shapes.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ConnectShapes** method to connect two shapes.
 
 
 ```vb

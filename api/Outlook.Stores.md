@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Stores object (Outlook)
 
-A set of  **[Store](Outlook.Store.md)** objects representing all the stores available in the current profile.
+A set of **[Store](Outlook.Store.md)** objects representing all the stores available in the current profile.
 
 
 ## Remarks
 
-You can use the  **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see [Storing Outlook Items](../outlook/How-to/Items-Folders-and-Stores/storing-outlook-items.md).
+You can use the **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see [Storing Outlook Items](../outlook/How-to/Items-Folders-and-Stores/storing-outlook-items.md).
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Masters.SelectionDeleteCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSelectionDelete** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelSelectionDelete** event.
 
 
 ## Syntax

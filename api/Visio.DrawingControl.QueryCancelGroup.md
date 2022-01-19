@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.QueryCancelGroup event (Visio)
 
-Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application groups a selection of shapes in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -31,18 +31,18 @@ _expression_ A variable that represents a **[DrawingControl](Visio.DrawingContro
 
 ## Remarks
 
-A Microsoft Visio instance fires  **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
+A Microsoft Visio instance fires **QueryCancelGroup** after the user has directed the instance to group a selection of shapes.
 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **GroupCanceled** and does not group the shapes.
+- If any event handler returns **True** (cancel), the instance fires **GroupCanceled** and does not group the shapes.
     
-- If all handlers return  **False** (don't cancel), the grouping is performed.
+- If all handlers return **False** (don't cancel), the grouping is performed.
     
 
 
-In some cases, such as when a shape that has a  **ForeignType** property of **visTypeMetafile** is grouped, the initial shape will be deleted and replaced with new shapes. In such cases, the Visio instance will subsequently fire **BeforeSelectionDelete** and **BeforeShapeDelete** events before grouping the shapes.
+In some cases, such as when a shape that has a **ForeignType** property of **visTypeMetafile** is grouped, the initial shape will be deleted and replaced with new shapes. In such cases, the Visio instance will subsequently fire **BeforeSelectionDelete** and **BeforeShapeDelete** events before grouping the shapes.
 
 While a Visio instance is firing a query or cancel event, it will respond to inquiries from client code but will refuse to perform operations. Client code can show forms or message boxes while responding to a query or cancel event.
 

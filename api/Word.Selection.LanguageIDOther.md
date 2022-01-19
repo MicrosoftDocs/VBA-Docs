@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Selection.LanguageIDOther property (Word)
 
-Returns or sets the language for the specified object. Read/write  **WdLanguageID**.
+Returns or sets the language for the specified object. Read/write **WdLanguageID**.
 
 
 ## Syntax

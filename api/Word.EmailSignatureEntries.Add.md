@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EmailSignatureEntries.Add method (Word)
 
-Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that represents a new email signature entry.
+Returns an **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that represents a new email signature entry.
 
 
 ## Syntax

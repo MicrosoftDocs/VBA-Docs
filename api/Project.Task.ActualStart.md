@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ActualStart property (Project)
 
-Gets or sets the actual start date of the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual start date of the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

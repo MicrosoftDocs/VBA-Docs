@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.Frames property (Word)
 
-Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a range. Read-only.
+Returns a **[Frames](Word.Frames.md)** collection that represents all the frames in a range. Read-only.
 
 
 ## Syntax

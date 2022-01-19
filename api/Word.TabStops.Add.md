@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabStops.Add method (Word)
 
-Returns a  **TabStop** object that represents a custom tab stop added to a document.
+Returns a **TabStop** object that represents a custom tab stop added to a document.
 
 
 ## Syntax

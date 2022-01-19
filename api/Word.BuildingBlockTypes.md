@@ -14,14 +14,14 @@ ms.localizationpriority: medium
 
 # BuildingBlockTypes object (Word)
 
-Represents a collection of  **[BuildingBlockType](Word.BuildingBlockType.md)** objects.
+Represents a collection of **[BuildingBlockType](Word.BuildingBlockType.md)** objects.
 
 
 ## Remarks
 
-Building block types are represented by  **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constants. Use the **[Item](Word.BuildingBlockTypes.Item.md)** method to access a specific type in the **BuildingBlockTypes** collection.
+Building block types are represented by **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constants. Use the **[Item](Word.BuildingBlockTypes.Item.md)** method to access a specific type in the **BuildingBlockTypes** collection.
 
-To loop through the different building block types, use a  **For** loop with the **[Count](Word.BuildingBlockTypes.Count.md)** property. The following example loops through the building block types and prints the name in the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
+To loop through the different building block types, use a **For** loop with the **[Count](Word.BuildingBlockTypes.Count.md)** property. The following example loops through the building block types and prints the name in the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 

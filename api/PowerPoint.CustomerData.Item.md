@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomerData.Item method (PowerPoint)
 
-Returns the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
+Returns the specified **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_.**Item** (_Id_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Id_|Required|**String**|The ID of the  **CustomXMLPart** object.|
+| _Id_|Required|**String**|The ID of the **CustomXMLPart** object.|
 
 ## Return value
 
@@ -37,7 +37,7 @@ CustomXMLPart
 
 ## Remarks
 
-Individual  **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to get to the Id parameter of the **Item** method as a **String**. You can get the ID of a particular custom XML part by getting the value of the **Id** property of the **CustomXMLPart** object.
+Individual **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to get to the Id parameter of the **Item** method as a **String**. You can get the ID of a particular custom XML part by getting the value of the **Id** property of the **CustomXMLPart** object.
 
 
 ## Example

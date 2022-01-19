@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Caption property (Word)
 
-Returns or sets the text displayed in the Title bar of the application window. Read/write  **String**.
+Returns or sets the text displayed in the Title bar of the application window. Read/write **String**.
 
 
 ## Syntax

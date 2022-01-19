@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Columns.First property (Word)
 
-Returns a  **[Column](Word.Column.md)** object that represents the first item in the **Columns** collection.
+Returns a **[Column](Word.Column.md)** object that represents the first item in the **Columns** collection.
 
 
 ## Syntax

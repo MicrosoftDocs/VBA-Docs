@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OutlineCodes.Item property (Project)
 
-Gets a single  **OutlineCode** object from the **OutlineCodes** collection. Read-only **OutlineCode**.
+Gets a single **OutlineCode** object from the **OutlineCodes** collection. Read-only **OutlineCode**.
 
 
 ## Syntax

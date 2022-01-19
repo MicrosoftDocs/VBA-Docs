@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.Open method (Word)
 
-Opens the specified  **OLEFormat** object.
+Opens the specified **OLEFormat** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.EarnedValueMethod property (Project)
 
-Gets or sets the method for calculating earned value for a task. Read/write  **PjEarnedValueMethod**.
+Gets or sets the method for calculating earned value for a task. Read/write **PjEarnedValueMethod**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Number3 property (Project)
 
-Gets or sets a Number local custom field for a task. Read/write  **Double**.
+Gets or sets a Number local custom field for a task. Read/write **Double**.
 
 
 ## Syntax

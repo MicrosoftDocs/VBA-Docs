@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.Delete method (PowerPoint)
 
-Deletes the specified  **Shape** object.
+Deletes the specified **Shape** object.
 
 
 ## Syntax

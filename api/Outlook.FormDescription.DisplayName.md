@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormDescription](Outlook.FormDescript
 
 ## Remarks
 
-If both the  **[FormDescription.Name](Outlook.FormDescription.Name.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
+If both the **[FormDescription.Name](Outlook.FormDescription.Name.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
 
 
 ## See also

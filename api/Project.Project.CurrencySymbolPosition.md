@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.CurrencySymbolPosition property (Project)
 
-Gets or sets the location of the currency symbol. Read/write  **PjPlacement**.
+Gets or sets the location of the currency symbol. Read/write **PjPlacement**.
 
 
 ## Syntax

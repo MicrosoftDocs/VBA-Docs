@@ -19,7 +19,7 @@ The **Accounts** collection object contains a set of **[Account](Outlook.Account
 
 ## Remarks
 
-The purpose of the  **Accounts** collection object and the **Account** object is to allow the enumeration of **Account** objects in a given profile, the identification of the type of an **Account**, and the use of a specific **Account** object to send mail.
+The purpose of the **Accounts** collection object and the **Account** object is to allow the enumeration of **Account** objects in a given profile, the identification of the type of an **Account**, and the use of a specific **Account** object to send mail.
 
 
 ## Events

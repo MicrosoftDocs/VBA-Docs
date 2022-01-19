@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StyleSheets object (Word)
 
-A collection of  **StyleSheet** objects that represents the cascading style sheets attached to a document. The **StyleSheets** collection includes all cascading style sheets displayed in the **Linked CSS Style Sheets** dialog box.
+A collection of **StyleSheet** objects that represents the cascading style sheets attached to a document. The **StyleSheets** collection includes all cascading style sheets displayed in the **Linked CSS Style Sheets** dialog box.
 
 
 ## Remarks

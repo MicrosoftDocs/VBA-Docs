@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.CharacterWidth property (Word)
 
-Returns or sets the character width of the specified range. Read/write  **WdCharacterWidth**.
+Returns or sets the character width of the specified range. Read/write **WdCharacterWidth**.
 
 
 ## Syntax

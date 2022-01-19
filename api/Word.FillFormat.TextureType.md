@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FillFormat.TextureType property (Word)
 
-Returns the texture type for the specified fill. Read-only  **MsoTextureType**.
+Returns the texture type for the specified fill. Read-only **MsoTextureType**.
 
 
 ## Syntax

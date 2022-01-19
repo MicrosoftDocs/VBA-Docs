@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Table](PowerPoint.Table.md) object.
 
 ## Remarks
 
-Use the  **ScaleProportionally** method to resize a table and maintain the text layout as close as possible to the original layout.
+Use the **ScaleProportionally** method to resize a table and maintain the text layout as close as possible to the original layout.
 
 
 ## See also

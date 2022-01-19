@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.SuspendCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelSuspend** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelSuspend** event.
 
 
 ## Syntax

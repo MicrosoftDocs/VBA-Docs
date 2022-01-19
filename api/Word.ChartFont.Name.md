@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartFont.Name property (Word)
 
-Returns or sets the name of the object. Read/write  **String**.
+Returns or sets the name of the object. Read/write **String**.
 
 
 ## Syntax

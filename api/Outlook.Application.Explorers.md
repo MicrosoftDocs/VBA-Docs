@@ -39,7 +39,7 @@ Private Sub CountExplorers()
 End Sub
 ```
 
-The following VBA example uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the explorer that displays the **Inbox**. To run this example, you need to have at least one mail item selected in the explorer displaying the Inbox. You might receive an error if you select items other than a mail item such as task request as the  **SenderName** property does not exist for a **[TaskRequestItem](Outlook.TaskRequestItem.md)** object.
+The following VBA example uses the **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the explorer that displays the **Inbox**. To run this example, you need to have at least one mail item selected in the explorer displaying the Inbox. You might receive an error if you select items other than a mail item such as task request as the **SenderName** property does not exist for a **[TaskRequestItem](Outlook.TaskRequestItem.md)** object.
 
 
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|**True** if Project shows the side pane for the **Project Guide**.  **False** if Project hides the side pane for the **Project Guide**.|
+| _Show_|Optional|**Boolean**|**True** if Project shows the side pane for the **Project Guide**. **False** if Project hides the side pane for the **Project Guide**.|
 
 ## Return value
 

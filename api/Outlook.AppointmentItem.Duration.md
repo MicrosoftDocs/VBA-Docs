@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 ## Example
 
-This Visual Basic for Applications example uses  **[Application.CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[AppointmentItem.MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses **[Application.CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[AppointmentItem.MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb

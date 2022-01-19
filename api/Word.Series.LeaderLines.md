@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Series.LeaderLines property (Word)
 
-Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)**.
+Returns the leader lines for the series. Read-only **[LeaderLines](Word.LeaderLines.md)**.
 
 
 ## Syntax

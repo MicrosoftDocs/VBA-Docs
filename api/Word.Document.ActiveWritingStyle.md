@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.ActiveWritingStyle property (Word)
 
-Returns or sets the writing style for a specified language in the specified document. Read/write  **String**.
+Returns or sets the writing style for a specified language in the specified document. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _LanguageID_|Required| **Variant**|The language to set the writing style for in the specified document. Can be either a string or one of the following  **WdLanguageID** constants. Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _LanguageID_|Required| **Variant**|The language to set the writing style for in the specified document. Can be either a string or one of the following **WdLanguageID** constants. Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 

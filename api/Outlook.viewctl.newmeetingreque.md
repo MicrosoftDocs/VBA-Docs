@@ -21,8 +21,8 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 ## Remarks
 
-When the meeting request is sent, the corresponding appointment is saved to the  **Calendar**folder, if any, that is displayed in the control. If there is no folder displayed in the control, the appointment is saved to the user's default  **Calendar** folder.
+When the meeting request is sent, the corresponding appointment is saved to the **Calendar**folder, if any, that is displayed in the control. If there is no folder displayed in the control, the appointment is saved to the user's default **Calendar** folder.
 
-Responses to the meeting request are tallied only if the appointment is saved to the user's default  **Calendar** folder.
+Responses to the meeting request are tallied only if the appointment is saved to the user's default **Calendar** folder.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

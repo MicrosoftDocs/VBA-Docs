@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Task.EarlyFinish property (Project)
 
-Gets the earliest date on which a task can finish. Read-only  **Variant**.
+Gets the earliest date on which a task can finish. Read-only **Variant**.
 
 
 ## Syntax

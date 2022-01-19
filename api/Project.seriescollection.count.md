@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # SeriesCollection.Count property (Project)
-Gets the number of  **Series** objects in the collection. Read-only **Long**.
+Gets the number of **Series** objects in the collection. Read-only **Long**.
 
 ## Syntax
 

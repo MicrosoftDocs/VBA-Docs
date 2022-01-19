@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Dictionaries.Maximum property (Word)
 
-Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long**.
+Returns the maximum number of custom or conversion dictionaries allowed. Read-only **Long**.
 
 
 ## Syntax

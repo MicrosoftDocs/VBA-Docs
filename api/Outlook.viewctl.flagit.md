@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.FlagItem Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Flag for Follow Up** dialog box for the selected item.
+Displays the Microsoft Outlook **Flag for Follow Up** dialog box for the selected item.
 
 
 ## Syntax

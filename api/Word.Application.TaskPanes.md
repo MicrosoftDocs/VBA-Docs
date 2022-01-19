@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.TaskPanes property (Word)
 
-Returns a  **[TaskPanes](Word.TaskPanes.md)** collection that represents the most commonly performed tasks in Microsoft Word.
+Returns a **[TaskPanes](Word.TaskPanes.md)** collection that represents the most commonly performed tasks in Microsoft Word.
 
 
 ## Syntax

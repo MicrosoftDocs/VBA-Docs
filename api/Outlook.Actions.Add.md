@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Actions.Add method (Outlook)
 
-Creates a new action in the  **[Actions](Outlook.Actions.md)** collection.
+Creates a new action in the **[Actions](Outlook.Actions.md)** collection.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ An **[Action](Outlook.Action.md)** object that represents the new action.
 
 ## Example
 
-This VBA example creates a new mail message and uses the  **Add** method to add an **[Action](Outlook.Action.md)** to it. To run this example without any errors, replace 'Dan Wilson' with a valid recipient name.
+This VBA example creates a new mail message and uses the **Add** method to add an **[Action](Outlook.Action.md)** to it. To run this example without any errors, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

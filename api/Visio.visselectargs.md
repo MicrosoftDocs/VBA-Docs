@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisSelectArgs enumeration (Visio)
 
-Selection-type constants to be passed to the  **Selection.Select** and **Window.Select** methods.
+Selection-type constants to be passed to the **Selection.Select** and **Window.Select** methods.
 
 
 

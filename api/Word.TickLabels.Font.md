@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TickLabels.Font property (Word)
 
-Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFont.md)**.
+Returns the font of the specified object. Read-only **[ChartFont](Word.ChartFont.md)**.
 
 
 ## Syntax

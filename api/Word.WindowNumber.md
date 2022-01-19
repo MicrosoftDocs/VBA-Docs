@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Window.WindowNumber property (Word)
 
-Returns the window number of the document displayed in the specified window. For example, if the caption of the window is "Sales.doc:2", this property returns the number 2. Read-only  **Long**.
+Returns the window number of the document displayed in the specified window. For example, if the caption of the window is "Sales.doc:2", this property returns the number 2. Read-only **Long**.
 
 
 ## Syntax

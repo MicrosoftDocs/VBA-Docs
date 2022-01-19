@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WebOptions.BrowserLevel property (Word)
 
-Returns or sets  **WdBrowserLevel** that represents the level of web browser at which you want to target the specified Web page. Read/write.
+Returns or sets **WdBrowserLevel** that represents the level of web browser at which you want to target the specified Web page. Read/write.
 
 
 ## Syntax

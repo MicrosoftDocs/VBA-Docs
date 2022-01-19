@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Line property (Project)
-Gets the line formatting properties for the shape. Read-only  **[LineFormat](https://msdn.microsoft.com/library/office/ff194214%28v=office.15%29)**.
+Gets the line formatting properties for the shape. Read-only **[LineFormat](https://msdn.microsoft.com/library/office/ff194214%28v=office.15%29)**.
 
 ## Syntax
 

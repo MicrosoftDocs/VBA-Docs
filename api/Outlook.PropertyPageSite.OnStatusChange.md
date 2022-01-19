@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PropertyPageSite](Outlook.PropertyPag
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example shows how to call the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method to notify Outlook that the user has changed a value on a custom property page.
+This Microsoft Visual Basic for Applications (VBA) example shows how to call the **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method to notify Outlook that the user has changed a value on a custom property page.
 
 
 ```vb

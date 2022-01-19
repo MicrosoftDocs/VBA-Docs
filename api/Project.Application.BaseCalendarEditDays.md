@@ -31,9 +31,9 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to change.|
-| _StartDate_|Optional|**Variant**|The first date to change. If  **StartDate** is specified without **EndDate**, that date is the only day affected. If **WeekDay** is specified, **StartDate** is ignored.|
-| _EndDate_|Optional|**Variant**|The last date to change. If  **EndDate** is specified without **StartDate**, that date is the only day affected. If **WeekDay** is specified, **EndDate** is ignored.|
-| _WeekDay_|Optional|**Long**|The weekday to change. If  **StartDate** or **EndDate** is specified, **WeekDay** is ignored. Can be one of the **[PjWeekday](Project.PjWeekday.md)** constants.|
+| _StartDate_|Optional|**Variant**|The first date to change. If **StartDate** is specified without **EndDate**, that date is the only day affected. If **WeekDay** is specified, **StartDate** is ignored.|
+| _EndDate_|Optional|**Variant**|The last date to change. If **EndDate** is specified without **StartDate**, that date is the only day affected. If **WeekDay** is specified, **EndDate** is ignored.|
+| _WeekDay_|Optional|**Long**|The weekday to change. If **StartDate** or **EndDate** is specified, **WeekDay** is ignored. Can be one of the **[PjWeekday](Project.PjWeekday.md)** constants.|
 | _Working_|Optional|**Boolean**|**True** if the days are working days.|
 | _From1_|Optional|**Variant**|The start time of the first shift.|
 | _To1_|Optional|**Variant**|The end time of the first shift.|
@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _To2_|Optional|**Variant**|The end time of the second shift.|
 | _From3_|Optional|**Variant**|The start time of the third shift.|
 | _To3_|Optional|**Variant**|The end time of the third shift.|
-| _Default_|Optional|**Boolean**|Resets the dates specified by  **StartDate** and **EndDate**, or by **WeekDay**, to the default values. If **Working** is specified, **Default** is ignored.|
+| _Default_|Optional|**Boolean**|Resets the dates specified by **StartDate** and **EndDate**, or by **WeekDay**, to the default values. If **Working** is specified, **Default** is ignored.|
 | _From4_|Optional|**Variant**|The start time of the fourth shift.|
 | _To4_|Optional|**Variant**|The end time of the fourth shift.|
 | _From5_|Optional|**Variant**|The start time of the fifth shift.|

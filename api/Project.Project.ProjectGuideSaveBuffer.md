@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Project.ProjectGuideSaveBuffer property (Project)
 
-Gets or sets an XML string representing the save buffer of the Project Guide. Read/write  **String**.
+Gets or sets an XML string representing the save buffer of the Project Guide. Read/write **String**.
 
 
 ## Syntax

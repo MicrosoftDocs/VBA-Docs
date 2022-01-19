@@ -21,9 +21,9 @@ Represents a contact in a Contacts folder.
 
 A contact can represent any person with whom you have any personal or professional contact.
 
-Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **ContactItem** object that represents a new contact.
+Use the **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **ContactItem** object that represents a new contact.
 
-Use  **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of a contact or a value used to match the default property of a contact, to return a single **ContactItem** object from a Contacts folder.
+Use **[Items](Outlook.Folder.Items.md)** (_index_), where _index_ is the index number of a contact or a value used to match the default property of a contact, to return a single **ContactItem** object from a Contacts folder.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AddressEntries.Add method (Outlook)
 
-Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
+Adds a new entry to the **[AddressEntries](Outlook.AddressEntries.md)** collection.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ An **[AddressEntry](Outlook.AddressEntry.md)** object that represents the new en
 
 ## Remarks
 
-New entries or changes to existing entries are not persisted in the collection until after calling the  **[Update](Outlook.AddressEntry.Update.md)** method.
+New entries or changes to existing entries are not persisted in the collection until after calling the **[Update](Outlook.AddressEntry.Update.md)** method.
 
 
 ## See also

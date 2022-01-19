@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Cell.Selected property (PowerPoint)
 
-Returns  **True** if the specified table cell is selected. Read-only.
+Returns **True** if the specified table cell is selected. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # XMLNamespace.URI property (Word)
 
-Returns a  **String** that represents the Uniform Resource Identifier (URI) of the associated namespace.
+Returns a **String** that represents the Uniform Resource Identifier (URI) of the associated namespace.
 
 
 ## Syntax

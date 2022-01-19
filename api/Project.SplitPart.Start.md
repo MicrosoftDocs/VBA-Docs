@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # SplitPart.Start property (Project)
 
-Gets or sets the start date of the task split part. Read/write  **Variant**.
+Gets or sets the start date of the task split part. Read/write **Variant**.
 
 
 ## Syntax

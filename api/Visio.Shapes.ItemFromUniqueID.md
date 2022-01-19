@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shapes.ItemFromUniqueID property (Visio)
 
-Returns the  **[Shape](Visio.Shape.md)** object that matches the specified **[UniqueID](Visio.Shape.UniqueID.md)** property value. Read-only.
+Returns the **[Shape](Visio.Shape.md)** object that matches the specified **[UniqueID](Visio.Shape.UniqueID.md)** property value. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Shapes](Visio.Shapes.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _UniqueID_|Required| **String**|The unique ID of a  **Shape** object.|
+| _UniqueID_|Required| **String**|The unique ID of a **Shape** object.|
 
 ## Return value
 
@@ -43,10 +43,10 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
 Unique IDs are GUIDs. They are unique within the scope of the document.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **[Page](Visio.Page.md)** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)**.
+To convert between shape IDs and unique IDs, you can use two methods of the **[Page](Visio.Page.md)** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **[UniqueIDsToShapeIDs](Visio.Page.UniqueIDsToShapeIDs.md)**.
 
-By default, a shape does not have a unique ID. A shape acquires a unique ID only if you get its read-only  **UniqueID** property value by calling the property on the shape, passing it the **visGetOrMake** constant from the **[VisUniqueIDArgs](Visio.visuniqueidargs.md)** enumeration.
+By default, a shape does not have a unique ID. A shape acquires a unique ID only if you get its read-only **UniqueID** property value by calling the property on the shape, passing it the **visGetOrMake** constant from the **[VisUniqueIDArgs](Visio.visuniqueidargs.md)** enumeration.
 
-If a  **Shape** object has a unique ID, no other shape in the same document will have the same ID.
+If a **Shape** object has a unique ID, no other shape in the same document will have the same ID.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

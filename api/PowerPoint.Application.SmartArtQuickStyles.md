@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SmartArtQuickStyles property (PowerPoint)
 
-Returns the quick styles of the SmartArt diagram in the current  **Application** object. Read-only.
+Returns the quick styles of the SmartArt diagram in the current **Application** object. Read-only.
 
 
 ## Syntax

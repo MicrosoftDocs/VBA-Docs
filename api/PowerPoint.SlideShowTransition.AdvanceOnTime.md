@@ -31,9 +31,9 @@ MsoTriState
 
 ## Remarks
 
-Use the  **[AdvanceTime](PowerPoint.SlideShowTransition.AdvanceTime.md)** property to specify the number of seconds after which the slide automatically advances. Set the **[AdvanceMode](PowerPoint.SlideShowSettings.AdvanceMode.md)** property of the **SlideShowSettings** object to **ppSlideShowUseSlideTimings** to put the slide interval settings into effect for the entire slide show.
+Use the **[AdvanceTime](PowerPoint.SlideShowTransition.AdvanceTime.md)** property to specify the number of seconds after which the slide automatically advances. Set the **[AdvanceMode](PowerPoint.SlideShowSettings.AdvanceMode.md)** property of the **SlideShowSettings** object to **ppSlideShowUseSlideTimings** to put the slide interval settings into effect for the entire slide show.
 
-The value of the  **AdvanceOnTime** property can be one of these **MsoTriState** constants.
+The value of the **AdvanceOnTime** property can be one of these **MsoTriState** constants.
 
 
 

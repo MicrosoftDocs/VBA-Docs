@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisGraphicPositionVertical enumeration (Visio)
 
-Constants passed to and returned by the  **GraphicItem.VerticalPosition** property. Used to determine the vertical position of a graphic item relative to its container or to a shape.
+Constants passed to and returned by the **GraphicItem.VerticalPosition** property. Used to determine the vertical position of a graphic item relative to its container or to a shape.
 
 
 > [!NOTE] 

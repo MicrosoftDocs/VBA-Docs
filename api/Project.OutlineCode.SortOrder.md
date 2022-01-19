@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # OutlineCode.SortOrder property (Project)
 
-Gets or sets the order by which the outline code items are sorted. Read/write  **[PjListOrder](Project.PjListOrder.md)**.
+Gets or sets the order by which the outline code items are sorted. Read/write **[PjListOrder](Project.PjListOrder.md)**.
 
 
 ## Syntax

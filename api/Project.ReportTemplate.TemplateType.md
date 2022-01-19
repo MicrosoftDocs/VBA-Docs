@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # ReportTemplate.TemplateType property (Project)
 
-Gets the Visual Report template type. Read-only  **PjVisualReportsTemplateType**.
+Gets the Visual Report template type. Read-only **PjVisualReportsTemplateType**.
 
 
 ## Syntax

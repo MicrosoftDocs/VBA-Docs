@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Template.BuildingBlockEntries property (Word)
 
-Returns a  **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collection that represents the collection of building block entries in a template. Read-only.
+Returns a **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collection that represents the collection of building block entries in a template. Read-only.
 
 
 ## Syntax

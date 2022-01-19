@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpViewType enumeration (PowerPoint)
 
-Constants that specify the type of view, passed to and returned by the  **DocumentWindow** object, and returned by the **Pane** object.
+Constants that specify the type of view, passed to and returned by the **DocumentWindow** object, and returned by the **Pane** object.
 
 
 

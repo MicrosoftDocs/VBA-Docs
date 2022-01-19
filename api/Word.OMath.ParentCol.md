@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMath.ParentCol property (Word)
 
-Returns an  **[OMathMatCol](Word.OMathMatCol.md)** object that represents the parent column in a matrix. Read-only.
+Returns an **[OMathMatCol](Word.OMathMatCol.md)** object that represents the parent column in a matrix. Read-only.
 
 
 ## Syntax

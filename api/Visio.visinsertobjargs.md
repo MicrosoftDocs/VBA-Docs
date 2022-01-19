@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisInsertObjArgs enumeration (Visio)
 
-Flags to be passed to the  **Page.InsertObject** and **Page.InsertFromFile** methods.
+Flags to be passed to the **Page.InsertObject** and **Page.InsertFromFile** methods.
 
 
 

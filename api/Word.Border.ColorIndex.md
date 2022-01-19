@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Border.ColorIndex property (Word)
 
-Returns or sets the color for the specified border or font object. Read/write  **WdColorIndex**.
+Returns or sets the color for the specified border or font object. Read/write **WdColorIndex**.
 
 
 ## Syntax

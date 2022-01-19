@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Break.PageIndex property (Word)
 
-Returns a  **Long** that represents the page number on which the specified break occurs.
+Returns a **Long** that represents the page number on which the specified break occurs.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.CategoryNames property (Word)
 
-Returns or sets all the category names as a text array for the specified axis. Read/write  **Variant**.
+Returns or sets all the category names as a text array for the specified axis. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.PageSetup property (Word)
 
-Returns a  **PageSetup** object that is associated with the specified document.
+Returns a **PageSetup** object that is associated with the specified document.
 
 
 ## Syntax

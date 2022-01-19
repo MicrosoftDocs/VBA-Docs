@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.InlineShapes property (Word)
 
-Returns an  **[InlineShapes](Word.Document.InlineShapes.md)** collection that represents all the **[InlineShape](Word.InlineShape.md)** objects in a document. Read-only.
+Returns an **[InlineShapes](Word.Document.InlineShapes.md)** collection that represents all the **[InlineShape](Word.InlineShape.md)** objects in a document. Read-only.
 
 
 ## Syntax

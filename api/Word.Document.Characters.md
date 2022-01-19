@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.Characters property (Word)
 
-Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document. Read-only.
+Returns a **[Characters](Word.characters.md)** collection that represents the characters in a document. Read-only.
 
 
 ## Syntax

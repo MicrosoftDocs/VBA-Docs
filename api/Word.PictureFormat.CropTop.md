@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PictureFormat.CropTop property (Word)
 
-Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single**.
+Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write **Single**.
 
 
 ## Syntax

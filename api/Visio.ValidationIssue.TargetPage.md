@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ValidationIssue.TargetPage property (Visio)
 
-Returns the  **[Page](Visio.Page.md)** object that is associated with the validation issue. Read-only.
+Returns the **[Page](Visio.Page.md)** object that is associated with the validation issue. Read-only.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ _expression_ A variable that represents a **[ValidationIssue](Visio.ValidationIs
 
 ## Remarks
 
-If the issue is not associated with a specific page, the  **TargetPage** property returns **Nothing**.
+If the issue is not associated with a specific page, the **TargetPage** property returns **Nothing**.
 
-If the target page is not valid (for example, if it has been deleted), the  **TargetPage** property returns an error.
+If the target page is not valid (for example, if it has been deleted), the **TargetPage** property returns an error.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

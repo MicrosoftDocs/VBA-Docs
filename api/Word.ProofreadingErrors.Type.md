@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ProofreadingErrors.Type property (Word)
 
-Returns the type of proofreading error. Read-only  **[WdProofreadingErrorType](Word.WdProofreadingErrorType.md)**.
+Returns the type of proofreading error. Read-only **[WdProofreadingErrorType](Word.WdProofreadingErrorType.md)**.
 
 
 ## Syntax

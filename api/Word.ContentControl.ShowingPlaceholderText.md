@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.ShowingPlaceholderText property (Word)
 
-Returns a  **Boolean** that indicates whether the placeholder text for the content control is displayed. Read-only.
+Returns a **Boolean** that indicates whether the placeholder text for the content control is displayed. Read-only.
 
 
 ## Syntax

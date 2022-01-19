@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Columns object (Word)
 
-A collection of  **[Column](Word.Column.md)** objects that represent the columns in a table.
+A collection of **[Column](Word.Column.md)** objects that represent the columns in a table.
 
 
 ## Remarks
@@ -48,7 +48,7 @@ If ActiveDocument.Tables.Count >= 1 Then
 End If
 ```
 
-Use  **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the first column in the first table.
+Use **Columns** (Index), where Index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the first column in the first table.
 
 
 

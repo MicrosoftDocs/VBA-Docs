@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.International property (Word)
 
-Returns information about the current country/region and international settings. Read-only  **Variant**.
+Returns information about the current country/region and international settings. Read-only **Variant**.
 
 
 ## Syntax

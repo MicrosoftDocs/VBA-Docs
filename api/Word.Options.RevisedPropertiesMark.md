@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.RevisedPropertiesMark property (Word)
 
-Returns or sets the mark used to show formatting changes while change tracking is enabled. Read/write  **WdRevisedPropertiesMark**.
+Returns or sets the mark used to show formatting changes while change tracking is enabled. Read/write **WdRevisedPropertiesMark**.
 
 
 ## Syntax

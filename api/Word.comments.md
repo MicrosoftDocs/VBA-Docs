@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comments object (Word)
 
-A collection of  **[Comment](Word.Comment.md)** objects that represent the comments in a selection, range, or document.
+A collection of **[Comment](Word.Comment.md)** objects that represent the comments in a selection, range, or document.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ ActiveDocument.Comments.Add Range:=Selection.Range, _
  Text:="review this"
 ```
 
-Use  **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
+Use **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
 
 
 

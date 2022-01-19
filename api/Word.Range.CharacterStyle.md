@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.CharacterStyle property (Word)
 
-Returns a  **Variant** that represents the style used to format one or more characters. Read-only.
+Returns a **Variant** that represents the style used to format one or more characters. Read-only.
 
 
 ## Syntax

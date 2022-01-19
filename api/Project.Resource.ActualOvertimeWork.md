@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.ActualOvertimeWork property (Project)
 
-Gets the actual overtime work (in minutes) for a resource. Read-only  **Variant**.
+Gets the actual overtime work (in minutes) for a resource. Read-only **Variant**.
 
 
 ## Syntax

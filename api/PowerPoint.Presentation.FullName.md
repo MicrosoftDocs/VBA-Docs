@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.FullName property (PowerPoint)
 
-Returns the name of the specified add-in or saved presentation, including the path, the current file system separator, and the file name extension. Read-only  **String**.
+Returns the name of the specified add-in or saved presentation, including the path, the current file system separator, and the file name extension. Read-only **String**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property is equivalent to the  **Path** property, followed by the current file system separator, followed by the **Name** property.
+This property is equivalent to the **Path** property, followed by the current file system separator, followed by the **Name** property.
 
 
 ## Example

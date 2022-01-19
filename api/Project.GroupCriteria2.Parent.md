@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriteria2.Parent property (Project)
 
-Gets the parent of the object. Read-only  **Group2**.
+Gets the parent of the object. Read-only **Group2**.
 
 
 ## Syntax

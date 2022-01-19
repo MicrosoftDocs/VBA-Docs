@@ -19,7 +19,7 @@ Contains a collection of addresses for an **[AddressList](Outlook.AddressList.md
 
 ## Remarks
 
-The object may contain zero or more  **[AddressEntry](Outlook.AddressEntry.md)** objects and provides access to the entries in a transport provider's address book container.
+The object may contain zero or more **[AddressEntry](Outlook.AddressEntry.md)** objects and provides access to the entries in a transport provider's address book container.
 
 
 ## Example
@@ -39,7 +39,7 @@ Set myAddressList = myNameSpace.AddressLists("Personal Address Book")
 Set myAddressEntries = myAddressList.AddressEntries
 ```
 
-You can also index directly into the  **AddressEntries** object, returning an **AddressEntry** object.
+You can also index directly into the **AddressEntries** object, returning an **AddressEntry** object.
 
 
 

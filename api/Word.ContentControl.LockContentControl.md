@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContentControl.LockContentControl property (Word)
 
-Returns or sets a  **Boolean** that represents whether the user can delete a content control from the active document. Read/write.
+Returns or sets a **Boolean** that represents whether the user can delete a content control from the active document. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.ActualFinish property (Project)
 
-Gets or sets the actual finish date of a task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual finish date of a task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

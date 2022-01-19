@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Assignment.Start property (Project)
 
-Gets or sets the start date of the assignment. Read/write  **Variant**.
+Gets or sets the start date of the assignment. Read/write **Variant**.
 
 
 ## Syntax

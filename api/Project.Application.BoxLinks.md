@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|**Long**|Specifies the style of link lines. Can be one of the following  **[PjLinkStyle](Project.PjLinkStyle.md)** constants: **pjLinkStraight** or **pjLinkRectilinear**.|
+| _Style_|Optional|**Long**|Specifies the style of link lines. Can be one of the following **[PjLinkStyle](Project.PjLinkStyle.md)** constants: **pjLinkStraight** or **pjLinkRectilinear**.|
 | _ShowArrows_|Optional|**Boolean**|**True** if link lines have arrows showing the direction of the link; otherwise, **False**.|
 | _ShowLabels_|Optional|**Boolean**|**True** if link lines have labels showing the link type (FS, SS, SF, or FF); otherwise, **False**.|
 | _ColorMode_|Optional|**Long**|Specifies how the color of link lines is determined. Can be one of the **[PjLinkColorMode](Project.PjLinkColorMode.md)** constants.|

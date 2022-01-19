@@ -26,7 +26,7 @@ _expression_.**Ungroup**
 
 ## Remarks
 
-This method fails if you run it on a control that is not of type  **wdContentControlGroup**.
+This method fails if you run it on a control that is not of type **wdContentControlGroup**.
 
 
 ## See also

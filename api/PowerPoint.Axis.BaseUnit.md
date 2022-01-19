@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.BaseUnit property (PowerPoint)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
+Returns or sets the base unit for the specified category axis. Read/write **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 ## Remarks
 
-Setting this property has no visible effect if the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property for the specified axis is set to **xlCategoryScale**. The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale**.
+Setting this property has no visible effect if the **[CategoryType](PowerPoint.Axis.CategoryType.md)** property for the specified axis is set to **xlCategoryScale**. The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale**.
 
 You cannot set this property for a value axis.
 

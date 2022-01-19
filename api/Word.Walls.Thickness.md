@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Walls.Thickness property (Word)
 
-Returns or sets the thickness of the wall. Read/write  **Long**.
+Returns or sets the thickness of the wall. Read/write **Long**.
 
 
 ## Syntax

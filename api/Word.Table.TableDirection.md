@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.TableDirection property (Word)
 
-Returns or sets the direction in which Microsoft Word orders cells in the specified table. Read/write  **[WdTableDirection](Word.WdTableDirection.md)**.
+Returns or sets the direction in which Microsoft Word orders cells in the specified table. Read/write **[WdTableDirection](Word.WdTableDirection.md)**.
 
 
 ## Syntax

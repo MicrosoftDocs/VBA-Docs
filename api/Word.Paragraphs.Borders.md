@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.Borders property (Word)
 
-Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
+Returns a **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 
 
 ## Syntax

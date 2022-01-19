@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.Sort Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Sort** dialog box.
+Displays the Microsoft Outlook **Sort** dialog box.
 
 
 ## Syntax

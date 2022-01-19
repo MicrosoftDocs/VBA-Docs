@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.ShowCriticalSlack property (Project)
 
-Gets or sets how much slack causes a task to be displayed as a critical task. Read/write  **Long**.
+Gets or sets how much slack causes a task to be displayed as a critical task. Read/write **Long**.
 
 
 ## Syntax

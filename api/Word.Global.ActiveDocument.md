@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.ActiveDocument property (Word)
 
-Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). Read-only.
+Returns a **[Document](Word.Document.md)** object that represents the active document (the document with the focus). Read-only.
 
 
 ## Syntax

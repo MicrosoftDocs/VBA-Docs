@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Parent property (Outlook)
 
-Returns the parent  **Object** of the **[Table](Outlook.Table.md)** object. Read-only.
+Returns the parent **Object** of the **[Table](Outlook.Table.md)** object. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Options.EnableLivePreview property (Word)
 
-Sets or returns a  **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. **True** shows a preview in your document before applying the command. Read/write.
+Sets or returns a **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. **True** shows a preview in your document before applying the command. Read/write.
 
 
 ## Syntax

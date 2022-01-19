@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMerge.DataSource property (Word)
 
-Returns a  **[MailMergeDataSource](Word.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge main document. Read-only.
+Returns a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge main document. Read-only.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[PpPlaceholderType](PowerPoint.PpPlaceholderType.md)**|The type of placeholder. Placeholders of type  **ppPlaceholderVerticalBody** or **ppPlaceholderVerticalTitle** are found only on slides of layout type **ppLayoutVerticalText**, **ppLayoutClipArtAndVerticalText**, **ppLayoutVerticalTitleAndText**, or **ppLayoutVerticalTitleAndTextOverChart**. You cannot create slides with any of these layouts from the user interface; you must create them programmatically by using the **Add** method or by setting the **Layout** property of an existing slide.|
+| _Type_|Required|**[PpPlaceholderType](PowerPoint.PpPlaceholderType.md)**|The type of placeholder. Placeholders of type **ppPlaceholderVerticalBody** or **ppPlaceholderVerticalTitle** are found only on slides of layout type **ppLayoutVerticalText**, **ppLayoutClipArtAndVerticalText**, **ppLayoutVerticalTitleAndText**, or **ppLayoutVerticalTitleAndTextOverChart**. You cannot create slides with any of these layouts from the user interface; you must create them programmatically by using the **Add** method or by setting the **Layout** property of an existing slide.|
 | _Left_|Optional|**Single**|The position (in points) of the upper-left corner of the placeholder relative to the upper-left corner of the document.|
 | _Top_|Optional|**Single**|The position (in points) of the upper-left corner of the placeholder relative to the upper-left corner of the document.|
 | _Width_|Optional|**Single**|The width of the placeholder, in points.|
@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-If more than one placeholder of a specified type has been deleted from the slide, the  **AddPlaceholder** method will add them back to the slide, one by one, starting with the placeholder that has the lowest original index number.
+If more than one placeholder of a specified type has been deleted from the slide, the **AddPlaceholder** method will add them back to the slide, one by one, starting with the placeholder that has the lowest original index number.
 
 
 ## Example

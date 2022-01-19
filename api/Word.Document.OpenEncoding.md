@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.OpenEncoding property (Word)
 
-Returns the encoding used to open the specified document. Read-only  **MsoEncoding**.
+Returns the encoding used to open the specified document. Read-only **MsoEncoding**.
 
 
 ## Syntax

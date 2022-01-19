@@ -31,11 +31,11 @@ MsoPresetThreeDFormat
 
 ## Remarks
 
-This property is read-only. To set the preset extrusion format, use the  **[SetThreeDFormat](PowerPoint.ThreeDFormat.SetThreeDFormat.md)** method.
+This property is read-only. To set the preset extrusion format, use the **[SetThreeDFormat](PowerPoint.ThreeDFormat.SetThreeDFormat.md)** method.
 
-Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the  **3D Rotation** submenu on the **Shape Effects** menu.
+Each preset extrusion format contains a set of preset values for the various properties of the extrusion. The values for this property correspond to the options (numbered from left to right, top to bottom) displayed when you click the **3D Rotation** submenu on the **Shape Effects** menu.
 
-The value of the  **PresetThreeDFormat** property can be one of these **MsoPresetThreeDFormat** constants. If the value is **msoPresetThreeDFormatMixed**, the extrusion has a custom format rather than a preset format.
+The value of the **PresetThreeDFormat** property can be one of these **MsoPresetThreeDFormat** constants. If the value is **msoPresetThreeDFormatMixed**, the extrusion has a custom format rather than a preset format.
 
 
 ||

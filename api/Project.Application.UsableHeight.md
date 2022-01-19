@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.UsableHeight property (Project)
 
-Gets the maximum height available for a project window in points. Read-only  **Double**.
+Gets the maximum height available for a project window in points. Read-only **Double**.
 
 
 ## Syntax

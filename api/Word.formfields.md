@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # FormFields object (Word)
 
-A collection of  **FormField** objects that represent all the form fields in a selection, range, or document.
+A collection of **FormField** objects that represent all the form fields in a selection, range, or document.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ Set ffield = ActiveDocument.FormFields.Add( _
 ffield.CheckBox.Value = True
 ```
 
-Use  **FormFields** (Index), where Index is a bookmark name or index number, to return a single **[FormField](Word.FormField.md)** object. The following example sets the result of the Text1 form field to "Don Funk."
+Use **FormFields** (Index), where Index is a bookmark name or index number, to return a single **[FormField](Word.FormField.md)** object. The following example sets the result of the Text1 form field to "Don Funk."
 
 
 

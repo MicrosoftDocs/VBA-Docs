@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisRoundFlags enumeration (Visio)
 
-Constants to pass to the  **Cell.ResultInt** property.
+Constants to pass to the **Cell.ResultInt** property.
 
 
 

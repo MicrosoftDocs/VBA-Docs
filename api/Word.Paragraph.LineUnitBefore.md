@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.LineUnitBefore property (Word)
 
-Returns or sets the amount of spacing (in gridlines) before the specified paragraph. Read/write  **Single**.
+Returns or sets the amount of spacing (in gridlines) before the specified paragraph. Read/write **Single**.
 
 
 ## Syntax

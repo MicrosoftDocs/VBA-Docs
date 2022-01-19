@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # TableFields object (Project)
 
-Contains a collection of  **[TableField](Project.TableField.md)** objects.
+Contains a collection of **[TableField](Project.TableField.md)** objects.
  
 
 

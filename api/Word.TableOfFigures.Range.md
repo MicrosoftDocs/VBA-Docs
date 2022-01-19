@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TableOfFigures.Range property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the specified table of figures.
+Returns a **Range** object that represents the portion of a document that is contained within the specified table of figures.
 
 
 ## Syntax

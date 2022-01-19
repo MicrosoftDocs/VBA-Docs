@@ -23,6 +23,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-To get the resource groups that are based on  **Group2** objects, see the **[ResourceGroups2](Project.Project.ResourceGroups2.md)** property.
+To get the resource groups that are based on **Group2** objects, see the **[ResourceGroups2](Project.Project.ResourceGroups2.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

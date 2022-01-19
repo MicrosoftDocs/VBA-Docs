@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OLEFormat.Label property (Word)
 
-Returns a string that's used to identify the portion of the source file that's being linked. Read-only  **String**.
+Returns a string that's used to identify the portion of the source file that's being linked. Read-only **String**.
 
 
 ## Syntax

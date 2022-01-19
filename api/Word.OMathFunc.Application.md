@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunc.Application property (Word)
 
-Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
+Returns an **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax

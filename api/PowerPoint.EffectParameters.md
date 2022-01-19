@@ -19,7 +19,7 @@ Represents various animation parameters for an **[Effect](PowerPoint.Effect.md)*
 
 ## Example
 
-Use the [EffectParameters](PowerPoint.Effect.EffectParameters.md)property of the  **Effect** object to return an **EffectParameters** object. The following example creates a shape, sets a fill effect, and changes the starting and ending fill colors.
+Use the [EffectParameters](PowerPoint.Effect.EffectParameters.md)property of the **Effect** object to return an **EffectParameters** object. The following example creates a shape, sets a fill effect, and changes the starting and ending fill colors.
 
 
 ```vb

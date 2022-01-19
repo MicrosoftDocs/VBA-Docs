@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shape.Type property (Project)
-Gets the shape type. Read-only  **[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)**.
+Gets the shape type. Read-only **[MsoShapeType](https://msdn.microsoft.com/library/office/ff860759%28v=office.15%29)**.
 
 ## Syntax
 

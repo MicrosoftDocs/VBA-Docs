@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Effect.Delete method (PowerPoint)
 
-Deletes the specified  **Effect** object.
+Deletes the specified **Effect** object.
 
 
 ## Syntax

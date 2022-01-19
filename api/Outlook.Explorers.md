@@ -14,19 +14,19 @@ ms.localizationpriority: medium
 
 # Explorers object (Outlook)
 
-Contains a set of  **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
+Contains a set of **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
 
 
 ## Remarks
 
  An explorer need not be visible to be included in the **Explorers** collection.
 
-Use the  **[Explorers](Outlook.Application.Explorers.md)** property to return the **Explorers** object from the **[Application](Outlook.Application.md)** object.
+Use the **[Explorers](Outlook.Application.Explorers.md)** property to return the **Explorers** object from the **[Application](Outlook.Application.md)** object.
 
 
 ## Example
 
-The following example shows how to retrieve the  **Explorers** object in Microsoft Visual Basic and Microsoft Visual Basic for Applications (VBA).
+The following example shows how to retrieve the **Explorers** object in Microsoft Visual Basic and Microsoft Visual Basic for Applications (VBA).
 
 
 ```vb

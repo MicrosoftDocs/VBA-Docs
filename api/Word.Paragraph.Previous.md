@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraph.Previous method (Word)
 
-Returns the previous paragraph as a  **Paragraph** object.
+Returns the previous paragraph as a **Paragraph** object.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AnimationBehaviors object (PowerPoint)
 
-Represents a collection of  **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** objects.
+Represents a collection of **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** objects.
 
 
 ## Example

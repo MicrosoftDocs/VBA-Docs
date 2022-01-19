@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # PostItem.ClearTaskFlag method (Outlook)
 
-Clears the  **[PostItem](Outlook.PostItem.md)** object as a task.
+Clears the **[PostItem](Outlook.PostItem.md)** object as a task.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ClearTaskMark`
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property to **False**.
+Calling this method sets the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property to **False**.
 
 
 ## See also

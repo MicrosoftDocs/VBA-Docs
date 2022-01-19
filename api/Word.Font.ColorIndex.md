@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Font.ColorIndex property (Word)
 
-Returns or sets a  **WdColorIndex** constant that represents the color for the specified font. Read/write .
+Returns or sets a **WdColorIndex** constant that represents the color for the specified font. Read/write .
 
 
 ## Syntax

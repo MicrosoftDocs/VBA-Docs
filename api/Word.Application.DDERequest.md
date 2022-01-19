@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDERequest method (Word)
 
-Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a  **String**.
+Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a **String**.
 
 
 ## Syntax

@@ -26,9 +26,9 @@ _expression_ A variable that represents an [Account](Outlook.Account.md) object.
 
 ## Remarks
 
-The purpose of  **[Account.SmtpAddress](Outlook.Account.SmtpAddress.md)** and **UserName** is to provide an account-based context to determine identity.
+The purpose of **[Account.SmtpAddress](Outlook.Account.SmtpAddress.md)** and **UserName** is to provide an account-based context to determine identity.
 
-If the account does not have a user name defined,  **UserName** returns an empty string.
+If the account does not have a user name defined, **UserName** returns an empty string.
 
 
 ## See also

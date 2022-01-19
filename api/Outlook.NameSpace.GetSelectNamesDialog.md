@@ -31,7 +31,7 @@ A **SelectNamesDialog** object for the current session. The **SelectNamesDialog*
 
 ## Example
 
-The following code sample shows how to instantiate an instance of  **SelectNamesDialog** for the current session, and use it to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
+The following code sample shows how to instantiate an instance of **SelectNamesDialog** for the current session, and use it to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
 
 
 ```vb

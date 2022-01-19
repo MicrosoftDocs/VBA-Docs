@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # ListParagraphs object (Word)
 
-A collection of  **Paragraph** objects that represents the paragraphs of the specified document, list, or range that have list formatting applied.
+A collection of **Paragraph** objects that represents the paragraphs of the specified document, list, or range that have list formatting applied.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ For Each para in ActiveDocument.ListParagraphs
 Next para
 ```
 
-Use  **ListParagraphs** (Index), where Index is the index number, to return a single **[Paragraph](Word.Paragraph.md)** object with list formatting.
+Use **ListParagraphs** (Index), where Index is the index number, to return a single **[Paragraph](Word.Paragraph.md)** object with list formatting.
 
 Paragraphs can have two types of list formatting. The first type includes an automatically added number or bullet at the beginning of each paragraph in the list. The second type includes LISTNUM fields, which can be placed anywhere inside a paragraph. There can be more than one LISTNUM field per paragraph.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # HTMLDivision.HTMLDivisionParent method (Word)
 
-Returns an  **HTMLDivision** object that represents a parent division of the current HTML division.
+Returns an **HTMLDivision** object that represents a parent division of the current HTML division.
 
 
 ## Syntax

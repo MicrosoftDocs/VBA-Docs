@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.TablesOfAuthorities property (Word)
 
-Returns a  **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection that represents the tables of authorities in the specified document. Read-only.
+Returns a **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection that represents the tables of authorities in the specified document. Read-only.
 
 
 ## Syntax

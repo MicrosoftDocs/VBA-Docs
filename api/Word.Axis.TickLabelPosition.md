@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Axis.TickLabelPosition property (Word)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](Word.xlticklabelposition.md)**.
+Describes the position of tick-mark labels on the specified axis. Read/write **[XlTickLabelPosition](Word.xlticklabelposition.md)**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Frame.WidthRule property (Word)
 
-Returns or sets the rule used to determine the width of a frame. Read/write  **WdFrameSizeRule**.
+Returns or sets the rule used to determine the width of a frame. Read/write **WdFrameSizeRule**.
 
 
 ## Syntax

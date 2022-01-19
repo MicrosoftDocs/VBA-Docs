@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.WindowCloseCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelWindowClose** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelWindowClose** event.
 
 
 ## Syntax

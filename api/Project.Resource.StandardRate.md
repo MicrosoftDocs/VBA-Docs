@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Resource.StandardRate property (Project)
 
-Gets or sets the standard rate of the resource. Read/write  **Variant**.
+Gets or sets the standard rate of the resource. Read/write **Variant**.
 
 
 ## Syntax

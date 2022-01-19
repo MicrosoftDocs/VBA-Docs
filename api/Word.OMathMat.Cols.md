@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathMat.Cols property (Word)
 
-Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents the columns in a matrix. Read-only.
+Returns an **[OMathMatCols](Word.OMathMatCols.md)** collection that represents the columns in a matrix. Read-only.
 
 
 ## Syntax

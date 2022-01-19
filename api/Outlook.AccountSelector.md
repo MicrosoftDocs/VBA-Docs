@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccountSelector object (Outlook)
 
-Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent  **[Explorer](Outlook.Explorer.md)** object.
+Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks

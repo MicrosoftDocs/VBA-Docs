@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.AuthorSipAddress property (Visio)
 
-Returns the SIP (Session Initiation Protocol) address of the author of the comment. Read-only  **String**.
+Returns the SIP (Session Initiation Protocol) address of the author of the comment. Read-only **String**.
 
 
 ## Syntax

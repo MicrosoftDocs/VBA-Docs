@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.TextRetrievalMode property (Word)
 
-Returns a  **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that controls how text is retrieved from the specified **Range**. Read/write.
+Returns a **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that controls how text is retrieved from the specified **Range**. Read/write.
 
 
 ## Syntax

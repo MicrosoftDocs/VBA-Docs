@@ -19,7 +19,7 @@ Represents an endnote. The **Endnote** object is a member of the **Endnotes** co
 
 ## Remarks
 
-Use  **Endnotes** (Index), where Index is the index number, to return a single **Endnote** object. The index number represents the position of the endnote in the selection, range, or document. The following example applies red formatting to the first endnote in the selection.
+Use **Endnotes** (Index), where Index is the index number, to return a single **Endnote** object. The index number represents the position of the endnote in the selection, range, or document. The following example applies red formatting to the first endnote in the selection.
 
 
 ```vb

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Trendline.Forward2 property (Word)
 
-Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write  **Double**.
+Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write **Double**.
 
 
 ## Syntax

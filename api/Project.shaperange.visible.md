@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Visible property (Project)
-Gets or sets a value that determines whether all of the shapes in the shape range are visible. Read/write  **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
+Gets or sets a value that determines whether all of the shapes in the shape range are visible. Read/write **[MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

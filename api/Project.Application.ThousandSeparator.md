@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.ThousandSeparator property (Project)
 
-Gets the thousands separator symbol. Read-only  **String**.
+Gets the thousands separator symbol. Read-only **String**.
 
 
 ## Syntax

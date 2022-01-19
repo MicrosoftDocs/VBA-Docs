@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ContactItem.ClearTaskFlag method (Outlook)
 
-Clears the  **[ContactItem](Outlook.ContactItem.md)** object as a task.
+Clears the **[ContactItem](Outlook.ContactItem.md)** object as a task.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ClearTaskFlag`
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsTask.md)** property to **False**.
+Calling this method sets the **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsTask.md)** property to **False**.
 
 
 ## See also

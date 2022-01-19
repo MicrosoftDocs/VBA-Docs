@@ -26,7 +26,7 @@ _expression_. `ForceUpdateToAllAttendees`
 
 ## Remarks
 
-Normally, updates are sent to attendees only if the time or location of an appointment item is changed. Setting this property to  **True** forces an update to be sent to all attendees, even if no changes to the time or location have occurred.
+Normally, updates are sent to attendees only if the time or location of an appointment item is changed. Setting this property to **True** forces an update to be sent to all attendees, even if no changes to the time or location have occurred.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.ContentTypeProperties property (PowerPoint)
 
-Returns the Microsoft Office  **MetaProperties** collection that describes the metadata stored in the presentation. Read-only.
+Returns the Microsoft Office **MetaProperties** collection that describes the metadata stored in the presentation. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GlowFormat.Color property (Word)
 
-Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the color for a glow effect. Read-only.
+Returns a **[ColorFormat](Word.ColorFormat.md)** object that represents the color for a glow effect. Read-only.
 
 
 ## Syntax

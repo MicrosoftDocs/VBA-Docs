@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-he  **EnterpriseGlobalCheckOut** method is only available when the user is connected to Project Server and when the user has permission to check in files.
+he **EnterpriseGlobalCheckOut** method is only available when the user is connected to Project Server and when the user has permission to check in files.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

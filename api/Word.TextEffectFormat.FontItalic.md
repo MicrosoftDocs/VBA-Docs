@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextEffectFormat.FontItalic property (Word)
 
-Italicizes WordArt text. Read/write  **MsoTriState**.
+Italicizes WordArt text. Read/write **MsoTriState**.
 
 
 ## Syntax

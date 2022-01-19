@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Reflection property (Word)
 
-Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a range of shapes. Read-only.
+Returns a **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a range of shapes. Read-only.
 
 
 ## Syntax

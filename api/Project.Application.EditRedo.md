@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _fRedo_|Optional|**Integer**|Specifies the number of items to redo. If the total number of items on the redo stack is less than fRedo,  **EditRedo** redoes all items.|
+| _fRedo_|Optional|**Integer**|Specifies the number of items to redo. If the total number of items on the redo stack is less than fRedo, **EditRedo** redoes all items.|
 
 ## Return value
 

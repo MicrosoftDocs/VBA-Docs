@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # GroupCriterion2.FieldName property (Project)
 
-Gets or sets the name of the field being grouped by. Read/write  **String**.
+Gets or sets the name of the field being grouped by. Read/write **String**.
 
 
 ## Syntax

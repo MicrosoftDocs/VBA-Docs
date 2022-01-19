@@ -34,12 +34,12 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-For information about using events with the  **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see [How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example
 
-If the current shape on slide one is a movie, this example plays the movie continuously until stopped manually by the presenter. This code is designed to be used with the second  **SlideShowNextSlide** event example.
+If the current shape on slide one is a movie, this example plays the movie continuously until stopped manually by the presenter. This code is designed to be used with the second **SlideShowNextSlide** event example.
 
 
 ```vb

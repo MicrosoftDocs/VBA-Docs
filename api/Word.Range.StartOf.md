@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.StartOf method (Word)
 
-Moves or extends the start position of the specified range or selection to the beginning of the nearest specified text unit. This method returns a  **Long** that indicates the number of characters by which the range or selection was moved or extended. The method returns a negative number if the movement is backward through the document.
+Moves or extends the start position of the specified range or selection to the beginning of the nearest specified text unit. This method returns a **Long** that indicates the number of characters by which the range or selection was moved or extended. The method returns a negative number if the movement is backward through the document.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. Can be any WdUnits constant except  **wdLine**. The default value is **wdWord**.|
-| _Extend_|Optional| **WdMovement**|Specifies whether to move or extend the start of the range. If you use  **wdMove**, both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend**, the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove**.|
+| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. Can be any WdUnits constant except **wdLine**. The default value is **wdWord**.|
+| _Extend_|Optional| **WdMovement**|Specifies whether to move or extend the start of the range. If you use **wdMove**, both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend**, the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove**.|
 
 ## Remarks
 

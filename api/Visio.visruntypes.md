@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisRunTypes enumeration (Visio)
 
-Run-type constants to be passed to the  **Characters.RunBegin** and **Characters.RunEnd** properties.
+Run-type constants to be passed to the **Characters.RunBegin** and **Characters.RunEnd** properties.
 
 
 

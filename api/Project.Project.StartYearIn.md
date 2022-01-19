@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Project.StartYearIn property (Project)
 
-Gets or sets the month number for the start of the fiscal year for the project. Read/write  **PjMonth**.
+Gets or sets the month number for the start of the fiscal year for the project. Read/write **PjMonth**.
 
 
 ## Syntax

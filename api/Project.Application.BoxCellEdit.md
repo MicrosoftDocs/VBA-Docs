@@ -44,7 +44,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _TextLineLimit_|Optional|**Long**|Specifies the limit for the number of lines of text in the cell. Values can be 1, 2, or 3. |
 | _ShowLabel_|Optional|**Boolean**|**True** if a label is shown in the cell; otherwise, **False**.|
 | _Label_|Optional|**String**|Specifies the cell label.|
-| _DateFormat_|Optional|**Long**|Specifies the date format for the cell when  **FieldName** is a date field. Can be one of the **[PjDateFormat](Project.PjDateFormat.md)** constants.|
+| _DateFormat_|Optional|**Long**|Specifies the date format for the cell when **FieldName** is a date field. Can be one of the **[PjDateFormat](Project.PjDateFormat.md)** constants.|
 
 ## Return value
 

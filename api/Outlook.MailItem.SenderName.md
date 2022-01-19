@@ -26,9 +26,9 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderName**.
+This property corresponds to the MAPI property **PidTagSenderName**.
 
-If you wish to retrieve the fully qualified email address of the sender, use the  **[SenderEmailAddress](Outlook.MailItem.SenderEmailAddress.md)** property.
+If you wish to retrieve the fully qualified email address of the sender, use the **[SenderEmailAddress](Outlook.MailItem.SenderEmailAddress.md)** property.
 
 
 ## Example

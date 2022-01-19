@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Remarks
 
-If the search is synchronous, the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method will not return until the search has completed. Conversely, if the search is asynchronous, the **AdvancedSearch** method will immediately return. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event to notify you when the search has finished.
+If the search is synchronous, the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method will not return until the search has completed. Conversely, if the search is asynchronous, the **AdvancedSearch** method will immediately return. In order to get meaningful results from an asynchronous search, use the **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event to notify you when the search has finished.
 
 
 ## Example

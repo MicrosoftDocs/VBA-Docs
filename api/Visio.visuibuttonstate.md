@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisUIButtonState enumeration (Visio)
 
-Constants describing the state of buttons in command bars to be passed to and returned from the  **ToolbarItem.State** property
+Constants describing the state of buttons in command bars to be passed to and returned from the **ToolbarItem.State** property
 
 
 > [!NOTE] 

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # HangulAndAlphabetExceptions object (Word)
 
-A collection of  **HangulAndAlphabetException** objects that represents all Hangul and alphabet AutoCorrect exceptions.
+A collection of **HangulAndAlphabetException** objects that represents all Hangul and alphabet AutoCorrect exceptions.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ If the value of the **HangulAndAlphabetAutoAdd** property is **True**, words are
 AutoCorrect.HangulAndAlphabetExceptions.Add Name:="hello"
 ```
 
-Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alphabet AutoCorrect exception name or the index number, to return a single **[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)** object. The following example deletes the alphabet AutoCorrect exception named "goodbye."
+Use **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alphabet AutoCorrect exception name or the index number, to return a single **[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)** object. The following example deletes the alphabet AutoCorrect exception named "goodbye."
 
 
 

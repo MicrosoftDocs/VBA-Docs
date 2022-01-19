@@ -28,17 +28,17 @@ _expression_ A variable that represents a [CalendarModule](Outlook.CalendarModul
 
 This property can only be set to a value between 1 and 9. An error occurs if you attempt to set it to a value outside of that range.
 
-Changing the value of this property for a given  **CalendarModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](Outlook.NavigationModules.md)** collection, depending on the relative change between the new value and the original value.
+Changing the value of this property for a given **CalendarModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](Outlook.NavigationModules.md)** collection, depending on the relative change between the new value and the original value.
 
 
-- If the new value is less than the original value, the specified  **CalendarModule** object moves up to the new position and the other navigation modules that are already at or below that new position move down.
+- If the new value is less than the original value, the specified **CalendarModule** object moves up to the new position and the other navigation modules that are already at or below that new position move down.
     
-- If the new value is greater than the original value, the specified  **CalendarModule** object moves down to the new position and the other navigation modules that are between the old position and the new position move up, filling the old position.
+- If the new value is greater than the original value, the specified **CalendarModule** object moves down to the new position and the other navigation modules that are between the old position and the new position move up, filling the old position.
     
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample code attempts to retrieve the  **Calendar** navigation module from the navigation pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the navigation pane. Finally, the code sets the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](Outlook.NavigationPane.md)** object to the retrieved **Calendar** module, which selects it in the navigation pane.
+The following Visual Basic for Applications (VBA) sample code attempts to retrieve the **Calendar** navigation module from the navigation pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the navigation pane. Finally, the code sets the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](Outlook.NavigationPane.md)** object to the retrieved **Calendar** module, which selects it in the navigation pane.
 
 
 ```vb

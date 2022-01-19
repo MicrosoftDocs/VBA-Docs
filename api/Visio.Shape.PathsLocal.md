@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.PathsLocal property (Visio)
 
-Returns a  **Paths** collection that reports the coordinates of a shape's paths in the shape's local coordinate system. Read-only.
+Returns a **Paths** collection that reports the coordinates of a shape's paths in the shape's local coordinate system. Read-only.
 
 
 ## Syntax

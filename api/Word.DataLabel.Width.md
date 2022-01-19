@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DataLabel.Width property (Word)
 
-Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write  **Double**.
+Gets or sets the width, in [points](../language/glossary/vbe-glossary.md#point), of the object. Read/write **Double**.
 
 
 ## Syntax

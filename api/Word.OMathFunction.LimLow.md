@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OMathFunction.LimLow property (Word)
 
-Returns an  **[OMathLimLow](Word.OMathLimLow.md)** object that represents the lower limit for a function. Read-only.
+Returns an **[OMathLimLow](Word.OMathLimLow.md)** object that represents the lower limit for a function. Read-only.
 
 
 ## Syntax

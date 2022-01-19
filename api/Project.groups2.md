@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Groups2 object (Project)
 
-Represents a collection of  **[Group2](Project.Group2.md)** objects, which can maintain group hierarchy.
+Represents a collection of **[Group2](Project.Group2.md)** objects, which can maintain group hierarchy.
  
 
 

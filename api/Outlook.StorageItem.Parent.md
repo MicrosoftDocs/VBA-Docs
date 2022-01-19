@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # StorageItem.Parent property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 ## Remarks
 
-The parent of the StorageItem object is the  **[Folder](Outlook.Folder.md)** object.
+The parent of the StorageItem object is the **[Folder](Outlook.Folder.md)** object.
 
 
 ## See also

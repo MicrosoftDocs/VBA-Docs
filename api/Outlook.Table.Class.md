@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Table.Class property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Table](Outlook.Table.md)** object. Read-only.
+Returns a constant in the **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Table](Outlook.Table.md)** object. Read-only.
 
 
 ## Syntax

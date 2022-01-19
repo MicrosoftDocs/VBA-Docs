@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional|**Boolean**|**True** saves the presentation to the server location. The default value is **False**.|
-| _Comments_|Optional|**Variant**|Comments for the revision of the presentation being checked in (only applies if SaveChanges equals  **True**).|
+| _Comments_|Optional|**Variant**|Comments for the revision of the presentation being checked in (only applies if SaveChanges equals **True**).|
 | _MakePublic_|Optional|**Variant**|**True** allows the user to perform a publish on the presentation after being checked in. This submits the document for the approval process, which can eventually result in a version of the presentation being published to users with read-only rights to the presentation (only applies if SaveChanges equals **True**).|
 
 ## Remarks
@@ -55,7 +55,7 @@ Sub CheckInPresentation(strPresentation As String)
 
     Else
 
-        MsgBox strPresentation & " cannot be checked in at this time.  Please try again later."
+        MsgBox strPresentation & " cannot be checked in at this time. Please try again later."
 
     End If
 

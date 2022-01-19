@@ -31,19 +31,19 @@ Variant
 
 ## Remarks
 
-You can set the  **ThemeColors** property value to any one of the following:
+You can set the **ThemeColors** property value to any one of the following:
 
 
 
 
 - The name or universal name of the theme color (strings)
     
-- An enumerated value from the  **[VisThemeColors](Visio.visthemecolors.md)** enumeration
+- An enumerated value from the **[VisThemeColors](Visio.visthemecolors.md)** enumeration
     
-- A  **Master** object of type **visTypeThemeColors**
+- A **Master** object of type **visTypeThemeColors**
     
 
 
-The  **ThemeColors** property always returns the universal name of the current theme colors.
+The **ThemeColors** property always returns the universal name of the current theme colors.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

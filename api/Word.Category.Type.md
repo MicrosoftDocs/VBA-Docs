@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Category.Type property (Word)
 
-Returns a  **[BuildingBlockType](Word.BuildingBlockType.md)** object that represents the type of building block for a building block category. Read-only.
+Returns a **[BuildingBlockType](Word.BuildingBlockType.md)** object that represents the type of building block for a building block category. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ChartGroup.SplitValue property (PowerPoint)
 
-Returns or sets the threshold value separating the two sections of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Variant**.
+Returns or sets the threshold value separating the two sections of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Variant**.
 
 
 ## Syntax

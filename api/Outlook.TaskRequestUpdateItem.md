@@ -19,11 +19,11 @@ Represents a response to a **[TaskRequestItem](Outlook.TaskRequestItem.md)** sen
 
 ## Remarks
 
-If the delegated user updates the task by changing properties such as the  **[DueDate](Outlook.TaskItem.DueDate.md)** or the **[Status](Outlook.TaskItem.Status.md)**, and then sends it, the associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
+If the delegated user updates the task by changing properties such as the **[DueDate](Outlook.TaskItem.DueDate.md)** or the **[Status](Outlook.TaskItem.Status.md)**, and then sends it, the associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
+Use the **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
 
 
 ## Events

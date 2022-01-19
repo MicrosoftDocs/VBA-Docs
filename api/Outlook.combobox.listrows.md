@@ -26,6 +26,6 @@ _expression_ A variable that represents a **ComboBox** object.
 
 The default value is 8.
 
-If the number of items in the list exceeds the value of the  **ListRows** property, a scroll bar appears at the right edge of the list-box portion of the combo box.
+If the number of items in the list exceeds the value of the **ListRows** property, a scroll bar appears at the right edge of the list-box portion of the combo box.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

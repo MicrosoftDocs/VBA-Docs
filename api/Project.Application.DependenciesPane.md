@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DependenciesPane method (Project)
 
-Displays the project  **Dependency** pane when connected to Project Server. Available in Project Professional only.
+Displays the project **Dependency** pane when connected to Project Server. Available in Project Professional only.
 
 
 ## Syntax

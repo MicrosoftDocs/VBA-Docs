@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # XSLTransforms.Count property (Word)
 
-Returns a  **Long** that represents the number of XSLTransforms in the collection. Read-only.
+Returns a **Long** that represents the number of XSLTransforms in the collection. Read-only.
 
 
 ## Syntax

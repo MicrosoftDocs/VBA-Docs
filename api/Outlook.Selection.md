@@ -19,7 +19,7 @@ Contains the set of Outlook items currently selected in an explorer.
 
 ## Remarks
 
-Use the  **[Selection](Outlook.Explorer.Selection.md)** property to return the **Selection** collection from the **[Explorer](Outlook.Explorer.md)** object.
+Use the **[Selection](Outlook.Explorer.Selection.md)** property to return the **Selection** collection from the **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Example

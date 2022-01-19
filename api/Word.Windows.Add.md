@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Windows.Add method (Word)
 
-Returns a  **Window** object that represents a new window of a document.
+Returns a **Window** object that represents a new window of a document.
 
 
 ## Syntax

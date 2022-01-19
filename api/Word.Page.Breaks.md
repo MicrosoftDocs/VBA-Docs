@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.Breaks property (Word)
 
-Returns a  **Breaks** collection that represents the breaks on a page. .
+Returns a **Breaks** collection that represents the breaks on a page. .
 
 
 ## Syntax

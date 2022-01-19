@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.Group method (Word)
 
-Groups the shapes in the specified range, and returns the grouped shapes as a single  **Shape** object.
+Groups the shapes in the specified range, and returns the grouped shapes as a single **Shape** object.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.HeightPercent property (Project)
-Gets or sets the height of a 3D chart as a percentage of the chart width. Read/write  **Long**.
+Gets or sets the height of a 3D chart as a percentage of the chart width. Read/write **Long**.
 
 ## Syntax
 

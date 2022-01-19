@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisGraphicPositionHorizontal enumeration (Visio)
 
-Constants passed to and returned by the  **GraphicItem.HorizontalPosition** property. Used to determine the horizontal position of a graphic item relative to its container or to a shape.
+Constants passed to and returned by the **GraphicItem.HorizontalPosition** property. Used to determine the horizontal position of a graphic item relative to its container or to a shape.
 
 
 > [!NOTE] 

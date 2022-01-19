@@ -8,7 +8,7 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.BlackWhiteMode property (Project)
-Gets or sets a value that indicates how the shape appears when it is viewed in black-and-white mode. Read/write  **MsoBlackWhiteMode**.
+Gets or sets a value that indicates how the shape appears when it is viewed in black-and-white mode. Read/write **MsoBlackWhiteMode**.
 
 ## Syntax
 

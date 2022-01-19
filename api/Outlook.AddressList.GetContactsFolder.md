@@ -36,7 +36,7 @@ This method allows you to match an **AddressList** for the Contacts folder that 
 
 ## Example
 
-The following code sample shows you how to initialize the  **Select Names** dialog box with the **AddressList** for the default Contacts folder. It first obtains the **Folder** object for the default Contacts folder, and looks for its **AddressList** by comparing the Entry ID of this **Folder** object with the Entry ID of the **Folder** object associated with each **AddressList** in the current session until it finds a match. It then sets the **[InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** property and displays the **Select Names** dialog box.
+The following code sample shows you how to initialize the **Select Names** dialog box with the **AddressList** for the default Contacts folder. It first obtains the **Folder** object for the default Contacts folder, and looks for its **AddressList** by comparing the Entry ID of this **Folder** object with the Entry ID of the **Folder** object associated with each **AddressList** in the current session until it finds a match. It then sets the **[InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)** property and displays the **Select Names** dialog box.
 
 
 ```vb

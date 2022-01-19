@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 ## Example
 
-The following example returns the  **Reminders** collection and displays the captions of all reminders in the collection. If no current reminders are available, a message is displayed to the user.
+The following example returns the **Reminders** collection and displays the captions of all reminders in the collection. If no current reminders are available, a message is displayed to the user.
 
 
 ```vb

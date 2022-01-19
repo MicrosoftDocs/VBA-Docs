@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Rows object (Word)
 
-A collection of  **[Row](Word.Row.md)** objects that represent the table rows in the specified selection, range, or table.
+A collection of **[Row](Word.Row.md)** objects that represent the table rows in the specified selection, range, or table.
 
 
 ## Remarks
@@ -32,7 +32,7 @@ If Selection.Information(wdWithInTable) = True Then
 End If
 ```
 
-Use  **Rows** (Index), where Index is the index number, to return a single **Row** object. The index number represents the position of the row in the selection, range, or table. The following example deletes the first row in the first table in the active document.
+Use **Rows** (Index), where Index is the index number, to return a single **Row** object. The index number represents the position of the row in the selection, range, or table. The following example deletes the first row in the first table in the active document.
 
 
 

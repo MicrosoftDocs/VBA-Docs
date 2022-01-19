@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Find.Replacement property (Word)
 
-Returns a  **[Replacement](Word.Replacement.md)** object that contains the criteria for a replace operation.
+Returns a **[Replacement](Word.Replacement.md)** object that contains the criteria for a replace operation.
 
 
 ## Syntax

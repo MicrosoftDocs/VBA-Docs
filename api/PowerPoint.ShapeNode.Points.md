@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-Each coordinate is expressed in points. Use the  **[SetPosition](PowerPoint.ShapeNodes.SetPosition.md)** method to set the value of this property.
+Each coordinate is expressed in points. Use the **[SetPosition](PowerPoint.ShapeNodes.SetPosition.md)** method to set the value of this property.
 
 
 ## Example

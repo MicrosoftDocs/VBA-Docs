@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DistListItem.ClearTaskFlag method (Outlook)
 
-Clears the  **[DistListItem](Outlook.DistListItem.md)** object as a task.
+Clears the **[DistListItem](Outlook.DistListItem.md)** object as a task.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_. `ClearTaskFlag`
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property to **False**.
+Calling this method sets the **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property to **False**.
 
 
 ## See also

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # VisFontAttributes enumeration (Visio)
 
-Attribute codes returned by the  **Font.Attributes** property.
+Attribute codes returned by the **Font.Attributes** property.
 
 
 

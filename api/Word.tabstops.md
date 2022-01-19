@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # TabStops object (Word)
 
-A collection of  **[TabStop](Word.TabStop.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
+A collection of **[TabStop](Word.TabStop.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
 
 
 ## Remarks
@@ -60,7 +60,7 @@ Selection.Paragraphs.TabStops(InchesToPoints(2)) _
  .Alignment = wdAlignTabRight
 ```
 
-Use  **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active document.
+Use **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active document.
 
 
 

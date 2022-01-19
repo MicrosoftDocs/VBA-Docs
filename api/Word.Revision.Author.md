@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Revision.Author property (Word)
 
-Returns the name of the user who made the specified tracked change. Read-only  **String**.
+Returns the name of the user who made the specified tracked change. Read-only **String**.
 
 
 ## Syntax

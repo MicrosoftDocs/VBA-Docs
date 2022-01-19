@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Comment.CreateDate property (Visio)
 
-Returns the date the specified comment was created. Read-only  **Date**.
+Returns the date the specified comment was created. Read-only **Date**.
 
 
 ## Syntax

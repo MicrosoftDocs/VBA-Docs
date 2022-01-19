@@ -14,14 +14,14 @@ ms.localizationpriority: medium
 
 # Actions object (Outlook)
 
-Contains a collection of  **[Action](Outlook.Action.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
+Contains a collection of **[Action](Outlook.Action.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
 
 
 ## Remarks
 
-Use the  **Actions** property of any Outlook item, such as **[MailItem](Outlook.MailItem.md)**, to return the **Actions** object.
+Use the **Actions** property of any Outlook item, such as **[MailItem](Outlook.MailItem.md)**, to return the **Actions** object.
 
-Use  **Actions** (_index_), where _index_ is the name of an available action, to return a single **Action** object.
+Use **Actions** (_index_), where _index_ is the name of an available action, to return a single **Action** object.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MeetingItem.Forward method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[MeetingItem](Outlook.MeetingItem.md)** object.
+Executes the **Forward** action for an item and returns the resulting copy as a **[MeetingItem](Outlook.MeetingItem.md)** object.
 
 
 ## Syntax

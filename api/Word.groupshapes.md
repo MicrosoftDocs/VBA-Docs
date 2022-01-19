@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # GroupShapes object (Word)
 
-Represents the individual shapes within a grouped shape. Each shape contained within a group of shapes is represented by a  **Shape** object.
+Represents the individual shapes within a grouped shape. Each shape contained within a group of shapes is represented by a **Shape** object.
 
 
 ## Remarks

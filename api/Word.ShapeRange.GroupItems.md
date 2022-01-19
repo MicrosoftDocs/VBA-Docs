@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ShapeRange.GroupItems property (Word)
 
-Returns a  **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
+Returns a **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SharingItem.Deny method (Outlook)
 
-Denies a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)**.
+Denies a sharing request and sends a sharing response to the sender of the **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

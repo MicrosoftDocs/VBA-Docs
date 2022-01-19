@@ -26,12 +26,12 @@ _expression_ A variable that represents a [TableView](Outlook.TableView.md) obje
 
 ## Remarks
 
-The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True**.
+The value of this property applies only if the **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TableView** object so that in-cell editing is allowed and the new item row is displayed in the view.
+The following Visual Basic for Applications (VBA) example configures the current **TableView** object so that in-cell editing is allowed and the new item row is displayed in the view.
 
 
 ```vb

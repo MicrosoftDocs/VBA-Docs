@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.HorizontalFlip property (Word)
 
-Indicates that a shape has been flipped horizontally. Read-only  **MsoTriState**.
+Indicates that a shape has been flipped horizontally. Read-only **MsoTriState**.
 
 
 ## Syntax

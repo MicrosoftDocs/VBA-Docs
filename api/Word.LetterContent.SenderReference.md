@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.SenderReference property (Word)
 
-Not used in the U.S. English version of Microsoft Word. Read/write  **String**.
+Not used in the U.S. English version of Microsoft Word. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DropDown.ListEntries property (Word)
 
-Returns a  **[ListEntries](Word.listentries.md)** collection that represents all the items in a **DropDown** object.
+Returns a **[ListEntries](Word.listentries.md)** collection that represents all the items in a **DropDown** object.
 
 
 ## Syntax

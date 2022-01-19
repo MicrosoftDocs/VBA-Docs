@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.LevelProposedBookings property (Project)
 
-Gets or sets a value that indicates whether proposed assignment bookings will be leveled. Read/write  **Boolean**.
+Gets or sets a value that indicates whether proposed assignment bookings will be leveled. Read/write **Boolean**.
 
 
 ## Syntax

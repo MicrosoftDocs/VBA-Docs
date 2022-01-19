@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Exception.Finish property (Project)
 
-Gets or sets the finish date of an exception. Read/write  **Variant**.
+Gets or sets the finish date of an exception. Read/write **Variant**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # LetterContent.SenderCompany property (Word)
 
-Returns or sets the company name of the person creating a letter with the Letter Wizard. Read/write  **String**.
+Returns or sets the company name of the person creating a letter with the Letter Wizard. Read/write **String**.
 
 
 ## Syntax

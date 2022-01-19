@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CoAuthoring.Conflicts property (Word)
 
-Returns a  **[Conflicts](Word.Conflicts.md)** collection that represents all the conflicts in a document. Read-only.
+Returns a **[Conflicts](Word.Conflicts.md)** collection that represents all the conflicts in a document. Read-only.
 
 
 ## Syntax

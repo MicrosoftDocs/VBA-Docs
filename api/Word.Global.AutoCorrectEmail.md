@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.AutoCorrectEmail property (Word)
 
-Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automatic corrections made to email messages.
+Returns an **[AutoCorrect](Word.AutoCorrect.md)** object that represents automatic corrections made to email messages.
 
 
 ## Syntax

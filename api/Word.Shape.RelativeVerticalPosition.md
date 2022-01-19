@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.RelativeVerticalPosition property (Word)
 
-Specifies the relative vertical position of a shape. Read/write  **WdRelativeVerticalPosition**.
+Specifies the relative vertical position of a shape. Read/write **WdRelativeVerticalPosition**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # VisContainerMemberState enumeration (Visio)
 
-Specifies constants that denote the state of the input member shape with respect to the container; returned by the  **[ContainerProperties.GetMemberState](Visio.ContainerProperties.GetMemberState.md)** method.
+Specifies constants that denote the state of the input member shape with respect to the container; returned by the **[ContainerProperties.GetMemberState](Visio.ContainerProperties.GetMemberState.md)** method.
 
 
 

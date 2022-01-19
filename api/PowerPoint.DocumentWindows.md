@@ -14,15 +14,15 @@ ms.localizationpriority: medium
 
 # DocumentWindows object (PowerPoint)
 
-A collection of all the  **[DocumentWindow](PowerPoint.DocumentWindow.md)** objects that are currently open in Microsoft PowerPoint. This collection doesn't include open slide show windows, which are included in the **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection.
+A collection of all the **[DocumentWindow](PowerPoint.DocumentWindow.md)** objects that are currently open in Microsoft PowerPoint. This collection doesn't include open slide show windows, which are included in the **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection.
 
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.DocumentWindows**
+- **Microsoft.Office.Interop.PowerPoint.DocumentWindows**
     
 
 ## Example
@@ -34,7 +34,7 @@ Use the [Windows](PowerPoint.Application.Windows.md) property to return the **Do
 Windows.Arrange ppArrangeTiled
 ```
 
-Use the  **[NewWindow](PowerPoint.DocumentWindow.NewWindow.md)** method to create a document window and add it to the **DocumentWindows** collection. The following example creates a new window for the active presentation.
+Use the **[NewWindow](PowerPoint.DocumentWindow.NewWindow.md)** method to create a document window and add it to the **DocumentWindows** collection. The following example creates a new window for the active presentation.
 
 
 
@@ -43,7 +43,7 @@ Use the  **[NewWindow](PowerPoint.DocumentWindow.NewWindow.md)** method to creat
 ActivePresentation.NewWindow
 ```
 
-Use  **Windows** (_index_), where _index_ is the window index number, to return a single **DocumentWindow** object. The following example closes document window two.
+Use **Windows** (_index_), where _index_ is the window index number, to return a single **DocumentWindow** object. The following example closes document window two.
 
 
 

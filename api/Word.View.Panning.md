@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.Panning property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
 
 
 ## Syntax

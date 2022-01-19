@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DefaultWebOptions.TargetBrowser property (Word)
 
-Sets or returns an  **MsoTargetBrowser** constant representing the target browser for documents viewed in a web browser. Read/write.
+Sets or returns an **MsoTargetBrowser** constant representing the target browser for documents viewed in a web browser. Read/write.
 
 
 ## Syntax

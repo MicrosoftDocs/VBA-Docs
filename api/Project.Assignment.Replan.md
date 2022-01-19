@@ -30,7 +30,7 @@ _expression_. `Replan`( `_action_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _action_|Required|**PjAssignmentReplanAction**|Can be one of the following constants in  **[PjAssignmentReplanAction](Project.PjAssignmentReplanAction.md)**: **pjConstrainToMaxUnitsByDecreasingWork** or **pjConstrainToMaxUnitsByIncreasingDuration**.|
+| _action_|Required|**PjAssignmentReplanAction**|Can be one of the following constants in **[PjAssignmentReplanAction](Project.PjAssignmentReplanAction.md)**: **pjConstrainToMaxUnitsByDecreasingWork** or **pjConstrainToMaxUnitsByIncreasingDuration**.|
 
 ## Return value
 

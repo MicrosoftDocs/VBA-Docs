@@ -24,15 +24,12 @@ A trendline shows the trend, or direction, of data in a series. The **Trendline*
 
 ## Example
 
-
-
-
-> [!NOTE] 
+> [!NOTE]
 > Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[Trendlines](PowerPoint.Series.Trendlines.md)** (Index), where Index is the trendline index number, to return a single **Trendline** object.
+Use **[Trendlines](PowerPoint.Series.Trendlines.md)** (Index), where Index is the trendline index number, to return a single **Trendline** object.
 
-The index number denotes the order in which the trendlines were added to the series.  `Trendlines(1)` is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
+The index number denotes the order in which the trendlines were added to the series. `Trendlines(1)` is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
 
 The following example changes the trendline type for the first series of the first chart in the active document. If the series has no trendline, this example will fail.
 

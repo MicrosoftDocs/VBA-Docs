@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.Build property (Project)
 
-Gets the version and build number of Microsoft Project. Read-only  **String**.
+Gets the version and build number of Microsoft Project. Read-only **String**.
 
 
 ## Syntax

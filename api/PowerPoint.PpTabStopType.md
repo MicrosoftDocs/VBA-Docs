@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # PpTabStopType enumeration (PowerPoint)
 
-Constants that specify the tab-stop type, passed to and returned by the  **Type** property of the **TabStop** object.
+Constants that specify the tab-stop type, passed to and returned by the **Type** property of the **TabStop** object.
 
 
 
