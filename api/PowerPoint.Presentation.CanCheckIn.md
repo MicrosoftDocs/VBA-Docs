@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.CanCheckIn method (PowerPoint)
 
-Returns  **True** if Microsoft PowerPoint can check in a specified presentation to a server.
+Returns **True** if Microsoft PowerPoint can check in a specified presentation to a server.
 
 
 ## Syntax

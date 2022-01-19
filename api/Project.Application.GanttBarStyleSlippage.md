@@ -31,7 +31,7 @@ _expression_. `GanttBarStyleSlippage`( `_Baseline_`, `_Show_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Baseline_|Required|**Integer**|Specifies the baseline number. Valid values are 0 through 10.|
-| _Show_|Required|**Boolean**|If  **True**, show the baseline slippage. If **False**, hide the baseline slippage.|
+| _Show_|Required|**Boolean**|If **True**, show the baseline slippage. If **False**, hide the baseline slippage.|
 
 ## Return value
 

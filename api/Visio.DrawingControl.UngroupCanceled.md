@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.UngroupCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelUngroup** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelUngroup** event.
 
 
 ## Syntax

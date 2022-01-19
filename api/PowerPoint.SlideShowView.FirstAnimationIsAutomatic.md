@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SlideShowView.FirstAnimationIsAutomatic method (PowerPoint)
 
-Returns  **True** if the current slide has an initial animation that runs automatically.
+Returns **True** if the current slide has an initial animation that runs automatically.
 
 
 ## Syntax

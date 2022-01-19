@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationF
 
 ## Remarks
 
-Setting this property to  **True** displays the **NavigationFolder** in side-by-side mode; otherwise, overlay mode is used to display the navigation folder in the current view of the active explorer. The default value for this property is **True**.
+Setting this property to **True** displays the **NavigationFolder** in side-by-side mode; otherwise, overlay mode is used to display the navigation folder in the current view of the active explorer. The default value for this property is **True**.
 
 Setting this property has no effect for a **NavigationFolder** object that is not associated with a **Calendar** module. If the **NavigationFolder** object is associated with a **Calendar** module, the value of this property is dependent on the following conditions:
 

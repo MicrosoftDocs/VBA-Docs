@@ -26,11 +26,11 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-If  **True**, this folder will be synchronized when the "Application Folders" **[SyncObject](Outlook.SyncObject.md)** is synchronized. If **False**, the folder will not synchronize.
+If **True**, this folder will be synchronized when the "Application Folders" **[SyncObject](Outlook.SyncObject.md)** is synchronized. If **False**, the folder will not synchronize.
 
 This is equivalent to selecting the check box for this folder in the  **Application Folders** group on the **Send/Receive** dialog box.
 
-If this property is set to  **True**, and the "Application Folders" **SyncObject** does not already exist, a **SyncObject** will be automatically created. The "Application Folders" **SyncObject** is the only **Send/Receive** group that can be programmatically modified.
+If this property is set to **True**, and the "Application Folders" **SyncObject** does not already exist, a **SyncObject** will be automatically created. The "Application Folders" **SyncObject** is the only **Send/Receive** group that can be programmatically modified.
 
 
 ## Example

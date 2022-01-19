@@ -41,7 +41,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The CheckIn parameter can accept the value  **True**, **False**, 0, 1, "Yes", or "No".
+The CheckIn parameter can accept the value **True**, **False**, 0, 1, "Yes", or "No".
 
 
 ## Example

@@ -30,7 +30,7 @@ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DataOnly_|Optional| **Boolean**|Specifies whether to return the XML with or without markup.  **True** returns the text contained within the XML node without XML markup. **False** returns the text with XML markup.|
+| _DataOnly_|Optional| **Boolean**|Specifies whether to return the XML with or without markup. **True** returns the text contained within the XML node without XML markup. **False** returns the text with XML markup.|
 
 ## See also
 

@@ -38,12 +38,12 @@ _expression_. `SaveAs2`( `_FileName_` , `_FileFormat_` , `_LockComments_` , `_Pa
 | _WritePassword_|Optional| **Variant**|A password string for saving changes to the document. (See Remarks below.)|
 | _ReadOnlyRecommended_|Optional| **Variant**| **True** to have Microsoft Word suggest read-only status whenever the document is opened. The default is **False**.|
 | _EmbedTrueTypeFonts_|Optional| **Variant**| **True** to save TrueType fonts with the document. If omitted, the EmbedTrueTypeFonts argument assumes the value of the **[EmbedTrueTypeFonts](Word.Document.EmbedTrueTypeFonts.md)** property.|
-| _SaveNativePictureFormat_|Optional| **Variant**|If graphics were imported from another platform (for example, Macintosh),  **True** to save only the Microsoft Windows version of the imported graphics.|
+| _SaveNativePictureFormat_|Optional| **Variant**|If graphics were imported from another platform (for example, Macintosh), **True** to save only the Microsoft Windows version of the imported graphics.|
 | _SaveFormsData_|Optional| **Variant**| **True** to save the data entered by a user in a form as a record.|
-| _SaveAsAOCELetter_|Optional| **Variant**|If the document has an attached mailer,  **True** to save the document as an AOCE letter (the mailer is saved).|
+| _SaveAsAOCELetter_|Optional| **Variant**|If the document has an attached mailer, **True** to save the document as an AOCE letter (the mailer is saved).|
 | _Encoding_|Optional| **Variant**|The code page, or character set, to use for documents saved as encoded text files. The default is the system code page. You cannot use all  **[MsoEncoding](Office.MsoEncoding.md)** constants with this parameter.|
-| _InsertLineBreaks_|Optional| **Variant**|If the document is saved as a text file,  **True** to insert line breaks at the end of each line of text.|
-| _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file,  **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False**.|
+| _InsertLineBreaks_|Optional| **Variant**|If the document is saved as a text file, **True** to insert line breaks at the end of each line of text.|
+| _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file, **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False**.|
 | _LineEnding_|Optional| **Variant**|The way Word marks the line and paragraph breaks in documents saved as text files. Can be one of the following  **[WdLineEndingType](Word.WdLineEndingType.md)** constants: **wdCRLF** (default) or **wdCROnly**.|
 | _AddBiDiMarks_|Optional| **Variant**| **True** adds control characters to the output file to preserve bi-directional layout of the text in the original document.|
 | _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document.  **[WdCompatibilityMode](Word.WdCompatibilityMode.md)** constant.<table><tr><th>**Important**</th></tr><tr><td>By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.</td></tr></table>|

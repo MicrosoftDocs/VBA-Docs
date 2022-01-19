@@ -31,7 +31,7 @@ _expression_.**Update** (_MakePermanent_, _Refresh_)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MakePermanent_|Optional| **Variant**| A value of **True** indicates that the property cache is flushed and all changes are committed in the underlying address book. A value of **False** indicates that the property cache is flushed but not committed to persistent storage. The default value is **True**.|
-| _Refresh_|Optional| **Variant**|A value of  **True** indicates that the property cache is reloaded from the values in the underlying address book. A value of **False** indicates that the property cache is not reloaded. The default value is **False**.|
+| _Refresh_|Optional| **Variant**|A value of **True** indicates that the property cache is reloaded from the values in the underlying address book. A value of **False** indicates that the property cache is not reloaded. The default value is **False**.|
 
 ## Remarks
 

@@ -31,6 +31,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Returns  **True** if successful. See also the **[EnableChangeHighlighting](Project.Application.EnableChangeHighlighting.md)** property.
+Returns **True** if successful. See also the **[EnableChangeHighlighting](Project.Application.EnableChangeHighlighting.md)** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

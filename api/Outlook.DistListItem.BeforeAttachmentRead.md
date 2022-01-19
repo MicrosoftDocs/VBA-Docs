@@ -28,7 +28,7 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Attachment_|Required| **Attachment**|The **Attachment** to be read.|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.|
 
 ## See also
 

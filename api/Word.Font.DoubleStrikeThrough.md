@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 
 ## Remarks
 
-Returns  **True**, **False**, or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**. Read/write **Long**.To set or return single-line strikethrough formatting, use the **[StrikeThrough](Word.Font.StrikeThrough.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False**, and vice versa.
+Returns **True**, **False**, or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**. Read/write **Long**.To set or return single-line strikethrough formatting, use the **[StrikeThrough](Word.Font.StrikeThrough.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False**, and vice versa.
 
 
 ## Example

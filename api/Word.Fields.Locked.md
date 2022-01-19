@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' c
 
 ## Remarks
 
-This property can be  **True**, **False**, or **wdUndefined** (if some of the fields in the collection are locked and others are not).
+This property can be **True**, **False**, or **wdUndefined** (if some of the fields in the collection are locked and others are not).
 
 
 ## Example

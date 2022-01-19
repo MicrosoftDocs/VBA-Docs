@@ -28,7 +28,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 Whether or not an item is in conflict is determined by the state of the application. For example, when a user is offline and tries to access an online folder the action will fail. In this scenario, the  **IsConflict** property will return **True**.
 
-If  **True**, the specified item is in conflict.
+If **True**, the specified item is in conflict.
 
 
 ## Example

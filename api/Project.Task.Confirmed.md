@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Task.Confirmed property (Project)
 
-Gets the results of task assignments in a Project mail message.  **True** if all resources assigned to the task have accepted their assignments. Read-only **Boolean**.
+Gets the results of task assignments in a Project mail message. **True** if all resources assigned to the task have accepted their assignments. Read-only **Boolean**.
 
 
 ## Syntax

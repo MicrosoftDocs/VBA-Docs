@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.PageDeleteCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelPageDelete** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelPageDelete** event.
 
 
 ## Syntax

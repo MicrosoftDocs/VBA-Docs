@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 
 ## Remarks
 
-If set to the  **True**, only user-created views will appear on the menu.
+If set to the **True**, only user-created views will appear on the menu.
 
 This property has an effect only on the  **View** menu. It does not affect the display of views in the navigation pane.
 

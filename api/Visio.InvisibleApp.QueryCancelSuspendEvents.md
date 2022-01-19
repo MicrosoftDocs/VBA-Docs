@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.QueryCancelSuspendEvents event (Visio)
 
-Occurs before the application suspends events in response to a client code. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application suspends events in response to a client code. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ A Visio instance fires  **QueryCancelSuspendEvents** after client code has direc
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **SuspendEventsCanceled** and does not suspend events.
+- If any event handler returns **True** (cancel), the instance fires **SuspendEventsCanceled** and does not suspend events.
     
 - If all handlers return  **False** (don't cancel), the suspension occurs.
     

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Event.GetFilterCommands method (Visio)
 
-Returns an array of command ranges and a  **True** or **False** value indicating how to filter events for that command range.
+Returns an array of command ranges and a **True** or **False** value indicating how to filter events for that command range.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ The number of elements in the array is a multiple of 3, as follows:
     
 - The second element contains the end command ID of the range (any member of  **VisUICmds**).
     
-- The third element contains a  **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
+- The third element contains a **True** or **False** value, which indicates whether you are listening to events for that command range (**True** to listen to events; **False** to exclude events).
     
 
 
@@ -55,15 +55,15 @@ For an event to successfully pass through a command filter, it must satisfy the 
 
 - It must have a valid command ID.
     
-- If all filters are  **True**, the event must match at least one filter.
+- If all filters are **True**, the event must match at least one filter.
     
 - If all filters are  **False**, the event must not match any filter.
     
-- If the filters are a mixture of  **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
+- If the filters are a mixture of **True** and **False**, the event must match at least one **True** filter and not match any **False** filters.
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True**.
+If there are no **True** ranges defined in the array, events are considered **True**.
 
 For details about using command IDs to define event filters, see the  **SetFilterCommands** method.
 

@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveChanges_|Optional|**Boolean**|**True** saves changes and checks in the document. **False** returns the document to a checked-in status without saving revisions.|
-| _Comment_|Optional|**String**|Comments for the revision of the project being checked in (applies only if SaveChanges equals  **True**).|
+| _Comment_|Optional|**String**|Comments for the revision of the project being checked in (applies only if SaveChanges equals **True**).|
 | _MakePublic_|Optional|**Boolean**|**True** allows the user to publish the project after it has been checked in. This submits the project for the approval process, which can eventually result in a version of the project being published to users with read-only rights to the project (applies only if SaveChanges equals **True**).|
 
 ## Remarks

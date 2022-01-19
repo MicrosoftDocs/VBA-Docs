@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global.Repeat method (Word)
 
-Repeats the most recent editing action one or more times. Returns  **True** if the commands were repeated successfully.
+Repeats the most recent editing action one or more times. Returns **True** if the commands were repeated successfully.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ _expression_ A variable that represents a **Frame** object.
 
 ## Return value
 
-A Boolean that returns  **True** if the method succeeds; returns **False** otherwise.
+A Boolean that returns **True** if the method succeeds; returns **False** otherwise.
 
 
 ## Remarks

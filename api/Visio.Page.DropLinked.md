@@ -54,7 +54,7 @@ When the object you pass for the ObjectToDrop parameter is a shape, the center o
 
 If ObjectToDrop is a  **Master**, the pin of the master is positioned at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 
-If you pass  **True** for the optional ApplyDataGraphicsAfterLink parameter, Visio applies the data graphic most recently applied to any other shape in the current document.
+If you pass **True** for the optional ApplyDataGraphicsAfterLink parameter, Visio applies the data graphic most recently applied to any other shape in the current document.
 
 
 ## Example

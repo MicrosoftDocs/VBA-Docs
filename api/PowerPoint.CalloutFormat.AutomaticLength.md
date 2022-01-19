@@ -26,7 +26,7 @@ _expression_ A variable that represents a [CalloutFormat](PowerPoint.CalloutForm
 
 ## Remarks
 
-Applying this method sets the [AutoLength](PowerPoint.CalloutFormat.AutoLength.md)property to  **True**.
+Applying this method sets the [AutoLength](PowerPoint.CalloutFormat.AutoLength.md)property to **True**.
 
 
 ## Example

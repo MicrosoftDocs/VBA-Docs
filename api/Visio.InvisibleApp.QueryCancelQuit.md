@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.QueryCancelQuit event (Visio)
 
-Occurs before the application terminates in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application terminates in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ A Visio instance fires  **QueryCancelQuit** after the user has directed the inst
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **QuitCanceled** and does not terminate.
+- If any event handler returns **True** (cancel), the instance fires **QuitCanceled** and does not terminate.
     
 - If all handlers return  **False** (don't cancel), the instance fires **BeforeQuit** and then terminates.
     

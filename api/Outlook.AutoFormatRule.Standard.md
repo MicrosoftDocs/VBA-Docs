@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AutoFormatRule](Outlook.AutoFormatRu
 
 ## Remarks
 
-If the value of this property is set to  **True**, then the **[Filter](Outlook.AutoFormatRule.Filter.md)** and **[Name](Outlook.AutoFormatRule.Name.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](Outlook.AutoFormatRules.Remove.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
+If the value of this property is set to **True**, then the **[Filter](Outlook.AutoFormatRule.Filter.md)** and **[Name](Outlook.AutoFormatRule.Name.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](Outlook.AutoFormatRules.Remove.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MailMergeDataSource.FindRecord method (Word)
 
-Searches the contents of the specified mail merge data source for text in a particular field. Returns  **True** if the search text is found. **Boolean**.
+Searches the contents of the specified mail merge data source for text in a particular field. Returns **True** if the search text is found. **Boolean**.
 
 
 ## Syntax

@@ -32,7 +32,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The date of availability, starting at midnight.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. Default is 30 minutes.|
-| _CompleteFormat_|Optional| **Variant**|A value of  **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
+| _CompleteFormat_|Optional| **Variant**|A value of **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
 
 ## Return value
 

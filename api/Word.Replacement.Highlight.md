@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Replacement](Word.Replacement.md)' o
 
 ## Remarks
 
-Can return or be set to  **True**, **False**, or **wdUndefined**.
+Can return or be set to **True**, **False**, or **wdUndefined**.
 
 
 ## Example

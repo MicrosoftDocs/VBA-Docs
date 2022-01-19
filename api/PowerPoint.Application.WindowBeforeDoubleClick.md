@@ -45,7 +45,7 @@ For information about using events with the  **Application** object, see [How to
 |Slide sorter view|Slide|
 |Notes page view|Slide image|
 
-The default double-click action occurs after this event unless the Cancel argument is set to  **True**.
+The default double-click action occurs after this event unless the Cancel argument is set to **True**.
 
 
 ## Example

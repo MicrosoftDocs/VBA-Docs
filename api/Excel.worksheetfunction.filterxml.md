@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm137465
 ms.prod: excel
 ms.assetid: bcaa41a9-a122-ee87-29ca-cabb224358a1
-ms.date: 05/22/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
 
 # WorksheetFunction.FilterXML method (Excel)
 
-Gets specific data from the returned XML, typically from a  **WebService** function call.
+Gets specific data from the returned XML, typically from a **WebService** function call.
 
 
 ## Syntax

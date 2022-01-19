@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Replace_|Optional| **Variant**|If adding a shape,  **True** replaces the selection. **False** adds the new shape to the selection.|
+| _Replace_|Optional| **Variant**|If adding a shape, **True** replaces the selection. **False** adds the new shape to the selection.|
 
 ## See also
 

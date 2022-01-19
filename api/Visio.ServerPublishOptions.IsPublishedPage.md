@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ServerPublishOptions.IsPublishedPage property (Visio)
 
-Returns  **True** if the specified page is designated to be included when the document is published as a .vdw file. Read-only.
+Returns **True** if the specified page is designated to be included when the document is published as a .vdw file. Read-only.
 
 
 ## Syntax

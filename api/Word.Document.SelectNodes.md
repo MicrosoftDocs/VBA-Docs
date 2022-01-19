@@ -41,7 +41,7 @@ XMLNodes
 
 ## Remarks
 
-Setting the FastSearchSkippingTextNodes parameter to  **True** diminishes performance, because Microsoft Word searches all nodes in a document against the text contained in the node.
+Setting the FastSearchSkippingTextNodes parameter to **True** diminishes performance, because Microsoft Word searches all nodes in a document against the text contained in the node.
 
 
 ## Example

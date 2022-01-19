@@ -26,7 +26,7 @@ _expression_. `SmallCaps`
 
 ## Remarks
 
-Returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
+Returns **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
 Setting the **SmallCaps** property to **True** sets the **[AllCaps](Word.Font.AllCaps.md)** property to **False**, and vice versa.
 

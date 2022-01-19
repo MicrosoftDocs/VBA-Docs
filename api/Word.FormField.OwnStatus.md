@@ -26,7 +26,7 @@ _expression_. `OwnStatus`
 
 ## Remarks
 
-If  **True**, the text specified by the **[StatusText](Word.FormField.StatusText.md)** property is displayed. If **False**, the text of the AutoText entry specified by the **StatusText** property is displayed.
+If **True**, the text specified by the **[StatusText](Word.FormField.StatusText.md)** property is displayed. If **False**, the text of the AutoText entry specified by the **StatusText** property is displayed.
 
 
 ## Example

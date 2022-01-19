@@ -26,7 +26,7 @@ _expression_. `OwnHelp`
 
 ## Remarks
 
-If  **True**, the text specified by the **[HelpText](Word.FormField.HelpText.md)** property is displayed. If **False**, the text in the AutoText entry specified by the **HelpText** property is displayed.
+If **True**, the text specified by the **[HelpText](Word.FormField.HelpText.md)** property is displayed. If **False**, the text in the AutoText entry specified by the **HelpText** property is displayed.
 
 
 ## Example

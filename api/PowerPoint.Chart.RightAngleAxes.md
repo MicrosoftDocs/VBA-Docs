@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** objec
 
 This property applies only to 3D line, column, and bar charts. 
 
-If this property is set to  **True**, the **[Perspective](PowerPoint.Chart.Perspective.md)** property is ignored.
+If this property is set to **True**, the **[Perspective](PowerPoint.Chart.Perspective.md)** property is ignored.
 
 
 ## Example

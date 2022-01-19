@@ -31,7 +31,7 @@ _expression_. `IncludeWholeCalendar`
 
 ## Remarks
 
-If this property is set to  **True**, the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties of the **CalendarSharing** object are ignored and all calendar items in the folder are included.
+If this property is set to **True**, the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties of the **CalendarSharing** object are ignored and all calendar items in the folder are included.
 
 If this property is set to  **False**, the **StartDate** and **EndDate** properties determine the range of calendar items to be included.
 

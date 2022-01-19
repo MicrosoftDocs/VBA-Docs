@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Find](Word.Find.md)' objec
 
 ## Remarks
 
-This method sets the following properties to  **True** :
+This method sets the following properties to **True** :
 
 
 

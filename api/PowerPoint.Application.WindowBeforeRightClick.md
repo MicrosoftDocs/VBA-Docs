@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Example
 
-This example creates a duplicate of the selected shape. If the shape has a text frame, it adds the text "Duplicate Shape" to the new shape. Setting the Cancel argument to  **True** then prevents the default context menu from appearing.
+This example creates a duplicate of the selected shape. If the shape has a text frame, it adds the text "Duplicate Shape" to the new shape. Setting the Cancel argument to **True** then prevents the default context menu from appearing.
 
 
 ```vb

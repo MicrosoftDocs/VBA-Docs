@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CustomFieldMappingDialog method (Project)
 
-Returns  **True** if custom task fields can be imported by using a mapping dialog.
+Returns **True** if custom task fields can be imported by using a mapping dialog.
 
 
 ## Syntax

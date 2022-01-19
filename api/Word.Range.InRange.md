@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Range.InRange method (Word)
 
-Returns  **True** if the range to which the method is applied is contained in the range specified by the Range argument.
+Returns **True** if the range to which the method is applied is contained in the range specified by the Range argument.
 
 
 ## Syntax

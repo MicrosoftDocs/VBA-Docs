@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocu
 | _ReadOnly_|Optional| **Variant**| **True** to insert the subdocument as a read-only document.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the subdocument if it is password protected.|
 | _PasswordTemplate_|Optional| **Variant**|The password required to open the template attached to the subdocument if the template is password protected.|
-| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document.  **True** to insert the saved version of the subdocument. **False** to insert the open version of the subdocument, which may contain unsaved changes.|
+| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document. **True** to insert the saved version of the subdocument. **False** to insert the open version of the subdocument, which may contain unsaved changes.|
 | _WritePasswordDocument_|Optional| **Variant**|The password required to save changes to the document file if it is write-protected.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password required to save changes to the template attached to the subdocument if the template is write-protected.|
 

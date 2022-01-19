@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Bookmarks.Exists method (Word)
 
-Determines whether the specified bookmark exists. Returns  **True** if the bookmark exists.
+Determines whether the specified bookmark exists. Returns **True** if the bookmark exists.
 
 
 ## Syntax

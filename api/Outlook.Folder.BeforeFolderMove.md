@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MoveTo_|Required| **[Folder](Outlook.Folder.md)**|Represents the folder to which the item is being moved. |
-| _Cancel_|Required| **Boolean**|Set this to  **True** to cancel the move or delete action.|
+| _Cancel_|Required| **Boolean**|Set this to **True** to cancel the move or delete action.|
 
 ## Remarks
 

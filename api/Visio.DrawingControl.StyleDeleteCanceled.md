@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.StyleDeleteCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelStyleDelete** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelStyleDelete** event.
 
 
 ## Syntax

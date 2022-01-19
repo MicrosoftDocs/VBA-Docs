@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**| The window where the **Project Guide** is shown or hidden.|
-| _Close_|Required|**Boolean**|**False** if the user is closing the **Project Guide**.  **True** if the user is showing the **Project Guide**.|
+| _Close_|Required|**Boolean**|**False** if the user is closing the **Project Guide**. **True** if the user is showing the **Project Guide**.|
 
 ## Return value
 

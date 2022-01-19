@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Tasks.Exists method (Word)
 
-Determines whether the specified task exists. Returns  **True** if the task exists.
+Determines whether the specified task exists. Returns **True** if the task exists.
 
 
 ## Syntax

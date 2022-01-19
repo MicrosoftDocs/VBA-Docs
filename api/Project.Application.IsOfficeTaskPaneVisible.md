@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Application.IsOfficeTaskPaneVisible method (Project)
 
-Returns  **True** if any of the Office task panes are visible.
+Returns **True** if any of the Office task panes are visible.
 
 
 ## Syntax

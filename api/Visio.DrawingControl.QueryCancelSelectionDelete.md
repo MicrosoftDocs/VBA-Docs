@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # DrawingControl.QueryCancelSelectionDelete event (Visio)
 
-Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ A Microsoft Visio instance fires  **QueryCancelSelectionDelete** after the user 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **SelectionDeleteCanceled** and does not delete the shapes.
+- If any event handler returns **True** (cancel), the instance fires **SelectionDeleteCanceled** and does not delete the shapes.
     
 - If all handlers return **False** (don't cancel), the instance fires **BeforeSelectionDelete** and **BeforeShapeDelete** and then deletes the shapes.
     

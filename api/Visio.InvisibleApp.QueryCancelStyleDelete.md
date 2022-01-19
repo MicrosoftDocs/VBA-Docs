@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.QueryCancelStyleDelete event (Visio)
 
-Occurs before the application deletes a style in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application deletes a style in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ A Microsoft Visio instance fires  **QueryCancelStyleDelete** after the user has 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **StyleDeleteCanceled** and does not delete the style.
+- If any event handler returns **True** (cancel), the instance fires **StyleDeleteCanceled** and does not delete the style.
     
 - If all handlers return  **False** (don't cancel), the instance fires **BeforeStyleDelete** and then deletes the style.
     

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # OptionButton.Click Event (Outlook Forms Script)
 
-Occurs when the user definitively selects a value for the control that has more than one possible value, or when the value changes to  **True**.
+Occurs when the user definitively selects a value for the control that has more than one possible value, or when the value changes to **True**.
 
 
 ## Syntax

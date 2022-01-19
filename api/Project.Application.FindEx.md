@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FindEx method (Project)
 
-Searches for an unfiltered value in a specified field or in all available fields; returns  **True** if the value is found.
+Searches for an unfiltered value in a specified field or in all available fields; returns **True** if the value is found.
 
 
 ## Syntax

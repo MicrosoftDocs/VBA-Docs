@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FindPrevious method (Project)
 
-Repeats the last search and returns  **True** if the search value is found.
+Repeats the last search and returns **True** if the search value is found.
 
 
 ## Syntax

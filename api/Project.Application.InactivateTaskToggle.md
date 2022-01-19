@@ -30,7 +30,7 @@ _expression_. `InactivateTaskToggle`( `_MakeActive_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MakeActive_|Optional|**Variant**|Specifies whether to make the task active. If the task is active,  **True** has no effect. If the task is inactive, **True** makes the task active.|
+| _MakeActive_|Optional|**Variant**|Specifies whether to make the task active. If the task is active, **True** has no effect. If the task is inactive, **True** makes the task active.|
 
 ## Return value
 

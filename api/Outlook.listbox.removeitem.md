@@ -29,7 +29,7 @@ _expression_ A variable that represents a **ListBox** object.
 
 ## Return value
 
-A Boolean that returns  **True** if the method succeeds, **False** otherwise.
+A Boolean that returns **True** if the method succeeds, **False** otherwise.
 
 
 ## Remarks

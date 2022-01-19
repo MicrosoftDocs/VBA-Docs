@@ -27,7 +27,7 @@ _expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[JournalItem](Outlook.JournalItem.md)** to be saved.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[JournalItem](Outlook.JournalItem.md)** to be saved.|
 
 ## See also
 

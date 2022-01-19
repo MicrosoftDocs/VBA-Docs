@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Fixed
 ms.assetid: befc65b2-0216-dbd7-e376-edbcbfe532c5
-ms.date: 05/22/2019
+ms.date: 01/18/2022
 ms.localizationpriority: medium
 ---
 
@@ -47,7 +47,7 @@ If you omit decimals, it is assumed to be 2.
     
 If no_commas is **False** or omitted, the returned text includes commas as usual.
     
-The major difference between formatting a cell containing a number with the  **Cells** command (**Format** menu) and formatting a number directly with the **Fixed** function is that **Fixed** converts its result to text. A number formatted with the **Cells** command is still a number.
+The major difference between formatting a cell containing a number with the **Cells** command (**Format** menu) and formatting a number directly with the **Fixed** function is that **Fixed** converts its result to text. A number formatted with the **Cells** command is still a number.
     
 
 

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Font](Word.Font.md)** obj
 
 ## Remarks
 
-This property returns  **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text) and can be set to **True**, **False**, or **wdToggle**.
+This property returns **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text) and can be set to **True**, **False**, or **wdToggle**.
 
 Use the **ItalicBi** property for right-to-left languages.
 

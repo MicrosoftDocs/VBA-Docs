@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.QueryCancelWindowClose event (Visio)
 
-Occurs before the application closes a window in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application closes a window in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ A Microsoft Visio instance fires  **QueryCancelWindowClose** after the user has 
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **WindowCloseCanceled** and does not close the window.
+- If any event handler returns **True** (cancel), the instance fires **WindowCloseCanceled** and does not close the window.
     
 - If all handlers return  **False** (don't cancel), the instance fires **BeforeWindowClosed** and then closes the window.
     

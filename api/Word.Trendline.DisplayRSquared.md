@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Trendline](Word.Trendline.md)' objec
 
 ## Remarks
 
-Setting this property to  **True** automatically turns on data labels.
+Setting this property to **True** automatically turns on data labels.
 
 
 ## Example

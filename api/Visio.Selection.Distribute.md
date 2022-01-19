@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Selection](Visio.Selection.md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Distribute_|Required| **VisDistributeTypes**|Specifies how the shapes are distributed. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True**, creates guides and glues selected shapes to them. If **False**, does not. Default is **False**.|
+| _GlueToGuide_|Optional| **Boolean**|If **True**, creates guides and glues selected shapes to them. If **False**, does not. Default is **False**.|
 
 ## Return value
 
@@ -57,9 +57,9 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 
 Calling the  **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**). 
 
-Passing  **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
+Passing **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
 
-When you pass  **True** for _GlueToGuide_, Visio creates guides to retain the distribution of the shapes. You can select and move the outermost guides to move the shapes without changing their distribution.
+When you pass **True** for _GlueToGuide_, Visio creates guides to retain the distribution of the shapes. You can select and move the outermost guides to move the shapes without changing their distribution.
 
 
 ## Example

@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _varPlotBy_|Optional|**Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following  **Office.XlRowCol** constants: **xlRows** or **xlColumns**.|
 | _varCategoryLabels_|Optional|**Variant**|An integer that specifies the number of rows or columns within the source range that contain category labels. Values can be from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _varSeriesLabels_|Optional|**Variant**|An integer that specifies the number of rows or columns within the source range that contain series labels. Values can be from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
-| _varHasLegend_|Optional|**Variant**|Set  **True** to include a legend.|
+| _varHasLegend_|Optional|**Variant**|Set **True** to include a legend.|
 | _varTitle_|Optional|**Variant**|The chart title.|
 | _varCategoryTitle_|Optional|**Variant**|The category axis title.|
 | _varValueTitle_|Optional|**Variant**|The value axis title.|

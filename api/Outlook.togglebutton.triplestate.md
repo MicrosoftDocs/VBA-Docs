@@ -23,9 +23,9 @@ _expression_ A variable that represents a **ToggleButton** object.
 
  **True** if the control clicks through three states, **False** if the control only supports two states, **True** and **False** (default).
 
-When the  **TripleState** property is **True**, a user can choose from the values of  **Null**,  **True**, and  **False**. The null value is displayed as a shaded button.
+When the  **TripleState** property is **True**, a user can choose from the values of  **Null**, **True**, and  **False**. The null value is displayed as a shaded button.
 
-When  **TripleState** is **False**, the user can choose either  **True** or **False**.
+When  **TripleState** is **False**, the user can choose either **True** or **False**.
 
 A control set to  **Null** does not initiate the **[Click](Outlook.togglebutton.click.md)** event.
 

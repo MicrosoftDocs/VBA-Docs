@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Font](Word.Font.md)** obj
 
 ## Remarks
 
-This property can be  **True**, **False**, or **wdUndefined**.
+This property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example

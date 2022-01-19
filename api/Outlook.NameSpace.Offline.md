@@ -33,7 +33,7 @@ If the  **[NameSpace.ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectio
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns  **True** or **False** depending on whether the **NameSpace** object is currently online.
+The following Microsoft Visual Basic for Applications (VBA) example returns **True** or **False** depending on whether the **NameSpace** object is currently online.
 
 
 ```vb

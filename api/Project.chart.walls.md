@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _fBackWall_|Optional|**Boolean**|Default value =  **True**. The  _fBackWall_ parameter has no effect in Project.|
+| _fBackWall_|Optional|**Boolean**|Default value = **True**. The  _fBackWall_ parameter has no effect in Project.|
 
 ## Example
 

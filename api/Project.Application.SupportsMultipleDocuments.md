@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SupportsMultipleDocuments property (Project)
 
-Always  **True** for Project and any other application that supports multiple documents (projects). Read-only **Boolean**.
+Always **True** for Project and any other application that supports multiple documents (projects). Read-only **Boolean**.
 
 
 ## Syntax

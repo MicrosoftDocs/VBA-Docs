@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.QueryCancelConvertToGroup event (Visio)
 
-Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
+Occurs before the application converts a selection of shapes to a group in response to a user action in the interface. If any event handler returns **True**, the operation is canceled.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ A Microsoft Visio instance fires  **QueryCancelConvertToGroup** after the user h
 
 
 
-- If any event handler returns  **True** (cancel), the instance fires **ConvertToGroupCanceled** and does not convert the shapes.
+- If any event handler returns **True** (cancel), the instance fires **ConvertToGroupCanceled** and does not convert the shapes.
     
 - If all handlers return  **False** (don't cancel), the conversion is performed.
     

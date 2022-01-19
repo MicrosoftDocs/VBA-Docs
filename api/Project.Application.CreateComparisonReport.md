@@ -35,7 +35,7 @@ _expression_. `CreateComparisonReport`( `_FileName_`, `_TaskTable_`, `_ResourceT
 | _ResourceTable_|Optional|**String**|Name of the table to use for comparison in a resource view.|
 | _Items_|Optional|**[PjCompareVersionItems](Project.PjCompareVersionItems.md)**|Specifies the type of items to compare.|
 | _Columns_|Optional|**[PjCompareVersionColumns](Project.PjCompareVersionColumns.md)**|Specifies whether to show only column data, only column differences, or both differences and data.|
-| _ShowLegend_|Optional|**Variant**|If  **True**, shows the legend in the comparison report.|
+| _ShowLegend_|Optional|**Variant**|If **True**, shows the legend in the comparison report.|
 
 ## Return value
 

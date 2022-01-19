@@ -36,7 +36,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 | _InsertAsHyperlink_|Optional| **Variant**| **True** to insert the cross-reference as a hyperlink.|
 | _IncludePosition_|Optional| **Variant**| **True** to insert "above" or "below," depending on the location of the reference item in relation to the cross-reference.|
 | _SeparateNumbers_|Optional| **Variant**| **True** to use a separator to separate the numbers from the associated text. (Use only if the ReferenceType parameter is set to **wdRefTypeNumberedItem** and the ReferenceKind parameter is set to **wdNumberFullContext**.)|
-| _SeparatorString_|Optional| **Variant**|Specifies the string to use as a separator if the SeparateNumbers parameter is set to  **True**.|
+| _SeparatorString_|Optional| **Variant**|Specifies the string to use as a separator if the SeparateNumbers parameter is set to **True**.|
 
 ## Remarks
 

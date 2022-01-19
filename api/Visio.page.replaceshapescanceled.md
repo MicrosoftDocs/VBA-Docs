@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Page.ReplaceShapesCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelReplaceShapes** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelReplaceShapes** event.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Master.ConvertToGroupCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelConvertToGroup** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelConvertToGroup** event.
 
 
 ## Syntax

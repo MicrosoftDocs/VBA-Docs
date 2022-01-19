@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Shape.HasCategory method (Visio)
 
-Returns  **True** if the specified category is in the shape categories list.
+Returns **True** if the specified category is in the shape categories list.
 
 
 ## Syntax

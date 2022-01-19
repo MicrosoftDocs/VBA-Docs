@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.IsSandboxed property (PowerPoint)
 
-Returns  **True** if the specified presentation is open in a Protected View window. Read-only.
+Returns **True** if the specified presentation is open in a Protected View window. Read-only.
 
 
 ## Syntax

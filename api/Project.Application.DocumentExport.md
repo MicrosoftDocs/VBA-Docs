@@ -32,9 +32,9 @@ _expression_. `DocumentExport`( `_FileName_`, `_FileType_`, `_IncludeDocumentPro
 |:-----|:-----|:-----|:-----|
 | _FileName_|Optional|**String**|Specifies the file name of the exported document. The default value is the name of the active project as a PDF file.|
 | _FileType_|Optional|**[PjDocExportType](Project.PjDocExportType.md)**|Specifies whether to export the project as a PDF or an XPS document. The default value is **pjPDF** (0).|
-| _IncludeDocumentProperties_|Optional|**Variant**|If  **True** or 1, the last page of the exported document includes some document properties. The default value is **True**.|
-| _IncludeDocumentMarkup_|Optional|**Variant**|If  **True** or 1, the last page of the exported document includes a legend of the symbols shown in the view. The default is **True**.|
-| _ArchiveFormat_|Optional|**Variant**|If  **True** or 1, exports a PDF document in the ISO 19500-1 compliant (PDF/A) format. The default value is **False**.|
+| _IncludeDocumentProperties_|Optional|**Variant**|If **True** or 1, the last page of the exported document includes some document properties. The default value is **True**.|
+| _IncludeDocumentMarkup_|Optional|**Variant**|If **True** or 1, the last page of the exported document includes a legend of the symbols shown in the view. The default is **True**.|
+| _ArchiveFormat_|Optional|**Variant**|If **True** or 1, exports a PDF document in the ISO 19500-1 compliant (PDF/A) format. The default value is **False**.|
 | _FromDate_|Optional|**Variant**|The start date of the range of dates to publish. The default value is the project start date.|
 | _ToDate_|Optional|**Variant**|The end date of the range of dates to publish. The default value is the project end date.|
 

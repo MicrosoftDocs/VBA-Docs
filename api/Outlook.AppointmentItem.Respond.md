@@ -50,7 +50,7 @@ The following table describes the behavior of the  **Respond** method depending 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
 | **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](Outlook.AppointmentItem.Send(method).md)** method.|
-| **True, False**|Same result as with  **True, True**.|
+| **True, False**|Same result as with **True, True**.|
 | **False, True**|Prompts user to  **Send** or **Edit** before sending the response.|
 | **False, False**|New response item appears in the user interface, but no prompt is displayed. |
 

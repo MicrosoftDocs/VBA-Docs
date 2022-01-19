@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AppointmentItem.AllDayEvent property (Outlook)
 
-Returns  **True** if the appointment is an all-day event (as opposed to a specified time). Read/write.
+Returns **True** if the appointment is an all-day event (as opposed to a specified time). Read/write.
 
 
 ## Syntax

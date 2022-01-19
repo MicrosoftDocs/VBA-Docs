@@ -24,7 +24,7 @@ _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md
 
 ## Remarks
 
-If this property is set to  **True**, the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property.
+If this property is set to **True**, the location in which week number labels are displayed in the timeline scale for the **TimelineView** object depends on the value of the **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property.
 
 | **Property value**| **Label location**|
 |:-----|:-----|

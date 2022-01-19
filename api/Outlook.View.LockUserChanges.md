@@ -26,7 +26,7 @@ _expression_ A variable that represents a [View](Outlook.View.md) object.
 
 ## Remarks
 
-If  **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example

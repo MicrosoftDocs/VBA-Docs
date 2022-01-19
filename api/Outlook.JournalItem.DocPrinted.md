@@ -26,7 +26,7 @@ _expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) 
 
 ## Remarks
 
-If this property returns  **True**, then the journalized item was printed as part of the journalized session.
+If this property returns **True**, then the journalized item was printed as part of the journalized session.
 
 
 ## See also

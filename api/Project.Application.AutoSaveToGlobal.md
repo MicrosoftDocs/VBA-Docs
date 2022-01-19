@@ -30,7 +30,7 @@ _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OnOff_|Optional|**Variant**|If  **True**, automatically save. The default value is **False**.|
+| _OnOff_|Optional|**Variant**|If **True**, automatically save. The default value is **False**.|
 
 ## Return value
 

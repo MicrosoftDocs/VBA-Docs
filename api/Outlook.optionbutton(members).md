@@ -39,6 +39,6 @@ Shows the selection status of one item in a group of choices.
 
 |Name|Description|
 |:-----|:-----|
-| [Click](Outlook.optionbutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value, or when the value changes to  **True**.|
+| [Click](Outlook.optionbutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value, or when the value changes to **True**.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

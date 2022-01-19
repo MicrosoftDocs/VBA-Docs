@@ -31,8 +31,8 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LocalRUID_|Optional|**Variant**|Local resource IDs that are to be checked for errors. (Example: "1, 5, 6, 7, 12".) If  **null**, all local resources are checked (unless CheckEnterprise is **True**).|
-| _ResetImport_|Optional|**Boolean**|Reset the import column to  **True** for the local resources that are being checked for errors.|
-| _CheckEnterprise_|Optional|**Boolean**|If  **True**, check enterprise resources only.|
+| _ResetImport_|Optional|**Boolean**|Reset the import column to **True** for the local resources that are being checked for errors.|
+| _CheckEnterprise_|Optional|**Boolean**|If **True**, check enterprise resources only.|
 
 ## Return value
 

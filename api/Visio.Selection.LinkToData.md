@@ -49,7 +49,7 @@ The  **Selection.LinkToData** method functions much like the same method of the 
 
 If Visio cannot establish a link between a shape and the data row, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if all shapes in the selection are actually linked to the data row, call the  **[Shape.GetLinkedDataRow](Visio.Shape.GetLinkedDataRow.md)** method on each shape in the selection. If that method fails for any shape, it indicates that the shape is not linked to the data row. Visio will usually succeed in linking a row to a shape unless the shape is already linked to data and the link-replacement-behavior setting for the data recordset specifies that the link should not be replaced.
 
-If you pass  **True** for the AutoApplyDataGraphics parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
+If you pass **True** for the AutoApplyDataGraphics parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 
 
 ## Example

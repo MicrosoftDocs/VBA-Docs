@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # InvisibleApp.QuitCanceled event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelQuit** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelQuit** event.
 
 
 ## Syntax

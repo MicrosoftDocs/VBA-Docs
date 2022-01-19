@@ -31,7 +31,7 @@ _expression_ A variable that represents a [SectionProperties](PowerPoint.Section
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section to delete.|
-| _deleteSlides_|Required|**Boolean**|Whether to delete all the slides in the section.  **True**, to delete all the slides within the section; **False** not to delete them.|
+| _deleteSlides_|Required|**Boolean**|Whether to delete all the slides in the section. **True**, to delete all the slides within the section; **False** not to delete them.|
 
 ## Remarks
 

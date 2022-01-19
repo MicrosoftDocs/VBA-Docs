@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SupportsMultipleWindows property (Project)
 
-Always  **True** for Project and any other application that can have more than one window open at a time. Read-only **Boolean**.
+Always **True** for Project and any other application that can have more than one window open at a time. Read-only **Boolean**.
 
 
 ## Syntax
