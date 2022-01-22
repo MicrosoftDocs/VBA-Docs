@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # About programming Visio Viewer
 
-Visio Viewer is an ActiveX control that lets you open, view, or print Visio drawings, even if you do not have Visio. You cannot, however, edit, save, or create a new Visio drawing in Visio Viewer. For that, you need Visio.
+Visio Viewer is an ActiveX control that lets you open, view, or print Visio drawings, even if you don't have Visio. You cannot, however, edit, save, or create a new Visio drawing in Visio Viewer. For that, you need Visio.
 
 Visio Viewer provides an application programming interface (API) that lets solution developers perform numerous tasks, among them the following:
 

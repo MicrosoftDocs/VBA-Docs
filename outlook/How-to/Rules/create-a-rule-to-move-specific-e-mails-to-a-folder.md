@@ -23,7 +23,7 @@ The following describes the steps used to create the rule:
     
 5. Using the same **Rule** object, use the **[RuleActions.MoveToFolder](../../../api/Outlook.RuleActions.MoveToFolder.md)** property to obtain a **[MoveOrCopyRuleAction](../../../api/Outlook.MoveOrCopyRuleAction.md)** object, `oMoveRuleAction`.  `oMoveRuleAction` specifies the action for the rule: move the message to the target folder "Dan".
     
-6. Using the same **Rule** object, use the **[RuleConditions.Subject](../../../api/Outlook.RuleConditions.Subject.md)** property to obtain a **[TextRuleCondition](../../../api/Outlook.TextRuleCondition.md)** object, `oExceptSubject`.  `oExceptSubject` specifies the exception condition: if the subject contains the terms "fun" or "chat", then do not apply the rule to move the message to the folder "Dan".
+6. Using the same **Rule** object, use the **[RuleConditions.Subject](../../../api/Outlook.RuleConditions.Subject.md)** property to obtain a **[TextRuleCondition](../../../api/Outlook.TextRuleCondition.md)** object, `oExceptSubject`.  `oExceptSubject` specifies the exception condition: if the subject contains the terms "fun" or "chat", then don't apply the rule to move the message to the folder "Dan".
     
 7. Use **[Rules.Save](../../../api/Outlook.Rules.Save.md)** to save the new rule together with the rest of the rules for the current store.
     

@@ -28,7 +28,7 @@ _expression_ An expression that returns a **[Viewer](Visio.Viewer.md)** object.
 
 ## Remarks
 
-Set the **CurrentPageIndex** value to the index of the page in the Visio drawing that you want to display. For example, to display Page-1, set the value to 1. If you do not specify a page index or if you set the value to 0, Visio Viewer displays the same page that was displayed the last time you saved the drawing.
+Set the **CurrentPageIndex** value to the index of the page in the Visio drawing that you want to display. For example, to display Page-1, set the value to 1. If you don't specify a page index or if you set the value to 0, Visio Viewer displays the same page that was displayed the last time you saved the drawing.
 
 If no drawing is loaded in Visio Viewer, the **CurrentPageIndex** value is 0.
 

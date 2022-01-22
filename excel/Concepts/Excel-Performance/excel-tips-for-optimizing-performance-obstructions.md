@@ -18,7 +18,7 @@ Learn how to improve performance related to types of references and links.
 
 ### Do not use forward referencing and backward referencing
 
-To increase clarity and avoid errors, design your formulas so that they do not refer forward (to the right or below) to other formulas or cells. Forward referencing usually does not affect calculation performance, except in extreme cases for the first calculation of a workbook, where it might take longer to establish a sensible calculation sequence if there are many formulas that need to have their calculation deferred.
+To increase clarity and avoid errors, design your formulas so that they don't refer forward (to the right or below) to other formulas or cells. Forward referencing usually does not affect calculation performance, except in extreme cases for the first calculation of a workbook, where it might take longer to establish a sensible calculation sequence if there are many formulas that need to have their calculation deferred.
 
 ### Minimize use of circular references with iteration
 
@@ -78,7 +78,7 @@ This solution has both advantages and disadvantages:
 
 - Many Excel built-in functions (**SUM**, **SUMIF**) calculate whole column references efficiently because they automatically recognize the last used row in the column. However, array calculation functions like **SUMPRODUCT** either cannot handle whole column references or calculate all the cells in the column.
 
-- User-defined functions do not automatically recognize the last-used row in the column and, therefore, frequently calculate whole column references inefficiently. However, it is easy to program user-defined functions so that they recognize the last-used row.
+- User-defined functions don't automatically recognize the last-used row in the column and, therefore, frequently calculate whole column references inefficiently. However, it is easy to program user-defined functions so that they recognize the last-used row.
 
 - It's difficult to use whole column references when you have multiple tables of data on a single worksheet.
 
@@ -437,7 +437,7 @@ Most native Excel functions work well with multi-threaded calculation. However, 
 
 ### Use tables for functions that handle ranges
 
-For functions like **SUM**, **SUMIF**, and **SUMIFS** that handle ranges, the calculation time is proportional to the number of used cells you are summing or counting. Unused cells are not examined, so whole column references are relatively efficient, but it is better to ensure that you do not include more used cells than you need. Use tables, or calculate subset ranges or dynamic ranges.
+For functions like **SUM**, **SUMIF**, and **SUMIFS** that handle ranges, the calculation time is proportional to the number of used cells you are summing or counting. Unused cells are not examined, so whole column references are relatively efficient, but it is better to ensure that you don't include more used cells than you need. Use tables, or calculate subset ranges or dynamic ranges.
 
 ### Reduce volatile functions
 
@@ -476,7 +476,7 @@ Add this subroutine to a standard module.
   End Sub
 ```
 
-User-defined functions in Automation add-ins (Excel 2002 and later versions) do not incur the Visual Basic Editor overhead because they do not use the integrated editor. Other performance characteristics of Visual Basic 6 user-defined functions in Automation add-ins are similar to VBA functions.
+User-defined functions in Automation add-ins (Excel 2002 and later versions) don't incur the Visual Basic Editor overhead because they don't use the integrated editor. Other performance characteristics of Visual Basic 6 user-defined functions in Automation add-ins are similar to VBA functions.
 
 If your user-defined function processes each cell in a range, declare the input as a range, assign it to a variant that contains an array, and loop on that. If you want to handle whole column references efficiently, you must make a subset of the input range, dividing it at its intersection with the used range, as in this example.
 
@@ -576,7 +576,7 @@ The following functionality can usually be turned off while your VBA macro execu
 
 - **Application.ScreenUpdating** Turn off screen updating. If **Application.ScreenUpdating** is set to **False**, Excel does not redraw the screen. While your code runs, the screen updates quickly, and it is usually not necessary for the user to see each update. Updating the screen once, after the code executes, improves performance.   
   
-- **Application.DisplayStatusBar** Turn off the status bar. If **Application.DisplayStatusBar** is set to **False**, Excel does not display the status bar. The status bar setting is separate from the screen updating setting so that you can still display the status of the current operation even while the screen is not updating. However, if you do not need to display the status of every operation, turning off the status bar while your code runs also improves performance.  
+- **Application.DisplayStatusBar** Turn off the status bar. If **Application.DisplayStatusBar** is set to **False**, Excel does not display the status bar. The status bar setting is separate from the screen updating setting so that you can still display the status of the current operation even while the screen is not updating. However, if you don't need to display the status of every operation, turning off the status bar while your code runs also improves performance.  
   
 - **Application.Calculation** Switch to manual calculation. If **Application.Calculation** is set to **xlCalculationManual**, Excel only calculates the workbook when the user explicitly initiates the calculation. In automatic calculation mode, Excel determines when to calculate. For example, every time a cell value that is related to a formula changes, Excel recalculates the formula. If you switch the calculation mode to manual, you can wait until all the cells associated with the formula are updated before recalculating the workbook. By only recalculating the workbook when necessary while your code runs, you can improve performance. 
   
@@ -623,7 +623,7 @@ The following example shows the functionality that you can turn off while your V
 
 Optimize your code by explicitly reducing the number of times data is transferred between Excel and your code. Instead of looping through cells one at a time to get or set a value, get or set the values in the entire range of cells in one line, using a variant containing a two-dimensional array to store values as needed. The following code examples compare these two methods.
 
-The following code example shows non-optimized code that loops through cells one at a time to get and set the values of cells A1:C10000. These cells do not contain formulas.
+The following code example shows non-optimized code that loops through cells one at a time to get and set the values of cells A1:C10000. These cells don't contain formulas.
 
 ```vb
   Dim DataRange as Range
@@ -646,7 +646,7 @@ The following code example shows non-optimized code that loops through cells one
   Next Irow
 ```
 
-The following code example shows optimized code that uses an array to get and set the values of cells A1:C10000 all at the same time. These cells do not contain formulas.  
+The following code example shows optimized code that uses an array to get and set the values of cells A1:C10000 all at the same time. These cells don't contain formulas.  
 
 ```vb
   Dim DataRange As Variant

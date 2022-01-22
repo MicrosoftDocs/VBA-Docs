@@ -33,7 +33,7 @@ An error occurs if the specified file or folder does not exist.
 
 The results of the **Delete** method on a **File** or **Folder** are identical to operations performed by using **FileSystemObject.DeleteFile** or **FileSystemObject.DeleteFolder**.
 
-The **Delete** method does not distinguish between folders that have contents and those that do not. The specified folder is deleted regardless of whether or not it has contents.
+The **Delete** method does not distinguish between folders that have contents and those that don't. The specified folder is deleted regardless of whether or not it has contents.
 
 ## See also
 

@@ -27,7 +27,7 @@ To get the ID of an enterprise text custom field, use the **[FieldNameToFieldCon
 
 
 > [!NOTE] 
-> In Office Project 2007 and later versions, the enterprise constants in **PjCustomField** do not apply. Project Server can have an unlimited number of enterprise text custom fields that use a hierarchical lookup table. For usability and performance reasons, the number of enterprise custom fields should be limited to a few hundred or less.
+> In Office Project 2007 and later versions, the enterprise constants in **PjCustomField** don't apply. Project Server can have an unlimited number of enterprise text custom fields that use a hierarchical lookup table. For usability and performance reasons, the number of enterprise custom fields should be limited to a few hundred or less.
 
 You can access project outline codes and custom fields through the project summary task, which is  `Task(0)`. For a task outline code, the **FieldID** can be one of the following **[PjCustomField](Project.PjCustomField.md)** constants:
 

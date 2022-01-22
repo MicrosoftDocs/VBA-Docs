@@ -40,6 +40,6 @@ The maximum and minimum values for the _Left_, _Top_, _Width_, and _Height_ argu
 
 You can move a control to a specific location relative to the edges of the form that contains the control.
 
-Use named arguments, or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.
+Use named arguments, or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you don't specify. Any unspecified arguments remain unchanged.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

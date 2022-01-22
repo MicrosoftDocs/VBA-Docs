@@ -52,7 +52,7 @@ The value of the  _populateFlags_ parameter must be one of the following **VisLe
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLegendPopulate**|0|Insert the legend and populate it.|
-| **visLegendNoContents**|1|Insert the legend but do not populate it.|
+| **visLegendNoContents**|1|Insert the legend but don't populate it.|
 
 If you pass **visLegendPopulate** for the _populateFlags_ parameter, Visio inserts the legend and populates it with eligible data-graphic items in use on the specified drawing page. If no such items exist, Visio returns the error EU_API_NOOP, "Operation succeeded but no action taken."
 

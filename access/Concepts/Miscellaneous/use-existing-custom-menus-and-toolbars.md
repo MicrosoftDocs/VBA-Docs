@@ -21,7 +21,7 @@ In addition, you can hide the ribbon when you open legacy files (.mdb, .mde, and
 
 In addition, you can turn off the ribbon for a legacy database by setting options for that database in Access 2003, or by setting global program options in . A procedure, later in this topic, explains how to perform both tasks.
 
-When you open a legacy database and you choose to display the ribbon, any custom toolbars appear as groups on the **Add-Ins** tab. Each group in the tab corresponds to a custom toolbar, and each group uses the name assigned to the original toolbar. However, the toolbars must be visible in the legacy database or they do not appear on the tab.
+When you open a legacy database and you choose to display the ribbon, any custom toolbars appear as groups on the **Add-Ins** tab. Each group in the tab corresponds to a custom toolbar, and each group uses the name assigned to the original toolbar. However, the toolbars must be visible in the legacy database or they don't appear on the tab.
 
 > [!TIP] 
 > To bypass custom startup behaviors, press and hold SHIFT while you open the database.

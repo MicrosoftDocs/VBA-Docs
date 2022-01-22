@@ -78,7 +78,7 @@ End Sub
 
 ```
 
-The [StartCustomRecord](../../../api/Word.UndoRecord.StartCustomRecord.md) method begins recording the actions that are included in the custom undo record. You can give the custom undo record a name as an argument to the [StartCustomRecord](../../../api/Word.UndoRecord.StartCustomRecord.md) method, but this is optional. If you do not specify a name, Word uses the Visual Basic name of the first command executed as the name of the record. The name of the custom undo record is the string that appears in the user interface in the dropdown next to the **Undo** button.
+The [StartCustomRecord](../../../api/Word.UndoRecord.StartCustomRecord.md) method begins recording the actions that are included in the custom undo record. You can give the custom undo record a name as an argument to the [StartCustomRecord](../../../api/Word.UndoRecord.StartCustomRecord.md) method, but this is optional. If you don't specify a name, Word uses the Visual Basic name of the first command executed as the name of the record. The name of the custom undo record is the string that appears in the user interface in the dropdown next to the **Undo** button.
 
 The [EndCustomRecord](../../../api/Word.UndoRecord.EndCustomRecord.md) method stops recording the custom undo record. All the actions taken by the code between the [StartCustomRecord](../../../api/Word.UndoRecord.StartCustomRecord.md) call and the [EndCustomRecord](../../../api/Word.UndoRecord.EndCustomRecord.md) call are linked into one [UndoRecord](../../../api/Word.UndoRecord.md) object. When you run code that creates a custom undo record, as in the previous code example, the custom undo record is listed in the undo stack as a single entry.
 

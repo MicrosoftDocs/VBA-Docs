@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-This property returns **Null** if all cells in the specified range do not have the same number format.
+This property returns **Null** if all cells in the specified range don't have the same number format.
 
 
 

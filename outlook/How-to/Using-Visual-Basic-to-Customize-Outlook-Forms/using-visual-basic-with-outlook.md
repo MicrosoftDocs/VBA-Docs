@@ -28,7 +28,7 @@ Because VBScript code is associated with a particular item, code that responds t
 
 Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the **Variant** data type.
 Learn about [constants and variables in VBScript](constants-and-variables-in-vbscript.md).
-In Outlook Visual Basic for Applications and VBScript, you do not need to call **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** or **GetObject** to obtain an **[Application](../../../api/Outlook.Application.md)** object. For example, the following code displays the Tasks folder:
+In Outlook Visual Basic for Applications and VBScript, you don't need to call **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** or **GetObject** to obtain an **[Application](../../../api/Outlook.Application.md)** object. For example, the following code displays the Tasks folder:
 
 
 

@@ -36,7 +36,7 @@ This setting is saved for each individual user and persists from one session to 
 
 ## Example
 
-This example turns off background save, so publications do not save in the background.
+This example turns off background save, so publications don't save in the background.
 
 ```vb
 Sub DoNotSaveInBackground() 

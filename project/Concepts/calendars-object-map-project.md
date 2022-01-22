@@ -26,7 +26,7 @@ For an overview of the **Application** and **Project** objects, and for details 
 ## Calendars Object Hierarchy
 
 
- **Note** Objects in the following image do not link to the documentation pages.
+ **Note** Objects in the following image don't link to the documentation pages.
 
 
 ![VBA object map for Calendar](../../images/c9afe0e4-c832-47d0-9fe8-0fc85a180e6b.jpg)

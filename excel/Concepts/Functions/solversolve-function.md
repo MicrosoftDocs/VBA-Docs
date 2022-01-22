@@ -46,7 +46,7 @@ If a Solver problem has not been completely defined, **SolverSolve** returns the
 |1|Solver has converged to the current solution. All constraints are satisfied.|
 |2|Solver cannot improve the current solution. All constraints are satisfied.|
 |3|Stop chosen when the maximum iteration limit was reached.|
-|4|The Objective Cell values do not converge.|
+|4|The Objective Cell values don't converge.|
 |5|Solver could not find a feasible solution.|
 |6|Solver stopped at user's request.|
 |7|The linearity conditions required by this LP Solver are not satisfied.|

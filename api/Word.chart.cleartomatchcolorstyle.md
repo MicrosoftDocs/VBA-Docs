@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Chart.ClearToMatchColorStyle method (Word)
 
-Clears all colors on the specified chart that do not follow the color style applied to the chart.
+Clears all colors on the specified chart that don't follow the color style applied to the chart.
 
 
 ## Syntax

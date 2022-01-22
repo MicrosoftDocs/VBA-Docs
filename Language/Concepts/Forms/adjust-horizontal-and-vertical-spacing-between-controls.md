@@ -24,7 +24,7 @@ ms.localizationpriority: medium
     
    - **Decrease**, to decrease the space between controls by one grid block.
     
-   - **Remove**, to remove the space between controls. The controls do not overlap, but are immediately adjacent to each other.
+   - **Remove**, to remove the space between controls. The controls don't overlap, but are immediately adjacent to each other.
     
 ## See also
 

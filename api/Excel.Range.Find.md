@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
-| _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface.<br/><br/>Notice that _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell.<br/><br/>If you do not specify this argument, the search starts after the cell in the upper-left corner of the range.|
+| _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface.<br/><br/>Notice that _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell.<br/><br/>If you don't specify this argument, the search starts after the cell in the upper-left corner of the range.|
 | _LookIn_|Optional| **Variant**|Can be one of the following **[XlFindLookIn](excel.xlfindlookin.md)** constants: **xlFormulas**, **xlValues**, **xlComments**, or **xlCommentsThreaded**.|
 | _LookAt_|Optional| **Variant**|Can be one of the following **[XlLookAt](excel.xllookat.md)** constants: **xlWhole** or **xlPart**.|
 | _SearchOrder_|Optional| **Variant**|Can be one of the following **[XlSearchOrder](excel.xlsearchorder.md)** constants: **xlByRows** or **xlByColumns**.|
@@ -48,7 +48,7 @@ A **Range** object that represents the first cell where that information is foun
 
 This method returns **Nothing** if no match is found. The **Find** method does not affect the selection or the active cell.
 
-The settings for _LookIn_,  _LookAt_,  _SearchOrder_, and _MatchByte_ are saved each time you use this method. If you do not specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
+The settings for _LookIn_,  _LookAt_,  _SearchOrder_, and _MatchByte_ are saved each time you use this method. If you don't specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 
 Use the **[FindNext](Excel.Range.FindNext.md)** and **[FindPrevious](Excel.Range.FindPrevious.md)** methods to repeat the search.
 

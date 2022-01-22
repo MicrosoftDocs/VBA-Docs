@@ -41,7 +41,7 @@ If the list that you are trying to add already exists, this method throws a run-
 This example adds an array of strings as a custom list.
 
 ```vb
-On Error Resume Next  ' if the list already exists, do nothing
+On Error Resume Next  ' if the list already exists, don'thing
 Application.AddCustomList Array("cogs", "sprockets", _ 
  "widgets", "gizmos")
 On Error Goto 0       ' resume regular error handling

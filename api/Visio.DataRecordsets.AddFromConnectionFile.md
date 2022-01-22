@@ -63,7 +63,7 @@ The Name argument is an optional string that lets you assign the data recordset 
 
 If the **AddFromConnectionFile** method succeeds, it performs the following actions:
 
-- Creates a **DataRecordset** object and assigns it the name specified in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
+- Creates a **DataRecordset** object and assigns it the name specified in the Name parameter. If you don't specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
     
 - Associates a new or existing **DataConnection** object with the **DataRecordset** object.
     

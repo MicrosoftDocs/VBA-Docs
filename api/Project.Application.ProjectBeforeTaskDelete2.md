@@ -37,7 +37,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-Project events do not occur when the project is embedded in another document or application. 
+Project events don't occur when the project is embedded in another document or application. 
 
 the **ProjectBeforeTaskDelete2** event does not occur when changes have been made using a custom form.
 

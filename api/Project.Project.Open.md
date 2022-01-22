@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-Project events do not occur when the project is embedded in another document or application.
+Project events don't occur when the project is embedded in another document or application.
 
 
 ## Example

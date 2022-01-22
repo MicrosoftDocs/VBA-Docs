@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 The **Change** event does not occur for actions such as switching views, applying filters, changing formatting, and so on.
 
-Project events do not occur when the project is embedded in another document or application. 
+Project events don't occur when the project is embedded in another document or application. 
 
 
 ## Example

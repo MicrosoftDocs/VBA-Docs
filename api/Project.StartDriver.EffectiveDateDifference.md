@@ -32,7 +32,7 @@ _expression_. `EffectiveDateDifference`( `_StartDate_`, `_FinishDate_` )
 
 ## Remarks
 
-The **EffectiveDateDifference** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The StartDate and FinishDate arguments can be arbitrary dates. The property and arguments do not affect the task dates.
+The **EffectiveDateDifference** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The StartDate and FinishDate arguments can be arbitrary dates. The property and arguments don't affect the task dates.
 
 Use the **[EffectiveDateSubtract](Project.StartDriver.EffectiveDateSubtract.md)**, **[EffectiveDateAdd](Project.StartDriver.EffectiveDateAdd.md)**, and **EffectiveDateDifference** properties to calculate start and finish dates for manually scheduled tasks.
 

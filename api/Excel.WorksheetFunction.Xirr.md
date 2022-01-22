@@ -54,7 +54,7 @@ If any number in dates precedes the starting date, **Xirr** returns the #NUM! er
     
 If values and dates contain a different number of values, **Xirr** returns the #NUM! error value.
     
-In most cases, you do not need to provide guess for the **Xirr** calculation. If omitted, guess is assumed to be 0.1 (10 percent).
+In most cases, you don't need to provide guess for the **Xirr** calculation. If omitted, guess is assumed to be 0.1 (10 percent).
     
 **Xirr** is closely related to **Xnpv**, the net present value function. The rate of return calculated by **Xirr** is the interest rate corresponding to XNPV = 0.
     

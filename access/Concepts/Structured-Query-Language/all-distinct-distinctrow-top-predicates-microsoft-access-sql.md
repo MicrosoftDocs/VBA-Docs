@@ -22,7 +22,7 @@ SELECT [ALL | DISTINCT | DISTINCTROW | [TOP  _n_ [PERCENT]]] FROM _table_
 
 A SELECT statement containing these predicates has the following parts.
 
-- **ALL**: Assumed if you do not include one of the predicates. The Microsoft Access database engine selects all of the records that meet the conditions in the SQL statement. 
+- **ALL**: Assumed if you don't include one of the predicates. The Microsoft Access database engine selects all of the records that meet the conditions in the SQL statement. 
 
   The following two examples are equivalent and return all records from the Employees table:
 
@@ -70,7 +70,7 @@ A SELECT statement containing these predicates has the following parts.
     ORDER BY GradePointAverage DESC;
   ```
 
-  If you do not include the ORDER BY clause, the query will return an arbitrary set of 25 records from the Students table that satisfy the WHERE clause. The TOP predicate does not choose between equal values. In the preceding example, if the twenty-fifth and twenty-sixth highest grade point averages are the same, the query will return 26 records. You can also use the PERCENT reserved word to return a certain percentage of records that fall at the top or the bottom of a range specified by an ORDER BY clause. Suppose that, instead of the top 25 students, you want the bottom 10 percent of the class:
+  If you don't include the ORDER BY clause, the query will return an arbitrary set of 25 records from the Students table that satisfy the WHERE clause. The TOP predicate does not choose between equal values. In the preceding example, if the twenty-fifth and twenty-sixth highest grade point averages are the same, the query will return 26 records. You can also use the PERCENT reserved word to return a certain percentage of records that fall at the top or the bottom of a range specified by an ORDER BY clause. Suppose that, instead of the top 25 students, you want the bottom 10 percent of the class:
 
   ```sql
     SELECT TOP 10 PERCENT 

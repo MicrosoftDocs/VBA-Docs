@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-When a new workbook is created, the default value for the **UpdateRemoteReferences** property is **True** and dynamic data exchange (DDE) links and OLE links update automatically. If the value is **False**, DDE links and OLE links do not update automatically or during recalculation.
+When a new workbook is created, the default value for the **UpdateRemoteReferences** property is **True** and dynamic data exchange (DDE) links and OLE links update automatically. If the value is **False**, DDE links and OLE links don't update automatically or during recalculation.
 
 
 ## Example

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [TableField](./Project.TableField.md) 
 
 
 > [!NOTE] 
-> Many of the fields in a table do not have a default title, so the **Title** property is an empty string ("").
+> Many of the fields in a table don't have a default title, so the **Title** property is an empty string ("").
 
 
 ## Example

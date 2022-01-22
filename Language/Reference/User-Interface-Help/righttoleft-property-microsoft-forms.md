@@ -31,7 +31,7 @@ The following table describes the two possible settings for this property.
 
 ## Remarks
 
-Microsoft Forms 2.0 controls that have the ability to exhibit bidirectional characteristics do so when the **RightToLeft** property of the form is set to **True**. When this property is set to **False**, forms and controls do not exhibit bidirectional characteristics. Bidirectional features of the **RightToLeft** property are listed in the following table.
+Microsoft Forms 2.0 controls that have the ability to exhibit bidirectional characteristics do so when the **RightToLeft** property of the form is set to **True**. When this property is set to **False**, forms and controls don't exhibit bidirectional characteristics. Bidirectional features of the **RightToLeft** property are listed in the following table.
 
 
 |Microsoft Forms 2.0 components|RightToLeft = True behavior|

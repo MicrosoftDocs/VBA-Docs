@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Remarks
 
-**Series** objects in hidden rows or columns do not appear in the current series collection unless the user has enabled the **Show data in hidden rows and columns** option in the **Select Data** dialog.
+**Series** objects in hidden rows or columns don't appear in the current series collection unless the user has enabled the **Show data in hidden rows and columns** option in the **Select Data** dialog.
 
 > [!NOTE] 
 > You can also use the series name in quotes:

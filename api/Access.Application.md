@@ -34,7 +34,7 @@ For example, Microsoft Visual Basic is a COM component. You can open an Access d
 Dim appAccess As New Access.Application
 ```
 
-From applications that do not support the **New** keyword, you can create a new instance of the **Application** class by using the **CreateObject** function:
+From applications that don't support the **New** keyword, you can create a new instance of the **Application** class by using the **CreateObject** function:
 
 ```vb
 Dim appAccess As Object 

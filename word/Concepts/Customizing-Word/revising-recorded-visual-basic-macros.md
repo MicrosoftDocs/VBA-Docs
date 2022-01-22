@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Revising Recorded Visual Basic Macros
 
-The macro recorder is a great tool for discovering the Visual Basic methods and properties that you want to use. If you do not know what properties or methods to use, turn on the macro recorder and manually perform the action. The macro recorder translates your actions into Visual Basic code. There are, however, some limitations to recording macros. You cannot record the following:
+The macro recorder is a great tool for discovering the Visual Basic methods and properties that you want to use. If you don't know what properties or methods to use, turn on the macro recorder and manually perform the action. The macro recorder translates your actions into Visual Basic code. There are, however, some limitations to recording macros. You cannot record the following:
 
 
 - Conditional branches
@@ -104,7 +104,7 @@ End Sub
 
 ## Removing unnecessary properties
 
-If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you do not need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the **Paragraph** dialog box (**Format** menu).
+If you record a macro that involves selecting an option in a dialog box, the macro recorder records the settings of all the options in the dialog box, even if you only change one or two options. If you don't need to change all of the options, you can remove the unnecessary properties from the recorded macro. The following recorded macro includes a number of options from the **Paragraph** dialog box (**Format** menu).
 
 
 ```vb

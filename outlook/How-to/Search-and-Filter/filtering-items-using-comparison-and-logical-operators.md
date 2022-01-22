@@ -49,7 +49,7 @@ Use the logical operators **And**, **Not**, **Or** in filter strings in Jet or D
 
 - **Not**
     
-    Performs a logical NOT on the condition. The following code retrieves all contacts whose first name is Jane and who do not work at Microsoft. 
+    Performs a logical NOT on the condition. The following code retrieves all contacts whose first name is Jane and who don't work at Microsoft. 
     
 
 

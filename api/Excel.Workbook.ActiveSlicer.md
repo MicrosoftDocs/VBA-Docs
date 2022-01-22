@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-If you do not specify a **Workbook** object, this property returns the active slicer in the active workbook.
+If you don't specify a **Workbook** object, this property returns the active slicer in the active workbook.
 
 
 

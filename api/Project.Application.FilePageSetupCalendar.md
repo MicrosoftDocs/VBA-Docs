@@ -38,7 +38,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _OnlyWeeksInMonth_|Optional|**Boolean**|**True** if only the weeks that are fully contained in the month are printed. **False** if weeks that have one or more days in the month are printed. The **OnlyWeeksInMonth** argument is ignored unless a value for **MonthsPerPage** is specified.|
 | _MonthPreviews_|Optional|**Boolean**|**True** if preview calendars for the previous and next months are printed.|
 | _MonthTitle_|Optional|**Boolean**|**True** if the month's title is printed.|
-| _AdditionalTasks_|Optional|**Boolean**|**True** if tasks that do not fit on the Calendar are printed. (Additional tasks appear at the end of the printout.)|
+| _AdditionalTasks_|Optional|**Boolean**|**True** if tasks that don't fit on the Calendar are printed. (Additional tasks appear at the end of the printout.)|
 | _GroupAdditionalTasks_|Optional|**Boolean**|**True** if additional tasks are grouped by day.|
 | _PrintNotes_|Optional|**Boolean**|**True** if the notes associated with each task are printed. Notes are printed at the end, after any additional tasks|
 

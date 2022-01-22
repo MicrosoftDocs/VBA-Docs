@@ -43,7 +43,7 @@ The following table describes the tab options.
 |Option|Description|
 |:-----|:----------|
 |**Lock project**|Provides a way to lock your project and prevent someone from changing it.<br/><br/>**Lock project for viewing**: Locks the project so that it cannot be viewed or edited.|
-|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you do not check the **Lock project for viewing** option but set a password, you'll be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
+|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you don't check the **Lock project for viewing** option but set a password, you'll be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
     
 
 ## Make tab
@@ -76,7 +76,7 @@ The following table describes the tab options.
 |Option|Description|
 |:-----|:----------|
 |**When this project starts**|Sets debugging options when your project starts.|
-|**Wait for components to be created**|Tells Visual Basic to do nothing in run mode.|
+|**Wait for components to be created**|Tells Visual Basic to don'thing in run mode.|
 |**Start component**|Lets the component determine what happens. The types of components include special ActiveX Designers like the DHTMLPage Designer and the Webclass Designer, and also User Controls and User Documents. If you select a User Control or User Document, Visual Basic will launch the browser and display a dummy test page that contains the component. The component can tell Visual Basic to either launch the browser with a URL or start another program.<br/><br/>Selecting a startup component on the **Debugging** tab does not affect the Startup Object specified on the **General** tab. For example, an ActiveX.dll project could specify `Startup Object=Sub Main` and `Start Component=DHTMLPage1`.<br/><br/>When the project runs, Visual Basic would register the `DHTMLPage1` component, as well as other components, execute and then launch Internet Explorer, and navigate to a URL that creates an instance of `DHTMLPage1`.|
 |**Start program**|Specifies an executable program to be used.|
 |**Start browser with URL**|Specifies which URL the browser should navigate to.|

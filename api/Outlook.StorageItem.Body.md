@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](Outlook.StorageItem.md) 
 
 ## Remarks
 
- **[StorageItem](Outlook.StorageItem.md)** objects only support the item body in text format. They do not support HTML or RTF body streams.
+ **[StorageItem](Outlook.StorageItem.md)** objects only support the item body in text format. They don't support HTML or RTF body streams.
 
 
 ## See also

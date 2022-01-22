@@ -44,7 +44,7 @@ In Visual Basic, there are two ways to apply properties and methods to a set of 
     
 Many properties and methods that apply to the **Shape** object and **ShapeRange** collection fail if applied to certain kinds of shapes. For example, the **TextFrame** property fails if applied to a shape that cannot contain text. 
 
-If you are not positive that each of the shapes in a **ShapeRange** collection can have a certain property or method applied to it, do not apply the property or method to the **ShapeRange** collection. If you want to apply one of these properties or methods to a collection of shapes, you must loop through the collection and test each individual shape to make sure it is an appropriate type of shape before applying the property or method to it.
+If you are not positive that each of the shapes in a **ShapeRange** collection can have a certain property or method applied to it, don't apply the property or method to the **ShapeRange** collection. If you want to apply one of these properties or methods to a collection of shapes, you must loop through the collection and test each individual shape to make sure it is an appropriate type of shape before applying the property or method to it.
 
 
 ## Creating a ShapeRange collection that contains all shapes on a sheet

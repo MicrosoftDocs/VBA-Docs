@@ -58,7 +58,7 @@ A refresh or requery command (via menu, keyboard, or navigation bar) in Access s
 
 This builder dialog is invoked when a stored procedure is first selected as the record source of a form if the stored procedure has any parameters. After initial creation of the **InputParameters** string, this same dialog is used as a builder for changing the string. In this case, however, the list of parameters comes from what already exists in the string.
 
-Parameter values are also settable in code by using the ActiveX Data Object's (ADO) **Command** and **Parameter** objects. If the result returns a result set, a form can be bound to it by setting the form's **Recordset** property. ADO coding is the only way to handle stored procedures that do not return result sets such as action queries, those that return output parameters, or those that return multiple result sets.
+Parameter values are also settable in code by using the ActiveX Data Object's (ADO) **Command** and **Parameter** objects. If the result returns a result set, a form can be bound to it by setting the form's **Recordset** property. ADO coding is the only way to handle stored procedures that don't return result sets such as action queries, those that return output parameters, or those that return multiple result sets.
 
 
 

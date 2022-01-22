@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-Files that contain data caches that do not validate will be opened in a Protected View window. If you set the **FileValidationPivot** property, that setting will remain in effect for the entire session that the application is open.
+Files that contain data caches that don't validate will be opened in a Protected View window. If you set the **FileValidationPivot** property, that setting will remain in effect for the entire session that the application is open.
 
 
 

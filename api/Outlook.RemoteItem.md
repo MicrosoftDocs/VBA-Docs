@@ -25,11 +25,11 @@ Unlike other Microsoft Outlook objects, you cannot create this object. Remote it
 
 The **RemoteItem** object inherits a number of properties, methods, and events that, because of the nature of the object, have no function. The **Object Browser** shows these properties, methods, and events as belonging to the **RemoteItem** object, but trying to use them will produce no effect.
 
-The methods that do not work for the **RemoteItem** object include **Close**, **Copy**, **Display**, **Move**, and **Save**.
+The methods that don't work for the **RemoteItem** object include **Close**, **Copy**, **Display**, **Move**, and **Save**.
 
-The properties that do not work for the **RemoteItem** object include **BillingInformation**, **Body**, **Categories**, **Companies**, and **Mileage**.
+The properties that don't work for the **RemoteItem** object include **BillingInformation**, **Body**, **Categories**, **Companies**, and **Mileage**.
 
-The events that do not work for the **RemoteItem** object include **Open**, **Close**, **Forward**, **Reply**, **ReplyAll**, and **Send**.
+The events that don't work for the **RemoteItem** object include **Open**, **Close**, **Forward**, **Reply**, **ReplyAll**, and **Send**.
 
 
 ## Events

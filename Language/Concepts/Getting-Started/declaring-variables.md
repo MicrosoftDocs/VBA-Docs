@@ -30,7 +30,7 @@ Public strName As String
 
 For information about naming your variables, see [Visual Basic naming rules](visual-basic-naming-rules.md).
 
-Variables can be declared as one of the following [data types](../../reference/user-interface-help/data-type-summary.md): **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by using the **[Type](../../reference/user-interface-help/type-statement.md)** statement. 
+Variables can be declared as one of the following [data types](../../reference/user-interface-help/data-type-summary.md): **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you don't specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by using the **[Type](../../reference/user-interface-help/type-statement.md)** statement. 
 
 You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. 
 

@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[SortFields](Excel.SortFields.md)** 
 
 This API includes support for sorting off a SubField from data types, such as Geography or Stocks. You can also use the **[Add](Excel.SortFields.Add.md)** method if sorting by a data type is not needed.
 
-Unlike in formulas, SubFields do not require brackets to include spaces.
+Unlike in formulas, SubFields don't require brackets to include spaces.
 
 ## Example
 

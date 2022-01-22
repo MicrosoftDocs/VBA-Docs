@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-Local or Anonymous replicas of the Design Master cannot be made because they do not contain the complete system information of the replica set. Only Global replicas of the Design Master can be made. You want to make a new Design Master only if you are sure the current one is invalid and no longer functioning as a Design Master, or if the Design Master needs to be moved.
+Local or Anonymous replicas of the Design Master cannot be made because they don't contain the complete system information of the replica set. Only Global replicas of the Design Master can be made. You want to make a new Design Master only if you are sure the current one is invalid and no longer functioning as a Design Master, or if the Design Master needs to be moved.
 
 ## See also
 

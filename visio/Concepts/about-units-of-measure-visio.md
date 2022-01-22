@@ -13,7 +13,7 @@ When you insert fields into text or build formulas, you often specify units of m
 
 Visio evaluates the result of a formula differently depending on the cell in which you enter the formula. In general, cells that represent shape position, a dimension, or an angle require a number-unit pair that consists of a number and the qualifying units needed to interpret the number. Many other cells don't require units and evaluate to a string, to TRUE or FALSE, or to an index. For example, the same formula that in the FillForegnd cell means color 5 from the drawing's color palette means TRUE (and locks the shape's width) in the LockWidth cell.
 
-Always specify a unit of measure when you enter a formula in a cell that expects a dimensional value. If you do not specify a unit of measure, Visio uses the default unit for that cell, which can be page units, drawing units, type units, duration units, or angular units.
+Always specify a unit of measure when you enter a formula in a cell that expects a dimensional value. If you don't specify a unit of measure, Visio uses the default unit for that cell, which can be page units, drawing units, type units, duration units, or angular units.
 
 ## Units of measure
 
@@ -162,7 +162,7 @@ The element  _flag_ is one of the following letters (either uppercase or lowerca
 
 Additionally, you can use the implicit units DL, DP, DT, DA, DE for implicit drawing-, page-, text-, angular-, and time-units, respectively. These units assume the associated value is internal units. For example, if the current measurement system is centimeters,  _=2 DL_ would be interpreted as 2 internal units (inches) and displayed as 5.08 cm.
 
-Using the implicit syntax described above, this expression (=2 DL) is equivalent to 2[in,d]. The implicit syntax gives you the choice of how to interpret the value, so you could also specify 2[ft,d], which would be interpreted as 2 feet, and displayed as 60.96 cm. The implicit units DL, DP, DT, DA, and DE are universal, and do not have localized counterparts.
+Using the implicit syntax described above, this expression (=2 DL) is equivalent to 2[in,d]. The implicit syntax gives you the choice of how to interpret the value, so you could also specify 2[ft,d], which would be interpreted as 2 feet, and displayed as 60.96 cm. The implicit units DL, DP, DT, DA, and DE are universal, and don't have localized counterparts.
 
 
 ## Default units of measure

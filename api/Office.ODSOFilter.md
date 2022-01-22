@@ -24,7 +24,7 @@ Each filter is a line in a query string. Use the **Column**, **CompareTo**, **Co
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a **Region** field equal to "WA".
+The following example changes an existing filter to remove from the mail merge all records that don't have a **Region** field equal to "WA".
 
 
 ```vb

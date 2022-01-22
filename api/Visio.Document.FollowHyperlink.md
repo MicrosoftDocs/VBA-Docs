@@ -44,7 +44,7 @@ Nothing
 
 ## Remarks
 
-If you don't need to pass any information for one or more optional arguments, from Microsoft Visual Basic or Visual Basic for Applications, do not pass a value. From C or C++, pass an empty variant.
+If you don't need to pass any information for one or more optional arguments, from Microsoft Visual Basic or Visual Basic for Applications, don't pass a value. From C or C++, pass an empty variant.
 
 Visio 4.5 provided an undocumented **Hyperlink** method for a **Document** object that had the following signature:
 

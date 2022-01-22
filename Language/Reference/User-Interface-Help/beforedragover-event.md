@@ -117,7 +117,7 @@ When  _Effect_ is set to **fmDropEffectMove**, the drop source supports a move o
 
 When  _Effect_ is set to **fmDropEffectNone**, the drop source supports a cancel operation.
 
-Most controls do not support drag-and-drop while  _Cancel_ is **False**, which is the default setting. This means that the control rejects attempts to drag or drop anything on the control, and the control does not initiate the BeforeDropOrPaste event. The **[TextBox](textbox-control.md)** and **[ComboBox](combobox-control.md)** controls are exceptions to this; these controls support drag-and-drop operations even when _Cancel_ is **False**.
+Most controls don't support drag-and-drop while  _Cancel_ is **False**, which is the default setting. This means that the control rejects attempts to drag or drop anything on the control, and the control does not initiate the BeforeDropOrPaste event. The **[TextBox](textbox-control.md)** and **[ComboBox](combobox-control.md)** controls are exceptions to this; these controls support drag-and-drop operations even when _Cancel_ is **False**.
 
 ## See also
 

@@ -67,7 +67,7 @@ If _Type_ is 8, **InputBox** returns a **Range** object. You must use the **Set*
 Set myRange = Application.InputBox(prompt := "Sample", type := 8)
 ```
 
-If you do not use the **Set** statement, the variable is set to the value in the range, rather than the **Range** object itself.
+If you don't use the **Set** statement, the variable is set to the value in the range, rather than the **Range** object itself.
 
 If you use the **InputBox** method to ask the user for a formula, you must use the **[FormulaLocal](Excel.Range.FormulaLocal.md)** property to assign the formula to a **Range** object. The input formula will be in the user's language.
 

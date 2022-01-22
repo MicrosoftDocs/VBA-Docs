@@ -87,7 +87,7 @@ The following code example simply processes the two values passed to it.
 Sub VerifyCreditAvail(curTotalPrice As Currency, curAvailCredit As Currency)
     ' Inform the user if there is not enough credit available for the purchase.
     If curTotalPrice > curAvailCredit Then
-        MsgBox "You do not have enough credit available for this purchase."
+        MsgBox "You don't have enough credit available for this purchase."
     End If
 End Sub
 ```

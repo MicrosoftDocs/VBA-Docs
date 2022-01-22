@@ -24,7 +24,7 @@ This procedure sets properties on a [Page](../../../api/Outlook.page.md) or [Tab
 5. In the **Accelerator Key** box, type a single character from the caption of the control. Note that the selected character is underlined in the control caption.
     
 
- **Tip** To assign a control tip for a **MultiPage** or **TabStrip**, use the **ControlTipText** property. If you assign a control tip to a **MultiPage** or a **TabStrip**, control tips for the individual page or tab objects within the **MultiPage** do not appear.
+ **Tip** To assign a control tip for a **MultiPage** or **TabStrip**, use the **ControlTipText** property. If you assign a control tip to a **MultiPage** or a **TabStrip**, control tips for the individual page or tab objects within the **MultiPage** don't appear.
 
  For more information about the **ControlTipText** property to set for a specific control, see:
 

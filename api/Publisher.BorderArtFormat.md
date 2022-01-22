@@ -27,7 +27,7 @@ Use the **Set** method to specify which type of BorderArt you want applied to a 
 You can also use the **Name** property to specify which type of BorderArt you want applied to a picture. 
 
 > [!NOTE] 
-> Because **Name** is the default property of both the **[BorderArt](Publisher.BorderArt.md)** and **BorderArtFormat** objects, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)` is equivalent to `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`.
+> Because **Name** is the default property of both the **[BorderArt](Publisher.BorderArt.md)** and **BorderArtFormat** objects, you don't need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)` is equivalent to `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`.
  
 Use the **Delete** method to remove BorderArt from a picture. 
  

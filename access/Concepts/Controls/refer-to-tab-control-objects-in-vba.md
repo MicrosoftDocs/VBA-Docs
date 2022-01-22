@@ -18,7 +18,7 @@ Form1.Controls!TabControl1
 
 ```
 
-However, because the **Controls** collection is the default collection of the **[Form](../../../api/Access.Form.md)** object, you do not have to explicitly refer to the **Controls** collection. That is, you can omit the reference to the **Controls** collection from the expression, like this:
+However, because the **Controls** collection is the default collection of the **[Form](../../../api/Access.Form.md)** object, you don't have to explicitly refer to the **Controls** collection. That is, you can omit the reference to the **Controls** collection from the expression, like this:
 
 ```vb
 Form1!TabControl1 
@@ -67,7 +67,7 @@ TabControl1.Value
 ```
 
 > [!NOTE] 
-> Because the **Value** property is the default property for a tab control, you do not have to refer to it explicitly. For this reason, you could omit `.Value` from the preceding example.
+> Because the **Value** property is the default property for a tab control, you don't have to refer to it explicitly. For this reason, you could omit `.Value` from the preceding example.
 
 Setting a tab control's **Value** property at run time changes the focus to the specified page, making it the current page. For example, the following statement moves the focus to the third page of TabControl1:
 

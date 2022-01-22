@@ -33,13 +33,13 @@ The database is read-only for one of the following reasons:
     
 - The database file has been defined as read-only in your network operating system.
     
-- In a network environment, you do not have write privileges for the database file.
+- In a network environment, you don't have write privileges for the database file.
     
 
 Close the database, resolve the read-only condition, and then reopen it for read/write access.
 
 
-- You do not have permission to make changes to the query. To change your permission assignments, see your system administrator or the query's creator.
+- You don't have permission to make changes to the query. To change your permission assignments, see your system administrator or the query's creator.
     
 
 ## See also

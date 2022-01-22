@@ -77,7 +77,7 @@ Err.Number = vbObjectError + 1052
 ```
 
 > [!NOTE] 
-> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **[LastDLLError](lastdllerror-property.md)** property. **LastDLLError** always returns zero on the Macintosh.
+> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources don't raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **[LastDLLError](lastdllerror-property.md)** property. **LastDLLError** always returns zero on the Macintosh.
 
 
 ## Example

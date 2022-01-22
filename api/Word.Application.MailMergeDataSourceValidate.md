@@ -35,7 +35,7 @@ _expression_ A variable that represents an '[Application](Word.Application.md)' 
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, the **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
+If you don't have address verification software installed on your computer, the **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
 
 
 > [!NOTE] 

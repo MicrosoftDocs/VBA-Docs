@@ -58,7 +58,7 @@ criteria = "@SQL=" & Chr(34) _
 & " = 'Book'"
 ```
 
-returns any item that has **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that do not have **Book** as a category.
+returns any item that has **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that don't have **Book** as a category.
 
 If the multi-valued property is added to the **[Table](../../../api/Outlook.Table.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
 

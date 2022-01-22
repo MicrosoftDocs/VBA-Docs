@@ -41,6 +41,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 > [!NOTE] 
 > The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of a custom Project Guide for new development.
 
-Project events do not occur when the project is embedded in another document or application.
+Project events don't occur when the project is embedded in another document or application.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

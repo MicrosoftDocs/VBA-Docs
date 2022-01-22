@@ -67,7 +67,7 @@ Public strMsg As String
 
 ```
 
-All procedures are public by default, except for event procedures. When Visual Basic creates an event procedure, the **Private** [keyword](../../Glossary/vbe-glossary.md#keyword) is automatically inserted before the procedure declaration. For all other procedures, you must explicitly declare the procedure with the **Private** keyword if you do not want it to be public.
+All procedures are public by default, except for event procedures. When Visual Basic creates an event procedure, the **Private** [keyword](../../Glossary/vbe-glossary.md#keyword) is automatically inserted before the procedure declaration. For all other procedures, you must explicitly declare the procedure with the **Private** keyword if you don't want it to be public.
 
 Use public procedures, variables, and constants defined in standard modules or class modules from referencing projects. However, you must first set a reference to the project in which they are defined.
 

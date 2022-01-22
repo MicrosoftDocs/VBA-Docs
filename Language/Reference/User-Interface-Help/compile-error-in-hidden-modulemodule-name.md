@@ -26,7 +26,7 @@ Possible solutions:
 
 - If you have access to the VBA code in the document or project, unprotect the module, and then run the code again to view the specific error.
     
-- If you do not have access to the VBA code in the document, then contact the document author to have the code in the hidden module updated.
+- If you don't have access to the VBA code in the document, then contact the document author to have the code in the hidden module updated.
 
 [!include[Add-ins note](~/includes/addinsnote.md)]
 

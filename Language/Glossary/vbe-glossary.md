@@ -669,7 +669,7 @@ Variables declared using the **Public** statement are visible to all procedures 
 
 ## referenced project
 
-The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they do not result in a complete cycle.
+The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they don't result in a complete cycle.
 
 
 ## referencing project

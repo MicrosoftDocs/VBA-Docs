@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-If you do not first use the **PickUp** method to copy the formatting from another shape, an error occurs.
+If you don't first use the **PickUp** method to copy the formatting from another shape, an error occurs.
 
 
 ## Example

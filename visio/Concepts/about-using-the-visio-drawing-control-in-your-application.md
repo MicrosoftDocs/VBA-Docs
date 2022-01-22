@@ -34,7 +34,7 @@ By default, the control opens a blank Visio document (drawing). However, you can
 
 When you set the **SRC** property to load a file into the Visio Drawing Control, the control opens a copy of the file, but does not keep the original file open for writing. As a result, you cannot use the **Document.Save** method to save changes to a file loaded into the Visio Drawing Control. To save changes in a file, first use the **SRC** property to load the file into the Visio Drawing Control, and then set **SRC** to an empty string (""). To save the modified file to disk, use the **Document.SaveAs** method.
 
-If you do not set the **SRC** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
+If you don't set the **SRC** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
 
 By default, the control does not display the Visio startup screen or the **Available Templates** tab on startup. Furthermore, by default the control does not display a docked stencil pane on startup, but if you use the **Src** property to specify a drawing that already displays a docked stencil pane, that pane will be visible in the Visio Drawing Control window. To display the stencil pane in a blank drawing, use the **Document.OpenStencilWindow** method from the Visio object model.
 

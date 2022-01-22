@@ -33,7 +33,7 @@ When you switch between two windows showing the same project, the **Activate** e
 
 This event doesn't occur when you create a new window. 
 
-Project events do not occur when the project is embedded in another document or application. 
+Project events don't occur when the project is embedded in another document or application. 
 
 
 ## Example

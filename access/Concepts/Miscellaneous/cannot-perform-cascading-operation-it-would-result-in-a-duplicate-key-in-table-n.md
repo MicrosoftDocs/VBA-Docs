@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-The cascade operation you are attempting would result in a duplicate key in the indicated table, which is set up to not allow duplicate primary keys. Check the values you are attempting to update and fix them so they do not result in duplicate keys.
+The cascade operation you are attempting would result in a duplicate key in the indicated table, which is set up to not allow duplicate primary keys. Check the values you are attempting to update and fix them so they don't result in duplicate keys.
 
 ## See also
 

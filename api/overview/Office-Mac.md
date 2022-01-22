@@ -18,7 +18,7 @@ If you are authoring Macros for Office for Mac, you can use most of the same obj
 - [Word VBA reference](https://msdn.microsoft.com/library/ee861527.aspx)
 
 > [!NOTE] 
-> Outlook for Mac and OneNote for Mac do not support VBA. 
+> Outlook for Mac and OneNote for Mac don't support VBA. 
 
 ## Office 2016 for Mac is sandboxed
 

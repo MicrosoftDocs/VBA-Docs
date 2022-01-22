@@ -93,7 +93,7 @@ Sub HighlightMatches()
              Next iSheet
           End If
           
-          'If you do not find a matching value, do not bold the value in the original list;
+          'If you don't find a matching value, don't bold the value in the original list;
           'if you do find a value, bold it.
           If bln = False Then
              Cells(iRow, 1).Font.Bold = False

@@ -26,7 +26,7 @@ The **DoEvents** function returns an [Integer](../../Glossary/vbe-glossary.md#in
 
 **DoEvents** is most useful for simple things like allowing a user to cancel a process after it has started, for example a search for a file. For long-running processes, yielding the processor is better accomplished by using a Timer or delegating the task to an ActiveX EXE component. In the latter case, the task can continue completely independent of your application, and the operating system takes care of multitasking and time slicing.
 
-Any time you temporarily yield the processor within an event procedure, make sure the [procedure](../../Glossary/vbe-glossary.md#procedure) is not executed again from a different part of your code before the first call returns; this could cause unpredictable results. In addition, do not use **DoEvents** if other applications could possibly interact with your procedure in unforeseen ways during the time you have yielded control.
+Any time you temporarily yield the processor within an event procedure, make sure the [procedure](../../Glossary/vbe-glossary.md#procedure) is not executed again from a different part of your code before the first call returns; this could cause unpredictable results. In addition, don't use **DoEvents** if other applications could possibly interact with your procedure in unforeseen ways during the time you have yielded control.
 
 ## Example
 

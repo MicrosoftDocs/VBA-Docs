@@ -64,7 +64,7 @@ Excel has distinct calculation phases:
 
 1. Build the initial calculation chain and determine where to begin calculating. This phase occurs when the workbook is loaded into memory.
 
-2. Track dependencies, flag cells as uncalculated, and update the calculation chain. This phase executes at each cell entry or change, even in manual calculation mode. Ordinarily this executes so fast that you do not notice it, but in complex cases, response can be slow.
+2. Track dependencies, flag cells as uncalculated, and update the calculation chain. This phase executes at each cell entry or change, even in manual calculation mode. Ordinarily this executes so fast that you don't notice it, but in complex cases, response can be slow.
 
 3. Calculate all formulas. As a part of the calculation process, Excel reorders and restructures the calculation chain to optimize future recalculations.
 
@@ -185,7 +185,7 @@ When you start Excel, or when it is running without any workbooks open, the init
 
 ### Automatic calculation
 
-Automatic calculation mode means that Excel automatically recalculates all open workbooks at every change and when you open a workbook. Usually when you open a workbook in automatic mode and Excel recalculates, you do not see the recalculation because nothing has changed since the workbook was saved.
+Automatic calculation mode means that Excel automatically recalculates all open workbooks at every change and when you open a workbook. Usually when you open a workbook in automatic mode and Excel recalculates, you don't see the recalculation because nothing has changed since the workbook was saved.
 
 You might notice this calculation when you open a workbook in a later version of Excel than you used the last time that the workbook was calculated (for example, Excel 2016 versus Excel 2013). Because the Excel calculation engines are different, Excel performs a full calculation when it opens a workbook that was saved using an earlier version of Excel.
 
@@ -237,7 +237,7 @@ A rough guideline for efficient calculation is to have enough RAM to hold the la
 
 ### Measuring calculation time
 
-To make workbooks calculate faster, you must be able to accurately measure calculation time. You need a timer that is faster and more accurate than the VBA **Time** function. The **MICROTIMER()** function shown in the following code example uses Windows API calls to the system high-resolution timer. It can measure time intervals down to small numbers of microseconds. Be aware that because Windows is a multitasking operating system, and because the second time that you calculate something, it may be faster than the first time, the times that you get usually do not repeat exactly. To achieve the best accuracy, measure time calculation tasks several times and average the results.
+To make workbooks calculate faster, you must be able to accurately measure calculation time. You need a timer that is faster and more accurate than the VBA **Time** function. The **MICROTIMER()** function shown in the following code example uses Windows API calls to the system high-resolution timer. It can measure time intervals down to small numbers of microseconds. Be aware that because Windows is a multitasking operating system, and because the second time that you calculate something, it may be faster than the first time, the times that you get usually don't repeat exactly. To achieve the best accuracy, measure time calculation tasks several times and average the results.
 
 For more information about how the Visual Basic Editor can significantly affect VBA user-defined function performance, see the "Faster VBA user-defined functions" section in [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md).
 
@@ -404,7 +404,7 @@ To run the subroutines in Excel, press Alt+F8. Select the subroutine you want, a
  
 ## Finding and prioritizing calculation obstructions
 
-Most slow-calculating workbooks have only a few problem areas or obstructions that consume most of the calculation time. If you do not already know where they are, use the drill-down approach outlined in this section to find them. If you do know where they are, you must measure the calculation time that is used by each obstruction so that you can prioritize your work to remove them.
+Most slow-calculating workbooks have only a few problem areas or obstructions that consume most of the calculation time. If you don't already know where they are, use the drill-down approach outlined in this section to find them. If you do know where they are, you must measure the calculation time that is used by each obstruction so that you can prioritize your work to remove them.
 
 ### Drill-down approach to finding obstructions
 

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Predefined Bookmarks
 
-Word sets and automatically updates a number of reserved bookmarks. Use these predefined bookmarks just as you use bookmarks that you place in documents, except that you do not have to set them and they are not listed on the **Go To** tab in the **Find and Replace** dialog box.
+Word sets and automatically updates a number of reserved bookmarks. Use these predefined bookmarks just as you use bookmarks that you place in documents, except that you don't have to set them and they are not listed on the **Go To** tab in the **Find and Replace** dialog box.
 
 Use predefined bookmarks with the **[Bookmarks](../../../api/Word.Bookmarks.DefaultSorting.md)** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
 

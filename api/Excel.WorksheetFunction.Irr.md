@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.Irr method (Excel)
 
-Returns the internal rate of return for a series of cash flows represented by the numbers in values. These cash flows do not have to be even, as they would be for an annuity. However, the cash flows must occur at regular intervals, such as monthly or annually. The internal rate of return is the interest rate received for an investment consisting of payments (negative values) and income (positive values) that occur at regular periods.
+Returns the internal rate of return for a series of cash flows represented by the numbers in values. These cash flows don't have to be even, as they would be for an annuity. However, the cash flows must occur at regular intervals, such as monthly or annually. The internal rate of return is the interest rate received for an investment consisting of payments (negative values) and income (positive values) that occur at regular periods.
 
 
 ## Syntax
@@ -46,7 +46,7 @@ If an array or reference argument contains text, logical values, or empty cells,
     
 Microsoft Excel uses an iterative technique for calculating **Irr**. Starting with guess, **Irr** cycles through the calculation until the result is accurate within 0.00001 percent. If **Irr** can't find a result that works after 20 tries, the #NUM! error value is returned.
     
-In most cases, you do not need to provide guess for the **Irr** calculation. If guess is omitted, it is assumed to be 0.1 (10 percent).
+In most cases, you don't need to provide guess for the **Irr** calculation. If guess is omitted, it is assumed to be 0.1 (10 percent).
     
 If **Irr** gives the #NUM! error value, or if the result is not close to what you expected, try again with a different value for guess.
     

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Remarks
 
-The transport provider assigns a permanent, unique string **ID** property when an individual member object is created. These identifiers do not change from one session to another.
+The transport provider assigns a permanent, unique string **ID** property when an individual member object is created. These identifiers don't change from one session to another.
 
 
 ## See also

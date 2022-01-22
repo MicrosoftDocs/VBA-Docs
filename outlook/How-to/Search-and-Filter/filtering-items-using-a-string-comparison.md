@@ -123,7 +123,7 @@ criteria = "@SQL=" & Chr(34) _
 
 ## Prefix, Phrase, and Substring Matching
 
-DASL supports the matching of prefixes, phrases, and substrings in a string property using content indexer keywords **ci_startswith** and **ci_phrasematch**, and the keyword **like**. If a store is indexed, searching with content indexer keywords is more efficient than with **like**. If your search scenarios include substring matching (which content indexer keywords do not support), use the **like** keyword in a DASL query.
+DASL supports the matching of prefixes, phrases, and substrings in a string property using content indexer keywords **ci_startswith** and **ci_phrasematch**, and the keyword **like**. If a store is indexed, searching with content indexer keywords is more efficient than with **like**. If your search scenarios include substring matching (which content indexer keywords don't support), use the **like** keyword in a DASL query.
 
 A DASL query can contain **ci_startswith** or **ci_phrasematch**, and **like**, but all string comparisons will be carried out as substring matching.
 

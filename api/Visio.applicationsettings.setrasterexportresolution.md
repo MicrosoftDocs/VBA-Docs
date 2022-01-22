@@ -50,7 +50,7 @@ The _resolution_ parameter must be one of the following **VisRasterExportResolut
 
 If _resolution_ is a constant other than **visRasterUseCustomResolution**, **SetRasterExportResolution** ignores all other parameters.
 
-If _resolution_ is **visRasterUseCustomResolution**, **SetRasterExportResolution** accepts values for all parameters if they meet the noted constraints. If they do not meet these constraints, **SetRasterExportResolution** returns an Invalid Parameter error.
+If _resolution_ is **visRasterUseCustomResolution**, **SetRasterExportResolution** accepts values for all parameters if they meet the noted constraints. If they don't meet these constraints, **SetRasterExportResolution** returns an Invalid Parameter error.
 
 The _resolutionUnits_ parameter must be one of the following **VisRasterExportResolutionUnits** constants.
 

@@ -24,7 +24,7 @@ In the Forms Designer, do the following:
 
 1. Click the page that you want to customize. 
     
-2. From the **Field Chooser**, drag a field to the page. Outlook automatically sizes the field for you. If you do not see the **Field Chooser** box, on the **Developer** tab, in the **Tools** group, click **Field Chooser**.If the field that you want does not appear in the **Field Chooser**, click a different field set from the list in the box at the top of the **Field Chooser**. 
+2. From the **Field Chooser**, drag a field to the page. Outlook automatically sizes the field for you. If you don't see the **Field Chooser** box, on the **Developer** tab, in the **Tools** group, click **Field Chooser**.If the field that you want does not appear in the **Field Chooser**, click a different field set from the list in the box at the top of the **Field Chooser**. 
     
 3. To align, size, or remove fields, right-click the field, and then select the options that you want from the shortcut menu. 
     

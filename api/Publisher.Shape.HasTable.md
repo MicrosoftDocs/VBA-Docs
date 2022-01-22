@@ -31,7 +31,7 @@ The **HasTable** property value can be one of the **[MsoTriState](office.msotris
 
 |Constant|Description|
 |:-----|:-----|
-| **msoFalse**| The shapes in the range do not represent a **Table** object.|
+| **msoFalse**| The shapes in the range don't represent a **Table** object.|
 | **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The shapes in the range represent a **Table** object.|
 

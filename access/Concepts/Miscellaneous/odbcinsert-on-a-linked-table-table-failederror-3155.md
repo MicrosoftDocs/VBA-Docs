@@ -23,7 +23,7 @@ Possible causes:
 
 - The insertion would have caused a rule violation.
     
-- The ODBC database is read-only, or you do not have permission to insert data in that database. Resolve the read-only condition, or see your system administrator or the person who created the database to obtain the necessary permissions.
+- The ODBC database is read-only, or you don't have permission to insert data in that database. Resolve the read-only condition, or see your system administrator or the person who created the database to obtain the necessary permissions.
     
 - The ODBC database is on a network drive, and you are not connected to the network. Make sure the network is available, and then try the operation again.
     

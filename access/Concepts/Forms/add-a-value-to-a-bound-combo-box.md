@@ -21,8 +21,8 @@ The **NotInList** event procedure also has a _Response_ argument, in which you t
 |Constant|Description|
 |:-----|:-----|
 |**acDataErrAdded**|If your event procedure enters the new value in the record source for the list or provides a way for the user to do so, set the  _Response_ argument to **acDataErrAdded**. Access then requeries the combo box for you, adding the new value to the list.|
-|**acDataErrDisplay**|If you do not add the new value and want Access to display the default error message, set the  _Response_ argument to **acDataErrDisplay**. Access requires the user to enter a valid value from the list.|
-|**acDataErrContinue**|If you display your own message in the event procedure, set the  _Response_ argument to **acDataErrContinue**. Access does not display its default error message, but still requires the user to enter a value in the field. If you do not want the user to select an existing value from the list, you can undo changes to the field by using the **Undo** method.|
+|**acDataErrDisplay**|If you don't add the new value and want Access to display the default error message, set the  _Response_ argument to **acDataErrDisplay**. Access requires the user to enter a valid value from the list.|
+|**acDataErrContinue**|If you display your own message in the event procedure, set the  _Response_ argument to **acDataErrContinue**. Access does not display its default error message, but still requires the user to enter a value in the field. If you don't want the user to select an existing value from the list, you can undo changes to the field by using the **Undo** method.|
 
 For example, the following event procedure asks the user whether to add a value to a list, adds the value, and then uses the  _Response_ argument to tell Access to requery the list:
 

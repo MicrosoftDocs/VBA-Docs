@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-The cascade operation you are attempting would result in a zero-length string in the indicated field, which is set up to not allow zero-length strings. Check the values you are attempting to update and fix them so they do not result in zero-length strings in this field.
+The cascade operation you are attempting would result in a zero-length string in the indicated field, which is set up to not allow zero-length strings. Check the values you are attempting to update and fix them so they don't result in zero-length strings in this field.
 
 ## See also
 

@@ -10,7 +10,7 @@ Find the idMSOs that are supported in Word in Office 2016 for Mac.
 
 ***Applies to:*** *Word for Mac | Office 2016 for Mac*
 
-Office 2016 for Mac apps do not support some of the idMSOs that Office for Windows supports. The following idMSOs are supported by Word for Mac.
+Office 2016 for Mac apps don't support some of the idMSOs that Office for Windows supports. The following idMSOs are supported by Word for Mac.
 
 
 |**idMSO**|**Type**|

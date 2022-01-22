@@ -176,7 +176,7 @@ The following procedure explains how to map a content control to a sample custom
 You can create a Web-based application that enables users to select a company name and generate a custom letter. The Web-based application retrieves customer data from a SQL Server database, opens the customer letter template document, and creates a new document that displays customer data based on a user selection. This Web-based application does not require the use of Word or VBA. Use your favorite managed code (Visual Basic .NET or C#) language to build this application.
 
 > [!NOTE] 
-> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site: [Northwind database](https://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
+> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you don't have the Northwind database on your computer, you can download it from the following site: [Northwind database](https://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
 
 ### To create a server-side application that pulls data from a SQL Server database and generates a new document
 

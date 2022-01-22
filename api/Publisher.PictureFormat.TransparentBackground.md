@@ -35,7 +35,7 @@ The **TransparentBackground** property value can be one of the **[MsoTriState](o
 
 |Constant|Description|
 |:-----|:-----|
-| **msoFalse**| Parts of the picture whose color is the transparency color do not appear transparent.|
+| **msoFalse**| Parts of the picture whose color is the transparency color don't appear transparent.|
 | **msoTriStateMixed**|Return value only, indicating a combination of **msoTrue** and **msoFalse** for the specified objects.|
 | **msoTriStateToggle**|A set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| Parts of the picture whose color is the transparency color appear transparent.|

@@ -93,7 +93,7 @@ End Sub
 
 Use subsequent calls to the **GetRows** method if more records are available. Because the array is filled as soon as you call the **GetRows** method, you can see why this approach is much faster than copying one field at a time.
 
-Notice also that you do not have to declare the Variant as an array, because this is done automatically when the **GetRows** method returns records. This enables you to use fixed-length array dimensions without knowing how many records or fields will be returned, instead of using variable-length dimensions that take up more memory.
+Notice also that you don't have to declare the Variant as an array, because this is done automatically when the **GetRows** method returns records. This enables you to use fixed-length array dimensions without knowing how many records or fields will be returned, instead of using variable-length dimensions that take up more memory.
 
 If you are trying to retrieve all the rows by using multiple **GetRows** calls, use the **[EOF](../../../api/overview/Access.md)** property to be sure that you are at the end of the **Recordset**. The **GetRows** method may return fewer rows than you request. If you request more than the remaining number of rows in a **Recordset**, for example, the **GetRows** method returns only the rows that remain. Similarly, if it cannot retrieve a row in the range requested, it does not return that row. 
 

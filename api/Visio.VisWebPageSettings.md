@@ -44,7 +44,7 @@ Public Sub VisWebPageSettingsObject_Example()
  .QuietMode = True 
  End With 
  
- ' If you do not call the AttachToVisioDoc method to 
+ ' If you don't call the AttachToVisioDoc method to 
  ' identify a specific document, Visio saves the 
  ' active document by default. 
  vsoSaveAsWeb.CreatePages 

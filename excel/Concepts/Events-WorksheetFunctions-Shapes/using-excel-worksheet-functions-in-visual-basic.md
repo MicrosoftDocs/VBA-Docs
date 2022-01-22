@@ -45,7 +45,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> Visual Basic functions do not use the **WorksheetFunction** qualifier. A function may have the same name as a Microsoft Excel function and yet work differently. For example, `Application.WorksheetFunction.Log` and `Log` will return different values.
+> Visual Basic functions don't use the **WorksheetFunction** qualifier. A function may have the same name as a Microsoft Excel function and yet work differently. For example, `Application.WorksheetFunction.Log` and `Log` will return different values.
 
 
 ## Inserting a worksheet function into a cell

@@ -41,7 +41,7 @@ Use the **Logon** method only to log on to a specific profile when Outlook is no
 
 If Outlook is already running, using this method does not create a new Outlook session or change the current profile to a different one. 
 
-If Outlook is not running and you only want to start Outlook with the default profile, do not use the **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](Outlook.Application.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
+If Outlook is not running and you only want to start Outlook with the default profile, don't use the **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](Outlook.Application.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
 
 
 
@@ -67,7 +67,7 @@ Sub InitializeMAPI ()
 End Sub
 ```
 
-Starting in Outlook 2010, if you have multiple profiles, you have configured Outlook to always use a default profile, and you use the **Logon** method to log on to the default profile without prompting the user, the user will receive a prompt to choose a profile anyway. To avoid this behavior, do not use the **Logon** method; use the workaround suggested in the preceding `InitializeMAPI` example instead.
+Starting in Outlook 2010, if you have multiple profiles, you have configured Outlook to always use a default profile, and you use the **Logon** method to log on to the default profile without prompting the user, the user will receive a prompt to choose a profile anyway. To avoid this behavior, don't use the **Logon** method; use the workaround suggested in the preceding `InitializeMAPI` example instead.
 
 
 ## Example

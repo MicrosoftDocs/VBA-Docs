@@ -26,7 +26,7 @@ Use the **[Item](Publisher.BorderArts.Item.md)** property of the **BorderArts** 
 Use the **[Name](Publisher.BorderArt.Name.md)** property to specify which type of BorderArt you want applied to a picture.
 
 > [!NOTE] 
-> Because **Name** is the default property of both the **BorderArt** object and the **BorderArtFormat** object, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)` is equivalent to `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`.
+> Because **Name** is the default property of both the **BorderArt** object and the **BorderArtFormat** object, you don't need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)` is equivalent to `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`.
 
 ## Example
 

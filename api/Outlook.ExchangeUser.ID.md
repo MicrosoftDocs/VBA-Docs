@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.m
 
 ## Remarks
 
- The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **ID** property from the **AddressEntry** object. The transport provider assigns a permanent, unique string ID when an **AddressEntry** object is created. These identifiers do not change from one session to another.
+ The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **ID** property from the **AddressEntry** object. The transport provider assigns a permanent, unique string ID when an **AddressEntry** object is created. These identifiers don't change from one session to another.
 
 
 ## See also

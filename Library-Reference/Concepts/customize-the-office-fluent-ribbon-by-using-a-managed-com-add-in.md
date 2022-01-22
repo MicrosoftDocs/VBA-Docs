@@ -80,13 +80,13 @@ In this step you add references to the Word Primary Interop Assemblies and type 
 1. In the Solution Explorer, right-click **References**, and then choose **Add Reference**.
     
    > [!NOTE] 
-   > If you do not see the **References** folder, choose the **Project** menu, and then choose **Show All Files**.
+   > If you don't see the **References** folder, choose the **Project** menu, and then choose **Show All Files**.
 
 2. Scroll down on the **.NET** tab, press the **CTRL** key, and then select **Microsoft.Office.Interop.Word**.
     
 3. On the **COM** tab, scroll down, select either the **Microsoft Office 15.0 Object Library** (or the library that is appropriate for your version of Office), and then choose **OK**.
     
-4. Add the following namespace references to the project, if they do not already exist, just below the **namespace** line.
+4. Add the following namespace references to the project, if they don't already exist, just below the **namespace** line.
     
    ```cs
     using System.Reflection; 
@@ -203,7 +203,7 @@ In this step, you build the add-in and its setup project. Before you continue, m
 
 ## Test the project
 
-Choose the **My Tab** tab, and then choose **Insert Company Name** to insert the company name into the document at the cursor. If you do not see the customized ribbon, you might need to add an entry to the Windows registry by completing the following steps.
+Choose the **My Tab** tab, and then choose **Insert Company Name** to insert the company name into the document at the cursor. If you don't see the customized ribbon, you might need to add an entry to the Windows registry by completing the following steps.
 
 > [!CAUTION] 
 > The next few steps contain information about how to modify the registry. Before you modify the registry, be sure to back it up and make sure that you understand how to restore the registry if a problem occurs. For more information about how to back up, restore, and edit the registry, see this Microsoft Knowledge Base article: [Windows registry information for advanced users (256986)](https://support.microsoft.com/en-us/help/256986/windows-registry-information-for-advanced-users).

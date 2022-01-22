@@ -48,7 +48,7 @@ The double-declining balance method computes depreciation at an accelerated rate
 
 > `Min( (cost - total depreciation from prior periods) * (factor/life), (cost - salvage - total depreciation from prior periods) )`
     
-Change factor if you do not want to use the double-declining balance method.
+Change factor if you don't want to use the double-declining balance method.
     
 Use the **[VDB](excel.worksheetfunction.vdb.md)** function if you want to switch to the straight-line depreciation method when depreciation is greater than the declining balance calculation.
     

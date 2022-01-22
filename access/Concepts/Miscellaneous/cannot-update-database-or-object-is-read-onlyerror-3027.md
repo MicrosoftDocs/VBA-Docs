@@ -29,7 +29,7 @@ The database is read-only for one of these reasons:
     
 - The database file is stored on read-only media.
     
-- In a network environment, you do not have write privileges for the database file.
+- In a network environment, you don't have write privileges for the database file.
     
 - When working with a secured database, the database or one of its objects (such as a field or table) may be set to read-only. You may not have permission to access this data with your user name and password.
     

@@ -31,7 +31,7 @@ String
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to WA. This example assumes that a mail merge data source is attached to the active publication.
+The following example changes an existing filter to remove from the mail merge all records that don't have a Region field equal to WA. This example assumes that a mail merge data source is attached to the active publication.
 
 ```vb
 Sub SetQueryCriterion() 

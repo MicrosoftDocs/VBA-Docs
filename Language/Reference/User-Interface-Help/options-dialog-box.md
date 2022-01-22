@@ -71,7 +71,7 @@ Allows you to choose which windows you want to be dockable.
 
 A window is docked when it is attached or "anchored" to one edge of other dockable or application windows. When you move a dockable window, it "snaps" to the location. A window is not dockable when you can move it anywhere on the screen and leave it there.
 
-Select the windows you want to be dockable and clear those that you do not. Any, none, or all of the windows in the list can be docked. 
+Select the windows you want to be dockable and clear those that you don't. Any, none, or all of the windows in the list can be docked. 
 
 ## See also
 

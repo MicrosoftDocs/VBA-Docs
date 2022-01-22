@@ -23,7 +23,7 @@ Possible causes:
 
 - There is not enough disk space available to create the .inf file.
     
-- In a network environment, you do not have write privileges for the network drive.
+- In a network environment, you don't have write privileges for the network drive.
     
 
 ## See also

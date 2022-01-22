@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowse
 
 This property value equals the current horizontal offset of the content within the scrollable range. Although you can set this property to any value, if you assign a value less than 0, the property is set to 0. If you assign a value greater than the maximum value, the property is set to the maximum value.
 
-This property is always 0 for objects that do not have scroll bars. For these objects, setting the property has no effect.
+This property is always 0 for objects that don't have scroll bars. For these objects, setting the property has no effect.
 
 
 

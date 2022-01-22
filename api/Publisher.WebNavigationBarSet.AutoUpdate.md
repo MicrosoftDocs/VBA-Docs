@@ -35,7 +35,7 @@ Boolean
 
 This property determines whether the existing pages in the publication are added to the navigation bar and if added pages are also updated. These pages must be marked with the **AddHyperlinkToWebNavbar** set to **True** or the **WebPageOptions.IncludePageOnNewWebNavigationBars** property set to **True** to be added or updated within the specified **WebNavigationBarSet**. 
 
-Changing this setting does not change the number of items in the bar; it just determines whether new pages are added. By setting this value to **False**, it is possible to design specific navigation bars for specific content pages in a website that do not contain all the available hyperlinks in the publication.
+Changing this setting does not change the number of items in the bar; it just determines whether new pages are added. By setting this value to **False**, it is possible to design specific navigation bars for specific content pages in a website that don't contain all the available hyperlinks in the publication.
 
 The default value is **True**. 
 

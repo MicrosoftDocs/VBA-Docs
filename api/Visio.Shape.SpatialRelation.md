@@ -48,7 +48,7 @@ The _Flags_ argument can be any combination of the values of the constants defin
 |:-----|:-----|:-----|
 | **visSpatialIncludeContainerShapes**|&H80|Include containers. By default, containers are not included.|
 | **visSpatialIncludeDataGraphics**|&H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
-| **visSpatialIncludeGuides**|&H2|Considers a guide's Geometry section. By default, guides do not influence the result.|
+| **visSpatialIncludeGuides**|&H2|Considers a guide's Geometry section. By default, guides don't influence the result.|
 | **visSpatialIncludeHidden**|&H10|Reserved for future use. Do not use.|
 | **visSpatialIgnoreVisible**|&H20|Does not consider visible Geometry sections. By default, visible Geometry sections influence the result.|
 

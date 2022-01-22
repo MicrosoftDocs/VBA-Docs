@@ -26,7 +26,7 @@ _expression_. `NodeType`
 
 ## Remarks
 
-An **XMLNode** object can be either an XML element or an attribute of an element. Use the **NodeType** property to determine which type of node you are working with, so that you do not attempt to perform invalid operations on the node. For example, the **[Attributes](Word.XMLNode.Attributes.md)** property applies only to element nodes, although it appears in the list of available properties for the **XMLNode** object.
+An **XMLNode** object can be either an XML element or an attribute of an element. Use the **NodeType** property to determine which type of node you are working with, so that you don't attempt to perform invalid operations on the node. For example, the **[Attributes](Word.XMLNode.Attributes.md)** property applies only to element nodes, although it appears in the list of available properties for the **XMLNode** object.
 
 
 ## Example

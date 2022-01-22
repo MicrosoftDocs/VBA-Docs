@@ -31,9 +31,9 @@ In this typical scenario, information about the form (the form definition) is no
 
 However, it is possible to have Outlook store the form definition within individual items in a folder. These items are called one-off items and always use the form definition that is stored within the item instead of the published form.
 
-In most situations, the form definition should not be stored within the item. The most common exception to this is a custom email message form. If you use Microsoft Exchange Server, you can publish a custom email message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you do not have to store the form definition in the item. 
+In most situations, the form definition should not be stored within the item. The most common exception to this is a custom email message form. If you use Microsoft Exchange Server, you can publish a custom email message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you don't have to store the form definition in the item. 
 
-If you do not use Exchange Server, or if you are sending the form to another organization where the form is not available, select the **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the email message with the custom form.
+If you don't use Exchange Server, or if you are sending the form to another organization where the form is not available, select the **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the email message with the custom form.
 
 > [!NOTE] 
 > If the recipient still cannot view your custom form, make sure that you customized or disabled the **Read** page of the custom email form.
@@ -52,7 +52,7 @@ The following scenarios commonly result in items becoming one-off items.
     
   3. Republish the form with the same name.
     
-  4. Close and do not save changes to the item.
+  4. Close and don't save changes to the item.
     
   All the items in the folder will use the updated custom form the next time that the items are opened, because the message class of the items still refers to the published form.
     

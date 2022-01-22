@@ -76,11 +76,11 @@ After following the previous steps, the Immediate Window contains the following 
 </b:Source>
 ```
 
-The Guid and LCID elements are optional, but you can provide values for them if you want. The Guid element value should be a valid GUID, which you can generate programmatically outside the Word object model. (See the Visual Studio documentation or the Windows documentation on MSDN for information about programmatically generating ID.) Word generates GUIDs when users add or edit a source. If you do not add a GUID to the XML and a user then edits a source, Word generates a GUID. This enables Word to determine which source is most recent, based on the value of the GUID, and to prompt whether the user wants Word to update the outdated source to maintain continuity between the master list and the current list.
+The Guid and LCID elements are optional, but you can provide values for them if you want. The Guid element value should be a valid GUID, which you can generate programmatically outside the Word object model. (See the Visual Studio documentation or the Windows documentation on MSDN for information about programmatically generating ID.) Word generates GUIDs when users add or edit a source. If you don't add a GUID to the XML and a user then edits a source, Word generates a GUID. This enables Word to determine which source is most recent, based on the value of the GUID, and to prompt whether the user wants Word to update the outdated source to maintain continuity between the master list and the current list.
 
 The LCID specifies the language for the source. (See MSDN for valid language identification values.) Word uses the LCID to know how to display a cited source in a document's bibliography. For example, one source may be written in French, one in English, and one in Japanese. From the LCID, Word determines how to display names (for example, Last, First for English), what punctuation to use (for example, using comma in one language and a semicolon in another), and what strings to use (for example, whether to use "et al" or another localized form).
 
-After removing optional elements, you may have a structure similar to the following XML structure. (You can determine which elements are required because they do not have a corresponding editable field in the **Create Source** dialog box. Omitting one or more required element raises a run-time error.)
+After removing optional elements, you may have a structure similar to the following XML structure. (You can determine which elements are required because they don't have a corresponding editable field in the **Create Source** dialog box. Omitting one or more required element raises a run-time error.)
 
 
 ```vb

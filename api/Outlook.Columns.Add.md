@@ -49,7 +49,7 @@ If you are adding a custom property to a **Table**, referencing the property by 
 
 Certain properties cannot be added to a **Table** using **Columns.Add**, including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
-While **[Items.SetColumns](Outlook.Items.SetColumns.md)** can be used to facilitate caching certain properties for extremely fast access to those properties of an **[Items](Outlook.Items.md)** collection, some properties are restricted from **SetColumns**. Since these restrictions do not apply to **Columns.Add**, the **Table** object is a less restrictive alternative than **Items**.
+While **[Items.SetColumns](Outlook.Items.SetColumns.md)** can be used to facilitate caching certain properties for extremely fast access to those properties of an **[Items](Outlook.Items.md)** collection, some properties are restricted from **SetColumns**. Since these restrictions don't apply to **Columns.Add**, the **Table** object is a less restrictive alternative than **Items**.
 
 
 ## Example

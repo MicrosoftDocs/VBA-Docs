@@ -53,7 +53,7 @@ The KeyDown and KeyUp events are typically used to recognize or distinguish betw
     
 - The numeric keypad and keyboard number keys.
     
-The KeyDown and KeyUp events do not occur under the following circumstances:
+The KeyDown and KeyUp events don't occur under the following circumstances:
 
 - The user presses Enter on a form with a command button whose **Default** property is set to **True**.
     

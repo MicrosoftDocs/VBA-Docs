@@ -40,7 +40,7 @@ The selected behavior determines the display as follows:
 
 - With **Group only** or **Group first**, Save as Web Page displays the group's custom properties.
     
-- With **Members first**, Save as Web Page displays the subshape's custom properties when the mouse pointer moves over a subshape that has custom properties, and group custom properties for those subshapes that do not have custom properties.
+- With **Members first**, Save as Web Page displays the subshape's custom properties when the mouse pointer moves over a subshape that has custom properties, and group custom properties for those subshapes that don't have custom properties.
     
 This behavior can also be set in the SelectMode cell in the Group Properties section of the group shape in the Visio ShapeSheet spreadsheet.
 

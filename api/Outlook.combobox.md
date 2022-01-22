@@ -21,7 +21,7 @@ The user can enter a new value, as with a **TextBox**, or the user can select an
 
 If a **ComboBox** is bound to a data source, the **ComboBox** inserts the value entered or selected by the user into that data source. If a multicolumn combo box is bound, then the **[BoundColumn](Outlook.combobox.boundcolumn.md)** property determines which value is stored in the bound data source.
 
-The list in a **ComboBox** consists of rows of data. Each row can have one or more columns, which can appear with or without headings. Some applications do not support column headings, others provide only limited support.
+The list in a **ComboBox** consists of rows of data. Each row can have one or more columns, which can appear with or without headings. Some applications don't support column headings, others provide only limited support.
 
 The default property of a **ComboBox** is the **[Value](Outlook.combobox.value.md)** property.
 

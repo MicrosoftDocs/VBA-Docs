@@ -1,5 +1,5 @@
 ---
-title: User-defined properties do not support a Null value. (Error 3385)
+title: User-defined properties don't support a Null value. (Error 3385)
 keywords: jeterr40.chm5003385
 f1_keywords:
 - jeterr40.chm5003385
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# User-defined properties do not support a Null value. (Error 3385)
+# User-defined properties don't support a Null value. (Error 3385)
 
   
 

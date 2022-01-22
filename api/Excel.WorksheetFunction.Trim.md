@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 ## Remarks
 
 > [!IMPORTANT]
-> The TRIM function in Excel was designed to trim the 7-bit ASCII space character (value 32) from text. In the Unicode character set, there is an additional space character called the nonbreaking space character that has a decimal value of 160. This character is commonly used in webpages as the HTML entity, `&nbsp;`. By itself, the **Trim** function and **WorksheetFunction.Trim** method do not remove this nonbreaking space character.
+> The TRIM function in Excel was designed to trim the 7-bit ASCII space character (value 32) from text. In the Unicode character set, there is an additional space character called the nonbreaking space character that has a decimal value of 160. This character is commonly used in webpages as the HTML entity, `&nbsp;`. By itself, the **Trim** function and **WorksheetFunction.Trim** method don't remove this nonbreaking space character.
 
 The **WorksheetFunction.Trim** method in Excel differs from the **[Trim](../Language/Reference/User-Interface-Help/ltrim-rtrim-and-trim-functions.md)** function in VBA, which removes only leading and trailing spaces.
 

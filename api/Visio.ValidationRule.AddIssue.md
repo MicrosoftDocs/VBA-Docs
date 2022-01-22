@@ -42,9 +42,9 @@ _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRul
 
  _TargetPage_ and _TargetShape_ identify the specific object that is associated with the issue. If the object that you pass for either parameter is not a valid object, or if it is inconsistent with the rule's target type, Microsoft Visio returns an Invalid Parameter error.
 
-If you do not pass a value for the optional  _TargetShape_ parameter, the validation issue target is the page.
+If you don't pass a value for the optional  _TargetShape_ parameter, the validation issue target is the page.
 
-If you do not pass values for either of the optional parameters, the validation issue target is the document.
+If you don't pass values for either of the optional parameters, the validation issue target is the document.
 
 
 ## Example

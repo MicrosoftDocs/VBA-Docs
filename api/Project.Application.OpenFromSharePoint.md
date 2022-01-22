@@ -42,7 +42,7 @@ _expression_. `OpenFromSharePoint`( `_SiteURL_`, `_ListName_` )
 
 
 > [!NOTE] 
-> Project must not be connected to a Project Server instance. Synchronization with SharePoint task lists is designed for users who do not have access to Project Server.
+> Project must not be connected to a Project Server instance. Synchronization with SharePoint task lists is designed for users who don't have access to Project Server.
 
 
 ## Example

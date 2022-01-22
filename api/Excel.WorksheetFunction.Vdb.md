@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 | _Arg3_|Required| **Double**|Life - the number of periods over which the asset is depreciated (sometimes called the useful life of the asset).|
 | _Arg4_|Required| **Double**|Start_period - the starting period for which you want to calculate the depreciation. Start_period must use the same units as life.|
 | _Arg5_|Required| **Double**|End_period - the ending period for which you want to calculate the depreciation. End_period must use the same units as life.|
-| _Arg6_|Optional| **Variant**|Factor - the rate at which the balance declines. If factor is omitted, it is assumed to be 2 (the double-declining balance method). Change factor if you do not want to use the double-declining balance method. For a description of the double-declining balance method, see **[Ddb](excel.worksheetfunction.ddb.md)**.|
+| _Arg6_|Optional| **Variant**|Factor - the rate at which the balance declines. If factor is omitted, it is assumed to be 2 (the double-declining balance method). Change factor if you don't want to use the double-declining balance method. For a description of the double-declining balance method, see **[Ddb](excel.worksheetfunction.ddb.md)**.|
 | _Arg7_|Optional| **Variant**|No_switch - a logical value specifying whether to switch to straight-line depreciation when depreciation is greater than the declining balance calculation.|
 
 ## Return value

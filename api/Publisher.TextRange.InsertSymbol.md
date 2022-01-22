@@ -38,7 +38,7 @@ TextRange
 
 ## Remarks
 
-If you do not want to replace the range or selection, use the **[Collapse](Publisher.TextRange.Collapse.md)** method before you use this method.
+If you don't want to replace the range or selection, use the **[Collapse](Publisher.TextRange.Collapse.md)** method before you use this method.
 
 
 ## Example

@@ -77,7 +77,7 @@ namespace LimitAttachmentSizeAddIn
         #region VSTO generated code
  
         /// <summary>
-        /// Required method for Designer support - do not modify
+        /// Required method for Designer support - don't modify
         /// the contents of this method with the code editor.
         /// </summary>
         private void InternalStartup()

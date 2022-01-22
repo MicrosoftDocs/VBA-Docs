@@ -50,7 +50,7 @@ Display folders are only valid for calculated measures. They are not valid for c
 
 The **String** can have semicolons **;** in it. Semicolons designate multiple display folders. For example, if you use the **String** **myfolder1;myfolder2**, the calculated measure will show in two display folders, one named **myfolder1** and the other named **myfolder2**. 
 
-The **String** can have backslashes `\`. This designates a hierarchical path for the display folder. For example, if you use the **String** **welcome\to\seattle**, there will be a display folder called **welcome** that contains a display folder called **to** which contains a display folder called **seattle**. Display folders are virtual folders; they do not really exist in the same sense that we think of system folders. They only exist for purposes of displaying the calculated measures.
+The **String** can have backslashes `\`. This designates a hierarchical path for the display folder. For example, if you use the **String** **welcome\to\seattle**, there will be a display folder called **welcome** that contains a display folder called **to** which contains a display folder called **seattle**. Display folders are virtual folders; they don't really exist in the same sense that we think of system folders. They only exist for purposes of displaying the calculated measures.
     
 ### NumberFormat
 

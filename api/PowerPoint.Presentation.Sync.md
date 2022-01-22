@@ -40,7 +40,7 @@ For more information on the differences and conflicts that can exist between the
 
 Use the **PutUpdate** method to save local changes to the server. Close and re-open the document to retrieve the latest version from the server when no local changes have been made. Use the **ResolveConflict** method to resolve differences between the local and the server copies, or the **OpenVersion** method to open a different version along with the currently open local version of the document.
 
-The **GetUpdate**, **PutUpdate**, and **ResolveConflict** methods of the **Sync** object do not return status codes because they complete their tasks asynchronously. The **Sync** object provides important status information by firing a single event, called the **PresentationSync** event of the **Application** object.
+The **GetUpdate**, **PutUpdate**, and **ResolveConflict** methods of the **Sync** object don't return status codes because they complete their tasks asynchronously. The **Sync** object provides important status information by firing a single event, called the **PresentationSync** event of the **Application** object.
 
 The **PresentationSync** event returns one of the following **MsoSyncEventType** constants.
 
