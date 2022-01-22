@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The **DragState** property extends the **MouseMove** event by returning detailed information about the state of mouse movements and actions throughout the course of a drag and drop operation. You can use the **DragState** property in conjunction with the **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method to determine whether a drag and drop operation is beginning, or whether the mouse is entering a drop-target window, moving over the window, dropping an object in the target window, or leaving the window.
+The **DragState** property extends the **MouseMove** event by returning detailed information about the state of mouse movements and actions throughout the course of a drag and drop operation. Use the **DragState** property in conjunction with the **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method to determine whether a drag and drop operation is beginning, or whether the mouse is entering a drop-target window, moving over the window, dropping an object in the target window, or leaving the window.
 
 > [!NOTE] 
 > You can specify exactly which drag-states extensions you want to listen to by using the **[Event.SetFilterActions](Visio.Event.SetFilterActions.md)** method.
@@ -61,7 +61,7 @@ When the **DragState** property returns **visMouseMoveDragStatesEnter**, an end-
 
 When the **DragState** property returns **visMouseMoveDragStatesOver**, the user is dragging an object over a drop-target window. You can cancel the drag action, based on the type of window or on an _x,y_ range within a window, as specified in your code. Canceling a drag action over the drop-target window prevents the end-user from completing the drag and drop action.
 
-When the **DragState** property returns **visMouseMoveDragStatesDrop**, the drop-target window is receiving a drop. You can cancel the drop action, thus preventing the drop from occurring. When this occurs and you do not also cancel the drag action over the drop-target window, the end-user does not get any visual feedback to indicate that the drop action has been prevented.
+When the **DragState** property returns **visMouseMoveDragStatesDrop**, the drop-target window is receiving a drop. You can cancel the drop action, thus preventing the drop from occurring. When this occurs and you don't also cancel the drag action over the drop-target window, the end-user does not get any visual feedback to indicate that the drop action has been prevented.
 
 When the **DragState** property returns **visMouseMoveDragStatesLeave**, the end-user is moving the mouse out of the drop-target window. There is no way for you to cancel this operation at this point, but there would also be no logical reason to do so.
 

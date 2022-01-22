@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.FilterLookup property (Access)
 
-You can use the **FilterLookup** property to specify whether values appear in a bound text box control when using the Filter By Form or Server Filter By Form window. Read/write **Byte**.
+Use the **FilterLookup** property to specify whether values appear in a bound text box control when using the Filter By Form or Server Filter By Form window. Read/write **Byte**.
 
 
 ## Syntax

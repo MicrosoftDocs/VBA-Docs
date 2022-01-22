@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormatConditions.Count property (Access)
 
-You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+Use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax

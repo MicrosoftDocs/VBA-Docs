@@ -45,7 +45,7 @@ Use the **RunBegin** property to determine the beginning of a sequence of identi
 
 The index that the **RunBegin** property returns is less than or equal to the beginning index of a **Characters** object. If the **Begin** property of the **Characters** object is already at the start of a run, the value of the **RunBegin** property is equal to the value of **Begin**.
 
-Use the  _RunType_ argument to specify the type of run you want. You can use any of the following constants declared by the Visio type library in member **VisRunTypes**.
+Use the  _RunType_ argument to specify the type of run you want. Use any of the following constants declared by the Visio type library in member **VisRunTypes**.
 
 
 

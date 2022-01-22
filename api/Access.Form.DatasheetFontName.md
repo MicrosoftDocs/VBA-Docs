@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetFontName property (Access)
 
-You can use the **DatasheetFontName** property to specify the font used to display and print field names and data in Datasheet view. Read/write **String**.
+Use the **DatasheetFontName** property to specify the font used to display and print field names and data in Datasheet view. Read/write **String**.
 
 
 ## Syntax

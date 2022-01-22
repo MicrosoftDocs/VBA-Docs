@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **TopValues** property to return a specified number of records or a percentage of records that meet the criteria you specify. For example, you might want to return the top 10 values or the top 25 percent of all values in a field.
+Use the **TopValues** property to return a specified number of records or a percentage of records that meet the criteria you specify. For example, you might want to return the top 10 values or the top 25 percent of all values in a field.
 
 > [!NOTE] 
 > The **TopValues** property applies only to append, make-table, and select queries.
@@ -27,7 +27,7 @@ You can use the **TopValues** property to return a specified number of records o
 
 The **TopValues** property setting is an Integer value that represents the exact number of values to return or a number followed by a percent sign (%) that represents the percent of records to return. For example, to return the top 10 values, set the **TopValues** property to 10; to return the top 10 percent of values, set the **TopValues** property to 10%.
 
-You cannot set this property in code directly. It is set in SQL view of the Query window by using a TOP n or TOP n PERCENT clause in the SQL statement.
+You cannot set this property in code directly. It's set in SQL view of the Query window by using a TOP n or TOP n PERCENT clause in the SQL statement.
 
 You can also set the **TopValues** property by using the query property sheet or the **Return** box in the **Query Setup** group on the ribbon.
 

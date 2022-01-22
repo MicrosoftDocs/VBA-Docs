@@ -31,7 +31,7 @@ GradientStops
 
 ## Remarks
 
-You can use the **[GradientStops.Insert](Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
+Use the **[GradientStops.Insert](Office.GradientStops.Insert.md)** method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example

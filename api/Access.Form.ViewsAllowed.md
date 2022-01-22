@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ViewsAllowed property (Access)
 
-You can use the **ViewsAllowed** property to specify whether users can switch between Datasheet view and Form view by choosing the **Form view** or **Datasheet view** command on the **View** menu, or by choosing the arrow next to the **View** button and choosing **Form view** or **Datasheet view**. Read/write **Byte**.
+Use the **ViewsAllowed** property to specify whether users can switch between Datasheet view and Form view by choosing the **Form view** or **Datasheet view** command on the **View** menu, or by choosing the arrow next to the **View** button and choosing **Form view** or **Datasheet view**. Read/write **Byte**.
 
 
 ## Syntax

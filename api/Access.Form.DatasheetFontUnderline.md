@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetFontUnderline property (Access)
 
-You can use the **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
+Use the **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax

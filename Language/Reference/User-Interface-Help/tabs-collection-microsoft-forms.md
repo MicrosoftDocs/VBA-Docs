@@ -22,7 +22,7 @@ Each **Tabs** collection provides the features to manage the number of tabs in t
 
 The default value of the **Tabs** collection identifies the current **Tab** of a collection.
 
-A **Tab** object has a unique name and index value within a **Tabs** collection. You can reference a **Tab** either by its name or its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
+A **Tab** object has a unique name and index value within a **Tabs** collection. Reference a **Tab** either by its name or its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
 
 ## See also
 

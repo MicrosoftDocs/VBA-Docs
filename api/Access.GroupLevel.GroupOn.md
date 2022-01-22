@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GroupLevel.GroupOn property (Access)
 
-You can use the **GroupOn** property in a report to specify how to group data in a field or expression by data type. For example, this property lets you group a **Date** field by month. Read/write **Integer**.
+Use the **GroupOn** property in a report to specify how to group data in a field or expression by data type. For example, this property lets you group a **Date** field by month. Read/write **Integer**.
 
 
 ## Syntax

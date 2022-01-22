@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Built-in Dialog Box Argument Lists (Word)
 
-Many of the built-in dialog boxes in Word have options that you may want to set. To set or return the properties associated with a Word dialog box, use the equivalent Visual Basic properties and methods. For example, if you want to print a document, use the VBA **[PrintOut](../../../api/Word.Document.PrintOut.md)** method. The following code prints the current document using the **Print** dialog box default settings. However, if you do not want to use the default setting in the print dialog, you can use the arguments associated with the **PrintOut** method.
+Many of the built-in dialog boxes in Word have options that you may want to set. To set or return the properties associated with a Word dialog box, use the equivalent Visual Basic properties and methods. For example, if you want to print a document, use the VBA **[PrintOut](../../../api/Word.Document.PrintOut.md)** method. The following code prints the current document using the **Print** dialog box default settings. However, if you don't want to use the default setting in the print dialog, you can use the arguments associated with the **PrintOut** method.
 
 
 ```vb

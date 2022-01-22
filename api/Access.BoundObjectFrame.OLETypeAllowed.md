@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BoundObjectFrame.OLETypeAllowed property (Access)
 
-You can use the **OLETypeAllowed** property to specify the type of OLE object that a control can contain. Read/write **Byte**.
+Use the **OLETypeAllowed** property to specify the type of OLE object that a control can contain. Read/write **Byte**.
 
 
 ## Syntax

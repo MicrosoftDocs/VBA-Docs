@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 ![New project dialog box](../../../images/va5lx01_ZA01201777.gif)
 
-Allows you to select the type of project that you want to create. If there is currently another project open, you will be asked to save any changes before the new project is created.
+Allows you to select the type of project that you want to create. If there is currently another project open, you'll be asked to save any changes before the new project is created.
 
 The following table describes the dialog box options.
 

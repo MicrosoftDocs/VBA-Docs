@@ -23,7 +23,7 @@ Microsoft Forms includes several properties that let you define the appearance o
 
 **BackColor** and **BackStyle** apply to the control's background. The background is the area within the control's boundaries, such as the area surrounding the text in a control, but not the control's border. **BackColor** determines the [background color](../../Glossary/glossary-vba.md#background-color). **BackStyle** determines whether the background is [transparent](../../Glossary/glossary-vba.md#transparent). A transparent control background is useful if your application design includes a picture as the main background and you want to see that picture through the control.
 
-**BorderColor**, **BorderStyle**, and **SpecialEffect** apply to the control's border. You can use **BorderStyle** or **SpecialEffect** to choose a type of border. Only one of these two properties can be used at a time. When you assign a value to one of these properties, the system sets the other property to **None**. 
+**BorderColor**, **BorderStyle**, and **SpecialEffect** apply to the control's border. Use **BorderStyle** or **SpecialEffect** to choose a type of border. Only one of these two properties can be used at a time. When you assign a value to one of these properties, the system sets the other property to **None**. 
 
 - **SpecialEffect** lets you choose one of several border styles, but only lets you use [system colors](../../Glossary/glossary-vba.md#system-colors) for the border. 
 

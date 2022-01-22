@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the CopyObject action to copy the specified database object to a different Access database or to the same database or Access project (.adp) under a new name. For example, you can copy or back up an existing object in another database or quickly create a similar object with a few changes.
+Use the CopyObject action to copy the specified database object to a different Access database or to the same database or Access project (.adp) under a new name. For example, you can copy or back up an existing object in another database or quickly create a similar object with a few changes.
 
 You must include either the _DestinationDatabase_ or _NewName_ argument or both for this method.
 

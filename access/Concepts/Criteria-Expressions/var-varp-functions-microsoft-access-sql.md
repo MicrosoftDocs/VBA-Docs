@@ -31,7 +31,7 @@ The **VarP** function evaluates a population, and the **Var** function evaluates
 
 If the underlying query contains fewer than two records, the **Var** and **VarP** functions return a **Null** value, which indicates that a variance cannot be calculated.
 
-You can use the **Var** and **VarP** functions in a query expression or in an SQL statement.
+Use the **Var** and **VarP** functions in a query expression or in an SQL statement.
 
 
 ## Example

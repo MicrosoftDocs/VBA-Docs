@@ -45,7 +45,7 @@ The following example splits the active window in half.
 ActiveDocument.ActiveWindow.Split = True
 ```
 
-You can use the **SplitSpecial** property to show comments, footnotes, or endnotes in a separate pane.
+Use the **SplitSpecial** property to show comments, footnotes, or endnotes in a separate pane.
 
 A window has more than one pane if the window is split or the view is not print layout view and information such as footnotes or comments are displayed. The following example displays the comments pane in normal view and then prompts to close the pane.
 

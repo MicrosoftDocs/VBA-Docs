@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 XML mapping is a feature of Word that enables you to create a link between a document and an XML file. This creates true data/view separation between the document formatting and the custom XML data.
 
-XML mapping enables you to map an element in a custom XML part that is attached to the document. The data store provides access to all of the custom XML parts that are stored in an open file. You can refer to any node within any custom XML part inside the data store.
+XML mapping enables you to map an element in a custom XML part that is attached to the document. The data store provides access to all of the custom XML parts that are stored in an open file. Refer to any node within any custom XML part inside the data store.
 
 For more information about content controls, see [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 

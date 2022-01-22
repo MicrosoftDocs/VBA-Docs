@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the Requery action to update the data in a specified control on the active object by requerying the source of the control. If no control is specified, this action requeries the source of the object itself. Use this action to ensure that the active object or one of its controls displays the most current data.
+Use the Requery action to update the data in a specified control on the active object by requerying the source of the control. If no control is specified, this action requeries the source of the object itself. Use this action to ensure that the active object or one of its controls displays the most current data.
 
 If you leave the _ControlName_ argument blank, the Requery action has the same effect as pressing Shift+F9 when the object has the focus. If a subform control has the focus, this action requeries only the source of the subform (just as pressing Shift+F9 does).
 

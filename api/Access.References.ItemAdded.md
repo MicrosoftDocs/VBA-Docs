@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[References](Access.References.md)**
 
 ## Remarks
 
-The **ItemAdded** event applies to the **References** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
+The **ItemAdded** event applies to the **References** collection. It'sn't associated with a control, form, or report, as are most other events. Therefore, to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
     
 The **ItemAdded** event can run only an event procedure when it occurs; it cannot run a macro.
     

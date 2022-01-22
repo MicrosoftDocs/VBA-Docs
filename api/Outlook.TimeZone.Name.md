@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TimeZone](Outlook.TimeZone.md) object
 
 ## Remarks
 
-The **Name** usually includes the offset value from Coordinated Universal Time (UTC), the official time zone name, and regions where the time zone is used. It is stored as the Display value in the registry key for a time zone.
+The **Name** usually includes the offset value from Coordinated Universal Time (UTC), the official time zone name, and regions where the time zone is used. It's stored as the Display value in the registry key for a time zone.
 
 
 ## See also

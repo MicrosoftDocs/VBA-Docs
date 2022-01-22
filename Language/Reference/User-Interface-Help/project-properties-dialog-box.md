@@ -26,7 +26,7 @@ The following table describes the tab options.
 
 |Option|Description|
 |:-----|:----------|
-|**Project Name**|Identifies your component in the Windows Registry and the **[Object Browser](object-browser.md)**. It is important that it has a unique name.<br/><br/>The project name is the name of the _type library_ for your component. The type library, or TypeLib, contains the description of the objects and interfaces provided by your component.<br/><br/>It is also used to qualify the names of classes. A combination of project name and class name is sometimes referred to as a _fully qualified class name_, or as a _programmatic ID_. The fully qualified class name may be required to correctly identify an object as belonging to your component.|
+|**Project Name**|Identifies your component in the Windows Registry and the **[Object Browser](object-browser.md)**. It's important that it has a unique name.<br/><br/>The project name is the name of the _type library_ for your component. The type library, or TypeLib, contains the description of the objects and interfaces provided by your component.<br/><br/>It's also used to qualify the names of classes. A combination of project name and class name is sometimes referred to as a _fully qualified class name_, or as a _programmatic ID_. The fully qualified class name may be required to correctly identify an object as belonging to your component.|
 |**Project Description**|Sets the descriptive text that is displayed in the **Description** pane at the bottom of the **Object Browser**.|
 |**Help File Name**|Displays the name of the Help file associated with the project.|
 |**Project Help Context ID**|Lists the context ID for the specific Help topic to be called when the user selects the ![Help button](../../../images/but_help_ZA01201583.gif) button while the application's [object library](../../Glossary/vbe-glossary.md#object-library) is selected in the **Object Browser**.|
@@ -43,7 +43,7 @@ The following table describes the tab options.
 |Option|Description|
 |:-----|:----------|
 |**Lock project**|Provides a way to lock your project and prevent someone from changing it.<br/><br/>**Lock project for viewing**: Locks the project so that it cannot be viewed or edited.|
-|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you do not check the **Lock project for viewing** option but set a password, you will be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
+|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you don't check the **Lock project for viewing** option but set a password, you'll be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
     
 
 ## Make tab
@@ -76,7 +76,7 @@ The following table describes the tab options.
 |Option|Description|
 |:-----|:----------|
 |**When this project starts**|Sets debugging options when your project starts.|
-|**Wait for components to be created**|Tells Visual Basic to do nothing in run mode.|
+|**Wait for components to be created**|Tells Visual Basic to don'thing in run mode.|
 |**Start component**|Lets the component determine what happens. The types of components include special ActiveX Designers like the DHTMLPage Designer and the Webclass Designer, and also User Controls and User Documents. If you select a User Control or User Document, Visual Basic will launch the browser and display a dummy test page that contains the component. The component can tell Visual Basic to either launch the browser with a URL or start another program.<br/><br/>Selecting a startup component on the **Debugging** tab does not affect the Startup Object specified on the **General** tab. For example, an ActiveX.dll project could specify `Startup Object=Sub Main` and `Start Component=DHTMLPage1`.<br/><br/>When the project runs, Visual Basic would register the `DHTMLPage1` component, as well as other components, execute and then launch Internet Explorer, and navigate to a URL that creates an instance of `DHTMLPage1`.|
 |**Start program**|Specifies an executable program to be used.|
 |**Start browser with URL**|Specifies which URL the browser should navigate to.|

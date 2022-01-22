@@ -43,7 +43,7 @@ End With
 
 ## Resizing panes
 
-You can use the **SplitHorizontal** and the **SplitVertical** properties to reposition the pane dividers in normal view to the specified percentage of the available document window. This resizes the panes on either side of the divider. The maximum value of these properties is always less than 100% because the slide pane has a minimum size that depends on a 10% zoom level. This example sets the percentage of the available document window height that the slide pane occupies to 65 percent, leaving the notes pane at 35 percent.
+Use the **SplitHorizontal** and the **SplitVertical** properties to reposition the pane dividers in normal view to the specified percentage of the available document window. This resizes the panes on either side of the divider. The maximum value of these properties is always less than 100% because the slide pane has a minimum size that depends on a 10% zoom level. This example sets the percentage of the available document window height that the slide pane occupies to 65 percent, leaving the notes pane at 35 percent.
 
 
 ```vb

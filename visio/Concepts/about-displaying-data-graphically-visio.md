@@ -40,7 +40,7 @@ After you  [link shapes in your Visio drawing to rows in a data recordset](about
 
 To make it easier to display data graphically, Visio introduces the concept of data graphics and a type of **[Master](../../api/Visio.Master.md)** object called a _data graphic master_, which is represented in the **[VisMasterTypes](../../api/Visio.vismastertypes.md)** enumeration by the value **visTypeDataGraphic**. To add a **Master** object of type **visTypeDataGraphic** to the **Masters** collection, you must use the **[Masters.AddEx](../../api/Visio.Masters.AddEx.md)** method.
 
-Visio includes several types of masters, including shape masters. When you create an instance of a shape master, it becomes a shape. Visio also includes fill pattern, line pattern, and line-end masters, for which you cannot create instances. You apply these masters to shapes to impart the master pattern to the shape. Data graphic masters are more like pattern masters, because you do not create instances of them. Instead, you apply them to shapes as you do line pattern and fill pattern masters.
+Visio includes several types of masters, including shape masters. When you create an instance of a shape master, it becomes a shape. Visio also includes fill pattern, line pattern, and line-end masters, for which you cannot create instances. You apply these masters to shapes to impart the master pattern to the shape. Data graphic masters are more like pattern masters, because you don't create instances of them. Instead, you apply them to shapes as you do line pattern and fill pattern masters.
 
 Data graphic masters correspond to the data graphics that appear in the **Data Graphics** task pane in the Visio UI. A data graphic master consists of one or more _graphic items_. Graphic items are Visio shapes designed to be ready-made visual components that you can associate with shape data to display that data graphically, based on rules that you define, and at a position relative to the shape that you specify.
 
@@ -101,7 +101,7 @@ End Sub
 
 ## Customizing the Behavior of Data Graphic Masters
 
-You can use the **[Master.DataGraphicHidden](../../api/Visio.Master.DataGraphicHidden.md)** and **[Master.DataGraphicHidesText](../../api/Visio.Master.DataGraphicHidesText.md)** properties to customize certain aspects of the behavior of data graphic masters.
+Use the **[Master.DataGraphicHidden](../../api/Visio.Master.DataGraphicHidden.md)** and **[Master.DataGraphicHidesText](../../api/Visio.Master.DataGraphicHidesText.md)** properties to customize certain aspects of the behavior of data graphic masters.
 
 The **DataGraphicHidden** property determines whether a data graphic master appears in the **Data Graphics** gallery in the Visio UI. When you set the value of this property to **True** for a given master, the master does not appear in the list of data graphics in the gallery. The default value of the property is **False**.
 
@@ -163,7 +163,7 @@ For intCounter = 1 To ActiveDocument.Masters.Count
     Next
 ```
 
-Similarly, you can iterate through the **GraphicItems** collection of a master to determine the values of the **[ID](../../api/Visio.GraphicItem.ID.md)** and **[Tag](../../api/Visio.GraphicItem.Tag.md)** properties of an existing graphic item, as shown in the following example. The **Tag** property is a string that Visio does not use. It is empty by default. However, you can set its value to make it easier to identify individual graphic items programmatically.
+Similarly, you can iterate through the **GraphicItems** collection of a master to determine the values of the **[ID](../../api/Visio.GraphicItem.ID.md)** and **[Tag](../../api/Visio.GraphicItem.Tag.md)** properties of an existing graphic item, as shown in the following example. The **Tag** property is a string that Visio does not use. It's empty by default. However, you can set its value to make it easier to identify individual graphic items programmatically.
 
 
 

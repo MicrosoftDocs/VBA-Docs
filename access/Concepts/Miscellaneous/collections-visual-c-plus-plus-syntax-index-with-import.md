@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-It is useful to know that collections inherit certain common methods and properties.
+It's useful to know that collections inherit certain common methods and properties.
 
 All collections inherit the **Count** property and **Refresh** method, and all collections add the **Item** property. The **Errors** collection adds the **Clear** method. The **Parameters** collection inherits the **Append** and **Delete** methods, while the **Fields** collection adds the **Append**, **Delete**, and **Update** methods.
 

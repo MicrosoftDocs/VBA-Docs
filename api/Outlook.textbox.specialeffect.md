@@ -33,7 +33,7 @@ The settings for **SpecialEffect** are:
 |3|Border appears to be carved around the edge of the control.|
 |6|Object has a ridge on the bottom and right and appears flat on the top and left.|
 
-You can use either the **SpecialEffect** or the **[BorderStyle](Outlook.textbox.borderstyle.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
+Use either the **SpecialEffect** or the **[BorderStyle](Outlook.textbox.borderstyle.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
 
  **SpecialEffect** uses the system colors to define its borders.
 

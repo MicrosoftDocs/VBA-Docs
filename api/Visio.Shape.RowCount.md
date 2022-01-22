@@ -41,7 +41,7 @@ Integer
 
 The  _Section_ argument must be a section constant. For a list of section constants, see the **AddSection** method.
 
-Use the **RowCount** property primarily with sections that contain a variable number of rows, such as Geometry and Connection Points sections. For sections that have a fixed number of rows, the **RowCount** property returns the number of rows in the section that possess at least one cell whose value is local to the shape, as opposed to rows whose cells are all inherited from a master or style. Inheriting from a master or style is usually better because Microsoft Office Visio does not need to store as much information. In the ShapeSheet window, cells with local values appear in blue, and cells with inherited values appear in black. You can use the **IsInherited** property to determine if a cell is inherited.
+Use the **RowCount** property primarily with sections that contain a variable number of rows, such as Geometry and Connection Points sections. For sections that have a fixed number of rows, the **RowCount** property returns the number of rows in the section that possess at least one cell whose value is local to the shape, as opposed to rows whose cells are all inherited from a master or style. Inheriting from a master or style is usually better because Microsoft Office Visio does not need to store as much information. In the ShapeSheet window, cells with local values appear in blue, and cells with inherited values appear in black. Use the **IsInherited** property to determine if a cell is inherited.
 
 
 ## Example

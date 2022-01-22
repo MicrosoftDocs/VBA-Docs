@@ -52,7 +52,7 @@ For a multiline **[TextBox](Outlook.textbox.md)**, you can display scroll bars b
     
 2. When **ScrollBars** is set to 2 or 3, the control displays a vertical scroll bar if the text is longer than the edit region and if the control has enough room to include the scroll bar at the right edge of its edit region.
     
-3. When **WordWrap** is **True**, the multiline control will not display a horizontal scroll bar. Most multiline controls do not use a horizontal scroll bar.
+3. When **WordWrap** is **True**, the multiline control will not display a horizontal scroll bar. Most multiline controls don't use a horizontal scroll bar.
     
 4. A multiline control can display a horizontal scroll bar if the following conditions occur simultaneously:
     

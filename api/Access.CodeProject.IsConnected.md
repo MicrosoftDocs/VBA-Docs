@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.IsConnected property (Access)
 
-You can use the **IsConnected** property to determine if the **CodeProject** object is currently connected. Read-only **Boolean**.
+Use the **IsConnected** property to determine if the **CodeProject** object is currently connected. Read-only **Boolean**.
 
 
 ## Syntax

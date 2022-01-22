@@ -18,7 +18,7 @@ This walkthrough shows how to add an adjoining form region to the **General** pa
 
 ## Design the form region
 
-To create and design a form region, you will use the Forms Designer in much the same way as you customize a form page, by adding controls from the control toolbox to the form region and optionally binding controls to fields. You will create an adjoining form region that will append to the end of the **General** page of the contact form. This form region will contain six controls. You will insert the controls in the form region, create three user-defined fields, and bind the controls to the fields. When you are done with designing, you will save the form region to an .OFS file. Figure 1 shows the resultant **General** page of the Contact form.
+To create and design a form region, you'll use the Forms Designer in much the same way as you customize a form page, by adding controls from the control toolbox to the form region and optionally binding controls to fields. You'll create an adjoining form region that will append to the end of the **General** page of the contact form. This form region will contain six controls. You'll insert the controls in the form region, create three user-defined fields, and bind the controls to the fields. When you are done with designing, you'll save the form region to an .OFS file. Figure 1 shows the resultant **General** page of the Contact form.
 
 **Figure 1. The customized Contact form at runtime - the General page showing an adjoining form region at the bottom.**
 
@@ -37,7 +37,7 @@ To create and design a form region, you will use the Forms Designer in much the 
 
    ![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](../../../images/olNewFormRegionMenuItem_ZA10107630.gif)
 
-4. Next, you will create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it as in Figure 4.
+4. Next, you'll create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click **Field Chooser** to display it as in Figure 4.
 
  **Figure 4. Use the Field chooser to create custom fields.**
 
@@ -61,14 +61,14 @@ To create and design a form region, you will use the Forms Designer in much the 
 
    ![Screenshot showing New Field dialog box with custom field called Seat Preference.](../../../images/olNewFieldDialogSP_ZA10107634.gif)
 
-8. In steps 9 through 12, you will insert six Outlook controls in the form region.
+8. In steps 9 through 12, you'll insert six Outlook controls in the form region.
 
    > [!NOTE]
    > The control toolbox is initialized only with Microsoft Forms 2.0 controls. When you insert a Forms 2.0 control in a form region, if a themed Outlook counterpart control exists as an Outlook control, Outlook will automatically replace the Forms 2.0 control with the themed counterpart. 
    >
-   > In this walkthrough, the six controls that you will be inserting include one check box control, one combo box control, three label controls, and one text box control. By default, the Forms 2.0 version of these controls exist in the Toolbox. If you insert these controls in a form region, Outlook will always display these controls in the themed look; you do not need to add the Outlook counterpart controls to the Toolbox. This is because after you insert the Forms 2.0 controls from the Toolbox in the form region, Outlook will replace them with their themed Outlook counterpart controls - the Microsoft Outlook Check Box Control, the Microsoft Outlook Combo Box Control, the Microsoft Outlook Label Control, and the Microsoft Outlook Text Box Control. 
+   > In this walkthrough, the six controls that you'll be inserting include one check box control, one combo box control, three label controls, and one text box control. By default, the Forms 2.0 version of these controls exist in the Toolbox. If you insert these controls in a form region, Outlook will always display these controls in the themed look; you don't need to add the Outlook counterpart controls to the Toolbox. This is because after you insert the Forms 2.0 controls from the Toolbox in the form region, Outlook will replace them with their themed Outlook counterpart controls - the Microsoft Outlook Check Box Control, the Microsoft Outlook Combo Box Control, the Microsoft Outlook Label Control, and the Microsoft Outlook Text Box Control. 
    >
-   > However, there are other Microsoft Outlook controls (for example, the Microsoft Outlook Recipient Control and the Microsoft Outlook Sender Photo Control) that do not exist in the Toolbox by default. To use these Outlook controls for the first time, you will have to add them to the Toolbox, by right-clicking the bottom of the Toolbox and clicking **Custom Controls**.
+   > However, there are other Microsoft Outlook controls (for example, the Microsoft Outlook Recipient Control and the Microsoft Outlook Sender Photo Control) that don't exist in the Toolbox by default. To use these Outlook controls for the first time, you'll have to add them to the Toolbox, by right-clicking the bottom of the Toolbox and clicking **Custom Controls**.
 
    Figure 8 shows the resultant layout of the form region we are going to create. Steps 9, 10, 11, and 12 involve inserting controls from the Toolbox, and binding user-defined fields to some of the controls. 
 
@@ -164,7 +164,7 @@ Use an XML editor such as Notepad to create a form region manifest XML file, Con
 
 ## Register the form region
 
-To run the form region, you must register it in the Windows registry, specifying the message class and other necessary information required for Outlook to display the form region. You will register this form region to display contact items, under the current user key `HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact`.
+To run the form region, you must register it in the Windows registry, specifying the message class and other necessary information required for Outlook to display the form region. You'll register this form region to display contact items, under the current user key `HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact`.
 
 1. Close Outlook.
 2. Add the following key to the registry if it does not already exist: `HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions`.
@@ -177,6 +177,6 @@ To run the form region, you must register it in the Windows registry, specifying
 1. Start Outlook.
 2. Open a contact item.\
 
-You will see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form, as shown in Figure 1.
+You'll see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form, as shown in Figure 1.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

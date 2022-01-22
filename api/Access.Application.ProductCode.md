@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.ProductCode property (Access)
 
-You can use the **ProductCode** property to determine the Microsoft Access globally unique identifier (GUID). Read-only **String**.
+Use the **ProductCode** property to determine the Microsoft Access globally unique identifier (GUID). Read-only **String**.
 
 
 ## Syntax

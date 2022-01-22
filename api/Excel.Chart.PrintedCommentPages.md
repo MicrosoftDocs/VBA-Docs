@@ -31,7 +31,7 @@ _expression_ A variable that returns a **[Chart](Excel.Chart(object).md)** objec
 
 ## Remarks
 
-Because charts and chart sheets do not support comments, the **PrintedCommentPages** property of the **Chart** object will always return zero.
+Because charts and chart sheets don't support comments, the **PrintedCommentPages** property of the **Chart** object will always return zero.
 
 
 

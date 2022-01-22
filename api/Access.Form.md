@@ -18,7 +18,7 @@ A **Form** object refers to a particular Microsoft Access form.
 
 ## Remarks
 
-A **Form** object is a member of the **[Forms](access.forms.md)** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. You can refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. 
+A **Form** object is a member of the **[Forms](access.forms.md)** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. Refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. 
 
 If you want to refer to a specific form in the **Forms** collection, it's better to refer to the form by name because a form's collection index may change. If the form name includes a space, the name must be surrounded by brackets ([ ]).
 
@@ -29,7 +29,7 @@ If you want to refer to a specific form in the **Forms** collection, it's better
 |**AllForms**("_formname_")|`AllForms("OrderForm")`|
 |**AllForms**(_index_)|`AllForms(0)`|
 
-Each **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**.
+Each **Form** object has a **Controls** collection, which contains all controls on the form. Refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**.
 
 ```vb
  ' Implicit reference. 

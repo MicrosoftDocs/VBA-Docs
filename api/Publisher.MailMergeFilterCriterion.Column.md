@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[MailMergeFilterCriterion](Publisher
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to WA.
+The following example changes an existing filter to remove from the mail merge all records that don't have a Region field equal to WA.
 
 ```vb
 Sub SetQueryCriterion() 

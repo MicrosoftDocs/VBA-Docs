@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Screen.ActiveDatasheet property (Access)
 
-You can use the **ActiveDatasheet** property together with the **Screen** object to identify or refer to the datasheet that has the focus. Read-only **Form** object.
+Use the **ActiveDatasheet** property together with the **Screen** object to identify or refer to the datasheet that has the focus. Read-only **Form** object.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 The **ActiveDatasheet** property setting contains the datasheet object that has the focus at run time.
 
-You can use this property to refer to an active datasheet together with one of its properties or methods. For example, the following code uses the **ActiveDatasheet** property to reference the top row of the selection in the active datasheet.
+Use this property to refer to an active datasheet together with one of its properties or methods. For example, the following code uses the **ActiveDatasheet** property to reference the top row of the selection in the active datasheet.
 
 ```vb
 TopRow = Screen.ActiveDatasheet.SelTop

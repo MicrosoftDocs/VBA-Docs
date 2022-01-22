@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormatCondition.Modify method (Access)
 
-You can use the **Modify** method to change the format conditions of a **FormatCondition** object in the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
+Use the **Modify** method to change the format conditions of a **FormatCondition** object in the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
 
 
 ## Syntax

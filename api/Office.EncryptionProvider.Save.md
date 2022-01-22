@@ -38,7 +38,7 @@ Long
 
 ## Remarks
 
-When you save a file to the Office Open XML File format (which is the only format that supports custom file encryption), the provider is called by your COM add-in to encrypt the document. If you attempt to save to a format that does not support custom file encryption and you have the appropriate rights to do so, Microsoft Office will save the document without encryption. This allows documents to be exported to formats that do not support encryption or rights management.
+When you save a file to the Office Open XML File format (which is the only format that supports custom file encryption), the provider is called by your COM add-in to encrypt the document. If you attempt to save to a format that does not support custom file encryption and you have the appropriate rights to do so, Microsoft Office will save the document without encryption. This allows documents to be exported to formats that don't support encryption or rights management.
 
 
 ## See also

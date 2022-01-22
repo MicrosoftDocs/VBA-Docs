@@ -55,7 +55,7 @@ Automation constants for representing units are declared by the Visio type libra
 
 Passing a zero (0) is sufficient for getting the value of text string cells.
 
-You can use the **ResultStrU** property to convert between units. For example, you can get the value in inches and then get an equivalent value in centimeters.
+Use the **ResultStrU** property to convert between units. For example, you can get the value in inches and then get an equivalent value in centimeters.
 
 The **ResultStrU** property is useful for filling controls such as edit boxes with the value of a cell.
 

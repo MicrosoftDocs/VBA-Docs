@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
-Setting this property to **False** can optimize performance for fields with many items, and it also allows users that do not want custom list-based sorting to avoid it.
+Setting this property to **False** can optimize performance for fields with many items, and it also allows users that don't want custom list-based sorting to avoid it.
 
 
 

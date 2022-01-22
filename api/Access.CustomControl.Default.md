@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomControl.Default property (Access)
 
-You can use the **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
+Use the **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Avoiding naming conflicts
 
-A naming conflict occurs when you try to create or use an [identifier](../../Glossary/vbe-glossary.md#identifier) that was previously defined. In some cases, naming conflicts generate errors such as **Ambiguous name detected** or **Duplicate declaration in current scope**. Naming conflicts that go undetected can result in bugs in your code that produce erroneous results, especially if you do not explicitly declare all [variables](../../Glossary/vbe-glossary.md#variable) before first use.
+A naming conflict occurs when you try to create or use an [identifier](../../Glossary/vbe-glossary.md#identifier) that was previously defined. In some cases, naming conflicts generate errors such as **Ambiguous name detected** or **Duplicate declaration in current scope**. Naming conflicts that go undetected can result in bugs in your code that produce erroneous results, especially if you don't explicitly declare all [variables](../../Glossary/vbe-glossary.md#variable) before first use.
 
 You can avoid most naming conflicts by understanding the [scoping](../../Glossary/vbe-glossary.md#scope), private [module-level](../../Glossary/vbe-glossary.md#module-level), and public module-level.
 
@@ -29,7 +29,7 @@ Most naming conflicts can be resolved by preceding each identifier with a qualif
 YourProject.YourModule.YourSub MyProject.MyModule.MyVar
 ```
 
-The preceding code calls the **Sub** procedure `YourSub` and passes `MyVar` as an argument. You can use any combination of qualifiers to differentiate identical identifiers.
+The preceding code calls the **Sub** procedure `YourSub` and passes `MyVar` as an argument. Use any combination of qualifiers to differentiate identical identifiers.
 
 Visual Basic matches each reference to an identifier with the "closest" declaration of a matching identifier. For example, if  `MyID` is declared **Public** in two modules in a project (`Mod1` and `Mod2`), you can specify the `MyID` declared in `Mod2` without qualification from within `Mod2`, but you must qualify it as `Mod2.MyID` to specify it in `Mod1`. 
 

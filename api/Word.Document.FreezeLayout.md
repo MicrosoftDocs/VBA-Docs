@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Document.FreezeLayout method (Word)
 
-In Web view, fixes the layout of the document as it currently appears so that line breaks remain fixed and ink annotations do not move when you resize the window.
+In Web view, fixes the layout of the document as it currently appears so that line breaks remain fixed and ink annotations don't move when you resize the window.
 
 
 ## Syntax

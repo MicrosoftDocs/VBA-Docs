@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a '[ListTemplates](Word.listte
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _OutlineNumbered_|Optional| **Variant**| **True** to apply outline numbering to the new list template.|
-| _Name_|Optional| **Variant**|An optional name used for linking the list template to a LISTNUM field. You can use this name to index the list template in the collection.|
+| _Name_|Optional| **Variant**|An optional name used for linking the list template to a LISTNUM field. Use this name to index the list template in the collection.|
 
 ## Return value
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.HyperlinkAddress property (Access)
 
-You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, webpage, or other destination for a hyperlink associated with the specified control. Read/write **String**.
+Use the **HyperlinkAddress** property to specify or determine the path to an object, document, webpage, or other destination for a hyperlink associated with the specified control. Read/write **String**.
 
 
 ## Syntax

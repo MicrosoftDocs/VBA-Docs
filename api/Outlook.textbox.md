@@ -34,7 +34,7 @@ The **TextBox** is a flexible control governed by the following properties: **[T
 
 **WordWrap** allows the **TextBox** to wrap lines of text that are longer than the width of the **TextBox** into shorter lines that fit. The default value is **True**.
 
-If you do not use **WordWrap**, the **TextBox** starts a new line of text when it encounters a newline character in the text. If **WordWrap** is turned off, you can have text lines that do not fit completely in the **TextBox**. The **TextBox** displays the portions of text that fit inside its width and truncates the portions of text that do not fit. **WordWrap** is not applicable unless **MultiLine** is **True**.
+If you don't use **WordWrap**, the **TextBox** starts a new line of text when it encounters a newline character in the text. If **WordWrap** is turned off, you can have text lines that don't fit completely in the **TextBox**. The **TextBox** displays the portions of text that fit inside its width and truncates the portions of text that don't fit. **WordWrap** is not applicable unless **MultiLine** is **True**.
 
 **AutoSize** controls whether the **TextBox** adjusts to display all of the text. When using **AutoSize** with a **TextBox**, the width of the **TextBox** shrinks or expands according to the amount of text in the **TextBox** and the font size used to display the text. The default value is **False**.
 

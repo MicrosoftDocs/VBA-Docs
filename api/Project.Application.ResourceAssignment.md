@@ -50,7 +50,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-You can use the _Resources_ parameter to specify that a resource assignment is requested or demanded when using the Resource Substitution Wizard. For example, the following macro specifies that the assignment of r1 to the selected task is a requested assignment.
+Use the _Resources_ parameter to specify that a resource assignment is requested or demanded when using the Resource Substitution Wizard. For example, the following macro specifies that the assignment of r1 to the selected task is a requested assignment.
 
 ```vb
 Sub RequestAssignment()

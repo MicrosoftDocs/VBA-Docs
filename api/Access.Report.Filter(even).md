@@ -35,9 +35,9 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 To run a macro or event procedure when this event occurs, set the **OnFilter** property to the name of the macro or to [Event Procedure].
 
-You can use the **Filter** event to:
+Use the **Filter** event to:
 
-- Remove any previous filter for the report. To do this, set the **Filter** property or **ServerFilter** property of the report to a zero-length string (" ") in the **Filter** macro or event procedure. This is especially useful if you want to make sure that extraneous criteria do not appear in the new filter. For example, when you use the **Filter By Selection** feature, the criteria you use (the selected text in the report) is added to the **Filter** or **ServerFilter** property WHERE clause expression, and appears in the **Advanced Filter/Sort** window. You can remove these old criteria by using the **Filter** event.
+- Remove any previous filter for the report. To do this, set the **Filter** property or **ServerFilter** property of the report to a zero-length string (" ") in the **Filter** macro or event procedure. This is especially useful if you want to make sure that extraneous criteria don't appear in the new filter. For example, when you use the **Filter By Selection** feature, the criteria you use (the selected text in the report) is added to the **Filter** or **ServerFilter** property WHERE clause expression, and appears in the **Advanced Filter/Sort** window. You can remove these old criteria by using the **Filter** event.
     
 - Enter default settings for the new filter. To do this, set the **Filter** property or **ServerFilter** property to include these criteria. For example, you may want all filters for a **Products** report to display only current products (products for which the **Discontinued** control in the **Products** report is not selected).
     

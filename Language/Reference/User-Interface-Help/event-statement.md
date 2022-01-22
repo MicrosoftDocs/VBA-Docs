@@ -57,7 +57,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can declare event arguments just as you do arguments of procedures, with the following exceptions: events cannot have named arguments, **Optional** arguments, or **ParamArray** arguments. Events do not have return values.
+> You can declare event arguments just as you do arguments of procedures, with the following exceptions: events cannot have named arguments, **Optional** arguments, or **ParamArray** arguments. Events don't have return values.
 
 
 ## Example

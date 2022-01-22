@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Modal property (Access)
 
-You can use the **Modal** property to specify whether a report opens as a modal window. When a report opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
+Use the **Modal** property to specify whether a report opens as a modal window. When a report opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
 
 
 ## Syntax

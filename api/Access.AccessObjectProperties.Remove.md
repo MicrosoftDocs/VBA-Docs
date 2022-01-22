@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccessObjectProperties.Remove method (Access)
 
-You can use the **Remove** method to remove an **[AccessObjectProperty](access.accessobjectproperty.md)** object from the **AccessObjectProperties** collection of an **[AccessObject](Access.AccessObject.md)** object.
+Use the **Remove** method to remove an **[AccessObjectProperty](access.accessobjectproperty.md)** object from the **AccessObjectProperties** collection of an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Syntax

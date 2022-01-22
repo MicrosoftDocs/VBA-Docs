@@ -21,7 +21,7 @@ You can customize the **Toolbox** by adding pages to it or by adding controls by
 |Button|Icon|Description|
 |:-----|:---|:----------|
 |**Select Objects**|![Standard toolbox controls](../../../images/tb_pntr_ZA01201663.gif)| **Select Objects** is the only item in the **Toolbox** that doesn't draw a control. When you select it, you can only resize or move a control that has already been drawn on a form.|
-|**Label**|![Label](../../../images/tb_label_ZA01201660.gif) |Allows you to have text that you do not want the user to change, such as a caption under a graphic.|
+|**Label**|![Label](../../../images/tb_label_ZA01201660.gif) |Allows you to have text that you don't want the user to change, such as a caption under a graphic.|
 |**TextBox**|![Text box](../../../images/avhtb005_ZA01201581.gif)|Holds text that the user can either enter or change.|
 |**ComboBox**|![Combo box](../../../images/avhtb001_ZA01201577.gif) |Allows you to draw a combination list box and text box. The user can either choose an item from the list or enter a value in the text box.|
 |**ListBox**|![List box](../../../images/avhtb004_ZA01201580.gif)|Use to display a list of items from which the user can choose. The list can be scrolled if it has more items than can be displayed at one time.|

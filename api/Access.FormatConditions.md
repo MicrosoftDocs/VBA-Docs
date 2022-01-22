@@ -21,7 +21,7 @@ The **FormatConditions** collection represents the collection of conditional for
 
 Use the **FormatConditions** property of a combo box or text box in Visual Basic or in an expression to return a **FormatConditions** collection. Use the **Add** method to create a new conditional format, and use the **[Modify](Access.FormatCondition.Modify.md)** method to change an existing conditional format.
 
-You can use the **Modify** method to change one of the formats, or the **Delete** method to delete a format.
+Use the **Modify** method to change one of the formats, or the **Delete** method to delete a format.
 
 
 ## Methods

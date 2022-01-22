@@ -38,7 +38,7 @@ You can drag selected text to:
 
 ## Keyboard shortcuts
 
-You can use the following shortcut keys to access commands in the Code window.
+Use the following shortcut keys to access commands in the Code window.
 
 |Description|Shortcut keys|
 |:-----|:-----|

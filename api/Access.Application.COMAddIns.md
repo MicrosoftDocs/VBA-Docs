@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.COMAddIns property (Access)
 
-You can use the **COMAddIns** property to return a reference to the current **COMAddIns** collection object and its related properties. Read-only **COMAddIns** object.
+Use the **COMAddIns** property to return a reference to the current **COMAddIns** collection object and its related properties. Read-only **COMAddIns** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 ## Remarks
 
-The **COMAddIns** collection object is the collection of all currently registered COM add-ins of an application. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 1, and the total number of member objects in the collection is the value of the **COMAddIns** collection's **Count** property.
+The **COMAddIns** collection object is the collection of all currently registered COM add-ins of an application. Refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 1, and the total number of member objects in the collection is the value of the **COMAddIns** collection's **Count** property.
 
 After you establish a reference to the **COMAddIns** collection object, you can access all the properties and methods of the object. You can set a reference to the **COMAddIns** collection object by clicking **References** on the **Tools** menu while in module Design view. You can then set a reference to the Microsoft Office 12.0 Object Library in the **References** dialog box by selecting the appropriate check box. 
 

@@ -39,7 +39,7 @@ For i = 1 To 7
 Next i
 ```
 
-This example displays a message if the active cell on Sheet1 contains a cell error value. You can use this example as a framework for a cell-error-value error handler.
+This example displays a message if the active cell on Sheet1 contains a cell error value. Use this example as a framework for a cell-error-value error handler.
 
 
 

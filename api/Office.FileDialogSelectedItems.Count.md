@@ -64,7 +64,7 @@ Sub Main()
  For cnt = 0 To .SelectedItems.Count - 1 
  
  'vrtSelectedItem is aString that contains the path of each selected item. 
- 'You can use any file I/O functions that you want to work with this path. 
+ 'Use any file I/O functions that you want to work with this path. 
  'This example displays the path in a message box. 
  MsgBox "Selected item's path: " & vrtSelectedItem(cnt) 
  

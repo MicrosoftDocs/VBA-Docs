@@ -46,7 +46,7 @@ The **WindowHandle32** property of an **Application** object returns one of the 
 
 Use the **WindowHandle32** property of the **Window** object to obtain the **HWND** for a window in the **Windows** collection of a Visio instance.
 
-You can use the obtained **HWND** in Windows API calls.
+Use the obtained **HWND** in Windows API calls.
 
 
 > [!NOTE] 

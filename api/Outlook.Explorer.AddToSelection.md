@@ -60,7 +60,7 @@ The following table illustrates the results of calling **AddToSelection**, takin
 
 If the specified item is already selected in the active explorer, calling **AddToSelection** does not result in any change to the selection, and the **SelectionChange** event does not fire.
 
-When you specify an item in a recurring appointment or task as an argument to the **AddToSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences by using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you pass an instance variable that represents the appointment or task series, and the **AddToSelection** method operates on the series instead of the occurrence.
+When you specify an item in a recurring appointment or task as an argument to the **AddToSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences by using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you don't expand the recurrences and obtain an occurrence in the series, you pass an instance variable that represents the appointment or task series, and the **AddToSelection** method operates on the series instead of the occurrence.
 
 Note that you can use **AddToSelection** to add items to a selection, but you cannot add conversation headers to a selection.
 

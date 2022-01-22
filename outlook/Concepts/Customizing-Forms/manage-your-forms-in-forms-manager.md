@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Manage Your Forms in Forms Manager
 
-You can use **Forms Manager** to view and organize all of your published forms.
+Use **Forms Manager** to view and organize all of your published forms.
 
 
  **Note** Forms that are customized with form regions are registered in the Windows registry instead of published; you cannot view them in **Forms Manager**. For more information, see [Form Regions](../Outlook-Forms/form-regions.md) and [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).

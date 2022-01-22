@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **ShowToolbar** method to display or hide a custom toolbar.
+Use the **ShowToolbar** method to display or hide a custom toolbar.
 
 If you want to show a particular toolbar on just one form or report, you can set the **OnActivate** property of the form or report to the name of a macro that contains a ShowToolbar action to show the toolbar. You can then set the **OnDeactivate** property of the form or report to the name of a macro that contains a ShowToolbar action to hide the toolbar.
 

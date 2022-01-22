@@ -27,6 +27,6 @@ To remove a picture that is assigned to a control, click the value of the **Pict
 
 Use the **[PictureSizeMode](Outlook.page.picturesizemode.md)** property to determine how the picture fills the object.
 
-Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images. **[Image](Outlook.image.md)** supports opaque images.
+Transparent pictures sometimes have a hazy appearance. If you don't like this appearance, display the picture on a control that supports opaque images. **[Image](Outlook.image.md)** supports opaque images.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

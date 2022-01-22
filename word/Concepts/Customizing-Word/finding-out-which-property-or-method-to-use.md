@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Finding Out Which Property or Method to Use
 
-You can use the macro recorder to learn which methods or properties you need to accomplish a task in Word. The macro recorder is a tool that translates your actions into Visual Basic instructions. For example, if you turn on the macro recorder and open a document named "Examples.doc", the macro recorder records an instruction similar to the following.
+Use the macro recorder to learn which methods or properties you need to accomplish a task in Word. The macro recorder is a tool that translates your actions into Visual Basic instructions. For example, if you turn on the macro recorder and open a document named "Examples.doc", the macro recorder records an instruction similar to the following.
 
 
 ```vb

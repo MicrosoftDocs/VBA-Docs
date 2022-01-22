@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.ScreenTip property (Access)
 
-You can use the **ScreenTip** property to specify or determine the text that is displayed when you move the cursor over a hyperlink control. Read/write **String**.
+Use the **ScreenTip** property to specify or determine the text that is displayed when you move the cursor over a hyperlink control. Read/write **String**.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ Adds existing [modules](../../Glossary/vbe-glossary.md#module) and forms to your
 |Command|Description|Toolbar button|Keyboard shortcut|
 |:------|:----------|:-------------|:----------------|
 |**Make `<Project>`**|Opens the **Make Project** dialog box so that you can build your project into a DLL.| | |
-|**New Project** |Displays the **[New Project](new-project-dialog-box.md)** dialog box where you choose the type of [project](../../Glossary/vbe-glossary.md#project) that you want to create. If there is currently another project open when you create a new project, you will be prompted to save your work.<br/><br/>Available only at [design time](../../Glossary/vbe-glossary.md#design-time).| | |
+|**New Project** |Displays the **[New Project](new-project-dialog-box.md)** dialog box where you choose the type of [project](../../Glossary/vbe-glossary.md#project) that you want to create. If there is currently another project open when you create a new project, you'll be prompted to save your work.<br/><br/>Available only at [design time](../../Glossary/vbe-glossary.md#design-time).| | |
 |**Open Project** |Closes the current project or group project, if one is loaded, and opens an existing project or group of projects. You can open as many projects as your system resources permit.|![Open Project Toolbar button](../../../images/tbr_open_ZA01201720.gif) | CTRL+O |
 
 ## Print

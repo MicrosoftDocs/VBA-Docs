@@ -23,7 +23,7 @@ Use the **[Shape.TextFrame](Publisher.Shape.TextFrame.md)** property to return t
 The **TextRange** property returns a **[TextRange](Publisher.TextRange.md)** object that represents the range of text inside the specified text frame. 
 
 > [!NOTE] 
-> Some shapes do not support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
+> Some shapes don't support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
 
 Text frames can be linked together so that the text flows from the text frame of one shape into the text frame of another shape. Use the **NextLinkedTextFrame** and **PreviousLinkedTextFrame** properties to link text frames. 
 

@@ -31,13 +31,13 @@ Nothing
 
 ## Remarks
 
-Microsoft Access sometimes waits to complete pending screen updates until it finishes other tasks. With the **Repaint** method, you can force immediate repainting of the controls on the specified form. You can use the **Repaint** method:
+Microsoft Access sometimes waits to complete pending screen updates until it finishes other tasks. With the **Repaint** method, you can force immediate repainting of the controls on the specified form. Use the **Repaint** method:
 
 - When you change values in a number of fields. Unless you force a repaint, Access might not display the changes immediately, especially if other fields, such as those in an expression in a calculated control, depend on values in the changed fields.
     
 - When you want to make sure that a form displays data in all of its fields. For example, fields containing OLE objects often don't display their data immediately after you open a form.
     
-This method doesn't cause a requery of the database, nor does it show new or changed records in the form's underlying record source. You can use the **[Requery](Access.Form.Requery.md)** method to requery the source of data for the form or one of its controls.
+This method doesn't cause a requery of the database, nor does it show new or changed records in the form's underlying record source. Use the **[Requery](Access.Form.Requery.md)** method to requery the source of data for the form or one of its controls.
 
 > [!NOTE] 
 > - Don't confuse the **Repaint** method with the **[Refresh](Access.Form.Refresh.md)** method, or with the **Refresh** command on the **Records** menu. The **Refresh** method and the **Refresh** command show changes that you or other users have made to the underlying record source for any of the currently displayed records in forms and datasheets. The **Repaint** method simply updates the screen when repainting has been delayed while Access completes other tasks.

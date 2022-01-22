@@ -30,7 +30,7 @@ The Visual Basic object library file name is constructed as follows:
 If you can't find a missing project or object library on your system, contact the [referencing project's](../../Glossary/vbe-glossary.md#referencing-project) author. If the missing library is a Microsoft application object library, you can obtain it as follows:
 
 
-- If you have access to Microsoft electronic technical support services, refer to the technical support section of this Help file. Under electronic services, you will find instructions on how to use the appropriate service option.
+- If you have access to Microsoft electronic technical support services, refer to the technical support section of this Help file. Under electronic services, you'll find instructions on how to use the appropriate service option.
     
 - If you don't have access to Microsoft electronic technical support services, Microsoft object libraries are available upon request as an application note from Microsoft. Information on how to contact your local Microsoft product support organization is also available in the technical support section of this Help file.
     

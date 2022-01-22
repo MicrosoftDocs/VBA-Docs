@@ -31,7 +31,7 @@ The **Choose** function syntax has these parts:
 
 **Choose** returns a value from the list of choices based on the value of _index_. If _index_ is 1, **Choose** returns the first choice in the list; if _index_ is 2, it returns the second choice, and so on.
 
-You can use **Choose** to look up a value in a list of possibilities. For example, if _index_ evaluates to 3 and _choice-1_ = "one", _choice-2_ = "two", and _choice-3_ = "three", **Choose** returns "three". This capability is particularly useful if _index_ represents the value in an option group.
+Use **Choose** to look up a value in a list of possibilities. For example, if _index_ evaluates to 3 and _choice-1_ = "one", _choice-2_ = "two", and _choice-3_ = "three", **Choose** returns "three". This capability is particularly useful if _index_ represents the value in an option group.
 
 **Choose** evaluates every choice in the list, even though it returns only one. For this reason, you should watch for undesirable side effects. For example, if you use the **MsgBox** function as part of an [expression](../../Glossary/vbe-glossary.md#expression) in all the choices, a message box will be displayed for each choice as it is evaluated, even though **Choose** returns the value of only one of them.
 

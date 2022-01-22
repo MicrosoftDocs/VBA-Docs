@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.PaletteSource property (Access)
 
-You can use the **PaletteSource** property to specify the palette for a form. Read/write **String**.
+Use the **PaletteSource** property to specify the palette for a form. Read/write **String**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.ListIndex property (Access)
 
-You can use the **ListIndex** property to determine which item is selected in a combo box. Read-only **Long**.
+Use the **ListIndex** property to determine which item is selected in a combo box. Read-only **Long**.
 
 
 ## Syntax

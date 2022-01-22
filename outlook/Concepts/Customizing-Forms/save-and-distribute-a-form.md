@@ -37,7 +37,7 @@ For more information, see the following topics:
     
   - **Organizational Forms Library**. Forms saved in this library are accessible to everyone in your organization and are stored on the server. You must have write permission to save to the server. For more information, see your administrator. Use this library when you want to make the form available to everyone in your organization, such as a form to report vacation time. Saving to this library provides a quick and easy way to distribute and update forms.
     
-- Save the form as a file. Use this option when you want to work with the form in another program or you want to save the form as a template, and you do not plan to share the form with others, or you want to send the form to others by using email.
+- Save the form as a file. Use this option when you want to work with the form in another program or you want to save the form as a template, and you don't plan to share the form with others, or you want to send the form to others by using email.
     
 For more information, see the following topics:
 

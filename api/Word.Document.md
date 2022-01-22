@@ -32,7 +32,7 @@ The index number represents the position of the document in the **Documents** co
 Documents(1).Activate
 ```
 
-You can use the **[ActiveDocument](Word.Application.ActiveDocument.md)** property to refer to the document with the focus. The following example uses the **[Activate](Word.Document.Activate.md)** method to activate the document named Document 1. The example also sets the page orientation to landscape mode and then prints the document.
+Use the **[ActiveDocument](Word.Application.ActiveDocument.md)** property to refer to the document with the focus. The following example uses the **[Activate](Word.Document.Activate.md)** method to activate the document named Document 1. The example also sets the page orientation to landscape mode and then prints the document.
 
 ```vb
 Documents("Document1").Activate

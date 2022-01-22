@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetGridlinesColor property (Access)
 
-You can use the **DatasheetGridlinesColor** property to specify the color of gridlines in a datasheet. Read/write **Long**.
+Use the **DatasheetGridlinesColor** property to specify the color of gridlines in a datasheet. Read/write **Long**.
 
 
 ## Syntax

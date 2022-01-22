@@ -32,7 +32,7 @@ End Sub
 
 ## Remarks
 
-You can use the DOCVARIABLE field to insert a document variable into a document.
+Use the DOCVARIABLE field to insert a document variable into a document.
 
 ## Document properties
 
@@ -51,7 +51,7 @@ End Sub
 
 Built-in document properties cannot be added to the **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](../../../api/Word.Document.md)** object or **[Template](../../../api/Word.Template.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
 
-You can use the DOCPROPERTY field to insert document properties into a document.
+Use the DOCPROPERTY field to insert document properties into a document.
 
 ## AutoText entries
 
@@ -85,7 +85,7 @@ After running the above instruction, the Macro.ini file includes the following t
 DocNum=1
 ```
 
-The **PrivateProfileString** property has three arguments: _FileName_, _Section_, and _Key_. The _FileName_ argument is used to specify a settings file path and file name. The _Section_ argument specifies the section name that appears between brackets before the associated keys (do not include the brackets with the section name). The _Key_ argument specifies the key name, which is followed by an equal sign (=) and the setting.
+The **PrivateProfileString** property has three arguments: _FileName_, _Section_, and _Key_. The _FileName_ argument is used to specify a settings file path and file name. The _Section_ argument specifies the section name that appears between brackets before the associated keys (don't include the brackets with the section name). The _Key_ argument specifies the key name, which is followed by an equal sign (=) and the setting.
 
 Use the same **PrivateProfileString** property to retrieve a setting from a settings file. The following example retrieves the DocNum setting under the DocTracker section in the Macro.ini file.
 

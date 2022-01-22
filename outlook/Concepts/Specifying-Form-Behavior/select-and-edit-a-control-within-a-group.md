@@ -15,7 +15,7 @@ ms.localizationpriority: medium
     
 3. Make the changes that you want to the selected control properties. Any change you make affects only the selected control. 
     
-4. When you are finished, click anywhere in the group, but do not click the selected control. The group is still selected. 
+4. When you are finished, click anywhere in the group, but don't click the selected control. The group is still selected. 
     
 5. Select another control in the group, or continue to another task.
 

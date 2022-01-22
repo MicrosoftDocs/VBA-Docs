@@ -39,7 +39,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 the **ProjectBeforeAssignmentDelete2** event also fires when assigning a resource to a task with no resource assignments, because an "Unassigned Resource" assignment is removed before the new assignment is created.
 
-Project events do not occur when the project is embedded in another document or application. 
+Project events don't occur when the project is embedded in another document or application. 
 
 the **ProjectBeforeAssignmentDelete2** event doesn't occur when an assignment is deleted as the result of a drag-and-drop operation in the **Resource Usage** view, or when changes have been made using a custom form.
 

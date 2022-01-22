@@ -22,7 +22,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Remarks
 
-You can use the same properties and methods of the [MailItem](Outlook.MailItem.md) object on this item, except for the following:
+Use the same properties and methods of the [MailItem](Outlook.MailItem.md) object on this item, except for the following:
 
 
 - [MailItem.Actions](Outlook.MailItem.Actions.md) property

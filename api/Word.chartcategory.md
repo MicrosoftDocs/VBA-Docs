@@ -17,7 +17,7 @@ Represents all chart categories in the document, whether visible (unfiltered) or
 
 ## Remarks
 
-You can use the [IsFiltered](Word.chartcategory.isfiltered.md) property to determine which categories are visible and which are filtered out.
+Use the [IsFiltered](Word.chartcategory.isfiltered.md) property to determine which categories are visible and which are filtered out.
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

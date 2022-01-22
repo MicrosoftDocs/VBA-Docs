@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CreateControl method (Access)
 
-The **CreateControl** method creates a control on a specified open form. For example, suppose you are building a custom wizard that allows users to easily construct a particular form. You can use the **CreateControl** method in your wizard to add the appropriate controls to the form.
+The **CreateControl** method creates a control on a specified open form. For example, suppose you are building a custom wizard that allows users to easily construct a particular form. Use the **CreateControl** method in your wizard to add the appropriate controls to the form.
 
 
 ## Syntax
@@ -43,9 +43,9 @@ Control
 
 ## Remarks
 
-You can use the **CreateControl** and **CreateReportControl** methods in a custom wizard to create controls on a form or report. Both methods return a **[Control](Access.Control.md)** object.
+Use the **CreateControl** and **CreateReportControl** methods in a custom wizard to create controls on a form or report. Both methods return a **[Control](Access.Control.md)** object.
 
-You can use the **CreateControl** and **CreateReportControl** methods only in form Design view or report Design view, respectively.
+Use the **CreateControl** and **CreateReportControl** methods only in form Design view or report Design view, respectively.
 
 You use the _Parent_ argument to identify the relationship between a main control and a subordinate control. For example, if a text box has an attached label, the text box is the main (or parent) control and the label is the subordinate (or child) control. When you create the label control, set its _Parent_ argument to a string identifying the name of the parent control. When you create the text box, set its _Parent_ argument to a zero-length string.
 

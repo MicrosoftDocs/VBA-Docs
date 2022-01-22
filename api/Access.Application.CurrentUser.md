@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CurrentUser method (Access)
 
-You can use the **CurrentUser** method to return the name of the current user of the database.
+Use the **CurrentUser** method to return the name of the current user of the database.
 
 
 ## Syntax

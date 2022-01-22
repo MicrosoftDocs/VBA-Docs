@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Screen property (Access)
 
-You can use the **Screen** property to return a reference the **[Screen](Access.Screen.md)** object and its related properties. Read-only.
+Use the **Screen** property to return a reference the **[Screen](Access.Screen.md)** object and its related properties. Read-only.
 
 
 ## Syntax

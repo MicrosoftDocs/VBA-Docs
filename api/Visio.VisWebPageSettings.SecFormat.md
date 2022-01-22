@@ -43,7 +43,7 @@ This value corresponds to the value selected in the list below the **Provide alt
 
 ## Example
 
-The following macro shows how to use the **SecFormat** property to set the secondary format value to JPG for browsers that do not support the primary format of XAML (the default).
+The following macro shows how to use the **SecFormat** property to set the secondary format value to JPG for browsers that don't support the primary format of XAML (the default).
 
 Before running this macro, replace `path\filename.htm` with a valid target path on your computer and the filename that you want to assign to your webpage.
 

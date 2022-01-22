@@ -48,7 +48,7 @@ For files opened in **Random** mode, the following rules apply:
 - If the variable being written is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) of a [numeric type](../../Glossary/vbe-glossary.md#numeric-type), **Put** writes 2 bytes identifying the **VarType** of the **Variant** and then writes the variable. For example, when writing a **Variant** of **VarType** 3, **Put** writes 6 bytes: 2 bytes identifying the **Variant** as **VarType** 3 (**Long**) and 4 bytes containing the **Long** data. The record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual number of bytes required to store the variable.
     
   > [!NOTE] 
-  > You can use the **Put** statement to write a **Variant**[array](../../Glossary/vbe-glossary.md#array) to disk, but you can't use **Put** to write a scalar **Variant** containing an array to disk. You also can't use **Put** to write objects to disk.
+  > Use the **Put** statement to write a **Variant**[array](../../Glossary/vbe-glossary.md#array) to disk, but you can't use **Put** to write a scalar **Variant** containing an array to disk. You also can't use **Put** to write objects to disk.
 
 - If the variable being written is a **Variant** of **VarType** 8 (**String**), **Put** writes 2 bytes identifying the **VarType**, 2 bytes indicating the length of the string, and then writes the string data. The record length specified by the **Len** clause in the **Open** statement must be at least 4 bytes greater than the actual length of the string.
     

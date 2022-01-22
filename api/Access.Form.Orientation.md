@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Orientation property (Access)
 
-You can use the **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
+Use the **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 
 
 ## Syntax

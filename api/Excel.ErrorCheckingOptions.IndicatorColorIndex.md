@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[ErrorCheckingOptions](Excel.ErrorC
 
 ## Remarks
 
-You can specify a particular color for the indicator by entering the corresponding index value. You can use the **Colors** property to return the current color palette.
+You can specify a particular color for the indicator by entering the corresponding index value. Use the **Colors** property to return the current color palette.
 
 
 ## Example

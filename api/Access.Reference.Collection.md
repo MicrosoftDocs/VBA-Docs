@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Reference](Access.Reference.md)** o
 
 ## Remarks
 
-You can use the **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **Reference** object returns an object reference to the **References** collection.
+Use the **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **Reference** object returns an object reference to the **References** collection.
 
 The **Collection** property is similar to the **Parent** property.
 

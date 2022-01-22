@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.SourceDoc property (Access)
 
-You can use the **SourceDoc** property to specify the file to create a link to or to embed when you create a linked object or embedded object by using the **Action** property in Visual Basic. Read/write **String**.
+Use the **SourceDoc** property to specify the file to create a link to or to embed when you create a linked object or embedded object by using the **Action** property in Visual Basic. Read/write **String**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ For a linked object, enter the full path and file name of the file to create a l
 
 While this property appears in the property sheet, it takes effect only after the **Action** property is set in a macro or by using Visual Basic.
 
-You can use the **SourceDoc** property to specify the file to create a link to, and you can use the control's **SourceItem** property to specify the data within that file. If you want to create a link to the entire object, leave the **SourceItem** property blank.
+Use the **SourceDoc** property to specify the file to create a link to, and you can use the control's **SourceItem** property to specify the data within that file. If you want to create a link to the entire object, leave the **SourceItem** property blank.
 
 When a linked unbound object is created, the control's **SourceItem** property setting is concatenated with its **SourceItem** property setting. In Form view, Datasheet view, and Print Preview, the control's **SourceItem** property setting is a zero-length string (`" "`). 
 

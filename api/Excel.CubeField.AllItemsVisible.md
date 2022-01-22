@@ -32,7 +32,7 @@ For OLAP PivotTables, this property is only available for the **CubeField** obje
 
 For PivotTables, this property is available for the **PivotField** object.
 
-This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
+This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It's automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
 
 
 

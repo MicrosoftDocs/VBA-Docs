@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Chart.ChartWizard method (PowerPoint)
 
-Modifies the properties of the given chart. You can use this method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties.
+Modifies the properties of the given chart. Use this method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties.
 
 ## Syntax
 

@@ -16,7 +16,7 @@ ms.localizationpriority: high
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs if you do not specify any destination field names when you create a query. Select at least one destination field.
+This error occurs if you don't specify any destination field names when you create a query. Select at least one destination field.
 
 ## See also
 

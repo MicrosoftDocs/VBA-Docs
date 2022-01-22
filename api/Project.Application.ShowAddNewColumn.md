@@ -39,7 +39,7 @@ _expression_. `ShowAddNewColumn`( `_Show_` )
 
 ## Remarks
 
-The **ShowAddNewColumn** method does not apply to views that do not use tables, such as the following: Network Diagram (PERT chart), Task Entry, Resource Entry, Calendar, or Timeline.
+The **ShowAddNewColumn** method does not apply to views that don't use tables, such as the following: Network Diagram (PERT chart), Task Entry, Resource Entry, Calendar, or Timeline.
 
 If a view uses a table, you can set individual views to show the **Add New Column** column. To open the **Table Definition** dialog box for a view, do the following on the **VIEW** ribbon:
 

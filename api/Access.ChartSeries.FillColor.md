@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 Returns or sets the fill color of a series visualization. Read/write **String**.
 
-You can use a **[system color constant](../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example.
+Use a **[system color constant](../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example.
 
 
 ## Syntax

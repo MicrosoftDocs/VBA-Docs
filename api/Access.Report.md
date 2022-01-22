@@ -19,7 +19,7 @@ A **Report** object refers to a particular Microsoft Access report.
 
 ## Remarks
 
-A **Report** object is a member of the **[Reports](access.reports.md)** collection, which is a collection of all currently open reports. Within the **Reports** collection, individual reports are indexed beginning with zero. You can refer to an individual **Report** object in the **Reports** collection either by referring to the report by name, or by referring to its index within the collection. If the report name includes a space, the name must be surrounded by brackets ([ ]).
+A **Report** object is a member of the **[Reports](access.reports.md)** collection, which is a collection of all currently open reports. Within the **Reports** collection, individual reports are indexed beginning with zero. Refer to an individual **Report** object in the **Reports** collection either by referring to the report by name, or by referring to its index within the collection. If the report name includes a space, the name must be surrounded by brackets ([ ]).
 
 |Syntax|Example|
 |:-----|:------|
@@ -29,7 +29,7 @@ A **Report** object is a member of the **[Reports](access.reports.md)** collecti
 |**Reports**(_index_)|Reports(0)|
 
 > [!NOTE]
-> Each **Report** object has a **Controls** collection, which contains all controls on the report. You can refer to a control on a report either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on a report called **OrderReport**. 
+> Each **Report** object has a **Controls** collection, which contains all controls on the report. Refer to a control on a report either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on a report called **OrderReport**. 
 
 ```vb
 ' Implicit reference. 

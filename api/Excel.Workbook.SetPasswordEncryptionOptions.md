@@ -57,7 +57,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> The code and this method do not do anything for the new Excel file formats (xlsx, xlsb, xlsm, etc.) because the workbook will always use AES 128-bit encryption. If a property is set by using this method, it appears set. When the file is reloaded, the properties are reset to the AES setting.
+> The code and this method don't do anything for the new Excel file formats (xlsx, xlsb, xlsm, etc.) because the workbook will always use AES 128-bit encryption. If a property is set by using this method, it appears set. When the file is reloaded, the properties are reset to the AES setting.
 
 
 

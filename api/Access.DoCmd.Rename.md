@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **Rename** method to rename a specified database object.
+Use the **Rename** method to rename a specified database object.
 
 If you leave the _ObjectType_ and _OldName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Access renames the object selected in the Database window. To select an object in the Database window, you can use the **SelectObject** method with the _InDatabaseWindow_ argument set to Yes (**True**).
 

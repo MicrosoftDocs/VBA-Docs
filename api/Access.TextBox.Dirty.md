@@ -48,7 +48,7 @@ Changing the data in a record by using the keyboard causes keyboard events to oc
 
 The **BeforeUpdate** and **AfterUpdate** events for a record occur after you enter the new or changed data in the record and move to another record (or choose **Save Record** on the **Records** menu), and therefore after the **Dirty** event for the record.
 
-Canceling the **Dirty** event will cause the changes to the current record to be rolled back. It is equivalent to pressing the Esc key.
+Canceling the **Dirty** event will cause the changes to the current record to be rolled back. It's equivalent to pressing the Esc key.
 
 
 ## Example

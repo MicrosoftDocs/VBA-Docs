@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.AllReports property (Access)
 
-You can use the **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
+Use the **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
 
 
 ## Syntax

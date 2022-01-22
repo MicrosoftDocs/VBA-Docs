@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OpenAccessProject method (Access)
 
-You can use the **OpenAccessProject** method to open an existing Microsoft Access project (.adp) as the current Access project in the Access window.
+Use the **OpenAccessProject** method to open an existing Microsoft Access project (.adp) as the current Access project in the Access window.
 
 
 ## Syntax

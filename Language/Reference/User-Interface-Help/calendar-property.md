@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 Returns or sets a value specifying the type of calendar to use with your [project](../../Glossary/vbe-glossary.md#project).
 
-You can use one of two settings for **Calendar**.
+Use one of two settings for **Calendar**.
 
 |Setting|Value|Description|
 |:-----|:-----|:-----|

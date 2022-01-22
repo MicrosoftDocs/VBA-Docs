@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the Primary property to specify the primary key field for a table. A primary key field holds data that uniquely identifies each record in a table.
+Use the Primary property to specify the primary key field for a table. A primary key field holds data that uniquely identifies each record in a table.
 
 ## Setting
 

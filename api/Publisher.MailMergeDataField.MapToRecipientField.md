@@ -32,9 +32,9 @@ _expression_ A variable that represents a **[MailMergeDataField](Publisher.MailM
 
 ## Remarks
 
-This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property to determine if the object has already been mapped.
+This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. Use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property to determine if the object has already been mapped.
 
-If you do not pass a value for the optional _bstrValue_ parameter, Microsoft Publisher assumes that the field to be mapped has the same name as the recipient field in the master data source to which it is mapped.
+If you don't pass a value for the optional _bstrValue_ parameter, Microsoft Publisher assumes that the field to be mapped has the same name as the recipient field in the master data source to which it is mapped.
 
 If you pass the name of a field that does not exist, Publisher returns an error. 
 

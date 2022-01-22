@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **Maximize** method to enlarge the active window so that it fills the Microsoft Access window. This action will allow you to see as much of the object in the active window as possible.
+Use the **Maximize** method to enlarge the active window so that it fills the Microsoft Access window. This action will allow you to see as much of the object in the active window as possible.
 
-You can use the **Restore** method to restore a maximized window to its previous size.
+Use the **Restore** method to restore a maximized window to its previous size.
 
 You may need to use the **SelectObject** method if the window that you want to maximize isn't the active window.
 

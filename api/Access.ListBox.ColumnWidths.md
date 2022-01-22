@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListBox.ColumnWidths property (Access)
 
-You can use the **ColumnWidths** property to specify the width of each column in a multiple-column list box. Read/write **String**.
+Use the **ColumnWidths** property to specify the width of each column in a multiple-column list box. Read/write **String**.
 
 
 ## Syntax

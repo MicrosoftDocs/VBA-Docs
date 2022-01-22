@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetFontWeight property (Access)
 
-You can use the **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
+Use the **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 
 ## Syntax
 

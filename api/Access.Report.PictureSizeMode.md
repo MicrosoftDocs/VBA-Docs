@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PictureSizeMode property (Access)
 
-You can use the **PictureSizeMode** property to specify how a picture for a form or report is sized. Read/write **Byte**.
+Use the **PictureSizeMode** property to specify how a picture for a form or report is sized. Read/write **Byte**.
 
 
 ## Syntax

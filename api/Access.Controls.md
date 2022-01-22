@@ -21,7 +21,7 @@ The **Controls** collection contains all of the controls on a form, report, or s
 
 You can enumerate individual controls, count them, and set their properties in the **Controls** collection. For example, you can enumerate the **Controls** collection of a particular form and set the **Height** property of each control to a specified value.
 
-It is faster to refer to the **Controls** collection implicitly, as in the following examples, which refer to a control called **NewData** on a form named **OrderForm**. Of the following syntax examples, `Me!NewData` is the fastest way to refer to the control.
+It's faster to refer to the **Controls** collection implicitly, as in the following examples, which refer to a control called **NewData** on a form named **OrderForm**. Of the following syntax examples, `Me!NewData` is the fastest way to refer to the control.
 
 ```vb
 Me!NewData               ' Or Forms!OrderForm!NewData.
@@ -69,7 +69,7 @@ Me.Controls(0)
 ```
 
 > [!NOTE] 
-> You can use the **Me** keyword to represent a form or report within code only if you are referring to the form or report from code within the form module or report module. If you are referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
+> Use the **Me** keyword to represent a form or report within code only if you are referring to the form or report from code within the form module or report module. If you are referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
 
 To work with the controls on a section of a form or report, use the **Section** property to return a reference to a **Section** object. You can then refer to the **Controls** collection of the **Section** object.
 

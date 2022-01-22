@@ -30,7 +30,7 @@ If you import data by using the user interface, data from a web query or a text 
 
 If you import data by using the object model, data from a web query or a text query must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **RefreshStyle** property.
+Use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **RefreshStyle** property.
 
 
 ## Example

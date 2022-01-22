@@ -14,7 +14,7 @@ ms.localizationpriority: high
 
 # DoCmd object (Access)
 
-You can use the methods of the **DoCmd** object to run Microsoft Office Access actions from Visual Basic. An action performs tasks such as closing windows, opening forms, and setting the value of controls.
+Use the methods of the **DoCmd** object to run Microsoft Office Access actions from Visual Basic. An action performs tasks such as closing windows, opening forms, and setting the value of controls.
 
 
 ## Remarks

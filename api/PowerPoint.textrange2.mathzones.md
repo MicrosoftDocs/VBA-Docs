@@ -30,7 +30,7 @@ _expression_. `MathZones`( `_Start_`, `_Length_` )
 
 ## Remarks
 
-A math zone is a text range within which math typography rules apply and outside of which math typography rules do not apply. In addition to containing special mathematical symbols, math zones can also contain text such as in the equation rate = distance/time where text appears with math symbols.
+A math zone is a text range within which math typography rules apply and outside of which math typography rules don't apply. In addition to containing special mathematical symbols, math zones can also contain text such as in the equation rate = distance/time where text appears with math symbols.
 
 
 ## See also

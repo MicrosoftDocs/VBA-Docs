@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Reference](Access.Reference.md)** o
 
 Every type library has an associated GUID that is stored in the Registry. When you set a reference to a type library, Microsoft Access uses the type library's GUID to identify the type library.
 
-You can use the **[AddFromGUID](Access.References.AddFromGuid.md)** method to create a **Reference** object from a type library's GUID.
+Use the **[AddFromGUID](Access.References.AddFromGuid.md)** method to create a **Reference** object from a type library's GUID.
 
 
 ## Example

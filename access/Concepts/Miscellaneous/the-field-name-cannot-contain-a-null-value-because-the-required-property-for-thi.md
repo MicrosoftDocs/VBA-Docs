@@ -27,7 +27,7 @@ A **Null** is a value you can enter in a field or use in expressions or queries 
 ## What is the required property?
 <a name="sectionSection1"> </a>
 
-You can use the **Required** property to specify whether a value is required in a field. If this property is set to **Yes**, when you enter data in a record, you must enter a value in the field or in any control bound to the field, and the value cannot be **Null**. For example, you might want to be sure that a LastName control has a value for each record.
+Use the **Required** property to specify whether a value is required in a field. If this property is set to **Yes**, when you enter data in a record, you must enter a value in the field or in any control bound to the field, and the value cannot be **Null**. For example, you might want to be sure that a LastName control has a value for each record.
 
 
 ## Solution
@@ -59,7 +59,7 @@ This problem has the following possible solutions:
 ## Setting the AllowZeroLength property
 <a name="sectionSection4"> </a>
 
-You can use the **Required** and **AllowZeroLength** properties to differentiate between information that does not exist (stored as a zero-length string (" ") in the field) and information that may exist but is unknown (stored as a **Null** value in the field). If you set the **AllowZeroLength** property to Yes, a zero-length string will be a valid entry in the field regardless of the **Required** property setting. If you set **Required** to **Yes** and **AllowZeroLength** to **No**, you must enter a value in the field, and a zero-length string will not be a valid entry.
+Use the **Required** and **AllowZeroLength** properties to differentiate between information that does not exist (stored as a zero-length string (" ") in the field) and information that may exist but is unknown (stored as a **Null** value in the field). If you set the **AllowZeroLength** property to Yes, a zero-length string will be a valid entry in the field regardless of the **Required** property setting. If you set **Required** to **Yes** and **AllowZeroLength** to **No**, you must enter a value in the field, and a zero-length string will not be a valid entry.
 
 The following table shows the results you can expect when you combine the settings of the **Required** and **AllowZeroLength** properties.
 

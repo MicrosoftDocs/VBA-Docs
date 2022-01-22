@@ -41,7 +41,7 @@ A Microsoft Visio instance fires **QueryCancelGroup** after the user has directe
 
 - If any event handler returns **True** (cancel), the instance fires **GroupCanceled** and does not group the shapes.
     
-- If all handlers return **False** (do not cancel), the grouping is performed.
+- If all handlers return **False** (don't cancel), the grouping is performed.
     
 
 

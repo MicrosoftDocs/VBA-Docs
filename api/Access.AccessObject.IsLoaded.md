@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccessObject.IsLoaded property (Access)
 
-You can use the **IsLoaded** property to determine if an **AccessObject** object is currently loaded. Read-only **Boolean**.
+Use the **IsLoaded** property to determine if an **AccessObject** object is currently loaded. Read-only **Boolean**.
 
 
 ## Syntax

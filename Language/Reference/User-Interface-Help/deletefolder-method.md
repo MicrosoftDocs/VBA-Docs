@@ -32,7 +32,7 @@ The **DeleteFolder** method syntax has these parts:
 
 ## Remarks
 
-The **DeleteFolder** method does not distinguish between folders that have contents and those that do not. The specified folder is deleted regardless of whether or not it has contents.
+The **DeleteFolder** method does not distinguish between folders that have contents and those that don't. The specified folder is deleted regardless of whether or not it has contents.
 
 An error occurs if no matching folders are found. The **DeleteFolder** method stops on the first error it encounters. No attempt is made to roll back or undo any changes that were made before an error occurred.
 

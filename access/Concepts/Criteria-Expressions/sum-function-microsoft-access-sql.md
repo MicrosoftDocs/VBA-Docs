@@ -35,7 +35,7 @@ Sum(UnitPrice * Quantity)
 AS [Total Revenue] FROM [Order Details];
 ```
 
-You can use the **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
+Use the **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
 
 
 ## Example

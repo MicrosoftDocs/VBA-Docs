@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-Use the **CreateLetterContent** method to return a **LetterContent** object, given various letter element properties. Use the **GetLetterContent** method to return a **LetterContent** object based on the contents of the specified document. You can use the resulting **LetterContent** object with the **RunLetterWizard** method to preset elements in the **Letter Wizard** dialog box.
+Use the **CreateLetterContent** method to return a **LetterContent** object, given various letter element properties. Use the **GetLetterContent** method to return a **LetterContent** object based on the contents of the specified document. Use the resulting **LetterContent** object with the **RunLetterWizard** method to preset elements in the **Letter Wizard** dialog box.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotCache](Excel.PivotCache.md)** 
 
 ## Remarks
 
-For file-based data sources (for example, Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (such as SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](Excel.PivotCache.Connection.md)** property is changed programmatically.
+For file-based data sources (for example, Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It's set to **Null** for server-based data sources (such as SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](Excel.PivotCache.Connection.md)** property is changed programmatically.
 
 
 ## Example

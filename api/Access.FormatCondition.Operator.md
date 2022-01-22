@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormatCondition.Operator property (Access)
 
-You can use the **Operator** property to return the operator value for the conditional format or data validation of a **FormatCondition** object. Read-only **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**.
+Use the **Operator** property to return the operator value for the conditional format or data validation of a **FormatCondition** object. Read-only **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**.
 
 
 ## Syntax

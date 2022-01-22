@@ -23,7 +23,7 @@ For information about the callback functions available for each UI element, sear
 
 ## Remarks
 
-You can customize the Ribbon user interface (UI) by using callback procedures in COM add-ins. When the host application starts, the **onLoad** callback procedure is called. The callback procedure then returns a **IRibbonUI** object pointing to the user interface (UI). You can use that object to invoke the **Invalidate**, **InvalidateControl**, and **Refresh** methods.
+You can customize the Ribbon user interface (UI) by using callback procedures in COM add-ins. When the host application starts, the **onLoad** callback procedure is called. The callback procedure then returns a **IRibbonUI** object pointing to the user interface (UI). Use that object to invoke the **Invalidate**, **InvalidateControl**, and **Refresh** methods.
 
 
 ## Example

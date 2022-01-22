@@ -39,7 +39,7 @@ The settings for _Boolean_ are:
 
 ## Remarks
 
-The **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
+The **Selected** property is useful when users can make multiple selections. Use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
 
 The default value of this property is based on the current selection state of the **ListBox**.
 

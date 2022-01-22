@@ -39,7 +39,7 @@ This method differs from the **[Select](Excel.Range.Select.md)** method in the f
     
 - This method has a _Scroll_ argument that lets you scroll through the destination window.
     
-- When you use the **Goto** method, the previous selection (before the **Goto** method runs) is added to the array of previous selections (for more information, see the **[PreviousSelections](Excel.Application.PreviousSelections.md)** property). You can use this feature to quickly jump between as many as four selections.
+- When you use the **Goto** method, the previous selection (before the **Goto** method runs) is added to the array of previous selections (for more information, see the **[PreviousSelections](Excel.Application.PreviousSelections.md)** property). Use this feature to quickly jump between as many as four selections.
     
 - The **Select** method has a _Replace_ argument; the **Goto** method doesn't.
     

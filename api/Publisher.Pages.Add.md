@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Pages](Publisher.Pages.md)** object
 |:-----|:-----|:-----|:-----|
 |_Count_|Required| **Long**|The number of new pages to add.|
 |_After_|Required| **Long**|The page index of the page after which to add the new pages. A zero for this argument adds new pages at the beginning of the publication.|
-| _DuplicateObjectsOnPage_|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: do not duplicate pages.|
+| _DuplicateObjectsOnPage_|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: don't duplicate pages.|
 |_AddHyperlinkToWebNavBar_|Optional| **Boolean**|Specifies whether links to the new pages are added to the automatic navigation bars of existing pages. If **True**, links to the new pages are added to the automatic navigation bars of existing pages only.<br/><br/> If **False**, links to the new pages are not added to the automatic navigation bars of existing pages or new pages added in the future. The default is **False**.|
 
 ## Return value

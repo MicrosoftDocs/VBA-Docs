@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OptionGroup.HideDuplicates property (Access)
 
-You can use the **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
+Use the **HideDuplicates** property to hide a control on a report when its value is the same as in the preceding record. Read/write **Boolean**.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ The **DefaultValue** property doesn't apply to check box, option button, or togg
 
 You can set the **HideDuplicates** property only in report Design view.
 
-You can use the **HideDuplicates** property to create a grouped report by using only the detail section rather than a group header and the detail section.
+Use the **HideDuplicates** property to create a grouped report by using only the detail section rather than a group header and the detail section.
 
 
 ## Example

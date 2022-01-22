@@ -26,7 +26,7 @@ If an option group is bound to a field, only the group frame itself is bound to 
 > [!NOTE] 
 > The **OptionValue** property is set to a number because the value of an option group can only be a number, not text. Access stores this number in the underlying table. 
 
-An option group can also be set to an expression, or it can be unbound. You can use an unbound option group in a custom dialog box to accept user input and then carry out an action based on that input.
+An option group can also be set to an expression, or it can be unbound. Use an unbound option group in a custom dialog box to accept user input and then carry out an action based on that input.
 
 
 ## Events

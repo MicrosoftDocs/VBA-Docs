@@ -38,7 +38,7 @@ The settings for _Boolean_ are:
 
 ## Remarks
 
-You can use the **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
+Use the **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
 
 ## See also
 

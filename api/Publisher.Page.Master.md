@@ -31,7 +31,7 @@ Page
 
 ## Remarks
 
-Master pages do not have a **Master** property. Any attempt to access the **Master** property of a master page results in a run-time error.
+Master pages don't have a **Master** property. Any attempt to access the **Master** property of a master page results in a run-time error.
 
 
 ## Example

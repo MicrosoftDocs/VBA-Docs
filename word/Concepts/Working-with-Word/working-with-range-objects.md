@@ -44,7 +44,7 @@ Sub SetBoldRange()
 End Sub
 ```
 
-When you need to refer to a **Range** object multiple times, you can use the **Set** statement to set a variable equal to the **Range** object. However, if you only need to perform a single action on a **Range** object, you do not need to store the object in a variable. The same result can be achieved using just one instruction that identifies the range and changes the **[Bold](../../../api/Word.Range.Bold.md)** property.
+When you need to refer to a **Range** object multiple times, you can use the **Set** statement to set a variable equal to the **Range** object. However, if you only need to perform a single action on a **Range** object, you don't need to store the object in a variable. The same result can be achieved using just one instruction that identifies the range and changes the **[Bold](../../../api/Word.Range.Bold.md)** property.
 
 
 

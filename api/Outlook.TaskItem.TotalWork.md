@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object
 
 ## Remarks
 
- **TotalWork** corresponds to the **Total work** field on the **Details** tab of a Task item. It is stored in units of minutes. The **Total work** field on the standard task form is bound to the **TotalWork** property; by default the field assumes an 8-hour day and 40-hour week.
+ **TotalWork** corresponds to the **Total work** field on the **Details** tab of a Task item. It's stored in units of minutes. The **Total work** field on the standard task form is bound to the **TotalWork** property; by default the field assumes an 8-hour day and 40-hour week.
 
 
 ## See also

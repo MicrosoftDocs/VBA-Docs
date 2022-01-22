@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.AllModules property (Access)
 
-You can use the **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
+Use the **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
 
 
 ## Syntax

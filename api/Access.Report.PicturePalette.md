@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PicturePalette property (Access)
 
-You can use the **PicturePalette** property to specify a palette to be used by a report. Read/write **Variant**.
+Use the **PicturePalette** property to specify a palette to be used by a report. Read/write **Variant**.
 
 
 ## Syntax

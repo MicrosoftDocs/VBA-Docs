@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 To run a macro or event procedure when this event occurs, set the **OnFilter** property to the name of the macro or to [Event Procedure].
 
-You can use the **Filter** event to:
+Use the **Filter** event to:
 
 - Remove any previous filter for the form. To do this, set the **Filter** or **ServerFilter** property of the form to a zero-length string (" ") in the **Filter** macro or event procedure. This is especially useful if you want to make sure that extraneous criteria don't appear in the new filter. For example, when you use the **Filter By Selection** feature, the criteria you use (the selected text in the form) is added to the **Filter** or **ServerFilter** property WHERE clause expression, and appears in both the **Filter By Form** window and the **Advanced Filter/Sort** window or the **Server Filter By Form** window. You can remove these old criteria by using the **Filter** event.
     

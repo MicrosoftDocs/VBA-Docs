@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **OutputTo** method to output the data in the specified Access database object (a datasheet, form, report, module, data access page) to several output formats.
+Use the **OutputTo** method to output the data in the specified Access database object (a datasheet, form, report, module, data access page) to several output formats.
 
 Modules can be output only in MS-DOS Text format, so if you specify **acOutputModule** for the _ObjectType_ argument, you must specify **acFormatTXT** for the _OutputFormat_ argument. Microsoft Internet Information Server and Microsoft ActiveX Server formats are available only for tables, queries, and forms, so if you specify **acFormatIIS** or **acFormatASP** for the _OutputFormat_ argument, you must specify **acOutputTable**, **acOutputQuery**, or **acOutputForm** for the _ObjectType_ argument.
 

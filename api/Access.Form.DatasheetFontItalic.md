@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetFontItalic property (Access)
 
-You can use the **DatasheetFontItalic** property to specify an italicized appearance for field names and data in Datasheet view. Read/write **Boolean**.
+Use the **DatasheetFontItalic** property to specify an italicized appearance for field names and data in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax

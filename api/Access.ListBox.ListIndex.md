@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListBox.ListIndex property (Access)
 
-You can use the **ListIndex** property to determine which item is selected in a list box. Read/write **Long**.
+Use the **ListIndex** property to determine which item is selected in a list box. Read/write **Long**.
 
 
 ## Syntax

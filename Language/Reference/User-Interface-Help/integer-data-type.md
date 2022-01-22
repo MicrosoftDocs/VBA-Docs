@@ -18,7 +18,7 @@ The [type-declaration character](../../Glossary/vbe-glossary.md#type-declaration
 
 You can also use **Integer** variables to represent enumerated values. An enumerated value can contain a finite set of unique whole numbers, each of which has special meaning in the context in which it is used. Enumerated values provide a convenient way to select among a known number of choices, for example, black = 0, white = 1, and so on. 
 
-It is a good programming practice to define [constants](../../Glossary/vbe-glossary.md#constant) by using the **[Const](const-statement.md)** statement for each enumerated value.
+It's a good programming practice to define [constants](../../Glossary/vbe-glossary.md#constant) by using the **[Const](const-statement.md)** statement for each enumerated value.
 
 ## See also
 

@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[ServerViewableItems](Excel.ServerVi
 
 ## Remarks
 
-If you do not want any of the objects in the **ServerViewableItems** collection to be viewable on the server, use this method to remove them all at once.
+If you don't want any of the objects in the **ServerViewableItems** collection to be viewable on the server, use this method to remove them all at once.
 
-If the **ServerViewableItems** collection does not contain at least one object, you will see the message "Unable to display specified named range or item" when viewing the workbook in Excel Services.
+If the **ServerViewableItems** collection does not contain at least one object, you'll see the message "Unable to display specified named range or item" when viewing the workbook in Excel Services.
 
 
 

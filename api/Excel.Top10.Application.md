@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Top10](Excel.Top10.md)** object.
 
 ## Remarks
 
-You can use this property with an OLE Automation object to return the application of that object.
+Use this property with an OLE Automation object to return the application of that object.
 
 
 

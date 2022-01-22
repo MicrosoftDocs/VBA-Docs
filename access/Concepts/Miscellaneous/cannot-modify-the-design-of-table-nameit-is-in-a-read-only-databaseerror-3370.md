@@ -1,5 +1,5 @@
 ---
-title: Cannot modify the design of table <name>. It is in a read-only database. (Error 3370)
+title: Cannot modify the design of table <name>. It's in a read-only database. (Error 3370)
 keywords: jeterr40.chm5003370
 f1_keywords:
 - jeterr40.chm5003370
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot modify the design of table <name>. It is in a read-only database. (Error 3370)
+# Cannot modify the design of table <name>. It's in a read-only database. (Error 3370)
 
   
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Forms property (Access)
 
-You can use the **Forms** property to return a read-only reference to the **[Forms](Access.Forms.md)** collection and its related properties.
+Use the **Forms** property to return a read-only reference to the **[Forms](Access.Forms.md)** collection and its related properties.
 
 ## Syntax
 

@@ -48,7 +48,7 @@ Sub TestShapeRangeValue()
     
     sRange.TextFrame2.AutoSize = msoAutoSizeShapeToFitText
         
-    sRange.Value(1).TextFrame2.TextRange.Text = "This is a test. It is only a test."
+    sRange.Value(1).TextFrame2.TextRange.Text = "This is a test. It's only a test."
     sRange(2).TextFrame2.TextRange.Text = "This is text box 2."
 End Sub
 ```

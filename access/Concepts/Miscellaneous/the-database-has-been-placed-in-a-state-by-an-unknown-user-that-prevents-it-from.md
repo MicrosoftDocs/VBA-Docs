@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs when the new passive shutdown/connection control is being used. This error indicates that another user set the database in a mode that will prevent other users from opening it. It is related to error #3734 and is used when the Microsoft Access database engine cannot determine which user invoked the passive shutdown/connection control.
+This error occurs when the new passive shutdown/connection control is being used. This error indicates that another user set the database in a mode that will prevent other users from opening it. It's related to error #3734 and is used when the Microsoft Access database engine cannot determine which user invoked the passive shutdown/connection control.
 
 ## See also
 

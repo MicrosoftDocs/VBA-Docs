@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-The array arguments must have the same dimensions. If they do not, **SumProduct** returns the #VALUE! error value.
+The array arguments must have the same dimensions. If they don't, **SumProduct** returns the #VALUE! error value.
     
 **SumProduct** treats array entries that are not numeric as if they were zeros.
     

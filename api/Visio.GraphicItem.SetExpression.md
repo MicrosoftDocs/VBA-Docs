@@ -55,7 +55,7 @@ The Field parameter should be one of the following values from the **VisGraphicF
 
 When you pass the **SetExpression** method a shape-data-item label (that is, when you pass **visGraphicPropertyLabel** for the Field parameter), you must enclose the label within curly braces ({}). For example, if you want to pass the name of the "Cost" shape-data item, you must write it like this: {Cost}.
 
-You can reference the shape data of a shape other than the one to which the data graphic is applied by passing the name of the shape followed by an exclamation point (!) and then the name of the field. For example, in the example shown below, to refer to the width of the shape named Ellipse.34, you could use the following syntax:
+Reference the shape data of a shape other than the one to which the data graphic is applied by passing the name of the shape followed by an exclamation point (!) and then the name of the field. For example, in the example shown below, to refer to the width of the shape named Ellipse.34, you could use the following syntax:
 
 
 

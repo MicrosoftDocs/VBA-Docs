@@ -96,7 +96,7 @@ Sub DemoPropertyAccessorSetProperties()
  PropNames = Array(prop1, prop2, prop3, prop4) 
  myValues = Array(1020, "111-222-Kudo", Now(), False) 
  'Set values with SetProperties call 
- 'If the properties do not exist, then SetProperties 
+ 'If the properties don't exist, then SetProperties 
  'adds the properties to the object when saved. 
  'The type of the property is the type of the element 
  'passed in myValues array. 

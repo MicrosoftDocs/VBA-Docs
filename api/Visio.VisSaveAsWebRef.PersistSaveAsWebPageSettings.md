@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 When a document is saved as a webpage with settings other than the default values described in the Save as Web Page API reference topics, selected settings are stored in the registry. These settings become the new default values until the properties are explicitly reset.
 
-For example, if you do not want your files organized in a subfolder (the default) but prefer that all files be organized as flat files, set the **StoreInFolder** property (or the **/folder** command-line option) to **False**. This setting becomes the default whenever you use the Save as Web Page feature.
+For example, if you don't want your files organized in a subfolder (the default) but prefer that all files be organized as flat files, set the **StoreInFolder** property (or the **/folder** command-line option) to **False**. This setting becomes the default whenever you use the Save as Web Page feature.
 
 This information is stored per user and is located in **HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Visio\Solution\SaveAsWeb**.
 

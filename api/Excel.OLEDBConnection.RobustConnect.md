@@ -31,7 +31,7 @@ If you use robust connectivity, when Microsoft Excel is unable to establish a co
 This provides robust connectivity in scenarios where an information technology department maintains and updates connections in a central place, permitting a user's workbook to automatically fetch those updates whenever the previous version of the connection (cached within the workbook) fails. 
 
 > [!NOTE] 
-> Robust connectivity isn't secure. If you create a connection on your computer and use it in a workbook and then send someone the workbook, that person will be able to see the path to the connection file on your computer. It is a good idea to remove the connection file information from the workbook before you send the workbook to someone else.
+> Robust connectivity isn't secure. If you create a connection on your computer and use it in a workbook and then send someone the workbook, that person will be able to see the path to the connection file on your computer. It's a good idea to remove the connection file information from the workbook before you send the workbook to someone else.
 
 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DoCmd.NavigateTo method (Access)
 
-You can use the **NavigateTo** method to control the display of database objects in the navigation pane. 
+Use the **NavigateTo** method to control the display of database objects in the navigation pane. 
 
 
 ## Syntax

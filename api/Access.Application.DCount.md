@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DCount method (Access)
 
-You can use the **DCount** function to determine the number of records that are in a specified set of records (a domain).
+Use the **DCount** function to determine the number of records that are in a specified set of records (a domain).
 
 
 ## Syntax
@@ -53,7 +53,7 @@ If you simply want to count all records in _domain_ without specifying any restr
 
 Use the **DCount** function when you must count records in a domain from within a code module or macro, or in a calculated control.
 
-You can use the **DCount** function to count the number of records containing a particular field that isn't in the record source on which your form or report is based. For example, you could display the number of orders in the Orders table in a calculated control on a form based on the Products table.
+Use the **DCount** function to count the number of records containing a particular field that isn't in the record source on which your form or report is based. For example, you could display the number of orders in the Orders table in a calculated control on a form based on the Products table.
 
 The **DCount** function doesn't count records that contain **Null** values in the field referenced by _expr_ unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, the **DCount** function calculates the total number of records, including those that contain **Null** fields. The following example calculates the number of records in an Orders table.
 

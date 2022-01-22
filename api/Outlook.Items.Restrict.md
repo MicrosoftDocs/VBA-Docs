@@ -222,7 +222,7 @@ sFilter = "[Categories] = 'Personal' And Not([CompanyName] = 'Microsoft')"
 
 ### Additional Notes
 
-If you are trying to use the **Find** or **Restrict** methods with user-defined fields, the fields must be defined in the folder, otherwise an error will occur. There is no way to perform a "contains" operation. For example, you cannot use **Find** or **Restrict** to search for items that have a particular word in the **Subject** field. Instead, you can use the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method, or you can loop through all of the items in the folder and use the **InStr** function to perform a search within a field. You can use the **Restrict** method to search for items that begin within a certain range of characters. For example, to search for all contacts with a last name beginning with the letter M, use this filter:
+If you are trying to use the **Find** or **Restrict** methods with user-defined fields, the fields must be defined in the folder, otherwise an error will occur. There is no way to perform a "contains" operation. For example, you cannot use **Find** or **Restrict** to search for items that have a particular word in the **Subject** field. Instead, you can use the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method, or you can loop through all of the items in the folder and use the **InStr** function to perform a search within a field. Use the **Restrict** method to search for items that begin within a certain range of characters. For example, to search for all contacts with a last name beginning with the letter M, use this filter:
 
 
 ```vb

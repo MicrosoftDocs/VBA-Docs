@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.TextToDisplay property (Access)
 
-You can use the **TextToDisplay** property to specify or determine the display text for a hyperlink. Read/write **String**.
+Use the **TextToDisplay** property to specify or determine the display text for a hyperlink. Read/write **String**.
 
 
 ## Syntax

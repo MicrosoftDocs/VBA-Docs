@@ -25,7 +25,7 @@ Use the **Remove** method or the RemoveTempVar macro action to delete a **TempVa
 
 Use the **RemoveAll** method or the RemoveAllTempVars macro action to delete all **TempVar** objects from the **TempVars** collection.
 
-The **TempVars** collection can store up to 255 **TempVar** objects. If you do not remove a **TempVar** object, it will remain in memory until you close the database. It is a good practice to remove **TempVar** object variables when you are finished using them.
+The **TempVars** collection can store up to 255 **TempVar** objects. If you don't remove a **TempVar** object, it will remain in memory until you close the database. It's a good practice to remove **TempVar** object variables when you are finished using them.
 
 To refer to a **TempVar** object in a collection by its ordinal number or by its **Name** property setting, use the following syntax form:
 

@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 Returns or sets the font color used by the primary values axis. Read/write **Long**.
 
-You can use a **[system color constant](../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example. You can also browse and select a color from the Design view palette.
+Use a **[system color constant](../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example. You can also browse and select a color from the Design view palette.
 
 
 ## Syntax

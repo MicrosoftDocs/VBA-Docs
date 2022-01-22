@@ -29,7 +29,7 @@ The **Import** syntax has these parts:
 
 ## Remarks
 
-You can use the **Import** method to add a component, [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), [class](../../Glossary/vbe-glossary.md#class), and so on, to your project.
+Use the **Import** method to add a component, [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), [class](../../Glossary/vbe-glossary.md#class), and so on, to your project.
 
 ## See also
 

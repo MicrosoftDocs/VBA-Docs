@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.DrawWidth property (Access)
 
-You can use the **DrawWidth** property to specify the line width for the **[Line](Access.Report.Line.md)**, **[Circle](Access.Report.Circle.md)**, and **[Pset](Access.Report.PSet.md)** methods to print lines on reports. Read/write **Integer**.
+Use the **DrawWidth** property to specify the line width for the **[Line](Access.Report.Line.md)**, **[Circle](Access.Report.Circle.md)**, and **[Pset](Access.Report.PSet.md)** methods to print lines on reports. Read/write **Integer**.
 
 
 ## Syntax

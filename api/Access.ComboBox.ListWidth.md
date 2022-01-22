@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.ListWidth property (Access)
 
-You can use the **ListWidth** property to set the width of the list box portion of a combo box. Read/write **String**.
+Use the **ListWidth** property to set the width of the list box portion of a combo box. Read/write **String**.
 
 
 ## Syntax

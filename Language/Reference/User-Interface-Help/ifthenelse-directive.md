@@ -40,7 +40,7 @@ The **#If...Then...#Else** directive syntax has these parts:
 
 The behavior of the **#If...Then...#Else** directive is the same as the **[If...Then...Else](ifthenelse-statement.md)** statement, except that there is no single-line form of the **#If**, **#Else**, **#ElseIf**, and **#End If** directives; that is, no other code can appear on the same line as any of the directives. 
 
-Conditional compilation is typically used to compile the same program for different platforms. It is also used to prevent debugging code from appearing in an executable file. Code excluded during conditional compilation is completely omitted from the final executable file, so it has no size or performance effect.
+Conditional compilation is typically used to compile the same program for different platforms. It's also used to prevent debugging code from appearing in an executable file. Code excluded during conditional compilation is completely omitted from the final executable file, so it has no size or performance effect.
 
 Regardless of the outcome of any evaluation, all expressions are evaluated. Therefore, all [constants](../../Glossary/vbe-glossary.md#constant) used in expressions must be defined—any undefined constant evaluates as [Empty](../../Glossary/vbe-glossary.md#empty).
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CodeProject property (Access)
 
-You can use the **CodeProject** property to access the **[CodeProject](Access.CodeProject.md)** object and its related collections, properties, and methods. Read-only **CodeProject** object.
+Use the **CodeProject** property to access the **[CodeProject](Access.CodeProject.md)** object and its related collections, properties, and methods. Read-only **CodeProject** object.
 
 
 ## Syntax

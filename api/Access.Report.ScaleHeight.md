@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.ScaleHeight property (Access)
 
-You can use the **ScaleHeight** property to specify the number of units for the vertical measurement of the page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
+Use the **ScaleHeight** property to specify the number of units for the vertical measurement of the page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The default setting is the internal height of a report page in [twips](../langua
 
 You can set the **ScaleHeight** property by using a macro or a [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) event procedure specified by a section's **OnPrint** property setting.
 
-You can use the **ScaleHeight** property to create a custom coordinate scale for drawing or printing. For example, the statement `ScaleHeight = 100` defines the internal height of the section as 100 units, or one vertical unit as one one-hundredth of the height.
+Use the **ScaleHeight** property to create a custom coordinate scale for drawing or printing. For example, the statement `ScaleHeight = 100` defines the internal height of the section as 100 units, or one vertical unit as one one-hundredth of the height.
 
 Use the **[ScaleMode](Access.Report.ScaleMode.md)** property to define a scale based on a standard unit of measurement, such as points, pixels, characters, inches, millimeters, or centimeters.
 

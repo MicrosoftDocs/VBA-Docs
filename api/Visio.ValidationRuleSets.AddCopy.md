@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[ValidationRuleSets](Visio.Validatio
 
 ## Remarks
 
-If you pass a value for the optional  _NameU_ parameter, both the **[Name](Visio.ValidationRuleSet.Name.md)** and **[NameU](Visio.ValidationRuleSet.NameU.md)** properties of the new rule set are assigned the value. If you do not pass a value, Microsoft Visio assigns the new rule set the local and universal name of the existing rule set. In that case, if you copy a rule set within a document, Visio overwrites the existing rule set. However, if you copy a rule set to another document, Visio adds a new rule set to the other document and leaves the existing rule set unchanged.
+If you pass a value for the optional  _NameU_ parameter, both the **[Name](Visio.ValidationRuleSet.Name.md)** and **[NameU](Visio.ValidationRuleSet.NameU.md)** properties of the new rule set are assigned the value. If you don't pass a value, Microsoft Visio assigns the new rule set the local and universal name of the existing rule set. In that case, if you copy a rule set within a document, Visio overwrites the existing rule set. However, if you copy a rule set to another document, Visio adds a new rule set to the other document and leaves the existing rule set unchanged.
 
 Similarly, if the value that you pass for the  _NameU_ matches the universal name of an existing rule set in the document, Visio overwrites the existing rule set.
 

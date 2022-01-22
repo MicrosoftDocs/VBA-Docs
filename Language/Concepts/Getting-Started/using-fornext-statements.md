@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Using For...Next statements
 
-You can use **[For...Next](../../reference/user-interface-help/fornext-statement.md)** statements to repeat a block of [statements](../../Glossary/vbe-glossary.md#statement) a specific number of times. **For** loops use a counter [variable](../../Glossary/vbe-glossary.md#variable) whose value is increased or decreased with each repetition of the loop.
+Use **[For...Next](../../reference/user-interface-help/fornext-statement.md)** statements to repeat a block of [statements](../../Glossary/vbe-glossary.md#statement) a specific number of times. **For** loops use a counter [variable](../../Glossary/vbe-glossary.md#variable) whose value is increased or decreased with each repetition of the loop.
 
 The following [procedure](../../Glossary/vbe-glossary.md#procedure) makes the computer beep 50 times. The **For** statement specifies the counter variable and its start and end values. The **Next** statement increments the counter variable by 1.
 

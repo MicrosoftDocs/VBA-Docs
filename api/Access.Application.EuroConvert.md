@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.EuroConvert method (Access)
 
-You can use the **EuroConvert** function to convert a number to euro, or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
+Use the **EuroConvert** function to convert a number to euro, or from euro to a participating currency. You can also use it to convert a number from one participating currency to another by using the euro as an intermediary (triangulation). The **EuroConvert** function uses fixed conversion rates established by the European Union.
 
 
 ## Syntax

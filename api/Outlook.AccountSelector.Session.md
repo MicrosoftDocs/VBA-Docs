@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSel
 
 Returns **Null** (**Nothing** in Visual Basic) if there is no logged-on session.
 
-You can use the **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method of the **[Application](Outlook.Application.md)** object interchangeably to obtain the **NameSpace** object for the current session.
+Use the **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method of the **[Application](Outlook.Application.md)** object interchangeably to obtain the **NameSpace** object for the current session.
 
 
 ## See also

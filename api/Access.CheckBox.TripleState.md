@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CheckBox.TripleState property (Access)
 
-You can use the **TripleState** property to specify how the specified control displays **Null** values. Read/write **Boolean**.
+Use the **TripleState** property to specify how the specified control displays **Null** values. Read/write **Boolean**.
 
 
 ## Syntax

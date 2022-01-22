@@ -23,7 +23,7 @@ In Project, a chart is represented by a **Chart** object, which is contained by 
 > [!NOTE] 
 > Macro recording for the **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.
 
-You can use the **[Shapes.AddChart](./Project.shapes.addchart.md)** method to add a chart to a report. To determine whether a **Shape** or a **ShapeRange** contains a chart, use the **HasChart** method.
+Use the **[Shapes.AddChart](./Project.shapes.addchart.md)** method to add a chart to a report. To determine whether a **Shape** or a **ShapeRange** contains a chart, use the **HasChart** method.
 
 The **Chart** object in Project does not implement events. So, a chart in Project cannot be animated to interact with mouse events or respond to events such as **Select** or **Calculate**, as it can in Excel.
 

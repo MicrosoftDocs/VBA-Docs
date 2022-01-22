@@ -12,7 +12,7 @@ You can specify localized versions of certain pieces of user interface in a form
 
 To support localized user interface for the same locale, specify the locale and the localized user interface under the **stringOverride** element in the form region manifest XML file. In general, if there is one or more locales that share the same localization strings, you can specify their locales and localized user interface under the same **stringOverride** element.
 
-Under the **stringOverride** element, you can specify the localization information in one of two ways: you can either specify it as values of child elements, or specify a localization file that contains the localization information. You will specify the **stringOverride** element in the form region manifest XML file that you will use when you register the form region in the Windows registry. For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+Under the **stringOverride** element, you can specify the localization information in one of two ways: you can either specify it as values of child elements, or specify a localization file that contains the localization information. You'll specify the **stringOverride** element in the form region manifest XML file that you'll use when you register the form region in the Windows registry. For more information on registering a form region, see [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 The following table shows the pieces of user interface in a form region that you can localize. If you choose to specify the localization information inline, you can use the corresponding XML child elements under the **stringOverride** element.
 
@@ -24,7 +24,7 @@ The following table shows the pieces of user interface in a form region that you
 |Display name of a control in the form region| **control**|
 |Display name and subject prefix of an action defined for the form region| **action**|
 
-If you choose to provide a localization file, you will specify it as the value of the **file** attribute of the **stringOverride** element.
+If you choose to provide a localization file, you'll specify it as the value of the **file** attribute of the **stringOverride** element.
 
 Localization files follow an XML schema consisting of elements similar to the child elements of the **stringOverride** element in the form region XML schema. For more information on the localization XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 

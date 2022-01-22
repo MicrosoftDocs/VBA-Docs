@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccessObjectProperties.Add method (Access)
 
-You can use the **Add** method to add a new property as an **[AccessObjectProperty](access.accessobjectproperty.md)** object to the **AccessObjectProperties** collection of an **[AccessObject](Access.AccessObject.md)** object.
+Use the **Add** method to add a new property as an **[AccessObjectProperty](access.accessobjectproperty.md)** object to the **AccessObjectProperties** collection of an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[AccessObjectProperties](Access.Acc
 
 ## Remarks
 
-You can use the **Remove** method of the **AccessObjectProperties** collection to delete an existing property.
+Use the **Remove** method of the **AccessObjectProperties** collection to delete an existing property.
 
 
 

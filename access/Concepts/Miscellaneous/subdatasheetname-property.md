@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **SubdatasheetName** property to specify or determine the table or query that is bound to the subdatasheet.
+Use the **SubdatasheetName** property to specify or determine the table or query that is bound to the subdatasheet.
 
 > [!NOTE] 
 > The **SubdatasheetName** property applies only to tables and queries within a Microsoft Access database.

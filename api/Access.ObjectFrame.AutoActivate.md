@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.AutoActivate property (Access)
 
-You can use the **AutoActivate** property to specify how the user can activate an OLE object. Read/write **Integer**.
+Use the **AutoActivate** property to specify how the user can activate an OLE object. Read/write **Integer**.
 
 
 ## Syntax

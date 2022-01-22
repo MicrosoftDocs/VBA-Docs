@@ -46,7 +46,7 @@ For Outlook, the registry keys and settings are described in the following table
 > [!NOTE] 
 > - Use the Registry Editor on the client computer where the add-in is installed, in order to obtain the ProgID for an add-in: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Outlook\Addins or HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins
 > 
-> - If you disable or do not enable this policy setting, the list of managed add-ins will be deleted. If the **Block all unmanaged add-ins** policy setting is enabled, then all add-ins are blocked.
+> - If you disable or don't enable this policy setting, the list of managed add-ins will be deleted. If the **Block all unmanaged add-ins** policy setting is enabled, then all add-ins are blocked.
 > 
 > - Add-ins that are disabled by this policy will never be disabled by the Outlook add-in disabling feature, which disables add-ins for performance, resiliency, or reliability reasons.
 > 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.CreateNewDocument method (Access)
 
-You can use the **CreateNewDocument** method to create a new document associated with a specified hyperlink.
+Use the **CreateNewDocument** method to create a new document associated with a specified hyperlink.
 
 
 ## Syntax

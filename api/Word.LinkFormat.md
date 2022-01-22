@@ -28,7 +28,7 @@ ActiveDocument.Shapes(1).LinkFormat.BreakLink
 
 Not all types of shapes, inline shapes, and fields can be linked to a source. Use the **Type** property for the **Shape** and **InlineShape** objects to determine whether a particular shape can be linked. The **Type** property for a **Field** object returns the type of field.
 
-You can use both the **Update** method and the **AutoUpdate** property to update links. To return or set the full path for a particular link's source file, use the **SourceFullName** property.
+Use both the **Update** method and the **AutoUpdate** property to update links. To return or set the full path for a particular link's source file, use the **SourceFullName** property.
 
 
 ## See also

@@ -26,6 +26,6 @@ _expression_ A variable that represents a **ComboBox** object.
 
  **True** if selected text is not highlighted unless the control has the focus (default). **False** if selected text always appears highlighted.
 
-You can use the **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
+Use the **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

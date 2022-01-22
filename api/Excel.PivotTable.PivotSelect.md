@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** 
 
 ## Remarks
 
-You can use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
+Use the specified mode only to select the corresponding item in the PivotTable report. For example, you cannot select data and labels by using **xlButton** mode; likewise, you cannot select buttons by using **xlDataOnly** mode.
 
 
 ## Example

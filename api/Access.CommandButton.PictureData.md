@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.PictureData property (Access)
 
-You can use the **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
+Use the **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[CommandButton](Access.CommandButton
 
 The **PictureData** property setting is the **PictureData** property of another control, form, or report.
 
-You can use this property to display different background pictures in a form, depending on actions taken by the user. For example, you might open a **Customers** form by using a different background picture, depending on whether the form is opened for data entry or for browsing.
+Use this property to display different background pictures in a form, depending on actions taken by the user. For example, you might open a **Customers** form by using a different background picture, depending on whether the form is opened for data entry or for browsing.
 
 You can also use the **PictureData** property together with the **[Timer](access.form.timer.md)** event and the **[TimerInterval](access.form.timerinterval.md)** property to perform simple animation on a form.
 

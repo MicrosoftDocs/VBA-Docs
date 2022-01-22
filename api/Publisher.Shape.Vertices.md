@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Shape](Publisher.Shape.md)** object
 
 ## Remarks
 
-You can use the array returned by this property as an argument to the **[AddCurve](Publisher.Shapes.AddCurve.md)** or **[AddPolyline](Publisher.Shapes.AddPolyline.md)** methods.
+Use the array returned by this property as an argument to the **[AddCurve](Publisher.Shapes.AddCurve.md)** or **[AddPolyline](Publisher.Shapes.AddPolyline.md)** methods.
 
 The following table shows how the **Vertices** property associates the values in the array `vertArray()` with the coordinates of a triangle's vertices.
 

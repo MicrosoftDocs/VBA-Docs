@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.FontItalic property (Access)
 
-You can use the **FontItalic** property to specify whether text is italic in the following situations:
+Use the **FontItalic** property to specify whether text is italic in the following situations:
 
 - When displaying or printing controls on forms and reports.    
 - When using the **[Print](Access.Report.Print.md)** method on a report.

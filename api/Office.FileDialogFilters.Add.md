@@ -29,7 +29,7 @@ _expression_ Required. A variable that represents a **[FileDialogFilters](Office
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Description_|Required|**String**|The text representing the description of the file name extension that you want to add to the list of filters.|
-| _Extensions_|Required|**String**|The text representing the file name extension you want to add to the list of filters. More than one extension may be specified, and each must be separated by a semi-colon. For example, the argument can be assigned to the string: "*.txt; *.htm".<br/><br/> **NOTE**: Parentheses do not need to be added around the extensions. Microsoft Office will automatically add parentheses around the extensions string when the description and extensions strings are concatenated into one file filter item.|
+| _Extensions_|Required|**String**|The text representing the file name extension you want to add to the list of filters. More than one extension may be specified, and each must be separated by a semi-colon. For example, the argument can be assigned to the string: "*.txt; *.htm".<br/><br/> **NOTE**: Parentheses don't need to be added around the extensions. Microsoft Office will automatically add parentheses around the extensions string when the description and extensions strings are concatenated into one file filter item.|
 | _Position_|Optional|**Variant**|A number that indicates the position of the new control in the filter list. The new filter will be inserted before the filter at this position. If this argument is omitted, the filter is added at the end of the list.|
 
 ## Remarks

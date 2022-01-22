@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Use an Add-in to Specify Icons for a Form Region
 
-You can use an add-in to specify the custom icons you would like to use to help identify the state of an item in the explorer, inspector, and ribbon. Through the form region manifest XML file that you use to register the form region, you can specify the add-in that extends the form region, and the circumstances for which the custom icon is intended. When the specified cirsumstances occur, Outlook would obtain the appropriate icon from the add-in.
+Use an add-in to specify the custom icons you would like to use to help identify the state of an item in the explorer, inspector, and ribbon. Through the form region manifest XML file that you use to register the form region, you can specify the add-in that extends the form region, and the circumstances for which the custom icon is intended. When the specified cirsumstances occur, Outlook would obtain the appropriate icon from the add-in.
 
 
 ## To use an add-in to specify an icon for a form region

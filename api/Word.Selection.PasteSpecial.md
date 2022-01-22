@@ -38,7 +38,7 @@ _expression_ Required. A variable that represents a **[Selection](Word.Selection
 
 ## Remarks
 
-Unlike with the **[Paste](Word.Selection.Paste.md)** method, with **PasteSpecial** you can control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Excel worksheet). If you do not want to replace the contents of the specified selection, use the **[Collapse](Word.Selection.Collapse.md)** method before you use this method. When you use this method, the selection does not expand to include the contents of the Clipboard.
+Unlike with the **[Paste](Word.Selection.Paste.md)** method, with **PasteSpecial** you can control the format of the pasted information and (optionally) establish a link to the source file (for example, a Microsoft Excel worksheet). If you don't want to replace the contents of the specified selection, use the **[Collapse](Word.Selection.Collapse.md)** method before you use this method. When you use this method, the selection does not expand to include the contents of the Clipboard.
 
 
 ## Example

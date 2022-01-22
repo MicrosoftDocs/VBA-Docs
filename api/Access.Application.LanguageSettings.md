@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.LanguageSettings property (Access)
 
-You can use the **LanguageSettings** property to return a read-only reference to the current **LanguageSettings** object and its related properties.
+Use the **LanguageSettings** property to return a read-only reference to the current **LanguageSettings** object and its related properties.
 
 
 ## Syntax

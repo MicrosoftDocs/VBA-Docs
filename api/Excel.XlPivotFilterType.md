@@ -42,10 +42,10 @@ The type of filter applied.
 | **xlBottomSum**|6|Sum of the values from the bottom of the list|
 | **xlCaptionBeginsWith**|17|Filters for all captions beginning with the specified string|
 | **xlCaptionContains**|21|Filters for all captions that contain the specified string|
-| **xlCaptionDoesNotBeginWith**|18|Filters for all captions that do not begin with the specified string|
-| **xlCaptionDoesNotContain**|22|Filters for all captions that do not contain the specified string|
-| **xlCaptionDoesNotEndWith**|20|Filters for all captions that do not end with the specified string|
-| **xlCaptionDoesNotEqual**|16|Filters for all captions that do not match the specified string|
+| **xlCaptionDoesNotBeginWith**|18|Filters for all captions that don't begin with the specified string|
+| **xlCaptionDoesNotContain**|22|Filters for all captions that don't contain the specified string|
+| **xlCaptionDoesNotEndWith**|20|Filters for all captions that don't end with the specified string|
+| **xlCaptionDoesNotEqual**|16|Filters for all captions that don't match the specified string|
 | **xlCaptionEndsWith**|19|Filters for all captions that end with the specified string|
 | **xlCaptionEquals**|15|Filters for all captions that match the specified string|
 | **xlCaptionIsBetween**|27|Filters for all captions that are between a specified range of values|
@@ -70,12 +70,12 @@ The type of filter applied.
 | **xlDateToday**|38|Filters for all dates that apply to the current date|
 | **xlDateTomorrow**|37|Filters for all dates that apply to the next day|
 | **xlDateYesterday**|39|Filters for all dates that apply to the previous day|
-| **xlNotSpecificDate**|30|Filters for all dates that do not match a specified date|
+| **xlNotSpecificDate**|30|Filters for all dates that don't match a specified date|
 | **xlSpecificDate**|29|Filters for all dates that match a specified date|
 | **xlTopCount**|1|Filters for the specified number of values from the top of a list|
 | **xlTopPercent**|3|Filters for the specified percentage of values from a list|
 | **xlTopSum**|5|Sum of the values from the top of the list|
-| **xlValueDoesNotEqual**|8|Filters for all values that do not match the specified value|
+| **xlValueDoesNotEqual**|8|Filters for all values that don't match the specified value|
 | **xlValueEquals**|7|Filters for all values that match the specified value|
 | **xlValueIsBetween**|13|Filters for all values that are between a specified range of values|
 | **xlValueIsGreaterThan**|9|Filters for all values that are greater than the specified value|

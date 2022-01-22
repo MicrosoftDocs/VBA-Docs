@@ -27,7 +27,7 @@ The value of the **WordWrap** property can be one of these **[MsoTriState](offic
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**|Lines of text do not break to fit within the shape boundaries.|
+|**msoFalse**|Lines of text don't break to fit within the shape boundaries.|
 |**msoTrue**|Lines of text break to fit within the shape boundaries.|
 
 ## See also

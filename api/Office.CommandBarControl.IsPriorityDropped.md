@@ -37,7 +37,7 @@ To determine when to set **IsPriorityDropped** to **True** for a specific menu i
 
 To determine when to set **IsPriorityDropped** to **True** for a specific toolbar control, Office maintains a list of the order in which all the controls on that toolbar were last executed. A toolbar will always show as many controls as it has space to show, in the order of most recently used to least recently used. Controls with **Priority** set to 1 will always be shown and the toolbar will wrap rows, if necessary, to show these controls. Programmers can use the **Priority** property to ensure that specific toolbar controls are always shown, or to reposition toolbars so that they have enough space to display all of their controls.
 
-You can use the following table to predict the number of sessions for which a menu item on a personalized menu will remain visible before the menu item's **IsPriorityDropped** property is set to **True**.
+Use the following table to predict the number of sessions for which a menu item on a personalized menu will remain visible before the menu item's **IsPriorityDropped** property is set to **True**.
 
 |Number of uses of the command bar control|Number of sessions of the application|
 |:-----|:-----|

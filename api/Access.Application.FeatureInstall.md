@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.FeatureInstall property (Access)
 
-You can use the **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](Office.MsoFeatureInstall.md)**.
+Use the **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](Office.MsoFeatureInstall.md)**.
 
 
 ## Syntax

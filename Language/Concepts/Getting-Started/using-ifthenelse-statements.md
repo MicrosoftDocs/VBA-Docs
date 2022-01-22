@@ -12,7 +12,7 @@ ms.localizationpriority: high
 
 # Using If...Then...Else statements
 
-You can use the **[If...Then...Else](../../reference/user-interface-help/ifthenelse-statement.md)** statement to run a specific [statement](../../Glossary/vbe-glossary.md#statement) or a block of statements, depending on the value of a condition. **If...Then...Else** statements can be nested to as many levels as you need. 
+Use the **[If...Then...Else](../../reference/user-interface-help/ifthenelse-statement.md)** statement to run a specific [statement](../../Glossary/vbe-glossary.md#statement) or a block of statements, depending on the value of a condition. **If...Then...Else** statements can be nested to as many levels as you need. 
 
 However, for readability, you may want to use a **[Select Case](../../reference/user-interface-help/select-case-statement.md)** statement rather than multiple levels of nested **If...Then...Else** statements.
 

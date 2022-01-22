@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** o
 
 ## Remarks
 
-Gradients are a smooth transition from one color state to another. The endpoints of these sections are called stops. You can use the [GradientStops.Insert](Office.GradientStops.Insert.md) method to add gradient stops to the **GradientStops** collection for the specified object.
+Gradients are a smooth transition from one color state to another. The endpoints of these sections are called stops. Use the [GradientStops.Insert](Office.GradientStops.Insert.md) method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example

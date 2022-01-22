@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CodeDb method (Access)
 
-You can use the **CodeDb** method in a code module to determine the name of the **Database** object that refers to the database in which code is currently running. Use the **CodeDb** method to access Data Access Objects (DAO) that are part of a library database.
+Use the **CodeDb** method in a code module to determine the name of the **Database** object that refers to the database in which code is currently running. Use the **CodeDb** method to access Data Access Objects (DAO) that are part of a library database.
 
 
 ## Syntax

@@ -54,7 +54,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
 When you call **Disconnect** on a connector shape (a 1D routable shape), one or both endpoints of the connector are unglued from their target shapes, based on the specified _ConnectorEnd_ parameter value. If a specified endpoint is not glued, Microsoft Visio takes no action.
 
-Visio offsets the endpoint(s) from their current position by the amount specified by  _OffsetX_ , _OffsetY_ , and _Units_. Offset values of 0 mean that the endpoints do not move.
+Visio offsets the endpoint(s) from their current position by the amount specified by  _OffsetX_ , _OffsetY_ , and _Units_. Offset values of 0 mean that the endpoints don't move.
 
 The **Disconnect** method does not apply to non-connector shapes. If you call **Disconnect** on a non-connector shape or on a shape in a master, Visio returns an Invalid Source error.
 

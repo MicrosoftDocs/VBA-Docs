@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Walls](Word.Walls.md)** object.
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts.
+Use this method on column, bar, line, or radar charts.
 
 
 ## See also

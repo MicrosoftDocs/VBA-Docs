@@ -36,7 +36,7 @@ Summary values are omitted if there is no SQL aggregate function in the SELECT s
 
 **Null** values in GROUP BY fields are grouped and are not omitted. However, **Null** values are not evaluated in any SQL aggregate function.
 
-Use the WHERE clause to exclude rows you do not want grouped, and use the [HAVING](having-clause-microsoft-access-sql.md) clause to filter records after they have been grouped.
+Use the WHERE clause to exclude rows you don't want grouped, and use the [HAVING](having-clause-microsoft-access-sql.md) clause to filter records after they have been grouped.
 
 Unless it contains Memo or OLE Object data, a field in the GROUP BY field list can refer to any field in any table listed in the FROM clause, even if the field is not included in the SELECT statement, provided the SELECT statement includes at least one SQL aggregate function. The Microsoft® Jet database engine cannot group on Memo or OLE Object fields.
 

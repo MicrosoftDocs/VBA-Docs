@@ -23,7 +23,7 @@ If you want more than one option group on the form, there are two ways to create
 The first method is recommended over the second because it reduces the number of controls required in the application. This reduces the disk space required for your application and can improve the performance of your application as well.
 
 > [!NOTE] 
-> A **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** is not a container. Option buttons in the **TabStrip** are included in the form's option group. You can use **GroupName** to create an option group from buttons in a **TabStrip**.
+> A **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** is not a container. Option buttons in the **TabStrip** are included in the form's option group. Use **GroupName** to create an option group from buttons in a **TabStrip**.
 
 ## See also
 

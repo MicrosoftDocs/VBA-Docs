@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to create the specified table or query, but you do not have the required modify design permission. To change your permission assignments, see your system administrator or the query's creator.
+You tried to create the specified table or query, but you don't have the required modify design permission. To change your permission assignments, see your system administrator or the query's creator.
 
 ## See also
 

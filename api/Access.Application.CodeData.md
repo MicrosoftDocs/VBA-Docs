@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CodeData property (Access)
 
-You can use the **CodeData** property to access the **[CodeData](Access.CodeData.md)** object and its related collections. Read-only **CodeData** object.
+Use the **CodeData** property to access the **[CodeData](Access.CodeData.md)** object and its related collections. Read-only **CodeData** object.
 
 
 ## Syntax

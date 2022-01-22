@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CustomControl.Class property (Access)
 
-You can use the **Class** property to specify or determine the class name of an embedded OLE object. Read/write **String**.
+Use the **Class** property to specify or determine the class name of an embedded OLE object. Read/write **String**.
 
 
 ## Syntax

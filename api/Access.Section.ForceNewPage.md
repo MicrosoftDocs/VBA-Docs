@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.ForceNewPage property (Access)
 
-You can use the **ForceNewPage** property to specify whether form sections (detail, footer) or report sections (header, detail, footer) print on a separate page rather than on the current page. Read/write **Byte**.
+Use the **ForceNewPage** property to specify whether form sections (detail, footer) or report sections (header, detail, footer) print on a separate page rather than on the current page. Read/write **Byte**.
 
 
 ## Syntax

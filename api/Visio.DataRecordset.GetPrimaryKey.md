@@ -41,7 +41,7 @@ Nothing
 
 ## Remarks
 
-You can use the **GetPrimaryKey** method to determine the existing primary key setting for a data recordset and the name of the primary key column or columns if a primary key has been specified. The method returns the primary key setting for the data recordset in the PrimaryKeySettings out parameter, as a value from the **VisPrimaryKeySettings** enumeration. The default (when no primary key has been specified) is **visKeyRowOrder**, which means that Microsoft Visio identifies data recordset rows by row order.
+Use the **GetPrimaryKey** method to determine the existing primary key setting for a data recordset and the name of the primary key column or columns if a primary key has been specified. The method returns the primary key setting for the data recordset in the PrimaryKeySettings out parameter, as a value from the **VisPrimaryKeySettings** enumeration. The default (when no primary key has been specified) is **visKeyRowOrder**, which means that Microsoft Visio identifies data recordset rows by row order.
 
 A data recordset for which a primary key has been specified can have single or composite primary key columns. A single-column primary key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely. Possible values for PrimaryKeySettings are shown in this table.
 
@@ -53,7 +53,7 @@ A data recordset for which a primary key has been specified can have single or c
 
 For the PrimaryKey() out parameter, pass a dimensionless array of strings. If the primary key setting returned is **visKeySingle** or **visKeyComposite**, the method also returns an array of primary key column name strings in the PrimaryKey() out parameter. If the primary key setting is **visKeyRowOrder**, the default, the method returns an empty array.
 
-You can use the **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method to specify the primary key setting for the data recordset as well as the name of the column or columns that you want to set as the primary key column or columns. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
+Use the **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method to specify the primary key setting for the data recordset as well as the name of the column or columns that you want to set as the primary key column or columns. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
 
 
 ## Example

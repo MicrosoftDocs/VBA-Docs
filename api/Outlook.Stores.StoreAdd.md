@@ -56,7 +56,7 @@ This event will not fire when any of the following occurs:
     
 
 
-You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the **[Stores](Outlook.Stores.md)** collection.
+Use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the **[Stores](Outlook.Stores.md)** collection.
 
 
 ## See also

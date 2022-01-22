@@ -24,7 +24,7 @@ The required _expression_ [argument](../../Glossary/vbe-glossary.md#argument) is
 
 **IsNull** returns **True** if _expression_ is **Null**; otherwise, **IsNull** returns **False**. If _expression_ consists of more than one [variable](../../Glossary/vbe-glossary.md#variable), **Null** in any constituent variable causes **True** to be returned for the entire expression.
 
-The **Null** value indicates that the **Variant** contains no valid data. **Null** is not the same as [Empty](../../Glossary/vbe-glossary.md#empty), which indicates that a variable has not yet been initialized. It is also not the same as a zero-length string (""), which is sometimes referred to as a null string.
+The **Null** value indicates that the **Variant** contains no valid data. **Null** is not the same as [Empty](../../Glossary/vbe-glossary.md#empty), which indicates that a variable has not yet been initialized. It's also not the same as a zero-length string (""), which is sometimes referred to as a null string.
 
 > [!IMPORTANT] 
 > Use the **IsNull** function to determine whether an expression contains a **Null** value. Expressions that you might expect to evaluate to **True** under some circumstances, such as `If Var = Null` and `If Var <> Null`, are always **False**. This is because any expression containing a **Null** is itself **Null** and therefore **False**.

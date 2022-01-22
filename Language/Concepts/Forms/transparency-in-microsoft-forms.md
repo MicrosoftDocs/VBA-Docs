@@ -26,9 +26,9 @@ In Microsoft Forms, bitmaps are always transparent on the following controls:
 - **[OptionButton](../../reference/user-interface-help/optionbutton-control.md)**   
 - **[ToggleButton](../../reference/user-interface-help/togglebutton-control.md)**
     
-Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.
+Transparent pictures sometimes have a hazy appearance. If you don't like this appearance, display the picture on a control that supports opaque images.
 
-If you use a transparent bitmap on a control that does not support transparent bitmaps, the bitmap will display correctly, but you won't be able to see what's behind it. In Microsoft Forms, the following controls do not support transparent bitmaps:
+If you use a transparent bitmap on a control that does not support transparent bitmaps, the bitmap will display correctly, but you won't be able to see what's behind it. In Microsoft Forms, the following controls don't support transparent bitmaps:
 
 - The form window (**[UserForm](../../reference/user-interface-help/userform-window.md)**)   
 - **[Frame](../../reference/user-interface-help/frame-control.md)**   

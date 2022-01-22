@@ -51,7 +51,7 @@ Use **Search** and **SearchB** to determine the location of a character or text 
     
 **Search** and **SearchB** are not case-sensitive. If you want to do a case-sensitive search, you can use **Find** and **FindB**.
     
-You can use the wildcard characters, question mark (?) and asterisk (*), in find_text. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+Use the wildcard characters, question mark (?) and asterisk (*), in find_text. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 If find_text is not found, the #VALUE! error value is returned.
     

@@ -34,7 +34,7 @@ To open the connection, simply pass the connection string as the first argument 
  objConn.Open m_sConnStr
 ```
 
-It is also possible to supply much of this information by setting properties of the **Connection** object before opening the connection. For example, you could achieve the same effect as the previous connection string by using the following code:
+It's also possible to supply much of this information by setting properties of the **Connection** object before opening the connection. For example, you could achieve the same effect as the previous connection string by using the following code:
 
 ```vb
 With objConn 

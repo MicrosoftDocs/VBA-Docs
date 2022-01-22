@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-To customize the Microsoft® Windows® Registry settings, you can use Regedit.exe to overwrite the default settings that are established when the Microsoft Access database engine is registered. This method of modification is the least flexible method because all applications that do not specify another registry location will have these new default settings.
+To customize the Microsoft® Windows® Registry settings, you can use Regedit.exe to overwrite the default settings that are established when the Microsoft Access database engine is registered. This method of modification is the least flexible method because all applications that don't specify another registry location will have these new default settings.
 
 ## See also
 

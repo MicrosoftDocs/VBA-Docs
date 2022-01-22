@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **AllowBypassKey** property to specify whether or not the SHIFT key is enabled for bypassing the startup properties and the AutoExec macro. For example, you can set the **AllowBypassKey** property to **False** to prevent a user from bypassing the startup properties and the AutoExec macro.
+Use the **AllowBypassKey** property to specify whether or not the SHIFT key is enabled for bypassing the startup properties and the AutoExec macro. For example, you can set the **AllowBypassKey** property to **False** to prevent a user from bypassing the startup properties and the AutoExec macro.
 
 ## Setting
 

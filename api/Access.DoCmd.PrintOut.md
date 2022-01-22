@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the PrintOut action to print the active object in the open database. You can print datasheets, reports, forms, data access pages, and modules.
+Use the PrintOut action to print the active object in the open database. You can print datasheets, reports, forms, data access pages, and modules.
 
 
 ## Example

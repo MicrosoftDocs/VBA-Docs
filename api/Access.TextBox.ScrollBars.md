@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.ScrollBars property (Access)
 
-You can use the **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
+Use the **ScrollBars** property to specify whether scroll bars appear on a text box control. Read/write **Byte**.
 
 
 ## Syntax

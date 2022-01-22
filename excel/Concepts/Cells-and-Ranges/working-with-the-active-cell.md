@@ -28,7 +28,7 @@ End Sub
 
 ## Moving the Active Cell
 
-You can use the **[Range .Activate](https://msdn.microsoft.com/library/office/aa221681(v=office.11).aspx)** method to designate which cell is the active cell. For example, the following procedure makes B5 the active cell and then formats it as bold.
+Use the **[Range .Activate](https://msdn.microsoft.com/library/office/aa221681(v=office.11).aspx)** method to designate which cell is the active cell. For example, the following procedure makes B5 the active cell and then formats it as bold.
 
 
 ```vb
@@ -42,7 +42,7 @@ End Sub
 
  **Note**  To select a range of cells, use the **Select** method. To make a single cell the active cell, use the **Activate** method.
 
-You can use the **Offset** property to move the active cell. The following procedure inserts text into the active cell in the selected range and then moves the active cell one cell to the right without changing the selection.
+Use the **Offset** property to move the active cell. The following procedure inserts text into the active cell in the selected range and then moves the active cell one cell to the right without changing the selection.
 
 
 

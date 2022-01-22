@@ -26,7 +26,7 @@ Application.FileDialog(msoFileDialogOpen).Filters
 
 Use the **Add** method to add **FileDialogFilter** objects to the **FileDialogFilters** collection. 
 
-The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you do not add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
+The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you don't add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
 
 ```vb
 Sub Main() 
@@ -64,7 +64,7 @@ Sub Main()
             For Each vrtSelectedItem In .SelectedItems 
  
                 'vrtSelectedItem is aString that contains the path of each selected item. 
-                'You can use any file I/O functions that you want to work with this path. 
+                'Use any file I/O functions that you want to work with this path. 
                 'This example displays the path in a message box. 
                 MsgBox "Path name: " & vrtSelectedItem 
  

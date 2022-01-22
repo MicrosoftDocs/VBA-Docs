@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **OpenQuery** method to open a select or crosstab query in Datasheet view, Design view, or Print Preview. This action runs an action query. You can also select a data entry mode for the query.
+Use the **OpenQuery** method to open a select or crosstab query in Datasheet view, Design view, or Print Preview. This action runs an action query. You can also select a data entry mode for the query.
 
 > [!NOTE] 
 > This method is only available in the Access database environment. See the **OpenView** or **OpenStoredProcedure** methods if you are using the Access Project environment (.adp).

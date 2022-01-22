@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.LinkChildFields property (Access)
 
-You can use the **LinkChildFields** property (along with the **LinkMasterFields** property) to specify how Microsoft Access links records in a form or report to records in a subform, subreport, or embedded object, such as a chart. If these properties are set, Access automatically updates the related record in the subform when you change to a new record in a main form. Read/write **String**.
+Use the **LinkChildFields** property (along with the **LinkMasterFields** property) to specify how Microsoft Access links records in a form or report to records in a subform, subreport, or embedded object, such as a chart. If these properties are set, Access automatically updates the related record in the subform when you change to a new record in a main form. Read/write **String**.
 
 
 ## Syntax
@@ -31,13 +31,13 @@ You can set the **LinkChildFields** and **LinkMasterFields** properties for the 
 - For the **LinkChildFields** property, enter the name of one or more linking fields in the subform, subreport, or embedded object.   
 - For the **LinkMasterFields** property, enter the name of one or more linking fields or controls in the main form or report.
     
-You can use the Subform/Subreport Field Linker to set these properties by choosing the **Build** button to the right of the property box in the property sheet.
+Use the Subform/Subreport Field Linker to set these properties by choosing the **Build** button to the right of the property box in the property sheet.
 
 The properties can only be set in Design view or during the **Open** event of a form or report.
 
 The fields or controls that you use to set these properties don't need to have the same names, but they must contain the same kind of data and have the same or a compatible data type and field size. For example, an **AutoNumber** field is compatible with a **Number** field if the **FieldSize** property for the **Number** field is set to **Long Integer**.
 
-You can use the name of a control (including the name of a calculated control) to set the **LinkMasterFields** property, but you can't use the name of a control to set the **LinkChildFields** property. If you want to use a calculated value as the link for a subform, subreport, or embedded object, define a calculated field in the child object's underlying query and set the **LinkChildFields** property to the field.
+Use the name of a control (including the name of a calculated control) to set the **LinkMasterFields** property, but you can't use the name of a control to set the **LinkChildFields** property. If you want to use a calculated value as the link for a subform, subreport, or embedded object, define a calculated field in the child object's underlying query and set the **LinkChildFields** property to the field.
 
 When you specify more than one field or control name for these property settings, you must enter the same number of fields or controls for each property setting and separate the names with a semicolon (;).
 

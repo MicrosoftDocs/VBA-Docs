@@ -56,7 +56,7 @@ Use Git to contribute substantive changes, such as:
 1. If you don't have a GitHub account, set one up at [GitHub](https://github.com/join).
 2. After you have an account, install Git on your computer. Follow the steps in the [Set up Git] tutorial.
 3. To submit a pull request using Git, follow the steps in [Use GitHub, Git, and this repository](#use-github-git-and-this-repository).
-4. You will be asked to sign the Contributor's License Agreement if you are:
+4. You'll be asked to sign the Contributor's License Agreement if you are:
 
     * A member of the Microsoft Open Technologies group.
     * A contributor who doesn't work for Microsoft.
@@ -195,13 +195,13 @@ Fill out the form at [Join GitHub](https://github.com/join) to open a free GitHu
 
 ### Where do I get a Contributor's License Agreement?
 
-You will automatically be sent a notice that you need to sign the Contributor's License Agreement (CLA) if your pull request requires one.
+You'll automatically be sent a notice that you need to sign the Contributor's License Agreement (CLA) if your pull request requires one.
 
 As a community member, **you must sign the Contribution License Agreement (CLA) before you can contribute large submissions to this project**. You only need complete and submit the documentation once. Carefully review the document. You may be required to have your employer sign the document.
 
 ### What happens with my contributions?
 
-When you submit your changes, via a pull request, our team will be notified and will review your pull request. You will receive notifications about your pull request from GitHub; you may also be notified by someone from our team if we need more information. If your pull request is approved, we'll update the documentation. We reserve the right to edit your submission for legal, style, clarity, or other issues.
+When you submit your changes, via a pull request, our team will be notified and will review your pull request. You'll receive notifications about your pull request from GitHub; you may also be notified by someone from our team if we need more information. If your pull request is approved, we'll update the documentation. We reserve the right to edit your submission for legal, style, clarity, or other issues.
 
 ### Can I become an approver for this repository's GitHub pull requests?
 

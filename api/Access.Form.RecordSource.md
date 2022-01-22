@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.RecordSource property (Access)
 
-You can use the **RecordSource** property to specify the source of the data for a form. Read/write **String**.
+Use the **RecordSource** property to specify the source of the data for a form. Read/write **String**.
 
 
 ## Syntax

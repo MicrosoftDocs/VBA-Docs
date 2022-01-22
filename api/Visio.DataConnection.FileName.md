@@ -39,6 +39,6 @@ An ODC file contains a connection string that specifies how to connect to an OLE
 
 When you use the **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)** to create a new data recordset, you pass the method a string pointing to an ODC file as the FileName parameter. That string then becomes the value of the **FileName** property for the **DataConnection** associated with the resulting data recordset. If the **DataConnection** object is not associated with an ODC file, the **FileName** property returns the name and full path of the data-source file passed to the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method as the value of the "Data Source" attribute of the ConnectionString parameter when the data recordset was created.
 
-You can use the **Data Connection Wizard** in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
+Use the **Data Connection Wizard** in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

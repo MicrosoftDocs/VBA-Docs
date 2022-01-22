@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DoCmd.LockNavigationPane method (Access)
 
-You can use the **LockNavigationPane** method to prevent users from deleting database objects that are displayed in the navigation pane.
+Use the **LockNavigationPane** method to prevent users from deleting database objects that are displayed in the navigation pane.
 
 
 ## Syntax

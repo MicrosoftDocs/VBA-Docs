@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.InsideHeight property (Access)
 
-You can use the **InsideHeight** property (along with the **InsideWidth** property) to determine the height and width (in 
+Use the **InsideHeight** property (along with the **InsideWidth** property) to determine the height and width (in 
 [twips](../language/glossary/vbe-glossary.md#twip)) of the window containing a form. Read/write **Long**.
 
 

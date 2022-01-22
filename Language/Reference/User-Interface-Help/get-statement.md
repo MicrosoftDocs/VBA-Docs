@@ -46,7 +46,7 @@ For files opened in **Random** mode, the following rules apply:
 - If the variable being read into is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) of [numeric type](../../Glossary/vbe-glossary.md#numeric-type), **Get** reads 2 bytes identifying the **VarType** of the **Variant** and then the data that goes into the variable. For example, when reading a **Variant** of **VarType** 3, **Get** reads 6 bytes: 2 bytes identifying the **Variant** as **VarType** 3 (**Long**) and 4 bytes containing the [Long](../../Glossary/vbe-glossary.md#long-data-type) data. The record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual number of bytes required to store the variable.
     
   > [!NOTE] 
-  > You can use the **Get** statement to read a **Variant** [array](../../Glossary/vbe-glossary.md#array) from disk, but you can't use **Get** to read a scalar **Variant** containing an array. You also can't use **Get** to read objects from disk.
+  > Use the **Get** statement to read a **Variant** [array](../../Glossary/vbe-glossary.md#array) from disk, but you can't use **Get** to read a scalar **Variant** containing an array. You also can't use **Get** to read objects from disk.
 
 - If the variable being read into is a **Variant** of **VarType** 8 (**String**), **Get** reads 2 bytes identifying the **VarType**, 2 bytes indicating the length of the string, and then reads the string data. The record length specified by the **Len** clause in the **Open** statement must be at least 4 bytes greater than the actual length of the string.
     

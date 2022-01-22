@@ -1,5 +1,5 @@
 ---
-title: The Microsoft Access database engine cannot open the file <name>. It is already opened exclusively by another user, or you need permission to view its data. (Error 3051)
+title: The Microsoft Access database engine cannot open the file <name>. It's already opened exclusively by another user, or you need permission to view its data. (Error 3051)
 keywords: jeterr40.chm5003051
 f1_keywords:
 - jeterr40.chm5003051
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The Microsoft Access database engine cannot open the file <name>. It is already opened exclusively by another user, or you need permission to view its data. (Error 3051)
+# The Microsoft Access database engine cannot open the file <name>. It's already opened exclusively by another user, or you need permission to view its data. (Error 3051)
 
   
 

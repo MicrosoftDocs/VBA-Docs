@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DoCmd.SearchForRecord method (Access)
 
-You can use the **SearchForRecord** method to search for a specific record in a table, query, form, or report.
+Use the **SearchForRecord** method to search for a specific record in a table, query, form, or report.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 | _ObjectType_|Optional|**[AcDataObjectType](Access.AcDataObjectType.md)**|An **AcDataObjectType** constant that specifies the type of database object in which you are searching. The default value is **acActiveDataObject**.|
 | _ObjectName_|Optional|**Variant**|The name of the database object that contains the record to search for.|
 | _Record_|Optional|**[AcRecord](Access.AcRecord.md)**|An **AcRecord** constant that specifies the starting point and direction of the search. The default value is **acFirst**.|
-| _WhereCondition_|Optional|**Variant**|A string used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _WhereCondition_|Optional|**Variant**|A string used to locate the record. It's like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ## Remarks
 
@@ -51,11 +51,11 @@ The **SearchForRecord** method is similar to the **[FindRecord](Access.DoCmd.Fin
 
 The following list demonstrates some things that you can do with the **SearchForRecord** method:
     
-- You can use complex criteria in the _WhereCondition_ argument, such as `Description = "Beverages" and CategoryID = 11`.
+- Use complex criteria in the _WhereCondition_ argument, such as `Description = "Beverages" and CategoryID = 11`.
  
-- You can refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
+- Refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
     
-- You can use logical operators, such as **<**, **>**, **AND**, **OR**, and **BETWEEN**. The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
+- Use logical operators, such as **<**, **>**, **AND**, **OR**, and **BETWEEN**. The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
     
 
 

@@ -46,7 +46,7 @@ Sub CreateProject_Late()
 End Sub
 ```
 
-If you do not set the **Visible** property to **True**, the Project application operates in the background without being visible.
+If you don't set the **Visible** property to **True**, the Project application operates in the background without being visible.
 
 ## Using Project From Another Application: Early Binding
 
@@ -73,7 +73,7 @@ End Sub
 > [!IMPORTANT]  
 > For application-level events, register event handlers _after_ you set `Application.Visible = True`.
 
-If you instantiate Project from another application and register an application-level event before setting the **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** do not work. For example, `Application.ActiveProject.Name` is not accessible.
+If you instantiate Project from another application and register an application-level event before setting the **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** don't work. For example, `Application.ActiveProject.Name` is not accessible.
 
 Many of the properties and methods that return the most common user-interface objects, such as the active project—represented by the **[ActiveProject](./Project.Application.ActiveProject.md)** property—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveProject.Visible = True` you can write `ActiveProject.Visible = True`
 

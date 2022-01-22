@@ -37,7 +37,7 @@ Changes an existing constraint. Equivalent to clicking **Solver** in the **Data*
 
 ## Remarks
 
-If **_CellRef_** and **_Relation_** do not match an existing constraint, you must use the **[SolverDelete](solverdelete-function.md)** and **[SolverAdd](solveradd-function.md)** functions to change the constraint.
+If **_CellRef_** and **_Relation_** don't match an existing constraint, you must use the **[SolverDelete](solverdelete-function.md)** and **[SolverAdd](solveradd-function.md)** functions to change the constraint.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the chart control to embed a chart that displays Microsoft Access data from a form or report. You can then edit the chart by using Graph from within the form or report.
+Use the chart control to embed a chart that displays Microsoft Access data from a form or report. You can then edit the chart by using Graph from within the form or report.
 
 
 ## Remarks

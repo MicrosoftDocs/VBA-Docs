@@ -28,7 +28,7 @@ MsgBox ActiveDocument.Shapes(1).OLEFormat.ClassType
 
 Not all types of shapes, inline shapes, and fields have OLE capabilities. Use the **Type** property for the **Shape** and **InlineShape** objects to determine what category the specified shape or inline shape falls into. The **Type** property for a **Field** object returns the type of field.
 
-You can use the **Activate**, **Edit**, **Open**, and **DoVerb** methods to automate an OLE object.
+Use the **Activate**, **Edit**, **Open**, and **DoVerb** methods to automate an OLE object.
 
 Use the **Object** property to return an object that represents an ActiveX control or OLE object. With this object, you can use the properties and methods of the container application or the ActiveX control.
 

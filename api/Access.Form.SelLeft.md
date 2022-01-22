@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SelLeft property (Access)
 
-You can use the **SelLeft** property to specify or determine which column (field) is leftmost in the current selection rectangle. Read/write **Long**.
+Use the **SelLeft** property to specify or determine which column (field) is leftmost in the current selection rectangle. Read/write **Long**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The **SelLeft** property returns a value between 2 and the number of columns in 
 
 If there's no selection, the value returned by these properties is the row and column of the cell with the focus. If you've selected one or more records in the datasheet (using the record selectors), you can't change the setting of the **SelLeft** property.
 
-You can use these properties with the **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. 
+Use these properties with the **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. 
 
 The **SelTop** and **SelLeft** properties determine the position of the upper-left corner of the selection rectangle. 
 

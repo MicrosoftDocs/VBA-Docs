@@ -53,7 +53,7 @@ Either one of the following constants or the summation of a number of them is re
 
 If an object is passed and has a default property, **VarType**(_object_) returns the type of the object's default property.
 
-The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
+The **VarType** function never returns the value for **vbArray** by itself. It's always added to some other value to indicate an array of a particular type. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
 
 The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. 
 

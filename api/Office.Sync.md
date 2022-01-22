@@ -28,7 +28,7 @@ See the **Status** property for additional information about the differences and
 
 Use the **PutUpdate** method to save local changes to the server. Close and re-open the document to retrieve the latest version from the server when no local changes have been made. Use the **ResolveConflict** method to resolve differences between the local and the server copies, or the **OpenVersion** method to open a different version alongside the currently open local version of the document.
 
-The **GetUpdate**, **PutUpdate**, and **ResolveConflict** methods of the **Sync** object do not return status codes because they complete their tasks asynchronously. The **Sync** object provides important status information through a single event, which the developer can access through the following application-specific events:
+The **GetUpdate**, **PutUpdate**, and **ResolveConflict** methods of the **Sync** object don't return status codes because they complete their tasks asynchronously. The **Sync** object provides important status information through a single event, which the developer can access through the following application-specific events:
 
 - In Word, through the **Sync** event of the **Document** object or the **DocumentSync** event of the **Application** object.
     

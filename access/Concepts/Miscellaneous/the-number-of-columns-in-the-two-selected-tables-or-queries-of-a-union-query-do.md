@@ -1,5 +1,5 @@
 ---
-title: The number of columns in the two selected tables or queries of a union query do not match. (Error 3307)
+title: The number of columns in the two selected tables or queries of a union query don't match. (Error 3307)
 keywords: jeterr40.chm5003307
 f1_keywords:
 - jeterr40.chm5003307
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The number of columns in the two selected tables or queries of a union query do not match. (Error 3307)
+# The number of columns in the two selected tables or queries of a union query don't match. (Error 3307)
 
   
 

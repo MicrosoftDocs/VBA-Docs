@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Reference a Custom Property that Has the Same Name as a Built-in Property of the Control
 
-Assume a new control has a **Top** property that is different from the standard **Top** property in Microsoft Forms. You can use either property, based on the syntax:
+Assume a new control has a **Top** property that is different from the standard **Top** property in Microsoft Forms. Use either property, based on the syntax:
 
 This example uses the standard **Top** property:
 

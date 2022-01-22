@@ -19,7 +19,7 @@ The image control can add a picture to a form or report. For example, you could 
 
 ## Remarks
 
-You can use the image control or an [unbound object frame](unbound-object-frame-control.md) for unbound pictures. The advantage of using the image control is that it's faster to display. The advantage of using the unbound object frame is that you can edit the object directly from the form or report.
+Use the image control or an [unbound object frame](unbound-object-frame-control.md) for unbound pictures. The advantage of using the image control is that it's faster to display. The advantage of using the unbound object frame is that you can edit the object directly from the form or report.
 
 ## See also
 

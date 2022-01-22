@@ -35,7 +35,7 @@ The **AllocationMethod** property corresponds to the **Allocation Method** setti
 
 If the **AllocationMethod** property is set to **xlWeightedAllocation**, which corresponds to the **Weighted Allocation** setting, you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property. 
 
-If you do not specify a weight expression, a weight expression equivalent to `<leaf cell value> / <existing value>` is used.
+If you don't specify a weight expression, a weight expression equivalent to `<leaf cell value> / <existing value>` is used.
 
 
 

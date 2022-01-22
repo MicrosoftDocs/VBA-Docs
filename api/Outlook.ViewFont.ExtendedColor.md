@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[ViewFont](Outlook.ViewFont.md)' obje
 
 ## Remarks
 
-You can use the **[Color](Outlook.ViewFont.Color.md)** property or the **[ExtendedColor](Outlook.ViewFont.ExtendedColor.md)** property to set the font color in a view. For a calendar view in particular, you must use the **ExtendedColor** property to set the font color.
+Use the **[Color](Outlook.ViewFont.Color.md)** property or the **[ExtendedColor](Outlook.ViewFont.ExtendedColor.md)** property to set the font color in a view. For a calendar view in particular, you must use the **ExtendedColor** property to set the font color.
 
 
 ## See also

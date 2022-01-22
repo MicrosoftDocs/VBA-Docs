@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-Microsoft Access sets the value of the **ObjectPalette** property to a **String** data type containing the palette information. You can use this setting to set the value of the **[PaintPalette](access.form.paintpalette.md)** property for a form or report.
+Microsoft Access sets the value of the **ObjectPalette** property to a **String** data type containing the palette information. Use this setting to set the value of the **[PaintPalette](access.form.paintpalette.md)** property for a form or report.
 
 If the application associated with the OLE object doesn't have an associated palette, the **ObjectPalette** property is set to a zero-length string.
 

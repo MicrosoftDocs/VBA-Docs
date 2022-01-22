@@ -19,6 +19,6 @@ ms.localizationpriority: medium
 | **Make Equal**|Make all horizontal and vertical spaces between controls the same size. The amount of horizontal and vertical space will vary based on the area that is available to show the controls and the combined width of all controls.|
 | **Increase**|Increase the space between controls by one grid block .|
 | **Decrease**|Decrease the space between controls by one grid block.|
-| **Remove**|Remove the space between controls. The controls do not overlap, but are immediately adjacent to each other.|
+| **Remove**|Remove the space between controls. The controls don't overlap, but are immediately adjacent to each other.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

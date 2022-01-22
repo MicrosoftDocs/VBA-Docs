@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 ## Remarks
 
-The **OpenUndoTransaction** method is used in conjunction with **[CloseUndoTransaction](Project.Application.CloseUndoTransaction.md)** method. You can use **OpenUndoTransaction** and **CloseUndoTransaction** on a single command or on a group of commands.
+The **OpenUndoTransaction** method is used in conjunction with **[CloseUndoTransaction](Project.Application.CloseUndoTransaction.md)** method. Use **OpenUndoTransaction** and **CloseUndoTransaction** on a single command or on a group of commands.
 
 You cannot nest one undo transaction within another.
 

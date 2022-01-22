@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **OpenTable** method to open a table in Datasheet view, Design view, or Print Preview. You can also select a data entry mode for the table.
+Use the **OpenTable** method to open a table in Datasheet view, Design view, or Print Preview. You can also select a data entry mode for the table.
 
 
 ## Example

@@ -24,7 +24,7 @@ _expression_ A variable that represents a [ContentControl](./Word.ContentControl
 
 ## Remarks
 
-You can use this property with repeating section content controls only. Using it with other content controls will result in an error.
+Use this property with repeating section content controls only. Using it with other content controls will result in an error.
 
 
 ## Property value

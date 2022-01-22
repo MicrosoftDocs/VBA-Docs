@@ -20,7 +20,7 @@ The **Application** and **Projects** object map for Project shows the main child
 ## Application Object and Project Object Hierarchy
 
 
- **Note** Objects in the following image do not link to the documentation pages.
+ **Note** Objects in the following image don't link to the documentation pages.
 
 
 ![Application object and Project object hierarchy](../../images/pj15_VBAObjectMap_AppProject.jpg)

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Painting property (Access)
 
-You can use the **Painting** property to specify whether a report is repainted. Read/write **Boolean**.
+Use the **Painting** property to specify whether a report is repainted. Read/write **Boolean**.
 
 
 ## Syntax

@@ -43,7 +43,7 @@ If an array or reference argument contains text or empty cells, those values are
     
 If the specified range contains no logical values, **Or** returns the #VALUE! error value.
     
-You can use an **Or** array formula to see if a value occurs in an array. To enter an array formula, press Ctrl+Shift+Enter.
+Use an **Or** array formula to see if a value occurs in an array. To enter an array formula, press Ctrl+Shift+Enter.
     
 
 

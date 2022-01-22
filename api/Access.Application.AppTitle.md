@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AppTitle property (Access)
 
-You can use the **AppTitle** property to specify the text that appears in the application database's title bar. For example, you can use the **AppTitle** property to specify that the string "Inventory Control" appear in the title bar of your Inventory Control database application.
+Use the **AppTitle** property to specify the text that appears in the application database's title bar. For example, you can use the **AppTitle** property to specify that the string "Inventory Control" appear in the title bar of your Inventory Control database application.
 
 ## Syntax
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.LimitToList property (Access)
 
-You can use the **LimitToList** property to limit a combo box's values to the listed items. Read/write **Boolean**.
+Use the **LimitToList** property to limit a combo box's values to the listed items. Read/write **Boolean**.
 
 
 ## Syntax

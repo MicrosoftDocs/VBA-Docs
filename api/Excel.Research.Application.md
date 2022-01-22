@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Research](Excel.Research.md)** obje
 
 ## Remarks
 
-You can use this property with an OLE Automation object to return the application of that object.
+Use this property with an OLE Automation object to return the application of that object.
 
 
 

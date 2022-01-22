@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-File sizes can be reduced by not generating images for drawing objects. Note that a web browser must support Vector Markup Language (VML) to render drawing objects. Microsoft Internet Explorer versions 5.0 and later support VML, so the **RelyOnVML** property could be set to **True** if targeting those browsers. For browsers that do not support VML, a drawing object will not appear when a web publication is saved with this property enabled.
+File sizes can be reduced by not generating images for drawing objects. Note that a web browser must support Vector Markup Language (VML) to render drawing objects. Microsoft Internet Explorer versions 5.0 and later support VML, so the **RelyOnVML** property could be set to **True** if targeting those browsers. For browsers that don't support VML, a drawing object will not appear when a web publication is saved with this property enabled.
 
 If unsure about which browsers will be used to view the website, this property should be set to **False**.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ServerFilterByForm property (Access)
 
-You can use the **ServerFilterByForm** property to specify or determine whether a form is opened in the Server Filter By Form window. Read/write **Boolean**.
+Use the **ServerFilterByForm** property to specify or determine whether a form is opened in the Server Filter By Form window. Read/write **Boolean**.
 
 
 ## Syntax

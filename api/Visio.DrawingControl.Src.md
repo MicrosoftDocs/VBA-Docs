@@ -39,7 +39,7 @@ When it attempts to open a file you specify in the **Src** property, the Visio D
 
 When you set the **Src** property to load a file into the Visio Drawing Control, the control opens a copy of the file, but does not keep the original file open for writing. As a result, you cannot use the **Document.Save** method to save changes to a file loaded into the Visio Drawing Control. To save changes in a file, first use the **Src** property to load the file into the control, and then set **Src** to an empty string (""). To save the modified file to disk, use the **Document.SaveAs** method.
 
-If you do not set the **Src** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
+If you don't set the **Src** property to an empty string after loading a drawing into the Visio Drawing Control, each time you close and reopen your application, the original drawing will be loaded, and any modifications you or your users have made will be lost.
 
 
 ## Example

@@ -53,7 +53,7 @@ End Function
 
 The **On Error GoTo 0** statement disables error handling within a procedure. It doesn't specify line 0 as the start of the error-handling code, even if the procedure contains a line numbered 0. If there's no **On Error GoTo 0** statement in your code, the error handler is automatically disabled when the procedure has run completely. The **On Error GoTo 0** statement resets the properties of the **Err** object, having the same effect as the **[Clear](../../../language/reference/User-Interface-Help/clear-method-visual-basic-for-applications.md)** method of the **Err** object.
 
-The **On Error Resume Next** statement ignores the line that causes an error and routes execution to the line following the line that caused the error. Execution isn't interrupted. You can use the **On Error Resume Next** statement if you want to check the properties of the **Err** object immediately after a line at which you anticipate an error will occur, and handle the error within the procedure rather than in an error handler.
+The **On Error Resume Next** statement ignores the line that causes an error and routes execution to the line following the line that caused the error. Execution isn't interrupted. Use the **On Error Resume Next** statement if you want to check the properties of the **Err** object immediately after a line at which you anticipate an error will occur, and handle the error within the procedure rather than in an error handler.
 
 ### Resume statement
 
@@ -180,13 +180,13 @@ When a ADO or DAO error occurs, the Visual Basic **Err** object contains the err
 
 ### AccessError method
 
-You can use the **Raise** method of the **Err** object to generate a Visual Basic error that hasn't actually occurred and determine the descriptive string associated with that error. However, you can't use the **Raise** method to generate a Access error, an ADO error, or a DAO error. To determine the descriptive string associated with an Access error, an ADO error, or a DAO error that hasn't actually occurred, use the **AccessError** method.
+Use the **Raise** method of the **Err** object to generate a Visual Basic error that hasn't actually occurred and determine the descriptive string associated with that error. However, you can't use the **Raise** method to generate a Access error, an ADO error, or a DAO error. To determine the descriptive string associated with an Access error, an ADO error, or a DAO error that hasn't actually occurred, use the **AccessError** method.
 
 ### Error event
 
-You can use the Error event to trap errors that occur on an Access form or report. For example, if a user tries to enter text in a field whose data type is Date/Time, the Error event occurs. If you add an Error event procedure to an Employees form, then try to enter a text value in the HireDate field, the Error event procedure runs.
+Use the Error event to trap errors that occur on an Access form or report. For example, if a user tries to enter text in a field whose data type is Date/Time, the Error event occurs. If you add an Error event procedure to an Employees form, then try to enter a text value in the HireDate field, the Error event procedure runs.
 
-The Error event procedure takes an integer argument, DataErr. When an Error event procedure runs, the DataErr argument contains the number of the Access error that occurred. Checking the value of the DataErr argument within the event procedure is the only way to determine the number of the error that occurred. The **Err** object isn't populated with error information after the Error event occurs. You can use the value of the DataErr argument together with the **AccessError** method to determine the number of the error and its descriptive string.
+The Error event procedure takes an integer argument, DataErr. When an Error event procedure runs, the DataErr argument contains the number of the Access error that occurred. Checking the value of the DataErr argument within the event procedure is the only way to determine the number of the error that occurred. The **Err** object isn't populated with error information after the Error event occurs. Use the value of the DataErr argument together with the **AccessError** method to determine the number of the error and its descriptive string.
 
 > [!NOTE] 
 > The **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.  

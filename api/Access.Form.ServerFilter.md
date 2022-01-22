@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ServerFilter property (Access)
 
-You can use the **ServerFilter** property to specify a subset of records to be displayed when a server filter is applied to a form within a Microsoft Access project (.adp) or database. Read/write **String**.
+Use the **ServerFilter** property to specify a subset of records to be displayed when a server filter is applied to a form within a Microsoft Access project (.adp) or database. Read/write **String**.
 
 
 ## Syntax
@@ -45,7 +45,7 @@ To set the **ServerFilter** property, you must first either:
 > [!NOTE] 
 > Setting the **ServerFilter** property has no effect on the ADO **Filter** property.
 
-You can use the **ServerFilter** property to save a filter and apply it at a later time. Filters are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they aren't automatically applied.
+Use the **ServerFilter** property to save a filter and apply it at a later time. Filters are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they aren't automatically applied.
 
 To apply a saved filter to a form, you can choose **Apply Server Filter** on the toolbar, choose **Apply Filter/Sort** on the **Records** menu, or use a macro or Visual Basic to set the **ServerFilterByForm** property to **True**.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CurrentProject property (Access)
 
-You can use the **CurrentProject** property to access the **[CurrentProject](Access.CurrentProject.md)** object and its related collections, properties, and methods. Read-only **CurrentProject** object.
+Use the **CurrentProject** property to access the **[CurrentProject](Access.CurrentProject.md)** object and its related collections, properties, and methods. Read-only **CurrentProject** object.
 
 
 ## Syntax

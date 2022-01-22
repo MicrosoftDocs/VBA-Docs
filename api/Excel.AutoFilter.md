@@ -20,7 +20,7 @@ Represents autofiltering for the specified worksheet.
 > When using **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
 > [!NOTE] 
-> Working with objects (for example, the **Interior** object) requires adding a reference to an object. You will find more information about assigning an object reference to a variable or property in the **[Set](../language/reference/User-Interface-Help/set-statement.md)** statement.
+> Working with objects (for example, the **Interior** object) requires adding a reference to an object. You'll find more information about assigning an object reference to a variable or property in the **[Set](../language/reference/User-Interface-Help/set-statement.md)** statement.
 
 
 ## Example

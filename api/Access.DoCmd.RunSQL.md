@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the RunSQL action to run a Microsoft Access action query by using the corresponding SQL statement. You can also run a data-definition query.
+Use the RunSQL action to run a Microsoft Access action query by using the corresponding SQL statement. You can also run a data-definition query.
 
 This method only applies to Access databases.
 

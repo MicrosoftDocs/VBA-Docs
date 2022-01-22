@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to use the **Execute** method with a select query. The **Execute** method is valid only with action queries. Select queries contain a SELECT statement and can return records; action queries do not.
+You tried to use the **Execute** method with a select query. The **Execute** method is valid only with action queries. Select queries contain a SELECT statement and can return records; action queries don't.
 
 ## See also
 

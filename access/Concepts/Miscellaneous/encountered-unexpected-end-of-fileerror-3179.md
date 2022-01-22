@@ -20,7 +20,7 @@ Possible causes:
 
 - The import file is corrupted. Restore a backup copy of the import file, and then try the operation again.
     
-- The import/export specifications you are using do not match the data in the import file. Edit the import/export specifications, and then try the operation again.
+- The import/export specifications you are using don't match the data in the import file. Edit the import/export specifications, and then try the operation again.
     
 
 ## See also

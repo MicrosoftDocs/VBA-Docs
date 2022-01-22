@@ -28,7 +28,7 @@ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPag
 
 ## Remarks
 
-You can use the **InitSettings** method to reinitialize the webpage settings to those values stored in the registry.
+Use the **InitSettings** method to reinitialize the webpage settings to those values stored in the registry.
 
 
 ## Example

@@ -56,7 +56,7 @@ End Function
 
 The **Seek** method always starts searching for records at the beginning of the **Recordset** object. If you use the **Seek** method with the same arguments more than once on the same **Recordset**, it finds the same record.
 
-You can use the **[NoMatch](../../../api/overview/Access.md)** property on the **Recordset** object to test whether a record matching the search criteria was found. If the record matching the criteria was found, the **NoMatch** property will be **False**; otherwise, it will be **True**.
+Use the **[NoMatch](../../../api/overview/Access.md)** property on the **Recordset** object to test whether a record matching the search criteria was found. If the record matching the criteria was found, the **NoMatch** property will be **False**; otherwise, it will be **True**.
 
 The following code example shows how you can create a function that uses the **Seek** method to locate a record by using a multiple-field index.
 
@@ -95,6 +95,6 @@ End Function
 
 In this example, the table's primary key consists of two fields: OrderID and ProductID. When you call the GetFirstPrice function with a valid (existing) combination of OrderID and ProductID field values, the function returns the unit price from the found record. If it cannot find the combination of field values you want in the table, the function returns the **Null** value.
 
-If the current index is a multiple-field index, trailing key values can be omitted and are treated as **Null** values. That is, you can leave off any number of key values from the end of a **Seek** method's _key_ argument, but not from the beginning or the middle. However, if you do not specify all values in the index, you can use only the ">" or "<" comparison string with the **Seek** method.
+If the current index is a multiple-field index, trailing key values can be omitted and are treated as **Null** values. That is, you can leave off any number of key values from the end of a **Seek** method's _key_ argument, but not from the beginning or the middle. However, if you don't specify all values in the index, you can use only the ">" or "<" comparison string with the **Seek** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

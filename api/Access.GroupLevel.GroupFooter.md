@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GroupLevel.GroupFooter property (Access)
 
-You can use the **GroupFooter** property to create a group footer for a selected field or expression in a report. Read/write **Boolean**.
+Use the **GroupFooter** property to create a group footer for a selected field or expression in a report. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)**
 
 ## Remarks
 
-You can use group headers and footers to label or summarize data in a group of records. For example, if you set the **GroupHeader** property to Yes for the **Categories** field, each group of products will begin with its category name.
+Use group headers and footers to label or summarize data in a group of records. For example, if you set the **GroupHeader** property to Yes for the **Categories** field, each group of products will begin with its category name.
 
 > [!NOTE] 
 > You can't set or refer to these properties directly in Visual Basic. To create a group header or footer for a field or expression in Visual Basic, use the **[CreateGroupLevel](Access.Application.CreateGroupLevel.md)** method.

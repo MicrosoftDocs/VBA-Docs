@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Remarks
 
-You can use **SetCurrentFormPage** to display a form region by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
+Use **SetCurrentFormPage** to display a form region by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
 
 
 ## Example

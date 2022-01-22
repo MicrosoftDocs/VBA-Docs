@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DoCmd.TransferSharePointList method (Access)
 
-You can use the **TransferSharePointList** method to import or link data from a SharePoint Foundation site.
+Use the **TransferSharePointList** method to import or link data from a SharePoint Foundation site.
 
 
 ## Syntax

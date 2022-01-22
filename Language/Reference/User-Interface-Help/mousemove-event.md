@@ -92,12 +92,12 @@ Moving a form can also generate a MouseMove event even if the mouse is stationar
 
 If two controls are very close together, and you move the mouse pointer quickly over the space between them, the MouseMove event might not occur for that space. In such cases, you might need to respond to the MouseMove event in both controls.
 
-You can use the value returned in the _Button_ argument to identify the state of the mouse buttons.
+Use the value returned in the _Button_ argument to identify the state of the mouse buttons.
 
 Use the _Shift_ argument to identify the state of SHIFT, CTRL, and ALT when the MouseMove event occurred. For example, if both CTRL and ALT are pressed, the value of _Shift_ is 6.
 
 > [!NOTE] 
-> You can use MouseDown and MouseUp event procedures to respond to events caused by pressing and releasing mouse buttons.
+> Use MouseDown and MouseUp event procedures to respond to events caused by pressing and releasing mouse buttons.
 
 
 ## See also

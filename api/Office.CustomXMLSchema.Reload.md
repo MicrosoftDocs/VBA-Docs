@@ -26,7 +26,7 @@ _expression_ An expression that returns a **[CustomXMLSchema](Office.CustomXMLSc
 
 ## Remarks
 
-Typically, this method is used to update the location of the schema or to determine if the schema is still valid. It is also useful for reloading a schema that frequently changes. If this action is attempted on a schema in a collection that is already validated or tied to a data stream, the operation is not performed and an error message is displayed.
+Typically, this method is used to update the location of the schema or to determine if the schema is still valid. It's also useful for reloading a schema that frequently changes. If this action is attempted on a schema in a collection that is already validated or tied to a data stream, the operation is not performed and an error message is displayed.
 
 
 ## Example

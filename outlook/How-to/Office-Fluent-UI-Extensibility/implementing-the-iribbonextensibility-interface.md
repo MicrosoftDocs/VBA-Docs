@@ -58,7 +58,7 @@ Outlook uses the following unique ribbon IDs.
 |Microsoft.Outlook.Task|IPM.Task.* and IPM.TaskRequest.*|
 |Microsoft.Outlook.Explorer|Not applicable. This ribbon ID lets you return XML for explorer ribbons, shortcut menus, and Backstage view.|
 
- **Note** Sticky notes do not implement the ribbon, so IPM.StickyNote is not listed in the table of ribbon IDs and message classes.
+ **Note** Sticky notes don't implement the ribbon, so IPM.StickyNote is not listed in the table of ribbon IDs and message classes.
 
 For all of the ribbon ID values except for Microsoft.Outlook.Explorer, notice that the corresponding message class is listed as **IPM.Type.** in the table. That means that either the first instance of the base message class (for example, IPM.Contact) or of a derived custom message class (IPM.Contact.ShoeStore) that appears in an inspector will cause Outlook to call **etCustomUI**. 
 
@@ -72,7 +72,7 @@ Because a base message class shares the same ribbon XML with the custom message 
     
 To customize the ribbon on all or multiple Outlook message classes, use the following recommendations:
 
-- To customize the first built-in tab on all Outlook inspectors, you must supply separate ribbon XML for different ribbon IDs because built-in first tabs do not have the same name across all ribbon IDs.
+- To customize the first built-in tab on all Outlook inspectors, you must supply separate ribbon XML for different ribbon IDs because built-in first tabs don't have the same name across all ribbon IDs.
     
 - To customize the ribbon on multiple Outlook inspectors, you might have to supply separate ribbon XML for different ribbon IDs depending upon the tab name.
     

@@ -45,7 +45,7 @@ You must balance calls to the **BeginUndoScope** method with calls to the **EndU
 You can also use the **BeginUndoScope** and **EndUndoScope** methods to add an action defined by an add-on to the Microsoft Visio undo stream. This is useful when you are operating from modeless scenarios where the initiating agent is part of an add-on's user interface or a modeless programmatic action.
 
 > [!NOTE] 
-> Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application do not need to call this method.
+> Most Visio actions are already wrapped in internal undo scopes, so add-ons running within the application don't need to call this method.
 
 
 ## Example

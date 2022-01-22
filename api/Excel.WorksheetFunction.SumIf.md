@@ -48,7 +48,7 @@ Sum_range does not have to be the same size and shape as range. The actual cells
 |A1:B4|C1:D4|C1:D4|
 |A1:B4|C1:C2|C1:D4|
 
-You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) preceding the character.
+Use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) preceding the character.
     
 
 

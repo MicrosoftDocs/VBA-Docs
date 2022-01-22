@@ -28,7 +28,7 @@ You should use the following code samples in the `ThisAddIn` class of an Outlook
 
 The following code shows how to programmatically modify an Outlook email attachment without changing the original file. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named `ModifyAttachmentAddIn`. Replace the code in ThisAddIn.cs or ThisAddIn.vb with the following code.
 
-**Note** To access the attachment data, the mail item must be saved using the [MailItem.Save](https://github.com/OfficeDev/VBA-content/edit/master/VBA/Outlook-VBA/articles/7d7b5f22-4749-e908-41a7-12a4c730c695.md) method.
+**Note** To access the attachment data, the mail item must be saved using the [MailItem.Save](https://github.com/OfficeDev/VBA-content/edit/main/VBA/Outlook-VBA/articles/7d7b5f22-4749-e908-41a7-12a4c730c695.md) method.
 
 ```cs
 using Outlook = Microsoft.Office.Interop.Outlook;
@@ -96,7 +96,7 @@ namespace ModifyAttachmentAddIn
         #region VSTO generated code
  
         /// <summary>
-        /// Required method for Designer support - do not modify
+        /// Required method for Designer support - don't modify
         /// the contents of this method with the code editor.
         /// </summary>
         private void InternalStartup()

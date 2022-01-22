@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. 
 
-You can use this method as many times as you want to add nodes to the freeform that you are creating. When you finish adding nodes, use the **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the freeform that you just defined.
+Use this method as many times as you want to add nodes to the freeform that you are creating. When you finish adding nodes, use the **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the freeform that you just defined.
 
 
 ## Syntax
@@ -34,10 +34,10 @@ _expression_ A variable that represents a **[FreeformBuilder](Publisher.Freeform
 |_EditingType_|Required| **[MsoEditingType](office.msoeditingtype.md)**|The editing type of the new node. Can be **msoEditingAuto** or **msoEditingCorner**.<br/><br/>If _SegmentType_ is **msoSegmentLine**, _EditingType_ must be **msoEditingAuto**; otherwise, an error occurs.|
 |_X1_|Required| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new node is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the first control point for the new segment.|
 |_Y1_|Required| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new node is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the first control point for the new segment.|
-|_X2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
-|_Y2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
-|_X3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
-|_Y3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, do not specify a value for this argument.|
+|_X2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
+|_Y2_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the vertical distance from the upper-left corner of the page to the second control point for the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
+|_X3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingCorner**, this argument specifies the horizontal distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
+|_Y3_|Optional| **Variant**|If the _EditingType_ of the new segment is **msoEditingAuto**, this argument specifies the vertical distance from the upper-left corner of the page to the endpoint of the new segment.<br/><br/>If the _EditingType_ of the new segment is **msoEditingAuto**, don't specify a value for this argument.|
 
 ## Remarks
 

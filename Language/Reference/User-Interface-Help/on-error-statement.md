@@ -42,7 +42,7 @@ If the calling procedure has an enabled error handler, it is activated to handle
 Each time the error handler passes control back to a calling procedure, that procedure becomes the current procedure. After an error is handled by an error handler in any procedure, execution resumes in the current procedure at the point designated by the **Resume** statement.
 
 > [!NOTE] 
-> An error-handling routine is not a **[Sub](sub-statement.md)** procedure or **[Function](function-statement.md)** procedure. It is a section of code marked by a line label or line number.
+> An error-handling routine is not a **[Sub](sub-statement.md)** procedure or **[Function](function-statement.md)** procedure. It's a section of code marked by a line label or line number.
 
 Error-handling routines rely on the value in the **[Number](number-property-visual-basic-for-applications.md)** property of the **[Err](err-object.md)** object to determine the cause of the error. The error-handling routine should test or save relevant property values in the **Err** object before any other error can occur or before a procedure that might cause an error is called. The property values in the **Err** object reflect only the most recent error. The error message associated with **Err.Number** is contained in **Err.Description**. 
 
@@ -77,7 +77,7 @@ Err.Number = vbObjectError + 1052
 ```
 
 > [!NOTE] 
-> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **[LastDLLError](lastdllerror-property.md)** property. **LastDLLError** always returns zero on the Macintosh.
+> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources don't raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **[LastDLLError](lastdllerror-property.md)** property. **LastDLLError** always returns zero on the Macintosh.
 
 
 ## Example

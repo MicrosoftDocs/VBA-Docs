@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # About programming Visio Viewer
 
-Visio Viewer is an ActiveX control that lets you open, view, or print Visio drawings, even if you do not have Visio. You cannot, however, edit, save, or create a new Visio drawing in Visio Viewer. For that, you need Visio.
+Visio Viewer is an ActiveX control that lets you open, view, or print Visio drawings, even if you don't have Visio. You cannot, however, edit, save, or create a new Visio drawing in Visio Viewer. For that, you need Visio.
 
 Visio Viewer provides an application programming interface (API) that lets solution developers perform numerous tasks, among them the following:
 
@@ -27,7 +27,7 @@ Visio Viewer provides an application programming interface (API) that lets solut
 
 ## Programming Visio Viewer in Visual Basic 6.0
 
-You can use Visual Basic 6.0 to instantiate the Visio Viewer control in various containers (for example, a Windows form). Before you can do so, you must get a reference to the Visio Viewer API.
+Use Visual Basic 6.0 to instantiate the Visio Viewer control in various containers (for example, a Windows form). Before you can do so, you must get a reference to the Visio Viewer API.
 
 Use the following steps to get a reference to the Visio Viewer API in a Visual Basic 6.0 project.
 
@@ -69,7 +69,7 @@ End Sub
 
 ## Programming Visio Viewer on an HTML webpage
 
-You can use the Visio Viewer control to embed a Visio drawing into a webpage, by manually inserting tags and parameters in the source code of the page. To write the source code, you can use a text editor, such as Notepad, or any other application that creates webpages, such as Microsoft Expression Web 3 or SharePoint Designer.
+Use the Visio Viewer control to embed a Visio drawing into a webpage, by manually inserting tags and parameters in the source code of the page. To write the source code, you can use a text editor, such as Notepad, or any other application that creates webpages, such as Microsoft Expression Web 3 or SharePoint Designer.
 
 You can set any of the properties of Visio Viewer by using the PARAM tag, as shown in the following sample code, which sets the **Src** property of Visio Viewer.
 
@@ -93,7 +93,7 @@ Copy the code into a file in a text editor, and save the resulting document as a
 
 ## Programming Visio Viewer in managed code
 
-You can use managed code to instantiate the Visio Viewer control in various containers, such as a Windows form, for example. Before you can do so, you must get a reference to the Visio Viewer API.
+Use managed code to instantiate the Visio Viewer control in various containers, such as a Windows form, for example. Before you can do so, you must get a reference to the Visio Viewer API.
 
 Use the following steps to get a reference to the Visio Viewer API in a Visual Studio 2008 project.
 

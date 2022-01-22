@@ -25,7 +25,7 @@ The **MailModule** object, derived from the **[NavigationModule](Outlook.Navigat
 > [!NOTE] 
 > Unlike other navigation modules, such as the **[CalendarModule](Outlook.CalendarModule.md)** object, you cannot create or delete navigation groups in the **MailModule** object.
 
-You can use the **[Visible](Outlook.MailModule.Visible.md)** property to determine if the navigation module is visible, and the **[Position](Outlook.MailModule.Position.md)** property to return or set the display position of the navigation module within the navigation pane. You can use the **[Name](Outlook.MailModule.Name.md)** property to return the display name of the **Mail** navigation module within the navigation pane.
+Use the **[Visible](Outlook.MailModule.Visible.md)** property to determine if the navigation module is visible, and the **[Position](Outlook.MailModule.Position.md)** property to return or set the display position of the navigation module within the navigation pane. Use the **[Name](Outlook.MailModule.Name.md)** property to return the display name of the **Mail** navigation module within the navigation pane.
 
 
 ## Properties

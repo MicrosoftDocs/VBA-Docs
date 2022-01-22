@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DFirst method (Access)
 
-You can use the **DFirst** function to return a random record from a particular field in a table or query when you need any value from that field.
+Use the **DFirst** function to return a random record from a particular field in a table or query when you need any value from that field.
 
 
 ## Syntax

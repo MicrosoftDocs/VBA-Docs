@@ -39,7 +39,7 @@ Sub RoundToZero2()
 End Sub
 ```
 
-If you do not know the boundaries of the range you want to loop through, you can use the **CurrentRegion** property to return the range that surrounds the active cell. For example, the following procedure, when run from a worksheet, loops through the range that surrounds the active cell, setting to 0 (zero) any number whose absolute value is less than 0.01.
+If you don't know the boundaries of the range you want to loop through, you can use the **CurrentRegion** property to return the range that surrounds the active cell. For example, the following procedure, when run from a worksheet, loops through the range that surrounds the active cell, setting to 0 (zero) any number whose absolute value is less than 0.01.
 
 
 

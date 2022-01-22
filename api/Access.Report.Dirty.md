@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Dirty property (Access)
 
-You can use the **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
+Use the **Dirty** property to determine whether the current record has been modified since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax

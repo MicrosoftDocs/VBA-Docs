@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.UpdateOptions property (Access)
 
-You can use the **UpdateOptions** property to specify how a linked OLE object is updated. Read/write **Integer**.
+Use the **UpdateOptions** property to specify how a linked OLE object is updated. Read/write **Integer**.
 
 
 ## Syntax

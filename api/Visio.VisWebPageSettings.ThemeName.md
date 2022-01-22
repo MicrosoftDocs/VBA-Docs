@@ -28,7 +28,7 @@ _expression_ An expression that returns a **[VisWebPageSettings](Visio.VisWebPag
 
 ## Remarks
 
-You can use themes that are provided by Microsoft Visio or themes that you create yourself. If you want to create your own theme, do the following: 
+Use themes that are provided by Microsoft Visio or themes that you create yourself. If you want to create your own theme, do the following: 
 
 1. Create an HTM file that contains the following term in an HTML tag: `##VIS_SAW_FILE##`. Visio recognizes HTM files that contain this tag as theme files.
     

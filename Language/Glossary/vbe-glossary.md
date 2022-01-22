@@ -198,7 +198,7 @@ A Visual Basic identifier that is defined using the **#Const** compiler directiv
 
 ## constant
 
-A named item that retains a constant value throughout the execution of a program. A constant can be a string or numeric literal, another constant, or any combination that includes arithmetic or logical operators except **Is** and exponentiation. Each host application can define its own set of constants. Additional constants can be defined by the user with the **Const** statement. You can use constants anywhere in your code in place of actual values.
+A named item that retains a constant value throughout the execution of a program. A constant can be a string or numeric literal, another constant, or any combination that includes arithmetic or logical operators except **Is** and exponentiation. Each host application can define its own set of constants. Additional constants can be defined by the user with the **Const** statement. Use constants anywhere in your code in place of actual values.
 
 
 ## container
@@ -274,7 +274,7 @@ Nonexecutable code that names a constant, variable, or procedure, and specifies 
 
 ## designer
 
-Provides a visual design window in the Visual Basic development environment. You can use this window to design new classes visually. Visual Basic has built-in designers for forms. The Professional and Enterprise editions of Visual Basic include designers for ActiveX controls and ActiveX documents.
+Provides a visual design window in the Visual Basic development environment. Use this window to design new classes visually. Visual Basic has built-in designers for forms. The Professional and Enterprise editions of Visual Basic include designers for ActiveX controls and ActiveX documents.
 
 
 ## design time
@@ -567,7 +567,7 @@ An expression that specifies a particular object and can include any of the obje
 
 ## object library
 
-A file with the .olb extension that provides information to Automation controllers (like Visual Basic) about available objects. You can use the **Object Browser** to examine the contents of an object library to get information about the objects provided.
+A file with the .olb extension that provides information to Automation controllers (like Visual Basic) about available objects. Use the **Object Browser** to examine the contents of an object library to get information about the objects provided.
 
 
 ## object module
@@ -669,7 +669,7 @@ Variables declared using the **Public** statement are visible to all procedures 
 
 ## referenced project
 
-The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they do not result in a complete cycle.
+The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they don't result in a complete cycle.
 
 
 ## referencing project

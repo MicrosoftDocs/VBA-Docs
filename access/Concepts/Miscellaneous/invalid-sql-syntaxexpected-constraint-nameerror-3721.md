@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-When defining referential integrity from a SQL DDL statement, it is necessary to name a constraint when using the CONSTRAINT keyword. If a constraint name is not desired, do not use the CONSTRAINT keyword. An example of this error would be:
+When defining referential integrity from a SQL DDL statement, it is necessary to name a constraint when using the CONSTRAINT keyword. If a constraint name is not desired, don't use the CONSTRAINT keyword. An example of this error would be:
 
 ```sql
 CREATE TABLE Customers (CLstNm TEXT(50), CFrstNm TEXT(25), CONSTRAINT PRIMARY KEY (CFrstNm, CLstNm));
@@ -25,7 +25,7 @@ To prevent the error, include a name after the CONSTRAINT keyword:
 CREATE TABLE Customers (CLstNm TEXT(50), CFrstNm TEXT(25), CONSTRAINT pkCustomers PRIMARY KEY (CFrstNm, CLstNm));
 ```
 
-or do not use the CONSTRAINT keyword:
+or don't use the CONSTRAINT keyword:
 
 ```sql
 CREATE TABLE Customers (CLstNm TEXT(50), CFrstNm TEXT(25), PRIMARY KEY (CFrstNm, CLstNm));

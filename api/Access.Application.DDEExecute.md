@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDEExecute method (Access)
 
-You can use the **DDEExecute** statement to send a command from a client application to a server application over an open dynamic data exchange (DDE) channel.
+Use the **DDEExecute** statement to send a command from a client application to a server application over an open dynamic data exchange (DDE) channel.
 
 
 ## Syntax

@@ -17,7 +17,7 @@ Returns or sets the value of another control based on the position of the scroll
 
 ## Remarks
 
-A **ScrollBar** is a stand-alone control you can place on a form. It is visually like the scroll bar you see in certain objects such as a **[ListBox](Outlook.listbox.md)** or the drop-down portion of a **[ComboBox](Outlook.combobox.md)**. However, unlike the scroll bars in these controls, the stand-alone **ScrollBar** is not an integral part of any other control.
+A **ScrollBar** is a stand-alone control you can place on a form. It's visually like the scroll bar you see in certain objects such as a **[ListBox](Outlook.listbox.md)** or the drop-down portion of a **[ComboBox](Outlook.combobox.md)**. However, unlike the scroll bars in these controls, the stand-alone **ScrollBar** is not an integral part of any other control.
 
 To use the **ScrollBar** to set or read the value of another control, you must write code that uses the **ScrollBar** control's **[Value](Outlook.scrollbar.value.md)** property. For example, to use the **ScrollBar** to update the value of a **[TextBox](Outlook.textbox.md)**, you can write code that reads the **Value** property of the **ScrollBar** and then sets the **[Value](Outlook.scrollbar.value.md)** property of the **TextBox**.
 

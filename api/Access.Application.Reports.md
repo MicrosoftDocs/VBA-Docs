@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Reports property (Access)
 
-You can use the **Reports** property to access the read-only **[Reports](Access.Reports.md)** collection and its related properties.
+Use the **Reports** property to access the read-only **[Reports](Access.Reports.md)** collection and its related properties.
 
 
 ## Syntax

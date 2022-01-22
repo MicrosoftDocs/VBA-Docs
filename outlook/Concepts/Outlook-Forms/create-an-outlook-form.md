@@ -9,7 +9,7 @@ ms.localizationpriority: high
 
 # Create an Outlook Form
 
-You must base all custom forms in Microsoft Outlook on standard forms. Some of the default pages of these forms can be customized. If you do not want to use the functionality in a default form that Outlook provides, you can customize the form by hiding, adding, or replacing portions of pages or entire pages, or by replacing entire standard forms.
+You must base all custom forms in Microsoft Outlook on standard forms. Some of the default pages of these forms can be customized. If you don't want to use the functionality in a default form that Outlook provides, you can customize the form by hiding, adding, or replacing portions of pages or entire pages, or by replacing entire standard forms.
 
 There are a few things to consider when you select the standard Outlook form for your custom form solution:
 

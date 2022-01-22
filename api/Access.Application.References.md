@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.References property (Access)
 
-You can use the **References** property to access the **[References](Access.References.md)** collection and its related properties, methods, and events. Read-only **References** collection.
+Use the **References** property to access the **[References](Access.References.md)** collection and its related properties, methods, and events. Read-only **References** collection.
 
 
 ## Syntax

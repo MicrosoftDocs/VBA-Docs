@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PaletteSource property (Access)
 
-You can use the **PaletteSource** property to specify the palette for a report. Read/write **String**.
+Use the **PaletteSource** property to specify the palette for a report. Read/write **String**.
 
 
 ## Syntax

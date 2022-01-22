@@ -24,7 +24,7 @@ CREATE TABLE tblCustomers
 Be aware of the following issues when creating and deleting tables:
 
 - If a field name includes a space or some other nonalphanumeric character, you must enclose that field name within square brackets ([ ]).     
-- If you do not declare a length for text fields, they will default to 255 characters. For consistency and code readability, you should always define your field lengths. 
+- If you don't declare a length for text fields, they will default to 255 characters. For consistency and code readability, you should always define your field lengths. 
     
 You can declare a field to be **NOT NULL**, which means that null values cannot be inserted into that particular field; a value is always required. A null value should not be confused with an empty string or a value of 0; it is simply the database representation of an unknown value.
 

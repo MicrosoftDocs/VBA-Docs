@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.ColumnHidden property (Access)
 
-You can use the **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
+Use the **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax

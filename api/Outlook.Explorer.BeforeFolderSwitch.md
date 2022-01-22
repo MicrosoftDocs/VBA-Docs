@@ -62,7 +62,7 @@ Private Sub myOlExp_BeforeFolderSwitch(ByVal NewFolder As Object, Cancel As Bool
  
  If NewFolder.Name = "Off Limits" Then 
  
- MsgBox "You do not have permission to access this folder." 
+ MsgBox "You don't have permission to access this folder." 
  
  Cancel = True 
  

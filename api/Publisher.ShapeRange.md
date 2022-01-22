@@ -21,7 +21,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
     
 ## Remarks
 
-Use **[Shapes.Range](Publisher.Shapes.Range.md)** (_index_), where _index_ is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. 
+Use **[Shapes.Range](Publisher.Shapes.Range.md)** (_index_), where _index_ is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. Use Visual Basic's **Array** function to construct an array of index numbers. 
 
 Although you can use the **Shapes.Range** method to return any number of shapes, it is simpler to use the **[Item](Publisher.ShapeRange.Item.md)** method if you want to return only a single member of the collection. For example, **Shapes** (1) is simpler than **Shapes.Range** (1).
 

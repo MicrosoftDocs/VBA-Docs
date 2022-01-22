@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotItem](Excel.PivotItem.md)** ob
 
 ## Remarks
 
-You can use this property only for OLAP data sources.
+Use this property only for OLAP data sources.
 
 You cannot set this property if the field or item is hidden.
 

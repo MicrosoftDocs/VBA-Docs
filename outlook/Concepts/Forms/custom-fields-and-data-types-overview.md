@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Custom Fields and Data Types Overview
 
-You can use custom fields in several ways in Microsoft Outlook, including the following:
+Use custom fields in several ways in Microsoft Outlook, including the following:
 
 
 - You can create new data-entry fields for a view or a form so that users can add their own custom information. For example, you can create a **Date/Time** field named "Last Talked To" in a contact folder and then add the field to a **Phone List** view.
@@ -30,7 +30,7 @@ You can create and view custom fields in table views and card views. You can cre
 | **Currency**|Numeric data as currency or mathematical calculations that involve money.|
 | **Date/Time**|Date and time data.|
 | **Duration**|Numeric data. You can enter a duration as minutes, hours, or days. Values are saved as minutes.|
-| **Formula**|Calculations based on standard and custom fields. You can use any appropriate functions and operators to complete the formula. |
+| **Formula**|Calculations based on standard and custom fields. Use any appropriate functions and operators to complete the formula. |
 | **Integer**|Non-decimal numeric data.|
 | **Keywords**|When filled in, this user-defined field is used to group and find related items similar to the way the **Categories** field is used in Outlook. Text with multiple values to be separated by commas. Each value can be grouped individually in a view.|
 | **Number**|Numeric data or mathematical calculations except those that involve money. (For money, use **Currency** data type.)|

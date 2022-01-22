@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Filenames_|Optional|**String**|One or more file names of projects to consolidate.|
 | _NewWindow_|Optional|**Boolean**|**True** if projects are inserted (consolidated) into a new project. **False** if projects are inserted into the active project at the selection point. The default value is **False**.|
 | _AttachToSources_|Optional|**Boolean**|**True** if changes in the consolidated project affect source projects. The default value is **True**.|
-| _PoolResources_|Optional|**Variant**|The  _PoolResources_ argument is ignored in Project. It is retained so that existing macros that use this argument do not cause errors.|
+| _PoolResources_|Optional|**Variant**|The  _PoolResources_ argument is ignored in Project. It's retained so that existing macros that use this argument don't cause errors.|
 | _HideSubtasks_|Optional|**Boolean**|**True** if the subtasks of the projects specified with Filenames are hidden. The default value is **True**.|
 | _openPool_|Optional|**Long**|The action to take when opening a resource pool or sharer file. When opening a master project, the value for this argument is also applied to the subprojects. Can be one of the following **[PjPoolOpen](Project.PjPoolOpen.md)** constants. The default value is **pjPromptPool**.|
 | _UserID_|Optional|**Variant**| A user ID to use when accessing a project in a database. If Filenames does not refer to a database, **UserID** is ignored.|

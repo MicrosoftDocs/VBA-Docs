@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-You can use the information provided by this event to display the number of bytes downloaded or to update a progress indicator.
+Use the information provided by this event to display the number of bytes downloaded or to update a progress indicator.
 
 To calculate the percent of progress to show in a progress indicator, multiply the value of _Progress_ by 100, and divide by the value of _ProgressMax_, unless _Progress_ is -1, in which case the container indicates that the operation is finished or hides the progress indicator.
 

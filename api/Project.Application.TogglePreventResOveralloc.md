@@ -31,7 +31,7 @@ _expression_. `TogglePreventResOveralloc`
 
 ## Remarks
 
-When the **Prevent Overallocations** command is active, Project automatically moves tasks so that resources do not become overallocated because of changes made in the Team Planner view. Overallocations that exist when the **Prevent Overallocations** command is made active are also resolved.
+When the **Prevent Overallocations** command is active, Project automatically moves tasks so that resources don't become overallocated because of changes made in the Team Planner view. Overallocations that exist when the **Prevent Overallocations** command is made active are also resolved.
 
 The **TogglePreventResOveralloc** method corresponds to the **Prevent Overallocations** command on the **Format** tab under **Team Planner Tools** on the ribbon.
 

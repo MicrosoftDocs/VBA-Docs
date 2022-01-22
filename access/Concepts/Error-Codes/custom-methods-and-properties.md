@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Custom methods and properties
 
-You can use a class module to create a definition for a new custom object. When you create a new instance of a class, you create a new object and return a reference to it.
+Use a class module to create a definition for a new custom object. When you create a new instance of a class, you create a new object and return a reference to it.
 
 Any public procedures defined within the class module become methods of the new object. The **Sub** statement defines a method that doesn't return a value; the **Function** statement defines a method that may return a value of a specified type.
 

@@ -36,7 +36,7 @@ While these are the only two named constants the **ValidationStatus** property a
 
 ## Example
 
-The following example checks each element in the active document and displays a message containing the elements that do not validate according to the schema and a description of why.
+The following example checks each element in the active document and displays a message containing the elements that don't validate according to the schema and a description of why.
 
 ```vb
 Dim objNode As XMLNode 
@@ -50,7 +50,7 @@ For Each objNode In ActiveDocument.XMLNodes
  End If 
 Next 
  
-MsgBox "The following elements do not validate against " & _ 
+MsgBox "The following elements don't validate against " & _ 
  "the schema." & vbCrLf & vbCrLf & strValid & vbCrLf & _ 
  "You should fix these elements before continuing."
 ```

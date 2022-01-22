@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 
 # Viewer object (Visio Viewer)
 
-The **Viewer** object is a programmable ActiveX control that enables you to display Visio drawings (with limited functionality) on webpages and in Windows Forms, so that users who do not have Visio installed on their computers can view and interact with them.
+The **Viewer** object is a programmable ActiveX control that enables you to display Visio drawings (with limited functionality) on webpages and in Windows Forms, so that users who don't have Visio installed on their computers can view and interact with them.
 
 
 ## Remarks
 
-With Visio Viewer, users can open, view, or print Visio drawings, even if they do not have Microsoft Visio installed. They cannot, however, edit or save drawings, or create a new Visio drawing. For that, they need to install Visio.
+With Visio Viewer, users can open, view, or print Visio drawings, even if they don't have Microsoft Visio installed. They cannot, however, edit or save drawings, or create a new Visio drawing. For that, they need to install Visio.
 
 The **Viewer** object is the entry point to the **Viewer** object model, and represents an instance of the Viewer control. The properties, events, and methods available in the **Viewer** object model let you load and unload Visio drawings in Visio Viewer, temporarily change properties and settings of the drawing, react to user input, and customize the Visio Viewer environment. In many cases, these members correspond to the options available to users in the Visio Viewer user interface (UI).
 

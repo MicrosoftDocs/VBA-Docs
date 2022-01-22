@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 When you select a chart in a report, the **Quick Layout** drop-down list is on the **DESIGN** tab under **CHART TOOLS** on the ribbon. You can manually change the chart type by using the **Change Chart Type** command on the same ribbon tab.
 
-When you use a layout on the current chart type, the  _Layout_ parameter is limited to the number of items in the **Quick Layout** drop-down list. You can use the _varChartType_ parameter to apply the layout of a different chart type on the current chart. For example, you can apply the layouts that are available from a line chart to a column chart. The **ApplyLayout** method adds only the line chart elements that are also available for the column chart type.
+When you use a layout on the current chart type, the  _Layout_ parameter is limited to the number of items in the **Quick Layout** drop-down list. Use the _varChartType_ parameter to apply the layout of a different chart type on the current chart. For example, you can apply the layouts that are available from a line chart to a column chart. The **ApplyLayout** method adds only the line chart elements that are also available for the column chart type.
 
 
 ## Example

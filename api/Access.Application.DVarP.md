@@ -43,10 +43,10 @@ If _domain_ refers to fewer than two records, or if fewer than two records satis
 
 Whether you use the **DVarP** function in a macro, module, query expression, or calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the **DVarP** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
+Use the **DVarP** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use the **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
+> Use the **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
 
 If you simply want to find the standard deviation across all records in _domain_, use the **Var** or **VarP** function.
 

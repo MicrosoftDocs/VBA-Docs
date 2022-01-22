@@ -200,7 +200,7 @@ The following table identifies the predefined numeric format names.
 
 ## User-defined string formats
  
-You can use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings.
+Use any of the following characters to create a format [expression](../../Glossary/vbe-glossary.md#expression) for strings.
 
 |Character|Description|
 |:-----|:-----|

@@ -38,7 +38,7 @@ If _testexpression_ matches any **Case** _expressionlist_ expression, the _state
 
 The **Case Else** clause is used to indicate the _elsestatements_ to be executed if no match is found between the _testexpression_ and an _expressionlist_ in any of the other **Case** selections. Although not required, it is a good idea to have a **Case Else** statement in your **Select Case** block to handle unforeseen _testexpression_ values. If no **Case** _expressionlist_ matches _testexpression_ and there is no **Case Else** statement, execution continues at the statement following **End Select**.
 
-You can use multiple expressions or ranges in each **Case** clause. For example, the following line is valid:
+Use multiple expressions or ranges in each **Case** clause. For example, the following line is valid:
 
 ```vb
 Case 1 To 4, 7 To 9, 11, 13, Is > MaxNumber 

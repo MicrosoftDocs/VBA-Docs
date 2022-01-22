@@ -42,7 +42,7 @@ The default value for a **[ComboBox](combobox-control.md)**, **[Frame](frame-con
 
 For a **Frame**, the **BorderStyle** property is ignored if the **SpecialEffect** property is _None_.
 
-You can use either **BorderStyle** or **SpecialEffect** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to **fmBorderStyleSingle**, the system sets **SpecialEffect** to zero ( _Flat_ ). If you specify a nonzero value for **SpecialEffect**, the system sets **BorderStyle** to zero.
+Use either **BorderStyle** or **SpecialEffect** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to **fmBorderStyleSingle**, the system sets **SpecialEffect** to zero ( _Flat_ ). If you specify a nonzero value for **SpecialEffect**, the system sets **BorderStyle** to zero.
 
 **BorderStyle** uses **BorderColor** to define the colors of its borders.
 

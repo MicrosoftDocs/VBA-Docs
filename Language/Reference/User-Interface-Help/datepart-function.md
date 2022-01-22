@@ -74,7 +74,7 @@ The _firstweekofyear_ argument has these settings:
 
 ## Remarks
 
-You can use the **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
+Use the **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 
 The _firstdayofweek_ argument affects calculations that use the "w" and "ww" interval symbols.
 

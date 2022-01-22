@@ -28,7 +28,7 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 This property specifies a **Recipients** collection object that has a **[Recipients.Count](Outlook.Recipients.Count.md)** equal to the total number of recipients in the **To**, **Cc**, and **Bcc** edit boxes.
 
-If you do not set this property before displaying the **Select Names** dialog box, then the **Recipients** object represented by **SelectNamesDialog.Recipients** will have a **Recipients.Count** equal to zero.
+If you don't set this property before displaying the **Select Names** dialog box, then the **Recipients** object represented by **SelectNamesDialog.Recipients** will have a **Recipients.Count** equal to zero.
 
 If the user does not select any names from the **Select Names** dialog box and clicks **OK**, **SelectNamesDialog.Recipients** will return a **Recipients** collection object with **Recipients.Count** equal to zero.
 

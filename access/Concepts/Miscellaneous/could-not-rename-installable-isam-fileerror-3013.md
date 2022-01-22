@@ -20,7 +20,7 @@ Possible causes:
 
 - The file has been defined as read-only in the operating system or by your network.
     
-- In a network environment, you do not have write privileges for the file.
+- In a network environment, you don't have write privileges for the file.
     
 
 ## See also

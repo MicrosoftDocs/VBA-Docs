@@ -42,7 +42,7 @@ The maximum and minimum values for the  _Left_, _Top_, _Width_, _Height_, _X_, a
 
 For a form or control, you can move a selection to a specific location relative to the edges of the form that contains the selection.
 
-You can use [named arguments](../../Glossary/vbe-glossary.md#named-argument), or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you do not specify. Any unspecified arguments remain unchanged.
+Use [named arguments](../../Glossary/vbe-glossary.md#named-argument), or you can enter the arguments by position. If you use named arguments, you can list the arguments in any order. If not, you must enter the arguments in the order shown, using commas to indicate the relative position of arguments you don't specify. Any unspecified arguments remain unchanged.
 
 For the **Controls** collection, you can move all the controls in this collection a specific distance from their current positions on a form, **[Frame](frame-control.md)**, or **Page**.
 

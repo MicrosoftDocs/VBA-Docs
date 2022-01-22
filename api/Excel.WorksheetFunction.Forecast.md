@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.Forecast method (Excel)
 
-Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. You can use this function to predict future sales, inventory requirements, or consumer trends.
+Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. Use this function to predict future sales, inventory requirements, or consumer trends.
 
 > [!NOTE] 
 > This member is deprecated in Office 2016 and later versions.

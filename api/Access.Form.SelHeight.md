@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SelHeight property (Access)
 
-You can use the **SelHeight** property to specify or determine the number of selected rows (records) in the current selection rectangle in a table, query, or form datasheet, or the number of selected records in a continuous form. Read/write **Long**.
+Use the **SelHeight** property to specify or determine the number of selected rows (records) in the current selection rectangle in a table, query, or form datasheet, or the number of selected records in a continuous form. Read/write **Long**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ If there's no selection, the value returned by this property will be zero. Setti
 
 If you've selected one or more columns in a datasheet (using the column headings), you can't change the setting of the **SelHeight** property (except to set it to 0).
 
-You can use these properties with the **SelTop** and **SelLeft** properties to specify or determine the actual position of the selection rectangle on the datasheet. If there's no selection, the **SelTop** and **SelLeft** properties return the row number and column number of the cell with the focus.
+Use these properties with the **SelTop** and **SelLeft** properties to specify or determine the actual position of the selection rectangle on the datasheet. If there's no selection, the **SelTop** and **SelLeft** properties return the row number and column number of the cell with the focus.
 
 The **SelHeight** and **SelWidth** properties contain the position of the lower-right corner of the selection rectangle. 
 

@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the AddMenu action to create a:
+Use the AddMenu action to create a:
 
 - **Custom menu bar** for a form or report. The custom menu bar replaces the built-in menu bar for the form or report.
     
