@@ -79,7 +79,7 @@ ALTER TABLE tblCustomers
 
 ```
 
-However, using the shortcut method will cause Access to randomly generate a name for the constraint, which will make it difficult to reference in code. It is a good idea always to name your constraints.
+However, using the shortcut method will cause Access to randomly generate a name for the constraint, which will make it difficult to reference in code. It's a good idea always to name your constraints.
 
 To drop a constraint, use the **DROP CONSTRAINT** clause with the **ALTER TABLE** statement, and supply the name of the constraint.
 

@@ -17,7 +17,7 @@ Contains information for the new Model Connection Type introduced in Excel 2013 
 
 ## Remarks
 
-Use for all PivotTables connected to the model. The **ModelConnection** object is a new "special" workbook connection that always exists (and cannot be deleted) in workbooks that have a data model. It is created when the model is first created in a workbook. All the properties of this workbook connection are read-only. Its name is _Workbook Data Model_.
+Use for all PivotTables connected to the model. The **ModelConnection** object is a new "special" workbook connection that always exists (and cannot be deleted) in workbooks that have a data model. It's created when the model is first created in a workbook. All the properties of this workbook connection are read-only. Its name is _Workbook Data Model_.
 
 ## Properties
 

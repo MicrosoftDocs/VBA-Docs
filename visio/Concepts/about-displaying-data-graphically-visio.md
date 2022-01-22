@@ -163,7 +163,7 @@ For intCounter = 1 To ActiveDocument.Masters.Count
     Next
 ```
 
-Similarly, you can iterate through the **GraphicItems** collection of a master to determine the values of the **[ID](../../api/Visio.GraphicItem.ID.md)** and **[Tag](../../api/Visio.GraphicItem.Tag.md)** properties of an existing graphic item, as shown in the following example. The **Tag** property is a string that Visio does not use. It is empty by default. However, you can set its value to make it easier to identify individual graphic items programmatically.
+Similarly, you can iterate through the **GraphicItems** collection of a master to determine the values of the **[ID](../../api/Visio.GraphicItem.ID.md)** and **[Tag](../../api/Visio.GraphicItem.Tag.md)** properties of an existing graphic item, as shown in the following example. The **Tag** property is a string that Visio does not use. It's empty by default. However, you can set its value to make it easier to identify individual graphic items programmatically.
 
 
 

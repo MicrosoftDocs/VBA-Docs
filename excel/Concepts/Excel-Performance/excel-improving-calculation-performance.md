@@ -141,8 +141,8 @@ A formula is flagged as uncalculated when it refers to (depends on) a cell or fo
 
 - It was entered.
 - It was changed.
-- It is in an AutoFilter list, and the criteria drop-down list was enabled.
-- It is flagged as uncalculated.
+- It's in an AutoFilter list, and the criteria drop-down list was enabled.
+- It's flagged as uncalculated.
 
 A formula that is flagged as uncalculated is evaluated when the worksheet, workbook, or Excel instance that contains it is calculated or recalculated. 
 
@@ -454,11 +454,11 @@ The drill-down approach starts by timing the calculation of the workbook, the ca
 
 ### Speeding up calculations and reducing obstructions
 
-It is not the number of formulas or the size of a workbook that consumes the calculation time. It is the number of cell references and calculation operations, and the efficiency of the functions being used.
+It's not the number of formulas or the size of a workbook that consumes the calculation time. It's the number of cell references and calculation operations, and the efficiency of the functions being used.
 
 Because most worksheets are constructed by copying formulas that contain a mixture of absolute and relative references, they usually contain a large number of formulas that contain repeated or duplicated calculations and references.
 
-Avoid complex mega-formulas and array formulas. In general, it is better to have more rows and columns and fewer complex calculations. This gives both the smart recalculation and the multithreaded calculation in Excel a better opportunity to optimize the calculations. It is also easier to understand and debug. The following are a few rules to help you speed up workbook calculations.
+Avoid complex mega-formulas and array formulas. In general, it is better to have more rows and columns and fewer complex calculations. This gives both the smart recalculation and the multithreaded calculation in Excel a better opportunity to optimize the calculations. It's also easier to understand and debug. The following are a few rules to help you speed up workbook calculations.
 
 #### First rule: Remove duplicated, repeated, and unnecessary calculations
 

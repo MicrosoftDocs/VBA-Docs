@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Remarks
 
-The **NewRecord** property is read-only in Form view and Datasheet view. It isn't available in Design view.
+The **NewRecord** property is read-only in Form view and Datasheet view. It'sn't available in Design view.
 
 When a user has moved to a new record, the **NewRecord** property setting will be **True** whether or not the user has started to edit the record.
 

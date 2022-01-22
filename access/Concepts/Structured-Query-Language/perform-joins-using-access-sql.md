@@ -59,7 +59,7 @@ SELECT [Last Name], InvoiceDate, Amount, City, State
    ORDER BY InvoiceDate 
 ```
 
-Be aware that the first **JOIN** clause is enclosed in parentheses to keep it logically separated from the second **JOIN** clause. It is also possible to join a table to itself by using an alias for the second table name in the **FROM** clause. Suppose that you want to find all customer records that have duplicate last names. You can do this by creating the alias "A" for the second table and checking for first names that are different.
+Be aware that the first **JOIN** clause is enclosed in parentheses to keep it logically separated from the second **JOIN** clause. It's also possible to join a table to itself by using an alias for the second table name in the **FROM** clause. Suppose that you want to find all customer records that have duplicate last names. You can do this by creating the alias "A" for the second table and checking for first names that are different.
 
 
 

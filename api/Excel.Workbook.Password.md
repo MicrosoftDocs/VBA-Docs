@@ -31,7 +31,7 @@ Use strong passwords that combine uppercase and lowercase letters, numbers, and 
 - Strong password: Y6dh!et5
 - Weak password: House27
 
-Passwords should be 8 or more characters in length. A pass phrase that uses 14 or more characters is better. It is critical that you remember your password. If you forget your password, Microsoft cannot retrieve it. Store the passwords that you write down in a secure place away from the information that they help protect. 
+Passwords should be 8 or more characters in length. A pass phrase that uses 14 or more characters is better. It's critical that you remember your password. If you forget your password, Microsoft cannot retrieve it. Store the passwords that you write down in a secure place away from the information that they help protect. 
 
 
 ## Example

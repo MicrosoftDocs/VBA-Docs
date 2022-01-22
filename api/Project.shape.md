@@ -50,7 +50,7 @@ Sub TestTextShape()
     Set textShape = theReport.Shapes.AddTextbox(msoTextOrientationHorizontal, 30, 30, 300, 100)
     textShape.Name = "TestTextBox"
     
-    textShape.TextFrame2.TextRange.Characters.Text = "This is a test. It is only a test. " _
+    textShape.TextFrame2.TextRange.Characters.Text = "This is a test. It's only a test. " _
         & "If it had been real information, there would be some real text here."
     textShape.TextFrame2.TextRange.Characters(1, 15).ParagraphFormat.FirstLineIndent = 0
     

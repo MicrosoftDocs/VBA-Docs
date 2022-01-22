@@ -37,7 +37,7 @@ If you leave the _StatusBarText_ argument blank, do not use a comma following th
 
 If you turn echo off in Visual Basic, you must turn it back on or it will remain off, even if the user presses Ctrl+Break or if Visual Basic encounters a breakpoint. You may want to create a macro that turns echo on, and then assign that macro to a key combination or a custom menu command. You could then use the key combination or menu command to turn echo on if it has been turned off in Visual Basic.
 
-The **Echo** method of the **DoCmd** object was added to provide backward compatibility for running the Echo action in Visual Basic code in Microsoft Access for Windows 95. It is recommended that you use the existing **Echo** method of the **Application** object instead.
+The **Echo** method of the **DoCmd** object was added to provide backward compatibility for running the Echo action in Visual Basic code in Microsoft Access for Windows 95. It's recommended that you use the existing **Echo** method of the **Application** object instead.
 
 > [!NOTE] 
 > The **Echo** method does not affect the visibility of the ribbon or the availability of ribbon commands.

@@ -46,6 +46,6 @@ Dim rstEmployees As DAO.Recordset
 > [!NOTE] 
 > If you do not use the **Edit** method before you try to change a value in the current record, a run-time error occurs. If you edit the current record and then move to another record or close the **Recordset** object without first using the **Update** method, your changes are lost without warning. For example, omitting the **Update** method from the preceding example results in no changes being made to the Employees table.
 > 
-> You can also terminate the **Edit** method and any pending transactions without saving changes by using the **[CancelUpdate](../../../api/overview/Access.md)** method. While you can terminate the **Edit** method just by moving off the current record, this is not practical when the current record is the first or last record in the **Recordset**, or when it is a new record. It is generally simpler to use the **CancelUpdate** method.
+> You can also terminate the **Edit** method and any pending transactions without saving changes by using the **[CancelUpdate](../../../api/overview/Access.md)** method. While you can terminate the **Edit** method just by moving off the current record, this is not practical when the current record is the first or last record in the **Recordset**, or when it is a new record. It's generally simpler to use the **CancelUpdate** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

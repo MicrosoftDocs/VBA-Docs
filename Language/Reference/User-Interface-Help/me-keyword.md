@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Me keyword
 
-The **Me** [keyword](../../Glossary/vbe-glossary.md#keyword) behaves like an implicitly declared [variable](../../Glossary/vbe-glossary.md#variable). It is automatically available to every [procedure](../../Glossary/vbe-glossary.md#procedure) in a [class module](../../Glossary/vbe-glossary.md#class-module). 
+The **Me** [keyword](../../Glossary/vbe-glossary.md#keyword) behaves like an implicitly declared [variable](../../Glossary/vbe-glossary.md#variable). It's automatically available to every [procedure](../../Glossary/vbe-glossary.md#procedure) in a [class module](../../Glossary/vbe-glossary.md#class-module). 
 
 When a [class](../../Glossary/vbe-glossary.md#class) can have more than one instance, **Me** provides a way to refer to the specific instance of the class where the code is executing. Using **Me** is particularly useful for passing information about the currently executing instance of a class to a procedure in another [module](../../Glossary/vbe-glossary.md#module). 
 

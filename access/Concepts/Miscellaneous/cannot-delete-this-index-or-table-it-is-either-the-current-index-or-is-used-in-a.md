@@ -1,5 +1,5 @@
 ---
-title: Cannot delete this index or table. It is either the current index or is used in a relationship. (Error 3281)
+title: Cannot delete this index or table. It's either the current index or is used in a relationship. (Error 3281)
 keywords: jeterr40.chm5003281
 f1_keywords:
 - jeterr40.chm5003281
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot delete this index or table. It is either the current index or is used in a relationship. (Error 3281)
+# Cannot delete this index or table. It's either the current index or is used in a relationship. (Error 3281)
 
   
 

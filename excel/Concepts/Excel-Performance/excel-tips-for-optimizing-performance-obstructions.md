@@ -30,7 +30,7 @@ Before the iterative calculations start, Excel must recalculate the workbook to 
   
 After the circular references and their dependents are identified, each iteration requires Excel to calculate not only all the cells in the circular reference, but also any cells that depend on the cells in the circular reference chain, together with volatile cells and their dependents. If you have a complex calculation that depends on cells in the circular reference, it can be faster to isolate this into a separate closed workbook and open it for recalculation after the circular calculation has converged.
   
-It is important to reduce the number of cells in the circular calculation and the calculation time that is taken by these cells.
+It's important to reduce the number of cells in the circular calculation and the calculation time that is taken by these cells.
 
 ### Avoid links between workbooks
 
@@ -66,7 +66,7 @@ This solution has several advantages:
 
 - Fewer performance disadvantages exist than the alternatives of whole column referencing and dynamic ranges.
 
-- It is easy to have multiple tables of data on a single worksheet.
+- It's easy to have multiple tables of data on a single worksheet.
 
 - Formulas that are embedded in the table also expand and contract with the data.
 
@@ -80,7 +80,7 @@ This solution has both advantages and disadvantages:
 
 - User-defined functions do not automatically recognize the last-used row in the column and, therefore, frequently calculate whole column references inefficiently. However, it is easy to program user-defined functions so that they recognize the last-used row.
 
-- It is difficult to use whole column references when you have multiple tables of data on a single worksheet.
+- It's difficult to use whole column references when you have multiple tables of data on a single worksheet.
 
 - In Excel 2007 and later versions, array formulas can handle whole-column references, but this forces calculation for all the cells in the column, including empty cells. This can be slow to calculate, especially for 1 million rows.
 
@@ -158,7 +158,7 @@ Try using the **INDEX** and **MATCH** functions instead of **VLOOKUP**. Although
 
 The **INDEX** function is fast and is a non-volatile function, which speeds up recalculation. The **OFFSET** function is also fast; however, it is a volatile function, and it sometimes significantly increases the time taken to process the calculation chain.
 
-It is easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two statements return the same answer:
+It's easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two statements return the same answer:
 
 ```vb
  VLOOKUP(A1, Data!$A$2:$F$1000,3,False)
@@ -170,7 +170,7 @@ It is easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two 
 
 Because exact match lookups can be slow, consider the following options for improving performance: 
 
-- Use one worksheet. It is faster to keep lookups and data on the same sheet.    
+- Use one worksheet. It's faster to keep lookups and data on the same sheet.    
   
 - When you can, **SORT** the data first (**SORT** is fast), and use approximate match.  
   
@@ -231,7 +231,7 @@ You can avoid the double exact lookup if you use exact **MATCH** once, store the
   In B1 =IF(ISNA(A1),0,INDEX(tablearray,A1,column))
 ```
 
-If you cannot use two cells, use **COUNTIF**. It is generally faster than an exact match lookup. 
+If you cannot use two cells, use **COUNTIF**. It's generally faster than an exact match lookup. 
 
 ```vb
   IF (COUNTIF(lookuparray,lookupvalue)=0, 0, _
@@ -280,7 +280,7 @@ In large worksheets, you may frequently need to look up by using multiple indexe
 
 - The lookup will cover a large range.
 
-It is often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that subset range).
+It's often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that subset range).
 
 ### Consider options for three-dimensional lookup
 
@@ -453,7 +453,7 @@ The performance of VBA user-defined functions is sensitive to how you program an
 
 ### Use faster VBA user-defined functions
 
-It is usually faster to use the Excel formula calculations and worksheet functions than to use VBA user-defined functions. This is because there is a small overhead for each user-defined function call and significant overhead transferring information from Excel to the user-defined function. But well-designed and called user-defined functions can be much faster than complex array formulas.
+It's usually faster to use the Excel formula calculations and worksheet functions than to use VBA user-defined functions. This is because there is a small overhead for each user-defined function call and significant overhead transferring information from Excel to the user-defined function. But well-designed and called user-defined functions can be much faster than complex array formulas.
   
 Ensure that you have put all the references to worksheet cells in the user-defined function input parameters instead of in the body of the user-defined function, so that you can avoid adding **Application.Volatile** unnecessarily.
   
@@ -582,7 +582,7 @@ The following functionality can usually be turned off while your VBA macro execu
   
 - **Application.EnableEvents** Turn off events. If **Application.EnableEvents** is set to **False**, Excel does not raise events. If there are add-ins listening for Excel events, those add-ins consume resources on the computer as they record the events. If it is not necessary for the add-in to record the events that occur while your code runs, turning off events improves performance.
   
-- **ActiveSheet.DisplayPageBreaks** Turn off page breaks. If **ActiveSheet.DisplayPageBreaks** is set to **False**, Excel does not display page breaks. It is not necessary to recalculate page breaks while your code runs, and calculating the page breaks after the code executes improves performance.
+- **ActiveSheet.DisplayPageBreaks** Turn off page breaks. If **ActiveSheet.DisplayPageBreaks** is set to **False**, Excel does not display page breaks. It's not necessary to recalculate page breaks while your code runs, and calculating the page breaks after the code executes improves performance.
 
 > [!IMPORTANT]
 > Remember to restore this functionality to its original state after your code executes. 
@@ -723,7 +723,7 @@ Starting in Excel 2007, Excel contains a wide variety of file formats compared t
 
 - **XLSB format**
 
-  XLSB is the binary format starting in Excel 2007. It is structured as a compressed folder that contains many binary files. It is much more compact than the XLS format, but the amount of compression depends on the contents of the workbook. For example, ten workbooks show a size reduction factor ranging from two to eight with an average reduction factor of four. Starting in Excel 2007, opening and saving performance is only slightly slower than the XLS format.
+  XLSB is the binary format starting in Excel 2007. It's structured as a compressed folder that contains many binary files. It's much more compact than the XLS format, but the amount of compression depends on the contents of the workbook. For example, ten workbooks show a size reduction factor ranging from two to eight with an average reduction factor of four. Starting in Excel 2007, opening and saving performance is only slightly slower than the XLS format.
 
 - **XLSX format**
 

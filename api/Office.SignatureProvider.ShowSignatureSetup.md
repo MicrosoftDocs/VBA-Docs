@@ -35,7 +35,7 @@ _expression_ An expression that returns a **[SignatureProvider](Office.Signature
 
 This method is used for both the insertion time configuration process and if a user later wants to re-configure the signature line. You display the **Signature Setup** dialog box during this callback and wait for the user to select **OK** or **Cancel**. 
 
-It is not necessary to display a dialog box for signature setup unless you specifically need information from the author about the signature line. If you can provide all of the necessary details back to Microsoft Office without user input, no dialog is necessary.
+It's not necessary to display a dialog box for signature setup unless you specifically need information from the author about the signature line. If you can provide all of the necessary details back to Microsoft Office without user input, no dialog is necessary.
 
 
 ## Example

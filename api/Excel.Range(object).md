@@ -132,7 +132,7 @@ Use **Rows** on a worksheet to obtain a range consisting all rows on the workshe
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
 
 > [!NOTE] 
-> It is not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**. 
+> It's not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**. 
 
 The following example deletes row 4 and 10 of the first sheet of the active workbook.
 
@@ -147,7 +147,7 @@ Use **Columns** on a worksheet to obtain a range consisting all columns on the w
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
 
 > [!NOTE] 
-> It is not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
+> It's not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
 
 The following example deletes column "B", "C", "E", and "J" of the first sheet of the active workbook.
 
@@ -165,7 +165,7 @@ You can access single rows via **Item**(_row_), where _row_ is the relative row 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**.
 
 > [!NOTE] 
-> It is not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**.
+> It's not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**.
 
 The following example deletes the ranges C8:D8 and C6:D6 of the first sheet of the active workbook.
 
@@ -181,7 +181,7 @@ You can access single columns via **Item**(_row_) [sic], where _row_ is the rela
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**.
 
 > [!NOTE] 
-> It is not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
+> It's not legal to provide the second parameter of **Item** for ranges consisting of columns. You first have to convert it to single cells via **Cells**.
 
 The following example deletes the ranges L2:L10, G2:G10, F2:F10 and D2:D10 of the first sheet of the active workbook.
 

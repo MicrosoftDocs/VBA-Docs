@@ -32,7 +32,7 @@ For OLAP PivotTables, this property is available only for the **CubeField** obje
 
 For PivotTables, this property is available for the **PivotField** object.
 
-The default value is **True**. This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**).
+The default value is **True**. This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**). It's automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False**).
 
 This property directly reflects the state of the **Select All** check box in the filter drop-down list for the PivotField or CubeField.
 

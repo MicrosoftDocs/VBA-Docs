@@ -81,7 +81,7 @@ The **AddSiteColumn** method gives run-time error 1004, "Application-defined or 
 |**pjTaskSubprojectReadOnly**|**pjTaskTotalSlack**|**pjTaskType**|
 |**pjTaskWarning**|**pjTaskWorkContour**|****|
 
-It is possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter&mdash;although the value of doing so is questionable.
+It's possible to add a field that already exists in the tasks list, if you use a unique name for the  _SharePointName_ parameter&mdash;although the value of doing so is questionable.
 
 
 ## Example

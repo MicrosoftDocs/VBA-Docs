@@ -12,7 +12,7 @@ ms.localizationpriority: high
 
 # Application-defined or object-defined error
 
-This message is displayed when an error generated with the **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It is also returned by the **Error** function for [arguments](../../Glossary/vbe-glossary.md#argument) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](../../Glossary/vbe-glossary.md#host-application) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
+This message is displayed when an error generated with the **Raise** method or **Error** statement doesn't correspond to an error defined by Visual Basic for Applications. It's also returned by the **Error** function for [arguments](../../Glossary/vbe-glossary.md#argument) that don't correspond to errors defined by Visual Basic for Applications. Thus it may be an error you defined, or one that is defined by an object, including [host applications](../../Glossary/vbe-glossary.md#host-application) like Microsoft Excel, Visual Basic, and so on. For example, Visual Basic forms generate form-related errors that can't be generated from code simply by specifying a number as an argument to the **Raise** method or **Error** statement. This message has the following causes and solutions:
 
 
 

@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-It is not possible to start the Synchronizer. Shut down and restart your computer. If the error persists, reconfigure the Synchronizer.
+It's not possible to start the Synchronizer. Shut down and restart your computer. If the error persists, reconfigure the Synchronizer.
 
 To configure the Synchronizer
 

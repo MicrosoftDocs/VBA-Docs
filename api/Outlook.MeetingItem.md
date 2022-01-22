@@ -19,7 +19,7 @@ Represents a change to the recipient's Calendar folder initiated by another part
 
 ## Remarks
 
-Unlike other Microsoft Outlook objects, you cannot create this object. It is created automatically when you set the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property of an **[AppointmentItem](Outlook.AppointmentItem.md)** object to **olMeeting** and send it to one or more users. They receive it in their inboxes as a **MeetingItem**.
+Unlike other Microsoft Outlook objects, you cannot create this object. It's created automatically when you set the **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** property of an **[AppointmentItem](Outlook.AppointmentItem.md)** object to **olMeeting** and send it to one or more users. They receive it in their inboxes as a **MeetingItem**.
 
 Use the **[GetAssociatedAppointment](Outlook.MeetingItem.GetAssociatedAppointment.md)** method to return the **AppointmentItem** object associated with a **MeetingItem** object, and work directly with the **AppointmentItem** object to respond to the request.
 

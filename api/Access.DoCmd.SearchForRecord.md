@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 | _ObjectType_|Optional|**[AcDataObjectType](Access.AcDataObjectType.md)**|An **AcDataObjectType** constant that specifies the type of database object in which you are searching. The default value is **acActiveDataObject**.|
 | _ObjectName_|Optional|**Variant**|The name of the database object that contains the record to search for.|
 | _Record_|Optional|**[AcRecord](Access.AcRecord.md)**|An **AcRecord** constant that specifies the starting point and direction of the search. The default value is **acFirst**.|
-| _WhereCondition_|Optional|**Variant**|A string used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _WhereCondition_|Optional|**Variant**|A string used to locate the record. It's like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ## Remarks
 

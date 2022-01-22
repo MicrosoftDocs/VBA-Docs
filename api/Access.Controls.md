@@ -21,7 +21,7 @@ The **Controls** collection contains all of the controls on a form, report, or s
 
 You can enumerate individual controls, count them, and set their properties in the **Controls** collection. For example, you can enumerate the **Controls** collection of a particular form and set the **Height** property of each control to a specified value.
 
-It is faster to refer to the **Controls** collection implicitly, as in the following examples, which refer to a control called **NewData** on a form named **OrderForm**. Of the following syntax examples, `Me!NewData` is the fastest way to refer to the control.
+It's faster to refer to the **Controls** collection implicitly, as in the following examples, which refer to a control called **NewData** on a form named **OrderForm**. Of the following syntax examples, `Me!NewData` is the fastest way to refer to the control.
 
 ```vb
 Me!NewData               ' Or Forms!OrderForm!NewData.

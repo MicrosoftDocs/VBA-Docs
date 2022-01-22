@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |:-----|:-----|:-----|:-----|
 | _TableName_|Required|**String**|The name of the table that contains the **Append Only** field.|
 | _ColumnName_|Required|**String**|The name of the field to display the history for.|
-| _queryString_|Required|**String**|A **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _queryString_|Required|**String**|A **String** used to locate the record. It's like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ## Return value
 

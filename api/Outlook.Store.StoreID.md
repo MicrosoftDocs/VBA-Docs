@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 
 ## Remarks
 
- **StoreID** is unique to the profile. It is equivalent to the MAPI property **PidTagStoreEntryId**.
+ **StoreID** is unique to the profile. It's equivalent to the MAPI property **PidTagStoreEntryId**.
 
 
 ## See also

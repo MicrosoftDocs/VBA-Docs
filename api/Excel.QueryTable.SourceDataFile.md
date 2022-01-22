@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 ## Remarks
 
-For file-based data sources (such as Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (such as SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](Excel.QueryTable.Connection.md)** property is changed programmatically.
+For file-based data sources (such as Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It's set to **Null** for server-based data sources (such as SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](Excel.QueryTable.Connection.md)** property is changed programmatically.
 
 If you import data by using the user interface, data from a web query or a text query is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 

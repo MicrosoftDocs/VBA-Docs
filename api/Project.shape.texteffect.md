@@ -33,7 +33,7 @@ Sub FormatTextBox()
     Set theReport = ActiveProject.Reports.Add(reportName)
     Set textShape = theReport.Shapes.AddTextbox(msoTextOrientationHorizontal, 30, 50, 350, 80)
     
-    textShape.TextFrame2.TextRange.Text = "This is a test. It is only a test. "
+    textShape.TextFrame2.TextRange.Text = "This is a test. It's only a test. "
     textShape.TextFrame2.TextRange.Characters.Font.Fill.ForeColor.RGB = &H2020CC
     textShape.Fill.ForeColor.RGB = &H88CCCC
     

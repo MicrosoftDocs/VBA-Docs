@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 The **CenterHeaderPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that `"&G"` be a part of the **CenterHeader** property string for the image to show up in the center header.
+It's required that `"&G"` be a part of the **CenterHeader** property string for the image to show up in the center header.
 
 
 ## Example

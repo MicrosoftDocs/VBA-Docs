@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-It isn't necessary to sort the timeline (_Arg2_), because **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns run-time error 1004.
+It'sn't necessary to sort the timeline (_Arg2_), because **Forecast_ETS_STAT** sorts it implicitly for calculations. If **Forecast_ETS_STAT** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_STAT** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_STAT** returns run-time error 1004.
 
 The statistic_type parameter (_Arg3_) indicates which statistic is requested by this function. The following optional statistics can be returned:
 

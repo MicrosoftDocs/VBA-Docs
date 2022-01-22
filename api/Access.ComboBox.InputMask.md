@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** obj
 
 ## Remarks
 
-Input masks are helpful for data-entry operations such as an input mask for a **Phone Number** field that shows you exactly how to enter a new number: `(___) ___-____`. It is often easier to use the Input Mask Wizard to set the property for you.
+Input masks are helpful for data-entry operations such as an input mask for a **Phone Number** field that shows you exactly how to enter a new number: `(___) ___-____`. It's often easier to use the Input Mask Wizard to set the property for you.
 
 The **InputMask** property can contain up to three sections separated by semicolons (;).
 

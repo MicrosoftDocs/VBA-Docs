@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[ODBCConnection](Excel.ODBCConnecti
 
 ## Remarks
 
-For file-based data sources (for example, Access) the **SourceDataFile** property contains a fully qualified path to the source data file. It is null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to **null** if the **[Connection](Excel.ODBCConnection.Connection.md)** property is changed programmatically.
+For file-based data sources (for example, Access) the **SourceDataFile** property contains a fully qualified path to the source data file. It's null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to **null** if the **[Connection](Excel.ODBCConnection.Connection.md)** property is changed programmatically.
 
 
 

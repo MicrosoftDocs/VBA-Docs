@@ -137,7 +137,7 @@ The following procedure explains how to map a content control to a sample custom
 
 
    > [!NOTE] 
-   > There are at least three default custom XML parts that are always created with a document: 'Cover pages', 'Doc properties', and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. 
+   > There are at least three default custom XML parts that are always created with a document: 'Cover pages', 'Doc properties', and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It's on that part that the **Load** method is called, in the next line of code. 
    > 
    > To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. 
    > `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`

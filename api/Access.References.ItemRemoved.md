@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[References](Access.References.md)**
 
 ## Remarks
 
-The **ItemRemoved** event applies to the **References** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, to create a procedure definition for the **ItemRemoved** event procedure, you must use a special syntax.
+The **ItemRemoved** event applies to the **References** collection. It'sn't associated with a control, form, or report, as are most other events. Therefore, to create a procedure definition for the **ItemRemoved** event procedure, you must use a special syntax.
     
 The **ItemRemoved** event can run only an event procedure when it occurs; it cannot run a macro.
     

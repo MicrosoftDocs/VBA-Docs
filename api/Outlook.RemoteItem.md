@@ -19,7 +19,7 @@ Represents a remote item in an Inbox folder.
 
 ## Remarks
 
-The **RemoteItem** object is similar to the **[MailItem](Outlook.MailItem.md)** object, but it contains only the **Subject**, **Received Date** and **Time**, **Sender**, **Size**, and the first 256 characters of the body of the message. It is used to give someone connecting in remote mode enough information to decide whether or not to download the corresponding mail message. However, the headers in items contained in an Offline Folders file (.ost) cannot be accessed using the **RemoteItem** object.
+The **RemoteItem** object is similar to the **[MailItem](Outlook.MailItem.md)** object, but it contains only the **Subject**, **Received Date** and **Time**, **Sender**, **Size**, and the first 256 characters of the body of the message. It's used to give someone connecting in remote mode enough information to decide whether or not to download the corresponding mail message. However, the headers in items contained in an Offline Folders file (.ost) cannot be accessed using the **RemoteItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object. Remote items are created by Outlook automatically when you use a Remote Access System (RAS) connection. Each **RemoteItem** object created on the local system corresponds to a preexisting **MailItem** object on the remote system.
 

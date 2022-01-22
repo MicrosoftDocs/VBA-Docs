@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Selected watch expression invalid
 
-It isn't always possible to select a valid [watch expression](../../Glossary/vbe-glossary.md#watch-expression). This error has the following causes and solutions:
+It'sn't always possible to select a valid [watch expression](../../Glossary/vbe-glossary.md#watch-expression). This error has the following causes and solutions:
 
 
 

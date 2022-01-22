@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # IBlogExtensibility.Open method (Office)
 
-Opens the blog specified by the blog ID. It is called by the **Open Existing Post** dialog based on the item selected by the user.
+Opens the blog specified by the blog ID. It's called by the **Open Existing Post** dialog based on the item selected by the user.
 
 
 ## Syntax
