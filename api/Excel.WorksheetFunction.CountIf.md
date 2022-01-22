@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-You can use the wildcard characters, question mark (?) and asterisk (*), for the criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+Use the wildcard characters, question mark (?) and asterisk (*), for the criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 
 

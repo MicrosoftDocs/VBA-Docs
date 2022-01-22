@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)**
 
 ## Remarks
 
-You can use the `*` and `?` wildcard characters when specifying the file name but not when specifying the path. The `*` symbol represents any number of consecutive characters, and the `?` represents a single character. For example, **.InitialFileName = "c:\c*s.txt"** returns both "charts.txt" and "checkregister.txt."
+Use the `*` and `?` wildcard characters when specifying the file name but not when specifying the path. The `*` symbol represents any number of consecutive characters, and the `?` represents a single character. For example, **.InitialFileName = "c:\c*s.txt"** returns both "charts.txt" and "checkregister.txt."
 
 If you specify a path and no file name, all files that are allowed by the file filter appear in the dialog box.
 
@@ -73,7 +73,7 @@ Sub Main()
  For Each vrtSelectedItem In .SelectedItems 
  
  'vrtSelectedItem is aString that contains the path of each selected item. 
- 'You can use any file I/O functions that you want to work with this path. 
+ 'Use any file I/O functions that you want to work with this path. 
  'This example displays the path in a message box. 
  MsgBox "Selected item's path: " & vrtSelectedItem 
  

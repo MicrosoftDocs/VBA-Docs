@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextFrame.Characters method (Excel)
 
-Returns a **[Characters](Excel.Characters.md)** object that represents a range of characters within a shape's text frame. You can use the **Characters** object to add and format characters within the text frame.
+Returns a **[Characters](Excel.Characters.md)** object that represents a range of characters within a shape's text frame. Use the **Characters** object to add and format characters within the text frame.
 
 
 ## Syntax

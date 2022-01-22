@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the Unique property to specify that an index enforces uniqueness of the data in the table's key index.
+Use the Unique property to specify that an index enforces uniqueness of the data in the table's key index.
 
 ## Setting
 

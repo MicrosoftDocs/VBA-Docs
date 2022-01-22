@@ -19,7 +19,7 @@ The line control displays a horizontal, vertical, or diagonal line on a form or 
 
 ## Remarks
 
-You can use the **BorderWidth** property to change the line width. You can use the **BorderColor** property to change the color of the border or make it transparent. You can change the line style (dots, dashes, and so on) of the border by using the **BorderStyle** property.
+Use the **BorderWidth** property to change the line width. Use the **BorderColor** property to change the color of the border or make it transparent. You can change the line style (dots, dashes, and so on) of the border by using the **BorderStyle** property.
 
 
 ## Methods

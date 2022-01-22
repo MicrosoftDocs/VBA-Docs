@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Cycle property (Access)
 
-You can use the **Cycle** property to specify what happens when you press the Tab key and the focus is in the last control on a bound form. Read/write **Byte**.
+Use the **Cycle** property to specify what happens when you press the Tab key and the focus is in the last control on a bound form. Read/write **Byte**.
 
 
 ## Syntax

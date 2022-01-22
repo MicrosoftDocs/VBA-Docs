@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Language](Word.Language.md
 
 ## Remarks
 
-You can use this property to change the active spelling dictionary to one of the available add-on dictionaries that work with Word. For example, there are legal, medical, and complete spelling dictionaries you can use instead of the standard dictionary.
+Use this property to change the active spelling dictionary to one of the available add-on dictionaries that work with Word. For example, there are legal, medical, and complete spelling dictionaries you can use instead of the standard dictionary.
 
 Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 

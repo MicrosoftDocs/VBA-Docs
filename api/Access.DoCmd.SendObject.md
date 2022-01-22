@@ -41,7 +41,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the SendObject action to include the specified Microsoft Access datasheet, form, report, or module in an electronic mail message, where it can be viewed and forwarded. You can include objects in Microsoft Excel 2000 (\*.xls), MS-DOS text (\*.txt), rich-text (\*.rtf), or HTML (\*.html) format in messages for Microsoft Outlook, Microsoft Exchange, or another electronic mail application that uses the Mail Applications Programming Interface (MAPI).
+Use the SendObject action to include the specified Microsoft Access datasheet, form, report, or module in an electronic mail message, where it can be viewed and forwarded. You can include objects in Microsoft Excel 2000 (\*.xls), MS-DOS text (\*.txt), rich-text (\*.rtf), or HTML (\*.html) format in messages for Microsoft Outlook, Microsoft Exchange, or another electronic mail application that uses the Mail Applications Programming Interface (MAPI).
 
 The following rules apply when you use the SendObject action to include a database object in a mail message:
 

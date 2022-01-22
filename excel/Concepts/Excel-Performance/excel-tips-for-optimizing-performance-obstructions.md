@@ -266,7 +266,7 @@ This returns column A to column J from the stored row created by a previous **MA
 
 ### Use MATCH to return a rectangular block of cells
 
-You can use the **MATCH** and **OFFSET** functions to return a rectangular block of cells.
+Use the **MATCH** and **OFFSET** functions to return a rectangular block of cells.
 
 ### Use MATCH and INDEX for two-dimensional lookup
 
@@ -365,7 +365,7 @@ In earlier versions, there are a few advantages to using **SUMPRODUCT** instead 
 
 - **SUMPRODUCT** is usually slightly faster (5 to 10 percent).
 
-You can use **SUMPRODUCT** for multiple-condition array formulas as follows:
+Use **SUMPRODUCT** for multiple-condition array formulas as follows:
 
 ```vb
   SUMPRODUCT(--(Condition1),--(Condition2),RangetoSum)
@@ -524,7 +524,7 @@ The Excel **SUM** and **SUMIF** functions are frequently used over a large numbe
 
 ### Use wildcard SUMIF, COUNTIF, SUMIFS, COUNTIFS, and other IFS functions
 
-You can use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) in the criteria for alphabetical ranges as part of the **SUMIF**, **COUNTIF**, **SUMIFS**, **COUNTIFS**, and other **IFS** functions.
+Use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) in the criteria for alphabetical ranges as part of the **SUMIF**, **COUNTIF**, **SUMIFS**, **COUNTIFS**, and other **IFS** functions.
 
 ### Choose method for period-to-date and cumulative SUMs
 

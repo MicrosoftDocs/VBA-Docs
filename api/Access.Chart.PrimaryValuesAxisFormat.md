@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 Returns or sets the format of the values on the primary values axis. Read/write **String**.
 
-You can use a [predefined or custom format](Access.format.propertynumber.and.currency.md).
+Use a [predefined or custom format](Access.format.propertynumber.and.currency.md).
 
 
 ## Syntax

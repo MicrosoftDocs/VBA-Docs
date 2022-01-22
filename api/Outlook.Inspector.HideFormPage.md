@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) obj
 
 ## Remarks
 
-You can use **HideFormRegion** to hide a form region by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can hide the form region.
+Use **HideFormRegion** to hide a form region by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can hide the form region.
 
 
 ## Example

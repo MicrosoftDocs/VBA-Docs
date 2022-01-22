@@ -46,7 +46,7 @@ ms.localizationpriority: medium
 
 A dialog box in which you can examine the contents of an object library to get information about the objects provided.
 
-Displays the [classes](../../Glossary/vbe-glossary.md#class), properties, methods, events, and constants available from [object libraries](../../Glossary/vbe-glossary.md#object-library) and the [procedures](../../Glossary/vbe-glossary.md#procedure) in your project. You can use it to find and use objects you create, as well as objects from other applications.
+Displays the [classes](../../Glossary/vbe-glossary.md#class), properties, methods, events, and constants available from [object libraries](../../Glossary/vbe-glossary.md#object-library) and the [procedures](../../Glossary/vbe-glossary.md#procedure) in your project. Use it to find and use objects you create, as well as objects from other applications.
 
 You can get Help for the **Object Browser** by searching for Object Browser in Help.
 
@@ -56,7 +56,7 @@ You can get Help for the **Object Browser** by searching for Object Browser in H
 |Element|Icon|Description|
 |:------|:---|:----------|
 |**Project/Library** box| |Displays the currently referenced libraries for the active project. You can add libraries in the **References** dialog box. `<All Libraries>` allows all of the libraries to be displayed at one time.|
-|**Search Text** box | |Contains the string that you want to use in your search. You can type or choose the string you want. The **Search Text** box contains the last four search strings that you enter until you close the project. You can use the standard Visual Basic wildcards when typing a string.<br/><br/>If you want to search for a whole word, you can use the **Find Whole Word Only** command on the shortcut menu.|
+|**Search Text** box | |Contains the string that you want to use in your search. You can type or choose the string you want. The **Search Text** box contains the last four search strings that you enter until you close the project. Use the standard Visual Basic wildcards when typing a string.<br/><br/>If you want to search for a whole word, you can use the **Find Whole Word Only** command on the shortcut menu.|
 |**Go Back** button| ![Go Back button](../../../images/goback_ZA01201613.gif) |Allows you to go back to the previous selection in the **Classes** and **Members Of** lists. Each time you click it, you move back one selection until all of your choices are exhausted.|
 |**Go Forward** button| ![Go Forward button](../../../images/forward_ZA01201610.gif)| Allows you to repeat your original selections in the **Classes** and **Members Of** lists each time you click it, until you exhaust the list of selections.|
 |**Copy to Clipboard** button| ![Copy to Clipboard button](../../../images/but_copy_ZA01201582.gif)| Copies the current selection in the **Members Of** list or the **Details** pane text to the Clipboard. You can then paste the selection into your code.|

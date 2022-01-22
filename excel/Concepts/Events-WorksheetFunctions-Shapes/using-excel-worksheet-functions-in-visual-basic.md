@@ -12,7 +12,7 @@ ms.localizationpriority: high
 
 # Using Excel worksheet functions in Visual Basic
 
-You can use most Microsoft Excel worksheet functions in your Visual Basic statements. For a list of the worksheet functions you can use, see [List of worksheet functions available to Visual Basic](list-of-worksheet-functions-available-to-visual-basic.md).
+Use most Microsoft Excel worksheet functions in your Visual Basic statements. For a list of the worksheet functions you can use, see [List of worksheet functions available to Visual Basic](list-of-worksheet-functions-available-to-visual-basic.md).
 
 > [!NOTE] 
 > Some worksheet functions are not useful in Visual Basic. For example, the **Concatenate** function is not needed because in Visual Basic you can use the **&** operator to join multiple text values.

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.FontUnderline property (Access)
 
-You can use the **FontUnderline** property to specify whether text is underlined in the following situations:
+Use the **FontUnderline** property to specify whether text is underlined in the following situations:
 
 - When displaying or printing controls on forms and reports. 
 - When using the **[Print](Access.Report.Print.md)** method on a report.

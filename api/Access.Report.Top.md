@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Top property (Access)
 
-You can use the **Top** property to specify an object's location on a form or report. Read/write **Long**.
+Use the **Top** property to specify an object's location on a form or report. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
-For reports, the **Top** property setting is the amount that the current section is offset from the top of the page. This property setting is expressed in twips. You can use this property to specify how far down the page you want a section to print in the section's **Format** event procedure.
+For reports, the **Top** property setting is the amount that the current section is offset from the top of the page. This property setting is expressed in twips. Use this property to specify how far down the page you want a section to print in the section's **Format** event procedure.
 
 
 ## Example

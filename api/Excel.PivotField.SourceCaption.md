@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[PivotField](Excel.PivotField.md)** 
 
 ## Remarks
 
-You can use the **[Name](excel.pivotfield.name.md)** or **[SourceName](excel.pivotfield.sourcename.md)** properties for non-OLAP PivotTables.
+Use the **[Name](excel.pivotfield.name.md)** or **[SourceName](excel.pivotfield.sourcename.md)** properties for non-OLAP PivotTables.
 
 
 

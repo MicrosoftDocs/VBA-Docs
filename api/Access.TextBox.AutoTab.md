@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.AutoTab property (Access)
 
-You can use the **AutoTab** property to specify whether an automatic tab occurs when the last character permitted by a text box control's input mask is entered. An automatic tab moves the focus to the next control in the form's tab order. Read/write **Boolean**.
+Use the **AutoTab** property to specify whether an automatic tab occurs when the last character permitted by a text box control's input mask is entered. An automatic tab moves the focus to the next control in the form's tab order. Read/write **Boolean**.
 
 
 ## Syntax

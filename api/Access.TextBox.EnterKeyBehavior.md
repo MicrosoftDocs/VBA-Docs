@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.EnterKeyBehavior property (Access)
 
-You can use the **EnterKeyBehavior** property to specify what happens when you press Enter in a text box control in Form view or Datasheet view. Read/write **Boolean**.
+Use the **EnterKeyBehavior** property to specify what happens when you press Enter in a text box control in Form view or Datasheet view. Read/write **Boolean**.
 
 ## Syntax
 

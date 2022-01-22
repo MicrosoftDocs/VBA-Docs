@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DSum method (Access)
 
-You can use the **DSum** function to calculate the sum of a set of values in a specified set of records (a domain). 
+Use the **DSum** function to calculate the sum of a set of values in a specified set of records (a domain). 
 
 
 ## Syntax
@@ -44,10 +44,10 @@ If no record satisfies the _criteria_ argument, or if domain contains no records
 
 Whether you use the **DSum** function in a macro, module, query expression, or calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the **DSum** function to specify criteria in the **Criteria** row of a query, in a calculated field in a query expression, or in the **Update To** row of an update query.
+Use the **DSum** function to specify criteria in the **Criteria** row of a query, in a calculated field in a query expression, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use either the **DSum** or **Sum** function in a calculated field expression in a totals query. If you use the **DSum** function, values are calculated before data is grouped. If you use the **Sum** function, the data is grouped before values in the field expression are evaluated.
+> Use either the **DSum** or **Sum** function in a calculated field expression in a totals query. If you use the **DSum** function, values are calculated before data is grouped. If you use the **Sum** function, the data is grouped before values in the field expression are evaluated.
 
 You may want to use the **DSum** function when you need to display the sum of a set of values from a field that is not in the record source for your form or report. For example, suppose you have a form that displays information about a particular product. You could use the **DSum** function to maintain a running total of sales of that product in a calculated control.
 

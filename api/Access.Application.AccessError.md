@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AccessError method (Access)
 
-You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or Data Access Objects (DAO) error.
+Use the **AccessError** method to return the descriptive string associated with a Microsoft Access or Data Access Objects (DAO) error.
 
 
 ## Syntax
@@ -37,13 +37,13 @@ Variant
 
 ## Remarks
 
-You can use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error when the error hasn't actually occurred, but you cannot use it for ADO errors.
+Use the **AccessError** method to return the descriptive string associated with a Microsoft Access or DAO error when the error hasn't actually occurred, but you cannot use it for ADO errors.
 
-You can use the Visual Basic **Raise** method to raise a Visual Basic error. After you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
+Use the Visual Basic **Raise** method to raise a Visual Basic error. After you've raised the error, you can determine its associated descriptive string by reading the **Description** property of the **Err** object.
 
 You can't use the **Raise** method to raise a Microsoft Access or DAO error. However, you can use the **AccessError** method to return the descriptive string associated with these errors, without having to generate the error.
 
-You can use the **AccessError** method to return a descriptive string from within a form's **Error** event.
+Use the **AccessError** method to return a descriptive string from within a form's **Error** event.
 
 If the Microsoft Access error has occurred, you can return the descriptive string by using either the **AccessError** method or the **Description** property of the Visual Basic **Err** object.
 

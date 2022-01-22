@@ -49,7 +49,7 @@ CommandBars("Custom1").Position = msoBarBottom
 ```
 
 > [!NOTE] 
-> You can use the name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use the name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). If two or more custom menus or submenus have the same name, enumName returns the first one. To ensure that you return the correct menu or submenu, locate the popup control that displays that menu. Then apply the **CommandBar** property to the popup control to return the command bar that represents that menu.
+> Use the name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use the name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). If two or more custom menus or submenus have the same name, enumName returns the first one. To ensure that you return the correct menu or submenu, locate the popup control that displays that menu. Then apply the **CommandBar** property to the popup control to return the command bar that represents that menu.
 
 
 ## See also

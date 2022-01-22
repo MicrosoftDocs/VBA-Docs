@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.PicturePalette property (Access)
 
-You can use the **PicturePalette** property to specify a palette to be used by a form. Read/write **Variant**.
+Use the **PicturePalette** property to specify a palette to be used by a form. Read/write **Variant**.
 
 
 ## Syntax

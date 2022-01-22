@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.FormatCount property (Access)
 
-You can use the **FormatCount** property to determine the number of times the **[OnFormat](Access.Section.OnFormat.md)** property has been evaluated for the current section on a report. Read/write **Integer**.
+Use the **FormatCount** property to determine the number of times the **[OnFormat](Access.Section.OnFormat.md)** property has been evaluated for the current section on a report. Read/write **Integer**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-You can use this property only in an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) specified by a section's **OnFormat** property setting.
+Use this property only in an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) specified by a section's **OnFormat** property setting.
 
 This property isn't available in report Design view.
 
@@ -34,7 +34,7 @@ Microsoft Access increments the **FormatCount** property each time the **OnForma
 
 Under some circumstances, Microsoft Access formats a section more than once. For example, you might design a report in which the **[KeepTogether](Access.Section.KeepTogether.md)** property for the detail section is set to Yes. When Microsoft Access reaches the bottom of a page, it formats the current detail section once to see if it will fit. If it doesn't fit, Microsoft Access moves to the next page and formats the detail section again. In this case, the setting for the **FormatCount** property for the detail section is 2 because it was formatted twice before it was printed.
 
-You can use the **FormatCount** property to ensure that an operation that affects formatting gets executed only once for a section.
+Use the **FormatCount** property to ensure that an operation that affects formatting gets executed only once for a section.
 
 
 ## Example

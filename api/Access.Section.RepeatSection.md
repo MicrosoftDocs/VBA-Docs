@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.RepeatSection property (Access)
 
-You can use the **RepeatSection** property to specify whether a group header is repeated on the next page or column when a group spans more than one page or column. Read/write **Boolean**.
+Use the **RepeatSection** property to specify whether a group header is repeated on the next page or column when a group spans more than one page or column. Read/write **Boolean**.
 
 
 ## Syntax

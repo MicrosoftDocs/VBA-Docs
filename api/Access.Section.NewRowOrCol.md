@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.NewRowOrCol property (Access)
 
-You can use the **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte**.
+Use the **NewRowOrCol** property to specify whether a section and its associated data is printed in a new row or column within a multiple-column report or multiple-column form. Read/write **Byte**.
 
 
 ## Syntax

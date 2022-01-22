@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Screen.PreviousControl property (Access)
 
-You can use the **PreviousControl** property together with the **Screen** object to return a reference to the control that last received the focus. Read-only.
+Use the **PreviousControl** property together with the **Screen** object to return a reference to the control that last received the focus. Read-only.
 
 
 ## Syntax

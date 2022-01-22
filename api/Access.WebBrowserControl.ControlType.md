@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WebBrowserControl.ControlType property (Access)
 
-You can use the **ControlType** property in Visual Basic to determine the type of control on a form or report. Read/write **Byte**.
+Use the **ControlType** property in Visual Basic to determine the type of control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ The **ControlType** property can only be set by using Visual Basic in form Desig
 
 The **ControlType** property is useful not only for checking for a specific control type in code, but also for changing the type of control to another type. For example, you can change a text box to a combo box by setting the **ControlType** property for the text box to **acComboBox** while in form Design view.
 
-You can use the **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect** property for all text boxes to Flat and set the form's **AllowEdits** property to No. (The **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
+Use the **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect** property for all text boxes to Flat and set the form's **AllowEdits** property to No. (The **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
 
 The **ControlType** property is also used to specify the type of control to create when you are using the **CreateControl** method.
 

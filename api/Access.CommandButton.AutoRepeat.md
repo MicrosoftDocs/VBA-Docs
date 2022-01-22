@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.AutoRepeat property (Access)
 
-You can use the **AutoRepeat** property to specify whether an event procedure or macro runs repeatedly while a command button on a form remains pressed in. Read/write **Boolean**.
+Use the **AutoRepeat** property to specify whether an event procedure or macro runs repeatedly while a command button on a form remains pressed in. Read/write **Boolean**.
 
 
 ## Syntax

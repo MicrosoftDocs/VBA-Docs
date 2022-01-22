@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Screen.ActiveReport property (Access)
 
-You can use the **ActiveReport** property together with the **Screen** object to identify or refer to the report that has the focus. Read-only **Report** object.
+Use the **ActiveReport** property together with the **Screen** object to identify or refer to the report that has the focus. Read-only **Report** object.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 This property setting contains a reference to the **[Report](Access.Report.md)** object that has the focus at run time.
 
-You can use the **ActiveReport** property to refer to an active report together with one of its properties or methods. The following example displays the **Name** property setting of the active report.
+Use the **ActiveReport** property to refer to an active report together with one of its properties or methods. The following example displays the **Name** property setting of the active report.
 
 ```vb
 Dim rptCurrentReport As Report 

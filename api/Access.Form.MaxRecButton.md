@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.MaxRecButton property (Access)
 
-You can use the **MaxRecButton** property to specify or determine if the maximum record limit button is available on the navigation bar of a form in Datasheet view or Form view. Read/write **Boolean**.
+Use the **MaxRecButton** property to specify or determine if the maximum record limit button is available on the navigation bar of a form in Datasheet view or Form view. Read/write **Boolean**.
 
 
 ## Syntax

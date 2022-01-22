@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.Even method (Excel)
 
-Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.
+Returns number rounded up to the nearest even integer. Use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.
 
 
 ## Syntax

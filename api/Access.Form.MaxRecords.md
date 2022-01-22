@@ -30,7 +30,7 @@ When you set this property in Visual Basic, you use the ADO **MaxRecords** prope
 
 Records are returned in the order specified by the query's ORDER BY clause.
 
-You can use the **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
+Use the **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
 
 
 ## Example

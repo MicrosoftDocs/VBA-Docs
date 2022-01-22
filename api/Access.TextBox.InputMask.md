@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.InputMask property (Access)
 
-You can use the **InputMask** property to make data entry easier and to control the values that users can enter in a text box control. Read/write **String**.
+Use the **InputMask** property to make data entry easier and to control the values that users can enter in a text box control. Read/write **String**.
 
 
 ## Syntax

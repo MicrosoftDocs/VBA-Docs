@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[TaskItem](Outlook.TaskItem.md)' obje
 
 ## Remarks
 
-You can use the **StrConv** function in Microsoft Visual Basic for Applications (VBA), or the **System.Text.Encoding.AsciiEncoding.GetString()** method in C# or Visual Basic to convert an array of bytes to a string.
+Use the **StrConv** function in Microsoft Visual Basic for Applications (VBA), or the **System.Text.Encoding.AsciiEncoding.GetString()** method in C# or Visual Basic to convert an array of bytes to a string.
 
 
 ## See also

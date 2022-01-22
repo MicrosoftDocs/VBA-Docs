@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **Close** method to close either a specified Microsoft Access window or the active window if none is specified.
+Use the **Close** method to close either a specified Microsoft Access window or the active window if none is specified.
 
 If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Access closes the active window. If you specify the  _Save_ argument and leave the _ObjectType_ and _ObjectName_ arguments blank, you must include the _ObjectType_ and _ObjectName_ arguments' commas.
 

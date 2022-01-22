@@ -32,7 +32,7 @@ End Sub
 
 ## Remarks
 
-You can use the DOCVARIABLE field to insert a document variable into a document.
+Use the DOCVARIABLE field to insert a document variable into a document.
 
 ## Document properties
 
@@ -51,7 +51,7 @@ End Sub
 
 Built-in document properties cannot be added to the **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](../../../api/Word.Document.md)** object or **[Template](../../../api/Word.Template.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
 
-You can use the DOCPROPERTY field to insert document properties into a document.
+Use the DOCPROPERTY field to insert document properties into a document.
 
 ## AutoText entries
 

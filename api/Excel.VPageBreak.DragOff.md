@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[VPageBreak](Excel.VPageBreak.md)** 
 
 ## Remarks
 
-This method exists primarily for the macro recorder. You can use the **[Delete](Excel.VPageBreak.Delete.md)** method to delete a page break in Visual Basic.
+This method exists primarily for the macro recorder. Use the **[Delete](Excel.VPageBreak.Delete.md)** method to delete a page break in Visual Basic.
 
 
 ## Example

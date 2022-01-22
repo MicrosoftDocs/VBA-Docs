@@ -41,7 +41,7 @@ End If
 
 <br/>
 
-You can use a name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use a name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). This example adds a new menu item to the bottom of the **Tools** menu. When chosen, the new menu item runs the procedure named "qtrReport."
+Use a name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use a name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). This example adds a new menu item to the bottom of the **Tools** menu. When chosen, the new menu item runs the procedure named "qtrReport."
 
 ```vb
 Set newItem = CommandBars("Tools").Controls.Add(Type:=msoControlButton) 

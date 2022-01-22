@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SubdatasheetHeight property (Access)
 
-You can use the **SubdatasheetHeight** property to specify or determine the default display height of a subdatasheet when expanded. Read/write **Integer**.
+Use the **SubdatasheetHeight** property to specify or determine the default display height of a subdatasheet when expanded. Read/write **Integer**.
 
 
 ## Syntax

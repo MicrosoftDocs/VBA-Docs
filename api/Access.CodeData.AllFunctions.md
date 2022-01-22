@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeData.AllFunctions property (Access)
 
-You can use the **AllFunctions** property to reference the **[AllFunctions](Access.AllFunctions.md)** collection and its related properties. Read-only **AllFunctions** object.
+Use the **AllFunctions** property to reference the **[AllFunctions](Access.AllFunctions.md)** collection and its related properties. Read-only **AllFunctions** object.
 
 
 ## Syntax

@@ -48,7 +48,7 @@ criteria = "@SQL=" & Chr(34) & "DAV:getlastmodified" & Chr(34) _
 
 ## Conversion to UTC for DASL Queries
 
-Since DASL queries always perform date-time comparisons in UTC, if you use a date literal in a comparison string, you must use its UTC value for the comparison. You can use the **[Row.LocalTimeToUTC](../../../api/Outlook.Row.LocalTimeToUTC.md)** helper function or Outlook date-time macros to facilitate the conversion.
+Since DASL queries always perform date-time comparisons in UTC, if you use a date literal in a comparison string, you must use its UTC value for the comparison. Use the **[Row.LocalTimeToUTC](../../../api/Outlook.Row.LocalTimeToUTC.md)** helper function or Outlook date-time macros to facilitate the conversion.
 
 
 ## LocalTimeToUTC

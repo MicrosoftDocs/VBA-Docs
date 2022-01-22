@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Using DAO from Microsoft Word
 
-You can use Data Access Objects (DAO) properties, objects, and methods the same way that you reference and use Word properties, objects, and methods. After you establish a reference to the DAO object library, you can open databases, design and run queries to extract a set of records, and bring the results back to Word.
+Use Data Access Objects (DAO) properties, objects, and methods the same way that you reference and use Word properties, objects, and methods. After you establish a reference to the DAO object library, you can open databases, design and run queries to extract a set of records, and bring the results back to Word.
 
 
 ## Referencing DAO

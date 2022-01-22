@@ -38,7 +38,7 @@ A SELECT statement containing an IN clause has these parts:
 
 ## Remarks
 
-You can use IN to connect to only one external database at a time.
+Use IN to connect to only one external database at a time.
 
 In some cases, the  _path_ argument refers to the directory containing the database files. For example, when working with dBASE, Microsoft FoxPro, or Paradox database tables, the _path_ argument specifies the directory containing .dbf or .db files. The table file name is derived from the _destination_ or _tableexpression_ argument.
 

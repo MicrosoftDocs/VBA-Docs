@@ -11,7 +11,7 @@ ms.localizationpriority: high
 
 The Project Object Model Reference section contains documentation for all of the objects, properties, methods, and events contained in the Project object model.
 
-You can use the table of contents to navigate through the documentation. For diagrams that show how all of the objects and collections relate to each other, and also show which objects are new, see the following:
+Use the table of contents to navigate through the documentation. For diagrams that show how all of the objects and collections relate to each other, and also show which objects are new, see the following:
 
 - **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
 

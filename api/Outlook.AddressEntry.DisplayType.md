@@ -26,7 +26,7 @@ _expression_ A variable that represents an [AddressEntry](Outlook.AddressEntry.m
 
 ## Remarks
 
-You can use the **DisplayType** property to filter address entries. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
+Use the **DisplayType** property to filter address entries. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
 
 
 ## See also

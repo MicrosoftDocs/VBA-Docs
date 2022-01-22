@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.COMAddIns property (Access)
 
-You can use the **COMAddIns** property to return a reference to the current **COMAddIns** collection object and its related properties. Read-only **COMAddIns** object.
+Use the **COMAddIns** property to return a reference to the current **COMAddIns** collection object and its related properties. Read-only **COMAddIns** object.
 
 
 ## Syntax

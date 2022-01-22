@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Assign a control a value from a table
 
-You can use the **DLookup** function to display the value of a field that is not in the record source for your form or report. For example, suppose you have a form based on an Order Details table. The form displays the OrderID, ProductID, UnitPrice, Quantity, and Discount fields. However, the UnitPrice field is in another table: Products. You could use the **DLookup** function in a calculated control to display the UnitPrice on the same form when the user selects a product.
+Use the **DLookup** function to display the value of a field that is not in the record source for your form or report. For example, suppose you have a form based on an Order Details table. The form displays the OrderID, ProductID, UnitPrice, Quantity, and Discount fields. However, the UnitPrice field is in another table: Products. You could use the **DLookup** function in a calculated control to display the UnitPrice on the same form when the user selects a product.
 
 The following example populates the UnitPrice text box with the price of the product currently selected in the ProductID combo box.
 

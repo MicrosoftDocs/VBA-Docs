@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Application.BuildCriteria method (Access)
 
-The **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in **Filter By Form** or **Server Filter By Form** mode. For example, you may want to set a form's **Filter** or **[ServerFilter](Access.Form.ServerFilter.md)** property based on varying criteria from the user. You can use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
+The **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in **Filter By Form** or **Server Filter By Form** mode. For example, you may want to set a form's **Filter** or **[ServerFilter](Access.Form.ServerFilter.md)** property based on varying criteria from the user. Use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
 
 ## Syntax
 
@@ -55,7 +55,7 @@ strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95")
 
 Because you need to supply criteria for the **Filter** property in correctly parsed form, you can use the **BuildCriteria** method to construct a correctly parsed string.
 
-You can use the **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the **OrderDate** field:
+Use the **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the **OrderDate** field:
 
 ```vb
 strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95 and <5-1-95")

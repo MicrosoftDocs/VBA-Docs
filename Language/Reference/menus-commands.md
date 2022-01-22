@@ -16,7 +16,7 @@ Visual Basic has two types of menus, built-in and shortcut.
 
 Built-in menus appear on the menu bar across the top of the Visual Basic window. Each menu contains commands that relate to the menu name. For example, the **Format** menu contains commands used for formatting your form. 
 
-Some of the commands have submenus that contains more specific commands. For example, the **Toolbars** command on the **View** menu has a submenu that contains the names of the toolbars and the **Customize** command. You can use the **Customize** command to modify the built-in menus or to add commands to the menu bar.
+Some of the commands have submenus that contains more specific commands. For example, the **Toolbars** command on the **View** menu has a submenu that contains the names of the toolbars and the **Customize** command. Use the **Customize** command to modify the built-in menus or to add commands to the menu bar.
 
 - [Add-Ins menu](user-interface-help/add-ins-menu.md)
 - [Debug menu](user-interface-help/debug-menu.md)

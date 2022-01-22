@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Refer to tab control objects in VBA
 
-You can use a tab control to present several pages of information about a single form. A tab control is useful when your form contains information that can be sorted into two or more categories. 
+Use a tab control to present several pages of information about a single form. A tab control is useful when your form contains information that can be sorted into two or more categories. 
 
 In most ways, a tab control works like other controls on a form and can be referred to as a member of a form's **[Controls](../../../api/Access.Controls.md)** collection. For example, to refer to a tab control named TabControl1 on a form named Form1, you can use the following expression:
 

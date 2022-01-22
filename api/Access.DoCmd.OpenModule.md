@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **OpenModule** method to open a specified Visual Basic module at a specified procedure. This can be a Sub procedure, a Function procedure, or an event procedure.
+Use the **OpenModule** method to open a specified Visual Basic module at a specified procedure. This can be a Sub procedure, a Function procedure, or an event procedure.
 
 You must include at least one of the two OpenModule action arguments. If you enter a value for both arguments, Access opens the specified module at the specified procedure.
 

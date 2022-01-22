@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 Table fields are separate pieces of information that make up a record within a table. You can control the appearance of data, specify default values, and speed up searching and sorting by setting field properties in the Field Properties section of table Design view.
 
-Microsoft Access uses field properties when you view or edit data. For example, the **Format**, **InputMask**, and **Caption** properties that you set affect the appearance of table and query databases. The controls on new forms and reports that are based on the table inherit these properties by default. You can use other properties to set rules for data or to require data entry in your fields, which Microsoft Access enforces whenever you add or edit data in a table.
+Microsoft Access uses field properties when you view or edit data. For example, the **Format**, **InputMask**, and **Caption** properties that you set affect the appearance of table and query databases. The controls on new forms and reports that are based on the table inherit these properties by default. Use other properties to set rules for data or to require data entry in your fields, which Microsoft Access enforces whenever you add or edit data in a table.
 
 ## See also
 

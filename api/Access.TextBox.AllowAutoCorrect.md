@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.AllowAutoCorrect property (Access)
 
-You can use the **AllowAutoCorrect** property to specify whether the specified control will automatically correct entries made by the user. Read/write **Boolean**.
+Use the **AllowAutoCorrect** property to specify whether the specified control will automatically correct entries made by the user. Read/write **Boolean**.
 
 
 ## Syntax

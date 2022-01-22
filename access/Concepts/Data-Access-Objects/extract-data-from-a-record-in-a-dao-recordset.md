@@ -91,7 +91,7 @@ ErrorHandler:
 End Sub
 ```
 
-You can use subsequent calls to the **GetRows** method if more records are available. Because the array is filled as soon as you call the **GetRows** method, you can see why this approach is much faster than copying one field at a time.
+Use subsequent calls to the **GetRows** method if more records are available. Because the array is filled as soon as you call the **GetRows** method, you can see why this approach is much faster than copying one field at a time.
 
 Notice also that you do not have to declare the Variant as an array, because this is done automatically when the **GetRows** method returns records. This enables you to use fixed-length array dimensions without knowing how many records or fields will be returned, instead of using variable-length dimensions that take up more memory.
 

@@ -35,11 +35,11 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **GoToRecord** method to make the specified record the current record in an open table, form, or query result set.
+Use the **GoToRecord** method to make the specified record the current record in an open table, form, or query result set.
 
 If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acActiveDataObject**, is assumed for _ObjectType_), the active object is assumed.
 
-You can use the **GoToRecord** method to make a record on a hidden form the current record if you specify the hidden form in the _ObjectType_ and _ObjectName_ arguments.
+Use the **GoToRecord** method to make a record on a hidden form the current record if you specify the hidden form in the _ObjectType_ and _ObjectName_ arguments.
 
 
 ## Example

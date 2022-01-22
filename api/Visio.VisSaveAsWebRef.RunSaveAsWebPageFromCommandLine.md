@@ -25,7 +25,7 @@ For more details about using the RUNADDONWARGS function with Save as Web Page, s
     
 ### Write a Visual Basic macro in Visio (or write code in a separate component) that launches the SaveAsWeb add-on by using the Visio Automation object model
 
-You can use the **Run** method of the **Addon** object and pass the command-line parameters to specify the properties of the webpage.
+Use the **Run** method of the **Addon** object and pass the command-line parameters to specify the properties of the webpage.
     
 Using this technique may mean that you would write less code than if you used the Save as Web Page object model to specify parameters, but using the **Run** method requires familiarity with command-line parameters.
     

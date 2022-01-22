@@ -30,7 +30,7 @@ You can enter a string expression up to 2048 characters long. The default settin
 
 Unlike other properties, the **Tag** property setting doesn't affect any of an object's attributes.
 
-You can use this property to assign an identification string to an object without affecting any of its other property settings or causing other side effects. The **Tag** property is useful when you need to check the identity of a form, report, section, or control that is passed as a variable to a procedure.
+Use this property to assign an identification string to an object without affecting any of its other property settings or causing other side effects. The **Tag** property is useful when you need to check the identity of a form, report, section, or control that is passed as a variable to a procedure.
 
 
 ## Example

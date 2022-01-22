@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-You can use the array returned by this property as an argument to the **[AddCurve](PowerPoint.Shapes.AddCurve.md)** method or **[AddPolyline](PowerPoint.Shapes.AddPolyline.md)** method.
+Use the array returned by this property as an argument to the **[AddCurve](PowerPoint.Shapes.AddCurve.md)** method or **[AddPolyline](PowerPoint.Shapes.AddPolyline.md)** method.
 
 The following table shows how the **Vertices** property associates the values in the array `vertArray()` with the coordinates of a triangle's vertices.
 

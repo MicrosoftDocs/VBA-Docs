@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.ImageWidth property (Access)
 
-You can use the **ImageWidth** property to determine the width in [twips](../language/glossary/vbe-glossary.md#twip) of a picture in an image control. Read/write **Long**.
+Use the **ImageWidth** property to determine the width in [twips](../language/glossary/vbe-glossary.md#twip) of a picture in an image control. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 This property is read-only in all views.
 
-You can use the **ImageWidth** property together with the **[ImageHeight](Access.Image.ImageHeight.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
+Use the **ImageWidth** property together with the **[ImageHeight](Access.Image.ImageHeight.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
 
 
 ## Example

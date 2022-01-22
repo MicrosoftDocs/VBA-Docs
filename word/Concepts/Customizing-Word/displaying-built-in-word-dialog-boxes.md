@@ -95,7 +95,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
+> Use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
 
 
 ```vb

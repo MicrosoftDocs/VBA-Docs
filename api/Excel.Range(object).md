@@ -217,7 +217,7 @@ myMultiAreaRange.Select
 
 <br/>
 
-If you work with selections that contain more than one area, the **[Areas](Excel.Range.Areas.md)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. You can use the **[Count](Excel.Range.Count.md)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
+If you work with selections that contain more than one area, the **[Areas](Excel.Range.Areas.md)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. Use the **[Count](Excel.Range.Count.md)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
 
 ```vb
 Sub NoMultiAreaSelection() 

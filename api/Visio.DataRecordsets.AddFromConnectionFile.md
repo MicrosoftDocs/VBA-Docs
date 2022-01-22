@@ -45,7 +45,7 @@ DataRecordset
 
 For the FileName parameter, pass the name and full path of an ODC file that contains a connection string that specifies how to connect to an OLEDB or ODBC data source and a query string that specifies how to extract the desired data from the data source. 
 
-An ODC file uses HTML and XML to store connection and query information. You can view or edit the contents of the file in any text editor. ODC files have the .odc file name extension. You can use the Data Connection Wizard in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
+An ODC file uses HTML and XML to store connection and query information. You can view or edit the contents of the file in any text editor. ODC files have the .odc file name extension. Use the Data Connection Wizard in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
 
 The AddOptions parameter can be a combination of one or more of the following values from the **VisDataRecordsetAddOptions** enumeration, which is declared in the Visio type library. The default is zero (0), which specifies that none of the options be set.
 

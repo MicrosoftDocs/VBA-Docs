@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **AllowSpecialKeys** property to specify whether or not special key sequences (ALT+F1 (F11), CTRL+F11, CTRL+BREAK, and CTRL+G) are disabled or enabled. For example, you can use the **AllowSpecialKeys** property to prevent a user from displaying the Database window by pressing F11, entering break mode within a Visual Basic module by pressing CTRL+BREAK, or displaying the Immediate window by pressing CTRL+G.
+Use the **AllowSpecialKeys** property to specify whether or not special key sequences (ALT+F1 (F11), CTRL+F11, CTRL+BREAK, and CTRL+G) are disabled or enabled. For example, you can use the **AllowSpecialKeys** property to prevent a user from displaying the Database window by pressing F11, entering break mode within a Visual Basic module by pressing CTRL+BREAK, or displaying the Immediate window by pressing CTRL+G.
 
 
 ## Setting

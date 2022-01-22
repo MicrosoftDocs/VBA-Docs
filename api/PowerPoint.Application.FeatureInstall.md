@@ -31,7 +31,7 @@ MsoFeatureInstall
 
 ## Remarks
 
-You can use the **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application is not responding while a feature is being installed. Use the **msoFeatureInstallNone** constant with error trapping routines to exclude end-user feature installation.
+Use the **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application is not responding while a feature is being installed. Use the **msoFeatureInstallNone** constant with error trapping routines to exclude end-user feature installation.
 
 
 > [!NOTE] 

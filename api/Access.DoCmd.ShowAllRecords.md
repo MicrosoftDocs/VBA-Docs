@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the ShowAllRecords action to remove any applied filter from the active table, query result set, or form, and display all records in the table or result set or all records in the form's underlying table or query.
+Use the ShowAllRecords action to remove any applied filter from the active table, query result set, or form, and display all records in the table or result set or all records in the form's underlying table or query.
 
 > [!NOTE] 
 > This method only applies to tables, queries, and forms within a Microsoft Access database.

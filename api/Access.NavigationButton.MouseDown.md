@@ -46,7 +46,7 @@ This event does not apply to a label attached to another control, such as the la
     
 To run a macro or event procedure when these events occur, set the **OnMouseDown** property to the name of the macro or to [Event Procedure].
 
-You can use a **MouseDown** event to specify what happens when a particular mouse button is pressed or released. Unlike the **Click** and **DblClick** events, the **MouseDown** event enables you to distinguish between the left, right, and middle mouse buttons. You can also write code for mouse-keyboard combinations that use the Shift, Ctrl, and Alt keys.
+Use a **MouseDown** event to specify what happens when a particular mouse button is pressed or released. Unlike the **Click** and **DblClick** events, the **MouseDown** event enables you to distinguish between the left, right, and middle mouse buttons. You can also write code for mouse-keyboard combinations that use the Shift, Ctrl, and Alt keys.
 
 To cause a **MouseDown** event for a form to occur, press the mouse button in a blank area or record selector on the form. To cause a **MouseDown** event for a form section to occur, press the mouse button in a blank area of the form section.
 

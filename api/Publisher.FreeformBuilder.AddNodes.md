@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 Inserts a new segment at the end of the freeform that is being created, and adds the nodes that define the segment. 
 
-You can use this method as many times as you want to add nodes to the freeform that you are creating. When you finish adding nodes, use the **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the freeform that you just defined.
+Use this method as many times as you want to add nodes to the freeform that you are creating. When you finish adding nodes, use the **[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)** method to create the freeform that you just defined.
 
 
 ## Syntax

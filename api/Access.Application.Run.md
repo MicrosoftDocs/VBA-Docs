@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Run method (Access)
 
-You can use the **Run** method to carry out a specified Microsoft Access or user-defined **Function** or **Sub** procedure. **Variant**.
+Use the **Run** method to carry out a specified Microsoft Access or user-defined **Function** or **Sub** procedure. **Variant**.
 
 
 ## Syntax

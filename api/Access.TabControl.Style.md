@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabControl.Style property (Access)
 
-You can use the **Style** property to specify or determine the appearance of tabs on a tab control. Read/write **Byte**.
+Use the **Style** property to specify or determine the appearance of tabs on a tab control. Read/write **Byte**.
 
 
 ## Syntax

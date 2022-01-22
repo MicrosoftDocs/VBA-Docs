@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.ColumnCount property (Access)
 
-You can use the **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame. Read/write **Integer**.
+Use the **ColumnCount** property to specify the number of columns displayed in a list box or in the list box portion of a combo box, or sent to OLE objects in a chart control or unbound object frame. Read/write **Integer**.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ To display a different combination of fields, create either a new query or a new
 
 If the **RowSource** property contains a list of values (the **RowSourceType** property is set to Value List), the values are put into the rows and columns of the combo box or list box in the order they are listed in the **RowSource** property. For example, if the **RowSource** property contains the list "Red; Green; Blue; Yellow" and the **ColumnCount** property is set to 2, the first row of the combo box or list box list will contain "Red" in the first column and "Green" in the second column. The second row will contain "Blue" in the first column and "Yellow" in the second column.
 
-You can use the **ColumnWidths** property to set the width of the columns displayed in the control or to hide columns.
+Use the **ColumnWidths** property to set the width of the columns displayed in the control or to hide columns.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) obje
 
 ## Remarks
 
-You can use the **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
+Use the **DisplayType** property to filter recipients. The **DisplayType** property corresponds to the MAPI property **PidTagDisplayType**.
 
 
 ## See also

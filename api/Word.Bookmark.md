@@ -59,7 +59,7 @@ Use the **BookmarkID** property with a range or selection object to return the i
 MsgBox ActiveDocument.Bookmarks("temp").Range.BookmarkID
 ```
 
-You can use [predefined bookmarks](../word/Concepts/Miscellaneous/predefined-bookmarks.md)with the **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
+Use [predefined bookmarks](../word/Concepts/Miscellaneous/predefined-bookmarks.md)with the **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
 
 
 

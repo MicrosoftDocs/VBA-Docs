@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ResyncCommand property (Access)
 
-You can use the **ResyncCommand** property to specify or determine the SQL statement or stored procedure that will be used in an updateable snapshot of a table. Read/write **String**.
+Use the **ResyncCommand** property to specify or determine the SQL statement or stored procedure that will be used in an updateable snapshot of a table. Read/write **String**.
 
 
 ## Syntax

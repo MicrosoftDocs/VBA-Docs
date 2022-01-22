@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[FormatCondition](Excel.FormatCondit
 
 ## Remarks
 
-The number format is specified using the same format codes displayed on the **Number** tab of the **Format Cells** dialog box. You can use a built-in number format (for example `"General"`) or [create a custom number format](https://support.office.com/article/create-or-delete-a-custom-number-format-78f2a361-936b-4c03-8772-09fab54be7f4?ocmsassetID=HP010342372&CorrelationId=da8e4328-d0fa-429c-94c6-063f57b60744&ui=en-US&rs=en-US&ad=US).
+The number format is specified using the same format codes displayed on the **Number** tab of the **Format Cells** dialog box. Use a built-in number format (for example `"General"`) or [create a custom number format](https://support.office.com/article/create-or-delete-a-custom-number-format-78f2a361-936b-4c03-8772-09fab54be7f4?ocmsassetID=HP010342372&CorrelationId=da8e4328-d0fa-429c-94c6-063f57b60744&ui=en-US&rs=en-US&ad=US).
 
 
 

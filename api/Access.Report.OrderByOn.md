@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.OrderByOn property (Access)
 
-You can use the **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
+Use the **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
 
 
 ## Syntax

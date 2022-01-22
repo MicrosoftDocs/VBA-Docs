@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PageHeader property (Access)
 
-You can use the **PageHeader** property to specify whether a report's page header is printed on the same page as a report header. Read/write **Byte**.
+Use the **PageHeader** property to specify whether a report's page header is printed on the same page as a report header. Read/write **Byte**.
 
 
 ## Syntax

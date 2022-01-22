@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListBox.ItemsSelected property (Access)
 
-You can use the **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect list box control.
+Use the **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect list box control.
 
 
 ## Syntax

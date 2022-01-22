@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-If you are creating an undo unit for your solution, the **UnitTypeLong** property is one of the members of **IVBUndoUnit** that you must implement. You can use the **UnitTypeLong** value to identify your undo units.
+If you are creating an undo unit for your solution, the **UnitTypeLong** property is one of the members of **IVBUndoUnit** that you must implement. Use the **UnitTypeLong** value to identify your undo units.
 
  The **UnitTypeLong** value is optional, and you can and set the value to zero (0) when you implement the property.
 

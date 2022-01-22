@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SubdatasheetExpanded property (Access)
 
-You can use the **SubdatasheetExpanded** property to specify or determine the saved state of all subdatasheets within a table or query. Read/write **Boolean**.
+Use the **SubdatasheetExpanded** property to specify or determine the saved state of all subdatasheets within a table or query. Read/write **Boolean**.
 
 
 ## Syntax

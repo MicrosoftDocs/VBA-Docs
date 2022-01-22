@@ -88,7 +88,7 @@ If Selection.Font.Name = "Times New Roman" Then _
  Selection.Font.Name = "Tahoma"
 ```
 
-Use properties like **Flags**, **Information**, and **Type** to return information about the current selection. You can use the following example in a procedure to determine whether there is anything selected in the active document; if there is not, the rest of the procedure is skipped.
+Use properties like **Flags**, **Information**, and **Type** to return information about the current selection. Use the following example in a procedure to determine whether there is anything selected in the active document; if there is not, the rest of the procedure is skipped.
 
 ```vb
 If Selection.Type = wdSelectionIP Then 

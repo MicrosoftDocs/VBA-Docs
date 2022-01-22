@@ -37,7 +37,7 @@ To create a group of mutually exclusive **CheckBox** controls, you can put the c
     
 
 
-Regardless of which method you use to create the group of check boxes, clicking one check box in a group sets all other check boxes in the same group to **False**. All check boxes with the same **GroupName** within a single container are mutually exclusive. You can use the same group name in two containers, but doing so creates two groups (one in each container) rather than one group that includes both containers.
+Regardless of which method you use to create the group of check boxes, clicking one check box in a group sets all other check boxes in the same group to **False**. All check boxes with the same **GroupName** within a single container are mutually exclusive. Use the same group name in two containers, but doing so creates two groups (one in each container) rather than one group that includes both containers.
 
 For example, assume your form includes some check boxes and a **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The check boxes on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a check box on the **MultiPage** does not affect the check boxes on the form.
 

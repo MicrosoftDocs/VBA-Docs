@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.Hyperlink property (Access)
 
-You can use the **Hyperlink** property to return a reference to a **[Hyperlink](access.hyperlink.md)** object and to access the properties and methods of a control's hyperlink. Read-only.
+Use the **Hyperlink** property to return a reference to a **[Hyperlink](access.hyperlink.md)** object and to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax

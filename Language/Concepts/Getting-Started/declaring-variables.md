@@ -58,7 +58,7 @@ The shorthand for the types is: % -integer; & -long; @ -currency; # -double; ! -
 
 ## Public statement
 
-You can use the **Public** statement to declare public module-level variables.
+Use the **Public** statement to declare public module-level variables.
 
 ```vb
 Public strName As String 
@@ -69,7 +69,7 @@ Public variables can be used in any procedures in the project. If a public varia
 
 ## Private statement
 
-You can use the **[Private](../../reference/user-interface-help/private-statement.md)** statement to declare private module-level variables.
+Use the **[Private](../../reference/user-interface-help/private-statement.md)** statement to declare private module-level variables.
 
 ```vb
 Private MyName As String 

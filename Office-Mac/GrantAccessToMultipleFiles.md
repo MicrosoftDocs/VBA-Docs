@@ -13,7 +13,7 @@ Use the **GrantAccessToMultipleFiles** command to request access to multiple fil
 
 Unlike VBA macros in Office for Mac 2011, VBA macros in Office 2016 for Mac don't have access to external files by default. Because the Office 2016 for Mac apps are sandboxed, they do not have permission to access external files. 
 
-Existing macro file commands prompt the user for permission to access a file if the app doesn't have access to it. This means that macros that access external files cannot run unattended. The user must approve file access the first time each file is referenced. You can use the **GrantAccessToMultipleFiles** command to minimize the number of prompts in order to improve the user experience. 
+Existing macro file commands prompt the user for permission to access a file if the app doesn't have access to it. This means that macros that access external files cannot run unattended. The user must approve file access the first time each file is referenced. Use the **GrantAccessToMultipleFiles** command to minimize the number of prompts in order to improve the user experience. 
 
 ## GrantAccessToMultipleFiles command
 

@@ -53,7 +53,7 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
 ## Remarks
 
-You can use the **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](Project.chart.autoformat.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
+Use the **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](Project.chart.autoformat.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
 
 If the  _Source_ parameter is omitted and the selection isn't an embedded chart on the active report, or the active report does not contain a chart, the **ChartWizard** method fails and an error occurs.
 

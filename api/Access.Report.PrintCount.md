@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PrintCount property (Access)
 
-You can use the **PrintCount** property to identify the number of times the **OnPrint** property has been evaluated for the current section of a report. Read/write **Integer**.
+Use the **PrintCount** property to identify the number of times the **OnPrint** property has been evaluated for the current section of a report. Read/write **Integer**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-You can use this property only in a macro or an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) specified by a section's **OnPrint** property setting.
+Use this property only in a macro or an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) specified by a section's **OnPrint** property setting.
 
 Microsoft Access increments the **PrintCount** property each time the **OnPrint** property setting is evaluated for the current section. As the next section is printed, Access resets the **PrintCount** property to 0.
 

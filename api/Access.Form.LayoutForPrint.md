@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.LayoutForPrint property (Access)
 
-You can use the **LayoutForPrint** property to specify whether the form uses printer or screen fonts. Read/write **Boolean**.
+Use the **LayoutForPrint** property to specify whether the form uses printer or screen fonts. Read/write **Boolean**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ Documents
 
 ## Remarks
 
-You can iterate through a **Documents** collection by using the **Count** property to retrieve the number of documents in the collection. You can use the **Item** property to retrieve individual elements from a collection.
+You can iterate through a **Documents** collection by using the **Count** property to retrieve the number of documents in the collection. Use the **Item** property to retrieve individual elements from a collection.
 
 If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
 

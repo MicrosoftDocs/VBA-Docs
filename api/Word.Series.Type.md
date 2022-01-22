@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 ## Remarks
 
-You can use the following **[XlConstants](Word.XlConstants.md)** constants for this property:
+Use the following **[XlConstants](Word.XlConstants.md)** constants for this property:
 
 
 - **xlColumn**

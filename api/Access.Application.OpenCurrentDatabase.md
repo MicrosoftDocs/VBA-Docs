@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.OpenCurrentDatabase method (Access)
 
-You can use the **OpenCurrentDatabase** method to open an existing Microsoft Access database as the current database.
+Use the **OpenCurrentDatabase** method to open an existing Microsoft Access database as the current database.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-You can use this method to open a database from another application that is controlling Microsoft Access through Automation, formerly called OLE Automation. For example, you can use the **OpenCurrentDatabase** method from Microsoft Excel to open the Northwind.mdb sample database in the Access window. After you have created an instance of Access from another application, you must also create a new database or specify a particular database to open. This database opens in the Access window.
+Use this method to open a database from another application that is controlling Microsoft Access through Automation, formerly called OLE Automation. For example, you can use the **OpenCurrentDatabase** method from Microsoft Excel to open the Northwind.mdb sample database in the Access window. After you have created an instance of Access from another application, you must also create a new database or specify a particular database to open. This database opens in the Access window.
 
 If you have already opened a database and wish to open another database in the Access window, you can use the **[CloseCurrentDatabase](Access.Application.CloseCurrentDatabase.md)** method to close the first database before opening another.
 

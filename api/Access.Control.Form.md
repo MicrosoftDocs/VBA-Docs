@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Control.Form property (Access)
 
-You can use the **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
+Use the **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
 
 
 ## Syntax

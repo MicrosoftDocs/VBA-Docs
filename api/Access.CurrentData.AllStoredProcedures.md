@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentData.AllStoredProcedures property (Access)
 
-You can use the **AllStoredProcedures** property to reference the **[AllStoredProcedures](Access.AllStoredProcedures.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
+Use the **AllStoredProcedures** property to reference the **[AllStoredProcedures](Access.AllStoredProcedures.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
 
 
 ## Syntax

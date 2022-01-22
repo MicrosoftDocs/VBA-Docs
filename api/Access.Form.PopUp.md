@@ -50,7 +50,7 @@ When the **PopUp** property is set to Yes, you can't switch to other views from 
 The form isn't a pop-up form in Design view or Datasheet view, and also isn't if you switch from Datasheet view to Form view.
 
 > [!NOTE] 
-> You can use the Dialog setting of the _WindowMode_ argument of the OpenForm action to open a form with its **PopUp** and **Modal** properties set to Yes.
+> Use the Dialog setting of the _WindowMode_ argument of the OpenForm action to open a form with its **PopUp** and **Modal** properties set to Yes.
 
 When you maximize a window in Microsoft Access, all other windows are also maximized when you open them or switch to them. However, pop-up forms aren't maximized. If you want a form to maintain its size when other windows are maximized, set its **PopUp** property to Yes.
 

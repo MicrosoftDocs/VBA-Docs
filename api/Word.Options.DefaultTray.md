@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 ## Remarks
 
-When setting this property, you must specify a string found in the **Default** tray box on the **Print** tab in the **Options** dialog box. You can use the **[DefaultTrayID](Word.Options.DefaultTrayID.md)** property and specify a **WdPaperTray** constant to set this same option.
+When setting this property, you must specify a string found in the **Default** tray box on the **Print** tab in the **Options** dialog box. Use the **[DefaultTrayID](Word.Options.DefaultTrayID.md)** property and specify a **WdPaperTray** constant to set this same option.
 
 
 ## Example

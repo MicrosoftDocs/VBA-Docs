@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the string expression argument in an SQL aggregate function to perform a calculation on values in a field. For example, you could calculate a percentage (such as a surcharge or sales tax) by multiplying a field value by a fraction.
+Use the string expression argument in an SQL aggregate function to perform a calculation on values in a field. For example, you could calculate a percentage (such as a surcharge or sales tax) by multiplying a field value by a fraction.
 
 The following table provides examples of calculations on fields from the Orders and Order Details tables in the Northwind.mdb database.
 
@@ -25,7 +25,7 @@ The following table provides examples of calculations on fields from the Orders 
 |Add one field to another| `UnitsInStock + UnitsOnOrder`|
 |Subtract one field from another| `ReorderLevel - UnitsInStock`|
 
-The following example calculates the average discount amount of all orders in the Northwind.mdb database. It multiplies the values in the UnitPrice and Discount fields to determine the discount amount of each order and then calculates the average. You can use this expression in an SQL statement in Visual Basic code:
+The following example calculates the average discount amount of all orders in the Northwind.mdb database. It multiplies the values in the UnitPrice and Discount fields to determine the discount amount of each order and then calculates the average. Use this expression in an SQL statement in Visual Basic code:
 
 <br/>
 

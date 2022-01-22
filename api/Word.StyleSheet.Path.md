@@ -30,7 +30,7 @@ The path doesn't include a trailing character—for example, "C:\MSOffice" or "h
 
 
 > [!NOTE] 
-> You can use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+> Use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## See also

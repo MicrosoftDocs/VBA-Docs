@@ -29,7 +29,7 @@ Most naming conflicts can be resolved by preceding each identifier with a qualif
 YourProject.YourModule.YourSub MyProject.MyModule.MyVar
 ```
 
-The preceding code calls the **Sub** procedure `YourSub` and passes `MyVar` as an argument. You can use any combination of qualifiers to differentiate identical identifiers.
+The preceding code calls the **Sub** procedure `YourSub` and passes `MyVar` as an argument. Use any combination of qualifiers to differentiate identical identifiers.
 
 Visual Basic matches each reference to an identifier with the "closest" declaration of a matching identifier. For example, if  `MyID` is declared **Public** in two modules in a project (`Mod1` and `Mod2`), you can specify the `MyID` declared in `Mod2` without qualification from within `Mod2`, but you must qualify it as `Mod2.MyID` to specify it in `Mod1`. 
 

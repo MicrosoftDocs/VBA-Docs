@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.HasModule property (Access)
 
-You can use the **HasModule** property to specify or determine whether a form or report has a class module. Read/write **Boolean**.
+Use the **HasModule** property to specify or determine whether a form or report has a class module. Read/write **Boolean**.
 
 
 ## Syntax

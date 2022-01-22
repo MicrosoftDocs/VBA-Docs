@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDETerminate method (Access)
 
-You can use the **DDETerminate** statement to close a specified dynamic data exchange (DDE) channel.
+Use the **DDETerminate** statement to close a specified dynamic data exchange (DDE) channel.
 
 
 ## Syntax

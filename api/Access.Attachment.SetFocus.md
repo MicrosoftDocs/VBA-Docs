@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 
 ## Remarks
 
-You can use the **SetFocus** method when you want a particular field or control to have the focus so that all user input is directed to this object.
+Use the **SetFocus** method when you want a particular field or control to have the focus so that all user input is directed to this object.
 
 Other properties can be set only when a control does not have the focus. For example, you can't set a control's **Visible** or **Enabled** properties to **False** (0) when that control has the focus.
 

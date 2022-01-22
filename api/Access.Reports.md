@@ -19,7 +19,7 @@ The **Reports** collection contains all of the currently open reports in a Micro
 
 ## Remarks
 
-You can use the **Reports** collection in Visual Basic or in an expression to refer to reports that are currently open. For example, you can enumerate the **Reports** collection to set or return the values of properties of individual reports in the collection.
+Use the **Reports** collection in Visual Basic or in an expression to refer to reports that are currently open. For example, you can enumerate the **Reports** collection to set or return the values of properties of individual reports in the collection.
 
 You can refer to an individual **[Report](Access.Report.md)** object in the **Reports** collection either by referring to the report by name, or by referring to its index within the collection.
 

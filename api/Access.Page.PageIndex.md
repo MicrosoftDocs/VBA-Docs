@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Page.PageIndex property (Access)
 
-You can use the **PageIndex** property to specify or determine the position of a **Page** object within a **[Pages](Access.Pages.md)** collection. The **PageIndex** property specifies the order in which the pages on a tab control appear. Read/write **Integer**.
+Use the **PageIndex** property to specify or determine the position of a **Page** object within a **[Pages](Access.Pages.md)** collection. The **PageIndex** property specifies the order in which the pages on a tab control appear. Read/write **Integer**.
 
 
 ## Syntax

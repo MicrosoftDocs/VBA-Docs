@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PicturePages property (Access)
 
-You can use the **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
+Use the **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
 
 
 ## Syntax

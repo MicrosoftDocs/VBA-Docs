@@ -33,7 +33,7 @@ UIObject
 
 ## Remarks
 
-You can use the **BuiltInMenus** property to obtain a **UIObject** object and modify its menus and accelerators. You can then use the **SetCustomMenus** method of an **Application** or **Document** object to add your customized menus and accelerators to the built-in Visio user interface.
+Use the **BuiltInMenus** property to obtain a **UIObject** object and modify its menus and accelerators. You can then use the **SetCustomMenus** method of an **Application** or **Document** object to add your customized menus and accelerators to the built-in Visio user interface.
 
 You can also use the **SaveToFile** method of the **UIObject** object to store its menus in a file and reload them as custom menus by setting the **CustomMenusFile** property of an **Application** or **Document** object.
 

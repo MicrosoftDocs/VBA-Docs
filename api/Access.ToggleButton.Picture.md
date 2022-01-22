@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ToggleButton.Picture property (Access)
 
-You can use the **Picture** property to specify a bitmap or other type of graphic to be displayed on the specified control. Read/write **String**.
+Use the **Picture** property to specify a bitmap or other type of graphic to be displayed on the specified control. Read/write **String**.
 
 
 ## Syntax

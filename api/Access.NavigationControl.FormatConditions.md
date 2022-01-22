@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationControl.FormatConditions property (Access)
 
-You can use the **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
+Use the **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Filter property (Access)
 
-You can use the **Filter** property to specify a subset of records to be displayed when a filter is applied to a form, report, query, or table. Read/write **String**.
+Use the **Filter** property to specify a subset of records to be displayed when a filter is applied to a form, report, query, or table. Read/write **String**.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Me.FilterOn = True
 > [!NOTE] 
 > Setting the **Filter** property has no effect on the ADO **Filter** property.
 
-You can use the **Filter** property to save a filter and apply it at a later time. Filters are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they aren't automatically applied.
+Use the **Filter** property to save a filter and apply it at a later time. Filters are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they aren't automatically applied.
 
 When a new object is created, it inherits the **RecordSource**, **Filter**, **OrderBy**, and **OrderByOn** properties of the table or query that it was created from.
 

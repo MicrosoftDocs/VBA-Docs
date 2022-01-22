@@ -114,7 +114,7 @@ Declare Sub MessageBeep Lib "User" Alias "SomeBeep"(ByVal N As Integer)
 Declare Function GetWinFlags Lib "Kernel" Alias "#132"()As Long 
  
 ' In 32-bit Microsoft Windows systems, specify the library USER32.DLL, 
-' rather than USER.DLL. You can use conditional compilation to write 
+' rather than USER.DLL. Use conditional compilation to write 
 ' code that can run on either Win32 or Win16. 
 #If Win32 Then 
     Declare Sub MessageBeep Lib "User32" (ByVal N As Long) 

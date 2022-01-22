@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **MoveSize** method to move or resize the active window.
+Use the **MoveSize** method to move or resize the active window.
 
 The units for the arguments are [twips](../language/glossary/vbe-glossary.md#twip).
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListBox.RowSource property (Access)
 
-You can use the **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data to the specified object. Read/write **String**.
+Use the **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data to the specified object. Read/write **String**.
 
 
 ## Syntax

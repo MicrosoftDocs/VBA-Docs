@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.OldValue property (Access)
 
-You can use the **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
+Use the **OldValue** property to determine the unedited value of a bound control. Read-only **Variant**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ In each **ScopeFolder** object, there is a **ScopeFolders** collection that cont
 
 For an example that demonstrates how to loop through all of the **ScopeFolder** objects in a search scope, see the **SearchFolders** collection topic.
 
-You can use the **[Add](office.searchfolders.add.md)** method of the **SearchFolders** collection to add a **ScopeFolder** object to the **SearchFolders** collection; however, it is usually simpler to use the **[AddToSearchFolders](office.scopefolder.addtosearchfolders.md)** method of the **ScopeFolder** that you want to add because there is only one **SearchFolders** collection for all searches.
+Use the **[Add](office.searchfolders.add.md)** method of the **SearchFolders** collection to add a **ScopeFolder** object to the **SearchFolders** collection; however, it is usually simpler to use the **[AddToSearchFolders](office.scopefolder.addtosearchfolders.md)** method of the **ScopeFolder** that you want to add because there is only one **SearchFolders** collection for all searches.
 
 For an example that demonstrates how to add a **ScopeFolder** to the **SearchFolders** collection, see the **SearchFolders** collection topic.
 

@@ -31,7 +31,7 @@ A **Folder** object that represents the folder at the root of that **Store**.
 
 ## Remarks
 
-You can use the **GetRootFolder** method to enumerate the subfolders of the root folder of the **Store**. Unlike **[NameSpace.Folders](Outlook.NameSpace.Folders.md)** which contains all folders for all stores in the current profile, **Store.GetRootFolder.Folders** allows you to enumerate all folders for a given **Store** object in the current profile.
+Use the **GetRootFolder** method to enumerate the subfolders of the root folder of the **Store**. Unlike **[NameSpace.Folders](Outlook.NameSpace.Folders.md)** which contains all folders for all stores in the current profile, **Store.GetRootFolder.Folders** allows you to enumerate all folders for a given **Store** object in the current profile.
 
 The **[Parent](Outlook.Folder.Parent.md)** property of the root folder of a store returns the string "Mapi".
 

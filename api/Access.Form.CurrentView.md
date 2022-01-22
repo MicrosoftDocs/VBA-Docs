@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.CurrentView property (Access)
 
-You can use the **CurrentView** property to determine how a form is currently displayed. Read/write **Integer**.
+Use the **CurrentView** property to determine how a form is currently displayed. Read/write **Integer**.
 
 
 ## Syntax

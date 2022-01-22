@@ -37,11 +37,11 @@ Single
 
 ## Remarks
 
-You can use the **TextHeight** method to determine the amount of vertical space that a text string will require in the current font when the report is formatted and printed. For example, a text string formatted in 9-point Arial will require a different amount of space than one formatted in 12-point Courier. To determine the current font and font size for text in a report, check the settings for the report's **FontName** and **FontSize** properties.
+Use the **TextHeight** method to determine the amount of vertical space that a text string will require in the current font when the report is formatted and printed. For example, a text string formatted in 9-point Arial will require a different amount of space than one formatted in 12-point Courier. To determine the current font and font size for text in a report, check the settings for the report's **FontName** and **FontSize** properties.
 
-The value returned by the **TextHeight** method is expressed in terms of the coordinate system in effect for the report, as defined by the **Scale** method. You can use the **ScaleMode** property to determine the coordinate system currently in effect for the report.
+The value returned by the **TextHeight** method is expressed in terms of the coordinate system in effect for the report, as defined by the **Scale** method. Use the **ScaleMode** property to determine the coordinate system currently in effect for the report.
 
-If the _StrExpr_ argument contains embedded carriage returns, the **TextHeight** method returns the cumulative height of the lines, including the leading space above and below each line. You can use the value returned by the **TextHeight** method to calculate the necessary space and positioning for multiple lines of text within a report.
+If the _StrExpr_ argument contains embedded carriage returns, the **TextHeight** method returns the cumulative height of the lines, including the leading space above and below each line. Use the value returned by the **TextHeight** method to calculate the necessary space and positioning for multiple lines of text within a report.
 
 
 ## Example

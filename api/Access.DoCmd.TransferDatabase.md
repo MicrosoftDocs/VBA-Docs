@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the TransferDatabase action to import or export data between the current Microsoft Access database or Access project (.adp) and another database. For Access databases, you can also link a table to the current Access database from another database. With a linked table, you have access to the table's data while the table itself remains in the other database.
+Use the TransferDatabase action to import or export data between the current Microsoft Access database or Access project (.adp) and another database. For Access databases, you can also link a table to the current Access database from another database. With a linked table, you have access to the table's data while the table itself remains in the other database.
 
 You can import and export tables between Access and other types of databases. You can also export Access select queries to other types of databases. Access exports the result set of the query in the form of a table. You can import and export any Access database object if both databases are Access databases.
 

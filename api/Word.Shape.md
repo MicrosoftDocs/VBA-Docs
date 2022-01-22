@@ -89,7 +89,7 @@ The **WrapFormat** property returns the **WrapFormat** object, which you use to 
 
 The **ThreeD** property returns the **ThreeDFormat** object, which you use to create 3D shapes. 
 
-You can use the **PickUp** and **Apply** methods to transfer formatting from one shape to another.
+Use the **PickUp** and **Apply** methods to transfer formatting from one shape to another.
 
 Use the **SetShapesDefaultProperties** method for a **Shape** object to set the formatting for the default shape for the document. New shapes inherit many of their attributes from the default shape.
 
@@ -99,7 +99,7 @@ Use the **Width** and **Height** properties to specify the size of the shape.
 
 The **TextFrame** property returns the **TextFrame** object, which contains all the properties and methods for attaching text to shapes and linking the text between text frames.
 
-**Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. **InlineShape** objects are treated like characters and are positioned as characters within a line of text. You can use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes.
+**Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. **InlineShape** objects are treated like characters and are positioned as characters within a line of text. Use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes.
 
 ## Methods
 

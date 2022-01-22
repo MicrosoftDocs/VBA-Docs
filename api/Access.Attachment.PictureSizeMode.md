@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.PictureSizeMode property (Access)
 
-You can use the **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte**.
+Use the **PictureSizeMode** property to specify how a picture for an attachment control is sized. Read/write **Byte**.
 
 
 ## Syntax

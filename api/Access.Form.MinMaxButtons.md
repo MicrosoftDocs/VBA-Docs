@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.MinMaxButtons property (Access)
 
-You can use the **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a form. Read/write **Byte**.
+Use the **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a form. Read/write **Byte**.
 
 
 ## Syntax

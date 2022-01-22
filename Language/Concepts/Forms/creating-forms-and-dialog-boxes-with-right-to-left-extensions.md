@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Creating forms and dialog boxes with right-to-left extensions
 
-You can use the Visual Basic Editor and Microsoft Forms version 2.0 in all Microsoft Office 2000 applications to create forms and dialog boxes. Bidirectional extensions to the editor and Microsoft Forms 2.0 are provided in Office 2000 for right-to-left, left-to-right, and mixed-text usage. For a general overview of the standard tools, see the "Forms" topic in Help for the application that you are working in.
+Use the Visual Basic Editor and Microsoft Forms version 2.0 in all Microsoft Office 2000 applications to create forms and dialog boxes. Bidirectional extensions to the editor and Microsoft Forms 2.0 are provided in Office 2000 for right-to-left, left-to-right, and mixed-text usage. For a general overview of the standard tools, see the "Forms" topic in Help for the application that you are working in.
 
 Three Microsoft Forms 2.0 properties are generally used to add bidirectional characteristics to forms and dialog boxes. These properties are listed and described in the following table.
 

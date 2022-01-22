@@ -129,7 +129,7 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
 4. At the end of the public class **Connect** statement, add a comma, and then type **IRibbonExtensibility**.
     
    > [!NOTE] 
-   > You can use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class **Connect** statement, type **IRibbonExtensibility**, right-click and point to **Implement Interface**, and then choose **Implement Interface Explicitly**. This adds a stub for the **GetCustomUI** method. The implementation looks similar to the following code.
+   > Use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class **Connect** statement, type **IRibbonExtensibility**, right-click and point to **Implement Interface**, and then choose **Implement Interface Explicitly**. This adds a stub for the **GetCustomUI** method. The implementation looks similar to the following code.
 
    ```cs
       string IRibbonExtensibility.GetCustomUI(string RibbonID) 

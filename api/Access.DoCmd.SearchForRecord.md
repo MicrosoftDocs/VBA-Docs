@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # DoCmd.SearchForRecord method (Access)
 
-You can use the **SearchForRecord** method to search for a specific record in a table, query, form, or report.
+Use the **SearchForRecord** method to search for a specific record in a table, query, form, or report.
 
 
 ## Syntax
@@ -51,11 +51,11 @@ The **SearchForRecord** method is similar to the **[FindRecord](Access.DoCmd.Fin
 
 The following list demonstrates some things that you can do with the **SearchForRecord** method:
     
-- You can use complex criteria in the _WhereCondition_ argument, such as `Description = "Beverages" and CategoryID = 11`.
+- Use complex criteria in the _WhereCondition_ argument, such as `Description = "Beverages" and CategoryID = 11`.
  
 - You can refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
     
-- You can use logical operators, such as **<**, **>**, **AND**, **OR**, and **BETWEEN**. The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
+- Use logical operators, such as **<**, **>**, **AND**, **OR**, and **BETWEEN**. The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
     
 
 

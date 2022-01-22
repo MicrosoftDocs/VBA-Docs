@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DividingLines property (Access)
 
-You can use the **DividingLines** property to specify whether dividing lines will separate sections on a form or records displayed on a continuous form. Read/write **Boolean**.
+Use the **DividingLines** property to specify whether dividing lines will separate sections on a form or records displayed on a continuous form. Read/write **Boolean**.
 
 
 ## Syntax

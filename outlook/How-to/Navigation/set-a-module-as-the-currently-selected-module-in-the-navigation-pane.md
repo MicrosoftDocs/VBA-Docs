@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Set a Module as the Currently Selected Module in the Navigation Pane
 
-You can use the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook to set a **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object as the currently selected navigation module in the Navigation Pane of an **[Explorer](../../../api/Outlook.Explorer.md)** object.
+Use the **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook to set a **[NavigationModule](../../../api/Outlook.NavigationModule.md)** object as the currently selected navigation module in the Navigation Pane of an **[Explorer](../../../api/Outlook.Explorer.md)** object.
 
 The following sample sets the **Calendar** navigation module as the currently selected navigation module if the **Journal** navigation module is selected, either programmatically or by user action, in the Navigation Pane. The sample performs the following actions:
 

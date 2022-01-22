@@ -34,9 +34,9 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **RunMacro** method to run a macro.
+Use the **RunMacro** method to run a macro.
 
-You can use _MacroGroupName_._MacroName_ syntax for the _MacroName_ argument to run a particular macro in a macro group.
+Use _MacroGroupName_._MacroName_ syntax for the _MacroName_ argument to run a particular macro in a macro group.
 
 If you specify the _RepeatExpression_ argument and leave the _RepeatCount_ argument blank, you must include the _RepeatCount_ argument's comma. If you leave a trailing argument blank, don't use a comma following the last argument that you specify.
 

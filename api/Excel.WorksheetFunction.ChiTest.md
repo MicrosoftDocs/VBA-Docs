@@ -42,7 +42,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-**ChiTest** returns the value from the chi-squared (χ2) distribution for the statistic and the appropriate degrees of freedom. You can use χ2 tests to determine whether hypothesized results are verified by an experiment.
+**ChiTest** returns the value from the chi-squared (χ2) distribution for the statistic and the appropriate degrees of freedom. Use χ2 tests to determine whether hypothesized results are verified by an experiment.
 
 If actual_range and expected_range have a different number of data points, **ChiTest** returns the #N/A error value.
     

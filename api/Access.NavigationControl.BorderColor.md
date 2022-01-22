@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationControl.BorderColor property (Access)
 
-You can use the **BorderColor** property to specify the color of a control's border. Read/write **Long**.
+Use the **BorderColor** property to specify the color of a control's border. Read/write **Long**.
 
 
 ## Syntax

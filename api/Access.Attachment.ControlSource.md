@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.ControlSource property (Access)
 
-You can use the **ControlSource** property to specify what data appears in the specified **Attachment** control. Read/write **String**.
+Use the **ControlSource** property to specify what data appears in the specified **Attachment** control. Read/write **String**.
 
 
 ## Syntax

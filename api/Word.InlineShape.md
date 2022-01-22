@@ -30,7 +30,7 @@ Use **InlineShapes** (Index), where Index is the index number, to return a singl
 ActiveDocument.InlineShapes(1).Activate
 ```
 
- **Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. You can use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes. Use the **Type** property to return the type of inline shape: picture, linked picture, embedded OLE object, linked OLE object, or ActiveX control.
+ **Shape** objects are anchored to a range of text but are free-floating and can be positioned anywhere on the page. Use the **ConvertToInlineShape** method and the **ConvertToShape** method to convert shapes from one type to the other. You can convert only pictures, OLE objects, and ActiveX controls to inline shapes. Use the **Type** property to return the type of inline shape: picture, linked picture, embedded OLE object, linked OLE object, or ActiveX control.
 
 
 > [!NOTE] 

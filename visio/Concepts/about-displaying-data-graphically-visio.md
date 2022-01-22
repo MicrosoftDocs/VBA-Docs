@@ -101,7 +101,7 @@ End Sub
 
 ## Customizing the Behavior of Data Graphic Masters
 
-You can use the **[Master.DataGraphicHidden](../../api/Visio.Master.DataGraphicHidden.md)** and **[Master.DataGraphicHidesText](../../api/Visio.Master.DataGraphicHidesText.md)** properties to customize certain aspects of the behavior of data graphic masters.
+Use the **[Master.DataGraphicHidden](../../api/Visio.Master.DataGraphicHidden.md)** and **[Master.DataGraphicHidesText](../../api/Visio.Master.DataGraphicHidesText.md)** properties to customize certain aspects of the behavior of data graphic masters.
 
 The **DataGraphicHidden** property determines whether a data graphic master appears in the **Data Graphics** gallery in the Visio UI. When you set the value of this property to **True** for a given master, the master does not appear in the list of data graphics in the gallery. The default value of the property is **False**.
 

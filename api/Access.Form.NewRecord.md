@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.NewRecord property (Access)
 
-You can use the **NewRecord** property to determine whether the current record is a new record. Read-only **Integer**.
+Use the **NewRecord** property to determine whether the current record is a new record. Read-only **Integer**.
 
 
 ## Syntax

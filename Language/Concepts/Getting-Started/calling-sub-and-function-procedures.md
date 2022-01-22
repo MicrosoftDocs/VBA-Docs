@@ -14,7 +14,7 @@ ms.localizationpriority: high
 
 To call a **[Sub](../../reference/user-interface-help/sub-statement.md)** procedure from another [procedure](../../Glossary/vbe-glossary.md#procedure), type the name of the procedure and include values for any required [arguments](../../Glossary/vbe-glossary.md#argument). The **[Call](../../reference/user-interface-help/call-statement.md)** statement is not required, but if you use it, you must enclose any arguments in parentheses.
 
-You can use a **Sub** procedure to organize other procedures so they are easier to understand and debug. In the following example, the **Sub** procedure `Main` calls the **Sub** procedure `MultiBeep`, passing the value 56 for its argument. 
+Use a **Sub** procedure to organize other procedures so they are easier to understand and debug. In the following example, the **Sub** procedure `Main` calls the **Sub** procedure `MultiBeep`, passing the value 56 for its argument. 
 
 After `MultiBeep` runs, control returns to `Main`, and `Main` calls the **Sub** procedure `Message`. `Message` displays a message box; when the user clicks **OK**, control returns to `Main`, and `Main` finishes.
 

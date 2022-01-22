@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 To run a macro or event procedure when these events occur, set the **BeforeInsert** or **AfterInsert** property to the name of the macro or to [Event Procedure].
 
-You can use an **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
+Use an **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
 
 The **BeforeInsert** and **AfterInsert** events are similar to the **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
 

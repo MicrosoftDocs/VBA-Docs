@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DBEngine property (Access)
 
-You can use the **DBEngine** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) to access the current **DBEngine** object and its related properties. Read-only **DBEngine**.
+Use the **DBEngine** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) to access the current **DBEngine** object and its related properties. Read-only **DBEngine**.
 
 
 ## Syntax

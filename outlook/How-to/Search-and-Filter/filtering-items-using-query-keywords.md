@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Filtering Items Using Query Keywords
 
-You can use the following query keywords only in DAV Searching and Locating (DASL) queries. Keywords are case-insensitive. Microsoft Jet does not support any query keywords.
+Use the following query keywords only in DAV Searching and Locating (DASL) queries. Keywords are case-insensitive. Microsoft Jet does not support any query keywords.
 
 ## ci_startwith and ci_phrasematch
     

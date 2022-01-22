@@ -21,7 +21,7 @@ Represents the set of properties that are specific to a container.
 
 A container is a shape that has some specific properties that are represented conceptually by a **ContainerProperties** object. Containers appear as collections of shapes surrounded by borders that are sometimes, but not always, visible. Some, but not all, containers are lists.
 
-You can use the **[Shape.ContainerProperties](Visio.Shape.ContainerProperties.md)** property to get a **ContainerProperties** object that represents the set of container properties of any shape, whether or not it is actually a container.
+Use the **[Shape.ContainerProperties](Visio.Shape.ContainerProperties.md)** property to get a **ContainerProperties** object that represents the set of container properties of any shape, whether or not it is actually a container.
 
 To create an instance of a container shape on the drawing page, use the **[Page.DropContainer](Visio.Page.DropContainer.md)** method.
 

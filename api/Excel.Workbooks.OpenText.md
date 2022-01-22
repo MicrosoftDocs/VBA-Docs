@@ -51,7 +51,7 @@ _expression_ A variable that represents a **[Workbooks](Excel.Workbooks.md)** ob
 
 **_FieldInfo_ parameter**
 
-You can use **xlEMDFormat** only if you have installed and selected Taiwanese language support. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
+Use **xlEMDFormat** only if you have installed and selected Taiwanese language support. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
 
 The column specifiers can be in any order. If there's no column specifier for a particular column in the input data, the column is parsed with the General setting.
 

@@ -40,7 +40,7 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
 > [!NOTE] 
-> You can use VBA **WithEvents** variables to sink the **FormulaChanged** event.
+> Use VBA **WithEvents** variables to sink the **FormulaChanged** event.
 
 For performance considerations, the **Document** object's event set does not include the **FormulaChanged** event. To sink the **FormulaChanged** event from a **Document** object (and the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Section.KeepTogether property (Access)
 
-You can use the **KeepTogether** property for a section to print a form or report section all on one page. For example, you might have a group of related information that you don't want printed across two pages. The **KeepTogether** property applies only to form and report sections (except page headers and page footers). Read/write **Boolean**.
+Use the **KeepTogether** property for a section to print a form or report section all on one page. For example, you might have a group of related information that you don't want printed across two pages. The **KeepTogether** property applies only to form and report sections (except page headers and page footers). Read/write **Boolean**.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Range](Word.Range.md)** o
 
 ## Remarks
 
-You can use **PasteAsNestedTable** only if the Clipboard contains a cell or group of cells and the selected range is a cell or group of cells in the current document.
+Use **PasteAsNestedTable** only if the Clipboard contains a cell or group of cells and the selected range is a cell or group of cells in the current document.
 
 
 ## Example

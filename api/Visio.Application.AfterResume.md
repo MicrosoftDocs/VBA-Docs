@@ -29,7 +29,7 @@ _expression_ A variable that represents an **[Application](Visio.Application.md)
 
 ## Remarks
 
-You can use the **AfterResume** event to reopen any network files that you may have closed in response to the **BeforeSuspend** event.
+Use the **AfterResume** event to reopen any network files that you may have closed in response to the **BeforeSuspend** event.
 
 If your solution runs outside the Microsoft Visio process, you cannot be assured of receiving this event. For this reason, you should monitor window messages in your program.
 

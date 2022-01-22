@@ -57,7 +57,7 @@ End Sub
 
 ## Using the Areas Property
 
-You can use the **Areas** property to refer to the selected range or to the collection of ranges in a multiple-area selection. The following procedure counts the areas in the selection. If there is more than one area, a warning message is displayed.
+Use the **Areas** property to refer to the selected range or to the collection of ranges in a multiple-area selection. The following procedure counts the areas in the selection. If there is more than one area, a warning message is displayed.
 
 
 ```vb

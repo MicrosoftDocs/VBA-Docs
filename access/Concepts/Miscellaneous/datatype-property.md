@@ -17,7 +17,7 @@ ms.localizationpriority: high
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **DataType** property to specify the type of data stored in a table field. Each field can store data consisting of only a single data type.
+Use the **DataType** property to specify the type of data stored in a table field. Each field can store data consisting of only a single data type.
 
 
 ## Setting

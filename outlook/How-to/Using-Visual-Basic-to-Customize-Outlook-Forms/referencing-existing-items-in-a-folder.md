@@ -28,7 +28,7 @@ There are a number of ways you can reference existing items in a folder using Mi
 
 Typically these statements are used to loop through all of the items in a folder. The **Items** collection contains all the items in a particular folder, and you can specify which item to reference by using an index with the **Items** collection. This is typically used with the `For i = 1 to n` programming construct.
 
-You can use  `For Each...Next` to loop through the items in the collection without specifying an index. Both approaches achieve the same result.
+Use  `For Each...Next` to loop through the items in the collection without specifying an index. Both approaches achieve the same result.
 
 The following examples use  `For…Next` to loop through all the contacts in the Contacts folder and display the Full Name field in a dialog box.
 

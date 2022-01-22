@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CodeContextObject property (Access)
 
-You can use the **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
+Use the **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
 
 
 ## Syntax

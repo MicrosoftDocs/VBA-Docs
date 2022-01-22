@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **TransferSpreadsheet** method to import or export data between the current Access database or Access project (.adp) and a spreadsheet file. You can also link the data in an Excel spreadsheet to the current Access database. With a linked spreadsheet, you can view and edit the spreadsheet data with Access while still allowing complete access to the data from your Excel spreadsheet program. You can also link to data in a Lotus 1-2-3 spreadsheet file, but this data is read-only in Access.
+Use the **TransferSpreadsheet** method to import or export data between the current Access database or Access project (.adp) and a spreadsheet file. You can also link the data in an Excel spreadsheet to the current Access database. With a linked spreadsheet, you can view and edit the spreadsheet data with Access while still allowing complete access to the data from your Excel spreadsheet program. You can also link to data in a Lotus 1-2-3 spreadsheet file, but this data is read-only in Access.
 
 > [!NOTE]
 > You can also use ActiveX Data Objects (ADO) to create a link by using the **ActiveConnection** property for the **Recordset** object.

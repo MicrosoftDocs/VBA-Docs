@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
+Use the **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
 
 > [!NOTE] 
 > The **OutputAllFields** property applies only to append, make-table, and select queries.

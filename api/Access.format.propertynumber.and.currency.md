@@ -65,7 +65,7 @@ You can create custom number formats by using the following symbols.
 
 ## Remarks
 
-You can use the **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
+Use the **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
 
 The predefined currency and euro formats follow the settings in the regional settings of Windows. You can override these by entering your own currency format.
 

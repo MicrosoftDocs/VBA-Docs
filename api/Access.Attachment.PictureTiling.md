@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.PictureTiling property (Access)
 
-You can use the **PictureTiling** property to specify whether a background picture is tiled across the entire attachment control. Read/write **Boolean**.
+Use the **PictureTiling** property to specify whether a background picture is tiled across the entire attachment control. Read/write **Boolean**.
 
 
 ## Syntax

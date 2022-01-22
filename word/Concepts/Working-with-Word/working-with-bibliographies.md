@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Work with Bibliographies
 
-The Word object model includes several objects designed for automating the creation of bibliographies. The following table lists the main objects of the Word Bibliography feature. You can use these objects, and additional properties and methods in the Word object model, to add sources to the source lists, cite sources in a document, and manage sources. The objects in the Word model for that you use for managing bibliography sources are shown in the following table.
+The Word object model includes several objects designed for automating the creation of bibliographies. The following table lists the main objects of the Word Bibliography feature. Use these objects, and additional properties and methods in the Word object model, to add sources to the source lists, cite sources in a document, and manage sources. The objects in the Word model for that you use for managing bibliography sources are shown in the following table.
 
 |**Object**|**Description**|
 |:-----|:-----|

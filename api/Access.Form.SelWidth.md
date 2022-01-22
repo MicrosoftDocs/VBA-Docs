@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SelWidth property (Access)
 
-You can use the **SelWidth** property to specify or determine the number of selected columns (fields) in the current selection rectangle. Read/write **Long**.
+Use the **SelWidth** property to specify or determine the number of selected columns (fields) in the current selection rectangle. Read/write **Long**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If there's no selection, the value returned by this property will be zero. Setti
 
 If you've selected one or more records in the datasheet (using the record selectors), you can't change the setting of the **SelWidth** property (except to set it to 0).
 
-You can use these properties with the **SelTop** and **SelLeft** properties to specify or determine the actual position of the selection rectangle on the datasheet. If there's no selection, the **SelTop** and **SelLeft** properties return the row number and column number of the cell with the focus.
+Use these properties with the **SelTop** and **SelLeft** properties to specify or determine the actual position of the selection rectangle on the datasheet. If there's no selection, the **SelTop** and **SelLeft** properties return the row number and column number of the cell with the focus.
 
 The **SelHeight** and **SelWidth** properties contain the position of the lower-right corner of the selection rectangle. 
 

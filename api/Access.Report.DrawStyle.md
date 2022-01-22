@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.DrawStyle property (Access)
 
-You can use the **DrawStyle** property to specify the line style when using the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods to print lines on reports. Read/write **Integer**.
+Use the **DrawStyle** property to specify the line style when using the **[Line](Access.Report.Line.md)** and **[Circle](Access.Report.Circle.md)** methods to print lines on reports. Read/write **Integer**.
 
 
 ## Syntax

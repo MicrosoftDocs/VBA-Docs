@@ -36,7 +36,7 @@ Database
 
 To manipulate the structure of your database and its data from Visual Basic, you must use Data Access Objects (DAO). The **CurrentDb** method provides a way to access the current database from Visual Basic code without having to know the name of the database. After you have a variable that points to the current database, you can also access and manipulate other objects and collections in the DAO hierarchy.
 
-You can use the **CurrentDb** method to create multiple object variables that refer to the current database. In the following example, the variables `dbsA` and `dbsB` both refer to the current database:
+Use the **CurrentDb** method to create multiple object variables that refer to the current database. In the following example, the variables `dbsA` and `dbsB` both refer to the current database:
 
 ```vb
 Dim dbsA As Database, dbsB As Database 

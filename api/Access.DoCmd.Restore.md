@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **Restore** method to restore a maximized or minimized window to its previous size.
+Use the **Restore** method to restore a maximized or minimized window to its previous size.
 
 > [!NOTE] 
 > This method cannot be applied to module windows in the Visual Basic Editor (VBE). For information about how to affect module windows, see the **[WindowState](excel.window.windowstate.md)** property topic.

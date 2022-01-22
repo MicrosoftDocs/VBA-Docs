@@ -41,7 +41,7 @@ UIObject
 
 
 
-You can use the **BuiltInToolbars** property to obtain a **UIObject** object and modify its toolbars. You can then use the **SetCustomToolbars** method of an **Application** or **Document** object to substitute your customized toolbars for the built-in Visio toolbars.
+Use the **BuiltInToolbars** property to obtain a **UIObject** object and modify its toolbars. You can then use the **SetCustomToolbars** method of an **Application** or **Document** object to substitute your customized toolbars for the built-in Visio toolbars.
 
 You can also use the **SaveToFile** method of the **UIObject** object to store its toolbars in a file and reload them as custom toolbars by setting the **CustomToolbarsFile** property of an **Application** or **Document** object.
 

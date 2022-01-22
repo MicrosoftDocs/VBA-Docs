@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.InputParameters property (Access)
 
-You can use the **InputParameters** property to specify or determine the input parameters that are passed to a SQL statement in the **RecordSource** property of a form or report, or a stored procedure when used as the record source within a Microsoft Access project (.adp). Read/write **String**.
+Use the **InputParameters** property to specify or determine the input parameters that are passed to a SQL statement in the **RecordSource** property of a form or report, or a stored procedure when used as the record source within a Microsoft Access project (.adp). Read/write **String**.
 
 
 ## Syntax

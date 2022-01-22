@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ListBox.MultiSelect property (Access)
 
-You can use the **MultiSelect** property to specify whether a user can make multiple selections in a list box on a form and how the multiple selections can be made. Read/write **Byte**.
+Use the **MultiSelect** property to specify whether a user can make multiple selections in a list box on a form and how the multiple selections can be made. Read/write **Byte**.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The **MultiSelect** property uses the following settings.
 
 This property can be set only in form Design view.
 
-You can use the **ListIndex** property to return the index number for the selected item. When the **MultiSelect** property is set to Extended or Simple, you can use the list box's **Selected** property or **ItemsSelected** collection to determine the items that are selected. In addition, when the **MultiSelect** property is set to Extended or Simple, the value of the list box control will always be **null**.
+Use the **ListIndex** property to return the index number for the selected item. When the **MultiSelect** property is set to Extended or Simple, you can use the list box's **Selected** property or **ItemsSelected** collection to determine the items that are selected. In addition, when the **MultiSelect** property is set to Extended or Simple, the value of the list box control will always be **null**.
 
 If the **MultiSelect** property is set to Extended, requerying the list box clears any selections made by the user.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentProject.AllMacros property (Access)
 
-You can use the **AllMacros** property to reference the **[AllMacros](Access.allmacros.md)** collection and its related properties. Read-only **AllMacros** object.
+Use the **AllMacros** property to reference the **[AllMacros](Access.allmacros.md)** collection and its related properties. Read-only **AllMacros** object.
 
 
 ## Syntax

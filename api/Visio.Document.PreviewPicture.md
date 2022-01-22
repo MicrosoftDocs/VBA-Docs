@@ -35,7 +35,7 @@ The **PreviewPicture** property returns and accepts only EMF files (enhanced met
 
 To delete an existing preview, set the **PreviewPicture** property to **Nothing**.
 
-You can use the **PreviewPicture** property to include a preview picture in a template that does not have any diagrams stored in it.
+Use the **PreviewPicture** property to include a preview picture in a template that does not have any diagrams stored in it.
 
 COM provides a standard implementation of a picture object that has the **IPictureDisp** interface on top of the underlying system picture support. The **IPictureDisp** interface exposes a picture object's properties and is implemented in the **stdole** type library as a **StdPicture** object creatable within Microsoft Visual Basic. The **stdole** type library is automatically referenced from all Visual Basic for Applications (VBA) projects in Visio.
 

@@ -31,7 +31,7 @@ Master
 
 ## Remarks
 
-You can use the **Open** method for a **Master** object in conjunction with the **Close** method to reliably edit the shapes and cells of a master. In some previous versions of Visio, you could edit a **Master** object's shapes and cells, but the changes were not pushed to instances of the master, and alignment box information displayed when instancing the edited master was not correct.
+Use the **Open** method for a **Master** object in conjunction with the **Close** method to reliably edit the shapes and cells of a master. In some previous versions of Visio, you could edit a **Master** object's shapes and cells, but the changes were not pushed to instances of the master, and alignment box information displayed when instancing the edited master was not correct.
 
 
 ### To edit the shapes and cells of a Master object from a program

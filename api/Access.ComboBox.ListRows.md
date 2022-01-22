@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.ListRows property (Access)
 
-You can use the **ListRows** property to set the maximum number of rows to display in the list box portion of a combo box. Read/write **Integer**.
+Use the **ListRows** property to set the maximum number of rows to display in the list box portion of a combo box. Read/write **Integer**.
 
 
 ## Syntax

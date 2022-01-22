@@ -148,7 +148,7 @@ The **[Page.LinkShapesToDataRows](../../api/Visio.Page.LinkShapesToDataRows.md)*
 
 ## Linking to data automatically
 
-You can use the **Selection.AutomaticLink** method to link shape data values in selected shapes—that is, shapes assigned to a Selection object—to data rows in a data recordset automatically—that is, without specifying the exact correspondence of all shapes and data rows. To provide Visio with enough information to create the links, however, you must supply at least one set of matching data: the name of a column in the database, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method.
+Use the **Selection.AutomaticLink** method to link shape data values in selected shapes—that is, shapes assigned to a Selection object—to data rows in a data recordset automatically—that is, without specifying the exact correspondence of all shapes and data rows. To provide Visio with enough information to create the links, however, you must supply at least one set of matching data: the name of a column in the database, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method.
 
 The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item (formerly known as a custom property value), shape text, or another of the values specified in the **[VisAutoLinkFieldTypes](../../api/Visio.visautolinkfieldtypes.md)** enumeration.
 
@@ -297,7 +297,7 @@ You can help prevent these broken or mismatched links by assigning primary keys 
 
 As a result, when you refresh or when Visio refreshes a data recordset that includes primary keys, its rows retain the same row IDs they had before the refresh operation. Because Visio links shapes to data rows by ID—shape ID to row ID—and because row IDs remain the same after a refresh operation, data-linked shapes remain linked to the correct row. Note that row IDs are never recycled for a given a data recordset.
 
-You can use the **[DataRecordset.GetPrimaryKey](../../api/Visio.DataRecordset.GetPrimaryKey.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](../../api/Visio.visprimarykeysettings.md)** enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
+Use the **[DataRecordset.GetPrimaryKey](../../api/Visio.DataRecordset.GetPrimaryKey.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](../../api/Visio.visprimarykeysettings.md)** enumeration. Use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
 
 If the primary key setting is **visKeySingle** or **visKeyComposite**, the method also returns an array of primary key column-name strings. If the primary key setting is **visKeyRowOrder**, the default, the method returns an empty array of primary keys.
 

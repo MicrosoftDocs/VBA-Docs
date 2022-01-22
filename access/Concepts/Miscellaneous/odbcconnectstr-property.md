@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **ODBCConnectStr** property in an SQL pass-through query to specify the Open Database Connectivity (ODBC) connection string for the query.
+Use the **ODBCConnectStr** property in an SQL pass-through query to specify the Open Database Connectivity (ODBC) connection string for the query.
 
 > [!NOTE] 
 > The **ODBCConnectStr** property applies only to pass-through queries.

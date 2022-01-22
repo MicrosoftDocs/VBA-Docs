@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 [Retrieving Multiple Recordsets](#sectionSection4)
 
 
-Everything you need to open an ADO **Recordset** is built into the **Open** method. You can use it without explicitly creating any other objects. The syntax of this method is as follows:
+Everything you need to open an ADO **Recordset** is built into the **Open** method. Use it without explicitly creating any other objects. The syntax of this method is as follows:
 
 `recordset .OpenSource, ActiveConnection, CursorType, LockType, Options`
 

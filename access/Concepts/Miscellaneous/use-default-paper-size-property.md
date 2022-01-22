@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **Use Default Paper Size** property to specify whether or not the default paper size of the current printer is used when you print a form or report.
+Use the **Use Default Paper Size** property to specify whether or not the default paper size of the current printer is used when you print a form or report.
 
 
 ## Setting

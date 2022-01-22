@@ -38,7 +38,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **OpenForm** method to open a form in Form view, form Design view, Print Preview, or Datasheet view. You can select data entry and window modes for the form and restrict the records that the form displays.
+Use the **OpenForm** method to open a form in Form view, form Design view, Print Preview, or Datasheet view. You can select data entry and window modes for the form and restrict the records that the form displays.
 
 The maximum length of the _WhereCondition_ argument is 32,768 characters (unlike the _WhereCondition_ action argument in the Macro window, whose maximum length is 256 characters).
 

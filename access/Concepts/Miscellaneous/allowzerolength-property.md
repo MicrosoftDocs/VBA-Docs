@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **AllowZeroLength** property to specify whether a zero-length string (" ") is a valid entry in a table field.
+Use the **AllowZeroLength** property to specify whether a zero-length string (" ") is a valid entry in a table field.
 
 > [!NOTE] 
 > The **AllowZeroLength** property applies only to Text, Memo, and Hyperlink table fields.
@@ -51,7 +51,7 @@ The following table shows the results of combining the settings of the **AllowZe
 |Yes|Yes|Presses ENTER<br/>Presses SPACEBAR<br/>Enters a zero-length string|(not allowed)<br/>Zero-length string<br/>Zero-length string|
 
 > [!NOTE] 
-> You can use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
+> Use the **Format** property to distinguish between the display of a **Null** value and a zero-length string. For example, the string "None" can be displayed when a zero-length string is entered.
 
 The **AllowZeroLength** property works independently of the **Required** property. The **Required** property determines only whether a **Null** value is valid for the field. If the **AllowZeroLength** property is set to Yes, a zero-length string will be a valid value for the field regardless of the setting of the **Required** property.
 

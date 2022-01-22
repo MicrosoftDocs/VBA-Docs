@@ -26,7 +26,7 @@ _expression_ A variable that represents a **ComboBox** object.
 
 The default value is a zero-length string ("").
 
-You can use **Text** to update the value of the control. If the value of **Text** matches an existing list entry, the value of the **[ListIndex](Outlook.combobox.listindex.md)** property (the index of the current row) is set to the row that matches **Text**. If the value of **Text** does not match a row, **ListIndex** is set to -1.
+Use **Text** to update the value of the control. If the value of **Text** matches an existing list entry, the value of the **[ListIndex](Outlook.combobox.listindex.md)** property (the index of the current row) is set to the row that matches **Text**. If the value of **Text** does not match a row, **ListIndex** is set to -1.
 
 When the **Text** property of a **ComboBox** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **[TextColumn](Outlook.combobox.textcolumn.md)**.
 

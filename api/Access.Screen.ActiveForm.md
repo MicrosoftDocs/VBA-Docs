@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Screen.ActiveForm property (Access)
 
-You can use the **ActiveForm** property together with the **Screen** object to identify or refer to the form that has the focus. Read-only **Form** object.
+Use the **ActiveForm** property together with the **Screen** object to identify or refer to the form that has the focus. Read-only **Form** object.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 This property setting contains a reference to the **[Form](Access.Form.md)** object that has the focus at run time.
 
-You can use the **ActiveForm** property to refer to an active form together with one of its properties or methods. The following example displays the **Name** property setting of the active form.
+Use the **ActiveForm** property to refer to an active form together with one of its properties or methods. The following example displays the **Name** property setting of the active form.
 
 ```vb
 Dim frmCurrentForm As Form 

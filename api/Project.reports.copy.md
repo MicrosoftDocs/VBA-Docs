@@ -59,7 +59,7 @@ Sub CopyAReport()
     If oldExists And Not newExists Then
         Set report2Copy = ActiveProject.Reports(reportName)
         
-        ' You can use either of the following two statements.
+        ' Use either of the following two statements.
         'Set newReport = ActiveProject.Reports.Copy(report2Copy, newReportName)
         Set newReport = ActiveProject.Reports.Copy(reportName, newReportName)
        

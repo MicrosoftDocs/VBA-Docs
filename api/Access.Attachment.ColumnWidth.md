@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.ColumnWidth property (Access)
 
-You can use the **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
+Use the **ColumnWidth** property to specify the width of a column in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CommandButton.BorderWidth property (Access)
 
-You can use the **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
+Use the **BorderWidth** property to specify the width of a control's border. Read/write **Byte**.
 
 
 ## Syntax

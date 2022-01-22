@@ -41,9 +41,9 @@ Nothing
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
+Use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
 
-You can use the **Scale** method to reset the coordinate system to any scale that you choose. Using the **Scale** method with no arguments resets the coordinate system to [twips](../language/glossary/vbe-glossary.md#twip). The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
+Use the **Scale** method to reset the coordinate system to any scale that you choose. Using the **Scale** method with no arguments resets the coordinate system to [twips](../language/glossary/vbe-glossary.md#twip). The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
 
 
 ## Example

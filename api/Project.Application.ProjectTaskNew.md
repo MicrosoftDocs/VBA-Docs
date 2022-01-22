@@ -42,7 +42,7 @@ You can trap project-level events from outside VBA.
 
 ## Example
 
- The following example shows how the **ProjectTaskNew** event can trap project-level events. In this case, the **App_ProjectTaskNew** event handler sets the global **ProjTaskNew** variable that the **Change** event handler uses. You can use similar code with the **[ProjectResourceNew](Project.Application.ProjectResourceNew.md)** and **[ProjectAssignmentNew](Project.Application.ProjectAssignmentNew.md)** events.
+ The following example shows how the **ProjectTaskNew** event can trap project-level events. In this case, the **App_ProjectTaskNew** event handler sets the global **ProjTaskNew** variable that the **Change** event handler uses. Use similar code with the **[ProjectResourceNew](Project.Application.ProjectResourceNew.md)** and **[ProjectAssignmentNew](Project.Application.ProjectAssignmentNew.md)** events.
 
 
 1. Create a class module named **EventClassModule**, and then insert the following code:

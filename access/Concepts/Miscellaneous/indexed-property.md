@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **Indexed** property to set a single-field index. An index speeds up queries on the indexed fields as well as sorting and grouping operations. For example, if you search for specific employee names in a LastName field, you can create an index for this field to speed up the search for a specific name.
+Use the **Indexed** property to set a single-field index. An index speeds up queries on the indexed fields as well as sorting and grouping operations. For example, if you search for specific employee names in a LastName field, you can create an index for this field to speed up the search for a specific name.
 
 ## Setting
 

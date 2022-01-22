@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-Determines whether the value of an expression falls within a specified range of values. You can use this operator within SQL statements.
+Determines whether the value of an expression falls within a specified range of values. Use this operator within SQL statements.
 
 ## Syntax
 

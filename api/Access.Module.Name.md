@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Module.Name property (Access)
 
-You can use the **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
+Use the **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax

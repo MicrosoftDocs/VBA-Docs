@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CommandBars property (Access)
 
-You can use the **CommandBars** property to return a reference to the **CommandBars** collection object. Read-only **CommandBars** object.
+Use the **CommandBars** property to return a reference to the **CommandBars** collection object. Read-only **CommandBars** object.
 
 
 ## Syntax

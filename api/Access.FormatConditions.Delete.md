@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[FormatConditions](Access.FormatCond
 
 ## Remarks
 
-You can use the **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
+Use the **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

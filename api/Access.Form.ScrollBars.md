@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ScrollBars property (Access)
 
-You can use the **ScrollBars** property to specify whether scroll bars appear on a form. Read/write **Byte**.
+Use the **ScrollBars** property to specify whether scroll bars appear on a form. Read/write **Byte**.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ The **ScrollBars** property uses the following settings.
 
 If your form is larger than the available display window, you can use the **ScrollBars** property to allow the user to view the entire form.
 
-You can use the **NavigationButtons** property to control record navigation.
+Use the **NavigationButtons** property to control record navigation.
 
 
 

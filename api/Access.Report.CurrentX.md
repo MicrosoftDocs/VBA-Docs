@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.CurrentX property (Access)
 
-You can use the **CurrentX** property (along with the **CurrentY** property) to specify the horizontal and vertical coordinates for the starting position of the next printing and drawing method on a report. Read/write **Single**.
+Use the **CurrentX** property (along with the **CurrentY** property) to specify the horizontal and vertical coordinates for the starting position of the next printing and drawing method on a report. Read/write **Single**.
 
 
 ## Syntax

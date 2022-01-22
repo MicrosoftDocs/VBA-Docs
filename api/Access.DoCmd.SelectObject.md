@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **SelectObject** method to select a specified database object.
+Use the **SelectObject** method to select a specified database object.
 
 The SelectObject action works with any Access object that can receive the focus. This action gives the specified object the focus and shows the object if it's hidden.
 

@@ -28,7 +28,7 @@ _expression_ Required. A variable that represents a **[DefaultWebOptions](Word.D
 
 To save supporting files in a separate folder, set the **UseLongFileNames** and **OrganizeInFolder** properties to **True**.
 
-Newly created documents use the suffix returned by the **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. You can use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
+Newly created documents use the suffix returned by the **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. Use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
 
 By default, the name of the supporting folder is the name of the webpage plus an underscore (_), a period (.), or a hyphen (-) and the word "files" (appearing in the language of the version of Word in which the file was saved as a webpage). For example, suppose that you use the Dutch language version of Word to save a file called "Page1" as a webpage. The default name of the supporting folder is Page1_bestanden.
 

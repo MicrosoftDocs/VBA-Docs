@@ -71,7 +71,7 @@ Sub TestEnterpriseResourceCF()
     MsgBox message & "Field value: " & resourceFieldValue 
  
     ' Set a value for the enterprise resource custom field. 
-    ' You can use either the Resources collection or the Assignments collection 
+    ' Use either the Resources collection or the Assignments collection 
     ' to access the resource custom field. 
     ' Here, use the Assignments collection. 
     ActiveProject.Tasks(1).Assignments(1).Resource.SetField _

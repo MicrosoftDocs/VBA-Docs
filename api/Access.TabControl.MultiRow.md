@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabControl.MultiRow property (Access)
 
-You can use the **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
+Use the **MultiRow** property to specify or determine whether a tab control can display more than one row of tabs. Read/write **Boolean**.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ You can also set the default for this property by setting a control's **[Default
 
 When the **MultiRow** property is set to **True**, the number of rows is determined by the width and number of tabs. The number of rows may change if the control is resized or if additional tabs are added to the control.
 
-When the **MultiRow** property is set to **False** and the width of the tabs exceeds the width of the control, navigation buttons appear on the right side of the tab control. You can use the navigation buttons to scroll through all the tabs on the tab control.
+When the **MultiRow** property is set to **False** and the width of the tabs exceeds the width of the control, navigation buttons appear on the right side of the tab control. Use the navigation buttons to scroll through all the tabs on the tab control.
 
 
 ## Example

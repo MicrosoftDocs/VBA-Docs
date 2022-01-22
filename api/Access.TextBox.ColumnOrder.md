@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.ColumnOrder property (Access)
 
-You can use the **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
+Use the **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax

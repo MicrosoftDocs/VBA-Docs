@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Creating Custom Forms by Using Visual Basic Scripting Edition
 
-Microsoft Visual Basic Scripting Edition (VBScript) is a subset of Microsoft Visual Basic for Applications (VBA). You can use VBScript to create procedures that control Microsoft Outlook folders, objects, items, and properties. 
+Microsoft Visual Basic Scripting Edition (VBScript) is a subset of Microsoft Visual Basic for Applications (VBA). Use VBScript to create procedures that control Microsoft Outlook folders, objects, items, and properties. 
 
 VBScript in Outlook requires a special object syntax that is different from referencing objects in VBA. For more information, see [Outlook Object Model](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/about-the-object-environment.md).
 

@@ -29,7 +29,7 @@ To return a reference to a particular **Printer** object in the **Printers** col
 |**Printers**("_devicename_")|The _devicename_ argument is the name of the **Printer** object as returned by the **DeviceName** property.|
 |**Printers**(_index_)|The _index_ argument is the numeric position of the object within the collection. The valid range is from 0 to `Printers.Count-1`.|
 
-You can use the properties of the **Printer** object to set the printing characteristics for any of the printers available on your system.
+Use the properties of the **Printer** object to set the printing characteristics for any of the printers available on your system.
 
 Use the **ColorMode**, **Copies**, **Duplex**, **Orientation**, **PaperBin**, **PaperSize**, and **PrintQuality** properties to specify print settings for a particular printer.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Section property (Access)
 
-You can use the **Section** property to identify a section of a report and provide access to the properties of that section. Read-only **Section** object.
+Use the **Section** property to identify a section of a report and provide access to the properties of that section. Read-only **Section** object.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-The **Section** property corresponds to a particular section. You can use the following constants. We recommend that you use the constants to make your code easier to read.
+The **Section** property corresponds to a particular section. Use the following constants. We recommend that you use the constants to make your code easier to read.
 
 |Setting|Constant|Description|
 |:-----|:-----|:-----|

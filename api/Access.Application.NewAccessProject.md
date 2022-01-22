@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.NewAccessProject method (Access)
 
-You can use the **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Access window.
+Use the **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Access window.
 
 ## Syntax
 

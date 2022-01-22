@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # NavigationButton.Transparent property (Access)
 
-You can use the **Transparent** property to specify whether a command button is solid or transparent. Read/write **Boolean**.
+Use the **Transparent** property to specify whether a command button is solid or transparent. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 Use the **BackStyle** property to make other controls solid or transparent.
 
-You can use this property to place a transparent command button over another control. For example, you could place several transparent buttons over a picture displayed in an image control and run various macros or Visual Basic event procedures depending on which part of the picture the user clicks.
+Use this property to place a transparent command button over another control. For example, you could place several transparent buttons over a picture displayed in an image control and run various macros or Visual Basic event procedures depending on which part of the picture the user clicks.
 
 > [!NOTE] 
 > To hide and disable a button, use the **Visible** property. To disable a button without hiding it, use the **Enabled** property. To hide a button only when a form or report is printed, use the **DisplayWhen** property.

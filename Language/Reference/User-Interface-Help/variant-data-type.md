@@ -26,7 +26,7 @@ Generally, numeric **Variant** data is maintained in its original data type with
 
 An error occurs when **Variant** variables containing [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type), and **Double** values exceed their respective ranges.
 
-You can use the **Variant** data type in place of any data type to work with data in a more flexible way. If the contents of a **Variant** variable are digits, they may be either the string representation of the digits or their actual value, depending on the context. For example:
+Use the **Variant** data type in place of any data type to work with data in a more flexible way. If the contents of a **Variant** variable are digits, they may be either the string representation of the digits or their actual value, depending on the context. For example:
 
 ```vb
 Dim MyVar As Variant 

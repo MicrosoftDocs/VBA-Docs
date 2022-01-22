@@ -35,7 +35,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 ## Remarks
 
-You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+Use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
 
 ## Example

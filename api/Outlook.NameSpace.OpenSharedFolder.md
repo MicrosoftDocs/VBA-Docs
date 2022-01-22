@@ -61,7 +61,7 @@ This method is used to access the following shared folder types:
 > [!NOTE] 
 > This method does not support iCalendar appointment (.ics) files. To open iCalendar appointment files, you can use the **[OpenSharedItem](Outlook.NameSpace.OpenSharedItem.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object.
 
-You can use the **[GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md)** method of the **Namespace** object to share default folders, such as the Inbox folder, in Exchange.
+Use the **[GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md)** method of the **Namespace** object to share default folders, such as the Inbox folder, in Exchange.
 
 
 ## Example

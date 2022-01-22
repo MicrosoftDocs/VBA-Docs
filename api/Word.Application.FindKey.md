@@ -35,7 +35,7 @@ _expression_. `FindKey`( `_KeyCode_` , `_ KeyCode2_` )
 
 ## Remarks
 
-You can use the **[BuildKeyCode](Word.Application.BuildKeyCode.md)** method to create the _KeyCode_ or _KeyCode2_ argument.
+Use the **[BuildKeyCode](Word.Application.BuildKeyCode.md)** method to create the _KeyCode_ or _KeyCode2_ argument.
 
 
 ## Example

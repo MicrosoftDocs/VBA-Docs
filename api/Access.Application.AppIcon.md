@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.AppIcon property (Access)
 
-You can use the **AppIcon** property to specify the name of the bitmap (.bmp) or icon (.ico) file that contains the application's icon. For example, you can use the **AppIcon** property to specify a .bmp file that contains a picture of an automobile to represent an automotive parts application.
+Use the **AppIcon** property to specify the name of the bitmap (.bmp) or icon (.ico) file that contains the application's icon. For example, you can use the **AppIcon** property to specify a .bmp file that contains a picture of an automobile to represent an automotive parts application.
 
 ## Syntax
 

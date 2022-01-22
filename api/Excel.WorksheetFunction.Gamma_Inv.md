@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-You can use this function to study a variable whose distribution may be skewed.
+Use this function to study a variable whose distribution may be skewed.
 
 If any argument is text, **Gamma_Inv** returns the #VALUE! error value.
     

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Filtering Items Using a Variable
 
-You can use values from variables as part of a filter in Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. The following example illustrates the use of variables as part of a filter: 
+Use values from variables as part of a filter in Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. The following example illustrates the use of variables as part of a filter: 
 
 
 ```vb

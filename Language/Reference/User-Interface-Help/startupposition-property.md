@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 # StartUpPosition property
 
 Returns or sets a value specifying the position of a **[UserForm](userform-window.md)** when it first appears.
-You can use one of four settings for **StartUpPosition**.
+Use one of four settings for **StartUpPosition**.
 
 <br/>
 

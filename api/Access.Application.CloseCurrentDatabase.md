@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CloseCurrentDatabase method (Access)
 
-You can use the **CloseCurrentDatabase** method to close the current database, either a Microsoft Access database or an Access project (.adp) from another application that has opened a database through Automation.
+Use the **CloseCurrentDatabase** method to close the current database, either a Microsoft Access database or an Access project (.adp) from another application that has opened a database through Automation.
 
 
 ## Syntax

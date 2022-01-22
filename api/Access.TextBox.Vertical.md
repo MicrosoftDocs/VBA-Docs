@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.Vertical property (Access)
 
-You can use the **Vertical** property to set a form control for vertical display and editing, or to set a report control for vertical display and printing. Read/write **Boolean**.
+Use the **Vertical** property to set a form control for vertical display and editing, or to set a report control for vertical display and printing. Read/write **Boolean**.
 
 
 ## Syntax

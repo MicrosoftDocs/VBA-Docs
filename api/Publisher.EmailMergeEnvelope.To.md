@@ -31,7 +31,7 @@ MailMergeDataField
 
 ## Remarks
 
-You must make certain that you assign the correct data-source field (the one that represents email addresses) to the **To** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **To** is assigned, to ensure that you make the correct assignment.
+You must make certain that you assign the correct data-source field (the one that represents email addresses) to the **To** property. Use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **To** is assigned, to ensure that you make the correct assignment.
 
 ```vb
 Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.To.Name

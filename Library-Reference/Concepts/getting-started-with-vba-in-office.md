@@ -39,7 +39,7 @@ There are times when you want to encourage or compel users to interact with the 
 
 ### Interaction between Office applications
 
-Do you need to copy all of your contacts from Outlook to Word and then format them in some particular way? Or, do you need to move data from Excel to a set of PowerPoint slides? Sometimes simple copy and paste does not do what you want it to do, or it is too slow. You can use VBA programming to interact with the details of two or more Office applications at the same time and then modify the content in one application based on the content in another.
+Do you need to copy all of your contacts from Outlook to Word and then format them in some particular way? Or, do you need to move data from Excel to a set of PowerPoint slides? Sometimes simple copy and paste does not do what you want it to do, or it is too slow. Use VBA programming to interact with the details of two or more Office applications at the same time and then modify the content in one application based on the content in another.
 
 ### Doing things another way
 

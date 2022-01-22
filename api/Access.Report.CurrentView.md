@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.CurrentView property (Access)
 
-You can use the **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
+Use the **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
 
 
 ## Syntax

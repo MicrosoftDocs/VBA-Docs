@@ -29,7 +29,7 @@ The average calculated by **Avg** is the arithmetic mean (the sum of the values 
 
 The **Avg** function does not include any **Null** fields in the calculation.
 
-You can use **Avg** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a Recordset object based on an SQL query.
+Use **Avg** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a Recordset object based on an SQL query.
 
 
 ## Example

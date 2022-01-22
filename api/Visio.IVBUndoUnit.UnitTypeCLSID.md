@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-If you are creating an undo unit for your solution, the **UnitTypeCLSID** property is one of the members of **IVBUndoUnit** that you must implement. You can use the **UnitTypeCLSID** value to identify your undo units. You can use the same CLSID for multiple undo units and use different values in the **UnitTypeLong** property.
+If you are creating an undo unit for your solution, the **UnitTypeCLSID** property is one of the members of **IVBUndoUnit** that you must implement. Use the **UnitTypeCLSID** value to identify your undo units. Use the same CLSID for multiple undo units and use different values in the **UnitTypeLong** property.
 
 The **UnitTypeCLSID** value is optional, and you can set the value to **Nothing** or to an empty string when you implement the property.
 

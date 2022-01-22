@@ -21,7 +21,7 @@ Represents an invisible instance of Microsoft Visio. The properties of the **Inv
 
 ## Remarks
 
-You can use the **InvisibleApp** object when you want to take advantage of Automation in Visio without end-user interaction or knowledge.
+Use the **InvisibleApp** object when you want to take advantage of Automation in Visio without end-user interaction or knowledge.
 
 An external program typically creates or retrieves an **Application** or **InvisibleApp** object before it can retrieve other Visio objects from that instance. Use the Microsoft Visual Basic **CreateObject** function or the **New** keyword to run a new instance. Set the value of the **InvisibleApp** object's **Visible** property to **True** to show it.
 

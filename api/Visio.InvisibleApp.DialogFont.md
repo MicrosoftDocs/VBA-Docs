@@ -31,7 +31,7 @@ IFontDisp
 
 ## Remarks
 
-You can use this property to display your dialog boxes in the same font as the Visio dialog boxes.
+Use this property to display your dialog boxes in the same font as the Visio dialog boxes.
 
 COM (Component Object Model) provides a standard implementation of a font object with the **IFontDisp** interface on top of the underlying system font support. The **IFontDisp** interface exposes a font object's properties and is implemented in the stdole type library as an **StdFont** object that can be created within Microsoft Visual Basic. The stdole type library is automatically referenced from all Visual Basic projects in Visio.
 

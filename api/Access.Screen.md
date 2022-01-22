@@ -19,7 +19,7 @@ The **Screen** object refers to the particular form, report, or control that cur
 
 ## Remarks
 
-You can use the **Screen** object together with its properties to refer to a particular form, report, or control that has the focus.
+Use the **Screen** object together with its properties to refer to a particular form, report, or control that has the focus.
 
 For example, you can use the **Screen** object with the **ActiveForm** property to refer to the form in the active window without knowing the form's name. The following example displays the name of the form in the active window.
 

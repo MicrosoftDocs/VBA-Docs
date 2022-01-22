@@ -39,9 +39,9 @@ Cell
 
 ## Remarks
 
- **Cells** ("somestring") raises an "Unexpected end of file" exception if "somestring" does not name an actual cell. You can use the **CellExists** property to determine if a cell with the name "somestring" exists.
+ **Cells** ("somestring") raises an "Unexpected end of file" exception if "somestring" does not name an actual cell. Use the **CellExists** property to determine if a cell with the name "somestring" exists.
 
-The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. You can use the **Cells** property to access cells in named rows.
+The cells in a shape's User-Defined Cells and Shape Data sections belong to rows whose names have been assigned by the user or a program. Use the **Cells** property to access cells in named rows.
 
 For example, if "Row_1" is the name of a row in a shape's User-Defined Cells section, you can use this statement to access the first cell in this row (the cell in column zero, which holds the name of the row):
 
@@ -52,7 +52,7 @@ For example, if "Row_1" is the name of a row in a shape's User-Defined Cells sec
 vsoCell = vsoShape.Cells("User.Row_1")
 ```
 
-You can use this statement to access the prompt cell in Row_1:
+Use this statement to access the prompt cell in Row_1:
 
 
 
@@ -61,7 +61,7 @@ You can use this statement to access the prompt cell in Row_1:
 vsoCell = vsoShape.Cells("User.Row_1.Prompt")
 ```
 
-Next, assume that Row_1 is in the Shape Data section instead of the User- Defined Cells section. You can use this statement to access the first cell in this row (the cell in column zero, which holds the name of the row):
+Next, assume that Row_1 is in the Shape Data section instead of the User- Defined Cells section. Use this statement to access the first cell in this row (the cell in column zero, which holds the name of the row):
 
 
 
@@ -70,7 +70,7 @@ Next, assume that Row_1 is in the Shape Data section instead of the User- Define
 vsoCell = vsoShape.Cells("Prop.Row_1")
 ```
 
-You can use this statement to access other cells in the row:
+Use this statement to access other cells in the row:
 
 
 

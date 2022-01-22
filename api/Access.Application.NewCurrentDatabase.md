@@ -36,7 +36,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 ## Remarks
 
-You can use this method to create a new database from another application that is controlling Microsoft Access through Automation, formerly called OLE Automation. For example, you can use the **NewCurrentDatabase** method from Microsoft Excel to create a new database in the Access window.
+Use this method to create a new database from another application that is controlling Microsoft Access through Automation, formerly called OLE Automation. For example, you can use the **NewCurrentDatabase** method from Microsoft Excel to create a new database in the Access window.
 
 The **NewCurrentDatabase** method enables you to create a new Access database from another application through Automation. After you have created an instance of Access from another application, you must also create a new database. This database opens in the Access window.
 

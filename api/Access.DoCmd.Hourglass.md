@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **Hourglass** method to change the mouse pointer to an image of an hourglass (or another icon you've chosen) while a procedure is running. This method can provide a visual indication that the procedure is running. This is especially useful when a procedure takes a long time to run.
+Use the **Hourglass** method to change the mouse pointer to an image of an hourglass (or another icon you've chosen) while a procedure is running. This method can provide a visual indication that the procedure is running. This is especially useful when a procedure takes a long time to run.
 
 You often use this method if you've turned echo off by using the **Echo** method. When echo is off, Microsoft Access suspends screen updates until the macro is finished.
 

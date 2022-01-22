@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CreateGroupLevel method (Access)
 
-You can use the **CreateGroupLevel** method to specify a field or expression on which to group or sort data in a report.
+Use the **CreateGroupLevel** method to specify a field or expression on which to group or sort data in a report.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Long
 
 For example, suppose you are building a custom wizard that provides the user with a choice of fields on which to group data when designing a report. Call the **CreateGroupLevel** method from your wizard to create the appropriate groups according to the user's choice.
 
-You can use the **CreateGroupLevel** method when designing a wizard that creates a report with groups or totals. The **CreateGroupLevel** method groups or sorts data on the specified field or expression and creates a header and/or footer for the group level.
+Use the **CreateGroupLevel** method when designing a wizard that creates a report with groups or totals. The **CreateGroupLevel** method groups or sorts data on the specified field or expression and creates a header and/or footer for the group level.
 
 The **CreateGroupLevel** method is available only in report Design view.
 

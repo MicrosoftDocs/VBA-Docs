@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CurrentData property (Access)
 
-You can use the **CurrentData** property to access the **[CurrentData](Access.CurrentData.md)** object and its related collections. Read-only **CurrentData** object.
+Use the **CurrentData** property to access the **[CurrentData](Access.CurrentData.md)** object and its related collections. Read-only **CurrentData** object.
 
 
 ## Syntax

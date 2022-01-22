@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.IsHyperlink property (Access)
 
-You can use the **IsHyperlink** property to specify or determine if the data contained in a text box is a hyperlink. Read/write **Boolean**.
+Use the **IsHyperlink** property to specify or determine if the data contained in a text box is a hyperlink. Read/write **Boolean**.
 
 
 ## Syntax

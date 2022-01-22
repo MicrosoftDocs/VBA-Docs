@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 To run a macro or event procedure when this event occurs, set the **[OnApplyFilter](Access.Report.OnApplyFilter.md)** property to the name of the macro or to [Event Procedure].
 
-You can use the **ApplyFilter** event to:
+Use the **ApplyFilter** event to:
 
 - Make sure that the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an **Orders** report includes criteria restricting the **OrderDate** field. To do this, check the report's **[Filter](Access.Report.Filter(property).md)** or **[ServerFilter](Access.Report.ServerFilter.md)** property value to make sure that this criteria is included in the WHERE clause expression.
     

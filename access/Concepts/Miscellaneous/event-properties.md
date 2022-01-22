@@ -31,7 +31,7 @@ To run the event procedure associated with the event, select **[Event Procedure]
 You can set event properties in the [property sheet](https://msdn.microsoft.com/library/03349d86-f107-9e49-89df-62f55f3a0735%28Office.15%29.aspx) for an object, in a macro, or by using Visual Basic. Note that you can't set any event properties while you are formatting or printing a form or report.
 
 > [!TIP] 
-> You can use builders to help you set an event property. To use them, click the **Build** button
+> Use builders to help you set an event property. To use them, click the **Build** button
 ![Builder button](../../../images/buildbut_ZA06047218.gif) to the right of the property box, or right-click the property box and then click **Build** on the shortcut menu. In the **Choose Builder** dialog box, select:
 
 

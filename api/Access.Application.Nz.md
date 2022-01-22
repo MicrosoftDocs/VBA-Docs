@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 # Application.Nz method (Access)
 
-You can use the **Nz** function to return zero (0), a zero-length string (""), or another specified value when a **Variant** is **Null**. For example, you can use this function to convert a **Null** value to another value and prevent it from propagating through an expression.
+Use the **Nz** function to return zero (0), a zero-length string (""), or another specified value when a **Variant** is **Null**. For example, you can use this function to convert a **Null** value to another value and prevent it from propagating through an expression.
 
 
 ## Syntax

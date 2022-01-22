@@ -31,7 +31,7 @@ Long
 
 ## Remarks
 
-The **DragState** property extends the **MouseMove** event by returning detailed information about the state of mouse movements and actions throughout the course of a drag and drop operation. You can use the **DragState** property in conjunction with the **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method to determine whether a drag and drop operation is beginning, or whether the mouse is entering a drop-target window, moving over the window, dropping an object in the target window, or leaving the window.
+The **DragState** property extends the **MouseMove** event by returning detailed information about the state of mouse movements and actions throughout the course of a drag and drop operation. Use the **DragState** property in conjunction with the **[EventList.AddAdvise](Visio.EventList.AddAdvise.md)** method to determine whether a drag and drop operation is beginning, or whether the mouse is entering a drop-target window, moving over the window, dropping an object in the target window, or leaving the window.
 
 > [!NOTE] 
 > You can specify exactly which drag-states extensions you want to listen to by using the **[Event.SetFilterActions](Visio.Event.SetFilterActions.md)** method.

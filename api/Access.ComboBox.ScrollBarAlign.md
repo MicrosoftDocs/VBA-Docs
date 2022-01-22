@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.ScrollBarAlign property (Access)
 
-You can use the **ScrollBarAlign** property to specify or determine the alignment of a vertical scroll bar. Read/write **Byte**.
+Use the **ScrollBarAlign** property to specify or determine the alignment of a vertical scroll bar. Read/write **Byte**.
 
 
 ## Syntax

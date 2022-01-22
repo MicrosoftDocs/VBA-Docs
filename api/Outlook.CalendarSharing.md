@@ -19,9 +19,9 @@ Represents a set of utilities for sharing calendar information.
 
 ## Remarks
 
-You can use the **[GetCalendarExporter](Outlook.Folder.GetCalendarExporter.md)** method of a **[Folder](Outlook.Folder.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
+Use the **[GetCalendarExporter](Outlook.Folder.GetCalendarExporter.md)** method of a **[Folder](Outlook.Folder.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
 
-You can use the **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method to create a **[MailItem](Outlook.MailItem.md)** for sharing a calendar as a payload.
+Use the **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method to create a **[MailItem](Outlook.MailItem.md)** for sharing a calendar as a payload.
 
 
 > [!NOTE] 

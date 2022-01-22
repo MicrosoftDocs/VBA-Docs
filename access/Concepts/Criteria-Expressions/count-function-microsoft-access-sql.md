@@ -24,7 +24,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 
 ## Remarks
 
-You can use **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
+Use **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
 
 Although  _expr_ can perform a calculation on a field, **Count** simply tallies the number of records. It does not matter what values are stored in the records.
 
@@ -45,7 +45,7 @@ Count('ShippedDate & Freight')
 AS [Not Null] FROM Orders;
 ```
 
-You can use **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
+Use **Count** in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
 
 ## Example

@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Add-ins Overview
 
-You can use add-ins to customize your Microsoft Outlook form pages and form regions.
+Use add-ins to customize your Microsoft Outlook form pages and form regions.
 
 **COM add-ins** are executable (.exe) files or dynamic-link library (.dll) files that add extra functionality to Outlook. Use COM add-ins with form regions to expand the capabilities of those regions to include custom business logic or advanced functionality. In contrast to the way you customize form pages in an Outlook form, you do not use Visual Basic Scripting Edition (VBScript) to write code behind a form; instead, you program form regions with a COM add-in. For more information, see [Extending a Form Region With Add-ins](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
 

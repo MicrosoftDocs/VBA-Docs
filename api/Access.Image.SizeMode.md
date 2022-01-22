@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.SizeMode property (Access)
 
-You can use the **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
+Use the **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ The **SizeMode** property uses the following settings.
 |Stretch|**acOLESizeStretch**|Sizes the object to fill the control. This setting may distort the proportions of the object.|
 |Zoom|**acOLESizeZoom**|Displays the entire object, resizing it as necessary without distorting the proportions of the object. This setting may leave extra space in the control if the control is resized.|
 
-Use the Clip setting for the fastest display. You can use the Stretch setting for bar graphs and line graphs without concern for size adjustments. The Stretch setting can distort circles and photos.
+Use the Clip setting for the fastest display. Use the Stretch setting for bar graphs and line graphs without concern for size adjustments. The Stretch setting can distort circles and photos.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.OLEClass property (Access)
 
-You can use the **OLEClass** property to obtain a description of the kind of OLE object contained in a chart control or an unbound object frame. Read-only **String**.
+Use the **OLEClass** property to obtain a description of the kind of OLE object contained in a chart control or an unbound object frame. Read-only **String**.
 
 
 ## Syntax

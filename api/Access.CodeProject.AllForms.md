@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.AllForms property (Access)
 
-You can use the **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
+Use the **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
 
 
 ## Syntax

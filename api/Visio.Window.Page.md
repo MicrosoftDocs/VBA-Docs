@@ -33,9 +33,9 @@ Variant
 
 You can set the **Page** property to a locale-independent page name (a universal name), a locale-specific page name (a local name), or a **Page** object.
 
-If a window is not showing a page (perhaps because it is showing a master), the **Page** property returns **Nothing**. You can use the **Type** property of the **Window** object to determine whether the **Window** object is showing a page. Otherwise, the returned **Variant** refers to the **Page** object that the window is showing.
+If a window is not showing a page (perhaps because it is showing a master), the **Page** property returns **Nothing**. Use the **Type** property of the **Window** object to determine whether the **Window** object is showing a page. Otherwise, the returned **Variant** refers to the **Page** object that the window is showing.
 
-Beginning with Visio 5.0b, the **Page** property no longer returns an exception if a window is not showing a page; it returns **Nothing**. You can use the following code to handle both return values:
+Beginning with Visio 5.0b, the **Page** property no longer returns an exception if a window is not showing a page; it returns **Nothing**. Use the following code to handle both return values:
 
 
 

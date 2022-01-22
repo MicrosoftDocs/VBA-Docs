@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 ## Remarks
 
-You can use this method to ensure that a form or control displays the most recent data.
+Use this method to ensure that a form or control displays the most recent data.
 
 The **Requery** method does one of the following:
 

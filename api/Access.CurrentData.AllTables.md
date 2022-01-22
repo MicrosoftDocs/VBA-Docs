@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentData.AllTables property (Access)
 
-You can use the **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
+Use the **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
 
 
 ## Syntax

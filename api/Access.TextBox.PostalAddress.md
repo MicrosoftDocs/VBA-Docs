@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.PostalAddress property (Access)
 
-You can use the **PostalAddress** property to specify or determine the postal code and the Customer Barcode data corresponding to the address information displayed in a specified field or text box. The PostalAddress Property Wizard enables the setting of these properties. Read/write **String**.
+Use the **PostalAddress** property to specify or determine the postal code and the Customer Barcode data corresponding to the address information displayed in a specified field or text box. The PostalAddress Property Wizard enables the setting of these properties. Read/write **String**.
 
 
 ## Syntax

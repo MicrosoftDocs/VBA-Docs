@@ -28,7 +28,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 This property returns **Null** (**Nothing** in Visual Basic) if there is no logged-on session.
 
-You can use the **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements perform the same function:
+Use the **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements perform the same function:
 
 
 

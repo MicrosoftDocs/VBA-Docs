@@ -142,7 +142,7 @@ These events are similar to the Visual Basic events that have the same names, al
 
 ## Integrating the Visio Drawing Control into the user interface of your application
 
-You can use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
+Use events or status changes in your host application to modify a drawing in the Visio Drawing Control. In addition, you can use events in the Visio Drawing Control to drive actions or changes in your host application. For example, you can use mouse events or keyboard events in the Visio Drawing Control to display user interface elements such as forms and message boxes in your host application. The following code shows how to handle a **MouseDown** event (a mouse click) in the Visio Drawing Control to display a message box in your Visual Basic 6.0 application.
 
 
 ```vb

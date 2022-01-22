@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.Modules property (Access)
 
-You can use the **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
+Use the **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
 
 
 ## Syntax

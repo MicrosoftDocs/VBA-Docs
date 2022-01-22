@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Enumerate, Show, Hide, and Position Modules in the Navigation Pane
 
-The **[NavigationModules](../../../api/Outlook.NavigationModules.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook provides access to the navigation modules contained by the Navigation Pane. You can use the **Item** method to enumerate the **[NavigationModule](../../../api/Outlook.NavigationModule.md)** objects contained by the collection, as the **Item** method is both the default property and the indexer property for the **NavigationModules** collection. The **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property determines which **NavigationModule** object is currently selected in the Navigation Pane.
+The **[NavigationModules](../../../api/Outlook.NavigationModules.md)** property of the **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object in Microsoft Outlook provides access to the navigation modules contained by the Navigation Pane. Use the **Item** method to enumerate the **[NavigationModule](../../../api/Outlook.NavigationModule.md)** objects contained by the collection, as the **Item** method is both the default property and the indexer property for the **NavigationModules** collection. The **[CurrentModule](../../../api/Outlook.NavigationPane.CurrentModule.md)** property determines which **NavigationModule** object is currently selected in the Navigation Pane.
 
 Also, each **NavigationModule** object provides several properties that can be used to show, hide, or change the display position of modules in the Navigation Pane:
 

@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-You can use the **[LineSpacingRule](Publisher.ParagraphFormat.LineSpacingRule.md)** property to set the line spacing to a preset value.
+Use the **[LineSpacingRule](Publisher.ParagraphFormat.LineSpacingRule.md)** property to set the line spacing to a preset value.
 
 
 ## Example

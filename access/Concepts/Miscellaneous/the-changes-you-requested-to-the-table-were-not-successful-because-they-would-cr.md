@@ -32,7 +32,7 @@ Access ensures that every record has a value in the primary key field, and that 
 ## What is an index?
 <a name="sectionSection1"> </a>
 
-You can use an index to help Access find and sort records faster. An index stores the location of records based on the field or fields that you choose to index. After Access obtains the location from the index, it can then retrieve the data by moving directly to the correct location. In this way, using an index can be considerably faster than scanning through all of the records to find the data.
+Use an index to help Access find and sort records faster. An index stores the location of records based on the field or fields that you choose to index. After Access obtains the location from the index, it can then retrieve the data by moving directly to the correct location. In this way, using an index can be considerably faster than scanning through all of the records to find the data.
 
 If you create a unique index, Access does not allow you to enter a new value in the field if that value already exists in the same field in another record. Access automatically creates a unique index for primary keys.
 

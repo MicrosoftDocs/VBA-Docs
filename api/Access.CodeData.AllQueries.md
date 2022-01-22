@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeData.AllQueries property (Access)
 
-You can use the **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
+Use the **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
 
 
 ## Syntax

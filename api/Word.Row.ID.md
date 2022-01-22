@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 ## Remarks
 
-You can use a label as a hyperlink reference from other Web pages or from within the current document.
+Use a label as a hyperlink reference from other Web pages or from within the current document.
 
 
 ## See also

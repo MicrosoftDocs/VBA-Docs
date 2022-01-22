@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.RecordLocks property (Access)
 
-You can use the **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.
+Use the **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.
 
 
 ## Syntax
@@ -41,9 +41,9 @@ The **RecordLocks** property uses the following settings.
 > [!NOTE] 
 > Changing the **RecordLocks** property of an open form or report causes an automatic recreation of the recordset.
 
-You can use the No Locks setting for forms if only one person uses the underlying tables or queries or makes all the changes to the data.
+Use the No Locks setting for forms if only one person uses the underlying tables or queries or makes all the changes to the data.
 
-In a multiuser database, you can use the No Locks setting if you want to use optimistic locking and warn users attempting to edit the same record on a form. You can use the Edited Record setting if you want to prevent two or more users from editing data at the same time.
+In a multiuser database, you can use the No Locks setting if you want to use optimistic locking and warn users attempting to edit the same record on a form. Use the Edited Record setting if you want to prevent two or more users from editing data at the same time.
 
 In Form view or Datasheet view, each locked record has a locked indicator in its record selector.
 

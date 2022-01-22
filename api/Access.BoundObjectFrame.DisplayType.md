@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BoundObjectFrame.DisplayType property (Access)
 
-You can use the **DisplayType** property to specify whether Microsoft Access displays an OLE object's content or an icon. Read/write **Boolean**.
+Use the **DisplayType** property to specify whether Microsoft Access displays an OLE object's content or an icon. Read/write **Boolean**.
 
 
 ## Syntax

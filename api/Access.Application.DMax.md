@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DMax method (Access)
 
-You can use the **DMax** function to determine the maximum value in a specified set of records (a domain).
+Use the **DMax** function to determine the maximum value in a specified set of records (a domain).
 
 
 ## Syntax
@@ -45,10 +45,10 @@ The **DMax** function returns the maximum value that satisfies _criteria_. If _e
 
 The **DMax** function ignores **Null** values in the field referenced by _expr_. However, if no record satisfies _criteria_, or if _domain_ contains no records, the **DMax** function returns a **Null**.
 
-You can use the **DMax** function to specify criteria in the **Criteria** row of a query, in a calculated field expression in a query, or in the **Update To** row of an update query.
+Use the **DMax** function to specify criteria in the **Criteria** row of a query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use the **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
+> Use the **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
 
 Use the **DMax** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed. For example, to display the maximum freight charged for an order shipped to California, set the **ControlSource** property of a text box to the following expression:
 

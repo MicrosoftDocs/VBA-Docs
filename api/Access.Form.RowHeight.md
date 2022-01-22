@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.RowHeight property (Access)
 
-You can use the **RowHeight** property to specify the height of all rows in Datasheet view. Read/write **Integer**.
+Use the **RowHeight** property to specify the height of all rows in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax

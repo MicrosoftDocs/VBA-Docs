@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Understanding conditional compilation
 
-You can use conditional compilation to run blocks of code selectively, for example, debugging statements comparing the speed of different approaches to the same programming task, or localizing an application for different languages.
+Use conditional compilation to run blocks of code selectively, for example, debugging statements comparing the speed of different approaches to the same programming task, or localizing an application for different languages.
 
 You declare a [conditional compiler constant](../../Glossary/vbe-glossary.md#conditional-compiler-constant) in code with the **[#Const](../../reference/user-interface-help/const-directive.md)** directive, and you denote blocks of code to be conditionally compiled with the **[#If...Then...#Else](../../reference/user-interface-help/ifthenelse-directive.md)** directive. 
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.ScaleLeft property (Access)
 
-You can use the **ScaleLeft** property to specify the units for the horizontal coordinates that describe the location of the left edge of a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
+Use the **ScaleLeft** property to specify the units for the horizontal coordinates that describe the location of the left edge of a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is printed or previewed, or its output is saved to a file. Read/write **Single**.
 
 
 ## Syntax

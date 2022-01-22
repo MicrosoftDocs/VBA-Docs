@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.Text property (Access)
 
-You can use the **Text** property to set or return the text **Value** contained in a text box. Read/write **String**.
+Use the **Text** property to set or return the text **Value** contained in a text box. Read/write **String**.
 
 
 ## Syntax

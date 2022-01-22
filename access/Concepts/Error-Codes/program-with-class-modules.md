@@ -16,7 +16,7 @@ In Access, there were two types of modules: standard modules and class modules. 
 
 ## Create custom objects with class modules
 
-You can use a class module to create a definition for a custom object. The name with which you save the class module becomes the name of your custom object. Public **Sub** and **Function** procedures that you define within a class module become custom methods of the object. Public **Property Let**, **Property Get**, and **Property Set** procedures become properties of the object.
+Use a class module to create a definition for a custom object. The name with which you save the class module becomes the name of your custom object. Public **Sub** and **Function** procedures that you define within a class module become custom methods of the object. Public **Property Let**, **Property Get**, and **Property Set** procedures become properties of the object.
 
 After you've defined procedures within the class module, you can create the new object by creating a new instance of the class. To create a new instance of a class, you declare a variable of the type defined by that class. For example, if the name of your class is ABasicClass, you would create a new instance of it in the following manner:
 
