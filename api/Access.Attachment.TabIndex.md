@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.TabIndex property (Access)
 
-You can use the **TabIndex** property to specify a control's place in the tab order on a form. Read/write **Integer**.
+Use the **TabIndex** property to specify a control's place in the tab order on a form. Read/write **Integer**.
 
 
 ## Syntax

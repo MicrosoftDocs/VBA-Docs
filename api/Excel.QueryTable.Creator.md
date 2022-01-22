@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[QueryTable](Excel.QueryTable.md)** 
 
 If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
 
-Data from web queries or text queries is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object. You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Creator** property.
+Data from web queries or text queries is imported as a **QueryTable** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object. Use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Creator** property.
 
 
 

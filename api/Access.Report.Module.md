@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Module property (Access)
 
-You can use the **Module** property to specify a report module. Read-only **Module** object.
+Use the **Module** property to specify a report module. Read-only **Module** object.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ If you import data by using the user interface, data from web queries or text qu
 
 If you import data by using the object model, data from web queries or text queries must be imported as a **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
-You can use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Sort** property.
+Use the **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **Sort** property.
 
 
 ## Example

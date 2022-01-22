@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CreateAccessProject method (Access)
 
-You can use the **CreateAccessProject** method to create a new Microsoft Access project (.adp) on disk.
+Use the **CreateAccessProject** method to create a new Microsoft Access project (.adp) on disk.
 
 ## Syntax
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Range](Excel.Range(object).md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cell1_|Required| **Variant**|The name of the range. This must be an A1-style reference in the language of the macro. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored.<br/><br/>You can use a local defined name in any part of the range. If you use a name, the name is assumed to be in the language of the macro.|
+| _Cell1_|Required| **Variant**|The name of the range. This must be an A1-style reference in the language of the macro. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored.<br/><br/>Use a local defined name in any part of the range. If you use a name, the name is assumed to be in the language of the macro.|
 | _Cell2_|Optional| **Variant**|The cell in the upper-left and lower-right corner of the range. Can be a **Range** object that contains a single cell, an entire column, or entire row, or it can be a string that names a single cell in the language of the macro.|
 
 ## Remarks

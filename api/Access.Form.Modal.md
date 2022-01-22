@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Modal property (Access)
 
-You can use the **Modal** property to specify whether a form opens as a modal window. When a form opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
+Use the **Modal** property to specify whether a form opens as a modal window. When a form opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
 
 
 ## Syntax
@@ -35,9 +35,9 @@ The **Modal** property uses the following settings.
 
 When you open a modal window, other windows in Microsoft Access are disabled until you close the form (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the **Modal** and **PopUp** properties to Yes.
 
-You can use the **BorderStyle** property to specify the kind of border a form will have. Typically, modal forms have the **BorderStyle** property set to Dialog.
+Use the **BorderStyle** property to specify the kind of border a form will have. Typically, modal forms have the **BorderStyle** property set to Dialog.
 
-You can use the **Modal**, **PopUp**, and **BorderStyle** properties to create a custom dialog box. You can set **Modal** to Yes, **PopUp** to Yes, and **BorderStyle** to Dialog for custom dialog boxes.
+Use the **Modal**, **PopUp**, and **BorderStyle** properties to create a custom dialog box. You can set **Modal** to Yes, **PopUp** to Yes, and **BorderStyle** to Dialog for custom dialog boxes.
 
 Setting the **Modal** property to Yes makes the form modal only when you:
 
@@ -50,7 +50,7 @@ When the form is modal, you can't switch to Datasheet view from Form view, altho
 The form isn't modal in Design view or Datasheet view and also isn't modal if you switch from Datasheet view to Form view.
 
 > [!NOTE] 
-> You can use the Dialog setting of the _WindowMode_ action argument of the OpenForm action to open a form with its **Modal** and **PopUp** properties set to Yes.
+> Use the Dialog setting of the _WindowMode_ action argument of the OpenForm action to open a form with its **Modal** and **PopUp** properties set to Yes.
 
 
 

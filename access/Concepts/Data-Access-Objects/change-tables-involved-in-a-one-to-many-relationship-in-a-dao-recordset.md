@@ -19,7 +19,7 @@ Set rstTotalSales = dbs.OpenRecordset("Sales Totals" ,,dbInconsistent)
 
 When you update an inconsistent dynaset, you can easily destroy the referential integrity of the data in the dynaset. You must take care to understand how the data is related across the one-to-many relationship and to update the values on both sides in a way that preserves data integrity.
 
-The **dbInconsistent** constant is available only for dynaset-type **Recordset** objects. It is ignored for table, snapshot, and forward-only-type **Recordset** objects, but no compile or run-time error is returned if the **dbInconsistent** constant is used with those types of **Recordset** objects.
+The **dbInconsistent** constant is available only for dynaset-type **Recordset** objects. It's ignored for table, snapshot, and forward-only-type **Recordset** objects, but no compile or run-time error is returned if the **dbInconsistent** constant is used with those types of **Recordset** objects.
 
 Even with an inconsistent **Recordset**, some fields may not be updatable. For example, you cannot change the value of an AutoNumber field, and a **Recordset** based on certain linked tables may not be updatable.
 

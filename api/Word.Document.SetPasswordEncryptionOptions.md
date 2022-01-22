@@ -37,7 +37,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-For enhanced security, do not use Weak Encryption (XOR) (also called "OfficeXor") or "Office97/2000 Compatible" (also called "OfficeStandard") algorithms.
+For enhanced security, don't use Weak Encryption (XOR) (also called "OfficeXor") or "Office97/2000 Compatible" (also called "OfficeStandard") algorithms.
 
 
 ## Example

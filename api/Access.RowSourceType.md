@@ -54,7 +54,7 @@ Access calls the user-defined function for **acLBEnd** when the form is closed o
 Whenever a particular value (such as the number of columns) is required, returning **Null** or any invalid value causes Access to stop calling the user-defined function with that code.
 
 > [!TIP] 
-> You can use the Select Case code structure from the example as a template for your own **RowSourceType** property user-defined functions.
+> Use the Select Case code structure from the example as a template for your own **RowSourceType** property user-defined functions.
 
 
 ## Example

@@ -32,7 +32,7 @@ Use the **PathSeparator** property to add the character that separates folders a
 
 
 > [!NOTE] 
-> You can use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+> Use the **PathSeparator** property to build web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## Example

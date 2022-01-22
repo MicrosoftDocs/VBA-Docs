@@ -35,7 +35,7 @@ When connecting to an OLAP data source such as Analysis Services and creating OL
 
 ## Trigger the creation of a PowerPivot Model
 
-By default, XLSX files in Excel 2010 and Excel do not have a PPM initialized in them until the model is deemed necessary. Certain actions trigger the creation of a PPM if there is no existing model in the workbook. The following sections describe the actions that will trigger the creation of a PPM when it does not exist in the workbook.
+By default, XLSX files in Excel 2010 and Excel don't have a PPM initialized in them until the model is deemed necessary. Certain actions trigger the creation of a PPM if there is no existing model in the workbook. The following sections describe the actions that will trigger the creation of a PPM when it does not exist in the workbook.
 
 ### Add a new non-legacy data source
 

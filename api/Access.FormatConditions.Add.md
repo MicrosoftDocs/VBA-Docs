@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormatConditions.Add method (Access)
 
-You can use the **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **FormatConditions** collection of a combo box or text box control.
+Use the **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **FormatConditions** collection of a combo box or text box control.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ FormatCondition
 
 ## Remarks
 
-You can use the **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
+Use the **Delete** method of the **FormatConditions** collection to delete an existing **FormatConditions** collection from a combo box or text box control.
 
 
 

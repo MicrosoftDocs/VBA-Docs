@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Refer to Cells and Ranges by Using A1 Notation
 
-You can refer to a cell or range of cells in the A1 reference style by using the **Range** property. The following subroutine changes the format of cells A1:D5 to bold.
+Refer to a cell or range of cells in the A1 reference style by using the **Range** property. The following subroutine changes the format of cells A1:D5 to bold.
 
 
 ```vb

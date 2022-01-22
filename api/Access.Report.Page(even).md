@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Page event (Access)
 
-The **Page** event occurs after Microsoft Access formats a page of a report for printing, but before the page is printed. You can use this event to draw a border around the page, or add other graphic elements to the page.
+The **Page** event occurs after Microsoft Access formats a page of a report for printing, but before the page is printed. Use this event to draw a border around the page, or add other graphic elements to the page.
 
 
 ## Syntax

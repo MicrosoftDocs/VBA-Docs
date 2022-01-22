@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **DisplayControl** property in table Design view to specify the default control you want to use for displaying a field.
+Use the **DisplayControl** property in table Design view to specify the default control you want to use for displaying a field.
 
 
 ## Setting

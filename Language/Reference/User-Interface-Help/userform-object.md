@@ -25,7 +25,7 @@ The placeholder _index_ represents an integer with a range from 0 to **UserForms
 
 ## Remarks
 
-You can use the **UserForms** collection to iterate through all loaded user forms in an application. It identifies an intrinsic global [variable](../../Glossary/vbe-glossary.md#variable) named **UserForms**. You can pass **UserForms**(_index_) to a function whose [argument](../../Glossary/vbe-glossary.md#argument) is specified as a **UserForm** class.
+Use the **UserForms** collection to iterate through all loaded user forms in an application. It identifies an intrinsic global [variable](../../Glossary/vbe-glossary.md#variable) named **UserForms**. You can pass **UserForms**(_index_) to a function whose [argument](../../Glossary/vbe-glossary.md#argument) is specified as a **UserForm** class.
 
 User forms have [properties](../../Glossary/vbe-glossary.md#property) that determine appearance such as position, size, and color; and aspects of their behavior.
 

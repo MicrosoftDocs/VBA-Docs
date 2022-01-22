@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.OrderBy property (Access)
 
-You can use the **OrderBy** property to specify how you want to sort records in a report. Read/write **String**.
+Use the **OrderBy** property to specify how you want to sort records in a report. Read/write **String**.
 
 
 ## Syntax

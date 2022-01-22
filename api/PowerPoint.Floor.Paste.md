@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[Floor](PowerPoint.Floor.md)' object.
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts.
+Use this method on column, bar, line, or radar charts.
 
 
 ## See also

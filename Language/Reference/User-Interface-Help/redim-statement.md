@@ -33,7 +33,7 @@ The **ReDim** statement syntax has these parts:
 
 The **ReDim** statement is used to size or resize a dynamic array that has already been formally declared by using a **[Private](private-statement.md)**, **[Public](public-statement.md)**, or **[Dim](dim-statement.md)** statement with empty parentheses (without dimension subscripts).
 
-You can use the **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed by using an **As** _type_ clause, unless you are using the **Preserve** keyword, in which case, no changes of data type are permitted.
+Use the **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed by using an **As** _type_ clause, unless you are using the **Preserve** keyword, in which case, no changes of data type are permitted.
 
 If you use the **Preserve** keyword, you can resize only the last array dimension and you can't change the number of dimensions at all. For example, if your array has only one dimension, you can resize that dimension because it is the last and only dimension. However, if your array has two or more dimensions, you can change the size of only the last dimension and still preserve the contents of the array. 
 

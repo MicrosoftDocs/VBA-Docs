@@ -25,7 +25,7 @@ A shape range can contain as few as a single shape or as many as all the shapes 
 
 ### Return a set of shapes that you specify by name or index number
 
-Use **[Range](excel.shapes.range.md)** (_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. 
+Use **[Range](excel.shapes.range.md)** (_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. Use the **Array** function to construct an array of names or index numbers. 
 
 The following example sets the fill pattern for shapes one and three on _myDocument_.
 

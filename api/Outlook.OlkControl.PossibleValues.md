@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[OlkControl](Outlook.olkcontrol.md)
 
 ## Remarks
 
-For controls that do not support a drop-down list, the value of this property is **Null** (**Nothing** for Visual Basic).
+For controls that don't support a drop-down list, the value of this property is **Null** (**Nothing** for Visual Basic).
 
 
 

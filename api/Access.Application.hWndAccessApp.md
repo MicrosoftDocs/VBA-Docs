@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.hWndAccessApp method (Access)
 
-You can use the **hWndAccessApp** method to determine the handle assigned by Windows to the main Microsoft Access window.
+Use the **hWndAccessApp** method to determine the handle assigned by Windows to the main Microsoft Access window.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Long
 
 The **hWndAccessApp** method returns a **Long Integer** value set by Access and is read-only.
 
-You can use this method by using [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) when making calls to Windows application programming interface (API) functions or other external procedures that require a window handle as an argument.
+Use this method by using [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) when making calls to Windows application programming interface (API) functions or other external procedures that require a window handle as an argument.
 
 To get the handle to a window containing an Access object such as a Form or Report, use the **hWnd** property.
 

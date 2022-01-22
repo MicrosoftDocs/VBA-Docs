@@ -31,7 +31,7 @@ The **StDevP** function evaluates a population, and the **StDev** function evalu
 
 If the underlying query contains fewer than two records (or no records, for the **StDevP** function), these functions return a **Null** value (which indicates that a standard deviation cannot be calculated).
 
-You can use the **StDev** and **StDevP** functions in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
+Use the **StDev** and **StDevP** functions in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
 
 ## Example

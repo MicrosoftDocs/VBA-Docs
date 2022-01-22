@@ -33,7 +33,7 @@ Charts("Chart1").SeriesCollection(1).DataLabels.AutoText = True
 ```
 
 > [!NOTE] 
-> If you run `ActiveChart.SeriesCollection(1).DataLabels.AutoText` in the Immediate window, you will receive the following:
+> If you run `ActiveChart.SeriesCollection(1).DataLabels.AutoText` in the Immediate window, you'll receive the following:
 > - Excel 2003: Returns nothing.
 > - Excel 2007 and later: Returns **True** only when all **DataLabels** have **AutoText** = **True**, returns **False** if all **DataLabels** have **AutoText** = **False** or some **DataLabels** have **AutoText** = **False**.
 

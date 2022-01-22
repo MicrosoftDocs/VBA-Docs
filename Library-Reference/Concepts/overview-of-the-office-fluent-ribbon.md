@@ -94,7 +94,7 @@ To customize the UI by using XML markup, do the following:
     
 ## General format of XML markup files
 
-You can use XML markup to customize the ribbon. The following example shows the general format of an XML markup file that you can use to customize the ribbon in Word.
+Use XML markup to customize the ribbon. The following example shows the general format of an XML markup file that you can use to customize the ribbon in Word.
 
 ```xml
 <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 

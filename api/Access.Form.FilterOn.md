@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.FilterOn property (Access)
 
-You can use the **FilterOn** property to specify or determine whether the **Filter** property for a form or report is applied. Read/write **Boolean**.
+Use the **FilterOn** property to specify or determine whether the **Filter** property for a form or report is applied. Read/write **Boolean**.
 
 
 ## Syntax

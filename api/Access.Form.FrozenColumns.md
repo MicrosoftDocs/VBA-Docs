@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.FrozenColumns property (Access)
 
-You can use the **FrozenColumns** property to determine how many columns in a datasheet are frozen. Read/write **Integer**.
+Use the **FrozenColumns** property to determine how many columns in a datasheet are frozen. Read/write **Integer**.
 
 
 ## Syntax

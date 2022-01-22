@@ -28,7 +28,7 @@ _expression_ A variable that represents an [OlkSenderPhoto](Outlook.OlkSenderPho
 
 The value is expressed in units of pixels. The default value is 96.
 
- You can use this property and the **[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)** property to simulate Outlook's behavior to render, resize, and align the sender picture in a standard form.
+ Use this property and the **[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)** property to simulate Outlook's behavior to render, resize, and align the sender picture in a standard form.
 
 
 ## See also

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.UserControl property (Access)
 
-You can use the **UserControl** property to determine whether the current Microsoft Access application was started by the user or by another application with Automation, formerly called OLE Automation. Read/write **Boolean**.
+Use the **UserControl** property to determine whether the current Microsoft Access application was started by the user or by another application with Automation, formerly called OLE Automation. Read/write **Boolean**.
 
 
 ## Syntax

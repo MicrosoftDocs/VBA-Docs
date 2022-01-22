@@ -29,7 +29,7 @@ Command bars have been deprecated since Outlook 2010. Explorer and inspector win
 Instead of using the **CommandBars** property of the [Explorer](../../../api/Outlook.Explorer.md) and [Inspector](../../../api/Outlook.Inspector.md) objects, use ribbon extensibility to customize the ribbon and to customize any menus and submenus off the ribbon. Ribbon extensibility requires an add-in that implements the [IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md) interface. 
 
 For more information about customizing the ribbon in Outlook, see [Overview of Customizing the Ribbon](overview-of-customizing-the-ribbon.md).
-Consistent with the deprecation of command bars in the explorer and inspector windows, do not rely on the [CommandBar](../../../api/Office.CommandBar.md) object for your custom menus; instead, use an add-in through the **IRibbonExtensibility** interface to extend them. For more information, see [Customizing Shortcut Menus](customizing-shortcut-menus.md).
+Consistent with the deprecation of command bars in the explorer and inspector windows, don't rely on the [CommandBar](../../../api/Office.CommandBar.md) object for your custom menus; instead, use an add-in through the **IRibbonExtensibility** interface to extend them. For more information, see [Customizing Shortcut Menus](customizing-shortcut-menus.md).
 
 ## See also
 

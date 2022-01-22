@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.AllowDeletions property (Access)
 
-You can use the **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
+Use the **AllowDeletions** property to specify whether a user can delete a record when using a form. Read/write **Boolean**.
 
 
 ## Syntax

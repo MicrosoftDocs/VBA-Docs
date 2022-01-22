@@ -41,6 +41,6 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 The **Deactivate** event does not occur when you close a project or when you switch between two windows showing the same project.
 
-Project events do not occur when the project is embedded in another document or application.
+Project events don't occur when the project is embedded in another document or application.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

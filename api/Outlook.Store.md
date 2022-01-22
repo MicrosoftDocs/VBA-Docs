@@ -21,7 +21,7 @@ Represents a file on the local computer or a network drive that stores email mes
 
 A profile defines one or more email accounts, and each email account is associated with a server of a specific type. For an Exchange server, a store can be on the server, in an Exchange Public folder, or in a local Personal Folders File (.pst) or Offline Folder File (.ost). For a POP3, IMAP, or HTTP email server, a store is a .pst file.
 
-You can use the **[Stores](Outlook.Stores.md)** and **Store** objects to enumerate all folders and search folders on all stores in the current session. Since getting the root folder or search folders in a store requires the store to be open and opening a store imposes an overhead on performance, you can check the **[Store.IsOpen](Outlook.Store.IsOpen.md)** property before you decide to pursue the operation.
+Use the **[Stores](Outlook.Stores.md)** and **Store** objects to enumerate all folders and search folders on all stores in the current session. Since getting the root folder or search folders in a store requires the store to be open and opening a store imposes an overhead on performance, you can check the **[Store.IsOpen](Outlook.Store.IsOpen.md)** property before you decide to pursue the operation.
 
 If you use an Exchange server, you can access other explicit built-in **Store** properties for store characteristics such as **[ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)**, **[IsCachedExchange](Outlook.Store.IsCachedExchange.md)**, and **[IsDataFileStore](Outlook.Store.IsDataFileStore.md)**. Use the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by **[Store.PropertyAccessor](Outlook.Store.PropertyAccessor.md)** to access other store properties that are not exposed in the Outlook object model.
 

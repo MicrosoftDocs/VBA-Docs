@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabControl.TabFixedWidth property (Access)
 
-You can use the **TabFixedWidth** property to specify or determine the width of the tabs on a tab control. Read/write **Integer**.
+Use the **TabFixedWidth** property to specify or determine the width of the tabs on a tab control. Read/write **Integer**.
 
 
 ## Syntax

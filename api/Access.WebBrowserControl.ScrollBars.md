@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WebBrowserControl.ScrollBars property (Access)
 
-You can use the **ScrollBars** property to specify whether scroll bars appear on a control. Read/write **Byte**.
+Use the **ScrollBars** property to specify whether scroll bars appear on a control. Read/write **Byte**.
 
 
 ## Syntax

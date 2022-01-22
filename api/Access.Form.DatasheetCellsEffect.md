@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetCellsEffect property (Access)
 
-You can use the **DatasheetCellsEffect** property to specify whether special effects are applied to cells in a datasheet. Read/write **Byte**.
+Use the **DatasheetCellsEffect** property to specify whether special effects are applied to cells in a datasheet. Read/write **Byte**.
 
 
 ## Syntax

@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Results](Outlook.Results.md) object.
 
 ## Remarks
 
-This event does not run when a large number of items are added to the folder at once. It is not available in Microsoft Visual Basic Scripting Edition (VBScript).
+This event does not run when a large number of items are added to the folder at once. It's not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Example

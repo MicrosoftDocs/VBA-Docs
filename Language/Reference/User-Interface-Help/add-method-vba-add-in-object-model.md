@@ -29,7 +29,7 @@ The **Add** syntax has these parts:
 
 <br/>
 
-You can use one of the following constants for the _component_ argument:
+Use one of the following constants for the _component_ argument:
 
 |Constant|Description|
 |:-----|:-----|

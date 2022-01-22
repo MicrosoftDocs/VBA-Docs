@@ -17,7 +17,7 @@ The **[Items](../../../api/Outlook.Items.md)**, **[Table](../../../api/Outlook.T
 
 You can obtain an **Items** collection by calling **[Folder.Items](../../../api/Outlook.Folder.Items.md)** which returns the items in the folder. Each item object in the collection is complete with all its explicit built-in properties and custom properties, and supports read-write operations. The **Items** collection also supports filters and events that fire when items are added, changed, or removed from the collection.
 
-You can use **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** or **[Search.GetTable](../../../api/Outlook.Search.GetTable.md)** to obtain a **Table** object that represents a set of items in a folder or search folder. In both cases, you can specify a filter to obtain a subset of the items in the folder, or, if you do not specify any filter, obtain all the items in the folder. By default, each item in the returned **Table** contains only a default subset of its properties. 
+Use **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** or **[Search.GetTable](../../../api/Outlook.Search.GetTable.md)** to obtain a **Table** object that represents a set of items in a folder or search folder. In both cases, you can specify a filter to obtain a subset of the items in the folder, or, if you don't specify any filter, obtain all the items in the folder. By default, each item in the returned **Table** contains only a default subset of its properties. 
 
 You can view each row of a **Table** as an item in the folder, each column as a property of the item, and the **Table** is an in-memory light-weight rowset that allows fast enumeration and filtering of items in the folder. Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing rows. 
 
@@ -25,7 +25,7 @@ If you require a writeable object from the **Table** row, obtain the Entry ID fo
 
 The **Selection** object supports enumerating items that a user has currently selected in an explorer. Since the explorer displays the contents of a folder, the **Selection** object supports enumeration of items in that folder as per the user's selection.
 
- **Note** A folder in Outlook can contain heterogeneous items. For example, the Contacts folder supports creating contact items and distribution list items by default. Since the **Items**, **Table**, and **Selection** objects encapsulate items in a folder or search folder, the items in them do not necessarily have the same message class. When enumerating items in these collections and objects, it is a good practice to first check for the message class of each item before accessing the item's properties.
+ **Note** A folder in Outlook can contain heterogeneous items. For example, the Contacts folder supports creating contact items and distribution list items by default. Since the **Items**, **Table**, and **Selection** objects encapsulate items in a folder or search folder, the items in them don't necessarily have the same message class. When enumerating items in these collections and objects, it is a good practice to first check for the message class of each item before accessing the item's properties.
 
 
 ## Searching and Filtering Items

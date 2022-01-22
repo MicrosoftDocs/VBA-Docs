@@ -31,7 +31,7 @@ The **GetSetting** function syntax has these [named arguments](../../Glossary/vb
 
 ## Remarks
 
-If any of the items named in the **GetSetting** arguments do not exist, **GetSetting** returns the value of _default_.
+If any of the items named in the **GetSetting** arguments don't exist, **GetSetting** returns the value of _default_.
 
 ## Example
 

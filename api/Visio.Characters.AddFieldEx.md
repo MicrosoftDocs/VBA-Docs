@@ -77,7 +77,7 @@ Using the **AddFieldEx** method is similar to clicking **Field** on the **Insert
     
 
 
-To add a custom formula field, use the **AddCustomField** or **AddCustomFieldU** method. When you do not pass values (or pass default values) for the optional _LangID_ and _CalendarID_ arguments, **AddFieldEx** acts exactly like **AddField**.
+To add a custom formula field, use the **AddCustomField** or **AddCustomFieldU** method. When you don't pass values (or pass default values) for the optional _LangID_ and _CalendarID_ arguments, **AddFieldEx** acts exactly like **AddField**.
 
 
 ## Example

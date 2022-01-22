@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[MailMergeDataSource](Publisher.Mail
 
 ## Remarks
 
-You can use the **EditRecord** method to correct data source information that is in error, such as an outdated recipient address.
+Use the **EditRecord** method to correct data source information that is in error, such as an outdated recipient address.
 
 The **EditRecord** method does not make any changes to the individual data sources that together make up the master data source.
 

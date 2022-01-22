@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.SysCmd method (Access)
 
-You can use the **SysCmd** method to display a progress meter or optional specified text in the status bar, return information about Microsoft Access and its associated files, or return the state of a specified database object (to indicate whether the object is open, is a new object, or has been changed but not saved). **Variant**.
+Use the **SysCmd** method to display a progress meter or optional specified text in the status bar, return information about Microsoft Access and its associated files, or return the state of a specified database object (to indicate whether the object is open, is a new object, or has been changed but not saved). **Variant**.
 
 
 ## Syntax

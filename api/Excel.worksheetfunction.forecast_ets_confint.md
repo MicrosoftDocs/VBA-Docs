@@ -41,7 +41,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-It isn't necessary to sort the timeline (_Arg3_), because **Forecast_ETS_ConfInt** sorts it implicitly for calculations. If **Forecast_ETS_ConfInt** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_ConfInt** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_ConfInt** returns run-time error 1004.
+It'sn't necessary to sort the timeline (_Arg3_), because **Forecast_ETS_ConfInt** sorts it implicitly for calculations. If **Forecast_ETS_ConfInt** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_ConfInt** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_ConfInt** returns run-time error 1004.
 
 A confidence interval (_Arg4_) of 95% means that 95% of future points are expected to fall within this radius from the result that **[Forecast_ETS](Excel.worksheetfunction.forecast_ets.md)** forecasted (with normal distribution). Using confidence intervals can help you grasp the accuracy of the predicted model. A smaller interval implies more confidence in the prediction for this specific point.
 

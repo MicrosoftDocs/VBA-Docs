@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[Project](project.project.md)** obje
 
 ## Remarks
 
-You can use the **GetDisplayNameFromObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.
+Use the **GetDisplayNameFromObjectMatchingID** method to get the display name in a multilanguage environment that uses Object Matching Identifier (OMID) fields. For more information, see the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.
 
 
 ## Example

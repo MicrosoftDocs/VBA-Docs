@@ -45,6 +45,6 @@ Use the **RunEnd** property to determine the end of a sequence of identically fo
 
 The index that the **RunEnd** property returns is greater than or equal to the ending index of a **Characters** object. If the **End** property of the **Characters** object is already at the end of a run, the value of the **RunEnd** property is equal to the value of the **End** property.
 
-Use the  _RunType_ argument to specify the type of run you want. You can use any of the constants declared by the Visio type library in **[VisRunTypes Constants](Visio.visruntypes.md)**. To find a list of _RunType_ values, see the **RunBegin** property.
+Use the  _RunType_ argument to specify the type of run you want. Use any of the constants declared by the Visio type library in **[VisRunTypes Constants](Visio.visruntypes.md)**. To find a list of _RunType_ values, see the **RunBegin** property.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

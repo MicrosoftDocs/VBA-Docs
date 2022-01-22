@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AxisTitle.Characters property (PowerPoint)
 
-Returns a **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
+Returns a **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that represents a range of characters within the object text. Use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax

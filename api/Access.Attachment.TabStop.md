@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.TabStop property (Access)
 
-You can use the **TabStop** property to specify whether you can use the Tab key to move the focus to a control in Form view. Read/write **Boolean**.
+Use the **TabStop** property to specify whether you can use the Tab key to move the focus to a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax

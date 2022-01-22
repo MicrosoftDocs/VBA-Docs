@@ -43,7 +43,7 @@ The following are the default properties for custom forms that have form pages:
     
 - **Change Small Icon** Click this button to open the **File Open** dialog box, where you can select a different small icon for your form. Small icons appear in the Outlook folder to represent an item of the type the form creates.
     
-- **Send form definition with item** Instructs Outlook to include the form definition when you send the form. (Note that the form is much larger when it includes the form definition.) When you select this option, Outlook creates a self-contained form that the recipients can use to view the form, even if they do not have access to the same forms library as the sender.
+- **Send form definition with item** Instructs Outlook to include the form definition when you send the form. (Note that the form is much larger when it includes the form definition.) When you select this option, Outlook creates a self-contained form that the recipients can use to view the form, even if they don't have access to the same forms library as the sender.
     
   > [!NOTE] 
   > Because of improvements to security since Office Outlook 2007, this option is not recommended nor is it necessary in most cases. In general, publishing the form is all that is needed.

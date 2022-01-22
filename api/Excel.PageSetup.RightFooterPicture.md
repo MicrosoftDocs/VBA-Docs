@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 The **RightFooterPicture** property itself is read-only, but not all of its properties are read-only.
 
-It is required that `"&G"` be a part of the **RightFooter** property string for the image to show up in the right footer.
+It's required that `"&G"` be a part of the **RightFooter** property string for the image to show up in the right footer.
 
 
 ## Example

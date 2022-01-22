@@ -1,5 +1,5 @@
 ---
-title: Cannot delete this field. It is part of one or more relationships. (Error 3303)
+title: Cannot delete this field. It's part of one or more relationships. (Error 3303)
 keywords: jeterr40.chm5003303
 f1_keywords:
 - jeterr40.chm5003303
@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot delete this field. It is part of one or more relationships. (Error 3303)
+# Cannot delete this field. It's part of one or more relationships. (Error 3303)
 
   
 

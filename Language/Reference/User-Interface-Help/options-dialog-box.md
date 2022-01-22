@@ -58,7 +58,7 @@ The following table describes the tab options.
 |**Form Grid Settings**|Determines the appearance of the form when it is edited.<br/><br/>**Show Grid**: Determines whether to show the grid.<br/><br/>**Grid Units**: Displays the grid units used for the form.<br/><br/>**Width**: Determines the width of grid cells on a form (2 to 60 points).<br/><br/>**Height**: Determines the height of grid cells on a form (2 to 60 points).<br/><br/>**Align Controls to Grid**: Automatically positions the outer edges of controls on grid lines.|
 |**Show ToolTips**|Displays ToolTips for the toolbar buttons.|
 |**Collapse Proj. Hides Windows**|Determines whether the project, **[UserForm](userform-window.md)**, object, or module windows are closed automatically when a project is collapsed in the **[Project Explorer](project-explorer.md)**.|
-|**Edit and Continue**|**Notify Before State Loss**: Determines whether you will receive a message notifying you that the action requested will cause the all module level variables to be reset for a running project.|
+|**Edit and Continue**|**Notify Before State Loss**: Determines whether you'll receive a message notifying you that the action requested will cause the all module level variables to be reset for a running project.|
 |**Error Trapping**|Determines how errors are handled in the Visual Basic development environment. Setting this option affects all instances of Visual Basic started after you change the setting.<br/><br/>**Break on All Errors**: Any error causes the project to enter break mode, whether or not an error handler is active and whether or not the code is in a class module.<br/><br/>**Break in Class Module**: Any unhandled error produced in a class module causes the project to enter break mode at the line of code in the class module which produced the error.<br/><br/>**Break on Unhandled Errors**: If an error handler is active, the error is trapped without entering break mode. If there is no active error handler, the error causes the project to enter break mode. An unhandled error in a class module, however, causes the project to enter break mode on the line of code that invoked the offending procedure of the class.|
 |**Compile**|**Compile On Demand**: Determines whether a project is fully compiled before it starts, or whether code is compiled as needed, allowing the application to start sooner.<br/><br/>**Background Compile**: Determines whether idle time is used during run time to finish compiling the project in the background. **Background Compile** can improve run time execution speed. This feature is not available unless **Compile On Demand** is also selected.|
     
@@ -71,7 +71,7 @@ Allows you to choose which windows you want to be dockable.
 
 A window is docked when it is attached or "anchored" to one edge of other dockable or application windows. When you move a dockable window, it "snaps" to the location. A window is not dockable when you can move it anywhere on the screen and leave it there.
 
-Select the windows you want to be dockable and clear those that you do not. Any, none, or all of the windows in the list can be docked. 
+Select the windows you want to be dockable and clear those that you don't. Any, none, or all of the windows in the list can be docked. 
 
 ## See also
 

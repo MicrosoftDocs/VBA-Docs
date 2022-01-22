@@ -43,7 +43,7 @@ KeyBinding
 
 ## Remarks
 
-You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+Use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
 In the following table, the left column contains commands that require a command value, and the right column describes what you must do to specify CommandParameter for each of these commands. (The equivalent action in the **Customize Keyboard** dialog box (**Tools** menu) to specifying CommandParameter is selecting an item in the list box that appears when you select one of the following commands in the **Commands** box.)
 

@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property will cause a run-time error if used with a hyperlink that is not associated with a text range. You can use code similar to the following to test whether or not a given hyperlink, represented here by  `myHyperlink`, is associated with a text range.
+This property will cause a run-time error if used with a hyperlink that is not associated with a text range. Use code similar to the following to test whether or not a given hyperlink, represented here by  `myHyperlink`, is associated with a text range.
 
 ```vb
 If TypeName(myHyperlink.Parent.Parent) = "TextRange" Then

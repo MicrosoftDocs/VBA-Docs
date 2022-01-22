@@ -353,7 +353,7 @@ Returns a **[Window](objects-visual-basic-add-in-model.md#window)** object repre
 
 ### Remarks
 
-You can use the **Window** object returned by the **MainWindow** property to add or remove [docked windows](../../Glossary/vbe-glossary.md#docked-window), and to maximize, minimize, hide, or restore the main window of the Visual Basic development environment.
+Use the **Window** object returned by the **MainWindow** property to add or remove [docked windows](../../Glossary/vbe-glossary.md#docked-window), and to maximize, minimize, hide, or restore the main window of the Visual Basic development environment.
 
 > [!IMPORTANT] 
 > Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.
@@ -455,7 +455,7 @@ The **ProcBodyLine** syntax has these parts:
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
+Use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -488,7 +488,7 @@ The **ProcCountLines** syntax has these parts:
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
+Use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -522,7 +522,7 @@ The **ProcOfLine** syntax has these parts:
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
+Use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -555,7 +555,7 @@ The **ProcStartLine** syntax has these parts:
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
+Use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -749,7 +749,7 @@ Returns a collection of the components contained in a project.
 
 Use the **[VBComponents](collections-visual-basic-add-in-model.md#vbcomponents)** collection to access, add, or remove components in a project. A component can be a [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), or [class](../../Glossary/vbe-glossary.md#class). The **VBComponents** collection is a standard [collection](../../Glossary/vbe-glossary.md#collection) that can be used in a **For… Each** block.
 
-You can use the **[Parent](#parent)** property to return the project that the **VBComponents** collection is in.
+Use the **[Parent](#parent)** property to return the project that the **VBComponents** collection is in.
 
 In Visual Basic for Applications, you can use the **[Import](../user-interface-help/import-method-vba-add-in-object-model.md)** method to add a component to a project from a file.
 

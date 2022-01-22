@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.KeyPreview property (Access)
 
-You can use the **KeyPreview** property to specify whether the form-level keyboard event procedures are invoked before a control's keyboard event procedures. Read/write **Boolean**.
+Use the **KeyPreview** property to specify whether the form-level keyboard event procedures are invoked before a control's keyboard event procedures. Read/write **Boolean**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The **KeyPreview** property uses the following settings.
 
 You can set the **KeyPreview** property in any view.
 
-You can use the **KeyPreview** property to create a keyboard-handling procedure for a form. For example, when an application uses function keys, setting the **KeyPreview** property to **True** allows you to process keystrokes at the form level rather than writing code for each control that might receive keystroke events.
+Use the **KeyPreview** property to create a keyboard-handling procedure for a form. For example, when an application uses function keys, setting the **KeyPreview** property to **True** allows you to process keystrokes at the form level rather than writing code for each control that might receive keystroke events.
 
 To handle keyboard events only at the form level and prevent controls from receiving keyboard events, set the _KeyAscii_ argument to 0 in the form's **KeyPress** event procedure, and set the _KeyCode_ argument to 0 in the form's **KeyDown** and **KeyUp** event procedures.
 

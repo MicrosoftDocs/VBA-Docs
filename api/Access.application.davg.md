@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Application.DAvg method (Access)
 
-You can use the **DAvg** function to calculate the average of a set of values in a specified set of records (a domain).
+Use the **DAvg** function to calculate the average of a set of values in a specified set of records (a domain).
 
 
 ## Syntax
@@ -43,7 +43,7 @@ Records containing **Null** values aren't included in the calculation of the ave
 
 Whether you use the **DAvg** function in a macro or module, in a query expression, or in a calculated control, you must construct the _Criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the **DAvg** function to specify criteria in the Criteria row of a query. For example, suppose you want to view a list of all products ordered in quantities above the average order quantity. You could create a query on the Orders, Order Details, and Products tables, and include the **Product Name** field and the **Quantity** field, with the following expression in the Criteria row beneath the Quantity field:
+Use the **DAvg** function to specify criteria in the Criteria row of a query. For example, suppose you want to view a list of all products ordered in quantities above the average order quantity. You could create a query on the Orders, Order Details, and Products tables, and include the **Product Name** field and the **Quantity** field, with the following expression in the Criteria row beneath the Quantity field:
 
 ```vb
 >DAvg("[Quantity]", "Orders")
@@ -52,7 +52,7 @@ You can use the **DAvg** function to specify criteria in the Criteria row of a q
 You can also use the **DAvg** function within a calculated field expression in a query, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use either the **DAvg** or **Avg** function in a calculated field expression in a totals query. If you use the **DAvg** function, values are averaged before the data is grouped. If you use the **Avg** function, the data is grouped before values in the field expression are averaged.
+> Use either the **DAvg** or **Avg** function in a calculated field expression in a totals query. If you use the **DAvg** function, values are averaged before the data is grouped. If you use the **Avg** function, the data is grouped before values in the field expression are averaged.
 
 Use the **DAvg** function in a calculated control when you need to specify criteria to restrict the range of data on which the **DAvg** function is performed. For example, to display the average cost of freight for shipments sent to California, set the **ControlSource** property of a text box to the following expression:
 
@@ -62,7 +62,7 @@ Use the **DAvg** function in a calculated control when you need to specify crite
 
 If you simply want to average all records in _Domain_, use the **Avg** function.
 
-You can use the **DAvg** function in a module or macro or in a calculated control on a form if a field that you need to display isn't in the record source on which your form is based. For example, suppose you have a form based on the Orders table, and you want to include the **Quantity** field from the Order Details table to display the average number of items ordered by a particular customer. You can use the **DAvg** function to perform this calculation and display the data on your form.
+Use the **DAvg** function in a module or macro or in a calculated control on a form if a field that you need to display isn't in the record source on which your form is based. For example, suppose you have a form based on the Orders table, and you want to include the **Quantity** field from the Order Details table to display the average number of items ordered by a particular customer. Use the **DAvg** function to perform this calculation and display the data on your form.
 
 > [!TIP] 
 > - If you use the **DAvg** function in a calculated control, you may want to place the control on the form header or footer so that the value for this control is not recalculated each time you move to a new record.

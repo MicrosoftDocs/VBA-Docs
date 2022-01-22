@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Hyperlink.EmailSubject property (Access)
 
-You can use the **EmailSubject** property to specify or return the email subject line of a hyperlink to an object, document, webpage, or other destination for a command button, image control, or label control. Read/write **String**.
+Use the **EmailSubject** property to specify or return the email subject line of a hyperlink to an object, document, webpage, or other destination for a command button, image control, or label control. Read/write **String**.
 
 
 ## Syntax

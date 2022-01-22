@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Global object (Word)
 
-Contains top-level properties and methods that do not need to be preceded by the **Application** property.
+Contains top-level properties and methods that don't need to be preceded by the **Application** property.
 
 
 ## Remarks

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Using Do...Loop statements
 
-You can use **[Do...Loop](../../reference/user-interface-help/doloop-statement.md)** statements to run a block of [statements](../../Glossary/vbe-glossary.md#statement) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
+Use **[Do...Loop](../../reference/user-interface-help/doloop-statement.md)** statements to run a block of [statements](../../Glossary/vbe-glossary.md#statement) an indefinite number of times. The statements are repeated either while a condition is **True** or until a condition becomes **True**.
 
 
 ## Repeating statements while a condition is True

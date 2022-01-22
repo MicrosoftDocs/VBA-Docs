@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[CommandBarButton](Office.CommandBar
 
 ## Remarks
 
-When you change the image on a button, you will also want to use the **Mask** property to set a mask image. The mask image determines which parts of the button image are transparent. Always set the mask after you have set the picture for a **CommandBarButton** object.
+When you change the image on a button, you'll also want to use the **Mask** property to set a mask image. The mask image determines which parts of the button image are transparent. Always set the mask after you have set the picture for a **CommandBarButton** object.
 
 > [!NOTE]
 > The images for the **View Microsoft** _Application_ and **Insert** _Item_ buttons on the **Standard** toolbar in the Visual Basic Editor cannot be changed.

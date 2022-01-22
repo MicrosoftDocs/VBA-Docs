@@ -21,7 +21,7 @@ Represents the search criteria for the cell format.
 
 Use the **[FindFormat](Excel.Application.FindFormat.md)** or **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties of the **Application** object to return a **CellFormat** object.
 
-You can use the **Borders**, **Font**, or **Interior** properties of the **CellFormat** object to define the search criteria for the cell format.
+Use the **Borders**, **Font**, or **Interior** properties of the **CellFormat** object to define the search criteria for the cell format.
 
 
 ## Example

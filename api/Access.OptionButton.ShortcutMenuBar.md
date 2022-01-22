@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # OptionButton.ShortcutMenuBar property (Access)
 
-You can use the **ShortcutMenuBar** property to specify the shortcut menu that appears when you right-click the specified object. Read/write **String**.
+Use the **ShortcutMenuBar** property to specify the shortcut menu that appears when you right-click the specified object. Read/write **String**.
 
 
 ## Syntax

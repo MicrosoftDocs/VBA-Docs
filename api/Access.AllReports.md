@@ -21,7 +21,7 @@ The **AllReports** collection contains an **[AccessObject](Access.AccessObject.m
 
 The **CurrentProject** or **CodeProject** object has an **AllReports** collection containing **AccessObject** objects that describe instances of all the reports in the database. For example, you can enumerate the **AllReports** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual **AccessObject** object in the **AllReports** collection either by referring to the item by name, or by referring to its index within the collection. If you want to refer to a specific report in the **AllReports** collection, it's better to refer to the report by name because the index may change.
+Refer to an individual **AccessObject** object in the **AllReports** collection either by referring to the item by name, or by referring to its index within the collection. If you want to refer to a specific report in the **AllReports** collection, it's better to refer to the report by name because the index may change.
 
 The **AllReports** collection is indexed beginning with zero. If you refer to a report by its index, the first report is AllReports(0), the second report is AllReports(1), and so on.
 

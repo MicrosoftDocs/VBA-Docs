@@ -25,7 +25,7 @@ Possible causes:
     
 - If the property is user-defined, it may have been deleted from the collection.
     
-- You do not have adequate permissions to create a list on the specified Microsoft SharePoint Foundation site.
+- You don't have adequate permissions to create a list on the specified Microsoft SharePoint Foundation site.
     
 
 ## See also

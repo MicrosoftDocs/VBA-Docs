@@ -24,7 +24,7 @@ The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-You can use the **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
+Use the **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
 
 The following code illustrates the use of the **SerialNumber** property.
 

@@ -28,7 +28,7 @@ The settings for the **ShowModal** property are:
 When a **UserForm** is modal, the user must supply information or close the **UserForm** before using any other part of the application. No subsequent code is executed until the **UserForm** is hidden or unloaded. Although other forms in the application are disabled when a **UserForm** is displayed, other applications are not.
 
 When the **UserForm** is modeless, the user can view other forms or windows without closing the **UserForm**.
-Modeless forms do not appear in the task bar and are not in the window tab order.
+Modeless forms don't appear in the task bar and are not in the window tab order.
 
 > [!NOTE] 
 > If you attempt to open a **UserForm** that has a **ShowModal** property in Microsoft Office 97, you get a run-time error because Office 97 only displays modal **UserForms**. Office 97 ignores the **ShowModal** property and displays the **UserForm** modally.

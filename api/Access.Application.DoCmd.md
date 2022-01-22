@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DoCmd property (Access)
 
-You can use the **DoCmd** property to access the read-only **[DoCmd](Access.DoCmd.md)** object and its related methods. Read-only **DoCmd**.
+Use the **DoCmd** property to access the read-only **[DoCmd](Access.DoCmd.md)** object and its related methods. Read-only **DoCmd**.
 
 
 ## Syntax

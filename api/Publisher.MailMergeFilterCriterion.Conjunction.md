@@ -35,7 +35,7 @@ The **Conjunction** property value can be one of the **MsoFilterConjunction** co
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to WA, and then adds the filter to the following filter, so that the filter criteria must match both filters combined and not just one or the other.
+The following example changes an existing filter to remove from the mail merge all records that don't have a Region field equal to WA, and then adds the filter to the following filter, so that the filter criteria must match both filters combined and not just one or the other.
 
 ```vb
 Sub SetQueryCriterion() 

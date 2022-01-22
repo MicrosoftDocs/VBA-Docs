@@ -40,9 +40,9 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 By using the **FollowHyperlink** method, you can follow a hyperlink that doesn't exist in a control. This hyperlink may be supplied by you or by the user. For example, you can prompt a user to enter a hyperlink address in a dialog box, and then use the **FollowHyperlink** method to follow that hyperlink.
 
-You can use the _extrainfo_ and _method_ arguments to supply additional information when navigating to a hyperlink. For example, you can supply parameters to a search engine.
+Use the _extrainfo_ and _method_ arguments to supply additional information when navigating to a hyperlink. For example, you can supply parameters to a search engine.
 
-You can use the **[Follow](Access.Hyperlink.Follow.md)** method to follow a hyperlink associated with a control.
+Use the **[Follow](Access.Hyperlink.Follow.md)** method to follow a hyperlink associated with a control.
 
 
 ## Example

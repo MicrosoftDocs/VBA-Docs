@@ -35,7 +35,7 @@ Nothing
 
 ## Remarks
 
-Use the optional _ScreenX_ and _ScreenY_ parameters to specify the coordinates of the point where you want the dialog box to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner. If you do not specify coordinates, the dialog box appears in its default position, at the lower-right corner of the Visio Viewer control.
+Use the optional _ScreenX_ and _ScreenY_ parameters to specify the coordinates of the point where you want the dialog box to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner. If you don't specify coordinates, the dialog box appears in its default position, at the lower-right corner of the Visio Viewer control.
 
 
 ## Example

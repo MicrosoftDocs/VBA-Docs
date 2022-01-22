@@ -31,9 +31,9 @@ _expression_ An expression that returns a **[PickerResults](Office.PickerResults
 | _Id_|Required|**String**|Represents an identifier of the **PickerResult**.|
 | _DisplayName_|Required|**String**|Represents a display name of the **PickerResult**. |
 | _Type_|Required|**String**|Represents a type of the **PickerResult**.|
-| _SIPId_|Optional|**String**|Currently not supported. The **SIPId** is the identifier for Office Communication Server. It is used only for the people picking scenario.|
+| _SIPId_|Optional|**String**|Currently not supported. The **SIPId** is the identifier for Office Communication Server. It's used only for the people picking scenario.|
 | _ItemData_|Optional|**Variant**|Non-displaying item binding data.|
-| _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the **PickerResult**. It is used for passing column values in the **PickerDialog**.|
+| _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the **PickerResult**. It's used for passing column values in the **PickerDialog**.|
 
 ## Return value
 

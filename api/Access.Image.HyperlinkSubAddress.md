@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.HyperlinkSubAddress property (Access)
 
-You can use the **HyperlinkSubAddress** property to specify or determine a location within the target document specified by the **HyperlinkAddress** property. Read/write **String**.
+Use the **HyperlinkSubAddress** property to specify or determine a location within the target document specified by the **HyperlinkAddress** property. Read/write **String**.
 
 
 ## Syntax

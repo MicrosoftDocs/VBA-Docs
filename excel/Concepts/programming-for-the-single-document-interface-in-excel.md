@@ -123,7 +123,7 @@ In MDI, there is only one formula bar to handle all open workbooks in that insta
 
 Custom Task Panes that attached to a top level window in MDI are now attached to a particular workbook's window in SDI. Switching to a different workbook will activate that workbook window, which won't necessarily have the custom task pane attached, unless the developer's code is updated to specifically display the custom task pane for that workbook.
 
-To summarize, as a developer, you will want to:
+To summarize, as a developer, you'll want to:
 
 - Ensure that for any workbooks where you want to show the custom task pane, you write code to explicitly do that.
     
@@ -135,7 +135,7 @@ To summarize, as a developer, you will want to:
 
 Custom ribbon tabs and controls that assumed a single ribbon UI per application instance in previous versions of Excel will now be propagated onto each workbook ribbon in Excel. Whereas in MDI the custom ribbon developer didn't need to consider multiple instances of their controls on different instances of Excel's ribbon UI, with SDI they will need to account for this situation.
 
-If you want to keep all the ribbon UI controls in the same state across open workbooks, you will need to:
+If you want to keep all the ribbon UI controls in the same state across open workbooks, you'll need to:
 
 - Ensure that the code is able to cycle through the workbook windows and update the state of the controls.
     

@@ -39,7 +39,7 @@ This example uses the **Name** statement to rename a file. For purposes of this 
 
 
 ```vb
-Dim oldName, oldName 
+Dim oldName, newName 
 oldName = "OLDFILE": newName = "NEWFILE" ' Define file names. 
 Name oldName As newName ' Rename file. 
  

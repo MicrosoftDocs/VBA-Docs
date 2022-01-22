@@ -26,7 +26,7 @@ Version Added: Visio 2010
 | **visServiceAll**|-1|All diagram services.|
 | **visServiceAnimations**|8|Smooth transition behaviors to match user interface.|
 | **visServiceAutoSizePage**|1|AutoSize (automatic page-sizing) behaviors.|
-| **visServiceStructureBasic**|2|Structured-diagram behaviors that maintain existing relationships but do not create new relationships.|
+| **visServiceStructureBasic**|2|Structured-diagram behaviors that maintain existing relationships but don't create new relationships.|
 | **visServiceStructureFull**|4|Structured-diagram behaviors that match all those in the user interface (UI).|
 | **visServiceVersion140**|7|All diagram services that exist in Visio.|
 | **visServiceVersion150**|8|All diagram services that exist in Visio.|

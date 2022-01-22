@@ -18,7 +18,7 @@ Visually, a **Tab** object appears as a rectangle protruding from a larger recta
 
 In contrast to a **[Page](Outlook.page.md)**, a **Tab** does not contain any controls. Controls that appear within the region bounded by a **[TabStrip](Outlook.tabstrip.md)** are contained on the form, as is the **TabStrip**.
 
-You can reference a **Tab** by its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
+Reference a **Tab** by its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
 
 
 ## Properties

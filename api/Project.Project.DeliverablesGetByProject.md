@@ -43,7 +43,7 @@ Using VBA to process the **XML** member of the **DeliverablesGetByProject** resu
 
 In the following example, the enterprise project named Simple includes a deliverable that is set for a milestone named M1. The Project site URL, which contains the Deliverables list for the Simple project, is  `https://ServerName/PWA/Simple`. The **TestDeliverables** macro shows a message box that contains part of the XML result.
 
-The **projectGuid** value returned by the **GetServerProjectGuid** method includes braces around the GUID, for example, "{1b14e65c-5601-4565-acb9-3822078a17fb}". You can use a GUID value either with or without the braces.
+The **projectGuid** value returned by the **GetServerProjectGuid** method includes braces around the GUID, for example, "{1b14e65c-5601-4565-acb9-3822078a17fb}". Use a GUID value either with or without the braces.
 
 
 

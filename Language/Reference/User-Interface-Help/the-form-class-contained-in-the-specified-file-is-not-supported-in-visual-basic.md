@@ -16,7 +16,7 @@ Visual Basic for Applications only supports **[UserForm](userform-window.md)** f
 
 
 
-- You are trying to load a form from an earlier version of Visual Basic or a form from a current standalone version of Visual Basic. It is probably easiest to redesign the form using the **[UserForm](userform-window.md)** tools within Visual Basic for Applications. If you can save the form in [ASCII](../../Glossary/vbe-glossary.md#ascii-character-set) format, you may be able to modify the form and import it. However, you must completely understand the formats and limitations of the various form packages.
+- You are trying to load a form from an earlier version of Visual Basic or a form from a current standalone version of Visual Basic. It's probably easiest to redesign the form using the **[UserForm](userform-window.md)** tools within Visual Basic for Applications. If you can save the form in [ASCII](../../Glossary/vbe-glossary.md#ascii-character-set) format, you may be able to modify the form and import it. However, you must completely understand the formats and limitations of the various form packages.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

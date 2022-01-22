@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # About Security Settings and Running Code in Visio
 
- Creating secure applications is one of the primary challenges facing solution developers. Users, administrators, and developers are increasingly aware of the potential of unknowingly running code that can be harmful to their computers. It is more important than ever that you help to ensure the integrity of your applications.
+ Creating secure applications is one of the primary challenges facing solution developers. Users, administrators, and developers are increasingly aware of the potential of unknowingly running code that can be harmful to their computers. It's more important than ever that you help to ensure the integrity of your applications.
 
 Starting with Visio 2007, all security settings are Office-wide and are set in the **Trust Center** (click the **File** tab, click **Options**, and then click **Trust Center**). Affected settings include the following:
 

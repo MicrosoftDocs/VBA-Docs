@@ -41,7 +41,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 If the XPath exists within a column in an XML list, the **Range** object returned does not include the header row.
 
-This method returns **Nothing** if the XPath location path is not mapped into the grid. Thus, a return of **Nothing** doesn't necessarily mean that the map doesn't exist. It could mean that there is currently no data range available at the specified XPath location. You can use the **[XmlMapQuery](Excel.Worksheet.XmlMapQuery.md)** method to check for the existence of a mapped XPath.
+This method returns **Nothing** if the XPath location path is not mapped into the grid. Thus, a return of **Nothing** doesn't necessarily mean that the map doesn't exist. It could mean that there is currently no data range available at the specified XPath location. Use the **[XmlMapQuery](Excel.Worksheet.XmlMapQuery.md)** method to check for the existence of a mapped XPath.
 
 > [!NOTE] 
 > The **XmlDataQuery** method allows you to query for the existence of particular map data. It cannot be used to query for a piece of data in a map. 

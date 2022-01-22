@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.PictureTiling property (Access)
 
-You can use the **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
+Use the **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
 
 
 ## Syntax

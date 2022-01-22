@@ -25,7 +25,7 @@ The possible values of **BorderStyle** are 0 and 1. 0 represents no visible bord
 
  The default value for an **[Image](Outlook.image.md)** is 1 (Single).
 
-You can use either **BorderStyle** or **[SpecialEffect](Outlook.image.specialeffect.md)** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to 1, the system sets **SpecialEffect** to zero (Flat). If you specify a nonzero value for **SpecialEffect**, the system sets **BorderStyle** to zero.
+Use either **BorderStyle** or **[SpecialEffect](Outlook.image.specialeffect.md)** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to 1, the system sets **SpecialEffect** to zero (Flat). If you specify a nonzero value for **SpecialEffect**, the system sets **BorderStyle** to zero.
 
  **BorderStyle** uses **[BorderColor](Outlook.image.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 

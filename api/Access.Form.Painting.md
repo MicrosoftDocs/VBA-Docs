@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Painting property (Access)
 
-You can use the **Painting** property to specify whether a form is repainted. Read/write **Boolean**.
+Use the **Painting** property to specify whether a form is repainted. Read/write **Boolean**.
 
 
 ## Syntax

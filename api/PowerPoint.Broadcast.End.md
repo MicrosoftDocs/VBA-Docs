@@ -39,7 +39,7 @@ None
 
 ## Remarks
 
-This method validates that the user who made the request is the creator of the document. Elevation is necessary because presenters do not have access to directly delete documents from the Broadcast Documents library.
+This method validates that the user who made the request is the creator of the document. Elevation is necessary because presenters don't have access to directly delete documents from the Broadcast Documents library.
 
 
 ## See also

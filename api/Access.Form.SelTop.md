@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.SelTop property (Access)
 
-You can use the **SelTop** property to specify or determine which row (record) is topmost in the current selection rectangle in a table, query, or form datasheet, or which selected record is topmost in a continuous form. Read/write **Long**.
+Use the **SelTop** property to specify or determine which row (record) is topmost in the current selection rectangle in a table, query, or form datasheet, or which selected record is topmost in a continuous form. Read/write **Long**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ If there's no selection, the value returned by this property is the row and colu
 
 If you've selected one or more columns (using the column headings), you can't change the setting of the **SelTop** property.
 
-You can use these properties with the **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. 
+Use these properties with the **SelHeight** and **SelWidth** properties to specify or determine the actual size of the selection rectangle. 
 
 The **SelTop** and **SelLeft** properties determine the position of the upper-left corner of the selection rectangle. 
 

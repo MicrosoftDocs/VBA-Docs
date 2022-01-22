@@ -29,7 +29,7 @@ myChart.ChartGroups(1).HasDropLines = True
 
 Because the index number for a particular chart group can change if the chart format used for that group is changed, it may be easier to use one of the named shortcut methods for chart groups to return a particular chart group. The **PieGroups** method returns the collection of pie chart groups in a chart, the **LineGroups** method returns the collection of all the line chart groups, and so on. 
 
-You can use each of these methods with an index number to return a single **ChartGroup** object, or you can use each one without an index number to return a **ChartGroups** collection. 
+Use each of these methods with an index number to return a single **ChartGroup** object, or you can use each one without an index number to return a **ChartGroups** collection. 
 
 ## Methods
 

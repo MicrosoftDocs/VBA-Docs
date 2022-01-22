@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.GridX property (Access)
 
-You can use the **GridX** property (along with the **GridY** property) to specify the horizontal and vertical divisions of the alignment grid in report Design view. Read/write **Integer**.
+Use the **GridX** property (along with the **GridY** property) to specify the horizontal and vertical divisions of the alignment grid in report Design view. Read/write **Integer**.
 
 
 ## Syntax

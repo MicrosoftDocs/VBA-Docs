@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DependencyInfo](Access.DependencyIn
 
 ## Remarks
 
-You can use the following code to update the dependency information for all of the objects in the database.
+Use the following code to update the dependency information for all of the objects in the database.
 
 ```vb
 Application.CurrentProject.UpdateDependencyInfo

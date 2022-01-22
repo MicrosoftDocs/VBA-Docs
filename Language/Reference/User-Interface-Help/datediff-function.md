@@ -70,7 +70,7 @@ The _firstdayofweek_ argument has these settings:
 
 ## Remarks
 
-You can use the **DateDiff** function to determine how many specified time intervals exist between two dates. For example, you might use **DateDiff** to calculate the number of days between two dates, or the number of weeks between today and the end of the year.
+Use the **DateDiff** function to determine how many specified time intervals exist between two dates. For example, you might use **DateDiff** to calculate the number of days between two dates, or the number of weeks between today and the end of the year.
 
 To calculate the number of days between _date1_ and _date2_, you can use either Day of year ("y") or Day ("d"). When _interval_ is Weekday ("w"), **DateDiff** returns the number of weeks between the two dates. If _date1_ falls on a Monday, **DateDiff** counts the number of Mondays until _date2_. It counts _date2_ but not _date1_. 
 

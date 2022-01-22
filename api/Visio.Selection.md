@@ -25,7 +25,7 @@ The default property of a **Selection** object is **Item**.
 
 After you retrieve a **Selection** object, you can add or remove shapes by using the **Select** method.
 
-By default, the items reported by a **Selection** object do not include subselected or superselected **Shape** objects. Use the **IterationMode** property to control whether subselected and superselected **Shape** objects are reported. You can determine whether an individual item is subselected or superselected by using the **ItemStatus** property.
+By default, the items reported by a **Selection** object don't include subselected or superselected **Shape** objects. Use the **IterationMode** property to control whether subselected and superselected **Shape** objects are reported. You can determine whether an individual item is subselected or superselected by using the **ItemStatus** property.
 
 
 ## Methods

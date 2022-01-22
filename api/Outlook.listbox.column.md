@@ -36,7 +36,7 @@ If you specify only the column value, the **Column** property reads or writes th
 
  **Column** returns a **Variant** from the cursor. When a built-in cursor provides the value for **Variant** (such as when using the **[AddItem](Outlook.listbox.additem.md)** method), the value is a **String**. When an external cursor provides the value for **Variant**, formatting associated with the data is not included in the **Variant**.
 
-You can use **Column** to assign the contents of a combo box or list box to another control, such as a text box.
+Use **Column** to assign the contents of a combo box or list box to another control, such as a text box.
 
 If the user makes no selection when you refer to a column in a combo box or list box, the **Column** setting is **Null**. You can check for this condition by using the **IsNull** function.
 

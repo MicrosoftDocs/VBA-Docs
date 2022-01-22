@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Picture property (Access)
 
-You can use the **Picture** property to specify a bitmap or other type of graphic to be used as a background picture on a report. Read/write **String**.
+Use the **Picture** property to specify a bitmap or other type of graphic to be used as a background picture on a report. Read/write **String**.
 
 
 ## Syntax

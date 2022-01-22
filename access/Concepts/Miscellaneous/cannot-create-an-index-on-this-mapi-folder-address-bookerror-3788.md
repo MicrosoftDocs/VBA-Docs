@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-Many Microsoft Outlook/Exchange folders and address books are system-wide components that you cannot modify in any way. This error message indicates that you tried to create an index on an object, such as a global address list or a public folder, for which you do not have permissions.
+Many Microsoft Outlook/Exchange folders and address books are system-wide components that you cannot modify in any way. This error message indicates that you tried to create an index on an object, such as a global address list or a public folder, for which you don't have permissions.
 
 ## See also
 

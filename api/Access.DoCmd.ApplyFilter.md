@@ -34,12 +34,12 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the ApplyFilter action to apply a filter, a query, or an SQL WHERE clause to a table, form, or report to restrict or sort the records in the table or the records from the underlying table or query of the form or report. For reports, you can use this action only in a macro specified by the report's **OnOpen** event property.
+Use the ApplyFilter action to apply a filter, a query, or an SQL WHERE clause to a table, form, or report to restrict or sort the records in the table or the records from the underlying table or query of the form or report. For reports, you can use this action only in a macro specified by the report's **OnOpen** event property.
 
-You can use this action to apply an SQL WHERE clause only when applying a server filter. A server filter cannot be applied to a stored procedure's record source.
+Use this action to apply an SQL WHERE clause only when applying a server filter. A server filter cannot be applied to a stored procedure's record source.
 
 > [!NOTE] 
-> You can use the _FilterName_ argument if you've already defined a filter that provides the appropriate data. You can use the _WhereCondition_ argument to enter the restriction criteria directly. If you use both arguments, Microsoft Access applies the WHERE clause to the results of the filter. You must use one or both arguments.
+> Use the _FilterName_ argument if you've already defined a filter that provides the appropriate data. Use the _WhereCondition_ argument to enter the restriction criteria directly. If you use both arguments, Microsoft Access applies the WHERE clause to the results of the filter. You must use one or both arguments.
 
 You can apply a filter or query to a form in Form view or Datasheet view.
 

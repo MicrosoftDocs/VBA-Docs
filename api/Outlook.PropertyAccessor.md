@@ -113,7 +113,7 @@ Sub DemoPropertyAccessorSetProperties()
  
  'Set values with SetProperties call 
  
- 'If the properties do not exist, then SetProperties 
+ 'If the properties don't exist, then SetProperties 
  
  'adds the properties to the object when saved. 
  

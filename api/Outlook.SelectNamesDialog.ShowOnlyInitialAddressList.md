@@ -28,7 +28,7 @@ _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectName
 
 The default value of this property is **False**, meaning that all address lists are displayed. To restrict the drop-down list for **Address Book** to the one indicated by **InitialAddressList**, set **ShowOnlyInitialAddressList** to **True**.
 
-If you do not set the **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True**, then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
+If you don't set the **InitialAddressList** property and then set **ShowOnlyInitialAddressList** to **True**, then the **AddressList** with **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** equal to **True** will be the only address list available in the drop-down list for **Address Book**.
 
 
 ## Example

@@ -33,7 +33,7 @@ Dim myLock as CoAuthLock
 Set myLock = ActiveDocument.CoAuthoring.Locks(1)
 ```
 
-The following code example adds a reservation lock on the third paragraph in the active document. Reservation locks are explicitly created by a document author and are persisted across explicit save actions (locks of type **wdLockEphemeral** do not persist across explicit saves). You can add locks with a with a lock type of **wdLockReservation** using the Word ribbon. For example, you can create a reservation lock on a selected paragraph range using **Block Authors** on the **Review** tab.
+The following code example adds a reservation lock on the third paragraph in the active document. Reservation locks are explicitly created by a document author and are persisted across explicit save actions (locks of type **wdLockEphemeral** don't persist across explicit saves). You can add locks with a with a lock type of **wdLockReservation** using the Word ribbon. For example, you can create a reservation lock on a selected paragraph range using **Block Authors** on the **Review** tab.
 
 
 

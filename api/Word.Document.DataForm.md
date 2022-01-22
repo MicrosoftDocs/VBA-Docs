@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 
 ## Remarks
 
-You can use this method with a mail merge main document, a mail merge data source, or any document that contains data delimited by table cells or separator characters.
+Use this method with a mail merge main document, a mail merge data source, or any document that contains data delimited by table cells or separator characters.
 
 
 ## Example

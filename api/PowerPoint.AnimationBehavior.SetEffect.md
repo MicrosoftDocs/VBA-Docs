@@ -31,7 +31,7 @@ SetEffect
 
 ## Remarks
 
-You can use the **SetEffect** object returned to set the value of a property.
+Use the **SetEffect** object returned to set the value of a property.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.FastLaserPrinting property (Access)
 
-You can use the **FastLaserPrinting** property to specify whether lines and rectangles are replaced by text character lines—similar to the underscore ( _ ) and vertical bar ( | ) characters—when you print a report by using most laser printers. Replacing lines and rectangles with text character lines can make printing much faster. Read/write **Boolean**.
+Use the **FastLaserPrinting** property to specify whether lines and rectangles are replaced by text character lines—similar to the underscore ( _ ) and vertical bar ( | ) characters—when you print a report by using most laser printers. Replacing lines and rectangles with text character lines can make printing much faster. Read/write **Boolean**.
 
 
 ## Syntax

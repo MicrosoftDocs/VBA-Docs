@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # SubForm.Report property (Access)
 
-You can use the **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
+Use the **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
 
 
 ## Syntax

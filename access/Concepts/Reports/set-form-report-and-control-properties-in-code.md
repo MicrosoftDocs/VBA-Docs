@@ -32,7 +32,7 @@ Me.RecordSource = "SELECT * FROM Customers " _
 
 ## Set a property of a control
 
-Refer to the control in the **[Controls](../../../api/Access.Form.Controls.md)** collection of the **Form** or **Report** object on which it resides. You can refer to the **Controls** collection either implicitly or explicitly, but the code executes faster if you use an implicit reference. The following examples set the **Visible** property of a text box called CustomerID on the Customers form:
+Refer to the control in the **[Controls](../../../api/Access.Form.Controls.md)** collection of the **Form** or **Report** object on which it resides. Refer to the **Controls** collection either implicitly or explicitly, but the code executes faster if you use an implicit reference. The following examples set the **Visible** property of a text box called CustomerID on the Customers form:
 
 
 ```vb

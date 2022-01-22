@@ -40,14 +40,14 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-The predicted value is a continuation of the historical values in the specified target date, which should be a continuation of the timeline. You can use this function to predict future sales, inventory requirements, or consumer trends.
+The predicted value is a continuation of the historical values in the specified target date, which should be a continuation of the timeline. Use this function to predict future sales, inventory requirements, or consumer trends.
 
 > [!NOTE] 
 > This function requires the timeline to be organized with a constant step between the different points. For example, that could be a monthly timeline with values on the 1st of every month, a yearly timeline, or a timeline of numerical indices. In general, it's very useful to aggregate raw detailed data before you apply the forecast, which produces more accurate forecast results as well.
 
 If the target date parameter value (_Arg1_) is chronologically before the end of the historical timeline, **Forecast_ETS** returns an error.
 
-It isn't necessary to sort the timeline (_Arg3_), because **Forecast_ETS** sorts it implicitly for calculations. If **Forecast_ETS** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS** returns run-time error 1004.
+It'sn't necessary to sort the timeline (_Arg3_), because **Forecast_ETS** sorts it implicitly for calculations. If **Forecast_ETS** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS** returns run-time error 1004.
 
 The default value of 1 for seasonality (_Arg4_) means Excel detects seasonality automatically for the forecast and uses positive, whole numbers for the length of the seasonal pattern. 0 indicates no seasonality, meaning the prediction will be linear. Positive whole numbers indicate to the algorithm to use patterns of this length as the seasonality. For any other value, **Forecast_ETS** returns an error. Maximum supported seasonality is 8,760 (the number of hours in a year). Any seasonality value above that number results in an error.
 

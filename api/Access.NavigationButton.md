@@ -18,7 +18,7 @@ This object represents a navigation button in a navigation control on a form.
 
 ## Remarks
 
-When you choose a navigation button, the form or report specified in the **NavigationTargetName** is displayed. You can use the **NavigationWhereClause** to filter the records displayed on the form.
+When you choose a navigation button, the form or report specified in the **NavigationTargetName** is displayed. Use the **NavigationWhereClause** to filter the records displayed on the form.
 
 Use the **[Tabs](Access.NavigationControl.Tabs.md)** property of the **NavigationControl** object to return the collection of navigation buttons for a navigation control. 
 

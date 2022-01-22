@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Attachment.PictureAlignment property (Access)
 
-You can use the **PictureAlignment** property to specify where a background picture will appear in the **Attachment** control. Read/write **Byte**.
+Use the **PictureAlignment** property to specify where a background picture will appear in the **Attachment** control. Read/write **Byte**.
 
 
 ## Syntax

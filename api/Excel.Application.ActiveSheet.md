@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-If you do not specify an object qualifier, this property returns the active sheet in the active workbook.
+If you don't specify an object qualifier, this property returns the active sheet in the active workbook.
 
 If a workbook appears in more than one window, the **ActiveSheet** property may be different in different windows.
 

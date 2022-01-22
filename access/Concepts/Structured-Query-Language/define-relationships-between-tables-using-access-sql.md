@@ -40,7 +40,7 @@ CREATE TABLE tblInvoices
 ```
 
 Note that the primary key index (PK_InvoiceID) for the invoices table is declared within the **CREATE TABLE** statement. To enhance the performance of the primary key, an index is automatically created for it, so there is no need to use a separate **[CREATE INDEX](../../../api/overview/Access.md)** statement.
-Now create a shipping table that will contain each customer's shipping address. Assume that there will be only one shipping record for each customer record, so you will be establishing a one-to-one relationship.
+Now create a shipping table that will contain each customer's shipping address. Assume that there will be only one shipping record for each customer record, so you'll be establishing a one-to-one relationship.
 
 
 ```sql
@@ -79,7 +79,7 @@ ALTER TABLE tblCustomers
 
 ```
 
-However, using the shortcut method will cause Access to randomly generate a name for the constraint, which will make it difficult to reference in code. It is a good idea always to name your constraints.
+However, using the shortcut method will cause Access to randomly generate a name for the constraint, which will make it difficult to reference in code. It's a good idea always to name your constraints.
 
 To drop a constraint, use the **DROP CONSTRAINT** clause with the **ALTER TABLE** statement, and supply the name of the constraint.
 

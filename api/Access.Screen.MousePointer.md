@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Screen.MousePointer property (Access)
 
-You can use the **MousePointer** property together with the **Screen** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
+Use the **MousePointer** property together with the **Screen** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
 
 
 ## Syntax

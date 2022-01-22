@@ -35,7 +35,7 @@ End Sub
 
 
 > [!TIP] 
-> - If you rename a module or project, be sure to change the module or project name wherever it appears in calling [statements](../../Glossary/vbe-glossary.md#statement); otherwise, Visual Basic will not be able to find the called procedure. You can use the **Replace** command on the **[Edit](../../reference/user-interface-help/edit-menu.md)** menu to find and replace text in a module.
+> - If you rename a module or project, be sure to change the module or project name wherever it appears in calling [statements](../../Glossary/vbe-glossary.md#statement); otherwise, Visual Basic will not be able to find the called procedure. Use the **Replace** command on the **[Edit](../../reference/user-interface-help/edit-menu.md)** menu to find and replace text in a module.
 > - To avoid naming conflicts among referenced projects, give your procedures unique names so you can call a procedure without specifying a project or module.
     
 ## See also

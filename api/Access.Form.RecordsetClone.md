@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.RecordsetClone property (Access)
 
-You can use the **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](Access.Form.RecordSource.md)** property. Read-only.
+Use the **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](Access.Form.RecordSource.md)** property. Read-only.
 
 
 ## Syntax
@@ -74,7 +74,7 @@ End Sub
 
 <br/>
 
-You can use the **RecordCount** property to count the number of records in a **Recordset** object. The following example shows how you can combine the **RecordCount** property and the **RecordsetClone** property to count the records in a form.
+Use the **RecordCount** property to count the number of records in a **Recordset** object. The following example shows how you can combine the **RecordCount** property and the **RecordsetClone** property to count the records in a form.
 
 ```vb
 Forms!Orders.RecordsetClone.MoveLast 

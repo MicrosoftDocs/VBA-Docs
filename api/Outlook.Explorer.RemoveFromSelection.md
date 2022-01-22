@@ -61,7 +61,7 @@ The following table illustrates the results of calling **RemoveFromSelection**, 
 
 If the specified item exists in the current view but is not selected in that view, calling **RemoveFromSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
 
-When you specify an item in a recurring appointment or task as an argument to the **RemoveFromSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences by using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **RemoveFromSelection** method would be operating on the series instead of the occurrence.
+When you specify an item in a recurring appointment or task as an argument to the **RemoveFromSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences by using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you don't expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **RemoveFromSelection** method would be operating on the series instead of the occurrence.
 
 
 

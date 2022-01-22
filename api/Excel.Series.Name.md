@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Series](Excel.Series(object).md)** 
 
 ## Remarks
 
-You can reference using R1C1 notation, for example, `"=Sheet1!R1C1"`.
+Reference using R1C1 notation, for example, `"=Sheet1!R1C1"`.
 
 
 

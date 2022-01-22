@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Remarks
 
-To digitally sign Excel workbooks and verify other signatures in them, you will need the Microsoft CryptoAPI and a unique digital signature certificate. The CryptoAPI is installed with Microsoft Internet Explorer 4.01 or later. You can obtain a digital signature certificate from a certification authority.
+To digitally sign Excel workbooks and verify other signatures in them, you'll need the Microsoft CryptoAPI and a unique digital signature certificate. The CryptoAPI is installed with Microsoft Internet Explorer 4.01 or later. You can obtain a digital signature certificate from a certification authority.
 
 
 ## Example

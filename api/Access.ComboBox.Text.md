@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.Text property (Access)
 
-You can use the **Text** property to set or return the text contained in the text box portion of a combo box. Read/write **String**.
+Use the **Text** property to set or return the text contained in the text box portion of a combo box. Read/write **String**.
 
 
 ## Syntax

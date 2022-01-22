@@ -31,9 +31,9 @@ The following procedure details the steps to create a form region using the Form
 
    When you customize a form, you always start with a standard form as a template. When you choose the standard form, you should consider the following: 
 
-   - The actions associated with the form, for example, whether you will be sending the form to other people, in which case you should choose the Message form. 
+   - The actions associated with the form, for example, whether you'll be sending the form to other people, in which case you should choose the Message form. 
 
-   - The kinds of fields you will need in the form, for example, whether they are mostly contact-specific fields.
+   - The kinds of fields you'll need in the form, for example, whether they are mostly contact-specific fields.
 
 3. Plan the scope of your customization. Will it suffice if you add extra controls to the bottom of the default page of the standard form? Will you need an extra custom page? Or, will you want to modify the user interface so substantially that it would be easier to create a new form? Note that you can replace pages on a form only if you specify that form for a derived message class.
 
@@ -68,14 +68,14 @@ The following procedure details the steps to create a form region using the Form
    - The \<icons\> tag specifies the location of icon files. 
 
    > [!NOTE]
-   > By default, the icon file is in the same folder as, or in a path relative to, the form region manifest XML file. You can also specify a full path for the icon file, for example: `<icons><default>c:\myicon.ico</default></icons>`or a full path for a resource file, for example: `<icons><unread>c:\myresource.dll,101</unread> </icons>`which loads the icon resource 101 in the resource file c:\myresource.dll. However, do not use the implicit convention that specifies icons embedded in the add-in assembly file. For example: `<icons><read>,102</read></icons>`will not be supported and will not load the icon resource 102 in the add-in dll.
+   > By default, the icon file is in the same folder as, or in a path relative to, the form region manifest XML file. You can also specify a full path for the icon file, for example: `<icons><default>c:\myicon.ico</default></icons>`or a full path for a resource file, for example: `<icons><unread>c:\myresource.dll,101</unread> </icons>`which loads the icon resource 101 in the resource file c:\myresource.dll. However, don't use the implicit convention that specifies icons embedded in the add-in assembly file. For example: `<icons><read>,102</read></icons>`will not be supported and will not load the icon resource 102 in the add-in dll.
 
 8. Close Outlook.
 
 9. Register the form region in the Windows registry, specifying the message class that this form region is intended for, and the full file path for the form region manifest XML file.
 
-   Register form regions under either the **HKEY_CURRENT_USER** or the **HKEY_LOCAL_MACHINE** hive in the Windows registry. For example, additive form regions for the **IPM.Contact** message class for the current user should be registered under the same key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact**. Note that the form region will be displayed for the current user in all forms applied to **IPM.Contact** and any message class derived from **IPM.Contact**. If you want a form region to be used only for **IPM.Contact** and do not wish derived message classes to use that form region, you can specify this using the \<exactMessageClass\> tag in the form region manifest XML file.
+   Register form regions under either the **HKEY_CURRENT_USER** or the **HKEY_LOCAL_MACHINE** hive in the Windows registry. For example, additive form regions for the **IPM.Contact** message class for the current user should be registered under the same key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions\IPM.Contact**. Note that the form region will be displayed for the current user in all forms applied to **IPM.Contact** and any message class derived from **IPM.Contact**. If you want a form region to be used only for **IPM.Contact** and don't wish derived message classes to use that form region, you can specify this using the \<exactMessageClass\> tag in the form region manifest XML file.
 
-10. Start Outlook. When you open an item of the message class that you have specified for the form region in step 9, you will see the form region in the inspector.
+10. Start Outlook. When you open an item of the message class that you have specified for the form region in step 9, you'll see the form region in the inspector.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

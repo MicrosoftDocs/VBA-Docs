@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.FontSize property (Access)
 
-You can use the **FontSize** property to specify the point size for text in the following situations:
+Use the **FontSize** property to specify the point size for text in the following situations:
 
 - When displaying or printing controls on forms and reports.   
 - When using the **[Print](Access.Report.Print.md)** method on a report.

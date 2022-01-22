@@ -31,15 +31,15 @@ A SELECT statement containing a WHERE clause has these parts:
 
 ## Remarks
 
-The Access database engine selects the records that meet the conditions listed in the WHERE clause. If you do not specify a WHERE clause, your query returns all rows from the table. If you specify more than one table in your query and you have not included a WHERE clause or a JOIN clause, your query generates a Cartesian product of the tables.
+The Access database engine selects the records that meet the conditions listed in the WHERE clause. If you don't specify a WHERE clause, your query returns all rows from the table. If you specify more than one table in your query and you have not included a WHERE clause or a JOIN clause, your query generates a Cartesian product of the tables.
 
 WHERE is optional, but when included, follows FROM. For example, you can select all employees in the sales department (`WHERE Dept = 'Sales'`) or all customers between the ages of 18 and 30 () or all customers between the ages of 18 and 30 (`WHERE Age Between 18 And 30`).
 
-If you do not use a JOIN clause to perform SQL join operations on multiple tables, the resulting **Recordset** object will not be updatable.
+If you don't use a JOIN clause to perform SQL join operations on multiple tables, the resulting **Recordset** object will not be updatable.
 
 WHERE is similar to [HAVING](having-clause-microsoft-access-sql.md). WHERE determines which records are selected. Similarly, once records are grouped with [GROUP BY](group-by-clause-microsoft-access-sql.md), HAVING determines which records are displayed.
 
-Use the WHERE clause to eliminate records you do not want grouped by a GROUP BY clause.
+Use the WHERE clause to eliminate records you don't want grouped by a GROUP BY clause.
 
 Use various expressions to determine which records the SQL statement returns. For example, the following SQL statement selects all employees whose salaries are more than $21,000:
 

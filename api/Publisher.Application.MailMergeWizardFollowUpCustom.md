@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-You can use the **[ShowFollowUpCustom](Publisher.Application.ShowFollowUpCustom.md)** property to display this string.
+Use the **[ShowFollowUpCustom](Publisher.Application.ShowFollowUpCustom.md)** property to display this string.
 
 For more information about using events with the **Application** object, see [Using events with the Application object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 

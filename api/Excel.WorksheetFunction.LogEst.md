@@ -63,7 +63,7 @@ The more a plot of your data resembles an exponential curve, the better the calc
     
 When you have only one independent x-variable, you can obtain y-intercept (b) values directly by using the following formula:
 
-- Y-intercept (b): `INDEX(LOGEST(known_y's,known_x's),2)` You can use the `y = b*m^x` equation to predict future values of y, but Microsoft Excel provides the **[Growth](excel.worksheetfunction.growth.md)** function to do this for you.
+- Y-intercept (b): `INDEX(LOGEST(known_y's,known_x's),2)` Use the `y = b*m^x` equation to predict future values of y, but Microsoft Excel provides the **[Growth](excel.worksheetfunction.growth.md)** function to do this for you.
     
 Formulas that return arrays must be entered as array formulas.
     

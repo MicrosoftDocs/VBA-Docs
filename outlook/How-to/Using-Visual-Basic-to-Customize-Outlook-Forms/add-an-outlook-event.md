@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Add an Outlook Event
 
-You can use VBScript to add an event that happens to an item displayed in a custom form page.
+Use VBScript to add an event that happens to an item displayed in a custom form page.
 
 
 1. Open the Script Editor. 

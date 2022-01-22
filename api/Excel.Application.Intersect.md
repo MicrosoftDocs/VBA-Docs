@@ -48,7 +48,7 @@ The following example selects the intersection of two named ranges, rg1 and rg2,
 Worksheets("Sheet1").Activate 
 Set isect = Application.Intersect(Range("rg1"), Range("rg2")) 
 If isect Is Nothing Then 
- MsgBox "Ranges do not intersect" 
+ MsgBox "Ranges don't intersect" 
 Else 
  isect.Select 
 End If

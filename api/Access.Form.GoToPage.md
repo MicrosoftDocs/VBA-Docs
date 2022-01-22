@@ -36,9 +36,9 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 When you use this method to move to a specified page of a form, the focus is set to the first control on the page, as defined by the form's tab order. To move to a particular control on the form, use the **SetFocus** method.
 
-You can use the **GoToPage** method if you've created page breaks on a form to group related information. For example, you might have an **Employees** form with personal information on the first page, office information on the second page, and sales information on the third page. You can use the **GoToPage** method to move to the desired page.
+Use the **GoToPage** method if you've created page breaks on a form to group related information. For example, you might have an **Employees** form with personal information on the first page, office information on the second page, and sales information on the third page. Use the **GoToPage** method to move to the desired page.
 
-You can use the _Right_ and _Down_ arguments for forms with pages larger than the Microsoft Access window. Use the _PageNumber_ argument to move to the desired page, and then use the _Right_ and _Down_ arguments to display the part of the page that you want to see. Access displays the part of the page that's offset from the upper-left corner of the window by the distance specified in the _Right_ and _Down_ arguments.
+Use the _Right_ and _Down_ arguments for forms with pages larger than the Microsoft Access window. Use the _PageNumber_ argument to move to the desired page, and then use the _Right_ and _Down_ arguments to display the part of the page that you want to see. Access displays the part of the page that's offset from the upper-left corner of the window by the distance specified in the _Right_ and _Down_ arguments.
 
 
 ## Example

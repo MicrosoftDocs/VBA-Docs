@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDEPoke method (Access)
 
-You can use the **DDEPoke** statement to supply text data from a client application to a server application over an open dynamic data exchange (DDE) channel.
+Use the **DDEPoke** statement to supply text data from a client application to a server application over an open dynamic data exchange (DDE) channel.
 
 
 ## Syntax

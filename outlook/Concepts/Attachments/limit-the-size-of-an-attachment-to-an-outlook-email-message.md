@@ -15,7 +15,7 @@ This topic describes how you can create a managed add-in for Outlook that cancel
 
 A given email message can contain one or more file attachments, and you may want to limit the total attachment size in email messages that you send. The sample code in this topic demonstrates how you can handle the **ItemSend** event in an Outlook add-in, and in the event handler, cancel the sending of the email message if the combined size of all the attachments is larger than a specific value (2 MB, in this example).
 
-The Outlook **ItemSend** event receives as its parameters a reference to the item being sent, and a Boolean variable that is passed by reference and that allows you to cancel the send operation. It is up to your own code in the event handler to determine whether you want to cancel the event; you do so by setting theCancel parameter to **True** if you do wish to cancel the event.
+The Outlook **ItemSend** event receives as its parameters a reference to the item being sent, and a Boolean variable that is passed by reference and that allows you to cancel the send operation. It's up to your own code in the event handler to determine whether you want to cancel the event; you do so by setting theCancel parameter to **True** if you do wish to cancel the event.
 
 In this example, to determine whether the total attachment size is larger than a specific size, the code loops through each attachment in the item's **Attachments** collection. For each item, the code retrieves the **Size** property, summing as it loops. If the sum ever exceeds the size of the **maxSize** constant, the code sets the `tooLarge` variable to **True**, and exits the loop. After the loop, if the `tooLarge` variable is **True**, the code alerts the user and sets the Cancel parameter to the event handler (which was passed by reference) to **True**, causing Outlook to cancel the sending of the item.
 
@@ -77,7 +77,7 @@ namespace LimitAttachmentSizeAddIn
         #region VSTO generated code
  
         /// <summary>
-        /// Required method for Designer support - do not modify
+        /// Required method for Designer support - don't modify
         /// the contents of this method with the code editor.
         /// </summary>
         private void InternalStartup()

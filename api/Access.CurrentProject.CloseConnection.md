@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentProject.CloseConnection method (Access)
 
-You can use the **CloseConnection** method to close the current connection between the **CurrentProject** object in a Microsoft Access project (.adp) or Access database and the database specified in the project's base connection string.
+Use the **CloseConnection** method to close the current connection between the **CurrentProject** object in a Microsoft Access project (.adp) or Access database and the database specified in the project's base connection string.
 
 
 ## Syntax

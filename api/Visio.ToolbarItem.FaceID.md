@@ -35,7 +35,7 @@ Integer
 > [!NOTE] 
 > Starting with Visio 2010, the Microsoft Office Fluent user interface (UI) replaced the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-You can use any of the constants prefixed with **visIconIX** that are declared by the Visio type library in **[VisUIIconIDs](Visio.visuiiconids.md)**.
+Use any of the constants prefixed with **visIconIX** that are declared by the Visio type library in **[VisUIIconIDs](Visio.visuiiconids.md)**.
 
 The **FaceID** property determines a button's icon, but not its function. Use the **CmdNum** property of a **ToolbarItem** object to set a button's function.
 

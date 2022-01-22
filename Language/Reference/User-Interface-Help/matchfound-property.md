@@ -37,7 +37,7 @@ The **MatchFound** property return values are:
 
 ## Remarks
 
-The **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
+The **MatchFound** property is read-only. It's not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 
 ## See also
 

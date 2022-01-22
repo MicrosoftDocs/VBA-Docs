@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GroupLevel.GroupInterval property (Access)
 
-You can use the **GroupInterval** property with the **[GroupOn](Access.GroupLevel.GroupOn.md)** property to specify how records are grouped in a report. Read/write **Long**.
+Use the **GroupInterval** property with the **[GroupOn](Access.GroupLevel.GroupOn.md)** property to specify how records are grouped in a report. Read/write **Long**.
 
 
 ## Syntax

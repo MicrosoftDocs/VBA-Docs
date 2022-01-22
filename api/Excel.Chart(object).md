@@ -25,7 +25,7 @@ The **[Charts](Excel.Charts.md)** collection contains a **Chart** object for eac
 
 The chart _index_ number represents the position of the chart sheet on the workbook tab bar. _Charts(1)_ is the first (leftmost) chart in the workbook; _Charts(Charts.Count)_ is the last (rightmost). 
 
-All chart sheets are included in the index count, even if they are hidden. The chart-sheet name is shown on the workbook tab for the chart. You can use the **[Name](Excel.ChartObject.Name.md)** property of the **ChartObject** object to set or return the chart name. 
+All chart sheets are included in the index count, even if they are hidden. The chart-sheet name is shown on the workbook tab for the chart. Use the **[Name](Excel.ChartObject.Name.md)** property of the **ChartObject** object to set or return the chart name. 
 
 The following example changes the color of series 1 on chart sheet 1.
 

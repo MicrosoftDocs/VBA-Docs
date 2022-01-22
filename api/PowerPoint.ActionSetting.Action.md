@@ -33,7 +33,7 @@ Long
 
 The **Action** property value can be one of the **[PpActionType](powerpoint.ppactiontype.md)** constants.
 
-You can use the **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
+Use the **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
 
 |If you set the Action property to this value|Use this property|To do this|
 |:-----|:-----|:-----|

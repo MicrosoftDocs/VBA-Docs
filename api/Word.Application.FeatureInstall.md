@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 ## Remarks
 
-You can use the **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
+Use the **msoFeatureInstallOnDemandWithUI** constant to prevent users from believing that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
 
 If you have the **DisplayAlerts** property set to **False**, users will not be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **DisplayAlerts** property is set to **True**, an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
 

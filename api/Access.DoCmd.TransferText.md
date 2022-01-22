@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **TransferText** method to import or export text between the current Access database or Access project (.adp) and a text file. You can also link the data in a text file to the current Access database. With a linked text file, you can view the text data with Access while still allowing complete access to the data from your word processing program. You can also import from, export to, and link to a table or list in an HTML file (*.html).
+Use the **TransferText** method to import or export text between the current Access database or Access project (.adp) and a text file. You can also link the data in a text file to the current Access database. With a linked text file, you can view the text data with Access while still allowing complete access to the data from your word processing program. You can also import from, export to, and link to a table or list in an HTML file (*.html).
 
 You can export the data in Access select queries to text files. Access exports the result set of the query, treating it just like a table.
 

@@ -43,11 +43,11 @@ Only documents stored on a server that supports the File Synchronization via SOA
     
 - Framesets
     
-- Object Linking and Embedding (OLE) objects that do not have Revision Save IDs (RSIDs)
+- Object Linking and Embedding (OLE) objects that don't have Revision Save IDs (RSIDs)
     
 - ActiveX controls
     
-- OfficeArt Engine 2.0 Charts and ink objects, and SmartArt that do not have corresponding IDs in the document
+- OfficeArt Engine 2.0 Charts and ink objects, and SmartArt that don't have corresponding IDs in the document
     
 - Documents with file name extensions other than .docx, .doc, and .odt
     

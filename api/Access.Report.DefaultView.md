@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.DefaultView property (Access)
 
-You can use the **DefaultView** property to specify the opening view of a report. Read/write **Byte**.
+Use the **DefaultView** property to specify the opening view of a report. Read/write **Byte**.
 
 
 ## Syntax

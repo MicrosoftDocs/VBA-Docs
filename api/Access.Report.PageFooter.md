@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.PageFooter property (Access)
 
-You can use the **PageFooter** property to specify whether a report's page footer is printed on the same page as a report footer. Read/write **Byte**.
+Use the **PageFooter** property to specify whether a report's page footer is printed on the same page as a report footer. Read/write **Byte**.
 
 
 ## Syntax

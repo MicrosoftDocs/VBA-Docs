@@ -21,7 +21,7 @@ The **AllForms** collection contains an **[AccessObject](Access.AccessObject.md)
 
 The **CurrentProject** and **CodeProject** object has an **AllForms** collection containing **AccessObject** objects that describe instances of all the forms in the database. For example, you can enumerate the **AllForms** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to the form by name because a form's collection index may change.
+Refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to the form by name because a form's collection index may change.
 
 The **AllForms** collection is indexed beginning with zero. If you refer to a form by its index, the first form is AllForms(0), the second form is AllForms(1), and so on.
 

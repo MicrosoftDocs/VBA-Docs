@@ -38,7 +38,7 @@ _expression_ Required. A variable that represents a **[Report](Access.Report.md)
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
+Use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
 
 To connect two drawing lines, make sure that one line begins at the end point of the previous line.
 

@@ -49,7 +49,7 @@ If cells in average_range are empty or contain text values that cannot be transl
     
 If there are no cells that meet all the criteria, **AverageIfs** generates an error value.
     
-You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+Use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 Each criteria_range does not have to be the same size and shape as average_range. The actual cells that are averaged are determined by using the top, left cell in that criteria_range as the beginning cell, and then including cells that correspond in size and shape to range. For example:
     

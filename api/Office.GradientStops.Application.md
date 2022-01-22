@@ -28,7 +28,7 @@ Object
 
 ## Remarks
 
-You can use this property with an OLE **Automation** object to return the application of that object.
+Use this property with an OLE **Automation** object to return the application of that object.
 
 
 ## See also

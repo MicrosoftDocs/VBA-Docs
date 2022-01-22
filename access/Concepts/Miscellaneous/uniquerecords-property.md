@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **UniqueRecords** property to specify whether to return only unique records based on all fields in the underlying data source, not just those fields present in the query itself.
+Use the **UniqueRecords** property to specify whether to return only unique records based on all fields in the underlying data source, not just those fields present in the query itself.
 
 > [!NOTE] 
 > The **UniqueRecords** property applies only to append and make-table action queries and select queries.
@@ -40,7 +40,7 @@ You can set the **UniqueRecords** property in the query's property sheet or in S
 
 ## Remarks
 
-You can use the **UniqueRecords** property when you want to omit data based on entire duplicate records, not just duplicate fields. Microsoft Access considers a record to be unique as long as the value in one field in the record differs from the value in the same field in another record.
+Use the **UniqueRecords** property when you want to omit data based on entire duplicate records, not just duplicate fields. Microsoft Access considers a record to be unique as long as the value in one field in the record differs from the value in the same field in another record.
 
 The **UniqueRecords** property has an effect only when you use more than one table in the query and select fields from the tables used in the query. The **UniqueRecords** property is ignored if the query includes only one table.
 

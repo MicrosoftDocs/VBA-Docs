@@ -36,7 +36,7 @@ Use the **[Delete](PowerPoint.CustomerData.Delete.md)** method to delete a **Cus
 
 Use the **[Item](PowerPoint.CustomerData.Item.md)** method to get a specific **CustomXMLPart** object from the collection. Individual items in the collection are represented by GUIDs (globally unique identifiers).
 
-You can use customer data in the same way that you used **[Tags](PowerPoint.Tags.md)** objects in versions of PowerPoint previous to Microsoft Office PowerPoint 2007--that is, to associate data with objects. Customer data is more powerful than tags, however, because you can store the data as XML instead of as a simple string.
+Use customer data in the same way that you used **[Tags](PowerPoint.Tags.md)** objects in versions of PowerPoint previous to Microsoft Office PowerPoint 2007--that is, to associate data with objects. Customer data is more powerful than tags, however, because you can store the data as XML instead of as a simple string.
 
 You can associate customer data in PowerPoint with external data by storing the IDs of custom XML parts in a spreadsheet or database along with the external data.
 

@@ -35,7 +35,7 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 ## Remarks
 
-If you do not specify the index arguments, this property returns an array that contains information about all the installed file converters. Each row in the array contains information about a single file converter, as shown in the following table.
+If you don't specify the index arguments, this property returns an array that contains information about all the installed file converters. Each row in the array contains information about a single file converter, as shown in the following table.
 
 
 

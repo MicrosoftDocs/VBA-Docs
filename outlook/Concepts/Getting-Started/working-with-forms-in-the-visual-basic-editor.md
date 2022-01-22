@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Working with forms in the Visual Basic Editor
 
-You can use the Visual Basic Editor to design a form that allows your users to interact with your Microsoft Visual Basic for Applications (VBA) program. Unlike an Outlook form, a Visual Basic for Applications form is not used to display an Outlook item, nor can a control on a Visual Basic for Applications form be bound to an item field.
+Use the Visual Basic Editor to design a form that allows your users to interact with your Microsoft Visual Basic for Applications (VBA) program. Unlike an Outlook form, a Visual Basic for Applications form is not used to display an Outlook item, nor can a control on a Visual Basic for Applications form be bound to an item field.
 
 Your Visual Basic for Applications program can use a Visual Basic for Applications user form to gather information from your users; your program can then use this information to set properties of new or existing Outlook items. For example, a program that creates a boilerplate mail message could use a Visual Basic for Applications form to allow the user to enter the specific information for the message to be sent. When the user closes the form, the program uses the information in the form to set the properties of the mail message and then sends the message.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.GetCustomListNum method (Excel)
 
-Returns the custom list number for an array of strings. You can use this method to match both built-in lists and custom-defined lists.
+Returns the custom list number for an array of strings. Use this method to match both built-in lists and custom-defined lists.
 
 
 ## Syntax

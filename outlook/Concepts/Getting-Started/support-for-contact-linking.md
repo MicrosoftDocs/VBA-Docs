@@ -12,6 +12,6 @@ ms.localizationpriority: medium
 
 # Support for Contact Linking
 
-Microsoft Outlook allows users to establish links between contact items and other items. The Outlook object model has been extended to give programs access to these links. All Outlook item objects have an associated **Links** collection object that contains the contacts to which a particular item is linked. You can use standard collection methods and properties ( [Add](../../../api/overview/Outlook.md), [Count](../../../api/overview/Outlook.md), [Item](../../../api/overview/Outlook.md), and [Remove](../../../api/overview/Outlook.md)) to create, access, and remove items from the collection.
+Microsoft Outlook allows users to establish links between contact items and other items. The Outlook object model has been extended to give programs access to these links. All Outlook item objects have an associated **Links** collection object that contains the contacts to which a particular item is linked. Use standard collection methods and properties ( [Add](../../../api/overview/Outlook.md), [Count](../../../api/overview/Outlook.md), [Item](../../../api/overview/Outlook.md), and [Remove](../../../api/overview/Outlook.md)) to create, access, and remove items from the collection.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

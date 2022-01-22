@@ -52,7 +52,7 @@ Sub FormatTextBox()
         
     sRange.TextFrame2.AutoSize = msoAutoSizeShapeToFitText
         
-    sRange(1).TextFrame2.TextRange.Text = "This is a test. It is only a test."
+    sRange(1).TextFrame2.TextRange.Text = "This is a test. It's only a test."
     sRange(2).TextFrame2.TextRange.Text = "This is text box 2."
     sRange(1).TextFrame2.TextRange.Characters.Font.Fill.ForeColor.RGB = &H2020CC
     sRange.Fill.ForeColor.RGB = &H88CCCC

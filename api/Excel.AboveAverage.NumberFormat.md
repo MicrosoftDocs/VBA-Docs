@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[AboveAverage](Excel.AboveAverage.m
 
 ## Remarks
 
-The number format is specified by using the same format codes displayed on the **Number** tab of the **Format Cells** dialog box. You can use a built-in number format, for example, "General", or create a custom number format.
+The number format is specified by using the same format codes displayed on the **Number** tab of the **Format Cells** dialog box. Use a built-in number format, for example, "General", or create a custom number format.
 
 
 

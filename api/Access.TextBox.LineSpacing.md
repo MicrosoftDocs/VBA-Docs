@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.LineSpacing property (Access)
 
-You can use the **LineSpacing** property to specify or determine the location of information displayed within a label or text box control. Read/write **Integer**.
+Use the **LineSpacing** property to specify or determine the location of information displayed within a label or text box control. Read/write **Integer**.
 
 
 ## Syntax

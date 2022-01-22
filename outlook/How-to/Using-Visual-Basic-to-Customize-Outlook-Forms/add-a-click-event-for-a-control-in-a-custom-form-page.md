@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Add a Click Event for a Control in a Custom Form Page
 
-You can use VBScript to extend the **Click** event of a control in a custom form page.
+Use VBScript to extend the **Click** event of a control in a custom form page.
 
 
 1. Open the Script Editor. 

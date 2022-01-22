@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.InSelection property (Access)
 
-You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+Use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.ScaleMode property (Access)
 
-You can use the **ScaleMode** property in Visual Basic to specify the unit of measurement for coordinates on a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is previewed or printed, or its output is saved to a file. Read/write **Integer**.
+Use the **ScaleMode** property in Visual Basic to specify the unit of measurement for coordinates on a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](Access.Report.Print.md)** method is used while a report is previewed or printed, or its output is saved to a file. Read/write **Integer**.
 
 
 ## Syntax

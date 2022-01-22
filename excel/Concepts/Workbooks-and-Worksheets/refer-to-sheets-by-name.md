@@ -25,7 +25,7 @@ Charts("Chart1").Activate
 DialogSheets("Dialog1").Activate
 ```
 
-You can use the **[Sheets](../../../api/Excel.Workbook.Sheets.md)** property to return a worksheet, chart, module, or dialog sheet. The **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
+Use the **[Sheets](../../../api/Excel.Workbook.Sheets.md)** property to return a worksheet, chart, module, or dialog sheet. The **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
 
 
 

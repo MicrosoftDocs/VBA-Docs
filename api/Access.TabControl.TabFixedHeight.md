@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TabControl.TabFixedHeight property (Access)
 
-You can use the **TabFixedHeight** property to specify or determine the height of the tabs on a tab control. Read/write **Integer**.
+Use the **TabFixedHeight** property to specify or determine the height of the tabs on a tab control. Read/write **Integer**.
 
 
 ## Syntax

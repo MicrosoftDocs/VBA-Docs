@@ -18,7 +18,11 @@ Executes the specified query, SQL statement, stored procedure, or provider-speci
 
 For a non-row-returning command string:
 
+_connection_.**Execute** _CommandText_, _RecordsAffected_, _Options_
+
 For a row-returning command string:
+
+**Set** _recordset_ = _connection_.**Execute**( _CommandText_, _RecordsAffected_, _Options_ )
 
 
 ## Return value

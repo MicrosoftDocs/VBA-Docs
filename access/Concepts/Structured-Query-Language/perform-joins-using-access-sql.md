@@ -59,7 +59,7 @@ SELECT [Last Name], InvoiceDate, Amount, City, State
    ORDER BY InvoiceDate 
 ```
 
-Be aware that the first **JOIN** clause is enclosed in parentheses to keep it logically separated from the second **JOIN** clause. It is also possible to join a table to itself by using an alias for the second table name in the **FROM** clause. Suppose that you want to find all customer records that have duplicate last names. You can do this by creating the alias "A" for the second table and checking for first names that are different.
+Be aware that the first **JOIN** clause is enclosed in parentheses to keep it logically separated from the second **JOIN** clause. It's also possible to join a table to itself by using an alias for the second table name in the **FROM** clause. Suppose that you want to find all customer records that have duplicate last names. You can do this by creating the alias "A" for the second table and checking for first names that are different.
 
 
 
@@ -93,7 +93,7 @@ SELECT [Last Name] & ', ' &  [First Name] AS Name,
    GROUP BY [Last Name] & ', ' &  [First Name] 
 ```
 
-Several things occur in the previous SQL statement. The first is the use of the string concatenation operator "&". This operator allows you to join two or more fields together as one string. The second is the immediate if (**IIf**) statement, which checks to see if the total is null. If it is, the statement returns the word "NONE." If the total is not null, the value is returned. The final thing is the **OUTER JOIN** clause. Using the **LEFT OUTER JOIN** preserves the rows in the left table so that you see all customers, even those who do not have invoices.
+Several things occur in the previous SQL statement. The first is the use of the string concatenation operator "&". This operator allows you to join two or more fields together as one string. The second is the immediate if (**IIf**) statement, which checks to see if the total is null. If it is, the statement returns the word "NONE." If the total is not null, the value is returned. The final thing is the **OUTER JOIN** clause. Using the **LEFT OUTER JOIN** preserves the rows in the left table so that you see all customers, even those who don't have invoices.
 
 **OUTER JOINs** can be nested inside **INNER JOINs** in a multi-table join, but **INNER JOINs** cannot be nested inside **OUTER JOINs**.
 
@@ -113,7 +113,7 @@ This is not a good thing, especially with tables that contain hundreds or thousa
 
 ## The UNION operator
 
-Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and email addresses by combining both tables.
+Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields don't have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and email addresses by combining both tables.
 
 
 ```sql

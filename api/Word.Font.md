@@ -52,7 +52,7 @@ With ActiveDocument.Styles(wdStyleHeading2).Font
 End With
 ```
 
-You can use the **New** keyword to create a new, stand-alone **Font** object. The following example creates a **Font** object, sets some formatting properties, and then applies the **Font** object to the first paragraph in the active document.
+Use the **New** keyword to create a new, stand-alone **Font** object. The following example creates a **Font** object, sets some formatting properties, and then applies the **Font** object to the first paragraph in the active document.
 
 
 

@@ -23,7 +23,7 @@ This topic lists the properties that you cannot add to a **[Table](../../../api/
 
 | **Properties**| **In Table Object**| **In Table Filter**| **Comments**|
 |:-----|:-----|:-----|:-----|
-|Binary properties|Supported |Not supported|If you add a binary property to a **Table** referencing its namespace, the value of the property in the **Table** is in binary. You can use **[Row.BinaryToString](../../../api/Outlook.Row.BinaryToString.md)** to convert the value to a string.|
+|Binary properties|Supported |Not supported|If you add a binary property to a **Table** referencing its namespace, the value of the property in the **Table** is in binary. Use **[Row.BinaryToString](../../../api/Outlook.Row.BinaryToString.md)** to convert the value to a string.|
 |Body properties, including **Body**, **HTMLBody**, **https://schemas.microsoft.com/mapi/proptag/0x10130102**<br> (for **PidTagHtml**), and **https://schemas.microsoft.com/mapi/proptag/0x10090102** (for **PidTagRtfCompressed**)|The **Body** property is supported with a condition that only the first 255 bytes of the value are stored in a **Table**. Other properties representing the body content in HTML or RTF are not supported. <br> Because only the first 255 bytes of **Body** is stored in a **Table**, if you want to obtain the full body content of an item in text or HTML, use the item's **EntryID** in **[GetItemFromID](../../../api/Outlook.NameSpace.GetItemFromID.md)** to obtain the item object. Then retrieve the full value of **Body** through the item object.|Only the **Body** property represented in text is supported in a filter. This means that the property must be referenced in a DASL filter as **urn:schemas:httpmail:textdescription**, and you cannot filter on any HTML tags in the body. To improve performance, use context indexer keywords in the filter to match strings in the body.||
 |Computed properties, such as **AutoResolvedWinner** and **BodyFormat**. See below for a complete list of computed properties.|Not supported|Not supported|To obtain the value of a computed property for an item in a **Table**, use the item's **EntryID** in **GetItemFromID** to obtain the item object. Then retrieve the property value through the item object.|
 |Multi-valued properties, such as **Categories**, **[Children](../../../api/Outlook.ContactItem.Children.md)**, **[Companies](../../../api/Outlook.ContactItem.Companies.md)**, and **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**|Supported|Although both Jet and DASL filters both support multi-valued properties, use content indexing in DASL filters for more efficient filtering. For more information, see [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md).|The format of the values of a multi-valued property in a **Table** depends on whether the property was added with its explicit built-in name or with a name referencing its namespace. If the property is added with its explicit built-in name, the value in the **Table** is a comma-delimited string. Otherwise, the value is a variant array. For more information, see [How to: Access the Values of a Multi-valued Property in a Table](access-the-values-of-a-multi-valued-property-in-a-table.md).|
@@ -32,7 +32,7 @@ This topic lists the properties that you cannot add to a **[Table](../../../api/
 
 ## Unsupported Computed Properties
 
-If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you will get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in  `object.property`):
+If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you'll get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in  `object.property`):
 
 
 - **AutoResolvedWinner**
@@ -85,7 +85,7 @@ If you attempt to add one of the computed properties listed below using **Column
     
 
 
-If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you will get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
+If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you'll get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
 
 
 - **AutoResolvedWinner**

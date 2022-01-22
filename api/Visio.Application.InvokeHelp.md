@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-Using the **InvokeHelp** method, you can create a custom Help system that is integrated with the Visio Help system. To enable your custom Help to appear in the same MSO Help window as Visio Help, do not specify a window definition in the _bstrHelpFileName_ argument.
+Using the **InvokeHelp** method, you can create a custom Help system that is integrated with the Visio Help system. To enable your custom Help to appear in the same MSO Help window as Visio Help, don't specify a window definition in the _bstrHelpFileName_ argument.
 
 The arguments passed to the **InvokeHelp** method correspond to those described in the HTML Help API. For a list of command values, see the [HTML Help API Reference](https://docs.microsoft.com/previous-versions/windows/desktop/legacy/ms670068(v=vs.85)). Microsoft Visual Basic programmers can use the numeric equivalent of the C++ constants defined in the HTML Help API header files.
 

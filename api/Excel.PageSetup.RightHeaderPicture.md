@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[PageSetup](Excel.PageSetup.md)** ob
 
 The **RightHeaderPicture** property is read-only, but not all of its properties are read-only.
 
-It is required that `"&G"` be a part of the **RightHeader** property string for the image to show up in the right header.
+It's required that `"&G"` be a part of the **RightHeader** property string for the image to show up in the right header.
 
 
 ## Example

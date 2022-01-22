@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Interior](Word.Interior.md)' object
 
 ## Remarks
 
-Set this property to **xlColorIndexAutomatic** to specify the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you do not want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone**).
+Set this property to **xlColorIndexAutomatic** to specify the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you don't want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone**).
 
 
 ## Example

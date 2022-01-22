@@ -111,7 +111,7 @@ For more information, see [Looping through a collection](looping-through-a-colle
 
 ## Customizing menus and toolbars
 
-The **CommandBar** object represents both menus and toolbars (in versions of Word that do not use the ribbon). Use the **[CommandBars](../../../api/Word.Application.CommandBars.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
+The **CommandBar** object represents both menus and toolbars (in versions of Word that don't use the ribbon). Use the **[CommandBars](../../../api/Word.Application.CommandBars.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
 
 
 ```vb

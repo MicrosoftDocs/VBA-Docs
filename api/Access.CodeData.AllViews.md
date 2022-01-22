@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeData.AllViews property (Access)
 
-You can use the **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
+Use the **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
 
 
 ## Syntax

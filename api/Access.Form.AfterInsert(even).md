@@ -34,7 +34,7 @@ Nothing
 > [!NOTE] 
 > Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
 
-You can use an **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
+Use an **AfterInsert** event procedure or macro to requery a recordset whenever a new record is added.
 
 To run a macro or event procedure when the **AfterInsert** event occurs, set the **OnAfterInsert** property to the name of the macro or to [Event Procedure].
 

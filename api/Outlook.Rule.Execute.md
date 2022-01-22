@@ -39,7 +39,7 @@ _expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 Use **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True**. Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
 
-The parameters to the **Execute** method are optional. If you do not specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
+The parameters to the **Execute** method are optional. If you don't specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
 
 
 

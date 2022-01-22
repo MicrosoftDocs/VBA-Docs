@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DLookup method (Access)
 
-You can use the **DLookup** function to get the value of a particular field from a specified set of records (a domain).
+Use the **DLookup** function to get the value of a particular field from a specified set of records (a domain).
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Variant
 
 ## Remarks
 
-You can use the **DLookup** function to display the value of a field that isn't in the record source for your form or report. For example, suppose you have a form based on an Order Details table. The form displays the **OrderID**, **ProductID**, **UnitPrice**, **Quantity**, and **Discount** fields. However, the **ProductName** field is in another table, the Products table. You could use the **DLookup** function in a calculated control to display the **ProductName** on the same form.
+Use the **DLookup** function to display the value of a field that isn't in the record source for your form or report. For example, suppose you have a form based on an Order Details table. The form displays the **OrderID**, **ProductID**, **UnitPrice**, **Quantity**, and **Discount** fields. However, the **ProductName** field is in another table, the Products table. You could use the **DLookup** function in a calculated control to display the **ProductName** on the same form.
 
 The **DLookup** function returns a single field value based on the information specified in _criteria_. Although  _criteria_ is an optional argument, if you don't supply a value for _criteria_, the **DLookup** function returns a random value in the domain.
 
@@ -54,7 +54,7 @@ varX = DLookup("[LastName]", "Employees", "[EmployeeID] = 1")
 
 Whether you use the **DLookup** function in a macro or module, a query expression, or a calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the **DLookup** function to specify criteria in the **Criteria** row of a query, within a calculated field expression in a query, or in the **Update To** row in an update query.
+Use the **DLookup** function to specify criteria in the **Criteria** row of a query, within a calculated field expression in a query, or in the **Update To** row in an update query.
 
 You can also use the **DLookup** function in an expression in a calculated control on a form or report if the field that you need to display isn't in the record source on which your form or report is based. For example, suppose you have an Order Details form based on an Order Details table with a text box called ProductID that displays the **ProductID** field. To look up **ProductName** from a Products table based on the value in the text box, you could create another text box and set its **ControlSource** property to the following expression:
 

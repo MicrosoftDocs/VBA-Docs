@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.PictureAlignment property (Access)
 
-You can use the **PictureAlignment** property to specify where a background picture will appear in an image control or on a form or report. Read/write **Byte**.
+Use the **PictureAlignment** property to specify where a background picture will appear in an image control or on a form or report. Read/write **Byte**.
 
 
 ## Syntax

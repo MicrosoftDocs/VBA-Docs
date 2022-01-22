@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the event properties for a report section, or the **OnPage** event property for a report.
+Use this method only in an event procedure or a macro specified by the event properties for a report section, or the **OnPage** event property for a report.
 
 When drawing a partial circle or ellipse, if the _Start_ argument is negative, the **Circle** method draws a radius to the position specified by the _Start_ argument and treats the angle as positive. If the _End_ argument is negative, the **Circle** method draws a radius to the position specified by the _End_ argument and again treats the angle as positive. The **Circle** method always draws in a counterclockwise (positive) direction.
 

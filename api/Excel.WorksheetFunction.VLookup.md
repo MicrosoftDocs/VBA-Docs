@@ -48,7 +48,7 @@ If Col_index_num is greater than the number of columns in table_array, the **VLo
     
 If Range_lookup is **True** or omitted, an exact or approximate match is returned. If an exact match is not found, the next largest value that is less than lookup_value is returned. The values in the first column of table_array must be placed in ascending sort order; otherwise, the **VLookup** method may not give the correct value.
     
-If Range_lookup is **False**, the **VLookup** method will only find an exact match. In this case, the values in the first column of table_array do not need to be sorted. If there are two or more values in the first column of table_array that match the lookup_value, the first value found is used. If an exact match is not found, an error is generated.
+If Range_lookup is **False**, the **VLookup** method will only find an exact match. In this case, the values in the first column of table_array don't need to be sorted. If there are two or more values in the first column of table_array that match the lookup_value, the first value found is used. If an exact match is not found, an error is generated.
     
 When searching text values in the first column of table_array, ensure that the data in the first column of table_array does not have leading spaces, trailing spaces, inconsistent use of straight (`'` or `"`) and curly (`‘` or `“`) quotation marks, or nonprinting characters. In these cases, the **VLookup** method may give an incorrect or unexpected value. For information about how to clean or trim values, see the **[Clean](Excel.WorksheetFunction.Clean.md)** and **[Trim](Excel.WorksheetFunction.Trim.md)** methods.
     

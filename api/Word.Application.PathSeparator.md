@@ -26,7 +26,7 @@ _expression_. `PathSeparator`
 
 ## Remarks
 
-You can use **PathSeparator** property to build web addresses even though they contain forward slashes (/).
+Use **PathSeparator** property to build web addresses even though they contain forward slashes (/).
 
 
 > [!NOTE] 

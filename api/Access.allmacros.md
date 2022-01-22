@@ -19,7 +19,7 @@ The **AllMacros** collection contains an **[AccessObject](Access.AccessObject.md
 
 The **CurrentProject** or **CodeProject** object has an **AllMacros** collection containing **AccessObject** objects that describe instances of all the macros specified by **CurrentProject** or **CodeProject**. For example, you can enumerate the **AllMacros** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual **AccessObject** object in the **AllMacros** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllMacros** collection, it's better to refer to the macro by name because a macro's collection index may change.
+Refer to an individual **AccessObject** object in the **AllMacros** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllMacros** collection, it's better to refer to the macro by name because a macro's collection index may change.
 
 The **AllMacros** collection is indexed beginning with zero. If you refer to a macro by its index, the first macro is AllMacros(0), the second macro is AllMacros(1), and so on.
 

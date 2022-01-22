@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Rectangle.SpecialEffect property (Access)
 
-You can use the **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
+Use the **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax

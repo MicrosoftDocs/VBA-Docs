@@ -34,7 +34,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _WizardUsage_|Optional|**Boolean**|**True** if the Planning Wizard displays tips about using Project more effectively.|
 | _WizardErrors_|Optional|**Boolean**|**True** if the Planning Wizard displays messages about errors.|
 | _WizardScheduling_|Optional|**Boolean**|**True** if the Planning Wizard displays messages about scheduling problems.|
-| _ShowTipOfDay_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
+| _ShowTipOfDay_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It's retained for backward compatibility.|
 | _AutoAddResources_|Optional|**Boolean**|**True** if resources are automatically added to the resource pool.|
 | _StandardRate_|Optional|**Variant**|The default standard pay rate for resources.|
 | _OvertimeRate_|Optional|**Variant**|The default overtime pay rate for resources.|
@@ -42,13 +42,13 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _SummaryInfo_|Optional|**Boolean**|**True** if the **Project Information** dialog box appears when a new project is created.|
 | _UserName_|Optional|**String**|The name of the current user.|
 | _SetDefaults_|Optional|**Boolean**|**True** if the values of AutoAddResources, StandardRate, and OvertimeRate are used as default values for new projects.|
-| _ShowWelcome_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
+| _ShowWelcome_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It's retained for backward compatibility.|
 | _AutoFilter_|Optional|**Boolean**|**True** if the AutoFilter is active.|
-| _MacroVirusProtection_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
+| _MacroVirusProtection_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It's retained for backward compatibility.|
 | _DisplayRecentFiles_|Optional|**Boolean**|**True** if a list of recently used files appears on the **File** menu.|
 | _RecentFilesMaximum_|Optional|**Integer**|The maximum number of recently used files to display on the **File** menu. Can be a number from 0 to 9. Setting RecentFilesMaximum to 0 also sets DisplayRecentFiles to **False**.|
 | _FontConversion_|Optional|**Boolean**|**True** if the font automatically changes when opening a file that uses a font that cannot display native characters. The FontConversion argument is ignored unless an East Asian version of Project is used.|
-| _ShowStartupWorkpane_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
+| _ShowStartupWorkpane_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It's retained for backward compatibility.|
 | _MaxUndoRecords_|Optional|**Variant**|The maximum number of records stored in the undo stack.|
 
 ## Return value

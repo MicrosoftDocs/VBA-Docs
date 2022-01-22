@@ -47,7 +47,7 @@ Nothing
 
 For the ShapeIDs() parameter, pass an empty, dimensionless array of type **Long**. If there are no shapes on the page linked to the data row specified by DataRowID in the data recordset specified by DataRecordsetID, **GetShapesLinkedToDataRow** will return an empty array.
 
-To determine the IDs of all the data rows in a data recordset, use the **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** method. Note that data row IDs do not necessarily always correspond to the logical position of the data rows in the data recordset.
+To determine the IDs of all the data rows in a data recordset, use the **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** method. Note that data row IDs don't necessarily always correspond to the logical position of the data rows in the data recordset.
 
 
 ## Example

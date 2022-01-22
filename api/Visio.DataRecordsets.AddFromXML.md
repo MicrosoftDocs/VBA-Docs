@@ -64,7 +64,7 @@ What's more, Visio never refreshes a data recordset you created by using the **A
 If the **AddFromXML** method succeeds, it performs the following actions:
 
 
-- Creates an **DataRecordset** object and assigns it the name you specify in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
+- Creates an **DataRecordset** object and assigns it the name you specify in the Name parameter. If you don't specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. 
     

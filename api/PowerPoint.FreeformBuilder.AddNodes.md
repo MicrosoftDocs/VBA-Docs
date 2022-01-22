@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FreeformBuilder.AddNodes method (PowerPoint)
 
-Inserts a new segment at the end of the freeform that's being created, and adds the nodes that define the segment. You can use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the **[ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)** method to create the freeform you've just defined. To add nodes to a freeform after it is been created, use the **[Insert](PowerPoint.FreeformBuilder.ConvertToShape.md)** method of the **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection.
+Inserts a new segment at the end of the freeform that's being created, and adds the nodes that define the segment. Use this method as many times as you want to add nodes to the freeform you are creating. When you finish adding nodes, use the **[ConvertToShape](PowerPoint.FreeformBuilder.ConvertToShape.md)** method to create the freeform you've just defined. To add nodes to a freeform after it is been created, use the **[Insert](PowerPoint.FreeformBuilder.ConvertToShape.md)** method of the **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection.
 
 
 ## Syntax

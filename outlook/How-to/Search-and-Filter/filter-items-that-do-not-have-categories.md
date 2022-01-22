@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Filter Items that Do Not Have Categories
 
-This topic shows a code sample that uses a DAV Searching and Locating (DASL) query to filter items in the current folder that do not have any category assigned to them. Note that filtering items with an empty string in their categories requires a DASL query; the Microsoft Jet syntax does not support such filters.
+This topic shows a code sample that uses a DAV Searching and Locating (DASL) query to filter items in the current folder that don't have any category assigned to them. Note that filtering items with an empty string in their categories requires a DASL query; the Microsoft Jet syntax does not support such filters.
 
 When filtering an empty string with a DASL query, you can use the **Is Null** keyword. **Is Null** operations are useful to determine if a string property is empty or if a date property has been set. For more information, see [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md).
 

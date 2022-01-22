@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.NavigationButtons property (Access)
 
-You can use the **NavigationButtons** property to specify whether navigation buttons and a record number box are displayed on a form. Read/write **Boolean**.
+Use the **NavigationButtons** property to specify whether navigation buttons and a record number box are displayed on a form. Read/write **Boolean**.
 
 
 ## Syntax

@@ -58,7 +58,7 @@ Linking shapes to data relies on the fact that you can assign shape data to all 
 
 To access and assign shape data in the Visio UI, right-click a shape, point to **Data**, and then click **Shape Data**. Alternatively, you can access and assign shape data manually or programmatically in the Visio ShapeSheet spreadsheet. To display the ShapeSheet spreadsheet (ShapeSheet) for a selected shape, right-click the shape and click **Show ShapeSheet**. To see this command, you must be running Visio in developer mode. To run Visio in developer mode, click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, select **Run in developer mode**.
 
-Within the ShapeSheet, shape data is contained in the Shape Data section (previously called the Custom Properties section). To maintain backwards-compatibility, existing object members retain "custom property" or "custom properties" in their name. If you do not assign shape data for a given shape, no Shape Data section appears in the ShapeSheet. You can add a Shape Data section to a ShapeSheet by displaying the ShapeSheet as described previously, right-clicking anywhere in the ShapeSheet window and clicking **Insert Section**, selecting **Shape Data**, and then clicking **OK**.
+Within the ShapeSheet, shape data is contained in the Shape Data section (previously called the Custom Properties section). To maintain backwards-compatibility, existing object members retain "custom property" or "custom properties" in their name. If you don't assign shape data for a given shape, no Shape Data section appears in the ShapeSheet. You can add a Shape Data section to a ShapeSheet by displaying the ShapeSheet as described previously, right-clicking anywhere in the ShapeSheet window and clicking **Insert Section**, selecting **Shape Data**, and then clicking **OK**.
 
 After you link shapes to data, many of the columns of the Shape Data section correspond closely to the properties of the **DataColumn** object. For example, the Label column in the Shape Data section, which provides the label that appears for a particular shape data item in the **Shape Data** dialog box, corresponds to the **[DataColumn.DisplayName](../../api/Visio.DataColumn.DisplayName.md)** property, which controls the name that appears for the associated data column in the **External Data** window. For more information about working with the **DataColumn** object, see [Getting and setting data-column properties](#getting-and-setting-data-column-properties). 
 
@@ -127,7 +127,7 @@ When you know exactly how one or more existing shapes in a Visio drawing and one
     
 - Link multiple shapes to multiple data rows
     
-In addition, if you do not know the exact shape to data mapping, you can direct Visio to make the best match possible, based on limited matching information that you provide.
+In addition, if you don't know the exact shape to data mapping, you can direct Visio to make the best match possible, based on limited matching information that you provide.
 
 
 ## Linking a single shape to a data row
@@ -148,7 +148,7 @@ The **[Page.LinkShapesToDataRows](../../api/Visio.Page.LinkShapesToDataRows.md)*
 
 ## Linking to data automatically
 
-You can use the **Selection.AutomaticLink** method to link shape data values in selected shapes—that is, shapes assigned to a Selection object—to data rows in a data recordset automatically—that is, without specifying the exact correspondence of all shapes and data rows. To provide Visio with enough information to create the links, however, you must supply at least one set of matching data: the name of a column in the database, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method.
+Use the **Selection.AutomaticLink** method to link shape data values in selected shapes—that is, shapes assigned to a Selection object—to data rows in a data recordset automatically—that is, without specifying the exact correspondence of all shapes and data rows. To provide Visio with enough information to create the links, however, you must supply at least one set of matching data: the name of a column in the database, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method.
 
 The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item (formerly known as a custom property value), shape text, or another of the values specified in the **[VisAutoLinkFieldTypes](../../api/Visio.visautolinkfieldtypes.md)** enumeration.
 
@@ -280,7 +280,7 @@ Additionally, the **[DataRecordset.RefreshSettings](../../api/Visio.DataRecordse
 Because shapes are linked by their shape IDs to specific data rows, when Visio refreshes linked data, it must determine which rows in the linked data recordset or recordsets were added, changed, or removed since the last time the data was refreshed. To identify these rows, Visio uses the row IDs assigned to the rows in the data recordset. Visio can assign these row IDs two ways, depending on whether you designated primary keys for the data recordset when you created it.
 
 
-## Refreshing data recordsets that do not have primary keys
+## Refreshing data recordsets that don't have primary keys
 
 When you create a data recordset, Visio assigns row IDs to all the rows in the recordset based on the existing order of the rows in the data source. Accordingly, the first row in the recordset is always assigned row ID 1, the second row ID 2 and so forth.
 
@@ -297,7 +297,7 @@ You can help prevent these broken or mismatched links by assigning primary keys 
 
 As a result, when you refresh or when Visio refreshes a data recordset that includes primary keys, its rows retain the same row IDs they had before the refresh operation. Because Visio links shapes to data rows by ID—shape ID to row ID—and because row IDs remain the same after a refresh operation, data-linked shapes remain linked to the correct row. Note that row IDs are never recycled for a given a data recordset.
 
-You can use the **[DataRecordset.GetPrimaryKey](../../api/Visio.DataRecordset.GetPrimaryKey.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](../../api/Visio.visprimarykeysettings.md)** enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
+Use the **[DataRecordset.GetPrimaryKey](../../api/Visio.DataRecordset.GetPrimaryKey.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](../../api/Visio.visprimarykeysettings.md)** enumeration. Use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
 
 If the primary key setting is **visKeySingle** or **visKeyComposite**, the method also returns an array of primary key column-name strings. If the primary key setting is **visKeyRowOrder**, the default, the method returns an empty array of primary keys.
 

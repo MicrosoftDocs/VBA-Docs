@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.Percentile_Inc method (Excel)
 
-Returns the k-th percentile of values in a range. You can use this function to establish a threshold of acceptance. For example, you can examine candidates who score above the 90th percentile.
+Returns the k-th percentile of values in a range. Use this function to establish a threshold of acceptance. For example, you can examine candidates who score above the 90th percentile.
 
 
 ## Syntax

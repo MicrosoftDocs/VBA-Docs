@@ -38,7 +38,7 @@ Form
 
 ## Remarks
 
-You can use the **CreateForm** method when designing a wizard that creates a new form.
+Use the **CreateForm** method when designing a wizard that creates a new form.
 
 The **CreateForm** method opens a new, minimized form in form Design view.
 

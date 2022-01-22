@@ -48,7 +48,7 @@ The _attributes_ [argument](../../Glossary/vbe-glossary.md#argument) settings ar
 
 In Microsoft Windows and macOS, **Dir** supports the use of multiple character (**\***) and single character (**?**) wildcards to specify multiple files.
 
-Because the Macintosh doesn't support the wildcards, use the file type to identify groups of files. You can use the **MacID** function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
+Because the Macintosh doesn't support the wildcards, use the file type to identify groups of files. Use the **MacID** function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
 
 ```vb
 Dir("SomePath", MacID("TEXT"))

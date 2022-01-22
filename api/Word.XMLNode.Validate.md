@@ -38,7 +38,7 @@ When you run the **Validate** method, Microsoft Word populates the **[XMLSchemaV
 
 ## Example
 
-The following example checks each element and attribute in the active document and displays a message containing the elements and attributes that do not pass validation, according to the schema, and a description of why.
+The following example checks each element and attribute in the active document and displays a message containing the elements and attributes that don't pass validation, according to the schema, and a description of why.
 
 
 ```vb
@@ -53,7 +53,7 @@ For Each objNode In ActiveDocument.XMLNodes
  End If 
 Next 
  
-MsgBox "The following elements do not validate against " & _ 
+MsgBox "The following elements don't validate against " & _ 
  "the schema." & vbCrLf & vbCrLf & strValid & vbCrLf & _ 
  "You should fix these elements before continuing."
 ```

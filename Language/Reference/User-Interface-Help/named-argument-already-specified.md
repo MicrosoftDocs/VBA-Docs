@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Named argument already specified
 
-You can use a [named argument](../../Glossary/vbe-glossary.md#named-argument) only once in the [argument](../../Glossary/vbe-glossary.md#argument) list of each[procedure](../../Glossary/vbe-glossary.md#procedure) invocation. This error has the following causes and solutions:
+Use a [named argument](../../Glossary/vbe-glossary.md#named-argument) only once in the [argument](../../Glossary/vbe-glossary.md#argument) list of each[procedure](../../Glossary/vbe-glossary.md#procedure) invocation. This error has the following causes and solutions:
 
 
 

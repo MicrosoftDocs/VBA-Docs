@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.SourceItem property (Access)
 
-You can use the **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
+Use the **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
 
 
 ## Syntax

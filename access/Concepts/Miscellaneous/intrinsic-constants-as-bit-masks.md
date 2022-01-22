@@ -37,7 +37,7 @@ The intrinsic constants that Microsoft Access provides for the Shift argument ha
 |**acCtrlMask**|2|
 |**acAltMask**|4|
 
-You can use the constants to test for any combination of buttons and keys without having to figure out the unique bit field value for each combination. A bit is set if the button or key is pressed.
+Use the constants to test for any combination of buttons and keys without having to figure out the unique bit field value for each combination. A bit is set if the button or key is pressed.
 
 ## See also
 

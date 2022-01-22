@@ -82,7 +82,7 @@ Function ChangeAgingProperties(oFolder As Outlook.Folder, _
  ' 0=Months, 1=Weeks, 2=Days 
  ' 
  ' Valid Default: 
- ' 0=All settings do not use a default setting 
+ ' 0=All settings don't use a default setting 
  ' 1=Only the file location is defaulted 
  ' "Archive this folder using these settings" and 
  ' "Move old items to default archive folder" are checked 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.DateGrouping property (Access)
 
-You can use the **DateGrouping** property to specify how you want to group dates in a report. Read/write **Byte**.
+Use the **DateGrouping** property to specify how you want to group dates in a report. Read/write **Byte**.
 
 
 ## Syntax

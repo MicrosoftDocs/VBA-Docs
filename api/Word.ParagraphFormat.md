@@ -43,7 +43,7 @@ End With
 Selection.Find.Execute
 ```
 
-You can use Visual Basic's **New** keyword to create a new, standalone **ParagraphFormat** object. The following example creates a **ParagraphFormat** object, sets some formatting properties for it, and then applies all of its properties to the first paragraph in the active document.
+Use Visual Basic's **New** keyword to create a new, standalone **ParagraphFormat** object. The following example creates a **ParagraphFormat** object, sets some formatting properties for it, and then applies all of its properties to the first paragraph in the active document.
 
 
 

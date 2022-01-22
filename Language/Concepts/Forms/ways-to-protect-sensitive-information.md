@@ -20,7 +20,7 @@ Many applications use data that should be available only to certain users. Here 
     
 - Disable the control when unauthorized users run the application. The **[Enabled](../../reference/user-interface-help/enabled-property-microsoft-forms.md)** property determines when a control is disabled. 
     
-- Require a password for access to the application or a specific control. You can use [placeholders](../../Glossary/glossary-vba.md#placeholder) as the user types each character. The **[PasswordChar]((passwordchar-property.md)** property defines placeholder characters. 
+- Require a password for access to the application or a specific control. Use [placeholders](../../Glossary/glossary-vba.md#placeholder) as the user types each character. The **[PasswordChar]((passwordchar-property.md)** property defines placeholder characters. 
     
 > [!NOTE] 
 > Using passwords or any other techniques listed can improve the security of your application, but does not guarantee the prevention of unauthorized access to your data.

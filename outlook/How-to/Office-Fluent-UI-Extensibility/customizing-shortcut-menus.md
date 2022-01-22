@@ -34,7 +34,7 @@ Because [CommandBar](../../../api/Office.CommandBar.md) objects have been deprec
 
 ## Customizable Shortcut Menus
 
-You can use Office Fluent UI extensibility to customize the following types of shortcut menus:
+Use Office Fluent UI extensibility to customize the following types of shortcut menus:
 
 
 - Alternative interactions shortcut menus.

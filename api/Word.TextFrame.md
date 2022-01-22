@@ -28,7 +28,7 @@ ActiveDocument.Shapes(1).TextFrame.TextRange.Text = "My Text"
 
 
 > [!NOTE] 
-> Some shapes do not support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
+> Some shapes don't support attached text (lines, freeforms, pictures, and OLE objects, for example). If you attempt to return or set properties that control text in a text frame for those objects, an error occurs.
 
 Use the **HasText** property to determine whether the text frame contains text, as shown in the following example.
 

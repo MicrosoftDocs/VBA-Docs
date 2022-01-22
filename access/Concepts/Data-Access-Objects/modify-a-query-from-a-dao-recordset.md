@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Modify a query from a DAO Recordset
 
-You can use the **[Requery](../../../api/overview/Access.md)** method on a dynaset-type or snapshot-type **[Recordset](../../../api/overview/Access.md)** object when you want to run the underlying query again after changing a parameter. This is more convenient than opening a new **Recordset**, and it runs faster.
+Use the **[Requery](../../../api/overview/Access.md)** method on a dynaset-type or snapshot-type **[Recordset](../../../api/overview/Access.md)** object when you want to run the underlying query again after changing a parameter. This is more convenient than opening a new **Recordset**, and it runs faster.
 
 The following code example creates a **Recordset** object and passes it to a function that uses the **[CopyQueryDef](../../../api/overview/Access.md)** method to extract the equivalent SQL string. It then prompts the user to add an additional constraint clause to the query. The code uses the **Requery** method to run the modified query.
 

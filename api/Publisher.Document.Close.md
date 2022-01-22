@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Document](Publisher.Document.md)** 
 
 ## Remarks
 
-You can use the **Close** method only on an open **Document** object in another instance of Microsoft Publisher. Attempting to close the active publication in the current instance of Publisher causes an error.
+Use the **Close** method only on an open **Document** object in another instance of Microsoft Publisher. Attempting to close the active publication in the current instance of Publisher causes an error.
 
 
 ## Example

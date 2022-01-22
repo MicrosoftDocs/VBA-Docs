@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.GroupLevel property (Access)
 
-You can use the **GroupLevel** property in Visual Basic to refer to the group level that you are grouping or sorting on in a report. Read-only **GroupLevel** object.
+Use the **GroupLevel** property in Visual Basic to refer to the group level that you are grouping or sorting on in a report. Read-only **GroupLevel** object.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The following sample settings show how you use the **GroupLevel** property to re
 The **GroupLevel** property setting is an array in which each entry identifies a group level. You can have up to 10 group levels (0 to 9).
 
 > [!NOTE] 
-> You can use this property only by using Visual Basic to set the **[SortOrder](Access.GroupLevel.SortOrder.md)**, **[GroupOn](Access.GroupLevel.GroupOn.md)**, **[GroupInterval](Access.GroupLevel.GroupInterval.md)**, **[KeepTogether](Access.GroupLevel.KeepTogether.md)**, and **ControlSource** properties. You set these properties in the **[Open](Access.Report.Open.md)** event procedure of a report.
+> Use this property only by using Visual Basic to set the **[SortOrder](Access.GroupLevel.SortOrder.md)**, **[GroupOn](Access.GroupLevel.GroupOn.md)**, **[GroupInterval](Access.GroupLevel.GroupInterval.md)**, **[KeepTogether](Access.GroupLevel.KeepTogether.md)**, and **ControlSource** properties. You set these properties in the **[Open](Access.Report.Open.md)** event procedure of a report.
 
 In reports, you can group or sort on more than one field or expression. Each field or expression that you group or sort on is a group level.
 

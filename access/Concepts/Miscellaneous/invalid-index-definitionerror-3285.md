@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 Possible causes:
 
 You are using the same field twice in an index or relationship, which the Microsoft Access database engine does not permit.
-You are creating a relationship using fields with data types that do not match. In Microsoft Access database engine databases, you can only relate fields with identical data types or a AutoNumber field with a Number field set to a Long Integer.
+You are creating a relationship using fields with data types that don't match. In Microsoft Access database engine databases, you can only relate fields with identical data types or a AutoNumber field with a Number field set to a Long Integer.
 
 ## See also
 

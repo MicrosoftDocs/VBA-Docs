@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 
 ## Remarks
 
-You can use a number from 1 to 48 to set the chart style.
+Use a number from 1 to 48 to set the chart style.
 
 
 ## See also

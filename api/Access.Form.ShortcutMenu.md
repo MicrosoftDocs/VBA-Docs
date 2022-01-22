@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.ShortcutMenu property (Access)
 
-You can use the **ShortcutMenu** property to specify whether a shortcut menu is displayed when you right-click an object on a form. For example, you might want to disable a shortcut menu to prevent the user from changing the form's underlying record source by using one of the filtering commands on the form's shortcut menu. Read/write **Boolean**.
+Use the **ShortcutMenu** property to specify whether a shortcut menu is displayed when you right-click an object on a form. For example, you might want to disable a shortcut menu to prevent the user from changing the form's underlying record source by using one of the filtering commands on the form's shortcut menu. Read/write **Boolean**.
 
 
 ## Syntax

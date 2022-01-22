@@ -41,12 +41,12 @@ Variant
 
 If _domain_ refers to fewer than two records, or if fewer than two records satisfy _criteria_, the **DStDevP** function returns a **Null**, indicating that a standard deviation can't be calculated.
 
-You can use the **DStDevP** function to specify criteria in the **Criteria** row of a select query. For example, you could create a query on an Orders table and a Products table to display all products for which the freight cost fell above the mean plus the standard deviation for freight cost.
+Use the **DStDevP** function to specify criteria in the **Criteria** row of a select query. For example, you could create a query on an Orders table and a Products table to display all products for which the freight cost fell above the mean plus the standard deviation for freight cost.
 
-You can use the **DStDevP** function in a calculated field expression of a query, or in the **Update To** row of an update query.
+Use the **DStDevP** function in a calculated field expression of a query, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use the **DStDev** and **DStDevP** functions or the **StDev** and **StDevP** functions in a calculated field expression of a totals query. If you use the **DStDev** or **DStDevP** function, values are calculated before data is grouped. If you use the **StDev** or **StDevP** function, the data is grouped before values in the field expression are evaluated.
+> Use the **DStDev** and **DStDevP** functions or the **StDev** and **StDevP** functions in a calculated field expression of a totals query. If you use the **DStDev** or **DStDevP** function, values are calculated before data is grouped. If you use the **StDev** or **StDevP** function, the data is grouped before values in the field expression are evaluated.
 
 Use the **DStDev** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed.
 

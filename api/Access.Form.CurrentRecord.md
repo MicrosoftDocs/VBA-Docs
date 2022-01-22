@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.CurrentRecord property (Access)
 
-You can use the **CurrentRecord** property to identify the current record in the recordset being viewed on a form. Read/write **Long**.
+Use the **CurrentRecord** property to identify the current record in the recordset being viewed on a form. Read/write **Long**.
 
 
 ## Syntax

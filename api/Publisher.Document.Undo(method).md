@@ -39,7 +39,7 @@ The maximum number of actions that can be undone in one call to **Undo** is 20.
 
 ## Example
 
-The following example uses the **Undo** method to undo actions that do not meet specific criteria.
+The following example uses the **Undo** method to undo actions that don't meet specific criteria.
 
 Part 1 of the example adds a rectangular callout shape to the fourth page of the active publication, and text is added to the callout. This process creates three actions. 
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Section](Access.Section.md)** objec
 
 The **AlternateBackColor** property contains a numeric expression that corresponds to the color used to display on alternate rows of the specified section.
 
-You can use the Color Builder to set this property by choosing the **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom back colors for controls or sections.
+Use the Color Builder to set this property by choosing the **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom back colors for controls or sections.
 
 
 

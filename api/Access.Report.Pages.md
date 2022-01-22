@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Pages property (Access)
 
-You can use the **Pages** property to return information needed to print page numbers in a report. Read/write **Integer**.
+Use the **Pages** property to return information needed to print page numbers in a report. Read/write **Integer**.
 
 
 ## Syntax

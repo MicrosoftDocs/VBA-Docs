@@ -30,11 +30,11 @@ _expression_ Required. An expression that returns an **[Application](excel.appli
 
 ## Remarks
 
-You can use the following types of names in Graph with this method:
+Use the following types of names in Graph with this method:
 
-- A1-style references. You can use any reference to a single cell in A1-style notation. All references are considered to be absolute references.
+- A1-style references. Use any reference to a single cell in A1-style notation. All references are considered to be absolute references.
     
-- Ranges. You can use the range, intersect, and union operators (colon, space, and comma, respectively) with references.
+- Ranges. Use the range, intersect, and union operators (colon, space, and comma, respectively) with references.
     
 - Defined names. You can specify any name in the language of the macro.
     

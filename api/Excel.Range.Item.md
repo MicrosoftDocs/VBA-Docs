@@ -41,7 +41,7 @@ The _RowIndex_ and _ColumnIndex_ arguments are relative 1-based offsets to the t
 
 The _ColumnIndex_ can be provided either as a numeric index or as a column address string as in A1-notation, i.e. `"A"` refers to the numeric index `1` and `"AA"` to `27`. 
 
-It is possible to reference cells outside the original range using the **Item** property by providing appropriate arguments, e.g. `Item(3,3)` will return the cell at `"D4"` for the range `someSheet.Range("B2:C3")`. 
+It's possible to reference cells outside the original range using the **Item** property by providing appropriate arguments, e.g. `Item(3,3)` will return the cell at `"D4"` for the range `someSheet.Range("B2:C3")`. 
 
 The range returned when providing only one parameter depends on the nature of the range: 
 

@@ -32,7 +32,7 @@ Simple multiselect (**xlSimple**) toggles the selection on an item in the list w
 
 Extended multiselect (**xlExtended**) usually acts like a single-selection list box, so when you choose an item, you cancel all other selections. When you hold down Shift while choosing the mouse or pressing an arrow key, you select items sequentially from the current item. When you hold down Ctrl while choosing the mouse, you add single items to the list. This mode is appropriate when multiple items are allowed but not often used.
 
-You can use the **Value** or **ListIndex** property to return and set the selected item in a single-select list box.
+Use the **Value** or **ListIndex** property to return and set the selected item in a single-select list box.
 
 You cannot link multiselect list boxes by using the **LinkedCell** property.
 

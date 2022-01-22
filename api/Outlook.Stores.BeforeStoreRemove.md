@@ -59,7 +59,7 @@ This event will not fire when any of the following occurs:
     
 
 
-You can use this event to determine that a store has been removed, and take appropriate actions if the store is required for your application (such as remounting the store). Otherwise you would have to resort to polling the **[Stores](Outlook.Stores.md)** collection.
+Use this event to determine that a store has been removed, and take appropriate actions if the store is required for your application (such as remounting the store). Otherwise you would have to resort to polling the **[Stores](Outlook.Stores.md)** collection.
 
 
 ## See also

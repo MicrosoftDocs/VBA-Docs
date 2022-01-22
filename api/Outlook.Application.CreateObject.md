@@ -43,7 +43,7 @@ This method is provided so that other applications can be automated from Microso
 
 
 > [!NOTE] 
-> The **CreateObject** methods commonly used in the example code within this Help file (available when you click "Example") are made available by Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA). These examples do not use the same **CreateObject** method that is implemented as part of the object model in Outlook.
+> The **CreateObject** methods commonly used in the example code within this Help file (available when you click "Example") are made available by Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA). These examples don't use the same **CreateObject** method that is implemented as part of the object model in Outlook.
 
 
 ## Example

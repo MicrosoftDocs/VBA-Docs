@@ -42,7 +42,7 @@ Nothing
 
 The **GetFormulasU** method is like the **FormulaU** property of a **Cell** object, except you can use it to obtain the formulas of many cells at once rather than one cell at a time. The **GetFormulasU** method is a specialization of the **GetResults** method, which can be used to obtain cell formulas or results. Setting up a call to the **GetFormulasU** method involves slightly less work than setting up the **GetResults** method.
 
-You can use the **GetFormulasU** method to get formulas of any set of cells.
+Use the **GetFormulasU** method to get formulas of any set of cells.
 
  _SRCStream()_ is an array of 2-byte integers. For **Shape** objects, _SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for some _n_ >= 1. **GetFormulasU** interprets the stream as:
 

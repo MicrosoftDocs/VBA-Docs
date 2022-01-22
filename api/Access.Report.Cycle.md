@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.Cycle property (Access)
 
-You can use the **Cycle** property to specify what happens when you press the Tab key and the focus is in the last control on a report. Read/write **Byte**.
+Use the **Cycle** property to specify what happens when you press the Tab key and the focus is in the last control on a report. Read/write **Byte**.
 
 
 ## Syntax

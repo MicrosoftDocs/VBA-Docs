@@ -40,7 +40,7 @@ This event applies only to bound forms, not an unbound form or report.
     
 To run a macro or event procedure when this event occurs, set the **[OnDirty](access.attachment.ondirty.md)** property to the name of the macro or to [Event Procedure].
 
-Canceling the **Dirty** event will cause the changes to the current record to be rolled back. It is equivalent to pressing the Esc key.
+Canceling the **Dirty** event will cause the changes to the current record to be rolled back. It's equivalent to pressing the Esc key.
 
 
 

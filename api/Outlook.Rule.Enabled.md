@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 
 Setting the **Enabled** property of a rule does not guarantee that the rule will be enabled. The rule is enabled only after **[Rules.Save](Outlook.Rules.Save.md)** executes successfully.
 
-Using **Rule.Enabled** and **Rules.Save** applies the rule consistently and persists the rules beyond the current session. Enabling a rule (that has been saved successfully) ensures that the rule will be applied. If it is a local client rule, the rule will be applied when Outlook is running, and if the rule is a server-based rule, it will be applied regardless of whether Outlook is running. If you do not enable the rule, then the rule is defined, but it will not be applied. However, you can use **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether the rule is enabled.
+Using **Rule.Enabled** and **Rules.Save** applies the rule consistently and persists the rules beyond the current session. Enabling a rule (that has been saved successfully) ensures that the rule will be applied. If it is a local client rule, the rule will be applied when Outlook is running, and if the rule is a server-based rule, it will be applied regardless of whether Outlook is running. If you don't enable the rule, then the rule is defined, but it will not be applied. However, you can use **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether the rule is enabled.
 
 
 ## See also

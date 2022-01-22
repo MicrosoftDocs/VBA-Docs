@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReviewerID_|Optional| **Long**|The ID of a particular reviewer. If you do not pass a reviewer ID, the **ReviewerMarkupVisible** property value specifies visibility for all reviewers.|
+| _ReviewerID_|Optional| **Long**|The ID of a particular reviewer. If you don't pass a reviewer ID, the **ReviewerMarkupVisible** property value specifies visibility for all reviewers.|
 
 ## Return value
 

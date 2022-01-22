@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the **RepaintObject** method to complete any pending screen updates for a specified database object or for the active database object, if none is specified. Such updates include any pending recalculations for the object's controls.
+Use the **RepaintObject** method to complete any pending screen updates for a specified database object or for the active database object, if none is specified. Such updates include any pending recalculations for the object's controls.
 
 Using the **RepaintObject** method with no arguments (the default constant, **acDefault**, is assumed for the _ObjectType_ argument) repaints the active window.
 

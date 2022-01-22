@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 ## Comparison Operators
 
-You can use the following comparison operators in filter strings using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax:
+Use the following comparison operators in filter strings using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax:
 
 
 - <
@@ -44,12 +44,12 @@ You can use the following comparison operators in filter strings using Microsoft
 
 ## Logical Operators
 
-You can use the logical operators **And**, **Not**, **Or** in filter strings in Jet or DASL syntax. The order of precedence of these operators, from the highest to the lowest, is: **Not**, **And**, **Or**. You can use parentheses to indicate specific precedence in a filter. Logical operators are case-insensitive. 
+Use the logical operators **And**, **Not**, **Or** in filter strings in Jet or DASL syntax. The order of precedence of these operators, from the highest to the lowest, is: **Not**, **And**, **Or**. Use parentheses to indicate specific precedence in a filter. Logical operators are case-insensitive. 
 
 
 - **Not**
     
-    Performs a logical NOT on the condition. The following code retrieves all contacts whose first name is Jane and who do not work at Microsoft. 
+    Performs a logical NOT on the condition. The following code retrieves all contacts whose first name is Jane and who don't work at Microsoft. 
     
 
 

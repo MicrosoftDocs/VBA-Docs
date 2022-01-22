@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetGridlinesBehavior property (Access)
 
-You can use the **DatasheetGridlinesBehavior** property to specify which gridlines will appear in Datasheet view. Read/write **Byte**.
+Use the **DatasheetGridlinesBehavior** property to specify which gridlines will appear in Datasheet view. Read/write **Byte**.
 
 
 ## Syntax

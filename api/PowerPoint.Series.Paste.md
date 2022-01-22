@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts, and it sets the **[MarkerStyle](PowerPoint.Series.MarkerStyle.md)** property to **xlMarkerStylePicture**.
+Use this method on column, bar, line, or radar charts, and it sets the **[MarkerStyle](PowerPoint.Series.MarkerStyle.md)** property to **xlMarkerStylePicture**.
 
 
 ## Example

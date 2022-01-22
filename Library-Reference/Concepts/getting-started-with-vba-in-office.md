@@ -39,7 +39,7 @@ There are times when you want to encourage or compel users to interact with the 
 
 ### Interaction between Office applications
 
-Do you need to copy all of your contacts from Outlook to Word and then format them in some particular way? Or, do you need to move data from Excel to a set of PowerPoint slides? Sometimes simple copy and paste does not do what you want it to do, or it is too slow. You can use VBA programming to interact with the details of two or more Office applications at the same time and then modify the content in one application based on the content in another.
+Do you need to copy all of your contacts from Outlook to Word and then format them in some particular way? Or, do you need to move data from Excel to a set of PowerPoint slides? Sometimes simple copy and paste does not do what you want it to do, or it is too slow. Use VBA programming to interact with the details of two or more Office applications at the same time and then modify the content in one application based on the content in another.
 
 ### Doing things another way
 
@@ -113,7 +113,7 @@ That sounds simple, but it can be incredibly useful; once you can write that cod
 
 ## Macros and the Visual Basic Editor
 
-Now that you know something about how Office applications expose their object models, you are probably eager to try calling object methods, setting object properties, and responding to object events. To do so, you must write your code in a place and in a way that Office can understand; typically, by using the Visual Basic Editor. Although it is installed by default, many users do not know that it is even available until it is enabled on the ribbon.
+Now that you know something about how Office applications expose their object models, you are probably eager to try calling object methods, setting object properties, and responding to object events. To do so, you must write your code in a place and in a way that Office can understand; typically, by using the Visual Basic Editor. Although it is installed by default, many users don't know that it is even available until it is enabled on the ribbon.
 
 All Office applications use the ribbon. One tab on the ribbon is the **Developer** tab, where you access the Visual Basic Editor and other developer tools. Because Office does not display the **Developer** tab by default, you must enable it by using the following procedure:
 
@@ -193,9 +193,9 @@ Be aware of the similarities to the earlier code snippet that selected text in c
 
 Remember how you chose cell B2 to display the **Stop Recording** button again? That action shows up as a line of code as well. The macro recorder records every keystroke.
 
-The lines of code that start with an apostrophe and colored green by the editor are comments that explain the code or remind you and other programmers the purpose of the code. VBA ignores any line, or portion of a line, that begins with a single quote. Writing clear and appropriate comments in your code is an important topic, but that discussion is out of the scope of this article. Subsequent references to this code in the article do not include those four comment lines.
+The lines of code that start with an apostrophe and colored green by the editor are comments that explain the code or remind you and other programmers the purpose of the code. VBA ignores any line, or portion of a line, that begins with a single quote. Writing clear and appropriate comments in your code is an important topic, but that discussion is out of the scope of this article. Subsequent references to this code in the article don't include those four comment lines.
 
-When the macro recorder generates the code, it uses a complex algorithm to determine the methods and the properties that you intended. If you do not recognize a given property, there are many resources available to help you. For example, in the macro that you recorded, the macro recorder generated code that refers to the **FormulaR1C1** property. Not sure what that means?
+When the macro recorder generates the code, it uses a complex algorithm to determine the methods and the properties that you intended. If you don't recognize a given property, there are many resources available to help you. For example, in the macro that you recorded, the macro recorder generated code that refers to the **FormulaR1C1** property. Not sure what that means?
 
 > [!NOTE] 
 > Be aware that **Application** object is implied in all VBA macros. The code that you recorded works with **Application.** at the beginning of each line.
@@ -227,7 +227,7 @@ End Sub
 > [!TIP] 
 > Use Copy and Paste as much as possible when working with code to avoid typing errors. 
 
-You do not need to save the code to try it out, so return to the Excel document, choose **Macros** on the **Developer** tab, choose **Macro1**, and then choose **Run**. Cell A1 now contains the text Wow! and has a double-line border around it.
+You don't need to save the code to try it out, so return to the Excel document, choose **Macros** on the **Developer** tab, choose **Macro1**, and then choose **Run**. Cell A1 now contains the text Wow! and has a double-line border around it.
 
 **Figure 3. Results of your first macro**
 
@@ -247,7 +247,7 @@ That does not mean that free and well-thought-out code is on the Web waiting for
 
 ### Make a simpler problem
 
-Programming can get complex quickly. It is critical, especially as a beginner, that you break the problem down to the smallest possible logical units, then write and test each piece in isolation. If you have too much code in front of you and you get confused or muddled, stop and set the problem aside. When you come back to the problem, copy out a small piece of the problem into a new module, solve that piece, get the code working, and test it to ensure that it works. Then move on to the next part. 
+Programming can get complex quickly. It's critical, especially as a beginner, that you break the problem down to the smallest possible logical units, then write and test each piece in isolation. If you have too much code in front of you and you get confused or muddled, stop and set the problem aside. When you come back to the problem, copy out a small piece of the problem into a new module, solve that piece, get the code working, and test it to ensure that it works. Then move on to the next part. 
 
 ### Bugs and debugging
 
@@ -269,11 +269,11 @@ When you return to the Visual Basic Editor, it is in a special debug mode that u
 
 You can make changes to VBA code that is running, so change ValueX back to **Value** and choose the little green play button underneath the **Debug** menu. The program should run normally again.
 
-It is a good idea to learn how to use the debugger more deliberately for longer, more complex programs. At a minimum, learn a how to set break-points to stop execution at a point where you want to take a look at the code, how to add watches to see the values of different variables and properties as the code runs, and how to step through the code line by line. These options are all available in the **Debug** menu and serious debugger users typically memorize the accompanying keyboard shortcuts.
+It's a good idea to learn how to use the debugger more deliberately for longer, more complex programs. At a minimum, learn a how to set break-points to stop execution at a point where you want to take a look at the code, how to add watches to see the values of different variables and properties as the code runs, and how to step through the code line by line. These options are all available in the **Debug** menu and serious debugger users typically memorize the accompanying keyboard shortcuts.
 
 ### Using reference materials well
 
-To open the Developer Reference that is built into Office Help, open the Help reference from any Office application by choosing the question mark in the ribbon or by pressing F1. Then, to the right of the **Search** button, choose the dropdown arrow to filter the contents. Choose **Developer Reference**. If you do not see the table of contents in the left panel, choose the little book icon to open it, and then expand the Object Model Reference from there. 
+To open the Developer Reference that is built into Office Help, open the Help reference from any Office application by choosing the question mark in the ribbon or by pressing F1. Then, to the right of the **Search** button, choose the dropdown arrow to filter the contents. Choose **Developer Reference**. If you don't see the table of contents in the left panel, choose the little book icon to open it, and then expand the Object Model Reference from there. 
 
 **Figure 5. Filtering on developer Help applies to all Office applications**
 
@@ -289,7 +289,7 @@ All programmers get stuck sometimes, even after reading every reference article 
 
 Any search on the Web for "office developer forum" reveals several discussion groups. You can search on "office development" or a description of your problem to discover forums, blog posts, and articles as well.
 
-If you have done everything that you can to solve a problem, do not be afraid to post your question to a developers forum. These forums welcome posts from newer programmers and many of the experienced developers are glad to help.
+If you have done everything that you can to solve a problem, don't be afraid to post your question to a developers forum. These forums welcome posts from newer programmers and many of the experienced developers are glad to help.
 
 The following are a few points of etiquette to follow when you post to a developer forum:
 
@@ -396,7 +396,7 @@ Sub RemoveEmptyTextBoxes()
 End Sub
 ```
 
-Be aware that this code loops through all of the slides and deletes all text boxes that do not have any text. The count variable decrements instead of increments because each time the code deletes an object, it removes that object from the collection, which reduces the count.
+Be aware that this code loops through all of the slides and deletes all text boxes that don't have any text. The count variable decrements instead of increments because each time the code deletes an object, it removes that object from the collection, which reduces the count.
 
 ### Copy a contact from Outlook to Word
 

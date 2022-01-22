@@ -30,7 +30,7 @@ You can set this property only in an event procedure specified by a section's **
 
 The following example uses the **Circle** method to draw a circle and create a pie slice within the circle. It then uses the **FillColor** and **FillStyle** properties to color the pie slice red. It also draws a line from the upper-left to the center of the circle.
 
-You can use the **RGB** or **QBColor** functions to set this property. The **FillColor** property setting has a data type of **Long**.
+Use the **RGB** or **QBColor** functions to set this property. The **FillColor** property setting has a data type of **Long**.
 
 
 ## Example

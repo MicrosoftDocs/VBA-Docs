@@ -24,7 +24,7 @@ In contrast to a **Page**, a **Tab** does not contain any controls. Controls tha
 
 Each **Tab** has its own set of properties, but has no methods or events. You must use events from the appropriate **TabStrip** to initiate processing of an individual **Tab**.
 
-Each **Tab** has a unique name and index value within the [collection](../../Glossary/vbe-glossary.md#collection). You can reference a **Tab** by either its name or its index value. The index of the first **Tab** is 0; the index of the second **Tab** is 1; and so on. When two **Tab** objects have the same name, you must reference each **Tab** by its index value. References to the name in code will access only the first **Tab** that uses the name.
+Each **Tab** has a unique name and index value within the [collection](../../Glossary/vbe-glossary.md#collection). Reference a **Tab** by either its name or its index value. The index of the first **Tab** is 0; the index of the second **Tab** is 1; and so on. When two **Tab** objects have the same name, you must reference each **Tab** by its index value. References to the name in code will access only the first **Tab** that uses the name.
 
 ## See also
 

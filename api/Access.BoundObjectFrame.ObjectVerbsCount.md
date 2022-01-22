@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # BoundObjectFrame.ObjectVerbsCount property (Access)
 
-You can use the **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
+Use the **ObjectVerbsCount** property in Visual Basic to determine the number of verbs supported by an OLE object. Read-only **Long**.
 
 
 ## Syntax

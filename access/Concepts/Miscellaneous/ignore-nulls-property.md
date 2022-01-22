@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the IgnoreNulls property to specify that records with Null values in the indexed fields not be included in the index.
+Use the IgnoreNulls property to specify that records with Null values in the indexed fields not be included in the index.
 
 ## Settings
 

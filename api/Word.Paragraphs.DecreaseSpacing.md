@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraph
 
 ## Example
 
-This example decreases the before and after spacing of a paragraph or selection of paragraphs by six points each time the procedure is run. If the before and after spacing are both zero, the procedure will do nothing.
+This example decreases the before and after spacing of a paragraph or selection of paragraphs by six points each time the procedure is run. If the before and after spacing are both zero, the procedure will don'thing.
 
 
 ```vb

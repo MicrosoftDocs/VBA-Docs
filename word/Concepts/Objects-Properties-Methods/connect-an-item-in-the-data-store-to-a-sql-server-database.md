@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 Word enables you to generate documents by creating data-driven solutions. You can create a template document that includes a custom XML part and use content controls to bind to custom XML data by using XML mapping. Although the term  _template_ is used in this context, this document is not a Word template, but shares some characteristics of a Word template document. Then you can create a managed web-based application to build a new document based on the template document. The managed web-based application opens the template document, retrieves data from a Microsoft SQL Server database to build a new custom XML part, replaces the template document's custom XML part with the new part, and saves the template document as a new Word document.
 
-This walkthrough explains how to build a new template document and how to create a server-side application that generates documents that display data that is stored in a Microsoft SQL Server database. To build this application, you will complete the following two tasks:
+This walkthrough explains how to build a new template document and how to create a server-side application that generates documents that display data that is stored in a Microsoft SQL Server database. To build this application, you'll complete the following two tasks:
 
 1. Create a Word template document.
     
@@ -137,7 +137,7 @@ The following procedure explains how to map a content control to a sample custom
 
 
    > [!NOTE] 
-   > There are at least three default custom XML parts that are always created with a document: 'Cover pages', 'Doc properties', and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. 
+   > There are at least three default custom XML parts that are always created with a document: 'Cover pages', 'Doc properties', and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It's on that part that the **Load** method is called, in the next line of code. 
    > 
    > To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. 
    > `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`
@@ -173,10 +173,10 @@ The following procedure explains how to map a content control to a sample custom
 
 ## Create a Server-Side Application That Pulls Data from a SQL Server Database and Generates a New Document
 
-You can create a Web-based application that enables users to select a company name and generate a custom letter. The Web-based application retrieves customer data from a SQL Server database, opens the customer letter template document, and creates a new document that displays customer data based on a user selection. This Web-based application does not require the use of Word or VBA. You can use your favorite managed code (Visual Basic .NET or C#) language to build this application.
+You can create a Web-based application that enables users to select a company name and generate a custom letter. The Web-based application retrieves customer data from a SQL Server database, opens the customer letter template document, and creates a new document that displays customer data based on a user selection. This Web-based application does not require the use of Word or VBA. Use your favorite managed code (Visual Basic .NET or C#) language to build this application.
 
 > [!NOTE] 
-> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you do not have the Northwind database on your computer, you can download it from the following site: [Northwind database](https://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
+> The Web-based application shown here gets its data from the Northwind.mdf database. This database was installed with previous versions of SQL Server and Office. If you don't have the Northwind database on your computer, you can download it from the following site: [Northwind database](https://code.msdn.microsoft.com/northwind/Release/ProjectReleases.aspx?ReleaseId=1401)
 
 ### To create a server-side application that pulls data from a SQL Server database and generates a new document
 

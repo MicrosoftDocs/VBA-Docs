@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 Lines in a module are numbered beginning with 1.
 
-The value of the **CountOfDeclarationLines** property is equal to the line number of the last line of the Declarations section. You can use this property to determine where the Declarations section ends and the body of the module begins.
+The value of the **CountOfDeclarationLines** property is equal to the line number of the last line of the Declarations section. Use this property to determine where the Declarations section ends and the body of the module begins.
 
 
 ## Example

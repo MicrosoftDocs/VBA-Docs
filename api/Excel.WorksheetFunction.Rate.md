@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.Rate method (Excel)
 
-Returns the interest rate per period of an annuity. **Rate** is calculated by iteration and can have zero or more solutions. If the successive results of **Rate** do not converge to within 0.0000001 after 20 iterations, **Rate** returns the #NUM! error value.
+Returns the interest rate per period of an annuity. **Rate** is calculated by iteration and can have zero or more solutions. If the successive results of **Rate** don't converge to within 0.0000001 after 20 iterations, **Rate** returns the #NUM! error value.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ToggleButton.PictureType property (Access)
 
-You can use the **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
+Use the **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 
 
 ## Syntax

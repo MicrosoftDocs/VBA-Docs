@@ -13,7 +13,7 @@ This topic describes the general rules for specifying properties in filters that
 
 A filter is a condition or a set of conditions that you can apply to a set of items to obtain a subset of items that meets the specified conditions. Outlook supports filters by using the Microsoft Jet query language syntax or the DAV Searching and Locating (DASL) syntax. Note that the Jet query language syntax has the same syntax as that supported by Microsoft Jet Expression Service, hence the name Jet query language.
 
-As an example, you can filter contact items in your Contacts folder to obtain a list of contacts residing in Canada. In this case, you will be filtering on the **[HomeAddressCountry](../../../api/Outlook.ContactItem.HomeAddressCountry.md)** property. The filter, expressed as a Jet filter, will be `"[HomeAddressCountry] = 'Canada'"`.
+As an example, you can filter contact items in your Contacts folder to obtain a list of contacts residing in Canada. In this case, you'll be filtering on the **[HomeAddressCountry](../../../api/Outlook.ContactItem.HomeAddressCountry.md)** property. The filter, expressed as a Jet filter, will be `"[HomeAddressCountry] = 'Canada'"`.
 
 Outlook provides filtering through the following entry points:
 
@@ -22,10 +22,10 @@ Outlook provides filtering through the following entry points:
 |:-----|:-----|:-----|
 |**[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)**|No|Yes|
 |**[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)**|Yes|Yes|
-|**[Items.Find](../../../api/Outlook.Items.Find.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
+|**[Items.Find](../../../api/Outlook.Items.Find.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you'll get an error.|
 |**[Items.Restrict](../../../api/Outlook.Items.Restrict.md)**|Yes|Yes|
 |**[Search.GetTable](../../../api/Outlook.Search.GetTable.md)**|No|Yes|
-|**[Table.FindRow](../../../api/Outlook.Table.FindRow.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
+|**[Table.FindRow](../../../api/Outlook.Table.FindRow.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you'll get an error.|
 |**[Table.Restrict](../../../api/Outlook.Table.Restrict.md)**|Yes|Yes|
 |**[View.Filter](../../../api/Outlook.View.Filter.md)**|No|Yes|
 

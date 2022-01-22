@@ -22,7 +22,7 @@ Represents items listed on the **New Item** task pane available in several Micro
 
 ## Remarks
 
-You can use the **Application** property or the **Creator** property to access the **NewFile** object in each of the applications.
+Use the **Application** property or the **Creator** property to access the **NewFile** object in each of the applications.
 
 
 ## Example

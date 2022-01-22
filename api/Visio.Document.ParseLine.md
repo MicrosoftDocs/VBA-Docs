@@ -44,7 +44,7 @@ The **ParseLine** method raises an exception if the string fails to parse.
 
 ## Example
 
-You can use the following procedure to determine whether a string has been successfully parsed. If the parse succeeds, the procedure displays a message box that announces the success; if the parse fails, it displays a message box that announces the failure.
+Use the following procedure to determine whether a string has been successfully parsed. If the parse succeeds, the procedure displays a message box that announces the success; if the parse fails, it displays a message box that announces the failure.
 
 
 ```vb

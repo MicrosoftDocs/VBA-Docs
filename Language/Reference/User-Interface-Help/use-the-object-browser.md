@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Use the Object Browser
 
-The **[Object Browser](object-browser.md)** allows you to browse through all available objects in your [project](../../Glossary/vbe-glossary.md#project) and see their [properties](../../Glossary/vbe-glossary.md#property), [methods](../../Glossary/vbe-glossary.md#method) and events. In addition, you can see the [procedures](../../Glossary/vbe-glossary.md#procedure) and [constants](../../Glossary/vbe-glossary.md#constant) that are available from [object libraries](../../Glossary/vbe-glossary.md#object-library) in your project. You can easily display online Help as you browse. You can use the **Object Browser** to find and use objects that you create, as well as objects from other applications.
+The **[Object Browser](object-browser.md)** allows you to browse through all available objects in your [project](../../Glossary/vbe-glossary.md#project) and see their [properties](../../Glossary/vbe-glossary.md#property), [methods](../../Glossary/vbe-glossary.md#method) and events. In addition, you can see the [procedures](../../Glossary/vbe-glossary.md#procedure) and [constants](../../Glossary/vbe-glossary.md#constant) that are available from [object libraries](../../Glossary/vbe-glossary.md#object-library) in your project. You can easily display online Help as you browse. Use the **Object Browser** to find and use objects that you create, as well as objects from other applications.
 
 You can get help for the **Object Browser** by searching for **Object Browser** in Help.
 

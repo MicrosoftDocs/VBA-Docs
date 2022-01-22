@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.Dropdown method (Access)
 
-You can use the **Dropdown** method to force the list in the specified combo box to drop down.
+Use the **Dropdown** method to force the list in the specified combo box to drop down.
 
 
 ## Syntax

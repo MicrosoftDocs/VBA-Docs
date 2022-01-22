@@ -30,7 +30,7 @@ Dim objOL as Outlook.Application
 Set objOL = New Outlook.Application
 ```
 
-Most programming solutions interact with the data stored in Outlook. Outlook stores all of its information as items in folders. Folders are contained in one or more stores. After you set an object variable to the Outlook **Application** object, you will commonly set a [NameSpace](../../../api/Outlook.NameSpace.md) object to refer to MAPI, as shown in the following example.
+Most programming solutions interact with the data stored in Outlook. Outlook stores all of its information as items in folders. Folders are contained in one or more stores. After you set an object variable to the Outlook **Application** object, you'll commonly set a [NameSpace](../../../api/Outlook.NameSpace.md) object to refer to MAPI, as shown in the following example.
 
 ```vb
 Set objOL = New Outlook.Application 

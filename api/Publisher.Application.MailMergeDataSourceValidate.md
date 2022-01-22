@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[Application](Publisher.Application
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, use the **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes, and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the following code sample and by using Microsoft Visual Basic commands to search for text or special characters.
+If you don't have address verification software installed on your computer, use the **MailMergeDataSourceValidate** event to create simple filtering routines, such as looping through records to check the postal codes, and remove any that are non-U.S. Non-U.S. users can filter out all U.S. postal codes by modifying the following code sample and by using Microsoft Visual Basic commands to search for text or special characters.
 
 To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module, and then set the variable equal to the **Application** object for which you want to access events. 
 
@@ -42,7 +42,7 @@ For information about using events with the Microsoft Publisher **Application** 
 
 ## Example
 
-This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes that the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a four-digit locator code appended to the ZIP Code, and then exclude all records that do not contain the locator code.
+This example validates ZIP Codes in the attached data source for five digits. If the length of the ZIP Code is fewer than five digits, the record is excluded from the mail merge process. This example assumes that the postal codes are U.S. ZIP Codes. You could modify this example to search for ZIP Codes that have a four-digit locator code appended to the ZIP Code, and then exclude all records that don't contain the locator code.
 
 ```vb
 Private Sub MailMergeApp_MailMergeDataSourceValidate( _ 

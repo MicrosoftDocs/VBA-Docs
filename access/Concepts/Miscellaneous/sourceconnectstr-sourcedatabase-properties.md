@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use these properties to access external data when you can't link the external tables to your database.
+Use these properties to access external data when you can't link the external tables to your database.
 
 - The **SourceConnectStr** property specifies the name of the application used to create an external database.
     

@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[AllForms](Access.AllForms.md)** ob
 
 ## Remarks
 
-You can use the **Parent** property to determine which form or report is currently the parent when you have a subform or subreport that has been inserted in multiple forms or reports.
+Use the **Parent** property to determine which form or report is currently the parent when you have a subform or subreport that has been inserted in multiple forms or reports.
 
 For example, you might insert an **OrderDetails** subform into both a form and a report. The following example uses the **Parent** property to refer to the **OrderID** field, which is present on the main form and report. You can enter this expression in a bound control on the subform.
 

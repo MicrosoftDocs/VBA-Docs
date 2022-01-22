@@ -42,7 +42,7 @@ If a paragraph begins with a bullet, the bullet position is determined by the **
     
 - The minimum value is the maximum assigned value between the **FirstMargin** property and **LeftMargin** property of the previous level plus 9.
     
-You can use the following equations to determine the minimum value for the **LeftMargin** property. Index, the index number of the **RulerLevel** object, indicates the object's corresponding outline level. To determine the minimum **LeftMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels, substitute 2, 3, 4, or 5 for the index placeholder.
+Use the following equations to determine the minimum value for the **LeftMargin** property. Index, the index number of the **RulerLevel** object, indicates the object's corresponding outline level. To determine the minimum **LeftMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels, substitute 2, 3, 4, or 5 for the index placeholder.
 
 Minimum(RulerLevel(index).FirstMargin) = Maximum(RulerLevel(index -1).FirstMargin, RulerLevel(index -1). **LeftMargin**) + 9
 

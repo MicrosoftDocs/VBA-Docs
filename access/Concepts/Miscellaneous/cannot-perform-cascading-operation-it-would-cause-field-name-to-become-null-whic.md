@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-The cascade operation you are attempting would result in a **Null** value in the indicated field, which has been set up to not allow **Null** values. Check the values you are attempting to update and fix them so they do not result in **Null** values in this field.
+The cascade operation you are attempting would result in a **Null** value in the indicated field, which has been set up to not allow **Null** values. Check the values you are attempting to update and fix them so they don't result in **Null** values in this field.
 
 ## See also
 

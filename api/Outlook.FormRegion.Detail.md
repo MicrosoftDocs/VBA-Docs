@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) ob
 
 ## Remarks
 
-The **Detail** property is displayed for adjoining form regions only. It is ignored for separate form regions.
+The **Detail** property is displayed for adjoining form regions only. It's ignored for separate form regions.
 
 The **Detail** property is optional for an adjoining form region.
 

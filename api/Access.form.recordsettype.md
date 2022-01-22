@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Form.RecordsetType property (Access)
 
-You can use the **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.
+Use the **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.
 
 
 ## Syntax

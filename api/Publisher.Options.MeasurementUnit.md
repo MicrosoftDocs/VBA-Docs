@@ -38,7 +38,7 @@ The **MeasurementUnit** property value can be one of these **PbUnitType** consta
 - **pbUnitPica** sets the unit of measurement to picas.
 - **pbUnitPoint** sets the unit of measurement to [points](../language/glossary/vbe-glossary.md#point).
 
-All other measurement unit constants do not apply to this property; if used, they return an error.
+All other measurement unit constants don't apply to this property; if used, they return an error.
 
 ## Example
 

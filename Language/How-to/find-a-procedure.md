@@ -33,7 +33,7 @@ ms.localizationpriority: medium
     
 ## Keyboard shortcuts
 
-You can use the following keyboard shortcuts.
+Use the following keyboard shortcuts.
 
 |Press|To|
 |:-----|:-----|

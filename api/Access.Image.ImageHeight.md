@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Image.ImageHeight property (Access)
 
-You can use the **ImageHeight** property to determine the height in [twips](../language/glossary/vbe-glossary.md#twip) of the picture in an image control. Read/write **Long**.
+Use the **ImageHeight** property to determine the height in [twips](../language/glossary/vbe-glossary.md#twip) of the picture in an image control. Read/write **Long**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 This property is read-only in all views.
 
-You can use the **ImageHeight** property together with the **[ImageWidth](Access.Image.ImageWidth.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
+Use the **ImageHeight** property together with the **[ImageWidth](Access.Image.ImageWidth.md)** property to determine the size of a picture in an image control. You could then use this information to change the image control's **Height** and **Width** properties to match the size of the picture displayed.
 
 
 ## Example

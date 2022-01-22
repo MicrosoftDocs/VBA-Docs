@@ -60,7 +60,7 @@ If const is **False**, b is set equal to 0 (zero), and the m-values are adjusted
     
 For information about how Microsoft Excel fits a line to data, see **[LinEst](excel.worksheetfunction.linest.md)**.
     
-You can use **Trend** for polynomial curve fitting by regressing against the same variable raised to different powers. For example, suppose column A contains y-values and column B contains x-values. You can enter x^2 in column C, x^3 in column D, and so on, and then regress columns B through D against column A.
+Use **Trend** for polynomial curve fitting by regressing against the same variable raised to different powers. For example, suppose column A contains y-values and column B contains x-values. You can enter x^2 in column C, x^3 in column D, and so on, and then regress columns B through D against column A.
     
 Formulas that return arrays must be entered as array formulas.
     

@@ -48,7 +48,7 @@ For a **[Frame](frame-control.md)**, the default value is _Sunken_.
 
 Note that only _Flat_ and _Sunken_ (0 and 2) are acceptable values for **[CheckBox](checkbox-control.md)**, **[OptionButton](optionbutton-control.md)**, and **[ToggleButton](togglebutton-control.md)**. All values listed are acceptable for other controls.
 
-You can use either the **SpecialEffect** or the **BorderStyle** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to **fmSpecialEffectRaised**, the system sets **BorderStyle** to zero (**fmBorderStyleNone**).
+Use either the **SpecialEffect** or the **BorderStyle** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to **fmSpecialEffectRaised**, the system sets **BorderStyle** to zero (**fmBorderStyleNone**).
 
 For a **Frame**, **BorderStyle** is ignored if **SpecialEffect** is **fmSpecialEffectFlat**. **SpecialEffect** uses the [system colors](../../Glossary/glossary-vba.md#system-colors) to define its borders.
 

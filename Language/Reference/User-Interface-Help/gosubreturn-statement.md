@@ -27,7 +27,7 @@ The _line_ [argument](../../Glossary/vbe-glossary.md#argument) can be any [line 
 
 ## Remarks
 
-You can use **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the [statement](../../Glossary/vbe-glossary.md#statement) immediately following the most recently executed **GoSub** statement.
+Use **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the [statement](../../Glossary/vbe-glossary.md#statement) immediately following the most recently executed **GoSub** statement.
 
 > [!NOTE] 
 > You can't enter or exit **Sub** procedures with **GoSub...Return**.

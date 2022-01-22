@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.IMEHold property (Access)
 
-You can use the **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
+Use the **IMEHold/Hold KanjiConversionMode** property to show whether the Kanji Conversion Mode is maintained when the control loses the focus. Read/write **Boolean**.
 
 
 ## Syntax

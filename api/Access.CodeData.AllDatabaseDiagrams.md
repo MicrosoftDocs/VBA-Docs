@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeData.AllDatabaseDiagrams property (Access)
 
-You can use the **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
+Use the **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
 
 
 ## Syntax

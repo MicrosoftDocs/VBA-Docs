@@ -26,7 +26,7 @@ The optional _comment_ [argument](../../Glossary/vbe-glossary.md#argument) is th
 
 If you use [line numbers](../../Glossary/vbe-glossary.md#line-number) or [line labels](../../Glossary/vbe-glossary.md#line-label), you can branch from a **[GoTo](goto-statement.md)** or **[GoSub](gosubreturn-statement.md)** statement to a line containing a **Rem** statement. Execution continues with the first executable statement following the **Rem** statement. If the **Rem** keyword follows other statements on a line, it must be separated from the statements by a colon (`:`).
 
-You can use an apostrophe (`'`) instead of the **Rem** keyword. When you use an apostrophe, the colon is not required after other statements.
+Use an apostrophe (`'`) instead of the **Rem** keyword. When you use an apostrophe, the colon is not required after other statements.
 
 ## Example
 

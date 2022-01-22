@@ -24,7 +24,7 @@ For an overview of the **Application** and **Project** objects, and for details 
 
 ## Tasks Object Hierarchy
 
- **Note** Objects in the following image do not link to the documentation pages.
+ **Note** Objects in the following image don't link to the documentation pages.
 
 
 ![Tasks object hierarchy](../../images/pj15_VBAObjectMap_Tasks.jpg)

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.AllowEdits property (Access)
 
-You can use the **AllowEdits** property to specify whether a user can edit saved records when using a form. Read/write **Boolean**.
+Use the **AllowEdits** property to specify whether a user can edit saved records when using a form. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Remarks
 
-You can use the **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
+Use the **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
 
 If you want to prevent changes to existing records (make a form read-only), set the **[AllowAdditions](Access.Form.AllowAdditions.md)**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
 

@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Recording a Macro to Generate Code
 
-If you are unsure of which Visual Basic method or property to use, you can turn on the macro recorder and manually perform the action. The macro recorder translates your actions into Visual Basic code. After you record your actions, you can modify the code to do exactly what you want. For example, if you do not know what property or method to use to indent a paragraph, do the following:
+If you are unsure of which Visual Basic method or property to use, you can turn on the macro recorder and manually perform the action. The macro recorder translates your actions into Visual Basic code. After you record your actions, you can modify the code to do exactly what you want. For example, if you don't know what property or method to use to indent a paragraph, do the following:
 
 
 1. On the **Developer** ribbon, click **Record Macro**.

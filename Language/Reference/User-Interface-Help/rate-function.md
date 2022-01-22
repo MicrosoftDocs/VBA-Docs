@@ -26,7 +26,7 @@ The **Rate** function has these [named arguments](../../Glossary/vbe-glossary.md
 |:-----|:-----|
 |_nper_|Required. **Double** specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
 |_pmt_|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|
-|_pv_|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
+|_pv_|Required. **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you'll make.|
 |_fv_|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying future value or cash balance you want after you make the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, $50,000 is the future value. If omitted, 0 is assumed.|
 |_type_|Optional. **Variant** specifying a number indicating when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
 |_guess_|Optional. **Variant** specifying value you estimate will be returned by **Rate**. If omitted, _guess_ is 0.1 (10 percent).|

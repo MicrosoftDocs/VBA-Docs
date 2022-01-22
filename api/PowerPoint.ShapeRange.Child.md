@@ -37,7 +37,7 @@ The value of the **Child** property can be one of these **MsoTriState** constant
 
 |Constant|Description|
 |:-----|:-----|
-|**msoFalse**| The shape is not a child shape or, if a shape range, all child shapes do not belong to the same parent.|
+|**msoFalse**| The shape is not a child shape or, if a shape range, all child shapes don't belong to the same parent.|
 |**msoTrue**| The shape is a child shape or, if a shape range, all child shapes belong to the same parent.|
 
 ## Example

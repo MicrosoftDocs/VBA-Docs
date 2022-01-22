@@ -74,7 +74,7 @@ You call a **Sub** procedure by using the procedure name followed by the argumen
 
 Variables used in **Sub** procedures fall into two categories: those that are explicitly declared within the procedure and those that are not. Variables that are explicitly declared in a procedure (using **Dim** or the equivalent) are always local to the procedure. Variables that are used but not explicitly declared in a procedure are also local unless they are explicitly declared at some higher level outside the procedure.
 
-A procedure can use a variable that is not explicitly declared in the procedure, but a naming conflict can occur if anything you defined at the [module level](../../Glossary/vbe-glossary.md#module-level) has the same name. If your procedure refers to an undeclared variable that has the same name as another procedure, constant or variable, it is assumed that your procedure is referring to that module-level name. To avoid this kind of conflict, explicitly declare variables. You can use an **Option Explicit** statement to force explicit declaration of variables.
+A procedure can use a variable that is not explicitly declared in the procedure, but a naming conflict can occur if anything you defined at the [module level](../../Glossary/vbe-glossary.md#module-level) has the same name. If your procedure refers to an undeclared variable that has the same name as another procedure, constant or variable, it is assumed that your procedure is referring to that module-level name. To avoid this kind of conflict, explicitly declare variables. Use an **Option Explicit** statement to force explicit declaration of variables.
 
 > [!NOTE] 
 > You can't use **GoSub**, **GoTo**, or **Return** to enter or exit a **Sub** procedure.

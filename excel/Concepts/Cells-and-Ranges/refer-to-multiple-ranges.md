@@ -17,7 +17,7 @@ By using the appropriate method, you can easily refer to multiple ranges. Use th
 
 ## Using the Range Property
 
-You can refer to multiple ranges with the **Range** property by inserting commas between two or more references. The following example clears the contents of three ranges on Sheet1.
+Refer to multiple ranges with the **Range** property by inserting commas between two or more references. The following example clears the contents of three ranges on Sheet1.
 
 
 ```vb
@@ -57,7 +57,7 @@ End Sub
 
 ## Using the Areas Property
 
-You can use the **Areas** property to refer to the selected range or to the collection of ranges in a multiple-area selection. The following procedure counts the areas in the selection. If there is more than one area, a warning message is displayed.
+Use the **Areas** property to refer to the selected range or to the collection of ranges in a multiple-area selection. The following procedure counts the areas in the selection. If there is more than one area, a warning message is displayed.
 
 
 ```vb

@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to export a table to an ODBC database and the table could not be created. This error can occur if the ODBC database is read-only, or you do not have permission to create a table in that database. Resolve the read-only condition, or see your system administrator or the person who created the database to obtain the necessary permissions.
+You tried to export a table to an ODBC database and the table could not be created. This error can occur if the ODBC database is read-only, or you don't have permission to create a table in that database. Resolve the read-only condition, or see your system administrator or the person who created the database to obtain the necessary permissions.
 
 ## See also
 

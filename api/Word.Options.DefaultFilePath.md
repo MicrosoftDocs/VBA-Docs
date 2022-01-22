@@ -34,7 +34,7 @@ _expression_ Required. A variable that represents an **[Options](Word.Options.md
 
 ## Remarks
 
- You can use an empty string ("") to remove the setting from the Windows registry. The new setting takes effect immediately.
+ Use an empty string ("") to remove the setting from the Windows registry. The new setting takes effect immediately.
 
 
 ## Example

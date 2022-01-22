@@ -23,7 +23,7 @@ A **Table** is composed of rows and columns. It represents a read-only dynamic r
 
  If the **Table** object is obtained from **[Folder.GetTable](Outlook.Folder.GetTable.md)**, you can further specify a filter (in **[Table.Restrict](Outlook.Table.Restrict.md)**) to obtain a more restricted set of rows in the **Table**.
 
- You can use the Table methods: **[FindRow](Outlook.Table.FindRow.md)**, **[FindNextRow](Outlook.Table.FindNextRow.md)**, **[GetNextRow](Outlook.Table.GetNextRow.md)**, and **[MoveToStart](Outlook.Table.MoveToStart.md)** to obtain a specific row in a **Table**.
+ Use the Table methods: **[FindRow](Outlook.Table.FindRow.md)**, **[FindNextRow](Outlook.Table.FindNextRow.md)**, **[GetNextRow](Outlook.Table.GetNextRow.md)**, and **[MoveToStart](Outlook.Table.MoveToStart.md)** to obtain a specific row in a **Table**.
 
  Use **[Row.GetValues](Outlook.Row.GetValues.md)** to obtain an array of values that correspond to column values at that row in the **Table**.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AccessObject.Name property (Access)
 
-You can use the **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
+Use the **Name** property to determine the string expression that identifies the name of an object. Read-only **String**.
 
 
 ## Syntax

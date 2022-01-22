@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 A **[Recordset](../../../api/overview/Access.md)** object usually has a current position, most often at a record. When you refer to the fields in a **Recordset**, you obtain values from the record at the current position, which is known as the current record. However, the current position can also be immediately before the first record in a **Recordset** or immediately after the last record. In certain circumstances, the current position is undefined.
 
-You can use the following **Move** methods to loop through the records in a **Recordset**:
+Use the following **Move** methods to loop through the records in a **Recordset**:
 
 - The **[MoveFirst](../../../api/overview/Access.md)** method moves to the first record.
     
@@ -23,7 +23,7 @@ You can use the following **Move** methods to loop through the records in a **Re
     
 - The **[Move](../../../api/overview/Access.md)** method moves forward or backward the number of records you specify in its syntax.
     
-You can use each of these methods on table-type, dynaset-type, and snapshot-type **Recordset** objects. On a forward-only-type **Recordset** object, you can use only the **MoveNext** and **Move** methods. If you use the **Move** method on a forward-only-type **Recordset**, the argument specifying the number of rows to move must be a positive integer.
+Use each of these methods on table-type, dynaset-type, and snapshot-type **Recordset** objects. On a forward-only-type **Recordset** object, you can use only the **MoveNext** and **Move** methods. If you use the **Move** method on a forward-only-type **Recordset**, the argument specifying the number of rows to move must be a positive integer.
 
 The following code example opens a **Recordset** object on the Employees table containing all of the records that have a **Null** value in the ReportsTo field. The function then updates the records to indicate that these employees are temporary employees. For each record in the **Recordset**, the example changes the Title and Notes fields, and saves the changes with the **[Update](../../../api/overview/Access.md)** method. It uses the **MoveNext** method to move to the next record.
 

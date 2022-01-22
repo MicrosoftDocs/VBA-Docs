@@ -20,7 +20,7 @@ ms.localizationpriority: medium
     
 4. In the **Search** box, type the email address or the public folder that you want to appear in the **To** box on the form, and then click **OK**. 
     
-5. On the **Developer** tab, in the **Form** group, click **Design This Form** to open the form in design mode. If you do not see the **Developer** tab in the open contact, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
+5. On the **Developer** tab, in the **Form** group, click **Design This Form** to open the form in design mode. If you don't see the **Developer** tab in the open contact, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
     
 
  **Note** Each person who uses the form must have permission to access the public folder that you specify in the **To** field.

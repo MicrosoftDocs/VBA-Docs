@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Page](Publisher.Page.md)** object.
 
 ## Remarks
 
-**PageID** values are random numbers assigned to pages when they are added. These unique numbers do not change when pages are added or deleted. Also, these numbers do not start with 1, nor are they contiguous.
+**PageID** values are random numbers assigned to pages when they are added. These unique numbers don't change when pages are added or deleted. Also, these numbers don't start with 1, nor are they contiguous.
 
 
 ## Example

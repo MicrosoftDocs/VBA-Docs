@@ -17,7 +17,7 @@ ms.localizationpriority: high
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **FieldSize** property to set the maximum size for data stored in a field set to the Text, Number, or AutoNumber data type.
+Use the **FieldSize** property to set the maximum size for data stored in a field set to the Text, Number, or AutoNumber data type.
 
 
 ## Setting
@@ -56,7 +56,7 @@ If the data in a Number data type field doesn't fit in a new **FieldSize** setti
 You can't undo changes to data that result from a change to the **FieldSize** property after saving those changes in table Design view.
 
 > [!NOTE] 
-> You can use the Currency data type if you plan to perform many calculations on a field that contains data with one to four decimal places. Single and Double data type fields require floating-point calculation. Currency data type fields use a faster fixed-point calculation.
+> Use the Currency data type if you plan to perform many calculations on a field that contains data with one to four decimal places. Single and Double data type fields require floating-point calculation. Currency data type fields use a faster fixed-point calculation.
 
 ## See also
 

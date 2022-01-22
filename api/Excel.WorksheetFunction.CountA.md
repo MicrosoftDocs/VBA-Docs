@@ -43,7 +43,7 @@ A value is any type of information, including error values and empty text (""). 
     
 If an argument is an array or reference, only values in that array or reference are used. Empty cells and text values in the array or reference are ignored.
     
-If you do not need to count logical values, text, or error values, use the **[Count](excel.worksheetfunction.count.md)** function.
+If you don't need to count logical values, text, or error values, use the **[Count](excel.worksheetfunction.count.md)** function.
     
 
 

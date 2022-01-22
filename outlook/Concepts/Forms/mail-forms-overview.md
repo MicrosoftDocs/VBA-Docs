@@ -21,7 +21,7 @@ If you are customizing a mail form for use in an organization that is using Micr
 
 When you design a mail form, it is important to consider which type of message format the form should be in. The choices are Microsoft Rich Text, HTML, and plain text. You should give careful consideration to what versions of Outlook that potential recipients will be using.
 
- **Note** Some of the properties and objects related to mail formats might behave differently depending on whether Outlook 98, Outlook 2000, or Outlook 2003 is running in **Corporate Workgroup** mode or **Internet Mail Only** mode. Outlook 2002, Outlook 2007 and later do not distinguish between the **Corporate Workgroup** mode and **Internet Mail Only** mode.
+ **Note** Some of the properties and objects related to mail formats might behave differently depending on whether Outlook 98, Outlook 2000, or Outlook 2003 is running in **Corporate Workgroup** mode or **Internet Mail Only** mode. Outlook 2002, Outlook 2007 and later don't distinguish between the **Corporate Workgroup** mode and **Internet Mail Only** mode.
 
 For more information, see the following topics:
 

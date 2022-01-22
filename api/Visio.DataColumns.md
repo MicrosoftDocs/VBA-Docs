@@ -26,7 +26,7 @@ The default property of the **DataColumns** collection is **Item**.
 
 A **DataRecordset** object can contain only one **DataColumns** collection. The number of **DataColumn** objects that can belong to a **DataColumns** collection is limited only by the number of columns in the data source and the hardware constraints of your computer.
 
-You can use the **SetColumnProperties** method to set multiple properties of the data recordset columns that you specify to the values that you specify. Note that **SetColumnProperties** can set values of multiple properties for multiple columns, whereas the **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** method sets the value of only one property of one column at a time.
+Use the **SetColumnProperties** method to set multiple properties of the data recordset columns that you specify to the values that you specify. Note that **SetColumnProperties** can set values of multiple properties for multiple columns, whereas the **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** method sets the value of only one property of one column at a time.
 
 ## Methods
 

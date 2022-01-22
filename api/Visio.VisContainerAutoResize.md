@@ -21,7 +21,7 @@ Specifies constants that define the different ways that the container boundary c
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerAutoResizeNone**|0|Do not automatically resize container.|
-| **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|
+| **visContainerAutoResizeExpand**|1|Automatically expand the container size, but don't contract.|
 | **visContainerAutoResizeExpandContract**|2|Automatically expand and contract the container size.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

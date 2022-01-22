@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Outlook.Application.m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Scope_|Required| **String**|The scope of the search. For example, the folder path of a folder. It is recommended that the folder path is enclosed within single quotes. Otherwise, the search might not return correct results if the folder path contains special characters including Unicode characters. To specify multiple folder paths, enclose each folder path in single quotes and separate the single quoted folder paths with a comma.|
+| _Scope_|Required| **String**|The scope of the search. For example, the folder path of a folder. It's recommended that the folder path is enclosed within single quotes. Otherwise, the search might not return correct results if the folder path contains special characters including Unicode characters. To specify multiple folder paths, enclose each folder path in single quotes and separate the single quoted folder paths with a comma.|
 | _Filter_|Optional| **Variant**|The DASL search filter that defines the parameters of the search.|
 | _SearchSubFolders_|Optional| **Variant**|Determines if the search will include any of the folder's subfolders.|
 | _Tag_|Optional| **Variant**|The name given as an identifier for the search.|
@@ -44,7 +44,7 @@ A **[Search](Outlook.Search.md)** object that represents the results of the sear
 
 You can run multiple searches simultaneously by calling the **AdvancedSearch** method in successive lines of code. However, you should be aware that programmatically creating a large number of search folders can result in significant simultaneous search activity that would affect the performance of Outlook, especially if Outlook conducts the search in online Exchange mode.
 
-The **AdvancedSearch** method and related features in the Outlook object model do not create a Search Folder that will appear in the Outlook user interface. However, you can use the **[Save](Outlook.Search.Save.md)** method of the **Search** object that is returned to create a Search Folder that will appear in the Search Folders list in the Outlook user interface.
+The **AdvancedSearch** method and related features in the Outlook object model don't create a Search Folder that will appear in the Outlook user interface. However, you can use the **[Save](Outlook.Search.Save.md)** method of the **Search** object that is returned to create a Search Folder that will appear in the Search Folders list in the Outlook user interface.
 
 Using the  _Scope_ parameter, you can specify one or more folders in the same store, but you may not specify multiple folders in multiple stores. To specify multiple folders in the same store for the _Scope_ parameter, use a comma character between each folder path and enclose each folder path in single quotes. For default folders such as Inbox or Sent Items, you can use the simple folder name instead of the full folder path. For example, the following two lines of code represent valid _Scope_ parameters:
 

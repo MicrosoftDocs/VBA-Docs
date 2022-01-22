@@ -92,7 +92,7 @@ The following example shows the difference in names between the **pjTaskStart**,
 
 
 > [!NOTE] 
-> The **pjTask*Text** fields, such as **pjTaskStartText**, are new in Project. Those fields are used to get data for dates of both automatically and manually scheduled tasks. For example, the **Start** column in a Gantt chart contains **String** data for dates, not **Variant** data. You can use fields such as **pjTaskDuration** in custom field formulas, but not in column headings.
+> The **pjTask*Text** fields, such as **pjTaskStartText**, are new in Project. Those fields are used to get data for dates of both automatically and manually scheduled tasks. For example, the **Start** column in a Gantt chart contains **String** data for dates, not **Variant** data. Use fields such as **pjTaskDuration** in custom field formulas, but not in column headings.
 
 Columns in task views for **Start**, **Finish**, **Duration**, and so forth, contain **String** data for both auto-scheduled and manually scheduled tasks. The **Duration** column can only use **String** data, so there is no column heading for **pjTaskDuration**.
 

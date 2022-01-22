@@ -39,7 +39,7 @@ A **Store** object that has the **[StoreID](Outlook.Store.StoreID.md)** property
 
 ## Remarks
 
-The **StoreID** property of a **Store** is unique to the profile for the session. It is equivalent to the MAPI property **PR_STORE_ENTRY_ID**.
+The **StoreID** property of a **Store** is unique to the profile for the session. It's equivalent to the MAPI property **PR_STORE_ENTRY_ID**.
 
 The store must be mounted in order for this method to succeed.
 

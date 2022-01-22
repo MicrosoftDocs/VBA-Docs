@@ -40,7 +40,7 @@ Long()
 
 ## Remarks
 
-You can use the **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. The **GetDataRowIDs** method takes as its parameter a criteria string, which is a string that conforms to the guidelines specified in the ADO API for setting the **ADO.Filter** property. By specifying appropriate criteria and using AND and OR operators to separate clauses, you can filter the information in the data recordset to return only certain data recordset rows selectively. To apply no filter (that is, to get all the rows), pass an empty string ("").
+Use the **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. The **GetDataRowIDs** method takes as its parameter a criteria string, which is a string that conforms to the guidelines specified in the ADO API for setting the **ADO.Filter** property. By specifying appropriate criteria and using AND and OR operators to separate clauses, you can filter the information in the data recordset to return only certain data recordset rows selectively. To apply no filter (that is, to get all the rows), pass an empty string ("").
 
 For more information about criteria strings, see [Filter Property](https://msdn.microsoft.com/library/ms676691%28VS.85%29.aspx) in the ADO 2.8 API Reference.
 

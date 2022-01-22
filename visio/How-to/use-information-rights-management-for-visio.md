@@ -15,7 +15,7 @@ Learn to use Information Rights Management (IRM) with Visio documents.
 
 ## Overview
 
-You can use IRM support for Visio to programmatically:
+Use IRM support for Visio to programmatically:
 
 
 - Protect a Visio document from unauthorized access.

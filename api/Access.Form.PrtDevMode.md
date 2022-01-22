@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.PrtDevMode property (Access)
 
-You can use the **PrtDevMode** property to set or return printing device mode information specified for a form or report in the **Print** dialog box. Read/write **Variant**.
+Use the **PrtDevMode** property to set or return printing device mode information specified for a form or report in the **Print** dialog box. Read/write **Variant**.
 
 
 ## Syntax

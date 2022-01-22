@@ -19,7 +19,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
 
 You can include whichever shapes you want—chosen from among all the shapes in the document or all the shapes in the selection—to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes in a document, all the selected shapes in a document, or all the freeform shapes in a document. Most operations that you can do with a **Shape** object, you can also do with a **ShapeRange** object that contains only one shape. Some operations, when performed on a **ShapeRange** object that contains more than one shape, will cause an error.
 
-Use **Range** (_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use Visual Basic's **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on the active document.
+Use **Range** (_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. Use Visual Basic's **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on the active document.
 
 ```vb
 ActiveDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _ 

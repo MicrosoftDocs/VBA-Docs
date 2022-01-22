@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.AllowFilters property (Access)
 
-You can use the **AllowFilters** property to specify whether records in a form can be filtered. Read/write **Boolean**.
+Use the **AllowFilters** property to specify whether records in a form can be filtered. Read/write **Boolean**.
 
 
 ## Syntax

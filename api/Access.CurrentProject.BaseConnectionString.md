@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentProject.BaseConnectionString property (Access)
 
-You can use the **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
+Use the **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
 
 
 ## Syntax

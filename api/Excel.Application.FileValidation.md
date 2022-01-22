@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-Files that do not pass validation will be opened in a Protected View window. If you set the **FileValidation** property, that setting will remain in effect for the entire session that the application is open.
+Files that don't pass validation will be opened in a Protected View window. If you set the **FileValidation** property, that setting will remain in effect for the entire session that the application is open.
 
 
 

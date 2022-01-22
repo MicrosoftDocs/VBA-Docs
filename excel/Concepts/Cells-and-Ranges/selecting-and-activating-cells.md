@@ -14,7 +14,7 @@ ms.localizationpriority: high
 
 In Microsoft Excel, you usually select a cell or cells and then perform an action, such as formatting the cells or entering values in them. In Visual Basic, it is usually not necessary to select cells before modifying them.
 
-For example, to enter a formula in cell D6 using Visual Basic, you do not need to select the range D6. Just return the **Range** object for that cell, and then set the **Formula** property to the formula you want, as shown in the following example.
+For example, to enter a formula in cell D6 using Visual Basic, you don't need to select the range D6. Just return the **Range** object for that cell, and then set the **Formula** property to the formula you want, as shown in the following example.
 
 
 
@@ -80,7 +80,7 @@ End Sub
 
 ## Activating a Cell Within a Selection
 
-You can use the **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
+Use the **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
 
 
 ```vb

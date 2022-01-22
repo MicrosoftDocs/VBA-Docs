@@ -47,7 +47,7 @@ End Sub
 
  **Important** For application-level events, register event handlers  _after_ you set `Application.Visible = True`.
 
-If you instantiate Project from another application and register an application-level event before setting the **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** do not work. For example, `Application.ActiveProject.Name` is not accessible.
+If you instantiate Project from another application and register an application-level event before setting the **Visible** property of the **Application** object to **True**, the properties and methods of child objects of **Application** don't work. For example, `Application.ActiveProject.Name` is not accessible.
 
  **Note** Event code in your project can run unexpectedly, or can be blocked, if event code exists in the global file (Global.mpt).
 

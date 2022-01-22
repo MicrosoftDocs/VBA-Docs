@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-Using this method is equivalent to pressing the F9 key when a form has the focus. You can use this method to recalculate the values of controls that depend on other fields for which the contents may have changed.
+Using this method is equivalent to pressing the F9 key when a form has the focus. Use this method to recalculate the values of controls that depend on other fields for which the contents may have changed.
 
 
 ## Example

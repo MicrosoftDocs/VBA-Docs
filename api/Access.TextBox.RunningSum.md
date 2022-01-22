@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.RunningSum property (Access)
 
-You can use the **RunningSum** property to calculate record-by-record or group-by-group totals in a report. Read/write **Byte**.
+Use the **RunningSum** property to calculate record-by-record or group-by-group totals in a report. Read/write **Byte**.
 
 
 ## Syntax

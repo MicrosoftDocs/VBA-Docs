@@ -60,9 +60,9 @@ You can include the same shape multiple times in each array you pass as a parame
 
 If a particular **AutoConnectMany** operation fails or is invalid, Microsoft Visio skips it and processes the next item in each of the parameter arrays. **AutoConnectMany** returns the total number of items successfully processed.
 
-If the parameter arrays do not each contain the same number of values, Visio returns an Invalid Parameter error.
+If the parameter arrays don't each contain the same number of values, Visio returns an Invalid Parameter error.
 
-The optional  _Connector_ parameter value must be an object that references a one-dimensional routable shape. If you do not pass a value for _Connector_ , Visio uses the default dynamic connector.
+The optional  _Connector_ parameter value must be an object that references a one-dimensional routable shape. If you don't pass a value for _Connector_ , Visio uses the default dynamic connector.
 
 If you use the **IDataObject** interface to pass a selection of shapes for _Connector_ , Visio uses only the first shape. If _Connector_ is not a Visio object, Visio returns an Invalid Parameter error. If _Connector_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
 

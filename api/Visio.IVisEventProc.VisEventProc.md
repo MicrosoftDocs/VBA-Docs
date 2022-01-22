@@ -70,7 +70,7 @@ For many events, _vMoreInfo_ is a string similar to the command line the applica
 
 Beginning with Visio 2000, **VisEventProc** is defined as a function that returns a value. However, Visio only looks at return values from calls to **VisEventProc** that are passed a query event code. Sink objects that provide **VisEventProc** through **IDispatch** require no change. To modify existing event handlers so that they can handle query events, change the **Sub** procedure to a **Function** procedure and return the appropriate value. (For details about query events, see this reference for event topics prefixed with **Query**.)
 
-If _nEventCode_ identifies a query event (events prefixed with **Query**), return **True** from **VisEventProc** to cancel the event, and return **False** to allow it to happen. The value is arbitrary for other events. If you do not return an explicit value, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant**, which Visio interprets as **False**.
+If _nEventCode_ identifies a query event (events prefixed with **Query**), return **True** from **VisEventProc** to cancel the event, and return **False** to allow it to happen. The value is arbitrary for other events. If you don't return an explicit value, Microsoft Visual Basic for Applications (VBA) returns an empty **Variant**, which Visio interprets as **False**.
 
 
 ## Example

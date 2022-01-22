@@ -48,7 +48,7 @@ The following conditions must be met or else an error occurs:
 
 ## Example
 
-This example transfers the current SQL Server database to a new SQL Server database called Inventory on the server MainOffice. (It is assumed that the user has system administrator privileges on MainOffice.) The data is copied along with the database schema.
+This example transfers the current SQL Server database to a new SQL Server database called Inventory on the server MainOffice. (It's assumed that the user has system administrator privileges on MainOffice.) The data is copied along with the database schema.
 
 ```vb
 DoCmd.TransferCompleteSQLDatabase _ 

@@ -37,7 +37,7 @@ ReDim BVar(10)    ' No error.
     
 - You tried to use **ReDim** to change more than one dimension of an array contained within a **Variant**. You can only use **ReDim** to change the size of the last dimension of an array in a **Variant**. To create an array with multiple dimensions that can be redimensioned, the array can't be contained within a **Variant**, and you have to declare it the normal way.
     
-- You can use **ReDim** only to change the number of elements in a normal array, not the type of those elements. If you want an array in which you can change the types of the elements, use an array contained within a **Variant**. If you declare the array first, changing the types and the number of its elements can be accomplished as follows:
+- Use **ReDim** only to change the number of elements in a normal array, not the type of those elements. If you want an array in which you can change the types of the elements, use an array contained within a **Variant**. If you declare the array first, changing the types and the number of its elements can be accomplished as follows:
     
 ```vb
 Dim MyVar As Variant    ' Declare the variable. 

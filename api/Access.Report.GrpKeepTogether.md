@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.GrpKeepTogether property (Access)
 
-You can use the **GrpKeepTogether** property to specify whether groups in a multiple column report that have their **[KeepTogether](Access.GroupLevel.KeepTogether.md)** property for a group set to Whole Group or With First Detail will be kept together by page or by column. Read/write **Byte**.
+Use the **GrpKeepTogether** property to specify whether groups in a multiple column report that have their **[KeepTogether](Access.GroupLevel.KeepTogether.md)** property for a group set to Whole Group or With First Detail will be kept together by page or by column. Read/write **Byte**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The **GrpKeepTogether** property uses the following settings.
 
 This property can be set only in report Design view.
 
-You can use this property to specify whether all the data for a group will appear in the same column. For example, if you have a list of employees by department in a multiple-column format, you can use this property to keep all members of the same department in the same column.
+Use this property to specify whether all the data for a group will appear in the same column. For example, if you have a list of employees by department in a multiple-column format, you can use this property to keep all members of the same department in the same column.
 
 The **GrpKeepTogether** property setting has no effect if the **KeepTogether** property for a group is set to No.
 

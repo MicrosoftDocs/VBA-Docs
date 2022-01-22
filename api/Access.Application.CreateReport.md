@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.CreateReport method (Access)
 
-The **CreateReport** method creates a report and returns a **[Report](Access.Report.md)** object. For example, suppose you are building a custom wizard to create a sales report. You can use the **CreateReport** method in your wizard to create a new report based on a specified report template.
+The **CreateReport** method creates a report and returns a **[Report](Access.Report.md)** object. For example, suppose you are building a custom wizard to create a sales report. Use the **CreateReport** method in your wizard to create a new report based on a specified report template.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Report
 
 ## Remarks
 
-You can use the **CreateReport** method when designing a wizard that creates a new report.
+Use the **CreateReport** method when designing a wizard that creates a new report.
 
 The **CreateReport** method open a new, minimized report in report Design view.
 

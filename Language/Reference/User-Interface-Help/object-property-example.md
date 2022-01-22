@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Object property example
 
-Assume a new control has a **Top** property that is different from the standard **[Top](left-top-properties.md)** property in Microsoft Forms. You can use either property, based on the syntax:
+Assume a new control has a **Top** property that is different from the standard **[Top](left-top-properties.md)** property in Microsoft Forms. Use either property, based on the syntax:
 
 -  `control.Top` uses the standard **Top** property.
     

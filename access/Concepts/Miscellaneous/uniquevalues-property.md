@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **UniqueValues** property when you want to omit records that contain duplicate data in the fields displayed in Datasheet view. For example, if a query's output includes more than one field, the combination of values from all fields must be unique for a given record to be included in the results.
+Use the **UniqueValues** property when you want to omit records that contain duplicate data in the fields displayed in Datasheet view. For example, if a query's output includes more than one field, the combination of values from all fields must be unique for a given record to be included in the results.
 
 > [!NOTE] 
 > The **UniqueValues** property applies only to append and make-table action queries and select queries.

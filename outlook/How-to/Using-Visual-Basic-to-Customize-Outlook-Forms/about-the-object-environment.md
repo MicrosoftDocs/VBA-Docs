@@ -37,7 +37,7 @@ The following table shows the major objects in the Outlook object model.
 | **[View](../../../api/Outlook.View.md)**|Represents a customizable view used to sort, group, and view data.| |
 | **[Explorer](../../../api/Outlook.Explorer.md)**|Represents the Outlook window. Enables you to show, return, and close the active window. | This code shows the active Outlook window in Outlook: `Application.ActiveExplorer.Display`|
 | **[NavigationPane](../../../api/Outlook.NavigationPane.md)**|Represents the Navigation Pane displayed by the active **Explorer** object.| |
-| **[Items](../../../api/Outlook.Items.md)** collection | Enables you to work with items within a folder and the item objects that represents the standard item types in Outlook, such as **[MailItem](../../../api/Outlook.MailItem.md)** that represents a mail message. In VBScript, the active item is assumed, so you do not need to enter the object model to reference it. | This code sets the Subject field of the active message in VBScript: `Item.Subject = "New Subject"`|
+| **[Items](../../../api/Outlook.Items.md)** collection | Enables you to work with items within a folder and the item objects that represents the standard item types in Outlook, such as **[MailItem](../../../api/Outlook.MailItem.md)** that represents a mail message. In VBScript, the active item is assumed, so you don't need to enter the object model to reference it. | This code sets the Subject field of the active message in VBScript: `Item.Subject = "New Subject"`|
 | **[Inspector](../../../api/Outlook.Inspector.md)**|References forms. Use to show forms and pages. | This code shows the **Options** page of a form in Outlook: `Application.ActiveInspector.SetCurrentFormPage("Options")`|
 | **[FormRegion](../../../api/Outlook.FormRegion.md)**|Represents a form region in an Outlook form.| |
 | **[Attachment](../../../api/Outlook.Attachment.md)**|Represents a document or link to a document contained in an Outlook item.| |
@@ -50,6 +50,6 @@ The following table shows the major objects in the Outlook object model.
 | **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**|Provides detailed information about an **AddressEntry** that represents an Exchange distribution list.| |
 | **[Recipient](../../../api/Outlook.Recipient.md)**|Represents a user or resource in Outlook, generally a mail message addressee.| |
 | **[Exception](../../../api/Outlook.Exception.md)**|The **Exception** object holds information about one instance of an **[AppointmentItem](../../../api/Outlook.AppointmentItem.md)** object which is an exception to a recurring series. Unlike most of the other Outlook objects, the **Exception** object is a read-only object.| |
-|Control|There are the Microsoft Forms 2.0 controls that exist in the control toolbox by default, and the Outlook controls that are installed on your computer by default and that you will add to the control toolbox before using them for the first time in a form.| |
+|Control|There are the Microsoft Forms 2.0 controls that exist in the control toolbox by default, and the Outlook controls that are installed on your computer by default and that you'll add to the control toolbox before using them for the first time in a form.| |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

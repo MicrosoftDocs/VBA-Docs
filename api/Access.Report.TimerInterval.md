@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.TimerInterval property (Access)
 
-You can use the **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Report.Timer.md)** events on a report. Read/write **Long**.
+Use the **TimerInterval** property to specify the interval, in milliseconds, between **[Timer](Access.Report.Timer.md)** events on a report. Read/write **Long**.
 
 
 ## Syntax

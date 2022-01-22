@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[FormatConditions](Excel.FormatCondi
 
 ## Remarks
 
-You can use the **UniqueValues** object to quickly visualize cells that contain either unique or duplicate values.
+Use the **UniqueValues** object to quickly visualize cells that contain either unique or duplicate values.
 
 
 

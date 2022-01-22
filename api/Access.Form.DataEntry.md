@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DataEntry property (Access)
 
-You can use the **DataEntry** property to specify whether a bound form opens to allow data entry only. The **Data Entry** property doesn't determine whether records can be added; it only determines whether existing records are displayed. Read/write **Boolean**.
+Use the **DataEntry** property to specify whether a bound form opens to allow data entry only. The **Data Entry** property doesn't determine whether records can be added; it only determines whether existing records are displayed. Read/write **Boolean**.
 
 
 ## Syntax

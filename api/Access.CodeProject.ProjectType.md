@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.ProjectType property (Access)
 
-You can use the **ProjectType** property to determine the type of project that is currently open. Read-only **[AcProjectType](Access.AcProjectType.md)**.
+Use the **ProjectType** property to determine the type of project that is currently open. Read-only **[AcProjectType](Access.AcProjectType.md)**.
 
 
 ## Syntax

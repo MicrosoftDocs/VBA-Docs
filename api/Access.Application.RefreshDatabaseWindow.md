@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-You can use the **RefreshDatabaseWindow** method to immediately reflect changes to objects in Microsoft Access in the Database window. For example, if you add a new form from Visual Basic and save it, you can use the **RefreshDatabaseWindow** method to display the name of the new form on the **Forms** tab of the Database window immediately after it has been saved.
+Use the **RefreshDatabaseWindow** method to immediately reflect changes to objects in Microsoft Access in the Database window. For example, if you add a new form from Visual Basic and save it, you can use the **RefreshDatabaseWindow** method to display the name of the new form on the **Forms** tab of the Database window immediately after it has been saved.
 
 
 ## Example

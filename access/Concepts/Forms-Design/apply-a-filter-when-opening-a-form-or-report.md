@@ -26,7 +26,7 @@ The  `"OrderID = "` in the filter expression refers to the OrderID field in the 
 
 The  _wherecondition_ argument is applied only by the event procedure specified for the **OnClick** event of the button that runs the **OpenForm** or **OpenReport** method. This gives you the flexibility of using any number of different dialog boxes to open the same form or report and applying different sets of criteria depending on what the user wants to do. For example, the user may want to print an invoice for a certain customer or view orders only for a certain product.
 
-You can use the  _wherecondition_ argument to set criteria for more than one field, but if you do, the argument setting quickly becomes long and complicated. In those situations, specifying criteria in a query may be easier.
+Use the  _wherecondition_ argument to set criteria for more than one field, but if you do, the argument setting quickly becomes long and complicated. In those situations, specifying criteria in a query may be easier.
 
 
 ## Using a query as a filter

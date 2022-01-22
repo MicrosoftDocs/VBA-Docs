@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.PrtDevNames property (Access)
 
-You can use the **PrtDevNames** property to set or return information about the printer selected in the **Print** dialog box for a form or report. Read/write **Variant**.
+Use the **PrtDevNames** property to set or return information about the printer selected in the **Print** dialog box for a form or report. Read/write **Variant**.
 
 
 ## Syntax

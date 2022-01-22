@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Documents](Visio.Documents.md)** ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Microsoft Visio searches the folder or folders designated in the **Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
+| _FileName_|Required| **String**|The type or file name of the document to add; if you don't include a path, Microsoft Visio searches the folder or folders designated in the **Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
 | _MeasurementSystem_|Optional| **VisMeasurementSystem**|The measurement units to use in the new document. See Remarks for possible values.|
 | _Flags_|Optional| **Long**|Flags that indicate how to open the new document. See Remarks for possible values.|
 | _LangID_|Optional| **Long**|The language ID for the document. See Remarks.|

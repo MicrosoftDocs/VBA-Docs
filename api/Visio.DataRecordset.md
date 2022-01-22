@@ -47,11 +47,11 @@ If the data recordset is associated with a **[DataConnection](Visio.DataConnecti
 
 The default property of a **DataRecordset** object is **ID**. The **ID** property value identifies the **DataRecordset** in the **DataRecordsets** collection, and is unique within the collection for any given document.
 
-You can use the **Name** property to associate a display name with the data recordset.
+Use the **Name** property to associate a display name with the data recordset.
 
-You can use the **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. After you have retrieved the data-row IDs in this manner, you can use the **GetRowData** method to get all the data stored in each column in the data row.
+Use the **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. After you have retrieved the data-row IDs in this manner, you can use the **GetRowData** method to get all the data stored in each column in the data row.
 
-You can use the **DataColumns** property to get the **[DataColumn](Visio.DataColumn.md)** object associated with the data recordset. The **DataColumn** object exposes methods and properties that you can use to customize the mapping of data columns to cells in the Shape Data section of the Visio ShapeSheet spreadsheet for shapes linked to data.
+Use the **DataColumns** property to get the **[DataColumn](Visio.DataColumn.md)** object associated with the data recordset. The **DataColumn** object exposes methods and properties that you can use to customize the mapping of data columns to cells in the Shape Data section of the Visio ShapeSheet spreadsheet for shapes linked to data.
 
 Setting a primary key column for a data recordset can help prevent broken links between shapes and data when data is refreshed. You can get and set the primary key column by using the **GetPrimaryKey** and **SetPrimaryKey** methods respectively.
 

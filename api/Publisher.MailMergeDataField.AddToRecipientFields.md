@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[MailMergeDataField](Publisher.MailM
 
 ## Remarks
 
-This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property to determine if the object has already been mapped.
+This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. Use the **[IsMapped](Publisher.MailMergeDataField.IsMapped.md)** property to determine if the object has already been mapped.
 
 
 ## Example

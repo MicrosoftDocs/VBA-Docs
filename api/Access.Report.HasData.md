@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.HasData property (Access)
 
-You can use the **HasData** property to determine if a report is bound to an empty recordset. Read/write **Long**.
+Use the **HasData** property to determine if a report is bound to an empty recordset. Read/write **Long**.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The **HasData** property uses the following settings.
 |0|The object doesn't have data.|
 |1|The object is unbound.|
 
-You can use this property to determine whether to hide a subreport that has no data. For example, the following expression hides the subreport control when its report has no data.
+Use this property to determine whether to hide a subreport that has no data. For example, the following expression hides the subreport control when its report has no data.
 
 ```vb
 Me!SubReportControl.Visible = Me!SubReportControl.Report.HasData

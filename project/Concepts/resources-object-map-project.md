@@ -25,7 +25,7 @@ For an overview of the **Application** and **Project** objects, and for details 
 ## Resources Object Hierarchy
 
 
- **Note** Objects in the following image do not link to the documentation pages. To see this topic with an active link for each object, use the local VBA Help content on your computer. In the bottom right corner of the **Project Help** window, right-click the **Connection Status** drop-down list, and then click **Show content only from this computer**.
+ **Note** Objects in the following image don't link to the documentation pages. To see this topic with an active link for each object, use the local VBA Help content on your computer. In the bottom right corner of the **Project Help** window, right-click the **Connection Status** drop-down list, and then click **Show content only from this computer**.
 
 
 ![Resources object map](../../images/44e5a9ca-12f7-4e24-921b-6fa1943bfd80.jpg)

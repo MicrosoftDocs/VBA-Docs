@@ -26,7 +26,7 @@ _expression_ An expression that returns an **[Application](Publisher.Application
 
 ## Remarks
 
-You can use the **[ShowWizardCatalog](Publisher.Application.ShowWizardCatalog.md)** method to display the wizard catalog in the user interface.
+Use the **[ShowWizardCatalog](Publisher.Application.ShowWizardCatalog.md)** method to display the wizard catalog in the user interface.
 
 The **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](Publisher.Application.WizardCatalogVisible.md)** property.
 

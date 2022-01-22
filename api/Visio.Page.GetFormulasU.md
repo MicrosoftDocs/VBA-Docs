@@ -42,7 +42,7 @@ Nothing
 
 The **GetFormulasU** method is like the **FormulaU** property of a **Cell** object, except you can use it to obtain the formulas of many cells at once, rather than one cell at a time. The **GetFormulasU** method is a specialization of the **GetResults** method, which can be used to obtain cell formulas or results. Setting up a call to the **GetFormulasU** method involves slightly less work than setting up the **GetResults** method.
 
-You can use the **GetFormulasU** method to get formulas in universal syntax of any set of cells in any set of shapes of the page or master.
+Use the **GetFormulasU** method to get formulas in universal syntax of any set of cells in any set of shapes of the page or master.
 
  _SID_SRCStream()_ is an array of 2-byte integers. _SID_SRCStream()_ should be a one-dimensional array of 4 _n_ 2-byte integers for _n_ >= 1. The **GetFormulasU** method interprets _SID_SRCStream()_ as:
 

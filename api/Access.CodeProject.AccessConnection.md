@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CodeProject.AccessConnection property (Access)
 
-You can use the **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
+Use the **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 
 
 ## Syntax

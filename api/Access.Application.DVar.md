@@ -45,10 +45,10 @@ If _domain_ refers to fewer than two records, or if fewer than two records satis
 
 Whether you use the **DVar** function in a macro, module, query expression, or calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the **DVar** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
+Use the **DVar** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
 > [!NOTE] 
-> You can use the **DVar** function or the **Var** function in a calculated field expression in a totals query. If you use the **DVar** function, values are calculated before data is grouped. If you use the **Var** function, the data is grouped before values in the field expression are evaluated.
+> Use the **DVar** function or the **Var** function in a calculated field expression in a totals query. If you use the **DVar** function, values are calculated before data is grouped. If you use the **Var** function, the data is grouped before values in the field expression are evaluated.
 
 Use the **DVar** function in a calculated control when you need to specify _criteria_ to restrict the range of data on which the function is performed. For example, to display a variance for orders to be shipped to California, set the **ControlSource** property of a text box to the following expression:
 

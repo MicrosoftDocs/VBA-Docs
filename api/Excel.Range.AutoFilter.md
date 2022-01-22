@@ -42,7 +42,7 @@ If you omit all the arguments, this method simply toggles the display of the Aut
 
 Excel for Mac does not support this method. Similar methods on **Selection** and **ListObject** are supported.
 
-Unlike in formulas, subfields do not require brackets to include spaces.
+Unlike in formulas, subfields don't require brackets to include spaces.
 
 
 ## Example

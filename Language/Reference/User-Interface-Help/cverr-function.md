@@ -28,7 +28,7 @@ Note that implicit conversion of an **Error** is not allowed. For example, you c
 
 ## Example
 
-This example uses the **CVErr** function to return a **Variant** whose **VarType** is **vbError** (10). The user-defined function `CalculateDouble` returns an error if the argument passed to it isn't a number. You can use **CVErr** to return user-defined errors from user-defined procedures or to defer handling of a run-time error. Use the **[IsError](iserror-function.md)** function to test if the value represents an error.
+This example uses the **CVErr** function to return a **Variant** whose **VarType** is **vbError** (10). The user-defined function `CalculateDouble` returns an error if the argument passed to it isn't a number. Use **CVErr** to return user-defined errors from user-defined procedures or to defer handling of a run-time error. Use the **[IsError](iserror-function.md)** function to test if the value represents an error.
 
 
 ```vb

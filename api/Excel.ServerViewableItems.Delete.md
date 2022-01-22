@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[ServerViewableItems](Excel.ServerVi
 
 ## Remarks
 
-If you do not want a particular object to be viewable in Excel Services, use this method to remove that object.
+If you don't want a particular object to be viewable in Excel Services, use this method to remove that object.
 
 
 

@@ -50,7 +50,7 @@ Index positions of the shape IDs in the array you pass for the ShapeIDs() parame
 
 If Visio cannot establish a link between a shape and a data row, Visio skips that shape and goes on to the next shape in the array. After you run the method, to determine if all shapes in the array are actually linked to the specified data rows, call the **[Shape.GetLinkedDataRow](Visio.Shape.GetLinkedDataRow.md)** method on each shape in the array. If that method fails for any shape, it indicates that the shape is not linked to the data row. Visio will usually succeed in linking a row to a shape unless the shape is already linked to data and the link-replacement-behavior setting for the data recordset specifies that the link should not be replaced.
 
-If you pass **True** for the optional ApplyDataGraphicAfterLink parameter, or if you do not pass a value for this parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
+If you pass **True** for the optional ApplyDataGraphicAfterLink parameter, or if you don't pass a value for this parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 
 
 ## Example

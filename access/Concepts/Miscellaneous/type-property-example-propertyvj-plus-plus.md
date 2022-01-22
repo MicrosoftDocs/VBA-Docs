@@ -12,9 +12,9 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-This example demonstrates the [Type](https://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property. It is a model of a utility for listing the names and types of a collection, like [Properties](https://msdn.microsoft.com/library/4d662790-1252-c930-e6f9-edf6a38636af%28Office.15%29.aspx), [Fields](https://msdn.microsoft.com/library/029aa738-8726-54a6-1813-b152813948bc%28Office.15%29.aspx), etc.
+This example demonstrates the [Type](https://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property. It's a model of a utility for listing the names and types of a collection, like [Properties](https://msdn.microsoft.com/library/4d662790-1252-c930-e6f9-edf6a38636af%28Office.15%29.aspx), [Fields](https://msdn.microsoft.com/library/029aa738-8726-54a6-1813-b152813948bc%28Office.15%29.aspx), etc.
 
-We do not need to open the [Recordset](https://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) to access its **Properties** collection; they come into existence when the **Recordset** object is instantiated. 
+We don't need to open the [Recordset](https://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) to access its **Properties** collection; they come into existence when the **Recordset** object is instantiated. 
 
 However, setting the [CursorLocation](https://msdn.microsoft.com/library/8a048bd4-ae25-a555-1c07-14364b7e6560%28Office.15%29.aspx) property to **adUseClient** adds several dynamic properties to the **Recordset** object's **Properties** collection, making the example a little more interesting. For sake of illustration, we explicitly use the [Item](https://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx) property to access each [Property](https://msdn.microsoft.com/library/eec318fd-f5ed-d9ef-9830-848439a8914d%28Office.15%29.aspx) object.
 

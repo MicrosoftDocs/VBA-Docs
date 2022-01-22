@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDERequest method (Access)
 
-You can use the **DDERequest** function over an open dynamic data exchange (DDE) channel to request an item of information from a DDE server application.
+Use the **DDERequest** function over an open dynamic data exchange (DDE) channel to request an item of information from a DDE server application.
 
 
 ## Syntax

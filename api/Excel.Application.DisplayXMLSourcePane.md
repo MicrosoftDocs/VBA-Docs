@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 ## Remarks
 
-You can use the following code to hide the **XML Source** task pane.
+Use the following code to hide the **XML Source** task pane.
 
 ```vb
 Application.CommandBars("XML Source").Visible = False

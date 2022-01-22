@@ -60,7 +60,7 @@ wrd.Quit
 
 ## Automating another application from Word
 
-To exchange data with another application using Automation from Word, you first obtain a reference to the application using the **CreateObject** or **GetObject** function. Then, using the objects, properties, and methods of the other application, you add, change, or delete information. When you finish making your changes, close the application. The following Word example displays the Excel startup path. You can use the Visual Basic **Set** statement with the **Nothing** keyword to clear an object variable, which has the same effect as closing the application.
+To exchange data with another application using Automation from Word, you first obtain a reference to the application using the **CreateObject** or **GetObject** function. Then, using the objects, properties, and methods of the other application, you add, change, or delete information. When you finish making your changes, close the application. The following Word example displays the Excel startup path. Use the Visual Basic **Set** statement with the **Nothing** keyword to clear an object variable, which has the same effect as closing the application.
 
 
 ```vb

@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[IconSet](Excel.IconSet.md)** objec
 
 ## Remarks
 
-You can use this property with an OLE Automation object to return the application of that object.
+Use this property with an OLE Automation object to return the application of that object.
 
 
 

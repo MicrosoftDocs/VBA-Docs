@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.AllowAdditions property (Access)
 
-You can use the **AllowAdditions** property to specify whether a user can add a record when using a form. Read/write **Boolean**.
+Use the **AllowAdditions** property to specify whether a user can add a record when using a form. Read/write **Boolean**.
 
 
 ## Syntax

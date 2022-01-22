@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ObjectFrame.SourceObject property (Access)
 
-You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only **String**.
+Use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only **String**.
 
 
 ## Syntax

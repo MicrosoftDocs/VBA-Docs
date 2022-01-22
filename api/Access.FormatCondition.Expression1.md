@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # FormatCondition.Expression1 property (Access)
 
-You can use the **Expression1** property to return the values of a conditional format within a **FormatCondition** object. Read-only **String**.
+Use the **Expression1** property to return the values of a conditional format within a **FormatCondition** object. Read-only **String**.
 
 
 ## Syntax

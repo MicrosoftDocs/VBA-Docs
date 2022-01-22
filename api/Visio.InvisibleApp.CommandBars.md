@@ -45,7 +45,7 @@ To get information about the object returned by the **CommandBars** property:
     
 3. In the **Project/Library** list, choose **Office**.
     
-4. If you do not see the Office type library in the **Project/Library** list, on the **Tools** menu, choose **References**, select the **Microsoft Office 14.0 Object Library** check box, and then choose **OK**.
+4. If you don't see the Office type library in the **Project/Library** list, on the **Tools** menu, choose **References**, select the **Microsoft Office 14.0 Object Library** check box, and then choose **OK**.
     
 5. Under **Classes**, examine the class named **CommandBars**.
     

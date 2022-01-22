@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.Bookmark property (Access)
 
-You can use the **Bookmark** property with forms to set a bookmark that uniquely identifies a particular record in the form's underlying table, query, or SQL statement. Read/write **Variant**.
+Use the **Bookmark** property with forms to set a bookmark that uniquely identifies a particular record in the form's underlying table, query, or SQL statement. Read/write **Variant**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 > [!NOTE] 
 > You get or set the form's **Bookmark** property separately from the ADO **Bookmark** or DAO **Bookmark** property of the underlying table or query.
 
-When a bound form is opened in Form view, each record is assigned a unique bookmark. In Visual Basic, you can save the bookmark for the current record by assigning the value of the form's **Bookmark** property to a string variable. To return to a saved record after moving to a different record, set the form's **Bookmark** property to the value of the saved string variable. You can use the **StrComp** function to compare a **Variant** or string variable to a bookmark, or when comparing a bookmark against a bookmark. The third argument for the **StrComp** function must be set to a value of zero.
+When a bound form is opened in Form view, each record is assigned a unique bookmark. In Visual Basic, you can save the bookmark for the current record by assigning the value of the form's **Bookmark** property to a string variable. To return to a saved record after moving to a different record, set the form's **Bookmark** property to the value of the saved string variable. Use the **StrComp** function to compare a **Variant** or string variable to a bookmark, or when comparing a bookmark against a bookmark. The third argument for the **StrComp** function must be set to a value of zero.
 
 > [!NOTE] 
 > Bookmarks are not saved with the records that they represent and are only valid while the form is open. They are re-created by Microsoft Access each time a bound form is opened.
@@ -38,7 +38,7 @@ There is no limit to the number of bookmarks that you can save if each is saved 
 
 The **Bookmark** property is only available for the form's current record. To save a bookmark for a record other than the current record, move to the desired record and assign the value of the **Bookmark** property to a string variable that identifies this record.
 
-You can use bookmarks in any form that is based entirely on Access tables. However, other database products may not support bookmarks. For example, you can't use bookmarks in a form based on a linked table that has no primary index.
+Use bookmarks in any form that is based entirely on Access tables. However, other database products may not support bookmarks. For example, you can't use bookmarks in a form based on a linked table that has no primary index.
 
 Requerying a form invalidates any bookmarks set on records in the form. However, choosing **Refresh** on the **Records** menu doesn't affect bookmarks.
 

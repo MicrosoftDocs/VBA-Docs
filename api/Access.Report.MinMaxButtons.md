@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.MinMaxButtons property (Access)
 
-You can use the **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a report. Read/write **Byte**.
+Use the **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a report. Read/write **Byte**.
 
 
 ## Syntax

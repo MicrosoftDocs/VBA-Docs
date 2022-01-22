@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. 
 
-When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. You can use this property with an OLE Automation object to return the application of that object. Read-only.
+When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Use this property with an OLE Automation object to return the application of that object. Read-only.
 
 
 ## Syntax

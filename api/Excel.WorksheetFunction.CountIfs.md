@@ -42,7 +42,7 @@ Each cell in a range is counted only if all of the corresponding criteria specif
     
 If a cell in any argument is an empty cell, **CountIfs** treats it as a 0 value.
     
-You can use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
+Use the wildcard characters, question mark (?) and asterisk (*), in criteria. A question mark matches any single character; an asterisk matches any sequence of characters. If you want to find an actual question mark or asterisk, type a tilde (~) before the character.
     
 ## See also
 

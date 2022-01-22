@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # ComboBox.BackStyle property (Access)
 
-You can use the **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
+Use the **BackStyle** property to specify whether a control will be transparent. Read/write **Byte**.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PageNumber_|Required|**Variant**|A numeric expression that's a valid page number for the active form. If you leave this argument blank, the focus stays on the current page. You can use the _Right_ and _Down_ arguments to display the part of the page that you want to see.|
+| _PageNumber_|Required|**Variant**|A numeric expression that's a valid page number for the active form. If you leave this argument blank, the focus stays on the current page. Use the _Right_ and _Down_ arguments to display the part of the page that you want to see.|
 | _Right_|Optional|**Variant**|A numeric expression that's a valid horizontal offset for the page.|
 | _Down_|Optional|**Variant**|A numeric expression that's a valid vertical offset for the page.|
 

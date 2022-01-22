@@ -23,7 +23,7 @@ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' objec
 
 ## Remarks
 
-You can use the following **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
+Use the following **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
 
 
 - **xlColumn**

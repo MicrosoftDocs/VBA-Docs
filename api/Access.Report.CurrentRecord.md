@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Report.CurrentRecord property (Access)
 
-You can use the **CurrentRecord** property to identify the current record in the recordset being viewed. Read/write **Long**.
+Use the **CurrentRecord** property to identify the current record in the recordset being viewed. Read/write **Long**.
 
 
 ## Syntax

@@ -31,7 +31,7 @@ PpAlertLevel
 
 ## Remarks
 
-The value of the **DisplayAlerts** property is not reset once a macro stops running; it is maintained throughout a session. It is not stored across sessions, so when PowerPoint begins, it is reset to **ppAlertsNone**.
+The value of the **DisplayAlerts** property is not reset once a macro stops running; it is maintained throughout a session. It's not stored across sessions, so when PowerPoint begins, it is reset to **ppAlertsNone**.
 
 The value of the **DisplayAlerts** property can be one of these **PpAlertLevel** constants.
 

@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.CurrentSectionLeft property (Access)
 
-You can use this property to determine the distance in [twips](../language/glossary/vbe-glossary.md#twip) from the left side of the current section to the left side of the form. Read/write **Integer**.
+Use this property to determine the distance in [twips](../language/glossary/vbe-glossary.md#twip) from the left side of the current section to the left side of the form. Read/write **Integer**.
 
 
 ## Syntax

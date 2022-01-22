@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CheckBox.Undo method (Access)
 
-You can use the **Undo** method to reset a control or form when its value has been changed.
+Use the **Undo** method to reset a control or form when its value has been changed.
 
 
 ## Syntax

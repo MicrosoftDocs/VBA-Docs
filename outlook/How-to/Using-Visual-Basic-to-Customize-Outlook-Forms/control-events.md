@@ -45,7 +45,7 @@ The following controls fire the **Click** event when the user selects an item in
  **[OlkComboBox](../../../api/Outlook.OlkComboBox.md)**<br>
  **[OlkListBox](../../../api/Outlook.OlkListBox.md)**<br>
 
-The following controls do not support the **Click** event.<br>
+The following controls don't support the **Click** event.<br>
  **[ScrollBar](../../../api/Outlook.scrollbar.md)**<br>
  **[SpinButton](../../../api/Outlook.spinbutton.md)**<br>
  **[TabStrip](../../../api/Outlook.tabstrip.md)**<br>

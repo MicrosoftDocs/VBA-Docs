@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 Learn how to add an **Automation** object by using late binding at run time, and how to set a reference for early binding at design time.
 
-You can use an OLE programmatic identifier (sometimes called a ProgID) to create an automation object for run time binding. For example, if both Project and Word are installed on the computer, the following macro in Project creates a Word document named Doc1.docx, and then opens the **Save As** dialog box in Word.
+Use an OLE programmatic identifier (sometimes called a ProgID) to create an automation object for run time binding. For example, if both Project and Word are installed on the computer, the following macro in Project creates a Word document named Doc1.docx, and then opens the **Save As** dialog box in Word.
 
 ```vb
 Sub CreateWordDoc_Late() 

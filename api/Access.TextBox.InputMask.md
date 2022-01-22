@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # TextBox.InputMask property (Access)
 
-You can use the **InputMask** property to make data entry easier and to control the values that users can enter in a text box control. Read/write **String**.
+Use the **InputMask** property to make data entry easier and to control the values that users can enter in a text box control. Read/write **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** objec
 
 ## Remarks
 
-Input masks are helpful for data-entry operations such as an input mask for a **Phone Number** field that shows you exactly how to enter a new number: `(___) ___-____`. It is often easier to use the Input Mask Wizard to set the property for you.
+Input masks are helpful for data-entry operations such as an input mask for a **Phone Number** field that shows you exactly how to enter a new number: `(___) ___-____`. It's often easier to use the Input Mask Wizard to set the property for you.
 
 The **InputMask** property can contain up to three sections separated by semicolons (;).
 

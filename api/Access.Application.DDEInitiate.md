@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Application.DDEInitiate method (Access)
 
-You can use the **DDEInitiate** function to begin a dynamic data exchange (DDE) conversation with another application. The **DDEInitiate** function opens a DDE channel for transfer of data between a DDE server and a client application.
+Use the **DDEInitiate** function to begin a dynamic data exchange (DDE) conversation with another application. The **DDEInitiate** function opens a DDE channel for transfer of data between a DDE server and a client application.
 
 
 ## Syntax

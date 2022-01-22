@@ -17,7 +17,7 @@ Presents a set of related controls as a visual group.
 
 ## Remarks
 
-You can use a **TabStrip** to view different sets of information for related controls.
+Use a **TabStrip** to view different sets of information for related controls.
 
 A **TabStrip** is a control that contains a collection of one or more tabs.
 

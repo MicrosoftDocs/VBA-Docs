@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-You can use the **Move** method to programmatically move a form or report regardless of the value of the **Moveable** property.
+Use the **Move** method to programmatically move a form or report regardless of the value of the **Moveable** property.
 
 
 ## Example

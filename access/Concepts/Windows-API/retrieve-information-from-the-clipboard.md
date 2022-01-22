@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 ## Use the RunCommand method
 
-You can use the **[RunCommand](../../../api/Access.DoCmd.RunCommand.md)** method with the **acCmdPaste** constant to paste the contents of the Clipboard into the active control on a form or report. 
+Use the **[RunCommand](../../../api/Access.DoCmd.RunCommand.md)** method with the **acCmdPaste** constant to paste the contents of the Clipboard into the active control on a form or report. 
 
 The following example illustrates how to paste the contents of the Clipboard into a text box named txtNotes.
 

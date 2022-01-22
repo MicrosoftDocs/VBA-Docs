@@ -81,7 +81,7 @@ End Sub
 
 ## Returning and changing dialog box settings
 
-It is not very efficient to use a **Dialog** object to return or change a value for a dialog box when you can return or change it using a property or method. Also, in most, if not all, cases, when VBA code is used in place of accessing the **Dialog** object, code is simpler and shorter. Therefore, the following examples also include examples that use corresponding VBA properties to perform the same tasks.
+It's not very efficient to use a **Dialog** object to return or change a value for a dialog box when you can return or change it using a property or method. Also, in most, if not all, cases, when VBA code is used in place of accessing the **Dialog** object, code is simpler and shorter. Therefore, the following examples also include examples that use corresponding VBA properties to perform the same tasks.
 
 Prior to returning or changing a dialog box setting using the **[Dialog](../../../api/Word.Dialog.md)** object, you need to identify the individual dialog box. This is done by using the **[Dialogs](../../../api/Word.Dialogs.Count.md)** property with a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant. After you have instantiated a **Dialog** object, you can return or set options in the dialog box. The following example displays the right indent from the **Paragraphs** dialog box.
 
@@ -95,7 +95,7 @@ End Sub
 ```
 
 > [!NOTE] 
-> You can use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
+> Use the VBA properties and methods of Word to display the right indent setting for the paragraph. The following example uses the **[RightIndent](../../../api/Word.ParagraphFormat.RightIndent.md)** property of the **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object to display the right indent for the paragraph at the insertion point position.
 
 
 ```vb

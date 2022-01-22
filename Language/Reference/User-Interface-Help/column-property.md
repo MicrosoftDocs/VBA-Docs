@@ -39,7 +39,7 @@ If you specify only the column value, the **Column** property reads or writes th
 
 ## Remarks
 
-You can use **Column** to assign the contents of a combo box or list box to another control, such as a text box. For example, you can set the **ControlSource** property of a text box to the value in the second column of a list box.
+Use **Column** to assign the contents of a combo box or list box to another control, such as a text box. For example, you can set the **ControlSource** property of a text box to the value in the second column of a list box.
 If the user makes no selection when you refer to a column in a combo box or list box, the **Column** setting is **Null**. You can check for this condition by using the IsNull function.
 
 You can also use **Column** to copy an entire two-dimensional [array](../../Glossary/vbe-glossary.md#array) of values to a control. This syntax lets you quickly load a list of choices rather than individually loading each element of the list using **AddItem**.

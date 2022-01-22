@@ -30,7 +30,7 @@ Public strName As String
 
 For information about naming your variables, see [Visual Basic naming rules](visual-basic-naming-rules.md).
 
-Variables can be declared as one of the following [data types](../../reference/user-interface-help/data-type-summary.md): **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by using the **[Type](../../reference/user-interface-help/type-statement.md)** statement. 
+Variables can be declared as one of the following [data types](../../reference/user-interface-help/data-type-summary.md): **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you don't specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by using the **[Type](../../reference/user-interface-help/type-statement.md)** statement. 
 
 You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. 
 
@@ -58,7 +58,7 @@ The shorthand for the types is: % -integer; & -long; @ -currency; # -double; ! -
 
 ## Public statement
 
-You can use the **Public** statement to declare public module-level variables.
+Use the **Public** statement to declare public module-level variables.
 
 ```vb
 Public strName As String 
@@ -69,7 +69,7 @@ Public variables can be used in any procedures in the project. If a public varia
 
 ## Private statement
 
-You can use the **[Private](../../reference/user-interface-help/private-statement.md)** statement to declare private module-level variables.
+Use the **[Private](../../reference/user-interface-help/private-statement.md)** statement to declare private module-level variables.
 
 ```vb
 Private MyName As String 

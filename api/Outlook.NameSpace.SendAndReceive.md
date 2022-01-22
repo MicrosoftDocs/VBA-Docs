@@ -38,7 +38,7 @@ Calling the **SendAndReceive** method is asynchronous.
 
  **SendAndReceive** provides the programmatic equivalent to the **Send/Receive All** command that is available when you click **Tools** and then **Send/Receive**.
 
-If you do not need to synchronize all objects, you can use the **[SyncObjects](Outlook.SyncObjects.md)** collection object to select specific objects. For more information, see **[NameSpace.SyncObjects](Outlook.NameSpace.SyncObjects.md)**.
+If you don't need to synchronize all objects, you can use the **[SyncObjects](Outlook.SyncObjects.md)** collection object to select specific objects. For more information, see **[NameSpace.SyncObjects](Outlook.NameSpace.SyncObjects.md)**.
 
 All accounts defined in the current profile are used in **Send/Receive All**. If an online connection is required to perform the **Send/Receive All**, the connection is made according to user preferences.
 

@@ -36,7 +36,7 @@ End Sub
 
 ## Changing the lower bound
 
-You can use the **[Option Base](../../reference/user-interface-help/option-base-statement.md)** statement at the top of a [module](../../Glossary/vbe-glossary.md#module) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **[Dim](../../reference/user-interface-help/dim-statement.md)** statement declares the array variable with 365 elements.
+Use the **[Option Base](../../reference/user-interface-help/option-base-statement.md)** statement at the top of a [module](../../Glossary/vbe-glossary.md#module) to change the default index of the first element from 0 to 1. In the following example, the **Option Base** statement changes the index for the first element, and the **[Dim](../../reference/user-interface-help/dim-statement.md)** statement declares the array variable with 365 elements.
 
 
 ```vb

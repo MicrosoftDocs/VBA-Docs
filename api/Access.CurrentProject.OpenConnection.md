@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # CurrentProject.OpenConnection method (Access)
 
-You can use the **OpenConnection** method to open an ADO connection to an existing Microsoft Access project (.adp) or Access database as the current Access project or database in the Microsoft Access window.
+Use the **OpenConnection** method to open an ADO connection to an existing Microsoft Access project (.adp) or Access database as the current Access project or database in the Microsoft Access window.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[CurrentProject](Access.CurrentProje
 |:-----|:-----|:-----|:-----|
 | _BaseConnectionString_|Optional|**Variant**|A string expression that is the base connection string of the database.|
 | _UserID_|Optional|**Variant**|A string expression that is the name of the existing Access project, including the path name and the file name extension. If your network supports it, you can also specify a network path in the following form: \\Server\Share\Folder\Filename.adp|
-| _Password_|Optional|**Variant**|If you don't supply the file name extension, .adp is appended to the filename. You can use this method or the **OpenCurrentDatabase** method to open .adp files.|
+| _Password_|Optional|**Variant**|If you don't supply the file name extension, .adp is appended to the filename. Use this method or the **OpenCurrentDatabase** method to open .adp files.|
 
 ## Remarks
 

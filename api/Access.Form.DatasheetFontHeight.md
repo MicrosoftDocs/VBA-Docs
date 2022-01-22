@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.DatasheetFontHeight property (Access)
 
-You can use the **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
+Use the **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax

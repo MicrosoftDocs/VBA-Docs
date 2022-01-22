@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Form.GridY property (Access)
 
-You can use the **GridY** property (along with the **GridX** property) to specify the horizontal and vertical divisions of the alignment grid in form Design view. Read/write **Integer**.
+Use the **GridY** property (along with the **GridX** property) to specify the horizontal and vertical divisions of the alignment grid in form Design view. Read/write **Integer**.
 
 
 ## Syntax

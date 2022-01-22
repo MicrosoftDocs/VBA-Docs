@@ -19,9 +19,9 @@ The **FormatCondition** object represents a conditional format of a combo box or
 
 ## Remarks
 
-You can use the **FormatConditions** (_index_), where _index_ is the index number of the conditional format, to return a **FormatCondition** object.
+Use the **FormatConditions** (_index_), where _index_ is the index number of the conditional format, to return a **FormatCondition** object.
 
-Use the **[Add](access.formatconditions.add.md)** method to create a new conditional format. You can use the **Modify** method to change one of the formats, or the **Delete** method to delete a format.
+Use the **[Add](access.formatconditions.add.md)** method to create a new conditional format. Use the **Modify** method to change one of the formats, or the **Delete** method to delete a format.
 
 Use the **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderline**, and **ForeColor** properties of the **FormatCondition** object to control the appearance of formatted combo box and text box controls.
 

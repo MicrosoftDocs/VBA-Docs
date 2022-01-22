@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-Determines whether the value of an expression falls within a specified range of values. You can use this operator within SQL statements.
+Determines whether the value of an expression falls within a specified range of values. Use this operator within SQL statements.
 
 ## Syntax
 
@@ -43,7 +43,7 @@ If  _expr_, _value1_, or _value2_ is **Null**, **Between…And** returns a **Nul
 
 Because wildcard characters, such as `*`, are treated as literals, you cannot use them with the **Between…And** operator. For example, you cannot use `980*` and `989*` to find all postal codes that start with 980 to 989. 
 
-Instead, you have two alternatives for accomplishing this. You can add an expression to the query that takes the left three characters of the text field and use **Between…And** on those characters. Or you can pad the high and low values with extra characters—in this case, 98000 to 98999, or 98000 to 98999-9999 if using extended postal codes. (You must omit the - 0000 from the low values because otherwise 98000 is dropped if some postal codes have extended sections and others do not.)
+Instead, you have two alternatives for accomplishing this. You can add an expression to the query that takes the left three characters of the text field and use **Between…And** on those characters. Or you can pad the high and low values with extra characters—in this case, 98000 to 98999, or 98000 to 98999-9999 if using extended postal codes. (You must omit the - 0000 from the low values because otherwise 98000 is dropped if some postal codes have extended sections and others don't.)
 
 
 ## Example

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DataErr_|Required|**Integer**|The error code returned by the **Err** object when an error occurs. You can use the _DataErr_ argument with the **Error** function to map the number to the corresponding error message. |
+| _DataErr_|Required|**Integer**|The error code returned by the **Err** object when an error occurs. Use the _DataErr_ argument with the **Error** function to map the number to the corresponding error message. |
 | _Response_|Required|**Integer**|The setting determines whether an error message is displayed. The _Response_ argument can be one of the following intrinsic constants.<ul><li><p><b>acDataErrContinue</b>  Ignore the error and continue without displaying the default Microsoft Access error message. You can supply a custom error message in place of the default error message.</p></li><li><p><b>acDataErrDisplay</b>  (Default) Display the default Access error message.</p></li></ul>|
 
 ## Remarks

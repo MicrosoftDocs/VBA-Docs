@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the **Description** property to provide information about objects contained in the Database window as well as about individual table or query fields.
+Use the **Description** property to provide information about objects contained in the Database window as well as about individual table or query fields.
 
 
 ## Setting
