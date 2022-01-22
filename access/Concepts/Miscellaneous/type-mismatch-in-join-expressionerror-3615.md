@@ -16,7 +16,7 @@ ms.localizationpriority: high
 
 **Applies to:** Access 2013 | Access 2016
 
-A JOIN expression is attempting to join two tables on fields of incompatible data types. For example, you will get this error if you attempt to join a Memo field with a Text field.
+A JOIN expression is attempting to join two tables on fields of incompatible data types. For example, you'll get this error if you attempt to join a Memo field with a Text field.
 
 ## See also
 

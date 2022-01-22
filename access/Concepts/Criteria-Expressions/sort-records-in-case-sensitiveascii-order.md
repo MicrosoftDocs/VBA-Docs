@@ -55,7 +55,7 @@ End Function
 
 The preceding user-defined function, StrToHex, can be called from a query. When you pass the name of the sort field to this function, it will sort the field values in case-sensitive order. The following steps illustrate how to use the function.
 
-1. Create a query from which you will call this function.
+1. Create a query from which you'll call this function.
     
 2. In the **Show Table** dialog box, select the table that you want to sort, and then select **Add**.
     

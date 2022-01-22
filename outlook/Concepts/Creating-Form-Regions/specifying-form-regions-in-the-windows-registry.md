@@ -47,7 +47,7 @@ Outlook allows you to customize the standard form for each of the Outlook messag
 
  **Note** You cannot specify form regions for the root Outlook message class, **IPM**.
 
-You can add separate form regions as extra pages to a standard form, but you cannot replace any existing pages on the standard form and keep the form for the same Outlook message class. If you need to replace the default page or all pages of a standard form, you will have to derive a new message class for that form, specify a replacement form region to replace the default page or a replace-all form region to replace the entire form, and register that form region for the derived message class.
+You can add separate form regions as extra pages to a standard form, but you cannot replace any existing pages on the standard form and keep the form for the same Outlook message class. If you need to replace the default page or all pages of a standard form, you'll have to derive a new message class for that form, specify a replacement form region to replace the default page or a replace-all form region to replace the entire form, and register that form region for the derived message class.
 
 For example, you can create a replacement form region that replaces the **General** page of the Contact form, and register that form region for a message class derived from **IPM.Contact**, such as **IPM.Contact.MyContact**. You cannot register the form region for the **IPM.Contact** message class.
 

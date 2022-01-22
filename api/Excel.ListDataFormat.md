@@ -28,7 +28,7 @@ Use the **ListDataFormat** property of the **ListColumn** object to return a **L
 The following code example creates a linked list from a SharePoint list. It then checks to see if field 2 is required (field 1 is the ID field, which is read-only). If it's a required text field, the same data is written in all existing records.
 
 > [!NOTE] 
-> The following code example assumes that you will substitute a valid server name and the list GUID in the variables _strServerName_ and _strListGUID_. Additionally, the server name must be followed by `"/_vti_bin"` or the sample will not work.
+> The following code example assumes that you'll substitute a valid server name and the list GUID in the variables _strServerName_ and _strListGUID_. Additionally, the server name must be followed by `"/_vti_bin"` or the sample will not work.
 
 
 ```vb

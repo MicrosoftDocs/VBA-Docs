@@ -42,7 +42,7 @@ SELECT CustomerID AS [Customer Number]
 
 ## Restrict the result set
 
-More often than not, you will not want to retrieve all records from a table. You will want only a subset of those records based on some qualifying criteria. To qualify a **SELECT** statement, you must use a **[WHERE](where-clause-microsoft-access-sql.md)** clause, which will allow you to specify exactly which records you want to retrieve.
+More often than not, you'll not want to retrieve all records from a table. You'll want only a subset of those records based on some qualifying criteria. To qualify a **SELECT** statement, you must use a **[WHERE](where-clause-microsoft-access-sql.md)** clause, which will allow you to specify exactly which records you want to retrieve.
 
 ```sql
 SELECT * 

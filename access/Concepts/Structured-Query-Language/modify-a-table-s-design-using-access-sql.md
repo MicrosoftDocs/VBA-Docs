@@ -31,7 +31,7 @@ ALTER TABLE tblCustomers
 
 ```
 
-If you want to change the name of a field, you will have to remove the field and then recreate it. To remove a field, use the **DROP COLUMN** clause with the field name only.
+If you want to change the name of a field, you'll have to remove the field and then recreate it. To remove a field, use the **DROP COLUMN** clause with the field name only.
 
 
 

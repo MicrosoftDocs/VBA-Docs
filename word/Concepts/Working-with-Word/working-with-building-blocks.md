@@ -78,7 +78,7 @@ As mentioned previously, you can add an unlimited number of categories. However,
 
 ## Accessing an existing building block
 
-At some point you will want to access one of the building blocks that you have, whether that is a custom building block or one of the built-in building blocks. You could use the **BuildingBlockEntries** collection; however, because building blocks can share the same name, you would need to identify the type and category for the building block before knowing which one you want returned. Therefore, the best way to access existing building blocks is through the **BuildingBlocks** collection.
+At some point you'll want to access one of the building blocks that you have, whether that is a custom building block or one of the built-in building blocks. You could use the **BuildingBlockEntries** collection; however, because building blocks can share the same name, you would need to identify the type and category for the building block before knowing which one you want returned. Therefore, the best way to access existing building blocks is through the **BuildingBlocks** collection.
 
 The following code example accesses the building block that you added in the previous code example.
 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 Word enables you to generate documents by creating data-driven solutions. You can create a template document that includes a custom XML part and use content controls to bind to custom XML data by using XML mapping. Although the term  _template_ is used in this context, this document is not a Word template, but shares some characteristics of a Word template document. Then you can create a managed web-based application to build a new document based on the template document. The managed web-based application opens the template document, retrieves data from a Microsoft SQL Server database to build a new custom XML part, replaces the template document's custom XML part with the new part, and saves the template document as a new Word document.
 
-This walkthrough explains how to build a new template document and how to create a server-side application that generates documents that display data that is stored in a Microsoft SQL Server database. To build this application, you will complete the following two tasks:
+This walkthrough explains how to build a new template document and how to create a server-side application that generates documents that display data that is stored in a Microsoft SQL Server database. To build this application, you'll complete the following two tasks:
 
 1. Create a Word template document.
     

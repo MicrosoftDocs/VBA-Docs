@@ -34,7 +34,7 @@ You can also use the ODBC Connection String Builder to create the ODBC connectio
 The default setting for this property is the string "ODBC;", which Microsoft Access restores if you delete an existing setting. When the **ODBCConnectStr** property is set to "ODBC;", Microsoft Access will prompt you for a connection string whenever the query is used but won't store the connect string. You must enter a connection string in the **ODBCConnectStr** property box if you want Microsoft Access to store the connection string.
 
 > [!TIP] 
-> If you know the full connection string for the SQL database, enter it in the **ODBCConnectStr** property box. This way you will avoid the need to enter the connection string in the ODBC connection dialog box each time you use the query.
+> If you know the full connection string for the SQL database, enter it in the **ODBCConnectStr** property box. This way you'll avoid the need to enter the connection string in the ODBC connection dialog box each time you use the query.
 
 The connection string is different for different types of ODBC data sources. For example, to connect to the Human Resources data source on the HRSRVR server (a Microsoft SQL Server) by using the logon identification (ID) Smith and the password Sesame, you can use the following connection string.
 

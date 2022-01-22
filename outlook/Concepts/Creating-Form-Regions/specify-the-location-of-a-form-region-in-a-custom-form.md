@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Specify the Location of a Form Region in a Custom Form
 
-A form region is a piece of custom user interface that you add to a form. You can designate the form region to be displayed in one of several ways in a custom form. To do so, you will be specifying the **formRegionType** and **displayAfter** elements of the form region XML schema in the corresponding form region manifest XML file.
+A form region is a piece of custom user interface that you add to a form. You can designate the form region to be displayed in one of several ways in a custom form. To do so, you'll be specifying the **formRegionType** and **displayAfter** elements of the form region XML schema in the corresponding form region manifest XML file.
 
 
 ## On the Default Page
@@ -40,20 +40,20 @@ You can use the resulting custom form to display items of the same message class
 
 The first form region will be added to the bottom of the default page of the original standard form, and will be appended by the other form regions in the order that you have specified in the corresponding **displayAfter** element.
 
-For example, if you want to order three form regions, A, B, and C, that have the internal names **FormRegionA**, **FormRegionB**, and **FormRegionC** to be displayed in the order A, B, and C, you will specify the following in A's form region manifest XML file:
+For example, if you want to order three form regions, A, B, and C, that have the internal names **FormRegionA**, **FormRegionB**, and **FormRegionC** to be displayed in the order A, B, and C, you'll specify the following in A's form region manifest XML file:
 
 ```vb
 <formRegionType>adjoining</formRegionType>
 ```
 
-You will specify the following in B's form region manifest XML file:
+You'll specify the following in B's form region manifest XML file:
 
 ```vb
 <formRegionType>adjoining</formRegionType>
 <displayAfter>FormRegionA</displayAfter>
 ```
 
-You will specify the following in C's form region manifest XML file:
+You'll specify the following in C's form region manifest XML file:
 
 ```vb
 <formRegionType>adjoining</formRegionType>
@@ -78,7 +78,7 @@ For example, you have created a form region that has the internal name CustomPag
 <formRegionType>replace</formRegionType>
 ```
 
-When you register this form region in the Windows registry, you must not specify the message class of the original standard form, **IPM.Note**, but specify a derived message class, such as **IPM.Note.CustomPage**. For this example, you will register the form region under the current user key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**, by creating a key **IPM.Note.CustomPage**. You will then add a value of the type **REG_SZ**, specifying the internal name, **CustomPage**, of the form region as the name of the key, and the full local file path name to the form region manifest XML file, **c:\Form Regions\CustomPage.xml**, as the data of the key.
+When you register this form region in the Windows registry, you must not specify the message class of the original standard form, **IPM.Note**, but specify a derived message class, such as **IPM.Note.CustomPage**. For this example, you'll register the form region under the current user key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**, by creating a key **IPM.Note.CustomPage**. You'll then add a value of the type **REG_SZ**, specifying the internal name, **CustomPage**, of the form region as the name of the key, and the full local file path name to the form region manifest XML file, **c:\Form Regions\CustomPage.xml**, as the data of the key.
 
 ### To "replace" the entire standard form by a form region
 
@@ -96,7 +96,7 @@ For example, you have created a form region that has the internal name CustomMes
 <formRegionType>replaceall</formRegionType>
 ```
 
-When you register this form region in the Windows registry, you will specify a derived message class, such as **IPM.Note.CustomMessage**. For this example, you will register the form region under the current user key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**, by creating a key **IPM.Note.CustomMessage**. You will then add a value of the type **REG_SZ**, specifying the internal name, **CustomMessage**, of the form region as the name of the key, and the full local file path name to the form region manifest XML file, **c:\Form Regions\CustomMessage.xml**, as the data of the key.
+When you register this form region in the Windows registry, you'll specify a derived message class, such as **IPM.Note.CustomMessage**. For this example, you'll register the form region under the current user key, **HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions**, by creating a key **IPM.Note.CustomMessage**. You'll then add a value of the type **REG_SZ**, specifying the internal name, **CustomMessage**, of the form region as the name of the key, and the full local file path name to the form region manifest XML file, **c:\Form Regions\CustomMessage.xml**, as the data of the key.
 
 ## On Pages Other than the Default Page
 
@@ -128,20 +128,20 @@ You can use the resulting custom form to display items of the same message class
 
 The first form region will be added as a separate page of the original standard form, and will be appended by the other form regions in the order that you have specified in the corresponding **displayAfter** element.
 
-For example, if you want to order three separate form regions, A, B, and C, that have the internal names **FormRegionA**, **FormRegionB**, and **FormRegionC** to be displayed as separate pages in the order A, B, and C, you will specify the following in A's form region manifest XML file:
+For example, if you want to order three separate form regions, A, B, and C, that have the internal names **FormRegionA**, **FormRegionB**, and **FormRegionC** to be displayed as separate pages in the order A, B, and C, you'll specify the following in A's form region manifest XML file:
 
 ```vb
 <formRegionType>separate</formRegionType>
 ```
 
-You will specify the following in B's form region manifest XML file:
+You'll specify the following in B's form region manifest XML file:
 
 ```vb
 <formRegionType>separate</formRegionType>
 <displayAfter>FormRegionA</displayAfter>
 ```
 
-You will specify the following in C's form region manifest XML file:
+You'll specify the following in C's form region manifest XML file:
 
 ```vb
 <formRegionType>separate</formRegionType>

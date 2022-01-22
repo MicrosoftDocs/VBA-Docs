@@ -37,7 +37,7 @@ The **DisplayType** property uses the following settings.
 
 The **DisplayType** property determines the default setting of the **Display As Icon** check box in the **Paste Special** dialog box, available by choosing **Paste Special** on the **Edit** menu, and the **Insert Object** dialog box, displayed when inserting an unbound object frame. 
 
-When you display these dialog boxes in Form view, Datasheet view, or Design view, the **Display As Icon** check box is automatically selected if the **DisplayType** property is set to Icon. For example, you will see these boxes selected when using Visual Basic to set the control's **Action** property to **acOLEInsertObjDlg** or **acOLEPasteSpecialDlg**.
+When you display these dialog boxes in Form view, Datasheet view, or Design view, the **Display As Icon** check box is automatically selected if the **DisplayType** property is set to Icon. For example, you'll see these boxes selected when using Visual Basic to set the control's **Action** property to **acOLEInsertObjDlg** or **acOLEPasteSpecialDlg**.
 
 The **DisplayType** property setting has no effect on the state of the **Display As Icon** check box in the **Object** dialog box when you insert an object into an unbound object frame. When you paste an object from the Clipboard, the **Display As Icon** check box reflects the state of the object on the Clipboard.
 

@@ -32,7 +32,7 @@ This topic lists the properties that you cannot add to a **[Table](../../../api/
 
 ## Unsupported Computed Properties
 
-If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you will get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in  `object.property`):
+If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you'll get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in  `object.property`):
 
 
 - **AutoResolvedWinner**
@@ -85,7 +85,7 @@ If you attempt to add one of the computed properties listed below using **Column
     
 
 
-If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you will get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
+If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you'll get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
 
 
 - **AutoResolvedWinner**

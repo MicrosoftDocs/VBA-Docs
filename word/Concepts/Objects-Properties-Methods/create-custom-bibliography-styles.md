@@ -269,7 +269,7 @@ APA website source with no date entered: Kwan, Y. (n.d.). Retrieved from https:/
 
 As you can see, what is displayed is dependent upon on the data entered.
 
-The output of virtually every style needs to change depending on whether you have a "Corporate Author" or a "Normal Author." You will see how to use one of the most common rules for implementing such logic into your style, allowing you to display a corporate author if the corporate author is specified, and a normal author if the corporate author is not specified.
+The output of virtually every style needs to change depending on whether you have a "Corporate Author" or a "Normal Author." You'll see how to use one of the most common rules for implementing such logic into your style, allowing you to display a corporate author if the corporate author is specified, and a normal author if the corporate author is not specified.
 
 
 ### Solution overview

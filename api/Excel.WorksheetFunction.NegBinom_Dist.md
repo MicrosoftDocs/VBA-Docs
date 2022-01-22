@@ -40,7 +40,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-For example, you need to find 10 people with excellent reflexes, and you know the probability that a candidate has these qualifications is 0.3. **NegBinom_Dist** calculates the probability that you will interview a certain number of unqualified candidates before finding all 10 qualified candidates. 
+For example, you need to find 10 people with excellent reflexes, and you know the probability that a candidate has these qualifications is 0.3. **NegBinom_Dist** calculates the probability that you'll interview a certain number of unqualified candidates before finding all 10 qualified candidates. 
 
 Number_f and number_s are truncated to integers.
     

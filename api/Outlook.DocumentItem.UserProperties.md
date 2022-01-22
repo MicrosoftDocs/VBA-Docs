@@ -26,7 +26,7 @@ _expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md
 
 ## Remarks
 
-Even though **olWordDocumentItem** is a valid constant in the **[OlItemType](Outlook.OlItemType.md)** enumeration, user-defined fields cannot to be added to a **[DocumentItem](Outlook.DocumentItem.md)** object and you will receive an error when you try to programmatically add a user-defined field to a **DocumentItem** object.
+Even though **olWordDocumentItem** is a valid constant in the **[OlItemType](Outlook.OlItemType.md)** enumeration, user-defined fields cannot to be added to a **[DocumentItem](Outlook.DocumentItem.md)** object and you'll receive an error when you try to programmatically add a user-defined field to a **DocumentItem** object.
 
 
 ## See also

@@ -50,6 +50,6 @@ The following table shows the major objects in the Outlook object model.
 | **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**|Provides detailed information about an **AddressEntry** that represents an Exchange distribution list.| |
 | **[Recipient](../../../api/Outlook.Recipient.md)**|Represents a user or resource in Outlook, generally a mail message addressee.| |
 | **[Exception](../../../api/Outlook.Exception.md)**|The **Exception** object holds information about one instance of an **[AppointmentItem](../../../api/Outlook.AppointmentItem.md)** object which is an exception to a recurring series. Unlike most of the other Outlook objects, the **Exception** object is a read-only object.| |
-|Control|There are the Microsoft Forms 2.0 controls that exist in the control toolbox by default, and the Outlook controls that are installed on your computer by default and that you will add to the control toolbox before using them for the first time in a form.| |
+|Control|There are the Microsoft Forms 2.0 controls that exist in the control toolbox by default, and the Outlook controls that are installed on your computer by default and that you'll add to the control toolbox before using them for the first time in a form.| |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

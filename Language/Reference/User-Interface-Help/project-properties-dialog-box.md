@@ -43,7 +43,7 @@ The following table describes the tab options.
 |Option|Description|
 |:-----|:----------|
 |**Lock project**|Provides a way to lock your project and prevent someone from changing it.<br/><br/>**Lock project for viewing**: Locks the project so that it cannot be viewed or edited.|
-|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you do not check the **Lock project for viewing** option but set a password, you will be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
+|**Password to view project properties**|Sets the passwords that allow someone to view the project properties. <br/><br/>**Password**: Sets the password for the project. If you do not check the **Lock project for viewing** option but set a password, you'll be required to enter a password to open the Property window the next time you open the project.<br/><br/>**Confirm password**: Confirms the password typed in the **Password** box. The contents of the **Confirm password** box and the **Password** box must match when you press **OK** or you get an error.|
     
 
 ## Make tab

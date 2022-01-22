@@ -16,7 +16,7 @@ Microsoft Forms supports multiple levels of **Undo** and **Redo** commands. This
 
 CTRL+Z is the shortcut key for **Undo**; CTRL+Y is the shortcut key for **Redo**.
 
-You cannot undo or redo layering commands, such as **Send To Back** or **Bring To Front**. For example, if you select an object and choose **Move Backward** on the shortcut menu, you will not be able to undo or redo that action.
+You cannot undo or redo layering commands, such as **Send To Back** or **Bring To Front**. For example, if you select an object and choose **Move Backward** on the shortcut menu, you'll not be able to undo or redo that action.
 
 
 ## See also

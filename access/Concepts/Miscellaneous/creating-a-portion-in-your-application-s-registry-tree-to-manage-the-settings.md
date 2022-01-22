@@ -22,7 +22,7 @@ The easiest way to accomplish this is to export the existing Microsoft Access da
 For your application to load the appropriate portion of the Windows Registry key you must specify the location with the DAO **INIPath** property. Your application must set the **INIPath** property before executing any other DAO code. The scope of this setting is limited to your application and cannot be changed without restarting your application.
 
 > [!NOTE] 
-> Although creating a Microsoft Access database engine portion in your application's registry is more flexible than overwriting the Microsoft Access database engine default entries, it requires that you maintain the registry tree. Every time changes are required in the default settings, you will need to edit the Registry.
+> Although creating a Microsoft Access database engine portion in your application's registry is more flexible than overwriting the Microsoft Access database engine default entries, it requires that you maintain the registry tree. Every time changes are required in the default settings, you'll need to edit the Registry.
 
 ## See also
 

@@ -18,6 +18,6 @@ You add VBScript code to an Outlook form to respond to **Click** events that are
 
 With VBScript, you have full access to the Outlook object model, except for two areas: VBScript code cannot respond to events other than item and form events, and you cannot use named constants defined in the Outlook object type library.
 
-You can also use Visual Basic for Applications in Outlook to respond to Outlook events and to create macros that automate procedures. Unlike VBScript code, however, Visual Basic for Applications code cannot be contained in a form and so cannot accompany an item that is sent to other users. Note that VBScript is only applicable to extending a form with a form page; if you are extending a form with a form region, you will not be able to use VBScript and will have to use an add-in.
+You can also use Visual Basic for Applications in Outlook to respond to Outlook events and to create macros that automate procedures. Unlike VBScript code, however, Visual Basic for Applications code cannot be contained in a form and so cannot accompany an item that is sent to other users. Note that VBScript is only applicable to extending a form with a form page; if you are extending a form with a form region, you'll not be able to use VBScript and will have to use an add-in.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

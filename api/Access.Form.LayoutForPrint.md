@@ -32,7 +32,7 @@ When you choose a font in Microsoft Access, you are choosing either a screen fon
 
 **Printer fonts** are the letters, numbers, and symbols that are produced when you print a form. The available fonts are those fonts that were installed as part of your printer's setup, and depend on your printer.
 
-If you design a form on a system with a different printer than the one you will use to print, Access displays a message when you print the form to let you know that it was designed for another kind of printer. If you print the form anyway, your printer may substitute different fonts. Similarly, Access may substitute fonts if you change the **LayoutForPrint** property setting. For example, you might design a form with **LayoutForPrint** set to No, and then change the setting to Yes. You can reselect the font for each control to specify the appearance of the form.
+If you design a form on a system with a different printer than the one you'll use to print, Access displays a message when you print the form to let you know that it was designed for another kind of printer. If you print the form anyway, your printer may substitute different fonts. Similarly, Access may substitute fonts if you change the **LayoutForPrint** property setting. For example, you might design a form with **LayoutForPrint** set to No, and then change the setting to Yes. You can reselect the font for each control to specify the appearance of the form.
 
 
 
