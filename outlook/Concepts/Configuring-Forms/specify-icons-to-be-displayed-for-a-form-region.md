@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 When you define a form region for a custom message class, such as **IPM.Note.Customer**, you can specify custom icons to be displayed in the explorer, inspector, and the ribbon for items belonging to that message class. 
 
-Icons are specified as resources in a Win32 resource DLL file. You can refer to an icon file in the standard Win32 embedded icon notation. For example:
+Icons are specified as resources in a Win32 resource DLL file. Refer to an icon file in the standard Win32 embedded icon notation. For example:
 
 -  `<default>c:\myicon.ico<.default>` loads the default icon from the specified path, c:\
     

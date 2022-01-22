@@ -53,7 +53,7 @@ The following list demonstrates some things that you can do with the **SearchFor
     
 - Use complex criteria in the _WhereCondition_ argument, such as `Description = "Beverages" and CategoryID = 11`.
  
-- You can refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
+- Refer to fields that are in the record source of a form or report but are not displayed on the form or report. In the preceding example, neither `Description` nor `CategoryID` must be displayed on the form or report for the criteria to work.
     
 - Use logical operators, such as **<**, **>**, **AND**, **OR**, and **BETWEEN**. The **FindRecord** method only matches strings that equal, start with, or contain the string being searched for.
     

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Rectangle](Access.Rectangle.md)** o
 
 ## Remarks
 
-The **Properties** collection object is the collection of all the properties related to a control. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. 
+The **Properties** collection object is the collection of all the properties related to a control. Refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. 
 
 The first member object in the collection has an index value of 0, and the total number of member objects in the collection is the value of the **Properties** collection's **Count** property minus 1.
 

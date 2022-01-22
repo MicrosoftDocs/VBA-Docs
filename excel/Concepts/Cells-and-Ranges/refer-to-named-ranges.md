@@ -26,7 +26,7 @@ As explained above, it is usually created entering the name into the name box to
 
 ## WorkSHEET Specific Named Range   
 
-A WorkSHEET Specific Named Range refers to a range in a specific worksheet, and it is not global to all worksheets within a workbook. You can refer to this named range by just the name in the same worksheet, but from another worksheet you must use the worksheet name including "!"  the name of the range (example: the range "Name" "=Sheet1!Name"). 
+A WorkSHEET Specific Named Range refers to a range in a specific worksheet, and it is not global to all worksheets within a workbook. Refer to this named range by just the name in the same worksheet, but from another worksheet you must use the worksheet name including "!"  the name of the range (example: the range "Name" "=Sheet1!Name"). 
 
 The benefit is that you can use VBA code to generate new sheets with the same names for the same ranges within those sheets without getting an error saying that the name is already taken.   
 

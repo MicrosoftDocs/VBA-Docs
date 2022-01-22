@@ -97,7 +97,7 @@ The **PageIndex** property is more typically set at design time in a page's prop
 
 ## Refer to controls on a tab control page
 
-The controls you place on a tab control page are part of the same collection as all controls on the form. For this reason, each control on a tab control page must have a name that is unique with respect to all other controls on the same form. You can refer to controls on a tab control page by using the same syntax for controls on a form without a tab control. 
+The controls you place on a tab control page are part of the same collection as all controls on the form. For this reason, each control on a tab control page must have a name that is unique with respect to all other controls on the same form. Refer to controls on a tab control page by using the same syntax for controls on a form without a tab control. 
 
 ```vb
 Forms!Employees!HomePhone 

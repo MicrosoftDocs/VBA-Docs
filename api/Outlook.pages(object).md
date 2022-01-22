@@ -21,7 +21,7 @@ Each **Pages** collection provides the features to manage the number of pages in
 
 The default value of the **Pages** collection identifies the current **Page** of a collection.
 
-You can reference a **Page** by its index value. The index value reflects the ordinal position of the **Page** within the collection. The index of the first **Page** in a collection is 0; the index of the second **Page** is 1; and so on.
+Reference a **Page** by its index value. The index value reflects the ordinal position of the **Page** within the collection. The index of the first **Page** in a collection is 0; the index of the second **Page** is 1; and so on.
 
 
 ## Methods

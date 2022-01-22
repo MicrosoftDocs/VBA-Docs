@@ -21,7 +21,7 @@ The **AllViews** collection contains an **[AccessObject](Access.AccessObject.md)
 
 The **CurrentData** or **CodeData** object has an **AllViews** collection containing **AccessObject** objects that describe instances of all views specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllViews** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual **AccessObject** object in the **AllViews** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllViews** collection, it's better to refer to the view by name because a view's collection index may change.
+Refer to an individual **AccessObject** object in the **AllViews** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllViews** collection, it's better to refer to the view by name because a view's collection index may change.
 
 The **AllViews** collection is indexed beginning with zero. If you refer to a view by its index, the first view is AllViews(0), the second view is AllViews(1), and so on.
 

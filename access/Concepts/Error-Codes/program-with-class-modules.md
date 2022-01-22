@@ -75,6 +75,6 @@ When the procedure that creates this instance has finished executing, the instan
 
 Any properties that you set will affect this instance of the form's class, but won't be saved with the form. Also, a new instance of the form's class can't be created if the form is open in Design view.
 
-A nondefault instance of a form's class can't be referred to by name in the **[Forms](../../../api/Access.Forms.md)** collection. You can refer to it by index number only. Since you can create multiple nondefault instances of a form, and each instance has the same name, you can have more than one form with the same name in the **Forms** collection, without any means of distinguishing them other than by index number.
+A nondefault instance of a form's class can't be referred to by name in the **[Forms](../../../api/Access.Forms.md)** collection. Refer to it by index number only. Since you can create multiple nondefault instances of a form, and each instance has the same name, you can have more than one form with the same name in the **Forms** collection, without any means of distinguishing them other than by index number.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
