@@ -16,7 +16,7 @@ Assigns an object reference to a [variable](../../Glossary/vbe-glossary.md#varia
 
 ## Syntax
 
-**Set**_objectvar_ **=** {[ **New** ] _objectexpression_ | **Nothing** }
+**Set** _objectvar_ **=** {[ **New** ] _objectexpression_ | **Nothing** }
 
 <br/>
 
