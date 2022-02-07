@@ -133,7 +133,55 @@ Set cmdCommand = Nothing
 Set rstRecordSet = Nothing 
 Set cnnConn = Nothing
 ```
-
+This example use already existing WorkbookConnection.
+```vb
+ 
+ 'Get WorkbookConnection object
+ Dim conn As WorkbookConnection
+ Set conn =  ActiveWorkbook.Connections("MyConnectionName")
+ 
+ 'Declare temp variables
+ Dim connStr As String
+ Dim sqlStr As String
+ 
+ 'Store connection string and command text in variables depends on connection type
+ If conn.Type = xlConnectionTypeODBC Then
+   connStr = conn.ODBCConnection.Connection
+   sqlStr = conn.ODBCConnection.CommandText
+ End If
+  
+ If conn.Type = xlConnectionTypeOLEDB Then
+   connStr = conn.OLEDBConnection.Connection
+   sqlStr = conn.OLEDBConnection.CommandText
+ End If
+ 
+ 'Create PivotCache
+ Dim pcache As pivotCache
+ Set pcache = ActiveWorkbook.PivotCaches.Create(xlExternal, conn)
+ 
+ 'Then we need to get recordset to create pivot table
+ Dim adodb_conn As Object
+ Dim rs As Object
+ Set adodb_conn = CreateObject("ADODB.Connection")
+ Set rs = CreateObject("ADODB.Recordset")
+ adodb_conn.Open connStr
+ rs.Open sqlStr, adodb_conn
+ 
+ Set pcache.Recordset = rs
+ 'When CreatePivotTable method called the linked WorkbookConnection is losing connection string and command text
+ Set pvt = pcache.CreatePivotTable(TableDestination:=Sheets("MySheetName").Cells(1, 1), TableName:="MyPivotTableName")
+        
+ rs.Close
+ adodb_conn.Close
+ 
+ 'Restore CommandText and connection string
+ pcache.CommandText = sqlStr
+ pcache.Connection = connStr
+ 
+ ' Now you have PivotTable that linked with yours WorkbookConnection
+ 
+ 
+```
 
 
 
