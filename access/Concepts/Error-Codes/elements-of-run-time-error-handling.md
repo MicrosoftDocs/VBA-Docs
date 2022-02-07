@@ -107,7 +107,6 @@ In summary, Visual Basic searches back up the calls list for an enabled error ha
     
 - An error occurs within an active error handler. If you use the **Raise** method of the **Err** object to raise an error, you can force Visual Basic to search backward through the calls list for an enabled error handler.
     
-
 ## Getting information about an error
 
 After execution has passed to the error-handling routine, your code must determine which error has occurred and address it. Visual Basic and Access provide several language elements that you can use to get information about a specific error. Each is suited to different types of errors. Since errors can occur in different parts of your application, you need to determine which to use in your code based on what errors you expect.
@@ -189,7 +188,7 @@ Use the Error event to trap errors that occur on an Access form or report. For e
 The Error event procedure takes an integer argument, DataErr. When an Error event procedure runs, the DataErr argument contains the number of the Access error that occurred. Checking the value of the DataErr argument within the event procedure is the only way to determine the number of the error that occurred. The **Err** object isn't populated with error information after the Error event occurs. Use the value of the DataErr argument together with the **AccessError** method to determine the number of the error and its descriptive string.
 
 > [!NOTE] 
-> The **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.  
+> The **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.
 
 ### About the contributors
 
@@ -197,7 +196,7 @@ The Error event procedure takes an integer argument, DataErr. When an Error even
 
 - [Handling Access Errors with VBA](https://www.utteraccess.com/wiki/index.php/Error_Handling)
 
-UtterAccess is the premier Microsoft Access wiki and help forum. 
+UtterAccess is the premier Microsoft Access wiki and help forum.
 
 ## See also
 

@@ -22,7 +22,6 @@ Returns the sum of a set of values contained in a specified field on a query.
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the numeric data you want to add or an expression that performs a calculation using the data in that field. Operands in _expr_ can include the name of a table field, a constant, or a function (which can be either intrinsic or user-defined but not one of the other SQL aggregate functions).
 
-
 ## Remarks
 
 The **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
@@ -36,7 +35,6 @@ AS [Total Revenue] FROM [Order Details];
 ```
 
 Use the **Sum** function in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** based on an SQL query.
-
 
 ## Example
 
@@ -54,7 +52,7 @@ Sub SumX()
     Set dbs = OpenDatabase("Northwind.mdb") 
  
     ' Calculate the total sales for orders shipped to 
-    ' the United Kingdom.   
+    ' the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT" _ 
         & " Sum(UnitPrice*Quantity)" _ 
         & " AS [Total UK Sales] FROM Orders" _ 
