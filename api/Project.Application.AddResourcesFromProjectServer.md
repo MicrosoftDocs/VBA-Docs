@@ -32,7 +32,7 @@ The **AddResourcesFromProjectServer** method is only available in resource views
 
 ## Example
 
-The following example displays the **Build Team from Project Server** dialog box. First, Project adds the URL specified in **Collaboration Options** (**Collaborate** menu) to Microsoft Internet Explorer's list of trusted sites. Upon confirmation, Project switches to a **Resource Sheet** view and displays the **Build Team from Project Server** dialog box, if connected to My Computer in workgroup mode. Project displays the **Build Team from <Project Name>** dialog box when connected to Project Server.
+The following example displays the **Build Team from Project Server** dialog box. First, Project adds the URL specified in **Collaboration Options** (**Collaborate** menu) to Microsoft Internet Explorer's list of trusted sites. Upon confirmation, Project switches to a **Resource Sheet** view and displays the **Build Team from Project Server** dialog box, if connected to My Computer in workgroup mode. Project displays the **Build Team from _Project Name_** dialog box when connected to Project Server.
 
 ```vb
 Sub AddResources() 

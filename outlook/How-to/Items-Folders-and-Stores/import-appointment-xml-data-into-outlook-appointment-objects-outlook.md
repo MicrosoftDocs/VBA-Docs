@@ -2,7 +2,7 @@
 title: Import Appointment XML Data into Outlook Appointment Objects (Outlook)
 ms.prod: outlook
 ms.assetid: ecfd3849-877b-01ad-2b76-1a54e980f6e2
-ms.date: 06/08/2019
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -26,13 +26,13 @@ The `CreateAppointmentsFromXml` method accepts two input parameters, _applicatio
 
 |**Appointment data**|**Delimiting XML tag**|
 |:-----|:-----|
-|Entire set of appointment data|<appointments>|
-|Each appointment in the set|<appointment>|
-|Start time of an appointment|<starttime>|
-|End time of an appointment|<endtime>|
-|Title of an appointment|<subject>|
-|Location of an appointment|<location>|
-|Details of an appointment|<body>|
+|Entire set of appointment data|_appointments_|
+|Each appointment in the set|_appointment_|
+|Start time of an appointment|_starttime_|
+|End time of an appointment|_endtime_|
+|Title of an appointment|_subject_|
+|Location of an appointment|_location_|
+|Details of an appointment|_body_|
 
 The following example shows input data for the  _xml_ parameter.
 

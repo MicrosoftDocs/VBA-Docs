@@ -2,7 +2,7 @@
 title: OLE DB for OLAP properties used by Excel
 ms.prod: excel
 ms.assetid: 5caa2240-1f7b-08d7-c87b-ec30f3bcb441
-ms.date: 01/18/2019
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -19,7 +19,7 @@ Rather than address all the existing properties, this topic focuses on the prope
 |:-----|:-----|:-----|:-----|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_SAFETY_OPTIONS|Supported|OLAPUDFSecurity reg key or DBPROPVAL_MSMD_SAFETY_OPTIONS_ALLOW_SAFESee also: [Safety Options Property](https://msdn.microsoft.com/library/aa237323.aspx).|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_MDXCOMPATIBILITY|Supported|DBPROP_MSMD_MDXCOMPATIBILITY_70See also: [MDX Compatibility Property](https://msdn.microsoft.com/library/aa256070.aspx).|
-|DBPROPSET_MSOLAPINIT|DBPROP_MSMD_SOURCE_DSN_SUFFIX|DBPROP_MSMD_SOURCE_DSN in DBPROPSET_MSOLAPINIT is present|String "Prompt=CompleteRequired;Window Handle=0x<hwnd>"See also: [Source_DSN_Suffix Property](https://msdn.microsoft.com/library/aa237431.aspx).|
+|DBPROPSET_MSOLAPINIT|DBPROP_MSMD_SOURCE_DSN_SUFFIX|DBPROP_MSMD_SOURCE_DSN in DBPROPSET_MSOLAPINIT is present|String "Prompt=CompleteRequired;Window Handle=0x _hwnd_"See also: [Source_DSN_Suffix Property](https://msdn.microsoft.com/library/aa237431.aspx).|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_MDX_MISSING_MEMBER_MODE|Supported|If property is supported, Excel sets it to the string "Error". Ignored if not supported.|
 |DBPROPSET_DBINIT| [DBPROP_INIT_LCID](https://msdn.microsoft.com/library/ms719750.aspx)|Supported|Set before making the connection. It's possible to specify any LCID to be used in the connection. If translations are turned on for the connection, Excel sets this to the UI language (default). If property is not supported, Excel has no problem other than losing the functionality of having translations based on UI language.|
 |DBPROPSET_DBINIT| [DBPROP_INIT_PROMPT](https://msdn.microsoft.com/library/ms714342.aspx)|Supported|Not OLAP specific. Set before making the connection. If setting this property fails because a certain value is not supported, Excel ignores the failure.|
