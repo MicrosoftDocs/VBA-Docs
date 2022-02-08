@@ -32,12 +32,9 @@ _expression_ Required. A variable that represents a **[Document](Word.Document.m
 | _Comments_|Optional| **Variant**|Comments for the revision of the document being checked in (only applies if SaveChanges equals **True**).|
 | _MakePublic_|Optional| **Boolean**| **True** allows the user to perform a publish on the document after being checked in. This submits the document for the approval process, which can eventually result in a version of the document being published to users with read-only rights to the document (only applies if _SaveChanges_ equals **True**). The default is **False**.|
 
-
-
 ## Remarks
 
 To take advantage of the collaboration features built into Microsoft Word, documents must be stored on a Microsoft SharePoint Portal Server.
-
 
 ## Example
 
@@ -55,17 +52,12 @@ Sub CheckInOut(docCheckIn As String)
 End Sub
 ```
 
-<br/>
-
-To call the CheckInOut subroutine, use the following subroutine and replace  _"https://servername/workspace/report.doc"_ with the file name of an actual file located on the server mentioned in the Remarks section earlier.
+To call the CheckInOut subroutine, use the following subroutine and replace _"https://servername/workspace/report.doc"_ with the file name of an actual file located on the server mentioned in the Remarks section earlier.
 
 ```vb
 Sub CheckDocInOut() 
  Call CheckInOut (docCheckIn:="https://servername/workspace/report.doc") 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
