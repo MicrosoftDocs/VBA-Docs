@@ -2,22 +2,21 @@
 title: Save and Distribute a Form
 ms.prod: outlook
 ms.assetid: 265eb79c-ea22-a864-c1b5-9c7e3c269025
-ms.date: 06/08/2019
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
 
 # Save and Distribute a Form
 
-There are two ways in Microsoft Outlook to save a form that has customized form pages. (If you customize a form with form regions, the procedure to save the form region and make the form available is also different.)
+There are two ways in Microsoft Outlook to save a form that has customized form pages. If you customize a form with form regions, the procedure to save the form region and make the form available is also different.
 
-> [!NOTE] 
+> [!NOTE]
 > Outlook custom forms cannot be directly converted into other types of forms, such as Microsoft Exchange Web forms for Microsoft Outlook Web Access or Microsoft Office InfoPath forms.
-
 
 ## Forms customized with form regions
 
-To save the layout of the form region, click **Form Region**, and then click **orm Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry.
+To save the layout of the form region, click **Form Region**, and then click **Save Form Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry.
 
 For more information, see the following topics:
 
@@ -25,11 +24,9 @@ For more information, see the following topics:
     
 - [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
     
-
 ## Forms customized with form pages
 
-
-- Save the form in a forms library when you want to save a form to a location for easy access. There are three forms libraries. To open the libraries in an open form, on the **per** tab, in the **Form** group, click **Choose Form**. The libraries are listed in the     **x.
+- Save the form in a forms library when you want to save a form to a location for easy access. There are three forms libraries. To open the libraries in an open form, on the **Developer** tab, in the **Form** group, click **Choose Form**. The libraries are listed in the **Look In** box.
     
   - **Personal Forms Library**. Forms saved in this library are accessible only to you and are stored in your mailbox. Use this library when you create a form for your own personal use, such as a form to track mileage.
     

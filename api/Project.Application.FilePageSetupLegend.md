@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Creates a legend for printing views of task data.
 
-
 ## Syntax
 
 _expression_.**FilePageSetupLegend** (_Name_, _TextWidth_, _LegendOn_, _Alignment_, _Text_, _LabelFontName_, _LabelFontSize_, _LabelFontBold_, _LabelFontItalic_, _LabelFontUnderline_, _LabelFontColor_)
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
-
 
 ## Parameters
 
@@ -40,7 +38,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _LabelFontUnderline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _LabelFontColor_|Optional|**Long**|The color of the font. Can be one the **[PjColor](Project.PjColor.md)** constants; see the [PjColor constants](#pjcolor-constants) table.|
 
-<br/>
+
 
 ### Format codes
 
@@ -73,7 +71,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |&[Keyword]|Prints the keyword(s).|
 |&[_Field_Name_]|Prints the value of the field specified with _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. For example, &[Actual Cost].|
 
-<br/>
 
 ### PjColor constants
 
@@ -89,7 +86,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
 
-<br/>
 
 ## Return value
 
@@ -99,7 +95,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
 Using the **FilePageSetupLegend** method without specifying any arguments displays the **Page Setup** dialog box with the **Legend** tab selected.
 
-**Note**  **FilePageSetupLegend** works only with views of task data.
+**Note** **FilePageSetupLegend** works only with views of task data.
 
 To edit a legend where the _LabelFontColor_ can be a hexadecimal RGB value, use the **[FilePageSetupLegendEx](Project.Application.FilePageSetupLegendEx.md)** method.
 
