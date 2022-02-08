@@ -5,21 +5,20 @@ f1_keywords:
 - olfm10.chm3077159
 ms.prod: outlook
 ms.assetid: 250de388-e1e8-98a6-95bd-df3ff3eb6a0a
-ms.date: 06/08/2019
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
 
 # Enhance the Border Style, Color, and Special Effects of a Text Box Control
 
-The following example demonstrates the **orderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**, **kStyle](../../../api/Outlook.textbox.backstyle.md)**, * * **Color**, and ** ** **or](../../../api/Outlook.textbox.forecolor.md)** properties.
+The following example demonstrates the **[BorderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**, **[BackStyle](../../../api/Outlook.textbox.backstyle.md)**, **BorderColor**, and **[Forecolor](../../../api/Outlook.textbox.forecolor.md)** properties.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **en** event will activate. Make sure that the form contains:
 
-- Six **extBox](../../../api/Outlook.textbox.md)** controls named TextBox1 through TextBox6.
+- Six **[TextBox](../../../api/Outlook.textbox.md)** controls named TextBox1 through TextBox6.
 
-- Two **oggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2.
-
+- Two **[ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2.
 
 ```vb
 Dim TextBox1 

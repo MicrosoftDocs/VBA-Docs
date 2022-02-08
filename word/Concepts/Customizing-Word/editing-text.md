@@ -1,8 +1,8 @@
 ---
-title: Editing text
+title: Editing text (Word)
 ms.prod: word
 ms.assetid: 55c4d9ee-00f1-fcc6-72b1-2c19f25420a6
-ms.date: 06/08/2019
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
@@ -11,17 +11,22 @@ ms.localizationpriority: medium
 
 This topic includes Visual Basic examples related to the tasks identified in the following sections.
 
+[Determine whether text is selected](#determine-whether-text-is-selected)
+[Collapse a selection or range](#collapse-a-selection-or-range)
+[Extend a selection or range](#extend-a-selection-or-range)
+[Redefine a selection or range](#redefine-a-selection-or-range)
+[Change text](#change-text)
+
 For information about, and examples of, other editing tasks, see the following topics:
 
- [Returning text from a document](../Miscellaneous/returning-text-from-a-document.md)<br>
- [Selecting text in a document](selecting-text-in-a-document.md)<br>
- [Inserting text in a document](inserting-text-in-a-document.md)<br>
- [Manipulating a portion of a document](modifying-a-portion-of-a-document.md)<br>
+ [Returning text from a document](../Miscellaneous/returning-text-from-a-document.md)
+ [Selecting text in a document](selecting-text-in-a-document.md)
+ [Inserting text in a document](inserting-text-in-a-document.md)
+ [Manipulating a portion of a document](modifying-a-portion-of-a-document.md)
 
-## Determining whether text is selected
+## Determine whether text is selected
 
 The **Type](../../../api/Word.Selection.Type.md)** property of the **Selection](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
-
 
 ```vb
 Sub IsTextSelected() 
@@ -29,10 +34,9 @@ Sub IsTextSelected()
 End Sub
 ```
 
-## Collapsing a selection or range
+## Collapse a selection or range
 
-Use the **Collapse**method to collapse a **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
-
+Use the **Collapse** method to collapse a **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 ```vb
 Sub CollapseToBeginning() 
@@ -54,10 +58,9 @@ Sub CollapseToEnd()
 End Sub
 ```
 
-## Extending a selection or range
+## Extend a selection or range
 
-The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, * **MoveRight](../../../api/Word.Selection.MoveRight.md)**, ** **MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[ **Down](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Se **ion** object.
-
+The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, **[MoveRight](../../../api/Word.Selection.MoveRight.md)**, **[MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[MoveDown](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Selection** object.
 
 ```vb
 Sub ExtendSelection() 
@@ -65,8 +68,7 @@ Sub ExtendSelection()
 End Sub
 ```
 
-The following example uses the **MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
-
+The following example uses the **[MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
 
 ```vb
 Sub ExtendRange() 
@@ -77,16 +79,13 @@ Sub ExtendRange()
 End Sub
 ```
 
+## Redefine a selection or range
 
-## Redefining a selection or range
+Use the **GetRange** method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
-Use the **GetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+## Change text
 
-
-## Changing text
-
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **nge** object to "The ".
-
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **Range** object to "The ".
 
 ```vb
 Sub ChangeText() 
@@ -94,7 +93,7 @@ Sub ChangeText()
 End Sub
 ```
 
-You can also use the **Delete**method or the **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter**method or the **InertBefore** method. The following example deletes the first paragraph in the active document and inserts new text.
+You can also use the **Delete** method or the **Selection** object or the **Range** object to delete existing text, and then insert new text using the **InsertAfter** method or the **InertBefore** method. The following example deletes the first paragraph in the active document and inserts new text.
 
 ```vb
 Sub DeleteText() 
