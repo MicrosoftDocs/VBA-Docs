@@ -45,7 +45,7 @@ The following types of names in Microsoft Excel can be used with this method:
     
 - Defined names. You can specify any name in the language of the macro.
     
-- External references. Use the `!` operator to refer to a cell or to a name defined in another workbook; for example,  `Evaluate("[BOOK1.XLS]Sheet1!A1")`.
+- External references. Use the `!` operator to refer to a cell or to a name defined in another workbook; for example, `Evaluate("[BOOK1.XLS]Sheet1!A1")`.
     
 - Chart Objects. You can specify any chart object name, such as Legend, Plot Area, or Series 1, to access the properties and methods of that object. For example, `Charts("Chart1").Evaluate("Legend").Font.Name` returns the name of the font used in the legend.
     
