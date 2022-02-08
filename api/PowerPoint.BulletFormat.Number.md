@@ -36,7 +36,7 @@ If this property is queried for multiple paragraphs with different numbers, then
 
 ## Example
 
-This example returns the bullet number of paragraph one in the selected text range to a variable named  `myParnum`.
+This example returns the bullet number of paragraph one in the selected text range to a variable named `myParnum`.
 
 
 ```vb

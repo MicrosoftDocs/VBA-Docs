@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Occurs when the **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
-
 ## Syntax
 
 _expression_. `BeforeMove`( `_Cancel_` )
 
 _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,11 +32,9 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 This event can be cancelled after it has started.
 
-
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the explorer is moved by the user. If the user clicks **Yes**, the explorer can be moved by the user. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
-
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the explorer is moved by the user. If the user clicks **Yes**, the explorer can be moved by the user. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
 
 ```vb
 Public WithEvents myOlExp As Outlook.Explorer 

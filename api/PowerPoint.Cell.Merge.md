@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Cell](PowerPoint.Cell.md) object.
 
 ## Remarks
 
-For the MergeTo parameter, use the syntax  `.Cell(row, column)`.
+For the MergeTo parameter, use the syntax `.Cell(row, column)`.
 
 This method returns an error if the file name cannot be opened, or the presentation has a baseline.
 

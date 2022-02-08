@@ -31,7 +31,7 @@ The **Application** object contains:
 
 When you are writing code that will run from PowerPoint, you can use the following properties of the **Application** object without the object qualifier: **ActivePresentation**, **ActiveWindow**, **AddIns**, **Presentations**, **SlideShowWindows**, **Windows**.
 
-For example, instead of writing  `Application.ActiveWindow.Height = 200`, you can write  `ActiveWindow.Height = 200`.
+For example, instead of writing `Application.ActiveWindow.Height = 200`, you can write `ActiveWindow.Height = 200`.
 
 
 ## Example

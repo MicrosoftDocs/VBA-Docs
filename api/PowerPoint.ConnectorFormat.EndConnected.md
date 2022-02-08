@@ -42,7 +42,7 @@ The value of the **EndConnected** property can be one of these **MsoTriState** c
 
 ## Example
 
-If the end of the connector represented by shape three on the first slide in the active presentation is connected to a shape, this example stores the connection site number in the variable  `oldEndConnSite`, stores a reference to the connected shape in the object variable  `oldEndConnShape`, and then disconnects the end of the connector from the shape.
+If the end of the connector represented by shape three on the first slide in the active presentation is connected to a shape, this example stores the connection site number in the variable `oldEndConnSite`, stores a reference to the connected shape in the object variable `oldEndConnShape`, and then disconnects the end of the connector from the shape.
 
 
 ```vb

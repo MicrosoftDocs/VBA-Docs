@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example finds a custom property named  `LastDateContacted` for the contact 'Jeff Smith' and displays it to the user. To run this example, you need to replace 'Jeff Smith' with a valid contact name and create a user-defined property called `LastDateContacted` for the contact.
+This Visual Basic for Applications (VBA) example finds a custom property named `LastDateContacted` for the contact 'Jeff Smith' and displays it to the user. To run this example, you need to replace 'Jeff Smith' with a valid contact name and create a user-defined property called `LastDateContacted` for the contact.
 
 
 ```vb
