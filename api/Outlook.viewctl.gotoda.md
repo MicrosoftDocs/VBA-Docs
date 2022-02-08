@@ -11,22 +11,17 @@ ms.localizationpriority: medium
 
 Opens a calendar view of a specific date.
 
-
 ## Version Information
 
  **Version Added:** Outlook 2010
 
-
 ## Syntax
 
-_expression_.**GoToDate** **_(newDate)_**
+_expression_.**GoToDate _(newDate)_**
 
 _expression_ A variable that represents a **ViewCtl** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -11,19 +11,15 @@ ms.localizationpriority: medium
 
 Returns or sets an **Integer** that specifies the visual appearance of an object. Read/write.
 
-
 ## Syntax
 
 _expression_.**SpecialEffect**
 
 _expression_ A variable that represents a **ToggleButton** object.
 
-
 ## Remarks
 
 The settings for SpecialEffect are:
-
-
 
 |Value|Description|
 |:-----|:-----|

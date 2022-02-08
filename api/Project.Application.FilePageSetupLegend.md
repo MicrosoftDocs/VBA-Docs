@@ -30,15 +30,13 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _TextWidth_|Optional|**Integer**|The width of the text, in inches or centimeters.|
 | _LegendOn_|Optional|**Long**|The pages on which the legend appears. Can be one of the following **[PjLegend](Project.PjLegend.md)** constants: **pjNoLegend**, **pjAfterLastPage**, or **pjOnEveryPage**.|
 | _Alignment_|Optional|**Long**|The alignment of the text in the legend. Can be one of the following **[PjAlignment](Project.PjAlignment.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
-| _Text_|Optional|**String**|The text to display in the legend. The special [format codes](#format-codes) can be included as part of the legend.| 
+| _Text_|Optional|**String**|The text to display in the legend. The special [format codes](#format-codes) can be included as part of the legend.|
 | _LabelFontName_|Optional|**String**|The name of the font.|
 | _LabelFontSize_|Optional|**Integer**|The size of the font in points.|
 | _LabelFontBold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _LabelFontItalic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _LabelFontUnderline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _LabelFontColor_|Optional|**Long**|The color of the font. Can be one the **[PjColor](Project.PjColor.md)** constants; see the [PjColor constants](#pjcolor-constants) table.|
-
-
 
 ### Format codes
 
@@ -71,7 +69,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |&[Keyword]|Prints the keyword(s).|
 |&[_Field_Name_]|Prints the value of the field specified with _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. For example, &[Actual Cost].|
 
-
 ### PjColor constants
 
 |||
@@ -86,16 +83,15 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
 
-
 ## Return value
 
- **Boolean**
+Boolean
 
 ## Remarks
 
 Using the **FilePageSetupLegend** method without specifying any arguments displays the **Page Setup** dialog box with the **Legend** tab selected.
 
-**Note** **FilePageSetupLegend** works only with views of task data.
+**FilePageSetupLegend** works only with views of task data.
 
 To edit a legend where the _LabelFontColor_ can be a hexadecimal RGB value, use the **[FilePageSetupLegendEx](Project.Application.FilePageSetupLegendEx.md)** method.
 
