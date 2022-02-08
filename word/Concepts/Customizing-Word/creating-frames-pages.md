@@ -18,7 +18,7 @@ Frames and frames pages are created with a series of HTML tags. The Visual Basic
 
 ## Frames pages in HTML
 
-In HTML, frames pages and the frames they contain are built using a hierarchical set of **FRAMESET** and **FRAME** tags. A frameset can contain both frames and other framesets. For example, the following HTML creates a frameset with a frame on top and a frameset immediately below it. That frameset contains a frame on the left and a frameset on the right. That frameset contains two frames, one on top of the other.
+In HTML, frames pages and the frames they contain are built using a hierarchical set of &lt;FRAMESET&gt; and &lt;FRAME&gt; tags. A frameset can contain both frames and other framesets. For example, the following HTML creates a frameset with a frame on top and a frameset immediately below it. That frameset contains a frame on the left and a frameset on the right. That frameset contains two frames, one on top of the other.
 
 ```xml
 <FRAMESET ROWS="100, *"> 
