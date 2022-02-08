@@ -51,8 +51,6 @@ The following example opens the **Employees** form in Form view and displays onl
 DoCmd.OpenForm "Employees", , ,"LastName = 'King'"
 ```
 
-<br/>
-
 The following example opens the **frmMainEmployees** form in Form view and displays only records that apply to the department chosen in the **cboDept** combo box. The displayed records can be edited, and new records can be added.
 
 
@@ -61,8 +59,6 @@ Private Sub cmdFilter_Click()
     DoCmd.OpenForm "frmMainEmployees", , , "DepartmentID=" & cboDept.Value
 End Sub
 ```
-
-<br/>
 
 The following example shows how to use the _WhereCondition_ argument of the **OpenForm** method to filter the records displayed on a form as it is opened.
 

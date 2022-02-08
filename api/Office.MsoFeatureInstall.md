@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how the application handles calls to methods and properties that require features not yet installed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFeatureInstallNone**|0|Generates a generic automation error at run time when uninstalled features are called.|

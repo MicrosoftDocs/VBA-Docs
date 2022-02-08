@@ -37,8 +37,6 @@ Sub AddNewDocToTaskPane()
 End Sub
 ```
 
-<br/>
-
 Use the **Remove** method to remove an item from the **New Item** task pane. The following example removes the document added in the above example from Word's **New Document** task pane.
 
 ```vb

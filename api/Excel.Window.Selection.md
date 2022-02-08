@@ -40,8 +40,6 @@ Worksheets("Sheet1").Activate
 Selection.Clear
 ```
 
-<br/>
-
 This example displays the Visual Basic object type of the selection.
 
 ```vb

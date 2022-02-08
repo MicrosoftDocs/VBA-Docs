@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of a [SharedResource](Access.SharedResource.md) object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acResourceImage**|1|Image.|

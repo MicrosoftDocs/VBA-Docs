@@ -32,8 +32,6 @@ The following code example changes the caption for the first slicer in the first
 ActiveWorkbook.SlicerCaches(1).Slicers(1).Caption = "My Slicer"
 ```
 
-<br/>
-
 The following code example sets the width of the first slicer in the first slicer cache to equal 200 points.
 
 ```vb

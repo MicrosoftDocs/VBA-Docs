@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **PrintOut** method to specify the range to print.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPages**|2|A specific range of pages will be printed. Use the PageFrom and PageTo arguments to specify the range of pages to print.|

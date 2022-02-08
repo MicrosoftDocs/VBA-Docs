@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how the **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFilterComparisonContains**|8|Column matches CompareTo if any part of the CompareTo string is contained in the Column value.|

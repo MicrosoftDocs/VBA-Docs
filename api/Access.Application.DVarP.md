@@ -66,8 +66,6 @@ dblX = DVar("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 dblY = DVarP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 The following examples show how to use various types of criteria with the **DVarP** function.
 
 ```vb

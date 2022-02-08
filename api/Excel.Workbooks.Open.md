@@ -62,8 +62,6 @@ You can specify one of the following values in the _UpdateLinks_ parameter to de
 |0|External references (links) will not be updated when the workbook is opened.|
 |3|External references (links) will be updated when the workbook is opened.|
 
-<br/>
-
 You can specify one of the following values in the _Format_ parameter to determine the delimiter character for the file.
 
 |Value|Delimiter|
@@ -83,8 +81,6 @@ The following code example opens the workbook Analysis.xls and then runs its Aut
 Workbooks.Open "ANALYSIS.XLS" 
 ActiveWorkbook.RunAutoMacros xlAutoOpen
 ```
-
-<br/>
 
 The following code example imports a sheet from another workbook onto a new sheet in the current workbook. Sheet1 in the current workbook must contain the path name of the workbook to import in cell D3, the file name in cell D4, and the worksheet name in cell D5. The imported worksheet is inserted after Sheet1 in the current workbook.
 

@@ -37,23 +37,17 @@ For r = 1 To nms.Count
 Next
 ```
 
-<br/>
-
 Use the **Add** method to create a name and add it to the collection. The following example creates a new name that refers to cells A1:C20 on the worksheet named Sheet1.
 
 ```vb
 Names.Add Name:="test", RefersTo:="=sheet1!$a$1:$c$20"
 ```
 
-<br/>
-
 Use **Names** (_index_), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name mySortRange from the active workbook.
 
 ```vb
 ActiveWorkbook.Names("mySortRange").Delete
 ```
-
-<br/>
 
 This example uses a named range as the formula for data validation. This example requires the validation data to be on Sheet 2 in the range A2:A100. This validation data is used to validate data entered on Sheet1 in the range D2:D10.
 

@@ -18,8 +18,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) data type contai
 
 **UBound**(_arrayname_, [ _dimension_ ])
 
-<br/>
-
 The **UBound** function syntax has these parts.
 
 |Part|Description|

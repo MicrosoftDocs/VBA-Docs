@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Conversion keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |ANSI value to string.|[Chr](chr-function.md)|

@@ -89,8 +89,6 @@ Sub Print_Field_Names()
 End Sub
 ```
 
-<br/>
-
 The following example uses the **Recordset** property and the **Recordset** object to synchronize a recordset with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company, causing the form to display the found record.
 
 ```vb
@@ -107,8 +105,6 @@ Sub SupplierID_AfterUpdate()
     rst.Close 
 End Sub
 ```
-
-<br/>
 
 The following code helps to determine what type of recordset is returned by the **Recordset** property under different conditions.
 

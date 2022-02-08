@@ -73,8 +73,6 @@ namespace OutlookAddIn1
 }
 ```
 
-<br/>
-
 The following is the Visual Basic code sample.
 
 ```vb

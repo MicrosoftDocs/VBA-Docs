@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the vertical alignment of text in a text frame. Used with the **VerticalAnchor** property of the **TextFrame** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnchorBottom**|4|Aligns text to bottom of text frame.|

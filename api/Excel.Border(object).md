@@ -56,15 +56,11 @@ With ActiveChart.SeriesCollection(1).Trendlines(1)
 End With
 ```
 
-<br/>
-
 **Range** and **Style** objects have four discrete borders—left, right, top, and bottom—which can be returned individually or as a group. Use the **Borders** property to return the **Borders** collection, which contains all four borders and treats the borders as a unit. The following example adds a double border to cell A1 on worksheet one.
 
 ```vb
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
-
-<br/>
 
 Use **Borders** (_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
 

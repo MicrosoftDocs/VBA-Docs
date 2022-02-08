@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the background style for an object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBackgroundStyle1**|1|Specifies Style1.|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [DoCmd.TransferSharePointList method (Access)](Access.DoCmd.TransferSharePointList.md) method to specify whether to import or link to a SharePoint list.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acImportSharePointList**|0|Import the SharePoint list.|

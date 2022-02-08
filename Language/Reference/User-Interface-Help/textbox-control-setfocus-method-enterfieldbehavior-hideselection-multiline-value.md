@@ -40,8 +40,6 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-<br/>
-
 
 ```vb
 Private Sub ToggleButton1_Click() 
@@ -54,8 +52,6 @@ Private Sub ToggleButton1_Click()
  End If 
 End Sub
 ```
-
-<br/>
 
 
 ```vb
@@ -83,8 +79,6 @@ Private Sub UserForm_Initialize()
 
 End Sub
 ```
-
-<br/>
 
 
 ```vb

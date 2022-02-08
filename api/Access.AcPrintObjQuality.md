@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **PrintQuality** property to specify the resolution at which the specified printer should print jobs.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRPQDraft**|-1|The printer prints in draft quality.|

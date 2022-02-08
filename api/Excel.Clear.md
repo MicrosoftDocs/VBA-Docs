@@ -45,8 +45,6 @@ This example clears the formulas and formatting in cells A1:G37 on the datasheet
 myChart.Application.DataSheet.Range("A1:G37").Clear
 ```
 
-<br/>
-
 This example clears the chart area (the chart data and formatting) of Chart1.
 
 ```vb

@@ -83,8 +83,6 @@ Private Sub Colors_NotInList(NewData As String, _
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **NotInList** event to add an item to a bound combo box.
 
 ```vb
@@ -110,8 +108,6 @@ Private Sub cboDept_NotInList(NewData As String, Response As Integer)
     End If
 End Sub
 ```
-
-<br/>
 
 The following example shows how to add an item to a bound combo box.
 

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Returns the type of the specified Visual Basic module.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acClassModule**|1|The specified module is a class module.|

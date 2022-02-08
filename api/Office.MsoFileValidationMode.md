@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the file validation mode.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileValidationDefault**|0|Validate the file (default).|

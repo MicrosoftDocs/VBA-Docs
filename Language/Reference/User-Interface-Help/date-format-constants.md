@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 These constants are only available when your project has an explicit reference to the appropriate [type library](../../Glossary/vbe-glossary.md#type-library) containing these constant definitions.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbGeneralDate**|0|Display a date and/or time. For real numbers, display a date and time. If there is no fractional part, display only a date. If there is no integer part, display time only. Date and time display is determined by your system settings.|

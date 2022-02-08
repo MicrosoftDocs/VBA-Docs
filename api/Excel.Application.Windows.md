@@ -39,8 +39,6 @@ This example closes the first open or hidden window in Microsoft Excel.
 Application.Windows(1).Close
 ```
 
-<br/>
-
 This example names window one in the active workbook Consolidated Balance Sheet. This name is then used as the index to the **Windows** collection.
 
 ```vb

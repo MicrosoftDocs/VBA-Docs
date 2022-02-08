@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Provides the status of verifying whether the content of a document has changed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**contverresError**|0|The verification resulted in an error.|

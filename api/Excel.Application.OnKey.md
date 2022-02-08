@@ -63,8 +63,6 @@ To specify characters that aren't displayed when you press the corresponding key
 |UP ARROW| `{UP}`|
 |F1 through F15| `{F1}` through `{F15}`|
 
-<br/>
-
 You can also specify keys combined with Shift and/or Ctrl and/or Alt and/or Command. To specify a key combined with another key or keys, use the following table.
 
 |To combine keys with|Precede the key code by|
@@ -88,15 +86,11 @@ Application.OnKey "^{+}", "InsertProc"
 Application.OnKey "+^{RIGHT}", "SpecialPrintProc"
 ```
 
-<br/>
-
 This example returns Shift+Ctrl+Right Arrow to its normal meaning.
 
 ```vb
 Application.OnKey "+^{RIGHT}"
 ```
-
-<br/>
 
 This example disables the Shift+Ctrl+Right Arrow key sequence.
 

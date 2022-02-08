@@ -33,8 +33,6 @@ Sub UseAutoSaveOn()
 End Sub
 ```
 
-<br/>
-
 <a name="IssuesWithSaveEventsAndAutoSave"></a>
 
 ## Potential issues with save events and AutoSave
@@ -69,8 +67,6 @@ When AutoSave is enabled, this **BeforeSave** code runs automatically on a perio
 
 Add-ins should try to avoid long-running operations inside of a save event. In this example, the developer could choose to persist the custom maps to the file as they are created or modified by the user, rather than waiting for the save event.
 
-<br/>
-
 <a name="Issue2"></a>
 
 ### Issue 2: Code in save events surfaces a modal dialog
@@ -87,8 +83,6 @@ Consider removing any code that needs to display UI to other areas of the applic
 
 If you want validation code to trigger only on the first save from a new document but not on subsequent auto-saves, consider inspecting a property such as Excel's **Workbook.Path** before displaying any UI during **BeforeSave** or **AfterSave**. In Excel, the **Workbook.Path** property should be blank if the workbook does not yet have a save location.
 
-<br/>
-
 <a name="Issue3"></a>
 
 ### Issue 3: Code in save events clears the undo stack (Excel only)
@@ -103,8 +97,6 @@ An add-in might have code that runs in response to the **BeforeSave** event that
 
 Consider removing code that writes to the workbook in **BeforeSave** or **AfterSave** events. For example, the add-in described in the example scenario might be modified to store the change log in a separate file or database.
 
-<br/>
-
 <a name="Issue4"></a>
  
 ### Issue 4: Code in **AfterSave** dirties the workbook (Excel only)
@@ -114,8 +106,6 @@ When AutoSave is on, the **BeforeSave** and **AfterSave** events will only trigg
 #### Workaround
 
 Code that dirties the workbook in **AfterSave** should be moved to **BeforeSave** or to another location entirely (see [Issue 3](#Issue3)). This isn't a good practice today, even without AutoSave, because it leaves the workbook in a perpetual "dirty" state, which causes a prompt to appear on close that asks the user to save their changes even if they made no additional changes. 
-
-<br/>
 
 <a name="Issue5"></a>
 

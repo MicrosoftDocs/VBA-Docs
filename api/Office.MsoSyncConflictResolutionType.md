@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how conflicts should be resolved when synchronizing a shared document. Used with the **ResolveConflict** method of the **Sync** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncConflictClientWins**|0|Replace the server copy with the local copy.|

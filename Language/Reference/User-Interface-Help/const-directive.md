@@ -18,8 +18,6 @@ Used to define [conditional compiler constants](../../Glossary/vbe-glossary.md#c
 
 **#Const** _constname_ = _expression_
 
-<br/>
-
 The **#Const** compiler directive syntax has these parts:
 
 |Part|Description|

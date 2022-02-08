@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies orientation of an object when it is displayed or printed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrientationHorizontal**|1|Horizontal (landscape) orientation |

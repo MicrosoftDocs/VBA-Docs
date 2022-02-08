@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the size of the angle between the callout line and the side of the callout text box.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutAngle30**|2|30° angle|

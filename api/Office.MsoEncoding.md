@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the document encoding (code page or character set) for the web browser to use when a user views a saved document.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEncodingArabic**|1256|Arabic |

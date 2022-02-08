@@ -47,8 +47,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |U (atomic mass unit)|"u"|
 |Ounce mass (avoirdupois)|"ozm"|
 
-<br/>
-
 |Distance|From_unit or to_unit |
 |:-----|:-----|
 |Meter|"m"|
@@ -60,8 +58,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Angstrom|"ang"|
 |Pica (1/72 in.)|"Pica"|
 
-<br/>
-
 |Time|From_unit or to_unit |
 |:-----|:-----|
 |Year|"yr"|
@@ -70,23 +66,17 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Minute|"mn"|
 |Second|"sec"|
 
-<br/>
-
 |Pressure|From_unit or to_unit |
 |:-----|:-----|
 |Pascal|"Pa" (or "p")|
 |Atmosphere|"atm" (or "at")|
 |mm of Mercury|"mmHg"|
 
-<br/>
-
 |Force|From_unit or to_unit |
 |:-----|:-----|
 |Newton|"N"|
 |Dyne|"dyn" (or "dy")|
 |Pound force|"lbf"|
-
-<br/>
 
 |Energy|From_unit or to_unit |
 |:-----|:-----|
@@ -100,29 +90,21 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Foot-pound|"flb"|
 |BTU|"BTU" (or "btu")|
 
-<br/>
-
 |Power|From_unit or to_unit |
 |:-----|:-----|
 |Horsepower|"HP" (or "h")|
 |Watt|"W" (or "w")|
-
-<br/>
 
 |Magnetism|From_unit or to_unit |
 |:-----|:-----|
 |Tesla|"T"|
 |Gauss|"ga"|
 
-<br/>
-
 |Temperature|From_unit or to_unit |
 |:-----|:-----|
 |Degree Celsius|"C" (or "cel")|
 |Degree Fahrenheit|"F" (or "fah")|
 |Kelvin|"K" (or "kel")|
-
-<br/>
 
 |Liquid measure|From_unit or to_unit |
 |:-----|:-----|
@@ -135,8 +117,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 |Quart|"qt"|
 |Gallon|"gal"|
 |Liter|"l" (or "lt")|
-
-<br/>
 
 The following abbreviated unit prefixes can be prepended to any metric from_unit or to_unit. 
 
@@ -158,8 +138,6 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 |pico|1E-12|"p"|
 |femto|1E-15|"f"|
 |atto|1E-18|"a"|
-
-<br/>
 
 If the input data types are incorrect, **Convert** generates an error.
     

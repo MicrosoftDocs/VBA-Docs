@@ -20,8 +20,6 @@ Returns a string containing the name of the drive for a specified path.
 
 _object_.**GetDriveName** (_path_)
 
-<br/>
-
 The **GetDriveName** method syntax has these parts:
 
 |Part|Description|

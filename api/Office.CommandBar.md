@@ -39,8 +39,6 @@ If Not foundFlag Then
 End If
 ```
 
-<br/>
-
 Use a name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use a name to specify a menu, shortcut menu, or submenu (all of which are represented by **CommandBar** objects). This example adds a new menu item to the bottom of the **Tools** menu. When chosen, the new menu item runs the procedure named "qtrReport."
 
 ```vb
@@ -52,8 +50,6 @@ With newItem
     .OnAction = "qtrReport" 
 End With
 ```
-
-<br/>
 
 If two or more custom menus or submenus have the same name, **CommandBars(_index_)** returns the first one. To ensure that you return the correct menu or submenu, locate the pop-up control that displays that menu. Then apply the **CommandBar** property to the pop-up control to return the command bar that represents that menu. Assuming that the third control on the toolbar named **Custom Tools** is a pop-up control, this example adds the **Save** command to the bottom of that menu.
 

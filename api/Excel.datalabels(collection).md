@@ -32,8 +32,6 @@ With myChart.SeriesCollection(1)
 End With
 ```
 
-<br/>
-
 The following example sets the number format for the fifth data label in series one in the chart.
 
 ```vb

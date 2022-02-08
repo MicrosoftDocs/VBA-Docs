@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of callout line.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutFour**|4|Callout line made up of two line segments. Callout line is attached on the right side of the text bounding box.|

@@ -18,8 +18,6 @@ Returns a zero-based, one-dimensional [array](../../Glossary/vbe-glossary.md#arr
 
 **Split**(_expression_, [ _delimiter_, [ _limit_, [ _compare_ ]]])
 
-<br/>
-
 The **Split** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

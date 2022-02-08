@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies baseline text alignment.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBaselineAlignAuto**|5|Automatic alignment.|

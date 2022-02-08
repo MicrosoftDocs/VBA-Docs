@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # String manipulation keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Compare two strings.|[StrComp](strcomp-function.md)|

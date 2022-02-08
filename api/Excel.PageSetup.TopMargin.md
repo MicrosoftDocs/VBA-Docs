@@ -40,8 +40,6 @@ Worksheets("Sheet1").PageSetup.TopMargin = _
 Worksheets("Sheet1").PageSetup.TopMargin = 36
 ```
 
-<br/>
-
 This example displays the current top-margin setting.
 
 ```vb

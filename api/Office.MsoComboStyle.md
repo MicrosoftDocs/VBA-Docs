@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies whether the command bar combo box includes a label or not.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoComboLabel**|1|Combo box includes a label, specified by the **Caption** property of the combo box.|

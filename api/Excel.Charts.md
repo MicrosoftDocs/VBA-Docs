@@ -30,15 +30,11 @@ Use the **[Charts](Excel.Workbook.Charts.md)** property of the **Workbook** obje
 Charts.PrintOut
 ```
 
-<br/>
-
 Use the **[Add](excel.chartobjects.add.md)** method of the **ChartObjects** object to create a new chart sheet and add it to the workbook. The following example adds a new chart sheet to the active workbook and places the new chart sheet immediately after the worksheet named **Sheet1**.
 
 ```vb
 Charts.Add After:=Worksheets("Sheet1")
 ```
-
-<br/>
 
 You can combine the **Add** method with the **[ChartWizard](Excel.Chart.ChartWizard.md)** method of the **Chart** object to add a new chart that contains data from a worksheet. The following example adds a new line chart based on data in cells A1:A20 on the worksheet named **Sheet1**.
 
@@ -48,8 +44,6 @@ With Charts.Add
  Gallery:=xlLine, Title:="February Data" 
 End With
 ```
-
-<br/>
 
 Use **Charts** (_index_), where _index_ is the chart-sheet index number or name, to return a single **Chart** object. The following example changes the color of series 1 on chart sheet 1 to red.
 

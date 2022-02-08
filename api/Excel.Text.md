@@ -34,8 +34,6 @@ With myChart
 End With
 ```
 
-<br/>
-
 This example sets the axis title text for the category axis.
 
 ```vb

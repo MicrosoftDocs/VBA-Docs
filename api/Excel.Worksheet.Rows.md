@@ -38,8 +38,6 @@ This example deletes row three on Sheet1.
 Worksheets("Sheet1").Rows(3).Delete
 ```
 
-<br/>
-
 This example deletes all rows on worksheet one where the value of cell one in the row is the same as the value of cell one in the previous row.
 
 ```vb

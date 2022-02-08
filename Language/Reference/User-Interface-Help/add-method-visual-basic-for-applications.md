@@ -18,8 +18,6 @@ Adds a [member](../../Glossary/vbe-glossary.md#member) to a **[Collection](colle
 
 _object_.**Add** _item_, _key_, _before_, _after_
 
-<br/>
-
 The **Add** method syntax has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

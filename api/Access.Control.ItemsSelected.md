@@ -54,8 +54,6 @@ Sub BoundData()
 End Sub
 ```
 
-<br/>
-
 The following example uses the same list box control, but prints the values of each column for each selected row in the list box, instead of only the values in the bound column.
 
 ```vb

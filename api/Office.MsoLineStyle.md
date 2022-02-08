@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the style for a line.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineSingle**|1|Single line.|

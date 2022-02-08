@@ -56,8 +56,6 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
  FileName:="c:\my documents\testing.doc", link:=True
 ```
 
-<br/>
-
 This example adds a new command button to _myDocument_.
 
 ```vb

@@ -42,8 +42,6 @@ Forms!OrderForm!NewData
 Forms!OrderForm.Controls!NewData
 ```
 
-<br/>
-
 The next two examples show how you might refer to a control named **NewData** on a subform **ctlSubForm** contained in the form called **OrderForm**.
 
 ```vb
@@ -107,8 +105,6 @@ Private Sub cmdSearch_Click()
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
 ```vb
@@ -129,8 +125,6 @@ End If
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **OpenArgs** property to prevent a form from being opened from the navigation pane.
 
 ```vb
@@ -143,8 +137,6 @@ If Me.OpenArgs() <> "Valid User" Then
 End If
 End Sub
 ```
-
-<br/>
 
 The following example shows how to use the _WhereCondition_ argument of the **OpenForm** method to filter the records displayed on a form as it is opened.
 

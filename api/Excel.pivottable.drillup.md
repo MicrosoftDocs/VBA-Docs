@@ -47,8 +47,6 @@ ActiveSheet.PivotTables("PivotTable1").DrillUp ActiveSheet.PivotTables( _
       ActiveSheet.PivotTables("PivotTable1").PivotRowAxis.PivotLines(1)
 ```
 
-<br/>
-
 The following sample code demonstrates a level drill up on a PivotChart.
 
 ```vb
@@ -57,8 +55,6 @@ ActiveChart.PivotLayout.PivotTable.DrillUp ActiveChart.PivotLayout.PivotTable. _
       "[Customer].[Customer Geography].[Postal Code].&[2450]&[Coffs Harbour]"), _
       ActiveChart.PivotLayout.PivotTable.PivotRowAxis.PivotLines(1)
 ```
-
-<br/>
 
 The following sample code demonstrates a multi-level drill up on a PivotTable.
 
@@ -69,8 +65,6 @@ ActiveSheet.PivotTables("PivotTable1").DrillUp ActiveSheet.PivotTables( _
      PivotTables("PivotTable1").PivotRowAxis.PivotLines(1), _
      "[Customer].[Customer Geography].[Country]"
 ```
-
-<br/>
 
 The following sample code demonstrates a multi-level drill up on a PivotChart.
 

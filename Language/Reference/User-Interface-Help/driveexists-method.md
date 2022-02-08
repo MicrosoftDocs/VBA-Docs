@@ -20,8 +20,6 @@ Returns **True** if the specified drive exists; **False** if it does not.
 
 _object_.**DriveExists** (_drivespec_)
 
-<br/>
-
 The **DriveExists** method syntax has these parts:
 
 |Part|Description|

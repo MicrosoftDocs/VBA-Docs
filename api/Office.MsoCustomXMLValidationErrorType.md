@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates how validation errors will be cleared or generated.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCustomXMLValidationErrorAutomaticallyCleared**|1|Specifies that the error will clear itself whenever any change is made to the node it is bound to. |

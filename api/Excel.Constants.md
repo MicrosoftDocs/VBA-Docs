@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 This enumeration groups together constants used with various Excel methods.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xl3DBar**|-4099|3D Bar|

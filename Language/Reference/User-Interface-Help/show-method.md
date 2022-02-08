@@ -20,8 +20,6 @@ Displays a **[UserForm](userform-window.md)** object.
 
 [ _object_ ].**Show** _modal_
 
-<br/>
-
 The **Show** method syntax has these parts:
 
 |Part|Description|

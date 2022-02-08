@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the position of a legend relative to its associated chart.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acLegendPositionBottom**|3|Bottom edge of the chart|

@@ -40,8 +40,6 @@ With Worksheets(1).PivotTables("Pivot1")
 End With
 ```
 
-<br/>
-
 This example causes the PivotTable report to display 0 (zero) in cells that contain null values.
 
 ```vb

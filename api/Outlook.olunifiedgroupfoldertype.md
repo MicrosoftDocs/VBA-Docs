@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 Specifies the folder to be obtained for unified groups. Because groups have both a mail and a calendar folder, you can specify either the **olGroupMailFolder** or **olGroupCalendarFolder**.
 
-<br/>
-
 |Name| Value| Description|
 |:---|:-----|:-----------|
 | **olGroupCalendarFolder**|1|Assigns a calendar folder.|

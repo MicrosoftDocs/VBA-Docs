@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting **WordArt Shape** on the **WordArt** toolbar.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffectShapeArchDownCurve**|10|Text is an arch that curves down.|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **DisplayAs** property to specify what is displayed in an Attachment control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDisplayAsIcon**|1|The attachment is displayed as the icon for that file type.|

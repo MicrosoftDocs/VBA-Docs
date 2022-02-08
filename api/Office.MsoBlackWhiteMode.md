@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how a shape appears when viewed in black-and-white mode.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlackWhiteAutomatic**|1|Default behavior|

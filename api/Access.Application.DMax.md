@@ -73,8 +73,6 @@ curX = DMin("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 curY = DMax("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 In the next example, the _criteria_ argument includes the current value of a text box called OrderDate. The text box is bound to an **OrderDate** field in an Orders table. Note that the reference to the control isn't included in the double quotation marks (") that denote the strings. This ensures that each time the **DMax** function is called, Microsoft Access obtains the current value from the control.
 
 ```vb
@@ -82,8 +80,6 @@ Dim curX As Currency
 curX = DMax("[Freight]", "Orders", "[OrderDate] = #" _ 
     & Forms!Orders!OrderDate & "#")
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DMax** function.
 

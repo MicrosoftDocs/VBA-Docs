@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of conditional formatting to apply to a control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDataBar**|3|The conditional format is displayed as a data bar.|

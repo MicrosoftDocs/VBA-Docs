@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the shape type for an AutoShape object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShape10pointStar**|149|10-point star|

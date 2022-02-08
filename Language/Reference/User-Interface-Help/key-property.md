@@ -20,8 +20,6 @@ Sets a _key_ in a **[Dictionary](dictionary-object.md)** object.
 
 _object_.**Key** (_key_) = _newkey_
 
-<br/>
-
 The **Key** property has the following parts:
 
 |Part|Description|

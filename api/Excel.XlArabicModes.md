@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies spelling rules for the Arabic spelling checker.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlArabicBothStrict**|3|The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|

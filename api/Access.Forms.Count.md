@@ -39,8 +39,6 @@ forms.count
 currentproject.allforms.count
 ```
 
-<br/>
-
 The following example uses the **Count** property to control a loop that prints information about all open forms and their controls.
 
 ```vb

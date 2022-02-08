@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Registry keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Delete program settings.|[DeleteSetting](deletesetting-statement.md)|

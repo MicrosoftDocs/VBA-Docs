@@ -20,8 +20,6 @@ Creates a new Tool window containing the indicated **UserDocument** object.
 
 _object_.**CreateToolWindow** (_AddInInst, ProgID, Caption, GuidPosition, DocObj_) **As Window**
 
-<br/>
-
 The **CreateToolWindow** method syntax has these parts:
 
 |Part|Description|

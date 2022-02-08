@@ -20,8 +20,6 @@ Deletes a specified file.
 
 _object_.**DeleteFile** _filespec_, [ _force_ ]
 
-<br/>
-
 The **DeleteFile** method syntax has these parts:
 
 |Part|Description|

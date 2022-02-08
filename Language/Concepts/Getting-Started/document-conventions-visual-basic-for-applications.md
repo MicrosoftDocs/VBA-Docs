@@ -37,16 +37,12 @@ Readout.Text = _
 End Sub
 ```
 
-<br/>
-
 An apostrophe (') introduces code comments.
 
 ```vb
 ' This is a comment; these two lines
 ' are ignored when the program is running.
 ```
-
-<br/>
 
 Lines too long to fit on one line (except comments) may be continued on the next line by using a line-continuation character, which is a single leading space followed by an underscore ( _):
 

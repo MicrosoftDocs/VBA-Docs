@@ -45,8 +45,6 @@ Private Sub LastName_Change()
 End Sub
 ```
 
-<br/>
-
 The next example uses the **Undo** method to reset all changes to a form before the form is updated.
 
 ```vb

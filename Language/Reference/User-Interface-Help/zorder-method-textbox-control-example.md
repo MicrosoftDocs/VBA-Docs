@@ -38,8 +38,6 @@ End If
 End Sub
 ```
 
-<br/>
-
 
 ```vb
 Private Sub UserForm_Initialize() 

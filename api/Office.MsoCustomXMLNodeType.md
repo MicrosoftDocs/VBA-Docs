@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the node type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCustomXMLNodeAttribute**|2|The node is an attribute.|

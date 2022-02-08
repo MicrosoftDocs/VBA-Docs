@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how pictures are displayed on a column, bar picture chart, or legend key.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlStack**|2|Picture is sized to repeat a maximum of 15 times in the longest stacked bar.|

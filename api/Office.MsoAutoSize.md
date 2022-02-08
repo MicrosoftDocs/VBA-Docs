@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Determines the type of automatic sizing allowed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAutoSizeMixed**|-2|A combination of automatic sizing schemes are used.|

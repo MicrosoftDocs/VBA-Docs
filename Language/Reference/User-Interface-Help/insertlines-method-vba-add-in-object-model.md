@@ -18,8 +18,6 @@ Inserts a line or lines of code at a specified location in a block of code.
 
 _object_.**InsertLines** (_line_, _code_)
 
-<br/>
-
 The **InsertLines** syntax has these parts:
 
 |Part|Description|

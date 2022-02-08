@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [DoCmd.TransferText method (Access)](Access.DoCmd.TransferText.md) method to specify the type of transfer you want to make.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExportDelim**|2|Export Delimited|

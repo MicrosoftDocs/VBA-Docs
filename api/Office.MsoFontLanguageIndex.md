@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Represents one of the three language fonts contained in the **ThemeFonts** collection.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoThemeComplexScript**|2|Represents the font face for Complex Script languages. The Complex Script language collection supports Arabic, Georgian, Hebrew, Indian, Thai, and Vietnamese alphabets.|

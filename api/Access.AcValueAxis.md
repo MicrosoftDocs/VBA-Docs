@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 A list of value axes in a chart.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPrimaryAxis**|0|Primary axis|

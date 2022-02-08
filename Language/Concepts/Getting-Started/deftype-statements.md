@@ -39,8 +39,6 @@ The _letter1_ and _letter2_ arguments specify the name range for which you can s
 
 The statement name determines the data type.
 
-<br/>
-
 |Statement|Data type|
 |:-----|:-----|
 |**DefBool**|[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type)|
@@ -57,8 +55,6 @@ The statement name determines the data type.
 |**DefStr**|[String](../../Glossary/vbe-glossary.md#string-data-type)|
 |**DefObj**|[Object](../../Glossary/vbe-glossary.md#object)|
 |**DefVar**|[Variant](../../Glossary/vbe-glossary.md#variant-data-type)|
-
-<br/>
 
 For example, in the following program fragment, `Message` is a string variable.
 

@@ -20,8 +20,6 @@ Sub SetFirstPage()
 End Sub
 ```
 
-<br/>
-
 The **Item** method is the default method for most collections, so you can write the same statement more concisely by omitting the **Item** keyword.
 
 ```vb

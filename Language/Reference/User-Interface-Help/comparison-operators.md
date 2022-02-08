@@ -60,8 +60,6 @@ When comparing two expressions, you may not be able to easily determine whether 
 |One expression is [Empty](../../Glossary/vbe-glossary.md#empty) and the other is a numeric data type|Perform a numeric comparison, using 0 as the **Empty** expression.|
 |One expression is **Empty** and the other is a **String**|Perform a string comparison, using a zero-length string ("") as the **Empty** expression.|
 
-<br/>
-
 If _expression1_ and _expression2_ are both **Variant** expressions, their underlying type determines how they are compared. The following table shows how the expressions are compared or the result from the comparison, depending on the underlying type of the **Variant**.
 
 |If|Then|

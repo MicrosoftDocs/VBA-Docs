@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how to evenly distribute a collection of shapes. Used with the **Distribute** method of the **ShapeRange** collection.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDistributeHorizontally**|0|Distribute horizontally.|

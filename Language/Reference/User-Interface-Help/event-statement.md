@@ -18,8 +18,6 @@ Declares a user-defined event.
 
 [ **Public** ] **Event** _procedurename_ [ (_arglist_) ]
 
-<br/>
-
 The **Event** statement has these parts:
 
 |Part|Description|
@@ -27,13 +25,9 @@ The **Event** statement has these parts:
 |**Public**|Optional. Specifies that the **Event** is visible throughout the [project](../../Glossary/vbe-glossary.md#project). **Events** types are **Public** by default. Note that events can only be raised in the [module](../../Glossary/vbe-glossary.md#module) in which they are declared.|
 | _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **ByVal** | **ByRef** ] _varname_ [ ( ) ] [ **As** _type_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|
@@ -101,8 +95,6 @@ Private Sub mText_UpdateTime(ByVal dblJump As Double)
  DoEvents 
 End Sub
 ```
-
-<br/>
 
 The remaining code is in a class module named TimerState. The **Event** statements declare the procedures initiated when events are raised.
 

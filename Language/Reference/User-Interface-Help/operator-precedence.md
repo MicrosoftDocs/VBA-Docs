@@ -30,8 +30,6 @@ Arithmetic and logical operators are evaluated in the following order of precede
 |Addition and subtraction (`+`, `-`)|Greater than or equal to (`> =`)|**Imp**|
 |String concatenation (`&`)|**Like, Is**||
 
-<br/>
-
 When multiplication and division occur together in an expression, each operation is evaluated as it occurs from left to right. When addition and subtraction occur together in an expression, each operation is evaluated in order of appearance from left to right. 
 
 Parentheses can be used to override the order of precedence and force some parts of an expression to be evaluated before others. Operations within parentheses are always performed before those outside. Within parentheses, however, operator precedence is maintained.

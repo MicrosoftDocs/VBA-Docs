@@ -46,8 +46,6 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 ```
 
 
-<br/>
-
 The following code example adds a page break when the value of a cell in column A changes.
 
 ```vb

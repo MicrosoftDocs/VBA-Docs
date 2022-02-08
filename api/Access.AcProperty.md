@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [SetProperty](Access.DoCmd.SetProperty.md) method to specify which property to set for a control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPropertyBackColor**|8|Set the **BackColor** property.|

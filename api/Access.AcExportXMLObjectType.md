@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **ExportXML** method to specify the type of object to export.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExportForm**|2|Form|

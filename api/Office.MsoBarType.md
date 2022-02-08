@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of the command bar.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarTypeMenuBar**|1|Menu bar|

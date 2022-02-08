@@ -16,8 +16,6 @@ Specifies the return value of a **Sync** event. In Microsoft Word, used with the
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncEventDownloadFailed**|2|Download failed.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Represents the results of running a Document Inspector module.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDocInspectorStatusDocOk**|0|Indicates that the Document Inspector module returned no issues or errors.|

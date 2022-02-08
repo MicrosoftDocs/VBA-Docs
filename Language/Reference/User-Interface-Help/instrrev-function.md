@@ -18,8 +18,6 @@ Returns the position of an occurrence of one string within another, from the end
 
 **InstrRev**(_stringcheck_, _stringmatch_, [ _start_, [ _compare_ ]])
 
-<br/>
-
 The **InstrRev** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used by the **[ReadyState](Access.WebBrowserControl.ReadyState.md)** property to determine the state of the web browser control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acComplete**|3|The web browser control has finished loading the new document and all its contents.|

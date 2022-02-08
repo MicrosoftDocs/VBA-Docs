@@ -49,8 +49,6 @@ Close #1    ' Close file.
 
 ```
 
-<br/>
-
 The **Tab** function can also be used with the **Print** method. The following statement prints text starting at column 10.
 
 ```vb

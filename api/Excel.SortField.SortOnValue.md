@@ -43,8 +43,6 @@ With ActiveWorkbook.Worksheets("Sheet1").Sort
 End With
 ```
 
-<br/>
-
 This example sorts the data by cell color.
 
 ```vb
@@ -52,16 +50,12 @@ SortOn = xlSortOnCellColor
 SortOnValue.Color = RGB(255, 255, 0)
 ```
 
-<br/>
-
 This example sorts the data by font color.
 
 ```vb
 SortOn = xlSortOnFontColor 
 SortOnValue.Color = RGB(255, 255, 0)
 ```
-
-<br/>
 
 This example sorts the data by icons.
 

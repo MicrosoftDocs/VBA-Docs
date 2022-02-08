@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the location of the field in a PivotTable report.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlColumnField**|2|Specifies the Column field.|

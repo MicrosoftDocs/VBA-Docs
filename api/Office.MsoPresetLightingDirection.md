@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the location of lighting on an extruded (three-dimensional) shape relative to the shape.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightingBottom**|8|Lighting comes from the lower part.|

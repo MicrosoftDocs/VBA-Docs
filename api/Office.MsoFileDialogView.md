@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the view presented to the user in a file dialog box.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileDialogViewDetails**|2|Files displayed in a list with detail information.|

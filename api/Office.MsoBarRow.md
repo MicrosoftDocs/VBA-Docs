@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies whether a command bar is in the first row or last row relative to other command bars in the same docking area.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarRowFirst**|0|First row of docking area.|

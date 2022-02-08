@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies texture to be used to fill a shape.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPresetTextureMixed**|-2|Not used |

@@ -37,23 +37,17 @@ The following example displays the cell reference for the first name in the appl
 MsgBox Names(1).RefersTo
 ```
 
-<br/>
-
 The following example deletes the name "mySortRange" from the active workbook.
 
 ```vb
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
-<br/>
-
 Use the **Name** property to return or set the text of the name itself. The following example changes the name of the first **Name** object in the active workbook.
 
 ```vb
 Names(1).Name = "stock_values"
 ```
-
-<br/>
 
 The following example sets the **[Visible](Excel.Worksheet.Visible.md)** property for the first name assigned to cells A1:B1 on worksheet one.
 

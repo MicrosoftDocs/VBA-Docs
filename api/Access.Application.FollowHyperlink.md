@@ -68,8 +68,6 @@ Error_GetUserAddress:
 End Function
 ```
 
-<br/>
-
 You could call this function with a procedure such as the following.
 
 ```vb

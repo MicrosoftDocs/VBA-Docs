@@ -18,8 +18,6 @@ Deletes a single line or a specified range of lines.
 
 _object_.**DeleteLines** (_startline_, [ _count_ ])
 
-<br/>
-
 The **DeleteLines** syntax has these parts:
 
 |Part|Description|

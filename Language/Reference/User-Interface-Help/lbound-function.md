@@ -18,8 +18,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the s
 
 **LBound**(_arrayname_, [ _dimension_ ])
 
-<br/>
-
 The **LBound** function syntax has these parts:
 
 |Part|Description|

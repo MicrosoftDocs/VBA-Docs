@@ -39,15 +39,11 @@ This example sets the font size for cell C5 on Sheet1 of the active workbook to 
 Worksheets("Sheet1").Cells(5, 3).Font.Size = 14
 ```
 
-<br/>
-
 This example clears the formula in cell one on Sheet1 of the active workbook.
 
 ```vb
 Worksheets("Sheet1").Cells(1).ClearContents
 ```
-
-<br/>
 
 This example sets the font and font size for every cell on Sheet1 to 8-point Arial.
 
@@ -57,8 +53,6 @@ With Worksheets("Sheet1").Cells.Font
     .Size = 8 
 End With
 ```
-
-<br/>
 
 This example toggles a sort between ascending and descending order when you double-click any cell in the data range. The data is sorted based on the column of the cell that is double-clicked.
 
@@ -93,8 +87,6 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
     End If
 End Sub
 ```
-
-<br/>
 
 This example looks through column C of the active sheet, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
 

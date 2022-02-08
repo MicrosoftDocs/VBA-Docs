@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies whether and how to display chart elements.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoElementChartFloorNone**|1200|Do not display chart floor.|

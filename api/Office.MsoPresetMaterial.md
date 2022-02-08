@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the extrusion surface material. Used with the **PresetMaterial** property of the **ThreeDFormat** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMaterialClear**|13|Clear|

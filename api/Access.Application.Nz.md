@@ -64,23 +64,17 @@ varTemp = IIf(IsNull(varFreight), 0, varFreight)
 varResult = IIf(varTemp > 50, "High", "Low")
 ```
 
-<br/>
-
 In the next example, the **Nz** function provides the same functionality as the first expression, and the desired result is achieved in one line rather than two.
 
 ```vb
 varResult = IIf(Nz(varFreight) > 50, "High", "Low")
 ```
 
-<br/>
-
 If you supply a value for the optional argument _ValueIfNull_, that value will be returned when _Value_ is **Null**. By including this optional argument, you may be able to avoid the use of an expression containing the **IIf** function. For example, the following expression uses the **IIf** function to return a string if the value of `varFreight` is **Null**.
 
 ```vb
 varResult = IIf(IsNull(varFreight), "No Freight Charge", varFreight)
 ```
-
-<br/>
 
 In the next example, the optional argument supplied to the **Nz** function provides the string to be returned if `varFreight` is **Null**.
 

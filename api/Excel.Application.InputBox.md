@@ -82,8 +82,6 @@ This example prompts the user for a number.
 myNum = Application.InputBox("Enter a number")
 ```
 
-<br/>
-
 This example prompts the user to select a cell on Sheet1. The example uses the _Type_ argument to ensure that the return value is a valid cell reference (a **Range** object).
 
 ```vb
@@ -91,8 +89,6 @@ Worksheets("Sheet1").Activate
 Set myCell = Application.InputBox( _ 
     prompt:="Select a cell", Type:=8)
 ```
-
-<br/>
 
 This example uses an **InputBox** for the user to select a range to pass to the user-defined function _MyFunction_, which multiplies three values in a range together and returns the result.
 

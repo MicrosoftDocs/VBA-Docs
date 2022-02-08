@@ -51,8 +51,6 @@ Sub Print_Field_Names()
 End Sub
 ```
 
-<br/>
-
 The next example uses the **RecordsetClone** property and the **Recordset** object to synchronize a recordset's record with the form's current record. When a company name is selected from a combo box, the **FindFirst** method is used to locate the record for that company, and the **Recordset** object's DAO **Bookmark** property is assigned to the form's **Bookmark** property, causing the form to display the found record.
 
 ```vb
@@ -71,8 +69,6 @@ Sub SupplierID_AfterUpdate()
     rst.Close 
 End Sub
 ```
-
-<br/>
 
 Use the **RecordCount** property to count the number of records in a **Recordset** object. The following example shows how you can combine the **RecordCount** property and the **RecordsetClone** property to count the records in a form.
 

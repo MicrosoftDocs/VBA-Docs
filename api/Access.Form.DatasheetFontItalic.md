@@ -53,8 +53,6 @@ Forms![Products].DatasheetFontItalic = True
 Forms![Products].DatasheetFontUnderline = True
 ```
 
-<br/>
-
 The following example displays the data and field names in Datasheet view of the **Products** table as italic and underlined. To set the **DatasheetFontItalic** and **DatasheetFontUnderline** properties, the example uses the **SetTableProperty** procedure, which is in the database's standard module.
 
 ```vb

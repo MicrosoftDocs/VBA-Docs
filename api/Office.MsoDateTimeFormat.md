@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the format of a date/time data type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDateTimeddddMMMMddyyyy**|2|Specifies a ddddMMMMddyyyy format.|

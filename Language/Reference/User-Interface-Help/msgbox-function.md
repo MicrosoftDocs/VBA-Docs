@@ -19,8 +19,6 @@ Displays a message in a dialog box, waits for the user to click a button, and re
 
 **MsgBox** (_prompt_, [ _buttons_, ] [ _title_, ] [ _helpfile_, _context_ ])
 
-<br/>
-
 The **MsgBox** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -57,8 +55,6 @@ The _buttons_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 |**vbMsgBoxSetForeground**|65536|Specifies the message box window as the foreground window.|
 |**vbMsgBoxRight**|524288|Text is right-aligned.|
 |**vbMsgBoxRtlReading**|1048576|Specifies text should appear as right-to-left reading on Hebrew and Arabic systems.|
-
-<br/>
 
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When combining numbers to create a final value for the _buttons_ argument, use only one number from each group.
 

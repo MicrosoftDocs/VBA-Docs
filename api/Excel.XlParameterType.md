@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how to determine the value of the parameter for the specified query table.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlConstant**|1|Uses the value specified by the _Value_ argument.|

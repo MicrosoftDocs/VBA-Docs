@@ -35,8 +35,6 @@ With Worksheets("Sheet1").Range("B1")
 End With
 ```
 
-<br/>
-
 The **[Characters](Excel.Range.Characters.md)** property of the **Range** object is necessary only when you need to change some of an object's text without affecting the rest (you cannot use the **Characters** property to format a portion of the text if the object doesn't support rich text). To change all the text at the same time, you can usually apply the appropriate method or property directly to the object. The following example formats the contents of cell A5 as italic.
 
 ```vb

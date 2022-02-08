@@ -45,8 +45,6 @@ With Selection.Interior.Gradient.ColorStops.Add(1)
 End With
 ```
 
-<br/>
-
 The following example shows the color stops with rectangular gradients.
 
 ```vb

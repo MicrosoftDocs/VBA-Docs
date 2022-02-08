@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how to use the value specified in the _ExtraInfo_ parameter of the **FollowHyperlink** method.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMethodGet**|0|The value specified in the _ExtraInfo_ parameter is a string that is appended to the address.|

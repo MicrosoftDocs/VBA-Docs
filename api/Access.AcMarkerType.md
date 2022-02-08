@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the marker shape to use for plotting a series when its effective chart type is line-based.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acMarkerAsterisk**|4|Asterisk|

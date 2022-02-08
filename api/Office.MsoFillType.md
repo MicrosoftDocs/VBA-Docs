@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies a shape's fill type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFillBackground**|5|Fill is the same as the background.|

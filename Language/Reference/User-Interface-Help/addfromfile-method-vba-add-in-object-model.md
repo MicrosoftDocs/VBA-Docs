@@ -18,8 +18,6 @@ For the **References** collection, adds a reference to a [project](../../Glossar
 
 _object_.**AddFromFile** (_filename_)
 
-<br/>
-
 The **AddFromFile** syntax has these parts:
 
 |Part|Description|

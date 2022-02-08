@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the data entry mode when opening a table, query, stored procedure, view, or user-defined function.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAdd**|0|The user can add new records but can't view or edit existing records.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the bullet type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBulletMixed**|-2|Return value only; indicates a combination of the other states. |

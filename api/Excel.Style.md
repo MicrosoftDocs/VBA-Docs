@@ -38,8 +38,6 @@ Use the **[Style](excel.range.style.md)** property to return the **Style** objec
 Worksheets("Sheet1").Range("A1:A10").Style = "Percent"
 ```
 
-<br/>
-
 Use **[Styles](Excel.Workbook.Styles.md)** (_index_), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting the style's **Bold** property.
 
 ```vb

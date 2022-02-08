@@ -83,8 +83,6 @@ With ActiveSheet.QueryTables.Add( _
 End With
 ```
 
-<br/>
-
 This example imports a fixed width text file into a new query table. The first column in the text file is five characters wide and is imported as text. The second column is four characters wide and is skipped. The remainder of the text file is imported into the third column and has the General format applied to it.
 
 ```vb
@@ -100,8 +98,6 @@ With qtQtrResults
     .Refresh 
 End With
 ```
-
-<br/>
 
 This example creates a new query table on the active worksheet.
 

@@ -44,8 +44,6 @@ myDocument.Shapes(1).Flip msoFlipHorizontal
 myDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 
-<br/>
-
 Each shape is assigned a default name when you add it to the **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to _myDocument_, gives it the name Red Square, and then sets its foreground color and line style.
 
 ```vb
@@ -57,8 +55,6 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
  .Line.DashStyle = msoLineDashDot 
 End With
 ```
-
-<br/>
 
 The following example sets the fill for the first shape in the selection in the active window, assuming that there's at least one shape in the selection.
 

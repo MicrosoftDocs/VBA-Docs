@@ -19,8 +19,6 @@ Branch to one of several specified lines, depending on the value of an [expressi
 **On** _expression_ **GoSub** _destinationlist_ <br/>
 **On** _expression_ **GoTo** _destinationlist_
 
-<br/>
-
 The **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
 |Part|Description|

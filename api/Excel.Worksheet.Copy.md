@@ -47,8 +47,6 @@ This example copies Sheet1, placing the copy after Sheet3.
 Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 ```
 
-<br/>
-
 This example first copies Sheet1 to a new blank workbook, and then saves and closes the new workbook.
 
 ```vb
@@ -59,8 +57,6 @@ With ActiveWorkbook
 End With
 
 ```
-
-<br/>
 
 This example copies worksheets Sheet1, Sheet2, and Sheet4 to a new blank workbook, and then saves and closes the new workbook.
 

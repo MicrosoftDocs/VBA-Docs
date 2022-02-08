@@ -18,8 +18,6 @@ Declares [variables](../../Glossary/vbe-glossary.md#variable) and allocates stor
 
 **Dim** [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ] [ , [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ]] **. . .**
 
-<br/>
-
 The **Dim** statement syntax has these parts:
 
 |Part|Description|

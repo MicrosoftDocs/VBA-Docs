@@ -20,8 +20,6 @@ Combines a folder path and the name of a folder or file and returns the combinat
 
 _object_.**BuildPath** (_path_, _name_)
 
-<br/>
-
 The **BuildPath** method syntax has these parts:
 
 |Part|Description|

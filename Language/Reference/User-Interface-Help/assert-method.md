@@ -20,8 +20,6 @@ Conditionally suspends execution when _booleanexpression_ returns **False** at t
 
 _object_.**Assert** _booleanexpression_
 
-<br/>
-
 The **Assert** method syntax has the following object qualifier and argument:
 
 |Part|Description|

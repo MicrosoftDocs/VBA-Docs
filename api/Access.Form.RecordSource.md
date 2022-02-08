@@ -49,8 +49,6 @@ The following example sets a form's **RecordSource** property to the **Customers
 Forms!frmCustomers.RecordSource = "Customers"
 ```
 
-<br/>
-
 The next example changes a form's record source to a single record in the **Customers** table, depending on the company name selected in the **cmboCompanyName** combo box control. The combo box is filled by an SQL statement that returns the customer ID (in the bound column) and the company name. The CustomerID has a Text data type.
 
 ```vb

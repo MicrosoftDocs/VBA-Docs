@@ -20,8 +20,6 @@ Returns a **[VBComponent](vbcomponent-object-vba-add-in-object-model.md)** objec
 
 _object_.**AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
 
-<br/>
-
 The **AddCustom** method syntax has these parts:
 
 |Part|Description|

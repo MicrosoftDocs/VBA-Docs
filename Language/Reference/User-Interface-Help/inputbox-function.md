@@ -18,8 +18,6 @@ Displays a prompt in a dialog box, waits for the user to input text or click a b
 
 **InputBox**(_prompt_, [ _title_ ], [ _default_ ], [ _xpos_ ], [ _ypos_ ], [ _helpfile_, _context_ ])
 
-<br/>
-
 The **InputBox** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

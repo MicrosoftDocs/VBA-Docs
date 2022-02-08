@@ -27,8 +27,6 @@ _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](Outlook.DistListItem.md)** to be saved.|
 
-<br/>
-
 ## See also
 
 - [DistListItem Object](Outlook.DistListItem.md)

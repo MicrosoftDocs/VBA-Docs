@@ -18,8 +18,6 @@ Assigns an output line width to a file opened by using the **[Open](open-stateme
 
 **Width #**_filenumber_, _width_
 
-<br/>
-
 The **Width #** statement syntax has these parts:
 
 |Part|Description|

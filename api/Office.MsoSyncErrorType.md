@@ -16,8 +16,6 @@ Specifies a document synchronization error.
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncErrorCouldNotCompare**|13|Source and destination files could not be compared.|

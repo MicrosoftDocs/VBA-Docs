@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the character set to be used when rendering text.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCharacterSetArabic**|1|Arabic character set|

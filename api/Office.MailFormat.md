@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how the body of the email is displayed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**mfHTML**|2|The email is displayed as HyperText Markup Language (HTML).|

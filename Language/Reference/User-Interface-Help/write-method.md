@@ -20,8 +20,6 @@ Writes a specified string to a **TextStream** file.
 
 _object_.**Write** (_string_)
 
-<br/>
-
 The **Write** method syntax has these parts:
 
 |Part|Description|

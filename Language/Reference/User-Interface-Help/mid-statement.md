@@ -18,8 +18,6 @@ Replaces a specified number of characters in a **Variant** (**String**) [variabl
 
 **Mid**(_stringvar_, _start_, [ _length_ ] ) **=** _string_
 
-<br/>
-
 The **Mid** statement syntax has these parts:
 
 |Part|Description|

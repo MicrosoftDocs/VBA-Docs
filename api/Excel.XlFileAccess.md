@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the new access mode for the object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlReadOnly**|3|Read-only|

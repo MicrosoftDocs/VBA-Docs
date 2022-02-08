@@ -45,8 +45,6 @@ ActiveSheet.PivotTables("PivotTable1").DrillDown ActiveSheet.PivotTables( _
       ActiveSheet.PivotTables("PivotTable1").PivotRowAxis.PivotLines(1)
 ```
 
-<br/>
-
 The following sample code demonstrates the **DrillDown** method as used on a PivotChart.
 
 ```vb

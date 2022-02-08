@@ -20,8 +20,6 @@ Opens a specified file and returns a **[TextStream](textstream-object.md)** obje
 
 _object_.**OpenTextFile** (_filename_, [ _iomode_, [ _create_, [ _format_ ]]])
 
-<br/>
-
 The **OpenTextFile** method has these parts:
 
 |Part|Description|
@@ -41,8 +39,6 @@ The _iomode_ argument can have any of the following settings:
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
 |**ForWriting**|2|Open a file for writing only. Use this mode to replace an existing file with new data. You can't read from this file.|
 |**ForAppending**|8|Open a file and write to the end of the file. You can't read from this file.|
-
-<br/>
 
 The _format_ argument can have any of the following settings:
 

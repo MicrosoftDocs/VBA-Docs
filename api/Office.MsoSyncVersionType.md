@@ -16,8 +16,6 @@ Specifies which version of a shared document to open alongside the currently ope
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSyncVersionLastViewed**|0|Opens the copy of the document that is created whenever the user overwrites the local copy with the server copy.|

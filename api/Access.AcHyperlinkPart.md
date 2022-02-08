@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the information you want returned by the **HyperlinkPart** method.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAddress**|2|The address part of a Hyperlink field.|

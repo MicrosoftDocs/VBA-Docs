@@ -18,8 +18,6 @@ Executes a method of an object, or sets or returns a property of an [object](../
 
 **CallByName** (_object_, _procname_, _calltype_, [args()]_)
 
-<br/>
-
 The **CallByName** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

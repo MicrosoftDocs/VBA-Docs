@@ -22,8 +22,6 @@ Occurs when the **OnAction** [property](../../Glossary/vbe-glossary.md#property)
 
 **Sub**_object_**\_Click** (**ByVal** _ctrl_ **As Object**, **ByRef** _handled_ **As Boolean**, **ByRef** _canceldefault_ **As Boolean**)
 
-<br/>
-
 The **Click** event syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

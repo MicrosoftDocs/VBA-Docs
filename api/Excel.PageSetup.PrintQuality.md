@@ -38,8 +38,6 @@ This example sets the print quality on a printer with non-square pixels. The arr
 Worksheets("Sheet1").PageSetup.PrintQuality = Array(240, 140)
 ```
 
-<br/>
-
 This example displays the current setting for horizontal print quality.
 
 ```vb

@@ -19,8 +19,6 @@ Controls access by other processes to all or part of a file opened by using the 
 **Lock** [ # ] _filenumber_, [ _recordrange_ ] **. . .** <br/>
 **Unlock** [ # ] _filenumber_, [ _recordrange_ ]
 
-<br/>
-
 The **Lock** and **Unlock** statement syntax has these parts:
 
 |Part|Description|
@@ -33,8 +31,6 @@ The **Lock** and **Unlock** statement syntax has these parts:
 The _recordrange_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 _recnumber_ | [ _start_ ] **To** _end_
-
-<br/>
 
 |Setting|Description|
 |:-----|:-----|

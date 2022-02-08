@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 The following special formatting and Visual Basic for Applications (VBA) codes can be included as a part of the header and footer properties (**[LeftHeader](../../../api/Excel.Page.LeftHeader.md)**, **[CenterHeader](../../../api/Excel.Page.CenterHeader.md)**, **[RightHeader](../../../api/Excel.PageSetup.RightHeader.md)**, **[LeftFooter](../../../api/Excel.Page.LeftFooter.md)**, **[CenterFooter](../../../api/Excel.Page.CenterFooter.md)**, and **[RightFooter](../../../api/Excel.Page.RightFooter.md)**).
 
-<br/>
-
 |**Format code**|**Description**|
 |:-----|:-----|
 |&L|Left aligns the characters that follow.|
@@ -33,8 +31,6 @@ The following special formatting and Visual Basic for Applications (VBA) codes c
 |&"+"|Prints the characters that follow in the **Heading** font of the current theme. Be sure to include the double quotation marks.|
 |&"-"|Prints the characters that follow in the **Body** font of the current theme. Be sure to include the double quotation marks.|
 |&K _xx_. _S_ _nnn_|Prints the characters that follow in the specified color from the current theme.<br/><br/>_xx_ is a two-digit number from 1 to 12 that specifies the theme color to use.<br/><br/>_S_ _nnn_ specifies the shade (tint) of that theme color. Specify _S_ as + to produce a lighter shade; specify _S_ as - to produce a darker shade.<br/><br/>_nnn_ is a three-digit whole number that specifies a percentage from 0 to 100.<br/><br/>If the values that specify the theme color or shade are not within the described limits, Excel will use the nearest valid value.|
-
-<br/>
 
 |**VBA code**|**Description**|
 |:-----|:-----|

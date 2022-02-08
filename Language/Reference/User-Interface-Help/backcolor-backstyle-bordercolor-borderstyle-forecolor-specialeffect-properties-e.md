@@ -106,8 +106,6 @@ End If
 End Sub
 ```
 
-<br/>
-
 
 ```vb
 Private Sub ToggleButton2_Click() 

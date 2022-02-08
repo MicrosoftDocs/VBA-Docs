@@ -36,8 +36,6 @@ The following example adds drop lines to chart group 1 on chart sheet 1.
 Charts(1).ChartGroups(1).HasDropLines = True
 ```
 
-<br/>
-
 If the chart has been activated, you can use the **ActiveChart** property.
 
 ```vb

@@ -71,8 +71,6 @@ Private Sub cmdSearch_Click()
 End Sub
 ```
 
-<br/>
-
 The following example shows how to set the **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
 ```vb
@@ -86,8 +84,6 @@ Private Sub Form_Load()
     cboDept.RowSource = "SELECT Department FROM tblDepartments"
 End Sub
 ```
-
-<br/>
 
 The following example shows how to create a combo box that is bound to one column while displaying another. Setting the **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
 
@@ -103,8 +99,6 @@ Private Sub cboDept_Enter()
     End With
 End Sub
 ```
-
-<br/>
 
 The following example shows how to add an item to a bound combo box.
 

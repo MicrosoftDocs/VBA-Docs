@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the number of times a character is printed to darken the image.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoDoubleStrike**|2|Specifies that the character is printed twice.|

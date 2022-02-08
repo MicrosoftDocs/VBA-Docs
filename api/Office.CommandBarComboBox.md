@@ -40,8 +40,6 @@ With combo
 End With
 ```
 
-<br/>
-
 You can also use the **FindControl** method to return a **CommandBarComboBox** object. The following example searches all command bars for a visible **CommandBarComboBox** object whose tag is "sheet assignments."
 
 ```vb

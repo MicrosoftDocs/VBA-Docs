@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the style for a gradient fill.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientDiagonalDown**|4|Diagonal gradient moving from a top corner down to the opposite corner.|

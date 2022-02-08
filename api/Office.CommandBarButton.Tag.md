@@ -63,8 +63,6 @@ Sub Use_Tag()
 End Sub
 ```
 
-<br/>
-
 This example sets the tag for the button on the custom command bar to **Spelling Button** and displays the tag in a message box.
 
 ```vb

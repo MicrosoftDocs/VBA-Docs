@@ -49,8 +49,6 @@ To return the value of the **MultiSelect** property for a list box named **Count
 Dim b As Byte b = Forms("Order Entry").Controls("Country").MultiSelect
 ```
 
-<br/>
-
 To set the **MultiSelect** property, you can use the following.
 
 ```vb

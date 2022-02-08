@@ -36,8 +36,6 @@ This example inserts a new row before row four on the datasheet.
 myChart.Application.DataSheet.Rows(4).Insert
 ```
 
-<br/>
-
 This example inserts new cells at the range A1:C5 on the datasheet and shifts cells downward.
 
 ```vb

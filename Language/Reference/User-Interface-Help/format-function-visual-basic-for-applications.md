@@ -20,8 +20,6 @@ Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glo
 
 **Format**(_Expression_, [ _Format_ ], [ _FirstDayOfWeek_ ], [ _FirstWeekOfYear_ ])
 
-<br/>
-
 The **Format** function syntax has these parts.
 
 |Part|Description|
@@ -45,8 +43,6 @@ The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
-
-<br/>
 
 The _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings.
 

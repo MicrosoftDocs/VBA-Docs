@@ -32,8 +32,6 @@ Sub UseFunction()
 End Sub
 ```
 
-<br/>
-
 If you use a worksheet function that requires a range reference as an argument, you must specify a **Range** object. For example, you can use the **Match** worksheet function to search a range of cells. In a worksheet cell, you would enter a formula such as =MATCH(9,A1:A10,0). However, in a Visual Basic procedure, you would specify a **Range** object to get the same result.
 
 ```vb

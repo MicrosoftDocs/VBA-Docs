@@ -36,8 +36,6 @@ With myDocument.Shapes.AddLine(10, 10, 250, 250).Line
 End With
 ```
 
-<br/>
-
 This example adds a cross to _myDocument_ and then sets its border to be 8 points thick and red.
 
 ```vb

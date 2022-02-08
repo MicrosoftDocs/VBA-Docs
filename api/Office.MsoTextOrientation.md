@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies orientation for text.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextOrientationDownward**|3|Downward |

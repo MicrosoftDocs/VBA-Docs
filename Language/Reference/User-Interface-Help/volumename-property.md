@@ -20,8 +20,6 @@ Sets or returns the volume name of the specified drive. Read/write.
 
 _object_.**VolumeName** [= _newname_ ]
 
-<br/>
-
 The **VolumeName** property has these parts:
 
 |Part|Description|

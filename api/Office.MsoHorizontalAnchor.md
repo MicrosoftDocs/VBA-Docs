@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the horizontal alignment of text in a text frame. Used with the **HorizontalAnchor** property of the **TextFrame** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAnchorCenter**|2|Text is centered horizontally.|

@@ -52,8 +52,6 @@ For Outlook, the registry keys and settings are described in the following table
 > 
 > - If the user chooses "Always enable this add-in", the registry is updated to include details about the add-in that is to be exempted from the automatic disabling feature.
 
-<br/>
-
 |Name|Description|
 |:-----|:-----|
 |Key|HKEY_CURRENT_USER\Software\Microsoft\Office\x.0\Outlook\Resiliency\DoNotDisableAddinList|

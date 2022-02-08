@@ -71,8 +71,6 @@ Private Sub evtReferences_ItemRemoved(ByVal Reference As _
 End Sub
 ```
 
-<br/>
-
 The following **Function** procedure adds a specified reference. When a reference is added, the **ItemAdded** event procedure defined in the **RefEvents** class runs.
 
 ```vb

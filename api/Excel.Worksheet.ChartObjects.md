@@ -51,8 +51,6 @@ With Worksheets("Sheet1").ChartObjects(1).Chart
 End With
 ```
 
-<br/>
-
 This example creates a new series in embedded chart one on Sheet1. The data source for the new series is the range B1:B10 on Sheet1.
 
 ```vb
@@ -60,8 +58,6 @@ Worksheets("Sheet1").ChartObjects(1).Activate
 ActiveChart.SeriesCollection.Add _ 
  source:=Worksheets("Sheet1").Range("B1:B10")
 ```
-
-<br/>
 
 This example clears the formatting of embedded chart one on Sheet1.
 

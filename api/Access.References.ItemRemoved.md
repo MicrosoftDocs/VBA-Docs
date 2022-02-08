@@ -71,8 +71,6 @@ Private Sub evtReferences_ItemRemoved(ByVal Reference As _
 End Sub
 ```
 
-<br/>
-
 The following **Function** procedure removes a specified reference. When a reference is removed, the **ItemRemoved** event procedure defined in the **RefEvents** class runs.
 
 For example, to remove a reference to the calendar control, you could pass the string "MSACAL", which is the name of the **Reference** object that represents the calendar control.

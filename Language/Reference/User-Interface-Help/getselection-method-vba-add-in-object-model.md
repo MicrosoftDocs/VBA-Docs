@@ -18,8 +18,6 @@ Returns the selection in a [code pane](../../Glossary/vbe-glossary.md#code-pane)
 
 _object_.**GetSelection** (_startline_, _startcol_, _endline_, _endcol_)
 
-<br/>
-
 The **GetSelection** syntax has these parts:
 
 |Part|Description|

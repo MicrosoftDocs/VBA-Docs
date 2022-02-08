@@ -34,8 +34,6 @@ The following example displays the number of parameters in query table one.
 MsgBox Workbooks(1).ActiveSheet.QueryTables(1).Parameters.Count
 ```
 
-<br/>
-
 Use the **Add** method to create a new parameter for a query table. The following example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant Oakland.
 
 ```vb

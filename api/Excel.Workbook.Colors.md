@@ -38,8 +38,6 @@ This example sets the color palette for the active workbook to be the same as th
 ActiveWorkbook.Colors = Workbooks("BOOK2.XLS").Colors
 ```
 
-<br/>
-
 This example sets color five in the color palette for the active workbook.
 
 ```vb

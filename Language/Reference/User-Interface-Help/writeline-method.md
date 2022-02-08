@@ -20,8 +20,6 @@ Writes a specified string and newline character to a **TextStream** file.
 
 _object_.**WriteLine** ([ _string_ ])
 
-<br/>
-
 The **WriteLine** method syntax has these parts:
 
 |Part|Description|

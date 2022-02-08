@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the subtype of the CubeField.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlCubeAttribute**|4|Attribute|

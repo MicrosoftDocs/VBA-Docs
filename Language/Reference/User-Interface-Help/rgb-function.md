@@ -20,8 +20,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) whole number rep
 
 **RGB**(_red_, _green_, _blue_)
 
-<br/>
-
 The **RGB** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

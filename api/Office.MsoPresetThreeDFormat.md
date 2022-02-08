@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies an extrusion (three-dimensional) format. The **MsoPresetThreeDFormat** constants are numbered according to the order (left to right, top to bottom) in which they are shown on the **3D Style** button on the **Formatting** toolbar. 
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPresetThreeDFormatMixed**|-2|Not used |

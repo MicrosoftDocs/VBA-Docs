@@ -49,8 +49,6 @@ The value of the  _LinkToFile_ parameter can be one of these **[MsoTriState](Off
 | **msoTriStateToggle**|Not supported.|
 | **msoTrue**|To link the 3D model to the file from which it was created.|
 
-<br/>
-
 The value of the _SaveWithDocument_ parameter can be one of these **MsoTriState** constants.
 
 |Constant|Description|

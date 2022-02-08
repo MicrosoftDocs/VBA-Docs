@@ -20,8 +20,6 @@ Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) representing
 
 The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
 
-<br/>
-
 |If _number_ is|Hex returns|
 |:-----|:-----|
 |-2,147,483,648 to 2,147,483,647|Up to eight hexadecimal characters|

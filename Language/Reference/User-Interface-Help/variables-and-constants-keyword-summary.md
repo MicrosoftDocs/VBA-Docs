@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Variables and constants keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Assign value.|[Let](let-statement.md)|

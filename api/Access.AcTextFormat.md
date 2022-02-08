@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whether or not rich text is displayed in a Text Box.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acTextFormatHTMLRichText**|1|Rich text can be displayed.|

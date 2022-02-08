@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acVerticalAnchorBoth**|2|The control is stretched vertically across its layout.|

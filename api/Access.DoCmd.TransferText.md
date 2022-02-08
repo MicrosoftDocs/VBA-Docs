@@ -49,8 +49,6 @@ DoCmd.TransferText acExportDelim, "Standard Output", _
     "External Report", "C:\Txtfiles\April.doc"
 ```
 
-<br/>
-
 The following code shows how to create a new Microsoft Word document and perform a mail merge with the data stored in the **Customers** table.
 
 ```vb

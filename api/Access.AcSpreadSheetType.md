@@ -16,8 +16,6 @@ ms.localizationpriority: high
 
 Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method to specify the type of spreadsheet to import from, export to, or link to.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSpreadsheetTypeExcel3**|0|Microsoft Excel 3.0 format|

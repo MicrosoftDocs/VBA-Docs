@@ -18,8 +18,6 @@ Returns a **Variant** (**Integer**) containing the specified part of a given dat
 
 **DatePart**(_interval_, _date_, [ _firstdayofweek_, [ _firstweekofyear_ ]])
 
-<br/>
-
 The **DatePart** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -46,8 +44,6 @@ The _interval_ [argument](../../Glossary/vbe-glossary.md#argument) has these set
 |n|Minute|
 |s|Second|
 
-<br/>
-
 The _firstdayofweek_ argument has these settings:
 
 |Constant|Value|Description|
@@ -60,8 +56,6 @@ The _firstdayofweek_ argument has these settings:
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
-
-<br/>
 
 The _firstweekofyear_ argument has these settings:
 

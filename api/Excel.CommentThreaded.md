@@ -29,15 +29,11 @@ Use the **[CommentThreaded](Excel.Range.CommentThreaded.md)** property of the **
 Worksheets(1).Range("E5").CommentThreaded.Text "reviewed on " & Date
 ```
 
-<br/>
-
 Use **CommentsThreaded** (_index_), where _index_ is the threaded comment number, to return a single threaded comment from the **CommentsThreaded** collection. The following example updates the text of threaded comment two on worksheet one.
 
 ```vb
 Worksheets(1).CommentsThreaded(2).Text "reviewed on " & Date
 ```
-
-<br/>
 
 Use the **[AddCommentThreaded](Excel.Range.AddCommentThreaded.md)** method of the **Range** object to add a comment to a range. The following example adds a threaded comment to cell E5 on worksheet one.
 

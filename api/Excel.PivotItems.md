@@ -45,8 +45,6 @@ With Worksheets("sheet3").PivotTables(1)
 End With
 ```
 
-<br/>
-
 Use **PivotItems** (_index_), where _index_ is the item index number or name, to return a single **PivotItem** object. The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
 
 ```vb

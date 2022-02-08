@@ -26,8 +26,6 @@ Range("e5").Validation _
  .Modify xlValidateList, xlValidAlertStop, "=$A$1:$A$10"
 ```
 
-<br/>
-
 Use the **Add** method to add data validation to a range and create a new **Validation** object. The following example adds data validation to cell E5.
 
 ```vb

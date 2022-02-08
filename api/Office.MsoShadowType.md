@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of shadow displayed with a shape.The **msoShadowType** constants are numbered according to their order (left to right, top to bottom) within the **Shadow Style** set shown in the **Drawing** toolbar.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShadow1**|1|First shadow type |

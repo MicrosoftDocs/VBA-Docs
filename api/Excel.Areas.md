@@ -30,8 +30,6 @@ Use the **[Areas](excel.range.areas.md)** property of the **Range** object to re
 If Selection.Areas.Count <> 1 Then Selection.Clear
 ```
 
-<br/>
-
 Use **Areas** (_index_), where _index_ is the area index number, to return a single **Range** object from the collection. The index numbers correspond to the order in which the areas were selected. The following example clears the first area in the current selection if the selection contains more than one area.
 
 ```vb
@@ -39,8 +37,6 @@ If Selection.Areas.Count <> 1 Then
  Selection.Areas(1).Clear 
 End If
 ```
-
-<br/>
 
 Some operations cannot be performed on more than one area in a selection at the same time; you must loop through the individual areas in the selection and perform the operations on each area separately. The following example performs the operation named myOperation on the selected range if the selection contains only one area; if the selection contains multiple areas, the example performs myOperation on each individual area in the selection.
 

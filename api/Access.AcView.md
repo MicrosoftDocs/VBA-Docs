@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies an object's view.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acViewDesign**|1|Design view|

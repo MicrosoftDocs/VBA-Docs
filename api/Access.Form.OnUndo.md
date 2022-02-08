@@ -45,8 +45,6 @@ The following example specifies that when the **Undo** event occurs on the first
 Forms(0).OnUndo = "[Event Procedure]"
 ```
 
-<br/>
-
 The following example specifies that when the **Undo** event occurs in any text box on the first form of the current project, the associated event procedure should run.
 
 ```vb

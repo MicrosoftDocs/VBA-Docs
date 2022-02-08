@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the operator to apply when using the **Add** method to create a conditional format.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBetween**|0|The value must be between the values specified by the Expression1 and Expression2 arguments. |

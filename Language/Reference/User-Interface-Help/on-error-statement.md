@@ -20,8 +20,6 @@ Enables an error-handling routine and specifies the location of the routine with
 **On Error Resume Next** <br/> 
 **On Error GoTo 0**
 
-<br/>
-
 The **On Error** statement syntax can have any of the following forms:
 
 |Statement|Description|

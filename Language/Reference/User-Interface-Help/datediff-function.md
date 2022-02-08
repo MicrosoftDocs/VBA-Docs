@@ -44,8 +44,6 @@ The _interval_ [argument](../../Glossary/vbe-glossary.md#argument) has these set
 |n|Minute|
 |s|Second|
 
-<br/>
-
 The _firstdayofweek_ argument has these settings:
 
 |Constant|Value|Description|
@@ -58,8 +56,6 @@ The _firstdayofweek_ argument has these settings:
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
-
-<br/>
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

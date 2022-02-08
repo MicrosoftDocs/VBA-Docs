@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **Duplex** property to specify how the printer handles duplex printing.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRDPHorizontal**|2|Double-sided printing using a horizontal page turn.|

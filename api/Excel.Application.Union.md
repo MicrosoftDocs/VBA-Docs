@@ -48,8 +48,6 @@ Set bigRange = Application.Union(Range("Range1"), Range("Range2"))
 bigRange.Formula = "=RAND()"
 ```
 
-<br/>
-
 This example compares the **[Worksheet.Range](Excel.Worksheet.Range.md)** property, **Application.Union** method, and **[Application.Intersect](Excel.Application.Intersect.md)** method.
 
  ```vb

@@ -43,8 +43,6 @@ Double
 
 The following table contains the ISO codes that can be used with the _SourceCurrency_ and _TargetCurrency_ arguments.
 
-<br/>
-
 |Currency|ISO code|Calculation precision|Display precision|
 |:-----|:-----|:-----|:-----|
 |Belgian franc|BEF|0|0|
@@ -60,13 +58,9 @@ The following table contains the ISO codes that can be used with the _SourceCurr
 |Finnish Markka|FIM|2|2|
 |euro|EUR|2|2|
 
-<br/>
-
 In the preceding table, the calculation precision determines what currency unit to round the result to based on the conversion currency. For example, when converting to Deutsche marks, the calculation precision is 2, and the result is rounded to the nearest pfennig, 100 pfennigs to a mark. The display precision determines how many decimal places appear in the field containing the result.
 
 Later versions of the **EuroConvert** function may support additional currencies. 
-
-<br/>
 
 |Currency|ISO code|
 |:-----|:-----|
@@ -74,8 +68,6 @@ Later versions of the **EuroConvert** function may support additional currencies
 |Drachma|GRD|
 |Swedish Krona|SEK|
 |Pound Sterling|GBP|
-
-<br/>
 
 Any trailing zeros are truncated and invalid parameters return #Error.
 

@@ -28,8 +28,6 @@ _expression_ A variable that represents a **PostItem** object.
 |_Attachment_|Required|**Attachment**|The **Attachment** to be read.|
 |_Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **Attachment** to be read.|
 
-<br/>
-
 ## See also
 
 - [PostItem Object](Outlook.PostItem.md)

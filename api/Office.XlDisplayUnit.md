@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates numeric units of measurement.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDisplayUnitCustom**|-4114|Specifies custom units.|

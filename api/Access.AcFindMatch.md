@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies where the data is located in the field. 
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAnywhere**|0|Search for data in any part of the field.|

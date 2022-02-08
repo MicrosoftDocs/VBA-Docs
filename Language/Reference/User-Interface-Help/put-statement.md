@@ -18,8 +18,6 @@ Writes data from a [variable](../../Glossary/vbe-glossary.md#variable) to a disk
 
 **Put** [ **#** ] _filenumber_, [ _recnumber_ ], _varname_
 
-<br/>
-
 The **Put** statement syntax has these parts:
 
 |Part|Description|

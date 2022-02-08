@@ -63,8 +63,6 @@ Dim curX As Currency
 curX = DSum("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 The next example calculates a total by using two separate criteria. Note that single quotation marks (') and number signs (#) are included in the string expression, so that when the strings are concatenated, the string literal will be enclosed in single quotation marks, and the date will be enclosed in number signs.
 
 ```vb
@@ -72,8 +70,6 @@ Dim curX As Currency
 curX = DSum("[Freight]", "Orders", _ 
     "[ShipCountry] = 'UK' AND [ShippedDate] > #1-1-95#")
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DSum** function.
 

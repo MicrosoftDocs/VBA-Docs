@@ -43,8 +43,6 @@ To specify an array of integers or strings for _Index_, you can use the **Array*
  Set objRange = ActiveSheet.Shapes.Range(arShapes)
 ```
 
-<br/>
-
 In Microsoft Excel, you cannot use this property to return a **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code.
 
 ```vb
@@ -61,8 +59,6 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-<br/>
-
 This example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on _myDocument_.
 
 ```vb
@@ -75,8 +71,6 @@ objRange.Fill.Patterned msoPatternHorizontalBrick
 
 ```
 
-<br/>
-
 This example sets the fill pattern for shape one on _myDocument_.
 
 ```vb
@@ -84,8 +78,6 @@ Set myDocument = Worksheets(1)
 Set myRange = myDocument.Shapes.Range(1) 
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
-
-<br/>
 
 This example creates an array that contains all the AutoShapes on _myDocument_, uses that array to define a shape range, and then distributes all the shapes in that range horizontally.
 

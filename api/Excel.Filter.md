@@ -33,8 +33,6 @@ If w.AutoFilterMode Then
 End If
 ```
 
-<br/>
-
 Note that all the properties of the **Filter** object are read-only. To set these properties, apply autofiltering manually or use the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **Range** object, as shown in the following example.
 
 ```vb

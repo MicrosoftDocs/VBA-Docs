@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the dash style for a line. 
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineDash**|4|Line consists of dashes only.|

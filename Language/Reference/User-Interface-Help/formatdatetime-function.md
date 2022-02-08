@@ -18,8 +18,6 @@ Returns an expression formatted as a date or time.
 
 **FormatDateTime**(_Date_, [ _NamedFormat_ ])
 
-<br/>
-
 The **FormatDateTime** function syntax has these parts:
 
 |Part|Description|

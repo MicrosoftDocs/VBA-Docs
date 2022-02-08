@@ -20,8 +20,6 @@ Writes a specified number of newline characters to a **TextStream** file.
 
 _object_.**WriteBlankLines** (_lines_)
 
-<br/>
-
 The **WriteBlankLines** method syntax has these parts:
 
 |Part|Description|

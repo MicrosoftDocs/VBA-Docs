@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies contact-picker field types.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPickerFieldUnknown**|0|An unknown type of field |

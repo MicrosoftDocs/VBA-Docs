@@ -50,8 +50,6 @@ The following example hides the **ProductID** field in Datasheet view of the **P
 Forms!Products!ProductID.ColumnHidden = -1
 ```
 
-<br/>
-
 The next example hides the **ProductID** field in Datasheet view of the **Products** table.
 
 ```vb

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used by the [ScrollBars](Access.WebBrowserControl.ScrollBars.md) property to specify whether scroll bars are displayed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acScrollAuto**|0|Scroll bars are displayed if the current page in the control is too large to be displayed in its entirely.|

@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 
 # Arrays keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Verify an array.|[IsArray](isarray-function.md)|

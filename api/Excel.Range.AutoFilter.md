@@ -56,8 +56,6 @@ Worksheets("Sheet1").Range("A1").AutoFilter _
  VisibleDropDown:=False
 ```
 
-<br/>
-
 This example filters a list starting in cell A1 on Sheet1 to display only the entries in which the values of field one contain a SubField, Admin Division 1 (State/province/other), where the value is Washington.
 
 ```vb
@@ -67,8 +65,6 @@ Worksheets("Sheet1").Range("A1").AutoFilter _
  SubField:="Admin Division 1 (State/province/other)"
 ```
 
-<br/>
-
 This example filters a table, Table1, on Sheet1 to display only the entries in which the values of field one have a "(Display Value)" that is either 1, 3, Seattle, or Redmond.
 
 ```vb
@@ -77,8 +73,6 @@ Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  Criteria1:=Array("1", "3", "Seattle", "Redmond"), _
  Operator:=xlFilterValues
 ```
-
-<br/>
 
 Data types can apply multiple SubField filters. This example filters a table, Table1, on Sheet1 to display only the entries in which the values of field one contain a SubField, Time Zone(s), where the value is Pacific Time Zone, and where the SubField named Date Founded is either 1851 or there is "(No Data)".
 
@@ -93,8 +87,6 @@ Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  Operator:=xlFilterValues, _
  SubField:="Date founded"
 ```
-
-<br/>
 
 This example filters a table, Table1, on Sheet1 to display the Top 10 entries for field one based off the Population SubField.
 

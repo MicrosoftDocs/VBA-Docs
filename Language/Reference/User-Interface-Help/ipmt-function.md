@@ -18,8 +18,6 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 **IPmt**(_rate_, _per_, _nper_, _pv_, [ _fv_, [ _type_ ]])
 
-<br/>
-
 The **IPmt** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

@@ -18,8 +18,6 @@ Returns an expression formatted as a currency value by using the currency symbol
 
 **FormatCurrency**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
-<br/>
-
 The **FormatCurrency** function syntax has these parts:
 
 |Part|Description|

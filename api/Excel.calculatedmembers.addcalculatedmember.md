@@ -101,8 +101,6 @@ pvt.CalculatedMembers. AddCalculatedMember Name:=strName, Formula:=strFormula, T
 End Sub
 ```
 
-<br/>
-
 The following code sample adds a _calculated member_ to a PivotTable.
 
 ```vb

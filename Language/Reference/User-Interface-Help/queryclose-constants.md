@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbFormControlMenu**|0|The user chose the **Close** command from the **Control** menu on the form.|

@@ -35,8 +35,6 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
  ChartArea.Format.Fill.Pattern = msoPatternLightDownwardDiagonal
 ```
 
-<br/>
-
 The embedded chart name is shown in the **Name** box when the embedded chart is selected. Use the **Name** property to set or return the name of the **ChartObject** object. The following example puts rounded corners on the embedded chart named **Chart 1** on the worksheet named **Sheet1**.
 
 ```vb

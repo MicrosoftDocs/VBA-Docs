@@ -70,8 +70,6 @@ Public Sub Greeting(ByVal strName As String)
 End Sub
 ```
 
-<br/>
-
 After you have completed this step, run the following code from Microsoft Excel or Visual Basic. Make sure that you have added a reference to the Access type library by choosing **References** on the **Tools** menu and choosing **Microsoft Access 12.0 Object Library** in the **References** dialog box.
 
 ```vb

@@ -18,8 +18,6 @@ Sets or returns the name of a specified file or folder. Read/write.
 
 _object_.**Name** [ = _newname_ ]
 
-<br/>
-
 The **Name** property has these parts:
 
 |Part|Description|

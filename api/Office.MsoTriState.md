@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies a tri-state value.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTrue**|1|Not supported |

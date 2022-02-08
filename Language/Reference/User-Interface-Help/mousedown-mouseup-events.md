@@ -56,8 +56,6 @@ The settings for _Button_ are:
 | _fmButtonRight_|2|The right button was pressed.|
 | _fmButtonMiddle_|4|The middle button was pressed.|
 
-<br/>
-
 The settings for _Shift_ are:
 
 |Value|Description|
@@ -69,8 +67,6 @@ The settings for _Shift_ are:
 |5|ALT and SHIFT were pressed.|
 |6|ALT and CTRL were pressed.|
 |7|ALT, SHIFT, and CTRL were pressed.|
-
-<br/>
 
 You can identify individual keyboard modifiers by using the following constants:
 

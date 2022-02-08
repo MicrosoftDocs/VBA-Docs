@@ -18,8 +18,6 @@ Reads data from an open sequential file and assigns the data to [variables](../.
 
 **Input** **#**_filenumber, varlist_
 
-<br/>
-
 The **Input #** statement syntax has these parts:
 
 |Part|Description|

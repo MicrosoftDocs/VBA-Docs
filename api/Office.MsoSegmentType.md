@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type for a segment. Used with the **Insert** and **AddNodes** methods of the **FreeformBuilder** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSegmentCurve**|1|Curve |

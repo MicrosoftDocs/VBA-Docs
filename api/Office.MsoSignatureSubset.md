@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies properties of the signature subset. These settings act as filters for signature sets.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSignatureSubsetAll**|5|All non-visible signatures plus all signature lines.|

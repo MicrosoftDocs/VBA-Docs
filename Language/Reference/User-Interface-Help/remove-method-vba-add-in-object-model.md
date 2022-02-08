@@ -18,8 +18,6 @@ Removes an item from a [collection](../../Glossary/vbe-glossary.md#collection).
 
 _object_.**Remove** (_component_)
 
-<br/>
-
 The **Remove** syntax has these parts:
 
 |Part|Description|

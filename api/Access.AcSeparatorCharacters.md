@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [ComboBox.SeparatorCharacters property (Access)](Access.ComboBox.SeparatorCharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSeparatorCharactersComma**|3|A comma (,) is used as the separator character.|

@@ -18,8 +18,6 @@ Evaluates a list of [expressions](../../Glossary/vbe-glossary.md#expression) and
 
 **Switch**(_expr-1_, _value-1_, [ _expr-2_, _value-2_…, [ _expr-n_, _value-n_ ]])
 
-<br/>
-
 The **Switch** function syntax has these parts:
 
 |Part|Description|

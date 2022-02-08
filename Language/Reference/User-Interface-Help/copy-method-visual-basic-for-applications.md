@@ -18,8 +18,6 @@ Copies a specified file or folder from one location to another.
 
 _object_.**Copy** _destination_, [ _overwrite_ ]
 
-<br/>
-
 The **Copy** method syntax has these parts:
 
 |Part|Description|

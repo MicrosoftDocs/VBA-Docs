@@ -18,8 +18,6 @@ Returns [String](../../Glossary/vbe-glossary.md#string-data-type) containing cha
 
 **Input**(_number_, [ **#** ]_filenumber_)
 
-<br/>
-
 The **Input** function syntax has these parts:
 
 |Part|Description|

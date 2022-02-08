@@ -18,8 +18,6 @@ Saves a project to a given location by using a new filename.
 
 _object_.**SaveAs** (_newfilename_) **As String**
 
-<br/>
-
 The **SaveAs** method syntax has these parts.
 
 |Part|Description|

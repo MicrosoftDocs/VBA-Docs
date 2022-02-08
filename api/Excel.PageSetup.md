@@ -35,8 +35,6 @@ With Worksheets("Sheet1")
 End With
 ```
 
-<br/>
-
 The **With** statement makes it easier and faster to set several properties at the same time. The following example sets all the margins for worksheet one.
 
 ```vb

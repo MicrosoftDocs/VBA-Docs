@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 The following is a list of nonintrinsic math functions that can be derived from the intrinsic math functions.
 
-<br/>
-
 |Function|Derived equivalents|
 |:-----|:-----|
 |Secant|`Sec(X) = 1 / Cos(X)`|

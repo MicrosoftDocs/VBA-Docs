@@ -32,8 +32,6 @@ For i = 1 To ActiveWorkbook.Styles.Count
 Next
 ```
 
-<br/>
-
 Use the **Add** method to create a new style and add it to the collection. The following example creates a new style based on the Normal style, modifies the border and font, and then applies the new style to cells A25:A30.
 
 ```vb
@@ -44,8 +42,6 @@ With ActiveWorkbook.Styles.Add(Name:="Bookman Top Border")
 End With 
 Worksheets(1).Range("A25:A30").Style = "Bookman Top Border"
 ```
-
-<br/>
 
 Use **Styles** (_index_), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting its **Bold** property.
 

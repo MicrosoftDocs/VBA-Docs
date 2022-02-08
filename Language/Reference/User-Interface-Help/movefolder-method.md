@@ -20,8 +20,6 @@ Moves one or more folders from one location to another.
 
 _object_.**MoveFolder** (_source_, _destination_)
 
-<br/>
-
 The **MoveFolder** method syntax has these parts:
 
 |Part|Description|

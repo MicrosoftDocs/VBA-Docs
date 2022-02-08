@@ -20,8 +20,6 @@ Returns a complete and unambiguous path from a provided path specification.
 
 _object_.**GetAbsolutePathName** (_pathspec_)
 
-<br/>
-
 The **GetAbsolutePathName** method syntax has these parts:
 
 |Part|Description|

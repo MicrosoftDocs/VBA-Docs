@@ -20,8 +20,6 @@ Returns the special folder specified.
 
 _object_.**GetSpecialFolder** (_folderspec_)
 
-<br/>
-
 The **GetSpecialFolder** method syntax has these parts:
 
 |Part|Description|

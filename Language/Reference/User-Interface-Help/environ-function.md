@@ -18,8 +18,6 @@ Returns the **String** associated with an operating system environment variable.
 
 **Environ**( { _envstring_ | _number_ } )
 
-<br/>
-
 The **Environ** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

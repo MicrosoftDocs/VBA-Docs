@@ -35,8 +35,6 @@ ActiveSheet.Paste
 
 ```
 
-<br/>
-
 Alternatively, you can perform the same operation by using the **[Slicers](Excel.SlicerCache.Slicers.md)** property of the **SlicerCache** object to access the slicer, as shown in the following code example.
 
 ```vb

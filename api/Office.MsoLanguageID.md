@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the language identifier.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLanguageIDAfrikaans**|1078|The Afrikaans language |

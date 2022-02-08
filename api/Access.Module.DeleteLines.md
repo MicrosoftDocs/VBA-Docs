@@ -85,8 +85,6 @@ Error_DeleteWholeLine:
 End Function
 ```
 
-<br/>
-
 You could call this function from a procedure such as the following, which searches the module Module1 for a constant declaration and deletes it.
 
 ```vb

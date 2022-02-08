@@ -74,8 +74,6 @@ dblX = DVar("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 dblY = DVarP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 The next example returns estimates by using the variable `strCountry` in the _criteria_ argument. Note that single quotation marks (') are included in the string expression, so that when the strings are concatenated, the string literal `UK` will be enclosed in single quotation marks.
 
 ```vb
@@ -87,8 +85,6 @@ strCountry = "UK"
 dblX = DVar("[Freight]", "Orders", "[ShipCountry] = '" _ 
     & strCountry & "'")
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DVar** function.
 

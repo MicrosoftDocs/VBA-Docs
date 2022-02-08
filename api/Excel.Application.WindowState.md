@@ -32,8 +32,6 @@ This example maximizes the application window in Microsoft Excel.
 Application.WindowState = xlMaximized
 ```
 
-<br/>
-
 This example expands the active window to the maximum size available (assuming that the window isn't already maximized).
 
 ```vb

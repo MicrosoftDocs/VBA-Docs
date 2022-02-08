@@ -22,8 +22,6 @@ For MultiPage, TabStrip:<br/>
 For other controls:<br/> 
 **Set**_Control_ = _object_. **Add(**_ProgID_ [, _Name_ [, _Visible_ ]] **)**
 
-<br/>
-
 The **Add** method syntax has these parts:
 
 |Part|Description|

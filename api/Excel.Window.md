@@ -34,8 +34,6 @@ Windows(1).WindowState = xlMaximized
 
 Note that the active window is always `Windows(1)`.
 
-<br/>
-
 The window caption is the text shown in the title bar at the top of the window when the window isn't maximized. The caption is also shown in the list of open files on the bottom of the **Windows** menu. Use the **Caption** property to set or return the window caption. Changing the window caption doesn't change the name of the workbook. 
 
 The following example turns off cell gridlines for the worksheet shown in the Book1.xls:1 window.

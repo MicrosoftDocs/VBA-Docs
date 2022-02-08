@@ -22,8 +22,6 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _statements_ ] <br/>
 **End Property**
 
-<br/>
-
 The **Property Let** statement syntax has these parts:
 
 |Part|Description|
@@ -37,13 +35,9 @@ The **Property Let** statement syntax has these parts:
 | _value_|Required. Variable to contain the value to be assigned to the property. When the procedure is called, this argument appears on the right side of the calling [expression](../../Glossary/vbe-glossary.md#expression). The data type of _value_ must be the same as the return type of the corresponding **Property Get** procedure.|
 | _statements_|Optional. Any group of [statements](../../Glossary/vbe-glossary.md#statement) to be executed within the **Property Let** procedure.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|

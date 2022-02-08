@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 Specifies the group type as public or private for the **[CreateUnifiedGroup](Outlook.store.createunifiedgroup.md)** method.
 
-<br/>
-
 |Name| Value| Description|
 |:---|:-----|:-----------|
 |**PrivateGroup**|1|Assigns a private group.|

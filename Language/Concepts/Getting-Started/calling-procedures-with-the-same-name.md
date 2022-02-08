@@ -20,8 +20,6 @@ Sub Main()
 End Sub
 ```
 
-<br/>
-
 If you give the same name to two different procedures in two different projects, you must specify a project name when you call that procedure. For example, the following procedure calls the `Main` procedure in the `MyModule` module in the `MyProject.vbp` project.
 
 ```vb

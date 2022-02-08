@@ -29,8 +29,6 @@ The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
-<br/>
-
 The _firstdayofyear_ argument has the following values.
 
 |Constant|Value|Description|

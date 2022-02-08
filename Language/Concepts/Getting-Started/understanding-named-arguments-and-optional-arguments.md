@@ -22,8 +22,6 @@ Sub PassArgs(strName As String, intAge As Integer, dteBirth As Date)
 End Sub
 ```
 
-<br/>
-
 You can call this procedure by supplying its arguments in the correct position, each delimited by a comma, as shown in the following example.
 
 ```vb
@@ -31,16 +29,12 @@ PassArgs "Mary", 29, #2-21-69#
 
 ```
 
-<br/>
-
 You can also call this procedure by supplying [named arguments](../../Glossary/vbe-glossary.md#named-argument), delimiting each with a comma.
 
 ```vb
 PassArgs intAge:=29, dteBirth:=#2/21/69#, strName:="Mary" 
 
 ```
-
-<br/>
 
 A named argument consists of an argument name followed by a colon and an equal sign (**:=**), followed by the argument value.
 
@@ -53,8 +47,6 @@ Sub OptionalArgs(strState As String, Optional strCountry As String = "USA")
 . . . 
 End Sub
 ```
-
-<br/>
 
 When you call a procedure with an optional argument, you can choose whether or not to specify the optional argument. If you don't specify the optional argument, the default value, if any, is used. If no default value is specified, the argument would be for any variable of the specified type.
 
@@ -74,8 +66,6 @@ Optional varCountry As Variant = "USA")
  End If 
 End Sub
 ```
-
-<br/>
 
 You can call this procedure by using named arguments as shown in the following example.
 

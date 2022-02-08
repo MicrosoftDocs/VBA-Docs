@@ -57,8 +57,6 @@ End With
 myBar.Visible = True
 ```
 
-<br/>
-
 The following subroutine responds to the **OnAction** method and determines which command bar button was last clicked.
 
 ```vb

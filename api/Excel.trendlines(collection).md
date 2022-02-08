@@ -33,8 +33,6 @@ The following example displays the number of trendlines for series one in the ch
 MsgBox myChart.SeriesCollection(1).Trendlines.Count
 ```
 
-<br/>
-
 The following example adds a linear trendline to series one in the chart.
 
 ```vb
@@ -42,8 +40,6 @@ With myChart.SeriesCollection(1).Trendlines
  .Add Type:=xlLinear, Name:="Linear Trend" 
 End With
 ```
-
-<br/>
 
 The following example changes the trendline type for series one in the chart. If the series has no trendline, this example fails.
 

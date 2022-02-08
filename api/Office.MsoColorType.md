@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the color type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoColorTypeCMS**|4|Color Management System color type.|

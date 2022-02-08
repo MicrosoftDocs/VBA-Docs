@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **ExportXML** method to specify other behaviors associated with exporting to XML.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acEmbedSchema**|1|Writes schema information into the document specified by the DataTarget argument; this value takes precedence over the SchemaTarget argument.|

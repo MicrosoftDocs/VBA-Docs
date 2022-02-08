@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the animation style for Microsoft Office command bars.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMenuAnimationNone**|0|No animation |

@@ -67,8 +67,6 @@ curX = DMin("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 curY = DMax("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 In the next example, the criteria expression includes a variable, `dteOrderDate`. Note that number signs (#) are included in the string expression, so that when the strings are concatenated, they will enclose the date.
 
 ```vb
@@ -79,8 +77,6 @@ dteOrderDate = #03/30/2000#
 curX = DMin("[Freight]", "Orders", _ 
     "[OrderDate] = #" & dteOrderDate & "#")
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DMin** function.
 

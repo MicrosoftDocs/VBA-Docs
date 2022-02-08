@@ -61,8 +61,6 @@ Private Sub Report_NoData(Cancel As Integer)
 End Sub 
 ```
 
-<br/>
-
 The following example shows how to use the **NoData** event of a report to prevent the report from opening when there is no data to be displayed.
 
 ```vb
