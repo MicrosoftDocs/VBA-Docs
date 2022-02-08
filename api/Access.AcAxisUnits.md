@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the unit of measurement for values displayed on an axis.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAxisUnitsBillions**|9|Billions|

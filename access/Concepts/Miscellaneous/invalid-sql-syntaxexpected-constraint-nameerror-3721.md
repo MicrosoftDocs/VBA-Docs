@@ -17,8 +17,6 @@ When defining referential integrity from a SQL DDL statement, it is necessary to
 CREATE TABLE Customers (CLstNm TEXT(50), CFrstNm TEXT(25), CONSTRAINT PRIMARY KEY (CFrstNm, CLstNm));
 ```
 
-<br/>
-
 To prevent the error, include a name after the CONSTRAINT keyword:
 
 ```sql

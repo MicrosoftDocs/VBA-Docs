@@ -15,9 +15,9 @@ ms.localizationpriority: medium
 
 ### Methods
 
-[Append](https://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(IDispatch * _Object_ ) 
+[Append](https://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(IDispatch * _Object_ )
 
-[Delete](https://msdn.microsoft.com/library/03ffc24d-fea2-30fa-c8e9-43eb524fd51f%28Office.15%29.aspx)(VARIANT  _Index_ ) 
+[Delete](https://msdn.microsoft.com/library/03ffc24d-fea2-30fa-c8e9-43eb524fd51f%28Office.15%29.aspx)(VARIANT  _Index_ )
 
 [Refresh](https://msdn.microsoft.com/library/f1c8829f-9c7d-12b6-7470-727ff38d663e%28Office.15%29.aspx)(void)
 
@@ -25,13 +25,13 @@ ms.localizationpriority: medium
 
 [get_Count](https://msdn.microsoft.com/library/b59f9581-ffd1-471d-44fa-3c1bb812e140%28Office.15%29.aspx)(long * _c_ )
 
-[get_Item](https://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  _Index,_ _ADOParameter ** _ppvObject_ )
+[get_Item](https://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  _Index,_ ADOParameter ** _ppvObject_ )
 
 ## Fields
 
 ### Methods
 
-[Append](https://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(BSTR  _bstrName,_ DataTypeEnum _Type,_ long _DefinedSize,_ FieldAttributeEnum _Attrib_ ) 
+[Append](https://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(BSTR  _bstrName,_ DataTypeEnum _Type,_ long _DefinedSize,_ FieldAttributeEnum _Attrib_ )
 
 [Delete](https://msdn.microsoft.com/library/adc66365-703f-4491-fc5b-dbc9bca2ac53%28Office.15%29.aspx)(VARIANT  _Index_ )
 
@@ -42,7 +42,6 @@ ms.localizationpriority: medium
 [get_Count](https://msdn.microsoft.com/library/b59f9581-ffd1-471d-44fa-3c1bb812e140%28Office.15%29.aspx)(long * _c_ )
 
 [get_Item](https://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  _Index,_ ADOField ** _ppvObject_ )
-
 
 ## Errors
 
@@ -57,7 +56,6 @@ ms.localizationpriority: medium
 [get_Count](https://msdn.microsoft.com/library/b59f9581-ffd1-471d-44fa-3c1bb812e140%28Office.15%29.aspx)(long * _c_ )
 
 [get_Item](https://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  _Index,_ ADOError ** _ppvObject_ )
-
 
 ## Properties
 

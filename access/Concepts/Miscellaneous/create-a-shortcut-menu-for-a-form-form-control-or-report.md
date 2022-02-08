@@ -3,7 +3,7 @@ title: Create a shortcut menu for a form, form control, or report
 ms.prod: access
 ms.assetid: 56fe8923-053f-e04d-78d6-c4dd814b6499
 ROBOTS: INDEX
-ms.date: 06/08/2019
+ms.date: 02/20/2022
 ms.localizationpriority: medium
 ---
 
@@ -20,7 +20,7 @@ To create a shortcut menu, you first have to create a **[CommandBar](../../../ap
 
 The following example creates a shortcut menu named **SimpleShortcutMenu** that contains two commands, **Remove Filter/Sort** and **Filter by Selection**.
 
-> [!NOTE] 
+> [!NOTE]
 > To use the following examples, you must set a reference to the **Microsoft Office 15.0 Object Library**. See [Set References to Type Libraries](../Settings/set-references-to-type-libraries.md) for more information about how to set references.
 
 ```vb
@@ -81,8 +81,6 @@ Set cmbRightClick = Nothing
 End Sub
 ```
 
-<br/>
-
 The following example creates a shortcut menu named **cmdReportRightClick** that contains commands that are useful to use with a report. This example shows how to change the **Caption** property of each control as they're added to the shortcut menu.
 
 ```vb
@@ -134,8 +132,6 @@ Sub CreateReportShortcutMenu()
     Set cmbRightClick = Nothing 
 End Sub
 ```
-
-<a name="AboutContributors"> </a>
 
 ## About the contributors
 

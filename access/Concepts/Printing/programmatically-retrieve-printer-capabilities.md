@@ -29,8 +29,6 @@ Private Const DEFAULT_VALUES = 0
 
 ```
 
-<br/>
-
 The following procedure uses the **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper sizes it supports.
 
 ```vb
@@ -108,8 +106,6 @@ GetPaperList_Err:
      
 End Sub
 ```
-
-<br/>
 
 The following procedure uses the **DeviceCapabilities** API function to display a message box with the name of the default printer and a list of the paper bins it supports.
 

@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Active
 ms.assetid: bd68b587-0811-7f40-c0da-741e2305594b
-ms.date: 06/08/2017
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -16,24 +16,19 @@ ms.localizationpriority: medium
 
 Returns whether the specified pane or window is active. Read-only.
 
-
 ## Syntax
 
 _expression_.**Active**
 
 _expression_ A variable that represents a [DocumentWindow](PowerPoint.DocumentWindow.md) object.
 
-
 ## Return value
 
 MsoTriState
 
-
 ## Remarks
 
 The value returned by the **Active** property can be one of these **MsoTriState** constants.
-
-
 
 |Constant|Description|
 |:-----|:-----|
@@ -42,8 +37,7 @@ The value returned by the **Active** property can be one of these **MsoTriState*
 
 ## Example
 
-This example checks to see if the presentation file  _"test.ppt"_ is in the active window. If not, it saves the name of the presentation that is currently active in the variable `oldWin` and activates the _"test.ppt"_ presentation.
-
+This example checks to see if the presentation file _"test.ppt"_ is in the active window. If not, it saves the name of the presentation that is currently active in the variable `oldWin` and activates the _"test.ppt"_ presentation.
 
 ```vb
 With Application.Presentations("test.ppt").Windows(1)
@@ -59,10 +53,7 @@ With Application.Presentations("test.ppt").Windows(1)
 End With
 ```
 
-
 ## See also
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

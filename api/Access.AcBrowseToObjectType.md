@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of object to browse to.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBrowseToForm**|2|Open a form.|

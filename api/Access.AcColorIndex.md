@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the color to apply.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acColorIndexAqua**|14|Aqua color.|

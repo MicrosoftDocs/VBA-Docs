@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **OutputTo** method to specify the type of output device to optimize for when exporting an object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExportQualityPrint**|0|The output is optimized for printing.|

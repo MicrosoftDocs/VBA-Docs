@@ -2,7 +2,7 @@
 title: New in Access for developers
 ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
-ms.date: 08/06/2021
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -30,7 +30,7 @@ An Access 2013 app is online the moment it's created. You can decide to share th
 
 ## Views
 
-Views (known as  _"forms"_ in Access desktop databases) provide the means by which users will interact with your Access app. Views in Access 2013 apps contain a common set of user interface elements that enable rapid creation of new apps.
+Views (known as _"forms"_ in Access desktop databases) provide the means by which users will interact with your Access app. Views in Access 2013 apps contain a common set of user interface elements that enable rapid creation of new apps.
 
 Access 2013 is designed to enable you to create functional views with little intervention. When you create a new table, Access automatically creates two views. The following figure shows a new table with the automatically-created views.
 

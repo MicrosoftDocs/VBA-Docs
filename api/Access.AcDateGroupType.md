@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the type of grouping applied to an axis; the type of its associated field is a date.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDateGroupDay**|4|The date is grouped by day.|

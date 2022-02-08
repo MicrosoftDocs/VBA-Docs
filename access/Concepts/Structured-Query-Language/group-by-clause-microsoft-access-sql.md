@@ -76,8 +76,6 @@ End Sub
 
 ```
 
-<br/>
-
 For each unique job title, this example calculates the number of employees in Washington who have that title.
 
 ```vb

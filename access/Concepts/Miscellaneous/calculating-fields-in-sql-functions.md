@@ -27,8 +27,6 @@ The following table provides examples of calculations on fields from the Orders 
 
 The following example calculates the average discount amount of all orders in the Northwind.mdb database. It multiplies the values in the UnitPrice and Discount fields to determine the discount amount of each order and then calculates the average. Use this expression in an SQL statement in Visual Basic code:
 
-<br/>
-
 ```sql
 SELECT Avg(UnitPrice * Discount) AS [Average Discount] FROM [Order Details];
 ```
