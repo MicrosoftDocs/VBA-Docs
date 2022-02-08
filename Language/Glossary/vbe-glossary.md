@@ -778,43 +778,35 @@ Note that syntax rules for individual keywords are defined in the Syntax section
 
 The order in which the focus moves from one field to the next as you press TAB or SHIFT+TAB.
 
-
 ## time expression
 
 Any expression that can be interpreted as a time. This includes any combination of time literals, numbers that look like times, strings that look like times, and times returned from functions.
 
 Times are stored as part of a real number. Values to the right of the decimal represent the time. For example, midday (12:00 P.M.) is represented by 0.5.
 
-
 ## twip
 
 A unit of screen measurement equal to 1/20 point. A twip is a screen-independent unit used to ensure that placement and proportion of screen elements in your screen application are the same on all display systems. There are approximately 1440 twips to a logical inch or 567 twips to a logical centimeter (the length of a screen item measuring one inch or one centimeter when printed).
-
 
 ## type-declaration character
 
 A character appended to a variable name indicating the variable's data type. By default, variables are of type **Variant** unless a corresponding **Def**_type_ statement is present in the module.
 
-
 ## type library
 
 A file or component within another file that contains standard descriptions of exposed objects, properties, and methods that are available for Automation. Object library files (.olb) contain type libraries.
-
 
 ## Unicode
 
 International Standards Organization (ISO) character standard. Unicode uses a 16-bit (2-byte) coding scheme that allows for 65,536 distinct character spaces. Unicode includes representations for punctuation marks, mathematical symbols, and dingbats, with substantial room for future expansion.
 
-
 ## universal date format
 
-The universal date format is  `#yyyy-mm-dd hh:mm:ss#`. However, both the date component ( `#yyyy-mm-dd#`) and the time component ( `#hh:mm:ss#`) can be represented separately.
-
+The universal date format is `#yyyy-mm-dd hh:mm:ss#`. However, both the date component ( `#yyyy-mm-dd#`) and the time component ( `#hh:mm:ss#`) can be represented separately.
 
 ## user-defined type
 
 Any data type defined using the **Type** statement. User-defined data types can contain one or more elements of any data type. Arrays of user-defined and other data types are created using the **Dim** statement. Arrays of any type can be included within user-defined types. See [data type summary](../reference/user-interface-help/data-type-summary.md).
-
 
 ## variable
 
@@ -822,16 +814,13 @@ A named storage location that can contain data that can be modified during progr
 
 Variable names must begin with an alphabetic character, must be unique within the same scope, can't be longer than 255 characters, and can't contain an embedded period or type-declaration character.
 
-
 ## Variant data type
 
 A special data type that can contain numeric, string, or date data as well as user-defined types and the special values **Empty** and **Null**. The **Variant** data type has a numeric storage size of 16 bytes and can contain data up to the range of a **Decimal**, or a character storage size of 22 bytes (plus string length), and can store any character text. The **VarType** function defines how the data in a **Variant** is treated. All variables become **Variant** data types if not explicitly declared as some other data type. See [data type summary](../reference/user-interface-help/data-type-summary.md).
 
-
 ## variant expression
 
 Any expression that can evaluate to numeric, string, or date data, as well as the special values **Empty** and **Null**.
-
 
 ## watch expression
 

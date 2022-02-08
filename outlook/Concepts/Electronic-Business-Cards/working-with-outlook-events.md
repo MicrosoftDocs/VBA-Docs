@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
  Outlook provides a wide range of events through which it can notify your Microsoft Visual Basic, Microsoft Visual Basic for Applications (VBA), and Microsoft Visual Basic Scripting Edition (VBScript) programs that a significant change has occurred. For example, Outlook events can notify a program when an item has been opened or when a new mail arrives in the InBox.
 
-To receive notification of a significant event, write an event-handler procedure. Depending on whether the event is handled in Visual Basic or Visual Basic for Applications or in VBScript, this is either a  `Sub` or a `Function` that Outlook calls when the event is called. The code you put in the event handler allows your program to respond appropriately to the event and, in some cases, even lets your program cancel the default action associated with the event, such as preventing a mail item from being sent.
+To receive notification of a significant event, write an event-handler procedure. Depending on whether the event is handled in Visual Basic or Visual Basic for Applications or in VBScript, this is either a `Sub` or a `Function` that Outlook calls when the event is called. The code you put in the event handler allows your program to respond appropriately to the event and, in some cases, even lets your program cancel the default action associated with the event, such as preventing a mail item from being sent.
 
 ## Types of Events
 

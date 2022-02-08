@@ -97,7 +97,7 @@ You can create an object on a remote networked computer by passing the name of t
 > [!NOTE] 
 > Refer to COM documentation (see _Microsoft Developer Network_) for additional information about making an application visible on a remote networked computer. You may have to add a registry key for your application.-->
 
-The following code returns the version number of an instance of Excel running on a remote computer named  `MyServer`:
+The following code returns the version number of an instance of Excel running on a remote computer named `MyServer`:
 
 ```vb
 Dim xlApp As Object

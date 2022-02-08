@@ -16,6 +16,6 @@ ms.localizationpriority: medium
 
 
 
-- The requested module doesn't exist in the specified project. For example, the statement  `MyModule.SomeVar = 5` generates this error when `MyModule` isn't visible in the project `MyProject`. See your [host application](../../Glossary/vbe-glossary.md#host-application) documentation for information on including the module in the project.
+- The requested module doesn't exist in the specified project. For example, the statement `MyModule.SomeVar = 5` generates this error when `MyModule` isn't visible in the project `MyProject`. See your [host application](../../Glossary/vbe-glossary.md#host-application) documentation for information on including the module in the project.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

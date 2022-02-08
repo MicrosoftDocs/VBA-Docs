@@ -30,7 +30,7 @@ An [argument](../../Glossary/vbe-glossary.md#argument) passed **ByRef** ([by ref
     End Sub
   ```
 
-  Placing the argument in its own set of parentheses forces evaluation of it as an [expression](../../Glossary/vbe-glossary.md#expression). During this evaluation, the fractional portion of the number is rounded (not truncated) to make it conform to the expected argument type. The result of the evaluation is placed in a temporary location, and a reference to the temporary location is received by the procedure. Thus, the original  `MyVar` retains its value.
+  Placing the argument in its own set of parentheses forces evaluation of it as an [expression](../../Glossary/vbe-glossary.md#expression). During this evaluation, the fractional portion of the number is rounded (not truncated) to make it conform to the expected argument type. The result of the evaluation is placed in a temporary location, and a reference to the temporary location is received by the procedure. Thus, the original `MyVar` retains its value.
     
   > [!NOTE] 
   > If you don't specify a type for a [variable](../../Glossary/vbe-glossary.md#variable), the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.

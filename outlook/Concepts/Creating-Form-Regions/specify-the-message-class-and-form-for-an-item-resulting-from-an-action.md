@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 3. Specify a string that represents the message class of the resulting item as the value of the child **targetForm** element of the **action** element.
 
-The following example assigns  `replyToBlog` as the internal name of a custom action, and `IPM.Post` as the message class of the resulting item. The resulting item will use the same form that a contact item uses by default:
+The following example assigns `replyToBlog` as the internal name of a custom action, and `IPM.Post` as the message class of the resulting item. The resulting item will use the same form that a contact item uses by default:
 
 ```xml
 <customActions>
@@ -28,6 +28,6 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 </customActions>
 ```
 
- **Note**  You can specify  `this` as the value of the **targetForm** element to use the same message class and same form as those that the form region is defined on.
+ **Note**  You can specify `this` as the value of the **targetForm** element to use the same message class and same form as those that the form region is defined on.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

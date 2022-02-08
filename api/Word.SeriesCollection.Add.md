@@ -23,10 +23,7 @@ _expression_.**Add** (_Source_, _Rowcol_, _SeriesLabels_, _CategoryLabels_, _Rep
 
 _expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollection.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -40,16 +37,13 @@ _expression_ A variable that represents a **[SeriesCollection](Word.SeriesCollec
 
 A **[Series](Word.Series.md)** object that represents the new series.
 
-
 ## Remarks
 
 This method does not actually return a **Series** object as stated in the Object Browser.
 
-
 ## Example
 
-The following example creates a new series for the first chart in the active document. The data source for the new series is range  `B1:B10` on the workbook associated with the chart.
-
+The following example creates a new series for the first chart in the active document. The data source for the new series is range `B1:B10` on the workbook associated with the chart.
 
 ```vb
 With ActiveDocument.InlineShapes(1) 

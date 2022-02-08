@@ -82,7 +82,6 @@ The LCID specifies the language for the source. (See MSDN for valid language ide
 
 After removing optional elements, you may have a structure similar to the following XML structure. (You can determine which elements are required because they don't have a corresponding editable field in the **Create Source** dialog box. Omitting one or more required element raises a run-time error.)
 
-
 ```vb
 <b:Source xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography"> 
     <b:Tag>And01</b:Tag> 
@@ -106,8 +105,8 @@ After removing optional elements, you may have a structure similar to the follow
 
 Now that you have the basic structure of the source XML for a book, you can add additional book sources to the master source list and the current source list. You can locate additional elements by checking the **Show All Bibliography Fields** check box.
 
-> [!NOTE] 
-> Alternatively, you can obtain the XML from the bibliography source file named "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography`. This file stores the master source list for a user.
+> [!NOTE]
+> Alternatively, you can obtain the XML from the bibliography source file named "sources.xml" located at `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography`. This file stores the master source list for a user.
 
 ## Add sources to the master source list and the current source list
 
@@ -136,10 +135,9 @@ Sub AddBibSource()
 End Sub
 ```
 
-You can change the line  `Application.Bibliography.Sources.Add strXml` to `ActiveDocument.Bibliography.Sources.Add strXml`
+You can change the line `Application.Bibliography.Sources.Add strXml` to `ActiveDocument.Bibliography.Sources.Add strXml`
 
 Inserting a source programmatically into the master source list does not automatically add it to the current source list. However, to add a citation to a document, the source must be listed in the current source list. You can manually copy one or more sources from the master list to the current list by using the **Source Manager** dialog box, or you can programmatically copy one or more sources from the master list to the current list. The following example copies all sources in the master source to the current source. After the sources are added to your current list, you can insert citations for those sources into a document.
-
 
 ```vb
 Sub CopyToCurrentList() 
@@ -158,16 +156,14 @@ End Sub
 > [!NOTE] 
 > The value of the **Tag** property must be unique across sources in the current list. Thus the `On Error Resume Next` line is needed to allow the code to skip over any sources in the master list that have conflicting tag values in the current list. You can modify this code to capture instances when Word cannot copy a source from the master list to the current list.
 
-
 ## Share your source list
 
-There may be times when you want to share a source list with others in an organization. When you add sources to the master list, Word adds them to a file names "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\sources.xml`. You can share this file with others by giving them the file, which users can then load manually from the **Source Manager** dialog box or programmatically through code.
+There may be times when you want to share a source list with others in an organization. When you add sources to the master list, Word adds them to a file names "sources.xml" located at `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\sources.xml`. You can share this file with others by giving them the file, which users can then load manually from the **Source Manager** dialog box or programmatically through code.
 
-> [!NOTE] 
+> [!NOTE]
 > When a user loads a source file, this is a one-time-only occurrence and does not change either the existing master list or their current list. They can manually add the items in the shared source file to the current list by using the **Source Manager** dialog box.
 
 You can programmatically load a shared source. The following example shows how to load a shared source file that is located on a share on a local computer.
-
 
 ```vb
 Sub LoadSharedSource() 
@@ -175,13 +171,12 @@ Sub LoadSharedSource()
 End Sub
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > Sharing the source.xml source file shares only sources in the master source list. Sources located in the current source are located in a document's data store. You can access this file by saving a document and opening the resulting DOCX file in a file compression application, such as WinZip. You can find the source file at the path "customXml" with a file name of (or similar to) "item1.xml". If you need to share the sources in a document with other users, you can share this file the same way that you would share the master list source file, as described previously.
 
 ## Sort the master source list
 
 You can set the sort order in the **Source Manager** dialog box by using the **[BibliographySort](../../../api/Word.Options.BibliographySort.md)** property. The **BibliographySort** property can be a **String** value of "Author", "Tag", "Title", or "Year". This object does not alter the sorting of sources in the document's bibliography. The following example sorts the sources by title.
-
 
 ```vb
 Sub SortBibliography() 
@@ -232,9 +227,6 @@ After you insert a bibliography into a document, you can set the bibliography st
 
 The following example sets the default bibliography style to the MLA style.
 
-
-
-
 ```vb
 Sub SetBibliographyStyle() 
     Options.BibliographyStyle = "MLA" 
@@ -242,7 +234,7 @@ End Sub
 ```
 
 > [!NOTE]
-> You can also define your own documentation style in XML. The directory  `C:\Program Files\Microsoft Office\Office15\1033\Bibliography\Style` contains one XSL file for every documentation style on your computer. Open any file for a sample of how to create your own XSLT. Any user can share a custom bibliography style XSL file by placing it into the above folder on their computer.
+> You can also define your own documentation style in XML. The directory `C:\Program Files\Microsoft Office\Office15\1033\Bibliography\Style` contains one XSL file for every documentation style on your computer. Open any file for a sample of how to create your own XSLT. Any user can share a custom bibliography style XSL file by placing it into the above folder on their computer.
 
 ## Insert a bibliography
 

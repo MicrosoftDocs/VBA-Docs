@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
 3. Specify a value for the child **body** element of the **action** element.
 
-The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies that the body of the current item will be included and indented in the resulting item:
+The following example assigns `replyToBlog` as the internal name of a custom action, and specifies that the body of the current item will be included and indented in the resulting item:
 
 ```vb
 <customActions>
