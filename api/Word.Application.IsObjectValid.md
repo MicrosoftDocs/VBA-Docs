@@ -31,7 +31,7 @@ The **IsObjectValid** property returns **False** if the object referenced by the
 
 ## Example
 
-This example adds a table to the active document and assigns it to the variable  `aTable`. The example then deletes the first table from the document. If the table that aTable refers to was not the first table in the document (that is, if  `aTable` is still a valid object), the example also removes any borders from that table.
+This example adds a table to the active document and assigns it to the variable `aTable`. The example then deletes the first table from the document. If the table that aTable refers to was not the first table in the document (that is, if `aTable` is still a valid object), the example also removes any borders from that table.
 
 
 ```vb

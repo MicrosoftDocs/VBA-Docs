@@ -16,18 +16,15 @@ ms.localizationpriority: medium
 
  **True** if the specified form field object is a valid check box form field. Read-only **Boolean**.
 
-
 ## Syntax
 
 _expression_. `Valid`
 
 _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
-
 ## Example
 
-This example adds a text form field at the insertion point. Because  `myFormField` is a text input field and not a check box, the message box displays "False."
-
+This example adds a text form field at the insertion point. Because `myFormField` is a text input field and not a check box, the message box displays "False."
 
 ```vb
 Selection.Collapse Direction:=wdCollapseStart 
@@ -36,9 +33,7 @@ Set myFormField = ActiveDocument.FormFields.Add(Range:= _
 MsgBox myFormField.CheckBox.Valid
 ```
 
-
 ## See also
-
 
 [CheckBox Object](Word.CheckBox.md)
 

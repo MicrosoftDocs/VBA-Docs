@@ -14,8 +14,8 @@ ms.localizationpriority: medium
 
 Assume a new control has a **Top** property that is different from the standard **[Top](left-top-properties.md)** property in Microsoft Forms. Use either property, based on the syntax:
 
--  `control.Top` uses the standard **Top** property.
+- `control.Top` uses the standard **Top** property.
     
--  `control.Object.Top` uses the **Top** property from the added control.
+- `control.Object.Top` uses the **Top** property from the added control.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

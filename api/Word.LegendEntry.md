@@ -23,15 +23,10 @@ Represents a legend entry in a chart legend.
 
  Each legend entry has two parts:
 
-
-
-
 - The text of the entry, which is the name of the series or trendline associated with the legend entry.
     
 - The entry marker, which visually links the legend entry with its associated series or trendline in the chart.
     
-
-
 The formatting properties for the entry marker and its associated series or trendline are contained in the **[LegendKey](Word.LegendKey.md)** object.
 
 The text of a legend entry cannot be changed. **LegendEntry** objects support font formatting, and they can be deleted. No pattern formatting is supported for legend entries. The position and size of entries is fixed.
@@ -45,10 +40,7 @@ After legend entries have been deleted, the only way to restore them is to remov
 
 Use **[LegendEntries](Word.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
-The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document.
-
-
-
+The index number represents the position of the legend entry in the legend. `LegendEntries(1)` is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document.
 
 ```vb
 With ActiveDocument.InlineShapes(1) 
@@ -58,9 +50,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-
 ## See also
-
 
 [Word Object Model Reference](overview/Word/object-model.md)
 

@@ -26,7 +26,7 @@ _expression_. `HasChart`
 
 ## Remarks
 
-This property always returns false for OLE charts. For OLE charts, use  `InlineShape.OLEFormat.ProgID` and check for the following possible values: "Excel.Chart.8", "MSGraph.Chart.8", "Excel.Sheet.8", "Excel.Chart.5", "MSGraph.Chart.5", or "Excel.Sheet.5".
+This property always returns false for OLE charts. For OLE charts, use `InlineShape.OLEFormat.ProgID` and check for the following possible values: "Excel.Chart.8", "MSGraph.Chart.8", "Excel.Sheet.8", "Excel.Chart.5", "MSGraph.Chart.5", or "Excel.Sheet.5".
 
 
 ## See also

@@ -16,16 +16,13 @@ _expression_.**SetShapesDefaultProperties**
 
 _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
-
 ## Return value
 
  **Nothing**
 
-
 ## Remarks
 
-For example, the default foreground fill color of shapes is a medium-dark blue:  `&HD59B5B`, which is  `RGB(Red:=91, Green:=155, Blue:=213)`.
-
+For example, the default foreground fill color of shapes is a medium-dark blue: `&HD59B5B`, which is `RGB(Red:=91, Green:=155, Blue:=213)`.
 
 ## See also
 

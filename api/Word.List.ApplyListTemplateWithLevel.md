@@ -37,7 +37,7 @@ _expression_ A variable that represents a '[List](Word.List.md)' object.
 
 ## Example
 
-The following example sets the variable  `myRange` to a range in the active document, and then it verifies whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
+The following example sets the variable `myRange` to a range in the active document, and then it verifies whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
 
 
 ```vb

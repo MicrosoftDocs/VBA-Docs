@@ -35,7 +35,7 @@ The following example sets the built-in Heading 1 style to not be bold.
 ActiveDocument.Styles(wdStyleHeading1).Font.Bold = False
 ```
 
-The style index number represents the position of the style in the alphabetically sorted list of style names. Note that  `Styles(1)` is the first style in the alphabetical list. The following example displays the base style and style name of the first style in the **[Styles](Word.styles.md)** collection.
+The style index number represents the position of the style in the alphabetically sorted list of style names. Note that `Styles(1)` is the first style in the alphabetical list. The following example displays the base style and style name of the first style in the **[Styles](Word.styles.md)** collection.
 
 
 
