@@ -46,7 +46,7 @@ If there are no tracked changes to be found, the current selection remains uncha
 
 ## Example
 
-This example rejects the next tracked change found after the fifth paragraph in the active document. The  `revTemp`variable is set to **Nothing** if a change is not found.
+This example rejects the next tracked change found after the fifth paragraph in the active document. The `revTemp`variable is set to **Nothing** if a change is not found.
 
 
 ```vb

@@ -8,6 +8,7 @@ ms.localizationpriority: medium
 
 
 # Shapes.AddPolyline method (Project)
+
 Creates an open polyline or a closed polygon drawing, and returns a **Shape** object that represents the new polyline or polygon.
 
 ## Syntax
@@ -16,10 +17,7 @@ _expression_. `AddPolyline` _(SafeArrayOfPoints)_
 
 _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -31,16 +29,13 @@ _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object
 
  **Shape**
 
-
 ## Remarks
 
-To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &HD59B5B, or  `RGB(Red:=91, Green:=155, Blue:=213)`.
-
+To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &HD59B5B, or `RGB(Red:=91, Green:=155, Blue:=213)`.
 
 ## Example
 
 Because the first and last points are the same, the following example creates a closed octagon. The violet line is two points wide; the octagon is filled with a gold color.
-
 
 ```vb
 Sub AddOctagon()
@@ -83,9 +78,7 @@ Sub AddOctagon()
 End Sub
 ```
 
-
 ## See also
-
 
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)

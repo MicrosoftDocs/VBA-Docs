@@ -23,7 +23,7 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 The filter is a string expression that contains one or more filter clauses that are joined by the logical operators **Or**, **Not**, or **And**.
 
-A filter clause is a simple expression that evaluates to **True** or **False**; for example,  `[CompanyName] = "Microsoft"`
+A filter clause is a simple expression that evaluates to **True** or **False**; for example, `[CompanyName] = "Microsoft"`
 
 Note that property names can be used in the expression and are identified and delimited by square brackets. Except for these bracketed property names, only literals are allowed within the expression; variables and constants are not evaluated as part of the expression.
 

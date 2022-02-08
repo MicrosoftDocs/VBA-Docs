@@ -40,7 +40,7 @@ _expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBar
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prevents the user from removing a group from the **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook. You will still be prompted when you try to delete a shortcut. However, the group will not be deleted even if you clicked **Yes**.
+This Microsoft Visual Basic for Applications (VBA) example prevents the user from removing a group from the **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_handler` routine must be called before the event procedure can be called by Outlook. You will still be prompted when you try to delete a shortcut. However, the group will not be deleted even if you clicked **Yes**.
 
 
 ```vb

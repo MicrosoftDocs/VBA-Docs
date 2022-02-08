@@ -49,7 +49,7 @@ The event does not fire under the following circumstances:
 
 ## Example
 
-This Visual Basic for Applications (VBA) example asks the user if the user wants to resolve names and returns **False** to cancel the operation if the user answers no. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `SendMail()` procedure should be called before the event procedure can be called by Outlook.
+This Visual Basic for Applications (VBA) example asks the user if the user wants to resolve names and returns **False** to cancel the operation if the user answers no. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `SendMail()` procedure should be called before the event procedure can be called by Outlook.
 
 
 ```vb

@@ -12,43 +12,29 @@ ms.localizationpriority: medium
 # Group object (Project)
 
 Represents a group definition. A **Group** object is a member of the **[ResourceGroups](Project.resourcegroups(object).md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
- 
-
 
 ## Remarks
 
  **Using the Group Object**
- 
 
- 
-Use  `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
- 
 
- 
+Use `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
 
 ## Example
 
 The following example ensures that the Standard Rate resource group displays summary task information.
- 
-
- 
-
+  
 ```vb
 ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 ```
 
-
 ## Methods
-
-
 
 |Name|
 |:-----|
 |[Delete](Project.Group.Delete.md)|
 
 ## Properties
-
-
 
 |Name|
 |:-----|

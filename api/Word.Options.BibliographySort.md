@@ -16,21 +16,17 @@ ms.localizationpriority: medium
 
 Returns or sets a **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
 
-
 ## Syntax
 
 _expression_. `BibliographySort`
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 
-
 ## Remarks
 
-Possible values for the **BibliographySort** property are `Author`,  `Title`,  `Tag`, or  `Year`.
-
+Possible values for the **BibliographySort** property are `Author`, `Title`, `Tag`, or `Year`.
 
 ## See also
-
 
 [Options Object](Word.Options.md)
 

@@ -155,7 +155,7 @@ Sub Macro1()
 End Sub
 ```
 
-The arguments that are not needed can be removed from the recorded macro. For example, you could remove all of arguments set to an empty string (for example,  `WritePasswordDocument:=""`), as shown.
+The arguments that are not needed can be removed from the recorded macro. For example, you could remove all of arguments set to an empty string (for example, `WritePasswordDocument:=""`), as shown.
 
 
 

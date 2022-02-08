@@ -39,7 +39,7 @@ Use this method to bind an explicit built-in property or a custom property to a 
 
 The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](Outlook.ContactItem.CustomerID.md)** property.
 
-You can also use the following line of code  `myPage.Controls("bar").ItemProperty = "subject"` to bind the subject property to a control. However, note that untrusted code using this will trigger a security warning if the property is protected by the object model security guard such as **To**, and the client computer is running Microsoft Office Outlook 2007 or later but does not have an appropriately set up antivirus software. Use the **SetControlItemProperty** method to avoid security warnings with trusted applications.
+You can also use the following line of code `myPage.Controls("bar").ItemProperty = "subject"` to bind the subject property to a control. However, note that untrusted code using this will trigger a security warning if the property is protected by the object model security guard such as **To**, and the client computer is running Microsoft Office Outlook 2007 or later but does not have an appropriately set up antivirus software. Use the **SetControlItemProperty** method to avoid security warnings with trusted applications.
 
 
 ## Example

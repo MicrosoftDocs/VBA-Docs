@@ -36,7 +36,7 @@ You might use the GUID, for example, when making program calls to an Application
 
 ## Example
 
-This example returns the PowerPoint GUID to the variable  `pptGUID`.
+This example returns the PowerPoint GUID to the variable `pptGUID`.
 
 
 ```vb

@@ -69,7 +69,7 @@ firstSl.Shapes.Title.TextFrame.TextRange.Text = "Some title text"
 firstSl.Shapes(1).TextFrame.TextRange.Text = "Other title text"
 ```
 
-Assuming that shape two on slide two in the active presentation contains a text frame, the following example adds a series of paragraphs to the slide. Note that  `Chr(13)` is used to insert paragraph marks within the text.
+Assuming that shape two on slide two in the active presentation contains a text frame, the following example adds a series of paragraphs to the slide. Note that `Chr(13)` is used to insert paragraph marks within the text.
 
 
 

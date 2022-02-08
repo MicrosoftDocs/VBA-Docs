@@ -57,7 +57,7 @@ If you are using VBA to create macros, there are two ways you can automate Outlo
 
  **Caution** This new instance of Outlook is not trusted and can trigger the object model guard. 
 
-As an alternative to creating and automating a separate instance of Outlook, you can use VBA to implement a macro that automates the current instance of Outlook. To do so, use the **Application** object intrinsic to the environment. This **Application** object is trusted and can avoid triggering the object model guard. For more information about the object model guard, see [What's New for Developers in Outlook 2007 (Part 1 of 2)](../../../api/overview/Outlook.md). The following example shows the  `CreateAnotherNewDefaultOutlookTask()` method using the **Application** object from the current instance of Outlook.
+As an alternative to creating and automating a separate instance of Outlook, you can use VBA to implement a macro that automates the current instance of Outlook. To do so, use the **Application** object intrinsic to the environment. This **Application** object is trusted and can avoid triggering the object model guard. For more information about the object model guard, see [What's New for Developers in Outlook 2007 (Part 1 of 2)](../../../api/overview/Outlook.md). The following example shows the `CreateAnotherNewDefaultOutlookTask()` method using the **Application** object from the current instance of Outlook.
 
 ```vb
 Sub CreateAnotherNewDefaultOutlookTask() 

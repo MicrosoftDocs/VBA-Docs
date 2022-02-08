@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 When you make a selection from a list box, the **BoundColumn** property tells Microsoft Access which column's values to use as the value of the control. If the control is bound to a field, the value in the column specified by the **BoundColumn** property is stored in the field named in the **ControlSource** property. Read/write **Long**.
 
-
 ## Syntax
 
 _expression_.**BoundColumn**
 
 _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
-
 
 ## Remarks
 
@@ -37,13 +35,12 @@ For table fields, you can set this property on the **Lookup** tab in the Field P
 
 In Visual Basic, set the **BoundColumn** property by using a number or a numeric expression equal to a value from 0 to the setting of the **ColumnCount** property.
 
-> [!NOTE] 
+> [!NOTE]
 > If the bound column is not the same as the leftmost visible column in the control (or if you set the **BoundColumn** property to 0), the **LimitToList** property is set to Yes.
 
-Access uses zero-based numbers to refer to columns in the **Column** property. That is, the first column is referenced by using the expression `Column(0)`, the second column is referenced by using the expression  `Column(1)`, and so on. However, the **BoundColumn** property uses 1-based numbers to refer to the columns. This means that if the **BoundColumn** property is set to 1, you could access the value stored in that column by using the expression `Column(0)`.
+Access uses zero-based numbers to refer to columns in the **Column** property. That is, the first column is referenced by using the expression `Column(0)`, the second column is referenced by using the expression `Column(1)`, and so on. However, the **BoundColumn** property uses 1-based numbers to refer to the columns. This means that if the **BoundColumn** property is set to 1, you could access the value stored in that column by using the expression `Column(0)`.
 
-If the **AutoExpand** property is set to Yes, Access automatically fills in a value in the text box portion of the combo box that matches a value in the combo box list as you type.
-
+If the **AutoExpand** property is set to Yes, Access automatically fills in a value in the text box portion of the combo box that matches a value in the combo box list as you type
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

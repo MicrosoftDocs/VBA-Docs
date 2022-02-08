@@ -45,7 +45,7 @@ Sub FileSave()
 End Sub
 ```
 
-You can add additional instructions or remove the existing  `ActiveDocument.Save` instruction. Now every time the FileSave command runs, your FileSave macro runs instead of the Word command. To restore the original FileSave functionality, you need to rename or delete your FileSave macro.
+You can add additional instructions or remove the existing `ActiveDocument.Save` instruction. Now every time the FileSave command runs, your FileSave macro runs instead of the Word command. To restore the original FileSave functionality, you need to rename or delete your FileSave macro.
 
 ## Remarks
 

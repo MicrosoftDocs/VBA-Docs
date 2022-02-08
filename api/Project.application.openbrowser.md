@@ -11,6 +11,7 @@ ms.localizationpriority: medium
 
 
 # Application.OpenBrowser method (Project)
+
 Opens the default web browser to a specified URL or the Windows Explorer to a specified directory or project file.
 
 ## Syntax
@@ -19,10 +20,7 @@ _expression_. `OpenBrowser` _(URL)_
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,34 +32,31 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
  **True** if the web browser or the Windows Explorer opens; otherwise, **False**.
 
-
 ## Remarks
 
 Use the **OpenBrowser** method to open the browser to a specified URL. If the _URL_ parameter is not specified, the **OpenBrowser** method opens the Windows Explorer to the **My Documents** folder on the local computer.
 
 If you specify an .MPP file path, Project opens the file.
 
-
 ## Examples
 
 The following examples are valid, if the specified  _URL_ location exists:
 
 
--  `Application.OpenBrowser()`
+- `Application.OpenBrowser()`
     
--  `Application.OpenBrowser("https://MySharePointSite")`
+- `Application.OpenBrowser("https://MySharePointSite")`
     
--  `Application.OpenBrowser("https://MySharePointSite/_layouts/15/start.aspx#/Lists/Test%20tasks%20list%201/")`
+- `Application.OpenBrowser("https://MySharePointSite/_layouts/15/start.aspx#/Lists/Test%20tasks%20list%201/")`
     
--  `Application.OpenBrowser("file:///C:/Project")`
+- `Application.OpenBrowser("file:///C:/Project")`
     
--  `Application.OpenBrowser("file://localhost/C|/Project")`
+- `Application.OpenBrowser("file://localhost/C|/Project")`
     
--  `Application.OpenBrowser("file:///C|/Project/Samples/Project1.mpp")`
+- `Application.OpenBrowser("file:///C|/Project/Samples/Project1.mpp")`
     
 
 ## See also
-
 
 [Application Object](Project.Application.md)
 

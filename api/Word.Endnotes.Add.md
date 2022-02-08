@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Returns an **Endnote** object that represents an endnote added to a range.
 
-
 ## Syntax
 
 _expression_.**Add** (_Range_, _Reference_, _Text_)
 
 _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,13 +32,11 @@ _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.m
 
 ## Remarks
 
-To specify a symbol for the Reference argument, use the syntax  `{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the **Font** box in the **Symbol** dialog box (**Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
-
+To specify a symbol for the Reference argument, use the syntax `{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the **Font** box in the **Symbol** dialog box (**Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
 
 ## Example
 
 This example adds an endnote to the third paragraph in the active document
-
 
 ```vb
 Set myRange = ActiveDocument.Paragraphs(3).Range 
@@ -50,9 +44,7 @@ ActiveDocument.Endnotes.Add Range:=myRange, _
  Text:= "Ibid., 314."
 ```
 
-
 ## See also
-
 
 [Endnotes Collection Object](Word.endnotes.md)
 

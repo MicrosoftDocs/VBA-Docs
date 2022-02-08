@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Occurs when an Outlook item is cut from a folder.
 
-
 ## Syntax
 
 _expression_. `BeforeItemCut`( `_Cancel_` )
@@ -25,8 +24,6 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +36,7 @@ This event can be cancelled after it has started. If the event is canceled, then
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before the item is cut from the folder. If the user clicks **Yes**, the item is cut from the folder. If the user clicks **No**, the item will not be removed from the folder. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before the item is cut from the folder. If the user clicks **Yes**, the item is cut from the folder. If the user clicks **No**, the item will not be removed from the folder. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

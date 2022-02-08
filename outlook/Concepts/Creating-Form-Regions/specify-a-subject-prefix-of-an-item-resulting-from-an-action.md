@@ -18,7 +18,7 @@ ms.localizationpriority: medium
     
 3. Specify a string that represents the prefix of the subject line of the resulting item as the value of the child **subjectPrefix** element of the **action** element.
     
-The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies `Re` as the subject line prefix for the resulting item:
+The following example assigns `replyToBlog` as the internal name of a custom action, and specifies `Re` as the subject line prefix for the resulting item:
 
 ```vb
 <customActions>

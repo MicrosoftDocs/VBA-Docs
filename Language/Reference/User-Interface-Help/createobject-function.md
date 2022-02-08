@@ -69,7 +69,7 @@ Set ExcelSheet = Nothing
 
 <br/>
 
-Declaring an object variable with the  `As Object` clause creates a variable that can contain a reference to any type of object. However, access to the object through that variable is late bound; that is, the binding occurs when your program is run. To create an object variable that results in early binding, that is, binding when the program is compiled, declare the object variable with a specific class ID. For example, you can declare and create the following Microsoft Excel references:
+Declaring an object variable with the `As Object` clause creates a variable that can contain a reference to any type of object. However, access to the object through that variable is late bound; that is, the binding occurs when your program is run. To create an object variable that results in early binding, that is, binding when the program is compiled, declare the object variable with a specific class ID. For example, you can declare and create the following Microsoft Excel references:
 
 ```vb
 Dim xlApp As Excel.Application 
@@ -97,7 +97,7 @@ You can create an object on a remote networked computer by passing the name of t
 > [!NOTE] 
 > Refer to COM documentation (see _Microsoft Developer Network_) for additional information about making an application visible on a remote networked computer. You may have to add a registry key for your application.-->
 
-The following code returns the version number of an instance of Excel running on a remote computer named  `MyServer`:
+The following code returns the version number of an instance of Excel running on a remote computer named `MyServer`:
 
 ```vb
 Dim xlApp As Object

@@ -13,15 +13,11 @@ This topic shows how to use the MAPI property, [PidTagInternetMailOverrideFormat
 
 The following code sample in Visual C# shows how to reference **PidTagInternetMailOverrideFormat** with its MAPI proptag namespace and use the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object of the Outlook object model to specify MIME as the Internet encoding scheme for a message. **PidTagInternetMailOverrideFormat** is referenced as:
 
-
-
 ```vb
 https://schemas.microsoft.com/mapi/proptag/0x59020003
 ```
 
-where  `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
-
-
+where `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
 
 ```cs
 private void SendMail_Click() 

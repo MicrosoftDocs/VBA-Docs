@@ -10,26 +10,16 @@ ms.localizationpriority: medium
 # Groups object (Project)
 
 Represents a collection of **[Group](Project.Group.md)** objects.
- 
-
 
 ## Remarks
 
 For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the **[Groups2](Project.groups2.md)** collection object.
- 
-
- 
-Use  `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
- 
-
- 
+  
+Use `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
 
 ## Example
 
 The following example ensures that the Standard Rate resource group displays summary task information.
- 
-
- 
 
 ```vb
 ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True 
@@ -37,10 +27,7 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
 ```
 
-
 ## Methods
-
-
 
 |Name|
 |:-----|
@@ -48,8 +35,6 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 |[Copy](Project.Groups.Copy.md)|
 
 ## Properties
-
-
 
 |Name|
 |:-----|
@@ -59,8 +44,6 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 |[Parent](Project.Groups.Parent.md)|
 
 ## See also
-
-
  
 [Project Object Model](../project/Concepts/project-object-model.md)
 

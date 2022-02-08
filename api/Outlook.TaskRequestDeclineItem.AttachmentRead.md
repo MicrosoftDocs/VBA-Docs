@@ -31,7 +31,7 @@ _expression_ A variable that represents a [TaskRequestDeclineItem](Outlook.TaskR
 
 ## Example
 
-This Visual Basic for Applications (VBA) example displays a message when the user tries to read an attachment. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `TestAttachRead()` procedure should be called before the event procedure can be called by Microsoft Outlook. For this example to run, there has to be at least one item in the Inbox with subject as 'Test' and containing at least one attachment.
+This Visual Basic for Applications (VBA) example displays a message when the user tries to read an attachment. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `TestAttachRead()` procedure should be called before the event procedure can be called by Microsoft Outlook. For this example to run, there has to be at least one item in the Inbox with subject as 'Test' and containing at least one attachment.
 
 
 ```vb

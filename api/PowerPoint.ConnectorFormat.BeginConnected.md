@@ -42,7 +42,7 @@ The value of the **BeginConnected** property can be one of these **MsoTriState**
 
 ## Example
 
-If shape three on the first slide in the active presentation is a connector whose beginning is connected to a shape, this example stores the connection site number in the variable  `oldBeginConnSite`, stores a reference to the connected shape in the object variable  `oldBeginConnShape`, and then disconnects the beginning of the connector from the shape.
+If shape three on the first slide in the active presentation is a connector whose beginning is connected to a shape, this example stores the connection site number in the variable `oldBeginConnSite`, stores a reference to the connected shape in the object variable `oldBeginConnShape`, and then disconnects the beginning of the connector from the shape.
 
 
 ```vb

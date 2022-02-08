@@ -18,8 +18,6 @@ Adds a [member](../../Glossary/vbe-glossary.md#member) to a **[Collection](colle
 
 _object_.**Add** _item_, _key_, _before_, _after_
 
-<br/>
-
 The **Add** method syntax has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -38,8 +36,7 @@ An error also occurs if a specified _key_ duplicates the _key_ for an existing m
 
 ## Example
 
-This example uses the **Add** method to add `Inst` objects (instances of a class called `Class1` containing a **Public** variable `InstanceName`) to a collection called  `MyClasses`. To see how this works, insert a class module and declare a public variable called  `InstanceName` at module level of `Class1` (type `Public InstanceName`) to hold the names of each instance. Leave the default name as `Class1`. Copy and paste the following code into the `Form_Load` event procedure of a form module.
-
+This example uses the **Add** method to add `Inst` objects (instances of a class called `Class1` containing a **Public** variable `InstanceName`) to a collection called `MyClasses`. To see how this works, insert a class module and declare a public variable called `InstanceName` at module level of `Class1` (type `Public InstanceName`) to hold the names of each instance. Leave the default name as `Class1`. Copy and paste the following code into the `Form_Load` event procedure of a form module.
 
 ```vb
 Dim MyClasses As New Collection    ' Create a Collection object.

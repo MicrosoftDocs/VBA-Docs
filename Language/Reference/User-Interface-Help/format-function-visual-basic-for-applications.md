@@ -167,7 +167,6 @@ A format [expression](../../Glossary/vbe-glossary.md#expression) for strings can
 |One section only|The format applies to all string data.|
 |Two sections|The first section applies to string data, the second to [Null](../../Glossary/vbe-glossary.md#null) values and zero-length strings ("").|
 
-
 ## Named date/time formats
 
 The following table identifies the predefined date and time format names.
@@ -218,13 +217,13 @@ The following table identifies characters you can use to create user-defined dat
 |:-----|:-----|
 |(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
 |(**/**)|[Date separator](../../Glossary/vbe-glossary.md#date-separators). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
-|c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
+|c|Display the date as `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
 |d|Display the day as a number without a leading zero (1&ndash;31).|
 |dd|Display the day as a number with a leading zero (01&ndash;31).|
 |ddd|Display the day as an abbreviation (Sun&ndash;Sat). Localized.|
 |dddd|Display the day as a full name (Sunday&ndash;Saturday). Localized.|
-|ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is  `m/d/yy`.|
-|dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is  `mmmm dd, yyyy`.|
+|ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is `m/d/yy`.|
+|dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is `mmmm dd, yyyy`.|
 |w|Display the day of the week as a number (1 for Sunday through 7 for Saturday).|
 |ww|Display the week of the year as a number (1&ndash;54).|
 |m|Display the month as a number without a leading zero (1&ndash;12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|

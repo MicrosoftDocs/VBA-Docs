@@ -11,6 +11,7 @@ ms.localizationpriority: medium
 
 
 # Chart.GetChartElement method (Project)
+
 Returns information about the chart element at specified X and Y coordinates. This method will be removed in the released version of Project 2013.
 
 ## Syntax
@@ -18,7 +19,6 @@ Returns information about the chart element at specified X and Y coordinates. Th
 _expression_.**GetChartElement** (_x_, _y_, _ElementID_, _Arg1_, _Arg2_)
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
-
 
 ## Parameters
 
@@ -30,22 +30,18 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
 
-
 ## Return value
 
 The **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
 
-
 ## Remarks
-<a name="pj15_VBAGetChartElement_Remarks"> </a>
 
-> [!NOTE] 
+> [!NOTE]
 > The **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
 
 The **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
 
 The value of  _ElementID_ after the method returns determines whether _Arg1_ and _Arg2_ contain any information (see Table 1).
-
 
 **Table 1. Information in Arg1 and Arg2, based on the element ID**
 
@@ -85,13 +81,9 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 |**xlXErrorBars**|10|SeriesIndex|None|
 |**xlYErrorBars**|11|SeriesIndex|None|
 
-
-
 Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.
 
-
 **Table 2. Meaning of data in Arg1 and Arg2**
-
 
 |**Argument**|**Description**|
 |:-----|:-----|
@@ -106,10 +98,8 @@ Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Val
 |TrendlineIndex|Specifies the offset within the **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|
 
 ## Example
-<a name="pj15_VBAGetChartElement_Remarks"> </a>
 
-The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1, **xlPlotArea** = 19.
-
+The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is `idNum: 19, a: 0, b: 0`. From the information in Table 1, **xlPlotArea** = 19.
 
 ```vb
 Sub TestGetChartElements()
@@ -134,13 +124,7 @@ Sub TestGetChartElements()
 End Sub
 ```
 
-
 ## See also
-<a name="pj15_VBAGetChartElement_Remarks"> </a>
-
-
-
-
 
 [Chart Object](Project.chart.md)
 

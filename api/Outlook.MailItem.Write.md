@@ -36,7 +36,7 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the **Write** event and warns the user that the item is about to be saved and will overwrite any existing item and, depending on the user's response, either allows the operation to continue or stops it. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine must be called before the event procedure can be called by Outlook.
+This Visual Basic for Applications (VBA) example uses the **Write** event and warns the user that the item is about to be saved and will overwrite any existing item and, depending on the user's response, either allows the operation to continue or stops it. If this event is canceled, Microsoft Outlook displays an error message. Therefore, you need to capture this event in your code. One way to do this is shown below. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_Handler()` subroutine must be called before the event procedure can be called by Outlook.
 
 
 ```vb
