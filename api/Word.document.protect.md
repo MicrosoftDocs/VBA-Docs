@@ -14,20 +14,18 @@ ms.localizationpriority: medium
 
 Protects the specified document from unauthorized changes.
 
-
 ## Syntax
 
 _expression_.**Protect** (_Type_, _NoReset_, _Password_, _UseIRM_, _EnforceStyleLock_)
 
 _expression_ A variable that represents a **[Document](./Word.Document.md)** object.
 
-
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **WdProtectionType**|The type of protection to apply.|
-| _NoReset_|Optional|**Variant**| **False** to reset form fields to their default values; **True** to retain the current form field values if the document is protected. If _Type_ is not **wdAllowOnlyFormFields**,  _NoReset_ is ignored.|
+| _NoReset_|Optional|**Variant**| **False** to reset form fields to their default values; **True** to retain the current form field values if the document is protected. If _Type_ is not **wdAllowOnlyFormFields**, _NoReset_ is ignored.|
 | _Password_|Optional|**Variant**|If supplied, the password to be able to edit the document, or to change or remove protection.|
 | _UseIRM_|Optional|**Variant**|Specifies whether to use Information Rights Management (IRM) when protecting the document from changes.|
 | _EnforceStyleLock_|Optional|**Variant**|Specifies whether formatting restrictions are enforced for a protected document.|
@@ -40,8 +38,5 @@ _expression_ A variable that represents a **[Document](./Word.Document.md)** obj
 ## Return value
 
 **VOID**
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

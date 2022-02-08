@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Error
 ms.assetid: 12901147-8a12-b94b-0aa9-6cd9fe43b2e8
-ms.date: 11/15/2018
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
@@ -18,23 +18,23 @@ Occurs when a control detects an error and cannot return the error information t
 
 ## Syntax
 
-For MultiPage  <br/>
-**Private Sub**_object_ _**Error(**_index_**As Long**,  <br/>
-**ByVal**_Number_**As Integer**,  <br/>
-**ByVal**_Description_**As MSForms.ReturnString**,  <br/>
-**ByVal**_SCode_**As SCode**,   <br/>
-**ByVal**_Source_**As String**,   <br/>
-**ByVal**_HelpFile_**As String**,   <br/>
-**ByVal**_HelpContext_**As Long**,   <br/>
+For MultiPage:
+**Private Sub**_object_ _**Error(**_index_**As Long**,
+**ByVal**_Number_**As Integer**,
+**ByVal**_Description_**As MSForms.ReturnString**,
+**ByVal**_SCode_**As SCode**,
+**ByVal**_Source_**As String**,
+**ByVal**_HelpFile_**As String**,
+**ByVal**_HelpContext_**As Long**,
 **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 
-For other controls  <br/>
-**Private Sub**_object_ _**Error( ByVal**_Number_**As Integer**, <br/>
-**ByVal**_Description_**As MSForms.ReturnString**,  <br/>
-**ByVal**_SCode_**As SCode**, <br/> 
-**ByVal**_Source_**As String**, <br/> 
-**ByVal**_HelpFile_**As String**, <br/> 
-**ByVal**_HelpContext_**As Long**, <br/> 
+For other controls:
+**Private Sub**_object_ _**Error( ByVal**_Number_**As Integer**,
+**ByVal**_Description_**As MSForms.ReturnString**,
+**ByVal**_SCode_**As SCode**,
+**ByVal**_Source_**As String**,
+**ByVal**_HelpFile_**As String**,
+**ByVal**_HelpContext_**As Long**,
 **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 
 The **Error** event syntax has these parts:

@@ -22,7 +22,6 @@ Private Sub cmdPaste_Click()
 End Sub
 ```
 
-
 ## Use the Windows API
 
 To use API calls to retrieve information from the Clipboard, paste the following code into the Declarations section of a standard module.
@@ -48,8 +47,6 @@ Public Const GHND = &H42
 Public Const CF_TEXT = 1 
 Public Const MAXSIZE = 4096
 ```
-
-<br/>
 
 Paste the following code into a standard module.
 
@@ -96,14 +93,10 @@ OutOfHere:
 End Function
 ```
 
-<br/>
-
 To test the function, copy some text to the Clipboard. Paste the following code in the Immediate window and press Enter. A message box appears with the text on the Clipboard. 
 
 ```vb
 strClip = ClipBoard_GetData: MsgBox strClip
 ```
-
-<br/>
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

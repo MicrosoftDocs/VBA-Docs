@@ -63,9 +63,8 @@ For example, if you enter  _45.635°_, Visio displays the equivalent value as 45
 
 You can specify fractional units of measure in the DrawingScale cell to affect the number of ruler subdivisions that Visio displays in the drawing window. By default, Visio divides distances into tenths when drawing its rulers. If you use fractional units of measure in the DrawingScale cell, Visio divides distance into the following:
 
-
-- Eighths for **visInchFrac** and **visMileFrac**    
-- Twelfths for **visFeetAndInches**    
+- Eighths for **visInchFrac** and **visMileFrac**
+- Twelfths for **visFeetAndInches**
 
 Fractional units of measure have no effect in cells other than in the DrawingScale cell.
 
@@ -137,7 +136,6 @@ For example, suppose you enter the equivalent of 1 inch in cell A using explicit
 
 To enter units implicitly, use the following syntax.
 
-
 ```vb
 number [unit, flag]  
 ```
@@ -150,8 +148,6 @@ number [unit, flag]
 
 The element  _flag_ is one of the following letters (either uppercase or lowercase) indicating the measurement system that should be used when the implicit-value unit is displayed.
 
-
-
 |**_flag_**|**Measurement system**|**Example**|
 |:-----|:-----|:-----|
 | a, A| Angular| =5[deg,A]|
@@ -160,10 +156,9 @@ The element  _flag_ is one of the following letters (either uppercase or lowerca
 | p, P| Page| =5[in,P]|
 | t, T| Type| =5[pt,T]|
 
-Additionally, you can use the implicit units DL, DP, DT, DA, DE for implicit drawing-, page-, text-, angular-, and time-units, respectively. These units assume the associated value is internal units. For example, if the current measurement system is centimeters,  _=2 DL_ would be interpreted as 2 internal units (inches) and displayed as 5.08 cm.
+Additionally, you can use the implicit units DL, DP, DT, DA, DE for implicit drawing-, page-, text-, angular-, and time-units, respectively. These units assume the associated value is internal units. For example, if the current measurement system is centimeters, _=2 DL_ would be interpreted as 2 internal units (inches) and displayed as 5.08 cm.
 
 Using the implicit syntax described above, this expression (=2 DL) is equivalent to 2[in,d]. The implicit syntax gives you the choice of how to interpret the value, so you could also specify 2[ft,d], which would be interpreted as 2 feet, and displayed as 60.96 cm. The implicit units DL, DP, DT, DA, and DE are universal, and don't have localized counterparts.
-
 
 ## Default units of measure
 

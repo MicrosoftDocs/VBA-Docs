@@ -15,7 +15,7 @@ Specifies the tables or queries that contain the fields listed in the [SELECT](h
 
 ## Syntax
 
-SELECT  _fieldlist_ FROM _tableexpression_ [IN _externaldatabase_ ]
+SELECT _fieldlist_ FROM _tableexpression_ [IN _externaldatabase_ ]
 
 A SELECT statement containing a FROM clause has these parts:
 
@@ -23,26 +23,25 @@ A SELECT statement containing a FROM clause has these parts:
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](https://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
 | _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](https://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or [RIGHT JOIN](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
-| _externaldatabase_|The full path of an external database containing all the tables in  _tableexpression._|
+| _externaldatabase_|The full path of an external database containing all the tables in _tableexpression._|
 
 ## Remarks
 
 FROM is required and follows any SELECT statement.
 
-The order of the table names in  _tableexpression_ is not important.
+The order of the table names in _tableexpression_ is not important.
 
 For improved performance and ease of use, it is recommended that you use a linked table instead of an IN clause to retrieve data from an external database.
 
 The following example shows how you can retrieve data from the Employees table:
-
 
 ```sql
 SELECT LastName, FirstName 
 FROM Employees;
 ```
 
-
 ## Example
+
 Some of the following examples assume the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
 This example creates a dynaset-type **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
@@ -73,8 +72,6 @@ Sub SelectX1()
 End Sub
 ```
 
-<br/>
-
 This example counts the number of records that have an entry in the PostalCode field and names the returned field Tally.
 
 ```vb
@@ -102,8 +99,6 @@ Sub SelectX2()
  
 End Sub
 ```
-
-<br/>
 
 This example shows the number of employees and the average and maximum salaries.
 
@@ -135,8 +130,6 @@ Sub SelectX3()
  
 End Sub
 ```
-
-<br/>
 
 The **Sub** procedure EnumFields is passed a **Recordset** object from the calling procedure. The procedure then formats and prints the fields of the **Recordset** to the **Debug** window. The variable is the desired printed field width. Some fields may be truncated.
 

@@ -14,13 +14,11 @@ ms.localizationpriority: medium
 
 Returns information about project summary, including the Project Utilization type and Project Utilization date information. Introduced in Office 2016.
 
-
 ## Syntax
 
-_expression_.**ProjectSummaryInfoEx** (_Project_,  _Project_,  _Title_,  _Subject_,  _Author_,  _Company_,  _Manager_,  _Keywords_,  _Comments_,  _Start_,  _Finish_,  _ScheduleFrom_,  _CurrentDate_,  _Calendar_,  _StatusDate_,  _Priority_,  _UtilizationType_,  _UtilizationDate_,  _PartiallyDisabled_)
+_expression_.**ProjectSummaryInfoEx** (_Project_, _Project_, _Title_, _Subject_, _Author_, _Company_, _Manager_, _Keywords_, _Comments_, _Start_, _Finish_, _ScheduleFrom_, _CurrentDate_, _Calendar_, _StatusDate_, _Priority_, _UtilizationType_, _UtilizationDate_, _PartiallyDisabled_)
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
-
 
 ## Parameters
 
@@ -35,7 +33,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Keywords_|Optional|**String**|The keywords associated with the project.|
 | _Comments_|Optional|**String**|The comments associated with the project.|
 | _Start_|Optional|**Variant**|The start date of the project. If ScheduleFrom is pjProjectFinish, Start is ignored|
-| _Finish_|Optional|**Variant**|The start date of the project. If **ScheduleFrom** is **pjProjectFinish**,  _Start_ is ignored|
+| _Finish_|Optional|**Variant**|The start date of the project. If **ScheduleFrom** is **pjProjectFinish**, _Start_ is ignored|
 | _ScheduleFrom_|Optional|**Integer**|Can be one of the following **PjScheduleProjectFrom** constants: **pjProjectStart** or **pjProjectFinish**.|
 | _CurrentDate_|Optional|**Variant**|The current date for the project.|
 | _Calendar_|Optional|**String**|The name of the base calendar for the project.|
@@ -48,7 +46,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 ## Return value
 
  **BOOL**
-
 
 ### Remarks
 

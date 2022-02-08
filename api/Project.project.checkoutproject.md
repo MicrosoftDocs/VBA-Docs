@@ -11,6 +11,7 @@ ms.localizationpriority: medium
 
 
 # Project.CheckoutProject method (Project)
+
 Checks out an open project that is currently in read-only mode.
 
 ## Syntax
@@ -19,21 +20,17 @@ _expression_. `CheckoutProject`
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 
-
 ## Return value
 
  **Nothing**
-
 
 ## Remarks
 
 If the active project in Project Professional is in read-only mode, the **CheckoutProject**.method checks out the project so that it is in read/write mode for editing. If the active project is already checked out, Project shows a dialog box with the message, "This project is already checked out to you on a different computer or Project Web App session."
 
-
 ## Example
 
-The following example determines whether an open project is an enterprise project and is checked out. If the project is not checked out, the example tries to check out the project. If the project is already checked out to you, Project shows a dialog box with the error message, ''This project is already checked out to you on a different computer or Project Web App session." If the project is checked out by another user, Project shows a dialog box with the message, "To check out,  _DOMAIN\UserName_ must close the project in their session or contact your administrator to check in the project."
-
+The following example determines whether an open project is an enterprise project and is checked out. If the project is not checked out, the example tries to check out the project. If the project is already checked out to you, Project shows a dialog box with the error message, ''This project is already checked out to you on a different computer or Project Web App session." If the project is checked out by another user, Project shows a dialog box with the message, "To check out, _DOMAIN\UserName_ must close the project in their session or contact your administrator to check in the project."
 
 ```vb
 Sub CheckOutOpenEnterpriseProjects()
@@ -60,14 +57,10 @@ Sub CheckOutOpenEnterpriseProjects()
 End Sub
 ```
 
-
 ## See also
-
 
 [Project Object](Project.Project.md)
 [Checkin Method](Project.Project.CheckIn.md)
-
-
 
 [Application.IsCheckedOut](Project.application.ischeckedout.md)
 [Application.ProjectCheckOut](Project.application.projectcheckout.md)

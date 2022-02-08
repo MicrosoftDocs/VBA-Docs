@@ -18,8 +18,6 @@ Writes data to a sequential file.
 
 **Write #**_filenumber_, [ _outputlist_ ]
 
-<br/>
-
 The **Write #** statement syntax has these parts:
 
 |Part|Description|
@@ -36,33 +34,25 @@ If you omit _outputlist_ and include a comma after _filenumber_, a blank line is
 When **Write #** is used to write data to a file, several universal assumptions are followed so that the data can always be read and correctly interpreted by using **Input #**, regardless of [locale](../../Glossary/vbe-glossary.md#locale):
 
 - Numeric data is always written by using the period as the decimal separator.
-    
 - For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `#TRUE#` or `#FALSE#` is printed. The **True** and **False** [keywords](../../Glossary/vbe-glossary.md#keyword) are not translated, regardless of locale.
-    
 - [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written to the file by using the [universal date format](../../Glossary/vbe-glossary.md#universal-date-format). When either the date or the time component is missing or zero, only the part provided gets written to the file.
-    
 - Nothing is written to the file if _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, for [Null](../../Glossary/vbe-glossary.md#null) data, `#NULL#` is written.
-    
 - If _outputlist_ data is **Null** data, `#NULL#` is written to the file.
-    
 - For **Error** data, the output appears as `#ERROR errorcode#`. The **Error** keyword is not translated, regardless of locale.
-    
 
 Unlike the **[Print #](printstatement.md)** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed (**Chr**(13) + **Chr**(10) ), after it has written the final character in _outputlist_ to the file.
 
-> [!NOTE] 
+> [!NOTE]
 > You should not write strings that contain embedded quotation marks, for example, `"1,2""X"` for use with the **Input #** statement; **Input #** parses this string as two complete and separate strings.
-
 
 ## Example
 
 This example uses the **Write #** statement to write raw data to a sequential file.
 
-
 ```vb
 Open "TESTFILE" For Output As #1    ' Open file for output. 
 Write #1, "Hello World", 234    ' Write comma-delimited data. 
-Write #1,    ' Write blank line. 
+Write #1, ' Write blank line. 
  
 Dim MyBool, MyDate, MyNull, MyError 
 ' Assign Boolean, Date, Null, and Error values. 

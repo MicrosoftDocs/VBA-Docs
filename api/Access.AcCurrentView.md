@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **CurrentView** property to determine the current view of an object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCurViewDatasheet**|2|The object is in Datasheet view.|

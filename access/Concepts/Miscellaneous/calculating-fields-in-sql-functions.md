@@ -15,7 +15,6 @@ Use the string expression argument in an SQL aggregate function to perform a cal
 
 The following table provides examples of calculations on fields from the Orders and Order Details tables in the Northwind.mdb database.
 
-
 |**Calculation**|**Example**|
 |:-----|:-----|
 |Add a number to a field| `Freight + 5`|
@@ -26,8 +25,6 @@ The following table provides examples of calculations on fields from the Orders 
 |Subtract one field from another| `ReorderLevel - UnitsInStock`|
 
 The following example calculates the average discount amount of all orders in the Northwind.mdb database. It multiplies the values in the UnitPrice and Discount fields to determine the discount amount of each order and then calculates the average. Use this expression in an SQL statement in Visual Basic code:
-
-<br/>
 
 ```sql
 SELECT Avg(UnitPrice * Discount) AS [Average Discount] FROM [Order Details];

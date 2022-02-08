@@ -25,7 +25,6 @@ Form1!TabControl1
 
 ```
 
-
 ## Refer to the Pages collection
 
 A tab control contains one or more pages. Each page in a tab control is referenced as a member of the tab control's **[Pages](../../../api/Access.TabControl.Pages.md)** collection. Each page in the **Pages** collection can be referred to by either its **[PageIndex](../../../api/Access.Page.PageIndex.md)** property setting (which reflects the page's position in the collection starting with 0), or by the page's **[Name](../../../api/Access.Page.Name.md)** property setting. 
@@ -46,7 +45,7 @@ Page1.Caption = "First Page"
 
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > If a user or code changes a page's **PageIndex** property, the reference to the page's index and the page's position in the page order change. In this case, if you want to maintain an absolute reference to a page, refer to the page's **Name** property.
 
 The **Pages** collection has one property, **[Count](../../../api/Access.Pages.Count.md)**, that returns the number of pages in a tab control. Note that this property is not a property of the tab control itself, but of its **Pages** collection, so you must explicitly refer to the collection. For example, to determine the number of pages in TabControl1, use the following statement:
@@ -55,7 +54,6 @@ The **Pages** collection has one property, **[Count](../../../api/Access.Pages.C
 TabControl1.Pages.Count 
 
 ```
-
 
 ## Refer to and change the current page
 
@@ -94,7 +92,6 @@ Page1.PageIndex = 1
 
 The **PageIndex** property is more typically set at design time in a page's property sheet. You can also set the page order by right-clicking the border of a tab control, and then clicking **Page Order** on the shortcut menu.
 
-
 ## Refer to controls on a tab control page
 
 The controls you place on a tab control page are part of the same collection as all controls on the form. For this reason, each control on a tab control page must have a name that is unique with respect to all other controls on the same form. Refer to controls on a tab control page by using the same syntax for controls on a form without a tab control. 
@@ -132,10 +129,7 @@ ErrorHandler:
 End Sub
 ```
 
-<br/>
-
 Additionally, each page on a tab control has its own **Controls** collection. By using a page's **Controls** collection, you can refer to controls on each page. The following code enumerates the controls for each page of the tab control on the Employees form.
-
 
 ```vb
 Sub ListPageControls() 

@@ -16,23 +16,19 @@ ms.localizationpriority: medium
 
 Sets or returns a **Shape** object that represents the shape associated with an animation trigger. Read/write.
 
-
 ## Syntax
 
 _expression_. `TriggerShape`
 
 _expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 
-
 ## Return value
 
 Shape
 
-
 ## Example
 
 The following example adds two shapes to a slide, adds an animation to a shape, and begins the animation when the other shape is clicked.
-
 
 ```vb
 Sub AddShapeSetTiming()
@@ -44,11 +40,11 @@ Sub AddShapeSetTiming()
       ActivePresentation.Slides(1).Shapes. _
       AddShape(Type:=msoShapeOval, Left:=400, Top:=100, Width:=100, Height:=50)
 
-    Set shpRectangle = ActivePresentation.Slides(1).Shapes.  _
+    Set shpRectangle = ActivePresentation.Slides(1).Shapes. _
       AddShape(Type:=msoShapeRectangle, Left:=100, Top:=100, Width:=50, Height:=50)
 
     Set effDiamond = ActivePresentation.Slides(1).TimeLine. _
-      InteractiveSequences.Add().AddEffect(Shape:=shpRectangle,  _
+      InteractiveSequences.Add().AddEffect(Shape:=shpRectangle, _
       effectId:=msoAnimEffectPathDiamond, trigger:=msoAnimTriggerOnShapeClick)
 
     With effDiamond.Timing
@@ -59,9 +55,7 @@ Sub AddShapeSetTiming()
 End Sub
 ```
 
-
 ## See also
-
 
 [Timing Object](PowerPoint.Timing.md)
 

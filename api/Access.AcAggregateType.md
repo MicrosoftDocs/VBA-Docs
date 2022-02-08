@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the type of aggregation to apply to a set of values.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAggregateAverage**|2|Average|

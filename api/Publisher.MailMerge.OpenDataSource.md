@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Attaches a data source to the specified publication, which becomes a main publication if it is not one already.
 
-
 ## Syntax
 
 _expression_.**OpenDataSource** (_bstrDataSource_, _bstrConnect_, _bstrTable_, _fOpenExclusive_, _fNeverPrompt_)
 
 _expression_ A variable that represents a **[MailMerge](publisher.mailmerge.md)** object.
-
 
 ## Parameters
 
@@ -38,10 +36,9 @@ _expression_ A variable that represents a **[MailMerge](publisher.mailmerge.md)*
 
 If you are using a data source for mail merge, you must add a catalog merge area to the publication page before you attach to the data source.
 
-
 ## Example
 
-This example attaches a table from a database and denies everyone else write access to the database while it is opened. 
+This example attaches a table from a database and denies everyone else write access to the database while it is opened.
 
 For this example to run properly, you must replace `PathToFile` with a valid file path and `TableName` with a valid data source table name.
 
@@ -49,17 +46,15 @@ For this example to run properly, you must replace `PathToFile` with a valid fil
 Sub AttachDataSource() 
  
     ActiveDocument.MailMerge.OpenDataSource _ 
-        bstrDataSource:="PathToFile",  _ 
+        bstrDataSource:="PathToFile", _ 
         bstrTable:="TableName", _ 
         fNeverPrompt:=True, fOpenExclusive:=True 
  
 End Sub
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > For `TableName`, if an Excel spreadsheet is being opened, `TableName` must be followed by `$`. That is, `bstrTable:="Sheet1"` will not work; `bstrTable:="Sheet1$"` will work. Following is an example that further clarifies this.
-
-<br/>
 
 In this example, the data is stored in MySpreadSheet.xlsx, Sheet1, in the same directory as the Publisher file.
 
@@ -68,7 +63,7 @@ Dim strDataFile as String
 strDataFile = Application.ActiveDocument.Path & "MySpreadSheet.xlsx"
 
 ActiveDocument.MailMerge.OpenDataSource _ 
-    bstrDataSource:=strDataFile,  _ 
+    bstrDataSource:=strDataFile, _ 
     bstrTable:="Sheet1$", _ 
     fNeverPrompt:=True, fOpenExclusive:=True 
 
