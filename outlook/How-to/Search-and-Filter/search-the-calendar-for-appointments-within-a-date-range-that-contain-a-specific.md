@@ -23,7 +23,7 @@ The `FindAppts` function in the code sample carries out the search using two dif
     
 5. It applies the query to items in the default calendar folder, using the **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** method.
     
-6. It builds the second query for the appointment subject containing the word "team". It uses the  `like` keyword for substring matching in a DAV Searching and Locating (DASL) query.
+6. It builds the second query for the appointment subject containing the word "team". It uses the `like` keyword for substring matching in a DAV Searching and Locating (DASL) query.
     
 7. It applies the second query to the set of appointments that meet the date range criteria, returned from the first query.
     

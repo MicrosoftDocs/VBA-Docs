@@ -26,7 +26,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example sends a reply to Dan Wilson and sets the  `SaveMyPersonalItems` folder as the folder in which a copy of the item will be saved after being sent. To run this example without errors, make sure a mail item is open in the active inspector window and replace 'Dan Wilson' with a valid recipient name.
+This Visual Basic for Applications (VBA) example sends a reply to Dan Wilson and sets the `SaveMyPersonalItems` folder as the folder in which a copy of the item will be saved after being sent. To run this example without errors, make sure a mail item is open in the active inspector window and replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

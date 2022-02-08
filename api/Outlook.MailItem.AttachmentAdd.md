@@ -31,7 +31,7 @@ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object
 
 ## Example
 
-This Visual Basic for Applications (VBA) example checks the size of the item after an attachment has been added and displays a warning if the size exceeds 500,000 bytes. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `TestAttachAdd()` procedure should be called before the event procedure can be called by Microsoft Outlook.
+This Visual Basic for Applications (VBA) example checks the size of the item after an attachment has been added and displays a warning if the size exceeds 500,000 bytes. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the `TestAttachAdd()` procedure should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

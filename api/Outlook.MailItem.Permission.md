@@ -35,7 +35,7 @@ Although you can view content that is protected by IRM on any computer that is r
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example uses the **[Send](Outlook.MailItem.Send(method).md)** event and sends an item with a 'Do not forward' restriction. You must place the sample code in a class module such as **ThisOutlookSession**, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook. Replace 'Dan Wilson' with a valid recipient name before you run this example.
+This Microsoft Visual Basic for Applications (VBA) example uses the **[Send](Outlook.MailItem.Send(method).md)** event and sends an item with a 'Do not forward' restriction. You must place the sample code in a class module such as **ThisOutlookSession**, and the `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook. Replace 'Dan Wilson' with a valid recipient name before you run this example.
 
 
 ```vb

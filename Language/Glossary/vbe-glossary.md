@@ -242,7 +242,7 @@ Dates are stored as part of a real number. Values to the left of the decimal rep
 
 Any sequence of characters with a valid format that is surrounded by number signs (**#**). Valid formats include the date format specified by the locale settings for your code or the universal date format.
 
-For example,  `#12/31/92#` is the date literal that represents December 31, 1992, where English-U.S. is the locale setting for your application. Use date literals to maximize portability across national languages.
+For example, `#12/31/92#` is the date literal that represents December 31, 1992, where English-U.S. is the locale setting for your application. Use date literals to maximize portability across national languages.
 
 
 ## date separators

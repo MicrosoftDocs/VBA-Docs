@@ -41,7 +41,7 @@ The event occurs after the new **[Explorer](Outlook.Explorer.md)** object is cre
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example minimizes the currently active explorer window when a new explorer is about to appear. The sample code must be placed in a class module, and the  `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example minimizes the currently active explorer window when a new explorer is about to appear. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

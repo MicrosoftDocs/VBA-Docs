@@ -38,7 +38,7 @@ For example, to declare an object variable for the **Application](../../../api/O
 Public WithEvents myOlApp As Outlook.Application
 ```
 
-You must use the  `WithEvents` keyword to specify that the object variable will be used to respond to events triggered by the object.
+You must use the `WithEvents` keyword to specify that the object variable will be used to respond to events triggered by the object.
 
 ## Write the Event Procedure
 
@@ -52,7 +52,7 @@ End Sub
 
 ## Initialize the Declared Object
 
-Before the procedure will run, you must connect the declared object (in this example,  `myOlApp`) with the **Application** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
+Before the procedure will run, you must connect the declared object (in this example, `myOlApp`) with the **Application** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
 
 ```vb
 Dim myClass as New EventClassModule  
@@ -61,6 +61,6 @@ Sub Register_Event_Handler()
 End Sub
 ```
 
-When the `Register_Event_Handler`procedure is run, the  `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
+When the `Register_Event_Handler`procedure is run, the `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
