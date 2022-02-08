@@ -37,14 +37,13 @@ The following illustrates the procedure:
 
 2. The validity of the parameters is checked.
 
-3. If the parameters are valid, ** [Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**.
+3. If the parameters are valid, **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**.
 
-4. **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**, ** [StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** is used to save changes to the **StorageItem**.
+4. **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**, **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** is used to save changes to the **StorageItem**.
 
 5. The `TestAgingProps` procedure sets the auto-archive settings for the aging properties of the current folder so that items older than six months are moved to the default archive file.
 
 ## Remarks
-
 
 1. Place the code in the built-in **ThisOutlookSession** module.
 
