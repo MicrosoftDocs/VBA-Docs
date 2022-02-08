@@ -48,9 +48,9 @@ Because frames pages are defined as a hierarchical set of HTML tags, the object 
 MyFrameset.ChildFramesetItem(n)
 ```
 
-returns a **Frameset** object corresponding to the _n_th first-level <FRAMESET> or <FRAME> tag between the <FRAMESET> and </FRAMESET> tags corresponding to `MyFrameset`.
+returns a **Frameset** object corresponding to the _n_ th first-level &lt;FRAMESET$gt; or $lt;FRAME$gt; tag between the &lt;FRAMESET$gt; and &lt;/FRAMESET$gt; tags corresponding to `MyFrameset`.
 
-If `MyFrameset` is a **Frameset** object corresponding to the outermost <FRAMESET> tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
+If `MyFrameset` is a **Frameset** object corresponding to the outermost $gt;FRAMESET$gt; tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
 
  **Frameset** objects of type **wdFramesetTypeFrame** have no child frames, while objects of **wdFramesetTypeFrameset** have at least one.
 
