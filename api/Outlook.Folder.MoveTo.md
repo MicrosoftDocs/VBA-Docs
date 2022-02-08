@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 ## Remarks
 
-Setting the REG_MULTI_SZ value,  `DisableCrossAccountCopy`, in  `HKCU\Software\Microsoft\Office\14.0\Outlook` in the Windows registry has the side effect of disabling this method.
+Setting the REG_MULTI_SZ value, `DisableCrossAccountCopy`, in  `HKCU\Software\Microsoft\Office\14.0\Outlook` in the Windows registry has the side effect of disabling this method.
 
 
 ## Example

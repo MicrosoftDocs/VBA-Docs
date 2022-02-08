@@ -154,7 +154,7 @@ End Sub
 
 ## Referring to the active document
 
-Instead of referring to a document by name or by index number—for example,  `Documents("Sales.doc")` —the **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns a **Document** object that refers to the active document (the document with the focus). The following example displays the name of the active document, or if there are no documents open, it displays a message.
+Instead of referring to a document by name or by index number—for example, `Documents("Sales.doc")` —the **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns a **Document** object that refers to the active document (the document with the focus). The following example displays the name of the active document, or if there are no documents open, it displays a message.
 
 
 ```vb

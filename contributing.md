@@ -9,7 +9,6 @@ ms.localizationpriority: medium
 
 Thank you for your interest in our documentation!
 
-* [Ways to contribute](#ways-to-contribute)
 * [Contribute using GitHub](#contribute-using-github)
 * [Contribute using Git](#contribute-using-git)
 * [How to use Markdown to format your topic](#use-markdown-to-format-your-topic)
@@ -17,20 +16,9 @@ Thank you for your interest in our documentation!
 * [FAQ](#faq)
 * [More resources](#more-resources)
 
-## Ways to contribute
-
-Here are some ways you can contribute to this documentation:
-
-* To make small changes to an article, [Contribute using GitHub](#contribute-using-github).
-* To make large changes, or changes that involve code, [Contribute using Git](#contribute-using-git).
-* Report documentation bugs via GitHub Issues.
-* Request new documentation at the [Office Developer Platform UserVoice](http://officespdev.uservoice.com) site.
-
 ## Contribute using GitHub
 
-Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes.
-
-**Note**: Using this method allows you to contribute to one article at a time.
+Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes. Using this method allows you to contribute to one article at a time.
 
 ### To contribute using GitHub
 
@@ -69,13 +57,14 @@ Pull requests are typically reviewed within 10 business days.
 
 ## Use GitHub, Git, and this repository
 
-**Note**: Most of the information in this section can be found in [GitHub Help] articles. If you're familiar with Git and GitHub, skip to the **Contribute and edit content** section for the specifics of the code/content flow of this repository.
+>[!NOTE]
+>Most of the information in this section can be found in [GitHub Help] articles. If you're familiar with Git and GitHub, skip to the **Contribute and edit content** section for the specifics of the code/content flow of this repository.
 
 ### To set up your fork of the repository
 
 1. Set up a GitHub account so you can contribute to this project. If you haven't done this, go to [GitHub](https://github.com/join) and do it now.
 2. Install Git on your computer. Follow the steps in the [Set up Git] tutorial.
-3. Create your own fork of this repository. To do this, at the top of the page,  choose the **Fork** button.
+3. Create your own fork of this repository. To do this, at the top of the page, choose the **Fork** button.
 4. Copy your fork to your computer. To do this, open Git Bash. At the command prompt enter:
 
     `git clone https://github.com/<your user name>/<repo name>.git`

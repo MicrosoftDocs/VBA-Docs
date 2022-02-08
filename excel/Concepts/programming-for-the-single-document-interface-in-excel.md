@@ -149,9 +149,9 @@ Additionally, consider the case where you develop code to add a custom UI contro
 ## Considerations for VBA code
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Consideration"> </a>
 
-With the shift to SDI, all of the Excel  _application-level_ window methods, events, and properties remain unaffected and work the way they have in previous versions of Excel (for example, `Application.ActiveWindow`,  `Application.Windows`, and so on).
+With the shift to SDI, all of the Excel  _application-level_ window methods, events, and properties remain unaffected and work the way they have in previous versions of Excel (for example, `Application.ActiveWindow`, `Application.Windows`, and so on).
 
-In Excel, all of the  _workbook-level_ window methods, events, and properties now operate on the top level window (for example, the `Workbook.WindowActivate` event is still triggered when you switch to a particular workbook, the `Workbook.Resize` event is still triggered when that workbook is resized, and `ThisWorkbook.Windows(1).Height`,  `ThisWorkbook.Windows(1).Width`,  `ThisWorkbook.Windows(1).Left`,  `ThisWorkbook.Windows(1).Right`,  `ThisWorkbook.Windows(1).Minimize`,  `ThisWorkbook.Windows(1).Maximize` and so forth will operate on the top level window for the active workbook).
+In Excel, all of the  _workbook-level_ window methods, events, and properties now operate on the top level window (for example, the `Workbook.WindowActivate` event is still triggered when you switch to a particular workbook, the `Workbook.Resize` event is still triggered when that workbook is resized, and `ThisWorkbook.Windows(1).Height`, `ThisWorkbook.Windows(1).Width`, `ThisWorkbook.Windows(1).Left`, `ThisWorkbook.Windows(1).Right`, `ThisWorkbook.Windows(1).Minimize`, `ThisWorkbook.Windows(1).Maximize` and so forth will operate on the top level window for the active workbook).
 
 Special cases are listed in the following table.
 

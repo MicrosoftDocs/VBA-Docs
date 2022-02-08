@@ -21,7 +21,7 @@ You tried to execute a delete query but the query does not specify the name of t
 Possible cause:
 
 
-- You did not type an asterisk for each table in the ALL, DISTINCT, DISTINCTROW predicates. Instead, you typed field names (for example,  `Customers.Address` instead of `Customers.*`).
+- You did not type an asterisk for each table in the ALL, DISTINCT, DISTINCTROW predicates. Instead, you typed field names (for example, `Customers.Address` instead of `Customers.*`).
     
 
 ## See also

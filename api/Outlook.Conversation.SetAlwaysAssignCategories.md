@@ -52,7 +52,7 @@ To stop the action of always assigning categories, use the **[ClearAlwaysAssignC
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to assign categories to all existing and new items that arrive in the conversation of a specific mail item. The code example,  `DemoSetAlwaysAssignCategories`, chooses the first mail item displayed in the Reading Pane as the specific mail item. `DemoSetAlwaysAssignCategories` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysAssignToCategories** to set the two categories "Best Practices" and "OOM" to all existing items and future items of that conversation.
+The following Visual Basic for Applications (VBA) example shows how to assign categories to all existing and new items that arrive in the conversation of a specific mail item. The code example, `DemoSetAlwaysAssignCategories`, chooses the first mail item displayed in the Reading Pane as the specific mail item. `DemoSetAlwaysAssignCategories` verifies that conversations are enabled in the store for the selected mail item, obtains the conversation object for that mail item if a conversation exists, and uses **SetAlwaysAssignToCategories** to set the two categories "Best Practices" and "OOM" to all existing items and future items of that conversation.
 
 
 ```vb

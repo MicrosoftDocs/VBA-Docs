@@ -13,7 +13,7 @@ This topic shows a code sample in Visual Basic for Applications (VBA) that finds
 
 The  `FindAppts` function in the code sample carries out the search using two different queries, first searching for appointments including recurrent appointments that start and end within the date range, then searching among appointments that meet the date range criteria that have "team" in the subject. The following is an outline of the steps:
 
-1.  `FindAppts` first defines the time period to query, assigning the start time, `myStart`, as 12:00am on the current system date, and the end time,  `myEnd`, as thirty days after the start time. 
+1.  `FindAppts` first defines the time period to query, assigning the start time, `myStart`, as 12:00am on the current system date, and the end time, `myEnd`, as thirty days after the start time. 
     
 2. It obtains all the items in the default calendar folder.
     

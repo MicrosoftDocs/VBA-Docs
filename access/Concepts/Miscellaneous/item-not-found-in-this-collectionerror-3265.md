@@ -23,7 +23,7 @@ Possible causes:
 
 - The object does not exist in this collection. Make sure the object is appended to a collection before referencing it.
     
-- There is more than one object with this name in the collection; using its name is an ambiguous reference. Reference the object by its ordinal position in the collection (for example,  `Recordsets(3)`).
+- There is more than one object with this name in the collection; using its name is an ambiguous reference. Reference the object by its ordinal position in the collection (for example, `Recordsets(3)`).
     
 
 ## See also

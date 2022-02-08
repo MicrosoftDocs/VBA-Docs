@@ -16,7 +16,7 @@ The following example uses the **EnterKeyBehavior](../../../api/Outlook.textbox.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
 
-- A **extBox** named TextBox1.
+- A **TextBox** named TextBox1.
 
 - Two **ToggleButton](../../../api/Outlook.togglebutton.md)** controls named ToggleButton1 and ToggleButton2.
 

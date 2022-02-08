@@ -32,7 +32,7 @@ Sub TrackChanges()
 End Sub
 ```
 
-In this example,  `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](../../../api/Word.Document.TrackRevisions.md)** property is set for that single document.
+In this example, `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](../../../api/Word.Document.TrackRevisions.md)** property is set for that single document.
 
 Some properties cannot be set. The Help topic for a property indicates whether that property can be set (read/write) or can only be read (read-only).
 
@@ -49,7 +49,7 @@ Sub GetDocumentName()
 End Sub
 ```
 
-In this example,  `ActiveDocument` refers to the document in the active window in Word. The name of that document is assigned to the variable refers to the document in the active window in Word. The name of that document is assigned to the variable `strDocName`.
+In this example, `ActiveDocument` refers to the document in the active window in Word. The name of that document is assigned to the variable refers to the document in the active window in Word. The name of that document is assigned to the variable `strDocName`.
 
 ## Remarks
 

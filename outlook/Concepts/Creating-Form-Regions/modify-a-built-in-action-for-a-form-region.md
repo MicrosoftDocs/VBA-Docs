@@ -30,7 +30,7 @@ Whether you choose to modify a built-in action or create a custom action, you de
 1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
 2. Specify the internal name of the built-in action as the value of the **name** attribute of the **action** element.
 
-The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
+The following example identifies the two built-in actions, `reply` and `replyAll`, before modifying them:
 
 ```vb
 <customActions>
@@ -67,7 +67,7 @@ After you have identified a built-in action in an **action** element, you can mo
 2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
 3. Specify **True** as the value of the disabled attribute of the **action** element.
 
-The following example identifies the built-in action,  `replyToFolder`, and disables it:
+The following example identifies the built-in action, `replyToFolder`, and disables it:
 
 ```vb
 <customActions>

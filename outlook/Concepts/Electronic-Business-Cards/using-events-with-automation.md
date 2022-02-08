@@ -56,7 +56,7 @@ End Sub
 
 ## Initialize the Declared Object
 
-Before the procedure will run, you must connect the declared object (in this example,  `myOlApp`) with the **pplication** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
+Before the procedure will run, you must connect the declared object (in this example, `myOlApp`) with the **pplication** object. If you declared the object in a class module named `EventClassModule`, then you can use the following code in any module.
 
 ```vb
 Dim myClass as New EventClassModule  
