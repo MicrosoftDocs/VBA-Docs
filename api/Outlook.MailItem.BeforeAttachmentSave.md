@@ -39,7 +39,7 @@ In VBScript, if you set the return value of this function to **False**, the save
 
 ## Example
 
-This Visual Basic for Applications (VBA) example notifies the user that the user is not allowed to save the attachment. The  _Cancel_ argument is set to **True** to cancel the save operation. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAttachSave()` procedure should be called before the event procedure can be called by Microsoft Outlook.
+This Visual Basic for Applications (VBA) example notifies the user that the user is not allowed to save the attachment. The  _Cancel_ argument is set to **True** to cancel the save operation. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `TestAttachSave()` procedure should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

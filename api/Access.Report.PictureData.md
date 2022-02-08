@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Use the **PictureData** property to copy the picture to another object that supports the **Picture** property. Read/write **Variant**.
 
-
 ## Syntax
 
 _expression_.**PictureData**
@@ -36,7 +35,7 @@ You can also use the **PictureData** property together with the **[Timer](access
 
 The following example uses three image controls to animate a butterfly image across a form. The Hidden1 image control contains a picture of a butterfly with its wings up, and the Hidden2 image control contains a picture of the same butterfly with its wings down. Both image controls have their **Visible** property set to **False**. 
 
-The **TimerInterval** property is set to 200. Each time the **Timer** event occurs, the picture in the image control Visible1 is changed by using the **PictureData** property of the hidden image controls, and the visible image control is moved 200 [twips](../language/glossary/vbe-glossary.md#twip) to the right. The visible image control is moved back to the left side of the form when its **Left** property value is greater than the width of the form stored in the public variable `gfrmWidth`. The value of  `gfrmWidth` is set to `Me.Width` in the form's open event.
+The **TimerInterval** property is set to 200. Each time the **Timer** event occurs, the picture in the image control Visible1 is changed by using the **PictureData** property of the hidden image controls, and the visible image control is moved 200 [twips](../language/glossary/vbe-glossary.md#twip) to the right. The visible image control is moved back to the left side of the form when its **Left** property value is greater than the width of the form stored in the public variable `gfrmWidth`. The value of `gfrmWidth` is set to `Me.Width` in the form's open event.
 
 ```vb
 Private Sub Form_Timer() 
@@ -60,4 +59,3 @@ End Sub
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
-

@@ -12,20 +12,16 @@ ms.localizationpriority: medium
 
 # Item not found in this collection. (Error 3265)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 An attempt to reference a name in a collection failed.
 
 Possible causes:
 
-
 - The object does not exist in this collection. Make sure the object is appended to a collection before referencing it.
     
-- There is more than one object with this name in the collection; using its name is an ambiguous reference. Reference the object by its ordinal position in the collection (for example,  `Recordsets(3)`).
+- There is more than one object with this name in the collection; using its name is an ambiguous reference. Reference the object by its ordinal position in the collection (for example, `Recordsets(3)`).
     
-
 ## See also
 
 - [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)

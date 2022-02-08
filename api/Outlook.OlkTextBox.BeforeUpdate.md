@@ -45,7 +45,7 @@ Canceling this property will revert the control to the current value of the prop
     
 3. Control data is updated
     
-4. ** AfterUpdate**
+4. **AfterUpdate**
     
 5. **Exit** : User moves focus away from control
     

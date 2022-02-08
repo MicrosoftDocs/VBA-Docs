@@ -23,15 +23,11 @@ In the Outlook object model, all types of items, such as a mail item and a conta
 However, the Outlook object model does not provide a means to identify a response as the fourth possible response to a meeting request, which is a counter-proposal.
 Using the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object and the **PSETID_Appointment** namespace definition of **PidLidAppointmentCounterProposal**, you can program within the object model to distinguish all responses of a meeting request item. The following code sample in C# shows how to get the property value given a meeting item. Note that in the code sample, the named property is expressed as: 
 
-
-
 ```vb
 "https://schemas.microsoft.com/mapi/id/00062002-0000-0000-C000-000000000046}/8257000B"
 ```
 
-where  `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** namespace and `8257000B` is the property tag of **PidLidAppointmentCounterProposal**.
-
-
+where `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** namespace and `8257000B` is the property tag of **PidLidAppointmentCounterProposal**.
 
 ```cs
 private bool IsCounterProposal(Outlook.MeetingItem meeting) 

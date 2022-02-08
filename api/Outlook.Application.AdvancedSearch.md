@@ -68,7 +68,7 @@ The  _Filter_ parameter can be any valid DASL query. For additional information 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example searches the **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the email items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
+The following Visual Basic for Applications (VBA) example searches the **Inbox** for items with subject equal to _Test_ and displays the names of the senders of the email items returned by the search. The **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
 
 
 ```vb

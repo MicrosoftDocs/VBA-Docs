@@ -40,19 +40,16 @@ _expression_ A variable that represents a **[ListObjects](Excel.ListObjects.md)*
 
 A **[ListObject](Excel.ListObject.md)** object that represents the new list object.
 
-
 ## Remarks
 
 When the list has headers, the first row of cells will be converted to **Text**, if not already set to text. The conversion will be based on the visible text for the cell. This means that if there is a date value with a **Date** format that changes with locale, the conversion to a list might produce different results depending on the current system locale. Moreover, if there are two cells in the header row that have the same visible text, an incremental **Integer** will be appended to make each column header unique.
-
 
 ## Example
 
 The following example adds a new **ListObject** object based on data from a Microsoft SharePoint Foundation site to the default **ListObjects** collection and places the list in cell A1 in the first worksheet of the workbook.
 
-> [!NOTE] 
-> The following code example assumes that you'll substitute a valid server name and the list guid in the variables  `strServerName` and `strListGUID`. Additionally, the server name must be followed by `"/_vti_bin" (strListName)` or the sample will not work.
-
+> [!NOTE]
+> The following code example assumes that you'll substitute a valid server name and the list guid in the variables `strServerName` and `strListGUID`. Additionally, the server name must be followed by `"/_vti_bin" (strListName)` or the sample will not work.
 
 ```vb
 Set objListObject = ActiveWorkbook.Worksheets(1).ListObjects.Add(SourceType:= xlSrcExternal, _ 
@@ -61,7 +58,5 @@ XlListObjectHasHeaders:=xlGuess, Destination:=Range("A1")),
 TableStyleName:=xlGuess, Destination:=Range("A10")) 
 
 ```
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

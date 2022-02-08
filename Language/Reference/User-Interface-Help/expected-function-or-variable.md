@@ -21,14 +21,11 @@ The syntax of your statement indicates a [variable](../../Glossary/vbe-glossary.
     
 - You are trying to inappropriately assign a value to a [procedure](../../Glossary/vbe-glossary.md#procedure) name.
     
-    For example if  `MySub` is a **Sub** procedure, the following code generates this error:
+    For example if `MySub` is a **Sub** procedure, the following code generates this error:
     
-
-
   ```vb
   MySub = 237    ' Causes Expected Function or variable error
   ```
-
 
     Although you can use assignment syntax with a **Property Let** procedure or with a **Function** that returns an object or a **Variant** containing an object, you can't use assignment syntax with a **Sub**, **Property Get**, or **Property Set** procedure.
     

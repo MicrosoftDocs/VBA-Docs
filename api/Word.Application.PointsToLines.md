@@ -26,8 +26,6 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
@@ -47,10 +45,7 @@ MsgBox PointsToLines(Selection.Paragraphs(1).LineSpacing) _
  & " lines"
 ```
 
-This example converts the value of the variable  `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).
-
-
-
+This example converts the value of the variable `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).
 
 ```vb
 Function ConvertPoints(ByVal intUnit As Integer, _ 

@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 To bind an Access form to a recordset, you must set the form's **Recordset** property to an open ADO **Recordset** object. A form must meet two general requirements for the form to be updatable when it is bound to an ADO recordset. The general requirements are:
 
-- The underlying ADO recordset must be updatable via ADO.   
+- The underlying ADO recordset must be updatable via ADO.
 - The recordset must contain one or more fields that are uniquely indexed, such as a table's primary key.
 
 ```vb

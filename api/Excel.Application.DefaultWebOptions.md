@@ -16,17 +16,15 @@ ms.localizationpriority: medium
 
 Returns the **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Excel whenever you save a document as a webpage or open a webpage. Read-only.
 
-
 ## Syntax
 
 _expression_.**DefaultWebOptions**
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
-
 ## Example
 
-This example checks to see whether the default setting for document encoding is Western, and then it sets the string  `strDocEncoding` accordingly.
+This example checks to see whether the default setting for document encoding is Western, and then it sets the string `strDocEncoding` accordingly.
 
 ```vb
 If Application.DefaultWebOptions.Encoding = msoEncodingWestern Then 
@@ -35,7 +33,5 @@ Else
  strDocEncoding = "Other" 
 End If
 ```
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

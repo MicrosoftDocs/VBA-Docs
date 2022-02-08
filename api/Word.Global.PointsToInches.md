@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Converts a measurement from points to inches (1 inch = 72 points). Returns the converted measurement as a **Single**.
 
-
 ## Syntax
 
 _expression_. `PointsToInches`( `_Points_` )
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,21 +32,16 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Opt
 
 Single
 
-
 ## Example
 
 This example converts the measurement of the top margin for the active document to inches and displays the result in a message box.
-
 
 ```vb
 MsgBox PointsToInches(ActiveDocument.Sections(1) _ 
  .PageSetup.TopMargin)
 ```
 
-This example converts the value of the variable  `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).
-
-
-
+This example converts the value of the variable `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).
 
 ```vb
 Function ConvertPoints(ByVal intUnit As Integer, _ 
@@ -74,9 +65,7 @@ Function ConvertPoints(ByVal intUnit As Integer, _
 End Function
 ```
 
-
 ## See also
-
 
 [Global Object](Word.Global.md)
 

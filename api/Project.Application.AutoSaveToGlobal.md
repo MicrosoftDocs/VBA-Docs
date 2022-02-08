@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Specifies whether to automatically add new views, field templates, filters, and groups to the global template (Global.mpt).
 
-
 ## Syntax
 
 _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,16 +32,14 @@ _expression_. `AutoSaveToGlobal`( `_OnOff_` )
 
  **Boolean**
 
-
 ## Remarks
 
 If **AutoSaveToGlobal** is off, you can manually save views, groups, and other items to the global template by using the **Organizer** dialog box. Click the **Office Button**, click the **Info** tab, and then click **Manage Global Template**.
 
-
-> [!NOTE] 
+> [!NOTE]
 > If **AutoSaveToGlobal** successfully runs, it always returns **True**.
 
-To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pane of the VBE, and then create and save a view. For example, do the following:
+To see the results, run `AutoSaveToGlobal OnOff:=True` in the **Immediate** pane of the VBE, and then create and save a view. For example, do the following:
 
 
 1. In a new project, create three tasks (T1, T2, and T3) and two resources (R1 and R2).

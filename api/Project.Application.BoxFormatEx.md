@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Formats individual boxes in the Network Diagram view (PERT chart), where colors can be specified with hexadecimal values.
 
-
 ## Syntax
 
 _expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_HorizontalGridlines_`, `_VerticalGridlines_`, `_BorderShape_`, `_BorderColor_`, `_BorderWidth_`, `_BackgroundColor_`, `_BackgroundPattern_`, `_Reset_` )
@@ -26,8 +25,6 @@ _expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_Ho
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Optional|**String**|The name of the project containing **TaskID** when working with consolidated projects. The default value is the name of the active project.|
@@ -36,9 +33,9 @@ _expression_. `BoxFormatEx`( `_ProjectName_`, `_TaskID_`, `_DataTemplate_`, `_Ho
 | _HorizontalGridlines_|Optional|**Boolean**|**True** if horizontal gridlines separate each row in the box; otherwise, **False**.|
 | _VerticalGridlines_|Optional|**Boolean**|**True** if vertical gridlines separate each column in the box; otherwise, **False**.|
 | _BorderShape_|Optional|**Long**|The shape of the box border. Can be one of the **[PjBoxShape](Project.PjBoxShape.md)** constants.|
-| _BorderColor_|Optional|**Long**|The color of the box border. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value  `&HFF0000` is blue and `&H00FFFF` is yellow.|
+| _BorderColor_|Optional|**Long**|The color of the box border. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value `&HFF0000` is blue and `&H00FFFF` is yellow.|
 | _BorderWidth_|Optional|**Long**|Specifies the box border width, where values can be 1 to 4 for the four line widths shown in the **Format Box** dialog box.|
-| _BackgroundColor_|Optional|**Long**|The color of the box background. Can be a hexadecimal value, where red is the last byte. For example, the value  `&HFFFF00` is blue-green and `&HFF00FF` is purple.|
+| _BackgroundColor_|Optional|**Long**|The color of the box background. Can be a hexadecimal value, where red is the last byte. For example, the value `&HFFFF00` is blue-green and `&HFF00FF` is purple.|
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the [PjBackgroundPattern](Project.PjBackgroundPattern.md) constants.|
 | _Reset_|Optional|**Boolean**|**True** if the box formatting is reset to the default style as shown in the **Box Styles** dialog box. If **Reset** is **True**, all arguments except **ProjectName** and **TaskID** are ignored.|
 

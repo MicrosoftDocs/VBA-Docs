@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how to validate the data caches for PivotTable reports.
 
-
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlFileValidationPivotDefault**|0|Validate the contents of data caches as specified by the **PivotOptions** registry setting (default).|
@@ -25,9 +23,7 @@ Specifies how to validate the data caches for PivotTable reports.
 
 This enumeration is used to specify the setting of the **[FileValidationPivot](Excel.Application.FileValidationPivot.md)** property of the **[Application](Excel.Application(object).md)** object.
 
-The effect of the **xlFileValidationPivotDefault** setting is controlled by the `PivotOptions` registry value, which is set in the following registry subkey: `HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Excel\Security\FileValidation`. The  `PivotOptions` value is a **DWORD** value that can be set as listed in the following table.
-
-
+The effect of the **xlFileValidationPivotDefault** setting is controlled by the `PivotOptions` registry value, which is set in the following registry subkey: `HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Excel\Security\FileValidation`. The `PivotOptions` value is a **DWORD** value that can be set as listed in the following table.
 
 |**PivotOptions value**|**Description**|
 |:-----|:-----|

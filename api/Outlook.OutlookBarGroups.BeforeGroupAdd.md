@@ -39,7 +39,7 @@ _expression_ A variable that represents an [OutlookBarGroups](Outlook.OutlookBar
 
 ## Example
 
-This Visual Basic for Applications (VBA) example prevents the user from adding a group to the **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
+This Visual Basic for Applications (VBA) example prevents the user from adding a group to the **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
 
 
 ```vb

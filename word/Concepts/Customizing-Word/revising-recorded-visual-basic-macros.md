@@ -11,7 +11,6 @@ ms.localizationpriority: medium
 
 The macro recorder is a great tool for discovering the Visual Basic methods and properties that you want to use. If you don't know what properties or methods to use, turn on the macro recorder and manually perform the action. The macro recorder translates your actions into Visual Basic code. There are, however, some limitations to recording macros. You cannot record the following:
 
-
 - Conditional branches
     
 - Variable assignments
@@ -30,7 +29,7 @@ To enhance your macros, you may want to revise the code recorded into your modul
 
 ## Removing the Selection property
 
-Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see  `Selection`. Recorded macros use the **[Selection](../../../api/Word.Global.Selection.md)** property to return the **[Selection](../../../api/Word.Selection.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
+Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see `Selection`. Recorded macros use the **[Selection](../../../api/Word.Global.Selection.md)** property to return the **[Selection](../../../api/Word.Selection.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
 
 
 ```vb
@@ -42,9 +41,6 @@ End Sub
 ```
 
 This macro accomplishes the task, but there are a couple of drawbacks. First, if the document does not have a bookmark named Temp, the macro posts an error. Second, the macro moves the selection, which may not be appropriate. Both of these issues can be resolved by revising the macro so that it does not use the **Selection** object. This is the revised macro.
-
-
-
 
 ```vb
 Sub MyMacro() 
@@ -58,11 +54,9 @@ End Sub
 
 The **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../../../api/Word.Range.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
-
 ## Using With…End With
 
 Macro instructions that refer to the same object can be simplified using a **With…End With** structure. For example, the following macro was recorded when a title was added at the top of a document.
-
 
 ```vb
 Sub Macro1() 
@@ -161,7 +155,7 @@ Sub Macro1()
 End Sub
 ```
 
-The arguments that are not needed can be removed from the recorded macro. For example, you could remove all of arguments set to an empty string (for example,  `WritePasswordDocument:=""`), as shown.
+The arguments that are not needed can be removed from the recorded macro. For example, you could remove all of arguments set to an empty string (for example, `WritePasswordDocument:=""`), as shown.
 
 
 

@@ -35,7 +35,7 @@ _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) o
     
 3. Control data is updated
     
-4. ** AfterUpdate**
+4. **AfterUpdate**
     
 5. **Exit** : User moves focus away from control
     

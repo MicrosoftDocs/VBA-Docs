@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Creates or removes a deliverable for the selected task. Available only in Project Professional.
 
-
 ## Syntax
 
 _expression_. `TaskDeliverableCreate`( `_Create_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,38 +32,29 @@ _expression_. `TaskDeliverableCreate`( `_Create_` )
 
  **Boolean**
 
-
 ## Remarks
 
 When the selected task does not have a deliverable, following are results of running the **TaskDeliverableCreate** method:
 
-
--  `TaskDeliverableCreate(True)` creates a deliverable for the selected task.
+- `TaskDeliverableCreate(True)` creates a deliverable for the selected task.
     
--  `TaskDeliverableCreate(False)` does nothing.
-    
-
+- `TaskDeliverableCreate(False)` does nothing.
 
 When the selected task has an associated deliverable, following are results of running the **TaskDeliverableCreate** method:
 
-
--  `TaskDeliverableCreate(True)` gives the error, **Cannot create a deliverable link for the selected subproject task.**, followed by the run-time error 1004, **An unexpected error occurred with the method.**
+- `TaskDeliverableCreate(True)` gives the error, **Cannot create a deliverable link for the selected subproject task.**, followed by the run-time error 1004, **An unexpected error occurred with the method.**
     
--  `TaskDeliverableCreate(False)` removes the deliverable.
-    
+- `TaskDeliverableCreate(False)` removes the deliverable.
 
 
 The **TaskDeliverableCreate** method is equivalent to the **Create Deliverables** command on the **Deliverable** drop-down menu on the **Task** tab of the Ribbon. If the selected task has no deliverable, the **Create Deliverables** command creates one. If the selected task has a deliverable, **Create Deliverables** shows an active icon, and selecting the command deletes the deliverable.
 
-
-> [!NOTE] 
+> [!NOTE]
 > You cannot create a task deliverable until you publish the project and create a project workspace. You also cannot create a deliverable on a summary task.
-
 
 ## Example
 
 The following example creates or deletes a deliverable for the selected task in a published project.
-
 
 ```vb
 Sub ToggleDeliverable() 

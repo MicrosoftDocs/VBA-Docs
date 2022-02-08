@@ -42,7 +42,7 @@ To export the contents of the mapped cells to an XML data file, use the **[Expor
 
 ## Example
 
-The following example exports the contents of the cells mapped to the Contacts schema map to a variable named  `strContactData`.
+The following example exports the contents of the cells mapped to the Contacts schema map to a variable named `strContactData`.
 
 ```vb
 Sub ExportToString() 

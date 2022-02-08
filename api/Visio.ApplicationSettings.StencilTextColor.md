@@ -56,11 +56,11 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 |:-----|:-----|:-----|
 | **vbBlack**|0x0 |Black|
 | **vbRed**|0xFF |Red|
-| ** vbGreen**|0xFF00 |Green|
+| **vbGreen**|0xFF00 |Green|
 | **vbYellow**|0xFFFF|Yellow|
 | **vbBlue**|0xFF0000 |Blue|
-| ** vbMagenta**|0xFF00FF |Magenta|
-| ** vbCyan**|0xFFFF00|Cyan|
-| ** vbWhite**|0xFFFFFF|White|
+| **vbMagenta**|0xFF00FF |Magenta|
+| **vbCyan**|0xFFFF00|Cyan|
+| **vbWhite**|0xFFFFFF|White|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Returns a **ShapeRange** object.
 
-
 ## Syntax
 
 _expression_.**Range** (_Index_)
@@ -25,8 +24,6 @@ _expression_ A variable that represents a [GroupShapes](PowerPoint.GroupShapes.m
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +36,7 @@ ShapeRange
 
 ## Remarks
 
-Although you can use the **Range** method to return any number of shapes or slides, it is simpler to use the **Item** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`, and  `Slides(2)` is simpler than `Slides.Range(2)`.
+Although you can use the **Range** method to return any number of shapes or slides, it is simpler to use the **Item** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`, and `Slides(2)` is simpler than `Slides.Range(2)`.
 
 To specify an array of integers or strings for **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 

@@ -54,7 +54,7 @@ Built-in pattern matching provides a versatile tool for string comparisons. The 
 
 A group of one or more characters ( _charlist_ ) enclosed in brackets (**[ ]**) can be used to match any single character in _string_ and can include almost any [character code](../../Glossary/vbe-glossary.md#character-code), including digits.
 
-> [!NOTE] 
+> [!NOTE]
 > To match the special characters left bracket (**[**), question mark (**?**), number sign (**#**), and asterisk (**\***), enclose them in brackets. The right bracket (**]**) can't be used within a group to match itself, but it can be used outside a group as an individual character.
 
 By using a hyphen (**-**) to separate the upper and lower bounds of the range, _charlist_ can specify a range of characters. For example, `[A-Z]` results in a match if the corresponding character position in _string_ contains any uppercase letters in the range A-Z. Multiple ranges are included within the brackets without delimiters.
@@ -69,9 +69,8 @@ Other important rules for pattern matching include the following:
     
 - When a range of characters is specified, they must appear in ascending sort order (from lowest to highest). `[A-Z]` is a valid pattern, but `[Z-A]` is not.
     
-- The character sequence  `[]` is considered a zero-length string ("").
+- The character sequence `[]` is considered a zero-length string ("").
     
-
 In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The **Like** operator recognizes that the single special character and the two individual characters are equivalent.
 
 When a language that uses a special character is specified in the system locale settings, an occurrence of the single special character in either _pattern_ or _string_ matches the equivalent 2-character sequence in the other string. Similarly, a single special character in _pattern_ enclosed in brackets (by itself, in a list, or in a range) matches the equivalent 2-character sequence in _string_.
@@ -79,7 +78,6 @@ When a language that uses a special character is specified in the system locale 
 ## Example
 
 This example uses the **Like** operator to compare a string to a pattern.
-
 
 ```vb
 Dim MyCheck
@@ -97,11 +95,9 @@ MyCheck = "a [xyz" Like "a [[]*"    ' Returns True.
 MyCheck = "a [xyz" Like "a [*"    ' Throws Error 93 (invalid pattern string).
 ```
 
-
 ## See also
 
 - [Operator summary](operator-summary.md)
-
 
 <!-- See wildcard-characters-used-in-string-comparisons.md for more information to add to this page -->
 

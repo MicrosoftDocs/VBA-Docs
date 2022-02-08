@@ -16,10 +16,8 @@ ms.localizationpriority: medium
 
 Gets or sets the command string used to query the data source to create a data recordset or refresh an existing one. Read/write.
 
-
-> [!NOTE] 
+> [!NOTE]
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
-
 
 ## Syntax
 
@@ -27,11 +25,9 @@ _expression_.**CommandString**
 
 _expression_ An expression that returns a **[DataRecordset](Visio.DataRecordset.md)** object.
 
-
 ## Return value
 
 String
-
 
 ## Remarks
 
@@ -41,6 +37,6 @@ Setting the **CommandString** property to a new value has no effect on data alre
 
 The **CommandString** property does not apply to data recordsets created by using the **[AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method.
 
-The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1:  `"SELECT * FROM [Sheet1$]"`.
+The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1: `"SELECT * FROM [Sheet1$]"`.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
