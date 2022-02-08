@@ -5,7 +5,7 @@ f1_keywords:
 - vbapj.chm131624
 ms.prod: project-server
 ms.assetid: f2705f1d-7252-41ec-848b-f7f9cc26663e
-ms.date: 06/08/2017
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 |:-----|:-----|:-----|:-----|
 | _x_|Required|**Long**|The X coordinate of the chart element.|
 | _y_|Required|**Long**|The Y coordinate of the chart element.|
-| _ElementID_|Required|**Long**|When the **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
-| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
-| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#pj15_VBAGetChartElement_Remarks).|
+| _ElementID_|Required|**Long**|When the **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#Remarks).|
+| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#Remarks).|
+| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#Remarks).|
 
 ## Return value
 
