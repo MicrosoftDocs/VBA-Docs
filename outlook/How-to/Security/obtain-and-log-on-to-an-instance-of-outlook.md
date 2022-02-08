@@ -21,7 +21,7 @@ You should use the following code samples in the `ThisAddIn` class of an Outlook
 
 The following code samples contain the `GetApplicationObject` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace.
 
-The  `GetApplicationObject` method uses classes in the .NET Framework Class Library to check and obtain any Outlook process running on the local computer. It first uses the **[GetProcessesByName](../../../api/overview/Outlook.md)** method of the **Process** class in the **System.Diagnostics** namespace to obtain an array of process components on the local computer that share the process name "OUTLOOK". 
+The `GetApplicationObject` method uses classes in the .NET Framework Class Library to check and obtain any Outlook process running on the local computer. It first uses the **[GetProcessesByName](../../../api/overview/Outlook.md)** method of the **Process** class in the **System.Diagnostics** namespace to obtain an array of process components on the local computer that share the process name "OUTLOOK". 
 
 To check whether the array does contain at least one Outlook process, `GetApplicationObject` uses Microsoft Language Integrated Query (LINQ). The **[Enumerable](../../../api/overview/Outlook.md)** class in the **[System.Linq](../../../api/overview/Outlook.md)** namespace provides a set of methods, including the **[Count](../../../api/overview/Outlook.md)** method, that implement the **[IEnumerable(T)](../../../api/overview/Outlook.md)** generic interface. 
 

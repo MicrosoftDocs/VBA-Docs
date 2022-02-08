@@ -39,7 +39,7 @@ The following commands exercise the **Close** method for **Pane** objects.
     
 4. Activate the top pane.
     
-5. The  `ActivePane.Close` command does nothing, because the bottom pane is not active.
+5. The `ActivePane.Close` command does nothing, because the bottom pane is not active.
     
 6. Activate the bottom pane.
     

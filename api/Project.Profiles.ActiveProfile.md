@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Profiles' object.
 
 ## Remarks
 
-The  `Profiles.ActiveProfile` statement returns the name of the current account profile, because **[Name](Project.Profile.Name.md)** is the default property of the **Profile** object.
+The `Profiles.ActiveProfile` statement returns the name of the current account profile, because **[Name](Project.Profile.Name.md)** is the default property of the **Profile** object.
 
 
 ## See also
