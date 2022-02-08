@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
-
 ## Syntax
 
 _expression_.**BeforeUpdate** (_Cancel_)
 
 _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -45,15 +41,11 @@ Canceling this property will revert the control to the current value of the prop
     
 3. Control data is updated
     
-4. ** AfterUpdate**
+4. **AfterUpdate**
     
 5. **Exit** : User moves focus away from control
-    
-
-
 
 ## See also
-
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
