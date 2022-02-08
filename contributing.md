@@ -75,7 +75,7 @@ Pull requests are typically reviewed within 10 business days.
 
 1. Set up a GitHub account so you can contribute to this project. If you haven't done this, go to [GitHub](https://github.com/join) and do it now.
 2. Install Git on your computer. Follow the steps in the [Set up Git] tutorial.
-3. Create your own fork of this repository. To do this, at the top of the page,  choose the **Fork** button.
+3. Create your own fork of this repository. To do this, at the top of the page, choose the **Fork** button.
 4. Copy your fork to your computer. To do this, open Git Bash. At the command prompt enter:
 
     `git clone https://github.com/<your user name>/<repo name>.git`

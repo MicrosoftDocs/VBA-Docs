@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Set the Maximum and Minimum Values for a Scroll Bar
 
-The following example demonstrates the **[Max](../../../api/Outlook.scrollbar.max.md)** and **[Min](../../../api/Outlook.scrollbar.min.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the ** [TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
+The following example demonstrates the **[Max](../../../api/Outlook.scrollbar.max.md)** and **[Min](../../../api/Outlook.scrollbar.min.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the **[TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
@@ -28,9 +28,6 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
     
 - A **Label** named Label3.
     
-
-
-
 ```vb
 Sub Item_Open() 
  Set Label1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label1") 
