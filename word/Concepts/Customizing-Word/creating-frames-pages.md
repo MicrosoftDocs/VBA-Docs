@@ -5,7 +5,7 @@ f1_keywords:
 - vbawd10.chm5285976
 ms.prod: word
 ms.assetid: 0245564e-b2df-83cd-1e32-e63079970dc1
-ms.date: 06/08/2019
+ms.date: 02/06/2020
 ms.localizationpriority: medium
 ---
 
@@ -18,7 +18,7 @@ Frames and frames pages are created with a series of HTML tags. The Visual Basic
 
 ## Frames pages in HTML
 
-In HTML, frames pages and the frames they contain are built using a hierarchical set of <FRAMESET> and <FRAME> tags. A frameset can contain both frames and other framesets. For example, the following HTML creates a frameset with a frame on top and a frameset immediately below it. That frameset contains a frame on the left and a frameset on the right. That frameset contains two frames, one on top of the other.
+In HTML, frames pages and the frames they contain are built using a hierarchical set of &lt;FRAMESET&gt; and &lt;FRAME&gt; tags. A frameset can contain both frames and other framesets. For example, the following HTML creates a frameset with a frame on top and a frameset immediately below it. That frameset contains a frame on the left and a frameset on the right. That frameset contains two frames, one on top of the other.
 
 ```xml
 <FRAMESET ROWS="100, *"> 
@@ -33,11 +33,12 @@ In HTML, frames pages and the frames they contain are built using a hierarchical
 </FRAMESET>
 ```
 
- **Note** To better understand the preceding HTML example, paste the example into a blank text document, rename the document "framespage.htm", and open the document in Word or in a Web browser.
+>[NOTE]
+> To better understand the preceding HTML example, paste the example into a blank text document, rename the document "framespage.htm", and open the document in Word or in a Web browser.
 
 ## The Frameset Object
 
-The **[Frameset](../../../api/Word.Frameset.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags <FRAMESET> and <FRAME> respectively. Properties beginning with "Frameset" apply to **Frameset** objects of type **wdFramesetTypeFrameset** (**[FramesetBorderColor](../../../api/Word.Frameset.FramesetBorderColor.md)** and **[FramesetBorderWidth](../../../api/Word.Frameset.FramesetBorderWidth.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** (**[FrameDefaultURL](../../../api/Word.Frameset.FrameDefaultURL.md)**, **[FrameDisplayBorders](../../../api/Word.Frameset.FrameDisplayBorders.md)**, **[FrameLinkToFile](../../../api/Word.Frameset.FrameLinkToFile.md)**, **[FrameName](../../../api/Word.Frameset.FrameName.md)**, **[FrameResizable](../../../api/Word.Frameset.FrameResizable.md)**, and **[FrameScrollBarType](../../../api/Word.Frameset.FrameScrollbarType.md)**).
+The **[Frameset](../../../api/Word.Frameset.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags &lt;FRAMESET&gt; and &lt;FRAME&gt; respectively. Properties beginning with "Frameset" apply to **Frameset** objects of type **wdFramesetTypeFrameset** (**[FramesetBorderColor](../../../api/Word.Frameset.FramesetBorderColor.md)** and **[FramesetBorderWidth](../../../api/Word.Frameset.FramesetBorderWidth.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** (**[FrameDefaultURL](../../../api/Word.Frameset.FrameDefaultURL.md)**, **[FrameDisplayBorders](../../../api/Word.Frameset.FrameDisplayBorders.md)**, **[FrameLinkToFile](../../../api/Word.Frameset.FrameLinkToFile.md)**, **[FrameName](../../../api/Word.Frameset.FrameName.md)**, **[FrameResizable](../../../api/Word.Frameset.FrameResizable.md)**, and **[FrameScrollBarType](../../../api/Word.Frameset.FrameScrollbarType.md)**).
 
 ## Traversing the Frameset Object Hierarchy
 
