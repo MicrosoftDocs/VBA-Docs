@@ -51,7 +51,7 @@ SELECT *
 
 ```
 
-Be aware of the  `CustomerID = 1` portion of the **WHERE** clause. A **WHERE** clause can contain up to 40 such expressions, and they can be joined with the And or Or logical operators. Using more than one expression allows you to further filter out records in the result set.
+Be aware of the `CustomerID = 1` portion of the **WHERE** clause. A **WHERE** clause can contain up to 40 such expressions, and they can be joined with the And or Or logical operators. Using more than one expression allows you to further filter out records in the result set.
 
 ```sql
 SELECT * 

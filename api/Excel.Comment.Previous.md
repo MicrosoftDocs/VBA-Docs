@@ -39,7 +39,7 @@ This method works only on one sheet. Using this method on the first comment on a
 This example deletes every second comment, navigating with the **Previous** method.
 
 > [!NOTE] 
-> Test this example in a new workbook with no existing comments. To clear all the comments from a workbook, use  `Selection.SpecialCells(xlCellTypeComments).delete` in the Immediate pane.
+> Test this example in a new workbook with no existing comments. To clear all the comments from a workbook, use `Selection.SpecialCells(xlCellTypeComments).delete` in the Immediate pane.
 
 
 ```vb

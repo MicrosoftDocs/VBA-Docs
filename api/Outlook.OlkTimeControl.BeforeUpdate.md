@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Occurs when the data in the control is changed through the user interface and is about to be saved to the item. 
 
-
 ## Syntax
 
 _expression_.**BeforeUpdate** (_Cancel_)
 
 _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,20 +34,16 @@ Canceling this property will revert the control to the current value of the prop
 
  **BeforeUpdate** and **AfterUpdate** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **BeforeUpdate** for this control is as follows:
 
-
 1. User focuses on the control
     
 2. **BeforeUpdate**
     
 3. Control data is updated
     
-4. ** AfterUpdate**
+4. **AfterUpdate**
     
 5. **Exit** : User moves focus away from control
     
-
-
-
 ## See also
 
 

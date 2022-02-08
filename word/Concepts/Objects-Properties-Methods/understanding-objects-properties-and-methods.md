@@ -11,11 +11,9 @@ ms.localizationpriority: medium
 
 Objects are the fundamental building blocks of Microsoft Visual Basic; almost everything that you do in Visual Basic involves modifying objects. Every element of Microsoft Word—such as documents, tables, paragraphs, bookmarks, and fields—can be represented by an object in Visual Basic.
 
-
 ## What are objects and collections?
 
 An object represents an element of Word, such as a document, a paragraph, a bookmark, or a single character. A collection is an object that contains several other objects, usually of the same type; for example, all the bookmark objects in a document are contained in a single collection object. By using properties and methods, you can modify a single object or a whole collection of objects.
-
 
 ## What is a property?
 
@@ -24,22 +22,17 @@ A property is an attribute of an object or an aspect of its behavior. For exampl
 To set the value of a property, follow the reference to an object with a period, the property name, an equal sign, and the new property value. The following example turns on change tracking in the document named "MyDoc.doc".
 
 
-
-
 ```vb
 Sub TrackChanges() 
     Documents("Sales.doc").TrackRevisions = True 
 End Sub
 ```
 
-In this example,  `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](../../../api/Word.Document.TrackRevisions.md)** property is set for that single document.
+In this example, `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](../../../api/Word.Document.TrackRevisions.md)** property is set for that single document.
 
 Some properties cannot be set. The Help topic for a property indicates whether that property can be set (read/write) or can only be read (read-only).
 
 You can return information about an object by returning the value of one of its properties. The following example returns the name of the active document.
-
-
-
 
 ```vb
 Sub GetDocumentName() 
@@ -49,17 +42,15 @@ Sub GetDocumentName()
 End Sub
 ```
 
-In this example,  `ActiveDocument` refers to the document in the active window in Word. The name of that document is assigned to the variable refers to the document in the active window in Word. The name of that document is assigned to the variable `strDocName`.
+In this example, `ActiveDocument` refers to the document in the active window in Word. The name of that document is assigned to the variable refers to the document in the active window in Word. The name of that document is assigned to the variable `strDocName`.
 
 ## Remarks
 
 The Help topic for each property indicates whether you can set that property (read/write), only read the property (read-only), or only write the property (write-only). Also, the Object Browser in the Visual Basic Editor displays the read/write status at the bottom of the browser window when the property is selected.
 
-
 ## What is a method?
 
 A method is an action that an object can perform. For example, just as a document can be printed, the **[Document](../../../api/Word.Document.md)** object has a **[PrintOut](../../../api/Word.Document.PrintOut.md)** method. Methods often have arguments that qualify how the action is performed. The following example prints the first three pages of the active document.
-
 
 ```vb
 Sub PrintThreePages() 
@@ -137,9 +128,6 @@ End Sub
 
 The following example maximizes the active document window.
 
-
-
-
 ```vb
 Sub MaximizeDocumentWindow() 
     ActiveDocument.ActiveWindow.WindowState = wdWindowStateMaximize 
@@ -149,9 +137,6 @@ End Sub
 The **ActiveWindow** property returns a **Window** object that represents the active window. The **WindowState** property is set to the maximize constant (**wdWindowStateMaximize**).
 
 The following example creates a document and displays the **Save As** dialog box so that a name can be provided for the document.
-
-
-
 
 ```vb
 Sub CreateSaveNewDocument() 
@@ -169,7 +154,7 @@ As you can see, you use methods or properties to drill down to an object. That i
 Until you become familiar with the Word object model, there are tools that you can use to help you drill down through the hierarchy.
 
 
-- **Microsoft IntelliSense**. When you type a period (.) after an object in the Visual Basic Editor, a list of available properties and methods is displayed. For example, if you type  `Application.`, a drop-down list of methods and properties of the **Application** object is displayed.
+- **Microsoft IntelliSense**. When you type a period (.) after an object in the Visual Basic Editor, a list of available properties and methods is displayed. For example, if you type `Application.`, a drop-down list of methods and properties of the **Application** object is displayed.
     
 - **Help**. You can also use Help to find out which properties and methods can be used with an object. Each object topic in Help includes a See Also jump that displays a list of properties and methods for the object. Press **F1** while in the Object Browser or in a module to jump to the appropriate Help topic.
     

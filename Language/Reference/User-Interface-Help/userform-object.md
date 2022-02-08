@@ -37,7 +37,7 @@ When designing user forms, set the **[BorderStyle](borderstyle-property.md)** pr
 
 **UserForm** is an [Object data type](../../Glossary/vbe-glossary.md#object-data-type). You can declare variables as type **UserForm** before setting them to an instance of a type of **UserForm** declared at [design time](../../Glossary/vbe-glossary.md#design-time). Similarly, you can pass an [argument](../../Glossary/vbe-glossary.md#argument) to a [procedure](../../Glossary/vbe-glossary.md#procedure) as type **UserForm**. You can create multiple instances of user forms in code by using the **New** keyword in **Dim**, **Set**, and **Static** statements.
 
-You can access the collection of [controls](../../Glossary/vbe-glossary.md#control) on a **UserForm** by using the **[Controls](controls-collection-microsoft-forms.md)** collection. For example, to hide all the controls on a **UserForm**, use code similar to the following.
+Access the collection of [controls](../../Glossary/vbe-glossary.md#control) on a **UserForm** by using the **[Controls](controls-collection-microsoft-forms.md)** collection. For example, to hide all the controls on a **UserForm**, use code similar to the following.
 
 ```vb
 For Each Control in UserForm1.Controls

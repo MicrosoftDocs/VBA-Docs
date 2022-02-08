@@ -12,19 +12,15 @@ ms.localizationpriority: medium
 
 # Could not find field. (Error 3018)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 Possible causes:
-
-
 
 - The specified field does not exist.
     
 - You misspelled the field name. Check for missing underscores ( _ ) or other punctuation, and make sure you did not enter leading spaces.
     
-- You entered an invalid field identifier. For example,  `[My Table]_[My Field]` instead of `MyTable![My Field]`.
+- You entered an invalid field identifier. For example, `[My Table]_[My Field]` instead of `MyTable![My Field]`.
     
 - You did not use brackets to surround a field name that contains spaces.
     

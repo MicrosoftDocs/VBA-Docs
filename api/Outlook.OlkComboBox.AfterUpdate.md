@@ -16,18 +16,15 @@ ms.localizationpriority: medium
 
 Occurs after the data in the control has been changed through the user interface.
 
-
 ## Syntax
 
 _expression_.**AfterUpdate**
 
 _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 
-
 ## Remarks
 
  **BeforeUpdate** and **AfterUpdate** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **AfterUpdate** for this control is as follows:
-
 
 1. User focuses on the control
     
@@ -35,15 +32,12 @@ _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md)
     
 3. Control data is updated
     
-4. ** AfterUpdate**
+4. **AfterUpdate**
     
 5. **Exit** : User moves focus away from control
     
 
-
-
 ## See also
-
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

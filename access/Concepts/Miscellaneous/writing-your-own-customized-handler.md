@@ -20,15 +20,13 @@ The MSDFMAP.Handler implements the **IDataFactoryHandler** interface.
 
 This interface has two methods, **GetRecordset** and **Reconnect**. Both methods require that the [CursorLocation](https://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
 
-Both methods take arguments that appear after the first comma in the "**Handler=**" keyword. For example, `"Handler=progid,arg1,arg2;"` will pass an argument string of `"arg1,arg2"`, and will pass an argument string of  `"arg1,arg2"`, and  `"Handler=progid"` will pass a null argument.
-
+Both methods take arguments that appear after the first comma in the "**Handler=**" keyword. For example, `"Handler=progid,arg1,arg2;"` will pass an argument string of `"arg1,arg2"`, and will pass an argument string of `"arg1,arg2"`, and `"Handler=progid"` will pass a null argument.
 
 ## GetRecordset method
 
 This method queries the data source and creates a new [Recordset](https://msdn.microsoft.com/library/0F963BF8-F066-DC8A-B754-F427DE712DF1%28Office.15%29.aspx) object using the arguments provided. The **Recordset** must be opened with **adLockBatchOptimistic** and must not be opened asynchronously.
 
-
-### Arguments
+### GetRecordset arguments
 
 _conn_ The connection string.
 
@@ -38,20 +36,17 @@ _query_ The command text for making a query.
 
 _ppRS_ The pointer where the **Recordset** should be returned.
 
-
 ## Reconnect method
 
 This method updates the data source. It creates a new [Connection](https://msdn.microsoft.com/library/C16023AA-0321-2513-EE71-255D6FFBA03D%28Office.15%29.aspx) object and attaches the given **Recordset**.
 
-
-### Arguments
+### Reconnect arguments
 
 _conn_ The connection string.
 
 _args_ The arguments for the handler.
 
 _pRS_ A **Recordset** object.
-
 
 ### msdfhdl.idl
 

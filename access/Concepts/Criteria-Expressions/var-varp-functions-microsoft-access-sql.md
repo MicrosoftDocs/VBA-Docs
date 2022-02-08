@@ -50,7 +50,7 @@ Sub VarX()
     Set dbs = OpenDatabase("Northwind.mdb") 
  
     ' Calculate the variance of freight costs for  
-    ' orders shipped to the United Kingdom.  
+    ' orders shipped to the United Kingdom.
     Set rst = dbs.OpenRecordset("SELECT " _ 
         & "Var(Freight) " _ 
         & "AS [UK Freight Variance] " _ 
