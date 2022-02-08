@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of transfer that you want to make with the **TransferDatabase** or **TransferSpreadsheet** method.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acExport**|1|The data is exported.|

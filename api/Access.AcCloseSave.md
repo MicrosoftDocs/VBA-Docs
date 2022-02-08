@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used by the **Close** method to specify whether or not to save an object upon closing.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSaveNo**|2|The specified object is not saved.|

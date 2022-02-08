@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Not supported in Access.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSchemaNone**|0||

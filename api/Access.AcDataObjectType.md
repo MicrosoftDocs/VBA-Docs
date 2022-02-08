@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **GoToRecord** method to specify the type of object that contains the record to make current.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acActiveDataObject**|-1|The active object contains the record.|

@@ -44,7 +44,6 @@ The string returned by **TypeName** can be any one of the following:
 |Unknown|An object whose type is unknown|
 |**[Nothing](nothing-keyword.md)**|Object variable that doesn't refer to an object|
 
-<br>
 
 If _varname_ is an [array](../../Glossary/vbe-glossary.md#array), the returned string can be any one of the possible returned strings (or **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
@@ -64,7 +63,6 @@ MyType = TypeName(NullVar)    ' Returns "Null".
 MyType = TypeName(ArrayVar)    ' Returns "Integer()".
 
 ```
-
 
 ## See also
 

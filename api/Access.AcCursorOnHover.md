@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **CursorOnHover** property to specify the type of cursor displayed when a user rests the pointer on a button.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCursorOnHoverDefault**|0|The default cursor is displayed.|

@@ -17,20 +17,14 @@ Note that if any portion of the XML markup specified by an add-in and returned b
 
 To view any errors that your XML markup generates when it is loaded, follow these steps:
 
-
 1. Click the **File** tab, and then click **Options**.
-    
 2. Click **Advanced**.
-    
 3. Under **Developers**, select **Show add-in user interface errors**.
-    
 4. Click **OK** to save your changes.
-    
 
 ## See also
 
-
- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
+ [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

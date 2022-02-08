@@ -32,9 +32,9 @@ For more information and examples of different ways to customize the Outlook UI,
 ## See also
 
 
- [Customizing Shortcut Menus](customizing-shortcut-menus.md)<br>
- [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)<br>
- [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
+ [Customizing Shortcut Menus](customizing-shortcut-menus.md)
+ [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)
+ [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)
  [Overview of Customizing the Ribbon](overview-of-customizing-the-ribbon.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

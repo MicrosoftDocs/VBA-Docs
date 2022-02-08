@@ -16,12 +16,9 @@ ms.localizationpriority: medium
 
 An **AccessObject** object refers to a particular Access object.
 
-
 ## Remarks
 
 An **AccessObject** object includes information about one instance of an object. The following table list the types of objects each **AccessObject** describes, the name of its collection, and what type of information **AccessObject** contains.
-
-<br/>
 
 |AccessObject|Collection|Contains information about|
 |:-----|:-----|:-----|
@@ -63,7 +60,5 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 ## See also
 
 - [Access Object Model Reference](overview/access/object-model.md)
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

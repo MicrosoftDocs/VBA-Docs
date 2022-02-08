@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the Microsoft Access file format to use when converting an Access file.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFileFormatAccess2**|2|Microsoft Access 2.0 format|

@@ -16,13 +16,11 @@ ms.localizationpriority: high
 
 Returns a **Range** object that represents the cell at the end of the region that contains the source range. Equivalent to pressing END+UP ARROW, END+DOWN ARROW, END+LEFT ARROW, or END+RIGHT ARROW. Read-only **Range** object.
 
-
 ## Syntax
 
 _expression_.**End** (_Direction_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
-
 
 ## Parameters
 
@@ -38,15 +36,11 @@ This example selects the cell at the top of column B in the region that contains
 Range("B4").End(xlUp).Select
 ```
 
-<br>
-
 This example selects the cell at the end of row 4 in the region that contains cell B4.
 
 ```vb
 Range("B4").End(xlToRight).Select
 ```
-
-<br>
 
 This example extends the selection from cell B4 to the last cell in row four that contains data.
 
@@ -54,7 +48,5 @@ This example extends the selection from cell B4 to the last cell in row four tha
 Worksheets("Sheet1").Activate 
 Range("B4", Range("B4").End(xlToRight)).Select
 ```
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

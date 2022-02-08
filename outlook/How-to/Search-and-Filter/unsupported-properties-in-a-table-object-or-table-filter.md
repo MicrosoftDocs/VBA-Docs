@@ -82,10 +82,7 @@ If you attempt to add one of the computed properties listed below using **Column
     
 - **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
-
-
 If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you'll get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
-
 
 - **AutoResolvedWinner**
     
@@ -173,9 +170,7 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 - **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
-
- **Note** For a computed property such as **TaskSubject** or **IsMarkedAsTask**, you cannot add it to a **Table** using **Columns.Add** or filter it using **Table.Restrict**, if you reference the property with the explicit property name. However, you can add or filter on the property if you reference it by namespace, as in the following code sample in Visual Basic for Applications: 
-
+**Note** For a computed property such as **TaskSubject** or **IsMarkedAsTask**, you cannot add it to a **Table** using **Columns.Add** or filter it using **Table.Restrict**, if you reference the property with the explicit property name. However, you can add or filter on the property if you reference it by namespace, as in the following code sample in Visual Basic for Applications:
 
 
 ```vb

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **DefaultView** property to set or return the opening view of a report.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDefViewPreview**|0|The report opens in Print Preview.|

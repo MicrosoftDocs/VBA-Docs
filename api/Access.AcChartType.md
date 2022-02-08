@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the chart type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acChartBarClustered**|3|Clustered Bar|

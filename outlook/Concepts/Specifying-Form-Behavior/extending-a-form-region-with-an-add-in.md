@@ -2,14 +2,12 @@
 title: Extending a Form Region with an Add-in
 ms.prod: outlook
 ms.assetid: b1a28a20-a0b8-cc57-7672-da51ec8bb097
-ms.date: 06/08/2019
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
 
 # Extending a Form Region with an Add-in
-
-
 
 While you can create and run forms with form regions without a COM add-in, using a COM add-in will allow form regions to include custom business logic or advanced functionality. Unlike customizing form pages in a standard form, you don't use VBScript to write code behind a form; instead, you program form regions with a COM add-in. Your add-in will implement a new interface, **[FormRegionStartup](../../../api/Outlook.formregionstartup.md)**. Add-ins will be able to use Microsoft Forms 2.0 controls and Microsoft Outlook controls in a form region. This topic describes how to implement **FormRegionStartup** and access Outlook controls in a form region.
 
@@ -17,22 +15,17 @@ While you can create and run forms with form regions without a COM add-in, using
 
 When you register the form region for a message class, create a key in the Windows registry for that message class (if the key does not yet exist), and specify as data, an equal sign (**=**) followed by the ProgID of the add-in. For more information on registering a form region in the Windows registry, see [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
-
 ## Implementing FormRegionStartup
 
 In the same class that implements the **IDTExtensibility2** interface of your COM Add-in, implement the **Outlook.FormRegionStartup** interface, which is defined in the Outlook type library. Outlook will call the four methods in this interface:
 
-
 - **[GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegionStorage.md)**
-    
+
 - **[BeforeFormRegionShow](../../../api/Outlook.FormRegionStartup.BeforeFormRegionShow.md)**
-    
+
 - **[GetFormRegionManifest](../../../api/Outlook.FormRegionStartup.GetFormRegionManifest.md)**
-    
+
 - **[GetFormRegionIcon](../../../api/Outlook.FormRegionStartup.GetFormRegionIcon.md)**
-    
-
-
 
 ## GetFormRegionStorage
 
@@ -139,7 +132,6 @@ Outlook.OlkCheckBox checkBox1 =
 checkBox1.Value = true; 
 
 ```
-
 
 ## GetFormRegionManifest
 
