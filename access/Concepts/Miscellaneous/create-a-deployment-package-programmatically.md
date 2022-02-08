@@ -12,7 +12,6 @@ ms.localizationpriority: medium
 
 The **CreateInstallPackage** method enables you to create a deployment package programmatically.
 
-
 ## Syntax
 
 _expression_. **CreateInstallPackage**(**_WizardSettingsFile_**)
@@ -20,8 +19,6 @@ _expression_. **CreateInstallPackage**(**_WizardSettingsFile_**)
 _expression_ A variable that represents an **AccessDeveloperExtensions** object.
 
 The following table describes the arguments of the **CreateInstallPackage** method.
-
-<br/>
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -65,7 +62,6 @@ End Sub
 To use this example, you must set a reference to the Access Developer Extensions type library. To do this, follow these steps:
 
 1. On the **Tools** menu, click **References**.
-    
 2. Select the **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

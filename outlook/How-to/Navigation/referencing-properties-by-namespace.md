@@ -184,11 +184,11 @@ These are some examples of properties being referenced by different DAV namespac
 
 ## See also
 
-- [MAPI Property Tags](../../../api/overview/Outlook.md)<br>
-- [MAPI Property Identifier Overview](../../../api/overview/Outlook.md)<br>
-- [MAPI Property Type Overview](../../../api/overview/Outlook.md)<br>
-- [Property Identifier Ranges](../../../api/overview/Outlook.md)<br>
-- [Property Types](../../../api/overview/Outlook.md)<br>
+- [MAPI Property Tags](../../../api/overview/Outlook.md)
+- [MAPI Property Identifier Overview](../../../api/overview/Outlook.md)
+- [MAPI Property Type Overview](../../../api/overview/Outlook.md)
+- [Property Identifier Ranges](../../../api/overview/Outlook.md)
+- [Property Types](../../../api/overview/Outlook.md)
 - [MAPI Named Properties](../../../api/overview/Outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

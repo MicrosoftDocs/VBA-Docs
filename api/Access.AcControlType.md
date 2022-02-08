@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of control created by the **[CreateControl](Access.Application.CreateControl.md)** and **[CreateReportControl](access.application.createreportcontrol.md)** methods.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAttachment**|126|Attachment control|

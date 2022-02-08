@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the behavior for representing minimum and maximum values on an axis.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAxisRangeAuto**|0|The represented range is determined automatically by the lowest and highest values in the set.|

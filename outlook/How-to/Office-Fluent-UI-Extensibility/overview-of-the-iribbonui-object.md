@@ -15,7 +15,6 @@ When Outlook calls one of these methods, it passes an **IRibbonUI** object as a 
 
  **IRibbonUI** exposes the following methods to customize the user interface in Outlook:
 
-
 | **Method**| **Action**| **Description**|
 |:-----|:-----|:-----|
 | **[Invalidate()](../../../api/Office.IRibbonUI.Invalidate.md)**|Callback|Marks all of the custom controls or menu items in your add-in for update.|
@@ -27,8 +26,7 @@ To minimize the impact on performance, use the **InvalidateControl** method inst
 
 ## See also
 
-
- [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
+ [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)
+ [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

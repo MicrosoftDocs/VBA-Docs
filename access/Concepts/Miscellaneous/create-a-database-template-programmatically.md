@@ -12,7 +12,6 @@ ms.localizationpriority: medium
 
 The **SaveAsTemplate** method enables you to convert an existing Access database file to a database template (.accdt) format file that can be featured on the **Getting Started with Microsoft Office Access** page.
 
-
 ## Syntax
 
 _expression_. **SaveAsTemplate**(**_TemplateLocation_**, **_TemplateName_**, **_PreviewImage_**, **_Description_**, **_Category_**, **_Keywords_**, **_Identifier_**, **_Reserved_**)
@@ -20,8 +19,6 @@ _expression_. **SaveAsTemplate**(**_TemplateLocation_**, **_TemplateName_**, **_
 _expression_ A variable that represents a **TemplateCreator** object.
 
 The following table describes the arguments of the **SaveAsTemplate** method.
-
-<br/>
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

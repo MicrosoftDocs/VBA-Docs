@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the line dash style for a series when its effective chart type is line-based.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDashTypeDash**|1|Dash|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **[RunCommand](Access.Application.RunCommand.md)** method to run built-in commands.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acCmdAboutMicrosoftAccess**|35||

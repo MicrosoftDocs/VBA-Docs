@@ -20,10 +20,10 @@ For a detailed discussion of the ribbon and ribbon extensibility, see [Overview 
 ## See also
 
 
- [Detecting Errors](detecting-errors.md)<br>
- [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)<br>
- [Overview of the IRibbonUI Object](overview-of-the-iribbonui-object.md)<br>
- [Overview of the IRibbonControl Object](overview-of-the-iribboncontrol-object.md)<br>
+ [Detecting Errors](detecting-errors.md)
+ [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)
+ [Overview of the IRibbonUI Object](overview-of-the-iribbonui-object.md)
+ [Overview of the IRibbonControl Object](overview-of-the-iribboncontrol-object.md)
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
