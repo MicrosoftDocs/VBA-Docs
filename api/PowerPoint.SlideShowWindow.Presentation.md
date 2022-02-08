@@ -31,9 +31,9 @@ Presentation
 
 ## Remarks
 
-If the slide that's currently displayed in document window one is from an embedded presentation,  `Windows(1).View.Slide.Parent` returns the embedded presentation, and `Windows(1).Presentation` returns the presentation in which document window one was created.
+If the slide that's currently displayed in document window one is from an embedded presentation, `Windows(1).View.Slide.Parent` returns the embedded presentation, and `Windows(1).Presentation` returns the presentation in which document window one was created.
 
-If the slide that's currently displayed in slide show window one is from an embedded presentation,  `SlideShowWindows(1).View.Slide.Parent` returns the embedded presentation, and `SlideShowWindows(1).Presentation` returns the presentation in which the slide show was started.
+If the slide that's currently displayed in slide show window one is from an embedded presentation, `SlideShowWindows(1).View.Slide.Parent` returns the embedded presentation, and `SlideShowWindows(1).Presentation` returns the presentation in which the slide show was started.
 
 
 ## Example

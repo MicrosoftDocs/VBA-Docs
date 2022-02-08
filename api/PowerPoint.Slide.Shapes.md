@@ -47,9 +47,6 @@ firstSlide.Shapes.AddShape msoShapeRectangle, 5, 25, 100, 50
 
 This example sets the fill texture for shape three on slide one in the active presentation.
 
-
-
-
 ```vb
 Set newRect = ActivePresentation.Slides(1).Shapes(3)
 
@@ -57,9 +54,6 @@ newRect.Fill.PresetTextured msoTextureOak
 ```
 
 Assuming that slide one in the active presentation contains a title, both the second and third lines of code in the following example set the title text on slide one in the presentation.
-
-
-
 
 ```vb
 Set firstSl = ActivePresentation.Slides(1)
@@ -69,10 +63,7 @@ firstSl.Shapes.Title.TextFrame.TextRange.Text = "Some title text"
 firstSl.Shapes(1).TextFrame.TextRange.Text = "Other title text"
 ```
 
-Assuming that shape two on slide two in the active presentation contains a text frame, the following example adds a series of paragraphs to the slide. Note that  `Chr(13)` is used to insert paragraph marks within the text.
-
-
-
+Assuming that shape two on slide two in the active presentation contains a text frame, the following example adds a series of paragraphs to the slide. Note that `Chr(13)` is used to insert paragraph marks within the text.
 
 ```vb
 Set tShape = ActivePresentation.Slides(2).Shapes(2)
@@ -83,16 +74,12 @@ tShape.TextFrame.TextRange.Text = "First Item" & Chr(13) & _
 
 For most slide layouts, the first shapes on the slide are text placeholders, and the following example accomplishes the same task as the preceding example.
 
-
-
-
 ```vb
 Set testShape = ActivePresentation.Slides(2).Shapes.Placeholders(2)
 
 testShape.TextFrame.TextRange.Text = "First Item" & _
     Chr(13) & "Second Item" & Chr(13) & "Third Item"
 ```
-
 
 ## See also
 

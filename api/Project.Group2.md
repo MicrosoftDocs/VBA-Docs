@@ -25,7 +25,7 @@ The **Group2** object includes the **[MaintainHierarchy](Project.Group2.Maintain
  
 
  
-Use  `TaskGroups2(Index)` or `ResourceGroups2(Index)`, where *Index* is the group definition index or group definition name, to return a **Group2** object.
+Use `TaskGroups2(Index)` or `ResourceGroups2(Index)`, where *Index* is the group definition index or group definition name, to return a **Group2** object.
  
 
  
