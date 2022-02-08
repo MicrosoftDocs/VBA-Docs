@@ -24,7 +24,7 @@ The following sample counts the number of navigation folders selected for displa
     
 4. If the **[IsSelected](../../../api/Outlook.NavigationFolder.IsSelected.md)** property of a **NavigationFolder** object contained in the **NavigationFolders** collection is set to **True**, the variable  `intCounter` is incremented.
     
-5. Finally, the sample displays a dialog box containing the value of  `intCounter`.
+5. Finally, the sample displays a dialog box containing the value of `intCounter`.
     
 
 
