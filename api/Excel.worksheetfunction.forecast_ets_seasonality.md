@@ -14,13 +14,11 @@ ms.localizationpriority: medium
 
 Returns the length of the repetitive pattern that Excel detects for the specified time series.
 
-
 ## Syntax
 
-_expression_.**Forecast_ETS_Seasonality** (_Arg1_,  _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_)
+_expression_.**Forecast_ETS_Seasonality** (_Arg1_, _Arg1_, _Arg2_, _Arg3_, _Arg4_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
-
 
 ## Parameters
 
@@ -35,7 +33,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 **Double**
 
-
 ## Remarks
 
 Use **Forecast_ETS_Seasonality** following **[Forecast_ETS](Excel.worksheetfunction.forecast_ets.md)** to identify which automatic seasonality was detected and used in **Forecast_ETS**. While you can also use it independently of **Forecast_ETS**, the methods are tied together, because the seasonality detected in this method is identical to the one used by **Forecast_ETS**, considering that the same input parameters that affect data completion are passed in both methods.
@@ -45,7 +42,5 @@ It'sn't necessary to sort the timeline (_Arg2_), because **Forecast_ETS_Seasonal
 Passing 0 for the data completions parameter (_Arg3_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data, **Forecast_ETS_Seasonality** returns run-time error 1004.
 
 The aggregation parameter (_Arg4_) is a numeric value specifying the method to use to aggregate several values that have the same time stamp. The default value of 0 specifies AVERAGE, while other numbers between 1 and 6 specify SUM, COUNT, COUNTA, MIN, MAX, and MEDIAN.
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,8 +20,6 @@ Returns a string containing the extension name for the last component in a path.
 
 _object_.**GetExtensionName** (_path_)
 
-<br/>
-
 The **GetExtensionName** method syntax has these parts:
 
 |Part|Description|

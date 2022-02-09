@@ -18,8 +18,6 @@ Returns a string created by joining a number of substrings contained in an [arra
 
 **Join**(_sourcearray_, [ _delimiter_ ])
 
-<br/>
-
 The **Join** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

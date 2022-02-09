@@ -11,8 +11,6 @@ ms.localizationpriority: medium
 
 These constants are only available when your project has an explicit reference to the appropriate [type library](../../Glossary/vbe-glossary.md#type-library) containing these constant definitions.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Unknown**|0|Drive type can't be determined.|

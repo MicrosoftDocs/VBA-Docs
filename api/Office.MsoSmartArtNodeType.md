@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the types of SmartArt nodes.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSmartArtNodeTypeAssistant**|2|Defines an assistant node, which can be used within hierarchical diagrams.|

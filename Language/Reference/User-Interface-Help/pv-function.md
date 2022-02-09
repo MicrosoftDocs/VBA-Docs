@@ -18,8 +18,6 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 **PV**(_rate_, _nper_, _pmt_, [ _fv_, [ _type_ ]])
 
-<br/>
-
 The **PV** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

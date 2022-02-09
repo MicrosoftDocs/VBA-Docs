@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **PrintOut** method to specify the print quality of a particular print job.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDraft**|3|Draft quality|

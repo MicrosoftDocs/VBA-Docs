@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies target browser for documents viewed in a web browser.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTargetBrowserIE4**|2|Microsoft Internet Explorer 4.0 or later |

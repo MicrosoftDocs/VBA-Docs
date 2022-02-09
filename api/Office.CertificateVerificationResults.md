@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Provides the results of verifying a digital certificate.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**certverresError**|0|The verification resulted in an error.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the text alignment scheme used for an object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFontAlignAuto**|0|Specifies that the text alignment will be determined by the Office application.|

@@ -45,7 +45,6 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 
 **Table 1. Information in Arg1 and Arg2, based on the element ID**
 
-
 |**ElementID Constant**|**Constant Value **|**Arg1**|**Arg2**|
 |:-----|:-----|:-----|:-----|
 |**xlAxis**|21|AxisIndex|AxisType|

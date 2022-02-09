@@ -49,8 +49,6 @@ End With
 myBar.Visible = True
 ```
 
-<br/>
-
 This example adds a command bar control to the command bar named **Custom**. The COM add-in named **FinanceAddIn** will run each time the control is clicked.
 
 ```vb

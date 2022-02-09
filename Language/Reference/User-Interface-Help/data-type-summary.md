@@ -41,8 +41,6 @@ The following table shows the supported [data types](../../Glossary/vbe-glossary
 |**[User-defined](../../How-to/user-defined-data-type.md)** (using **Type**) |Number required by elements|The range of each element is the same as the range of its data type.|
 
 
-<br/>
-
 A **Variant** containing an array requires 12 bytes more than the array alone.
 
 > [!NOTE] 

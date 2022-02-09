@@ -39,8 +39,6 @@ Sub AddAndSave(pptPres As Presentation)
 End Sub
 ```
 
-<br/>
-
 This example displays the name of the application that created each linked OLE object on slide one in the active presentation.
 
 ```vb

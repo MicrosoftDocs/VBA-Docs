@@ -44,8 +44,6 @@ This example changes the width of columns A through I on Sheet1 to achieve the b
 Worksheets("Sheet1").Columns("A:I").AutoFit
 ```
 
-<br/>
-
 This example changes the width of columns A through E on Sheet1 to achieve the best fit, based only on the contents of cells A1:E1.
 
 ```vb

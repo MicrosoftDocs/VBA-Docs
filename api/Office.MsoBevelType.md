@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the bevel type of a **ThreeDFormat** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBevelAngle**|6|Specifies an Angle bevel.|

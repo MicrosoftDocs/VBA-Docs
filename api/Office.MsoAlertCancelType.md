@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies behavior when the user cancels an alert. Only **msoAlertCancelDefault** is currently supported.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlertCancelDefault**|-1|Default behavior for canceling an alert.|

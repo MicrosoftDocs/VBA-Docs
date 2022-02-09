@@ -41,8 +41,6 @@ Use these key combinations when the **Property** list has the focus in the Prope
 |Double-Click|Cycle through settings of enumerated properties, or switch focus to the settings box for other property types.|
 |ALT+F6|Switch between the last two active windows.|
 
-<br/>
-
 Use these key combinations when the settings box for a property has the focus in the Properties window.
 
 |Press|To|
@@ -57,8 +55,6 @@ Use these key combinations when the settings box for a property has the focus in
 |ESC|Cancel the property change.|
 |CTRL +SHIFT+ALPHA|Move to the next property that begins with the alpha character in the list.|
 
-<br/>
-
 Use these key combinations when a property has enumerated values, and its settings box has the focus in the Properties window.
 
 |Press|To|
@@ -66,16 +62,12 @@ Use these key combinations when a property has enumerated values, and its settin
 |ALT+DOWN ARROW|Open the settings box list.|
 |ALT+UP ARROW|Close the settings box list.|
 
-<br/>
-
 Use these key combinations when you set the **BackColor**, **ForeColor**, **FillColor**, or **BorderColor** properties, and the settings box has the focus in the Properties window.
 
 |Press|To|
 |:-----|:-----|
 |ALT+DOWN ARROW|Display the **Color** palette.|
 |ALT+UP ARROW|Close the **Color** palette.|
-
-<br/>
 
 Use these key combinations when you set the **Icon** or **Picture** properties, and the settings box has the focus in the Properties window.
 

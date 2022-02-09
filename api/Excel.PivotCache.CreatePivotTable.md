@@ -71,8 +71,6 @@ With ActiveSheet.PivotTables("PivotTable1")
 End With
 ```
 
-<br/>
-
 This example creates a new PivotTable cache by using an ADO connection to Microsoft Jet, and then it creates a new PivotTable report based on the cache at cell A3 on the active worksheet.
 
 ```vb

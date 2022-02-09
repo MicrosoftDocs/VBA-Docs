@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Creates a new view in the **Views** collection.
 
-
 ## Syntax
 
 _expression_.**Add** (_Name_, _ViewType_, _SaveOption_)
 
 _expression_ A variable that represents a **[Views](Outlook.Views.md)** object.
-
 
 ## Parameters
 
@@ -30,17 +28,15 @@ _expression_ A variable that represents a **[Views](Outlook.Views.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new view.|
 | _ViewType_|Required| **[OlViewType](Outlook.OlViewType.md)**|The type of the new view.|
-| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that specifies the permissions of the new view:<ul><li><b>olViewSaveOptionAllFoldersOfType</b> The view can be accessed in all folders of this type.</li><li><b>olViewSaveOptionThisFolderEveryOne</b> The view can be accessed by all users in this folder only.</li><li><b>olViewSaveOptionThisFolderOnlyMe</b> The view can be accessed in this folder only by the user.</li></ul>|
+| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that specifies the permissions of the new view:<ul><li>**olViewSaveOptionAllFoldersOfType** The view can be accessed in all folders of this type.</li><li>**olViewSaveOptionThisFolderEveryOne** The view can be accessed by all users in this folder only.</li><li>**olViewSaveOptionThisFolderOnlyMe** The view can be accessed in this folder only by the user.</li></ul>|
 
 ## Return value
 
 A **[View](Outlook.View.md)** object that represents the new view.
 
-
 ## Remarks
 
 If you add a **View** to a **Views** collection of a folder that is not the current folder, you must first save a copy of the **Views** collection object and then add the **View** to this collection object, as shown in the following code sample. This is a work-around for an existing problem that will otherwise cause a call to **[View.Apply](Outlook.View.Apply.md)** for the added **View** to fail.
-
 
 ```vb
 Sub CalendarView() 
@@ -59,11 +55,9 @@ Sub CalendarView()
 End Sub
 ```
 
-
 ## Example
 
 The following Visual Basic for Applications (VBA) example creates a new view called New Table and stores it in a variable called `objNewView`.
-
 
 ```vb
 Sub CreateView() 
@@ -78,8 +72,5 @@ Sub CreateView()
  ViewType:=olTableView, SaveOption:=olViewSaveOptionThisFolderEveryone) 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

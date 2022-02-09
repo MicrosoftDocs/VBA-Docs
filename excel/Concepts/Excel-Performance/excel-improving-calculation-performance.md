@@ -450,8 +450,6 @@ The drill-down approach starts by timing the calculation of the workbook, the ca
     
 14. Prioritize the obstructions.
 
-<br/>
-
 ### Speeding up calculations and reducing obstructions
 
 It's not the number of formulas or the size of a workbook that consumes the calculation time. It's the number of cell references and calculation operations, and the efficiency of the functions being used.
@@ -580,8 +578,6 @@ If you have a calculation-intensive formula where you want the result to be show
 - Or you can use the **IFERROR** function, which is designed to be fast and simple, and is a single formula:
     
     `B1=IFERROR(time expensive formula,0)`
-
-<br/>
 
 #### Dynamic count unique
 

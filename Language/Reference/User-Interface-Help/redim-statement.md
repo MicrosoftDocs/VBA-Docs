@@ -18,8 +18,6 @@ Used at the [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to
 
 **ReDim** [ **Preserve** ] _varname_ ( _subscripts_ ) [ **As** _type_ ], [ _varname_ ( _subscripts_ ) [ **As** _type_ ]] **. . .**
 
-<br/>
-
 The **ReDim** statement syntax has these parts:
 
 |Part|Description|
@@ -73,8 +71,6 @@ Next I
 
 ```
 
-<br/>
-
 The next statement resizes the array and erases the elements.
 
 ```vb
@@ -84,8 +80,6 @@ For I = 1 To 10 ' Loop 10 times.
 Next I 
 
 ```
-
-<br/>
 
 The following statement resizes the array but does not erase elements.
 

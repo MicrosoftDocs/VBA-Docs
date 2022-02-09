@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the section that will contain the new control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDetail**|0|(Default) Detail section|

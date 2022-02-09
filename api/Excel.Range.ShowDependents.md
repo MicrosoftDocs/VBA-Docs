@@ -44,8 +44,6 @@ Worksheets("Sheet1").Activate
 ActiveCell.ShowDependents
 ```
 
-<br/>
-
 This example removes the tracer arrow for one level of dependents of the active cell on Sheet1.
 
 ```vb

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates what the size measurement is in relation to (area or width).
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlSizeIsArea**|1|The size measure is for the area.|

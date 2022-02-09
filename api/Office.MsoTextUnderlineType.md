@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the type of underline for text.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoNoUnderline**|0|Specifies no underline.|

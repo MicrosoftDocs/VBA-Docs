@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Directories and files keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Change directory or folder.|[ChDir](chdir-statement.md)|

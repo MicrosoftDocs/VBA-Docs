@@ -1,8 +1,8 @@
 ---
-title: Editing text
+title: Editing text (Word)
 ms.prod: word
 ms.assetid: 55c4d9ee-00f1-fcc6-72b1-2c19f25420a6
-ms.date: 02/06/2022
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
@@ -10,6 +10,12 @@ ms.localizationpriority: medium
 # Editing text
 
 This topic includes Visual Basic examples related to the tasks identified in the following sections.
+
+[Determine whether text is selected](#determine-whether-text-is-selected)
+[Collapse a selection or range](#collapse-a-selection-or-range)
+[Extend a selection or range](#extend-a-selection-or-range)
+[Redefine a selection or range](#redefine-a-selection-or-range)
+[Change text](#change-text)
 
 For information about, and examples of, other editing tasks, see the following topics:
 
@@ -28,10 +34,9 @@ Sub IsTextSelected()
 End Sub
 ```
 
-## Collapsing a selection or range
+## Collapse a selection or range
 
 Use the **Collapse** method to collapse a **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
-
 
 ```vb
 Sub CollapseToBeginning() 
@@ -80,7 +85,7 @@ Use the **GetRange**method to redefine an existing **Selection** object or **Ran
 
 ## Change text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **nge** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the **Text](../../../api/Word.Range.Text.md)** property of a **Range** object to "The ".
 
 ```vb
 Sub ChangeText() 

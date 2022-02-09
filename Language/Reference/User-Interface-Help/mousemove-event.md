@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MouseMove
 ms.assetid: 0bbb767d-c113-2a65-7ca1-a3f98f4a3cce
-ms.date: 11/15/2018
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
@@ -18,18 +18,18 @@ Occurs when the user moves the mouse.
 
 ## Syntax
 
-For MultiPage, TabStrip <br/>
-**Private Sub**_object_ _**MouseMove(**_index_**As Long**, <br/> 
-**ByVal**_Button_**As fmButton**, <br/> 
-**ByVal**_Shift_**As fmShiftState**, <br/> 
-**ByVal**_X_**As Single**,  <br/>
-**ByVal**_Y_**As Single)** 
+For MultiPage, TabStrip:
+**Private Sub**_object_ _**MouseMove(**_index_**As Long**,
+**ByVal**_Button_**As fmButton**,
+**ByVal**_Shift_**As fmShiftState**,
+**ByVal**_X_**As Single**,
+**ByVal**_Y_**As Single)**
 
-For other controls <br/>
-**Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, <br/> 
-**ByVal**_Shift_**As fmShiftState**,  <br/>
-**ByVal**_X_**As Single**,  <br/>
-**ByVal**_Y_**As Single)** 
+For other controls:
+**Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**,
+**ByVal**_Shift_**As fmShiftState**,
+**ByVal**_X_**As Single**,
+**ByVal**_Y_**As Single)**
 
 The **MouseMove** event syntax has these parts:
 
@@ -58,8 +58,6 @@ The settings for _Button_ are:
 |6|The middle and right buttons are pressed.|
 |7|All three buttons are pressed.|
 
-<br/>
-
 The settings for _Shift_ are:
 
 |Value|Description|
@@ -71,8 +69,6 @@ The settings for _Shift_ are:
 |5|ALT and SHIFT were pressed.|
 |6|ALT and CTRL were pressed.|
 |7|ALT, SHIFT, and CTRL were pressed.|
-
-<br/>
 
 You can identify individual keyboard modifiers by using the following constants:
 
@@ -96,9 +92,8 @@ Use the value returned in the _Button_ argument to identify the state of the mou
 
 Use the _Shift_ argument to identify the state of SHIFT, CTRL, and ALT when the MouseMove event occurred. For example, if both CTRL and ALT are pressed, the value of _Shift_ is 6.
 
-> [!NOTE] 
+> [!NOTE]
 > Use MouseDown and MouseUp event procedures to respond to events caused by pressing and releasing mouse buttons.
-
 
 ## See also
 

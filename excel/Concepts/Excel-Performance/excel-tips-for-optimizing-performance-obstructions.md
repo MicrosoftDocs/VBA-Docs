@@ -433,8 +433,6 @@ Most native Excel functions work well with multi-threaded calculation. However, 
 - ERROR.TYPE
 - HYPERLINK
 
-<br/>
-
 ### Use tables for functions that handle ranges
 
 For functions like **SUM**, **SUMIF**, and **SUMIFS** that handle ranges, the calculation time is proportional to the number of used cells you are summing or counting. Unused cells are not examined, so whole column references are relatively efficient, but it is better to ensure that you don't include more used cells than you need. Use tables, or calculate subset ranges or dynamic ranges.
@@ -617,8 +615,6 @@ The following example shows the functionality that you can turn off while your V
   ActiveSheet.DisplayPageBreaks = displayPageBreaksState
 ```
 
-<br/>
-
 ### Read and write large blocks of data in a single operation
 
 Optimize your code by explicitly reducing the number of times data is transferred between Excel and your code. Instead of looping through cells one at a time to get or set a value, get or set the values in the entire range of cells in one line, using a variant containing a two-dimensional array to store values as needed. The following code examples compare these two methods.
@@ -669,8 +665,6 @@ The following code example shows optimized code that uses an array to get and se
   ' Write all the values back into the range at once.
   Range("A1:C10000").Value2 = DataRange 
 ```
-
-<br/>
 
 ### Use .Value2 rather than .Value or .Text when reading data from an Excel range
 

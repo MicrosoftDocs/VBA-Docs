@@ -32,8 +32,6 @@ The following example deletes all the embedded charts on the worksheet named **S
 Worksheets("sheet1").ChartObjects.Delete
 ```
 
-<br/>
-
 You cannot use the **ChartObjects** collection to call the following properties and methods:
 
 - **Locked** property   
@@ -52,8 +50,6 @@ Set ch = Worksheets("sheet1").ChartObjects.Add(100, 30, 400, 250)
 ch.Chart.ChartWizard source:=Worksheets("sheet1").Range("a1:a20"), _ 
  gallery:=xlLine, title:="New Chart"
 ```
-
-<br/>
 
 Use **ChartObjects** (_index_), where _index_ is the embedded chart index number or name, to return a single object. The following example sets the pattern for the chart area in embedded Chart 1 on the worksheet named **Sheet1**.
 

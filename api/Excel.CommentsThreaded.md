@@ -32,15 +32,11 @@ For Each c In cmt
 Next
 ```
 
-<br/>
-
 Use the **[AddCommentThreaded](Excel.Range.AddCommentThreaded.md)** method of the **Range** object to add a threaded comment to a range. The following example adds a threaded comment to cell E5 on worksheet one.
 
 ```vb
 Worksheets(1).Range("e5").AddCommentThreaded("This is a Threaded Comment")
 ```
-
-<br/>
 
 Use **CommentsThreaded** (_index_), where _index_ is the threaded comment number, to return a single threaded comment from the **CommentsThreaded** collection. The following example updates the text of threaded comment two on worksheet one.
 

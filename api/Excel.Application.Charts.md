@@ -35,8 +35,6 @@ With Charts("Chart1")
 End With
 ```
 
-<br/>
-
 This example hides Chart1, Chart3, and Chart5.
 
 ```vb

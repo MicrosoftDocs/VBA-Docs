@@ -34,8 +34,6 @@ _expression_ Required. A variable that represents a **[DocumentProperties](Offic
 | _Value_|Optional|**Variant**|The data value of the **[Value](office.documentproperty.value.md)** property, if it's not linked to the contents of the container document. The value is converted to match the data type specified by the _Type_ argument, and if it can't be converted, an error occurs. If _LinkToContent_ is **True**, the argument is ignored, and the new document property is assigned a default value until the linked property values are updated by the container application (usually when the document is saved).|
 | _LinkSource_|Optional|**Variant**|Ignored if _LinkToContent_ is **False**. The source of the **[LinkSource](office.documentproperty.linksource.md)** property. The container application determines what types of source linking you can use. For example, DDE links use the "Server\|Document!Item" syntax.|
 
-<br/>
-
 ## Remarks
 
 If you add a custom document property to the **DocumentProperties** collection that's linked to a given value in an Office document, you must save the document to see the change to the **DocumentProperty** object.

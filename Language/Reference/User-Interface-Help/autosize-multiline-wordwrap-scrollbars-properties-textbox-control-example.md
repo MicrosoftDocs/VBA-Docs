@@ -64,8 +64,6 @@ Private Sub ToggleButton1_Click()
 End Sub
 ```
 
-<br/>
-
 ```vb
 Private Sub ToggleButton2_Click() 
 'Set WordWrap property and associated ToggleButton 
@@ -80,8 +78,6 @@ Private Sub ToggleButton2_Click()
 End Sub
 ```
 
-<br/>
-
 ```vb
 Private Sub ToggleButton3_Click() 
 'Set ScrollBars property and associated ToggleButton 
@@ -95,8 +91,6 @@ Private Sub ToggleButton3_Click()
  End If 
 End Sub
 ```
-
-<br/>
 
 ```vb
 Private Sub ToggleButton4_Click() 

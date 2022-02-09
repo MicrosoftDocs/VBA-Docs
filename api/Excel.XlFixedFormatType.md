@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of file format.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlTypePDF**|0|"PDF" - Portable Document Format file (.pdf)|

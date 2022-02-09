@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies numbered bullet styles.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBulletAlphaLCParenBoth**|8|Lowercase alphabetical bullet with opening and closing parentheses.|

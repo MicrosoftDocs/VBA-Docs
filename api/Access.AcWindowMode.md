@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the mode in which a form or report is opened.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDialog**|3|The form or report's **Modal** and **PopUp** properties are set to **Yes**.|

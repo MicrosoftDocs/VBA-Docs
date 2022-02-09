@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the styles of the groups on the **File** tab.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**BackstageGroupStyleError**|2|Error style|

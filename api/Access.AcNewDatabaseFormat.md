@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [NewCurrentDatabase](Access.Application.NewCurrentDatabase.md) method to specify the database format of the newly created database.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acNewDatabaseFormatAccess12**|12|Create a database in the Access (.accdb) file format.|

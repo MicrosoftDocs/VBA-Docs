@@ -16,41 +16,31 @@ ms.localizationpriority: medium
 
 Trims selected shapes into smaller shapes.
 
-
 ## Syntax
 
 _expression_. `Trim`
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 
-
 ## Return value
 
 Nothing
-
 
 ## Remarks
 
 Calling the **Trim** method is equivalent to clicking **Trim** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the [Developer](../visio/How-to/run-visio-in-developer-mode.md) tab).
 
-The new shapes inherit the formatting of the first selected shape, have no text, and are the topmost shapes in their container—the  _n_th shape,  _n_th - 1 shape,  _n_th - 2 shape, and so forth in the **Shapes** collection of their containing shape, where _n_ = count. The original shapes are deleted and no shapes are selected when the operation is complete.
+The new shapes inherit the formatting of the first selected shape, have no text, and are the topmost shapes in their container—the _n_th shape, _n_th - 1 shape, _n_th - 2 shape, and so forth in the **Shapes** collection of their containing shape, where _n_ = count. The original shapes are deleted and no shapes are selected when the operation is complete.
 
 The **Trim** method is similar to the **Fragment** method but differs in the following ways:
 
-
-
-
 - Shapes produced by the **Trim** method coincide with the distinct paths of the selected shapes, taking overlap into account.
-    
+
 - Shapes produced by the **Fragment** method coincide with the distinct regions of the selected shapes, also taking overlap into account.
-    
-
-
 
 ## Example
 
 This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Trim** method to trim selected shapes into smaller shapes along their intersections.
-
 
 ```vb
 Public Sub Trim_Example() 

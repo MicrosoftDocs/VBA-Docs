@@ -30,16 +30,12 @@ Use the **[Trendlines](Excel.Series.Trendlines.md)** method of the **Series** ob
 MsgBox Charts(1).SeriesCollection(1).Trendlines.Count
 ```
 
-<br/>
-
 Use the **Add** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series in embedded chart one on Sheet1.
 
 ```vb
 Worksheets("sheet1").ChartObjects(1).Chart.SeriesCollection(1) _ 
  .Trendlines.Add type:=xlLinear, name:="Linear Trend"
 ```
-
-<br/>
 
 Use **Trendlines** (_index_), where _index_ is the trendline index number, to return a single **TrendLine** object. The following example changes the trendline type for the first series in embedded chart one on worksheet one. If the series has no trendline, this example will fail.
 

@@ -58,8 +58,6 @@ The following example sets the **ControlSource** property for a text box named *
 Forms!Customers!AddressPart.ControlSource = "City"
 ```
 
-<br/>
-
 The following example sets the **ControlSource** property for a text box named **Expected** to the expression `=Date() + 7`.
 
 ```vb

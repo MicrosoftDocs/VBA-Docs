@@ -40,8 +40,6 @@ With ctrl
 End With
 ```
 
-<br/>
-
 The following example changes the caption of every control on the toolbar named **Standard** to the current value of the **Id** property for that control.
 
 ```vb

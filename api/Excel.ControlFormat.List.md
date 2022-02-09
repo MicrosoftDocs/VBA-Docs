@@ -49,8 +49,6 @@ Worksheets(1).Shapes(2).ControlFormat.List = _
  Array("cogs", "widgets", "sprockets", "gizmos")
 ```
 
-<br/>
-
 This example sets entry four in a list box on worksheet one. If `Shapes(2)` doesn't represent a list box, this example fails.
 
 ```vb

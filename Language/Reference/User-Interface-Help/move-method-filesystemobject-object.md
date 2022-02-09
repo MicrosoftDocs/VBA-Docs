@@ -18,8 +18,6 @@ Moves a specified file or folder from one location to another.
 
 _object_.**Move** _destination_
 
-<br/>
-
 The **Move** method syntax has these parts:
 
 |Part|Description|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **ColorMode** property to specify whether the printer should print output in color or monochrome.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRCMColor**|2|The printer should print in color. |

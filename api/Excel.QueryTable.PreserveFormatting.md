@@ -45,8 +45,6 @@ This example preserves the formatting of the first PivotTable report on workshee
 Worksheets(1).PivotTables("Pivot1").PreserveFormatting = True
 ```
 
-<br/>
-
 This example demonstrates how setting **PreserveFormatting** to **False** causes the AutoFormat to be set to **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
 
 ```vb

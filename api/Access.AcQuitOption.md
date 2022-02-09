@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [Quit](Access.Application.Quit.md) method to specify whether or not to save changes to the database when quitting Microsoft Access.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acQuitPrompt**|0|Displays a dialog box that asks whether you want to save any database objects that have been changed but not saved. |

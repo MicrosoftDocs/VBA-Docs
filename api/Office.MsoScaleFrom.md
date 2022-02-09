@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies which part of the shape retains its position when the shape is scaled.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoScaleFromBottomRight**|2|Shape's lower right corner retains its position.|

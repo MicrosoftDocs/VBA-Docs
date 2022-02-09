@@ -18,8 +18,6 @@ Creates an event [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 _object_.**CreateEventProc** (_eventname_, _objectname_) **As Long**
 
-<br/>
-
 The **CreateEventProc** syntax has these parts:
 
 |Part|Description|

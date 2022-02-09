@@ -18,8 +18,6 @@ Returns a **String** representing the name of a file, directory, or folder that 
 
 **Dir** [ (_pathname_, [ _attributes_ ] ) ]
 
-<br/>
-
 The **Dir** function syntax has these parts:
 
 |Part|Description|

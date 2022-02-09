@@ -18,8 +18,6 @@ Returns a **Variant** (**String**) containing a specified number of characters f
 
 **Mid**(_string_, _start_, [ _length_ ])
 
-<br/>
-
 The **Mid** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -47,8 +45,6 @@ LastWord = Mid(MyString, 14, 4)    ' Returns "Demo".
 MidWords = Mid(MyString, 5)    ' Returns "Function Demo".
 
 ```
-
-<br/>
 
 The second example use **MidB** and a user-defined function (**MidMbcs**) to also return characters from string. The difference here is that the input string is ANSI and the length is in bytes.
 

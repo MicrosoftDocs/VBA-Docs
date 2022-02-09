@@ -32,8 +32,6 @@ This example sets the value of the first cell in the row that contains the activ
 ActiveCell.EntireRow.Cells(1, 1).Value = 5
 ```
 
-<br/>
-
 This example sorts all the rows on a worksheet, including hidden rows.
 
 ```vb

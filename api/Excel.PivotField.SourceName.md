@@ -37,15 +37,11 @@ The following table shows example values of the **SourceName** property and rela
 | **SourceName**|[Europe].[France].[Paris] &nbsp;(read-only)|Same as the SQL property value (read-only)|
 | **[Value](Excel.PivotField.Value.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
 
-<br/>
-
 When specifying an index into the **[PivotItems](Excel.PivotItems.md)** collection, you can use the syntax shown in the following table.
 
 |Syntax (OLAP data source)|Syntax (non-OLAP data source)|
 |:-----|:-----|
 |expression.PivotItems("[Europe].[France].[Paris]")|expression.PivotItems("Paris")|
-
-<br/>
 
 When using the **[Item](Excel.PivotItems.Item.md)** property to reference a specific member of a collection, you can use the text index names, as shown in the following table.
 

@@ -38,8 +38,6 @@ Charts("Chart1").SeriesCollection(1).XValues = _
  Worksheets("Sheet1").Range("B1:B5")
 ```
 
-<br/>
-
 This example uses an array to set values for the individual points in series one on Chart1.
 
 ```vb

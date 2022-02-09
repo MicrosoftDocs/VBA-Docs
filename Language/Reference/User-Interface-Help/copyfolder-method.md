@@ -20,8 +20,6 @@ Recursively copies a folder from one location to another.
 
 _object_.**CopyFolder** _source_, _destination_, [ _overwrite_ ]
 
-<br/>
-
 The **CopyFolder** method syntax has these parts:
 
 |Part|Description|

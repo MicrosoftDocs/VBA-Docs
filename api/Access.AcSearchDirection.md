@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDown**|1|Search all records below the current record.|

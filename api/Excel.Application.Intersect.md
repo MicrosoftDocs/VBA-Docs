@@ -54,8 +54,6 @@ Else
 End If
 ```
 
-<br/>
-
 The following example compares the **[Worksheet.Range](Excel.Worksheet.Range.md)** property, the **[Application.Union](Excel.Application.Union.md)** method, and the **Intersect** method.
 
  ```vb

@@ -15,7 +15,6 @@ Use the string expression argument in an SQL aggregate function to perform a cal
 
 The following table provides examples of calculations on fields from the Orders and Order Details tables in the Northwind.mdb database.
 
-
 |**Calculation**|**Example**|
 |:-----|:-----|
 |Add a number to a field| `Freight + 5`|

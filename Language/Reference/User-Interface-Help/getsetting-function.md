@@ -18,8 +18,6 @@ Returns a key setting value from an application's entry in the Windows [registry
 
 **GetSetting**(_appname_, _section_, _key_, [ _default_ ])
 
-<br/>
-
 The **GetSetting** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

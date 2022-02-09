@@ -81,8 +81,6 @@ Private Sub ProductName_BeforeUpdate(Cancel As Integer)
 End Sub
 ```
 
-<br/>
-
 The following example shows how to display a message when a control is empty on a continuous form when a user moves to another record.
 
 ```vb
@@ -97,8 +95,6 @@ Private Sub Form_BeforeUpdate(Cancel As Integer)
     Next oContr
 End Sub
 ```
-
-<br/>
 
 The following example shows how to use the **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 

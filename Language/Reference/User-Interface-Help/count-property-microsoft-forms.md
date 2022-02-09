@@ -18,8 +18,6 @@ Returns the number of objects in a [collection](../../Glossary/vbe-glossary.md#c
 
 _object_.**Count**
 
-<br/>
-
 The **Count** property syntax has these parts:
 
 |Part|Description|

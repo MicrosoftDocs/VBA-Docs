@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the line and shape style.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLineStylePreset1**|10001|Line style 1|

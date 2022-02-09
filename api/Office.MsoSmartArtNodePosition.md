@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the different ways to add a new node to the data model in SmartArt.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSmartArtNodeAbove**|4|Insert a node above the SmartArt node in the data model.|

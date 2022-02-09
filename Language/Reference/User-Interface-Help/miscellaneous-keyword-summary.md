@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Miscellaneous keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Process pending events.|[DoEvents](doevents-function.md)|

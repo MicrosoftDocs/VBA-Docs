@@ -49,8 +49,6 @@ This example pauses a running macro until 6:23 P.M. today.
 Application.Wait "18:23:00"
 ```
 
-<br/>
-
 This example pauses a running macro for approximately 10 seconds.
 
 ```vb
@@ -60,8 +58,6 @@ newSecond = Second(Now()) + 10
 waitTime = TimeSerial(newHour, newMinute, newSecond) 
 Application.Wait waitTime
 ```
-
-<br/>
 
 This example displays a message indicating whether 10 seconds have passed.
 

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of error object to be retrieved from the **Errors** collection.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlEmptyCellReferences**|7|The cell contains a formula referring to empty cells.|

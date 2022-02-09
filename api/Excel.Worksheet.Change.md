@@ -51,8 +51,6 @@ Private Sub Worksheet_Change(ByVal Target as Range)
 End Sub
 ```
 
-<br/>
-
 The following code example verifies that, when a cell value changes, the changed cell is in column A, and if the changed value of the cell is greater than 100. If the value is greater than 100, the adjacent cell in column B is changed to the color red.
 
 ```vb
@@ -67,8 +65,6 @@ Private Sub Worksheet_Change(ByVal Target As Excel.Range)
     End If 
 End Sub
 ```
-
-<br/>
 
 
 The following code example sets the values in the range A1:A10 to be uppercase as the data is entered into the cell.

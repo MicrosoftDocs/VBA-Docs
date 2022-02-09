@@ -33,8 +33,6 @@ MsgBox Worksheets(1).ChartObjects(1).Chart _
  .SeriesCollection(1).BubbleSizes
 ```
 
-<br/>
-
 This example shows how to set this property using R1C1-style notation.
 
 ```vb

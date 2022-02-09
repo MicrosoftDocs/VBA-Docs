@@ -106,8 +106,6 @@ Public Sub PrtMipCols(ByVal strName As String)
 End Sub
 ```
 
-<br/>
-
 The next **PrtMip** property example shows how to set all margins to 1 inch.
 
 ```vb

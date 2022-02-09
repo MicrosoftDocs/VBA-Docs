@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the editing type of a node.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEditingAuto**|0|Changes the node to a type appropriate to the segments being connected.|

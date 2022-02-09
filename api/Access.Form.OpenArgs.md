@@ -57,8 +57,6 @@ Sub Form_Open(Cancel As Integer)
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **OpenArgs** property to prevent a form from being opened from the navigation pane.
 
 ```vb

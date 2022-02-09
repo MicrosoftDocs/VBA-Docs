@@ -20,8 +20,6 @@ To assign a caption to a **[CheckBox](../../reference/user-interface-help/checkb
     
 3. Enter the text that you want to use as the caption.
     
-<br/>
-
 To assign a caption to a **[Page](../../reference/user-interface-help/page-object.md)** or **[Tab](../../reference/user-interface-help/tab-object.md)**:
 
 1. Select the **[MultiPage](../../reference/user-interface-help/multipage-control.md)** or **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** that contains the **Page** or **Tab**.

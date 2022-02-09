@@ -20,8 +20,6 @@ Returns **True** if a specified file exists; **False** if it does not.
 
 _object_.**FileExists** (_filespec_)
 
-<br/>
-
 The **FileExists** method syntax has these parts:
 
 |Part|Description|

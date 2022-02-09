@@ -18,8 +18,6 @@ Assigns the value of an [expression](../../Glossary/vbe-glossary.md#expression) 
 
 [ **Let** ] _varname_ **=** _expression_
 
-<br/>
-
 The **Let** statement syntax has these parts:
 
 |Part|Description|
@@ -49,8 +47,6 @@ Let MyStr = "Hello World"
 Let MyInt = 5 
 
 ```
-
-<br/>
 
 The following are the same assignments without the **Let** statement.
 

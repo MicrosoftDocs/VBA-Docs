@@ -22,8 +22,6 @@ Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) for ea
  [ _statements_ ] <br/>
 **Next** [ _element_ ]
 
-<br/>
-
 The **For...Each...Next** statement syntax has these parts:
 
 |Part|Description|

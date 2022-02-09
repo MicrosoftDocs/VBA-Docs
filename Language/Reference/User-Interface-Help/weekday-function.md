@@ -18,8 +18,6 @@ Returns a **Variant** (**Integer**) containing a whole number representing the d
 
 **Weekday**(_date_, [ _firstdayofweek_ ])
 
-<br/>
-
 The **Weekday** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

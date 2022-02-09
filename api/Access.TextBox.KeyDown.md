@@ -16,20 +16,18 @@ ms.localizationpriority: medium
 
 The **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
-
 ## Syntax
 
 _expression_.**KeyDown** (_KeyCode_, _Shift_)
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
-
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the Home key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting _KeyCode_ to 0.|
-| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys at the time of the event. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the Shift key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the Ctrl key.</p></li><li><p><b>acAltMask</b>  The bit mask for the Alt key.</p></li></ul> |
+| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys at the time of the event. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p>**acShiftMask**  The bit mask for the Shift key.</p></li><li><p>**acCtrlMask**  The bit mask for the Ctrl key.</p></li><li><p>**acAltMask**  The bit mask for the Alt key.</p></li></ul> |
 
 ## Remarks
 
@@ -71,7 +69,6 @@ The following example determines whether you have pressed the Shift, Ctrl, or Al
 
 To try the example, add the following event procedure to a form containing a text box named **KeyHandler**.
 
-
 ```vb
 Private Sub KeyHandler_KeyDown(KeyCode As Integer, _ 
      Shift As Integer) 
@@ -88,8 +85,5 @@ Private Sub KeyHandler_KeyDown(KeyCode As Integer, _
     If intCtrlDown Then MsgBox "You pressed the Ctrl key." 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

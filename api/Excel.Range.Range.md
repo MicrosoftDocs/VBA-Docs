@@ -48,8 +48,6 @@ With Worksheets("Sheet1").Range("B2:C4")
 End With
 ```
 
-<br/>
-
 This example loops on the the four cells in the top-left corner of the range B2:Z22 on Sheet1 of the active workbook. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
 
 ```vb
@@ -65,8 +63,6 @@ Public Sub TruncateSmallValues()
    Next cell
 End Sub
 ```
-
-<br/>
 
 This example sets the font style in cells B2:D6 on Sheet1 of the active workbook to italic. The example uses Syntax 2 of the **Range** property.
 

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies restrictions on the docking behavior of the custom task pane.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTPDockPositionRestrictNoChange**|1|There is no change from the current restriction setting for the task pane.|

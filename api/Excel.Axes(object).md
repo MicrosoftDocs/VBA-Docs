@@ -38,8 +38,6 @@ With Worksheets(1).ChartObjects(1).Chart
 End With
 ```
 
-<br/>
-
 The following example sets the category axis title text on the chart sheet named **Chart1**.
 
 ```vb

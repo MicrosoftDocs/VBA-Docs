@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the width of the arrowhead at the end of a line.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadNarrow**|1|Narrow|

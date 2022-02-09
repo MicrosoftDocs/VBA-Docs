@@ -18,8 +18,6 @@ Deletes a specified file or folder.
 
 _object_.**Delete** _force_
 
-<br/>
-
 The **Delete** method syntax has these parts:
 
 |Part|Description|

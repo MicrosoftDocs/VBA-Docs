@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the size of the controls on the ribbon.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**RibbonControlSizeLarge**|1|Large controls |

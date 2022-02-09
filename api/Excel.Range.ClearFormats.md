@@ -37,8 +37,6 @@ This example clears all formatting from cells A1:G37 on Sheet1.
 Worksheets("Sheet1").Range("A1:G37").ClearFormats
 ```
 
-<br/>
-
 This example clears the formatting from embedded chart one on Sheet1.
 
 ```vb

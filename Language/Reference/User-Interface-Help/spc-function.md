@@ -43,8 +43,6 @@ Close #1    ' Close file.
 
 ```
 
-<br/>
-
 The following statement causes the text to be printed in the Immediate window (by using the **Print** method), preceded by 30 spaces.
 
 ```vb

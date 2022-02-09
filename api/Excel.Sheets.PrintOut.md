@@ -56,15 +56,11 @@ This example prints the active sheet.
 ActiveSheet.PrintOut
 ```
 
-<br/>
-
 This example prints from page 2 to page 3.
 
 ```vb
 Worksheets. ("sheet1").PrintOut From:=2, To:=3
 ```
-
-<br/>
 
 This example prints three copies from page 2 to page 3.
 

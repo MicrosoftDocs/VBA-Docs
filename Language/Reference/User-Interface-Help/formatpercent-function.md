@@ -18,8 +18,6 @@ Returns an expression formatted as a percentage (multipled by 100) with a traili
 
 **FormatPercent**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
-<br/>
-
 The **FormatPercent** function syntax has these parts:
 
 |Part|Description|

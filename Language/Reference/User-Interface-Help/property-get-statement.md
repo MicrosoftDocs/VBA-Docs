@@ -24,8 +24,6 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _name_ **=** _expression_ ] <br/>
 **End Property**
 
-<br/>
-
 The **Property Get** statement syntax has these parts:
 
 |Part|Description|
@@ -40,13 +38,9 @@ The **Property Get** statement syntax has these parts:
 | _statements_|Optional. Any group of statements to be executed within the body of the **Property Get** procedure.|
 | _expression_|Optional. Value of the property returned by the procedure defined by the **Property Get** statement.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|

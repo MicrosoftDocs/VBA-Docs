@@ -32,8 +32,6 @@ This example displays the name of the worksheet that contains the active cell. T
 MsgBox ActiveCell.Worksheet.Name
 ```
 
-<br/>
-
 This example displays the name of the worksheet that contains the range named "testRange."
 
 ```vb

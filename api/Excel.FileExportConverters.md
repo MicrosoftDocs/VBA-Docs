@@ -32,8 +32,6 @@ Use **FileExportConverters** (_index_), where _index_ is an integer, to return a
 MsgBox FileExportConverters(2).Extensions
 ```
 
-<br/>
-
 The index number represents the position of the file converter in the **FileExportConverters** collection. The following example displays the description for the first file converter in the collection.
 
 ```vb

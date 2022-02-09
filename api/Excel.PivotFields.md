@@ -43,8 +43,6 @@ With Worksheets("sheet3").PivotTables(1)
 End With
 ```
 
-<br/>
-
 Use **PivotFields** (_index_), where _index_ is the field name or index number, to return a single **PivotField** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 ```vb

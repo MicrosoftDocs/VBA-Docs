@@ -42,8 +42,6 @@ The following example displays the number of chart groups in the chart.
 MsgBox myChart.ChartGroups.Count
 ```
 
-<br/>
-
 The following example adds drop lines to chart group one in the chart.
 
 ```vb

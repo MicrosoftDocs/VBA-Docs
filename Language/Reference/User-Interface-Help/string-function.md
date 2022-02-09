@@ -18,8 +18,6 @@ Returns a **Variant** (**String**) containing a repeating character string of th
 
 **String**(_number_, _character_)
 
-<br/>
-
 The **String** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

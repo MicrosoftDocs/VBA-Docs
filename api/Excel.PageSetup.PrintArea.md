@@ -39,8 +39,6 @@ This example sets the print area to cells A1:C5 on Sheet1.
 Worksheets("Sheet1").PageSetup.PrintArea = "$A$1:$C$5"
 ```
 
-<br/>
-
 This example sets the print area to the current region on Sheet1. Note that you use the **Address** property to return an A1-style address.
 
 ```vb

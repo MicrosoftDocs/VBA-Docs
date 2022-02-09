@@ -30,15 +30,11 @@ Use the **[Workbooks](Excel.Application.Workbooks.md)** property of the **Applic
 Workbooks.Close
 ```
 
-<br/>
-
 Use the **Add** method to create a new, empty workbook and add it to the collection. The following example adds a new, empty workbook to Microsoft Excel.
 
 ```vb
 Workbooks.Add
 ```
-
-<br/>
 
 Use the **Open** method to open a file. This creates a new workbook for the opened file. The following example opens the file Array.xls as a read-only workbook.
 

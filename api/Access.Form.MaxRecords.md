@@ -41,8 +41,6 @@ To return the **MaxRecords** property for a form, you can use the following synt
 Dim l As Longl = Forms(formname).MaxRecords
 ```
 
-<br/>
-
 To set the **MaxRecords** property, you can use the following syntax.
 
 ```vb

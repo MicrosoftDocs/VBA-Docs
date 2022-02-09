@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the docking behavior of the custom task pane.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCTPDockPositionBottom**|3|Dock the task pane at the bottom of the document window.|

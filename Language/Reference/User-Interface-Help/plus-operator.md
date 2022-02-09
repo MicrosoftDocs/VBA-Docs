@@ -42,8 +42,6 @@ If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md#var
 |One expression is a numeric data type and the other is a **String**|A `Type mismatch`error occurs.|
 |Either expression is **Null**| _result_ is **Null**.|
 
-<br/>
-
 If both expressions are **Variant** expressions, the following rules apply:
 
 |If|Then|
@@ -51,8 +49,6 @@ If both expressions are **Variant** expressions, the following rules apply:
 |Both **Variant** expressions are numeric|Add.|
 |Both **Variant** expressions are strings|Concatenate.|
 |One **Variant** expression is numeric and the other is a string|Add.|
-
-<br/>
 
 For simple arithmetic addition involving only expressions of numeric data types, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order.
 
@@ -64,8 +60,6 @@ For simple arithmetic addition involving only expressions of numeric data types,
 |The data type of _result_ is an **Integer** variant that overflows its legal range|Converted to a **Long** variant.|
 |A **Date** is added to any data type|A **Date**.|
 
-
-<br/>
 
 If one or both expressions are **Null** expressions, _result_ is **Null**. If both expressions are **Empty**, _result_ is an **Integer**. However, if only one expression is **Empty**, the other expression is returned unchanged as _result_.
 

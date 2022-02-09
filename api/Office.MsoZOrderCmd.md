@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies where in the z-order a shape should be moved relative to other shapes.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBringForward**|2|Bring shape forward.|

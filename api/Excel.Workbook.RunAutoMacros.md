@@ -40,8 +40,6 @@ Workbooks.Open "ANALYSIS.XLS"
 ActiveWorkbook.RunAutoMacros xlAutoOpen
 ```
 
-<br/>
-
 This example runs the Auto_Close macro for the active workbook and then closes the workbook.
 
 ```vb

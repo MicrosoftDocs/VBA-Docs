@@ -20,8 +20,6 @@ Adds a new **[Folder](folder-object.md)** to a **[Folders](folders-collection.md
 
 _object_.**Add** _folderName_
 
-<br/>
-
 The **Add** method has the following parts:
 
 |Part|Description|

@@ -31,8 +31,6 @@ This example clears the formula in cell A1 on the datasheet. Note that on the da
 myChart.Application.DataSheet.Cells(2,2).ClearContents
 ```
 
-<br/>
-
 This example loops through cells A1:I3 on the datasheet. If any of these cells contains a value less than 0.001, the example replaces that value with 0 (zero).
 
 ```vb

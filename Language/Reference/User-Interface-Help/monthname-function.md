@@ -18,8 +18,6 @@ Returns a string indicating the specified month.
 
 **MonthName**(_month_, [ _abbreviate_ ])
 
-<br/>
-
 The **MonthName** function syntax has these parts:
 
 |Part|Description|

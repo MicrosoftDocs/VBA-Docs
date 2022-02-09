@@ -18,8 +18,6 @@ Sets attribute information for a file.
 
 **SetAttr** _pathname_, _attributes_ 
 
-<br/>
-
 The **SetAttr** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

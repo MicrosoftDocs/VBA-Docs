@@ -33,7 +33,6 @@ _expression_ A variable that represents an [AppointmentItem](Outlook.Appointment
 
 Returns an **AppointmentItem** that represents the object created in the destination folder as a result of the copy operation.
 
-
 ## Remarks
 
 If no argument is specified for the  _CopyOptions_ parameter, **CopyTo** assumes that the value is **olCreateAppointment**.
@@ -42,9 +41,7 @@ If no argument is specified for the  _CopyOptions_ parameter, **CopyTo** assumes
 
 Setting the REG_MULTI_SZ value, `DisableCrossAccountCopy`, in `HKCU\Software\Microsoft\Office\15.0\Outlook` in the Windows registry has the side effect of disabling this method.
 
-
 ## See also
-
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

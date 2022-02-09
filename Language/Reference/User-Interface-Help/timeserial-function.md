@@ -18,8 +18,6 @@ Returns a **Variant** (**Date**) containing the time for a specific hour, minute
 
 **TimeSerial**(_hour_, _minute_, _second_)
 
-<br/>
-
 The **TimeSerial** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

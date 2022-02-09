@@ -42,8 +42,6 @@ If both expressions evaluate to **True**, _result_ is **True**. If either expres
 |**Null**|**False**|**False**|
 |**Null**|**Null**|**Null**|
 
-<br/>
-
 The **And** operator also performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table:
 
 |If bit in _expression1_ is|And bit in _expression2_ is|The _result_ is|

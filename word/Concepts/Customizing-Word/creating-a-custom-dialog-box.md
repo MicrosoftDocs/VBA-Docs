@@ -37,7 +37,7 @@ Use the following procedure to create a custom dialog box:
     
 6. [Show the dialog box](displaying-a-custom-dialog-box-word.md)
     
-    Use the **Show**method to display a UserForm.
+    Use the **Show** method to display a UserForm.
     
 7. [Use control values while code is running](../Objects-Properties-Methods/using-control-values-while-code-is-running-word.md)
     

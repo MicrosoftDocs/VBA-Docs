@@ -51,8 +51,6 @@ For Each f In w.AutoFilter.Filters
 Next
 ```
 
-<br/>
-
 Use **Filters** (_index_), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **On** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 ```vb

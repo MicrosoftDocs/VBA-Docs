@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [SplitFormOrientation](Access.Form.SplitFormOrientation.md) property to specify the orientation of the datasheet in relation to the form while in Split Form view.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDatasheetOnBottom**|1|The datasheet is displayed below the form.|

@@ -20,8 +20,6 @@ Sets or returns the attributes of files or folders. Read/write or read-only, dep
 
 _object_.**Attributes** [= _newattributes_ ]
 
-<br/>
-
 The **Attributes** property has these parts:
 
 |Part|Description|

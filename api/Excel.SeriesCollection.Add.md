@@ -53,8 +53,6 @@ Charts("Chart1").SeriesCollection.Add _
  Source:=ActiveWorkbook.Worksheets("Sheet1").Range("B1:B10")
 ```
 
-<br/>
-
 This example creates a new series on the embedded chart on Sheet1.
 
 ```vb

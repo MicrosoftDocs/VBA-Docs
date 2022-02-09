@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the mode for encryption ciphers.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**cipherModeECB**|0|ECB cipher mode|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the quality of spreadsheets saved in different fixed formats.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlQualityMinimum**|1|Minimum quality|

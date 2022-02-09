@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Financial keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Calculate depreciation.|[DDB](ddb-function.md), [SLN](sln-function.md), [SYD](syd-function.md)|

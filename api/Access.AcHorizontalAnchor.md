@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acHorizontalAnchorBoth**|2|The control is stretched horizontally across its layout.|

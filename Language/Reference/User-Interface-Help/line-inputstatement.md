@@ -18,8 +18,6 @@ Reads a single line from an open sequential file and assigns it to a [String](..
 
 **Line Input** #_filenumber_, _varname_
 
-<br/>
-
 The **Line Input #** statement syntax has these parts:
 
 |Part|Description|

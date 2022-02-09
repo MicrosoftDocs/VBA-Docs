@@ -43,8 +43,6 @@ With ActiveWindow
 End With
 ```
 
-<br/>
-
 This example illustrates two ways of removing the split added by the preceding example.
 
 ```vb
@@ -54,8 +52,6 @@ Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate
 ActiveWindow.SplitColumn = 0 'method two 
 ActiveWindow.SplitRow = 0
 ```
-
-<br/>
 
 This example removes the window split. Before you can remove the split, you must set **FreezePanes** to **False** to remove frozen panes.
 

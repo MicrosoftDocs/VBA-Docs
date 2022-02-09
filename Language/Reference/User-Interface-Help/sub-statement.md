@@ -22,8 +22,6 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _statements_ ] <br/>
 **End Sub**
 
-<br/>
-
 The **Sub** statement syntax has these parts:
 
 |Part|Description|
@@ -36,13 +34,9 @@ The **Sub** statement syntax has these parts:
 | _arglist_|Optional. List of variables representing arguments that are passed to the **Sub** procedure when it is called. Multiple variables are separated by commas.|
 | _statements_|Optional. Any group of [statements](../../Glossary/vbe-glossary.md#statement) to be executed within the **Sub** procedure.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|

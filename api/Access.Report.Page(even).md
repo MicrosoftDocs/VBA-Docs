@@ -50,8 +50,6 @@ Private Sub Report_Page()
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **Page** event to add a watermark to a report before it is printed.
 
 ```vb

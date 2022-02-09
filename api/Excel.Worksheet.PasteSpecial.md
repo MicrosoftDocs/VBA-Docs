@@ -64,8 +64,6 @@ ActiveSheet.PasteSpecial format:= _
  "Microsoft Word 8.0 Document Object"
 ```
 
-<br/>
-
 This example pastes a picture object and does not display it as an icon.
 
 ```vb

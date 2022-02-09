@@ -33,8 +33,6 @@ For X = 1 To myChart.SeriesCollection.Count
 Next X
 ```
 
-<br/>
-
 The following example sets the color of the interior for series one in the chart to red.
 
 ```vb

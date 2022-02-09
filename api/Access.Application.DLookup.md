@@ -77,8 +77,6 @@ Dim varX As Variant
 varX = DLookup("[CompanyName]", "Shippers", "[ShipperID] = 1")
 ```
 
-<br/>
-
 The next example from the Shippers table uses the form control ShipperID to provide criteria for the **DLookup** function. Note that the reference to the control isn't included in the quotation marks that denote the strings. This ensures that each time the **DLookup** function is called, Microsoft Access will obtain the current value from the control.
 
 ```vb
@@ -86,8 +84,6 @@ Dim varX As Variant
 varX = DLookup("[CompanyName]", "Shippers", "[ShipperID] = " _ 
     & Forms!Shippers!ShipperID)
 ```
-
-<br/>
 
 The next example uses a variable, `intSearch`, to get the value.
 
@@ -99,8 +95,6 @@ intSearch = 1
 varX = DLookup("[CompanyName]", "Shippers", _ 
     "[ShipperID] = " & intSearch)
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DLookup** function.
 
@@ -146,9 +140,7 @@ The following examples show how to use various types of criteria with the **DLoo
     ' Control Structures
     variable = DLookup("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
-```
-<br/>
-The following example shows how to use **DLookUp** in a Do Loop. It demonstrates how to build the Criteria string on each pass through the loop.
+```The following example shows how to use **DLookUp** in a Do Loop. It demonstrates how to build the Criteria string on each pass through the loop.
 
 ```vba
 ' The loop verifies data from an input data set, in this case Operating System names, 

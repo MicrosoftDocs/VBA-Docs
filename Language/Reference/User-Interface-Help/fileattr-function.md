@@ -18,8 +18,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the
 
 **FileAttr**(_filenumber_, _returntype_)
 
-<br/>
-
 The **FileAttr** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

@@ -18,8 +18,6 @@ Sends one or more keystrokes to the active window as if typed at the keyboard.
 
 **SendKeys** _string_, [ _wait_ ]
 
-<br/>
-
 The **SendKeys** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -75,8 +73,6 @@ To specify characters that aren't displayed when you press a key, such as ENTER 
 |F14| `{F14}`|
 |F15| `{F15}`|
 |F16| `{F16}`|
-
-<br/>
 
 To specify keys combined with any combination of the SHIFT, CTRL, and ALT keys, precede the key code with one or more of the following codes:
 

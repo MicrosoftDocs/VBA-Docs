@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies blog image types.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlogImageTypeGIF**|2|GIF image|

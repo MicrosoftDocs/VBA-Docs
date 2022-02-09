@@ -2,7 +2,7 @@
 title: Import Appointment XML Data into Outlook Appointment Objects (Outlook)
 ms.prod: outlook
 ms.assetid: ecfd3849-877b-01ad-2b76-1a54e980f6e2
-ms.date: 02/06/2022
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 
@@ -16,14 +16,14 @@ This topic shows how to read appointment data formatted in XML, save the data to
 
 |Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.|
 
-The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you've installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. Use the following code samples in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. 
-For more information about using the Outlook PIA to develop managed Outlook solutions, see the [Welcome to the Outlook Primary Interop Assembly Reference](/office/client-developer/outlook/pia/welcome-to-the-outlook-primary-interop-assembly-reference.md).
+The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you've installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. Use the following code samples in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`.
+For more information about using the Outlook PIA to develop managed Outlook solutions, see [Welcome to the Outlook Primary Interop Assembly Reference](/office/client-developer/outlook/pia/welcome-to-the-outlook-primary-interop-assembly-reference.md).
 The following code samples contain the `CreateAppointmentsFromXml` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace.
 The `CreateAppointmentsFromXml` method accepts two input parameters, _application_ and _xml_:
 
--  _application_ is a trusted Outlook **[Application](../../../api/Outlook.Application.md)** object.
+- _application_ is a trusted Outlook **[Application](../../../api/Outlook.Application.md)** object.
 
--  _xml_ is either an XML string, or a string that represents a path to a valid XML file. For the purpose of the following code samples, the XML delimits appointment data by using the following XML tags:
+- _xml_ is either an XML string, or a string that represents a path to a valid XML file. For the purpose of the following code samples, the XML delimits appointment data by using the following XML tags:
 
 |**Appointment data**|**Delimiting XML tag**|
 |:-----|:-----|
@@ -66,8 +66,8 @@ The following example shows input data for the  _xml_ parameter.
 ```
 
 The `CreateAppointmentsFromXml` method uses the Microsoft COM implementation of the XML Document Object Model (DOM) to load and process the XML data that _xml_ provides. `CreateAppointmentsFromXml` first checks whether _xml_ specifies a valid source of XML data. If so, it loads the data into an XML document, **DOMDocument**. Otherwise, `CreateAppointmentsFromXml` throws an exception. For more information about the XML DOM, see [DOM](../../../api/overview/Outlook.md).
-For each appointment child node delimited by the _appointment_ tag in the XML data, `CreateAppointmentsFromXml` looks for specific tags, uses the DOM to extract the data, and assigns the data to corresponding properties of an **AppointmentItem** object: **[Start](../../../api/Outlook.AppointmentItem.Start.md)**, **[End](../../../api/Outlook.AppointmentItem.End.md)**, **[Subject](../../../api/Outlook.AppointmentItem.Subject.md)**, **[Location](../../../api/Outlook.AppointmentItem.Location.md)**, and **[Body](../../../api/Outlook.AppointmentItem.Body.md)**. `CreateAppointmentsFromXml` then saves the appointment to the default calendar.
- `CreateAppointmentsFromXml` uses the **[Add](../../../api/overview/Outlook.md)** method of the **List( _type_)** class in the **System.Collections.Generic** namespace to aggregate these **AppointmentItem** objects. When the method has processed all the appointments in the XML data, it returns the **AppointmentItem** objects in an array.
+For each appointment child node delimited by the &lt;appointment&gt; tag in the XML data, `CreateAppointmentsFromXml` looks for specific tags, uses the DOM to extract the data, and assigns the data to corresponding properties of an **AppointmentItem** object: **[Start](../../../api/Outlook.AppointmentItem.Start.md)**, **[End](../../../api/Outlook.AppointmentItem.End.md)**, **[Subject](../../../api/Outlook.AppointmentItem.Subject.md)**, **[Location](../../../api/Outlook.AppointmentItem.Location.md)**, and **[Body](../../../api/Outlook.AppointmentItem.Body.md)**.  `CreateAppointmentsFromXml` then saves the appointment to the default calendar.
+`CreateAppointmentsFromXml` uses the **[Add](../../../api/overview/Outlook.md)** method of the **List( _type_)** class in the **System.Collections.Generic** namespace to aggregate these **AppointmentItem** objects. When the method has processed all the appointments in the XML data, it returns the **AppointmentItem** objects in an array.
 The following is the C# code sample.
 
 ```cs
@@ -82,7 +82,7 @@ namespace OutlookAddIn1
 { 
     class Sample 
     { 
-        Outlook.AppointmentItem[] CreateAppointmentsFromXml(Outlook.Application application,  
+        Outlook.AppointmentItem[] CreateAppointmentsFromXml(Outlook.Application application, 
                                                             string xml) 
         { 
             // Create a list of appointment objects. 

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of hyperlink.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoHyperlinkInlineShape**|2|Hyperlink applies to an inline shape. Used only with Microsoft Word.|

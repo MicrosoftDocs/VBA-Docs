@@ -14,17 +14,13 @@ ms.localizationpriority: medium
 
 Many of the built-in dialog boxes in Word have options that you may want to set. To set or return the properties associated with a Word dialog box, use the equivalent Visual Basic properties and methods. For example, if you want to print a document, use the VBA **[PrintOut](../../../api/Word.Document.PrintOut.md)** method. The following code prints the current document using the **Print** dialog box default settings. However, if you don't want to use the default setting in the print dialog, you can use the arguments associated with the **PrintOut** method.
 
-
 ```vb
 Sub PrintCurrentDocument() 
  ActiveDocument.PrintOut 
 End Sub
 ```
 
-
 Although you are encouraged to use VBA keywords to get or set the value of dialog box options, many of the built-in Word dialog boxes have arguments that you can also use to get or set values from a dialog box. For more information, see [Displaying Built-in Word Dialog Boxes](displaying-built-in-word-dialog-boxes.md).
-
-
 
 |**WdWordDialog constant**|**Argument lists**|
 |:-----|:-----|
@@ -41,7 +37,7 @@ Although you are encouraged to use VBA keywords to get or set the value of dialo
 | **wdDialogEditAutoText**| **_Name_** , **_Context_**, **_InsertAs_**, **_Insert_**, **_Add_**, **_Define_**, **_InsertAsText_**, **_Delete_**, **_CompleteAT_**|
 | **wdDialogEditCreatePublisher**|(For information about this constant, consult the language reference Help included with Microsoft Office Macintosh Edition.)|
 | **wdDialogEditFind**| **_Find_** , **_Replace_**, **_Direction_**, **_MatchCase_**, **_WholeWord_**, **_PatternMatch_**, **_SoundsLike_**, **_FindNext_**, **_ReplaceOne_**, **_ReplaceAll_**, **_Format_**, **_Wrap_**, **_FindAllWordForms_**, **_MatchByte_**, **_FuzzyFind_**, **_Destination_**, **_CorrectEnd_**, **_MatchKashida_**, **_MatchDiacritics_**, **_MatchAlefHamza_**, **_MatchControl_**|
-| **wdDialogEditFrame**| **_Wrap_** , _WidthRule_, **_FixedWidth_**,  _HeightRule_, **_FixedHeight_**, **_PositionHorz_**, **_PositionHorzRel_**, **_DistFromText_**, **_PositionVert_**, **_PositionVertRel_**, **_DistVertFromText_**, **_MoveWithText_**,  _LockAnchor_, **_RemoveFrame_**|
+| **wdDialogEditFrame**| **_Wrap_** , _WidthRule_, **_FixedWidth_**, _HeightRule_, **_FixedHeight_**, **_PositionHorz_**, **_PositionHorzRel_**, **_DistFromText_**, **_PositionVert_**, **_PositionVertRel_**, **_DistVertFromText_**, **_MoveWithText_**, _LockAnchor_, **_RemoveFrame_**|
 | **wdDialogEditGoTo**| **_Find_** , **_Replace_**, **_Direction_**, **_MatchCase_**, **_WholeWord_**, **_PatternMatch_**, **_SoundsLike_**, **_FindNext_**, **_ReplaceOne_**, **_ReplaceAll_**, **_Format_**, **_Wrap_**, **_FindAllWordForms_**, **_MatchByte_**, **_FuzzyFind_**, **_Destination_**, **_CorrectEnd_**, **_MatchKashida_**, **_MatchDiacritics_**, **_MatchAlefHamza_**, **_MatchControl_**|
 | **wdDialogEditGoToOld**|(none)|
 | **wdDialogEditLinks**| **_UpdateMode_** , **_Locked_**, **_SavePictureInDoc_**, **_UpdateNow_**, **_OpenSource_**, **_KillLink_**, **_Link_**, **_Application_**, **_Item_**, **_FileName_**, **_PreserveFormatLinkUpdate_**|

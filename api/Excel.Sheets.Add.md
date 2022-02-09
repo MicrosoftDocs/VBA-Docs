@@ -49,8 +49,6 @@ This example inserts a new worksheet before the last worksheet in the active wor
 ActiveWorkbook.Sheets.Add Before:=ActiveWorkbook.Worksheets(ActiveWorkbook.Worksheets.Count)
 ```
 
-<br/>
-
 This example inserts a new worksheet after the last worksheet in the active workbook, and captures the returned object reference in a local variable.
 
 ```vb

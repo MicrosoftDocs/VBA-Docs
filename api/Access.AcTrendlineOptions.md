@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the type of trendline to render for a chart series.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acTrendlineExponential**|2|Exponential|

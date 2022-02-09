@@ -34,8 +34,6 @@ For Each qt in Worksheets(1).QueryTables
 Next
 ```
 
-<br/>
-
 This example sets query table one so that formulas to the right of it are automatically updated whenever it's refreshed.
 
 ```vb

@@ -51,8 +51,6 @@ With myDocument.Shapes(1)
 End With
 ```
 
-<br/>
-
 This example creates a curve that has the same geometric description as shape one on _myDocument_. Shape one must contain 3 _n_+1 vertices for this example to succeed.
 
 ```vb

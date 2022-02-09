@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies whether a shape should be flipped horizontally or vertically.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFlipHorizontal**|0|Flip horizontally.|

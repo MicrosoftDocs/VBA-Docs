@@ -37,8 +37,6 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes.SelectAll
 ```
 
-<br/>
-
 Use **Shapes** (_index_), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one on _myDocument_.
 
 ```vb
@@ -47,8 +45,6 @@ myDocument.Shapes(1).Fill.PresetGradient _
  msoGradientHorizontal, 1, msoGradientBrass
 ```
 
-<br/>
-
 Use **Range** (_index_), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **ShapeRange** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three on _myDocument_.
 
 ```vb
@@ -56,8 +52,6 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _ 
  msoPatternHorizontalBrick
 ```
-
-<br/>
 
 An ActiveX control on a sheet has two names: the name of the shape that contains the control, which you can see in the **Name** box when you view the sheet, and the code name for the control, which you can see in the cell to the right of **(Name)** in the Properties window. When you first add a control to a sheet, the shape name and code name match. However, if you change either the shape name or code name, the other isn't automatically changed to match.
 

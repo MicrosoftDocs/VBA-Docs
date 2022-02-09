@@ -45,8 +45,6 @@ For Each s In myDocument.Shapes
 Next
 ```
 
-<br/>
-
 This example ungroups any grouped shapes on _myDocument_ without disassembling pictures or OLE objects on the document.
 
 ```vb

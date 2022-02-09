@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the color transformation applied to a picture.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPictureAutomatic**|1|Default color transformation |

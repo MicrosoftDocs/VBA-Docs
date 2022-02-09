@@ -22,8 +22,6 @@ Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) a spec
 [ _statements_ ] <br/>
 **Next** [ _counter_ ]
 
-<br/>
-
 The **For…Next** statement syntax has these parts:
 
 |Part|Description|

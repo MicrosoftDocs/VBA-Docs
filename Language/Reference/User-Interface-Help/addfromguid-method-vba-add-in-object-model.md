@@ -18,8 +18,6 @@ Adds a reference to the **References** collection by using the globally unique i
 
 _object_.**AddFromGuid** (_guid_, _major_, _minor_) **As Reference**
 
-<br/>
-
 The **AddFromGuid** syntax has these parts:
 
 |Part|Description|

@@ -86,8 +86,6 @@ Public Function AvgFreightCost(ByVal strCountry As String, _
 End Function
 ```
 
-<br/>
-
 The following examples show how to use various types of criteria with the **DAvg** function.
 
 ```vb

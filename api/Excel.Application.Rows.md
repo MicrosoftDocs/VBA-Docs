@@ -41,8 +41,6 @@ This example deletes row three on Sheet1.
 Worksheets("Sheet1").Rows(3).Delete
 ```
 
-<br/>
-
 This example deletes rows in the current region on worksheet one where the value of cell one in the row is the same as the value in cell one in the previous row.
 
 ```vb
@@ -52,8 +50,6 @@ For Each rw In Worksheets(1).Cells(1, 1).CurrentRegion.Rows
  last = this 
 Next
 ```
-
-<br/>
 
 This example displays the number of rows in the selection on Sheet1. If more than one area is selected, the example loops through each area.
 

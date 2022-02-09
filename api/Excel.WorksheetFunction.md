@@ -29,8 +29,6 @@ answer = Application.WorksheetFunction.Min(myRange)
 MsgBox answer
 ```
 
-<br/>
-
 This example uses the **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
 
 ```vb

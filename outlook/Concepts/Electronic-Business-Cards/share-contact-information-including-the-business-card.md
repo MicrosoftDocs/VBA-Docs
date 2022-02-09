@@ -2,7 +2,7 @@
 title: Share Contact Information Including the Business Card
 ms.prod: outlook
 ms.assetid: 57218e2f-a6fd-bd52-0065-b8ff8b480d3c
-ms.date: 06/08/2019
+ms.date: 02/07/2022
 ms.localizationpriority: medium
 ---
 

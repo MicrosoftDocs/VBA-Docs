@@ -20,8 +20,6 @@ Returns **True** if a specified folder exists; **False** if it does not.
 
 _object_.**FolderExists** (_folderspec_)
 
-<br/>
-
 The **FolderExists** method syntax has these parts:
 
 |Part|Description|

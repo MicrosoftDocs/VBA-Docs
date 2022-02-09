@@ -34,8 +34,6 @@ The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#local
 |**vbIMEModeAlphaFull**|7|Full-width Alphanumeric mode|
 |**vbIMEModeAlpha**|8|Half-width Alphanumeric mode|
 
-<br/>
-
 The return values for the Korean locale are as follows.
 
 |Constant|Value|Description|
@@ -45,8 +43,6 @@ The return values for the Korean locale are as follows.
 |**vbIMEModeAlpha**|8|Half-width Alphanumeric mode|
 |**vbIMEModeHangulFull**|9|Full-width Hangul mode|
 |**vbIMEModeHangul**|10|Half-width Hangul mode|
-
-<br/>
 
 The return values for the Chinese locale are as follows.
 

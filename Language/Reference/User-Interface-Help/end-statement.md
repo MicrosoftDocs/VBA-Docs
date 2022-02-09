@@ -25,8 +25,6 @@ Ends a [procedure](../../Glossary/vbe-glossary.md#procedure) or block.
 **End Type** <br/>
 **End With** 
 
-<br/>
-
 The **End** statement syntax has these forms:
 
 |Statement|Description|

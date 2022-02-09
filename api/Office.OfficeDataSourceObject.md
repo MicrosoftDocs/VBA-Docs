@@ -41,8 +41,6 @@ Sub SetDataSortOrder()
 End Sub
 ```
 
-<br/>
-
 Use the **[Column](office.odsofilter.column.md)**, **[Comparison](office.odsofilter.comparison.md)**, **[CompareTo](office.odsofilter.compareto.md)**, and **[Conjunction](office.odsofilter.conjunction.md)** properties to return or set the data source query criterion. The following example changes an existing filter to remove from the mail merge all records that don't have a **Region** field equal to "WA".
 
 ```vb

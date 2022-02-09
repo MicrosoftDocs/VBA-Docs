@@ -18,8 +18,6 @@ Removes a key/item pair from a **[Dictionary](dictionary-object.md)** object.
 
 _object_.**Remove** (_key_)
 
-<br/>
-
 The **Remove** method syntax has these parts:
 
 |Part|Description|

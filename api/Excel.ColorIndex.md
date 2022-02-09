@@ -49,8 +49,6 @@ With myChart.Axes(xlValue)
 End With
 ```
 
-<br/>
-
 This example sets the color of the chart area interior to red, and sets the border color to blue.
 
 ```vb

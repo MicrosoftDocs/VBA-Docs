@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the position or behavior of a command bar.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarBottom**|3|Command bar is docked at the bottom of the application window.|

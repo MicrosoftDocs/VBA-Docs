@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of tab stop.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTabStopCenter**|2|Center tab stop |

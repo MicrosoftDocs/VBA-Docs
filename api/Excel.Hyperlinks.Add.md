@@ -57,8 +57,6 @@ With Worksheets(1)
 End With
 ```
 
-<br/>
-
 This example adds an email hyperlink to cell A5.
 
 ```vb

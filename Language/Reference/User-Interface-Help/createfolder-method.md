@@ -20,8 +20,6 @@ Creates a folder.
 
 _object_.**CreateFolder** (_foldername_)
 
-<br/>
-
 The **CreateFolder** method has these parts:
 
 |Part|Description|

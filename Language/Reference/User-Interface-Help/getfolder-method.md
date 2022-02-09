@@ -20,8 +20,6 @@ Returns a **[Folder](folder-object.md)** object corresponding to the folder in a
 
 _object_.**GetFolder** (_folderspec_)
 
-<br/>
-
 The **GetFolder** method syntax has these parts:
 
 |Part|Description|

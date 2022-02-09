@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 
 Preset graphic styles.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGraphicStylePreset1** |1 |Graphic style 1 |

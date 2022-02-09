@@ -40,8 +40,6 @@ Worksheets("Sheet1").PageSetup.BottomMargin = _
 Worksheets("Sheet1").PageSetup.BottomMargin = 36
 ```
 
-<br/>
-
 This example displays the current setting for the bottom margin on Sheet1.
 
 ```vb

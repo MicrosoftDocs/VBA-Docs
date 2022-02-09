@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the security mode an application uses when programmatically opening files.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAutomationSecurityByUI**|2|Uses the security setting specified in the **Security** dialog box.|

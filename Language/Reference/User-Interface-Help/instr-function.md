@@ -20,8 +20,6 @@ Returns a **Variant** (**Long**) specifying the position of the first occurrence
 
 **InStr**([ _start_ ], _string1_, _string2_, [ _compare_ ])
 
-<br/>
-
 The **InStr** function syntax has these [arguments](../../Glossary/vbe-glossary.md#argument):
 
 |Part|Description|

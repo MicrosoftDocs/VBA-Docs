@@ -32,8 +32,6 @@ The following example causes the first PivotTable report on the first worksheet 
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 
-<br/>
-
 Use **[PivotCaches](Excel.Workbook.PivotCaches.md)** (_index_), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
 
 ```vb

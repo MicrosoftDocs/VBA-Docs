@@ -32,8 +32,6 @@ Private Sub Document_Open()
 End Sub
 ```
 
-<br/>
-
 The following example shows a **BeforeClose** event procedure that prompts the user for a yes or no response before closing a document.
 
 ```vb

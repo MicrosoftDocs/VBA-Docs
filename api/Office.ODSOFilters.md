@@ -43,8 +43,6 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-<br/>
-
 Use the **Item** method to access an individual filter criterion. This example loops through all the filter criterion, and if it finds one with a value of **Region**, changes it to remove from the mail merge all records that are not equal to "WA".
 
 ```vb

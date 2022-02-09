@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **SysCmd** method to specify an action to take.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acSysCmdAccessDir**|9|Returns the name of the directory where Msaccess.exe is located.|

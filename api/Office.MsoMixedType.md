@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 This enumeration has been deprecated and should not be used.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoIntegerMixed**|32768|Internal use only.|

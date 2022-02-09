@@ -80,8 +80,6 @@ dblX = DStDev("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 dblY = DStDevP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
 
-<br/>
-
 The next example calculates the same estimates by using the variable `strCountry` in the _criteria_ argument. Note that single quotation marks (') are included in the string expression, so that when the strings are concatenated, the string literal `UK` will be enclosed in single quotation marks.
 
 ```vb
@@ -97,8 +95,6 @@ dblX = DStDev("[Freight]", "Orders", _
 dblY = DStDevP("[Freight]", "Orders", _ 
     "[ShipCountry] = '" & strCountry & "'")
 ```
-
-<br/>
 
 The following examples show how to use various types of criteria with the **DStDev** function.
 

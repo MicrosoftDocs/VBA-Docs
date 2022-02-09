@@ -16,16 +16,14 @@ ms.localizationpriority: medium
 
 Sets the value of the specified data-column property.
 
-> [!NOTE] 
+> [!NOTE]
 > This Visio object or member is available only to licensed users of Visio Professional 2013.
-
 
 ## Syntax
 
 _expression_.**SetProperty** (_Property_, _Value_)
 
 _expression_ An expression that returns a **[DataColumn](Visio.DataColumn.md)** object.
-
 
 ## Parameters
 
@@ -40,12 +38,12 @@ Nothing
 
 ## Remarks
 
-When you link shapes in a Microsoft Visio drawing to data in a data recordset, Visio maps columns in the data recordset to rows in the Shape Data section of the ShapeSheet spreadsheet, each of which corresponds to a shape-data item. 
+When you link shapes in a Microsoft Visio drawing to data in a data recordset, Visio maps columns in the data recordset to rows in the Shape Data section of the ShapeSheet spreadsheet, each of which corresponds to a shape-data item.
 
-> [!NOTE] 
+> [!NOTE]
 > In some previous versions of Visio, shape data were called custom properties.
 
-Data-column properties map data columns to certain cells in the Shape Data section of the ShapeSheet. For example, by passing the **SetProperty** method a new value for the **DisplayName** property, which is represented by the enumerated value **visDataColumnPropertyDisplayName**, you set the value of the Label cell in the Shape Data section of the ShapeSheet for a particular shape data item. 
+Data-column properties map data columns to certain cells in the Shape Data section of the ShapeSheet. For example, by passing the **SetProperty** method a new value for the **DisplayName** property, which is represented by the enumerated value **visDataColumnPropertyDisplayName**, you set the value of the Label cell in the Shape Data section of the ShapeSheet for a particular shape data item.
 
 In addition, setting that property sets the label of the shape data item in the **Shape Data** dialog box, as well as the name of the data column that is displayed in the External Data window in the Visio user interface. These settings correspond to those that you can set in the **Column Settings** dialog box in the Visio user interface (right-click in the External Data window and then click **Column Settings**), as well as those that you can make in the **Types and Units** dialog box for each column (click **Data Types** in the **Column Settings** dialog box).
 
@@ -62,8 +60,6 @@ Possible values for the _Property_ parameter are declared in **VisDataColumnProp
 | **visDataColumnPropertyUnits**|4|Units of the data-column property.|
 | **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI.|
 
-<br/>
-
 Possible values for the _Value_ parameter depend on the _Property_ parameter value. The following table shows valid data-column property values for each data-column property, depending on the data-column data type.
 
 |Data Column property| Number |Date |Currency |Duration |String |Boolean |
@@ -74,10 +70,8 @@ Possible values for the _Value_ parameter depend on the _Property_ parameter val
 |LangID|Valid LCID number|||||
 |Currency|||Valid 3-letter currency-constant string as used in the CY function in the Visio ShapeSheet spreadsheet.||||
 |Calendar||One of the members of **VisCellVals**, depending on the LangID value (see table below).|||||
-|Units|One of the following members of **VisUnitsCodes**:<ul><li><b>visAcre</b></li><li><b>visAngleUnits</b></li><li><b>visCentimeters</b></li><li><b>visCiceros</b></li><li><b>visCicerosAndDidots</b></li><li><b>visDegreeMinSec</b></li><li><b>visDegrees</b></li><li><b>visDrawingUnits</b></li><li><b>visFeet</b></li><li><b>visFeetAndInches</b></li><li><b>visHectare</b></li><li><b>visDidots</b></li><li><b>visInches</b></li><li><b>visInchFrac</b></li><li><b>visKilometers</b></li><li><b>visMeters</b></li><li><b>visMileFrac</b></li><li><b>visMiles</b></li><li><b>visMillimeters</b></li><li><b>visMin</b></li><li><b>visNautMiles</b></li><li><b>visPageUnits</b></li><li><b>visPicas</b></li><li><b>visPicasAndPoints</b></li><li><b>visPoints</b></li><li><b>visRadians</b></li><li><b>visSec</b></li><li><b>visYards</b></li><li><b>visNumber</b>  (special behavior: this constant makes the value unitless)  </li></ul><br/>OR<br/><br/>Descriptive string: a string used for units, such as _cm_ or _sq cm_. This string will be validated so that it is one of the supported Visio units. Passing invalid strings causes the method to fail.|||One of the following members of **VisUnitsCodes**:<ul><li><b>visDurationUnits</b></li><li><b>visElapsedDay</b></li><li><b>visElapsedHour</b></li><li><b>visElapsedMin</b></li><li><b>visElapsedSec</b></li><li><b>visElapsedWeek</b></li></ul><br/>OR<br/><br/>Descriptive string: a string used for units such as _ew_. This string will be validated so that it is one of the supported Visio units. Passing an invalid string will cause this method to fail.|||
+|Units|One of the following members of **VisUnitsCodes**:<ul><li>**visAcre**</li><li>**visAngleUnits**</li><li>**visCentimeters**</li><li>**visCiceros**</li><li>**visCicerosAndDidots**</li><li>**visDegreeMinSec**</li><li>**visDegrees**</li><li>**visDrawingUnits**</li><li>**visFeet**</li><li>**visFeetAndInches**</li><li>**visHectare**</li><li>**visDidots**</li><li>**visInches**</li><li>**visInchFrac**</li><li>**visKilometers**</li><li>**visMeters**</li><li>**visMileFrac**</li><li>**visMiles**</li><li>**visMillimeters**</li><li>**visMin**</li><li>**visNautMiles**</li><li>**visPageUnits**</li><li>**visPicas**</li><li>**visPicasAndPoints**</li><li>**visPoints**</li><li>**visRadians**</li><li>**visSec**</li><li>**visYards**</li><li>**visNumber**  (special behavior: this constant makes the value unitless)  </li></ul><br/>OR<br/><br/>Descriptive string: a string used for units, such as _cm_ or _sq cm_. This string will be validated so that it is one of the supported Visio units. Passing invalid strings causes the method to fail.|||One of the following members of **VisUnitsCodes**:<ul><li>**visDurationUnits**</li><li>**visElapsedDay**</li><li>**visElapsedHour**</li><li>**visElapsedMin**</li><li>**visElapsedSec**</li><li>**visElapsedWeek**</li></ul><br/>OR<br/><br/>Descriptive string: a string used for units such as _ew_. This string will be validated so that it is one of the supported Visio units. Passing an invalid string will cause this method to fail.|||
 |HyperLink||||| **Boolean**||
-
-<br/>
 
 The LangID and Calendar properties are bound by the validation rules shown in the following table. Languages not shown use the Western calendar only.
 

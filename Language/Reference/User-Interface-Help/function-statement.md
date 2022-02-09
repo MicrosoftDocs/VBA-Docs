@@ -24,8 +24,6 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _name_ **=** _expression_ ]<br/>
 **End Function**
 
-<br/>
-
 The **Function** statement syntax has these parts:
 
 |Part|Description|
@@ -40,13 +38,9 @@ The **Function** statement syntax has these parts:
 | _statements_|Optional. Any group of statements to be executed within the **Function** procedure.|
 | _expression_|Optional. Return value of the **Function**.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|
@@ -116,8 +110,6 @@ Function CalculateSquareRoot(NumberArg As Double) As Double
 End Function
 ```
 
-<br/>
-
 Using the **ParamArray** keyword enables a function to accept a variable number of arguments. In the following definition, it is passed by value.
 
 ```vb
@@ -130,8 +122,6 @@ ReturnValue = CalcSum(4, 3, 2, 1)
 ' lower bound for arrays = 1. 
 
 ```
-
-<br/>
 
 **Optional** arguments can have default values and types other than **Variant**.
 

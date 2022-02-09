@@ -20,8 +20,6 @@ Deletes a specified folder and its contents.
 
 _object_.**DeleteFolder** _folderspec_, [ _force_ ]
 
-<br/>
-
 The **DeleteFolder** method syntax has these parts:
 
 |Part|Description|

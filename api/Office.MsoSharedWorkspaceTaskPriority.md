@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the priority for a shared workspace task.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSharedWorkspaceTaskPriorityHigh**|1|High priority |

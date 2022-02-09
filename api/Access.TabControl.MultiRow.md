@@ -49,8 +49,6 @@ Dim b As Boolean
 b = Forms("Order Entry").Controls("Details").MultiRow
 ```
 
-<br/>
-
 To set the value of the **MultiRow** property, you can use the following.
 
 ```vb

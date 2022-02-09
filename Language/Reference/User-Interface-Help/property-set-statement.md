@@ -22,8 +22,6 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _statements_ ] <br/>
 **End Property**
 
-<br/>
-
 The **Property Set** statement syntax has these parts:
 
 |Part|Description|
@@ -38,13 +36,9 @@ The **Property Set** statement syntax has these parts:
 | _reference_|Required. Variable containing the object reference used on the right side of the object reference assignment.|
 | _statements_|Optional. Any group of statements to be executed within the body of the **Property** procedure.|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
-
-<br/>
 
 |Part|Description|
 |:-----|:-----|

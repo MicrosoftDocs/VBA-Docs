@@ -20,8 +20,6 @@ Occurs before a **[UserForm](userform-window.md)** closes.
 
 **Private Sub UserForm_QueryClose**(_Cancel_ **As Integer**, _CloseMode_ **As Integer**)
 
-<br/>
-
 The **QueryClose** event syntax has these parts:
 
 |Part|Description|

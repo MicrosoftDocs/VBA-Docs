@@ -18,16 +18,12 @@ Runs an executable program and returns a **Variant** (**Double**) representing t
 
 **Shell**(_pathname_, [ _windowstyle_ ])
 
-<br/>
-
 The **Shell** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
 |_pathname_|Required; **Variant** (**String**). Name of the program to execute and any required [arguments](../../Glossary/vbe-glossary.md#argument) or [command-line](../../Glossary/vbe-glossary.md#command-line) switches; may include directory or folder and drive. On the Macintosh, you can use the **MacID** function to specify an application's signature instead of its name. The following example uses the signature for Microsoft Word: `Shell MacID("MSWD")`|
 |_windowstyle_|Optional. **Variant** (**Integer**) corresponding to the style of the window in which the program is to be run. If _windowstyle_ is omitted, the program is started minimized with focus. On the Macintosh (System 7.0 or later), _windowstyle_ only determines whether or not the application gets the focus when it is run.|
-
-<br/>
 
 The _windowstyle_ named argument has these values:
 

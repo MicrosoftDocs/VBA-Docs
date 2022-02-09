@@ -44,8 +44,6 @@ This example sets the value of every cell in column one in the range named _myRa
 Range("myRange").Columns(1).Value = 0
 ```
 
-<br/>
-
 This example displays the number of columns in the selection on Sheet1. If more than one area is selected, the example loops through each area.
 
 ```vb

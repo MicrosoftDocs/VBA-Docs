@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the task pane section to which to add a file or where the file reference exists. Used with the **Add** method and the **Remove** method of the **NewFile** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBottomSection**|4|**Bottom** section|

@@ -123,11 +123,11 @@
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-multiple-fields-in-criteria-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/multiple-fields-in-criteria-expressions"
-        },    
+        }, 
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-numeric-criteria-in-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/numeric-criteria-expressions"
-        },  
+        },
         {
             "source_path": "access/Concepts/Criteria-Expressions/use-textual-criteria-expressions.md",
             "redirect_url": "/office/vba/access/concepts/criteria-expressions/textual-criteria-expressions"

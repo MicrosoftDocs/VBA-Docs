@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **ProjectType** property to determine the type of project that is currently open.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acADP**|1|The current project is a Microsoft Access project.|

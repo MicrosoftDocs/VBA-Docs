@@ -18,8 +18,6 @@ Returns a **Variant** (**String**) converted as specified.
 
 **StrConv**(_string_, _conversion_, [ _LCID_ ])
 
-<br/>
-
 The **StrConv** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

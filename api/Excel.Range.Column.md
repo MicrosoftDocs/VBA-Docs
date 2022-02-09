@@ -45,8 +45,6 @@ For Each col In Worksheets("Sheet1").Columns
 Next col
 ```
 
-<br/>
-
 This example deletes the empty columns from a selected range.
 
 ```vb

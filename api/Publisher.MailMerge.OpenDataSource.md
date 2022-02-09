@@ -38,7 +38,7 @@ If you are using a data source for mail merge, you must add a catalog merge area
 
 ## Example
 
-This example attaches a table from a database and denies everyone else write access to the database while it is opened. 
+This example attaches a table from a database and denies everyone else write access to the database while it is opened.
 
 For this example to run properly, you must replace `PathToFile` with a valid file path and `TableName` with a valid data source table name.
 
@@ -53,7 +53,7 @@ Sub AttachDataSource()
 End Sub
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > For `TableName`, if an Excel spreadsheet is being opened, `TableName` must be followed by `$`. That is, `bstrTable:="Sheet1"` will not work; `bstrTable:="Sheet1$"` will work. Following is an example that further clarifies this.
 
 In this example, the data is stored in MySpreadSheet.xlsx, Sheet1, in the same directory as the Publisher file.

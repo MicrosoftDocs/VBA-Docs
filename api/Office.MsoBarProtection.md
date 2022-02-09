@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how a command bar is protected from user customization.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBarNoChangeDock**|16|Docking setting cannot be changed.|

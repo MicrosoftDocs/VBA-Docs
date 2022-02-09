@@ -57,8 +57,6 @@ Function AddItemToEnd(ctrlListBox As ListBox, _
 End Function
 ```
 
-<br/>
-
 This example adds an item to the beginning of the list in a combo box control. For the function to work, you must pass it a **ComboBox** object representing a combo box control on a form and a **String** value representing the text of the item to be added.
 
 ```vb

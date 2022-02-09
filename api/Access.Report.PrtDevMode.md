@@ -165,8 +165,6 @@ Public Sub CheckCustomPage(ByVal rptName As String)
 End Sub
 ```
 
-<br/>
-
 The following example shows how to change the orientation of the report. This example will switch the orientation from portrait to landscape or landscape to portrait depending on the report's current orientation.
 
 ```vb

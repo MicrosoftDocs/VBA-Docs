@@ -31,8 +31,6 @@ Private Sub TextBox1_KeyUp(ByVal KeyCode As MSForms.ReturnInteger, ByVal Shift A
 End Sub
 ```
 
-<br/>
-
 
 ```vb
 Private Sub UserForm_Initialize() 

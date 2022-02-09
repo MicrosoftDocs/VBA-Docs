@@ -101,8 +101,6 @@ Sub Hide_Columns()
 End Sub
 ```
 
-<br/>
-
 This example finds all the cells in the first four columns that contain a constant X, and unhides the column that contains the X.
 
 ```vb

@@ -32,8 +32,6 @@ This example displays the **Open** dialog box (**File** menu).
 Application.Dialogs(xlDialogOpen).Show
 ```
 
-<br/>
-
 The following code example opens an email message in Microsoft Outlook with the current workbook attached.
 
 ```vb

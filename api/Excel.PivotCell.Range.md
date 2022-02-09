@@ -32,8 +32,6 @@ The following example stores in a variable the address for the AutoFilter applie
 rAddress = Worksheets("Crew").AutoFilter.Range.Address
 ```
 
-<br/>
-
 This example scrolls through the workbook window until the hyperlink range is in the upper-left corner of the active window.
 
 ```vb

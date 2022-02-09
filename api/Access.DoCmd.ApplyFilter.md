@@ -62,8 +62,6 @@ The following example uses the **ApplyFilter** method to display only records th
 DoCmd.ApplyFilter , "LastName = 'King'"
 ```
 
-<br/>
-
 The following example shows how to use the **ApplyFilter** property to filter the records displayed when a toggle button named **tglFilter** is chosen.
 
 ```vb

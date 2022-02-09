@@ -40,8 +40,6 @@ Worksheets("Sheet1").Activate
 ActiveCell.Offset(rowOffset:=3, columnOffset:=3).Activate
 ```
 
-<br/>
-
 This example assumes that Sheet1 contains a table that has a header row. The example selects the table, without selecting the header row. The active cell must be somewhere in the table before the example is run.
 
 ```vb
@@ -50,8 +48,6 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
  tbl.Columns.Count).Select 
 
 ```
-
-<br/>
 
 If _RowOffset_ or _ColumnOffset_ are 0 (zero) they can be omitted.
 

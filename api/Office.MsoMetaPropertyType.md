@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the metadata property type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMetaPropertyTypeBoolean**|1|Represents a Boolean value.|

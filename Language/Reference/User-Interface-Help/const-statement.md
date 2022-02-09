@@ -18,8 +18,6 @@ Declares [constants](../../Glossary/vbe-glossary.md#constant) for use in place o
 
 [ **Public** | **Private** ] **Const** _constname_ [ **As** _type_ ] **=** _expression_
 
-<br/>
-
 The **Const** statement syntax has these parts:
 
 |Part|Description|

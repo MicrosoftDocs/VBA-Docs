@@ -35,8 +35,6 @@ myDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _
  msoPatternHorizontalBrick
 ```
 
-<br/>
-
 The following example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on _myDocument_.
 
 Although you can use the **Range** property to return any number of shapes or slides, it's simpler to use the **Item** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
@@ -56,8 +54,6 @@ Use the **ShapeRange** property of the **Selection** object to return all the sh
 Windows(1).Selection.ShapeRange.Fill.ForeColor.RGB = _ 
  RGB(255, 0, 255)
 ```
-
-<br/>
 
 Use _Selection_.**ShapeRange** (_index_), where _index_ is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
 

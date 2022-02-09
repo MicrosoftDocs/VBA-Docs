@@ -18,8 +18,6 @@ Returns a list of key settings and their respective values (originally created w
 
 **GetAllSettings**(_appname_, _section_)
 
-<br/>
-
 The **GetAllSettings** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

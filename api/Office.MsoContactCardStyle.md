@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies how the contact card is displayed.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardFull**|1|The contact card is displayed as a full card.|

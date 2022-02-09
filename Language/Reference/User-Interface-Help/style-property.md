@@ -38,8 +38,6 @@ The settings for _fmStyle_ are:
 | _fmStyleDropDownCombo_|0|The **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
 | _fmStyleDropDownList_|2|The **ComboBox** behaves as a list box. The user must choose a value from the list.|
 
-<br/>
-
 The settings for  _fmTabStyle_ are:
 
 |Constant|Value|Description|

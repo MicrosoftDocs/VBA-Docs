@@ -18,8 +18,6 @@ Sets the selection in the [code pane](../../Glossary/vbe-glossary.md#code-pane).
 
 _object_.**SetSelection** (_startline_, _startcol_, _endline_, _endcol_)
 
-<br/>
-
 The **SetSelection** syntax has these parts:
 
 |Part|Description|

@@ -33,15 +33,11 @@ Use the **PivotTables** method to return the **PivotTables** collection. The fol
 MsgBox Worksheets("sheet3").PivotTables.Count
 ```
 
-<br/>
-
 Use the **[PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)** method to create a new PivotTable report and add it to the collection. The following example creates a new PivotTable report from a Microsoft Excel database (contained in the range A1:C100).
 
 ```vb
 ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ```
-
-<br/>
 
 Use **PivotTables** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 

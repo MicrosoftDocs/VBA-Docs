@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies where the subtotal will be displayed on the worksheet.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlAtBottom**|2|Subtotal will be at the bottom.|

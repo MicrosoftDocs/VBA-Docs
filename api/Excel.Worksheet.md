@@ -34,8 +34,6 @@ Worksheets(1).Visible = False
 
 The worksheet index number denotes the position of the worksheet on the workbook's tab bar. `Worksheets(1)` is the first (leftmost) worksheet in the workbook, and `Worksheets(Worksheets.Count)` is the last one. All worksheets are included in the index count, even if they are hidden.
 
-<br/>
-
 The worksheet name is shown on the tab for the worksheet. Use the **[Name](Excel.Worksheet.Name.md)** property to set or return the worksheet name. The following example protects the scenarios on Sheet1.
 
 ```vb
@@ -45,8 +43,6 @@ strPassword = InputBox ("Enter the password for the worksheet")
 Worksheets("Sheet1").Protect password:=strPassword, scenarios:=True
 ```
 
-<br/>
-
 When a worksheet is the active sheet, you can use the **[ActiveSheet](Excel.Workbook.ActiveSheet.md)** property to refer to it. The following example uses the **[Activate](Excel.Worksheet.Activate(method).md)** method to activate Sheet1, sets the page orientation to landscape mode, and then prints the worksheet.
 
 ```vb
@@ -54,8 +50,6 @@ Worksheets("Sheet1").Activate
 ActiveSheet.PageSetup.Orientation = xlLandscape 
 ActiveSheet.PrintOut
 ```
-
-<br/>
 
 This example uses the **[BeforeDoubleClick](Excel.Worksheet.BeforeDoubleClick.md)** event to open a specified set of files in Notepad. To use this example, your worksheet must contain the following data:
 

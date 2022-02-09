@@ -91,8 +91,6 @@ Public Function OrdersCount(ByVal strCountry As String, _
 End Function
 ```
 
-<br/>
-
 The following examples show how to use various types of criteria with the **DCount** function.
 
 ```vb

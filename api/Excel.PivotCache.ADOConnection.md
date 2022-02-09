@@ -59,8 +59,6 @@ Sub UseADOConnection()
 End Sub
 ```
 
-<br/>
-
 This example adds a calculated member, assuming that a PivotTable report exists on the active worksheet.
 
 ```vb

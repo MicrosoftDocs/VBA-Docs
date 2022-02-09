@@ -38,16 +38,12 @@ Worksheets("Sheet1").PageSetup.LeftMargin = _
  Application.InchesToPoints(1.5)
 ```
 
-<br/>
-
 This example sets the left margin of Sheet1 to 2 centimeters.
 
 ```vb
 Worksheets("Sheet1").PageSetup.LeftMargin = _ 
  Application.CentimetersToPoints(2)
 ```
-
-<br/>
 
 This example displays the current left-margin setting for Sheet1.
 

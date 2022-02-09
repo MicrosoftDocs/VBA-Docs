@@ -18,8 +18,6 @@ Returns a **Variant** (**String**) indicating where a number occurs within a cal
 
 **Partition**(_number_, _start_, _stop_, _interval_)
 
-<br/>
-
 The **Partition** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
@@ -34,8 +32,6 @@ The **Partition** function syntax has these [named arguments](../../Glossary/vbe
 The **Partition** function identifies the particular range in which _number_ falls and returns a **Variant** (**String**) describing that range. The **Partition** function is most useful in queries. You can create a select query that shows how many orders fall within various ranges, for example, order values from 1 to 1000, 1001 to 2000, and so on.
 
 The following table shows how the ranges are determined using three sets of _start_, _stop_, and _interval_ parts. The First Range and Last Range columns show what **Partition** returns. The ranges are represented by _lowervalue_: _uppervalue_, where the low end (_lowervalue_) of the range is separated from the high end (_uppervalue_) of the range with a colon (**:**).
-
-<br/>
 
 |_start_|_stop_|_interval_|Before First|First Range|Last Range|After Last|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|

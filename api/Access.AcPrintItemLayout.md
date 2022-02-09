@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **ItemLayout** property to specify how columns are laid out when printing.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRHorizontalColumnLayout**|1953|Columns are laid across, then down.|

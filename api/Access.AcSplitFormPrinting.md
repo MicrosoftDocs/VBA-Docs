@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [SplitFormPrinting](Access.Form.SplitFormPrinting.md) property to specify what to print when a form is in Split Form view.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFormOnly**|0|The contents of the form are printed.|

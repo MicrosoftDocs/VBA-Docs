@@ -37,8 +37,6 @@ If you don't use the **ObjectVerbs** property to identify a specific verb, you c
 |**acOLEVerbOpen**|Opens the object in a separate application window.|
 |**acOLEVerbHide**|For embedded objects, hides the application that was used to create the object.|
 
-<br/>
-
 With some applications' objects, you can use these additional values. 
 
 |Constant|Description|

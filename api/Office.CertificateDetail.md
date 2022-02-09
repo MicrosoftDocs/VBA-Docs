@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Provides information about the digital certificate.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**certdetAvailable**|0|Specifies that the digital certificate is available for signing.|

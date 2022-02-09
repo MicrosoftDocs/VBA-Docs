@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Saves the active project to a new file name or exports data to a file.
 
-
 ## Syntax
 
 _expression_.**FileSaveAs** (_Name_, _Format_, _Backup_, _ReadOnly_, _TaskInformation_, _Filtered_, _Table_, _UserID_, _DatabasePassWord_, _FormatID_, _Map_, _Password_, _WriteResPassword_, _ClearBaseline_, _ClearActuals_, _ClearResourceRates_, _ClearFixedCosts_, _XMLName_, _ClearConfirmed_)
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
-
 
 ## Parameters
 
@@ -37,7 +35,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _Table_|Optional|**Variant**|The name of the table containing resource or task information for a project saved in a non-Project file format. The _Map_ argument should be used in place of _Table_, which is included for backward compatibility. If _Map_ is specified, or _Name_ specifies a project file format, _Table_ is ignored. The default value is the name of the active table.|
 | _UserID_|Optional|**String**|Not used. Project can open a project file that an earlier version of Project saved to an ODBC database, but cannot save to a database.|
 | _DatabasePassWord_|Optional|**String**|Not used. Project cannot save to an ODBC database.|
-| _FormatID_|Optional|**String**|Specifies the file format to use. If Project recognizes the format of the file specified by _Name_,  _FormatID_ is ignored. _FormatID_ can be one of the [following format string values](#format-strings) for saving files.|
+| _FormatID_|Optional|**String**|Specifies the file format to use. If Project recognizes the format of the file specified by _Name_, _FormatID_ is ignored. _FormatID_ can be one of the [following format string values](#format-strings) for saving files.|
 | _Map_|Optional|**String**|The name of the import/export map to use when exporting data.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If _Password_ is incorrect or omitted and a file requires a password, the user is prompted for the password.|
 | _WriteResPassword_|Optional|**String**|A password to use when writing to a write-reserved project file. If _WriteResPassword_ is omitted and the file requires a password, the user is prompted for the password.|
@@ -47,8 +45,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 | _ClearFixedCosts_|Optional|**Boolean**|**True** if the Fixed Costs field is cleared for all tasks when saving as a template. The default value is **False**.|
 | _XMLName_|Optional|**Variant**|This is the XML DOM object that is passed to the function when _FormatID_ is "MSProject.XML". The **FileSaveAs** method fails if the XML format is specified and _XMLName_ is not a valid XML DOM object. If _FormatID_ is anything other than "MSProject.XML", _XMLName_ should be **NULL** and the method should fail. Only one of _XMLName_ or _Name_ can be specified.|
 | _ClearConfirmed_|Optional|**Boolean**|**True** if the information is cleared about whether tasks have been confirmed as published to Project Server. The default value is **False**.|
-
-<br/>
 
 ### Format strings
 
@@ -66,7 +62,6 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 |"MSProject.csv"|CSV (comma delimited) file|
 |"MSProject.txt"|TXT (tab delimited) file|
 |"MSProject.xml"|Project XML file|
-
 
 ## Return value
 

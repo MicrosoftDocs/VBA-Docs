@@ -35,8 +35,6 @@ With ActiveWorkbook.Styles(1)
 End With
 ```
 
-<br/>
-
 The following example displays the name of the default **ListObject** object in Sheet1 of the active workbook.
 
 ```vb

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how many categories are supported by the provider.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoBlogMultipleCategories**|2|Multiple categories are supported.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the capitalization of the text.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAllCaps**|2|Display the text as all uppercase letters.|

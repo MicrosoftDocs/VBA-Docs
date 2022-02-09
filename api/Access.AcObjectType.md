@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDatabaseProperties**|11|Database property|

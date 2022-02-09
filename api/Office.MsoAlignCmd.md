@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Defines how to align specified objects relative to one another.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlignBottoms**|5|Align bottoms of specified objects.|

@@ -20,8 +20,6 @@ Returns a **[File](file-object.md)** object corresponding to the file in a speci
 
 _object_.**GetFile** (_filespec_)
 
-<br/>
-
 The **GetFile** method syntax has these parts:
 
 |Part|Description|

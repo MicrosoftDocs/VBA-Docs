@@ -35,8 +35,6 @@ Set fcTemp = FileExportConverters(1)
 MsgBox "The file format identifier for the file converter is: " & fcTemp.FileFormat
 ```
 
-<br/>
-
 The following example shows how to use the file format identifier as a parameter in the **[SaveAs](Excel.Workbook.SaveAs.md)** method of the **Workbook** object to save a file by using the first file converter in the **FileExportConverters** collection.
 
 ```vb

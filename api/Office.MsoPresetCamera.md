@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the effects camera type used by the specified object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCameraIsometricBottomDown**|23|Specifies Isometric Bottom Down.|

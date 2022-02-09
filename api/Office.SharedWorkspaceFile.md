@@ -44,8 +44,6 @@ End Function
 
 ```
 
-<br/>
-
 Use the **Item** (_index_) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, by using the supporting functions shown earlier.
 
 ```vb

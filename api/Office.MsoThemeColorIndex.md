@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the Office theme color.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoNotThemeColor**|0|Specifies no theme color.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies which predefined gradient to use to fill a shape.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientBrass**|20|Brass gradient |

@@ -62,8 +62,6 @@ Specifies the type of Customer Barcode data in the field or text box. This setti
 |2|Specifies the field or text box for City/Ward/County.|
 |3|Specifies the field or text box for Street/Town/Village.|
 
-<br/>
-
 The postal code consists of three address items: Prefecture, City/Ward/County, and Street/Town/Village. Sections in the **PostalAddress** property of a field or text box for a postal code can be omitted. The following table shows how to omit sections from the property setting.
 
 |Property settings|Address input in field or text box|

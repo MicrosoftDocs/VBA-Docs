@@ -31,8 +31,6 @@ ActiveWindow.SheetViews.Item(1)
 
 ```
 
-<br/>
-
 The following example returns a **[Chart](Excel.Chart(object).md)** object.
 
 ```vb

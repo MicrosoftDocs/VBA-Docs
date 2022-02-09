@@ -32,8 +32,6 @@ The following example displays the number of query tables on the active workshee
 MsgBox ActiveSheet.QueryTables.Count
 ```
 
-<br/>
-
 Use the **Add** method to create a new query table and add it to the **QueryTables** collection. The following example creates a new query table.
 
 ```vb

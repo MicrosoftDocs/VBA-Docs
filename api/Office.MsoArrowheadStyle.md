@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the style of the arrowhead at the end of a line.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadDiamond**|5|Diamond-shaped|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies properties of a signature.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigtypeMax**|3|Specifies the maximum number of the signature types available in the current version of Office.|
