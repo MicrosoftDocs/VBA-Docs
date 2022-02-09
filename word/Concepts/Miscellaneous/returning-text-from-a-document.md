@@ -33,7 +33,7 @@ Sub ShowSelection()
 End Sub
 ```
 
-The following example returns the first word in the active document. Each item in the **[Words](../../../api/Word.words.md)** collection is a **Range**object that represents one word.
+The following example returns the first word in the active document. Each item in the **[Words](../../../api/Word.words.md)** collection is a **Range** object that represents one word.
 
 ```vb
 Sub ShowFirstWord() 

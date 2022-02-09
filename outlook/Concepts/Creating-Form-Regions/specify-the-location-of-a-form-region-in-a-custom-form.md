@@ -11,7 +11,6 @@ ms.localizationpriority: medium
 
 A form region is a piece of custom user interface that you add to a form. You can designate the form region to be displayed in one of several ways in a custom form. To do so, you'll be specifying the **formRegionType** and **displayAfter** elements of the form region XML schema in the corresponding form region manifest XML file.
 
-
 ## On the Default Page
 
 There are several ways you can display a form region or form regions on the default page of a standard form.
@@ -60,7 +59,8 @@ You'll specify the following in C's form region manifest XML file:
 <displayAfter>FormRegionB</displayAfter>
 ```
 
- **Note** Use the **displayAfter** element to specify the order of multiple adjoining form regions in a custom form. However, this order is only valid the first time that the form is displayed for the user on the local computer. The user has the option to change the order of adjoining form regions by opening the form and moving the form regions up or down on the default page through the form region header context menu. Outlook caches the updated order and uses the cached order on subsequent displays of the form.
+> [!NOTE]
+> Use the **displayAfter** element to specify the order of multiple adjoining form regions in a custom form. However, this order is only valid the first time that the form is displayed for the user on the local computer. The user has the option to change the order of adjoining form regions by opening the form and moving the form regions up or down on the default page through the form region header context menu. Outlook caches the updated order and uses the cached order on subsequent displays of the form.
 
 ### To "replace" the entire default page by a form region
 

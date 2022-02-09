@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 The following example demonstrates the **[BorderColor](../../../api/Outlook.textbox.bordercolor.md)** and **[SpecialEffect](../../../api/Outlook.textbox.specialeffect.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](../../../api/Outlook.textbox.backcolor.md)**, **[BackStyle](../../../api/Outlook.textbox.backstyle.md)**, **BorderColor**, and **[Forecolor](../../../api/Outlook.textbox.forecolor.md)** properties.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **en** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - Six **[TextBox](../../../api/Outlook.textbox.md)** controls named TextBox1 through TextBox6.
 
