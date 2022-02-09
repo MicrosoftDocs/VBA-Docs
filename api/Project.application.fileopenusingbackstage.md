@@ -29,7 +29,7 @@ The return value is **True** if Project displays the **Open** tab in the Backsta
 
 ## Example
 
-The following line of code prints  `Open in Backstage: True` in the Immediate window of the VBE.
+The following line of code prints `Open in Backstage: True` in the Immediate window of the VBE.
 
 
 ```vb

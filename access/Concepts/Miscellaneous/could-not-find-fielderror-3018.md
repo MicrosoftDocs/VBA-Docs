@@ -12,13 +12,9 @@ ms.localizationpriority: medium
 
 # Could not find field. (Error 3018)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 Possible causes:
-
-
 
 - The specified field does not exist.
     

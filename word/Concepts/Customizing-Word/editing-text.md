@@ -60,7 +60,7 @@ End Sub
 
 ## Extend a selection or range
 
-The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, **[MoveRight](../../../api/Word.Selection.MoveRight.md)**, **[MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[MoveDown](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Selection** object.
+The following example uses the **MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**, **[MoveRight](../../../api/Word.Selection.MoveRight.md)**, **[MoveUp](../../../api/Word.Selection.MoveUp.md)**, and **[Move Down](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a **Selection** object.
 
 ```vb
 Sub ExtendSelection() 
@@ -68,7 +68,7 @@ Sub ExtendSelection()
 End Sub
 ```
 
-The following example uses the **[MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
+The following example uses the **MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
 
 ```vb
 Sub ExtendRange() 
@@ -81,7 +81,7 @@ End Sub
 
 ## Redefine a selection or range
 
-Use the **GetRange** method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+Use the **GetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 ## Change text
 

@@ -35,7 +35,7 @@ Use the **GetRootFolder** method to enumerate the subfolders of the root folder 
 
 The **[Parent](Outlook.Folder.Parent.md)** property of the root folder of a store returns the string "Mapi".
 
-The root folder for the Exchange Public Folder store is the folder **Public Folders**. This folder is returned by the call to  `Application.Session.GetDefaultFolder(olPublicFoldersAllPublicFolders)`.
+The root folder for the Exchange Public Folder store is the folder **Public Folders**. This folder is returned by the call to `Application.Session.GetDefaultFolder(olPublicFoldersAllPublicFolders)`.
 
  **GetRootFolder** returns an error if the service provider does not support root folders.
 

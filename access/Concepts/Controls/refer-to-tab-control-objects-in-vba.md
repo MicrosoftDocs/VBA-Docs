@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 
 # Refer to tab control objects in VBA
 
-Use a tab control to present several pages of information about a single form. A tab control is useful when your form contains information that can be sorted into two or more categories. 
+Use a tab control to present several pages of information about a single form. A tab control is useful when your form contains information that can be sorted into two or more categories.
 
 In most ways, a tab control works like other controls on a form and can be referred to as a member of a form's **[Controls](../../../api/Access.Controls.md)** collection. For example, to refer to a tab control named TabControl1 on a form named Form1, you can use the following expression:
 
@@ -27,7 +27,7 @@ Form1!TabControl1
 
 ## Refer to the Pages collection
 
-A tab control contains one or more pages. Each page in a tab control is referenced as a member of the tab control's **[Pages](../../../api/Access.TabControl.Pages.md)** collection. Each page in the **Pages** collection can be referred to by either its **[PageIndex](../../../api/Access.Page.PageIndex.md)** property setting (which reflects the page's position in the collection starting with 0), or by the page's **[Name](../../../api/Access.Page.Name.md)** property setting. 
+A tab control contains one or more pages. Each page in a tab control is referenced as a member of the tab control's **[Pages](../../../api/Access.TabControl.Pages.md)** collection. Each page in the **Pages** collection can be referred to by either its **[PageIndex](../../../api/Access.Page.PageIndex.md)** property setting (which reflects the page's position in the collection starting with 0), or by the page's **[Name](../../../api/Access.Page.Name.md)** property setting.
 
 There is no default collection for the **[TabControl](../../../api/Access.TabControl.md)** object, so when referring to items in the **Pages** collection by their index value, or to properties of the **Pages** collection, you must explicitly refer to the **Pages** collection.
 
@@ -64,7 +64,7 @@ TabControl1.Value
 
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > Because the **Value** property is the default property for a tab control, you don't have to refer to it explicitly. For this reason, you could omit `.Value` from the preceding example.
 
 Setting a tab control's **Value** property at run time changes the focus to the specified page, making it the current page. For example, the following statement moves the focus to the third page of TabControl1:
@@ -94,7 +94,7 @@ The **PageIndex** property is more typically set at design time in a page's prop
 
 ## Refer to controls on a tab control page
 
-The controls you place on a tab control page are part of the same collection as all controls on the form. For this reason, each control on a tab control page must have a name that is unique with respect to all other controls on the same form. Refer to controls on a tab control page by using the same syntax for controls on a form without a tab control. 
+The controls you place on a tab control page are part of the same collection as all controls on the form. For this reason, each control on a tab control page must have a name that is unique with respect to all other controls on the same form. Refer to controls on a tab control page by using the same syntax for controls on a form without a tab control.
 
 ```vb
 Forms!Employees!HomePhone 

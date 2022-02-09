@@ -16,25 +16,21 @@ ms.localizationpriority: medium
 
 Represents an individual slide design template. The **Design** object is a member of the **[Designs](PowerPoint.Designs.md)** and **[SlideRange](PowerPoint.SlideRange.md)** collections and the **[Master](PowerPoint.Master.md)** and **[Slide](PowerPoint.Slide.md)** objects.
 
-
 ## Remarks
 
 Use the **Design** property of the **Master**, **Slide**, or **SlideRange** objects to access a **Design** object, for example:
 
-
--  `ActivePresentation.SlideMaster.Design`
+- `ActivePresentation.SlideMaster.Design`
     
--  `ActivePresentation.Slides(1).Design`
+- `ActivePresentation.Slides(1).Design`
     
--  `ActivePresentation.Slides.Range.Design`
+- `ActivePresentation.Slides.Range.Design`
     
 Use the [Add](PowerPoint.Designs.Add.md), [Item](PowerPoint.Designs.Item.md), [Clone](PowerPoint.Designs.Clone.md), or [Load](PowerPoint.Designs.Load.md)methods of the **Designs** collection to add, refer to, clone, or load a **Design** object, respectively. For example, to add a design template, use `ActivePresentation.Designs.Add designName:="MyDesign"`
-
 
 ## Example
 
 The **Design** object's[AddTitleMaster](PowerPoint.Presentation.AddTitleMaster.md)method and [HasTitleMaster](PowerPoint.Presentation.HasTitleMaster.md)property can be used to add and / or query the status of a title slide master. For example:
-
 
 ```vb
 Sub AddQueryTitleMaster(dsn As Design)
@@ -46,9 +42,7 @@ Sub AddQueryTitleMaster(dsn As Design)
 End Sub
 ```
 
-
 ## See also
-
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 

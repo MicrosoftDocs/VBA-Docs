@@ -31,9 +31,9 @@ _expression_ A variable that returns a **[SlicerCache](Excel.SlicerCache.md)** o
 
 ## Remarks
 
-The name of the slicer cache must be unique within the workbook namespace. By default, the name assigned to a slicer cache is  `Slicer_` followed by the name of the PivotTable field that the slicer cache is associated with. 
+The name of the slicer cache must be unique within the workbook namespace. By default, the name assigned to a slicer cache is `Slicer_` followed by the name of the PivotTable field that the slicer cache is associated with. 
 
-For example, if slicer is associated with the Product Category field in the PivotTable, the default name will be `Slicer_Product_Category` (any spaces in the field name are replaced with underscore characters). If there is more than one Product Category field in the same workbook with a slicer associated with it, or some other named entity in the workbook with the name `Slicer_Product_Category`, Excel appends a number after the name to produce a unique name, such as  `Slicer_Product_Category1`.
+For example, if slicer is associated with the Product Category field in the PivotTable, the default name will be `Slicer_Product_Category` (any spaces in the field name are replaced with underscore characters). If there is more than one Product Category field in the same workbook with a slicer associated with it, or some other named entity in the workbook with the name `Slicer_Product_Category`, Excel appends a number after the name to produce a unique name, such as `Slicer_Product_Category1`.
 
 
 

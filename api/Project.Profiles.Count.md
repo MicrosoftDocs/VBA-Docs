@@ -23,7 +23,7 @@ _expression_ A variable that represents a 'Profiles' object.
 
 ## Remarks
 
-The  `Profiles.Count` statement shows the number of profiles that are defined in the **Project Server Accounts** dialog box.
+The `Profiles.Count` statement shows the number of profiles that are defined in the **Project Server Accounts** dialog box.
 
 
 ## See also

@@ -34,7 +34,7 @@ In the form region manifest XML file, specify the Locale ID (LCID) of the locale
 
 If there are multiple locales sharing the same localized user interface, specify the LCID of all these locales, separating them with semicolons, as the combined value of the **language** attribute of a single **stringOverride** element. Specify only one **stringOverride** element in a form region manifest XML file for each unique value (or combined value) of the **language** attribute.
 
-You can also specify  `all` as the value of the language attribute to specify that the user interface specified in that **stringOverride** element applies to all locales.
+You can also specify `all` as the value of the language attribute to specify that the user interface specified in that **stringOverride** element applies to all locales.
 
 The following example lists the locale IDs for Spanish-Spain and French-France as the two locales under the same **stringOverride** element:
 
@@ -50,7 +50,7 @@ In the form region manifest XML file, specify the path to a file that contains t
 
 The path to the localization file can be a full path or a path relative to the location of the form region manifest XML file that you specify when you register the form region.
 
-When specifying the location of the localization file, you can use the system variable  `%langid%` as a placeholder for the LCID of the current **stringOverride** element. For example:
+When specifying the location of the localization file, you can use the system variable `%langid%` as a placeholder for the LCID of the current **stringOverride** element. For example:
 
 ```vb
     <stringOverride language="1034" file="%langid%\UserStrings.xml" />
@@ -80,7 +80,7 @@ In the form region manifest XML file, under the **stringOverride** element, spec
 
 The value of the **formRegionName** element identifies the form region in the **Show** tab of the ribbon for the specified locale or locales. If the form region is an adjoining form region, the value is also used in the header that separates the beginning of an adjoining form region from the preceding portion of the form.
 
-The following example specifies  `Addendum` as the form region identifier of an adjoining form region localized for the English-Canada locale:
+The following example specifies `Addendum` as the form region identifier of an adjoining form region localized for the English-Canada locale:
 
 ```vb
   <stringOverride language="4105">

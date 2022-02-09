@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Control the Extent of Scrolling in a Scroll Bar
 
-The following example demonstrates the **[LargeChange](../../../api/Outlook.scrollbar.largechange.md)** and **[SmallChange](../../../api/Outlook.scrollbar.smallchange.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the ** [TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered in the **[TextBox](../../../api/Outlook.textbox.md)** controls for the **LargeChange** and **SmallChange** values.
+The following example demonstrates the **[LargeChange](../../../api/Outlook.scrollbar.largechange.md)** and **[SmallChange](../../../api/Outlook.scrollbar.smallchange.md)** properties when used with a stand-alone **[ScrollBar](../../../api/Outlook.scrollbar.md)**. The user can set the **LargeChange** and **SmallChange** values to any integer in the range of 0 to 100. This example also uses the **[TextBox.MaxLength](../../../api/Outlook.textbox.maxlength.md)** property to restrict the number of characters entered in the **[TextBox](../../../api/Outlook.textbox.md)** controls for the **LargeChange** and **SmallChange** values.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 

@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Deletes a project stored in a database.
 
-
 ## Syntax
 
 _expression_. `DeleteFromDatabase`( `_Name_`, `_UserID_`, `_DatabasePassWord_`, `_FormatID_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -46,24 +42,21 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 
  **Boolean**
 
-
 ## Remarks
 
 The Name argument must contain a file name string, or an ODBC data source name (DSN), and the project name string. The syntax for a data source is < _DataSourceName_ >\ _Projectname_. The less than (<) and greater than (>) symbols must be included, and a backslash ( \ ) must separate the data source name from the project name. The _DataSourceName_ itself can either be one of the ODBC data source names installed on the computer, a file DSN, or a path and file name for a file-based database.
 
 In the following examples, _[My Documents]_ is the full path of your My Documents folder, and _[Program Files]_ is the full path of your Program Files folder:
 
-"<Corporate SQL Database>\Factory Construction" 
+"<Corporate SQL Database>\Factory Construction"
 
 "<  _[My Documents]\_ PROJECT1.MDB>\System Roll-out Plan"
 
 "<  _[Program Files]_ \Common Files\ODBC\Data Sources\Projects Database.dsn>\Project X"
 
-
 ## Example
 
 The following example deletes projects from a Project database, as specified by the user.
-
 
 ```vb
 Sub KillProjects() 

@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Applies a set of list-formatting characteristics, optionally for a specified level.
 
-
 ## Syntax
 
 _expression_. `ApplyListTemplateWithLevel`( `_ListTemplate_` , `_ContinuePreviousList_` , `_ApplyTo_` , `_DefaultListBehavior_` , `_ApplyLevel_` )
 
 _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,8 +34,7 @@ _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' obj
 
 ## Example
 
-The following example sets the variable  `myRange` to a range in the active document, and then it verifies whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
-
+The following example sets the variable `myRange` to a range in the active document, and then it verifies whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
 
 ```vb
 Set myDoc = ActiveDocument 
@@ -53,9 +48,7 @@ If myRange.ListFormat.ListType = wdListNoNumbering Then
 End If
 ```
 
-
 ## See also
-
 
 [ListFormat Object](Word.ListFormat.md)
 

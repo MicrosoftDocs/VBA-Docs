@@ -33,8 +33,7 @@ The [identifier](../../Glossary/vbe-glossary.md#identifier) conflicts with anoth
     End Sub
   ```
 
-
-- An identifier declared at module-level conflicts with a procedure name. For example, this error occurs if the variable  `MyID` is declared at module level, and then a procedure is defined with the same name:
+- An identifier declared at module-level conflicts with a procedure name. For example, this error occurs if the variable `MyID` is declared at module level, and then a procedure is defined with the same name:
     
   ```vb
     Public MyID 
@@ -44,7 +43,7 @@ The [identifier](../../Glossary/vbe-glossary.md#identifier) conflicts with anoth
   ```
 
   In this case, you must change one of the names because qualification with a common module name would not resolve the ambiguity. Procedure names are **Public** by default, but variable names are **Private** unless specified as **Public**.
-    
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

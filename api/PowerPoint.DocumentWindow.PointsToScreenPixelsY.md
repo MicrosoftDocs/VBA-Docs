@@ -39,7 +39,7 @@ Single
 
 ## Example
 
-This example converts the width and height of the selected text frame bounding box from points to pixels, and returns the values to  `myXparm` and `myYparm`.
+This example converts the width and height of the selected text frame bounding box from points to pixels, and returns the values to `myXparm` and `myYparm`.
 
 
 ```vb

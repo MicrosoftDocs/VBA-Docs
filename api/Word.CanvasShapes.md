@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.CanvasShapes
 ms.assetid: f4b37915-7fde-2a21-0df0-fc3c97983900
-ms.date: 06/08/2017
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -19,8 +19,7 @@ Use the **CanvasItems** property of either a **[Shape](Word.Shape.md)** or **[Sh
 
 ## Remarks
 
-To add shapes to a drawing canvas, use the following methods of the **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)**, **[AddConnector](Word.CanvasShapes.AddConnector.md)** **[AddCurve](Word.CanvasShapes.AddCurve.md)**, **[AddLabel](Word.CanvasShapes.AddLabel.md)**, **[AddLine](Word.CanvasShapes.AddLine.md)**, **[AddPicture](Word.CanvasShapes.AddPicture.md)**, **[AddPolyline](Word.CanvasShapes.AddPolyline.md)**, **[AddShape](Word.CanvasShapes.AddShape.md)**, **[AddTextbox](Word.CanvasShapes.AddTextbox.md)**, **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)**, or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
-
+To add shapes to a drawing canvas, use the following methods of the **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)**, **[AddConnector](Word.CanvasShapes.AddConnector.md)**, **[AddCurve](Word.CanvasShapes.AddCurve.md)**, **[AddLabel](Word.CanvasShapes.AddLabel.md)**, **[AddLine](Word.CanvasShapes.AddLine.md)**, **[AddPicture](Word.CanvasShapes.AddPicture.md)**, **[AddPolyline](Word.CanvasShapes.AddPolyline.md)**, **[AddShape](Word.CanvasShapes.AddShape.md)**, **[AddTextbox](Word.CanvasShapes.AddTextbox.md)**, **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)**, or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
 
 ```vb
 Sub AddCanvasShapes() 
@@ -45,8 +44,6 @@ Sub AddCanvasShapes()
  End With 
 End Sub
 ```
-
-<br/>
 
 Use **CanvasItems** (_index_), where _index_ is the name or the index number, to return a single shape in the **CanvasShapes** collection. The following example sets the **Line** and **Fill** properties and vertically flips the third shape in a drawing canvas.
 
@@ -85,7 +82,6 @@ Each shape is assigned a default name when it is created. For example, if you ad
 - [Count](Word.CanvasShapes.Count.md)
 - [Creator](Word.CanvasShapes.Creator.md)
 - [Parent](Word.CanvasShapes.Parent.md)
-
 
 ## See also
 

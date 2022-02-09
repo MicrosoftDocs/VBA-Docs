@@ -66,7 +66,7 @@ Other important rules for pattern matching include the following:
 - An exclamation point (**!**) at the beginning of _charlist_ means that a match is made if any character except the characters in _charlist_ is found in _string_. When used outside brackets, the exclamation point matches itself.
 - A hyphen (**-**) can appear either at the beginning (after an exclamation point if one is used) or at the end of _charlist_ to match itself. In any other location, the hyphen is used to identify a range of characters.
 - When a range of characters is specified, they must appear in ascending sort order (from lowest to highest). `[A-Z]` is a valid pattern, but `[Z-A]` is not.
-- The character sequence  `[]` is considered a zero-length string ("").
+- The character sequence `[]` is considered a zero-length string ("").
 
 In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The **Like** operator recognizes that the single special character and the two individual characters are equivalent.
 

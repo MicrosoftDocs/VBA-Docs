@@ -11,23 +11,20 @@ ms.localizationpriority: medium
 
 When you use Visual Basic for Applications (VBA) code to open a form or report, you may want to specify which records to display. You can specify the records to display in the form or report in several ways. A common approach is to display a custom dialog box in which the user enters criteria for the underlying query of the form or report. To get the criteria, you refer to the controls in the dialog box. The following sections describe three ways you can use criteria entered in a custom dialog box to filter records.
 
-
 ## Using the wherecondition argument
 
 The  _wherecondition_ argument of the **[OpenForm](../../../api/Access.DoCmd.OpenForm.md)** or **[OpenReport](../../../api/Access.DoCmd.OpenReport.md)** method or action is the simplest way to get criteria in situations where a user is providing only one value. For example, you could display a form that prompts users to select an order ID for the invoice they want to print. If you are using an event procedure, you can apply a filter that displays only one record by adding an argument to the **OpenReport** method, as shown in the following line of code:
-
 
 ```vb
 DoCmd.OpenReport "Invoice", acViewPreview, , "OrderID = " & OrderID 
 
 ```
 
-The  `"OrderID = "` in the filter expression refers to the OrderID field in the Invoice report's underlying query. The OrderID on the right side of the expression refers to the value the user selected from the OrderID list in the dialog box. The expression concatenates the two, causing the report to include only the invoice for the record the user selected.
+The `"OrderID = "` in the filter expression refers to the OrderID field in the Invoice report's underlying query. The OrderID on the right side of the expression refers to the value the user selected from the OrderID list in the dialog box. The expression concatenates the two, causing the report to include only the invoice for the record the user selected.
 
 The  _wherecondition_ argument is applied only by the event procedure specified for the **OnClick** event of the button that runs the **OpenForm** or **OpenReport** method. This gives you the flexibility of using any number of different dialog boxes to open the same form or report and applying different sets of criteria depending on what the user wants to do. For example, the user may want to print an invoice for a certain customer or view orders only for a certain product.
 
 Use the  _wherecondition_ argument to set criteria for more than one field, but if you do, the argument setting quickly becomes long and complicated. In those situations, specifying criteria in a query may be easier.
-
 
 ## Using a query as a filter
 
@@ -36,7 +33,6 @@ A separate query, sometimes called a filter query, can refer to the controls on 
 After you create and save the query to use as a filter, set the  _filtername_ argument of the **OpenReport** method or action to the name of the filter query. The _filtername_ argument applies the specified filter query each time the **OpenReport** method runs.
 
 Using a query as a filter to set the criteria has advantages similar to using the  _wherecondition_ argument of the **OpenForm** or **OpenReport** method. A filter query gives you the same flexibility of using more than one dialog box to open the same form or report and applying different sets of criteria depending on what a user wants to do.
-
 
 ## Directly referring to dialog box controls in the underlying query of a form or report
 

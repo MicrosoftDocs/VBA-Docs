@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp.md)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 
@@ -38,15 +38,10 @@ The **IPictureDisp** object specified by _Picture_ must have its **Type** proper
 
 You can set a custom icon for a search folder and for all folders that don't represent a default or a special folder. If you attempt to set a custom icon for a folder that belongs to one of the following groups of folders, **SetCustomIcon** will return an error:
 
-
-- Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
-    
-- Special folders (as listed by the **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration)
-    
-- Exchange public folders
-    
-- Root folder of any Exchange mailbox
-    
+- Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)   
+- Special folders (as listed by the **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration)    
+- Exchange public folders    
+- Root folder of any Exchange mailbox    
 - Hidden folders
     
 You can only call **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. 
@@ -55,15 +50,11 @@ The custom folder icon that this method provides does not persist beyond the run
 
 The custom folder icon does not appear in other Exchange clients such as Outlook Web Access, nor does it appear in Outlook running on a Windows Mobile device.
 
-
 ## Example
 
-The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
+The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 The following code fragment in C# sets the icons for folders that appear in the **Solutions** module. The code fragment depends on the `PictureDispConverter` class that is also illustrated below.
-
-
-
 
 ```cs
 //Get the icons for the solution 
@@ -91,10 +82,7 @@ solutionContacts.SetCustomIcon(contactsPict);
 solutionTasks.SetCustomIcon(tasksPict);
 ```
 
-The following is the definition of the  `PictureDispConverter` class.
-
-
-
+The following is the definition of the `PictureDispConverter` class.
 
 ```cs
 using System; 
@@ -179,8 +167,5 @@ public static class PictureDispConverter
 } 
 
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

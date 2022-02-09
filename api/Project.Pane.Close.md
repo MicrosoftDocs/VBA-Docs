@@ -13,18 +13,15 @@ ms.localizationpriority: medium
 
 Closes the bottom pane of a window.
 
-
 ## Syntax
 
 _expression_.**Close**
 
  _expression_ An expression that returns a [Pane](./Project.Pane.md) object.
 
-
 ## Return value
 
  **Nothing**
-
 
 ## Example
 
@@ -39,16 +36,11 @@ The following commands exercise the **Close** method for **Pane** objects.
     
 4. Activate the top pane.
     
-5. The  `ActivePane.Close` command does nothing, because the bottom pane is not active.
+5. The `ActivePane.Close` command does nothing, because the bottom pane is not active.
     
 6. Activate the bottom pane.
     
-7. Close the bottom pane with the  `ActivePane.Close` command.
-    
-
-
-
-
+7. Close the bottom pane with the `ActivePane.Close` command.
 
 ```vb
 ActiveProject.ViewsCombination.Add(Name:="Combo View", TopView:="Gantt Chart", BottomView:="Resource Sheet").Apply 

@@ -22,7 +22,7 @@ End Sub
 ```
 
 
-A better way to create a workbook is to assign it to an object variable. In the following example, the **[Workbook](../../../api/Excel.Workbook.md)** object returned by the **Add** method is assigned to an object variable, `newBook`. Next, several properties of  `newBook` are set. You can easily control the new workbook by using the object variable.
+A better way to create a workbook is to assign it to an object variable. In the following example, the **[Workbook](../../../api/Excel.Workbook.md)** object returned by the **Add** method is assigned to an object variable, `newBook`. Next, several properties of `newBook` are set. You can easily control the new workbook by using the object variable.
 
 
 

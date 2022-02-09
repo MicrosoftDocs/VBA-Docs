@@ -5,7 +5,7 @@ f1_keywords:
 - vbapj.chm131624
 ms.prod: project-server
 ms.assetid: f2705f1d-7252-41ec-848b-f7f9cc26663e
-ms.date: 06/08/2017
+ms.date: 02/06/2022
 ms.localizationpriority: medium
 ---
 
@@ -27,12 +27,12 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _x_|Required|**Long**|The X coordinate of the chart element.|
 | _y_|Required|**Long**|The Y coordinate of the chart element.|
 | _ElementID_|Required|**Long**|When the **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#remarks).|
-| _Arg1_|Required|**Long**|When the method returns, _Arg1_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
-| _Arg2_|Required|**Long**|When the method returns, _Arg2_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
+| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
+| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
 
 ## Return value
 
-The **GetChartElement** method returns **Nothing**. Returned values are in the _ElementID_, _Arg1_, and _Arg2_ parameters.
+The **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
 
 ## Remarks
 
@@ -41,7 +41,7 @@ The **GetChartElement** method returns **Nothing**. Returned values are in the _
 
 The **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
 
-The value of _ElementID_ after the method returns determines whether _Arg1_ and _Arg2_ contain any information (see Table 1).
+The value of  _ElementID_ after the method returns determines whether _Arg1_ and _Arg2_ contain any information (see Table 1).
 
 **Table 1. Information in Arg1 and Arg2, based on the element ID**
 
@@ -79,7 +79,6 @@ The value of _ElementID_ after the method returns determines whether _Arg1_ and 
 |**xlTrendline**|8|SeriesIndex|TrendLineIndex|
 |**xlXErrorBars**|10|SeriesIndex|None|
 |**xlYErrorBars**|11|SeriesIndex|None|
-
 
 Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.
 

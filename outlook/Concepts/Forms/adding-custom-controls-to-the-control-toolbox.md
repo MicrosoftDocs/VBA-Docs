@@ -19,7 +19,7 @@ For more information, see the following topics:
 
 - [How to: Add a Modified Control to the Control Toolbox](../Specifying-Form-Behavior/add-a-modified-control-to-the-control-toolbox.md)
     
-- [Adding Other Custom Controls to the Control Toolbox](../Specifying-Form-Behavior/add-other-custom-controls-to-the-control-toolbox.md)
+- [Add Other Custom Controls to the Control Toolbox](../Specifying-Form-Behavior/add-other-custom-controls-to-the-control-toolbox.md)
     
 - [Form Regions](../Outlook-Forms/form-regions.md)
 

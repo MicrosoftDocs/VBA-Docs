@@ -21,7 +21,7 @@ Use most Microsoft Excel worksheet functions in your Visual Basic statements. Fo
 
 In Visual Basic, the Excel worksheet functions are available through the **WorksheetFunction** object.
 
-The following **Sub** procedure uses the **Min** worksheet function to determine the smallest value in a range of cells. First, the variable `myRange` is declared as a **Range** object, and then it is set to range A1:C10 on Sheet1. Another variable, `answer`, is assigned the result of applying the **Min** function to `myRange`. Finally, the value of  `answer` is displayed in a message box.
+The following **Sub** procedure uses the **Min** worksheet function to determine the smallest value in a range of cells. First, the variable `myRange` is declared as a **Range** object, and then it is set to range A1:C10 on Sheet1. Another variable, `answer`, is assigned the result of applying the **Min** function to `myRange`. Finally, the value of `answer` is displayed in a message box.
 
 ```vb
 Sub UseFunction() 

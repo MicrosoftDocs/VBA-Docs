@@ -28,7 +28,7 @@ The following code example uses the **LoadFromFile** method to load an employee'
 
 
 ```vb
-   '  Instantiate the parent recordset.  
+   '  Instantiate the parent recordset.
    Set rsEmployees = db.OpenRecordset("Employees") 
   
    … Code to move to desired employee 
@@ -56,7 +56,7 @@ The following code example shows how to use the **SaveToFile** method to save al
 
 
 ```vb
-'  Instantiate the parent recordset.  
+'  Instantiate the parent recordset.
    Set rsEmployees = db.OpenRecordset("Employees") 
   
    … Code to move to desired employee 

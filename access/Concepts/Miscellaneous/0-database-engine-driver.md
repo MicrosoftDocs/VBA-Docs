@@ -10,7 +10,7 @@ ms.date: 06/08/2019
 ms.localizationpriority: medium
 ---
 
-# 0 Database Engine driver 
+# 0 Database Engine driver
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,6 +19,7 @@ When you install the Microsoft Access database engine database driver, the Setup
 ## Microsoft Jet Engine initialization settings
 
 The **Access Connectivity Engine\Engines** folder includes initialization settings for the msjet40.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
+
 ```jet
     SystemDB = <path>\System.mdb
 
@@ -26,6 +27,7 @@ The **Access Connectivity Engine\Engines** folder includes initialization settin
 
     PrevFormatCompactWithUNICODECompression=1
 ```
+
 The Microsoft Access database engine uses the following entries.
 
 |**Entry**|**Description**|
@@ -35,6 +37,7 @@ The Microsoft Access database engine uses the following entries.
 |PrevFormatCompactWithUNICODECompression|Microsoft Access database engine databases use the Unicode character set to store textual data. Compressing the Unicode data can significantly improve the performance of the database because of the reduced number of page read/write operations that are needed afterwards. This key determines if databases created by the Microsoft Jet database engine version 3.x or earlier should be created with compressed Unicode or un-compressed Unicode.<br/><br/>**NOTE** This setting does not apply to compacting Microsoft Access database engine databases. Microsoft Access database engine databases will default to keep the compression settings with which they were created.|
 
 The **Access Connectivity Engine\Engines\ACE** folder includes initialization settings for the Ace.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
+
 ```jet
 
     FlushTransactionTimeout=500
@@ -63,11 +66,9 @@ The **Access Connectivity Engine\Engines\ACE** folder includes initialization se
 
     PagesLockedToTableLock=0
 
-<br/>
 
 The Microsoft Access database engine uses the following entries.
 
-<br/>
 ```
 
 |Entry|Description|
@@ -86,10 +87,10 @@ The Microsoft Access database engine uses the following entries.
 |SharedAsyncDelay|Specifies the length of time, in milliseconds, to defer an asynchronous flush of a shared database. The default value is 0. Values are of type REG_DWORD.|
 |PagesLockedToTableLock|During bulk operations it is often more efficient to lock a whole table, instead of obtaining locks for each individual page of the table as you try to access it. This setting specifies the number of pages that the Microsoft Access database engine will allow to be locked in any particular transaction before the Access database engine attempts to escalate to an exclusive table lock The default value of 0 indicates that the Access database engine will never automatically change from page locking to table locking.|
 
-> [!NOTE] 
+> [!NOTE]
 > This setting should be used carefully. If a database is needed for multi-user access, locking a whole table could cause locking conflicts for other users. This would be especially severe if a small number was used for this setting. Even when a larger number was used, such as 25 or 50, the operation for other users might become unpredictable.
 
-> [!NOTE] 
+> [!NOTE]
 > When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
 
 ## See also

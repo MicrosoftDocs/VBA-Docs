@@ -17,7 +17,7 @@ In Office, 32-bit Office and 64-bit Office are available via Click-to-Run. The d
 
 To check whether Outlook was delivered by Click-to-Run on a client computer:
 
-- Verify if the  `VirtualOutlook` key exists in the following location in the Windows registry:
+- Verify if the `VirtualOutlook` key exists in the following location in the Windows registry:
     
     HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\VirtualOutlook
 

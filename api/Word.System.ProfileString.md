@@ -33,7 +33,7 @@ This example retrieves and displays the startup path stored in the Windows regis
 MsgBox System.ProfileString("Options", "STARTUP-PATH")
 ```
 
-This example sets and returns the value for an entry in the Windows registry (the SubkeyName subkey is added below  `HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word`).
+This example sets and returns the value for an entry in the Windows registry (the SubkeyName subkey is added below `HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word`).
 
 
 

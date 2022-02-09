@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Moves a folder to the specified destination folder.
 
-
 ## Syntax
 
 _expression_. `MoveTo`( `_DestinationFolder_` )
 
 _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +30,11 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 ## Remarks
 
-Setting the REG_MULTI_SZ value, `DisableCrossAccountCopy`, in  `HKCU\Software\Microsoft\Office\14.0\Outlook` in the Windows registry has the side effect of disabling this method.
-
+Setting the REG_MULTI_SZ value, `DisableCrossAccountCopy`, in `HKCU\Software\Microsoft\Office\14.0\Outlook` in the Windows registry has the side effect of disabling this method.
 
 ## Example
 
 This Visual Basic for Applications (VBA) example uses the **MoveTo** method to move the "My Test Contacts" folder in the default Contacts folder to the Inbox folder.
-
 
 ```vb
 Sub MoveFolder() 
@@ -56,9 +50,7 @@ Sub MoveFolder()
 End Sub
 ```
 
-
 ## See also
-
 
 [Folder Object](Outlook.Folder.md)
 

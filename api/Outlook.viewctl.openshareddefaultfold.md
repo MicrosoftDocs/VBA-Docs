@@ -11,22 +11,17 @@ ms.localizationpriority: medium
 
 Displays a specified user's default folder in the control.
 
-
 ## Version Information
 
  **Version Added:** Outlook 2010
 
-
 ## Syntax
 
-_expression_. **OpenSharedDefaultFolder** **_(bstrRecipient, FolderType)_**
+_expression_. **OpenSharedDefaultFolder _(bstrRecipient, FolderType)_**
 
 _expression_ A variable that represents a **ViewCtl** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

@@ -8,6 +8,7 @@ ms.localizationpriority: medium
 
 
 # Chart.SaveChartTemplate method (Project)
+
 Saves a custom chart template to the list of available chart templates or to a file.
 
 ## Syntax
@@ -16,10 +17,7 @@ _expression_. `SaveChartTemplate` _(bstrFileName)_
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -30,16 +28,13 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 
  **Nothing**
 
-
 ## Remarks
 
 By default, the **SaveChartTemplate** method saves the active chart to the user's chart template directory (for example `C:\Users\username.DOMAIN\AppData\Roaming\Microsoft\Templates\Charts`). If a UNC file path or URL is specified, the chart is saved to the specified location.
 
-
 ## Example
 
-The following example saves the chart template in the  `C:\Project\VBA\Samples\My chart template.crtx` file.
-
+The following example saves the chart template in the `C:\Project\VBA\Samples\My chart template.crtx` file.
 
 ```vb
 Sub SaveATemplate()
@@ -53,9 +48,7 @@ Sub SaveATemplate()
 End Sub
 ```
 
-
 ## See also
-
 
 [Chart Object](Project.chart.md)
 [SetDefaultChart Method](Project.chart.setdefaultchart.md)

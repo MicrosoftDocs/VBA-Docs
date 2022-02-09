@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # AcFindMatch enumeration (Access)
 
-Specifies where the data is located in the field. 
+Specifies where the data is located in the field.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Returns a **Footnote** object that represents a footnote added to a range.
 
-
 ## Syntax
 
 _expression_.**Add** (_Range_, _Reference_, _Text_)
 
 _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,16 +34,13 @@ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.
 
 Footnote
 
-
 ## Remarks
 
-To specify a symbol for the Reference argument, use the syntax  `{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the **Font** box in the **Symbol** dialog box (**Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
-
+To specify a symbol for the Reference argument, use the syntax{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the **Font** box in the **Symbol** dialog box (**Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
 
 ## Example
 
 The following code example adds an automatically-numbered footnote at the end of the selection.
-
 
 ```vb
 ActiveDocument.Footnotes.Add Range:= Selection.Range , _ 
@@ -56,18 +49,13 @@ ActiveDocument.Footnotes.Add Range:= Selection.Range , _
 
 The following code example adds a footnote that uses a custom symbol for the reference mark.
 
-
-
-
 ```vb
 ActiveDocument.Footnotes.Add Range:= Selection.Range , _ 
  Text:= "More information in the full report.", _ 
  Reference:= "{Symbol -3998}"
 ```
 
-
 ## See also
-
 
 [Footnotes Collection Object](Word.footnotes.md)
 

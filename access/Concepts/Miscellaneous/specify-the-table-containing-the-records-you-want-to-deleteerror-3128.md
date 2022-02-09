@@ -12,17 +12,13 @@ ms.localizationpriority: medium
 
 # Specify the table containing the records you want to delete. (Error 3128)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 You tried to execute a delete query but the query does not specify the name of the table containing the records you want to delete.
 
 Possible cause:
 
-
 - You did not type an asterisk for each table in the ALL, DISTINCT, DISTINCTROW predicates. Instead, you typed field names (for example, `Customers.Address` instead of `Customers.*`).
-    
 
 ## See also
 

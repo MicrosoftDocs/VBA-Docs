@@ -14,9 +14,7 @@ ms.localizationpriority: medium
 
 When you nest **For...Next** loops, you must use different control[variables](../../Glossary/vbe-glossary.md#variable) in each one. This error has the following cause and solution:
 
-
-
-- An inner **For** loop uses the same counter as an enclosing **For** loop. Check nested loops for repetition. For example, if the outer loop uses `For Count = 1 To 25`, the inner loops can't use  `Count` as the control variables.
+- An inner **For** loop uses the same counter as an enclosing **For** loop. Check nested loops for repetition. For example, if the outer loop uses `For Count = 1 To 25`, the inner loops can't use `Count` as the control variables.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

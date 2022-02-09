@@ -146,7 +146,7 @@ number [unit, flag]
 | _unit_|The units in which  _number_ originally is expressed.|
 | _flag_|The measurement system to use when the implicit-value unit is displayed. See below for values.|
 
-The element  _flag_ is one of the following letters (either uppercase or lowercase) indicating the measurement system that should be used when the implicit-value unit is displayed.
+The element _flag_ is one of the following letters (either uppercase or lowercase) indicating the measurement system that should be used when the implicit-value unit is displayed.
 
 |**_flag_**|**Measurement system**|**Example**|
 |:-----|:-----|:-----|

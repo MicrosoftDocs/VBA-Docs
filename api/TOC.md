@@ -9527,6 +9527,7 @@
 #### [WorkbookQuery object](Excel.workbookquery.md)
 ##### Methods
 ###### [Delete](Excel.workbookquery.delete.md)
+###### [Refresh](Excel.workbookquery.refresh.md)
 ##### Properties
 ###### [Application](Excel.workbookquery.application.md)
 ###### [Creator](Excel.workbookquery.creator.md)

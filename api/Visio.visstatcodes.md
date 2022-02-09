@@ -14,9 +14,7 @@ ms.localizationpriority: medium
 
 Status information codes returned by the **Stat** property of various objects.
 
-
-
-|** **Constant****|Value|Description|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visStatAppHasShutdown**|1|The application has stopped.|
 | **visStatClosed**|8|Object is closed.|

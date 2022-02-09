@@ -29,10 +29,9 @@ This topic lists the properties that you cannot add to a **[Table](../../../api/
 |Multi-valued properties, such as **Categories**, **[Children](../../../api/Outlook.ContactItem.Children.md)**, **[Companies](../../../api/Outlook.ContactItem.Companies.md)**, and **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**|Supported|Although both Jet and DASL filters both support multi-valued properties, use content indexing in DASL filters for more efficient filtering. For more information, see [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md).|The format of the values of a multi-valued property in a **Table** depends on whether the property was added with its explicit built-in name or with a name referencing its namespace. If the property is added with its explicit built-in name, the value in the **Table** is a comma-delimited string. Otherwise, the value is a variant array. For more information, see [How to: Access the Values of a Multi-valued Property in a Table](access-the-values-of-a-multi-valued-property-in-a-table.md).|
 |Properties returning an object, such as **Attachments**, **Parent**, **Recipients**, **RecurrencePattern**, and **UserProperties**.|Not supported if property is referenced by its explicit built-in name; supported if property is referenced by its namespace.|Not supported if property is expressed in a Jet query; supported if property is expressed in a DASL query.||
 
-
 ## Unsupported Computed Properties
 
-If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you'll get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in  `object.property`):
+If you attempt to add one of the computed properties listed below using **Columns.Add**, referencing the property either by the explicit property name or by namespace, you'll get the error, **IDS_ERR_BLOCKED_PROPERTY**. To determine the value of these properties, obtain the item object using its Entry ID and then use the item object to determine the property value (as in `object.property`):
 
 
 - **AutoResolvedWinner**
@@ -83,10 +82,7 @@ If you attempt to add one of the computed properties listed below using **Column
     
 - **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
-
-
 If you attempt to use one of the computed properties listed below in a Jet filter (referencing the property by its explicit property name) for **Table.Restrict**, you'll get the error, **IDS_ERR_ES_INVALIDRESTRICTION**: 
-
 
 - **AutoResolvedWinner**
     
@@ -174,9 +170,7 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 - **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
-
- **Note** For a computed property such as **TaskSubject** or **IsMarkedAsTask**, you cannot add it to a **Table** using **Columns.Add** or filter it using **Table.Restrict**, if you reference the property with the explicit property name. However, you can add or filter on the property if you reference it by namespace, as in the following code sample in Visual Basic for Applications: 
-
+**Note** For a computed property such as **TaskSubject** or **IsMarkedAsTask**, you cannot add it to a **Table** using **Columns.Add** or filter it using **Table.Restrict**, if you reference the property with the explicit property name. However, you can add or filter on the property if you reference it by namespace, as in the following code sample in Visual Basic for Applications:
 
 
 ```vb

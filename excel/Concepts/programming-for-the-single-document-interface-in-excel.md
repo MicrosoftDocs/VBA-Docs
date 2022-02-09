@@ -67,7 +67,7 @@ In this article, we will discuss the implementation of the SDI in the Excel UI a
 
 ## What's changed in the User Interface
 
-If you look closely after opening an Excel workbook, you no longer see the window state buttons (_minimize_, _maximize_, and _restore_) in the upper-right corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
+If you look closely after opening an Excel workbook, you no longer see the window state buttons ( _minimize_,  _maximize_, and  _restore_) in the upper-right corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
 
 **Figure 3. Windows state UI in Excel 2010**
 
@@ -110,11 +110,11 @@ OR
 
 - Cache the state of the controls so that when the user switches to another workbook, that event can be captured and the controls updated as part of the window switch.
 
-Additionally, consider the case where you develop code to add a custom UI control by using  `Application.Commandbar` to access the ribbon. When you try to access that control at a later time, your code will need to account for the fact that the active workbook may not be the same workbook where you added the control.
+Additionally, consider the case where you develop code to add a custom UI control by using `Application.Commandbar` to access the ribbon. When you try to access that control at a later time, your code will need to account for the fact that the active workbook may not be the same workbook where you added the control.
 
 ## Considerations for VBA code
 
-With the shift to SDI, all of the Excel _application-level_ window methods, events, and properties remain unaffected and work the way they have in previous versions of Excel (for example, `Application.ActiveWindow`, `Application.Windows`, and so on).
+With the shift to SDI, all of the Excel  _application-level_ window methods, events, and properties remain unaffected and work the way they have in previous versions of Excel (for example, `Application.ActiveWindow`, `Application.Windows`, and so on).
 
 In Excel, all of the _workbook-level_ window methods, events, and properties now operate on the top level window (for example, the `Workbook.WindowActivate` event is still triggered when you switch to a particular workbook, the `Workbook.Resize` event is still triggered when that workbook is resized, and `ThisWorkbook.Windows(1).Height`, `ThisWorkbook.Windows(1).Width`, `ThisWorkbook.Windows(1).Left`, `ThisWorkbook.Windows(1).Right`, `ThisWorkbook.Windows(1).Minimize`, `ThisWorkbook.Windows(1).Maximize` and so forth will operate on the top level window for the active workbook).
 
@@ -169,13 +169,13 @@ The following section provides workarounds for issues you may encounter when usi
   ```
 
   Another option is to open the workbook window, activate any other window, and then reactivate the workbook window. You should now be able to close the workbook using the **Close** button.
-    
-- Assume that your VBA code opens multiple workbooks and uses the **DataEntryMode** property to control data entry and workbook closure. In the Excel SDI model, because each workbook is contained in its own process, the **DataEntryMode** property used in one workbook does not recognize the existence of other workbook and therefore has little to no effect on their interaction. To work around this issue, there are a couple of options. You can hide the extra workbooks or worksheets by using `Window.Visible = False` or `Sheet.Visible = False`, respectively. You can also detect and cancel any closing events by using `Workbook.BeforeClose(Cancel) = True`.
-    
+
+- Assume that your VBA code opens multiple workbooks and uses the **DataEntryMode** property to control data entry and workbook closure. In the Excel SDI model, because each workbook is contained in its own process, the **DataEntryMode** property used in one workbook does not recognize the existence of other workbook and therefore has little to no effect on their interaction. To work around this issue, there are a couple of options. You can hide the extra workbooks or worksheets by using `Window.Visible = False` or `Sheet.Visible = False`, respectively. Detect and cancel any closing events by using `Workbook.BeforeClose(Cancel) = True`.
+
 - Toolbars added to Excel workbooks via command bar code and XLA files will not be displayed until after you close and reopen the workbook. Using command bars to customize the UI was deprecated starting in Excel 2007. The optimal solution is to customize the ribbon UI by using XML files as described in detail in the article  [Customizing the 2007 Office Fluent Ribbon for Developers](../../api/overview/Excel.md)
-    
-  Another option is to use an application-level event to detect new workbooks opening and then use  `Application.Windows` instead of workbooks to add the ribbon control. The following is sample code that can be used to accomplish this.
-    
+
+  Another option is to use an application-level event to detect new workbooks opening and then use `Application.Windows` instead of workbooks to add the ribbon control. The following is sample code that can be used to accomplish this.
+
   ```vb
     Private Sub Workbook_Open()
         ToolBarsAdd

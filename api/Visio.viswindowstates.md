@@ -14,9 +14,7 @@ ms.localizationpriority: medium
 
 Window-state codes passed to and returned by the **Window.WindowState** property.
 
-
-
-|Constant|Value|** **Description****|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visWSActive**|&H4000000|Active window.|
 | **visWSAnchorAutoHide**|&H200|Anchor window with AutoHide on.|

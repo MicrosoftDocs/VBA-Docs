@@ -19,19 +19,14 @@ The **Required** property for this field is set to **Yes**, prohibiting the entr
 [!include[Add-ins note](~/includes/addinsnote.md)]
 
 ## What is a null?
-<a name="sectionSection0"> </a>
 
 A **Null** is a value you can enter in a field or use in expressions or queries to indicate missing or unknown data. In Microsoft Visual Basic, the **Null** keyword indicates a **Null** value. Some fields, such as primary key fields, cannot contain **Null**.
 
-
 ## What is the required property?
-<a name="sectionSection1"> </a>
 
 Use the **Required** property to specify whether a value is required in a field. If this property is set to **Yes**, when you enter data in a record, you must enter a value in the field or in any control bound to the field, and the value cannot be **Null**. For example, you might want to be sure that a LastName control has a value for each record.
 
-
 ## Solution
-<a name="sectionSection2"> </a>
 
 This problem has the following possible solutions:
 
@@ -43,7 +38,6 @@ This problem has the following possible solutions:
     
 
 ### To remove the required property
-<a name="sectionSection3"> </a>
 
 1. In the Navigation Pane, right-click the name of the table that contains the required field, and then click **Design View**.
     
@@ -55,9 +49,7 @@ This problem has the following possible solutions:
     
 5. To save your changes, click **Save** on the **Quick Access Toolbar**, or press CTRL+S.
     
-
-## Setting the AllowZeroLength property
-<a name="sectionSection4"> </a>
+## Set the AllowZeroLength property
 
 Use the **Required** and **AllowZeroLength** properties to differentiate between information that does not exist (stored as a zero-length string (" ") in the field) and information that may exist but is unknown (stored as a **Null** value in the field). If you set the **AllowZeroLength** property to Yes, a zero-length string will be a valid entry in the field regardless of the **Required** property setting. If you set **Required** to **Yes** and **AllowZeroLength** to **No**, you must enter a value in the field, and a zero-length string will not be a valid entry.
 

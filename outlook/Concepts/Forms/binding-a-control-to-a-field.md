@@ -13,12 +13,12 @@ If you have created a control using the **Control Toolbox** and you would like t
 
 1. In the Forms Designer, right-click the control you want to bind to a field and then click **Properties** on the shortcut menu.
 
-2. On the **Value** tab, click **Choose Field**, point to a field set, and then click the field to which you want to bind the control. If you would like to bind the control to a new field that you create, click **w**. In the **Field** box, type the name of your new field in the **Name**: area. Click **OK** in the **New Field** box.
+2. On the **Value** tab, click **Choose Field**, point to a field set, and then click the field to which you want to bind the control. If you would like to bind the control to a new field that you create, click **New**. In the **Field** box, type the name of your new field in the **Name**: area. Click **OK** in the **New Field** box.
 
 3. Click **OK** in the **Properties** box.
 
->[!NOTE]
->If you bind a **[CheckBox](../../../api/Outlook.checkbox.md)**, **[ComboBox](../../../api/Outlook.combobox.md)**, **[ListBox](../../../api/Outlook.listbox.md)**, or **[OptionButton](../../../api/Outlook.optionbutton.md)** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event of the item to detect the change via code, as shown in the following example:
+> [!NOTE]
+> If you bind a **[CheckBox](../../../api/Outlook.checkbox.md)**, **[ComboBox](../../../api/Outlook.combobox.md)**, **[ListBox](../../../api/Outlook.listbox.md)**, or **[OptionButton](../../../api/Outlook.optionbutton.md)** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event of the item to detect the change via code, as shown in the following example:
 
 ```vb
 Sub Item_PropertyChange(ByVal Name) 

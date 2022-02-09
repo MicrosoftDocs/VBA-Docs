@@ -17,7 +17,7 @@ The following code sample in Visual C# shows how to reference **PidTagInternetMa
 https://schemas.microsoft.com/mapi/proptag/0x59020003
 ```
 
-where  `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
+where `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
 
 ```cs
 private void SendMail_Click() 

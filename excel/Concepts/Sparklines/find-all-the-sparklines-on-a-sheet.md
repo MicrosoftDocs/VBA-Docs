@@ -15,9 +15,6 @@ This example requires a user form named **SparklineForm**, a list box on the use
 
 In the Visual Basic Editor, insert a **Module** and copy and paste the following code. This code shows the user form.
 
-
-
-
 ```vb
 Sub ShowUserForm()
     SparklineForm.Show
@@ -28,8 +25,6 @@ In the Visual Basic Editor, right-click the **SparklineForm** form, select **Vie
 The **UserForm_Activate** procedure iterates through all the sparkline groups on the active sheet and gets the addresses of the sparkline groups by using the [Address](../../../api/Excel.Range.Address.md) property of the [Range](../../../api/Excel.Range(object).md) object. The address is then added to the list box.
 The **SparklineListBox_Click** procedure is called when you click the address of a sparkline group in the list box. This procedure activates the selected sparkline group on the sheet by using the [Activate](../../../api/Excel.Range.Activate.md) method of the [Range](../../../api/Excel.Range(object).md) object.
 The **CloseBtn_Click** procedure is called when you click the button on the user form, and it closes the user form.
-
-
 
 ```vb
 Private Sub UserForm_Activate()
@@ -54,15 +49,9 @@ Private Sub CloseBtn_Click()
 End Sub
 ```
 
-
 ## See also
 
-
  [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
-
-
-
- <br>
  [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -11,28 +11,26 @@ ms.localizationpriority: medium
 
 This topic shows a code sample in Visual Basic for Applications (VBA) that finds appointments in the default calendar that occur strictly within the next thirty days and that contain the word "team" in the subject. The returned results include recurrent appointments.
 
-The  `FindAppts` function in the code sample carries out the search using two different queries, first searching for appointments including recurrent appointments that start and end within the date range, then searching among appointments that meet the date range criteria that have "team" in the subject. The following is an outline of the steps:
+The `FindAppts` function in the code sample carries out the search using two different queries, first searching for appointments including recurrent appointments that start and end within the date range, then searching among appointments that meet the date range criteria that have "team" in the subject. The following is an outline of the steps:
 
-1.  `FindAppts` first defines the time period to query, assigning the start time, `myStart`, as 12:00am on the current system date, and the end time, `myEnd`, as thirty days after the start time. 
+1. `FindAppts` first defines the time period to query, assigning the start time, `myStart`, as 12:00am on the current system date, and the end time, `myEnd`, as thirty days after the start time.
     
 2. It obtains all the items in the default calendar folder.
     
-3. To include all appointment items strictly within the date range including recurrent appointments, it sets **[Items.IncludeRecurrences](../../../api/Outlook.Items.IncludeRecurrences.md)** to **True** and then sorts the items by the ** [AppointmentItem.Start](../../../api/Outlook.AppointmentItem.Start.md)** property.
+3. To include all appointment items strictly within the date range including recurrent appointments, it sets **[Items.IncludeRecurrences](../../../api/Outlook.Items.IncludeRecurrences.md)** to **True** and then sorts the items by the **[AppointmentItem.Start](../../../api/Outlook.AppointmentItem.Start.md)** property.
     
-4. It builds the first query for all appointments that begin on or after  `myStart`, and end on or before  `myEnd`. This query is a Jet query.
+4. It builds the first query for all appointments that begin on or after `myStart`, and end on or before `myEnd`. This query is a Jet query.
     
 5. It applies the query to items in the default calendar folder, using the **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** method.
     
-6. It builds the second query for the appointment subject containing the word "team". It uses the  `like` keyword for substring matching in a DAV Searching and Locating (DASL) query.
+6. It builds the second query for the appointment subject containing the word "team". It uses the `like` keyword for substring matching in a DAV Searching and Locating (DASL) query.
     
 7. It applies the second query to the set of appointments that meet the date range criteria, returned from the first query.
     
 8. It sorts and prints the start time of all the final returned appointments.
-    
-
-Note that if you want to include appointment items that overlap and don't fall strictly within the specific date range, you should change the first query to one that have appointments begin on or before  `myEnd`, and end on or after  `myStart`. For more information, see [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md).
 
 
+Note that if you want to include appointment items that overlap and don't fall strictly within the specific date range, you should change the first query to one that have appointments begin on or before `myEnd`, and end on or after `myStart`. For more information, see [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md).
 
 ```vb
 Sub FindAppts()
