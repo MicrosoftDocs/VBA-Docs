@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 This topic describes how to use the **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
 
-1. Look for the address list that corresponds with the Contacts folder.The **SelectNamesDialog** object displays entires in a dialog box based on an **[AddressList](../../../api/Outlook.AddressList.md)**. To display entries in the Contacts folder, look for the **AddressList** that corresponds with the Contacts folder. Iterate through all the address lists defined for the current session, and for each address list, use **[AddressList.GetContactsFolder](../../../api/Outlook.AddressList.GetContactsFolder.md)**to match the corresponding folder with the Contacts folder. 
+1. Look for the address list that corresponds with the Contacts folder.The **SelectNamesDialog** object displays entires in a dialog box based on an **[AddressList](../../../api/Outlook.AddressList.md)**. To display entries in the Contacts folder, look for the **AddressList** that corresponds with the Contacts folder. Iterate through all the address lists defined for the current session, and for each address list, use **[AddressList.GetContactsFolder](../../../api/Outlook.AddressList.GetContactsFolder.md)** to match the corresponding folder with the Contacts folder.
 
 2. Initialize the dialog box with the address list of the Contacts folder.
 
