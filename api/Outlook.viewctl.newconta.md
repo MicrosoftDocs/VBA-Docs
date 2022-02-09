@@ -21,6 +21,6 @@ _expression_ A variable that represents a **ViewCtl** object.
 
 ## Remarks
 
-When the new contact is saved, it is saved to the **Contact**folder, if any, that is displayed in the control. If there is no **Contact** folder displayed in the control, the contact is saved to the user's default **Contacts** folder.
+When the new contact is saved, it is saved to the **Contact** folder, if any, that is displayed in the control. If there is no **Contact** folder displayed in the control, the contact is saved to the user's default **Contacts** folder.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

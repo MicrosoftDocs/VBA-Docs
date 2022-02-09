@@ -9,8 +9,7 @@ ms.localizationpriority: medium
 
 # ViewCtl.Filter Property (Outlook View Control)
 
-Returns or sets a **String**that represents the Distributed Authoring and Versioning (DAV) Searching and Locating (DASL) statement used to restrict the display to a specified subset of data. Read/write.
-
+Returns or sets a **String** that represents the Distributed Authoring and Versioning (DAV) Searching and Locating (DASL) statement used to restrict the display to a specified subset of data. Read/write.
 
 ## Syntax
 
@@ -18,11 +17,9 @@ _expression_.**Filter**
 
 _expression_ A variable that represents a **ViewCtl** object.
 
-
 ## Remarks
 
-To reset a filter back to its default value, type the following line of code. 
-
+To reset a filter back to its default value, type the following line of code.
 
 ```vb
 object.Filter = " ""DAV:isfolder"" = False And ""DAV:ishidden"" = False "

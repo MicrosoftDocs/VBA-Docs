@@ -36,8 +36,8 @@ The following table lists all the rule actions supported by the Rules and Alerts
 |Clear the message flag| **olRuleActionFlagClear**|No|Yes|No|
 |Flag the message with the color specified | **olRuleActionFlagColor**|No|Yes|No|
 |Flag the message for action in days specified | **olRuleActionFlagForActionInDays**|No|Yes|Yes|
-|Forward the message to the recipient list specified in the **endRuleAction.Recipients** property| **olRuleActionForward**|Yes|Yes|No|
-|Forward the message as an attachment to the recipient list specified in the **endRuleAction.Recipients** property| **olRuleActionForwardAsAttachment**|Yes|Yes|No|
+|Forward the message to the recipient list specified in the **SendRuleAction.Recipients** property| **olRuleActionForward**|Yes|Yes|No|
+|Forward the message as an attachment to the recipient list specified in the **SendRuleAction.Recipients** property| **olRuleActionForwardAsAttachment**|Yes|Yes|No|
 |Mark the message with the specified Importance| **olRuleActionImportance**|No|Yes|Yes|
 |Mark message as a task for followup using the **[FlagTo](../../../api/Outlook.MarkAsTaskRuleAction.FlagTo.md)** and **[MarkInterval](../../../api/Outlook.MarkAsTaskRuleAction.MarkInterval.md)** properties of the **[MarkAsTaskRuleAction](../../../api/Outlook.MarkAsTaskRuleAction.md)** object| **olRuleActionMarkAsTask**|Yes|Yes|No|
 |Mark as read| **olRuleActionMarkRead**|No|Yes|No|
@@ -47,7 +47,7 @@ The following table lists all the rule actions supported by the Rules and Alerts
 |Notify that the message has been read| **olRuleActionNotifyRead**|Yes|No|Yes|
 |Play the .wav file specified in the **[PlaySoundRuleAction.FilePath](../../../api/Outlook.PlaySoundRuleAction.FilePath.md)** property| **olRuleActionPlaysound**|Yes|Yes|No|
 |Print the message to the default printer| **olRuleActionPrint**|No|Yes|No|
-|Redirect the message to the recipient list specified in the **endRuleAction.Recipients** property| **olRuleActionRedirect**|Yes|Yes|No|
+|Redirect the message to the recipient list specified in the **SendRuleAction.Recipients** property| **olRuleActionRedirect**|Yes|Yes|No|
 |Start a script| **olRuleActionRunScript**|No|Yes|No|
 |Mark the message with the specified sensitivity| **olRuleActionSensitivity**|No|No|Yes|
 |Have server reply using the specified message | **olRuleActionServerReply**|No|Yes|No|
