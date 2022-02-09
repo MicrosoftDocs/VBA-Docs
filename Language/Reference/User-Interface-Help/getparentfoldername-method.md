@@ -20,8 +20,6 @@ Returns a string containing the name of the parent folder of the last component 
 
 _object_.**GetParentFolderName** (_path_)
 
-<br/>
-
 The **GetParentFolderName** method syntax has these parts:
 
 |Part|Description|

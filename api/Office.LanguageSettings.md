@@ -36,8 +36,6 @@ MsgBox "The following locale IDs are registered " & _
  Application.LanguageSettings.LanguageID(msoLanguageIDHelp)
 ```
 
-<br/>
-
 Use **Application.LanguageSettings.LanguagePreferredForEditing** to determine which LCIDs are registered as preferred editing languages for the application, as in the following example.
 
 ```vb

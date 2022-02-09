@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the type of recolor to use when changing a color scheme.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoRecolorType1**|1|Specifies recolor Type1.|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies information about the current user of a Web database.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acWebUserEmail**|3|The current user's email address.|

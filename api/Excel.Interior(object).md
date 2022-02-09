@@ -25,8 +25,6 @@ Use the **[Interior](Excel.Range.Interior.md)** property of the **Range** object
 Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 ```
 
-<br/>
-
 This example gets the value of the color of a cell in column A by using the **ColorIndex** property, and then uses that value to sort the range by color.
 
 ```vb

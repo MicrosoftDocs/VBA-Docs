@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the direction that text runs.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextDirectionLeftToRight**|1|Text runs left to right.|

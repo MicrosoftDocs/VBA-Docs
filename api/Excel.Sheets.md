@@ -32,23 +32,17 @@ Use the **[Sheets](Excel.Workbook.Sheets.md)** property of the **Workbook** obje
 Sheets.PrintOut
 ```
 
-<br/>
-
 Use the **Add** method to create a new sheet and add it to the collection. The following example adds two chart sheets to the active workbook, placing them after sheet two in the workbook.
 
 ```vb
 Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
 ```
 
-<br/>
-
 Use **Sheets** (_index_), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named Sheet1.
 
 ```vb
 Sheets("Sheet1").Activate
 ```
-
-<br/>
 
 Use **Sheets** (_array_) to specify more than one sheet. The following example moves the sheets named Sheet4 and Sheet5 to the beginning of the workbook.
 

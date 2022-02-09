@@ -39,8 +39,6 @@ When neither expression is **Null**, _result_ is determined according to the fol
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
 
-<br/>
-
 The **Xor** operator performs as both a logical and bitwise operator. A [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of two [expressions](../../Glossary/vbe-glossary.md#expression) using exclusive-or logic to form the result, is shown in the following table.
 
 |If bit in _expression1_ is|And bit in _expression2_ is|Then _result_ is|

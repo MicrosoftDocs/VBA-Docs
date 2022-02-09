@@ -52,8 +52,6 @@ If upper_limit is negative, **Erf** returns the #NUM! error value.
 
 ![Formula](../images/awferf1_ZA06051136.gif)
 
-<br/>
-
 ![Formula](../images/awferf2_ZA06051137.gif)
 
 

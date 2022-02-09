@@ -37,8 +37,6 @@ This example sets the ID of cell A1 on the active worksheet to Target.
 ActiveSheet.Range("A1").ID = "target"
 ```
 
-<br/>
-
 Later, the document is saved as a webpage, and the following line of HTML is added to the webpage. When the user then views the page in a web browser and chooses the hyperlink, the browser displays the cell.
 
 ```vb

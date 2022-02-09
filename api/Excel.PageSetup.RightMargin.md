@@ -38,16 +38,12 @@ Worksheets("Sheet1").PageSetup.RightMargin = _
  Application.InchesToPoints(1.5)
 ```
 
-<br/>
-
 This example sets the right margin of Sheet1 to 2 centimeters.
 
 ```vb
 Worksheets("Sheet1").PageSetup.RightMargin = _ 
  Application.CentimetersToPoints(2)
 ```
-
-<br/>
 
 This example displays the current right-margin setting for Sheet1.
 

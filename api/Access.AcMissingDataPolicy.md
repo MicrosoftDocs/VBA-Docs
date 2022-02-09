@@ -15,8 +15,6 @@ ms.localizationpriority: medium
 
 Specifies the plotting strategy of a series when its chart type is **acChartLine** and values are missing.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDoNotPlot**|1|Do not plot.|

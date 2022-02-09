@@ -32,15 +32,11 @@ This example hides Sheet1.
 Worksheets("Sheet1").Visible = False
 ```
 
-<br/>
-
 This example makes Sheet1 visible.
 
 ```vb
 Worksheets("Sheet1").Visible = True
 ```
-
-<br/>
 
 This example makes every sheet in the active workbook visible.
 
@@ -49,8 +45,6 @@ For Each sh In Sheets
  sh.Visible = True 
 Next sh
 ```
-
-<br/>
 
 This example creates a new worksheet and then sets its **Visible** property to **xlSheetVeryHidden**. To refer to the sheet, use its object variable, `newSheet`, as shown in the last line of the example. To use the `newSheet` object variable in another procedure, you must declare it as a public variable (`Public newSheet As Object`) in the first line of the module preceding any **Sub** or **Function** procedure.
 

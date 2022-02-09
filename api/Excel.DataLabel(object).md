@@ -31,8 +31,6 @@ Worksheets(1).ChartObjects(1).Chart _
  .SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
 
-<br/>
-
 Use the **[DataLabel](Excel.Point.DataLabel.md)** property of the **Point** object to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in series one on the chart sheet named **Chart1**, and sets the data label text to **Saturday**.
 
 ```vb
@@ -43,8 +41,6 @@ With Charts("chart1")
  End With 
 End With
 ```
-
-<br/>
 
 On a trendline, the **[DataLabel](Excel.Trendline.DataLabel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text to show only the equation, and then places the data label text in cell A1 on the worksheet named **Sheet1**.
 

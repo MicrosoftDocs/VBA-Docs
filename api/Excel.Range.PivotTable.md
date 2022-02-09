@@ -33,8 +33,6 @@ Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable
 pvtTable.PivotFields("Country").CurrentPage = "Canada"
 ```
 
-<br/>
-
 This example determines the PivotTable report associated with the Sales chart on the active worksheet, and then it sets the page named Oregon as the current page for the PivotTable report.
 
 ```vb

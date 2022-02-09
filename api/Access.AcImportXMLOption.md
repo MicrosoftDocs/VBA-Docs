@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the action to take when using the [Application.ImportXML method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAppendData**|2|Imports the data into an existing table.|

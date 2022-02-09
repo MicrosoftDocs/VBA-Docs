@@ -39,8 +39,6 @@ This example displays the value in cell A1 on Sheet1 in the active workbook.
 MsgBox Worksheets("Sheet1").Range("A1").Value
 ```
 
-<br/>
-
 This example displays the name of each worksheet in the active workbook.
 
 ```vb
@@ -48,8 +46,6 @@ For Each ws In Worksheets
  MsgBox ws.Name 
 Next ws
 ```
-
-<br/>
 
 This example adds a new worksheet to the active workbook and then sets the name of the worksheet.
 

@@ -32,8 +32,6 @@ For Each h in Worksheets(1).Hyperlinks
 Next
 ```
 
-<br/>
-
 Use the **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink for cell E5.
 
 ```vb

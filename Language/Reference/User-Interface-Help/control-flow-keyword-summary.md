@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Control flow keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Branch|[GoSub...Return](gosubreturn-statement.md), [GoTo](goto-statement.md), [On Error](on-error-statement.md), [On...GoSub](ongosub-ongoto-statements.md), [On...GoTo](ongosub-ongoto-statements.md)|

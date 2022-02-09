@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of gradient used in a shape's fill.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoGradientColorMixed**|-2|Mixed gradient|

@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the view when opeing a form.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDesign**|1|The form opens in Design view.|

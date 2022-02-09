@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the effects lighting for an object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightRigBalanced**|14|Specifies the Balanced effect.|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the action to take when a user clicks an item in the task pane. Used with the **Add** method of the **NewFile** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCreateNewFile**|1|Create a new file.|

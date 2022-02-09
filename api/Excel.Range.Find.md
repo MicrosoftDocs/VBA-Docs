@@ -24,7 +24,6 @@ _expression_.**Find** (_What_, _After_, _LookIn_, _LookAt_, _SearchOrder_, _Sear
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
-
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
@@ -43,12 +42,11 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 A **Range** object that represents the first cell where that information is found.
 
-
 ## Remarks
 
 This method returns **Nothing** if no match is found. The **Find** method does not affect the selection or the active cell.
 
-The settings for _LookIn_,  _LookAt_,  _SearchOrder_, and _MatchByte_ are saved each time you use this method. If you don't specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
+The settings for _LookIn_, _LookAt_, _SearchOrder_, and _MatchByte_ are saved each time you use this method. If you don't specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 
 Use the **[FindNext](Excel.Range.FindNext.md)** and **[FindPrevious](Excel.Range.FindPrevious.md)** methods to repeat the search.
 

@@ -10,8 +10,6 @@ Have questions or feedback about Office VBA or this documentation? The following
 
 [!include[Add-ins note](~/includes/addinsnote.md)]
 
-<br/>
-
 | Subject | Guidance |
 |:--------|:---------|
 | **VBA programming questions** | Post VBA programming questions to <a href="https://stackoverflow.com/questions/tagged/vba" target="_blank">Stack Overflow</a> by using the `vba` tag, along with any other relevant tags.<br/><br/>Please note that Stack Overflow has guidelines such as requiring a descriptive title, a complete and concise problem statement, and sufficient details to reproduce your issue. Feature requests or overly broad questions are considered off-topic. If you're a new user, visit the <a href="https://stackoverflow.com/help/how-to-ask" target="_blank">Stack Overflow Help Center</a> for more information.|

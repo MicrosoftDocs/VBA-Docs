@@ -26,8 +26,6 @@ Else
 
 ```
 
-<br/>
-
 Use the following functions to access an Automation object.
 
 |Function|Description|

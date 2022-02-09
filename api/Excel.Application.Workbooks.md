@@ -42,15 +42,11 @@ This example activates the workbook Book1.xls.
 Workbooks("BOOK1").Activate
 ```
 
-<br/>
-
 This example opens the workbook Large.xls.
 
 ```vb
 Workbooks.Open filename:="LARGE.XLS"
 ```
-
-<br/>
 
 This example saves changes to and closes all workbooks except the one that's running the example.
 

@@ -30,8 +30,6 @@ _expression_ A variable that represents an **OlkDateControl** object.
 |:-----|:-----|:-----|:-----|
 |_Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the exit operation is not completed and the focus remains in this control.|
 
-<br/>
-
 ## See also
 
 - [OlkDateControl Object](Outlook.OlkDateControl.md)

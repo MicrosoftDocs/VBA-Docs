@@ -32,15 +32,11 @@ The following example deletes OLE object one on Sheet1.
 Worksheets("sheet1").OLEObjects(1).Delete
 ```
 
-<br/>
-
 The following example deletes the OLE object named ListBox1.
 
 ```vb
 Worksheets("sheet1").OLEObjects("ListBox1").Delete
 ```
-
-<br/>
 
 The properties and methods of the **OLEObject** object are duplicated on each ActiveX control on a worksheet. This enables Visual Basic code to gain access to these properties by using the control's name. The following example selects the check box control named **MyCheckBox**, aligns it with the active cell, and then activates the control.
 

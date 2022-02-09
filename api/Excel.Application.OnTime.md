@@ -52,15 +52,11 @@ This example runs _my\_Procedure_ 15 seconds from now.
 Application.OnTime Now + TimeValue("00:00:15"), "my_Procedure"
 ```
 
-<br/>
-
 This example runs _my\_Procedure_ at 5 P.M.
 
 ```vb
 Application.OnTime TimeValue("17:00:00"), "my_Procedure"
 ```
-
-<br/>
 
 This example cancels the **OnTime** setting from the previous example.
 

@@ -9,8 +9,7 @@ ms.localizationpriority: medium
 
 # Returning Text from a Document
 
-Use the **Text**property to return text from a **[Range](../../../api/Word.Range.md)** object or **[Selection](../../../api/Word.Selection.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
-
+Use the **Text** property to return text from a **[Range](../../../api/Word.Range.md)** object or **[Selection](../../../api/Word.Selection.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
 
 ```vb
 Sub FindHeadingStyle() 
@@ -24,11 +23,7 @@ Sub FindHeadingStyle()
 End Sub
 ```
 
-
 The following instruction returns and displays the selected text.
-
-
-
 
 ```vb
 Sub ShowSelection() 
@@ -40,8 +35,6 @@ End Sub
 
 The following example returns the first word in the active document. Each item in the **[Words](../../../api/Word.words.md)** collection is a **Range**object that represents one word.
 
-
-
 ```vb
 Sub ShowFirstWord() 
  Dim strFirstWord As String 
@@ -51,8 +44,6 @@ End Sub
 ```
 
 The following example returns the text associated with the first bookmark in the active document.
-
-
 
 ```vb
 Sub ShowFirstBookmark() 

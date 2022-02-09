@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the data entry mode of a form.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFormAdd**|0|The user can add new records but can't edit existing records.|

@@ -82,8 +82,6 @@ The settings for _DragState_ are:
 | _fmDragStateLeave_|1|Mouse pointer is outside the range of a target.|
 | _fmDragStateOver_|2|Mouse pointer is at a new position, but remains within range of the same target.|
 
-<br/>
-
 The settings for _Effect_ are:
 
 |Constant|Value|Description|
@@ -92,8 +90,6 @@ The settings for _Effect_ are:
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
 | _fmDropEffectMove_|2|Moves the drop source to the drop target.|
 | _fmDropEffectCopyOrMove_|3|Copies or moves the drop source to the drop target.|
-
-<br/>
 
 The settings for _Shift_ are:
 

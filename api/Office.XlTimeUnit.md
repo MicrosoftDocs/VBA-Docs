@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates units of time measurement.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlDays**|0|Specifies Day units.|

@@ -46,7 +46,7 @@ private void SendMail_Click()
                 Outlook.OlItemType.olMailItem) as Outlook.MailItem; 
     objMailItem.Subject = MsgSubject; 
     objMailItem.Body = "body"; 
-    objMailItem.Attachments.Add(FileLocation + TextFile,  
+    objMailItem.Attachments.Add(FileLocation + TextFile, 
         Outlook.OlAttachmentType.olByValue, 1, TextFile); 
     objMailItem.Attachments.Add(FileLocation + ImageFile, 
         Outlook.OlAttachmentType.olByValue, 1, ImageFile); 

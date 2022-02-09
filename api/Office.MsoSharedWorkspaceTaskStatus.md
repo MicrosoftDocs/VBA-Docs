@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the status of a shared workspace task.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSharedWorkspaceTaskStatusCompleted**|3|Completed |

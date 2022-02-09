@@ -18,8 +18,6 @@ Sets the position for the next read/write operation within a file opened by usin
 
 **Seek** [ **#** ] _filenumber_, _position_
 
-<br/>
-
 The **Seek** statement syntax has these parts:
 
 |Part|Description|
@@ -45,8 +43,6 @@ End Type
 
 ```
 
-<br/>
-
 For files opened in Random mode, **Seek** sets the next record.
 
 ```vb
@@ -62,8 +58,6 @@ Next RecordNumber
 Close #1 ' Close file. 
 
 ```
-
-<br/>
 
 For files opened in modes other than Random mode, **Seek** sets the byte position at which the next operation takes place. This example assumes that `TESTFILE` is a file containing a few lines of text.
 

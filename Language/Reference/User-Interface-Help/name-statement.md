@@ -18,8 +18,6 @@ Renames a disk file, directory, or folder.
 
 **Name** _oldpathname_ **As** _newpathname_
 
-<br/>
-
 The **Name** statement syntax has these parts:
 
 |Part|Description|

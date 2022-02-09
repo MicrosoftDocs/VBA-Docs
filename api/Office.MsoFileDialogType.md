@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of a **FileDialog** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFileDialogFilePicker**|3|**File Picker** dialog box.|

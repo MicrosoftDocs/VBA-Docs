@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Creates a new **Master** object by dropping an object onto a receiving object such as a stencil or document, or the **Masters** or **MasterShortcuts** collection.
 
-
 ## Syntax
 
 _expression_.**Drop** (_ObjectToDrop_, _xPos_, _yPos_)
 
 _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
-
 
 ## Parameters
 
@@ -36,7 +34,6 @@ _expression_ A variable that represents a **[Document](Visio.Document.md)** obje
 
 Master
 
-
 ## Remarks
 
 Using the **Drop** method is similar to moving a shape with the mouse. The object dropped ( _ObjectToDrop_) can be a master or a shape on the drawing page.
@@ -45,11 +42,9 @@ If  _ObjectToDrop_ is a **Master**, the pin of the master is dropped at the spec
 
 To create a new master in a stencil, apply the **Drop** method to a **Document** object that represents a stencil (the stencil must be opened as an original or a copy rather than read-only). In this case, the _xPos_ and _yPos_ arguments are ignored, and the new master that is created is returned.
 
-
 ## Example
 
 The following example shows how to use the **Drop** method to create a master by dropping a shape onto a **Document** object.
-
 
 ```vb
  
@@ -62,7 +57,7 @@ Public Sub Drop_Example()
  
     'Create a master in the document.  
     'The master appears on the document stencil.  
-    Set vsoMaster = ActiveDocument.Drop(vsoShape,  0, 0)  
+    Set vsoMaster = ActiveDocument.Drop(vsoShape, 0, 0)  
  
 End Sub
 ```

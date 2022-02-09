@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 These constants are only available when your project has an explicit reference to the appropriate [type library](../../Glossary/vbe-glossary.md#type-library) containing these constant definitions.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Normal**|0|Normal file. No attributes are set.|

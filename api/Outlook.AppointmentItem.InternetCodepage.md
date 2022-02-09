@@ -67,8 +67,6 @@ The following table lists the values that are supported by the **InternetCodePag
 |Western European (ISO)| iso-8859-1|28591|
 |Western European (Windows)|Windows-1252|1252|
 
-<br/>
-
 The following table lists the code pages Microsoft recommends that you use for the best compatibility with older email systems.
 
 |Name|Character set|Code page|

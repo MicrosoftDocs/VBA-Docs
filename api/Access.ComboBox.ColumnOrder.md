@@ -48,8 +48,6 @@ Forms!Products!ProductName.ColumnOrder = 1
 Forms!Products!QuantityPerUnit.ColumnOrder = 2
 ```
 
-<br/>
-
 The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns of the **Products** table in Datasheet view. To set the **ColumnOrder** property, the example uses the **SetFieldProperty** procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
 
 ```vb

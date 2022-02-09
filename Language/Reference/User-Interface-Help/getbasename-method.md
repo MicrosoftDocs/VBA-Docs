@@ -20,8 +20,6 @@ Returns a string containing the base name of the last component, less any file e
 
 _object_.**GetBaseName** (_path_)
 
-<br/>
-
 The **GetBaseName** method syntax has these parts:
 
 |Part|Description|

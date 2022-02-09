@@ -41,8 +41,6 @@ linkArray = ActiveWorkbook.LinkSources(xlOLELinks)
 ActiveWorkbook.OpenLinks linkArray(1)
 ```
 
-<br/>
-
 This example opens all supporting Microsoft Excel documents for the active workbook.
 
 ```vb

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies alignment for WordArt text.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextEffectAlignmentCentered**|2|Centered.|

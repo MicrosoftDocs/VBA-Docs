@@ -20,8 +20,6 @@ Copies one or more files from one location to another.
 
 _object_.**CopyFile** _source_, _destination_, [ _overwrite_ ]
 
-<br/>
-
 The **CopyFile** method syntax has these parts:
 
 |Part|Description|

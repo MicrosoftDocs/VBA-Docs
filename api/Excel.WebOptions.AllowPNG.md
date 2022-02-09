@@ -37,8 +37,6 @@ This example enables PNG as an output format for the first workbook.
 Application.Workbooks(1).WebOptions.AllowPNG = True
 ```
 
-<br/>
-
 Alternatively, PNG can be enabled as the global default for the application for newly created documents.
 
 ```vb

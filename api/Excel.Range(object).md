@@ -40,8 +40,6 @@ Worksheets("Sheet1").Range("A5").Value = _
     Worksheets("Sheet1").Range("A1").Value
 ```
 
-<br/>
-
 The following example fills the range A1:H8 with random numbers by setting the formula for each cell in the range. When it's used without an object qualifier (an object to the left of the period), the **Range** property returns a range on the active sheet. If the active sheet isn't a worksheet, the method fails. 
 
 Use the **[Activate](Excel.Worksheet.Activate(method).md)** method of the **Worksheet** object to activate a worksheet before you use the **Range** property without an explicit object qualifier.
@@ -50,8 +48,6 @@ Use the **[Activate](Excel.Worksheet.Activate(method).md)** method of the **Work
 Worksheets("Sheet1").Activate 
 Range("A1:H8").Formula = "=Rand()"    'Range is on the active sheet
 ```
-
-<br/>
 
 The following example clears the contents of the range named _Criteria_.
 
@@ -62,8 +58,6 @@ The following example clears the contents of the range named _Criteria_.
 Worksheets(1).Range("Criteria").ClearContents
 ```
 
-<br/>
-
 Use **Cells** on a worksheet to obtain a range consisting all single cells on the worksheet. You can access single cells via **Item**(_row_, _column_), where _row_ is the row index and _column_ is the column index. 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
 The following example sets the value of cell A1 to 24 and of cell B1 to 42 on the first sheet of the active workbook.
@@ -73,15 +67,11 @@ Worksheets(1).Cells(1, 1).Value = 24
 Worksheets(1).Cells.Item(1, 2).Value = 42
 ```
 
-<br/>
-
 The following example sets the formula for cell A2.
 
 ```vb
 ActiveSheet.Cells(2, 1).Formula = "=Sum(B1:B5)"
 ```
-
-<br/>
 
 Although you can also use `Range("A1")` to return cell A1, there may be times when the **Cells** property is more convenient because you can use a variable for the row or column. The following example creates column and row headings on Sheet1. Be aware that after the worksheet has been activated, the **Cells** property can be used without an explicit sheet declaration (it returns a cell on the active sheet).
 
@@ -100,8 +90,6 @@ Next TheQuarter
 End Sub
 ```
 
-<br/>
-
 Use_expression_.**Cells**, where _expression_ is an expression that returns a **Range** object, to obtain a range with the same address consisting of single cells.
 On such a range, you access single cells via **Item**(_row_, _column_), where are relative to the upper-left corner of the first area of the range. 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**.
@@ -111,8 +99,6 @@ The following example sets the formula for cell C5 and D5 of the first sheet of 
 Worksheets(1).Range("C5:C10").Cells(1, 1).Formula = "=Rand()"
 Worksheets(1).Range("C5:C10").Cells.Item(1, 2).Formula = "=Rand()"
 ```
-
-<br/>
 
 Use **Range** (_cell1, cell2_), where _cell1_ and _cell2_ are **Range** objects that specify the start and end cells, to return a **Range** object. The following example sets the border line style for cells A1:J10.
 
@@ -126,8 +112,6 @@ With Worksheets(1)
 End With
 ```
 
-<br/>
-
 Use **Rows** on a worksheet to obtain a range consisting all rows on the worksheet. You can access single rows via **Item**(_row_), where _row_ is the row index. 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
 
@@ -140,8 +124,6 @@ The following example deletes row 4 and 10 of the first sheet of the active work
 Worksheets(1).Rows(10).Delete
 Worksheets(1).Rows.Item(5).Delete
 ```
-
-<br/>
 
 Use **Columns** on a worksheet to obtain a range consisting all columns on the worksheet. You can access single columns via **Item**(_row_) [sic], where _row_ is the column index given as a number or as an A1-style column address. 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**. 
@@ -158,8 +140,6 @@ Worksheets(1).Columns("C").Delete
 Worksheets(1).Columns.Item("B").Delete
 ```
 
-<br/>
-
 Use_expression_.**Rows**, where _expression_ is an expression that returns a **Range** object, to obtain a range consisting of the rows in the first area of the range.
 You can access single rows via **Item**(_row_), where _row_ is the relative row index from the top of the first area of the range. 
 **Item** can be omitted since the call is forwarded to it by the default member of **Range**.
@@ -173,8 +153,6 @@ The following example deletes the ranges C8:D8 and C6:D6 of the first sheet of t
 Worksheets(1).Range("C5:D10").Rows(4).Delete
 Worksheets(1).Range("C5:D10").Rows.Item(2).Delete
 ```
-
-<br/>
 
 Use_expression_.**Columns**, where _expression_ is an expression that returns a **Range** object, to obtain a range consisting of the columns in the first area of the range.
 You can access single columns via **Item**(_row_) [sic], where _row_ is the relative column index from the left of the first area of the range given as a number or as an A1-style column address. 
@@ -192,8 +170,6 @@ Worksheets(1).Range("C5:Z10").Columns("D").Delete
 Worksheets(1).Range("C5:Z10").Columns.Item("B").Delete
 ```
 
-<br/>
-
 Use **Offset** (_row, column_), where _row_ and _column_ are the row and column offsets, to return a range at a specified offset to another range. The following example selects the cell three rows down from and one column to the right of the cell in the upper-left corner of the current selection. You cannot select a cell that is not on the active sheet, so you must first activate the worksheet.
 
 ```vb
@@ -201,8 +177,6 @@ Worksheets("Sheet1").Activate
   'Can't select unless the sheet is active 
 Selection.Offset(3, 1).Range("A1").Select
 ```
-
-<br/>
 
 Use **Union** (_range1, range2_, ...) to return multiple-area ranges—that is, ranges composed of two or more contiguous blocks of cells. The following example creates an object defined as the union of ranges A1:B2 and C3:D4, and then selects the defined range.
 
@@ -215,8 +189,6 @@ Set myMultiAreaRange = Union(r1, r2)
 myMultiAreaRange.Select
 ```
 
-<br/>
-
 If you work with selections that contain more than one area, the **[Areas](Excel.Range.Areas.md)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. Use the **[Count](Excel.Range.Count.md)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
 
 ```vb
@@ -228,8 +200,6 @@ Sub NoMultiAreaSelection()
     End If 
 End Sub
 ```
-
-<br/>
 
 This example uses the **AdvancedFilter** method of the **Range** object to create a list of the unique values, and the number of times those unique values occur, in the range of column A.
 

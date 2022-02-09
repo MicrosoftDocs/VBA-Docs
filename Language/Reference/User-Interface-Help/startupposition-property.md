@@ -17,8 +17,6 @@ ms.localizationpriority: medium
 Returns or sets a value specifying the position of a **[UserForm](userform-window.md)** when it first appears.
 Use one of four settings for **StartUpPosition**.
 
-<br/>
-
 |Setting|Value|Description|
 |:-----|:-----|:-----|
 |**Manual**|0|No initial setting specified.|

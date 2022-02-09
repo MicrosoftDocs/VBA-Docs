@@ -20,8 +20,6 @@ Used at the [module level](../../Glossary/vbe-glossary.md#module-level) to defin
 [ _elementname_ [ ( [ _subscripts_ ] ) ] **As** _type_ ] **. . .** <br/> 
 **End Type** 
 
-<br/>
-
 The **Type** statement syntax has these parts:
 
 |Part|Description|

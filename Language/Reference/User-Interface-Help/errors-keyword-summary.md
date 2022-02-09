@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Errors keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Generate run-time errors.|[Clear](clear-method-visual-basic-for-applications.md), [Error](error-statement.md), [Raise](raise-method.md)|

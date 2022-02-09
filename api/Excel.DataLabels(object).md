@@ -33,8 +33,6 @@ With Charts(1).SeriesCollection(1)
 End With
 ```
 
-<br/>
-
 Use **DataLabels** (_index_), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
 
 ```vb

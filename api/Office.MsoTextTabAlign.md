@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the text alignment against tab stops or line breaks.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTabAlignCenter**|1|Specifies that the following text up to next tab or line break is centered on the designated tab stop.|

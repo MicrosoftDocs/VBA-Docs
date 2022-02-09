@@ -32,8 +32,6 @@ The following example adds a double border to cell A1 on worksheet one.
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
-<br/>
-
 Use **Borders** (_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1 to red.
 
 ```vb

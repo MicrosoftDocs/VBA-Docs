@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of shadowing effect.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoShadowStyleInnerShadow**|1|Specifies the inner shadow effect.|

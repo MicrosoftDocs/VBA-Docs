@@ -95,8 +95,6 @@ You can call the procedure and pass the current instance of the object as an arg
 ChangeObjectColor Me 
 ```
 
-<br/>
-
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

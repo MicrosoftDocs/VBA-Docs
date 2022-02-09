@@ -92,8 +92,6 @@ Private Sub Worksheet_Change(ByVal Target As Range)
 End Sub
 ```
 
-<br/>
-
 As such, there is no need to subscribe to either the **BeforeRemoteChange** or **AfterRemoteChange** event in this case.
 
 ```vb
@@ -103,13 +101,9 @@ Private Sub Workbook_AfterRemoteChange()
 End Sub
 ```
 
-<br/>
-
 *Figure 1. Sample of chart representing dessert sales*
 
 ![dessert sales](../../images/saleschart.png) 
-
-<br/>
 
 #### Sample scenario: Data consistency
 
@@ -137,8 +131,6 @@ Private Sub Worksheet_Change(ByVal Target As Range)
 End Sub
 ```
 
-<br/>
-
 Now use the **AfterRemoteChange** event to add code that updates the map. Subsequent changes sent to the remote user are used to update the map.
 
 ```vb
@@ -147,13 +139,9 @@ Private Sub Workbook_AfterRemoteChange()
 End Sub
 ```
 
-<br/>
-
 *Figure 2. Sample of London map with a few points of interest*
 
 ![london locations](../../images/londonLocations.png) 
-
-<br/>
 
 #### Sample scenario: Navigation task pane
 

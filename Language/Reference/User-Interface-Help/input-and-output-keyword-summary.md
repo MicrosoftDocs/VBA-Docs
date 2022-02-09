@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Input and output keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Access or create a file.|[Open](open-statement.md)|

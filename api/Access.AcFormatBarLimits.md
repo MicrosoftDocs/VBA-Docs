@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies how the threshold values for a Data Bar is determined.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAutomatic**|0|For the shortest bar, the lowest value is used. For the highest bar, the highest value is used.|

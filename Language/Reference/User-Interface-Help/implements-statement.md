@@ -45,8 +45,6 @@ Public Name As String
 Public Address As String 
 ```
 
-<br/>
-
 The code supporting the customer data is in a class module called **Customer**. Note that the PersonalData interface is implemented with members that are named with the interface name `PersonalData_` as a prefix.
 
 ```vb
@@ -87,8 +85,6 @@ End Sub
 
 ```
 
-
-<br/>
 
 The code supporting the supplier data is in a class module called **Supplier**:
 
@@ -131,8 +127,6 @@ End Sub
 
 ```
 
-<br/>
-
 The following code supports the **Selector** form:
 
 ```vb
@@ -151,8 +145,6 @@ Dim frm As New DataEntryForm
  frm.Show 1 
 End Sub
 ```
-
-<br/>
 
 The following code supports the **Data Entry** form:
 
@@ -180,8 +172,6 @@ Private Sub Text2_Change()
 End Sub
 
 ```
-
-<br/>
 
 Note how, in the data entry form, the *m_pd* variable is declared by using the PersonalData interface, and it can be assigned objects of either the **Customer** or **Supplier** class because both classes implement the PersonalData interface.
 

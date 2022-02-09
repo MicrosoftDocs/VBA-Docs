@@ -38,8 +38,6 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes(3).PictureFormat.CropBottom = 20
 ```
 
-<br/>
-
 Using the following example, you can specify the percentage that you want to crop off the bottom of the selected shape, regardless of whether the shape has been scaled. For the example to work, the selected shape must be either a picture or an OLE object.
 
 ```vb

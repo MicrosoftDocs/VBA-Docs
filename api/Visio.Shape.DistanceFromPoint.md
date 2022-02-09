@@ -16,40 +16,32 @@ ms.localizationpriority: medium
 
 Returns the distance from a shape to a point. Read-only.
 
-
 ## Syntax
 
 _expression_. `DistanceFromPoint`( `_x_` , `_y_` , `_Flags_` , `_[pvPathIndex]_` , `_[pvCurveIndex]_` , `_[pvt]_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|An x-coordinate.|
 | _y_|Required| **Double**|A y-coordinate.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
-| _pvPathIndex_|Optional| **Variant**|Identifies the point on the shape in conjunction with  _pvCurveIndex_ and _pvt_.|
-| _pvCurveIndex_|Optional| **Variant**|Identifies the point on the shape in conjunction with  _pvPathIndex_ and _pvt_.|
-| _pvt_|Optional| **Variant**|Identifies the point on the shape in conjunction with  _pvPathIndex_ and _pvCurveIndex_.|
+| _pvPathIndex_|Optional| **Variant**|Identifies the point on the shape in conjunction with _pvCurveIndex_ and _pvt_.|
+| _pvCurveIndex_|Optional| **Variant**|Identifies the point on the shape in conjunction with _pvPathIndex_ and _pvt_.|
+| _pvt_|Optional| **Variant**|Identifies the point on the shape in conjunction with _pvPathIndex_ and _pvCurveIndex_.|
 
 ## Return value
 
 Double
 
-
 ## Remarks
 
 The ( _x,y_) point is expressed in internal drawing units (inches in the drawing) with respect to the coordinate space defined by the sheet immediately containing ThisShape.
 
-The  _pvPathIndex_,  _pvCurveIndex_, and  _pvt_ arguments optionally return values that identify the point the returned distance is measured from. Call that point ( _xOnThis,yOnThis_). It lies along the  _c_'th curve of ThisShape's  _p_'th path and can be determined by:
-
-
-
+The  _pvPathIndex_, _pvCurveIndex_, and  _pvt_ arguments optionally return values that identify the point the returned distance is measured from. Call that point ( _xOnThis,yOnThis_). It lies along the _c_'th curve of ThisShape's _p_'th path and can be determined by:
 
 ```vb
 ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&xOnThis ,&yOnthis)
@@ -57,13 +49,11 @@ ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&xOnThis ,&yOnthis)
 
 Use the **PointAndDerivatives** method instead of the **Point** method if you want to find the first and second derivatives at position _t_ along the curve.
 
-If  _pvPathIndex_ or _pvCurveIndex_ is not **Null**, an **Integer** (type VT_I4) is returned. If _pvt_ isn't **Null**, **DistanceFromPoint** returns a **Double** (type VT_R8).
+If _pvPathIndex_ or _pvCurveIndex_ is not **Null**, an **Integer** (type VT_I4) is returned. If _pvt_ isn't **Null**, **DistanceFromPoint** returns a **Double** (type VT_R8).
 
 The **DistanceFromPoint** property considers guides to have extent and considers a shape's filled areas and paths.
 
-The  _Flags_ argument can be any combination of the values of the constants defined in the following table. These constants are also defined in **VisSpatialRelationFlags** in the Microsoft Visio type library.
-
-
+The _Flags_ argument can be any combination of the values of the constants defined in the following table. These constants are also defined in **VisSpatialRelationFlags** in the Microsoft Visio type library.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

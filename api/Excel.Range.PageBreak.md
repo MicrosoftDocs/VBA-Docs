@@ -39,15 +39,11 @@ This example sets a manual page break above row 25 on Sheet1.
 Worksheets("Sheet1").Rows(25).PageBreak = xlPageBreakManual
 ```
 
-<br/>
-
 This example sets a manual page break to the left of column J on Sheet1.
 
 ```vb
 Worksheets("Sheet1").Columns("J").PageBreak = xlPageBreakManual
 ```
-
-<br/>
 
 This example deletes the two page breaks that were set in the preceding examples.
 

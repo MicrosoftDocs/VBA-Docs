@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with a specific version ensures that tables created in Excel behave in the same manner as they did in the corresponding version of Excel.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPivotTableVersion2000**|0|Excel 2000|

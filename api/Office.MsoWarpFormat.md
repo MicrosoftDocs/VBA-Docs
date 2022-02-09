@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates various image warping formats.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoWarpFormat1**|0|Specifies Warp Format 1.|

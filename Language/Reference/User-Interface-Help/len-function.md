@@ -18,8 +18,6 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the n
 
 **Len**(_string_ | _varname_)
 
-<br/>
-
 The **Len** function syntax has these parts:
 
 |Part|Description|
@@ -60,8 +58,6 @@ MyLen = Len(MyString)    ' Returns 11.
 MyLen = Len(MyCur)    ' Returns 8.
 
 ```
-
-<br/>
 
 The second example uses **LenB** and a user-defined function (**LenMbcs**) to return the number of byte characters in a string if ANSI is used to represent the string.
 

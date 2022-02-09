@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUpperCase**|1|Converts the string to uppercase characters.|

@@ -46,8 +46,6 @@ Workbooks("BOOK1.XLS").Close
 Application.DisplayAlerts = True
 ```
 
-<br/>
-
 This example suppresses the message that otherwise appears when you initiate a DDE channel to an application that is not running.
 
 ```vb

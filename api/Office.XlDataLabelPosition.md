@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the position of data labels relative to the data markers.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlLabelPositionAbove**|0|Data label positioned above point.|

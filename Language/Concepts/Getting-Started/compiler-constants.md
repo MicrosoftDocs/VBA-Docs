@@ -27,8 +27,6 @@ Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md
 >  #End If
 >  ```
 
-<br/>
-
 On 16-bit development platforms, the compiler constants are defined as follows.
 
 |Constant|Value|Indicates that the development environment... |
@@ -36,8 +34,6 @@ On 16-bit development platforms, the compiler constants are defined as follows.
 |**Win16**|**True**|Is 16-bit compatible.|
 |**Win32**|**False**|Is not 32-bit compatible.|
 |**Win64**|**False**|Is not 64-bit compatible.|
-
-<br/>
 
 On 32-bit development platforms, the compiler constants are defined as follows.
 
@@ -53,8 +49,6 @@ On 32-bit development platforms, the compiler constants are defined as follows.
 |**Mac**|**True**|Is Macintosh.|
 |**Mac**|**False**|Is not Macintosh.|
 
-
-<br/>
 
 On 64-bit development platforms, the compiler constants are defined as follows.
 

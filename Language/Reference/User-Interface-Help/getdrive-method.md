@@ -20,8 +20,6 @@ Returns a **Drive** object corresponding to the drive in a specified path.
 
 _object_.**GetDrive** (_drivespec_)
 
-<br/>
-
 The **GetDrive** method syntax has these parts:
 
 |Part|Description|

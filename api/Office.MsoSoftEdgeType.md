@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Represents the soft edge effect in Office graphics.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoSoftEdgeType1**|1|Soft Edge Type 1|

@@ -16,24 +16,21 @@ ms.localizationpriority: medium
 
 Use the **Eval** function to evaluate an expression that results in a text string or a numeric value.
 
-
 ## Syntax
 
 _expression_.**Eval** (_StringExpr_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
-
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _StringExpr_|Required|**String**|An expression that evaluates to an alphanumeric text string. For example,  _stringexpr_ can be a function that returns a string or a numeric value, or it can be a reference to a control on a form. The _stringexpr_ argument must evaluate to a string or numeric value; it can't evaluate to a Microsoft Access object.|
+| _StringExpr_|Required|**String**|An expression that evaluates to an alphanumeric text string. For example, _stringexpr_ can be a function that returns a string or a numeric value, or it can be a reference to a control on a form. The _stringexpr_ argument must evaluate to a string or numeric value; it can't evaluate to a Microsoft Access object.|
 
 ## Return value
 
 Variant
-
 
 ## Remarks
 
@@ -81,7 +78,6 @@ The next example determines whether the value of a ShipRegion control on an Orde
     & "('AK', 'CA', 'ID', 'WA', 'MT', 'NM', 'OR')")
 ```
 
-
 ## Example
 
 The following example assumes that you have a series of 50 functions defined as A1, A2, and so on. This example uses the **Eval** function to call each function in the series.
@@ -98,8 +94,6 @@ Sub CallSeries()
 End Sub
 ```
 
-<br/>
-
 The next example triggers a **Click** event as if the user had clicked a button on a form. If the value of the button's **OnClick** property begins with an equal sign (=) signifying that it is the name of a function, the **Eval** function calls the function, which is equivalent to triggering the **Click** event. If the value doesn't begin with an equal sign, the value must name a macro. The **RunMacro** method of the **DoCmd** object runs the named macro.
 
 ```vb
@@ -113,8 +107,5 @@ Else
  DoCmd.RunMacro ctl.OnClick 
 End If
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

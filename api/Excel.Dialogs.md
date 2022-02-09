@@ -32,8 +32,6 @@ Use the **[Dialogs](Excel.Application.Dialogs.md)** property of the **Applicatio
 MsgBox Application.Dialogs.Count
 ```
 
-<br/>
-
 Use **Dialogs** (_index_), where _index_ is a built-in constant identifying the dialog box, to return a single **Dialog** object. The following example runs the built-in **File Open** dialog box.
 
 ```vb

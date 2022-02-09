@@ -36,8 +36,6 @@ With Worksheets("sheet1").ChartObjects(1).Chart.Legend
 End With
 ```
 
-<br/>
-
 Use **LegendEntries** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend. `LegendEntries(1)` is at the top of the legend; `LegendEntries(LegendEntries.Count)` is at the bottom. 

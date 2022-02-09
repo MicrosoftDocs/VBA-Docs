@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the type of information to return about the group membership of the current user of a Web database.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acWebUserGroupID**|0|The identifiers of the groups.|

@@ -9,8 +9,6 @@ ms.localizationpriority: medium
 
 # Dates and times keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Get the current date or time.|[Date](date-function.md), [Now](now-function.md), [Time](time-function.md)|

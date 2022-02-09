@@ -75,8 +75,6 @@ DoCmd.SendObject acSendTable, "Employees", acFormatXLS, _
     "Current Spreadsheet of Employees", , False
 ```
 
-<br/>
-
 The following example shows how to create an email message with Microsoft Outlook and display it to the user.
 
 ```vb
@@ -102,8 +100,6 @@ Public Function CreateEmailWithOutlook( _
 
 End Function
 ```
-
-<br/>
 
 The following example shows how to create an email message with Microsoft Outlook and send it without displaying the email message to the user.
 

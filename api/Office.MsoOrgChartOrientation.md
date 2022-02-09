@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies orientation of an organization chart.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrgChartOrientationMixed**|-2|Mixed orientation |

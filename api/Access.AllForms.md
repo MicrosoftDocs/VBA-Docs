@@ -49,8 +49,6 @@ Sub AllForms()
 End Sub
 ```
 
-<br/>
-
 The following example shows how to prevent a user from opening a particular form directly from the navigation pane.
 
 ```vb

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the alignment (the origin of the coordinate grid) for the tiling of the texture fill.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTextureAlignmentMixed**|-2|Return value only; indicates a combination of the other states. |

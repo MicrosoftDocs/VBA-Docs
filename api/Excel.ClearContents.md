@@ -46,8 +46,6 @@ This example clears the formulas from cells A1:G37 on the datasheet but leaves t
 myChart.Application.DataSheet.Range("A1:G37").ClearContents
 ```
 
-<br/>
-
 This example clears the chart data from a chart but leaves the formatting intact.
 
 ```vb

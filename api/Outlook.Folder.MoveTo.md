@@ -22,10 +22,7 @@ _expression_. `MoveTo`( `_DestinationFolder_` )
 
 _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -53,9 +50,7 @@ Sub MoveFolder()
 End Sub
 ```
 
-
 ## See also
-
 
 [Folder Object](Outlook.Folder.md)
 

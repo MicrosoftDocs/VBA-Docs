@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the context under which a wizard's callback procedure is called. Used as an argument in a callback procedure designed for use with a custom wizard.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoWizardMsgLocalStateOff**|2|User clicked the right button in the decision or branch balloon.|

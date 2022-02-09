@@ -39,8 +39,6 @@ Sub ShowFieldNames()
 End Sub
 ```
 
-<br/>
-
 Use **[Columns](Office.OfficeDataSourceObject.Columns.md)**(_index_), where _index_ is the data field name or the index number, to return a single **ODSOColumn** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the **FirstName** field in the data source attached to the active publication.
 
 ```vb

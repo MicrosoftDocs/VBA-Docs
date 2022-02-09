@@ -37,8 +37,6 @@ If either expression is [Null](../../Glossary/vbe-glossary.md#null), _result_ is
 |**False**|**True**|**False**|
 |**False**|**False**|**True**|
 
-<br/>
-
 The **Eqv** operator performs a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of identically positioned bits in two [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) and sets the corresponding bit in _result_ according to the following table.
 
 |If bit in _expression1_ is|And bit in _expression2_ is|The _result_ is|

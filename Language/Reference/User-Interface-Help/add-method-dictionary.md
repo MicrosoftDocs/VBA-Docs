@@ -18,8 +18,6 @@ Adds a key and item pair to a **[Dictionary](dictionary-object.md)** object.
 
 _object_.**Add** _key_, _item_
 
-<br/>
-
 The **Add** method has the following parts:
 
 |Part|Description|

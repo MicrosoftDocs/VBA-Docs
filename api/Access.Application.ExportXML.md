@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 The **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
 
-
 ## Syntax
 
 _expression_.**ExportXML** (_ObjectType_, _DataSource_, _DataTarget_, _SchemaTarget_, _PresentationTarget_, _ImageTarget_, _Encoding_, _OtherFlags_, _WhereCondition_, _AdditionalData_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
-
 
 ## Parameters
 
@@ -37,22 +35,19 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 | _Encoding_|Optional|**[AcExportXMLEncoding](Access.AcExportXMLEncoding.md)**|An **AcExportXMLEncoding** constant that specifies the text encoding to use for the exported XML. The default value is **acUTF8**.|
 | _OtherFlags_|Optional|**[AcExportXMLOtherFlags](Access.AcExportXMLOtherFlags.md)**|A bit mask that specifies other behaviors associated with exporting to XML. Can be a combination of **AcExportXMLOtherFlags** constants.|
 | _WhereCondition_|Optional|**String**|Specifies a subset of records to be exported.|
-| _AdditionalData_|Optional|**Variant**|Specifies additional tables to export. This argument is ignored if the  _OtherFlags_ argument is set to **acLiveReportSource**.|
+| _AdditionalData_|Optional|**Variant**|Specifies additional tables to export. This argument is ignored if the _OtherFlags_ argument is set to **acLiveReportSource**.|
 
 ## Return value
 
 Nothing
 
-
 ## Remarks
 
-Although the _DataTarget_,  _SchemaTarget_, and  _PresentationTarget_ arguments are all optional, at least one must be specified when you are using this method. When the **ExportXML** method is called from within an **AccessObject** object, the default behavior is to overwrite any existing files specified in any of the arguments.
-
+Although the _DataTarget_, _SchemaTarget_, and _PresentationTarget_ arguments are all optional, at least one must be specified when you are using this method. When the **ExportXML** method is called from within an **AccessObject** object, the default behavior is to overwrite any existing files specified in any of the arguments.
 
 ## Example
 
 The following example exports the contents of the Customers table in the Northwind Traders sample database, along with the contents of the Orders and Orders Details tables, to an XML data file named Customer Orders.xml.
-
 
 ```vb
 Sub ExportCustomerOrderData() 
@@ -72,8 +67,5 @@ Sub ExportCustomerOrderData()
  AdditionalData:=objOrderInfo 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

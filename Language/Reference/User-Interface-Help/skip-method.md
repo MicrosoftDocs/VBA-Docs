@@ -20,8 +20,6 @@ Skips a specified number of characters when reading a **TextStream** file.
 
 _object_.**Skip** (_characters_)
 
-<br/>
-
 The **Skip** method syntax has these parts:
 
 |Part|Description|

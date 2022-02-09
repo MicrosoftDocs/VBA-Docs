@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the length of the arrowhead at the end of a line.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoArrowheadLengthMedium**|2|Medium|

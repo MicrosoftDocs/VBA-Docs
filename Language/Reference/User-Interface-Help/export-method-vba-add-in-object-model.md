@@ -18,8 +18,6 @@ Saves a component as a separate file or files.
 
 _object_.**Export** (_filename_)
 
-<br/>
-
 The **Export** syntax has these parts:
 
 |Part|Description|

@@ -39,8 +39,6 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes(1).Callout.PresetDrop msoCalloutDropTop
 ```
 
-<br/>
-
 This example toggles between two preset drops for shape one on _myDocument_. For the example to work, shape one must be a callout.
 
 ```vb

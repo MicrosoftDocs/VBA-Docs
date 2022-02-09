@@ -81,8 +81,6 @@ The settings for _Action_ are:
 | _fmActionPaste_|2|Pastes the selected object into the drop target.|
 | _fmActionDragDrop_|3|Indicates the user has dragged the object from its source to the drop target and dropped it on the drop target.|
 
-<br/>
-
 The settings for _Effect_ are:
 
 |Constant|Value|Description|
@@ -91,8 +89,6 @@ The settings for _Effect_ are:
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
 | _fmDropEffectMove_|2|Moves the drop source to the drop target.|
 | _fmDropEffectCopyOrMove_|3|Copies or moves the drop source to the drop target.|
-
-<br/>
 
 The settings for _Shift_ are:
 

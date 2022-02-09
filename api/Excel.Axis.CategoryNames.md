@@ -38,8 +38,6 @@ Set Charts("Chart1").Axes(xlCategory).CategoryNames = _
  Worksheets("Sheet1").Range("B1:B5")
 ```
 
-<br/>
-
 This example uses an array to set individual category names for Chart1.
 
 ```vb

@@ -32,15 +32,11 @@ This example sets Sheet1 to be printed in landscape orientation.
 Worksheets("Sheet1").PageSetup.Orientation = xlLandscape
 ```
 
-<br/>
-
 This example sets the currently active sheet to be printed in portrait orientation.
 
 ```vb
 ActiveSheet.PageSetup.Orientation = xlPortrait
 ```
-
-<br/>
 
 This procedure switches the orientation to the opposite option.
 

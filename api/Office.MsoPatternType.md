@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the fill pattern used in a shape.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPattern10Percent**|2|10% of the foreground color |

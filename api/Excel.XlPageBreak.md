@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies page break location on the worksheet.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlPageBreakAutomatic**|-4105|Excel will automatically add page breaks.|

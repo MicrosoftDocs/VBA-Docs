@@ -20,8 +20,6 @@ Sets and returns the comparison mode for comparing string keys in a **[Dictionar
 
 _object_.**CompareMode** [ = _compare_ ]
 
-<br/>
-
 The **CompareMode** property has the following parts:
 
 |Part|Description|

@@ -40,16 +40,12 @@ Worksheets("Sheet1").Activate
 Selection.Clear
 ```
 
-<br/>
-
 This example displays the Visual Basic object type of the selection.
 
 ```vb
 Worksheets("Sheet1").Activate 
 MsgBox "The selection object type is " & TypeName(Selection)
 ```
-
-<br/>
 
 This example displays information about the current selection.
 

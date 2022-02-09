@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [TransformXML](Access.Application.TransformXML.md) method to specify the action taken if the XSL file contains scripting code.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDisableScript**|2|The script is disabled.|

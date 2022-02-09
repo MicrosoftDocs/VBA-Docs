@@ -38,8 +38,6 @@ Charts("Chart1").SeriesCollection(1).Values = _
  Worksheets("Sheet1").Range("C5:T5")
 ```
 
-<br/>
-
 To assign a constant value to each individual data point, you must use an array.
 
 ```vb

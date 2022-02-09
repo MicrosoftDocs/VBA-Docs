@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the intensity of light used on a shape.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoLightingBright**|3|Bright light |

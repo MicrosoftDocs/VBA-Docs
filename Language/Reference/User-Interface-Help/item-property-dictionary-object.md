@@ -18,8 +18,6 @@ Sets or returns an _item_ for a specified _key_ in a **[Dictionary](dictionary-o
 
 _object_.**Item** (_key_) [ = _newitem_ ]
 
-<br/>
-
 The **Item** property has the following parts:
 
 |Part|Description|

@@ -14,13 +14,11 @@ ms.localizationpriority: medium
 
 Returns a confidence interval for the forecast value at the specified target date.
 
-
 ## Syntax
 
-_expression_.**Forecast_ETS_ConfInt** (_Arg1_,  _Arg2_,  _Arg3_,  _Arg4_,  _Arg5_,  _Arg6_,  _Arg7_)
+_expression_.**Forecast_ETS_ConfInt** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_, _Arg6_, _Arg7_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
-
 
 ## Parameters
 
@@ -38,7 +36,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 **Double**
 
-
 ## Remarks
 
 It'sn't necessary to sort the timeline (_Arg3_), because **Forecast_ETS_ConfInt** sorts it implicitly for calculations. If **Forecast_ETS_ConfInt** can't identify a constant step in the timeline, it returns run-time error 1004. If the timeline contains duplicate values, **Forecast_ETS_ConfInt** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_ConfInt** returns run-time error 1004.
@@ -52,8 +49,5 @@ The default value of 1 for seasonality (_Arg5_) means Excel detects seasonality 
 Passing 0 for the data completions parameter (_Arg6_) instructs the algorithm to account for missing points as zeros. The default value of 1 accounts for missing points by computing them to be the average of the neighboring points. If there is more than 30% missing data, **Forecast_ETS_ConfInt** returns run-time error 1004.
 
 The aggregation parameter (_Arg7_) is a numeric value specifying the method to use to aggregate several values that have the same time stamp. The default value of 0 specifies AVERAGE, while other numbers between 1 and 6 specify SUM, COUNT, COUNTA, MIN, MAX, and MEDIAN.
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

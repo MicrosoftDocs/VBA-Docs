@@ -47,15 +47,11 @@ With Charts("Chart1").Axes(xlCategory)
 End With
 ```
 
-<br/>
-
 This example turns off major gridlines for the category axis on Chart1.
 
 ```vb
 Charts("Chart1").Axes(xlCategory).HasMajorGridlines = False
 ```
-
-<br/>
 
 This example turns off all gridlines for all axes on Chart1.
 

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates how to format the child nodes in an organization chart.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOrgChartLayoutBothHanging**|2|Places child nodes vertically below the parent node on both the left and the right side.|

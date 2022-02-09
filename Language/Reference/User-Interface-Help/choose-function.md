@@ -18,8 +18,6 @@ Selects and returns a value from a list of [arguments](../../Glossary/vbe-glossa
 
 **Choose**(_index_, _choice-1_, [ _choice-2_, _..._, [ _choice-n_ ]] )
 
-<br/>
-
 The **Choose** function syntax has these parts:
 
 |Part|Description|

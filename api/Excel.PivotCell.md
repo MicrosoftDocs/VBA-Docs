@@ -48,8 +48,6 @@ Not_In_PivotTable:
 End Sub
 ```
 
-<br/>
-
 This example determines the column field that the data item of cell B5 is in. It then determines if the column field title matches "Inventory" and notifies the user. The example assumes that a PivotTable exists on the active worksheet, and that column B of the worksheet contains a column field of the PivotTable.
 
 ```vb

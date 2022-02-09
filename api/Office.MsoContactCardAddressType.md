@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the address type for a contact card.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardAddressTypeUnknown**|0|An unknown identifier for an address.|

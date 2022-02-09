@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Use with the **ExportXML** method to specify the text encoding to use for exporting XML data.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acUTF16**|1|UTF16 encoding.|

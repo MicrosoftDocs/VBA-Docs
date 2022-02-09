@@ -47,8 +47,6 @@ numColumns = Selection.Columns.Count
 Selection.Resize(numRows + 1, numColumns + 1).Select
 ```
 
-<br/>
-
 This example assumes that you have a table on Sheet1 that has a header row. The example selects the table without selecting the header row. The active cell must be somewhere in the table before you run the example.
 
 ```vb

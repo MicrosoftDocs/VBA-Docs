@@ -18,8 +18,6 @@ Returns the last component of a specified path that is not part of the drive spe
 
 _object_.**GetFileName** (_pathspec_)
 
-<br/>
-
 The **GetFileName** method syntax has these parts:
 
 |Part|Description|

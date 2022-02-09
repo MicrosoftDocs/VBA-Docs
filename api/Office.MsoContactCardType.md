@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the contact card type.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardTypeEnterpriseContact**|0|A contact card for an enterprise contact address.|

@@ -38,8 +38,6 @@ This example changes the width of columns A through I on the datasheet to achiev
 myChart.Application.DataSheet.Columns("A:I").AutoFit
 ```
 
-<br/>
-
 This example changes the width of columns A through E on the datasheet to achieve the best fit, based only on the contents of cells A1:E1.
 
 ```vb

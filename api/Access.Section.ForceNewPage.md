@@ -39,8 +39,6 @@ The **ForceNewPage** property uses the following settings.
 |After Section|2|The section immediately following the current section is printed at the top of a new page.|
 |Before & After|3|The current section is printed at the top of a new page, and the next section is printed at the top of a new page.|
 
-<br/>
-
 Following are some examples of the **ForceNewPage** property setting.
 
 |Section|Sample setting|Description|

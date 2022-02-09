@@ -21,8 +21,6 @@ Executes one of several groups of [statements](../../Glossary/vbe-glossary.md#st
  [ **Case Else** [ _elsestatements_ ]] <br/>
 **End Select**
 
-<br/>
-
 The **Select Case** statement syntax has these parts:
 
 |Part|Description|

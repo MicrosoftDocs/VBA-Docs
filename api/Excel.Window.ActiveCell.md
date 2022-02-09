@@ -49,8 +49,6 @@ Worksheets("Sheet1").Activate
 MsgBox ActiveCell.Value
 ```
 
-<br/>
-
 This example changes the font formatting for the active cell.
 
 ```vb

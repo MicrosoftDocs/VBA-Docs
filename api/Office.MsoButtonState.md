@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the appearance of a command bar button control.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoButtonDown**|-1|Button is pressed down.|

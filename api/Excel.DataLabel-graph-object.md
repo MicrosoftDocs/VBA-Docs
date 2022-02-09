@@ -35,8 +35,6 @@ The following example sets the number format for the fifth data label in series 
 myChart.SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
 
-<br/>
-
 The following example turns on the data label for the second point in series one in the chart, and sets the data label text to Saturday.
 
 ```vb
@@ -47,8 +45,6 @@ With myChart
  End With 
 End With
 ```
-
-<br/>
 
 For a trendline, the **DataLabel** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text to show only the equation, and then places the data label text in cell A1 on the datasheet.
 

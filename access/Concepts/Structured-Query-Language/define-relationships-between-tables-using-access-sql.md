@@ -15,14 +15,12 @@ A primary key is the field (or fields) that is used to uniquely identify each re
 
 A foreign key is a field (or fields) in one table that references the primary key in another table. The data in the fields from both tables is exactly the same, and the table with the primary key record (the primary table) must have existing records before the table with the foreign key record (the foreign table) has the matching or related records. Like primary keys, you can define foreign keys in the table declaration by using the **CONSTRAINT** clause.
 
-There are essentially three types of relationships: 
+There are essentially three types of relationships:
 
 - **One-to-one** For every record in the primary table, there is one and only one record in the foreign table.
-    
 - **One-to-many** For every record in the primary table, there are one or more related records in the foreign table.
-    
 - **Many-to-many** For every record in the primary table, there are many related records in the foreign table, and for every record in the foreign table, there are many related records in the primary table.
-    
+
 For example, suppose you want to add an invoices table to an invoicing database. Every customer in your customers table can have many invoices in the invoices table—this is a classic one-to-many scenario. You can take the primary key from the customers table and define it as the foreign key in the invoices table, thereby establishing the proper relationship between the tables.
 
 When defining the relationships between tables, you must make the **CONSTRAINT** declarations at the field level. This means that the constraints are defined within a **[CREATE TABLE](../../../api/overview/Access.md)** statement. To apply the constraints, use the **CONSTRAINT** keyword after a field declaration, name the constraint, name the table that it references, and name the field or fields within that table that will make up the matching foreign key.
@@ -33,7 +31,7 @@ The following statement assumes that the tblCustomers table has already been bui
 CREATE TABLE tblInvoices  
     (InvoiceID INTEGER CONSTRAINT PK_InvoiceID PRIMARY KEY, 
     CustomerID INTEGER NOT NULL CONSTRAINT FK_CustomerID  
-        REFERENCES tblCustomers (CustomerID),  
+        REFERENCES tblCustomers (CustomerID), 
     InvoiceDate DATETIME, 
     Amount CURRENCY) 
 
@@ -42,11 +40,10 @@ CREATE TABLE tblInvoices
 Note that the primary key index (PK_InvoiceID) for the invoices table is declared within the **CREATE TABLE** statement. To enhance the performance of the primary key, an index is automatically created for it, so there is no need to use a separate **[CREATE INDEX](../../../api/overview/Access.md)** statement.
 Now create a shipping table that will contain each customer's shipping address. Assume that there will be only one shipping record for each customer record, so you'll be establishing a one-to-one relationship.
 
-
 ```sql
 CREATE TABLE tblShipping  
     (CustomerID INTEGER CONSTRAINT PK_CustomerID PRIMARY KEY 
-        REFERENCES tblCustomers (CustomerID),  
+        REFERENCES tblCustomers (CustomerID), 
     Address TEXT(50), 
     City TEXT(50), 
     State TEXT(2), 

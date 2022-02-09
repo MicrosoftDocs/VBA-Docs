@@ -38,8 +38,6 @@ Application.PivotTableSelection = True
 Worksheets(1).PivotTables(1).SelectionMode = xlDataOnly
 ```
 
-<br/>
-
 In this example, the PivotTable report is in outline form.
 
 ```vb

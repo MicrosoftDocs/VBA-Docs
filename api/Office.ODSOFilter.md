@@ -50,8 +50,6 @@ Sub SetQueryCriterion()
 End Sub
 ```
 
-<br/>
-
 Use the **[Add](office.odsofilters.add.md)** method of the **ODSOFilters** object to add a new filter criterion to the query. This example adds a new line to the query string and then applies the combined filter to the data source.
 
 ```vb

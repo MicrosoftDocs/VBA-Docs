@@ -69,8 +69,6 @@ Sub AddComboBox()
 End Sub
 ```
 
-<br/>
-
 The preceding example relies on the following code, which is stored in a class module in the VBA project.
 
 ```vb

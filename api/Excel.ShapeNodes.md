@@ -31,8 +31,6 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes(3).Nodes.Delete 4
 ```
 
-<br/>
-
 Use the **Insert** method to create a new node and add it to the **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on _myDocument_. For this example to work, shape three must be a freeform with at least four nodes.
 
 ```vb
@@ -41,8 +39,6 @@ With myDocument.Shapes(3).Nodes
  .Insert 4, msoSegmentCurve, msoEditingSmooth, 210, 100 
 End With
 ```
-
-<br/>
 
 Use **Nodes** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 

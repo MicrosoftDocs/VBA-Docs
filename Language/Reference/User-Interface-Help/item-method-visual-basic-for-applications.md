@@ -18,8 +18,6 @@ Returns a specific [member](../../Glossary/vbe-glossary.md#member) of a **[Colle
 
 _object_.**Item**(_index_)
 
-<br/>
-
 The **Item** method syntax has the following object qualifier and part.
 
 |Part|Description|

@@ -60,8 +60,6 @@ DoCmd.TransferDatabase acImport, "Microsoft Access", _
     "Corporate Sales Report"
 ```
 
-<br/>
-
 The following example links the ODBC database table Authors to the current database.
 
 ```vb
@@ -69,8 +67,6 @@ DoCmd.TransferDatabase acLink, "ODBC Database", _
     "ODBC;DSN=DataSource1;UID=User2;PWD=www;LANGUAGE=us_english;" & _ 
     "DATABASE=pubs", acTable, "Authors", "dboAuthors"
 ```
-
-<br/>
 
 The following example imports a list in SharePoint to a table in the current database:
 
@@ -80,8 +76,6 @@ DoCmd.TransferDatabase acImport, "WSS", _
     "LIST=NameOfListToImport;RetrieveIds=Yes", _
     acTable, , "NameOfLocalTable", False
 ```
-
-<br/>
 
 The following example exports a table in the current database to a list in SharePoint:
 

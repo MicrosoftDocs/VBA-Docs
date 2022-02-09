@@ -24,15 +24,11 @@ Use the **COMAddIns** property of the **Application** object to return the **COM
 MsgBox Application.COMAddIns.Count
 ```
 
-<br/>
-
 Use the **Update** method of the **COMAddins** collection to refresh the list of COM add-ins from the Windows registry, as in the following example.
 
 ```vb
 Application.COMAddIns.Update
 ```
-
-<br/>
 
 Use **COMAddIns.Item(index)**, where _index_ is either an ordinal value that returns the COM add-in at that position in the **COMAddIns** collection, or a **String** value that represents the ProgID of the specified COM add-in. The following example displays a COM add-in's description text and ProgID (`"msodraa9.ShapeSelect"`) in a message box.
 

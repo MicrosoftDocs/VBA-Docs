@@ -27,8 +27,6 @@ For MultiPage, TabStrip:<br/>
 For all other controls:<br/>
 **Private Sub**_object_ _**Click( )**
 
-<br/>
-
 The **Click** event syntax has these parts:
 
 |Part|Description|

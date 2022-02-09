@@ -47,8 +47,6 @@ The following table describes the tab options.
 |**Description**|Displays a QuickTip for the currently selected control.|
 |**Modify Selection**|Allows you to change the selected command. See the following table for a list of commands.|
 
-<br/>
-
 The following table lists the commands available under **Modify Selection**.
 
 |Command|Description|

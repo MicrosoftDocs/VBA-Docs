@@ -36,23 +36,17 @@ The following example hides all the OLE objects on worksheet one.
 Worksheets(1).OLEObjects.Visible = False
 ```
 
-<br/>
-
 Use the **Add** method to create a new OLE object and add it to the **OLEObjects** collection. The following example creates a new OLE object representing the bitmap file Arcade.bmp and adds it to worksheet one.
 
 ```vb
 Worksheets(1).OLEObjects.Add FileName:="arcade.gif"
 ```
 
-<br/>
-
 The following example creates a new ActiveX control (a list box) and adds it to worksheet one.
 
 ```vb
 Worksheets(1).OLEObjects.Add ClassType:="Forms.ListBox.1"
 ```
-
-<br/>
 
 You use the code name of a control in the names of its event procedures. However, when you return a control from the **[Shapes](Excel.Shapes.md)** or **OLEObjects** collection for a sheet, you must use the shape name, not the code name, to refer to the control by name. For example, assume that you add a check box to a sheet and that both the default shape name and the default code name are CheckBox1. If you then change the control code name by typing chkFinished next to **(Name)** in the Properties window, you must use chkFinished in event procedures names, but you still have to use CheckBox1 to return the control from the **Shapes** or **OLEObject** collection, as shown in the following example.
 

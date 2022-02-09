@@ -65,8 +65,6 @@ To specify characters that aren't displayed when you press the corresponding key
 |UP ARROW| `{UP}`|
 |F1 through F15| `{F1}` through `{F15}`|
 
-<br/>
-
 You can also specify keys combined with Shift and/or Ctrl and/or Alt. To specify a key combined with one or more of the keys just mentioned, use the following table.
 
 |To combine a key with|Precede the key code with|

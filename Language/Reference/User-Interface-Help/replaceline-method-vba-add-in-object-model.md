@@ -18,8 +18,6 @@ Replaces an existing line of code with a specified line of code.
 
 _object_.**ReplaceLine** (_line_, _code_)
 
-<br/>
-
 The **ReplaceLine** syntax has these parts:
 
 |Part|Description|

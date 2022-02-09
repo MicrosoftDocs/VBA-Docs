@@ -20,8 +20,6 @@ Returns **True** if a specified key exists in the **[Dictionary](dictionary-obje
 
 _object_.**Exists** (_key_)
 
-<br/>
-
 The **Exists** method syntax has these parts:
 
 |Part|Description|

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the OLE client and OLE server roles in which a command bar control is used when two Microsoft Office applications are merged.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoControlOLEUsageBoth**|3|Control runs on both client and server.|

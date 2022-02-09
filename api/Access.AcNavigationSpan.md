@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the orientation of navigation buttons.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acHorizontal**|0|The navigation buttons are displayed horizontally.|

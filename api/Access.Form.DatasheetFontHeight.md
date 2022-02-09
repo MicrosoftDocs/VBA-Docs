@@ -87,8 +87,6 @@ Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _
 End Sub
 ```
 
-<br/>
-
 The following example makes the same changes as the preceding example in Datasheet view of the open **Products** form.
 
 ```vb

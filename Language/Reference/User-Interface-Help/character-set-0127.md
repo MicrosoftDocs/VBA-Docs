@@ -48,8 +48,6 @@ ms.localizationpriority: medium
 |30||62|>|94|^|126|~|
 |31||63|?|95|_|127||
 
-<br/>
-
 The values with blanks are control characters, not characters displayed or printed by Windows.
 
 <!--These characters aren't supported by Windows.-->

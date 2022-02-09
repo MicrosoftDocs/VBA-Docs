@@ -38,8 +38,6 @@ Sub SetPath()
 End Sub
 ```
 
-<br/>
-
 Use the **Time** property of the **AutoRecover** object to set the time interval for backing up all files. Units for the **Time** property are in minutes.
 
 ```vb

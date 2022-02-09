@@ -32,8 +32,6 @@ Private Sub Worksheet_Calculate()
 End Sub
 ```
 
-<br/>
-
 Some events can be used to substitute an action for the default application behavior, or to make a small change to the default behavior. The following example traps the right-click event and adds a new menu item to the shortcut menu for cells B1:B10.
 
 ```vb

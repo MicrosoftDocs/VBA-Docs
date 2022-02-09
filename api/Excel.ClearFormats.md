@@ -31,8 +31,6 @@ This example clears all formatting from cells A1:G37 on the datasheet.
 myChart.Application.DataSheet.Range("A1:G37").ClearFormats
 ```
 
-<br/>
-
 This example clears the formatting from the chart.
 
 ```vb

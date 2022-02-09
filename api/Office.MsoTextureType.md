@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the texture type for the selected fill.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoTexturePreset**|1|Preset texture type |

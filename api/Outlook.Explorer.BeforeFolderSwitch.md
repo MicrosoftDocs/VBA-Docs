@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Occurs before the explorer goes to a new folder, either as a result of user action or through program code.
 
-
 ## Syntax
 
 _expression_. `BeforeFolderSwitch`( `_NewFolder_` , `_Cancel_` )
 
 _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,13 +33,11 @@ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** o
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-If the folder being switched to is in a namespace that doesn't support automation (such as the file system),  _NewFolder_ is **Nothing**.
-
+If the folder being switched to is in a namespace that doesn't support automation (such as the file system), _NewFolder_ is **Nothing**.
 
 ## Example
 
 This sample prevents a user from switching to a folder named "Off Limits". The sample code must be placed in a class module such as `ThisOutlookSession`, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook. To run this example without errors, make sure a folder by the name 'Off Limits' exists in the folder displayed in the active explorer.
-
 
 ```vb
 Public WithEvents myOlExp As Outlook.Explorer 
@@ -55,8 +49,7 @@ Public Sub Initialize_handler()
  Set myOlExp = Application.ActiveExplorer 
  
 End Sub 
- 
- 
+  
  
 Private Sub myOlExp_BeforeFolderSwitch(ByVal NewFolder As Object, Cancel As Boolean) 
  
@@ -71,9 +64,7 @@ Private Sub myOlExp_BeforeFolderSwitch(ByVal NewFolder As Object, Cancel As Bool
 End Sub
 ```
 
-
 ## See also
-
 
 [Explorer Object](Outlook.Explorer.md)
 

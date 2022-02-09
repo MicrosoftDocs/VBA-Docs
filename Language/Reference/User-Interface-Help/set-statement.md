@@ -18,8 +18,6 @@ Assigns an object reference to a [variable](../../Glossary/vbe-glossary.md#varia
 
 **Set** _objectvar_ **=** {[ **New** ] _objectexpression_ | **Nothing** }
 
-<br/>
-
 The **Set** statement syntax has these parts:
 
 |Part|Description|

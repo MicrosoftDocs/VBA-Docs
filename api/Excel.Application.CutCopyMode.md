@@ -32,8 +32,6 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 | **xlCopy**|In Copy mode.|
 | **xlCut**|In Cut mode.|
 
-<br/>
-
 |Set value|Description|
 |:-----|:-----|
 | **False**|Cancels Cut or Copy mode and removes the moving border.|

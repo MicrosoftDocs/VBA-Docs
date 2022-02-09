@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbMethod**|1|Indicates that a method has been invoked.|

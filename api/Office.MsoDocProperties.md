@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the data type for a document property.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPropertyTypeBoolean**|2|Boolean value.|

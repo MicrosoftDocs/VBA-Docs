@@ -66,8 +66,6 @@ With ActiveSheet
 End With
 ```
 
-<br/>
-
 The following example adds two rectangles to _myDocument_ and connects them with a curved connector.
 
 ```vb

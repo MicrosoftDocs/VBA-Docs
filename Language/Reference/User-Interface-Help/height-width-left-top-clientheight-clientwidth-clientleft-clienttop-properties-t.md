@@ -31,8 +31,6 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-<br/>
-
 
 ```vb
 Private Sub CommandButton1_Click() 

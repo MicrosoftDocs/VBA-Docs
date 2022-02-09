@@ -35,8 +35,6 @@ For Each objPO in objPObjs
 Next objPO
 ```
 
-<br/>
-
 Use **PublishObjects** (_index_), where _index_ is the index number of the specified item in the workbook, to return a single **PublishObject** object. The following example sets the location where the first item in workbook three is saved.
 
 ```vb

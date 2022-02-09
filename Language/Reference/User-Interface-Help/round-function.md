@@ -18,8 +18,6 @@ Returns a number rounded to a specified number of decimal places.
 
 **Round**(_expression_, [ _numdecimalplaces_ ])
 
-<br/>
-
 The **Round** function syntax has these parts:
 
 |Part|Description|

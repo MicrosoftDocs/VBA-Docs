@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the ideal screen resolution to be used to view a document in a web browser.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoScreenSize1024x768**|4|1024x768 resolution |

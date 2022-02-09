@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the language to use to determine which line break level is used when the line break control option is turned on.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoFarEastLineBreakLanguageJapanese**|1041|Japanese|

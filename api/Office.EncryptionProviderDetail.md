@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies details about encryption providers.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**encprovdetURL**|0|A URL encryption provider.|

@@ -59,8 +59,6 @@ Private Sub Report_NoData(Cancel As Integer)
 End Sub
 ```
 
-<br/>
-
 The following example shows how to use the **Page** event to add a watermark to a report before it is printed.
 
 ```vb
@@ -98,8 +96,6 @@ Private Sub Report_Page()
 End Sub
 ```
 
-<br/>
-
 The following example shows how to set the **BackColor** property of a control based on its value.
 
 ```vb
@@ -128,8 +124,6 @@ Private Sub Detail_Paint()
     SetControlFormatting
 End Sub
 ```
-
-<br/>
 
 The following example shows how to format a report to show progress bars. The example uses a pair of rectangle controls, **boxInside** and **boxOutside**, to create a progress bar based on the value of **AvgOfRating**. The progress bars are visible only when the report is opened in **Print Preview** mode or it is printed.
 

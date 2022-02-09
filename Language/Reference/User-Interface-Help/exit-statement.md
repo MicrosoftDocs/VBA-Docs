@@ -22,8 +22,6 @@ Exits a block of **Do…Loop**, **For…Next**, **Function**, **Sub**, or **Prop
 **Exit Property** <br/>
 **Exit Sub**
 
-<br/>
-
 The **Exit** statement syntax has these forms:
 
 |Statement|Description|

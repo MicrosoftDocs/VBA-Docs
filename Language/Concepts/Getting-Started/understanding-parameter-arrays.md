@@ -30,8 +30,6 @@ Sub AnyNumberArgs(strName As String, ParamArray intScores() As Variant)
 End Sub
 ```
 
-<br/>
-
 The following examples show how you can call this procedure.
 
 ```vb

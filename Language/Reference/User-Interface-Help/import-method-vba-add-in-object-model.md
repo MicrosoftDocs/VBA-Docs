@@ -18,8 +18,6 @@ Adds a component to a [project](../../Glossary/vbe-glossary.md#project) from a f
 
 _object_.**Import** (_filename_) **As VBComponent**
 
-<br/>
-
 The **Import** syntax has these parts:
 
 |Part|Description|

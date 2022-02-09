@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of a shape or range of shapes.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**mso3DModel**|30|3D model|

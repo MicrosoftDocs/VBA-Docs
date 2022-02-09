@@ -13,16 +13,13 @@ The [GetTable](../../../api/Outlook.TableView.GetTable.md) method of the [TableV
 
 The following code sample contains the `GetItemsInView` method. `GetItemsInView` first makes a few checks to see if the current user of the Outlook session uses the Microsoft Exchange Server, whether the current user has a manager, and whether Instant Search is operational in the default store of the session. 
 
-Because the eventual search relies on the [Search](../../../api/Outlook.Explorer.Search.md) method of the [Explorer](../../../api/Outlook.Explorer.md) object, and the eventual result display uses the **GetTable** method, which is based on the current view of the current folder of the active explorer, `GetItemsInView` creates an explorer, displays the Inbox in this explorer, and sets up the search by using this **Explorer** object. `GetItemsInView` specifies the search criteria as important items from the current user's manager and the search scope as all folders of the [MailItem](../../../api/Outlook.MailItem.md) item type. 
+Because the eventual search relies on the [Search](../../../api/Outlook.Explorer.Search.md) method of the [Explorer](../../../api/Outlook.Explorer.md) object, and the eventual result display uses the **GetTable** method, which is based on the current view of the current folder of the active explorer, `GetItemsInView` creates an explorer, displays the Inbox in this explorer, and sets up the search by using this **Explorer** object. `GetItemsInView` specifies the search criteria as important items from the current user's manager and the search scope as all folders of the [MailItem](../../../api/Outlook.MailItem.md) item type.
 
 After `GetItemsInView` calls the **Explorer.Search** method, any search results are displayed in this explorer, including items from other folders and stores that meet the search criteria. `GetItemsInView` obtains a **TableView** object that contains this explorer view of the search results. By using the **GetTable** method of this **TableView** object, `GetItemsInView` then obtains a **Table** object that contains the aggregated items returned from the search. Finally `GetItemsInView` displays the subject column of each row of the **Table** object that represents an item in the search results.
 
 The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. 
 
-You should use the following code in the `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
-
-
-
+Use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the [Outlook Primary Interop Assembly Reference](/office/client-developer/outlook/pia/welcome-to-the-outlook-primary-interop-assembly-reference.md).
 
 ```cs
 private void GetItemsInView() 
@@ -57,8 +54,8 @@ private void GetItemsInView()
                 // Make the new explorer visible. 
                 explorer.Display; 
  
-                // Search for items from the manager marked important,  
-                // from all folders of the same item type as the current folder,  
+                // Search for items from the manager marked important,
+                // from all folders of the same item type as the current folder,
                 // which is the MailItem item type. 
                 string searchFor = 
                     "from:" + "\"" + managerName  

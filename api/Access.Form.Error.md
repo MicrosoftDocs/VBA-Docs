@@ -60,8 +60,6 @@ Private Sub Form_Error(DataErr As Integer, Response As Integer)
 End Sub
 ```
 
-<br/>
-
 The following example shows how you can replace a default error message with a custom error message.
 
 ```vb

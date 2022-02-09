@@ -64,8 +64,6 @@ VBA7 **Declare** statement syntax
 | _arglist_|Optional. List of variables representing [arguments](../../Glossary/vbe-glossary.md#argument) that are passed to the procedure when it is called.|
 | _type_|Optional. [Data type](../../Glossary/vbe-glossary.md#data-type) of the value returned by a **Function** procedure; may be [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type) (not currently supported), [Date](../../Glossary/vbe-glossary.md#date-data-type), [String](../../Glossary/vbe-glossary.md#string-data-type) (variable length only), [Variant](../../Glossary/vbe-glossary.md#variant-data-type), a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type), or an [object type](../../Glossary/vbe-glossary.md#object-type). (**LongLong** is a valid declared type only on 64-bit platforms.)|
 
-<br/>
-
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ]

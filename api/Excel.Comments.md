@@ -33,8 +33,6 @@ For Each c In cmt
 Next
 ```
 
-<br/>
-
 Use the **[AddComment](Excel.Range.AddComment.md)** method of the **Range** object to add a comment to a range. The following example adds a comment to cell E5 on worksheet one.
 
 ```vb
@@ -43,8 +41,6 @@ With Worksheets(1).Range("e5").AddComment
  .Text "reviewed on " & Date 
 End With
 ```
-
-<br/>
 
 Use **Comments** (_index_), where _index_ is the comment number, to return a single comment from the **Comments** collection. The following example hides comment two on worksheet one.
 

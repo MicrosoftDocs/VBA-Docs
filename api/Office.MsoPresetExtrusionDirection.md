@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Used with the **PresetExtrusionDirection** property of the **ThreeDFormat** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoExtrusionBottom**|2|Lower part |

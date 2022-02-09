@@ -38,8 +38,6 @@ The leftmost column and the top row, which are commonly used for legend text or 
 myChart.Application.DataSheet.Range("A0").Value = "Annual Sales"
 ```
 
-<br/>
-
 The following example inserts the text District 1 in the leftmost cell in row 2 (the third row).
 
 ```vb
@@ -53,8 +51,6 @@ This example sets the value of cell A1 on the datasheet to 3.14159.
 ```vb
 myChart.DataSheet.Range("A1").Value = 3.14159
 ```
-
-<br/>
 
 This example loops on cells A1:C3 on the datasheet. If one of the cells has a value of less than 0.001, the example replaces that value with 0 (zero).
 

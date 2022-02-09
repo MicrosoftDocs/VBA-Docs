@@ -18,22 +18,15 @@ The form table, Frmcache.dat, also located in the Forms folder, is used to locat
 Since Microsoft Office Outlook 2007, Outlook looks for forms in the following order. When it finds a match, Outlook opens the form and does not search further.
 
 1. Forms cached in memory. If you have another item open that uses the same form, Outlook already has that form in memory and uses that copy instead of reloading the form.
-    
 2. Forms already cached in the form cache on the local disk drive.
-    
 3. Forms published in the folder that is currently selected.
-    
 4. Forms in the Personal Forms Library.
-    
 5. Forms in the Organizational Forms Library.
-    
 6. Standard Outlook forms, such as Note, Post, and Contact, in the Application Forms Library.
-    
 
- **Note** Before it looks for a custom form, Outlook determines whether the message class of any form region matches the message class of the item being loaded. If there is a match, Outlook loads the form region. By default, Outlook also loads any form region that has a message class derived from the message class of the item, unless the **exactMessageClass** element of the form region is set to **True**. After loading the appropriate form regions, Outlook proceeds to look for forms in the order specified above. However, if any of the loaded form regions is a replacement or replace-all form region that has the **loadLegacyForm** element set to **False**, Outlook will not continue to look for and load any form that contains custom form pages. For more information about the **exactMessageClass** and **loadLegacyForm** elements, see the Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
+>[!NOTE]
+>Before it looks for a custom form, Outlook determines whether the message class of any form region matches the message class of the item being loaded. If there is a match, Outlook loads the form region. By default, Outlook also loads any form region that has a message class derived from the message class of the item, unless the **exactMessageClass** element of the form region is set to **True**. After loading the appropriate form regions, Outlook proceeds to look for forms in the order specified above. However, if any of the loaded form regions is a replacement or replace-all form region that has the **loadLegacyForm** element set to **False**, Outlook will not continue to look for and load any form that contains custom form pages. For more information about the **exactMessageClass** and **loadLegacyForm** elements, see the Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 
 Because Outlook caches forms, avoid having more than one form with the same name or publishing the same form to more than one forms library. Forms that are used in a folder-based solution should be published only in the folder. If you are developing a solution based on mail message forms, you can temporarily publish the forms in your Personal Forms Library. After you finalize a form, publish it to the Organizational Forms Library on the Microsoft Exchange Server. Make a backup copy of the form, and then delete it from your Personal Forms Library. If you need to publish a form in more than one location, make sure that you keep all forms libraries up-to-date with the current version of the form.
-
- **Note**
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies paragraph alignment for a text block.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlignCenter**|1|Specifies that the center of each line of text is aligned to the midpoint of the right and left text box margins, and the left and right edges of each line are ragged.|

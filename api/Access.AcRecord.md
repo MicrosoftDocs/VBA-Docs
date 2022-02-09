@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which record to make the current record.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acFirst**|2|Make the first record the current record.|

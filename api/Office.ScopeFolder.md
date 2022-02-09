@@ -39,15 +39,11 @@ Use the **ScopeFolder** property of the **SearchScope** object to return the roo
 Set sf = SearchScopes.Item(1).ScopeFolder
 ```
 
-<br/>
-
 Use the **[Item](office.scopefolders.item.md)** property of the **ScopeFolders** collection to return a subfolder of a root **ScopeFolder** object; for example:
 
 ```vb
 Set sf = SearchScopes.Item(1).ScopeFolder.ScopeFolders.Item(1)
 ```
-
-<br/>
 
 The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** object will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be `A:\`, `C:\`, etc.
 

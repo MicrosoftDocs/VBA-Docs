@@ -44,8 +44,6 @@ With Worksheets("Sheet1").Range("B2:Z100")
 End With
 ```
 
-<br/>
-
 This example scans a column of data named _myRange_. If a cell has the same value as the cell immediately preceding it, the example displays the address of the cell that contains the duplicate data.
 
 ```vb
@@ -56,8 +54,6 @@ For n = 2 To r.Rows.Count
     End If 
 Next
 ```
-
-<br/>
 
 This example demonstrates how **Cells** changes the behavior of the **[Item](Excel.Range.Item.md)** member.  
 
@@ -71,8 +67,6 @@ Public Sub PrintRangeAdresses
    Debug.Print columnsRange.Cells.Item(2,1).Address 'Prints "$B$3"   
 End Sub
 ```
-
-<br/>
 
 This example demonstrates how **Cells** changes the enumeration behavior.
 

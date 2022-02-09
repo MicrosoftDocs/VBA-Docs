@@ -14,16 +14,13 @@ ms.localizationpriority: medium
 
 To test your dialog box in the Visual Basic Editor, click **Run Sub/UserForm** on the **Run** menu.
 
-To display a dialog box from Visual Basic, use the **Show**method. The following example displays the dialog box named UserForm1.
-
-
+To display a dialog box from Visual Basic, use the **Show** method. The following example displays the dialog box named UserForm1.
 
 ```vb
 Private Sub GetUserName() 
  UserForm1.Show 
 End Sub
 ```
-
 
  **Note** se the **Unload** method in an event procedure, such as the Click event procedure for a command button, to close a dialog box.
 

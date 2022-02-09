@@ -18,8 +18,6 @@ Returns an expression formatted as a number.
 
 **FormatNumber**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
-<br/>
-
 The **FormatNumber** function syntax has these parts:
 
 |Part|Description|

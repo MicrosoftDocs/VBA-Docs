@@ -18,8 +18,6 @@ Use an OLE programmatic identifier (sometimes called a ProgID) to create an Auto
 
 To create the ActiveX controls that are listed in the following table, use the corresponding OLE programmatic identifier.
 
-<br/>
-
 |To create this control|Use this identifier|
 |:-----|:-----|
 |CheckBox|Forms.CheckBox.1|
@@ -41,8 +39,6 @@ To create the ActiveX controls that are listed in the following table, use the c
 
 To create the Microsoft Access objects that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Access that is available on the computer where the macro is running.
 
-<br/>
-
 |To create this object|Use one of these identifiers|
 |:-----|:-----|
 |Application|Access.Application|
@@ -52,8 +48,6 @@ To create the Microsoft Access objects that are listed in the following table, u
 ## Microsoft Excel
 
 To create the Microsoft Excel objects that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Excel that is available on the computer where the macro is running.
-
-<br/>
 
 |To create this object|Use this identifier|Comments|
 |:-----|:-----|:-----|
@@ -66,8 +60,6 @@ To create the Microsoft Excel objects that are listed in the following table, us
 
 To create the Graph objects that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running.
 
-<br/>
-
 |To create this object|Use this identifier|
 |:-----|:-----|
 |Application|MSGraph.Application|
@@ -77,17 +69,11 @@ To create the Graph objects that are listed in the following table, use one of t
 
 To create the Microsoft Outlook object that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Outlook that is available on the computer where the macro is running.
 
-<br/>
-
 |To create this object|Use this identifier|
 |:-----|:-----|
 |Application|Outlook.Application|
 
-<br/>
-
 To create the ActiveX controls that are specific to the Outlook forms listed in the following table, use the corresponding OLE programmatic identifier.
-
-<br/>
 
 |To create this Microsoft Office Outlook control|Use this identifier|
 |:-----|:-----|
@@ -113,8 +99,6 @@ To create the ActiveX controls that are specific to the Outlook forms listed in 
 
 To create the Microsoft PowerPoint object that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of PowerPoint that is available on the computer where the macro is running.
 
-<br/>
-
 |To create this object|Use this identifier|
 |:-----|:-----|
 |Application|PowerPoint.Application|
@@ -122,8 +106,6 @@ To create the Microsoft PowerPoint object that are listed in the following table
 ## Microsoft Word
 
 To create the Microsoft Word objects that are listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Word that is available on the computer where the macro is running.
-
-<br/>
 
 |To create this object|Use one of these identifiers|
 |:-----|:-----|

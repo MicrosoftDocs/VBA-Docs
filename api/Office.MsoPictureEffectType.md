@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the types of picture effects.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoEffectBackgroundRemoval**|1|Background removal effect |

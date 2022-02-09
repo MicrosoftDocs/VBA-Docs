@@ -51,8 +51,6 @@ Sub test()
 End Sub
 ```
 
-<br/>
-
 ```vb
 ' Using Number property with an error from an 
 ' Automation object

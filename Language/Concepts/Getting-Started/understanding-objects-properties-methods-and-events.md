@@ -26,8 +26,6 @@ Sub CloseFirst()
 End Sub
 ```
 
-<br/>
-
 The following procedure uses a name specified as a string to identify a **Form** object.
 
 ```vb
@@ -35,8 +33,6 @@ Sub CloseForm()
  Forms("MyForm.frm").Close 
 End Sub
 ```
-
-<br/>
 
 You can also manipulate an entire collection of objects if the objects share common [methods](../../Glossary/vbe-glossary.md#method). For example, the following procedure closes all open forms.
 

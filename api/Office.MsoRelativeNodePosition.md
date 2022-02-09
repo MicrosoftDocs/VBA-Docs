@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies where a node is added to a diagram relative to existing nodes.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAfterLastSibling**|4|Node is added after last sibling.|

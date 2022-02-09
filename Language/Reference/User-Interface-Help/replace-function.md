@@ -18,8 +18,6 @@ Returns a string, which is a substring of a string expression beginning at the s
 
 **Replace**(_expression_, _find_, _replace_, [ _start_, [ _count_, [ _compare_ ]]])
 
-<br/>
-
 The **Replace** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

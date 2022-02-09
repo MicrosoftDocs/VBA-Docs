@@ -62,8 +62,6 @@ Sub ChangeButtonImage()
 End Sub
 ```
 
-<br/>
-
 The following example gets the image and mask of the first **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
 
 ```vb

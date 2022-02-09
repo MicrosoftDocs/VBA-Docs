@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies constants that define the styles of the slabs on the **File** tab.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**OutSpaceSlabStyleError**|2|Error style |

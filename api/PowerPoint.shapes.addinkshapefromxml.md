@@ -11,17 +11,13 @@ ms.localizationpriority: medium
 
 Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represents the new ink shape.
 
-
 ## Syntax
 
-_expression_. `AddInkShapeFromXML`( _InkXML_,  _InkXML_,  _Left_,  _Top_,  _Width_,  _Height_)
+_expression_. `AddInkShapeFromXML`( _InkXML_, _InkXML_, _Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,11 +31,9 @@ _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** obj
 
 A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 
-
 ## See also
-
 
 [Shape](PowerPoint.Shape.md)
 [Shapes Object](PowerPoint.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)

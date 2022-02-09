@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies which icon, if any, to display with an alert. 
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoAlertIconCritical**|1|Displays the **Critical** icon.|

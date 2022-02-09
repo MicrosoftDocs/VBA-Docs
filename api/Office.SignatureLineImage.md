@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the signature line image.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**siglnimgSignedInvalid**|3|The SignedInvalid image |

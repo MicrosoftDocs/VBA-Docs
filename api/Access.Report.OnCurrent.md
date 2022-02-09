@@ -56,8 +56,6 @@ End Sub
 		
 ```
 
-<br/>
-
 The event procedure **Report_Current()** is automatically called when the **Current** event is fired. This procedure simply collects the values of two of the report's text boxes and sends them to another procedure for processing.
 
 ```vb
@@ -78,8 +76,6 @@ Private Sub Report_Current()
 End Sub
 		
 ```
-
-<br/>
 
 The following code example simply processes the two values passed to it.
 

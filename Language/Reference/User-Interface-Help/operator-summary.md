@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 
 # Operator summary 
 
-<br/>
-
 |Types|Description|Operators|
 |:--------|:----------|:----|
 |Arithmetic operators |Operators used to perform mathematical calculations.| [`*` operator](operator.md)<br/> [`^` operator](caret-operator.md)<br/> [`/` operator](forwardslash-operator.md)<br/> [`\` operator](backslash-operator.md)<br/> [`Mod` operator](mod-operator.md)<br/> [`+` operator](plus-operator.md)<br/> [`-` operator](minus-operator.md)<br/>|

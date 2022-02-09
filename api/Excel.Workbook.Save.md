@@ -41,8 +41,6 @@ This example saves the active workbook.
 ActiveWorkbook.Save
 ```
 
-<br/>
-
 This example saves all open workbooks and then closes Microsoft Excel.
 
 ```vb
@@ -51,8 +49,6 @@ For Each w In Application.Workbooks
 Next w 
 Application.Quit
 ```
-
-<br/>
 
 This example uses the **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 

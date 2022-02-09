@@ -20,8 +20,6 @@ Creates a specified file name and returns a **[TextStream](textstream-object.md)
 
 _object_.**CreateTextFile** (_filename_, [ _overwrite_, [ _unicode_ ]])
 
-<br/>
-
 The **CreateTextFile** method has these parts:
 
 |Part|Description|

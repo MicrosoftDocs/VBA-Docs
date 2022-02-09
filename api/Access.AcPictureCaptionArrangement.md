@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **[PictureCaptionArrangement](Access.CommandButton.PictureCaptionArrangement.md)** property to determine how a button's caption is arranged in relation to its picture.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBottom**|3|The caption appears below the picture.|

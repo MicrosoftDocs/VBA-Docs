@@ -30,15 +30,11 @@ Use the **[Windows](excel.application.windows.md)** property to return the **Win
 Windows.Arrange arrangeStyle:=xlCascade
 ```
 
-<br/>
-
 Use the **[NewWindow](Excel.Window.NewWindow.md)** method to create a new window and add it to the collection. The following example creates a new window for the active workbook.
 
 ```vb
 ActiveWorkbook.NewWindow
 ```
-
-<br/>
 
 Use **Windows** (_index_), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
 

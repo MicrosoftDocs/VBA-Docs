@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies how the PivotTable cache or a [query table](excel.querytable.md) connects to its data source.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**xlAlways** |1|The PivotTable cache or query table always uses external source information (as defined by the **[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)** or **[SourceDataFile](Excel.PivotCache.SourceDataFile.md)** property) to reconnect.|

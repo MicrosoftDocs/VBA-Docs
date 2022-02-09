@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates the type of text wrap.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCharWrapMixed**|-2|Specifies a mixed text wrap.|

@@ -33,15 +33,11 @@ Worksheets("Sheet1").Range("A1").Style = "Normal"
 
 ```
 
-<br/>
-
 An alternative is the following.
 
 ```vb
 Worksheets("Sheet1").Range("A1").Style = ThisWorkbook.Styles("Normal")
 ```
-
-<br/>
 
 If cell B4 on Sheet1 currently has the Normal style applied, this example applies the Percent style.
 

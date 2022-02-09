@@ -18,8 +18,6 @@ Enables input/output (I/O) to a file.
 
 **Open** _pathname_ **For** _mode_ [ **Access** _access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
 
-<br/>
-
 The **Open** statement syntax has these parts:
 
 |Part|Description|
@@ -58,8 +56,6 @@ Close #1
 
 ```
 
-<br/>
-
 This example opens the file in Binary mode for writing operations only.
 
 ```vb
@@ -68,8 +64,6 @@ Open "TESTFILE" For Binary Access Write As #1
 Close #1 
 
 ```
-
-<br/>
 
 The following example opens the file in Random mode. The file contains records of the user-defined type.
 
@@ -86,8 +80,6 @@ Close #1
 
 ```
 
-<br/>
-
 This code example opens the file for sequential output; any process can read or write to the file.
 
 ```vb
@@ -95,8 +87,6 @@ Open "TESTFILE" For Output Shared As #1
 ' Close before reopening in another mode. 
 Close #1 
 ```
-
-<br/>
 
 This code example opens the file in Binary mode for reading; other processes can't read the file.
 

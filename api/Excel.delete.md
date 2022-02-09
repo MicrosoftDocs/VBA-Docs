@@ -61,8 +61,6 @@ Set mySheet = myChart.Application.DataSheet
 mySheet.Range("A1:D10").Delete Shift:=xlShiftToLeft
 ```
 
-<br/>
-
 This example deletes the chart title.
 
 ```vb

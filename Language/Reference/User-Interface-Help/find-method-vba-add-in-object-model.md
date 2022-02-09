@@ -18,8 +18,6 @@ Searches the active [module](../../Glossary/vbe-glossary.md#module) for a specif
 
 _object_.**Find** (_target_, _startline_, _startcol_, _endline_, _endcol_, [ _wholeword_ ], [ _matchcase_ ], [ _patternsearch_ ]) **As Boolean**
 
-<br/>
-
 The **Find** syntax has these parts:
 
 |Part|Description|

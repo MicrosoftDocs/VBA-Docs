@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies an Information Rights Management (IRM) permission type for a document.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoPermissionChange**|15|Permission to change |

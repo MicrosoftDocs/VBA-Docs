@@ -58,8 +58,6 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 
 ```
 
-<br/>
-
 The following example returns a run-time error because the data type of _Value1_ is invalid.
 
 ```vb

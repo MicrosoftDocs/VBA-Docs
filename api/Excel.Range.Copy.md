@@ -42,8 +42,6 @@ Worksheets("Sheet1").Range("A1:D4").Copy _
     destination:=Worksheets("Sheet2").Range("E5")
 ```
 
-<br/>
-
 The following code example inspects the value in column D for each row on Sheet1. If the value in column D equals A, the entire row is copied onto SheetA in the next empty row. If the value equals B, the row is copied onto SheetB.
 
 ```vb

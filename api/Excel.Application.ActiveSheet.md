@@ -39,8 +39,6 @@ This example displays the name of the active sheet.
 MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ```
 
-<br/>
-
 This example creates a print preview of the active sheet that has the page number at the top of column B on each page.
 
 ```vb

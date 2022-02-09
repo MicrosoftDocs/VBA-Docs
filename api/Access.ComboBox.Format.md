@@ -71,15 +71,11 @@ Me!Time.Format = "Long Time"
 Me!Registered.Format = "Yes/No"
 ```
 
-<br/>
-
 The following example sets the **Format** property by using a custom format. This format displays a date as **Jan 2018**.
 
 ```vb
 Forms!Employees!HireDate.Format = "mmm yyyy"
 ```
-
-<br/>
 
 The following example demonstrates a Visual Basic function that formats numeric data by using the Currency format and formats text data entirely in capital letters. The function is called from the **OnLostFocus** event of an unbound control named **TaxRefund**.
 

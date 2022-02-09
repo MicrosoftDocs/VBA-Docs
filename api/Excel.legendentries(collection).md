@@ -36,8 +36,6 @@ With myChart.Legend
 End With
 ```
 
-<br/>
-
 The following example changes the font style to italic for the text of the legend entry at the top of the legend (this is usually the legend for series one) in _myChart_.
 
 ```vb

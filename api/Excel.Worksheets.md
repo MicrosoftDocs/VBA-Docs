@@ -28,15 +28,11 @@ Use the **[Worksheets](Excel.Workbook.Worksheets.md)** property of the **Workboo
 Worksheets.Move After:=Sheets(Sheets.Count)
 ```
 
-<br/>
-
 Use the **Add** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
 
 ```vb
 Worksheets.Add Count:=2, Before:=Sheets(1)
 ```
-
-<br/>
 
 Use **Worksheets** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 

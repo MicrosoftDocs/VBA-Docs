@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **Orientation** property to specify a printer's print orientation.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRORLandscape**|2|Landscape orientation|

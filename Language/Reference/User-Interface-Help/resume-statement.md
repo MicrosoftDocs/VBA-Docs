@@ -20,8 +20,6 @@ Resumes execution after an error-handling routine is finished.
 **Resume Next**<br/>
 **Resume** _line_
 
-<br/>
-
 The **Resume** statement syntax can have any of the following forms:
 
 |Statement|Description|

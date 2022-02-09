@@ -42,8 +42,6 @@ Sub AddWatch()
 End Sub
 ```
 
-<br/>
-
 You can specify to remove individual cells from the watch facility by using the **[Delete](Excel.Watches.Delete.md)** method of the **Watches** collection. This example deletes cell A3 on worksheet 1 of book 1 from the Watch window. This example assumes that you have added the cell A3 on sheet 1 of book 1 (by using the previous example to add a **Watch** object).
 
 ```vb
@@ -53,8 +51,6 @@ Sub DeleteAWatch()
  
 End Sub
 ```
-
-<br/>
 
 You can also specify to remove all cells from the Watch window by using the **Delete** method of the **Watches** collection. This example deletes all cells from the Watch window.
 

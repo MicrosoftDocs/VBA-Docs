@@ -18,8 +18,6 @@ Activates an application window.
 
 **AppActivate** _title_, [ _wait_ ]
 
-<br/>
-
 The **AppActivate** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

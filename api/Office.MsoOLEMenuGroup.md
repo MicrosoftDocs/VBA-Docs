@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the menu group that a command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application).
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoOLEMenuGroupContainer**|2|**Container** menu |

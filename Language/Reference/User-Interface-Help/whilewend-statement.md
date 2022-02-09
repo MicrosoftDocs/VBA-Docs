@@ -18,8 +18,6 @@ Executes a series of [statements](../../Glossary/vbe-glossary.md#statement) as l
 
 **While** _condition_ [ _statements_ ] **Wend**
 
-<br/>
-
 The **While...Wend** statement syntax has these parts:
 
 |Part|Description|

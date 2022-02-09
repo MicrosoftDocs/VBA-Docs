@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the type of the **ReflectionFormat** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoReflectionType1**|1|Type 1 |

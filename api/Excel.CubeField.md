@@ -34,8 +34,6 @@ For Each objPF in _
 Next objPF
 ```
 
-<br/>
-
 Use **CubeFields** (_index_), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
 
 ```vb

@@ -47,8 +47,6 @@ This code will convert cell E5 to a _Stocks_ Linked data type in the US-English 
 Range("E5").ConvertToLinkedDataType ServiceID:=268435456, LanguageCulture:= "en-US"
 ```
 
-<br/>
-
 This code will convert cell E6 to a _Geography_ Linked data type in the US-English locale.
 
 ```vb

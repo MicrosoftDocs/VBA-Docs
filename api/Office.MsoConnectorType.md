@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies a type of connector.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoConnectorCurve**|3|Curved connector|

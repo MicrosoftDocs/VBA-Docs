@@ -28,11 +28,11 @@ The **Like** operator syntax has these parts:
 
 ## Remarks
 
-If _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is [Null](../../Glossary/vbe-glossary.md#null),  _result_ is **Null**. 
+If _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is [Null](../../Glossary/vbe-glossary.md#null), _result_ is **Null**.
 
 The behavior of the **Like** operator depends on the **Option Compare** statement. The default [string-comparison](../../Glossary/vbe-glossary.md#string-comparison) method for each [module](../../Glossary/vbe-glossary.md#module) is **Option Compare Binary**.  
 
-**Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. Sort order is determined by the code page. 
+**Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. Sort order is determined by the code page.
 
 In the following example, a typical binary sort order is shown:  
 
@@ -44,7 +44,7 @@ In the following example, a typical binary sort order is shown:
 
 Built-in pattern matching provides a versatile tool for string comparisons. The pattern-matching features allow you to use wildcard characters, character lists, or character ranges, in any combination, to match strings. The following table shows the characters allowed in _pattern_ and what they match:
 
-|Characters in  _pattern_|Matches in  _string_|
+|Characters in _pattern_|Matches in _string_|
 |:-----|:-----|
 |**?**|Any single character.|
 |**\***|Zero or more characters.|
@@ -64,13 +64,10 @@ The meaning of a specified range depends on the character ordering valid at [run
 Other important rules for pattern matching include the following:
 
 - An exclamation point (**!**) at the beginning of _charlist_ means that a match is made if any character except the characters in _charlist_ is found in _string_. When used outside brackets, the exclamation point matches itself.
-    
 - A hyphen (**-**) can appear either at the beginning (after an exclamation point if one is used) or at the end of _charlist_ to match itself. In any other location, the hyphen is used to identify a range of characters.
-    
 - When a range of characters is specified, they must appear in ascending sort order (from lowest to highest). `[A-Z]` is a valid pattern, but `[Z-A]` is not.
-    
 - The character sequence `[]` is considered a zero-length string ("").
-    
+
 In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The **Like** operator recognizes that the single special character and the two individual characters are equivalent.
 
 When a language that uses a special character is specified in the system locale settings, an occurrence of the single special character in either _pattern_ or _string_ matches the equivalent 2-character sequence in the other string. Similarly, a single special character in _pattern_ enclosed in brackets (by itself, in a list, or in a range) matches the equivalent 2-character sequence in _string_.

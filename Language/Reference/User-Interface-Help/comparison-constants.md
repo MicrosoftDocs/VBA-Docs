@@ -14,8 +14,6 @@ ms.localizationpriority: medium
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications [type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values.
 
-<br/>
-
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison by using the setting of the **[Option Compare](option-compare-statement.md)** statement.|

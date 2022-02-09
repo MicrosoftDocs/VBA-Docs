@@ -20,8 +20,6 @@ Fires an event declared at the [module level](../../Glossary/vbe-glossary.md#mod
 
 The required _eventname_ is the name of an event declared within the [module](../../Glossary/vbe-glossary.md#module) and follows Basic variable naming conventions.
 
-<br/>
-
 The **RaiseEvent** statement syntax has these parts:
 
 |Part|Description|
@@ -88,8 +86,6 @@ Private Sub ts_DisplayFinalTime()
     Text2.Text = CStr(FinalTime)
 End Sub
 ```
-
-<br/>
 
 
 The remaining code is in a class module named TimerState. Included among the commands in this module are the **Raise Event** statements.

@@ -44,8 +44,6 @@ Worksheets("Sheet1").Activate
 ActiveCell.ShowPrecedents
 ```
 
-<br/>
-
 This example removes the tracer arrow for one level of precedents of the active cell on Sheet1.
 
 ```vb

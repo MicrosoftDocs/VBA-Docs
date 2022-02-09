@@ -37,8 +37,6 @@ The **DefaultView** property uses the following settings.
 |PivotChart|4|Displays the form as a PivotChart.|
 |Split Form|5|Displays a split view of a Single Form and a datasheet containing the form's records.|
 
-<br/>
-
 The views displayed in the **View** button list depend on the setting of the **ViewsAllowed** property. For example, if the **ViewsAllowed** property is set to Datasheet, Form view is disabled in the **View** button list and on the **View** menu.
 
 The combination of these properties creates the following conditions.

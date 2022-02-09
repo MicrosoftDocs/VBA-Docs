@@ -37,8 +37,6 @@ This example enters the number 3 as an array constant in cells A1:C5 on Sheet1.
 Worksheets("Sheet1").Range("A1:C5").FormulaArray = "=3"
 ```
 
-<br/>
-
 This example enters the array formula =SUM(A1:C3) in cells E1:E3 on Sheet1.
 
 ```vb

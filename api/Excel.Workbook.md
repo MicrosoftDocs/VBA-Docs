@@ -37,8 +37,6 @@ Workbooks(1).Activate
 
 The index number denotes the order in which the workbooks were opened or created. `Workbooks(1)` is the first workbook created, and `Workbooks(Workbooks.Count)` is the last one created. Activating a workbook doesn't change its index number. All workbooks are included in the index count, even if they are hidden.
 
-<br/>
-
 The **[Name](Excel.Workbook.Name.md)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](Excel.Workbook.SaveAs.md)** method to save the workbook under a different name.
 
 The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
@@ -47,15 +45,11 @@ The following example activates Sheet1 in the workbook named Cogs.xls (the workb
 Workbooks("Cogs.xls").Worksheets("Sheet1").Activate
 ```
 
-<br/>
-
 The **[ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property of the **Application** object returns the workbook that's currently active. The following example sets the name of the author for the active workbook.
 
 ```vb
 ActiveWorkbook.Author = "Jean Selva"
 ```
-
-<br/>
 
 This example emails a worksheet tab from the active workbook by using a specified email address and subject. To run this code, the active worksheet must contain the email address in cell A1, the subject in cell B1, and the name of the worksheet to send in cell C1.
 

@@ -18,8 +18,6 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 **MIRR**(_values_( ), _finance\_rate_, _reinvest\_rate_)
 
-<br/>
-
 The **MIRR** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

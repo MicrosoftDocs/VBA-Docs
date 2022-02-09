@@ -18,8 +18,6 @@ Writes display-formatted data to a sequential file.
 
 **Print** **#**_filenumber_, [ _outputlist_ ]
 
-<br/>
-
 The **Print #** statement syntax has these parts:
 
 |Part|Description|
@@ -32,8 +30,6 @@ The **Print #** statement syntax has these parts:
 The _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 [{ **Spc**(_n_) | **Tab** [ (_n_) ]}] [ _expression_ ] [ _charpos_ ]
-
-<br/>
 
 |Setting|Description|
 |:-----|:-----|
@@ -62,14 +58,12 @@ All data written to the file by using **Print #** is internationally-aware; that
 
 Because **Print #** writes an image of the data to the file, you must delimit the data so that it prints correctly. If you use **Tab** with no arguments to move the print position to the next print zone, **Print #** also writes the spaces between print fields to the file.
 
-> [!NOTE] 
+> [!NOTE]
 > If, at some future time, you want to read the data from a file by using the **Input #** statement, use the **[Write #](writestatement.md)** statement instead of the **Print #** statement to write the data to the file. Using **Write #** ensures the integrity of each separate data field by properly delimiting it, so that it can be read back in by using **Input #**. Using **Write #** also ensures that it can be correctly read in any locale.
-
 
 ## Example
 
 This example uses the **Print #** statement to write data to a file.
-
 
 ```vb
 Open "TESTFILE" For Output As #1 ' Open file for output. 

@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 
 # Math keyword summary
 
-<br/>
-
 |Action|Keywords|
 |:-----|:-----|
 |Derive trigonometric functions.|[Atn](atn-function.md), [Cos](cos-function.md), [Sin](sin-function.md), [Tan](tan-function.md)|

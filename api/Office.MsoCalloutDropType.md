@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies the starting position of the callout line relative to the text bounding box. Used with the **PresetDrop** method of the **CalloutFormat** object.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoCalloutDropBottom**|4|Bottom|

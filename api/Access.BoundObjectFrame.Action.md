@@ -28,8 +28,6 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 The **Action** property uses the following settings.
 
-<br/>
-
 |Constant|Description|
 |:-----|:-----|
 |**acOLECreateEmbed** (0)|Creates an embedded object.<br/><br/>To use this setting, you must first set the control's **OLETypeAllowed** property to **acOLEEmbedded** or **acOLEEither**. Set the **Class** property to the type of OLE object that you want to create. Use the **SourceDoc** property to use an existing file as a template.|
@@ -44,13 +42,9 @@ The **Action** property uses the following settings.
 |**acOLEPasteSpecialDlg** (15)|Displays the **Paste Special** dialog box.<br/><br/>In Form view or Datasheet view, you display this dialog box to enable the user to paste an object from the Clipboard. The dialog box provides several options, including pasting either a linked or embedded object. Use the control's **OLETypeAllowed** property to determine the type of object that can be pasted (with the constant **acOLELinked**, **acOLEEmbedded**, or **acOLEEither**) by using this dialog box.|
 |**acOLEFetchVerbs** (17)|Updates the list of verbs that an OLE object supports.<br/><br/>To display the list of verbs, use the **ObjectVerbs** and **ObjectVerbsCount** properties.|
 
-<br/>
-
 The **Action** property isn't available in Design view but can be read or set in other views.
 
 When a control's **Enabled** property is set to No or its **Locked** property is set to Yes, you can't use some **Action** property settings. The following table indicates which settings are allowed or not allowed under these conditions.
-
-<br/>
 
 |Setting|Enabled = No|Locked = Yes|
 |:-----|:-----|:-----|

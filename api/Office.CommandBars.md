@@ -31,16 +31,12 @@ For Each cbar in CommandBars
 Next
 ```
 
-<br/>
-
 Use the **Add** method to add a new command bar to the collection. The following example creates a custom toolbar named **Custom1** and displays it as a floating toolbar.
 
 ```vb
 Set cbar1 = CommandBars.Add(Name:="Custom1", Position:=msoBarFloating) 
 cbar1.Visible = True
 ```
-
-<br/>
 
 Use enumName, where _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example docks the toolbar named **Custom1** at the bottom of the application window.
 

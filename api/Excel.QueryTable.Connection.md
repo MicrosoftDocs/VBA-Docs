@@ -55,8 +55,6 @@ Worksheets(1).QueryTables(1) _
  .Connection:="ODBC;DSN=96SalesData;UID=Rep21;PWD=NUyHwYQI;"
 ```
 
-<br/>
-
 This example specifies a text file.
 
 ```vb

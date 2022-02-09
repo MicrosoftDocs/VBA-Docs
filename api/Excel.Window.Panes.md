@@ -39,8 +39,6 @@ MsgBox "There are " & ActiveWindow.Panes.Count & _
  " panes in the active window"
 ```
 
-<br/>
-
 This example activates the pane in the upper-left corner of the active window in Book1.xls.
 
 ```vb

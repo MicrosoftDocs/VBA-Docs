@@ -37,8 +37,6 @@ Me![New Data]            ' Use if control name contains space.
 Me("NewData")            ' Performance is slightly slower.
 ```
 
-<br/>
-
 You can also refer to an individual control by referring explicitly to the **Controls** collection.
 
 ```vb
@@ -54,8 +52,6 @@ Me.Controls![New Data]
 ```vb
 Me.Controls("NewData")
 ```
-
-<br/>
 
 Additionally, you can refer to a control by its index in the collection. The **Controls** collection is indexed beginning with zero.
 

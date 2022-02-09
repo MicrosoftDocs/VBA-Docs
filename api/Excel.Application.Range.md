@@ -46,15 +46,11 @@ This example sets the value of cell A1 on Sheet1 to 3.14159.
 Worksheets("Sheet1").Range("A1").Value = 3.14159
 ```
 
-<br/>
-
 This example creates a formula in cell A1 on Sheet1.
 
 ```vb
 Worksheets("Sheet1").Range("A1").Formula = "=10*RAND()"
 ```
-
-<br/>
 
 This example loops on cells A1:D10 on Sheet1. If one of the cells has a value less than 0.001, the code replaces that value with 0 (zero).
 
@@ -65,8 +61,6 @@ For Each c in Worksheets("Sheet1").Range("A1:D10")
  End If 
 Next c
 ```
-
-<br/>
 
 This example loops on the range named TestRange and displays the number of empty cells in the range.
 
@@ -79,8 +73,6 @@ For Each c In Range("TestRange")
 Next c 
 MsgBox "There are " & numBlanks & " empty cells in this range"
 ```
-
-<br/>
 
 This example sets the font style in cells A1:C5 on Sheet1 to italic. The example uses Syntax 2 of the **Range** property.
 

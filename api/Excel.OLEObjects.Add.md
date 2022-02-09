@@ -55,8 +55,6 @@ ActiveWorkbook.Worksheets("Sheet1").OLEObjects.Add _
  ClassType:="Word.Document"
 ```
 
-<br/>
-
 This example adds a command button to sheet one.
 
 ```vb

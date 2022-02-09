@@ -15,8 +15,6 @@ Inserts code from a file into a code module.
 
 _object_.**InsertFile** (_filename_) **As String**
 
-<br/>
-
 The **InsertFile** syntax has these parts:
 
 |Part|Description|

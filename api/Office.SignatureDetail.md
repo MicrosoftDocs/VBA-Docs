@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Indicates additional information about a signature.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigdetApplicationName**|1|Specifies the application name.|

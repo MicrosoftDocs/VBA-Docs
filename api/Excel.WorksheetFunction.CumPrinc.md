@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Returns the cumulative principal paid on a loan between start_period and end_period.
 
-
 ## Syntax
 
 _expression_.**CumPrinc** (_Arg1_, _Arg2_, _Arg3_, _Arg4_, _Arg5_, _Arg6_)
 
 _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
-
 
 ## Parameters
 
@@ -39,7 +37,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 **Double**
 
-
 ## Remarks
 
 The following table lists values used in _Arg6_.
@@ -53,13 +50,10 @@ Make sure that you are consistent about the units that you use for specifying ra
     
 _Arg2_, _Arg4_, _Arg5_, and type are truncated to integers.
     
-If rate ≤ 0,  _Arg2_ ≤ 0, or _Arg3_ ≤ 0, **CumPrinc** generates an error.
+If rate ≤ 0, _Arg2_ ≤ 0, or _Arg3_ ≤ 0, **CumPrinc** generates an error.
     
 If _Arg4_ < 1, _Arg5_ < 1, or _Arg4_ > _Arg5_, **CumPrinc** generates an error.
     
 If _Arg6_ is any number other than 0 or 1, **CumPrinc** generates an error.
-    
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

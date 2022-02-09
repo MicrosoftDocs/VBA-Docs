@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies properties of a signature provider.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**sigprovdetHashAlgorithm**|1|Hash algorithm used to hash the data in the file.|

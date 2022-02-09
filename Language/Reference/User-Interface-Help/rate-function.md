@@ -18,8 +18,6 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 **Rate**(_nper_, _pmt_, _pv_, [ _fv_, [ _type_, [ _guess_ ]]])
 
-<br/>
-
 The **Rate** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

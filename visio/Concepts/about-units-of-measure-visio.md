@@ -63,9 +63,8 @@ For example, if you enter  _45.635°_, Visio displays the equivalent value as 45
 
 You can specify fractional units of measure in the DrawingScale cell to affect the number of ruler subdivisions that Visio displays in the drawing window. By default, Visio divides distances into tenths when drawing its rulers. If you use fractional units of measure in the DrawingScale cell, Visio divides distance into the following:
 
-
-- Eighths for **visInchFrac** and **visMileFrac**    
-- Twelfths for **visFeetAndInches**    
+- Eighths for **visInchFrac** and **visMileFrac**
+- Twelfths for **visFeetAndInches**
 
 Fractional units of measure have no effect in cells other than in the DrawingScale cell.
 

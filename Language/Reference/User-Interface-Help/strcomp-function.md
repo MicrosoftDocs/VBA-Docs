@@ -18,8 +18,6 @@ Returns a **Variant** (**Integer**) indicating the result of a [string compariso
 
 **StrComp**(_string1_, _string2_, [ _compare_ ])
 
-<br/>
-
 The **StrComp** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

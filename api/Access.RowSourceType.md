@@ -92,8 +92,6 @@ Public Function ListMondays(fld As Control, id As Variant, _
 End Function
 ```
 
-<br/>
-
 The next example uses a static array to store the names of the databases in the current directory. To call this function, enter **ListMDBs** as the **RowSourceType** property setting and leave the **RowSource** property setting blank.
 
 ```vb

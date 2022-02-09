@@ -18,8 +18,6 @@ Returns a string indicating the specified day of the week.
 
 **WeekdayName**(_weekday_, _abbreviate_, _firstdayofweek_)
 
-<br/>
-
 The **WeekdayName** function syntax has these parts:
 
 |Part|Description|

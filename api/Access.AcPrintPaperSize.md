@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Used with the **PaperSize** property to indicate the paper size to use when printing.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPRPS10x14**|16|10 x 14 in.|

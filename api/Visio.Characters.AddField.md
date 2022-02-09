@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Replaces the text represented by a **Characters** object with a new field of the category, code, and format you specify.
 
-
 ## Syntax
 
 _expression_.**AddField** (_Category_, _Code_, _Format_)
 
 _expression_ A variable that represents a **[Characters](Visio.Characters.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,28 +34,20 @@ _expression_ A variable that represents a **[Characters](Visio.Characters.md)** 
 
 Nothing
 
-
 ## Remarks
 
 Using the **AddField** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields in the text:
 
-
 - Date/Time
-    
 - Document Info
-    
 - Geometry
-    
 - Object Info
-    
 - Page Info
-    
-
 
 To add a custom formula field, use the **AddCustomField** method.
 
 To specify language and calendar versions for Date/Time fields, use the **AddFieldEx** method.
 
-Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)**, **[VisFieldCodes](Visio.visfieldcodes.md)**, and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
+Constant values for _Category_, _Code_, and _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)**, **[VisFieldCodes](Visio.visfieldcodes.md)**, and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

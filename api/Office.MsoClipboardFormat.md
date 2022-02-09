@@ -13,8 +13,6 @@ ms.localizationpriority: medium
 
 Specifies Clipboard formats.
 
-<br/>
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoClipboardFormatHTML**|2|HTML format|
