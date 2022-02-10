@@ -16,8 +16,6 @@ ms.localizationpriority: medium
 
 Specifies the time period for which an Outlook item is marked as a task.
 
-
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **olMarkComplete**|5|Mark the task as complete.|
@@ -31,22 +29,15 @@ Specifies the time period for which an Outlook item is marked as a task.
 
 This enumeration is used by the **MarkAsTask** method for the following Outlook items:
 
-
 - [ContactItem](Outlook.ContactItem.md)
-    
 - [DistListItem](Outlook.DistListItem.md)
-    
 - [MailItem](Outlook.MailItem.md)
-    
 - [PostItem](Outlook.PostItem.md)
-    
 - [SharingItem](Outlook.SharingItem.md)
-    
+
 Depending on the value chosen, the following properties are set to the specified default values.
 
-
-
-|** **Enumeration values****|** **Property values****|
+|**Enumeration values**|**Property values**|
 |:-----|:-----|
 | **olMarkComplete**| **TaskCompletedDate** is set to the current date and time (**Now** in Visual Basic) if the item has been marked as a task. **TaskCompletedDate** is set to the empty date value (#1/1/4501#) if the item has not been marked as a task, or if the task has already been marked complete.|
 | **olMarkNextWeek**| **IsMarkedAsTask** is set to **True**. **TaskSubject** is set to the value of the **Subject** property for the Outlook item. **TaskStartDate** is set to the first working day of next week. **TaskDueDate** is set to the last working day of next week. **TaskCompletedDate** is set to the empty date value (#1/1/4501#). **ToDoTaskOrdinal** is set to the current date and time (**Now** in Visual Basic).|

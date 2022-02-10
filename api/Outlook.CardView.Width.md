@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Returns or sets a **Long** value indicating the width (in characters) of cards in the **[CardView](Outlook.CardView.md)** object. Read/write.
 
-
 ## Syntax
 
 _expression_.**Width**
 
 _expression_ A variable that represents a [CardView](Outlook.CardView.md) object.
-
 
 ## Remarks
 
@@ -30,9 +28,7 @@ This property can be set to a value between 20 and 1000. If this property is set
 
 The default value for this property depends on the **[DefaultItemType](Outlook.Folder.DefaultItemType.md)** property value of the **[Folder](Outlook.Folder.md)** object displayed by the view:
 
-
-
-|** **DefaultItemType value****|** **Default value****|
+|**DefaultItemType value**|**Default value**|
 |:-----|:-----|
 | **olAppointmentItem**|40|
 | **olContactItem**, **olDistributionListItem**|36|
@@ -40,7 +36,6 @@ The default value for this property depends on the **[DefaultItemType](Outlook.F
 | **olTaskItem**|50|
 
 ## See also
-
 
 [CardView Object](Outlook.CardView.md)
 

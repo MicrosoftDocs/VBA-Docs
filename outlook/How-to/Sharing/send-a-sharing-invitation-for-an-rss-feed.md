@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the **SharingItem](../../../api/Outlook.SharingItem.md)** object. The **[CreateSharingItem](../../../api/Outlook.NameSpace.CreateSharingItem.md)** method of the **[NameSpace](../../../api/Outlook.NameSpace.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests. Sharing responses are automatically created by Outlook when the **[Reply](../../../api/Outlook.SharingItem.Reply(method).md)** or **[ReplyAll](../../../api/Outlook.SharingItem.ReplyAll(method).md)** methods of a **SharingItem** that represents a sharing invitation or sharing request are called.
 
-This sample uses the **penSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object or the **[OpenSharedFolder](../../../api/Outlook.SharingItem.OpenSharedFolder.md)** method of the **SharingItem** object to open the RSS feed.
+This sample uses the **OpenSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object or the **[OpenSharedFolder](../../../api/Outlook.SharingItem.OpenSharedFolder.md)** method of the **SharingItem** object to open the RSS feed.
 
 1. The sample first creates a **ameSpace** object reference to the MAPI namespace.
 
