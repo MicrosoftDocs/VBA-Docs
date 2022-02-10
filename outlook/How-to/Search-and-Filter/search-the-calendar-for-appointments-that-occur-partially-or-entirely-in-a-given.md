@@ -19,7 +19,7 @@ You may think that querying for appointments that start on or after the start da
 [Start] >= myStart AND [End] <= myEnd
 ```
 
-However, to reliably find all appointments that occur entirely within the time period  _and_ those that overlap with the time period, you need to use a query that looks for appointments that start on or before the end time of the period, and end on or after the start time of the time period. This would translate to the following query:
+However, to reliably find all appointments that occur entirely within the time period _and_ those that overlap with the time period, you need to use a query that looks for appointments that start on or before the end time of the period, and end on or after the start time of the time period. This would translate to the following query:
 
 ```sql
 [Start] <= myEnd AND [End] >= myStart

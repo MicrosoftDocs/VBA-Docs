@@ -67,7 +67,7 @@ In this article, we will discuss the implementation of the SDI in the Excel UI a
 
 ## What's changed in the User Interface
 
-If you look closely after opening an Excel workbook, you no longer see the window state buttons ( _minimize_,  _maximize_, and  _restore_) in the upper-right corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
+If you look closely after opening an Excel workbook, you no longer see the window state buttons ( _minimize_, _maximize_, and  _restore_) in the upper-right corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
 
 **Figure 3. Windows state UI in Excel 2010**
 
@@ -225,8 +225,6 @@ The following section provides workarounds for issues you may encounter when usi
 The new Single Document Interface in Excel 2013 makes it easy to work with multiple workbooks. You can even drag the workbooks to different monitors for convenience. You just need to remember that there is only one top-level window and one ribbon UI menu per workbook. This may require that you update any existing code to cache the state of controls and settings as you move from workbook to workbook.
 
 ## See also
-
-Find addition information on the topics discussed in this article at the following locations.
 
 - [Open Excel workbooks in separate windows and view them side by side](https://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx) 
 - [Excel 2013 single document interface (SDI): How to rebuild your task panes to support it](https://www.add-in-express.com/creating-addins-blog/2013/02/28/excel2013-single-document-interface-task-panes/)

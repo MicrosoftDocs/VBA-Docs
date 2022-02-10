@@ -13,20 +13,15 @@ The client can listen for and respond to changes on a node or on a node and on a
 
 On the **CustomXMLParts** collection:
 
-- **StreamAfterAdd.** Allows a client to respond after a new store is added to the document.
-    
-- **StreamBeforeDelete.** Allows a client to respond before a store is removed from the document.
-    
-- **StreamAfterLoad.** Allows a client to respond after a store item is loaded with XML.
-    
+- **StreamAfterAdd** allows a client to respond after a new store is added to the document.
+- **StreamBeforeDelete** allows a client to respond before a store is removed from the document.
+- **StreamAfterLoad** allows a client to respond after a store item is loaded with XML.-
+
 On the **CustomXMLPart** object:
 
-- **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once for the top-most node.
-    
-- **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once for the top-most node.
-    
-- **NodeAfterReplace.** Allows a client to respond after an XML node is replaced in the store.
-    
+- **NodeAfterInsert** allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once for the top-most node.
+- **NodeAfterDelete** allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once for the top-most node.
+- **NodeAfterReplace** allows a client to respond after an XML node is replaced in the store.
 
 ## Sample
 
@@ -50,7 +45,7 @@ Sub Demo()
 End Sub
 ```
 
-Running the Demo subroutine sets up the  _objStream_ variable to listen to events.
+Running the Demo subroutine sets up the _objStream_ variable to listen to events.
 
 Remember, from the previous scenario, that the document has two text content controls, one data mapped to the `<a>` node and the other data mapped to the "b" node. Suppose you want to set up events so that when the text in the `<a>` node is modified, the "b" node automatically does something. The following **objStream_NodeAfterReplace** event subroutine accomplishes this.
 

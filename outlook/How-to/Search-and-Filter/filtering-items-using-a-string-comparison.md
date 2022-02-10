@@ -11,7 +11,6 @@ ms.localizationpriority: medium
 
 This topic describes the support for filtering on a string property using Microsoft Jet syntax and DAV Searching and Locating (DASL) syntax.
 
-
 ## Delimiting Strings and Using Escape Characters
 
 When matching string properties, you can use either a pair of single quotes ('), or a pair of double quotes ("), to delimit a string that is part of the filter. For example, all of the following lines function correctly when the property is of type **String**:
@@ -23,11 +22,11 @@ sFilter = "[CompanyName] = " & Chr(34) & "Microsoft" & Chr(34)
 
 ```
 
-In specifying a filter in a Jet or DASL query, if you use a pair of single quotes to delimit a string that is part of the filter, and the string contains another single quote or apostrophe, then add a single quote as an escape character before the single quote or apostrophe. Use a similar approach if you use a pair of double quotes to delimit a string. If the string contains a double quote, then add a double quote as an escape character before the double quote. 
+In specifying a filter in a Jet or DASL query, if you use a pair of single quotes to delimit a string that is part of the filter, and the string contains another single quote or apostrophe, then add a single quote as an escape character before the single quote or apostrophe. Use a similar approach if you use a pair of double quotes to delimit a string. If the string contains a double quote, then add a double quote as an escape character before the double quote.
 
-For example, in the DASL filter string that filters for the **Subject** property being equal to the word `can't`, the entire filter string is delimited by a pair of double quotes, and the embedded string `can't` is delimited by a pair of single quotes. There are three characters that you need to escape in this filter string: the starting double quote and the ending double quote for the property reference of `https://schemas.microsoft.com/mapi/proptag/0x0037001f`, and the apostrophe in the value condition for the word `can't`. 
+For example, in the DASL filter string that filters for the **Subject** property being equal to the word `can't`, the entire filter string is delimited by a pair of double quotes, and the embedded string `can't` is delimited by a pair of single quotes. There are three characters that you need to escape in this filter string: the starting double quote and the ending double quote for the property reference of `https://schemas.microsoft.com/mapi/proptag/0x0037001f`, and the apostrophe in the value condition for the word `can't`.
 
-Applying the appropriate escape characters, you can express the filter string as follows: 
+Applying the appropriate escape characters, you can express the filter string as follows:
 
 ```vb
 filter = "@SQL=""https://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
@@ -61,7 +60,6 @@ A different set of escaping rules apply to a property reference for named proper
 |Double quote|%22|
 |Single quote|%27|
 
-
 For example, you would use the following filter to search for a custom property named **Mom's "Gift"** that contains the word `pearls`:
 
 ```vb
@@ -70,11 +68,9 @@ filter = "@SQL=" & Chr(34) & _
     & "Mom%27s%20%22Gift%22" & Chr(34) & " like '%pearls%'"
 ```
 
-
 ## String Comparisons Using Jet Syntax
 
 The string comparison that Jet filters support is limited to an equivalence matching. You can filter items based on the value of a string property being equivalent to a specific string, for example, the **[LastName](../../../api/Outlook.ContactItem.LastName.md)** property being equal to "Wilson". Note that the comparison is not case sensitive; in the last example, specifying "Wilson" and "wilson" as the comparison string will return the same results.
-
 
 ## String Comparisons Using DASL Syntax
 
@@ -86,12 +82,11 @@ sFilter = "[Subject] = 'cat'"
 
 ...will match both "cat" and "RE: cat".
 
-
 ## Equivalence Matching
 
 Similar to Jet filters, DASL filters perform string equivalence comparison by using the equal (=) operator. The value of the string property must be equivalent to the comparison string, with the exception of prefixes "RE: " and "FW: " as mentioned above.
 
-As an example, the following DASL query creates a filter for company name equals 'Microsoft': 
+As an example, the following DASL query creates a filter for company name equals 'Microsoft':
 
 ```vb
 criteria = "@SQL=" & Chr(34) _
@@ -99,14 +94,14 @@ criteria = "@SQL=" & Chr(34) _
 & " = 'Microsoft'"
 ```
 
-As another example, assume that the folder you are searching contains items with the following subjects: 
+As another example, assume that the folder you are searching contains items with the following subjects:
 
-- Question   
-- Questionable    
-- Unquestionable    
-- RE: Question    
+- Question
+- Questionable
+- Unquestionable
+- RE: Question
 - The big question
-    
+
 The following = restriction...
 
 ```vb
@@ -117,16 +112,14 @@ criteria = "@SQL=" & Chr(34) _
 
 ...will return the following results:
 
-- Question   
+- Question
 - RE: Question
-    
 
 ## Prefix, Phrase, and Substring Matching
 
 DASL supports the matching of prefixes, phrases, and substrings in a string property using content indexer keywords **ci_startswith** and **ci_phrasematch**, and the keyword **like**. If a store is indexed, searching with content indexer keywords is more efficient than with **like**. If your search scenarios include substring matching (which content indexer keywords don't support), use the **like** keyword in a DASL query.
 
 A DASL query can contain **ci_startswith** or **ci_phrasematch**, and **like**, but all string comparisons will be carried out as substring matching.
-
 
 ### ci_startswith
 
@@ -137,36 +130,28 @@ The syntax of **ci_startswith** is as follows...
 
 ```
 
-...where  _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
+...where _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
 
 **ci_startswith** performs a search to match prefixes. It uses tokens (characters, word, or words) in the comparison string to match against the first few characters of any word in the string value of the indexed property. If the comparison string contains multiple tokens, every token in the comparison string must have a prefix match in the indexed property. For example:
 
 - Restricting for "sea" would match "search"
-    
 - Restricting for "sea" would not match "research"
-    
 - Restricting for "sea" would match "Subject: the deep blue sea"
-    
 - Restricting for "law order" would match "law and order" or "law & order"
-    
 - Restricting for "law and order" would match "I like the show Law and Order."
-    
 - Restricting for "law and order" would not match "above the law"
-    
 - Restricting for "sea creatures" would match "Nova special on sea creatures"
-    
 - Restricting for "sea creatures" would match "sealife creatures"
-    
 - Restricting for "sea creatures" would not match "undersea creatures"
-    
-Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
 
-- Question   
-- Questionable    
-- Unquestionable    
-- RE: Question   
+Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects:
+
+- Question
+- Questionable
+- Unquestionable
+- RE: Question
 - The big question
-    
+
 The following **ci_startswith** restriction...
 
 ```vb
@@ -177,44 +162,38 @@ criteria = "@SQL=" & Chr(34) _
 
 ...will return the following results:
 
-- Question    
-- Questionable   
-- RE: Question   
+- Question
+- Questionable
+- RE: Question
 - The big question
-    
 
 ### ci_phrasematch
 
 The syntax of **ci_phrasematch** is as follows...
-
 
 ```vb
 <PropertySchemaName> ci_phrasematch <ComparisonString> 
 
 ```
 
-...where  _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
+...where _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
 
 **ci_phrasematch** performs a search to match phrases. It uses tokens (characters, word, or words) in the comparison string to match entire words in the string value of the indexed property. Tokens are enclosed in double quotes or parentheses. Each token in the comparison string must have a phrase match, and not a substring or prefix match. If the comparison string contains multiple tokens, every token in the comparison string must have a phrase match. Any word within a multiple word property like **Subject** or **Body** can match; it doesn't have to be the first word. For example:
 
 - Restricting for "cat" would match "cat", "cat box", "black cat"
-    
-- Restricting for "cat" would match "re: cat is out" 
-    
+- Restricting for "cat" would match "re: cat is out"
 - Restricting for "cat" would not match "catalog", "kittycat"
-    
 - Restricting for "kitty cat" would match "put the kitty cat out"
-    
 - Restricting for "kitty cat" would not match "great kitty catalog"
-    
-Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
 
-- Question    
-- Questionable    
-- Unquestionable    
-- RE: Question    
+Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects:
+
+- Question
+- Questionable
+- Unquestionable
+- RE: Question
 - The big question
-    
+
 The following **ci_phrasematch** restriction...
 
 ```vb
@@ -225,10 +204,9 @@ criteria = "@SQL=" & Chr(34) _
 
 ...will return the following results:
 
-- Question    
-- RE: Question    
+- Question
+- RE: Question
 - The big question
-    
 
 ### like
 
@@ -241,13 +219,13 @@ criteria = "@SQL=" & Chr(34) _
 ```
 
 For example, restricting for...
-    
+
 ```vb
   like 'cat%'
 ```
 
 ...would match "cat" and "catalog".
-    
+
 #### substring matching
 
 ```vb
@@ -255,14 +233,13 @@ For example, restricting for...
 ```
 
 For example, restricting for...
-    
+
 ```vb
   like '%cat%'
 ```
 
 ...would match "cat", "catalog", "kittycat", "decathlon".
-    
-    
+
 #### equivalence matching
 
 ```vb
@@ -270,23 +247,23 @@ For example, restricting for...
 ```
 
 For example, restricting for...
-    
+
 ```vb
   like 'cat'
 ```
 
 ...would match "cat" and "RE: Cat".
-    
+
 Each token can match any part of a word in the string property. If the comparison string contains multiple tokens, every token in the comparison string must have a substring match. Any word within a multiple word property like **Subject** or **Body** can match; it does not have to be the first word.
 
-Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
+Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects:
 
-- Question    
-- Questionable    
-- Unquestionable    
-- RE: Question    
+- Question
+- Questionable
+- Unquestionable
+- RE: Question
 - The big question
-    
+
 The following like restriction...
 
 ```vb
@@ -295,13 +272,12 @@ criteria = "@SQL=" & Chr(34) _
 & " like '%question%'" 
 ```
 
-...will return the following results: 
+...will return the following results:
 
-
-- Question    
-- Questionable    
-- Unquestionable    
-- RE: Question   
+- Question
+- Questionable
+- Unquestionable
+- RE: Question
 - The big question
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
