@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 The following example uses the **[EnterKeyBehavior](../../../api/Outlook.textbox.enterkeybehavior.md)** property to control the effect of ENTER in a **[TextBox](../../../api/Outlook.textbox.md)**. In this example, the user can specify either a single-line or multiline **TextBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **pen** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 - A **TextBox** named TextBox1.
 
