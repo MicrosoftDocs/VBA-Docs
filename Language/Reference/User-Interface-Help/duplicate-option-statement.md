@@ -12,12 +12,9 @@ ms.localizationpriority: medium
 
 # Duplicate Option statement
 
-Only one **Option** statement of each kind may occur in each[module](../../Glossary/vbe-glossary.md#module). This error has the following cause and solution:
-
-
+Only one **Option** statement of each kind may occur in each [module](../../Glossary/vbe-glossary.md#module). This error has the following cause and solution:
 
 - You defined more than one **Option Base**, **Option Compare**, **Option Explicit**, or **Option Private** statement in this module. Remove any duplicates in the module.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

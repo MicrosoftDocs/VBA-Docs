@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 
 
 # PeopleView.Copy method (Outlook)
-Creates a new [View](Outlook.View.md) object based on the existing[PeopleView](Outlook.peopleview.md) object.
+
+Creates a new [View](Outlook.View.md) object based on the existing [PeopleView](Outlook.peopleview.md) object.
 
 ## Version information
 
-Version Added: Outlook 2013 
-
+Version Added: Outlook 2013
 
 ## Syntax
 
@@ -24,10 +24,7 @@ _expression_.**Copy** (_Name_, _SaveOption_)
 
 _expression_ A variable that represents a 'PeopleView' object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -35,7 +32,6 @@ _expression_ A variable that represents a 'PeopleView' object.
 | _SaveOption_|Optional|[OlViewSaveOption](Outlook.OlViewSaveOption.md)|The save option for the new view.|
 
 ## See also
-
 
 [PeopleView Object](Outlook.peopleview.md)
 [PeopleView Members](overview/Outlook.md)

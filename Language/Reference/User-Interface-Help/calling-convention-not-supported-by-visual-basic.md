@@ -12,12 +12,9 @@ ms.localizationpriority: medium
 
 # Calling convention not supported by Visual Basic
 
-Visual Basic doesn't support all [procedure](../../Glossary/vbe-glossary.md#procedure) calling conventions, which specify the order in which[arguments](../../Glossary/vbe-glossary.md#argument) must be passed and the way that argument types must be specified. This error has the following cause and solution:
-
-
+Visual Basic doesn't support all [procedure](../../Glossary/vbe-glossary.md#procedure) calling conventions, which specify the order in which [arguments](../../Glossary/vbe-glossary.md#argument) must be passed and the way that argument types must be specified. This error has the following cause and solution:
 
 - The procedure was called using a calling convention that Visual Basic doesn't support. For example, Visual Basic doesn't support the Pascal calling convention in a 16-bit version of the Microsoft Windows environment. If the calling convention isn't supported by Visual Basic, the procedure can't be called from Visual Basic. Check the object's documentation to see if an alternative is provided.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
