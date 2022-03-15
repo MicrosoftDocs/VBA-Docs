@@ -12,6 +12,6 @@ ms.localizationpriority: medium
 
 # Line 'item1': Can't load control 'item2'; containing control not a valid container.
 
-You attempted to load a [control](../../Glossary/vbe-glossary.md#control) into a control which isn't a valid[container](../../Glossary/vbe-glossary.md#container).
+You attempted to load a [control](../../Glossary/vbe-glossary.md#control) into a control which isn't a valid [container](../../Glossary/vbe-glossary.md#container).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

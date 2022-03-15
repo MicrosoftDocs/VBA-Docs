@@ -12,6 +12,6 @@ ms.localizationpriority: medium
 
 # Line 'item1': Property 'item2' in 'item3' could not be set.
 
-Visual Basic can't set the [property](../../Glossary/vbe-glossary.md#property) of the specified[control](../../Glossary/vbe-glossary.md#control) as indicated by the form description in the ASCII file.
+Visual Basic can't set the [property](../../Glossary/vbe-glossary.md#property) of the specified [control](../../Glossary/vbe-glossary.md#control) as indicated by the form description in the ASCII file.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

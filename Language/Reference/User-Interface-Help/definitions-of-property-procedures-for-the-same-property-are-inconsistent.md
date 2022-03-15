@@ -20,7 +20,7 @@ The [parameters](../../Glossary/vbe-glossary.md#parameter) for **Property Get**,
 
 - The parameter type of the extra parameter of the **Property Let** must match the return type of the corresponding **Property Get** procedure. Modify either the extra parameter declaration in the **Property Let** or the return type of the corresponding **Property Get** so they are appropriately matched.
 
-- The parameter type of the extra parameter of the **Property Set** can differ from the return type of the corresponding **Property Get**, but it must be either a **Variant**, **Object**, [class](../../Glossary/vbe-glossary.md#class) name, or a valid[object library](../../Glossary/vbe-glossary.md#object-library) type.
+- The parameter type of the extra parameter of the **Property Set** can differ from the return type of the corresponding **Property Get**, but it must be either a **Variant**, **Object**, [class](../../Glossary/vbe-glossary.md#class) name, or a valid [object library](../../Glossary/vbe-glossary.md#object-library) type.
 
     Make sure the extra parameter of the **Property Set** procedure is either a **Variant**, **Object**, class name, or object library type.
 
