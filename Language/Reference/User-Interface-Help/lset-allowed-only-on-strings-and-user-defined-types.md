@@ -12,14 +12,11 @@ ms.localizationpriority: medium
 
 # LSet allowed only on strings and user-defined types
 
- **LSet** is used to left align data within strings and [variables](../../Glossary/vbe-glossary.md#variable) of[user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following causes and solutions:
-
-
+ **LSet** is used to left align data within strings and [variables](../../Glossary/vbe-glossary.md#variable) of [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type). This error has the following causes and solutions:
 
 - The specified variable isn't a string or user-defined type. If you are trying to block assign one array to another, **LSet** does not work. You must use a loop to assign each element individually.
-    
+
 - You tried to use **LSet** with an object. **LSet** can also be used to assign the elements of a user-defined type variable to the elements of a different, but compatible, user-defined type. Although objects are similar to user-defined types, you can't use **LSet** on them. Similarly, you can't use **LSet** on variables of user-defined types that contain strings, objects, or variants.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
