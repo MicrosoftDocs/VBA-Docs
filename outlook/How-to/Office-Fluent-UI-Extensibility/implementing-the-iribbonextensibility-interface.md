@@ -2,7 +2,7 @@
 title: Implementing the IRibbonExtensibility Interface
 ms.prod: outlook
 ms.assetid: ad798afe-b3a9-4d03-86b3-b1226d9b55c8
-ms.date: 06/08/2019
+ms.date: 03/14/2022
 ms.localizationpriority: medium
 ---
 
@@ -23,7 +23,9 @@ When you implement **Office.IRibbonExtensibility**, use the **IRibbonExtensibili
 - Viewing an item in the Reading Pane does not cause **GetCustomUI** to be called because the ribbon is not displayed in the Reading Pane.
 
 The ribbon ID is a string that is passed from Office to **GetCustomUI** and that specifies the UI customization to load. Add-in developers can use this string to determine the custom XML markup to return to Outlook. You can also use the ribbon ID to determine the type of Outlook item to display.
+
 In some cases, such as a **[MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls **GetCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Read`).
+
 Outlook uses the following unique ribbon IDs.
 
 | **Ribbon ID**| **Message Class**|
