@@ -16,10 +16,10 @@ Declares a type for an enumeration.
 
 ## Syntax
 
-[ **Public** | **Private** ] **Enum**_name_ <br/>
-_membername_ [= _constantexpression_ ] <br/>
-_membername_ [= _constantexpression_ ] <br/>
-**. . .** <br/>
+[ **Public** | **Private** ] **Enum**_name_
+_membername_ [= _constantexpression_ ]
+_membername_ [= _constantexpression_ ]
+**. . .**
 **End Enum**
 
 The **Enum** statement has these parts:

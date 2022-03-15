@@ -16,13 +16,11 @@ ms.localizationpriority: high
 
 Displays the standard **Open** dialog box and gets a file name from the user without actually opening any files.
 
-
 ## Syntax
 
 _expression_.**GetOpenFilename** (_FileFilter_, _FilterIndex_, _Title_, _ButtonText_, _MultiSelect_)
 
 _expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
-
 
 ## Parameters
 
@@ -38,26 +36,23 @@ _expression_ A variable that represents an **[Application](Excel.Application(obj
 
 Variant
 
-
 ## Remarks
 
-This string passed in the _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters&mdash;text and addin: 
+This string passed in the _FileFilter_ argument consists of pairs of file filter strings followed by the MS-DOS wildcard file filter specification, with each part and each pair separated by commas. Each separate pair is listed in the **Files of type** drop-down list box. For example, the following string specifies two file filters&mdash;text and addin:
 
-`"Text Files (*.txt),*.txt,Add-In Files (*.xla),*.xla"`
+`"Text Files (*.txt), *.txt,Add-In Files (*.xla), *.xla"`
 
-To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example: `"Visual Basic Files (*.bas; *.txt),*.bas;*.txt"`.
+To use multiple MS-DOS wildcard expressions for a single file filter type, separate the wildcard expressions with semicolons; for example: `"Visual Basic Files (*.bas; *.txt), *.bas;*.txt"`.
 
-If _FileFilter_ is omitted, this argument defaults to `"All Files (*.*),*.*"`.
+If _FileFilter_ is omitted, this argument defaults to `"All Files (*.*), *.*"`.
 
 This method returns the selected file name or the name entered by the user. The returned name may include a path specification. If _MultiSelect_ is **True**, the return value is an array of the selected file names (even if only one file name is selected). Returns **False** if the user cancels the dialog box.
 
 This method may change the current drive or folder.
 
-
 ## Example
 
 This example displays the **Open** dialog box, with the file filter set to text files. If the user chooses a file name, the code displays that file name in a message box.
-
 
 ```vb
 fileToOpen = Application _ 
@@ -66,8 +61,5 @@ If fileToOpen <> False Then
  MsgBox "Open " & fileToOpen 
 End If
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

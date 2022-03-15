@@ -81,7 +81,7 @@ End Sub
 
 ## Redefine a selection or range
 
-Use the **GetRange**method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
+Use the **GetRange** method to redefine an existing **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 ## Change text
 

@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Creates a legend for printing views of task data, where color can be a hexadecimal value.
 
-
 ## Syntax
 
 _expression_.**FilePageSetupLegendEx** (_Name_, _TextWidth_, _LegendOn_, _Alignment_, _Text_, _LabelFontName_, _LabelFontSize_, _LabelFontBold_, _LabelFontItalic_, _LabelFontUnderline_, _LabelFontColor_)
 
 _expression_ An expression that returns an **[Application](Project.Application.md)** object.
-
 
 ## Parameters
 
@@ -39,7 +37,6 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 | _LabelFontItalic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _LabelFontUnderline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _LabelFontColor_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &H01FFFF is yellow.|
-
 
 ### Format codes
 
@@ -76,18 +73,15 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
  **Boolean**
 
-
 ## Remarks
 
 Using the **FilePageSetupLegendEx** method without specifying any arguments displays the **Page Setup** dialog box with the **Legend** tab selected.
 
-**Note**  **FilePageSetupLegendEx** works only with views of task data.
-
+**FilePageSetupLegendEx** works only with views of task data.
 
 ## Example
 
 The following example sets up a legend for printing.
-
 
 ```vb
 Sub SetLegend() 

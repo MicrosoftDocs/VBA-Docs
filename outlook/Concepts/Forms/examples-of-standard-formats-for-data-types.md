@@ -6,23 +6,15 @@ ms.date: 06/08/2019
 ms.localizationpriority: medium
 ---
 
-
 # Examples of Standard Formats for Data Types
 
 You can format fields that you create with different formats based on the data type. The following table provides a list of some of the formats that Microsoft Outlook includes.
 
-
 ## View a complete list of standard formats available for fields
 
-
 - In Outlook, on the **View** menu, point to **Current View**, and then click **Format Columns**.
-    
 
- **Note** If you don't find the format you want, you can create a custom format with a **Formula** data type and the **Format**function.
-
-
-
-
+ **Note** If you don't find the format you want, you can create a custom format with a **Formula** data type and the **Format** function.
 
 |**Data type**|**Standard format examples**|
 |:-----|:-----|

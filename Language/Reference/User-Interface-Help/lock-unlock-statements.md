@@ -16,7 +16,7 @@ Controls access by other processes to all or part of a file opened by using the 
 
 ## Syntax
 
-**Lock** [ # ] _filenumber_, [ _recordrange_ ] **. . .** <br/>
+**Lock** [ # ] _filenumber_, [ _recordrange_ ] **. . .**
 **Unlock** [ # ] _filenumber_, [ _recordrange_ ]
 
 The **Lock** and **Unlock** statement syntax has these parts:
@@ -48,9 +48,8 @@ The first record or byte in a file is at position 1, the second record or byte i
 
 If the file has been opened for sequential input or output, **Lock** and **Unlock** affect the entire file, regardless of the range specified by _start_ and _end_.
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > Be sure to remove all locks with an **Unlock** statement before closing a file or quitting your program. Failure to remove locks produces unpredictable results.
-
 
 ## Example
 
@@ -75,7 +74,6 @@ Unlock #1, RecordNumber    ' Unlock current record.
 Close #1    ' Close file. 
 
 ```
-
 
 ## See also
 

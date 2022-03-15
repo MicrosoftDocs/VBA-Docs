@@ -12,10 +12,10 @@ ms.localizationpriority: medium
 
 # Wrong number of dimensions
 
-You must reference an [array](../../Glossary/vbe-glossary.md#array) with indexes corresponding to the same number of dimensions as appear in the array's[declaration](../../Glossary/vbe-glossary.md#declaration). This error has the following cause and solution:
+You must reference an [array](../../Glossary/vbe-glossary.md#array) with indexes corresponding to the same number of dimensions as appear in the array's [declaration](../../Glossary/vbe-glossary.md#declaration). This error has the following cause and solution:
 
 - You referred to an array with a different number of dimensions than it actually contains. For example, referring to an array as `X(2,4)` (an array with two dimensions) when it has been defined as `Dim X(5)` (an array with one), generates this error. Check the declaration of the array and, in the reference, include one index for each dimension in the declaration.
-    
+
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

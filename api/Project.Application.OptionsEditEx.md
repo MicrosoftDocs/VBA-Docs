@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Sets options for Project, where colors can be hexadecimal values, or opens the **Project Options** dialog box.
 
-
 ## Syntax
 
 _expression_. `OptionsEditEx`( `_MoveAfterReturn_`, `_DragAndDrop_`, `_UpdateLinks_`, `_CopyResourceUsageHeader_`, `_PhoneticInfo_`, `_PhoneticType_`, `_MinuteLabelDisplay_`, `_HourLabelDisplay_`, `_DayLabelDisplay_`, `_WeekLabelDisplay_`, `_YearLabelDisplay_`, `_SpaceBeforeTimeLabel_`, `_SetDefaults_`, `_MonthLabelDisplay_`, `_SetDefaultsTimeUnits_`, `_HyperlinkColor_`, `_FollowedHyperlinkColor_`, `_UnderlineHyperlinks_`, `_SetDefaultsHyperlink_`, `_InCellEditing_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -48,13 +44,12 @@ _expression_. `OptionsEditEx`( `_MoveAfterReturn_`, `_DragAndDrop_`, `_UpdateLin
 | _HyperlinkColor_|Optional|**Integer**|The color used to denote unfollowed hyperlinks. Can be a hexadecimal RBG value, where red is the last byte. For example, &HFF0000 is blue.|
 | _FollowedHyperlinkColor_|Optional|**Long**|The color used to denote followed hyperlinks. Can be a hexadecimal RBG value, where red is the last byte. For example, &HFF00FF is purple.|
 | _UnderlineHyperlinks_|Optional|**Boolean**|**True** if hyperlinks are underlined; otherwise, **False**.|
-| _SetDefaultsHyperlink_|Optional|**Boolean**|**True** if the hyperlink options specified in the **Display options for this project**section (**Advanced** tab) are used as the default values for new projects. The default value is **False**, which means that the hyperlink options are set only for the active project.|
+| _SetDefaultsHyperlink_|Optional|**Boolean**|**True** if the hyperlink options specified in the **Display options for this project** section (**Advanced** tab) are used as the default values for new projects. The default value is **False**, which means that the hyperlink options are set only for the active project.|
 | _InCellEditing_|Optional|**Boolean**|**True** if in-cell editing is enabled; otherwise, **False**. Corresponds to the **Edit directly in cell** option in the **Edit** section of the **Advanced** tab.|
 
 ## Return value
 
  **Boolean**
-
 
 ## Remarks
 

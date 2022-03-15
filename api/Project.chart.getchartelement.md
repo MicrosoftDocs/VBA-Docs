@@ -27,12 +27,12 @@ _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 | _x_|Required|**Long**|The X coordinate of the chart element.|
 | _y_|Required|**Long**|The Y coordinate of the chart element.|
 | _ElementID_|Required|**Long**|When the **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see [Remarks](#remarks).|
-| _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
-| _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
+| _Arg1_|Required|**Long**|When the method returns, _Arg1_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
+| _Arg2_|Required|**Long**|When the method returns, _Arg2_ contains information related to the chart element. For more information, see [Remarks](#remarks).|
 
 ## Return value
 
-The **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
+The **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_, _Arg1_, and  _Arg2_ parameters.
 
 ## Remarks
 
@@ -45,7 +45,7 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 
 **Table 1. Information in Arg1 and Arg2, based on the element ID**
 
-|**ElementID Constant**|**Constant Value **|**Arg1**|**Arg2**|
+|**ElementID Constant**|**Constant Value**|**Arg1**|**Arg2**|
 |:-----|:-----|:-----|:-----|
 |**xlAxis**|21|AxisIndex|AxisType|
 |**xlAxisTitle**|17|AxisIndex|AxisType|
@@ -93,7 +93,7 @@ Table 2 describes the meaning of _Arg1_ and _Arg2_ after the method returns. Val
 |PivotFieldIndex|Specifies the offset within the **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
 |PointIndex|Specifies the offset within the **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **1** indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the **Office.IMsoChart.SeriesCollection** for a specific series.|
-|ShapeIndex|Specifies the offset within the [Shapes](overview/Project.md) collection for a specific shape.|
+|ShapeIndex|Specifies the offset within the **[Shapes](overview/Project.md)** collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|
 
 ## Example

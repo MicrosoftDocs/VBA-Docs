@@ -11,12 +11,11 @@ ms.localizationpriority: medium
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Source and Options Arguments](#sectionSection0)
-[ActiveConnection Argument](#sectionSection1)
-[CursorType Argument](#sectionSection2)
-[LockType Argument](#sectionSection3)
-[Retrieving Multiple Recordsets](#sectionSection4)
-
+[Source and Options Arguments](#source-and-options-arguments)
+[ActiveConnection Argument](#activeconnection-argument)
+[CursorType Argument](#cursortype-argument)
+[LockType Argument](#locktype-argument)
+[Retrieving Multiple Recordsets](#retrieving-multiple-recordsets)
 
 Everything you need to open an ADO **Recordset** is built into the **Open** method. Use it without explicitly creating any other objects. The syntax of this method is as follows:
 
@@ -25,7 +24,6 @@ Everything you need to open an ADO **Recordset** is built into the **Open** meth
 All arguments are optional because the information they pass can be communicated to ADO in other ways. However, understanding each argument will help you to understand many important ADO concepts. The following topics will examine each argument of this method in more detail.
 
 ## Source and Options Arguments
-<a name="sectionSection0"> </a>
 
 The  _Source_ and _Options_ arguments appear in the same topic because they are closely related.
 
@@ -36,9 +34,8 @@ The  _Source_ argument is a **Variant** that evaluates to a valid **Command** ob
 The  _Options_ argument is a **Long** value that indicates either or both of the following:
 
 - How the provider should evaluate the  _Source_ argument if it represents something other than a **Command** object.
-    
 - That the **Recordset** should be restored from a file where it was previously saved.
-    
+
 This argument can contain a bitmask of **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
 
 > [!NOTE]
@@ -49,7 +46,6 @@ If the **CommandType** property value equals **adCmdUnknown** (the default value
 For more information about using these enumerated constants for  _Options_ and with other ADO methods and properties, see CommandTypeEnum and ExecuteOptionEnum.
 
 ## ActiveConnection Argument
-<a name="sectionSection1"> </a>
 
 You can pass in either a **Connection** object or a connection string as the _ActiveConnection_ argument.
 
@@ -60,7 +56,6 @@ The  _ActiveConnection_ argument corresponds to the **ActiveConnection** propert
 If you pass a **Command** object in the _Source_ argument and also pass an _ActiveConnection_ argument, an error occurs because the **ActiveConnection** property of the **Command** object must already be set to a valid **Connection** object or connection string.
 
 ## CursorType Argument
-<a name="sectionSection2"> </a>
 
 `recordset .Open Source, ActiveConnection, CursorType, LockType, Options`
 
@@ -69,7 +64,6 @@ As discussed in The Significance of Cursor Location, the type of cursor that you
 The  _CursorType_ argument can accept any of the **CursorTypeEnum** values.
 
 ## LockType Argument
-<a name="sectionSection3"> </a>
 
 `recordset .Open Source, ActiveConnection, CursorType, LockType, Options`
 
@@ -78,7 +72,6 @@ Set the  _LockType_ argument to specify what type of locking the provider should
 The  _LockType_ argument can accept any of the **LockTypeEnum** values.
 
 ## Retrieving Multiple Recordsets
-<a name="sectionSection4"> </a>
 
 You might occasionally need to execute a command that will return more than one result set. A common example is a stored procedure that runs against a SQL Server database, as in the following example. The stored procedure contains a COMPUTE clause to return the average price of all products in the table. The definition of the stored procedure is as follows:
 
@@ -89,6 +82,7 @@ SELECT ProductID, ProductName, UnitPrice
   FROM PRODUCTS  
   COMPUTE AVG(UnitPrice) 
 ```
+
 The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the **NextRecordset** method to access the data in the second result set, as shown here:
 
 ```vb

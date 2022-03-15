@@ -12,6 +12,6 @@ ms.localizationpriority: medium
 
 # Visual Basic can't load 'item' because it is not in the system registry. Please ensure that all add-ins have been installed correctly.
 
-Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md#add-in) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box, because it was not registered properly or is no longer registered in the system[registry](../../Glossary/vbe-glossary.md#registry).
+Visual Basic couldn't load the [add-in](../../Glossary/vbe-glossary.md#add-in) that you tried to select from the **Available Add-Ins** list in the **Add-In Manager** dialog box, because it was not registered properly or is no longer registered in the system [registry](../../Glossary/vbe-glossary.md#registry).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

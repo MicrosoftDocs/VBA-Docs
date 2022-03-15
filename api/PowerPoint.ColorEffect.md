@@ -16,11 +16,9 @@ ms.localizationpriority: medium
 
 Represents a color effect for an animation behavior.
 
-
 ## Example
 
-Use the [ColorEffect](PowerPoint.AnimationBehavior.ColorEffect.md)property of the **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object to return a **ColorEffect** object. Color effects can be changed using the **ColorEffect** object's[From](PowerPoint.ColorEffect.From.md)and [To](PowerPoint.ColorEffect.To.md)properties, as shown below. Color effects are initially set using the **To** property, and then can be changed by a specific number using the [By](PowerPoint.ColorEffect.By.md)property. The following example adds a shape to the first slide of the active presentation and sets a color effect animation behavior to change the fill color of the new shape.
-
+Use the [ColorEffect](PowerPoint.AnimationBehavior.ColorEffect.md)property of the **[AnimationBehavior](PowerPoint.AnimationBehavior.md)** object to return a **ColorEffect** object. Color effects can be changed using the **ColorEffect** object's [From](PowerPoint.ColorEffect.From.md)and [To](PowerPoint.ColorEffect.To.md)properties, as shown below. Color effects are initially set using the **To** property, and then can be changed by a specific number using the [By](PowerPoint.ColorEffect.By.md)property. The following example adds a shape to the first slide of the active presentation and sets a color effect animation behavior to change the fill color of the new shape.
 
 ```vb
 Sub ChangeColorEffect()
@@ -49,9 +47,7 @@ Sub ChangeColorEffect()
 End Sub
 ```
 
-
 ## See also
-
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 

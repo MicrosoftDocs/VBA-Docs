@@ -14,11 +14,11 @@ You can't run your code until all missing references are resolved.
 
 This error has the following causes and solutions:
 
-- A [referenced project](../../Glossary/vbe-glossary.md#referenced-project) could not be found, or a referenced[object library](../../Glossary/vbe-glossary.md#object-library) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) could not be found.
+- A [referenced project](../../Glossary/vbe-glossary.md#referenced-project) could not be found, or a referenced [object library](../../Glossary/vbe-glossary.md#object-library) corresponding to the language of the [project](../../Glossary/vbe-glossary.md#project) could not be found.
 
   Unresolved references are prefixed with MISSING in the **References** dialog box. Select the missing reference to display the path and language of the missing project or library. Follow these steps to resolve the reference or references:
 
-**To resolve the references**
+## To resolve the references
 
 1. Display the **References** dialog box.
 

@@ -16,36 +16,29 @@ ms.localizationpriority: medium
 
 Creates a new Outlook item in the **[Items](Outlook.Items.md)** collection for the folder.
 
-
 ## Syntax
 
 _expression_.**Add** `_Type_`
 
 _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem**, **olContactItem**, **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**, or **olTaskItem,**, or any valid message class.|
+| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a **[MessageClass](Outlook.MailItem.MessageClass.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem**, **olContactItem**, **olJournalItem**, **olMailItem**, **olNoteItem**, **olPostItem**, or **olTaskItem**, or any valid message class.|
 
 ## Return value
 
 An **Object** value that represents the new Outlook item.
 
-
 ## Remarks
 
 If not specified, the **Type** property of the Outlook item defaults to the type of the folder or to **[MailItem](Outlook.MailItem.md)** if the parent folder is not typed.
 
-
 ## Example
 
 This VBA example gets the current Contacts folder and adds a new ContactItem object to it and sets some initial values in the fields based on another contact. To run this example without any error, replace 'Dan Wilson' with a valid contact name that exists in your Contacts folder.
-
 
 ```vb
 Sub AddContact() 
@@ -67,9 +60,6 @@ End Sub
 
 This VBA example adds a custom form to the default Tasks folder.
 
-
-
-
 ```vb
 Sub AddForm() 
  Dim myNamespace As outlook.NameSpace 
@@ -85,9 +75,7 @@ Sub AddForm()
 End Sub
 ```
 
-
 ## See also
-
 
 [Items Object](Outlook.Items.md)
 

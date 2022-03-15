@@ -8,7 +8,8 @@ ms.localizationpriority: medium
 
 
 # ShapeRange.Table property (Project)
-Gets the **ReportTable** object in the shape range. Read-only[ReportTable](Project.reporttable.md).
+
+Gets the **ReportTable** object in the shape range. Read-only [ReportTable](Project.reporttable.md).
 
 ## Syntax
 
@@ -16,14 +17,11 @@ _expression_. `Table`
 
 _expression_ A variable that represents a 'ShapeRange' object.
 
-
 ## Property value
 
  **REPORTTABLE**
 
-
 ## See also
-
 
 [ShapeRange Object](Project.shaperange.md)
 [ReportTable Object](Project.reporttable.md)

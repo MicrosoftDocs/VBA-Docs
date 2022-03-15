@@ -14,12 +14,10 @@ ms.localizationpriority: medium
 
 The reference couldn't be added. This error has the following cause and solution:
 
+- You attempted to add a reference to an [object library](../../Glossary/vbe-glossary.md#object-library) whose[locale](../../Glossary/vbe-glossary.md#locale) isn't compatible with the locale of the current [project](../../Glossary/vbe-glossary.md#project). The reference was not added. To use that object library, a project whose locale is compatible with it must be created.
 
-
-- You attempted to add a reference to an [object library](../../Glossary/vbe-glossary.md#object-library) whose[locale](../../Glossary/vbe-glossary.md#locale) isn't compatible with the locale of the current[project](../../Glossary/vbe-glossary.md#project). The reference was not added. To use that object library, a project whose locale is compatible with it must be created.
-    
     Try registering both Visual Basic for Applications and the [host application](../../Glossary/vbe-glossary.md#host-application) for the given language. The object library then becomes available in the **References** dialog box.
-    
+
    **Note**  When Visual Basic is the host application, it isn't possible to change a project's language setting. Any object libraries used must be compatible with the English/U.S. setting.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

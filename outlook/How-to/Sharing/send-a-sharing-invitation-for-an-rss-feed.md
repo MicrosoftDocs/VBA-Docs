@@ -2,7 +2,7 @@
 title: Send a Sharing Invitation for an RSS Feed
 ms.prod: outlook
 ms.assetid: 0b5b8ff5-d990-d869-7f80-15bbdcbec5a2
-ms.date: 06/08/2019
+ms.date: 02/08/2022
 ms.localizationpriority: medium
 ---
 
@@ -11,13 +11,13 @@ ms.localizationpriority: medium
 
 Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the **SharingItem](../../../api/Outlook.SharingItem.md)** object. The **[CreateSharingItem](../../../api/Outlook.NameSpace.CreateSharingItem.md)** method of the **[NameSpace](../../../api/Outlook.NameSpace.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests. Sharing responses are automatically created by Outlook when the **[Reply](../../../api/Outlook.SharingItem.Reply(method).md)** or **[ReplyAll](../../../api/Outlook.SharingItem.ReplyAll(method).md)** methods of a **SharingItem** that represents a sharing invitation or sharing request are called.
 
-This sample uses the **penSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object or the **[OpenSharedFolder](../../../api/Outlook.SharingItem.OpenSharedFolder.md)** method of the **SharingItem** object to open the RSS feed.
+This sample uses the **OpenSharingItem** method to create a **SharingItem** that represents a sharing invitation for a Really Simple Syndication (RSS) feed. Once shared, the recipient can then use the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object or the **[OpenSharedFolder](../../../api/Outlook.SharingItem.OpenSharedFolder.md)** method of the **SharingItem** object to open the RSS feed.
 
 1. The sample first creates a **ameSpace** object reference to the MAPI namespace.
 
-2. It then uses the **reateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
+2. It then uses the **CreateSharingItem** method to create a new **SharingItem** object, using the URI of the RSS feed to establish the sharing context used by the **SharingItem**.
 
-3. Finally, the **Add](../../../api/Outlook.Recipients.Add.md)** method for the **[Recipients](../../../api/Outlook.MailItem.Recipients.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](../../../api/Outlook.SharingItem.Send(method).md)** method is used to send the **SharingItem**.
+3. Finally, the **[Add](../../../api/Outlook.Recipients.Add.md)** method for the **[Recipients](../../../api/Outlook.MailItem.Recipients.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](../../../api/Outlook.SharingItem.Send(method).md)** method is used to send the **SharingItem**.
 
 ```vb
 Public Sub ShareRSSByInvitation() 
