@@ -12,12 +12,9 @@ ms.localizationpriority: medium
 
 # Expected procedure, not variable
 
-There is no [procedure](../../Glossary/vbe-glossary.md#procedure) by this name in the current[scope](../../Glossary/vbe-glossary.md#scope), but there is a [variable](../../Glossary/vbe-glossary.md#variable) by this name. You can call a procedure, but not a variable. This error has the following cause and solution:
-
-
+There is no [procedure](../../Glossary/vbe-glossary.md#procedure) by this name in the current [scope](../../Glossary/vbe-glossary.md#scope), but there is a [variable](../../Glossary/vbe-glossary.md#variable) by this name. You can call a procedure, but not a variable. This error has the following cause and solution:
 
 - The name of a variable is used as a procedure call. The error may also be caused by misspelling the name of a valid procedure, because that can be misconstrued as an implicitly defined variable. Check the spelling of the procedure name, and make sure the procedure you are trying to call isn't private to another [module](../../Glossary/vbe-glossary.md#module).
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
