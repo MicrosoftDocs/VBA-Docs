@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Inserts an XE (Index Entry) field after all instances of the text in **Range**.
 
-
 ## Syntax
 
 _expression_. `MarkAllEntries`( `_Range_` , `_Entry_` , `_EntryAutoText_` , `_CrossReference_` , `_CrossReferenceAutoText_` , `_BookmarkName_` , `_Bold_` , `_Italic_` )
 
 _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,7 +39,6 @@ _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)
 
 This example marks the selected text with TA fields throughout the active document and then updates the first index in the document. The entry text in the index matches the selected text.
 
-
 ```vb
 If Selection.Type = wdSelectionNormal Then 
  ActiveDocument.Indexes.MarkAllEntries _ 
@@ -53,9 +48,7 @@ If Selection.Type = wdSelectionNormal Then
 End If
 ```
 
-
 ## See also
-
 
 [Indexes Collection Object](Word.indexes.md)
 

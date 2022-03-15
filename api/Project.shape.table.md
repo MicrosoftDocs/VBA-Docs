@@ -8,7 +8,8 @@ ms.localizationpriority: medium
 
 
 # Shape.Table property (Project)
-Gets the **ReportTable** object in the shape. Read-only[ReportTable](Project.reporttable.md).
+
+Gets the **ReportTable** object in the shape. Read-only [ReportTable](Project.reporttable.md).
 
 ## Syntax
 
@@ -16,14 +17,11 @@ _expression_. `Table`
 
 _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 
-
 ## Property value
 
  **REPORTTABLE**
 
-
 ## See also
-
 
 [Shape Object](Project.shape.md)
 [ReportTable Object](Project.reporttable.md)

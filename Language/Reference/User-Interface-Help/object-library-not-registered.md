@@ -16,13 +16,9 @@ The Visual Basic for Applications [object library](../../Glossary/vbe-glossary.m
 
 In earlier versions, when you started an application that uses Visual Basic for Applications, certain object libraries were loaded. This error has the following cause and solution:
 
+- An attempt was made to load a previous version of the Visual Basic for Applications object library (vaxxx.olb) or [host-application](../../Glossary/vbe-glossary.md#host-application) object libraries. However, the correct language version of these object libraries could not be found in the system [registry](../../Glossary/vbe-glossary.md#registry).
 
-
-
-- An attempt was made to load a previous version of the Visual Basic for Applications object library (vaxxx.olb) or [host-application](../../Glossary/vbe-glossary.md#host-application) object libraries. However, the correct language version of these object libraries could not be found in the system[registry](../../Glossary/vbe-glossary.md#registry).
-    
     Reregister your application. On the Macintosh, delete the vba.ini file from the Macintosh Preferences folder, and restart your application.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

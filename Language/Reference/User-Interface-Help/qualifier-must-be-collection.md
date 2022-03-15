@@ -12,12 +12,9 @@ ms.localizationpriority: medium
 
 # Qualifier must be collection
 
-The use of an exclamation point between two [identifiers](../../Glossary/vbe-glossary.md#identifier) is specific to[collections](../../Glossary/vbe-glossary.md#collection). This error has the following cause and solution:
-
-
+The use of an exclamation point between two [identifiers](../../Glossary/vbe-glossary.md#identifier) is specific to [collections](../../Glossary/vbe-glossary.md#collection). This error has the following cause and solution:
 
 - You used a name on the left side of the exclamation point (**!**) that isn't the name of a collection. If the name is supposed to represent a collection, check to make sure the name is spelled correctly. Note that the exclamation point is also the [type-declaration character](../../Glossary/vbe-glossary.md#type-declaration-character) for the **Single** data type. If the name in question isn't supposed to be a collection, perhaps the **!** type-declaration character appended to a [variable](../../Glossary/vbe-glossary.md#variable) name has been concatenated with another name.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

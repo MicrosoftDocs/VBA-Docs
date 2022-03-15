@@ -12,6 +12,6 @@ ms.localizationpriority: medium
 
 # Line 'item1': Property 'item2' in 'item3' had an invalid value.
 
-The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) with a value that isn't correct for this[control](../../Glossary/vbe-glossary.md#control). The property is set with its default value.
+The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) with a value that isn't correct for this [control](../../Glossary/vbe-glossary.md#control). The property is set with its default value.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

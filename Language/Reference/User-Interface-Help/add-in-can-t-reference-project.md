@@ -12,14 +12,11 @@ ms.localizationpriority: medium
 
 # Add-in can't reference project
 
-[Projects](../../Glossary/vbe-glossary.md#project) are dynamic, but[add-ins](../../Glossary/vbe-glossary.md#add-in) are static. This error has the following cause and solution:
-
-
+[Projects](../../Glossary/vbe-glossary.md#project) are dynamic, but [add-ins](../../Glossary/vbe-glossary.md#add-in) are static. This error has the following cause and solution:
 
 - You tried to create an add-in from a [project](../../Glossary/vbe-glossary.md#project) that references another project.
-    
+
     The semantics of projects can change in a way that affects referencing projects and add-ins. Therefore, you can't create an add-in from a project that references projects.
-    
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

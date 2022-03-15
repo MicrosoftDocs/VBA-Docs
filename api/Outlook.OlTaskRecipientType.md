@@ -17,7 +17,6 @@ ms.localizationpriority: medium
 Indicates the task recipient type.
 
 
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **olFinalStatus**|3|Indicates that the recipient will receive completion reports for the task.|
@@ -25,6 +24,6 @@ Indicates the task recipient type.
 
 ## Remarks
 
-Used by the [Recipient.Type property (Outlook)](Outlook.Recipient.Type.md) for[TaskItem](Outlook.TaskItem.md) recipients.
+Used by the [Recipient.Type property (Outlook)](Outlook.Recipient.Type.md) for [TaskItem](Outlook.TaskItem.md) recipients.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

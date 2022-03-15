@@ -16,17 +16,13 @@ ms.localizationpriority: medium
 
 Obtains the values of the properties specified by the one-dimensional array  _SchemaNames_.
 
-
 ## Syntax
 
 _expression_. `GetProperties`( `_SchemaNames_` )
 
 _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAccessor.md) object.
 
-
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,18 +32,15 @@ _expression_ A variable that represents a [PropertyAccessor](Outlook.PropertyAcc
 
 A Variant that represents an array of values of the properties specified in the parameter  _SchemaNames_. The number of elements in the returned array equals the number of elements in the _SchemaNames_ array. If an error occurs for getting a specific property, the **Err** value will be returned in the corresponding location in the returned array.
 
-
 ## Remarks
 
-The array returned by **GetProperties** can contain elements of different types, depending on the type of the property requested. The type of the array element returned by **GetProperties** will be the same as the type of the underlying property. Certain raw property types such as **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods[PropertyAccessor.BinaryToString](Outlook.PropertyAccessor.BinaryToString.md) and [PropertyAccessor.UTCToLocalTime](Outlook.PropertyAccessor.UTCToLocalTime.md). 
+The array returned by **GetProperties** can contain elements of different types, depending on the type of the property requested. The type of the array element returned by **GetProperties** will be the same as the type of the underlying property. Certain raw property types such as **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods [PropertyAccessor.BinaryToString](Outlook.PropertyAccessor.BinaryToString.md) and [PropertyAccessor.UTCToLocalTime](Outlook.PropertyAccessor.UTCToLocalTime.md).
 
 For more information on getting properties using the **PropertyAccessor** object, see [Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
-
 
 ## Example
 
 The following code sample shows how to use the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object to get MAPI properties that are not exposed on an Outlook item, namely: **PR_SUBJECT**, **PR_ATTR_HIDDEN**, **PR_ATTR_READONLY**, and **PR_ATTR_SYSTEM**. This code sample uses the **GetProperties** method to retrieve them in a single call, specifying an array of namespace references to these properties, and obtains a returned array that contains the raw value for each property.
-
 
 ```vb
 Sub DemoPropertyAccessorGetProperties() 
@@ -141,9 +134,7 @@ Sub DemoPropertyAccessorGetProperties()
 End Sub
 ```
 
-
 ## See also
-
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
