@@ -16,14 +16,10 @@ ms.localizationpriority: medium
 
 Gets or sets the color displayed on alternate rows of a form's datasheet. Read/write **Long**.
 
-
 ## Syntax
 
 _expression_.**DatasheetAlternateBackColor**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

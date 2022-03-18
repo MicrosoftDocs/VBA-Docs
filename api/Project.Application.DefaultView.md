@@ -13,20 +13,17 @@ ms.localizationpriority: medium
 
 Gets or sets the name of the view that appears when you start Project. Read/write **String**.
 
-
 ## Syntax
 
 _expression_. `DefaultView`
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 
-
 ## Remarks
 
 The **DefaultView** property can be the name of a custom view or one of the following built-in views:
 
-
-|||
+|View name|View name|
 |:-----|:-----|
 |"Bar Rollup"|"Resource Graph"|
 |"Calendar"|"Resource Name Form"|

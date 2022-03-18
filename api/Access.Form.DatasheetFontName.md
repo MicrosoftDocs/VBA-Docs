@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Use the **DatasheetFontName** property to specify the font used to display and print field names and data in Datasheet view. Read/write **String**.
 
-
 ## Syntax
 
 _expression_.**DatasheetFontName**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
-
 
 ## Remarks
 
@@ -42,10 +40,7 @@ The following table contains the properties that don't exist in the DAO **Proper
 |**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
 |**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|
 
-> [!NOTE] 
+> [!NOTE]
 > When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
