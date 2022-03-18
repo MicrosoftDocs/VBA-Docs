@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Represents a user-defined category by which Outlook items can be grouped.
 
-
 ## Remarks
 
 Microsoft Outlook provides a categorization system with which Outlook items can be easily identified and grouped into user-defined categories. The **Category** object represents a user-defined category.
@@ -25,13 +24,11 @@ Use the **[Add](Outlook.Categories.Add.md)** method of the **[Categories](Outloo
 
 Use the **[Name](Outlook.Category.Name.md)** property to specify the name of the category, the **[Color](Outlook.Category.Color.md)** property to specify the color displayed for that category, and the **[ShortcutKey](Outlook.Category.ShortcutKey.md)** property to specify the shortcut key used to assign that category to an Outlook item in the Outlook user interface. Use the **[CategoryID](Outlook.Category.CategoryID.md)** property to retrieve the unique identifer for a category.
 
-
 ### Assigning Categories to Items
 
 Categories can be assigned to Outlook items by specifying the names of the appropriate **Category** objects in a comma-delimited string in the **Categories** property of the following objects:
 
-
-|||
+|Object|Object|
 |:-----|:-----|
 |**[AppointmentItem](Outlook.AppointmentItem.md)**|**[RemoteItem](Outlook.RemoteItem.md)**|
 |**[ContactItem](Outlook.ContactItem.md)**|**[ReportItem](Outlook.ReportItem.md)**|
@@ -47,36 +44,27 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 
 The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
-
 ```vb
 Private Sub ListCategoryIDs() 
  
- Dim objNameSpace As NameSpace 
- 
- Dim objCategory As Category 
- 
+ Dim objNameSpace As NameSpace  
+ Dim objCategory As Category  
  Dim strOutput As String 
- 
- 
- 
- ' Obtain a NameSpace object reference. 
+  
+  ' Obtain a NameSpace object reference. 
  
  Set objNameSpace = Application.GetNamespace("MAPI") 
- 
- 
- 
- ' Check if the Categories collection for the Namespace 
+  
+  ' Check if the Categories collection for the Namespace 
  
  ' contains one or more Category objects. 
  
  If objNameSpace.Categories.Count > 0 Then 
  
  
- 
  ' Enumerate the Categories collection. 
  
  For Each objCategory In objNameSpace.Categories 
- 
  
  
  ' Add the name and ID of the Category object to 
@@ -90,32 +78,24 @@ Private Sub ListCategoryIDs()
  Next 
  
  End If 
- 
- 
- 
+  
  ' Display the output string. 
  
  MsgBox strOutput 
  
  
- 
  ' Clean up. 
  
- Set objCategory = Nothing 
- 
+ Set objCategory = Nothing  
  Set objNameSpace = Nothing 
  
- 
- 
+  
 End Sub 
  
 
 ```
 
-
 ## Properties
-
-
 
 |Name|
 |:-----|
@@ -132,7 +112,6 @@ End Sub
 |[ShortcutKey](Outlook.Category.ShortcutKey.md)|
 
 ## See also
-
 
 [Outlook Object Model Reference](overview/Outlook/object-model.md)
 

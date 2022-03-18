@@ -18,7 +18,7 @@ This object corresponds to an attachment control. Use an attachment control when
 
 ## Remarks
 
-> [!NOTE] 
+> [!NOTE]
 > You can attach files only to databases that you create in Office Access 2007 and later and that use the new .accdb file format. You cannot share attachments between an Office Access 2007 (.accdb) database and a database in the earlier (.mdb) file format.
 
 You can attach a maximum of two gigabytes of data (the maximum size for an Access database). Individual files cannot exceed 256 megabytes in size.
@@ -27,16 +27,16 @@ You can attach a maximum of two gigabytes of data (the maximum size for an Acces
 
 Office Access 2007 and later support the following graphic file formats natively, meaning the attachment control renders them without the need for additional software.
 
-- BMP (Windows Bitmap)   
-- RLE (Run Length Encoded Bitmap)   
-- DIB (Device Independent Bitmap)    
-- GIF (Graphics Interchange Format)    
-- JPEG, JPG, JPE (Joint Photographic Experts Group)    
-- EXIF (Exchangeable File Format)    
-- PNG (Portable Network Graphics)    
-- TIFF, TIF (Tagged Image File Format)    
-- ICON, ICO (Icon)    
-- WMF (Windows Metafile)    
+- BMP (Windows Bitmap)
+- RLE (Run Length Encoded Bitmap)
+- DIB (Device Independent Bitmap)
+- GIF (Graphics Interchange Format)
+- JPEG, JPG, JPE (Joint Photographic Experts Group)
+- EXIF (Exchangeable File Format)
+- PNG (Portable Network Graphics)
+- TIFF, TIF (Tagged Image File Format)
+- ICON, ICO (Icon)
+- WMF (Windows Metafile)
 - EMF (Enhanced Metafile)
 
 ### Supported formats for documents and other files
@@ -47,9 +47,9 @@ As a rule, you can attach any file that was created with one of the 2007 Microso
 
 The names of your attached files can contain any Unicode character supported by the NTFS file system used in Microsoft Windows NT (NTFS). In addition, file names must conform to these guidelines:
 
-- Names must not exceed 255 characters, including the file name extensions.    
+- Names must not exceed 255 characters, including the file name extensions.
 - Names cannot contain the following characters: question marks (?), quotation marks ("), forward or backward slashes (/ \\), opening or closing brackets (< >), asterisks (*), vertical bars or pipes ( | ), colons ( : ), or paragraph marks.
-- 
+
 ### Types of files that Access compresses
 
 Access will compress your attached files unless those files are compressed natively. For example, JPEG files are compressed by the graphics program that created them, so Access does not compress them. The following table lists some supported file types and whether or not Access compresses them.
@@ -76,7 +76,7 @@ Access will compress your attached files unless those files are compressed nativ
 
 Office Access 2007 blocks the following types of attached files. At this time, you cannot unblock any of the file types listed here.
 
-|||||
+|File extension|File extension|File extension|File extension|
 |:-----|:-----|:-----|:-----|
 |.ade|.ins|.mda|.scr|
 |.adp|.isp|.mdb|.sct|

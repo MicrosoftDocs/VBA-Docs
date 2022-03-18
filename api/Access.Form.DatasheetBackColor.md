@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Use the **DatasheetBackColor** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) to specify or determine the background color of an entire table, query, or form in Datasheet view within a Microsoft Access database. Read/write **Long**.
 
-
 ## Syntax
 
 _expression_.**DatasheetBackColor**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
-
 
 ## Remarks
 
@@ -32,17 +30,16 @@ Setting the **DatasheetBackColor** property for a table or query won't affect th
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
-|||
+> [!NOTE]
+> When you add or set any property with an asterisk, Access automatically adds it to the **Properties** collection.
+
+|property|property|
 |:-----|:-----|
 |**DatasheetBackColor**|**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|
 |**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|
-|**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**DatasheetForeColor** *|
+|**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**[DatasheetForeColor](Access.Form.DatasheetFontHeight.md)** *|
 |**[DatasheetFontItalic](Access.Form.DatasheetFontItalic.md)** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
 |**[DatasheetFontName](Access.Form.DatasheetFontName.md)** *|**[DatasheetGridlinesColor](Access.Form.DatasheetGridlinesBehavior.md)**|
-
-> [!NOTE] 
-> When you add or set any property listed with an asterisk, Access automatically adds it to the **Properties** collection.
-
 
 ## Example
 
@@ -81,8 +78,5 @@ Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _
  objTableObj.Properties.Refresh 
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,11 +44,12 @@ The **AddSiteColumn** method gives run-time error 1004, "Application-defined or 
 - The _ProjectField_ value is a non-task field, such as **pjResourceActualCost**. A SharePoint tasks list shows task fields, not resource fields.
 - The _ProjectField_ value is an enterprise custom field such as **pjTaskEnterpriseProjectText1**, or a lookup table field such as **pjTaskResourceEnterpriseRBS**. Local task custom fields, such as **pjTaskText1**, are valid.
 - The _ProjectField_ value is one of the prohibited fields in Table 1. These fields are in addition to the prohibited resource fields and enterprise custom fields. The fields are prohibited because they are related to other prohibited fields, or have value types that are not supported in a default SharePoint tasks list.
-  Although Table 1 and the other prohibited fields may appear to be a long list, of the 1,338 constants in **PjField**, there are 357&mdash;including local task custom fields&mdash;that can be used with the **AddSiteColumn** method.
 
-**Table 1. Additional prohibited fields**
+Although the prohibited fields shown in the following table may appear to be a long list, of the 1,338 constants in **PjField**, there are 357&mdash;including local task custom fields&mdash;that can be used with the **AddSiteColumn** method.
 
-||||
+## Additional prohibited fields
+
+|Field|Field|Field|
 |:-----|:-----|:-----|
 |**pjTaskActive**|**pjTaskActualOvertimeWork**|**pjTaskACWP**|
 |**pjTaskAssignmentDelay**|**pjTaskAssignmentPeakUnits**|**pjTaskAssignmentUnits**|
