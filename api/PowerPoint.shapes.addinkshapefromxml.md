@@ -35,5 +35,4 @@ A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 
 [Shape](PowerPoint.Shape.md)
 [Shapes Object](PowerPoint.Shapes.md)
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)
