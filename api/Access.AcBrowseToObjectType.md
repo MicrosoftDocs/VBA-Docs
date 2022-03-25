@@ -11,7 +11,6 @@ ms.date: 11/28/2018
 ms.localizationpriority: medium
 ---
 
-
 # AcBrowseToObjectType enumeration (Access)
 
 Specifies the type of object to browse to.
@@ -20,5 +19,4 @@ Specifies the type of object to browse to.
 |:-----|:-----|:-----|
 |**acBrowseToForm**|2|Open a form.|
 |**acBrowseToReport**|3|Open a report.|
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
