@@ -14,19 +14,16 @@ ms.localizationpriority: medium
 
 There are two ways to write code for Microsoft Outlook:
 
-
 - From outside the application, such as by using Microsoft Visual Basic or Microsoft Visual Basic for Applications in Microsoft Excel or another application.
-    
+
 - From inside the application, such as by using Visual Basic for Applications or by using VBScript with an Outlook form.
-    
 
 ## Major components of the Outlook object model
 
 The following table shows the major objects in the Outlook object model.
 
-
-| Component | Description | Example |
-| ------- | ------------------------ | --------- |
+| **Component** | **Description** | **Example** |
+|:-------|:------------------------|:---------|
 | **[Application](../../../api/Outlook.Application.md)**|The top of the object hierarchy that represents the entire application. Enables you to reference other objects in the application and create items and objects. | This code creates an appointment in Outlook: `Application.CreateItem(1).Display`|
 | **[NameSpace](../../../api/Outlook.NameSpace.md)**|Represents the MAPI message store where all the Outlook items are stored. Provides methods for logging on and off Outlook and for referencing the default folders such as Mailbox, Inbox, Contacts, and others. | This code references the active user in Outlook: `Application.GetNameSpace("MAPI").CurrentUser`|
 | **[Account](../../../api/Outlook.Account.md)**|Represents an account defined for the current profile.| |
