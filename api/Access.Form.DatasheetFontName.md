@@ -32,7 +32,7 @@ For the **DatasheetFontName** property, the font names that you can specify depe
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the **DAO Properties** collection.
 
-|Proptery|Property|
+|Property|Property|
 |:-----|:-----|
 |**[DatasheetFontItalic](Access.Form.DatasheetFontItalic.md)** *|**[DatasheetForeColor](Access.Form.DatasheetForeColor.md)** *|
 |**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|
