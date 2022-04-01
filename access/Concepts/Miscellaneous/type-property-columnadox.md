@@ -20,7 +20,7 @@ Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office
 
 ## Remarks
 
-This property is read/write until the **[Column](/office/client-developer/access/desktop-database-reference/column-object-adox.md)** object is appended to a collection or to another object, after which it is read-only.
+This property is read/write until the **[Column](/office/client-developer/access/desktop-database-reference/column-object-adox)** object is appended to a collection or to another object, after which it is read-only.
 
 ## See also
 
