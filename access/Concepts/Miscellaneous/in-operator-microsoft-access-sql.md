@@ -18,7 +18,7 @@ Determines whether the value of an expression is equal to any of several values 
 
 _expr_ [ **Not** ] **In** ( _value1, value2, …_ )
 
-_expr_ [ **Not** ] **In** ( _[SELECT](/client-developer/access/desktop-database-reference/select-statement-microsoft-access-sql.md) …_ )
+_expr_ [ **Not** ] **In** ( _[SELECT](/office/client-developer/access/desktop-database-reference/select-statement-microsoft-access-sql) …_ )
 
 ## Remarks
 
