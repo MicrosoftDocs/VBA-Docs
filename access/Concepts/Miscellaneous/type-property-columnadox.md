@@ -16,7 +16,7 @@ Indicates the data type of a column.
 
 ## Settings and return values
 
-Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office/client-developer/access/desktop-database-reference/datatypeenum.md)** constants. The default value is **adVarWChar**.
+Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office/client-developer/access/desktop-database-reference/datatypeenum)** constants. The default value is **adVarWChar**.
 
 ## Remarks
 
