@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 |_FileName_|Optional|**Variant**|A string expression that's the full name, including the path, of the text file you want to import from, export to, or link to.|
 |_HasFieldNames_|Optional|**Variant**|Use **True** (1) to use the first row of the text file as field names when importing, exporting, or linking. Use **False** (0) to treat the first row of the text file as normal data. If you leave this argument blank, the default (**False**) is assumed. This argument is ignored for Microsoft Word mail merge data files, which must always contain the field names in the first row.|
 |_HTMLTableName_|Optional|**Variant**|A string expression that's the name of the table or list in the HTML file that you want to import or link. This argument is ignored unless the _TransferType_ argument is set to **acImportHTML** or **acLinkHTML**. If you leave this argument blank, the first table or list in the HTML file is imported or linked.<br/><br/>The name of the table or list in the HTML file is determined by the text specified by the **CAPTION** tag, if there's a **CAPTION** tag. If there's no **CAPTION** tag, the name is determined by the text specified by the **TITLE** tag. If more than one table or list has the same name, Access distinguishes them by adding a number to the end of each table or list name; for example, Employees1 and Employees2.|
-|[CodePage Identifiers](/windows/desktop/Intl/code-page-identifiers.md)|Optional|**Variant**|A **Long** value indicating the character set of the code page.|
+|[CodePage Identifiers](/windows/desktop/Intl/code-page-identifiers)|Optional|**Variant**|A **Long** value indicating the character set of the code page.|
 
 ## Remarks
 
