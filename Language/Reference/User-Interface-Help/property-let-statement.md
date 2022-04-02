@@ -16,7 +16,7 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 
 ## Syntax
 
-[ **Public** | **Private** | **Friend** ] [ **Static** ] **Property Let**_name_ ( [ _arglist_ ], _value_ ) <br/>
+[ **Public** | **Private** | **Friend** ] [ **Static** ] **Property Let** _name_ ( [ _arglist_ ], _value_ ) <br/>
 [ _statements_ ] <br/>
 [ **Exit Property** ] <br/>
 [ _statements_ ] <br/>
