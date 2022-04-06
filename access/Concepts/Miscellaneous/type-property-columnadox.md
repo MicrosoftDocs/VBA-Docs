@@ -16,11 +16,11 @@ Indicates the data type of a column.
 
 ## Settings and return values
 
-Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office/client-developer/access/desktop-database-reference/datatypeenum.md)** constants. The default value is **adVarWChar**.
+Sets or returns a **Long** value that can be one of the **[DataTypeEnum](/office/client-developer/access/desktop-database-reference/datatypeenum)** constants. The default value is **adVarWChar**.
 
 ## Remarks
 
-This property is read/write until the **[Column](/office/client-developer/access/desktop-database-reference/column-object-adox.md)** object is appended to a collection or to another object, after which it is read-only.
+This property is read/write until the **[Column](/office/client-developer/access/desktop-database-reference/column-object-adox)** object is appended to a collection or to another object, after which it is read-only.
 
 ## See also
 
