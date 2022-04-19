@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (**String**) or **Range** object; determines the values to be sorted.|
 | _Order1_|Optional| **[XlSortOrder](excel.xlsortorder.md)**|Determines the sort order for the values specified in _Key1_.|
 | _Key2_|Optional| **Variant**|Second sort field; cannot be used when sorting a PivotTable.|
-| _Type_|Optional| **Variant**|Specifies which elements are to be sorted.|
+| _Type_|Optional| **Variant**|Specifies which type of elements are to be sorted within a PivotTable. Specify **xLSortLabels** to sort by the labels targeted by the _experession_ **Range** in the Row/Colum Labels areas of the PivotTable's range, or **xLSortValues** when _Key1_ additionally targets a cell in the Values or Sub/Grand Totals areas using R1C1 notation.|
 | _Order2_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key2_.|
 | _Key3_|Optional| **Variant**|Third sort field; cannot be used when sorting a PivotTable.|
 | _Order3_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key3_.|
