@@ -57,6 +57,8 @@ The _firstdayofweek_ argument has these settings:
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
+The _firstweekofyear_ argument has these settings:
+
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
