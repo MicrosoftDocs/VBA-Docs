@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Error in evaluating the Boolean filter expression for table `<name>`. (Error 3657)
+# Error in evaluating the Boolean filter expression for table \<name\>. (Error 3657)
 
   
 

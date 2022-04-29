@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# ORDER BY clause `<clause>` conflicts with GROUP BY clause. (Error 3094)
+# ORDER BY clause \<clause\> conflicts with GROUP BY clause. (Error 3094)
 
   
 

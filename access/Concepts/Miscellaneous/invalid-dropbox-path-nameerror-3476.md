@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Invalid dropbox path `<name>`. (Error 3476)
+# Invalid dropbox path \<name\>. (Error 3476)
 
   
 

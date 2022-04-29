@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# `<Parameter name>` is invalid because it is too long or contains invalid characters. (Error 3223)
+# \<Parameter name\> is invalid because it is too long or contains invalid characters. (Error 3223)
 
   
 

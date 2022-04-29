@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record(s) cannot be edited; no update permission on `<name>`. (Error 3108)
+# Record(s) cannot be edited; no update permission on \<name\>. (Error 3108)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Query `<name>` contains an ambiguous column name that is conflicting with the correlation (alias) name `<name>`. (Error 3807)
+# Query \<name\> contains an ambiguous column name that is conflicting with the correlation (alias) name \<name\>. (Error 3807)
 
   
 

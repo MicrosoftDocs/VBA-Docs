@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record(s) cannot be deleted; no delete permission on `<name>`. (Error 3109)
+# Record(s) cannot be deleted; no delete permission on \<name\>. (Error 3109)
 
   
 

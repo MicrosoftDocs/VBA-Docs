@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# ODBC - could not find DLL `<name>`. (Error 3154)
+# ODBC - could not find DLL \<name\>. (Error 3154)
 
   
 

@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# HAVING clause `<name>` without grouping or aggregation. (Error 3091)
+# HAVING clause \<name\> without grouping or aggregation. (Error 3091)
 
   
 

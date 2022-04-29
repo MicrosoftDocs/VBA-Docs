@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Invalid entry. Cannot perform cascading operation in table `<name>` because the value entered is too large for field `<name>`. (Error 3411)
+# Invalid entry. Cannot perform cascading operation in table \<name\> because the value entered is too large for field \<name\>. (Error 3411)
 
   
 

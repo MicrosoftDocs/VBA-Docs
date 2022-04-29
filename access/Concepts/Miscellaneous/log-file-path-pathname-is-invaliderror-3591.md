@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Log file path `<pathname>` is invalid. (Error 3591)
+# Log file path \<pathname\> is invalid. (Error 3591)
 
   
 

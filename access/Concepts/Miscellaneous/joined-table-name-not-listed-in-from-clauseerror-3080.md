@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Joined table `<name>` not listed in FROM clause. (Error 3080)
+# Joined table \<name\> not listed in FROM clause. (Error 3080)
 
   
 

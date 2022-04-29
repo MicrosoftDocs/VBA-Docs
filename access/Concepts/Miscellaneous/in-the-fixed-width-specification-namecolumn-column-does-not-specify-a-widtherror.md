@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# In the fixed width specification `<name>`, column `<column>` does not specify a width. (Error 3444)
+# In the fixed width specification \<name\>, column \<column\> does not specify a width. (Error 3444)
 
 No column width parameter is specified in the text file specification for the Text ISAM is invalid.
 
