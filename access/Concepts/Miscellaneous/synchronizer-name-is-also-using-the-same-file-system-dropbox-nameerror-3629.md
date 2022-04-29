@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Synchronizer <name> is also using the same File System dropbox <name> (Error 3629)
+# Synchronizer \<name\> is also using the same File System dropbox \<name\> (Error 3629)
 
   
 

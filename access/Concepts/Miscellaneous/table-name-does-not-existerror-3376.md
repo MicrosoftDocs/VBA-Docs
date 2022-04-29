@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> does not exist. (Error 3376)
+# Table \<name\> does not exist. (Error 3376)
 
   
 

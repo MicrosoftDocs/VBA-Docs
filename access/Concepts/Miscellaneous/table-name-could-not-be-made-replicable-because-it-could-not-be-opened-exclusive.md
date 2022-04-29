@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> could not be made replicable because it could not be opened exclusively. (Error 3767)
+# Table \<name\> could not be made replicable because it could not be opened exclusively. (Error 3767)
 
   
 

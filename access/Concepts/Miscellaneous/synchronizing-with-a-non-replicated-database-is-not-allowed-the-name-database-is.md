@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Synchronizing with a non-replicated database is not allowed. The <name> database is not a Design Master or replica. (Error 3605)
+# Synchronizing with a non-replicated database is not allowed. The \<name\> database is not a Design Master or replica. (Error 3605)
 
   
 
