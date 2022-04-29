@@ -26,7 +26,7 @@ _expression_. `FontColor`
 The **FontColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
-|||
+|FontColor|FontColor Continued|
 |:-----|:-----|
 |**pjColorAutomatic**|**pjNavy**|
 |**pjAqua**|**pjOlive**|
