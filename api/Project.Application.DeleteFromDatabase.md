@@ -48,7 +48,7 @@ The Name argument must contain a file name string, or an ODBC data source name (
 
 In the following examples, _[My Documents]_ is the full path of your My Documents folder, and _[Program Files]_ is the full path of your Program Files folder:
 
-"<Corporate SQL Database>\Factory Construction"
+"\<Corporate SQL Database>\\Factory Construction"
 
 "<  _[My Documents]\_ PROJECT1.MDB>\System Roll-out Plan"
 

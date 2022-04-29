@@ -26,7 +26,7 @@ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriter
 The **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
-|||
+|CellColor|CellColor Continued|
 |:-----|:-----|
 |**pjColorAutomatic**|**pjNavy**|
 |**pjAqua**|**pjOlive**|

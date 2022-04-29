@@ -30,7 +30,7 @@ Setting the **DatasheetForeColor** property for a table or query won't affect th
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
-|||
+|Properties|Properties Continued|
 |:-----|:-----|
 |**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|
 |**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|

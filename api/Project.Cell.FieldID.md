@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 If the active cell contains a task, can be one of the following **[PjField](Project.PjField.md)** constants:
 
 
-|||
+|PjField Constants (task)|PjField Constants (task) Continued|
 |:-----|:-----|
 |**pjTaskActualCost**|**pjTaskHyperlinkSubAddress**|
 |**pjTaskActualDuration**|**pjTaskID**|
@@ -119,7 +119,7 @@ If the active cell contains a task, can be one of the following **[PjField](Proj
 If the active cell contains a resource, can be one of the following **PjField** constants:
 
 
-|||
+|PjField Constants (resource)|PjField Constants (resource) Continued|
 |:-----|:-----|
 |**pjResourceAccrueAt**|**pjResourceEnterpriseUniqueID**|
 |**pjResourceActualCost**|**pjResourceFinish**|
