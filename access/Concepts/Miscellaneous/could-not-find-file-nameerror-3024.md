@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# Could not find file <name>. (Error 3024)
+# Could not find file \<name\>. (Error 3024)
 
   
 

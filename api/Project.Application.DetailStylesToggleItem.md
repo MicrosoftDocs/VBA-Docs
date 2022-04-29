@@ -42,7 +42,7 @@ _expression_ A variable that represents an **[Application](Project.Application.m
 If the active view is the **Resource Usage** view, can be one of the following **PjTimescaledData** constants:
 
 
-|||
+|PjTimescaledData Constants|PjTimescaledData Constants Continued|
 |:-----|:-----|
 |**pjActualCost**|**pjCumulativeCost**|
 |**pjActualOvertimeWork**|**pjCumulativeWork**|
@@ -61,7 +61,7 @@ If the active view is the **Resource Usage** view, can be one of the following *
 If the active view is the **Task Usage** view, can be one of the following **PjTimescaledData** constants:
 
 
-|||
+|PjTimescaledData Constants|PjTimescaledData Constants Continued|
 |:-----|:-----|
 |**pjActualCost**|**pjCumulativeCost**|
 |**pjActualFixedCost**|**pjCumulativeWork**|

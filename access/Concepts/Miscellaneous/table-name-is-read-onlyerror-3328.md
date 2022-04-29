@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> is read-only. (Error 3328)
+# Table \<name\> is read-only. (Error 3328)
 
   
 

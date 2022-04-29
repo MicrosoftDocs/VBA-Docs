@@ -37,7 +37,7 @@ String
 
 ## Remarks
 
-The value of  _ElementName_ must match the value of the SolutionXML element's Name attribute. For example, if a solution's XML data began with the statement <SolutionXML Name='somename'>, use the _ElementName_ "somename" to retrieve that data.
+The value of  _ElementName_ must match the value of the SolutionXML element's Name attribute. For example, if a solution's XML data began with the statement \<SolutionXML Name='somename'>\, use the _ElementName_ "somename" to retrieve that data.
 
 - If  _ElementName_ already exists, the **SolutionXMLElement** property overwrites existing XML data. Use the **SolutionXMLElementExists** property before writing XML data to avoid losing data unintentionally.
     

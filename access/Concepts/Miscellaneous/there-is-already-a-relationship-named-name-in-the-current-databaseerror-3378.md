@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# There is already a relationship named <name> in the current database. (Error 3378)
+# There is already a relationship named \<name\> in the current database. (Error 3378)
 
   
 

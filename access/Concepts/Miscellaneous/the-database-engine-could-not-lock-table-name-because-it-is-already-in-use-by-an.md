@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# The database engine could not lock table <name> because it is already in use by another person or process. (Error 3211)
+# The database engine could not lock table \<name\> because it is already in use by another person or process. (Error 3211)
 
 **Applies to:** Access 2013 | Access 2016
 

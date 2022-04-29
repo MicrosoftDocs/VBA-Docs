@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not find output table <name>. (Error 3192)
+# Could not find output table \<name\>. (Error 3192)
 
   
 

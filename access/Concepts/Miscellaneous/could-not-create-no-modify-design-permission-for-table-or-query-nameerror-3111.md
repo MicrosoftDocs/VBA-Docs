@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not create; no modify design permission for table or query <name>. (Error 3111)
+# Could not create; no modify design permission for table or query \<name\>. (Error 3111)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The table <name> is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. (Error 3008)
+# The table \<name\> is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. (Error 3008)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The cascading options for the new reference conflict with existing reference <name>. (Error 3707)
+# The cascading options for the new reference conflict with existing reference \<name\>. (Error 3707)
 
   
 

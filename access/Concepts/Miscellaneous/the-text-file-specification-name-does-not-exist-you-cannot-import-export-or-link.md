@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The text file specification <name> does not exist. You cannot import, export, or link using the specification. (Error 3625)
+# The text file specification \<name\> does not exist. You cannot import, export, or link using the specification. (Error 3625)
 
   
 

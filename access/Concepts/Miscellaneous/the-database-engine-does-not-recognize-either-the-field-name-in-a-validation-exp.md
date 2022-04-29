@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The database engine does not recognize either the field <name> in a validation expression, or the default value in the table <name>. (Error 3344)
+# The database engine does not recognize either the field \<name\> in a validation expression, or the default value in the table \<name\>. (Error 3344)
 
   
 

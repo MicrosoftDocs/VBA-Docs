@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not update; currently locked by user <name> on machine <name>. (Error 3260)
+# Could not update; currently locked by user \<name\> on machine \<name\>. (Error 3260)
 
   
 

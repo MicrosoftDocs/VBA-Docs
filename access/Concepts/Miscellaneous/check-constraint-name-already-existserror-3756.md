@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# CHECK constraint <name> already exists. (Error 3756)
+# CHECK constraint \<name\> already exists. (Error 3756)
 
   
 

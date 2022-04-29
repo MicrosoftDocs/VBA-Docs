@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 The **CellColor** property can be one of the following **[PjColor](Project.PjColor.md)** constants:
 
 
-|||
+|Color Constants 1|Color Constants 2|
 |:-----|:-----|
 |**pjColorAutomatic**|**pjNavy**|
 |**pjAqua**|**pjOlive**|
