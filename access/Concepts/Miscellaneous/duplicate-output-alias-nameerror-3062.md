@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Duplicate output alias <name>. (Error 3062)
+# Duplicate output alias \<name\>. (Error 3062)
 
   
 

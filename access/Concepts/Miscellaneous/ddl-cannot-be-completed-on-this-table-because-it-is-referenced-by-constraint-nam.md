@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# DDL cannot be completed on this table because it is referenced by constraint <name> on table <name>. (Error 3803)
+# DDL cannot be completed on this table because it is referenced by constraint \<name\> on table \<name\>. (Error 3803)
 
   
 

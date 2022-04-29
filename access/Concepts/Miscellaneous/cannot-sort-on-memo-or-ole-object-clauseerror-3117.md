@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot sort on Memo or OLE Object <clause>. (Error 3117)
+# Cannot sort on Memo or OLE Object \<clause\>. (Error 3117)
 
   
 

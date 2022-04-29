@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Duplicate output destination <name>. (Error 3063)
+# Duplicate output destination \<name\>. (Error 3063)
 
   
 

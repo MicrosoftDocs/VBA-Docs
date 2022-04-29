@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not read; currently locked by user <name> on machine <name>. (Error 3187)
+# Could not read; currently locked by user \<name\> on machine \<name\>. (Error 3187)
 
   
 

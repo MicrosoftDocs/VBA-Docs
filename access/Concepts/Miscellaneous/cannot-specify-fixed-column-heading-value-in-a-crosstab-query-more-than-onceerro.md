@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot specify fixed column heading <value> in a crosstab query more than once. (Error 3104)
+# Cannot specify fixed column heading \<value\> in a crosstab query more than once. (Error 3104)
 
   
 
