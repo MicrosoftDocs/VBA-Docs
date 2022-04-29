@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-This property corresponds to the name of a data point on a chart. The name is represented using the following format: S<series number>P<point number>.
+This property corresponds to the name of a data point on a chart. The name is represented using the following format: S\<series number>P\<point number>.
 
 
 ## See also
