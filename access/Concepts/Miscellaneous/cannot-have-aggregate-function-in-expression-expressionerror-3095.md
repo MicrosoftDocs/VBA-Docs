@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have aggregate function in expression <expression>. (Error 3095)
+# Cannot have aggregate function in expression \<expression\>. (Error 3095)
 
   
 

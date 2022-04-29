@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have Memo or OLE Object fields in aggregate argument <statement>. (Error 3115)
+# Cannot have Memo or OLE Object fields in aggregate argument \<statement\>. (Error 3115)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. It would result in a null key in table <name>. (Error 3398)
+# Cannot perform cascading operation. It would result in a null key in table \<name\>. (Error 3398)
 
   
 

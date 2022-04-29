@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot access the FoxPro 3.0 bound DBF file <filename>. (Error 3623)
+# Cannot access the FoxPro 3.0 bound DBF file \<filename\>. (Error 3623)
 
   
 

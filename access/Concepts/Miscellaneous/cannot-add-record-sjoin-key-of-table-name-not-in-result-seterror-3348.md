@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot add record(s); join key of table <name> not in result set. (Error 3348)
+# Cannot add record(s); join key of table \<name\> not in result set. (Error 3348)
 
   
 
