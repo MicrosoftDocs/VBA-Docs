@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The action query <name> cannot be used as a row source. (Error 3069)
+# The action query \<name\> cannot be used as a row source. (Error 3069)
 
   
 

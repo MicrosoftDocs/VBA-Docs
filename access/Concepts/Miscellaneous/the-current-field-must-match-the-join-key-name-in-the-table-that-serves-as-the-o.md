@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The current field must match the join key <name> in the table that serves as the 'one' side of one-to-many relationship. (Error 3341)
+# The current field must match the join key \<name\> in the table that serves as the 'one' side of one-to-many relationship. (Error 3341)
 
   
 
