@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not lock table <name>; currently in use by user <name> on machine <name>. (Error 3212)
+# Could not lock table \<name\>; currently in use by user \<name\> on machine \<name\>. (Error 3212)
 
   
 

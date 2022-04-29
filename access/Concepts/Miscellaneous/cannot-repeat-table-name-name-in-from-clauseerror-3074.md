@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot repeat table name <name> in FROM clause. (Error 3074)
+# Cannot repeat table name \<name\> in FROM clause. (Error 3074)
 
   
 

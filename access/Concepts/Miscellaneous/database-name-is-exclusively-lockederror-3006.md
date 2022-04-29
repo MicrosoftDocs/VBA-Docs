@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Database <name> is exclusively locked. (Error 3006)
+# Database \<name\> is exclusively locked. (Error 3006)
 
   
 

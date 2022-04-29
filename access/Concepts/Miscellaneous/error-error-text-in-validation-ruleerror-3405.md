@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Error <error text> in validation rule. (Error 3405)
+# Error \<error text\> in validation rule. (Error 3405)
 
   
 

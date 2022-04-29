@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not use <name>; file already in use. (Error 3045)
+# Could not use \<name\>; file already in use. (Error 3045)
 
   
 

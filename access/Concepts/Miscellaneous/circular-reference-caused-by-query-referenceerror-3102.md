@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Circular reference caused by <query reference>. (Error 3102)
+# Circular reference caused by \<query reference\>. (Error 3102)
 
   
 

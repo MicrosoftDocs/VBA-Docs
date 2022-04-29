@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Dropbox address <name> is syntactically invalid. (Error 3477)
+# Dropbox address \<name\> is syntactically invalid. (Error 3477)
 
   
 
