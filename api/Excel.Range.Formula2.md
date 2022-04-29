@@ -6,7 +6,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Formula2
 ms.assetid: 
-ms.date: 12/10/2019
+ms.date: 04/28/22
 ms.localizationpriority: medium
 ---
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 This property is not available for OLAP data sources.
 
-In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. A discussion on Dynamic Arrays and Range.Formula2 can be found here. 
+In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. For more information about Dynamic Arrays and Range.Formula2, see [Formula vs. Formula2](https://docs.microsoft.com/office/vba/excel/concepts/cells-and-ranges/range-formula-vs-formula2).
 
 If the cell contains a constant, this property returns the constant. If the cell is empty, this property returns an empty string. If the cell contains a formula, the **Formula** property returns the formula as a string in the same format that would be displayed in the formula bar (including the equal sign ( = )).
 
