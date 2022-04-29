@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot change field <name>. (Error 3720)
+# Cannot change field \<name\>. (Error 3720)
 
   
 

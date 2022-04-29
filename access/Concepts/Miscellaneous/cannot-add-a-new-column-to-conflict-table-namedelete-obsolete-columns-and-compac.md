@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot add a new column to conflict table <name>. Delete obsolete columns and compact the database. (Error 3740)
+# Cannot add a new column to conflict table \<name\>. Delete obsolete columns and compact the database. (Error 3740)
 
   
 

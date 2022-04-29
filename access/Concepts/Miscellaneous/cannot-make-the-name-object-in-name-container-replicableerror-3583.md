@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot make the <name> object in <name> container replicable. (Error 3583)
+# Cannot make the \<name\> object in \<name\> container replicable. (Error 3583)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Access was denied while accessing dropbox folder <name>. (Error 3468)
+# Access was denied while accessing dropbox folder \<name\>. (Error 3468)
 
  
 **Applies to:** Access 2013 | Access 2016

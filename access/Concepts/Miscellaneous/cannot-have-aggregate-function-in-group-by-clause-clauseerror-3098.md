@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have aggregate function in GROUP BY clause <clause>. (Error 3098)
+# Cannot have aggregate function in GROUP BY clause \<clause\>. (Error 3098)
 
   
 

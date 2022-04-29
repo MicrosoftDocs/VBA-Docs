@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open database <name>. It may not be a database that your application recognizes, or the file may be corrupt. (Error 3049)
+# Cannot open database \<name\>. It may not be a database that your application recognizes, or the file may be corrupt. (Error 3049)
 
   
 

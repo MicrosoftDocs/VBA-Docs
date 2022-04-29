@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot add record(s); primary key for table <name> not in result set. (Error 3347)
+# Cannot add record(s); primary key for table \<name\> not in result set. (Error 3347)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot input from internal report query <name>. (Error 3124)
+# Cannot input from internal report query \<name\>. (Error 3124)
 
   
 

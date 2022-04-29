@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation: <validation text>. (Error 3403)
+# Cannot perform cascading operation: \<validation text\>. (Error 3403)
 
   
 

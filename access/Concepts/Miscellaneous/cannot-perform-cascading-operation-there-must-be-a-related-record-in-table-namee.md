@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. There must be a related record in table <name>. (Error 3397)
+# Cannot perform cascading operation. There must be a related record in table \<name\>. (Error 3397)
 
   
 

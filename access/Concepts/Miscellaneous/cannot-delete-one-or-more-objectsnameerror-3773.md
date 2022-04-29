@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot delete one or more objects: <name>. (Error 3773)
+# Cannot delete one or more objects: \<name\>. (Error 3773)
 
   
 

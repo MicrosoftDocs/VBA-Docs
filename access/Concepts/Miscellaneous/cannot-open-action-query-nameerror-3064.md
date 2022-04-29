@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open action query <name>. (Error 3064)
+# Cannot open action query \<name\>. (Error 3064)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open replication system table <name> because the table is already in use. (Error 3581)
+# Cannot open replication system table \<name\> because the table is already in use. (Error 3581)
 
   
 
