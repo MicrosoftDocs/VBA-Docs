@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# ODBC Specification Conformance Error <message>. Report this error to the developer of your application. (Error 3299)
+# ODBC Specification Conformance Error `<message>`. Report this error to the developer of your application. (Error 3299)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# <Error> in table-level validation expression. (Error 3320)
+# `<Error>` in table-level validation expression. (Error 3320)
 
   
 

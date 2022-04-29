@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Invalid bracketing of name <name>. (Error 3126)
+# Invalid bracketing of name `<name>`. (Error 3126)
 
   
 

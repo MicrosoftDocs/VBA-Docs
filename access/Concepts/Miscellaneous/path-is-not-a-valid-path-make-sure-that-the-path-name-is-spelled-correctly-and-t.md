@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# <Path> is not a valid path. Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. (Error 3044)
+# `<Path>` is not a valid path. Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. (Error 3044)
 
   
 

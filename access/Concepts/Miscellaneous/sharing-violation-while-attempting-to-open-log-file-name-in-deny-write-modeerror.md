@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Sharing violation while attempting to open log file <name> in Deny Write mode. (Error 3475)
+# Sharing violation while attempting to open log file `<name>` in Deny Write mode. (Error 3475)
 
   
 

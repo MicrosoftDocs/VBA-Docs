@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# <Name> is not an index in this table. (Error 3800)
+# `<Name>` is not an index in this table. (Error 3800)
 
   
 

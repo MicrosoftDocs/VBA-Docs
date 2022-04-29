@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Records in table <name> would have no record on the 'one' side. (Error 3333)
+# Records in table `<name>` would have no record on the 'one' side. (Error 3333)
 
   
 

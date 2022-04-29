@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record is table <name> is locked by another user. (Error 3330)
+# Record is table `<name>` is locked by another user. (Error 3330)
 
   
 

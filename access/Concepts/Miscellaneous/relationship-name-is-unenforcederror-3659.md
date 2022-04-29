@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Relationship <name> is unenforced. (Error 3659)
+# Relationship `<name>` is unenforced. (Error 3659)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Error evaluating <name> CHECK constraint. <Additional information.> (Error 3802)
+# Error evaluating `<name>` CHECK constraint. `<Additional information.>` (Error 3802)
 
 This is an unexpected error. Please contact Microsoft Product Support Services for more information.
 

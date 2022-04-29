@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Field <name> already exists in table <name>. (Error 3380)
+# Field `<name>` already exists in table `<name>`. (Error 3380)
 
   
 

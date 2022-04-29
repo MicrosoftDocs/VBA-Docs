@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Invalid field name <name> in definition of index or relationship. (Error 3409)
+# Invalid field name `<name>` in definition of index or relationship. (Error 3409)
 
   
 

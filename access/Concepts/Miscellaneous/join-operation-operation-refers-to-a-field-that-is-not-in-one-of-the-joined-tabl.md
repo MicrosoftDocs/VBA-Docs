@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# JOIN operation <operation> refers to a field that is not in one of the joined tables. (Error 3082)
+# JOIN operation `<operation>` refers to a field that is not in one of the joined tables. (Error 3082)
 
   
 

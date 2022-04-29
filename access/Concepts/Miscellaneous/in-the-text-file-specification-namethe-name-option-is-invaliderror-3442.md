@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# In the text file specification <name>, the <name> option is invalid. (Error 3442)
+# In the text file specification `<name>`, the `<name>` option is invalid. (Error 3442)
 
   
 

@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# No such index <name> on table <name>. (Error 3372)
+# No such index `<name>` on table `<name>`. (Error 3372)
 
   
 

@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Object <name> is not a stored procedure. (Error 3750)
+# Object `<name>` is not a stored procedure. (Error 3750)
 
   
 

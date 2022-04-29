@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Parameter <name> has no default value. (Error 3748)
+# Parameter `<name>` has no default value. (Error 3748)
 
   
 
