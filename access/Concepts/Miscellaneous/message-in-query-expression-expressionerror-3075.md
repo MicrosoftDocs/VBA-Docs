@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# `<Message>` in query expression `<expression>`. (Error 3075)
+# \<Message\> in query expression \<expression\>. (Error 3075)
 
 The expression you typed is not valid for the reason indicated in the message. Make sure you have typed field names and punctuation correctly, and then try the operation again.
 
