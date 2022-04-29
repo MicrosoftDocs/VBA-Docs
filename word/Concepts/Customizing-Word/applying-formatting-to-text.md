@@ -78,10 +78,10 @@ The following example toggles the space-before formatting of the first paragraph
 ```vb
 Sub ToggleParagraphSpace() 
  With Selection.Paragraphs(1) 
- If .SpaceBefore <> 0 Then 
+ If .SpaceBefore = 12 Then 
  .SpaceBefore = 0 
  Else 
- .SpaceBefore = 6 
+ .SpaceBefore = 12 
  End If 
  End With 
 End Sub
