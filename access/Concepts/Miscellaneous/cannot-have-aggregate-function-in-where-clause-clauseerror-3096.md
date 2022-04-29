@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have aggregate function in WHERE clause <clause>. (Error 3096)
+# Cannot have aggregate function in WHERE clause \<clause\>. (Error 3096)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot group on Memo or OLE Object <clause>. (Error 3119)
+# Cannot group on Memo or OLE Object \<clause\>. (Error 3119)
 
   
 

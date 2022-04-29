@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp.md)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot create a new replica because the <name> object in <name> container could not be replicated. (Error 3490)
+# Cannot create a new replica because the \<name\> object in \<name\> container could not be replicated. (Error 3490)
 
   
 

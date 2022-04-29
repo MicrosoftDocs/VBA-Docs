@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. The value entered is prohibited by the validation rule <rule> set for <name>. (Error 3404)
+# Cannot perform cascading operation. The value entered is prohibited by the validation rule \<rule\> set for \<name\>. (Error 3404)
 
 The cascade operation you are attempting would result in an invalid value in the indicated field, as established by the field's validation rule. Check the values you are attempting to update and fix them so they comply with the validation rule.
 

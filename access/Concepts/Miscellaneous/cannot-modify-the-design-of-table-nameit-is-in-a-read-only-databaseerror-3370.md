@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot modify the design of table <name>. It's in a read-only database. (Error 3370)
+# Cannot modify the design of table \<name\>. It's in a read-only database. (Error 3370)
 
   
 

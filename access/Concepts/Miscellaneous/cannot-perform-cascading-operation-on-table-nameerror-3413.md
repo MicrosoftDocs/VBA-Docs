@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation on table <name>. (Error 3413)
+# Cannot perform cascading operation on table \<name\>. (Error 3413)
 
   
 

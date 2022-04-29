@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot create relationship. Referenced table <name> does not have a primary key. (Error 3373)
+# Cannot create relationship. Referenced table \<name\> does not have a primary key. (Error 3373)
 
   
 

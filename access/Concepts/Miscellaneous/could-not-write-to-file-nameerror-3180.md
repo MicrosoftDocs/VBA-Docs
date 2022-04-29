@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not write to file <name>. (Error 3180)
+# Could not write to file \<name\>. (Error 3180)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot join on Memo or OLE Object <name>. (Error 3118)
+# Cannot join on Memo or OLE Object \<name\>. (Error 3118)
 
   
 

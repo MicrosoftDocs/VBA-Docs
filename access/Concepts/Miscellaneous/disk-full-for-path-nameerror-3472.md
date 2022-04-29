@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Disk full for path <name>. (Error 3472)
+# Disk full for path \<name\>. (Error 3472)
 
   
 

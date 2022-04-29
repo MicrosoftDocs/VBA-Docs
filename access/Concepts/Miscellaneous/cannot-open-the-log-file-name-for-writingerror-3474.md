@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open the log file <name> for writing. (Error 3474)
+# Cannot open the log file \<name\> for writing. (Error 3474)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot use Memo or OLE Object field <name> in the SELECT clause of a union query. (Error 3364)
+# Cannot use Memo or OLE Object field \<name\> in the SELECT clause of a union query. (Error 3364)
 
   
 

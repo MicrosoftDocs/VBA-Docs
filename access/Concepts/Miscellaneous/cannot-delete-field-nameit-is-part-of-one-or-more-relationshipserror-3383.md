@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot delete field <name>. It's part of one or more relationships. (Error 3383)
+# Cannot delete field \<name\>. It's part of one or more relationships. (Error 3383)
 
   
 

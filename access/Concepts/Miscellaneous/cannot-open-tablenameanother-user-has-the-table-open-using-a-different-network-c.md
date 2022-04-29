@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open <tablename>. Another user has the table open using a different network control file or locking style. (Error 3418)
+# Cannot open \<tablename\>. Another user has the table open using a different network control file or locking style. (Error 3418)
 
   
 

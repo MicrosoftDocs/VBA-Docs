@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot join more than one table with the same name <name>. (Error 3081)
+# Cannot join more than one table with the same name \<name\>. (Error 3081)
 
   
 

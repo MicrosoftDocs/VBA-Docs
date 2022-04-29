@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot open library database <name>. (Error 3007)
+# Cannot open library database \<name\>. (Error 3007)
 
   
 

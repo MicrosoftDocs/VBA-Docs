@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. Since related records exist in table <name>, referential integrity rules would be violated. (Error 3396)
+# Cannot perform cascading operation. Since related records exist in table \<name\>, referential integrity rules would be violated. (Error 3396)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation on table <name> because it is currently in use. (Error 3414)
+# Cannot perform cascading operation on table \<name\> because it is currently in use. (Error 3414)
 
   
 

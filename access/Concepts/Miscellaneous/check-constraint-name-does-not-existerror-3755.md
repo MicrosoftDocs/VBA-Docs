@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# CHECK Constraint <name> does not exist. (Error 3755)
+# CHECK Constraint \<name\> does not exist. (Error 3755)
 
   
 
