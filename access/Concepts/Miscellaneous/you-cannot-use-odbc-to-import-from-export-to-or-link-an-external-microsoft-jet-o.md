@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 **Applies to:** Access 2013 | Access 2016
 
-You are attempting to link, import data from, or export data to either an external Microsoft Access database engine table or an external ISAM database table (for example, dBASE, Microsoft FoxPro, Paradox, or Btrieve), but you have selected <SQL Database> as the data source. You must select the appropriate data source for the data you are attempting to link.
+You are attempting to link, import data from, or export data to either an external Microsoft Access database engine table or an external ISAM database table (for example, dBASE, Microsoft FoxPro, Paradox, or Btrieve), but you have selected `<SQL Database>` as the data source. You must select the appropriate data source for the data you are attempting to link.
 
 ## See also
 

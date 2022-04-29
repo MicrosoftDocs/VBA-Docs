@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# You tried to execute a query that does not include the specified expression <name> as part of an aggregate function. (Error 3122)
+# You tried to execute a query that does not include the specified expression \<name\> as part of an aggregate function. (Error 3122)
 
   
 

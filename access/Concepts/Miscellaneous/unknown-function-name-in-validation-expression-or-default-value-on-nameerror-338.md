@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Unknown function <name> in validation expression or default value on <name>. (Error 3388)
+# Unknown function \<name\> in validation expression or default value on \<name\>. (Error 3388)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The password supplied for the dropbox folder <name> is invalid. (Error 3483)
+# The password supplied for the dropbox folder \<name\> is invalid. (Error 3483)
 
   
 

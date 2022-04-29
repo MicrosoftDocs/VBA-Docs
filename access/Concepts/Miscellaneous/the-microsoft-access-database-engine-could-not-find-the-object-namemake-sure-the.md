@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The Microsoft Access database engine could not find the object <name>. Make sure the object exists and that you spell its name and the path name correctly. (Error 3011)
+# The Microsoft Access database engine could not find the object \<name\>. Make sure the object exists and that you spell its name and the path name correctly. (Error 3011)
 
   
 

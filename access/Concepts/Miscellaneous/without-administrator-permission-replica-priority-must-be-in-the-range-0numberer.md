@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Without Administrator permission, replica priority must be in the range 0 - <number>. (Error 3772)
+# Without Administrator permission, replica priority must be in the range 0 - \<number\>. (Error 3772)
 
   
 

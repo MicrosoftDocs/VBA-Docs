@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Too many crosstab column headers <value>. (Error 3205)
+# Too many crosstab column headers \<value\>. (Error 3205)
 
   
 

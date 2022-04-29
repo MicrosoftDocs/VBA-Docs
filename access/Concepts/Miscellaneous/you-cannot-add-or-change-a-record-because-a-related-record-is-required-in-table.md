@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# You cannot add or change a record because a related record is required in table <name>. (Error 3201)
+# You cannot add or change a record because a related record is required in table \<name\>. (Error 3201)
 
   
 
