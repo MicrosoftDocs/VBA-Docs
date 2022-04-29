@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Too few parameters. Expected <number>. (Error 3061)
+# Too few parameters. Expected \<number\>. (Error 3061)
 
   
 

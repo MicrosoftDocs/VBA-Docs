@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# There is no field named <name> in table <name>. (Error 3381)
+# There is no field named \<name\> in table \<name\>. (Error 3381)
 
   
 

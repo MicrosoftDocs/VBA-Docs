@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# Unrecognized database format <filename>. (Error 3343)
+# Unrecognized database format \<filename\>. (Error 3343)
 
   
 

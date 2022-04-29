@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The specified field <field> could refer to more than one table listed in the FROM clause of your SQL statement. (Error 3079)
+# The specified field \<field\> could refer to more than one table listed in the FROM clause of your SQL statement. (Error 3079)
 
   
 

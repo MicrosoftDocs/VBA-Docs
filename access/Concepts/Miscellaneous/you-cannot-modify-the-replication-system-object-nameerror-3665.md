@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# You cannot modify the replication system object <name>. (Error 3665)
+# You cannot modify the replication system object \<name\>. (Error 3665)
 
   
 

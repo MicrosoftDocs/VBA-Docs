@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The specified fields are not uniquely indexed in table <name>. (Error 3374)
+# The specified fields are not uniquely indexed in table \<name\>. (Error 3374)
 
   
 

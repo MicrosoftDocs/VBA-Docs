@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The Microsoft Access database engine does not recognize <name> as a valid field name or expression. (Error 3070)
+# The Microsoft Access database engine does not recognize \<name\> as a valid field name or expression. (Error 3070)
 
 **Applies to:** Access 2013 | Access 2016
 

@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# The Microsoft Access database engine cannot find the input table or query <name>. Make sure it exists and that its name is spelled correctly. (Error 3078)
+# The Microsoft Access database engine cannot find the input table or query \<name\>. Make sure it exists and that its name is spelled correctly. (Error 3078)
 
   
 

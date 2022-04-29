@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The Microsoft Access database engine cannot open the file <name>. It's already opened exclusively by another user, or you need permission to view its data. (Error 3051)
+# The Microsoft Access database engine cannot open the file \<name\>. It's already opened exclusively by another user, or you need permission to view its data. (Error 3051)
 
   
 
