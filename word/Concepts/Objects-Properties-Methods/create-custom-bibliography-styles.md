@@ -158,7 +158,7 @@ In the code, you can specify the fields that are important for your bibliography
 </xsl:template>
 ```
 
-The text in the <xsl:text> tags are references to the Sources.xml file. These references pull out the data that will populate each of the fields. Examine Sources.xml in \Microsoft\Bibliography\Sources.xml) to get a better idea about how these references match up to what is in the XML file.
+The text in the \<xsl:text> tags are references to the Sources.xml file. These references pull out the data that will populate each of the fields. Examine Sources.xml in \Microsoft\Bibliography\Sources.xml) to get a better idea about how these references match up to what is in the XML file.
 
 
 ### Design the layout

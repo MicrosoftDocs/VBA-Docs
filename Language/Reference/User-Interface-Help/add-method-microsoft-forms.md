@@ -30,7 +30,7 @@ The **Add** method syntax has these parts:
 | _Name_|Optional. Specifies the name of the object being added. If a name is not specified, the system generates a default name based on the rules of the application where the form is used.|
 | _Caption_|Optional. Specifies the caption to appear on a tab or a control. If a caption is not specified, the system generates a default caption based on the rules of the application where the form is used.|
 | _index_|Optional. Identifies the position of a page or tab within a **Pages** or **Tabs** collection. If an index is not specified, the system appends the page or tab to the end of the **Pages** or **Tabs** collection and assigns the appropriate index value.|
-| _ProgID_|Required. Programmatic identifier. A text string with no spaces that identifies an object class. The standard syntax for a  _ProgID_ is <Vendor>.<Component>.<Version>. A _ProgID_ is mapped to a class identifier (CLSID).|
+| _ProgID_|Required. Programmatic identifier. A text string with no spaces that identifies an object class. The standard syntax for a  _ProgID_ is \<Vendor>\.\<Component>\.\<Version>\. A _ProgID_ is mapped to a class identifier (CLSID).|
 | _Visible_|Optional. **True** if the object is visible (default). **False** if the object is hidden.|
 
 ## Settings
