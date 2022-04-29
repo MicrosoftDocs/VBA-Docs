@@ -6,7 +6,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.Formula2
 ms.assetid: 
-ms.date: 04/28/22
+ms.date: 04/28/2022
 ms.localizationpriority: medium
 ---
 
