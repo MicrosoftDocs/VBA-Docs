@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# Compile error in hidden module: <module name>
+# Compile error in hidden module: \<module name>
 
 A protected [module](../../Glossary/vbe-glossary.md#module) contains a compilation error. Because the error is in a protected module it cannot be displayed.
 

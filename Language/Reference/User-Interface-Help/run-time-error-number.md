@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Run-time error <number>:
+# Run-time error \<number>:
 
 This error is user-defined, and has the following cause and solution:
 

@@ -158,7 +158,7 @@ In the code, you can specify the fields that are important for your bibliography
 </xsl:template>
 ```
 
-The text in the <xsl:text> tags are references to the Sources.xml file. These references pull out the data that will populate each of the fields. Examine Sources.xml in \Microsoft\Bibliography\Sources.xml) to get a better idea about how these references match up to what is in the XML file.
+The text in the \<xsl:text> tags are references to the Sources.xml file. These references pull out the data that will populate each of the fields. Examine Sources.xml in \Microsoft\Bibliography\Sources.xml) to get a better idea about how these references match up to what is in the XML file.
 
 
 ### Design the layout
@@ -526,6 +526,6 @@ This article showed how to create a custom bibliography style in Word, first by 
 
 - [What's new for Word 2013 developers](../../../api/overview/Word.md)    
 - [Office 365 Developer Blog](https://developer.microsoft.com/en-us/office/blogs/)    
-- [Word for developers website](https://docs.microsoft.com/office/client-developer/word/word-home)
+- [Word for developers website](/office/client-developer/word/word-home)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
