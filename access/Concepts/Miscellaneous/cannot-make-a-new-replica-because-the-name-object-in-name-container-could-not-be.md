@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot make a new replica because the <name> object in <name> container could not be made replicable. (Error 3582)
+# Cannot make a new replica because the \<name\> object in \<name\> container could not be made replicable. (Error 3582)
 
   
 

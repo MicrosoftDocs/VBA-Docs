@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> is exclusively locked by user <name> on machine <name>. (Error 3189)
+# Table \<name\> is exclusively locked by user \<name\> on machine \<name\>. (Error 3189)
 
   
 

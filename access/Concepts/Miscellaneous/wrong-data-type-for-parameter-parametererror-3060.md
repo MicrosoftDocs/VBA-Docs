@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Wrong data type for parameter <parameter>. (Error 3060)
+# Wrong data type for parameter \<parameter\>. (Error 3060)
 
   
 

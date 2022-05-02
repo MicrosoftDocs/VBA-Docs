@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. It would cause field <name> to become a zero-length string, which is not allowed. (Error 3402)
+# Cannot perform cascading operation. It would cause field \<name\> to become a zero-length string, which is not allowed. (Error 3402)
 
   
 

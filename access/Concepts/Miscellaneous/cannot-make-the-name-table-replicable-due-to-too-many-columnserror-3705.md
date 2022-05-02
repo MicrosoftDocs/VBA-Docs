@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot make the <name> table replicable due to too many columns. (Error 3705)
+# Cannot make the \<name\> table replicable due to too many columns. (Error 3705)
 
   
 

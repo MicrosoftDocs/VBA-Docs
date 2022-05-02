@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have aggregate function in ORDER BY clause <clause>. (Error 3097)
+# Cannot have aggregate function in ORDER BY clause \<clause\>. (Error 3097)
 
   
 

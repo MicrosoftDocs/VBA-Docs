@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The expression you are trying to use for the DefaultValue property is invalid because <error text>. Use a valid expression to set this property. (Error 3406)
+# The expression you are trying to use for the DefaultValue property is invalid because \<error text\>. Use a valid expression to set this property. (Error 3406)
 
   
 

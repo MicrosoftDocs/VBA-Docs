@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Binary column <name> cannot be used in a Boolean filter. (Error 3658)
+# Binary column \<name\> cannot be used in a Boolean filter. (Error 3658)
 
   
 

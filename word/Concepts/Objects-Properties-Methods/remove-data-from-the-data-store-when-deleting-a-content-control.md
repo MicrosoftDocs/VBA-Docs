@@ -55,7 +55,7 @@ Suppose the content control is mapped to the following sample custom XML file.
 </tree>
 ```
 
-Now, suppose the content control is mapped to a <fruitType> node of the previous custom XML part.
+Now, suppose the content control is mapped to a \<fruitType> node of the previous custom XML part.
 
 
 

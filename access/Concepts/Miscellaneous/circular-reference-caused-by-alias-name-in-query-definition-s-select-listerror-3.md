@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Circular reference caused by alias <name> in query definition's SELECT list. (Error 3103)
+# Circular reference caused by alias \<name\> in query definition's SELECT list. (Error 3103)
 
   
 

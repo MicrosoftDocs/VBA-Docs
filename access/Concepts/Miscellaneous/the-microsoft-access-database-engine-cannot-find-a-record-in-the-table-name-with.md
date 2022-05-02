@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# The Microsoft Access database engine cannot find a record in the table <name> with key matching field(s) <name>. (Error 3101)
+# The Microsoft Access database engine cannot find a record in the table \<name\> with key matching field(s) \<name\>. (Error 3101)
 
   
 

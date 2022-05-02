@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot make the <name> table replicable due to too many indexes. (Error 3706)
+# Cannot make the \<name\> table replicable due to too many indexes. (Error 3706)
 
   
 

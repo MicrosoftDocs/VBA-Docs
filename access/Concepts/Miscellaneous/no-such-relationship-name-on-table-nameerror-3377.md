@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# No such relationship <name> on table <name>. (Error 3377)
+# No such relationship \<name\> on table \<name\>. (Error 3377)
 
   
 

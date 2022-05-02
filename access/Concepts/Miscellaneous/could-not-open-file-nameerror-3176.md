@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not open file <name>. (Error 3176)
+# Could not open file \<name\>. (Error 3176)
 
   
 

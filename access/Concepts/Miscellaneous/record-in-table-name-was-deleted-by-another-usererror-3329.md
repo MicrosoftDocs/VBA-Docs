@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record in table <name> was deleted by another user. (Error 3329)
+# Record in table \<name\> was deleted by another user. (Error 3329)
 
   
 

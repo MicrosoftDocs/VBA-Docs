@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# <Database name> is not a valid database name. (Error 3005)
+# \<Database name\> is not a valid database name. (Error 3005)
 
   
 

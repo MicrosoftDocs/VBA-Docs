@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not save; currently locked by user <name> on machine <name>. (Error 3186)
+# Could not save; currently locked by user \<name\> on machine \<name\>. (Error 3186)
 
   
 

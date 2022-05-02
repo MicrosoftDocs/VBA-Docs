@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Disk failure accessing dropbox folder <name>. (Error 3470)
+# Disk failure accessing dropbox folder \<name\>. (Error 3470)
 
   
 

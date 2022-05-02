@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record(s) cannot be read; no read permission on <name>. (Error 3112)
+# Record(s) cannot be read; no read permission on \<name\>. (Error 3112)
 
   
 

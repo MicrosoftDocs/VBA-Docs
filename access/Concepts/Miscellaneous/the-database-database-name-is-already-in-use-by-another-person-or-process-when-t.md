@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The database <database name> is already in use by another person or process. When the database is available, try the operation again. (Error 3196)
+# The database \<database name\> is already in use by another person or process. When the database is available, try the operation again. (Error 3196)
 
   
 

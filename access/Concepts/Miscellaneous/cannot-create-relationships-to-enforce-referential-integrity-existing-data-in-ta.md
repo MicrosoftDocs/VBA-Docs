@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot create relationships to enforce referential integrity. Existing data in table <name> violates referential integrity rules in table <name>. (Error 3379)
+# Cannot create relationships to enforce referential integrity. Existing data in table \<name\> violates referential integrity rules in table \<name\>. (Error 3379)
 
   
 

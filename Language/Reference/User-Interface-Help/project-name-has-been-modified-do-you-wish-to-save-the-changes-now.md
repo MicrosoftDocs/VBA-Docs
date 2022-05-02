@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Project <name> has been modified. Do you wish to save the changes now?
+# Project \<name> has been modified. Do you wish to save the changes now?
 
 This error has the following causes and solutions:
 

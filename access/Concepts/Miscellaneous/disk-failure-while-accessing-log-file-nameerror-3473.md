@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Disk failure while accessing log file <name>. (Error 3473)
+# Disk failure while accessing log file \<name\>. (Error 3473)
 
   
 

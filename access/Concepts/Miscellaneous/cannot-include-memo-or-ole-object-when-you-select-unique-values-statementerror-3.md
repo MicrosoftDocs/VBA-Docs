@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot include Memo or OLE Object when you select unique values <statement>. (Error 3114)
+# Cannot include Memo or OLE Object when you select unique values \<statement\>. (Error 3114)
 
   
 

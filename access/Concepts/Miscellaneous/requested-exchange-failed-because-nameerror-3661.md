@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Requested exchange failed because <name>. (Error 3661)
+# Requested exchange failed because \<name\>. (Error 3661)
 
   
 

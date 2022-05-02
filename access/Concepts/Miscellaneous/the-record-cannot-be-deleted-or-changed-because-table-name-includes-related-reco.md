@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The record cannot be deleted or changed because table <name> includes related records. (Error 3200)
+# The record cannot be deleted or changed because table \<name\> includes related records. (Error 3200)
 
   
 

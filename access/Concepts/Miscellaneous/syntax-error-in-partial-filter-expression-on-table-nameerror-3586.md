@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Syntax error in partial filter expression on table <name>. (Error 3586)
+# Syntax error in partial filter expression on table \<name\>. (Error 3586)
 
   
 

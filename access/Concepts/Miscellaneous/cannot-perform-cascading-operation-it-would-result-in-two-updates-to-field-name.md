@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. It would result in two updates to field <name> in table <name>. (Error 3400)
+# Cannot perform cascading operation. It would result in two updates to field \<name\> in table \<name\>. (Error 3400)
 
   
 

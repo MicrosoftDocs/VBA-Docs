@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> already has an index named <name>. (Error 3375)
+# Table \<name\> already has an index named \<name\>. (Error 3375)
 
   
 

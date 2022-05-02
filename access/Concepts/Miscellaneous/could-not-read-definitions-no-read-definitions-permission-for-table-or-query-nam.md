@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Could not read definitions; no read definitions permission for table or query <name>. (Error 3110)
+# Could not read definitions; no read definitions permission for table or query \<name\>. (Error 3110)
 
   
 

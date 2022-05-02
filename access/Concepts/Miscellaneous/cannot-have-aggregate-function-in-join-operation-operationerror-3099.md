@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have aggregate function in JOIN operation <operation>. (Error 3099)
+# Cannot have aggregate function in JOIN operation \<operation\>. (Error 3099)
 
   
 

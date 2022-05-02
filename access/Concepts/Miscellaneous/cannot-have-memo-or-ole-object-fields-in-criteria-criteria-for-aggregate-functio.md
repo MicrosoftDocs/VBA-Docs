@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot have Memo or OLE Object fields in criteria <criteria> for aggregate function. (Error 3116)
+# Cannot have Memo or OLE Object fields in criteria \<criteria\> for aggregate function. (Error 3116)
 
   
 

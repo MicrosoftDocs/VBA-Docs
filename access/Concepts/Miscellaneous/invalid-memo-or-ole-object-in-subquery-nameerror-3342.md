@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Invalid Memo or OLE Object in subquery <name>. (Error 3342)
+# Invalid Memo or OLE Object in subquery \<name\>. (Error 3342)
 
   
 

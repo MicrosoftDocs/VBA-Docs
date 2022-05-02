@@ -40,7 +40,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 ### If the Gantt Chart is active
 
-|||
+|Gantt Chart Active|Gantt Chart Active Continued|
 |:-----|:-----|
 |**pjAll**|**pjGanttMajorTimescale**|
 |**pjNoncritical**|**pjGanttMinorTimescale**|
@@ -55,7 +55,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 ### If the Task Usage view is active
 
-|||
+|Task Usage|Task Usage Continued|
 |:-----|:-----|
 |**pjAll**|**pjTaskFilterHighlight**|
 |**pjCritical**|**pjTaskMajorTimescale**|
@@ -68,7 +68,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 
 ### If the Task Sheet is active
 
-|||
+|Task Sheet 1|Task Sheet 2|
 |:-----|:-----|
 |**pjAll**|**pjGanttMajorTimescale**|
 |**pjNoncritical**|**pjGanttMinorTimescale**|
@@ -80,7 +80,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 |**pjTaskFilterHighlight**|**pjGanttExternalTask**|
 |**pjTaskRowColumnTitles**||
 
-|||
+|Task Sheet 3|Task Sheet 4|
 |:-----|:-----|
 |**pjAll**|**pjTaskFilterHighlight**|
 |**pjCritical**|**pjTaskMajorTimescale**|
@@ -90,7 +90,7 @@ _expression_ An expression that returns an **[Application](Project.Application.m
 |**pjProjectSummary**|**pjTaskUsageExternalTask**|
 |**pjSummary**||
 
-|||
+|Task Sheet 5|Task Sheet 6|
 |:-----|:-----|
 |**pjAll**|**pjProjectSummary**|
 |**pjCritical**|**pjSummary**|

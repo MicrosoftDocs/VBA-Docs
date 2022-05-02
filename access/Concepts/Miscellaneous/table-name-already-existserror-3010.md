@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Table <name> already exists. (Error 3010)
+# Table \<name\> already exists. (Error 3010)
 
   
 

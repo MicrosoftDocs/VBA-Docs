@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Unknown or invalid field reference <name>. (Error 3345)
+# Unknown or invalid field reference \<name\>. (Error 3345)
 
   
 

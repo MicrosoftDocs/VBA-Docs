@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# <Account name> is not a valid account name. (Error 3030)
+# \<Account name>\ is not a valid account name. (Error 3030)
 
 
 **Applies to:** Access 2013 | Access 2016

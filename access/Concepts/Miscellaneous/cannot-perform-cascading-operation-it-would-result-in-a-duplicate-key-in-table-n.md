@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Cannot perform cascading operation. It would result in a duplicate key in table <name>. (Error 3399)
+# Cannot perform cascading operation. It would result in a duplicate key in table \<name\>. (Error 3399)
 
   
 

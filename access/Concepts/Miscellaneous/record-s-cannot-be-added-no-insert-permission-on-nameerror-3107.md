@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Record(s) cannot be added; no insert permission on <name>. (Error 3107)
+# Record(s) cannot be added; no insert permission on \<name\>. (Error 3107)
 
   
 

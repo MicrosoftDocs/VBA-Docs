@@ -32,7 +32,7 @@ This property is only available in [Visual Basic](../access/Concepts/Settings/se
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
-|||
+|Properties|Properties Continued|
 |:-----|:-----|
 |**DatasheetFontItalic** *|**[DatasheetForeColor](Access.Form.DatasheetForeColor.md)** *|
 |**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|
