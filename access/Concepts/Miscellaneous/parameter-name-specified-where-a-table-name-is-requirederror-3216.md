@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Parameter <name> specified where a table name is required. (Error 3216)
+# Parameter \<name\> specified where a table name is required. (Error 3216)
 
   
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Requested exchange failed because <description>. (Error 3660)
+# Requested exchange failed because \<description\>. (Error 3660)
 
   
 

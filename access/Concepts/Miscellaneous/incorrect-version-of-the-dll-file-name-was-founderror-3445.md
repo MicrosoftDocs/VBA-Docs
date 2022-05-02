@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Incorrect version of the DLL file <name> was found. (Error 3445)
+# Incorrect version of the DLL file \<name\> was found. (Error 3445)
 
   
 

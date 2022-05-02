@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# No destination field name in INSERT INTO statement <statement>. (Error 3352)
+# No destination field name in INSERT INTO statement \<statement\>. (Error 3352)
 
   
 

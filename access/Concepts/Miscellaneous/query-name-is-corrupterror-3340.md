@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Query <name> is corrupt. (Error 3340)
+# Query \<name\> is corrupt. (Error 3340)
 
   
 

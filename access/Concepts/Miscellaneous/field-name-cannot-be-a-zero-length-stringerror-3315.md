@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Field <name> cannot be a zero-length string. (Error 3315)
+# Field \<name\> cannot be a zero-length string. (Error 3315)
 
   
 
