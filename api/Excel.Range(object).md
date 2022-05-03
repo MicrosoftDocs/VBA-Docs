@@ -118,7 +118,7 @@ Use **Rows** on a worksheet to obtain a range consisting all rows on the workshe
 > [!NOTE] 
 > It's not legal to provide the second parameter of **Item** for ranges consisting of rows. You first have to convert it to single cells via **Cells**. 
 
-The following example deletes row 4 and 10 of the first sheet of the active workbook.
+The following example deletes row 5 and 10 of the first sheet of the active workbook.
 
 ```vb
 Worksheets(1).Rows(10).Delete
