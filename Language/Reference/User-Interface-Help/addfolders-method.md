@@ -1,5 +1,5 @@
 ---
-title: AddFolders method (Visual Basic for Applications)
+title: Add method (Visual Basic for Applications)
 keywords: vblr6.chm2182086
 f1_keywords:
 - vblr6.chm2182086
@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 ---
 
 
-# AddFolders method
+# Add method
 
 Adds a new **[Folder](folder-object.md)** to a **[Folders](folders-collection.md)** collection.
 

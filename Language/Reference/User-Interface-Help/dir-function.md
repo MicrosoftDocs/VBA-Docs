@@ -55,7 +55,7 @@ Dir("SomePath", MacID("TEXT"))
 To iterate over all files in a folder, specify an empty string:
 
 ```vb
-Dir("")
+Dir()
 ```
 
 If you use the **MacID** function with **Dir** in Microsoft Windows, an error occurs.
