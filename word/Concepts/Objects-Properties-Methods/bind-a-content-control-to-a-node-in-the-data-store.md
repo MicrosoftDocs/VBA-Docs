@@ -59,7 +59,7 @@ The following steps enable you to bind a content control to a node in the docume
 
    ```
 
-  Now, suppose the content control is mapped to a <fruitType> node of the previous custom XML part.
+  Now, suppose the content control is mapped to a \<fruitType> node of the previous custom XML part.
 
   The following sample code demonstrates how to attach an XML file to a document, so that it becomes an available data store item.
 

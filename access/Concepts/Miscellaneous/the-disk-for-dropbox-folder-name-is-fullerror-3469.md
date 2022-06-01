@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The disk for dropbox folder <name> is full. (Error 3469)
+# The disk for dropbox folder \<name\> is full. (Error 3469)
 
   
 

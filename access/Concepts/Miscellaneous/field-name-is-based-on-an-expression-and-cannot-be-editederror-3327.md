@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Field <name> is based on an expression and cannot be edited. (Error 3327)
+# Field \<name\> is based on an expression and cannot be edited. (Error 3327)
 
   
 

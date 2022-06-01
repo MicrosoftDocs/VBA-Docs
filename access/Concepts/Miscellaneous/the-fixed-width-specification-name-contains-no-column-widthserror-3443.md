@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The fixed-width specification <name> contains no column widths. (Error 3443)
+# The fixed-width specification \<name\> contains no column widths. (Error 3443)
 
   
 

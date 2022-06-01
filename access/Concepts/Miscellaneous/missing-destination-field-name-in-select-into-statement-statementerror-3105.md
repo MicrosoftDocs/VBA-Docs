@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Missing destination field name in SELECT INTO statement <statement>. (Error 3105)
+# Missing destination field name in SELECT INTO statement \<statement\>. (Error 3105)
 
   
 

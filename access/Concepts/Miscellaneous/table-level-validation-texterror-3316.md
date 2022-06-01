@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# <Table-level validation text>. (Error 3316)
+# \<Table-level validation text\>. (Error 3316)
 
   
 

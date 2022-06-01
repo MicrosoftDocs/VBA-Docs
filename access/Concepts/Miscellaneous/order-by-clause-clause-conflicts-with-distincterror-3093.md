@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# ORDER BY clause <clause> conflicts with DISTINCT. (Error 3093)
+# ORDER BY clause \<clause\> conflicts with DISTINCT. (Error 3093)
 
   
 

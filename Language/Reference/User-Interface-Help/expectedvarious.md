@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# Expected: <various>
+# Expected: \<various>
 
 An expected part of the syntax was not found. The error is usually located to the left of the selected item, but isn't always obvious. For example, you can invoke a **Sub** procedure with or without the **Call** keyword. However, if you use the **Call** keyword, you must enclose the argument list in parentheses. This error has the following causes and solutions:
 

@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Parameter <name> specified where a database name is required. (Error 3217)
+# Parameter \<name\> specified where a database name is required. (Error 3217)
 
   
 

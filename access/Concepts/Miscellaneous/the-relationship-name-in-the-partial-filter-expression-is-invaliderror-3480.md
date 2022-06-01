@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The relationship <name> in the partial filter expression is invalid. (Error 3480)
+# The relationship \<name\> in the partial filter expression is invalid. (Error 3480)
 
   
 

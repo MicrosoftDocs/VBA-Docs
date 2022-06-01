@@ -44,7 +44,7 @@ When this property is set to Raised or Sunken, gridlines will be visible on the 
 
 The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database (.mdb) by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
-|||
+|Properties|Properties Continued|
 |:-----|:-----|
 |**[DatasheetFontItalic](Access.Form.DatasheetFontItalic.md)** *|**[DatasheetForeColor](Access.Form.DatasheetForeColor.md)** *|
 |**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|

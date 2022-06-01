@@ -10,7 +10,7 @@ ms.localizationpriority: high
 ---
 
 
-# ODBC - connection to <name> failed. (Error 3151)
+# ODBC - connection to \<name\> failed. (Error 3151)
 
   
 

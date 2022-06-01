@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Undefined function <name> in expression. (Error 3085)
+# Undefined function \<name\> in expression. (Error 3085)
 
   
 

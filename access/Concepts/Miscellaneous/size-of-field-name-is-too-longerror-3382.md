@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Size of field <name> is too long. (Error 3382)
+# Size of field \<name\> is too long. (Error 3382)
 
   
 

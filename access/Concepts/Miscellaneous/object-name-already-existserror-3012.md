@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Object <name> already exists. (Error 3012)
+# Object \<name\> already exists. (Error 3012)
 
   
 

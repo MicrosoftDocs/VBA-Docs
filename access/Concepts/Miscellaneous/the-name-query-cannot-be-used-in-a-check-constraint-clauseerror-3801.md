@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The <name> query cannot be used in a CHECK constraint clause. (Error 3801)
+# The \<name\> query cannot be used in a CHECK constraint clause. (Error 3801)
 
   
 

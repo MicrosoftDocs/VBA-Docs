@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The ORDER BY expression <expression> includes fields that are not selected by the query. Only those fields requested in the first query can be included in an ORDER BY expression. (Error 3351)
+# The ORDER BY expression \<expression\> includes fields that are not selected by the query. Only those fields requested in the first query can be included in an ORDER BY expression. (Error 3351)
 
   
 

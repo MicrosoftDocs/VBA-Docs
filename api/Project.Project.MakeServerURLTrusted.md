@@ -31,7 +31,7 @@ If no Project Server URL is specified for the project, Project Professional disp
 
 ## Example
 
-The following sample adds the URL specified in **Collaboration Options** (**Collaborate** menu) to the list of trusted sites in Internet Explorer. Upon confirmation, Project switches to a **Resource Sheet** view and displays the displays the **Build Team for <Project Name>** dialog box when connected to Project Server .
+The following sample adds the URL specified in **Collaboration Options** (**Collaborate** menu) to the list of trusted sites in Internet Explorer. Upon confirmation, Project switches to a **Resource Sheet** view and displays the displays the **Build Team for \<Project Name>\** dialog box when connected to Project Server .
 
 
 ```vb

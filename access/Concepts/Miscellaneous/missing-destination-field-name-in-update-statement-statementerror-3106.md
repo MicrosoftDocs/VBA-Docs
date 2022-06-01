@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Missing destination field name in UPDATE statement <statement>. (Error 3106)
+# Missing destination field name in UPDATE statement \<statement\>. (Error 3106)
 
   
 

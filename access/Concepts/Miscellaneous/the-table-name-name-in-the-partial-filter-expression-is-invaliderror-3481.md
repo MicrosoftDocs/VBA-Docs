@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# The table name <name> in the partial filter expression is invalid. (Error 3481)
+# The table name \<name\> in the partial filter expression is invalid. (Error 3481)
 
   
 

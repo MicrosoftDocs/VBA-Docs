@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 
 
-# You attempted to open a database that is already opened exclusively by user <name> on machine <name>. Try again when the database is available. (Error 3356)
+# You attempted to open a database that is already opened exclusively by user \<name\> on machine \<name\>. Try again when the database is available. (Error 3356)
 
   
 
