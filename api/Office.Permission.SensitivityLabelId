@@ -1,0 +1,8 @@
+---
+title: Permission.SensitivityLabelId property (Office)
+description: Gets or sets the sensitivity label id included in user defined protection. Read/write.
+---
+
+# Permission.SensitivityLabelId property (Office)
+
+Gets or sets the sensitivity label id included in user defined protection. Read/write.
