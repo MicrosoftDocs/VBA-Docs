@@ -41,7 +41,7 @@ End Sub
 
 |Method|Description|
 |:-----|:----------|
-|[AddFolders](addfolders-method.md) | Adds a new **Folder** to a **Folders** collection.|
+|[Add](addfolders-method.md) | Adds a new **Folder** to a **Folders** collection.|
 |[Copy](copy-method-visual-basic-for-applications.md)|Copies a specified folder from one location to another. |
 |[CreateTextFile](createtextfile-method.md)|Creates a new text file in the specified folder and returns a TextStream object to access the file. |
 |[Delete](delete-method-visual-basic-for-applications.md)|Deletes a specified folder. |
