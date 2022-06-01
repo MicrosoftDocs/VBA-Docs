@@ -2,15 +2,13 @@
 title: Permission members (Office)
 ms.prod: office
 ms.assetid: 75614d24-cd47-ef9b-aba5-112206daa358
-ms.date: 01/30/2019
+ms.date: 06/01/2022
 ms.localizationpriority: medium
 ---
-
 
 # Permission members (Office)
 
 The **Permission** property of the **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **Permission** object.
-
 
 ## Methods
 
@@ -19,7 +17,6 @@ The **Permission** property of the **Document** object in Microsoft Word, a **Wo
 |[Add](../../Office.Permission.Add.md)|Creates a set of permissions on the active document for the specified user. Returns a **UserPermission** object.|
 |[ApplyPolicy](../../Office.Permission.ApplyPolicy.md)|Applies the specified permission policy to the active document.|
 |[RemoveAll](../../Office.Permission.RemoveAll.md)|Removes all **UserPermission** objects from the **Permission** collection of the active document.|
-
 
 ## Properties
 
@@ -37,6 +34,7 @@ The **Permission** property of the **Document** object in Microsoft Word, a **Wo
 |[PolicyDescription](../../Office.Permission.PolicyDescription.md)|Gets the description of the permissions policy applied to the active document. Read-only.|
 |[PolicyName](../../Office.Permission.PolicyName.md)|Gets the name of the permissions policy applied to the active document. Read-only.|
 |[RequestPermissionURL](../../Office.Permission.RequestPermissionURL.md)|Gets or sets the file or Web site URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.|
+|[SensitivityLabelID](../../Office.Permission.SensitifityLabelID.md)|Gets or sets the sensitivity label id included in user defined protection. Read/write.|
 |[StoreLicenses](../../Office.Permission.StoreLicenses.md)|Gets or sets a **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
