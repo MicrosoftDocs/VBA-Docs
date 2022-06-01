@@ -7,15 +7,13 @@ ms.prod: office
 api_name:
 - Office.Permission
 ms.assetid: 4bdf7058-d4ba-0bd4-c5cd-141d67245ced
-ms.date: 01/22/2019
+ms.date: 06/01/2022
 ms.localizationpriority: medium
 ---
-
 
 # Permission object (Office)
 
 The **Permission** property of the **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **Permission** object.
-
 
 ## Remarks
 
@@ -29,11 +27,9 @@ The **Permission** object model is available whether permissions are restricted 
 
 Use of the **Permission** object raises an error when the Windows Rights Management client is not installed.
 
-
 ## Example
 
 The following example returns information about the permissions settings on the active document.
-
 
 ```vb
 Dim irmPermission As Office.Permission 
@@ -63,12 +59,9 @@ Dim irmPermission As Office.Permission
  Set irmPermission = Nothing
 ```
 
-
 ## See also
 
 - [Permission object members](overview/library-reference/permission-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
