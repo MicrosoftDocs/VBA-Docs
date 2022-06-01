@@ -12,8 +12,6 @@ ms.localizationpriority: medium
 
 # Cannot load DLL \<name\>. (Error 3633)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
 The specified DLL is either not registered, or not in the path.
