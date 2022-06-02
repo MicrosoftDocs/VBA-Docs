@@ -36976,6 +36976,7 @@
 ###### [PolicyDescription](Office.Permission.PolicyDescription.md)
 ###### [PolicyName](Office.Permission.PolicyName.md)
 ###### [RequestPermissionURL](Office.Permission.RequestPermissionURL.md)
+###### [SensitivityLabelId](Office.Permission.SensitivityLabelId.md)
 ###### [StoreLicenses](Office.Permission.StoreLicenses.md)
 ##### Methods
 ###### [Add](Office.Permission.Add.md)
