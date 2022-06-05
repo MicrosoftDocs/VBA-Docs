@@ -48,7 +48,7 @@ This example adds a text box that contains the text "Test Box" to _myDocument_.
 
 ```vb
 Set myDocument = ActivePresentation.Slides(1) 
-myDocument.Shapes.AddTextbox(Type:=msoTextOrientationHorizontal, _ 
+myDocument.Shapes.AddTextbox(Orientation:=msoTextOrientationHorizontal, _ 
     Left:=100, Top:=100, Width:=200, Height:=50).TextFrame _ 
     .TextRange.Text = "Test Box"
 ```
