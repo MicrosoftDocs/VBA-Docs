@@ -18,15 +18,15 @@ Properties and methods that are available only in Asian or right-to-left languag
 
 |Property or method|Object|
 |:-----|:-----|
-|[AsianLineBreak](/office/vba/api/Access.TextBox.AsianLineBreak.md)|TextBox|
-|[FuriganaControl](/office/vba/api/Access.TextBox.FuriganaControl.md)|TextBox|
+|[AsianLineBreak](/office/vba/api/Access.TextBox.AsianLineBreak)|TextBox|
+|[FuriganaControl](/office/vba/api/Access.TextBox.FuriganaControl)|TextBox|
 |IMEHold|ComboBox, ListBox, TextBox|
 |IMEMode|ComboBox, Label, ListBox, TextBox|
 |IMESentenceMode|ComboBox, Label, ListBox, TextBox|
 |KeyboardLanguage|ComboBox, TextBox|
 |NumeralShapes|ComboBox, Label, ListBox, TextBox|
-|[Orientation](/office/vba/api/Access.Form.Orientation.md)|Form|
-|[PostalAddress](/office/vba/api/Access.TextBox.PostalAddress.md)|TextBox|
+|[Orientation](/office/vba/api/Access.Form.Orientation)|Form|
+|[PostalAddress](/office/vba/api/Access.TextBox.PostalAddress)|TextBox|
 |ReadingOrder|CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton|
 |ScrollBarAlign|ComboBox, ListBox, TextBox|
 

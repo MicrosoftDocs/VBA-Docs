@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|The name of the new Access project, including the path name and the file name extension.|
-| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO **[ConnectionString](/office/client-developer/access/desktop-database-reference/connectionstring-property-ado.md)** property for details about this string.|
+| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO **[ConnectionString](/office/client-developer/access/desktop-database-reference/connectionstring-property-ado)** property for details about this string.|
 
 ## Return value
 
