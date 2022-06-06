@@ -34,6 +34,6 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 ## Remarks
 
-**WorksheetFunction.Asc()** is not equivalent to **[Asc()](/office/vba/Language/Reference/user-interface-help/asc-function.md)**, which converts a string to an integer.
+**WorksheetFunction.Asc()** is not equivalent to **[Asc()](/office/vba/Language/Reference/user-interface-help/asc-function)**, which converts a string to an integer.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
