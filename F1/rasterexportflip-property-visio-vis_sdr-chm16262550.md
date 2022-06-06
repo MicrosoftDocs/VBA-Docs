@@ -16,6 +16,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportFlip Property (Visio)](https://msdn.microsoft.com/library/7d81d032-86d6-152c-d067-78f4cfdb91a5.aspx)
 
-[ApplicationSettings.RasterExportFlip Property (Visio)](https://msdn.microsoft.com/library/1aa94fd4-7d2e-a2db-3291-c86ac4e22573%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

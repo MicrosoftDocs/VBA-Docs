@@ -16,6 +16,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.RowType Property (Visio)](https://msdn.microsoft.com/library/a814cc7a-c43c-20ce-ac8f-8ecf7537ffa0.aspx)
 
-[Shape.RowType Property (Visio)](https://msdn.microsoft.com/library/416b77f1-6cec-de5b-c2b8-c6e5b239c54c%28Office.15%29.aspx)
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

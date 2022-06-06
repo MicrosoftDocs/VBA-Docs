@@ -28,7 +28,7 @@ In a DASL query, if the name of a custom property contains spaces, you must appl
 
 When you construct a DASL query for a custom property, you must use the namespace GUID for Outlook custom properties in the following format: 
 
- **https://schemas.microsoft.com/mapi/string/{GUID}/PropertyName**
+ **`https://schemas.microsoft.com/mapi/string/{GUID}/PropertyName`**
 
 where **{GUID}** is the following GUID:
 

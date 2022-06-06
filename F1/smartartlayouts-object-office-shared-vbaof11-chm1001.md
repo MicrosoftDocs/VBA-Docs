@@ -116,7 +116,7 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandBars.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.CommandBars.Application)
 
-[FileDialog.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.FileDialog.Applicationx)
+[FileDialog.Application Property (Office)](/office/vba/api/Office.FileDialog.Applicationx)
 
 [SmartDocument.Application Property (Office)](https://docs.microsoft.com/office/vba/api/Office.SmartDocument.Application)
 
