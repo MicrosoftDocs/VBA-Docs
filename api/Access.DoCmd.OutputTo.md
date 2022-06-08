@@ -46,7 +46,7 @@ Modules can be output only in MS-DOS Text format, so if you specify **acOutputMo
 The Access data is output in the selected format and can be read by any application that uses the same format. For example, you can output an Access report with its formatting to a rich-text format document and then open the document in Microsoft Word.
 
 > [!NOTE] 
-> You can save as a PDF or XPS file from a 2007 Microsoft Office system program only after you install an add-in. For more information, see [2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS](https://www.microsoft.com/download/details.aspx?id=7).
+> You can save as a PDF or XPS file from a 2007 Microsoft Office system program only after you install an add-in. For more information, see 2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS.
 
 
 ## Example

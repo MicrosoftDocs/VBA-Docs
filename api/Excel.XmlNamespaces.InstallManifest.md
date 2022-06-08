@@ -33,7 +33,7 @@ _expression_ A variable that represents an **[XmlNamespaces](Excel.XmlNamespaces
 
 ## Remarks
 
-For security purposes, you cannot install an unsigned manifest. For more information about manifests, see the [Smart Document Software Development Kit (SDK)](https://www.microsoft.com/download/details.aspx?id=3929).
+For security purposes, you cannot install an unsigned manifest. For more information about manifests, see the Smart Document Software Development Kit (SDK)).
 
 
 ## Example
