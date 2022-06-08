@@ -15,7 +15,7 @@ This index is a cross-reference to the ADO Language Reference based on Microsoft
 
 This particular index was derived by compiling a program with the **#import** directive against the ADO .dll, and then reformatting the *.tlh file that was generated. Only information about methods, properties, and events was preserved. The alternative syntax declared for each property is listed by the corresponding "" directive.
 
-We recommend that you read [Visual C++ ADO Programming](/office/client-developer/access/desktop-database-reference/visual-c-ado-programming.md) for more information.
+We recommend that you read [Visual C++ ADO Programming](/office/client-developer/access/desktop-database-reference/visual-c-ado-programming) for more information.
 
 Method and property syntax in Visual C++ with the **#import** directive is listed for the following elements:
 

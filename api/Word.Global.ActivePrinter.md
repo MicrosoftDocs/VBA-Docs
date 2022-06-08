@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 ## Remarks
 
-Setting the printer using the **ActivePrinter** property changes the default printer. For more information, see [Setting ActivePrinter Changes System Default Printer](https://go.microsoft.com/fwlink/?LinkId=61996).
+Setting the printer using the **ActivePrinter** property changes the default printer. For more information, see [Setting ActivePrinter Changes System Default Printer](https://support.microsoft.com/topic/activeprinter-property-in-word-sets-system-default-printer-4b4afb8f-cbc1-1187-14cc-a97fdd0f596e).
 
 
 ## Example

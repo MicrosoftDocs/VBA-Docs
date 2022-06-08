@@ -16,6 +16,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportColorReduction Property (Visio)](https://msdn.microsoft.com/library/f3d891e2-034b-5232-29a7-3f5f4e67198e.aspx)
 
-[ApplicationSettings.RasterExportColorReduction Property (Visio)](https://msdn.microsoft.com/library/7897f3aa-d7d1-4dcc-d4f1-9c38771c0122%28Office.15%29.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

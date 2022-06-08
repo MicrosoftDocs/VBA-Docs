@@ -62,7 +62,7 @@ The following rules apply when you use the SendObject action to include a databa
 Modules can be sent only in MS-DOS Text format, so if you specify **acSendModule** for the _ObjectType_ argument, you must specify **acFormatTXT** for the _OutputFormat_ argument.
 
 > [!NOTE]
-> You can save as a PDF or XPS file from a 2007 Microsoft Office system program only after you install an add-in. For more information, see [2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS](https://www.microsoft.com/download/details.aspx?id=7).
+> You can save as a PDF or XPS file from a 2007 Microsoft Office system program only after you install an add-in. For more information, see 2007 Microsoft Office Add-in: Microsoft Save as PDF or XPS.
  
 
 ## Example

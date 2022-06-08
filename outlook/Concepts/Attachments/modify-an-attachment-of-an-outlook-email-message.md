@@ -18,7 +18,7 @@ For example, imagine that your application requires converting the text in all a
 
 The sample code in this topic demonstrates how to solve this particular problem, using the **GetProperty(String)** and **SetProperty(String, Object)** methods of the **Attachment** interface. In each case, you supply a value that contains the MAPI property [PidTagAttachDataBinary](../../../api/overview/Outlook.md) to obtain (and then set) the contents of the attachment.
 
- **Note** The namespace representation of the **PidTagAttachDataBinary** property is https://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](../../How-to/Navigation/referencing-properties-by-namespace.md).
+ **Note** The namespace representation of the **PidTagAttachDataBinary** property is `https://schemas.microsoft.com/mapi/proptag/0x37010102`. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](../../How-to/Navigation/referencing-properties-by-namespace.md).
 
 The sample code handles the **ItemSend** event of a mail item. In the custom event handler, for any attachment that has a .txt extension, the code calls the `ConvertAttachmentToUpperCase` method. `ConvertAttachmentToUpperCase` takes an **Attachment** object and a **MailItem** object as input arguments, retrieves a byte array that is filled with the contents of the attachment, converts the byte array to a string, converts the string to uppercase, and then sets the contents of the attachment to the converted string as a byte array.
 
@@ -28,7 +28,7 @@ You should use the following code samples in the `ThisAddIn` class of an Outlook
 
 The following code shows how to programmatically modify an Outlook email attachment without changing the original file. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named `ModifyAttachmentAddIn`. Replace the code in ThisAddIn.cs or ThisAddIn.vb with the following code.
 
-**Note** To access the attachment data, the mail item must be saved using the [MailItem.Save](https://github.com/OfficeDev/VBA-content/edit/main/VBA/Outlook-VBA/articles/7d7b5f22-4749-e908-41a7-12a4c730c695.md) method.
+**Note** To access the attachment data, the mail item must be saved using the [MailItem.Save](/office/vba/api/outlook.mailitem.save) method.
 
 ```cs
 using Outlook = Microsoft.Office.Interop.Outlook;
