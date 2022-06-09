@@ -33,7 +33,7 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 ## Messaging Application Programming Interface (MAPI) namespaces
 
-Many properties that Outlook supports are MAPI properties. The **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object supports three subnamespaces of the MAPI namespace: proptag, id, and string. Each of the following sections contains a description for the subnamespace, a description for the format to reference a property in that subnamespace, and a definition of the syntax as expressed in Augmented Backus-Naur Form (ABNF), that is specified in [[RFC4234]](https://ietfreport.isoc.org/idref/rfc4234/).
+Many properties that Outlook supports are MAPI properties. The **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object supports three subnamespaces of the MAPI namespace: proptag, id, and string. Each of the following sections contains a description for the subnamespace, a description for the format to reference a property in that subnamespace, and a definition of the syntax as expressed in Augmented Backus-Naur Form (ABNF), that is specified in [[RFC4234]](https://datatracker.ietf.org/doc/html/rfc4234).
 
 
 ### proptag namespace
