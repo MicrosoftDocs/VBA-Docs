@@ -2665,7 +2665,7 @@
             "redirect_url": "/office/vba/api/Visio.VisWebPageSettings"
           },
           {
-            "source_path": "office/vba/api/Access.Application.CompactRepair",
+            "source_path": "office/vba/api/Access.Application.CompactRepair.md",
             "redirect_url": "/office/vba/api/access.application"
           }       
     ]
