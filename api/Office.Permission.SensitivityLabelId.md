@@ -8,7 +8,7 @@ ms.prod: office
 api_name:
 - Office.Permission.RequestPermissionURL
 ms.assetid: 7d37d706-a7bf-9cb0-8930-299bd2bf37b0
-ms.date: 06/01/2022
+ms.date: 06/10/2022
 ms.localizationpriority: medium
 ---
 
@@ -24,7 +24,7 @@ _expression_ A variable that represents a **[Permission](Office.Permission.md)**
 
 ## Remarks
 
-The **SensitivityLabelId** setting corresponds to the sensitivity label id stored in the license. This property corresponds to the sensitivity label id. Use the **SensitivityLabelId** property to specify the sensitivity label applied to any user defined permissions. Note that accessing the **SensitivityLabelId** property fails with CRYPT_E_ATTRIBUTES_MISSING if the license does not contain a sensitivity label id. If the license was created from specific permission policy xml (refer to **PermissionFromPolicy**), setting the **SensitivityLabelId** fails with CERTSRV_E_TEMPLATE_DENIED.
+The **SensitivityLabelId** setting gets or sets the sensitivity label id included in user defined protection from Microsoft Purview Information Protection. Use the **SensitivityLabelId** property to specify the sensitivity label applied to any user defined permissions. Note that accessing the **SensitivityLabelId** property fails with CRYPT_E_ATTRIBUTES_MISSING if the license does not contain a sensitivity label id. If the license was created from specific permission policy xml (refer to **PermissionFromPolicy**), setting the **SensitivityLabelId** fails with CERTSRV_E_TEMPLATE_DENIED.
 
 ## Example
 
