@@ -1,3 +1,13 @@
+---
+title: How-to (Visio)
+keywords:
+f1_keywords:
+ms.prod: visio
+ms.assetid: 
+ms.date: 06/17/2022
+localization_priority: Normal
+---
+
 # How-to (Visio)
 
 This navigation page contains links to overview step-by-step instructions for developing custom Visio solutions. Select a link or use the TOC to navigate to the following topics:
