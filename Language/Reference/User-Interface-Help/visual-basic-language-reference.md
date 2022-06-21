@@ -14,21 +14,21 @@ Provides documentation about Visual Basic the language: all its methods, propert
 
 - [Character sets](../character-sets.md)
 - [Constants](../constants-visual-basic-for-applications.md)
-- [Data types](../data-types.md)
+- [Data types](./data-type-summary.md)
 - [Directives](../directives.md)
 - [Events](../events-visual-basic-for-applications.md)
 - [Functions](../functions-visual-basic-for-applications.md)
 - [Keywords](keywords-by-task.md)
 - [Microsoft Forms](reference-microsoft-forms.md)
 - [Objects](../objects-visual-basic-for-applications.md)
-- [Operators](../operators.md)
+- [Operators](./operator-summary.md)
 - [Statements](../statements.md)
-- [Visual Basic Add-in Model](visual-basic-add-in-model-reference.md)
+- [Visual Basic Add-in Model](./visual-basic-add-in-model-reference.md)
 
 ## See also
 
 - [Methods and Properties (now under Objects)](../objects-visual-basic-for-applications.md)
-- [Object Browser](../object-browser-visual-basic-for-applications.md)
+- [Object Browser](./object-browser.md)
 - [Visual Basic user interface help](./visual-basic-user-interface-help.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 - [Office client development reference](/office/client-developer/office-client-development)
