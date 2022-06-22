@@ -19,16 +19,16 @@ Use the table of contents in the left navigation to view the topics in this sect
 
 ### Graphical representation of Visio object model
  Please refer to the following links for more information on other notable Visio objects.    
-**[Global](https://docs.microsoft.com/en-us/office/vba/api/visio.global "Global collection (Visio)")** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ThisDocument](https://docs.microsoft.com/en-us/office/vba/api/visio.thisdocument "ThisDocumentobject (Visio)")    
-├┉┉ [ActiveDocument](https://docs.microsoft.com/en-us/office/vba/api/visio.activedocument "ActiveDocument object (Visio)")    
-├┉┉ [ActivePage](https://docs.microsoft.com/en-us/office/vba/api/visio.ActivePage "ActivePage object (Visio)")    
-├┉┉ [ActiveWindow](https://docs.microsoft.com/en-us/office/vba/api/visio.activewindow "ActiveWindow object (Visio)")    
+**[Global](https://docs.microsoft.com/en-us/office/vba/api/visio.global "Global collection (Visio)")** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ThisDocument](https://docs.microsoft.com/en-us/office/vba/visio/Concepts/about-the-thisdocument-object-visio "ThisDocumentobject (Visio)")    
+├┉┉ [ActiveDocument](https://docs.microsoft.com/en-us/office/vba/api/visio.application.activedocument "ActiveDocument object (Visio)")    
+├┉┉ [ActivePage](https://docs.microsoft.com/en-us/office/vba/api/visio.global.activepage "ActivePage object (Visio)")    
+├┉┉ [ActiveWindow](https://docs.microsoft.com/en-us/office/vba/api/visio.global.activewindow "ActiveWindow object (Visio)")    
 ├┉┉ [Application](https://docs.microsoft.com/en-us/office/vba/api/visio.application "Application object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ [ApplicationSettings](https://docs.microsoft.com/en-us/office/vba/api/visio.applicationsettings "ApplicationSettings object (Visio)")    
 ├┉┉├ [VBE](https://docs.microsoft.com/en-us/office/vba/api/visio.application.vbe "VBE object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ [CommandBars](https://docs.microsoft.com/en-us/office/vba/api/office.commandbars "CommandBars object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ [COMAddIns](https://docs.microsoft.com/en-us/office/vba/api/visio.application.comaddins "COMAddIns collection (Visio)")    
-├┉┉├ **[Documents](https://docs.microsoft.com/en-us/office/vba/api/visio.documents "Documents collection (Visio)")**    
+├┉┉├ **[Documents](https://docs.microsoft.com/en-us/office/vba/api/visio.global.documents "Documents collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│└ [Document](https://docs.microsoft.com/en-us/office/vba/api/visio.document "Document object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├ **[Pages](https://docs.microsoft.com/en-us/office/vba/api/visio.pages "Pages collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp; │└ [Page](https://docs.microsoft.com/en-us/office/vba/api/visio.page "Page object (Visio)")    
@@ -64,13 +64,13 @@ Use the table of contents in the left navigation to view the topics in this sect
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├ **[Styles](https://docs.microsoft.com/en-us/office/vba/api/visio.styles "Styles collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp; │ └ [Style](https://docs.microsoft.com/en-us/office/vba/api/visio.style "Style object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└ [VBProject](https://docs.microsoft.com/en-us/office/vba/api/visio.vbproject "VBProject object (Visio)")    
-├┉┉├ **[Windows](https://docs.microsoft.com/en-us/office/vba/api/visio.windows "Windows collection (Visio)")**    
+├┉┉├ **[Windows](https://docs.microsoft.com/en-us/office/vba/api/visio.global.windows "Windows collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│└ [Window](https://docs.microsoft.com/en-us/office/vba/api/visio.window "Window object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;  ├ [Selection](https://docs.microsoft.com/en-us/office/vba/api/visio.selection "Selection object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;  ├ [Document](https://docs.microsoft.com/en-us/office/vba/api/visio.document "Document object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;  ├ [Master](https://docs.microsoft.com/en-us/office/vba/api/visio.master "Master object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;  └ [Page](https://docs.microsoft.com/en-us/office/vba/api/visio.page "Page object (Visio)")    
-└┉┉├ **[Addons](https://docs.microsoft.com/en-us/office/vba/api/visio.addons "Addons collection (Visio)")**    
+└┉┉├ **[Addons](https://docs.microsoft.com/en-us/office/vba/api/visio.global.addons "Addons collection (Visio)")**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│└ [Addon](https://docs.microsoft.com/en-us/office/vba/api/visio.document "Document object (Visio)")    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├ **[EventList](https://docs.microsoft.com/en-us/office/vba/api/visio.eventlist "EventList collection (Visio)")**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │└ [Event](https://docs.microsoft.com/en-us/office/vba/api/visio.event "Event object (Visio)")    
