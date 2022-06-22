@@ -15,7 +15,7 @@ This section of the Visio VBA Reference contains documentation for all the objec
 Use the table of contents in the left navigation to view the topics in this section.
 
 > [!NOTE] 
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins).
+> Interested in developing solutions that extend the Office experience across [multiple platforms](../../../../dev/add-ins/overview/office-add-in-availability.md)? Check out the new [Office Add-ins model](../../../../dev/add-ins/overview/office-add-ins.md).
 
 ### Graphical representation of Visio object model
  Please refer to the following links for more information on other notable Visio objects.    
@@ -63,7 +63,7 @@ Use the table of contents in the left navigation to view the topics in this sect
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp; │ └ [OLEObject](../../../api/visio.oleobject.md "OLEObject object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├ **[Styles](../../../api/visio.styles.md "Styles collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp; │ └ [Style](../../../api/visio.style.md "Style object (Visio)")    
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└ [VBProject](../../../api/visio.vbproject.md "VBProject object (Visio)")    
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└ [VBProject](../../../api/visio.document.vbproject.md "VBProject object (Visio)")    
 ├┉┉├ **[Windows](../../../api/visio.global.windows.md "Windows collection (Visio)")**    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│└ [Window](../../../api/visio.window.md "Window object (Visio)")    
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;  ├ [Selection](../../../api/visio.selection.md "Selection object (Visio)")    
@@ -84,7 +84,7 @@ Use the table of contents in the left navigation to view the topics in this sect
 
 ## See also
 
-- [Visio enumerations](../../../api/visio(enumerations).md)
+- [Visio enumerations](../../visio(enumerations).md)
 - [Getting started with VBA in Office](../../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
 - [What's new for VBA in Office 2019](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2019.md): Lists the new VBA language elements for Office 2019.
 - [What's new for VBA in Office 2016](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
