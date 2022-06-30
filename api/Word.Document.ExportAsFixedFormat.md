@@ -37,7 +37,7 @@ _expression_ An expression that returns a **[Document](Word.Document.md)** objec
 | _To_|Optional| **Long**|Specifies the ending page number, if the _Range_ parameter is set to **wdExportFromTo**.|
 | _Item_|Optional| **[WdExportItem](Word.WdExportItem.md)**|Specifies whether the export process includes text only or includes text with markup.|
 | _IncludeDocProps_|Optional| **Boolean**|Specifies whether to include document properties in the newly exported file.|
-| _KeepIRM_|Optional| **Boolean**|Specifies whether to copy IRM permissions to an XPS document if the source document has IRM protections.</br>If _ExportFormat_ is _wdExportFormatPDF_, this flag also specifies whether to copy labels to the PDF.</br>Default value is **True**.|
+| _KeepIRM_|Optional| **Boolean**|Specifies whether to copy IRM permissions to an XPS document if the source document has IRM protections.</br></br>If _ExportFormat_ is _wdExportFormatPDF_, this flag also specifies whether to copy labels to the PDF.</br></br>Default value is **True**.|
 | _CreateBookmarks_|Optional| **[WdExportCreateBookmarks](Word.WdExportCreateBookmarks.md)**|Specifies whether to export bookmarks and the type of bookmarks to export.|
 | _DocStructureTags_|Optional| **Boolean**|Specifies whether to include extra data to help screen readers, for example information about the flow and logical organization of the content. Default value is **True**.|
 | _BitmapMissingFonts_|Optional| **Boolean**|Specifies whether to include a bitmap of the text. Set this parameter to **True** when font licenses don't permit a font to be embedded in the PDF file. If **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available. Default value is **True**.|
