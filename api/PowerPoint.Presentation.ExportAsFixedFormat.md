@@ -120,8 +120,6 @@ The _RangeType_ parameter value can be one of these **PpPrintRangeType** constan
 
 Set _BitmapMissingFonts_ to **True** when font licensing does not permit you to embed a font in the PDF file. If you set this parameter to **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available.
 
-## Remarks
-
 The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support).
 
 Due to the interaction of 3rd party add-ins creating PDFs in Office with encryption, Office will default the _KeepIRMSettings_ flag to false until second RMID releases. 
@@ -137,8 +135,5 @@ Public Sub ExportAsFixedFormat_Example()
  
 End Sub
 ```
-
-
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
