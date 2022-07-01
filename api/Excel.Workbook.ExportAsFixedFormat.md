@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ExportAsFixedFormat
 ms.assetid: 4d72247c-bab9-3475-4792-8899c959393c
-ms.date: 05/29/2019
+ms.date: 06/30/2022
 ms.localizationpriority: medium
 ---
 
@@ -45,7 +45,9 @@ The following example creates the PDF at standard quality in the current file's 
 ```vb
 ActiveWorkbook.ExportAsFixedFormat Type:=xlTypePDF FileName:="sales.pdf" Quality:=xlQualityStandard OpenAfterPublish:=True 
 ```
+Remarks 
 
+Until second RMID, Office will default to creating unprotected PDFs (when _Type_ is _xlTypePDF_). After that time, Office will default to creating protected PDFs. For more information see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support).
 
 
 
