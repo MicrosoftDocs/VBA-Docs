@@ -7,22 +7,19 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.ExportAsFixedFormat
 ms.assetid: bad3c9cb-49d7-2fdd-5110-9c1ed6491b08
-ms.date: 02/21/2019
+ms.date: 06/30/2022
 ms.localizationpriority: medium
 ---
-
 
 # Presentation.ExportAsFixedFormat method (PowerPoint)
 
 Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed format, either PDF or XPS.
-
 
 ## Syntax
 
 _expression_.**ExportAsFixedFormat** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005\_1_, _ExternalExporter_)
 
 _expression_ An expression that returns a **[Presentation](PowerPoint.Presentation.md)** object.
-
 
 ## Parameters
 
@@ -39,7 +36,7 @@ _expression_ An expression that returns a **[Presentation](PowerPoint.Presentati
 | _RangeType_|Optional|**PpPrintRangeType**|The type of slide range.|
 | _SlideShowName_|Optional|**String**|The name of the slide show.|
 | _IncludeDocProperties_|Optional|**Boolean**|Whether the document properties should also be exported. The default is **False**.|
-| _KeepIRMSettings_|Optional|**Boolean**|Whether the IRM settings should also be exported. The default is **True**.|
+| _KeepIRMSettings_|Optional|**Boolean**|Whether the IRM settings should also be exported.</br></br>If _FixedFormatType_ is _PpFixedFormatTypePDF_, this flag determines if labels and IRM settings should be exported.</br></br>The default is **True**.|
 | _DocStructureTags_|Optional|**Boolean**|Whether to include document structure tags to improve document accessibility. The default is **True**.|
 | _BitmapMissingFonts_|Optional|**Boolean**|Whether to include a bitmap of the text. The default is **True**.|
 | _UseISO19005\_1_ |Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
