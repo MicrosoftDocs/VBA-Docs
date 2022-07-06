@@ -89,9 +89,9 @@ Public Sub PrintAdresses()
    Debug.Print exampleRange.Rows.Item(10).Address      'Prints "$B$11:$D$11"
   
    Debug.Print exampleRange.Columns.Item(1).Address    'Prints "$B$2:$B$4"
-   Debug.Print exampleRange.Columns.Item(10).Address   'Prints "$K$1:$K$4"
-   Debug.Print exampleRange.Columns.Item("A").Address  'Prints "$B$1:$B$4"
-   Debug.Print exampleRange.Columns.Item("J").Address  'Prints "$K$1:$K$4"
+   Debug.Print exampleRange.Columns.Item(10).Address   'Prints "$K$2:$K$4"
+   Debug.Print exampleRange.Columns.Item("A").Address  'Prints "$B$2:$B$4"
+   Debug.Print exampleRange.Columns.Item("J").Address  'Prints "$K$2:$K$4"
 End Sub
 ```
 
