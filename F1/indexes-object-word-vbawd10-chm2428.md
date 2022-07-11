@@ -14,6 +14,6 @@ ms.localizationpriority: medium
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Indexes object (Word)](https://docs.microsoft.com/office/vba/api/Word.indexes)
+[Indexes object (Word)](/office/vba/api/Word.indexes)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

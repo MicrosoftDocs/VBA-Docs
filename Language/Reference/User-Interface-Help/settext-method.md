@@ -47,8 +47,8 @@ If no format is specified, the **SetText** method assigns the Text format to the
 
 ## See also
 
-- [Standard Clipboard formats](https://docs.microsoft.com/windows/desktop/dataxchg/standard-clipboard-formats)
-- [Registered Clipboard formats](https://docs.microsoft.com/windows/desktop/dataxchg/clipboard-formats)
+- [Standard Clipboard formats](/windows/desktop/dataxchg/standard-clipboard-formats)
+- [Registered Clipboard formats](/windows/desktop/dataxchg/clipboard-formats)
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
