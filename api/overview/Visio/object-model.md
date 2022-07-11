@@ -15,11 +15,11 @@ This section of the Visio VBA Reference contains documentation for all the objec
 Use the table of contents in the left navigation to view the topics in this section.
 
 > [!NOTE] 
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins).
+> Interested in developing solutions that extend the Office experience across [multiple platforms](/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](/office/dev/add-ins/overview/office-add-ins).
 
 ## See also
 
-- [Visio enumerations](https://docs.microsoft.com/office/vba/api/visio(enumerations))
+- [Visio enumerations](/office/vba/api/visio(enumerations))
 - [Getting started with VBA in Office](../../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
 - [What's new for VBA in Office 2019](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2019.md): Lists the new VBA language elements for Office 2019.
 - [What's new for VBA in Office 2016](../../../Library-Reference/Concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
