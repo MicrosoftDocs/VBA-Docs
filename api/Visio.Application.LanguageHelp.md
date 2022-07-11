@@ -33,6 +33,6 @@ Long
 
 The **LanguageHelp** property returns the language ID of the Help recorded in the object's VERSIONINFO resource. The IDs returned are the standard IDs used by Windows to encode different language versions. For example, the **LanguageHelp** property returns &H0409 for the U.S. English version of Visio. 
 
-For more information, see [Version information](https://docs.microsoft.com/windows/desktop/menurc/version-information).
+For more information, see [Version information](/windows/desktop/menurc/version-information).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
