@@ -46,19 +46,19 @@ Number can be an integer, fractional, or negative.
     
 A complex number raised to a power is calculated as follows:
 
-> ![Formula](../images/awfimpw1_ZA06051164.gif) 
+> ![Screenshot that shows the complex number formula.](../images/awfimpw1_ZA06051164.gif) 
 
 where: 
 
-> ![Formula](../images/awfimpw2_ZA06051165.gif)
+> ![Second screenshot that shows the complex number formula.](../images/awfimpw2_ZA06051165.gif)
 
 and: 
 
-> ![Formula](../images/awfimpw3_ZA06051166.gif)
+> ![Third screenshot that shows the complex number formula.](../images/awfimpw3_ZA06051166.gif)
 
 and: 
 
-> ![Formula](../images/awfimar3_ZA06051155.gif)
+> ![Fourth screenshot that shows the complex number formula.](../images/awfimar3_ZA06051155.gif)
 
 
     

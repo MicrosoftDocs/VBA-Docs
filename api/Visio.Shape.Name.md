@@ -41,7 +41,7 @@ A cell has both a local name and a universal name. The local name differs depend
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Name** property to get or set a **Hyperlink**, **Layer**, **Master**, **MasterShortcut**, **Page**, **Shape**, **Style**, or **Row** object's local name. Use the **NameU** property to get or set its universal name.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVShape.Name**

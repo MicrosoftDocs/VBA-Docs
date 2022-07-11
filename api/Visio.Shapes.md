@@ -25,7 +25,7 @@ The default property of a **Shapes** collection is **Item**.
 
 The order of items in a **Shapes** collection corresponds to the stacking (drawing) order of the shapes.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this collection maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVShapes**
     
