@@ -32,6 +32,6 @@ Provides dialog user interface functionality for picking people or picking data.
 
 ## See also
 
-- [PickerDialog interface](f/dotnet/api/microsoft.office.core.pickerdialog)
+- [PickerDialog interface](/dotnet/api/microsoft.office.core.pickerdialog)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
