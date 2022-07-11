@@ -23,7 +23,7 @@ To retrieve a **Documents** collection, use the **[Documents](visio.application.
 
 The default property of a **Documents** collection is **Item**.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this collection maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVDocuments.GetEnumerator()** (to enumerate the **Document** objects)   
 - **Microsoft.Office.Interop.Visio.IVDocuments** (to access the collection)
