@@ -38,7 +38,7 @@ The **PickSolution** method does not return a value to indicate whether the user
 
 If the smart document developer has failed to specify "targetApplication" in the XML expansion pack manifest file, the list displayed by **PickSolution** may include XML expansion packs that are not targeted to the active application; for example, an Excel user may see XML expansion packs targeted exclusively to Word. In these circumstances, the user may select an XML expansion pack that is not appropriate for the active application.
 
-For more information about smart documents or XML expansion packs for smart documents, see the [Smart Document Software Development Kit (SDK)](https://docs.microsoft.com/previous-versions/office/developer/office-2003/aa193924(v%3doffice.11)).
+For more information about smart documents or XML expansion packs for smart documents, see the [Smart Document Software Development Kit (SDK)](/previous-versions/office/developer/office-2003/aa193924(v%3doffice.11)).
 
 
 ## Example
