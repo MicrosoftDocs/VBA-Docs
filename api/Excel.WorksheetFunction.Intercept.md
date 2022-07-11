@@ -48,11 +48,11 @@ If known_y's and known_x's contain a different number of data points or contain 
     
 The equation for the intercept of the regression line, a, is:
 
-> ![Formula](../images/awfintc1_ZA06051174.gif)
+> ![Screenshot that shows the formula A equals Y minus BX. A line is over the Y and the X.](../images/awfintc1_ZA06051174.gif)
 
 where the slope, b, is calculated as: 
 
-> ![Formula](../images/awfintc2_ZA06051175.gif)
+> ![Screenshot that shows the slope formula.](../images/awfintc2_ZA06051175.gif)
 
 and where x and y are the sample means AVERAGE(known_x's) and AVERAGE(known_y's). 
     
