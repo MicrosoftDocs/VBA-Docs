@@ -48,7 +48,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 ## Remarks
 
 >[!NOTE]
-> In [previous versions](https://docs.microsoft.com/previous-versions/visualstudio/visual-studio-2010/s1cay0kc(v=vs.100)#remarks), if you apply this method with the **UserInterfaceOnly** argument set to **True** and then save the workbook, the entire worksheet (not just the interface) will be fully protected when you reopen the workbook. To re-enable the user interface protection after the workbook is opened, you must again apply this method with **UserInterfaceOnly** set to **True**.
+> In [previous versions](/previous-versions/visualstudio/visual-studio-2010/s1cay0kc(v=vs.100)#remarks), if you apply this method with the **UserInterfaceOnly** argument set to **True** and then save the workbook, the entire worksheet (not just the interface) will be fully protected when you reopen the workbook. To re-enable the user interface protection after the workbook is opened, you must again apply this method with **UserInterfaceOnly** set to **True**.
 
 If you want to make changes to a protected worksheet, it is possible to use the **Protect** method on a protected worksheet if the password is supplied. Also, another method would be to unprotect the worksheet, make the necessary changes, and then protect the worksheet again.
 

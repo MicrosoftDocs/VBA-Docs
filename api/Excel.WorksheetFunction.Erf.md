@@ -50,9 +50,9 @@ If upper_limit is nonnumeric, **Erf** returns the #VALUE! error value.
     
 If upper_limit is negative, **Erf** returns the #NUM! error value.
 
-![Formula](../images/awferf1_ZA06051136.gif)
+![Screenshot showing the erf method where the error function is the integral of the lower and upper limits.](../images/awferf1_ZA06051136.gif)
 
-![Formula](../images/awferf2_ZA06051137.gif)
+![Second screenshot showing the erf method where the error function is the integral of the lower and upper limits.](../images/awferf2_ZA06051137.gif)
 
 
 

@@ -25,7 +25,7 @@ Use the **[Entities](Access.WebService.Entities.md)** property to return the ent
 
 Use the **Item** property to return an **[Entity](Access.Entity.md)** object.
 
-For more information about external content types, see [What Are External Content Types](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2010/ee556391(v=office.14)).
+For more information about external content types, see [What Are External Content Types](/previous-versions/office/developer/sharepoint-2010/ee556391(v=office.14)).
 
 
 ## Properties

@@ -25,7 +25,7 @@ Use the **[Operations](Access.Operations.md)** property to return the operations
 
 A Data Service data connection may contain one or more entities. Each entity specifies an external content type. Used throughout the functionality and services offered by Business Connectivity Services, external content types are reusable metadata descriptions of connectivity information and data definitions plus the behaviors that you want to apply to a certain category of external data. 
 
-For more information about external content types, see [What Are External Content Types](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2010/ee556391(v=office.14)).
+For more information about external content types, see [What Are External Content Types](/previous-versions/office/developer/sharepoint-2010/ee556391(v=office.14)).
 
 
 ## Properties

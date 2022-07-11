@@ -49,7 +49,7 @@ The number e raised to the GAMMALN(i) power, where i is an integer, returns the 
     
 **GammaLn** is calculated as follows:
 
-> ![Formula](../images/awfgamm1_ZA06051143.gif) &nbsp; where &nbsp; ![Formula](../images/awfgamm2_ZA06051144.gif)
+> ![Screenshot showing the Gamma Ln formula.](../images/awfgamm1_ZA06051143.gif) &nbsp; where &nbsp; ![Screenshot showing the formula for the Gamma X value.](../images/awfgamm2_ZA06051144.gif)
 
 
     

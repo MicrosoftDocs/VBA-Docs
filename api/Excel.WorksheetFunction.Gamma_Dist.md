@@ -48,15 +48,15 @@ If alpha ≤ 0 or if beta ≤ 0, **Gamma_Dist** returns the #NUM! error value.
     
 The equation for the gamma probability density function is:
 
-> ![Formula](../images/awfgmdi1_ZA06051146.gif)
+> ![Screenshot showing the gamma probability density equation.](../images/awfgmdi1_ZA06051146.gif)
 
 The standard gamma probability density function is:
 
-> ![Formula](../images/awfgmdi2_ZA06051147.gif)
+> ![Screenshot showing the standard gamma probability density equation.](../images/awfgmdi2_ZA06051147.gif)
 
 When alpha = 1, **Gamma_Dist** returns the exponential distribution with:
 
-> ![Formula](../images/awfgmdi3_ZA06051148.gif)
+> ![Screenshot showing the exponential distribution equation.](../images/awfgmdi3_ZA06051148.gif)
     
 For a positive integer n, when alpha = n/2, beta = 2, and cumulative = **True**, **Gamma_Dist** returns (1 - CHIDIST(x)) with n degrees of freedom.
     

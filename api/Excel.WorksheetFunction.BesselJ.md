@@ -44,7 +44,7 @@ If n is nonnumeric, **BesselJ** generates an error value.
     
 If n < 0, **BesselJ** generates an error value.
     
-The n-th order Bessel function of the variable x is ![Bessel function](../images/awfbslj1_ZA06051116.gif) where ![Bessel function](../images/awfbslj2_ZA06051117.gif) is the Gamma function. 
+The n-th order Bessel function of the variable x is ![Screenshot that is showing the Bessel function.](../images/awfbslj1_ZA06051116.gif) where ![Screenshot that is showing the Gamma function.](../images/awfbslj2_ZA06051117.gif) is the Gamma function. 
     
 
 
