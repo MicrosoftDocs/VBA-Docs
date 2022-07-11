@@ -19,7 +19,7 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 
 ## Remarks
 
-The **CustomXMLNode** object is designed to have functional parity with the **[IXMLDOMNode](https://docs.microsoft.com/previous-versions/windows/desktop/ms765513(v=vs.85))** interface. In addition, it contains an **[XPath](office.customxmlnode.xpath.md)** property, which is a great improvement over the objects provided by MSXML.
+The **CustomXMLNode** object is designed to have functional parity with the **[IXMLDOMNode](/previous-versions/windows/desktop/ms765513(v=vs.85))** interface. In addition, it contains an **[XPath](office.customxmlnode.xpath.md)** property, which is a great improvement over the objects provided by MSXML.
 
 
 ## Example
