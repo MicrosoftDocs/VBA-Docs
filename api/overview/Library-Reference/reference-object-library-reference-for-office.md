@@ -14,7 +14,7 @@ This section of the object library for Microsoft Office contains documentation f
 Use the table of contents in the left navigation to view the topics in this section.
 
 > [!NOTE] 
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins).
+> Interested in developing solutions that extend the Office experience across [multiple platforms](/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](/office/dev/add-ins/overview/office-add-ins).
 
 ## See also
 

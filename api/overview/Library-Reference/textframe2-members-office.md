@@ -1,6 +1,6 @@
 ---
 title: TextFrame2 members (Office)
-description: Represents the text frame in a Shape or ShapeRange object.
+description: Learn how TextFrame2 represents the text frame in a Shape or ShapeRange object and exposes properties and methods that control the alignment and anchoring.
 ms.prod: office
 ms.assetid: 35130cda-066c-ba5c-b7ec-672c0746ea76
 ms.date: 01/30/2019
