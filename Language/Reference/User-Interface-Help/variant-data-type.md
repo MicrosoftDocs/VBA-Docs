@@ -18,7 +18,7 @@ The **Variant** data type has no [type-declaration character](../../Glossary/vbe
 
 A **Variant** is a special data type that can contain any kind of data except fixed-length [String](../../Glossary/vbe-glossary.md#string-data-type) data. (**Variant** types now support [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type).) A **Variant** can also contain the special values [Empty](../../Glossary/vbe-glossary.md#empty), **Error**, **Nothing**, and [Null](../../Glossary/vbe-glossary.md#null). You can determine how the data in a **Variant** is treated by using the **VarType** function or **TypeName** function.
 
-Use the [VarType function](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/vartype-function) to test what type of data is held in a Variant.
+Use the [VarType function](/office/vba/language/reference/user-interface-help/vartype-function) to test what type of data is held in a Variant.
 
 Numeric data can be any integer or real number value ranging from -1.797693134862315E308 to -4.94066E-324 for negative values and from 4.94066E-324 to 1.797693134862315E308 for positive values. 
 

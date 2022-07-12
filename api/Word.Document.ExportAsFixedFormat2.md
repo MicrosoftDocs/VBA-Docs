@@ -47,7 +47,7 @@ _expression_ An expression that returns a **[Document](Word.Document.md)** objec
 
 ## Remarks
 
-The _KeepIRM_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support).
+The _KeepIRM_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
 Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRM_ flag to **FALSE** until _second RMID_ releases.
 
