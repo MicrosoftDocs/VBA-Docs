@@ -56,7 +56,7 @@ The equation for the gamma probability density function is:
 
 The standard gamma probability density function is:
 
-> ![Screenshot that shows the standard gamma probability density equation.](../images/awfgmdi2_ZA06051147.gif)
+> ![Screenshot of the standard gamma probability density equation.](../images/awfgmdi2_ZA06051147.gif)
 
 When alpha = 1, **GammaDist** returns the exponential distribution with:
 
