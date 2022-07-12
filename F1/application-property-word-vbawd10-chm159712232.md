@@ -14,8 +14,8 @@ ms.localizationpriority: medium
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[HeaderFooter.Application property (Word)](https://docs.microsoft.com/office/vba/api/Word.HeaderFooter.Application)
+[HeaderFooter.Application property (Word)](/office/vba/api/Word.HeaderFooter.Application)
 
-[Rectangles.Application property (Word)](https://docs.microsoft.com/office/vba/api/Word.Rectangles.Application)
+[Rectangles.Application property (Word)](/office/vba/api/Word.Rectangles.Application)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
