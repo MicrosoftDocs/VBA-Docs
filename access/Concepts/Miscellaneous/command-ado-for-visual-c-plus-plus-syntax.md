@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 ## Methods
 
-[Cancel](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/cancel-method-ado)(void)
+[Cancel](/office/client-developer/access/desktop-database-reference/cancel-method-ado)(void)
 
 [CreateParameter](https://msdn.microsoft.com/library/cf080a0b-75d2-dcdf-2715-10af147358e9%28Office.15%29.aspx)(BSTR  _Name,_ DataTypeEnum _Type,_ ParameterDirectionEnum _Direction,_ long _Size,_ VARIANT _Value,_ _ADOParameter ** _ppiprm_ )
 

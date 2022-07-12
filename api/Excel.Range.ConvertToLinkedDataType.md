@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Range](Excel.Range(Object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ServiceID_|Required| **Long**|The ID of the service that will provide the linked entity.|
-| _LanguageCulture_|Required| **String**|A string representing the [LCID](https://docs.microsoft.com/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c) of the language and culture that you would like to use for the linked entity. |
+| _LanguageCulture_|Required| **String**|A string representing the [LCID](/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c) of the language and culture that you would like to use for the linked entity. |
 
 ## Remarks
 

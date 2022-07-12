@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Series](Excel.Series(object).md)** 
 
 ## Remarks
 
-The **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. For more information about color index values, see [Adding color to Excel 2007 worksheets by using the ColorIndex property](https://docs.microsoft.com/previous-versions/office/developer/office-2007/cc296089(v=office.12)). 
+The **InvertColorIndex** property enables you to set the fill color for negative data points as a color index value from 0 to 56. For more information about color index values, see [Adding color to Excel 2007 worksheets by using the ColorIndex property](/previous-versions/office/developer/office-2007/cc296089(v=office.12)). 
 
 Instead of using the **InvertColorIndex** property, you can use the **[InvertColor](Excel.Series.InvertColor.md)** property, which enables you to set the color as a specific numeric, hexadecimal, octal, or RGB color value.
 
