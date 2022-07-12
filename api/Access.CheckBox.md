@@ -20,7 +20,7 @@ This object corresponds to a check box on a form or report. This check box is a 
 
 |Control|Tool|
 |:------|:---|
-|![Check box](../images/t-chkbox_ZA06053977.gif)|![Check box](../images/chkbox_ZA06047229.gif)|
+|![Screenshot of the Address Control check box.](../images/t-chkbox_ZA06053977.gif)|![Screenshot of the check box that corresponds to the Check Box object.](../images/chkbox_ZA06047229.gif)|
 
 When you select or clear a check box that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's **Format** property (Yes/No, **True**/**False**, or On/Off).
 

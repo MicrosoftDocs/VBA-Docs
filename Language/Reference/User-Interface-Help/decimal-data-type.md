@@ -26,7 +26,7 @@ The scaling factor is the number of digits to store to the right of the decimal 
 
 ## See also
 
-- [2.2.26 Decimal](https://docs.microsoft.com/openspecs/windows_protocols/ms-oaut/b5493025-e447-4109-93a8-ac29c48d018d)
+- [2.2.26 Decimal](/openspecs/windows_protocols/ms-oaut/b5493025-e447-4109-93a8-ac29c48d018d)
 - [Data type summary](data-type-summary.md)
 - [Data types keyword summary](data-types-keyword-summary.md)
 

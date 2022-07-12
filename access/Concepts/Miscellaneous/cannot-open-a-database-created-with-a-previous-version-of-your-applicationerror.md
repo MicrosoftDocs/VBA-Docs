@@ -19,7 +19,7 @@ You tried to access a database that is in an outdated format. Compact the databa
 
 For information about how to compact and repair Access databases, see the following:
 
-- [DBEngine.CompactDatabase method (DAO)](https://docs.microsoft.com/office/client-developer/access/desktop-database-reference/dbengine-compactdatabase-method-dao)   
+- [DBEngine.CompactDatabase method (DAO)](/office/client-developer/access/desktop-database-reference/dbengine-compactdatabase-method-dao)   
 
 
     

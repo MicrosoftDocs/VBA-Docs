@@ -31,7 +31,7 @@ _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnec
 
 ## Remarks
 
-Before you set the **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)** property to **False**. For more information about valid Locale ID (LCID) values, see the [LCID-Locale Mapping Table](https://docs.microsoft.com/openspecs/windows_protocols/ms-adts/a29e5c28-9fb9-4c49-8e43-4b9b8e733a05).
+Before you set the **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)** property to **False**. For more information about valid Locale ID (LCID) values, see the [LCID-Locale Mapping Table](/openspecs/windows_protocols/ms-adts/a29e5c28-9fb9-4c49-8e43-4b9b8e733a05).
 
 
 ## Example

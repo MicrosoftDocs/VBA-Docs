@@ -48,7 +48,7 @@ If known_y's and known_x's are empty or contain a different number of data point
     
 If the variance of known_x's equals zero, **Forecast** returns the #DIV/0! error value.
     
-The equation for FORECAST is a+bx, where &nbsp; ![Formula](../images/awfintc1_ZA06051174.gif) &nbsp; and &nbsp; ![Formula](../images/awfintc2_ZA06051175.gif) &nbsp; and where x and y are the sample means AVERAGE(known_x's) and AVERAGE(known_y's). 
+The equation for FORECAST is a+bx, where &nbsp; ![Screenshot of a formula that defines a value for the forecast equation.](../images/awfintc1_ZA06051174.gif) &nbsp; and &nbsp; ![Screenshot of the formula that defines the b value for the forecast equation.](../images/awfintc2_ZA06051175.gif) &nbsp; and where x and y are the sample means AVERAGE(known_x's) and AVERAGE(known_y's). 
     
 
 

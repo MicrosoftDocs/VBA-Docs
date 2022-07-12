@@ -14,9 +14,9 @@ ms.localizationpriority: medium
 
 # WorksheetFunction.ImArgument method (Excel)
 
-Returns the argument ![Formula](../images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
+Returns the argument ![Screenshot of the theta symbol.](../images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
 
-> ![Formula](../images/awfimar1_ZA06051153.gif)
+> ![Screenshot of the angle formula.](../images/awfimar1_ZA06051153.gif)
 
 
 ## Syntax
@@ -43,7 +43,7 @@ Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real
     
 **ImArgument** is calculated as follows:
 
-> ![Formula](../images/awfimar2_ZA06051154.gif) &nbsp; where &nbsp; ![Formula](../images/awfimar3_ZA06051155.gif) &nbsp; and z = x + yi
+> ![Screenshot of Im Argument formula.](../images/awfimar2_ZA06051154.gif) &nbsp; where &nbsp; ![Screenshot of the theta value formula.](../images/awfimar3_ZA06051155.gif) &nbsp; and z = x + yi
     
 
 

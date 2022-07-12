@@ -38,7 +38,7 @@ It is possible to get the active window without qualification from the Microsoft
 Set vsoPage = ActivePage
 ```
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVApplication.ActivePage**
     

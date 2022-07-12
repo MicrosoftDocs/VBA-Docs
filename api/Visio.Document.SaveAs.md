@@ -41,7 +41,7 @@ The **SaveAs** method can accept drive names that use the universal naming conve
 
 Beginning with Visio 2002, you can save your drawing as an XML drawing (.vdx), an XML stencil (.vsx), or an XML template (.vtx).
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this method maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVDocument.SaveAs(string)**

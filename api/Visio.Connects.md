@@ -29,7 +29,7 @@ Use the **[Connects](visio.page.connects.md)** property of a **Page** object to 
 
 Use the **[Connects](visio.master.connects.md)** property of a **Master** object to retrieve a **Connects** collection with an entry for every connection in the **Master** object.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this collection maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVConnects.GetEnumerator()** (to enumerate the **Connect** objects)
     

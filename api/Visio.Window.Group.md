@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 The **Window** object's **Group** method is now obsolete. Use the **Group** method of the [Selection](Visio.Selection.Group.md) or [Shape](Visio.Shape.md) object.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this method maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVWindow.Group()**

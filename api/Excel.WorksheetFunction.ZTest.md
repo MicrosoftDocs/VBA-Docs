@@ -48,11 +48,11 @@ If _array_ is empty, **ZTest** returns the #N/A error value.
     
 **ZTest** is calculated as follows when _sigma_ is not omitted:
 
-> ![Formula](../images/awfztest_ZA06051270.gif) 
+> ![Screenshot that shows the the Z Test formula when sigma is not omitted.](../images/awfztest_ZA06051270.gif) 
 
 **ZTest** is calculated as follows when _sigma_ is omitted, where _x_ is the sample mean AVERAGE(_array_), _s_ is the sample standard deviation STDEV(_array_), and _n_ is the number of observations in the sample COUNT(_array_): 
 
-> ![Formula](../images/awfztsta_ZA06054798.gif)
+> ![Screenshot that shows the the Z Test formula when sigma is omitted.](../images/awfztsta_ZA06054798.gif)
     
 **ZTest** represents the probability that the sample mean would be greater than the observed value AVERAGE(_array_), when the underlying population mean is μ0. From the symmetry of the Normal distribution, if AVERAGE(_array_) < μ0, **ZTest** will return a value greater than 0.5.
     

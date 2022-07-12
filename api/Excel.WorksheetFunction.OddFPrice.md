@@ -74,7 +74,7 @@ The following date condition must be satisfied; otherwise, **OddFPrice** returns
     
 **OddFPrice** is calculated as follows. Odd short first coupon: 
 
-> ![Formula](../images/awfodfp1_ZA06051215.gif)
+> ![Screenshot that shows the odd short first coupon version of the Odd F Price formula.](../images/awfodfp1_ZA06051215.gif)
 
 where: 
 
@@ -86,7 +86,7 @@ where:
 
 Odd long first coupon: 
 
-> ![Formula](../images/awfodfp2_ZA06047509.gif)
+> ![Screenshot that shows the odd long first coupon version of the Odd F Price formula.](../images/awfodfp2_ZA06047509.gif)
 
 where: 
 

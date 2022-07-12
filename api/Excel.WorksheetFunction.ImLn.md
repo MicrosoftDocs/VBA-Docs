@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetF
 
 Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real and imaginary coefficients into a complex number.
     
-The natural logarithm of a complex number is &nbsp; ![Formula](../images/awfimln_ZA06051162.gif) &nbsp; where &nbsp; ![Formula](../images/awfimar3_ZA06051155.gif)
+The natural logarithm of a complex number is &nbsp; ![Screenshot of the natural logarithm of a complex number formula.](../images/awfimln_ZA06051162.gif) &nbsp; where &nbsp; ![Screenshot of the theta value formula.](../images/awfimar3_ZA06051155.gif)
 
 
     
