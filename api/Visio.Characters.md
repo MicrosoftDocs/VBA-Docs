@@ -29,7 +29,7 @@ After you retrieve a **Characters** object, you can use its **Text** property to
 
 Use the **CharProps** or **ParaProps** property to change the **Characters** object's formatting.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this object maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this object maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVCharacters**
     
