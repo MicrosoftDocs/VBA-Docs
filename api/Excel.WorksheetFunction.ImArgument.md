@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 Returns the argument ![Screenshot of the theta symbol.](../images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
 
-> ![Screenshot which is showing the angle formula.](../images/awfimar1_ZA06051153.gif)
+> ![Screenshot of the angle formula.](../images/awfimar1_ZA06051153.gif)
 
 
 ## Syntax
