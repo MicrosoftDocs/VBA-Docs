@@ -60,7 +60,7 @@ The standard gamma probability density function is:
 
 When alpha = 1, **GammaDist** returns the exponential distribution with:
 
-> ![Screenshot that shows the exponential distribution equation.](../images/awfgmdi3_ZA06051148.gif)
+> ![Screenshot of the exponential distribution equation](../images/awfgmdi3_ZA06051148.gif)
 
 For a positive integer n, when alpha = n/2, beta = 2, and cumulative = **True**, **GammaDist** returns (1 - CHIDIST(x)) with n degrees of freedom.
     
