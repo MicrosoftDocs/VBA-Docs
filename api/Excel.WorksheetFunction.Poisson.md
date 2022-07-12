@@ -54,11 +54,11 @@ If mean ≤ 0, **Poisson** returns the #NUM! error value.
     
 **Poisson** is calculated as follows. For cumulative = **False**: 
 
-> ![Formula](../images/awfpois1_ZA06051232.gif)
+> ![Screenshot that shows the Poisson formula.](../images/awfpois1_ZA06051232.gif)
 
 For cumulative = **True**: 
 
-> ![Formula](../images/awfpois2_ZA06051233.gif)
+> ![Screenshot that shows the cumulative Poisson formula.](../images/awfpois2_ZA06051233.gif)
 
 
 

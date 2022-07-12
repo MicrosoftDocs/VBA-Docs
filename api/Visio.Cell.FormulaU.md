@@ -38,7 +38,7 @@ If a cell's formula is protected with the GUARD function, you must use the **For
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Formula** property to get a cell's formula string in local syntax or to use a mix of local and universal syntax to set it. Use the **FormulaU** property to get or parse a formula in universal syntax. When you use **FormulaU**, the decimal point is always ".", the delimiter is always ",", and you must use universal unit strings (for details on universal strings, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md)).
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVCell.FormulaU**
     

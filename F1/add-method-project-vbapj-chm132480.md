@@ -14,8 +14,8 @@ ms.localizationpriority: medium
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Profiles.Add Method (Project)](https://docs.microsoft.com/office/vba/api/Project.Profiles.Add)
+[Profiles.Add Method (Project)](/office/vba/api/Project.Profiles.Add)
 
-[Assignment.Owner Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Assignment.Owner)
+[Assignment.Owner Property (Project)](/office/vba/api/Project.Assignment.Owner)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

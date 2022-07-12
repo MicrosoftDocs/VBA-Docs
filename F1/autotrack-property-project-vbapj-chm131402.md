@@ -14,8 +14,8 @@ ms.localizationpriority: medium
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Project.AutoTrack Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Project.AutoTrack)
+[Project.AutoTrack Property (Project)](/office/vba/api/Project.Project.AutoTrack)
 
-[Project.AutoAddResources Property (Project)](https://docs.microsoft.com/office/vba/api/Project.Project.AutoAddResources)
+[Project.AutoAddResources Property (Project)](/office/vba/api/Project.Project.AutoAddResources)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

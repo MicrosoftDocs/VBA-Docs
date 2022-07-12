@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-For a list of ASCII key code values, see [Virtual-Key Codes](https://docs.microsoft.com/windows/desktop/inputdev/virtual-key-codes).
+For a list of ASCII key code values, see [Virtual-Key Codes](/windows/desktop/inputdev/virtual-key-codes).
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

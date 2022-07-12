@@ -21,6 +21,6 @@ Describes how to customize the Visual Basic Editor, and provides documentation f
 ## See also
 
 - [Visual Basic language reference](visual-basic-language-reference.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+- [Office client development reference](/office/client-developer/office-client-development)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

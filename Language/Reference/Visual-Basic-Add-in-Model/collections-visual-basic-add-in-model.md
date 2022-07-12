@@ -143,6 +143,6 @@ Opening a code or designer window adds a new member to the **Windows** collectio
 - [Collections (Microsoft Forms)](../user-interface-help/objects-microsoft-forms.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+- [Office client development reference](/office/client-developer/office-client-development)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,7 +37,7 @@ The application's active window can only be an MDI frame window—it cannot be o
 
 If a window in an instance of Microsoft Visio is not active, the **ActiveWindow** property returns **Nothing**.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVApplication.ActiveWindow**
     

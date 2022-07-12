@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 Welcome to the Visual Basic for Applications (VBA) language reference for Office. This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on VBA.
 
 > [!NOTE] 
-> Interested in developing solutions that extend the Office experience across [multiple platforms](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins).
+> Interested in developing solutions that extend the Office experience across [multiple platforms](/office/dev/add-ins/overview/office-add-in-availability)? Check out the new [Office Add-ins model](/office/dev/add-ins/overview/office-add-ins).
  
 Use the table of contents in the navigation on the left to view the topics in the following sections:
 
@@ -45,6 +45,6 @@ Use the table of contents in the navigation on the left to view the topics in th
 ## See also
 
 - [Object library reference for Office (members, properties, methods)](library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+- [Office client development reference](/office/client-developer/office-client-development)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

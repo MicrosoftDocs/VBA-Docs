@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # IConverterPreferences object (Office)
 
-This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk).
+This feature is only available in the [Open XML Format SDK](/office/open-xml/open-xml-sdk).
 
 
 ## See also

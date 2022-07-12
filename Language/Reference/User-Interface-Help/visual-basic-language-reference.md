@@ -32,7 +32,7 @@ Provides documentation about Visual Basic the language: all its methods, propert
 - [Methods and Properties (now under Objects)](../objects-visual-basic-for-applications.md) 
 - [Object Browser](../object-browser-visual-basic-for-applications.md)
 - [Visual Basic user interface help](visual-basic-user-interface-help.md)
-- [Object library reference for Office (members, properties, methods)](https://docs.microsoft.com/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+- [Object library reference for Office (members, properties, methods)](/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
+- [Office client development reference](/office/client-developer/office-client-development)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

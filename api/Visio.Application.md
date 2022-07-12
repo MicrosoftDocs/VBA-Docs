@@ -34,7 +34,7 @@ Use the **BuiltInMenus**, **BuiltInToolbars**, **CustomMenus**, **CustomToolbars
 > [!NOTE] 
 > Code in the Microsoft Visual Basic for Applications project of a Visio document can use the Visio global object instead of a Visio **Application** object to retrieve other objects.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this object maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this object maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.ApplicationClass** (to access the **Application** object)   
 - **Microsoft.Office.Interop.Visio.ApplicationClass.Application** (to construct the **Application** object)  

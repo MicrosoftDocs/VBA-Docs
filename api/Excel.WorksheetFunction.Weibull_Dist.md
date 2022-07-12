@@ -46,11 +46,11 @@ If x < 0, **Weibull_Dist** returns the #NUM! error value.
     
 If alpha ≤ 0 or if beta ≤ 0, **Weibull_Dist** returns the #NUM! error value.
     
-The equation for the Weibull cumulative distribution function is &nbsp; ![Formula](../images/awfweib1_ZA06051261.gif)
+The equation for the Weibull cumulative distribution function is &nbsp; ![Screenshot that shows the equation for the Weibull cumulative distribution function.](../images/awfweib1_ZA06051261.gif)
   
-The equation for the Weibull probability density function is &nbsp; ![Formula](../images/awfweib2_ZA06051262.gif)
+The equation for the Weibull probability density function is &nbsp; ![Screenshot that shows the equation for the Weibull probability density function.](../images/awfweib2_ZA06051262.gif)
 
-When alpha = 1, **Weibull_Dist** returns the exponential distribution with &nbsp; ![Formula](../images/awfweib3_ZA06051263.gif)
+When alpha = 1, **Weibull_Dist** returns the exponential distribution with &nbsp; ![Screenshot that shows the equation that Weibull returns when alpha equals 1.](../images/awfweib3_ZA06051263.gif)
 
 
 

@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 In Dynamic Arrays enabled Excel, Range.Formula2 supercedes Range.Formula. Range.Formula will continue to be supported to maintain backcompatibility. A discussion on Dynamic Arrays and Range.Formula2 can be found here. 
 
 ## See also
-**[Range.Formula2](https://docs.microsoft.com/office/vba/api/excel.range.formula2)** property
+**[Range.Formula2](/office/vba/api/excel.range.formula2)** property
 
 This property is not available for OLAP data sources.
 
