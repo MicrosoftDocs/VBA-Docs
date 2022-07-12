@@ -15,10 +15,10 @@ ms.localizationpriority: medium
 # Options.MatchFuzzyDZ property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![Symbol](../images/fe274_ZA06051753.gif)" and "
-![Symbol](../images/fe275_ZA06051754.gif)" and between "
-![Symbol](../images/fe276_ZA06051755.gif)" and "
-![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write **Boolean**.
+![A screenshot that shows the first symbol in the example.](../images/fe274_ZA06051753.gif)" and "
+![A screenshot that shows the second symbol in the example.](../images/fe275_ZA06051754.gif)" and between "
+![A screenshot that shows the third symbol in the example.](../images/fe276_ZA06051755.gif)" and "
+![A screenshot that shows the fourth symbol in the example.](../images/fe277_ZA06051756.gif)" during a search. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,10 +31,10 @@ _expression_. `MatchFuzzyDZ`
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![Symbol](../images/fe274_ZA06051753.gif)" and "
-![Symbol](../images/fe275_ZA06051754.gif)" and between "
-![Symbol](../images/fe276_ZA06051755.gif)" and "
-![Symbol](../images/fe277_ZA06051756.gif)" during a search.
+![A screenshot that shows symbol #1 in the example.](../images/fe274_ZA06051753.gif)" and "
+![A screenshot that shows symbol #2 in the example.](../images/fe275_ZA06051754.gif)" and between "
+![A screenshot that shows symbol #3 in the example.](../images/fe276_ZA06051755.gif)" and "
+![A screenshot that shows symbol #4 in the example.](../images/fe277_ZA06051756.gif)" during a search.
 
 
 ```vb
