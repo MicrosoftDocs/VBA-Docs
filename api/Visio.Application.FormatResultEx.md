@@ -76,7 +76,7 @@ _Format_ is a string that specifies a template or picture of the string produced
 
 When _UnitsIn_ is **visDate**, _Format_ should be one of the custom Microsoft Visio expanded-form date/time formats, which are of the form "{{_date/time format picture_}}". You can view these formats in the **Custom Format** box in the **Data Format** dialog box in Visio (select a shape, and then, on the **Insert** tab, choose **Field**. In the **Category** list, choose **Date/Time**, and then choose **Data Format**).
 
-The _LangID_ argument is optional. If you don't specify a value, Visio uses the current system language. If you pass a value, the _LangID_ argument should be one of the standard IDs used by Windows to encode different language versions. For example, 1033 is the language ID for English (United States). To see a list of possible language IDs, see [Language Identifier Constants and Strings](https://docs.microsoft.com/windows/desktop/intl/language-identifier-constants-and-strings).
+The _LangID_ argument is optional. If you don't specify a value, Visio uses the current system language. If you pass a value, the _LangID_ argument should be one of the standard IDs used by Windows to encode different language versions. For example, 1033 is the language ID for English (United States). To see a list of possible language IDs, see [Language Identifier Constants and Strings](/windows/desktop/intl/language-identifier-constants-and-strings).
 
 The _CalendarID_ argument should be one of the following values, which are declared in **[VisCellVals](visio.viscellvals.md)** in the Visio type library. The default value is the Western calendar, **visCalWestern**.
 

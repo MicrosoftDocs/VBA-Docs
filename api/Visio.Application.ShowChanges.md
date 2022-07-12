@@ -48,7 +48,7 @@ The **ShowChanges** property is similar to the **ScreenUpdating** property, whic
 
 The Visio instance will usually run faster when both the **ShowChanges** and **ScreenUpdating** properties are **False** than when only the **ScreenUpdating** property is **False**. When both the **ShowChanges** and **ScreenUpdating** properties are **False**, the Visio views will not react to document changes until the **ShowChanges** property becomes **True**. This can cause noticeable delays after a program has completed a sequence of many operations. To cause some changes to occur as they happen, set **ScreenUpdating** to **True** immediately after setting **ShowChanges** to **False**. This can shorten the delay that occurs after **ShowChanges** becomes **True**, but will probably lengthen the time to complete the overall sequence of actions.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVApplication.ShowChanges**

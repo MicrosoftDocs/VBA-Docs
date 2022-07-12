@@ -41,7 +41,7 @@ To create an **Event** object that receives notification, use the **AddAdvise** 
 
 To find an event code for the event that you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this event maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this event maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.EApplication_WindowTurnedToPageEventHandler** (the **WindowTurnedToPage** delegate.)
