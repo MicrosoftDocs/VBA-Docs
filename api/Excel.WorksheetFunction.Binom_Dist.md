@@ -52,7 +52,7 @@ If probability_s < 0 or probability_s > 1, the **Binom_Dist** method generates a
     
 The binomial probability mass function is ![Screenshot of binomial probability mass equation.](../images/awfbnmd1_ZA06051113.gif) where ![Screenshot of COMBIN (n, x) equation.](../images/awfbnmd2_ZA06051114.gif) is COMBIN(n,x). 
 
-The cumulative binomial distribution is ![Screenshot showing the cumulative binomial distribution equation.](../images/awfbnmd3_ZA06051115.gif)
+The cumulative binomial distribution is ![Screenshot of the cumulative binomial distribution equation.](../images/awfbnmd3_ZA06051115.gif)
 
 
 
