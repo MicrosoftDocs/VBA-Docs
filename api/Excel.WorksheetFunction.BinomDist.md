@@ -52,7 +52,7 @@ If probability_s < 0 or probability_s > 1, **BinomDist** generates an error.
     
 The binomial probability mass function is ![Screenshot of the binomial probability mass equation.](../images/awfbnmd1_ZA06051113.gif) where ![Screenshot of the COMBIN (n, x) equation.](../images/awfbnmd2_ZA06051114.gif) is COMBIN(n,x). 
 
-The cumulative binomial distribution is ![Screenshot that is showing the cumulative binomial distribution equation.](../images/awfbnmd3_ZA06051115.gif)
+The cumulative binomial distribution is ![Screenshot of the cumulative binomial distribution equation.](../images/awfbnmd3_ZA06051115.gif)
 
 
 
