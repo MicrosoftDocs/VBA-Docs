@@ -41,19 +41,19 @@ Use the **[Complex](excel.worksheetfunction.complex.md)** method to convert real
     
 The square root of a complex number is:
 
-> ![Screenshot that shows the square root of a complex number formula.](../images/awfimsq1_ZA06051168.gif)
+> ![Screenshot of the square root of a complex number formula.](../images/awfimsq1_ZA06051168.gif)
 
 where: 
 
-> ![Second screenshot that shows the square root of a complex number formula.](../images/awfimsq2_ZA06051169.gif)
+> ![Second screenshot of the square root of a complex number formula.](../images/awfimsq2_ZA06051169.gif)
 
 and: 
 
-> ![Third screenshot that shows the square root of a complex number formula.](../images/awfimsq3_ZA06051170.gif)
+> ![Third screenshot of the square root of a complex number formula.](../images/awfimsq3_ZA06051170.gif)
 
 and: 
 
-> ![Fourth screenshot that shows the square root of a complex number formula.](../images/awfimar3_ZA06051155.gif)
+> ![Fourth screenshot of the square root of a complex number formula.](../images/awfimar3_ZA06051155.gif)
 
 
     
