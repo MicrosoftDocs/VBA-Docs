@@ -38,7 +38,7 @@ This example sets Microsoft Word to ignore the distinction between "
 ![A screenshot that shows the third symbol in the example.](../images/fe268_ZA06051747.gif)" and between "
 ![A screenshot that shows the fourth symbol in the example.](../images/fe278_ZA06051757.gif)" and "
 ![A screenshot that shows the fifth symbol in the example.](../images/fe238_ZA06051718.gif)
-![A screenshot that shows the sizth symbol in the example.](../images/fe268_ZA06051747.gif)" during a search.
+![A screenshot that shows the sixth symbol in the example.](../images/fe268_ZA06051747.gif)" during a search.
 
 
 ```vb
