@@ -52,7 +52,7 @@ If alpha ≤ 0 or if beta ≤ 0, **GammaDist** returns the #NUM! error value.
     
 The equation for the gamma probability density function is:
 
-> ![Screenshot that shows the gamma probability density equation.](../images/awfgmdi1_ZA06051146.gif)
+> ![Screenshot of the gamma probability density equation.](../images/awfgmdi1_ZA06051146.gif)
 
 The standard gamma probability density function is:
 
