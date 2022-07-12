@@ -39,7 +39,7 @@ The string passed to and received from the **AddonPaths** property is the same s
 
 When Visio looks for third-party and user add-ons, it looks in all paths named in the **AddonPaths** property, as well as at the paths of any add-ons installed at setup, and all the subfolders of those paths. If you pass the **AddonPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
-Starting with Microsoft Office Visio 2003, instead of specifying file paths to your Visio add-ons, you can publish your add-ons by using a Microsoft Windows Installer package. By doing so, you can take advantage of Microsoft Office features such as language switching, installation on demand, and repair. For more information about using a Windows Installer package to publish your add-ons, see [Windows Installer](https://docs.microsoft.com/windows/desktop/msi/windows-installer-portal).
+Starting with Microsoft Office Visio 2003, instead of specifying file paths to your Visio add-ons, you can publish your add-ons by using a Microsoft Windows Installer package. By doing so, you can take advantage of Microsoft Office features such as language switching, installation on demand, and repair. For more information about using a Windows Installer package to publish your add-ons, see [Windows Installer](/windows/desktop/msi/windows-installer-portal).
 
 
 > [!WARNING] 

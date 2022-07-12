@@ -47,7 +47,7 @@ To add a shape to a group or on a drawing page, apply the **Drop** method to a *
 
 If ObjectToDrop is a **Master**, the pin of the master is dropped at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this method maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVPage.Drop(object, double, double)**
