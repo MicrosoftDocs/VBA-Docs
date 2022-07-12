@@ -49,7 +49,7 @@ If x < 0, **ExponDist** returns the #NUM! error value.
     
 If lambda ≤ 0, **ExponDist** returns the #NUM! error value.
     
-The equation for the probability density function is &nbsp; ![Screenshot showing the probability density equation.](../images/awfxpnd1_ZA06051267.gif)
+The equation for the probability density function is &nbsp; ![Screenshot of the probability density equation.](../images/awfxpnd1_ZA06051267.gif)
 
 The equation for the cumulative distribution function is &nbsp; ![Screenshot showing the cumulative distribution function.](../images/awfxpnd2_ZA06051268.gif)
 
