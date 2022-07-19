@@ -44,8 +44,8 @@ This example shows how to use the **Split** function.
 
 ```vb
 Dim strFull As String
-Dim arrSplitStrings1() As Variant
-Dim arrSplitStrings2() As Variant
+Dim arrSplitStrings1() As String
+Dim arrSplitStrings2() As String
 Dim strSingleString1 As String
 Dim strSingleString2 As String
 Dim strSingleString3 As String
