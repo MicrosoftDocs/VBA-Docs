@@ -30,7 +30,7 @@ The **Find** syntax has these parts:
 | _endcol_|Required. A **Long** specifying the last line of the match if one is found. The last column may be designated as -1.|
 | _wholeword_|Optional. A [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value specifying whether to only match whole words. If **True**, only matches whole words. **False** is the default.|
 | _matchcase_|Optional. A **Boolean** value specifying whether to match case. If **True**, the search is case sensitive. **False** is the default.|
-| _patternsearch_|Optional. A **Boolean** value specifying whether or not the target string is a regular expression pattern. If **True**, the target string is a regular expression pattern. **False** is the default.|
+| _patternsearch_|Optional. A **Boolean** value specifying whether or not the target string is a pattern, which may contain wildcard characters such as an asterisk (*) or a question mark (?). If **True**, the target string is a pattern. **False** is the default.|
 
 ## Remarks
 

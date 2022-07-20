@@ -35,7 +35,7 @@ After the page is resized, the page height and width and the PinX and PinY value
 
 Calling the **ResizeToFitContents** method is the equivalent of selecting **Let Visio expand the page as needed** on the **Page Size** tab in the **Page Setup** dialog box (on the **Design** tab, click **Size**, and then click **More Page Sizes**).
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this method maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this method maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVPage.ResizeToFitContents()**

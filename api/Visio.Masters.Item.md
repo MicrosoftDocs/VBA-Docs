@@ -76,7 +76,7 @@ For more information about passing ID strings to the **Item** property, see the 
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Item** property to access an object in the **Masters**, **Pages**, **Shapes**, **Styles**, **Layers**, or **MasterShortcuts** collection by using its local name. Use the **ItemU** property to access an object from one of these collections by using the object's universal name.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this property maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this property maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.IVMasters.this[object]**

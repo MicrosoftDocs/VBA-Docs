@@ -56,7 +56,7 @@ To find an event code for the event that you want to create, see [Event codes](.
 
 For performance considerations, the **Document** object's event set does not include the **BeforeShapeDelete** event. To sink the **BeforeShapeDelete** event from a **Document** object (and from the **[ThisDocument](../visio/Concepts/about-the-thisdocument-object-visio.md)** object in a VBA project), you must use the **AddAdvise** method.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this event maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019&preserve-view=true) reference, this event maps to the following types:
 
 
 - **Microsoft.Office.Interop.Visio.EShape_BeforeShapeDeleteEventHandler** (the **BeforeShapeDelete** delegate.)
