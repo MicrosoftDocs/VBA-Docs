@@ -15,14 +15,14 @@ ms.localizationpriority: medium
 # Options.MatchFuzzyTC property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![Symbol](../images/fe279_ZA06051758.gif)
-![Symbol](../images/fe280_ZA06051759.gif)", "
-![Symbol](../images/fe281_ZA06051760.gif)
-![Symbol](../images/fe280_ZA06051759.gif)", and "
-![Symbol](../images/fe208_ZA06051694.gif)", and between "
-![Symbol](../images/fe282_ZA06051761.gif)
-![Symbol](../images/fe280_ZA06051759.gif)" and "
-![Symbol](../images/fe275_ZA06051754.gif)" during a search. Read/write **Boolean**.
+![Screenshot of the first symbol in the example.](../images/fe279_ZA06051758.gif)
+![Screenshot of the second symbol in the example.](../images/fe280_ZA06051759.gif)", "
+![Screenshot of the third symbol in the example.](../images/fe281_ZA06051760.gif)
+![Screenshot of the fourth symbol in the example.](../images/fe280_ZA06051759.gif)", and "
+![Screenshot of the fifth symbol in the example.](../images/fe208_ZA06051694.gif)", and between "
+![Screenshot of the sixth symbol in the example.](../images/fe282_ZA06051761.gif)
+![Screenshot of the seventh symbol in the example.](../images/fe280_ZA06051759.gif)" and "
+![Screenshot of the eighth symbol in the example.](../images/fe275_ZA06051754.gif)" during a search. Read/write **Boolean**.
 
 
 ## Syntax
@@ -35,14 +35,14 @@ _expression_. `MatchFuzzyTC`
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![Symbol](../images/fe279_ZA06051758.gif)
-![Symbol](../images/fe280_ZA06051759.gif)", "
-![Symbol](../images/fe281_ZA06051760.gif)
-![Symbol](../images/fe280_ZA06051759.gif)", and "
-![Symbol](../images/fe208_ZA06051694.gif)", and between "
-![Symbol](../images/fe282_ZA06051761.gif)
-![Symbol](../images/fe280_ZA06051759.gif)" and "
-![Symbol](../images/fe275_ZA06051754.gif)" during a search.
+![Screenshot of symbol #1 in the example.](../images/fe279_ZA06051758.gif)
+![Screenshot of symbol #2 in the example.](../images/fe280_ZA06051759.gif)", "
+![Screenshot of symbol #3 in the example.](../images/fe281_ZA06051760.gif)
+![Screenshot of symbol #4 in the example.](../images/fe280_ZA06051759.gif)", and "
+![Screenshot of symbol #5 in the example.](../images/fe208_ZA06051694.gif)", and between "
+![Screenshot of symbol #6 in the example.](../images/fe282_ZA06051761.gif)
+![Screenshot of symbol #7 in the example.](../images/fe280_ZA06051759.gif)" and "
+![Screenshot of symbol #8 in the example.](../images/fe275_ZA06051754.gif)" during a search.
 
 
 ```vb
