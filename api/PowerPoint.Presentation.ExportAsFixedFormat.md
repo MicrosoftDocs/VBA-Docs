@@ -122,7 +122,7 @@ Set _BitmapMissingFonts_ to **True** when font licensing does not permit you to 
 
 The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
-Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRMSettings_ flag to **FALSE** until _second RMID_ releases. 
+Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRMSettings_ flag to **FALSE** until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases.
 
 ## Example
 
