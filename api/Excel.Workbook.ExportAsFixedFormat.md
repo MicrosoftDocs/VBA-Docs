@@ -44,6 +44,6 @@ ActiveWorkbook.ExportAsFixedFormat Type:=xlTypePDF FileName:="sales.pdf" Quality
 ```
 ## Remarks 
 
-Until _second RMID_, Office will default to creating unprotected PDFs (when _Type_ is _xlTypePDF_). After that time, Office will default to creating protected PDFs. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
+Until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases, Office will default to creating unprotected PDFs (when _Type_ is _xlTypePDF_). After that time, Office will default to creating protected PDFs. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
