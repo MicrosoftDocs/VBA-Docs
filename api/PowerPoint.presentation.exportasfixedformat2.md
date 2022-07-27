@@ -4,7 +4,7 @@ keywords: vbapp10.chm583126
 f1_keywords:
 - vbapp10.chm583126
 ms.assetid: b1101e58-e6a8-9dd4-7071-1325ba71edb1
-ms.date: 06/08/2017
+ms.date: 07/22/2022
 ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
@@ -66,6 +66,9 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 
 The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
-Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRMSettings_ flag to **FALSE** until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases.
+Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRMSettings_ flag to **FALSE** until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases. For complete details how to adapt to this change, read the [Changes in Export to PDF with sensitivity labeling and encryption in Office Add-ins](https://devblogs.microsoft.com/microsoft365dev/changes-in-export-to-pdf-with-sensitivity-labelling-and-encryption-in-office-add-ins/) blog post by Chris Dietsch.
+
+### See also
+[Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
