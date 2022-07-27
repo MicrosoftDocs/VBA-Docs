@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ExportAsFixedFormat
 ms.assetid: 4d72247c-bab9-3475-4792-8899c959393c
-ms.date: 06/30/2022
+ms.date: 07/270/2022
 ms.localizationpriority: medium
 ---
 
@@ -47,6 +47,6 @@ ActiveWorkbook.ExportAsFixedFormat Type:=xlTypePDF FileName:="sales.pdf" Quality
 Until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases, Office will default to creating unprotected PDFs (when _Type_ is _xlTypePDF_). After that time, Office will default to creating protected PDFs. For complete details how to adapt to this change, read the [Changes in Export to PDF with sensitivity labeling and encryption in Office Add-ins](https://devblogs.microsoft.com/microsoft365dev/changes-in-export-to-pdf-with-sensitivity-labelling-and-encryption-in-office-add-ins/) blog post by Chris Dietsch.
 
 ### See also
-[Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
+[Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
