@@ -7,15 +7,13 @@ ms.prod: word
 api_name:
 - Word.Document.ExportAsFixedFormat2
 ms.assetid: fe248ff2-0a2a-b10e-fed9-d5bfb73ff1b2
-ms.date: 06/30/2022
+ms.date: 07/27/2022
 ms.localizationpriority: medium
 ---
-
 
 # Document.ExportAsFixedFormat2 method (Word)
 
 Saves a document in PDF or XPS format.
-
 
 ## Syntax
 
@@ -49,6 +47,9 @@ _expression_ An expression that returns a **[Document](Word.Document.md)** objec
 
 The _KeepIRM_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
-Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRM_ flag to **FALSE** until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases.
+Due to the interaction of partner add-ins creating PDFs in Office with encryption, Office will default the _KeepIRM_ flag to **FALSE** until [second RMID (93406)](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=93406) releases. For complete details how to adapt to this change, read the [Changes in Export to PDF with sensitivity labeling and encryption in Office Add-ins](https://devblogs.microsoft.com/microsoft365dev/changes-in-export-to-pdf-with-sensitivity-labelling-and-encryption-in-office-add-ins/) blog post by Chris Dietsch.
+
+### See also
+[Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
