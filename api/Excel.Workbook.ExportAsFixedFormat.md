@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.ExportAsFixedFormat
 ms.assetid: 4d72247c-bab9-3475-4792-8899c959393c
-ms.date: 07/270/2022
+ms.date: 07/27/2022
 ms.localizationpriority: medium
 ---
 
