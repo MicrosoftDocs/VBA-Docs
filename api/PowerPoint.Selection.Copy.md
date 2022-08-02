@@ -28,6 +28,8 @@ _expression_ A variable that represents a [Selection](PowerPoint.Selection.md) o
 
 Use the **Paste** method to paste the contents of the Clipboard.
 
+If the selected content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## Example
 
@@ -45,5 +47,7 @@ Windows(2).View.Paste
 
 
 [Selection Object](PowerPoint.Selection.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

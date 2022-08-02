@@ -41,6 +41,8 @@ Exporting a presentation doesn't set the **[Saved](PowerPoint.Presentation.Saved
 
 PowerPoint uses the specified graphics filter to save each individual slide in the presentation. The names of the slides exported and saved to disk are determined by PowerPoint. They're typically saved by using names such as Slide1.wmf, Slide2.wmf. The path of the saved files is specified in the Path argument.
 
+If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## Example
 
@@ -61,5 +63,7 @@ End With
 
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

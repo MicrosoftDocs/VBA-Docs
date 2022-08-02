@@ -37,9 +37,16 @@ _expression_ A variable that represents a [CustomLayouts](PowerPoint.CustomLayou
 CustomLayout
 
 
+## Remarks
+
+If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## See also
 
 
 [CustomLayouts Object](PowerPoint.CustomLayouts.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

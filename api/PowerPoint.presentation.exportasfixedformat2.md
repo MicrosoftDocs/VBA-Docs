@@ -71,4 +71,6 @@ Due to the interaction of partner add-ins creating PDFs in Office with encryptio
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
 
+If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

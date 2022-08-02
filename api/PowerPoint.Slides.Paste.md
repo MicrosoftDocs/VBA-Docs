@@ -49,6 +49,9 @@ Use the **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set th
 |Outline view|Text or entire slides. You cannot paste shapes into outline view. A pasted slide will be inserted before the slide that contains the cursor.|
 |Slide sorter view|Entire slides. You cannot paste shapes or text into slide sorter view. A pasted slide will be inserted at the cursor or after the last slide selected in the presentation.|
 
+If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## Example
 
 This example cuts slides three and five from the Old Sales presentation and then inserts them before slide four in the active presentation.
@@ -65,5 +68,7 @@ ActivePresentation.Slides.Paste 4
 
 
 [Slides Object](PowerPoint.Slides.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,6 +28,8 @@ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.m
 
 Use the **Paste** method to paste the contents of the Clipboard.
 
+If any shape in the range is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## Example
 
@@ -49,5 +51,7 @@ End With
 
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

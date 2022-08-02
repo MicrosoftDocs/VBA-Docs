@@ -78,6 +78,8 @@ The  _EmbedFonts_ parameter value can be one of these **MsoTriState** constants.
 |**msoTriStateMixed**|Embedded fonts are a mixture of TrueType and non-TrueType. The default. |
 |**msoTrue**|TrueType fonts are embedded.|
 
+If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 ## Example
 
 This example saves a copy of the active presentation under the name "New Format Copy.ppt." By default, this copy is saved in the format of a presentation in the current version of PowerPoint. The presentation is then saved as a PowerPoint 4.0 file named "Old Format Copy."
@@ -95,5 +97,7 @@ End With
 
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

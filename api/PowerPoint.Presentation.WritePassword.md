@@ -29,6 +29,11 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 String
 
 
+## Remarks
+
+If the presentation is not fully downloaded, the setting of this property fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## Example
 
 This example sets the password for saving changes to the active presentation.
@@ -47,5 +52,7 @@ End Sub
 
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
