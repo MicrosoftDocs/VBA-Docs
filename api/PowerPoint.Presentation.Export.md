@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Export
 ms.assetid: e114d86d-0400-35d3-fc89-d93748993874
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 

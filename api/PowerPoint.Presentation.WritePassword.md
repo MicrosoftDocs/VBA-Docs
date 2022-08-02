@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.WritePassword
 ms.assetid: 42381e81-c5d0-3db1-f214-6619bbc6711f
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 

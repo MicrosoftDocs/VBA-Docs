@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.View.PasteSpecial
 ms.assetid: 074fb28f-19c6-3c0f-21ae-75012614485e
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 

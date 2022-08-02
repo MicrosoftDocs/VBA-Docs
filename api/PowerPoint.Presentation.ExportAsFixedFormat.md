@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.ExportAsFixedFormat
 ms.assetid: bad3c9cb-49d7-2fdd-5110-9c1ed6491b08
-ms.date: 07/27/2022
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -140,5 +140,7 @@ End Sub
 
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

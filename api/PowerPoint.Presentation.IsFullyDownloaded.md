@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.IsFullyDownloaded
-ms.date: 07/27/2022
+ms.date: 08/02/2022
 ms.author: ononder
 ms.localizationpriority: medium
 ---

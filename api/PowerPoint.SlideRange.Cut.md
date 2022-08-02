@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Cut
 ms.assetid: 91d80a2b-e67a-290b-cb41-6bbeeb467d1b
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 

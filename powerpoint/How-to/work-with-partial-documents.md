@@ -4,7 +4,7 @@ keywords: vbapp10.chm583138
 f1_keywords:
 - vbapp10.chm583138
 ms.prod: powerpoint
-ms.date: 07/27/2022
+ms.date: 08/02/2022
 ms.author: ononder
 ms.localizationpriority: medium
 ---
@@ -80,6 +80,7 @@ The following is a list of impacted OM API calls which may return the error code
 |[ShapeRange.Cut](~/api/PowerPoint.ShapeRange.Cut.md)|
 |[ShapeRange.Copy](~/api/PowerPoint.ShapeRange.Copy.md)|
 |[Shapes.Paste](~/api/PowerPoint.Shapes.Paste.md)|
+|[Shapes.PasteSpecial](~/api/PowerPoint.Shapes.PasteSpecial.md)|
 |[Slide.Copy](~/api/PowerPoint.Slide.Copy.md)|
 |[Slide.Cut](~/api/PowerPoint.Slide.Cut.md)|
 |[Slide.Export](~/api/PowerPoint.Slide.Export.md)|

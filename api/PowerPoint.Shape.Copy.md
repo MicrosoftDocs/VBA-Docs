@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Copy
 ms.assetid: 41c82fd1-9ee7-c937-0a75-77b84c33c972
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 

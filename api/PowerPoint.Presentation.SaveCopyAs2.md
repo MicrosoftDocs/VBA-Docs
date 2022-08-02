@@ -8,7 +8,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SaveCopyAs2
 ms.author: lindalu
-ms.date: 09/18/2020
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
