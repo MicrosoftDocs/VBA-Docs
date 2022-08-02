@@ -25,7 +25,7 @@ Run-time error '-2147188128 (80048260)':
 
 ## Understanding the Fully Downloaded State
 
-To understand if a presentation is fully downloaded programmatically, you may query [Presentation.IsFullyDownloaded](~/api/PowerPoint.IsFullyDownloaded.md) property before calling any of the impacted APIs.
+To understand if a presentation is fully downloaded programmatically, you may query [Presentation.IsFullyDownloaded](~/api/PowerPoint.Presentation.IsFullyDownloaded.md) property before calling any of the impacted APIs.
 
 
 ```vb
