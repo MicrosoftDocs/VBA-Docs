@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-If the presentation is not fully downloaded, the setting of this property fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the presentation is not fully downloaded, the setting of this property fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example

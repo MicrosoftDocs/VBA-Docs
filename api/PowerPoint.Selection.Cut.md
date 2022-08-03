@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Selection](PowerPoint.Selection.md) o
 
 ## Remarks
 
-If the selected content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the selected content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example

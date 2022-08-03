@@ -75,7 +75,7 @@ The Link parameter can be one of these **MsoTriState** constants.
 |**msoFalse** The default. Does not create a link to the source file of the Clipboard contents.|
 |**msoTrue** Creates a link to the source file of the Clipboard contents.|
 
-If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the source content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.m
 
 ## Remarks
 
-If any shape in the range is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If any shape in the range is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example

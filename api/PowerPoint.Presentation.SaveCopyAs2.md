@@ -75,7 +75,7 @@ The _ReadOnlyRecommended_ parameter value can be one of these **MsoTriStat
 |**msoTriStateMixed**|The new file will have the same ReadOnlyRecommended state as the original. The default. |
 |**msoTrue**|The new file will be marked as ReadOnlyRecommended. |
 
-If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the presentation is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 ## Example
 

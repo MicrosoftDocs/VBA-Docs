@@ -72,7 +72,7 @@ The  _EmbedTrueTypeFonts_ parameter value can be one of these **MsoTriState** co
 |**msoTriStateMixed**|Embedded fonts are a mixture of TrueType and non-TrueType. The default. |
 |**msoTrue**|TrueType fonts are embedded.|
 
-If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the presentation is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 ## Example
 

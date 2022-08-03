@@ -50,7 +50,7 @@ profile must be one of the following **PpResampleMediaProfile** constants.
 |**ppResampleMediaProfileSmaller**|3|Smaller profile|
 |**ppResampleMediaProfileSmallest**|4|Smallest profile|
 
-If the media content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the media content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## See also

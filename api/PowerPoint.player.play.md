@@ -29,7 +29,7 @@ _expression_ A variable that represents a [Player](PowerPoint.Player.md) object.
 
 ## Remarks
 
-If the media content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the media content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
