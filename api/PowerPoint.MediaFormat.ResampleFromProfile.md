@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.ResampleFromProfile
 ms.assetid: f2d0ed29-82f1-e3f3-a4d9-e00a911176b3
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -50,9 +50,14 @@ profile must be one of the following **PpResampleMediaProfile** constants.
 |**ppResampleMediaProfileSmaller**|3|Smaller profile|
 |**ppResampleMediaProfileSmallest**|4|Smallest profile|
 
+If the media content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## See also
 
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

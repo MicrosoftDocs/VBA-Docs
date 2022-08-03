@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Password
 ms.assetid: 977876b7-b40f-de45-c259-e91744915085
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -27,6 +27,11 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 ## Return value
 
 String
+
+
+## Remarks
+
+If the presentation is not fully downloaded, the setting of this property fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example
@@ -55,5 +60,7 @@ End Sub
 
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

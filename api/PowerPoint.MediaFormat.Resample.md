@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.Resample
 ms.assetid: d1bb8b41-4640-c57c-83bc-3263376b425e
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -46,10 +46,14 @@ Nothing
 
  **Resample** ignores the values of parameters that are not applicable to the media.
 
+If the media content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## See also
 
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

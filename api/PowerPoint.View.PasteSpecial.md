@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.View.PasteSpecial
 ms.assetid: 074fb28f-19c6-3c0f-21ae-75012614485e
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -75,6 +75,9 @@ The Link parameter can be one of these **MsoTriState** constants.
 |**msoFalse** The default. Does not create a link to the source file of the Clipboard contents.|
 |**msoTrue** Creates a link to the source file of the Clipboard contents.|
 
+If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## Example
 
 The following example pastes a bitmap image as an icon into another window. This example assumes that there are two open windows and that a bitmap image in the first window is currently selected.
@@ -95,5 +98,7 @@ End Sub
 
 
 [View Object](PowerPoint.View.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Copy
 ms.assetid: 41c82fd1-9ee7-c937-0a75-77b84c33c972
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -27,6 +27,8 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 ## Remarks
 
 Use the **Paste** method to paste the contents of the Clipboard.
+
+If the shape is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example
@@ -49,5 +51,7 @@ End With
 
 
 [Shape Object](PowerPoint.Shape.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
