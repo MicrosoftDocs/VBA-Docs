@@ -39,7 +39,7 @@ CustomLayout
 
 ## Remarks
 
-If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+If the source content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## See also

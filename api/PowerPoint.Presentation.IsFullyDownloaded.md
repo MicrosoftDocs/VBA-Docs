@@ -24,11 +24,11 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 
 ## Remarks
 
-When you open a presentation with content that is large in size, PowerPoint may serve the document in parts as partial documents. This allows for documents to be opened, edited, and collaborated upon quickly, while the larger media parts (e.g., videos), continue to load in the background. Similarly, since media is handled separately from the rest of the document, collaboration is smoother when media is inserted during a collaboration session.
+When you open a presentation with content that is large in size, PowerPoint may serve the document in parts as partial documents. This allows you to open, edit, and collaborate on documents quickly, while the larger media parts (e.g., videos), continue to load in the background. Similarly, since media is handled separately from the rest of the document, collaboration is smoother when media is inserted during a collaboration session.
 
-Because certain content can be deferred initially, some actions can't be taken on that content until the deferred content (e.g., video) is loaded. Additionally, there are certain actions like Save As, Export to Video, etc. that won’t function until all the deferred content are downloaded. User initiated operations will display UI informing the user of download progress, but that’s not possible for programmatic operations.  If you programmatically attempt to call an API to execute an action in these cases, it will fail.
+Because certain content can be deferred initially, some actions can't be taken until the deferred content is loaded. Additionally, there are certain actions like Save As, Export to Video, etc. that won’t function until all the deferred content are downloaded. If you initiate one of these operations, PowerPoint will display UI informing you of the download progress, but that’s not possible for programmatic operations. If you programmatically attempt to call an API to execute an action while content is still downloading, it will fail.
 
-To understand this state programmatically, you may query **Presentation.IsFullyDownloaded** property before calling any of the impacted APIs and add error handling to capture the failure and retry the operation once the presentation is fully downloaded.
+To understand this state programmatically, you can query **Presentation.IsFullyDownloaded** property before you call any of the impacted APIs. Add error handling to capture any failures and retry the operation once the presentation is fully downloaded.
 
 ## Example
 
@@ -37,9 +37,9 @@ The following example displays a message indicating if the active presentation i
 
 ```vb
 If ActivePresentation.IsFullyDownloaded Then
-    MsgBox "Everything is downloaded"
+    MsgBox "Presentation is downloaded."
 Else
-    MsgBox "Not fully downloaded"
+    MsgBox "PowerPoint is still downloading the presentation."
 End If
 ```
 

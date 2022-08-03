@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ---
 
 
-# Work with Partial Documents
+# Work with partial documents
 
-When you open a presentation with content that is large in size, PowerPoint may serve the document in parts as partial documents. This allows for documents to be opened, edited, and collaborated upon quickly, while the larger media parts (e.g., videos), continue to load in the background. Similarly, since media is handled separately from the rest of the document, collaboration is smoother when media is inserted during a collaboration session.
+When you open a presentation with content that is large in size, PowerPoint may serve the document in parts as partial documents. This allows you to open, edit, and collaborate on documents quickly, while the larger media parts (e.g., videos), continue to load in the background. Similarly, since media is handled separately from the rest of the document, collaboration is smoother when media is inserted during a collaboration session.
 
-Because certain content can be deferred initially, some actions can't be taken on that content until the deferred content (e.g., video) is loaded. Additionally, there are certain actions like Save As, Export to Video, etc. that won’t function until all the deferred content are downloaded. User initiated operations will display UI informing the user of download progress, but that’s not possible for programmatic operations.  If you programmatically attempt to call an API to execute an action in these cases, it will fail with the following error message.
+Because certain content can be deferred initially, some actions can't be taken until the deferred content is loaded. Additionally, there are certain actions like Save As, Export to Video, etc. that won’t function until all the deferred content are downloaded. If you initiate one of these operations, PowerPoint will display UI informing you of the download progress, but that’s not possible for programmatic operations. If you programmatically attempt to call an API to execute an action while content is still downloading, it will fail.
 
 
 ```
@@ -23,24 +23,24 @@ Run-time error '-2147188128 (80048260)':
 ```
 
 
-## Understanding the Fully Downloaded State
+## Understand the fully downloaded state
 
 To understand if a presentation is fully downloaded programmatically, you may query [Presentation.IsFullyDownloaded](~/api/PowerPoint.Presentation.IsFullyDownloaded.md) property before calling any of the impacted APIs.
 
 
 ```vb
 If ActivePresentation.IsFullyDownloaded Then
-    MsgBox "Everything is downloaded"
+    MsgBox "Presentation download is complete."
 Else
-    MsgBox "Not fully downloaded"
+    MsgBox "PowerPoint is still downloading the presentation."
 End If
 ```
 
 
-## Handling Errors
+## Error handling
 
  You may also add some error handling to capture the failure and retry the operation once the presentation is fully downloaded. If the error value is `-2147188128` or `0x80048260`, the operation has failed because the presentation is not fully downloaded.
-**Err.Number** can be used as a key to identify these failures.
+Use **Err.Number** as a key to identify these failures, as show in the following example.
 
 
 ```vb
@@ -50,9 +50,9 @@ Sub TestCopySlide()
     Exit Sub
 eh:
     If Err.Number = -2147188128 Then
-        MsgBox "Cannot copy because the presentation is not fully downloaded"
+        MsgBox "Cannot copy because the presentation is not fully downloaded."
     Else
-        MsgBox "Failed due to reason other than incomplete parts: " & Err.Description
+        MsgBox "Failure is due to a reason other than incomplete download: " & Err.Description.
     End If
     Debug.Print Err.Number, Err.Description
 End Sub
