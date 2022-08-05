@@ -28,8 +28,8 @@ _expression_ A variable that represents an **[Application](PowerPoint.Applicatio
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MacroName_|Required|**String**|The name of the procedure to be run. The string can contain the following: a loaded presentation or add-in file name followed by an exclamation point (!), a valid module name followed by a period (.), and the procedure name. For example, the following is a valid MacroName value: "MyPres.ppt!Module1.Test."|
-| _safeArrayOfParams()_|Required|**Variant**|The argument to be passed to the procedure. You cannot specify an object for this argument, and you cannot use named arguments with this method. Arguments must be passed by position.|
+| _MacroName_|Required|**String**|The name of the procedure to be run. The string can contain the following: a loaded presentation or add-in file name followed by an exclamation point (!), a valid module name followed by a period (.), and the procedure name. For example, the following is a valid MacroName value: "MyPres.pptm!Module1.Test."|
+| _safeArrayOfParams()_|Optional|**Variant**|The argument to be passed to the procedure. You can specify an object for this argument. You cannot use named arguments with this method. Arguments must be passed by position.|
 
 ## Return value
 
@@ -65,6 +65,41 @@ Sub TestPass(x)
 End Sub
 ```
 
+In this example, the active window is passed as an object to the procedure ShowSlideName.
+
+```vb
+Sub Main()
+
+    Application.Run "ShowSlideName", ActiveWindow.View.Slide
+
+End Sub
+
+
+
+Sub ShowSlideName(oSld As Slide)
+
+    MsgBox oSld.Name
+
+End Sub
+```
+
+In this example, multiple arguments are passed to the procedure ShowData.
+
+```vb
+Sub Main()
+
+    Application.Run "ShowData", 100, "my text", True
+
+End Sub
+
+
+
+Sub ShowData(i As Integer, t As String, b As Boolean)
+
+    Debug.Print i, t, b
+
+End Sub
+```
 
 ## See also
 
