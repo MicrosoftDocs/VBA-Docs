@@ -16,6 +16,9 @@ ms.localizationpriority: medium
 
 **True** if remote DDE requests are ignored. Read/write **Boolean**.
 
+## Notes
+
+Setting this property has no effect as of **Excel 2013**
 
 ## Syntax
 

@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c
-ms.date: 11/24/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -68,8 +68,12 @@ The _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constant
 
 An error occurs if there is no data on the Clipboard when the **PasteSpecial** method is called.
 
+If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 ## See also
 
 [Shapes Object](PowerPoint.Shapes.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

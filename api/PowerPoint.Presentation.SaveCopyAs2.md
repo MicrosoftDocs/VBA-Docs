@@ -8,7 +8,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SaveCopyAs2
 ms.author: lindalu
-ms.date: 09/18/2020
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -75,6 +75,8 @@ The _ReadOnlyRecommended_ parameter value can be one of these **MsoTriStat
 |**msoTriStateMixed**|The new file will have the same ReadOnlyRecommended state as the original. The default. |
 |**msoTrue**|The new file will be marked as ReadOnlyRecommended. |
 
+If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 ## Example
 
 This example saves a copy of the active presentation under the name "New File.pptx" while removing the ReadOnlyRecommended flag.  
@@ -90,5 +92,7 @@ End With
 ## See also
 
 [Presentation Object](PowerPoint.Presentation.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

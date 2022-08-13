@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Cut
 ms.assetid: 0e86d67c-7d52-4f3a-4cdd-6363667600a1
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -22,6 +22,11 @@ Deletes the specified object and places it on the Clipboard.
 _expression_.**Cut**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
+
+
+## Remarks
+
+If any shape in the range is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 
 ## Example
@@ -44,5 +49,7 @@ End With
 
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

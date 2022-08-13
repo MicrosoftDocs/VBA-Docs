@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Paste
 ms.assetid: d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -37,9 +37,16 @@ _expression_ A variable that represents a [CustomLayouts](PowerPoint.CustomLayou
 CustomLayout
 
 
+## Remarks
+
+If the source content is not fully downloaded, this method fails, and an error occurs. For more information about partial documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+
 ## See also
 
 
 [CustomLayouts Object](PowerPoint.CustomLayouts.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

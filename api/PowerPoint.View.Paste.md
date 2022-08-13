@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Paste
 ms.assetid: e7878c74-92d7-8993-9b46-8647c1b59b15
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -37,6 +37,9 @@ Use the **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set th
 |Slide view or notes page view|Shapes, text, or entire slides. If you paste a slide from the Clipboard, an image of the slide will be inserted onto the slide, master, or notes page as an embedded object. If one shape is selected, the pasted text will be appended to the shape's text; if text is selected, the pasted text will replace the selection; if anything else is selected, the pasted text will be placed in it is own text frame. Pasted shapes will be added to the top of the z-order and won't replace selected shapes.|
 |Outline view|Text or entire slides. You cannot paste shapes into outline view. A pasted slide will be inserted before the slide that contains the cursor.|
 |Slide sorter view|Entire slides. You cannot paste shapes or text into slide sorter view. A pasted slide will be inserted at the cursor or after the last slide selected in the presentation.|
+
+If the source content is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## Example
 
@@ -73,5 +76,7 @@ End With
 
 
 [View Object](PowerPoint.View.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

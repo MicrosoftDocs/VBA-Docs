@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Copy
 ms.assetid: d781370d-8107-efaa-77ea-a7f1aa58737b
-ms.date: 06/08/2017
+ms.date: 08/02/2022
 ms.localizationpriority: medium
 ---
 
@@ -28,6 +28,8 @@ _expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md)
 
 Use the **Paste** method to paste the contents of the Clipboard.
 
+If any slide in the range is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
 
 ## Example
 
@@ -43,5 +45,7 @@ ActivePresentation.Slides(1).Copy
 
 
 [SlideRange Object](PowerPoint.SlideRange.md)
+
+[Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
