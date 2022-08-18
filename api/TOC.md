@@ -17803,7 +17803,7 @@
 ###### [HasTitleMaster](PowerPoint.Presentation.HasTitleMaster.md)
 ###### [HasVBProject](PowerPoint.Presentation.HasVBProject.md)
 ###### [InMergeMode](PowerPoint.Presentation.InMergeMode.md)
-###### [InMergeMode](PowerPoint.Presentation.IsFullyDownloaded.md)
+###### [IsFullyDownloaded](PowerPoint.Presentation.IsFullyDownloaded.md)
 ###### [LayoutDirection](PowerPoint.Presentation.LayoutDirection.md)
 ###### [Name](PowerPoint.Presentation.Name.md)
 ###### [NoLineBreakAfter](PowerPoint.Presentation.NoLineBreakAfter.md)
