@@ -16068,6 +16068,7 @@
 #### [Use control values while code is running](../powerpoint/How-to/use-control-values-while-code-is-running.md)
 #### [Use events with the Application object](../powerpoint/How-to/use-events-with-the-application-object.md)
 #### [Work with panes and views](../powerpoint/How-to/work-with-panes-and-views.md)
+#### [Work with partial documents](../powerpoint/How-to/work-with-partial-documents.md)
 #### [Work with shapes](../powerpoint/How-to/work-with-shapes-drawing-objects.md)
 #### [Work with tables](../powerpoint/How-to/work-with-tables.md)
 ### Object model
@@ -17802,6 +17803,7 @@
 ###### [HasTitleMaster](PowerPoint.Presentation.HasTitleMaster.md)
 ###### [HasVBProject](PowerPoint.Presentation.HasVBProject.md)
 ###### [InMergeMode](PowerPoint.Presentation.InMergeMode.md)
+###### [InMergeMode](PowerPoint.Presentation.IsFullyDownloaded.md)
 ###### [LayoutDirection](PowerPoint.Presentation.LayoutDirection.md)
 ###### [Name](PowerPoint.Presentation.Name.md)
 ###### [NoLineBreakAfter](PowerPoint.Presentation.NoLineBreakAfter.md)
