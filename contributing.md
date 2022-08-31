@@ -174,7 +174,7 @@ All of the articles in this repository use Markdown. A complete introduction (an
 
 ## Markup conventions & rules specifically for this repository
 
-See the Microsoft Docs contributor guide [Docs Markdown reference](/contribute/markdown-reference).
+See the [Docs Markdown reference](https://docs.microsoft.com/contribute/markdown-reference) in our contributor guide.
 
 ## FAQ
 

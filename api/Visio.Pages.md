@@ -16,7 +16,6 @@ ms.localizationpriority: medium
 
 Includes a **[Page](Visio.Page.md)** object for each drawing page in a document.
 
-
 ## Remarks
 
 To retrieve a **Pages** collection, use the **[Pages](visio.document.pages.md)** property of a **Document** object.
@@ -25,10 +24,9 @@ The default property of a **Pages** collection is **Item**.
 
 The order of items in a **Pages** collection is significant: if there are _n_ foreground pages in a document, the first _n_ pages in its **Pages** collection are foreground pages and are in order. The remaining pages in the collection are the background pages of the document; these are in no particular order.
 
-If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](https://docs.microsoft.com/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
+If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2019) reference, this collection maps to the following types:
 
 - **Microsoft.Office.Interop.Visio.IVPages**
-    
 
 ## Events
 
@@ -88,6 +86,5 @@ If your Visual Studio solution includes the [Microsoft.Office.Interop.Visio](htt
 - [ObjectType](Visio.Pages.ObjectType.md)
 - [PersistsEvents](Visio.Pages.PersistsEvents.md)
 - [Stat](Visio.Pages.Stat.md)
-
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
