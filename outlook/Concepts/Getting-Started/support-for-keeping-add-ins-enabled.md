@@ -43,7 +43,7 @@ For Outlook, the registry keys and settings are described in the following table
 |Values|Specify the value as follows:<br>0 = always disabled (blocked)<br>1 = always enabled<br>2 = configurable by the user and not blocked by the **Block all unmanaged add-ins** policy setting when enabled.|
 
 > [!NOTE]
-> -To obtain the ProgID for an add-in, use the Windows Registry Editor on the client computer where the add-in is installed. Locate and copy the registry key names as it is respecting capital and lower-case (Case sensitive) under : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\<application>\Addins or HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\<application>\Addins. 
+> To obtain the ProgID for an add-in, use the Windows Registry Editor on the client computer where the add-in is installed. Copy the registry key names under found: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\<application>\Addins or HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\<application>\Addins. Registry key names are **case sensitive**.
 > 
 > - If you disable or don't enable this policy setting, the list of managed add-ins will be deleted. If the **Block all unmanaged add-ins** policy setting is enabled, then all add-ins are blocked.
 > 
