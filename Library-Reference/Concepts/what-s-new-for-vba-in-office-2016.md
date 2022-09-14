@@ -15,8 +15,8 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 |Name|Description|
 |:-----|:-----|
-|**[CodeProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns the **Boolean** value **True** if the code project was created in Access 2013 and newer, and **False** if otherwise.|
-|**[CurrentProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns **True** if the current project was created in Access 2013 and onwards and **False** if the current project was created prior to Access 2013. Read-only **Boolean**.|
+|**[CodeProject.IsSQLBackend property (Access)](../../api/Access.CodeProject.IsSQLBackend.md)**|Returns the **Boolean** value **True** if the code project was created in Access 2013 and newer, and **False** if otherwise.|
+|**[CurrentProject.IsSQLBackend property (Access)](../../access/Concepts/Miscellaneous/currentproject-issqlbackend-property-access.md)**|Returns **True** if the current project was created in Access 2013 and onwards and **False** if the current project was created prior to Access 2013. Read-only **Boolean**.|
 
 ## Excel
 
