@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ---
 # Command function
 
-Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the [command line](../../Glossary/vbe-glossary.md#command-line) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
+Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the [command line](../../Glossary/vbe-glossary.md#command-line) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is available in Microsoft Access, but not in other Microsoft Office applications.
 
 ## Syntax
 
@@ -30,7 +30,7 @@ To find how command line arguments can be changed in the user interface of the a
 
 ## Example
 
-This example uses the **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
+This example uses the **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Available in Microsoft Access, but not in other Microsoft Office applications.
 
 ```vb
 Function GetCommandLine(Optional MaxArgs)
