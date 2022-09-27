@@ -4,7 +4,7 @@ We no longer have resources to respond to new issues. We welcome PRs that includ
 
 ## Get Office VBA support on Microsoft Q&A
 
-There is a new forum on Microsoft Q&A for your VBA questions. To ask the developer community questions about your VBA code, go to the [Microsoft Q&A office-vba-dev forum](https://docs.microsoft.com/en-us/answers/questions/topics/single/192523.html).
+There is a new forum on Microsoft Q&A for your VBA questions. To ask the developer community questions about your VBA code, go to the [Microsoft Q&A office-vba-dev forum](https://learn.microsoft.com/answers/questions/topics/single/192523.html).
 
 ## Join the Microsoft 365 Developer Program
 
@@ -21,6 +21,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-The published articles for this repo are available at [Office VBA Reference](https://docs.microsoft.com/office/vba/api/overview/).
+The published articles for this repo are available at [Office VBA Reference](https://learn.microsoft.com/office/vba/api/overview/).
 
 For information about how to contribute to this documentation, see [Contributing](contributing.md).
