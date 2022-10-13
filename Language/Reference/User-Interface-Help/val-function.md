@@ -41,7 +41,6 @@ Val("&HFFFF")
 > [!NOTE] 
 > The **Val** function recognizes only the period ( **.** ) as a valid decimal separator. When different decimal separators are used, as in international applications, use **CDbl** instead to convert a string to a number.
 
-
 ## Example
 
 This example uses the **Val** function to return the numbers contained in a string.
@@ -52,6 +51,9 @@ MyValue = Val("2457")    ' Returns 2457.
 MyValue = Val(" 2 45 7")    ' Returns 2457.
 MyValue = Val("24 and 57")    ' Returns 24.
 ```
+
+> [!NOTE] 
+> The **Val** function recognizes deprecated data type suffixes prior to conversion and may cause a type mismatch error to be raised. For example, fifty percent represented as the string "50%" will convert as expected to 50 but Val("50.5%") will raise an error because the percentage symbol is seen as a suffix to declare the Data Type as an Integer, which it is not in this case. The full list of data type suffixes comprises Single ( **!** ), Currency ( **@** ), Double ( **#** ), String ( **$** ), Integer ( **%** ), Long ( **&** ) and LongLong ( **^** ) for 64-bit hosts.
 
 ## See also
 
