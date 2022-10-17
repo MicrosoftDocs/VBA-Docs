@@ -29,7 +29,7 @@ The **Like** operator syntax has these parts:
 
 ## Remarks
 
-Use the **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use wildcard characters to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example, `Like "Sm*")`.
+Use the **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use [wildcard characters](https://support.microsoft.com/en-us/office/use-wildcards-in-queries-and-parameters-in-access-ec057a45-78b1-4d16-8c20-242cde582e0b) to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example, `Like "Sm*")`.
 
 In an expression, you can use the **Like** operator to compare a field value to a string expression. For example, if you enter `Like "C*"` in an SQL query, the query returns all field values beginning with the letter C. In a parameter query, you can prompt the user for a pattern to search for.
 
