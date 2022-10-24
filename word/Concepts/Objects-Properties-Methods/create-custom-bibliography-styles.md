@@ -11,10 +11,10 @@ ms.localizationpriority: high
 
 Create a custom bibliography style in Word by learning the steps (and XML code) you need to construct a simple custom style. Also, learn to make a more complex style file. Before we start, there is some information that you need to know:
 
-The bibliography sources you create are all listed in the following file: \Microsoft\Bibliography\Sources.xml.
+The bibliography sources you create are all listed in the following local file: %AppData%\Microsoft\Bibliography\Sources.xml.
 
 > [!NOTE] 
-> The \Bibliography\Sources.xml file won't exist until you create your first bibliography source in Word. All bibliography styles are stored in \Microsoft\Bibliography\Style.
+> The Sources.xml file won't exist until you create your first bibliography source in Word. All bibliography styles are stored in the user's profile here:  %AppData%\Microsoft\Bibliography\Style.
 
 ## Building a basic bibliography style
 <a name="Biblio_BuildBasicStyle"> </a>
