@@ -18,7 +18,7 @@ Used by the **[ReadyState](Access.WebBrowserControl.ReadyState.md)** property to
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**acComplete**|3|The web browser control has finished loading the new document and all its contents.|
+|**acComplete**|4|The web browser control has finished loading the new document and all its contents.|
 |**acInteractive**|3|The web browser control has loaded enough of the document to allow limited user interaction, such as choosing hyperlinks that have been displayed.|
 |**acLoaded**|2|The web browser control has loaded and initialized the new document, but has not yet received all the document data.|
 |**acLoading**|1|The web browser control is loading a new document.|
