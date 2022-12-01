@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Presentation.DefaultLanguageID property (PowerPoint)
 
-Returns or sets the default language of a presentation. Read/write.
+Returns or sets the default language of presentations. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,9 @@ MsoLanguageID
 
 ## Remarks
 
-When you set the **DefaultLanguageID** property for a presentation, you set it for all open and all subsequent new presentations as well.
+Setting the **DefaultLanguageID** property does not affect pre-existing objects within that presentation and does set the language for newly created objects.
+
+When you set the **DefaultLanguageID** property for a single presentation, you set it for all new and all subsequently opened presentations as well.
 
 The value of the **DefaultLanguageID** property can be one of these **MsoLanguageID** constants.
 
@@ -218,7 +220,7 @@ The value of the **DefaultLanguageID** property can be one of these **MsoLanguag
 
 ## Example
 
-This example sets the default language for the active presentation, all open presentations, and all subsequent new presentations, to German.
+This example sets the default language for the active presentation, all new presentations, and all subsequently opened presentations, to German.
 
 
 ```vb

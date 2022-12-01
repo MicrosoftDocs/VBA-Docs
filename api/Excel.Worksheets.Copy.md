@@ -35,6 +35,8 @@ _expression_ A variable that represents a **[Worksheets](Excel.Worksheets.md)** 
 
 If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the copied sheet.
 
+If the sheet specified by _After_ is hidden and there are no visible sheets after it, the new sheets will be copied after the last visible sheet rather than after the specified one. Making the sheet specified by _After_ visible before the copy allows to get the new sheets in the correct position.
+
 
 ## Example
 
