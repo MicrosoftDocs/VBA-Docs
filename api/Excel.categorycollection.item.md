@@ -4,6 +4,8 @@ keywords: vbaxl10.chm948075
 f1_keywords:
 - vbaxl10.chm948075
 ms.prod: excel
+api_name:
+- Excel.CategoryCollection.Item
 ms.assetid: 799a7fc6-e44b-e860-2806-2f816008a905
 ms.date: 04/16/2019
 ms.localizationpriority: medium
