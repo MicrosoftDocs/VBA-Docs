@@ -1,11 +1,11 @@
 ---
-title: WorksheetFunction.**FindB** method (Excel)
+title: WorksheetFunction.FindB method (Excel)
 keywords: vbaxl10.chm137154
 f1_keywords:
 - vbaxl10.chm137154
 ms.prod: excel
 api_name:
-- Excel.WorksheetFunction.**FindB**
+- Excel.WorksheetFunction.FindB
 ms.assetid: 463309cb-7747-6ee4-899b-677222e2dbda
 ms.date: 05/22/2019
 ms.localizationpriority: medium
