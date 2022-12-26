@@ -30,7 +30,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileDialogType_|Required| **MsoFileDialogType**|The type of dialog.|
+| _FileDialogType_|Required| **[MsoFileDialogType](Office.MsoFileDialogType.md)**|The type of dialog.|
 
 ## Example
 
