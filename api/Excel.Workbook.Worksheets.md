@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Workbook.Worksheets property (Excel)
 
-Returns a **[Sheets](Excel.Sheets.md)** collection that represents all the worksheets in the specified workbook. Read-only **Sheets** object.
+Returns a **[Worksheets](Excel.Worksheets.md)** collection that represents all the worksheets in the specified workbook. Read-only **Worksheets** object.
 
 
 ## Syntax

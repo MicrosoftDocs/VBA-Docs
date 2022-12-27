@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddDataBar method (Excel)
+title: FormatConditions.AddDatabar method (Excel)
 keywords: vbaxl10.chm510080
 f1_keywords:
 - vbaxl10.chm510080
@@ -12,21 +12,21 @@ ms.localizationpriority: medium
 ---
 
 
-# FormatConditions.AddDataBar method (Excel)
+# FormatConditions.AddDatabar method (Excel)
 
-Returns a **[DataBar](Excel.DataBar.md)** object representing a data bar conditional formatting rule for the specified range.
+Returns a **[Databar](Excel.Databar.md)** object representing a data bar conditional formatting rule for the specified range.
 
 
 ## Syntax
 
-_expression_.**AddDataBar**
+_expression_.**AddDatabar**
 
 _expression_ A variable that represents a **[FormatConditions](Excel.FormatConditions.md)** object.
 
 
 ## Return value
 
-**DataBar** object
+**Databar** object
 
 
 ## Remarks
