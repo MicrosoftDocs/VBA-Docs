@@ -60,7 +60,7 @@ Sub TestForNumbers()
    MsgBox "Cell " & rng.Address & " contains a non-numeric value." 
    Exit For 
   End If 
- Next c 
+ Next rng 
 End Sub
 ```
 
