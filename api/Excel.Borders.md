@@ -19,7 +19,7 @@ A collection of four **[Border](Excel.Border(object).md)** objects that represen
 
 ## Remarks
 
-Use the **Borders** property to return the **Borders** collection, which contains all four borders.
+Use the **Borders** property to return the **Borders** collection, which contains all four borders when used with a single cell. But if **Borders** property is used on a range object then **Borders** property returns **Borders** collection, which contains all four borders of a cell , plus **xlInsideHorizontal** and **xlInsideVertical** i.e. it sets inside as well as outside borders of a range selection.
 
 You can set border properties for an individual border only with **Range** and **Style** objects. Other bordered objects, such as error bars and series lines, have a border that's treated as a single entity, regardless of how many sides it has. For these objects, you must return and set properties for the entire border as a unit. For more information, see the **Border** object.
 
@@ -30,6 +30,12 @@ The following example adds a double border to cell A1 on worksheet one.
 
 ```vb
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
+```
+
+The following example adds a double border on the inside as well as outside to a range selection from A1 to C3 on worksheet one.
+
+```vb
+Worksheets(1).Range("A1:C3").Borders.LineStyle = xlDouble
 ```
 
 Use **Borders** (_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1 to red.
