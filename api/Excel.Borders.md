@@ -19,7 +19,7 @@ A collection of four **[Border](Excel.Border(object).md)** objects that represen
 
 ## Remarks
 
-Use the **Borders** property to return the **Borders** collection, which contains all four borders when used with a single cell. But if **Borders** property is used on a range object then **Borders** property returns **Borders** collection, which contains all four borders of a cell , plus **xlInsideHorizontal** and **xlInsideVertical** i.e. it sets inside as well as outside borders of a range selection.
+Use the **Borders** property to return the **Borders** collection, which contains all four borders. You can apply different borders to each side of a cell or range. For more information how to apply borders to a range of cells, see **[Range.Borders](Excel.Range.Borders.md)** property.
 
 You can set border properties for an individual border only with **Range** and **Style** objects. Other bordered objects, such as error bars and series lines, have a border that's treated as a single entity, regardless of how many sides it has. For these objects, you must return and set properties for the entire border as a unit. For more information, see the **Border** object.
 
