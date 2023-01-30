@@ -32,12 +32,6 @@ The following example adds a double border to cell A1 on worksheet one.
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
-The following example adds a double border on the inside as well as outside to a range selection from A1 to C3 on worksheet one.
-
-```vb
-Worksheets(1).Range("A1:C3").Borders.LineStyle = xlDouble
-```
-
 Use **Borders** (_index_), where _index_ identifies the border, to return a single **Border** object. _Index_ can be one of the following **[XlBordersIndex](Excel.XlBordersIndex.md)** constants: **xlDiagonalDown**, **xlDiagonalUp**, **xlEdgeBottom**, **xlEdgeLeft**, **xlEdgeRight**, **xlEdgeTop**, **xlInsideHorizontal**, or **xlInsideVertical**.
 
 The following example sets the color of the bottom border of cells A1:G1 to red.
