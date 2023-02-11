@@ -14,11 +14,11 @@ ms.localizationpriority: medium
 
 1. Place a control on your form and customize it.
     
-2. For example, to create an **OK** button, place a **[CommandButton](../../reference/user-interface-help/commandbutton-control.md)** on the form, set its **[Caption](../../reference/user-interface-help/caption-propert-microsoft-forms.md)** property to **OK** and set its **Default** property to **True**.
+2. For example, to create an **OK** button, place a **\[CommandButton](../../reference/user-interface-help/commandbutton-control.md)** on the form, set its **\[Caption](../../reference/user-interface-help/caption-propert-microsoft-forms.md)** property to **OK** and set its **Default** property to **True**.
     
 3. Select the customized control.
     
-4. Drag the control to the **[Toolbox](../../reference/user-interface-help/toolbox.md)**.
+4. Drag the control to the **\[Toolbox](../../reference/user-interface-help/toolbox.md)**.
     
 > [!NOTE] 
 > When you drag a control onto the Toolbox, you only transfer property values. Any code you have written for that control does not transfer with the control. You must write new code for the icon or copy code from the control on the form to the control on the Toolbox.
