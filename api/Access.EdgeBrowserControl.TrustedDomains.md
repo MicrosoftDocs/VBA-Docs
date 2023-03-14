@@ -21,7 +21,7 @@ Read/write. Allows you to specify a **table name** who's first column contains d
 
 _expression_.**TrustedDomains**
 
-_expression_ A variable that represents a **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
+_expression_ A variable that represents an **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
 
 ## Remarks
 If the **Control Source** is bound to a field, the browser will already be allowed to navigate to those values. This property is useful if you want to allow redirects that happen for example during logins, or to allow links to other domains on the starting web page to work
