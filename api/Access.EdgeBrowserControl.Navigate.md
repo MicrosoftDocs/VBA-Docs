@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[EdgeBrowserControl](Access.EdgeBro
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _url_|Required|**String**|Url to be navigated to|
+| _url_|Required|**String**|Contains the URL to be navigated to.|
 
 
 ## Remarks
