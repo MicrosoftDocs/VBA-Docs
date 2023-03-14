@@ -33,7 +33,7 @@ _expression_ A variable that represents a **[EdgeBrowserControl](Access.EdgeBrow
 
 ## Remarks
 
-This method does not modify the **Control Source** of the browser
+This method does not modify the **Control Source** of the browser.
 
 
 
