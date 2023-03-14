@@ -21,7 +21,7 @@ ExecuteJavascripts the specified object to the coordinates specified by the argu
 
 _expression_.**ExecuteJavascript** (_script_)
 
-_expression_ A variable that represents a **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
+_expression_ A variable that represents an **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
 
 
 ## Parameters
