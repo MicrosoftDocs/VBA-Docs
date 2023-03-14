@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EdgeBrowserControl.Navigate method (Access)
 
-Navigates the specified browser to the url specified
+Navigates the specified browser to the target URL.
 
 
 ## Syntax
