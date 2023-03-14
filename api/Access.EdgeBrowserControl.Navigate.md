@@ -21,7 +21,7 @@ Navigates the specified browser to the target URL.
 
 _expression_.**Navigate** (_url_)
 
-_expression_ A variable that represents a **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
+_expression_ A variable that represents an **[EdgeBrowserControl](Access.EdgeBrowserControl.md)** object.
 
 
 ## Parameters
