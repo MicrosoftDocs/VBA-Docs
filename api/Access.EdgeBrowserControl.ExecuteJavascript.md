@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[EdgeBrowserControl](Access.EdgeBrow
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _script_|Required|**String**|A string of javascript to be executed inside the browser control|
+| _script_|Required|**String**|A string of JavaScript to be executed inside the browser control.|
 
 ## Remarks
 
