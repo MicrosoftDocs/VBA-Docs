@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # EdgeBrowserControl.ExecuteJavascript method (Access)
 
-ExecuteJavascripts the specified object to the coordinates specified by the argument values.
+The ExecuteJavascript method executes JavaScript inside the browser control.
 
 
 ## Syntax
