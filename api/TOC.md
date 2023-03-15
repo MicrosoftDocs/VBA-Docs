@@ -1591,9 +1591,9 @@
 ###### [NavigateError](Access.EdgeBrowserControl.NavigateError.md)
 ##### Methods
 ###### [ExecuteJavascript](Access.EdgeBrowserControl.ExecuteJavascript.md)
-###### [RetrieveJavascriptValue](Access.EdgeBrowserControl.RetrieveJavascriptValue.md)
 ###### [Navigate](Access.EdgeBrowserControl.Navigate.md)
 ###### [Refresh](Access.EdgeBrowserControl.Refresh.md)
+###### [RetrieveJavascriptValue](Access.EdgeBrowserControl.RetrieveJavascriptValue.md)
 ##### Properties
 ###### [TrustedDomains](Access.EdgeBrowserControl.TrustedDomains.md)
 #### [EmptyCell object](Access.EmptyCell.md)
