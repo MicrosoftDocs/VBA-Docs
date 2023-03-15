@@ -251,7 +251,7 @@ Close up the file with the following lines.
 
 
 
-```vb
+```xml
 <xsl:template match="text()" /> </xsl:stylesheet>
 ```
 
@@ -316,7 +316,7 @@ Let's start by changing the citation. Here is the code for citations from last t
 Declare a new variable to help determine whether a corporate author is available. This variable is a count of the number of times the corporate author field exists in the source.
 
 
-```vb
+```xml
 <!--Defines the output of the Citation-->
 <html xmlns="https://www.w3.org/TR/REC-html40">
    <!--Count the number of Corporate Authors (can only be 0 or 1)-->

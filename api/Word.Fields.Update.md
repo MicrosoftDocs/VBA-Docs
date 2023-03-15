@@ -33,6 +33,7 @@ Long
 
 Returns 0 (zero) if no errors occur when the fields are updated, or returns a **Long** that represents the index of the first field that contains an error.
 
+Remark: When using this with Word 2016 and possibly with others, the number may be incorrect.
 
 ## Example
 

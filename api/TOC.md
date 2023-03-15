@@ -1584,6 +1584,18 @@
 ###### [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md)
 ###### [TransferSQLDatabase](Access.DoCmd.TransferSQLDatabase.md)
 ###### [TransferText](Access.DoCmd.TransferText.md)
+#### [EdgeBrowserControl object](Access.EdgeBrowserControl.md)
+##### Events
+###### [BeforeNavigate](Access.EdgeBrowserControl.BeforeNavigate.md)
+###### [DocumentComplete](Access.EdgeBrowserControl.DocumentComplete.md)
+###### [NavigateError](Access.EdgeBrowserControl.NavigateError.md)
+##### Methods
+###### [ExecuteJavascript](Access.EdgeBrowserControl.ExecuteJavascript.md)
+###### [Navigate](Access.EdgeBrowserControl.Navigate.md)
+###### [Refresh](Access.EdgeBrowserControl.Refresh.md)
+###### [RetrieveJavascriptValue](Access.EdgeBrowserControl.RetrieveJavascriptValue.md)
+##### Properties
+###### [TrustedDomains](Access.EdgeBrowserControl.TrustedDomains.md)
 #### [EmptyCell object](Access.EmptyCell.md)
 ##### Methods
 ###### [Move](Access.EmptyCell.Move.md)

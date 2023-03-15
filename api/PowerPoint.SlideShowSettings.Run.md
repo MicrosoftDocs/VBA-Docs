@@ -33,6 +33,11 @@ SlideShowWindow
 
 To run a custom slide show, set the **RangeType** property to **ppShowNamedSlideShow**, and set the **SlideShowName** property to the name of the custom show you want to run.
 
+> [!NOTE] 
+> This method has a different set of parameters on Microsoft PowerPoint for Mac:
+> 
+> `Run([pSSWin AS SlideShowWindow], [pPVWin As PresenterViewWindow], [isPresenter As Boolean = False]) As Object`
+
 
 ## Example
 
