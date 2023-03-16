@@ -26,7 +26,7 @@ _expression_ Required. A variable that represents a [Range](Word.Range.md) objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **wdInformation**|The information type.|
+| _Type_|Required| **[wdInformation](Word.WdInformation.md)**|The information type.|
 
 ## Example
 
