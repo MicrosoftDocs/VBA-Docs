@@ -97,7 +97,6 @@ Use the **[ControlSource](Access.WebBrowserControl.ControlSource.md)** property 
 - [LeftPadding](Access.WebBrowserControl.LeftPadding.md)
 - [LocationURL](Access.WebBrowserControl.LocationURL.md)
 - [Name](Access.WebBrowserControl.Name.md)
-- [Object](Access.WebBrowserControl.Object.md)
 - [OldValue](Access.WebBrowserControl.OldValue.md)
 - [OnBeforeNavigate](Access.WebBrowserControl.OnBeforeNavigate.md)
 - [OnDocumentComplete](Access.WebBrowserControl.OnDocumentComplete.md)
