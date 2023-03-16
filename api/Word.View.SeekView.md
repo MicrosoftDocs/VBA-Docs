@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # View.SeekView property (Word)
 
-Returns or sets the document element displayed in print layout view. Read/write **WdSeekView**.
+Returns or sets the document element displayed in print layout view. The property may be set to any of the **[WdSeekView](Word.WdSeekView.md)** constants. Read/write **WdSeekView**.
 
 
 ## Syntax
