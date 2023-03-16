@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 Inserts the specified text.
 
 > [!IMPORTANT]
-> This method has changed. Using VBA Selection commands like `Selection.BoldRun` on user selection with Comments no longer applies bold formatting on user-selected text or `Selection.TypeTxt` command or on user selection with Comments no longer inserts text.
+> This method has changed. Using VBA Selection commands like `Selection.BoldRun` on user selection with Comments no longer applies bold formatting on user-selected text or `Selection.TypeText` command or on user selection with Comments no longer inserts text.
 
 ## Syntax
 
