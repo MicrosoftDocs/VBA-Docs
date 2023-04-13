@@ -38,7 +38,6 @@
     "globalMetadata": {
       "uhfHeaderId": "MSDocsHeader-VBA",
       "breadcrumb_path": "/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
       "ms.suite": "office",
       "ms.technology": "vba",
       "ms.author": "o365devx",
