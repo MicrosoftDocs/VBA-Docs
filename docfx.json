@@ -37,8 +37,7 @@
     "externalReference": [],
     "globalMetadata": {
       "uhfHeaderId": "MSDocsHeader-VBA",
-      "breadcrumb_path": "/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
+      "breadcrumb_path": "/office/vba/breadcrumb/toc.json",
       "ms.suite": "office",
       "ms.technology": "vba",
       "ms.author": "o365devx",
