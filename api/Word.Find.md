@@ -45,8 +45,6 @@ myRange.Find.Execute FindText:="hi", ReplaceWith:="hello", _
  Replace:=wdReplaceAll
 ```
 
-Remarks
-
 If you've gotten to the **Find** object from the **Selection** object, the selection is changed when text matching the find criteria is found. The following example selects the next occurrence of the word "blue."
 
 
