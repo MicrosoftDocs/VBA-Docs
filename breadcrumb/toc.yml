@@ -1,3 +1,31 @@
-- name: VBA-Docs
-  tocHref: /
-  topicHref: /
+- name: VBA
+  tocHref: /office/vba/
+  topicHref: /office/vba/
+  items:
+  - name: Access
+    tocHref: /office/vba/api/overview/access/
+    topicHref: /office/vba/api/overview/access/
+  - name: Excel
+    tocHref: /office/vba/api/overview/excel/
+    topicHref: /office/vba/api/overview/excel/
+  - name: Office for Mac
+    tocHref: /office/vba/api/overview/office-mac/
+    topicHref: /office/vba/api/overview/office-mac/
+  - name: Outlook
+    tocHref: /office/vba/api/overview/outlook/
+    topicHref: /office/vba/api/overview/outlook/
+  - name: PowerPoint
+    tocHref: /office/vba/api/overview/powerpoint/
+    topicHref: /office/vba/api/overview/powerpoint/
+  - name: Project
+    tocHref: /office/vba/api/overview/project/
+    topicHref: /office/vba/api/overview/project/
+  - name: Publisher
+    tocHref: /office/vba/api/overview/publisher/
+    topicHref: /office/vba/api/overview/publisher/
+  - name: Visio
+    tocHref: /office/vba/api/overview/visio/
+    topicHref: /office/vba/api/overview/visio/
+  - name: Word
+    tocHref: /office/vba/api/overview/word/
+    topicHref: /office/vba/api/overview/word/
