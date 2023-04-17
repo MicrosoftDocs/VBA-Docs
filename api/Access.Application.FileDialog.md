@@ -34,6 +34,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 The **msoFileDialogOpen** and **msoFileDialogSaveAs** constants are not supported in Microsoft Access.
 
+Note that when a file is selected using the File open Dialog, the directory containing the selected file will become the current directory for the process. This means that the directory will be locked until the current diectory is changed, or the process terminates. This will prevent the directory from being deleted, moved, or renamed.
 
 ## Example
 

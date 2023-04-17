@@ -49,7 +49,7 @@ When the variable pointing to the **Application** object goes out of scope, the 
 ```vb
 ' Enter the following in the Declarations section of the module. 
 Dim appAccess As Access.Application 
- 
+
 Sub CreateForm() 
  Const strConPathToSamples = "C:\Program Files\Microsoft Office\Office12\Samples\" 
  
