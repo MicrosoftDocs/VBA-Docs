@@ -39,6 +39,8 @@ When the **MultiRow** property is set to **True**, the number of rows is determi
 
 When the **MultiRow** property is set to **False** and the width of the tabs exceeds the width of the control, navigation buttons appear on the right side of the tab control. Use the navigation buttons to scroll through all the tabs on the tab control.
 
+> [!NOTE] 
+> The **MultiRow** property is not supported when the **[UseTheme](Access.TabControl.UseTheme.md)** property it set to "Yes."
 
 ## Example
 
