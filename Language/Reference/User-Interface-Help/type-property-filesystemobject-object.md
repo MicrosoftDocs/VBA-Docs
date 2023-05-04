@@ -25,12 +25,12 @@ The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.
 The following code illustrates the use of the **Type** property to return a folder type. In this example, try providing the path of the Recycle Bin or other unique folder to the procedure.
 
 ```vb
-Sub ShowFileSize(filespec)
+Sub ShowFileType(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(filespec)
     s = UCase(f.Name) & " is a " & f.Type 
-    MsgBox s, 0, "File Size Info"
+    MsgBox s, 0, "File Type Info"
 End Sub
 ```
 
