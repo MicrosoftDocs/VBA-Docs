@@ -28,11 +28,11 @@ _expression_ A variable that represents a **[CommandButton](Access.CommandButton
 
 The **PictureType** property uses the following settings.
 
-|Setting|Description|
-|:-----|:-----|
-|0|(Default) The picture is embedded in the object and becomes part of the database file.|
-|1|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture on the disk.|
-|2|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture within the database.|
+|Setting|Value|Meaning|
+|:-----|:-----|:-----|
+|Embedded (Default)|0|The picture is embedded in the object and becomes part of the database file.|
+|Linked|1|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture on the disk.|
+|Shared|2|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture within the database.|
 
 This property can be set only in form Design view or report Design view.
 
