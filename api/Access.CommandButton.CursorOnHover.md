@@ -1,8 +1,8 @@
 ---
 title: CommandButton.CursorOnHover property (Access)
-keywords: vbaac10.chm10541
+keywords: vbaac10.chm5864
 f1_keywords:
-- vbaac10.chm10541
+- vbaac10.chm5864
 ms.prod: access
 api_name:
 - Access.CommandButton.CursorOnHover
