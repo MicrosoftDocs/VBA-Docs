@@ -174,7 +174,7 @@ All of the articles in this repository use Markdown. A complete introduction (an
 
 ## Markup conventions & rules specifically for this repository
 
-See the [Docs Markdown reference](https://learn.microsoft.com/contribute/markdown-reference) in our contributor guide.
+See the [Docs Markdown reference](/contribute/markdown-reference) in our contributor guide.
 
 ## FAQ
 
@@ -205,8 +205,8 @@ Pull requests are typically reviewed within 10 business days.
 * To learn more about Markdown, go to the Markdown creator's site [Daring Fireball].
 * To learn more about using Git and GitHub, first check out the [GitHub Help].
 
-[GitHub Home](http://github.com)
-[GitHub Help](http://help.github.com/)
+[GitHub Home](https://github.com)
+[GitHub Help](https://help.github.com/)
 [Set up Git](https://help.github.com/articles/set-up-git/)
 [Daring Fireball - Markdown](http://daringfireball.net/projects/markdown/)
 [Daring Fireball](http://daringfireball.net/)
