@@ -29,6 +29,15 @@ Following are some suggestions for improving add-in performance:
  
 - Polling is an expensive operation, so always prefer an event-driven model over polling.
 
+> [!NOTE]
+> You cannot prevent Outlook from disabling add-ins in the following conditions:
+> 
+> - The add-in crashes Outlook.
+> 
+> - The add-in cannot be loaded.
+> 
+> In these cases, the cause of the crash or the loading failure need to be fixed together with the add-in owner.
+
 ## System administrator control over add-ins
 
 The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy **List of Managed Add-ins**.
