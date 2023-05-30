@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.Refresh method (Access)
-keywords: vbaac10.chm14387
+keywords: vbaac10.chm6170
 f1_keywords:
-- vbaac10.chm14387
+- vbaac10.chm6170
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.Refresh

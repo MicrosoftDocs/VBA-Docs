@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.RetrieveJavascriptValue method (Access)
-keywords: vbaac10.chm14387
+keywords: vbaac10.chm6169
 f1_keywords:
-- vbaac10.chm14387
+- vbaac10.chm6169
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.RetrieveJavascriptValue
