@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.NavigateError event (Access)
-keywords: vbaac10.chm143143
+keywords: vbaac10.chm5905
 f1_keywords:
-- vbaac10.chm143143
+- vbaac10.chm5905
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.NavigateError

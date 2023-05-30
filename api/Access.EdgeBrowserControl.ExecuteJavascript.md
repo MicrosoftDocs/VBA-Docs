@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.ExecuteJavascript method (Access)
-keywords: vbaac10.chm14387
+keywords: vbaac10.chm6167
 f1_keywords:
-- vbaac10.chm14387
+- vbaac10.chm6167
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.ExecuteJavascript

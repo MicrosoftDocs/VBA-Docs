@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.DocumentComplete event (Access)
-keywords: vbaac10.chm143141
+keywords: vbaac10.chm5903
 f1_keywords:
-- vbaac10.chm143141
+- vbaac10.chm5903
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.DocumentComplete
