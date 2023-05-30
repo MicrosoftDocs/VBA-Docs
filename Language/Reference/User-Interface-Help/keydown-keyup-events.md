@@ -73,7 +73,7 @@ The sequence of keyboard-related events is:
 
 ## See also
 
-- [Key code constants] (keycode-constants.md)
+- [Key code constants](keycode-constants.md)
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
