@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl object (Access)
-keywords: vbaac10.chm14346
+keywords: vbaac10.chm14853
 f1_keywords:
-- vbaac10.chm14346
+- vbaac10.chm14853
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl

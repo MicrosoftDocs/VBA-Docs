@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.TrustedDomains property (Access)
-keywords: vbaac10.chm14367,vbaac10.chm5911
+keywords: vbaac10.chm6171
 f1_keywords:
-- vbaac10.chm14367,vbaac10.chm5911
+- vbaac10.chm6171
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.TrustedDomains
