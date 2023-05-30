@@ -36,7 +36,7 @@ Following are some suggestions for improving add-in performance:
 > 
 > - The add-in cannot be loaded.
 > 
-> In these cases, the cause of the crash or the loading failure need to be fixed together with the add-in owner.
+> In these cases, the cause of the crash or the loading failure needs to be fixed together with the add-in owner.
 
 ## System administrator control over add-ins
 
