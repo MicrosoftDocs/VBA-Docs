@@ -38,7 +38,7 @@ This example finds and selects the next three-letter word that begins with "s" a
 ```vb
 With Selection.Find 
  .ClearFormatting 
- .Text = "s*t" 
+ .Text = "s?t" 
  .MatchAllWordForms = False 
  .MatchSoundsLike = False 
  .MatchFuzzy = False 
