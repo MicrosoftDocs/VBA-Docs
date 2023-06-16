@@ -7,7 +7,7 @@ ms.prod: word
 api_name:
 - Word.Range.FormattedText
 ms.assetid: 26221da8-e3d7-4da5-f23a-cd678d8ab2f5
-ms.date: 06/08/2017
+ms.date: 06/15/2023
 ms.localizationpriority: medium
 ---
 
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 
 This property returns a **Range** object with the character formatting and text from the specified range or selection. Paragraph formatting is included in the **Range** object if there is a paragraph mark in the range or selection.
 
-When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the **Collapse** method before using this property ([see the first example](https://learn.microsoft.com/en-us/office/vba/api/word.selection.formattedtext#example)).
+When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the **Collapse** method before using this property ([see the first example](/office/vba/api/word.selection.formattedtext#example)).
 
 
 ## See also
