@@ -35,23 +35,24 @@ The following code example verifies that a custom undo record is currently recor
 
 
 ```vb
-Dim objUndo As UndoRecord 
+Dim objUndo As UndoRecord
  
-Sub MyFunction() 
- Set objUndo = Application.UndoRecord 
- 
- ' Verify that a custom undo record is already being recorded, and if not, start one 
- If objUndo.IsRecordingCustomRecord = False Then 
- objUndo.StartCustomRecord("New Undo Record") 
- End If 
- ' Add some actions here. 
- objUndo.EndCustomRecord 
- 
- ' Verify that any custom undo action calls are currently active. 
- If objUndo.CustomRecordLevel > 0 Then 
- Debug.Print "An undo record call was not closed!" 
- End If 
+Sub MyFunction()
+    Set objUndo = Application.UndoRecord
+    
+    ' Verify that a custom undo record is already being recorded, and if not, start one
+    If objUndo.IsRecordingCustomRecord = False Then
+        objUndo.StartCustomRecord ("New Undo Record")
+    End If
+    ' Add some actions here.
+    objUndo.EndCustomRecord
+    
+    ' Verify that any custom undo action calls are currently active.
+    If objUndo.CustomRecordLevel > 0 Then
+        Debug.Print "An undo record call was not closed!"
+    End If
 End Sub
+
 ```
 
 
