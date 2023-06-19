@@ -1,8 +1,8 @@
 ---
 title: EdgeBrowserControl.BeforeNavigate event (Access)
-keywords: vbaac10.chm5901
+keywords: vbaac10.chm5900
 f1_keywords:
-- vbaac10.chm5901
+- vbaac10.chm5900
 ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.BeforeNavigate
