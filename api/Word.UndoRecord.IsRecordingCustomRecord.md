@@ -26,20 +26,18 @@ _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** 
 
 ## Example
 
-The following code example displays whether a custom undo action is currently being recorded.
+The following code example displays whether a custom undo action is currently being recorded. (For the full code see [CustomRecordLevel](Word.UndoRecord.CustomRecordLevel.md).)
 
 
 ```vb
-Dim objUndo as UndoRecord 
-Set objUndo = Application.UndoRecord 
+Dim objUndo As UndoRecord
+Set objUndo = Application.UndoRecord
  
-If objUndo.IsRecordingCustomRecord = False Then 
-objUndo.StartCustomRecord ("My Custom Undo") 
-End If 
-'Custom undo actions here 
-objUndo.EndCustomRecord 
-
-
+If objUndo.IsRecordingCustomRecord = False Then
+    objUndo.StartCustomRecord ("My Custom Undo")
+End If
+'Custom undo actions here
+objUndo.EndCustomRecord
 ```
 
 
