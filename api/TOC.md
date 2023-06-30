@@ -28938,7 +28938,7 @@
 ###### [Count](Word.ContentControlListEntries.Count.md)
 ###### [Creator](Word.ContentControlListEntries.Creator.md)
 ###### [Parent](Word.ContentControlListEntries.Parent.md)
-##### [ContentControlListEntry object](Word.ContentControlListEntry.md)
+#### [ContentControlListEntry object](Word.ContentControlListEntry.md)
 ##### Methods
 ###### [Delete](Word.ContentControlListEntry.Delete.md)
 ###### [MoveDown](Word.ContentControlListEntry.MoveDown.md)
@@ -28951,7 +28951,7 @@
 ###### [Parent](Word.ContentControlListEntry.Parent.md)
 ###### [Text](Word.ContentControlListEntry.Text.md)
 ###### [Value](Word.ContentControlListEntry.Value.md)
-##### [ContentControls object](Word.ContentControls.md)
+#### [ContentControls object](Word.ContentControls.md)
 ##### Methods
 ###### [Add](Word.ContentControls.Add.md)
 ###### [Item](Word.ContentControls.Item.md)
