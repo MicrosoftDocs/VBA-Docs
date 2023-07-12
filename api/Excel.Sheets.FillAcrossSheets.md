@@ -34,11 +34,15 @@ _expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 ## Example
 
-This example fills the range A1:C5 on Sheet1, Sheet5, and Sheet7 with the contents of the same range on Sheet1.
+This example fills the range A1:C5 on all sheets in the active workbook with the contents of the same range on Sheet1.
 
 ```vb
-x = Array("Sheet1", "Sheet5", "Sheet7") 
-Sheets(x).FillAcrossSheets _ 
+Sheets.FillAcrossSheets _ 
+ Worksheets("Sheet1").Range("A1:C5")
+
+'x = Array("Sheet1", "Sheet5", "Sheet7")
+'this is wrong! Please replace it with the correct example and description. We can't use Sheets(x) here, because FillAcrossSheets is a method of Sheets, not WorkSheet.
+'Sheets(x).FillAcrossSheets _ 
  Worksheets("Sheet1").Range("A1:C5")
 ```
 
