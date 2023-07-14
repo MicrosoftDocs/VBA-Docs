@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 The two tables or queries joined by the UNION operation must generate the same number of columns. Remove columns from the SELECT statement that has too many columns or include more columns in the SELECT statement that has too few.
 
 > [!NOTE] 
-> You can include constants instead of columns in the SELECT statement that has too few columns. For example, the following union query generates three columns from the first SELECT statement but one column and two constants in the second SELECT statement. The query returns all countries in the Employees and Regions tables. From the Employees table, the query also returns the first and last name of an employee. If the country value is from the Regions table, however, the query returns Null in the First Name and Last Name columns.
+> You can include constants instead of columns in the SELECT statement that has too few columns. For example, the following union query generates three columns from the first SELECT statement but one column and two constants in the second SELECT statement. The query returns all countries/regions in the Employees and Regions tables. From the Employees table, the query also returns the first and last name of an employee. If the country value is from the Regions table, however, the query returns Null in the First Name and Last Name columns.
 
 
 

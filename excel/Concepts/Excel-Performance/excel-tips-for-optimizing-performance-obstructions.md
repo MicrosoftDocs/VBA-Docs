@@ -280,7 +280,7 @@ In large worksheets, you may frequently need to look up by using multiple indexe
 
 - The lookup will cover a large range.
 
-It's often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that subset range).
+It's often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country/region, and then looking up the product within that subset range).
 
 ### Consider options for three-dimensional lookup
 
