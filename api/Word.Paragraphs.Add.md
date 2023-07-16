@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # Paragraphs.Add method (Word)
 
-Returns a **Paragraph** object that represents a new, blank paragraph added to a document.
+Returns a **Paragraph** object When the caller is not the last paragraph in a document, that represents a new, blank paragraph added to a document, otherwise, that will be the calling paragraph itself.
 
 
 ## Syntax
