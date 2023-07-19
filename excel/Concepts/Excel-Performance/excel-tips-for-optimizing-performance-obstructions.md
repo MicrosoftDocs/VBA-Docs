@@ -274,13 +274,13 @@ You can efficiently do a two-dimensional table lookup by using separate lookups 
 
 ### Use a subset range for multiple-index lookup
 
-In large worksheets, you may frequently need to look up by using multiple indexes, such as looking up product volumes in a country. To do this, you can concatenate the indexes and perform the lookup by using concatenated lookup values. However, this is inefficient for two reasons:
+In large worksheets, you may frequently need to look up by using multiple indexes, such as looking up product volumes in a country/region. To do this, you can concatenate the indexes and perform the lookup by using concatenated lookup values. However, this is inefficient for two reasons:
 
 - Concatenating strings is a calculation-intensive operation.
 
 - The lookup will cover a large range.
 
-It's often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country, and then looking up the product within that subset range).
+It's often more efficient to calculate a subset range for the lookup (for example, by finding the first and last row for the country/region, and then looking up the product within that subset range).
 
 ### Consider options for three-dimensional lookup
 
