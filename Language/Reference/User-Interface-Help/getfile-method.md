@@ -29,7 +29,7 @@ The **GetFile** method syntax has these parts:
 
 ## Remarks
 
-An error occurs if the specified file does not exist.
+An error occurs if the specified file does not exist or if _filespec_ is an HTTP-based path.
 
 ## See also
 
