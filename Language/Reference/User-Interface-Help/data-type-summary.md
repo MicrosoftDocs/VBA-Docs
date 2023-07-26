@@ -22,11 +22,11 @@ The following table shows the supported [data types](../../Glossary/vbe-glossary
 |:--------|:-----------|:----|
 |**[Boolean](boolean-data-type.md)**|2 bytes|**True** or **False**|
 |**[Byte](byte-data-type.md)**|1 byte|0 to 255|
-|**Collection**|Unknown|Unknown|
+|**[Collection](collection-object.md)**|Unknown|Unknown|
 |**[Currency](currency-data-type.md)** (scaled integer)|8 bytes|-922,337,203,685,477.5808 to 922,337,203,685,477.5807|
 |**[Date](date-data-type.md)**|8 bytes|January 1, 100, to December 31, 9999|
 |**[Decimal](decimal-data-type.md)**|14 bytes|+/-79,228,162,514,264,337,593,543,950,335 with no decimal point<br/><br/>+/-7.9228162514264337593543950335 with 28 places to the right of the decimal<br/><br/>Smallest non-zero number is+/-0.0000000000000000000000000001|
-|**Dictionary**|Unknown|Unknown|
+|**[Dictionary](dictionary-object.md)**|Unknown|Unknown|
 |**[Double](double-data-type.md)** (double-precision floating-point)|8 bytes|-1.79769313486231E308 to -4.94065645841247E-324 for negative values<br/><br/>4.94065645841247E-324 to 1.79769313486232E308 for positive values|
 |**[Integer](integer-data-type.md)**|2 bytes|-32,768 to 32,767|
 |**[Long](long-data-type.md)** (Long integer)|4 bytes|-2,147,483,648 to 2,147,483,647|
@@ -54,6 +54,24 @@ A **Variant** containing an array requires 12 bytes more than the array alone.
 > [!NOTE] 
 > Use the **StrConv** function to convert one type of string data to another.
 
+## Identifier Type Characters
+A set of *identifier type characters* are supplied that you can use in a declaration to specify the data type of a variable or constant. The following table shows the available identifier type characters with examples of usage.
+  
+|Identifier type character|Data type|Example|  
+|-------------------------------|---------------|-------------|  
+|`%`|Integer|`Dim L%`|  
+|`&`|Long|`Dim M&`|  
+|`^`|LongLong|`Dim N^`|
+|`@`|Currency|`Const W@ = 37.5`|  
+|`!`|Single|`Dim Q!`|  
+|`#`|Double|`Dim X#`|  
+|`$`|String|`Dim V$ = "Secret"`|  
+  
+No identifier type characters exist for the `Boolean`, `Byte`, `Date`, `Decimal`, `Double`, `LongPtr`, `Object`, `Variant` data types, or for any composite data types such as arrays, Collections, Dictionaries, structures, or user-defined types.
+
+In some cases, you can append the `$` character to a Visual Basic function, for example `Left$` instead of `Left`, to obtain a returned value of type `String`.
+
+In all cases, the identifier type character must immediately follow the identifier name.
 
 ## Convert between data types
 
@@ -77,16 +95,7 @@ To verify data types, see the following functions:
 - [IsNumeric](isnumeric-function.md)
 - [IsObject](isobject-function.md)
 
-## Return values for CStr
 
-|If _expression_ is|CStr returns|
-|:-----------------|:-----------|
-|**Boolean**|A string containing **True** or **False**.|
-|**Date**|A string containing a date in the short date format of your system.|
-|[Empty](../../Glossary/vbe-glossary.md#empty)|A zero-length string ("").|
-|**Error**|A string containing the word **Error** followed by the [error number](../../Glossary/vbe-glossary.md#error-number).|
-|[Null](../../Glossary/vbe-glossary.md#null)|A [run-time error](../../Glossary/vbe-glossary.md#run-time-error).|
-|Other numeric|A string containing the number.|
 
 ## See also
 
