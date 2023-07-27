@@ -75,7 +75,7 @@ In all cases, the identifier type character must immediately follow the identifi
 
 ## Convert between data types
 
-See [Type conversion functions](../../concepts/getting-started/type-conversion-functions.md) for examples of how to use the following functions to coerce an expression to a specific data type: **CBool**, **CByte**, **CCur**, **CDate**, **CDbl**, **CDec**, **CInt**, **CLng**, **CLngLng**, **CLngPtr**, **CSng**, **[CStr](#return-values-for-cstr)**, and **CVar**.
+See [Type conversion functions](../../concepts/getting-started/type-conversion-functions.md) for examples of how to use the following functions to coerce an expression to a specific data type: **CBool**, **CByte**, **CCur**, **CDate**, **CDbl**, **CDec**, **CInt**, **CLng**, **CLngLng**, **CLngPtr**, **CSng**, **CStr**, and **CVar**.
 
 For the following, see the respective function pages: **[CVErr](cverr-function.md)**, **[Fix](int-fix-functions.md)**, and **[Int](int-fix-functions.md)**.
 
