@@ -35,7 +35,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 | _Top_|Optional| **Variant**|The position, measured in points, of the top edge of the new picture relative to the drawing canvas.|
 | _Width_|Optional| **Variant**|The width of the picture, in points.|
 | _Height_|Optional| **Variant**|The height of the picture, in points.|
-| _Anchor_|Optional| **Range**|An Range in the document.|
+| _Anchor_|Optional| **Range**|A Range in the document.|
 
 ## Return value
 
