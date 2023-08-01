@@ -50,7 +50,7 @@ The function name determines the return type as shown in the following:
 |**CLngLng**|[LongLong](../../reference/user-interface-help/longlong-data-type.md)|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807; fractions are rounded. (Valid on 64-bit platforms only.)|
 |**CLngPtr**|[LongPtr](../../reference/user-interface-help/longptr-data-type.md)|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems; fractions are rounded for 32-bit and 64-bit systems.|
 |**CSng**|[Single](../../reference/user-interface-help/single-data-type.md)|-3.402823E38 to -1.401298E-45 for negative values; 1.401298E-45 to 3.402823E38 for positive values.|
-|**CStr**|[String](../../reference/user-interface-help/string-data-type.md)|Returns for CStr depend on the _expression_ argument. See table below.|
+|**CStr**|[String](../../reference/user-interface-help/string-data-type.md)|Returns for CStr depend on the _expression_ argument. See the following table.|
 |**CVar**|[Variant](../../reference/user-interface-help/variant-data-type.md)|Same range as **Double** for numerics. Same range as **String** for non-numerics.|
 
 ## Remarks
