@@ -14,12 +14,12 @@ ms.localizationpriority: medium
 
 # Shapes.AddPicture method (Word)
 
-Adds a picture to a drawing canvas. Returns a **Shape** object that represents the picture and adds it to the **CanvasShapes** collection.
+Adds a picture to a document. Returns a **Shape** object that represents the picture and adds it to the **Shapes** collection.
 
 
 ## Syntax
 
-_expression_.**AddPicture** (_FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_)
+_expression_.**AddPicture** (_FileName_, _LinkToFile_, _SaveWithDocument_, _Left_, _Top_, _Width_, _Height_, _Anchor_)
 
 _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 
@@ -35,6 +35,7 @@ _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)**
 | _Top_|Optional| **Variant**|The position, measured in points, of the top edge of the new picture relative to the drawing canvas.|
 | _Width_|Optional| **Variant**|The width of the picture, in points.|
 | _Height_|Optional| **Variant**|The height of the picture, in points.|
+| _Anchor_|Optional| **Range**|An Range in the document.|
 
 ## Return value
 
