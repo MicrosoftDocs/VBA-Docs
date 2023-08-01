@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # GetDrive method
 
-Returns a **Drive** object corresponding to the drive in a specified path.
+Returns a **[Drive](drive-object.md)** object corresponding to the drive in a specified path.
 
 ## Syntax
 
