@@ -59,10 +59,10 @@ The _buttons_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When combining numbers to create a final value for the _buttons_ argument, use only one number from each group.
 
 > [!NOTE] 
-> These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
+> These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications in the **VbMsgBoxStyle** enumeration. As a result, the names can be used anywhere in your code in place of the actual values.
 
 ## Return values
-
+The return values are defined in the **VbMsgBoxResult** enumeration.
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOK**|1|**OK**|
