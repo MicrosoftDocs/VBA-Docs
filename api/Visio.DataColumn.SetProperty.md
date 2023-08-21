@@ -78,7 +78,7 @@ The LangID and Calendar properties are bound by the validation rules shown in th
 |Language|Hirji|Western|French Transliterated|English Transliterated|Hebrew Lunar|Saka Era|Japanese Emperor Era|Korean Danki|Thai Buddhist|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |All Arabic|x|x|x|x||||||
-|Bengali(Bangladesh)|x|x||||||||
+|Bengla(Bangladesh)|x|x||||||||
 |Divehi|x|x||||||||
 |All English|x|x|||x|x||||
 |Persian|x|x||||||||

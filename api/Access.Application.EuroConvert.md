@@ -32,7 +32,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 | _SourceCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the International Standards Organization (ISO) acronym for the currency you want to convert. Can be one of the ISO codes listed in the Remarks section.|
 | _TargetCurrency_|Required|**String**|A string expression, or reference to a field containing the string, corresponding to the ISO code of the currency to which you want to convert the number. For a list of ISO codes, see the Remarks section.|
 | _FullPrecision_|Optional|**Variant**|A **Boolean** value where **True** (1) ignores the currency-specific rounding rules (called display precision in the _sourcecurrency_ argument description) and uses the 6-significant-digit conversion factor with no follow-up rounding. **False** (0) uses the currency-specific rounding rules to display the result. If the parameter is omitted, the default value is **False**.|
-| _TriangulationPrecision_|Optional|**Variant**|An **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national currencies.|
+| _TriangulationPrecision_|Optional|**Variant**|An **Integer** value greater than or equal to 3 that specifies the number of significant digits in the calculation precision used for the intermediate euro value when converting between two national/regional currencies.|
 
 ## Return value
 

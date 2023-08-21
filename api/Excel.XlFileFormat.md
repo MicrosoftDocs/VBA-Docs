@@ -29,7 +29,7 @@ Specifies the file format when saving the worksheet.
 | **xlDIF**|9|Data Interchange format|*.dif|
 | **xlExcel12**|50|Excel Binary Workbook|*.xlsb|
 | **xlExcel2**|16|Excel version 2.0 (1987)|*.xls|
-| **xlExcel2FarEast**|27|Excel version 2.0 far east (1987)|*.xls|
+| **xlExcel2FarEast**|27|Excel version 2.0 Asia (1987)|*.xls|
 | **xlExcel3**|29|Excel version 3.0 (1990)|*.xls|
 | **xlExcel4**|33|Excel version 4.0 (1992)|*.xls|
 | **xlExcel4Workbook**|35|Excel version 4.0. Workbook format (1992)|*.xlw|
@@ -68,7 +68,7 @@ Specifies the file format when saving the worksheet.
 | **xlWKS**|4|Lotus 1-2-3 format|*.wks|
 | **xlWorkbookDefault**|51|Workbook default|*.xlsx|
 | **xlWorkbookNormal**|-4143|Workbook normal|*.xls|
-| **xlWorks2FarEast**|28|Microsoft Works 2.0 far east format|*.wks|
+| **xlWorks2FarEast**|28|Microsoft Works 2.0 Asian format|*.wks|
 | **xlWQ1**|34|Quattro Pro format|*.wq1|
 | **xlXMLSpreadsheet**|46|XML Spreadsheet|*.xml|
 
