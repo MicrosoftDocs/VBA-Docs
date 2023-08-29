@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # Date data type
 
-[Date variables](../../Glossary/vbe-glossary.md#date-data-type) are stored as IEEE 64-bit (8-byte) floating-point numbers that represent dates ranging from 1 January 100, to 31 December 9999, and times from 0:00:00 to 23:59:59.
+[Date variables](../../Glossary/vbe-glossary.md#date-data-type) are stored as IEEE 64-bit (8-byte) floating-point numbers that represent dates ranging from 1 January 100 (-657,434), to 31 December 9999 (2,958,465), and times from 0:00:00 to 23:59:59.
 
 Any recognizable literal date values can be assigned to **Date** variables. [Date literals](../../Glossary/vbe-glossary.md#date-literal) must be enclosed within number signs (**#**), for example, `#January 1, 1993#` or `#1 Jan 93#`.
 
