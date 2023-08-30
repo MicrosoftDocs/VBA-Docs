@@ -24,7 +24,7 @@ The following table shows the supported [data types](../../Glossary/vbe-glossary
 |**[Byte](byte-data-type.md)**|1 byte|0 to 255|
 |**[Collection](collection-object.md)**|Unknown|Unknown|
 |**[Currency](currency-data-type.md)** (scaled integer)|8 bytes|-922,337,203,685,477.5808 to 922,337,203,685,477.5807|
-|**[Date](date-data-type.md)**|8 bytes|January 1, 100, to December 31, 9999|
+|**[Date](date-data-type.md)**|8 bytes|-657,434 (January 1, 100), to 2,958,465 (December 31, 9999)|
 |**[Decimal](decimal-data-type.md)**|14 bytes|+/-79,228,162,514,264,337,593,543,950,335 with no decimal point<br/><br/>+/-7.9228162514264337593543950335 with 28 places to the right of the decimal<br/><br/>Smallest non-zero number is+/-0.0000000000000000000000000001|
 |**[Dictionary](dictionary-object.md)**|Unknown|Unknown|
 |**[Double](double-data-type.md)** (double-precision floating-point)|8 bytes|-1.79769313486231E308 to -4.94065645841247E-324 for negative values<br/><br/>4.94065645841247E-324 to 1.79769313486232E308 for positive values|

@@ -38,8 +38,8 @@ Specifies the language to use.
 | **wdArabicYemen**|9217|Arabic Yemeni language.|
 | **wdArmenian**|1067|Armenian language.|
 | **wdAssamese**|1101|Assamese language.|
-| **wdAzeriCyrillic**|2092|Azeri Cyrillic language.|
-| **wdAzeriLatin**|1068|Azeri Latin language.|
+| **wdAzeriCyrillic**|2092|Azerbaijani Cyrillic language.|
+| **wdAzeriLatin**|1068|Azerbaijani Latin language.|
 | **wdBasque**|1069|Basque (Basque).|
 | **wdBelgianDutch**|2067|Belgian Dutch language.|
 | **wdBelgianFrench**|2060|Belgian French language.|
@@ -128,7 +128,7 @@ Specifies the language to use.
 | **wdLatin**|1142|Latin language.|
 | **wdLatvian**|1062|Latvian language.|
 | **wdLithuanian**|1063|Lithuanian language.|
-| **wdMacedonianFYROM**|1071|Macedonian (FYROM) language.|
+| **wdMacedonianFYROM**|1071|North Macedonian language.|
 | **wdMalayalam**|1100|Malayalam language.|
 | **wdMalayBruneiDarussalam**|2110|Malay Brunei Darussalam language.|
 | **wdMalaysian**|1086|Malaysian language.|
@@ -141,7 +141,7 @@ Specifies the language to use.
 | **wdNoProofing**|1024|Disables proofing if the language ID identifies a language in which an object is grammatically validated using the Microsoft Word proofing tools.|
 | **wdNorwegianBokmol**|1044|Norwegian Bokmol language.|
 | **wdNorwegianNynorsk**|2068|Norwegian Nynorsk language.|
-| **wdOriya**|1096|Oriya language.|
+| **wdOriya**|1096|Odia (Oriya) language.|
 | **wdOromo**|1138|Oromo language.|
 | **wdPashto**|1123|Pashto language.|
 | **wdPersian**|1065|Persian language.|
