@@ -63,6 +63,7 @@ The first group of values (0-5) describes the number and type of buttons display
 
 ## Return values
 The return values are defined in the **VbMsgBoxResult** enumeration.
+
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOK**|1|**OK**|
