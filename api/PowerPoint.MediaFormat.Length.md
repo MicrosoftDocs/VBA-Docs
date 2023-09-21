@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 # MediaFormat.Length property (PowerPoint)
 
-Returns the total length of the media in time units. Read-only.
+Returns the total length of the media in milliseconds. Read-only.
 
 
 ## Syntax
