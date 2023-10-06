@@ -131,7 +131,7 @@ Specifies the language identifier.
 |**msoLanguageIDLatin**|1142|The Latin language |
 |**msoLanguageIDLatvian**|1062|The Latvian language |
 |**msoLanguageIDLithuanian**|1063|The Lithuanian language |
-|**msoLanguageIDMacedonianFYROM**|1071|The North Macedonian language |
+|**msoLanguageIDMacedonianFYROM**|1071|The Macedonian language |
 |**msoLanguageIDMalayalam**|1100|The Malayalam language |
 |**msoLanguageIDMalayBruneiDarussalam**|2110|The Malay Brunei Darussalam language |
 |**msoLanguageIDMalaysian**|1086|The Malaysian language |

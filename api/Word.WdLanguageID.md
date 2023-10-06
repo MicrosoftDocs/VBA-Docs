@@ -128,7 +128,7 @@ Specifies the language to use.
 | **wdLatin**|1142|Latin language.|
 | **wdLatvian**|1062|Latvian language.|
 | **wdLithuanian**|1063|Lithuanian language.|
-| **wdMacedonianFYROM**|1071|North Macedonian language.|
+| **wdMacedonianFYROM**|1071|Macedonian language.|
 | **wdMalayalam**|1100|Malayalam language.|
 | **wdMalayBruneiDarussalam**|2110|Malay Brunei Darussalam language.|
 | **wdMalaysian**|1086|Malaysian language.|
