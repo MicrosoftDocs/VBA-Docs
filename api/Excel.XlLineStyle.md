@@ -21,9 +21,9 @@ Specifies the line style for the border.
 | **xlDash**|-4115|Dashed line.|
 | **xlDashDot**|4|Alternating dashes and dots.|
 | **xlDashDotDot**|5|Dash followed by two dots.|
-| **xlDot**|-4142|Dotted line.|
+| **xlDot**|-4118|Dotted line.|
 | **xlDouble**|-4119|Double line.|
-| **xlLineStyleNone**|-4118|No line.|
+| **xlLineStyleNone**|-4142|No line.|
 | **xlSlantDashDot**|13|Slanted dashes.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
