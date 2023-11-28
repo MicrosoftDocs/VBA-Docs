@@ -74,7 +74,7 @@ End Sub
 ```
 
 
-## Events123
+## Events
 
 - [Activate](Excel.Workbook.Activate(even).md)
 - [AddinInstall](Excel.Workbook.AddinInstall.md)
