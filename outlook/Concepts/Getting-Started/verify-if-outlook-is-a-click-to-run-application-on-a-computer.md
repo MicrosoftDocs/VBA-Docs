@@ -6,7 +6,6 @@ ms.date: 06/08/2019
 ms.localizationpriority: medium
 ---
 
-
 # Verify Whether Outlook Is a Click-to-Run Application on a Computer
 
 Click-to-Run is a software delivery and updating mechanism. Products delivered via Click-to-Run execute in a virtual application environment on the local operating system. This means that they have private copies of their files and settings, and that any changes they make are captured in the virtual environment. Click-to-Run is fast—users can start running an application within a short time without waiting for the entire product to finish installing. Updates are carried out automatically in the background, without requiring a user to first remove an installation or install patches. Click-to-Run products are virtualized and don't conflict with other installed software.
@@ -18,9 +17,9 @@ In Office, 32-bit Office and 64-bit Office are available via Click-to-Run. The d
 To check whether Outlook was delivered by Click-to-Run on a client computer:
 
 - Verify if the `VirtualOutlook` key exists in the following location in the Windows registry:
-    
+ 
     HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\VirtualOutlook
 
--  The `VirtualOutlook` key is a REG_SZ value that contains the culture tag of the installed product language, such as "en-us".
+- The `VirtualOutlook` key is a REG_SZ value that contains the culture tag of the installed product language, such as "en-us".
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

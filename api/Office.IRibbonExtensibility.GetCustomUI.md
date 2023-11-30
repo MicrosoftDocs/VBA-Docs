@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 Loads the XML markup, either from an XML customization file or from XML markup embedded in the procedure, that customizes the Ribbon user interface.
 
-
 ## Syntax
 
 _expression_.**GetCustomUI** (_RibbonID_)
 
 _expression_ An expression that returns an **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** object.
-
 
 ## Parameters
 
@@ -34,16 +32,13 @@ _expression_ An expression that returns an **[IRibbonExtensibility](Office.IRibb
 
 String
 
-
 ## Remarks
 
 For Word, Excel, PowerPoint, and Access, there is only one ID for each application. Outlook uses ribbon extensibility to customize not only the ribbon in an inspector, but also the ribbon in an explorer, in various context menus, in contextual tabs on a ribbon, and in the Microsoft Office Backstage view. In each of these scenarios, the developer specifies the custom UI in an XML file that is loaded when Office calls **GetCustomUI** with a specific ribbon ID.
 
-
 ## Example
 
 In the following example, written in C#, the **IRibbonExtensibility** interface is specified in the class definition. The example then implements the interfaces's only method, **GetCustomUI**. The method creates an instance of a **StreamReader** object that reads in the customization markup in an external XML file.
-
 
 ```cs
 public class Connect : Object, Extensibility.IDTExtensibility2, IRibbonExtensibility 
@@ -56,7 +51,6 @@ public string GetCustomUI(string RibbonID)
 } 
 
 ```
-
 
 ## See also
 

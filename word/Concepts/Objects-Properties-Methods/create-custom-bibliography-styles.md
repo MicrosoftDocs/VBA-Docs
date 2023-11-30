@@ -13,14 +13,14 @@ Create a custom bibliography style in Word by learning the steps (and XML code) 
 
 The bibliography sources you create are all listed in the following local file: %AppData%\Microsoft\Bibliography\Sources.xml.
 
-> [!NOTE] 
+> [!NOTE]
 > The Sources.xml file won't exist until you create your first bibliography source in Word. All bibliography styles are stored in the user's profile here:  %AppData%\Microsoft\Bibliography\Style.
 
 ## Building a basic bibliography style
+
 <a name="Biblio_BuildBasicStyle"> </a>
 
 First, create a basic bibliography style that the custom style will follow.
-
 
 ### Set up the bibliography style
 
@@ -50,7 +50,6 @@ At the top of the file, add the following code:
 
 As the comments indicate, Word uses HTML to represent a bibliography or citation within a document. Most of the preceding XML code is just preparation for the more interesting parts of the style. For example, you can give your style a version number to track the changes you make, as shown in the following example.
 
-
 ```xml
 <!--Set an optional version number for this style--> 
 
@@ -64,9 +63,6 @@ As the comments indicate, Word uses HTML to represent a bibliography or citation
 
 More importantly, you can give your style a name. Add this tag: <xsl:when test="b:StyleNameLocalized">; and then give your style a name, in the language of your choice, by using the following code.
 
-
-
-
 ```xml
 <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
 
@@ -76,9 +72,6 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 ```
 
 This section contains the locale name of your style. In the case of our example file, we want our custom bibliography style name, "Simple Book Style," to appear in the **Style** drop-down list on the **References** tab. To do so, add the following XML code to specify that the style name be in the English locale (Lcid determines the language).
-
-
-
 
 ```xml
 <!--Defines the name of the style in the References dropdown list-->
@@ -96,43 +89,39 @@ Now, examine the style details. Each source type in Word (for example, book, fil
 
 A book source type has the following fields available:
 
-
 - Author
-    
+
 - Title
-    
+
 - Year
-    
+
 - City
-    
+
 - State/Province
-    
+
 - Country/Region
-    
+
 - Publisher
-    
+
 - Editor
-    
+
 - Volume
-    
+
 - Number of Volumes
-    
+
 - Translator
-    
+
 - Short Title
-    
+
 - Standard Number
-    
+
 - Pages
-    
+
 - Edition
-    
+
 - Comments
-    
+
 In the code, you can specify the fields that are important for your bibliography style. Even when **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
-
-
-
 
 ```xml
 <!--Specifies which fields should appear in the Create Source dialog box when in a collapsed state (The Show All Bibliography Fields check box is cleared)-->
@@ -160,8 +149,8 @@ In the code, you can specify the fields that are important for your bibliography
 
 The text in the \<xsl:text> tags are references to the Sources.xml file. These references pull out the data that will populate each of the fields. Examine Sources.xml in \Microsoft\Bibliography\Sources.xml) to get a better idea about how these references match up to what is in the XML file.
 
-
 ### Design the layout
+
 <a name="Biblio_DesignLayout"> </a>
 
 Output for bibliographies and citations is represented in a Word document as HTML, so to define how our custom bibliography and citation styles should look in Word, we'll have to add some HTML to our style sheet.
@@ -171,9 +160,6 @@ Suppose you want to format each entry in your bibliography in this manner:
 **Last Name, First Name. (Year). Title. City: Publisher**
 
 The HTML required to do this would be embedded in your style sheet as follows.
-
-
-
 
 ```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
@@ -203,9 +189,6 @@ The HTML required to do this would be embedded in your style sheet as follows.
 
 When you reference a book source in your Word document, Word needs to access this HTML so that it can use the custom style to display the source, so you'll have to add code to your custom style sheet to enable Word to do this.
 
-
-
-
 ```xml
 <!--Defines the output of the entire Bibliography-->
  
@@ -227,9 +210,6 @@ When you reference a book source in your Word document, Word needs to access thi
 
 In a similar fashion, you'll need to do the same thing for the citation output. Follow the pattern (Author, Year) for a single citation in the document.
 
-
-
-
 ```xml
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
@@ -248,51 +228,43 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
 
 Close up the file with the following lines.
 
-
-
-
 ```xml
 <xsl:template match="text()" /> </xsl:stylesheet>
 ```
 
 Save the file as MyBookStyle.XSL and drop it into the Styles directory (\Microsoft\Bibliography\Style). Restart Word, and your style is now under the style dropdown list. You can start using your new style.
 
-
 ## Create a complex style
+
 <a name="Biblio_CreateComplexStyle"> </a>
 
 One of the issues that complicate bibliography styles is that they often need to have a significant amount of conditional logic. For example, if the date is specified, you need to show the date, whereas if the date is not specified, you may need to use an abbreviation to indicate that there is no date for that source.
 
 For a more specific example, in the APA style, if a date is not specified for a website source, the abbreviation "n.d." is used to denote no date, and the style should do this automatically. Here's an example:
 
-APA website source with no date entered: Kwan, Y. (n.d.). Retrieved from https://www.microsoft.com APA website source with date entered: Kwan, Y. (2006, Jan 18). Retrieved from https://www.microsoft.com
+APA website source with no date entered: Kwan, Y. (n.d.). Retrieved from <https://www.microsoft.com> APA website source with date entered: Kwan, Y. (2006, Jan 18). Retrieved from <https://www.microsoft.com>
 
 As you can see, what is displayed is dependent upon on the data entered.
 
 The output of virtually every style needs to change depending on whether you have a "Corporate Author" or a "Normal Author." You'll see how to use one of the most common rules for implementing such logic into your style, allowing you to display a corporate author if the corporate author is specified, and a normal author if the corporate author is not specified.
 
-
 ### Solution overview
 
 To display a corporate author only if appropriate, use the following procedure.
 
-
 ### To display a corporate author
 
-
 1. Add a variable to count the number of corporate authors in the citation section of the code.
-    
+
 2. Display the corporate author in the citation if the corporate author is filled in. Display the normal author in the citation if the corporate author is not filled in.
-    
+
 3. Add a variable to count the number of corporate authors in the bibliography section of the code.
-    
+
 4. Display the corporate author in the bibliography if the corporate author is filled in. Display the normal author in the bibliography if the corporate author is not filled in.
-    
 
 ### Getting started
 
 Let's start by changing the citation. Here is the code for citations from last time.
-
 
 ```xml
 <!--Defines the output of the Citation-->
@@ -310,11 +282,9 @@ Let's start by changing the citation. Here is the code for citations from last t
 </xsl:template>
 ```
 
-
 ### Step 1: Define a new variable in the citation section to count the number of corporate authors
 
 Declare a new variable to help determine whether a corporate author is available. This variable is a count of the number of times the corporate author field exists in the source.
-
 
 ```xml
 <!--Defines the output of the Citation-->
@@ -325,11 +295,9 @@ Declare a new variable to help determine whether a corporate author is available
       </xsl:variable>
 ```
 
-
 ### Step 2: Verify that the corporate author has been filled in
 
 Verify that the corporate author has been filled in. You can do this by determining if the count of corporate authors is non-zero. If a corporate author exists, display it. If it does not exist, display the normal author.
-
 
 ```xml
 
@@ -349,9 +317,6 @@ Verify that the corporate author has been filled in. You can do this by determin
 
 Now that you've made the change for citations, make the change for the bibliography. Here's the bibliography section from earlier in this article.
 
-
-
-
 ```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 <xsl: template match="b:Source[b:SourceType = 'Book']">
@@ -367,11 +332,9 @@ Now that you've made the change for citations, make the change for the bibliogra
 
 ```
 
-
 ### Step 3: Define a new variable in the bibliography section
 
 Once again, let's start by adding a counting variable.
-
 
 ```xml
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
@@ -382,11 +345,9 @@ Once again, let's start by adding a counting variable.
 </xsl:variable>
 ```
 
-
 ### Step 4: Verify that the corporate author has been filled in
 
 Verify that a corporate author exists.
-
 
 ```xml
 …..
@@ -411,9 +372,6 @@ Verify that a corporate author exists.
 ```
 
 Here's the complete final code.
-
-
-
 
 ```xml
 <?xml version="1.0" ?> 
@@ -515,17 +473,16 @@ Here's the complete final code.
 </xsl:stylesheet>
 ```
 
-
 ## Conclusion
+
 <a name="Biblio_Conclusion"> </a>
 
 This article showed how to create a custom bibliography style in Word, first by creating a simple style, and then by using conditional statements to create a more complex style.
 
-
 ## See also
 
-- [What's new for Word 2013 developers](../../../api/overview/Word.md)    
-- [Office 365 Developer Blog](https://developer.microsoft.com/en-us/office/blogs/)    
+- [What's new for Word 2013 developers](../../../api/overview/Word.md)
+- [Office 365 Developer Blog](https://developer.microsoft.com/office/blogs/)
 - [Word for developers website](/office/client-developer/word/word-home)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
