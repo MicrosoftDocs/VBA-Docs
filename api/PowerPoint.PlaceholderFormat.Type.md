@@ -36,26 +36,28 @@ The value of the **Type** property can be one of these **PpPlaceholderType** con
 
 ||
 |:-----|
-|**ppPlaceholderBitmap**|
+|**ppPlaceholderMixed**|
+|**ppPlaceholderTitle**|
 |**ppPlaceholderBody**|
 |**ppPlaceholderCenterTitle**|
-|**ppPlaceholderChart**|
-|**ppPlaceholderDate**|
-|**ppPlaceholderFooter**|
-|**ppPlaceholderHeader**|
-|**ppPlaceholderMediaClip**|
-|**ppPlaceholderMixed**|
-|**ppPlaceholderObject**|
-|**ppPlaceholderOrgChart**|
-|**ppPlaceholderSlideNumber**|
 |**ppPlaceholderSubtitle**|
-|**ppPlaceholderTable**|
-|**ppPlaceholderTitle**|
-|**ppPlaceholderVerticalBody**|
 |**ppPlaceholderVerticalTitle**|
+|**ppPlaceholderVerticalBody**|
+|**ppPlaceholderObject**|
+|**ppPlaceholderChart**|
+|**ppPlaceholderBitmap**|
+|**ppPlaceholderMediaClip**|
+|**ppPlaceholderOrgChart**|
+|**ppPlaceholderTable**|
+|**ppPlaceholderSlideNumber**|
+|**ppPlaceholderHeader**|
+|**ppPlaceholderFooter**|
+|**ppPlaceholderDate**|
+|**ppPlaceholderVerticalObject**|
+|**ppPlaceholderPicture**|
+|**ppPlaceholderCameo**|
 
 ## See also
-
 
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 
