@@ -11,13 +11,11 @@ ms.localizationpriority: medium
 
 Language name that is used by Project, such as en-us or za-ch. Introduced in Office 2016.
 
-
 ## Syntax
 
 _expression_.**LocaleName**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
-
 
 ## Return value
 
