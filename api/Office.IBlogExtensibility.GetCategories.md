@@ -16,13 +16,11 @@ ms.localizationpriority: medium
 
 This method returns the list of blog categories for an account so that Microsoft Word can populate the categories drop-down list.
 
-
 ## Syntax
 
 _expression_.**GetCategories** (_Account_, _ParentWindow_, _Document_, _userName_, _Password_, _Categories()_)
 
 _expression_ An expression that returns an **[IBlogExtensibility](Office.IBlogExtensibility.md)** object.
-
 
 ## Parameters
 
@@ -38,7 +36,6 @@ _expression_ An expression that returns an **[IBlogExtensibility](Office.IBlogEx
 ## Remarks
 
 Blog account settings are stored in the registry at \\HKCU\Software\Microsoft\Office\Common\Blog\Account.
-
 
 ## See also
 
