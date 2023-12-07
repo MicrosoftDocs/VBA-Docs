@@ -40,25 +40,8 @@ TextRange
 
 ## Remarks
 
-The  _DateTimeFormat_ parameter value can be one of these **PpDateTimeFormat** constants.
+The  _DateTimeFormat_ parameter value can be one of these **[PpDateTimeFormat](https://learn.microsoft.com/en-us/office/vba/api/powerpoint.ppdatetimeformat)** constants.
 
-
-||
-|:-----|
-|**ppDateTimeddddMMMMddyyyy**|
-|**ppDateTimedMMMMyyyy**|
-|**ppDateTimedMMMyy**|
-|**ppDateTimeFormatMixed**|
-|**ppDateTimeHmm**|
-|**ppDateTimehmmAMPM**|
-|**ppDateTimeHmmss**|
-|**ppDateTimehmmssAMPM**|
-|**ppDateTimeMdyy**|
-|**ppDateTimeMMddyyHmm**|
-|**ppDateTimeMMddyyhmmAMPM**|
-|**ppDateTimeMMMMdyyyy**|
-|**ppDateTimeMMMMyy**|
-|**ppDateTimeMMyy**|
 
 The  _InsertAsField_ parameter value can be one of these **MsoTriState** constants.
 
