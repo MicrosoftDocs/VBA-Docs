@@ -40,6 +40,7 @@ Long
 ## Remarks
 
 Copying begins at the current row of the **Recordset** object. After copying is completed, the **EOF** property of the **Recordset** object is **True**.
+It is recommended that you set an object variable to the range to which you are copying from the recordset.  Failing to do so may cause generic automation errors depending on the recordset and the range.
 
 
 ## Example
@@ -51,8 +52,9 @@ For iCols = 0 to rs.Fields.Count - 1
  ws.Cells(1, iCols + 1).Value = rs.Fields(iCols).Name 
 Next 
 ws.Range(ws.Cells(1, 1), _ 
- ws.Cells(1, rs.Fields.Count)).Font.Bold = True 
-ws.Range("A2").CopyFromRecordset rs
+ ws.Cells(1, rs.Fields.Count)).Font.Bold = True
+Set PushRange = ws.Range("A2")
+PushRange.CopyFromRecordset rs
 ```
 
 
