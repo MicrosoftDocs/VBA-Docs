@@ -40,7 +40,7 @@ Long
 ## Remarks
 
 Copying begins at the current row of the **Recordset** object. After copying is completed, the **EOF** property of the **Recordset** object is **True**.
-It is recommended that you set an object variable to the range to which you are copying from the recordset.  Failing to do so may cause generic automation errors depending on the recordset and the range.
+It's recommended that you set an object variable to the range to which you are copying from the recordset.  Failing to do so may cause generic automation errors depending on the recordset and the range.
 
 
 ## Example
