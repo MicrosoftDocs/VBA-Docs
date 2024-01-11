@@ -1,6 +1,5 @@
 ---
 title: CalloutFormat.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Creator
 ms.assetid: c7e4484e-9384-88fb-17ba-da3b2d2c8dc2

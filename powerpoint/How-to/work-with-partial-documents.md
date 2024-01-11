@@ -3,7 +3,6 @@ title: Work with Partial Documents
 keywords: vbapp10.chm583138
 f1_keywords:
 - vbapp10.chm583138
-ms.prod: powerpoint
 ms.date: 08/02/2022
 ms.author: ononder
 ms.localizationpriority: medium

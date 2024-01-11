@@ -3,7 +3,6 @@ title: SlideRange.Application property (PowerPoint)
 keywords: vbapp10.chm532001
 f1_keywords:
 - vbapp10.chm532001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Application
 ms.assetid: 335a157f-848d-4aec-3981-8e2119b8409e

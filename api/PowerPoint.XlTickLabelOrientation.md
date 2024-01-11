@@ -1,6 +1,5 @@
 ---
 title: XlTickLabelOrientation enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTickLabelOrientation
 ms.assetid: 9e009015-6452-e283-e22a-c7f5dea9a0fe

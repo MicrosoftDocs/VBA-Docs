@@ -3,7 +3,6 @@ title: PictureFormat.CropBottom property (PowerPoint)
 keywords: vbapp10.chm551007
 f1_keywords:
 - vbapp10.chm551007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.CropBottom
 ms.assetid: 6d2252ab-33ed-802b-e0c5-3e12be23bec4

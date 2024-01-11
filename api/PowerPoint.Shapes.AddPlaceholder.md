@@ -3,7 +3,6 @@ title: Shapes.AddPlaceholder method (PowerPoint)
 keywords: vbapp10.chm543024
 f1_keywords:
 - vbapp10.chm543024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddPlaceholder
 ms.assetid: 10927d59-1810-2f91-eb52-c42113570ccc

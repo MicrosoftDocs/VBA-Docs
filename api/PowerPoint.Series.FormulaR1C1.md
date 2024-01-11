@@ -3,7 +3,6 @@ title: Series.FormulaR1C1 property (PowerPoint)
 keywords: vbapp10.chm65800
 f1_keywords:
 - vbapp10.chm65800
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.FormulaR1C1
 ms.assetid: 26b5e5e1-bcc2-a9f6-1767-dec6959901a9

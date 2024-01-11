@@ -3,7 +3,6 @@ title: HeadersFooters.Clear method (PowerPoint)
 keywords: vbapp10.chm542008
 f1_keywords:
 - vbapp10.chm542008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HeadersFooters.Clear
 ms.assetid: ce2aed25-aef4-a090-a540-bc09fa26e653

@@ -3,7 +3,6 @@ title: ShapeRange.LinkFormat property (PowerPoint)
 keywords: vbapp10.chm548045
 f1_keywords:
 - vbapp10.chm548045
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.LinkFormat
 ms.assetid: aa2f91d3-b3fd-9834-b189-ec7fc783db6d

@@ -3,7 +3,6 @@ title: Axis.MinimumScaleIsAuto property (PowerPoint)
 keywords: vbapp10.chm682020
 f1_keywords:
 - vbapp10.chm682020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MinimumScaleIsAuto
 ms.assetid: 7ec5b07d-3683-e45b-ca39-d67ce959edfc

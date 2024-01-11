@@ -3,7 +3,6 @@ title: AnimationBehavior.PropertyEffect property (PowerPoint)
 keywords: vbapp10.chm657010
 f1_keywords:
 - vbapp10.chm657010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.PropertyEffect
 ms.assetid: a053462c-6ff6-52b4-2852-def0528780b2

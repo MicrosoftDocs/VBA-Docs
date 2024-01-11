@@ -1,6 +1,5 @@
 ---
 title: PpDirection enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpDirection
 ms.assetid: ff2f4610-7065-40cb-43d5-9c2fcfc9581a

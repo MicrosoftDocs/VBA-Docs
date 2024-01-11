@@ -1,6 +1,5 @@
 ---
 title: XlMarkerStyle enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlMarkerStyle
 ms.assetid: ec213196-0993-526a-48ca-80f92385a0bf

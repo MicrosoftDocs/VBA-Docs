@@ -3,7 +3,6 @@ title: TabStop.Application property (PowerPoint)
 keywords: vbapp10.chm574001
 f1_keywords:
 - vbapp10.chm574001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStop.Application
 ms.assetid: d03e5b32-0398-9be8-60a6-487f52e34d86

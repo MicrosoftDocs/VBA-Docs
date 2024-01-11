@@ -3,7 +3,6 @@ title: FileConverter.CanSave property (PowerPoint)
 keywords: vbapp10.chm680003
 f1_keywords:
 - vbapp10.chm680003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.CanSave
 ms.assetid: 64e1f21f-786e-8003-f99e-0dcb093af9d3

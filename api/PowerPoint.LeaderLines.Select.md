@@ -1,6 +1,5 @@
 ---
 title: LeaderLines.Select method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Select
 ms.assetid: a146a575-89ef-28c6-4f0e-ede101835573

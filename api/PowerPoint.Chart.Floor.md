@@ -3,7 +3,6 @@ title: Chart.Floor property (PowerPoint)
 keywords: vbapp10.chm684029
 f1_keywords:
 - vbapp10.chm684029
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Floor
 ms.assetid: a599ed02-d137-f823-0a5e-325d3f8c7406

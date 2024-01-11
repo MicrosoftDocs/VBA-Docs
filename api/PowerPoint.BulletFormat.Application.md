@@ -3,7 +3,6 @@ title: BulletFormat.Application property (PowerPoint)
 keywords: vbapp10.chm577001
 f1_keywords:
 - vbapp10.chm577001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.Application
 ms.assetid: 2906869e-ee3e-8a0e-9532-1bbe5cd60fef

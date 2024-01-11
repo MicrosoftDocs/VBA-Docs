@@ -3,7 +3,6 @@ title: Font.AutoRotateNumbers property (PowerPoint)
 keywords: vbapp10.chm575018
 f1_keywords:
 - vbapp10.chm575018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.AutoRotateNumbers
 ms.assetid: 621ccc86-d5cb-d2c1-262f-5652eff5800a

@@ -3,7 +3,6 @@ title: OLEFormat.DoVerb method (PowerPoint)
 keywords: vbapp10.chm562007
 f1_keywords:
 - vbapp10.chm562007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.OLEFormat.DoVerb
 ms.assetid: 1ee39c5d-3646-81de-79e9-f8cff869308d

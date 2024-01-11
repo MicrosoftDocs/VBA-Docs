@@ -3,7 +3,6 @@ title: Design.Preserved property (PowerPoint)
 keywords: vbapp10.chm644009
 f1_keywords:
 - vbapp10.chm644009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Design.Preserved
 ms.assetid: c7620e5a-49f5-49bc-307b-230ead112cf6

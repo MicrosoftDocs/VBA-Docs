@@ -3,7 +3,6 @@ title: ShapeNodes.Item method (PowerPoint)
 keywords: vbapp10.chm560003
 f1_keywords:
 - vbapp10.chm560003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.Item
 ms.assetid: d60627fe-57cc-ce9f-1ee5-652efbd5b778

@@ -3,7 +3,6 @@ title: PrintOptions object (PowerPoint)
 keywords: vbapp10.chm517000
 f1_keywords:
 - vbapp10.chm517000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions
 ms.assetid: 19ce56ba-b0d0-4086-db86-e32feade70bd

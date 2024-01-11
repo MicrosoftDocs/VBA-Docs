@@ -3,7 +3,6 @@ title: Coauthoring.FavorServerEditsDuringMerge property (PowerPoint)
 keywords: vbapp10.chm731004
 f1_keywords:
 - vbapp10.chm731004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Coauthoring.FavorServerEditsDuringMerge
 ms.assetid: 82c563c0-b3a0-18ca-5405-6aa786c4946a

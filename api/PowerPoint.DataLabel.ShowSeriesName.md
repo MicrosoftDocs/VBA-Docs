@@ -1,6 +1,5 @@
 ---
 title: DataLabel.ShowSeriesName property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.ShowSeriesName
 ms.assetid: 5d6eac40-c951-763d-7b1d-f7e69ea88407

@@ -3,7 +3,6 @@ title: TextStyle.Ruler property (PowerPoint)
 keywords: vbapp10.chm579003
 f1_keywords:
 - vbapp10.chm579003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyle.Ruler
 ms.assetid: 01a04a13-d536-72f2-9a7c-07f703e2583c

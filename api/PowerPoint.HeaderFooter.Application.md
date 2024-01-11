@@ -3,7 +3,6 @@ title: HeaderFooter.Application property (PowerPoint)
 keywords: vbapp10.chm582001
 f1_keywords:
 - vbapp10.chm582001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.Application
 ms.assetid: 12063076-4834-3123-9f1d-bdfce8aa1ce9

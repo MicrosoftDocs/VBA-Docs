@@ -3,7 +3,6 @@ title: Presentation.Slides property (PowerPoint)
 keywords: vbapp10.chm583011
 f1_keywords:
 - vbapp10.chm583011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Slides
 ms.assetid: bf481c73-3508-a074-eb2c-a5df62e55a5c

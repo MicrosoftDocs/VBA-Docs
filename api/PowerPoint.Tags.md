@@ -3,7 +3,6 @@ title: Tags object (PowerPoint)
 keywords: vbapp10.chm611000
 f1_keywords:
 - vbapp10.chm611000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Tags
 ms.assetid: 75ecbd43-0aa7-d49d-f1f5-c6c21d8babee

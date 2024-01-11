@@ -3,7 +3,6 @@ title: PlaySettings.RewindMovie property (PowerPoint)
 keywords: vbapp10.chm568007
 f1_keywords:
 - vbapp10.chm568007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.RewindMovie
 ms.assetid: 27eb1101-9604-e33c-1d7e-c8db643be1f9

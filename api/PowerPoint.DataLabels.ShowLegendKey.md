@@ -1,6 +1,5 @@
 ---
 title: DataLabels.ShowLegendKey property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowLegendKey
 ms.assetid: 84080842-b3ab-0617-e0b2-04e865f968c9

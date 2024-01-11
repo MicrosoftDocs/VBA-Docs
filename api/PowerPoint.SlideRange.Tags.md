@@ -3,7 +3,6 @@ title: SlideRange.Tags property (PowerPoint)
 keywords: vbapp10.chm532017
 f1_keywords:
 - vbapp10.chm532017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Tags
 ms.assetid: 47e0db24-3805-788b-75a0-89c433a9e66c

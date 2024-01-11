@@ -1,6 +1,5 @@
 ---
 title: ChartTitle.IncludeInLayout property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.IncludeInLayout
 ms.assetid: d4942d3e-1c58-c3b5-c291-64bf64300f9e

@@ -1,6 +1,5 @@
 ---
 title: Chart.ChartType property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ChartType
 ms.assetid: 5a806b77-1efd-fd3a-132f-f6e3afd7315d

@@ -1,6 +1,5 @@
 ---
 title: LegendKey.Left property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Left
 ms.assetid: 79cb8efe-47a1-7d2d-c2b7-5496072ce5f7

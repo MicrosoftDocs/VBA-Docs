@@ -3,7 +3,6 @@ title: Application.Quit method (PowerPoint)
 keywords: vbapp10.chm502022
 f1_keywords:
 - vbapp10.chm502022
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Quit
 ms.assetid: d7040179-ca03-563f-5bd9-80a5fd5e5d4b

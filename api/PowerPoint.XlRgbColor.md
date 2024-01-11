@@ -1,6 +1,5 @@
 ---
 title: XlRgbColor enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlRgbColor
 ms.assetid: 46ecfb82-2b84-2c22-1ac9-0aa67ad78975

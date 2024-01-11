@@ -3,7 +3,6 @@ title: SlideShowView.Next method (PowerPoint)
 keywords: vbapp10.chm513019
 f1_keywords:
 - vbapp10.chm513019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.Next
 ms.assetid: cf95eef7-4fd7-4c47-4436-037ec1882d4c

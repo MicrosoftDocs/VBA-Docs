@@ -3,7 +3,6 @@ title: ProtectedViewWindows.Item method (PowerPoint)
 keywords: vbapp10.chm733003
 f1_keywords:
 - vbapp10.chm733003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindows.Item
 ms.assetid: 615b56a2-9e77-c718-4e70-c8469ae7af20

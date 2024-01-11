@@ -1,6 +1,5 @@
 ---
 title: ChartTitle.Position property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Position
 ms.assetid: b0e6860d-6750-9925-fa1b-6d36b101680e

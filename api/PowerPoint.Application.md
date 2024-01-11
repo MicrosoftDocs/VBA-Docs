@@ -3,7 +3,6 @@ title: Application object (PowerPoint)
 keywords: vbapp10.chm504000
 f1_keywords:
 - vbapp10.chm504000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application
 ms.assetid: 978c2b99-4271-b953-4283-73b5f3d96f41

@@ -3,7 +3,6 @@ title: Sequence.ConvertToAnimateBackground method (PowerPoint)
 keywords: vbapp10.chm651010
 f1_keywords:
 - vbapp10.chm651010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.ConvertToAnimateBackground
 ms.assetid: 75fd5a43-f8cf-5ba9-de92-3031eb938eb7

@@ -3,7 +3,6 @@ title: MotionEffect.ToY property (PowerPoint)
 keywords: vbapp10.chm658008
 f1_keywords:
 - vbapp10.chm658008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MotionEffect.ToY
 ms.assetid: e6f7a6ca-0eca-4698-512e-2e0339513bc1

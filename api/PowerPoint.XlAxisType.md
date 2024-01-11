@@ -1,6 +1,5 @@
 ---
 title: XlAxisType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlAxisType
 ms.assetid: 6eb891d5-3b69-e0a4-90e5-0b21afb1eeaa

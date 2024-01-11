@@ -1,6 +1,5 @@
 ---
 title: PpChartUnitEffect enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpChartUnitEffect
 ms.assetid: dd38d29d-5836-b684-5b46-a002e54a9c92

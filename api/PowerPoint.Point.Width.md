@@ -3,7 +3,6 @@ title: Point.Width property (PowerPoint)
 keywords: vbapp10.chm714008
 f1_keywords:
 - vbapp10.chm714008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Width
 ms.assetid: 868c1e23-f710-7679-0d3d-7f826510042e

@@ -3,7 +3,6 @@ title: TextRange.LanguageID property (PowerPoint)
 keywords: vbapp10.chm569037
 f1_keywords:
 - vbapp10.chm569037
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.LanguageID
 ms.assetid: f6744845-5125-239e-65d1-7db8dacdaecd

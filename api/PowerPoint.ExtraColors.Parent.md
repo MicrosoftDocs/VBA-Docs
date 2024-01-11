@@ -3,7 +3,6 @@ title: ExtraColors.Parent property (PowerPoint)
 keywords: vbapp10.chm529002
 f1_keywords:
 - vbapp10.chm529002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Parent
 ms.assetid: 8b9bb359-331a-8aed-9597-9fb2e71df24e

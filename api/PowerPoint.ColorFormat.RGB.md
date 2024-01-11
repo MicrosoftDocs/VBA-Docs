@@ -3,7 +3,6 @@ title: ColorFormat.RGB property (PowerPoint)
 keywords: vbapp10.chm506002
 f1_keywords:
 - vbapp10.chm506002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.RGB
 ms.assetid: 5bb68052-5931-2096-277c-fb44c76b37eb

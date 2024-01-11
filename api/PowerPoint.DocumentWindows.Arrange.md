@@ -3,7 +3,6 @@ title: DocumentWindows.Arrange method (PowerPoint)
 keywords: vbapp10.chm509004
 f1_keywords:
 - vbapp10.chm509004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Arrange
 ms.assetid: e816fc32-e26f-6a3a-8299-7db24588778f

@@ -3,7 +3,6 @@ title: ShapeRange.SetShapesDefaultProperties method (PowerPoint)
 keywords: vbapp10.chm548012
 f1_keywords:
 - vbapp10.chm548012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.SetShapesDefaultProperties
 ms.assetid: 169f174a-1e2a-370e-663c-08a851f1e4d3

@@ -3,7 +3,6 @@ title: DocumentWindow.NewWindow method (PowerPoint)
 keywords: vbapp10.chm511019
 f1_keywords:
 - vbapp10.chm511019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.NewWindow
 ms.assetid: 1c9f4e37-4e40-8d0b-246b-f9897ad9a56a

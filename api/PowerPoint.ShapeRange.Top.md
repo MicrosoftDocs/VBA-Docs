@@ -3,7 +3,6 @@ title: ShapeRange.Top property (PowerPoint)
 keywords: vbapp10.chm548037
 f1_keywords:
 - vbapp10.chm548037
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Top
 ms.assetid: 448b4c64-6519-ce0d-fb2e-9dbc65462494

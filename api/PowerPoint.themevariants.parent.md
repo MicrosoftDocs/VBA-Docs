@@ -2,7 +2,6 @@
 title: ThemeVariants.Parent property (PowerPoint)
 ms.assetid: 1b305929-0fe2-319e-ba86-4156fcf33ca3
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

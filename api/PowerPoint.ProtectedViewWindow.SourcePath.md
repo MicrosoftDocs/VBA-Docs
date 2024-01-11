@@ -3,7 +3,6 @@ title: ProtectedViewWindow.SourcePath property (PowerPoint)
 keywords: vbapp10.chm734007
 f1_keywords:
 - vbapp10.chm734007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.SourcePath
 ms.assetid: 4225d81b-d508-3dca-9173-f4a687016871

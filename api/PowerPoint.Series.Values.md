@@ -3,7 +3,6 @@ title: Series.Values property (PowerPoint)
 keywords: vbapp10.chm65700
 f1_keywords:
 - vbapp10.chm65700
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Values
 ms.assetid: ff6ceb5c-e7c3-6b75-8225-d18dd3baa2b8

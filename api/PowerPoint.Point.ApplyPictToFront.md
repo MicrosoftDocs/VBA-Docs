@@ -1,6 +1,5 @@
 ---
 title: Point.ApplyPictToFront property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.ApplyPictToFront
 ms.assetid: c883883d-ad54-ef4b-c749-a4efe721a96f

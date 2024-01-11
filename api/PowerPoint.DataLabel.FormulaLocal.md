@@ -3,7 +3,6 @@ title: DataLabel.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm696007
 f1_keywords:
 - vbapp10.chm696007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.FormulaLocal
 ms.assetid: bbc415cf-89b4-b2be-4b24-085c6e20edf1

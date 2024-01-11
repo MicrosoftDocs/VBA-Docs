@@ -3,7 +3,6 @@ title: Application.Build property (PowerPoint)
 keywords: vbapp10.chm502014
 f1_keywords:
 - vbapp10.chm502014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Build
 ms.assetid: e485e2f1-835c-33aa-c585-32fbd3af4a88

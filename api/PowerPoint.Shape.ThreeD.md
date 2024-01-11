@@ -3,7 +3,6 @@ title: Shape.ThreeD property (PowerPoint)
 keywords: vbapp10.chm547036
 f1_keywords:
 - vbapp10.chm547036
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ThreeD
 ms.assetid: 16f0bc6a-ae6c-f4c3-9e3c-641f069eb7f6

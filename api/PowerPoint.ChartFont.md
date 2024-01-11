@@ -3,7 +3,6 @@ title: ChartFont object (PowerPoint)
 keywords: vbapp10.chm704000
 f1_keywords:
 - vbapp10.chm704000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont
 ms.assetid: 185dfaa0-4ed9-01d2-6584-b0838b50ef8c

@@ -3,7 +3,6 @@ title: View.MediaControlsVisible property (PowerPoint)
 keywords: vbapp10.chm512014
 f1_keywords:
 - vbapp10.chm512014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.View.MediaControlsVisible
 ms.assetid: 7cd6d54e-7a72-0190-47fd-f615313bc17f

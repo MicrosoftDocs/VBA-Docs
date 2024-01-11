@@ -3,7 +3,6 @@ title: TextFrame2.TextRange property (PowerPoint)
 keywords: vbapp10.chm678016
 f1_keywords:
 - vbapp10.chm678016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.TextRange
 ms.assetid: 288c1209-d12d-fd7c-bc1a-6775d844ca6b

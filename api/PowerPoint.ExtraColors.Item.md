@@ -3,7 +3,6 @@ title: ExtraColors.Item method (PowerPoint)
 keywords: vbapp10.chm529003
 f1_keywords:
 - vbapp10.chm529003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ExtraColors.Item
 ms.assetid: 213ced3f-fb6a-4447-e73f-1eeeb9f3cebb

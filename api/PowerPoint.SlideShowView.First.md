@@ -3,7 +3,6 @@ title: SlideShowView.First method (PowerPoint)
 keywords: vbapp10.chm513017
 f1_keywords:
 - vbapp10.chm513017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.First
 ms.assetid: 5f360832-2deb-b3df-7b55-5a3c964d0057

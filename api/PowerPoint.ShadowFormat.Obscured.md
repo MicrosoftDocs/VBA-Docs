@@ -3,7 +3,6 @@ title: ShadowFormat.Obscured property (PowerPoint)
 keywords: vbapp10.chm554005
 f1_keywords:
 - vbapp10.chm554005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Obscured
 ms.assetid: 18f029de-cfaf-61d2-6fec-f9fdc53f8d1f

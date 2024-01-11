@@ -1,6 +1,5 @@
 ---
 title: Trendlines.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines.Creator
 ms.assetid: 68677f70-e6ff-869d-218e-84cb0c98f4f2

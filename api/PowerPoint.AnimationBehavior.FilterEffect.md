@@ -3,7 +3,6 @@ title: AnimationBehavior.FilterEffect property (PowerPoint)
 keywords: vbapp10.chm657014
 f1_keywords:
 - vbapp10.chm657014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.FilterEffect
 ms.assetid: e661aea9-f83d-db2e-6988-4bc1f9e15287

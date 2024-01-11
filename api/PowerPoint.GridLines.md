@@ -3,7 +3,6 @@ title: Gridlines object (PowerPoint)
 keywords: vbapp10.chm705000
 f1_keywords:
 - vbapp10.chm705000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.GridLines
 ms.assetid: 10b45c4c-05a3-f722-15ca-ad0242625edb

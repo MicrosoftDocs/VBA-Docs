@@ -3,7 +3,6 @@ title: ChartGroup.FirstSliceAngle property (PowerPoint)
 keywords: vbapp10.chm692010
 f1_keywords:
 - vbapp10.chm692010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.FirstSliceAngle
 ms.assetid: fb09ab99-9a85-3932-f569-56b5bbb87b50

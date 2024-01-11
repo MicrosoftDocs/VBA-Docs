@@ -3,7 +3,6 @@ title: DropLines.Border property (PowerPoint)
 keywords: vbapp10.chm701003
 f1_keywords:
 - vbapp10.chm701003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DropLines.Border
 ms.assetid: e83f316d-80ed-da3a-7e73-82e86a9384aa

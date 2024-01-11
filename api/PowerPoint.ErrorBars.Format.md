@@ -3,7 +3,6 @@ title: ErrorBars.Format property (PowerPoint)
 keywords: vbapp10.chm702001
 f1_keywords:
 - vbapp10.chm702001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Format
 ms.assetid: dde0fb80-44c2-055c-15ed-40018bf0e058

@@ -1,6 +1,5 @@
 ---
 title: GroupShapes.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Application
 ms.assetid: 66ec102a-4c7d-aa61-6b05-8950f429468c

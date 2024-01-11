@@ -3,7 +3,6 @@ title: TableBackground.Reflection property (PowerPoint)
 keywords: vbapp10.chm677003
 f1_keywords:
 - vbapp10.chm677003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TableBackground.Reflection
 ms.assetid: 5cd83cc0-54c1-1b95-658e-78a4659c5a43

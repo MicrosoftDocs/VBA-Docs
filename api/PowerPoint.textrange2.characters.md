@@ -2,7 +2,6 @@
 title: TextRange2.Characters property (PowerPoint)
 ms.assetid: 5a7f47ac-8d22-42f3-af2f-0a381315ce07
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

@@ -3,7 +3,6 @@ title: Timing.TriggerShape property (PowerPoint)
 keywords: vbapp10.chm653006
 f1_keywords:
 - vbapp10.chm653006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.TriggerShape
 ms.assetid: 0b9431d2-0cea-d279-4aa7-24dd145e987e

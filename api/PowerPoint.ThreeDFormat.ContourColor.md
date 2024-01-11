@@ -3,7 +3,6 @@ title: ThreeDFormat.ContourColor property (PowerPoint)
 keywords: vbapp10.chm557034
 f1_keywords:
 - vbapp10.chm557034
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.ContourColor
 ms.assetid: 9f1f9ad3-ee00-3fdc-70c5-fe691a5a75d5

@@ -3,7 +3,6 @@ title: AxisTitle.Orientation property (PowerPoint)
 keywords: vbapp10.chm683006
 f1_keywords:
 - vbapp10.chm683006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Orientation
 ms.assetid: b743fe8f-35c1-e289-5d74-ff317f19b0a3

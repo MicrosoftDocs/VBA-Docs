@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Top property (PowerPoint)
 keywords: vbapp10.chm699009
 f1_keywords:
 - vbapp10.chm699009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Top
 ms.assetid: 02434828-0000-1744-cb06-9cfa3968cd00

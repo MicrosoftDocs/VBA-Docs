@@ -3,7 +3,6 @@ title: EffectParameters.FontName property (PowerPoint)
 keywords: vbapp10.chm654008
 f1_keywords:
 - vbapp10.chm654008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.FontName
 ms.assetid: a2f966d5-060e-60b8-422f-b4fab5247736

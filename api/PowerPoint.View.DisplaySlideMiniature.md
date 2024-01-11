@@ -3,7 +3,6 @@ title: View.DisplaySlideMiniature property (PowerPoint)
 keywords: vbapp10.chm512008
 f1_keywords:
 - vbapp10.chm512008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.View.DisplaySlideMiniature
 ms.assetid: 50781703-1e04-0e95-80d9-2b518130f3eb

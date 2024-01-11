@@ -3,7 +3,6 @@ title: Chart.DepthPercent property (PowerPoint)
 keywords: vbapp10.chm684025
 f1_keywords:
 - vbapp10.chm684025
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.DepthPercent
 ms.assetid: f80bbd4f-3a4f-71c0-1859-c71a57aec22b

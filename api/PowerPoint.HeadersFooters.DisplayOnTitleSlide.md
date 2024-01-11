@@ -3,7 +3,6 @@ title: HeadersFooters.DisplayOnTitleSlide property (PowerPoint)
 keywords: vbapp10.chm542007
 f1_keywords:
 - vbapp10.chm542007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HeadersFooters.DisplayOnTitleSlide
 ms.assetid: adcf0504-50ce-b302-c61f-08425acf847c

@@ -3,7 +3,6 @@ title: BulletFormat.Character property (PowerPoint)
 keywords: vbapp10.chm577004
 f1_keywords:
 - vbapp10.chm577004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.Character
 ms.assetid: 42480e47-fc3a-d8aa-1368-a76b6776363a

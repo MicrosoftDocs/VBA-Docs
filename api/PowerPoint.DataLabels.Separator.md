@@ -1,6 +1,5 @@
 ---
 title: DataLabels.Separator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.Separator
 ms.assetid: e0bc6147-61c8-8df9-ff42-591f60c5b7f5

@@ -3,7 +3,6 @@ title: Axis.ReversePlotOrder property (PowerPoint)
 keywords: vbapp10.chm682025
 f1_keywords:
 - vbapp10.chm682025
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.ReversePlotOrder
 ms.assetid: 630d989b-1f9b-5258-d0be-479f362d2c66

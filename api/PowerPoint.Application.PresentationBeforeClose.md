@@ -3,7 +3,6 @@ title: Application.PresentationBeforeClose event (PowerPoint)
 keywords: vbapp10.chm621025
 f1_keywords:
 - vbapp10.chm621025
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.PresentationBeforeClose
 ms.assetid: 8c2d820b-aa44-287b-10ad-1dc6f4122231

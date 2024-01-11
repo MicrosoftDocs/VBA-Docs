@@ -3,7 +3,6 @@ title: Application.PresentationBeforeSave event (PowerPoint)
 keywords: vbapp10.chm621018
 f1_keywords:
 - vbapp10.chm621018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.PresentationBeforeSave
 ms.assetid: 40943fe2-796f-45db-db0d-44b66854e196

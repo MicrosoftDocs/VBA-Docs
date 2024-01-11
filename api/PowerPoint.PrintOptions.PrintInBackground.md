@@ -3,7 +3,6 @@ title: PrintOptions.PrintInBackground property (PowerPoint)
 keywords: vbapp10.chm517010
 f1_keywords:
 - vbapp10.chm517010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.PrintInBackground
 ms.assetid: d3a734a3-fa17-2321-1c29-6167f0110bd7

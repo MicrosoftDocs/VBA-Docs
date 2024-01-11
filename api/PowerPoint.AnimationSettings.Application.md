@@ -3,7 +3,6 @@ title: AnimationSettings.Application property (PowerPoint)
 keywords: vbapp10.chm565001
 f1_keywords:
 - vbapp10.chm565001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.Application
 ms.assetid: caf149e6-302b-ff24-da9e-e604d4146480

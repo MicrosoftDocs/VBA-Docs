@@ -3,7 +3,6 @@ title: Chart.Legend property (PowerPoint)
 keywords: vbapp10.chm684035
 f1_keywords:
 - vbapp10.chm684035
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Legend
 ms.assetid: 1bd67a75-9dd4-2d8c-99b5-82bc91cf85d9

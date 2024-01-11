@@ -3,7 +3,6 @@ title: Presentation.VBASigned property (PowerPoint)
 keywords: vbapp10.chm583059
 f1_keywords:
 - vbapp10.chm583059
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.VBASigned
 ms.assetid: eebb411d-6312-f858-275f-b0f0ee12b212

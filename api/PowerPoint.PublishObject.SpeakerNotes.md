@@ -3,7 +3,6 @@ title: PublishObject.SpeakerNotes property (PowerPoint)
 keywords: vbapp10.chm635008
 f1_keywords:
 - vbapp10.chm635008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.SpeakerNotes
 ms.assetid: 2dabb3db-4f94-c640-2c4d-d6c10551f903

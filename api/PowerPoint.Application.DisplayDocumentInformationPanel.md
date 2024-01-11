@@ -3,7 +3,6 @@ title: Application.DisplayDocumentInformationPanel property (PowerPoint)
 keywords: vbapp10.chm502057
 f1_keywords:
 - vbapp10.chm502057
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.DisplayDocumentInformationPanel
 ms.assetid: 473f5e46-2615-b456-12ca-440afda0e642

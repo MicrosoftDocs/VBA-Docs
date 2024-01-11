@@ -3,7 +3,6 @@ title: Shape.ParentGroup property (PowerPoint)
 keywords: vbapp10.chm547067
 f1_keywords:
 - vbapp10.chm547067
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ParentGroup
 ms.assetid: 1566110f-81dc-b73a-d658-2f6189113068

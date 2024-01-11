@@ -3,7 +3,6 @@ title: PictureFormat.IncrementBrightness method (PowerPoint)
 keywords: vbapp10.chm551002
 f1_keywords:
 - vbapp10.chm551002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.IncrementBrightness
 ms.assetid: 4237d547-2c8b-9ed2-f131-6a4fb52ee0a2

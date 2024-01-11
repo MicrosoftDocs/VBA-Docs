@@ -3,7 +3,6 @@ title: SlideShowWindow.Left property (PowerPoint)
 keywords: vbapp10.chm507006
 f1_keywords:
 - vbapp10.chm507006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Left
 ms.assetid: dca2a215-cfeb-662a-d495-6f1940bd0f66

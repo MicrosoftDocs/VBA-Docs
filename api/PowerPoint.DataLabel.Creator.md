@@ -1,6 +1,5 @@
 ---
 title: DataLabel.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Creator
 ms.assetid: 2936440e-8039-e9fb-1f9d-84d131834bc5

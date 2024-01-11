@@ -3,7 +3,6 @@ title: Comment.Delete method (PowerPoint)
 keywords: vbapp10.chm642010
 f1_keywords:
 - vbapp10.chm642010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.Delete
 ms.assetid: 85f164ff-1fa6-8ed5-5915-a13493de326a

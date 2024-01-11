@@ -3,7 +3,6 @@ title: SlideShowSettings.EndingSlide property (PowerPoint)
 keywords: vbapp10.chm514006
 f1_keywords:
 - vbapp10.chm514006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.EndingSlide
 ms.assetid: 50489e3a-bdfe-b495-97d1-69ba1d7bf2b9

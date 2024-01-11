@@ -1,6 +1,5 @@
 ---
 title: DataLabel.ReadingOrder property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.ReadingOrder
 ms.assetid: a684bc32-9a56-85d6-3082-295470b89398

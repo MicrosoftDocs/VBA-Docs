@@ -1,6 +1,5 @@
 ---
 title: DataLabels.ShowBubbleSize property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabels.ShowBubbleSize
 ms.assetid: 78cb2f6f-f13c-9cc6-9842-ba8000273165

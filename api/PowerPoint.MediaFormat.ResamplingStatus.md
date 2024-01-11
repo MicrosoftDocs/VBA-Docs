@@ -3,7 +3,6 @@ title: MediaFormat.ResamplingStatus property (PowerPoint)
 keywords: vbapp10.chm724015
 f1_keywords:
 - vbapp10.chm724015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.ResamplingStatus
 ms.assetid: 2a53f58e-3533-e93e-2aa1-9c6250f9c336

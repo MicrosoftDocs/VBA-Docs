@@ -3,7 +3,6 @@ title: Model3DFormat.RotationY property (PowerPoint)
 keywords: vbapp10.chm743011
 f1_keywords:
 - vbapp10.chm743011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.RotationY
 ms.date: 04/11/2019

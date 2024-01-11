@@ -3,7 +3,6 @@ title: ResampleMediaTask.IsLinked property (PowerPoint)
 keywords: vbapp10.chm727002
 f1_keywords:
 - vbapp10.chm727002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.IsLinked
 ms.assetid: 9370b70d-8e0c-33ff-78fa-d1d6f947cbac

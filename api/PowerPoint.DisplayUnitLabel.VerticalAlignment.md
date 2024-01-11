@@ -3,7 +3,6 @@ title: DisplayUnitLabel.VerticalAlignment property (PowerPoint)
 keywords: vbapp10.chm699010
 f1_keywords:
 - vbapp10.chm699010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.VerticalAlignment
 ms.assetid: 247def05-2d24-c0aa-a3b6-0e2b548ee10e

@@ -3,7 +3,6 @@ title: Shapes.AddShape method (PowerPoint)
 keywords: vbapp10.chm543012
 f1_keywords:
 - vbapp10.chm543012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddShape
 ms.assetid: 2bc6cce5-3461-61ff-083d-bd36ee71cb59

@@ -1,6 +1,5 @@
 ---
 title: SlideShowWindows.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindows.Count
 ms.assetid: 19f91cd6-c12d-92b1-21e9-a3a0916bf4df

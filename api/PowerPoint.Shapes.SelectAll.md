@@ -3,7 +3,6 @@ title: Shapes.SelectAll method (PowerPoint)
 keywords: vbapp10.chm543016
 f1_keywords:
 - vbapp10.chm543016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.SelectAll
 ms.assetid: 9d3f5b93-2a8b-5b9a-d725-729baa190a38
