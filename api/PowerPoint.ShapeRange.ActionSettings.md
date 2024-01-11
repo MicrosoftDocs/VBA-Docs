@@ -3,7 +3,6 @@ title: ShapeRange.ActionSettings property (PowerPoint)
 keywords: vbapp10.chm548048
 f1_keywords:
 - vbapp10.chm548048
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ActionSettings
 ms.assetid: 5e4c3e26-be69-ce78-41e4-903534fde7a9

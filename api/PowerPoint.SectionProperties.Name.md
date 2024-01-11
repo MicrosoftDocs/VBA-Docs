@@ -3,7 +3,6 @@ title: SectionProperties.Name method (PowerPoint)
 keywords: vbapp10.chm725004
 f1_keywords:
 - vbapp10.chm725004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.Name
 ms.assetid: d90b7585-929e-b7a2-ec53-081c5a579d08

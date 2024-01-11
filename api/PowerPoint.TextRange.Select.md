@@ -3,7 +3,6 @@ title: TextRange.Select method (PowerPoint)
 keywords: vbapp10.chm569026
 f1_keywords:
 - vbapp10.chm569026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Select
 ms.assetid: cd6fb1ba-ac49-a7d8-2777-fda2ce2746a4

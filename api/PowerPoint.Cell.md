@@ -3,7 +3,6 @@ title: Cell object (PowerPoint)
 keywords: vbapp10.chm628000
 f1_keywords:
 - vbapp10.chm628000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell
 ms.assetid: e89e5d69-33b1-d7b1-0a6c-4dfd8b676977

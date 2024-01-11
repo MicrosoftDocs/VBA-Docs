@@ -3,7 +3,6 @@ title: ChartGroup.ShowNegativeBubbles property (PowerPoint)
 keywords: vbapp10.chm692002
 f1_keywords:
 - vbapp10.chm692002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.ShowNegativeBubbles
 ms.assetid: 0f197a05-0f3c-841f-e3f7-a27c2e8b6130

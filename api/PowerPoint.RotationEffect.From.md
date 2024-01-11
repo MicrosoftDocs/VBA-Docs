@@ -3,7 +3,6 @@ title: RotationEffect.From property (PowerPoint)
 keywords: vbapp10.chm661004
 f1_keywords:
 - vbapp10.chm661004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.RotationEffect.From
 ms.assetid: 9d5167f1-af74-3cfb-62b6-73afeadd10f8

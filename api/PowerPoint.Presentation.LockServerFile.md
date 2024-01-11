@@ -3,7 +3,6 @@ title: Presentation.LockServerFile method (PowerPoint)
 keywords: vbapp10.chm583100
 f1_keywords:
 - vbapp10.chm583100
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.LockServerFile
 ms.assetid: 4d32b87c-d461-392b-f267-cd2643f65fcb

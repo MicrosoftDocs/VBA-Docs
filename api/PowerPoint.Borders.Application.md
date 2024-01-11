@@ -3,7 +3,6 @@ title: Borders.Application property (PowerPoint)
 keywords: vbapp10.chm629001
 f1_keywords:
 - vbapp10.chm629001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders.Application
 ms.assetid: 85842c3f-dca3-48e5-31c9-4614ffaf2a59

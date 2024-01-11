@@ -1,6 +1,5 @@
 ---
 title: Point.MarkerBackgroundColor property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerBackgroundColor
 ms.assetid: afb56414-a2f4-944d-5b69-014ae5374719

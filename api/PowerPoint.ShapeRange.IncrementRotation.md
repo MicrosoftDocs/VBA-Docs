@@ -3,7 +3,6 @@ title: ShapeRange.IncrementRotation method (PowerPoint)
 keywords: vbapp10.chm548006
 f1_keywords:
 - vbapp10.chm548006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.IncrementRotation
 ms.assetid: 427367bb-5264-86de-cf39-be252c4b7098

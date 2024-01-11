@@ -1,6 +1,5 @@
 ---
 title: TextStyleLevels.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevels.Count
 ms.assetid: ec2c4c53-482d-725a-5d86-3869d55dda38

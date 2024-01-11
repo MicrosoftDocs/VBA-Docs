@@ -3,7 +3,6 @@ title: ChartGroup.BubbleScale property (PowerPoint)
 keywords: vbapp10.chm692008
 f1_keywords:
 - vbapp10.chm692008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.BubbleScale
 ms.assetid: ecc3f3e1-512c-cbd1-094a-337d5f2ba83f

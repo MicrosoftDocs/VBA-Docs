@@ -3,7 +3,6 @@ title: Shape.OLEFormat property (PowerPoint)
 keywords: vbapp10.chm547044
 f1_keywords:
 - vbapp10.chm547044
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.OLEFormat
 ms.assetid: d9353732-0b91-ae53-a468-07a57359295d

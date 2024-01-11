@@ -3,7 +3,6 @@ title: Presentation.CheckIn method (PowerPoint)
 keywords: vbapp10.chm583065
 f1_keywords:
 - vbapp10.chm583065
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.CheckIn
 ms.assetid: 63621199-7cda-c464-527f-f55130753f08

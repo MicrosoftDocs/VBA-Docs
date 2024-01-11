@@ -3,7 +3,6 @@ title: Hyperlink.ShowAndReturn property (PowerPoint)
 keywords: vbapp10.chm526010
 f1_keywords:
 - vbapp10.chm526010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.ShowAndReturn
 ms.assetid: 5d08a3ff-8352-0523-2d8c-629f996b296a

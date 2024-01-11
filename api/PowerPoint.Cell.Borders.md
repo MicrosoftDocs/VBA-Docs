@@ -3,7 +3,6 @@ title: Cell.Borders property (PowerPoint)
 keywords: vbapp10.chm628004
 f1_keywords:
 - vbapp10.chm628004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Borders
 ms.assetid: 1c9e2d38-237b-4c86-1135-af7533876501

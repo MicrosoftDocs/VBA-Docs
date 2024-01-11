@@ -3,7 +3,6 @@ title: CalloutFormat.AutoAttach property (PowerPoint)
 keywords: vbapp10.chm559008
 f1_keywords:
 - vbapp10.chm559008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.AutoAttach
 ms.assetid: bb11ebc3-c84b-9bc0-0bb2-ae30690c7828

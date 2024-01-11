@@ -3,7 +3,6 @@ title: FileConverters.Item method (PowerPoint)
 keywords: vbapp10.chm679001
 f1_keywords:
 - vbapp10.chm679001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverters.Item
 ms.assetid: 4bd61f6b-6c43-4581-caaa-77e17ee6a354

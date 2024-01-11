@@ -3,7 +3,6 @@ title: Trendline.Application property (PowerPoint)
 keywords: vbapp10.chm720002
 f1_keywords:
 - vbapp10.chm720002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Application
 ms.assetid: 22f92cd7-eb91-ca24-d122-7bc3be460ebc

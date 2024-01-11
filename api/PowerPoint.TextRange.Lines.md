@@ -3,7 +3,6 @@ title: TextRange.Lines method (PowerPoint)
 keywords: vbapp10.chm569014
 f1_keywords:
 - vbapp10.chm569014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Lines
 ms.assetid: 8e9f344b-2e74-5a9d-06e8-3e6ff9ca6bd0

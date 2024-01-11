@@ -3,7 +3,6 @@ title: Presentation.HandoutMaster property (PowerPoint)
 keywords: vbapp10.chm583010
 f1_keywords:
 - vbapp10.chm583010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.HandoutMaster
 ms.assetid: d80a8e51-61db-8da0-1fda-20a043e62569

@@ -1,6 +1,5 @@
 ---
 title: Point.PictureType property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.PictureType
 ms.assetid: c523316f-3834-e30d-ef2a-95f9be29a110

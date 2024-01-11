@@ -3,7 +3,6 @@ title: Shapes.AddCallout method (PowerPoint)
 keywords: vbapp10.chm543005
 f1_keywords:
 - vbapp10.chm543005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddCallout
 ms.assetid: e4b468d7-793a-09ae-fcfc-6a73db93c90e

@@ -3,7 +3,6 @@ title: FillFormat.RotateWithObject property (PowerPoint)
 keywords: vbapp10.chm552032
 f1_keywords:
 - vbapp10.chm552032
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.RotateWithObject
 ms.assetid: 46197f92-b12a-957f-1ab5-063b0d4d2933

@@ -1,6 +1,5 @@
 ---
 title: ChartCharacters.Parent property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Parent
 ms.assetid: 31ed3b44-8a16-2aee-ee1f-edc643ff07a6

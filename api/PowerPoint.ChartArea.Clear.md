@@ -1,6 +1,5 @@
 ---
 title: ChartArea.Clear method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Clear
 ms.assetid: fa22b630-405c-f771-faaa-14bdf8d9fa8b

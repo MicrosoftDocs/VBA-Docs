@@ -3,7 +3,6 @@ title: Effect.MoveBefore method (PowerPoint)
 keywords: vbapp10.chm652005
 f1_keywords:
 - vbapp10.chm652005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.MoveBefore
 ms.assetid: c71f8785-737d-b2cf-8d9d-bed49e1ba754

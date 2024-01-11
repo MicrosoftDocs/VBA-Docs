@@ -3,7 +3,6 @@ title: SlideRange.Cut method (PowerPoint)
 keywords: vbapp10.chm532012
 f1_keywords:
 - vbapp10.chm532012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Cut
 ms.assetid: 91d80a2b-e67a-290b-cb41-6bbeeb467d1b

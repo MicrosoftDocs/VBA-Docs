@@ -3,7 +3,6 @@ title: RotationEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm661002
 f1_keywords:
 - vbapp10.chm661002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.RotationEffect.Parent
 ms.assetid: 1355565d-c2cb-2bc3-0749-c6b06efb7c25

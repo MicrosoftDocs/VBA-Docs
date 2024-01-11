@@ -2,7 +2,6 @@
 title: ChartFormat.Adjustments property (PowerPoint)
 ms.assetid: ff27cd8d-ccb7-189a-51b6-cabdbbe0a505
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

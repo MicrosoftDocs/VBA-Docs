@@ -1,6 +1,5 @@
 ---
 title: Series.Shadow property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Shadow
 ms.assetid: 4b530abf-5966-89eb-3ab2-5dbe4c1f2adf

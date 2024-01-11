@@ -3,7 +3,6 @@ title: TextFrame2 object (PowerPoint)
 keywords: vbapp10.chm678000
 f1_keywords:
 - vbapp10.chm678000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2
 ms.assetid: ae017598-8330-4673-db1a-53b284acb709

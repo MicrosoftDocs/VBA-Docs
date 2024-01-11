@@ -3,7 +3,6 @@ title: AddIns.Add method (PowerPoint)
 keywords: vbapp10.chm520004
 f1_keywords:
 - vbapp10.chm520004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIns.Add
 ms.assetid: e476e0dc-e82b-c460-822b-def325330514

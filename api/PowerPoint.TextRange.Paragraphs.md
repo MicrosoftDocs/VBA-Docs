@@ -3,7 +3,6 @@ title: TextRange.Paragraphs method (PowerPoint)
 keywords: vbapp10.chm569010
 f1_keywords:
 - vbapp10.chm569010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Paragraphs
 ms.assetid: 5062eccf-4db2-692f-501e-b7d214181171

@@ -3,7 +3,6 @@ title: Shape.Name property (PowerPoint)
 keywords: vbapp10.chm547029
 f1_keywords:
 - vbapp10.chm547029
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Name
 ms.assetid: 66e1d7e8-9398-8f01-d130-7206a48a63b3

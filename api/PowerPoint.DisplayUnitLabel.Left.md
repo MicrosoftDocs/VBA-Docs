@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Left property (PowerPoint)
 keywords: vbapp10.chm699005
 f1_keywords:
 - vbapp10.chm699005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Left
 ms.assetid: f5b6c9af-b95b-1cab-9e79-4a8e79c8b1c0

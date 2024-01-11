@@ -1,6 +1,5 @@
 ---
 title: CustomLayouts.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Count
 ms.assetid: 9267940e-244b-6f22-a517-2ec5728f40fa

@@ -3,7 +3,6 @@ title: TextEffectFormat.KernedPairs property (PowerPoint)
 keywords: vbapp10.chm556008
 f1_keywords:
 - vbapp10.chm556008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.KernedPairs
 ms.assetid: 03f0395e-ee31-80d2-7c0d-f404685a0e86

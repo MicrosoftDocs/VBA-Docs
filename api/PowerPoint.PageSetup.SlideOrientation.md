@@ -3,7 +3,6 @@ title: PageSetup.SlideOrientation property (PowerPoint)
 keywords: vbapp10.chm527008
 f1_keywords:
 - vbapp10.chm527008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.SlideOrientation
 ms.assetid: 24278d5b-075a-3f30-4667-b9c3af102382

@@ -3,7 +3,6 @@ title: AnimationSettings.Parent property (PowerPoint)
 keywords: vbapp10.chm565002
 f1_keywords:
 - vbapp10.chm565002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.Parent
 ms.assetid: 73f01a7a-51c5-129f-34bf-2b7385e98ba5

@@ -3,7 +3,6 @@ title: TickLabels.Orientation property (PowerPoint)
 keywords: vbapp10.chm719008
 f1_keywords:
 - vbapp10.chm719008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Orientation
 ms.assetid: 72ec5032-4d66-4536-adf3-1aa41056ac6a

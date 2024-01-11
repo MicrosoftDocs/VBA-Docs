@@ -3,7 +3,6 @@ title: Presentation.ReadOnlyRecommended property (PowerPoint)
 keywords: vbapp10.chm583136
 f1_keywords:
 - vbapp10.chm583136
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.ReadOnlyRecommended
 ms.date: 09/18/2020

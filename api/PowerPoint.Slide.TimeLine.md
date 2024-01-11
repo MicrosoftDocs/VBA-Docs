@@ -3,7 +3,6 @@ title: Slide.TimeLine property (PowerPoint)
 keywords: vbapp10.chm531031
 f1_keywords:
 - vbapp10.chm531031
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.TimeLine
 ms.assetid: 7dda6e00-5e22-fb2f-91d9-e9c15f8d62bd

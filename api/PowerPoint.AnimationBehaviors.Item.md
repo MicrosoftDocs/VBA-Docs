@@ -3,7 +3,6 @@ title: AnimationBehaviors.Item method (PowerPoint)
 keywords: vbapp10.chm656003
 f1_keywords:
 - vbapp10.chm656003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehaviors.Item
 ms.assetid: 22f5f62b-3724-daab-dfbc-a9bd6a91b177

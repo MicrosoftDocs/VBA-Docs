@@ -3,7 +3,6 @@ title: Timing.RepeatCount property (PowerPoint)
 keywords: vbapp10.chm653007
 f1_keywords:
 - vbapp10.chm653007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.RepeatCount
 ms.assetid: 71d31607-6006-f2c0-cfa3-3711791331bc

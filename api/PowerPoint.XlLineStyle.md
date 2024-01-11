@@ -1,6 +1,5 @@
 ---
 title: XlLineStyle enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlLineStyle
 ms.assetid: b9d0f590-e0f5-ebe0-f24f-35c840eb5fed

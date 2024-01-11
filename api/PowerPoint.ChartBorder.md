@@ -3,7 +3,6 @@ title: ChartBorder object (PowerPoint)
 keywords: vbapp10.chm685000
 f1_keywords:
 - vbapp10.chm685000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder
 ms.assetid: fd651a9a-4068-9a9b-f605-9228da5e6183

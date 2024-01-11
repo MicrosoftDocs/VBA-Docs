@@ -3,7 +3,6 @@ title: ConnectorFormat object (PowerPoint)
 keywords: vbapp10.chm555000
 f1_keywords:
 - vbapp10.chm555000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat
 ms.assetid: 54504fab-8279-1012-db7f-3f19a4840637

@@ -3,7 +3,6 @@ title: TextRange.TrimText method (PowerPoint)
 keywords: vbapp10.chm569016
 f1_keywords:
 - vbapp10.chm569016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.TrimText
 ms.assetid: 8566ed9d-c73a-d699-bcb7-edcd9a375afe

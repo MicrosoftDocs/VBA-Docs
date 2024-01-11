@@ -3,7 +3,6 @@ title: PrintOptions.Ranges property (PowerPoint)
 keywords: vbapp10.chm517012
 f1_keywords:
 - vbapp10.chm517012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.Ranges
 ms.assetid: d0011261-a663-534d-204f-af2cd02f72be

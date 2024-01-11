@@ -3,7 +3,6 @@ title: ThreeDFormat.Perspective property (PowerPoint)
 keywords: vbapp10.chm557010
 f1_keywords:
 - vbapp10.chm557010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Perspective
 ms.assetid: 1da4fd78-c1ae-16c8-0232-71cc0b2273e2

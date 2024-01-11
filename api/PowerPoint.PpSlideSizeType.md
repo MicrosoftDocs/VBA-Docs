@@ -1,6 +1,5 @@
 ---
 title: PpSlideSizeType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideSizeType
 ms.assetid: cfb46d0b-35e3-ac11-1052-a8865ba40aeb

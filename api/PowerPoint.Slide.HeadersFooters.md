@@ -3,7 +3,6 @@ title: Slide.HeadersFooters property (PowerPoint)
 keywords: vbapp10.chm531004
 f1_keywords:
 - vbapp10.chm531004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.HeadersFooters
 ms.assetid: 947eb2cf-6902-2eb1-f781-0602e96bbdef

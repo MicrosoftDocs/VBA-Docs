@@ -3,7 +3,6 @@ title: Axis.DisplayUnitLabel property (PowerPoint)
 keywords: vbapp10.chm682045
 f1_keywords:
 - vbapp10.chm682045
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.DisplayUnitLabel
 ms.assetid: 75b01ce4-8edd-bbaa-d0fb-2d36c96b4da6

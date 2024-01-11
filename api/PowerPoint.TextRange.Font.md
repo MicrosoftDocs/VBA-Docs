@@ -3,7 +3,6 @@ title: TextRange.Font property (PowerPoint)
 keywords: vbapp10.chm569023
 f1_keywords:
 - vbapp10.chm569023
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Font
 ms.assetid: 234c8843-3c0d-a425-0173-02c3910ba400

@@ -3,7 +3,6 @@ title: DownBars.Format property (PowerPoint)
 keywords: vbapp10.chm700001
 f1_keywords:
 - vbapp10.chm700001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars.Format
 ms.assetid: 88e21b37-4b2f-bd83-f912-93718aba7f2d

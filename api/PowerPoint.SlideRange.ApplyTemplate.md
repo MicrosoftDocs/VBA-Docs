@@ -3,7 +3,6 @@ title: SlideRange.ApplyTemplate method (PowerPoint)
 keywords: vbapp10.chm532036
 f1_keywords:
 - vbapp10.chm532036
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.ApplyTemplate
 ms.assetid: 3bf6d3e0-bc37-00f3-868e-869f51c62ad3

@@ -1,6 +1,5 @@
 ---
 title: LegendEntries.Item method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Item
 ms.assetid: 67745179-84b3-a2b8-23d8-ceb393828af7

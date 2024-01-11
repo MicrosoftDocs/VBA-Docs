@@ -3,7 +3,6 @@ title: ShapeNodes.Count property (PowerPoint)
 keywords: vbapp10.chm560002
 f1_keywords:
 - vbapp10.chm560002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.Count
 ms.assetid: 63f8a4da-1b0a-b72c-06ed-27477fb74809

@@ -3,7 +3,6 @@ title: LegendEntry object (PowerPoint)
 keywords: vbapp10.chm711000
 f1_keywords:
 - vbapp10.chm711000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry
 ms.assetid: c92ddccd-92a3-bec9-cdcd-efd82c77706b

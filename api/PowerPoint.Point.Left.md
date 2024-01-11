@@ -3,7 +3,6 @@ title: Point.Left property (PowerPoint)
 keywords: vbapp10.chm714009
 f1_keywords:
 - vbapp10.chm714009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Left
 ms.assetid: 13121d9c-833f-c1c6-3295-6098c8939b7f

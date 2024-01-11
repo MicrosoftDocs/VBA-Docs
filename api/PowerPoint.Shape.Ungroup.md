@@ -3,7 +3,6 @@ title: Shape.Ungroup method (PowerPoint)
 keywords: vbapp10.chm547013
 f1_keywords:
 - vbapp10.chm547013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Ungroup
 ms.assetid: 2d0447df-7356-35e7-972e-e763ac1b3b8e

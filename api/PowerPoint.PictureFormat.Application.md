@@ -1,6 +1,5 @@
 ---
 title: PictureFormat.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.Application
 ms.assetid: 1fe92d27-cc82-60be-b9b2-d1dbded71d5a

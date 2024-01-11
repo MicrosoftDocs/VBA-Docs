@@ -3,7 +3,6 @@ title: TextFrame2.HasText property (PowerPoint)
 keywords: vbapp10.chm678015
 f1_keywords:
 - vbapp10.chm678015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.HasText
 ms.assetid: 50b2c7fa-49f9-6aeb-dcb0-8acaf7aefec7

@@ -3,7 +3,6 @@ title: AnimationBehavior.ColorEffect property (PowerPoint)
 keywords: vbapp10.chm657007
 f1_keywords:
 - vbapp10.chm657007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.ColorEffect
 ms.assetid: a1f8db9a-addf-c3f4-e5e3-0cc4b3f9f606

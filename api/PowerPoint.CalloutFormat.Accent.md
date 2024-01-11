@@ -3,7 +3,6 @@ title: CalloutFormat.Accent property (PowerPoint)
 keywords: vbapp10.chm559006
 f1_keywords:
 - vbapp10.chm559006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Accent
 ms.assetid: 901ad22d-2690-06c2-7327-9bf463585aa5

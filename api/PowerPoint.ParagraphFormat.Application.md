@@ -3,7 +3,6 @@ title: ParagraphFormat.Application property (PowerPoint)
 keywords: vbapp10.chm576001
 f1_keywords:
 - vbapp10.chm576001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.Application
 ms.assetid: 76be8546-409c-1762-a195-8d9c30d7a00b

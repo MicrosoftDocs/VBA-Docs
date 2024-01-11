@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Caption property (PowerPoint)
 keywords: vbapp10.chm734006
 f1_keywords:
 - vbapp10.chm734006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Caption
 ms.assetid: 4cf88d8a-7bab-e3d9-828e-9c8dee3d7315

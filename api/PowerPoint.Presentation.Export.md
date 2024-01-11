@@ -3,7 +3,6 @@ title: Presentation.Export method (PowerPoint)
 keywords: vbapp10.chm583038
 f1_keywords:
 - vbapp10.chm583038
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Export
 ms.assetid: e114d86d-0400-35d3-fc89-d93748993874

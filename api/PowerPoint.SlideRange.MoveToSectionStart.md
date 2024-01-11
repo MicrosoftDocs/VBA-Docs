@@ -3,7 +3,6 @@ title: SlideRange.MoveToSectionStart method (PowerPoint)
 keywords: vbapp10.chm532045
 f1_keywords:
 - vbapp10.chm532045
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.MoveToSectionStart
 ms.assetid: 2957ffd7-78f9-70db-6e87-46c89f84f1a9

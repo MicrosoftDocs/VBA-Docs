@@ -3,7 +3,6 @@ title: Slide.Comments property (PowerPoint)
 keywords: vbapp10.chm531028
 f1_keywords:
 - vbapp10.chm531028
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Comments
 ms.assetid: 396c2d6b-f0cb-3ed8-94ae-6ee864d194c1

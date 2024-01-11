@@ -3,7 +3,6 @@ title: Axis.MinorGridlines property (PowerPoint)
 keywords: vbapp10.chm682021
 f1_keywords:
 - vbapp10.chm682021
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MinorGridlines
 ms.assetid: f9e1168d-af71-6876-a289-a9e8d1db38cb

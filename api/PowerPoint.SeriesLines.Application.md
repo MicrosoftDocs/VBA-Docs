@@ -3,7 +3,6 @@ title: SeriesLines.Application property (PowerPoint)
 keywords: vbapp10.chm718002
 f1_keywords:
 - vbapp10.chm718002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Application
 ms.assetid: 5ba69eec-ba6e-815d-660f-cdeaa6ca6f88

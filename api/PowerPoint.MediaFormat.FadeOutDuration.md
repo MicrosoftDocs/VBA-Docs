@@ -3,7 +3,6 @@ title: MediaFormat.FadeOutDuration property (PowerPoint)
 keywords: vbapp10.chm724009
 f1_keywords:
 - vbapp10.chm724009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.FadeOutDuration
 ms.assetid: f9b78c2d-5037-3b58-1d76-b591eda0cb85

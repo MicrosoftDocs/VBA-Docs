@@ -3,7 +3,6 @@ title: Timing.BounceEnd property (PowerPoint)
 keywords: vbapp10.chm653017
 f1_keywords:
 - vbapp10.chm653017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.BounceEnd
 ms.assetid: 79693e7a-424a-0f7f-feb4-2be2dc0b11ec

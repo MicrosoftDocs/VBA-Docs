@@ -3,7 +3,6 @@ title: Presentation.FarEastLineBreakLanguage property (PowerPoint)
 keywords: vbapp10.chm583048
 f1_keywords:
 - vbapp10.chm583048
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.FarEastLineBreakLanguage
 ms.assetid: e0acc33d-0cb0-5422-4238-26b4071fb48c

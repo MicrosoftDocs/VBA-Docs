@@ -3,7 +3,6 @@ title: Presentation.Saved property (PowerPoint)
 keywords: vbapp10.chm583027
 f1_keywords:
 - vbapp10.chm583027
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Saved
 ms.assetid: 52798ca6-e181-cf82-d397-647404235cb9

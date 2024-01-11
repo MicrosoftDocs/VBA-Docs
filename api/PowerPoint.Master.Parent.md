@@ -3,7 +3,6 @@ title: Master.Parent property (PowerPoint)
 keywords: vbapp10.chm533002
 f1_keywords:
 - vbapp10.chm533002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Parent
 ms.assetid: 315325b9-c7cd-f43c-ce92-4552ff2bdd71

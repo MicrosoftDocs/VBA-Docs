@@ -1,6 +1,5 @@
 ---
 title: MsoAnimProperty enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimProperty
 ms.assetid: 6e5d3977-5dd4-15d7-0e09-4514aead8ce8

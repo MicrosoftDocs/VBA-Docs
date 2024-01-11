@@ -3,7 +3,6 @@ title: Chart.HasTitle property (PowerPoint)
 keywords: vbapp10.chm684033
 f1_keywords:
 - vbapp10.chm684033
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.HasTitle
 ms.assetid: e468f051-a4e8-bf3a-e3c0-5a85dec946bd

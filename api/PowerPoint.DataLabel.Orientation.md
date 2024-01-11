@@ -1,6 +1,5 @@
 ---
 title: DataLabel.Orientation property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Orientation
 ms.assetid: 2e7c4976-0549-9e03-6564-fb5db8667d64

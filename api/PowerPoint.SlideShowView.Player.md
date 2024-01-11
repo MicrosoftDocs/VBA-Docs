@@ -3,7 +3,6 @@ title: SlideShowView.Player method (PowerPoint)
 keywords: vbapp10.chm513032
 f1_keywords:
 - vbapp10.chm513032
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.Player
 ms.assetid: d7bb6b02-516b-07bb-42b4-ae245ce20262

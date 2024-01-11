@@ -3,7 +3,6 @@ title: Application.ActiveEncryptionSession property (PowerPoint)
 keywords: vbapp10.chm502059
 f1_keywords:
 - vbapp10.chm502059
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ActiveEncryptionSession
 ms.assetid: 73a174d5-a088-97d0-5f71-931456493224

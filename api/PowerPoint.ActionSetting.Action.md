@@ -3,7 +3,6 @@ title: ActionSetting.Action property (PowerPoint)
 keywords: vbapp10.chm567003
 f1_keywords:
 - vbapp10.chm567003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.Action
 ms.assetid: 32ed5574-5ac0-abb7-d300-6644fc894ec1

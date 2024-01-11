@@ -3,7 +3,6 @@ title: Hyperlinks object (PowerPoint)
 keywords: vbapp10.chm525000
 f1_keywords:
 - vbapp10.chm525000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlinks
 ms.assetid: 33a3fe49-6302-0f53-22f6-b8b1594d5d57

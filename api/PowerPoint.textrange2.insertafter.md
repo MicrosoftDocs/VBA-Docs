@@ -2,7 +2,6 @@
 title: TextRange2.InsertAfter method (PowerPoint)
 ms.assetid: b765d1c3-cfe4-4163-b656-61dec74f1027
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

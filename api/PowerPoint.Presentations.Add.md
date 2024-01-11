@@ -3,7 +3,6 @@ title: Presentations.Add method (PowerPoint)
 keywords: vbapp10.chm522004
 f1_keywords:
 - vbapp10.chm522004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.Add
 ms.assetid: 9a09ad9b-c52d-9fd6-20ef-68b694596ed2

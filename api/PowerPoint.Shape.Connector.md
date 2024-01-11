@@ -3,7 +3,6 @@ title: Shape.Connector property (PowerPoint)
 keywords: vbapp10.chm547020
 f1_keywords:
 - vbapp10.chm547020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Connector
 ms.assetid: 3e8cc3be-30a6-4e4e-32ca-bfd55ae973c2

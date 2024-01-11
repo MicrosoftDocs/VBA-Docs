@@ -3,7 +3,6 @@ title: LineFormat.EndArrowheadLength property (PowerPoint)
 keywords: vbapp10.chm553007
 f1_keywords:
 - vbapp10.chm553007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.EndArrowheadLength
 ms.assetid: e7e183f6-fc85-0a5f-c1c1-f182c8020c20

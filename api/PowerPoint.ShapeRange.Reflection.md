@@ -3,7 +3,6 @@ title: ShapeRange.Reflection property (PowerPoint)
 keywords: vbapp10.chm548092
 f1_keywords:
 - vbapp10.chm548092
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Reflection
 ms.assetid: 1ed3bdf2-e02f-994c-5556-c7b33658a9c6

@@ -3,7 +3,6 @@ title: EffectInformation.PlaySettings property (PowerPoint)
 keywords: vbapp10.chm655008
 f1_keywords:
 - vbapp10.chm655008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.PlaySettings
 ms.assetid: 702cf5b9-8164-cd25-e441-566a9a94fc14

@@ -3,7 +3,6 @@ title: Series.AxisGroup property (PowerPoint)
 keywords: vbapp10.chm65583
 f1_keywords:
 - vbapp10.chm65583
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.AxisGroup
 ms.assetid: c08c5039-eea6-5fed-a1b8-8c18b4886439

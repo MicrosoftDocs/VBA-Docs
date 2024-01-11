@@ -1,6 +1,5 @@
 ---
 title: Chart.Parent property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Parent
 ms.assetid: bd18f568-4edf-8091-b94a-3df23299915f

@@ -1,6 +1,5 @@
 ---
 title: PrintRanges.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRanges.Count
 ms.assetid: 4473e840-e8c7-c3ab-3fe8-d0770a1cd8a4

@@ -3,7 +3,6 @@ title: Presentations.CheckOut method (PowerPoint)
 keywords: vbapp10.chm522007
 f1_keywords:
 - vbapp10.chm522007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.CheckOut
 ms.assetid: c6145ab1-f6d5-265a-8244-40b5fa67aedf

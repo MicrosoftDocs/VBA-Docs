@@ -4,7 +4,6 @@ description: Represents a Microsoft PowerPoint presentation.
 keywords: vbapp10.chm524000
 f1_keywords:
 - vbapp10.chm524000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation
 ms.assetid: ec75cf52-69f8-d35b-0a26-4a8da8a9683f

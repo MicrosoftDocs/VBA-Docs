@@ -3,7 +3,6 @@ title: AxisTitle.Characters property (PowerPoint)
 keywords: vbapp10.chm683002
 f1_keywords:
 - vbapp10.chm683002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Characters
 ms.assetid: 8b1b9dc9-6aa3-872f-964a-fe623feff6fa

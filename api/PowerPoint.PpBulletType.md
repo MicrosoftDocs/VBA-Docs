@@ -1,6 +1,5 @@
 ---
 title: PpBulletType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpBulletType
 ms.assetid: 61cd92d2-7eb9-cfae-f207-e483ee59be5a

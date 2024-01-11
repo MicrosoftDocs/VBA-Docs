@@ -1,6 +1,5 @@
 ---
 title: LegendKey.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Creator
 ms.assetid: eebe01a6-a5ad-c0b7-7799-7ce5659349c8

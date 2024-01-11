@@ -3,7 +3,6 @@ title: Presentation.TitleMaster property (PowerPoint)
 keywords: vbapp10.chm583004
 f1_keywords:
 - vbapp10.chm583004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.TitleMaster
 ms.assetid: d5a84b2a-fff0-dcb5-e744-466428a586b5

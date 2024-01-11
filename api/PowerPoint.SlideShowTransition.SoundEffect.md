@@ -3,7 +3,6 @@ title: SlideShowTransition.SoundEffect property (PowerPoint)
 keywords: vbapp10.chm539009
 f1_keywords:
 - vbapp10.chm539009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.SoundEffect
 ms.assetid: 69cff9a7-777a-57a0-d897-f132ba028bdd

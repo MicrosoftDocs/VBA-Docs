@@ -3,7 +3,6 @@ title: ConnectorFormat.EndConnected property (PowerPoint)
 keywords: vbapp10.chm555009
 f1_keywords:
 - vbapp10.chm555009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.EndConnected
 ms.assetid: b5e4b8cb-a69c-7330-5dae-0fa4b7a36c82

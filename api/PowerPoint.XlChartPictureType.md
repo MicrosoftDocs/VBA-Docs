@@ -1,6 +1,5 @@
 ---
 title: XlChartPictureType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartPictureType
 ms.assetid: ed2a241c-1362-16c3-660a-781d7915257e

@@ -1,6 +1,5 @@
 ---
 title: TabStops.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStops.Count
 ms.assetid: e6dcd68c-d811-e8e8-b17d-bc05d866d018

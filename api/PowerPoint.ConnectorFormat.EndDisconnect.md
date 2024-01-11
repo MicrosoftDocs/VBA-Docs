@@ -3,7 +3,6 @@ title: ConnectorFormat.EndDisconnect method (PowerPoint)
 keywords: vbapp10.chm555005
 f1_keywords:
 - vbapp10.chm555005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.EndDisconnect
 ms.assetid: e26600c4-a384-5c83-96e6-1060f8ce8d21

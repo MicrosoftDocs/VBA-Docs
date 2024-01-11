@@ -3,7 +3,6 @@ title: EffectInformation.AfterEffect property (PowerPoint)
 keywords: vbapp10.chm655003
 f1_keywords:
 - vbapp10.chm655003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.AfterEffect
 ms.assetid: 18fd4307-c737-2a97-09bc-ff381a18d768

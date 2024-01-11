@@ -3,7 +3,6 @@ title: Application.Top property (PowerPoint)
 keywords: vbapp10.chm502027
 f1_keywords:
 - vbapp10.chm502027
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Top
 ms.assetid: d8c70fc9-e0f1-ed53-7a22-150838599719

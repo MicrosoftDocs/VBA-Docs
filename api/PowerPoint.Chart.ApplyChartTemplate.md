@@ -3,7 +3,6 @@ title: Chart.ApplyChartTemplate method (PowerPoint)
 keywords: vbapp10.chm684007
 f1_keywords:
 - vbapp10.chm684007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ApplyChartTemplate
 ms.assetid: 53d9e347-1a32-17a1-6426-38776bb87494

@@ -3,7 +3,6 @@ title: SlideShowTransition.AdvanceOnTime property (PowerPoint)
 keywords: vbapp10.chm539004
 f1_keywords:
 - vbapp10.chm539004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.AdvanceOnTime
 ms.assetid: 934c5acc-b230-2b7b-f0f2-4647cce5b62d

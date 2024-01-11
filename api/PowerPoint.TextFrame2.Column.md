@@ -3,7 +3,6 @@ title: TextFrame2.Column property (PowerPoint)
 keywords: vbapp10.chm678017
 f1_keywords:
 - vbapp10.chm678017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.Column
 ms.assetid: d265fd2c-1e96-984d-9b2c-0a792cbf7671

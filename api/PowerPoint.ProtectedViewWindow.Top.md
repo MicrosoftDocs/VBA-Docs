@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Top property (PowerPoint)
 keywords: vbapp10.chm734010
 f1_keywords:
 - vbapp10.chm734010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Top
 ms.assetid: 45a634f7-8122-4679-a23b-c93497c15769

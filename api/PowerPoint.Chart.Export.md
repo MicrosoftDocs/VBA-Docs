@@ -3,7 +3,6 @@ title: Chart.Export method (PowerPoint)
 keywords: vbapp10.chm684028
 f1_keywords:
 - vbapp10.chm684028
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Export
 ms.assetid: 19b95f24-c262-902e-7e96-c488affeb88d

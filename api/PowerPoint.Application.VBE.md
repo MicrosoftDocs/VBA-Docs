@@ -3,7 +3,6 @@ title: Application.VBE property (PowerPoint)
 keywords: vbapp10.chm502020
 f1_keywords:
 - vbapp10.chm502020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.VBE
 ms.assetid: 33a3d113-31f6-3705-cdb9-d5e07fa82820

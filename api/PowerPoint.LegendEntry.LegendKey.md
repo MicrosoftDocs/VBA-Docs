@@ -3,7 +3,6 @@ title: LegendEntry.LegendKey property (PowerPoint)
 keywords: vbapp10.chm65710
 f1_keywords:
 - vbapp10.chm65710
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.LegendKey
 ms.assetid: 6265569c-fc7c-5fe8-864e-d543a08b33f4

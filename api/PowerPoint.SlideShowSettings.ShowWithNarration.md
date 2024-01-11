@@ -3,7 +3,6 @@ title: SlideShowSettings.ShowWithNarration property (PowerPoint)
 keywords: vbapp10.chm514011
 f1_keywords:
 - vbapp10.chm514011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowWithNarration
 ms.assetid: 65390c53-abeb-ca9e-0697-f68dcb455324

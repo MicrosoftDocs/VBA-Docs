@@ -1,6 +1,5 @@
 ---
 title: XlPattern enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPattern
 ms.assetid: 7db18f77-8808-a1ca-b9b5-81f7868a2c9b

@@ -1,6 +1,5 @@
 ---
 title: XlChartPicturePlacement enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartPicturePlacement
 ms.assetid: 0afb4bde-5523-2dae-74f0-abe2adc79a48

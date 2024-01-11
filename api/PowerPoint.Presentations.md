@@ -3,7 +3,6 @@ title: Presentations object (PowerPoint)
 keywords: vbapp10.chm522000
 f1_keywords:
 - vbapp10.chm522000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations
 ms.assetid: 0b952edc-8628-71ef-e854-3bcefbb3bc61

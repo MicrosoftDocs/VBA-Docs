@@ -2,7 +2,6 @@
 title: XlParentDataLabelOptions enumeration (PowerPoint)
 ms.assetid: 566194d6-f4e3-53af-723c-025bf3909578
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

@@ -3,7 +3,6 @@ title: EffectInformation.TextUnitEffect property (PowerPoint)
 keywords: vbapp10.chm655010
 f1_keywords:
 - vbapp10.chm655010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.TextUnitEffect
 ms.assetid: c86538af-7c76-f332-11f4-9e1a71453dab

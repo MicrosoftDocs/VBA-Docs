@@ -1,6 +1,5 @@
 ---
 title: Floor.PictureType property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.PictureType
 ms.assetid: 2026b193-f14f-721c-b87f-62b91381e259

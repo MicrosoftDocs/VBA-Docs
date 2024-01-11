@@ -3,7 +3,6 @@ title: ChartTitle.ReadingOrder property (PowerPoint)
 keywords: vbapp10.chm694021
 f1_keywords:
 - vbapp10.chm694021
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.ReadingOrder
 ms.assetid: 77dc8893-2f57-0e3f-7d9a-cb9966087ede

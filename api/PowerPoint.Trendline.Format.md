@@ -3,7 +3,6 @@ title: Trendline.Format property (PowerPoint)
 keywords: vbapp10.chm720001
 f1_keywords:
 - vbapp10.chm720001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Format
 ms.assetid: 0dfdbc1b-f141-d376-be33-abe3fcb1baed

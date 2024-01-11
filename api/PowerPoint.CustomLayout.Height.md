@@ -3,7 +3,6 @@ title: CustomLayout.Height property (PowerPoint)
 keywords: vbapp10.chm672008
 f1_keywords:
 - vbapp10.chm672008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Height
 ms.assetid: 7ba167ab-72dc-f482-aa7d-f0804cac895d

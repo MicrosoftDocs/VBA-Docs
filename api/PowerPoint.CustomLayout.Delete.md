@@ -3,7 +3,6 @@ title: CustomLayout.Delete method (PowerPoint)
 keywords: vbapp10.chm672007
 f1_keywords:
 - vbapp10.chm672007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Delete
 ms.assetid: 31f678ea-768c-d7c7-7ea9-7007f6e12ad4

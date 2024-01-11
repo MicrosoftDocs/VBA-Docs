@@ -3,7 +3,6 @@ title: CalloutFormat.DropType property (PowerPoint)
 keywords: vbapp10.chm559012
 f1_keywords:
 - vbapp10.chm559012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.DropType
 ms.assetid: 993a7cb5-afc6-0683-d8f1-5b71633f07bf

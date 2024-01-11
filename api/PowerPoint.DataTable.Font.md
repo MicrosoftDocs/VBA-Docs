@@ -3,7 +3,6 @@ title: DataTable.Font property (PowerPoint)
 keywords: vbapp10.chm698006
 f1_keywords:
 - vbapp10.chm698006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.Font
 ms.assetid: cb6f0d1c-284d-9dca-f7f0-aefc7594bfbe
