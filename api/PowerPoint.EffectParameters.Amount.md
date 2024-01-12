@@ -3,7 +3,6 @@ title: EffectParameters.Amount property (PowerPoint)
 keywords: vbapp10.chm654004
 f1_keywords:
 - vbapp10.chm654004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectParameters.Amount
 ms.assetid: dcc17dbf-6064-64b1-5474-29918bc4e0c6

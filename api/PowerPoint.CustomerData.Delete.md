@@ -3,7 +3,6 @@ title: CustomerData.Delete method (PowerPoint)
 keywords: vbapp10.chm675005
 f1_keywords:
 - vbapp10.chm675005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomerData.Delete
 ms.assetid: 7a7649f9-7efa-57e7-15db-a16991dc6f09

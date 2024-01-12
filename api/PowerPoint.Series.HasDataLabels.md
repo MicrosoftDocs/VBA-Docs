@@ -3,7 +3,6 @@ title: Series.HasDataLabels property (PowerPoint)
 keywords: vbapp10.chm65614
 f1_keywords:
 - vbapp10.chm65614
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.HasDataLabels
 ms.assetid: b0b9bd37-7416-9903-d656-c4e468a9e481

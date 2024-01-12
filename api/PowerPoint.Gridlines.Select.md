@@ -1,6 +1,5 @@
 ---
 title: Gridlines.Select method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Select
 ms.assetid: 67de6907-1ebc-4897-8106-dc297a273288

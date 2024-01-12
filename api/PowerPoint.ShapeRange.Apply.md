@@ -3,7 +3,6 @@ title: ShapeRange.Apply method (PowerPoint)
 keywords: vbapp10.chm548002
 f1_keywords:
 - vbapp10.chm548002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Apply
 ms.assetid: 4aabc231-0854-070e-01d3-5ac48d16afbd

@@ -3,7 +3,6 @@ title: ChartFormat.TextFrame2 property (PowerPoint)
 keywords: vbapp10.chm691008
 f1_keywords:
 - vbapp10.chm691008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFormat.TextFrame2
 ms.assetid: e73bd3c3-a83d-222b-ef78-31eb5b6c5dfe

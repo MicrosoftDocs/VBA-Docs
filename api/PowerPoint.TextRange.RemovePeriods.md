@@ -3,7 +3,6 @@ title: TextRange.RemovePeriods method (PowerPoint)
 keywords: vbapp10.chm569033
 f1_keywords:
 - vbapp10.chm569033
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.RemovePeriods
 ms.assetid: 66562cc7-e25b-e110-000e-c01b62caf761

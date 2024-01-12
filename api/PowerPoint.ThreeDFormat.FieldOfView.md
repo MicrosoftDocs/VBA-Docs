@@ -3,7 +3,6 @@ title: ThreeDFormat.FieldOfView property (PowerPoint)
 keywords: vbapp10.chm557035
 f1_keywords:
 - vbapp10.chm557035
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.FieldOfView
 ms.assetid: 991e095d-bf1a-bd8f-ed7f-23acd54ae04c

@@ -3,7 +3,6 @@ title: HeaderFooter.UseFormat property (PowerPoint)
 keywords: vbapp10.chm582005
 f1_keywords:
 - vbapp10.chm582005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HeaderFooter.UseFormat
 ms.assetid: da9739ea-fb9b-5e3d-bb7e-64763ef11bf2

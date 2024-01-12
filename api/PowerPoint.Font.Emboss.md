@@ -3,7 +3,6 @@ title: Font.Emboss property (PowerPoint)
 keywords: vbapp10.chm575007
 f1_keywords:
 - vbapp10.chm575007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Emboss
 ms.assetid: 734b5bd7-4b1f-d3b3-d8bd-f73d0bc86f67

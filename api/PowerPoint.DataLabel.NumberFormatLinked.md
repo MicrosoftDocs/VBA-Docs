@@ -1,6 +1,5 @@
 ---
 title: DataLabel.NumberFormatLinked property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.NumberFormatLinked
 ms.assetid: 96753d54-3770-93b8-7b59-52f77f4443bc

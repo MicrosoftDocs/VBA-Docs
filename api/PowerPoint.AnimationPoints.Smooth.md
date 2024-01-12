@@ -3,7 +3,6 @@ title: AnimationPoints.Smooth property (PowerPoint)
 keywords: vbapp10.chm663005
 f1_keywords:
 - vbapp10.chm663005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoints.Smooth
 ms.assetid: cf41b527-91cc-81ac-ebb8-8fdf40bee5df

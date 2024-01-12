@@ -3,7 +3,6 @@ title: Chart.Axes method (PowerPoint)
 keywords: vbapp10.chm684016
 f1_keywords:
 - vbapp10.chm684016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Axes
 ms.assetid: 6f740a9e-2baa-5a84-ea51-6a39452e227e

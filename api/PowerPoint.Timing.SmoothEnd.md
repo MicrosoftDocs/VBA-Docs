@@ -3,7 +3,6 @@ title: Timing.SmoothEnd property (PowerPoint)
 keywords: vbapp10.chm653014
 f1_keywords:
 - vbapp10.chm653014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.SmoothEnd
 ms.assetid: 4d5d746b-ed5f-e708-287f-62e02684040c

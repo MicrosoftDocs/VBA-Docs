@@ -3,7 +3,6 @@ title: Coauthoring.PendingUpdates property (PowerPoint)
 keywords: vbapp10.chm731006
 f1_keywords:
 - vbapp10.chm731006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Coauthoring.PendingUpdates
 ms.assetid: 50650af5-e139-936d-4025-2190feebfe88

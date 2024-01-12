@@ -3,7 +3,6 @@ title: TextRange.IndentLevel property (PowerPoint)
 keywords: vbapp10.chm569025
 f1_keywords:
 - vbapp10.chm569025
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.IndentLevel
 ms.assetid: 3ba39fc4-6fc4-62ca-0e87-a7605d6c8bea

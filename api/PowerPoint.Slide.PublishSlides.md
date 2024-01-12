@@ -3,7 +3,6 @@ title: Slide.PublishSlides method (PowerPoint)
 keywords: vbapp10.chm531040
 f1_keywords:
 - vbapp10.chm531040
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.PublishSlides
 ms.assetid: 76f7bd2a-f48c-33e5-52dc-ae9757a880db

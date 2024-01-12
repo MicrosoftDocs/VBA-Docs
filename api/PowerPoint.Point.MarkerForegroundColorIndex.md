@@ -1,6 +1,5 @@
 ---
 title: Point.MarkerForegroundColorIndex property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerForegroundColorIndex
 ms.assetid: 9fb6b350-3eee-305c-dd64-6e3ac009aabc

@@ -3,7 +3,6 @@ title: SoundEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm540002
 f1_keywords:
 - vbapp10.chm540002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SoundEffect.Parent
 ms.assetid: 1a00d850-733d-3ec7-8d37-24cd869a3f3b

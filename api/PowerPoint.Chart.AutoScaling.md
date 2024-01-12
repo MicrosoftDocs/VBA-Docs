@@ -3,7 +3,6 @@ title: Chart.AutoScaling property (PowerPoint)
 keywords: vbapp10.chm684015
 f1_keywords:
 - vbapp10.chm684015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.AutoScaling
 ms.assetid: 330a185a-713a-409a-704e-3b163394aa92

@@ -3,7 +3,6 @@ title: LineFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm553014
 f1_keywords:
 - vbapp10.chm553014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Visible
 ms.assetid: 4b10ecb4-01f1-019f-62f8-2a3508a01ca3

@@ -3,7 +3,6 @@ title: Model3DFormat.CameraPositionX property (PowerPoint)
 keywords: vbapp10.chm743014
 f1_keywords:
 - vbapp10.chm743014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.CameraPositionX
 ms.date: 04/11/2019

@@ -3,7 +3,6 @@ title: Model3DFormat.CameraPositionY property (PowerPoint)
 keywords: vbapp10.chm743015
 f1_keywords:
 - vbapp10.chm743015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.CameraPositionY
 ms.date: 04/11/2019

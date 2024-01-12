@@ -3,7 +3,6 @@ title: Table.ScaleProportionally method (PowerPoint)
 keywords: vbapp10.chm622016
 f1_keywords:
 - vbapp10.chm622016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.ScaleProportionally
 ms.assetid: 1c703fe7-d657-5588-1991-23304a5b2bda

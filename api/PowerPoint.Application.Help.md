@@ -3,7 +3,6 @@ title: Application.Help method (PowerPoint)
 keywords: vbapp10.chm502021
 f1_keywords:
 - vbapp10.chm502021
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Help
 ms.assetid: 97dabc76-1987-6e08-ea42-6762be6b7d60

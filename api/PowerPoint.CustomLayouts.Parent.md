@@ -3,7 +3,6 @@ title: CustomLayouts.Parent property (PowerPoint)
 keywords: vbapp10.chm671002
 f1_keywords:
 - vbapp10.chm671002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Parent
 ms.assetid: 90d228bc-edc3-2911-3629-892843970746

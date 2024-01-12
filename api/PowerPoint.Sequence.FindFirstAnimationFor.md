@@ -3,7 +3,6 @@ title: Sequence.FindFirstAnimationFor method (PowerPoint)
 keywords: vbapp10.chm651006
 f1_keywords:
 - vbapp10.chm651006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.FindFirstAnimationFor
 ms.assetid: 124dda8e-b93a-5d8a-06ba-30529cf5c6a0

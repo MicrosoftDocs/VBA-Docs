@@ -3,7 +3,6 @@ title: LineFormat.Pattern property (PowerPoint)
 keywords: vbapp10.chm553011
 f1_keywords:
 - vbapp10.chm553011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Pattern
 ms.assetid: 5c4c7e5a-1932-01a4-034d-0a4e98c43174

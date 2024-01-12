@@ -3,7 +3,6 @@ title: ChartFormat.Fill property (PowerPoint)
 keywords: vbapp10.chm691001
 f1_keywords:
 - vbapp10.chm691001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFormat.Fill
 ms.assetid: 46eeee11-82eb-5266-e8cb-37d95b023e90

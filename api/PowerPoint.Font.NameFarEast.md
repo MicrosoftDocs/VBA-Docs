@@ -3,7 +3,6 @@ title: Font.NameFarEast property (PowerPoint)
 keywords: vbapp10.chm575016
 f1_keywords:
 - vbapp10.chm575016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.NameFarEast
 ms.assetid: 0b3f7d98-bda5-eec3-f570-20d8b575c0a3

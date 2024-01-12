@@ -3,7 +3,6 @@ title: Options.DisplayPasteOptions property (PowerPoint)
 keywords: vbapp10.chm667001
 f1_keywords:
 - vbapp10.chm667001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Options.DisplayPasteOptions
 ms.assetid: 4c5f0851-585c-e4c6-a6c7-c3bfd3666883

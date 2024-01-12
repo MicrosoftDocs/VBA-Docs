@@ -3,7 +3,6 @@ title: PlaceholderFormat.Application property (PowerPoint)
 keywords: vbapp10.chm545001
 f1_keywords:
 - vbapp10.chm545001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaceholderFormat.Application
 ms.assetid: 02251603-1827-2199-c9c5-79e06d139e06

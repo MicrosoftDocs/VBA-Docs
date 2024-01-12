@@ -3,7 +3,6 @@ title: ChartTitle.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm694026
 f1_keywords:
 - vbapp10.chm694026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.FormulaLocal
 ms.assetid: 8ae6b4f9-37cf-9ec4-f63b-273f547ecc9b

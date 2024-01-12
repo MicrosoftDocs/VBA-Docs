@@ -1,6 +1,5 @@
 ---
 title: MsoAnimAdditive enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimAdditive
 ms.assetid: 2190cb21-5d1c-142a-edd8-c454ff6da6ac

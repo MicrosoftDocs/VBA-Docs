@@ -3,7 +3,6 @@ title: Presentations.Item method (PowerPoint)
 keywords: vbapp10.chm522003
 f1_keywords:
 - vbapp10.chm522003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.Item
 ms.assetid: f0d84e16-4d94-dd74-9e6f-4e57edfdc72d

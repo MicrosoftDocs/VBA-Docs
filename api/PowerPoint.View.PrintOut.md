@@ -3,7 +3,6 @@ title: View.PrintOut method (PowerPoint)
 keywords: vbapp10.chm512012
 f1_keywords:
 - vbapp10.chm512012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.View.PrintOut
 ms.assetid: 244da3c5-ddb2-f79c-b8fc-cad4a293defe

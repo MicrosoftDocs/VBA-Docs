@@ -3,7 +3,6 @@ title: SectionProperties.Rename method (PowerPoint)
 keywords: vbapp10.chm725005
 f1_keywords:
 - vbapp10.chm725005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.Rename
 ms.assetid: b1e7428e-c7ee-04b8-1f09-246fe3e7fe6f

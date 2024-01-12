@@ -1,6 +1,5 @@
 ---
 title: MsoAnimTextUnitEffect enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimTextUnitEffect
 ms.assetid: d633a84d-a4c9-d5d9-0005-aa3457c70430

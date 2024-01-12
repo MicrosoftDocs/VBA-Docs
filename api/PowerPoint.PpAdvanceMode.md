@@ -1,6 +1,5 @@
 ---
 title: PpAdvanceMode enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAdvanceMode
 ms.assetid: 74cfe35b-2e12-5782-cf1f-0dda22f1889a

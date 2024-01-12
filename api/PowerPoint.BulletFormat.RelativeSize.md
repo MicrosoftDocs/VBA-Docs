@@ -3,7 +3,6 @@ title: BulletFormat.RelativeSize property (PowerPoint)
 keywords: vbapp10.chm577005
 f1_keywords:
 - vbapp10.chm577005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.RelativeSize
 ms.assetid: ce90fbcb-9aa5-a286-1f91-f06a83351b97

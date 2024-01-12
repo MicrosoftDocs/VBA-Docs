@@ -1,6 +1,5 @@
 ---
 title: Application.SensitivityLabelPolicy property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SensitivityLabelPolicy
 ms.assetid: 2a802806-4ff5-4818-80e1-d58fff22aa59

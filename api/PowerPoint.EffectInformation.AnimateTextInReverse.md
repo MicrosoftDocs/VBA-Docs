@@ -3,7 +3,6 @@ title: EffectInformation.AnimateTextInReverse property (PowerPoint)
 keywords: vbapp10.chm655005
 f1_keywords:
 - vbapp10.chm655005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.AnimateTextInReverse
 ms.assetid: 9e56e8a8-fdcb-dc2a-23d7-fb9c25081cdf

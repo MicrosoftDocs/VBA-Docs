@@ -3,7 +3,6 @@ title: FillFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm552001
 f1_keywords:
 - vbapp10.chm552001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Parent
 ms.assetid: b81440f3-aa91-7a67-0a61-a30cf40e2c29

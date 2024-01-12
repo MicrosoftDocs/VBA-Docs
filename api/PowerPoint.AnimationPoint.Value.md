@@ -3,7 +3,6 @@ title: AnimationPoint.Value property (PowerPoint)
 keywords: vbapp10.chm664005
 f1_keywords:
 - vbapp10.chm664005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoint.Value
 ms.assetid: f16879c0-25cc-46fa-cfd3-7a6a770be371

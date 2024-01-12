@@ -1,6 +1,5 @@
 ---
 title: XlErrorBarType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarType
 ms.assetid: ea68417a-7478-5ad0-c2f9-721b484f912d

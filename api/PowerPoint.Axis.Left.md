@@ -3,7 +3,6 @@ title: Axis.Left property (PowerPoint)
 keywords: vbapp10.chm682038
 f1_keywords:
 - vbapp10.chm682038
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Left
 ms.assetid: d01f11d2-69e0-1415-6418-0682e40fc6b5

@@ -3,7 +3,6 @@ title: AnimationBehavior.Type property (PowerPoint)
 keywords: vbapp10.chm657005
 f1_keywords:
 - vbapp10.chm657005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Type
 ms.assetid: e809fec8-e5c7-6e04-b2a9-200e76d4c23b

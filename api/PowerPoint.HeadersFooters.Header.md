@@ -3,7 +3,6 @@ title: HeadersFooters.Header property (PowerPoint)
 keywords: vbapp10.chm542005
 f1_keywords:
 - vbapp10.chm542005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HeadersFooters.Header
 ms.assetid: 83748bf7-10a4-1ee7-4eef-4ef8fd38b7da

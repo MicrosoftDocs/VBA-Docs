@@ -3,7 +3,6 @@ title: ParagraphFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm576002
 f1_keywords:
 - vbapp10.chm576002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.Parent
 ms.assetid: 5b86ae1b-7889-0e98-43f9-7e947341edd4

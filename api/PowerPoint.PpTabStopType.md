@@ -1,6 +1,5 @@
 ---
 title: PpTabStopType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTabStopType
 ms.assetid: 8aa7e9c2-1511-edf6-88f6-2b63102cd2ca

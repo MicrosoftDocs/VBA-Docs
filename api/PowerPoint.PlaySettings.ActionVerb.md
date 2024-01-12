@@ -3,7 +3,6 @@ title: PlaySettings.ActionVerb property (PowerPoint)
 keywords: vbapp10.chm568003
 f1_keywords:
 - vbapp10.chm568003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.ActionVerb
 ms.assetid: 769383e0-94b0-3baf-0211-e92987b139ce

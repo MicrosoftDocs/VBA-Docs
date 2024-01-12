@@ -3,7 +3,6 @@ title: NamedSlideShow.Parent property (PowerPoint)
 keywords: vbapp10.chm516002
 f1_keywords:
 - vbapp10.chm516002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow.Parent
 ms.assetid: e4c06441-b641-30a3-5eef-b6cbacfcb9e2

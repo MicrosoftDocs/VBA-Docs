@@ -3,7 +3,6 @@ title: Trendlines object (PowerPoint)
 keywords: vbapp10.chm721000
 f1_keywords:
 - vbapp10.chm721000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendlines
 ms.assetid: 8ac46695-aae0-3611-ebf7-c7339ea733ab

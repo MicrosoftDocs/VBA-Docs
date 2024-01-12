@@ -3,7 +3,6 @@ title: Shape.PlaceholderFormat property (PowerPoint)
 keywords: vbapp10.chm547046
 f1_keywords:
 - vbapp10.chm547046
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.PlaceholderFormat
 ms.assetid: 4ccd4f93-74fc-be23-5ef4-0089d7247724

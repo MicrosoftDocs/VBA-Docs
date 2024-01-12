@@ -3,7 +3,6 @@ title: AxisTitle.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm683026
 f1_keywords:
 - vbapp10.chm683026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.FormulaLocal
 ms.assetid: 90f54862-dbef-0092-7d1d-273124fdbfc6

@@ -5,7 +5,6 @@ f1_keywords:
 - vbapp10.chm532048
 ms.assetid: e8d0dcae-d311-a9bd-4cf9-ac171ec15cbb
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

@@ -3,7 +3,6 @@ title: PlotArea.Application property (PowerPoint)
 keywords: vbapp10.chm713002
 f1_keywords:
 - vbapp10.chm713002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Application
 ms.assetid: 0e0b14d8-7859-8f2e-4af9-31401484084d

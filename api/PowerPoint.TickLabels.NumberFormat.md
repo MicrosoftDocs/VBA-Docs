@@ -3,7 +3,6 @@ title: TickLabels.NumberFormat property (PowerPoint)
 keywords: vbapp10.chm719005
 f1_keywords:
 - vbapp10.chm719005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.NumberFormat
 ms.assetid: aeb2a6fb-b62f-bd74-dd71-aaf527969925

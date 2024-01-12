@@ -3,7 +3,6 @@ title: Interior.Color property (PowerPoint)
 keywords: vbapp10.chm707001
 f1_keywords:
 - vbapp10.chm707001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.Color
 ms.assetid: 18018ef9-40a3-6e02-065e-4747d1506df1

@@ -3,7 +3,6 @@ title: Hyperlink.AddToFavorites method (PowerPoint)
 keywords: vbapp10.chm526006
 f1_keywords:
 - vbapp10.chm526006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.AddToFavorites
 ms.assetid: 40a6f12e-3ad3-f028-ed47-b131b36af5fd

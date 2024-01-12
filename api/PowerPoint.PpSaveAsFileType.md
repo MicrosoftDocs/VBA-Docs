@@ -1,6 +1,5 @@
 ---
 title: PpSaveAsFileType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSaveAsFileType
 ms.assetid: e177538e-83bb-1b76-768f-9c8a9c51c617

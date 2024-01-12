@@ -3,7 +3,6 @@ title: DataTable.HasBorderVertical property (PowerPoint)
 keywords: vbapp10.chm698003
 f1_keywords:
 - vbapp10.chm698003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.HasBorderVertical
 ms.assetid: 943d7af7-e1fe-e7fe-408b-154fa2ad3705

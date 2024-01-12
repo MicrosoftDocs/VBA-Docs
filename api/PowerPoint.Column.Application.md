@@ -3,7 +3,6 @@ title: Column.Application property (PowerPoint)
 keywords: vbapp10.chm624001
 f1_keywords:
 - vbapp10.chm624001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Column.Application
 ms.assetid: c6d261d9-6939-e3c1-a697-ff68319b4e9c

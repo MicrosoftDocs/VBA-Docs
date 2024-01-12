@@ -3,7 +3,6 @@ title: Shape.Callout property (PowerPoint)
 keywords: vbapp10.chm547018
 f1_keywords:
 - vbapp10.chm547018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Callout
 ms.assetid: 381f8eaa-f373-b1aa-6a53-4086d7e887d8

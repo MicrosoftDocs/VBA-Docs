@@ -3,7 +3,6 @@ title: AnimationBehavior.CommandEffect property (PowerPoint)
 keywords: vbapp10.chm657013
 f1_keywords:
 - vbapp10.chm657013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.CommandEffect
 ms.assetid: e457389c-402f-43e2-fbda-fdc286378501

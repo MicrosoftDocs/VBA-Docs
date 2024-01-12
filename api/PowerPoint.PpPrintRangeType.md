@@ -1,6 +1,5 @@
 ---
 title: PpPrintRangeType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpPrintRangeType
 ms.assetid: 8dca3a7a-f9ce-f39f-e565-eac07b3b103a

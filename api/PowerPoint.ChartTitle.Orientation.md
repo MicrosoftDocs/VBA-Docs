@@ -3,7 +3,6 @@ title: ChartTitle.Orientation property (PowerPoint)
 keywords: vbapp10.chm694006
 f1_keywords:
 - vbapp10.chm694006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Orientation
 ms.assetid: 4df45235-46d0-006a-8bf6-9148d2a24ed8

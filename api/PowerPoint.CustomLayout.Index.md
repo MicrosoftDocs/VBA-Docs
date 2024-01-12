@@ -3,7 +3,6 @@ title: CustomLayout.Index property (PowerPoint)
 keywords: vbapp10.chm672016
 f1_keywords:
 - vbapp10.chm672016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Index
 ms.assetid: bdbb922f-db6d-034e-b08b-08c9dd500a3b

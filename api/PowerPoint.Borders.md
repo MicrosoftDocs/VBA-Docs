@@ -3,7 +3,6 @@ title: Borders object (PowerPoint)
 keywords: vbapp10.chm629000
 f1_keywords:
 - vbapp10.chm629000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders
 ms.assetid: af3b8d8b-9214-b1ac-f12e-0be244b60b08

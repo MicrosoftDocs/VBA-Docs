@@ -1,6 +1,5 @@
 ---
 title: PpTransitionSpeed enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTransitionSpeed
 ms.assetid: 648641db-1a84-1b4b-3e0a-ffd2e960b0aa

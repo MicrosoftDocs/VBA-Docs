@@ -3,7 +3,6 @@ title: Chart.ApplyLayout method (PowerPoint)
 keywords: vbapp10.chm68004
 f1_keywords:
 - vbapp10.chm68004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.ApplyLayout
 ms.assetid: 94368674-4ecb-a3aa-da91-8e92980d3cc8

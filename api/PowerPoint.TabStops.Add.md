@@ -3,7 +3,6 @@ title: TabStops.Add method (PowerPoint)
 keywords: vbapp10.chm573005
 f1_keywords:
 - vbapp10.chm573005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStops.Add
 ms.assetid: cbb8f77f-c5c2-4573-abbe-ddca9bdbdf13

@@ -3,7 +3,6 @@ title: Shape.UpgradeMedia method (PowerPoint)
 keywords: vbapp10.chm547092
 f1_keywords:
 - vbapp10.chm547092
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.UpgradeMedia
 ms.assetid: 459ee25b-711f-2b74-38a0-3e209df7641b

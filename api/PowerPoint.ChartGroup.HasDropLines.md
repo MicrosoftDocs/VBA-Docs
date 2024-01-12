@@ -1,6 +1,5 @@
 ---
 title: ChartGroup.HasDropLines property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasDropLines
 ms.assetid: d957d6c6-acde-7ef0-9786-6f0f32d29253

@@ -3,7 +3,6 @@ title: SeriesLines.Format property (PowerPoint)
 keywords: vbapp10.chm718001
 f1_keywords:
 - vbapp10.chm718001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Format
 ms.assetid: 9e7f119c-15fb-de86-b2a8-353941933af9

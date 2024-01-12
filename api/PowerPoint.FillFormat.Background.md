@@ -3,7 +3,6 @@ title: FillFormat.Background method (PowerPoint)
 keywords: vbapp10.chm552002
 f1_keywords:
 - vbapp10.chm552002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Background
 ms.assetid: 4c82e3d3-86cd-d18f-ead1-9fc2dda5efd8

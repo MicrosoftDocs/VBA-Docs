@@ -3,7 +3,6 @@ title: TextRange.Start property (PowerPoint)
 keywords: vbapp10.chm569004
 f1_keywords:
 - vbapp10.chm569004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Start
 ms.assetid: 1e37b589-842e-b03b-09eb-a19ce03f6a72

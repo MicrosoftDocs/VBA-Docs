@@ -3,7 +3,6 @@ title: Table.Cell method (PowerPoint)
 keywords: vbapp10.chm622005
 f1_keywords:
 - vbapp10.chm622005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.Cell
 ms.assetid: 31a2908b-7a33-994d-860a-e01da62729e7

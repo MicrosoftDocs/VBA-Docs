@@ -3,7 +3,6 @@ title: FillFormat.TwoColorGradient method (PowerPoint)
 keywords: vbapp10.chm552008
 f1_keywords:
 - vbapp10.chm552008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TwoColorGradient
 ms.assetid: 29dac3d9-366e-0fd5-0fe3-dc64fa2fc871

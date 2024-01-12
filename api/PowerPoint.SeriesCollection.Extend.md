@@ -3,7 +3,6 @@ title: SeriesCollection.Extend method (PowerPoint)
 keywords: vbapp10.chm65763
 f1_keywords:
 - vbapp10.chm65763
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.Extend
 ms.assetid: f5ac6da3-90c7-d938-9a95-e87d228d901d

@@ -3,7 +3,6 @@ title: Return Objects from Collections
 keywords: vbapp10.chm5193520
 f1_keywords:
 - vbapp10.chm5193520
-ms.prod: powerpoint
 ms.assetid: d81e1323-aa12-fa1a-aa75-3cc21d06c75f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: DataLabel.HorizontalAlignment property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.HorizontalAlignment
 ms.assetid: 198372ff-a0e9-e9ca-dfe7-6e62bdc9336c

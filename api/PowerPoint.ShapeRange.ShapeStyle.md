@@ -3,7 +3,6 @@ title: ShapeRange.ShapeStyle property (PowerPoint)
 keywords: vbapp10.chm548088
 f1_keywords:
 - vbapp10.chm548088
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ShapeStyle
 ms.assetid: 7809d2e9-091f-acde-0eaa-130031e5d5bc

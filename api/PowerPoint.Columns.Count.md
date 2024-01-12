@@ -1,6 +1,5 @@
 ---
 title: Columns.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Columns.Count
 ms.assetid: d23ac7d2-080f-9981-b502-16ba11d811e6

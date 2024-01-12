@@ -3,7 +3,6 @@ title: Presentation.AddTitleMaster method (PowerPoint)
 keywords: vbapp10.chm583006
 f1_keywords:
 - vbapp10.chm583006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.AddTitleMaster
 ms.assetid: b49baa5b-217a-ab6d-3cb3-ff74e533ef20

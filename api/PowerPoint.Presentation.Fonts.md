@@ -3,7 +3,6 @@ title: Presentation.Fonts property (PowerPoint)
 keywords: vbapp10.chm583016
 f1_keywords:
 - vbapp10.chm583016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Fonts
 ms.assetid: 3caece78-6ca9-bca8-5683-4722e1f563cf

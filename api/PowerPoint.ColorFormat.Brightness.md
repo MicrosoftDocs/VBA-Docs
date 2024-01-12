@@ -3,7 +3,6 @@ title: ColorFormat.Brightness property (PowerPoint)
 keywords: vbapp10.chm506007
 f1_keywords:
 - vbapp10.chm506007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.Brightness
 ms.assetid: 5140244e-d70b-f764-c127-917506b4074d

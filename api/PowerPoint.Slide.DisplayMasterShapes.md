@@ -3,7 +3,6 @@ title: Slide.DisplayMasterShapes property (PowerPoint)
 keywords: vbapp10.chm531020
 f1_keywords:
 - vbapp10.chm531020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.DisplayMasterShapes
 ms.assetid: 9a4a5146-e84d-b9fe-a837-0bcafa3fe61d

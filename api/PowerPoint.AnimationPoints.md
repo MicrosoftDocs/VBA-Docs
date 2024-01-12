@@ -3,7 +3,6 @@ title: AnimationPoints object (PowerPoint)
 keywords: vbapp10.chm663000
 f1_keywords:
 - vbapp10.chm663000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoints
 ms.assetid: 6ea9ebc4-791c-9781-38c3-8b0973e0d152

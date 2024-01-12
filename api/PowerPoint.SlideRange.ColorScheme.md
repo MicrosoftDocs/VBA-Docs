@@ -3,7 +3,6 @@ title: SlideRange.ColorScheme property (PowerPoint)
 keywords: vbapp10.chm532006
 f1_keywords:
 - vbapp10.chm532006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.ColorScheme
 ms.assetid: 6ae228d8-a105-5745-f7ce-a858bb0954e5

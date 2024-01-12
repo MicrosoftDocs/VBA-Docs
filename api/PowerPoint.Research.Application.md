@@ -3,7 +3,6 @@ title: Research.Application property (PowerPoint)
 keywords: vbapp10.chm676001
 f1_keywords:
 - vbapp10.chm676001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Research.Application
 ms.assetid: bba490bb-9aef-75ca-f5fd-4fa27704d42f

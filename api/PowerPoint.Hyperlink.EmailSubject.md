@@ -3,7 +3,6 @@ title: Hyperlink.EmailSubject property (PowerPoint)
 keywords: vbapp10.chm526007
 f1_keywords:
 - vbapp10.chm526007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.EmailSubject
 ms.assetid: 2416a620-9788-5da9-3095-432cab5cdc95

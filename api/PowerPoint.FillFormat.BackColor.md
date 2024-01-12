@@ -3,7 +3,6 @@ title: FillFormat.BackColor property (PowerPoint)
 keywords: vbapp10.chm552011
 f1_keywords:
 - vbapp10.chm552011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.BackColor
 ms.assetid: d78fa88b-578d-f469-f2e1-7564ebc91f8d

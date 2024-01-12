@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.Creator
 ms.date: 04/11/2019

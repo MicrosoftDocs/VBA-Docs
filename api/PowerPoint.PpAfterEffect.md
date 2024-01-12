@@ -1,6 +1,5 @@
 ---
 title: PpAfterEffect enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpAfterEffect
 ms.assetid: 8b39793c-6055-09f8-5232-af3ba265fd94

@@ -3,7 +3,6 @@ title: View.Type property (PowerPoint)
 keywords: vbapp10.chm512003
 f1_keywords:
 - vbapp10.chm512003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.View.Type
 ms.assetid: 24779d38-87e6-c416-10ec-5dadb44e30b0

@@ -1,6 +1,5 @@
 ---
 title: LegendKey.Smooth property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.Smooth
 ms.assetid: 7ba0f917-8e65-047d-513c-004ecef82aac

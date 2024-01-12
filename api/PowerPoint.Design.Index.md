@@ -3,7 +3,6 @@ title: Design.Index property (PowerPoint)
 keywords: vbapp10.chm644007
 f1_keywords:
 - vbapp10.chm644007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Design.Index
 ms.assetid: 16a9ca67-4db4-c7a4-118b-553f0d7efc98

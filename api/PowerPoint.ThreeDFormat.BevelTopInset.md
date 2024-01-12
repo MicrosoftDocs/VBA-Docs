@@ -3,7 +3,6 @@ title: ThreeDFormat.BevelTopInset property (PowerPoint)
 keywords: vbapp10.chm557026
 f1_keywords:
 - vbapp10.chm557026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.BevelTopInset
 ms.assetid: 0589abd5-80e6-2079-1f51-93c57de594a1

@@ -3,7 +3,6 @@ title: Application.WindowBeforeDoubleClick event (PowerPoint)
 keywords: vbapp10.chm621003
 f1_keywords:
 - vbapp10.chm621003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.WindowBeforeDoubleClick
 ms.assetid: 9b270238-1658-df56-4208-9cb98666519c

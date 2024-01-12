@@ -3,7 +3,6 @@ title: Presentation.FarEastLineBreakLevel property (PowerPoint)
 keywords: vbapp10.chm583043
 f1_keywords:
 - vbapp10.chm583043
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.FarEastLineBreakLevel
 ms.assetid: fc8354a6-cbd4-d0b4-0b39-a3150afab714

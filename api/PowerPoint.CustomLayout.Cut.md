@@ -3,7 +3,6 @@ title: CustomLayout.Cut method (PowerPoint)
 keywords: vbapp10.chm672018
 f1_keywords:
 - vbapp10.chm672018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Cut
 ms.assetid: e27f9ba5-d933-5e2d-e71c-e1757941bde1

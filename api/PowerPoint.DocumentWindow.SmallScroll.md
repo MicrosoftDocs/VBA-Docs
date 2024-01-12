@@ -3,7 +3,6 @@ title: DocumentWindow.SmallScroll method (PowerPoint)
 keywords: vbapp10.chm511018
 f1_keywords:
 - vbapp10.chm511018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.SmallScroll
 ms.assetid: f6710bca-ad85-9257-061a-dbe5829d8b7b

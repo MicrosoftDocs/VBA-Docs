@@ -3,7 +3,6 @@ title: Chart.SaveChartTemplate method (PowerPoint)
 keywords: vbapp10.chm684008
 f1_keywords:
 - vbapp10.chm684008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SaveChartTemplate
 ms.assetid: 568abe18-27d3-4944-7bca-186faa534959

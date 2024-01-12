@@ -3,7 +3,6 @@ title: Presentation.GetWorkflowTemplates method (PowerPoint)
 keywords: vbapp10.chm583099
 f1_keywords:
 - vbapp10.chm583099
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.GetWorkflowTemplates
 ms.assetid: f39f2ca8-3ddc-7f45-9dea-c9c191e7cec5

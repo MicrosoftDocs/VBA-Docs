@@ -3,7 +3,6 @@ title: Row.Parent property (PowerPoint)
 keywords: vbapp10.chm626002
 f1_keywords:
 - vbapp10.chm626002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Row.Parent
 ms.assetid: 7ba988f9-08df-d74a-0771-30174c4ed6c9

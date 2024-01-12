@@ -3,7 +3,6 @@ title: MediaBookmarks.Add method (PowerPoint)
 keywords: vbapp10.chm730002
 f1_keywords:
 - vbapp10.chm730002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaBookmarks.Add
 ms.assetid: 2b796284-c172-9841-2af5-5f351e4acb01

@@ -3,7 +3,6 @@ title: CalloutFormat.CustomLength method (PowerPoint)
 keywords: vbapp10.chm559004
 f1_keywords:
 - vbapp10.chm559004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.CustomLength
 ms.assetid: 0ee5196b-d3d4-ba8c-ff69-893a92a4ae4d

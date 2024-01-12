@@ -3,7 +3,6 @@ title: DataLabel.Height property (PowerPoint)
 keywords: vbapp10.chm696003
 f1_keywords:
 - vbapp10.chm696003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Height
 ms.assetid: 891f3e75-b917-bb35-9365-7e30f0d4282d

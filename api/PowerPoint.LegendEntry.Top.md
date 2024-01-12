@@ -1,6 +1,5 @@
 ---
 title: LegendEntry.Top property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Top
 ms.assetid: fe6d42ff-fc2a-38ef-c1b8-26beded239da

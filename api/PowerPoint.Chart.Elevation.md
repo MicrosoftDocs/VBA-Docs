@@ -3,7 +3,6 @@ title: Chart.Elevation property (PowerPoint)
 keywords: vbapp10.chm684027
 f1_keywords:
 - vbapp10.chm684027
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Elevation
 ms.assetid: 9b6ac583-2a35-8737-5660-51d2b7e6dbbd

@@ -3,7 +3,6 @@ title: Presentation.Windows property (PowerPoint)
 keywords: vbapp10.chm583017
 f1_keywords:
 - vbapp10.chm583017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Windows
 ms.assetid: ce04c680-ef68-5014-ce78-0d48d1f3b9e6

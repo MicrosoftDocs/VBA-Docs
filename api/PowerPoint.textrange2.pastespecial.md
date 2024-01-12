@@ -2,7 +2,6 @@
 title: TextRange2.PasteSpecial method (PowerPoint)
 ms.assetid: 05855fac-1123-44dd-b021-553216485db6
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

@@ -3,7 +3,6 @@ title: AnimationBehavior.Delete method (PowerPoint)
 keywords: vbapp10.chm657012
 f1_keywords:
 - vbapp10.chm657012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationBehavior.Delete
 ms.assetid: dcc46515-ecc4-69f0-5e3c-f8a1498784e8

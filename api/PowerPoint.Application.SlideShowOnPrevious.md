@@ -3,7 +3,6 @@ title: Application.SlideShowOnPrevious event (PowerPoint)
 keywords: vbapp10.chm621024
 f1_keywords:
 - vbapp10.chm621024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.SlideShowOnPrevious
 ms.assetid: 466a5363-047b-f107-011b-6450db6a5f31

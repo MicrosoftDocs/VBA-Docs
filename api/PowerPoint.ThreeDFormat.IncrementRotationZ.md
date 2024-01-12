@@ -3,7 +3,6 @@ title: ThreeDFormat.IncrementRotationZ method (PowerPoint)
 keywords: vbapp10.chm557020
 f1_keywords:
 - vbapp10.chm557020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.IncrementRotationZ
 ms.assetid: 80f91663-a863-573d-d4ac-d13305d0b464

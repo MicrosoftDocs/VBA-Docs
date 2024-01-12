@@ -1,6 +1,5 @@
 ---
 title: TextFrame.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.Creator
 ms.assetid: 7e198a9e-38eb-6f1a-38f6-e24bcac43190

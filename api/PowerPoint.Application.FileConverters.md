@@ -3,7 +3,6 @@ title: Application.FileConverters property (PowerPoint)
 keywords: vbapp10.chm502060
 f1_keywords:
 - vbapp10.chm502060
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.FileConverters
 ms.assetid: 2eaa06eb-e32c-cf07-03a2-880048468188

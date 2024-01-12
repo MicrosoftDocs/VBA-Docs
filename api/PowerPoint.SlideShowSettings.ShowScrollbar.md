@@ -3,7 +3,6 @@ title: SlideShowSettings.ShowScrollbar property (PowerPoint)
 keywords: vbapp10.chm514015
 f1_keywords:
 - vbapp10.chm514015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowScrollbar
 ms.assetid: 9f6be3f3-1099-2f8c-4c1c-b5ab1be89f4a

@@ -3,7 +3,6 @@ title: Font.Superscript property (PowerPoint)
 keywords: vbapp10.chm575010
 f1_keywords:
 - vbapp10.chm575010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Superscript
 ms.assetid: 6f0bba73-f375-d715-3ddb-f1ab6041336c

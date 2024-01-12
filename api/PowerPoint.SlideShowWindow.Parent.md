@@ -3,7 +3,6 @@ title: SlideShowWindow.Parent property (PowerPoint)
 keywords: vbapp10.chm507002
 f1_keywords:
 - vbapp10.chm507002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowWindow.Parent
 ms.assetid: 166f5478-3e52-5e51-b2b3-64a5add0fa8b

@@ -3,7 +3,6 @@ title: TextRange.Characters method (PowerPoint)
 keywords: vbapp10.chm569013
 f1_keywords:
 - vbapp10.chm569013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Characters
 ms.assetid: 019c15d3-349d-ab10-7448-70bf81176150

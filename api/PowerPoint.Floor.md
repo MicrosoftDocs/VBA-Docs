@@ -3,7 +3,6 @@ title: Floor object (PowerPoint)
 keywords: vbapp10.chm703000
 f1_keywords:
 - vbapp10.chm703000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor
 ms.assetid: ed9ff3d1-8001-840c-d26e-7513ebe73ae9

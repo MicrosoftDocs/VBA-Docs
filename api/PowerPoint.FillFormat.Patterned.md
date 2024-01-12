@@ -3,7 +3,6 @@ title: FillFormat.Patterned method (PowerPoint)
 keywords: vbapp10.chm552004
 f1_keywords:
 - vbapp10.chm552004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Patterned
 ms.assetid: 665c5b1d-e2a2-64ab-a0c3-7d22d8d3121a

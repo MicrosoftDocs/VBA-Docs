@@ -3,7 +3,6 @@ title: AddIn object (PowerPoint)
 keywords: vbapp10.chm521000
 f1_keywords:
 - vbapp10.chm521000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn
 ms.assetid: e98b609e-97ef-b471-f047-b647bff1e9af

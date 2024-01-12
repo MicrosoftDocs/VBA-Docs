@@ -3,7 +3,6 @@ title: RGBColor.Parent property (PowerPoint)
 keywords: vbapp10.chm538002
 f1_keywords:
 - vbapp10.chm538002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.RGBColor.Parent
 ms.assetid: b3ccd9cc-9f65-32dc-93e1-2e1560180c53

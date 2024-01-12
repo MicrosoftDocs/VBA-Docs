@@ -3,7 +3,6 @@ title: ShapeRange.HasChart property (PowerPoint)
 keywords: vbapp10.chm548087
 f1_keywords:
 - vbapp10.chm548087
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.HasChart
 ms.assetid: b863fc82-6f99-d102-a399-fde44af9e877

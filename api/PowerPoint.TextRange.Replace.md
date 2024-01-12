@@ -3,7 +3,6 @@ title: TextRange.Replace method (PowerPoint)
 keywords: vbapp10.chm569035
 f1_keywords:
 - vbapp10.chm569035
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Replace
 ms.assetid: 046d1c3d-fd3e-7871-e31e-6529b77fcd60

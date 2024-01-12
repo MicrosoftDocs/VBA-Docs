@@ -3,7 +3,6 @@ title: PrintOptions.HandoutOrder property (PowerPoint)
 keywords: vbapp10.chm517016
 f1_keywords:
 - vbapp10.chm517016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.HandoutOrder
 ms.assetid: d71782ef-42d6-6dd4-6812-3463d41e8173
