@@ -3,7 +3,6 @@ title: Slide.Shapes property (PowerPoint)
 keywords: vbapp10.chm531003
 f1_keywords:
 - vbapp10.chm531003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.Shapes
 ms.assetid: 8eaf3611-2799-835d-ecaa-c8f802256673

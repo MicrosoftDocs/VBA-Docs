@@ -1,6 +1,5 @@
 ---
 title: TickLabels.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Creator
 ms.assetid: 96a886ca-8250-0748-8b65-acabdbc64cdd

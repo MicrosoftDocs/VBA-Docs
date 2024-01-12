@@ -3,7 +3,6 @@ title: Model3DFormat.IncrementRotationY method (PowerPoint)
 keywords: vbapp10.chm743022
 f1_keywords:
 - vbapp10.chm743022
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.IncrementRotationY
 ms.date: 04/11/2019

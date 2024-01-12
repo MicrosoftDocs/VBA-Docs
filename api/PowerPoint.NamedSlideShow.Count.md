@@ -3,7 +3,6 @@ title: NamedSlideShow.Count property (PowerPoint)
 keywords: vbapp10.chm516006
 f1_keywords:
 - vbapp10.chm516006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow.Count
 ms.assetid: 09aeed71-dfc6-2ee6-1430-c5e7f0ed2bc1

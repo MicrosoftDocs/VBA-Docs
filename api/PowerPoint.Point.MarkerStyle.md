@@ -1,6 +1,5 @@
 ---
 title: Point.MarkerStyle property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerStyle
 ms.assetid: 76d0d681-40f7-b4b8-c18f-3c57f8b60330

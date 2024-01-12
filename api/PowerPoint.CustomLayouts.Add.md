@@ -3,7 +3,6 @@ title: CustomLayouts.Add method (PowerPoint)
 keywords: vbapp10.chm671004
 f1_keywords:
 - vbapp10.chm671004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayouts.Add
 ms.assetid: d22dc23a-cb03-ab32-fd27-e360377369a9

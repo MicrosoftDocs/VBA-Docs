@@ -3,7 +3,6 @@ title: TextRange.ActionSettings property (PowerPoint)
 keywords: vbapp10.chm569003
 f1_keywords:
 - vbapp10.chm569003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.ActionSettings
 ms.assetid: 7a66ca28-d6b9-2066-4c88-a04888d5ba1e

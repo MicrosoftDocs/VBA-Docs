@@ -3,7 +3,6 @@ title: TableBackground.Fill property (PowerPoint)
 keywords: vbapp10.chm677001
 f1_keywords:
 - vbapp10.chm677001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TableBackground.Fill
 ms.assetid: b52705a4-29dc-c676-5988-86c30c2fdad4

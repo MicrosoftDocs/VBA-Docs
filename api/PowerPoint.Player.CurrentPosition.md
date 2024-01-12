@@ -3,7 +3,6 @@ title: Player.CurrentPosition property (PowerPoint)
 keywords: vbapp10.chm726008
 f1_keywords:
 - vbapp10.chm726008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Player.CurrentPosition
 ms.assetid: 96c33746-2855-384e-439d-88f5bd3f754a

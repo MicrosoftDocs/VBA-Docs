@@ -3,7 +3,6 @@ title: Application.AddIns property (PowerPoint)
 keywords: vbapp10.chm502019
 f1_keywords:
 - vbapp10.chm502019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.AddIns
 ms.assetid: 5a5a030f-45cd-3b82-f41a-eab53b1ed48f

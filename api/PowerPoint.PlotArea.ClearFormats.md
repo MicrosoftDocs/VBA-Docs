@@ -1,6 +1,5 @@
 ---
 title: PlotArea.ClearFormats method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.ClearFormats
 ms.assetid: 83f58736-e1f2-3fbd-53aa-98a0341dfcf9

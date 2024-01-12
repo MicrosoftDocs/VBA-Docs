@@ -3,7 +3,6 @@ title: Fonts.Replace method (PowerPoint)
 keywords: vbapp10.chm528004
 f1_keywords:
 - vbapp10.chm528004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Fonts.Replace
 ms.assetid: 666bcfad-b87e-b63b-70c1-ca0873cf9f94

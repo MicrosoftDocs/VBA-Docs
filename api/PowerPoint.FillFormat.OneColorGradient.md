@@ -3,7 +3,6 @@ title: FillFormat.OneColorGradient method (PowerPoint)
 keywords: vbapp10.chm552003
 f1_keywords:
 - vbapp10.chm552003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.OneColorGradient
 ms.assetid: ce574185-2d13-993b-4a78-d681b6600621

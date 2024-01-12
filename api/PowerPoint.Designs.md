@@ -3,7 +3,6 @@ title: Designs object (PowerPoint)
 keywords: vbapp10.chm643000
 f1_keywords:
 - vbapp10.chm643000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs
 ms.assetid: 9b02ed6d-9a84-3464-5669-f614e0f33b10

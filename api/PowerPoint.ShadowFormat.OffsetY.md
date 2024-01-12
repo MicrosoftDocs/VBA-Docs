@@ -3,7 +3,6 @@ title: ShadowFormat.OffsetY property (PowerPoint)
 keywords: vbapp10.chm554007
 f1_keywords:
 - vbapp10.chm554007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.OffsetY
 ms.assetid: 286f5d2a-5601-f3d7-0ace-fc01f168224d

@@ -3,7 +3,6 @@ title: Application.ProtectedViewWindows property (PowerPoint)
 keywords: vbapp10.chm502064
 f1_keywords:
 - vbapp10.chm502064
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ProtectedViewWindows
 ms.assetid: 21ffdddc-9e29-94ee-425d-c83d49dcf457

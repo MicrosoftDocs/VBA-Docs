@@ -3,7 +3,6 @@ title: AxisTitle.Select method (PowerPoint)
 keywords: vbapp10.chm683018
 f1_keywords:
 - vbapp10.chm683018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Select
 ms.assetid: 4911422c-7274-a65f-363c-d6c19eb315da

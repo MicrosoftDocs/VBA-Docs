@@ -1,6 +1,5 @@
 ---
 title: XlPivotFieldOrientation enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPivotFieldOrientation
 ms.assetid: deb292f0-c0c6-2ab4-1c35-a36776e5a057

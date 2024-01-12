@@ -3,7 +3,6 @@ title: LineFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm553001
 f1_keywords:
 - vbapp10.chm553001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Parent
 ms.assetid: 6644560e-0d3c-d675-b8a0-3481496c12ec

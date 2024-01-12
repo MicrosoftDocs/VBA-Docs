@@ -3,7 +3,6 @@ title: SeriesCollection.Add method (PowerPoint)
 keywords: vbapp10.chm717002
 f1_keywords:
 - vbapp10.chm717002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesCollection.Add
 ms.assetid: 29dd05a7-a707-78ff-fc06-1085e065eb3c

@@ -1,6 +1,5 @@
 ---
 title: ErrorBars.Parent property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.Parent
 ms.assetid: cf506870-9d6a-c95b-7cc0-03e3dda895bf

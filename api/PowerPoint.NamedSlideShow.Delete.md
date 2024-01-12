@@ -3,7 +3,6 @@ title: NamedSlideShow.Delete method (PowerPoint)
 keywords: vbapp10.chm516004
 f1_keywords:
 - vbapp10.chm516004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow.Delete
 ms.assetid: 2365f669-08d0-b6ec-bca7-44ca719f8db5

@@ -3,7 +3,6 @@ title: Borders.Parent property (PowerPoint)
 keywords: vbapp10.chm629002
 f1_keywords:
 - vbapp10.chm629002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders.Parent
 ms.assetid: c6805f83-89a3-cb90-1e2b-9a76b067899a

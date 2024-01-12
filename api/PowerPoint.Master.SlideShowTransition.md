@@ -3,7 +3,6 @@ title: Master.SlideShowTransition property (PowerPoint)
 keywords: vbapp10.chm533016
 f1_keywords:
 - vbapp10.chm533016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.SlideShowTransition
 ms.assetid: 935cadd9-a57a-a792-62b4-e198546438b2

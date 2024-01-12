@@ -3,7 +3,6 @@ title: Chart.Refresh method (PowerPoint)
 keywords: vbapp10.chm684010
 f1_keywords:
 - vbapp10.chm684010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.Refresh
 ms.assetid: 5dfabfe6-50b3-4671-c409-a5c943223aff

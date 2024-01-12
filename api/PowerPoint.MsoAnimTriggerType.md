@@ -1,6 +1,5 @@
 ---
 title: MsoAnimTriggerType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimTriggerType
 ms.assetid: 09ad45bc-7a8b-46ec-6d69-b3f826ec8772

@@ -3,7 +3,6 @@ title: TextRange.BoundHeight property (PowerPoint)
 keywords: vbapp10.chm569009
 f1_keywords:
 - vbapp10.chm569009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.BoundHeight
 ms.assetid: 8f3b9947-5ee3-260d-3d44-0ad2da422724

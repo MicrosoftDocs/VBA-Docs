@@ -3,7 +3,6 @@ title: AxisTitle.Delete method (PowerPoint)
 keywords: vbapp10.chm683014
 f1_keywords:
 - vbapp10.chm683014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Delete
 ms.assetid: 13479b79-56b1-241f-cbb6-7ccd1655c1cc

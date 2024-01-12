@@ -1,6 +1,5 @@
 ---
 title: LegendEntries.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntries.Count
 ms.assetid: bb210ac1-db8b-0b90-b580-f368daed7deb

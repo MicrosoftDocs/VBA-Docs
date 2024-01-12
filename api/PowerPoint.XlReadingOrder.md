@@ -1,6 +1,5 @@
 ---
 title: XlReadingOrder enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlReadingOrder
 ms.assetid: 38062197-37e0-f116-f7fb-d6ebeba2ff12

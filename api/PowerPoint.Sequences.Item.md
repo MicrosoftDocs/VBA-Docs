@@ -3,7 +3,6 @@ title: Sequences.Item method (PowerPoint)
 keywords: vbapp10.chm650003
 f1_keywords:
 - vbapp10.chm650003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequences.Item
 ms.assetid: 48803295-9ba9-94d1-78fe-df217bdf440c

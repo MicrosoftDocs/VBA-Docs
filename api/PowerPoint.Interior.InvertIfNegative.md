@@ -3,7 +3,6 @@ title: Interior.InvertIfNegative property (PowerPoint)
 keywords: vbapp10.chm707003
 f1_keywords:
 - vbapp10.chm707003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Interior.InvertIfNegative
 ms.assetid: 3bba925e-449a-391d-e69c-c22956c160c6

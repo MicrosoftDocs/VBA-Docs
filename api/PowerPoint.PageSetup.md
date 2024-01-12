@@ -3,7 +3,6 @@ title: PageSetup object (PowerPoint)
 keywords: vbapp10.chm527000
 f1_keywords:
 - vbapp10.chm527000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup
 ms.assetid: aed5649c-59d7-08d2-0a01-3385e5a9b5ff

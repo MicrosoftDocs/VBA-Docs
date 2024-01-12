@@ -3,7 +3,6 @@ title: Presentation.RemoveDocumentInformation method (PowerPoint)
 keywords: vbapp10.chm583094
 f1_keywords:
 - vbapp10.chm583094
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.RemoveDocumentInformation
 ms.assetid: 2c9d5cc5-8fc9-d650-b1cf-9fa3e409be1c

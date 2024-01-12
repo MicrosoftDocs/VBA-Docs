@@ -1,6 +1,5 @@
 ---
 title: Legend.Position property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Position
 ms.assetid: 82d71eda-aa17-b463-9934-6f79fe370f67

@@ -3,7 +3,6 @@ title: DocumentWindow.WindowState property (PowerPoint)
 keywords: vbapp10.chm511009
 f1_keywords:
 - vbapp10.chm511009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.WindowState
 ms.assetid: 7f0ce168-0339-03f0-11e4-dc7935c04b85

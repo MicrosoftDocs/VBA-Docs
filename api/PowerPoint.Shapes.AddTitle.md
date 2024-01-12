@@ -3,7 +3,6 @@ title: Shapes.AddTitle method (PowerPoint)
 keywords: vbapp10.chm543019
 f1_keywords:
 - vbapp10.chm543019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddTitle
 ms.assetid: 1fe13529-526a-1b29-7589-c155f9e46379

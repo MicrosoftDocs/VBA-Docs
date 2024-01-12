@@ -3,7 +3,6 @@ title: OLEFormat object (PowerPoint)
 keywords: vbapp10.chm562000
 f1_keywords:
 - vbapp10.chm562000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.OLEFormat
 ms.assetid: fbb6d6dd-4dbb-461b-986e-5095c6dc1486

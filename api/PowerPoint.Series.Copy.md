@@ -1,6 +1,5 @@
 ---
 title: Series.Copy method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Copy
 ms.assetid: 7725e3f1-a3a8-9d03-db25-ef6b6ef31caf

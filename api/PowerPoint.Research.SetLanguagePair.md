@@ -3,7 +3,6 @@ title: Research.SetLanguagePair method (PowerPoint)
 keywords: vbapp10.chm676004
 f1_keywords:
 - vbapp10.chm676004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Research.SetLanguagePair
 ms.assetid: 7a886b5a-18d2-a63b-fbd1-a6fe551c73d9

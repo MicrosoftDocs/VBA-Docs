@@ -3,7 +3,6 @@ title: Comment.Top property (PowerPoint)
 keywords: vbapp10.chm642009
 f1_keywords:
 - vbapp10.chm642009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.Top
 ms.assetid: 07b292ef-a329-64d6-060a-5ce3718b96d4

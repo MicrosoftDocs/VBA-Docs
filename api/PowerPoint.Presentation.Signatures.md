@@ -3,7 +3,6 @@ title: Presentation.Signatures property (PowerPoint)
 keywords: vbapp10.chm583067
 f1_keywords:
 - vbapp10.chm583067
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Signatures
 ms.assetid: 978e39bb-298b-d820-63cb-2924bf0770b1

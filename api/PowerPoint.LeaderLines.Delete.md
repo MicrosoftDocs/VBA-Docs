@@ -1,6 +1,5 @@
 ---
 title: LeaderLines.Delete method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Delete
 ms.assetid: 75b6a628-40dd-3ee4-62f0-1d1e4f4c85b2

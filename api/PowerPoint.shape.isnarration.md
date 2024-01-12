@@ -2,7 +2,6 @@
 title: Shape.IsNarration property (PowerPoint)
 ms.assetid: e07e42e3-149d-153f-6852-a41c0eae80e3
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

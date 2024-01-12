@@ -3,7 +3,6 @@ title: GroupShapes.Parent property (PowerPoint)
 keywords: vbapp10.chm549001
 f1_keywords:
 - vbapp10.chm549001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Parent
 ms.assetid: cab159ab-3694-2b80-72f2-444c83c5664c

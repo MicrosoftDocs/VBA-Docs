@@ -3,7 +3,6 @@ title: Chart.HasAxis property (PowerPoint)
 keywords: vbapp10.chm684031
 f1_keywords:
 - vbapp10.chm684031
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.HasAxis
 ms.assetid: edb836fb-1a4c-cf70-2ec0-0272b3681e39

@@ -3,7 +3,6 @@ title: SlideRange.CustomerData property (PowerPoint)
 keywords: vbapp10.chm532043
 f1_keywords:
 - vbapp10.chm532043
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.CustomerData
 ms.assetid: 82b0dea8-882f-dbc8-9edd-926d1b4998f6

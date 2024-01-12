@@ -3,7 +3,6 @@ title: TextEffectFormat.PresetTextEffect property (PowerPoint)
 keywords: vbapp10.chm556011
 f1_keywords:
 - vbapp10.chm556011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.PresetTextEffect
 ms.assetid: 629668e0-15c4-5867-acf9-6fc6ef8863ef

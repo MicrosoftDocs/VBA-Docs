@@ -3,7 +3,6 @@ title: ShapeRange.Title property (PowerPoint)
 keywords: vbapp10.chm548097
 f1_keywords:
 - vbapp10.chm548097
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Title
 ms.assetid: bb4e08a3-6517-c500-23ac-ec65b3340f76

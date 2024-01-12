@@ -3,7 +3,6 @@ title: DataTable.Parent property (PowerPoint)
 keywords: vbapp10.chm698009
 f1_keywords:
 - vbapp10.chm698009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.Parent
 ms.assetid: 5dc721d0-9a9c-0601-6976-970f9114d4f9

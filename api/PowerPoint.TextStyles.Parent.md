@@ -3,7 +3,6 @@ title: TextStyles.Parent property (PowerPoint)
 keywords: vbapp10.chm578002
 f1_keywords:
 - vbapp10.chm578002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles.Parent
 ms.assetid: 74a2784b-ea76-9ef4-cacd-ac5ad9ba34a1

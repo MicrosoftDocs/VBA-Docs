@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Creator
 ms.assetid: 48762ba6-04fd-8d4b-fa5b-596ce4698d4d

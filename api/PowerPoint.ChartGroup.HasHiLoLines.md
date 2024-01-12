@@ -1,6 +1,5 @@
 ---
 title: ChartGroup.HasHiLoLines property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasHiLoLines
 ms.assetid: 02122126-1ea9-0d94-ce1b-25b1aa9d075b

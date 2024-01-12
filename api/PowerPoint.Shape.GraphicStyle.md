@@ -3,7 +3,6 @@ title: Shape.GraphicStyle property (PowerPoint)
 keywords: vbapp10.chm547094
 f1_keywords:
 - vbapp10.chm547094
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.GraphicStyle
 ms.date: 04/25/2019

@@ -2,7 +2,6 @@
 title: TextRange2.RemovePeriods method (PowerPoint)
 ms.assetid: 8734cf36-1a15-4288-b027-dc738cc7a422
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

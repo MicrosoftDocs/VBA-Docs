@@ -3,7 +3,6 @@ title: Effect.Delete method (PowerPoint)
 keywords: vbapp10.chm652007
 f1_keywords:
 - vbapp10.chm652007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Delete
 ms.assetid: 71261ec1-2f39-ac51-43f4-bce2b34fcadd

@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Close method (PowerPoint)
 keywords: vbapp10.chm734014
 f1_keywords:
 - vbapp10.chm734014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Close
 ms.assetid: ce66419b-7eed-ab7c-64ef-e396d9a3757d

@@ -3,7 +3,6 @@ title: AxisTitle.Format property (PowerPoint)
 keywords: vbapp10.chm683019
 f1_keywords:
 - vbapp10.chm683019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Format
 ms.assetid: a7c29041-7e2d-e936-e0cd-3722257f32b1

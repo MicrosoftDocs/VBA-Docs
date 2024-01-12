@@ -3,7 +3,6 @@ title: Shape.PickUp method (PowerPoint)
 keywords: vbapp10.chm547008
 f1_keywords:
 - vbapp10.chm547008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.PickUp
 ms.assetid: 35730a7e-3878-dfae-2aba-3395d41e5f3e

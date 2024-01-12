@@ -1,6 +1,5 @@
 ---
 title: TextFrame.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.Application
 ms.assetid: 18ee8f34-836e-0e56-7187-aa32be937036

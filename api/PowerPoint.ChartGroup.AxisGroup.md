@@ -3,7 +3,6 @@ title: ChartGroup.AxisGroup property (PowerPoint)
 keywords: vbapp10.chm692007
 f1_keywords:
 - vbapp10.chm692007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.AxisGroup
 ms.assetid: eacd747e-99a0-75ef-1d8a-63a30b690dc4

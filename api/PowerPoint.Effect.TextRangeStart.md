@@ -3,7 +3,6 @@ title: Effect.TextRangeStart property (PowerPoint)
 keywords: vbapp10.chm652012
 f1_keywords:
 - vbapp10.chm652012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.TextRangeStart
 ms.assetid: b6da1565-84e2-acc4-4a06-166c5fda7071

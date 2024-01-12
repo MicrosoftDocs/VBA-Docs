@@ -3,7 +3,6 @@ title: MediaFormat.StartPoint property (PowerPoint)
 keywords: vbapp10.chm724006
 f1_keywords:
 - vbapp10.chm724006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MediaFormat.StartPoint
 ms.assetid: a4628f91-0a8d-8416-b130-ef28eb528a6d

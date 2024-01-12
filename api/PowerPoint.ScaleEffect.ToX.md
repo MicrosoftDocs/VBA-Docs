@@ -3,7 +3,6 @@ title: ScaleEffect.ToX property (PowerPoint)
 keywords: vbapp10.chm660007
 f1_keywords:
 - vbapp10.chm660007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect.ToX
 ms.assetid: 12d225bb-2268-f644-8dfb-7d457ae79afa

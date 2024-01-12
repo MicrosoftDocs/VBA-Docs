@@ -3,7 +3,6 @@ title: Timing.SmoothStart property (PowerPoint)
 keywords: vbapp10.chm653013
 f1_keywords:
 - vbapp10.chm653013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.SmoothStart
 ms.assetid: 7e2f3578-7367-748d-7e3c-cd4643a71e9d

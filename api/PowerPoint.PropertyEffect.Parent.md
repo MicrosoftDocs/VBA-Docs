@@ -3,7 +3,6 @@ title: PropertyEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm662002
 f1_keywords:
 - vbapp10.chm662002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PropertyEffect.Parent
 ms.assetid: a6fa3de5-1c8a-cb3a-c47e-b41510834516

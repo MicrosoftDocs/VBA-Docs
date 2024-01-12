@@ -3,7 +3,6 @@ title: Point object (PowerPoint)
 keywords: vbapp10.chm714000
 f1_keywords:
 - vbapp10.chm714000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point
 ms.assetid: e0137fdd-5632-88d7-a6c0-57a76717e736

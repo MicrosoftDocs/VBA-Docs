@@ -3,7 +3,6 @@ title: FilterEffect.Parent property (PowerPoint)
 keywords: vbapp10.chm669002
 f1_keywords:
 - vbapp10.chm669002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FilterEffect.Parent
 ms.assetid: 24b358a4-beb8-c33f-75b2-e6e6a5a49041

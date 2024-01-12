@@ -3,7 +3,6 @@ title: Application.Presentations property (PowerPoint)
 keywords: vbapp10.chm502001
 f1_keywords:
 - vbapp10.chm502001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Presentations
 ms.assetid: d6f5f565-d593-e230-c3b9-2302bdd83644

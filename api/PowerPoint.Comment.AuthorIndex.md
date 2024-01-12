@@ -3,7 +3,6 @@ title: Comment.AuthorIndex property (PowerPoint)
 keywords: vbapp10.chm642007
 f1_keywords:
 - vbapp10.chm642007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Comment.AuthorIndex
 ms.assetid: a004167b-a564-651e-1769-9e1a8947e385

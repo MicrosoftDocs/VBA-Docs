@@ -3,7 +3,6 @@ title: Table.AlternativeText property (PowerPoint)
 keywords: vbapp10.chm622018
 f1_keywords:
 - vbapp10.chm622018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.AlternativeText
 ms.assetid: db35ce8c-0115-4e72-db25-3d555242aee4

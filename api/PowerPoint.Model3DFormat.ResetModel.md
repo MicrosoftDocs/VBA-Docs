@@ -3,7 +3,6 @@ title: Model3DFormat.ResetModel method (PowerPoint)
 keywords: vbapp10.chm743020
 f1_keywords:
 - vbapp10.chm743020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.ResetModel
 ms.date: 04/11/2019

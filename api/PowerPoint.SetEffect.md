@@ -3,7 +3,6 @@ title: SetEffect object (PowerPoint)
 keywords: vbapp10.chm670000
 f1_keywords:
 - vbapp10.chm670000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SetEffect
 ms.assetid: 299eff64-54d6-3689-a031-ca6a3756afca

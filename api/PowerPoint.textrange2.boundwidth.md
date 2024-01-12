@@ -2,7 +2,6 @@
 title: TextRange2.BoundWidth property (PowerPoint)
 ms.assetid: 95d4ef10-0f3e-47d8-bfe4-daf8779c74c9
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

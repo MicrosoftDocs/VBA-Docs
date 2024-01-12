@@ -3,7 +3,6 @@ title: Gridlines.Application property (PowerPoint)
 keywords: vbapp10.chm705002
 f1_keywords:
 - vbapp10.chm705002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Gridlines.Application
 ms.assetid: 8aaf9244-bb77-f8db-f68d-300982ce6540

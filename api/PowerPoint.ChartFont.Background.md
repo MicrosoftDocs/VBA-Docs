@@ -3,7 +3,6 @@ title: ChartFont.Background property (PowerPoint)
 keywords: vbapp10.chm704001
 f1_keywords:
 - vbapp10.chm704001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartFont.Background
 ms.assetid: 27462713-e2ee-3b2f-ba78-0f29488351b5

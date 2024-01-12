@@ -3,7 +3,6 @@ title: Application.ShowStartupDialog property (PowerPoint)
 keywords: vbapp10.chm502051
 f1_keywords:
 - vbapp10.chm502051
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ShowStartupDialog
 ms.assetid: acbd2597-c835-e285-e52c-5c86349d3199

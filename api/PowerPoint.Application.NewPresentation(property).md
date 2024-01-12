@@ -3,7 +3,6 @@ title: Application.NewPresentation property (PowerPoint)
 keywords: vbapp10.chm502049
 f1_keywords:
 - vbapp10.chm502049
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.NewPresentation
 ms.assetid: 9685db30-9d73-19ad-432b-8d79b2d6ee50

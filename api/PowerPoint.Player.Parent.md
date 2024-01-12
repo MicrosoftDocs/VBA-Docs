@@ -3,7 +3,6 @@ title: Player.Parent property (PowerPoint)
 keywords: vbapp10.chm726002
 f1_keywords:
 - vbapp10.chm726002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Player.Parent
 ms.assetid: 959b3b96-4878-10b2-2e0b-5939087389c5

@@ -3,7 +3,6 @@ title: Points object (PowerPoint)
 keywords: vbapp10.chm715000
 f1_keywords:
 - vbapp10.chm715000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Points
 ms.assetid: f3ee69d3-ab8f-e300-bbf4-00ea97d47c2a

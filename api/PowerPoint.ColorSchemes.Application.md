@@ -3,7 +3,6 @@ title: ColorSchemes.Application property (PowerPoint)
 keywords: vbapp10.chm536001
 f1_keywords:
 - vbapp10.chm536001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorSchemes.Application
 ms.assetid: 8c9a82e1-7d06-2f7e-d782-2f9f4fc867a9

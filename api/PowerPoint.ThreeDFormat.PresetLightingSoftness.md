@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetLightingSoftness property (PowerPoint)
 keywords: vbapp10.chm557013
 f1_keywords:
 - vbapp10.chm557013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 2dbe3666-2400-0142-01f8-995091f12311

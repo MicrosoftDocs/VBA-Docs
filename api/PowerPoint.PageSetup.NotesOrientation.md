@@ -3,7 +3,6 @@ title: PageSetup.NotesOrientation property (PowerPoint)
 keywords: vbapp10.chm527007
 f1_keywords:
 - vbapp10.chm527007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.NotesOrientation
 ms.assetid: 1a8e233a-58da-1296-da1f-cf59892e518f

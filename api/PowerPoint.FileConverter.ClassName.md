@@ -3,7 +3,6 @@ title: FileConverter.ClassName property (PowerPoint)
 keywords: vbapp10.chm680004
 f1_keywords:
 - vbapp10.chm680004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.ClassName
 ms.assetid: dd024749-07e0-477c-2bba-5c78f2f222a6

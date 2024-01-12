@@ -3,7 +3,6 @@ title: TextStyleLevels.Item method (PowerPoint)
 keywords: vbapp10.chm580003
 f1_keywords:
 - vbapp10.chm580003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyleLevels.Item
 ms.assetid: 03c6efd9-9066-a20d-fd78-ee697021c8e5

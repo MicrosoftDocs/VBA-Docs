@@ -3,7 +3,6 @@ title: ShapeRange.Visible property (PowerPoint)
 keywords: vbapp10.chm548041
 f1_keywords:
 - vbapp10.chm548041
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Visible
 ms.assetid: 39ca5142-bf7b-a48d-ce9d-e929e4611aac

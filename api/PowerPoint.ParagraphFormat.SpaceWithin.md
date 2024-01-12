@@ -3,7 +3,6 @@ title: ParagraphFormat.SpaceWithin property (PowerPoint)
 keywords: vbapp10.chm576010
 f1_keywords:
 - vbapp10.chm576010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.SpaceWithin
 ms.assetid: 523fa767-e5af-0d7f-d16a-b11dd7d3799d

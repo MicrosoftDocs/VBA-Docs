@@ -3,7 +3,6 @@ title: FillFormat.TextureVerticalScale property (PowerPoint)
 keywords: vbapp10.chm552030
 f1_keywords:
 - vbapp10.chm552030
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.TextureVerticalScale
 ms.assetid: 714f17bd-db5b-4b09-c166-69f25e7a59d5

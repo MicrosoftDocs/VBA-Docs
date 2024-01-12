@@ -3,7 +3,6 @@ title: Shape.IncrementTop method (PowerPoint)
 keywords: vbapp10.chm547007
 f1_keywords:
 - vbapp10.chm547007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.IncrementTop
 ms.assetid: b74307f9-9efa-4117-9232-24dfd2bdb883

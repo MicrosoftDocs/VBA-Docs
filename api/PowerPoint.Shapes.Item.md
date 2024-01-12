@@ -3,7 +3,6 @@ title: Shapes.Item method (PowerPoint)
 keywords: vbapp10.chm543003
 f1_keywords:
 - vbapp10.chm543003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.Item
 ms.assetid: f6c5eac1-3b65-3023-3b7a-557c7bfb0f02

@@ -3,7 +3,6 @@ title: LinkFormat object (PowerPoint)
 keywords: vbapp10.chm563000
 f1_keywords:
 - vbapp10.chm563000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LinkFormat
 ms.assetid: e89ee344-4197-ac0d-dd53-966e4672a3ce

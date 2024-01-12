@@ -3,7 +3,6 @@ title: SlideRange.Master property (PowerPoint)
 keywords: vbapp10.chm532023
 f1_keywords:
 - vbapp10.chm532023
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Master
 ms.assetid: 321cb5f9-2ac8-f31c-2c79-0cfdc4e0a73b

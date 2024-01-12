@@ -3,7 +3,6 @@ title: ChartGroup.GapWidth property (PowerPoint)
 keywords: vbapp10.chm692011
 f1_keywords:
 - vbapp10.chm692011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.GapWidth
 ms.assetid: aca7a9a3-f1e4-3401-062e-31d3fbb6a8b0

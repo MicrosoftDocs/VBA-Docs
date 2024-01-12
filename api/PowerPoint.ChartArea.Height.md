@@ -1,6 +1,5 @@
 ---
 title: ChartArea.Height property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Height
 ms.assetid: 01deb7e5-af03-df99-5a3b-15cfd5236f78

@@ -3,7 +3,6 @@ title: Axis.MinorUnitIsAuto property (PowerPoint)
 keywords: vbapp10.chm682024
 f1_keywords:
 - vbapp10.chm682024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MinorUnitIsAuto
 ms.assetid: 18dff25c-59a3-e2c8-2997-6239b1ae87bf

@@ -3,7 +3,6 @@ title: Shape.ZOrderPosition property (PowerPoint)
 keywords: vbapp10.chm547043
 f1_keywords:
 - vbapp10.chm547043
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.ZOrderPosition
 ms.assetid: 07e6c756-ae7b-f6d9-d903-92aef3b7fa9e

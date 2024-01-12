@@ -3,7 +3,6 @@ title: Work with Panes and Views
 keywords: vbapp10.chm5275171
 f1_keywords:
 - vbapp10.chm5275171
-ms.prod: powerpoint
 ms.assetid: 13301fb3-b22e-19d9-b181-ee006e05dd90
 ms.date: 06/08/2019
 ms.localizationpriority: medium

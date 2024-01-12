@@ -3,7 +3,6 @@ title: Table.LastRow property (PowerPoint)
 keywords: vbapp10.chm622009
 f1_keywords:
 - vbapp10.chm622009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.LastRow
 ms.assetid: b3cf6345-42bf-f371-3e70-f4d62b11f15d

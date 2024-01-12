@@ -1,6 +1,5 @@
 ---
 title: ErrorBars.ClearFormats method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ErrorBars.ClearFormats
 ms.assetid: 29b98847-5865-b143-7bc6-63966be73ca6

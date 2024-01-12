@@ -3,7 +3,6 @@ title: Axis.MajorUnitIsAuto property (PowerPoint)
 keywords: vbapp10.chm682016
 f1_keywords:
 - vbapp10.chm682016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.MajorUnitIsAuto
 ms.assetid: ffea2f83-1a5e-7ae1-f866-ae52a4d49567

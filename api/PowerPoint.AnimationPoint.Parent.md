@@ -3,7 +3,6 @@ title: AnimationPoint.Parent property (PowerPoint)
 keywords: vbapp10.chm664002
 f1_keywords:
 - vbapp10.chm664002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationPoint.Parent
 ms.assetid: e789fe23-b350-1a9c-0093-e6a9230f22a7

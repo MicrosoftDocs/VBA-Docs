@@ -3,7 +3,6 @@ title: Effect.Timing property (PowerPoint)
 keywords: vbapp10.chm652009
 f1_keywords:
 - vbapp10.chm652009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.Timing
 ms.assetid: 88b4f9a5-62aa-6844-e784-f74a1d78aa82

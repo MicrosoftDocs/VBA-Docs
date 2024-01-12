@@ -3,7 +3,6 @@ title: Shapes.AddPicture method (PowerPoint)
 keywords: vbapp10.chm543010
 f1_keywords:
 - vbapp10.chm543010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddPicture
 ms.assetid: af432432-b09b-3ca6-d392-132bd78251c7

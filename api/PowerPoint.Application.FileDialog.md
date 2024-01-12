@@ -3,7 +3,6 @@ title: Application.FileDialog property (PowerPoint)
 keywords: vbapp10.chm502046
 f1_keywords:
 - vbapp10.chm502046
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.FileDialog
 ms.assetid: 0f0d5b6c-e478-6d15-7218-be04df978d6b

@@ -3,7 +3,6 @@ title: ConnectorFormat.EndConnectionSite property (PowerPoint)
 keywords: vbapp10.chm555011
 f1_keywords:
 - vbapp10.chm555011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ConnectorFormat.EndConnectionSite
 ms.assetid: fa65a404-573a-939b-6e2c-d54e4de5c1f0

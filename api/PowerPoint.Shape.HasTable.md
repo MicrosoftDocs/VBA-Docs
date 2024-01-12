@@ -3,7 +3,6 @@ title: Shape.HasTable property (PowerPoint)
 keywords: vbapp10.chm547059
 f1_keywords:
 - vbapp10.chm547059
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.HasTable
 ms.assetid: fa38891a-e915-3a5c-4169-3c14e5e7136e

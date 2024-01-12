@@ -3,7 +3,6 @@ title: Presentation.Research property (PowerPoint)
 keywords: vbapp10.chm583107
 f1_keywords:
 - vbapp10.chm583107
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Research
 ms.assetid: e2d8fef9-2b21-c006-c216-2e3aee890413
