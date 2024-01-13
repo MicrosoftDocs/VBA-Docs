@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 ---
 
 
-# Shape.Duplicate method (PowerPoint)
+# Shape.Export method (PowerPoint)
 
 Exports a shape, using the specified graphics filter, and saves the exported file under the specified file name.
 
@@ -58,7 +58,7 @@ PowerPoint uses the specified graphics filter to save each individual shape. The
 
 The _ScaleWidth_ and _ScaleHeight_ parameters are used to scale the exported image size relative to the dimensions of the slide. For example, if a plain 1" square shape is created on a slide, it will measure as 72x72 points in the Object Model. When exported without using any scale factor, the default scale of 1:1 is applied, and PowerPoint will use 96DPI to create a 96x96 pixel image. If a scale factor of 2x is used as shown in example 2 below, the exported image will be 192x192 pixels.
 
-If the slide and/or shape is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](/office/vba/powerpoint/how-to/work-with-partial-documents.md).  
+If the slide and/or shape is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](./office/vba/powerpoint/how-to/work-with-partial-documents.md).  
 
 When exporting from PowerPoint on macOS, the files must be created in either the Office sandbox folder or the PowerPoint sandbox folder:
 
@@ -111,6 +111,6 @@ End With
 
 [PageSetup.SlideWidth](powerpoint.pagesetup.slidewidth.md)
 
-[Work with Partial Documents](/office/vba/powerpoint/how-to/work-with-partial-documents.md)
+[Work with Partial Documents](./office/vba/powerpoint/how-to/work-with-partial-documents.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
