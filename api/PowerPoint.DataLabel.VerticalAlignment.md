@@ -1,6 +1,5 @@
 ---
 title: DataLabel.VerticalAlignment property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.VerticalAlignment
 ms.assetid: 2be75c8e-9859-688d-689b-7ce935333664

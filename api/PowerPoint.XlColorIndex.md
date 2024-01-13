@@ -1,6 +1,5 @@
 ---
 title: XlColorIndex enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlColorIndex
 ms.assetid: e9d26c5b-26f8-7baf-5f53-4beac789add3

@@ -1,6 +1,5 @@
 ---
 title: XlChartGallery enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartGallery
 ms.assetid: 2b77fffe-d02d-bdd0-5784-25370d9cf820

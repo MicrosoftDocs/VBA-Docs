@@ -3,7 +3,6 @@ title: PlaySettings.Parent property (PowerPoint)
 keywords: vbapp10.chm568002
 f1_keywords:
 - vbapp10.chm568002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.Parent
 ms.assetid: 88c43d67-7936-58b1-f5b2-22fea54de0bc

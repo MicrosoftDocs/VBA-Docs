@@ -3,7 +3,6 @@ title: TextRange.ParagraphFormat property (PowerPoint)
 keywords: vbapp10.chm569024
 f1_keywords:
 - vbapp10.chm569024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.ParagraphFormat
 ms.assetid: 41d3f0f3-70e3-ad1a-efcb-de849d4a03d4

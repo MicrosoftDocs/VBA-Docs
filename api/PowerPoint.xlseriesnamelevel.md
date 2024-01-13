@@ -2,7 +2,6 @@
 title: XlSeriesNameLevel enumeration (PowerPoint)
 ms.assetid: 9896c812-6cf4-d5d6-f9e2-c23a76c1dd7c
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

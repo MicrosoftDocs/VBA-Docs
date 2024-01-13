@@ -3,7 +3,6 @@ title: ScaleEffect.ByX property (PowerPoint)
 keywords: vbapp10.chm660003
 f1_keywords:
 - vbapp10.chm660003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ScaleEffect.ByX
 ms.assetid: bbf43cf2-1a82-ec81-de1d-f37fbe9a9f8f

@@ -3,7 +3,6 @@ title: FillFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm552024
 f1_keywords:
 - vbapp10.chm552024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Visible
 ms.assetid: 8221347f-4b12-f18a-5d0b-b584ee762bff

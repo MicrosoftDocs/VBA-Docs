@@ -3,7 +3,6 @@ title: FileConverter.CanOpen property (PowerPoint)
 keywords: vbapp10.chm680002
 f1_keywords:
 - vbapp10.chm680002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.CanOpen
 ms.assetid: 9a5a2fea-0f09-9dfe-c75a-e8811d53c27f

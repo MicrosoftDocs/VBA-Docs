@@ -3,7 +3,6 @@ title: DownBars object (PowerPoint)
 keywords: vbapp10.chm700000
 f1_keywords:
 - vbapp10.chm700000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DownBars
 ms.assetid: ce479049-2e58-2dad-f4bb-2dd27a223753

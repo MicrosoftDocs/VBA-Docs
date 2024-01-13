@@ -3,7 +3,6 @@ title: Shape.AnimationSettings property (PowerPoint)
 keywords: vbapp10.chm547047
 f1_keywords:
 - vbapp10.chm547047
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.AnimationSettings
 ms.assetid: c960d0de-afb3-55f2-b6fb-e67779cc42d2

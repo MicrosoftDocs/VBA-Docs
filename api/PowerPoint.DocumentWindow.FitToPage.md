@@ -3,7 +3,6 @@ title: DocumentWindow.FitToPage method (PowerPoint)
 keywords: vbapp10.chm511015
 f1_keywords:
 - vbapp10.chm511015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.FitToPage
 ms.assetid: 91ea2102-df12-20fe-cd16-e664832f9eb5

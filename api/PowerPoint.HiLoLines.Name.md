@@ -3,7 +3,6 @@ title: HiLoLines.Name property (PowerPoint)
 keywords: vbapp10.chm706002
 f1_keywords:
 - vbapp10.chm706002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.HiLoLines.Name
 ms.assetid: 90ddd817-bf54-d035-91c8-95ab89f3d4c3

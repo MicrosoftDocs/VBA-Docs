@@ -1,6 +1,5 @@
 ---
 title: Points.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Points.Creator
 ms.assetid: e73b8401-6fe5-a451-4f62-2ca8ef6649d5

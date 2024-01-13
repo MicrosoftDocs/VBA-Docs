@@ -3,7 +3,6 @@ title: Slide.SlideID property (PowerPoint)
 keywords: vbapp10.chm531009
 f1_keywords:
 - vbapp10.chm531009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.SlideID
 ms.assetid: 9d2d920c-a876-c71c-083f-ae8a3ad06c85

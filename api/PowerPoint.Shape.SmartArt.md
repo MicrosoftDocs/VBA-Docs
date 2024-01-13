@@ -3,7 +3,6 @@ title: Shape.SmartArt property (PowerPoint)
 keywords: vbapp10.chm547086
 f1_keywords:
 - vbapp10.chm547086
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.SmartArt
 ms.assetid: ac652436-8cdf-12a8-93c6-e50479e961b8

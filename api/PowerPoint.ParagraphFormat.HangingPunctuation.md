@@ -3,7 +3,6 @@ title: ParagraphFormat.HangingPunctuation property (PowerPoint)
 keywords: vbapp10.chm576014
 f1_keywords:
 - vbapp10.chm576014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.HangingPunctuation
 ms.assetid: e7e1f5b2-e0ed-9b5c-7c14-fcf4c134e3bb

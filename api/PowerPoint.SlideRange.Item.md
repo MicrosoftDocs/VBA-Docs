@@ -3,7 +3,6 @@ title: SlideRange.Item method (PowerPoint)
 keywords: vbapp10.chm532026
 f1_keywords:
 - vbapp10.chm532026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Item
 ms.assetid: 74ef792c-3a6f-1501-f39a-fa1a889f7c38

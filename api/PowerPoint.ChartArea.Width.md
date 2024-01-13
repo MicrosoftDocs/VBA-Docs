@@ -1,6 +1,5 @@
 ---
 title: ChartArea.Width property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartArea.Width
 ms.assetid: 140734ad-cf7f-1324-caae-7138de074e97

@@ -3,7 +3,6 @@ title: ShadowFormat.RotateWithShape property (PowerPoint)
 keywords: vbapp10.chm554014
 f1_keywords:
 - vbapp10.chm554014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.RotateWithShape
 ms.assetid: 6bba2805-a774-ab5b-7631-e020d77c133d

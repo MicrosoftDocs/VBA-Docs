@@ -3,7 +3,6 @@ title: ShapeRange.LockAspectRatio property (PowerPoint)
 keywords: vbapp10.chm548028
 f1_keywords:
 - vbapp10.chm548028
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.LockAspectRatio
 ms.assetid: e30f2834-b6c2-d966-dbee-b22912e4e3f0

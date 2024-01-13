@@ -3,7 +3,6 @@ title: Sequence.Application property (PowerPoint)
 keywords: vbapp10.chm651001
 f1_keywords:
 - vbapp10.chm651001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.Application
 ms.assetid: af83a8ca-d6b9-8aa2-2468-d43f4650a101

@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Presentation property (PowerPoint)
 keywords: vbapp10.chm734003
 f1_keywords:
 - vbapp10.chm734003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Presentation
 ms.assetid: de766097-230c-6310-cdaa-2514cd5ca1b5

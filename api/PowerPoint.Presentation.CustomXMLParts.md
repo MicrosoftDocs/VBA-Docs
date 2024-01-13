@@ -3,7 +3,6 @@ title: Presentation.CustomXMLParts property (PowerPoint)
 keywords: vbapp10.chm583103
 f1_keywords:
 - vbapp10.chm583103
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.CustomXMLParts
 ms.assetid: 72dba684-9fc2-09b3-54bb-e01c01c093c0

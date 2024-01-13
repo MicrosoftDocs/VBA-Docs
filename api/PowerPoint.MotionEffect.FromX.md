@@ -3,7 +3,6 @@ title: MotionEffect.FromX property (PowerPoint)
 keywords: vbapp10.chm658005
 f1_keywords:
 - vbapp10.chm658005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MotionEffect.FromX
 ms.assetid: 1e849f47-aab0-3e54-6cfe-e7fe3021dcf7

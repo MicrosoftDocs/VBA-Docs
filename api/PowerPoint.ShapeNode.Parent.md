@@ -3,7 +3,6 @@ title: ShapeNode.Parent property (PowerPoint)
 keywords: vbapp10.chm561001
 f1_keywords:
 - vbapp10.chm561001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNode.Parent
 ms.assetid: 7dcbab00-c7e7-eabc-ed29-e2a101f92250

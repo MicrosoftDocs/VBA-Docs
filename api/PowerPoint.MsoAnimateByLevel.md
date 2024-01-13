@@ -1,6 +1,5 @@
 ---
 title: MsoAnimateByLevel enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimateByLevel
 ms.assetid: 4a025c85-a01c-fd3a-f4f7-1322c4619ffa

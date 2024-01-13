@@ -1,6 +1,5 @@
 ---
 title: PlotArea.Name property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Name
 ms.assetid: fd68d9e5-6340-b5cc-b038-1d228b3fea1a

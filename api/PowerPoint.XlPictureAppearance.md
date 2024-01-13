@@ -1,6 +1,5 @@
 ---
 title: XlPictureAppearance enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPictureAppearance
 ms.assetid: 6f776149-460e-866b-65cb-05992cb56bdd

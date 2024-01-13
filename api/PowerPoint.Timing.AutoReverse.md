@@ -3,7 +3,6 @@ title: Timing.AutoReverse property (PowerPoint)
 keywords: vbapp10.chm653012
 f1_keywords:
 - vbapp10.chm653012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Timing.AutoReverse
 ms.assetid: 82137189-a7f0-bacc-0550-41c9b5ff9ded

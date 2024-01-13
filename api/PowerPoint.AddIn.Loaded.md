@@ -3,7 +3,6 @@ title: AddIn.Loaded property (PowerPoint)
 keywords: vbapp10.chm521008
 f1_keywords:
 - vbapp10.chm521008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn.Loaded
 ms.assetid: 8becb17d-dbe4-b151-e66b-3463f3a862f5

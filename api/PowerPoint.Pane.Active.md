@@ -3,7 +3,6 @@ title: Pane.Active property (PowerPoint)
 keywords: vbapp10.chm631003
 f1_keywords:
 - vbapp10.chm631003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Pane.Active
 ms.assetid: 7928a964-f775-a658-1246-88c6c07e6172

@@ -3,7 +3,6 @@ title: ShadowFormat.Parent property (PowerPoint)
 keywords: vbapp10.chm554001
 f1_keywords:
 - vbapp10.chm554001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Parent
 ms.assetid: 93245fb3-2704-b43b-391a-52213cf0759e

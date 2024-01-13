@@ -3,7 +3,6 @@ title: Presentations.Open method (PowerPoint)
 keywords: vbapp10.chm522006
 f1_keywords:
 - vbapp10.chm522006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentations.Open
 ms.assetid: c19456ba-e5a8-83da-00ae-dd387e38febf

@@ -3,7 +3,6 @@ title: TextFrame2.MarginBottom property (PowerPoint)
 keywords: vbapp10.chm678002
 f1_keywords:
 - vbapp10.chm678002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.MarginBottom
 ms.assetid: f1a061e8-8248-9cbe-b4a7-09969644e5c0

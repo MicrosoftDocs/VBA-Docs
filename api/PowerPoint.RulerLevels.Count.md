@@ -1,6 +1,5 @@
 ---
 title: RulerLevels.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.RulerLevels.Count
 ms.assetid: 5278b041-dabb-7b14-32ef-528b238d3326

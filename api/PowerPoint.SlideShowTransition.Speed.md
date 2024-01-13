@@ -3,7 +3,6 @@ title: SlideShowTransition.Speed property (PowerPoint)
 keywords: vbapp10.chm539010
 f1_keywords:
 - vbapp10.chm539010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.Speed
 ms.assetid: 7c5b9dd2-88d3-5e34-619a-b35c3937a276

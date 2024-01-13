@@ -3,7 +3,6 @@ title: Model3DFormat.IncrementRotationZ method (PowerPoint)
 keywords: vbapp10.chm743023
 f1_keywords:
 - vbapp10.chm743023
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.IncrementRotationZ
 ms.date: 04/11/2019

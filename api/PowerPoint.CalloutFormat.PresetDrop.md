@@ -3,7 +3,6 @@ title: CalloutFormat.PresetDrop method (PowerPoint)
 keywords: vbapp10.chm559005
 f1_keywords:
 - vbapp10.chm559005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.PresetDrop
 ms.assetid: e0f99665-4619-334a-a7bb-e53d5f8ef5ec

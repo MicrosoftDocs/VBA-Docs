@@ -47,6 +47,10 @@
       "feedback_system": "Standard"
     },
     "fileMetadata": {
+      "ms.service": {
+        "api/PowerPoint.*.md": "powerpoint",
+        "powerpoint/**.md": "powerpoint"
+      },
       "ms.topic": {
         "api/**.md": "reference",
         "access/**.md": "conceptual",
@@ -65,7 +69,6 @@
         "api/Access.*.md": "access",
         "api/Excel.*.md": "excel",
         "api/Outlook.*.md": "outlook",
-        "api/PowerPoint.*.md": "powerpoint",
         "api/Project.*.md": "project",
         "api/Publisher.*.md": "publisher",
         "api/Visio.*.md": "visio",
@@ -78,7 +81,6 @@
         "Library-Reference/**.md": "office",
         "Office-Mac/**.md": "office",
         "outlook/**.md": "outlook",
-        "powerpoint/**.md": "powerpoint",
         "project/**.md": "project",
         "publisher/**.md": "publisher",
         "visio/**.md": "visio",

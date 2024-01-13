@@ -3,7 +3,6 @@ title: Trendline.DisplayEquation property (PowerPoint)
 keywords: vbapp10.chm65726
 f1_keywords:
 - vbapp10.chm65726
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.DisplayEquation
 ms.assetid: dad5ea14-3165-df06-33b6-b90ddedaab39

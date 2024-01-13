@@ -3,7 +3,6 @@ title: ParagraphFormat.LineRuleWithin property (PowerPoint)
 keywords: vbapp10.chm576007
 f1_keywords:
 - vbapp10.chm576007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.LineRuleWithin
 ms.assetid: 0bf91b11-fe28-eec8-75f8-8fccbed19f5c

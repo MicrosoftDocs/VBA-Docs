@@ -3,7 +3,6 @@ title: DocumentWindow.Height property (PowerPoint)
 keywords: vbapp10.chm511014
 f1_keywords:
 - vbapp10.chm511014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Height
 ms.assetid: a81aed0f-141c-a1ca-19f0-1584680ca726

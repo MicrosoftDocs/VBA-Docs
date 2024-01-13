@@ -1,6 +1,5 @@
 ---
 title: Series.Paste method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.Paste
 ms.assetid: 3f74aabb-f9c0-c76d-eaaa-c08c21daef48

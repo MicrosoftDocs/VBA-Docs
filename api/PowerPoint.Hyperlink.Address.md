@@ -3,7 +3,6 @@ title: Hyperlink.Address property (PowerPoint)
 keywords: vbapp10.chm526004
 f1_keywords:
 - vbapp10.chm526004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.Address
 ms.assetid: d3d2174a-fbb2-432d-bc42-6623c91e9843

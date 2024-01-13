@@ -3,7 +3,6 @@ title: LeaderLines.Application property (PowerPoint)
 keywords: vbapp10.chm708002
 f1_keywords:
 - vbapp10.chm708002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Application
 ms.assetid: b28408d4-334f-1c73-7810-eabbb9643fdd

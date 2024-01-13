@@ -1,6 +1,5 @@
 ---
 title: UpBars.Select method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars.Select
 ms.assetid: 56e285f9-4753-d9dc-3be3-32538a574ecc

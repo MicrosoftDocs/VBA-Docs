@@ -3,7 +3,6 @@ title: ShapeNodes.SetEditingType method (PowerPoint)
 keywords: vbapp10.chm560007
 f1_keywords:
 - vbapp10.chm560007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes.SetEditingType
 ms.assetid: ae048107-b416-53f3-ad8b-11a917f7e3dc

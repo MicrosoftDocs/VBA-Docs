@@ -3,7 +3,6 @@ title: CustomLayout.FollowMasterBackground property (PowerPoint)
 keywords: vbapp10.chm672023
 f1_keywords:
 - vbapp10.chm672023
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.FollowMasterBackground
 ms.assetid: 9554e610-8d9a-ab32-411e-0f4aa40a7f19

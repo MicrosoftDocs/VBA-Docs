@@ -3,7 +3,6 @@ title: Floor.Application property (PowerPoint)
 keywords: vbapp10.chm703002
 f1_keywords:
 - vbapp10.chm703002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Floor.Application
 ms.assetid: 574a50b1-4a70-b5f7-b6aa-75df67512838

@@ -3,7 +3,6 @@ title: Sequence.ConvertToAfterEffect method (PowerPoint)
 keywords: vbapp10.chm651009
 f1_keywords:
 - vbapp10.chm651009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Sequence.ConvertToAfterEffect
 ms.assetid: bbd340a5-d0c4-1db9-259c-ee43c079309a

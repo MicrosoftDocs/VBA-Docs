@@ -3,7 +3,6 @@ title: Presentation.PasswordEncryptionFileProperties property (PowerPoint)
 keywords: vbapp10.chm583078
 f1_keywords:
 - vbapp10.chm583078
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.PasswordEncryptionFileProperties
 ms.assetid: 086ef0bb-5307-1445-3209-f3f79927965c

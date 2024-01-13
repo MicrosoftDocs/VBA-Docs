@@ -3,7 +3,6 @@ title: ShapeRange.Nodes property (PowerPoint)
 keywords: vbapp10.chm548030
 f1_keywords:
 - vbapp10.chm548030
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Nodes
 ms.assetid: da1e20b4-4c03-9d7c-8f01-9373ad97ca77

@@ -3,7 +3,6 @@ title: ColorFormat.ObjectThemeColor property (PowerPoint)
 keywords: vbapp10.chm506006
 f1_keywords:
 - vbapp10.chm506006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorFormat.ObjectThemeColor
 ms.assetid: 40264b94-b16d-2a52-9adc-8e8510ec581d

@@ -3,7 +3,6 @@ title: Slides.Paste method (PowerPoint)
 keywords: vbapp10.chm530008
 f1_keywords:
 - vbapp10.chm530008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.Paste
 ms.assetid: 313027d1-6f8b-9964-f0bd-4ba33c973743

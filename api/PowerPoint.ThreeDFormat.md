@@ -3,7 +3,6 @@ title: ThreeDFormat object (PowerPoint)
 keywords: vbapp10.chm557000
 f1_keywords:
 - vbapp10.chm557000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat
 ms.assetid: d6eb7b36-57df-727e-fc5b-50b8c4790c1c

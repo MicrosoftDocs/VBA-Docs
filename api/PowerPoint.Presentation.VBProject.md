@@ -3,7 +3,6 @@ title: Presentation.VBProject property (PowerPoint)
 keywords: vbapp10.chm583022
 f1_keywords:
 - vbapp10.chm583022
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.VBProject
 ms.assetid: 76713c8c-2263-7a5a-8133-726cc94bd73a

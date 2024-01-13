@@ -1,6 +1,5 @@
 ---
 title: PpSlideShowState enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowState
 ms.assetid: a2ecb987-bdc7-892a-8b42-96d2178f45c0

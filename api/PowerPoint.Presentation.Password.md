@@ -3,7 +3,6 @@ title: Presentation.Password property (PowerPoint)
 keywords: vbapp10.chm583080
 f1_keywords:
 - vbapp10.chm583080
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.Password
 ms.assetid: 977876b7-b40f-de45-c259-e91744915085

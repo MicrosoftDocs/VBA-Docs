@@ -1,6 +1,5 @@
 ---
 title: ChartGroup.HasRadarAxisLabels property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasRadarAxisLabels
 ms.assetid: ae8102a3-db43-410e-06fe-ab9f7f7ab6ff

@@ -3,7 +3,6 @@ title: SlideRange.HasNotesPage property (PowerPoint)
 keywords: vbapp10.chm532047
 f1_keywords:
 - vbapp10.chm532047
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.HasNotesPage
 ms.assetid: 65906508-c75b-49b6-28bb-1156e92c981a

@@ -3,7 +3,6 @@ title: ResampleMediaTasks.Resume method (PowerPoint)
 keywords: vbapp10.chm728004
 f1_keywords:
 - vbapp10.chm728004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTasks.Resume
 ms.assetid: d58b0932-38f9-1589-efdc-7860fab1f5ad

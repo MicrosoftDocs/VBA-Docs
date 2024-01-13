@@ -3,7 +3,6 @@ title: CalloutFormat.Length property (PowerPoint)
 keywords: vbapp10.chm559014
 f1_keywords:
 - vbapp10.chm559014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CalloutFormat.Length
 ms.assetid: b0144e68-b495-0ef3-b228-599e56b7833e

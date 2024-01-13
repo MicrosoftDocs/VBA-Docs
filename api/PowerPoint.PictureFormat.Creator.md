@@ -1,6 +1,5 @@
 ---
 title: PictureFormat.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PictureFormat.Creator
 ms.assetid: d2784238-bf55-0e70-a89b-0a3c9b21fd31

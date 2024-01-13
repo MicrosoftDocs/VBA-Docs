@@ -2,7 +2,6 @@
 title: TextRange2.Copy method (PowerPoint)
 ms.assetid: dc4538cc-d5b7-4216-907b-2bfb5cf64f5b
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

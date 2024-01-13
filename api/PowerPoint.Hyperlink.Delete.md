@@ -3,7 +3,6 @@ title: Hyperlink.Delete method (PowerPoint)
 keywords: vbapp10.chm526013
 f1_keywords:
 - vbapp10.chm526013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Hyperlink.Delete
 ms.assetid: 05961889-ff6c-b8f3-4cf4-e60ed782533b

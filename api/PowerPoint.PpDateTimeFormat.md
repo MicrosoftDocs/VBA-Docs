@@ -1,6 +1,5 @@
 ---
 title: PpDateTimeFormat enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpDateTimeFormat
 ms.assetid: 28660011-3f32-3846-7a4a-ad2272f8ca6c

@@ -3,7 +3,6 @@ title: DisplayUnitLabel.FormulaLocal property (PowerPoint)
 keywords: vbapp10.chm699026
 f1_keywords:
 - vbapp10.chm699026
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.FormulaLocal
 ms.assetid: 5fea8bc4-0332-f7cd-c5d4-548680d2b31f

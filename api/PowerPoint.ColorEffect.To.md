@@ -3,7 +3,6 @@ title: ColorEffect.To property (PowerPoint)
 keywords: vbapp10.chm659005
 f1_keywords:
 - vbapp10.chm659005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ColorEffect.To
 ms.assetid: c5a3a2bd-c33a-13ed-b2fd-e9ebb1f446e1

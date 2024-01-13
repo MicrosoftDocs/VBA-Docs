@@ -1,6 +1,5 @@
 ---
 title: SeriesLines.Delete method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Delete
 ms.assetid: 49fe8a74-cc15-64e0-f1b9-ab52d248a3a9

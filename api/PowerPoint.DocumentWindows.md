@@ -3,7 +3,6 @@ title: DocumentWindows object (PowerPoint)
 keywords: vbapp10.chm509000
 f1_keywords:
 - vbapp10.chm509000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows
 ms.assetid: 84ed4b8c-593a-8100-d4b8-158115c4e84d

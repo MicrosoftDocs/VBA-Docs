@@ -3,7 +3,6 @@ title: TextFrame.MarginRight property (PowerPoint)
 keywords: vbapp10.chm558004
 f1_keywords:
 - vbapp10.chm558004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame.MarginRight
 ms.assetid: 57ab53e7-1fbf-09b6-13c4-7cb0a814d9e3

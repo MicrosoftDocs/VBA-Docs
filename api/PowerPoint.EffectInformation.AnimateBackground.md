@@ -3,7 +3,6 @@ title: EffectInformation.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm655004
 f1_keywords:
 - vbapp10.chm655004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.AnimateBackground
 ms.assetid: 37e9bfb5-3661-a3eb-d148-90d504f0e450

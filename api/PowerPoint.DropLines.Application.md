@@ -3,7 +3,6 @@ title: DropLines.Application property (PowerPoint)
 keywords: vbapp10.chm701005
 f1_keywords:
 - vbapp10.chm701005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DropLines.Application
 ms.assetid: 0ca03e5d-b2a4-d200-4aa6-481537cd6295

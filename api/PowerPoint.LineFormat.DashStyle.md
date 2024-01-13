@@ -3,7 +3,6 @@ title: LineFormat.DashStyle property (PowerPoint)
 keywords: vbapp10.chm553006
 f1_keywords:
 - vbapp10.chm553006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.DashStyle
 ms.assetid: 7fc898b4-1eea-21fc-52e5-0ec92bde527f

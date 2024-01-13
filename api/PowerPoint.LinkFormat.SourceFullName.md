@@ -3,7 +3,6 @@ title: LinkFormat.SourceFullName property (PowerPoint)
 keywords: vbapp10.chm563003
 f1_keywords:
 - vbapp10.chm563003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LinkFormat.SourceFullName
 ms.assetid: 6a7fb694-609a-77c5-eabc-d95693a87299

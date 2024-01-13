@@ -3,7 +3,6 @@ title: Cell.Application property (PowerPoint)
 keywords: vbapp10.chm628001
 f1_keywords:
 - vbapp10.chm628001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Cell.Application
 ms.assetid: d91a9508-33a3-1b95-1786-2ab84a14ee43

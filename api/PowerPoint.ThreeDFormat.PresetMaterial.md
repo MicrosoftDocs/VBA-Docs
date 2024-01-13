@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetMaterial property (PowerPoint)
 keywords: vbapp10.chm557014
 f1_keywords:
 - vbapp10.chm557014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.PresetMaterial
 ms.assetid: 71f224d4-6c2c-b42b-9a1a-a2ace4bb279f

@@ -1,6 +1,5 @@
 ---
 title: PpHTMLVersion enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpHTMLVersion
 ms.assetid: b67f8548-dc27-6fd2-ee17-c162b2962d05

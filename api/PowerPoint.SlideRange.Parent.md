@@ -3,7 +3,6 @@ title: SlideRange.Parent property (PowerPoint)
 keywords: vbapp10.chm532002
 f1_keywords:
 - vbapp10.chm532002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Parent
 ms.assetid: 5bd376a4-dc87-d192-9c2a-540ca49a8c17

@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Height property (PowerPoint)
 keywords: vbapp10.chm734012
 f1_keywords:
 - vbapp10.chm734012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.Height
 ms.assetid: 2d45902b-e054-ec75-9815-987a1689a6a7

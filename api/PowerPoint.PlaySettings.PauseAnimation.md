@@ -3,7 +3,6 @@ title: PlaySettings.PauseAnimation property (PowerPoint)
 keywords: vbapp10.chm568008
 f1_keywords:
 - vbapp10.chm568008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlaySettings.PauseAnimation
 ms.assetid: a27beaaa-9ed6-f7cf-8abe-9012d1337fa8

@@ -1,6 +1,5 @@
 ---
 title: PpUpdateOption enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpUpdateOption
 ms.assetid: 0ede58db-7c6a-fbda-538a-e3762fe26248

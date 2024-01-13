@@ -3,7 +3,6 @@ title: ShadowFormat.IncrementOffsetY method (PowerPoint)
 keywords: vbapp10.chm554003
 f1_keywords:
 - vbapp10.chm554003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.IncrementOffsetY
 ms.assetid: a220a04d-90d1-1788-b4d9-5b9af5739c69

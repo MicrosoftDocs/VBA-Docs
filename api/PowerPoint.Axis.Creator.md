@@ -1,6 +1,5 @@
 ---
 title: Axis.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Creator
 ms.assetid: ae5c24b1-3bf4-e285-7402-12f2a4727e2a

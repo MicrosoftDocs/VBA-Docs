@@ -1,6 +1,5 @@
 ---
 title: Series.MarkerBackgroundColor property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.MarkerBackgroundColor
 ms.assetid: 6cd480e7-c291-7c11-1d3f-57099805d2c0

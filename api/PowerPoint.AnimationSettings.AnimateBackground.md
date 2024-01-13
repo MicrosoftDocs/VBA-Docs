@@ -3,7 +3,6 @@ title: AnimationSettings.AnimateBackground property (PowerPoint)
 keywords: vbapp10.chm565014
 f1_keywords:
 - vbapp10.chm565014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AnimationSettings.AnimateBackground
 ms.assetid: 929ba50f-23c4-9dea-09fb-fa580715b118

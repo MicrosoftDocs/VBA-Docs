@@ -3,7 +3,6 @@ title: CustomLayout.TimeLine property (PowerPoint)
 keywords: vbapp10.chm672012
 f1_keywords:
 - vbapp10.chm672012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.TimeLine
 ms.assetid: 641ccad6-2a91-64d7-2884-1ab436c58b9e

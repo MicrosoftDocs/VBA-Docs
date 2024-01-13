@@ -3,7 +3,6 @@ title: PublishObject.Publish method (PowerPoint)
 keywords: vbapp10.chm635010
 f1_keywords:
 - vbapp10.chm635010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObject.Publish
 ms.assetid: 890382ef-8aec-466d-40f9-e2bae6dc558b

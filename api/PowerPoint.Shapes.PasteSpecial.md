@@ -3,7 +3,6 @@ title: Shapes.PasteSpecial method (PowerPoint)
 keywords: vbapp10.chm543028
 f1_keywords:
 - vbapp10.chm543028
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c

@@ -3,7 +3,6 @@ title: TextStyles.Item method (PowerPoint)
 keywords: vbapp10.chm578003
 f1_keywords:
 - vbapp10.chm578003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextStyles.Item
 ms.assetid: 3315d566-a46a-38cc-44b3-07c54ec3c6e5

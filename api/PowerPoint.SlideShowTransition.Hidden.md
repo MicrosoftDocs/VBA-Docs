@@ -3,7 +3,6 @@ title: SlideShowTransition.Hidden property (PowerPoint)
 keywords: vbapp10.chm539007
 f1_keywords:
 - vbapp10.chm539007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.Hidden
 ms.assetid: 38e9add2-d05a-f0c3-6d8e-58e548d9789d

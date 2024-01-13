@@ -3,7 +3,6 @@ title: Font.Color property (PowerPoint)
 keywords: vbapp10.chm575003
 f1_keywords:
 - vbapp10.chm575003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Font.Color
 ms.assetid: 461d3fdc-5097-ceca-76f6-81d924f8a7b7

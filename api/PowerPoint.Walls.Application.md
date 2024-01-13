@@ -3,7 +3,6 @@ title: Walls.Application property (PowerPoint)
 keywords: vbapp10.chm723002
 f1_keywords:
 - vbapp10.chm723002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Application
 ms.assetid: e0228381-be31-bf1e-150e-377153ad0a5d

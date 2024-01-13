@@ -3,7 +3,6 @@ title: ActionSetting.Run property (PowerPoint)
 keywords: vbapp10.chm567006
 f1_keywords:
 - vbapp10.chm567006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.Run
 ms.assetid: 5c5bc9ee-528c-ca49-0c36-c1f343671ffd

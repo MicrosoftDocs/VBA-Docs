@@ -3,7 +3,6 @@ title: ChartData.IsLinked property (PowerPoint)
 keywords: vbapp10.chm689003
 f1_keywords:
 - vbapp10.chm689003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartData.IsLinked
 ms.assetid: 038ed026-a14c-2c5c-3f2e-c931fa9840b0

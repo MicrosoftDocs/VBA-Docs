@@ -3,7 +3,6 @@ title: Chart.SetSourceData method (PowerPoint)
 keywords: vbapp10.chm66949
 f1_keywords:
 - vbapp10.chm66949
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Chart.SetSourceData
 ms.assetid: f82dd278-318f-5706-3506-a0992df142ef

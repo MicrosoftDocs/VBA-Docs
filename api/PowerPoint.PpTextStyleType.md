@@ -1,6 +1,5 @@
 ---
 title: PpTextStyleType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpTextStyleType
 ms.assetid: c0bd58da-ee1c-cd6b-de13-d8941815a05f

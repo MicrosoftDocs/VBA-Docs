@@ -3,7 +3,6 @@ title: SlideRange.Background property (PowerPoint)
 keywords: vbapp10.chm532007
 f1_keywords:
 - vbapp10.chm532007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Background
 ms.assetid: fdbda068-3038-b966-bf61-3527f0258ba4

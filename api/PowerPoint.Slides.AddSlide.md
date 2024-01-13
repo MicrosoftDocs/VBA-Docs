@@ -3,7 +3,6 @@ title: Slides.AddSlide method (PowerPoint)
 keywords: vbapp10.chm530009
 f1_keywords:
 - vbapp10.chm530009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides.AddSlide
 ms.assetid: e8981122-325b-f1c3-c8d5-8e44427961ce
