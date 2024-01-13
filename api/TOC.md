@@ -18214,6 +18214,7 @@
 ###### [Cut](PowerPoint.Shape.Cut.md)
 ###### [Delete](PowerPoint.Shape.Delete.md)
 ###### [Duplicate](PowerPoint.Shape.Duplicate.md)
+###### [Export](PowerPoint.Shape.Export.md)
 ###### [Flip](PowerPoint.Shape.Flip.md)
 ###### [IncrementLeft](PowerPoint.Shape.IncrementLeft.md)
 ###### [IncrementRotation](PowerPoint.Shape.IncrementRotation.md)
