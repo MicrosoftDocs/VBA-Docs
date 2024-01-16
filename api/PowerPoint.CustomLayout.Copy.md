@@ -3,7 +3,6 @@ title: CustomLayout.Copy method (PowerPoint)
 keywords: vbapp10.chm672019
 f1_keywords:
 - vbapp10.chm672019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Copy
 ms.assetid: 6ad8ab68-0e94-761e-d352-96eb2f8f795c

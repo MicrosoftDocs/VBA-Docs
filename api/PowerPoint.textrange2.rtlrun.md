@@ -2,7 +2,6 @@
 title: TextRange2.RtlRun method (PowerPoint)
 ms.assetid: 6ec60d1f-a68a-4440-8bd4-b03ade806923
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

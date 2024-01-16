@@ -3,7 +3,6 @@ title: ActionSetting.Hyperlink property (PowerPoint)
 keywords: vbapp10.chm567008
 f1_keywords:
 - vbapp10.chm567008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.Hyperlink
 ms.assetid: 8654000a-bbc5-6d23-e5a7-d689bc767b1b

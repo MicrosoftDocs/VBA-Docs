@@ -3,7 +3,6 @@ title: ThreeDFormat.Depth property (PowerPoint)
 keywords: vbapp10.chm557007
 f1_keywords:
 - vbapp10.chm557007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Depth
 ms.assetid: ef38cda1-5bf0-df3e-aee5-96f18fb1c600

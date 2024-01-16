@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Orientation property (PowerPoint)
 keywords: vbapp10.chm699006
 f1_keywords:
 - vbapp10.chm699006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.Orientation
 ms.assetid: e6352968-78db-ef25-6eae-a9eb571576ad

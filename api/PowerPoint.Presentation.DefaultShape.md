@@ -3,7 +3,6 @@ title: Presentation.DefaultShape property (PowerPoint)
 keywords: vbapp10.chm583019
 f1_keywords:
 - vbapp10.chm583019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.DefaultShape
 ms.assetid: 318ec04a-8b30-29b3-c8a6-732564efd7a8

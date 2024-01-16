@@ -3,7 +3,6 @@ title: Selection.Parent property (PowerPoint)
 keywords: vbapp10.chm508002
 f1_keywords:
 - vbapp10.chm508002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.Parent
 ms.assetid: 01f9d99a-0ace-4ec3-121b-e22c35240406

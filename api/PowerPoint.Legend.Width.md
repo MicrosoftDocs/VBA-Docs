@@ -1,6 +1,5 @@
 ---
 title: Legend.Width property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Legend.Width
 ms.assetid: 5fe06b55-4c3d-f571-3200-cb88107caf96

@@ -3,7 +3,6 @@ title: ThreeDFormat.ResetRotation method (PowerPoint)
 keywords: vbapp10.chm557004
 f1_keywords:
 - vbapp10.chm557004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.ResetRotation
 ms.assetid: a766095a-f7a4-0fdf-8533-3ed00755950f

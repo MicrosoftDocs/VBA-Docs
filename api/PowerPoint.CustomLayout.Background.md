@@ -3,7 +3,6 @@ title: CustomLayout.Background property (PowerPoint)
 keywords: vbapp10.chm672005
 f1_keywords:
 - vbapp10.chm672005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.CustomLayout.Background
 ms.assetid: 61141722-d851-b3ff-f426-0865a6e31850

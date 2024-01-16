@@ -1,6 +1,5 @@
 ---
 title: LegendKey.MarkerBackgroundColor property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendKey.MarkerBackgroundColor
 ms.assetid: 46553e06-6468-1b6c-03ae-6930c0700565

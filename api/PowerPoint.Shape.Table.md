@@ -3,7 +3,6 @@ title: Shape.Table property (PowerPoint)
 keywords: vbapp10.chm547060
 f1_keywords:
 - vbapp10.chm547060
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Table
 ms.assetid: cc57c50b-8c88-d863-31d2-a758eff5359f

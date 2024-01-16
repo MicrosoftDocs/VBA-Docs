@@ -3,7 +3,6 @@ title: Effect.MoveAfter method (PowerPoint)
 keywords: vbapp10.chm652006
 f1_keywords:
 - vbapp10.chm652006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Effect.MoveAfter
 ms.assetid: 1d19f90c-51a6-d9bd-5593-53c67c7df415

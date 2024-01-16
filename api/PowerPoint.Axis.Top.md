@@ -3,7 +3,6 @@ title: Axis.Top property (PowerPoint)
 keywords: vbapp10.chm682039
 f1_keywords:
 - vbapp10.chm682039
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Top
 ms.assetid: 058723d8-ca0f-3139-b5cc-6f31fe9ff8f9

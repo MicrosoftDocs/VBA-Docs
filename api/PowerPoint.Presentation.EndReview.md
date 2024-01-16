@@ -3,7 +3,6 @@ title: Presentation.EndReview method (PowerPoint)
 keywords: vbapp10.chm583071
 f1_keywords:
 - vbapp10.chm583071
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.EndReview
 ms.assetid: c77350c1-7bb5-c122-4ed2-2b2f504b517d

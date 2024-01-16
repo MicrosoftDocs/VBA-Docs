@@ -2,7 +2,6 @@
 title: TextRange2.Length property (PowerPoint)
 ms.assetid: a9e3fa70-7bca-460d-8d5d-26f844b47d9b
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

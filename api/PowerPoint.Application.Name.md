@@ -3,7 +3,6 @@ title: Application.Name property (PowerPoint)
 keywords: vbapp10.chm502009
 f1_keywords:
 - vbapp10.chm502009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Name
 ms.assetid: c7a59327-774a-8c55-17b4-053ae76bd623

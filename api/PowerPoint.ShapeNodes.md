@@ -3,7 +3,6 @@ title: ShapeNodes object (PowerPoint)
 keywords: vbapp10.chm560000
 f1_keywords:
 - vbapp10.chm560000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeNodes
 ms.assetid: 493bacfe-eb8c-2064-46ec-c19e58e9b1ce

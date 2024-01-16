@@ -3,7 +3,6 @@ title: FileConverter.Extensions property (PowerPoint)
 keywords: vbapp10.chm680006
 f1_keywords:
 - vbapp10.chm680006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.Extensions
 ms.assetid: 4003e78b-c931-94a4-e53a-3bedb9512a6a

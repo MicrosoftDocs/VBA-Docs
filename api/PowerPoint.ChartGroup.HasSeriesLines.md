@@ -1,6 +1,5 @@
 ---
 title: ChartGroup.HasSeriesLines property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup.HasSeriesLines
 ms.assetid: 8d7b5910-5621-8997-391b-a306526e8533

@@ -1,6 +1,5 @@
 ---
 title: Walls.Parent property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Walls.Parent
 ms.assetid: 93190580-6b54-b832-3b26-a31771fe52f1

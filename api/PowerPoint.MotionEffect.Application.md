@@ -3,7 +3,6 @@ title: MotionEffect.Application property (PowerPoint)
 keywords: vbapp10.chm658001
 f1_keywords:
 - vbapp10.chm658001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MotionEffect.Application
 ms.assetid: c85f081d-d6b7-d628-7cff-95c1da8eb74e

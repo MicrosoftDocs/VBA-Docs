@@ -1,6 +1,5 @@
 ---
 title: DocumentWindows.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindows.Count
 ms.assetid: d659a980-cc23-c805-6084-4c724c0bc6cd

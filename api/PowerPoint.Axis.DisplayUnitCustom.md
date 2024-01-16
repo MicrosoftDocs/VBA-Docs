@@ -3,7 +3,6 @@ title: Axis.DisplayUnitCustom property (PowerPoint)
 keywords: vbapp10.chm682043
 f1_keywords:
 - vbapp10.chm682043
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.DisplayUnitCustom
 ms.assetid: bfee899d-27fd-ca15-9af7-04702ae3da52

@@ -1,6 +1,5 @@
 ---
 title: DataLabel.Position property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataLabel.Position
 ms.assetid: 40ca758b-e19a-9af7-0ed9-aaf07bfb8a4c

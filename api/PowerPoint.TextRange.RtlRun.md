@@ -3,7 +3,6 @@ title: TextRange.RtlRun method (PowerPoint)
 keywords: vbapp10.chm569038
 f1_keywords:
 - vbapp10.chm569038
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.RtlRun
 ms.assetid: eb474c9b-d789-f741-9ba9-0514f0a5b0be

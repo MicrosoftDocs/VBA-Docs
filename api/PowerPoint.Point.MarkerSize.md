@@ -1,6 +1,5 @@
 ---
 title: Point.MarkerSize property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.MarkerSize
 ms.assetid: e8df4fac-34e4-10d1-b1eb-82eae7453760

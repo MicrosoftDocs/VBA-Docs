@@ -3,7 +3,6 @@ title: Shape.Height property (PowerPoint)
 keywords: vbapp10.chm547024
 f1_keywords:
 - vbapp10.chm547024
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Height
 ms.assetid: 3e2e7adf-9115-a903-c119-6429a10cbd9e

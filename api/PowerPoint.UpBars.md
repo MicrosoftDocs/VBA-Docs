@@ -3,7 +3,6 @@ title: UpBars object (PowerPoint)
 keywords: vbapp10.chm722000
 f1_keywords:
 - vbapp10.chm722000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.UpBars
 ms.assetid: 8a176f01-01a6-86bc-a69b-29763ebb1481

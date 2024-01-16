@@ -3,7 +3,6 @@ title: FileConverter.SaveFormat property (PowerPoint)
 keywords: vbapp10.chm680012
 f1_keywords:
 - vbapp10.chm680012
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FileConverter.SaveFormat
 ms.assetid: 74b8e4b9-9952-b211-9c6b-32652495f78e

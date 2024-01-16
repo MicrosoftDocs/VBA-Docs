@@ -3,7 +3,6 @@ title: ResampleMediaTask.SampleHeight property (PowerPoint)
 keywords: vbapp10.chm727006
 f1_keywords:
 - vbapp10.chm727006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ResampleMediaTask.SampleHeight
 ms.assetid: 0521748d-8885-30f9-a67d-7b72a60d345c

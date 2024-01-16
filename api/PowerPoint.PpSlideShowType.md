@@ -1,7 +1,6 @@
 ---
 title: PpSlideShowType enumeration (PowerPoint)
 description: Constants that specify the type of slide show, passed to and returned by the ShowType property of the SlideShowSettings object.
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideShowType
 ms.assetid: 9e8b1429-2175-6329-7c6f-82648b84c147

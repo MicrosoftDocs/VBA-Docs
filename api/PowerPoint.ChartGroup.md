@@ -3,7 +3,6 @@ title: ChartGroup object (PowerPoint)
 keywords: vbapp10.chm692000
 f1_keywords:
 - vbapp10.chm692000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartGroup
 ms.assetid: 5caa5855-bd69-3fbc-f601-504e431a42e9

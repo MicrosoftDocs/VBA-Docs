@@ -1,6 +1,5 @@
 ---
 title: PublishObjects.Count property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PublishObjects.Count
 ms.assetid: ab216724-767b-4107-707d-29da3661a771

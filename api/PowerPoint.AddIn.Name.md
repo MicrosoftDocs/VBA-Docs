@@ -3,7 +3,6 @@ title: AddIn.Name property (PowerPoint)
 keywords: vbapp10.chm521004
 f1_keywords:
 - vbapp10.chm521004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AddIn.Name
 ms.assetid: d5a859ab-9304-1148-315d-2d2983251197

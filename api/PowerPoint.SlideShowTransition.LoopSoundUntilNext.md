@@ -3,7 +3,6 @@ title: SlideShowTransition.LoopSoundUntilNext property (PowerPoint)
 keywords: vbapp10.chm539008
 f1_keywords:
 - vbapp10.chm539008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowTransition.LoopSoundUntilNext
 ms.assetid: 64555d1a-20d2-cb4f-6168-dc9e9594e059

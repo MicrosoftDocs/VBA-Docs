@@ -1,6 +1,5 @@
 ---
 title: FreeformBuilder.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FreeformBuilder.Application
 ms.assetid: 837adf41-9d67-8bfc-9169-5654a65e477e

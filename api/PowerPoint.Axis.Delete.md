@@ -3,7 +3,6 @@ title: Axis.Delete method (PowerPoint)
 keywords: vbapp10.chm682007
 f1_keywords:
 - vbapp10.chm682007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Axis.Delete
 ms.assetid: be589a1e-0484-dffc-f514-fc93c377f9c2

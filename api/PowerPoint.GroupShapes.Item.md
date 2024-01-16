@@ -3,7 +3,6 @@ title: GroupShapes.Item method (PowerPoint)
 keywords: vbapp10.chm549003
 f1_keywords:
 - vbapp10.chm549003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.GroupShapes.Item
 ms.assetid: 8cb574da-688e-5409-e638-41c7bb505558

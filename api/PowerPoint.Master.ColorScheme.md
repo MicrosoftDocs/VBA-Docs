@@ -3,7 +3,6 @@ title: Master.ColorScheme property (PowerPoint)
 keywords: vbapp10.chm533005
 f1_keywords:
 - vbapp10.chm533005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.ColorScheme
 ms.assetid: f481aa76-e96f-686a-edbb-b2bef8be0e8c

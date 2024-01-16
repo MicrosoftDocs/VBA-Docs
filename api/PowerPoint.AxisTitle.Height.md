@@ -3,7 +3,6 @@ title: AxisTitle.Height property (PowerPoint)
 keywords: vbapp10.chm683022
 f1_keywords:
 - vbapp10.chm683022
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Height
 ms.assetid: e67cfeb0-b0be-aeab-c5ea-0719bc92d376

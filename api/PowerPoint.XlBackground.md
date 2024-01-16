@@ -1,6 +1,5 @@
 ---
 title: XlBackground enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.XlBackground
 ms.assetid: f7964191-5aab-27a6-5990-4a30c6432c0e

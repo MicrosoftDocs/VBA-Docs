@@ -3,7 +3,6 @@ title: DocumentWindow.Activate method (PowerPoint)
 keywords: vbapp10.chm511016
 f1_keywords:
 - vbapp10.chm511016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Activate
 ms.assetid: 8b6c5ede-edaf-72f2-b0f5-de2418a5e0a2

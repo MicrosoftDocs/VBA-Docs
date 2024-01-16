@@ -3,7 +3,6 @@ title: AxisTitle.Parent property (PowerPoint)
 keywords: vbapp10.chm683017
 f1_keywords:
 - vbapp10.chm683017
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Parent
 ms.assetid: ab3ed7b0-7d29-60f3-1f1f-5ef0f584bcae

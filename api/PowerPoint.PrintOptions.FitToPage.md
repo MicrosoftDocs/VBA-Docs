@@ -3,7 +3,6 @@ title: PrintOptions.FitToPage property (PowerPoint)
 keywords: vbapp10.chm517004
 f1_keywords:
 - vbapp10.chm517004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.FitToPage
 ms.assetid: 53476904-fcbd-0a53-3e64-5c64799c8327

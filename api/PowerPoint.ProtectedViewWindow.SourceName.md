@@ -3,7 +3,6 @@ title: ProtectedViewWindow.SourceName property (PowerPoint)
 keywords: vbapp10.chm734008
 f1_keywords:
 - vbapp10.chm734008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ProtectedViewWindow.SourceName
 ms.assetid: 601b8d1f-deec-57eb-9042-5d9b7b650cdb

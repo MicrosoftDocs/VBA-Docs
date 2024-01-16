@@ -3,7 +3,6 @@ title: TextFrame2.NoTextRotation property (PowerPoint)
 keywords: vbapp10.chm678020
 f1_keywords:
 - vbapp10.chm678020
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextFrame2.NoTextRotation
 ms.assetid: d290507a-ad06-3815-d49d-c61a6d396565

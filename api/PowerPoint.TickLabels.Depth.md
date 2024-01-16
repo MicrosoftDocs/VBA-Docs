@@ -3,7 +3,6 @@ title: TickLabels.Depth property (PowerPoint)
 keywords: vbapp10.chm719011
 f1_keywords:
 - vbapp10.chm719011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TickLabels.Depth
 ms.assetid: ffcdd43b-8029-586b-4257-970c95ac164b

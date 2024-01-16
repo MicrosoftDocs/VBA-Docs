@@ -3,7 +3,6 @@ title: Selection.SlideRange property (PowerPoint)
 keywords: vbapp10.chm508008
 f1_keywords:
 - vbapp10.chm508008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Selection.SlideRange
 ms.assetid: 2d853875-b0c2-ab8e-38b6-4e1397d4e669

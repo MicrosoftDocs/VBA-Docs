@@ -3,7 +3,6 @@ title: ShadowFormat.ForeColor property (PowerPoint)
 keywords: vbapp10.chm554004
 f1_keywords:
 - vbapp10.chm554004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.ForeColor
 ms.assetid: 8547b2b0-d9ba-41ce-9f13-659a8727cbdb

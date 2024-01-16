@@ -3,7 +3,6 @@ title: ChartTitle.Select method (PowerPoint)
 keywords: vbapp10.chm694018
 f1_keywords:
 - vbapp10.chm694018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartTitle.Select
 ms.assetid: 6eaf6315-8c01-4428-9c9c-ec2a2423c09b

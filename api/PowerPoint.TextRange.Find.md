@@ -3,7 +3,6 @@ title: TextRange.Find method (PowerPoint)
 keywords: vbapp10.chm569034
 f1_keywords:
 - vbapp10.chm569034
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Find
 ms.assetid: 24186821-3a0a-efd5-c35a-8b553e00f92b

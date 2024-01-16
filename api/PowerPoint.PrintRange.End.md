@@ -3,7 +3,6 @@ title: PrintRange.End property (PowerPoint)
 keywords: vbapp10.chm519004
 f1_keywords:
 - vbapp10.chm519004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintRange.End
 ms.assetid: 39f470c1-b469-3411-95e4-c6701487c498

@@ -2,7 +2,6 @@
 title: TextRange2.Text property (PowerPoint)
 ms.assetid: 22491b55-a639-45b8-a40b-0d72fab610cd
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

@@ -3,7 +3,6 @@ title: ActionSettings.Application property (PowerPoint)
 keywords: vbapp10.chm566001
 f1_keywords:
 - vbapp10.chm566001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSettings.Application
 ms.assetid: 3f5f58f8-528c-e0ab-d06f-8228db9bb8d9

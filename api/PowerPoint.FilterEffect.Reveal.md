@@ -3,7 +3,6 @@ title: FilterEffect.Reveal property (PowerPoint)
 keywords: vbapp10.chm669005
 f1_keywords:
 - vbapp10.chm669005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FilterEffect.Reveal
 ms.assetid: 01aaa4e5-e433-3e19-3f78-d266a1bf2890

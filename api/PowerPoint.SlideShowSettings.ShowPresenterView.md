@@ -3,7 +3,6 @@ title: SlideShowSettings.ShowPresenterView property (PowerPoint)
 keywords: vbapp10.chm514016
 f1_keywords:
 - vbapp10.chm514016
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.ShowPresenterView
 ms.assetid: 62ec6a39-1e8d-f6e5-0769-64a175d4d611

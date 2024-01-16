@@ -3,7 +3,6 @@ title: DocumentWindow.Application property (PowerPoint)
 keywords: vbapp10.chm511001
 f1_keywords:
 - vbapp10.chm511001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DocumentWindow.Application
 ms.assetid: 89843eab-4dde-131e-85ed-a6116a98ad46

@@ -3,7 +3,6 @@ title: Shape.Nodes property (PowerPoint)
 keywords: vbapp10.chm547030
 f1_keywords:
 - vbapp10.chm547030
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Nodes
 ms.assetid: 85021d71-78f8-43e5-5a15-a0c1ae29ef61

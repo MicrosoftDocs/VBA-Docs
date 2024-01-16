@@ -3,7 +3,6 @@ title: Master.Name property (PowerPoint)
 keywords: vbapp10.chm533007
 f1_keywords:
 - vbapp10.chm533007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Name
 ms.assetid: 1c751814-61fe-c246-d516-0d43b7757248

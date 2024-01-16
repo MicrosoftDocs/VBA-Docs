@@ -3,7 +3,6 @@ title: Column.Delete method (PowerPoint)
 keywords: vbapp10.chm624005
 f1_keywords:
 - vbapp10.chm624005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Column.Delete
 ms.assetid: c9b7c6d5-1248-fe34-5185-efdfebcfef20

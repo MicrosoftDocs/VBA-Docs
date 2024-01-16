@@ -3,7 +3,6 @@ title: BulletFormat.UseTextFont property (PowerPoint)
 keywords: vbapp10.chm577007
 f1_keywords:
 - vbapp10.chm577007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.BulletFormat.UseTextFont
 ms.assetid: 8d572d8d-bd89-ec94-2484-045306d2730e

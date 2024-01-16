@@ -3,7 +3,6 @@ title: ChartBorder.ColorIndex property (PowerPoint)
 keywords: vbapp10.chm685002
 f1_keywords:
 - vbapp10.chm685002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartBorder.ColorIndex
 ms.assetid: c6601494-e82d-f67f-3cd9-bb7fa9c8ab3f

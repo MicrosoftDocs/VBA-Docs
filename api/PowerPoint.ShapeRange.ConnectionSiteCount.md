@@ -3,7 +3,6 @@ title: ShapeRange.ConnectionSiteCount property (PowerPoint)
 keywords: vbapp10.chm548019
 f1_keywords:
 - vbapp10.chm548019
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.ConnectionSiteCount
 ms.assetid: 352f9c7c-6290-f974-5924-01e108fb4919

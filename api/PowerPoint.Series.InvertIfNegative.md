@@ -1,6 +1,5 @@
 ---
 title: Series.InvertIfNegative property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.InvertIfNegative
 ms.assetid: dd672a13-d419-c68f-3330-a1449d14f636

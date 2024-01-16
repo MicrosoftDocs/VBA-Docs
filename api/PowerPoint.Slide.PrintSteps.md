@@ -3,7 +3,6 @@ title: Slide.PrintSteps property (PowerPoint)
 keywords: vbapp10.chm531010
 f1_keywords:
 - vbapp10.chm531010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.PrintSteps
 ms.assetid: b5474b85-0c1f-aa18-da9d-be7d778e9e16

@@ -3,7 +3,6 @@ title: PrintOptions.sectionIndex property (PowerPoint)
 keywords: vbapp10.chm517018
 f1_keywords:
 - vbapp10.chm517018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PrintOptions.sectionIndex
 ms.assetid: d42063aa-7daa-7d1b-9ae3-249ac4f9383b

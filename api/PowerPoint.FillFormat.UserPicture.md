@@ -3,7 +3,6 @@ title: FillFormat.UserPicture method (PowerPoint)
 keywords: vbapp10.chm552009
 f1_keywords:
 - vbapp10.chm552009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.UserPicture
 ms.assetid: 87f28942-a5d2-7e27-7eee-5181d112d6d2

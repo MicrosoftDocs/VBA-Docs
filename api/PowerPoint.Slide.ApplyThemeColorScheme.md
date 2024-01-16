@@ -3,7 +3,6 @@ title: Slide.ApplyThemeColorScheme method (PowerPoint)
 keywords: vbapp10.chm531037
 f1_keywords:
 - vbapp10.chm531037
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slide.ApplyThemeColorScheme
 ms.assetid: 30a29534-d2ea-0f7e-8905-85c82ab4c1a9

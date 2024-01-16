@@ -1,6 +1,5 @@
 ---
 title: MsoAnimCommandType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.MsoAnimCommandType
 ms.assetid: 8877a62f-c552-785c-1ed5-43b05f0157da

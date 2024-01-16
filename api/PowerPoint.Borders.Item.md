@@ -3,7 +3,6 @@ title: Borders.Item method (PowerPoint)
 keywords: vbapp10.chm629003
 f1_keywords:
 - vbapp10.chm629003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Borders.Item
 ms.assetid: fad023e2-55c1-4115-fc61-cd4519486fad

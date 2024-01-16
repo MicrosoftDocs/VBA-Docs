@@ -1,6 +1,5 @@
 ---
 title: LegendEntry.Delete method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LegendEntry.Delete
 ms.assetid: 87dfd818-7315-a610-4da7-ca3b1ff74975

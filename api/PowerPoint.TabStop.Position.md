@@ -3,7 +3,6 @@ title: TabStop.Position property (PowerPoint)
 keywords: vbapp10.chm574004
 f1_keywords:
 - vbapp10.chm574004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TabStop.Position
 ms.assetid: fc7e75a5-e0a3-78de-91d9-b116f1ded321

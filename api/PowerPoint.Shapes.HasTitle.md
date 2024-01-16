@@ -3,7 +3,6 @@ title: Shapes.HasTitle property (PowerPoint)
 keywords: vbapp10.chm543018
 f1_keywords:
 - vbapp10.chm543018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.HasTitle
 ms.assetid: 0754bda8-7e19-6dd1-55a3-2b19541480b9

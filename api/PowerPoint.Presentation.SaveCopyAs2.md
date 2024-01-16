@@ -4,7 +4,6 @@ description: Saves a copy of the specified presentation to a file without modify
 keywords: vbapp10.chm583135
 f1_keywords:
 - vbapp10.chm583135
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.SaveCopyAs2
 ms.author: lindalu

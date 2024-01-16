@@ -3,7 +3,6 @@ title: SlideShowView.State property (PowerPoint)
 keywords: vbapp10.chm513006
 f1_keywords:
 - vbapp10.chm513006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.State
 ms.assetid: 749fe106-fed4-6ccc-f127-2e8a80196309

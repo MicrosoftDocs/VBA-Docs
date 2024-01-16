@@ -3,7 +3,6 @@ title: AxisTitle.Shadow property (PowerPoint)
 keywords: vbapp10.chm683007
 f1_keywords:
 - vbapp10.chm683007
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AxisTitle.Shadow
 ms.assetid: 38806b33-d57b-4b44-fb30-d93f74111ad7

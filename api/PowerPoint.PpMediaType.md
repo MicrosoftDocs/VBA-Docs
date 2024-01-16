@@ -1,6 +1,5 @@
 ---
 title: PpMediaType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpMediaType
 ms.assetid: b54efec4-42c0-8f72-4f44-b82b5629d1be

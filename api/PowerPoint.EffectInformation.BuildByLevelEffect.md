@@ -3,7 +3,6 @@ title: EffectInformation.BuildByLevelEffect property (PowerPoint)
 keywords: vbapp10.chm655006
 f1_keywords:
 - vbapp10.chm655006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.EffectInformation.BuildByLevelEffect
 ms.assetid: b839394f-1b58-4e12-9f55-38547cfd9bc1

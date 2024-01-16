@@ -3,7 +3,6 @@ title: ParagraphFormat.Alignment property (PowerPoint)
 keywords: vbapp10.chm576003
 f1_keywords:
 - vbapp10.chm576003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ParagraphFormat.Alignment
 ms.assetid: 1083d0da-b974-f573-3306-6a865578219b

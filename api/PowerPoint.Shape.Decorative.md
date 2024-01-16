@@ -3,7 +3,6 @@ title: Shape.Decorative property (PowerPoint)
 keywords: vbapp10.chm547095
 f1_keywords: 
 - vbapp10.chm547095
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Decorative
 ms.assetid: 2DF8D04C-5BFA-101B-BDE5-00AA0044DE52

@@ -3,7 +3,6 @@ title: SlideRange.Shapes property (PowerPoint)
 keywords: vbapp10.chm532003
 f1_keywords:
 - vbapp10.chm532003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Shapes
 ms.assetid: 8d2242a9-6988-134c-0507-8043f5445ec9

@@ -3,7 +3,6 @@ title: Shapes.AddPolyline method (PowerPoint)
 keywords: vbapp10.chm543011
 f1_keywords:
 - vbapp10.chm543011
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.AddPolyline
 ms.assetid: e42c4f7a-de68-88bf-d250-28e642b56232

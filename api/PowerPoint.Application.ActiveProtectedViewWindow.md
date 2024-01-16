@@ -3,7 +3,6 @@ title: Application.ActiveProtectedViewWindow property (PowerPoint)
 keywords: vbapp10.chm503014
 f1_keywords:
 - vbapp10.chm503014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.ActiveProtectedViewWindow
 ms.assetid: c0a7e748-d7fc-4a63-62b8-0eed5cf1c5b5

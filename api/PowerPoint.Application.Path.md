@@ -3,7 +3,6 @@ title: Application.Path property (PowerPoint)
 keywords: vbapp10.chm502008
 f1_keywords:
 - vbapp10.chm502008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Path
 ms.assetid: aae10b96-e0e4-d055-f398-d26f4cab572d

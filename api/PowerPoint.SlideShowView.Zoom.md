@@ -3,7 +3,6 @@ title: SlideShowView.Zoom property (PowerPoint)
 keywords: vbapp10.chm513003
 f1_keywords:
 - vbapp10.chm513003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.Zoom
 ms.assetid: 92a303f0-b37f-a017-bedb-6537e235f753

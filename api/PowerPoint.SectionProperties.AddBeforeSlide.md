@@ -3,7 +3,6 @@ title: SectionProperties.AddBeforeSlide method (PowerPoint)
 keywords: vbapp10.chm725008
 f1_keywords:
 - vbapp10.chm725008
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SectionProperties.AddBeforeSlide
 ms.assetid: ad11901c-3e64-7c08-ae89-a1285a6fa075

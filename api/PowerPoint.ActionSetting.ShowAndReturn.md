@@ -3,7 +3,6 @@ title: ActionSetting.ShowAndReturn property (PowerPoint)
 keywords: vbapp10.chm567010
 f1_keywords:
 - vbapp10.chm567010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ActionSetting.ShowAndReturn
 ms.assetid: 76797234-161d-50a5-cbc3-b1a169bc6719

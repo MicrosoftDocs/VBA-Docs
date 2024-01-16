@@ -1,6 +1,5 @@
 ---
 title: LeaderLines.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LeaderLines.Creator
 ms.assetid: 2e04fd46-ecee-4231-3c64-9c0fedb312cb

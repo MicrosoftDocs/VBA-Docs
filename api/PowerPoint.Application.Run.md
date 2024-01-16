@@ -3,7 +3,6 @@ title: Application.Run method (PowerPoint)
 keywords: vbapp10.chm502023
 f1_keywords:
 - vbapp10.chm502023
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Run
 ms.assetid: 21b8a0c4-10c8-d8c3-9214-adffad35f7d4

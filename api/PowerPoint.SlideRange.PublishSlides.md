@@ -3,7 +3,6 @@ title: SlideRange.PublishSlides method (PowerPoint)
 keywords: vbapp10.chm532044
 f1_keywords:
 - vbapp10.chm532044
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.PublishSlides
 ms.assetid: 353f511d-b414-776c-e277-3da258836130

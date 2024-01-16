@@ -3,7 +3,6 @@ title: Presentation.IsFullyDownloaded property (PowerPoint)
 keywords: vbapp10.chm583138
 f1_keywords:
 - vbapp10.chm583138
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.IsFullyDownloaded
 ms.date: 08/02/2022

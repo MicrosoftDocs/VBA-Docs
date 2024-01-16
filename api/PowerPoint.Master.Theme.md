@@ -3,7 +3,6 @@ title: Master.Theme property (PowerPoint)
 keywords: vbapp10.chm533018
 f1_keywords:
 - vbapp10.chm533018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Master.Theme
 ms.assetid: 8d7852e1-2edb-9e56-2b05-f339d7436d6e

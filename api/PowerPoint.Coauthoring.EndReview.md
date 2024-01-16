@@ -3,7 +3,6 @@ title: Coauthoring.EndReview method (PowerPoint)
 keywords: vbapp10.chm731005
 f1_keywords:
 - vbapp10.chm731005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Coauthoring.EndReview
 ms.assetid: 5ec8bff9-45c4-67f1-1f2c-fb7b592f995e

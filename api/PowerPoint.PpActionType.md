@@ -1,6 +1,5 @@
 ---
 title: PpActionType enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpActionType
 ms.assetid: 53a6c5e0-cde7-b318-2855-79910b0e3693

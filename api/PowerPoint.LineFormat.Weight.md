@@ -3,7 +3,6 @@ title: LineFormat.Weight property (PowerPoint)
 keywords: vbapp10.chm553015
 f1_keywords:
 - vbapp10.chm553015
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LineFormat.Weight
 ms.assetid: 5141d66f-4706-060d-fb4c-f244f9ac6437

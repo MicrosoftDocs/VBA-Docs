@@ -3,7 +3,6 @@ title: DataTable.HasBorderOutline property (PowerPoint)
 keywords: vbapp10.chm698004
 f1_keywords:
 - vbapp10.chm698004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DataTable.HasBorderOutline
 ms.assetid: 16d6da74-b2a3-814c-e6d5-5686f8a36935

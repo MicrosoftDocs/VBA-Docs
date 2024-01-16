@@ -1,6 +1,5 @@
 ---
 title: ChartCharacters.Font property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ChartCharacters.Font
 ms.assetid: 12028e1a-9aa6-342e-dbf0-87962a50da17

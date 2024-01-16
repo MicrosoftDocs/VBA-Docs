@@ -2,7 +2,6 @@
 title: Chart.ClearToMatchColorStyle method (PowerPoint)
 ms.assetid: 014d2148-c359-f11c-e5bf-012a769aced5
 ms.date: 06/08/2017
-ms.prod: powerpoint
 ms.localizationpriority: medium
 ---
 

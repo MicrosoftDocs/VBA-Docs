@@ -1,6 +1,5 @@
 ---
 title: PpEntryEffect enumeration (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PpEntryEffect
 ms.assetid: fbaf1cfa-cd82-b5f6-074f-7a54d2905e06

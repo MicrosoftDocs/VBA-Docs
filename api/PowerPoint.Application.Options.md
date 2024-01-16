@@ -3,7 +3,6 @@ title: Application.Options property (PowerPoint)
 keywords: vbapp10.chm502054
 f1_keywords:
 - vbapp10.chm502054
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Application.Options
 ms.assetid: 4f890917-68bc-bb02-914d-52ea8a82bbcb

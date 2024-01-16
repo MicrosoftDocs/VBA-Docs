@@ -3,7 +3,6 @@ title: NamedSlideShow.SlideIDs property (PowerPoint)
 keywords: vbapp10.chm516005
 f1_keywords:
 - vbapp10.chm516005
-ms.prod: powerpoint
 api_name:
 - PowerPoint.NamedSlideShow.SlideIDs
 ms.assetid: 69c2a31e-bfb1-1a00-777f-4f5c46023ba0

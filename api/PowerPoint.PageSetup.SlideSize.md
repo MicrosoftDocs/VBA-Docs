@@ -3,7 +3,6 @@ title: PageSetup.SlideSize property (PowerPoint)
 keywords: vbapp10.chm527006
 f1_keywords:
 - vbapp10.chm527006
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PageSetup.SlideSize
 ms.assetid: 1f6db7f6-e9bb-e1fb-08f0-194b61733f5c

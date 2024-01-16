@@ -3,7 +3,6 @@ title: DisplayUnitLabel object (PowerPoint)
 keywords: vbapp10.chm699000
 f1_keywords:
 - vbapp10.chm699000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel
 ms.assetid: 4dd4df7d-91c1-9136-2d5b-cdb0794a7716

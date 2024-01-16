@@ -3,7 +3,6 @@ title: Point.Format property (PowerPoint)
 keywords: vbapp10.chm714001
 f1_keywords:
 - vbapp10.chm714001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Point.Format
 ms.assetid: e7e37e8b-7251-922c-b436-8ae6c955a08d

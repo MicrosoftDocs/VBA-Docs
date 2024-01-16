@@ -1,6 +1,5 @@
 ---
 title: FillFormat.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.FillFormat.Application
 ms.assetid: 5ef3dc11-eddf-48a7-4cf6-64149b0bf903

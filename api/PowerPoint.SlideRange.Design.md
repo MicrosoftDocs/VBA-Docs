@@ -3,7 +3,6 @@ title: SlideRange.Design property (PowerPoint)
 keywords: vbapp10.chm532033
 f1_keywords:
 - vbapp10.chm532033
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideRange.Design
 ms.assetid: 7960f99a-fa5a-1ba0-e39a-fe3afe579621

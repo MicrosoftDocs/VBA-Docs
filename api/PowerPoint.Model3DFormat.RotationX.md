@@ -3,7 +3,6 @@ title: Model3DFormat.RotationX property (PowerPoint)
 keywords: vbapp10.chm743010
 f1_keywords:
 - vbapp10.chm743010
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.RotationX
 ms.date: 04/11/2019

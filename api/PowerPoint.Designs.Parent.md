@@ -3,7 +3,6 @@ title: Designs.Parent property (PowerPoint)
 keywords: vbapp10.chm643002
 f1_keywords:
 - vbapp10.chm643002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Designs.Parent
 ms.assetid: 3bb0007d-2136-6eb8-1d34-ec9f9f7e9e5b

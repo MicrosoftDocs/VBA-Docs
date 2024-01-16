@@ -1,6 +1,5 @@
 ---
 title: PlotArea.Position property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.PlotArea.Position
 ms.assetid: 91a145b4-928c-5ec2-d50c-8e860458e2bd

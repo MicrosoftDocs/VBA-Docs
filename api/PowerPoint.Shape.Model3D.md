@@ -1,6 +1,5 @@
 ---
 title: Shape.Model3D property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Model3D
 ms.date: 04/11/2019

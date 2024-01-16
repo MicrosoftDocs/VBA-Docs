@@ -3,7 +3,6 @@ title: Row.Cells property (PowerPoint)
 keywords: vbapp10.chm626003
 f1_keywords:
 - vbapp10.chm626003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Row.Cells
 ms.assetid: 2cbd413f-21ab-fdb1-9a88-b64af753ae4c

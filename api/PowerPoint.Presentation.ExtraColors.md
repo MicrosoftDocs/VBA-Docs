@@ -3,7 +3,6 @@ title: Presentation.ExtraColors property (PowerPoint)
 keywords: vbapp10.chm583014
 f1_keywords:
 - vbapp10.chm583014
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.ExtraColors
 ms.assetid: c6a9d155-206c-36e6-c180-aaff8bd85a99

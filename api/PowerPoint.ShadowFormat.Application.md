@@ -1,6 +1,5 @@
 ---
 title: ShadowFormat.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShadowFormat.Application
 ms.assetid: 87e6066a-e7b5-8f4c-3ab9-f1d474097d15

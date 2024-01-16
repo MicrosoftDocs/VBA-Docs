@@ -3,7 +3,6 @@ title: Player.Application property (PowerPoint)
 keywords: vbapp10.chm726001
 f1_keywords:
 - vbapp10.chm726001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Player.Application
 ms.assetid: 4a9fc79a-3d0e-5af8-8bde-6a936fef74e8

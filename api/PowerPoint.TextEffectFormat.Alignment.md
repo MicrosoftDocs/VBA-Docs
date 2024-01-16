@@ -3,7 +3,6 @@ title: TextEffectFormat.Alignment property (PowerPoint)
 keywords: vbapp10.chm556003
 f1_keywords:
 - vbapp10.chm556003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextEffectFormat.Alignment
 ms.assetid: 42b92de7-2dc1-ee1b-1c58-682cfba2aa19

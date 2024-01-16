@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.Application property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Model3DFormat.Application
 ms.date: 04/11/2019

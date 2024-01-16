@@ -3,7 +3,6 @@ title: ShapeRange.GraphicStyle property (PowerPoint)
 keywords: vbapp10.chm548103
 f1_keywords:
 - vbapp10.chm548103
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.GraphicStyle
 ms.date: 04/25/2019

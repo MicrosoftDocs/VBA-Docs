@@ -3,7 +3,6 @@ title: Comments.Item method (PowerPoint)
 keywords: vbapp10.chm641003
 f1_keywords:
 - vbapp10.chm641003
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Comments.Item
 ms.assetid: d60f4227-87ea-7d48-f8cb-0cf85dfe3a97

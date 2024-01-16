@@ -3,7 +3,6 @@ title: ShapeRange.Decorative property (PowerPoint)
 keywords: vbapp10.chm548104
 f1_keywords: 
 - vbapp10.chm548104
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ShapeRange.Decorative
 ms.assetid: 2DF8D04C-5BFA-101B-BDE5-00AA0044DE52

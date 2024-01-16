@@ -1,6 +1,5 @@
 ---
 title: SeriesLines.Creator property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SeriesLines.Creator
 ms.assetid: 51e60298-3e61-3c7f-9943-ddebf854edf3

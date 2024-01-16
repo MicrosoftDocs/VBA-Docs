@@ -1,6 +1,5 @@
 ---
 title: Trendline.Type property (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Trendline.Type
 ms.assetid: 15eb494c-8e11-491a-5bf1-d7d0ea337e92

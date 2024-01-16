@@ -3,7 +3,6 @@ title: SlideShowSettings.LoopUntilStopped property (PowerPoint)
 keywords: vbapp10.chm514009
 f1_keywords:
 - vbapp10.chm514009
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowSettings.LoopUntilStopped
 ms.assetid: 767a5865-b50b-d7c6-6076-6786b43c6b88

@@ -3,7 +3,6 @@ title: ThreeDFormat.Visible property (PowerPoint)
 keywords: vbapp10.chm557018
 f1_keywords:
 - vbapp10.chm557018
-ms.prod: powerpoint
 api_name:
 - PowerPoint.ThreeDFormat.Visible
 ms.assetid: 58166845-5448-784f-68d3-beec76738415

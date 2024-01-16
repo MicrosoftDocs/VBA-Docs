@@ -3,7 +3,6 @@ title: Series.BubbleSizes property (PowerPoint)
 keywords: vbapp10.chm67200
 f1_keywords:
 - vbapp10.chm67200
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Series.BubbleSizes
 ms.assetid: c4be04b4-fb9c-1301-a5cb-e16528a97903

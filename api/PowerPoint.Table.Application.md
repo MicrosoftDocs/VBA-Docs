@@ -3,7 +3,6 @@ title: Table.Application property (PowerPoint)
 keywords: vbapp10.chm622001
 f1_keywords:
 - vbapp10.chm622001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Table.Application
 ms.assetid: 7284f690-269f-f9fb-5898-99db1b47e5f2

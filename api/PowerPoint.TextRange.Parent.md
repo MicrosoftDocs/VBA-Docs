@@ -3,7 +3,6 @@ title: TextRange.Parent property (PowerPoint)
 keywords: vbapp10.chm569002
 f1_keywords:
 - vbapp10.chm569002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.TextRange.Parent
 ms.assetid: 303cc0cf-8c1c-60af-648e-fea4d25abb36

@@ -3,7 +3,6 @@ title: Column.Parent property (PowerPoint)
 keywords: vbapp10.chm624002
 f1_keywords:
 - vbapp10.chm624002
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Column.Parent
 ms.assetid: bd4c1a9b-5395-e881-912c-92ecbaa82a5c

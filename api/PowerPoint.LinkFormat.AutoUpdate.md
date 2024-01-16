@@ -3,7 +3,6 @@ title: LinkFormat.AutoUpdate property (PowerPoint)
 keywords: vbapp10.chm563004
 f1_keywords:
 - vbapp10.chm563004
-ms.prod: powerpoint
 api_name:
 - PowerPoint.LinkFormat.AutoUpdate
 ms.assetid: de142aa6-2414-61c3-62d1-1226a0f9209f

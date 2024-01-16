@@ -3,7 +3,6 @@ title: Slides object (PowerPoint)
 keywords: vbapp10.chm530000
 f1_keywords:
 - vbapp10.chm530000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Slides
 ms.assetid: ba7f514c-8f6d-d5ef-333f-c1da0f2ab767

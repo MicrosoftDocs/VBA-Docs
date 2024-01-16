@@ -3,7 +3,6 @@ title: DisplayUnitLabel.FormulaR1C1 property (PowerPoint)
 keywords: vbapp10.chm699025
 f1_keywords:
 - vbapp10.chm699025
-ms.prod: powerpoint
 api_name:
 - PowerPoint.DisplayUnitLabel.FormulaR1C1
 ms.assetid: e0f17420-080f-6632-3898-df0c5c7693f8

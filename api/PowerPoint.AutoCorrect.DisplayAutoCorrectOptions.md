@@ -3,7 +3,6 @@ title: AutoCorrect.DisplayAutoCorrectOptions property (PowerPoint)
 keywords: vbapp10.chm666001
 f1_keywords:
 - vbapp10.chm666001
-ms.prod: powerpoint
 api_name:
 - PowerPoint.AutoCorrect.DisplayAutoCorrectOptions
 ms.assetid: d3d769aa-af42-27c2-1c8e-39684d4f70a7

@@ -3,7 +3,6 @@ title: Shape.Shadow property (PowerPoint)
 keywords: vbapp10.chm547033
 f1_keywords:
 - vbapp10.chm547033
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Shadow
 ms.assetid: 832b8e62-4fc5-1f4b-74c7-cc0e63a12699

@@ -3,7 +3,6 @@ title: SoundEffect object (PowerPoint)
 keywords: vbapp10.chm540000
 f1_keywords:
 - vbapp10.chm540000
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SoundEffect
 ms.assetid: 216e8bed-e6d7-e751-4d53-1c9902ddb89f

@@ -3,7 +3,6 @@ title: SlideShowView.IsNamedShow property (PowerPoint)
 keywords: vbapp10.chm513013
 f1_keywords:
 - vbapp10.chm513013
-ms.prod: powerpoint
 api_name:
 - PowerPoint.SlideShowView.IsNamedShow
 ms.assetid: a68632b2-bff4-9047-f0b8-6acb22a29071
