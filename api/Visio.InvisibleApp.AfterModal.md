@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.AfterModal event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AfterModal
 ms.assetid: 52c6926d-0b94-8425-729c-9494f5c7879e

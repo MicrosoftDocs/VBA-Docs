@@ -3,7 +3,6 @@ title: Page.UniqueIDsToShapeIDs method (Visio)
 keywords: vis_sdr.chm10960165
 f1_keywords:
 - vis_sdr.chm10960165
-ms.prod: visio
 api_name:
 - Visio.Page.UniqueIDsToShapeIDs
 ms.assetid: 86d0d47c-d356-04ba-51ce-7d682fd165ae

@@ -1,6 +1,5 @@
 ---
 title: Application.SelectionAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.SelectionAdded
 ms.assetid: 76a6c2c6-c2ab-97ad-a906-0780a81f7eb2

@@ -3,7 +3,6 @@ title: Application.FormatResult method (Visio)
 keywords: vis_sdr.chm10016300
 f1_keywords:
 - vis_sdr.chm10016300
-ms.prod: visio
 api_name:
 - Visio.Application.FormatResult
 ms.assetid: 1b2178ab-e2ed-b618-ad2a-d18196f50be2

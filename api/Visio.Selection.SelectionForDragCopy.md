@@ -3,7 +3,6 @@ title: Selection.SelectionForDragCopy property (Visio)
 keywords: vis_sdr.chm11162455
 f1_keywords:
 - vis_sdr.chm11162455
-ms.prod: visio
 api_name:
 - Visio.Selection.SelectionForDragCopy
 ms.assetid: f7e6e87a-c904-6008-fdde-4d5cb124351c

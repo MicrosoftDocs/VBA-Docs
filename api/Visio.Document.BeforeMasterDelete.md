@@ -3,7 +3,6 @@ title: Document.BeforeMasterDelete event (Visio)
 keywords: vis_sdr.chm10519040
 f1_keywords:
 - vis_sdr.chm10519040
-ms.prod: visio
 api_name:
 - Visio.Document.BeforeMasterDelete
 ms.assetid: 5f482099-7b42-de36-6e51-34ff463a49ed

@@ -3,7 +3,6 @@ title: Curve.Start property (Visio)
 keywords: vis_sdr.chm15514410
 f1_keywords:
 - vis_sdr.chm15514410
-ms.prod: visio
 api_name:
 - Visio.Curve.Start
 ms.assetid: ac5e56e8-dad2-c150-02e4-f5d7dafd20ff

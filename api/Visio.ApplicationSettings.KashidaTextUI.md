@@ -3,7 +3,6 @@ title: ApplicationSettings.KashidaTextUI property (Visio)
 keywords: vis_sdr.chm16260030
 f1_keywords:
 - vis_sdr.chm16260030
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.KashidaTextUI
 ms.assetid: 84270b9c-2ae9-4050-8a68-c04dee0297bf

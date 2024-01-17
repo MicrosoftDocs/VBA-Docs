@@ -1,6 +1,5 @@
 ---
 title: Shape.Title property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Shape.Title
 ms.date: 05/08/2019

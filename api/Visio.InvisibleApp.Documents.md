@@ -3,7 +3,6 @@ title: InvisibleApp.Documents property (Visio)
 keywords: vis_sdr.chm17513435
 f1_keywords:
 - vis_sdr.chm17513435
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Documents
 ms.assetid: f4135db3-adb2-3e54-21d9-9e77a1c9af88

@@ -3,7 +3,6 @@ title: Document.RenameCurrentScope method (Visio)
 keywords: vis_sdr.chm10550185
 f1_keywords:
 - vis_sdr.chm10550185
-ms.prod: visio
 api_name:
 - Visio.Document.RenameCurrentScope
 ms.assetid: 08aff947-e876-29b8-e910-e2a3b42e5d0e

@@ -3,7 +3,6 @@ title: Shape.Layout method (Visio)
 keywords: vis_sdr.chm11216385
 f1_keywords:
 - vis_sdr.chm11216385
-ms.prod: visio
 api_name:
 - Visio.Shape.Layout
 ms.assetid: f70dfdbb-6501-b9b7-3444-7fa35e98637e

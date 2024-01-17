@@ -3,7 +3,6 @@ title: GraphicItem.HorizontalPosition property (Visio)
 keywords: vis_sdr.chm16960440
 f1_keywords:
 - vis_sdr.chm16960440
-ms.prod: visio
 api_name:
 - Visio.GraphicItem.HorizontalPosition
 ms.assetid: 268c461f-0290-3e3b-98f4-fa15bc902fa6

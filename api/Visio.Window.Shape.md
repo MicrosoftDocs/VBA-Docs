@@ -3,7 +3,6 @@ title: Window.Shape property (Visio)
 keywords: vis_sdr.chm11614320
 f1_keywords:
 - vis_sdr.chm11614320
-ms.prod: visio
 api_name:
 - Visio.Window.Shape
 ms.assetid: ee30f9e5-dd79-83c3-5445-eca53b32822f

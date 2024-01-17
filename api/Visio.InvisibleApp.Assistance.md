@@ -3,7 +3,6 @@ title: InvisibleApp.Assistance property (Visio)
 keywords: vis_sdr.chm17560060
 f1_keywords:
 - vis_sdr.chm17560060
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Assistance
 ms.assetid: 0e571974-3c59-5c6a-24c9-d54d97d7d699

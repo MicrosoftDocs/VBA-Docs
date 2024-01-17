@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.ShapeAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeAdded
 ms.assetid: a762dafe-47c3-302b-6445-d5455871f073

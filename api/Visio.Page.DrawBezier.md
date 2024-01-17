@@ -3,7 +3,6 @@ title: Page.DrawBezier method (Visio)
 keywords: vis_sdr.chm10916195
 f1_keywords:
 - vis_sdr.chm10916195
-ms.prod: visio
 api_name:
 - Visio.Page.DrawBezier
 ms.assetid: 49cf1bfb-5b88-ca8d-4451-a9884768f780

@@ -3,7 +3,6 @@ title: Masters.PersistsEvents property (Visio)
 keywords: vis_sdr.chm10814080
 f1_keywords:
 - vis_sdr.chm10814080
-ms.prod: visio
 api_name:
 - Visio.Masters.PersistsEvents
 ms.assetid: 87c2ab38-875a-5485-22b5-f936b84201b8

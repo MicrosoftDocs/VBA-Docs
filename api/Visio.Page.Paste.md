@@ -3,7 +3,6 @@ title: Page.Paste method (Visio)
 keywords: vis_sdr.chm10916430
 f1_keywords:
 - vis_sdr.chm10916430
-ms.prod: visio
 api_name:
 - Visio.Page.Paste
 ms.assetid: 73dd3b44-1288-26d1-4956-93f187d71886

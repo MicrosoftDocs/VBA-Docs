@@ -3,7 +3,6 @@ title: Characters.ParaPropsRow property (Visio)
 keywords: vis_sdr.chm10214035
 f1_keywords:
 - vis_sdr.chm10214035
-ms.prod: visio
 api_name:
 - Visio.Characters.ParaPropsRow
 ms.assetid: 2f87d080-b8a7-d6df-356f-a7cb43453807

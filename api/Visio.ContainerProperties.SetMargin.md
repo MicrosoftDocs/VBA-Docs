@@ -3,7 +3,6 @@ title: ContainerProperties.SetMargin method (Visio)
 keywords: vis_sdr.chm17662305
 f1_keywords:
 - vis_sdr.chm17662305
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.SetMargin
 ms.assetid: 008dbfe9-53d9-17a6-c441-b30d5a691716

@@ -1,6 +1,5 @@
 ---
 title: Page.Comments property (Visio)
-ms.prod: visio
 ms.assetid: 9618c86c-96c0-be95-ee20-5d1b99f4d5e8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

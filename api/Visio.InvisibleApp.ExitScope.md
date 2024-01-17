@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.ExitScope event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ExitScope
 ms.assetid: c035f0c2-af15-8557-6cac-0c3cd14d3599

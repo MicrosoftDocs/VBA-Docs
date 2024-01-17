@@ -3,7 +3,6 @@ title: ValidationRuleSet.ObjectType property (Visio)
 keywords: vis_sdr.chm18213960
 f1_keywords:
 - vis_sdr.chm18213960
-ms.prod: visio
 api_name:
 - Visio.ValidationRuleSet.ObjectType
 ms.assetid: c8365f28-89b9-9d5c-b85f-a68b940d7545

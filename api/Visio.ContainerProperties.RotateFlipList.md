@@ -3,7 +3,6 @@ title: ContainerProperties.RotateFlipList method (Visio)
 keywords: vis_sdr.chm17662360
 f1_keywords:
 - vis_sdr.chm17662360
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.RotateFlipList
 ms.assetid: 0402f4e3-e494-b915-e6c3-a09a7fc12845

@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.TextChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TextChanged
 ms.assetid: 7212fc84-0573-22ab-3244-b0258a24d7ad

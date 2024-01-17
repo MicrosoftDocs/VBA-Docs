@@ -1,6 +1,5 @@
 ---
 title: Application.AfterResume event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.AfterResume
 ms.assetid: 73cac713-6559-ae7c-32a6-5c421302a3d9

@@ -3,7 +3,6 @@ title: Document.HeaderCenter property (Visio)
 keywords: vis_sdr.chm10550630
 f1_keywords:
 - vis_sdr.chm10550630
-ms.prod: visio
 api_name:
 - Visio.Document.HeaderCenter
 ms.assetid: 8695883a-8b00-eef4-aecd-81ad47581a82

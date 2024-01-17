@@ -3,7 +3,6 @@ title: Master.Hidden property (Visio)
 keywords: vis_sdr.chm10713640
 f1_keywords:
 - vis_sdr.chm10713640
-ms.prod: visio
 api_name:
 - Visio.Master.Hidden
 ms.assetid: d28eb888-75d7-bbd2-e6d3-3e412cca85d4

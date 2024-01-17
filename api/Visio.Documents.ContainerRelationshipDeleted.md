@@ -3,7 +3,6 @@ title: Documents.ContainerRelationshipDeleted event (Visio)
 keywords: vis_sdr.chm10662070
 f1_keywords:
 - vis_sdr.chm10662070
-ms.prod: visio
 api_name:
 - Visio.Documents.ContainerRelationshipDeleted
 ms.assetid: 1804110e-091f-f864-461a-8545338c4883

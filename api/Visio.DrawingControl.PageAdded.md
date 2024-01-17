@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.PageAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.PageAdded
 ms.assetid: 03979403-706a-f403-2897-516c53bbcbe9

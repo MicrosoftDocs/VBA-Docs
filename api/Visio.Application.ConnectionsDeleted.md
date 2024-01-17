@@ -1,6 +1,5 @@
 ---
 title: Application.ConnectionsDeleted event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.ConnectionsDeleted
 ms.assetid: 9578be17-8c77-9454-c8a8-1e02fa6516b2

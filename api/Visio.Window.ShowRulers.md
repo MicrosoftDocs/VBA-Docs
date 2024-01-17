@@ -3,7 +3,6 @@ title: Window.ShowRulers property (Visio)
 keywords: vis_sdr.chm11614375
 f1_keywords:
 - vis_sdr.chm11614375
-ms.prod: visio
 api_name:
 - Visio.Window.ShowRulers
 ms.assetid: 857dc23b-3687-2b52-db6e-358d32a422fa

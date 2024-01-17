@@ -3,7 +3,6 @@ title: Application.HelpPaths property (Visio)
 keywords: vis_sdr.chm10013635
 f1_keywords:
 - vis_sdr.chm10013635
-ms.prod: visio
 api_name:
 - Visio.Application.HelpPaths
 ms.assetid: eba05b64-61d8-970d-65f4-26ea41840fcf

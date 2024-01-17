@@ -3,7 +3,6 @@ title: Hyperlink.ObjectType property (Visio)
 keywords: vis_sdr.chm15013960
 f1_keywords:
 - vis_sdr.chm15013960
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.ObjectType
 ms.assetid: a043ce7a-40d1-2231-3e72-e7e6d01a850f

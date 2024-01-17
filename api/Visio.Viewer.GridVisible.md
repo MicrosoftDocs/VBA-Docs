@@ -1,6 +1,5 @@
 ---
 title: Viewer.GridVisible property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.GridVisible
 ms.assetid: 77351c96-c796-5a58-51ed-552843172ec0

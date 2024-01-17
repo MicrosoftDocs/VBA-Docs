@@ -3,7 +3,6 @@ title: Section.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm15751700
 f1_keywords:
 - vis_sdr.chm15751700
-ms.prod: visio
 api_name:
 - Visio.Section.ContainingMasterID
 ms.assetid: 642bc274-4977-8c1c-160f-b72c11bfbb1b

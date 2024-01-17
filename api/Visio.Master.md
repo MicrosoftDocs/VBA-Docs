@@ -3,7 +3,6 @@ title: Master object (Visio)
 keywords: vis_sdr.chm10130
 f1_keywords:
 - vis_sdr.chm10130
-ms.prod: visio
 api_name:
 - Visio.Master
 ms.assetid: 1a69e4d7-2b72-f712-d36c-c565af64c278

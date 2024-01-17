@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.QuitCanceled event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QuitCanceled
 ms.assetid: 48e46a44-581f-cd79-dbeb-6ee70c6b391b

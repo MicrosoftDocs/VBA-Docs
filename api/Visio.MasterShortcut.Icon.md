@@ -3,7 +3,6 @@ title: MasterShortcut.Icon property (Visio)
 keywords: vis_sdr.chm16050665
 f1_keywords:
 - vis_sdr.chm16050665
-ms.prod: visio
 api_name:
 - Visio.MasterShortcut.Icon
 ms.assetid: c0dafec6-ca3b-f791-c5b1-3da19f0d98ee

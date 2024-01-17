@@ -3,7 +3,6 @@ title: Cell.PersistsEvents property (Visio)
 keywords: vis_sdr.chm10114080
 f1_keywords:
 - vis_sdr.chm10114080
-ms.prod: visio
 api_name:
 - Visio.Cell.PersistsEvents
 ms.assetid: 08e3095e-37ef-65f1-7109-b2f9deeeec14

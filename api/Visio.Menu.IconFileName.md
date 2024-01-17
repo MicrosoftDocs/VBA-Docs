@@ -3,7 +3,6 @@ title: Menu.IconFileName method (Visio)
 keywords: vis_sdr.chm13116350
 f1_keywords:
 - vis_sdr.chm13116350
-ms.prod: visio
 api_name:
 - Visio.Menu.IconFileName
 ms.assetid: 15becfe7-50fa-acdc-de51-9d041afd8aad

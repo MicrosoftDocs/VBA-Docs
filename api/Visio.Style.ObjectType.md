@@ -3,7 +3,6 @@ title: Style.ObjectType property (Visio)
 keywords: vis_sdr.chm11413960
 f1_keywords:
 - vis_sdr.chm11413960
-ms.prod: visio
 api_name:
 - Visio.Style.ObjectType
 ms.assetid: 8653a74f-4d0c-d205-ce7e-2aaad6cd5880

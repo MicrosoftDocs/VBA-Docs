@@ -3,7 +3,6 @@ title: Page.Application property (Visio)
 keywords: vis_sdr.chm10913090
 f1_keywords:
 - vis_sdr.chm10913090
-ms.prod: visio
 api_name:
 - Visio.Page.Application
 ms.assetid: e4f0a4ad-d99c-efec-d4e9-8a5fc625288e

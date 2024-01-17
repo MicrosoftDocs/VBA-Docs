@@ -3,7 +3,6 @@ title: MSGWrap.lParam property (Visio)
 keywords: vis_sdr.chm16150705
 f1_keywords:
 - vis_sdr.chm16150705
-ms.prod: visio
 api_name:
 - Visio.MSGWrap.lParam
 ms.assetid: 52995a4b-f139-6ecc-a5fe-23882a3f2245

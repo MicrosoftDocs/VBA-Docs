@@ -3,7 +3,6 @@ title: Connect.ToSheet property (Visio)
 keywords: vis_sdr.chm10314585
 f1_keywords:
 - vis_sdr.chm10314585
-ms.prod: visio
 api_name:
 - Visio.Connect.ToSheet
 ms.assetid: 449993f6-dd44-cebf-8d2d-343e0202b166

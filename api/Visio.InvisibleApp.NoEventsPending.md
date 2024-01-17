@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.NoEventsPending event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.NoEventsPending
 ms.assetid: 65947eae-69de-3220-e4e5-5edf5b6ad242

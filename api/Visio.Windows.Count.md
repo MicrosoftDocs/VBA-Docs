@@ -3,7 +3,6 @@ title: Windows.Count property (Visio)
 keywords: vis_sdr.chm11713330
 f1_keywords:
 - vis_sdr.chm11713330
-ms.prod: visio
 api_name:
 - Visio.Windows.Count
 ms.assetid: 8923a141-36c9-04ff-fd73-e192cf76a4e1

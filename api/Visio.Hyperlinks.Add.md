@@ -3,7 +3,6 @@ title: Hyperlinks.Add method (Visio)
 keywords: vis_sdr.chm15616005
 f1_keywords:
 - vis_sdr.chm15616005
-ms.prod: visio
 api_name:
 - Visio.Hyperlinks.Add
 ms.assetid: 4f2f4649-ecb7-1287-4bd7-8d2e819e4108

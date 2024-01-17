@@ -3,7 +3,6 @@ title: Toolbar.Height property (Visio)
 keywords: vis_sdr.chm13713615
 f1_keywords:
 - vis_sdr.chm13713615
-ms.prod: visio
 api_name:
 - Visio.Toolbar.Height
 ms.assetid: 566ec5d0-6eb7-abf4-8547-80b941e6b54c

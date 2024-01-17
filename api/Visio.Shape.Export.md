@@ -3,7 +3,6 @@ title: Shape.Export method (Visio)
 keywords: vis_sdr.chm11216265
 f1_keywords:
 - vis_sdr.chm11216265
-ms.prod: visio
 api_name:
 - Visio.Shape.Export
 ms.assetid: f4051560-8719-ea9c-30eb-33230c95786c

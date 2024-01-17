@@ -3,7 +3,6 @@ title: Application.EventsEnabled property (Visio)
 keywords: vis_sdr.chm10013485
 f1_keywords:
 - vis_sdr.chm10013485
-ms.prod: visio
 api_name:
 - Visio.Application.EventsEnabled
 ms.assetid: 92775825-c17d-fd4f-a315-7a181d75aed5

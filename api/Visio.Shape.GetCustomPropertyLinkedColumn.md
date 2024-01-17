@@ -3,7 +3,6 @@ title: Shape.GetCustomPropertyLinkedColumn method (Visio)
 keywords: vis_sdr.chm11260235
 f1_keywords:
 - vis_sdr.chm11260235
-ms.prod: visio
 api_name:
 - Visio.Shape.GetCustomPropertyLinkedColumn
 ms.assetid: 0d6e3577-d918-1d33-135a-37a3f09f3eaa

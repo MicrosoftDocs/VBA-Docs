@@ -3,7 +3,6 @@ title: ValidationRule.Stat property (Visio)
 keywords: vis_sdr.chm18414420
 f1_keywords:
 - vis_sdr.chm18414420
-ms.prod: visio
 api_name:
 - Visio.ValidationRule.Stat
 ms.assetid: efcf067c-8adf-8983-6521-7fbe76a289ca

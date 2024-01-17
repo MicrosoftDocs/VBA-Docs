@@ -3,7 +3,6 @@ title: Application.BuiltInToolbars property (Visio)
 keywords: vis_sdr.chm10013165
 f1_keywords:
 - vis_sdr.chm10013165
-ms.prod: visio
 api_name:
 - Visio.Application.BuiltInToolbars
 ms.assetid: e0460fa5-23da-f452-f541-feabe8e3bffb

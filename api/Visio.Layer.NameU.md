@@ -3,7 +3,6 @@ title: Layer.NameU property (Visio)
 keywords: vis_sdr.chm11851985
 f1_keywords:
 - vis_sdr.chm11851985
-ms.prod: visio
 api_name:
 - Visio.Layer.NameU
 ms.assetid: fb1d5223-d080-1600-cc6e-f4a569e3feef

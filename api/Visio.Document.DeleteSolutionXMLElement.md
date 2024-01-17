@@ -3,7 +3,6 @@ title: Document.DeleteSolutionXMLElement method (Visio)
 keywords: vis_sdr.chm10550555
 f1_keywords:
 - vis_sdr.chm10550555
-ms.prod: visio
 api_name:
 - Visio.Document.DeleteSolutionXMLElement
 ms.assetid: 2f00680e-56b1-c99b-2739-9d331965f802

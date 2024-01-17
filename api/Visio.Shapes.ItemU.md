@@ -3,7 +3,6 @@ title: Shapes.ItemU property (Visio)
 keywords: vis_sdr.chm11351980
 f1_keywords:
 - vis_sdr.chm11351980
-ms.prod: visio
 api_name:
 - Visio.Shapes.ItemU
 ms.assetid: 537c4402-1b9e-d77c-6432-df6b6149c61e

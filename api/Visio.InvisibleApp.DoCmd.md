@@ -3,7 +3,6 @@ title: InvisibleApp.DoCmd method (Visio)
 keywords: vis_sdr.chm17516190
 f1_keywords:
 - vis_sdr.chm17516190
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DoCmd
 ms.assetid: d38786e8-5511-a489-937a-4fb9cd3fc502

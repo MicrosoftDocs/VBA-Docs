@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.InitSettings method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.InitSettings
 ms.assetid: 11f4d234-53ab-d49c-9c1c-3c8c6ff3f9eb

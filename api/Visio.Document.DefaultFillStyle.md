@@ -3,7 +3,6 @@ title: Document.DefaultFillStyle property (Visio)
 keywords: vis_sdr.chm10513380
 f1_keywords:
 - vis_sdr.chm10513380
-ms.prod: visio
 api_name:
 - Visio.Document.DefaultFillStyle
 ms.assetid: c013a054-99ef-2bc1-196d-f3877289a278

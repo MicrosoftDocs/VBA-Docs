@@ -3,7 +3,6 @@ title: Document.StyleChanged event (Visio)
 keywords: vis_sdr.chm10519250
 f1_keywords:
 - vis_sdr.chm10519250
-ms.prod: visio
 api_name:
 - Visio.Document.StyleChanged
 ms.assetid: 1e07a517-4c3f-12a1-896e-0b9262b5736e

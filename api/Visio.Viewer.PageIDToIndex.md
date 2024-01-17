@@ -1,6 +1,5 @@
 ---
 title: Viewer.PageIDToIndex property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.PageIDToIndex
 ms.assetid: f10470ae-44b8-8817-1c2e-5022f63e8edf

@@ -3,7 +3,6 @@ title: Selection.ContainingMasterID property (Visio)
 keywords: vis_sdr.chm11151935
 f1_keywords:
 - vis_sdr.chm11151935
-ms.prod: visio
 api_name:
 - Visio.Selection.ContainingMasterID
 ms.assetid: 9f9aad28-3e77-8ef8-29dc-e53852adf63d

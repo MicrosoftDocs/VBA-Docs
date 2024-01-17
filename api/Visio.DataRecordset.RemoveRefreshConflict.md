@@ -3,7 +3,6 @@ title: DataRecordset.RemoveRefreshConflict method (Visio)
 keywords: vis_sdr.chm16460355
 f1_keywords:
 - vis_sdr.chm16460355
-ms.prod: visio
 api_name:
 - Visio.DataRecordset.RemoveRefreshConflict
 ms.assetid: a92abdb7-f47c-b843-cacf-6acca68d9c66

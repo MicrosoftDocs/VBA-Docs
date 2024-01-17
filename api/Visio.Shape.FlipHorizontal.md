@@ -3,7 +3,6 @@ title: Shape.FlipHorizontal method (Visio)
 keywords: vis_sdr.chm11216280
 f1_keywords:
 - vis_sdr.chm11216280
-ms.prod: visio
 api_name:
 - Visio.Shape.FlipHorizontal
 ms.assetid: a1f308a7-1f00-9432-ea26-bc1d784b8451

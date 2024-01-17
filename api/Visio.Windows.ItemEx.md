@@ -3,7 +3,6 @@ title: Windows.ItemEx property (Visio)
 keywords: vis_sdr.chm11751730
 f1_keywords:
 - vis_sdr.chm11751730
-ms.prod: visio
 api_name:
 - Visio.Windows.ItemEx
 ms.assetid: 24adeef0-20ca-4e00-ff39-c49ec5e72f87

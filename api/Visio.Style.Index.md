@@ -3,7 +3,6 @@ title: Style.Index property (Visio)
 keywords: vis_sdr.chm11413695
 f1_keywords:
 - vis_sdr.chm11413695
-ms.prod: visio
 api_name:
 - Visio.Style.Index
 ms.assetid: 1a1b0efc-4a66-27f6-9d37-85105987b0b8

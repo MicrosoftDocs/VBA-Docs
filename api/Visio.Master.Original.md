@@ -3,7 +3,6 @@ title: Master.Original property (Visio)
 keywords: vis_sdr.chm10750745
 f1_keywords:
 - vis_sdr.chm10750745
-ms.prod: visio
 api_name:
 - Visio.Master.Original
 ms.assetid: 33636aa0-2b2b-9edb-3738-ac193eaab212

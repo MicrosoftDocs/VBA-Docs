@@ -3,7 +3,6 @@ title: Shape.BeforeShapeTextEdit event (Visio)
 keywords: vis_sdr.chm11219380
 f1_keywords:
 - vis_sdr.chm11219380
-ms.prod: visio
 api_name:
 - Visio.Shape.BeforeShapeTextEdit
 ms.assetid: f64b57b6-c92c-dd17-9698-211d9ca2fe83

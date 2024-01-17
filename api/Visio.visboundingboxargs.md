@@ -3,7 +3,6 @@ title: VisBoundingBoxArgs enumeration (Visio)
 keywords: vis_sdr.chm70060
 f1_keywords:
 - vis_sdr.chm70060
-ms.prod: visio
 ms.assetid: 04523cbd-758f-757d-daac-30ca4676e6c2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: VisSaveAsWeb.CreatePages method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisSaveAsWeb.CreatePages
 ms.assetid: 48094af2-55fb-9732-19bf-8a73827d1afb

@@ -3,7 +3,6 @@ title: Window.Scroll method (Visio)
 keywords: vis_sdr.chm11616520
 f1_keywords:
 - vis_sdr.chm11616520
-ms.prod: visio
 api_name:
 - Visio.Window.Scroll
 ms.assetid: 7d30ce8f-03b1-26ff-1495-efb9213083fa

@@ -1,6 +1,5 @@
 ---
 title: Persisting Save as Web Page settings
-ms.prod: visio
 ms.assetid: 3646a841-f99c-2906-856b-0fd5a642d499
 ms.date: 06/21/2019
 ms.localizationpriority: medium

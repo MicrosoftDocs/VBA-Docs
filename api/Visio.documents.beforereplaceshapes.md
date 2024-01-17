@@ -1,6 +1,5 @@
 ---
 title: Documents.BeforeReplaceShapes event (Visio)
-ms.prod: visio
 ms.assetid: 55a66c47-a2ca-5c8a-2693-aaa1b079c704
 ms.date: 06/08/2017
 ms.localizationpriority: medium

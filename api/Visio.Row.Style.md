@@ -3,7 +3,6 @@ title: Row.Style property (Visio)
 keywords: vis_sdr.chm15814445
 f1_keywords:
 - vis_sdr.chm15814445
-ms.prod: visio
 api_name:
 - Visio.Row.Style
 ms.assetid: d11fac30-0349-e202-a3db-fab9c65665a1

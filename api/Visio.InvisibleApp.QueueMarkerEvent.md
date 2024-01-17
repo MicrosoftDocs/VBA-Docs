@@ -3,7 +3,6 @@ title: InvisibleApp.QueueMarkerEvent method (Visio)
 keywords: vis_sdr.chm17516455
 f1_keywords:
 - vis_sdr.chm17516455
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.QueueMarkerEvent
 ms.assetid: ed782045-49b1-dcab-de81-41a45117afe7

@@ -3,7 +3,6 @@ title: VisFontAttributes enumeration (Visio)
 keywords: vis_sdr.chm70115
 f1_keywords:
 - vis_sdr.chm70115
-ms.prod: visio
 ms.assetid: 09a93213-8966-d8e0-f6ad-d67601dd95fc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

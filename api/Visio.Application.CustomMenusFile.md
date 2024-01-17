@@ -3,7 +3,6 @@ title: Application.CustomMenusFile property (Visio)
 keywords: vis_sdr.chm10013350
 f1_keywords:
 - vis_sdr.chm10013350
-ms.prod: visio
 api_name:
 - Visio.Application.CustomMenusFile
 ms.assetid: 88a3f298-36a4-892d-33fc-8fe330d51437

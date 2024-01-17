@@ -3,7 +3,6 @@ title: Addon.Index property (Visio)
 keywords: vis_sdr.chm12413695
 f1_keywords:
 - vis_sdr.chm12413695
-ms.prod: visio
 api_name:
 - Visio.Addon.Index
 ms.assetid: 59e81b53-0391-ceb7-19da-63d8f26dee1a

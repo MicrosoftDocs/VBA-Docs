@@ -3,7 +3,6 @@ title: ToolbarItem.BeginGroup property (Visio)
 keywords: vis_sdr.chm13551115
 f1_keywords:
 - vis_sdr.chm13551115
-ms.prod: visio
 api_name:
 - Visio.ToolbarItem.BeginGroup
 ms.assetid: fa1648ed-0876-d31d-6afe-b0278b0488f8

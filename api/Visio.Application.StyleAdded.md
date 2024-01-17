@@ -1,6 +1,5 @@
 ---
 title: Application.StyleAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.StyleAdded
 ms.assetid: a966cbc6-529e-5525-5fc2-ed9cd3250dfa

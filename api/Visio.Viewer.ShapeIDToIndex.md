@@ -1,6 +1,5 @@
 ---
 title: Viewer.ShapeIDToIndex property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ShapeIDToIndex
 ms.assetid: ffb4020a-cc45-f012-ee21-abd9805bf99f

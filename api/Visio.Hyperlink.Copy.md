@@ -3,7 +3,6 @@ title: Hyperlink.Copy method (Visio)
 keywords: vis_sdr.chm15016145
 f1_keywords:
 - vis_sdr.chm15016145
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.Copy
 ms.assetid: cbda1c4d-c161-8266-1524-3e5ae3ea7ca5

@@ -3,7 +3,6 @@ title: Shape.DrawCircularArc method (Visio)
 keywords: vis_sdr.chm11252015
 f1_keywords:
 - vis_sdr.chm11252015
-ms.prod: visio
 api_name:
 - Visio.Shape.DrawCircularArc
 ms.assetid: 538ee927-c34a-c697-8bf1-f134355e6060

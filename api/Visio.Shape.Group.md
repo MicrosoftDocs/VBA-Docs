@@ -3,7 +3,6 @@ title: Shape.Group method (Visio)
 keywords: vis_sdr.chm11216345
 f1_keywords:
 - vis_sdr.chm11216345
-ms.prod: visio
 api_name:
 - Visio.Shape.Group
 ms.assetid: fe19f27f-47ad-93ef-1d82-4010d8cb6e47

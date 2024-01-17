@@ -3,7 +3,6 @@ title: Windows.Arrange method (Visio)
 keywords: vis_sdr.chm11716080
 f1_keywords:
 - vis_sdr.chm11716080
-ms.prod: visio
 api_name:
 - Visio.Windows.Arrange
 ms.assetid: 0a7f5b76-d2e9-7640-f2e7-ed68ef170f77

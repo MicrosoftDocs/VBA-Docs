@@ -3,7 +3,6 @@ title: Page.DrawNURBS method (Visio)
 keywords: vis_sdr.chm10916205
 f1_keywords:
 - vis_sdr.chm10916205
-ms.prod: visio
 api_name:
 - Visio.Page.DrawNURBS
 ms.assetid: f3c7e6fe-71a4-4809-b60a-a34cebd737b1

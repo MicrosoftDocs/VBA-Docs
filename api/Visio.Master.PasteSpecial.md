@@ -3,7 +3,6 @@ title: Master.PasteSpecial method (Visio)
 keywords: vis_sdr.chm10751020
 f1_keywords:
 - vis_sdr.chm10751020
-ms.prod: visio
 api_name:
 - Visio.Master.PasteSpecial
 ms.assetid: 6ca1994b-feb4-6b0d-c2c4-8a134eb284f1

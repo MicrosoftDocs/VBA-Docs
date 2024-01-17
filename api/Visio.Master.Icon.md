@@ -3,7 +3,6 @@ title: Master.Icon property (Visio)
 keywords: vis_sdr.chm10750665
 f1_keywords:
 - vis_sdr.chm10750665
-ms.prod: visio
 api_name:
 - Visio.Master.Icon
 ms.assetid: 2e9c7bbd-d8fd-e932-4a6b-bbd845aef4f0

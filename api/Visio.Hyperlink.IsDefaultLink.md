@@ -3,7 +3,6 @@ title: Hyperlink.IsDefaultLink property (Visio)
 keywords: vis_sdr.chm15013720
 f1_keywords:
 - vis_sdr.chm15013720
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.IsDefaultLink
 ms.assetid: 5a958e11-cf88-c45d-829a-805af9fd9f3a

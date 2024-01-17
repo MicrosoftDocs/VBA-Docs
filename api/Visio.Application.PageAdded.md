@@ -1,6 +1,5 @@
 ---
 title: Application.PageAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.PageAdded
 ms.assetid: 16813cbf-d4e0-17b1-308e-06e2a3adf0d4

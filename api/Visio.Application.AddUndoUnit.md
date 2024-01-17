@@ -3,7 +3,6 @@ title: Application.AddUndoUnit method (Visio)
 keywords: vis_sdr.chm10016075
 f1_keywords:
 - vis_sdr.chm10016075
-ms.prod: visio
 api_name:
 - Visio.Application.AddUndoUnit
 ms.assetid: 90542078-5efa-fec6-b853-41f8a998bea9

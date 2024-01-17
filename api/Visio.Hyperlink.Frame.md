@@ -3,7 +3,6 @@ title: Hyperlink.Frame property (Visio)
 keywords: vis_sdr.chm15013570
 f1_keywords:
 - vis_sdr.chm15013570
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.Frame
 ms.assetid: 1c1cda8f-6bb6-3ab3-8410-3a0bc36643ba

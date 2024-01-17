@@ -3,7 +3,6 @@ title: Page.ThemeColors property (Visio)
 keywords: vis_sdr.chm10960180
 f1_keywords:
 - vis_sdr.chm10960180
-ms.prod: visio
 api_name:
 - Visio.Page.ThemeColors
 ms.assetid: a3f4bc4e-3dbb-9d50-9d71-f77b39ec0ac3

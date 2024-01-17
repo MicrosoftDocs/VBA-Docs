@@ -3,7 +3,6 @@ title: Cell.ResultForce property (Visio)
 keywords: vis_sdr.chm10114200
 f1_keywords:
 - vis_sdr.chm10114200
-ms.prod: visio
 api_name:
 - Visio.Cell.ResultForce
 ms.assetid: 96579953-05f2-edf5-02d6-54ef0e632215

@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.KeyDown event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyDown
 ms.assetid: 9c8ddfec-3bca-13ec-c7d0-c5de35535711

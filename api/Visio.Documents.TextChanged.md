@@ -3,7 +3,6 @@ title: Documents.TextChanged event (Visio)
 keywords: vis_sdr.chm10619255
 f1_keywords:
 - vis_sdr.chm10619255
-ms.prod: visio
 api_name:
 - Visio.Documents.TextChanged
 ms.assetid: 84e3b4b0-4c12-b8fb-bf5f-aa2c60e946e0

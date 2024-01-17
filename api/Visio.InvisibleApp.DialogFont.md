@@ -3,7 +3,6 @@ title: InvisibleApp.DialogFont property (Visio)
 keywords: vis_sdr.chm17552075
 f1_keywords:
 - vis_sdr.chm17552075
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DialogFont
 ms.assetid: b9784c9b-99a5-7a48-01eb-dafbe6b2c4f9

@@ -3,7 +3,6 @@ title: DataRecordset.Stat property (Visio)
 keywords: vis_sdr.chm16414420
 f1_keywords:
 - vis_sdr.chm16414420
-ms.prod: visio
 api_name:
 - Visio.DataRecordset.Stat
 ms.assetid: b3df4d5a-bc10-db7f-3560-43519a7dae83

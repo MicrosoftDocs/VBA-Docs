@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.QueryCancelMasterDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelMasterDelete
 ms.assetid: 148dfdc8-6d30-37b8-5346-3210fc43bc69

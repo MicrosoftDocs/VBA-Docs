@@ -3,7 +3,6 @@ title: DataRecordsets.AddFromConnectionFile method (Visio)
 keywords: vis_sdr.chm16360275
 f1_keywords:
 - vis_sdr.chm16360275
-ms.prod: visio
 api_name:
 - Visio.DataRecordsets.AddFromConnectionFile
 ms.assetid: 7118bd4d-484b-dc22-e6f8-925376a5a67a

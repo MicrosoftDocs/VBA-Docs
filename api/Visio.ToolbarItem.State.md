@@ -3,7 +3,6 @@ title: ToolbarItem.State property (Visio)
 keywords: vis_sdr.chm13514425
 f1_keywords:
 - vis_sdr.chm13514425
-ms.prod: visio
 api_name:
 - Visio.ToolbarItem.State
 ms.assetid: 1a3c97f0-d6bd-00d2-0caf-ac9876c533aa

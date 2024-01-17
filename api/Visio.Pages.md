@@ -3,7 +3,6 @@ title: Pages object (Visio)
 keywords: vis_sdr.chm10195
 f1_keywords:
 - vis_sdr.chm10195
-ms.prod: visio
 api_name:
 - Visio.Pages
 ms.assetid: 45eec568-b5cc-5e80-ff5c-4dfa567efb5d

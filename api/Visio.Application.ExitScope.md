@@ -1,6 +1,5 @@
 ---
 title: Application.ExitScope event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.ExitScope
 ms.assetid: 9306972d-6d07-fa82-507d-d4e6d8c80e17

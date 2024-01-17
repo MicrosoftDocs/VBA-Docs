@@ -1,6 +1,5 @@
 ---
 title: Page.Title property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Page.Title
 ms.date: 05/08/2019

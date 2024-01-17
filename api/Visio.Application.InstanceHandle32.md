@@ -3,7 +3,6 @@ title: Application.InstanceHandle32 property (Visio)
 keywords: vis_sdr.chm10013710
 f1_keywords:
 - vis_sdr.chm10013710
-ms.prod: visio
 api_name:
 - Visio.Application.InstanceHandle32
 ms.assetid: d9e51540-21d5-5f52-68ef-1d49cb30cd51

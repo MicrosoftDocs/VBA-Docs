@@ -3,7 +3,6 @@ title: ToolbarItem object (Visio)
 keywords: vis_sdr.chm10275
 f1_keywords:
 - vis_sdr.chm10275
-ms.prod: visio
 api_name:
 - Visio.ToolbarItem
 ms.assetid: 2f0798cf-f31e-e213-d9db-325d58a77e96

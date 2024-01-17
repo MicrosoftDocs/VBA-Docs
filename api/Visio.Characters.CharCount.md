@@ -3,7 +3,6 @@ title: Characters.CharCount property (Visio)
 keywords: vis_sdr.chm10213220
 f1_keywords:
 - vis_sdr.chm10213220
-ms.prod: visio
 api_name:
 - Visio.Characters.CharCount
 ms.assetid: 99e780df-b9ee-1083-6efe-cd3e766aa659

@@ -3,7 +3,6 @@ title: Documents.DocumentCreated event (Visio)
 keywords: vis_sdr.chm10619125
 f1_keywords:
 - vis_sdr.chm10619125
-ms.prod: visio
 api_name:
 - Visio.Documents.DocumentCreated
 ms.assetid: 3a436635-0148-2e24-8080-31f8e89282da

@@ -1,6 +1,5 @@
 ---
 title: Comment object (Visio)
-ms.prod: visio
 api_name:
 - Visio.Comment
 ms.assetid: f028cc03-0ef1-8017-a936-d30d45211864

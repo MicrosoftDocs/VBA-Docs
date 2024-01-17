@@ -1,6 +1,5 @@
 ---
 title: Viewer.ToolbarVisible property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ToolbarVisible
 ms.assetid: 55e6b5fc-bda6-fff4-9049-b4aa398a4744

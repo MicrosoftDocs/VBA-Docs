@@ -3,7 +3,6 @@ title: Document.TimeSaved property (Visio)
 keywords: vis_sdr.chm10550920
 f1_keywords:
 - vis_sdr.chm10550920
-ms.prod: visio
 api_name:
 - Visio.Document.TimeSaved
 ms.assetid: 801c7940-b838-15ae-cee8-e07ca5ae78ea

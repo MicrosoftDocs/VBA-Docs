@@ -3,7 +3,6 @@ title: Pages.GetNamesU method (Visio)
 keywords: vis_sdr.chm11051940
 f1_keywords:
 - vis_sdr.chm11051940
-ms.prod: visio
 api_name:
 - Visio.Pages.GetNamesU
 ms.assetid: eb7ac155-5124-f25d-3c5a-a30773940dd0

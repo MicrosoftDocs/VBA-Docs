@@ -3,7 +3,6 @@ title: Selection.ContainingMaster property (Visio)
 keywords: vis_sdr.chm11113300
 f1_keywords:
 - vis_sdr.chm11113300
-ms.prod: visio
 api_name:
 - Visio.Selection.ContainingMaster
 ms.assetid: 9eae609f-2d55-2180-ea9b-cf1f8ec7b7b3

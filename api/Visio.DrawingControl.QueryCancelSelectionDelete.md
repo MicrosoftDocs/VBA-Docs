@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.QueryCancelSelectionDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.QueryCancelSelectionDelete
 ms.assetid: 30a3a0bc-a64b-a2e2-3bc1-ddfd3e4ee5ac

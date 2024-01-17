@@ -3,7 +3,6 @@ title: Document.FollowHyperlink method (Visio)
 keywords: vis_sdr.chm10516295
 f1_keywords:
 - vis_sdr.chm10516295
-ms.prod: visio
 api_name:
 - Visio.Document.FollowHyperlink
 ms.assetid: 555e607d-7e4a-d3c8-9c78-1733b112200c

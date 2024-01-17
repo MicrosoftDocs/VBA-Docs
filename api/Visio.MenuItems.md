@@ -3,7 +3,6 @@ title: MenuItems object (Visio)
 keywords: vis_sdr.chm10160
 f1_keywords:
 - vis_sdr.chm10160
-ms.prod: visio
 api_name:
 - Visio.MenuItems
 ms.assetid: 7799eff9-5432-9c44-2e74-345479eef5b6

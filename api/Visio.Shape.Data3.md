@@ -3,7 +3,6 @@ title: Shape.Data3 property (Visio)
 keywords: vis_sdr.chm11213375
 f1_keywords:
 - vis_sdr.chm11213375
-ms.prod: visio
 api_name:
 - Visio.Shape.Data3
 ms.assetid: 0d02964d-0296-5142-e7c3-e319ea80c224

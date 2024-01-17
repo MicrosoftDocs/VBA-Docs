@@ -3,7 +3,6 @@ title: InvisibleApp.FullBuild property (Visio)
 keywords: vis_sdr.chm17551220
 f1_keywords:
 - vis_sdr.chm17551220
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.FullBuild
 ms.assetid: f5c7fc4a-6627-888b-0465-0e251936b7b6

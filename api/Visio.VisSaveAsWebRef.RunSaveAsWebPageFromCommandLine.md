@@ -1,6 +1,5 @@
 ---
 title: Running Save as Web Page from the command line
-ms.prod: visio
 ms.assetid: 01dbf425-069f-5e11-0ace-5578c02c0b4b
 ms.date: 06/21/2019
 ms.localizationpriority: medium

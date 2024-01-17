@@ -3,7 +3,6 @@ title: Master.Layout method (Visio)
 keywords: vis_sdr.chm10716385
 f1_keywords:
 - vis_sdr.chm10716385
-ms.prod: visio
 api_name:
 - Visio.Master.Layout
 ms.assetid: acab2dc3-daf8-57c2-cbf8-edf647a12a09

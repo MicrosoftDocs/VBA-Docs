@@ -3,7 +3,6 @@ title: MouseEvent.DragState property (Visio)
 keywords: vis_sdr.chm17160265
 f1_keywords:
 - vis_sdr.chm17160265
-ms.prod: visio
 api_name:
 - Visio.MouseEvent.DragState
 ms.assetid: 958fa39f-5ca4-3911-72f5-2bea3c1ded48

@@ -3,7 +3,6 @@ title: Selection.DataGraphic property (Visio)
 keywords: vis_sdr.chm11160205
 f1_keywords:
 - vis_sdr.chm11160205
-ms.prod: visio
 api_name:
 - Visio.Selection.DataGraphic
 ms.assetid: 09275500-7b8a-2d78-971c-2e27bc3b9e46

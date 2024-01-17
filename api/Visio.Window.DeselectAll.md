@@ -3,7 +3,6 @@ title: Window.DeselectAll method (Visio)
 keywords: vis_sdr.chm11616180
 f1_keywords:
 - vis_sdr.chm11616180
-ms.prod: visio
 api_name:
 - Visio.Window.DeselectAll
 ms.assetid: 926c8578-4c78-efbc-d189-b513fee7ee2f

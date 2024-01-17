@@ -3,7 +3,6 @@ title: ContainerProperties.ListAlignment property (Visio)
 keywords: vis_sdr.chm17662595
 f1_keywords:
 - vis_sdr.chm17662595
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ListAlignment
 ms.assetid: f8d62807-9663-b5ac-0154-d37fea1f9816

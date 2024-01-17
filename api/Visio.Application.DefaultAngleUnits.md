@@ -3,7 +3,6 @@ title: Application.DefaultAngleUnits property (Visio)
 keywords: vis_sdr.chm10051050
 f1_keywords:
 - vis_sdr.chm10051050
-ms.prod: visio
 api_name:
 - Visio.Application.DefaultAngleUnits
 ms.assetid: 28c51825-bff1-8fca-2070-76912593c53b

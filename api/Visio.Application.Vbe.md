@@ -3,7 +3,6 @@ title: Application.VBE property (Visio)
 keywords: vis_sdr.chm10014630
 f1_keywords:
 - vis_sdr.chm10014630
-ms.prod: visio
 api_name:
 - Visio.Application.VBE
 ms.assetid: 1ad29679-1078-5682-e375-868e32fb0ca5

@@ -3,7 +3,6 @@ title: Master.Prompt property (Visio)
 keywords: vis_sdr.chm10714165
 f1_keywords:
 - vis_sdr.chm10714165
-ms.prod: visio
 api_name:
 - Visio.Master.Prompt
 ms.assetid: 7467c2dd-5cf6-0af0-bc4d-522889d69707

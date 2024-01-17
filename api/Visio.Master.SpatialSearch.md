@@ -3,7 +3,6 @@ title: Master.SpatialSearch property (Visio)
 keywords: vis_sdr.chm10714405
 f1_keywords:
 - vis_sdr.chm10714405
-ms.prod: visio
 api_name:
 - Visio.Master.SpatialSearch
 ms.assetid: d71b05b7-32e1-d3c8-668e-6e96595acd59

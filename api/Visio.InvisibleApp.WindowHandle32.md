@@ -3,7 +3,6 @@ title: InvisibleApp.WindowHandle32 property (Visio)
 keywords: vis_sdr.chm17514660
 f1_keywords:
 - vis_sdr.chm17514660
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowHandle32
 ms.assetid: 251e1a83-3978-a5c9-4d8f-57b74173fda0

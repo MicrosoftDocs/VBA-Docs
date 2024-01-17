@@ -3,7 +3,6 @@ title: ApplicationSettings.RasterExportDataCompression property (Visio)
 keywords: vis_sdr.chm16262525
 f1_keywords:
 - vis_sdr.chm16262525
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.RasterExportDataCompression
 ms.assetid: cec938db-1368-7c05-a264-b69ae334a249

@@ -3,7 +3,6 @@ title: ContainerProperties.ContainerStyle property (Visio)
 keywords: vis_sdr.chm17651150
 f1_keywords:
 - vis_sdr.chm17651150
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ContainerStyle
 ms.assetid: cc7b6757-0287-e25a-9406-554aa70ef181

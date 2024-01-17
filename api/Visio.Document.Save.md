@@ -3,7 +3,6 @@ title: Document.Save method (Visio)
 keywords: vis_sdr.chm10516495
 f1_keywords:
 - vis_sdr.chm10516495
-ms.prod: visio
 api_name:
 - Visio.Document.Save
 ms.assetid: 5a9f104c-4893-c401-0093-bc860adf9a4b

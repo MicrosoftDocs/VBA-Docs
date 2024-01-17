@@ -3,7 +3,6 @@ title: Shape.MasterShape property (Visio)
 keywords: vis_sdr.chm11250710
 f1_keywords:
 - vis_sdr.chm11250710
-ms.prod: visio
 api_name:
 - Visio.Shape.MasterShape
 ms.assetid: bf710d8b-11f6-145d-a306-658dc23dedbf

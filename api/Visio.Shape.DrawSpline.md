@@ -3,7 +3,6 @@ title: Shape.DrawSpline method (Visio)
 keywords: vis_sdr.chm11216230
 f1_keywords:
 - vis_sdr.chm11216230
-ms.prod: visio
 api_name:
 - Visio.Shape.DrawSpline
 ms.assetid: 02a66d00-2309-b508-7867-90980addb309

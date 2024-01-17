@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.MouseUp event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseUp
 ms.assetid: 901e3276-2286-759c-01d7-75eb559ace70

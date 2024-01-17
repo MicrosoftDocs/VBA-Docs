@@ -3,7 +3,6 @@ title: Cell.Stat property (Visio)
 keywords: vis_sdr.chm10114420
 f1_keywords:
 - vis_sdr.chm10114420
-ms.prod: visio
 api_name:
 - Visio.Cell.Stat
 ms.assetid: 9421a8f1-8cc1-2e29-b145-958908a3efe9

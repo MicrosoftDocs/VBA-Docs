@@ -3,7 +3,6 @@ title: VisSpatialRelationFlags enumeration (Visio)
 keywords: vis_sdr.chm70230
 f1_keywords:
 - vis_sdr.chm70230
-ms.prod: visio
 ms.assetid: 38e44579-2e2c-cdb9-524b-e2b864901c13
 ms.date: 06/08/2017
 ms.localizationpriority: medium

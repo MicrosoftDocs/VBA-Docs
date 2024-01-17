@@ -3,7 +3,6 @@ title: About Automation (Visio)
 keywords: vis_sdr.chm0
 f1_keywords:
 - vis_sdr.chm0
-ms.prod: visio
 ms.assetid: d34dd6a0-7f11-d8ce-65d2-2a9654cdb06d
 ms.date: 06/25/2019
 ms.localizationpriority: high

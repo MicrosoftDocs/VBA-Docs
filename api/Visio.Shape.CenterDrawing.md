@@ -3,7 +3,6 @@ title: Shape.CenterDrawing method (Visio)
 keywords: vis_sdr.chm11216105
 f1_keywords:
 - vis_sdr.chm11216105
-ms.prod: visio
 api_name:
 - Visio.Shape.CenterDrawing
 ms.assetid: 2ac35f58-2f9d-4139-6477-7e865713c863

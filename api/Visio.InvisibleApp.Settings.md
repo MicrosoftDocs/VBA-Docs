@@ -3,7 +3,6 @@ title: InvisibleApp.Settings property (Visio)
 keywords: vis_sdr.chm17551635
 f1_keywords:
 - vis_sdr.chm17551635
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Settings
 ms.assetid: 90306459-fbed-ea11-acc5-e99f0c612cff

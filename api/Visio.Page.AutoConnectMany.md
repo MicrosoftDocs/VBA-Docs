@@ -3,7 +3,6 @@ title: Page.AutoConnectMany method (Visio)
 keywords: vis_sdr.chm10962130
 f1_keywords:
 - vis_sdr.chm10962130
-ms.prod: visio
 api_name:
 - Visio.Page.AutoConnectMany
 ms.assetid: 292d0f58-d753-6ef3-fd62-269fd44d003c

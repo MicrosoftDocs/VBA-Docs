@@ -3,7 +3,6 @@ title: Layer object (Visio)
 keywords: vis_sdr.chm10120
 f1_keywords:
 - vis_sdr.chm10120
-ms.prod: visio
 api_name:
 - Visio.Layer
 ms.assetid: 4442cd68-e071-943d-7fec-7ff9596cf4b3

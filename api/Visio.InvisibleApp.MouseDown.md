@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.MouseDown event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MouseDown
 ms.assetid: d02e19db-9f76-1669-8b5a-8b14f1950b83

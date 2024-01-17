@@ -3,7 +3,6 @@ title: IVisEventProc.VisEventProc method (Visio)
 keywords: vis_sdr.chm17460180
 f1_keywords:
 - vis_sdr.chm17460180
-ms.prod: visio
 api_name:
 - Visio.IVisEventProc.VisEventProc
 ms.assetid: d5a33174-4dcb-8afd-991c-eb59ddb2ea2d

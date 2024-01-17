@@ -3,7 +3,6 @@ title: Shape.RootShape property (Visio)
 keywords: vis_sdr.chm11250825
 f1_keywords:
 - vis_sdr.chm11250825
-ms.prod: visio
 api_name:
 - Visio.Shape.RootShape
 ms.assetid: c2e91d43-4968-cfee-e53b-4df115d171f6

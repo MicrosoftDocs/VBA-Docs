@@ -1,6 +1,5 @@
 ---
 title: Viewer.GetPageView method (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.GetPageView
 ms.assetid: ad53c016-3a6b-617d-6cfd-93c489f03c69

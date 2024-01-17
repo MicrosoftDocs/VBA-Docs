@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.ListFormats method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.ListFormats
 ms.assetid: 76495f43-a8f0-3159-f594-37af9fabcee2

@@ -1,6 +1,5 @@
 ---
 title: Application.CalloutRelationshipDeleted event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.CalloutRelationshipDeleted
 ms.assetid: 779e962c-85f7-e25e-22f7-529b392b93a2

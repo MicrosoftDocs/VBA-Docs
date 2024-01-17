@@ -1,6 +1,5 @@
 ---
 title: Page.SetThemeVariant method (Visio)
-ms.prod: visio
 ms.assetid: 8393a95f-83ca-0efa-d987-ae498bfe5e9d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

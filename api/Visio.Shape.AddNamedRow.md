@@ -3,7 +3,6 @@ title: Shape.AddNamedRow method (Visio)
 keywords: vis_sdr.chm11216045
 f1_keywords:
 - vis_sdr.chm11216045
-ms.prod: visio
 api_name:
 - Visio.Shape.AddNamedRow
 ms.assetid: c18380b1-418d-454f-3c90-fa4624291628

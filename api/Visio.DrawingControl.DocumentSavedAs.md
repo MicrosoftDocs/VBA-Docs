@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.DocumentSavedAs event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentSavedAs
 ms.assetid: e2770601-d718-a5b7-3795-5f63faed5fcc

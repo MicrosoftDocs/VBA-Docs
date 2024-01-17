@@ -3,7 +3,6 @@ title: Masters.ItemFromID property (Visio)
 keywords: vis_sdr.chm10813775
 f1_keywords:
 - vis_sdr.chm10813775
-ms.prod: visio
 api_name:
 - Visio.Masters.ItemFromID
 ms.assetid: 50cae679-5a81-ae45-6e61-8ec914f525f0

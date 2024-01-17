@@ -3,7 +3,6 @@ title: Row.ContainingPageID property (Visio)
 keywords: vis_sdr.chm15851695
 f1_keywords:
 - vis_sdr.chm15851695
-ms.prod: visio
 api_name:
 - Visio.Row.ContainingPageID
 ms.assetid: 28a8e54d-fb2c-e6b6-ab18-ec71dc06eca5
