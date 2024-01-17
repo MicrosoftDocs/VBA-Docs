@@ -3,7 +3,6 @@ title: Application.ColumnHistory method (Access)
 keywords: vbaac10.chm12620
 f1_keywords:
 - vbaac10.chm12620
-ms.prod: access
 api_name:
 - Access.Application.ColumnHistory
 ms.assetid: e2c1b71f-6561-b38d-8173-9926bc4bd9da

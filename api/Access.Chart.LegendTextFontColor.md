@@ -3,7 +3,6 @@ title: Chart.LegendTextFontColor property (Access)
 keywords: vbaac10.chm6152
 f1_keywords:
 - vbaac10.chm6152
-ms.prod: access
 api_name:
 - Access.Chart.LegendTextFontColor
 ms.date: 11/28/2018

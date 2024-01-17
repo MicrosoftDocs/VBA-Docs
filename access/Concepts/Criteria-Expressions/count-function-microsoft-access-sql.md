@@ -3,7 +3,6 @@ title: Count function (Microsoft Access SQL)
 keywords: jetsql40.chm5278824
 f1_keywords:
 - jetsql40.chm5278824
-ms.prod: access
 ms.assetid: 01743d33-d7de-12b5-eb0f-eb775b0bcffd
 ms.date: 09/21/2018
 ms.localizationpriority: medium

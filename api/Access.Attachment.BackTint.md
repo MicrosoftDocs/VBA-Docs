@@ -3,7 +3,6 @@ title: Attachment.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.Attachment.BackTint
 ms.assetid: f81ef313-0b84-a061-c58d-e433b01167f4

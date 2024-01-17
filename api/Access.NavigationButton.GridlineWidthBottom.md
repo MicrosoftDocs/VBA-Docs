@@ -3,7 +3,6 @@ title: NavigationButton.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10535
 f1_keywords:
 - vbaac10.chm10535
-ms.prod: access
 api_name:
 - Access.NavigationButton.GridlineWidthBottom
 ms.assetid: ba3c1daa-63bc-666b-d170-8747b2b4a37e

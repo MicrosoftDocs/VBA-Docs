@@ -3,7 +3,6 @@ title: Form.Moveable property (Access)
 keywords: vbaac10.chm13524
 f1_keywords:
 - vbaac10.chm13524
-ms.prod: access
 api_name:
 - Access.Form.Moveable
 ms.assetid: ad0db2eb-9905-15d9-7a96-e61cefd12842

@@ -3,7 +3,6 @@ title: Report.OnNoData property (Access)
 keywords: vbaac10.chm13767,vbaac10.chm4135
 f1_keywords:
 - vbaac10.chm13767,vbaac10.chm4135
-ms.prod: access
 api_name:
 - Access.Report.OnNoData
 ms.assetid: 5d3cfec5-1b57-625c-c350-0d7e475be2d2

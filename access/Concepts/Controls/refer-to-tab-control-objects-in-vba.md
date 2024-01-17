@@ -1,6 +1,5 @@
 ---
 title: Refer to tab control objects in VBA
-ms.prod: access
 ms.assetid: cf090068-7f0b-7ea6-1565-8a05860f9378
 ms.date: 09/21/2018
 ms.localizationpriority: medium

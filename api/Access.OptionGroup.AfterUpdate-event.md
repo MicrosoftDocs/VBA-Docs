@@ -3,7 +3,6 @@ title: OptionGroup.AfterUpdate event (Access)
 keywords: vbaac10.chm14186
 f1_keywords:
 - vbaac10.chm14186
-ms.prod: access
 api_name:
 - Access.OptionGroup.AfterUpdate
 ms.assetid: ea848f63-7d6d-dd03-058f-80e6cb46b1dd

@@ -3,7 +3,6 @@ title: Label.LeftMargin property (Access)
 keywords: vbaac10.chm10234
 f1_keywords:
 - vbaac10.chm10234
-ms.prod: access
 api_name:
 - Access.Label.LeftMargin
 ms.assetid: 7eca4de7-fad8-19f5-c3d2-115cd617755d

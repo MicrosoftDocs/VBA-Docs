@@ -3,7 +3,6 @@ title: CommandButton.PressedColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.CommandButton.PressedColor
 ms.assetid: c5f446e8-d1a2-f4c9-08c1-7a809b5ae5b8

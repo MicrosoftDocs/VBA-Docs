@@ -3,7 +3,6 @@ title: ComboBox.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11466
 f1_keywords:
 - vbaac10.chm11466
-ms.prod: access
 api_name:
 - Access.ComboBox.ScrollBarAlign
 ms.assetid: ded4533c-2879-d57f-b6ff-cccd20a88090

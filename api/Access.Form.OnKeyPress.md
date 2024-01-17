@@ -3,7 +3,6 @@ title: Form.OnKeyPress property (Access)
 keywords: vbaac10.chm13456
 f1_keywords:
 - vbaac10.chm13456
-ms.prod: access
 api_name:
 - Access.Form.OnKeyPress
 ms.assetid: 1ba311c2-15f2-1756-b35c-18df7cf7f858

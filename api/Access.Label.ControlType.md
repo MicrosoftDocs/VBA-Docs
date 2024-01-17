@@ -3,7 +3,6 @@ title: Label.ControlType property (Access)
 keywords: vbaac10.chm10190
 f1_keywords:
 - vbaac10.chm10190
-ms.prod: access
 api_name:
 - Access.Label.ControlType
 ms.assetid: f26535e4-9892-fcfb-3240-adf10866372a

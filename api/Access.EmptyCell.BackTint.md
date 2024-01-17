@@ -3,7 +3,6 @@ title: EmptyCell.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.EmptyCell.BackTint
 ms.assetid: dd3abfa8-6c50-2b03-c409-a1ca5e3ba0ff

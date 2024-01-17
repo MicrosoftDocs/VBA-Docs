@@ -3,7 +3,6 @@ title: TabControl.OldValue property (Access)
 keywords: vbaac10.chm12067
 f1_keywords:
 - vbaac10.chm12067
-ms.prod: access
 api_name:
 - Access.TabControl.OldValue
 ms.assetid: 23089d28-fb6f-1126-d508-aa7c4c83955a

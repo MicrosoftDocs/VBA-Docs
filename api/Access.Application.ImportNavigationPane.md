@@ -3,7 +3,6 @@ title: Application.ImportNavigationPane method (Access)
 keywords: vbaac10.chm12619
 f1_keywords:
 - vbaac10.chm12619
-ms.prod: access
 api_name:
 - Access.Application.ImportNavigationPane
 ms.assetid: 5365ece3-e2da-031c-4e28-89115d48acf8

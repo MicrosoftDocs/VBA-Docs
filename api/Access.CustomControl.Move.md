@@ -3,7 +3,6 @@ title: CustomControl.Move method (Access)
 keywords: vbaac10.chm12050
 f1_keywords:
 - vbaac10.chm12050
-ms.prod: access
 api_name:
 - Access.CustomControl.Move
 ms.assetid: 8494088f-0c10-6446-e01e-d70680b0597d

@@ -3,7 +3,6 @@ title: ListBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm11218
 f1_keywords:
 - vbaac10.chm11218
-ms.prod: access
 api_name:
 - Access.ListBox.EventProcPrefix
 ms.assetid: 28f4d70b-8206-2481-9b83-c1bbc2767b82

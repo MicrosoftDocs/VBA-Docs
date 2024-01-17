@@ -3,7 +3,6 @@ title: Rectangle.OnMouseMove property (Access)
 keywords: vbaac10.chm10303
 f1_keywords:
 - vbaac10.chm10303
-ms.prod: access
 api_name:
 - Access.Rectangle.OnMouseMove
 ms.assetid: 691aad82-38cd-9caf-a4b2-90b3f24a8056

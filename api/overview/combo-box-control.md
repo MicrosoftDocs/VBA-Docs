@@ -3,7 +3,7 @@ title: Combo Box Control
 keywords: vbaac10.chm5186603
 f1_keywords:
 - vbaac10.chm5186603
-ms.prod: access
+ms.service: access
 ms.assetid: 46e98636-768a-3bae-5e05-577253e6f804
 ms.date: 06/08/2017
 ms.localizationpriority: medium

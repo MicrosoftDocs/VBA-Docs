@@ -3,7 +3,6 @@ title: Image.Height property (Access)
 keywords: vbaac10.chm10379
 f1_keywords:
 - vbaac10.chm10379
-ms.prod: access
 api_name:
 - Access.Image.Height
 ms.assetid: cfc48a43-736f-58c0-95a5-fe248de8b9d3

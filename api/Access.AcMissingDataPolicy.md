@@ -3,7 +3,6 @@ title: AcMissingDataPolicy enumeration (Access)
 keywords: vbaac10.chm14768
 f1_keywords:
 - vbaac10.chm14768
-ms.prod: access
 api_name:
 - Access.AcMissingDataPolicy
 ms.date: 11/28/2018

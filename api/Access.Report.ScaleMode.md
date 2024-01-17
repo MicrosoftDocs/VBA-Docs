@@ -3,7 +3,6 @@ title: Report.ScaleMode property (Access)
 keywords: vbaac10.chm13745
 f1_keywords:
 - vbaac10.chm13745
-ms.prod: access
 api_name:
 - Access.Report.ScaleMode
 ms.assetid: e3955e48-80bb-989e-2992-cd5a541b468b

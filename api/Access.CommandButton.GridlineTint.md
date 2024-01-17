@@ -3,7 +3,6 @@ title: CommandButton.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: access
 api_name:
 - Access.CommandButton.GridlineTint
 ms.assetid: a24518ba-866e-be3e-dde7-bb3301c83353

@@ -3,7 +3,6 @@ title: ToggleButton.FontName property (Access)
 keywords: vbaac10.chm11723
 f1_keywords:
 - vbaac10.chm11723
-ms.prod: access
 api_name:
 - Access.ToggleButton.FontName
 ms.assetid: 7b1d51d8-5307-1446-344a-f406f2758a36

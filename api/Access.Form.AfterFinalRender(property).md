@@ -3,7 +3,6 @@ title: Form.AfterFinalRender property (Access)
 keywords: vbaac10.chm13548,vbaac10.chm5113
 f1_keywords:
 - vbaac10.chm13548,vbaac10.chm5113
-ms.prod: access
 api_name:
 - Access.Form.AfterFinalRender
 ms.assetid: c6e294f8-8cd9-1413-eff8-f2b033766326

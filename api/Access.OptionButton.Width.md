@@ -3,7 +3,6 @@ title: OptionButton.Width property (Access)
 keywords: vbaac10.chm10584
 f1_keywords:
 - vbaac10.chm10584
-ms.prod: access
 api_name:
 - Access.OptionButton.Width
 ms.assetid: b5cd80f3-62cb-c0f5-1ca1-adc92e97307e

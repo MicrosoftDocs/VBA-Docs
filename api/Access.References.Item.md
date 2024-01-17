@@ -3,7 +3,6 @@ title: References.Item method (Access)
 keywords: vbaac10.chm12640
 f1_keywords:
 - vbaac10.chm12640
-ms.prod: access
 api_name:
 - Access.References.Item
 ms.assetid: c159f3ff-b642-7151-c167-3699a6300f5f

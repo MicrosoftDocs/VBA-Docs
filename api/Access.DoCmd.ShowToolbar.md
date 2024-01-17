@@ -3,7 +3,6 @@ title: DoCmd.ShowToolbar method (Access)
 keywords: vbaac10.chm4185
 f1_keywords:
 - vbaac10.chm4185
-ms.prod: access
 api_name:
 - Access.DoCmd.ShowToolbar
 ms.assetid: 63663cc5-a591-c847-25c8-25777cf7806a

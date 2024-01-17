@@ -3,7 +3,6 @@ title: <Parameter name> is invalid because it is too long or contains invalid ch
 keywords: jeterr40.chm5003223
 f1_keywords:
 - jeterr40.chm5003223
-ms.prod: access
 ms.assetid: ade029fd-4067-0a97-fae8-2db1cf69d977
 ms.date: 06/08/2019
 ms.localizationpriority: medium

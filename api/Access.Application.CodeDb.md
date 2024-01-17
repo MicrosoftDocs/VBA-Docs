@@ -3,7 +3,6 @@ title: Application.CodeDb method (Access)
 keywords: vbaac10.chm12547
 f1_keywords:
 - vbaac10.chm12547
-ms.prod: access
 api_name:
 - Access.Application.CodeDb
 ms.assetid: 7f0cff23-1265-231f-9ab5-fa83c19d39cf

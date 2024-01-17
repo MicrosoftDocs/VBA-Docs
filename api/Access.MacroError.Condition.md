@@ -3,7 +3,6 @@ title: MacroError.Condition property (Access)
 keywords: vbaac10.chm14046
 f1_keywords:
 - vbaac10.chm14046
-ms.prod: access
 api_name:
 - Access.MacroError.Condition
 ms.assetid: 4210aff0-6f94-9b09-3a03-bbfb2f2b2494

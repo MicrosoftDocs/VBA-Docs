@@ -3,7 +3,6 @@ title: Reference.IsBroken property (Access)
 keywords: vbaac10.chm12636
 f1_keywords:
 - vbaac10.chm12636
-ms.prod: access
 api_name:
 - Access.Reference.IsBroken
 ms.assetid: 7a0bce38-0362-2645-a934-ddfb92322bcd

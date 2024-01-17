@@ -3,7 +3,6 @@ title: TextBox.Click event (Access)
 keywords: vbaac10.chm14201
 f1_keywords:
 - vbaac10.chm14201
-ms.prod: access
 api_name:
 - Access.TextBox.Click
 ms.assetid: d102a526-2051-3a36-0f7a-fc234f126c47

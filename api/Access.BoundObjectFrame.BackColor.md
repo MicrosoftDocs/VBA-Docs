@@ -3,7 +3,6 @@ title: BoundObjectFrame.BackColor property (Access)
 keywords: vbaac10.chm10932
 f1_keywords:
 - vbaac10.chm10932
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackColor
 ms.assetid: 84bad360-2e1d-0f8d-2751-c2d23fa8bb23

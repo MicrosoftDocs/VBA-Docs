@@ -3,7 +3,6 @@ title: TextBox.ScrollBars property (Access)
 keywords: vbaac10.chm11066
 f1_keywords:
 - vbaac10.chm11066
-ms.prod: access
 api_name:
 - Access.TextBox.ScrollBars
 ms.assetid: de3adbf1-4398-8782-0998-d392ab860669

@@ -3,7 +3,6 @@ title: Cannot make the <name> table replicable due to too many indexes. (Error 3
 keywords: jeterr40.chm5003706
 f1_keywords:
 - jeterr40.chm5003706
-ms.prod: access
 ms.assetid: 84787735-89ac-2524-42cd-d0c752a7cf25
 ms.date: 06/08/2019
 ms.localizationpriority: medium

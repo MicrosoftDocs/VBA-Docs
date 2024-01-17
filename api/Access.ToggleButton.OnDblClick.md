@@ -3,7 +3,6 @@ title: ToggleButton.OnDblClick property (Access)
 keywords: vbaac10.chm11754
 f1_keywords:
 - vbaac10.chm11754
-ms.prod: access
 api_name:
 - Access.ToggleButton.OnDblClick
 ms.assetid: 7d7a6627-db0f-f276-36fd-776d5e4b806c

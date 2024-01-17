@@ -3,7 +3,6 @@ title: AcFormView enumeration (Access)
 keywords: vbaac10.chm10018
 f1_keywords:
 - vbaac10.chm10018
-ms.prod: access
 api_name:
 - Access.AcFormView
 ms.assetid: e8abcb80-a68b-5328-80d0-ce18e2cabe42

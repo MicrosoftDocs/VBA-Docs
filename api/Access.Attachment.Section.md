@@ -3,7 +3,6 @@ title: Attachment.Section property (Access)
 keywords: vbaac10.chm13934
 f1_keywords:
 - vbaac10.chm13934
-ms.prod: access
 api_name:
 - Access.Attachment.Section
 ms.assetid: fb08e629-6056-85ac-4eae-2d7ab88916b9

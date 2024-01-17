@@ -3,7 +3,6 @@ title: CurrentData object (Access)
 keywords: vbaac10.chm12740
 f1_keywords:
 - vbaac10.chm12740
-ms.prod: access
 api_name:
 - Access.CurrentData
 ms.assetid: c8d3f74f-050d-e1be-9496-2f1e20996066

@@ -3,7 +3,6 @@ title: Label.SmartTags property (Access)
 keywords: vbaac10.chm10242
 f1_keywords:
 - vbaac10.chm10242
-ms.prod: access
 api_name:
 - Access.Label.SmartTags
 ms.assetid: 1c31246b-870d-2d73-1737-829cbd67baba

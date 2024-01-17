@@ -3,7 +3,6 @@ title: ListBox.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: access
 api_name:
 - Access.ListBox.ForeShade
 ms.assetid: 4917e73f-595e-7286-adc0-05d3a9e44b34

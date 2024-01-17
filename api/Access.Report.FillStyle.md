@@ -3,7 +3,6 @@ title: Report.FillStyle property (Access)
 keywords: vbaac10.chm13757
 f1_keywords:
 - vbaac10.chm13757
-ms.prod: access
 api_name:
 - Access.Report.FillStyle
 ms.assetid: 0fcb840d-4ff6-718a-2267-25cd2622c8d2

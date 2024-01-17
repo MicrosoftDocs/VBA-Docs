@@ -3,7 +3,6 @@ title: Form.Orientation property (Access)
 keywords: vbaac10.chm13480
 f1_keywords:
 - vbaac10.chm13480
-ms.prod: access
 api_name:
 - Access.Form.Orientation
 ms.assetid: 25a13b75-48b7-69bd-4d70-e9aa8a94652e

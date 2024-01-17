@@ -3,7 +3,6 @@ title: Application.SysCmd method (Access)
 keywords: vbaac10.chm12515
 f1_keywords:
 - vbaac10.chm12515
-ms.prod: access
 api_name:
 - Access.Application.SysCmd
 ms.assetid: 5064b8cc-6f9a-602b-e304-6d1478d9b4a7

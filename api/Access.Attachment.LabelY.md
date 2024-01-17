@@ -3,7 +3,6 @@ title: Attachment.LabelY property (Access)
 keywords: vbaac10.chm14006
 f1_keywords:
 - vbaac10.chm14006
-ms.prod: access
 api_name:
 - Access.Attachment.LabelY
 ms.assetid: 4ac59667-61bf-925c-a70a-0857fabcf2e1

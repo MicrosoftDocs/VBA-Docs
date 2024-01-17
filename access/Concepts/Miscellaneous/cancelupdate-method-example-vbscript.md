@@ -1,7 +1,6 @@
 ---
 title: CancelUpdate method example (VBScript)
 ROBOTS: INDEX
-ms.prod: access
 ms.assetid: 5442db02-960c-6d11-e0f3-0726c8d529bd
 ms.date: 06/08/2019
 ms.localizationpriority: medium

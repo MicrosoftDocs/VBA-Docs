@@ -1,6 +1,5 @@
 ---
 title: Sort records in case-sensitive (ASCII) order
-ms.prod: access
 ms.assetid: 92c74803-2ff3-82b3-ca20-8bef5bfd6004
 ms.date: 09/21/2018
 ms.localizationpriority: medium

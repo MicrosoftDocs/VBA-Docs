@@ -3,7 +3,6 @@ title: NavigationControl.Height property (Access)
 keywords: vbaac10.chm11074
 f1_keywords:
 - vbaac10.chm11074
-ms.prod: access
 api_name:
 - Access.NavigationControl.Height
 ms.assetid: bf46c094-6eef-452b-dca9-ff6d4a3e5006

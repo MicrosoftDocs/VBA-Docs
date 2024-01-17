@@ -3,7 +3,6 @@ title: Form.Modal property (Access)
 keywords: vbaac10.chm13370
 f1_keywords:
 - vbaac10.chm13370
-ms.prod: access
 api_name:
 - Access.Form.Modal
 ms.assetid: a36b42f6-9d97-acea-cda3-2f380a3270c2

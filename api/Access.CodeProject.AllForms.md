@@ -3,7 +3,6 @@ title: CodeProject.AllForms property (Access)
 keywords: vbaac10.chm12707
 f1_keywords:
 - vbaac10.chm12707
-ms.prod: access
 api_name:
 - Access.CodeProject.AllForms
 ms.assetid: 98443fc7-a0dd-37a9-f2c8-c3e183f65f6c

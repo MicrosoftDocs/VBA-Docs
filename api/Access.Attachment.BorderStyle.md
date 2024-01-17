@@ -3,7 +3,6 @@ title: Attachment.BorderStyle property (Access)
 keywords: vbaac10.chm13927
 f1_keywords:
 - vbaac10.chm13927
-ms.prod: access
 api_name:
 - Access.Attachment.BorderStyle
 ms.assetid: a1156f6c-5649-ddef-619d-d15a57bb581a

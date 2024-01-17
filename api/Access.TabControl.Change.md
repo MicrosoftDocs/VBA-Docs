@@ -3,7 +3,6 @@ title: TabControl.Change event (Access)
 keywords: vbaac10.chm14278
 f1_keywords:
 - vbaac10.chm14278
-ms.prod: access
 api_name:
 - Access.TabControl.Change
 ms.assetid: e57d4b0b-0f9e-28e7-c1e0-6a1582f1cb0f

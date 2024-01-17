@@ -3,7 +3,6 @@ title: ComboBox.SpecialEffect property (Access)
 keywords: vbaac10.chm11407
 f1_keywords:
 - vbaac10.chm11407
-ms.prod: access
 api_name:
 - Access.ComboBox.SpecialEffect
 ms.assetid: d9b82840-8914-7818-990d-9b595da4ba9f

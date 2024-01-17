@@ -3,7 +3,6 @@ title: CommandButton.BorderStyle property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: access
 api_name:
 - Access.CommandButton.BorderStyle
 ms.assetid: ba7b7eb5-5f1c-addd-483f-a3104a50115b

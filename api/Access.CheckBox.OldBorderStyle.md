@@ -3,7 +3,6 @@ title: CheckBox.OldBorderStyle property (Access)
 keywords: vbaac10.chm10715
 f1_keywords:
 - vbaac10.chm10715
-ms.prod: access
 api_name:
 - Access.CheckBox.OldBorderStyle
 ms.assetid: 255ec4d3-dff4-d63e-38a1-ad9a36e08104

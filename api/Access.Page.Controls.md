@@ -3,7 +3,6 @@ title: Page.Controls property (Access)
 keywords: vbaac10.chm12144
 f1_keywords:
 - vbaac10.chm12144
-ms.prod: access
 api_name:
 - Access.Page.Controls
 ms.assetid: 86f2f033-7622-7e5d-c727-a5c9b1b312e6

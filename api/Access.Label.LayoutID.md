@@ -3,7 +3,6 @@ title: Label.LayoutID property (Access)
 keywords: vbaac10.chm10265
 f1_keywords:
 - vbaac10.chm10265
-ms.prod: access
 api_name:
 - Access.Label.LayoutID
 ms.assetid: 0e9acdaf-e3ea-0422-4a1e-7b135a9c26bd

@@ -3,7 +3,6 @@ title: Cannot add record(s); join key of table <name> not in result set. (Error 
 keywords: jeterr40.chm5003348
 f1_keywords:
 - jeterr40.chm5003348
-ms.prod: access
 ms.assetid: 08d88606-f8c0-f1a2-266c-5ee145fafa04
 ms.date: 06/08/2019
 ms.localizationpriority: medium

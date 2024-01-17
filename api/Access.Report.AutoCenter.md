@@ -3,7 +3,6 @@ title: Report.AutoCenter property (Access)
 keywords: vbaac10.chm13797
 f1_keywords:
 - vbaac10.chm13797
-ms.prod: access
 api_name:
 - Access.Report.AutoCenter
 ms.assetid: d4a12dac-1000-38cd-e4ed-4f5879dfe4a0

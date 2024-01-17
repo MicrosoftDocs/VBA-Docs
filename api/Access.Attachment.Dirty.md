@@ -3,7 +3,6 @@ title: Attachment.Dirty event (Access)
 keywords: vbaac10.chm14023
 f1_keywords:
 - vbaac10.chm14023
-ms.prod: access
 api_name:
 - Access.Attachment.Dirty
 ms.assetid: d211238b-cbe4-f0ef-471b-33c1ced1aa9b

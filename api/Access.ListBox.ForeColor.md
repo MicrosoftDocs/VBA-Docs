@@ -3,7 +3,6 @@ title: ListBox.ForeColor property (Access)
 keywords: vbaac10.chm11252
 f1_keywords:
 - vbaac10.chm11252
-ms.prod: access
 api_name:
 - Access.ListBox.ForeColor
 ms.assetid: bbc345ab-fd78-3e30-b2d6-d0a43291f576

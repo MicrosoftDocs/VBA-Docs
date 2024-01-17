@@ -3,7 +3,6 @@ title: OptionButton.OnKeyUp property (Access)
 keywords: vbaac10.chm10620
 f1_keywords:
 - vbaac10.chm10620
-ms.prod: access
 api_name:
 - Access.OptionButton.OnKeyUp
 ms.assetid: 99b7e4be-f2fc-f221-814e-b31cd3360063

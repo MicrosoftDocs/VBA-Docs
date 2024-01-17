@@ -3,7 +3,6 @@ title: Line.Section property (Access)
 keywords: vbaac10.chm10342
 f1_keywords:
 - vbaac10.chm10342
-ms.prod: access
 api_name:
 - Access.Line.Section
 ms.assetid: de295a35-a4fc-b0e9-939c-ccddb4fcb995

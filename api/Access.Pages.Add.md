@@ -3,7 +3,6 @@ title: Pages.Add method (Access)
 keywords: vbaac10.chm10128
 f1_keywords:
 - vbaac10.chm10128
-ms.prod: access
 api_name:
 - Access.Pages.Add
 ms.assetid: f7235fb2-d775-85ea-7c50-62fa3f663d32

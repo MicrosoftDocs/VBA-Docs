@@ -3,7 +3,6 @@ title: ComboBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11499
 f1_keywords:
 - vbaac10.chm11499
-ms.prod: access
 api_name:
 - Access.ComboBox.HorizontalAnchor
 ms.assetid: 9dfa13fe-d062-d7a8-87a3-2e6e37fce5e9

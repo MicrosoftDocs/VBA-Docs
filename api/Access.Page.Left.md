@@ -3,7 +3,6 @@ title: Page.Left property (Access)
 keywords: vbaac10.chm12155
 f1_keywords:
 - vbaac10.chm12155
-ms.prod: access
 api_name:
 - Access.Page.Left
 ms.assetid: 6484d3f6-bc30-875d-da6d-8ad577604048

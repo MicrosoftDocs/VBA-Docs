@@ -3,7 +3,6 @@ title: ListBox.BottomPadding property (Access)
 keywords: vbaac10.chm11309
 f1_keywords:
 - vbaac10.chm11309
-ms.prod: access
 api_name:
 - Access.ListBox.BottomPadding
 ms.assetid: 80de2112-a66c-9d53-0d17-54ca2ff90a98

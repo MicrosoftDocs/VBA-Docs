@@ -3,7 +3,6 @@ title: ChartValues.Name property (Access)
 keywords: vbaac10.chm14798
 f1_keywords:
 - vbaac10.chm14798
-ms.prod: access
 api_name:
 - Access.ChartValues.Name
 ms.date: 11/28/2018

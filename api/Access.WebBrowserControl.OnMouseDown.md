@@ -3,7 +3,6 @@ title: WebBrowserControl.OnMouseDown property (Access)
 keywords: vbaac10.chm14380
 f1_keywords:
 - vbaac10.chm14380
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnMouseDown
 ms.assetid: b3a1d803-078c-fdd9-7e1f-4ce93bd1719c

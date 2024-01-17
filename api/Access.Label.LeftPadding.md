@@ -3,7 +3,6 @@ title: Label.LeftPadding property (Access)
 keywords: vbaac10.chm10245
 f1_keywords:
 - vbaac10.chm10245
-ms.prod: access
 api_name:
 - Access.Label.LeftPadding
 ms.assetid: db04fe7d-8496-cbf9-557e-1a284d823a11

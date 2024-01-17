@@ -1,6 +1,5 @@
 ---
 title: Work with form and report printer settings
-ms.prod: access
 ms.assetid: 14a8aa00-9ad8-60f7-e103-791ab08c0e9e
 ms.date: 09/26/2018
 ms.localizationpriority: medium

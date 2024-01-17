@@ -3,7 +3,6 @@ title: OptionGroup.SetFocus method (Access)
 keywords: vbaac10.chm10816
 f1_keywords:
 - vbaac10.chm10816
-ms.prod: access
 api_name:
 - Access.OptionGroup.SetFocus
 ms.assetid: 8aaeccc5-29eb-559c-5501-4df7b325fc72

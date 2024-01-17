@@ -3,7 +3,6 @@ title: TextBox.Format property (Access)
 keywords: vbaac10.chm11044
 f1_keywords:
 - vbaac10.chm11044
-ms.prod: access
 api_name:
 - Access.TextBox.Format
 ms.assetid: c89491e2-09f8-d928-1aed-9d839545a694

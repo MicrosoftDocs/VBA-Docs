@@ -3,7 +3,6 @@ title: Label.InSelection property (Access)
 keywords: vbaac10.chm10223
 f1_keywords:
 - vbaac10.chm10223
-ms.prod: access
 api_name:
 - Access.Label.InSelection
 ms.assetid: 97632974-4ff9-9f21-9501-d66a300d302b

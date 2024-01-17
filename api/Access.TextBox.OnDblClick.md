@@ -3,7 +3,6 @@ title: TextBox.OnDblClick property (Access)
 keywords: vbaac10.chm11123
 f1_keywords:
 - vbaac10.chm11123
-ms.prod: access
 api_name:
 - Access.TextBox.OnDblClick
 ms.assetid: 571a01ff-b92b-bb9b-1363-43086ef71c02

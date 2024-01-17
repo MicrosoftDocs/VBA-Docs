@@ -3,7 +3,6 @@ title: Form.OnResize property (Access)
 keywords: vbaac10.chm13442
 f1_keywords:
 - vbaac10.chm13442
-ms.prod: access
 api_name:
 - Access.Form.OnResize
 ms.assetid: 84e6df44-53d2-19c9-e8c5-47681649c7e8

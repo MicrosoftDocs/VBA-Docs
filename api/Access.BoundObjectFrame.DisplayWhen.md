@@ -3,7 +3,6 @@ title: BoundObjectFrame.DisplayWhen property (Access)
 keywords: vbaac10.chm10922
 f1_keywords:
 - vbaac10.chm10922
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.DisplayWhen
 ms.assetid: ef64a05d-562f-2aff-09aa-b3d5609854b8

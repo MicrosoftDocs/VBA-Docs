@@ -3,7 +3,6 @@ title: AllStoredProcedures object (Access)
 keywords: vbaac10.chm12691
 f1_keywords:
 - vbaac10.chm12691
-ms.prod: access
 api_name:
 - Access.AllStoredProcedures
 ms.assetid: 896f4c2c-273c-2849-0f06-d75fa515c44a

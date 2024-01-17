@@ -3,7 +3,6 @@ title: CurrentProject.Properties property (Access)
 keywords: vbaac10.chm12721
 f1_keywords:
 - vbaac10.chm12721
-ms.prod: access
 api_name:
 - Access.CurrentProject.Properties
 ms.assetid: fd53f73f-184a-0793-da0d-7bcd95c20439

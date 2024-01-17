@@ -3,7 +3,6 @@ title: ListBox.ColumnHeads property (Access)
 keywords: vbaac10.chm11225
 f1_keywords:
 - vbaac10.chm11225
-ms.prod: access
 api_name:
 - Access.ListBox.ColumnHeads
 ms.assetid: cd779d07-d35b-03b2-df3a-7934615675d0

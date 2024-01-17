@@ -3,7 +3,6 @@ title: Form.OnConnect event (Access)
 keywords: vbaac10.chm13667
 f1_keywords:
 - vbaac10.chm13667
-ms.prod: access
 api_name:
 - Access.Form.OnConnect
 ms.assetid: 39966052-0e06-bde9-142f-ee74d16a9973

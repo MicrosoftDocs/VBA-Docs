@@ -3,7 +3,6 @@ title: OptionGroup.OnMouseMove property (Access)
 keywords: vbaac10.chm10869
 f1_keywords:
 - vbaac10.chm10869
-ms.prod: access
 api_name:
 - Access.OptionGroup.OnMouseMove
 ms.assetid: 0f987181-1506-51ee-8f40-5a902c86d458

@@ -3,7 +3,6 @@ title: SubForm.LabelX property (Access)
 keywords: vbaac10.chm11950
 f1_keywords:
 - vbaac10.chm11950
-ms.prod: access
 api_name:
 - Access.SubForm.LabelX
 ms.assetid: dcad891e-1b31-f9a1-619a-46efae9c3fc6

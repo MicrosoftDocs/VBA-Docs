@@ -3,7 +3,6 @@ title: Attachment.OnEnter property (Access)
 keywords: vbaac10.chm13939
 f1_keywords:
 - vbaac10.chm13939
-ms.prod: access
 api_name:
 - Access.Attachment.OnEnter
 ms.assetid: 5aae3814-5fff-2011-c86d-3765f2a3615d

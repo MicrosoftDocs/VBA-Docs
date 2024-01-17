@@ -1,6 +1,5 @@
 ---
 title: New in Access for developers
-ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
 ms.date: 02/06/2022
 ms.localizationpriority: medium

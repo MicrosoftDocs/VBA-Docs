@@ -3,7 +3,6 @@ title: SubForm.GridlineStyleRight property (Access)
 keywords: vbaac10.chm11972
 f1_keywords:
 - vbaac10.chm11972
-ms.prod: access
 api_name:
 - Access.SubForm.GridlineStyleRight
 ms.assetid: 765ef134-0431-68a3-3bef-eedaa2191cfc

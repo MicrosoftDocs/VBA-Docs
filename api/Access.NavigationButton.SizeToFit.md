@@ -3,7 +3,6 @@ title: NavigationButton.SizeToFit method (Access)
 keywords: vbaac10.chm10442
 f1_keywords:
 - vbaac10.chm10442
-ms.prod: access
 api_name:
 - Access.NavigationButton.SizeToFit
 ms.assetid: b8ca4ed4-4092-3996-b26a-d3ec561906e9

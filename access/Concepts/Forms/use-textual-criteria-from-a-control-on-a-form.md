@@ -1,6 +1,5 @@
 ---
 title: Use textual criteria from a control on a form
-ms.prod: access
 ms.assetid: 236e57eb-3523-92da-e665-281961dfb431
 ms.date: 09/25/2018
 ms.localizationpriority: medium

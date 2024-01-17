@@ -3,7 +3,6 @@ title: Report.Caption property (Access)
 keywords: vbaac10.chm13695
 f1_keywords:
 - vbaac10.chm13695
-ms.prod: access
 api_name:
 - Access.Report.Caption
 ms.assetid: 8e662558-755f-0dbe-8803-b0f0ef093172

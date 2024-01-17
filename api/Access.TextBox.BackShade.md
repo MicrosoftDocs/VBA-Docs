@@ -3,7 +3,6 @@ title: TextBox.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.TextBox.BackShade
 ms.assetid: 36db2540-6d5b-ed43-a303-70b6282398cf

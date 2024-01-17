@@ -3,7 +3,6 @@ title: TabControl.ForeColor property (Access)
 keywords: vbaac10.chm11083
 f1_keywords:
 - vbaac10.chm11083
-ms.prod: access
 api_name:
 - Access.TabControl.ForeColor
 ms.assetid: 8b690a5f-ce7d-7b9c-09b7-90cbe3b2be81

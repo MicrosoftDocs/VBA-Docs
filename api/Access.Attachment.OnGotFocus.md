@@ -3,7 +3,6 @@ title: Attachment.OnGotFocus property (Access)
 keywords: vbaac10.chm13943
 f1_keywords:
 - vbaac10.chm13943
-ms.prod: access
 api_name:
 - Access.Attachment.OnGotFocus
 ms.assetid: a25aa4f5-8ac6-86e9-d8de-725072a77007

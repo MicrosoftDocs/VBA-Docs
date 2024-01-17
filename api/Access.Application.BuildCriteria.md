@@ -3,7 +3,6 @@ title: Application.BuildCriteria method (Access)
 keywords: vbaac10.chm12548
 f1_keywords:
 - vbaac10.chm12548
-ms.prod: access
 api_name:
 - Access.Application.BuildCriteria
 ms.assetid: 098e9aca-3dc1-ad21-4374-5d8ae7c80c56

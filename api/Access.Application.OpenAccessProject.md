@@ -3,7 +3,6 @@ title: Application.OpenAccessProject method (Access)
 keywords: vbaac10.chm12581
 f1_keywords:
 - vbaac10.chm12581
-ms.prod: access
 api_name:
 - Access.Application.OpenAccessProject
 ms.assetid: fdc1b231-1512-cbcd-f376-935555861b38

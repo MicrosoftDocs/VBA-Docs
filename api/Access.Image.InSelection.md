@@ -3,7 +3,6 @@ title: Image.InSelection property (Access)
 keywords: vbaac10.chm10402
 f1_keywords:
 - vbaac10.chm10402
-ms.prod: access
 api_name:
 - Access.Image.InSelection
 ms.assetid: f128660e-6a28-4af4-ff00-4463ff618e7f

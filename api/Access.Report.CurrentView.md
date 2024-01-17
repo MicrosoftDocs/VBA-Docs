@@ -3,7 +3,6 @@ title: Report.CurrentView property (Access)
 keywords: vbaac10.chm13826
 f1_keywords:
 - vbaac10.chm13826
-ms.prod: access
 api_name:
 - Access.Report.CurrentView
 ms.assetid: d1c33390-75f1-4e11-0735-a8860211b4ce

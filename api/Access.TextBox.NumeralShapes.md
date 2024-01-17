@@ -3,7 +3,6 @@ title: TextBox.NumeralShapes property (Access)
 keywords: vbaac10.chm11134
 f1_keywords:
 - vbaac10.chm11134
-ms.prod: access
 api_name:
 - Access.TextBox.NumeralShapes
 ms.assetid: f0fda4bb-2522-622c-24ab-d3324a4b8dca

@@ -3,7 +3,6 @@ title: CustomControl.Cancel property (Access)
 keywords: vbaac10.chm12046
 f1_keywords:
 - vbaac10.chm12046
-ms.prod: access
 api_name:
 - Access.CustomControl.Cancel
 ms.assetid: 013feb6d-44e9-dbdf-0342-c07ff743f747

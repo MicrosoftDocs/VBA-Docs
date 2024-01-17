@@ -3,7 +3,6 @@ title: ListBox.OnGotFocus property (Access)
 keywords: vbaac10.chm11282
 f1_keywords:
 - vbaac10.chm11282
-ms.prod: access
 api_name:
 - Access.ListBox.OnGotFocus
 ms.assetid: ded32fef-1821-5288-9265-c1e1f4819efe

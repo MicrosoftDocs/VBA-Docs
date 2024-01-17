@@ -3,7 +3,6 @@ title: WebBrowserControl.BorderStyle property (Access)
 keywords: vbaac10.chm14375
 f1_keywords:
 - vbaac10.chm14375
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.BorderStyle
 ms.assetid: 3f53cca7-0cfd-2e70-5a20-ce4dbdf166da

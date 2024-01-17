@@ -3,7 +3,6 @@ title: CommandButton.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.CommandButton.BorderTint
 ms.assetid: 244697f0-891f-792d-3ad9-61a58973ab60

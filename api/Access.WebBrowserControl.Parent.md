@@ -3,7 +3,6 @@ title: WebBrowserControl.Parent property (Access)
 keywords: vbaac10.chm14348
 f1_keywords:
 - vbaac10.chm14348
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Parent
 ms.assetid: e55825ab-95a2-9431-487c-66e246410258

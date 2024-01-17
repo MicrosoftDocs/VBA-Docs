@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4525
 f1_keywords:
 - vbaac10.chm4525
-ms.prod: access
 api_name:
 - Access.TopValues
 ms.assetid: 86198e46-2061-f39f-b6cf-58b90ef063b7

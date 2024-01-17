@@ -3,7 +3,6 @@ title: TextBox.AutoLabel property (Access)
 keywords: vbaac10.chm11098
 f1_keywords:
 - vbaac10.chm11098
-ms.prod: access
 api_name:
 - Access.TextBox.AutoLabel
 ms.assetid: a5e6e68c-eadc-a242-ef83-8b388f6ca41f

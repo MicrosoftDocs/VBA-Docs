@@ -3,7 +3,6 @@ title: Cannot create replica of a SQL replica. (Error 3753)
 keywords: jeterr40.chm5003753
 f1_keywords:
 - jeterr40.chm5003753
-ms.prod: access
 ms.assetid: a5a7d28e-2157-e18e-06d8-660bcf01af9f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

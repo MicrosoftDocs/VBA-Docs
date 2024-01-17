@@ -3,7 +3,6 @@ title: Set form, report, and control properties in Visual Basic
 keywords: vbaac10.chm5188061
 f1_keywords:
 - vbaac10.chm5188061
-ms.prod: access
 ms.assetid: 1f5b5f6b-b424-f35e-4add-21c45b5d74c4
 ms.date: 09/26/2018
 ms.localizationpriority: medium

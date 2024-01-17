@@ -3,7 +3,6 @@ title: BoundObjectFrame.GridlineWidthTop property (Access)
 keywords: vbaac10.chm11004
 f1_keywords:
 - vbaac10.chm11004
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineWidthTop
 ms.assetid: 1427956f-17ec-9195-a754-ffa2f2968ed0

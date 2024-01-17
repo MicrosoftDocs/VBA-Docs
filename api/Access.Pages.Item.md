@@ -3,7 +3,6 @@ title: Pages.Item property (Access)
 keywords: vbaac10.chm10126
 f1_keywords:
 - vbaac10.chm10126
-ms.prod: access
 api_name:
 - Access.Pages.Item
 ms.assetid: ecac73d6-ce91-a416-4227-23f6317b6dc0

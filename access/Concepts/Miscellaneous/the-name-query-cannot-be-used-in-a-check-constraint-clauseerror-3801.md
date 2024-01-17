@@ -3,7 +3,6 @@ title: The <name> query cannot be used in a CHECK constraint clause. (Error 3801
 keywords: jeterr40.chm5003801
 f1_keywords:
 - jeterr40.chm5003801
-ms.prod: access
 ms.assetid: b8931274-2b85-03b4-2534-ae72ab42fc62
 ms.date: 06/08/2017
 ms.localizationpriority: medium

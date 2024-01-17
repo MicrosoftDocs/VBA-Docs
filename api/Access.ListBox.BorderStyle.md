@@ -3,7 +3,6 @@ title: ListBox.BorderStyle property (Access)
 keywords: vbaac10.chm11247
 f1_keywords:
 - vbaac10.chm11247
-ms.prod: access
 api_name:
 - Access.ListBox.BorderStyle
 ms.assetid: 6b57a863-b521-0cd3-933d-bb50f25ece19

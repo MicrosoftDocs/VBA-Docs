@@ -3,7 +3,6 @@ title: DoCmd.GoToControl method (Access)
 keywords: vbaac10.chm4152
 f1_keywords:
 - vbaac10.chm4152
-ms.prod: access
 api_name:
 - Access.DoCmd.GoToControl
 ms.assetid: 2b51231d-f6a4-4891-d49d-bedb68f85b04

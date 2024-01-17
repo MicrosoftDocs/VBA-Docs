@@ -3,7 +3,6 @@ title: CustomControl.Verb property (Access)
 keywords: vbaac10.chm12011
 f1_keywords:
 - vbaac10.chm12011
-ms.prod: access
 api_name:
 - Access.CustomControl.Verb
 ms.assetid: dffd74b7-2a69-9b18-dde2-d0fd02754f15

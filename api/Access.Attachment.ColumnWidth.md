@@ -3,7 +3,6 @@ title: Attachment.ColumnWidth property (Access)
 keywords: vbaac10.chm14008
 f1_keywords:
 - vbaac10.chm14008
-ms.prod: access
 api_name:
 - Access.Attachment.ColumnWidth
 ms.assetid: 1827efbf-f481-7e26-0638-775a522b2c46

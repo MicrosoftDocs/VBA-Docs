@@ -3,7 +3,6 @@ title: ObjectFrame.HelpContextId property (Access)
 keywords: vbaac10.chm11602
 f1_keywords:
 - vbaac10.chm11602
-ms.prod: access
 api_name:
 - Access.ObjectFrame.HelpContextId
 ms.assetid: 85fa8d67-b0ff-129d-b689-ceca69e8b487

@@ -3,7 +3,6 @@ title: Application.AppTitle property (Access)
 keywords: vbaac10.chm5187013
 f1_keywords:
 - vbaac10.chm5187013
-ms.prod: access
 api_name:
 - Access.Application. AppTitle
 ms.assetid: a505f465-7813-6677-dd80-21a757c9d422

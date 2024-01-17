@@ -1,7 +1,6 @@
 ---
 title: Type property (Column) (ADOX)
 ROBOTS: INDEX
-ms.prod: access
 ms.assetid: 3e222e89-f57e-28f9-8488-81828f882643
 ms.date: 09/08/2021
 ms.localizationpriority: medium

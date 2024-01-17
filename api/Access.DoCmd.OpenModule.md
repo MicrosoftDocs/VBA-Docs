@@ -3,7 +3,6 @@ title: DoCmd.OpenModule method (Access)
 keywords: vbaac10.chm4161
 f1_keywords:
 - vbaac10.chm4161
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenModule
 ms.assetid: 3d0b1599-6f52-e369-55e4-7fdc1c370953

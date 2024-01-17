@@ -3,7 +3,6 @@ title: Attachment.ColumnOrder property (Access)
 keywords: vbaac10.chm14009
 f1_keywords:
 - vbaac10.chm14009
-ms.prod: access
 api_name:
 - Access.Attachment.ColumnOrder
 ms.assetid: e11872da-df82-83e0-0c6f-8716989622dd

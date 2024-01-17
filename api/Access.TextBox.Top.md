@@ -3,7 +3,6 @@ title: TextBox.Top property (Access)
 keywords: vbaac10.chm11072
 f1_keywords:
 - vbaac10.chm11072
-ms.prod: access
 api_name:
 - Access.TextBox.Top
 ms.assetid: 6a220cec-d42c-05e3-c8c0-078687813a8d

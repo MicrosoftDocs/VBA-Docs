@@ -3,7 +3,6 @@ title: CommandButton.Shadow property (Access)
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
-ms.prod: access
 api_name:
 - Access.CommandButton.Shadow
 ms.assetid: 71af60bc-6f69-1408-8f3a-076a75daddcc

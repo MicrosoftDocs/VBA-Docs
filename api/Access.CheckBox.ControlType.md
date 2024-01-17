@@ -3,7 +3,6 @@ title: CheckBox.ControlType property (Access)
 keywords: vbaac10.chm10694
 f1_keywords:
 - vbaac10.chm10694
-ms.prod: access
 api_name:
 - Access.CheckBox.ControlType
 ms.assetid: d9a714d8-7381-44f1-882a-57233819e024

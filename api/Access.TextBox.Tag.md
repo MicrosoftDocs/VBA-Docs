@@ -3,7 +3,6 @@ title: TextBox.Tag property (Access)
 keywords: vbaac10.chm11105
 f1_keywords:
 - vbaac10.chm11105
-ms.prod: access
 api_name:
 - Access.TextBox.Tag
 ms.assetid: 9df21640-6bea-60a9-f9d0-dac90a60af1c

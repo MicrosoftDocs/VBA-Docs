@@ -3,7 +3,6 @@ title: ListBox.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: access
 api_name:
 - Access.ListBox.BorderShade
 ms.assetid: f44dc9fc-344f-35a9-4293-44db0e1ac6df

@@ -3,7 +3,6 @@ title: WebBrowserControl.TabStop property (Access)
 keywords: vbaac10.chm143145
 f1_keywords:
 - vbaac10.chm143145
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.TabStop
 ms.assetid: 92f60227-186c-6f46-bc1d-289a28de6bd0

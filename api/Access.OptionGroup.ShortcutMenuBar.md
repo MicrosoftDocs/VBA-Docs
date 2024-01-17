@@ -3,7 +3,6 @@ title: OptionGroup.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm10846
 f1_keywords:
 - vbaac10.chm10846
-ms.prod: access
 api_name:
 - Access.OptionGroup.ShortcutMenuBar
 ms.assetid: f08f9c3a-f267-dab7-48db-3c972131b6e8

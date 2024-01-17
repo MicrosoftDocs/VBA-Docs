@@ -1,6 +1,5 @@
 ---
 title: Retrieve the name of the user signed in to the network
-ms.prod: access
 ms.assetid: 3bf335a1-08d0-c8d5-8d89-36f0c29d47d0
 ms.date: 09/26/2018
 ms.localizationpriority: medium

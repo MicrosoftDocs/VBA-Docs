@@ -3,7 +3,6 @@ title: Report.Click event (Access)
 keywords: vbaac10.chm13889
 f1_keywords:
 - vbaac10.chm13889
-ms.prod: access
 api_name:
 - Access.Report.Click
 ms.assetid: 37bd4936-2f66-b434-ae54-5f76dd943c4c

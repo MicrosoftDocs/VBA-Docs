@@ -3,7 +3,6 @@ title: TabControl.Layout property (Access)
 keywords: vbaac10.chm14535
 f1_keywords:
 - vbaac10.chm14535
-ms.prod: access
 api_name:
 - Access.TabControl.Layout
 ms.assetid: 2fbfc294-62b5-66e5-63e2-f9d89e85aac3

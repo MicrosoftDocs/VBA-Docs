@@ -3,7 +3,6 @@ title: BoundObjectFrame.Requery method (Access)
 keywords: vbaac10.chm10903
 f1_keywords:
 - vbaac10.chm10903
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Requery
 ms.assetid: e2936b7f-da7e-7b61-5ada-cbca28a29385

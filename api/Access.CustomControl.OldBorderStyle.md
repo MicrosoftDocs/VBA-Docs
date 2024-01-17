@@ -3,7 +3,6 @@ title: CustomControl.OldBorderStyle property (Access)
 keywords: vbaac10.chm12026
 f1_keywords:
 - vbaac10.chm12026
-ms.prod: access
 api_name:
 - Access.CustomControl.OldBorderStyle
 ms.assetid: e22d9cd8-e155-aaab-35e0-d9edf7811ef3

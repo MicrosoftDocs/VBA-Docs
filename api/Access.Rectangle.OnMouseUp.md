@@ -3,7 +3,6 @@ title: Rectangle.OnMouseUp property (Access)
 keywords: vbaac10.chm10304
 f1_keywords:
 - vbaac10.chm10304
-ms.prod: access
 api_name:
 - Access.Rectangle.OnMouseUp
 ms.assetid: dbea1e29-6084-1728-2b2c-2a17312b451e

@@ -1,6 +1,5 @@
 ---
 title: Prompt a user before saving a record
-ms.prod: access
 ms.assetid: 4b47967c-a043-cc8a-774f-1df0b529f29b
 ms.date: 09/25/2018
 ms.localizationpriority: medium

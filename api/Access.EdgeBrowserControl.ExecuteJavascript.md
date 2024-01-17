@@ -3,7 +3,6 @@ title: EdgeBrowserControl.ExecuteJavascript method (Access)
 keywords: vbaac10.chm6167
 f1_keywords:
 - vbaac10.chm6167
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.ExecuteJavascript
 ms.assetid: 2a29e1d1-b949-44e5-9708-ea22b7c3728a

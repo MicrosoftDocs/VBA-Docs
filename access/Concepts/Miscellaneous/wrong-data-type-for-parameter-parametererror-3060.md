@@ -3,7 +3,6 @@ title: Wrong data type for parameter <parameter>. (Error 3060)
 keywords: jeterr40.chm5003060
 f1_keywords:
 - jeterr40.chm5003060
-ms.prod: access
 ms.assetid: 4cef5d4d-6056-97e1-4663-9ed1b39c48de
 ms.date: 06/08/2017
 ms.localizationpriority: medium

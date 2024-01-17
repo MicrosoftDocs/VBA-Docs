@@ -3,7 +3,6 @@ title: Form.MouseMove event (Access)
 keywords: vbaac10.chm13653
 f1_keywords:
 - vbaac10.chm13653
-ms.prod: access
 api_name:
 - Access.Form.MouseMove
 ms.assetid: e255bb17-4997-9290-cd13-1a61666017b2

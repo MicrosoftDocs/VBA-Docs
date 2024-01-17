@@ -3,7 +3,6 @@ title: INTO (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277612
 f1_keywords:
 - jetsql40.chm5277612
-ms.prod: access
 ms.assetid: fa7a2efc-ee6b-afe3-a6ae-dac8c542fa0b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: CheckBox.ColumnHidden property (Access)
 keywords: vbaac10.chm10724
 f1_keywords:
 - vbaac10.chm10724
-ms.prod: access
 api_name:
 - Access.CheckBox.ColumnHidden
 ms.assetid: 9a6c271c-566c-e18c-ae85-8d35b4487cb2

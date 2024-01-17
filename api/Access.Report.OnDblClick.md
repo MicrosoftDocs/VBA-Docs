@@ -3,7 +3,6 @@ title: Report.OnDblClick property (Access)
 keywords: vbaac10.chm13862
 f1_keywords:
 - vbaac10.chm13862
-ms.prod: access
 api_name:
 - Access.Report.OnDblClick
 ms.assetid: b92a1b2b-4f27-4f45-959c-6f1aec557004

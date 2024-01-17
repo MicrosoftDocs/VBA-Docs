@@ -3,7 +3,6 @@ title: Image.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: access
 api_name:
 - Access.Image.GridlineShade
 ms.assetid: 1ed961e6-9698-322f-361c-76e42b81433e

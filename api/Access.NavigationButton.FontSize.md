@@ -3,7 +3,6 @@ title: NavigationButton.FontSize property (Access)
 keywords: vbaac10.chm10473
 f1_keywords:
 - vbaac10.chm10473
-ms.prod: access
 api_name:
 - Access.NavigationButton.FontSize
 ms.assetid: 54e037ef-15c5-e898-ab73-3af6439b9d06

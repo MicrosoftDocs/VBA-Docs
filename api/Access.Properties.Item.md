@@ -3,7 +3,6 @@ title: Properties.Item property (Access)
 keywords: vbaac10.chm10049
 f1_keywords:
 - vbaac10.chm10049
-ms.prod: access
 api_name:
 - Access.Properties.Item
 ms.assetid: 379bc410-87d6-7502-14d1-df72763b8ef6

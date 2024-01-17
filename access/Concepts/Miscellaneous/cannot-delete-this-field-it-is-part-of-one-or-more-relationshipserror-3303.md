@@ -3,7 +3,6 @@ title: Cannot delete this field. It's part of one or more relationships. (Error 
 keywords: jeterr40.chm5003303
 f1_keywords:
 - jeterr40.chm5003303
-ms.prod: access
 ms.assetid: e2c402e1-7cb8-74f1-f1f7-2ddbb02d4339
 ms.date: 06/08/2019
 ms.localizationpriority: medium

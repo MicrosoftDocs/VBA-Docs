@@ -3,7 +3,6 @@ title: Image.Click event (Access)
 keywords: vbaac10.chm14166
 f1_keywords:
 - vbaac10.chm14166
-ms.prod: access
 api_name:
 - Access.Image.Click
 ms.assetid: 1bca7597-b536-908e-c3fd-25f9dd5e1ab8

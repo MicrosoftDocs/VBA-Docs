@@ -3,7 +3,6 @@ title: CheckBox.MouseUp event (Access)
 keywords: vbaac10.chm14129
 f1_keywords:
 - vbaac10.chm14129
-ms.prod: access
 api_name:
 - Access.CheckBox.MouseUp
 ms.assetid: 704acc3b-6ff6-fb0e-9adf-bd34185443e4

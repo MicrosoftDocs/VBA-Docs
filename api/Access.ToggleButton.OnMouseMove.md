@@ -3,7 +3,6 @@ title: ToggleButton.OnMouseMove property (Access)
 keywords: vbaac10.chm11756
 f1_keywords:
 - vbaac10.chm11756
-ms.prod: access
 api_name:
 - Access.ToggleButton.OnMouseMove
 ms.assetid: 3bfbe7b8-3f8d-5f77-2afe-e8a4f3e11c8a

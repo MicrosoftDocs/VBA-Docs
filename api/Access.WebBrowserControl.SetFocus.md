@@ -3,7 +3,6 @@ title: WebBrowserControl.SetFocus method (Access)
 keywords: vbaac10.chm14354
 f1_keywords:
 - vbaac10.chm14354
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.SetFocus
 ms.assetid: ef78b734-df81-60db-d569-bc9128a0ced5

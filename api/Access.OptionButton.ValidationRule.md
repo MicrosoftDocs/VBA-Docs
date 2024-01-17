@@ -3,7 +3,6 @@ title: OptionButton.ValidationRule property (Access)
 keywords: vbaac10.chm10571
 f1_keywords:
 - vbaac10.chm10571
-ms.prod: access
 api_name:
 - Access.OptionButton.ValidationRule
 ms.assetid: 1113ce22-08cf-f29d-8290-e2c86b0c4be5

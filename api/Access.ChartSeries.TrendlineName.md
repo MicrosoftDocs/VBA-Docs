@@ -3,7 +3,6 @@ title: ChartSeries.TrendlineName property (Access)
 keywords: vbaac10.chm14791
 f1_keywords:
 - vbaac10.chm14791
-ms.prod: access
 api_name:
 - Access.ChartSeries.TrendlineName
 ms.date: 11/28/2018

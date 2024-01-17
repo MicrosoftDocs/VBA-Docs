@@ -3,7 +3,6 @@ title: TextBox.LineSpacing property (Access)
 keywords: vbaac10.chm11140
 f1_keywords:
 - vbaac10.chm11140
-ms.prod: access
 api_name:
 - Access.TextBox.LineSpacing
 ms.assetid: 3ac1c335-4b26-1a14-e4dc-bd5d56f44a2b

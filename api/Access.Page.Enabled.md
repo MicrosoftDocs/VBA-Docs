@@ -3,7 +3,6 @@ title: Page.Enabled property (Access)
 keywords: vbaac10.chm12154
 f1_keywords:
 - vbaac10.chm12154
-ms.prod: access
 api_name:
 - Access.Page.Enabled
 ms.assetid: 02e67765-74e5-25e8-3c34-7dabe3b4236c

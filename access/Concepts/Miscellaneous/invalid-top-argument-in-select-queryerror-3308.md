@@ -3,7 +3,6 @@ title: Invalid TOP argument in select query. (Error 3308)
 keywords: jeterr40.chm5003308
 f1_keywords:
 - jeterr40.chm5003308
-ms.prod: access
 ms.assetid: f2b182f2-81a6-68c4-3bfe-f0c4de4e5c54
 ms.date: 06/08/2019
 ms.localizationpriority: medium

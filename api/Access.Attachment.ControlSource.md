@@ -3,7 +3,6 @@ title: Attachment.ControlSource property (Access)
 keywords: vbaac10.chm14011
 f1_keywords:
 - vbaac10.chm14011
-ms.prod: access
 api_name:
 - Access.Attachment.ControlSource
 ms.assetid: 6c1f2351-5671-51dd-0ff7-964719d91b9c

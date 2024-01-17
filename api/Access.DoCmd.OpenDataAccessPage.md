@@ -3,7 +3,6 @@ title: DoCmd.OpenDataAccessPage method (Access)
 keywords: vbaac10.chm4648
 f1_keywords:
 - vbaac10.chm4648
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenDataAccessPage
 ms.assetid: 130dcb88-e3e6-25a6-186c-bf541d114169

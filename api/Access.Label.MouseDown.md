@@ -3,7 +3,6 @@ title: Label.MouseDown event (Access)
 keywords: vbaac10.chm14286
 f1_keywords:
 - vbaac10.chm14286
-ms.prod: access
 api_name:
 - Access.Label.MouseDown
 ms.assetid: 1895790f-e5d6-493e-6005-a2c6a83cbd87

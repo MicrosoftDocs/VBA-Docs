@@ -3,7 +3,6 @@ title: WebBrowserControl.ScrollLeft property (Access)
 keywords: vbaac10.chm14366
 f1_keywords:
 - vbaac10.chm14366
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.ScrollLeft
 ms.assetid: 1526e744-8276-55bd-bd2a-b7c36cd7c3af

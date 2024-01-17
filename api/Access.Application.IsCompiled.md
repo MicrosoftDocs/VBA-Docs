@@ -3,7 +3,6 @@ title: Application.IsCompiled property (Access)
 keywords: vbaac10.chm12567
 f1_keywords:
 - vbaac10.chm12567
-ms.prod: access
 api_name:
 - Access.Application.IsCompiled
 ms.assetid: c3b80c32-2aba-432c-1909-4c8172a3bebf

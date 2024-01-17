@@ -3,7 +3,6 @@ title: TabControl.MouseUp event (Access)
 keywords: vbaac10.chm14274
 f1_keywords:
 - vbaac10.chm14274
-ms.prod: access
 api_name:
 - Access.TabControl.MouseUp
 ms.assetid: 32e463a0-3926-53d5-86d3-6ccbdbb066de

@@ -3,7 +3,6 @@ title: ObjectFrame.GridlineColor property (Access)
 keywords: vbaac10.chm11651
 f1_keywords:
 - vbaac10.chm11651
-ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineColor
 ms.assetid: 746790f7-cac5-5631-ae25-04b95b0c405a

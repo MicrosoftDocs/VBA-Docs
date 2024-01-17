@@ -3,7 +3,6 @@ title: DoCmd.RefreshRecord method (Access)
 keywords: vbaac10.chm6002
 f1_keywords:
 - vbaac10.chm6002
-ms.prod: access
 api_name:
 - Access.DoCmd.RefreshRecord
 ms.assetid: 2707cdf2-7458-7ef2-8c20-26fed3eda3ce

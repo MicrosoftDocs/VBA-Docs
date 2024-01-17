@@ -3,7 +3,6 @@ title: CheckBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm10692
 f1_keywords:
 - vbaac10.chm10692
-ms.prod: access
 api_name:
 - Access.CheckBox.EventProcPrefix
 ms.assetid: 9ab63762-34fb-06f4-3b79-97471152c939

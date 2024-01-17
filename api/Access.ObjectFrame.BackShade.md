@@ -3,7 +3,6 @@ title: ObjectFrame.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.ObjectFrame.BackShade
 ms.assetid: 68800e85-9dfa-958d-e87d-1241be551f90

@@ -3,7 +3,6 @@ title: Application.ProductCode property (Access)
 keywords: vbaac10.chm12584
 f1_keywords:
 - vbaac10.chm12584
-ms.prod: access
 api_name:
 - Access.Application.ProductCode
 ms.assetid: b4e374ec-b52f-e73d-174e-bb07f40ab029

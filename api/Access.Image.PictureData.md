@@ -3,7 +3,6 @@ title: Image.PictureData property (Access)
 keywords: vbaac10.chm10368
 f1_keywords:
 - vbaac10.chm10368
-ms.prod: access
 api_name:
 - Access.Image.PictureData
 ms.assetid: 64d4a266-2c7f-5b08-4f32-bca25dac87d8

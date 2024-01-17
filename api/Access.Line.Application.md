@@ -3,7 +3,6 @@ title: Line.Application property (Access)
 keywords: vbaac10.chm10322
 f1_keywords:
 - vbaac10.chm10322
-ms.prod: access
 api_name:
 - Access.Line.Application
 ms.assetid: d12619b5-99ad-f3ff-9d28-19cd9991d749

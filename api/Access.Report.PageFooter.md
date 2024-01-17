@@ -3,7 +3,6 @@ title: Report.PageFooter property (Access)
 keywords: vbaac10.chm13698
 f1_keywords:
 - vbaac10.chm13698
-ms.prod: access
 api_name:
 - Access.Report.PageFooter
 ms.assetid: 82cd1c0f-2823-9b61-a1fd-66c02c6aaadf

@@ -3,7 +3,6 @@ title: AllReports.Parent property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: access
 api_name:
 - Access.AllReports.Parent
 ms.assetid: 4655352b-4051-33cd-24a8-a18f275d3454

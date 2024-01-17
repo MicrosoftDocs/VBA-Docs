@@ -3,7 +3,6 @@ title: TextBox.ColumnWidth property (Access)
 keywords: vbaac10.chm11095
 f1_keywords:
 - vbaac10.chm11095
-ms.prod: access
 api_name:
 - Access.TextBox.ColumnWidth
 ms.assetid: 19060aac-ccb0-3998-39c7-42f1454c339e

@@ -3,7 +3,6 @@ title: CommandButton.LabelAlign property (Access)
 keywords: vbaac10.chm10486
 f1_keywords:
 - vbaac10.chm10486
-ms.prod: access
 api_name:
 - Access.CommandButton.LabelAlign
 ms.assetid: a586c545-c1b1-ff31-5213-5a3cd055a2b6

@@ -3,7 +3,6 @@ title: ComboBox.GridlineColor property (Access)
 keywords: vbaac10.chm11493
 f1_keywords:
 - vbaac10.chm11493
-ms.prod: access
 api_name:
 - Access.ComboBox.GridlineColor
 ms.assetid: b0085ca5-3d6c-35c2-fe19-ce7a7776d216

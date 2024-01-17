@@ -3,7 +3,6 @@ title: Invalid use of '.', '!', or '()'. (Error 2423)
 keywords: jeterr40.chm5002423
 f1_keywords:
 - jeterr40.chm5002423
-ms.prod: access
 ms.assetid: 388eb7b2-b82a-20e1-52dd-b3840b7a9f74
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Cannot perform this operation; features in this version are not available
 keywords: jeterr40.chm5003301
 f1_keywords:
 - jeterr40.chm5003301
-ms.prod: access
 ms.assetid: ce08d6d6-5bad-a8c7-655f-f6e9ef4acae5
 ms.date: 06/08/2019
 ms.localizationpriority: medium

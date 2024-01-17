@@ -3,7 +3,6 @@ title: SmartTag.IsMissing property (Access)
 keywords: vbaac10.chm13325
 f1_keywords:
 - vbaac10.chm13325
-ms.prod: access
 api_name:
 - Access.SmartTag.IsMissing
 ms.assetid: 072199c2-6f46-654a-ab89-9e4aff0537fc

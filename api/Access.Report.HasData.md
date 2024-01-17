@@ -3,7 +3,6 @@ title: Report.HasData property (Access)
 keywords: vbaac10.chm13726
 f1_keywords:
 - vbaac10.chm13726
-ms.prod: access
 api_name:
 - Access.Report.HasData
 ms.assetid: e8827477-6877-ec7a-63e5-7f4de972f0bb

@@ -3,7 +3,6 @@ title: TextBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm11166
 f1_keywords:
 - vbaac10.chm11166
-ms.prod: access
 api_name:
 - Access.TextBox.VerticalAnchor
 ms.assetid: b515b37f-0566-0483-d387-8bc02c7be980

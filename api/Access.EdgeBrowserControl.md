@@ -3,7 +3,6 @@ title: EdgeBrowserControl object (Access)
 keywords: vbaac10.chm14853
 f1_keywords:
 - vbaac10.chm14853
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl
 ms.assetid: 9db1b878-0b68-4537-af89-d0ad532fc940

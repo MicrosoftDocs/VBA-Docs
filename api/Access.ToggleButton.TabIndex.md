@@ -3,7 +3,6 @@ title: ToggleButton.TabIndex property (Access)
 keywords: vbaac10.chm11716
 f1_keywords:
 - vbaac10.chm11716
-ms.prod: access
 api_name:
 - Access.ToggleButton.TabIndex
 ms.assetid: 1712e879-20da-8797-e94d-ee68b0d23c59

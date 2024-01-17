@@ -49,7 +49,9 @@
     "fileMetadata": {
       "ms.service": {
         "api/PowerPoint.*.md": "powerpoint",
-        "powerpoint/**.md": "powerpoint"
+        "powerpoint/**.md": "powerpoint",
+        "api/Access.*.md": "access",
+        "access/**.md": "access"
       },
       "ms.topic": {
         "api/**.md": "reference",
@@ -66,7 +68,6 @@
         "word/**.md": "conceptual"
       },
       "ms.prod": {
-        "api/Access.*.md": "access",
         "api/Excel.*.md": "excel",
         "api/Outlook.*.md": "outlook",
         "api/Project.*.md": "project",
@@ -75,7 +76,6 @@
         "api/Word.*.md": "word",
         "api/Office.*.md": "office",
         "api/overview/**.md": "vba",
-        "access/**.md": "access",
         "excel/**.md": "excel",
         "Language/**.md": "office",
         "Library-Reference/**.md": "office",

@@ -3,7 +3,6 @@ title: CheckBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10781
 f1_keywords:
 - vbaac10.chm10781
-ms.prod: access
 api_name:
 - Access.CheckBox.HorizontalAnchor
 ms.assetid: 6169f797-eb38-933e-96ca-d1b3259eb2e7

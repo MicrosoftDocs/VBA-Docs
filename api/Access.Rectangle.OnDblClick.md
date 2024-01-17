@@ -3,7 +3,6 @@ title: Rectangle.OnDblClick property (Access)
 keywords: vbaac10.chm10301
 f1_keywords:
 - vbaac10.chm10301
-ms.prod: access
 api_name:
 - Access.Rectangle.OnDblClick
 ms.assetid: 2ab4d3e2-26d9-c3e1-4558-7861b00174ab

@@ -3,7 +3,6 @@ title: ImportExportSpecifications.Parent property (Access)
 keywords: vbaac10.chm13339
 f1_keywords:
 - vbaac10.chm13339
-ms.prod: access
 api_name:
 - Access.ImportExportSpecifications.Parent
 ms.assetid: 184e40ab-0dd7-6867-90da-7cf971ec6a61

@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4443
 f1_keywords:
 - vbaac10.chm4443
-ms.prod: access
 api_name:
 - Access.ODBCTimeout
 ms.assetid: ebcac9df-87a9-481c-32cc-d28bb9f37717

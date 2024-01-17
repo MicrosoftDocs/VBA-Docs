@@ -3,7 +3,6 @@ title: EmptyCell.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm14318
 f1_keywords:
 - vbaac10.chm14318
-ms.prod: access
 api_name:
 - Access.EmptyCell.ShortcutMenuBar
 ms.assetid: 81ee7d0c-4dd9-810e-8384-026bae0569bb

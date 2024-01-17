@@ -3,7 +3,6 @@ title: CodeProject.RemovePersonalInformation property (Access)
 keywords: vbaac10.chm12724
 f1_keywords:
 - vbaac10.chm12724
-ms.prod: access
 api_name:
 - Access.CodeProject.RemovePersonalInformation
 ms.assetid: e5332cce-31a9-6aed-11d3-9aa1329123a8

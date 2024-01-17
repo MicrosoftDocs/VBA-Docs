@@ -3,7 +3,6 @@ title: Form.OpenArgs property (Access)
 keywords: vbaac10.chm13428
 f1_keywords:
 - vbaac10.chm13428
-ms.prod: access
 api_name:
 - Access.Form.OpenArgs
 ms.assetid: f18ed66f-01e0-b8a3-a15b-687e738aafe6

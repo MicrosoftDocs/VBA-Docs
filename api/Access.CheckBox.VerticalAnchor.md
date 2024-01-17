@@ -3,7 +3,6 @@ title: CheckBox.VerticalAnchor property (Access)
 keywords: vbaac10.chm10782
 f1_keywords:
 - vbaac10.chm10782
-ms.prod: access
 api_name:
 - Access.CheckBox.VerticalAnchor
 ms.assetid: 71b3b605-ff9f-b383-d367-0701c078a910

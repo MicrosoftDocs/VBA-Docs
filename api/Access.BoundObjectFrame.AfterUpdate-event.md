@@ -3,7 +3,6 @@ title: BoundObjectFrame.AfterUpdate event (Access)
 keywords: vbaac10.chm14091
 f1_keywords:
 - vbaac10.chm14091
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.AfterUpdate
 ms.assetid: fdec60fb-99a5-fcdc-17d1-838db71d7ab3

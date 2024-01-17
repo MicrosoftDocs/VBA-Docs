@@ -3,7 +3,6 @@ title: CommandButton.LeftPadding property (Access)
 keywords: vbaac10.chm10524
 f1_keywords:
 - vbaac10.chm10524
-ms.prod: access
 api_name:
 - Access.CommandButton.LeftPadding
 ms.assetid: a94afdff-4615-529e-04de-fcf3d9e63d2d

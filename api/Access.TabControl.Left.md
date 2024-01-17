@@ -3,7 +3,6 @@ title: TabControl.Left property (Access)
 keywords: vbaac10.chm12081
 f1_keywords:
 - vbaac10.chm12081
-ms.prod: access
 api_name:
 - Access.TabControl.Left
 ms.assetid: 5ae5ad68-75b0-1ca2-cf37-8d1e84781b37

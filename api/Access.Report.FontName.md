@@ -3,7 +3,6 @@ title: Report.FontName property (Access)
 keywords: vbaac10.chm13750
 f1_keywords:
 - vbaac10.chm13750
-ms.prod: access
 api_name:
 - Access.Report.FontName
 ms.assetid: 37759316-e5f6-14f6-0423-c5a11e02161f

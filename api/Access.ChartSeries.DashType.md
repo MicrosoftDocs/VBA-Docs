@@ -3,7 +3,6 @@ title: ChartSeries.DashType property (Access)
 keywords: vbaac10.chm14782
 f1_keywords:
 - vbaac10.chm14782
-ms.prod: access
 api_name:
 - Access.ChartSeries.DashType
 ms.date: 11/28/2018

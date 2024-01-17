@@ -3,7 +3,6 @@ title: Printer.PaperSize property (Access)
 keywords: vbaac10.chm12864
 f1_keywords:
 - vbaac10.chm12864
-ms.prod: access
 api_name:
 - Access.Printer.PaperSize
 ms.assetid: f2bafab2-f5bd-21be-fc5e-b428c31c9e4b

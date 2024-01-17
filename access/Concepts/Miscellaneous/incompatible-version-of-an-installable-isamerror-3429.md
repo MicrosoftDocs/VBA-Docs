@@ -3,7 +3,6 @@ title: Incompatible version of an installable ISAM. (Error 3429)
 keywords: jeterr40.chm5003429
 f1_keywords:
 - jeterr40.chm5003429
-ms.prod: access
 ms.assetid: aab86936-a482-87a9-2acd-83f7d6317ca1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

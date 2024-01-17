@@ -3,7 +3,6 @@ title: SubForm.OnExit property (Access)
 keywords: vbaac10.chm11959
 f1_keywords:
 - vbaac10.chm11959
-ms.prod: access
 api_name:
 - Access.SubForm.OnExit
 ms.assetid: 6b19161f-a6e3-bd2d-0fde-21b16f4b324b

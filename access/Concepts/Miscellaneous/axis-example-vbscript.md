@@ -1,6 +1,5 @@
 ---
 title: Axis example (VBScript)
-ms.prod: access
 ms.assetid: 7dd2c9ee-4f67-091a-fd7f-f914016e04b4
 ms.date: 06/08/2019
 ms.localizationpriority: medium

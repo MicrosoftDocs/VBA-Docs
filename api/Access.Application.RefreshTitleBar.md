@@ -3,7 +3,6 @@ title: Application.RefreshTitleBar method (Access)
 keywords: vbaac10.chm12551
 f1_keywords:
 - vbaac10.chm12551
-ms.prod: access
 api_name:
 - Access.Application.RefreshTitleBar
 ms.assetid: 9924e3ff-714f-023e-460f-d4aba7702829

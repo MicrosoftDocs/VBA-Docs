@@ -3,7 +3,6 @@ title: Attachment.DefaultPicture property (Access)
 keywords: vbaac10.chm14001,vbaac10.chm5849
 f1_keywords:
 - vbaac10.chm14001,vbaac10.chm5849
-ms.prod: access
 api_name:
 - Access.Attachment.DefaultPicture
 ms.assetid: 98bc9637-50c9-5831-8170-a32abe5915bc

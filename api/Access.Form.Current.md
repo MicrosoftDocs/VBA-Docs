@@ -3,7 +3,6 @@ title: Form.Current event (Access)
 keywords: vbaac10.chm13634
 f1_keywords:
 - vbaac10.chm13634
-ms.prod: access
 api_name:
 - Access.Form.Current
 ms.assetid: 44961599-2b0a-874e-be64-1e29f47f839f

@@ -3,7 +3,6 @@ title: Label.Move method (Access)
 keywords: vbaac10.chm10241
 f1_keywords:
 - vbaac10.chm10241
-ms.prod: access
 api_name:
 - Access.Label.Move
 ms.assetid: 091613dd-5878-704e-0e67-9564ee57cbd3

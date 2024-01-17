@@ -3,7 +3,6 @@ title: TextBox.SizeToFit method (Access)
 keywords: vbaac10.chm11033
 f1_keywords:
 - vbaac10.chm11033
-ms.prod: access
 api_name:
 - Access.TextBox.SizeToFit
 ms.assetid: 17289703-1943-2499-48c5-f34f200fd304

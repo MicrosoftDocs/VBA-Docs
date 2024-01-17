@@ -3,7 +3,6 @@ title: TabControl.OnKeyUp property (Access)
 keywords: vbaac10.chm12111
 f1_keywords:
 - vbaac10.chm12111
-ms.prod: access
 api_name:
 - Access.TabControl.OnKeyUp
 ms.assetid: f0a0c7c6-989c-d914-ccf5-7bac89d84dce

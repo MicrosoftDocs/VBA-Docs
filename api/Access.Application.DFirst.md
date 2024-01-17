@@ -3,7 +3,6 @@ title: Application.DFirst method (Access)
 keywords: vbaac10.chm12535
 f1_keywords:
 - vbaac10.chm12535
-ms.prod: access
 api_name:
 - Access.Application.DFirst
 ms.assetid: 670e54ac-a18f-e381-2ca7-257411f92865

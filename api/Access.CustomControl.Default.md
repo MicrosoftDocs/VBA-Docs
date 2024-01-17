@@ -3,7 +3,6 @@ title: CustomControl.Default property (Access)
 keywords: vbaac10.chm12045
 f1_keywords:
 - vbaac10.chm12045
-ms.prod: access
 api_name:
 - Access.CustomControl.Default
 ms.assetid: ffe92e84-4bfa-56a2-298e-00d448f8dc29

@@ -3,7 +3,6 @@ title: Form.CommandChecked property (Access)
 keywords: vbaac10.chm13543
 f1_keywords:
 - vbaac10.chm13543
-ms.prod: access
 api_name:
 - Access.Form.CommandChecked
 ms.assetid: 4f3bb0fa-6f3f-4836-a0d0-06d480e1d194

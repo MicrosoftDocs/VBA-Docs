@@ -3,7 +3,6 @@ title: Form.GridX property (Access)
 keywords: vbaac10.chm13389
 f1_keywords:
 - vbaac10.chm13389
-ms.prod: access
 api_name:
 - Access.Form.GridX
 ms.assetid: ebc6a4d9-2f73-cf55-504f-a83aff1fecd4

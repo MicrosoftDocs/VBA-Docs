@@ -3,7 +3,6 @@ title: BoundObjectFrame.StatusBarText property (Access)
 keywords: vbaac10.chm10920
 f1_keywords:
 - vbaac10.chm10920
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.StatusBarText
 ms.assetid: dc8ec458-8013-f6ff-5763-d083babcb4c9

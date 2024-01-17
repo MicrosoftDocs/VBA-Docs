@@ -3,7 +3,6 @@ title: Image.Requery method (Access)
 keywords: vbaac10.chm10359
 f1_keywords:
 - vbaac10.chm10359
-ms.prod: access
 api_name:
 - Access.Image.Requery
 ms.assetid: 98f16a2d-ad18-c576-11e0-43d43fcf8859

@@ -3,7 +3,6 @@ title: Rectangle.Left property (Access)
 keywords: vbaac10.chm10283
 f1_keywords:
 - vbaac10.chm10283
-ms.prod: access
 api_name:
 - Access.Rectangle.Left
 ms.assetid: 8526cd4c-2664-8ea0-3f4d-de40436ed8ed

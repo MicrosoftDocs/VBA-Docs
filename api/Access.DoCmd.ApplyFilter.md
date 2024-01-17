@@ -3,7 +3,6 @@ title: DoCmd.ApplyFilter method (Access)
 keywords: vbaac10.chm4142
 f1_keywords:
 - vbaac10.chm4142
-ms.prod: access
 api_name:
 - Access.DoCmd.ApplyFilter
 ms.assetid: 926c7135-131b-1a7c-465b-a9b2ed71cd7b

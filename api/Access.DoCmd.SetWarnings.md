@@ -3,7 +3,6 @@ title: DoCmd.SetWarnings method (Access)
 keywords: vbaac10.chm4183
 f1_keywords:
 - vbaac10.chm4183
-ms.prod: access
 api_name:
 - Access.DoCmd.SetWarnings
 ms.assetid: fe8cbd54-fa63-4057-8ea2-da9ba79ed1a6

@@ -3,7 +3,6 @@ title: ListBox.FontWeight property (Access)
 keywords: vbaac10.chm11255
 f1_keywords:
 - vbaac10.chm11255
-ms.prod: access
 api_name:
 - Access.ListBox.FontWeight
 ms.assetid: 7c5ea418-3b2d-9ec9-3418-250d1496903c

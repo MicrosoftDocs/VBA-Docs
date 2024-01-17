@@ -3,7 +3,6 @@ title: Application.SaveAsTemplate method (Access)
 keywords: vbaac10.chm14524
 f1_keywords:
 - vbaac10.chm14524
-ms.prod: access
 api_name:
 - Access.Application.SaveAsTemplate
 ms.assetid: 3f796181-70c7-f372-92e9-0c2dbbc7262a

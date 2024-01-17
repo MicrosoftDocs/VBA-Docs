@@ -1,6 +1,5 @@
 ---
 title: Missing destination field name in UPDATE statement <statement>. (Error 3106)
-ms.prod: access
 ms.assetid: e7bca22f-e192-95bf-f53b-06f46c1476e2
 ms.date: 06/08/2019
 ms.localizationpriority: medium

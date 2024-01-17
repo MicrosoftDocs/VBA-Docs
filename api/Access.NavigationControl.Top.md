@@ -3,7 +3,6 @@ title: NavigationControl.Top property (Access)
 keywords: vbaac10.chm11072
 f1_keywords:
 - vbaac10.chm11072
-ms.prod: access
 api_name:
 - Access.NavigationControl.Top
 ms.assetid: 76681117-639d-8e4c-4a3b-7c68e3863928

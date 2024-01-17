@@ -3,7 +3,6 @@ title: NavigationButton.Section property (Access)
 keywords: vbaac10.chm10487
 f1_keywords:
 - vbaac10.chm10487
-ms.prod: access
 api_name:
 - Access.NavigationButton.Section
 ms.assetid: 810c32b5-2a6a-b6d2-65bc-96f28b3f9547

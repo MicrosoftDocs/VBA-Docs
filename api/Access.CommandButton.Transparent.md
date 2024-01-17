@@ -3,7 +3,6 @@ title: CommandButton.Transparent property (Access)
 keywords: vbaac10.chm10454,vbaac10.chm4526
 f1_keywords:
 - vbaac10.chm10454,vbaac10.chm4526
-ms.prod: access
 api_name:
 - Access.CommandButton.Transparent
 ms.assetid: 655e127e-7e2e-c2c2-a979-952f95c534a6

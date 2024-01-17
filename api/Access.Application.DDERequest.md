@@ -3,7 +3,6 @@ title: Application.DDERequest method (Access)
 keywords: vbaac10.chm12542
 f1_keywords:
 - vbaac10.chm12542
-ms.prod: access
 api_name:
 - Access.Application.DDERequest
 ms.assetid: c6f5f472-aeac-6de9-8133-bebfc5887eee

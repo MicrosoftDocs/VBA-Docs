@@ -3,7 +3,6 @@ title: Form.Painting property (Access)
 keywords: vbaac10.chm13416
 f1_keywords:
 - vbaac10.chm13416
-ms.prod: access
 api_name:
 - Access.Form.Painting
 ms.assetid: 6fbbd097-8882-b633-bbd6-9dcc0bb31db9

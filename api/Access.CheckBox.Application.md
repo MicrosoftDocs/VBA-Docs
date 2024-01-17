@@ -3,7 +3,6 @@ title: CheckBox.Application property (Access)
 keywords: vbaac10.chm10682
 f1_keywords:
 - vbaac10.chm10682
-ms.prod: access
 api_name:
 - Access.CheckBox.Application
 ms.assetid: b47ba26d-bd87-ec43-381a-c93b654c08e2

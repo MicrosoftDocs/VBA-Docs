@@ -3,7 +3,6 @@ title: OptionButton.OldBorderStyle property (Access)
 keywords: vbaac10.chm10588
 f1_keywords:
 - vbaac10.chm10588
-ms.prod: access
 api_name:
 - Access.OptionButton.OldBorderStyle
 ms.assetid: 77dbbfbd-9ddc-951c-1376-231ff8a0a768

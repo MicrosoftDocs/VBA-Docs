@@ -3,7 +3,6 @@ title: Pages.Count property (Access)
 keywords: vbaac10.chm10127
 f1_keywords:
 - vbaac10.chm10127
-ms.prod: access
 api_name:
 - Access.Pages.Count
 ms.assetid: 6bf4c0b5-5ee5-a02e-ada8-4d9771287a82

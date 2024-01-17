@@ -3,7 +3,6 @@ title: BoundObjectFrame.OLEType property (Access)
 keywords: vbaac10.chm10958
 f1_keywords:
 - vbaac10.chm10958
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OLEType
 ms.assetid: 9ce7cb88-e13e-4cda-bfe7-096734b796a0

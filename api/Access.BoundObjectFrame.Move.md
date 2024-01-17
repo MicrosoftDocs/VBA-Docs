@@ -3,7 +3,6 @@ title: BoundObjectFrame.Move method (Access)
 keywords: vbaac10.chm10977
 f1_keywords:
 - vbaac10.chm10977
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Move
 ms.assetid: 69784663-48ac-5c7f-d21d-0b0f10ba7284

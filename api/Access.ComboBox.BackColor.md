@@ -3,7 +3,6 @@ title: ComboBox.BackColor property (Access)
 keywords: vbaac10.chm11406
 f1_keywords:
 - vbaac10.chm11406
-ms.prod: access
 api_name:
 - Access.ComboBox.BackColor
 ms.assetid: 63e7e016-f06f-4426-748a-b01d5550f727

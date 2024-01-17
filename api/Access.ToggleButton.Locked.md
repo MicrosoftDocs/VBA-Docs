@@ -3,7 +3,6 @@ title: ToggleButton.Locked property (Access)
 keywords: vbaac10.chm11713
 f1_keywords:
 - vbaac10.chm11713
-ms.prod: access
 api_name:
 - Access.ToggleButton.Locked
 ms.assetid: 1fb9951a-e531-0423-38bf-f7e4c922acc6

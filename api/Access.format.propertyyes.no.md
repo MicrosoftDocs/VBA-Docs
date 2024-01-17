@@ -3,7 +3,6 @@ title: Yes/No data type (Format property)
 keywords: vbaac10.chm5187268
 f1_keywords:
 - vbaac10.chm5187268
-ms.prod: access
 ms.assetid: 51b9af9b-8c43-8f3a-cf93-fc0f3a7eb0a5
 ms.date: 11/29/2018
 ms.localizationpriority: medium

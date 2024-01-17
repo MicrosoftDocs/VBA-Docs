@@ -3,7 +3,6 @@ title: ComboBox.Dirty event (Access)
 keywords: vbaac10.chm14227
 f1_keywords:
 - vbaac10.chm14227
-ms.prod: access
 api_name:
 - Access.ComboBox.Dirty
 ms.assetid: 15273cae-5466-0e5c-1783-796458ceb34d

@@ -1,6 +1,5 @@
 ---
 title: Extra ). (Error 2435)
-ms.prod: access
 ms.assetid: 3cccffec-c398-024d-8682-322d13f0bad5
 ms.date: 06/08/2019
 ms.localizationpriority: medium

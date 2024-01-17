@@ -3,7 +3,6 @@ title: Report.DrawStyle property (Access)
 keywords: vbaac10.chm13754
 f1_keywords:
 - vbaac10.chm13754
-ms.prod: access
 api_name:
 - Access.Report.DrawStyle
 ms.assetid: 0dd2afb9-d310-3637-6ed7-e66c9ad3460d

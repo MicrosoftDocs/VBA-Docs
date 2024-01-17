@@ -3,7 +3,6 @@ title: Label.SpecialEffect property (Access)
 keywords: vbaac10.chm10203
 f1_keywords:
 - vbaac10.chm10203
-ms.prod: access
 api_name:
 - Access.Label.SpecialEffect
 ms.assetid: 2c641afc-f957-146d-08a6-b972cd2bb7a1

@@ -3,7 +3,6 @@ title: NavigationButton.MouseUp event (Access)
 keywords: vbaac10.chm14085
 f1_keywords:
 - vbaac10.chm14085
-ms.prod: access
 api_name:
 - Access.NavigationButton.MouseUp
 ms.assetid: 1d90a1f7-6cad-f296-aa22-b066fc0c4787

@@ -1,6 +1,5 @@
 ---
 title: Modify a query from a DAO Recordset
-ms.prod: access
 ms.assetid: b5679ca8-9bcd-2d28-15af-2640db727dd4
 ms.date: 09/21/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: OptionButton.KeyPress event (Access)
 keywords: vbaac10.chm14145
 f1_keywords:
 - vbaac10.chm14145
-ms.prod: access
 api_name:
 - Access.OptionButton.KeyPress
 ms.assetid: e2b8a352-2fd2-8bdb-0842-6f8e73868c0c

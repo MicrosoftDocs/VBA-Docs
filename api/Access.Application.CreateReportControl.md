@@ -3,7 +3,6 @@ title: Application.CreateReportControl method (Access)
 keywords: vbaac10.chm12623
 f1_keywords:
 - vbaac10.chm12623
-ms.prod: access
 api_name:
 - Access.Application.CreateReportControl
 ms.assetid: 4b970377-450b-9909-f5c3-cb7f8445139f

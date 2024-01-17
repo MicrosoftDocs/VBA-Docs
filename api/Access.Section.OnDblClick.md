@@ -3,7 +3,6 @@ title: Section.OnDblClick property (Access)
 keywords: vbaac10.chm12208
 f1_keywords:
 - vbaac10.chm12208
-ms.prod: access
 api_name:
 - Access.Section.OnDblClick
 ms.assetid: b8c90deb-b35a-442e-a00a-2309d2285649

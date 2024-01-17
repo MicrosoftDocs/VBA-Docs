@@ -3,7 +3,6 @@ title: CustomControl.Exit event (Access)
 keywords: vbaac10.chm14116
 f1_keywords:
 - vbaac10.chm14116
-ms.prod: access
 api_name:
 - Access.CustomControl.Exit
 ms.assetid: 3e78fb94-69d0-0192-d5e9-f14d8bbf8c4e

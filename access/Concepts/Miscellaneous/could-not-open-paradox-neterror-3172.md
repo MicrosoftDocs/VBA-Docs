@@ -3,7 +3,6 @@ title: Could not open Paradox.net. (Error 3172)
 keywords: jeterr40.chm5003172
 f1_keywords:
 - jeterr40.chm5003172
-ms.prod: access
 ms.assetid: f42fa1fd-fb7c-3c88-f44a-c77925cc520b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

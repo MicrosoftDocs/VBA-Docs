@@ -3,7 +3,6 @@ title: CheckBox.OnKeyPress property (Access)
 keywords: vbaac10.chm10748
 f1_keywords:
 - vbaac10.chm10748
-ms.prod: access
 api_name:
 - Access.CheckBox.OnKeyPress
 ms.assetid: a1f83ff8-b334-0314-8041-38a357b8c5a8

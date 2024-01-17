@@ -3,7 +3,6 @@ title: Module.ProcOfLine property (Access)
 keywords: vbaac10.chm12283
 f1_keywords:
 - vbaac10.chm12283
-ms.prod: access
 api_name:
 - Access.Module.ProcOfLine
 ms.assetid: 64a21820-923d-a816-6b6e-2a679d0e09ac

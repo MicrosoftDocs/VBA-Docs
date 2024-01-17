@@ -3,7 +3,6 @@ title: Page.OnMouseUp property (Access)
 keywords: vbaac10.chm12171
 f1_keywords:
 - vbaac10.chm12171
-ms.prod: access
 api_name:
 - Access.Page.OnMouseUp
 ms.assetid: a260efe8-c226-eb95-de0a-284b47b035ec

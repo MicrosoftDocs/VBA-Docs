@@ -3,7 +3,6 @@ title: CommandButton.ForeTint property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: access
 api_name:
 - Access.CommandButton.ForeTint
 ms.assetid: 87b29d73-fdbf-0ffa-d2eb-78d182625458

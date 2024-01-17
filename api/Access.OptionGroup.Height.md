@@ -3,7 +3,6 @@ title: OptionGroup.Height property (Access)
 keywords: vbaac10.chm10837
 f1_keywords:
 - vbaac10.chm10837
-ms.prod: access
 api_name:
 - Access.OptionGroup.Height
 ms.assetid: f0b715ff-a1d4-4040-59e6-818705042691

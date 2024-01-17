@@ -1,7 +1,6 @@
 ---
 title: In operator (Microsoft Access SQL)
 ROBOTS: INDEX
-ms.prod: access
 ms.assetid: ee4f1d71-82c4-3b0d-94b6-ad3f5a7608b8
 ms.date: 12/29/2021
 ms.localizationpriority: medium

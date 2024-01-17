@@ -3,7 +3,6 @@ title: SubForm.ControlType property (Access)
 keywords: vbaac10.chm11925
 f1_keywords:
 - vbaac10.chm11925
-ms.prod: access
 api_name:
 - Access.SubForm.ControlType
 ms.assetid: 420dcf64-a559-d7ad-21f2-20f036997d64

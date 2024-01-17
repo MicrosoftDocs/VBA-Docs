@@ -3,7 +3,6 @@ title: OptionButton.MouseUp event (Access)
 keywords: vbaac10.chm14143
 f1_keywords:
 - vbaac10.chm14143
-ms.prod: access
 api_name:
 - Access.OptionButton.MouseUp
 ms.assetid: 55ee8314-8ae6-f0d7-5fcc-ae1000bef664

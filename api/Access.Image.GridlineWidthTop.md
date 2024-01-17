@@ -3,7 +3,6 @@ title: Image.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10422
 f1_keywords:
 - vbaac10.chm10422
-ms.prod: access
 api_name:
 - Access.Image.GridlineWidthTop
 ms.assetid: 33a170d3-0f09-3fc2-8a2f-cd12e93a879a

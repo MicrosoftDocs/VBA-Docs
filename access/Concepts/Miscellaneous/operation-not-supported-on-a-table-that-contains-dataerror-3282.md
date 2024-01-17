@@ -3,7 +3,6 @@ title: Operation not supported on a table that contains data. (Error 3282)
 keywords: jeterr40.chm5003282
 f1_keywords:
 - jeterr40.chm5003282
-ms.prod: access
 ms.assetid: 61d1a917-246f-dc06-0c3c-8a1cee840706
 ms.date: 06/08/2019
 ms.localizationpriority: medium

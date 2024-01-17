@@ -3,7 +3,6 @@ title: Could not find installable ISAM. (Error 3170)
 keywords: jeterr40.chm5003170
 f1_keywords:
 - jeterr40.chm5003170
-ms.prod: access
 ms.assetid: 1a97fb83-4732-0f8f-9fb0-d5a11236797c
 ms.date: 06/08/2019
 ms.localizationpriority: medium

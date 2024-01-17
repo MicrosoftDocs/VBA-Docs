@@ -3,7 +3,6 @@ title: AccessObjectProperties.Add method (Access)
 keywords: vbaac10.chm12703
 f1_keywords:
 - vbaac10.chm12703
-ms.prod: access
 api_name:
 - Access.AccessObjectProperties.Add
 ms.assetid: 8f86d5f8-b9af-87d3-fae4-e1a24d7225b6

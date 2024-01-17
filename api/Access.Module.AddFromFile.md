@@ -3,7 +3,6 @@ title: Module.AddFromFile method (Access)
 keywords: vbaac10.chm12274
 f1_keywords:
 - vbaac10.chm12274
-ms.prod: access
 api_name:
 - Access.Module.AddFromFile
 ms.assetid: a782b4dc-a4be-5166-3ce3-deb87ed1195b

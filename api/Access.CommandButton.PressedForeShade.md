@@ -3,7 +3,6 @@ title: CommandButton.PressedForeShade property (Access)
 keywords: vbaac10.chm14626
 f1_keywords:
 - vbaac10.chm14626
-ms.prod: access
 api_name:
 - Access.CommandButton.PressedForeShade
 ms.assetid: 496e310e-b5eb-8e6a-7079-530126e71399

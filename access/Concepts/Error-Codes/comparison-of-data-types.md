@@ -3,7 +3,6 @@ title: Comparison of data types
 keywords: vbaac10.chm5186571
 f1_keywords:
 - vbaac10.chm5186571
-ms.prod: access
 ms.assetid: b1e954f8-e407-ae13-e3d9-a24d3502290a
 ms.date: 09/21/2018
 ms.localizationpriority: medium

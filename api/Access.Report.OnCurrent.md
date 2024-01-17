@@ -3,7 +3,6 @@ title: Report.OnCurrent property (Access)
 keywords: vbaac10.chm13823
 f1_keywords:
 - vbaac10.chm13823
-ms.prod: access
 api_name:
 - Access.Report.OnCurrent
 ms.assetid: 593fdb6c-017a-986f-22ef-cc9e66aaaf01

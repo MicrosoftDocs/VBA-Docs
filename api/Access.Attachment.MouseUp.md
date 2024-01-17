@@ -3,7 +3,6 @@ title: Attachment.MouseUp event (Access)
 keywords: vbaac10.chm14031
 f1_keywords:
 - vbaac10.chm14031
-ms.prod: access
 api_name:
 - Access.Attachment.MouseUp
 ms.assetid: af4d03e6-af13-d91f-168f-70e90783aa2a

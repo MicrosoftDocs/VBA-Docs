@@ -3,7 +3,6 @@ title: TO (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277483
 f1_keywords:
 - jetsql40.chm5277483
-ms.prod: access
 ms.assetid: 24702b66-ec52-54d1-834d-cbbe45a52f2a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

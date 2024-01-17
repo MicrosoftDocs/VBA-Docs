@@ -3,7 +3,6 @@ title: ObjectFrame.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11652
 f1_keywords:
 - vbaac10.chm11652
-ms.prod: access
 api_name:
 - Access.ObjectFrame.HorizontalAnchor
 ms.assetid: 8476d254-0e20-8c36-961a-3732b59a5b99

@@ -3,7 +3,6 @@ title: Section object (Access)
 keywords: vbaac10.chm12235
 f1_keywords:
 - vbaac10.chm12235
-ms.prod: access
 api_name:
 - Access.Section
 ms.assetid: 9edc5e29-bdd6-7627-230e-ca3812e0414e

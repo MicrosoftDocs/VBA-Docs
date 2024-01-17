@@ -3,7 +3,6 @@ title: DoCmd.Requery method (Access)
 keywords: vbaac10.chm4170
 f1_keywords:
 - vbaac10.chm4170
-ms.prod: access
 api_name:
 - Access.DoCmd.Requery
 ms.assetid: 6869c39f-b43f-ad83-4140-67b763342605

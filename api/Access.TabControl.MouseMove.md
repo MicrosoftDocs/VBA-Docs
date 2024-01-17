@@ -3,7 +3,6 @@ title: TabControl.MouseMove event (Access)
 keywords: vbaac10.chm14273
 f1_keywords:
 - vbaac10.chm14273
-ms.prod: access
 api_name:
 - Access.TabControl.MouseMove
 ms.assetid: e684139a-dfde-c9b0-389d-fae941caa481

@@ -3,7 +3,6 @@ title: DoCmd.TransferSpreadsheet method (Access)
 keywords: vbaac10.chm4189
 f1_keywords:
 - vbaac10.chm4189
-ms.prod: access
 api_name:
 - Access.DoCmd.TransferSpreadsheet
 ms.assetid: 0349d8e0-9363-0eda-4efb-a73c9e643823

@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm10005
 f1_keywords:
 - vbaac10.chm10005
-ms.prod: access
 api_name:
 - Access.OldConstants
 ms.assetid: 8a4a0adb-be39-1211-748e-1c4d680b5502

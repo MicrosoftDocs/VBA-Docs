@@ -3,7 +3,6 @@ title: CustomControl.ObjectVerbsCount property (Access)
 keywords: vbaac10.chm12037
 f1_keywords:
 - vbaac10.chm12037
-ms.prod: access
 api_name:
 - Access.CustomControl.ObjectVerbsCount
 ms.assetid: f7c74900-3f0d-b6b1-3606-ca8d206f85b3

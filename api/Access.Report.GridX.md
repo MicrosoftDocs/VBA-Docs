@@ -3,7 +3,6 @@ title: Report.GridX property (Access)
 keywords: vbaac10.chm13713
 f1_keywords:
 - vbaac10.chm13713
-ms.prod: access
 api_name:
 - Access.Report.GridX
 ms.assetid: b932531f-89d3-5f8e-d6cc-43baf1004149

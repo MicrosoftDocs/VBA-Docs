@@ -3,7 +3,6 @@ title: TabControl.ForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: access
 api_name:
 - Access.TabControl.ForeThemeColorIndex
 ms.assetid: 8c08538f-4bfd-ac57-3b48-61d33deaa520

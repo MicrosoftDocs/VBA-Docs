@@ -3,7 +3,6 @@ title: Report.DrawMode property (Access)
 keywords: vbaac10.chm13753
 f1_keywords:
 - vbaac10.chm13753
-ms.prod: access
 api_name:
 - Access.Report.DrawMode
 ms.assetid: 773a3c7f-fb59-9614-3363-b417607fbe28

@@ -3,7 +3,6 @@ title: ListBox.Properties property (Access)
 keywords: vbaac10.chm11210
 f1_keywords:
 - vbaac10.chm11210
-ms.prod: access
 api_name:
 - Access.ListBox.Properties
 ms.assetid: ff0caafd-dc7c-21fc-a3d2-f6caf63899be

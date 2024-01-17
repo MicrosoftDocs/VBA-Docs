@@ -3,7 +3,6 @@ title: Label.FontBold property (Access)
 keywords: vbaac10.chm10217
 f1_keywords:
 - vbaac10.chm10217
-ms.prod: access
 api_name:
 - Access.Label.FontBold
 ms.assetid: 95394797-9cf9-ec4d-872f-a937eabcce34

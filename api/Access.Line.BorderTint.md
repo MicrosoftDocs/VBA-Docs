@@ -3,7 +3,6 @@ title: Line.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.Line.BorderTint
 ms.assetid: 904bd124-3f3e-40ac-77b7-4ba10716ae02

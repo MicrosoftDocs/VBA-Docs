@@ -3,7 +3,6 @@ title: ObjectFrame.SourceDoc property (Access)
 keywords: vbaac10.chm11575
 f1_keywords:
 - vbaac10.chm11575
-ms.prod: access
 api_name:
 - Access.ObjectFrame.SourceDoc
 ms.assetid: 23a45f7f-b4e2-fc93-6049-c9298e199202

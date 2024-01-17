@@ -3,7 +3,6 @@ title: The Microsoft Access database engine has already been initialized. (Error
 keywords: jeterr40.chm5003279
 f1_keywords:
 - jeterr40.chm5003279
-ms.prod: access
 ms.assetid: 8dbdd2a6-8753-9c00-377a-8ed071b648d9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

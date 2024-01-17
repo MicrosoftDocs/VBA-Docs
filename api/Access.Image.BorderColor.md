@@ -3,7 +3,6 @@ title: Image.BorderColor property (Access)
 keywords: vbaac10.chm10385
 f1_keywords:
 - vbaac10.chm10385
-ms.prod: access
 api_name:
 - Access.Image.BorderColor
 ms.assetid: 4bbc6f2a-c672-f3e3-a86d-287fa020a43d

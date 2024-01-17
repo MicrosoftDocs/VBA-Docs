@@ -3,7 +3,6 @@ title: FormatConditions object (Access)
 keywords: vbaac10.chm10066
 f1_keywords:
 - vbaac10.chm10066
-ms.prod: access
 api_name:
 - Access.FormatConditions
 ms.assetid: 0a1cd89b-6690-8272-ebd9-d841e9fb1d4c

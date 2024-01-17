@@ -3,7 +3,6 @@ title: Image.Move method (Access)
 keywords: vbaac10.chm10405
 f1_keywords:
 - vbaac10.chm10405
-ms.prod: access
 api_name:
 - Access.Image.Move
 ms.assetid: feda7964-0d93-b3e2-36b1-5c68054cdff1

@@ -3,7 +3,6 @@ title: ChartSeries object (Access)
 keywords: vbaac10.chm14750
 f1_keywords:
 - vbaac10.chm14750
-ms.prod: access
 api_name:
 - Access.ChartSeries
 ms.date: 11/28/2018

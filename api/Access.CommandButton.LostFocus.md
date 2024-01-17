@@ -3,7 +3,6 @@ title: CommandButton.LostFocus event (Access)
 keywords: vbaac10.chm14081
 f1_keywords:
 - vbaac10.chm14081
-ms.prod: access
 api_name:
 - Access.CommandButton.LostFocus
 ms.assetid: a8c29b13-5757-7be9-7111-81f847c8ec32

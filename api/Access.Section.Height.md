@@ -3,7 +3,6 @@ title: Section.Height property (Access)
 keywords: vbaac10.chm12200
 f1_keywords:
 - vbaac10.chm12200
-ms.prod: access
 api_name:
 - Access.Section.Height
 ms.assetid: 7e568d9f-518b-6d26-e960-dac84e93d45b

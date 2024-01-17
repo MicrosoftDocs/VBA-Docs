@@ -3,7 +3,6 @@ title: Section.AlternateBackShade property (Access)
 keywords: vbaac10.chm14609
 f1_keywords:
 - vbaac10.chm14609
-ms.prod: access
 api_name:
 - Access.Section.AlternateBackShade
 ms.assetid: 0554bd30-1881-39c3-75ed-39d9164a7ae5

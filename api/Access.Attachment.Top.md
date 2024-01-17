@@ -3,7 +3,6 @@ title: Attachment.Top property (Access)
 keywords: vbaac10.chm13921
 f1_keywords:
 - vbaac10.chm13921
-ms.prod: access
 api_name:
 - Access.Attachment.Top
 ms.assetid: 051c785a-7e71-fb5c-c00c-c86bdaf7194b

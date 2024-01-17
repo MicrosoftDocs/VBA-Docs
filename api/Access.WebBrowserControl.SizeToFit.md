@@ -3,7 +3,6 @@ title: WebBrowserControl.SizeToFit method (Access)
 keywords: vbaac10.chm14352
 f1_keywords:
 - vbaac10.chm14352
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.SizeToFit
 ms.assetid: 3b296b66-1193-92de-61ee-c29cae54735b

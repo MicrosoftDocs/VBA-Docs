@@ -3,7 +3,6 @@ title: Report.FontBold property (Access)
 keywords: vbaac10.chm13748
 f1_keywords:
 - vbaac10.chm13748
-ms.prod: access
 api_name:
 - Access.Report.FontBold
 ms.assetid: 0a3589d9-96a3-0a48-03a5-4e08f9da2c74

@@ -3,7 +3,6 @@ title: Line.Top property (Access)
 keywords: vbaac10.chm10333
 f1_keywords:
 - vbaac10.chm10333
-ms.prod: access
 api_name:
 - Access.Line.Top
 ms.assetid: 58457c20-e300-ebc2-dfc3-05d73e4f145e

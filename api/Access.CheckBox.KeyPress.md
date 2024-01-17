@@ -3,7 +3,6 @@ title: CheckBox.KeyPress event (Access)
 keywords: vbaac10.chm14131
 f1_keywords:
 - vbaac10.chm14131
-ms.prod: access
 api_name:
 - Access.CheckBox.KeyPress
 ms.assetid: 946df95c-da92-1977-6bb5-ecabbb5f8ee2

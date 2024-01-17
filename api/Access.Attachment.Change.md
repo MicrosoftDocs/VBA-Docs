@@ -3,7 +3,6 @@ title: Attachment.Change event (Access)
 keywords: vbaac10.chm14024
 f1_keywords:
 - vbaac10.chm14024
-ms.prod: access
 api_name:
 - Access.Attachment.Change
 ms.assetid: 5b34517d-f3a8-a10d-1bc3-ed3bc8ecc484

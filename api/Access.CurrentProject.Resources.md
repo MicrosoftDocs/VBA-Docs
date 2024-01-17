@@ -3,7 +3,6 @@ title: CurrentProject.Resources property (Access)
 keywords: vbaac10.chm14653
 f1_keywords:
 - vbaac10.chm14653
-ms.prod: access
 api_name:
 - Access.CurrentProject.Resources
 ms.assetid: 2edc7258-77b3-5d09-22eb-1620d460f0f3

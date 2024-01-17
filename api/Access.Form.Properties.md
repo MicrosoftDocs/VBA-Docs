@@ -3,7 +3,6 @@ title: Form.Properties property (Access)
 keywords: vbaac10.chm13501
 f1_keywords:
 - vbaac10.chm13501
-ms.prod: access
 api_name:
 - Access.Form.Properties
 ms.assetid: 6259b555-293b-2095-eb54-09a2b532e2a3

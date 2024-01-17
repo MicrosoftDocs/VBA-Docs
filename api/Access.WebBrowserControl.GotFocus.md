@@ -3,7 +3,6 @@ title: WebBrowserControl.GotFocus event (Access)
 keywords: vbaac10.chm143130
 f1_keywords:
 - vbaac10.chm143130
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GotFocus
 ms.assetid: 713bf0e2-6a6c-f377-1667-48c9cee79703

@@ -3,7 +3,6 @@ title: Application.DBEngine property (Access)
 keywords: vbaac10.chm12545
 f1_keywords:
 - vbaac10.chm12545
-ms.prod: access
 api_name:
 - Access.Application.DBEngine
 ms.assetid: ad4638e4-0c72-ce24-e322-e147e2f0cfc2

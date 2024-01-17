@@ -3,7 +3,6 @@ title: AllForms.Count property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: access
 api_name:
 - Access.AllForms.Count
 ms.assetid: 1540145e-541d-10fc-249b-9fadc6861a11

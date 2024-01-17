@@ -3,7 +3,6 @@ title: Attachment.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm13992
 f1_keywords:
 - vbaac10.chm13992
-ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleLeft
 ms.assetid: 0a67119c-035e-157d-f47d-4f5cd3f356c8

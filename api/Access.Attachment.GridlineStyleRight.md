@@ -3,7 +3,6 @@ title: Attachment.GridlineStyleRight property (Access)
 keywords: vbaac10.chm13994
 f1_keywords:
 - vbaac10.chm13994
-ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleRight
 ms.assetid: c91f1804-656b-1c5d-84c5-3ac51a57ec20

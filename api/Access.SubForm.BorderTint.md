@@ -3,7 +3,6 @@ title: SubForm.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.SubForm.BorderTint
 ms.assetid: 84f061ad-fe6f-ca8f-f4d5-c1dfd9c3949f

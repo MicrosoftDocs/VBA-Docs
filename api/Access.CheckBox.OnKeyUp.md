@@ -3,7 +3,6 @@ title: CheckBox.OnKeyUp property (Access)
 keywords: vbaac10.chm10747
 f1_keywords:
 - vbaac10.chm10747
-ms.prod: access
 api_name:
 - Access.CheckBox.OnKeyUp
 ms.assetid: a3e08de2-f135-b7e2-6d7e-c3030674f7be

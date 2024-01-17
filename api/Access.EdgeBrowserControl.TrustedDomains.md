@@ -3,7 +3,6 @@ title: EdgeBrowserControl.TrustedDomains property (Access)
 keywords: vbaac10.chm6171
 f1_keywords:
 - vbaac10.chm6171
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.TrustedDomains
 ms.assetid: 1c444ac8-d021-49ef-8687-f05f21e10bdb

@@ -3,7 +3,6 @@ title: Form.MouseDown event (Access)
 keywords: vbaac10.chm13652
 f1_keywords:
 - vbaac10.chm13652
-ms.prod: access
 api_name:
 - Access.Form.MouseDown
 ms.assetid: 09b8822b-9e13-3640-5fab-77fd00d8b68f

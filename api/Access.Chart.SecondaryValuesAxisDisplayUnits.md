@@ -3,7 +3,6 @@ title: Chart.SecondaryValuesAxisDisplayUnits property (Access)
 keywords: vbaac10.chm6128
 f1_keywords:
 - vbaac10.chm6128
-ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisDisplayUnits
 ms.date: 11/28/2018

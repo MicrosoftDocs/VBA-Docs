@@ -3,7 +3,6 @@ title: ToggleButton.Exit event (Access)
 keywords: vbaac10.chm14151
 f1_keywords:
 - vbaac10.chm14151
-ms.prod: access
 api_name:
 - Access.ToggleButton.Exit
 ms.assetid: bdff5a6a-fd28-f33e-7926-360d438b1e71

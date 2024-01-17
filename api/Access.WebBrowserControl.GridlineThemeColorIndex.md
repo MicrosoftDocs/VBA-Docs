@@ -3,7 +3,6 @@ title: WebBrowserControl.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineThemeColorIndex
 ms.assetid: 395f1137-8862-7cdb-47c1-3c82676d9968

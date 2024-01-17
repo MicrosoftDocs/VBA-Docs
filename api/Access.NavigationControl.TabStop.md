@@ -3,7 +3,6 @@ title: NavigationControl.TabStop property (Access)
 keywords: vbaac10.chm11064
 f1_keywords:
 - vbaac10.chm11064
-ms.prod: access
 api_name:
 - Access.NavigationControl.TabStop
 ms.assetid: 40aeb05f-b94f-ee88-5e98-0f77599c7a14

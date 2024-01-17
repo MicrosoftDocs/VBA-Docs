@@ -3,7 +3,6 @@ title: "Invalid SQL syntax - expected token: Database (Error 3785)"
 keywords: jeterr40.chm5003785
 f1_keywords:
 - jeterr40.chm5003785
-ms.prod: access
 ms.assetid: 420d6778-78e5-12c0-353d-8af5dda5e459
 ms.date: 06/08/2019
 ms.localizationpriority: medium
