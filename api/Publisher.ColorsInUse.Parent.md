@@ -3,7 +3,6 @@ title: ColorsInUse.Parent property (Publisher)
 keywords: vbapb10.chm2949123
 f1_keywords:
 - vbapb10.chm2949123
-ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse.Parent
 ms.assetid: 79b6be2a-ff88-c04e-7488-d3ed3bc94c1d

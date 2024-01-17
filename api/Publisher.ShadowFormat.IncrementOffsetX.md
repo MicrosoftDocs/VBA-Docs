@@ -3,7 +3,6 @@ title: ShadowFormat.IncrementOffsetX method (Publisher)
 keywords: vbapb10.chm3670032
 f1_keywords:
 - vbapb10.chm3670032
-ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.IncrementOffsetX
 ms.assetid: 05c25f0f-beac-2b25-630b-57d4a3bdb0c9

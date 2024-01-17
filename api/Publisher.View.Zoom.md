@@ -3,7 +3,6 @@ title: View.Zoom property (Publisher)
 keywords: vbapb10.chm327684
 f1_keywords:
 - vbapb10.chm327684
-ms.prod: publisher
 api_name:
 - Publisher.View.Zoom
 ms.assetid: 31727291-740b-4e77-9c6b-9f19523488cb

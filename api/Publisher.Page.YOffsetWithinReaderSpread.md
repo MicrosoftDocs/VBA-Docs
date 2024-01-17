@@ -3,7 +3,6 @@ title: Page.YOffsetWithinReaderSpread property (Publisher)
 keywords: vbapb10.chm393237
 f1_keywords:
 - vbapb10.chm393237
-ms.prod: publisher
 api_name:
 - Publisher.Page.YOffsetWithinReaderSpread
 ms.assetid: 765adae3-af5d-ae37-5b1c-284cce8891ca

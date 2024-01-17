@@ -3,7 +3,6 @@ title: Shape.Fill property (Publisher)
 keywords: vbapb10.chm2228279
 f1_keywords:
 - vbapb10.chm2228279
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Fill
 ms.assetid: ff1b8d02-150e-e023-2f0a-b1608cc99644

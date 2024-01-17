@@ -3,7 +3,6 @@ title: Options.AllowBackgroundSave property (Publisher)
 keywords: vbapb10.chm1048577
 f1_keywords:
 - vbapb10.chm1048577
-ms.prod: publisher
 api_name:
 - Publisher.Options.AllowBackgroundSave
 ms.assetid: 5bddfb2d-7fb7-99db-43ea-c6ee53e1d0b3

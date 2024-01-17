@@ -3,7 +3,6 @@ title: WebNavigationBarSet.HorizontalAlignment property (Publisher)
 keywords: vbapb10.chm8519688
 f1_keywords:
 - vbapb10.chm8519688
-ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.HorizontalAlignment
 ms.assetid: 7d615a5a-793c-fd78-3dca-a268740b67aa

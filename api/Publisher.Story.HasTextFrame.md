@@ -3,7 +3,6 @@ title: Story.HasTextFrame property (Publisher)
 keywords: vbapb10.chm5832708
 f1_keywords:
 - vbapb10.chm5832708
-ms.prod: publisher
 api_name:
 - Publisher.Story.HasTextFrame
 ms.assetid: 10c3a002-05ae-1167-784c-d62066de802d

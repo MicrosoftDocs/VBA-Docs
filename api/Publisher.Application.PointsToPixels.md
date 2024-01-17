@@ -3,7 +3,6 @@ title: Application.PointsToPixels method (Publisher)
 keywords: vbapb10.chm131161
 f1_keywords:
 - vbapb10.chm131161
-ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToPixels
 ms.assetid: 9c67fcae-6c93-ddae-cbad-75356e5c5084

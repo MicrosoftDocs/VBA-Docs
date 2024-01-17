@@ -3,7 +3,6 @@ title: LineFormat.BeginArrowheadWidth property (Publisher)
 keywords: vbapb10.chm3408131
 f1_keywords:
 - vbapb10.chm3408131
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.BeginArrowheadWidth
 ms.assetid: a752c674-1b83-b8c8-d325-b61804f5fadc

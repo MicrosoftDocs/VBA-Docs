@@ -3,7 +3,6 @@ title: ShapeRange.Fill property (Publisher)
 keywords: vbapb10.chm2293815
 f1_keywords:
 - vbapb10.chm2293815
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Fill
 ms.assetid: cdff2b6f-52f5-3ab3-c57a-4647888cd96f

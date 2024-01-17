@@ -3,7 +3,6 @@ title: PageSetup.HorizontalGap property (Publisher)
 keywords: vbapb10.chm6946818
 f1_keywords:
 - vbapb10.chm6946818
-ms.prod: publisher
 api_name:
 - Publisher.PageSetup.HorizontalGap
 ms.assetid: e8ee51e0-59b3-8fb6-21f6-87d67a96dd66

@@ -3,7 +3,6 @@ title: Cell.MarginTop property (Publisher)
 keywords: vbapb10.chm5111829
 f1_keywords:
 - vbapb10.chm5111829
-ms.prod: publisher
 api_name:
 - Publisher.Cell.MarginTop
 ms.assetid: f408edd3-7199-b49a-817b-7b0e8461715c

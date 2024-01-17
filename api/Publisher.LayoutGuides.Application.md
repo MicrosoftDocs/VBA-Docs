@@ -3,7 +3,6 @@ title: LayoutGuides.Application property (Publisher)
 keywords: vbapb10.chm1114113
 f1_keywords:
 - vbapb10.chm1114113
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.Application
 ms.assetid: dd90b873-f106-6eb4-9c17-d41cf698c24b

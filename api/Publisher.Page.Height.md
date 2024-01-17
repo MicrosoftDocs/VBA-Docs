@@ -3,7 +3,6 @@ title: Page.Height property (Publisher)
 keywords: vbapb10.chm393240
 f1_keywords:
 - vbapb10.chm393240
-ms.prod: publisher
 api_name:
 - Publisher.Page.Height
 ms.assetid: 7ab931d7-c4aa-4687-44f8-2d03a389cd4f

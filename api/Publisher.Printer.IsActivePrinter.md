@@ -3,7 +3,6 @@ title: Printer.IsActivePrinter property (Publisher)
 keywords: vbapb10.chm8978436
 f1_keywords:
 - vbapb10.chm8978436
-ms.prod: publisher
 api_name:
 - Publisher.Printer.IsActivePrinter
 ms.assetid: 578fc5d4-2601-66db-cdec-657814756e29

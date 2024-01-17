@@ -3,7 +3,6 @@ title: PictureFormat.VerticalPictureLocking property (Publisher)
 keywords: vbapb10.chm3604745
 f1_keywords:
 - vbapb10.chm3604745
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.VerticalPictureLocking
 ms.assetid: 0575d733-b515-2256-7136-6ec07532ab67

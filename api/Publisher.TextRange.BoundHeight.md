@@ -3,7 +3,6 @@ title: TextRange.BoundHeight property (Publisher)
 keywords: vbapb10.chm5308436
 f1_keywords:
 - vbapb10.chm5308436
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.BoundHeight
 ms.assetid: 010d3de9-5838-fbf7-fb75-b80a06aafac8

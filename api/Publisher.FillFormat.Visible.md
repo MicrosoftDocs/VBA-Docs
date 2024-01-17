@@ -3,7 +3,6 @@ title: FillFormat.Visible property (Publisher)
 keywords: vbapb10.chm2359571
 f1_keywords:
 - vbapb10.chm2359571
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Visible
 ms.assetid: 9cbb2604-6c33-de51-71f4-8c0304868cb5

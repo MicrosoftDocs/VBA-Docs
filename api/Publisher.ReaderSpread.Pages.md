@@ -3,7 +3,6 @@ title: ReaderSpread.Pages property (Publisher)
 keywords: vbapb10.chm524293
 f1_keywords:
 - vbapb10.chm524293
-ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Pages
 ms.assetid: 181c37b2-ed3f-826a-5718-ae6aff120eb3

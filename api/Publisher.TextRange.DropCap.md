@@ -3,7 +3,6 @@ title: TextRange.DropCap property (Publisher)
 keywords: vbapb10.chm5308472
 f1_keywords:
 - vbapb10.chm5308472
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.DropCap
 ms.assetid: a5c29dd4-62f4-39fb-4b76-390d62bd8e32

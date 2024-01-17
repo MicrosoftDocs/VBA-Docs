@@ -3,7 +3,6 @@ title: Fields.AddHorizontalInVertical method (Publisher)
 keywords: vbapb10.chm6029319
 f1_keywords:
 - vbapb10.chm6029319
-ms.prod: publisher
 api_name:
 - Publisher.Fields.AddHorizontalInVertical
 ms.assetid: 4b451a24-0d79-70d4-4910-2725f1ed0297

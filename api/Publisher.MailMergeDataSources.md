@@ -3,7 +3,6 @@ title: MailMergeDataSources object (Publisher)
 keywords: vbapb10.chm7274495
 f1_keywords:
 - vbapb10.chm7274495
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources
 ms.assetid: 9eff8354-fbc3-7f55-ba6e-738a60f41259

@@ -3,7 +3,6 @@ title: Font.StylisticSets property (Publisher)
 keywords: vbapb10.chm5374016
 f1_keywords:
 - vbapb10.chm5374016
-ms.prod: publisher
 api_name:
 - Publisher.Font.StylisticSets
 ms.assetid: 0d25fbf3-8d68-c10f-0d1b-526314700329

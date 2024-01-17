@@ -3,7 +3,6 @@ title: Sections.Item property (Publisher)
 keywords: vbapb10.chm7340035
 f1_keywords:
 - vbapb10.chm7340035
-ms.prod: publisher
 api_name:
 - Publisher.Sections.Item
 ms.assetid: 0ca9577b-f046-fc3d-1f4e-412be7114d5c

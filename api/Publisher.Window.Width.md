@@ -3,7 +3,6 @@ title: Window.Width property (Publisher)
 keywords: vbapb10.chm262150
 f1_keywords:
 - vbapb10.chm262150
-ms.prod: publisher
 api_name:
 - Publisher.Window.Width
 ms.assetid: 762df30a-7fdd-8f95-f64b-eae57e7c02fe

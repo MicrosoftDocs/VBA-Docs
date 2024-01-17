@@ -3,7 +3,6 @@ title: Document.ChangeDocument method (Publisher)
 keywords: vbapb10.chm196756
 f1_keywords:
 - vbapb10.chm196756
-ms.prod: publisher
 api_name:
 - Publisher.Document.ChangeDocument
 ms.assetid: c6defa92-99fb-973b-6bb2-e3c2a1b0a4f3

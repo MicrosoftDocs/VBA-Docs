@@ -3,7 +3,6 @@ title: LineFormat.GradientStyle property (Publisher)
 keywords: vbapb10.chm3408151
 f1_keywords:
 - vbapb10.chm3408151
-ms.prod: publisher
 ms.assetid: e5416db9-a145-8f71-2d75-1720191922bb
 ms.date: 06/08/2019
 ms.localizationpriority: medium

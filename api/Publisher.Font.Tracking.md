@@ -3,7 +3,6 @@ title: Font.Tracking property (Publisher)
 keywords: vbapb10.chm5373984
 f1_keywords:
 - vbapb10.chm5373984
-ms.prod: publisher
 api_name:
 - Publisher.Font.Tracking
 ms.assetid: c703a5ec-e8d7-36ce-ac50-d41265ce92db

@@ -3,7 +3,6 @@ title: MasterPages.FindByPageID method (Publisher)
 keywords: vbapb10.chm589830
 f1_keywords:
 - vbapb10.chm589830
-ms.prod: publisher
 api_name:
 - Publisher.MasterPages.FindByPageID
 ms.assetid: 2d05a2ae-853d-bc4c-bff8-0f3489627052

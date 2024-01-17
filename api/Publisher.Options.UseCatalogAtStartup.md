@@ -3,7 +3,6 @@ title: Options.UseCatalogAtStartup property (Publisher)
 keywords: vbapb10.chm1048612
 f1_keywords:
 - vbapb10.chm1048612
-ms.prod: publisher
 api_name:
 - Publisher.Options.UseCatalogAtStartup
 ms.assetid: 7b0cfce9-92f1-5491-c550-421d1c848e0f

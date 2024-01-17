@@ -3,7 +3,6 @@ title: Pages.Count property (Publisher)
 keywords: vbapb10.chm458755
 f1_keywords:
 - vbapb10.chm458755
-ms.prod: publisher
 api_name:
 - Publisher.Pages.Count
 ms.assetid: 6cc42bb4-4862-6a59-168b-6a97a7e114c8

@@ -3,7 +3,6 @@ title: WebOptions.ShowOnlyWebFonts property (Publisher)
 keywords: vbapb10.chm8257544
 f1_keywords:
 - vbapb10.chm8257544
-ms.prod: publisher
 api_name:
 - Publisher.WebOptions.ShowOnlyWebFonts
 ms.assetid: d18197f4-9abe-d523-77fd-f33a8ecc8076

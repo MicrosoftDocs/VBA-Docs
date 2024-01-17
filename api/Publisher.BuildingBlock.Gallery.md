@@ -1,6 +1,5 @@
 ---
 title: BuildingBlock.Gallery property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Gallery
 ms.assetid: ed6941ae-8c59-7c11-226b-e673b8c1363c

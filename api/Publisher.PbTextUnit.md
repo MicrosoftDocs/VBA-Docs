@@ -3,7 +3,6 @@ title: PbTextUnit enumeration (Publisher)
 keywords: vbapb10.chm65544
 f1_keywords:
 - vbapb10.chm65544
-ms.prod: publisher
 api_name:
 - Publisher.PbTextUnit
 ms.assetid: 5d64cefa-76f1-1af7-49ef-2b9b804b5ee2

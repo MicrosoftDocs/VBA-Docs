@@ -3,7 +3,6 @@ title: Hyperlink.TargetType property (Publisher)
 keywords: vbapb10.chm4587529
 f1_keywords:
 - vbapb10.chm4587529
-ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.TargetType
 ms.assetid: 1cbc8c36-563c-4464-4f0d-2836682ce532

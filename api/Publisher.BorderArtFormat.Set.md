@@ -3,7 +3,6 @@ title: BorderArtFormat.Set method (Publisher)
 keywords: vbapb10.chm7602185
 f1_keywords:
 - vbapb10.chm7602185
-ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Set
 ms.assetid: e068037b-56b6-a114-6b22-568ea20d6b25

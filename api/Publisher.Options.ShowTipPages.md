@@ -3,7 +3,6 @@ title: Options.ShowTipPages property (Publisher)
 keywords: vbapb10.chm1048609
 f1_keywords:
 - vbapb10.chm1048609
-ms.prod: publisher
 api_name:
 - Publisher.Options.ShowTipPages
 ms.assetid: 44f91cf1-68e3-0755-3114-5dc41a2e4eba

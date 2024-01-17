@@ -3,7 +3,6 @@ title: Rows.Count property (Publisher)
 keywords: vbapb10.chm4915202
 f1_keywords:
 - vbapb10.chm4915202
-ms.prod: publisher
 api_name:
 - Publisher.Rows.Count
 ms.assetid: 790c7616-e9f4-e518-0f4b-6960d144290d

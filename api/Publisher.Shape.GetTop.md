@@ -3,7 +3,6 @@ title: Shape.GetTop method (Publisher)
 keywords: vbapb10.chm2228247
 f1_keywords:
 - vbapb10.chm2228247
-ms.prod: publisher
 api_name:
 - Publisher.Shape.GetTop
 ms.assetid: 65421a42-a16a-2c9d-c510-f1c6066ae0bb

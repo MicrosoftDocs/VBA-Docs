@@ -3,7 +3,6 @@ title: Shapes.AddLabel method (Publisher)
 keywords: vbapb10.chm2162707
 f1_keywords:
 - vbapb10.chm2162707
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddLabel
 ms.assetid: 5a803aa2-d37f-6da1-7d8b-58ee2dcd8146

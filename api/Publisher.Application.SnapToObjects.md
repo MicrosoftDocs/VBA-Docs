@@ -3,7 +3,6 @@ title: Application.SnapToObjects property (Publisher)
 keywords: vbapb10.chm131111
 f1_keywords:
 - vbapb10.chm131111
-ms.prod: publisher
 api_name:
 - Publisher.Application.SnapToObjects
 ms.assetid: 84fcb808-bf3b-49f7-666e-915ac6b04a96

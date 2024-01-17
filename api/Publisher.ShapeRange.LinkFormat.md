@@ -3,7 +3,6 @@ title: ShapeRange.LinkFormat property (Publisher)
 keywords: vbapb10.chm2293862
 f1_keywords:
 - vbapb10.chm2293862
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.LinkFormat
 ms.assetid: 1f0add8d-7baa-65f0-e82b-a047a7bc0507

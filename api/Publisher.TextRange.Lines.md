@@ -3,7 +3,6 @@ title: TextRange.Lines method (Publisher)
 keywords: vbapb10.chm5308455
 f1_keywords:
 - vbapb10.chm5308455
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Lines
 ms.assetid: 56862090-b2ff-403b-d016-e37108d5ccc1

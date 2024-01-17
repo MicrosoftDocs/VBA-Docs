@@ -3,7 +3,6 @@ title: ConnectorFormat.Parent property (Publisher)
 keywords: vbapb10.chm3211266
 f1_keywords:
 - vbapb10.chm3211266
-ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.Parent
 ms.assetid: c6401c5a-3aaf-4c98-0ebf-58988eefbb7f

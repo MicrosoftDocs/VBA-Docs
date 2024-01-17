@@ -3,7 +3,6 @@ title: Rows.Add method (Publisher)
 keywords: vbapb10.chm4915204
 f1_keywords:
 - vbapb10.chm4915204
-ms.prod: publisher
 api_name:
 - Publisher.Rows.Add
 ms.assetid: 34d72709-92f7-ddc6-5be6-e74693466e61

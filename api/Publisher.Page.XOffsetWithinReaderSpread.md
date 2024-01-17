@@ -3,7 +3,6 @@ title: Page.XOffsetWithinReaderSpread property (Publisher)
 keywords: vbapb10.chm393236
 f1_keywords:
 - vbapb10.chm393236
-ms.prod: publisher
 api_name:
 - Publisher.Page.XOffsetWithinReaderSpread
 ms.assetid: 42ae7545-78f5-c034-33b4-f8c8f6a0b935

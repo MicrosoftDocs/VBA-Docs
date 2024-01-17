@@ -3,7 +3,6 @@ title: WebOptions.Parent property (Publisher)
 keywords: vbapb10.chm8257538
 f1_keywords:
 - vbapb10.chm8257538
-ms.prod: publisher
 api_name:
 - Publisher.WebOptions.Parent
 ms.assetid: 14d8eb59-e3e7-6678-2be3-e37b37afa45b

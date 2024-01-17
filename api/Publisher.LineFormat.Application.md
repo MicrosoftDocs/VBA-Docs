@@ -3,7 +3,6 @@ title: LineFormat.Application property (Publisher)
 keywords: vbapb10.chm3407873
 f1_keywords:
 - vbapb10.chm3407873
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Application
 ms.assetid: c667a290-d94e-8210-3a96-89af7af2c2ef

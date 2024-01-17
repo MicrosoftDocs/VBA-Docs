@@ -3,7 +3,6 @@ title: Page.WebPageOptions property (Publisher)
 keywords: vbapb10.chm393264
 f1_keywords:
 - vbapb10.chm393264
-ms.prod: publisher
 api_name:
 - Publisher.Page.WebPageOptions
 ms.assetid: c2e3ee01-5b49-e83c-a68b-a4d526da0215

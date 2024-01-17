@@ -3,7 +3,6 @@ title: PrintableRect.Width property (Publisher)
 keywords: vbapb10.chm7536645
 f1_keywords:
 - vbapb10.chm7536645
-ms.prod: publisher
 api_name:
 - Publisher.PrintableRect.Width
 ms.assetid: db719d69-7e66-3d61-6277-b3013f098025

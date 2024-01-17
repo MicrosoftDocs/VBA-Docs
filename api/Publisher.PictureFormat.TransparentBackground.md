@@ -3,7 +3,6 @@ title: PictureFormat.TransparentBackground property (Publisher)
 keywords: vbapb10.chm3604744
 f1_keywords:
 - vbapb10.chm3604744
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.TransparentBackground
 ms.assetid: 0a78b579-92bf-36e6-22f6-3ca0a48f5b5a

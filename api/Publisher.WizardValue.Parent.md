@@ -3,7 +3,6 @@ title: WizardValue.Parent property (Publisher)
 keywords: vbapb10.chm2097154
 f1_keywords:
 - vbapb10.chm2097154
-ms.prod: publisher
 api_name:
 - Publisher.WizardValue.Parent
 ms.assetid: aa00d170-550c-8584-1e88-eb122763a0d7

@@ -3,7 +3,6 @@ title: Application.Application property (Publisher)
 keywords: vbapb10.chm131076
 f1_keywords:
 - vbapb10.chm131076
-ms.prod: publisher
 api_name:
 - Publisher.Application.Application
 ms.assetid: f3ed5997-b8ef-4729-4537-ae21424d2007

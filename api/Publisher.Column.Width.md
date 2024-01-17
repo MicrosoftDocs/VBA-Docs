@@ -3,7 +3,6 @@ title: Column.Width property (Publisher)
 keywords: vbapb10.chm4980739
 f1_keywords:
 - vbapb10.chm4980739
-ms.prod: publisher
 api_name:
 - Publisher.Column.Width
 ms.assetid: 9596b828-a5ce-e501-db59-a0e1533108b3

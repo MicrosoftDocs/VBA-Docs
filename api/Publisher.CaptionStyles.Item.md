@@ -1,6 +1,5 @@
 ---
 title: CaptionStyles.Item method (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Item
 ms.assetid: d9a015bb-93f6-8138-be48-8093730f173a

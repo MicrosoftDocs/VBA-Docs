@@ -3,7 +3,6 @@ title: Window.Caption property (Publisher)
 keywords: vbapb10.chm262146
 f1_keywords:
 - vbapb10.chm262146
-ms.prod: publisher
 api_name:
 - Publisher.Window.Caption
 ms.assetid: 1dbf66c9-e964-b17f-684f-70cbbaa5fbc7

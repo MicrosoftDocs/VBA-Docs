@@ -3,7 +3,6 @@ title: Document.DocumentDirection property (Publisher)
 keywords: vbapb10.chm196648
 f1_keywords:
 - vbapb10.chm196648
-ms.prod: publisher
 api_name:
 - Publisher.Document.DocumentDirection
 ms.assetid: b28961ad-7adc-3920-0e67-88bb53310d9b

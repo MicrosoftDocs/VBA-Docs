@@ -3,7 +3,6 @@ title: LayoutGuides.RowGutterWidth property (Publisher)
 keywords: vbapb10.chm1114129
 f1_keywords:
 - vbapb10.chm1114129
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.RowGutterWidth
 ms.assetid: a7629683-68d2-4953-4c95-7e79e431f9c4

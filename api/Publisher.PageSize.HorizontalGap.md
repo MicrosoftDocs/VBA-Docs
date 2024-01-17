@@ -3,7 +3,6 @@ title: PageSize.HorizontalGap property (Publisher)
 keywords: vbapb10.chm8847368
 f1_keywords:
 - vbapb10.chm8847368
-ms.prod: publisher
 api_name:
 - Publisher.PageSize.HorizontalGap
 ms.assetid: 14c14534-c1c7-db2d-c7bf-8b7fd66c245e

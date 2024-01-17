@@ -3,7 +3,6 @@ title: PictureFormat.LeaveBlackAsBlack property (Publisher)
 keywords: vbapb10.chm3604792
 f1_keywords:
 - vbapb10.chm3604792
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.LeaveBlackAsBlack
 ms.assetid: 23b9dd90-a4aa-6659-7b08-2d1bef78e8f8

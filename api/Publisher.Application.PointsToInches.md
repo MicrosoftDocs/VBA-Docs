@@ -3,7 +3,6 @@ title: Application.PointsToInches method (Publisher)
 keywords: vbapb10.chm131157
 f1_keywords:
 - vbapb10.chm131157
-ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToInches
 ms.assetid: 58bfd9ce-dee7-0a14-8ec1-7e16a5e967d8

@@ -3,7 +3,6 @@ title: TextRange.BoundWidth property (Publisher)
 keywords: vbapb10.chm5308438
 f1_keywords:
 - vbapb10.chm5308438
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.BoundWidth
 ms.assetid: bab5053f-958b-9264-9a1e-6f81b5a860b7

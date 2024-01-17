@@ -3,7 +3,6 @@ title: Hyperlinks.Item property (Publisher)
 keywords: vbapb10.chm6881280
 f1_keywords:
 - vbapb10.chm6881280
-ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Item
 ms.assetid: 8d288fc6-9ded-5732-b972-6fa366ef31c3

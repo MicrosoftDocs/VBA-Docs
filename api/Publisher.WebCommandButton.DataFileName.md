@@ -3,7 +3,6 @@ title: WebCommandButton.DataFileName property (Publisher)
 keywords: vbapb10.chm3932165
 f1_keywords:
 - vbapb10.chm3932165
-ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.DataFileName
 ms.assetid: 5fd2bac7-7067-4833-4b34-26897c39ea58

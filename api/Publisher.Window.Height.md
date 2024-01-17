@@ -3,7 +3,6 @@ title: Window.Height property (Publisher)
 keywords: vbapb10.chm262151
 f1_keywords:
 - vbapb10.chm262151
-ms.prod: publisher
 api_name:
 - Publisher.Window.Height
 ms.assetid: 3d47bb99-bab7-b5aa-c834-04bcd6e8b151

@@ -3,7 +3,6 @@ title: Options.Application property (Publisher)
 keywords: vbapb10.chm1048578
 f1_keywords:
 - vbapb10.chm1048578
-ms.prod: publisher
 api_name:
 - Publisher.Options.Application
 ms.assetid: 06336d0e-18c8-f364-7911-1749d125d638

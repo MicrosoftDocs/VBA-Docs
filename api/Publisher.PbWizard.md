@@ -3,7 +3,6 @@ title: PbWizard enumeration (Publisher)
 keywords: vbapb10.chm65601
 f1_keywords:
 - vbapb10.chm65601
-ms.prod: publisher
 api_name:
 - Publisher.PbWizard
 ms.assetid: 1fd5b0cb-5ee5-e113-0c3b-964ff741ef2e

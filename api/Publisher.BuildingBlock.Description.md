@@ -1,6 +1,5 @@
 ---
 title: BuildingBlock.Description property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Description
 ms.assetid: de78c9b6-25a8-c92c-0523-6b00ef932b06

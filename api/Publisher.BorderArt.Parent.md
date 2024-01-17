@@ -3,7 +3,6 @@ title: BorderArt.Parent property (Publisher)
 keywords: vbapb10.chm7667714
 f1_keywords:
 - vbapb10.chm7667714
-ms.prod: publisher
 api_name:
 - Publisher.BorderArt.Parent
 ms.assetid: cf2ab5cd-ed49-a9cf-decd-6319613668bf

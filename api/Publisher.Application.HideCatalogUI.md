@@ -3,7 +3,6 @@ title: Application.HideCatalogUI event (Publisher)
 keywords: vbapb10.chm268435494
 f1_keywords:
 - vbapb10.chm268435494
-ms.prod: publisher
 api_name:
 - Publisher.Application.HideCatalogUI
 ms.assetid: a7ac7594-18fe-355e-d270-d205c405862a

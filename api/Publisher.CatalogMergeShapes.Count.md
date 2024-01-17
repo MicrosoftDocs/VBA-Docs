@@ -3,7 +3,6 @@ title: CatalogMergeShapes.Count property (Publisher)
 keywords: vbapb10.chm8388611
 f1_keywords:
 - vbapb10.chm8388611
-ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Count
 ms.assetid: a871af2f-183c-f5a8-7ad0-c8d25c71e41f

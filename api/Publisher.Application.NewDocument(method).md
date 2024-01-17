@@ -3,7 +3,6 @@ title: Application.NewDocument method (Publisher)
 keywords: vbapb10.chm131127
 f1_keywords:
 - vbapb10.chm131127
-ms.prod: publisher
 api_name:
 - Publisher.Application.NewDocument
 ms.assetid: 9beb6176-0c46-0ba0-8d41-a9021c624223

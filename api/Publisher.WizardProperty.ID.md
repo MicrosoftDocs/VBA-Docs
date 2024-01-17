@@ -3,7 +3,6 @@ title: WizardProperty.ID property (Publisher)
 keywords: vbapb10.chm1572867
 f1_keywords:
 - vbapb10.chm1572867
-ms.prod: publisher
 api_name:
 - Publisher.WizardProperty.ID
 ms.assetid: 2827af5d-d002-029b-7f93-26befe459229

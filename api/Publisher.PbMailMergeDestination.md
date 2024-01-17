@@ -3,7 +3,6 @@ title: PbMailMergeDestination enumeration (Publisher)
 keywords: vbapb10.chm65597
 f1_keywords:
 - vbapb10.chm65597
-ms.prod: publisher
 api_name:
 - Publisher.PbMailMergeDestination
 ms.assetid: 7e060743-941c-c899-1601-778e51d66bea

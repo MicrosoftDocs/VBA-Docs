@@ -3,7 +3,6 @@ title: ConnectorFormat.BeginConnect method (Publisher)
 keywords: vbapb10.chm3211280
 f1_keywords:
 - vbapb10.chm3211280
-ms.prod: publisher
 api_name:
 - Publisher.ConnectorFormat.BeginConnect
 ms.assetid: d38f6ac7-f09b-b171-a6b8-d52427f45d78

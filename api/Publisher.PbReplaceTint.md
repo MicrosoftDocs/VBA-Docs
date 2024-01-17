@@ -3,7 +3,6 @@ title: PbReplaceTint enumeration (Publisher)
 keywords: vbapb10.chm65629
 f1_keywords:
 - vbapb10.chm65629
-ms.prod: publisher
 api_name:
 - Publisher.PbReplaceTint
 ms.assetid: 91950561-224f-285e-6dee-7d2bdbd3a589

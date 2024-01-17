@@ -3,7 +3,6 @@ title: Field.Next property (Publisher)
 keywords: vbapb10.chm6094854
 f1_keywords:
 - vbapb10.chm6094854
-ms.prod: publisher
 api_name:
 - Publisher.Field.Next
 ms.assetid: a8f0a246-c55e-715e-3f97-a2f08c383e87

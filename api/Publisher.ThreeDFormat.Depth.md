@@ -3,7 +3,6 @@ title: ThreeDFormat.Depth property (Publisher)
 keywords: vbapb10.chm3801344
 f1_keywords:
 - vbapb10.chm3801344
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Depth
 ms.assetid: b6b46ddb-e3dd-0f9a-1a67-6433bb9ea89a

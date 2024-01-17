@@ -3,7 +3,6 @@ title: ReflectionFormat object (Publisher)
 keywords: vbapb10.chm9764863
 f1_keywords:
 - vbapb10.chm9764863
-ms.prod: publisher
 ms.assetid: c883f644-7ef8-b36d-ba24-7f54afa90c94
 ms.date: 05/31/2019
 ms.localizationpriority: medium

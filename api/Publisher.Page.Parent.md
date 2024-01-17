@@ -3,7 +3,6 @@ title: Page.Parent property (Publisher)
 keywords: vbapb10.chm393218
 f1_keywords:
 - vbapb10.chm393218
-ms.prod: publisher
 api_name:
 - Publisher.Page.Parent
 ms.assetid: 908daa24-3b8b-6107-d6ce-6498e6964e8e

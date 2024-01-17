@@ -3,7 +3,6 @@ title: TabStop.Parent property (Publisher)
 keywords: vbapb10.chm5636098
 f1_keywords:
 - vbapb10.chm5636098
-ms.prod: publisher
 api_name:
 - Publisher.TabStop.Parent
 ms.assetid: 7af2e67a-0050-2fd9-77f7-4b0a39c516a1

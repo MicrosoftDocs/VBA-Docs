@@ -3,7 +3,6 @@ title: PbFileFormat enumeration (Publisher)
 keywords: vbapb10.chm65537
 f1_keywords:
 - vbapb10.chm65537
-ms.prod: publisher
 api_name:
 - Publisher.PbFileFormat
 ms.assetid: e140e360-bedf-b49a-29ef-f8cae4bcf4e4

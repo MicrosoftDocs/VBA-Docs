@@ -3,7 +3,6 @@ title: View.Parent property (Publisher)
 keywords: vbapb10.chm327682
 f1_keywords:
 - vbapb10.chm327682
-ms.prod: publisher
 api_name:
 - Publisher.View.Parent
 ms.assetid: 929ae439-4ccd-92c0-2e24-89e6805b441e

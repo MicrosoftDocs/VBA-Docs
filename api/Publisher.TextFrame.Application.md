@@ -3,7 +3,6 @@ title: TextFrame.Application property (Publisher)
 keywords: vbapb10.chm3866625
 f1_keywords:
 - vbapb10.chm3866625
-ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Application
 ms.assetid: 14b41c64-cdd3-f1ab-202c-49f18d72d035

@@ -1,6 +1,5 @@
 ---
 title: CaptionStyles.Count property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.CaptionStyles.Count
 ms.assetid: c666dcd3-deb6-e7e4-df5e-8fea83af45b4

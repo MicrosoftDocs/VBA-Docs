@@ -3,7 +3,6 @@ title: Shape.Wizard property (Publisher)
 keywords: vbapb10.chm2228345
 f1_keywords:
 - vbapb10.chm2228345
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Wizard
 ms.assetid: 89014daf-66dc-7913-0b0e-ac80f6e85791
