@@ -1,6 +1,5 @@
 ---
 title: Shape.Export method (PowerPoint)
-ms.prod: powerpoint
 api_name:
 - PowerPoint.Shape.Export
 ms.assetid: b5905350-17d7-4d63-ad39-570d967862a0
