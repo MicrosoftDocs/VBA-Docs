@@ -3,7 +3,6 @@ title: Printer.Orientation property (Access)
 keywords: vbaac10.chm12862
 f1_keywords:
 - vbaac10.chm12862
-ms.prod: access
 api_name:
 - Access.Printer.Orientation
 ms.assetid: 274c875b-dcea-1534-3215-132001bbf53f

@@ -3,7 +3,6 @@ title: ListBox.ColumnCount property (Access)
 keywords: vbaac10.chm11224
 f1_keywords:
 - vbaac10.chm11224
-ms.prod: access
 api_name:
 - Access.ListBox.ColumnCount
 ms.assetid: a1712119-2afe-f389-ff68-ed6aa1f7dde4

@@ -3,7 +3,6 @@ title: ListBox.BeforeUpdate property (Access)
 keywords: vbaac10.chm11278
 f1_keywords:
 - vbaac10.chm11278
-ms.prod: access
 api_name:
 - Access.ListBox.BeforeUpdate
 ms.assetid: b7e75906-839b-2518-bc02-a313cbd8c232

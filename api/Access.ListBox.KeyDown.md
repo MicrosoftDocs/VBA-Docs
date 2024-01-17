@@ -3,7 +3,6 @@ title: ListBox.KeyDown event (Access)
 keywords: vbaac10.chm14182
 f1_keywords:
 - vbaac10.chm14182
-ms.prod: access
 api_name:
 - Access.ListBox.KeyDown
 ms.assetid: 5f1c019a-0a21-d640-d872-e2775ced3c43

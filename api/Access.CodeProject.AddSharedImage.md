@@ -3,7 +3,6 @@ title: CodeProject.AddSharedImage method (Access)
 keywords: vbaac10.chm14660
 f1_keywords:
 - vbaac10.chm14660
-ms.prod: access
 api_name:
 - Access.CodeProject.AddSharedImage
 ms.assetid: 7e1e0455-65e0-820e-e25c-17989a40000b

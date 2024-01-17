@@ -3,7 +3,6 @@ title: Form.Resize event (Access)
 keywords: vbaac10.chm13643
 f1_keywords:
 - vbaac10.chm13643
-ms.prod: access
 api_name:
 - Access.Form.Resize
 ms.assetid: de57e9bf-e4fd-174e-4d56-9ea813ab92ce

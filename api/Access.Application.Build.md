@@ -3,7 +3,6 @@ title: Application.Build property (Access)
 keywords: vbaac10.chm12600
 f1_keywords:
 - vbaac10.chm12600
-ms.prod: access
 api_name:
 - Access.Application.Build
 ms.assetid: d96de996-33f5-a4a1-66d9-c18b3cdbac43

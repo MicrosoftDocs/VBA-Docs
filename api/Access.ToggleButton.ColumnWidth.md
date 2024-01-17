@@ -3,7 +3,6 @@ title: ToggleButton.ColumnWidth property (Access)
 keywords: vbaac10.chm11733
 f1_keywords:
 - vbaac10.chm11733
-ms.prod: access
 api_name:
 - Access.ToggleButton.ColumnWidth
 ms.assetid: ac3f6bd8-22ae-5a3d-2646-2350a7e3be85

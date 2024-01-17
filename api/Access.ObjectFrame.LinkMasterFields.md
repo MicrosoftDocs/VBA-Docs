@@ -3,7 +3,6 @@ title: ObjectFrame.LinkMasterFields property (Access)
 keywords: vbaac10.chm11566
 f1_keywords:
 - vbaac10.chm11566
-ms.prod: access
 api_name:
 - Access.ObjectFrame.LinkMasterFields
 ms.assetid: 1e3b8cb7-a061-369a-4ff4-44d6989c3234

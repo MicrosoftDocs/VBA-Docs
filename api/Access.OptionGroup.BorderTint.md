@@ -3,7 +3,6 @@ title: OptionGroup.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.OptionGroup.BorderTint
 ms.assetid: ba231494-097a-6814-1eb8-fcece0fc21ff

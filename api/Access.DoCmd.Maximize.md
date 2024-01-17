@@ -3,7 +3,6 @@ title: DoCmd.Maximize method (Access)
 keywords: vbaac10.chm4156
 f1_keywords:
 - vbaac10.chm4156
-ms.prod: access
 api_name:
 - Access.DoCmd.Maximize
 ms.assetid: 6b1103f5-07b8-fbcf-ff7e-ccbfd6945768

@@ -3,7 +3,6 @@ title: OptionButton.Parent property (Access)
 keywords: vbaac10.chm10557
 f1_keywords:
 - vbaac10.chm10557
-ms.prod: access
 api_name:
 - Access.OptionButton.Parent
 ms.assetid: 598f3f9c-0f25-635f-d438-3b0cd8d2f343

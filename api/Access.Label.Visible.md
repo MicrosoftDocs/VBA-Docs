@@ -3,7 +3,6 @@ title: Label.Visible property (Access)
 keywords: vbaac10.chm10194
 f1_keywords:
 - vbaac10.chm10194
-ms.prod: access
 api_name:
 - Access.Label.Visible
 ms.assetid: bdc6b7bb-8877-d382-ee91-5f69e666e0d8

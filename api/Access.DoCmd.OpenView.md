@@ -3,7 +3,6 @@ title: DoCmd.OpenView method (Access)
 keywords: vbaac10.chm4649
 f1_keywords:
 - vbaac10.chm4649
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenView
 ms.assetid: 8d2970dd-9a06-f917-04da-850b085126dd

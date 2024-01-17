@@ -3,7 +3,6 @@ title: Label.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: access
 api_name:
 - Access.Label.GridlineShade
 ms.assetid: d2d3415f-99f4-3ba4-78d3-f7d53f792980

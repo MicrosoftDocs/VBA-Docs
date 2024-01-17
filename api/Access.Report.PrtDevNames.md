@@ -3,7 +3,6 @@ title: Report.PrtDevNames property (Access)
 keywords: vbaac10.chm13739
 f1_keywords:
 - vbaac10.chm13739
-ms.prod: access
 api_name:
 - Access.Report.PrtDevNames
 ms.assetid: 96a3437b-3655-5a87-9a1f-722116c82708

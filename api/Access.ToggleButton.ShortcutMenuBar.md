@@ -3,7 +3,6 @@ title: ToggleButton.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm11730
 f1_keywords:
 - vbaac10.chm11730
-ms.prod: access
 api_name:
 - Access.ToggleButton.ShortcutMenuBar
 ms.assetid: ba7ac65f-644c-b75c-12cc-565cd27a7162

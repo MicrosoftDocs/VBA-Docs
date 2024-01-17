@@ -3,7 +3,6 @@ title: OptionButton.OnMouseDown property (Access)
 keywords: vbaac10.chm10616
 f1_keywords:
 - vbaac10.chm10616
-ms.prod: access
 api_name:
 - Access.OptionButton.OnMouseDown
 ms.assetid: 064de273-6dd9-091c-07cf-1241f45071b6

@@ -3,7 +3,6 @@ title: Application.NewAccessProject method (Access)
 keywords: vbaac10.chm12580
 f1_keywords:
 - vbaac10.chm12580
-ms.prod: access
 api_name:
 - Access.Application.NewAccessProject
 ms.assetid: e3b3b9ef-31f8-885c-5c92-d269b824fbdb

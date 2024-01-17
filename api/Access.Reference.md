@@ -3,7 +3,6 @@ title: Reference object (Access)
 keywords: vbaac10.chm12628
 f1_keywords:
 - vbaac10.chm12628
-ms.prod: access
 api_name:
 - Access.Reference
 ms.assetid: 87853230-294e-7ab8-4aae-78b094b5e584

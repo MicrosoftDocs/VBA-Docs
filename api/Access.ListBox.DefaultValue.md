@@ -3,7 +3,6 @@ title: ListBox.DefaultValue property (Access)
 keywords: vbaac10.chm11228
 f1_keywords:
 - vbaac10.chm11228
-ms.prod: access
 api_name:
 - Access.ListBox.DefaultValue
 ms.assetid: dd8104db-7d24-2b1f-aac7-bc17f7b9002b

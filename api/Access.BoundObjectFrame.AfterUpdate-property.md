@@ -3,7 +3,6 @@ title: BoundObjectFrame.AfterUpdate property (Access)
 keywords: vbaac10.chm10962
 f1_keywords:
 - vbaac10.chm10962
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.AfterUpdate
 ms.assetid: 3ebda4de-49c3-bfe7-8743-1c2c98caca58

@@ -3,7 +3,6 @@ title: Application.AutomationSecurity property (Access)
 keywords: vbaac10.chm12611
 f1_keywords:
 - vbaac10.chm12611
-ms.prod: access
 api_name:
 - Access.Application.AutomationSecurity
 ms.assetid: 4589f050-4b0c-8dba-309a-98ad3921baa7

@@ -3,7 +3,6 @@ title: ComboBox.FontUnderline property (Access)
 keywords: vbaac10.chm11418
 f1_keywords:
 - vbaac10.chm11418
-ms.prod: access
 api_name:
 - Access.ComboBox.FontUnderline
 ms.assetid: 54ee770c-4e75-fbc7-0453-99fc2c2456c1

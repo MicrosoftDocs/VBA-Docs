@@ -3,7 +3,6 @@ title: CommandButton.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10537
 f1_keywords:
 - vbaac10.chm10537
-ms.prod: access
 api_name:
 - Access.CommandButton.HorizontalAnchor
 ms.assetid: 3b16ed18-a83d-df6e-5f14-6edbd25e9490

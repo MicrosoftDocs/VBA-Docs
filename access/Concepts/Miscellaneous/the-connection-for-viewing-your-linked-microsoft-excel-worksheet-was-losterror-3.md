@@ -3,7 +3,6 @@ title: The connection for viewing your linked Microsoft Excel worksheet was lost
 keywords: jeterr40.chm5003620
 f1_keywords:
 - jeterr40.chm5003620
-ms.prod: access
 ms.assetid: 3f116657-43b4-2d66-ea86-7a6b6d65fa6b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

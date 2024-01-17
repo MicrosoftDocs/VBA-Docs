@@ -3,7 +3,6 @@ title: SharedResources.Item property (Access)
 keywords: vbaac10.chm14651
 f1_keywords:
 - vbaac10.chm14651
-ms.prod: access
 api_name:
 - Access.SharedResources.Item
 ms.assetid: 70e1cadb-ee13-3c0a-fc3d-dbd5a08c373f

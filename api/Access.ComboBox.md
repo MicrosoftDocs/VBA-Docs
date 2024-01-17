@@ -3,7 +3,6 @@ title: ComboBox object (Access)
 keywords: vbaac10.chm11545
 f1_keywords:
 - vbaac10.chm11545
-ms.prod: access
 api_name:
 - Access.ComboBox
 ms.assetid: 1cf508d5-023e-eb38-3991-71e82b2a4e7e

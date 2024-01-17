@@ -3,7 +3,6 @@ title: SharedResources.Application property (Access)
 keywords: vbaac10.chm14649
 f1_keywords:
 - vbaac10.chm14649
-ms.prod: access
 api_name:
 - Access.SharedResources.Application
 ms.assetid: 43dbfccf-531d-9efb-7024-3910f142c5e0

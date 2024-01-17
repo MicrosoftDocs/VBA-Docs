@@ -1,6 +1,5 @@
 ---
 title: Create a DAO Recordset from a form
-ms.prod: access
 ms.assetid: d4bbe327-217d-ba7e-3d9f-3c89af1dcbc9
 ms.date: 09/21/2018
 ms.localizationpriority: medium

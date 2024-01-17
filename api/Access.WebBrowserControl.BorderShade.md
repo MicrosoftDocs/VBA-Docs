@@ -3,7 +3,6 @@ title: WebBrowserControl.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.BorderShade
 ms.assetid: 5a5023af-4e30-48a8-9fd8-129049116270

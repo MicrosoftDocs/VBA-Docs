@@ -3,7 +3,6 @@ title: ObjectFrame.ControlTipText property (Access)
 keywords: vbaac10.chm11601
 f1_keywords:
 - vbaac10.chm11601
-ms.prod: access
 api_name:
 - Access.ObjectFrame.ControlTipText
 ms.assetid: 6b2bf5d6-fa3d-149c-1fb7-178c8bf1cd9b

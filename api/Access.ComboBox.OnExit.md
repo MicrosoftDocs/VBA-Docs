@@ -3,7 +3,6 @@ title: ComboBox.OnExit property (Access)
 keywords: vbaac10.chm11452
 f1_keywords:
 - vbaac10.chm11452
-ms.prod: access
 api_name:
 - Access.ComboBox.OnExit
 ms.assetid: 0bc23d67-a1c1-8140-1930-2a1d97008fb5

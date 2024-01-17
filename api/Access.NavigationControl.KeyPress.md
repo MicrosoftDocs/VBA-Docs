@@ -3,7 +3,6 @@ title: NavigationControl.KeyPress event (Access)
 keywords: vbaac10.chm14207
 f1_keywords:
 - vbaac10.chm14207
-ms.prod: access
 api_name:
 - Access.NavigationControl.KeyPress
 ms.assetid: e6dd9500-c6c9-ff51-fad8-2d542cf6bff6

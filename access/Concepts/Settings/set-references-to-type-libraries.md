@@ -3,7 +3,6 @@ title: Set references to type libraries
 keywords: vbaac10.chm13780
 f1_keywords:
 - vbaac10.chm13780
-ms.prod: access
 ms.assetid: 6314a89b-89e9-d8c1-5964-889a361afcd1
 ms.date: 09/26/2018
 ms.localizationpriority: medium

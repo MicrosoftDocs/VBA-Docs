@@ -3,7 +3,6 @@ title: ComboBox.InputMask property (Access)
 keywords: vbaac10.chm11377
 f1_keywords:
 - vbaac10.chm11377
-ms.prod: access
 api_name:
 - Access.ComboBox.InputMask
 ms.assetid: da40a7cb-d962-dcb7-e536-c90c2753aaed

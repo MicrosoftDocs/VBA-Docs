@@ -3,7 +3,6 @@ title: Printer.DataOnly property (Access)
 keywords: vbaac10.chm12871
 f1_keywords:
 - vbaac10.chm12871
-ms.prod: access
 api_name:
 - Access.Printer.DataOnly
 ms.assetid: 2df339fe-140a-374f-01cf-d1d93ed87fee

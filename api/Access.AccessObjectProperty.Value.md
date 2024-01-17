@@ -3,7 +3,6 @@ title: AccessObjectProperty.Value property (Access)
 keywords: vbaac10.chm12696
 f1_keywords:
 - vbaac10.chm12696
-ms.prod: access
 api_name:
 - Access.AccessObjectProperty.Value
 ms.assetid: 6c1dde37-814f-f3e8-8afb-b5ac5018b2d3

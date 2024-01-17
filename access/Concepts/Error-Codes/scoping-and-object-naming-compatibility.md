@@ -3,7 +3,6 @@ title: Scoping and object-naming compatibility
 keywords: vbaac10.chm5188026
 f1_keywords:
 - vbaac10.chm5188026
-ms.prod: access
 ms.assetid: 50e86279-78d0-c509-1598-250517153fe7
 ms.date: 09/21/2018
 ms.localizationpriority: medium

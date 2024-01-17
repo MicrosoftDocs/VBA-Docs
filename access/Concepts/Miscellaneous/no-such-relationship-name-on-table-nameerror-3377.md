@@ -3,7 +3,6 @@ title: No such relationship <name> on table <name>. (Error 3377)
 keywords: jeterr40.chm5003377
 f1_keywords:
 - jeterr40.chm5003377
-ms.prod: access
 ms.assetid: eeeeb07b-9ed8-93cf-1a0b-44c4f2b5e0ad
 ms.date: 06/08/2019
 ms.localizationpriority: medium

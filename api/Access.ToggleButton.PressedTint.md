@@ -3,7 +3,6 @@ title: ToggleButton.PressedTint property (Access)
 keywords: vbaac10.chm14621
 f1_keywords:
 - vbaac10.chm14621
-ms.prod: access
 api_name:
 - Access.ToggleButton.PressedTint
 ms.assetid: 01fa017e-05b3-7bd7-b2bf-19bf4a641802

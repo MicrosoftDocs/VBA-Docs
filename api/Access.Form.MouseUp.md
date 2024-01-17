@@ -3,7 +3,6 @@ title: Form.MouseUp event (Access)
 keywords: vbaac10.chm13654
 f1_keywords:
 - vbaac10.chm13654
-ms.prod: access
 api_name:
 - Access.Form.MouseUp
 ms.assetid: b397f122-24ec-18f9-779b-d8431664abc1

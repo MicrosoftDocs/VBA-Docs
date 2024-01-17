@@ -3,7 +3,6 @@ title: OptionButton.LayoutID property (Access)
 keywords: vbaac10.chm10656
 f1_keywords:
 - vbaac10.chm10656
-ms.prod: access
 api_name:
 - Access.OptionButton.LayoutID
 ms.assetid: dcb40002-67e4-f11c-1e75-260f96bef440

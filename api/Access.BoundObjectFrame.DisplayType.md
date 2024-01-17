@@ -3,7 +3,6 @@ title: BoundObjectFrame.DisplayType property (Access)
 keywords: vbaac10.chm10916
 f1_keywords:
 - vbaac10.chm10916
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.DisplayType
 ms.assetid: 95213bcb-9751-b43c-9722-6326d0fa8f25

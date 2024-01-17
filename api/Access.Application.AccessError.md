@@ -3,7 +3,6 @@ title: Application.AccessError method (Access)
 keywords: vbaac10.chm12556
 f1_keywords:
 - vbaac10.chm12556
-ms.prod: access
 api_name:
 - Access.Application.AccessError
 ms.assetid: 811ef090-bdd4-5d1d-afc5-782470f57483

@@ -3,7 +3,6 @@ title: CommandButton.OnMouseMove property (Access)
 keywords: vbaac10.chm10500
 f1_keywords:
 - vbaac10.chm10500
-ms.prod: access
 api_name:
 - Access.CommandButton.OnMouseMove
 ms.assetid: 1b24e970-1f29-af26-2d01-e6587812bf13

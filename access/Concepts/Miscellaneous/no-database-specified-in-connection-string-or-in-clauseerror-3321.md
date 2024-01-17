@@ -1,6 +1,5 @@
 ---
 title: No database specified in connection string or IN clause. (Error 3321)
-ms.prod: access
 ms.assetid: dd1601c0-9998-4ae0-21a0-ec283dc8f0cd
 ms.date: 06/08/2019
 ms.localizationpriority: medium

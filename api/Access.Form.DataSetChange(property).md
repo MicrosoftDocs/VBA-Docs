@@ -3,7 +3,6 @@ title: Form.DataSetChange property (Access)
 keywords: vbaac10.chm13546,vbaac10.chm5111
 f1_keywords:
 - vbaac10.chm13546,vbaac10.chm5111
-ms.prod: access
 api_name:
 - Access.Form.DataSetChange
 ms.assetid: 29f7f9a8-4dbd-9f69-7f4c-7f93add9f1b6

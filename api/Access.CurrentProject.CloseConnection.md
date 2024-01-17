@@ -3,7 +3,6 @@ title: CurrentProject.CloseConnection method (Access)
 keywords: vbaac10.chm12716
 f1_keywords:
 - vbaac10.chm12716
-ms.prod: access
 api_name:
 - Access.CurrentProject.CloseConnection
 ms.assetid: f2feac44-e509-48d7-e815-e0cf2935d7b9

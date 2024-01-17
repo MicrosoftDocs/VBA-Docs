@@ -1,6 +1,5 @@
 ---
 title: Create a shortcut menu for a form, form control, or report
-ms.prod: access
 ms.assetid: 56fe8923-053f-e04d-78d6-c4dd814b6499
 ROBOTS: INDEX
 ms.date: 02/20/2022

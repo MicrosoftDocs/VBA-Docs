@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4967
 f1_keywords:
 - vbaac10.chm4967
-ms.prod: access
 api_name:
 - Access.SubdatasheetName
 ms.assetid: 6114c6de-fdcd-9d97-c5ad-0742ca75a1ad

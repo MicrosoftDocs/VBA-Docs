@@ -3,7 +3,6 @@ title: Textual criteria expressions
 keywords: vbaac10.chm10884
 f1_keywords:
 - vbaac10.chm10884
-ms.prod: access
 ms.assetid: c90dbb94-daab-5ccb-4cb1-c7771d8c4fc1
 ms.date: 09/21/2018
 ms.localizationpriority: medium

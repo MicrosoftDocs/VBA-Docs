@@ -3,7 +3,6 @@ title: CustomControl.ControlTipText property (Access)
 keywords: vbaac10.chm12030
 f1_keywords:
 - vbaac10.chm12030
-ms.prod: access
 api_name:
 - Access.CustomControl.ControlTipText
 ms.assetid: 40564070-a355-632b-0578-0bd98f1ccc53

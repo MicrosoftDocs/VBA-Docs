@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm3487
 f1_keywords:
 - vbaac10.chm3487
-ms.prod: access
 api_name:
 - Access.Description
 ms.assetid: b2933bc9-5e8b-9bee-d07b-2b015c530ebe

@@ -3,7 +3,6 @@ title: Application.LoadCustomUI method (Access)
 keywords: vbaac10.chm12616
 f1_keywords:
 - vbaac10.chm12616
-ms.prod: access
 api_name:
 - Access.Application.LoadCustomUI
 ms.assetid: 59be6be9-d7a0-98f3-b9c0-57ecba5651f6

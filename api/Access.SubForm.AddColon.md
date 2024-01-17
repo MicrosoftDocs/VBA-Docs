@@ -3,7 +3,6 @@ title: SubForm.AddColon property (Access)
 keywords: vbaac10.chm11949
 f1_keywords:
 - vbaac10.chm11949
-ms.prod: access
 api_name:
 - Access.SubForm.AddColon
 ms.assetid: 9272df79-15cb-3f69-e5d3-b7221f38c47c

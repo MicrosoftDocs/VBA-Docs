@@ -3,7 +3,6 @@ title: SubForm.FilterOnEmptyMaster property (Access)
 keywords: vbaac10.chm11981
 f1_keywords:
 - vbaac10.chm11981
-ms.prod: access
 api_name:
 - Access.SubForm.FilterOnEmptyMaster
 ms.assetid: 5f9dade2-75a4-aa77-f208-4cb80b9d3020

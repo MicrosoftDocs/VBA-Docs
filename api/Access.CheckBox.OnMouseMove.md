@@ -3,7 +3,6 @@ title: CheckBox.OnMouseMove property (Access)
 keywords: vbaac10.chm10744
 f1_keywords:
 - vbaac10.chm10744
-ms.prod: access
 api_name:
 - Access.CheckBox.OnMouseMove
 ms.assetid: a3d86d09-c821-72a4-f48e-2cd022c2659d

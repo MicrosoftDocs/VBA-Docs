@@ -3,7 +3,6 @@ title: CheckBox.DblClick event (Access)
 keywords: vbaac10.chm14126
 f1_keywords:
 - vbaac10.chm14126
-ms.prod: access
 api_name:
 - Access.CheckBox.DblClick
 ms.assetid: dea6c8ff-47d5-de41-8099-a36b4c53c665

@@ -3,7 +3,6 @@ title: Label.BackColor property (Access)
 keywords: vbaac10.chm10202
 f1_keywords:
 - vbaac10.chm10202
-ms.prod: access
 api_name:
 - Access.Label.BackColor
 ms.assetid: b4901275-e47c-a074-9f44-b0338677f3ef

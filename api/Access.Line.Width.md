@@ -3,7 +3,6 @@ title: Line.Width property (Access)
 keywords: vbaac10.chm10334
 f1_keywords:
 - vbaac10.chm10334
-ms.prod: access
 api_name:
 - Access.Line.Width
 ms.assetid: 01bb11d8-2d82-c3d6-cf04-f30ed3259193

@@ -3,7 +3,7 @@ title: Values for the TTOption Member
 keywords: vbaac10.chm5188253
 f1_keywords:
 - vbaac10.chm5188253
-ms.prod: access
+ms.service: access
 ms.assetid: c4f6e88c-e1b6-3350-85fd-b1be9ecc2189
 ms.date: 06/08/2017
 ms.localizationpriority: medium

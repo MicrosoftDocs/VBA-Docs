@@ -3,7 +3,6 @@ title: Screen.ActiveDatasheet property (Access)
 keywords: vbaac10.chm12487
 f1_keywords:
 - vbaac10.chm12487
-ms.prod: access
 api_name:
 - Access.Screen.ActiveDatasheet
 ms.assetid: cff189e7-9b8a-280f-e287-e4367f8ac134

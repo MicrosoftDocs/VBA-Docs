@@ -3,7 +3,6 @@ title: CurrentProject.ImportExportSpecifications property (Access)
 keywords: vbaac10.chm12729
 f1_keywords:
 - vbaac10.chm12729
-ms.prod: access
 api_name:
 - Access.CurrentProject.ImportExportSpecifications
 ms.assetid: b614eb40-d9cd-d615-41c9-c6980ea85006

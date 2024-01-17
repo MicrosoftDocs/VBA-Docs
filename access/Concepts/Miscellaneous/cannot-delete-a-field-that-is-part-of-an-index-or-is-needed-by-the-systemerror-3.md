@@ -3,7 +3,6 @@ title: Cannot delete a field that is part of an index or is needed by the system
 keywords: jeterr40.chm5003280
 f1_keywords:
 - jeterr40.chm5003280
-ms.prod: access
 ms.assetid: 3cf1bada-b380-63bb-c861-eb82bdb6b675
 ms.date: 06/08/2019
 ms.localizationpriority: medium

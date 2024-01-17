@@ -3,7 +3,6 @@ title: Chart.CategoryAxisFontColor property (Access)
 keywords: vbaac10.chm6134
 f1_keywords:
 - vbaac10.chm6134
-ms.prod: access
 api_name:
 - Access.Chart.CategoryAxisFontColor
 ms.date: 11/28/2018

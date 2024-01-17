@@ -3,7 +3,6 @@ title: AcObjectType enumeration (Access)
 keywords: vbaac10.chm10015
 f1_keywords:
 - vbaac10.chm10015
-ms.prod: access
 api_name:
 - Access.AcObjectType
 ms.assetid: 157a8d35-2b27-4f62-8e74-525043f6ec71

@@ -3,7 +3,6 @@ title: AllTables.Item property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: access
 api_name:
 - Access.AllTables.Item
 ms.assetid: 87e8e90d-abfe-c15b-f450-c82a8292fc93

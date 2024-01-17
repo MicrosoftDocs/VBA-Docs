@@ -3,7 +3,6 @@ title: CurrentProject.Name property (Access)
 keywords: vbaac10.chm12717
 f1_keywords:
 - vbaac10.chm12717
-ms.prod: access
 api_name:
 - Access.CurrentProject.Name
 ms.assetid: b7eb012e-6145-d962-8884-3ccf3eaf46fd

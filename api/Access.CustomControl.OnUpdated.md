@@ -3,7 +3,6 @@ title: CustomControl.OnUpdated property (Access)
 keywords: vbaac10.chm12040
 f1_keywords:
 - vbaac10.chm12040
-ms.prod: access
 api_name:
 - Access.CustomControl.OnUpdated
 ms.assetid: 6cd30c42-d645-6ca8-5c9e-7a5951283fd9

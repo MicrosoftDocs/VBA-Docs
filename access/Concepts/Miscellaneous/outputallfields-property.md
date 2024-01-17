@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4453
 f1_keywords:
 - vbaac10.chm4453
-ms.prod: access
 api_name:
 - Access.OutputAllFields
 ms.assetid: b4f6e831-f82c-0850-d736-1bbda29d9f89

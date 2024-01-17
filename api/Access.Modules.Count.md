@@ -3,7 +3,6 @@ title: Modules.Count property (Access)
 keywords: vbaac10.chm12293
 f1_keywords:
 - vbaac10.chm12293
-ms.prod: access
 api_name:
 - Access.Modules.Count
 ms.assetid: 45555686-c834-bad0-1ad1-f6bbd8895905

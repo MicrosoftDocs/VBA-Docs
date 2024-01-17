@@ -3,7 +3,6 @@ title: Application object (Access)
 keywords: vbaac10.chm12627
 f1_keywords:
 - vbaac10.chm12627
-ms.prod: access
 api_name:
 - Access.Application
 ms.assetid: aefb0713-97e6-e2c7-e530-8fd2e1316a55

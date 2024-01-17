@@ -3,7 +3,6 @@ title: Report.KeyDown event (Access)
 keywords: vbaac10.chm13894
 f1_keywords:
 - vbaac10.chm13894
-ms.prod: access
 api_name:
 - Access.Report.KeyDown
 ms.assetid: b33ecbca-b3a1-19b2-8541-fe4bcbf4acec

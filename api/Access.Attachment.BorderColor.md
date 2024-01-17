@@ -3,7 +3,6 @@ title: Attachment.BorderColor property (Access)
 keywords: vbaac10.chm13929
 f1_keywords:
 - vbaac10.chm13929
-ms.prod: access
 api_name:
 - Access.Attachment.BorderColor
 ms.assetid: cd43f030-f832-c58a-a374-67a349c3d499

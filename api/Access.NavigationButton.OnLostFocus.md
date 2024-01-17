@@ -3,7 +3,6 @@ title: NavigationButton.OnLostFocus property (Access)
 keywords: vbaac10.chm10496
 f1_keywords:
 - vbaac10.chm10496
-ms.prod: access
 api_name:
 - Access.NavigationButton.OnLostFocus
 ms.assetid: c802a73b-5f6b-d7b2-7a8b-303f3fdf3440

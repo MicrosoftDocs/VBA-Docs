@@ -3,7 +3,6 @@ title: AcDashType enumeration (Access)
 keywords: vbaac10.chm14767
 f1_keywords:
 - vbaac10.chm14767
-ms.prod: access
 api_name:
 - Access.AcDashType
 ms.date: 11/28/2018

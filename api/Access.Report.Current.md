@@ -3,7 +3,6 @@ title: Report.Current event (Access)
 keywords: vbaac10.chm13883
 f1_keywords:
 - vbaac10.chm13883
-ms.prod: access
 api_name:
 - Access.Report.Current
 ms.assetid: adfdbda0-c3e9-c3c6-8768-415b4bd270d5

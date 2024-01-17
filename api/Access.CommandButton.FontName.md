@@ -3,7 +3,6 @@ title: CommandButton.FontName property (Access)
 keywords: vbaac10.chm10472
 f1_keywords:
 - vbaac10.chm10472
-ms.prod: access
 api_name:
 - Access.CommandButton.FontName
 ms.assetid: 0e1099d3-92fb-a077-9148-e2f64305faee

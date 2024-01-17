@@ -3,7 +3,6 @@ title: One of the records in the Recordset was deleted by another process. (Erro
 keywords: jeterr40.chm5003643
 f1_keywords:
 - jeterr40.chm5003643
-ms.prod: access
 ms.assetid: 0a8a3fa8-1981-a7a4-9e4b-5a675f8bcaa0
 ms.date: 06/08/2019
 ms.localizationpriority: medium

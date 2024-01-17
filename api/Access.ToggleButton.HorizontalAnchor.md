@@ -3,7 +3,6 @@ title: ToggleButton.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11793
 f1_keywords:
 - vbaac10.chm11793
-ms.prod: access
 api_name:
 - Access.ToggleButton.HorizontalAnchor
 ms.assetid: 89bab994-84a3-b363-7169-a12418ef1703

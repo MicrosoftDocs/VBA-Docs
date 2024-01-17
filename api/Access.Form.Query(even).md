@@ -3,7 +3,6 @@ title: Form.Query event (Access)
 keywords: vbaac10.chm13670
 f1_keywords:
 - vbaac10.chm13670
-ms.prod: access
 api_name:
 - Access.Form.Query
 ms.assetid: f3070a6f-3064-b496-ff9f-4da165205f90

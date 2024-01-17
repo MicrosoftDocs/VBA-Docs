@@ -3,7 +3,6 @@ title: TabControl.DblClick event (Access)
 keywords: vbaac10.chm14271
 f1_keywords:
 - vbaac10.chm14271
-ms.prod: access
 api_name:
 - Access.TabControl.DblClick
 ms.assetid: d45c03f4-5cde-6aae-e316-9fbe9c71f34a

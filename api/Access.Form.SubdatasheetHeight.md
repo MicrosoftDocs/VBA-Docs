@@ -3,7 +3,6 @@ title: Form.SubdatasheetHeight property (Access)
 keywords: vbaac10.chm13510
 f1_keywords:
 - vbaac10.chm13510
-ms.prod: access
 api_name:
 - Access.Form.SubdatasheetHeight
 ms.assetid: 0db2e4b5-e64b-6f55-ebfa-bcce98734491

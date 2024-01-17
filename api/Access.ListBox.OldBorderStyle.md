@@ -3,7 +3,6 @@ title: ListBox.OldBorderStyle property (Access)
 keywords: vbaac10.chm11248
 f1_keywords:
 - vbaac10.chm11248
-ms.prod: access
 api_name:
 - Access.ListBox.OldBorderStyle
 ms.assetid: 4da79825-91df-d731-ec39-c1d304972077

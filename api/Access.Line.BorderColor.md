@@ -3,7 +3,6 @@ title: Line.BorderColor property (Access)
 keywords: vbaac10.chm10339
 f1_keywords:
 - vbaac10.chm10339
-ms.prod: access
 api_name:
 - Access.Line.BorderColor
 ms.assetid: d809fd7e-63a2-3142-c9ae-2572b1910d48

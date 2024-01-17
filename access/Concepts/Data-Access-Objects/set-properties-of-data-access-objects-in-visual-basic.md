@@ -3,7 +3,6 @@ title: Set properties of Data Access Objects in Visual Basic
 keywords: vbaac10.chm5188066
 f1_keywords:
 - vbaac10.chm5188066
-ms.prod: access
 ms.assetid: 8942307f-950d-f39d-cab2-ba4fa387b438
 ms.date: 09/21/2018
 ms.localizationpriority: medium

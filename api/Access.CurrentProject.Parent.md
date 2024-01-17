@@ -3,7 +3,6 @@ title: CurrentProject.Parent property (Access)
 keywords: vbaac10.chm12723
 f1_keywords:
 - vbaac10.chm12723
-ms.prod: access
 api_name:
 - Access.CurrentProject.Parent
 ms.assetid: afd66c1b-db13-e336-02db-fcdc8f5226bc

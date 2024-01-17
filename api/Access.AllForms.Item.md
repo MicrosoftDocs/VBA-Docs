@@ -3,7 +3,6 @@ title: AllForms.Item property (Access)
 keywords: vbaac10.chm12680
 f1_keywords:
 - vbaac10.chm12680
-ms.prod: access
 api_name:
 - Access.AllForms.Item
 ms.assetid: 07536c98-57e1-8660-b35e-0e79e4e797cb

@@ -3,7 +3,6 @@ title: BoundObjectFrame.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineThemeColorIndex
 ms.assetid: 1d527006-46f3-fc31-a579-ff2b32a104cc

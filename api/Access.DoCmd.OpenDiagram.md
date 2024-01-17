@@ -3,7 +3,6 @@ title: DoCmd.OpenDiagram method (Access)
 keywords: vbaac10.chm4650
 f1_keywords:
 - vbaac10.chm4650
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenDiagram
 ms.assetid: a9736e57-eb82-77d7-c57a-8c793333392a

@@ -3,7 +3,6 @@ title: TextBox.LeftMargin property (Access)
 keywords: vbaac10.chm11138
 f1_keywords:
 - vbaac10.chm11138
-ms.prod: access
 api_name:
 - Access.TextBox.LeftMargin
 ms.assetid: 9c5b798b-4afe-85be-aa06-eeff98888850

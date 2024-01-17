@@ -3,7 +3,6 @@ title: CheckBox.Locked property (Access)
 keywords: vbaac10.chm10704
 f1_keywords:
 - vbaac10.chm10704
-ms.prod: access
 api_name:
 - Access.CheckBox.Locked
 ms.assetid: 0f0b6f34-d389-8376-81fd-cff5a93ca4c1

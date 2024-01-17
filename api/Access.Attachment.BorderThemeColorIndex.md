@@ -3,7 +3,6 @@ title: Attachment.BorderThemeColorIndex property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: access
 api_name:
 - Access.Attachment.BorderThemeColorIndex
 ms.assetid: a1ee1ca4-74d4-5e8e-e2b7-fb44cd7f3617

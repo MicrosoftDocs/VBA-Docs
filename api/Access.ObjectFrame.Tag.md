@@ -3,7 +3,6 @@ title: ObjectFrame.Tag property (Access)
 keywords: vbaac10.chm11606
 f1_keywords:
 - vbaac10.chm11606
-ms.prod: access
 api_name:
 - Access.ObjectFrame.Tag
 ms.assetid: 0b8fdb5f-dadc-fafb-cc9a-74dfe40f9b80

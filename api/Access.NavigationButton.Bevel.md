@@ -3,7 +3,6 @@ title: NavigationButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
-ms.prod: access
 api_name:
 - Access.NavigationButton.Bevel
 ms.assetid: 199de5f0-71b1-7fc5-ff40-c4c76229e07c

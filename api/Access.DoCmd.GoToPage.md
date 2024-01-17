@@ -3,7 +3,6 @@ title: DoCmd.GoToPage method (Access)
 keywords: vbaac10.chm4153
 f1_keywords:
 - vbaac10.chm4153
-ms.prod: access
 api_name:
 - Access.DoCmd.GoToPage
 ms.assetid: 37fe25b3-85b2-f681-acfd-96dab039e58f

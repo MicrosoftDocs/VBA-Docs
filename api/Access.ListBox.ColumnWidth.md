@@ -3,7 +3,6 @@ title: ListBox.ColumnWidth property (Access)
 keywords: vbaac10.chm11263
 f1_keywords:
 - vbaac10.chm11263
-ms.prod: access
 api_name:
 - Access.ListBox.ColumnWidth
 ms.assetid: 759b1c74-77f0-8ee1-7fc9-8268104a207e

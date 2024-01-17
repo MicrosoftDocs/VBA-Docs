@@ -3,7 +3,6 @@ title: EdgeBrowserControl.DocumentComplete event (Access)
 keywords: vbaac10.chm5903
 f1_keywords:
 - vbaac10.chm5903
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.DocumentComplete
 ms.assetid: f00058ad-1a02-43b2-8610-31226cb5aed7

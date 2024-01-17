@@ -3,7 +3,6 @@ title: Cannot synchronize a partial replica with another partial replica. (Error
 keywords: jeterr40.chm5003648
 f1_keywords:
 - jeterr40.chm5003648
-ms.prod: access
 ms.assetid: eed89d3f-b12a-2172-e3b8-ea6068dda440
 ms.date: 06/08/2019
 ms.localizationpriority: medium

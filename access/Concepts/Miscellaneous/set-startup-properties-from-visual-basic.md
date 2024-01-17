@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm14060
 f1_keywords:
 - vbaac10.chm14060
-ms.prod: access
 ms.assetid: 73a639d8-38db-cee3-5e16-0d6e1fb54358
 ms.date: 06/08/2017
 ms.localizationpriority: medium

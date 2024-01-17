@@ -3,7 +3,6 @@ title: Rectangle.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.Rectangle.BackShade
 ms.assetid: 917bbe83-940a-edc5-8c6d-230af220d641

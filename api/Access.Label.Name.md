@@ -3,7 +3,6 @@ title: Label.Name property (Access)
 keywords: vbaac10.chm10233
 f1_keywords:
 - vbaac10.chm10233
-ms.prod: access
 api_name:
 - Access.Label.Name
 ms.assetid: 5d452246-b13f-af03-b733-c0f4cb207c89

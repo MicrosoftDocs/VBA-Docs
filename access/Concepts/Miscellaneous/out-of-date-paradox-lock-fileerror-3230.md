@@ -3,7 +3,6 @@ title: Out-of-date Paradox lock file. (Error 3230)
 keywords: jeterr40.chm5003230
 f1_keywords:
 - jeterr40.chm5003230
-ms.prod: access
 ms.assetid: 212ff53c-e449-72b5-3954-af7edddda117
 ms.date: 06/08/2019
 ms.localizationpriority: medium

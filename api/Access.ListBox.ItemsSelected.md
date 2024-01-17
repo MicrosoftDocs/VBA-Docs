@@ -3,7 +3,6 @@ title: ListBox.ItemsSelected property (Access)
 keywords: vbaac10.chm11215
 f1_keywords:
 - vbaac10.chm11215
-ms.prod: access
 api_name:
 - Access.ListBox.ItemsSelected
 ms.assetid: c2403562-00c4-12ec-4d31-9b83d081cb4d

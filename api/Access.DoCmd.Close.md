@@ -3,7 +3,6 @@ title: DoCmd.Close method (Access)
 keywords: vbaac10.chm4145
 f1_keywords:
 - vbaac10.chm4145
-ms.prod: access
 api_name:
 - Access.DoCmd.Close
 ms.assetid: 3fdb2fa2-31d8-baf7-89f3-f9ef330280b3

@@ -3,7 +3,6 @@ title: Report.Circle method (Access)
 keywords: vbaac10.chm13782
 f1_keywords:
 - vbaac10.chm13782
-ms.prod: access
 api_name:
 - Access.Report.Circle
 ms.assetid: 4f5d24e2-75bf-3586-7e0d-0902adee61a6

@@ -3,7 +3,6 @@ title: TextBox.Enabled property (Access)
 keywords: vbaac10.chm11060
 f1_keywords:
 - vbaac10.chm11060
-ms.prod: access
 api_name:
 - Access.TextBox.Enabled
 ms.assetid: a13297e5-091c-7e83-78cd-fa67f5b81153

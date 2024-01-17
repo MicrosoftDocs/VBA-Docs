@@ -3,7 +3,6 @@ title: CurrentProject.BaseConnectionString property (Access)
 keywords: vbaac10.chm12713
 f1_keywords:
 - vbaac10.chm12713
-ms.prod: access
 api_name:
 - Access.CurrentProject.BaseConnectionString
 ms.assetid: 280bb905-d321-d844-8ab6-6c9352dd3ab0

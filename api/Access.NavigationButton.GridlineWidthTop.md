@@ -3,7 +3,6 @@ title: NavigationButton.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10533
 f1_keywords:
 - vbaac10.chm10533
-ms.prod: access
 api_name:
 - Access.NavigationButton.GridlineWidthTop
 ms.assetid: cc403764-1484-2b0f-a6eb-0cbbc25572c1

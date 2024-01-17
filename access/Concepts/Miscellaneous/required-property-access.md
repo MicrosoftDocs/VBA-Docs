@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm7020
 f1_keywords:
 - vbaac10.chm7020
-ms.prod: access
 api_name:
 - Access.Required
 ms.assetid: 4aa6d0bb-4a07-9efc-4d2e-414bcc11e42e

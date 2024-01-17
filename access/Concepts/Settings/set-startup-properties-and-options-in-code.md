@@ -3,7 +3,6 @@ title: Set startup properties and options in code
 keywords: vbaac10.chm5188070
 f1_keywords:
 - vbaac10.chm5188070
-ms.prod: access
 ms.assetid: 6b6e50d6-27b5-337b-e95e-5e100c958713
 ms.date: 09/26/2018
 ms.localizationpriority: medium

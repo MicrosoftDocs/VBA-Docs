@@ -3,7 +3,6 @@ title: Report.FilterOnLoad property (Access)
 keywords: vbaac10.chm13816
 f1_keywords:
 - vbaac10.chm13816
-ms.prod: access
 api_name:
 - Access.Report.FilterOnLoad
 ms.assetid: 37d0e39d-dfd5-c2b7-e549-9b165a90ceb9

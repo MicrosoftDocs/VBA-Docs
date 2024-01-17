@@ -3,7 +3,6 @@ title: ToggleButton.TopPadding property (Access)
 keywords: vbaac10.chm11781
 f1_keywords:
 - vbaac10.chm11781
-ms.prod: access
 api_name:
 - Access.ToggleButton.TopPadding
 ms.assetid: 5a53f0b9-895f-afbb-b0cf-209652d3863e

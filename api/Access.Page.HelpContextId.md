@@ -3,7 +3,6 @@ title: Page.HelpContextId property (Access)
 keywords: vbaac10.chm12161
 f1_keywords:
 - vbaac10.chm12161
-ms.prod: access
 api_name:
 - Access.Page.HelpContextId
 ms.assetid: 81497fa2-357a-cbf0-3179-bbcb436621d5

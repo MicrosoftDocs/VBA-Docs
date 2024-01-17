@@ -3,7 +3,6 @@ title: Attachment.Layout property (Access)
 keywords: vbaac10.chm13987
 f1_keywords:
 - vbaac10.chm13987
-ms.prod: access
 api_name:
 - Access.Attachment.Layout
 ms.assetid: 1256c89d-96d6-20de-1a37-31c92e5e6ddb

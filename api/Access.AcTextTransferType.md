@@ -3,7 +3,6 @@ title: AcTextTransferType enumeration (Access)
 keywords: vbaac10.chm10028
 f1_keywords:
 - vbaac10.chm10028
-ms.prod: access
 api_name:
 - Access.AcTextTransferType
 ms.assetid: 56aeb63e-e249-9267-3184-9a370f766fd2

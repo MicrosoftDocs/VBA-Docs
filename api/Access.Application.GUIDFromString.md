@@ -3,7 +3,6 @@ title: Application.GUIDFromString method (Access)
 keywords: vbaac10.chm12558
 f1_keywords:
 - vbaac10.chm12558
-ms.prod: access
 api_name:
 - Access.Application.GUIDFromString
 ms.assetid: 943da2f6-a578-f05d-5778-990b6892fc64

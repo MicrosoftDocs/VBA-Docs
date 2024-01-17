@@ -3,7 +3,6 @@ title: SubForm.Controls property (Access)
 keywords: vbaac10.chm11922
 f1_keywords:
 - vbaac10.chm11922
-ms.prod: access
 api_name:
 - Access.SubForm.Controls
 ms.assetid: 1f2c6835-7fa6-44cb-a258-e90807c93dd6

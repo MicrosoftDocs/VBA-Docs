@@ -3,7 +3,6 @@ title: OptionGroup.OnMouseUp property (Access)
 keywords: vbaac10.chm10870
 f1_keywords:
 - vbaac10.chm10870
-ms.prod: access
 api_name:
 - Access.OptionGroup.OnMouseUp
 ms.assetid: d132898c-7dba-4048-d32a-8f4257c5668c

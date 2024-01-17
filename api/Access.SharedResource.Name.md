@@ -3,7 +3,6 @@ title: SharedResource.Name property (Access)
 keywords: vbaac10.chm14656
 f1_keywords:
 - vbaac10.chm14656
-ms.prod: access
 api_name:
 - Access.SharedResource.Name
 ms.assetid: b7a7a85a-54c2-9f39-c2bf-c952d107c00f

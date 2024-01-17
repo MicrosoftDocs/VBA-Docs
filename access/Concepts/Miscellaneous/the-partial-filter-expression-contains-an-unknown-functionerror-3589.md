@@ -3,7 +3,6 @@ title: The partial filter expression contains an unknown function. (Error 3589)
 keywords: jeterr40.chm5003589
 f1_keywords:
 - jeterr40.chm5003589
-ms.prod: access
 ms.assetid: 206eb074-132a-a158-fa2f-481d8ba6f5ed
 ms.date: 06/08/2017
 ms.localizationpriority: medium

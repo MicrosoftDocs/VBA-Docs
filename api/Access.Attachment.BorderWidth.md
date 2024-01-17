@@ -3,7 +3,6 @@ title: Attachment.BorderWidth property (Access)
 keywords: vbaac10.chm13930
 f1_keywords:
 - vbaac10.chm13930
-ms.prod: access
 api_name:
 - Access.Attachment.BorderWidth
 ms.assetid: e72672a1-3b17-ad1b-ff7d-96e3652a9f35

@@ -3,7 +3,6 @@ title: ComboBox.LostFocus event (Access)
 keywords: vbaac10.chm14218
 f1_keywords:
 - vbaac10.chm14218
-ms.prod: access
 api_name:
 - Access.ComboBox.LostFocus
 ms.assetid: e25f07da-2399-0258-b3be-bf1fd6a1e171

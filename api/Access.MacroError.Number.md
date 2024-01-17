@@ -3,7 +3,6 @@ title: MacroError.Number property (Access)
 keywords: vbaac10.chm14050
 f1_keywords:
 - vbaac10.chm14050
-ms.prod: access
 api_name:
 - Access.MacroError.Number
 ms.assetid: e9aa6784-d133-5ebb-055e-a6527574c4a0

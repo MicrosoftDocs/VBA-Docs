@@ -3,7 +3,6 @@ title: ComboBox.Undo method (Access)
 keywords: vbaac10.chm11358
 f1_keywords:
 - vbaac10.chm11358
-ms.prod: access
 api_name:
 - Access.ComboBox.Undo
 ms.assetid: f5d21af8-0e6d-1517-baf8-020bde595b76

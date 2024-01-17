@@ -3,7 +3,6 @@ title: CustomControl.LostFocus event (Access)
 keywords: vbaac10.chm14118
 f1_keywords:
 - vbaac10.chm14118
-ms.prod: access
 api_name:
 - Access.CustomControl.LostFocus
 ms.assetid: 061c8169-f11a-db5a-3bfe-5f43d1a33a74

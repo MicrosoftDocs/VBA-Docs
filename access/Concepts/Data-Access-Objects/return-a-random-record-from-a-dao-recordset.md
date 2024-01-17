@@ -1,6 +1,5 @@
 ---
 title: Return a random record from a DAO Recordset
-ms.prod: access
 ms.assetid: 16d8998f-0aca-a5e6-dec4-2be93c41a595
 ms.date: 09/21/2018
 ms.localizationpriority: medium

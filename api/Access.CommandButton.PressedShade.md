@@ -3,7 +3,6 @@ title: CommandButton.PressedShade property (Access)
 keywords: vbaac10.chm14622
 f1_keywords:
 - vbaac10.chm14622
-ms.prod: access
 api_name:
 - Access.CommandButton.PressedShade
 ms.assetid: 8aa77c14-e9da-d4a2-015d-f1a2c2ced859

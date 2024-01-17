@@ -3,7 +3,6 @@ title: TabControl.FontName property (Access)
 keywords: vbaac10.chm12090
 f1_keywords:
 - vbaac10.chm12090
-ms.prod: access
 api_name:
 - Access.TabControl.FontName
 ms.assetid: 1ce68bee-4655-b3f8-839e-a8eeb92103e9

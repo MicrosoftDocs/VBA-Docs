@@ -3,7 +3,6 @@ title: Form.DatasheetFontUnderline property (Access)
 keywords: vbaac10.chm13400
 f1_keywords:
 - vbaac10.chm13400
-ms.prod: access
 api_name:
 - Access.Form.DatasheetFontUnderline
 ms.assetid: a232a1a8-b537-4935-bd64-138548241c7c

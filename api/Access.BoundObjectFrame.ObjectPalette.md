@@ -3,7 +3,6 @@ title: BoundObjectFrame.ObjectPalette property (Access)
 keywords: vbaac10.chm10953
 f1_keywords:
 - vbaac10.chm10953
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ObjectPalette
 ms.assetid: 6f26ca1f-d851-4914-6dfa-c419b4ceac12

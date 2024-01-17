@@ -3,7 +3,6 @@ title: ToggleButton.BeforeUpdate property (Access)
 keywords: vbaac10.chm11747
 f1_keywords:
 - vbaac10.chm11747
-ms.prod: access
 api_name:
 - Access.ToggleButton.BeforeUpdate
 ms.assetid: a2754963-4168-aa9f-6b0c-8de4332c09e6

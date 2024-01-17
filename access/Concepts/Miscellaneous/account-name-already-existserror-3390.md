@@ -3,7 +3,6 @@ title: Account name already exists. (Error 3390)
 keywords: jeterr40.chm5003390
 f1_keywords:
 - jeterr40.chm5003390
-ms.prod: access
 ms.assetid: 6dfb2f67-e61f-8685-f711-d8f342c8e6a6
 ms.date: 06/08/2019
 ms.localizationpriority: medium

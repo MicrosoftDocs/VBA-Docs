@@ -3,7 +3,6 @@ title: Page.EventProcPrefix property (Access)
 keywords: vbaac10.chm12145
 f1_keywords:
 - vbaac10.chm12145
-ms.prod: access
 api_name:
 - Access.Page.EventProcPrefix
 ms.assetid: 935843c6-cc50-016d-5569-87263670af99

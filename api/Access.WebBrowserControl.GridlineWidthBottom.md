@@ -3,7 +3,6 @@ title: WebBrowserControl.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm14401
 f1_keywords:
 - vbaac10.chm14401
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineWidthBottom
 ms.assetid: ed4a2aed-d409-7167-2a52-7a4660383b3e

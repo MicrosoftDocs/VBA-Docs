@@ -3,7 +3,6 @@ title: WebBrowserControl object (Access)
 keywords: vbaac10.chm14346
 f1_keywords:
 - vbaac10.chm14346
-ms.prod: access
 api_name:
 - Access.WebBrowserControl
 ms.assetid: d7a2fc59-e373-ea64-e877-e18f23c491a0

@@ -3,7 +3,6 @@ title: Section.WillContinue property (Access)
 keywords: vbaac10.chm12213
 f1_keywords:
 - vbaac10.chm12213
-ms.prod: access
 api_name:
 - Access.Section.WillContinue
 ms.assetid: e79785e6-87b8-dd9f-9659-341c2fd81bf5

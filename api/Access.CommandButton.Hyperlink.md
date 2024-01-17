@@ -3,7 +3,6 @@ title: CommandButton.Hyperlink property (Access)
 keywords: vbaac10.chm10446
 f1_keywords:
 - vbaac10.chm10446
-ms.prod: access
 api_name:
 - Access.CommandButton.Hyperlink
 ms.assetid: 2f5ce470-967a-450d-f661-ac1e1f370d56

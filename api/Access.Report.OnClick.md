@@ -3,7 +3,6 @@ title: Report.OnClick property (Access)
 keywords: vbaac10.chm13861
 f1_keywords:
 - vbaac10.chm13861
-ms.prod: access
 api_name:
 - Access.Report.OnClick
 ms.assetid: 45161619-ed2c-ff3d-00a6-26ed802e0480

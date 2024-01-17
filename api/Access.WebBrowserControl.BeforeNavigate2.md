@@ -3,7 +3,6 @@ title: WebBrowserControl.BeforeNavigate2 event (Access)
 keywords: vbaac10.chm143140
 f1_keywords:
 - vbaac10.chm143140
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.BeforeNavigate2
 ms.assetid: 7f6c963b-604e-c350-e71f-899fd6258e46

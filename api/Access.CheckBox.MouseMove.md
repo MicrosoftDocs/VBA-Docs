@@ -3,7 +3,6 @@ title: CheckBox.MouseMove event (Access)
 keywords: vbaac10.chm14128
 f1_keywords:
 - vbaac10.chm14128
-ms.prod: access
 api_name:
 - Access.CheckBox.MouseMove
 ms.assetid: f45a89b3-eab8-0757-1ac8-b2aebaa47a1f

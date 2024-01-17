@@ -3,7 +3,6 @@ title: NavigationControl.InSelection property (Access)
 keywords: vbaac10.chm11114
 f1_keywords:
 - vbaac10.chm11114
-ms.prod: access
 api_name:
 - Access.NavigationControl.InSelection
 ms.assetid: 96b49172-cea7-26e3-0bdc-6e0b85a1402f

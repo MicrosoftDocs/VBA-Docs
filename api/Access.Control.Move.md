@@ -3,7 +3,6 @@ title: Control.Move method (Access)
 keywords: vbaac10.chm10152
 f1_keywords:
 - vbaac10.chm10152
-ms.prod: access
 api_name:
 - Access.Control.Move
 ms.assetid: fd52e497-642f-72a9-af64-971d8c888e71

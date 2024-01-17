@@ -3,7 +3,6 @@ title: Application.LanguageSettings property (Access)
 keywords: vbaac10.chm12588
 f1_keywords:
 - vbaac10.chm12588
-ms.prod: access
 api_name:
 - Access.Application.LanguageSettings
 ms.assetid: f2b039bf-95a8-7820-355e-67fa5e47aaf6

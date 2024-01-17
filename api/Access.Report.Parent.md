@@ -3,7 +3,6 @@ title: Report.Parent property (Access)
 keywords: vbaac10.chm13779
 f1_keywords:
 - vbaac10.chm13779
-ms.prod: access
 api_name:
 - Access.Report.Parent
 ms.assetid: 8ad25142-21e4-f0ae-d1c6-621dee5edc69

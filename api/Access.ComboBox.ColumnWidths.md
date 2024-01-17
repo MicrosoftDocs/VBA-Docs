@@ -3,7 +3,6 @@ title: ComboBox.ColumnWidths property (Access)
 keywords: vbaac10.chm11382
 f1_keywords:
 - vbaac10.chm11382
-ms.prod: access
 api_name:
 - Access.ComboBox.ColumnWidths
 ms.assetid: cd7894fd-e989-4f17-d779-073c8ef6c664

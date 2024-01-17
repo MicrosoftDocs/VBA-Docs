@@ -3,7 +3,6 @@ title: Form.AllowFormView property (Access)
 keywords: vbaac10.chm13532
 f1_keywords:
 - vbaac10.chm13532
-ms.prod: access
 api_name:
 - Access.Form.AllowFormView
 ms.assetid: 15dc69fc-d4ba-c8e3-d047-71f96c32fe02

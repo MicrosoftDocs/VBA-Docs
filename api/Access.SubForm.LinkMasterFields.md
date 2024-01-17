@@ -3,7 +3,6 @@ title: SubForm.LinkMasterFields property (Access)
 keywords: vbaac10.chm11928
 f1_keywords:
 - vbaac10.chm11928
-ms.prod: access
 api_name:
 - Access.SubForm.LinkMasterFields
 ms.assetid: b5be0557-a75c-dacc-e842-b9196edf37ce

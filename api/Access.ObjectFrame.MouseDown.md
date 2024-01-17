@@ -3,7 +3,6 @@ title: ObjectFrame.MouseDown event (Access)
 keywords: vbaac10.chm14111
 f1_keywords:
 - vbaac10.chm14111
-ms.prod: access
 api_name:
 - Access.ObjectFrame.MouseDown
 ms.assetid: 54fb7a4f-8428-429d-e560-3c4b64c0f683

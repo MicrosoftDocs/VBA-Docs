@@ -3,7 +3,6 @@ title: AcValueAxis enumeration (Access)
 keywords: vbaac10.chm14765
 f1_keywords:
 - vbaac10.chm14765
-ms.prod: access
 api_name:
 - Access.AcValueAxis
 ms.date: 11/28/2018

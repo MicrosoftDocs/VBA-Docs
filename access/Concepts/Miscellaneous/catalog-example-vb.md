@@ -1,6 +1,5 @@
 ---
 title: Catalog example (VB)
-ms.prod: access
 ms.assetid: fcd982a8-0033-8643-99b0-a1b065e445f4
 ms.date: 06/08/2019
 ms.localizationpriority: medium

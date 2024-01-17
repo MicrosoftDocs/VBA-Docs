@@ -3,7 +3,6 @@ title: CommandButton.OnClick property (Access)
 keywords: vbaac10.chm10497
 f1_keywords:
 - vbaac10.chm10497
-ms.prod: access
 api_name:
 - Access.CommandButton.OnClick
 ms.assetid: 1034aa82-58cd-f639-d936-326049ccf38c

@@ -3,7 +3,6 @@ title: Cannot use Memo or OLE Object field <name> in the SELECT clause of a unio
 keywords: jeterr40.chm5003364
 f1_keywords:
 - jeterr40.chm5003364
-ms.prod: access
 ms.assetid: 53863118-298a-6a07-e85f-79d5754801fe
 ms.date: 06/08/2019
 ms.localizationpriority: medium

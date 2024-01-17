@@ -3,7 +3,6 @@ title: NavigationButton.PressedForeShade property (Access)
 keywords: vbaac10.chm14626
 f1_keywords:
 - vbaac10.chm14626
-ms.prod: access
 api_name:
 - Access.NavigationButton.PressedForeShade
 ms.assetid: 5a086d71-d916-5b97-9e98-51f6394f3eaa

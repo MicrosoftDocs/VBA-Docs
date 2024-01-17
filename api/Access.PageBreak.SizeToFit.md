@@ -3,7 +3,6 @@ title: PageBreak.SizeToFit method (Access)
 keywords: vbaac10.chm11670
 f1_keywords:
 - vbaac10.chm11670
-ms.prod: access
 api_name:
 - Access.PageBreak.SizeToFit
 ms.assetid: 3b4c040a-e665-ad00-b9bf-1f3f8f25c35a

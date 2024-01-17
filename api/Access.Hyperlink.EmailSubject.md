@@ -3,7 +3,6 @@ title: Hyperlink.EmailSubject property (Access)
 keywords: vbaac10.chm10118
 f1_keywords:
 - vbaac10.chm10118
-ms.prod: access
 api_name:
 - Access.Hyperlink.EmailSubject
 ms.assetid: e2854e40-d16c-f854-3543-80fc14c8f728

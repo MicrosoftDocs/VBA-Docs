@@ -3,7 +3,6 @@ title: ToggleButton.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.ToggleButton.BackTint
 ms.assetid: 21f063d1-28c4-d357-7d92-12c38a719295

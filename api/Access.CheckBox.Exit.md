@@ -3,7 +3,6 @@ title: CheckBox.Exit event (Access)
 keywords: vbaac10.chm14123
 f1_keywords:
 - vbaac10.chm14123
-ms.prod: access
 api_name:
 - Access.CheckBox.Exit
 ms.assetid: 5a805d97-8d63-1635-f41a-e18aa9437d59

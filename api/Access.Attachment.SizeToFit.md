@@ -3,7 +3,6 @@ title: Attachment.SizeToFit method (Access)
 keywords: vbaac10.chm13907
 f1_keywords:
 - vbaac10.chm13907
-ms.prod: access
 api_name:
 - Access.Attachment.SizeToFit
 ms.assetid: 9e9b8a65-79ba-9fda-08d8-9b5444678228

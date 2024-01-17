@@ -3,7 +3,6 @@ title: Attachment.AddColon property (Access)
 keywords: vbaac10.chm14004
 f1_keywords:
 - vbaac10.chm14004
-ms.prod: access
 api_name:
 - Access.Attachment.AddColon
 ms.assetid: 8eeb0085-e880-50ff-1e9f-3ae48d5bc6de

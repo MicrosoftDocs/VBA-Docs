@@ -3,7 +3,6 @@ title: Attachment.PictureTiling property (Access)
 keywords: vbaac10.chm13917
 f1_keywords:
 - vbaac10.chm13917
-ms.prod: access
 api_name:
 - Access.Attachment.PictureTiling
 ms.assetid: d7eb8047-ea1d-e864-d2d7-51cd340cbc63

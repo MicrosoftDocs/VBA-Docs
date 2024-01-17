@@ -3,7 +3,6 @@ title: DoCmd.OpenQuery method (Access)
 keywords: vbaac10.chm4162
 f1_keywords:
 - vbaac10.chm4162
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenQuery
 ms.assetid: 3ea20a28-8dd4-e54c-831b-e7e5444aa793

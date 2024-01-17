@@ -3,7 +3,6 @@ title: DoCmd.OpenFunction method (Access)
 keywords: vbaac10.chm5161
 f1_keywords:
 - vbaac10.chm5161
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenFunction
 ms.assetid: 56168394-9e83-f620-8b5e-680e824ec941

@@ -3,7 +3,6 @@ title: CheckBox.TripleState property (Access)
 keywords: vbaac10.chm10705
 f1_keywords:
 - vbaac10.chm10705
-ms.prod: access
 api_name:
 - Access.CheckBox.TripleState
 ms.assetid: f2c9f398-6e1b-00cb-4033-b0fb5a83e737

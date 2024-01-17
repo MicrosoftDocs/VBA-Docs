@@ -3,7 +3,6 @@ title: SubForm.Height property (Access)
 keywords: vbaac10.chm11941
 f1_keywords:
 - vbaac10.chm11941
-ms.prod: access
 api_name:
 - Access.SubForm.Height
 ms.assetid: e5f71fa5-4661-4272-2fea-27fc2be541b7

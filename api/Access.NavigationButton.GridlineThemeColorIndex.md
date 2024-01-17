@@ -3,7 +3,6 @@ title: NavigationButton.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: access
 api_name:
 - Access.NavigationButton.GridlineThemeColorIndex
 ms.assetid: b5060b87-ea34-f30a-91ef-2fd6408f89aa

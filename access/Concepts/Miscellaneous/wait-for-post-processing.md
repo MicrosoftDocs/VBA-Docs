@@ -3,7 +3,6 @@ title: Wait For Post Processing property
 keywords: vbaac10.chm5991
 f1_keywords:
 - vbaac10.chm5991
-ms.prod: access
 ms.assetid: b747ff33-3e84-480c-bcd8-3b5e7d0e063d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

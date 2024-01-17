@@ -3,7 +3,6 @@ title: Report.Activate event (Access)
 keywords: vbaac10.chm13878
 f1_keywords:
 - vbaac10.chm13878
-ms.prod: access
 api_name:
 - Access.Report.Activate
 ms.assetid: 565cf35c-e7ea-e1ec-b23b-b84a6318fde7

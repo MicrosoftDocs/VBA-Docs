@@ -3,7 +3,6 @@ title: Report.GridY property (Access)
 keywords: vbaac10.chm13714
 f1_keywords:
 - vbaac10.chm13714
-ms.prod: access
 api_name:
 - Access.Report.GridY
 ms.assetid: e4a13708-fa05-8ac4-af5f-0f78ee15e623

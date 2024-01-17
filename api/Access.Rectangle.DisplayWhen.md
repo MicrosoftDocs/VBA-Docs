@@ -3,7 +3,6 @@ title: Rectangle.DisplayWhen property (Access)
 keywords: vbaac10.chm10282
 f1_keywords:
 - vbaac10.chm10282
-ms.prod: access
 api_name:
 - Access.Rectangle.DisplayWhen
 ms.assetid: b8aaae52-6f39-82ad-9eec-f4d0e5b885ff

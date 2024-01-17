@@ -3,7 +3,6 @@ title: BoundObjectFrame.Parent property (Access)
 keywords: vbaac10.chm10897
 f1_keywords:
 - vbaac10.chm10897
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Parent
 ms.assetid: 01e45f04-c4f4-0348-04ca-7eb714bf99e5

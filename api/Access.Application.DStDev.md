@@ -3,7 +3,6 @@ title: Application.DStDev method (Access)
 keywords: vbaac10.chm12533
 f1_keywords:
 - vbaac10.chm12533
-ms.prod: access
 api_name:
 - Access.Application.DStDev
 ms.assetid: 401b4e16-dfd4-7256-b03d-f3915c5f9ca5

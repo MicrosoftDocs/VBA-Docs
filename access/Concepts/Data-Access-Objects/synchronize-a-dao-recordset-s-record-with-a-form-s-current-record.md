@@ -1,6 +1,5 @@
 ---
 title: Synchronize a DAO Recordset's record with a form's current record
-ms.prod: access
 ms.assetid: 2960dd7d-4c60-4148-ef58-dd44f1042851
 ms.date: 09/21/2018
 ms.localizationpriority: medium

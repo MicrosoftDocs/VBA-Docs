@@ -3,7 +3,6 @@ title: Report.OnUnload property (Access)
 keywords: vbaac10.chm13858
 f1_keywords:
 - vbaac10.chm13858
-ms.prod: access
 api_name:
 - Access.Report.OnUnload
 ms.assetid: 0ebc34b7-3541-4d35-fc9b-ac0feb41b873

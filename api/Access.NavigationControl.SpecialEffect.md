@@ -3,7 +3,6 @@ title: NavigationControl.SpecialEffect property (Access)
 keywords: vbaac10.chm11077
 f1_keywords:
 - vbaac10.chm11077
-ms.prod: access
 api_name:
 - Access.NavigationControl.SpecialEffect
 ms.assetid: ab1cb63a-d51b-cbd3-bf40-d52148925556

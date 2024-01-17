@@ -3,7 +3,6 @@ title: EmptyCell.Left property (Access)
 keywords: vbaac10.chm14307
 f1_keywords:
 - vbaac10.chm14307
-ms.prod: access
 api_name:
 - Access.EmptyCell.Left
 ms.assetid: 69ed2465-33e0-a823-4cfe-97b9c1c55ed4

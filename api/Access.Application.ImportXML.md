@@ -3,7 +3,6 @@ title: Application.ImportXML method (Access)
 keywords: vbaac10.chm12604
 f1_keywords:
 - vbaac10.chm12604
-ms.prod: access
 api_name:
 - Access.Application.ImportXML
 ms.assetid: c7baa4be-4ef6-c886-3cd6-06576563b77d

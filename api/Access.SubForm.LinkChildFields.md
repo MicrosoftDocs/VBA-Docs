@@ -3,7 +3,6 @@ title: SubForm.LinkChildFields property (Access)
 keywords: vbaac10.chm11927
 f1_keywords:
 - vbaac10.chm11927
-ms.prod: access
 api_name:
 - Access.SubForm.LinkChildFields
 ms.assetid: 74daa999-e531-88df-117b-ca7b3b6c795f

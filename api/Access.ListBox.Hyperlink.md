@@ -3,7 +3,6 @@ title: ListBox.Hyperlink property (Access)
 keywords: vbaac10.chm11216
 f1_keywords:
 - vbaac10.chm11216
-ms.prod: access
 api_name:
 - Access.ListBox.Hyperlink
 ms.assetid: fa85ede7-5845-cde8-c945-6a68beff196c

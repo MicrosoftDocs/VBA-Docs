@@ -3,7 +3,6 @@ title: CheckBox object (Access)
 keywords: vbaac10.chm10798
 f1_keywords:
 - vbaac10.chm10798
-ms.prod: access
 api_name:
 - Access.CheckBox
 ms.assetid: 63e75704-af4d-7b38-7b8b-04f7f17fa1ec

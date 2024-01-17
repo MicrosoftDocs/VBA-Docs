@@ -3,7 +3,6 @@ title: DoCmd.AddMenu method (Access)
 keywords: vbaac10.chm4141
 f1_keywords:
 - vbaac10.chm4141
-ms.prod: access
 api_name:
 - Access.DoCmd.AddMenu
 ms.assetid: d2db2143-fd15-56b3-ee99-b895bc6b21f8

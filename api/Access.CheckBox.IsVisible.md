@@ -3,7 +3,6 @@ title: CheckBox.IsVisible property (Access)
 keywords: vbaac10.chm10733
 f1_keywords:
 - vbaac10.chm10733
-ms.prod: access
 api_name:
 - Access.CheckBox.IsVisible
 ms.assetid: 2fa958e4-1580-c69e-739a-3b9e49a5713f

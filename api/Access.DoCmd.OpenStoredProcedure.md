@@ -3,7 +3,6 @@ title: DoCmd.OpenStoredProcedure method (Access)
 keywords: vbaac10.chm4651
 f1_keywords:
 - vbaac10.chm4651
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenStoredProcedure
 ms.assetid: 90e229f9-072a-8d41-4c9b-363501770c8c

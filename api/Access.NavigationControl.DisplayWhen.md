@@ -3,7 +3,6 @@ title: NavigationControl.DisplayWhen property (Access)
 keywords: vbaac10.chm11057
 f1_keywords:
 - vbaac10.chm11057
-ms.prod: access
 api_name:
 - Access.NavigationControl.DisplayWhen
 ms.assetid: e1e91c9b-aba6-4bf1-6b54-6c64badfa7af

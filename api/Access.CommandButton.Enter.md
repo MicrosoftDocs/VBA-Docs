@@ -3,7 +3,6 @@ title: CommandButton.Enter event (Access)
 keywords: vbaac10.chm14078
 f1_keywords:
 - vbaac10.chm14078
-ms.prod: access
 api_name:
 - Access.CommandButton.Enter
 ms.assetid: cc60adbd-eb72-92c3-a562-08adbf0dcc99

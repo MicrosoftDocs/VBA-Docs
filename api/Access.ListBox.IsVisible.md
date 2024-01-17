@@ -3,7 +3,6 @@ title: ListBox.IsVisible property (Access)
 keywords: vbaac10.chm11276
 f1_keywords:
 - vbaac10.chm11276
-ms.prod: access
 api_name:
 - Access.ListBox.IsVisible
 ms.assetid: 6105ef5f-5c92-c7c0-748d-3d8a1efb9050

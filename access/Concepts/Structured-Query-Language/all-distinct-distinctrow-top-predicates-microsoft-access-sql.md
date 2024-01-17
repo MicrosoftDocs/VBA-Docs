@@ -3,7 +3,6 @@ title: ALL, DISTINCT, DISTINCTROW, TOP predicates (Microsoft Access SQL)
 keywords: jetsql40.chm5277572
 f1_keywords:
 - jetsql40.chm5277572
-ms.prod: access
 ms.assetid: 6ff5c418-897b-7d65-8551-5a0ace3c587f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

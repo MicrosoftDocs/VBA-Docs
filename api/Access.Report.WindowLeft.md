@@ -3,7 +3,6 @@ title: Report.WindowLeft property (Access)
 keywords: vbaac10.chm13807
 f1_keywords:
 - vbaac10.chm13807
-ms.prod: access
 api_name:
 - Access.Report.WindowLeft
 ms.assetid: 839ca3d7-4d53-c9e8-b47f-34f94eb5083f

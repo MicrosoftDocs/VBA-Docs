@@ -3,7 +3,6 @@ title: Attachment.SetFocus method (Access)
 keywords: vbaac10.chm13909
 f1_keywords:
 - vbaac10.chm13909
-ms.prod: access
 api_name:
 - Access.Attachment.SetFocus
 ms.assetid: 53e9c9f3-f1b8-f68d-8e9a-8b15ab4a3e83

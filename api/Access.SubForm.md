@@ -3,7 +3,6 @@ title: SubForm object (Access)
 keywords: vbaac10.chm11985
 f1_keywords:
 - vbaac10.chm11985
-ms.prod: access
 api_name:
 - Access.SubForm
 ms.assetid: 60f961fa-dcf4-e1d1-8c50-9e88963f9dec

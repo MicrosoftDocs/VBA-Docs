@@ -3,7 +3,6 @@ title: OptionButton.TripleState property (Access)
 keywords: vbaac10.chm10578
 f1_keywords:
 - vbaac10.chm10578
-ms.prod: access
 api_name:
 - Access.OptionButton.TripleState
 ms.assetid: f2764290-00be-38f7-f078-fc0059340455

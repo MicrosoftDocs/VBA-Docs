@@ -3,7 +3,6 @@ title: Label.OnDblClick property (Access)
 keywords: vbaac10.chm10225
 f1_keywords:
 - vbaac10.chm10225
-ms.prod: access
 api_name:
 - Access.Label.OnDblClick
 ms.assetid: 19d1cfa2-12da-4161-245f-5c45ba4405da

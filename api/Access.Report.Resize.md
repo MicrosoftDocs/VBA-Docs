@@ -3,7 +3,6 @@ title: Report.Resize event (Access)
 keywords: vbaac10.chm13885
 f1_keywords:
 - vbaac10.chm13885
-ms.prod: access
 api_name:
 - Access.Report.Resize
 ms.assetid: cd2c1c2a-959b-a5d0-9f75-a7443a9a57f1

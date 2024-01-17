@@ -3,7 +3,6 @@ title: Application.MacroError property (Access)
 keywords: vbaac10.chm12615
 f1_keywords:
 - vbaac10.chm12615
-ms.prod: access
 api_name:
 - Access.Application.MacroError
 ms.assetid: 08f88f9a-4cb5-850b-a08e-6a2aa62a5bcd

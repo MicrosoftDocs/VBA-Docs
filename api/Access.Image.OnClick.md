@@ -3,7 +3,6 @@ title: Image.OnClick property (Access)
 keywords: vbaac10.chm10394
 f1_keywords:
 - vbaac10.chm10394
-ms.prod: access
 api_name:
 - Access.Image.OnClick
 ms.assetid: ddd7ceb8-59ad-ffc4-771d-17ed0fb42ca2

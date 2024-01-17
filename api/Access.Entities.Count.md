@@ -3,7 +3,6 @@ title: Entities.Count property (Access)
 keywords: vbaac10.chm14563
 f1_keywords:
 - vbaac10.chm14563
-ms.prod: access
 api_name:
 - Access.Entities.Count
 ms.assetid: cd8e5b45-be63-763d-fbd2-880a40352869

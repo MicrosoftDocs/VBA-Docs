@@ -3,7 +3,6 @@ title: Attachment.TabStop property (Access)
 keywords: vbaac10.chm14013
 f1_keywords:
 - vbaac10.chm14013
-ms.prod: access
 api_name:
 - Access.Attachment.TabStop
 ms.assetid: 918d81a6-a9a2-ab4e-6fb3-ad78233b6e7f

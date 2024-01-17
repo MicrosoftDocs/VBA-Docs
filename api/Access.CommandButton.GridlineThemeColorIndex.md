@@ -3,7 +3,6 @@ title: CommandButton.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: access
 api_name:
 - Access.CommandButton.GridlineThemeColorIndex
 ms.assetid: e736f508-fc12-0244-5f46-825bbbbc24c8

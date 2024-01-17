@@ -3,7 +3,6 @@ title: AcAxisUnits enumeration (Access)
 keywords: vbaac10.chm14764
 f1_keywords:
 - vbaac10.chm14764
-ms.prod: access
 api_name:
 - Access.AcAxisUnits
 ms.date: 11/28/2018

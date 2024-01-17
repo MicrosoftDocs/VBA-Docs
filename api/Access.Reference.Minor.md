@@ -3,7 +3,6 @@ title: Reference.Minor property (Access)
 keywords: vbaac10.chm12633
 f1_keywords:
 - vbaac10.chm12633
-ms.prod: access
 api_name:
 - Access.Reference.Minor
 ms.assetid: 7c227db9-9b75-92e5-d32d-e3fda027c145

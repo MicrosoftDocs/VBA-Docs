@@ -3,7 +3,6 @@ title: Label.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10192
 f1_keywords:
 - vbaac10.chm10192
-ms.prod: access
 api_name:
 - Access.Label.HyperlinkAddress
 ms.assetid: ed50cbbe-f0bb-d096-2c50-920ad2f48eb9

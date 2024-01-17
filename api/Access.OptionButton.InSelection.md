@@ -3,7 +3,6 @@ title: OptionButton.InSelection property (Access)
 keywords: vbaac10.chm10607
 f1_keywords:
 - vbaac10.chm10607
-ms.prod: access
 api_name:
 - Access.OptionButton.InSelection
 ms.assetid: ed6d0f6f-a8d5-0a31-342b-9def542a7e78

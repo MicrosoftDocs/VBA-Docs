@@ -3,7 +3,6 @@ title: The object cannot be replicated because the database is not replicated. (
 keywords: jeterr40.chm5003485
 f1_keywords:
 - jeterr40.chm5003485
-ms.prod: access
 ms.assetid: ca11f046-2fa6-6da3-89ba-eacab953a992
 ms.date: 06/08/2017
 ms.localizationpriority: medium

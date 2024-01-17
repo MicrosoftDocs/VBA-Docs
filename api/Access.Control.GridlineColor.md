@@ -3,7 +3,6 @@ title: Control.GridlineColor property (Access)
 keywords: vbaac10.chm10168
 f1_keywords:
 - vbaac10.chm10168
-ms.prod: access
 api_name:
 - Access.Control.GridlineColor
 ms.assetid: 0966f9d9-70a0-cdd9-fc89-7bf9239e63b6

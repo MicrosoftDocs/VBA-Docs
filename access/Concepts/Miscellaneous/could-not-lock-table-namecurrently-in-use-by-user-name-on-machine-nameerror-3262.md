@@ -3,7 +3,6 @@ title: Could not lock table <name>; currently in use by user <name> on machine <
 keywords: jeterr40.chm5003262
 f1_keywords:
 - jeterr40.chm5003262
-ms.prod: access
 ms.assetid: aaee12b5-4497-5a7f-0a61-86612162c478
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: EmptyCell.GridlineShade property (Access)
 keywords: vbaac10.chm14637
 f1_keywords:
 - vbaac10.chm14637
-ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineShade
 ms.assetid: 64a15ee8-809a-1ce4-186b-c8b2eee50152

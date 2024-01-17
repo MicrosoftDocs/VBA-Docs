@@ -3,7 +3,6 @@ title: ObjectFrame.DblClick event (Access)
 keywords: vbaac10.chm14110
 f1_keywords:
 - vbaac10.chm14110
-ms.prod: access
 api_name:
 - Access.ObjectFrame.DblClick
 ms.assetid: 83a69067-7505-f126-0fa6-12f8d06d7144

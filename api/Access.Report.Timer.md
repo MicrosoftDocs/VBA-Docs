@@ -3,7 +3,6 @@ title: Report.Timer event (Access)
 keywords: vbaac10.chm13897
 f1_keywords:
 - vbaac10.chm13897
-ms.prod: access
 api_name:
 - Access.Report.Timer
 ms.assetid: 52e3db7f-a61c-8144-e39b-0f9daf61bd98

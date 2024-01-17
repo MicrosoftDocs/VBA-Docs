@@ -3,7 +3,6 @@ title: WebBrowserControl.BorderColor property (Access)
 keywords: vbaac10.chm14376
 f1_keywords:
 - vbaac10.chm14376
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.BorderColor
 ms.assetid: a9b49340-7aab-64eb-7904-b2090ca44840

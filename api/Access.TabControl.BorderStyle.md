@@ -3,7 +3,6 @@ title: TabControl.BorderStyle property (Access)
 keywords: vbaac10.chm10204
 f1_keywords:
 - vbaac10.chm10204
-ms.prod: access
 api_name:
 - Access.TabControl.BorderStyle
 ms.assetid: c09cf24e-2974-5b7f-3493-064258658c61

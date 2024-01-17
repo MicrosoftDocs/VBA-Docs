@@ -3,7 +3,6 @@ title: ListBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11319
 f1_keywords:
 - vbaac10.chm11319
-ms.prod: access
 api_name:
 - Access.ListBox.HorizontalAnchor
 ms.assetid: f21376e7-55e3-03a2-4687-f02ee5b40a18

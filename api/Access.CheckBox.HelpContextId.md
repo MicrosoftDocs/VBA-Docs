@@ -3,7 +3,6 @@ title: CheckBox.HelpContextId property (Access)
 keywords: vbaac10.chm10721
 f1_keywords:
 - vbaac10.chm10721
-ms.prod: access
 api_name:
 - Access.CheckBox.HelpContextId
 ms.assetid: 205d8d08-4060-7ac3-8bb2-99d381bbef50

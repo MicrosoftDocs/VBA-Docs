@@ -3,7 +3,6 @@ title: ComboBox.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.ComboBox.BackShade
 ms.assetid: d1846516-4f38-67bb-3e8c-41bd79ac7a30

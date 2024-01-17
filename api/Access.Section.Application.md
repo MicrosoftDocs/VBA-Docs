@@ -3,7 +3,6 @@ title: Section.Application property (Access)
 keywords: vbaac10.chm12186
 f1_keywords:
 - vbaac10.chm12186
-ms.prod: access
 api_name:
 - Access.Section.Application
 ms.assetid: 2f3d0784-34a7-b3d2-af29-5ab97f4e4467

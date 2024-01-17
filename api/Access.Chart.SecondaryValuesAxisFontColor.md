@@ -3,7 +3,6 @@ title: Chart.SecondaryValuesAxisFontColor property (Access)
 keywords: vbaac10.chm6133
 f1_keywords:
 - vbaac10.chm6133
-ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisFontColor
 ms.date: 11/28/2018

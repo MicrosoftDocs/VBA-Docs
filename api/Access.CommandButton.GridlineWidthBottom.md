@@ -3,7 +3,6 @@ title: CommandButton.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10535
 f1_keywords:
 - vbaac10.chm10535
-ms.prod: access
 api_name:
 - Access.CommandButton.GridlineWidthBottom
 ms.assetid: 693e49bf-fd74-b00f-0663-54f577179d3a

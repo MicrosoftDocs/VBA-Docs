@@ -3,7 +3,6 @@ title: ToggleButton.BackColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.ToggleButton.BackColor
 ms.assetid: b86516be-1bf2-8a0d-ef4d-1795880ff8c4

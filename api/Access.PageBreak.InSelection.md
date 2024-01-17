@@ -3,7 +3,6 @@ title: PageBreak.InSelection property (Access)
 keywords: vbaac10.chm11680
 f1_keywords:
 - vbaac10.chm11680
-ms.prod: access
 api_name:
 - Access.PageBreak.InSelection
 ms.assetid: 3d680238-bb28-de45-e798-4fb9de405ccc

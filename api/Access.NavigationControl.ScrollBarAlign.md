@@ -3,7 +3,6 @@ title: NavigationControl.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11133
 f1_keywords:
 - vbaac10.chm11133
-ms.prod: access
 api_name:
 - Access.NavigationControl.ScrollBarAlign
 ms.assetid: b685e196-513e-fe57-d993-d1e2f4051a4c

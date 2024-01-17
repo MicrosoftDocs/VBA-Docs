@@ -3,7 +3,6 @@ title: EmptyCell.GridlineWidthTop property (Access)
 keywords: vbaac10.chm14336
 f1_keywords:
 - vbaac10.chm14336
-ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineWidthTop
 ms.assetid: 4393308b-16f1-8dbe-b90b-8d2bc3dcc824

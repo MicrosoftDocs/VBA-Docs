@@ -3,7 +3,6 @@ title: ObjectFrame.IsVisible property (Access)
 keywords: vbaac10.chm11612
 f1_keywords:
 - vbaac10.chm11612
-ms.prod: access
 api_name:
 - Access.ObjectFrame.IsVisible
 ms.assetid: 0fdbf0ab-518b-6c1a-5394-a6ecad4f70f5

@@ -3,7 +3,6 @@ title: Image object (Access)
 keywords: vbaac10.chm10436
 f1_keywords:
 - vbaac10.chm10436
-ms.prod: access
 api_name:
 - Access.Image
 ms.assetid: 1bcc8552-94e2-b799-6903-392205cb4341

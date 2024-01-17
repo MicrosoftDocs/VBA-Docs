@@ -3,7 +3,6 @@ title: Set properties by using Visual Basic
 keywords: vbaac10.chm5188064
 f1_keywords:
 - vbaac10.chm5188064
-ms.prod: access
 ms.assetid: 3fa3677b-a779-3bc7-0f0f-827c252b3292
 ms.date: 09/26/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: UPDATEIDENTITY (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277493
 f1_keywords:
 - jetsql40.chm5277493
-ms.prod: access
 ms.assetid: f227996b-a666-5015-03f5-03936dc42ca1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

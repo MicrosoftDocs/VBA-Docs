@@ -3,7 +3,6 @@ title: Form.UseDefaultPrinter property (Access)
 keywords: vbaac10.chm13559
 f1_keywords:
 - vbaac10.chm13559
-ms.prod: access
 api_name:
 - Access.Form.UseDefaultPrinter
 ms.assetid: bdb7f428-ee00-5a76-e723-6d1858a6172c

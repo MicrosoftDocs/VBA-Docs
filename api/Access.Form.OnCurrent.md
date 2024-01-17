@@ -3,7 +3,6 @@ title: Form.OnCurrent property (Access)
 keywords: vbaac10.chm13430
 f1_keywords:
 - vbaac10.chm13430
-ms.prod: access
 api_name:
 - Access.Form.OnCurrent
 ms.assetid: bb7eb7be-7bb6-8fdd-6a48-f5b33ad7dc14

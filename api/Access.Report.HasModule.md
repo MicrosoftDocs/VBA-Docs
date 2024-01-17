@@ -3,7 +3,6 @@ title: Report.HasModule property (Access)
 keywords: vbaac10.chm13774
 f1_keywords:
 - vbaac10.chm13774
-ms.prod: access
 api_name:
 - Access.Report.HasModule
 ms.assetid: a4f33211-aaa8-d082-feed-aea75bda8659

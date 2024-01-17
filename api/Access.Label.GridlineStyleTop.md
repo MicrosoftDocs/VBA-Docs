@@ -3,7 +3,6 @@ title: Label.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10250
 f1_keywords:
 - vbaac10.chm10250
-ms.prod: access
 api_name:
 - Access.Label.GridlineStyleTop
 ms.assetid: 2ef763a4-b049-1e40-64c1-57ca85385fb1

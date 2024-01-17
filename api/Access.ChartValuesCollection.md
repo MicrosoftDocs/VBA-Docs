@@ -3,7 +3,6 @@ title: ChartValuesCollection object (Access)
 keywords: vbaac10.chm14755
 f1_keywords:
 - vbaac10.chm14755
-ms.prod: access
 api_name:
 - Access.ChartValuesCollection
 ms.date: 11/28/2018

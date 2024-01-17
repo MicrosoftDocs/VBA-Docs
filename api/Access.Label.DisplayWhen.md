@@ -3,7 +3,6 @@ title: Label.DisplayWhen property (Access)
 keywords: vbaac10.chm10195
 f1_keywords:
 - vbaac10.chm10195
-ms.prod: access
 api_name:
 - Access.Label.DisplayWhen
 ms.assetid: e9e1061d-536e-742b-5643-66d0b0573a71

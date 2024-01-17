@@ -3,7 +3,6 @@ title: Image.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10418
 f1_keywords:
 - vbaac10.chm10418
-ms.prod: access
 api_name:
 - Access.Image.GridlineStyleTop
 ms.assetid: 6190a13c-af22-6793-b64e-76c0fc2fed34

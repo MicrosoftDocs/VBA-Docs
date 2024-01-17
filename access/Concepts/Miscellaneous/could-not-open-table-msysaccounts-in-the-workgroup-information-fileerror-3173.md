@@ -3,7 +3,6 @@ title: Could not open table 'MSysAccounts' in the workgroup information file. (E
 keywords: jeterr40.chm5003173
 f1_keywords:
 - jeterr40.chm5003173
-ms.prod: access
 ms.assetid: a3f5372f-88e4-ecee-3ee5-fe2f2ba9037c
 ms.date: 06/08/2019
 ms.localizationpriority: medium

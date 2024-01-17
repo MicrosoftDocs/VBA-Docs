@@ -3,7 +3,6 @@ title: ComboBox.IMESentenceMode property (Access)
 keywords: vbaac10.chm11470
 f1_keywords:
 - vbaac10.chm11470
-ms.prod: access
 api_name:
 - Access.ComboBox.IMESentenceMode
 ms.assetid: f56b97cb-73c9-f5ff-a467-6e7dcd64e613

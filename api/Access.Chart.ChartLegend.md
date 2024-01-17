@@ -3,7 +3,6 @@ title: Chart.ChartLegend property (Access)
 keywords: vbaac10.chm6107
 f1_keywords:
 - vbaac10.chm6107
-ms.prod: access
 api_name:
 - Access.Chart.ChartLegend
 ms.date: 11/28/2018

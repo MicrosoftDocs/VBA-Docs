@@ -3,7 +3,6 @@ title: Report.OnTimer property (Access)
 keywords: vbaac10.chm13871
 f1_keywords:
 - vbaac10.chm13871
-ms.prod: access
 api_name:
 - Access.Report.OnTimer
 ms.assetid: ef7ac956-ffa4-da79-0d39-9c505409b4af

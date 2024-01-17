@@ -3,7 +3,6 @@ title: BoundObjectFrame.SourceItem property (Access)
 keywords: vbaac10.chm10914
 f1_keywords:
 - vbaac10.chm10914
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.SourceItem
 ms.assetid: ab802b9b-d17c-695b-aaf5-4f84d1935615

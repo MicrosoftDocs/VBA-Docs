@@ -3,7 +3,6 @@ title: Chart.PrimaryValuesAxisTitle property (Access)
 keywords: vbaac10.chm6114
 f1_keywords:
 - vbaac10.chm6114
-ms.prod: access
 api_name:
 - Access.Chart.CategoryAxisTitle
 ms.date: 11/28/2018

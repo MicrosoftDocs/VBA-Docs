@@ -3,7 +3,6 @@ title: Violates the rules for partial replicas. (Error 3590)
 keywords: jeterr40.chm5003590
 f1_keywords:
 - jeterr40.chm5003590
-ms.prod: access
 ms.assetid: e8cb495b-cf7d-3a81-f49c-d1c8f837956e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: DoCmd.RunSQL method (Access)
 keywords: vbaac10.chm4176
 f1_keywords:
 - vbaac10.chm4176
-ms.prod: access
 api_name:
 - Access.DoCmd.RunSQL
 ms.assetid: 5d61f75a-b220-cc2c-edea-51a6d4f9f106

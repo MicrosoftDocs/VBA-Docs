@@ -3,7 +3,6 @@ title: Cannot initialize Synchronizer because there are too many applications ru
 keywords: jeterr40.chm5003538
 f1_keywords:
 - jeterr40.chm5003538
-ms.prod: access
 ms.assetid: 39d671f2-c4a2-73aa-f918-5e4ebdaefc65
 ms.date: 06/08/2019
 ms.localizationpriority: medium

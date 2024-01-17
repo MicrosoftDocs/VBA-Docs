@@ -3,7 +3,6 @@ title: Report.ScaleLeft property (Access)
 keywords: vbaac10.chm13744
 f1_keywords:
 - vbaac10.chm13744
-ms.prod: access
 api_name:
 - Access.Report.ScaleLeft
 ms.assetid: 1e20b9ca-5b5b-2b05-431e-1957f5c70524

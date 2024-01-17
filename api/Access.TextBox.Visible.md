@@ -3,7 +3,6 @@ title: TextBox.Visible property (Access)
 keywords: vbaac10.chm11056
 f1_keywords:
 - vbaac10.chm11056
-ms.prod: access
 api_name:
 - Access.TextBox.Visible
 ms.assetid: af1b9264-53f9-bf4c-2f05-049288a1d3d5

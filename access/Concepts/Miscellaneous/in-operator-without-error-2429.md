@@ -3,7 +3,6 @@ title: In operator without (). (Error 2429)
 keywords: jeterr40.chm5002429
 f1_keywords:
 - jeterr40.chm5002429
-ms.prod: access
 ms.assetid: 40f2356c-f891-1d90-17be-ace51c989357
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Label.Hyperlink property (Access)
 keywords: vbaac10.chm10187
 f1_keywords:
 - vbaac10.chm10187
-ms.prod: access
 api_name:
 - Access.Label.Hyperlink
 ms.assetid: f8c015dc-e82c-5bd5-fb2c-d8858082527b

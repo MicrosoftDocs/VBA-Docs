@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4349
 f1_keywords:
 - vbaac10.chm4349
-ms.prod: access
 api_name:
 - Access.FieldSize
 ms.assetid: 5cf8d67a-d81d-33d8-4afd-17e61abd3b08

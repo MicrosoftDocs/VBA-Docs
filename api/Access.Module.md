@@ -3,7 +3,6 @@ title: Module object (Access)
 keywords: vbaac10.chm12268
 f1_keywords:
 - vbaac10.chm12268
-ms.prod: access
 api_name:
 - Access.Module
 ms.assetid: e04272fa-9c29-2567-bd15-1cea38906894

@@ -3,7 +3,6 @@ title: CheckBox.GotFocus event (Access)
 keywords: vbaac10.chm14124
 f1_keywords:
 - vbaac10.chm14124
-ms.prod: access
 api_name:
 - Access.CheckBox.GotFocus
 ms.assetid: 3437bdf0-cc5e-d09d-3607-9fd283613243

@@ -3,7 +3,6 @@ title: TextBox.Height property (Access)
 keywords: vbaac10.chm11074
 f1_keywords:
 - vbaac10.chm11074
-ms.prod: access
 api_name:
 - Access.TextBox.Height
 ms.assetid: 3f3d88d9-3561-a25b-5f22-a21b9cad6673

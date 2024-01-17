@@ -3,7 +3,6 @@ title: WebBrowserControl.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm14397
 f1_keywords:
 - vbaac10.chm14397
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineStyleBottom
 ms.assetid: b3e2fe62-ef2b-3a8d-8f16-a8f7dd635d57

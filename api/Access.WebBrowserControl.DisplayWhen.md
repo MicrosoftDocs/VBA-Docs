@@ -3,7 +3,6 @@ title: WebBrowserControl.DisplayWhen property (Access)
 keywords: vbaac10.chm14360
 f1_keywords:
 - vbaac10.chm14360
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.DisplayWhen
 ms.assetid: c03fdd8a-854a-8738-e904-7f857b94e52b

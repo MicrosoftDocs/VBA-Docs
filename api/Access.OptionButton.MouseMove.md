@@ -3,7 +3,6 @@ title: OptionButton.MouseMove event (Access)
 keywords: vbaac10.chm14142
 f1_keywords:
 - vbaac10.chm14142
-ms.prod: access
 api_name:
 - Access.OptionButton.MouseMove
 ms.assetid: 4353c0b8-469a-7046-3ff7-6f2a9089dde8

@@ -3,7 +3,6 @@ title: BoundObjectFrame.LayoutID property (Access)
 keywords: vbaac10.chm11010
 f1_keywords:
 - vbaac10.chm11010
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.LayoutID
 ms.assetid: 35cf3634-7e5e-8b38-27b2-b13dec239366

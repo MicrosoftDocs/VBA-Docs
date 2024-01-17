@@ -3,7 +3,6 @@ title: CommandButton.Shape property (Access)
 keywords: vbaac10.chm14628
 f1_keywords:
 - vbaac10.chm14628
-ms.prod: access
 api_name:
 - Access.CommandButton.Shape
 ms.assetid: 92088237-5dd8-0b40-ed2d-e5a5bfef4495

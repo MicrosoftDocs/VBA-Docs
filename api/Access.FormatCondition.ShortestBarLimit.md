@@ -3,7 +3,6 @@ title: FormatCondition.ShortestBarLimit property (Access)
 keywords: vbaac10.chm14530
 f1_keywords:
 - vbaac10.chm14530
-ms.prod: access
 api_name:
 - Access.FormatCondition.ShortestBarLimit
 ms.assetid: 4a133855-b0d4-f33b-8a59-051b030e1fdd

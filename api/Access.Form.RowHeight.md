@@ -3,7 +3,6 @@ title: Form.RowHeight property (Access)
 keywords: vbaac10.chm13395
 f1_keywords:
 - vbaac10.chm13395
-ms.prod: access
 api_name:
 - Access.Form.RowHeight
 ms.assetid: 1575cb30-54ab-d45b-bb64-844f12336eca

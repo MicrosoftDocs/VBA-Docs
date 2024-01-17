@@ -3,7 +3,6 @@ title: ToggleButton.DefaultValue property (Access)
 keywords: vbaac10.chm11706
 f1_keywords:
 - vbaac10.chm11706
-ms.prod: access
 api_name:
 - Access.ToggleButton.DefaultValue
 ms.assetid: 95809409-a347-33d6-4268-2b66fb1f2ac6

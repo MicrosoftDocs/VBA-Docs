@@ -3,7 +3,6 @@ title: AcCommand enumeration (Access)
 keywords: vbaac10.chm10037
 f1_keywords:
 - vbaac10.chm10037
-ms.prod: access
 api_name:
 - Access.AcCommand
 ms.assetid: a78f91cc-3b40-5f45-c737-4d3abb2e979f

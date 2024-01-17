@@ -3,7 +3,6 @@ title: Language-specific properties and methods (Access)
 keywords: vbaac10.chm5280133
 f1_keywords:
 - vbaac10.chm5280133
-ms.prod: access
 ms.assetid: 7c7cc1dc-7674-fd13-85bb-a24ee4b51775
 ms.date: 09/08/2021
 ms.localizationpriority: medium

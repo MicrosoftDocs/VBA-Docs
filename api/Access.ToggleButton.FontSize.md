@@ -3,7 +3,6 @@ title: ToggleButton.FontSize property (Access)
 keywords: vbaac10.chm11724
 f1_keywords:
 - vbaac10.chm11724
-ms.prod: access
 api_name:
 - Access.ToggleButton.FontSize
 ms.assetid: 0175a789-55cb-afeb-33ad-81705983a28d

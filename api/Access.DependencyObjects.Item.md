@@ -3,7 +3,6 @@ title: DependencyObjects.Item property (Access)
 keywords: vbaac10.chm13268
 f1_keywords:
 - vbaac10.chm13268
-ms.prod: access
 api_name:
 - Access.DependencyObjects.Item
 ms.assetid: b839b136-b2a6-53d2-0d25-e498164141b5

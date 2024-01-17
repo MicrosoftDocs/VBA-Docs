@@ -3,7 +3,6 @@ title: AcPrintQuality enumeration (Access)
 keywords: vbaac10.chm10023
 f1_keywords:
 - vbaac10.chm10023
-ms.prod: access
 api_name:
 - Access.AcPrintQuality
 ms.assetid: 5a4636c4-7034-34a8-3c75-7cd059b8f10a

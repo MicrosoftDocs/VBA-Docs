@@ -3,7 +3,6 @@ title: Label.Properties property (Access)
 keywords: vbaac10.chm10185
 f1_keywords:
 - vbaac10.chm10185
-ms.prod: access
 api_name:
 - Access.Label.Properties
 ms.assetid: 3ceb7031-13cd-f01f-b148-a698fe1926de
