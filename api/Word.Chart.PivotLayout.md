@@ -3,7 +3,6 @@ title: Chart.PivotLayout property (Word)
 keywords: vbawd10.chm79365910
 f1_keywords:
 - vbawd10.chm79365910
-ms.prod: word
 api_name:
 - Word.Chart.PivotLayout
 ms.assetid: adf7d083-4f81-92f8-887d-5555d553d35d

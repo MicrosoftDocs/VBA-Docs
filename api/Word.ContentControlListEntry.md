@@ -3,7 +3,6 @@ title: ContentControlListEntry object (Word)
 keywords: vbawd10.chm2250
 f1_keywords:
 - vbawd10.chm2250
-ms.prod: word
 api_name:
 - Word.ContentControlListEntry
 ms.assetid: b4e51492-4283-22e7-0f9a-2cfa1abaa306

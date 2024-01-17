@@ -3,7 +3,6 @@ title: Cell.FitText property (Word)
 keywords: vbawd10.chm156106862
 f1_keywords:
 - vbawd10.chm156106862
-ms.prod: word
 api_name:
 - Word.Cell.FitText
 ms.assetid: ba600e01-1892-557d-95e8-fc9cdea8ef6b

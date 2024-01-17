@@ -3,7 +3,6 @@ title: Range.HighlightColorIndex property (Word)
 keywords: vbawd10.chm157155629
 f1_keywords:
 - vbawd10.chm157155629
-ms.prod: word
 api_name:
 - Word.Range.HighlightColorIndex
 ms.assetid: ff6e0f1a-8b37-1bdd-8da6-ac492d399ad2

@@ -3,7 +3,6 @@ title: KeyBinding.Command property (Word)
 keywords: vbawd10.chm160956417
 f1_keywords:
 - vbawd10.chm160956417
-ms.prod: word
 api_name:
 - Word.KeyBinding.Command
 ms.assetid: 0693cc28-7498-03c6-0e24-53f78924db1e

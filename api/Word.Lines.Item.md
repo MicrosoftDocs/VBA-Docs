@@ -3,7 +3,6 @@ title: Lines.Item method (Word)
 keywords: vbawd10.chm67108864
 f1_keywords:
 - vbawd10.chm67108864
-ms.prod: word
 api_name:
 - Word.Lines.Item
 ms.assetid: 036a9007-a8b4-3548-87ec-a9770cc15e9b

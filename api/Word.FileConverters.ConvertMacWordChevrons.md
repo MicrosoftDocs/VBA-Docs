@@ -3,7 +3,6 @@ title: FileConverters.ConvertMacWordChevrons property (Word)
 keywords: vbawd10.chm161087490
 f1_keywords:
 - vbawd10.chm161087490
-ms.prod: word
 api_name:
 - Word.FileConverters.ConvertMacWordChevrons
 ms.assetid: c0a1f60c-f3aa-a091-2088-ff571f653ed1

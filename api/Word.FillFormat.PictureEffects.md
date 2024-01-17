@@ -3,7 +3,6 @@ title: FillFormat.PictureEffects property (Word)
 keywords: vbawd10.chm164102266
 f1_keywords:
 - vbawd10.chm164102266
-ms.prod: word
 api_name:
 - Word.FillFormat.PictureEffects
 ms.assetid: 810143d0-ccef-5e39-68b0-7317fd29febc

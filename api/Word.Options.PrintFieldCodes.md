@@ -3,7 +3,6 @@ title: Options.PrintFieldCodes property (Word)
 keywords: vbawd10.chm162988064
 f1_keywords:
 - vbawd10.chm162988064
-ms.prod: word
 api_name:
 - Word.Options.PrintFieldCodes
 ms.assetid: f9b69b6a-2362-0370-888b-61a566803186

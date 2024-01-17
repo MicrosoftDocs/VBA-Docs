@@ -3,7 +3,6 @@ title: Application.StartupPath property (Word)
 keywords: vbawd10.chm158335059
 f1_keywords:
 - vbawd10.chm158335059
-ms.prod: word
 api_name:
 - Word.Application.StartupPath
 ms.assetid: 1b73f234-358b-a360-ca69-ed00e0817038

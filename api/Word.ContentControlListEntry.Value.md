@@ -3,7 +3,6 @@ title: ContentControlListEntry.Value property (Word)
 keywords: vbawd10.chm147456104
 f1_keywords:
 - vbawd10.chm147456104
-ms.prod: word
 api_name:
 - Word.ContentControlListEntry.Value
 ms.assetid: b37925d7-00ce-9c66-d5d3-bec840d0a2e8

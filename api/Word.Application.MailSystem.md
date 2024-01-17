@@ -3,7 +3,6 @@ title: Application.MailSystem property (Word)
 keywords: vbawd10.chm158335080
 f1_keywords:
 - vbawd10.chm158335080
-ms.prod: word
 api_name:
 - Word.Application.MailSystem
 ms.assetid: d8f97baa-2c50-c2af-0e50-f2de5d017b62

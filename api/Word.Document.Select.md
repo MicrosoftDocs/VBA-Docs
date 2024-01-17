@@ -3,7 +3,6 @@ title: Document.Select method (Word)
 keywords: vbawd10.chm158072831
 f1_keywords:
 - vbawd10.chm158072831
-ms.prod: word
 api_name:
 - Word.Document.Select
 ms.assetid: 06694b50-6a6b-ce4c-8a38-dac43ac87ba3

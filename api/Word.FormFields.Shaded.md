@@ -3,7 +3,6 @@ title: FormFields.Shaded property (Word)
 keywords: vbawd10.chm153681922
 f1_keywords:
 - vbawd10.chm153681922
-ms.prod: word
 api_name:
 - Word.FormFields.Shaded
 ms.assetid: 816b0d24-7558-4e19-c390-791aefb29c65

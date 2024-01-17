@@ -3,7 +3,6 @@ title: System.HorizontalResolution property (Word)
 keywords: vbawd10.chm154468359
 f1_keywords:
 - vbawd10.chm154468359
-ms.prod: word
 api_name:
 - Word.System.HorizontalResolution
 ms.assetid: 1e26725e-4914-b9ac-be2d-05991f4c144f

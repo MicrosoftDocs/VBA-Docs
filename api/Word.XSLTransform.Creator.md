@@ -3,7 +3,6 @@ title: XSLTransform.Creator property (Word)
 keywords: vbawd10.chm76743657
 f1_keywords:
 - vbawd10.chm76743657
-ms.prod: word
 api_name:
 - Word.XSLTransform.Creator
 ms.assetid: d70d64c9-72f6-a1cb-fa81-3a9478e7f468

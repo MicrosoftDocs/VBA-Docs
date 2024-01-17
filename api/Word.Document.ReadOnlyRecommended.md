@@ -3,7 +3,6 @@ title: Document.ReadOnlyRecommended property (Word)
 keywords: vbawd10.chm158007348
 f1_keywords:
 - vbawd10.chm158007348
-ms.prod: word
 api_name:
 - Word.Document.ReadOnlyRecommended
 ms.assetid: d7190307-c58a-fa7a-7bb0-56478eac8160

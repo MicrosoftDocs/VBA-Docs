@@ -3,7 +3,6 @@ title: Conflict.Reject method (Word)
 keywords: vbawd10.chm78708838
 f1_keywords:
 - vbawd10.chm78708838
-ms.prod: word
 api_name:
 - Word.Conflict.Reject
 ms.assetid: 9bd4fa93-4bae-e2a8-ef6e-b3116542cad4

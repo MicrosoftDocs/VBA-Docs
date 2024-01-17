@@ -3,7 +3,6 @@ title: Index.RightAlignPageNumbers property (Word)
 keywords: vbawd10.chm159186946
 f1_keywords:
 - vbawd10.chm159186946
-ms.prod: word
 api_name:
 - Word.Index.RightAlignPageNumbers
 ms.assetid: 2bec3b24-e30d-1fb0-f248-9e994b918ed4

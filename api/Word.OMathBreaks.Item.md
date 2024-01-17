@@ -3,7 +3,6 @@ title: OMathBreaks.Item method (Word)
 keywords: vbawd10.chm61276160
 f1_keywords:
 - vbawd10.chm61276160
-ms.prod: word
 api_name:
 - Word.OMathBreaks.Item
 ms.assetid: fd1a72fe-914d-d31d-54b7-f9fd44621c39

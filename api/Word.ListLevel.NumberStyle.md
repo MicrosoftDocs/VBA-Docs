@@ -3,7 +3,6 @@ title: ListLevel.NumberStyle property (Word)
 keywords: vbawd10.chm160235524
 f1_keywords:
 - vbawd10.chm160235524
-ms.prod: word
 api_name:
 - Word.ListLevel.NumberStyle
 ms.assetid: 1118eb25-3b57-3a9b-6323-ba8233636f3b

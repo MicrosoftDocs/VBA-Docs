@@ -3,7 +3,6 @@ title: MailMergeDataSource.MappedDataFields property (Word)
 keywords: vbawd10.chm152895504
 f1_keywords:
 - vbawd10.chm152895504
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.MappedDataFields
 ms.assetid: 9fcebccf-976b-b57a-6cc3-c4d20fffea5c

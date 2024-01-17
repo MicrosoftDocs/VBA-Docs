@@ -3,7 +3,6 @@ title: Options.InterpretHighAnsi property (Word)
 keywords: vbawd10.chm162988450
 f1_keywords:
 - vbawd10.chm162988450
-ms.prod: word
 api_name:
 - Word.Options.InterpretHighAnsi
 ms.assetid: c093469b-c9ef-0b37-fc40-7b1ae17ce72e

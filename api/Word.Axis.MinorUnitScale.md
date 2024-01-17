@@ -3,7 +3,6 @@ title: Axis.MinorUnitScale property (Word)
 keywords: vbawd10.chm113049663
 f1_keywords:
 - vbawd10.chm113049663
-ms.prod: word
 api_name:
 - Word.Axis.MinorUnitScale
 ms.assetid: 3ddf49b7-48f2-144f-bf01-3b0c16673b11

@@ -3,7 +3,6 @@ title: Paragraphs.Space15 method (Word)
 keywords: vbawd10.chm156762426
 f1_keywords:
 - vbawd10.chm156762426
-ms.prod: word
 api_name:
 - Word.Paragraphs.Space15
 ms.assetid: c48cb161-ba78-3fb6-bfb8-d13b6ec7e54d

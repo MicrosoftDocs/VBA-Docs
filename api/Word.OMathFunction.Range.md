@@ -3,7 +3,6 @@ title: OMathFunction.Range property (Word)
 keywords: vbawd10.chm22151271
 f1_keywords:
 - vbawd10.chm22151271
-ms.prod: word
 api_name:
 - Word.OMathFunction.Range
 ms.assetid: 7f929431-d180-70f2-0546-188f5b72fc0c

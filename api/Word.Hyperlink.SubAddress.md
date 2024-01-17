@@ -3,7 +3,6 @@ title: Hyperlink.SubAddress property (Word)
 keywords: vbawd10.chm161285197
 f1_keywords:
 - vbawd10.chm161285197
-ms.prod: word
 api_name:
 - Word.Hyperlink.SubAddress
 ms.assetid: 9dff8453-c7e5-fd1a-89f8-869f762b0bdc

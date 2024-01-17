@@ -1,6 +1,5 @@
 ---
 title: WdExportFormat enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdExportFormat
 ms.assetid: cac6a17b-56e6-5bc9-26f8-6569adcbd118

@@ -3,7 +3,6 @@ title: TaskPane object (Word)
 keywords: vbawd10.chm1250
 f1_keywords:
 - vbawd10.chm1250
-ms.prod: word
 api_name:
 - Word.TaskPane
 ms.assetid: 57367e56-2de5-37bd-a9ca-f1fcb6b8c465

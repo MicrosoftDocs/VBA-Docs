@@ -3,7 +3,6 @@ title: Trendline.Intercept property (Word)
 keywords: vbawd10.chm26345658
 f1_keywords:
 - vbawd10.chm26345658
-ms.prod: word
 api_name:
 - Word.Trendline.Intercept
 ms.assetid: d1b3c93b-4af4-96cf-c6ed-27a04d7204c2

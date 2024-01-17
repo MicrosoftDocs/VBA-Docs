@@ -3,7 +3,6 @@ title: Border.Color property (Word)
 keywords: vbawd10.chm154861575
 f1_keywords:
 - vbawd10.chm154861575
-ms.prod: word
 api_name:
 - Word.Border.Color
 ms.assetid: ac9d1db8-ab9a-04b9-fa07-491b14bccabd

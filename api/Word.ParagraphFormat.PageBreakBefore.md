@@ -3,7 +3,6 @@ title: ParagraphFormat.PageBreakBefore property (Word)
 keywords: vbawd10.chm156434536
 f1_keywords:
 - vbawd10.chm156434536
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.PageBreakBefore
 ms.assetid: b024b5a6-4207-c490-97a6-a5eb2903c90e

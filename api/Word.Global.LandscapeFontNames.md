@@ -3,7 +3,6 @@ title: Global.LandscapeFontNames property (Word)
 keywords: vbawd10.chm163119116
 f1_keywords:
 - vbawd10.chm163119116
-ms.prod: word
 api_name:
 - Word.Global.LandscapeFontNames
 ms.assetid: 7c99f031-9290-1ff2-f2b6-da038a1c423b

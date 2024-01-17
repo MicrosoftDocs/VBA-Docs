@@ -3,7 +3,6 @@ title: Characters.Application property (Word)
 keywords: vbawd10.chm157090792
 f1_keywords:
 - vbawd10.chm157090792
-ms.prod: word
 api_name:
 - Word.Characters.Application
 ms.assetid: 931036f9-ee14-4de2-0a83-678dfdc946ee

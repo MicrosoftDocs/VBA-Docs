@@ -3,7 +3,6 @@ title: HeadingStyle.Level property (Word)
 keywords: vbawd10.chm160104450
 f1_keywords:
 - vbawd10.chm160104450
-ms.prod: word
 api_name:
 - Word.HeadingStyle.Level
 ms.assetid: 6a322568-ebcb-4ee4-2123-a94b3f97bc1a

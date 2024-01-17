@@ -3,7 +3,6 @@ title: KeysBoundTo.Creator property (Word)
 keywords: vbawd10.chm160891881
 f1_keywords:
 - vbawd10.chm160891881
-ms.prod: word
 api_name:
 - Word.KeysBoundTo.Creator
 ms.assetid: cafa763f-738e-6ce6-aaf5-f6c7b301a71b

@@ -3,7 +3,6 @@ title: Documents.CanCheckOut method (Word)
 keywords: vbawd10.chm158072849
 f1_keywords:
 - vbawd10.chm158072849
-ms.prod: word
 api_name:
 - Word.Documents.CanCheckOut
 ms.assetid: eaa052ff-0194-4c3f-a8e3-5a18ae77038e

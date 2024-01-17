@@ -3,7 +3,6 @@ title: Sentences.Count property (Word)
 keywords: vbawd10.chm156958722
 f1_keywords:
 - vbawd10.chm156958722
-ms.prod: word
 api_name:
 - Word.Sentences.Count
 ms.assetid: e122ea1d-44e2-5f06-47e2-5058339efe0a

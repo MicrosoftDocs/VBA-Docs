@@ -3,7 +3,6 @@ title: ChartTitle.Formula property (Word)
 keywords: vbawd10.chm65273894
 f1_keywords:
 - vbawd10.chm65273894
-ms.prod: word
 api_name:
 - Word.ChartTitle.Formula
 ms.assetid: de4c8cbd-e599-f609-f98e-c00ed6dccc5e

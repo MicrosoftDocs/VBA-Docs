@@ -3,7 +3,6 @@ title: Sentences.Application property (Word)
 keywords: vbawd10.chm156959720
 f1_keywords:
 - vbawd10.chm156959720
-ms.prod: word
 api_name:
 - Word.Sentences.Application
 ms.assetid: 4549711b-1fa3-4296-a3cf-81506bea73f5

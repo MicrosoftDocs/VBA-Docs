@@ -3,7 +3,6 @@ title: Endnote.Delete method (Word)
 keywords: vbawd10.chm155058186
 f1_keywords:
 - vbawd10.chm155058186
-ms.prod: word
 api_name:
 - Word.Endnote.Delete
 ms.assetid: dd538636-701d-8d03-7c32-a6a9a73235b6

@@ -3,7 +3,6 @@ title: Shape.Height property (Word)
 keywords: vbawd10.chm161480813
 f1_keywords:
 - vbawd10.chm161480813
-ms.prod: word
 api_name:
 - Word.Shape.Height
 ms.assetid: 3738d3b8-c412-7b42-b430-5082e822eab4

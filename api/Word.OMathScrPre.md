@@ -3,7 +3,6 @@ title: OMathScrPre object (Word)
 keywords: vbawd10.chm3086
 f1_keywords:
 - vbawd10.chm3086
-ms.prod: word
 api_name:
 - Word.OMathScrPre
 ms.assetid: 0d3ca716-83e4-21c2-53d7-b75d99519aa0

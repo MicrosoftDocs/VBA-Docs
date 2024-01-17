@@ -3,7 +3,6 @@ title: Document.GetLetterContent method (Word)
 keywords: vbawd10.chm158007420
 f1_keywords:
 - vbawd10.chm158007420
-ms.prod: word
 api_name:
 - Word.Document.GetLetterContent
 ms.assetid: ab0d9fa4-b193-6a7f-641d-d6f971b37457

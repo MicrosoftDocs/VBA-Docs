@@ -3,7 +3,6 @@ title: Frame object (Word)
 keywords: vbawd10.chm2346
 f1_keywords:
 - vbawd10.chm2346
-ms.prod: word
 api_name:
 - Word.Frame
 ms.assetid: d36d3361-9e93-7dd9-b8c9-0ce503e03810

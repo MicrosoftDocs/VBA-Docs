@@ -3,7 +3,6 @@ title: Range.FormFields property (Word)
 keywords: vbawd10.chm157155393
 f1_keywords:
 - vbawd10.chm157155393
-ms.prod: word
 api_name:
 - Word.Range.FormFields
 ms.assetid: 9777dc22-1fe5-c442-a4bf-e3dae4549168

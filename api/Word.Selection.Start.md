@@ -3,7 +3,6 @@ title: Selection.Start property (Word)
 keywords: vbawd10.chm158662659
 f1_keywords:
 - vbawd10.chm158662659
-ms.prod: word
 api_name:
 - Word.Selection.Start
 ms.assetid: e1928372-2473-e377-4ba1-894b104fcf43

@@ -1,6 +1,5 @@
 ---
 title: TableOfContents object (Word)
-ms.prod: word
 api_name:
 - Word.TableOfContents
 ms.assetid: 629a03c1-ae97-649d-7ec4-25210b4b9ecd

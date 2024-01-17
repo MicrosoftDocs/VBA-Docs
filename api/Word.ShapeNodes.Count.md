@@ -3,7 +3,6 @@ title: ShapeNodes.Count property (Word)
 keywords: vbawd10.chm164495362
 f1_keywords:
 - vbawd10.chm164495362
-ms.prod: word
 api_name:
 - Word.ShapeNodes.Count
 ms.assetid: 0143ede9-5ebc-ab12-90af-ab25886ddd0a

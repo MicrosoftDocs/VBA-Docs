@@ -3,7 +3,6 @@ title: Pane.View property (Word)
 keywords: vbawd10.chm157286410
 f1_keywords:
 - vbawd10.chm157286410
-ms.prod: word
 api_name:
 - Word.Pane.View
 ms.assetid: 64e4d06a-8e4e-ce65-1732-66865eff4125

@@ -3,7 +3,6 @@ title: AxisTitle.Shadow property (Word)
 keywords: vbawd10.chm98238474
 f1_keywords:
 - vbawd10.chm98238474
-ms.prod: word
 api_name:
 - Word.AxisTitle.Shadow
 ms.assetid: 41a21b69-5840-8ccb-93c2-126bbec150e0

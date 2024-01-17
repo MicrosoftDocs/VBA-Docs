@@ -3,7 +3,6 @@ title: Dictionary object (Word)
 keywords: vbawd10.chm2477
 f1_keywords:
 - vbawd10.chm2477
-ms.prod: word
 api_name:
 - Word.Dictionary
 ms.assetid: 1946d60c-2abd-9ca9-8d0b-7068e9173bb3

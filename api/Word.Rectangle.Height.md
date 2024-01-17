@@ -3,7 +3,6 @@ title: Rectangle.Height property (Word)
 keywords: vbawd10.chm234029062
 f1_keywords:
 - vbawd10.chm234029062
-ms.prod: word
 api_name:
 - Word.Rectangle.Height
 ms.assetid: 39e76940-67ff-63d1-c0ab-79f2f9f6dd1c

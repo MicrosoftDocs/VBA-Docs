@@ -3,7 +3,6 @@ title: View.ShowXMLMarkup property (Word)
 keywords: vbawd10.chm161808430
 f1_keywords:
 - vbawd10.chm161808430
-ms.prod: word
 api_name:
 - Word.View.ShowXMLMarkup
 ms.assetid: 70873416-6ca8-18c7-550f-46973a7b0f6e

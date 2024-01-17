@@ -3,7 +3,6 @@ title: ChartColorFormat.Application property (Word)
 keywords: vbawd10.chm12058772
 f1_keywords:
 - vbawd10.chm12058772
-ms.prod: word
 api_name:
 - Word.ChartColorFormat.Application
 ms.assetid: ca8d6709-c65b-fca9-1061-b23c6107eba2

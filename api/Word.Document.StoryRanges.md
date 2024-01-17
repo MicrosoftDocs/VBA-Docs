@@ -3,7 +3,6 @@ title: Document.StoryRanges property (Word)
 keywords: vbawd10.chm158007352
 f1_keywords:
 - vbawd10.chm158007352
-ms.prod: word
 api_name:
 - Word.Document.StoryRanges
 ms.assetid: 6afc9e1a-950c-e1b0-15d5-73afeb72fc59

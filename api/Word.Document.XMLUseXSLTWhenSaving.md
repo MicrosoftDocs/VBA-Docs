@@ -3,7 +3,6 @@ title: Document.XMLUseXSLTWhenSaving property (Word)
 keywords: vbawd10.chm158007770
 f1_keywords:
 - vbawd10.chm158007770
-ms.prod: word
 api_name:
 - Word.Document.XMLUseXSLTWhenSaving
 ms.assetid: b2161a4f-9169-6927-8f37-2bc7f5a0b319

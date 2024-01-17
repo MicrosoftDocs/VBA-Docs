@@ -1,6 +1,5 @@
 ---
 title: WdRulerStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRulerStyle
 ms.assetid: 819d51d2-a097-b8bd-4788-55facf1de192

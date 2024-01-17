@@ -3,7 +3,6 @@ title: Email.Application property (Word)
 keywords: vbawd10.chm165478500
 f1_keywords:
 - vbawd10.chm165478500
-ms.prod: word
 api_name:
 - Word.Email.Application
 ms.assetid: 6c33e338-9a94-a39c-33f8-81ec7f868478

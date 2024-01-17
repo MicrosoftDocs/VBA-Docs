@@ -3,7 +3,6 @@ title: DataLabels.ShowBubbleSize property (Word)
 keywords: vbawd10.chm207489002
 f1_keywords:
 - vbawd10.chm207489002
-ms.prod: word
 api_name:
 - Word.DataLabels.ShowBubbleSize
 ms.assetid: 3cec847e-ca5f-3062-9049-74d45834f861

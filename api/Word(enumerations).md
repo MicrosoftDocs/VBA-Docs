@@ -1,7 +1,7 @@
 ---
 title: Enumerations (Word)
 description: Documentation for the enumerations in the VBA Word object model. 
-ms.prod: word
+ms.service: word
 ms.assetid: 22173213-5004-4e53-874c-0b60962d58d6
 ms.date: 09/05/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Frame.Width property (Word)
 keywords: vbawd10.chm153747467
 f1_keywords:
 - vbawd10.chm153747467
-ms.prod: word
 api_name:
 - Word.Frame.Width
 ms.assetid: afc78abd-98d5-768c-c536-40f9296ea0ac

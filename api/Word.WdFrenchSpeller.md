@@ -1,6 +1,5 @@
 ---
 title: WdFrenchSpeller enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdFrenchSpeller
 ms.assetid: 0942c739-63e8-fe99-64a5-31ce71aed7c0

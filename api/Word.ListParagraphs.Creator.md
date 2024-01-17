@@ -3,7 +3,6 @@ title: ListParagraphs.Creator property (Word)
 keywords: vbawd10.chm160498665
 f1_keywords:
 - vbawd10.chm160498665
-ms.prod: word
 api_name:
 - Word.ListParagraphs.Creator
 ms.assetid: 55780a9a-646f-6e8c-0535-7521f60882b2

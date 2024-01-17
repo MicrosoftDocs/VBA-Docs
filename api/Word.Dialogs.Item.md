@@ -3,7 +3,6 @@ title: Dialogs.Item method (Word)
 keywords: vbawd10.chm152043520
 f1_keywords:
 - vbawd10.chm152043520
-ms.prod: word
 api_name:
 - Word.Dialogs.Item
 ms.assetid: 8a7826ce-a5b9-e0af-29cb-5dea299ab266

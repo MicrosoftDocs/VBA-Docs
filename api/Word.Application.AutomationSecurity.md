@@ -3,7 +3,6 @@ title: Application.AutomationSecurity property (Word)
 keywords: vbawd10.chm158335425
 f1_keywords:
 - vbawd10.chm158335425
-ms.prod: word
 api_name:
 - Word.Application.AutomationSecurity
 ms.assetid: 2bc4f55c-d209-013b-77e4-ada7963bdee9

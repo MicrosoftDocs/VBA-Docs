@@ -3,7 +3,6 @@ title: Selection.Paragraphs property (Word)
 keywords: vbawd10.chm158662715
 f1_keywords:
 - vbawd10.chm158662715
-ms.prod: word
 api_name:
 - Word.Selection.Paragraphs
 ms.assetid: f237788a-01e4-62ce-d698-3af619c90272

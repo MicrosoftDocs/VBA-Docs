@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeApplyHeadings property (Word)
 keywords: vbawd10.chm165347588
 f1_keywords:
 - vbawd10.chm165347588
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyHeadings
 ms.assetid: 299897d1-1132-4ba2-d3e6-47d34a4c38ae

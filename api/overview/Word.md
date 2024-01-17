@@ -1,6 +1,6 @@
 ---
 title: Word Visual Basic for Applications (VBA) reference
-ms.prod: word
+ms.service: word
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Word solutions.
 ms.date: 10/10/2018
 ms.localizationpriority: high

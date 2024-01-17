@@ -3,7 +3,6 @@ title: Document.SendMail method (Word)
 keywords: vbawd10.chm158007406
 f1_keywords:
 - vbawd10.chm158007406
-ms.prod: word
 api_name:
 - Word.Document.SendMail
 ms.assetid: 7e47982f-2c8f-e76b-d790-9c4e72d5110b

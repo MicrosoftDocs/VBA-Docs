@@ -3,7 +3,6 @@ title: System.MSInfo method (Word)
 keywords: vbawd10.chm154468453
 f1_keywords:
 - vbawd10.chm154468453
-ms.prod: word
 api_name:
 - Word.System.MSInfo
 ms.assetid: b1cf752b-076e-82d0-bec5-27dd3f834d85

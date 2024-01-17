@@ -1,6 +1,5 @@
 ---
 title: OMathFrac.Application property (Word)
-ms.prod: word
 api_name:
 - Word.OMathFrac.Application
 ms.assetid: 663e252c-3def-5816-f948-a77070a378c1

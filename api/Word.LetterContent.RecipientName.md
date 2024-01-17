@@ -3,7 +3,6 @@ title: LetterContent.RecipientName property (Word)
 keywords: vbawd10.chm161546348
 f1_keywords:
 - vbawd10.chm161546348
-ms.prod: word
 api_name:
 - Word.LetterContent.RecipientName
 ms.assetid: e5e75700-5189-1189-7454-fc74214f5e35

@@ -3,7 +3,6 @@ title: Paragraphs.OutlineLevel property (Word)
 keywords: vbawd10.chm156762314
 f1_keywords:
 - vbawd10.chm156762314
-ms.prod: word
 api_name:
 - Word.Paragraphs.OutlineLevel
 ms.assetid: ed44b494-84aa-3419-cc3f-69b330ec6aeb

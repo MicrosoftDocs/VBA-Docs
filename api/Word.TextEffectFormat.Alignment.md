@@ -3,7 +3,6 @@ title: TextEffectFormat.Alignment property (Word)
 keywords: vbawd10.chm164560996
 f1_keywords:
 - vbawd10.chm164560996
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.Alignment
 ms.assetid: df07036c-9e87-da8f-1131-81c44ff7ad68

@@ -3,7 +3,6 @@ title: HeadingStyles.Parent property (Word)
 keywords: vbawd10.chm160039914
 f1_keywords:
 - vbawd10.chm160039914
-ms.prod: word
 api_name:
 - Word.HeadingStyles.Parent
 ms.assetid: 22385a05-c2f9-4467-b15b-466542b6da35

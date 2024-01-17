@@ -3,7 +3,6 @@ title: PageSetup.SectionDirection property (Word)
 keywords: vbawd10.chm158400642
 f1_keywords:
 - vbawd10.chm158400642
-ms.prod: word
 api_name:
 - Word.PageSetup.SectionDirection
 ms.assetid: c1b2eda5-95e5-1a16-139f-c8815c484c86

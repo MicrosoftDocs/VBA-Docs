@@ -3,7 +3,6 @@ title: PageSetup.Gutter property (Word)
 keywords: vbawd10.chm158400616
 f1_keywords:
 - vbawd10.chm158400616
-ms.prod: word
 api_name:
 - Word.PageSetup.Gutter
 ms.assetid: ec16576d-1b77-543e-aa8a-b52457f56675

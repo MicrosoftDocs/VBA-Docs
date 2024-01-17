@@ -3,7 +3,6 @@ title: Selection.FormattedText property (Word)
 keywords: vbawd10.chm158662658
 f1_keywords:
 - vbawd10.chm158662658
-ms.prod: word
 api_name:
 - Word.Selection.FormattedText
 ms.assetid: b16da3f9-1aa6-e722-0a9c-8a4c30922450

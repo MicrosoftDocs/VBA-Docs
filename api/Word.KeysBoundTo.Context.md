@@ -3,7 +3,6 @@ title: KeysBoundTo.Context property (Word)
 keywords: vbawd10.chm160890890
 f1_keywords:
 - vbawd10.chm160890890
-ms.prod: word
 api_name:
 - Word.KeysBoundTo.Context
 ms.assetid: 9d5b2bf6-8cc5-eee8-bc3e-eb4b272b1775

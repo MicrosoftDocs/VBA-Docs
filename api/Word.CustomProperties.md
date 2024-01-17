@@ -3,7 +3,6 @@ title: CustomProperties object (Word)
 keywords: vbawd10.chm3553
 f1_keywords:
 - vbawd10.chm3553
-ms.prod: word
 api_name:
 - Word.CustomProperties
 ms.assetid: 8b4248a1-7e1f-dbbd-37ab-f52a2d1ee505

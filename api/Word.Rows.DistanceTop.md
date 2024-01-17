@@ -3,7 +3,6 @@ title: Rows.DistanceTop property (Word)
 keywords: vbawd10.chm155975693
 f1_keywords:
 - vbawd10.chm155975693
-ms.prod: word
 api_name:
 - Word.Rows.DistanceTop
 ms.assetid: 50ff15c4-708b-d8a1-9040-83f59dcf766c

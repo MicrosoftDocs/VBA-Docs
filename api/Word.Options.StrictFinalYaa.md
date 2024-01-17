@@ -3,7 +3,6 @@ title: Options.StrictFinalYaa property (Word)
 keywords: vbawd10.chm162988442
 f1_keywords:
 - vbawd10.chm162988442
-ms.prod: word
 api_name:
 - Word.Options.StrictFinalYaa
 ms.assetid: 64716fb0-631d-34e2-4b58-ba6a67d2de34

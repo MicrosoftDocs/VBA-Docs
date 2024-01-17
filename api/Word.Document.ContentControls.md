@@ -3,7 +3,6 @@ title: Document.ContentControls property (Word)
 keywords: vbawd10.chm158007804
 f1_keywords:
 - vbawd10.chm158007804
-ms.prod: word
 api_name:
 - Word.Document.ContentControls
 ms.assetid: 86b5af56-3ab4-2440-237e-42af398b260a

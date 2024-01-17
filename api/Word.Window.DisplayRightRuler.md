@@ -3,7 +3,6 @@ title: Window.DisplayRightRuler property (Word)
 keywords: vbawd10.chm157417507
 f1_keywords:
 - vbawd10.chm157417507
-ms.prod: word
 api_name:
 - Word.Window.DisplayRightRuler
 ms.assetid: a587b652-5ba6-564d-4a8e-d78649bd716d

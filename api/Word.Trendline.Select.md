@@ -3,7 +3,6 @@ title: Trendline.Select method (Word)
 keywords: vbawd10.chm26345707
 f1_keywords:
 - vbawd10.chm26345707
-ms.prod: word
 api_name:
 - Word.Trendline.Select
 ms.assetid: f2a00e07-bd22-a18d-c842-1645be3e6178

@@ -3,7 +3,6 @@ title: MailMergeFields.AddMergeRec method (Word)
 keywords: vbawd10.chm153026665
 f1_keywords:
 - vbawd10.chm153026665
-ms.prod: word
 api_name:
 - Word.MailMergeFields.AddMergeRec
 ms.assetid: 50146076-696e-9a78-5e58-4ecb0f32607f

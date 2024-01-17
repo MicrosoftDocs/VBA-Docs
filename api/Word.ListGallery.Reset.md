@@ -3,7 +3,6 @@ title: ListGallery.Reset method (Word)
 keywords: vbawd10.chm160694372
 f1_keywords:
 - vbawd10.chm160694372
-ms.prod: word
 api_name:
 - Word.ListGallery.Reset
 ms.assetid: 456ed895-6e6e-334d-7cab-9df4376d8025

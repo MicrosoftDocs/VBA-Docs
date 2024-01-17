@@ -3,7 +3,6 @@ title: Options.PasteOptionKeepBulletsAndNumbers property (Word)
 keywords: vbawd10.chm162988513
 f1_keywords:
 - vbawd10.chm162988513
-ms.prod: word
 api_name:
 - Word.Options.PasteOptionKeepBulletsAndNumbers
 ms.assetid: c2c3af8d-0c2f-a9e4-3a3d-18252f6a1425

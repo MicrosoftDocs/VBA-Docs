@@ -3,7 +3,6 @@ title: Frame.HorizontalDistanceFromText property (Word)
 keywords: vbawd10.chm153747459
 f1_keywords:
 - vbawd10.chm153747459
-ms.prod: word
 api_name:
 - Word.Frame.HorizontalDistanceFromText
 ms.assetid: 40672084-cced-8807-8843-0750ef5a48b9

@@ -3,7 +3,6 @@ title: ContentControl.PlaceholderText property (Word)
 keywords: vbawd10.chm266534922
 f1_keywords:
 - vbawd10.chm266534922
-ms.prod: word
 api_name:
 - Word.ContentControl.PlaceholderText
 ms.assetid: 44a04064-7e8f-bf8e-7f5a-9e2d4fb3f137

@@ -3,7 +3,6 @@ title: FontNames.Item method (Word)
 keywords: vbawd10.chm158269440
 f1_keywords:
 - vbawd10.chm158269440
-ms.prod: word
 api_name:
 - Word.FontNames.Item
 ms.assetid: 51d5601b-61fe-d84f-1cac-399190ce643a

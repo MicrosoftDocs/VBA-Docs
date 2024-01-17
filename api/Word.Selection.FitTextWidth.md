@@ -3,7 +3,6 @@ title: Selection.FitTextWidth property (Word)
 keywords: vbawd10.chm158663664
 f1_keywords:
 - vbawd10.chm158663664
-ms.prod: word
 api_name:
 - Word.Selection.FitTextWidth
 ms.assetid: 7f7409b4-c533-9c21-2663-e4016416efb7

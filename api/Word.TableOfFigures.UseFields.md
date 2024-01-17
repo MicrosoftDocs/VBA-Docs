@@ -3,7 +3,6 @@ title: TableOfFigures.UseFields property (Word)
 keywords: vbawd10.chm153157641
 f1_keywords:
 - vbawd10.chm153157641
-ms.prod: word
 api_name:
 - Word.TableOfFigures.UseFields
 ms.assetid: 1ac7356e-fad4-1e19-1811-7df973ad74dc

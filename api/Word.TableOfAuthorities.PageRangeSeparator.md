@@ -3,7 +3,6 @@ title: TableOfAuthorities.PageRangeSeparator property (Word)
 keywords: vbawd10.chm152109064
 f1_keywords:
 - vbawd10.chm152109064
-ms.prod: word
 api_name:
 - Word.TableOfAuthorities.PageRangeSeparator
 ms.assetid: f2b2c68f-15b2-5eb1-1af2-981920f18cc7

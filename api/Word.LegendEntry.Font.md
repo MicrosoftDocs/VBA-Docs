@@ -3,7 +3,6 @@ title: LegendEntry.Font property (Word)
 keywords: vbawd10.chm4784274
 f1_keywords:
 - vbawd10.chm4784274
-ms.prod: word
 api_name:
 - Word.LegendEntry.Font
 ms.assetid: d5b41423-ed1b-ec94-9088-b0af4202eacc

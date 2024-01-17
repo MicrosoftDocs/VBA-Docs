@@ -3,7 +3,6 @@ title: Application.Parent property (Word)
 keywords: vbawd10.chm158335978
 f1_keywords:
 - vbawd10.chm158335978
-ms.prod: word
 api_name:
 - Word.Application.Parent
 ms.assetid: 1855987d-a710-5919-9fec-a53c24a2ef5e

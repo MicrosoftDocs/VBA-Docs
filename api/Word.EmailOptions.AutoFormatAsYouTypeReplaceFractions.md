@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeReplaceFractions property (Word)
 keywords: vbawd10.chm165347595
 f1_keywords:
 - vbawd10.chm165347595
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceFractions
 ms.assetid: 41a0273c-11c5-2053-fd7b-aaed13e1d9a1

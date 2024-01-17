@@ -3,7 +3,6 @@ title: Comment.Ancestor property (Word)
 keywords: vbawd10.chm154993654
 f1_keywords:
 - vbawd10.chm154993654
-ms.prod: word
 ms.assetid: bc056a5c-2500-1377-0ce5-f8ef018c18ba
 ms.date: 01/09/2019
 ms.localizationpriority: medium

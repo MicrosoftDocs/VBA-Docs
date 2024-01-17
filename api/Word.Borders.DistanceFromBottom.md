@@ -3,7 +3,6 @@ title: Borders.DistanceFromBottom property (Word)
 keywords: vbawd10.chm154927125
 f1_keywords:
 - vbawd10.chm154927125
-ms.prod: word
 api_name:
 - Word.Borders.DistanceFromBottom
 ms.assetid: 97184500-0536-33ed-1552-80ea829f0e30

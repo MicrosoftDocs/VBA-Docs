@@ -3,7 +3,6 @@ title: ChartCategory.IsFiltered property (Word)
 keywords: vbawd10.chm143395655
 f1_keywords:
 - vbawd10.chm143395655
-ms.prod: word
 ms.assetid: 09bccd76-13d7-75b4-966a-047677a7dc87
 ms.date: 06/08/2017
 ms.localizationpriority: medium

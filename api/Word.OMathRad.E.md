@@ -3,7 +3,6 @@ title: OMathRad.E property (Word)
 keywords: vbawd10.chm247791720
 f1_keywords:
 - vbawd10.chm247791720
-ms.prod: word
 api_name:
 - Word.OMathRad.E
 ms.assetid: 7cd1bed6-68f8-b2aa-dfe4-82ec60c3d123

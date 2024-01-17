@@ -3,7 +3,6 @@ title: Category.Application property (Word)
 keywords: vbawd10.chm190710760
 f1_keywords:
 - vbawd10.chm190710760
-ms.prod: word
 api_name:
 - Word.Category.Application
 ms.assetid: 6fa6e0fa-4c23-6cb4-a036-87a2a8d93e85

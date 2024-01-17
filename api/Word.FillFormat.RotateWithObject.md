@@ -3,7 +3,6 @@ title: FillFormat.RotateWithObject property (Word)
 keywords: vbawd10.chm164102265
 f1_keywords:
 - vbawd10.chm164102265
-ms.prod: word
 api_name:
 - Word.FillFormat.RotateWithObject
 ms.assetid: 96a0a7e9-be99-fb36-b245-8850297fa765

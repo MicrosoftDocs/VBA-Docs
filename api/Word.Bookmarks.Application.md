@@ -3,7 +3,6 @@ title: Bookmarks.Application property (Word)
 keywords: vbawd10.chm157746152
 f1_keywords:
 - vbawd10.chm157746152
-ms.prod: word
 api_name:
 - Word.Bookmarks.Application
 ms.assetid: 336de852-dfd1-268c-c0f6-25faccdbcd0e

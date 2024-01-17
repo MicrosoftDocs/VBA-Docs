@@ -3,7 +3,6 @@ title: Application.ProtectedViewWindowOpen event (Word)
 keywords: vbawd10.chm4000030
 f1_keywords:
 - vbawd10.chm4000030
-ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowOpen
 ms.assetid: 42126a64-0227-d006-760e-ec11c59ef533

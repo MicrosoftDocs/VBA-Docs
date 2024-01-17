@@ -3,7 +3,6 @@ title: ConditionalStyle.Shading property (Word)
 keywords: vbawd10.chm91029505
 f1_keywords:
 - vbawd10.chm91029505
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.Shading
 ms.assetid: 6261dc5b-0804-9f4a-481a-c658ceaa7162

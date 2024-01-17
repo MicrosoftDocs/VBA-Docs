@@ -3,7 +3,6 @@ title: Table.Style property (Word)
 keywords: vbawd10.chm156303561
 f1_keywords:
 - vbawd10.chm156303561
-ms.prod: word
 api_name:
 - Word.Table.Style
 ms.assetid: 5b375f41-99da-314e-f8c3-d440c6153419

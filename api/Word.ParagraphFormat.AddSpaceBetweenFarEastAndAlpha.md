@@ -3,7 +3,6 @@ title: ParagraphFormat.AddSpaceBetweenFarEastAndAlpha property (Word)
 keywords: vbawd10.chm156434553
 f1_keywords:
 - vbawd10.chm156434553
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.AddSpaceBetweenFarEastAndAlpha
 ms.assetid: 3575dab1-4a59-b20e-46e2-971389a3ec95

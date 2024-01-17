@@ -3,7 +3,6 @@ title: Application.AutomaticChange method (Word)
 keywords: vbawd10.chm158335306
 f1_keywords:
 - vbawd10.chm158335306
-ms.prod: word
 api_name:
 - Word.Application.AutomaticChange
 ms.assetid: 40538590-c71c-aafb-4e3b-e8759cb0116c

@@ -3,7 +3,6 @@ title: TickLabels.Orientation property (Word)
 keywords: vbawd10.chm167051274
 f1_keywords:
 - vbawd10.chm167051274
-ms.prod: word
 api_name:
 - Word.TickLabels.Orientation
 ms.assetid: d6c8663d-5d71-d873-e2da-68eb8fa7909c

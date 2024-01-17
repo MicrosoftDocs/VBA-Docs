@@ -3,7 +3,6 @@ title: XMLNamespace.URI property (Word)
 keywords: vbawd10.chm2293762
 f1_keywords:
 - vbawd10.chm2293762
-ms.prod: word
 api_name:
 - Word.URI
 ms.assetid: 540997ad-ead3-dcda-c5c7-ddfc7877fedc

@@ -3,7 +3,6 @@ title: Table.Delete method (Word)
 keywords: vbawd10.chm156303369
 f1_keywords:
 - vbawd10.chm156303369
-ms.prod: word
 api_name:
 - Word.Table.Delete
 ms.assetid: 157240bf-6abb-c4a6-ef39-609fd315121a

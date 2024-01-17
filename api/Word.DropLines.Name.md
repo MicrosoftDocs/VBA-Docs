@@ -3,7 +3,6 @@ title: DropLines.Name property (Word)
 keywords: vbawd10.chm104988672
 f1_keywords:
 - vbawd10.chm104988672
-ms.prod: word
 api_name:
 - Word.DropLines.Name
 ms.assetid: be6b7071-1196-6fc2-a7a0-133424814cff

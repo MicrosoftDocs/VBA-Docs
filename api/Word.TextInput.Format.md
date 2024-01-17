@@ -3,7 +3,6 @@ title: TextInput.Format property (Word)
 keywords: vbawd10.chm153550851
 f1_keywords:
 - vbawd10.chm153550851
-ms.prod: word
 api_name:
 - Word.TextInput.Format
 ms.assetid: 5950cabb-dfd3-0107-6a51-efe8813a297f

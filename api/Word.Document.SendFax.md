@@ -3,7 +3,6 @@ title: Document.SendFax method (Word)
 keywords: vbawd10.chm158007552
 f1_keywords:
 - vbawd10.chm158007552
-ms.prod: word
 api_name:
 - Word.Document.SendFax
 ms.assetid: d7a1636b-1fc2-9bfd-e7f6-828a745c06d3

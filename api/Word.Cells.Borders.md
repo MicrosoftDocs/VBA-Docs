@@ -3,7 +3,6 @@ title: Cells.Borders property (Word)
 keywords: vbawd10.chm155845708
 f1_keywords:
 - vbawd10.chm155845708
-ms.prod: word
 api_name:
 - Word.Cells.Borders
 ms.assetid: df873357-9474-8f69-ae71-6df5859cbf93

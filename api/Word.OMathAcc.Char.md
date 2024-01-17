@@ -3,7 +3,6 @@ title: OMathAcc.Char property (Word)
 keywords: vbawd10.chm235208808
 f1_keywords:
 - vbawd10.chm235208808
-ms.prod: word
 api_name:
 - Word.OMathAcc.Char
 ms.assetid: 054e3519-fd5a-48b2-01ce-c85140ba7468

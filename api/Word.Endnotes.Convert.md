@@ -3,7 +3,6 @@ title: Endnotes.Convert method (Word)
 keywords: vbawd10.chm155254789
 f1_keywords:
 - vbawd10.chm155254789
-ms.prod: word
 api_name:
 - Word.Endnotes.Convert
 ms.assetid: f351e0f2-ec4c-a9db-a119-1ebe3bb67319

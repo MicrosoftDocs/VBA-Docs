@@ -3,7 +3,6 @@ title: FreeformBuilder.AddNodes method (Word)
 keywords: vbawd10.chm164167690
 f1_keywords:
 - vbawd10.chm164167690
-ms.prod: word
 api_name:
 - Word.FreeformBuilder.AddNodes
 ms.assetid: 793e869f-2365-1ef0-f2e4-d764f67f0cb9

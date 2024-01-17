@@ -3,7 +3,6 @@ title: Selection.Editors property (Word)
 keywords: vbawd10.chm158662969
 f1_keywords:
 - vbawd10.chm158662969
-ms.prod: word
 api_name:
 - Word.Selection.Editors
 ms.assetid: ba750568-88c9-9ed8-61ee-45f89dfa4dea

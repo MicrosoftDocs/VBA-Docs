@@ -3,7 +3,6 @@ title: Font.Position property (Word)
 keywords: vbawd10.chm156369039
 f1_keywords:
 - vbawd10.chm156369039
-ms.prod: word
 api_name:
 - Word.Font.Position
 ms.assetid: 34896092-bf63-3c9e-b18e-768e888feaeb

@@ -3,7 +3,6 @@ title: Legend.Select method (Word)
 keywords: vbawd10.chm147194091
 f1_keywords:
 - vbawd10.chm147194091
-ms.prod: word
 api_name:
 - Word.Legend.Select
 ms.assetid: 80ccc8b7-50c5-9440-ee40-456368fb878e

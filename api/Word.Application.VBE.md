@@ -3,7 +3,6 @@ title: Application.VBE property (Word)
 keywords: vbawd10.chm158335037
 f1_keywords:
 - vbawd10.chm158335037
-ms.prod: word
 api_name:
 - Word.Application.VBE
 ms.assetid: 641109fd-7ece-9efd-65ba-56e223d8249c

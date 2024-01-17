@@ -3,7 +3,6 @@ title: TablesOfAuthoritiesCategories.Count property (Word)
 keywords: vbawd10.chm158728193
 f1_keywords:
 - vbawd10.chm158728193
-ms.prod: word
 api_name:
 - Word.TablesOfAuthoritiesCategories.Count
 ms.assetid: eba6740c-628a-dedc-2524-3ea9da4708dc

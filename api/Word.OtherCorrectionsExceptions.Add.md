@@ -3,7 +3,6 @@ title: OtherCorrectionsExceptions.Add method (Word)
 keywords: vbawd10.chm165609573
 f1_keywords:
 - vbawd10.chm165609573
-ms.prod: word
 api_name:
 - Word.OtherCorrectionsExceptions.Add
 ms.assetid: 0bdb30c5-72f0-3dae-e0c5-b2ea48157626

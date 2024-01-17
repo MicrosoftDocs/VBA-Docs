@@ -3,7 +3,6 @@ title: LetterContent.Salutation property (Word)
 keywords: vbawd10.chm161546350
 f1_keywords:
 - vbawd10.chm161546350
-ms.prod: word
 api_name:
 - Word.LetterContent.Salutation
 ms.assetid: 115a740f-720f-a7d7-df68-148cd36b22c0

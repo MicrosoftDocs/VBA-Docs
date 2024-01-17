@@ -3,7 +3,6 @@ title: Shape.LockAnchor property (Word)
 keywords: vbawd10.chm161481006
 f1_keywords:
 - vbawd10.chm161481006
-ms.prod: word
 api_name:
 - Word.Shape.LockAnchor
 ms.assetid: dc153260-5e5d-75f6-c776-481020778cc9

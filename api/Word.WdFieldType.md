@@ -1,6 +1,5 @@
 ---
 title: WdFieldType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdFieldType
 ms.assetid: 220d280c-0ff4-080c-4273-e5c8c437333f

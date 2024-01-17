@@ -3,7 +3,6 @@ title: Pane.DisplayVerticalRuler property (Word)
 keywords: vbawd10.chm157286405
 f1_keywords:
 - vbawd10.chm157286405
-ms.prod: word
 api_name:
 - Word.Pane.DisplayVerticalRuler
 ms.assetid: 66899d6f-8e78-6d54-e0b0-d4a2bace428e

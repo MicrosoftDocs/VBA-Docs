@@ -3,7 +3,6 @@ title: Referring to the Active Document Element
 keywords: vbawd10.chm5212844
 f1_keywords:
 - vbawd10.chm5212844
-ms.prod: word
 ms.assetid: e7eabc36-c1d9-af61-d13a-3d4ac7a01658
 ms.date: 06/08/2019
 ms.localizationpriority: medium

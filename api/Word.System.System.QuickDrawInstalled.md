@@ -3,7 +3,6 @@ title: System.QuickDrawInstalled property (Word)
 keywords: vbawd10.chm154468367
 f1_keywords:
 - vbawd10.chm154468367
-ms.prod: word
 api_name:
 - Word.System.System.QuickDrawInstalled
 ms.assetid: e5813f10-a382-4055-eb05-f8d35f7f395a

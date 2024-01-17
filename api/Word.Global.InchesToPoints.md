@@ -3,7 +3,6 @@ title: Global.InchesToPoints method (Word)
 keywords: vbawd10.chm163119474
 f1_keywords:
 - vbawd10.chm163119474
-ms.prod: word
 api_name:
 - Word.Global.InchesToPoints
 ms.assetid: 7e8f5631-fa6a-702a-5785-da7b34495a22

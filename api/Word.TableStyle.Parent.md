@@ -3,7 +3,6 @@ title: TableStyle.Parent property (Word)
 keywords: vbawd10.chm244777060
 f1_keywords:
 - vbawd10.chm244777060
-ms.prod: word
 api_name:
 - Word.TableStyle.Parent
 ms.assetid: 2be4e106-5bfe-0db6-fd41-906bf97aafec

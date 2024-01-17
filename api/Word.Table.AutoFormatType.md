@@ -3,7 +3,6 @@ title: Table.AutoFormatType property (Word)
 keywords: vbawd10.chm156303466
 f1_keywords:
 - vbawd10.chm156303466
-ms.prod: word
 api_name:
 - Word.Table.AutoFormatType
 ms.assetid: 366dbfab-f40e-b570-d174-96f4fe07a063

@@ -3,7 +3,6 @@ title: Selection.StoryType property (Word)
 keywords: vbawd10.chm158662663
 f1_keywords:
 - vbawd10.chm158662663
-ms.prod: word
 api_name:
 - Word.Selection.StoryType
 ms.assetid: 17709b74-ea6b-9d58-885d-01e6b2ddac55

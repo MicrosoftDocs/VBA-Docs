@@ -3,7 +3,6 @@ title: Replacement.Font property (Word)
 keywords: vbawd10.chm162594826
 f1_keywords:
 - vbawd10.chm162594826
-ms.prod: word
 api_name:
 - Word.Replacement.Font
 ms.assetid: 4b899eb0-3f7f-ad48-3296-ffe77ac33fbd

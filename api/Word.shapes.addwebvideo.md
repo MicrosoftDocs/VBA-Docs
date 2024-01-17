@@ -3,7 +3,6 @@ title: Shapes.AddWebVideo method (Word)
 keywords: vbawd10.chm161415272
 f1_keywords:
 - vbawd10.chm161415272
-ms.prod: word
 ms.assetid: 9bdd1bc2-0d04-ca0c-eba2-4080843cf614
 ms.date: 06/08/2017
 ms.localizationpriority: medium

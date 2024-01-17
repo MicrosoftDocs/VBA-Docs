@@ -3,7 +3,6 @@ title: ProofreadingErrors.Count property (Word)
 keywords: vbawd10.chm163250177
 f1_keywords:
 - vbawd10.chm163250177
-ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Count
 ms.assetid: 4cd34d95-f010-f317-8bdf-c110ec97dde4

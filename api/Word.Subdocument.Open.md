@@ -3,7 +3,6 @@ title: Subdocument.Open method (Word)
 keywords: vbawd10.chm159973478
 f1_keywords:
 - vbawd10.chm159973478
-ms.prod: word
 api_name:
 - Word.Subdocument.Open
 ms.assetid: c2e40618-ab0c-3337-609f-231f1699f2bd

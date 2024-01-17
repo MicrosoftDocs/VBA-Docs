@@ -3,7 +3,6 @@ title: Chart.DepthPercent property (Word)
 keywords: vbawd10.chm79364100
 f1_keywords:
 - vbawd10.chm79364100
-ms.prod: word
 api_name:
 - Word.Chart.DepthPercent
 ms.assetid: fd1a83dc-e68d-82be-d2bf-5f7a87cb08ac

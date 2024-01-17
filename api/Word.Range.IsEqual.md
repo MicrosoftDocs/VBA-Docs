@@ -3,7 +3,6 @@ title: Range.IsEqual method (Word)
 keywords: vbawd10.chm157155499
 f1_keywords:
 - vbawd10.chm157155499
-ms.prod: word
 api_name:
 - Word.Range.IsEqual
 ms.assetid: cd6269d9-4693-897d-d9b2-69f45c815ba3

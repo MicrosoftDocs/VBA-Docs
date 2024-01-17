@@ -3,7 +3,6 @@ title: DataLabels.Count property (Word)
 keywords: vbawd10.chm207487094
 f1_keywords:
 - vbawd10.chm207487094
-ms.prod: word
 api_name:
 - Word.DataLabels.Count
 ms.assetid: 3574f372-13a0-183b-b50a-94ab345921b1

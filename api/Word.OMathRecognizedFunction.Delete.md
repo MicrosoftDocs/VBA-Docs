@@ -3,7 +3,6 @@ title: OMathRecognizedFunction.Delete method (Word)
 keywords: vbawd10.chm227737800
 f1_keywords:
 - vbawd10.chm227737800
-ms.prod: word
 api_name:
 - Word.OMathRecognizedFunction.Delete
 ms.assetid: be09db7d-24b4-13ae-6dd4-de0b08ddd006

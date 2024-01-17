@@ -3,7 +3,6 @@ title: Document.Open event (Word)
 keywords: vbawd10.chm4001005
 f1_keywords:
 - vbawd10.chm4001005
-ms.prod: word
 api_name:
 - Word.Document.Open
 ms.assetid: 80ad090c-69bf-b50e-3171-eab5414309a2

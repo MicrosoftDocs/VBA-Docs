@@ -3,7 +3,6 @@ title: Application.BackgroundSavingStatus property (Word)
 keywords: vbawd10.chm158335061
 f1_keywords:
 - vbawd10.chm158335061
-ms.prod: word
 api_name:
 - Word.Application.BackgroundSavingStatus
 ms.assetid: 9cf29eb4-fc80-91ad-2867-6dc9d48e11c7

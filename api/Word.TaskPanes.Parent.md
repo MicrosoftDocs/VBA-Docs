@@ -1,6 +1,5 @@
 ---
 title: TaskPanes.Parent property (Word)
-ms.prod: word
 api_name:
 - Word.TaskPanes.Parent
 ms.assetid: 06faa655-fb00-d840-a2f0-a4a3cc5977aa

@@ -1,6 +1,5 @@
 ---
 title: WdNoteNumberStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdNoteNumberStyle
 ms.assetid: ec02d397-6a63-b695-8f14-593350a15d33

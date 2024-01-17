@@ -3,7 +3,6 @@ title: Style.UnhideWhenUsed property (Word)
 keywords: vbawd10.chm153878552
 f1_keywords:
 - vbawd10.chm153878552
-ms.prod: word
 api_name:
 - Word.Style.UnhideWhenUsed
 ms.assetid: 7064a69c-001a-2c01-e2b7-4e67949ec965

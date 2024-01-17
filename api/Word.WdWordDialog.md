@@ -1,6 +1,5 @@
 ---
 title: WdWordDialog enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdWordDialog
 ms.assetid: af867214-8cd6-0477-6c88-2efe06589730

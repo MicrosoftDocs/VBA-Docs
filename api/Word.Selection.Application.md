@@ -3,7 +3,6 @@ title: Selection.Application property (Word)
 keywords: vbawd10.chm158663656
 f1_keywords:
 - vbawd10.chm158663656
-ms.prod: word
 api_name:
 - Word.Selection.Application
 ms.assetid: 20834ace-7239-718f-cb5c-c017576216c5

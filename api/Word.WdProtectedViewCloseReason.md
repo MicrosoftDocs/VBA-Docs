@@ -1,6 +1,5 @@
 ---
 title: WdProtectedViewCloseReason enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdProtectedViewCloseReason
 ms.assetid: 54c42790-bc04-2bd5-cd17-fed90a65678f

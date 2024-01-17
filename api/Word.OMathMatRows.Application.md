@@ -3,7 +3,6 @@ title: OMathMatRows.Application property (Word)
 keywords: vbawd10.chm55050340
 f1_keywords:
 - vbawd10.chm55050340
-ms.prod: word
 api_name:
 - Word.OMathMatRows.Application
 ms.assetid: a6b08f7e-f1e2-65d3-d1cc-b6c7fd34f3c5

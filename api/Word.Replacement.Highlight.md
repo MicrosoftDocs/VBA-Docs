@@ -3,7 +3,6 @@ title: Replacement.Highlight property (Word)
 keywords: vbawd10.chm162594833
 f1_keywords:
 - vbawd10.chm162594833
-ms.prod: word
 api_name:
 - Word.Replacement.Highlight
 ms.assetid: 4bcccceb-7e0b-673d-09b7-d30a1938601e

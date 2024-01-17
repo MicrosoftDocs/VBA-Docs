@@ -3,7 +3,6 @@ title: LineFormat.BeginArrowheadLength property (Word)
 keywords: vbawd10.chm164233317
 f1_keywords:
 - vbawd10.chm164233317
-ms.prod: word
 api_name:
 - Word.LineFormat.BeginArrowheadLength
 ms.assetid: e2bcb274-001e-69a8-35de-009193dcc117

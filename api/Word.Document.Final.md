@@ -3,7 +3,6 @@ title: Document.Final property (Word)
 keywords: vbawd10.chm158007823
 f1_keywords:
 - vbawd10.chm158007823
-ms.prod: word
 api_name:
 - Word.Document.Final
 ms.assetid: d7b9a436-cbb3-0a09-1047-112aa30aac90

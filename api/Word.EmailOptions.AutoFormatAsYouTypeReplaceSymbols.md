@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeReplaceSymbols property (Word)
 keywords: vbawd10.chm165347593
 f1_keywords:
 - vbawd10.chm165347593
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceSymbols
 ms.assetid: d8314d95-5701-51a7-a987-10cf22f1f87e

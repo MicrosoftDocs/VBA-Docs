@@ -3,7 +3,6 @@ title: PageSetup.CharsLine property (Word)
 keywords: vbawd10.chm158400635
 f1_keywords:
 - vbawd10.chm158400635
-ms.prod: word
 api_name:
 - Word.PageSetup.CharsLine
 ms.assetid: 7539359a-aecd-0676-7e93-3e00cc2bf461

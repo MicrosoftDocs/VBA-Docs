@@ -3,7 +3,6 @@ title: Options.IgnoreUppercase property (Word)
 keywords: vbawd10.chm162988312
 f1_keywords:
 - vbawd10.chm162988312
-ms.prod: word
 api_name:
 - Word.Options.IgnoreUppercase
 ms.assetid: 4eff2832-3c66-0274-5403-d2fd8d31d04d

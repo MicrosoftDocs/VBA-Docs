@@ -3,7 +3,6 @@ title: Range.Bookmarks property (Word)
 keywords: vbawd10.chm157155403
 f1_keywords:
 - vbawd10.chm157155403
-ms.prod: word
 api_name:
 - Word.Range.Bookmarks
 ms.assetid: 4a8d133a-fe6f-50ac-4b71-5265a919f5f1

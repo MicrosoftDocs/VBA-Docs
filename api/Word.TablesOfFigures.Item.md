@@ -3,7 +3,6 @@ title: TablesOfFigures.Item method (Word)
 keywords: vbawd10.chm153223168
 f1_keywords:
 - vbawd10.chm153223168
-ms.prod: word
 api_name:
 - Word.TablesOfFigures.Item
 ms.assetid: 41d5f94f-0dfd-de11-5ffa-a07a69a835c5

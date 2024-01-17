@@ -3,7 +3,6 @@ title: Envelope.AddressFromTop property (Word)
 keywords: vbawd10.chm152567822
 f1_keywords:
 - vbawd10.chm152567822
-ms.prod: word
 api_name:
 - Word.Envelope.AddressFromTop
 ms.assetid: 425eb517-85af-68e2-951b-66282b813e9b

@@ -3,7 +3,6 @@ title: Style.Application property (Word)
 keywords: vbawd10.chm153879528
 f1_keywords:
 - vbawd10.chm153879528
-ms.prod: word
 api_name:
 - Word.Style.Application
 ms.assetid: 280fbf82-5d2d-b76f-1e74-dda936e41b54

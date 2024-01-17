@@ -3,7 +3,6 @@ title: Shape.IncrementLeft method (Word)
 keywords: vbawd10.chm161480718
 f1_keywords:
 - vbawd10.chm161480718
-ms.prod: word
 api_name:
 - Word.Shape.IncrementLeft
 ms.assetid: e3073ce8-7d72-1520-e042-c4b392fae460

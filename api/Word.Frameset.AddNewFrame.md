@@ -3,7 +3,6 @@ title: Frameset.AddNewFrame method (Word)
 keywords: vbawd10.chm165806130
 f1_keywords:
 - vbawd10.chm165806130
-ms.prod: word
 api_name:
 - Word.Frameset.AddNewFrame
 ms.assetid: 81366e66-ae4e-24ce-d7ca-ae6f9273f745

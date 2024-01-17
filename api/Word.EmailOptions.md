@@ -1,6 +1,5 @@
 ---
 title: EmailOptions object (Word)
-ms.prod: word
 api_name:
 - Word.EmailOptions
 ms.assetid: 41fefa03-c993-e218-0f92-0cf30c0bfbd4

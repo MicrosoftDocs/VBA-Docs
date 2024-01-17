@@ -3,7 +3,6 @@ title: ThreeDFormat.BevelTopType property (Word)
 keywords: vbawd10.chm164626546
 f1_keywords:
 - vbawd10.chm164626546
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.BevelTopType
 ms.assetid: 2121d196-b073-e422-824c-d686f8a75098

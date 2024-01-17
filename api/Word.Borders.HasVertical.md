@@ -3,7 +3,6 @@ title: Borders.HasVertical property (Word)
 keywords: vbawd10.chm154927132
 f1_keywords:
 - vbawd10.chm154927132
-ms.prod: word
 api_name:
 - Word.Borders.HasVertical
 ms.assetid: dc99eb20-3bc3-2ee9-b6d6-f9a9c1b4e880

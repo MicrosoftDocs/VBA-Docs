@@ -3,7 +3,6 @@ title: OMathBorderBox.HideBot property (Word)
 keywords: vbawd10.chm116260969
 f1_keywords:
 - vbawd10.chm116260969
-ms.prod: word
 api_name:
 - Word.OMathBorderBox.HideBot
 ms.assetid: b056075f-50c3-60bb-ee73-ddb0ee3e1ff6

@@ -3,7 +3,6 @@ title: DefaultWebOptions.AllowPNG property (Word)
 keywords: vbawd10.chm165871626
 f1_keywords:
 - vbawd10.chm165871626
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.AllowPNG
 ms.assetid: 37cb4096-cd21-be5f-1f55-8786b56fc7a6

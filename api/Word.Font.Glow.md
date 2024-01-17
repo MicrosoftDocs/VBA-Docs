@@ -3,7 +3,6 @@ title: Font.Glow property (Word)
 keywords: vbawd10.chm156369063
 f1_keywords:
 - vbawd10.chm156369063
-ms.prod: word
 api_name:
 - Word.Font.Glow
 ms.assetid: ace54516-4040-f4d7-f910-b78e92389bcf

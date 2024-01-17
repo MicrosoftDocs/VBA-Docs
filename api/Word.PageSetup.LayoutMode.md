@@ -3,7 +3,6 @@ title: PageSetup.LayoutMode property (Word)
 keywords: vbawd10.chm158400643
 f1_keywords:
 - vbawd10.chm158400643
-ms.prod: word
 api_name:
 - Word.PageSetup.LayoutMode
 ms.assetid: 9b5eb10a-0d90-5330-8738-f70efbae39fe

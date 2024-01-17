@@ -3,7 +3,6 @@ title: Window.EnvelopeVisible property (Word)
 keywords: vbawd10.chm157417505
 f1_keywords:
 - vbawd10.chm157417505
-ms.prod: word
 api_name:
 - Word.Window.EnvelopeVisible
 ms.assetid: d04d6714-ba32-39cc-4853-e9ac6696e718

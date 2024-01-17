@@ -3,7 +3,6 @@ title: Zoom.Percentage property (Word)
 keywords: vbawd10.chm161873920
 f1_keywords:
 - vbawd10.chm161873920
-ms.prod: word
 api_name:
 - Word.Zoom.Percentage
 ms.assetid: 4d49583f-6991-3c6d-fcf4-535e6663c3b7

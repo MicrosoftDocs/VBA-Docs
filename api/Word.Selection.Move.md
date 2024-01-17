@@ -3,7 +3,6 @@ title: Selection.Move method (Word)
 keywords: vbawd10.chm158662765
 f1_keywords:
 - vbawd10.chm158662765
-ms.prod: word
 api_name:
 - Word.Selection.Move
 ms.assetid: 8bd36cf4-ca05-6412-2145-31d07367730e

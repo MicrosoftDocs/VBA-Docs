@@ -3,7 +3,6 @@ title: TwoInitialCapsExceptions.Add method (Word)
 keywords: vbawd10.chm155451493
 f1_keywords:
 - vbawd10.chm155451493
-ms.prod: word
 api_name:
 - Word.TwoInitialCapsExceptions.Add
 ms.assetid: 46aa7bea-ada5-63a8-1461-5c0a058a0981

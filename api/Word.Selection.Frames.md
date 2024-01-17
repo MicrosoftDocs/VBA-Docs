@@ -3,7 +3,6 @@ title: Selection.Frames property (Word)
 keywords: vbawd10.chm158662722
 f1_keywords:
 - vbawd10.chm158662722
-ms.prod: word
 api_name:
 - Word.Selection.Frames
 ms.assetid: cc589559-858a-2ebb-00dd-64f97966859f

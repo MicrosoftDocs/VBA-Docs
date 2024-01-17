@@ -3,7 +3,6 @@ title: FillFormat.UserPicture method (Word)
 keywords: vbawd10.chm164102161
 f1_keywords:
 - vbawd10.chm164102161
-ms.prod: word
 api_name:
 - Word.FillFormat.UserPicture
 ms.assetid: 09ddb55f-7ba0-9345-c366-23ac5ce6945a

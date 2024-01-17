@@ -3,7 +3,6 @@ title: Dictionary.LanguageID property (Word)
 keywords: vbawd10.chm162332674
 f1_keywords:
 - vbawd10.chm162332674
-ms.prod: word
 api_name:
 - Word.Dictionary.LanguageID
 ms.assetid: 598efc88-f26d-49b2-6451-e2cbedd20ff7

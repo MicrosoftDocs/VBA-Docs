@@ -3,7 +3,6 @@ title: CustomLabel.NumberDown property (Word)
 keywords: vbawd10.chm152371210
 f1_keywords:
 - vbawd10.chm152371210
-ms.prod: word
 api_name:
 - Word.CustomLabel.NumberDown
 ms.assetid: d2257e2f-2641-764c-d5a1-72a1fddb6f22

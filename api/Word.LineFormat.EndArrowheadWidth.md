@@ -3,7 +3,6 @@ title: LineFormat.EndArrowheadWidth property (Word)
 keywords: vbawd10.chm164233323
 f1_keywords:
 - vbawd10.chm164233323
-ms.prod: word
 api_name:
 - Word.LineFormat.EndArrowheadWidth
 ms.assetid: 01d77438-aa35-983b-7d93-a88e135d1820

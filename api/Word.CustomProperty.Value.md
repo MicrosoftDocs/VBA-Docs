@@ -3,7 +3,6 @@ title: CustomProperty.Value property (Word)
 keywords: vbawd10.chm232783872
 f1_keywords:
 - vbawd10.chm232783872
-ms.prod: word
 api_name:
 - Word.CustomProperty.Value
 ms.assetid: 3ad75a36-7e43-ea4a-9fba-04911c9fbaaa

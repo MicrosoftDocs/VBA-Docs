@@ -3,7 +3,6 @@ title: StyleSheet.FullName property (Word)
 keywords: vbawd10.chm166658049
 f1_keywords:
 - vbawd10.chm166658049
-ms.prod: word
 api_name:
 - Word.StyleSheet.FullName
 ms.assetid: 81b79219-1aaf-c38b-4d78-62d7364f7374

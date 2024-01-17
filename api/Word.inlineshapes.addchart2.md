@@ -3,7 +3,6 @@ title: InlineShapes.AddChart2 method (Word)
 keywords: vbawd10.chm162070638
 f1_keywords:
 - vbawd10.chm162070638
-ms.prod: word
 ms.assetid: 108899b6-24bb-cf4c-db95-066219536c19
 ms.date: 06/08/2017
 ms.localizationpriority: medium

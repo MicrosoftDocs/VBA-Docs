@@ -1,6 +1,5 @@
 ---
 title: Research.Parent property (Word)
-ms.prod: word
 api_name:
 - Word.Research.Parent
 ms.assetid: 0f84e50c-0aca-50ba-8cea-40107f67518b

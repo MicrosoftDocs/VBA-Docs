@@ -3,7 +3,6 @@ title: Variable.Delete method (Word)
 keywords: vbawd10.chm157679627
 f1_keywords:
 - vbawd10.chm157679627
-ms.prod: word
 api_name:
 - Word.Variable.Delete
 ms.assetid: 2f7d4d3d-ffa8-2d2d-922c-13578e31df83

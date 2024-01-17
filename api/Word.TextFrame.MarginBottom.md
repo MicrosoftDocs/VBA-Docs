@@ -3,7 +3,6 @@ title: TextFrame.MarginBottom property (Word)
 keywords: vbawd10.chm162660452
 f1_keywords:
 - vbawd10.chm162660452
-ms.prod: word
 api_name:
 - Word.TextFrame.MarginBottom
 ms.assetid: 16e2f8ef-d28b-c61c-8a82-25c18c1252e0

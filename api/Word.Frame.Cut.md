@@ -3,7 +3,6 @@ title: Frame.Cut method (Word)
 keywords: vbawd10.chm153747558
 f1_keywords:
 - vbawd10.chm153747558
-ms.prod: word
 api_name:
 - Word.Frame.Cut
 ms.assetid: 438a0e36-5998-2637-b314-34a0d3e755d9

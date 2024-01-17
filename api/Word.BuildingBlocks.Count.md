@@ -1,6 +1,5 @@
 ---
 title: BuildingBlocks.Count property (Word)
-ms.prod: word
 api_name:
 - Word.BuildingBlocks.Count
 ms.assetid: 44a4d5ec-4333-6b13-cd26-f7b9b273ba65

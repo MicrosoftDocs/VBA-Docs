@@ -3,7 +3,6 @@ title: TabStop.Leader property (Word)
 keywords: vbawd10.chm156500069
 f1_keywords:
 - vbawd10.chm156500069
-ms.prod: word
 api_name:
 - Word.TabStop.Leader
 ms.assetid: 3e483648-b48f-c8e0-93c0-e83771c48299

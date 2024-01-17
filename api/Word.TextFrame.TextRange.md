@@ -3,7 +3,6 @@ title: TextFrame.TextRange property (Word)
 keywords: vbawd10.chm162661353
 f1_keywords:
 - vbawd10.chm162661353
-ms.prod: word
 api_name:
 - Word.TextFrame.TextRange
 ms.assetid: fd715d4e-6995-2b28-d842-2897d7c1097f

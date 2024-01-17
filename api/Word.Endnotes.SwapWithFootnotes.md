@@ -3,7 +3,6 @@ title: Endnotes.SwapWithFootnotes method (Word)
 keywords: vbawd10.chm155254790
 f1_keywords:
 - vbawd10.chm155254790
-ms.prod: word
 api_name:
 - Word.Endnotes.SwapWithFootnotes
 ms.assetid: b95f65e3-16aa-1290-f47c-6cfe1c7849d7

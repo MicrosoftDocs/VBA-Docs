@@ -3,7 +3,6 @@ title: PageSetup.SetAsTemplateDefault method (Word)
 keywords: vbawd10.chm158400714
 f1_keywords:
 - vbawd10.chm158400714
-ms.prod: word
 api_name:
 - Word.PageSetup.SetAsTemplateDefault
 ms.assetid: 3938fd43-6850-d991-be89-b59ef744ac97

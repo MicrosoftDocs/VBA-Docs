@@ -3,7 +3,6 @@ title: RepeatingSectionItem.InsertItemAfter method (Word)
 keywords: vbawd10.chm227999747
 f1_keywords:
 - vbawd10.chm227999747
-ms.prod: word
 ms.assetid: c2c0159a-e6a4-0f45-d512-1d3debd17ca2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

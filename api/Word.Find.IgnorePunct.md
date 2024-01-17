@@ -3,7 +3,6 @@ title: Find.IgnorePunct property (Word)
 keywords: vbawd10.chm162529388
 f1_keywords:
 - vbawd10.chm162529388
-ms.prod: word
 api_name:
 - Word.Find.IgnorePunct
 ms.assetid: 4270e497-58d0-5ab0-66f9-5f4e642eb964

@@ -3,7 +3,6 @@ title: OLEFormat.Parent property (Word)
 keywords: vbawd10.chm154338282
 f1_keywords:
 - vbawd10.chm154338282
-ms.prod: word
 api_name:
 - Word.OLEFormat.Parent
 ms.assetid: ae465179-db82-f0af-64f5-7fc94457b8fe

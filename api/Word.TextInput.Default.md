@@ -3,7 +3,6 @@ title: TextInput.Default property (Word)
 keywords: vbawd10.chm153550849
 f1_keywords:
 - vbawd10.chm153550849
-ms.prod: word
 api_name:
 - Word.TextInput.Default
 ms.assetid: 7a1f8ed0-ac2a-f893-6a92-49afa4044a0f

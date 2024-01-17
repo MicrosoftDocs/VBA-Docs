@@ -3,7 +3,6 @@ title: Windows.Parent property (Word)
 keywords: vbawd10.chm157352938
 f1_keywords:
 - vbawd10.chm157352938
-ms.prod: word
 api_name:
 - Word.Windows.Parent
 ms.assetid: a2fc794e-f5bb-7d51-d000-0a9588750a8f

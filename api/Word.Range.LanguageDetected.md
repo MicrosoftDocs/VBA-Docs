@@ -3,7 +3,6 @@ title: Range.LanguageDetected property (Word)
 keywords: vbawd10.chm157155591
 f1_keywords:
 - vbawd10.chm157155591
-ms.prod: word
 api_name:
 - Word.Range.LanguageDetected
 ms.assetid: dfe307e5-ad87-9a6b-ecbe-521c6354b349

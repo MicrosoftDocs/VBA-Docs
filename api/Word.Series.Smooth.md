@@ -3,7 +3,6 @@ title: Series.Smooth property (Word)
 keywords: vbawd10.chm123732131
 f1_keywords:
 - vbawd10.chm123732131
-ms.prod: word
 api_name:
 - Word.Series.Smooth
 ms.assetid: 9360e311-566f-e173-b5e3-ed3790c007fc

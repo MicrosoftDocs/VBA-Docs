@@ -3,7 +3,6 @@ title: FirstLetterException.Parent property (Word)
 keywords: vbawd10.chm155517930
 f1_keywords:
 - vbawd10.chm155517930
-ms.prod: word
 api_name:
 - Word.FirstLetterException.Parent
 ms.assetid: 8b977996-b405-4f92-9b88-2647dfc36ff3

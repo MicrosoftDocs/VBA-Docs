@@ -3,7 +3,6 @@ title: ContentControl object (Word)
 keywords: vbawd10.chm4067
 f1_keywords:
 - vbawd10.chm4067
-ms.prod: word
 api_name:
 - Word.ContentControl
 ms.assetid: 783dec26-9b63-11f8-6187-985f9c815f27

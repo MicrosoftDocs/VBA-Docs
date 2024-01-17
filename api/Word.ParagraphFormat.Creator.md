@@ -3,7 +3,6 @@ title: ParagraphFormat.Creator property (Word)
 keywords: vbawd10.chm156435433
 f1_keywords:
 - vbawd10.chm156435433
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.Creator
 ms.assetid: 500803c4-b7f8-0a99-6e96-4f783698725f

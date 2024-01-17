@@ -3,7 +3,6 @@ title: XMLNode.SelectSingleNode method (Word)
 keywords: vbawd10.chm37748754
 f1_keywords:
 - vbawd10.chm37748754
-ms.prod: word
 api_name:
 - Word.XMLNode.SelectSingleNode
 ms.assetid: c831dba1-90f7-0af7-9e44-8f62a54de0fe

@@ -3,7 +3,6 @@ title: ShapeRange.Glow property (Word)
 keywords: vbawd10.chm162857113
 f1_keywords:
 - vbawd10.chm162857113
-ms.prod: word
 api_name:
 - Word.ShapeRange.Glow
 ms.assetid: 8dd60588-09e9-eb2b-da0a-0abd38e1030c

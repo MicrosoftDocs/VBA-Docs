@@ -3,7 +3,6 @@ title: Application.MailMergeWizardSendToCustom event (Word)
 keywords: vbawd10.chm4000022
 f1_keywords:
 - vbawd10.chm4000022
-ms.prod: word
 api_name:
 - Word.Application.MailMergeWizardSendToCustom
 ms.assetid: b5dcd912-f1b5-96d6-3221-d294211b6611

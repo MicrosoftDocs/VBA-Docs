@@ -3,7 +3,6 @@ title: Window.PrintOut method (Word)
 keywords: vbawd10.chm157417917
 f1_keywords:
 - vbawd10.chm157417917
-ms.prod: word
 api_name:
 - Word.Window.PrintOut
 ms.assetid: 63ea2dd2-5b3c-1239-16ce-1b4980cde3d3

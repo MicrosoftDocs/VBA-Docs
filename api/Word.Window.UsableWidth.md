@@ -3,7 +3,6 @@ title: Window.UsableWidth property (Word)
 keywords: vbawd10.chm157417503
 f1_keywords:
 - vbawd10.chm157417503
-ms.prod: word
 api_name:
 - Word.Window.UsableWidth
 ms.assetid: 48e8ef1a-2af2-2a3e-b879-861d6bd73af3

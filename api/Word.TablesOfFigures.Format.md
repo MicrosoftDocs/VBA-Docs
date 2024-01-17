@@ -3,7 +3,6 @@ title: TablesOfFigures.Format property (Word)
 keywords: vbawd10.chm153223170
 f1_keywords:
 - vbawd10.chm153223170
-ms.prod: word
 api_name:
 - Word.TablesOfFigures.Format
 ms.assetid: 27459785-5bfc-cb63-f253-30d6ea2db6c3

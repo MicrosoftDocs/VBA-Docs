@@ -3,7 +3,6 @@ title: BuildingBlocks.Item method (Word)
 keywords: vbawd10.chm159842304
 f1_keywords:
 - vbawd10.chm159842304
-ms.prod: word
 api_name:
 - Word.BuildingBlocks.Item
 ms.assetid: 8380b6d9-fefa-dd3e-fc30-156b3a8be47a

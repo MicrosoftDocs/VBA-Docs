@@ -3,7 +3,6 @@ title: Trendline.Type property (Word)
 keywords: vbawd10.chm26345580
 f1_keywords:
 - vbawd10.chm26345580
-ms.prod: word
 api_name:
 - Word.Trendline.Type
 ms.assetid: 1f461dcc-242e-09a5-bc63-36f1a56af82d

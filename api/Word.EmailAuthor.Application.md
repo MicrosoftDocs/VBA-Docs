@@ -3,7 +3,6 @@ title: EmailAuthor.Application property (Word)
 keywords: vbawd10.chm165086184
 f1_keywords:
 - vbawd10.chm165086184
-ms.prod: word
 api_name:
 - Word.EmailAuthor.Application
 ms.assetid: 019bf110-5fbd-1d13-b8a4-9c63be2d6784

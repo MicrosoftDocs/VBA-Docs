@@ -3,7 +3,6 @@ title: AutoCorrectEntry.Delete method (Word)
 keywords: vbawd10.chm155648101
 f1_keywords:
 - vbawd10.chm155648101
-ms.prod: word
 api_name:
 - Word.AutoCorrectEntry.Delete
 ms.assetid: 70bb469a-cf7c-6741-cb8b-6e06e3dd8549

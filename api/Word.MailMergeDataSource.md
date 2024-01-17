@@ -3,7 +3,6 @@ title: MailMergeDataSource object (Word)
 keywords: vbawd10.chm2333
 f1_keywords:
 - vbawd10.chm2333
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource
 ms.assetid: f86f7d3c-d7ab-45e8-21e7-fd5a426e0391

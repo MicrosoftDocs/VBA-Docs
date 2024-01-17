@@ -1,6 +1,5 @@
 ---
 title: OMathRad object (Word)
-ms.prod: word
 api_name:
 - Word.OMathRad
 ms.assetid: 2179cda9-b1dc-9593-c4f9-99496081e191

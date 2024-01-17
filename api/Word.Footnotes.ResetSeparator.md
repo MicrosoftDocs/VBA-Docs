@@ -3,7 +3,6 @@ title: Footnotes.ResetSeparator method (Word)
 keywords: vbawd10.chm155320327
 f1_keywords:
 - vbawd10.chm155320327
-ms.prod: word
 api_name:
 - Word.Footnotes.ResetSeparator
 ms.assetid: 252633ab-a9a1-6dbe-7821-5c7969175996

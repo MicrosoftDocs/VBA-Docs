@@ -3,7 +3,6 @@ title: Shape.ZOrder method (Word)
 keywords: vbawd10.chm161480728
 f1_keywords:
 - vbawd10.chm161480728
-ms.prod: word
 api_name:
 - Word.Shape.ZOrder
 ms.assetid: b6729719-44b0-a069-0cbe-b694b88ab65a

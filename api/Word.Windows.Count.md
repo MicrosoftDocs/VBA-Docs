@@ -3,7 +3,6 @@ title: Windows.Count property (Word)
 keywords: vbawd10.chm157351938
 f1_keywords:
 - vbawd10.chm157351938
-ms.prod: word
 api_name:
 - Word.Windows.Count
 ms.assetid: 1691ca16-d4f3-f3f7-3269-19436493393b

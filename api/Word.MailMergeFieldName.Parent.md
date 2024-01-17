@@ -3,7 +3,6 @@ title: MailMergeFieldName.Parent property (Word)
 keywords: vbawd10.chm152765418
 f1_keywords:
 - vbawd10.chm152765418
-ms.prod: word
 api_name:
 - Word.MailMergeFieldName.Parent
 ms.assetid: da69df66-6279-bca0-4dd8-b1ed96bb11fc

@@ -3,7 +3,6 @@ title: LeaderLines object (Word)
 keywords: vbawd10.chm3170
 f1_keywords:
 - vbawd10.chm3170
-ms.prod: word
 api_name:
 - Word.LeaderLines
 ms.assetid: ea8805d1-eec7-eaf6-1046-967e28d6bc56

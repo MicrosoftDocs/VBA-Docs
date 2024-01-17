@@ -3,7 +3,6 @@ title: Frameset.HeightType property (Word)
 keywords: vbawd10.chm165806082
 f1_keywords:
 - vbawd10.chm165806082
-ms.prod: word
 api_name:
 - Word.Frameset.HeightType
 ms.assetid: 4d83e41c-d33c-a5b8-853c-e7581170ba4b

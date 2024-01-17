@@ -3,7 +3,6 @@ title: Range.TextVisibleOnScreen property (Word)
 keywords: vbawd10.chm157155835
 f1_keywords:
 - vbawd10.chm157155835
-ms.prod: word
 ms.assetid: ced8fc7c-61a2-b0dd-20ba-ee6a4281d44d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

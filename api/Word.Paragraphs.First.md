@@ -3,7 +3,6 @@ title: Paragraphs.First property (Word)
 keywords: vbawd10.chm156762115
 f1_keywords:
 - vbawd10.chm156762115
-ms.prod: word
 api_name:
 - Word.Paragraphs.First
 ms.assetid: 6dd3b139-02f5-5947-efea-67b2162b77d2

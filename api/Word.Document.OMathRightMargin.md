@@ -3,7 +3,6 @@ title: Document.OMathRightMargin property (Word)
 keywords: vbawd10.chm158007828
 f1_keywords:
 - vbawd10.chm158007828
-ms.prod: word
 api_name:
 - Word.Document.OMathRightMargin
 ms.assetid: 2deedb5c-e1c6-d424-3a85-c95462f43b3a

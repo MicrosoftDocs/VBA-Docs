@@ -3,7 +3,6 @@ title: Options.PrintDraft property (Word)
 keywords: vbawd10.chm162988319
 f1_keywords:
 - vbawd10.chm162988319
-ms.prod: word
 api_name:
 - Word.Options.PrintDraft
 ms.assetid: 23be1e0a-784b-5b0f-107c-78e200e31159

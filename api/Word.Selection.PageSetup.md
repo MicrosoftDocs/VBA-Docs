@@ -3,7 +3,6 @@ title: Selection.PageSetup property (Word)
 keywords: vbawd10.chm158663757
 f1_keywords:
 - vbawd10.chm158663757
-ms.prod: word
 api_name:
 - Word.Selection.PageSetup
 ms.assetid: 65e8953b-0b52-b31f-1c81-e607a37ba916

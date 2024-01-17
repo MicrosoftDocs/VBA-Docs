@@ -3,7 +3,6 @@ title: ChartTitle.Caption property (Word)
 keywords: vbawd10.chm65273856
 f1_keywords:
 - vbawd10.chm65273856
-ms.prod: word
 api_name:
 - Word.ChartTitle.Caption
 ms.assetid: a8fe173f-9fa8-827e-d7e2-f5d85d0859be

@@ -3,7 +3,6 @@ title: Document.OriginalDocumentTitle property (Word)
 keywords: vbawd10.chm158007815
 f1_keywords:
 - vbawd10.chm158007815
-ms.prod: word
 api_name:
 - Word.Document.OriginalDocumentTitle
 ms.assetid: 75f716ea-f944-54da-c3d9-4376c082e6f0

@@ -3,7 +3,6 @@ title: Document.WritePassword property (Word)
 keywords: vbawd10.chm158007382
 f1_keywords:
 - vbawd10.chm158007382
-ms.prod: word
 api_name:
 - Word.Document.WritePassword
 ms.assetid: e3353e68-1196-d896-d978-2c49ceca2940

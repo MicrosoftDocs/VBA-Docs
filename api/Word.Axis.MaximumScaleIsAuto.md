@@ -3,7 +3,6 @@ title: Axis.MaximumScaleIsAuto property (Word)
 keywords: vbawd10.chm113049630
 f1_keywords:
 - vbawd10.chm113049630
-ms.prod: word
 api_name:
 - Word.Axis.MaximumScaleIsAuto
 ms.assetid: 7ec9d4da-0851-146c-2324-bcaba7434158

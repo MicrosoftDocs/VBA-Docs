@@ -3,7 +3,6 @@ title: Window.WindowNumber property (Word)
 keywords: vbawd10.chm157417490
 f1_keywords:
 - vbawd10.chm157417490
-ms.prod: word
 api_name:
 - Word.WindowNumber
 ms.assetid: 9fe66956-664f-083e-62fe-7c2919619615

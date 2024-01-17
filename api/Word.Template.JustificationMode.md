@@ -3,7 +3,6 @@ title: Template.JustificationMode property (Word)
 keywords: vbawd10.chm157941773
 f1_keywords:
 - vbawd10.chm157941773
-ms.prod: word
 api_name:
 - Word.Template.JustificationMode
 ms.assetid: 914994e8-8ea3-4119-271c-193970da060c

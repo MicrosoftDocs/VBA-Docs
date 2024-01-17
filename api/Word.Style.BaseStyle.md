@@ -3,7 +3,6 @@ title: Style.BaseStyle property (Word)
 keywords: vbawd10.chm153878529
 f1_keywords:
 - vbawd10.chm153878529
-ms.prod: word
 api_name:
 - Word.Style.BaseStyle
 ms.assetid: d055a10a-66c4-7b50-923c-ab60fde0efa9

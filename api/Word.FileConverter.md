@@ -3,7 +3,6 @@ title: FileConverter object (Word)
 keywords: vbawd10.chm2457
 f1_keywords:
 - vbawd10.chm2457
-ms.prod: word
 api_name:
 - Word.FileConverter
 ms.assetid: 41af2a9b-75cc-253d-4954-4fb42c88530f

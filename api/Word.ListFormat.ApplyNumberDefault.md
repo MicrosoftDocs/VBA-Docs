@@ -3,7 +3,6 @@ title: ListFormat.ApplyNumberDefault method (Word)
 keywords: vbawd10.chm163578069
 f1_keywords:
 - vbawd10.chm163578069
-ms.prod: word
 api_name:
 - Word.ListFormat.ApplyNumberDefault
 ms.assetid: de7e219c-fb92-b0cf-dbc0-33f98eee0f5a

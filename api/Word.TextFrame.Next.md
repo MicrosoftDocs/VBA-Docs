@@ -3,7 +3,6 @@ title: TextFrame.Next property (Word)
 keywords: vbawd10.chm162665353
 f1_keywords:
 - vbawd10.chm162665353
-ms.prod: word
 api_name:
 - Word.TextFrame.Next
 ms.assetid: cf7ce145-8c19-eda8-fea0-01d154a3ec32

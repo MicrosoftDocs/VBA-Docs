@@ -3,7 +3,6 @@ title: Chart.SetDefaultChart method (Word)
 keywords: vbawd10.chm79364171
 f1_keywords:
 - vbawd10.chm79364171
-ms.prod: word
 api_name:
 - Word.Chart.SetDefaultChart
 ms.assetid: e914b44a-5de9-ca9d-a513-96943802a194

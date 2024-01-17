@@ -3,7 +3,6 @@ title: Points.Creator property (Word)
 keywords: vbawd10.chm10485909
 f1_keywords:
 - vbawd10.chm10485909
-ms.prod: word
 api_name:
 - Word.Points.Creator
 ms.assetid: b752ccbf-975a-bf99-4b24-52bb111ef251

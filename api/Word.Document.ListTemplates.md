@@ -3,7 +3,6 @@ title: Document.ListTemplates property (Word)
 keywords: vbawd10.chm158007359
 f1_keywords:
 - vbawd10.chm158007359
-ms.prod: word
 api_name:
 - Word.Document.ListTemplates
 ms.assetid: dc27553a-7083-4f14-ffd6-0f440982a79c

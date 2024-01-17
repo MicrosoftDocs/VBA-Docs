@@ -3,7 +3,6 @@ title: Options.FrenchReform property (Word)
 keywords: vbawd10.chm162988516
 f1_keywords:
 - vbawd10.chm162988516
-ms.prod: word
 api_name:
 - Word.Options.FrenchReform
 ms.assetid: 0943276a-0215-f59d-00c6-b6181c96ddbe

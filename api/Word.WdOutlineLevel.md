@@ -1,6 +1,5 @@
 ---
 title: WdOutlineLevel enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOutlineLevel
 ms.assetid: 44a38f7e-355c-3ff3-1408-0972f20778d2

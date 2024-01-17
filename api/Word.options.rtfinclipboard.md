@@ -3,7 +3,6 @@ title: Options.RTFInClipboard property (Word)
 keywords: vbawd10.chm162988061
 f1_keywords:
 - vbawd10.chm162988061
-ms.prod: word
 ms.assetid: b9cfb4a2-cbdf-c7c9-885e-5f9b7f370d9a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

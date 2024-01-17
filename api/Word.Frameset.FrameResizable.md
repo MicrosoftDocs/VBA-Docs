@@ -3,7 +3,6 @@ title: Frameset.FrameResizable property (Word)
 keywords: vbawd10.chm165806111
 f1_keywords:
 - vbawd10.chm165806111
-ms.prod: word
 api_name:
 - Word.Frameset.FrameResizable
 ms.assetid: 5a373e57-3193-c2a3-52b6-42702237f6c3

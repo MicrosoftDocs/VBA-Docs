@@ -3,7 +3,6 @@ title: Chart.ApplyDataLabels method (Word)
 keywords: vbawd10.chm79366018
 f1_keywords:
 - vbawd10.chm79366018
-ms.prod: word
 api_name:
 - Word.Chart.ApplyDataLabels
 ms.assetid: 3d4ce40f-7194-ad96-4ae6-15434c6dd491

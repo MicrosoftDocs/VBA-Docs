@@ -3,7 +3,6 @@ title: ShadowFormat.Parent property (Word)
 keywords: vbawd10.chm164364289
 f1_keywords:
 - vbawd10.chm164364289
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Parent
 ms.assetid: 15232ebb-c96c-c8c7-c81e-66804e8d444f

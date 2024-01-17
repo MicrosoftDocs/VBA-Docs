@@ -3,7 +3,6 @@ title: InlineShape.Title property (Word)
 keywords: vbawd10.chm162005150
 f1_keywords:
 - vbawd10.chm162005150
-ms.prod: word
 api_name:
 - Word.InlineShape.Title
 ms.assetid: 85a28df8-f579-79b9-60b9-30624a64dae7

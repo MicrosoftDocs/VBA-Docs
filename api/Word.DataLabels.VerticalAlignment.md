@@ -3,7 +3,6 @@ title: DataLabels.VerticalAlignment property (Word)
 keywords: vbawd10.chm207487113
 f1_keywords:
 - vbawd10.chm207487113
-ms.prod: word
 api_name:
 - Word.DataLabels.VerticalAlignment
 ms.assetid: 78a6fbfc-476f-0a2e-92c4-cc349dd85867

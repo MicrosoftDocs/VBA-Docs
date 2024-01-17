@@ -3,7 +3,6 @@ title: Selection.InsertCaption method (Word)
 keywords: vbawd10.chm158663073
 f1_keywords:
 - vbawd10.chm158663073
-ms.prod: word
 api_name:
 - Word.Selection.InsertCaption
 ms.assetid: 848c1686-ca8c-d022-68f1-74a2f3d46498

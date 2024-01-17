@@ -3,7 +3,6 @@ title: ListEntry.Name property (Word)
 keywords: vbawd10.chm153288706
 f1_keywords:
 - vbawd10.chm153288706
-ms.prod: word
 api_name:
 - Word.ListEntry.Name
 ms.assetid: ee6fae98-4b7d-d8d9-0af3-ee7c76e8b64e

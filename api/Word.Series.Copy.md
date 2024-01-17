@@ -3,7 +3,6 @@ title: Series.Copy method (Word)
 keywords: vbawd10.chm123732519
 f1_keywords:
 - vbawd10.chm123732519
-ms.prod: word
 api_name:
 - Word.Series.Copy
 ms.assetid: 66b30c88-5748-78a5-012c-5f06ff45042f

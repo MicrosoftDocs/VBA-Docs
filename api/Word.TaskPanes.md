@@ -1,6 +1,5 @@
 ---
 title: TaskPanes object (Word)
-ms.prod: word
 api_name:
 - Word.TaskPanes
 ms.assetid: a560a41b-a1d7-175a-b475-af742c9fa1f8

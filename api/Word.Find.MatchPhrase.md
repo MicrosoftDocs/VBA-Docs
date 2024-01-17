@@ -3,7 +3,6 @@ title: Find.MatchPhrase property (Word)
 keywords: vbawd10.chm162529384
 f1_keywords:
 - vbawd10.chm162529384
-ms.prod: word
 api_name:
 - Word.Find.MatchPhrase
 ms.assetid: 189d670e-941a-e737-1d3c-b054b716d400

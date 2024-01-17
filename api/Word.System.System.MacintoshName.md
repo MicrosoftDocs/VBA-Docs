@@ -3,7 +3,6 @@ title: System.MacintoshName property (Word)
 keywords: vbawd10.chm154468366
 f1_keywords:
 - vbawd10.chm154468366
-ms.prod: word
 api_name:
 - Word.System.System.MacintoshName
 ms.assetid: 529c6eff-5336-42f8-9d96-3881f5e17a9d

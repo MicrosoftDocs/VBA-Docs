@@ -3,7 +3,6 @@ title: Global.ActiveProtectedViewWindow property (Word)
 keywords: vbawd10.chm163119219
 f1_keywords:
 - vbawd10.chm163119219
-ms.prod: word
 api_name:
 - Word.Global.ActiveProtectedViewWindow
 ms.assetid: 4023444a-f433-7f38-bbc8-6055ed03cb6a

@@ -3,7 +3,6 @@ title: Pane.Previous property (Word)
 keywords: vbawd10.chm157286412
 f1_keywords:
 - vbawd10.chm157286412
-ms.prod: word
 api_name:
 - Word.Pane.Previous
 ms.assetid: f1e56223-29de-f3ca-ed33-99ff8aefea0a

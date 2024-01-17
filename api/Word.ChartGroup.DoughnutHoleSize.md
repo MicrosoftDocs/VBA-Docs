@@ -3,7 +3,6 @@ title: ChartGroup.DoughnutHoleSize property (Word)
 keywords: vbawd10.chm263454722
 f1_keywords:
 - vbawd10.chm263454722
-ms.prod: word
 api_name:
 - Word.ChartGroup.DoughnutHoleSize
 ms.assetid: 5f4098ee-7d94-ace4-b412-1c7071434973

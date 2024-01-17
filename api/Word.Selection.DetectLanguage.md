@@ -3,7 +3,6 @@ title: Selection.DetectLanguage method (Word)
 keywords: vbawd10.chm158663191
 f1_keywords:
 - vbawd10.chm158663191
-ms.prod: word
 api_name:
 - Word.Selection.DetectLanguage
 ms.assetid: cfbc0d54-bb00-2bd0-ad9a-e646fdcbfe46

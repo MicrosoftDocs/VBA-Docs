@@ -1,6 +1,5 @@
 ---
 title: WdLetterStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdLetterStyle
 ms.assetid: 5e728e5d-3dfe-f436-69e0-9b1c534e623a

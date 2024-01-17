@@ -3,7 +3,6 @@ title: Frame.Borders property (Word)
 keywords: vbawd10.chm153748556
 f1_keywords:
 - vbawd10.chm153748556
-ms.prod: word
 api_name:
 - Word.Frame.Borders
 ms.assetid: 314ad92c-f0e2-1606-443f-0d40e8ea04b1

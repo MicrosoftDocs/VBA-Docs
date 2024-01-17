@@ -3,7 +3,6 @@ title: Setting Control Properties (Word)
 keywords: vbawd10.chm5213294
 f1_keywords:
 - vbawd10.chm5213294
-ms.prod: word
 ms.assetid: b8472d6c-4f48-3953-8adc-f3573583136f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Global.ActiveDocument property (Word)
 keywords: vbawd10.chm163119107
 f1_keywords:
 - vbawd10.chm163119107
-ms.prod: word
 api_name:
 - Word.Global.ActiveDocument
 ms.assetid: ce25921e-7b90-c122-e054-6be678e4a69b

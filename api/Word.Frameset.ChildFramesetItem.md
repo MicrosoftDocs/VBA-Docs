@@ -3,7 +3,6 @@ title: Frameset.ChildFramesetItem property (Word)
 keywords: vbawd10.chm165806086
 f1_keywords:
 - vbawd10.chm165806086
-ms.prod: word
 api_name:
 - Word.Frameset.ChildFramesetItem
 ms.assetid: a0210de1-5556-0c20-a694-a6892dc7eddf

@@ -3,7 +3,6 @@ title: Application.RestrictLinkedStyles property (Word)
 keywords: vbawd10.chm158335450
 f1_keywords:
 - vbawd10.chm158335450
-ms.prod: word
 api_name:
 - Word.Application.RestrictLinkedStyles
 ms.assetid: 0d2033bc-9cf4-1f57-a9c7-56eaf0a55257

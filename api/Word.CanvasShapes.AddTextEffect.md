@@ -3,7 +3,6 @@ title: CanvasShapes.AddTextEffect method (Word)
 keywords: vbawd10.chm7536658
 f1_keywords:
 - vbawd10.chm7536658
-ms.prod: word
 api_name:
 - Word.CanvasShapes.AddTextEffect
 ms.assetid: 8f9c51b7-1588-6090-85b8-b94620c9e4bb

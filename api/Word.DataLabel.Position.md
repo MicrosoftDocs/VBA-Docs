@@ -3,7 +3,6 @@ title: DataLabel.Position property (Word)
 keywords: vbawd10.chm233898117
 f1_keywords:
 - vbawd10.chm233898117
-ms.prod: word
 api_name:
 - Word.DataLabel.Position
 ms.assetid: 6b335f1a-40f0-17c4-d5b5-5f8371fcfcdd

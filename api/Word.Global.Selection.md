@@ -3,7 +3,6 @@ title: Global.Selection property (Word)
 keywords: vbawd10.chm163119109
 f1_keywords:
 - vbawd10.chm163119109
-ms.prod: word
 api_name:
 - Word.Global.Selection
 ms.assetid: 71938a78-36ae-07ba-496b-911bef746444

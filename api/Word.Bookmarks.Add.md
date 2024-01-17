@@ -3,7 +3,6 @@ title: Bookmarks.Add method (Word)
 keywords: vbawd10.chm157745157
 f1_keywords:
 - vbawd10.chm157745157
-ms.prod: word
 api_name:
 - Word.Bookmarks.Add
 ms.assetid: 647795da-d7e2-7b6f-c412-5b684ec962a2

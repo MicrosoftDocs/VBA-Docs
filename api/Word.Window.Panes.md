@@ -3,7 +3,6 @@ title: Window.Panes property (Word)
 keywords: vbawd10.chm157417475
 f1_keywords:
 - vbawd10.chm157417475
-ms.prod: word
 api_name:
 - Word.Window.Panes
 ms.assetid: d75cc2ab-940f-9e2b-81d5-bbbfdb0f4c6c

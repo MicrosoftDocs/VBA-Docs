@@ -3,7 +3,6 @@ title: PlotArea.InsideHeight property (Word)
 keywords: vbawd10.chm53479046
 f1_keywords:
 - vbawd10.chm53479046
-ms.prod: word
 api_name:
 - Word.PlotArea.InsideHeight
 ms.assetid: f169e862-a18e-614b-d79b-ef874bd170d3

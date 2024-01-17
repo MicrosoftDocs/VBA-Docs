@@ -3,7 +3,6 @@ title: Global.Templates property (Word)
 keywords: vbawd10.chm163119171
 f1_keywords:
 - vbawd10.chm163119171
-ms.prod: word
 api_name:
 - Word.Global.Templates
 ms.assetid: 4aa67807-023a-2b52-4773-114d86e340e3

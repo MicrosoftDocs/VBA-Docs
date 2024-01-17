@@ -3,7 +3,6 @@ title: Comment.Scope property (Word)
 keywords: vbawd10.chm154993645
 f1_keywords:
 - vbawd10.chm154993645
-ms.prod: word
 api_name:
 - Word.Comment.Scope
 ms.assetid: 07ef4a30-9a3a-aed1-5c38-7f091ea3150b

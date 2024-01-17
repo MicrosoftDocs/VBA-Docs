@@ -3,7 +3,6 @@ title: OLEFormat.Edit method (Word)
 keywords: vbawd10.chm154337386
 f1_keywords:
 - vbawd10.chm154337386
-ms.prod: word
 api_name:
 - Word.OLEFormat.Edit
 ms.assetid: 666c20f2-33cf-0655-16f1-914ec0268a1a

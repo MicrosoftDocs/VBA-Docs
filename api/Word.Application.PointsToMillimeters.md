@@ -3,7 +3,6 @@ title: Application.PointsToMillimeters method (Word)
 keywords: vbawd10.chm158335358
 f1_keywords:
 - vbawd10.chm158335358
-ms.prod: word
 api_name:
 - Word.Application.PointsToMillimeters
 ms.assetid: b4933ff2-1d64-3ba2-8c28-69b7fa783358

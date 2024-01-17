@@ -3,7 +3,6 @@ title: EmailSignatureEntries.Creator property (Word)
 keywords: vbawd10.chm166003689
 f1_keywords:
 - vbawd10.chm166003689
-ms.prod: word
 api_name:
 - Word.EmailSignatureEntries.Creator
 ms.assetid: cca4c109-d018-50bf-72d0-0d84b1436aad

@@ -3,7 +3,6 @@ title: ParagraphFormat.Space2 method (Word)
 keywords: vbawd10.chm156434747
 f1_keywords:
 - vbawd10.chm156434747
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.Space2
 ms.assetid: 7173f5b8-961b-e93f-e4b6-fedad6da8d1d

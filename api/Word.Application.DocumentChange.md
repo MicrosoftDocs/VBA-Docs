@@ -3,7 +3,6 @@ title: Application.DocumentChange event (Word)
 keywords: vbawd10.chm400003
 f1_keywords:
 - vbawd10.chm400003
-ms.prod: word
 api_name:
 - Word.Application.DocumentChange
 ms.assetid: 853cbe7e-e4ac-2dba-826a-695d5c137d48

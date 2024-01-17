@@ -3,7 +3,6 @@ title: Columns.Width property (Word)
 keywords: vbawd10.chm155910147
 f1_keywords:
 - vbawd10.chm155910147
-ms.prod: word
 api_name:
 - Word.Columns.Width
 ms.assetid: 011c3c8f-1d80-a7d1-3a05-f634779f158e

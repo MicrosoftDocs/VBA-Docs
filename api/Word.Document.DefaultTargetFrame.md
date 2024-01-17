@@ -3,7 +3,6 @@ title: Document.DefaultTargetFrame property (Word)
 keywords: vbawd10.chm158007636
 f1_keywords:
 - vbawd10.chm158007636
-ms.prod: word
 api_name:
 - Word.Document.DefaultTargetFrame
 ms.assetid: 4439bf14-34da-62b6-a290-f374eeef908a

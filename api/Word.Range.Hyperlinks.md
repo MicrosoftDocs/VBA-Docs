@@ -3,7 +3,6 @@ title: Range.Hyperlinks property (Word)
 keywords: vbawd10.chm157155484
 f1_keywords:
 - vbawd10.chm157155484
-ms.prod: word
 api_name:
 - Word.Range.Hyperlinks
 ms.assetid: c8eb84af-b090-82ee-8001-b251c6cc1f24

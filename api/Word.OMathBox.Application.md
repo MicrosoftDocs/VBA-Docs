@@ -3,7 +3,6 @@ title: OMathBox.Application property (Word)
 keywords: vbawd10.chm134086756
 f1_keywords:
 - vbawd10.chm134086756
-ms.prod: word
 api_name:
 - Word.OMathBox.Application
 ms.assetid: 3af955e4-f92a-6ce3-af4c-ba9768327998

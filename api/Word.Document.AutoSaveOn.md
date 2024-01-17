@@ -3,7 +3,6 @@ title: Document.AutoSaveOn property (Word)
 keywords: vbawd10.chm158007920
 f1_keywords:
 - vbawd10.chm158007920
-ms.prod: word
 api_name:
 - Word.Document.AutoSaveOn
 ms.date: 07/28/2017

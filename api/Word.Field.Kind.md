@@ -3,7 +3,6 @@ title: Field.Kind property (Word)
 keywords: vbawd10.chm154075139
 f1_keywords:
 - vbawd10.chm154075139
-ms.prod: word
 api_name:
 - Word.Field.Kind
 ms.assetid: 8da8e1a1-5e4c-96fd-7ce3-f650433c1ed1

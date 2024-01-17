@@ -3,7 +3,6 @@ title: WrapFormat.DistanceRight property (Word)
 keywords: vbawd10.chm163774569
 f1_keywords:
 - vbawd10.chm163774569
-ms.prod: word
 api_name:
 - Word.WrapFormat.DistanceRight
 ms.assetid: 37aae328-abbc-e755-a402-5649a2f81e18

@@ -3,7 +3,6 @@ title: DataLabels.Separator property (Word)
 keywords: vbawd10.chm207489003
 f1_keywords:
 - vbawd10.chm207489003
-ms.prod: word
 api_name:
 - Word.DataLabels.Separator
 ms.assetid: daf3afde-8a33-de08-a615-57537855818a

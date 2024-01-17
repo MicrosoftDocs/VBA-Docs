@@ -3,7 +3,6 @@ title: PlotArea.InsideWidth property (Word)
 keywords: vbawd10.chm53479045
 f1_keywords:
 - vbawd10.chm53479045
-ms.prod: word
 api_name:
 - Word.PlotArea.InsideWidth
 ms.assetid: acdb721d-73a9-15af-d833-d044e83b3c87

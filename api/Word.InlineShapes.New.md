@@ -3,7 +3,6 @@ title: InlineShapes.New method (Word)
 keywords: vbawd10.chm162070728
 f1_keywords:
 - vbawd10.chm162070728
-ms.prod: word
 api_name:
 - Word.InlineShapes.New
 ms.assetid: de83ac06-2b80-69a5-168f-f5f815bfdf11

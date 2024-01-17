@@ -1,6 +1,5 @@
 ---
 title: Panes object (Word)
-ms.prod: word
 ms.assetid: 6ed6353c-9134-f47d-a108-13e84eced8ff
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: XMLSchemaReferences.ShowPlaceholderText property (Word)
 keywords: vbawd10.chm116129799
 f1_keywords:
 - vbawd10.chm116129799
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.ShowPlaceholderText
 ms.assetid: 432b25c0-79a1-7930-d0a5-c69a0e50bf72

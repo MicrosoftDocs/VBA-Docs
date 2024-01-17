@@ -3,7 +3,6 @@ title: Global.CheckSpelling method (Word)
 keywords: vbawd10.chm163119428
 f1_keywords:
 - vbawd10.chm163119428
-ms.prod: word
 api_name:
 - Word.Global.CheckSpelling
 ms.assetid: eb264c56-090f-b1af-3d0b-5ee5190345b7

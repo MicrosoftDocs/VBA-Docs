@@ -3,7 +3,6 @@ title: XMLSchemaReferences.Item method (Word)
 keywords: vbawd10.chm116129792
 f1_keywords:
 - vbawd10.chm116129792
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.Item
 ms.assetid: c812a6c9-3a98-23b0-bf44-92f75cb498cf

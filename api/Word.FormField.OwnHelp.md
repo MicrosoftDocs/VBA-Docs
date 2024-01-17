@@ -3,7 +3,6 @@ title: FormField.OwnHelp property (Word)
 keywords: vbawd10.chm153616389
 f1_keywords:
 - vbawd10.chm153616389
-ms.prod: word
 api_name:
 - Word.FormField.OwnHelp
 ms.assetid: a066ffc1-89d3-12d4-0bf1-bf338679d2d4

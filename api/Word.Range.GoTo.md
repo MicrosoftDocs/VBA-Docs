@@ -3,7 +3,6 @@ title: Range.GoTo method (Word)
 keywords: vbawd10.chm157155501
 f1_keywords:
 - vbawd10.chm157155501
-ms.prod: word
 api_name:
 - Word.Range.GoTo
 ms.assetid: 9e7cdfcc-756c-4bc8-902e-12479388ea03

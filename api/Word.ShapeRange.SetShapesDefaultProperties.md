@@ -3,7 +3,6 @@ title: ShapeRange.SetShapesDefaultProperties method (Word)
 keywords: vbawd10.chm162856986
 f1_keywords:
 - vbawd10.chm162856986
-ms.prod: word
 api_name:
 - Word.ShapeRange.SetShapesDefaultProperties
 ms.assetid: 9baf5824-0f24-b237-e148-371c1b0afefa

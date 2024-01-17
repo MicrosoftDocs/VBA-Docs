@@ -3,7 +3,6 @@ title: FillFormat.TextureType property (Word)
 keywords: vbawd10.chm164102254
 f1_keywords:
 - vbawd10.chm164102254
-ms.prod: word
 api_name:
 - Word.FillFormat.TextureType
 ms.assetid: 5254a20e-477d-c69e-7296-129deb1e08e0

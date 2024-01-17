@@ -3,7 +3,6 @@ title: XMLNamespace.Alias property (Word)
 keywords: vbawd10.chm2293764
 f1_keywords:
 - vbawd10.chm2293764
-ms.prod: word
 api_name:
 - Word.XMLNamespace.Alias
 ms.assetid: 3c82e7c4-4ad6-c88d-b9cb-4156534b4d89

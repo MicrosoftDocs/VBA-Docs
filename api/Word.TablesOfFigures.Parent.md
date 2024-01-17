@@ -3,7 +3,6 @@ title: TablesOfFigures.Parent property (Word)
 keywords: vbawd10.chm153224170
 f1_keywords:
 - vbawd10.chm153224170
-ms.prod: word
 api_name:
 - Word.TablesOfFigures.Parent
 ms.assetid: bea138b0-c091-337b-54ae-0e6d3254d9f5

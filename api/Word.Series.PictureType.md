@@ -3,7 +3,6 @@ title: Series.PictureType property (Word)
 keywords: vbawd10.chm123732129
 f1_keywords:
 - vbawd10.chm123732129
-ms.prod: word
 api_name:
 - Word.Series.PictureType
 ms.assetid: 29150e44-0815-9e6e-7fcb-92f030f3cf6a

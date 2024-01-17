@@ -3,7 +3,6 @@ title: FillFormat.TextureVerticalScale property (Word)
 keywords: vbawd10.chm164102263
 f1_keywords:
 - vbawd10.chm164102263
-ms.prod: word
 api_name:
 - Word.FillFormat.TextureVerticalScale
 ms.assetid: 19045ed6-ccae-7403-5701-a93cec25e51f

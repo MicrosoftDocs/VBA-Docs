@@ -3,7 +3,6 @@ title: Range.InStory method (Word)
 keywords: vbawd10.chm157155453
 f1_keywords:
 - vbawd10.chm157155453
-ms.prod: word
 api_name:
 - Word.Range.InStory
 ms.assetid: 62452309-4d4a-5207-3e1b-28b109ca1b1e

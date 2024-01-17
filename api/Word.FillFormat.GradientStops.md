@@ -3,7 +3,6 @@ title: FillFormat.GradientStops property (Word)
 keywords: vbawd10.chm164102258
 f1_keywords:
 - vbawd10.chm164102258
-ms.prod: word
 api_name:
 - Word.FillFormat.GradientStops
 ms.assetid: 3ae72292-2b7b-69af-35d4-5f887ce3c7ce

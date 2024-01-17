@@ -3,7 +3,6 @@ title: Columns.PreferredWidthType property (Word)
 keywords: vbawd10.chm155910250
 f1_keywords:
 - vbawd10.chm155910250
-ms.prod: word
 api_name:
 - Word.Columns.PreferredWidthType
 ms.assetid: 2f0a5c0a-177f-5f14-85dc-70e65c020abe

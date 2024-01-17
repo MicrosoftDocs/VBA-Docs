@@ -3,7 +3,6 @@ title: SynonymInfo.SynonymList property (Word)
 keywords: vbawd10.chm161153031
 f1_keywords:
 - vbawd10.chm161153031
-ms.prod: word
 api_name:
 - Word.SynonymInfo.SynonymList
 ms.assetid: c51a5a79-9724-531b-acca-7e8b6c3feff9

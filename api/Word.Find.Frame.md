@@ -3,7 +3,6 @@ title: Find.Frame property (Word)
 keywords: vbawd10.chm162529306
 f1_keywords:
 - vbawd10.chm162529306
-ms.prod: word
 api_name:
 - Word.Find.Frame
 ms.assetid: 66cfee6f-649c-cef9-1dee-d2a4a6de4a7a

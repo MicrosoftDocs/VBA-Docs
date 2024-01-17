@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Shadow property (Word)
 keywords: vbawd10.chm94568458
 f1_keywords:
 - vbawd10.chm94568458
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Shadow
 ms.assetid: 8827d651-126a-3e90-1fb9-80d31190b3ec

@@ -3,7 +3,6 @@ title: XMLNode.Level property (Word)
 keywords: vbawd10.chm37748757
 f1_keywords:
 - vbawd10.chm37748757
-ms.prod: word
 api_name:
 - Word.XMLNode.Level
 ms.assetid: bfa13ac4-f7d3-9b16-eddd-46c1bdbf45eb

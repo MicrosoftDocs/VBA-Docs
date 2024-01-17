@@ -3,7 +3,6 @@ title: Document.Undo method (Word)
 keywords: vbawd10.chm158007412
 f1_keywords:
 - vbawd10.chm158007412
-ms.prod: word
 api_name:
 - Word.Document.Undo
 ms.assetid: f9fd64c9-aeb9-b698-6318-beb1db653ee6

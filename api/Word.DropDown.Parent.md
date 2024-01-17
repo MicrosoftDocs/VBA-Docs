@@ -3,7 +3,6 @@ title: DropDown.Parent property (Word)
 keywords: vbawd10.chm153420778
 f1_keywords:
 - vbawd10.chm153420778
-ms.prod: word
 api_name:
 - Word.DropDown.Parent
 ms.assetid: 5b721c1a-6553-5ffb-167d-ff73a9e42f01

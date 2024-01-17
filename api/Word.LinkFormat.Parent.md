@@ -3,7 +3,6 @@ title: LinkFormat.Parent property (Word)
 keywords: vbawd10.chm154207210
 f1_keywords:
 - vbawd10.chm154207210
-ms.prod: word
 api_name:
 - Word.LinkFormat.Parent
 ms.assetid: 54d72614-4172-c9f0-e635-d69f747ba474

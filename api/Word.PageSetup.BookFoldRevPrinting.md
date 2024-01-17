@@ -3,7 +3,6 @@ title: PageSetup.BookFoldRevPrinting property (Word)
 keywords: vbawd10.chm158401736
 f1_keywords:
 - vbawd10.chm158401736
-ms.prod: word
 api_name:
 - Word.PageSetup.BookFoldRevPrinting
 ms.assetid: 3d6db95a-1c2d-424f-f704-ed7d1c05895c

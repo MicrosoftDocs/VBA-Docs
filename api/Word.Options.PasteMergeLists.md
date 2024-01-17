@@ -3,7 +3,6 @@ title: Options.PasteMergeLists property (Word)
 keywords: vbawd10.chm162988482
 f1_keywords:
 - vbawd10.chm162988482
-ms.prod: word
 api_name:
 - Word.Options.PasteMergeLists
 ms.assetid: 82989419-32c6-6a70-685f-eae11de50cae

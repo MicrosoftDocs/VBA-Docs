@@ -3,7 +3,6 @@ title: OMathBar.Parent property (Word)
 keywords: vbawd10.chm99680358
 f1_keywords:
 - vbawd10.chm99680358
-ms.prod: word
 api_name:
 - Word.OMathBar.Parent
 ms.assetid: 47b92a00-2e57-724e-e560-58ce092c95c5

@@ -3,7 +3,6 @@ title: MailMerge.WizardState property (Word)
 keywords: vbawd10.chm153092110
 f1_keywords:
 - vbawd10.chm153092110
-ms.prod: word
 api_name:
 - Word.MailMerge.WizardState
 ms.assetid: 7dc71e03-cdc4-c307-d433-1d3984aa39d4

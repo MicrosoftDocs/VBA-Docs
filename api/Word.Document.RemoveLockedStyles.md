@@ -3,7 +3,6 @@ title: Document.RemoveLockedStyles method (Word)
 keywords: vbawd10.chm158007783
 f1_keywords:
 - vbawd10.chm158007783
-ms.prod: word
 api_name:
 - Word.Document.RemoveLockedStyles
 ms.assetid: 0c20a3c9-b4b3-e9a6-06d1-a9bf9b16dc07

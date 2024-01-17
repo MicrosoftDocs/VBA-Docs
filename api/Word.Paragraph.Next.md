@@ -3,7 +3,6 @@ title: Paragraph.Next method (Word)
 keywords: vbawd10.chm156696900
 f1_keywords:
 - vbawd10.chm156696900
-ms.prod: word
 api_name:
 - Word.Paragraph.Next
 ms.assetid: 5ada0da7-a579-b728-0483-b698a09eb41c

@@ -3,7 +3,6 @@ title: FormField.ExitMacro property (Word)
 keywords: vbawd10.chm153616388
 f1_keywords:
 - vbawd10.chm153616388
-ms.prod: word
 api_name:
 - Word.FormField.ExitMacro
 ms.assetid: b8930661-e02f-e058-571e-986da33a477d

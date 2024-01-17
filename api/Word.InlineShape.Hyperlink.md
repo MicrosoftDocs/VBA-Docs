@@ -3,7 +3,6 @@ title: InlineShape.Hyperlink property (Word)
 keywords: vbawd10.chm162004999
 f1_keywords:
 - vbawd10.chm162004999
-ms.prod: word
 api_name:
 - Word.InlineShape.Hyperlink
 ms.assetid: 46297480-026a-1679-20dc-f1e6b284559e

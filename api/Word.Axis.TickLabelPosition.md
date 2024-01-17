@@ -3,7 +3,6 @@ title: Axis.TickLabelPosition property (Word)
 keywords: vbawd10.chm113049648
 f1_keywords:
 - vbawd10.chm113049648
-ms.prod: word
 api_name:
 - Word.Axis.TickLabelPosition
 ms.assetid: c0284fd9-ec02-fdc9-4c8b-49efdb85be87

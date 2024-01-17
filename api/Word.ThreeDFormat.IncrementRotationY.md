@@ -3,7 +3,6 @@ title: ThreeDFormat.IncrementRotationY method (Word)
 keywords: vbawd10.chm164626443
 f1_keywords:
 - vbawd10.chm164626443
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.IncrementRotationY
 ms.assetid: 924559dd-1e64-d5f4-c462-5d5fb931cd57

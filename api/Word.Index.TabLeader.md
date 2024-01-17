@@ -3,7 +3,6 @@ title: Index.TabLeader property (Word)
 keywords: vbawd10.chm159186950
 f1_keywords:
 - vbawd10.chm159186950
-ms.prod: word
 api_name:
 - Word.Index.TabLeader
 ms.assetid: 82bc6e93-1dd7-aa56-1fca-8fcb9ed72784

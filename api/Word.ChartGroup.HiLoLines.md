@@ -3,7 +3,6 @@ title: ChartGroup.HiLoLines property (Word)
 keywords: vbawd10.chm263454740
 f1_keywords:
 - vbawd10.chm263454740
-ms.prod: word
 api_name:
 - Word.ChartGroup.HiLoLines
 ms.assetid: 452f4e5d-7ad8-76ad-5067-2df8a074d6d1

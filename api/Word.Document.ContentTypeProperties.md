@@ -3,7 +3,6 @@ title: Document.ContentTypeProperties property (Word)
 keywords: vbawd10.chm158007792
 f1_keywords:
 - vbawd10.chm158007792
-ms.prod: word
 api_name:
 - Word.Document.ContentTypeProperties
 ms.assetid: 03358167-e196-3fed-58e7-cfbd9457aa2b

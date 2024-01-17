@@ -3,7 +3,6 @@ title: Model3DFormat.FieldOfView property (Word)
 keywords: vbawd10.chm151584872
 f1_keywords:
 - vbawd10.chm151584872
-ms.prod: word
 api_name:
 - Word.Model3DFormat.FieldOfView
 ms.date: 04/11/2019

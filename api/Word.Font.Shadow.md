@@ -3,7 +3,6 @@ title: Font.Shadow property (Word)
 keywords: vbawd10.chm156369042
 f1_keywords:
 - vbawd10.chm156369042
-ms.prod: word
 api_name:
 - Word.Font.Shadow
 ms.assetid: e81f8b86-7f60-7852-6c72-7b01de832447

@@ -3,7 +3,6 @@ title: Shape.Shadow property (Word)
 keywords: vbawd10.chm161480823
 f1_keywords:
 - vbawd10.chm161480823
-ms.prod: word
 api_name:
 - Word.Shape.Shadow
 ms.assetid: 43e65f16-9bd6-ab41-48b0-d52fc67dd5ae

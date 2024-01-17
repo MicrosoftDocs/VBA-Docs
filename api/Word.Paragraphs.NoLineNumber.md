@@ -3,7 +3,6 @@ title: Paragraphs.NoLineNumber property (Word)
 keywords: vbawd10.chm156762217
 f1_keywords:
 - vbawd10.chm156762217
-ms.prod: word
 api_name:
 - Word.Paragraphs.NoLineNumber
 ms.assetid: d548299c-0f1a-d823-f884-57bb8f9be104

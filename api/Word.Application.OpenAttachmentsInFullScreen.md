@@ -3,7 +3,6 @@ title: Application.OpenAttachmentsInFullScreen property (Word)
 keywords: vbawd10.chm158335454
 f1_keywords:
 - vbawd10.chm158335454
-ms.prod: word
 api_name:
 - Word.Application.OpenAttachmentsInFullScreen
 ms.assetid: 295af420-fbe0-7753-2f7f-afabb5f0818c

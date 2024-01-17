@@ -3,7 +3,6 @@ title: Conflict.Creator property (Word)
 keywords: vbawd10.chm78709737
 f1_keywords:
 - vbawd10.chm78709737
-ms.prod: word
 api_name:
 - Word.Conflict.Creator
 ms.assetid: 785be486-6958-4684-ecaf-c973c31d2af3

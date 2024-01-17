@@ -3,7 +3,6 @@ title: HTMLDivisions.Add method (Word)
 keywords: vbawd10.chm166199397
 f1_keywords:
 - vbawd10.chm166199397
-ms.prod: word
 api_name:
 - Word.HTMLDivisions.Add
 ms.assetid: 4abd8c6d-be89-e7a3-df7f-95c3b5b3dba0

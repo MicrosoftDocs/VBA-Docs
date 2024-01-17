@@ -3,7 +3,6 @@ title: ShapeNode object (Word)
 keywords: vbawd10.chm2509
 f1_keywords:
 - vbawd10.chm2509
-ms.prod: word
 api_name:
 - Word.ShapeNode
 ms.assetid: d5afb71a-a218-57f3-87f0-171094ba6610

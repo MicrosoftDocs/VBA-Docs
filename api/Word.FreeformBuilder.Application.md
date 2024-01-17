@@ -3,7 +3,6 @@ title: FreeformBuilder.Application property (Word)
 keywords: vbawd10.chm164168680
 f1_keywords:
 - vbawd10.chm164168680
-ms.prod: word
 api_name:
 - Word.FreeformBuilder.Application
 ms.assetid: 6a8abf6c-5e9a-9b5e-d122-9998d110b050

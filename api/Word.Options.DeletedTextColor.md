@@ -3,7 +3,6 @@ title: Options.DeletedTextColor property (Word)
 keywords: vbawd10.chm162988093
 f1_keywords:
 - vbawd10.chm162988093
-ms.prod: word
 api_name:
 - Word.Options.DeletedTextColor
 ms.assetid: df77a2ad-458a-48a5-8662-6fc5ee34a003

@@ -3,7 +3,6 @@ title: Application.MacroContainer property (Word)
 keywords: vbawd10.chm158335031
 f1_keywords:
 - vbawd10.chm158335031
-ms.prod: word
 api_name:
 - Word.Application.MacroContainer
 ms.assetid: 9c2d37b8-d5c3-d13b-3bf9-54e1352b1855

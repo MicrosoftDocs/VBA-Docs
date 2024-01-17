@@ -3,7 +3,6 @@ title: Document.PrintFormsData property (Word)
 keywords: vbawd10.chm158007379
 f1_keywords:
 - vbawd10.chm158007379
-ms.prod: word
 api_name:
 - Word.Document.PrintFormsData
 ms.assetid: d4582018-b119-a7a3-27c4-cf4f35d00c19

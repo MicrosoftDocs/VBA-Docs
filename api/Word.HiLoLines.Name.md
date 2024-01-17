@@ -3,7 +3,6 @@ title: HiLoLines.Name property (Word)
 keywords: vbawd10.chm235995137
 f1_keywords:
 - vbawd10.chm235995137
-ms.prod: word
 api_name:
 - Word.HiLoLines.Name
 ms.assetid: 599723db-0277-c98c-9d69-68735ac80c35

@@ -3,7 +3,6 @@ title: Comment.Parent property (Word)
 keywords: vbawd10.chm154993642
 f1_keywords:
 - vbawd10.chm154993642
-ms.prod: word
 api_name:
 - Word.Comment.Parent
 ms.assetid: 1394a168-aa89-2e7b-49ee-0fe37e6c2093

@@ -3,7 +3,6 @@ title: CheckBox.Value property (Word)
 keywords: vbawd10.chm153485316
 f1_keywords:
 - vbawd10.chm153485316
-ms.prod: word
 api_name:
 - Word.CheckBox.Value
 ms.assetid: 27ba479a-67ac-68fa-0245-5f7901be3aaa

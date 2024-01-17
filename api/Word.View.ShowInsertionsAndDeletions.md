@@ -3,7 +3,6 @@ title: View.ShowInsertionsAndDeletions property (Word)
 keywords: vbawd10.chm161808420
 f1_keywords:
 - vbawd10.chm161808420
-ms.prod: word
 api_name:
 - Word.View.ShowInsertionsAndDeletions
 ms.assetid: 3738a713-819d-5dfd-a197-8c97a3de5ab4

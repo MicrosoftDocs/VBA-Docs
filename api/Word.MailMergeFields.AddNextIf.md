@@ -3,7 +3,6 @@ title: MailMergeFields.AddNextIf method (Word)
 keywords: vbawd10.chm153026668
 f1_keywords:
 - vbawd10.chm153026668
-ms.prod: word
 api_name:
 - Word.MailMergeFields.AddNextIf
 ms.assetid: ac89e9c2-48b5-243b-65f4-4904fb18d043

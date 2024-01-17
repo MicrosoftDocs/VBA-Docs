@@ -3,7 +3,6 @@ title: View.DisplayPageBoundaries property (Word)
 keywords: vbawd10.chm161808416
 f1_keywords:
 - vbawd10.chm161808416
-ms.prod: word
 api_name:
 - Word.View.DisplayPageBoundaries
 ms.assetid: 67b91767-c9aa-6d2e-d99b-258a79777c25

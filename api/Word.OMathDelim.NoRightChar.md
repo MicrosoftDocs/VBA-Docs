@@ -3,7 +3,6 @@ title: OMathDelim.NoRightChar property (Word)
 keywords: vbawd10.chm145096814
 f1_keywords:
 - vbawd10.chm145096814
-ms.prod: word
 api_name:
 - Word.OMathDelim.NoRightChar
 ms.assetid: 2d8adc59-b919-8017-46ef-67377d3a8269

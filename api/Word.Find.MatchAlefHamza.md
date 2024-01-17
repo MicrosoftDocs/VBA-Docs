@@ -3,7 +3,6 @@ title: Find.MatchAlefHamza property (Word)
 keywords: vbawd10.chm162529382
 f1_keywords:
 - vbawd10.chm162529382
-ms.prod: word
 api_name:
 - Word.Find.MatchAlefHamza
 ms.assetid: 1023d28a-d6b7-658a-0fb2-e2f9bd11b457

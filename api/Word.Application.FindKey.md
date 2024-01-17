@@ -3,7 +3,6 @@ title: Application.FindKey property (Word)
 keywords: vbawd10.chm158335047
 f1_keywords:
 - vbawd10.chm158335047
-ms.prod: word
 api_name:
 - Word.Application.FindKey
 ms.assetid: f648e9a5-626b-3923-46e4-a0c9c1dfc815

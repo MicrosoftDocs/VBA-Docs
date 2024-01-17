@@ -3,7 +3,6 @@ title: OMathFunction.Box property (Word)
 keywords: vbawd10.chm22151275
 f1_keywords:
 - vbawd10.chm22151275
-ms.prod: word
 api_name:
 - Word.OMathFunction.Box
 ms.assetid: 0f240700-c04c-0bd6-024e-882bd91d3760

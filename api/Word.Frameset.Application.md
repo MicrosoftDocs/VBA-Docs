@@ -3,7 +3,6 @@ title: Frameset.Application property (Word)
 keywords: vbawd10.chm165807080
 f1_keywords:
 - vbawd10.chm165807080
-ms.prod: word
 api_name:
 - Word.Frameset.Application
 ms.assetid: a09ddfcb-7d0b-ad9f-16a4-7d0fa807bfb0

@@ -3,7 +3,6 @@ title: Paragraph.Range property (Word)
 keywords: vbawd10.chm156696576
 f1_keywords:
 - vbawd10.chm156696576
-ms.prod: word
 api_name:
 - Word.Paragraph.Range
 ms.assetid: 6da6e452-b938-9e02-3d22-6f0cb0544b82

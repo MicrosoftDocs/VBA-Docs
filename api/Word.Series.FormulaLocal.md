@@ -3,7 +3,6 @@ title: Series.FormulaLocal property (Word)
 keywords: vbawd10.chm123732231
 f1_keywords:
 - vbawd10.chm123732231
-ms.prod: word
 api_name:
 - Word.Series.FormulaLocal
 ms.assetid: 45d948ca-8519-1941-9dea-6a5e9fe42819

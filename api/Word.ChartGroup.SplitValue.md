@@ -3,7 +3,6 @@ title: ChartGroup.SplitValue property (Word)
 keywords: vbawd10.chm263454762
 f1_keywords:
 - vbawd10.chm263454762
-ms.prod: word
 api_name:
 - Word.ChartGroup.SplitValue
 ms.assetid: 102826a5-834e-1b23-9888-6fb9b193ac96

@@ -3,7 +3,6 @@ title: Index.Range property (Word)
 keywords: vbawd10.chm159186949
 f1_keywords:
 - vbawd10.chm159186949
-ms.prod: word
 api_name:
 - Word.Index.Range
 ms.assetid: b10ba4db-92ab-bf83-1821-7165866cf295

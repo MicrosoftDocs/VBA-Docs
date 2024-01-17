@@ -3,7 +3,6 @@ title: OLEFormat.ConvertTo method (Word VBA)
 keywords: vbawd10.chm154337390
 f1_keywords:
 - vbawd10.chm154337390
-ms.prod: word
 api_name:
 - Word.OLEFormat.ConvertTo
 ms.assetid: 6d648f38-34fa-21b1-3ab9-a1965f2398f4

@@ -3,7 +3,6 @@ title: Model3DFormat.AutoFit property (Word)
 keywords: vbawd10.chm151584868
 f1_keywords:
 - vbawd10.chm151584868
-ms.prod: word
 api_name:
 - Word.Model3DFormat.AutoFit
 ms.date: 04/11/2019

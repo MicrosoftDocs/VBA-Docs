@@ -3,7 +3,6 @@ title: ParagraphFormat object (Word)
 keywords: vbawd10.chm2387
 f1_keywords:
 - vbawd10.chm2387
-ms.prod: word
 api_name:
 - Word.ParagraphFormat
 ms.assetid: 712d754a-dc92-f1a3-531d-dfae74a42c23

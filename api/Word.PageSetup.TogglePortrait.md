@@ -3,7 +3,6 @@ title: PageSetup.TogglePortrait method (Word)
 keywords: vbawd10.chm158400713
 f1_keywords:
 - vbawd10.chm158400713
-ms.prod: word
 api_name:
 - Word.PageSetup.TogglePortrait
 ms.assetid: 184fe44c-deb5-3183-742e-88f0c990e62a

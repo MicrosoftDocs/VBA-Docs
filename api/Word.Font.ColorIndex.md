@@ -3,7 +3,6 @@ title: Font.ColorIndex property (Word)
 keywords: vbawd10.chm156369033
 f1_keywords:
 - vbawd10.chm156369033
-ms.prod: word
 api_name:
 - Word.Font.ColorIndex
 ms.assetid: c5011017-bf7a-5d89-0f20-f000d3ffd0ea

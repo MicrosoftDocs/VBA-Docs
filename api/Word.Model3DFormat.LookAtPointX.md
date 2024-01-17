@@ -3,7 +3,6 @@ title: Model3DFormat.LookAtPointX property (Word)
 keywords: vbawd10.chm151584876
 f1_keywords:
 - vbawd10.chm151584876
-ms.prod: word
 api_name:
 - Word.Model3DFormat.LookAtPointX
 ms.date: 04/11/2019

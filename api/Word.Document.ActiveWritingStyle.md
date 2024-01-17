@@ -3,7 +3,6 @@ title: Document.ActiveWritingStyle property (Word)
 keywords: vbawd10.chm158007386
 f1_keywords:
 - vbawd10.chm158007386
-ms.prod: word
 api_name:
 - Word.Document.ActiveWritingStyle
 ms.assetid: 035c0872-8c0b-c95f-dd0c-893982304e0f

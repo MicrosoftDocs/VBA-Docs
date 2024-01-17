@@ -3,7 +3,6 @@ title: ChartArea.Select method (Word)
 keywords: vbawd10.chm160039147
 f1_keywords:
 - vbawd10.chm160039147
-ms.prod: word
 api_name:
 - Word.ChartArea.Select
 ms.assetid: 521244ba-54d4-805f-b355-606e0200af42

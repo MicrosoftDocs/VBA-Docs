@@ -3,7 +3,6 @@ title: ParagraphFormat.OpenUp method (Word)
 keywords: vbawd10.chm156434734
 f1_keywords:
 - vbawd10.chm156434734
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.OpenUp
 ms.assetid: 1473b383-816f-087a-073a-5afc5f530c3a

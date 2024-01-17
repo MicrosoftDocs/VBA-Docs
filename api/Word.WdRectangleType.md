@@ -1,6 +1,5 @@
 ---
 title: WdRectangleType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRectangleType
 ms.assetid: 7d517030-8e76-0524-3272-bbd0debb6827

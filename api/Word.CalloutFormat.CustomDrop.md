@@ -3,7 +3,6 @@ title: CalloutFormat.CustomDrop method (Word)
 keywords: vbawd10.chm163905547
 f1_keywords:
 - vbawd10.chm163905547
-ms.prod: word
 api_name:
 - Word.CalloutFormat.CustomDrop
 ms.assetid: ed727a85-78e4-44f9-a436-f65592cd4be3

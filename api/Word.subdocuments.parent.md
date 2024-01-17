@@ -3,7 +3,6 @@ title: Subdocuments.Parent property (Word)
 keywords: vbawd10.chm159908842
 f1_keywords:
 - vbawd10.chm159908842
-ms.prod: word
 ms.assetid: 98651ed8-4aea-91ad-2d3a-b13f2fe387e5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

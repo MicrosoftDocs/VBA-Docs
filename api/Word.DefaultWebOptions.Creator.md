@@ -3,7 +3,6 @@ title: DefaultWebOptions.Creator property (Word)
 keywords: vbawd10.chm165872617
 f1_keywords:
 - vbawd10.chm165872617
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.Creator
 ms.assetid: a620693e-38bf-5ac5-0240-8d948a33c853

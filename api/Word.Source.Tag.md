@@ -3,7 +3,6 @@ title: Source.Tag property (Word)
 keywords: vbawd10.chm140836967
 f1_keywords:
 - vbawd10.chm140836967
-ms.prod: word
 api_name:
 - Word.Source.Tag
 ms.assetid: af6a6966-9692-b6fe-8ced-54f8892a8cf7

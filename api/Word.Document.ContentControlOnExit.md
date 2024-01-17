@@ -3,7 +3,6 @@ title: Document.ContentControlOnExit event (Word)
 keywords: vbawd10.chm4001012
 f1_keywords:
 - vbawd10.chm4001012
-ms.prod: word
 api_name:
 - Word.Document.ContentControlOnExit
 ms.assetid: 1c988334-2bb3-2a86-747b-0d1d46894da1

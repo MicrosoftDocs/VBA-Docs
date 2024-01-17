@@ -3,7 +3,6 @@ title: InlineShape.LinkFormat property (Word)
 keywords: vbawd10.chm162004995
 f1_keywords:
 - vbawd10.chm162004995
-ms.prod: word
 api_name:
 - Word.InlineShape.LinkFormat
 ms.assetid: dcf9deaf-1b9b-bb48-21d2-cb114199c704

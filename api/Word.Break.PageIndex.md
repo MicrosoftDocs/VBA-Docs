@@ -3,7 +3,6 @@ title: Break.PageIndex property (Word)
 keywords: vbawd10.chm200343555
 f1_keywords:
 - vbawd10.chm200343555
-ms.prod: word
 api_name:
 - Word.Break.PageIndex
 ms.assetid: cb58716a-801a-11ba-5208-ef8b4e022c97

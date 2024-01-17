@@ -3,7 +3,6 @@ title: ShapeRange.PictureFormat property (Word)
 keywords: vbawd10.chm162857078
 f1_keywords:
 - vbawd10.chm162857078
-ms.prod: word
 api_name:
 - Word.ShapeRange.PictureFormat
 ms.assetid: 4606d21b-5da0-7659-85bd-d0d1599470bc

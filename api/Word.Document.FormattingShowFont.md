@@ -3,7 +3,6 @@ title: Document.FormattingShowFont property (Word)
 keywords: vbawd10.chm158007744
 f1_keywords:
 - vbawd10.chm158007744
-ms.prod: word
 api_name:
 - Word.Document.FormattingShowFont
 ms.assetid: ea13daf7-6b62-ad27-bf87-21dd19e90878

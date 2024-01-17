@@ -3,7 +3,6 @@ title: OMathDelim.Creator property (Word)
 keywords: vbawd10.chm145096805
 f1_keywords:
 - vbawd10.chm145096805
-ms.prod: word
 api_name:
 - Word.OMathDelim.Creator
 ms.assetid: d02ba080-5ace-b94f-ffd1-487492ed2e46

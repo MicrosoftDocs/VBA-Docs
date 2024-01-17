@@ -3,7 +3,6 @@ title: Selection.Cut method (Word)
 keywords: vbawd10.chm158662775
 f1_keywords:
 - vbawd10.chm158662775
-ms.prod: word
 api_name:
 - Word.Selection.Cut
 ms.assetid: 1e5dec1a-c621-2b54-ab7f-78ce90c0936f

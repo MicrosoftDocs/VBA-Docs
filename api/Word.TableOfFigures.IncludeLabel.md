@@ -3,7 +3,6 @@ title: TableOfFigures.IncludeLabel property (Word)
 keywords: vbawd10.chm153157634
 f1_keywords:
 - vbawd10.chm153157634
-ms.prod: word
 api_name:
 - Word.TableOfFigures.IncludeLabel
 ms.assetid: b31b8ecf-348d-33c4-ef20-92b2680f1a78

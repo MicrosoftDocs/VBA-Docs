@@ -3,7 +3,6 @@ title: OtherCorrectionsException.Delete method (Word)
 keywords: vbawd10.chm165740645
 f1_keywords:
 - vbawd10.chm165740645
-ms.prod: word
 api_name:
 - Word.OtherCorrectionsException.Delete
 ms.assetid: c6970d05-951b-236b-3910-54c71578fba5

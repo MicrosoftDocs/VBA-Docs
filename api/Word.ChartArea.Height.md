@@ -3,7 +3,6 @@ title: ChartArea.Height property (Word)
 keywords: vbawd10.chm160039035
 f1_keywords:
 - vbawd10.chm160039035
-ms.prod: word
 api_name:
 - Word.ChartArea.Height
 ms.assetid: 8bf7b467-4357-5edf-abb1-9ffb350084d9

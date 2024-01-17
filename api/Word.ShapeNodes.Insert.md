@@ -3,7 +3,6 @@ title: ShapeNodes.Insert method (Word)
 keywords: vbawd10.chm164495372
 f1_keywords:
 - vbawd10.chm164495372
-ms.prod: word
 api_name:
 - Word.ShapeNodes.Insert
 ms.assetid: a0a8a577-b0c5-fad8-da21-f3adbbdde085

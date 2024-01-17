@@ -3,7 +3,6 @@ title: Global.CommandBars property (Word)
 keywords: vbawd10.chm163119161
 f1_keywords:
 - vbawd10.chm163119161
-ms.prod: word
 api_name:
 - Word.Global.CommandBars
 ms.assetid: afe28899-5571-1493-3d1b-d738e858d730

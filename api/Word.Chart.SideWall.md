@@ -3,7 +3,6 @@ title: Chart.SideWall property (Word)
 keywords: vbawd10.chm79366473
 f1_keywords:
 - vbawd10.chm79366473
-ms.prod: word
 api_name:
 - Word.Chart.SideWall
 ms.assetid: dd1ededa-f19a-d0b8-4e88-4af4720c7768

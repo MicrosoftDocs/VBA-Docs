@@ -3,7 +3,6 @@ title: ParagraphFormat.SpaceBefore property (Word)
 keywords: vbawd10.chm156434543
 f1_keywords:
 - vbawd10.chm156434543
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.SpaceBefore
 ms.assetid: da20b86e-b69c-f7df-cbaa-46f208ddbdc9

@@ -3,7 +3,6 @@ title: UndoRecord.CustomRecordLevel property (Word)
 keywords: vbawd10.chm56098821
 f1_keywords:
 - vbawd10.chm56098821
-ms.prod: word
 api_name:
 - Word.UndoRecord.CustomRecordLevel
 ms.assetid: e0636c02-b1fb-2f88-c8a5-b52c88b65530

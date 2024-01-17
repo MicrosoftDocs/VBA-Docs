@@ -3,7 +3,6 @@ title: AutoCaptions.Count property (Word)
 keywords: vbawd10.chm158990337
 f1_keywords:
 - vbawd10.chm158990337
-ms.prod: word
 api_name:
 - Word.AutoCaptions.Count
 ms.assetid: 937576fd-aa1c-a708-f902-0e222d52cd20

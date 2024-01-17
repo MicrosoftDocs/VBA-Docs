@@ -1,6 +1,5 @@
 ---
 title: WdSpecialPane enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSpecialPane
 ms.assetid: bd1a3500-775d-04fc-218d-c7a47dde8b2b

@@ -1,6 +1,5 @@
 ---
 title: WdMergeTarget enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMergeTarget
 ms.assetid: 04a3e0fb-4f23-6dd4-8040-fb570af58272

@@ -3,7 +3,6 @@ title: Dictionaries.ClearAll method (Word)
 keywords: vbawd10.chm162267238
 f1_keywords:
 - vbawd10.chm162267238
-ms.prod: word
 api_name:
 - Word.Dictionaries.ClearAll
 ms.assetid: cdca60de-9382-1d03-b1b2-0a8827f69e24

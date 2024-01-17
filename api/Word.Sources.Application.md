@@ -3,7 +3,6 @@ title: Sources.Application property (Word)
 keywords: vbawd10.chm40567784
 f1_keywords:
 - vbawd10.chm40567784
-ms.prod: word
 api_name:
 - Word.Sources.Application
 ms.assetid: ef633771-31ec-2f4d-d594-9859a13785ff

@@ -3,7 +3,6 @@ title: View.NextHeaderFooter method (Word)
 keywords: vbawd10.chm161808490
 f1_keywords:
 - vbawd10.chm161808490
-ms.prod: word
 api_name:
 - Word.View.NextHeaderFooter
 ms.assetid: 48b52b41-cee4-fa85-7229-86af61607556

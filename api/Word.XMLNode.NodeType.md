@@ -3,7 +3,6 @@ title: XMLNode.NodeType property (Word)
 keywords: vbawd10.chm37748748
 f1_keywords:
 - vbawd10.chm37748748
-ms.prod: word
 api_name:
 - Word.XMLNode.NodeType
 ms.assetid: 0df07d30-e7ae-44e6-3372-ccece783a3fc

@@ -3,7 +3,6 @@ title: OMathDelim.BegChar property (Word)
 keywords: vbawd10.chm145096808
 f1_keywords:
 - vbawd10.chm145096808
-ms.prod: word
 api_name:
 - Word.OMathDelim.BegChar
 ms.assetid: f63e00fc-0a91-075c-7c24-fbac30162088

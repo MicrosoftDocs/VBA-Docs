@@ -3,7 +3,6 @@ title: ColorFormat.Brightness property (Word)
 keywords: vbawd10.chm163971273
 f1_keywords:
 - vbawd10.chm163971273
-ms.prod: word
 api_name:
 - Word.ColorFormat.Brightness
 ms.assetid: 3a184574-24dc-2ea2-24f2-ba0b0b06df2e

@@ -3,7 +3,6 @@ title: AutoCaption.Creator property (Word)
 keywords: vbawd10.chm159056873
 f1_keywords:
 - vbawd10.chm159056873
-ms.prod: word
 api_name:
 - Word.AutoCaption.Creator
 ms.assetid: 170f3e00-946c-c340-e12e-bee0078e62f3

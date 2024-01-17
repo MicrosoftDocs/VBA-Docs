@@ -3,7 +3,6 @@ title: Tables.Item method (Word)
 keywords: vbawd10.chm156041216
 f1_keywords:
 - vbawd10.chm156041216
-ms.prod: word
 api_name:
 - Word.Tables.Item
 ms.assetid: ee8815a2-8a62-a229-2752-aa19f5fd334f

@@ -3,7 +3,6 @@ title: Global.ActivePrinter property (Word)
 keywords: vbawd10.chm163119170
 f1_keywords:
 - vbawd10.chm163119170
-ms.prod: word
 api_name:
 - Word.Global.ActivePrinter
 ms.assetid: cf4dcba0-7b26-0569-8ab8-eb641696d0e1

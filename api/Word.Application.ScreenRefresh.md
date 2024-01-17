@@ -3,7 +3,6 @@ title: Application.ScreenRefresh method (Word)
 keywords: vbawd10.chm158335277
 f1_keywords:
 - vbawd10.chm158335277
-ms.prod: word
 api_name:
 - Word.Application.ScreenRefresh
 ms.assetid: 303db23c-492c-5e33-0363-7ef6433dc90e

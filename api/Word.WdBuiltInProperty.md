@@ -1,6 +1,5 @@
 ---
 title: WdBuiltInProperty enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdBuiltInProperty
 ms.assetid: 4962bb86-d6bf-1537-111d-1ea326b3a886

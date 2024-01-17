@@ -3,7 +3,6 @@ title: InlineShapes.AddOLEControl method (Word)
 keywords: vbawd10.chm162070630
 f1_keywords:
 - vbawd10.chm162070630
-ms.prod: word
 api_name:
 - Word.InlineShapes.AddOLEControl
 ms.assetid: 390f1a37-163f-42f7-5784-9730aa79e1d9

@@ -3,7 +3,6 @@ title: Editor.DeleteAll method (Word)
 keywords: vbawd10.chm225575413
 f1_keywords:
 - vbawd10.chm225575413
-ms.prod: word
 api_name:
 - Word.Editor.DeleteAll
 ms.assetid: 81e69276-99f8-6525-2b45-c9e63feb1c53

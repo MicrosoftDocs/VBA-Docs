@@ -3,7 +3,6 @@ title: ListFormat.SingleList property (Word)
 keywords: vbawd10.chm163577928
 f1_keywords:
 - vbawd10.chm163577928
-ms.prod: word
 api_name:
 - Word.ListFormat.SingleList
 ms.assetid: b2ec4d04-bc2b-b369-b213-f7e25ca894a4

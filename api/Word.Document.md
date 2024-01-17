@@ -3,7 +3,6 @@ title: Document object (Word)
 keywords: vbawd10.chm2411
 f1_keywords:
 - vbawd10.chm2411
-ms.prod: word
 api_name:
 - Word.Document
 ms.assetid: 8d83487a-2345-a036-a916-971c9db5b7fb

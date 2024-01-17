@@ -3,7 +3,6 @@ title: Sources.Creator property (Word)
 keywords: vbawd10.chm40567785
 f1_keywords:
 - vbawd10.chm40567785
-ms.prod: word
 api_name:
 - Word.Sources.Creator
 ms.assetid: 1d43b533-d4ed-8fa9-73ce-51050eb78da4

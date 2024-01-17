@@ -3,7 +3,6 @@ title: Frame.VerticalPosition property (Word)
 keywords: vbawd10.chm153747466
 f1_keywords:
 - vbawd10.chm153747466
-ms.prod: word
 api_name:
 - Word.Frame.VerticalPosition
 ms.assetid: 584880c0-85e3-d96c-291f-5671b792f818

@@ -3,7 +3,6 @@ title: Rows.First property (Word)
 keywords: vbawd10.chm155975690
 f1_keywords:
 - vbawd10.chm155975690
-ms.prod: word
 api_name:
 - Word.Rows.First
 ms.assetid: 9e879fdf-bc21-cd19-37e9-bf44c06b3416

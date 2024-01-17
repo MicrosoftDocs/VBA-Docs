@@ -3,7 +3,6 @@ title: Rectangle.Left property (Word)
 keywords: vbawd10.chm234029059
 f1_keywords:
 - vbawd10.chm234029059
-ms.prod: word
 api_name:
 - Word.Rectangle.Left
 ms.assetid: 307847f5-b371-9a3e-1441-d529630d6e65

@@ -3,7 +3,6 @@ title: ProofreadingErrors.Type property (Word)
 keywords: vbawd10.chm163250178
 f1_keywords:
 - vbawd10.chm163250178
-ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Type
 ms.assetid: a0156dea-d2ae-3e8a-3bca-c0d4e9f25128

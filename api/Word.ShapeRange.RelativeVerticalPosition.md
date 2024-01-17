@@ -3,7 +3,6 @@ title: ShapeRange.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm162857261
 f1_keywords:
 - vbawd10.chm162857261
-ms.prod: word
 api_name:
 - Word.ShapeRange.RelativeVerticalPosition
 ms.assetid: 4bcb0d85-53aa-e16d-98f3-4154de5355d8

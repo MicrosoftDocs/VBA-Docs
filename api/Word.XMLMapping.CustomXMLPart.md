@@ -3,7 +3,6 @@ title: XMLMapping.CustomXMLPart property (Word)
 keywords: vbawd10.chm199688193
 f1_keywords:
 - vbawd10.chm199688193
-ms.prod: word
 api_name:
 - Word.XMLMapping.CustomXMLPart
 ms.assetid: a9eac7d6-0088-7251-e0b2-fef529fee278

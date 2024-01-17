@@ -3,7 +3,6 @@ title: FileConverter.CanSave property (Word)
 keywords: vbawd10.chm161021956
 f1_keywords:
 - vbawd10.chm161021956
-ms.prod: word
 api_name:
 - Word.FileConverter.CanSave
 ms.assetid: a1de7523-5b9c-b606-4308-9445e3c4c76d

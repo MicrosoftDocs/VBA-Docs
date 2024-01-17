@@ -3,7 +3,6 @@ title: Document.EndReview method (Word)
 keywords: vbawd10.chm158007652
 f1_keywords:
 - vbawd10.chm158007652
-ms.prod: word
 api_name:
 - Word.Document.EndReview
 ms.assetid: bf53cefd-98e9-7e1a-016e-abd0c16e8bcd

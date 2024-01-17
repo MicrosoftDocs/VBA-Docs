@@ -3,7 +3,6 @@ title: OMathMat.Cell property (Word)
 keywords: vbawd10.chm176029801
 f1_keywords:
 - vbawd10.chm176029801
-ms.prod: word
 api_name:
 - Word.OMathMat.Cell
 ms.assetid: 5a7d412a-5bd9-05a8-4210-cef2d38d6307

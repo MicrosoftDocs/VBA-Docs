@@ -3,7 +3,6 @@ title: Selection.SetRange method (Word)
 keywords: vbawd10.chm158662756
 f1_keywords:
 - vbawd10.chm158662756
-ms.prod: word
 api_name:
 - Word.Selection.SetRange
 ms.assetid: 232a681e-4205-05ae-f442-9dc1a2df96f1

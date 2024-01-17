@@ -3,7 +3,6 @@ title: MappedDataFields.Parent property (Word)
 keywords: vbawd10.chm135529450
 f1_keywords:
 - vbawd10.chm135529450
-ms.prod: word
 api_name:
 - Word.MappedDataFields.Parent
 ms.assetid: 5f57a933-6654-e7d0-b3dd-14de05d449cc

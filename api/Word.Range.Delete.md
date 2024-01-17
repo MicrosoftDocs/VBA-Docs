@@ -3,7 +3,6 @@ title: Range.Delete method (Word)
 keywords: vbawd10.chm157155455
 f1_keywords:
 - vbawd10.chm157155455
-ms.prod: word
 api_name:
 - Word.Range.Delete
 ms.assetid: 066b6dda-db9c-43aa-b65c-556b06b5b445

@@ -3,7 +3,6 @@ title: Replacement.Text property (Word)
 keywords: vbawd10.chm162594831
 f1_keywords:
 - vbawd10.chm162594831
-ms.prod: word
 api_name:
 - Word.Replacement.Text
 ms.assetid: bfd99129-8d38-b448-6d74-cda1a78304d7

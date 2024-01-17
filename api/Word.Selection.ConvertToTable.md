@@ -3,7 +3,6 @@ title: Selection.ConvertToTable method (Word)
 keywords: vbawd10.chm158663113
 f1_keywords:
 - vbawd10.chm158663113
-ms.prod: word
 api_name:
 - Word.Selection.ConvertToTable
 ms.assetid: b2f487dd-7a10-5e5f-74f1-a2e9b5e9d958

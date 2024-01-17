@@ -1,6 +1,5 @@
 ---
 title: WdOLEVerb enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOLEVerb
 ms.assetid: 0a5ef4a2-0982-8fb8-7173-39286c599e6a

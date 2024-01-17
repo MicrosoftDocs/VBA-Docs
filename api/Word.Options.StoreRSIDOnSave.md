@@ -3,7 +3,6 @@ title: Options.StoreRSIDOnSave property (Word)
 keywords: vbawd10.chm162988479
 f1_keywords:
 - vbawd10.chm162988479
-ms.prod: word
 api_name:
 - Word.Options.StoreRSIDOnSave
 ms.assetid: 6f50f3c8-f775-d9d3-2cab-b1c99abf1756

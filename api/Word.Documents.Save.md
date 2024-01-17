@@ -3,7 +3,6 @@ title: Documents.Save method (Word)
 keywords: vbawd10.chm158072845
 f1_keywords:
 - vbawd10.chm158072845
-ms.prod: word
 api_name:
 - Word.Documents.Save
 ms.assetid: 547ba7a6-3ef5-10db-834d-58fc62502454

@@ -3,7 +3,6 @@ title: Rows.AllowOverlap property (Word)
 keywords: vbawd10.chm155975702
 f1_keywords:
 - vbawd10.chm155975702
-ms.prod: word
 api_name:
 - Word.Rows.AllowOverlap
 ms.assetid: 2a5205d6-dd9c-6c12-38a3-37633cfd644b

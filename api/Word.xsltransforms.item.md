@@ -3,7 +3,6 @@ title: XSLTransforms.Item method (Word)
 keywords: vbawd10.chm99221504
 f1_keywords:
 - vbawd10.chm99221504
-ms.prod: word
 ms.assetid: 67b7b73a-9884-b22a-3326-dbb93a10c8e2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

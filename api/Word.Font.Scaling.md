@@ -3,7 +3,6 @@ title: Font.Scaling property (Word)
 keywords: vbawd10.chm156369041
 f1_keywords:
 - vbawd10.chm156369041
-ms.prod: word
 api_name:
 - Word.Font.Scaling
 ms.assetid: 53f162cf-6de0-a142-50a5-fbdece3e7d16

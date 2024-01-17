@@ -3,7 +3,6 @@ title: Selection.InsertFormula method (Word)
 keywords: vbawd10.chm158663186
 f1_keywords:
 - vbawd10.chm158663186
-ms.prod: word
 api_name:
 - Word.Selection.InsertFormula
 ms.assetid: a193c4ee-a667-04af-e22c-3a5b5bbc5c3b

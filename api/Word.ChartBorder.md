@@ -3,7 +3,6 @@ title: ChartBorder object (Word)
 keywords: vbawd10.chm931
 f1_keywords:
 - vbawd10.chm931
-ms.prod: word
 api_name:
 - Word.ChartBorder
 ms.assetid: eea90670-c599-2ec8-5b7b-c946a4bcd638

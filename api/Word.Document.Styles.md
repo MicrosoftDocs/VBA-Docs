@@ -3,7 +3,6 @@ title: Document.Styles property (Word)
 keywords: vbawd10.chm158007318
 f1_keywords:
 - vbawd10.chm158007318
-ms.prod: word
 api_name:
 - Word.Document.Styles
 ms.assetid: 30784574-92d1-a2fa-1032-6e1f8bb79ccf

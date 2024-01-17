@@ -3,7 +3,6 @@ title: Tasks.Parent property (Word)
 keywords: vbawd10.chm159581162
 f1_keywords:
 - vbawd10.chm159581162
-ms.prod: word
 api_name:
 - Word.Tasks.Parent
 ms.assetid: feaf30bc-4d61-9c5f-a35b-0a2c7b4bd0fd

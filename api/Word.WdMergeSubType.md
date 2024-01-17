@@ -1,6 +1,5 @@
 ---
 title: WdMergeSubType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMergeSubType
 ms.assetid: 9268d2b8-9156-972a-2cfe-42bd8160442c

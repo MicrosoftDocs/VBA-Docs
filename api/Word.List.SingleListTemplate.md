@@ -3,7 +3,6 @@ title: List.SingleListTemplate property (Word)
 keywords: vbawd10.chm160563203
 f1_keywords:
 - vbawd10.chm160563203
-ms.prod: word
 api_name:
 - Word.List.SingleListTemplate
 ms.assetid: c6a7f98e-78ca-6d1d-547e-99fa609f517e

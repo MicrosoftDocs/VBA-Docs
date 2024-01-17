@@ -3,7 +3,6 @@ title: Selection.Type property (Word)
 keywords: vbawd10.chm158662662
 f1_keywords:
 - vbawd10.chm158662662
-ms.prod: word
 api_name:
 - Word.Selection.Type
 ms.assetid: 75af6b1a-c9d3-e3ad-52a8-41d91c79b007

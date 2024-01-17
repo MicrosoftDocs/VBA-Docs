@@ -3,7 +3,6 @@ title: Borders.SurroundFooter property (Word)
 keywords: vbawd10.chm154927129
 f1_keywords:
 - vbawd10.chm154927129
-ms.prod: word
 api_name:
 - Word.Borders.SurroundFooter
 ms.assetid: 890b0ba3-6815-6836-591d-f73d90758c4b

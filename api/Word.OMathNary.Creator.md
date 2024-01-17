@@ -3,7 +3,6 @@ title: OMathNary.Creator property (Word)
 keywords: vbawd10.chm25428069
 f1_keywords:
 - vbawd10.chm25428069
-ms.prod: word
 api_name:
 - Word.OMathNary.Creator
 ms.assetid: 83fe7ce7-21ad-3c3c-0425-22e3a214b888

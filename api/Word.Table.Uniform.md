@@ -3,7 +3,6 @@ title: Table.Uniform property (Word)
 keywords: vbawd10.chm156303465
 f1_keywords:
 - vbawd10.chm156303465
-ms.prod: word
 api_name:
 - Word.Table.Uniform
 ms.assetid: a156bedf-5426-be4c-b961-84a038f9bfd6

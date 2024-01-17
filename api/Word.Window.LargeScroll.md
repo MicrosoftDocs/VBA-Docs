@@ -3,7 +3,6 @@ title: Window.LargeScroll method (Word)
 keywords: vbawd10.chm157417575
 f1_keywords:
 - vbawd10.chm157417575
-ms.prod: word
 api_name:
 - Word.Window.LargeScroll
 ms.assetid: 380be0f2-dccf-7382-8fde-631ace1c5fee

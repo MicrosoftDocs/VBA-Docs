@@ -3,7 +3,6 @@ title: Breaks.Item method (Word)
 keywords: vbawd10.chm50921472
 f1_keywords:
 - vbawd10.chm50921472
-ms.prod: word
 api_name:
 - Word.Breaks.Item
 ms.assetid: da2ee054-e7df-8e16-0034-c76b294456d4

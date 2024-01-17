@@ -3,7 +3,6 @@ title: Application.Visible property (Word)
 keywords: vbawd10.chm158334999
 f1_keywords:
 - vbawd10.chm158334999
-ms.prod: word
 api_name:
 - Word.Application.Visible
 ms.assetid: e3de4b88-55e4-cb6d-130f-9aea11f3eff6

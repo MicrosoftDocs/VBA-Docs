@@ -3,7 +3,6 @@ title: Panes.Parent property (Word)
 keywords: vbawd10.chm157221866
 f1_keywords:
 - vbawd10.chm157221866
-ms.prod: word
 api_name:
 - Word.Panes.Parent
 ms.assetid: f2a72da9-f7d0-e77c-e77d-fe35c10d6899

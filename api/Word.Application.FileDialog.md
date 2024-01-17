@@ -3,7 +3,6 @@ title: Application.FileDialog property (Word)
 keywords: vbawd10.chm158335426
 f1_keywords:
 - vbawd10.chm158335426
-ms.prod: word
 api_name:
 - Word.Application.FileDialog
 ms.assetid: ef478a81-db1d-4bf4-a146-3ff7dd84116b

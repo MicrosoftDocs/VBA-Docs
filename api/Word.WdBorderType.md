@@ -1,6 +1,5 @@
 ---
 title: WdBorderType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdBorderType
 ms.assetid: 7d62d139-430b-0dea-aa7f-31d1b4fee10d

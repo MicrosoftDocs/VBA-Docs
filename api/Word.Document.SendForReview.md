@@ -3,7 +3,6 @@ title: Document.SendForReview method (Word)
 keywords: vbawd10.chm158007649
 f1_keywords:
 - vbawd10.chm158007649
-ms.prod: word
 api_name:
 - Word.Document.SendForReview
 ms.assetid: 2f2cdd5c-eeca-d03f-bd58-b5586f8f461f

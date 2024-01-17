@@ -3,7 +3,6 @@ title: Selection.Collapse method (Word)
 keywords: vbawd10.chm158662757
 f1_keywords:
 - vbawd10.chm158662757
-ms.prod: word
 api_name:
 - Word.Selection.Collapse
 ms.assetid: 92ccd3dc-41ab-b3d4-5397-fca7d7f01635

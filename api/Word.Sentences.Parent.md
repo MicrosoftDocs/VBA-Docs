@@ -3,7 +3,6 @@ title: Sentences.Parent property (Word)
 keywords: vbawd10.chm156959722
 f1_keywords:
 - vbawd10.chm156959722
-ms.prod: word
 api_name:
 - Word.Sentences.Parent
 ms.assetid: e539a6c6-dade-b51f-e86e-cd68a24b9bd9

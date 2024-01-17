@@ -3,7 +3,6 @@ title: Columns.Count property (Word)
 keywords: vbawd10.chm155910146
 f1_keywords:
 - vbawd10.chm155910146
-ms.prod: word
 api_name:
 - Word.Columns.Count
 ms.assetid: 62c59d8c-4ab3-b6fa-f97b-395f1a0e058d

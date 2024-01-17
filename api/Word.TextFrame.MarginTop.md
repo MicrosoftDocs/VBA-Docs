@@ -3,7 +3,6 @@ title: TextFrame.MarginTop property (Word)
 keywords: vbawd10.chm162660455
 f1_keywords:
 - vbawd10.chm162660455
-ms.prod: word
 api_name:
 - Word.TextFrame.MarginTop
 ms.assetid: 0ad83d75-432e-fcf2-2ed2-8ddee8cfc901

@@ -3,7 +3,6 @@ title: FillFormat object (Word)
 keywords: vbawd10.chm2504
 f1_keywords:
 - vbawd10.chm2504
-ms.prod: word
 api_name:
 - Word.FillFormat
 ms.assetid: 39205d07-9e37-1be1-ec4a-93ba8bac2f26

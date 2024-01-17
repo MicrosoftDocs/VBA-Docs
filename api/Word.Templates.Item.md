@@ -3,7 +3,6 @@ title: Templates.Item method (Word)
 keywords: vbawd10.chm161611776
 f1_keywords:
 - vbawd10.chm161611776
-ms.prod: word
 api_name:
 - Word.Templates.Item
 ms.assetid: 0188558b-357a-0cc1-647c-19d01eb58d58

@@ -3,7 +3,6 @@ title: CaptionLabel object (Word)
 keywords: vbawd10.chm2425
 f1_keywords:
 - vbawd10.chm2425
-ms.prod: word
 api_name:
 - Word.CaptionLabel
 ms.assetid: 71c82dfd-6a66-e0f4-e30f-ae453c764864

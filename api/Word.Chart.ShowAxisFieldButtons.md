@@ -3,7 +3,6 @@ title: Chart.ShowAxisFieldButtons property (Word)
 keywords: vbawd10.chm79366942
 f1_keywords:
 - vbawd10.chm79366942
-ms.prod: word
 api_name:
 - Word.Chart.ShowAxisFieldButtons
 ms.assetid: 08ee0734-d5b9-b57a-fa5f-ffa1c5ded498

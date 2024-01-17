@@ -3,7 +3,6 @@ title: System.ComputerType property (Word)
 keywords: vbawd10.chm154468364
 f1_keywords:
 - vbawd10.chm154468364
-ms.prod: word
 api_name:
 - Word.System.System.ComputerType
 ms.assetid: c401e69b-17d4-3576-3d2d-06c15bd15757

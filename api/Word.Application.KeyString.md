@@ -3,7 +3,6 @@ title: Application.KeyString method (Word)
 keywords: vbawd10.chm158335293
 f1_keywords:
 - vbawd10.chm158335293
-ms.prod: word
 api_name:
 - Word.Application.KeyString
 ms.assetid: 20525053-3cf8-bdf8-cb67-cca39bf2b30c

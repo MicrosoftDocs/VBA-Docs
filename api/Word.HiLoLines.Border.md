@@ -3,7 +3,6 @@ title: HiLoLines.Border property (Word)
 keywords: vbawd10.chm235995139
 f1_keywords:
 - vbawd10.chm235995139
-ms.prod: word
 api_name:
 - Word.HiLoLines.Border
 ms.assetid: 5e92fdde-09f2-446c-aded-b9b2a6719655

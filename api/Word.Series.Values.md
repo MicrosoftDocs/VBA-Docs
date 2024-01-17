@@ -3,7 +3,6 @@ title: Series.Values property (Word)
 keywords: vbawd10.chm123732132
 f1_keywords:
 - vbawd10.chm123732132
-ms.prod: word
 api_name:
 - Word.Series.Values
 ms.assetid: 5dc3ebb2-9da6-59c5-c388-78dbf88551df

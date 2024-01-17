@@ -3,7 +3,6 @@ title: Source.Cited property (Word)
 keywords: vbawd10.chm140836971
 f1_keywords:
 - vbawd10.chm140836971
-ms.prod: word
 api_name:
 - Word.Source.Cited
 ms.assetid: b74693b5-1ffb-a5b6-09fc-6ff91a345c07

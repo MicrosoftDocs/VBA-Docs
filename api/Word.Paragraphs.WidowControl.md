@@ -3,7 +3,6 @@ title: Paragraphs.WidowControl property (Word)
 keywords: vbawd10.chm156762226
 f1_keywords:
 - vbawd10.chm156762226
-ms.prod: word
 api_name:
 - Word.Paragraphs.WidowControl
 ms.assetid: 0e28845c-d65e-8f4a-6a5c-729622d2a9ec

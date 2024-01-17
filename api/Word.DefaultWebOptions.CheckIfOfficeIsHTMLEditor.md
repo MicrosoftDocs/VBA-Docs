@@ -3,7 +3,6 @@ title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Word)
 keywords: vbawd10.chm165871623
 f1_keywords:
 - vbawd10.chm165871623
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.CheckIfOfficeIsHTMLEditor
 ms.assetid: 5475aaff-70df-cb52-7bf7-d58f8c27fffb

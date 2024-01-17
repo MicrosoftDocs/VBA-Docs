@@ -3,7 +3,6 @@ title: EmailSignature.NewMessageSignature property (Word)
 keywords: vbawd10.chm165412967
 f1_keywords:
 - vbawd10.chm165412967
-ms.prod: word
 api_name:
 - Word.EmailSignature.NewMessageSignature
 ms.assetid: fed9f151-47b8-3e76-1764-b6e80bdbfb5e

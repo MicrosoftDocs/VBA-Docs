@@ -3,7 +3,6 @@ title: AutoTextEntry.Insert method (Word)
 keywords: vbawd10.chm154533990
 f1_keywords:
 - vbawd10.chm154533990
-ms.prod: word
 api_name:
 - Word.AutoTextEntry.Insert
 ms.assetid: 381e69fa-10c8-5951-e890-3fe8c508e047

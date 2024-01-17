@@ -3,7 +3,6 @@ title: Footnotes.NumberingRule property (Word)
 keywords: vbawd10.chm155320423
 f1_keywords:
 - vbawd10.chm155320423
-ms.prod: word
 api_name:
 - Word.Footnotes.NumberingRule
 ms.assetid: cae020d6-2071-df40-3537-844a612eed3d

@@ -3,7 +3,6 @@ title: Selection.InsertFile method (Word)
 keywords: vbawd10.chm158662779
 f1_keywords:
 - vbawd10.chm158662779
-ms.prod: word
 api_name:
 - Word.Selection.InsertFile
 ms.assetid: 963a5987-e6f8-824a-47d6-9788f026cf10

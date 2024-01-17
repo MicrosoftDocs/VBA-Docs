@@ -3,7 +3,6 @@ title: GroupShapes.Creator property (Word)
 keywords: vbawd10.chm162930497
 f1_keywords:
 - vbawd10.chm162930497
-ms.prod: word
 api_name:
 - Word.GroupShapes.Creator
 ms.assetid: 014efe80-859a-4579-380d-d82d37a58015

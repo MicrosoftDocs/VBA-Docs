@@ -3,7 +3,6 @@ title: HeaderFooter.IsHeader property (Word)
 keywords: vbawd10.chm159711235
 f1_keywords:
 - vbawd10.chm159711235
-ms.prod: word
 api_name:
 - Word.HeaderFooter.IsHeader
 ms.assetid: 66c098ed-d0d6-cf58-e26a-b031bc7a6cab

@@ -1,6 +1,5 @@
 ---
 title: WdWrapTypeMerged enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdWrapTypeMerged
 ms.assetid: a227f0d4-2a0a-fa91-07f1-e94cd8eff798

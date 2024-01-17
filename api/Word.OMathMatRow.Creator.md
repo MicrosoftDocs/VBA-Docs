@@ -3,7 +3,6 @@ title: OMathMatRow.Creator property (Word)
 keywords: vbawd10.chm196477029
 f1_keywords:
 - vbawd10.chm196477029
-ms.prod: word
 api_name:
 - Word.OMathMatRow.Creator
 ms.assetid: 4e29fbc5-ed12-599d-8629-881657b4e8da
