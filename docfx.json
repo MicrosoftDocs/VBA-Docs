@@ -39,7 +39,6 @@
       "uhfHeaderId": "MSDocsHeader-VBA",
       "breadcrumb_path": "/office/vba/breadcrumb/toc.json",
       "ms.suite": "office",
-      "ms.technology": "vba",
       "ms.author": "o365devx",
       "author": "o365devx",
       "description": "Office VBA reference topic",
@@ -47,10 +46,6 @@
       "feedback_system": "Standard"
     },
     "fileMetadata": {
-      "ms.service": {
-        "api/PowerPoint.*.md": "powerpoint",
-        "powerpoint/**.md": "powerpoint"
-      },
       "ms.topic": {
         "api/**.md": "reference",
         "access/**.md": "conceptual",
@@ -65,7 +60,9 @@
         "visio/**.md": "conceptual",
         "word/**.md": "conceptual"
       },
-      "ms.prod": {
+      "ms.service": {
+        "api/PowerPoint.*.md": "powerpoint",
+        "powerpoint/**.md": "powerpoint",
         "api/Access.*.md": "access",
         "api/Excel.*.md": "excel",
         "api/Outlook.*.md": "outlook",
@@ -85,6 +82,29 @@
         "publisher/**.md": "publisher",
         "visio/**.md": "visio",
         "word/**.md": "word"
+      },
+      "ms.subservice": {
+        "api/PowerPoint.*.md": "vba",
+        "powerpoint/**.md": "vba",
+        "api/Access.*.md": "vba",
+        "api/Excel.*.md": "vba",
+        "api/Outlook.*.md": "vba",
+        "api/Project.*.md": "vba",
+        "api/Publisher.*.md": "vba",
+        "api/Visio.*.md": "vba",
+        "api/Word.*.md": "vba",
+        "api/Office.*.md": "vba",
+        "api/overview/**.md": "vba",
+        "access/**.md": "vba",
+        "excel/**.md": "vba",
+        "Language/**.md": "vba",
+        "Library-Reference/**.md": "vba",
+        "Office-Mac/**.md": "vba",
+        "outlook/**.md": "vba",
+        "project/**.md": "vba",
+        "publisher/**.md": "vba",
+        "visio/**.md": "vba",
+        "word/**.md": "vba"
       },
       "ROBOTS": {
          "access/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
