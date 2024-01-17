@@ -3,7 +3,6 @@ title: Application.UsableHeight property (Word)
 keywords: vbawd10.chm158335010
 f1_keywords:
 - vbawd10.chm158335010
-ms.prod: word
 api_name:
 - Word.Application.UsableHeight
 ms.assetid: 9723b59d-c5fe-8f39-8f0c-bdd209b7ae9a

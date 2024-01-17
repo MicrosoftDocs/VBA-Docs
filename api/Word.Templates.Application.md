@@ -3,7 +3,6 @@ title: Templates.Application property (Word)
 keywords: vbawd10.chm161612776
 f1_keywords:
 - vbawd10.chm161612776
-ms.prod: word
 api_name:
 - Word.Templates.Application
 ms.assetid: 97087f2b-f560-6c03-c841-9e02767cc0a4

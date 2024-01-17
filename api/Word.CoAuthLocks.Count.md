@@ -3,7 +3,6 @@ title: CoAuthLocks.Count property (Word)
 keywords: vbawd10.chm180486145
 f1_keywords:
 - vbawd10.chm180486145
-ms.prod: word
 api_name:
 - Word.CoAuthLocks.Count
 ms.assetid: a082d159-8fd9-1f8d-0987-7755f2aa4d5e

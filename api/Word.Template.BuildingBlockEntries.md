@@ -3,7 +3,6 @@ title: Template.BuildingBlockEntries property (Word)
 keywords: vbawd10.chm157941779
 f1_keywords:
 - vbawd10.chm157941779
-ms.prod: word
 api_name:
 - Word.Template.BuildingBlockEntries
 ms.assetid: 498280ab-a174-7b11-92af-afec477c44be

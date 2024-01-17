@@ -3,7 +3,6 @@ title: ConditionalStyle.LeftPadding property (Word)
 keywords: vbawd10.chm91029509
 f1_keywords:
 - vbawd10.chm91029509
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.LeftPadding
 ms.assetid: 5bb8fdb1-a971-13bc-4977-b0ffdcb95116

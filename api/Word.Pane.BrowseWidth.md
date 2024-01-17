@@ -3,7 +3,6 @@ title: Pane.BrowseWidth property (Word)
 keywords: vbawd10.chm157286417
 f1_keywords:
 - vbawd10.chm157286417
-ms.prod: word
 api_name:
 - Word.Pane.BrowseWidth
 ms.assetid: 87b9c06c-7752-9b93-3c3c-dd02e8e985e7

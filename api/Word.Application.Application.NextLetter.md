@@ -3,7 +3,6 @@ title: Application.NextLetter method (Word)
 keywords: vbawd10.chm158335327
 f1_keywords:
 - vbawd10.chm158335327
-ms.prod: word
 api_name:
 - Word.Application.Application.NextLetter
 ms.assetid: b6b9e115-4efe-caf8-f0ee-53e41d8cd5d5

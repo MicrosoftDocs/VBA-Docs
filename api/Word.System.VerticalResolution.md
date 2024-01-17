@@ -3,7 +3,6 @@ title: System.VerticalResolution property (Word)
 keywords: vbawd10.chm154468360
 f1_keywords:
 - vbawd10.chm154468360
-ms.prod: word
 api_name:
 - Word.System.VerticalResolution
 ms.assetid: f93b0eed-1b0c-654c-8c73-60da0d13ab11

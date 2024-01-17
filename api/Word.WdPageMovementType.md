@@ -1,6 +1,5 @@
 ---
 title: WdPageMovementType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdPageMovementType
 ms.date: 08/15/2017

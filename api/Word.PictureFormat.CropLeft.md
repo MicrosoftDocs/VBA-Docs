@@ -3,7 +3,6 @@ title: PictureFormat.CropLeft property (Word)
 keywords: vbawd10.chm164298856
 f1_keywords:
 - vbawd10.chm164298856
-ms.prod: word
 api_name:
 - Word.PictureFormat.CropLeft
 ms.assetid: c20c723a-c09b-f821-4273-9a5fc0f37207

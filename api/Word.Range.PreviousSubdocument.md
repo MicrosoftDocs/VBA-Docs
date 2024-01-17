@@ -3,7 +3,6 @@ title: Range.PreviousSubdocument method (Word)
 keywords: vbawd10.chm157155548
 f1_keywords:
 - vbawd10.chm157155548
-ms.prod: word
 api_name:
 - Word.Range.PreviousSubdocument
 ms.assetid: 542149f4-1a0c-bf1b-1cf6-9e8097af321e

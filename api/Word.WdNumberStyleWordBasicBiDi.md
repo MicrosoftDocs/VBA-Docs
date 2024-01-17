@@ -1,6 +1,5 @@
 ---
 title: WdNumberStyleWordBasicBiDi enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdNumberStyleWordBasicBiDi
 ms.assetid: 2adde082-b067-af9f-99b1-1f70cca382ea

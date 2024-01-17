@@ -3,7 +3,6 @@ title: DataLabel.Format property (Word)
 keywords: vbawd10.chm233898039
 f1_keywords:
 - vbawd10.chm233898039
-ms.prod: word
 api_name:
 - Word.DataLabel.Format
 ms.assetid: f3e1caac-5a04-2022-8301-c5aceeb95b26

@@ -3,7 +3,6 @@ title: MailMerge object (Word)
 keywords: vbawd10.chm2336
 f1_keywords:
 - vbawd10.chm2336
-ms.prod: word
 api_name:
 - Word.MailMerge
 ms.assetid: b228c4d6-9ca7-8795-12f6-d32e62844a83

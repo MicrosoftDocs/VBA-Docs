@@ -1,6 +1,5 @@
 ---
 title: WdDocumentViewDirection enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdDocumentViewDirection
 ms.assetid: 1c816fe5-5300-efd6-4dea-a344a0dacc45

@@ -3,7 +3,6 @@ title: Document.XMLBeforeDelete event (Word)
 keywords: vbawd10.chm4001009
 f1_keywords:
 - vbawd10.chm4001009
-ms.prod: word
 api_name:
 - Word.Document.XMLBeforeDelete
 ms.assetid: 1cef9cdb-a80a-8d38-9646-e3353f6c6923

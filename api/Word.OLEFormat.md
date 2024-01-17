@@ -3,7 +3,6 @@ title: OLEFormat object (Word)
 keywords: vbawd10.chm2355
 f1_keywords:
 - vbawd10.chm2355
-ms.prod: word
 api_name:
 - Word.OLEFormat
 ms.assetid: d4c7aa65-5d3a-0b79-914b-6f908b506f63

@@ -3,7 +3,6 @@ title: ListLevel.TextPosition property (Word)
 keywords: vbawd10.chm160235527
 f1_keywords:
 - vbawd10.chm160235527
-ms.prod: word
 api_name:
 - Word.ListLevel.TextPosition
 ms.assetid: ed0ea5ae-d017-a0a8-be0a-cd49015e3bfb

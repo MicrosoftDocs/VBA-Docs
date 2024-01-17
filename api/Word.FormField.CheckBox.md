@@ -3,7 +3,6 @@ title: FormField.CheckBox property (Word)
 keywords: vbawd10.chm153616396
 f1_keywords:
 - vbawd10.chm153616396
-ms.prod: word
 api_name:
 - Word.FormField.CheckBox
 ms.assetid: 6843d3e0-8f34-422f-403e-3bab806dc6be

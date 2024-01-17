@@ -3,7 +3,6 @@ title: Conflict.Accept method (Word)
 keywords: vbawd10.chm78708837
 f1_keywords:
 - vbawd10.chm78708837
-ms.prod: word
 api_name:
 - Word.Conflict.Accept
 ms.assetid: 3367d8cb-c1b1-3037-06d8-44c275fcfa58

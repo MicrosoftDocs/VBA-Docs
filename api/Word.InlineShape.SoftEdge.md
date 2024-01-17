@@ -3,7 +3,6 @@ title: InlineShape.SoftEdge property (Word)
 keywords: vbawd10.chm162005144
 f1_keywords:
 - vbawd10.chm162005144
-ms.prod: word
 api_name:
 - Word.InlineShape.SoftEdge
 ms.assetid: 9c03b6eb-1826-985d-9aac-4fa1158b5002

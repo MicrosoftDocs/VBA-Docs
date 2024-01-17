@@ -3,7 +3,6 @@ title: ShapeRange object (Word)
 keywords: vbawd10.chm2485
 f1_keywords:
 - vbawd10.chm2485
-ms.prod: word
 ms.assetid: 7112acc0-e241-16ef-77bc-101b72d05af0
 ms.date: 04/25/2019
 ms.localizationpriority: medium

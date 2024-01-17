@@ -3,7 +3,6 @@ title: Axis.Select method (Word)
 keywords: vbawd10.chm113049647
 f1_keywords:
 - vbawd10.chm113049647
-ms.prod: word
 api_name:
 - Word.Axis.Select
 ms.assetid: e330874a-45a2-d5c0-0c78-3289f11c1a55

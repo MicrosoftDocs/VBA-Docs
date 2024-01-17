@@ -3,7 +3,6 @@ title: Range.Columns property (Word)
 keywords: vbawd10.chm157155630
 f1_keywords:
 - vbawd10.chm157155630
-ms.prod: word
 api_name:
 - Word.Range.Columns
 ms.assetid: 667b808a-e885-a7b7-0a68-5b2466ddd869

@@ -3,7 +3,6 @@ title: Range.MoveEndWhile method (Word)
 keywords: vbawd10.chm157155442
 f1_keywords:
 - vbawd10.chm157155442
-ms.prod: word
 api_name:
 - Word.Range.MoveEndWhile
 ms.assetid: 9fab0517-a66a-2ae3-1900-77047b61cafa

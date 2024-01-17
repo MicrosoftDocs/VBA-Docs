@@ -1,6 +1,5 @@
 ---
 title: WdNumberType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdNumberType
 ms.assetid: 3ed66985-c6ea-56fc-affb-0f6f0bb30f44

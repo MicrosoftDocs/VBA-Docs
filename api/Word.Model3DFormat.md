@@ -3,7 +3,6 @@ title: Model3DFormat object (Word)
 keywords: vbawd10.chm151584878
 f1_keywords:
 - vbawd10.chm151584878
-ms.prod: word
 api_name:
 - Word.Model3DFormat
 ms.date: 04/11/2019

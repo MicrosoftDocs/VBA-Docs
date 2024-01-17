@@ -3,7 +3,6 @@ title: DataLabel.Formula property (Word)
 keywords: vbawd10.chm233900015
 f1_keywords:
 - vbawd10.chm233900015
-ms.prod: word
 api_name:
 - Word.DataLabel.Formula
 ms.assetid: a4677244-5529-5ef5-51b5-f5615ad2f3f3

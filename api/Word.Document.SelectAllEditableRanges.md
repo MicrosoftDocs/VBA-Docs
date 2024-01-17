@@ -3,7 +3,6 @@ title: Document.SelectAllEditableRanges method (Word)
 keywords: vbawd10.chm158007764
 f1_keywords:
 - vbawd10.chm158007764
-ms.prod: word
 api_name:
 - Word.Document.SelectAllEditableRanges
 ms.assetid: 510cd397-4c39-f36b-ed59-524247b35f16

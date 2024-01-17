@@ -3,7 +3,6 @@ title: Point.Shadow property (Word)
 keywords: vbawd10.chm262144103
 f1_keywords:
 - vbawd10.chm262144103
-ms.prod: word
 api_name:
 - Word.Point.Shadow
 ms.assetid: 45448ee2-fb8b-afed-c53e-35d693b164d8

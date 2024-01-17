@@ -3,7 +3,6 @@ title: FormFields.Add method (Word)
 keywords: vbawd10.chm153682021
 f1_keywords:
 - vbawd10.chm153682021
-ms.prod: word
 api_name:
 - Word.FormFields.Add
 ms.assetid: d4431691-c881-e3b4-d17d-86c8ce07cf68

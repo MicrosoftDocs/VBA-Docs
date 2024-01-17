@@ -3,7 +3,6 @@ title: Floor.Creator property (Word)
 keywords: vbawd10.chm46006421
 f1_keywords:
 - vbawd10.chm46006421
-ms.prod: word
 api_name:
 - Word.Floor.Creator
 ms.assetid: e3ef282c-5510-2816-7803-3ae5b31c665d

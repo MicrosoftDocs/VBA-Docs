@@ -3,7 +3,6 @@ title: Selection.StartOf method (Word)
 keywords: vbawd10.chm158662763
 f1_keywords:
 - vbawd10.chm158662763
-ms.prod: word
 api_name:
 - Word.Selection.StartOf
 ms.assetid: 570df152-3579-d7a6-f555-86c9da229e1b

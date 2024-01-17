@@ -3,7 +3,6 @@ title: ShapeRange.Visible property (Word)
 keywords: vbawd10.chm162857087
 f1_keywords:
 - vbawd10.chm162857087
-ms.prod: word
 api_name:
 - Word.ShapeRange.Visible
 ms.assetid: 16300521-9a38-b3dd-7cab-ada7031d47ca

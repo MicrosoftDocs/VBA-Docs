@@ -3,7 +3,6 @@ title: OMathBar object (Word)
 keywords: vbawd10.chm1521
 f1_keywords:
 - vbawd10.chm1521
-ms.prod: word
 api_name:
 - Word.OMathBar
 ms.assetid: 9eebeeb0-c136-1652-767e-188470529193

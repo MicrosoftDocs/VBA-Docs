@@ -3,7 +3,6 @@ title: ShapeRange.TopRelative property (Word)
 keywords: vbawd10.chm162857161
 f1_keywords:
 - vbawd10.chm162857161
-ms.prod: word
 api_name:
 - Word.ShapeRange.TopRelative
 ms.assetid: 6162d05b-0610-7a6b-0224-7bd6f658276b

@@ -3,7 +3,6 @@ title: Selection.WholeStory method (Word)
 keywords: vbawd10.chm158663180
 f1_keywords:
 - vbawd10.chm158663180
-ms.prod: word
 api_name:
 - Word.Selection.WholeStory
 ms.assetid: ecd50a78-ecbd-75a9-2565-31d7e6ac449a

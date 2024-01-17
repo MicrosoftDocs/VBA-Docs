@@ -3,7 +3,6 @@ title: Document.ActiveWindow property (Word)
 keywords: vbawd10.chm158007338
 f1_keywords:
 - vbawd10.chm158007338
-ms.prod: word
 api_name:
 - Word.Document.ActiveWindow
 ms.assetid: 707fe9e8-16de-c4aa-a0f7-6a4570d16cdd

@@ -1,6 +1,5 @@
 ---
 title: WdNumberingRule enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdNumberingRule
 ms.assetid: 70993a58-4b2c-e809-ab71-ca1701539483

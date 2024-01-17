@@ -3,7 +3,6 @@ title: OLEFormat.Open method (Word)
 keywords: vbawd10.chm154337387
 f1_keywords:
 - vbawd10.chm154337387
-ms.prod: word
 api_name:
 - Word.OLEFormat.Open
 ms.assetid: d8f4af25-d0d1-f81e-e76e-f6ad6a259828

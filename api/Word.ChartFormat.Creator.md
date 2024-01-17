@@ -3,7 +3,6 @@ title: ChartFormat.Creator property (Word)
 keywords: vbawd10.chm203030677
 f1_keywords:
 - vbawd10.chm203030677
-ms.prod: word
 api_name:
 - Word.ChartFormat.Creator
 ms.assetid: a17057d9-8539-96e5-4f4a-222ccf13eaae

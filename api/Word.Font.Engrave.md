@@ -3,7 +3,6 @@ title: Font.Engrave property (Word)
 keywords: vbawd10.chm156369046
 f1_keywords:
 - vbawd10.chm156369046
-ms.prod: word
 api_name:
 - Word.Font.Engrave
 ms.assetid: 9d062637-05c8-d1c9-2231-23439bed30b9

@@ -3,7 +3,6 @@ title: Table.Columns property (Word)
 keywords: vbawd10.chm156303460
 f1_keywords:
 - vbawd10.chm156303460
-ms.prod: word
 api_name:
 - Word.Table.Columns
 ms.assetid: 6f4c70ef-032d-7f05-1b21-c5c86af804bd

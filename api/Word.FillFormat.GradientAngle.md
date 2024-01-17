@@ -3,7 +3,6 @@ title: FillFormat.GradientAngle property (Word)
 keywords: vbawd10.chm164102267
 f1_keywords:
 - vbawd10.chm164102267
-ms.prod: word
 api_name:
 - Word.FillFormat.GradientAngle
 ms.assetid: a40a03bb-a395-0e7e-708c-4b9eee89ee4c

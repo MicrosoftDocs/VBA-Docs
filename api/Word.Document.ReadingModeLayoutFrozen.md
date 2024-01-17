@@ -3,7 +3,6 @@ title: Document.ReadingModeLayoutFrozen property (Word)
 keywords: vbawd10.chm158007777
 f1_keywords:
 - vbawd10.chm158007777
-ms.prod: word
 api_name:
 - Word.Document.ReadingModeLayoutFrozen
 ms.assetid: 5ca8aef3-82dd-81c6-9620-57f304bcbb64

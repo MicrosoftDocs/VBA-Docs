@@ -3,7 +3,6 @@ title: Selection.ShapeRange property (Word)
 keywords: vbawd10.chm158663660
 f1_keywords:
 - vbawd10.chm158663660
-ms.prod: word
 api_name:
 - Word.Selection.ShapeRange
 ms.assetid: b327da9a-8858-1ec1-8a0d-cb36bd44fede

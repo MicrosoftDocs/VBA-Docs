@@ -1,6 +1,5 @@
 ---
 title: WdContinue enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdContinue
 ms.assetid: d0cec752-c3d7-bcbe-9065-60b319490558

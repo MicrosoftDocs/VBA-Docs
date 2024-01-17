@@ -3,7 +3,6 @@ title: SynonymInfo.RelatedExpressionList property (Word)
 keywords: vbawd10.chm161153033
 f1_keywords:
 - vbawd10.chm161153033
-ms.prod: word
 api_name:
 - Word.SynonymInfo.RelatedExpressionList
 ms.assetid: a7ce0fa7-cffb-a569-0a2a-894ede869f26

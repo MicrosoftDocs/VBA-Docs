@@ -3,7 +3,6 @@ title: LetterContent object (Word)
 keywords: vbawd10.chm2465
 f1_keywords:
 - vbawd10.chm2465
-ms.prod: word
 api_name:
 - Word.LetterContent
 ms.assetid: 62a4e17a-6598-c904-f27d-817c19c04981

@@ -3,7 +3,6 @@ title: ContentControl.DateStorageFormat property (Word)
 keywords: vbawd10.chm266534932
 f1_keywords:
 - vbawd10.chm266534932
-ms.prod: word
 api_name:
 - Word.ContentControl.DateStorageFormat
 ms.assetid: c69d3f01-725e-8b64-147b-ca8a146b7419

@@ -3,7 +3,6 @@ title: Version.Parent property (Word)
 keywords: vbawd10.chm162792426
 f1_keywords:
 - vbawd10.chm162792426
-ms.prod: word
 api_name:
 - Word.Version.Parent
 ms.assetid: 270acaf5-c1ed-266c-1fae-c90f420c0872

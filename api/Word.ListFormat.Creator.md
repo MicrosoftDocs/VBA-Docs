@@ -3,7 +3,6 @@ title: ListFormat.Creator property (Word)
 keywords: vbawd10.chm163578857
 f1_keywords:
 - vbawd10.chm163578857
-ms.prod: word
 api_name:
 - Word.ListFormat.Creator
 ms.assetid: 523ef2e1-9119-bca1-324b-ab470bb7f6a1

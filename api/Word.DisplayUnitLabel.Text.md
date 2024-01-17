@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Text property (Word)
 keywords: vbawd10.chm94568460
 f1_keywords:
 - vbawd10.chm94568460
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Text
 ms.assetid: 2abc2dea-b28a-5c0f-d7c8-f2abad8c96d3

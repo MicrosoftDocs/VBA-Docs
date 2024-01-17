@@ -1,6 +1,5 @@
 ---
 title: WdPageNumberAlignment enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdPageNumberAlignment
 ms.assetid: 9d31a530-21ef-8838-1a93-e7f003f9376d

@@ -3,7 +3,6 @@ title: Application.MailMergeAfterRecordMerge event (Word)
 keywords: vbawd10.chm4000017
 f1_keywords:
 - vbawd10.chm4000017
-ms.prod: word
 api_name:
 - Word.Application.MailMergeAfterRecordMerge
 ms.assetid: 6f483874-3999-815d-28b3-69fef89ed2be

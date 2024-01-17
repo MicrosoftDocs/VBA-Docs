@@ -3,7 +3,6 @@ title: Global.DDEInitiate method (Word)
 keywords: vbawd10.chm163119415
 f1_keywords:
 - vbawd10.chm163119415
-ms.prod: word
 api_name:
 - Word.Global.DDEInitiate
 ms.assetid: 4b27c9dc-6d81-50e7-968b-f583cd1f23b9

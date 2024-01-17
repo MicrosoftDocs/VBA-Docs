@@ -3,7 +3,6 @@ title: OMathBorderBox.HideTop property (Word)
 keywords: vbawd10.chm116260968
 f1_keywords:
 - vbawd10.chm116260968
-ms.prod: word
 api_name:
 - Word.OMathBorderBox.HideTop
 ms.assetid: 1d502fc4-6432-5cbb-f8bf-95a3ece2d564

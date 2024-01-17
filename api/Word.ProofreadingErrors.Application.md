@@ -3,7 +3,6 @@ title: ProofreadingErrors.Application property (Word)
 keywords: vbawd10.chm163251176
 f1_keywords:
 - vbawd10.chm163251176
-ms.prod: word
 api_name:
 - Word.ProofreadingErrors.Application
 ms.assetid: c59b6b53-9684-77f9-192b-395d422ab4ac

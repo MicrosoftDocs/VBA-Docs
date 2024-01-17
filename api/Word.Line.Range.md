@@ -3,7 +3,6 @@ title: Line.Range property (Word)
 keywords: vbawd10.chm49610759
 f1_keywords:
 - vbawd10.chm49610759
-ms.prod: word
 api_name:
 - Word.Line.Range
 ms.assetid: 46a36016-d5b0-0ef0-3e5c-ff38e7be510c

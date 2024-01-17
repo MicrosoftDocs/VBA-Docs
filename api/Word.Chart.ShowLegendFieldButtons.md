@@ -3,7 +3,6 @@ title: Chart.ShowLegendFieldButtons property (Word)
 keywords: vbawd10.chm79366941
 f1_keywords:
 - vbawd10.chm79366941
-ms.prod: word
 api_name:
 - Word.Chart.ShowLegendFieldButtons
 ms.assetid: da28865f-d513-3f43-45e7-d1cb25cda18c

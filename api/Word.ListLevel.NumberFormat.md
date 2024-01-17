@@ -3,7 +3,6 @@ title: ListLevel.NumberFormat property (Word)
 keywords: vbawd10.chm160235522
 f1_keywords:
 - vbawd10.chm160235522
-ms.prod: word
 api_name:
 - Word.ListLevel.NumberFormat
 ms.assetid: 45305290-e1ca-cd5b-98bd-e60fad989ec5

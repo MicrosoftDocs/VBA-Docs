@@ -3,7 +3,6 @@ title: View.WrapToWindow property (Word)
 keywords: vbawd10.chm161808404
 f1_keywords:
 - vbawd10.chm161808404
-ms.prod: word
 api_name:
 - Word.View.WrapToWindow
 ms.assetid: f596f4e6-c404-3b58-93a8-8aca79b60b66

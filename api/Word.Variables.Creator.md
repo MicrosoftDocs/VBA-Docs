@@ -3,7 +3,6 @@ title: Variables.Creator property (Word)
 keywords: vbawd10.chm157615081
 f1_keywords:
 - vbawd10.chm157615081
-ms.prod: word
 api_name:
 - Word.Variables.Creator
 ms.assetid: afef2a48-87c0-36b2-6242-31ba8f5d5d00

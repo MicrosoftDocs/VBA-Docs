@@ -3,7 +3,6 @@ title: TableStyle.TableDirection property (Word)
 keywords: vbawd10.chm244776972
 f1_keywords:
 - vbawd10.chm244776972
-ms.prod: word
 api_name:
 - Word.TableStyle.TableDirection
 ms.assetid: 3569f6a0-6339-b9ae-3e0d-dc1f1cadb777

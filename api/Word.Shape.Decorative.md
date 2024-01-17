@@ -3,7 +3,6 @@ title: Shape.Decorative property (Word)
 keywords: vbawd10.chm161480915
 f1_keywords:
 - vbawd10.chm161480915
-ms.prod: word
 api_name:
 - Word.Shape.Decorative
 ms.assetid: 2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}

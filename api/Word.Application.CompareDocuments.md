@@ -3,7 +3,6 @@ title: Application.CompareDocuments method (Word)
 keywords: vbawd10.chm158335446
 f1_keywords:
 - vbawd10.chm158335446
-ms.prod: word
 api_name:
 - Word.Application.CompareDocuments
 ms.assetid: 511c811f-3f2b-9b93-f339-32324569a765

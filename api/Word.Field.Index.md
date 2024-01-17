@@ -3,7 +3,6 @@ title: Field.Index property (Word)
 keywords: vbawd10.chm154075144
 f1_keywords:
 - vbawd10.chm154075144
-ms.prod: word
 api_name:
 - Word.Field.Index
 ms.assetid: 68f3f817-1415-f428-cb38-ed79aff013e2

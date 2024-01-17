@@ -3,7 +3,6 @@ title: Font object (Word)
 keywords: vbawd10.chm2386
 f1_keywords:
 - vbawd10.chm2386
-ms.prod: word
 api_name:
 - Word.Font
 ms.assetid: bc97f4df-fc81-d6c8-e99a-d50dc793b7ae

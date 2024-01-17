@@ -3,7 +3,6 @@ title: ThreeDFormat.BevelTopInset property (Word)
 keywords: vbawd10.chm164626547
 f1_keywords:
 - vbawd10.chm164626547
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.BevelTopInset
 ms.assetid: 2bfb53ea-c0e4-15a0-afcd-b27734be7c69

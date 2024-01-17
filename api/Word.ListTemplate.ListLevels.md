@@ -3,7 +3,6 @@ title: ListTemplate.ListLevels property (Word)
 keywords: vbawd10.chm160366594
 f1_keywords:
 - vbawd10.chm160366594
-ms.prod: word
 api_name:
 - Word.ListTemplate.ListLevels
 ms.assetid: ed3c036d-b9be-eeb1-5894-ddf1e2a5f8df

@@ -3,7 +3,6 @@ title: Selection.ClearCharacterDirectFormatting method (Word)
 keywords: vbawd10.chm158663689
 f1_keywords:
 - vbawd10.chm158663689
-ms.prod: word
 api_name:
 - Word.Selection.ClearCharacterDirectFormatting
 ms.assetid: d2138876-c832-2407-a53e-5bd4af2421b7

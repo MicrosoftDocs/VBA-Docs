@@ -3,7 +3,6 @@ title: CoAuthLocks.Creator property (Word)
 keywords: vbawd10.chm180487145
 f1_keywords:
 - vbawd10.chm180487145
-ms.prod: word
 api_name:
 - Word.CoAuthLocks.Creator
 ms.assetid: 1573e705-e795-2040-0705-d9594a9615dd

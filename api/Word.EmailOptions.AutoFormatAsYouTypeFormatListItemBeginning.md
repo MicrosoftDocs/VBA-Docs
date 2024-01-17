@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 keywords: vbawd10.chm165347597
 f1_keywords:
 - vbawd10.chm165347597
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning
 ms.assetid: b6450b00-f073-a7f3-2ce4-6fc057a17d41

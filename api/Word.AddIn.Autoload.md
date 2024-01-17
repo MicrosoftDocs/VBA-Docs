@@ -3,7 +3,6 @@ title: AddIn.Autoload property (Word)
 keywords: vbawd10.chm159252486
 f1_keywords:
 - vbawd10.chm159252486
-ms.prod: word
 api_name:
 - Word.AddIn.Autoload
 ms.assetid: 320b5624-2b00-991c-18ac-568c87caff42

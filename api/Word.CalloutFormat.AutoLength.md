@@ -3,7 +3,6 @@ title: CalloutFormat.AutoLength property (Word)
 keywords: vbawd10.chm163905639
 f1_keywords:
 - vbawd10.chm163905639
-ms.prod: word
 api_name:
 - Word.CalloutFormat.AutoLength
 ms.assetid: 345f77e7-0043-9c4f-e981-18f370314db1

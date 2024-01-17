@@ -3,7 +3,6 @@ title: DropDown.Creator property (Word)
 keywords: vbawd10.chm153420777
 f1_keywords:
 - vbawd10.chm153420777
-ms.prod: word
 api_name:
 - Word.DropDown.Creator
 ms.assetid: 0260c934-5ce3-31a2-0f75-89453532bd50

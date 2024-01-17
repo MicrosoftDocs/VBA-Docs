@@ -3,7 +3,6 @@ title: ShapeRange.BackgroundStyle property (Word)
 keywords: vbawd10.chm162857111
 f1_keywords:
 - vbawd10.chm162857111
-ms.prod: word
 api_name:
 - Word.ShapeRange.BackgroundStyle
 ms.assetid: f5bc2473-9acf-2018-80db-86694ce8cc40

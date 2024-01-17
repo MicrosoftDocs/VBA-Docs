@@ -3,7 +3,6 @@ title: Font.SizeBi property (Word)
 keywords: vbawd10.chm156369058
 f1_keywords:
 - vbawd10.chm156369058
-ms.prod: word
 api_name:
 - Word.Font.SizeBi
 ms.assetid: 521dfc53-1076-ace0-c5d4-7218c985eb7c

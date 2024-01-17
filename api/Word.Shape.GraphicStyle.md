@@ -3,7 +3,6 @@ title: Shape.GraphicStyle property (Word)
 keywords: vbawd10.chm161480913
 f1_keywords:
 - vbawd10.chm161480913
-ms.prod: word
 api_name:
 - Word.Shape.GraphicStyle
 ms.date: 04/25/2019

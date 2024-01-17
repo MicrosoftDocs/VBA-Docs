@@ -3,7 +3,6 @@ title: Frame.Delete method (Word)
 keywords: vbawd10.chm153747556
 f1_keywords:
 - vbawd10.chm153747556
-ms.prod: word
 api_name:
 - Word.Frame.Delete
 ms.assetid: 0077be5a-21b3-e564-7b62-770227c9e31c

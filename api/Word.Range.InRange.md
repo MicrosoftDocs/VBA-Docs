@@ -3,7 +3,6 @@ title: Range.InRange method (Word)
 keywords: vbawd10.chm157155454
 f1_keywords:
 - vbawd10.chm157155454
-ms.prod: word
 api_name:
 - Word.Range.InRange
 ms.assetid: 8d6b2093-7720-b100-6e9e-6be761cabaf5

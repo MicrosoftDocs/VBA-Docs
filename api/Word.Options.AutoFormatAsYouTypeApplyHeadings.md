@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeApplyHeadings property (Word)
 keywords: vbawd10.chm162988292
 f1_keywords:
 - vbawd10.chm162988292
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyHeadings
 ms.assetid: 19dfb55e-8a5c-4e6e-a909-02adcb5a76e9

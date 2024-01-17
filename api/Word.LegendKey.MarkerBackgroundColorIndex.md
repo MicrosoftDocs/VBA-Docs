@@ -3,7 +3,6 @@ title: LegendKey.MarkerBackgroundColorIndex property (Word)
 keywords: vbawd10.chm266207306
 f1_keywords:
 - vbawd10.chm266207306
-ms.prod: word
 api_name:
 - Word.LegendKey.MarkerBackgroundColorIndex
 ms.assetid: 38fcea33-797f-93e1-8a52-0c3aaa9c1834

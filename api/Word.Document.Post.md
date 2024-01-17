@@ -3,7 +3,6 @@ title: Document.Post method (Word)
 keywords: vbawd10.chm158007439
 f1_keywords:
 - vbawd10.chm158007439
-ms.prod: word
 api_name:
 - Word.Document.Post
 ms.assetid: 1ff97561-ed82-fcf3-6615-ee7ed27814fe

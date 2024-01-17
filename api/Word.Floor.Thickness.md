@@ -3,7 +3,6 @@ title: Floor.Thickness property (Word)
 keywords: vbawd10.chm46008691
 f1_keywords:
 - vbawd10.chm46008691
-ms.prod: word
 api_name:
 - Word.Floor.Thickness
 ms.assetid: e374c107-eaf0-bd06-fc4f-d83c2b17f3b5

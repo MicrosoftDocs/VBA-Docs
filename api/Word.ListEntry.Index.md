@@ -3,7 +3,6 @@ title: ListEntry.Index property (Word)
 keywords: vbawd10.chm153288705
 f1_keywords:
 - vbawd10.chm153288705
-ms.prod: word
 api_name:
 - Word.ListEntry.Index
 ms.assetid: a2be532b-bb51-17c8-1990-6698e593f4cc

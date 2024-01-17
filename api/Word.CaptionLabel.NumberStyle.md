@@ -3,7 +3,6 @@ title: CaptionLabel.NumberStyle property (Word)
 keywords: vbawd10.chm158924804
 f1_keywords:
 - vbawd10.chm158924804
-ms.prod: word
 api_name:
 - Word.CaptionLabel.NumberStyle
 ms.assetid: 1e668fdf-606c-04db-db3d-17284bd2d3af

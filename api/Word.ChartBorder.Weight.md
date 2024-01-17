@@ -3,7 +3,6 @@ title: ChartBorder.Weight property (Word)
 keywords: vbawd10.chm61014022
 f1_keywords:
 - vbawd10.chm61014022
-ms.prod: word
 api_name:
 - Word.ChartBorder.Weight
 ms.assetid: f1fc8001-0437-0e4c-d158-8aed3d254360

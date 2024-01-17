@@ -3,7 +3,6 @@ title: ConditionalStyle.RightPadding property (Word)
 keywords: vbawd10.chm91029510
 f1_keywords:
 - vbawd10.chm91029510
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.RightPadding
 ms.assetid: ebdaeb98-9d4b-039f-0ef0-4e0c7a611f1e

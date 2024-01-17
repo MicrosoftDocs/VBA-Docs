@@ -3,7 +3,6 @@ title: TickLabels.Alignment property (Word)
 keywords: vbawd10.chm167051284
 f1_keywords:
 - vbawd10.chm167051284
-ms.prod: word
 api_name:
 - Word.TickLabels.Alignment
 ms.assetid: 63cd3bd8-b921-1e62-feff-c3a6ad714a8b

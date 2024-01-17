@@ -3,7 +3,6 @@ title: ChartFormat.SoftEdge property (Word)
 keywords: vbawd10.chm203030534
 f1_keywords:
 - vbawd10.chm203030534
-ms.prod: word
 api_name:
 - Word.ChartFormat.SoftEdge
 ms.assetid: 3f70fb9e-f5f2-3bdf-a957-68d329823cb2

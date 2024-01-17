@@ -3,7 +3,6 @@ title: TablesOfAuthorities.Creator property (Word)
 keywords: vbawd10.chm152175593
 f1_keywords:
 - vbawd10.chm152175593
-ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.Creator
 ms.assetid: 05961d38-4bba-45d3-1c13-110b7363f7fd

@@ -3,7 +3,6 @@ title: Document.StyleSheets property (Word)
 keywords: vbawd10.chm158007656
 f1_keywords:
 - vbawd10.chm158007656
-ms.prod: word
 api_name:
 - Word.Document.StyleSheets
 ms.assetid: 119a2ecb-9cbd-531e-2145-fc28da798a05

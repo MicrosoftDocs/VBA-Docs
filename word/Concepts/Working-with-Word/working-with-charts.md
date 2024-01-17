@@ -1,6 +1,5 @@
 ---
 title: Working with Charts
-ms.prod: word
 ms.assetid: 7afe145a-f8fb-0123-c105-de1dde11db9e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Document.Sections property (Word)
 keywords: vbawd10.chm158007311
 f1_keywords:
 - vbawd10.chm158007311
-ms.prod: word
 api_name:
 - Word.Document.Sections
 ms.assetid: 83c3ec94-b0ef-e8a5-b17a-ad657e7197b2

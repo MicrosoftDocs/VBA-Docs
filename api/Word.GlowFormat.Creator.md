@@ -3,7 +3,6 @@ title: GlowFormat.Creator property (Word)
 keywords: vbawd10.chm255853545
 f1_keywords:
 - vbawd10.chm255853545
-ms.prod: word
 api_name:
 - Word.GlowFormat.Creator
 ms.assetid: 37204a1d-2ac6-75fe-d843-1e91826e7ac1

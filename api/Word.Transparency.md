@@ -3,7 +3,6 @@ title: GlowFormat.Transparency property (Word)
 keywords: vbawd10.chm255852547
 f1_keywords:
 - vbawd10.chm255852547
-ms.prod: word
 api_name:
 - Word.Transparency
 ms.assetid: 199ef686-e858-8fd3-850b-32676ed98284

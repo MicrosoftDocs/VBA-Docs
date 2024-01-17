@@ -3,7 +3,6 @@ title: PictureFormat.TransparencyColor property (Word)
 keywords: vbawd10.chm164298859
 f1_keywords:
 - vbawd10.chm164298859
-ms.prod: word
 api_name:
 - Word.PictureFormat.TransparencyColor
 ms.assetid: 5b332d25-0aef-15c3-3826-322ea697522c

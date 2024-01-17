@@ -3,7 +3,6 @@ title: View.Draft property (Word)
 keywords: vbawd10.chm161808386
 f1_keywords:
 - vbawd10.chm161808386
-ms.prod: word
 api_name:
 - Word.View.Draft
 ms.assetid: 9a0dd1df-6d5d-babc-02f8-74bf7e651226

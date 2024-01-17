@@ -3,7 +3,6 @@ title: Paragraphs.Hyphenation property (Word)
 keywords: vbawd10.chm156762225
 f1_keywords:
 - vbawd10.chm156762225
-ms.prod: word
 api_name:
 - Word.Paragraphs.Hyphenation
 ms.assetid: 0437a95c-719d-72ce-1de9-ce9d3fd166ff

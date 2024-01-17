@@ -3,7 +3,6 @@ title: Template.FarEastLineBreakLevel property (Word)
 keywords: vbawd10.chm157941774
 f1_keywords:
 - vbawd10.chm157941774
-ms.prod: word
 api_name:
 - Word.Template.FarEastLineBreakLevel
 ms.assetid: 4bf3fd26-0b6c-f970-19bf-1bd9d8441d54

@@ -3,7 +3,6 @@ title: Cell.Previous property (Word)
 keywords: vbawd10.chm156106856
 f1_keywords:
 - vbawd10.chm156106856
-ms.prod: word
 api_name:
 - Word.Cell.Previous
 ms.assetid: 64bc6592-e7ae-15bc-456e-1ba0cb1b2935

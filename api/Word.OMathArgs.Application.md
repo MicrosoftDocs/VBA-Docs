@@ -3,7 +3,6 @@ title: OMathArgs.Application property (Word)
 keywords: vbawd10.chm156958820
 f1_keywords:
 - vbawd10.chm156958820
-ms.prod: word
 api_name:
 - Word.OMathArgs.Application
 ms.assetid: cb203324-ba17-1a29-3667-8a16f360fe50

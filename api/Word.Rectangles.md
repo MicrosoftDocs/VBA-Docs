@@ -1,6 +1,5 @@
 ---
 title: Rectangles object (Word)
-ms.prod: word
 api_name:
 - Word.Rectangles
 ms.assetid: c1de5e7f-13b1-e35a-d9f1-9a8f1246e2e5

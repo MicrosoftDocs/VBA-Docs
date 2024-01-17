@@ -1,6 +1,5 @@
 ---
 title: WdSeparatorType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSeparatorType
 ms.assetid: 94cb01b0-b850-ddc6-46ce-ea0261d38247

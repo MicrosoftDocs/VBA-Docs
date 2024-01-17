@@ -3,7 +3,6 @@ title: Dialog.Creator property (Word)
 keywords: vbawd10.chm163085572
 f1_keywords:
 - vbawd10.chm163085572
-ms.prod: word
 api_name:
 - Word.Dialog.Creator
 ms.assetid: 73551ae3-a17d-4354-8bea-9166c5e16928

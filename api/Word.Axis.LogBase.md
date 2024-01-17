@@ -3,7 +3,6 @@ title: Axis.LogBase property (Word)
 keywords: vbawd10.chm113049622
 f1_keywords:
 - vbawd10.chm113049622
-ms.prod: word
 api_name:
 - Word.Axis.LogBase
 ms.assetid: bf6be786-60e4-789f-792b-f866d88d7066

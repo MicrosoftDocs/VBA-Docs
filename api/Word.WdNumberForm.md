@@ -1,6 +1,5 @@
 ---
 title: WdNumberForm enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdNumberForm
 ms.assetid: c8535c84-27f4-04d8-52a1-739b9ef322f1

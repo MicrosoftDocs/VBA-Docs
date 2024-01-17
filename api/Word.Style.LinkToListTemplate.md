@@ -3,7 +3,6 @@ title: Style.LinkToListTemplate method (Word)
 keywords: vbawd10.chm153878629
 f1_keywords:
 - vbawd10.chm153878629
-ms.prod: word
 api_name:
 - Word.Style.LinkToListTemplate
 ms.assetid: 1b938b1b-aa8f-655b-123e-fb6f00229e23

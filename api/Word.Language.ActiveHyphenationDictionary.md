@@ -3,7 +3,6 @@ title: Language.ActiveHyphenationDictionary property (Word)
 keywords: vbawd10.chm158138382
 f1_keywords:
 - vbawd10.chm158138382
-ms.prod: word
 api_name:
 - Word.Language.ActiveHyphenationDictionary
 ms.assetid: 355462bc-c39e-2e2c-0d2e-af5d4ee8c5a7

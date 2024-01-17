@@ -3,7 +3,6 @@ title: OMathScrPre.Creator property (Word)
 keywords: vbawd10.chm202244197
 f1_keywords:
 - vbawd10.chm202244197
-ms.prod: word
 api_name:
 - Word.OMathScrPre.Creator
 ms.assetid: e2c92e28-baed-17be-1631-f1aa2e357100

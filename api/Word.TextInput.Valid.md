@@ -3,7 +3,6 @@ title: TextInput.Valid property (Word)
 keywords: vbawd10.chm153550848
 f1_keywords:
 - vbawd10.chm153550848
-ms.prod: word
 api_name:
 - Word.TextInput.Valid
 ms.assetid: cf8399fd-d69e-6a49-dcbc-1b548ebc9002

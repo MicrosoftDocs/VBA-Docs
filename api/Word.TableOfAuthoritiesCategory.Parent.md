@@ -3,7 +3,6 @@ title: TableOfAuthoritiesCategory.Parent property (Word)
 keywords: vbawd10.chm158794730
 f1_keywords:
 - vbawd10.chm158794730
-ms.prod: word
 api_name:
 - Word.TableOfAuthoritiesCategory.Parent
 ms.assetid: f3042735-9a1f-c843-0912-07f8d445ece6

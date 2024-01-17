@@ -3,7 +3,6 @@ title: FootnoteOptions.Application property (Word)
 keywords: vbawd10.chm170132456
 f1_keywords:
 - vbawd10.chm170132456
-ms.prod: word
 api_name:
 - Word.FootnoteOptions.Application
 ms.assetid: 7cdc2767-ed04-4971-b3e0-29ef567f56a5

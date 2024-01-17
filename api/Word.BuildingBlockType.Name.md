@@ -3,7 +3,6 @@ title: BuildingBlockType.Name property (Word)
 keywords: vbawd10.chm167378946
 f1_keywords:
 - vbawd10.chm167378946
-ms.prod: word
 api_name:
 - Word.BuildingBlockType.Name
 ms.assetid: f8aede24-cc29-f57f-c40f-e2b4891d7d03

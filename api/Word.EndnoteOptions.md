@@ -1,6 +1,5 @@
 ---
 title: EndnoteOptions object (Word)
-ms.prod: word
 api_name:
 - Word.EndnoteOptions
 ms.assetid: b63cf439-2297-fec9-ba36-66ad3f43dcbc

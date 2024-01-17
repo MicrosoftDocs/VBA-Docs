@@ -3,7 +3,6 @@ title: Row.Index property (Word)
 keywords: vbawd10.chm156237836
 f1_keywords:
 - vbawd10.chm156237836
-ms.prod: word
 api_name:
 - Word.Row.Index
 ms.assetid: cc3e7121-b79b-f2b0-612f-1345d93c484a

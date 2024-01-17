@@ -1,6 +1,5 @@
 ---
 title: WdAraSpeller enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdAraSpeller
 ms.assetid: d0918b28-4a0f-eb61-1d34-a85d3932c590

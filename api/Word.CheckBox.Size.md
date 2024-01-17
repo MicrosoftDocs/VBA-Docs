@@ -3,7 +3,6 @@ title: CheckBox.Size property (Word)
 keywords: vbawd10.chm153485314
 f1_keywords:
 - vbawd10.chm153485314
-ms.prod: word
 api_name:
 - Word.CheckBox.Size
 ms.assetid: 1e7fe0d6-7dd9-c19b-a5b4-f60f99ee6bae

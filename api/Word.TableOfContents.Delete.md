@@ -3,7 +3,6 @@ title: TableOfContents.Delete method (Word)
 keywords: vbawd10.chm152240228
 f1_keywords:
 - vbawd10.chm152240228
-ms.prod: word
 api_name:
 - Word.TableOfContents.Delete
 ms.assetid: e556485e-3c42-7658-99fb-8c0558482a14

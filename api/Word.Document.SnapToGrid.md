@@ -3,7 +3,6 @@ title: Document.SnapToGrid property (Word)
 keywords: vbawd10.chm158007596
 f1_keywords:
 - vbawd10.chm158007596
-ms.prod: word
 api_name:
 - Word.Document.SnapToGrid
 ms.assetid: 7aa03a0d-65f2-725b-37fe-8a421fb1e9f7

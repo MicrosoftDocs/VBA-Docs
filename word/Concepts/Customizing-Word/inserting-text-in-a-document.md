@@ -3,7 +3,6 @@ title: Inserting Text in a Document
 keywords: vbawd10.chm5211121
 f1_keywords:
 - vbawd10.chm5211121
-ms.prod: word
 ms.assetid: 4903a9aa-6923-da80-fcc0-f0e2defcb77a
 ms.date: 06/08/2019
 ms.localizationpriority: medium

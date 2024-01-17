@@ -3,7 +3,6 @@ title: AddIns.Unload method (Word)
 keywords: vbawd10.chm159318019
 f1_keywords:
 - vbawd10.chm159318019
-ms.prod: word
 api_name:
 - Word.AddIns.Unload
 ms.assetid: de0e4683-2630-0d2b-03d7-7710be1a6740

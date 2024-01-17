@@ -1,6 +1,5 @@
 ---
 title: WdListLevelAlignment enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdListLevelAlignment
 ms.assetid: 467941e6-55d5-957b-0033-039909a375f1

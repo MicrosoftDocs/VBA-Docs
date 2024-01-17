@@ -1,6 +1,5 @@
 ---
 title: WdLineStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdLineStyle
 ms.assetid: adeec7b4-6def-8d23-07f1-ee0117736322

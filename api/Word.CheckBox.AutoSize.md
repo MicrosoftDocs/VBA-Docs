@@ -3,7 +3,6 @@ title: CheckBox.AutoSize property (Word)
 keywords: vbawd10.chm153485313
 f1_keywords:
 - vbawd10.chm153485313
-ms.prod: word
 api_name:
 - Word.CheckBox.AutoSize
 ms.assetid: 2398256b-3711-6cdf-85c4-0511c285d13f

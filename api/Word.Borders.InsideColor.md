@@ -3,7 +3,6 @@ title: Borders.InsideColor property (Word)
 keywords: vbawd10.chm154927136
 f1_keywords:
 - vbawd10.chm154927136
-ms.prod: word
 api_name:
 - Word.Borders.InsideColor
 ms.assetid: 90205db3-2b44-25dd-3b61-b9dc3ccb157a

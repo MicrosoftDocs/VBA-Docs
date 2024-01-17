@@ -3,7 +3,6 @@ title: Words.Creator property (Word)
 keywords: vbawd10.chm157025257
 f1_keywords:
 - vbawd10.chm157025257
-ms.prod: word
 api_name:
 - Word.Words.Creator
 ms.assetid: 9958b2f2-6adc-13e3-9067-d31131b88186

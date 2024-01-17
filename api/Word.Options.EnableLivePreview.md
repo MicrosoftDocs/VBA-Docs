@@ -3,7 +3,6 @@ title: Options.EnableLivePreview property (Word)
 keywords: vbawd10.chm162988504
 f1_keywords:
 - vbawd10.chm162988504
-ms.prod: word
 api_name:
 - Word.Options.EnableLivePreview
 ms.assetid: 69f39766-e5b8-bdd6-d05e-28d42b3bb6fa

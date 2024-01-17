@@ -1,6 +1,5 @@
 ---
 title: HeaderFooter.Index property (Word)
-ms.prod: word
 api_name:
 - Word.HeaderFooter.Index
 ms.assetid: 5281c150-1a61-670f-6b1f-37c43b717126

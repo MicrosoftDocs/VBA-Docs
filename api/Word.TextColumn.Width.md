@@ -1,6 +1,5 @@
 ---
 title: TextColumn.Width property (Word)
-ms.prod: word
 api_name:
 - Word.TextColumn.Width
 ms.assetid: 4050636e-0721-56b2-7a63-3f56906e3ca6

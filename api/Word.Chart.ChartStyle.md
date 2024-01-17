@@ -3,7 +3,6 @@ title: Chart.ChartStyle property (Word)
 keywords: vbawd10.chm79366561
 f1_keywords:
 - vbawd10.chm79366561
-ms.prod: word
 api_name:
 - Word.Chart.ChartStyle
 ms.assetid: 53db7507-4fbf-15af-ea31-7ce5466f58f5

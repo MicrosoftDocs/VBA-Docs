@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Format property (Word)
 keywords: vbawd10.chm94568481
 f1_keywords:
 - vbawd10.chm94568481
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Format
 ms.assetid: cb81306c-9e26-c3a2-4f7f-3b0c8f19cdeb

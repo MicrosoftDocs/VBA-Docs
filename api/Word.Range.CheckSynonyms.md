@@ -3,7 +3,6 @@ title: Range.CheckSynonyms method (Word)
 keywords: vbawd10.chm157155508
 f1_keywords:
 - vbawd10.chm157155508
-ms.prod: word
 api_name:
 - Word.Range.CheckSynonyms
 ms.assetid: e28026bf-aa5e-8cf4-e765-7350afd57741

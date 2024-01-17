@@ -1,6 +1,5 @@
 ---
 title: TextColumn object (Word)
-ms.prod: word
 api_name:
 - Word.TextColumn
 ms.assetid: 660614a8-ad5b-dae4-887e-0f75e1172c10

@@ -3,7 +3,6 @@ title: CalloutFormat.Length property (Word)
 keywords: vbawd10.chm163905644
 f1_keywords:
 - vbawd10.chm163905644
-ms.prod: word
 api_name:
 - Word.CalloutFormat.Length
 ms.assetid: 60b80a93-7a31-c4f6-57ab-445d788f6cbd

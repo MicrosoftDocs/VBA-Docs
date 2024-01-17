@@ -3,7 +3,6 @@ title: Rows.DistanceLeft property (Word)
 keywords: vbawd10.chm155975700
 f1_keywords:
 - vbawd10.chm155975700
-ms.prod: word
 api_name:
 - Word.Rows.DistanceLeft
 ms.assetid: 2798e176-d175-6504-7eac-4248bdb0ceb3

@@ -3,7 +3,6 @@ title: XMLNamespaces.Add method (Word)
 keywords: vbawd10.chm248971365
 f1_keywords:
 - vbawd10.chm248971365
-ms.prod: word
 ms.assetid: 2b70fb44-adf0-31e9-0528-bda1189b85f5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

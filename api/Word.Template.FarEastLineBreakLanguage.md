@@ -3,7 +3,6 @@ title: Template.FarEastLineBreakLanguage property (Word)
 keywords: vbawd10.chm157941778
 f1_keywords:
 - vbawd10.chm157941778
-ms.prod: word
 api_name:
 - Word.Template.FarEastLineBreakLanguage
 ms.assetid: 92b719c8-7067-3cb4-7c2e-2d9738145a6b

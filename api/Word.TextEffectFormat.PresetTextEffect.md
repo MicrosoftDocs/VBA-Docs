@@ -3,7 +3,6 @@ title: TextEffectFormat.PresetTextEffect property (Word)
 keywords: vbawd10.chm164561004
 f1_keywords:
 - vbawd10.chm164561004
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.PresetTextEffect
 ms.assetid: 86865b25-a30f-ef47-630f-b78ff1da28e3

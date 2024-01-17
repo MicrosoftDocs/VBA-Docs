@@ -3,7 +3,6 @@ title: OMathLimUpp.Parent property (Word)
 keywords: vbawd10.chm113639526
 f1_keywords:
 - vbawd10.chm113639526
-ms.prod: word
 api_name:
 - Word.OMathLimUpp.Parent
 ms.assetid: 8e70af6f-c0fd-534b-b5a1-70d458478933

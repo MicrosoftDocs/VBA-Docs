@@ -3,7 +3,6 @@ title: ChartGroup.UpBars property (Word)
 keywords: vbawd10.chm263454751
 f1_keywords:
 - vbawd10.chm263454751
-ms.prod: word
 api_name:
 - Word.ChartGroup.UpBars
 ms.assetid: 8581ad5f-94a1-0e12-3880-14ce2a7e9f03

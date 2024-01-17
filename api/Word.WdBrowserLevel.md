@@ -1,6 +1,5 @@
 ---
 title: WdBrowserLevel enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdBrowserLevel
 ms.assetid: 337449df-bbda-2188-1ac5-c56700f13efa

@@ -3,7 +3,6 @@ title: OMath.AlignPoint property (Word)
 keywords: vbawd10.chm176357492
 f1_keywords:
 - vbawd10.chm176357492
-ms.prod: word
 api_name:
 - Word.OMath.AlignPoint
 ms.assetid: 29b5f2e7-94b6-264a-0b52-ea8cc749c780

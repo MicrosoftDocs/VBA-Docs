@@ -1,6 +1,5 @@
 ---
 title: WdUpdateStyleListBehavior enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdUpdateStyleListBehavior
 ms.assetid: 98b8584e-c07b-db44-f7e9-445bd1882ebd

@@ -3,7 +3,6 @@ title: ListEntries.Application property (Word)
 keywords: vbawd10.chm153355240
 f1_keywords:
 - vbawd10.chm153355240
-ms.prod: word
 api_name:
 - Word.ListEntries.Application
 ms.assetid: 6ab90b58-610a-8d94-c192-db2ca03655e1

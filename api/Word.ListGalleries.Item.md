@@ -3,7 +3,6 @@ title: ListGalleries.Item method (Word)
 keywords: vbawd10.chm160759808
 f1_keywords:
 - vbawd10.chm160759808
-ms.prod: word
 api_name:
 - Word.ListGalleries.Item
 ms.assetid: df43ee1c-5834-c002-9e53-458f404f8b53

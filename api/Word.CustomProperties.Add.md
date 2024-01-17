@@ -3,7 +3,6 @@ title: CustomProperties.Add method (Word)
 keywords: vbawd10.chm232849413
 f1_keywords:
 - vbawd10.chm232849413
-ms.prod: word
 api_name:
 - Word.CustomProperties.Add
 ms.assetid: d4240861-d58c-783d-a441-d20f66881fd9

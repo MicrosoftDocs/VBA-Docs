@@ -1,6 +1,5 @@
 ---
 title: WdListType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdListType
 ms.assetid: f72bc3a3-13f9-149b-7caa-a36b3bdd6da5

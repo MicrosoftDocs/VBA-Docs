@@ -3,7 +3,6 @@ title: Selection.SelectCurrentFont method (Word)
 keywords: vbawd10.chm158663173
 f1_keywords:
 - vbawd10.chm158663173
-ms.prod: word
 api_name:
 - Word.Selection.SelectCurrentFont
 ms.assetid: 66539ab3-280f-40a5-1fc0-1507b66d50fd

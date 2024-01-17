@@ -3,7 +3,6 @@ title: HeaderFooter.Shapes property (Word)
 keywords: vbawd10.chm159711239
 f1_keywords:
 - vbawd10.chm159711239
-ms.prod: word
 api_name:
 - Word.HeaderFooter.Shapes
 ms.assetid: dc38943b-b4fa-51c5-ff3d-8180ff51c279

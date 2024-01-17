@@ -3,7 +3,6 @@ title: ListFormat.ListTemplate property (Word)
 keywords: vbawd10.chm163577926
 f1_keywords:
 - vbawd10.chm163577926
-ms.prod: word
 api_name:
 - Word.ListFormat.ListTemplate
 ms.assetid: 778f4b21-575c-b6b1-768a-735c4730ae13

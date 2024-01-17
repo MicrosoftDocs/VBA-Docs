@@ -3,7 +3,6 @@ title: Cells.AutoFit method (Word)
 keywords: vbawd10.chm155844816
 f1_keywords:
 - vbawd10.chm155844816
-ms.prod: word
 api_name:
 - Word.Cells.AutoFit
 ms.assetid: bc8dcae8-2f71-a978-f5be-c32fb052f428

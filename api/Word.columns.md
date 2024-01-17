@@ -1,6 +1,5 @@
 ---
 title: Columns object (Word)
-ms.prod: word
 ms.assetid: 7c2d1353-cbc4-a162-83a1-6cac1300266f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

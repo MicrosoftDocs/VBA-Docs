@@ -3,7 +3,6 @@ title: Document.GridSpaceBetweenHorizontalLines property (Word)
 keywords: vbawd10.chm158007602
 f1_keywords:
 - vbawd10.chm158007602
-ms.prod: word
 api_name:
 - Word.Document.GridSpaceBetweenHorizontalLines
 ms.assetid: 79cac143-588d-d719-c653-f24852f288b6

@@ -3,7 +3,6 @@ title: Document.BuiltInDocumentProperties property (Word)
 keywords: vbawd10.chm158008296
 f1_keywords:
 - vbawd10.chm158008296
-ms.prod: word
 api_name:
 - Word.Document.BuiltInDocumentProperties
 ms.assetid: 5e9a17dd-75b3-50e5-359e-dc0d0a59c46f

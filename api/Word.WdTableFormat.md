@@ -1,6 +1,5 @@
 ---
 title: WdTableFormat enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTableFormat
 ms.assetid: e61e81ce-e232-5117-68a5-6cd586f0b0b2

@@ -3,7 +3,6 @@ title: View.ShowAll property (Word)
 keywords: vbawd10.chm161808387
 f1_keywords:
 - vbawd10.chm161808387
-ms.prod: word
 api_name:
 - Word.View.ShowAll
 ms.assetid: 21af8a5b-2110-a2e0-e705-40a66c410625

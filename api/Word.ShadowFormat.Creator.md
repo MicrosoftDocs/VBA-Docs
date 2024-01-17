@@ -3,7 +3,6 @@ title: ShadowFormat.Creator property (Word)
 keywords: vbawd10.chm164365289
 f1_keywords:
 - vbawd10.chm164365289
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Creator
 ms.assetid: 070a17aa-d979-1ab5-e741-d9aaf3e61c3a

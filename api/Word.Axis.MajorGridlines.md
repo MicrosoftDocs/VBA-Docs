@@ -3,7 +3,6 @@ title: Axis.MajorGridlines property (Word)
 keywords: vbawd10.chm113049617
 f1_keywords:
 - vbawd10.chm113049617
-ms.prod: word
 api_name:
 - Word.Axis.MajorGridlines
 ms.assetid: 90e0d7c0-add7-9a34-8706-aaf33f799441

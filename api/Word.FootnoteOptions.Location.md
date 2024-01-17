@@ -3,7 +3,6 @@ title: FootnoteOptions.Location property (Word)
 keywords: vbawd10.chm170131556
 f1_keywords:
 - vbawd10.chm170131556
-ms.prod: word
 api_name:
 - Word.FootnoteOptions.Location
 ms.assetid: 29300e96-150f-ea6c-14ce-602816b6907a

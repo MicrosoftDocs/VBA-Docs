@@ -3,7 +3,6 @@ title: CheckBox.Default property (Word)
 keywords: vbawd10.chm153485315
 f1_keywords:
 - vbawd10.chm153485315
-ms.prod: word
 api_name:
 - Word.CheckBox.Default
 ms.assetid: 49e27047-aee0-bf84-ce44-7d30d7f863e8

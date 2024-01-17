@@ -3,7 +3,6 @@ title: Conflicts.Count property (Word)
 keywords: vbawd10.chm174391301
 f1_keywords:
 - vbawd10.chm174391301
-ms.prod: word
 api_name:
 - Word.Conflicts.Count
 ms.assetid: 7a9488a5-d29c-16af-cab0-cbc2fe7fba96

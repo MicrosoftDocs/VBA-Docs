@@ -3,7 +3,6 @@ title: DropLines.Format property (Word)
 keywords: vbawd10.chm104988677
 f1_keywords:
 - vbawd10.chm104988677
-ms.prod: word
 api_name:
 - Word.DropLines.Format
 ms.assetid: b21d3b20-eb9d-a604-f4e9-1f395f43d44e

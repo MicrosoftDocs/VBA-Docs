@@ -3,7 +3,6 @@ title: StyleSheet.Move method (Word)
 keywords: vbawd10.chm166658055
 f1_keywords:
 - vbawd10.chm166658055
-ms.prod: word
 api_name:
 - Word.StyleSheet.Move
 ms.assetid: 2f142a64-d47d-8858-39ca-26f4cff4d096

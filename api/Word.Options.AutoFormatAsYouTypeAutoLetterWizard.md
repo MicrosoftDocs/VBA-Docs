@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeAutoLetterWizard property (Word)
 keywords: vbawd10.chm162988336
 f1_keywords:
 - vbawd10.chm162988336
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeAutoLetterWizard
 ms.assetid: be49edd1-cb44-12d1-df43-ddaaddccef04

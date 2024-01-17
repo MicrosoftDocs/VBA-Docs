@@ -3,7 +3,6 @@ title: Find.SetAllFuzzyOptions method (Word)
 keywords: vbawd10.chm162529312
 f1_keywords:
 - vbawd10.chm162529312
-ms.prod: word
 api_name:
 - Word.Find.SetAllFuzzyOptions
 ms.assetid: 3fb439eb-5f98-620e-0e16-5905a2b105c6

@@ -3,7 +3,6 @@ title: Document.Research property (Word)
 keywords: vbawd10.chm158007822
 f1_keywords:
 - vbawd10.chm158007822
-ms.prod: word
 api_name:
 - Word.Document.Research
 ms.assetid: 8d37d02a-c418-a2a2-1478-362ed01d76d6

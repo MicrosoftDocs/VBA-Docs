@@ -3,7 +3,6 @@ title: FirstLetterException object (Word)
 keywords: vbawd10.chm2373
 f1_keywords:
 - vbawd10.chm2373
-ms.prod: word
 api_name:
 - Word.FirstLetterException
 ms.assetid: e365a683-010a-a074-5563-f0cac1f410b2

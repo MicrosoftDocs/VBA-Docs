@@ -3,7 +3,6 @@ title: Selection.IsEndOfRowMark property (Word)
 keywords: vbawd10.chm158662963
 f1_keywords:
 - vbawd10.chm158662963
-ms.prod: word
 api_name:
 - Word.Selection.IsEndOfRowMark
 ms.assetid: 0729a8f2-628c-902b-fca1-488742234873

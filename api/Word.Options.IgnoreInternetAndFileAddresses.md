@@ -3,7 +3,6 @@ title: Options.IgnoreInternetAndFileAddresses property (Word)
 keywords: vbawd10.chm162988310
 f1_keywords:
 - vbawd10.chm162988310
-ms.prod: word
 api_name:
 - Word.Options.IgnoreInternetAndFileAddresses
 ms.assetid: 30894aec-958d-b39c-3ef6-a251837f6bbc

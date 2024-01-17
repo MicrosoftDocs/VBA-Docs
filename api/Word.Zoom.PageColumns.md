@@ -3,7 +3,6 @@ title: Zoom.PageColumns property (Word)
 keywords: vbawd10.chm161873923
 f1_keywords:
 - vbawd10.chm161873923
-ms.prod: word
 api_name:
 - Word.Zoom.PageColumns
 ms.assetid: b515af7b-c579-97aa-8278-8b2ad96f8602

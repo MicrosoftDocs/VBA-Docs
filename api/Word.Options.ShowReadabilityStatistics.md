@@ -3,7 +3,6 @@ title: Options.ShowReadabilityStatistics property (Word)
 keywords: vbawd10.chm162988311
 f1_keywords:
 - vbawd10.chm162988311
-ms.prod: word
 api_name:
 - Word.Options.ShowReadabilityStatistics
 ms.assetid: 317a6175-75ea-f2eb-33ca-7eefd904e4c4

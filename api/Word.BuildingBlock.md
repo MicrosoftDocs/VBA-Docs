@@ -3,7 +3,6 @@ title: BuildingBlock object (Word)
 keywords: vbawd10.chm3107
 f1_keywords:
 - vbawd10.chm3107
-ms.prod: word
 api_name:
 - Word.BuildingBlock
 ms.assetid: 2558b89f-8552-bb71-fa40-101cab2635ba

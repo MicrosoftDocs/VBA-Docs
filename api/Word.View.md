@@ -3,7 +3,6 @@ title: View object (Word)
 keywords: vbawd10.chm2469
 f1_keywords:
 - vbawd10.chm2469
-ms.prod: word
 api_name:
 - Word.View
 ms.assetid: 8bf5b26b-14c0-1985-65b2-3e034360baeb

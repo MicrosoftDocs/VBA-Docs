@@ -3,7 +3,6 @@ title: Field.Creator property (Word)
 keywords: vbawd10.chm154076137
 f1_keywords:
 - vbawd10.chm154076137
-ms.prod: word
 api_name:
 - Word.Field.Creator
 ms.assetid: 4ef681fd-afbe-7f7b-8143-36616be30334

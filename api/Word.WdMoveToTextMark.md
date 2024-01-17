@@ -1,6 +1,5 @@
 ---
 title: WdMoveToTextMark enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMoveToTextMark
 ms.assetid: f4c302fd-5b83-d74c-b30d-89b13f6807d5

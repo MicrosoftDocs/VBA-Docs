@@ -3,7 +3,6 @@ title: ListLevel.NumberPosition property (Word)
 keywords: vbawd10.chm160235525
 f1_keywords:
 - vbawd10.chm160235525
-ms.prod: word
 api_name:
 - Word.ListLevel.NumberPosition
 ms.assetid: 444df40d-4165-54b9-3456-ca4dfbdb8053

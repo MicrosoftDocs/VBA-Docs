@@ -3,7 +3,6 @@ title: Task.Name property (Word)
 keywords: vbawd10.chm159514624
 f1_keywords:
 - vbawd10.chm159514624
-ms.prod: word
 api_name:
 - Word.Task.Name
 ms.assetid: 61195e45-b924-4318-7c9c-09c252fe64b2

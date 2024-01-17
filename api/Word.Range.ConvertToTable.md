@@ -3,7 +3,6 @@ title: Range.ConvertToTable method (Word)
 keywords: vbawd10.chm157155826
 f1_keywords:
 - vbawd10.chm157155826
-ms.prod: word
 api_name:
 - Word.Range.ConvertToTable
 ms.assetid: a7d005ec-774e-151c-ff38-64df3ea36646

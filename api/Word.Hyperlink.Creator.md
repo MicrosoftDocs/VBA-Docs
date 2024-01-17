@@ -3,7 +3,6 @@ title: Hyperlink.Creator property (Word)
 keywords: vbawd10.chm161285097
 f1_keywords:
 - vbawd10.chm161285097
-ms.prod: word
 api_name:
 - Word.Hyperlink.Creator
 ms.assetid: bf9cbba4-cb42-becb-71ef-70faa45d6c23

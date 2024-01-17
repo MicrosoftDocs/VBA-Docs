@@ -3,7 +3,6 @@ title: XMLNamespace.AttachToDocument method (Word)
 keywords: vbawd10.chm2293860
 f1_keywords:
 - vbawd10.chm2293860
-ms.prod: word
 api_name:
 - Word.XMLNamespace.AttachToDocument
 ms.assetid: 18af2ed2-2806-401a-4cca-9d8746f25082

@@ -3,7 +3,6 @@ title: View.MailMergeDataView property (Word)
 keywords: vbawd10.chm161808389
 f1_keywords:
 - vbawd10.chm161808389
-ms.prod: word
 api_name:
 - Word.View.MailMergeDataView
 ms.assetid: 2252ea96-70ac-f9f1-554f-59a8337c9b5c

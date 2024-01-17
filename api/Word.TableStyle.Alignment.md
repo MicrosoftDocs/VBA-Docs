@@ -3,7 +3,6 @@ title: TableStyle.Alignment property (Word)
 keywords: vbawd10.chm244776969
 f1_keywords:
 - vbawd10.chm244776969
-ms.prod: word
 api_name:
 - Word.TableStyle.Alignment
 ms.assetid: 96689127-6f42-c2ad-80c7-76d08a47720c

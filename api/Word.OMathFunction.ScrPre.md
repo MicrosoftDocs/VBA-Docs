@@ -3,7 +3,6 @@ title: OMathFunction.ScrPre property (Word)
 keywords: vbawd10.chm22151287
 f1_keywords:
 - vbawd10.chm22151287
-ms.prod: word
 api_name:
 - Word.OMathFunction.ScrPre
 ms.assetid: f5f7cef3-7bf6-bf74-3f45-36bbb148e085

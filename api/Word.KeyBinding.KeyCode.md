@@ -3,7 +3,6 @@ title: KeyBinding.KeyCode property (Word)
 keywords: vbawd10.chm160956422
 f1_keywords:
 - vbawd10.chm160956422
-ms.prod: word
 api_name:
 - Word.KeyBinding.KeyCode
 ms.assetid: 8ca07f1e-b60b-bc10-b1fe-cb0d7b890d33

@@ -3,7 +3,6 @@ title: SpellingSuggestion object (Word)
 keywords: vbawd10.chm2475
 f1_keywords:
 - vbawd10.chm2475
-ms.prod: word
 api_name:
 - Word.SpellingSuggestion
 ms.assetid: 39598da5-8c76-41f3-dcb6-1e1162b30f28

@@ -3,7 +3,6 @@ title: HorizontalLineFormat.WidthType property (Word)
 keywords: vbawd10.chm165543941
 f1_keywords:
 - vbawd10.chm165543941
-ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.WidthType
 ms.assetid: 41d2ecc7-625e-5a62-8f68-f2982e04c6db

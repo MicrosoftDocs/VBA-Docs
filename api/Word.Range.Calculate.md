@@ -3,7 +3,6 @@ title: Range.Calculate method (Word)
 keywords: vbawd10.chm157155500
 f1_keywords:
 - vbawd10.chm157155500
-ms.prod: word
 api_name:
 - Word.Range.Calculate
 ms.assetid: 756d6143-bf92-7669-f686-be23246c3a29

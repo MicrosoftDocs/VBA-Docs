@@ -3,7 +3,6 @@ title: RepeatingSectionItemColl.Item method (Word)
 keywords: vbawd10.chm171114496
 f1_keywords:
 - vbawd10.chm171114496
-ms.prod: word
 ms.assetid: 7401831b-c0b1-42ac-bc68-0a29aa353009
 ms.date: 06/08/2017
 ms.localizationpriority: medium

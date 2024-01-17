@@ -3,7 +3,6 @@ title: Options.MoveToTextColor property (Word)
 keywords: vbawd10.chm162988518
 f1_keywords:
 - vbawd10.chm162988518
-ms.prod: word
 api_name:
 - Word.Options.MoveToTextColor
 ms.assetid: 070766e7-5210-6274-d62e-352e789666fc

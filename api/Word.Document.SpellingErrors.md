@@ -3,7 +3,6 @@ title: Document.SpellingErrors property (Word)
 keywords: vbawd10.chm158007394
 f1_keywords:
 - vbawd10.chm158007394
-ms.prod: word
 api_name:
 - Word.Document.SpellingErrors
 ms.assetid: c8a987a1-3705-ea0a-103a-99b2f17f5c6b

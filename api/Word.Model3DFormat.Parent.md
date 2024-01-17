@@ -3,7 +3,6 @@ title: Model3DFormat.Parent property (Word)
 keywords: vbawd10.chm151584769
 f1_keywords:
 - vbawd10.chm151584769
-ms.prod: word
 api_name:
 - Word.Model3DFormat.Parent
 ms.date: 04/11/2019

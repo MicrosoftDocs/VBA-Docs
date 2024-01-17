@@ -3,7 +3,6 @@ title: Font.EmphasisMark property (Word)
 keywords: vbawd10.chm156369050
 f1_keywords:
 - vbawd10.chm156369050
-ms.prod: word
 api_name:
 - Word.Font.EmphasisMark
 ms.assetid: 18e541c3-09aa-690d-94fa-ace6133c5cc6

@@ -3,7 +3,6 @@ title: Window.Visible property (Word)
 keywords: vbawd10.chm157417508
 f1_keywords:
 - vbawd10.chm157417508
-ms.prod: word
 api_name:
 - Word.Window.Visible
 ms.assetid: 749c01fa-715d-c6f3-5847-035ce01f0219

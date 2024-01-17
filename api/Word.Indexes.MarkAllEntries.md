@@ -3,7 +3,6 @@ title: Indexes.MarkAllEntries method (Word)
 keywords: vbawd10.chm159121510
 f1_keywords:
 - vbawd10.chm159121510
-ms.prod: word
 api_name:
 - Word.Indexes.MarkAllEntries
 ms.assetid: bd2fb9b9-7a10-6f35-b691-f8c11542a711

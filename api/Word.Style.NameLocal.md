@@ -3,7 +3,6 @@ title: Style.NameLocal property (Word)
 keywords: vbawd10.chm153878528
 f1_keywords:
 - vbawd10.chm153878528
-ms.prod: word
 api_name:
 - Word.Style.NameLocal
 ms.assetid: 49d5d7d7-65b5-2861-171b-3badfe055568

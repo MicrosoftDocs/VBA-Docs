@@ -3,7 +3,6 @@ title: Languages.Item method (Word)
 keywords: vbawd10.chm158203904
 f1_keywords:
 - vbawd10.chm158203904
-ms.prod: word
 api_name:
 - Word.Languages.Item
 ms.assetid: fa06f7de-941b-edab-162a-94e9f9fa1ca0

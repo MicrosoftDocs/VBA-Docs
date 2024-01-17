@@ -1,6 +1,5 @@
 ---
 title: WdReplace enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdReplace
 ms.assetid: e7e8b8c3-e862-5fe6-ee56-b054263a4402

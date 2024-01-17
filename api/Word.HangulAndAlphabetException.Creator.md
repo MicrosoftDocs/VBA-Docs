@@ -3,7 +3,6 @@ title: HangulAndAlphabetException.Creator property (Word)
 keywords: vbawd10.chm164758505
 f1_keywords:
 - vbawd10.chm164758505
-ms.prod: word
 api_name:
 - Word.HangulAndAlphabetException.Creator
 ms.assetid: 77b08c7a-411d-d7d7-a4fa-57c750d3b848

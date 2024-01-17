@@ -3,7 +3,6 @@ title: Document.AcceptAllRevisionsShown method (Word)
 keywords: vbawd10.chm158007668
 f1_keywords:
 - vbawd10.chm158007668
-ms.prod: word
 api_name:
 - Word.Document.AcceptAllRevisionsShown
 ms.assetid: bd9634cf-239a-2543-3681-579d4dd2f202

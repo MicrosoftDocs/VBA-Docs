@@ -3,7 +3,6 @@ title: Global.DDEExecute method (Word)
 keywords: vbawd10.chm163119414
 f1_keywords:
 - vbawd10.chm163119414
-ms.prod: word
 api_name:
 - Word.Global.DDEExecute
 ms.assetid: f1ae9960-59b9-e637-c507-606c13e36c92

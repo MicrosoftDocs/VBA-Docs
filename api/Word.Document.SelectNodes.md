@@ -3,7 +3,6 @@ title: Document.SelectNodes method (Word)
 keywords: vbawd10.chm158007785
 f1_keywords:
 - vbawd10.chm158007785
-ms.prod: word
 api_name:
 - Word.Document.SelectNodes
 ms.assetid: b913720e-0f22-c626-6003-61a8dfb87f00

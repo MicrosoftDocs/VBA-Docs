@@ -3,7 +3,6 @@ title: Document.DisableFeaturesIntroducedAfter property (Word)
 keywords: vbawd10.chm158007639
 f1_keywords:
 - vbawd10.chm158007639
-ms.prod: word
 api_name:
 - Word.Document.DisableFeaturesIntroducedAfter
 ms.assetid: 5714062c-ffca-8feb-6b25-52f71568ae12

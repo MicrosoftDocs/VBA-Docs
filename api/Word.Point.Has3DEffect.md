@@ -3,7 +3,6 @@ title: Point.Has3DEffect property (Word)
 keywords: vbawd10.chm262145665
 f1_keywords:
 - vbawd10.chm262145665
-ms.prod: word
 api_name:
 - Word.Point.Has3DEffect
 ms.assetid: ab47dabc-ccc9-2ccd-9fc8-0429e65f3c21

@@ -3,7 +3,6 @@ title: AutoTextEntries.Item method (Word)
 keywords: vbawd10.chm154599424
 f1_keywords:
 - vbawd10.chm154599424
-ms.prod: word
 api_name:
 - Word.AutoTextEntries.Item
 ms.assetid: 67118586-5139-953d-3b84-3aec644e3cd9

@@ -3,7 +3,6 @@ title: MappedDataFields.Creator property (Word)
 keywords: vbawd10.chm135529449
 f1_keywords:
 - vbawd10.chm135529449
-ms.prod: word
 api_name:
 - Word.MappedDataFields.Creator
 ms.assetid: 1948ecf8-a42d-7a1b-16d2-808caa53dd9a

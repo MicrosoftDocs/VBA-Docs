@@ -3,7 +3,6 @@ title: Document.PasswordEncryptionFileProperties property (Word)
 keywords: vbawd10.chm158007666
 f1_keywords:
 - vbawd10.chm158007666
-ms.prod: word
 api_name:
 - Word.Document.PasswordEncryptionFileProperties
 ms.assetid: 8da8be02-636b-bcfb-e12c-14eadf72b3f1

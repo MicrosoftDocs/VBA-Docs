@@ -3,7 +3,6 @@ title: ParagraphFormat.OpenOrCloseUp method (Word)
 keywords: vbawd10.chm156434735
 f1_keywords:
 - vbawd10.chm156434735
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.OpenOrCloseUp
 ms.assetid: 7cf08077-e3e5-4886-e88f-fd12c2961058

@@ -3,7 +3,6 @@ title: Document.RunAutoMacro method (Word)
 keywords: vbawd10.chm158007408
 f1_keywords:
 - vbawd10.chm158007408
-ms.prod: word
 api_name:
 - Word.Document.RunAutoMacro
 ms.assetid: 8eee80a6-e347-2fbb-ec86-65d09e09c764

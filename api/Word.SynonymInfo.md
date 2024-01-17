@@ -3,7 +3,6 @@ title: SynonymInfo object (Word)
 keywords: vbawd10.chm2459
 f1_keywords:
 - vbawd10.chm2459
-ms.prod: word
 api_name:
 - Word.SynonymInfo
 ms.assetid: 0af2d733-a038-1f67-ddca-2b05b3af1b7c

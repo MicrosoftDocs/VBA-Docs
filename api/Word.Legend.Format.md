@@ -3,7 +3,6 @@ title: Legend.Format property (Word)
 keywords: vbawd10.chm147193882
 f1_keywords:
 - vbawd10.chm147193882
-ms.prod: word
 api_name:
 - Word.Legend.Format
 ms.assetid: 6afa55a1-daea-28fc-fe2f-f4b1ca918ed0

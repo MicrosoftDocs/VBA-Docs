@@ -3,7 +3,6 @@ title: Chart.ChartColor property (Word)
 keywords: vbawd10.chm79366563
 f1_keywords:
 - vbawd10.chm79366563
-ms.prod: word
 ms.assetid: d0f33ca3-90e5-c8d6-d2ac-117ea62ae7cc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

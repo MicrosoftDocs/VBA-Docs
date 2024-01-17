@@ -3,7 +3,6 @@ title: ListFormat.ListLevelNumber property (Word)
 keywords: vbawd10.chm163577924
 f1_keywords:
 - vbawd10.chm163577924
-ms.prod: word
 api_name:
 - Word.ListFormat.ListLevelNumber
 ms.assetid: 004c1823-56dd-7a7c-2b0c-8654f0313465

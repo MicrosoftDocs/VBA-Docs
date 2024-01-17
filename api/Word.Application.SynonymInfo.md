@@ -3,7 +3,6 @@ title: Application.SynonymInfo property (Word)
 keywords: vbawd10.chm158335035
 f1_keywords:
 - vbawd10.chm158335035
-ms.prod: word
 api_name:
 - Word.Application.SynonymInfo
 ms.assetid: 7aff62c5-d962-23b5-0e86-ae566f72914c

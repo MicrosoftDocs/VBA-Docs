@@ -3,7 +3,6 @@ title: CalloutFormat.Application property (Word)
 keywords: vbawd10.chm163906536
 f1_keywords:
 - vbawd10.chm163906536
-ms.prod: word
 api_name:
 - Word.CalloutFormat.Application
 ms.assetid: 57725542-968b-fc1f-62df-28b559e7c41c

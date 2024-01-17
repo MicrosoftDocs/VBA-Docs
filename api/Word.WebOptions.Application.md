@@ -3,7 +3,6 @@ title: WebOptions.Application property (Word)
 keywords: vbawd10.chm165938152
 f1_keywords:
 - vbawd10.chm165938152
-ms.prod: word
 api_name:
 - Word.WebOptions.Application
 ms.assetid: 767d255c-4fbe-61ee-991b-134229ee35be

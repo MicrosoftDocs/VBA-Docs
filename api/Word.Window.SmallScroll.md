@@ -3,7 +3,6 @@ title: Window.SmallScroll method (Word)
 keywords: vbawd10.chm157417576
 f1_keywords:
 - vbawd10.chm157417576
-ms.prod: word
 api_name:
 - Word.Window.SmallScroll
 ms.assetid: 36801d40-0a24-69aa-7641-40f90132556b

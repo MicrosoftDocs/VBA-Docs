@@ -1,6 +1,5 @@
 ---
 title: WdMailMergeDefaultRecord enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMailMergeDefaultRecord
 ms.assetid: 21bde0e2-a726-33c1-e472-c42df47d9492

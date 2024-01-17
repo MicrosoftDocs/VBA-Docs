@@ -1,6 +1,5 @@
 ---
 title: WdConstants enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdConstants
 ms.assetid: 5e9789a4-1442-5769-01f6-5425dff8a9d6

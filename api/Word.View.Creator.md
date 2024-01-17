@@ -3,7 +3,6 @@ title: View.Creator property (Word)
 keywords: vbawd10.chm161809385
 f1_keywords:
 - vbawd10.chm161809385
-ms.prod: word
 api_name:
 - Word.View.Creator
 ms.assetid: 7a78b765-a791-f05b-80bf-4d4230b94613

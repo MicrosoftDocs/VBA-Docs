@@ -3,7 +3,6 @@ title: View.ShowHighlight property (Word)
 keywords: vbawd10.chm161808397
 f1_keywords:
 - vbawd10.chm161808397
-ms.prod: word
 api_name:
 - Word.View.ShowHighlight
 ms.assetid: ec0a5e47-f792-742b-654c-2aa137ab3ff1

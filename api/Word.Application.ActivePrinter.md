@@ -3,7 +3,6 @@ title: Application.ActivePrinter property (Word)
 keywords: vbawd10.chm158335042
 f1_keywords:
 - vbawd10.chm158335042
-ms.prod: word
 api_name:
 - Word.Application.ActivePrinter
 ms.assetid: 835e350a-e069-e751-a7d7-1e9bb2483b4a

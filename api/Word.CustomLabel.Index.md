@@ -3,7 +3,6 @@ title: CustomLabel.Index property (Word)
 keywords: vbawd10.chm152371201
 f1_keywords:
 - vbawd10.chm152371201
-ms.prod: word
 api_name:
 - Word.CustomLabel.Index
 ms.assetid: 19ce60f6-940a-610d-8687-66ecbc7c4700

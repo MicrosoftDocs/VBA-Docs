@@ -3,7 +3,6 @@ title: Document.Signatures property (Word)
 keywords: vbawd10.chm158007635
 f1_keywords:
 - vbawd10.chm158007635
-ms.prod: word
 api_name:
 - Word.Document.Signatures
 ms.assetid: 2f6cf537-6f7a-9cca-1d2c-39bb581630ad

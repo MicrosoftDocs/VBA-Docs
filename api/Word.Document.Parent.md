@@ -3,7 +3,6 @@ title: Document.Parent property (Word)
 keywords: vbawd10.chm158008298
 f1_keywords:
 - vbawd10.chm158008298
-ms.prod: word
 api_name:
 - Word.Document.Parent
 ms.assetid: f52dc8fc-fd4d-a476-da69-d57f8ad5b9fd

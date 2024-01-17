@@ -1,6 +1,5 @@
 ---
 title: Chart.PlotVisibleOnly property (Word)
-ms.prod: word
 api_name:
 - Word.Chart.PlotVisibleOnly
 ms.assetid: 59b7f58e-a1b2-56cd-89e8-529228d2979c

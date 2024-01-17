@@ -3,7 +3,6 @@ title: Windows.ResetPositionsSideBySide method (Word)
 keywords: vbawd10.chm157351950
 f1_keywords:
 - vbawd10.chm157351950
-ms.prod: word
 api_name:
 - Word.Windows.ResetPositionsSideBySide
 ms.assetid: f9741635-ecc5-77a1-51d6-d48ef42a3ce6

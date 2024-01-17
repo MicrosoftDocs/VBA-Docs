@@ -3,7 +3,6 @@ title: Global.Options property (Word)
 keywords: vbawd10.chm163119197
 f1_keywords:
 - vbawd10.chm163119197
-ms.prod: word
 api_name:
 - Word.Global.Options
 ms.assetid: 1d73dd2d-2fdd-7f12-ce6d-c6b7542d284c

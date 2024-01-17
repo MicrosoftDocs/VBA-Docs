@@ -3,7 +3,6 @@ title: Panes.Item method (Word)
 keywords: vbawd10.chm157220864
 f1_keywords:
 - vbawd10.chm157220864
-ms.prod: word
 api_name:
 - Word.Panes.Item
 ms.assetid: 7e95d748-4b3e-6c97-b7d9-8e1de7ff77e1

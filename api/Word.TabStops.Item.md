@@ -3,7 +3,6 @@ title: TabStops.Item method (Word)
 keywords: vbawd10.chm156565504
 f1_keywords:
 - vbawd10.chm156565504
-ms.prod: word
 api_name:
 - Word.TabStops.Item
 ms.assetid: 25569e1e-ce5b-0e8f-97ab-8424852abeb7

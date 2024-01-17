@@ -3,7 +3,6 @@ title: OMathLimLow.Application property (Word)
 keywords: vbawd10.chm91619428
 f1_keywords:
 - vbawd10.chm91619428
-ms.prod: word
 api_name:
 - Word.OMathLimLow.Application
 ms.assetid: c417c8e1-8166-37da-3723-b15d976ab4b4

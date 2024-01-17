@@ -3,7 +3,6 @@ title: Document.Unprotect method (Word)
 keywords: vbawd10.chm158007417
 f1_keywords:
 - vbawd10.chm158007417
-ms.prod: word
 api_name:
 - Word.Document.Unprotect
 ms.assetid: 04cc2bd3-2af6-de24-bd82-7f489aefdb48

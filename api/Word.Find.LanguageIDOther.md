@@ -3,7 +3,6 @@ title: Find.LanguageIDOther property (Word)
 keywords: vbawd10.chm162529340
 f1_keywords:
 - vbawd10.chm162529340
-ms.prod: word
 api_name:
 - Word.Find.LanguageIDOther
 ms.assetid: b36139ff-2c6d-60c5-aeda-f18525711524

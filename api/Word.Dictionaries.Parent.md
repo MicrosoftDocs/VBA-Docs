@@ -3,7 +3,6 @@ title: Dictionaries.Parent property (Word)
 keywords: vbawd10.chm162268138
 f1_keywords:
 - vbawd10.chm162268138
-ms.prod: word
 api_name:
 - Word.Dictionaries.Parent
 ms.assetid: 5923ad14-128e-e2ad-e9ab-b0f8e7be9009

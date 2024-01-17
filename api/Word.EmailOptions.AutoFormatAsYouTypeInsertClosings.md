@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeInsertClosings property (Word)
 keywords: vbawd10.chm165347631
 f1_keywords:
 - vbawd10.chm165347631
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeInsertClosings
 ms.assetid: f08ab03c-bcc1-0fd2-c752-5476ba641504

@@ -3,7 +3,6 @@ title: InlineShapes.Parent property (Word)
 keywords: vbawd10.chm162071530
 f1_keywords:
 - vbawd10.chm162071530
-ms.prod: word
 api_name:
 - Word.InlineShapes.Parent
 ms.assetid: 2e104b4a-5f57-d9c4-d788-8d81f6d985f7

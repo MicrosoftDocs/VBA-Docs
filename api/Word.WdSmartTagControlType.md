@@ -1,6 +1,5 @@
 ---
 title: WdSmartTagControlType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSmartTagControlType
 ms.assetid: 2abac1ad-8097-0384-8c75-67ffdffab1f2

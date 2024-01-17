@@ -3,7 +3,6 @@ title: Hyperlinks.Parent property (Word)
 keywords: vbawd10.chm161219562
 f1_keywords:
 - vbawd10.chm161219562
-ms.prod: word
 api_name:
 - Word.Hyperlinks.Parent
 ms.assetid: c1a1888c-bf55-63fd-56de-2cee433ac6fd

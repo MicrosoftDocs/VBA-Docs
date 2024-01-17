@@ -3,7 +3,6 @@ title: ShapeRange.GraphicStyle property (Word)
 keywords: vbawd10.chm162857167
 f1_keywords:
 - vbawd10.chm162857167
-ms.prod: word
 api_name:
 - Word.ShapeRange.GraphicStyle
 ms.date: 04/25/2019

@@ -3,7 +3,6 @@ title: Cells.Height property (Word)
 keywords: vbawd10.chm155844615
 f1_keywords:
 - vbawd10.chm155844615
-ms.prod: word
 api_name:
 - Word.Cells.Height
 ms.assetid: 54577b7c-2b68-1054-958a-49dd0fb76978

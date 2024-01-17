@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 keywords: vbawd10.chm165347600
 f1_keywords:
 - vbawd10.chm165347600
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks
 ms.assetid: 902775b4-f89e-f5bd-879b-6dd3fe6f2d06

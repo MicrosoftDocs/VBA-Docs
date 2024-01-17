@@ -3,7 +3,6 @@ title: OLEFormat.ActivateAs method (Word)
 keywords: vbawd10.chm154337391
 f1_keywords:
 - vbawd10.chm154337391
-ms.prod: word
 api_name:
 - Word.OLEFormat.ActivateAs
 ms.assetid: 3db19832-efcf-c392-4e76-82ec297a3d69

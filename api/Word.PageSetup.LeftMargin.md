@@ -3,7 +3,6 @@ title: PageSetup.LeftMargin property (Word)
 keywords: vbawd10.chm158400614
 f1_keywords:
 - vbawd10.chm158400614
-ms.prod: word
 api_name:
 - Word.PageSetup.LeftMargin
 ms.assetid: 873d6cf2-da9f-5d88-314f-9820284a54ee

@@ -3,7 +3,6 @@ title: View.SplitSpecial property (Word)
 keywords: vbawd10.chm161808413
 f1_keywords:
 - vbawd10.chm161808413
-ms.prod: word
 api_name:
 - Word.View.SplitSpecial
 ms.assetid: 5ca301aa-737f-3588-9d53-176990206620

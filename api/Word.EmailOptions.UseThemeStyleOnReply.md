@@ -3,7 +3,6 @@ title: EmailOptions.UseThemeStyleOnReply property (Word)
 keywords: vbawd10.chm165347446
 f1_keywords:
 - vbawd10.chm165347446
-ms.prod: word
 api_name:
 - Word.EmailOptions.UseThemeStyleOnReply
 ms.assetid: 0d194a90-4977-bae3-29dc-2f69a7d40395

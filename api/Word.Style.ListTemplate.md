@@ -3,7 +3,6 @@ title: Style.ListTemplate property (Word)
 keywords: vbawd10.chm153878542
 f1_keywords:
 - vbawd10.chm153878542
-ms.prod: word
 api_name:
 - Word.Style.ListTemplate
 ms.assetid: fb3036e0-3010-0577-c5b3-40246263c4f6

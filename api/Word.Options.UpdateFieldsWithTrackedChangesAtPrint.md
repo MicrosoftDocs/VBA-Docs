@@ -3,7 +3,6 @@ title: Options.UpdateFieldsWithTrackedChangesAtPrint property (Word)
 keywords: vbawd10.chm162988535
 f1_keywords:
 - vbawd10.chm162988535
-ms.prod: word
 api_name:
 - Word.Options.UpdateFieldsWithTrackedChangesAtPrint
 ms.assetid: 84d67450-8fcc-197e-faae-b08d043ce291

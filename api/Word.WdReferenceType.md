@@ -1,6 +1,5 @@
 ---
 title: WdReferenceType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdReferenceType
 ms.assetid: 489c4995-79ba-83e8-5c10-f5863fc11e62

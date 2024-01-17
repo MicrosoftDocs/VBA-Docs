@@ -3,7 +3,6 @@ title: Style.ListLevelNumber property (Word)
 keywords: vbawd10.chm153878543
 f1_keywords:
 - vbawd10.chm153878543
-ms.prod: word
 api_name:
 - Word.Style.ListLevelNumber
 ms.assetid: c237a4ab-71e2-d8e4-21a0-bc7c4c3c892a

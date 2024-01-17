@@ -1,6 +1,5 @@
 ---
 title: Working with tables
-ms.prod: word
 ms.assetid: cf0858b7-6b39-4c90-552e-edb695b5cda3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

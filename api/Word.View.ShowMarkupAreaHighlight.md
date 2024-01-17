@@ -3,7 +3,6 @@ title: View.ShowMarkupAreaHighlight property (Word)
 keywords: vbawd10.chm161808436
 f1_keywords:
 - vbawd10.chm161808436
-ms.prod: word
 api_name:
 - Word.View.ShowMarkupAreaHighlight
 ms.assetid: 3d7eebe1-688b-d359-7930-a5b2a908b19d

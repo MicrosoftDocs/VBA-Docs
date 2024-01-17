@@ -3,7 +3,6 @@ title: Task.Visible property (Word)
 keywords: vbawd10.chm159514630
 f1_keywords:
 - vbawd10.chm159514630
-ms.prod: word
 api_name:
 - Word.Task.Visible
 ms.assetid: cc1bb50d-c49d-9230-83ad-940c53c89220

@@ -3,7 +3,6 @@ title: Revisions.Parent property (Word)
 keywords: vbawd10.chm159384554
 f1_keywords:
 - vbawd10.chm159384554
-ms.prod: word
 api_name:
 - Word.Revisions.Parent
 ms.assetid: 88f0c775-cf48-4cbd-4d94-6d57771f26a0

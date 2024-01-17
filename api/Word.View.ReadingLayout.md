@@ -3,7 +3,6 @@ title: View.ReadingLayout property (Word)
 keywords: vbawd10.chm161808429
 f1_keywords:
 - vbawd10.chm161808429
-ms.prod: word
 api_name:
 - Word.View.ReadingLayout
 ms.assetid: e53d6913-0c2c-2933-384a-31b1e8ab4986

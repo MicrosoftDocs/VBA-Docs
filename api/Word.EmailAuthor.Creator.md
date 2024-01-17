@@ -3,7 +3,6 @@ title: EmailAuthor.Creator property (Word)
 keywords: vbawd10.chm165086185
 f1_keywords:
 - vbawd10.chm165086185
-ms.prod: word
 api_name:
 - Word.EmailAuthor.Creator
 ms.assetid: d7c6eeff-91be-404f-789d-77134ceeedc7

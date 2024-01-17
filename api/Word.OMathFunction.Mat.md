@@ -3,7 +3,6 @@ title: OMathFunction.Mat property (Word)
 keywords: vbawd10.chm22151284
 f1_keywords:
 - vbawd10.chm22151284
-ms.prod: word
 api_name:
 - Word.OMathFunction.Mat
 ms.assetid: 8e877fa4-014c-14b7-eb05-b57d28c8da66

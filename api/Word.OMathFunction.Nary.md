@@ -3,7 +3,6 @@ title: OMathFunction.Nary property (Word)
 keywords: vbawd10.chm22151285
 f1_keywords:
 - vbawd10.chm22151285
-ms.prod: word
 api_name:
 - Word.OMathFunction.Nary
 ms.assetid: 35347f53-9004-59db-affe-cdd6b85435e9

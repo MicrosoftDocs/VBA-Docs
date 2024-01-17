@@ -3,7 +3,6 @@ title: UndoRecord.StartCustomRecord method (Word)
 keywords: vbawd10.chm56098817
 f1_keywords:
 - vbawd10.chm56098817
-ms.prod: word
 api_name:
 - Word.UndoRecord.StartCustomRecord
 ms.assetid: cd8d4337-4bbc-1943-6e0a-bc764861e886

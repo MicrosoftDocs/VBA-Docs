@@ -3,7 +3,6 @@ title: Subdocuments.Expanded property (Word)
 keywords: vbawd10.chm159907842
 f1_keywords:
 - vbawd10.chm159907842
-ms.prod: word
 api_name:
 - Word.Subdocuments.Expanded
 ms.assetid: 99879e46-d762-64e8-fa07-c88f3dceb3eb

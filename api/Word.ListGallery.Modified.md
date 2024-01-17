@@ -3,7 +3,6 @@ title: ListGallery.Modified property (Word)
 keywords: vbawd10.chm160694373
 f1_keywords:
 - vbawd10.chm160694373
-ms.prod: word
 api_name:
 - Word.ListGallery.Modified
 ms.assetid: c5acfd0e-5a6f-237e-0a9e-962525fd17d2

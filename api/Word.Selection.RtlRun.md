@@ -3,7 +3,6 @@ title: Selection.RtlRun method (Word)
 keywords: vbawd10.chm158663256
 f1_keywords:
 - vbawd10.chm158663256
-ms.prod: word
 api_name:
 - Word.Selection.RtlRun
 ms.assetid: 759a16cd-24d7-7c0a-6315-47d395560c73

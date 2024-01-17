@@ -3,7 +3,6 @@ title: Selection.HasChildShapeRange property (Word)
 keywords: vbawd10.chm158663678
 f1_keywords:
 - vbawd10.chm158663678
-ms.prod: word
 api_name:
 - Word.Selection.HasChildShapeRange
 ms.assetid: 1917754f-6080-8303-533e-b62607b87d41

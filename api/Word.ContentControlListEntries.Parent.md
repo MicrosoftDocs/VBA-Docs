@@ -3,7 +3,6 @@ title: ContentControlListEntries.Parent property (Word)
 keywords: vbawd10.chm230948966
 f1_keywords:
 - vbawd10.chm230948966
-ms.prod: word
 api_name:
 - Word.ContentControlListEntries.Parent
 ms.assetid: 834ec3ec-bde9-15fd-52d5-a82b873131b3

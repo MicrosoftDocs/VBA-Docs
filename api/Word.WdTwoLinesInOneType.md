@@ -1,6 +1,5 @@
 ---
 title: WdTwoLinesInOneType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTwoLinesInOneType
 ms.assetid: 7b7fa2ba-53f8-488e-65fd-b94bc8cde683

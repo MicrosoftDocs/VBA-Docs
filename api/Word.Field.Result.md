@@ -3,7 +3,6 @@ title: Field.Result property (Word)
 keywords: vbawd10.chm154075140
 f1_keywords:
 - vbawd10.chm154075140
-ms.prod: word
 api_name:
 - Word.Field.Result
 ms.assetid: 97b754cf-6598-63d4-5314-c1bbfacc76ab

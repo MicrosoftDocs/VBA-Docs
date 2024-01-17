@@ -3,7 +3,6 @@ title: Envelope.Address property (Word)
 keywords: vbawd10.chm152567809
 f1_keywords:
 - vbawd10.chm152567809
-ms.prod: word
 api_name:
 - Word.Envelope.Address
 ms.assetid: 01d6d211-a4f1-c3cd-470c-f49d6bb22fe6

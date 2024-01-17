@@ -3,7 +3,6 @@ title: DisplayUnitLabel.VerticalAlignment property (Word)
 keywords: vbawd10.chm94568464
 f1_keywords:
 - vbawd10.chm94568464
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.VerticalAlignment
 ms.assetid: 02994453-289b-f596-3b4a-176935df919e

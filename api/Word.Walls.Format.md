@@ -3,7 +3,6 @@ title: Walls.Format property (Word)
 keywords: vbawd10.chm25165838
 f1_keywords:
 - vbawd10.chm25165838
-ms.prod: word
 api_name:
 - Word.Walls.Format
 ms.assetid: 7575663e-005d-a564-7802-fc0a421a9465

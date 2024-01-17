@@ -3,7 +3,6 @@ title: Axis.MinorGridlines property (Word)
 keywords: vbawd10.chm113049636
 f1_keywords:
 - vbawd10.chm113049636
-ms.prod: word
 api_name:
 - Word.Axis.MinorGridlines
 ms.assetid: b234c5ca-0381-6834-b2f9-fae3048a2fbf

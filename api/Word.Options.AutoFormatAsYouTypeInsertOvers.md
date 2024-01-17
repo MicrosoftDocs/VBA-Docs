@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeInsertOvers property (Word)
 keywords: vbawd10.chm162988337
 f1_keywords:
 - vbawd10.chm162988337
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeInsertOvers
 ms.assetid: e79cd972-85c3-aa9a-abab-a92ceb171213

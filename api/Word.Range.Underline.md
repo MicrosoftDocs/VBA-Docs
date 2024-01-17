@@ -3,7 +3,6 @@ title: Range.Underline property (Word)
 keywords: vbawd10.chm157155467
 f1_keywords:
 - vbawd10.chm157155467
-ms.prod: word
 api_name:
 - Word.Range.Underline
 ms.assetid: 8221338d-3da6-b1ae-c424-87f762b61bd7

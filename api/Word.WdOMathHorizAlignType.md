@@ -1,6 +1,5 @@
 ---
 title: WdOMathHorizAlignType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOMathHorizAlignType
 ms.assetid: 7e816f1a-74de-2c9f-6a0d-6914863c7d86

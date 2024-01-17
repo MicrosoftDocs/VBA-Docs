@@ -3,7 +3,6 @@ title: Index.Delete method (Word)
 keywords: vbawd10.chm159187044
 f1_keywords:
 - vbawd10.chm159187044
-ms.prod: word
 api_name:
 - Word.Index.Delete
 ms.assetid: 0a9f7da0-0564-30ff-1964-c2c12f266b0f

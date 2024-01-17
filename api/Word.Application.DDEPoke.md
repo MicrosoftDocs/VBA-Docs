@@ -3,7 +3,6 @@ title: Application.DDEPoke method (Word)
 keywords: vbawd10.chm158335288
 f1_keywords:
 - vbawd10.chm158335288
-ms.prod: word
 api_name:
 - Word.Application.DDEPoke
 ms.assetid: b782fc34-551f-288f-e087-5429f7ee7814

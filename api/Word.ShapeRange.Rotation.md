@@ -3,7 +3,6 @@ title: ShapeRange.Rotation property (Word)
 keywords: vbawd10.chm162857077
 f1_keywords:
 - vbawd10.chm162857077
-ms.prod: word
 api_name:
 - Word.ShapeRange.Rotation
 ms.assetid: c1f28cd0-265c-7d52-e81d-6f242d29779e

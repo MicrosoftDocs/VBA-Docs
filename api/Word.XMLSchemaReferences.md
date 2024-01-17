@@ -3,7 +3,6 @@ title: XMLSchemaReferences object (Word)
 keywords: vbawd10.chm1772
 f1_keywords:
 - vbawd10.chm1772
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences
 ms.assetid: 56bef973-805c-c77a-6d2a-54a39fbd1206

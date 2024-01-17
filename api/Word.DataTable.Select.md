@@ -3,7 +3,6 @@ title: DataTable.Select method (Word)
 keywords: vbawd10.chm46399498
 f1_keywords:
 - vbawd10.chm46399498
-ms.prod: word
 api_name:
 - Word.DataTable.Select
 ms.assetid: 9ee05cd8-401b-3d9f-7576-b88bbfe6498b

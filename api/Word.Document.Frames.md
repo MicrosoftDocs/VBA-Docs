@@ -3,7 +3,6 @@ title: Document.Frames property (Word)
 keywords: vbawd10.chm158007319
 f1_keywords:
 - vbawd10.chm158007319
-ms.prod: word
 api_name:
 - Word.Document.Frames
 ms.assetid: 61b7d5dc-6ab4-d29c-6c6e-daac6a2431ed

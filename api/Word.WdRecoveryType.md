@@ -1,6 +1,5 @@
 ---
 title: WdRecoveryType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRecoveryType
 ms.assetid: 031525aa-6df9-2b28-8507-fa3c869beba8

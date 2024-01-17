@@ -3,7 +3,6 @@ title: Column.Delete method (Word)
 keywords: vbawd10.chm156172488
 f1_keywords:
 - vbawd10.chm156172488
-ms.prod: word
 api_name:
 - Word.Column.Delete
 ms.assetid: 1e1e874c-3fbe-77c1-22fd-5cc27c12f9a7

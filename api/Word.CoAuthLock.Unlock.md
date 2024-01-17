@@ -3,7 +3,6 @@ title: CoAuthLock.Unlock method (Word)
 keywords: vbawd10.chm260046854
 f1_keywords:
 - vbawd10.chm260046854
-ms.prod: word
 api_name:
 - Word.CoAuthLock.Unlock
 ms.assetid: 7f64431b-8b1b-60b3-142c-5251dce1a8a1

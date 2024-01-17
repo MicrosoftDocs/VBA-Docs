@@ -3,7 +3,6 @@ title: TaskPane.Creator property (Word)
 keywords: vbawd10.chm81921001
 f1_keywords:
 - vbawd10.chm81921001
-ms.prod: word
 api_name:
 - Word.TaskPane.Creator
 ms.assetid: b83d57c4-8300-4906-c69a-322d69f6c01e

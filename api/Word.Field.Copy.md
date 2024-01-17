@@ -3,7 +3,6 @@ title: Field.Copy method (Word)
 keywords: vbawd10.chm154075241
 f1_keywords:
 - vbawd10.chm154075241
-ms.prod: word
 api_name:
 - Word.Field.Copy
 ms.assetid: 8e897929-051d-deeb-9294-6afc5284542b

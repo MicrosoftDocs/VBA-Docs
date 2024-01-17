@@ -3,7 +3,6 @@ title: OMath.BuildUp method (Word)
 keywords: vbawd10.chm176357577
 f1_keywords:
 - vbawd10.chm176357577
-ms.prod: word
 api_name:
 - Word.OMath.BuildUp
 ms.assetid: 70b72433-6400-eb97-7e0d-427495ac746a

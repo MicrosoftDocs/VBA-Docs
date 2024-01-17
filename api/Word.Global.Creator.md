@@ -3,7 +3,6 @@ title: Global.Creator property (Word)
 keywords: vbawd10.chm163120105
 f1_keywords:
 - vbawd10.chm163120105
-ms.prod: word
 api_name:
 - Word.Global.Creator
 ms.assetid: dc5a4706-1610-e186-6139-4018fdee654f

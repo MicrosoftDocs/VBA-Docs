@@ -3,7 +3,6 @@ title: Document.Fields property (Word)
 keywords: vbawd10.chm158007316
 f1_keywords:
 - vbawd10.chm158007316
-ms.prod: word
 api_name:
 - Word.Document.Fields
 ms.assetid: 78707979-5d25-0168-2dba-ce88a2b26f9d

@@ -3,7 +3,6 @@ title: LegendEntry.Height property (Word)
 keywords: vbawd10.chm4784251
 f1_keywords:
 - vbawd10.chm4784251
-ms.prod: word
 api_name:
 - Word.LegendEntry.Height
 ms.assetid: 734c6546-9d23-3836-abce-659bc72fa2e0

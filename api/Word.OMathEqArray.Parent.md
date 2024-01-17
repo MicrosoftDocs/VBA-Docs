@@ -3,7 +3,6 @@ title: OMathEqArray.Parent property (Word)
 keywords: vbawd10.chm174129254
 f1_keywords:
 - vbawd10.chm174129254
-ms.prod: word
 api_name:
 - Word.OMathEqArray.Parent
 ms.assetid: 6ab91b28-32fd-38ee-4105-af2082b1680f

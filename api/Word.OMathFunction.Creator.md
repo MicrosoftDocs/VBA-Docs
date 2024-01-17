@@ -3,7 +3,6 @@ title: OMathFunction.Creator property (Word)
 keywords: vbawd10.chm22151269
 f1_keywords:
 - vbawd10.chm22151269
-ms.prod: word
 api_name:
 - Word.OMathFunction.Creator
 ms.assetid: bdf1a3d3-7aad-25ad-7407-b051d7b765c6

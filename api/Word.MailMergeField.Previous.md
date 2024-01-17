@@ -3,7 +3,6 @@ title: MailMergeField.Previous property (Word)
 keywords: vbawd10.chm152961033
 f1_keywords:
 - vbawd10.chm152961033
-ms.prod: word
 api_name:
 - Word.MailMergeField.Previous
 ms.assetid: d34e96d1-9240-6dcf-7c7e-94490d2a1827

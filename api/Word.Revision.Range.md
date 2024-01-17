@@ -3,7 +3,6 @@ title: Revision.Range property (Word)
 keywords: vbawd10.chm159449091
 f1_keywords:
 - vbawd10.chm159449091
-ms.prod: word
 api_name:
 - Word.Revision.Range
 ms.assetid: 7fc7d623-1f20-1934-33c1-9d1e75056b3d

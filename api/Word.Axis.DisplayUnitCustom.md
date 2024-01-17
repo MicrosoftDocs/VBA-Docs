@@ -3,7 +3,6 @@ title: Axis.DisplayUnitCustom property (Word)
 keywords: vbawd10.chm113049673
 f1_keywords:
 - vbawd10.chm113049673
-ms.prod: word
 api_name:
 - Word.Axis.DisplayUnitCustom
 ms.assetid: 578e195b-9e45-1265-b20e-8de6a8233272

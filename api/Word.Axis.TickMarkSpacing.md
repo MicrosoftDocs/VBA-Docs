@@ -3,7 +3,6 @@ title: Axis.TickMarkSpacing property (Word)
 keywords: vbawd10.chm113049653
 f1_keywords:
 - vbawd10.chm113049653
-ms.prod: word
 api_name:
 - Word.Axis.TickMarkSpacing
 ms.assetid: 926ae9ad-0c5a-c61a-55fb-1503a2edf593

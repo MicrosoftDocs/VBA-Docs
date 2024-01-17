@@ -3,7 +3,6 @@ title: ProtectedViewWindows.Open method (Word)
 keywords: vbawd10.chm82313218
 f1_keywords:
 - vbawd10.chm82313218
-ms.prod: word
 api_name:
 - Word.ProtectedViewWindows.Open
 ms.assetid: 38a11e87-bc8e-4a3b-3b0d-aa51eef941b5

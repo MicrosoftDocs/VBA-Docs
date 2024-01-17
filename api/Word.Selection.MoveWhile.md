@@ -3,7 +3,6 @@ title: Selection.MoveWhile method (Word)
 keywords: vbawd10.chm158662768
 f1_keywords:
 - vbawd10.chm158662768
-ms.prod: word
 api_name:
 - Word.Selection.MoveWhile
 ms.assetid: ba35991c-2ae3-e78f-7538-c102149cf392

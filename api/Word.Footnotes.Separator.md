@@ -3,7 +3,6 @@ title: Footnotes.Separator property (Word)
 keywords: vbawd10.chm155320424
 f1_keywords:
 - vbawd10.chm155320424
-ms.prod: word
 api_name:
 - Word.Footnotes.Separator
 ms.assetid: 7905cf40-2a04-447e-9cb1-ffdd5fc43bd8

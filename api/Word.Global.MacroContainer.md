@@ -3,7 +3,6 @@ title: Global.MacroContainer property (Word)
 keywords: vbawd10.chm163119159
 f1_keywords:
 - vbawd10.chm163119159
-ms.prod: word
 api_name:
 - Word.Global.MacroContainer
 ms.assetid: 9718527c-eebd-4d62-f753-da449034b404

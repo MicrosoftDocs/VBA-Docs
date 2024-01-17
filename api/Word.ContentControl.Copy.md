@@ -3,7 +3,6 @@ title: ContentControl.Copy method (Word)
 keywords: vbawd10.chm266534918
 f1_keywords:
 - vbawd10.chm266534918
-ms.prod: word
 api_name:
 - Word.ContentControl.Copy
 ms.assetid: ce3ba4ce-aef7-cb7d-ec7b-a160155a939d

@@ -3,7 +3,6 @@ title: Range.LanguageID property (Word)
 keywords: vbawd10.chm157155481
 f1_keywords:
 - vbawd10.chm157155481
-ms.prod: word
 api_name:
 - Word.Range.LanguageID
 ms.assetid: dc163c7b-8a44-4b8a-5674-845984f1b682

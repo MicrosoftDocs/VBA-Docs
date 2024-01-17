@@ -3,7 +3,6 @@ title: InlineShape.Field property (Word)
 keywords: vbawd10.chm162004996
 f1_keywords:
 - vbawd10.chm162004996
-ms.prod: word
 api_name:
 - Word.InlineShape.Field
 ms.assetid: cc74cfc7-5182-1447-208b-1e6166ffc915

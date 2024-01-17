@@ -3,7 +3,6 @@ title: Cell object (Word)
 keywords: vbawd10.chm2382
 f1_keywords:
 - vbawd10.chm2382
-ms.prod: word
 api_name:
 - Word.Cell
 ms.assetid: cbe6ae71-b2da-63a9-1446-0a2f81ab8b14

@@ -3,7 +3,6 @@ title: Options.EnableProofingToolsAdvertisement property (Word)
 keywords: vbawd10.chm162988543
 f1_keywords:
 - vbawd10.chm162988543
-ms.prod: word
 ms.assetid: e2650945-d531-dd2b-38cb-b135f153dfcf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

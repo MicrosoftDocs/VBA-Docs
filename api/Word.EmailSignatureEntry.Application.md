@@ -3,7 +3,6 @@ title: EmailSignatureEntry.Application property (Word)
 keywords: vbawd10.chm166069224
 f1_keywords:
 - vbawd10.chm166069224
-ms.prod: word
 api_name:
 - Word.EmailSignatureEntry.Application
 ms.assetid: 96ce2b72-7acd-0a8d-e7af-5002e86cd203

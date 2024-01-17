@@ -3,7 +3,6 @@ title: LegendEntry.Index property (Word)
 keywords: vbawd10.chm4784614
 f1_keywords:
 - vbawd10.chm4784614
-ms.prod: word
 api_name:
 - Word.LegendEntry.Index
 ms.assetid: 741e698e-94b6-4c6a-63b1-04f4f1407d12

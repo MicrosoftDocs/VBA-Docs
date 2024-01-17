@@ -3,7 +3,6 @@ title: PictureFormat.Creator property (Word)
 keywords: vbawd10.chm164299753
 f1_keywords:
 - vbawd10.chm164299753
-ms.prod: word
 api_name:
 - Word.PictureFormat.Creator
 ms.assetid: c0b9a417-e2f8-6af7-d365-d579e7bf6f60

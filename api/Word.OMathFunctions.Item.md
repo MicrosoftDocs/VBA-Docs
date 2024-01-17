@@ -3,7 +3,6 @@ title: OMathFunctions.Item method (Word)
 keywords: vbawd10.chm44302336
 f1_keywords:
 - vbawd10.chm44302336
-ms.prod: word
 api_name:
 - Word.OMathFunctions.Item
 ms.assetid: 5c3f7269-0de6-20fd-66d8-4fc23a1fa9d0

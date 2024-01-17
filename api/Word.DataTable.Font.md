@@ -3,7 +3,6 @@ title: DataTable.Font property (Word)
 keywords: vbawd10.chm46399497
 f1_keywords:
 - vbawd10.chm46399497
-ms.prod: word
 api_name:
 - Word.DataTable.Font
 ms.assetid: 48989ae7-392a-6013-96af-51db91cc775f

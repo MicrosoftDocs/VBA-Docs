@@ -3,7 +3,6 @@ title: FormField object (Word)
 keywords: vbawd10.chm2344
 f1_keywords:
 - vbawd10.chm2344
-ms.prod: word
 api_name:
 - Word.FormField
 ms.assetid: c3c07344-06b2-fe86-6fcb-b9c63a991bcc

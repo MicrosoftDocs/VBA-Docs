@@ -3,7 +3,6 @@ title: Row.Previous property (Word)
 keywords: vbawd10.chm156237929
 f1_keywords:
 - vbawd10.chm156237929
-ms.prod: word
 api_name:
 - Word.Row.Previous
 ms.assetid: 2f58f33e-f3da-613a-dbeb-370d35ff865b

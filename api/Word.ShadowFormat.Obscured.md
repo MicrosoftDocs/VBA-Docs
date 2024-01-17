@@ -3,7 +3,6 @@ title: ShadowFormat.Obscured property (Word)
 keywords: vbawd10.chm164364389
 f1_keywords:
 - vbawd10.chm164364389
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Obscured
 ms.assetid: 2746b925-a4f1-b5a6-04e5-7380ad79e20a

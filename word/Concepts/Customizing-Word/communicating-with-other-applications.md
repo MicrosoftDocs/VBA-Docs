@@ -3,7 +3,6 @@ title: Communicating with Other Applications
 keywords: vbawd10.chm5210293
 f1_keywords:
 - vbawd10.chm5210293
-ms.prod: word
 ms.assetid: c54b9e38-941f-e861-ff94-3a29490ae56e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

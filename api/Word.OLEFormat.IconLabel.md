@@ -3,7 +3,6 @@ title: OLEFormat.IconLabel property (Word)
 keywords: vbawd10.chm154337290
 f1_keywords:
 - vbawd10.chm154337290
-ms.prod: word
 api_name:
 - Word.OLEFormat.IconLabel
 ms.assetid: 8cf2aaf3-0ce0-80b4-a5ad-2561f1af4457

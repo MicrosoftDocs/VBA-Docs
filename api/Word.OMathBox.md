@@ -3,7 +3,6 @@ title: OMathBox object (Word)
 keywords: vbawd10.chm2046
 f1_keywords:
 - vbawd10.chm2046
-ms.prod: word
 api_name:
 - Word.OMathBox
 ms.assetid: e744ed0f-99de-f13f-766d-5453fb61ed48

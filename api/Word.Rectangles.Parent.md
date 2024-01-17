@@ -1,6 +1,5 @@
 ---
 title: Rectangles.Parent property (Word)
-ms.prod: word
 api_name:
 - Word.Rectangles.Parent
 ms.assetid: 32fa26e3-4418-c542-4737-3fd3e78e31a6

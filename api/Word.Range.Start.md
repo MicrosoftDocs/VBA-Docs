@@ -3,7 +3,6 @@ title: Range.Start property (Word)
 keywords: vbawd10.chm157155331
 f1_keywords:
 - vbawd10.chm157155331
-ms.prod: word
 api_name:
 - Word.Range.Start
 ms.assetid: aadedbb7-1ee2-9e5a-296d-0ebe25b6d8f4

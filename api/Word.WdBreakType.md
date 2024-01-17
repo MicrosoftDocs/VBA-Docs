@@ -1,6 +1,5 @@
 ---
 title: WdBreakType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdBreakType
 ms.assetid: 537782ce-c41a-b849-4f7b-2b70b0ac1700

@@ -3,7 +3,6 @@ title: SeriesLines.Format property (Word)
 keywords: vbawd10.chm202702853
 f1_keywords:
 - vbawd10.chm202702853
-ms.prod: word
 api_name:
 - Word.SeriesLines.Format
 ms.assetid: dac5d59d-9420-ded8-72b6-5a0dd2a81c10

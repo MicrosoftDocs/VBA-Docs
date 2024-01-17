@@ -3,7 +3,6 @@ title: Options.DefaultFilePath property (Word)
 keywords: vbawd10.chm162988097
 f1_keywords:
 - vbawd10.chm162988097
-ms.prod: word
 api_name:
 - Word.Options.DefaultFilePath
 ms.assetid: 39c90157-1824-55ee-c7e1-3687f132131f

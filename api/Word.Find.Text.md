@@ -3,7 +3,6 @@ title: Find.Text property (Word)
 keywords: vbawd10.chm162529302
 f1_keywords:
 - vbawd10.chm162529302
-ms.prod: word
 api_name:
 - Word.Find.Text
 ms.assetid: d92917aa-32f7-e9cc-bb74-03f7ed17498a

@@ -3,7 +3,6 @@ title: Dialog.CommandBarId property (Word)
 keywords: vbawd10.chm163085575
 f1_keywords:
 - vbawd10.chm163085575
-ms.prod: word
 api_name:
 - Word.Dialog.CommandBarId
 ms.assetid: 4f9c46f5-6771-516d-9a6e-1e33563f4254

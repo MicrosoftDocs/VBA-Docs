@@ -3,7 +3,6 @@ title: Task.Height property (Word)
 keywords: vbawd10.chm159514628
 f1_keywords:
 - vbawd10.chm159514628
-ms.prod: word
 api_name:
 - Word.Task.Height
 ms.assetid: 3bd75408-df17-ada3-a7cf-d8ca21978e69

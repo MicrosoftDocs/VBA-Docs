@@ -3,7 +3,6 @@ title: Font.DisableCharacterSpaceGrid property (Word)
 keywords: vbawd10.chm156369051
 f1_keywords:
 - vbawd10.chm156369051
-ms.prod: word
 api_name:
 - Word.Font.DisableCharacterSpaceGrid
 ms.assetid: b608a477-03a2-c1e0-eaa0-841a12665865

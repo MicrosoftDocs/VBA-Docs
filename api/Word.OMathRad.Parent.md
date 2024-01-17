@@ -3,7 +3,6 @@ title: OMathRad.Parent property (Word)
 keywords: vbawd10.chm247791718
 f1_keywords:
 - vbawd10.chm247791718
-ms.prod: word
 api_name:
 - Word.OMathRad.Parent
 ms.assetid: f71ebd66-90df-c708-09ef-5c80bc988d25

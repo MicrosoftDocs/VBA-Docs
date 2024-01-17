@@ -3,7 +3,6 @@ title: Selection.ReadingModeGrowFont method (Word)
 keywords: vbawd10.chm158663693
 f1_keywords:
 - vbawd10.chm158663693
-ms.prod: word
 api_name:
 - Word.Selection.ReadingModeGrowFont
 ms.assetid: 5a23b50e-073f-1cbd-e1df-6ee846cb1ecf

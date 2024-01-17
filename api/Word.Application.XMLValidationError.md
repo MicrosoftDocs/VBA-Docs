@@ -3,7 +3,6 @@ title: Application.XMLValidationError event (Word)
 keywords: vbawd10.chm4000026
 f1_keywords:
 - vbawd10.chm4000026
-ms.prod: word
 api_name:
 - Word.Application.XMLValidationError
 ms.assetid: bb75a555-fb5e-fb7b-f152-4c6436ecb1c7

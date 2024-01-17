@@ -3,7 +3,6 @@ title: Adjustments.Item property (Word)
 keywords: vbawd10.chm163840000
 f1_keywords:
 - vbawd10.chm163840000
-ms.prod: word
 api_name:
 - Word.Adjustments.Item
 ms.assetid: 10628688-e927-df50-a16a-e25878676c82

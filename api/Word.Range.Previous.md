@@ -3,7 +3,6 @@ title: Range.Previous method (Word)
 keywords: vbawd10.chm157155434
 f1_keywords:
 - vbawd10.chm157155434
-ms.prod: word
 api_name:
 - Word.Range.Previous
 ms.assetid: ee1135ec-6f88-ec52-c3cc-0fb8183ac4cd

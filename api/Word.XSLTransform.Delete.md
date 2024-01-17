@@ -3,7 +3,6 @@ title: XSLTransform.Delete method (Word)
 keywords: vbawd10.chm76742757
 f1_keywords:
 - vbawd10.chm76742757
-ms.prod: word
 api_name:
 - Word.XSLTransform.Delete
 ms.assetid: 258a1ee9-8cf8-13fb-599c-00d228a8499c

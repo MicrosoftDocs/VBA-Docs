@@ -3,7 +3,6 @@ title: BuildingBlockEntries.Application property (Word)
 keywords: vbawd10.chm36242408
 f1_keywords:
 - vbawd10.chm36242408
-ms.prod: word
 api_name:
 - Word.BuildingBlockEntries.Application
 ms.assetid: f11fcafb-c75a-f941-ee89-49f8fc422848

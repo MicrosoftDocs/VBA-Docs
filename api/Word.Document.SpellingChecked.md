@@ -3,7 +3,6 @@ title: Document.SpellingChecked property (Word)
 keywords: vbawd10.chm158007367
 f1_keywords:
 - vbawd10.chm158007367
-ms.prod: word
 api_name:
 - Word.Document.SpellingChecked
 ms.assetid: 053f8fbd-30cd-038f-e36f-d55fdd26fe13

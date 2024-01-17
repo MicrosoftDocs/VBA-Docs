@@ -3,7 +3,6 @@ title: Series.IsFiltered property (Word)
 keywords: vbawd10.chm123734855
 f1_keywords:
 - vbawd10.chm123734855
-ms.prod: word
 ms.assetid: 16dbe2f6-7dd7-4805-4056-f8974112f2a7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

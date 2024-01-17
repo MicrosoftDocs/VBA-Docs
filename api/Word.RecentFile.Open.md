@@ -3,7 +3,6 @@ title: RecentFile.Open method (Word)
 keywords: vbawd10.chm157548548
 f1_keywords:
 - vbawd10.chm157548548
-ms.prod: word
 api_name:
 - Word.RecentFile.Open
 ms.assetid: bdcc49b7-3511-d625-be46-72dc26a927d0

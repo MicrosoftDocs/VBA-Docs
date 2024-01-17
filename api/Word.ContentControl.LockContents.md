@@ -3,7 +3,6 @@ title: ContentControl.LockContents property (Word)
 keywords: vbawd10.chm266534915
 f1_keywords:
 - vbawd10.chm266534915
-ms.prod: word
 api_name:
 - Word.ContentControl.LockContents
 ms.assetid: 8d4a68dc-01c8-0f0f-5adf-7b53b4fe3ffc

@@ -3,7 +3,6 @@ title: Range.Style property (Word)
 keywords: vbawd10.chm157155479
 f1_keywords:
 - vbawd10.chm157155479
-ms.prod: word
 api_name:
 - Word.Range.Style
 ms.assetid: aeceef42-cbdc-3d55-2f43-0afffd933cc2

@@ -3,7 +3,6 @@ title: SeriesLines.Delete method (Word)
 keywords: vbawd10.chm202702965
 f1_keywords:
 - vbawd10.chm202702965
-ms.prod: word
 api_name:
 - Word.SeriesLines.Delete
 ms.assetid: e72eb5fa-4a70-1caa-5697-4d51b0a44537

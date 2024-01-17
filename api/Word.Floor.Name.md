@@ -3,7 +3,6 @@ title: Floor.Name property (Word)
 keywords: vbawd10.chm46006382
 f1_keywords:
 - vbawd10.chm46006382
-ms.prod: word
 api_name:
 - Word.Floor.Name
 ms.assetid: 131894e2-2c59-c25c-ba67-a368b329255b

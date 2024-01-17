@@ -3,7 +3,6 @@ title: MailMerge.EditDataSource method (Word)
 keywords: vbawd10.chm153092203
 f1_keywords:
 - vbawd10.chm153092203
-ms.prod: word
 api_name:
 - Word.MailMerge.EditDataSource
 ms.assetid: 2d1c681e-b8de-4692-288c-7a5b9f501288

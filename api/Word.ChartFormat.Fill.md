@@ -3,7 +3,6 @@ title: ChartFormat.Fill property (Word)
 keywords: vbawd10.chm203030528
 f1_keywords:
 - vbawd10.chm203030528
-ms.prod: word
 api_name:
 - Word.ChartFormat.Fill
 ms.assetid: 08c52c0a-93d0-1dda-8b12-cb34c030988e

@@ -3,7 +3,6 @@ title: TablesOfContents.Parent property (Word)
 keywords: vbawd10.chm152306666
 f1_keywords:
 - vbawd10.chm152306666
-ms.prod: word
 api_name:
 - Word.TablesOfContents.Parent
 ms.assetid: fa32e8cf-bee3-a323-7c64-e89f3a61ed17

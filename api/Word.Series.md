@@ -3,7 +3,6 @@ title: Series object (Word)
 keywords: vbawd10.chm1888
 f1_keywords:
 - vbawd10.chm1888
-ms.prod: word
 api_name:
 - Word.Series
 ms.assetid: 212c323f-8acb-2ba7-1359-ab0f43268e77

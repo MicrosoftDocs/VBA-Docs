@@ -3,7 +3,6 @@ title: OMathBar.Application property (Word)
 keywords: vbawd10.chm99680356
 f1_keywords:
 - vbawd10.chm99680356
-ms.prod: word
 api_name:
 - Word.OMathBar.Application
 ms.assetid: 1b551d5b-7db3-0a69-d426-06d742244e8d

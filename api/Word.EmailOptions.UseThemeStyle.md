@@ -3,7 +3,6 @@ title: EmailOptions.UseThemeStyle property (Word)
 keywords: vbawd10.chm165347431
 f1_keywords:
 - vbawd10.chm165347431
-ms.prod: word
 api_name:
 - Word.EmailOptions.UseThemeStyle
 ms.assetid: e34f27c6-4222-aa9a-dfbc-40c7c5c55a67

@@ -3,7 +3,6 @@ title: CalloutFormat.Parent property (Word)
 keywords: vbawd10.chm163905537
 f1_keywords:
 - vbawd10.chm163905537
-ms.prod: word
 api_name:
 - Word.CalloutFormat.Parent
 ms.assetid: 179a8215-a10c-3a76-3a16-5d6c2a9bd18c

@@ -3,7 +3,6 @@ title: Columns.Borders property (Word)
 keywords: vbawd10.chm155911244
 f1_keywords:
 - vbawd10.chm155911244
-ms.prod: word
 api_name:
 - Word.Columns.Borders
 ms.assetid: 2c6a6d97-f4c2-f4dd-4a97-026926cb1170

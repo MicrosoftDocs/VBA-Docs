@@ -3,7 +3,6 @@ title: Document.Container property (Word)
 keywords: vbawd10.chm158007378
 f1_keywords:
 - vbawd10.chm158007378
-ms.prod: word
 api_name:
 - Word.Document.Container
 ms.assetid: f2a0ebbe-98dc-dfc4-5879-da2b79e75b7d

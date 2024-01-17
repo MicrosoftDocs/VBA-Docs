@@ -3,7 +3,6 @@ title: XMLNode.ValidationErrorText property (Word)
 keywords: vbawd10.chm37748760
 f1_keywords:
 - vbawd10.chm37748760
-ms.prod: word
 api_name:
 - Word.XMLNode.ValidationErrorText
 ms.assetid: 85816e71-2629-0f5c-3775-e42f7fb7f9a5

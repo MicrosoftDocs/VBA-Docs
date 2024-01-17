@@ -3,7 +3,6 @@ title: Bookmarks.Exists method (Word)
 keywords: vbawd10.chm157745158
 f1_keywords:
 - vbawd10.chm157745158
-ms.prod: word
 api_name:
 - Word.Bookmarks.Exists
 ms.assetid: 7a9df80d-1a52-022f-f234-336369b73fca

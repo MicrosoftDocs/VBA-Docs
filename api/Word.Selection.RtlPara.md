@@ -3,7 +3,6 @@ title: Selection.RtlPara method (Word)
 keywords: vbawd10.chm158663261
 f1_keywords:
 - vbawd10.chm158663261
-ms.prod: word
 api_name:
 - Word.Selection.RtlPara
 ms.assetid: b417897d-de70-6c3a-12cd-8786e12bdb43

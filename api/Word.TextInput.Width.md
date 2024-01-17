@@ -3,7 +3,6 @@ title: TextInput.Width property (Word)
 keywords: vbawd10.chm153550852
 f1_keywords:
 - vbawd10.chm153550852
-ms.prod: word
 api_name:
 - Word.TextInput.Width
 ms.assetid: 98d200de-9832-5ab5-4187-7d3cb81a149e

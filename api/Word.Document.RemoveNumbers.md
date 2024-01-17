@@ -3,7 +3,6 @@ title: Document.RemoveNumbers method (Word)
 keywords: vbawd10.chm158007436
 f1_keywords:
 - vbawd10.chm158007436
-ms.prod: word
 api_name:
 - Word.Document.RemoveNumbers
 ms.assetid: 2f481145-f1ef-7b80-0287-3c14a5f3d2d5

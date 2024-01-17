@@ -3,7 +3,6 @@ title: OMathScrSubSup.RemoveSub method (Word)
 keywords: vbawd10.chm181665992
 f1_keywords:
 - vbawd10.chm181665992
-ms.prod: word
 api_name:
 - Word.OMathScrSubSup.RemoveSub
 ms.assetid: 562c2afd-3ef9-b7d3-fa72-a5b5fbe60bcf

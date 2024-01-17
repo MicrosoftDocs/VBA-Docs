@@ -3,7 +3,6 @@ title: XMLMapping.SetMappingByNode method (Word)
 keywords: vbawd10.chm199688197
 f1_keywords:
 - vbawd10.chm199688197
-ms.prod: word
 api_name:
 - Word.XMLMapping.SetMappingByNode
 ms.assetid: 8eab3471-e1dc-f7ec-9b45-9fb459088190

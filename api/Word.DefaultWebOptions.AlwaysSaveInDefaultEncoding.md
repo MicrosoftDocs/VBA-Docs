@@ -3,7 +3,6 @@ title: DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Word)
 keywords: vbawd10.chm165871630
 f1_keywords:
 - vbawd10.chm165871630
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: da5dde09-0126-74e2-1288-6dab4fcae966

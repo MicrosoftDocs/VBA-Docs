@@ -3,7 +3,6 @@ title: StyleSheets object (Word)
 keywords: vbawd10.chm3198
 f1_keywords:
 - vbawd10.chm3198
-ms.prod: word
 api_name:
 - Word.StyleSheets
 ms.assetid: 4b3da354-38a6-5758-3080-82a940b668c9

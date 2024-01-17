@@ -3,7 +3,6 @@ title: Application.Help method (Word)
 keywords: vbawd10.chm158335305
 f1_keywords:
 - vbawd10.chm158335305
-ms.prod: word
 api_name:
 - Word.Application.Help
 ms.assetid: ff64e6bd-e29b-7cfc-437b-df8b8e59ce59

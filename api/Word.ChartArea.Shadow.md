@@ -3,7 +3,6 @@ title: ChartArea.Shadow property (Word)
 keywords: vbawd10.chm160039015
 f1_keywords:
 - vbawd10.chm160039015
-ms.prod: word
 api_name:
 - Word.ChartArea.Shadow
 ms.assetid: 6ca71639-95d0-eb11-80d2-4ad6bc20479c

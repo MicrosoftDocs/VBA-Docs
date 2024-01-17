@@ -1,6 +1,5 @@
 ---
 title: WdDeletedTextMark enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdDeletedTextMark
 ms.assetid: 622bd7c3-c3ac-d17c-6f17-607fa92db037

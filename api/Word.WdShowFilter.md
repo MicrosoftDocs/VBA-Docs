@@ -1,6 +1,5 @@
 ---
 title: WdShowFilter enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdShowFilter
 ms.assetid: 6c0fdc45-b72b-7da4-523e-88a8e114797b

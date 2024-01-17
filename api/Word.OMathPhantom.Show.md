@@ -3,7 +3,6 @@ title: OMathPhantom.Show property (Word)
 keywords: vbawd10.chm88146024
 f1_keywords:
 - vbawd10.chm88146024
-ms.prod: word
 api_name:
 - Word.OMathPhantom.Show
 ms.assetid: 35ed60cf-90b2-db62-62b5-1da1cbc39a78

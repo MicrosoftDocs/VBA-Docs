@@ -3,7 +3,6 @@ title: EmailOptions.Parent property (Word)
 keywords: vbawd10.chm165347430
 f1_keywords:
 - vbawd10.chm165347430
-ms.prod: word
 api_name:
 - Word.EmailOptions.Parent
 ms.assetid: f9133d8b-eca8-c638-3d6a-84917843ed64

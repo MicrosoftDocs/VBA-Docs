@@ -1,6 +1,5 @@
 ---
 title: WdAutoMacros enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdAutoMacros
 ms.assetid: cd724f11-d18a-a97c-b46c-c4aa354f9e2d

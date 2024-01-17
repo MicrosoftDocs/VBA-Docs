@@ -3,7 +3,6 @@ title: Application.Move method (Word)
 keywords: vbawd10.chm158335336
 f1_keywords:
 - vbawd10.chm158335336
-ms.prod: word
 api_name:
 - Word.Application.Move
 ms.assetid: 030b6ae1-50bd-8d3e-e760-509c54a6e152

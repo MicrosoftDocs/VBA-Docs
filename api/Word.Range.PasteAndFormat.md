@@ -3,7 +3,6 @@ title: Range.PasteAndFormat method (Word)
 keywords: vbawd10.chm157155740
 f1_keywords:
 - vbawd10.chm157155740
-ms.prod: word
 api_name:
 - Word.Range.PasteAndFormat
 ms.assetid: 39dd8d10-0ab7-10d3-9e48-39a5e342553d

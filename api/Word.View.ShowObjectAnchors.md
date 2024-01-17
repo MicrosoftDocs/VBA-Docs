@@ -3,7 +3,6 @@ title: View.ShowObjectAnchors property (Word)
 keywords: vbawd10.chm161808395
 f1_keywords:
 - vbawd10.chm161808395
-ms.prod: word
 api_name:
 - Word.View.ShowObjectAnchors
 ms.assetid: 6b3c0f7a-0bf2-8671-1281-6ef61ae62ef8

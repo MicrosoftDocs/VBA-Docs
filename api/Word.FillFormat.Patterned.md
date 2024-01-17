@@ -3,7 +3,6 @@ title: FillFormat.Patterned method (Word)
 keywords: vbawd10.chm164102156
 f1_keywords:
 - vbawd10.chm164102156
-ms.prod: word
 api_name:
 - Word.FillFormat.Patterned
 ms.assetid: 993fd302-0ba2-f540-f21c-0915bccfacaf

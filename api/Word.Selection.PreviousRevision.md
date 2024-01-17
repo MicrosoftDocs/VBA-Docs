@@ -3,7 +3,6 @@ title: Selection.PreviousRevision method (Word)
 keywords: vbawd10.chm158663188
 f1_keywords:
 - vbawd10.chm158663188
-ms.prod: word
 api_name:
 - Word.Selection.PreviousRevision
 ms.assetid: e516037f-047d-5cd2-19b4-3b7870a14b5a

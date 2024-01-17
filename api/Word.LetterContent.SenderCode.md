@@ -3,7 +3,6 @@ title: LetterContent.SenderCode property (Word)
 keywords: vbawd10.chm161546370
 f1_keywords:
 - vbawd10.chm161546370
-ms.prod: word
 api_name:
 - Word.LetterContent.SenderCode
 ms.assetid: ffb4132d-ca14-f466-c089-a271423bf65c

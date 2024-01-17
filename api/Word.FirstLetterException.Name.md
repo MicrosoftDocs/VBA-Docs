@@ -3,7 +3,6 @@ title: FirstLetterException.Name property (Word)
 keywords: vbawd10.chm155516930
 f1_keywords:
 - vbawd10.chm155516930
-ms.prod: word
 api_name:
 - Word.FirstLetterException.Name
 ms.assetid: 761b4d8d-febc-36cb-9d50-17256120a3ee

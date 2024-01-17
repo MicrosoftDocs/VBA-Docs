@@ -3,7 +3,6 @@ title: List.RemoveNumbers method (Word)
 keywords: vbawd10.chm160563302
 f1_keywords:
 - vbawd10.chm160563302
-ms.prod: word
 api_name:
 - Word.List.RemoveNumbers
 ms.assetid: c73505dd-34aa-5241-a7b8-bf2ac37b1a76

@@ -3,7 +3,6 @@ title: Selection.InsertParagraphAfter method (Word)
 keywords: vbawd10.chm158662817
 f1_keywords:
 - vbawd10.chm158662817
-ms.prod: word
 api_name:
 - Word.Selection.InsertParagraphAfter
 ms.assetid: ae97fbab-417a-14e2-0154-f0361826f903

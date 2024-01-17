@@ -3,7 +3,6 @@ title: OMathBreaks.Add method (Word)
 keywords: vbawd10.chm61276265
 f1_keywords:
 - vbawd10.chm61276265
-ms.prod: word
 api_name:
 - Word.OMathBreaks.Add
 ms.assetid: 489082ea-5ab9-e15e-79ef-b29aa00dcbb0

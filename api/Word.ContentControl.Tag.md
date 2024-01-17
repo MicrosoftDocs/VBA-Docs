@@ -3,7 +3,6 @@ title: ContentControl.Tag property (Word)
 keywords: vbawd10.chm266534939
 f1_keywords:
 - vbawd10.chm266534939
-ms.prod: word
 api_name:
 - Word.ContentControl.Tag
 ms.assetid: 4b7016ac-0a8e-bf2e-d17e-083663dbf189

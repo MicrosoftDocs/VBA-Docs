@@ -3,7 +3,6 @@ title: Cell.NestingLevel property (Word)
 keywords: vbawd10.chm156106859
 f1_keywords:
 - vbawd10.chm156106859
-ms.prod: word
 api_name:
 - Word.Cell.NestingLevel
 ms.assetid: 6eff7eac-72b9-1b33-af2c-0dd410576e92

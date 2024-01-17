@@ -3,7 +3,6 @@ title: OMathBox.NoBreak property (Word)
 keywords: vbawd10.chm134086761
 f1_keywords:
 - vbawd10.chm134086761
-ms.prod: word
 api_name:
 - Word.OMathBox.NoBreak
 ms.assetid: f6bde19b-227b-8cbe-b5fd-0ef0f23d4c2d

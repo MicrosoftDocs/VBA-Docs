@@ -3,7 +3,6 @@ title: Point.PictureType property (Word)
 keywords: vbawd10.chm262144161
 f1_keywords:
 - vbawd10.chm262144161
-ms.prod: word
 api_name:
 - Word.Point.PictureType
 ms.assetid: 050ce20e-0214-96df-6f9e-e8eef8625b1e

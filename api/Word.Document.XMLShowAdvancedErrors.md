@@ -3,7 +3,6 @@ title: Document.XMLShowAdvancedErrors property (Word)
 keywords: vbawd10.chm158007774
 f1_keywords:
 - vbawd10.chm158007774
-ms.prod: word
 api_name:
 - Word.Document.XMLShowAdvancedErrors
 ms.assetid: 56ddb6ee-f2fd-fa8e-5f07-a5af4d749652

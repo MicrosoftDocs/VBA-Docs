@@ -3,7 +3,6 @@ title: Series.AxisGroup property (Word)
 keywords: vbawd10.chm123732015
 f1_keywords:
 - vbawd10.chm123732015
-ms.prod: word
 api_name:
 - Word.Series.AxisGroup
 ms.assetid: b6d2ad4d-a66f-c0ce-6d84-b0320f7cc65f

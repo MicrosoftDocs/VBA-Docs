@@ -3,7 +3,6 @@ title: Table.Select method (Word)
 keywords: vbawd10.chm156303560
 f1_keywords:
 - vbawd10.chm156303560
-ms.prod: word
 api_name:
 - Word.Table.Select
 ms.assetid: 4150362d-ca09-deb7-34cf-b70702c55a43

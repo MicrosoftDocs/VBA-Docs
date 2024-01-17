@@ -3,7 +3,6 @@ title: MailMergeDataSource.RecordCount property (Word)
 keywords: vbawd10.chm152895500
 f1_keywords:
 - vbawd10.chm152895500
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.RecordCount
 ms.assetid: d69db5d2-7ef0-dd9a-7e03-0029f6defd37

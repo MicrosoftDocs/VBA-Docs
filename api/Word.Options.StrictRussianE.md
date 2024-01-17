@@ -3,7 +3,6 @@ title: Options.StrictRussianE property (Word)
 keywords: vbawd10.chm162988529
 f1_keywords:
 - vbawd10.chm162988529
-ms.prod: word
 api_name:
 - Word.Options.StrictRussianE
 ms.assetid: a86bd867-5d89-0383-3718-6b48c78296ee

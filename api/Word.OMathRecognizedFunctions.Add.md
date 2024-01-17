@@ -3,7 +3,6 @@ title: OMathRecognizedFunctions.Add method (Word)
 keywords: vbawd10.chm143065288
 f1_keywords:
 - vbawd10.chm143065288
-ms.prod: word
 api_name:
 - Word.OMathRecognizedFunctions.Add
 ms.assetid: 859164e7-fa39-04dc-0584-2ca7796f93a8

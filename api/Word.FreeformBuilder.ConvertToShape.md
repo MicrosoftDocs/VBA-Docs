@@ -3,7 +3,6 @@ title: FreeformBuilder.ConvertToShape method (Word)
 keywords: vbawd10.chm164167691
 f1_keywords:
 - vbawd10.chm164167691
-ms.prod: word
 api_name:
 - Word.FreeformBuilder.ConvertToShape
 ms.assetid: 9c88065f-1ff0-ac53-a630-4f0b4e652a80

@@ -3,7 +3,6 @@ title: System.PrivateProfileString property (Word)
 keywords: vbawd10.chm154468362
 f1_keywords:
 - vbawd10.chm154468362
-ms.prod: word
 api_name:
 - Word.System.PrivateProfileString
 ms.assetid: 737fb157-4665-5e31-240a-347bd7334005

@@ -3,7 +3,6 @@ title: Application.AddIns property (Word)
 keywords: vbawd10.chm158334998
 f1_keywords:
 - vbawd10.chm158334998
-ms.prod: word
 api_name:
 - Word.Application.AddIns
 ms.assetid: 8e464524-1304-6a4a-f2f0-5f652d5c8123

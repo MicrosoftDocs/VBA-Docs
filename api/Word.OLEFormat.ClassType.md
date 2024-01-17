@@ -3,7 +3,6 @@ title: OLEFormat.ClassType property (Word)
 keywords: vbawd10.chm154337282
 f1_keywords:
 - vbawd10.chm154337282
-ms.prod: word
 api_name:
 - Word.OLEFormat.ClassType
 ms.assetid: 4c9ecec9-f7a9-f644-3a79-f88b9468200e

@@ -3,7 +3,6 @@ title: TabStops.ClearAll method (Word)
 keywords: vbawd10.chm156565605
 f1_keywords:
 - vbawd10.chm156565605
-ms.prod: word
 api_name:
 - Word.TabStops.ClearAll
 ms.assetid: 757bf3e9-5641-8e78-b209-1512087fcf6d

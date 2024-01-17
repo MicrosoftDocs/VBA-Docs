@@ -3,7 +3,6 @@ title: TableOfFigures.Creator property (Word)
 keywords: vbawd10.chm153158633
 f1_keywords:
 - vbawd10.chm153158633
-ms.prod: word
 api_name:
 - Word.TableOfFigures.Creator
 ms.assetid: c458a715-6d70-97f4-7a55-15b2735af5f9

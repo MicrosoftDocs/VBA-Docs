@@ -1,6 +1,5 @@
 ---
 title: BuildingBlocks.Parent property (Word)
-ms.prod: word
 api_name:
 - Word.BuildingBlocks.Parent
 ms.assetid: c00fe7c8-4ad3-b447-e4cb-fd21e56fefda

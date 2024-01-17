@@ -3,7 +3,6 @@ title: EmailSignature.ReplyMessageSignature property (Word)
 keywords: vbawd10.chm165412968
 f1_keywords:
 - vbawd10.chm165412968
-ms.prod: word
 api_name:
 - Word.EmailSignature.ReplyMessageSignature
 ms.assetid: 94e6bc68-8bf2-0c08-b361-1792eafb089d

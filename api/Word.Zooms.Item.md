@@ -3,7 +3,6 @@ title: Zooms.Item method (Word)
 keywords: vbawd10.chm161939456
 f1_keywords:
 - vbawd10.chm161939456
-ms.prod: word
 api_name:
 - Word.Zooms.Item
 ms.assetid: 39d76022-7570-2432-5910-3e5034fa7f30

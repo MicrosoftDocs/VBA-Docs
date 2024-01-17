@@ -1,6 +1,5 @@
 ---
 title: Using Events with the Document Object
-ms.prod: word
 ms.assetid: 2b043342-436a-5421-e8af-3c2c49684960
 ms.date: 06/08/2019
 ms.localizationpriority: medium

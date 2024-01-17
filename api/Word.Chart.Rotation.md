@@ -3,7 +3,6 @@ title: Chart.Rotation property (Word)
 keywords: vbawd10.chm79364112
 f1_keywords:
 - vbawd10.chm79364112
-ms.prod: word
 api_name:
 - Word.Chart.Rotation
 ms.assetid: a141124f-f33c-95e1-6ba9-8ecffdef434c

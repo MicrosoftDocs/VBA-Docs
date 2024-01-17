@@ -3,7 +3,6 @@ title: OMathNary.Grow property (Word)
 keywords: vbawd10.chm25428075
 f1_keywords:
 - vbawd10.chm25428075
-ms.prod: word
 api_name:
 - Word.OMathNary.Grow
 ms.assetid: 95ed373a-e3e2-bbc8-e1eb-9ce372dc9268

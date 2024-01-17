@@ -1,6 +1,5 @@
 ---
 title: WdInternationalIndex enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdInternationalIndex
 ms.assetid: 1a66f0c8-8b91-a44c-88dd-b0ca8033df72

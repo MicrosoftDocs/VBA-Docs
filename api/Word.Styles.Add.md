@@ -3,7 +3,6 @@ title: Styles.Add method (Word)
 keywords: vbawd10.chm153944164
 f1_keywords:
 - vbawd10.chm153944164
-ms.prod: word
 api_name:
 - Word.Styles.Add
 ms.assetid: b576d8a0-923b-f0dd-0f5f-6a243392d134

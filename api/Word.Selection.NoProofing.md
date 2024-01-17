@@ -3,7 +3,6 @@ title: Selection.NoProofing property (Word)
 keywords: vbawd10.chm158663661
 f1_keywords:
 - vbawd10.chm158663661
-ms.prod: word
 api_name:
 - Word.Selection.NoProofing
 ms.assetid: 5feca11c-5afa-80aa-b854-bab86b49a749

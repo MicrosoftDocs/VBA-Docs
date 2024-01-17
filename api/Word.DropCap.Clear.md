@@ -3,7 +3,6 @@ title: DropCap.Clear method (Word)
 keywords: vbawd10.chm156631140
 f1_keywords:
 - vbawd10.chm156631140
-ms.prod: word
 api_name:
 - Word.DropCap.Clear
 ms.assetid: 8d5148ff-04ad-bb4b-7d7e-76cbc01246a9

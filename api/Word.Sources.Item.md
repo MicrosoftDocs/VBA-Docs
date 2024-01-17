@@ -3,7 +3,6 @@ title: Sources.Item method (Word)
 keywords: vbawd10.chm40566784
 f1_keywords:
 - vbawd10.chm40566784
-ms.prod: word
 api_name:
 - Word.Sources.Item
 ms.assetid: 350313b6-3646-b4ad-44a0-03a276a14bfe

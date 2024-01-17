@@ -3,7 +3,6 @@ title: View.ReadingLayoutTruncateMargins property (Word)
 keywords: vbawd10.chm161808438
 f1_keywords:
 - vbawd10.chm161808438
-ms.prod: word
 api_name:
 - Word.View.ReadingLayoutTruncateMargins
 ms.assetid: 0600f777-9844-8085-cb89-429276541aca

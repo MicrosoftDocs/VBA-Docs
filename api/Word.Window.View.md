@@ -3,7 +3,6 @@ title: Window.View property (Word)
 keywords: vbawd10.chm157417486
 f1_keywords:
 - vbawd10.chm157417486
-ms.prod: word
 api_name:
 - Word.Window.View
 ms.assetid: d012af14-e1cc-b13e-e1d1-48ea53ba0f0a

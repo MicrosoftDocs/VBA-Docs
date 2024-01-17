@@ -3,7 +3,6 @@ title: Selection.Next method (Word)
 keywords: vbawd10.chm158662761
 f1_keywords:
 - vbawd10.chm158662761
-ms.prod: word
 api_name:
 - Word.Selection.Next
 ms.assetid: 498db129-c3bd-2f9c-5897-fcfda6ce5d14

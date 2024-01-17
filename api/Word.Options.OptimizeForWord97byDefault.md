@@ -3,7 +3,6 @@ title: Options.OptimizeForWord97byDefault property (Word)
 keywords: vbawd10.chm162988455
 f1_keywords:
 - vbawd10.chm162988455
-ms.prod: word
 api_name:
 - Word.Options.OptimizeForWord97byDefault
 ms.assetid: 6d129c8d-24ed-d21c-70a6-f5cd79273b4f

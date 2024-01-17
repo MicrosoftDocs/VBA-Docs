@@ -3,7 +3,6 @@ title: Characters.First property (Word)
 keywords: vbawd10.chm157089795
 f1_keywords:
 - vbawd10.chm157089795
-ms.prod: word
 api_name:
 - Word.Characters.First
 ms.assetid: 39622b1b-71fa-09b4-c7c5-84403a33249a

@@ -3,7 +3,6 @@ title: View.ShowInkAnnotations property (Word)
 keywords: vbawd10.chm161808432
 f1_keywords:
 - vbawd10.chm161808432
-ms.prod: word
 api_name:
 - Word.View.ShowInkAnnotations
 ms.assetid: 5e022729-7e0e-4843-adbe-cd774c2d8e23

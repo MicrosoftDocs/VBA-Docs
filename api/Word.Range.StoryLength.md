@@ -3,7 +3,6 @@ title: Range.StoryLength property (Word)
 keywords: vbawd10.chm157155480
 f1_keywords:
 - vbawd10.chm157155480
-ms.prod: word
 api_name:
 - Word.Range.StoryLength
 ms.assetid: 0dd342e2-2a90-bbf9-2989-a2629fcf40a5

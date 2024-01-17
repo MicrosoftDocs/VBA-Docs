@@ -3,7 +3,6 @@ title: HangulHanjaConversionDictionaries.Creator property (Word)
 keywords: vbawd10.chm165676009
 f1_keywords:
 - vbawd10.chm165676009
-ms.prod: word
 api_name:
 - Word.HangulHanjaConversionDictionaries.Creator
 ms.assetid: 6a281d80-c137-9f30-bf64-ea82b0752203

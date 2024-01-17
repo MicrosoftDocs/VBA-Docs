@@ -3,7 +3,6 @@ title: Index.NumberOfColumns property (Word)
 keywords: vbawd10.chm159186948
 f1_keywords:
 - vbawd10.chm159186948
-ms.prod: word
 api_name:
 - Word.Index.NumberOfColumns
 ms.assetid: e61eaa82-d7b5-84bc-dfe9-1e410d1ec6af

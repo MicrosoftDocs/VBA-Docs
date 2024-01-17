@@ -3,7 +3,6 @@ title: Options.SuggestFromMainDictionaryOnly property (Word)
 keywords: vbawd10.chm162988314
 f1_keywords:
 - vbawd10.chm162988314
-ms.prod: word
 api_name:
 - Word.Options.SuggestFromMainDictionaryOnly
 ms.assetid: d9ac9107-bf66-8f47-1101-6db4d6ec0364

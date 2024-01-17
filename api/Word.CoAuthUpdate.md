@@ -1,6 +1,5 @@
 ---
 title: CoAuthUpdate object (Word)
-ms.prod: word
 api_name:
 - Word.CoAuthUpdate
 ms.assetid: c00e5029-2e4b-97c0-33d3-86fdc53df535

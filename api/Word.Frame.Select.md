@@ -3,7 +3,6 @@ title: Frame.Select method (Word)
 keywords: vbawd10.chm153812991
 f1_keywords:
 - vbawd10.chm153812991
-ms.prod: word
 api_name:
 - Word.Frame.Select
 ms.assetid: 32138165-7723-8f91-ed91-5b4cda0d193e

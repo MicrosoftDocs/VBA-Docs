@@ -3,7 +3,6 @@ title: Row.ConvertToText method (Word)
 keywords: vbawd10.chm156237842
 f1_keywords:
 - vbawd10.chm156237842
-ms.prod: word
 api_name:
 - Word.Row.ConvertToText
 ms.assetid: ca26c76c-0695-58b9-7a7a-a74f3350a8e9

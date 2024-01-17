@@ -3,7 +3,6 @@ title: ContentControls.Count property (Word)
 keywords: vbawd10.chm157745255
 f1_keywords:
 - vbawd10.chm157745255
-ms.prod: word
 api_name:
 - Word.ContentControls.Count
 ms.assetid: 0bb2f2d0-dd6e-32da-85ec-8c6f266b3e7f

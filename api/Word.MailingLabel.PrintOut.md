@@ -3,7 +3,6 @@ title: MailingLabel.PrintOut method (Word)
 keywords: vbawd10.chm152502377
 f1_keywords:
 - vbawd10.chm152502377
-ms.prod: word
 api_name:
 - Word.MailingLabel.PrintOut
 ms.assetid: 3519226b-1c5f-8343-62b1-7e275793ca3c

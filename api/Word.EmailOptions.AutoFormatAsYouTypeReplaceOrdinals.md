@@ -3,7 +3,6 @@ title: EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 keywords: vbawd10.chm165347594
 f1_keywords:
 - vbawd10.chm165347594
-ms.prod: word
 api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceOrdinals
 ms.assetid: c3f60ea8-1949-6247-98d1-d8d386507341

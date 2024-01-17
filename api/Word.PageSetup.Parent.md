@@ -3,7 +3,6 @@ title: PageSetup.Parent property (Word)
 keywords: vbawd10.chm158401514
 f1_keywords:
 - vbawd10.chm158401514
-ms.prod: word
 api_name:
 - Word.PageSetup.Parent
 ms.assetid: 0474d296-90a5-3a94-8577-ef188889bac9

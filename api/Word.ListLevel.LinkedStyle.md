@@ -3,7 +3,6 @@ title: ListLevel.LinkedStyle property (Word)
 keywords: vbawd10.chm160235531
 f1_keywords:
 - vbawd10.chm160235531
-ms.prod: word
 api_name:
 - Word.ListLevel.LinkedStyle
 ms.assetid: 11a48d9a-87fa-6cc6-8614-deb35775d6b5

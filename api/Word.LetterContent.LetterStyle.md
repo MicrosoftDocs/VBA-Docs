@@ -3,7 +3,6 @@ title: LetterContent.LetterStyle property (Word)
 keywords: vbawd10.chm161546344
 f1_keywords:
 - vbawd10.chm161546344
-ms.prod: word
 api_name:
 - Word.LetterContent.LetterStyle
 ms.assetid: fdb8e106-bb80-468d-4330-e601d3a52938

@@ -3,7 +3,6 @@ title: LetterContent.InfoBlock property (Word)
 keywords: vbawd10.chm161546365
 f1_keywords:
 - vbawd10.chm161546365
-ms.prod: word
 api_name:
 - Word.LetterContent.InfoBlock
 ms.assetid: 2b639ef1-2c5c-f746-da04-1b8fcfaf5330

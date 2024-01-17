@@ -3,7 +3,6 @@ title: TableOfAuthorities.IncludeCategoryHeader property (Word)
 keywords: vbawd10.chm152109065
 f1_keywords:
 - vbawd10.chm152109065
-ms.prod: word
 api_name:
 - Word.TableOfAuthorities.IncludeCategoryHeader
 ms.assetid: 63118a82-28ac-f5c9-790d-0a8ea4926858
