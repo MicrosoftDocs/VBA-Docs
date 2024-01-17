@@ -3,7 +3,6 @@ title: Document.Title property (Visio)
 keywords: vis_sdr.chm10514540
 f1_keywords:
 - vis_sdr.chm10514540
-ms.prod: visio
 api_name:
 - Visio.Document.Title
 ms.assetid: 9a3b9e5f-2515-dda4-d757-0a0f375dfd00

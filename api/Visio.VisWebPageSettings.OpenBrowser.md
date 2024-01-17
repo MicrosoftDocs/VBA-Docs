@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.OpenBrowser property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.OpenBrowser
 ms.assetid: 701defdf-9f1c-b136-0af5-48605d255f88

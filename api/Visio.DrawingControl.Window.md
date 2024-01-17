@@ -3,7 +3,6 @@ title: DrawingControl.Window property (Visio)
 keywords: vis_sdr.chm51020
 f1_keywords:
 - vis_sdr.chm51020
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.Window
 ms.assetid: 0ecfab32-03eb-e5be-228e-a9e3f96ca536

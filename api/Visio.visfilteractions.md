@@ -1,6 +1,5 @@
 ---
 title: VisFilterActions enumeration (Visio)
-ms.prod: visio
 ms.assetid: 1b96bdba-e5e8-0e24-697d-3791c059fa15
 ms.date: 06/08/2017
 ms.localizationpriority: medium

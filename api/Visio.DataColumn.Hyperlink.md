@@ -3,7 +3,6 @@ title: DataColumn.Hyperlink property (Visio)
 keywords: vis_sdr.chm16760410
 f1_keywords:
 - vis_sdr.chm16760410
-ms.prod: visio
 api_name:
 - Visio.DataColumn.Hyperlink
 ms.assetid: 806f3eae-8bee-c053-6c25-b87a9c0ac0e3

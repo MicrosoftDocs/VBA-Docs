@@ -3,7 +3,6 @@ title: DrawingControl object (Visio)
 keywords: vis_sdr.chm0
 f1_keywords:
 - vis_sdr.chm0
-ms.prod: visio
 api_name:
 - Visio.DrawingControl
 ms.assetid: ad7c6abf-5bbd-5b84-4a63-eceaf90991a8

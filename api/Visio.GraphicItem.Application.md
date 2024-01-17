@@ -3,7 +3,6 @@ title: GraphicItem.Application property (Visio)
 keywords: vis_sdr.chm16913090
 f1_keywords:
 - vis_sdr.chm16913090
-ms.prod: visio
 api_name:
 - Visio.GraphicItem.Application
 ms.assetid: f0745351-8c18-cf2b-4bdc-90e85a1836fc

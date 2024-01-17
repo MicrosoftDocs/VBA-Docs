@@ -3,7 +3,6 @@ title: VisScrollbarStates enumeration (Visio)
 keywords: vis_sdr.chm70210
 f1_keywords:
 - vis_sdr.chm70210
-ms.prod: visio
 ms.assetid: b95f1706-8bc9-c7c6-efa3-1e9b823ac099
 ms.date: 06/08/2017
 ms.localizationpriority: medium

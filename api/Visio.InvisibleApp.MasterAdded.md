@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.MasterAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.MasterAdded
 ms.assetid: 513c21c2-553a-0239-dbbe-401f2473f4c0

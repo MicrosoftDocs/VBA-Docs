@@ -3,7 +3,6 @@ title: Documents.FormulaChanged event (Visio)
 keywords: vis_sdr.chm10619160
 f1_keywords:
 - vis_sdr.chm10619160
-ms.prod: visio
 api_name:
 - Visio.Documents.FormulaChanged
 ms.assetid: 2ced2708-05c9-3da4-195a-7196fdff39e8

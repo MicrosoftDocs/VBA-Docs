@@ -3,7 +3,6 @@ title: DataRecordsets.DataRecordsetAdded event (Visio)
 keywords: vis_sdr.chm16362035
 f1_keywords:
 - vis_sdr.chm16362035
-ms.prod: visio
 api_name:
 - Visio.DataRecordsets.DataRecordsetAdded
 ms.assetid: ff3dae8e-3a49-7432-fc52-261a603d7bc3

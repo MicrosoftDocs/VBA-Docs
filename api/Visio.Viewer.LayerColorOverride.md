@@ -1,6 +1,5 @@
 ---
 title: Viewer.LayerColorOverride property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.LayerColorOverride
 ms.assetid: 378cd05b-50b0-2169-9419-0d489860f0ad

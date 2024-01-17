@@ -3,7 +3,6 @@ title: Master.DrawRectangle method (Visio)
 keywords: vis_sdr.chm10716220
 f1_keywords:
 - vis_sdr.chm10716220
-ms.prod: visio
 api_name:
 - Visio.Master.DrawRectangle
 ms.assetid: e41ec411-ccd7-0fe6-f560-cf3934d18b59

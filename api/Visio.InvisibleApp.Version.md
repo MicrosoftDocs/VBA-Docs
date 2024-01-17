@@ -3,7 +3,6 @@ title: InvisibleApp.Version property (Visio)
 keywords: vis_sdr.chm17514640
 f1_keywords:
 - vis_sdr.chm17514640
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Version
 ms.assetid: fb8929be-b7e7-f8ab-c5a5-5a99dd9b6a89

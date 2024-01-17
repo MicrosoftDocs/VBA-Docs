@@ -3,7 +3,6 @@ title: Document.CheckIn method (Visio)
 keywords: vis_sdr.chm10552030
 f1_keywords:
 - vis_sdr.chm10552030
-ms.prod: visio
 api_name:
 - Visio.Document.CheckIn
 ms.assetid: 9b75d468-24bc-e205-cafa-6e585f469e38

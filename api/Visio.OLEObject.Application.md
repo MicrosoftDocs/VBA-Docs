@@ -3,7 +3,6 @@ title: OLEObject.Application property (Visio)
 keywords: vis_sdr.chm15213090
 f1_keywords:
 - vis_sdr.chm15213090
-ms.prod: visio
 api_name:
 - Visio.OLEObject.Application
 ms.assetid: 402c270d-445d-a067-00cf-5f809eb23e01

@@ -3,7 +3,6 @@ title: Windows.KeyUp event (Visio)
 keywords: vis_sdr.chm11751315
 f1_keywords:
 - vis_sdr.chm11751315
-ms.prod: visio
 api_name:
 - Visio.Windows.KeyUp
 ms.assetid: 16254787-b9ff-ecb5-4ae4-eb50338e12a4

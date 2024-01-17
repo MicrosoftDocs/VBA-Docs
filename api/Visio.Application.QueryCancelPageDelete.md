@@ -1,6 +1,5 @@
 ---
 title: Application.QueryCancelPageDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelPageDelete
 ms.assetid: 81e9ab8a-5060-9ebf-52c7-e22ed45487f1

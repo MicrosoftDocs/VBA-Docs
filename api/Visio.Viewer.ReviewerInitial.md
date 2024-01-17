@@ -1,6 +1,5 @@
 ---
 title: Viewer.ReviewerInitial property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ReviewerInitial
 ms.assetid: be7bfc55-d4c0-4d7b-c50d-e6106441ca37

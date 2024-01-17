@@ -1,6 +1,5 @@
 ---
 title: Documents.ReplaceShapesCanceled event (Visio)
-ms.prod: visio
 ms.assetid: 94a20fe7-da09-4e3c-d048-05ba0b8f1070
 ms.date: 06/08/2017
 ms.localizationpriority: medium

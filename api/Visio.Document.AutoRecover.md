@@ -3,7 +3,6 @@ title: Document.AutoRecover property (Visio)
 keywords: vis_sdr.chm10514710
 f1_keywords:
 - vis_sdr.chm10514710
-ms.prod: visio
 api_name:
 - Visio.Document.AutoRecover
 ms.assetid: 23b09910-35a8-93bc-71f0-4618b1c48523

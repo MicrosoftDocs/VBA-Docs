@@ -3,7 +3,6 @@ title: Shape.QueryCancelConvertToGroup event (Visio)
 keywords: vis_sdr.chm11219325
 f1_keywords:
 - vis_sdr.chm11219325
-ms.prod: visio
 api_name:
 - Visio.Shape.QueryCancelConvertToGroup
 ms.assetid: 18fffdd9-2d6a-90d5-ac34-ce6f3a5e8df6

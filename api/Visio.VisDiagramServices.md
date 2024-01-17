@@ -3,7 +3,6 @@ title: VisDiagramServices enumeration (Visio)
 keywords: vis_sdr.chm70775
 f1_keywords:
 - vis_sdr.chm70775
-ms.prod: visio
 api_name:
 - Visio.VisDiagramServices
 ms.assetid: d1abffb0-eb5d-17c6-8313-6a916cce0bd8

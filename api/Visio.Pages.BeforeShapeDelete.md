@@ -3,7 +3,6 @@ title: Pages.BeforeShapeDelete event (Visio)
 keywords: vis_sdr.chm11019065
 f1_keywords:
 - vis_sdr.chm11019065
-ms.prod: visio
 api_name:
 - Visio.Pages.BeforeShapeDelete
 ms.assetid: e83bb4cc-b9a0-1435-507f-149f5a108ab5

@@ -3,7 +3,6 @@ title: Page.SelectionDeleteCanceled event (Visio)
 keywords: vis_sdr.chm10919365
 f1_keywords:
 - vis_sdr.chm10919365
-ms.prod: visio
 api_name:
 - Visio.Page.SelectionDeleteCanceled
 ms.assetid: 49ef8516-43bb-b410-5e6c-6903c2bf32fa

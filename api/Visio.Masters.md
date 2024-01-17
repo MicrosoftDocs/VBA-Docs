@@ -3,7 +3,6 @@ title: Masters object (Visio)
 keywords: vis_sdr.chm10135
 f1_keywords:
 - vis_sdr.chm10135
-ms.prod: visio
 api_name:
 - Visio.Masters
 ms.assetid: 07c80948-8cee-34d2-dbc9-89ca031343df

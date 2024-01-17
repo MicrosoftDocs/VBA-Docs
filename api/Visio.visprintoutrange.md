@@ -3,7 +3,6 @@ title: VisPrintOutRange enumeration (Visio)
 keywords: vis_sdr.chm70435
 f1_keywords:
 - vis_sdr.chm70435
-ms.prod: visio
 ms.assetid: aa74996b-b6af-f79d-05d0-261b0a66554c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

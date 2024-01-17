@@ -3,7 +3,6 @@ title: Toolbar.Delete method (Visio)
 keywords: vis_sdr.chm13716165
 f1_keywords:
 - vis_sdr.chm13716165
-ms.prod: visio
 api_name:
 - Visio.Toolbar.Delete
 ms.assetid: e7da5fe0-ad12-352e-67d9-c545ddd7011c

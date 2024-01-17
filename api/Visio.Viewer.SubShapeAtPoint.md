@@ -1,6 +1,5 @@
 ---
 title: Viewer.SubShapeAtPoint property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.SubShapeAtPoint
 ms.assetid: ffb35fad-33ee-30d0-680f-008418b58864

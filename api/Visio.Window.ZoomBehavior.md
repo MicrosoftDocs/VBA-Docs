@@ -3,7 +3,6 @@ title: Window.ZoomBehavior property (Visio)
 keywords: vis_sdr.chm11651465
 f1_keywords:
 - vis_sdr.chm11651465
-ms.prod: visio
 api_name:
 - Visio.Window.ZoomBehavior
 ms.assetid: bceab6cf-cad4-58d6-685d-e14950105048

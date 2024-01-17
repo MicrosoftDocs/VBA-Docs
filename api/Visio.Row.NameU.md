@@ -3,7 +3,6 @@ title: Row.NameU property (Visio)
 keywords: vis_sdr.chm15851985
 f1_keywords:
 - vis_sdr.chm15851985
-ms.prod: visio
 api_name:
 - Visio.Row.NameU
 ms.assetid: 5674ba2a-d8a4-5054-4b9c-c14507441bc0

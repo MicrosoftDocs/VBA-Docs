@@ -3,7 +3,6 @@ title: ApplicationSettings.ObjectType property (Visio)
 keywords: vis_sdr.chm16213960
 f1_keywords:
 - vis_sdr.chm16213960
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ObjectType
 ms.assetid: f3bce466-0497-6744-f96a-5c4bb7afca08

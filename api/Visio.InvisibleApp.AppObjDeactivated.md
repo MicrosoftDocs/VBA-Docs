@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.AppObjDeactivated event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AppObjDeactivated
 ms.assetid: 15d2817e-2b93-cdcb-488b-acc026b4c2f5

@@ -1,6 +1,5 @@
 ---
 title: Shape.IsDataGraphicCallout property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Shape.IsDataGraphicCallout
 ms.assetid: dedf6880-e597-8582-12e5-18bfe6286e66

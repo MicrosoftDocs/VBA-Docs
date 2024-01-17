@@ -3,7 +3,6 @@ title: Layers object (Visio)
 keywords: vis_sdr.chm10125
 f1_keywords:
 - vis_sdr.chm10125
-ms.prod: visio
 api_name:
 - Visio.Layers
 ms.assetid: 6dd2ed40-5496-677b-6a32-9df80cd364d9

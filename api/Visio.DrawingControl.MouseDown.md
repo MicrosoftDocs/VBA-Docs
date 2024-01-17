@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.MouseDown event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.MouseDown
 ms.assetid: 66136634-ddb3-54fd-c6d4-f32550689d28

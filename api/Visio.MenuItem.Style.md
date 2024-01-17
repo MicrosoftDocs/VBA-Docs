@@ -3,7 +3,6 @@ title: MenuItem.Style property (Visio)
 keywords: vis_sdr.chm12951150
 f1_keywords:
 - vis_sdr.chm12951150
-ms.prod: visio
 api_name:
 - Visio.MenuItem.Style
 ms.assetid: 3a7cd438-2a92-b85c-5a78-2895c990f146

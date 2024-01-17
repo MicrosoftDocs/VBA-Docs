@@ -3,7 +3,6 @@ title: Font.Application property (Visio)
 keywords: vis_sdr.chm12013090
 f1_keywords:
 - vis_sdr.chm12013090
-ms.prod: visio
 api_name:
 - Visio.Font.Application
 ms.assetid: 69b10981-d415-56f1-a401-a77cd6e02021

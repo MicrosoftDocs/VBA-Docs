@@ -3,7 +3,6 @@ title: ApplicationSettings.TransitionsEnabled property (Visio)
 keywords: vis_sdr.chm16262495
 f1_keywords:
 - vis_sdr.chm16262495
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.TransitionsEnabled
 ms.assetid: af3b25b8-eee2-110f-9189-5133144d3a43

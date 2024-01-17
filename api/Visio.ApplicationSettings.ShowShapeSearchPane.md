@@ -3,7 +3,6 @@ title: ApplicationSettings.ShowShapeSearchPane property (Visio)
 keywords: vis_sdr.chm16260605
 f1_keywords:
 - vis_sdr.chm16260605
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ShowShapeSearchPane
 ms.assetid: 41c07355-5ce8-25fb-ff34-75c24c6c1e89

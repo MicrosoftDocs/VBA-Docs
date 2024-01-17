@@ -3,7 +3,6 @@ title: Window.AllowEditing property (Visio)
 keywords: vis_sdr.chm11650505
 f1_keywords:
 - vis_sdr.chm11650505
-ms.prod: visio
 api_name:
 - Visio.Window.AllowEditing
 ms.assetid: 805ed8a9-1835-0d7b-9bbe-717ff21af3c9

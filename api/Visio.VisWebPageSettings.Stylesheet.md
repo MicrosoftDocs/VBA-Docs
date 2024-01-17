@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.Stylesheet property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.Stylesheet
 ms.assetid: 9b837460-83a6-71f8-b63f-3f251dedc87c

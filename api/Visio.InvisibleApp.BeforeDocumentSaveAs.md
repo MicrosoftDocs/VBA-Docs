@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.BeforeDocumentSaveAs event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeDocumentSaveAs
 ms.assetid: a515ea96-7e11-8a06-8869-3aca75a477df

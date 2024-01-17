@@ -3,7 +3,6 @@ title: Styles object (Visio)
 keywords: vis_sdr.chm10260
 f1_keywords:
 - vis_sdr.chm10260
-ms.prod: visio
 api_name:
 - Visio.Styles
 ms.assetid: 327c9f05-ddb5-bf70-86bf-69eb0763512c

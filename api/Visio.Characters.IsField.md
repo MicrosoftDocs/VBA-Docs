@@ -3,7 +3,6 @@ title: Characters.IsField property (Visio)
 keywords: vis_sdr.chm10213735
 f1_keywords:
 - vis_sdr.chm10213735
-ms.prod: visio
 api_name:
 - Visio.Characters.IsField
 ms.assetid: 329441aa-61ce-177f-061e-a47624a622d2

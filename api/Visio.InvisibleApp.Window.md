@@ -3,7 +3,6 @@ title: InvisibleApp.Window property (Visio)
 keywords: vis_sdr.chm17551480
 f1_keywords:
 - vis_sdr.chm17551480
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Window
 ms.assetid: 6b693eb6-51c0-8bc7-69d4-f5f4fc921d68

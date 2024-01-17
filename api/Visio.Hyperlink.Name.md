@@ -3,7 +3,6 @@ title: Hyperlink.Name property (Visio)
 keywords: vis_sdr.chm15013930
 f1_keywords:
 - vis_sdr.chm15013930
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.Name
 ms.assetid: 349ac99c-79ef-c337-fbb3-c067c2814bd7

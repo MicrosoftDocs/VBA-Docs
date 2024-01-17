@@ -3,7 +3,6 @@ title: Shape.DrawArcByThreePoints method (Visio)
 keywords: vis_sdr.chm11251415
 f1_keywords:
 - vis_sdr.chm11251415
-ms.prod: visio
 api_name:
 - Visio.Shape.DrawArcByThreePoints
 ms.assetid: 9c00cca4-548e-8f15-1747-897fa5482340

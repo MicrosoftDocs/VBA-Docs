@@ -3,7 +3,6 @@ title: ApplicationSettings.ZoomOnRoll property (Visio)
 keywords: vis_sdr.chm16251455
 f1_keywords:
 - vis_sdr.chm16251455
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.ZoomOnRoll
 ms.assetid: 27475650-3703-4a95-f71c-d979ba2066f6

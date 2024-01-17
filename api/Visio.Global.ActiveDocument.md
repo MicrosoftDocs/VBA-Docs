@@ -3,7 +3,6 @@ title: Global.ActiveDocument property (Visio)
 keywords: vis_sdr.chm12813025
 f1_keywords:
 - vis_sdr.chm12813025
-ms.prod: visio
 api_name:
 - Visio.Global.ActiveDocument
 ms.assetid: 305c79be-980f-a010-f3dc-8996d6b90e81

@@ -3,7 +3,6 @@ title: ApplicationSettings.DrawingPageColor property (Visio)
 keywords: vis_sdr.chm16251800
 f1_keywords:
 - vis_sdr.chm16251800
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DrawingPageColor
 ms.assetid: 7ae90e3a-d7ed-588e-2416-eecc3e8619e7

@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.DocumentChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DocumentChanged
 ms.assetid: d822ab40-99a5-d308-d820-a8834f65fee8

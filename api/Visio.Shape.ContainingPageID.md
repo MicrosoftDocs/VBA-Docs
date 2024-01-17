@@ -3,7 +3,6 @@ title: Shape.ContainingPageID property (Visio)
 keywords: vis_sdr.chm11260135
 f1_keywords:
 - vis_sdr.chm11260135
-ms.prod: visio
 api_name:
 - Visio.Shape.ContainingPageID
 ms.assetid: fd33d0d6-571d-47b5-28a7-6fa4aa671312

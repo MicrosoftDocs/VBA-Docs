@@ -1,6 +1,5 @@
 ---
 title: Viewer.DisplayHelp method (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.DisplayHelp
 ms.assetid: 4d31b711-2521-cfd3-7689-0bd8618126b1

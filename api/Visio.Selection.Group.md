@@ -3,7 +3,6 @@ title: Selection.Group method (Visio)
 keywords: vis_sdr.chm11116345
 f1_keywords:
 - vis_sdr.chm11116345
-ms.prod: visio
 api_name:
 - Visio.Selection.Group
 ms.assetid: 79afc3c4-7350-2196-7a07-3b7c5629568a

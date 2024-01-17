@@ -3,7 +3,6 @@ title: Application.EnumDirectories method (Visio)
 keywords: vis_sdr.chm10016255
 f1_keywords:
 - vis_sdr.chm10016255
-ms.prod: visio
 api_name:
 - Visio.Application.EnumDirectories
 ms.assetid: 71ed7f7f-3428-5c50-2ab9-5452188dcfe0

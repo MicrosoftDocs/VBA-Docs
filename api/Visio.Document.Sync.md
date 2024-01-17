@@ -3,7 +3,6 @@ title: Document.Sync property (Visio)
 keywords: vis_sdr.chm10560137
 f1_keywords:
 - vis_sdr.chm10560137
-ms.prod: visio
 api_name:
 - Visio.Document.Sync
 ms.assetid: 1e5ef6da-a665-024f-5e35-e8518f4d1054

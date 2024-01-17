@@ -3,7 +3,6 @@ title: InvisibleApp.GetBuiltInStencilFile method (Visio)
 keywords: vis_sdr.chm17562110
 f1_keywords:
 - vis_sdr.chm17562110
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GetBuiltInStencilFile
 ms.assetid: 2f8e28a9-67bd-31fd-25f1-f684dfeeeca8

@@ -3,7 +3,6 @@ title: Shape.GetResults method (Visio)
 keywords: vis_sdr.chm11216320
 f1_keywords:
 - vis_sdr.chm11216320
-ms.prod: visio
 api_name:
 - Visio.Shape.GetResults
 ms.assetid: 7380f8b4-ec22-2271-f4ce-19869264ec25

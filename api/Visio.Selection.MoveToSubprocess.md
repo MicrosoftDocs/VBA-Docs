@@ -3,7 +3,6 @@ title: Selection.MoveToSubprocess method (Visio)
 keywords: vis_sdr.chm11162210
 f1_keywords:
 - vis_sdr.chm11162210
-ms.prod: visio
 api_name:
 - Visio.Selection.MoveToSubprocess
 ms.assetid: a61f1e93-06a3-6ddc-8cae-f92212078c96

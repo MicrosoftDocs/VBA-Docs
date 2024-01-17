@@ -3,7 +3,6 @@ title: Masters.Add method (Visio)
 keywords: vis_sdr.chm10816005
 f1_keywords:
 - vis_sdr.chm10816005
-ms.prod: visio
 api_name:
 - Visio.Masters.Add
 ms.assetid: 3951e242-c7e6-7a30-bf2c-0af7c030ace1

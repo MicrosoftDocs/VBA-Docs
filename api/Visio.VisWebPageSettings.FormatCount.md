@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.FormatCount property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.FormatCount
 ms.assetid: 269825eb-a51d-5494-292b-b524e321d248

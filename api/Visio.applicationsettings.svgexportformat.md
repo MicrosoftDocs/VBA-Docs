@@ -1,6 +1,5 @@
 ---
 title: ApplicationSettings.SVGExportFormat property (Visio)
-ms.prod: visio
 ms.assetid: 9e7ca1cb-5ace-b75b-0e59-61566b9a0169
 ms.date: 06/08/2017
 ms.localizationpriority: medium

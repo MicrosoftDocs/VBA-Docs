@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.AltFormat property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.AltFormat
 ms.assetid: 60f9af7d-dc5a-d234-976a-51db21473e28

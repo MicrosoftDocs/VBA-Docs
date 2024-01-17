@@ -3,7 +3,6 @@ title: Hyperlink.CreateURL method (Visio)
 keywords: vis_sdr.chm15016155
 f1_keywords:
 - vis_sdr.chm15016155
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.CreateURL
 ms.assetid: 3a9cdcb3-19cd-fe03-51a7-24b916b870cc

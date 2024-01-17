@@ -1,6 +1,5 @@
 ---
 title: Comment.ObjectType property (Visio)
-ms.prod: visio
 ms.assetid: bf0d786d-e1b6-65f1-3112-5dfd4ff324e9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

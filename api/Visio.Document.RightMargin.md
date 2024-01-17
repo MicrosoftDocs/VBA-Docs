@@ -3,7 +3,6 @@ title: Document.RightMargin property (Visio)
 keywords: vis_sdr.chm10514235
 f1_keywords:
 - vis_sdr.chm10514235
-ms.prod: visio
 api_name:
 - Visio.Document.RightMargin
 ms.assetid: ee2fc9f4-92a6-a787-7fa0-cd43da52fadb

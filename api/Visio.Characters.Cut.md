@@ -3,7 +3,6 @@ title: Characters.Cut method (Visio)
 keywords: vis_sdr.chm10251015
 f1_keywords:
 - vis_sdr.chm10251015
-ms.prod: visio
 api_name:
 - Visio.Characters.Cut
 ms.assetid: 08c1e155-335c-0d90-2efa-d079ec14b180

@@ -3,7 +3,6 @@ title: Window.SetWindowRect method (Visio)
 keywords: vis_sdr.chm11616590
 f1_keywords:
 - vis_sdr.chm11616590
-ms.prod: visio
 api_name:
 - Visio.Window.SetWindowRect
 ms.assetid: f9f24c79-9c8f-ec0d-f894-1c10150db75e

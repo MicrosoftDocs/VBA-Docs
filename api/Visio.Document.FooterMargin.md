@@ -3,7 +3,6 @@ title: Document.FooterMargin property (Visio)
 keywords: vis_sdr.chm10550590
 f1_keywords:
 - vis_sdr.chm10550590
-ms.prod: visio
 api_name:
 - Visio.Document.FooterMargin
 ms.assetid: f35ea698-bfff-7c46-a4ee-8faf9cc4ac27

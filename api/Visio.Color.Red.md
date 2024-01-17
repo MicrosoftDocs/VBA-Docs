@@ -3,7 +3,6 @@ title: Color.Red property (Visio)
 keywords: vis_sdr.chm12214190
 f1_keywords:
 - vis_sdr.chm12214190
-ms.prod: visio
 api_name:
 - Visio.Color.Red
 ms.assetid: aeb7a499-710d-de11-37c6-673aac54f27d

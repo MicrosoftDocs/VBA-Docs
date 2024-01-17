@@ -3,7 +3,6 @@ title: Documents.CheckOut method (Visio)
 keywords: vis_sdr.chm10652035
 f1_keywords:
 - vis_sdr.chm10652035
-ms.prod: visio
 api_name:
 - Visio.Documents.CheckOut
 ms.assetid: eda3b173-0874-47b6-e18d-a0036e6a31e5

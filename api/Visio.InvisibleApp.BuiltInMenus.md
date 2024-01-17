@@ -3,7 +3,6 @@ title: InvisibleApp.BuiltInMenus property (Visio)
 keywords: vis_sdr.chm17513160
 f1_keywords:
 - vis_sdr.chm17513160
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BuiltInMenus
 ms.assetid: 543cc95a-8ceb-439e-0d66-d7658bf5afcd

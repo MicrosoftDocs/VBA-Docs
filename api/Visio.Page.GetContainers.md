@@ -3,7 +3,6 @@ title: Page.GetContainers method (Visio)
 keywords: vis_sdr.chm10962165
 f1_keywords:
 - vis_sdr.chm10962165
-ms.prod: visio
 api_name:
 - Visio.Page.GetContainers
 ms.assetid: 17d9365b-f9ac-85ba-e1cb-cd02ea1a2f22

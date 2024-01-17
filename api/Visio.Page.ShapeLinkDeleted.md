@@ -3,7 +3,6 @@ title: Page.ShapeLinkDeleted event (Visio)
 keywords: vis_sdr.chm10962020
 f1_keywords:
 - vis_sdr.chm10962020
-ms.prod: visio
 api_name:
 - Visio.Page.ShapeLinkDeleted
 ms.assetid: e19709c4-45e4-f0f1-8e59-72b1ccbdf130

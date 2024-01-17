@@ -3,7 +3,6 @@ title: Window.ShowGuides property (Visio)
 keywords: vis_sdr.chm11614355
 f1_keywords:
 - vis_sdr.chm11614355
-ms.prod: visio
 api_name:
 - Visio.Window.ShowGuides
 ms.assetid: 875bbdb6-c628-d4be-85d8-fc2529b53627

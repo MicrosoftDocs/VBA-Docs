@@ -3,7 +3,6 @@ title: VisSelectionTypes enumeration (Visio)
 keywords: vis_sdr.chm70370
 f1_keywords:
 - vis_sdr.chm70370
-ms.prod: visio
 ms.assetid: f8e4b32b-a37c-d1a3-a1bb-9202a2555470
 ms.date: 06/08/2017
 ms.localizationpriority: medium

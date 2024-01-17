@@ -3,7 +3,6 @@ title: Selection.Combine method (Visio)
 keywords: vis_sdr.chm11116130
 f1_keywords:
 - vis_sdr.chm11116130
-ms.prod: visio
 api_name:
 - Visio.Selection.Combine
 ms.assetid: a74b25b0-6957-2088-f34f-4000c2be9736

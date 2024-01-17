@@ -3,7 +3,6 @@ title: DataColumns.SetColumnProperties method (Visio)
 keywords: vis_sdr.chm16660390
 f1_keywords:
 - vis_sdr.chm16660390
-ms.prod: visio
 api_name:
 - Visio.DataColumns.SetColumnProperties
 ms.assetid: 453de04e-3def-11d1-67a4-127da4459564

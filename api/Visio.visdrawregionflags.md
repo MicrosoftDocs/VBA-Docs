@@ -3,7 +3,6 @@ title: VisDrawRegionFlags enumeration (Visio)
 keywords: vis_sdr.chm70250
 f1_keywords:
 - vis_sdr.chm70250
-ms.prod: visio
 ms.assetid: 8d66d514-0d24-8d0c-5413-dfccd0c9c5ba
 ms.date: 06/08/2017
 ms.localizationpriority: medium

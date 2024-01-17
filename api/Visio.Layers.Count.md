@@ -3,7 +3,6 @@ title: Layers.Count property (Visio)
 keywords: vis_sdr.chm11913330
 f1_keywords:
 - vis_sdr.chm11913330
-ms.prod: visio
 api_name:
 - Visio.Layers.Count
 ms.assetid: 455b9f6f-8dd1-28c6-1272-1f6b73f835db

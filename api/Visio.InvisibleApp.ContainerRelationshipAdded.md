@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.ContainerRelationshipAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ContainerRelationshipAdded
 ms.assetid: 18d47470-f361-dc9d-2547-4b7bf81db453

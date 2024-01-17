@@ -1,6 +1,5 @@
 ---
 title: VisReplaceFlags enumeration (Visio)
-ms.prod: visio
 ms.assetid: cf270178-f939-7eb4-b8e1-3b4153aff221
 ms.date: 06/08/2017
 ms.localizationpriority: medium

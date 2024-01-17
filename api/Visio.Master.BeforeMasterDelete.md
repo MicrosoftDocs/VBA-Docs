@@ -3,7 +3,6 @@ title: Master.BeforeMasterDelete event (Visio)
 keywords: vis_sdr.chm10719040
 f1_keywords:
 - vis_sdr.chm10719040
-ms.prod: visio
 api_name:
 - Visio.Master.BeforeMasterDelete
 ms.assetid: 46b455db-9165-0ed4-ebf3-15e1794313be

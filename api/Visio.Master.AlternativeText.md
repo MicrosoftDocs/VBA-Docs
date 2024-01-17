@@ -1,6 +1,5 @@
 ---
 title: Master.AlternativeText property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Master.AlternativeText
 ms.date: 05/08/2019

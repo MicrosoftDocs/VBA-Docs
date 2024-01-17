@@ -3,7 +3,6 @@ title: OLEObject.Shape property (Visio)
 keywords: vis_sdr.chm15214320
 f1_keywords:
 - vis_sdr.chm15214320
-ms.prod: visio
 api_name:
 - Visio.OLEObject.Shape
 ms.assetid: e86e5aa0-3cfb-140b-1584-1af7f91ec17c

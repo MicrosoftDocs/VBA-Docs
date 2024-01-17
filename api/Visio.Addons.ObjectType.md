@@ -3,7 +3,6 @@ title: Addons.ObjectType property (Visio)
 keywords: vis_sdr.chm12513960
 f1_keywords:
 - vis_sdr.chm12513960
-ms.prod: visio
 api_name:
 - Visio.Addons.ObjectType
 ms.assetid: d5a0ed1c-d242-3cf3-de0e-419e76bf71b6

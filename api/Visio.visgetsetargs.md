@@ -3,7 +3,6 @@ title: VisGetSetArgs enumeration (Visio)
 keywords: vis_sdr.chm70055
 f1_keywords:
 - vis_sdr.chm70055
-ms.prod: visio
 ms.assetid: e6e35119-5c80-21af-5be3-47f17d616069
 ms.date: 06/08/2017
 ms.localizationpriority: medium

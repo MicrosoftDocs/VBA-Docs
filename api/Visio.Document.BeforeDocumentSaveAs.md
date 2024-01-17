@@ -1,6 +1,5 @@
 ---
 title: Document.BeforeDocumentSaveAs event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Document.BeforeDocumentSaveAs
 ms.assetid: 6802441e-5020-8d5c-f637-3654df71cba0

@@ -3,7 +3,6 @@ title: Application.ScreenUpdating property (Visio)
 keywords: vis_sdr.chm10014295
 f1_keywords:
 - vis_sdr.chm10014295
-ms.prod: visio
 api_name:
 - Visio.Application.ScreenUpdating
 ms.assetid: 934e697f-da6c-5793-433b-dddb5d806920

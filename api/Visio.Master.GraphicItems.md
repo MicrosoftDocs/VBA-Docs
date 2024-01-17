@@ -3,7 +3,6 @@ title: Master.GraphicItems property (Visio)
 keywords: vis_sdr.chm10760135
 f1_keywords:
 - vis_sdr.chm10760135
-ms.prod: visio
 api_name:
 - Visio.Master.GraphicItems
 ms.assetid: 615b4909-c248-3ebd-c7c1-53151464cee9

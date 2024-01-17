@@ -3,7 +3,6 @@ title: Style.Document property (Visio)
 keywords: vis_sdr.chm11413430
 f1_keywords:
 - vis_sdr.chm11413430
-ms.prod: visio
 api_name:
 - Visio.Style.Document
 ms.assetid: 222c541b-6356-35ec-7de7-b0792acbeae5

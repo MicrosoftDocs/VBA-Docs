@@ -3,7 +3,6 @@ title: InvisibleApp.InhibitSelectChange property (Visio)
 keywords: vis_sdr.chm17550675
 f1_keywords:
 - vis_sdr.chm17550675
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.InhibitSelectChange
 ms.assetid: 1e88d64d-281e-654c-7801-dfb2ac132ad8

@@ -3,7 +3,6 @@ title: UIObject.MenuAnimationStyle property (Visio)
 keywords: vis_sdr.chm14913900
 f1_keywords:
 - vis_sdr.chm14913900
-ms.prod: visio
 api_name:
 - Visio.UIObject.MenuAnimationStyle
 ms.assetid: 17a7b713-62b4-98cc-141d-fd86e762ba99

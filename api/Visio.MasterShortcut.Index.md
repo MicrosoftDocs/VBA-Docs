@@ -3,7 +3,6 @@ title: MasterShortcut.Index property (Visio)
 keywords: vis_sdr.chm16013695
 f1_keywords:
 - vis_sdr.chm16013695
-ms.prod: visio
 api_name:
 - Visio.MasterShortcut.Index
 ms.assetid: aa2bf63b-ef42-74ec-f631-eb0700d9f392

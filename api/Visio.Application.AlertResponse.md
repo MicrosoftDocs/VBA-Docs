@@ -3,7 +3,6 @@ title: Application.AlertResponse property (Visio)
 keywords: vis_sdr.chm10013070
 f1_keywords:
 - vis_sdr.chm10013070
-ms.prod: visio
 api_name:
 - Visio.Application.AlertResponse
 ms.assetid: aa7a14b1-b2df-daa6-7298-66880a573f5c

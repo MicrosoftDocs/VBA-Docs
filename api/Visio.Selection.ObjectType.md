@@ -3,7 +3,6 @@ title: Selection.ObjectType property (Visio)
 keywords: vis_sdr.chm11113960
 f1_keywords:
 - vis_sdr.chm11113960
-ms.prod: visio
 api_name:
 - Visio.Selection.ObjectType
 ms.assetid: b21e23b1-8ff3-ec9e-f92d-230f0ea250a7

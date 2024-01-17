@@ -3,7 +3,6 @@ title: Window.NewWindow method (Visio)
 keywords: vis_sdr.chm11651350
 f1_keywords:
 - vis_sdr.chm11651350
-ms.prod: visio
 api_name:
 - Visio.Window.NewWindow
 ms.assetid: 0cca00d4-9cf4-6a30-b9f2-a37fbad69296

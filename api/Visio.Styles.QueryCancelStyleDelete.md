@@ -3,7 +3,6 @@ title: Styles.QueryCancelStyleDelete event (Visio)
 keywords: vis_sdr.chm11519305
 f1_keywords:
 - vis_sdr.chm11519305
-ms.prod: visio
 api_name:
 - Visio.Styles.QueryCancelStyleDelete
 ms.assetid: 08d1f26c-bdcd-1f5d-3dd6-a657ef6619ab

@@ -3,7 +3,6 @@ title: Document.SaveAs method (Visio)
 keywords: vis_sdr.chm10516500
 f1_keywords:
 - vis_sdr.chm10516500
-ms.prod: visio
 api_name:
 - Visio.Document.SaveAs
 ms.assetid: 308e92b1-de61-9ce3-19be-b7f9126247a0

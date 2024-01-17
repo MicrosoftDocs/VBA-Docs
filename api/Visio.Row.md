@@ -3,7 +3,6 @@ title: Row object (Visio)
 keywords: vis_sdr.chm10210
 f1_keywords:
 - vis_sdr.chm10210
-ms.prod: visio
 api_name:
 - Visio.Row
 ms.assetid: d3956bc6-ab74-5e85-2130-cc5ccf64f664

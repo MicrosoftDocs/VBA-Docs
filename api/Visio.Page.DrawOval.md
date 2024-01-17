@@ -3,7 +3,6 @@ title: Page.DrawOval method (Visio)
 keywords: vis_sdr.chm10916210
 f1_keywords:
 - vis_sdr.chm10916210
-ms.prod: visio
 api_name:
 - Visio.Page.DrawOval
 ms.assetid: 9e3afc60-b14d-c831-5271-be782366a2d6

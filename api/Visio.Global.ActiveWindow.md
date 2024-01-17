@@ -3,7 +3,6 @@ title: Global.ActiveWindow property (Visio)
 keywords: vis_sdr.chm12813035
 f1_keywords:
 - vis_sdr.chm12813035
-ms.prod: visio
 api_name:
 - Visio.Global.ActiveWindow
 ms.assetid: 3d804eb0-9e84-0123-e921-edfbcd79d461

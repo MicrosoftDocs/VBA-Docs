@@ -1,6 +1,5 @@
 ---
 title: VisSaveAsWeb.AttachToVisioDoc method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisSaveAsWeb.AttachToVisioDoc
 ms.assetid: ed2aba12-21b0-d953-8f5b-0634255f03b5

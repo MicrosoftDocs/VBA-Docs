@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.GetFormatName method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.GetFormatName
 ms.assetid: 5586e07a-8b05-8894-d877-45c27584d4e0

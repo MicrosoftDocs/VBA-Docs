@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.ThemeName property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.ThemeName
 ms.assetid: 9efd26b1-7426-1ff4-0b51-5463a2beb822

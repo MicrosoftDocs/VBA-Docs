@@ -3,7 +3,6 @@ title: Window.CenterViewOnShape method (Visio)
 keywords: vis_sdr.chm11662275
 f1_keywords:
 - vis_sdr.chm11662275
-ms.prod: visio
 api_name:
 - Visio.Window.CenterViewOnShape
 ms.assetid: 23f219be-bfb7-0f5b-89c0-855093e4bbd9

@@ -3,7 +3,6 @@ title: Document.Printer property (Visio)
 keywords: vis_sdr.chm10550780
 f1_keywords:
 - vis_sdr.chm10550780
-ms.prod: visio
 api_name:
 - Visio.Document.Printer
 ms.assetid: cb710f0e-a284-c81a-c45d-5bf66d508743

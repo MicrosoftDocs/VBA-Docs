@@ -1,6 +1,5 @@
 ---
 title: Viewer.LayerDeleted property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.LayerDeleted
 ms.assetid: cb7ea0ab-fdf8-2621-5ebc-edab2d9869f8

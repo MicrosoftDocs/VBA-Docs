@@ -3,7 +3,6 @@ title: Documents.BeforeDocumentSaveAs event (Visio)
 keywords: vis_sdr.chm10619035
 f1_keywords:
 - vis_sdr.chm10619035
-ms.prod: visio
 api_name:
 - Visio.Documents.BeforeDocumentSaveAs
 ms.assetid: f5ee2f06-9559-470b-bf32-23dad5a5cc0a

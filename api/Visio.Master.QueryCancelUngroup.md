@@ -3,7 +3,6 @@ title: Master.QueryCancelUngroup event (Visio)
 keywords: vis_sdr.chm10719330
 f1_keywords:
 - vis_sdr.chm10719330
-ms.prod: visio
 api_name:
 - Visio.Master.QueryCancelUngroup
 ms.assetid: 44ce0f2e-e877-ec7f-b5ec-1c3ff3b9749a

@@ -3,7 +3,6 @@ title: ServerPublishOptions.SetRecordsetsToPublish method (Visio)
 keywords: vis_sdr.chm17962385
 f1_keywords:
 - vis_sdr.chm17962385
-ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.SetRecordsetsToPublish
 ms.assetid: c79a8677-e4f0-9eff-9eda-72b11d0af240

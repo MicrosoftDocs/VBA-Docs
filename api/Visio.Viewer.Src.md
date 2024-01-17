@@ -1,6 +1,5 @@
 ---
 title: Viewer.Src property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.Src
 ms.assetid: 1da0ff33-12d6-0102-478d-fae692678c7f

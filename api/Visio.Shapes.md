@@ -3,7 +3,6 @@ title: Shapes object (Visio)
 keywords: vis_sdr.chm10230
 f1_keywords:
 - vis_sdr.chm10230
-ms.prod: visio
 api_name:
 - Visio.Shapes
 ms.assetid: 9ec3c379-54c2-50d8-4f6b-79a95b8d12f0

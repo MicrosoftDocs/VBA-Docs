@@ -1,6 +1,5 @@
 ---
 title: Viewer.ReviewerMarkupVisible property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ReviewerMarkupVisible
 ms.assetid: 3c365da2-1eac-0462-607b-be9923f62942

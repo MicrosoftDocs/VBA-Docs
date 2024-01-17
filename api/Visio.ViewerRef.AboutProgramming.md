@@ -1,6 +1,5 @@
 ---
 title: About programming Visio Viewer
-ms.prod: visio
 ms.assetid: b9bf841f-c5e5-c737-b8c0-86bd171144c8
 ms.date: 06/20/2019
 ms.localizationpriority: medium

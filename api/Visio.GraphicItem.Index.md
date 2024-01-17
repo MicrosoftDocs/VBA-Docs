@@ -3,7 +3,6 @@ title: GraphicItem.Index property (Visio)
 keywords: vis_sdr.chm16913695
 f1_keywords:
 - vis_sdr.chm16913695
-ms.prod: visio
 api_name:
 - Visio.GraphicItem.Index
 ms.assetid: 44dde969-4330-8ad0-5ed2-a80e4c755143

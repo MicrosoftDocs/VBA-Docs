@@ -3,7 +3,6 @@ title: Page.PageSheet property (Visio)
 keywords: vis_sdr.chm10914000
 f1_keywords:
 - vis_sdr.chm10914000
-ms.prod: visio
 api_name:
 - Visio.Page.PageSheet
 ms.assetid: 495709a8-92f0-6fdf-753f-7ac25c5daaab

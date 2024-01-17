@@ -1,7 +1,7 @@
 ---
 title: Visio object model for Visual Basic for Applications (VBA)
 description: This section of the Visio VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Visio object model.
-ms.prod: visio
+ms.service: visio
 ms.assetid: 166b707a-a5bf-42ae-7741-8ceb8a0ecfcc
 ms.date: 01/22/2020
 ms.localizationpriority: medium

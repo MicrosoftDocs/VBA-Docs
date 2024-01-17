@@ -3,7 +3,6 @@ title: Connects.Document property (Visio)
 keywords: vis_sdr.chm10413430
 f1_keywords:
 - vis_sdr.chm10413430
-ms.prod: visio
 api_name:
 - Visio.Connects.Document
 ms.assetid: 7a161248-2bf5-42e7-772d-e0f4de979776

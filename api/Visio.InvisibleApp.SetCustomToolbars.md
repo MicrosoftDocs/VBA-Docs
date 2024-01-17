@@ -3,7 +3,6 @@ title: InvisibleApp.SetCustomToolbars method (Visio)
 keywords: vis_sdr.chm17516565
 f1_keywords:
 - vis_sdr.chm17516565
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SetCustomToolbars
 ms.assetid: d9979327-5997-3517-fde5-91faa647be17

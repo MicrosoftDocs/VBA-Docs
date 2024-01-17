@@ -3,7 +3,6 @@ title: Shape.CreateSubProcess method (Visio)
 keywords: vis_sdr.chm11262260
 f1_keywords:
 - vis_sdr.chm11262260
-ms.prod: visio
 api_name:
 - Visio.Shape.CreateSubProcess
 ms.assetid: efb26247-777f-d468-a8e6-19a9e9c4a343

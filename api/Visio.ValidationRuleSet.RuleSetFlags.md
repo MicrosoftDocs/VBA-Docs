@@ -3,7 +3,6 @@ title: ValidationRuleSet.RuleSetFlags property (Visio)
 keywords: vis_sdr.chm18262640
 f1_keywords:
 - vis_sdr.chm18262640
-ms.prod: visio
 api_name:
 - Visio.ValidationRuleSet.RuleSetFlags
 ms.assetid: fefa08cb-65d5-f4b2-619a-d6345cfd83f4

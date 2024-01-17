@@ -3,7 +3,6 @@ title: ToolbarSet object (Visio)
 keywords: vis_sdr.chm10290
 f1_keywords:
 - vis_sdr.chm10290
-ms.prod: visio
 api_name:
 - Visio.ToolbarSet
 ms.assetid: fa03384d-29d3-772d-22aa-81a96c80f4c2

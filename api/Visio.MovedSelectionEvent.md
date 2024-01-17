@@ -3,7 +3,6 @@ title: MovedSelectionEvent object (Visio)
 keywords: vis_sdr.chm61050
 f1_keywords:
 - vis_sdr.chm61050
-ms.prod: visio
 api_name:
 - Visio.MovedSelectionEvent
 ms.assetid: e29b0f23-08b6-7c63-9955-4a989c6e6892

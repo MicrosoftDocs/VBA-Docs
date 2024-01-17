@@ -3,7 +3,6 @@ title: Shape.CharCount property (Visio)
 keywords: vis_sdr.chm11213220
 f1_keywords:
 - vis_sdr.chm11213220
-ms.prod: visio
 api_name:
 - Visio.Shape.CharCount
 ms.assetid: 2da9c359-d86c-bdf6-3553-01ded11d9208

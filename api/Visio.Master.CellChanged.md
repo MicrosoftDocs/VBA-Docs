@@ -3,7 +3,6 @@ title: Master.CellChanged event (Visio)
 keywords: vis_sdr.chm10719090
 f1_keywords:
 - vis_sdr.chm10719090
-ms.prod: visio
 api_name:
 - Visio.Master.CellChanged
 ms.assetid: 53323234-8e92-de8b-65b8-20eb867748dd

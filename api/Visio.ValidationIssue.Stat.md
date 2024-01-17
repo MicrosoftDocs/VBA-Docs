@@ -3,7 +3,6 @@ title: ValidationIssue.Stat property (Visio)
 keywords: vis_sdr.chm18614420
 f1_keywords:
 - vis_sdr.chm18614420
-ms.prod: visio
 api_name:
 - Visio.ValidationIssue.Stat
 ms.assetid: 5dfeb143-da4f-59d1-daae-b9d77a3ae219

@@ -3,7 +3,6 @@ title: Shape.FormulaChanged event (Visio)
 keywords: vis_sdr.chm11219160
 f1_keywords:
 - vis_sdr.chm11219160
-ms.prod: visio
 api_name:
 - Visio.Shape.FormulaChanged
 ms.assetid: cf141b03-5eaf-bf42-a64f-049f8dec2a14

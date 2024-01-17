@@ -3,7 +3,6 @@ title: Event.Enabled property (Visio)
 keywords: vis_sdr.chm12613455
 f1_keywords:
 - vis_sdr.chm12613455
-ms.prod: visio
 api_name:
 - Visio.Event.Enabled
 ms.assetid: d83c45f1-3c4f-4d14-cbf0-cb21ef12d294

@@ -1,6 +1,5 @@
 ---
 title: Viewer.CustomPropertyValue property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.CustomPropertyValue
 ms.assetid: 6e7b87bf-8c2f-3fb6-84a2-a56ee9e59fd7

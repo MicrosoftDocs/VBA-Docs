@@ -3,7 +3,6 @@ title: KeyboardEvent object (Visio)
 keywords: vis_sdr.chm52055
 f1_keywords:
 - vis_sdr.chm52055
-ms.prod: visio
 api_name:
 - Visio.KeyboardEvent
 ms.assetid: 5091c972-b226-1caa-d40f-96a5f3b5bf01

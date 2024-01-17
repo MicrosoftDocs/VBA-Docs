@@ -3,7 +3,6 @@ title: Master.Stat property (Visio)
 keywords: vis_sdr.chm10714420
 f1_keywords:
 - vis_sdr.chm10714420
-ms.prod: visio
 api_name:
 - Visio.Master.Stat
 ms.assetid: 1cc33fe9-e317-ab3d-1ce1-a7f8c619c4f2

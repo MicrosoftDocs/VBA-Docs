@@ -3,7 +3,6 @@ title: RelatedShapePairEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17713960
 f1_keywords:
 - vis_sdr.chm17713960
-ms.prod: visio
 api_name:
 - Visio.RelatedShapePairEvent.ObjectType
 ms.assetid: 9a6e0a30-db0e-62bf-8bb1-a0d7b3061d2f

@@ -3,7 +3,6 @@ title: Connects.Item property (Visio)
 keywords: vis_sdr.chm10413765
 f1_keywords:
 - vis_sdr.chm10413765
-ms.prod: visio
 api_name:
 - Visio.Connects.Item
 ms.assetid: 3b43a3ae-cf92-cc05-2750-c37554d9202c

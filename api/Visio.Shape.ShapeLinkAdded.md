@@ -3,7 +3,6 @@ title: Shape.ShapeLinkAdded event (Visio)
 keywords: vis_sdr.chm11262015
 f1_keywords:
 - vis_sdr.chm11262015
-ms.prod: visio
 api_name:
 - Visio.Shape.ShapeLinkAdded
 ms.assetid: 5cd7431f-18da-184c-7976-06f174cd5f73

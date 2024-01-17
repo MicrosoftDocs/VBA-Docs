@@ -3,7 +3,6 @@ title: VisCellIndices enumeration (Visio)
 keywords: vis_sdr.chm70030
 f1_keywords:
 - vis_sdr.chm70030
-ms.prod: visio
 ms.assetid: b752cde7-0595-cd30-49e3-91ed921496a2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.WindowCloseCanceled event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.WindowCloseCanceled
 ms.assetid: 39a68cc4-81af-0d8b-4cfc-5a0fdd3b6902

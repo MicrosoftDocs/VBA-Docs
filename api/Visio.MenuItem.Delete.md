@@ -3,7 +3,6 @@ title: MenuItem.Delete method (Visio)
 keywords: vis_sdr.chm12916165
 f1_keywords:
 - vis_sdr.chm12916165
-ms.prod: visio
 api_name:
 - Visio.MenuItem.Delete
 ms.assetid: f8585bf5-17ab-2510-b5ed-610e2abf993f

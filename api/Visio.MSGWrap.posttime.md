@@ -3,7 +3,6 @@ title: MSGWrap.PostTime property (Visio)
 keywords: vis_sdr.chm16150770
 f1_keywords:
 - vis_sdr.chm16150770
-ms.prod: visio
 api_name:
 - Visio.MSGWrap.PostTime
 ms.assetid: e43c865b-eca8-22c7-de8e-1c6ec3f53348

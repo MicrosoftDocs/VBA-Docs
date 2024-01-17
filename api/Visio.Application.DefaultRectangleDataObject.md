@@ -3,7 +3,6 @@ title: Application.DefaultRectangleDataObject property (Visio)
 keywords: vis_sdr.chm10060050
 f1_keywords:
 - vis_sdr.chm10060050
-ms.prod: visio
 api_name:
 - Visio.Application.DefaultRectangleDataObject
 ms.assetid: 22e7f5ff-516d-4bd0-82bf-2363d1cad973

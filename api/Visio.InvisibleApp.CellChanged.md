@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.CellChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CellChanged
 ms.assetid: 6fbb3f63-db6f-6937-7ace-97bf9241615a

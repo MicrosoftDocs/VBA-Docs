@@ -3,7 +3,6 @@ title: Style.GetResults method (Visio)
 keywords: vis_sdr.chm11416320
 f1_keywords:
 - vis_sdr.chm11416320
-ms.prod: visio
 api_name:
 - Visio.Style.GetResults
 ms.assetid: 43106f2c-6731-b110-f713-7d172909feae

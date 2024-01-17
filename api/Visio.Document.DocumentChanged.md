@@ -3,7 +3,6 @@ title: Document.DocumentChanged event (Visio)
 keywords: vis_sdr.chm10519120
 f1_keywords:
 - vis_sdr.chm10519120
-ms.prod: visio
 api_name:
 - Visio.Document.DocumentChanged
 ms.assetid: 3a7fd39e-f944-1c41-a5d3-130e795836bf

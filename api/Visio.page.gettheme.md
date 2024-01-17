@@ -1,6 +1,5 @@
 ---
 title: Page.GetTheme method (Visio)
-ms.prod: visio
 ms.assetid: 31c84e69-0bc8-2d1a-84d8-7397110d74ae
 ms.date: 06/08/2017
 ms.localizationpriority: medium

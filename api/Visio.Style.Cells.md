@@ -3,7 +3,6 @@ title: Style.Cells property (Visio)
 keywords: vis_sdr.chm11413190
 f1_keywords:
 - vis_sdr.chm11413190
-ms.prod: visio
 api_name:
 - Visio.Style.Cells
 ms.assetid: 44b1d1a0-4863-0642-407c-dab5061eff5e

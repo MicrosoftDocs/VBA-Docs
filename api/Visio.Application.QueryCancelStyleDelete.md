@@ -1,6 +1,5 @@
 ---
 title: Application.QueryCancelStyleDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.QueryCancelStyleDelete
 ms.assetid: 7f3ce781-67d8-7a6e-d8f0-b077c8956b12

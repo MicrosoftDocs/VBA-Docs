@@ -3,7 +3,6 @@ title: Shape.OpenSheetWindow method (Visio)
 keywords: vis_sdr.chm11216415
 f1_keywords:
 - vis_sdr.chm11216415
-ms.prod: visio
 api_name:
 - Visio.Shape.OpenSheetWindow
 ms.assetid: 744b72f5-381a-48fc-407f-20ffe815c54e

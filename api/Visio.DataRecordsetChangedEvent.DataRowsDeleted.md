@@ -3,7 +3,6 @@ title: DataRecordsetChangedEvent.DataRowsDeleted property (Visio)
 keywords: vis_sdr.chm17260460
 f1_keywords:
 - vis_sdr.chm17260460
-ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent.DataRowsDeleted
 ms.assetid: 9b2b0b6e-702a-824b-ff83-210de5c8c889

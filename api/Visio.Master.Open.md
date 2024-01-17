@@ -3,7 +3,6 @@ title: Master.Open method (Visio)
 keywords: vis_sdr.chm10751195
 f1_keywords:
 - vis_sdr.chm10751195
-ms.prod: visio
 api_name:
 - Visio.Master.Open
 ms.assetid: 3f14f3b2-1cfb-ccf9-b344-7fbf80ae9a26

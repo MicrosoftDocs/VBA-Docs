@@ -3,7 +3,6 @@ title: Page.SpatialSearch property (Visio)
 keywords: vis_sdr.chm10914405
 f1_keywords:
 - vis_sdr.chm10914405
-ms.prod: visio
 api_name:
 - Visio.Page.SpatialSearch
 ms.assetid: 539d2884-2092-6eb5-8d22-af8062f139db

@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.WindowChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowChanged
 ms.assetid: f29408f1-fce6-85c9-779e-dba20d811755
