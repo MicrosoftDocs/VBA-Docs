@@ -49,7 +49,9 @@
     "fileMetadata": {
       "ms.service": {
         "api/PowerPoint.*.md": "powerpoint",
-        "powerpoint/**.md": "powerpoint"
+        "powerpoint/**.md": "powerpoint",
+        "api/Project.*.md": "project",
+        "project/**.md": "project"
       },
       "ms.topic": {
         "api/**.md": "reference",
@@ -69,7 +71,6 @@
         "api/Access.*.md": "access",
         "api/Excel.*.md": "excel",
         "api/Outlook.*.md": "outlook",
-        "api/Project.*.md": "project",
         "api/Publisher.*.md": "publisher",
         "api/Visio.*.md": "visio",
         "api/Word.*.md": "word",
@@ -81,7 +82,6 @@
         "Library-Reference/**.md": "office",
         "Office-Mac/**.md": "office",
         "outlook/**.md": "outlook",
-        "project/**.md": "project",
         "publisher/**.md": "publisher",
         "visio/**.md": "visio",
         "word/**.md": "word"
