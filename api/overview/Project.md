@@ -1,6 +1,6 @@
 ---
 title: Project Visual Basic for Applications (VBA) reference
-ms.prod: project
+ms.service: project
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Project solutions.
 ms.date: 10/10/2018
 ms.localizationpriority: medium
