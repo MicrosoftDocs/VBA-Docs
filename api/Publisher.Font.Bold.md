@@ -3,7 +3,6 @@ title: Font.Bold property (Publisher)
 keywords: vbapb10.chm5373955
 f1_keywords:
 - vbapb10.chm5373955
-ms.prod: publisher
 api_name:
 - Publisher.Font.Bold
 ms.assetid: 3b9ba2b0-c319-9d08-9a36-5b292046962e

@@ -3,7 +3,6 @@ title: ThreeDFormat.RotationX property (Publisher)
 keywords: vbapb10.chm3801353
 f1_keywords:
 - vbapb10.chm3801353
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.RotationX
 ms.assetid: 1ee394cb-746b-02f0-f2af-aa4a6fffd172

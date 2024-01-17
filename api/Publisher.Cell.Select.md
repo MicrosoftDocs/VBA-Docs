@@ -3,7 +3,6 @@ title: Cell.Select method (Publisher)
 keywords: vbapb10.chm5111843
 f1_keywords:
 - vbapb10.chm5111843
-ms.prod: publisher
 api_name:
 - Publisher.Cell.Select
 ms.assetid: 37a026a3-67ec-7a13-5eb4-66e14918579d

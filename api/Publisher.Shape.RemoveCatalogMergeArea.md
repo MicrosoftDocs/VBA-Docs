@@ -3,7 +3,6 @@ title: Shape.RemoveCatalogMergeArea method (Publisher)
 keywords: vbapb10.chm5308691
 f1_keywords:
 - vbapb10.chm5308691
-ms.prod: publisher
 api_name:
 - Publisher.Shape.RemoveCatalogMergeArea
 ms.assetid: addff960-562e-b8e8-ec56-ddcf2b9ccaa7

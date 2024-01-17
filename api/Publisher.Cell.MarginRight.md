@@ -3,7 +3,6 @@ title: Cell.MarginRight property (Publisher)
 keywords: vbapb10.chm5111828
 f1_keywords:
 - vbapb10.chm5111828
-ms.prod: publisher
 api_name:
 - Publisher.Cell.MarginRight
 ms.assetid: d297222e-7fc1-9225-e098-1a85d7734d77

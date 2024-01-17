@@ -3,7 +3,6 @@ title: TabStop.Position property (Publisher)
 keywords: vbapb10.chm5636099
 f1_keywords:
 - vbapb10.chm5636099
-ms.prod: publisher
 api_name:
 - Publisher.TabStop.Position
 ms.assetid: 1ca7831a-6662-036e-8ba2-5784bc95fe8d

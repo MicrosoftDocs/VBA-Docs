@@ -3,7 +3,6 @@ title: PictureFormat.HorizontalScale property (Publisher)
 keywords: vbapb10.chm3604760
 f1_keywords:
 - vbapb10.chm3604760
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HorizontalScale
 ms.assetid: 7be51cde-5b2d-7870-7f39-2fa9bd714d68

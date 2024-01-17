@@ -3,7 +3,6 @@ title: Shape.Height property (Publisher)
 keywords: vbapb10.chm2228281
 f1_keywords:
 - vbapb10.chm2228281
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Height
 ms.assetid: 2796ae7e-f4b9-4d79-ff98-d5807286b41e

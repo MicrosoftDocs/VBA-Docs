@@ -3,7 +3,6 @@ title: WrapFormat object (Publisher)
 keywords: vbapb10.chm851967
 f1_keywords:
 - vbapb10.chm851967
-ms.prod: publisher
 api_name:
 - Publisher.WrapFormat
 ms.assetid: b6f80d40-2043-6944-3ed8-f26635c7fa4d

@@ -3,7 +3,6 @@ title: MailMerge.DataSource property (Publisher)
 keywords: vbapb10.chm6225923
 f1_keywords:
 - vbapb10.chm6225923
-ms.prod: publisher
 api_name:
 - Publisher.MailMerge.DataSource
 ms.assetid: 19b32513-fd57-617a-38e2-6230e3e036b9

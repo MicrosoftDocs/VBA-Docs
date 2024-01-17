@@ -3,7 +3,6 @@ title: Options.AddHebDoubleQuote property (Publisher)
 keywords: vbapb10.chm1048629
 f1_keywords:
 - vbapb10.chm1048629
-ms.prod: publisher
 api_name:
 - Publisher.Options.AddHebDoubleQuote
 ms.assetid: 9c71b52e-0273-7ca9-1f50-5beed65c2e73

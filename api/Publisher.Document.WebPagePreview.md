@@ -3,7 +3,6 @@ title: Document.WebPagePreview method (Publisher)
 keywords: vbapb10.chm196724
 f1_keywords:
 - vbapb10.chm196724
-ms.prod: publisher
 api_name:
 - Publisher.Document.WebPagePreview
 ms.assetid: 44083fae-d21d-9cd3-3553-a4d4346141f5

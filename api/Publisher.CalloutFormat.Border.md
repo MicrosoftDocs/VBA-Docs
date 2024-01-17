@@ -3,7 +3,6 @@ title: CalloutFormat.Border property (Publisher)
 keywords: vbapb10.chm2490628
 f1_keywords:
 - vbapb10.chm2490628
-ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.Border
 ms.assetid: 64a72ec7-4cc8-f0c7-9858-45e97bac0411

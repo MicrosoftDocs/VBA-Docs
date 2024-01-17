@@ -3,7 +3,6 @@ title: Cell.Fill property (Publisher)
 keywords: vbapb10.chm5111817
 f1_keywords:
 - vbapb10.chm5111817
-ms.prod: publisher
 api_name:
 - Publisher.Cell.Fill
 ms.assetid: 3ff3fda8-aca7-534e-6a56-99d6a3d9e9e2

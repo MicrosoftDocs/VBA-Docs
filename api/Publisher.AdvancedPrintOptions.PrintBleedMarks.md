@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.PrintBleedMarks property (Publisher)
 keywords: vbapb10.chm7077907
 f1_keywords:
 - vbapb10.chm7077907
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PrintBleedMarks
 ms.assetid: f0c69d5f-4bfd-7a4c-3607-714859bcc86c

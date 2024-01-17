@@ -3,7 +3,6 @@ title: TextEffectFormat.FontName property (Publisher)
 keywords: vbapb10.chm3735811
 f1_keywords:
 - vbapb10.chm3735811
-ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.FontName
 ms.assetid: c1391e1d-ccb2-2a36-69fd-3f5efdabfe72

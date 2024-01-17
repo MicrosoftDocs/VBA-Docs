@@ -3,7 +3,6 @@ title: WebListBoxItems.Delete method (Publisher)
 keywords: vbapb10.chm4128773
 f1_keywords:
 - vbapb10.chm4128773
-ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems.Delete
 ms.assetid: 1efd92e7-77a1-62cb-655a-aa6e600df018

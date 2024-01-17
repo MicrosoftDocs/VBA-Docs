@@ -3,7 +3,6 @@ title: TextRange.Collapse method (Publisher)
 keywords: vbapb10.chm5308420
 f1_keywords:
 - vbapb10.chm5308420
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Collapse
 ms.assetid: ae177297-bf3b-ce0f-cf3a-29093b115996

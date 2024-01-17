@@ -3,7 +3,6 @@ title: Document.IsWizard property (Publisher)
 keywords: vbapb10.chm196745
 f1_keywords:
 - vbapb10.chm196745
-ms.prod: publisher
 api_name:
 - Publisher.Document.IsWizard
 ms.assetid: 61ee1a16-eccb-908f-2b34-eee03175c37e

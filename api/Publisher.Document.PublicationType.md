@@ -3,7 +3,6 @@ title: Document.PublicationType property (Publisher)
 keywords: vbapb10.chm196736
 f1_keywords:
 - vbapb10.chm196736
-ms.prod: publisher
 api_name:
 - Publisher.Document.PublicationType
 ms.assetid: 264c2769-2452-0009-4853-84a6a426db38

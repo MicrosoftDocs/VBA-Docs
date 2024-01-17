@@ -3,7 +3,6 @@ title: ParagraphFormat.TextDirection property (Publisher)
 keywords: vbapb10.chm5439507
 f1_keywords:
 - vbapb10.chm5439507
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.TextDirection
 ms.assetid: b96c634d-0e7e-dba8-2bf4-e5baf3afa3d1

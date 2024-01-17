@@ -3,7 +3,6 @@ title: Shape.IncrementRotation method (Publisher)
 keywords: vbapb10.chm2228257
 f1_keywords:
 - vbapb10.chm2228257
-ms.prod: publisher
 api_name:
 - Publisher.Shape.IncrementRotation
 ms.assetid: 3293c707-f3e8-1afb-cf9c-231ceae66ab6

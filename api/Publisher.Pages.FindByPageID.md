@@ -3,7 +3,6 @@ title: Pages.FindByPageID method (Publisher)
 keywords: vbapb10.chm458759
 f1_keywords:
 - vbapb10.chm458759
-ms.prod: publisher
 api_name:
 - Publisher.Pages.FindByPageID
 ms.assetid: 23ff5e69-33b1-e394-9d09-7199eae19fe9

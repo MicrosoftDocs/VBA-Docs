@@ -3,7 +3,6 @@ title: Document.ViewGuides property (Publisher)
 keywords: vbapb10.chm196761
 f1_keywords:
 - vbapb10.chm196761
-ms.prod: publisher
 api_name:
 - Publisher.Document.ViewGuides
 ms.assetid: a0533bc6-8565-eb4f-67e3-b438d4460e80

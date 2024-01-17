@@ -1,7 +1,7 @@
 ---
 title: Publisher object model for Visual Basic for Applications (VBA)
 description: This section of the Publisher VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Publisher object model.
-ms.prod: publisher
+ms.service: publisher
 ms.assetid: 18165c2b-0a00-4809-9cd0-5098261e5a67
 ms.date: 10/10/2018
 ms.localizationpriority: medium

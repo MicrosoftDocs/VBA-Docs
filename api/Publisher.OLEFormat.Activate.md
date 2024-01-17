@@ -3,7 +3,6 @@ title: OLEFormat.Activate method (Publisher)
 keywords: vbapb10.chm4456454
 f1_keywords:
 - vbapb10.chm4456454
-ms.prod: publisher
 api_name:
 - Publisher.OLEFormat.Activate
 ms.assetid: 43c01633-f624-c5ef-ba2c-d1ff62e91ec5

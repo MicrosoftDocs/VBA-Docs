@@ -3,7 +3,6 @@ title: CalloutFormat.PresetDrop method (Publisher)
 keywords: vbapb10.chm2490387
 f1_keywords:
 - vbapb10.chm2490387
-ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.PresetDrop
 ms.assetid: a709e54a-d08a-f83c-a0bf-bcdcfe6434cd

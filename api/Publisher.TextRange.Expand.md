@@ -3,7 +3,6 @@ title: TextRange.Expand method (Publisher)
 keywords: vbapb10.chm5308421
 f1_keywords:
 - vbapb10.chm5308421
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Expand
 ms.assetid: 66d8b1a3-5fc4-bed7-94d2-06be6203e1e9

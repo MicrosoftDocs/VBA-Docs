@@ -3,7 +3,6 @@ title: LineFormat.DashStyle property (Publisher)
 keywords: vbapb10.chm3408132
 f1_keywords:
 - vbapb10.chm3408132
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.DashStyle
 ms.assetid: c2904350-89c1-2fc0-5bae-86f5193c8732

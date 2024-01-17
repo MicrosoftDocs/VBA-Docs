@@ -3,7 +3,6 @@ title: TextStyle.Font property (Publisher)
 keywords: vbapb10.chm5963780
 f1_keywords:
 - vbapb10.chm5963780
-ms.prod: publisher
 api_name:
 - Publisher.TextStyle.Font
 ms.assetid: 80d7177a-fef9-c3fd-f559-94644a2ba0f7

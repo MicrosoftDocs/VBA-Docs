@@ -3,7 +3,6 @@ title: MailMergeDataSource.SetAllIncludedFlags method (Publisher)
 keywords: vbapb10.chm6291481
 f1_keywords:
 - vbapb10.chm6291481
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.SetAllIncludedFlags
 ms.assetid: ab668e95-55ac-fcbd-19c9-3c13fe3aa995

@@ -3,7 +3,6 @@ title: Columns object (Publisher)
 keywords: vbapb10.chm5111807
 f1_keywords:
 - vbapb10.chm5111807
-ms.prod: publisher
 api_name:
 - Publisher.Columns
 ms.assetid: 3fe6ddce-a598-a967-fc89-7296c18a6a55

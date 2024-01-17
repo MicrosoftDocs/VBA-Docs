@@ -3,7 +3,6 @@ title: LayoutGuides.MarginRight property (Publisher)
 keywords: vbapb10.chm1114117
 f1_keywords:
 - vbapb10.chm1114117
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.MarginRight
 ms.assetid: 5dbfc999-59d6-c9d0-4d9d-bc1a4ee622aa

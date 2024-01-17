@@ -3,7 +3,6 @@ title: PbTextAutoFitType enumeration (Publisher)
 keywords: vbapb10.chm65549
 f1_keywords:
 - vbapb10.chm65549
-ms.prod: publisher
 api_name:
 - Publisher.PbTextAutoFitType
 ms.assetid: c9236f0e-1f74-549e-bd68-897820e5d649

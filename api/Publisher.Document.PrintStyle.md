@@ -3,7 +3,6 @@ title: Document.PrintStyle property (Publisher)
 keywords: vbapb10.chm196759
 f1_keywords:
 - vbapb10.chm196759
-ms.prod: publisher
 api_name:
 - Publisher.Document.PrintStyle
 ms.assetid: ac9c8bc0-3c03-d094-fdda-1f2f5966f717

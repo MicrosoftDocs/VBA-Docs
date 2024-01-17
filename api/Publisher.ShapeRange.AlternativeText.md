@@ -3,7 +3,6 @@ title: ShapeRange.AlternativeText property (Publisher)
 keywords: vbapb10.chm2293856
 f1_keywords:
 - vbapb10.chm2293856
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.AlternativeText
 ms.assetid: 94cbb99b-3b35-76bb-e269-db8295b84f2f

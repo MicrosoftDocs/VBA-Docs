@@ -3,7 +3,6 @@ title: Document.PrintOutEx method (Publisher)
 keywords: vbapb10.chm196755
 f1_keywords:
 - vbapb10.chm196755
-ms.prod: publisher
 api_name:
 - Publisher.Document.PrintOutEx
 ms.assetid: f11b6f8b-08a0-28f6-5930-47d684585bef

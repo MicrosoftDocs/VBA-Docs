@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.PrintJobInformation property (Publisher)
 keywords: vbapb10.chm7077897
 f1_keywords:
 - vbapb10.chm7077897
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PrintJobInformation
 ms.assetid: c4494804-6dfa-8647-a72d-591f90624c1c

@@ -3,7 +3,6 @@ title: WebHiddenFields.Application property (Publisher)
 keywords: vbapb10.chm3997697
 f1_keywords:
 - vbapb10.chm3997697
-ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Application
 ms.assetid: b5b9d18f-cf96-8c26-acc0-c66df68426c0

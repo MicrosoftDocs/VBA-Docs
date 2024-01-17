@@ -3,7 +3,6 @@ title: Application.TemplateFolderPath property (Publisher)
 keywords: vbapb10.chm131120
 f1_keywords:
 - vbapb10.chm131120
-ms.prod: publisher
 api_name:
 - Publisher.Application.TemplateFolderPath
 ms.assetid: e2256af9-9432-6205-864a-10bb7dec41c9

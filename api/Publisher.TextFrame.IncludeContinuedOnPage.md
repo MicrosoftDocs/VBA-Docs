@@ -3,7 +3,6 @@ title: TextFrame.IncludeContinuedOnPage property (Publisher)
 keywords: vbapb10.chm3866664
 f1_keywords:
 - vbapb10.chm3866664
-ms.prod: publisher
 api_name:
 - Publisher.TextFrame.IncludeContinuedOnPage
 ms.assetid: defa0bd7-abe7-ac2a-97a1-de5c5f0df790

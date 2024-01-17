@@ -3,7 +3,6 @@ title: Hyperlink.PageID property (Publisher)
 keywords: vbapb10.chm4587525
 f1_keywords:
 - vbapb10.chm4587525
-ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.PageID
 ms.assetid: 1b5051eb-e6b4-a5a7-610a-5be03863a92b

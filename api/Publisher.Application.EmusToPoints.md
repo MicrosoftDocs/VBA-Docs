@@ -3,7 +3,6 @@ title: Application.EmusToPoints method (Publisher)
 keywords: vbapb10.chm131142
 f1_keywords:
 - vbapb10.chm131142
-ms.prod: publisher
 api_name:
 - Publisher.Application.EmusToPoints
 ms.assetid: 941e5975-ca7a-38dc-8116-e90b2a2ab6e5

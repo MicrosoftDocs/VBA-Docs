@@ -3,7 +3,6 @@ title: Hyperlinks.Add method (Publisher)
 keywords: vbapb10.chm6881284
 f1_keywords:
 - vbapb10.chm6881284
-ms.prod: publisher
 api_name:
 - Publisher.Hyperlinks.Add
 ms.assetid: f5a8cc01-a571-623d-bfab-fe48e43a21b1

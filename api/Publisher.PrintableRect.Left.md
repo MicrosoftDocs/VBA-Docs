@@ -3,7 +3,6 @@ title: PrintableRect.Left property (Publisher)
 keywords: vbapb10.chm7536643
 f1_keywords:
 - vbapb10.chm7536643
-ms.prod: publisher
 api_name:
 - Publisher.PrintableRect.Left
 ms.assetid: 7aebcf95-9be5-2ef2-671a-59087cc48ef2

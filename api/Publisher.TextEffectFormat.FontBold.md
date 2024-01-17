@@ -3,7 +3,6 @@ title: TextEffectFormat.FontBold property (Publisher)
 keywords: vbapb10.chm3735809
 f1_keywords:
 - vbapb10.chm3735809
-ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.FontBold
 ms.assetid: ab582a4d-92b7-c2b0-e3c3-045e035f68bb

@@ -3,7 +3,6 @@ title: PageSetup.Parent property (Publisher)
 keywords: vbapb10.chm6946835
 f1_keywords:
 - vbapb10.chm6946835
-ms.prod: publisher
 api_name:
 - Publisher.PageSetup.Parent
 ms.assetid: 0aebdd7d-6ac6-77c1-1854-edab76ca0b10

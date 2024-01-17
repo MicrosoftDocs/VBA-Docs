@@ -3,7 +3,6 @@ title: ColorCMYK.Application property (Publisher)
 keywords: vbapb10.chm2621441
 f1_keywords:
 - vbapb10.chm2621441
-ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Application
 ms.assetid: 09847829-d500-ed52-6c75-4f0348b7959b

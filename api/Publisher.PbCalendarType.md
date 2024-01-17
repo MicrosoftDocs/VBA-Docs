@@ -3,7 +3,6 @@ title: PbCalendarType enumeration (Publisher)
 keywords: vbapb10.chm65605
 f1_keywords:
 - vbapb10.chm65605
-ms.prod: publisher
 api_name:
 - Publisher.PbCalendarType
 ms.assetid: 6edcb430-7334-72d1-b1b1-898ee5486a57

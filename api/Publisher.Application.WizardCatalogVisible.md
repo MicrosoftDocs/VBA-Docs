@@ -3,7 +3,6 @@ title: Application.WizardCatalogVisible property (Publisher)
 keywords: vbapb10.chm131173
 f1_keywords:
 - vbapb10.chm131173
-ms.prod: publisher
 api_name:
 - Publisher.Application.WizardCatalogVisible
 ms.assetid: 99323335-aabd-6799-b6aa-c5d95b88064f

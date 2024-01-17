@@ -3,7 +3,6 @@ title: Page.ReaderSpread property (Publisher)
 keywords: vbapb10.chm393238
 f1_keywords:
 - vbapb10.chm393238
-ms.prod: publisher
 api_name:
 - Publisher.Page.ReaderSpread
 ms.assetid: 32823d2d-4bcd-a5a6-1ad1-ca1035d4fdea

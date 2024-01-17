@@ -3,7 +3,6 @@ title: FindReplace.MatchWholeWord property (Publisher)
 keywords: vbapb10.chm8323083
 f1_keywords:
 - vbapb10.chm8323083
-ms.prod: publisher
 api_name:
 - Publisher.FindReplace.MatchWholeWord
 ms.assetid: 512d37bc-c900-ee17-8a8e-5875db0a2f85

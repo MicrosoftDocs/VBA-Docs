@@ -3,7 +3,6 @@ title: Page.Application property (Publisher)
 keywords: vbapb10.chm393217
 f1_keywords:
 - vbapb10.chm393217
-ms.prod: publisher
 api_name:
 - Publisher.Page.Application
 ms.assetid: c5d05664-e1ea-7936-4d3d-3d813ff4ec45

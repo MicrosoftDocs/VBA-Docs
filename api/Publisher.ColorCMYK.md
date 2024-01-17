@@ -3,7 +3,6 @@ title: ColorCMYK object (Publisher)
 keywords: vbapb10.chm2686975
 f1_keywords:
 - vbapb10.chm2686975
-ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK
 ms.assetid: e1a39f6f-f440-e375-4f8c-e81093e5a451

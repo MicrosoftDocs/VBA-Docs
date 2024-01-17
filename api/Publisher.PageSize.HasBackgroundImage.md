@@ -3,7 +3,6 @@ title: PageSize.HasBackgroundImage property (Publisher)
 keywords: vbapb10.chm8847377
 f1_keywords:
 - vbapb10.chm8847377
-ms.prod: publisher
 api_name:
 - Publisher.PageSize.HasBackgroundImage
 ms.assetid: 544e8e73-e134-c297-42da-bc96c3d498e0

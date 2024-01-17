@@ -3,7 +3,6 @@ title: ShapeRange.GetWidth method (Publisher)
 keywords: vbapb10.chm2293785
 f1_keywords:
 - vbapb10.chm2293785
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.GetWidth
 ms.assetid: a15d1b50-289a-8b02-e090-0f0a9637980a

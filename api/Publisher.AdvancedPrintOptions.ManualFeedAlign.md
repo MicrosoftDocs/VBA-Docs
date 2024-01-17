@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.ManualFeedAlign property (Publisher)
 keywords: vbapb10.chm7077928
 f1_keywords:
 - vbapb10.chm7077928
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedAlign
 ms.assetid: 5c2dc0a7-981f-731d-6a85-0971c7e19a62

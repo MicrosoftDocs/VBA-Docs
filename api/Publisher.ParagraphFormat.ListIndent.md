@@ -3,7 +3,6 @@ title: ParagraphFormat.ListIndent property (Publisher)
 keywords: vbapb10.chm5439522
 f1_keywords:
 - vbapb10.chm5439522
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.ListIndent
 ms.assetid: b42000ea-0636-88cf-b7ed-c71384a2b0d5

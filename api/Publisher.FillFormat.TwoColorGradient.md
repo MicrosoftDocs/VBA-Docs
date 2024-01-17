@@ -3,7 +3,6 @@ title: FillFormat.TwoColorGradient method (Publisher)
 keywords: vbapb10.chm2359318
 f1_keywords:
 - vbapb10.chm2359318
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.TwoColorGradient
 ms.assetid: 7b0d1b19-a7bf-7b3d-66f4-60dfc588abfe

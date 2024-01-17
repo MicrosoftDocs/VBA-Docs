@@ -3,7 +3,6 @@ title: Document.SaveFormat property (Publisher)
 keywords: vbapb10.chm196656
 f1_keywords:
 - vbapb10.chm196656
-ms.prod: publisher
 api_name:
 - Publisher.Document.SaveFormat
 ms.assetid: 545f0411-899f-ffe3-e844-8c2922a357f0

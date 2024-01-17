@@ -1,6 +1,5 @@
 ---
 title: PrintablePlate object (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.PrintablePlate
 ms.assetid: cea95f22-9c02-b66b-05b7-e11f1145a505

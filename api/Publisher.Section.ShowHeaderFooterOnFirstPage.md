@@ -3,7 +3,6 @@ title: Section.ShowHeaderFooterOnFirstPage property (Publisher)
 keywords: vbapb10.chm7405574
 f1_keywords:
 - vbapb10.chm7405574
-ms.prod: publisher
 api_name:
 - Publisher.Section.ShowHeaderFooterOnFirstPage
 ms.assetid: 6c814884-9bee-72ae-3a40-5118bebd6f02

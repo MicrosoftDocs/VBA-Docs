@@ -3,7 +3,6 @@ title: WebTextBox.EchoAsterisks property (Publisher)
 keywords: vbapb10.chm4194308
 f1_keywords:
 - vbapb10.chm4194308
-ms.prod: publisher
 api_name:
 - Publisher.WebTextBox.EchoAsterisks
 ms.assetid: eefab42f-9fe7-e77e-50cd-c4b1b35548f1

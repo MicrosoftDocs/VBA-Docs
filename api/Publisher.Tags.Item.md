@@ -3,7 +3,6 @@ title: Tags.Item method (Publisher)
 keywords: vbapb10.chm4653056
 f1_keywords:
 - vbapb10.chm4653056
-ms.prod: publisher
 api_name:
 - Publisher.Tags.Item
 ms.assetid: 5f2dd7ef-6c7f-cae6-f866-3922fb422353

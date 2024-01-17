@@ -3,7 +3,6 @@ title: Printer.PrintMode property (Publisher)
 keywords: vbapb10.chm7077908
 f1_keywords:
 - vbapb10.chm7077908
-ms.prod: publisher
 api_name:
 - Publisher.Printer.Printer.PrintMode
 ms.assetid: 47ca11d1-d058-0f4e-dd22-ec452dafaf1a

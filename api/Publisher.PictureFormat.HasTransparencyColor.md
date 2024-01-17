@@ -3,7 +3,6 @@ title: PictureFormat.HasTransparencyColor property (Publisher)
 keywords: vbapb10.chm3604789
 f1_keywords:
 - vbapb10.chm3604789
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HasTransparencyColor
 ms.assetid: 2e6066e8-60b0-c33e-0bb0-1b6f83208fd0

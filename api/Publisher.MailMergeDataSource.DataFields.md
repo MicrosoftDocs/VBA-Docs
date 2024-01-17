@@ -3,7 +3,6 @@ title: MailMergeDataSource.DataFields property (Publisher)
 keywords: vbapb10.chm6291461
 f1_keywords:
 - vbapb10.chm6291461
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.DataFields
 ms.assetid: 820af882-d54c-a205-2925-e7110fc0c02b

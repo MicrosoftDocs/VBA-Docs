@@ -3,7 +3,6 @@ title: Tag object (Publisher)
 keywords: vbapb10.chm4784127
 f1_keywords:
 - vbapb10.chm4784127
-ms.prod: publisher
 api_name:
 - Publisher.Tag
 ms.assetid: f485d2cc-8e39-5aa3-d407-8c14401ec8bd

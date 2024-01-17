@@ -3,7 +3,6 @@ title: PictureFormat.HasAlphaChannel property (Publisher)
 keywords: vbapb10.chm3604758
 f1_keywords:
 - vbapb10.chm3604758
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.HasAlphaChannel
 ms.assetid: 97739201-cd0d-cc78-a28e-935fb11da5b3

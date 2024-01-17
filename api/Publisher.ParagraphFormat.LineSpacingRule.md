@@ -3,7 +3,6 @@ title: ParagraphFormat.LineSpacingRule property (Publisher)
 keywords: vbapb10.chm5439505
 f1_keywords:
 - vbapb10.chm5439505
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.LineSpacingRule
 ms.assetid: e9855daa-59f4-a4b6-f153-5de515261414

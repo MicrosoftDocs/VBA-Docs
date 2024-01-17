@@ -3,7 +3,6 @@ title: BuildingBlock.Delete method (Publisher)
 keywords: vbapb10.chm9502727
 f1_keywords:
 - vbapb10.chm9502727
-ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock.Delete
 ms.assetid: 1c108953-fdac-3b7c-67e6-2e5ff5133881

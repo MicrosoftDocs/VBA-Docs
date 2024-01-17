@@ -3,7 +3,6 @@ title: Document.FindShapesByTag method (Publisher)
 keywords: vbapb10.chm196689
 f1_keywords:
 - vbapb10.chm196689
-ms.prod: publisher
 api_name:
 - Publisher.Document.FindShapesByTag
 ms.assetid: 405a0f39-5892-23da-904a-5188a4340b00

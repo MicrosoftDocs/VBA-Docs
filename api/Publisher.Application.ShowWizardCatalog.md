@@ -3,7 +3,6 @@ title: Application.ShowWizardCatalog method (Publisher)
 keywords: vbapb10.chm131189
 f1_keywords:
 - vbapb10.chm131189
-ms.prod: publisher
 api_name:
 - Publisher.Application.ShowWizardCatalog
 ms.assetid: a8307ff9-a6c1-7655-8127-284f3781dae9

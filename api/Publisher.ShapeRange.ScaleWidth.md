@@ -3,7 +3,6 @@ title: ShapeRange.ScaleWidth method (Publisher)
 keywords: vbapb10.chm2293798
 f1_keywords:
 - vbapb10.chm2293798
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ScaleWidth
 ms.assetid: 8ff4eec9-9cf5-b6f0-062a-107aedbb8e38

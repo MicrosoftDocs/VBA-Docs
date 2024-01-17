@@ -3,7 +3,6 @@ title: TextRange.Application property (Publisher)
 keywords: vbapb10.chm5308417
 f1_keywords:
 - vbapb10.chm5308417
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Application
 ms.assetid: 8c39c632-7c5b-6057-c4f7-2003b59b4644

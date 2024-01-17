@@ -3,7 +3,6 @@ title: DropCap.Size property (Publisher)
 keywords: vbapb10.chm5505032
 f1_keywords:
 - vbapb10.chm5505032
-ms.prod: publisher
 api_name:
 - Publisher.DropCap.Size
 ms.assetid: c8111c4f-7b70-76ba-5c8e-acaeb4c90be7

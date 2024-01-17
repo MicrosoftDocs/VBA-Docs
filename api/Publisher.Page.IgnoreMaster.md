@@ -3,7 +3,6 @@ title: Page.IgnoreMaster property (Publisher)
 keywords: vbapb10.chm393233
 f1_keywords:
 - vbapb10.chm393233
-ms.prod: publisher
 api_name:
 - Publisher.Page.IgnoreMaster
 ms.assetid: 53cd7b4b-4164-c6d3-766f-885a056d9b2b

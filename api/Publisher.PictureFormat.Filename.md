@@ -3,7 +3,6 @@ title: PictureFormat.FileName property (Publisher)
 keywords: vbapb10.chm3604756
 f1_keywords:
 - vbapb10.chm3604756
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.FileName
 ms.assetid: 73e2a224-f15a-50cc-462e-10ccf9478122

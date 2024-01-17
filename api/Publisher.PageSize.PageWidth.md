@@ -3,7 +3,6 @@ title: PageSize.PageWidth property (Publisher)
 keywords: vbapb10.chm8847364
 f1_keywords:
 - vbapb10.chm8847364
-ms.prod: publisher
 api_name:
 - Publisher.PageSize.PageWidth
 ms.assetid: 5b8d9f75-06b6-51a8-8463-57eac69f0197

@@ -3,7 +3,6 @@ title: Document.UndoClear method (Publisher)
 keywords: vbapb10.chm196705
 f1_keywords:
 - vbapb10.chm196705
-ms.prod: publisher
 api_name:
 - Publisher.Document.UndoClear
 ms.assetid: 63e9bb00-950f-3e30-3897-434362b9efbf

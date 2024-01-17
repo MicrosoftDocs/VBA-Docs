@@ -3,7 +3,6 @@ title: TextFrame.Parent property (Publisher)
 keywords: vbapb10.chm3866626
 f1_keywords:
 - vbapb10.chm3866626
-ms.prod: publisher
 api_name:
 - Publisher.TextFrame.Parent
 ms.assetid: c4d2d0bd-7a6b-201c-4b1b-416490ab8023

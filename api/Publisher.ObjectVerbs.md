@@ -3,7 +3,6 @@ title: ObjectVerbs object (Publisher)
 keywords: vbapb10.chm4587519
 f1_keywords:
 - vbapb10.chm4587519
-ms.prod: publisher
 api_name:
 - Publisher.ObjectVerbs
 ms.assetid: e04cf7db-ee56-7d95-9f5c-7ecee1844866

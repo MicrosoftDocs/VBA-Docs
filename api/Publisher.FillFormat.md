@@ -3,7 +3,6 @@ title: FillFormat object (Publisher)
 keywords: vbapb10.chm2424831
 f1_keywords:
 - vbapb10.chm2424831
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat
 ms.assetid: 0a5d4f7a-c42a-28ad-c86d-ac9828a3b874

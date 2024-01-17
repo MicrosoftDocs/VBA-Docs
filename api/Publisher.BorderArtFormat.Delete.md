@@ -3,7 +3,6 @@ title: BorderArtFormat.Delete method (Publisher)
 keywords: vbapb10.chm7602184
 f1_keywords:
 - vbapb10.chm7602184
-ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Delete
 ms.assetid: 3ec0576f-8304-2647-7309-b014b586c1b6

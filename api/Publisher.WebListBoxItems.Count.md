@@ -3,7 +3,6 @@ title: WebListBoxItems.Count property (Publisher)
 keywords: vbapb10.chm4128771
 f1_keywords:
 - vbapb10.chm4128771
-ms.prod: publisher
 api_name:
 - Publisher.WebListBoxItems.Count
 ms.assetid: a306e5d1-c0e4-86f3-745a-720f91bf1f25

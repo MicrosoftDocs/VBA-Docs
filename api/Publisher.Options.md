@@ -3,7 +3,6 @@ title: Options object (Publisher)
 keywords: vbapb10.chm1114111
 f1_keywords:
 - vbapb10.chm1114111
-ms.prod: publisher
 api_name:
 - Publisher.Options
 ms.assetid: 2554cd33-9d94-2622-6fab-19ca33d5a561

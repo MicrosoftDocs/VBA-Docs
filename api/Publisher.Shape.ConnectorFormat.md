@@ -3,7 +3,6 @@ title: Shape.ConnectorFormat property (Publisher)
 keywords: vbapb10.chm2228278
 f1_keywords:
 - vbapb10.chm2228278
-ms.prod: publisher
 api_name:
 - Publisher.Shape.ConnectorFormat
 ms.assetid: 280c424c-530c-55ab-da4f-65b858ee3dd8

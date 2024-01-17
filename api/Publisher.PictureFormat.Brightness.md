@@ -3,7 +3,6 @@ title: PictureFormat.Brightness property (Publisher)
 keywords: vbapb10.chm3604736
 f1_keywords:
 - vbapb10.chm3604736
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Brightness
 ms.assetid: bed1cd25-faee-6fb9-4bb3-5bdaf148b62e

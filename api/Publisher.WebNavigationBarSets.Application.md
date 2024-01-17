@@ -3,7 +3,6 @@ title: WebNavigationBarSets.Application property (Publisher)
 keywords: vbapb10.chm8454145
 f1_keywords:
 - vbapb10.chm8454145
-ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets.Application
 ms.assetid: 61e0c27a-a080-da5e-ba0f-3d0da856ca0b

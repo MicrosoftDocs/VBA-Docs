@@ -3,7 +3,6 @@ title: Printer.Application property (Publisher)
 keywords: vbapb10.chm8978433
 f1_keywords:
 - vbapb10.chm8978433
-ms.prod: publisher
 api_name:
 - Publisher.Printer.Application
 ms.assetid: c7eadef4-8206-7e86-b0fe-3c3fe7d07f25

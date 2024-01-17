@@ -3,7 +3,6 @@ title: Tags object (Publisher)
 keywords: vbapb10.chm4718591
 f1_keywords:
 - vbapb10.chm4718591
-ms.prod: publisher
 api_name:
 - Publisher.Tags
 ms.assetid: 76cccc1e-4623-af8b-f0f8-e6cc245b94fd

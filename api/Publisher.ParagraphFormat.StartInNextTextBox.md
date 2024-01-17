@@ -3,7 +3,6 @@ title: ParagraphFormat.StartInNextTextBox property (Publisher)
 keywords: vbapb10.chm5439539
 f1_keywords:
 - vbapb10.chm5439539
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.StartInNextTextBox
 ms.assetid: 96b34fa8-04ef-e472-16f0-15f82e7912ba

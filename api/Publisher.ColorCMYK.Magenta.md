@@ -3,7 +3,6 @@ title: ColorCMYK.Magenta property (Publisher)
 keywords: vbapb10.chm2621444
 f1_keywords:
 - vbapb10.chm2621444
-ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Magenta
 ms.assetid: 2996279e-d5f6-9734-ca1a-0e80d7991e5a

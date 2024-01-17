@@ -3,7 +3,6 @@ title: MailMerge.ExportRecipientList method (Publisher)
 keywords: vbapb10.chm6225941
 f1_keywords:
 - vbapb10.chm6225941
-ms.prod: publisher
 api_name:
 - Publisher.MailMerge.ExportRecipientList
 ms.assetid: 230d0f66-7368-51b7-8233-3fd54cfd0fe4

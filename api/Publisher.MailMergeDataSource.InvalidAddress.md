@@ -3,7 +3,6 @@ title: MailMergeDataSource.InvalidAddress property (Publisher)
 keywords: vbapb10.chm6291472
 f1_keywords:
 - vbapb10.chm6291472
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.InvalidAddress
 ms.assetid: c1857edc-260b-c9c2-8624-d6628e0733c4

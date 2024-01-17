@@ -3,7 +3,6 @@ title: TextRange.Script property (Publisher)
 keywords: vbapb10.chm5308484
 f1_keywords:
 - vbapb10.chm5308484
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Script
 ms.assetid: 54e5a19f-9cb0-0fbc-5ebe-cd4db6c0de8e

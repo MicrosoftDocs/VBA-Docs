@@ -3,7 +3,6 @@ title: ThreeDFormat.Visible property (Publisher)
 keywords: vbapb10.chm3801361
 f1_keywords:
 - vbapb10.chm3801361
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Visible
 ms.assetid: dbda23fe-de06-cc17-c3bc-2bfb780d3184

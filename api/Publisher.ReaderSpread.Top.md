@@ -3,7 +3,6 @@ title: ReaderSpread.Top property (Publisher)
 keywords: vbapb10.chm524292
 f1_keywords:
 - vbapb10.chm524292
-ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Top
 ms.assetid: 10d92ea3-123c-6660-6b8d-e20f13390dae

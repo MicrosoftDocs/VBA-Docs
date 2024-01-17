@@ -3,7 +3,6 @@ title: Application.PointsToPicas method (Publisher)
 keywords: vbapb10.chm131160
 f1_keywords:
 - vbapb10.chm131160
-ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToPicas
 ms.assetid: ff566bef-7032-70f7-7880-ff66cfeca88f

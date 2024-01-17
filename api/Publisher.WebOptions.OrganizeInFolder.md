@@ -3,7 +3,6 @@ title: WebOptions.OrganizeInFolder property (Publisher)
 keywords: vbapb10.chm8257542
 f1_keywords:
 - vbapb10.chm8257542
-ms.prod: publisher
 api_name:
 - Publisher.WebOptions.OrganizeInFolder
 ms.assetid: f09ac701-d8d8-a58f-965c-bd5e4b69820c

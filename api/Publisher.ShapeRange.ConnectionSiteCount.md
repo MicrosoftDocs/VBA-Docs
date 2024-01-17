@@ -3,7 +3,6 @@ title: ShapeRange.ConnectionSiteCount property (Publisher)
 keywords: vbapb10.chm2293812
 f1_keywords:
 - vbapb10.chm2293812
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ConnectionSiteCount
 ms.assetid: f830739d-08be-562c-83fc-7f7a6f8e047c

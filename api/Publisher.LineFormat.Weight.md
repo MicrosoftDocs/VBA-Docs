@@ -3,7 +3,6 @@ title: LineFormat.Weight property (Publisher)
 keywords: vbapb10.chm3408147
 f1_keywords:
 - vbapb10.chm3408147
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Weight
 ms.assetid: 854928ca-5f38-3cc9-50d5-2473a0885a0c
