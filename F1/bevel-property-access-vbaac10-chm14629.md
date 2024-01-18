@@ -3,7 +3,7 @@ title: Bevel Property, Access [vbaac10.chm14629]
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
-ms.prod: office
+ms.service: office
 ms.assetid: 63d8a0d4-9b79-4fc5-912d-808280c28466
 ms.date: 06/08/2017
 ms.localizationpriority: medium

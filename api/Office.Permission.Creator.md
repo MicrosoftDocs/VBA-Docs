@@ -1,6 +1,5 @@
 ---
 title: Permission.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.Permission.Creator
 ms.assetid: 1579a0ba-6e14-b43c-785e-23dd2757cbde

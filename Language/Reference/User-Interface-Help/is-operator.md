@@ -3,7 +3,6 @@ title: Is operator
 keywords: vblr6.chm1008950
 f1_keywords:
 - vblr6.chm1008950
-ms.prod: office
 ms.assetid: c84836c1-7b21-a659-9d34-3bef8784c5a3
 ms.date: 11/19/2018
 ms.localizationpriority: medium

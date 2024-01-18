@@ -3,7 +3,7 @@ title: Baseline3StartText Property, Project [vbapj.chm131469]
 keywords: vbapj.chm131469
 f1_keywords:
 - vbapj.chm131469
-ms.prod: office
+ms.service: office
 ms.assetid: f478282a-9457-4df1-b44a-b4dff12f78b8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

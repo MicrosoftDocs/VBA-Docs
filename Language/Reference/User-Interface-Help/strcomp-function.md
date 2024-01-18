@@ -3,7 +3,6 @@ title: StrComp function (Visual Basic for Applications)
 keywords: vblr6.chm1009035
 f1_keywords:
 - vblr6.chm1009035
-ms.prod: office
 ms.assetid: 96b0e82d-e080-0c60-94d1-ddff10d6ee86
 ms.date: 12/13/2018
 ms.localizationpriority: medium

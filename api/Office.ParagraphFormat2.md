@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2 object (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2
 ms.assetid: 05ff2b24-9603-f923-d053-e736fb2ba389

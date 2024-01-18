@@ -3,7 +3,6 @@ title: Int, Fix functions (Visual Basic for Applications)
 keywords: vblr6.chm1008795
 f1_keywords:
 - vblr6.chm1008795
-ms.prod: office
 ms.assetid: 32ce40ac-fdf8-bd6d-e7f9-154c480a9602
 ms.date: 12/13/2018
 ms.localizationpriority: medium

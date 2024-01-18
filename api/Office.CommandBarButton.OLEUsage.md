@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.OLEUsage property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.OLEUsage
 ms.assetid: 4ff6f74d-4eed-8a30-468c-22be5dee1c7e

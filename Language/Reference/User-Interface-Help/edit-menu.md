@@ -3,7 +3,6 @@ title: Edit menu
 keywords: vbui6.chm2057557
 f1_keywords:
 - vbui6.chm2057557
-ms.prod: office
 ms.assetid: 1f84bfae-a6a2-34f4-67c5-c50c7dab8b73
 ms.date: 11/24/2018
 ms.localizationpriority: medium

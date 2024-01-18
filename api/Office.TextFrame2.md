@@ -1,6 +1,5 @@
 ---
 title: TextFrame2 object (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2
 ms.assetid: d2903007-70d4-0b98-e617-96fb2df26975

@@ -3,7 +3,6 @@ title: DocumentInspector.Fix method (Office)
 keywords: vbaof11.chm279004
 f1_keywords:
 - vbaof11.chm279004
-ms.prod: office
 api_name:
 - Office.DocumentInspector.Fix
 ms.assetid: b05326b0-779c-97f5-d3fd-705f82a141ef

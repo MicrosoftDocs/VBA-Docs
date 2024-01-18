@@ -3,7 +3,6 @@ title: SelectionMargin property
 keywords: fm20.chm2001860
 f1_keywords:
 - fm20.chm2001860
-ms.prod: office
 api_name:
 - Office.SelectionMargin
 ms.assetid: 1e86e761-7427-e6a2-0b66-887bf89f9fa7

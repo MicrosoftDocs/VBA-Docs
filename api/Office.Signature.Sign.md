@@ -3,7 +3,6 @@ title: Signature.Sign method (Office)
 keywords: vbaof11.chm248012
 f1_keywords:
 - vbaof11.chm248012
-ms.prod: office
 api_name:
 - Office.Signature.Sign
 ms.assetid: 37ba202a-da6d-9978-c8af-986a8218e004

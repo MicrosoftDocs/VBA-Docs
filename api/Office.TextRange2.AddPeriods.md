@@ -1,6 +1,5 @@
 ---
 title: TextRange2.AddPeriods method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.AddPeriods
 ms.assetid: 3c706017-1d13-6f15-a111-7e05647ed5d4

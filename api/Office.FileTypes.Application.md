@@ -1,6 +1,5 @@
 ---
 title: FileTypes.Application property (Office)
-ms.prod: office
 api_name:
 - Office.FileTypes.Application
 ms.assetid: fcb569ba-c8ad-f9df-f943-b2d678f90cda

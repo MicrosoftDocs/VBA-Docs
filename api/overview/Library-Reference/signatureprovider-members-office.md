@@ -1,7 +1,7 @@
 ---
 title: SignatureProvider members (Office)
 description: Represents a signature provider add-in.
-ms.prod: office
+ms.service: office
 ms.assetid: 8f99b46b-ee6c-54eb-570a-d2b34c0a8b3d
 ms.date: 01/30/2019
 ms.localizationpriority: medium

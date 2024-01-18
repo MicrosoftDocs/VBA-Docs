@@ -3,7 +3,6 @@ title: Understanding automation (VBA)
 keywords: vbcn6.chm1076677
 f1_keywords:
 - vbcn6.chm1076677
-ms.prod: office
 ms.assetid: 5b45f6f3-1459-ff25-51e1-32c475f11153
 ms.date: 12/21/2018
 ms.localizationpriority: medium

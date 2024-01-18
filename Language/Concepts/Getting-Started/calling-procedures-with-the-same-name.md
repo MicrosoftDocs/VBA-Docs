@@ -3,7 +3,6 @@ title: Calling procedures with the same name (VBA)
 keywords: vbcn6.chm1076672
 f1_keywords:
 - vbcn6.chm1076672
-ms.prod: office
 ms.assetid: 5d310675-136b-58bb-29e2-ca09726b8ce0
 ms.date: 12/21/2018
 ms.localizationpriority: medium

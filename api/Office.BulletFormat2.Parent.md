@@ -1,6 +1,5 @@
 ---
 title: BulletFormat2.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.BulletFormat2.Parent
 ms.assetid: 3a67cd1d-2b22-3c56-0f91-27738c90434b

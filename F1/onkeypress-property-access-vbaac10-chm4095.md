@@ -3,7 +3,7 @@ title: OnKeyPress Property, Access - [vbaac10.chm4095]
 keywords: vbaac10.chm4095
 f1_keywords:
 - vbaac10.chm4095
-ms.prod: office
+ms.service: office
 ms.assetid: ce635304-693c-4291-b156-cb5ad52272fc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

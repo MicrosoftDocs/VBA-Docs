@@ -3,7 +3,6 @@ title: CommandBar.BuiltIn property (Office)
 keywords: vbaof11.chm3001
 f1_keywords:
 - vbaof11.chm3001
-ms.prod: office
 api_name:
 - Office.CommandBar.BuiltIn
 ms.assetid: f7e4c581-2019-9fca-5e9e-15db4d656269

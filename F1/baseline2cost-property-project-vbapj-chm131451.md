@@ -3,7 +3,7 @@ title: Baseline2Cost Property, Project - [vbapj.chm131451]
 keywords: vbapj.chm131451
 f1_keywords:
 - vbapj.chm131451
-ms.prod: office
+ms.service: office
 ms.assetid: f149f0e8-bf14-46bd-9f88-760d608c79f7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

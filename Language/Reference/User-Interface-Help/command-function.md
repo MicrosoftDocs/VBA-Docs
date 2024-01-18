@@ -3,7 +3,6 @@ title: Command function (Visual Basic for Applications)
 keywords: vblr6.chm1013109
 f1_keywords:
 - vblr6.chm1013109
-ms.prod: office
 ms.assetid: 2eaefb12-2e7f-ab4a-9cd8-fc0739e33bf5
 ms.date: 12/11/2018
 ms.localizationpriority: medium

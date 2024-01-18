@@ -3,7 +3,6 @@ title: Set project properties (VBA)
 keywords: vbhw6.chm1105241
 f1_keywords:
 - vbhw6.chm1105241
-ms.prod: office
 ms.assetid: 09ff6aaf-5aff-7f10-baed-741f94e58481
 ms.date: 12/27/2018
 ms.localizationpriority: medium

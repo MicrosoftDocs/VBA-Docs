@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabel.LabelChanged event (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabel.LabelChanged
 ms.assetid: 32c64137-10d0-4a27-941a-4cd87664e5be

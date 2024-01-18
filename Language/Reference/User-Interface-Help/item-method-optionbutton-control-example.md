@@ -3,7 +3,6 @@ title: Item method, OptionButton control example
 keywords: fm20.chm5225116
 f1_keywords:
 - fm20.chm5225116
-ms.prod: office
 ms.assetid: 1145cded-2cac-2631-9e7c-bed052283373
 ms.date: 11/14/2018
 ms.localizationpriority: medium

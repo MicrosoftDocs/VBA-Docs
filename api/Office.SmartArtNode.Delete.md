@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.Delete method (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.Delete
 ms.assetid: 916b7ddb-7ec1-64d7-6c8f-0bc6de389026

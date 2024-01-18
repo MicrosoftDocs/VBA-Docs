@@ -3,7 +3,6 @@ title: Array function (Visual Basic for Applications)
 keywords: vblr6.chm1010845
 f1_keywords:
 - vblr6.chm1010845
-ms.prod: office
 ms.assetid: dc7926a0-b70d-67ee-482f-d7bcdaffe139
 ms.date: 12/11/2018
 ms.localizationpriority: high

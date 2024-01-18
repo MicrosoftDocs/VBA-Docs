@@ -3,7 +3,7 @@ title: HasDataTable Property, Project [vbapj.chm131626]
 keywords: vbapj.chm131626
 f1_keywords:
 - vbapj.chm131626
-ms.prod: office
+ms.service: office
 ms.assetid: ea3f342f-45c5-4e48-9005-6f0d86bae8dd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

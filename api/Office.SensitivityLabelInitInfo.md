@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelInitInfo object (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelInitInfo
 ms.assetid: 528946cb-4978-45cc-affe-ebbe080602b0

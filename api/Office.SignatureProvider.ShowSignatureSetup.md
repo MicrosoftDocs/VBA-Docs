@@ -3,7 +3,6 @@ title: SignatureProvider.ShowSignatureSetup method (Office)
 keywords: vbaof11.chm287002
 f1_keywords:
 - vbaof11.chm287002
-ms.prod: office
 api_name:
 - Office.SignatureProvider.ShowSignatureSetup
 ms.assetid: 458efe65-acb8-f329-7ca4-b0a316869c13

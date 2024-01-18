@@ -3,7 +3,6 @@ title: CommandBarComboBox.AddItem method (Office)
 keywords: vbaof11.chm8001
 f1_keywords:
 - vbaof11.chm8001
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.AddItem
 ms.assetid: 66109c4e-a75b-ebca-99e8-b6848316a04f

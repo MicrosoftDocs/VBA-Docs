@@ -3,7 +3,6 @@ title: Add a control to a form
 keywords: fm20.chm5225207
 f1_keywords:
 - fm20.chm5225207
-ms.prod: office
 ms.assetid: f66e732f-d17c-742a-28d3-74887cd53e90
 ms.date: 12/29/2018
 ms.localizationpriority: medium

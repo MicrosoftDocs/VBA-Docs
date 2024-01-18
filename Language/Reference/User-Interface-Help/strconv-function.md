@@ -3,7 +3,6 @@ title: StrConv function (Visual Basic for Applications)
 keywords: vblr6.chm1011063
 f1_keywords:
 - vblr6.chm1011063
-ms.prod: office
 ms.assetid: c0b92ca2-9850-7f37-07e0-8e313646c56c
 ms.date: 12/13/2018
 ms.localizationpriority: medium

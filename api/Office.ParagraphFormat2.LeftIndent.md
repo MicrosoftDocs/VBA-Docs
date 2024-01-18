@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.LeftIndent property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LeftIndent
 ms.assetid: cf4a4205-9123-505b-0f75-d021ac188035

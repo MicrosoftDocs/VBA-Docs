@@ -3,7 +3,6 @@ title: HelpContext property (Visual Basic for Applications)
 keywords: vblr6.chm1014190
 f1_keywords:
 - vblr6.chm1014190
-ms.prod: office
 ms.assetid: 5cfd1f6c-1d91-623c-dbb0-3431d5837881
 ms.date: 12/19/2018
 ms.localizationpriority: medium

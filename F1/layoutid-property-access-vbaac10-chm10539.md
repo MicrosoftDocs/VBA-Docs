@@ -3,7 +3,7 @@ title: LayoutID Property, Access [vbaac10.chm10539]
 keywords: vbaac10.chm10539
 f1_keywords:
 - vbaac10.chm10539
-ms.prod: office
+ms.service: office
 ms.assetid: 7455feb8-4100-4913-89b5-86ffbce952df
 ms.date: 06/08/2017
 ms.localizationpriority: medium

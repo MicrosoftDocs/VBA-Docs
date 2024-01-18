@@ -3,7 +3,6 @@ title: CustomXMLPrefixMappings.AddNamespace method (Office)
 keywords: vbaof11.chm290004
 f1_keywords:
 - vbaof11.chm290004
-ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.AddNamespace
 ms.assetid: a4a58a81-3fdc-f808-ac19-0eb27e944f29

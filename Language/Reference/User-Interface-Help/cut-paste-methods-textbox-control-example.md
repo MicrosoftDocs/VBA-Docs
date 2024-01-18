@@ -3,7 +3,6 @@ title: Cut, Paste methods, TextBox control example
 keywords: fm20.chm5225154
 f1_keywords:
 - fm20.chm5225154
-ms.prod: office
 ms.assetid: 38f39c6b-ff99-a5ca-596a-e2ddace29324
 ms.date: 11/14/2018
 ms.localizationpriority: medium

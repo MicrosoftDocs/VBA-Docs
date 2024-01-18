@@ -3,7 +3,6 @@ title: Environ function (Visual Basic for Applications)
 keywords: vblr6.chm1013110
 f1_keywords:
 - vblr6.chm1013110
-ms.prod: office
 ms.assetid: ad8cb911-5dab-a327-bd9c-ee57818a713a
 ms.date: 12/12/2018
 ms.localizationpriority: medium

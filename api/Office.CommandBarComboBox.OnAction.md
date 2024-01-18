@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.OnAction property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.OnAction
 ms.assetid: fe666bce-9c38-4203-1059-343d1346913b

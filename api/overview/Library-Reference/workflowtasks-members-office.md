@@ -1,7 +1,7 @@
 ---
 title: WorkflowTasks members (Office)
 description: Represents a collection of WorkflowTask objects.
-ms.prod: office
+ms.service: office
 ms.assetid: a627f77c-fd47-ef66-edbd-9b4c4fcd9920
 ms.date: 01/30/2019
 ms.localizationpriority: medium

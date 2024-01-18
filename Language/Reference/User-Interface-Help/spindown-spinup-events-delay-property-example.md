@@ -3,7 +3,6 @@ title: SpinDown, SpinUp events, Delay property example
 keywords: fm20.chm5225147
 f1_keywords:
 - fm20.chm5225147
-ms.prod: office
 ms.assetid: a7c32938-d1b3-9962-8333-716ab8b09337
 ms.date: 11/14/2018
 ms.localizationpriority: medium

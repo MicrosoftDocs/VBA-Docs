@@ -3,7 +3,6 @@ title: Pages collection (Microsoft Forms)
 keywords: fm20.chm5224996
 f1_keywords:
 - fm20.chm5224996
-ms.prod: office
 api_name:
 - Office.Pages
 ms.assetid: 42400a43-7a27-e7d4-16ee-cea265482758

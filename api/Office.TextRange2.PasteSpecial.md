@@ -1,6 +1,5 @@
 ---
 title: TextRange2.PasteSpecial method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.PasteSpecial
 ms.assetid: 79f88454-2f95-ea10-6ec4-5fb78ca8036d

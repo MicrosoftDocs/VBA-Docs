@@ -3,7 +3,7 @@ title: BeforeDocumentSave Event, Visio [vis_sdr.chm10019030]
 keywords: vis_sdr.chm10019030
 f1_keywords:
 - vis_sdr.chm10019030
-ms.prod: office
+ms.service: office
 ms.assetid: ce692f6c-c0eb-47d0-a685-c54c0941cf68
 ms.date: 06/08/2017
 ms.localizationpriority: medium

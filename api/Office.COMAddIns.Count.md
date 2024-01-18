@@ -3,7 +3,6 @@ title: COMAddIns.Count property (Office)
 keywords: vbaof11.chm220002
 f1_keywords:
 - vbaof11.chm220002
-ms.prod: office
 api_name:
 - Office.COMAddIns.Count
 ms.assetid: 5522bdc5-15b5-473f-94e3-5010a3d30f4a

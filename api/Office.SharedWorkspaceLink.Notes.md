@@ -3,7 +3,6 @@ title: SharedWorkspaceLink.Notes property (Office)
 keywords: vbaof11.chm270003
 f1_keywords:
 - vbaof11.chm270003
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.Notes
 ms.assetid: 5bb05b61-2746-f276-5159-ee8f28a30c66

@@ -3,7 +3,6 @@ title: Eqv operator
 keywords: vblr6.chm1008909
 f1_keywords:
 - vblr6.chm1008909
-ms.prod: office
 ms.assetid: 6662347b-5229-3bb7-a8f2-d1216094c870
 ms.date: 11/19/2018
 ms.localizationpriority: medium

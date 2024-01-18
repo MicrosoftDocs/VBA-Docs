@@ -3,7 +3,6 @@ title: Import File dialog box
 keywords: vbui6.chm181017
 f1_keywords:
 - vbui6.chm181017
-ms.prod: office
 ms.assetid: 8e5e3949-373b-0d53-372e-89a3da9e65da
 ms.date: 11/27/2018
 ms.localizationpriority: medium

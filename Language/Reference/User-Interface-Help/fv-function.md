@@ -3,7 +3,6 @@ title: FV function (Visual Basic for Applications)
 keywords: vblr6.chm1009280
 f1_keywords:
 - vblr6.chm1009280
-ms.prod: office
 ms.assetid: 9f77a5f2-77a9-ae4a-4ef0-c27136fcbd63
 ms.date: 12/12/2018
 ms.localizationpriority: medium

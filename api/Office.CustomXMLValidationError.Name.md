@@ -3,7 +3,6 @@ title: CustomXMLValidationError.Name property (Office)
 keywords: vbaof11.chm307002
 f1_keywords:
 - vbaof11.chm307002
-ms.prod: office
 api_name:
 - Office.CustomXMLValidationError.Name
 ms.assetid: 82fbeb38-f204-f615-29b4-48730bae7f53

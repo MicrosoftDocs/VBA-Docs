@@ -3,7 +3,6 @@ title: CustomXMLPart.Load method (Office)
 keywords: vbaof11.chm295010
 f1_keywords:
 - vbaof11.chm295010
-ms.prod: office
 api_name:
 - Office.CustomXMLPart.Load
 ms.assetid: f4d50c05-15bd-ccce-6198-9d6be401b29b

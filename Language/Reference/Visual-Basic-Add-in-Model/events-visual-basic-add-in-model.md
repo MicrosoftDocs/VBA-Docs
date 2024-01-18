@@ -1,6 +1,5 @@
 ---
 title: Events (Visual Basic Add-In Model)
-ms.prod: office
 keywords: vbob6.chm1098932
 f1_keywords:
 - vbob6.chm1098932

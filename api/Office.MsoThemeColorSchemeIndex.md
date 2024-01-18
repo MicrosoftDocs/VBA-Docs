@@ -1,6 +1,5 @@
 ---
 title: MsoThemeColorSchemeIndex enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoThemeColorSchemeIndex
 ms.assetid: a5382465-5552-c131-fad4-d6851f9c0f3e

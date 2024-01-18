@@ -3,7 +3,6 @@ title: Size to fit
 keywords: fm20.chm5225242
 f1_keywords:
 - fm20.chm5225242
-ms.prod: office
 ms.assetid: bc0aab65-c52f-039a-860a-12d337709551
 ms.date: 12/29/2018
 ms.localizationpriority: medium

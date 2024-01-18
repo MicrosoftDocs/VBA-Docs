@@ -3,7 +3,6 @@ title: DropDown method example
 keywords: fm20.chm5225153
 f1_keywords:
 - fm20.chm5225153
-ms.prod: office
 ms.assetid: 0a450210-9e10-d1f0-cb01-567115c9bfda
 ms.date: 11/14/2018
 ms.localizationpriority: medium

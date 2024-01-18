@@ -1,6 +1,5 @@
 ---
 title: Ruler2.Levels property (Office)
-ms.prod: office
 api_name:
 - Office.Ruler2.Levels
 ms.assetid: 7bf64f3e-1876-fe68-fa41-39fb909f89cd

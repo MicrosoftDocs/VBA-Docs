@@ -3,7 +3,6 @@ title: SLN function (Visual Basic for Applications)
 keywords: vblr6.chm1009289
 f1_keywords:
 - vblr6.chm1009289
-ms.prod: office
 ms.assetid: e9587257-b3b8-048f-76ed-609448596a14
 ms.date: 12/13/2018
 ms.localizationpriority: medium

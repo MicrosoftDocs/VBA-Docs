@@ -3,7 +3,6 @@ title: SearchScope object (Office)
 keywords: vbaof11.chm251000
 f1_keywords:
 - vbaof11.chm251000
-ms.prod: office
 api_name:
 - Office.SearchScope
 ms.assetid: 7faa5b49-6aa9-6682-165b-0d900fffd9ed

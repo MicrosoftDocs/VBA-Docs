@@ -1,6 +1,5 @@
 ---
 title: SmartArt.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArt.Creator
 ms.assetid: 2a254a92-42e7-9af1-d6e3-0428dd1a6771

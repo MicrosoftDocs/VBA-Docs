@@ -3,7 +3,6 @@ title: Subscript out of range (Error 9)
 keywords: vblr6.chm1011240
 f1_keywords:
 - vblr6.chm1011240
-ms.prod: office
 ms.assetid: 37b59913-9318-35eb-0646-19cd72d4f459
 ms.date: 08/14/2019
 ms.localizationpriority: medium

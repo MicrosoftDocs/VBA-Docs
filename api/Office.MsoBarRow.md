@@ -1,6 +1,5 @@
 ---
 title: MsoBarRow enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoBarRow
 ms.assetid: 639434a1-27c4-842f-294a-fbe6265b31ff

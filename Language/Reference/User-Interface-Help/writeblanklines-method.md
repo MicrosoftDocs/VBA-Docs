@@ -3,7 +3,6 @@ title: WriteBlankLines method (Visual Basic for Applications)
 keywords: vblr6.chm2182083
 f1_keywords:
 - vblr6.chm2182083
-ms.prod: office
 api_name:
 - Office.WriteBlankLines
 ms.assetid: a2109abc-8777-d637-225f-b5c2b50a5c8b

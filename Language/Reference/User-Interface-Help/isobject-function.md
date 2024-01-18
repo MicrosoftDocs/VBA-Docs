@@ -3,7 +3,6 @@ title: IsObject function (Visual Basic for Applications)
 keywords: vblr6.chm1008825
 f1_keywords:
 - vblr6.chm1008825
-ms.prod: office
 ms.assetid: 24fee32f-52ed-48b3-a52e-9a66b0e62723
 ms.date: 12/13/2018
 ms.localizationpriority: medium

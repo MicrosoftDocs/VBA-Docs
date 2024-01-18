@@ -1,6 +1,6 @@
 ---
 title: CustomXMLPart members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 76fe85f4-5a35-7d12-2989-6f17a094dcdf
 ms.date: 01/30/2019
 ms.localizationpriority: medium

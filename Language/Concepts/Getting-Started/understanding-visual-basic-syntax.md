@@ -3,7 +3,6 @@ title: Understanding Visual Basic syntax (VBA)
 keywords: vbcn6.chm1076679
 f1_keywords:
 - vbcn6.chm1076679
-ms.prod: office
 ms.assetid: 8b6f4203-f82e-5f2f-ad1e-1ad90d088700
 ms.date: 12/26/2018
 ms.localizationpriority: medium

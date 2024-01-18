@@ -3,7 +3,7 @@ title: Name Property, Project [vbapj.chm132552]
 keywords: vbapj.chm132552
 f1_keywords:
 - vbapj.chm132552
-ms.prod: office
+ms.service: office
 ms.assetid: cc08d923-5984-41f8-b2d0-43cd4bddfef2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

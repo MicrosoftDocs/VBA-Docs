@@ -3,7 +3,6 @@ title: Add Procedure dialog box
 keywords: vbui6.chm2018961
 f1_keywords:
 - vbui6.chm2018961
-ms.prod: office
 ms.assetid: a3712135-4a29-3ee3-91a6-5731b49affcc
 ms.date: 11/26/2018
 ms.localizationpriority: medium

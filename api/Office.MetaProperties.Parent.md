@@ -3,7 +3,6 @@ title: MetaProperties.Parent property (Office)
 keywords: vbaof11.chm274006
 f1_keywords:
 - vbaof11.chm274006
-ms.prod: office
 api_name:
 - Office.MetaProperties.Parent
 ms.assetid: cafd45a4-59ea-4459-3c35-75062964e5c9

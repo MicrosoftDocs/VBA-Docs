@@ -3,7 +3,6 @@ title: Incorrect DLL version
 keywords: vblr6.chm1011194
 f1_keywords:
 - vblr6.chm1011194
-ms.prod: office
 ms.assetid: 6ff7118c-1764-8098-9728-10146e270312
 ms.date: 06/08/2017
 ms.localizationpriority: medium

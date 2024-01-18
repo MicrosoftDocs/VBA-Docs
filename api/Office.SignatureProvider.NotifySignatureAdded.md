@@ -3,7 +3,6 @@ title: SignatureProvider.NotifySignatureAdded method (Office)
 keywords: vbaof11.chm287005
 f1_keywords:
 - vbaof11.chm287005
-ms.prod: office
 api_name:
 - Office.SignatureProvider.NotifySignatureAdded
 ms.assetid: 07eb9589-ff67-e54f-9a83-966738c3df58

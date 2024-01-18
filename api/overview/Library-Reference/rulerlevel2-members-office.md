@@ -1,6 +1,6 @@
 ---
 title: RulerLevel2 members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: e70ec0f0-2e89-927d-6eea-27bb4b8f5e6f
 ms.date: 01/30/2019
 ms.localizationpriority: medium

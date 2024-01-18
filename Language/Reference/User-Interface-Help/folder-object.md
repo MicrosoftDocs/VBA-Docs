@@ -3,7 +3,6 @@ title: Folder object
 keywords: vblr6.chm2181928
 f1_keywords:
 - vblr6.chm2181928
-ms.prod: office
 api_name:
 - Office.Folder
 ms.assetid: 877e81a5-5a34-9ef9-2375-3c60d35d3255

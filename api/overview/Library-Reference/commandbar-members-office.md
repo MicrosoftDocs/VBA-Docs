@@ -1,6 +1,6 @@
 ---
 title: CommandBar members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: e3756e7e-56a8-33a4-722f-640e5cc69b6d
 ms.date: 01/30/2019
 ms.localizationpriority: medium

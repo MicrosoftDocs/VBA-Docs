@@ -3,7 +3,6 @@ title: Use z-order to layer controls
 keywords: fm20.chm5225259
 f1_keywords:
 - fm20.chm5225259
-ms.prod: office
 ms.assetid: 07357aa8-bcd0-3ad0-a4e3-c059b5f17b7d
 ms.date: 12/29/2018
 ms.localizationpriority: medium

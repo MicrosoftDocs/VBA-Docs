@@ -3,7 +3,6 @@ title: ODSOFilter.Parent property (Office)
 keywords: vbaof11.chm240002
 f1_keywords:
 - vbaof11.chm240002
-ms.prod: office
 api_name:
 - Office.ODSOFilter.Parent
 ms.assetid: f74b9a54-8464-8de0-cdab-c9a1966d2b39

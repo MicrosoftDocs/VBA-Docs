@@ -1,6 +1,5 @@
 ---
 title: MsoShapeStyleIndex enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoShapeStyleIndex
 ms.assetid: 61f34054-28e7-6891-5442-3598d64284a0

@@ -3,7 +3,6 @@ title: MultiPage control
 keywords: fm20.chm5224983
 f1_keywords:
 - fm20.chm5224983
-ms.prod: office
 ms.assetid: 9361ddc3-2eaf-0a34-942b-f6cf4064625d
 ms.date: 11/15/2018
 ms.localizationpriority: medium

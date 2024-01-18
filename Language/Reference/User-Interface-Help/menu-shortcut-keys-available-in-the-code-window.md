@@ -3,7 +3,6 @@ title: Code window menu shortcut keys
 keywords: vbui6.chm1081069
 f1_keywords:
 - vbui6.chm1081069
-ms.prod: office
 ms.assetid: d9b172c0-67d4-ba1f-2e91-8fb29b2acbe1
 ms.date: 11/21/2018
 ms.localizationpriority: medium

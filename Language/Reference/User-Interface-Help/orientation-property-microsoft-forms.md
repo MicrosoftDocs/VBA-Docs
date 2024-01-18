@@ -3,7 +3,6 @@ title: Orientation property (Microsoft Forms)
 keywords: fm20.chm5225074
 f1_keywords:
 - fm20.chm5225074
-ms.prod: office
 ms.assetid: 3e57f9af-8aa5-85f5-f3af-81f9a61373c0
 ms.date: 11/16/2018
 ms.localizationpriority: medium

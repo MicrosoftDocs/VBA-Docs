@@ -3,7 +3,7 @@ title: Priority Property, Office Shared [vbaof11.chm5020]
 keywords: vbaof11.chm5020
 f1_keywords:
 - vbaof11.chm5020
-ms.prod: office
+ms.service: office
 ms.assetid: 609cdc47-87db-4f5d-b803-0a8e8d2724fd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

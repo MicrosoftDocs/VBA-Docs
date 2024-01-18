@@ -3,7 +3,6 @@ title: Expected user-defined type, not project
 keywords: vblr6.chm1035019
 f1_keywords:
 - vblr6.chm1035019
-ms.prod: office
 ms.assetid: f84f3542-fe4b-6aa1-1d96-5c7423661070
 ms.date: 06/08/2017
 ms.localizationpriority: medium

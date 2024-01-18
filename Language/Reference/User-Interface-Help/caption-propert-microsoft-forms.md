@@ -3,7 +3,6 @@ title: Caption property (Microsoft Forms)
 keywords: fm20.chm916518
 f1_keywords:
 - fm20.chm916518
-ms.prod: office
 ms.assetid: d2303a41-d557-032c-c195-febde9029f8a
 ms.date: 11/15/2018
 ms.localizationpriority: medium

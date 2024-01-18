@@ -3,7 +3,7 @@ title: Top Property, Project [vbapj.chm132710]
 keywords: vbapj.chm132710
 f1_keywords:
 - vbapj.chm132710
-ms.prod: office
+ms.service: office
 ms.assetid: df4da480-23fe-4992-8bbf-719fa2b4f8d6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

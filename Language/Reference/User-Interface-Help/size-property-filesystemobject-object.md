@@ -3,7 +3,6 @@ title: Size property (FileSystemObject object)
 keywords: vblr6.chm2182000
 f1_keywords:
 - vblr6.chm2182000
-ms.prod: office
 ms.assetid: 8ddecf14-adda-70bd-4d96-42ac0fa18745
 ms.date: 12/19/2018
 ms.localizationpriority: medium

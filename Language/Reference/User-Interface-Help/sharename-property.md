@@ -3,7 +3,6 @@ title: ShareName property (Visual Basic for Applications)
 keywords: vblr6.chm2181963
 f1_keywords:
 - vblr6.chm2181963
-ms.prod: office
 api_name:
 - Office.ShareName
 ms.assetid: 913ae336-102c-9c1c-4995-9b37aae79b3e

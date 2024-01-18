@@ -3,7 +3,7 @@ title: Conflicts Object, Word [vbawd10.chm2661]
 keywords: vbawd10.chm2661
 f1_keywords:
 - vbawd10.chm2661
-ms.prod: office
+ms.service: office
 ms.assetid: 243e06c2-dd5b-40ea-bb1e-8ea996aa0bf0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

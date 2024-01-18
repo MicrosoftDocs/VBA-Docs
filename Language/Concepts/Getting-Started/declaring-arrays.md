@@ -3,7 +3,6 @@ title: Declaring arrays (VBA)
 keywords: vbcn6.chm1076697
 f1_keywords:
 - vbcn6.chm1076697
-ms.prod: office
 ms.assetid: 3efbbe80-ee1a-e660-de4b-ffb3602ac31b
 ms.date: 12/21/2018
 ms.localizationpriority: high

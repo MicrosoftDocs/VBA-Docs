@@ -3,7 +3,6 @@ title: CommandBars.ExecuteMso method (Office)
 keywords: vbaof11.chm2018
 f1_keywords:
 - vbaof11.chm2018
-ms.prod: office
 api_name:
 - Office.CommandBars.ExecuteMso
 ms.assetid: 6f608475-7a79-48c7-abff-86d9ab07fe80

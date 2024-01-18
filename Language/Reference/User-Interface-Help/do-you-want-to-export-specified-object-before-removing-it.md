@@ -3,7 +3,6 @@ title: Do you want to export specified object before removing it?
 keywords: vblr6.chm1117683
 f1_keywords:
 - vblr6.chm1117683
-ms.prod: office
 ms.assetid: b4d59611-58ee-de9b-488e-bde1be850d31
 ms.date: 06/08/2017
 ms.localizationpriority: medium

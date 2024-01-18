@@ -3,7 +3,6 @@ title: IBlogExtensibility.Open method (Office)
 keywords: vbaof11.chm328005
 f1_keywords:
 - vbaof11.chm328005
-ms.prod: office
 api_name:
 - Office.IBlogExtensibility.Open
 ms.assetid: 34bae5c9-cc29-b1b8-746b-bc2630cf8bc0

@@ -1,6 +1,5 @@
 ---
 title: TabStops2.Application property (Office)
-ms.prod: office
 api_name:
 - Office.TabStops2.Application
 ms.assetid: 5014a025-4502-2efd-1d34-c6fbcf403f40

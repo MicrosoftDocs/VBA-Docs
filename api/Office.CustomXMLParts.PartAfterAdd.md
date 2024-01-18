@@ -3,7 +3,6 @@ title: CustomXMLParts.PartAfterAdd event (Office)
 keywords: vbaof11.chm299001
 f1_keywords:
 - vbaof11.chm299001
-ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartAfterAdd
 ms.assetid: c1a263a5-94cb-f563-145b-151a52a31d52

@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Top property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Top
 ms.assetid: 8949a41f-3772-be86-d794-002c680a4ade

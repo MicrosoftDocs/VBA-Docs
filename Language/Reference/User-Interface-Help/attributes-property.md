@@ -3,7 +3,6 @@ title: Attributes property (Visual Basic for Applications)
 keywords: vblr6.chm2181972
 f1_keywords:
 - vblr6.chm2181972
-ms.prod: office
 api_name:
 - Office.Attributes
 ms.assetid: 965b8844-33b8-2358-5bdd-cc814987132f

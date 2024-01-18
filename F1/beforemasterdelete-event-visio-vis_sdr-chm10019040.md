@@ -3,7 +3,7 @@ title: BeforeMasterDelete Event, Visio [vis_sdr.chm10019040]
 keywords: vis_sdr.chm10019040
 f1_keywords:
 - vis_sdr.chm10019040
-ms.prod: office
+ms.service: office
 ms.assetid: 5215ce59-01d2-473b-a815-0057ef515eb5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

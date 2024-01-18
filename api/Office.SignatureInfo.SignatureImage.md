@@ -3,7 +3,6 @@ title: SignatureInfo.SignatureImage property (Office)
 keywords: vbaof11.chm286004
 f1_keywords:
 - vbaof11.chm286004
-ms.prod: office
 api_name:
 - Office.SignatureInfo.SignatureImage
 ms.assetid: 4a0fa820-5e65-36c6-1f0c-d5d98c4e8fb1

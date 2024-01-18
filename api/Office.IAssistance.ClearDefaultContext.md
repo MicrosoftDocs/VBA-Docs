@@ -3,7 +3,6 @@ title: IAssistance.ClearDefaultContext method (Office)
 keywords: vbaof11.chm326004
 f1_keywords:
 - vbaof11.chm326004
-ms.prod: office
 api_name:
 - Office.IAssistance.ClearDefaultContext
 ms.assetid: ebdc0b7e-f459-6d4d-af45-0e5625b2448e

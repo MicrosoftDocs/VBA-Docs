@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.TooltipText property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.TooltipText
 ms.assetid: 12126126-f8b6-e8a4-3d32-4d5604928e8a

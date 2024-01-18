@@ -1,6 +1,5 @@
 ---
 title: FileDialogSelectedItems.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.FileDialogSelectedItems.Creator
 ms.assetid: f01be845-be7c-3f3c-773f-5cebd1c30830

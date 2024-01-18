@@ -3,7 +3,6 @@ title: WebPageFont object (Office)
 keywords: vbaof11.chm224000
 f1_keywords:
 - vbaof11.chm224000
-ms.prod: office
 api_name:
 - Office.WebPageFont
 ms.assetid: daf3c079-520d-68bd-ec02-027776074505

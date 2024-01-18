@@ -3,7 +3,6 @@ title: Quick Watch dialog box
 keywords: vbui6.chm2018959
 f1_keywords:
 - vbui6.chm2018959
-ms.prod: office
 ms.assetid: 38f09ead-498e-b609-4b9c-a1246185fc03
 ms.date: 11/27/2018 
 ms.localizationpriority: medium

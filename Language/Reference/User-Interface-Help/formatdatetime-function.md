@@ -3,7 +3,6 @@ title: FormatDateTime function (Visual Basic for Applications)
 keywords: vblr6.chm1011367
 f1_keywords:
 - vblr6.chm1011367
-ms.prod: office
 ms.assetid: 1ead64ea-cea4-0464-a6e4-f28b1edb06cc
 ms.date: 12/12/2018
 ms.localizationpriority: medium

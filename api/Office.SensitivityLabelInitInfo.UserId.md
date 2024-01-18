@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelInitInfo.UserId property (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelInitInfo.UserId
 ms.assetid: bf2bc6f8-e1ee-4d76-afcd-967debe37e40

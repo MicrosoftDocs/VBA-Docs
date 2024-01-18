@@ -3,7 +3,6 @@ title: IsError function (Visual Basic for Applications)
 keywords: vblr6.chm1008824
 f1_keywords:
 - vblr6.chm1008824
-ms.prod: office
 ms.assetid: 7eab8dd7-6719-3fc1-fea2-3140cc6a0e5f
 ms.date: 12/13/2018
 ms.localizationpriority: medium

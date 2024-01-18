@@ -3,7 +3,6 @@ title: What is the Toolbox?
 keywords: fm20.chm5225205
 f1_keywords:
 - fm20.chm5225205
-ms.prod: office
 ms.assetid: 4faf748c-9f4d-2216-6bad-66f7ad15e6b5
 ms.date: 12/29/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: MatchEntry property
 keywords: fm20.chm5225060
 f1_keywords:
 - fm20.chm5225060
-ms.prod: office
 api_name:
 - Office.MatchEntry
 ms.assetid: 8f3ab1b9-5d69-b955-423b-be259a94a2f4

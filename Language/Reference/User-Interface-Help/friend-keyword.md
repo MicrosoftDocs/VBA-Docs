@@ -3,7 +3,6 @@ title: Friend keyword (VBA)
 keywords: vblr6.chm1103683
 f1_keywords:
 - vblr6.chm1103683
-ms.prod: office
 ms.assetid: 64745732-35c9-cce0-55bb-57133d322ef0
 ms.date: 12/03/2018
 ms.localizationpriority: medium

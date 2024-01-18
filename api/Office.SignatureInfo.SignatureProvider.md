@@ -1,6 +1,5 @@
 ---
 title: SignatureInfo.SignatureProvider property (Office)
-ms.prod: office
 api_name:
 - Office.SignatureInfo.SignatureProvider
 ms.assetid: e426f4c6-95f7-dc3f-752d-0fee56bc2c65

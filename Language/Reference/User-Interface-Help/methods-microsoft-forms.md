@@ -1,6 +1,5 @@
 ---
 title: Methods (Microsoft Forms)
-ms.prod: office
 ms.assetid: 808a998e-ef9f-4848-b03c-1d48cb355b5e
 ms.date: 09/17/2018
 ms.localizationpriority: medium

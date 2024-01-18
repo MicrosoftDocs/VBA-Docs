@@ -3,7 +3,6 @@ title: Additional Controls dialog box
 keywords: vbui6.chm2016019
 f1_keywords:
 - vbui6.chm2016019
-ms.prod: office
 ms.assetid: 45a40d3e-3b8e-f597-3c92-611c7ffe25f2
 ms.date: 11/26/2018
 ms.localizationpriority: medium

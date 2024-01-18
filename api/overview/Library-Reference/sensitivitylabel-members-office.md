@@ -1,6 +1,6 @@
 ---
 title: SensitivityLabel members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: fd235001-495f-40cb-859b-53fce06fff9d
 ms.date: 03/29/2021
 ms.localizationpriority: medium

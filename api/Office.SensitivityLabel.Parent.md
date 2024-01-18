@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabel.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabel.Parent
 ms.assetid: bedd8d82-0d50-4a2e-9764-c447d71d33ba

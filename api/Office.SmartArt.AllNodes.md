@@ -1,6 +1,5 @@
 ---
 title: SmartArt.AllNodes property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArt.AllNodes
 ms.assetid: 8562a464-61dd-e019-9f44-89ade4703589

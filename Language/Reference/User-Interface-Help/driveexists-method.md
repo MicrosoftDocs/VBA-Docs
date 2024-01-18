@@ -3,7 +3,6 @@ title: DriveExists method (Visual Basic for Applications)
 keywords: vblr6.chm2182038
 f1_keywords:
 - vblr6.chm2182038
-ms.prod: office
 api_name:
 - Office.DriveExists
 ms.assetid: ddba70e5-8b60-4ce6-631f-fb10f81a6d93

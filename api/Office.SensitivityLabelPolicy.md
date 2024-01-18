@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelPolicy object (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelPolicy
 ms.assetid: 6805a678-bf00-4b5c-a5d3-3ca9ee125515

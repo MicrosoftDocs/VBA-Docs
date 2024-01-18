@@ -3,7 +3,6 @@ title: ShortName property (Visual Basic for Applications)
 keywords: vblr6.chm2181997
 f1_keywords:
 - vblr6.chm2181997
-ms.prod: office
 api_name:
 - Office.ShortName
 ms.assetid: 62d95787-61c7-777d-56d0-d17d4d8e0f18

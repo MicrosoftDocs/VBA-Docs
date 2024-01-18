@@ -1,6 +1,5 @@
 ---
 title: InsertFile method (VBA)
-ms.prod: office
 api_name:
 - Office.InsertFile
 ms.assetid: 65a8fc84-0f4e-b900-16ff-f5547df48018

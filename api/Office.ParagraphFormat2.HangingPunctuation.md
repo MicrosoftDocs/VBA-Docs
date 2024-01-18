@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.HangingPunctuation property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.HangingPunctuation
 ms.assetid: 9e1219b7-f534-eacf-68de-eef53f427ae3

@@ -3,7 +3,6 @@ title: Standard toolbar
 keywords: vbui6.chm2057576
 f1_keywords:
 - vbui6.chm2057576
-ms.prod: office
 ms.assetid: d50647e8-69b9-291d-5f10-6cf31143861f
 ms.date: 11/26/2018
 ms.localizationpriority: medium

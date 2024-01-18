@@ -3,7 +3,6 @@ title: Resize event (Visual Basic for Applications)
 keywords: vblr6.chm1107498
 f1_keywords:
 - vblr6.chm1107498
-ms.prod: office
 api_name:
 - Office.Resize
 ms.assetid: d7ea6a67-1d51-0dee-0b23-19ca748557ea

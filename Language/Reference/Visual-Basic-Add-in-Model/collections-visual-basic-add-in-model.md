@@ -1,6 +1,5 @@
 ---
 title: Collections (Visual Basic Add-In Model)
-ms.prod: office
 keywords: vbob6.chm1070949
 f1_keywords:
 - vbob6.chm1070949

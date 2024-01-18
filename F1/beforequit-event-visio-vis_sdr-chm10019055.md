@@ -3,7 +3,7 @@ title: BeforeQuit Event, Visio [vis_sdr.chm10019055]
 keywords: vis_sdr.chm10019055
 f1_keywords:
 - vis_sdr.chm10019055
-ms.prod: office
+ms.service: office
 ms.assetid: a60d904e-8e66-4cbd-842f-0caaf61a8a0d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

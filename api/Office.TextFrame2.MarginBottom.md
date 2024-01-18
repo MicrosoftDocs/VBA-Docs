@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.MarginBottom property (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.MarginBottom
 ms.assetid: c8fadba2-4e9e-4d54-b2ba-7637024ba0d6

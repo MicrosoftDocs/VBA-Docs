@@ -3,7 +3,6 @@ title: LOF function (Visual Basic for Applications)
 keywords: vblr6.chm1008965
 f1_keywords:
 - vblr6.chm1008965
-ms.prod: office
 ms.assetid: 1bf66bce-d3d7-9c34-e8d2-8ad1e1ee24a8
 ms.date: 12/13/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: FileDialogFilters.Count property (Office)
 keywords: vbaof11.chm255002
 f1_keywords:
 - vbaof11.chm255002
-ms.prod: office
 api_name:
 - Office.FileDialogFilters.Count
 ms.assetid: 0a942ebf-a364-40b1-315a-09042dd8d365

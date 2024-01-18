@@ -3,7 +3,6 @@ title: Understanding Variants (VBA)
 keywords: vbcn6.chm1076678
 f1_keywords:
 - vbcn6.chm1076678
-ms.prod: office
 ms.assetid: 0f8d3917-0ca3-0a67-2c3d-48883f4a24f1
 ms.date: 12/26/2018
 ms.localizationpriority: medium

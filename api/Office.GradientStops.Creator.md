@@ -1,6 +1,5 @@
 ---
 title: GradientStops.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.GradientStops.Creator
 ms.assetid: 3dc34737-a6f9-7e8a-ba69-e200f53bedc5

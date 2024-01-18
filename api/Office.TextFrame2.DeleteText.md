@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.DeleteText method (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.DeleteText
 ms.assetid: 4bfd3a9b-e902-0f83-f1fe-19dd95115278

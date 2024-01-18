@@ -1,6 +1,5 @@
 ---
 title: ContactCard.Show method (Office)
-ms.prod: office
 api_name:
 - Office.ContactCard.Show
 ms.assetid: 57fe503a-3298-0bec-3c26-31ae88aa6534

@@ -2,7 +2,7 @@
 title: MsoPictureCompress enumeration (Office)
 ms.assetid: f58e84f7-f284-425f-88df-b8f8578cebeb
 ms.date: 01/31/2019
-ms.prod: office
+ms.service: office
 ms.localizationpriority: medium
 ---
 

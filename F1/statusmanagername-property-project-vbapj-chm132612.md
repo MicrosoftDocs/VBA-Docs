@@ -3,7 +3,7 @@ title: StatusManagerName Property, Project [vbapj.chm132612]
 keywords: vbapj.chm132612
 f1_keywords:
 - vbapj.chm132612
-ms.prod: office
+ms.service: office
 ms.assetid: c60d4603-6fbc-4971-8b08-c7da9a2ded26
 ms.date: 06/08/2017
 ms.localizationpriority: medium

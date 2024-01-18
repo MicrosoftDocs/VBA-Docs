@@ -3,7 +3,6 @@ title: Enter a declaration in code (VBA)
 keywords: vbhw6.chm1105191
 f1_keywords:
 - vbhw6.chm1105191
-ms.prod: office
 ms.assetid: ecc7951b-441d-efba-6703-d5753dee48b1
 ms.date: 12/27/2018
 ms.localizationpriority: medium

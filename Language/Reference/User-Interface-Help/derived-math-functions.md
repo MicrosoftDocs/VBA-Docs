@@ -3,7 +3,6 @@ title: Derived math functions (Visual Basic for Applications)
 keywords: vblr6.chm1008896
 f1_keywords:
 - vblr6.chm1008896
-ms.prod: office
 ms.assetid: f6d53d19-3487-548a-eeba-5b16d7e3e1e7
 ms.date: 12/12/2018
 ms.localizationpriority: medium

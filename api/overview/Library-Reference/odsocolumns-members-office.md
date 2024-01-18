@@ -1,6 +1,6 @@
 ---
 title: ODSOColumns members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: acb82ad1-eef7-2b24-38f6-9dbc22228ee5
 ms.date: 01/30/2019
 ms.localizationpriority: medium

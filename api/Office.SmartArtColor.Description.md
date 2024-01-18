@@ -1,6 +1,5 @@
 ---
 title: SmartArtColor.Description property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtColor.Description
 ms.assetid: c1d04aca-e8db-b89d-8f05-24e81dfc762b

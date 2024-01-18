@@ -3,7 +3,6 @@ title: Invalid use of Me keyword
 keywords: vblr6.chm1015641
 f1_keywords:
 - vblr6.chm1015641
-ms.prod: office
 ms.assetid: c1751bda-c3f5-84c3-0fe0-4ddcdd4829c6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

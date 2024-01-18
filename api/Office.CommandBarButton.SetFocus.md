@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.SetFocus method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.SetFocus
 ms.assetid: f6719533-1958-05d4-5f9c-7b09cb33b1c8

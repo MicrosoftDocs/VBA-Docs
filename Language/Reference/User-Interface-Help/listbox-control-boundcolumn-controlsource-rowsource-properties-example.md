@@ -3,7 +3,6 @@ title: ListBox control, BoundColumn, ControlSource, RowSource properties example
 keywords: fm20.chm5225190
 f1_keywords:
 - fm20.chm5225190
-ms.prod: office
 ms.assetid: 5aa015d5-0a2b-ca93-940c-3faf4dd9d900
 ms.date: 11/14/2018
 ms.localizationpriority: medium

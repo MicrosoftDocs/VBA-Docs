@@ -3,7 +3,7 @@ title: ListGalleries Object, Word [vbawd10.chm2453]
 keywords: vbawd10.chm2453
 f1_keywords:
 - vbawd10.chm2453
-ms.prod: office
+ms.service: office
 ms.assetid: 543b7268-743c-4e98-b0e9-179867092d27
 ms.date: 06/08/2017
 ms.localizationpriority: medium

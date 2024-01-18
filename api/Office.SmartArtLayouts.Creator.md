@@ -1,6 +1,5 @@
 ---
 title: SmartArtLayouts.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Creator
 ms.assetid: d68e64ff-541e-7276-b04e-a33a002e73bc

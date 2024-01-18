@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.TabStops property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.TabStops
 ms.assetid: 66d32bd6-bfca-83c2-65cb-bf8491aa0af4

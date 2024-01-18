@@ -1,6 +1,5 @@
 ---
 title: SignatureSetup.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SignatureSetup.Creator
 ms.assetid: b942735a-c356-7435-2dea-0617b7787db0

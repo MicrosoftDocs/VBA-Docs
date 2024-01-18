@@ -1,6 +1,5 @@
 ---
 title: MsoTextureAlignment enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoTextureAlignment
 ms.assetid: 1e2095c7-5312-0057-faea-ccc51a082362

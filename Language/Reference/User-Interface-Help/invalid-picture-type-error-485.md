@@ -3,7 +3,6 @@ title: Invalid picture type (Error 485)
 keywords: vblr6.chm1117801
 f1_keywords:
 - vblr6.chm1117801
-ms.prod: office
 ms.assetid: 3b0c25f3-8faa-efe4-1a77-676696dca3d1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

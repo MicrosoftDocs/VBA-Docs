@@ -3,7 +3,6 @@ title: PickerDialog.Title property (Office)
 keywords: vbaof11.chm340002
 f1_keywords:
 - vbaof11.chm340002
-ms.prod: office
 api_name:
 - Office.PickerDialog.Title
 ms.assetid: 76531e47-91a4-4d82-7825-ab900c5bf8e2

@@ -3,7 +3,7 @@ title: Flag19 Property, Project [vbapj.chm132245]
 keywords: vbapj.chm132245
 f1_keywords:
 - vbapj.chm132245
-ms.prod: office
+ms.service: office
 ms.assetid: 36c26815-3d23-4993-a8f4-938b95341aa9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

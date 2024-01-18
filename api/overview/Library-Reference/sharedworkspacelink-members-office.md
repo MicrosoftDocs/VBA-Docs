@@ -1,7 +1,7 @@
 ---
 title: SharedWorkspaceLink members (Office)
 description: Represents a URL link saved in a shared document workspace site.
-ms.prod: office
+ms.service: office
 ms.assetid: fa8d7312-77cc-77b7-14ca-a6aa7f63fa7b
 ms.date: 01/30/2019
 ms.localizationpriority: medium

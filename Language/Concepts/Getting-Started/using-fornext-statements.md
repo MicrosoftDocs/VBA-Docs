@@ -3,7 +3,6 @@ title: Using For...Next statements (VBA)
 keywords: vbcn6.chm1076682
 f1_keywords:
 - vbcn6.chm1076682
-ms.prod: office
 ms.assetid: fe6e66a7-a9d3-d363-65c5-00d35bb407bd
 ms.date: 12/26/2018
 ms.localizationpriority: medium

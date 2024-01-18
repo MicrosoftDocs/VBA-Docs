@@ -3,7 +3,6 @@ title: IConverterUICallback object (Office)
 keywords: vbaof11.chm332000
 f1_keywords:
 - vbaof11.chm332000
-ms.prod: office
 api_name:
 - Office.IConverterUICallback
 ms.assetid: 9e1a4016-b96a-08b7-db0c-a2e4d63e11e1

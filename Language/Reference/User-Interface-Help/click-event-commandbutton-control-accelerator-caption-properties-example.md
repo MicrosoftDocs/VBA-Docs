@@ -3,7 +3,6 @@ title: Click event, CommandButton control, Accelerator, Caption properties examp
 keywords: fm20.chm5225180
 f1_keywords:
 - fm20.chm5225180
-ms.prod: office
 ms.assetid: f2d2210a-e69e-6dbb-6b3d-95ceb377bc84
 ms.date: 11/14/2018
 ms.localizationpriority: medium

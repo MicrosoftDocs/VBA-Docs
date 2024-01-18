@@ -3,7 +3,6 @@ title: End Select without Select Case
 keywords: vblr6.chm1011141
 f1_keywords:
 - vblr6.chm1011141
-ms.prod: office
 ms.assetid: 21fb3c2a-d273-1b2b-2ac2-e123fc3689ae
 ms.date: 06/08/2017
 ms.localizationpriority: medium

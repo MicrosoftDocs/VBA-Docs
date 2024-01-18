@@ -1,6 +1,5 @@
 ---
 title: MsoPresetTextEffectShape enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoPresetTextEffectShape
 ms.assetid: d8b21a00-54af-b2cf-6a1d-4bbaef2aac78

@@ -1,6 +1,5 @@
 ---
 title: MsoCharacterSet enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoCharacterSet
 ms.assetid: 29111386-e1ec-a468-cea3-5437c400052b

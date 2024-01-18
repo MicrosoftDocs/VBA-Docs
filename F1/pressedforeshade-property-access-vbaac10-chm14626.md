@@ -3,7 +3,7 @@ title: PressedForeShade Property, Access [vbaac10.chm14626]
 keywords: vbaac10.chm14626
 f1_keywords:
 - vbaac10.chm14626
-ms.prod: office
+ms.service: office
 ms.assetid: 93c3b2bd-c8da-4933-b8fc-a17131e67755
 ms.date: 06/08/2017
 ms.localizationpriority: medium

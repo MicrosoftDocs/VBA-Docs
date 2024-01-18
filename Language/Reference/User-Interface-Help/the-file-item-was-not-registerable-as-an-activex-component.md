@@ -1,6 +1,5 @@
 ---
 title: The file 'item' was not registerable as an ActiveX Component.
-ms.prod: office
 ms.assetid: 363ec431-c883-673d-6e80-ef52d72c6a5e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

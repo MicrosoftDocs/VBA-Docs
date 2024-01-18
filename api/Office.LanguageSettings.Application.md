@@ -1,6 +1,5 @@
 ---
 title: LanguageSettings.Application property (Office)
-ms.prod: office
 api_name:
 - Office.LanguageSettings.Application
 ms.assetid: 48bd707e-4dac-df46-fa5b-e8d1159aa19d

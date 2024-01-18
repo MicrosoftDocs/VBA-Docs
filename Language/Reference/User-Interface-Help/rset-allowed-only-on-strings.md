@@ -3,7 +3,6 @@ title: RSet allowed only on strings
 keywords: vblr6.chm1040145
 f1_keywords:
 - vblr6.chm1040145
-ms.prod: office
 ms.assetid: cf7a404b-de1f-501b-c961-011c46e460c8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: PickerResult object (Office)
 keywords: vbaof11.chm338000
 f1_keywords:
 - vbaof11.chm338000
-ms.prod: office
 api_name:
 - Office.PickerResult
 ms.assetid: 5229d2ad-a32e-a864-9de4-dc651199ff58

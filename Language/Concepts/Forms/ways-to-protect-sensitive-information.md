@@ -3,7 +3,6 @@ title: Protect sensitive information
 keywords: fm20.chm5225235
 f1_keywords:
 - fm20.chm5225235
-ms.prod: office
 ms.assetid: efd37fb2-7bec-d824-08cb-f8e50df40dd5
 ms.date: 12/29/2018
 ms.localizationpriority: medium

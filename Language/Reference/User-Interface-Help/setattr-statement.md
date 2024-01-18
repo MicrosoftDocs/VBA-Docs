@@ -3,7 +3,6 @@ title: SetAttr statement (VBA)
 keywords: vblr6.chm1009017
 f1_keywords:
 - vblr6.chm1009017
-ms.prod: office
 ms.assetid: dad85437-6944-a393-9f12-5827b184f42d
 ms.date: 12/03/2018
 ms.localizationpriority: medium

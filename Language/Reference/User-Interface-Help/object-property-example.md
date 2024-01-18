@@ -3,7 +3,6 @@ title: Object property example
 keywords: fm20.chm5225117
 f1_keywords:
 - fm20.chm5225117
-ms.prod: office
 ms.assetid: 153ec102-60d0-a3c2-4a28-a6dec2321003
 ms.date: 11/14/2018
 ms.localizationpriority: medium

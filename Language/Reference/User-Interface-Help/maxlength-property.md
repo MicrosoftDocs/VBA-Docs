@@ -3,7 +3,6 @@ title: MaxLength property
 keywords: fm20.chm5225064
 f1_keywords:
 - fm20.chm5225064
-ms.prod: office
 api_name:
 - Office.MaxLength
 ms.assetid: 6cc016ef-333a-9e7a-aacb-323717915f9f

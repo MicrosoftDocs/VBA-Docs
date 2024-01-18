@@ -3,7 +3,6 @@ title: ODSOFilters.Add method (Office)
 keywords: vbaof11.chm241004
 f1_keywords:
 - vbaof11.chm241004
-ms.prod: office
 api_name:
 - Office.ODSOFilters.Add
 ms.assetid: ced18180-09bf-7663-66d5-7543ac7f6b84

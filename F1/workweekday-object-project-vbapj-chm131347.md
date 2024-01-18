@@ -3,7 +3,7 @@ title: WorkWeekDay Object, Project [vbapj.chm131347]
 keywords: vbapj.chm131347
 f1_keywords:
 - vbapj.chm131347
-ms.prod: office
+ms.service: office
 ms.assetid: ceb4a4ff-166d-4075-ab27-e7c392c2d205
 ms.date: 06/08/2017
 ms.localizationpriority: medium

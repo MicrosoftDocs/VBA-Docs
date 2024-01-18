@@ -3,7 +3,7 @@ title: DblClick Event, Access - [vbaac10.chm14036]
 keywords: vbaac10.chm14036
 f1_keywords:
 - vbaac10.chm14036
-ms.prod: office
+ms.service: office
 ms.assetid: bb7c7c3b-54de-4fd8-9b18-4047a6862001
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: The library containing this symbol is not referenced by the current proje
 keywords: vblr6.chm1115320
 f1_keywords:
 - vblr6.chm1115320
-ms.prod: office
 ms.assetid: e8162622-e0e5-32e6-53ec-99b4b2265c5a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

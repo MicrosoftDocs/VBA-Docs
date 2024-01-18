@@ -3,7 +3,6 @@ title: ScopeFolders.Item property (Office)
 keywords: vbaof11.chm249001
 f1_keywords:
 - vbaof11.chm249001
-ms.prod: office
 api_name:
 - Office.ScopeFolders.Item
 ms.assetid: 9f165ff6-831b-d3bd-dadd-98cfc641ce87

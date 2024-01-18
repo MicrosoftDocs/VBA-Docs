@@ -3,7 +3,6 @@ title: Add method (Microsoft Forms)
 keywords: fm20.chm5224953
 f1_keywords:
 - fm20.chm5224953
-ms.prod: office
 ms.assetid: 1030fff9-736c-9ece-5600-2e4f3b4281b8
 ms.date: 11/15/2018
 ms.localizationpriority: medium

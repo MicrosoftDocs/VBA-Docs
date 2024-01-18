@@ -1,6 +1,5 @@
 ---
 title: PictureEffect.Type property (Office)
-ms.prod: office
 api_name:
 - Office.PictureEffect.Type
 ms.assetid: 9d93d9b5-726b-5cbb-3642-bbd461d706c7

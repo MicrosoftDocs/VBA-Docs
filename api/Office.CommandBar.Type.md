@@ -3,7 +3,6 @@ title: CommandBar.Type property (Office)
 keywords: vbaof11.chm3019
 f1_keywords:
 - vbaof11.chm3019
-ms.prod: office
 api_name:
 - Office.CommandBar.Type
 ms.assetid: e023edd9-a8f4-c20f-c6b1-c434182bd748

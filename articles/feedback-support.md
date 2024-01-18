@@ -1,6 +1,6 @@
 ---
 title: Office VBA support and feedback
-ms.prod: office
+ms.service: office
 ms.date: 01/08/2020
 ---
 

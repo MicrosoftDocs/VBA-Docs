@@ -3,7 +3,7 @@ title: FormulaChanged Event, Visio [vis_sdr.chm10019160]
 keywords: vis_sdr.chm10019160
 f1_keywords:
 - vis_sdr.chm10019160
-ms.prod: office
+ms.service: office
 ms.assetid: dcd8f692-0905-4169-b58c-4016a8784582
 ms.date: 06/08/2017
 ms.localizationpriority: medium

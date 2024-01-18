@@ -3,7 +3,6 @@ title: FileDialog object (Office)
 keywords: vbaof11.chm256000
 f1_keywords:
 - vbaof11.chm256000
-ms.prod: office
 api_name:
 - Office.FileDialog
 ms.assetid: 71a030f2-3b02-21e1-c156-0514ff5eddb7

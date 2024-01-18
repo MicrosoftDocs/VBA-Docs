@@ -3,7 +3,6 @@ title: KeyDown, KeyUp events
 keywords: fm20.chm2000120
 f1_keywords:
 - fm20.chm2000120
-ms.prod: office
 ms.assetid: dde8140e-ebd7-2ad1-6585-65ffe65b3c22
 ms.date: 11/15/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: MsoGraphicStyleIndex enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoGraphicStyleIndex
 ms.date: 04/25/2019

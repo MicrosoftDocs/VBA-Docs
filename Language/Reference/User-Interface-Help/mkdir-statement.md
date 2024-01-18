@@ -3,7 +3,6 @@ title: MkDir statement (VBA)
 keywords: vblr6.chm1008975
 f1_keywords:
 - vblr6.chm1008975
-ms.prod: office
 ms.assetid: b79fdad3-a1c2-7af3-c679-09d35d4b0d87
 ms.date: 12/03/2018
 ms.localizationpriority: medium

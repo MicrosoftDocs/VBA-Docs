@@ -1,6 +1,6 @@
 ---
 title: MsoEnvelope members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 49205dd9-e396-2c17-3b7c-f127d4de9607
 ms.date: 01/30/2019
 ms.localizationpriority: medium

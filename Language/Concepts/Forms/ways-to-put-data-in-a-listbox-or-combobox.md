@@ -3,7 +3,6 @@ title: Put data in a ListBox or ComboBox
 keywords: fm20.chm5225251
 f1_keywords:
 - fm20.chm5225251
-ms.prod: office
 ms.assetid: 3a1548a5-c172-410d-6874-7336bd677546
 ms.date: 12/29/2018
 ms.localizationpriority: medium

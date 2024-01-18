@@ -1,6 +1,5 @@
 ---
 title: MsoFileValidationMode enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoFileValidationMode
 ms.assetid: 2501a3a5-2053-9fc6-7a3f-bca2fe27f6d1

@@ -3,7 +3,6 @@ title: FileDialog.DialogType property (Office)
 keywords: vbaof11.chm256010
 f1_keywords:
 - vbaof11.chm256010
-ms.prod: office
 api_name:
 - Office.FileDialog.DialogType
 ms.assetid: c589fe49-6527-7cdc-b7cb-55ac71013f3c

@@ -4,7 +4,6 @@ description: Information about the options available in Visual Basic for Applica
 keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
-ms.prod: office
 ms.date: 11/27/2018 
 ms.localizationpriority: medium
 ---

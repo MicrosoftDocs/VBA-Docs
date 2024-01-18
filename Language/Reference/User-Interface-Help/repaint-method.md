@@ -3,7 +3,6 @@ title: Repaint method (Microsoft Forms)
 keywords: fm20.chm2000380
 f1_keywords:
 - fm20.chm2000380
-ms.prod: office
 api_name:
 - Office.Repaint
 ms.assetid: 987f895f-7054-3568-269b-d6378c1233b5

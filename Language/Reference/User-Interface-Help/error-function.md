@@ -3,7 +3,6 @@ title: Error function (Visual Basic for Applications)
 keywords: vblr6.chm1008914
 f1_keywords:
 - vblr6.chm1008914
-ms.prod: office
 ms.assetid: f0e51ff6-34f4-43be-ffcb-d935fa0513c7
 ms.date: 12/12/2018
 ms.localizationpriority: medium

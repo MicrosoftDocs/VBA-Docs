@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.Shapes property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.Shapes
 ms.assetid: c8a6dd3f-830e-342c-39c1-a86a54c475d4

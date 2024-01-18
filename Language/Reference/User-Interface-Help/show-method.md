@@ -3,7 +3,6 @@ title: Show method (Visual Basic for Applications)
 keywords: vblr6.chm916142
 f1_keywords:
 - vblr6.chm916142
-ms.prod: office
 api_name:
 - Office.Show
 ms.assetid: 25d05f62-8901-5592-00e0-ca7c340dfb86

@@ -3,7 +3,6 @@ title: Choose function (Visual Basic for Applications)
 keywords: vblr6.chm1010091
 f1_keywords:
 - vblr6.chm1010091
-ms.prod: office
 ms.assetid: ccf3fe4c-9507-5ff3-b834-9a16e2a19ae2
 ms.date: 12/11/2018
 ms.localizationpriority: medium

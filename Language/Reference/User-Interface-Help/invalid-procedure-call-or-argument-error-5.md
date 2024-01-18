@@ -3,7 +3,6 @@ title: Invalid procedure call or argument (Error 5)
 keywords: vblr6.chm1000005
 f1_keywords:
 - vblr6.chm1000005
-ms.prod: office
 ms.assetid: 481b8431-b4ba-b368-2c5e-ade85b99348d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

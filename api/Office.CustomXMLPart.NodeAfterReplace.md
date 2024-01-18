@@ -3,7 +3,6 @@ title: CustomXMLPart.NodeAfterReplace event (Office)
 keywords: vbaof11.chm296003
 f1_keywords:
 - vbaof11.chm296003
-ms.prod: office
 api_name:
 - Office.CustomXMLPart.NodeAfterReplace
 ms.assetid: acb4a1d6-7928-5f6b-938a-1e56ea3db1b3

@@ -3,7 +3,6 @@ title: SetText method (Microsoft Forms)
 keywords: fm20.chm2012330
 f1_keywords:
 - fm20.chm2012330
-ms.prod: office
 api_name:
 - Office.SetText
 ms.assetid: e7a246fb-eb50-7c35-1b9f-3e927589aa37

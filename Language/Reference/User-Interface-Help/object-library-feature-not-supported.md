@@ -3,7 +3,6 @@ title: Object library feature not supported
 keywords: vblr6.chm1035022
 f1_keywords:
 - vblr6.chm1035022
-ms.prod: office
 ms.assetid: 3b667038-2e39-0246-2a69-73b7a79d046f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

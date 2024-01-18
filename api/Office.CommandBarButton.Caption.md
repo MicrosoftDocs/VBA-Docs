@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.Caption property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Caption
 ms.assetid: 1147e08a-b9f4-3ea9-3a86-d13394aa1959

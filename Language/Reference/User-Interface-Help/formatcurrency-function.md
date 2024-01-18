@@ -3,7 +3,6 @@ title: FormatCurrency function (Visual Basic for Applications)
 keywords: vblr6.chm1008933
 f1_keywords:
 - vblr6.chm1008933
-ms.prod: office
 ms.assetid: 4e3eb9aa-1796-63f9-d8b3-1bec4c6a9fd7
 ms.date: 12/12/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: LastDLLError property (Visual Basic for Applications)
 keywords: vblr6.chm1020108
 f1_keywords:
 - vblr6.chm1020108
-ms.prod: office
 api_name:
 - Office.LastDLLError
 ms.assetid: ed946e1e-a60a-576f-c6b6-0bec91b3d21d

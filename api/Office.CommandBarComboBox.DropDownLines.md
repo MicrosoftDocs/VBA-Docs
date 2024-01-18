@@ -3,7 +3,6 @@ title: CommandBarComboBox.DropDownLines property (Office)
 keywords: vbaof11.chm8003
 f1_keywords:
 - vbaof11.chm8003
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.DropDownLines
 ms.assetid: 715bbec9-1bd6-c7b0-0d1e-e57d61689d52

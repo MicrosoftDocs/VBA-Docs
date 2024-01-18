@@ -1,6 +1,5 @@
 ---
 title: MsoTextChangeCase enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoTextChangeCase
 ms.assetid: e54a2184-0a51-fb2a-e3ec-b43f6dc05d04

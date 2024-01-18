@@ -3,7 +3,6 @@ title: Additional Controls dialog box (Microsoft Forms)
 keywords: fm20.chm2010030
 f1_keywords:
 - fm20.chm2010030
-ms.prod: office
 ms.assetid: e674802f-88ad-9406-3a06-485d023585d1
 ms.date: 11/15/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: DblClick event, CanPaste property, Paste, Copy methods example
 keywords: fm20.chm5225167
 f1_keywords:
 - fm20.chm5225167
-ms.prod: office
 ms.assetid: 318cfadf-5e97-0a42-5491-0dbbe077efd4
 ms.date: 11/14/2018
 ms.localizationpriority: medium

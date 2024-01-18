@@ -3,7 +3,6 @@ title: Type conversion functions (VBA)
 keywords: vblr6.chm1008820
 f1_keywords:
 - vblr6.chm1008820
-ms.prod: office
 ms.assetid: fd602e34-9de2-1e8b-46fe-6a2873d6a785
 ms.date: 12/21/2018
 ms.localizationpriority: high

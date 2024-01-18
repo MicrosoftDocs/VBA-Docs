@@ -3,7 +3,7 @@ title: AddEx Method, Project - [vbapj.chm132275]
 keywords: vbapj.chm132275
 f1_keywords:
 - vbapj.chm132275
-ms.prod: office
+ms.service: office
 ms.assetid: 1537338f-22f5-4082-873f-dd779b79d905
 ms.date: 06/08/2017
 ms.localizationpriority: medium

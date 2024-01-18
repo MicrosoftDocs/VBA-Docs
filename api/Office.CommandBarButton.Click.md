@@ -3,7 +3,6 @@ title: CommandBarButton.Click event (Office)
 keywords: vbaof11.chm230001
 f1_keywords:
 - vbaof11.chm230001
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Click
 ms.assetid: d4f970e6-8c37-c5cc-a0b4-4efe213a2e05

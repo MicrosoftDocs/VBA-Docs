@@ -3,7 +3,6 @@ title: Round function (Visual Basic for Applications)
 keywords: vblr6.chm1009020
 f1_keywords:
 - vblr6.chm1009020
-ms.prod: office
 ms.assetid: 897563a8-e66a-1ff1-36b2-da44ae56f48c
 ms.date: 12/13/2018
 ms.localizationpriority: medium

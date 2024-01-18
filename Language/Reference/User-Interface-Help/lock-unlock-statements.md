@@ -3,7 +3,6 @@ title: Lock, Unlock statements (VBA)
 keywords: vblr6.chm1008796
 f1_keywords:
 - vblr6.chm1008796
-ms.prod: office
 ms.assetid: 83bef5d8-55f9-10cf-5092-66b21529aa43
 ms.date: 12/03/2018
 ms.localizationpriority: medium

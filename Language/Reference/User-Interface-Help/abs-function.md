@@ -3,7 +3,6 @@ title: Abs function (Visual Basic for Applications)
 keywords: vblr6.chm1008850
 f1_keywords:
 - vblr6.chm1008850
-ms.prod: office
 ms.assetid: b2184f54-bf2b-a3da-f1c8-b38575a213eb
 ms.date: 12/11/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: CurX property
 keywords: fm20.chm2001040
 f1_keywords:
 - fm20.chm2001040
-ms.prod: office
 api_name:
 - Office.CurX
 ms.assetid: cbb6c8e9-13f2-61e7-9577-ceeef71ca2be

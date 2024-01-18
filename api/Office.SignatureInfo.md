@@ -3,7 +3,6 @@ title: SignatureInfo object (Office)
 keywords: vbaof11.chm286000
 f1_keywords:
 - vbaof11.chm286000
-ms.prod: office
 api_name:
 - Office.SignatureInfo
 ms.assetid: fe0ffe7d-7cc7-0d82-6888-d5eacca0d3ce

@@ -3,7 +3,6 @@ title: Cycle property
 keywords: fm20.chm5225029
 f1_keywords:
 - fm20.chm5225029
-ms.prod: office
 api_name:
 - Office.Cycle
 ms.assetid: 8521df23-57d6-bcec-6d4e-ff77991b26f4

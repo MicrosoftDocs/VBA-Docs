@@ -3,7 +3,6 @@ title: Width statement (VBA)
 keywords: vblr6.chm1009060
 f1_keywords:
 - vblr6.chm1009060
-ms.prod: office
 ms.assetid: 655e73fc-c294-5f82-4c1a-59c2ebd71036
 ms.date: 12/03/2018
 ms.localizationpriority: medium

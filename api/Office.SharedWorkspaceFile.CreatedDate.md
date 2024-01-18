@@ -3,7 +3,6 @@ title: SharedWorkspaceFile.CreatedDate property (Office)
 keywords: vbaof11.chm266003
 f1_keywords:
 - vbaof11.chm266003
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.CreatedDate
 ms.assetid: c3a45dbd-c6b2-3046-2388-ed23ca7e36f0

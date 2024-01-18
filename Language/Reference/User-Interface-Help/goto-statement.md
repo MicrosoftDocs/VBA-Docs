@@ -3,7 +3,6 @@ title: GoTo statement (VBA)
 keywords: vblr6.chm1008935
 f1_keywords:
 - vblr6.chm1008935
-ms.prod: office
 ms.assetid: 0fa45435-77cf-91f5-ade4-86ac0eb1a083
 ms.date: 12/03/2018
 ms.localizationpriority: medium

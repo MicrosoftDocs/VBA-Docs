@@ -3,7 +3,6 @@ title: Tips on selecting multiple controls
 keywords: fm20.chm5225273
 f1_keywords:
 - fm20.chm5225273
-ms.prod: office
 ms.assetid: c7cc339e-cbac-a84a-c6b9-5ad119b622b0
 ms.date: 12/29/2018
 ms.localizationpriority: medium

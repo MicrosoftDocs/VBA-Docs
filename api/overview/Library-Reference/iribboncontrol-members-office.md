@@ -1,6 +1,6 @@
 ---
 title: IRibbonControl members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 396d85dc-ddd5-8985-0830-22ee5b1579dc
 ms.date: 01/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Cos function (Visual Basic for Applications)
 keywords: vblr6.chm1008879
 f1_keywords:
 - vblr6.chm1008879
-ms.prod: office
 ms.assetid: a08a4706-223b-3d94-838a-4ac92b04744a
 ms.date: 12/11/2018
 ms.localizationpriority: medium

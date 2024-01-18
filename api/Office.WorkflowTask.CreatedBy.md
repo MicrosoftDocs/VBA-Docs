@@ -3,7 +3,6 @@ title: WorkflowTask.CreatedBy property (Office)
 keywords: vbaof11.chm280007
 f1_keywords:
 - vbaof11.chm280007
-ms.prod: office
 api_name:
 - Office.WorkflowTask.CreatedBy
 ms.assetid: 4821bd82-586c-2216-3f31-75fe6e0e7a2d

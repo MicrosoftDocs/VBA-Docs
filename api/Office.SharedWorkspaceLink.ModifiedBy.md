@@ -3,7 +3,6 @@ title: SharedWorkspaceLink.ModifiedBy property (Office)
 keywords: vbaof11.chm270006
 f1_keywords:
 - vbaof11.chm270006
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.ModifiedBy
 ms.assetid: 3070460c-c3af-ff17-19b7-25a3c6339628

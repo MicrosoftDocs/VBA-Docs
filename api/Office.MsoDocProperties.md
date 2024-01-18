@@ -1,6 +1,5 @@
 ---
 title: MsoDocProperties enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoDocProperties
 ms.assetid: cc172952-2b56-1a8e-f3ad-2a4974425ae9

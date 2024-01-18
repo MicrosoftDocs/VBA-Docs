@@ -3,7 +3,6 @@ title: Day function (Visual Basic for Applications)
 keywords: vblr6.chm1008890
 f1_keywords:
 - vblr6.chm1008890
-ms.prod: office
 ms.assetid: 8d4d0b63-28d9-c6a3-bd96-3688b0f93a12
 ms.date: 12/12/2018
 ms.localizationpriority: medium

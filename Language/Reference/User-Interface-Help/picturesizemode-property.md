@@ -3,7 +3,6 @@ title: PictureSizeMode property
 keywords: fm20.chm2001730
 f1_keywords:
 - fm20.chm2001730
-ms.prod: office
 api_name:
 - Office.PictureSizeMode
 ms.assetid: bb186d64-4e21-4ab5-3949-430c737e733d

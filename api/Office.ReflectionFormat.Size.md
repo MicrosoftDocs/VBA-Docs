@@ -1,6 +1,5 @@
 ---
 title: ReflectionFormat.Size property (Office)
-ms.prod: office
 api_name:
 - Office.ReflectionFormat.Size
 ms.assetid: 6e4080f3-55e2-5c44-244a-ecce277477aa

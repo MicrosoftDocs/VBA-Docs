@@ -3,7 +3,6 @@ title: CallByName function (Visual Basic for Applications)
 keywords: vblr6.chm1020905
 f1_keywords:
 - vblr6.chm1020905
-ms.prod: office
 ms.assetid: e76dece5-244f-9514-4ccf-d993d6476061
 ms.date: 12/11/2018
 ms.localizationpriority: medium

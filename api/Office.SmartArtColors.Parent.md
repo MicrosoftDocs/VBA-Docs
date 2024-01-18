@@ -1,6 +1,5 @@
 ---
 title: SmartArtColors.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtColors.Parent
 ms.assetid: 2c8dba8c-bee4-c394-77cb-15c3faf0dad7

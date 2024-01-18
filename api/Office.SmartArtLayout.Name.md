@@ -1,6 +1,5 @@
 ---
 title: SmartArtLayout.Name property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtLayout.Name
 ms.assetid: 66246cd6-7c1d-8777-7505-bec29d2678b7

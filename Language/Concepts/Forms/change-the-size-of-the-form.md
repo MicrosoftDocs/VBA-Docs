@@ -3,7 +3,6 @@ title: Change the size of the form
 keywords: fm20.chm5225233
 f1_keywords:
 - fm20.chm5225233
-ms.prod: office
 ms.assetid: 946a4ec2-88e2-8eb1-eaf8-7979532d969f
 ms.date: 12/29/2018
 ms.localizationpriority: medium

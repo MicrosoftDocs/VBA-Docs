@@ -3,7 +3,6 @@ title: Second function (Visual Basic for Applications)
 keywords: vblr6.chm1009011
 f1_keywords:
 - vblr6.chm1009011
-ms.prod: office
 ms.assetid: fef87486-ccda-23e7-04a5-5e484ce66543
 ms.date: 12/13/2018
 ms.localizationpriority: medium

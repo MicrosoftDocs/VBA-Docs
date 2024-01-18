@@ -3,7 +3,7 @@ title: LineSpacing Property, Access [vbaac10.chm4553]
 keywords: vbaac10.chm4553
 f1_keywords:
 - vbaac10.chm4553
-ms.prod: office
+ms.service: office
 ms.assetid: ba3b689d-a942-4070-8b40-017ef48dc606
 ms.date: 06/08/2017
 ms.localizationpriority: medium

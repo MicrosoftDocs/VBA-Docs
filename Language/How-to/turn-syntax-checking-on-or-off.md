@@ -3,7 +3,6 @@ title: Turn syntax checking on or off (VBA)
 keywords: vbhw6.chm1009064
 f1_keywords:
 - vbhw6.chm1009064
-ms.prod: office
 ms.assetid: 1b3719f4-3725-f6b0-b3af-8066515d8ee1
 ms.date: 12/27/2018
 ms.localizationpriority: medium

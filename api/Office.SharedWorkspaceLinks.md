@@ -3,7 +3,6 @@ title: SharedWorkspaceLinks object (Office)
 keywords: vbaof11.chm271000
 f1_keywords:
 - vbaof11.chm271000
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks
 ms.assetid: b226b376-9d8c-659a-9551-6341bbebed6f

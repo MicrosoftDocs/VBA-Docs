@@ -3,7 +3,7 @@ title: OnGotFocus property, Access - [vbaac10.chm4090]
 keywords: vbaac10.chm4090
 f1_keywords:
 - vbaac10.chm4090
-ms.prod: office
+ms.service: office
 ms.assetid: e2418c43-5f8c-4df0-aded-a304b7d79267
 ms.date: 12/06/2018
 ms.localizationpriority: medium
