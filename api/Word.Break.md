@@ -3,7 +3,6 @@ title: Break object (Word)
 keywords: vbawd10.chm3057
 f1_keywords:
 - vbawd10.chm3057
-ms.prod: word
 api_name:
 - Word.Break
 ms.assetid: 771ba998-c22e-3cf0-fab7-af9329793855

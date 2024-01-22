@@ -3,7 +3,6 @@ title: OMathMatCol.Creator property (Word)
 keywords: vbawd10.chm24445029
 f1_keywords:
 - vbawd10.chm24445029
-ms.prod: word
 api_name:
 - Word.OMathMatCol.Creator
 ms.assetid: 5020407a-ce61-3055-287a-c0adefd3fcd5

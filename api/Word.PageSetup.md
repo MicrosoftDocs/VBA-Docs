@@ -3,7 +3,6 @@ title: PageSetup object (Word)
 keywords: vbawd10.chm2417
 f1_keywords:
 - vbawd10.chm2417
-ms.prod: word
 api_name:
 - Word.PageSetup
 ms.assetid: 1879d601-80ad-4fc0-1a87-92e999b59f88

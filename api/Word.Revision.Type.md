@@ -3,7 +3,6 @@ title: Revision.Type property (Word)
 keywords: vbawd10.chm159449092
 f1_keywords:
 - vbawd10.chm159449092
-ms.prod: word
 api_name:
 - Word.Revision.Type
 ms.assetid: 290549a0-5ace-7222-1e7c-5469129c8350

@@ -3,7 +3,6 @@ title: Borders.SurroundHeader property (Word)
 keywords: vbawd10.chm154927128
 f1_keywords:
 - vbawd10.chm154927128
-ms.prod: word
 api_name:
 - Word.Borders.SurroundHeader
 ms.assetid: bada52f5-7f73-8565-bd7b-33311a1aa942

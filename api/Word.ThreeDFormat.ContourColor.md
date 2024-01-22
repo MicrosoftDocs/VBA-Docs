@@ -3,7 +3,6 @@ title: ThreeDFormat.ContourColor property (Word)
 keywords: vbawd10.chm164626555
 f1_keywords:
 - vbawd10.chm164626555
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.ContourColor
 ms.assetid: c0da510a-59c6-ed11-904d-76fb8ffbfa58

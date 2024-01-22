@@ -3,7 +3,6 @@ title: XMLNamespace.Location property (Word)
 keywords: vbawd10.chm2293763
 f1_keywords:
 - vbawd10.chm2293763
-ms.prod: word
 api_name:
 - Word.XMLNamespace.Location
 ms.assetid: 2cd2394c-e7cf-f995-3261-62da3afaab08

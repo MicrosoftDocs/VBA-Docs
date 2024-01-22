@@ -3,7 +3,6 @@ title: CanvasShapes.Application property (Word)
 keywords: vbawd10.chm7544640
 f1_keywords:
 - vbawd10.chm7544640
-ms.prod: word
 api_name:
 - Word.CanvasShapes.Application
 ms.assetid: d6f73adf-3502-3e1e-1e4e-39a6a810a1a3

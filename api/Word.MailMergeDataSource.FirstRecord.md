@@ -3,7 +3,6 @@ title: MailMergeDataSource.FirstRecord property (Word)
 keywords: vbawd10.chm152895496
 f1_keywords:
 - vbawd10.chm152895496
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.FirstRecord
 ms.assetid: c94e1581-a6eb-84e0-6acc-f8ca6ae7575b

@@ -3,7 +3,6 @@ title: HTMLDivision.Creator property (Word)
 keywords: vbawd10.chm166134761
 f1_keywords:
 - vbawd10.chm166134761
-ms.prod: word
 api_name:
 - Word.HTMLDivision.Creator
 ms.assetid: e14fd8f7-bbb5-ad82-5ab9-a067f22006af

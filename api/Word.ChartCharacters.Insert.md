@@ -3,7 +3,6 @@ title: ChartCharacters.Insert method (Word)
 keywords: vbawd10.chm250740988
 f1_keywords:
 - vbawd10.chm250740988
-ms.prod: word
 api_name:
 - Word.ChartCharacters.Insert
 ms.assetid: e214b266-2d5b-c501-9c7b-00c9a557f693

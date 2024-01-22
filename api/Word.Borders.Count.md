@@ -3,7 +3,6 @@ title: Borders.Count property (Word)
 keywords: vbawd10.chm154927105
 f1_keywords:
 - vbawd10.chm154927105
-ms.prod: word
 api_name:
 - Word.Borders.Count
 ms.assetid: 83a26cef-75ec-d762-de63-14ad6cce08a6

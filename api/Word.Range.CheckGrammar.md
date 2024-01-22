@@ -3,7 +3,6 @@ title: Range.CheckGrammar method (Word)
 keywords: vbawd10.chm157155532
 f1_keywords:
 - vbawd10.chm157155532
-ms.prod: word
 api_name:
 - Word.Range.CheckGrammar
 ms.assetid: 3ae0e80f-0165-be96-af12-b231d1f3a1b4

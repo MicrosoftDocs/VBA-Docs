@@ -3,7 +3,6 @@ title: Chart.Paste method (Word)
 keywords: vbawd10.chm79364167
 f1_keywords:
 - vbawd10.chm79364167
-ms.prod: word
 api_name:
 - Word.Chart.Paste
 ms.assetid: e159d28e-c2ff-9105-3b52-278fe55b078c

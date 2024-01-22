@@ -3,7 +3,6 @@ title: Chart.CopyPicture method (Word)
 keywords: vbawd10.chm79364163
 f1_keywords:
 - vbawd10.chm79364163
-ms.prod: word
 api_name:
 - Word.Chart.CopyPicture
 ms.assetid: 90f41c1a-8a96-0959-6c9a-b10f7f4744b0

@@ -3,7 +3,6 @@ title: Series.Name property (Word)
 keywords: vbawd10.chm123732078
 f1_keywords:
 - vbawd10.chm123732078
-ms.prod: word
 api_name:
 - Word.Series.Name
 ms.assetid: 5d6b50f5-55c7-42e3-8c40-0dfb844c8502

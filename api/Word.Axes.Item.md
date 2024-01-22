@@ -1,6 +1,5 @@
 ---
 title: Axes.Item method (Word)
-ms.prod: word
 api_name:
 - Word.Axes.Item
 ms.assetid: 143898d3-cbc8-ebfc-4e25-caceeb91a8bf

@@ -3,7 +3,6 @@ title: Selection.HomeKey method (Word)
 keywords: vbawd10.chm158663160
 f1_keywords:
 - vbawd10.chm158663160
-ms.prod: word
 api_name:
 - Word.Selection.HomeKey
 ms.assetid: 24264193-d610-acbc-b393-de41fd55e976

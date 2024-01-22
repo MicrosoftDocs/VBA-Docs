@@ -3,7 +3,6 @@ title: View.RevisionsBalloonSide property (Word)
 keywords: vbawd10.chm161808426
 f1_keywords:
 - vbawd10.chm161808426
-ms.prod: word
 api_name:
 - Word.View.RevisionsBalloonSide
 ms.assetid: 629d67a3-49c3-82f0-01af-c93913f9e268

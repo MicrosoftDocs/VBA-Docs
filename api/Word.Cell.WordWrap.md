@@ -3,7 +3,6 @@ title: Cell.WordWrap property (Word)
 keywords: vbawd10.chm156106860
 f1_keywords:
 - vbawd10.chm156106860
-ms.prod: word
 api_name:
 - Word.Cell.WordWrap
 ms.assetid: 16255023-d6c3-3c27-402f-490970b7af33

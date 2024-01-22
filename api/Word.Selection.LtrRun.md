@@ -3,7 +3,6 @@ title: Selection.LtrRun method (Word)
 keywords: vbawd10.chm158663257
 f1_keywords:
 - vbawd10.chm158663257
-ms.prod: word
 api_name:
 - Word.Selection.LtrRun
 ms.assetid: e2b905f1-3ce1-ce51-bc9f-c5325fa0e9af

@@ -3,7 +3,6 @@ title: MailMerge.MailSubject property (Word)
 keywords: vbawd10.chm153092106
 f1_keywords:
 - vbawd10.chm153092106
-ms.prod: word
 api_name:
 - Word.MailMerge.MailSubject
 ms.assetid: 75303fd3-5d9f-e790-8ade-a7433c451a66

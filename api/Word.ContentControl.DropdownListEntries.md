@@ -3,7 +3,6 @@ title: ContentControl.DropdownListEntries property (Word)
 keywords: vbawd10.chm266534921
 f1_keywords:
 - vbawd10.chm266534921
-ms.prod: word
 api_name:
 - Word.ContentControl.DropdownListEntries
 ms.assetid: 4434c4cc-53f4-758d-5a9e-3a9aa2f74a05

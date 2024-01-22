@@ -3,7 +3,6 @@ title: XMLNamespace.XSLTransforms property (Word)
 keywords: vbawd10.chm2293765
 f1_keywords:
 - vbawd10.chm2293765
-ms.prod: word
 api_name:
 - Word.XMLNamespace.XSLTransforms
 ms.assetid: 854900ad-74cc-ee1f-5e64-c42a2a439698

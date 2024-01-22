@@ -3,7 +3,6 @@ title: OMathMat.Cols property (Word)
 keywords: vbawd10.chm176029800
 f1_keywords:
 - vbawd10.chm176029800
-ms.prod: word
 api_name:
 - Word.OMathMat.Cols
 ms.assetid: 6d12c25e-2477-a62d-cfde-a61ababc4a31

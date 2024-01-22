@@ -3,7 +3,6 @@ title: Application.XMLSelectionChange event (Word)
 keywords: vbawd10.chm4000025
 f1_keywords:
 - vbawd10.chm4000025
-ms.prod: word
 api_name:
 - Word.Application.XMLSelectionChange
 ms.assetid: a25d4e87-9b29-77b4-ddea-7692a0b56a8a

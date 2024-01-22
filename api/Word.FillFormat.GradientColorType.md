@@ -3,7 +3,6 @@ title: FillFormat.GradientColorType property (Word)
 keywords: vbawd10.chm164102246
 f1_keywords:
 - vbawd10.chm164102246
-ms.prod: word
 api_name:
 - Word.FillFormat.GradientColorType
 ms.assetid: 3722c4df-8091-6c66-b379-af8385ed9fc5

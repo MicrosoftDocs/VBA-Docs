@@ -3,7 +3,6 @@ title: Options.AllowDragAndDrop property (Word)
 keywords: vbawd10.chm162988100
 f1_keywords:
 - vbawd10.chm162988100
-ms.prod: word
 api_name:
 - Word.Options.AllowDragAndDrop
 ms.assetid: f3cea42e-5fba-7415-bb7a-f214882cc566

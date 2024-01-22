@@ -3,7 +3,6 @@ title: ListEntry object (Word)
 keywords: vbawd10.chm2339
 f1_keywords:
 - vbawd10.chm2339
-ms.prod: word
 api_name:
 - Word.ListEntry
 ms.assetid: ea9e8276-45d6-8b11-fd86-4944f582bb80

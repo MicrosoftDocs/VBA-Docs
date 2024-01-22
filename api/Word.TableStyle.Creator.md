@@ -3,7 +3,6 @@ title: TableStyle.Creator property (Word)
 keywords: vbawd10.chm244777961
 f1_keywords:
 - vbawd10.chm244777961
-ms.prod: word
 api_name:
 - Word.TableStyle.Creator
 ms.assetid: 995f01de-80dd-6c57-432d-24c04ad7d1f0

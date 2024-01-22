@@ -3,7 +3,6 @@ title: OMathAutoCorrectEntries.Count property (Word)
 keywords: vbawd10.chm247988327
 f1_keywords:
 - vbawd10.chm247988327
-ms.prod: word
 api_name:
 - Word.OMathAutoCorrectEntries.Count
 ms.assetid: 46d6c46e-a53e-f680-451b-4428efb7e0e8

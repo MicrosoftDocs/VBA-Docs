@@ -3,7 +3,6 @@ title: MailMerge.OpenHeaderSource method (Word)
 keywords: vbawd10.chm153092209
 f1_keywords:
 - vbawd10.chm153092209
-ms.prod: word
 api_name:
 - Word.MailMerge.OpenHeaderSource
 ms.assetid: 0cf1102f-716b-4302-6d64-85fba29822ec

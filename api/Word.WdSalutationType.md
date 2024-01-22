@@ -1,6 +1,5 @@
 ---
 title: WdSalutationType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSalutationType
 ms.assetid: 71981c20-d5fd-4c00-1edc-9e8c9ca31961

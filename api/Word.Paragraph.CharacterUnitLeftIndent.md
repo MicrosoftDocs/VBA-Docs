@@ -3,7 +3,6 @@ title: Paragraph.CharacterUnitLeftIndent property (Word)
 keywords: vbawd10.chm156696703
 f1_keywords:
 - vbawd10.chm156696703
-ms.prod: word
 api_name:
 - Word.Paragraph.CharacterUnitLeftIndent
 ms.assetid: 1dbe6053-52fd-f17c-aa95-3cfdef1222d5

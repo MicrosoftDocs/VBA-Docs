@@ -1,6 +1,5 @@
 ---
 title: WdEnableCancelKey enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdEnableCancelKey
 ms.assetid: af7e12a6-f0f6-a977-96cf-51a9fc20f424

@@ -3,7 +3,6 @@ title: XMLSchemaReference.Parent property (Word)
 keywords: vbawd10.chm32506858
 f1_keywords:
 - vbawd10.chm32506858
-ms.prod: word
 api_name:
 - Word.XMLSchemaReference.Parent
 ms.assetid: 894a45d1-8ae6-b086-ba2d-e0d52a658a32

@@ -3,7 +3,6 @@ title: Range.ListFormat property (Word)
 keywords: vbawd10.chm157155396
 f1_keywords:
 - vbawd10.chm157155396
-ms.prod: word
 api_name:
 - Word.Range.ListFormat
 ms.assetid: 509365dc-0b93-96d9-6614-74f2d85bfd45

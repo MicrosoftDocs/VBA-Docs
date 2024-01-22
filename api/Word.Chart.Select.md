@@ -3,7 +3,6 @@ title: Chart.Select method (Word)
 keywords: vbawd10.chm79364331
 f1_keywords:
 - vbawd10.chm79364331
-ms.prod: word
 api_name:
 - Word.Chart.Select
 ms.assetid: 1ad91c5a-26a2-a7ad-faa6-c824245482bb

@@ -3,7 +3,6 @@ title: Dialog.DefaultTab property (Word)
 keywords: vbawd10.chm163085570
 f1_keywords:
 - vbawd10.chm163085570
-ms.prod: word
 api_name:
 - Word.Dialog.DefaultTab
 ms.assetid: 22de708e-fb23-b27a-00f0-dc43787c7eaf

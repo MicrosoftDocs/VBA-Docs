@@ -3,7 +3,6 @@ title: Document.FormattingShowNumbering property (Word)
 keywords: vbawd10.chm158007747
 f1_keywords:
 - vbawd10.chm158007747
-ms.prod: word
 api_name:
 - Word.Document.FormattingShowNumbering
 ms.assetid: 2f0d8c8c-64a0-7939-e4be-99ed58ed696f

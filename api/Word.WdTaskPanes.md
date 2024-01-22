@@ -1,6 +1,5 @@
 ---
 title: WdTaskPanes enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTaskPanes
 ms.assetid: 7b187018-8ccc-99ff-cc35-ba51ec83dcca

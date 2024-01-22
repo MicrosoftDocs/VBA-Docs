@@ -1,6 +1,5 @@
 ---
 title: WdAlignmentTabRelative enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdAlignmentTabRelative
 ms.assetid: e426fe51-532c-7322-e1c0-8950833a3095

@@ -3,7 +3,6 @@ title: SeriesCollection.Add method (Word)
 keywords: vbawd10.chm150405301
 f1_keywords:
 - vbawd10.chm150405301
-ms.prod: word
 api_name:
 - Word.SeriesCollection.Add
 ms.assetid: 26778898-aa61-54f9-4db2-d38ab1399405

@@ -3,7 +3,6 @@ title: View.Panning property (Word)
 keywords: vbawd10.chm161808439
 f1_keywords:
 - vbawd10.chm161808439
-ms.prod: word
 api_name:
 - Word.View.Panning
 ms.assetid: 04625c86-146a-ece3-369a-bbe81af45aec

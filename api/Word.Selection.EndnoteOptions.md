@@ -3,7 +3,6 @@ title: Selection.EndnoteOptions property (Word)
 keywords: vbawd10.chm158663681
 f1_keywords:
 - vbawd10.chm158663681
-ms.prod: word
 api_name:
 - Word.Selection.EndnoteOptions
 ms.assetid: 23b7263c-7322-3221-6436-ee0c614fa577

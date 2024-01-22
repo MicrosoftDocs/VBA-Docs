@@ -3,7 +3,6 @@ title: Options.PasteAdjustTableFormatting property (Word)
 keywords: vbawd10.chm162988463
 f1_keywords:
 - vbawd10.chm162988463
-ms.prod: word
 api_name:
 - Word.Options.PasteAdjustTableFormatting
 ms.assetid: 8c486ea0-d653-b82a-8507-c192d4d11ecb

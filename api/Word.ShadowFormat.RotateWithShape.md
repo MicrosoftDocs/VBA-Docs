@@ -3,7 +3,6 @@ title: ShadowFormat.RotateWithShape property (Word)
 keywords: vbawd10.chm164364398
 f1_keywords:
 - vbawd10.chm164364398
-ms.prod: word
 api_name:
 - Word.ShadowFormat.RotateWithShape
 ms.assetid: fdf74278-d7ea-0e02-8069-ea51ed89c2bd

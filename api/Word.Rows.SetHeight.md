@@ -3,7 +3,6 @@ title: Rows.SetHeight method (Word)
 keywords: vbawd10.chm155975883
 f1_keywords:
 - vbawd10.chm155975883
-ms.prod: word
 api_name:
 - Word.Rows.SetHeight
 ms.assetid: 6c6dc63d-c17c-ad39-4d7a-bb5b608e776e

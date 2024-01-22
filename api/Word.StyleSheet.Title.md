@@ -3,7 +3,6 @@ title: StyleSheet.Title property (Word)
 keywords: vbawd10.chm166658054
 f1_keywords:
 - vbawd10.chm166658054
-ms.prod: word
 api_name:
 - Word.StyleSheet.Title
 ms.assetid: 050e5915-2e92-7023-fb64-e122bfc4dd38

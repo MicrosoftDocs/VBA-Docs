@@ -3,7 +3,6 @@ title: SpellingSuggestions.Item method (Word)
 keywords: vbawd10.chm162136064
 f1_keywords:
 - vbawd10.chm162136064
-ms.prod: word
 api_name:
 - Word.SpellingSuggestions.Item
 ms.assetid: dca0042b-21d6-04d9-0247-cb9ab3c62857

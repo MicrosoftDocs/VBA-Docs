@@ -3,7 +3,6 @@ title: Series.BubbleSizes property (Word)
 keywords: vbawd10.chm123733632
 f1_keywords:
 - vbawd10.chm123733632
-ms.prod: word
 api_name:
 - Word.Series.BubbleSizes
 ms.assetid: 4972506e-9a19-417d-0ef3-a259b68a7ed1

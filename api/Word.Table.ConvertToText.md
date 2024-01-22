@@ -3,7 +3,6 @@ title: Table.ConvertToText method (Word)
 keywords: vbawd10.chm156303379
 f1_keywords:
 - vbawd10.chm156303379
-ms.prod: word
 api_name:
 - Word.Table.ConvertToText
 ms.assetid: 750db54e-faca-f1eb-8eb8-3a5c0dbb2c25

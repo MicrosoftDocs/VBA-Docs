@@ -3,7 +3,6 @@ title: XMLSchemaReferences.IgnoreMixedContent property (Word)
 keywords: vbawd10.chm116129798
 f1_keywords:
 - vbawd10.chm116129798
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.IgnoreMixedContent
 ms.assetid: 51515e72-a33c-b6c4-ee48-8252631dd438

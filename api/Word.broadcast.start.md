@@ -3,7 +3,6 @@ title: Broadcast.Start method (Word)
 keywords: vbawd10.chm36438117
 f1_keywords:
 - vbawd10.chm36438117
-ms.prod: word
 ms.assetid: 0a49bf9f-4975-3309-0c23-c758b1aab566
 ms.date: 06/08/2017
 ms.localizationpriority: medium

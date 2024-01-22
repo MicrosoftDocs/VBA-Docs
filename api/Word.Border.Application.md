@@ -3,7 +3,6 @@ title: Border.Application property (Word)
 keywords: vbawd10.chm154862568
 f1_keywords:
 - vbawd10.chm154862568
-ms.prod: word
 api_name:
 - Word.Border.Application
 ms.assetid: da43fc31-3558-09e5-5c52-a227ffcc7534

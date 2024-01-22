@@ -3,7 +3,6 @@ title: Document.ViewCode method (Word)
 keywords: vbawd10.chm158007445
 f1_keywords:
 - vbawd10.chm158007445
-ms.prod: word
 api_name:
 - Word.Document.ViewCode
 ms.assetid: c368fce6-2fce-b2ac-6450-72dcddeec4cd

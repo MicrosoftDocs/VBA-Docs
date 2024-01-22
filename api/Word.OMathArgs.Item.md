@@ -1,6 +1,5 @@
 ---
 title: OMathArgs.Item method (Word)
-ms.prod: word
 api_name:
 - Word.OMathArgs.Item
 ms.assetid: e43a083e-40c1-415d-a14e-4d1c6785a58e

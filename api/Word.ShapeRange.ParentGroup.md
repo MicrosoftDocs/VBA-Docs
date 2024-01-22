@@ -3,7 +3,6 @@ title: ShapeRange.ParentGroup property (Word)
 keywords: vbawd10.chm162857097
 f1_keywords:
 - vbawd10.chm162857097
-ms.prod: word
 api_name:
 - Word.ShapeRange.ParentGroup
 ms.assetid: 4d71e36e-0821-d2a4-754f-baee2562bcc2

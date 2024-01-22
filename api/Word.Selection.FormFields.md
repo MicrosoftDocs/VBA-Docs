@@ -3,7 +3,6 @@ title: Selection.FormFields property (Word)
 keywords: vbawd10.chm158662721
 f1_keywords:
 - vbawd10.chm158662721
-ms.prod: word
 api_name:
 - Word.Selection.FormFields
 ms.assetid: d6d5259b-9971-929f-16f7-ca2b2d585c77

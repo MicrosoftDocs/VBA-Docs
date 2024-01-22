@@ -3,7 +3,6 @@ title: Options.SavePropertiesPrompt property (Word)
 keywords: vbawd10.chm162988075
 f1_keywords:
 - vbawd10.chm162988075
-ms.prod: word
 api_name:
 - Word.Options.SavePropertiesPrompt
 ms.assetid: da2bbc7d-920d-2442-25d3-c6ee11316097

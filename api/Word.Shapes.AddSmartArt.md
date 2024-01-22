@@ -3,7 +3,6 @@ title: Shapes.AddSmartArt method (Word)
 keywords: vbawd10.chm161415196
 f1_keywords:
 - vbawd10.chm161415196
-ms.prod: word
 api_name:
 - Word.Shapes.AddSmartArt
 ms.assetid: 45fabbc8-eb61-2f5f-4f69-560fe1ad188a

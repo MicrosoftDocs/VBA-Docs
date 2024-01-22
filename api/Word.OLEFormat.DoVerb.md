@@ -3,7 +3,6 @@ title: OLEFormat.DoVerb method (Word)
 keywords: vbawd10.chm154337389
 f1_keywords:
 - vbawd10.chm154337389
-ms.prod: word
 api_name:
 - Word.OLEFormat.DoVerb
 ms.assetid: 9ef89849-e072-24a0-3d43-fa743154b1a2

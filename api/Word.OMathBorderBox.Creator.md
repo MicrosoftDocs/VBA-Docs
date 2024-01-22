@@ -3,7 +3,6 @@ title: OMathBorderBox.Creator property (Word)
 keywords: vbawd10.chm116260965
 f1_keywords:
 - vbawd10.chm116260965
-ms.prod: word
 api_name:
 - Word.OMathBorderBox.Creator
 ms.assetid: 816122c9-fa58-b3a4-ff25-74e0ad6b7015

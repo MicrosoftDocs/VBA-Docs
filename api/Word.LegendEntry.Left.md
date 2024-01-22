@@ -3,7 +3,6 @@ title: LegendEntry.Left property (Word)
 keywords: vbawd10.chm4784255
 f1_keywords:
 - vbawd10.chm4784255
-ms.prod: word
 api_name:
 - Word.LegendEntry.Left
 ms.assetid: 70a919d9-7885-d9a1-f2e0-37bd3226f77b

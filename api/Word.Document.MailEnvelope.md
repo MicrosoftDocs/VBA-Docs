@@ -3,7 +3,6 @@ title: Document.MailEnvelope property (Word)
 keywords: vbawd10.chm158007632
 f1_keywords:
 - vbawd10.chm158007632
-ms.prod: word
 api_name:
 - Word.Document.MailEnvelope
 ms.assetid: f37a52f5-ebfe-a9b9-056e-50f6adf4c1b4

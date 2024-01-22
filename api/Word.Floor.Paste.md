@@ -3,7 +3,6 @@ title: Floor.Paste method (Word)
 keywords: vbawd10.chm46006483
 f1_keywords:
 - vbawd10.chm46006483
-ms.prod: word
 api_name:
 - Word.Floor.Paste
 ms.assetid: e6fff5fb-8b89-62c6-7a89-01c8f1eeebb1

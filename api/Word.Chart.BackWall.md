@@ -3,7 +3,6 @@ title: Chart.BackWall property (Word)
 keywords: vbawd10.chm79366474
 f1_keywords:
 - vbawd10.chm79366474
-ms.prod: word
 api_name:
 - Word.Chart.BackWall
 ms.assetid: 39ed0473-7d45-0584-48f1-307f9a481789

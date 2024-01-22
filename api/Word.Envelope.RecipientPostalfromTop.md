@@ -3,7 +3,6 @@ title: Envelope.RecipientPostalfromTop property (Word)
 keywords: vbawd10.chm152567834
 f1_keywords:
 - vbawd10.chm152567834
-ms.prod: word
 api_name:
 - Word.Envelope.RecipientPostalfromTop
 ms.assetid: bb0bbfee-6e17-61c0-a4ee-957022e4e63b

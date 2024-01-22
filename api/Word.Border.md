@@ -3,7 +3,6 @@ title: Border object (Word)
 keywords: vbawd10.chm2363
 f1_keywords:
 - vbawd10.chm2363
-ms.prod: word
 api_name:
 - Word.Border
 ms.assetid: be48c020-b86c-c004-ce1c-76d9edae9791

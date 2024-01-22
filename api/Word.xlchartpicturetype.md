@@ -1,6 +1,5 @@
 ---
 title: XlChartPictureType enumeration (Word)
-ms.prod: word
 ms.assetid: d28ab916-34dc-344e-503f-53102f2fd8c2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

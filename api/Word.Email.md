@@ -3,7 +3,6 @@ title: Email object (Word)
 keywords: vbawd10.chm2525
 f1_keywords:
 - vbawd10.chm2525
-ms.prod: word
 api_name:
 - Word.Email
 ms.assetid: ee23a74e-556b-04d8-f0b9-fb95f7aa8cfc

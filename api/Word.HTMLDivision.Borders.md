@@ -3,7 +3,6 @@ title: HTMLDivision.Borders property (Word)
 keywords: vbawd10.chm166134860
 f1_keywords:
 - vbawd10.chm166134860
-ms.prod: word
 api_name:
 - Word.HTMLDivision.Borders
 ms.assetid: 41994b07-d394-8f61-a3cf-d1f5a17c5998

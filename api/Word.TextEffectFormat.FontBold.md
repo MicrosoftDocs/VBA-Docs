@@ -3,7 +3,6 @@ title: TextEffectFormat.FontBold property (Word)
 keywords: vbawd10.chm164560997
 f1_keywords:
 - vbawd10.chm164560997
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.FontBold
 ms.assetid: 7432680f-5dbd-ae1c-3d49-ee99cd9f93bb

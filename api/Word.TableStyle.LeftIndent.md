@@ -3,7 +3,6 @@ title: TableStyle.LeftIndent property (Word)
 keywords: vbawd10.chm244776974
 f1_keywords:
 - vbawd10.chm244776974
-ms.prod: word
 api_name:
 - Word.TableStyle.LeftIndent
 ms.assetid: 5dc6a39f-ed73-8492-7ef5-b02f0290ddbc

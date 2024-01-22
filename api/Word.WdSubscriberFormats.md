@@ -1,6 +1,5 @@
 ---
 title: WdSubscriberFormats enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSubscriberFormats
 ms.assetid: 904444b4-2cd9-5df2-3cbb-b32f96861031

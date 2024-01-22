@@ -3,7 +3,6 @@ title: Fields.Application property (Word)
 keywords: vbawd10.chm154141672
 f1_keywords:
 - vbawd10.chm154141672
-ms.prod: word
 api_name:
 - Word.Fields.Application
 ms.assetid: 4dfe7d48-549f-db79-f61b-41085e6418ff

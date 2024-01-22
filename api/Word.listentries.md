@@ -1,6 +1,5 @@
 ---
 title: ListEntries object (Word)
-ms.prod: word
 ms.assetid: cfd3c706-5b69-338f-b104-e12526b89f47
 ms.date: 06/08/2017
 ms.localizationpriority: medium

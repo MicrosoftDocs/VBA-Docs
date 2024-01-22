@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Top property (Word)
 keywords: vbawd10.chm94568462
 f1_keywords:
 - vbawd10.chm94568462
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Top
 ms.assetid: a7e91d8c-6c0a-8934-0b9a-4b035ac64ba6

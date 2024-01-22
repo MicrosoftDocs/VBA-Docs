@@ -3,7 +3,6 @@ title: Dialog.CommandName property (Word)
 keywords: vbawd10.chm163085574
 f1_keywords:
 - vbawd10.chm163085574
-ms.prod: word
 api_name:
 - Word.Dialog.CommandName
 ms.assetid: 5bd7a993-b40e-57ca-65c7-260efcea488b

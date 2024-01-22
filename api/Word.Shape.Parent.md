@@ -3,7 +3,6 @@ title: Shape.Parent property (Word)
 keywords: vbawd10.chm161480705
 f1_keywords:
 - vbawd10.chm161480705
-ms.prod: word
 api_name:
 - Word.Shape.Parent
 ms.assetid: 9e0a1cf1-503e-5fa9-4c34-7e69d0b573ad

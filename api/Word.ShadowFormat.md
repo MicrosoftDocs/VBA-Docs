@@ -3,7 +3,6 @@ title: ShadowFormat object (Word)
 keywords: vbawd10.chm2508
 f1_keywords:
 - vbawd10.chm2508
-ms.prod: word
 api_name:
 - Word.ShadowFormat
 ms.assetid: 2a179f0b-ec18-c3dd-dd73-51b18f42e0e2

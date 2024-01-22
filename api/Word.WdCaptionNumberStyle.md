@@ -1,6 +1,5 @@
 ---
 title: WdCaptionNumberStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdCaptionNumberStyle
 ms.assetid: da18fb6a-e8fb-a215-5cbf-de5e46c4d1d5

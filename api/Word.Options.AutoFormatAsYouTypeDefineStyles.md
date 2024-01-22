@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeDefineStyles property (Word)
 keywords: vbawd10.chm162988302
 f1_keywords:
 - vbawd10.chm162988302
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeDefineStyles
 ms.assetid: 16657544-0185-204f-1cee-b959c91956d5

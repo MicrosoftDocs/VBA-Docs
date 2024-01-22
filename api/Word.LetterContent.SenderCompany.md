@@ -3,7 +3,6 @@ title: LetterContent.SenderCompany property (Word)
 keywords: vbawd10.chm161546362
 f1_keywords:
 - vbawd10.chm161546362
-ms.prod: word
 api_name:
 - Word.LetterContent.SenderCompany
 ms.assetid: 7f4abf0c-baf8-bb63-6e9e-58360a3b019b

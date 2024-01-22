@@ -1,6 +1,5 @@
 ---
 title: WdColor enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdColor
 ms.assetid: 582472b5-eac1-6880-7c6b-7c7637eaa31f

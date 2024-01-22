@@ -3,7 +3,6 @@ title: Model3DFormat.RotationZ property (Word)
 keywords: vbawd10.chm151584871
 f1_keywords:
 - vbawd10.chm151584871
-ms.prod: word
 api_name:
 - Word.Model3DFormat.RotationZ
 ms.date: 04/11/2019

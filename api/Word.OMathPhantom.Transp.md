@@ -3,7 +3,6 @@ title: OMathPhantom.Transp property (Word)
 keywords: vbawd10.chm88146028
 f1_keywords:
 - vbawd10.chm88146028
-ms.prod: word
 api_name:
 - Word.OMathPhantom.Transp
 ms.assetid: 441cab93-4042-240a-3827-8461a1b32e4d

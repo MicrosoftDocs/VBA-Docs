@@ -3,7 +3,6 @@ title: Tasks.Item method (Word)
 keywords: vbawd10.chm159580160
 f1_keywords:
 - vbawd10.chm159580160
-ms.prod: word
 api_name:
 - Word.Tasks.Item
 ms.assetid: affedba2-7776-3a8c-a3d8-100e0fbf89be

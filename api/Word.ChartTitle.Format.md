@@ -3,7 +3,6 @@ title: ChartTitle.Format property (Word)
 keywords: vbawd10.chm65273889
 f1_keywords:
 - vbawd10.chm65273889
-ms.prod: word
 api_name:
 - Word.ChartTitle.Format
 ms.assetid: 6b3496b3-20df-bd91-05e6-af34c7bff0b0

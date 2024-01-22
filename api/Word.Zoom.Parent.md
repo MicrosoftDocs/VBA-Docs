@@ -3,7 +3,6 @@ title: Zoom.Parent property (Word)
 keywords: vbawd10.chm161874922
 f1_keywords:
 - vbawd10.chm161874922
-ms.prod: word
 api_name:
 - Word.Zoom.Parent
 ms.assetid: 5a9d6429-ee91-2abd-125b-64c9019641e4

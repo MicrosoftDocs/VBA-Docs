@@ -1,6 +1,5 @@
 ---
 title: WdSpanishSpeller enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSpanishSpeller
 ms.assetid: ffef6e3a-f983-e0a5-ec5a-937a2b313102

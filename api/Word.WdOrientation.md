@@ -1,6 +1,5 @@
 ---
 title: WdOrientation enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOrientation
 ms.assetid: c463b164-1b3a-a784-7725-089050b0f0ec

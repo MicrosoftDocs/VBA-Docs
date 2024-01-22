@@ -3,7 +3,6 @@ title: Styles.Parent property (Word)
 keywords: vbawd10.chm153945066
 f1_keywords:
 - vbawd10.chm153945066
-ms.prod: word
 api_name:
 - Word.Styles.Parent
 ms.assetid: fee4966b-4d43-f26b-5043-1caec97a73ea

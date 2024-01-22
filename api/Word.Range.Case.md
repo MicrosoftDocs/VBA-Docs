@@ -3,7 +3,6 @@ title: Range.Case property (Word)
 keywords: vbawd10.chm157155640
 f1_keywords:
 - vbawd10.chm157155640
-ms.prod: word
 api_name:
 - Word.Range.Case
 ms.assetid: 983f7bd3-10b4-882f-5b4d-01e44127676f

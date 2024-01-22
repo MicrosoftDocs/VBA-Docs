@@ -3,7 +3,6 @@ title: Point.Height property (Word)
 keywords: vbawd10.chm262146652
 f1_keywords:
 - vbawd10.chm262146652
-ms.prod: word
 api_name:
 - Word.Point.Height
 ms.assetid: 4a4df491-63d9-7952-34e8-4b9d39eb8ae6

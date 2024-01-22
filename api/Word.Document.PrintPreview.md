@@ -3,7 +3,6 @@ title: Document.PrintPreview method (Word)
 keywords: vbawd10.chm158007410
 f1_keywords:
 - vbawd10.chm158007410
-ms.prod: word
 api_name:
 - Word.Document.PrintPreview
 ms.assetid: 534e3a03-b26c-5144-f6f5-09235830ec4f

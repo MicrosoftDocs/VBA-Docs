@@ -3,7 +3,6 @@ title: Global.Name property (Word)
 keywords: vbawd10.chm163119104
 f1_keywords:
 - vbawd10.chm163119104
-ms.prod: word
 api_name:
 - Word.Global.Name
 ms.assetid: 960e5821-b4bb-ee70-6d97-18bbfd1abf66

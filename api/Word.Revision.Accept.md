@@ -3,7 +3,6 @@ title: Revision.Accept method (Word)
 keywords: vbawd10.chm159449189
 f1_keywords:
 - vbawd10.chm159449189
-ms.prod: word
 api_name:
 - Word.Revision.Accept
 ms.assetid: 3e98b15a-edc3-dc85-0297-288886d8c479

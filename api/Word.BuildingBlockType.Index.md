@@ -3,7 +3,6 @@ title: BuildingBlockType.Index property (Word)
 keywords: vbawd10.chm167378945
 f1_keywords:
 - vbawd10.chm167378945
-ms.prod: word
 api_name:
 - Word.BuildingBlockType.Index
 ms.assetid: 1a664e4c-12ca-0df1-56b7-f9ab35bd0bb4

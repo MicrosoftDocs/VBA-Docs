@@ -3,7 +3,6 @@ title: Revisions.Application property (Word)
 keywords: vbawd10.chm159384552
 f1_keywords:
 - vbawd10.chm159384552
-ms.prod: word
 api_name:
 - Word.Revisions.Application
 ms.assetid: eccb49d5-5146-dd78-f926-da7c7b2110a0

@@ -3,7 +3,6 @@ title: LetterContent.Application property (Word)
 keywords: vbawd10.chm161547240
 f1_keywords:
 - vbawd10.chm161547240
-ms.prod: word
 api_name:
 - Word.LetterContent.Application
 ms.assetid: 4f95ef63-68dd-7a58-0ac4-6f821c201ee6

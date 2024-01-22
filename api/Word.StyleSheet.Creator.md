@@ -3,7 +3,6 @@ title: StyleSheet.Creator property (Word)
 keywords: vbawd10.chm166659049
 f1_keywords:
 - vbawd10.chm166659049
-ms.prod: word
 api_name:
 - Word.StyleSheet.Creator
 ms.assetid: 1bbc4ba2-375a-a599-7297-71cfa68129ea

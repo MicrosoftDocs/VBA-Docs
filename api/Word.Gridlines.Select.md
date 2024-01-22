@@ -3,7 +3,6 @@ title: Gridlines.Select method (Word)
 keywords: vbawd10.chm11469035
 f1_keywords:
 - vbawd10.chm11469035
-ms.prod: word
 api_name:
 - Word.Gridlines.Select
 ms.assetid: a0a790df-8e54-b3a2-4570-f345c9bb3a32

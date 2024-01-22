@@ -3,7 +3,6 @@ title: SpellingSuggestions.Count property (Word)
 keywords: vbawd10.chm162136065
 f1_keywords:
 - vbawd10.chm162136065
-ms.prod: word
 api_name:
 - Word.SpellingSuggestions.Count
 ms.assetid: 7cb9d6c3-f328-deb0-0725-29f96823b095

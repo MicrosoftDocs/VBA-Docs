@@ -3,7 +3,6 @@ title: Index.SortBy property (Word)
 keywords: vbawd10.chm159186952
 f1_keywords:
 - vbawd10.chm159186952
-ms.prod: word
 api_name:
 - Word.Index.SortBy
 ms.assetid: 384e1d3c-5cfd-240d-95dd-fc8b7bc99283

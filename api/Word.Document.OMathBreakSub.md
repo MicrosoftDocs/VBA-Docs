@@ -3,7 +3,6 @@ title: Document.OMathBreakSub property (Word)
 keywords: vbawd10.chm158007825
 f1_keywords:
 - vbawd10.chm158007825
-ms.prod: word
 api_name:
 - Word.Document.OMathBreakSub
 ms.assetid: a361f255-1392-eddc-7771-98e9db7c291a

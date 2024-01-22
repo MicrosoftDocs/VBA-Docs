@@ -3,7 +3,6 @@ title: Font.Fill property (Word)
 keywords: vbawd10.chm156369066
 f1_keywords:
 - vbawd10.chm156369066
-ms.prod: word
 api_name:
 - Word.Font.Fill
 ms.assetid: b8e8322f-8d31-db8b-2dbc-3e1bc84a0826

@@ -3,7 +3,6 @@ title: Border.ArtWidth property (Word)
 keywords: vbawd10.chm154861574
 f1_keywords:
 - vbawd10.chm154861574
-ms.prod: word
 api_name:
 - Word.Border.ArtWidth
 ms.assetid: c99ad844-3a47-6291-b84f-d11db78c1f8d

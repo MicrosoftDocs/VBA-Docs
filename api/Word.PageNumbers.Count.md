@@ -3,7 +3,6 @@ title: PageNumbers.Count property (Word)
 keywords: vbawd10.chm159776769
 f1_keywords:
 - vbawd10.chm159776769
-ms.prod: word
 api_name:
 - Word.PageNumbers.Count
 ms.assetid: df771ab5-4a3c-d477-a832-7ec479ca3c2e

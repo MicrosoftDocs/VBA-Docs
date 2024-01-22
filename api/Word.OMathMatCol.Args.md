@@ -3,7 +3,6 @@ title: OMathMatCol.Args property (Word)
 keywords: vbawd10.chm24445031
 f1_keywords:
 - vbawd10.chm24445031
-ms.prod: word
 api_name:
 - Word.OMathMatCol.Args
 ms.assetid: 23cb7321-8ae5-4e8e-2eb1-93c7e95047ca

@@ -3,7 +3,6 @@ title: ChartArea.ClearFormats method (Word)
 keywords: vbawd10.chm160039024
 f1_keywords:
 - vbawd10.chm160039024
-ms.prod: word
 api_name:
 - Word.ChartArea.ClearFormats
 ms.assetid: 4a528ed5-dec3-13f9-3a83-b3dcdfe79329

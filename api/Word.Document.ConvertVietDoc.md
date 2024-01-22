@@ -3,7 +3,6 @@ title: Document.ConvertVietDoc method (Word)
 keywords: vbawd10.chm158007743
 f1_keywords:
 - vbawd10.chm158007743
-ms.prod: word
 api_name:
 - Word.Document.ConvertVietDoc
 ms.assetid: d03f0ad4-0e40-45a7-5189-1cbfa7328b2c

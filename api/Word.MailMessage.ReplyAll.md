@@ -3,7 +3,6 @@ title: MailMessage.ReplyAll method (Word)
 keywords: vbawd10.chm163184983
 f1_keywords:
 - vbawd10.chm163184983
-ms.prod: word
 api_name:
 - Word.MailMessage.ReplyAll
 ms.assetid: cc7aa537-573f-f2b2-14a1-3443ed622f56

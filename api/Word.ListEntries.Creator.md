@@ -3,7 +3,6 @@ title: ListEntries.Creator property (Word)
 keywords: vbawd10.chm153355241
 f1_keywords:
 - vbawd10.chm153355241
-ms.prod: word
 api_name:
 - Word.ListEntries.Creator
 ms.assetid: 3e620ad7-9c9c-8105-422b-cda122444e46

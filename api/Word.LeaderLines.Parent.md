@@ -3,7 +3,6 @@ title: LeaderLines.Parent property (Word)
 keywords: vbawd10.chm207749270
 f1_keywords:
 - vbawd10.chm207749270
-ms.prod: word
 api_name:
 - Word.LeaderLines.Parent
 ms.assetid: bbf7538c-3611-7743-0bfe-1335a27440f8

@@ -3,7 +3,6 @@ title: Task.Move method (Word)
 keywords: vbawd10.chm159514636
 f1_keywords:
 - vbawd10.chm159514636
-ms.prod: word
 api_name:
 - Word.Task.Move
 ms.assetid: cd769f00-a6d2-819d-54ca-0861bfbcf441

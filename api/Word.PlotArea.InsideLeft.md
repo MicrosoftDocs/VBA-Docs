@@ -3,7 +3,6 @@ title: PlotArea.InsideLeft property (Word)
 keywords: vbawd10.chm53479043
 f1_keywords:
 - vbawd10.chm53479043
-ms.prod: word
 api_name:
 - Word.PlotArea.InsideLeft
 ms.assetid: 30cd15c4-6d97-4742-3ff8-cf8d820bc070

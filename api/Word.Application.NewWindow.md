@@ -3,7 +3,6 @@ title: Application.NewWindow method (Word)
 keywords: vbawd10.chm158335321
 f1_keywords:
 - vbawd10.chm158335321
-ms.prod: word
 api_name:
 - Word.Application.NewWindow
 ms.assetid: 0af15be1-7002-bd73-13da-19635d09b034

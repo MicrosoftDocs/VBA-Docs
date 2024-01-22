@@ -3,7 +3,6 @@ title: Paragraphs.WordWrap property (Word)
 keywords: vbawd10.chm156762230
 f1_keywords:
 - vbawd10.chm156762230
-ms.prod: word
 api_name:
 - Word.Paragraphs.WordWrap
 ms.assetid: bf77cc49-c440-3c8e-7384-721658207386

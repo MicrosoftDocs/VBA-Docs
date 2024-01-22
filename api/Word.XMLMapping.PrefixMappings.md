@@ -3,7 +3,6 @@ title: XMLMapping.PrefixMappings property (Word)
 keywords: vbawd10.chm199688199
 f1_keywords:
 - vbawd10.chm199688199
-ms.prod: word
 api_name:
 - Word.XMLMapping.PrefixMappings
 ms.assetid: 06afcc02-6368-8cb0-cd70-e12132b8ab2e

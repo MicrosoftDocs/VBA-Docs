@@ -1,6 +1,5 @@
 ---
 title: Sentences object (Word)
-ms.prod: word
 ms.assetid: bcb9653d-bada-8e51-f47d-58f17dae19fe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

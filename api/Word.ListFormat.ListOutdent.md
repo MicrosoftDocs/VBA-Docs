@@ -3,7 +3,6 @@ title: ListFormat.ListOutdent method (Word)
 keywords: vbawd10.chm163578066
 f1_keywords:
 - vbawd10.chm163578066
-ms.prod: word
 api_name:
 - Word.ListFormat.ListOutdent
 ms.assetid: f69834f5-ae8b-f67a-a5b5-131a7382b1c5

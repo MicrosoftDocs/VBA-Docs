@@ -3,7 +3,6 @@ title: Dictionaries.ActiveCustomDictionary property (Word)
 keywords: vbawd10.chm162267139
 f1_keywords:
 - vbawd10.chm162267139
-ms.prod: word
 api_name:
 - Word.Dictionaries.ActiveCustomDictionary
 ms.assetid: 2f6a3fa0-4e7d-a7f0-20ce-49688dab7191

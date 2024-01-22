@@ -3,7 +3,6 @@ title: ShapeRange.Hyperlink property (Word)
 keywords: vbawd10.chm162857961
 f1_keywords:
 - vbawd10.chm162857961
-ms.prod: word
 api_name:
 - Word.ShapeRange.Hyperlink
 ms.assetid: a9b5176d-932c-b7b9-be56-ece4240bbf35

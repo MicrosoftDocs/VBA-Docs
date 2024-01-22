@@ -3,7 +3,6 @@ title: OMathGroupChar object (Word)
 keywords: vbawd10.chm3252
 f1_keywords:
 - vbawd10.chm3252
-ms.prod: word
 api_name:
 - Word.OMathGroupChar
 ms.assetid: e8f81e9d-86e7-bf52-5382-ad7d26b18af8

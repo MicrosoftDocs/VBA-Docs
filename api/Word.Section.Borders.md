@@ -3,7 +3,6 @@ title: Section.Borders property (Word)
 keywords: vbawd10.chm156828748
 f1_keywords:
 - vbawd10.chm156828748
-ms.prod: word
 api_name:
 - Word.Section.Borders
 ms.assetid: 2b5e7f77-9e39-e24d-539d-9497432e9d92

@@ -1,6 +1,5 @@
 ---
 title: WdGranularity enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdGranularity
 ms.assetid: ef70f592-fe9c-e9ee-c419-39ccdd547e19

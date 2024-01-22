@@ -3,7 +3,6 @@ title: Document.ActiveThemeDisplayName property (Word)
 keywords: vbawd10.chm158007837
 f1_keywords:
 - vbawd10.chm158007837
-ms.prod: word
 api_name:
 - Word.Document.ActiveThemeDisplayName
 ms.assetid: b6689499-80db-12f5-8217-2c982375448b

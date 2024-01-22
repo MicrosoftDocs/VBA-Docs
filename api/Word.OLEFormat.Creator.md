@@ -3,7 +3,6 @@ title: OLEFormat.Creator property (Word)
 keywords: vbawd10.chm154338281
 f1_keywords:
 - vbawd10.chm154338281
-ms.prod: word
 api_name:
 - Word.OLEFormat.Creator
 ms.assetid: cc0b9e37-4ce6-2332-a341-5bed9ca12ac1

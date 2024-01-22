@@ -3,7 +3,6 @@ title: Document.ProtectionType property (Word)
 keywords: vbawd10.chm158007356
 f1_keywords:
 - vbawd10.chm158007356
-ms.prod: word
 api_name:
 - Word.Document.ProtectionType
 ms.assetid: b11de5a8-8755-293e-88d4-86ce199cb57f

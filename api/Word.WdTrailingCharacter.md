@@ -1,6 +1,5 @@
 ---
 title: WdTrailingCharacter enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTrailingCharacter
 ms.assetid: e75cc842-73fe-0a6d-f465-f9385fb37b23

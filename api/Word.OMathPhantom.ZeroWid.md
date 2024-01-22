@@ -3,7 +3,6 @@ title: OMathPhantom.ZeroWid property (Word)
 keywords: vbawd10.chm88146025
 f1_keywords:
 - vbawd10.chm88146025
-ms.prod: word
 api_name:
 - Word.OMathPhantom.ZeroWid
 ms.assetid: 87635555-d293-4bab-cfda-17818be99920

@@ -3,7 +3,6 @@ title: Range.Shading property (Word)
 keywords: vbawd10.chm157155389
 f1_keywords:
 - vbawd10.chm157155389
-ms.prod: word
 api_name:
 - Word.Range.Shading
 ms.assetid: 8e09cd74-a16e-6547-5ada-97322cf32b99

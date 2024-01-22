@@ -3,7 +3,6 @@ title: DisplayUnitLabel.IncludeInLayout property (Word)
 keywords: vbawd10.chm94570866
 f1_keywords:
 - vbawd10.chm94570866
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.IncludeInLayout
 ms.assetid: 05f119fe-d0b1-9309-f6d2-86abdd81c548

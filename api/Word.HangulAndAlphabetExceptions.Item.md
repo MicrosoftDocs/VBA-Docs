@@ -3,7 +3,6 @@ title: HangulAndAlphabetExceptions.Item method (Word)
 keywords: vbawd10.chm164691968
 f1_keywords:
 - vbawd10.chm164691968
-ms.prod: word
 api_name:
 - Word.HangulAndAlphabetExceptions.Item
 ms.assetid: a9763ec7-c856-3bae-5867-d8b7b243fc32

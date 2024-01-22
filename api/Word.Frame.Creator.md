@@ -3,7 +3,6 @@ title: Frame.Creator property (Word)
 keywords: vbawd10.chm153748457
 f1_keywords:
 - vbawd10.chm153748457
-ms.prod: word
 api_name:
 - Word.Frame.Creator
 ms.assetid: 0170c463-844d-46e0-ff6a-2db489545053

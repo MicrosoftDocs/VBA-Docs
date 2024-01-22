@@ -1,6 +1,5 @@
 ---
 title: WdRevisionsBalloonMargin enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonMargin
 ms.assetid: 7cc8c80d-8d52-c644-195a-4d280ce9ba2b

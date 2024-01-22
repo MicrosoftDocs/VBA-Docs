@@ -3,7 +3,6 @@ title: Panes.Creator property (Word)
 keywords: vbawd10.chm157221865
 f1_keywords:
 - vbawd10.chm157221865
-ms.prod: word
 api_name:
 - Word.Panes.Creator
 ms.assetid: f216dd76-c210-7bd3-af2e-041a602e6458

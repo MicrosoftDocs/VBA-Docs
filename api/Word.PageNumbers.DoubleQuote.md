@@ -3,7 +3,6 @@ title: PageNumbers.DoubleQuote property (Word)
 keywords: vbawd10.chm159776778
 f1_keywords:
 - vbawd10.chm159776778
-ms.prod: word
 api_name:
 - Word.PageNumbers.DoubleQuote
 ms.assetid: 38a63f94-2a47-cea5-69a8-16616458fb9a

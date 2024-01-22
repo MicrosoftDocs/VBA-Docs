@@ -3,7 +3,6 @@ title: StyleSheet.Path property (Word)
 keywords: vbawd10.chm166658052
 f1_keywords:
 - vbawd10.chm166658052
-ms.prod: word
 api_name:
 - Word.StyleSheet.Path
 ms.assetid: 96a68487-b1b8-4c45-1869-b066874df9e5

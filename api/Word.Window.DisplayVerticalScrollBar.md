@@ -3,7 +3,6 @@ title: Window.DisplayVerticalScrollBar property (Word)
 keywords: vbawd10.chm157417491
 f1_keywords:
 - vbawd10.chm157417491
-ms.prod: word
 api_name:
 - Word.Window.DisplayVerticalScrollBar
 ms.assetid: bac2fcd6-d9b9-e922-b4ac-c891de68f6f3

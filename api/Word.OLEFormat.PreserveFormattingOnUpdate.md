@@ -3,7 +3,6 @@ title: OLEFormat.PreserveFormattingOnUpdate property (Word)
 keywords: vbawd10.chm154337392
 f1_keywords:
 - vbawd10.chm154337392
-ms.prod: word
 api_name:
 - Word.OLEFormat.PreserveFormattingOnUpdate
 ms.assetid: 2292fee8-42c6-274c-2ef8-de21af16314a

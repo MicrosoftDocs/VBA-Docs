@@ -3,7 +3,6 @@ title: Point.Left property (Word)
 keywords: vbawd10.chm262146654
 f1_keywords:
 - vbawd10.chm262146654
-ms.prod: word
 api_name:
 - Word.Point.Left
 ms.assetid: a1961773-fc15-7c20-3574-a6ea1431b796

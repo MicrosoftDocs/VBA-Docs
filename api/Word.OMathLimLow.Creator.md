@@ -3,7 +3,6 @@ title: OMathLimLow.Creator property (Word)
 keywords: vbawd10.chm91619429
 f1_keywords:
 - vbawd10.chm91619429
-ms.prod: word
 api_name:
 - Word.OMathLimLow.Creator
 ms.assetid: 634a993a-1d7c-c99d-112a-3e347331f71f

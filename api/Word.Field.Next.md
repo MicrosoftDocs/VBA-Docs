@@ -3,7 +3,6 @@ title: Field.Next property (Word)
 keywords: vbawd10.chm154075142
 f1_keywords:
 - vbawd10.chm154075142
-ms.prod: word
 api_name:
 - Word.Field.Next
 ms.assetid: be828737-6ac4-9986-4b57-187a7198898d

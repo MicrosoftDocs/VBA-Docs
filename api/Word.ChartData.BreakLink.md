@@ -3,7 +3,6 @@ title: ChartData.BreakLink method (Word)
 keywords: vbawd10.chm190382083
 f1_keywords:
 - vbawd10.chm190382083
-ms.prod: word
 api_name:
 - Word.ChartData.BreakLink
 ms.assetid: 19b483c2-8fca-38f5-c769-f7052c3bfee1

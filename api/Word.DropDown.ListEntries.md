@@ -3,7 +3,6 @@ title: DropDown.ListEntries property (Word)
 keywords: vbawd10.chm153419779
 f1_keywords:
 - vbawd10.chm153419779
-ms.prod: word
 api_name:
 - Word.DropDown.ListEntries
 ms.assetid: 87235132-0ff6-e8d7-1efc-1df4a9816b2f

@@ -3,7 +3,6 @@ title: EndnoteOptions.Parent property (Word)
 keywords: vbawd10.chm23593962
 f1_keywords:
 - vbawd10.chm23593962
-ms.prod: word
 api_name:
 - Word.EndnoteOptions.Parent
 ms.assetid: 727dc1a3-4925-9769-a8f1-0253e72ddbe4

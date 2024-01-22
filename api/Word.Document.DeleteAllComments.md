@@ -3,7 +3,6 @@ title: Document.DeleteAllComments method (Word)
 keywords: vbawd10.chm158007667
 f1_keywords:
 - vbawd10.chm158007667
-ms.prod: word
 api_name:
 - Word.Document.DeleteAllComments
 ms.assetid: 8c0bf7fa-a4de-91e0-3e2b-bb5d8897534a

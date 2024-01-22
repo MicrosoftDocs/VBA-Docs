@@ -3,7 +3,6 @@ title: Variable.Application property (Word)
 keywords: vbawd10.chm157680616
 f1_keywords:
 - vbawd10.chm157680616
-ms.prod: word
 api_name:
 - Word.Variable.Application
 ms.assetid: 9fe97cc5-6abc-efa7-1fb1-302bebebe53e

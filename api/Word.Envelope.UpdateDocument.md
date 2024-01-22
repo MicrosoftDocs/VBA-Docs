@@ -3,7 +3,6 @@ title: Envelope.UpdateDocument method (Word)
 keywords: vbawd10.chm152567911
 f1_keywords:
 - vbawd10.chm152567911
-ms.prod: word
 api_name:
 - Word.Envelope.UpdateDocument
 ms.assetid: 6cca6549-58be-0b83-d52a-05fdccce0030

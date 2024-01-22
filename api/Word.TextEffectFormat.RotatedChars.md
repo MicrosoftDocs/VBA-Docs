@@ -3,7 +3,6 @@ title: TextEffectFormat.RotatedChars property (Word)
 keywords: vbawd10.chm164561005
 f1_keywords:
 - vbawd10.chm164561005
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.RotatedChars
 ms.assetid: 4f5c9f84-0c86-1558-ac64-ca8d53e3683d

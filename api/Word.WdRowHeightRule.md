@@ -1,6 +1,5 @@
 ---
 title: WdRowHeightRule enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRowHeightRule
 ms.assetid: 36cd4de2-93cb-9c32-bd05-2b7f1d4cac5d

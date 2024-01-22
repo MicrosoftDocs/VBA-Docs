@@ -3,7 +3,6 @@ title: Lists.Application property (Word)
 keywords: vbawd10.chm160629736
 f1_keywords:
 - vbawd10.chm160629736
-ms.prod: word
 api_name:
 - Word.Lists.Application
 ms.assetid: ebd01fdb-9678-5219-6124-f8590f38b342

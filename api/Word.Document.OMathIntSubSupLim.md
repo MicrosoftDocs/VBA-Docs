@@ -3,7 +3,6 @@ title: Document.OMathIntSubSupLim property (Word)
 keywords: vbawd10.chm158007832
 f1_keywords:
 - vbawd10.chm158007832
-ms.prod: word
 api_name:
 - Word.Document.OMathIntSubSupLim
 ms.assetid: 8c27cc79-b271-112f-8281-27f0b8e3e3ae

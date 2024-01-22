@@ -3,7 +3,6 @@ title: Shading.BackgroundPatternColor property (Word)
 keywords: vbawd10.chm154796037
 f1_keywords:
 - vbawd10.chm154796037
-ms.prod: word
 api_name:
 - Word.Shading.BackgroundPatternColor
 ms.assetid: 0d78f926-0fe6-aa37-bd39-c7233a5bf3e8

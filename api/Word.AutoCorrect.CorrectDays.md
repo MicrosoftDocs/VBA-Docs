@@ -3,7 +3,6 @@ title: AutoCorrect.CorrectDays property (Word)
 keywords: vbawd10.chm155779073
 f1_keywords:
 - vbawd10.chm155779073
-ms.prod: word
 api_name:
 - Word.AutoCorrect.CorrectDays
 ms.assetid: a9b4ee11-72bf-41d7-883f-6cacd13ed770

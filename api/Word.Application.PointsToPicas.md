@@ -3,7 +3,6 @@ title: Application.PointsToPicas method (Word)
 keywords: vbawd10.chm158335359
 f1_keywords:
 - vbawd10.chm158335359
-ms.prod: word
 api_name:
 - Word.Application.PointsToPicas
 ms.assetid: 35d3f08b-bc4f-b65c-8b57-816146b37c77

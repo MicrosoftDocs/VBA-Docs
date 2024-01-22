@@ -3,7 +3,6 @@ title: Options.SaveInterval property (Word)
 keywords: vbawd10.chm162988077
 f1_keywords:
 - vbawd10.chm162988077
-ms.prod: word
 api_name:
 - Word.Options.SaveInterval
 ms.assetid: 0f0ce021-f883-60d3-6dfe-f17c626dd07e

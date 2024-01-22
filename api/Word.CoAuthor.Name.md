@@ -3,7 +3,6 @@ title: CoAuthor.Name property (Word)
 keywords: vbawd10.chm81068032
 f1_keywords:
 - vbawd10.chm81068032
-ms.prod: word
 api_name:
 - Word.CoAuthor.Name
 ms.assetid: d9d27cd8-e152-b5a3-286f-3e1b13d09696

@@ -1,6 +1,5 @@
 ---
 title: WdKey enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdKey
 ms.assetid: d7b986df-c47e-f608-6454-dfe2e7b8bfff

@@ -3,7 +3,6 @@ title: Range.TwoLinesInOne property (Word)
 keywords: vbawd10.chm157155594
 f1_keywords:
 - vbawd10.chm157155594
-ms.prod: word
 api_name:
 - Word.Range.TwoLinesInOne
 ms.assetid: 08e91e95-4826-7df9-22a9-3c7b9c25042d

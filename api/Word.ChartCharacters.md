@@ -1,6 +1,5 @@
 ---
 title: ChartCharacters object (Word)
-ms.prod: word
 api_name:
 - Word.ChartCharacters
 ms.assetid: cffe50a7-3fdc-75ad-2e32-081ba2310c1d

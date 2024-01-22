@@ -3,7 +3,6 @@ title: View.RevisionsBalloonShowConnectingLines property (Word)
 keywords: vbawd10.chm161808428
 f1_keywords:
 - vbawd10.chm161808428
-ms.prod: word
 api_name:
 - Word.View.RevisionsBalloonShowConnectingLines
 ms.assetid: 78c1cf42-93a7-eec9-84f6-40c6e7de036c

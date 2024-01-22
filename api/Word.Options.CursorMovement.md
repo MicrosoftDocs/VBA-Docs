@@ -3,7 +3,6 @@ title: Options.CursorMovement property (Word)
 keywords: vbawd10.chm162988435
 f1_keywords:
 - vbawd10.chm162988435
-ms.prod: word
 api_name:
 - Word.Options.CursorMovement
 ms.assetid: f73f8a6e-4a66-e3f8-7197-42d5c1f73bcf

@@ -1,6 +1,5 @@
 ---
 title: WdEditorType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdEditorType
 ms.assetid: 78e4fce6-6cc3-65c5-cb90-581a6d460d0d

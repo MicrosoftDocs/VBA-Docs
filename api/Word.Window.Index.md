@@ -3,7 +3,6 @@ title: Window.Index property (Word)
 keywords: vbawd10.chm157417500
 f1_keywords:
 - vbawd10.chm157417500
-ms.prod: word
 api_name:
 - Word.Window.Index
 ms.assetid: 470c660a-08cb-b018-21b0-b5506419379b

@@ -3,7 +3,6 @@ title: Series.HasErrorBars property (Word)
 keywords: vbawd10.chm123732128
 f1_keywords:
 - vbawd10.chm123732128
-ms.prod: word
 api_name:
 - Word.Series.HasErrorBars
 ms.assetid: c41f951a-c483-249e-1384-02b6180d5835

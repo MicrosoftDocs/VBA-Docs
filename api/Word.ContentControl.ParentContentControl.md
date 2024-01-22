@@ -3,7 +3,6 @@ title: ContentControl.ParentContentControl property (Word)
 keywords: vbawd10.chm266534928
 f1_keywords:
 - vbawd10.chm266534928
-ms.prod: word
 api_name:
 - Word.ContentControl.ParentContentControl
 ms.assetid: 85436fc6-ff9e-7598-fb73-8e19b07dfd2a

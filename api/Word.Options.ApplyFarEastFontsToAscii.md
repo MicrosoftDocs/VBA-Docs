@@ -3,7 +3,6 @@ title: Options.ApplyFarEastFontsToAscii property (Word)
 keywords: vbawd10.chm162988359
 f1_keywords:
 - vbawd10.chm162988359
-ms.prod: word
 api_name:
 - Word.Options.ApplyFarEastFontsToAscii
 ms.assetid: b0487311-42ad-f87a-8f72-da47d37f71d0

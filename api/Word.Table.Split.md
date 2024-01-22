@@ -3,7 +3,6 @@ title: Table.Split method (Word)
 keywords: vbawd10.chm156303378
 f1_keywords:
 - vbawd10.chm156303378
-ms.prod: word
 api_name:
 - Word.Table.Split
 ms.assetid: a96c6dff-8508-2a73-2f3a-fac755e026ff

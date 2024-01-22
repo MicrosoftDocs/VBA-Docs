@@ -3,7 +3,6 @@ title: OMathPhantom.Parent property (Word)
 keywords: vbawd10.chm88146022
 f1_keywords:
 - vbawd10.chm88146022
-ms.prod: word
 api_name:
 - Word.OMathPhantom.Parent
 ms.assetid: e62b73fd-83a1-3bf8-4ac6-063623eeb810

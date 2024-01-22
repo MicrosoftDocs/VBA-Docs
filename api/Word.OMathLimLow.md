@@ -3,7 +3,6 @@ title: OMathLimLow object (Word)
 keywords: vbawd10.chm1398
 f1_keywords:
 - vbawd10.chm1398
-ms.prod: word
 api_name:
 - Word.OMathLimLow
 ms.assetid: 061f6748-778b-7377-a1c5-ab93dc2c6f83

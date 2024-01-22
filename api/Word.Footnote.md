@@ -3,7 +3,6 @@ title: Footnote object (Word)
 keywords: vbawd10.chm2367
 f1_keywords:
 - vbawd10.chm2367
-ms.prod: word
 api_name:
 - Word.Footnote
 ms.assetid: 877340c4-14f9-4560-eaf8-2c6482a1ade8

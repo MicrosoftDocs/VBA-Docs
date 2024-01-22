@@ -3,7 +3,6 @@ title: ChartArea.Copy method (Word)
 keywords: vbawd10.chm160039463
 f1_keywords:
 - vbawd10.chm160039463
-ms.prod: word
 api_name:
 - Word.ChartArea.Copy
 ms.assetid: 55967e14-7846-d78b-a25b-fb82e008f701

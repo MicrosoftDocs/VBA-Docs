@@ -3,7 +3,6 @@ title: Selection.SelectRow method (Word)
 keywords: vbawd10.chm158663181
 f1_keywords:
 - vbawd10.chm158663181
-ms.prod: word
 api_name:
 - Word.Selection.SelectRow
 ms.assetid: 0d821d49-2829-2469-4742-0355440e4775

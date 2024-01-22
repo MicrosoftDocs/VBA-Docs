@@ -3,7 +3,6 @@ title: Rows.Borders property (Word)
 keywords: vbawd10.chm155976780
 f1_keywords:
 - vbawd10.chm155976780
-ms.prod: word
 api_name:
 - Word.Rows.Borders
 ms.assetid: 4c251987-5bbb-bfdb-d90f-861838f1b59d

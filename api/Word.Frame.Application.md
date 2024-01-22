@@ -3,7 +3,6 @@ title: Frame.Application property (Word)
 keywords: vbawd10.chm153748456
 f1_keywords:
 - vbawd10.chm153748456
-ms.prod: word
 api_name:
 - Word.Frame.Application
 ms.assetid: 24235524-76a5-9b1b-2e87-48f6cdb1882b

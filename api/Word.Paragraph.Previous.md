@@ -3,7 +3,6 @@ title: Paragraph.Previous method (Word)
 keywords: vbawd10.chm156696901
 f1_keywords:
 - vbawd10.chm156696901
-ms.prod: word
 api_name:
 - Word.Paragraph.Previous
 ms.assetid: 0ccc928e-26c3-d5e6-ea99-a3d9776fbdd1

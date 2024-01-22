@@ -3,7 +3,6 @@ title: View.Magnifier property (Word)
 keywords: vbawd10.chm161808391
 f1_keywords:
 - vbawd10.chm161808391
-ms.prod: word
 api_name:
 - Word.View.Magnifier
 ms.assetid: a195490b-a84d-78cb-f834-f154063c1021

@@ -1,6 +1,5 @@
 ---
 title: WdPageColor enumeration (Word)
-ms.prod: word
 ms.assetid: 99f557e5-48c9-65e3-0ab4-fed727fa5890
 ms.date: 06/08/2017
 ms.localizationpriority: medium

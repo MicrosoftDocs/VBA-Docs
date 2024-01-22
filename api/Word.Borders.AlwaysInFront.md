@@ -3,7 +3,6 @@ title: Borders.AlwaysInFront property (Word)
 keywords: vbawd10.chm154927127
 f1_keywords:
 - vbawd10.chm154927127
-ms.prod: word
 api_name:
 - Word.Borders.AlwaysInFront
 ms.assetid: c005b911-47f6-fdc2-6098-4971b856b346

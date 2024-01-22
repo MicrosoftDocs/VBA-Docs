@@ -3,7 +3,6 @@ title: OMathDelim.SepChar property (Word)
 keywords: vbawd10.chm145096809
 f1_keywords:
 - vbawd10.chm145096809
-ms.prod: word
 api_name:
 - Word.OMathDelim.SepChar
 ms.assetid: e7c4e488-556d-2528-7f25-e45ae673486b

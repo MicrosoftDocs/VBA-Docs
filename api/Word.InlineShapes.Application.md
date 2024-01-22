@@ -3,7 +3,6 @@ title: InlineShapes.Application property (Word)
 keywords: vbawd10.chm162071528
 f1_keywords:
 - vbawd10.chm162071528
-ms.prod: word
 api_name:
 - Word.InlineShapes.Application
 ms.assetid: fbc34491-e5a3-8b5f-4049-48990ddf0ce5

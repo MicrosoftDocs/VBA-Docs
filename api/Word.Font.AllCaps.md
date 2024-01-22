@@ -3,7 +3,6 @@ title: Font.AllCaps property (Word)
 keywords: vbawd10.chm156369030
 f1_keywords:
 - vbawd10.chm156369030
-ms.prod: word
 api_name:
 - Word.Font.AllCaps
 ms.assetid: ef881fd6-bb35-7cc6-b048-c9ed2111f821

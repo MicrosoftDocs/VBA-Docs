@@ -3,7 +3,6 @@ title: Selection.Hyperlinks property (Word)
 keywords: vbawd10.chm158662812
 f1_keywords:
 - vbawd10.chm158662812
-ms.prod: word
 api_name:
 - Word.Selection.Hyperlinks
 ms.assetid: c90c3779-cbb9-4174-3002-850750b4bb41

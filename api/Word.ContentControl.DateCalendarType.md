@@ -3,7 +3,6 @@ title: ContentControl.DateCalendarType property (Word)
 keywords: vbawd10.chm266534938
 f1_keywords:
 - vbawd10.chm266534938
-ms.prod: word
 api_name:
 - Word.ContentControl.DateCalendarType
 ms.assetid: 5ca35401-98f6-07a3-41ac-baba40e3ce21

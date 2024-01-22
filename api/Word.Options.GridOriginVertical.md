@@ -3,7 +3,6 @@ title: Options.GridOriginVertical property (Word)
 keywords: vbawd10.chm162988116
 f1_keywords:
 - vbawd10.chm162988116
-ms.prod: word
 api_name:
 - Word.Options.GridOriginVertical
 ms.assetid: 648ed7cd-931e-f75d-b031-c353be87776a

@@ -3,7 +3,6 @@ title: ShapeRange.CanvasCropLeft method (Word)
 keywords: vbawd10.chm162857100
 f1_keywords:
 - vbawd10.chm162857100
-ms.prod: word
 api_name:
 - Word.ShapeRange.CanvasCropLeft
 ms.assetid: 6b1a0b17-64d4-869a-b569-01a8095ee880

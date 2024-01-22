@@ -3,7 +3,6 @@ title: Shapes.Creator property (Word)
 keywords: vbawd10.chm161423169
 f1_keywords:
 - vbawd10.chm161423169
-ms.prod: word
 api_name:
 - Word.Shapes.Creator
 ms.assetid: 6eb44108-1323-ee89-6ffe-27aa0c6c7213

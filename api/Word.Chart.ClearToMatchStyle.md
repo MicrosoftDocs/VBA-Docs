@@ -3,7 +3,6 @@ title: Chart.ClearToMatchStyle method (Word)
 keywords: vbawd10.chm79366562
 f1_keywords:
 - vbawd10.chm79366562
-ms.prod: word
 api_name:
 - Word.Chart.ClearToMatchStyle
 ms.assetid: 33ea5fc1-9a71-a8d6-e714-91ff69c506b3

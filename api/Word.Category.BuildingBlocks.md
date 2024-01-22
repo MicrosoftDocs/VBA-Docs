@@ -3,7 +3,6 @@ title: Category.BuildingBlocks property (Word)
 keywords: vbawd10.chm190709763
 f1_keywords:
 - vbawd10.chm190709763
-ms.prod: word
 api_name:
 - Word.Category.BuildingBlocks
 ms.assetid: cdb6e59f-e206-cc0f-82bb-44736e9c859f

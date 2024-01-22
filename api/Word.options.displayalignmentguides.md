@@ -3,7 +3,6 @@ title: Options.DisplayAlignmentGuides property (Word)
 keywords: vbawd10.chm162988536
 f1_keywords:
 - vbawd10.chm162988536
-ms.prod: word
 ms.assetid: 06a46d32-4ea4-ac1a-c0a0-d4e838671311
 ms.date: 06/08/2017
 ms.localizationpriority: medium

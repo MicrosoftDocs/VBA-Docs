@@ -3,7 +3,6 @@ title: AddIns.Item method (Word)
 keywords: vbawd10.chm159318016
 f1_keywords:
 - vbawd10.chm159318016
-ms.prod: word
 api_name:
 - Word.AddIns.Item
 ms.assetid: 13ecdb61-eb5d-ac2c-8899-c423dd41ae06

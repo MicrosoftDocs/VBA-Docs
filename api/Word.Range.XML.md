@@ -3,7 +3,6 @@ title: Range.XML property (Word)
 keywords: vbawd10.chm157155672
 f1_keywords:
 - vbawd10.chm157155672
-ms.prod: word
 api_name:
 - Word.Range.XML
 ms.assetid: 3752b0bc-0f9c-d5ca-1926-763db9d1b1cc

@@ -3,7 +3,6 @@ title: Chart.AutoScaling property (Word)
 keywords: vbawd10.chm79364159
 f1_keywords:
 - vbawd10.chm79364159
-ms.prod: word
 api_name:
 - Word.Chart.AutoScaling
 ms.assetid: 911bf146-f3fa-7c05-a0eb-9e2062ed4a93

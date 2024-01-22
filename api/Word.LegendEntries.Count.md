@@ -3,7 +3,6 @@ title: LegendEntries.Count property (Word)
 keywords: vbawd10.chm6815862
 f1_keywords:
 - vbawd10.chm6815862
-ms.prod: word
 api_name:
 - Word.LegendEntries.Count
 ms.assetid: 217d61b8-d48a-fa64-219a-e9c4cde91403

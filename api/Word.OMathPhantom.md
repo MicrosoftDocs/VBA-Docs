@@ -3,7 +3,6 @@ title: OMathPhantom object (Word)
 keywords: vbawd10.chm1345
 f1_keywords:
 - vbawd10.chm1345
-ms.prod: word
 api_name:
 - Word.OMathPhantom
 ms.assetid: 8aed370a-98bd-adda-11c1-2df7c213e0f3

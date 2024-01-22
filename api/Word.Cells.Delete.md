@@ -3,7 +3,6 @@ title: Cells.Delete method (Word)
 keywords: vbawd10.chm155844808
 f1_keywords:
 - vbawd10.chm155844808
-ms.prod: word
 api_name:
 - Word.Cells.Delete
 ms.assetid: 891c21b7-ef8d-9ba1-9408-6560dac146c7

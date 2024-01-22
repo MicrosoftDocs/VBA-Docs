@@ -3,7 +3,6 @@ title: PictureFormat.TransparentBackground property (Word)
 keywords: vbawd10.chm164298860
 f1_keywords:
 - vbawd10.chm164298860
-ms.prod: word
 api_name:
 - Word.PictureFormat.TransparentBackground
 ms.assetid: 8cbc6da7-e3c9-6d42-de48-ae82b3e5ff00

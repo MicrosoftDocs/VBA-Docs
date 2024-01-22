@@ -3,7 +3,6 @@ title: Document.GridOriginFromMargin property (Word)
 keywords: vbawd10.chm158007604
 f1_keywords:
 - vbawd10.chm158007604
-ms.prod: word
 api_name:
 - Word.Document.GridOriginFromMargin
 ms.assetid: 137b250a-31d6-89c7-365b-285f14ae3dac

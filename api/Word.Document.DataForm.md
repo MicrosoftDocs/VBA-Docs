@@ -3,7 +3,6 @@ title: Document.DataForm method (Word)
 keywords: vbawd10.chm158007402
 f1_keywords:
 - vbawd10.chm158007402
-ms.prod: word
 api_name:
 - Word.Document.DataForm
 ms.assetid: 138f8b31-f076-8573-510f-0295fb612226

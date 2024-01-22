@@ -3,7 +3,6 @@ title: ProtectedViewWindows.Creator property (Word)
 keywords: vbawd10.chm82314217
 f1_keywords:
 - vbawd10.chm82314217
-ms.prod: word
 api_name:
 - Word.ProtectedViewWindows.Creator
 ms.assetid: 7de9abbc-e8b9-1f92-4f31-a8c8b1551106

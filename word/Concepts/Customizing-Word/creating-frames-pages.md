@@ -3,7 +3,6 @@ title: Creating Frames Pages
 keywords: vbawd10.chm5285976
 f1_keywords:
 - vbawd10.chm5285976
-ms.prod: word
 ms.assetid: 0245564e-b2df-83cd-1e32-e63079970dc1
 ms.date: 02/06/2020
 ms.localizationpriority: medium

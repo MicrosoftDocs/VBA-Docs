@@ -3,7 +3,6 @@ title: Application.GoBack method (Word)
 keywords: vbawd10.chm158335304
 f1_keywords:
 - vbawd10.chm158335304
-ms.prod: word
 api_name:
 - Word.Application.GoBack
 ms.assetid: d1113bc7-4ad3-f4da-0442-c11f5e22b2a8

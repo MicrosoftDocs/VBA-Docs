@@ -3,7 +3,6 @@ title: Application.SetDefaultTheme method (Word)
 keywords: vbawd10.chm158335390
 f1_keywords:
 - vbawd10.chm158335390
-ms.prod: word
 api_name:
 - Word.Application.SetDefaultTheme
 ms.assetid: 7c51ff47-92d7-724f-0334-b789d2441313

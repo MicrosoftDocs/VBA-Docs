@@ -3,7 +3,6 @@ title: Point.MarkerForegroundColor property (Word)
 keywords: vbawd10.chm262144075
 f1_keywords:
 - vbawd10.chm262144075
-ms.prod: word
 api_name:
 - Word.Point.MarkerForegroundColor
 ms.assetid: 34b02aba-f7ea-05b6-c2ef-1e8003943e81

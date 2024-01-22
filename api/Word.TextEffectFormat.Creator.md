@@ -3,7 +3,6 @@ title: TextEffectFormat.Creator property (Word)
 keywords: vbawd10.chm164561897
 f1_keywords:
 - vbawd10.chm164561897
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.Creator
 ms.assetid: 08cd4c8d-0a3c-4746-d339-01d03fb277a7

@@ -3,7 +3,6 @@ title: AutoCaptions.Item method (Word)
 keywords: vbawd10.chm158990336
 f1_keywords:
 - vbawd10.chm158990336
-ms.prod: word
 api_name:
 - Word.AutoCaptions.Item
 ms.assetid: 5eba6d18-6e31-23e1-0a25-85f368654641

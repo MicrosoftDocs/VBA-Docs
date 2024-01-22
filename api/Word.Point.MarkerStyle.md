@@ -3,7 +3,6 @@ title: Point.MarkerStyle property (Word)
 keywords: vbawd10.chm262144072
 f1_keywords:
 - vbawd10.chm262144072
-ms.prod: word
 api_name:
 - Word.Point.MarkerStyle
 ms.assetid: 53b77b3b-3c46-8e96-bd18-29da9658a71a

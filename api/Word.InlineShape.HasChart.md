@@ -3,7 +3,6 @@ title: InlineShape.HasChart property (Word)
 keywords: vbawd10.chm162005140
 f1_keywords:
 - vbawd10.chm162005140
-ms.prod: word
 api_name:
 - Word.InlineShape.HasChart
 ms.assetid: f8b88eef-ec41-fc03-f58b-e346d240a121

@@ -1,6 +1,5 @@
 ---
 title: Chart.GapDepth property (Word)
-ms.prod: word
 api_name:
 - Word.Chart.GapDepth
 ms.assetid: 09147a74-c8bb-4fc5-0389-c8f46e0be67d

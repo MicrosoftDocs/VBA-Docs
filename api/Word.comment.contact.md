@@ -3,7 +3,6 @@ title: Comment.Contact property (Word)
 keywords: vbawd10.chm154993655
 f1_keywords:
 - vbawd10.chm154993655
-ms.prod: word
 ms.assetid: 44e0ed68-8299-c96d-a3ce-b2b853bfb2d1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

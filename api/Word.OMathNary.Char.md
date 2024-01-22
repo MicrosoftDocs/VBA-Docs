@@ -3,7 +3,6 @@ title: OMathNary.Char property (Word)
 keywords: vbawd10.chm25428074
 f1_keywords:
 - vbawd10.chm25428074
-ms.prod: word
 api_name:
 - Word.OMathNary.Char
 ms.assetid: 46b318d9-208f-c1f2-8f75-2b5116998188

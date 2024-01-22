@@ -3,7 +3,6 @@ title: View.ShowTabs property (Word)
 keywords: vbawd10.chm161808399
 f1_keywords:
 - vbawd10.chm161808399
-ms.prod: word
 api_name:
 - Word.View.ShowTabs
 ms.assetid: eca4147b-323f-10f3-e604-b3d9394bbbef

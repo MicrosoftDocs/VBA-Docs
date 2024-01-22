@@ -3,7 +3,6 @@ title: LineFormat.BackColor property (Word)
 keywords: vbawd10.chm164233316
 f1_keywords:
 - vbawd10.chm164233316
-ms.prod: word
 api_name:
 - Word.LineFormat.BackColor
 ms.assetid: 30c282ca-f20b-9d20-8e6c-6f2c37d0cd7b

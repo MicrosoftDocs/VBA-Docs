@@ -3,7 +3,6 @@ title: CanvasShapes.AddLine method (Word)
 keywords: vbawd10.chm7536654
 f1_keywords:
 - vbawd10.chm7536654
-ms.prod: word
 api_name:
 - Word.CanvasShapes.AddLine
 ms.assetid: 74e5fd57-6a7f-8f5f-6350-e980afd514e7

@@ -3,7 +3,6 @@ title: XMLNode.Creator property (Word)
 keywords: vbawd10.chm37749737
 f1_keywords:
 - vbawd10.chm37749737
-ms.prod: word
 api_name:
 - Word.XMLNode.Creator
 ms.assetid: 123fa6b0-2800-7419-8058-3f46bd78b1a1

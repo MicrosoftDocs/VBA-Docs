@@ -3,7 +3,6 @@ title: Range.MoveStartUntil method (Word)
 keywords: vbawd10.chm157155444
 f1_keywords:
 - vbawd10.chm157155444
-ms.prod: word
 api_name:
 - Word.Range.MoveStartUntil
 ms.assetid: 2506e3ec-593c-27ba-69b0-230351094f64

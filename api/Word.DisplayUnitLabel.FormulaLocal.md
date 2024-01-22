@@ -3,7 +3,6 @@ title: DisplayUnitLabel.FormulaLocal property (Word)
 keywords: vbawd10.chm94568490
 f1_keywords:
 - vbawd10.chm94568490
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.FormulaLocal
 ms.assetid: 2e1ca5f6-e03e-67bb-857e-b6561b5ef304

@@ -3,7 +3,6 @@ title: DropCap.Parent property (Word)
 keywords: vbawd10.chm156632042
 f1_keywords:
 - vbawd10.chm156632042
-ms.prod: word
 api_name:
 - Word.DropCap.Parent
 ms.assetid: 003513f1-9281-c1b0-4d9c-7ecf859bdc98

@@ -1,6 +1,5 @@
 ---
 title: WdInformation enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdInformation
 ms.assetid: b5c46795-9f66-e607-1fb4-3a922b829c40

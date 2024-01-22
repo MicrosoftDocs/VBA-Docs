@@ -3,7 +3,6 @@ title: Axis.CategoryType property (Word)
 keywords: vbawd10.chm113049665
 f1_keywords:
 - vbawd10.chm113049665
-ms.prod: word
 api_name:
 - Word.Axis.CategoryType
 ms.assetid: 891a0cce-f5cb-6a8a-6216-fa6aaa1adac9

@@ -3,7 +3,6 @@ title: AddIn object (Word)
 keywords: vbawd10.chm2430
 f1_keywords:
 - vbawd10.chm2430
-ms.prod: word
 api_name:
 - Word.AddIn
 ms.assetid: 5615a8a9-1fd6-04fa-1fee-ec16502bd84a

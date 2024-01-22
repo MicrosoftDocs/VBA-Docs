@@ -3,7 +3,6 @@ title: ConditionalStyle.ParagraphFormat property (Word)
 keywords: vbawd10.chm91029513
 f1_keywords:
 - vbawd10.chm91029513
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.ParagraphFormat
 ms.assetid: 189e11aa-1bbe-575d-b538-8e8d0c35eaa3

@@ -3,7 +3,6 @@ title: Selection.Endnotes property (Word)
 keywords: vbawd10.chm158662711
 f1_keywords:
 - vbawd10.chm158662711
-ms.prod: word
 api_name:
 - Word.Selection.Endnotes
 ms.assetid: fea9ea39-4091-cccd-9025-36be2e4b95ff

@@ -3,7 +3,6 @@ title: Template.Type property (Word)
 keywords: vbawd10.chm157941766
 f1_keywords:
 - vbawd10.chm157941766
-ms.prod: word
 api_name:
 - Word.Template.Type
 ms.assetid: a1377eae-4a1e-14e3-d352-89c14be12ec3

@@ -3,7 +3,6 @@ title: Interior.PatternColorIndex property (Word)
 keywords: vbawd10.chm2818058
 f1_keywords:
 - vbawd10.chm2818058
-ms.prod: word
 api_name:
 - Word.Interior.PatternColorIndex
 ms.assetid: 2f2400e1-1995-2996-01a3-fd5ff0e6bf47

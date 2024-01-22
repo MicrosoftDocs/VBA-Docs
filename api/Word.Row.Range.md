@@ -3,7 +3,6 @@ title: Row.Range property (Word)
 keywords: vbawd10.chm156237824
 f1_keywords:
 - vbawd10.chm156237824
-ms.prod: word
 api_name:
 - Word.Row.Range
 ms.assetid: 1ca11d5e-9f2d-fd9f-c3a4-100e99a3f955

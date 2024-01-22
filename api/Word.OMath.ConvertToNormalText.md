@@ -3,7 +3,6 @@ title: OMath.ConvertToNormalText method (Word)
 keywords: vbawd10.chm176357580
 f1_keywords:
 - vbawd10.chm176357580
-ms.prod: word
 api_name:
 - Word.OMath.ConvertToNormalText
 ms.assetid: 79284082-5495-bc78-2223-3f9dbb8ef3f8

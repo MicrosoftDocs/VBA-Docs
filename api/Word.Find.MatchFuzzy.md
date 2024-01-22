@@ -3,7 +3,6 @@ title: Find.MatchFuzzy property (Word)
 keywords: vbawd10.chm162529320
 f1_keywords:
 - vbawd10.chm162529320
-ms.prod: word
 api_name:
 - Word.Find.MatchFuzzy
 ms.assetid: 7f3e2fb7-1485-a945-7161-e4ccc62e25e8

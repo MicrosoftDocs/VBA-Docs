@@ -3,7 +3,6 @@ title: Application.DDEExecute method (Word)
 keywords: vbawd10.chm158335286
 f1_keywords:
 - vbawd10.chm158335286
-ms.prod: word
 api_name:
 - Word.Application.DDEExecute
 ms.assetid: 0f83607e-ba56-70d7-091e-411ec73fdfa7

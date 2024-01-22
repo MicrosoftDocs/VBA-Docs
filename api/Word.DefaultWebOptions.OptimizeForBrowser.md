@@ -3,7 +3,6 @@ title: DefaultWebOptions.OptimizeForBrowser property (Word)
 keywords: vbawd10.chm165871617
 f1_keywords:
 - vbawd10.chm165871617
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.OptimizeForBrowser
 ms.assetid: c85aced0-0f4d-8237-e9c9-15fc65e0fd2b

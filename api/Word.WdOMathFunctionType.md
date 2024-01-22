@@ -1,6 +1,5 @@
 ---
 title: WdOMathFunctionType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOMathFunctionType
 ms.assetid: c87a7268-f93c-ab33-4a56-0f74a16d41ec

@@ -3,7 +3,6 @@ title: RecentFiles.Application property (Word)
 keywords: vbawd10.chm157484008
 f1_keywords:
 - vbawd10.chm157484008
-ms.prod: word
 api_name:
 - Word.RecentFiles.Application
 ms.assetid: 4e84379d-22b0-7969-cda6-da785da3aaef

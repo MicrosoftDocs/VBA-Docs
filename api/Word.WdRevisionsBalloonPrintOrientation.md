@@ -1,6 +1,5 @@
 ---
 title: WdRevisionsBalloonPrintOrientation enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonPrintOrientation
 ms.assetid: 588250b9-2f38-9e94-8dd2-94baf3902682

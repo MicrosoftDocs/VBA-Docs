@@ -3,7 +3,6 @@ title: ListFormat.ApplyOutlineNumberDefault method (Word)
 keywords: vbawd10.chm163578070
 f1_keywords:
 - vbawd10.chm163578070
-ms.prod: word
 api_name:
 - Word.ListFormat.ApplyOutlineNumberDefault
 ms.assetid: 8d3d26ad-e01c-8ad4-d4f4-86e71628e2c3

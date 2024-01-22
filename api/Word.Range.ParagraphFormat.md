@@ -3,7 +3,6 @@ title: Range.ParagraphFormat property (Word)
 keywords: vbawd10.chm157156430
 f1_keywords:
 - vbawd10.chm157156430
-ms.prod: word
 api_name:
 - Word.Range.ParagraphFormat
 ms.assetid: 98afe866-4d92-7a1d-f5c6-a0128d247df0

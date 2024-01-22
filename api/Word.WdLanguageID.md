@@ -1,6 +1,5 @@
 ---
 title: WdLanguageID enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdLanguageID
 ms.assetid: 9b3ef147-95f3-0eb6-db0c-0166fe7d2da2

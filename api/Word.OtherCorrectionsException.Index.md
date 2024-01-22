@@ -3,7 +3,6 @@ title: OtherCorrectionsException.Index property (Word)
 keywords: vbawd10.chm165740545
 f1_keywords:
 - vbawd10.chm165740545
-ms.prod: word
 api_name:
 - Word.OtherCorrectionsException.Index
 ms.assetid: ed034ad7-0ca3-4704-617d-0112eed5a2f1

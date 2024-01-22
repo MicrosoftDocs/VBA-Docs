@@ -3,7 +3,6 @@ title: Pane.NewFrameset method (Word)
 keywords: vbawd10.chm157286506
 f1_keywords:
 - vbawd10.chm157286506
-ms.prod: word
 api_name:
 - Word.Pane.NewFrameset
 ms.assetid: 86724851-6b29-1a66-e863-edeb4c9d43de

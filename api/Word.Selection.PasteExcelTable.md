@@ -3,7 +3,6 @@ title: Selection.PasteExcelTable method (Word)
 keywords: vbawd10.chm158663670
 f1_keywords:
 - vbawd10.chm158663670
-ms.prod: word
 api_name:
 - Word.Selection.PasteExcelTable
 ms.assetid: bfa7f82c-e5c0-3919-f492-a71c9eabb919

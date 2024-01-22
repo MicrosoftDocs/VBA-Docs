@@ -3,7 +3,6 @@ title: Row.ID property (Word)
 keywords: vbawd10.chm156237931
 f1_keywords:
 - vbawd10.chm156237931
-ms.prod: word
 api_name:
 - Word.Row.ID
 ms.assetid: 00644dd2-7dac-8d96-e74f-cf8c2d33260a

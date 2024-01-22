@@ -3,7 +3,6 @@ title: ChartData.ActivateChartDataWindow method (Word)
 keywords: vbawd10.chm190382084
 f1_keywords:
 - vbawd10.chm190382084
-ms.prod: word
 ms.assetid: dd84d89c-4c6f-27be-5e70-7ff209981cd1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

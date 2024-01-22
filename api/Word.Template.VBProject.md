@@ -3,7 +3,6 @@ title: Template.VBProject property (Word)
 keywords: vbawd10.chm157941859
 f1_keywords:
 - vbawd10.chm157941859
-ms.prod: word
 api_name:
 - Word.Template.VBProject
 ms.assetid: deea632d-239f-700d-7a89-fdc0fae916ef

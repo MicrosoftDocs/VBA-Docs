@@ -3,7 +3,6 @@ title: View.PageMovementType property (Word)
 keywords: vbawd10.chm161808449
 f1_keywords:
 - vbawd10.chm161808449
-ms.prod: word
 api_name:
 - Word.View.PageMovementType
 ms.date: 08/15/2017

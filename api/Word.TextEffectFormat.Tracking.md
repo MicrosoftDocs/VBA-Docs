@@ -3,7 +3,6 @@ title: TextEffectFormat.Tracking property (Word)
 keywords: vbawd10.chm164561007
 f1_keywords:
 - vbawd10.chm164561007
-ms.prod: word
 api_name:
 - Word.TextEffectFormat.Tracking
 ms.assetid: 40e1ac58-b292-ac12-6e82-a93f87013d6d

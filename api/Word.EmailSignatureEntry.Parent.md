@@ -3,7 +3,6 @@ title: EmailSignatureEntry.Parent property (Word)
 keywords: vbawd10.chm166069226
 f1_keywords:
 - vbawd10.chm166069226
-ms.prod: word
 api_name:
 - Word.EmailSignatureEntry.Parent
 ms.assetid: 647ca08d-1ae1-d36d-346d-62a6b9d55638

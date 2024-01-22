@@ -3,7 +3,6 @@ title: Document.Name property (Word)
 keywords: vbawd10.chm158007296
 f1_keywords:
 - vbawd10.chm158007296
-ms.prod: word
 api_name:
 - Word.Document.Name
 ms.assetid: 5f5f8938-4dab-19fa-f339-83099c442ec4

@@ -3,7 +3,6 @@ title: OMath.ArgSize property (Word)
 keywords: vbawd10.chm176357489
 f1_keywords:
 - vbawd10.chm176357489
-ms.prod: word
 api_name:
 - Word.OMath.ArgSize
 ms.assetid: 6c3cca63-3404-6793-9a91-400506a15873

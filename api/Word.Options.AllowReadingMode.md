@@ -3,7 +3,6 @@ title: Options.AllowReadingMode property (Word)
 keywords: vbawd10.chm162988489
 f1_keywords:
 - vbawd10.chm162988489
-ms.prod: word
 api_name:
 - Word.Options.AllowReadingMode
 ms.assetid: c570b6e8-9d38-7fd5-7cdb-fcd1743bbfe0

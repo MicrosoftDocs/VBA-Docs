@@ -3,7 +3,6 @@ title: Replacement.Parent property (Word)
 keywords: vbawd10.chm162595818
 f1_keywords:
 - vbawd10.chm162595818
-ms.prod: word
 api_name:
 - Word.Replacement.Parent
 ms.assetid: f453c87a-d641-26d4-7718-12f4e76b450e

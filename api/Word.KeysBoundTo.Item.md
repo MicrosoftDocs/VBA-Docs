@@ -3,7 +3,6 @@ title: KeysBoundTo.Item method (Word)
 keywords: vbawd10.chm160890880
 f1_keywords:
 - vbawd10.chm160890880
-ms.prod: word
 api_name:
 - Word.KeysBoundTo.Item
 ms.assetid: f1456b2f-6817-5fec-68c1-f9672c6456d3

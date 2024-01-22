@@ -3,7 +3,6 @@ title: DropDown.Valid property (Word)
 keywords: vbawd10.chm153419776
 f1_keywords:
 - vbawd10.chm153419776
-ms.prod: word
 api_name:
 - Word.DropDown.Valid
 ms.assetid: 2ac906a1-effa-02ff-85db-620f30434e89

@@ -3,7 +3,6 @@ title: View.FieldShading property (Word)
 keywords: vbawd10.chm161808407
 f1_keywords:
 - vbawd10.chm161808407
-ms.prod: word
 api_name:
 - Word.View.FieldShading
 ms.assetid: 4e699444-0946-5d58-cf87-456b4bf49be5

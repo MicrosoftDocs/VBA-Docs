@@ -3,7 +3,6 @@ title: HorizontalLineFormat.NoShade property (Word)
 keywords: vbawd10.chm165543939
 f1_keywords:
 - vbawd10.chm165543939
-ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.NoShade
 ms.assetid: 90728761-cdfa-fd2c-db00-44ca78a34017

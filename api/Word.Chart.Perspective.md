@@ -3,7 +3,6 @@ title: Chart.Perspective property (Word)
 keywords: vbawd10.chm79364108
 f1_keywords:
 - vbawd10.chm79364108
-ms.prod: word
 api_name:
 - Word.Chart.Perspective
 ms.assetid: d88ab2dc-822a-de51-a2b9-bcce667cd0e2

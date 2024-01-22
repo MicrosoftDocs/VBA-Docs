@@ -3,7 +3,6 @@ title: Subdocuments.Delete method (Word)
 keywords: vbawd10.chm159907943
 f1_keywords:
 - vbawd10.chm159907943
-ms.prod: word
 api_name:
 - Word.Subdocuments.Delete
 ms.assetid: 90ea0922-87ee-7e8e-05a3-9cc781262c7d

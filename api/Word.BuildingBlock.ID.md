@@ -3,7 +3,6 @@ title: BuildingBlock.ID property (Word)
 keywords: vbawd10.chm203620357
 f1_keywords:
 - vbawd10.chm203620357
-ms.prod: word
 api_name:
 - Word.BuildingBlock.ID
 ms.assetid: 0d99908e-2cee-338e-3520-ef9f7c476b1c

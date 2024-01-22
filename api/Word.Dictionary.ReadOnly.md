@@ -3,7 +3,6 @@ title: Dictionary.ReadOnly property (Word)
 keywords: vbawd10.chm162332675
 f1_keywords:
 - vbawd10.chm162332675
-ms.prod: word
 api_name:
 - Word.Dictionary.ReadOnly
 ms.assetid: f28d4fc8-46fa-a93d-248d-41b5515701ee

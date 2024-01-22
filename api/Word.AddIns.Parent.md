@@ -3,7 +3,6 @@ title: AddIns.Parent property (Word)
 keywords: vbawd10.chm159319018
 f1_keywords:
 - vbawd10.chm159319018
-ms.prod: word
 api_name:
 - Word.AddIns.Parent
 ms.assetid: b06c3cd4-6d8d-e633-838d-495bd7d610df

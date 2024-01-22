@@ -3,7 +3,6 @@ title: Series.MarkerForegroundColorIndex property (Word)
 keywords: vbawd10.chm123732044
 f1_keywords:
 - vbawd10.chm123732044
-ms.prod: word
 api_name:
 - Word.Series.MarkerForegroundColorIndex
 ms.assetid: ff92f023-7375-a80d-fda8-7d8ec61cc9e4

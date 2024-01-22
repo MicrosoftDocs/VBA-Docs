@@ -3,7 +3,6 @@ title: Revision.Author property (Word)
 keywords: vbawd10.chm159449089
 f1_keywords:
 - vbawd10.chm159449089
-ms.prod: word
 api_name:
 - Word.Revision.Author
 ms.assetid: c56d13d8-e95e-06b7-be83-2df98dbb979c

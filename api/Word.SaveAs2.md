@@ -3,7 +3,6 @@ title: Document.SaveAs2 method (Word)
 keywords: vbawd10.chm158007864
 f1_keywords:
 - vbawd10.chm158007864
-ms.prod: word
 api_name:
 - Word.SaveAs2
 ms.assetid: aa491007-0e31-26f5-3a5e-477381529b6e

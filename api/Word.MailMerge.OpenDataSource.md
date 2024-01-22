@@ -3,7 +3,6 @@ title: MailMerge.OpenDataSource method (Word)
 keywords: vbawd10.chm153092208
 f1_keywords:
 - vbawd10.chm153092208
-ms.prod: word
 api_name:
 - Word.MailMerge.OpenDataSource
 ms.assetid: fea43151-bb56-34ad-090c-24d9e47aeaac

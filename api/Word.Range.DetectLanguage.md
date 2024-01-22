@@ -3,7 +3,6 @@ title: Range.DetectLanguage method (Word)
 keywords: vbawd10.chm157155531
 f1_keywords:
 - vbawd10.chm157155531
-ms.prod: word
 api_name:
 - Word.Range.DetectLanguage
 ms.assetid: 4b4149fa-011a-2489-8779-66d75897174f

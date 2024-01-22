@@ -3,7 +3,6 @@ title: ReadabilityStatistics.Item method (Word)
 keywords: vbawd10.chm162398208
 f1_keywords:
 - vbawd10.chm162398208
-ms.prod: word
 api_name:
 - Word.ReadabilityStatistics.Item
 ms.assetid: 1db4aadc-b9e5-aab7-8b63-ac97157fbbfa

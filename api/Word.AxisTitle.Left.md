@@ -3,7 +3,6 @@ title: AxisTitle.Left property (Word)
 keywords: vbawd10.chm98238470
 f1_keywords:
 - vbawd10.chm98238470
-ms.prod: word
 api_name:
 - Word.AxisTitle.Left
 ms.assetid: f22941e1-bbe0-efa1-01a8-b08481f6133f

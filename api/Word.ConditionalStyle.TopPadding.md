@@ -3,7 +3,6 @@ title: ConditionalStyle.TopPadding property (Word)
 keywords: vbawd10.chm91029508
 f1_keywords:
 - vbawd10.chm91029508
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.TopPadding
 ms.assetid: ce74444c-6661-694c-7dd6-c3ade6e4d2b9

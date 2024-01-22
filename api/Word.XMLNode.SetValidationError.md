@@ -3,7 +3,6 @@ title: XMLNode.SetValidationError method (Word)
 keywords: vbawd10.chm37748841
 f1_keywords:
 - vbawd10.chm37748841
-ms.prod: word
 api_name:
 - Word.XMLNode.SetValidationError
 ms.assetid: 19e2cb53-5e57-4cfe-52d6-c1d42154bc46

@@ -3,7 +3,6 @@ title: Document.WriteReserved property (Word)
 keywords: vbawd10.chm158007384
 f1_keywords:
 - vbawd10.chm158007384
-ms.prod: word
 api_name:
 - Word.Document.WriteReserved
 ms.assetid: be5d8696-9e72-f8a3-2b47-a2fde13359f9

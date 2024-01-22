@@ -3,7 +3,6 @@ title: AxisTitle.Orientation property (Word)
 keywords: vbawd10.chm98238472
 f1_keywords:
 - vbawd10.chm98238472
-ms.prod: word
 api_name:
 - Word.AxisTitle.Orientation
 ms.assetid: 8ce12960-ec55-7a56-db87-6878ce0fa9ed

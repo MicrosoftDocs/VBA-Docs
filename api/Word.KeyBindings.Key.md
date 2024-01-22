@@ -3,7 +3,6 @@ title: KeyBindings.Key method (Word)
 keywords: vbawd10.chm160825454
 f1_keywords:
 - vbawd10.chm160825454
-ms.prod: word
 api_name:
 - Word.KeyBindings.Key
 ms.assetid: 0e20a18e-7812-8d99-3c4d-4d3e9e661d16

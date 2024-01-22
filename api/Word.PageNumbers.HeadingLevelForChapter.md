@@ -3,7 +3,6 @@ title: PageNumbers.HeadingLevelForChapter property (Word)
 keywords: vbawd10.chm159776772
 f1_keywords:
 - vbawd10.chm159776772
-ms.prod: word
 api_name:
 - Word.PageNumbers.HeadingLevelForChapter
 ms.assetid: 2202f3de-9ce0-e8d9-ad7c-9c95c1bc8f26

@@ -3,7 +3,6 @@ title: OMaths.Parent property (Word)
 keywords: vbawd10.chm122355814
 f1_keywords:
 - vbawd10.chm122355814
-ms.prod: word
 api_name:
 - Word.OMaths.Parent
 ms.assetid: c0fba3fd-15f5-d56d-95a5-2ea9c6204ac7

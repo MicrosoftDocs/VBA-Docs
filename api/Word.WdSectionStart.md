@@ -1,6 +1,5 @@
 ---
 title: WdSectionStart enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSectionStart
 ms.assetid: fe5dcc5b-c7ac-85bd-0a2d-f3318d1d9015

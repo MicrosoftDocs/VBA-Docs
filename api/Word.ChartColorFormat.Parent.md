@@ -3,7 +3,6 @@ title: ChartColorFormat.Parent property (Word)
 keywords: vbawd10.chm12058774
 f1_keywords:
 - vbawd10.chm12058774
-ms.prod: word
 api_name:
 - Word.ChartColorFormat.Parent
 ms.assetid: 6a6ab91d-acce-db91-7ecf-21a9b6d4ed48

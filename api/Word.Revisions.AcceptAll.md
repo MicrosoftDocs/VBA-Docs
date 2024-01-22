@@ -3,7 +3,6 @@ title: Revisions.AcceptAll method (Word)
 keywords: vbawd10.chm159383653
 f1_keywords:
 - vbawd10.chm159383653
-ms.prod: word
 api_name:
 - Word.Revisions.AcceptAll
 ms.assetid: bf1fa0d5-22ab-d426-9411-ae3147277448

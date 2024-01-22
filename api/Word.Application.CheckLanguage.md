@@ -3,7 +3,6 @@ title: Application.CheckLanguage property (Word)
 keywords: vbawd10.chm158335088
 f1_keywords:
 - vbawd10.chm158335088
-ms.prod: word
 api_name:
 - Word.Application.CheckLanguage
 ms.assetid: 25c2a119-2cae-48e4-1d54-cafc763b90fa

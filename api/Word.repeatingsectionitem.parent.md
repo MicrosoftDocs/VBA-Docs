@@ -3,7 +3,6 @@ title: RepeatingSectionItem.Parent property (Word)
 keywords: vbawd10.chm228000746
 f1_keywords:
 - vbawd10.chm228000746
-ms.prod: word
 ms.assetid: faf917a2-ed07-df4a-8464-33374353fbe9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

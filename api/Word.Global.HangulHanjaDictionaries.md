@@ -3,7 +3,6 @@ title: Global.HangulHanjaDictionaries property (Word)
 keywords: vbawd10.chm163119214
 f1_keywords:
 - vbawd10.chm163119214
-ms.prod: word
 api_name:
 - Word.Global.HangulHanjaDictionaries
 ms.assetid: 46a86461-960b-1ce2-9c86-624cdfd130c9

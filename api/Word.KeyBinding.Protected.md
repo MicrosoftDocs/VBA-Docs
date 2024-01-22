@@ -3,7 +3,6 @@ title: KeyBinding.Protected property (Word)
 keywords: vbawd10.chm160956419
 f1_keywords:
 - vbawd10.chm160956419
-ms.prod: word
 api_name:
 - Word.KeyBinding.Protected
 ms.assetid: 7f56f218-178d-5c98-9c6b-05d228e48ff3

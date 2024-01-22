@@ -3,7 +3,6 @@ title: Range.MoveEnd method (Word)
 keywords: vbawd10.chm157155439
 f1_keywords:
 - vbawd10.chm157155439
-ms.prod: word
 api_name:
 - Word.Range.MoveEnd
 ms.assetid: 44aa26e6-7bb1-af51-8d23-244444e0795c

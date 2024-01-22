@@ -3,7 +3,6 @@ title: Selection.MoveRight method (Word)
 keywords: vbawd10.chm158663157
 f1_keywords:
 - vbawd10.chm158663157
-ms.prod: word
 api_name:
 - Word.Selection.MoveRight
 ms.assetid: fcac96c7-7189-87b2-d800-9d161edb1e09

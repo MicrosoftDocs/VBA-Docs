@@ -3,7 +3,6 @@ title: Window.UsableHeight property (Word)
 keywords: vbawd10.chm157417504
 f1_keywords:
 - vbawd10.chm157417504
-ms.prod: word
 api_name:
 - Word.Window.UsableHeight
 ms.assetid: 7b6458ba-41fa-d742-74e7-a606eb862a70

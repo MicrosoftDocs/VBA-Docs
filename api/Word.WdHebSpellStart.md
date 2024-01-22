@@ -1,6 +1,5 @@
 ---
 title: WdHebSpellStart enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdHebSpellStart
 ms.assetid: 9d0ca1f9-6bd6-08f1-fed9-71eb34ebc9ca

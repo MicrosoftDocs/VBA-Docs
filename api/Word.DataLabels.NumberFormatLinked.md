@@ -3,7 +3,6 @@ title: DataLabels.NumberFormatLinked property (Word)
 keywords: vbawd10.chm207487170
 f1_keywords:
 - vbawd10.chm207487170
-ms.prod: word
 api_name:
 - Word.DataLabels.NumberFormatLinked
 ms.assetid: 8d70c985-8466-291e-5ff5-b20d93740b4c

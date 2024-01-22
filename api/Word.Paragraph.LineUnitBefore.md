@@ -3,7 +3,6 @@ title: Paragraph.LineUnitBefore property (Word)
 keywords: vbawd10.chm156696705
 f1_keywords:
 - vbawd10.chm156696705
-ms.prod: word
 api_name:
 - Word.Paragraph.LineUnitBefore
 ms.assetid: e9947ad7-14aa-b261-7b2c-c26ad05863eb

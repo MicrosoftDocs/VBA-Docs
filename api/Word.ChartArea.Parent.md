@@ -3,7 +3,6 @@ title: ChartArea.Parent property (Word)
 keywords: vbawd10.chm160039062
 f1_keywords:
 - vbawd10.chm160039062
-ms.prod: word
 api_name:
 - Word.ChartArea.Parent
 ms.assetid: acf0b491-134a-66cb-2ed9-3ae751c21efe

@@ -3,7 +3,6 @@ title: ListFormat.CountNumberedItems method (Word)
 keywords: vbawd10.chm163578043
 f1_keywords:
 - vbawd10.chm163578043
-ms.prod: word
 api_name:
 - Word.ListFormat.CountNumberedItems
 ms.assetid: 71ce63e0-0e8d-53cc-178c-d91b0242482b

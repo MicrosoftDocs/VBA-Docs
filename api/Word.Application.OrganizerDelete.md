@@ -3,7 +3,6 @@ title: Application.OrganizerDelete method (Word)
 keywords: vbawd10.chm158335295
 f1_keywords:
 - vbawd10.chm158335295
-ms.prod: word
 api_name:
 - Word.Application.OrganizerDelete
 ms.assetid: 45b394fc-cdd5-18ff-f30d-7339237a1b41

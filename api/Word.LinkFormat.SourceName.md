@@ -3,7 +3,6 @@ title: LinkFormat.SourceName property (Word)
 keywords: vbawd10.chm154206212
 f1_keywords:
 - vbawd10.chm154206212
-ms.prod: word
 api_name:
 - Word.LinkFormat.SourceName
 ms.assetid: 1befe8a0-29f4-21cc-e2cb-03ce018db620

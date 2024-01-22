@@ -3,7 +3,6 @@ title: DefaultWebOptions.PixelsPerInch property (Word)
 keywords: vbawd10.chm165871628
 f1_keywords:
 - vbawd10.chm165871628
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.PixelsPerInch
 ms.assetid: baae93ab-1e1e-79ae-1717-3671367a34cc

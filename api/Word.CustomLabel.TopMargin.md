@@ -3,7 +3,6 @@ title: CustomLabel.TopMargin property (Word)
 keywords: vbawd10.chm152371203
 f1_keywords:
 - vbawd10.chm152371203
-ms.prod: word
 api_name:
 - Word.CustomLabel.TopMargin
 ms.assetid: a1c783b1-08a9-ade0-6833-0b004a9f14ef

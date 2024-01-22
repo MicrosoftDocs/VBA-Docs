@@ -3,7 +3,6 @@ title: ReflectionFormat.Transparency property (Word)
 keywords: vbawd10.chm67043330
 f1_keywords:
 - vbawd10.chm67043330
-ms.prod: word
 api_name:
 - Word.ReflectionFormat.Transparency
 ms.assetid: 01b77e83-0cd0-00fc-6acb-41f9cd604c27

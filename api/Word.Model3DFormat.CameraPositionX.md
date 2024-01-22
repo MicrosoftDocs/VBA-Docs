@@ -3,7 +3,6 @@ title: Model3DFormat.CameraPositionX property (Word)
 keywords: vbawd10.chm151584873
 f1_keywords:
 - vbawd10.chm151584873
-ms.prod: word
 api_name:
 - Word.Model3DFormat.CameraPositionX
 ms.date: 04/11/2019

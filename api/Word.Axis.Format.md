@@ -3,7 +3,6 @@ title: Axis.Format property (Word)
 keywords: vbawd10.chm113049680
 f1_keywords:
 - vbawd10.chm113049680
-ms.prod: word
 api_name:
 - Word.Axis.Format
 ms.assetid: 85edf6ad-08af-3f83-ce10-517797ce3926

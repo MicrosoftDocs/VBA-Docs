@@ -3,7 +3,6 @@ title: Shape.Model3D property (Word)
 keywords: vbaxl10.chm161480914
 f1_keywords:
 - vbaxl10.chm161480914
-ms.prod: word
 api_name:
 - Word.Shape.Model3D
 ms.date: 04/11/2019

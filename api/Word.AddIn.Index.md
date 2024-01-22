@@ -3,7 +3,6 @@ title: AddIn.Index property (Word)
 keywords: vbawd10.chm159252481
 f1_keywords:
 - vbawd10.chm159252481
-ms.prod: word
 api_name:
 - Word.AddIn.Index
 ms.assetid: 45485b77-6ee9-979c-7f81-9f1d952551c3

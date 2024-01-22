@@ -3,7 +3,6 @@ title: ShapeNodes.Item method (Word)
 keywords: vbawd10.chm164495360
 f1_keywords:
 - vbawd10.chm164495360
-ms.prod: word
 api_name:
 - Word.ShapeNodes.Item
 ms.assetid: c0c0adc5-4f00-33b5-b0bd-1920a56512df

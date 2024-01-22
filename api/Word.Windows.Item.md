@@ -3,7 +3,6 @@ title: Windows.Item method (Word)
 keywords: vbawd10.chm157351936
 f1_keywords:
 - vbawd10.chm157351936
-ms.prod: word
 api_name:
 - Word.Windows.Item
 ms.assetid: 32277893-d918-a3e8-d5fd-d79b47871f39

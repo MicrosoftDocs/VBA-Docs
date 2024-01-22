@@ -3,7 +3,6 @@ title: ShapeRange.Creator property (Word)
 keywords: vbawd10.chm162864961
 f1_keywords:
 - vbawd10.chm162864961
-ms.prod: word
 api_name:
 - Word.ShapeRange.Creator
 ms.assetid: 2b478bed-85df-720e-033c-e31327077800

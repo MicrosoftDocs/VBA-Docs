@@ -3,7 +3,6 @@ title: MailMerge.Destination property (Word)
 keywords: vbawd10.chm153092099
 f1_keywords:
 - vbawd10.chm153092099
-ms.prod: word
 api_name:
 - Word.MailMerge.Destination
 ms.assetid: 05c6ac16-afd9-f611-abc4-d115ad01bce3

@@ -3,7 +3,6 @@ title: Options.DefaultOpenFormat property (Word)
 keywords: vbawd10.chm162988318
 f1_keywords:
 - vbawd10.chm162988318
-ms.prod: word
 api_name:
 - Word.Options.DefaultOpenFormat
 ms.assetid: 8caa36b7-6758-d280-e170-54376a1fd624

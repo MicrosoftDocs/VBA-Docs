@@ -3,7 +3,6 @@ title: Application.NewDocument event (Word)
 keywords: vbawd10.chm400008
 f1_keywords:
 - vbawd10.chm400008
-ms.prod: word
 api_name:
 - Word.Application.NewDocument
 ms.assetid: afe5b924-3067-69e7-4331-a9ea2b30b9b5

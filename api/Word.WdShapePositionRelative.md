@@ -1,6 +1,5 @@
 ---
 title: WdShapePositionRelative enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdShapePositionRelative
 ms.assetid: 8472dcfe-e52f-e78d-8171-8e57e39207f4

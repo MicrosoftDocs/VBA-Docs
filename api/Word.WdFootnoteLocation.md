@@ -1,6 +1,5 @@
 ---
 title: WdFootnoteLocation enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdFootnoteLocation
 ms.assetid: 88108730-cc7e-47cd-7ced-1b37bc3ba749

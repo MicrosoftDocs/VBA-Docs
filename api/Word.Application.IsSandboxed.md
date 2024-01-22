@@ -3,7 +3,6 @@ title: Application.IsSandboxed property (Word)
 keywords: vbawd10.chm158335468
 f1_keywords:
 - vbawd10.chm158335468
-ms.prod: word
 api_name:
 - Word.Application.IsSandboxed
 ms.assetid: 13fbfbda-b9e5-4f5d-46e2-2d8b157c77a1

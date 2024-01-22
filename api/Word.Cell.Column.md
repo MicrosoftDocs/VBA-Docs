@@ -3,7 +3,6 @@ title: Cell.Column property (Word)
 keywords: vbawd10.chm156106853
 f1_keywords:
 - vbawd10.chm156106853
-ms.prod: word
 api_name:
 - Word.Cell.Column
 ms.assetid: b3f5f0a1-4d17-9d66-f689-9eb6308132fe

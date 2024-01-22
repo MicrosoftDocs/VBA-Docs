@@ -3,7 +3,6 @@ title: System.FreeDiskSpace property (Word)
 keywords: vbawd10.chm154468356
 f1_keywords:
 - vbawd10.chm154468356
-ms.prod: word
 api_name:
 - Word.System.FreeDiskSpace
 ms.assetid: 739db138-37f3-821b-8214-013153b20fa0

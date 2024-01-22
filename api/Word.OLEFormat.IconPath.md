@@ -3,7 +3,6 @@ title: OLEFormat.IconPath property (Word)
 keywords: vbawd10.chm154337288
 f1_keywords:
 - vbawd10.chm154337288
-ms.prod: word
 api_name:
 - Word.OLEFormat.IconPath
 ms.assetid: 787bfe10-943c-e470-23e3-10abec89e606

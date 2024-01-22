@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeApplyClosings property (Word)
 keywords: vbawd10.chm162988331
 f1_keywords:
 - vbawd10.chm162988331
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeApplyClosings
 ms.assetid: 179decd2-69b0-c734-3257-7d212894a5d2

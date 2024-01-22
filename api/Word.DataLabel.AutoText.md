@@ -3,7 +3,6 @@ title: DataLabel.AutoText property (Word)
 keywords: vbawd10.chm233898119
 f1_keywords:
 - vbawd10.chm233898119
-ms.prod: word
 api_name:
 - Word.DataLabel.AutoText
 ms.assetid: de19c6ef-38a2-0555-49e9-a63b4adb3f72

@@ -3,7 +3,6 @@ title: Cell.RightPadding property (Word)
 keywords: vbawd10.chm156106866
 f1_keywords:
 - vbawd10.chm156106866
-ms.prod: word
 api_name:
 - Word.Cell.RightPadding
 ms.assetid: 6e71d162-7a8a-9ff2-38ec-c7867804d28b

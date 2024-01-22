@@ -3,7 +3,6 @@ title: FileConverters.Count property (Word)
 keywords: vbawd10.chm161087489
 f1_keywords:
 - vbawd10.chm161087489
-ms.prod: word
 api_name:
 - Word.FileConverters.Count
 ms.assetid: 62660774-225c-55e2-6aa3-46f1697b1aea

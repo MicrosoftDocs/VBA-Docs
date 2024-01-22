@@ -3,7 +3,6 @@ title: MailMergeDataSource.HeaderSourceType property (Word)
 keywords: vbawd10.chm152895492
 f1_keywords:
 - vbawd10.chm152895492
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.HeaderSourceType
 ms.assetid: e3ac1282-5f61-1425-07d7-d23a027decaf

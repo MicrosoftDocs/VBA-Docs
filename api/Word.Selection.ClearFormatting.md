@@ -3,7 +3,6 @@ title: Selection.ClearFormatting method (Word)
 keywords: vbawd10.chm158663665
 f1_keywords:
 - vbawd10.chm158663665
-ms.prod: word
 api_name:
 - Word.Selection.ClearFormatting
 ms.assetid: 66c2f088-5d35-f8b0-10e5-2faa0db14d7f

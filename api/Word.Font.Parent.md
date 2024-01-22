@@ -3,7 +3,6 @@ title: Font.Parent property (Word)
 keywords: vbawd10.chm156369898
 f1_keywords:
 - vbawd10.chm156369898
-ms.prod: word
 api_name:
 - Word.Font.Parent
 ms.assetid: 657f08d1-5a09-90bf-cbbc-b8e1a713858e

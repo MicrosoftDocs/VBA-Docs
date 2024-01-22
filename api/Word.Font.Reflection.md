@@ -3,7 +3,6 @@ title: Font.Reflection property (Word)
 keywords: vbawd10.chm156369064
 f1_keywords:
 - vbawd10.chm156369064
-ms.prod: word
 api_name:
 - Word.Font.Reflection
 ms.assetid: a4dac2d4-5bfe-2d0a-922f-cbf5cc3c921d

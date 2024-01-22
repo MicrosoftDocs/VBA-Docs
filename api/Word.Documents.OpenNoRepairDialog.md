@@ -3,7 +3,6 @@ title: Documents.OpenNoRepairDialog method (Word)
 keywords: vbawd10.chm158072852
 f1_keywords:
 - vbawd10.chm158072852
-ms.prod: word
 api_name:
 - Word.Documents.OpenNoRepairDialog
 ms.assetid: e299326e-dc8e-ab43-06fe-9b7625fb8beb

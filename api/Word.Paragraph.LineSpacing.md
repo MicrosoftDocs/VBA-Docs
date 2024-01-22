@@ -3,7 +3,6 @@ title: Paragraph.LineSpacing property (Word)
 keywords: vbawd10.chm156696685
 f1_keywords:
 - vbawd10.chm156696685
-ms.prod: word
 api_name:
 - Word.Paragraph.LineSpacing
 ms.assetid: f4ccfe57-4be8-1cdf-3140-45da603fc5ba

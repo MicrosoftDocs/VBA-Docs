@@ -3,7 +3,6 @@ title: Document.CheckSpelling method (Word)
 keywords: vbawd10.chm158007428
 f1_keywords:
 - vbawd10.chm158007428
-ms.prod: word
 api_name:
 - Word.Document.CheckSpelling
 ms.assetid: a61a9c8b-0dee-f6e4-cefc-daca612c99c1

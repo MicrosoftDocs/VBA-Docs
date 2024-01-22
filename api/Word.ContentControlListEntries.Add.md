@@ -3,7 +3,6 @@ title: ContentControlListEntries.Add method (Word)
 keywords: vbawd10.chm230948970
 f1_keywords:
 - vbawd10.chm230948970
-ms.prod: word
 api_name:
 - Word.ContentControlListEntries.Add
 ms.assetid: 159747c0-279c-f0ee-62d9-f2f01865c083

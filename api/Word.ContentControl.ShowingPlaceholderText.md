@@ -3,7 +3,6 @@ title: ContentControl.ShowingPlaceholderText property (Word)
 keywords: vbawd10.chm266534931
 f1_keywords:
 - vbawd10.chm266534931
-ms.prod: word
 api_name:
 - Word.ContentControl.ShowingPlaceholderText
 ms.assetid: 1c502641-f969-10d9-ebe5-04c85f0bfe48

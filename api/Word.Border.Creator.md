@@ -3,7 +3,6 @@ title: Border.Creator property (Word)
 keywords: vbawd10.chm154862569
 f1_keywords:
 - vbawd10.chm154862569
-ms.prod: word
 api_name:
 - Word.Border.Creator
 ms.assetid: 3e372111-4449-b3ef-e572-3cb0db4dcc69

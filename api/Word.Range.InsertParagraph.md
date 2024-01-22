@@ -3,7 +3,6 @@ title: Range.InsertParagraph method (Word)
 keywords: vbawd10.chm157155488
 f1_keywords:
 - vbawd10.chm157155488
-ms.prod: word
 api_name:
 - Word.Range.InsertParagraph
 ms.assetid: 5686967c-38c3-6664-70ee-53937fbd920e

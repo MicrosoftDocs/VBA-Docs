@@ -3,7 +3,6 @@ title: ErrorBars.Select method (Word)
 keywords: vbawd10.chm74842347
 f1_keywords:
 - vbawd10.chm74842347
-ms.prod: word
 api_name:
 - Word.ErrorBars.Select
 ms.assetid: 930105ff-3a36-3af3-1894-8468abfb3169

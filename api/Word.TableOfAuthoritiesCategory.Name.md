@@ -3,7 +3,6 @@ title: TableOfAuthoritiesCategory.Name property (Word)
 keywords: vbawd10.chm158793728
 f1_keywords:
 - vbawd10.chm158793728
-ms.prod: word
 api_name:
 - Word.TableOfAuthoritiesCategory.Name
 ms.assetid: dd479971-a38c-13f8-66dc-806d38af0ba5

@@ -3,7 +3,6 @@ title: ChartFont.Bold property (Word)
 keywords: vbawd10.chm255918082
 f1_keywords:
 - vbawd10.chm255918082
-ms.prod: word
 api_name:
 - Word.ChartFont.Bold
 ms.assetid: e203868f-5234-354e-6488-159351041083

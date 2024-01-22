@@ -1,6 +1,5 @@
 ---
 title: Bookmarks.Item method (Word)
-ms.prod: word
 api_name:
 - Word.Bookmarks.Item
 ms.assetid: 95650b7b-fe74-09a4-60a6-a716407e8a34

@@ -3,7 +3,6 @@ title: Borders.DistanceFromRight property (Word)
 keywords: vbawd10.chm154927126
 f1_keywords:
 - vbawd10.chm154927126
-ms.prod: word
 api_name:
 - Word.Borders.DistanceFromRight
 ms.assetid: 456510ef-6746-6ef2-68a9-6917ce59144d

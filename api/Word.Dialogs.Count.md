@@ -3,7 +3,6 @@ title: Dialogs.Count property (Word)
 keywords: vbawd10.chm152043521
 f1_keywords:
 - vbawd10.chm152043521
-ms.prod: word
 api_name:
 - Word.Dialogs.Count
 ms.assetid: 1c734758-d00a-31d7-d4f7-bf8c406ab6b5

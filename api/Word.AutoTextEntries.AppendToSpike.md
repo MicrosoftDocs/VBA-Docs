@@ -3,7 +3,6 @@ title: AutoTextEntries.AppendToSpike method (Word)
 keywords: vbawd10.chm154599526
 f1_keywords:
 - vbawd10.chm154599526
-ms.prod: word
 api_name:
 - Word.AutoTextEntries.AppendToSpike
 ms.assetid: c54857c4-1a4b-34fc-8510-592276bd1753

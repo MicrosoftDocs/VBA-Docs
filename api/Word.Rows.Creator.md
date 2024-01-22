@@ -3,7 +3,6 @@ title: Rows.Creator property (Word)
 keywords: vbawd10.chm155976681
 f1_keywords:
 - vbawd10.chm155976681
-ms.prod: word
 api_name:
 - Word.Rows.Creator
 ms.assetid: 55443f86-6dc3-4037-9308-75d01bbf2900

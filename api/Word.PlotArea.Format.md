@@ -3,7 +3,6 @@ title: PlotArea.Format property (Word)
 keywords: vbawd10.chm53477401
 f1_keywords:
 - vbawd10.chm53477401
-ms.prod: word
 api_name:
 - Word.PlotArea.Format
 ms.assetid: 12519da7-cd02-99b0-d19d-f03b23341d14

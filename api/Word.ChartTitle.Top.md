@@ -3,7 +3,6 @@ title: ChartTitle.Top property (Word)
 keywords: vbawd10.chm65273870
 f1_keywords:
 - vbawd10.chm65273870
-ms.prod: word
 api_name:
 - Word.ChartTitle.Top
 ms.assetid: 2af47a72-14a1-ae70-e01a-13471665a35a

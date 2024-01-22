@@ -1,6 +1,5 @@
 ---
 title: WdExportCreateBookmarks enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdExportCreateBookmarks
 ms.assetid: 6bb7275e-b7f2-9c04-df52-29610c4bb7c3

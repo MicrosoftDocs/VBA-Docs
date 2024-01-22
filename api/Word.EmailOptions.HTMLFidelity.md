@@ -3,7 +3,6 @@ title: EmailOptions.HTMLFidelity property (Word)
 keywords: vbawd10.chm165347635
 f1_keywords:
 - vbawd10.chm165347635
-ms.prod: word
 api_name:
 - Word.EmailOptions.HTMLFidelity
 ms.assetid: 4b9107af-9af5-7691-9237-c3173c71fcd4

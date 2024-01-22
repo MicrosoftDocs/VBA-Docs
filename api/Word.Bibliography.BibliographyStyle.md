@@ -3,7 +3,6 @@ title: Bibliography.BibliographyStyle property (Word)
 keywords: vbawd10.chm101646441
 f1_keywords:
 - vbawd10.chm101646441
-ms.prod: word
 api_name:
 - Word.Bibliography.BibliographyStyle
 ms.assetid: d064147f-4aaa-647b-4209-ee9ccc355599

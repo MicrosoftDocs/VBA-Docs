@@ -3,7 +3,6 @@ title: Broadcast.AddMeetingNotes method (Word)
 keywords: vbawd10.chm36438121
 f1_keywords:
 - vbawd10.chm36438121
-ms.prod: word
 ms.assetid: e13a52fd-d0a4-bc32-2d0a-f01f9218bfa2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Selection.StartIsActive property (Word)
 keywords: vbawd10.chm158663060
 f1_keywords:
 - vbawd10.chm158663060
-ms.prod: word
 api_name:
 - Word.Selection.StartIsActive
 ms.assetid: 734e5368-dd6e-d84a-b445-30540948ac7a

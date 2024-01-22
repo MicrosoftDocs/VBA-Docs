@@ -3,7 +3,6 @@ title: Selection.ClearCharacterStyle method (Word)
 keywords: vbawd10.chm158663688
 f1_keywords:
 - vbawd10.chm158663688
-ms.prod: word
 api_name:
 - Word.Selection.ClearCharacterStyle
 ms.assetid: ff9795f9-ea74-fa03-5d87-9c56152d179d

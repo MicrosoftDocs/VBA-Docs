@@ -3,7 +3,6 @@ title: CoAuthors.Creator property (Word)
 keywords: vbawd10.chm179962857
 f1_keywords:
 - vbawd10.chm179962857
-ms.prod: word
 api_name:
 - Word.CoAuthors.Creator
 ms.assetid: a94deeeb-992f-ec40-9080-cb4aa6a6e1d5

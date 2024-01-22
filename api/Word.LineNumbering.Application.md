@@ -3,7 +3,6 @@ title: LineNumbering.Application property (Word)
 keywords: vbawd10.chm158467048
 f1_keywords:
 - vbawd10.chm158467048
-ms.prod: word
 api_name:
 - Word.LineNumbering.Application
 ms.assetid: 1669eea8-4ed6-da31-184f-3491e2a7b24f

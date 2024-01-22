@@ -3,7 +3,6 @@ title: CaptionLabels.Count property (Word)
 keywords: vbawd10.chm158859265
 f1_keywords:
 - vbawd10.chm158859265
-ms.prod: word
 api_name:
 - Word.CaptionLabels.Count
 ms.assetid: 5df0454f-684d-ed9e-9611-15ca84e0bd26

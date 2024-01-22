@@ -3,7 +3,6 @@ title: Options.ArabicMode property (Word)
 keywords: vbawd10.chm162988444
 f1_keywords:
 - vbawd10.chm162988444
-ms.prod: word
 api_name:
 - Word.Options.ArabicMode
 ms.assetid: f803708b-2e7d-16bf-5189-07057219c1f0

@@ -3,7 +3,6 @@ title: InlineShape.Borders property (Word)
 keywords: vbawd10.chm162006092
 f1_keywords:
 - vbawd10.chm162006092
-ms.prod: word
 api_name:
 - Word.InlineShape.Borders
 ms.assetid: 9186d101-81d1-26b3-8234-ce2e03a9e1e3

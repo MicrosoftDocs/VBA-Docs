@@ -3,7 +3,6 @@ title: InlineShapes.AddOLEObject method (Word)
 keywords: vbawd10.chm162070552
 f1_keywords:
 - vbawd10.chm162070552
-ms.prod: word
 api_name:
 - Word.InlineShapes.AddOLEObject
 ms.assetid: a7954807-160b-44de-1a50-c35a831d8651

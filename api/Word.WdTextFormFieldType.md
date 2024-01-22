@@ -1,6 +1,5 @@
 ---
 title: WdTextFormFieldType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTextFormFieldType
 ms.assetid: 490798b7-99d2-879c-60a7-71333132ab10

@@ -3,7 +3,6 @@ title: Document.DetectLanguage method (Word)
 keywords: vbawd10.chm158007447
 f1_keywords:
 - vbawd10.chm158007447
-ms.prod: word
 api_name:
 - Word.Document.DetectLanguage
 ms.assetid: 625cff5b-630e-bcaa-1094-57db5029ebd9

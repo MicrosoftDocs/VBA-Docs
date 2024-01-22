@@ -3,7 +3,6 @@ title: EmailAuthor.Style property (Word)
 keywords: vbawd10.chm165085287
 f1_keywords:
 - vbawd10.chm165085287
-ms.prod: word
 api_name:
 - Word.EmailAuthor.Style
 ms.assetid: e60dadf7-affd-3bcf-e4a9-d4f083bca000

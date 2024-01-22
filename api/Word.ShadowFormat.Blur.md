@@ -3,7 +3,6 @@ title: ShadowFormat.Blur property (Word)
 keywords: vbawd10.chm164364396
 f1_keywords:
 - vbawd10.chm164364396
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Blur
 ms.assetid: a3b812e9-6908-37ac-829b-09576ef0be29

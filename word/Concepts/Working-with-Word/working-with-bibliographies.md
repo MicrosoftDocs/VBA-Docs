@@ -1,6 +1,5 @@
 ---
 title: Work with Bibliographies
-ms.prod: word
 ms.assetid: ce05a0bd-bacd-16e1-0ab0-793a47a15da5
 ms.date: 01/22/2022
 ms.localizationpriority: medium

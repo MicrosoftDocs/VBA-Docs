@@ -3,7 +3,6 @@ title: AutoCaptions.CancelAutoInsert method (Word)
 keywords: vbawd10.chm158990436
 f1_keywords:
 - vbawd10.chm158990436
-ms.prod: word
 api_name:
 - Word.AutoCaptions.CancelAutoInsert
 ms.assetid: 72e8bf75-242a-1a0b-d9c0-a97487575473

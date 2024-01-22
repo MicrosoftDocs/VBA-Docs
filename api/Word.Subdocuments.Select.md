@@ -3,7 +3,6 @@ title: Subdocuments.Select method (Word)
 keywords: vbawd10.chm159907944
 f1_keywords:
 - vbawd10.chm159907944
-ms.prod: word
 api_name:
 - Word.Subdocuments.Select
 ms.assetid: 23da8ede-3dc6-a469-94c8-7360cc836166

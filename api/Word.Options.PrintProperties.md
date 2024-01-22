@@ -3,7 +3,6 @@ title: Options.PrintProperties property (Word)
 keywords: vbawd10.chm162988063
 f1_keywords:
 - vbawd10.chm162988063
-ms.prod: word
 api_name:
 - Word.Options.PrintProperties
 ms.assetid: 4abdc270-2230-6ef6-456a-a571bc5345af

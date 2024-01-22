@@ -1,6 +1,5 @@
 ---
 title: WdDefaultListBehavior enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdDefaultListBehavior
 ms.assetid: 7a7abde8-4c57-5a2d-7fe2-098d1d553071

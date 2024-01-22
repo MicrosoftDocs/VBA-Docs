@@ -3,7 +3,6 @@ title: TextFrame.HasText property (Word)
 keywords: vbawd10.chm162665360
 f1_keywords:
 - vbawd10.chm162665360
-ms.prod: word
 api_name:
 - Word.TextFrame.HasText
 ms.assetid: eb3d99ed-b65f-e0d3-b18f-388cec86bd3d

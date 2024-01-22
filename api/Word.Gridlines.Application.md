@@ -3,7 +3,6 @@ title: Gridlines.Application property (Word)
 keywords: vbawd10.chm11468948
 f1_keywords:
 - vbawd10.chm11468948
-ms.prod: word
 api_name:
 - Word.Gridlines.Application
 ms.assetid: 49950209-0edd-e2b2-a2a7-35a6ce9dc0cb

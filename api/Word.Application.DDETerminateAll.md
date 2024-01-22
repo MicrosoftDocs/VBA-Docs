@@ -3,7 +3,6 @@ title: Application.DDETerminateAll method (Word)
 keywords: vbawd10.chm158335291
 f1_keywords:
 - vbawd10.chm158335291
-ms.prod: word
 api_name:
 - Word.Application.DDETerminateAll
 ms.assetid: 1e8a0805-9bdd-add9-7184-533a0d2c5d9d

@@ -3,7 +3,6 @@ title: Options.Creator property (Word)
 keywords: vbawd10.chm162989033
 f1_keywords:
 - vbawd10.chm162989033
-ms.prod: word
 api_name:
 - Word.Options.Creator
 ms.assetid: db5a4d71-9791-9dbb-7411-99bc9b1a5480

@@ -3,7 +3,6 @@ title: ChartFormat.Shadow property (Word)
 keywords: vbawd10.chm203030533
 f1_keywords:
 - vbawd10.chm203030533
-ms.prod: word
 api_name:
 - Word.ChartFormat.Shadow
 ms.assetid: c2f88d68-4294-9da9-0d45-24f8df9e50af

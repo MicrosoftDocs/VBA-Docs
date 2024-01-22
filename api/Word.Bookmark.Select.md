@@ -3,7 +3,6 @@ title: Bookmark.Select method (Word)
 keywords: vbawd10.chm157876223
 f1_keywords:
 - vbawd10.chm157876223
-ms.prod: word
 api_name:
 - Word.Bookmark.Select
 ms.assetid: dbb9fe8b-fa47-e105-5beb-cf512079e4d4

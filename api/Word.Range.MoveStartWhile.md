@@ -3,7 +3,6 @@ title: Range.MoveStartWhile method (Word)
 keywords: vbawd10.chm157155441
 f1_keywords:
 - vbawd10.chm157155441
-ms.prod: word
 api_name:
 - Word.Range.MoveStartWhile
 ms.assetid: d0cff673-9248-88ae-7624-a838ce104e4b
