@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.OnKeystrokeMessageForAddon event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.OnKeystrokeMessageForAddon
 ms.assetid: 84847fcb-0cb1-cade-38fb-20c01b1262df

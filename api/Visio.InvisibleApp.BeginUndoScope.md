@@ -3,7 +3,6 @@ title: InvisibleApp.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm17516085
 f1_keywords:
 - vis_sdr.chm17516085
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeginUndoScope
 ms.assetid: f5f2f885-a42a-b031-5922-c7dbc274a976

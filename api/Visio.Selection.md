@@ -3,7 +3,6 @@ title: Selection object (Visio)
 keywords: vis_sdr.chm10220
 f1_keywords:
 - vis_sdr.chm10220
-ms.prod: visio
 api_name:
 - Visio.Selection
 ms.assetid: e5734140-6dbe-7de8-9695-1a22fb4ac628

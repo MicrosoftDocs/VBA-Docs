@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.BeforeSelectionDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.BeforeSelectionDelete
 ms.assetid: a5407295-e103-dc71-6655-df708aa905a3

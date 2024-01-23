@@ -3,7 +3,6 @@ title: Document.Print method (Visio)
 keywords: vis_sdr.chm10516445
 f1_keywords:
 - vis_sdr.chm10516445
-ms.prod: visio
 api_name:
 - Visio.Document.Print
 ms.assetid: b7860f50-8027-cd2c-38db-0d7b9f17546a

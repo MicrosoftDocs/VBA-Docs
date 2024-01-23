@@ -1,6 +1,5 @@
 ---
 title: Application.KeyUp event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.KeyUp
 ms.assetid: fb638bc4-8226-de1c-6609-4b757b7d0e4c

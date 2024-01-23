@@ -3,7 +3,6 @@ title: UIObject.SaveToFile method (Visio)
 keywords: vis_sdr.chm14916510
 f1_keywords:
 - vis_sdr.chm14916510
-ms.prod: visio
 api_name:
 - Visio.UIObject.SaveToFile
 ms.assetid: 0e734a30-08be-e3e8-590f-88e399e699fd

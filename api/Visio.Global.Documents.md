@@ -3,7 +3,6 @@ title: Global.Documents property (Visio)
 keywords: vis_sdr.chm12813435
 f1_keywords:
 - vis_sdr.chm12813435
-ms.prod: visio
 api_name:
 - Visio.Global.Documents
 ms.assetid: c3cd61bf-9497-3c47-6215-7f315881f9a8

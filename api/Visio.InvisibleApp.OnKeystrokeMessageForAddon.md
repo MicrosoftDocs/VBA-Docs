@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.OnKeystrokeMessageForAddon event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.OnKeystrokeMessageForAddon
 ms.assetid: 78dd9b07-21bf-41a9-a2da-0831b5f713c1

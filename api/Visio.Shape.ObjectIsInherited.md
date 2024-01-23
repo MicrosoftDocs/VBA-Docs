@@ -3,7 +3,6 @@ title: Shape.ObjectIsInherited property (Visio)
 keywords: vis_sdr.chm11213955
 f1_keywords:
 - vis_sdr.chm11213955
-ms.prod: visio
 api_name:
 - Visio.Shape.ObjectIsInherited
 ms.assetid: 5bb91e7a-f28e-f169-2e4a-87d46aacdccc

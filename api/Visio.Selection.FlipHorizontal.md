@@ -3,7 +3,6 @@ title: Selection.FlipHorizontal method (Visio)
 keywords: vis_sdr.chm11116280
 f1_keywords:
 - vis_sdr.chm11116280
-ms.prod: visio
 api_name:
 - Visio.Selection.FlipHorizontal
 ms.assetid: 97cecbcf-8489-c8b9-046e-28599f491e3c

@@ -3,7 +3,6 @@ title: Shape.UniqueID property (Visio)
 keywords: vis_sdr.chm11214615
 f1_keywords:
 - vis_sdr.chm11214615
-ms.prod: visio
 api_name:
 - Visio.Shape.UniqueID
 ms.assetid: a82e1175-4536-8919-6531-593d57c3b2f5

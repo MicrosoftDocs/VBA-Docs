@@ -3,7 +3,6 @@ title: Styles.ItemU property (Visio)
 keywords: vis_sdr.chm11551980
 f1_keywords:
 - vis_sdr.chm11551980
-ms.prod: visio
 api_name:
 - Visio.Styles.ItemU
 ms.assetid: aefd2bff-79b3-03a0-1ca5-88294962f46e

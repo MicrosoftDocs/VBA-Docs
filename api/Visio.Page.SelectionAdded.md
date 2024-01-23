@@ -3,7 +3,6 @@ title: Page.SelectionAdded event (Visio)
 keywords: vis_sdr.chm10919215
 f1_keywords:
 - vis_sdr.chm10919215
-ms.prod: visio
 api_name:
 - Visio.Page.SelectionAdded
 ms.assetid: 24e893c8-093e-c846-a74d-12f10c1009e6

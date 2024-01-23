@@ -3,7 +3,6 @@ title: Application.PromptForSummary property (Visio)
 keywords: vis_sdr.chm10014170
 f1_keywords:
 - vis_sdr.chm10014170
-ms.prod: visio
 api_name:
 - Visio.Application.PromptForSummary
 ms.assetid: 6250acdc-ed15-5d07-cbbe-8a4b400d775d

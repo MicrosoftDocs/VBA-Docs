@@ -3,7 +3,6 @@ title: Application.IsInScope property (Visio)
 keywords: vis_sdr.chm10013750
 f1_keywords:
 - vis_sdr.chm10013750
-ms.prod: visio
 api_name:
 - Visio.Application.IsInScope
 ms.assetid: adb9a52f-8e62-9d92-d8bf-81bed48b2cc3

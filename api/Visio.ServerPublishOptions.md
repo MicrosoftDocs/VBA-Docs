@@ -3,7 +3,6 @@ title: ServerPublishOptions object (Visio)
 keywords: vis_sdr.chm61055
 f1_keywords:
 - vis_sdr.chm61055
-ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions
 ms.assetid: 69e71212-4ca3-9fa6-6af3-8f07af540140

@@ -3,7 +3,6 @@ title: Shape.AddGuide method (Visio)
 keywords: vis_sdr.chm11216035
 f1_keywords:
 - vis_sdr.chm11216035
-ms.prod: visio
 api_name:
 - Visio.Shape.AddGuide
 ms.assetid: 1155354e-3855-4def-bafb-0d70c933a57a

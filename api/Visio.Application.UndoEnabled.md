@@ -3,7 +3,6 @@ title: Application.UndoEnabled property (Visio)
 keywords: vis_sdr.chm10014610
 f1_keywords:
 - vis_sdr.chm10014610
-ms.prod: visio
 api_name:
 - Visio.Application.UndoEnabled
 ms.assetid: 54890621-84c3-8bde-2043-acb91a5b85dc

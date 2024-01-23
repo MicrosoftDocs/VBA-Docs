@@ -3,7 +3,6 @@ title: AccelItems.Item property (Visio)
 keywords: vis_sdr.chm14613765
 f1_keywords:
 - vis_sdr.chm14613765
-ms.prod: visio
 api_name:
 - Visio.AccelItems.Item
 ms.assetid: c6ac3d03-4b13-141f-d1fd-dfbf671435fd

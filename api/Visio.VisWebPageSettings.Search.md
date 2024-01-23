@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.Search property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.Search
 ms.assetid: ae7e09e6-7f54-e939-5e5c-12af35c1b303

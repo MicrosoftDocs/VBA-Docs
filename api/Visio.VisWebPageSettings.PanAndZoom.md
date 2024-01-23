@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.PanAndZoom property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PanAndZoom
 ms.assetid: 83d1ac9d-e489-0656-a573-ebadd6e06156

@@ -1,6 +1,5 @@
 ---
 title: Application.BeforeDataRecordsetDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.BeforeDataRecordsetDelete
 ms.assetid: b0da57d0-d87f-410c-cfdc-abf8a7bd4b3b

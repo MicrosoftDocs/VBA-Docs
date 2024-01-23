@@ -3,7 +3,6 @@ title: Master.InsertFromFile method (Visio)
 keywords: vis_sdr.chm10716365
 f1_keywords:
 - vis_sdr.chm10716365
-ms.prod: visio
 api_name:
 - Visio.Master.InsertFromFile
 ms.assetid: 5a24e289-675a-d08b-36f7-0cfaedac5aaf

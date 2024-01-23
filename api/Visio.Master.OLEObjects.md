@@ -3,7 +3,6 @@ title: Master.OLEObjects property (Visio)
 keywords: vis_sdr.chm10713965
 f1_keywords:
 - vis_sdr.chm10713965
-ms.prod: visio
 api_name:
 - Visio.Master.OLEObjects
 ms.assetid: b51fbdc2-a236-4733-5a2e-b8e75d457d64

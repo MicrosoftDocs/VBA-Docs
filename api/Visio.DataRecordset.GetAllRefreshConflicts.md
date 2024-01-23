@@ -3,7 +3,6 @@ title: DataRecordset.GetAllRefreshConflicts method (Visio)
 keywords: vis_sdr.chm16460350
 f1_keywords:
 - vis_sdr.chm16460350
-ms.prod: visio
 api_name:
 - Visio.DataRecordset.GetAllRefreshConflicts
 ms.assetid: 96d1c866-6c0d-f750-46a8-8257340ebd71

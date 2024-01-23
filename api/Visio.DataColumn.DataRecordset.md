@@ -3,7 +3,6 @@ title: DataColumn.DataRecordset property (Visio)
 keywords: vis_sdr.chm16760385
 f1_keywords:
 - vis_sdr.chm16760385
-ms.prod: visio
 api_name:
 - Visio.DataColumn.DataRecordset
 ms.assetid: e4ca0590-38fb-9fc2-cafd-f4883ce79b47

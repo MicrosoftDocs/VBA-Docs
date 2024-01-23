@@ -3,7 +3,6 @@ title: UIObject.DisplayTooltips property (Visio)
 keywords: vis_sdr.chm14913415
 f1_keywords:
 - vis_sdr.chm14913415
-ms.prod: visio
 api_name:
 - Visio.UIObject.DisplayTooltips
 ms.assetid: 601cf4a4-5afe-1835-4afb-d21f801b93ce

@@ -3,7 +3,6 @@ title: Shape.Index property (Visio)
 keywords: vis_sdr.chm11213695
 f1_keywords:
 - vis_sdr.chm11213695
-ms.prod: visio
 api_name:
 - Visio.Shape.Index
 ms.assetid: 7fb67e8b-76a7-c2ac-e7aa-89635ca7622c

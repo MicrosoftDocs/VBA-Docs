@@ -3,7 +3,6 @@ title: Documents.SelectionAdded event (Visio)
 keywords: vis_sdr.chm10619215
 f1_keywords:
 - vis_sdr.chm10619215
-ms.prod: visio
 api_name:
 - Visio.Documents.SelectionAdded
 ms.assetid: d7c0cd8c-5081-459c-be02-aeb1cad56799

@@ -3,7 +3,6 @@ title: Application.StencilPaths property (Visio)
 keywords: vis_sdr.chm10014440
 f1_keywords:
 - vis_sdr.chm10014440
-ms.prod: visio
 api_name:
 - Visio.Application.StencilPaths
 ms.assetid: 1b664a6d-ba52-7115-7c48-bf2f6dd8068d

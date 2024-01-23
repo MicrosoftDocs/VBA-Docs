@@ -3,7 +3,6 @@ title: Application.ActivePage property (Visio)
 keywords: vis_sdr.chm10013030
 f1_keywords:
 - vis_sdr.chm10013030
-ms.prod: visio
 api_name:
 - Visio.Application.ActivePage
 ms.assetid: 1d0496aa-a6f5-0886-fb8f-8071f95fa333

@@ -3,7 +3,6 @@ title: Document.ParseLine method (Visio)
 keywords: vis_sdr.chm10516425
 f1_keywords:
 - vis_sdr.chm10516425
-ms.prod: visio
 api_name:
 - Visio.Document.ParseLine
 ms.assetid: 46603de4-afa0-7903-f585-0a1aaa5c74c7

@@ -3,7 +3,6 @@ title: Shapes.EventList property (Visio)
 keywords: vis_sdr.chm11313480
 f1_keywords:
 - vis_sdr.chm11313480
-ms.prod: visio
 api_name:
 - Visio.Shapes.EventList
 ms.assetid: 414ad9c8-d1f5-36dc-edab-fa1ae67da74f

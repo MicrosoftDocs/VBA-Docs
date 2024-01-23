@@ -1,6 +1,5 @@
 ---
 title: Application.DataRecordsetAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.DataRecordsetAdded
 ms.assetid: 04a54ec4-6f87-ac4d-f35c-bc3debca4a65

@@ -3,7 +3,6 @@ title: Selection.RemoveFromContainers method (Visio)
 keywords: vis_sdr.chm11162220
 f1_keywords:
 - vis_sdr.chm11162220
-ms.prod: visio
 api_name:
 - Visio.Selection.RemoveFromContainers
 ms.assetid: d1ed1360-3caa-3e03-98ef-84f4bd52a035

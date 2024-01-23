@@ -3,7 +3,6 @@ title: InvisibleApp.DrawingPaths property (Visio)
 keywords: vis_sdr.chm17513445
 f1_keywords:
 - vis_sdr.chm17513445
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DrawingPaths
 ms.assetid: 8c59c65b-c1d3-4a72-49ff-566d4fb1d492

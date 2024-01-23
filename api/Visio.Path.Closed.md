@@ -3,7 +3,6 @@ title: Path.Closed property (Visio)
 keywords: vis_sdr.chm15413250
 f1_keywords:
 - vis_sdr.chm15413250
-ms.prod: visio
 api_name:
 - Visio.Path.Closed
 ms.assetid: f2573801-db2d-4f8c-7d26-b98a163cb208

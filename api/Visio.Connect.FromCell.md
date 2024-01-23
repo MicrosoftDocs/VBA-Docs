@@ -3,7 +3,6 @@ title: Connect.FromCell property (Visio)
 keywords: vis_sdr.chm10313575
 f1_keywords:
 - vis_sdr.chm10313575
-ms.prod: visio
 api_name:
 - Visio.Connect.FromCell
 ms.assetid: d605d25a-40c2-7e7c-c8c2-bbc31c00f47b

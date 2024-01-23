@@ -3,7 +3,6 @@ title: Page.Background property (Visio)
 keywords: vis_sdr.chm10913110
 f1_keywords:
 - vis_sdr.chm10913110
-ms.prod: visio
 api_name:
 - Visio.Page.Background
 ms.assetid: fee785fd-2872-a64e-a80e-46034255b414

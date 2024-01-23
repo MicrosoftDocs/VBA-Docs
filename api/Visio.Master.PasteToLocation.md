@@ -3,7 +3,6 @@ title: Master.PasteToLocation method (Visio)
 keywords: vis_sdr.chm10762120
 f1_keywords:
 - vis_sdr.chm10762120
-ms.prod: visio
 api_name:
 - Visio.Master.PasteToLocation
 ms.assetid: c5c94265-23ee-5516-525d-ed3f34d2e7bf

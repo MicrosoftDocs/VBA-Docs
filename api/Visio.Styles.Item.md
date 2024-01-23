@@ -3,7 +3,6 @@ title: Styles.Item property (Visio)
 keywords: vis_sdr.chm11513765
 f1_keywords:
 - vis_sdr.chm11513765
-ms.prod: visio
 api_name:
 - Visio.Styles.Item
 ms.assetid: ab7c481e-b594-2295-8546-801fb2706594

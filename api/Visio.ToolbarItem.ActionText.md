@@ -3,7 +3,6 @@ title: ToolbarItem.ActionText property (Visio)
 keywords: vis_sdr.chm13513015
 f1_keywords:
 - vis_sdr.chm13513015
-ms.prod: visio
 api_name:
 - Visio.ToolbarItem.ActionText
 ms.assetid: 0bb1f3a9-013d-4164-6de3-557dcf64ca92

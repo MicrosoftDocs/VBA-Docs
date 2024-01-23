@@ -3,7 +3,6 @@ title: EventList.Count property (Visio)
 keywords: vis_sdr.chm12713330
 f1_keywords:
 - vis_sdr.chm12713330
-ms.prod: visio
 api_name:
 - Visio.EventList.Count
 ms.assetid: c35bd4d3-7b80-71aa-45a7-91e78a51e6eb

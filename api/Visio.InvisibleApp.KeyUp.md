@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.KeyUp event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.KeyUp
 ms.assetid: 497a8c56-7571-2bca-0a79-fc1adf458fe5

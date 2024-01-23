@@ -3,7 +3,6 @@ title: VisUIButtonState enumeration (Visio)
 keywords: vis_sdr.chm70295
 f1_keywords:
 - vis_sdr.chm70295
-ms.prod: visio
 ms.assetid: 4d55e687-55ff-132a-a507-5aa7798c355e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

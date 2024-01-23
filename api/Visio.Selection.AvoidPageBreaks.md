@@ -3,7 +3,6 @@ title: Selection.AvoidPageBreaks method (Visio)
 keywords: vis_sdr.chm11162200
 f1_keywords:
 - vis_sdr.chm11162200
-ms.prod: visio
 api_name:
 - Visio.Selection.AvoidPageBreaks
 ms.assetid: c0255ebe-5094-1196-0bfb-2693efefe47c

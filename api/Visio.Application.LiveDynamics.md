@@ -3,7 +3,6 @@ title: Application.LiveDynamics property (Visio)
 keywords: vis_sdr.chm10013855
 f1_keywords:
 - vis_sdr.chm10013855
-ms.prod: visio
 api_name:
 - Visio.Application.LiveDynamics
 ms.assetid: fc5a887b-318a-fd25-c2b5-52d6cc1c026e

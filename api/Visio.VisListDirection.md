@@ -3,7 +3,6 @@ title: VisListDirection enumeration (Visio)
 keywords: vis_sdr.chm70610
 f1_keywords:
 - vis_sdr.chm70610
-ms.prod: visio
 api_name:
 - Visio.VisListDirection
 ms.assetid: 7075aa16-8ad9-b9cb-4008-4179473aaa9b

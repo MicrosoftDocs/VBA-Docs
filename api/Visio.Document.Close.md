@@ -3,7 +3,6 @@ title: Document.Close method (Visio)
 keywords: vis_sdr.chm10516125
 f1_keywords:
 - vis_sdr.chm10516125
-ms.prod: visio
 api_name:
 - Visio.Document.Close
 ms.assetid: 913572fd-cacb-8d06-0e5f-3bd2e98d6d13

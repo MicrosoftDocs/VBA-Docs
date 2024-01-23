@@ -3,7 +3,6 @@ title: MSGWrap.Message property (Visio)
 keywords: vis_sdr.chm16150730
 f1_keywords:
 - vis_sdr.chm16150730
-ms.prod: visio
 api_name:
 - Visio.MSGWrap.Message
 ms.assetid: ae780612-a017-93b8-1c39-abe8097dfbf2

@@ -3,7 +3,6 @@ title: MasterShortcuts.Stat property (Visio)
 keywords: vis_sdr.chm15914420
 f1_keywords:
 - vis_sdr.chm15914420
-ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Stat
 ms.assetid: 565a1781-d729-c67c-8126-8fadfb8ef8b0

@@ -3,7 +3,6 @@ title: InvisibleApp.GetPreviewEnabled method (Visio)
 keywords: vis_sdr.chm17562100
 f1_keywords:
 - vis_sdr.chm17562100
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.GetPreviewEnabled
 ms.assetid: 4c99a819-9f65-43e6-f162-fe4afc1a3ddf

@@ -3,7 +3,6 @@ title: Addons.Application property (Visio)
 keywords: vis_sdr.chm12513090
 f1_keywords:
 - vis_sdr.chm12513090
-ms.prod: visio
 api_name:
 - Visio.Addons.Application
 ms.assetid: 9ff50b95-8ac5-407b-6c93-c5c805efb3ab

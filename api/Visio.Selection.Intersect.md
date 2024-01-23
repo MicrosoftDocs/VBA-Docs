@@ -3,7 +3,6 @@ title: Selection.Intersect method (Visio)
 keywords: vis_sdr.chm11116375
 f1_keywords:
 - vis_sdr.chm11116375
-ms.prod: visio
 api_name:
 - Visio.Selection.Intersect
 ms.assetid: 5dc63a77-62de-3892-6ed2-bcb5cb0a29f1

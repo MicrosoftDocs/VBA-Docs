@@ -3,7 +3,6 @@ title: Master.Close method (Visio)
 keywords: vis_sdr.chm10716125
 f1_keywords:
 - vis_sdr.chm10716125
-ms.prod: visio
 api_name:
 - Visio.Master.Close
 ms.assetid: 69607a2c-dc59-d170-733a-3557a996a67e

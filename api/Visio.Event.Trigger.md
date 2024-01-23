@@ -3,7 +3,6 @@ title: Event.Trigger method (Visio)
 keywords: vis_sdr.chm12651190
 f1_keywords:
 - vis_sdr.chm12651190
-ms.prod: visio
 api_name:
 - Visio.Event.Trigger
 ms.assetid: 093f8ce7-4d8a-c4d6-802f-4dab98fe199e

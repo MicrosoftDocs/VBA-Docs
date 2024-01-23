@@ -3,7 +3,6 @@ title: VisExistsFlags enumeration (Visio)
 keywords: vis_sdr.chm70080
 f1_keywords:
 - vis_sdr.chm70080
-ms.prod: visio
 ms.assetid: 4738fb46-3a6d-cdc8-b24f-a2432524cf3a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

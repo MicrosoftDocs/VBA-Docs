@@ -1,6 +1,5 @@
 ---
 title: Viewer.DisplayContextMenu method (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.DisplayContextMenu
 ms.assetid: 0aa19901-7bb8-6abe-cbff-4217381af336

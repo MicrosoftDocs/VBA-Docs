@@ -3,7 +3,6 @@ title: DrawingControl.NegotiateToolbars property (Visio)
 keywords: vis_sdr.chm51010
 f1_keywords:
 - vis_sdr.chm51010
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.NegotiateToolbars
 ms.assetid: 25b48ef4-7eec-6dac-aeb7-cae3aed58adf

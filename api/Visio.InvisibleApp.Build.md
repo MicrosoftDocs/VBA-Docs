@@ -3,7 +3,6 @@ title: InvisibleApp.Build property (Visio)
 keywords: vis_sdr.chm17550515
 f1_keywords:
 - vis_sdr.chm17550515
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Build
 ms.assetid: 912a1d47-e889-68b9-541b-12e9b9c36068

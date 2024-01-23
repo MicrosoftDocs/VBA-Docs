@@ -3,7 +3,6 @@ title: ApplicationSettings.SnapStrengthRulerX property (Visio)
 keywords: vis_sdr.chm16251545
 f1_keywords:
 - vis_sdr.chm16251545
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthRulerX
 ms.assetid: 594b4730-94ac-de20-12df-97ae0df4b7f6

@@ -3,7 +3,6 @@ title: Document.PrintFitOnPages property (Visio)
 keywords: vis_sdr.chm10514115
 f1_keywords:
 - vis_sdr.chm10514115
-ms.prod: visio
 api_name:
 - Visio.Document.PrintFitOnPages
 ms.assetid: d129ad36-0728-b3b5-60b5-3ba52e102cc7

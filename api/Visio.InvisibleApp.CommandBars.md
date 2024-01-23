@@ -3,7 +3,6 @@ title: InvisibleApp.CommandBars property (Visio)
 keywords: vis_sdr.chm17550540
 f1_keywords:
 - vis_sdr.chm17550540
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.CommandBars
 ms.assetid: e26f5345-a8bd-5583-1475-fe9c4221c6a8

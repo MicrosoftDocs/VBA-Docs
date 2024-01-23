@@ -3,7 +3,6 @@ title: Document.CopyPreviewPicture method (Visio)
 keywords: vis_sdr.chm10550545
 f1_keywords:
 - vis_sdr.chm10550545
-ms.prod: visio
 api_name:
 - Visio.Document.CopyPreviewPicture
 ms.assetid: a0d5799e-700c-6dd6-ce91-08c8eecda79f

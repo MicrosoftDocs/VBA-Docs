@@ -1,6 +1,5 @@
 ---
 title: Viewer.PageVisible property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.PageVisible
 ms.assetid: 7af34d35-b83d-931a-7116-fef8dab42f22

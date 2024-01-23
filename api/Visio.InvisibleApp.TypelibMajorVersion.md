@@ -3,7 +3,6 @@ title: InvisibleApp.TypelibMajorVersion property (Visio)
 keywords: vis_sdr.chm17514695
 f1_keywords:
 - vis_sdr.chm17514695
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TypelibMajorVersion
 ms.assetid: 22dd9c3f-3c52-29c3-7d99-2230ac3ce90f

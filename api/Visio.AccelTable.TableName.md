@@ -3,7 +3,6 @@ title: AccelTable.TableName property (Visio)
 keywords: vis_sdr.chm14714475
 f1_keywords:
 - vis_sdr.chm14714475
-ms.prod: visio
 api_name:
 - Visio.AccelTable.TableName
 ms.assetid: 050c3f9a-744f-f7a2-f2fb-fa517711e7c6

@@ -3,7 +3,6 @@ title: Path object (Visio)
 keywords: vis_sdr.chm10200
 f1_keywords:
 - vis_sdr.chm10200
-ms.prod: visio
 api_name:
 - Visio.Path
 ms.assetid: 6bdbbd2f-e375-bb9d-87e3-c4d8997d2aab

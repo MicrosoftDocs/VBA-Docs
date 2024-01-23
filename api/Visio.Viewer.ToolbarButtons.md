@@ -1,6 +1,5 @@
 ---
 title: Viewer.ToolbarButtons property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ToolbarButtons
 ms.assetid: 7663e0b1-6022-39c3-0268-fba3b287f868

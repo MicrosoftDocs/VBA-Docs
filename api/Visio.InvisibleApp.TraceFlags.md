@@ -3,7 +3,6 @@ title: InvisibleApp.TraceFlags property (Visio)
 keywords: vis_sdr.chm17514590
 f1_keywords:
 - vis_sdr.chm17514590
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.TraceFlags
 ms.assetid: 88961668-0d06-de44-0a05-d211df6c44f4

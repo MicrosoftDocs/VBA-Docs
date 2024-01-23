@@ -3,7 +3,6 @@ title: Window.Master property (Visio)
 keywords: vis_sdr.chm11613870
 f1_keywords:
 - vis_sdr.chm11613870
-ms.prod: visio
 api_name:
 - Visio.Window.Master
 ms.assetid: caf28e17-797a-91b2-c685-27ad0addddfd

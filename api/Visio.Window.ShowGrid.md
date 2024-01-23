@@ -3,7 +3,6 @@ title: Window.ShowGrid property (Visio)
 keywords: vis_sdr.chm11614350
 f1_keywords:
 - vis_sdr.chm11614350
-ms.prod: visio
 api_name:
 - Visio.Window.ShowGrid
 ms.assetid: 288e1b14-5ad5-da14-8f5b-747212093247

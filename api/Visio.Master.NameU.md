@@ -3,7 +3,6 @@ title: Master.NameU property (Visio)
 keywords: vis_sdr.chm10751985
 f1_keywords:
 - vis_sdr.chm10751985
-ms.prod: visio
 api_name:
 - Visio.Master.NameU
 ms.assetid: 87530cb6-5ac1-55c4-9210-9989c5f589c3

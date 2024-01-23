@@ -3,7 +3,6 @@ title: Document.FooterCenter property (Visio)
 keywords: vis_sdr.chm10550580
 f1_keywords:
 - vis_sdr.chm10550580
-ms.prod: visio
 api_name:
 - Visio.Document.FooterCenter
 ms.assetid: 7abdcd6c-39ed-ad05-bfef-cbd979f3a8d6

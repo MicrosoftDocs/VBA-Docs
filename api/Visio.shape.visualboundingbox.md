@@ -2,7 +2,6 @@
 title: Shape.VisualBoundingBox method (Visio)
 ms.assetid: 6a7d4622-8ba5-c598-4aaa-c6297cb4c008
 ms.date: 06/08/2017
-ms.prod: visio
 ms.localizationpriority: medium
 ---
 

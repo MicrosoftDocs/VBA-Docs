@@ -3,7 +3,6 @@ title: Shape.BringToFront method (Visio)
 keywords: vis_sdr.chm11216100
 f1_keywords:
 - vis_sdr.chm11216100
-ms.prod: visio
 api_name:
 - Visio.Shape.BringToFront
 ms.assetid: 91689605-16b4-eda5-2513-3e04f78fc13e

@@ -3,7 +3,6 @@ title: IVBUndoUnit object (Visio)
 keywords: vis_sdr.chm60145
 f1_keywords:
 - vis_sdr.chm60145
-ms.prod: visio
 ms.assetid: 397d8ea4-50ec-970a-61bb-ca61b2ae84e3
 ms.date: 06/19/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.GetPhysicalDimensions method (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.GetPhysicalDimensions
 ms.assetid: 879589f5-4b06-df98-c889-ffcf5a4d6419

@@ -3,7 +3,6 @@ title: Page.DropCallout method (Visio)
 keywords: vis_sdr.chm10962160
 f1_keywords:
 - vis_sdr.chm10962160
-ms.prod: visio
 api_name:
 - Visio.Page.DropCallout
 ms.assetid: 72edbd4b-e068-6dac-0298-9f746a728892

@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.BeforeSelectionDelete event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.BeforeSelectionDelete
 ms.assetid: a2176282-87a2-c747-939a-bc51bdea1100

@@ -3,7 +3,6 @@ title: Document.Clean method (Visio)
 keywords: vis_sdr.chm10552040
 f1_keywords:
 - vis_sdr.chm10552040
-ms.prod: visio
 api_name:
 - Visio.Document.Clean
 ms.assetid: 5fd5c6a6-1914-b29d-c0ae-0e5374d13a8e

@@ -3,7 +3,6 @@ title: Application.IsVisio32 property (Visio)
 keywords: vis_sdr.chm10000000
 f1_keywords:
 - vis_sdr.chm10000000
-ms.prod: visio
 api_name:
 - Visio.Application.IsVisio32
 ms.assetid: 14dc8f6b-3548-f76e-50da-cb19426b171f

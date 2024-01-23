@@ -3,7 +3,6 @@ title: MasterShortcuts.Count property (Visio)
 keywords: vis_sdr.chm15913330
 f1_keywords:
 - vis_sdr.chm15913330
-ms.prod: visio
 api_name:
 - Visio.MasterShortcuts.Count
 ms.assetid: 962a3f2b-9626-faef-ac4f-6ded68cfaaf1

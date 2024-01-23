@@ -3,7 +3,6 @@ title: VisThemeEffects enumeration (Visio)
 keywords: vis_sdr.chm70530
 f1_keywords:
 - vis_sdr.chm70530
-ms.prod: visio
 ms.assetid: 67c7154d-885e-28f8-4378-d5c72f4075cc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

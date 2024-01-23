@@ -3,7 +3,6 @@ title: Page.ConnectionsDeleted event (Visio)
 keywords: vis_sdr.chm10919100
 f1_keywords:
 - vis_sdr.chm10919100
-ms.prod: visio
 api_name:
 - Visio.Page.ConnectionsDeleted
 ms.assetid: 7be3ec10-0715-8daa-a021-c7e6780c223a

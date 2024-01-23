@@ -3,7 +3,6 @@ title: DataRecordset.ObjectType property (Visio)
 keywords: vis_sdr.chm16413960
 f1_keywords:
 - vis_sdr.chm16413960
-ms.prod: visio
 api_name:
 - Visio.DataRecordset.ObjectType
 ms.assetid: 0040cf96-c0b7-3f36-a7d6-76510ac5cab6

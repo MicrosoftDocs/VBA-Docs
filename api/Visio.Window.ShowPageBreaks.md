@@ -3,7 +3,6 @@ title: Window.ShowPageBreaks property (Visio)
 keywords: vis_sdr.chm11614365
 f1_keywords:
 - vis_sdr.chm11614365
-ms.prod: visio
 api_name:
 - Visio.Window.ShowPageBreaks
 ms.assetid: 8cdfed9b-bca1-062e-ed69-dfb9e8960a9d

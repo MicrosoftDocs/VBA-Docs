@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.DesignModeEntered event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.DesignModeEntered
 ms.assetid: 721dc421-e4d1-c049-e6ea-c922049ebb20

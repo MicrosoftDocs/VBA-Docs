@@ -1,6 +1,5 @@
 ---
 title: Application.BeforeWindowClosed event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowClosed
 ms.assetid: e062ffe4-8680-456c-4aea-3669e1cab20d

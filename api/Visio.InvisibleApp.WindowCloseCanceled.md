@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.WindowCloseCanceled event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowCloseCanceled
 ms.assetid: 472119a3-c6e8-15bf-5266-6cfba9207ce5

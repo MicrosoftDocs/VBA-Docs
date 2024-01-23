@@ -3,7 +3,6 @@ title: Selection.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11114080
 f1_keywords:
 - vis_sdr.chm11114080
-ms.prod: visio
 api_name:
 - Visio.Selection.PersistsEvents
 ms.assetid: a9e513e8-386a-99c8-6d7e-b525c6dc8b54

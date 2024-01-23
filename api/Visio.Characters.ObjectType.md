@@ -3,7 +3,6 @@ title: Characters.ObjectType property (Visio)
 keywords: vis_sdr.chm10213960
 f1_keywords:
 - vis_sdr.chm10213960
-ms.prod: visio
 api_name:
 - Visio.Characters.ObjectType
 ms.assetid: 31ffa78e-3232-028b-91a8-636010c9c5b2

@@ -3,7 +3,6 @@ title: OLEObject.ForeignType property (Visio)
 keywords: vis_sdr.chm15213555
 f1_keywords:
 - vis_sdr.chm15213555
-ms.prod: visio
 api_name:
 - Visio.OLEObject.ForeignType
 ms.assetid: efbbf903-12ba-e269-bb86-eb4ecc99e190

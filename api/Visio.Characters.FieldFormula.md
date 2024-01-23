@@ -3,7 +3,6 @@ title: Characters.FieldFormula property (Visio)
 keywords: vis_sdr.chm10213515
 f1_keywords:
 - vis_sdr.chm10213515
-ms.prod: visio
 api_name:
 - Visio.Characters.FieldFormula
 ms.assetid: 3bdbf64c-b853-b5bb-6b4f-323d979d3e7e

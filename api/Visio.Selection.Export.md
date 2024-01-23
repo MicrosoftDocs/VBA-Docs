@@ -3,7 +3,6 @@ title: Selection.Export method (Visio)
 keywords: vis_sdr.chm11116265
 f1_keywords:
 - vis_sdr.chm11116265
-ms.prod: visio
 api_name:
 - Visio.Selection.Export
 ms.assetid: 41ecd499-358d-804a-3311-43d0041a5562

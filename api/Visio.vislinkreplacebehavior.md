@@ -3,7 +3,6 @@ title: VisLinkReplaceBehavior enumeration (Visio)
 keywords: vis_sdr.chm70555
 f1_keywords:
 - vis_sdr.chm70555
-ms.prod: visio
 ms.assetid: 3579129a-b908-8d5f-e694-f72cc94880cf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

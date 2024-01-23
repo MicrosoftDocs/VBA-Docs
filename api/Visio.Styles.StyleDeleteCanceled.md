@@ -3,7 +3,6 @@ title: Styles.StyleDeleteCanceled event (Visio)
 keywords: vis_sdr.chm11519350
 f1_keywords:
 - vis_sdr.chm11519350
-ms.prod: visio
 api_name:
 - Visio.Styles.StyleDeleteCanceled
 ms.assetid: 809941a8-ef8d-0c7c-d9fd-e1806914389d

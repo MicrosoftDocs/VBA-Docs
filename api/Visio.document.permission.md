@@ -2,7 +2,6 @@
 title: Document.Permission property (Visio)
 ms.assetid: 944f11be-053c-7749-178c-5e8b79a32ea8
 ms.date: 06/08/2017
-ms.prod: visio
 ms.localizationpriority: medium
 ---
 

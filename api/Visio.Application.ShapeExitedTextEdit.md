@@ -1,6 +1,5 @@
 ---
 title: Application.ShapeExitedTextEdit event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.ShapeExitedTextEdit
 ms.assetid: a7f04e35-9d36-69fa-637f-4930604037f1

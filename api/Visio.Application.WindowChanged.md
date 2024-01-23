@@ -1,6 +1,5 @@
 ---
 title: Application.WindowChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.WindowChanged
 ms.assetid: 29bb6ea8-4558-38c4-941f-839cd119abba

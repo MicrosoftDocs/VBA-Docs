@@ -3,7 +3,6 @@ title: Application.DeferRecalc property (Visio)
 keywords: vis_sdr.chm10013400
 f1_keywords:
 - vis_sdr.chm10013400
-ms.prod: visio
 api_name:
 - Visio.Application.DeferRecalc
 ms.assetid: 25f7ee2e-8987-f03e-5dee-74550bc19f83

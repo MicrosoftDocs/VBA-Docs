@@ -3,7 +3,6 @@ title: ApplicationSettings.CenterSelectionOnZoom property (Visio)
 keywords: vis_sdr.chm16251900
 f1_keywords:
 - vis_sdr.chm16251900
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.CenterSelectionOnZoom
 ms.assetid: ad7a3867-7200-84de-a599-7826b55e12d0

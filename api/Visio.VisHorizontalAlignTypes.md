@@ -3,7 +3,6 @@ title: VisHorizontalAlignTypes enumeration (Visio)
 keywords: vis_sdr.chm70390
 f1_keywords:
 - vis_sdr.chm70390
-ms.prod: visio
 api_name:
 - Visio.VisHorizontalAlignTypes
 ms.assetid: d7650249-e552-68db-7d37-5fdbf1996c1e

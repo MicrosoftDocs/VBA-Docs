@@ -3,7 +3,6 @@ title: InvisibleApp.ShowStatusBar property (Visio)
 keywords: vis_sdr.chm17514380
 f1_keywords:
 - vis_sdr.chm17514380
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShowStatusBar
 ms.assetid: e58097a2-a5e9-00ca-c3b3-74a3d7717907

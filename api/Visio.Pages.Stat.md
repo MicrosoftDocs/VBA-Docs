@@ -3,7 +3,6 @@ title: Pages.Stat property (Visio)
 keywords: vis_sdr.chm11014420
 f1_keywords:
 - vis_sdr.chm11014420
-ms.prod: visio
 api_name:
 - Visio.Pages.Stat
 ms.assetid: 429cc898-4daf-e269-4e10-ac808f429d62

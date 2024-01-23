@@ -1,6 +1,5 @@
 ---
 title: Application.BeforeWindowPageTurn event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.BeforeWindowPageTurn
 ms.assetid: ddb79c04-7cb4-61fd-a37d-d5969e445d5c

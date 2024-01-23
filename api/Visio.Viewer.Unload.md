@@ -1,6 +1,5 @@
 ---
 title: Viewer.Unload method (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.Unload
 ms.assetid: 4b746cbf-2f81-b4ef-3f5e-4df93a543292

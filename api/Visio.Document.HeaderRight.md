@@ -3,7 +3,6 @@ title: Document.HeaderRight property (Visio)
 keywords: vis_sdr.chm10550655
 f1_keywords:
 - vis_sdr.chm10550655
-ms.prod: visio
 api_name:
 - Visio.Document.HeaderRight
 ms.assetid: 3d702cb7-9b70-5f00-c2ea-b619cbfed37f

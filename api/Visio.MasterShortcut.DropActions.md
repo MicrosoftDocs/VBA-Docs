@@ -3,7 +3,6 @@ title: MasterShortcut.DropActions property (Visio)
 keywords: vis_sdr.chm16013450
 f1_keywords:
 - vis_sdr.chm16013450
-ms.prod: visio
 api_name:
 - Visio.MasterShortcut.DropActions
 ms.assetid: 6c835662-0ae4-4058-6fb9-7299f898150a

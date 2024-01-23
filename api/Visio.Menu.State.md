@@ -3,7 +3,6 @@ title: Menu.State property (Visio)
 keywords: vis_sdr.chm13114425
 f1_keywords:
 - vis_sdr.chm13114425
-ms.prod: visio
 api_name:
 - Visio.Menu.State
 ms.assetid: c670b944-56fd-d3f4-24ce-c0a57e6352a1

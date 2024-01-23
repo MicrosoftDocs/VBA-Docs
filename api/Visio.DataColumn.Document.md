@@ -3,7 +3,6 @@ title: DataColumn.Document property (Visio)
 keywords: vis_sdr.chm16713430
 f1_keywords:
 - vis_sdr.chm16713430
-ms.prod: visio
 api_name:
 - Visio.DataColumn.Document
 ms.assetid: c61bcd20-eeed-37c4-666c-604e27c95ed6

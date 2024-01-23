@@ -1,6 +1,5 @@
 ---
 title: Viewer.Pan method (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.Pan
 ms.assetid: 5cfeabcd-37fa-ade7-2fe0-b1e19259f6cd

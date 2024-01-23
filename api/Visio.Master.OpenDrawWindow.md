@@ -3,7 +3,6 @@ title: Master.OpenDrawWindow method (Visio)
 keywords: vis_sdr.chm10716400
 f1_keywords:
 - vis_sdr.chm10716400
-ms.prod: visio
 api_name:
 - Visio.Master.OpenDrawWindow
 ms.assetid: 5f17d4a0-6b5d-bb85-cff7-047bd18ff1ee

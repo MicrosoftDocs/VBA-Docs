@@ -3,7 +3,6 @@ title: InvisibleApp object (Visio)
 keywords: vis_sdr.chm60185
 f1_keywords:
 - vis_sdr.chm60185
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp
 ms.assetid: 70a30571-2017-af8b-eaa1-bf93c758a46a

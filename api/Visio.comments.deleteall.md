@@ -1,6 +1,5 @@
 ---
 title: Comments.DeleteAll method (Visio)
-ms.prod: visio
 ms.assetid: 50777ed3-553c-90ae-2d30-9dde412fe6b9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Selection.Picture property (Visio)
 keywords: vis_sdr.chm11150765
 f1_keywords:
 - vis_sdr.chm11150765
-ms.prod: visio
 api_name:
 - Visio.Selection.Picture
 ms.assetid: fb3e59d3-2739-beee-441c-ffcee6621aa0

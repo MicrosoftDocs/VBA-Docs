@@ -3,7 +3,6 @@ title: ContainerProperties.AddMember method (Visio)
 keywords: vis_sdr.chm17662355
 f1_keywords:
 - vis_sdr.chm17662355
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.AddMember
 ms.assetid: fcb97d9f-756e-95fb-8dab-d4aac67862c0

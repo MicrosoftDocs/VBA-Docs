@@ -3,7 +3,6 @@ title: Selection.Resize method (Visio)
 keywords: vis_sdr.chm11162205
 f1_keywords:
 - vis_sdr.chm11162205
-ms.prod: visio
 api_name:
 - Visio.Selection.Resize
 ms.assetid: 4fc41631-adb4-9c5a-570f-e8ccaa2701eb

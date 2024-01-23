@@ -1,6 +1,5 @@
 ---
 title: ValidationRules.Document property (Visio)
-ms.prod: visio
 api_name:
 - Visio.ValidationRules.Document
 ms.assetid: cb75bba6-ff75-91fb-0993-7692b9d65f0d

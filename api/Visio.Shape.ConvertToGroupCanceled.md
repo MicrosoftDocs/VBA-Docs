@@ -3,7 +3,6 @@ title: Shape.ConvertToGroupCanceled event (Visio)
 keywords: vis_sdr.chm11219370
 f1_keywords:
 - vis_sdr.chm11219370
-ms.prod: visio
 api_name:
 - Visio.Shape.ConvertToGroupCanceled
 ms.assetid: f5b312cf-97ab-15c8-3d1c-07edd2023a40

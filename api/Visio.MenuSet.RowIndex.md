@@ -3,7 +3,6 @@ title: MenuSet.RowIndex property (Visio)
 keywords: vis_sdr.chm13314255
 f1_keywords:
 - vis_sdr.chm13314255
-ms.prod: visio
 api_name:
 - Visio.MenuSet.RowIndex
 ms.assetid: 70cd9ace-8792-07e3-f7a7-fcb7b3987dbf

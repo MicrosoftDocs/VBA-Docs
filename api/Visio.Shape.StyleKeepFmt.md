@@ -3,7 +3,6 @@ title: Shape.StyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11214450
 f1_keywords:
 - vis_sdr.chm11214450
-ms.prod: visio
 api_name:
 - Visio.Shape.StyleKeepFmt
 ms.assetid: 22403064-fa5d-c0cf-8ee7-0f8ae2895d3c

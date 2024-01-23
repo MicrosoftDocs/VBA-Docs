@@ -1,6 +1,5 @@
 ---
 title: MouseEvent.Application property (Visio)
-ms.prod: visio
 api_name:
 - Visio.MouseEvent.Application
 ms.assetid: 9e1ddf36-4b47-b697-1dd5-914a0442113d

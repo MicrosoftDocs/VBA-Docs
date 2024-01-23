@@ -3,7 +3,6 @@ title: Windows.SelectionChanged event (Visio)
 keywords: vis_sdr.chm11719220
 f1_keywords:
 - vis_sdr.chm11719220
-ms.prod: visio
 api_name:
 - Visio.Windows.SelectionChanged
 ms.assetid: 2e95eefe-5c56-8fd1-f43f-ea97602aa009

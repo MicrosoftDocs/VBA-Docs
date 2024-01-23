@@ -3,7 +3,6 @@ title: VisGraphicPositionVertical enumeration (Visio)
 keywords: vis_sdr.chm70515
 f1_keywords:
 - vis_sdr.chm70515
-ms.prod: visio
 ms.assetid: 75bd2994-1ab6-27fd-560a-c19c5d62a98e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

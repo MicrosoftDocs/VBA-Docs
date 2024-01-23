@@ -1,6 +1,5 @@
 ---
 title: Application.ConvertToGroupCanceled event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.ConvertToGroupCanceled
 ms.assetid: 0cc49837-c819-774c-c69b-45ae86b7fa0d

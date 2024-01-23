@@ -3,7 +3,6 @@ title: Master.BaseID property (Visio)
 keywords: vis_sdr.chm10713135
 f1_keywords:
 - vis_sdr.chm10713135
-ms.prod: visio
 api_name:
 - Visio.Master.BaseID
 ms.assetid: 85ca3c0d-5015-b303-7102-144768acb6a8

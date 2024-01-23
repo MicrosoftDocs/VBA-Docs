@@ -3,7 +3,6 @@ title: Application.CustomToolbars property (Visio)
 keywords: vis_sdr.chm10013355
 f1_keywords:
 - vis_sdr.chm10013355
-ms.prod: visio
 api_name:
 - Visio.Application.CustomToolbars
 ms.assetid: 1c945955-af48-5dd1-f186-d7d0cf02e6d2

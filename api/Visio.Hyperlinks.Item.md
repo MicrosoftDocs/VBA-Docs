@@ -3,7 +3,6 @@ title: Hyperlinks.Item property (Visio)
 keywords: vis_sdr.chm15613765
 f1_keywords:
 - vis_sdr.chm15613765
-ms.prod: visio
 api_name:
 - Visio.Hyperlinks.Item
 ms.assetid: 2254245d-b229-f1a4-fdd2-bce41b2825bb

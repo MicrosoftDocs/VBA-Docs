@@ -3,7 +3,6 @@ title: Hyperlink.AddToFavorites method (Visio)
 keywords: vis_sdr.chm15016065
 f1_keywords:
 - vis_sdr.chm15016065
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.AddToFavorites
 ms.assetid: 21a86316-6a59-dc7e-b4f1-0a3d034ba32a

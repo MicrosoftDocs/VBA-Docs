@@ -3,7 +3,6 @@ title: ValidationIssues.Count property (Visio)
 keywords: vis_sdr.chm18513330
 f1_keywords:
 - vis_sdr.chm18513330
-ms.prod: visio
 api_name:
 - Visio.ValidationIssues.Count
 ms.assetid: 7077d75d-640c-32ee-fdf3-1be37407ab94

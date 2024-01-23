@@ -3,7 +3,6 @@ title: ApplicationSettings.RasterExportFlip property (Visio)
 keywords: vis_sdr.chm16262550
 f1_keywords:
 - vis_sdr.chm16262550
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.RasterExportFlip
 ms.assetid: 1aa94fd4-7d2e-a2db-3291-c86ac4e22573

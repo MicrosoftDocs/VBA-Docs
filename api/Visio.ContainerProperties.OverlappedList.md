@@ -3,7 +3,6 @@ title: ContainerProperties.OverlappedList property (Visio)
 keywords: vis_sdr.chm17662615
 f1_keywords:
 - vis_sdr.chm17662615
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.OverlappedList
 ms.assetid: e0fb8674-f17d-e48f-b7c4-db11d435dbf4

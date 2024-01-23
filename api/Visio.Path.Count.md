@@ -3,7 +3,6 @@ title: Path.Count property (Visio)
 keywords: vis_sdr.chm15413330
 f1_keywords:
 - vis_sdr.chm15413330
-ms.prod: visio
 api_name:
 - Visio.Path.Count
 ms.assetid: 15c9f099-8ad9-b38f-0cc3-64dc62769b29

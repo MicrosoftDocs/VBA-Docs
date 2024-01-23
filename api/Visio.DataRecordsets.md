@@ -3,7 +3,6 @@ title: DataRecordsets object (Visio)
 keywords: vis_sdr.chm61000
 f1_keywords:
 - vis_sdr.chm61000
-ms.prod: visio
 api_name:
 - Visio.DataRecordsets
 ms.assetid: edf6d0dc-2f16-eee0-fd4c-ec4c9409179e

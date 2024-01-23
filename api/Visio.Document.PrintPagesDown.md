@@ -3,7 +3,6 @@ title: Document.PrintPagesDown property (Visio)
 keywords: vis_sdr.chm10514130
 f1_keywords:
 - vis_sdr.chm10514130
-ms.prod: visio
 api_name:
 - Visio.Document.PrintPagesDown
 ms.assetid: eacf72d7-f784-7a2b-0579-8af7991430ea

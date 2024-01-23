@@ -3,7 +3,6 @@ title: MasterShortcut.Delete method (Visio)
 keywords: vis_sdr.chm16016165
 f1_keywords:
 - vis_sdr.chm16016165
-ms.prod: visio
 api_name:
 - Visio.MasterShortcut.Delete
 ms.assetid: fcea6204-cdd1-374e-8310-4424c1c8db78

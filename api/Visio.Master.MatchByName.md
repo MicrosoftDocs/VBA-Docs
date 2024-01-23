@@ -3,7 +3,6 @@ title: Master.MatchByName property (Visio)
 keywords: vis_sdr.chm10713890
 f1_keywords:
 - vis_sdr.chm10713890
-ms.prod: visio
 api_name:
 - Visio.Master.MatchByName
 ms.assetid: 4edb0e5f-7e87-c66d-b842-318cd0eba5d5

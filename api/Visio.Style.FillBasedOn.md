@@ -3,7 +3,6 @@ title: Style.FillBasedOn property (Visio)
 keywords: vis_sdr.chm11413520
 f1_keywords:
 - vis_sdr.chm11413520
-ms.prod: visio
 api_name:
 - Visio.Style.FillBasedOn
 ms.assetid: 22491d16-b440-fcf5-5b77-2f2c9fe1703c

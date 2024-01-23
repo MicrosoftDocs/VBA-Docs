@@ -3,7 +3,6 @@ title: Application.CurrentEdition property (Visio)
 keywords: vis_sdr.chm10062415
 f1_keywords:
 - vis_sdr.chm10062415
-ms.prod: visio
 api_name:
 - Visio.Application.CurrentEdition
 ms.assetid: 11484259-abd3-d727-ff2e-b9bc07fe9c5a

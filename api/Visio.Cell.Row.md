@@ -3,7 +3,6 @@ title: Cell.Row property (Visio)
 keywords: vis_sdr.chm10114240
 f1_keywords:
 - vis_sdr.chm10114240
-ms.prod: visio
 api_name:
 - Visio.Cell.Row
 ms.assetid: b31b981d-8034-db03-b7db-06eb98ac744b

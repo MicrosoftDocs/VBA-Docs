@@ -1,6 +1,5 @@
 ---
 title: Viewer.Zoom property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.Zoom
 ms.assetid: 52bb7493-836e-1e1b-a91e-cb077f881c00

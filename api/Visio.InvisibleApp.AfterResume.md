@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.AfterResume event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AfterResume
 ms.assetid: 1d3e57de-fdbe-3029-0df2-dab0c681f3a5

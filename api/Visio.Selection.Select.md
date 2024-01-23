@@ -3,7 +3,6 @@ title: Selection.Select method (Visio)
 keywords: vis_sdr.chm11116530
 f1_keywords:
 - vis_sdr.chm11116530
-ms.prod: visio
 api_name:
 - Visio.Selection.Select
 ms.assetid: b135632a-1158-1903-0b29-931c88deae21

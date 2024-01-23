@@ -3,7 +3,6 @@ title: Shape.FillStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11213530
 f1_keywords:
 - vis_sdr.chm11213530
-ms.prod: visio
 api_name:
 - Visio.Shape.FillStyleKeepFmt
 ms.assetid: 39fc0329-322e-fd96-2c42-43bdcd170c02

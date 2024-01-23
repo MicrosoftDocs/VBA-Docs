@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.ShapeLinkAdded event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeLinkAdded
 ms.assetid: b7637b06-8d74-04db-c4ab-a64d9b92f8a6

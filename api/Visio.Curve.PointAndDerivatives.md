@@ -3,7 +3,6 @@ title: Curve.PointAndDerivatives method (Visio)
 keywords: vis_sdr.chm15516440
 f1_keywords:
 - vis_sdr.chm15516440
-ms.prod: visio
 api_name:
 - Visio.Curve.PointAndDerivatives
 ms.assetid: 2df3753b-f0f5-37ff-75d9-f63d6fc491dc

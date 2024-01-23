@@ -3,7 +3,6 @@ title: Characters.FieldCode property (Visio)
 keywords: vis_sdr.chm10213505
 f1_keywords:
 - vis_sdr.chm10213505
-ms.prod: visio
 api_name:
 - Visio.Characters.FieldCode
 ms.assetid: 901e6617-2e4b-6f99-f886-e3c7348a306d

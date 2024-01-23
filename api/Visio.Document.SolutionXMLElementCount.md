@@ -3,7 +3,6 @@ title: Document.SolutionXMLElementCount property (Visio)
 keywords: vis_sdr.chm10550860
 f1_keywords:
 - vis_sdr.chm10550860
-ms.prod: visio
 api_name:
 - Visio.Document.SolutionXMLElementCount
 ms.assetid: da72e807-749b-fe05-578b-89289bce970d

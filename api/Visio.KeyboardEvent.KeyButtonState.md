@@ -3,7 +3,6 @@ title: KeyboardEvent.KeyButtonState property (Visio)
 keywords: vis_sdr.chm17051715
 f1_keywords:
 - vis_sdr.chm17051715
-ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.KeyButtonState
 ms.assetid: c2ab3fa3-39c6-fb34-1f56-342cf080d9d5

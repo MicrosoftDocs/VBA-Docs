@@ -3,7 +3,6 @@ title: ApplicationSettings.DefaultSaveFormat property (Visio)
 keywords: vis_sdr.chm16251830
 f1_keywords:
 - vis_sdr.chm16251830
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.DefaultSaveFormat
 ms.assetid: 892953a8-1e69-000a-3099-c6f4baa69079

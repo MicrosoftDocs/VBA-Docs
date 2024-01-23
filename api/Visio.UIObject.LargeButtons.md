@@ -3,7 +3,6 @@ title: UIObject.LargeButtons property (Visio)
 keywords: vis_sdr.chm14913805
 f1_keywords:
 - vis_sdr.chm14913805
-ms.prod: visio
 api_name:
 - Visio.UIObject.LargeButtons
 ms.assetid: 05f6f1e3-ae64-5a8a-cdc6-1efeb02a619f

@@ -3,7 +3,6 @@ title: Shape.FitCurve method (Visio)
 keywords: vis_sdr.chm11216275
 f1_keywords:
 - vis_sdr.chm11216275
-ms.prod: visio
 api_name:
 - Visio.Shape.FitCurve
 ms.assetid: 9055ee19-a021-35b5-1993-6f00c8a5f859

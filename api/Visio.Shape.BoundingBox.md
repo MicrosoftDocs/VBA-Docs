@@ -3,7 +3,6 @@ title: Shape.BoundingBox method (Visio)
 keywords: vis_sdr.chm11216090
 f1_keywords:
 - vis_sdr.chm11216090
-ms.prod: visio
 api_name:
 - Visio.Shape.BoundingBox
 ms.assetid: 68053d27-b7da-9ae7-7557-5d49c8d3e1d6

@@ -3,7 +3,6 @@ title: Pages.CellChanged event (Visio)
 keywords: vis_sdr.chm11019090
 f1_keywords:
 - vis_sdr.chm11019090
-ms.prod: visio
 api_name:
 - Visio.Pages.CellChanged
 ms.assetid: eb25f423-76eb-b82a-953b-460ab2b10a00

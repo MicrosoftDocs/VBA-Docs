@@ -3,7 +3,6 @@ title: DataConnection.Stat property (Visio)
 keywords: vis_sdr.chm16514420
 f1_keywords:
 - vis_sdr.chm16514420
-ms.prod: visio
 api_name:
 - Visio.DataConnection.Stat
 ms.assetid: 1735764f-3014-34d9-eb16-d3a160ac6412

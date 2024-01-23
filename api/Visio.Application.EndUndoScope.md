@@ -3,7 +3,6 @@ title: Application.EndUndoScope method (Visio)
 keywords: vis_sdr.chm10016250
 f1_keywords:
 - vis_sdr.chm10016250
-ms.prod: visio
 api_name:
 - Visio.Application.EndUndoScope
 ms.assetid: 352188d2-8a2a-1a6d-674e-93fce9245810

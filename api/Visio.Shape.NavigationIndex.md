@@ -1,6 +1,5 @@
 ---
 title: Shape.NavigationIndex property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Shape.NavigationIndex
 ms.date: 05/08/2019

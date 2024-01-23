@@ -3,7 +3,6 @@ title: Document.SaveAsEx method (Visio)
 keywords: vis_sdr.chm10516505
 f1_keywords:
 - vis_sdr.chm10516505
-ms.prod: visio
 api_name:
 - Visio.Document.SaveAsEx
 ms.assetid: c0bef38d-1849-67ab-606f-8178de46c7c6

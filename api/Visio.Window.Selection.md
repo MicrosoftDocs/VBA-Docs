@@ -3,7 +3,6 @@ title: Window.Selection property (Visio)
 keywords: vis_sdr.chm11614310
 f1_keywords:
 - vis_sdr.chm11614310
-ms.prod: visio
 api_name:
 - Visio.Window.Selection
 ms.assetid: 67c3b3d3-9fe4-ff0c-db94-4a2109f29736

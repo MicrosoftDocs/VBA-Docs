@@ -3,7 +3,6 @@ title: Application.AutoRecoverInterval property (Visio)
 keywords: vis_sdr.chm10014705
 f1_keywords:
 - vis_sdr.chm10014705
-ms.prod: visio
 api_name:
 - Visio.Application.AutoRecoverInterval
 ms.assetid: 06aa731b-b426-a1a2-a25b-8ac32133eb1a

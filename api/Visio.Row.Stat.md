@@ -3,7 +3,6 @@ title: Row.Stat property (Visio)
 keywords: vis_sdr.chm15814420
 f1_keywords:
 - vis_sdr.chm15814420
-ms.prod: visio
 api_name:
 - Visio.Row.Stat
 ms.assetid: 8a283c64-c7fe-d613-e2fe-0b676b13c75d

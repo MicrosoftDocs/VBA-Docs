@@ -3,7 +3,6 @@ title: Window.Stat property (Visio)
 keywords: vis_sdr.chm11614420
 f1_keywords:
 - vis_sdr.chm11614420
-ms.prod: visio
 api_name:
 - Visio.Window.Stat
 ms.assetid: 4b83c5ab-8c3d-6477-7127-d1a3ec179c2d

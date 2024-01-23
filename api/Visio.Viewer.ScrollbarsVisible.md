@@ -1,6 +1,5 @@
 ---
 title: Viewer.ScrollbarsVisible property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ScrollbarsVisible
 ms.assetid: cd8f5b2d-f604-8bac-2e82-338cfa7d7174

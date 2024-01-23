@@ -3,7 +3,6 @@ title: Shape.LayerCount property (Visio)
 keywords: vis_sdr.chm11213815
 f1_keywords:
 - vis_sdr.chm11213815
-ms.prod: visio
 api_name:
 - Visio.Shape.LayerCount
 ms.assetid: 0ebcdf53-ebf3-8e26-236f-086f2c9f3c08

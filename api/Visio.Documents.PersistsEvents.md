@@ -3,7 +3,6 @@ title: Documents.PersistsEvents property (Visio)
 keywords: vis_sdr.chm10614080
 f1_keywords:
 - vis_sdr.chm10614080
-ms.prod: visio
 api_name:
 - Visio.Documents.PersistsEvents
 ms.assetid: 0c5a4727-680a-7912-4e65-f61f2d1343ee

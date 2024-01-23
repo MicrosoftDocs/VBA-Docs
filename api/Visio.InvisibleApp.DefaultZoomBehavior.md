@@ -3,7 +3,6 @@ title: InvisibleApp.DefaultZoomBehavior property (Visio)
 keywords: vis_sdr.chm17552070
 f1_keywords:
 - vis_sdr.chm17552070
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DefaultZoomBehavior
 ms.assetid: f98caf2f-aee9-de17-bf48-c1912ef69dea
