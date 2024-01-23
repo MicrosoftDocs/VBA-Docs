@@ -1,6 +1,6 @@
 ---
 title: Resource.BCWP property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.BCWP
 ms.assetid: 8fb79ebc-760c-413c-72ef-bd709f20360e

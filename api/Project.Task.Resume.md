@@ -3,7 +3,7 @@ title: Task.Resume property (Project)
 keywords: vbapj.chm132582
 f1_keywords:
 - vbapj.chm132582
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Resume
 ms.assetid: 7a269dc6-8a6c-8bcc-c189-5d70e16526a2

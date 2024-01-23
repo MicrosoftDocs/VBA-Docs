@@ -1,6 +1,6 @@
 ---
 title: Resource.Baseline6BudgetWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Baseline6BudgetWork
 ms.assetid: 48029299-3a28-20aa-a4b2-6ed17ec4ee35

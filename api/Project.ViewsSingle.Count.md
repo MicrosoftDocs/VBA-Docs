@@ -1,6 +1,6 @@
 ---
 title: ViewsSingle.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewsSingle.Count
 ms.assetid: 7f9e9564-b41d-e50a-a8d8-8c9254346351

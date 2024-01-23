@@ -1,6 +1,6 @@
 ---
 title: Application.DateOrder property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DateOrder
 ms.assetid: 9eba39c8-6e4a-3b8c-69c3-82e078269cda

@@ -1,6 +1,6 @@
 ---
 title: Task.AppendNotes method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.AppendNotes
 ms.assetid: ab0177cb-c7cd-444f-0d19-9b798eba8b4a

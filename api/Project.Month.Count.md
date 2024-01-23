@@ -1,6 +1,6 @@
 ---
 title: Month.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Month.Count
 ms.assetid: cf17523e-9b43-ee38-3c45-15936e8d0559

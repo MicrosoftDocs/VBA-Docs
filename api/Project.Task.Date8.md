@@ -1,6 +1,6 @@
 ---
 title: Task.Date8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Date8
 ms.assetid: 190946c1-50da-3b0a-2e54-debee39cb46f

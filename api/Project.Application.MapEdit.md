@@ -3,7 +3,7 @@ title: Application.MapEdit method (Project)
 keywords: vbapj.chm243
 f1_keywords:
 - vbapj.chm243
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MapEdit
 ms.assetid: 316d596e-95b3-d616-c8d6-21da651ff284

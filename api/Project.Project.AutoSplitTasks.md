@@ -3,7 +3,7 @@ title: Project.AutoSplitTasks property (Project)
 keywords: vbapj.chm131408
 f1_keywords:
 - vbapj.chm131408
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.AutoSplitTasks
 ms.assetid: 46e74dad-ad8f-7fa8-83f5-14094a259e41

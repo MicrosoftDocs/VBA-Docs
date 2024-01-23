@@ -1,6 +1,6 @@
 ---
 title: Shape.Chart property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: a6119a34-489f-ef5e-3e36-b48cd1134c98
 ms.date: 06/08/2017
 ms.localizationpriority: medium

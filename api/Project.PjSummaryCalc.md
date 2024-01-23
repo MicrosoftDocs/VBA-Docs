@@ -1,6 +1,6 @@
 ---
 title: PjSummaryCalc enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjSummaryCalc
 ms.assetid: 90f7ebf7-cc66-c92d-e1d5-6f3d7cd942be

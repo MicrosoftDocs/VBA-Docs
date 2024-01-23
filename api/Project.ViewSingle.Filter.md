@@ -3,7 +3,7 @@ title: ViewSingle.Filter property (Project)
 keywords: vbapj.chm132801
 f1_keywords:
 - vbapj.chm132801
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Filter
 ms.assetid: 43a7443e-dbd8-8139-499b-49af0eeb4ac2

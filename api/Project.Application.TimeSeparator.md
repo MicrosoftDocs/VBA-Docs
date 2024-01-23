@@ -1,6 +1,6 @@
 ---
 title: Application.TimeSeparator property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TimeSeparator
 ms.assetid: e0846c88-f8d6-0c73-d72a-2d0f20ee05ba

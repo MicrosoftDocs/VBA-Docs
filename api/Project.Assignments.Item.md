@@ -1,6 +1,6 @@
 ---
 title: Assignments.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignments.Item
 ms.assetid: 47db50f7-9bcc-ebeb-0189-4d493be4d174

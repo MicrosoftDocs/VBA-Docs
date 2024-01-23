@@ -1,6 +1,6 @@
 ---
 title: Window.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Index
 ms.assetid: 0603f1c2-9a2a-9411-d9ef-47115f576d64

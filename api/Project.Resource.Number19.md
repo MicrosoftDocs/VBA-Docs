@@ -1,6 +1,6 @@
 ---
 title: Resource.Number19 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Number19
 ms.assetid: e7e1b149-f76e-97dc-b60e-a1682020a30e

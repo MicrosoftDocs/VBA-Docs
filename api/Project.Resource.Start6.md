@@ -1,6 +1,6 @@
 ---
 title: Resource.Start6 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Start6
 ms.assetid: 01259f6f-f9e4-3305-10eb-848d1ea1ef31

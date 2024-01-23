@@ -1,6 +1,6 @@
 ---
 title: Windows.ActiveWindow property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Windows.ActiveWindow
 ms.assetid: e8decf8c-c16f-0cc6-9208-f3cd89ff750d

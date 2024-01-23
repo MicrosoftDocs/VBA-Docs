@@ -3,7 +3,7 @@ title: Application.VBE property (Project)
 keywords: vbapj.chm132786
 f1_keywords:
 - vbapj.chm132786
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.VBE
 ms.assetid: abd71fdd-1ae8-5b29-a2a3-0ffedde3f667

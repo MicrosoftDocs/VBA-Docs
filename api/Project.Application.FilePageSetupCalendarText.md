@@ -3,7 +3,7 @@ title: Application.FilePageSetupCalendarText method (Project)
 keywords: vbapj.chm2371
 f1_keywords:
 - vbapj.chm2371
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FilePageSetupCalendarText
 ms.assetid: 279e4f0e-f2fb-0822-bf75-700b365c301d

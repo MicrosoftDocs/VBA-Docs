@@ -1,6 +1,6 @@
 ---
 title: PjPoolOpen enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjPoolOpen
 ms.assetid: d953d1cb-f8f9-740a-f20c-6ac1e2ee0366

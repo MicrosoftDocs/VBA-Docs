@@ -1,6 +1,6 @@
 ---
 title: Application.UsableHeight property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.UsableHeight
 ms.assetid: f0cd8b86-a619-022a-5e26-8d4c5e815af3

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline9Finish property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Baseline9Finish
 ms.assetid: 57889822-a28e-4ed5-d972-0c63bef29fc2

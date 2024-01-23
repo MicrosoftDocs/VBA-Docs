@@ -1,6 +1,6 @@
 ---
 title: Availabilities.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Availabilities.Application
 ms.assetid: 4f9630cc-193a-bd0f-fbfd-405e454b2a85

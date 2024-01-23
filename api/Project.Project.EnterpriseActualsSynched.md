@@ -3,7 +3,7 @@ title: Project.EnterpriseActualsSynched property (Project)
 keywords: vbapj.chm131084
 f1_keywords:
 - vbapj.chm131084
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.EnterpriseActualsSynched
 ms.assetid: b05fdf74-cd8d-9126-354d-cacf66fd6ce6

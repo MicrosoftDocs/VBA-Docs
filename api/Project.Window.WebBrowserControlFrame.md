@@ -3,7 +3,7 @@ title: Window.WebBrowserControlFrame method (Project)
 keywords: vbapj.chm131100
 f1_keywords:
 - vbapj.chm131100
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.WebBrowserControlFrame
 ms.assetid: 29be55e7-02eb-d382-4759-4e1345381db8

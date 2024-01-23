@@ -1,6 +1,6 @@
 ---
 title: Cell.Task property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.Task
 ms.assetid: ba23b56f-e817-1ea3-bed6-b83342c2bded

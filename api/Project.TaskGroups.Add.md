@@ -1,6 +1,6 @@
 ---
 title: TaskGroups.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskGroups.Add
 ms.assetid: e64d55db-6adc-5a6f-5b60-cd99bc1ab82a

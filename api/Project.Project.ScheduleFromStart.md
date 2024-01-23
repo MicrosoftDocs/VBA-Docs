@@ -3,7 +3,7 @@ title: Project.ScheduleFromStart property (Project)
 keywords: vbapj.chm132599
 f1_keywords:
 - vbapj.chm132599
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ScheduleFromStart
 ms.assetid: e6f792cf-3b91-9bcd-92c0-e9b2418477d0

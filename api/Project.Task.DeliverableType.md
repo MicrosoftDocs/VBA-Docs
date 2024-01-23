@@ -1,6 +1,6 @@
 ---
 title: Task.DeliverableType property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.DeliverableType
 ms.assetid: 4170340d-ea80-54ab-b65a-08ee062ad41b

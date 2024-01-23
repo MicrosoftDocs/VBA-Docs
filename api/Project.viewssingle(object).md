@@ -1,6 +1,6 @@
 ---
 title: ViewsSingle object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: bd6f698b-780f-294a-037b-45c63b9a1c23
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: Task.WBSPredecessors property (Project)
 keywords: vbapj.chm132764
 f1_keywords:
 - vbapj.chm132764
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.WBSPredecessors
 ms.assetid: e4f71c96-44dc-9074-b424-2b4a7f939988

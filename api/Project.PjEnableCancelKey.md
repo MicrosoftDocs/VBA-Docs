@@ -1,6 +1,6 @@
 ---
 title: PjEnableCancelKey enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjEnableCancelKey
 ms.assetid: a50ff9ef-7462-a414-8680-a127b1bdc9a3

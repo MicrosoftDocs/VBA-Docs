@@ -1,6 +1,6 @@
 ---
 title: PjPageSetupCalendarItem enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjPageSetupCalendarItem
 ms.assetid: 2f1af0b4-7e34-fcfd-4290-5936e85275a8

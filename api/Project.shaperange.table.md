@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Table property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 622dda67-8247-f94f-7b7d-506b06571f88
 ms.date: 06/08/2017
 ms.localizationpriority: medium

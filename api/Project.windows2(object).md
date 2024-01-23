@@ -3,7 +3,7 @@ title: Windows2 object (Project)
 keywords: vbapj.chm131358
 f1_keywords:
 - vbapj.chm131358
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: a58383c6-12c7-81b3-10e8-81ba9180404c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

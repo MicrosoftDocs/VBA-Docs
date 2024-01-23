@@ -1,6 +1,6 @@
 ---
 title: CalendarDrivers.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CalendarDrivers.Count
 ms.assetid: d8eb0e9a-84e3-241a-c9aa-4df2ec99bc89

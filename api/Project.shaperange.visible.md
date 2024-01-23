@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Visible property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 7abb0c71-7079-1b40-ef00-90f7eef2fce4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

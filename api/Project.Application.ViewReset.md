@@ -3,7 +3,7 @@ title: Application.ViewReset method (Project)
 keywords: vbapj.chm309
 f1_keywords:
 - vbapj.chm309
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewReset
 ms.assetid: ea972480-6417-55a7-9b8e-6cc9944df6c9

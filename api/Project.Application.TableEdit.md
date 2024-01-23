@@ -3,7 +3,7 @@ title: Application.TableEdit method (Project)
 keywords: vbapj.chm403
 f1_keywords:
 - vbapj.chm403
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TableEdit
 ms.assetid: 370ab75d-9b99-b4b3-db5f-96697320bc68

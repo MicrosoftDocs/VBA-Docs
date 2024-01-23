@@ -3,7 +3,7 @@ title: Application.BaselineClear method (Project)
 keywords: vbapj.chm2384
 f1_keywords:
 - vbapj.chm2384
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BaselineClear
 ms.assetid: a319fc88-2421-eafa-e498-4a0a5f173394

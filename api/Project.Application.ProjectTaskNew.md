@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectTaskNew event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectTaskNew
 ms.assetid: 40e9d8da-f863-a73e-56e9-bb89327142fb

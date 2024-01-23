@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Flip method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: e9cc1139-de66-c49a-faf2-4e8adbbc6eab
 ms.date: 06/08/2017
 ms.localizationpriority: medium

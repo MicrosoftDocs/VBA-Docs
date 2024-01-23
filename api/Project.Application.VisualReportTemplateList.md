@@ -3,7 +3,7 @@ title: Application.VisualReportTemplateList property (Project)
 keywords: vbapj.chm132812
 f1_keywords:
 - vbapj.chm132812
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.VisualReportTemplateList
 ms.assetid: b756c00f-7f76-9697-711e-400762cc48c3

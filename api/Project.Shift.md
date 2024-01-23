@@ -1,6 +1,6 @@
 ---
 title: Shift object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Shift
 ms.assetid: bf224646-d1c6-bc4a-1cce-a08b2f4e417d

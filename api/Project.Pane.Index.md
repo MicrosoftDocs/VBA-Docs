@@ -1,6 +1,6 @@
 ---
 title: Pane.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Pane.Index
 ms.assetid: 6989c013-eb83-05ea-77c4-1c90517f389b

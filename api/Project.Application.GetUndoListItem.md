@@ -3,7 +3,7 @@ title: Application.GetUndoListItem method (Project)
 keywords: vbapj.chm131097
 f1_keywords:
 - vbapj.chm131097
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GetUndoListItem
 ms.assetid: e77826ab-118d-2b69-6f99-cb8ce65afb43

@@ -3,7 +3,7 @@ title: Application.GanttBarStyleSlack method (Project)
 keywords: vbapj.chm81
 f1_keywords:
 - vbapj.chm81
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarStyleSlack
 ms.assetid: ccd8feb0-8551-c3fd-3ce5-ca90baaff910

@@ -3,7 +3,7 @@ title: Application.DateDifference method (Project)
 keywords: vbapj.chm131207
 f1_keywords:
 - vbapj.chm131207
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DateDifference
 ms.assetid: 7f34e866-5cd3-971d-42ee-39e7768c1273

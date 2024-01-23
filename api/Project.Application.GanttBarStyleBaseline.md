@@ -3,7 +3,7 @@ title: Application.GanttBarStyleBaseline method (Project)
 keywords: vbapj.chm83
 f1_keywords:
 - vbapj.chm83
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarStyleBaseline
 ms.assetid: c9cb0ebb-998c-c9ea-9d3f-5cb06813c364

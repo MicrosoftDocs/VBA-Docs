@@ -3,7 +3,7 @@ title: Project.TaskTableList property (Project)
 keywords: vbapj.chm132713
 f1_keywords:
 - vbapj.chm132713
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.TaskTableList
 ms.assetid: a36abbcb-db7d-f593-7e5c-df00fd96f010

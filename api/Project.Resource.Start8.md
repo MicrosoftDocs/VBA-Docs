@@ -1,6 +1,6 @@
 ---
 title: Resource.Start8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Start8
 ms.assetid: cc5468ba-efa5-c54b-7a34-992f982d232c

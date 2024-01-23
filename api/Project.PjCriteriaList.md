@@ -1,6 +1,6 @@
 ---
 title: PjCriteriaList enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCriteriaList
 ms.assetid: bff09adf-421a-60e8-5140-a326c2ae6b34

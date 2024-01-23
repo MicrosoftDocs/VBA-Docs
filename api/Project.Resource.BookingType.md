@@ -1,6 +1,6 @@
 ---
 title: Resource.BookingType property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.BookingType
 ms.assetid: f90b1cca-f8a4-73a1-939f-7dea837fd8f5

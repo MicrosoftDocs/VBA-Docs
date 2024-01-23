@@ -3,7 +3,7 @@ title: Application.SetResourceFieldByID method (Project)
 keywords: vbapj.chm96
 f1_keywords:
 - vbapj.chm96
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetResourceFieldByID
 ms.assetid: 1309ee61-6b66-db45-ed69-b0b3dd9b8dda

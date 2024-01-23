@@ -1,6 +1,6 @@
 ---
 title: Chart.ChartArea property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 384eb030-741d-e69d-cd27-d4e414d7da8c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

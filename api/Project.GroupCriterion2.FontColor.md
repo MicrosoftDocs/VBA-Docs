@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.FontColor property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion2.FontColor
 ms.assetid: 9a6d763b-b31a-4dc2-0eb2-a94ae2f15d04

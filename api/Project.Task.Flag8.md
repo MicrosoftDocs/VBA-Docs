@@ -1,6 +1,6 @@
 ---
 title: Task.Flag8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Flag8
 ms.assetid: 50e174bb-93fd-074b-ded7-a49ef55d87b4

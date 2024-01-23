@@ -1,6 +1,6 @@
 ---
 title: PredecessorDrivers.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PredecessorDrivers.Count
 ms.assetid: c236b441-dd44-4ce4-5069-ba3c2209f6a8

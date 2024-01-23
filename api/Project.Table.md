@@ -1,6 +1,6 @@
 ---
 title: Table object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Table
 ms.assetid: f50f5d2d-a733-c5b0-16d8-e4ee98943321

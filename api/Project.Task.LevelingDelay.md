@@ -1,6 +1,6 @@
 ---
 title: Task.LevelingDelay property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.LevelingDelay
 ms.assetid: 1fef1717-3a6d-b1c4-9350-c66db095539b

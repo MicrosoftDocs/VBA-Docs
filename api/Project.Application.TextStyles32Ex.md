@@ -3,7 +3,7 @@ title: Application.TextStyles32Ex method (Project)
 keywords: vbapj.chm2150
 f1_keywords:
 - vbapj.chm2150
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TextStyles32Ex
 ms.assetid: 8e1ed2bb-dac4-42d7-616b-a67984dcffa4

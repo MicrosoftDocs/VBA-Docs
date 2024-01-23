@@ -1,6 +1,6 @@
 ---
 title: Project.ReadOnly property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ReadOnly
 ms.assetid: 9ec47083-afb5-b51d-96e3-c460b02f2012

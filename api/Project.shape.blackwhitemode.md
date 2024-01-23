@@ -1,6 +1,6 @@
 ---
 title: Shape.BlackWhiteMode property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: eaa9367b-3a68-6c55-328f-766dd79ff274
 ms.date: 06/08/2017
 ms.localizationpriority: medium

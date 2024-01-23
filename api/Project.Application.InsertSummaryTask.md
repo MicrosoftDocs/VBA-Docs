@@ -3,7 +3,7 @@ title: Application.InsertSummaryTask method (Project)
 keywords: vbapj.chm2180
 f1_keywords:
 - vbapj.chm2180
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertSummaryTask
 ms.assetid: efcbf0d9-5912-d6c4-9204-e939af0193ad

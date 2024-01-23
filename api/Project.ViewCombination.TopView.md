@@ -3,7 +3,7 @@ title: ViewCombination.TopView property (Project)
 keywords: vbapj.chm132793
 f1_keywords:
 - vbapj.chm132793
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewCombination.TopView
 ms.assetid: dc5bfad0-750c-34a3-ba30-403d18c299e1

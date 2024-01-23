@@ -1,6 +1,6 @@
 ---
 title: PjCopyPictureFor enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCopyPictureFor
 ms.assetid: 2fcbc75a-0d38-c857-d9ac-2f27100b9b01

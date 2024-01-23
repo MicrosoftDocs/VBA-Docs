@@ -1,6 +1,6 @@
 ---
 title: Exceptions.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exceptions.Item
 ms.assetid: 3e579cad-5061-933e-3096-3638c9dc04ca

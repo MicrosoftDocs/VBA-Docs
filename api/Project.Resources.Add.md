@@ -1,6 +1,6 @@
 ---
 title: Resources.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resources.Add
 ms.assetid: 4fb69f50-4ba6-89a4-f586-3df268ae7fd5

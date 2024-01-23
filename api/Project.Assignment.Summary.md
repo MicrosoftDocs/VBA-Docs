@@ -1,6 +1,6 @@
 ---
 title: Assignment.Summary property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Summary
 ms.assetid: 7f8f38f3-c712-0f4e-6b46-0d8eb02119f4

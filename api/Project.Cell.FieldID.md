@@ -3,7 +3,7 @@ title: Cell.FieldID property (Project)
 keywords: vbapj.chm132205
 f1_keywords:
 - vbapj.chm132205
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.FieldID
 ms.assetid: fe7d7a7a-ebc8-4423-31de-48977cc248e1

@@ -3,7 +3,7 @@ title: Application.CalendarBestFitWeekHeight method (Project)
 keywords: vbapj.chm2327
 f1_keywords:
 - vbapj.chm2327
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CalendarBestFitWeekHeight
 ms.assetid: 58b7e8e8-4001-ef47-c7ba-71af617768eb

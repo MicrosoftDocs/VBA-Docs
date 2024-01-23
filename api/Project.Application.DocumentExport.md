@@ -3,7 +3,7 @@ title: Application.DocumentExport method (Project)
 keywords: vbapj.chm2173
 f1_keywords:
 - vbapj.chm2173
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DocumentExport
 ms.assetid: 891bf868-1256-2688-cdb2-2bccfbf2afc2

@@ -1,6 +1,6 @@
 ---
 title: PjLineType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLineType
 ms.assetid: 1bbd5c65-b6c5-a190-ce5e-dfdd326e1975

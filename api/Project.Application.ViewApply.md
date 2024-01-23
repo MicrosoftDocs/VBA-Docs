@@ -3,7 +3,7 @@ title: Application.ViewApply method (Project)
 keywords: vbapj.chm302
 f1_keywords:
 - vbapj.chm302
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewApply
 ms.assetid: 3e0d3fbd-5aa7-ceb8-b926-79646986d464

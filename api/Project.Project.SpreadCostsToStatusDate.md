@@ -1,6 +1,6 @@
 ---
 title: Project.SpreadCostsToStatusDate property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.SpreadCostsToStatusDate
 ms.assetid: e8e42269-3cba-46bd-d600-ea66b7b762c6

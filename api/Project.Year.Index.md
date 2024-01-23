@@ -1,6 +1,6 @@
 ---
 title: Year.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Year.Index
 ms.assetid: e7f61fa9-cc41-291f-cdde-b6ee55e997fc

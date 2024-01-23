@@ -3,7 +3,7 @@ title: Application.PageBreakSet method (Project)
 keywords: vbapj.chm934
 f1_keywords:
 - vbapj.chm934
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.PageBreakSet
 ms.assetid: 0d7b831f-7343-e773-36ef-cedd780f9cc5

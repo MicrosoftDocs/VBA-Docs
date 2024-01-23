@@ -1,6 +1,6 @@
 ---
 title: Months.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Months.Item
 ms.assetid: 1045ef3e-7d08-0390-008c-36c7b5b5a2ce

@@ -3,7 +3,7 @@ title: Application.ActiveCell property (Project)
 keywords: vbapj.chm131368
 f1_keywords:
 - vbapj.chm131368
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ActiveCell
 ms.assetid: 880931d8-fc23-7938-e4fe-bd800eeae318

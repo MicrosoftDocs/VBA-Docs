@@ -1,6 +1,6 @@
 ---
 title: Assignment.Cost3 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Cost3
 ms.assetid: 6da4eddf-fc32-5b03-79a9-951fa0aab941

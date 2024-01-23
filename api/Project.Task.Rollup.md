@@ -3,7 +3,7 @@ title: Task.Rollup property (Project)
 keywords: vbapj.chm132588
 f1_keywords:
 - vbapj.chm132588
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Rollup
 ms.assetid: 8f29afc1-85ec-d835-bc08-7311e9063ae4

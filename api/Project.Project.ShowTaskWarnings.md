@@ -3,7 +3,7 @@ title: Project.ShowTaskWarnings property (Project)
 keywords: vbapj.chm131123
 f1_keywords:
 - vbapj.chm131123
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ShowTaskWarnings
 ms.assetid: 36b74b7e-4d81-e01f-d011-9325bef6bc43

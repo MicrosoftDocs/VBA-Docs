@@ -3,7 +3,7 @@ title: Application.ResourceCalendars method (Project)
 keywords: vbapj.chm605
 f1_keywords:
 - vbapj.chm605
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceCalendars
 ms.assetid: 8c40cfad-ec40-43a4-5698-de5abaea7243

@@ -3,7 +3,7 @@ title: Application.EditPaste method (Project)
 keywords: vbapj.chm206
 f1_keywords:
 - vbapj.chm206
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EditPaste
 ms.assetid: 88413d66-9ccb-99c4-35ca-f6b51d984e22

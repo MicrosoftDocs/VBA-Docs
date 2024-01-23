@@ -1,6 +1,6 @@
 ---
 title: Application.ConnectionStatusChanged event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ConnectionStatusChanged
 ms.assetid: ffc6fc8a-f5b7-3a3d-4829-712a8305ed17

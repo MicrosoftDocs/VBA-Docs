@@ -1,6 +1,6 @@
 ---
 title: Project.HoursPerDay property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.HoursPerDay
 ms.assetid: 2bd315b1-c9b6-6de3-66b9-23ae8895c2d7

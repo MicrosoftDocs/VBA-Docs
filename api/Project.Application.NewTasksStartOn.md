@@ -3,7 +3,7 @@ title: Application.NewTasksStartOn method (Project)
 keywords: vbapj.chm2295
 f1_keywords:
 - vbapj.chm2295
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.NewTasksStartOn
 ms.assetid: c5009674-105e-a861-56f0-4847926d6c36

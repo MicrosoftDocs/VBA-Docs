@@ -3,7 +3,7 @@ title: Application.OptionsSecurityTab method (Project)
 keywords: vbapj.chm2504
 f1_keywords:
 - vbapj.chm2504
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.OptionsSecurityTab
 ms.assetid: f19ecd9c-2507-e437-7780-cf4998b7fd48

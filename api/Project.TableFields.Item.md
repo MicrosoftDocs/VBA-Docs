@@ -1,6 +1,6 @@
 ---
 title: TableFields.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TableFields.Item
 ms.assetid: 42f07d86-960b-4b4f-edba-57bf65ad2d60

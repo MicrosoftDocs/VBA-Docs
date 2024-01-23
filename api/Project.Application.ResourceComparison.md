@@ -3,7 +3,7 @@ title: Application.ResourceComparison method (Project)
 keywords: vbapj.chm2185
 f1_keywords:
 - vbapj.chm2185
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceComparison
 ms.assetid: 42223a8d-cc71-26c0-35e8-c184b40a46c2

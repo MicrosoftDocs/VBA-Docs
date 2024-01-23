@@ -1,6 +1,6 @@
 ---
 title: Assignment.BudgetCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.BudgetCost
 ms.assetid: 1f7ec7dd-8733-7050-e038-29a917f155ff

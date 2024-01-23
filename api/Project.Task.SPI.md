@@ -3,7 +3,7 @@ title: Task.SPI property (Project)
 keywords: vbapj.chm132589
 f1_keywords:
 - vbapj.chm132589
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.SPI
 ms.assetid: aeb99805-b293-e94c-1c68-b73cafef658b

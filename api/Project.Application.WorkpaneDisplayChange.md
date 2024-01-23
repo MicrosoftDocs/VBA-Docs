@@ -1,6 +1,6 @@
 ---
 title: Application.WorkpaneDisplayChange event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WorkpaneDisplayChange
 ms.assetid: 8fad51ed-57f5-a34d-6ef6-f699b605c10c

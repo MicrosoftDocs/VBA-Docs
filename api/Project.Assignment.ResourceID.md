@@ -1,6 +1,6 @@
 ---
 title: Assignment.ResourceID property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.ResourceID
 ms.assetid: 8f2a5c6f-a674-5c63-4795-a72b14685d2d

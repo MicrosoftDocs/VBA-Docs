@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.Screen property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Screen
 ms.assetid: 4d612d77-eb00-a6ed-bf13-dd73ae8bbafe

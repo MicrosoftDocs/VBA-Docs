@@ -1,6 +1,6 @@
 ---
 title: Application.AutomaticallyFillPhoneticFields property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AutomaticallyFillPhoneticFields
 ms.assetid: 2c4eef7e-bde4-6aa9-b383-7634447997a0

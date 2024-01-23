@@ -1,6 +1,6 @@
 ---
 title: Application.GetProjectServerSettingsEx method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GetProjectServerSettingsEx
 ms.assetid: cd630197-60e0-0ba8-e01e-114b82fe9f1e

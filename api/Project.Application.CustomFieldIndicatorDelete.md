@@ -3,7 +3,7 @@ title: Application.CustomFieldIndicatorDelete method (Project)
 keywords: vbapj.chm39
 f1_keywords:
 - vbapj.chm39
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CustomFieldIndicatorDelete
 ms.assetid: 729eafe9-4d1a-07a6-efbc-ab0c94e3af59

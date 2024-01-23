@@ -1,6 +1,6 @@
 ---
 title: PjGanttBarLink enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjGanttBarLink
 ms.assetid: aa55b82c-f639-ad1d-b156-861f006267f4

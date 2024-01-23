@@ -1,6 +1,6 @@
 ---
 title: PjBarEndShape enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBarEndShape
 ms.assetid: 0598711b-46ad-1940-103b-12345f32efd8

@@ -1,6 +1,6 @@
 ---
 title: OutlineCodes.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.OutlineCodes.Add
 ms.assetid: e33dcb6b-90a3-e52c-099a-f0a901b3f3f7

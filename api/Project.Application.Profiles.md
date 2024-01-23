@@ -3,7 +3,7 @@ title: Application.Profiles property (Project)
 keywords: vbapj.chm132515
 f1_keywords:
 - vbapj.chm132515
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Profiles
 ms.assetid: 4b57eb31-f73d-6587-c555-fc14220e4a2a

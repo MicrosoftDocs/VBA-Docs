@@ -1,6 +1,6 @@
 ---
 title: PayRates.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PayRates.Item
 ms.assetid: 9f96dbbe-57a2-5c63-98c0-87688ae1b93c

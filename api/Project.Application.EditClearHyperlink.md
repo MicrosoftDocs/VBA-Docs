@@ -3,7 +3,7 @@ title: Application.EditClearHyperlink method (Project)
 keywords: vbapj.chm1316
 f1_keywords:
 - vbapj.chm1316
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EditClearHyperlink
 ms.assetid: 386e9e73-5c65-0baf-2125-4dbb50675eb1

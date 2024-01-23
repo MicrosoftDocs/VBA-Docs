@@ -1,6 +1,6 @@
 ---
 title: PjVerticalAlignment enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjVerticalAlignment
 ms.assetid: 4c49f78c-7ebd-a158-9574-c06dcfeeafd8

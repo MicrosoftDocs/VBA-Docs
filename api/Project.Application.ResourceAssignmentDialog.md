@@ -3,7 +3,7 @@ title: Application.ResourceAssignmentDialog method (Project)
 keywords: vbapj.chm943
 f1_keywords:
 - vbapj.chm943
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceAssignmentDialog
 ms.assetid: efe91944-bdfa-a15c-6f28-44fe4d629974

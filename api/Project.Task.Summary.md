@@ -1,6 +1,6 @@
 ---
 title: Task.Summary property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Summary
 ms.assetid: 252591e8-da5c-1b5e-a195-09deb44754af

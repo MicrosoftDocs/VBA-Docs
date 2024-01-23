@@ -1,6 +1,6 @@
 ---
 title: Resource.UpdateNeeded property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.UpdateNeeded
 ms.assetid: 2227b672-f2ef-0b7c-2970-59942bcaa86f

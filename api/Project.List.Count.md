@@ -1,6 +1,6 @@
 ---
 title: List.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.List.Count
 ms.assetid: d417857d-99f9-3c82-f211-4dd0241deb44

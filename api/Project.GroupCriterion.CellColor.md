@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.CellColor property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion.CellColor
 ms.assetid: dcddcac1-e935-9e60-9611-5bf77267c5f1

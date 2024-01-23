@@ -1,6 +1,6 @@
 ---
 title: Resource.Start3 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Start3
 ms.assetid: dd182000-c498-1f7f-bbb6-93dc771e816f

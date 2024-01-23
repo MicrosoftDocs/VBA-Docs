@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverablesGetServerCachedXml method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverablesGetServerCachedXml
 ms.assetid: 57bd4f31-26c4-9cdf-bfdf-43f14be2c340

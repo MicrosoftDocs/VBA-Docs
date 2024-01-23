@@ -3,7 +3,7 @@ title: Application.Edition property (Project)
 keywords: vbapj.chm131789
 f1_keywords:
 - vbapj.chm131789
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Edition
 ms.assetid: 3277932e-5d23-a5c3-8928-e41557d542e2

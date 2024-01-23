@@ -3,7 +3,7 @@ title: Application.CustomFieldValueListDelete method (Project)
 keywords: vbapj.chm42
 f1_keywords:
 - vbapj.chm42
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CustomFieldValueListDelete
 ms.assetid: f8c513b6-2aab-3e42-ca97-7f91f88f5b61

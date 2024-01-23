@@ -3,7 +3,7 @@ title: Assignment.TaskName property (Project)
 keywords: vbapj.chm132710
 f1_keywords:
 - vbapj.chm132710
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.TaskName
 ms.assetid: 9fb4480c-520d-1a8b-a07f-b83497e07467

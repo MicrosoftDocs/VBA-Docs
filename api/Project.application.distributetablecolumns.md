@@ -3,7 +3,7 @@ title: Application.DistributeTableColumns method (Project)
 keywords: vbapj.chm1518
 f1_keywords:
 - vbapj.chm1518
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: e8523495-e90b-4a01-5c99-c522dd140704
 ms.date: 06/08/2017
 ms.localizationpriority: medium

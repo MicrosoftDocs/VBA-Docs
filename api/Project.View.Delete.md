@@ -1,6 +1,6 @@
 ---
 title: View.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.View.Delete
 ms.assetid: fe255f80-95cb-2ce7-ef52-510203d41962

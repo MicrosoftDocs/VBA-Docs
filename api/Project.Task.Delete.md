@@ -1,6 +1,6 @@
 ---
 title: Task.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Delete
 ms.assetid: 18129d17-2dc5-1de6-1e16-642bbd191f8f

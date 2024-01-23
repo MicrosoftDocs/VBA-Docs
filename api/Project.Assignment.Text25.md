@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text25 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Text25
 ms.assetid: 67cd48cc-5517-37e4-64a9-2ce4fc609963

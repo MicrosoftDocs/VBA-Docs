@@ -1,6 +1,6 @@
 ---
 title: WorkWeekDay.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeekDay.Count
 ms.assetid: 242bb040-d7ec-187f-4946-c5d38c8c29a0

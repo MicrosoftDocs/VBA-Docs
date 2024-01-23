@@ -1,6 +1,6 @@
 ---
 title: Task.ACWP property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ACWP
 ms.assetid: ca3ae77d-f31f-6992-55ca-920072a5ddf2

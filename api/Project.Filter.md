@@ -3,7 +3,7 @@ title: Filter object (Project)
 keywords: vbapj.chm131289
 f1_keywords:
 - vbapj.chm131289
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Filter
 ms.assetid: abcd72a7-b86b-783e-16e0-f50a48b1fed2

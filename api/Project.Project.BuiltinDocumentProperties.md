@@ -1,6 +1,6 @@
 ---
 title: Project.BuiltinDocumentProperties property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.BuiltinDocumentProperties
 ms.assetid: 7922b8e8-d2a9-be77-b1e5-e33d4a37887c

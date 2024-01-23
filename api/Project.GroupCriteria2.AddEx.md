@@ -3,7 +3,7 @@ title: GroupCriteria2.AddEx method (Project)
 keywords: vbapj.chm132308
 f1_keywords:
 - vbapj.chm132308
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriteria2.AddEx
 ms.assetid: 8474aa63-bf63-be29-86ef-177d8105e105

@@ -3,7 +3,7 @@ title: Application.ResourceAddressBook method (Project)
 keywords: vbapj.chm2115
 f1_keywords:
 - vbapj.chm2115
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceAddressBook
 ms.assetid: 012ba9fe-f86e-4d1c-ab24-7a500d8f3b0a

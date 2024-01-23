@@ -1,6 +1,6 @@
 ---
 title: Groups object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 2e4c4846-6193-fc12-ad02-0dd69f88b31e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

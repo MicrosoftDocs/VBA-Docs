@@ -3,7 +3,7 @@ title: Application.ReassignSelectedAssns method (Project)
 keywords: vbapj.chm1512
 f1_keywords:
 - vbapj.chm1512
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ReassignSelectedAssns
 ms.assetid: ab3df7f1-bc36-2b8a-23d7-30ee0387a785

@@ -3,7 +3,7 @@ title: Application.ViewBar method (Project)
 keywords: vbapj.chm966
 f1_keywords:
 - vbapj.chm966
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewBar
 ms.assetid: c1bb0168-4ba9-82c2-8043-ece0138e3695

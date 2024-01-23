@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Top property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 5860c7b6-4bdc-dcce-7011-0aa0895e9d3d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: Assignment.ResourceGuid property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.ResourceGuid
 ms.assetid: d3def8ce-3eed-700a-2021-71c2b4669697

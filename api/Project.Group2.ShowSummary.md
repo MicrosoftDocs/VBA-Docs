@@ -1,6 +1,6 @@
 ---
 title: Group2.ShowSummary property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group2.ShowSummary
 ms.assetid: 8cc3401e-ade3-c561-d561-e98a79e7bb22

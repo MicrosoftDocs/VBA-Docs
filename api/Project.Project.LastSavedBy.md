@@ -1,6 +1,6 @@
 ---
 title: Project.LastSavedBy property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.LastSavedBy
 ms.assetid: bc0d7330-1d58-5cc4-998c-b070450a7832

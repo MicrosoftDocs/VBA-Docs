@@ -3,7 +3,7 @@ title: Application.MonthLeadingZero property (Project)
 keywords: vbapj.chm132415
 f1_keywords:
 - vbapj.chm132415
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MonthLeadingZero
 ms.assetid: b2911e1b-195e-984e-173c-a058a9d3766e

@@ -1,6 +1,6 @@
 ---
 title: PjFileFormat enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjFileFormat
 ms.assetid: f74c5341-dc2a-027b-3fd6-e33800c6e5a5

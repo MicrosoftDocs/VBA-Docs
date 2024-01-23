@@ -1,6 +1,6 @@
 ---
 title: Application.TwelveHourTimeFormat property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TwelveHourTimeFormat
 ms.assetid: 899caa96-da4e-8ee6-988a-6cef64a1a46c

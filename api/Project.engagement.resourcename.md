@@ -2,7 +2,7 @@
 title: Engagement.ResourceName property (Project)
 ms.assetid: 0fd48448-b63c-207c-6aa3-eae693ea47e8
 ms.date: 06/08/2017
-ms.prod: project-server
+ms.service: project-server
 ms.localizationpriority: medium
 ---
 

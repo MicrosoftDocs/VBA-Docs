@@ -3,7 +3,7 @@ title: Application.RowClear method (Project)
 keywords: vbapj.chm239
 f1_keywords:
 - vbapj.chm239
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RowClear
 ms.assetid: 374b031a-bc06-baf3-51de-79b8df03bd02

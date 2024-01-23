@@ -3,7 +3,7 @@ title: Resource.Availabilities property (Project)
 keywords: vbapj.chm131411
 f1_keywords:
 - vbapj.chm131411
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Availabilities
 ms.assetid: 1525ba2e-49c1-216a-0b45-008e866163d5

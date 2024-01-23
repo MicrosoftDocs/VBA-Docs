@@ -1,6 +1,6 @@
 ---
 title: Profiles.ActiveProfile property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profiles.ActiveProfile
 ms.assetid: ae35bf36-f49c-358c-6ea3-db2968665f7f

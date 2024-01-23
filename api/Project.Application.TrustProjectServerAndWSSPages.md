@@ -1,6 +1,6 @@
 ---
 title: Application.TrustProjectServerAndWSSPages property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TrustProjectServerAndWSSPages
 ms.assetid: c79b17d6-c344-0bed-8087-7f5d5c17d3af

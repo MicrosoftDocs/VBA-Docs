@@ -3,7 +3,7 @@ title: Application.SelectResourceColumn method (Project)
 keywords: vbapj.chm2066
 f1_keywords:
 - vbapj.chm2066
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectResourceColumn
 ms.assetid: 22b9396b-ddec-cfed-311d-a02face0ae2f

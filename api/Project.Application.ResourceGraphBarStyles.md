@@ -3,7 +3,7 @@ title: Application.ResourceGraphBarStyles method (Project)
 keywords: vbapj.chm2057
 f1_keywords:
 - vbapj.chm2057
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceGraphBarStyles
 ms.assetid: b8d2baf3-7025-e330-a582-451ec0d115c0

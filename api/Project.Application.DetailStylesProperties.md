@@ -3,7 +3,7 @@ title: Application.DetailStylesProperties method (Project)
 keywords: vbapj.chm952
 f1_keywords:
 - vbapj.chm952
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DetailStylesProperties
 ms.assetid: f066f826-eef2-7f97-dafa-998f7bd70f42

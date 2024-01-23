@@ -1,6 +1,6 @@
 ---
 title: Cell.Assignment property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.Assignment
 ms.assetid: ac17eff9-d697-dbfa-7968-d61a474690ba

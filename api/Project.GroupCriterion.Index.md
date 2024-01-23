@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion.Index
 ms.assetid: 6ceb92d1-ff15-b6f9-2d4c-d48f8eac608d

@@ -1,6 +1,6 @@
 ---
 title: Project.CurrentTable property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CurrentTable
 ms.assetid: 7b80d451-bf37-7b1c-62b4-7ee0e7fd0e63

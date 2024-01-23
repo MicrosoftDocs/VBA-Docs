@@ -3,7 +3,7 @@ title: Task.ConstraintDate property (Project)
 keywords: vbapj.chm131666
 f1_keywords:
 - vbapj.chm131666
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ConstraintDate
 ms.assetid: 6985581b-82a1-6ab2-02ce-94d33e6d0336

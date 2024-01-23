@@ -3,7 +3,7 @@ title: Application.MailSend method (Project)
 keywords: vbapj.chm120
 f1_keywords:
 - vbapj.chm120
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MailSend
 ms.assetid: 250c7eed-2bfa-f80f-13d1-c7ca8d6453d1

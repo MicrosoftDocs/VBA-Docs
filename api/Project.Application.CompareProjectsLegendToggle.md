@@ -3,7 +3,7 @@ title: Application.CompareProjectsLegendToggle method (Project)
 keywords: vbapj.chm2188
 f1_keywords:
 - vbapj.chm2188
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CompareProjectsLegendToggle
 ms.assetid: a43d9ff8-9384-5189-ffdc-ac139e791779

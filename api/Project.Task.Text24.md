@@ -1,6 +1,6 @@
 ---
 title: Task.Text24 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Text24
 ms.assetid: 1bf1ac25-ee0a-1026-5196-d9b4b7f385d4

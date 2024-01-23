@@ -3,7 +3,7 @@ title: Application.DeleteFromDatabase method (Project)
 keywords: vbapj.chm135
 f1_keywords:
 - vbapj.chm135
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DeleteFromDatabase
 ms.assetid: 22bed2ff-0e8b-e589-1479-06c482f296a9

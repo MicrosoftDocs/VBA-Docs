@@ -1,6 +1,6 @@
 ---
 title: Pane.View method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Pane.View
 ms.assetid: a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2

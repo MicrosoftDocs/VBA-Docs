@@ -1,6 +1,6 @@
 ---
 title: PjTextFileOrigin enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjTextFileOrigin
 ms.assetid: 62ac1564-3ddc-9634-d710-668d66079f51

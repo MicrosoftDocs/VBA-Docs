@@ -1,6 +1,6 @@
 ---
 title: CostRateTable.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CostRateTable.Name
 ms.assetid: b72b17b5-ad00-b251-0dea-be6fdf520556

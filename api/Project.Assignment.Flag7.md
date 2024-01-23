@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag7 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Flag7
 ms.assetid: 8613ebea-1029-e66f-cbf9-6ff29d4063a5

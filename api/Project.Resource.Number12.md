@@ -1,6 +1,6 @@
 ---
 title: Resource.Number12 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Number12
 ms.assetid: bb69b663-b951-719f-8351-bcbdc3e561a1

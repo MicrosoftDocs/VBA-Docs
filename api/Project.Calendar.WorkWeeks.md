@@ -3,7 +3,7 @@ title: Calendar.WorkWeeks property (Project)
 keywords: vbapj.chm132830
 f1_keywords:
 - vbapj.chm132830
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Calendar.WorkWeeks
 ms.assetid: c4a3887b-0518-2b22-0288-500ad567a301

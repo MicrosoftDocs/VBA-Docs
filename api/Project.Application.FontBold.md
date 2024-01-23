@@ -3,7 +3,7 @@ title: Application.FontBold method (Project)
 keywords: vbapj.chm2320
 f1_keywords:
 - vbapj.chm2320
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FontBold
 ms.assetid: 6bd38edc-a2af-d6d5-8e46-898b700135b2

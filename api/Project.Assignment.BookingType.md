@@ -1,6 +1,6 @@
 ---
 title: Assignment.BookingType property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.BookingType
 ms.assetid: 9effb3b1-42eb-8adb-9c26-7103df375c88

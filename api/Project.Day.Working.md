@@ -1,6 +1,6 @@
 ---
 title: Day.Working property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Day.Working
 ms.assetid: 49230d7c-11cb-96c7-7a2f-fe5c900fd9e3

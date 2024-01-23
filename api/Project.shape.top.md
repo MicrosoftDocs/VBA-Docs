@@ -1,6 +1,6 @@
 ---
 title: Shape.Top property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: c105b882-49fb-c9ba-25bf-6b62b393ac48
 ms.date: 06/08/2017
 ms.localizationpriority: medium

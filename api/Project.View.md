@@ -3,7 +3,7 @@ title: View object (Project)
 keywords: vbapj.chm131348
 f1_keywords:
 - vbapj.chm131348
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.View
 ms.assetid: 39d793f4-2e31-d07b-a563-b213cced0c28

@@ -1,6 +1,6 @@
 ---
 title: Filter.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Filter.Application
 ms.assetid: 42415e31-41cb-186b-8585-8730b6d0d1c0

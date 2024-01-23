@@ -3,7 +3,7 @@ title: Application.SetTaskField method (Project)
 keywords: vbapj.chm4
 f1_keywords:
 - vbapj.chm4
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetTaskField
 ms.assetid: 44e3df27-8924-ecbb-b655-7dab9a51d96f

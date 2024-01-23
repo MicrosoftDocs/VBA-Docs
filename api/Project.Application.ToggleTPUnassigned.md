@@ -3,7 +3,7 @@ title: Application.ToggleTPUnassigned method (Project)
 keywords: vbapj.chm1506
 f1_keywords:
 - vbapj.chm1506
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ToggleTPUnassigned
 ms.assetid: 7d9231ac-977e-d86c-c8c3-1aa13b13d7d8

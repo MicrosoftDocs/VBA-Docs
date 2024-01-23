@@ -3,7 +3,7 @@ title: Application.InsertHyperlink method (Project)
 keywords: vbapj.chm1309
 f1_keywords:
 - vbapj.chm1309
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertHyperlink
 ms.assetid: d5a6ffc3-8cfe-e6c9-c347-4e3a739f6b1a

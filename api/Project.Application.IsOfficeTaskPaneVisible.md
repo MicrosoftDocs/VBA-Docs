@@ -1,6 +1,6 @@
 ---
 title: Application.IsOfficeTaskPaneVisible method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.IsOfficeTaskPaneVisible
 ms.assetid: 822ad2fd-de35-8340-7b24-56e59fb874b4

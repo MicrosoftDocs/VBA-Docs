@@ -1,6 +1,6 @@
 ---
 title: Projects.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Projects.Parent
 ms.assetid: 0d892acb-413a-0765-1257-3bad4d3c7b67

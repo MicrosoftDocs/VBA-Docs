@@ -3,7 +3,7 @@ title: Application.AlignTableCellBottom method (Project)
 keywords: vbapj.chm1523
 f1_keywords:
 - vbapj.chm1523
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 3eedfcb4-eb75-163f-6c3a-4dde97ddb110
 ms.date: 06/08/2017
 ms.localizationpriority: medium

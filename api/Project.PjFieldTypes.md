@@ -1,6 +1,6 @@
 ---
 title: PjFieldTypes enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjFieldTypes
 ms.assetid: cfe9a065-ca8c-cc6b-6616-1aad96da760a

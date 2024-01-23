@@ -3,7 +3,7 @@ title: Chart.Creator property (Project)
 keywords: vbapj.chm131613
 f1_keywords:
 - vbapj.chm131613
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: d2ef5502-f55f-73ff-3df1-04aa22cbc9c0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

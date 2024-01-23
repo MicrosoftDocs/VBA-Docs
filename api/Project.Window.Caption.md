@@ -1,6 +1,6 @@
 ---
 title: Window.Caption property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Caption
 ms.assetid: 02308676-1d72-9ac8-0654-6e510039efd1

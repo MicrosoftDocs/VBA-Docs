@@ -1,6 +1,6 @@
 ---
 title: TaskGroups.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskGroups.Parent
 ms.assetid: 7517efda-4cea-1280-02d2-cc4026a33855

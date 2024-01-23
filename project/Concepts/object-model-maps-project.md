@@ -1,6 +1,6 @@
 ---
 title: Object model maps (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 659da12b-2d4d-4271-847e-51c64eade86a
 ROBOTS: NOINDEX
 ms.date: 10/10/2018

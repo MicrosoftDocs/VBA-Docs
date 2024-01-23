@@ -1,6 +1,6 @@
 ---
 title: Window.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Parent
 ms.assetid: a1ce0007-43ee-b1dd-dc43-a9e94f37cf0b

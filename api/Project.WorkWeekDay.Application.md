@@ -1,6 +1,6 @@
 ---
 title: WorkWeekDay.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeekDay.Application
 ms.assetid: 7ea01ca3-a074-3d5a-01d4-b8a632dadbba

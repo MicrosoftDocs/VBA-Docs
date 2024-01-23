@@ -3,7 +3,7 @@ title: Chart.ChartGroups property (Project)
 keywords: vbapj.chm131625
 f1_keywords:
 - vbapj.chm131625
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 49e50578-3b97-4bc5-6037-3d32f0f321a7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: Table.TableFields property (Project)
 keywords: vbapj.chm132698
 f1_keywords:
 - vbapj.chm132698
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Table.TableFields
 ms.assetid: 2db4b5fd-6238-b4ab-dc9f-5de991eaad8e

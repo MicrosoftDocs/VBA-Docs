@@ -1,6 +1,6 @@
 ---
 title: Project.BeforeSave event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.BeforeSave
 ms.assetid: 6947661e-f77c-b766-b926-fd37818019b7

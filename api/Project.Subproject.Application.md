@@ -1,6 +1,6 @@
 ---
 title: Subproject.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Subproject.Application
 ms.assetid: 412c720b-a432-6e3f-96b3-f6e16c3ee48c

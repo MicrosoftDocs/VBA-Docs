@@ -3,7 +3,7 @@ title: Application.SelectCell method (Project)
 keywords: vbapj.chm2070
 f1_keywords:
 - vbapj.chm2070
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectCell
 ms.assetid: 7177d0bb-6e0e-8885-4f29-51faa34cea8b

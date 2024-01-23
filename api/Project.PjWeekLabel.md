@@ -1,6 +1,6 @@
 ---
 title: PjWeekLabel enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjWeekLabel
 ms.assetid: b1249491-1e96-6b85-83c2-214455267c62

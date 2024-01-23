@@ -1,6 +1,6 @@
 ---
 title: PayRate object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PayRate
 ms.assetid: 4c8ba1f3-bf18-2179-5f50-c090c63e46b9

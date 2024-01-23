@@ -1,6 +1,6 @@
 ---
 title: Task.Text25 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Text25
 ms.assetid: f2f3aea8-3be4-ead9-aa03-3343c2b80c3a

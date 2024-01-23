@@ -3,7 +3,7 @@ title: Project.DetectCycle property (Project)
 keywords: vbapj.chm131082
 f1_keywords:
 - vbapj.chm131082
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DetectCycle
 ms.assetid: 3280f112-f48d-a2d3-e8b9-c1533f231be9

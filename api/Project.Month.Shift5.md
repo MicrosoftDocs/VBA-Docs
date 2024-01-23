@@ -1,6 +1,6 @@
 ---
 title: Month.Shift5 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Month.Shift5
 ms.assetid: 662b3249-a68a-7fe0-4d45-71e5fa4c9ec1

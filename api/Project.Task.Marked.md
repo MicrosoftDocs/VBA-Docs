@@ -1,6 +1,6 @@
 ---
 title: Task.Marked property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Marked
 ms.assetid: b868afee-637f-8725-afdb-3c59ad261e26

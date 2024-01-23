@@ -3,7 +3,7 @@ title: Project.ProjectNamePrefix property (Project)
 keywords: vbapj.chm132523
 f1_keywords:
 - vbapj.chm132523
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectNamePrefix
 ms.assetid: 2945361b-f22d-831b-3c36-4a1c2636e03c

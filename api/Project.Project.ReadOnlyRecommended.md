@@ -1,6 +1,6 @@
 ---
 title: Project.ReadOnlyRecommended property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ReadOnlyRecommended
 ms.assetid: f35003bc-97fb-3acd-f629-7bb8addc5261

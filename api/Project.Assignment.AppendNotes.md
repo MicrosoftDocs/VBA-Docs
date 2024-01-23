@@ -1,6 +1,6 @@
 ---
 title: Assignment.AppendNotes method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.AppendNotes
 ms.assetid: 78ccad76-ac3f-c11e-9d88-2ed133358671

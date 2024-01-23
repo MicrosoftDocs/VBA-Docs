@@ -1,6 +1,6 @@
 ---
 title: ResourceGroups2.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ResourceGroups2.Add
 ms.assetid: 28bf0ab1-de03-1519-0817-8e2bc4417940

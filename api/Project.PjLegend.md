@@ -1,6 +1,6 @@
 ---
 title: PjLegend enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLegend
 ms.assetid: f80075d7-d984-129f-5f83-099ca6c07cdf

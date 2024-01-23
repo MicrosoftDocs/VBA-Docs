@@ -1,6 +1,6 @@
 ---
 title: ViewsSingle.Copy method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewsSingle.Copy
 ms.assetid: baa16562-5622-6d0f-02a7-3145a6fdef0c

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Notes property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Notes
 ms.assetid: 91915e62-bd93-3671-a232-05cb99836428

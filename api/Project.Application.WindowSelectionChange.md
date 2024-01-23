@@ -1,6 +1,6 @@
 ---
 title: Application.WindowSelectionChange event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowSelectionChange
 ms.assetid: 239c0a87-7966-b4b5-5731-9fe059f56a43

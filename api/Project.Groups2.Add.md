@@ -1,6 +1,6 @@
 ---
 title: Groups2.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Groups2.Add
 ms.assetid: fc4d6dfc-87b5-b4fb-5bbb-5e3b0a47c142

@@ -1,6 +1,6 @@
 ---
 title: SplitParts.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.SplitParts.Application
 ms.assetid: 0cdaa5a6-267b-374e-aa49-79b05ebe2d57

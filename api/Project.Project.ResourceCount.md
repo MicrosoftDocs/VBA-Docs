@@ -3,7 +3,7 @@ title: Project.ResourceCount method (Project)
 keywords: vbapj.chm131109
 f1_keywords:
 - vbapj.chm131109
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ResourceCount
 ms.assetid: 93a2cd6e-306d-28e6-fbc5-4ee9542b2fe6

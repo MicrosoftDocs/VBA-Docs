@@ -1,6 +1,6 @@
 ---
 title: TaskDependency.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskDependency.Delete
 ms.assetid: 02ed131a-8035-5074-e88c-f0c64e6808ad

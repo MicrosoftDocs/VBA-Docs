@@ -3,7 +3,7 @@ title: Application.FindFile method (Project)
 keywords: vbapj.chm2338
 f1_keywords:
 - vbapj.chm2338
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FindFile
 ms.assetid: 2f420df9-f234-4990-70cb-5891780e0359

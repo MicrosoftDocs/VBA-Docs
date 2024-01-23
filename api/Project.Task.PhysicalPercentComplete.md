@@ -3,7 +3,7 @@ title: Task.PhysicalPercentComplete property (Project)
 keywords: vbapj.chm132501
 f1_keywords:
 - vbapj.chm132501
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.PhysicalPercentComplete
 ms.assetid: a6ae7c3d-9e86-367f-0494-08bb82784988

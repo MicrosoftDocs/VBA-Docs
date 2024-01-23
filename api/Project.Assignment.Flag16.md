@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag16 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Flag16
 ms.assetid: fc4034ce-15b2-42fa-a292-453f5b2abacd

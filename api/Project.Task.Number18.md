@@ -1,6 +1,6 @@
 ---
 title: Task.Number18 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Number18
 ms.assetid: 2dca1468-75e4-6ed5-7499-66966da7f455

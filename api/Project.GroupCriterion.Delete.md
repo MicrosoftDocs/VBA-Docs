@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion.Delete
 ms.assetid: e1daa3ae-aa1d-ccfe-a670-97e821fa10ff

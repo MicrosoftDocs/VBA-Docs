@@ -1,6 +1,6 @@
 ---
 title: Assignment.WBS property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.WBS
 ms.assetid: c3974263-87e9-3102-3c16-712946c926ad

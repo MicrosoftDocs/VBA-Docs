@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Text8
 ms.assetid: 83c2ec8a-a3ad-4f0d-ab72-f9f7c3c1d444

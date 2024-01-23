@@ -1,6 +1,6 @@
 ---
 title: Task.RegularWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.RegularWork
 ms.assetid: 1a8de95a-7865-16be-f75a-a995ea8d71f1

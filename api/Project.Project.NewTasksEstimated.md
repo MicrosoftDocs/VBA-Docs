@@ -1,6 +1,6 @@
 ---
 title: Project.NewTasksEstimated property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.NewTasksEstimated
 ms.assetid: a0f6bc53-9eac-180c-eca8-72037a012d83

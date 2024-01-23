@@ -3,7 +3,7 @@ title: Application.VisualReportsEdit method (Project)
 keywords: vbapj.chm2143
 f1_keywords:
 - vbapj.chm2143
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.VisualReportsEdit
 ms.assetid: ba439985-f18b-f9a3-23d5-3d5ae39c50dc

@@ -1,6 +1,6 @@
 ---
 title: PjPasteSpecialType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjPasteSpecialType
 ms.assetid: ea9e2549-237d-691a-1668-218895214368

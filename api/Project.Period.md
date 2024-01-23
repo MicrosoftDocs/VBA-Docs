@@ -1,6 +1,6 @@
 ---
 title: Period object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Period
 ms.assetid: 84358c72-024f-e608-9424-8e9c6bad7259

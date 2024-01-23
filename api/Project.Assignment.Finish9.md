@@ -1,6 +1,6 @@
 ---
 title: Assignment.Finish9 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Finish9
 ms.assetid: fb169e42-d24d-6818-b73b-40f7a513b6f6

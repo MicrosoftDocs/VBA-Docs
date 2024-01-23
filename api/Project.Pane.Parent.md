@@ -1,6 +1,6 @@
 ---
 title: Pane.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Pane.Parent
 ms.assetid: b97fbe36-7232-4b41-07d2-6f0d9eb35647

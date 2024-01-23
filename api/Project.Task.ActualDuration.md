@@ -3,7 +3,7 @@ title: Task.ActualDuration property (Project)
 keywords: vbapj.chm131381
 f1_keywords:
 - vbapj.chm131381
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ActualDuration
 ms.assetid: c0f56a31-acc1-215c-0737-d7ad755e0a96

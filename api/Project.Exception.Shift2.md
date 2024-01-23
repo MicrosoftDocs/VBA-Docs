@@ -1,6 +1,6 @@
 ---
 title: Exception.Shift2 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exception.Shift2
 ms.assetid: 55cf1289-9e78-3857-8b35-7880226514ac

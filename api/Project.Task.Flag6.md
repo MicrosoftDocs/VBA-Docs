@@ -1,6 +1,6 @@
 ---
 title: Task.Flag6 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Flag6
 ms.assetid: db6f085e-b829-63bd-1335-d9080ba46b42

@@ -1,6 +1,6 @@
 ---
 title: TableFields.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TableFields.Count
 ms.assetid: ca125387-7657-3fb1-e68b-149db31966b3

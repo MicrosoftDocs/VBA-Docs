@@ -1,6 +1,6 @@
 ---
 title: Task.LateFinish property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.LateFinish
 ms.assetid: 27750d44-8b3d-fa89-8fe2-3065fa7665ac

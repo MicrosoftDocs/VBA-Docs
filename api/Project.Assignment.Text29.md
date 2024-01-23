@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text29 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Text29
 ms.assetid: 11cc5c17-92f0-67f4-1f2d-9e3fb96561b1

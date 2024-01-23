@@ -3,7 +3,7 @@ title: Application.Font32Ex method (Project)
 keywords: vbapj.chm2149
 f1_keywords:
 - vbapj.chm2149
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Font32Ex
 ms.assetid: 5f4928a6-d7b3-ff30-48ef-a5037dbeff21

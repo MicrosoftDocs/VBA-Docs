@@ -3,7 +3,7 @@ title: Application.CellDragAndDrop property (Project)
 keywords: vbapj.chm131603
 f1_keywords:
 - vbapj.chm131603
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CellDragAndDrop
 ms.assetid: a9ce116c-bf06-126b-2955-20e5a2880633

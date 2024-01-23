@@ -1,6 +1,6 @@
 ---
 title: Year.Default method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Year.Default
 ms.assetid: a4c59777-bade-cab7-0bd5-e713fd8a7a9e

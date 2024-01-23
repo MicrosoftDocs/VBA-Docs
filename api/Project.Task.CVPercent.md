@@ -1,6 +1,6 @@
 ---
 title: Task.CVPercent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.CVPercent
 ms.assetid: 3bfab789-ab53-75dd-fa28-49c72942f400

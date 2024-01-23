@@ -1,6 +1,6 @@
 ---
 title: Resource.Text19 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Text19
 ms.assetid: 353160a4-413c-7123-a4a2-fc98a083364c

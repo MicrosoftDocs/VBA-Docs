@@ -3,7 +3,7 @@ title: Task.Manual property (Project)
 keywords: vbapj.chm132403
 f1_keywords:
 - vbapj.chm132403
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Manual
 ms.assetid: 38ee961a-5557-7ecd-e453-adbe51d116be

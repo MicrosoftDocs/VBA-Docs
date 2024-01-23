@@ -1,6 +1,6 @@
 ---
 title: Shape.Connector property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 6085e8e1-1132-ccf7-b37c-3ca86252f656
 ms.date: 06/08/2017
 ms.localizationpriority: medium

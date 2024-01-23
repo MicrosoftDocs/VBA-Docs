@@ -3,7 +3,7 @@ title: Application.SelectTPTask method (Project)
 keywords: vbapj.chm2192
 f1_keywords:
 - vbapj.chm2192
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectTPTask
 ms.assetid: ef27e878-8c80-ad09-157d-f803ec2e7352

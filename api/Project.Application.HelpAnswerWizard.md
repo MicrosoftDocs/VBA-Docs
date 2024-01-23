@@ -3,7 +3,7 @@ title: Application.HelpAnswerWizard method (Project)
 keywords: vbapj.chm816
 f1_keywords:
 - vbapj.chm816
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.HelpAnswerWizard
 ms.assetid: d23eca0c-2145-e6b8-da1c-924169cf01ee

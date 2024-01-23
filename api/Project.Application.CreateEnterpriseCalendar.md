@@ -3,7 +3,7 @@ title: Application.CreateEnterpriseCalendar method (Project)
 keywords: vbapj.chm2135
 f1_keywords:
 - vbapj.chm2135
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CreateEnterpriseCalendar
 ms.assetid: 5d53083b-f34e-d604-6d77-b232eea0eb71

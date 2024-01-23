@@ -3,7 +3,7 @@ title: Application.BoxLinkLabelsShow method (Project)
 keywords: vbapj.chm47
 f1_keywords:
 - vbapj.chm47
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BoxLinkLabelsShow
 ms.assetid: 8dbb1406-10e8-d096-540a-4c7cfd61a413

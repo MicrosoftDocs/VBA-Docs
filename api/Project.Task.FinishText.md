@@ -3,7 +3,7 @@ title: Task.FinishText property (Project)
 keywords: vbapj.chm132229
 f1_keywords:
 - vbapj.chm132229
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.FinishText
 ms.assetid: 1dac5d15-30e3-060a-9c8a-98f7de556e3a

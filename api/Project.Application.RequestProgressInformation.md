@@ -1,6 +1,6 @@
 ---
 title: Application.RequestProgressInformation method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RequestProgressInformation
 ms.assetid: a86ec09d-f9c8-07e3-68f4-898c604c3600

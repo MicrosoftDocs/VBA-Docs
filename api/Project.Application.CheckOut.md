@@ -3,7 +3,7 @@ title: Application.CheckOut method (Project)
 keywords: vbapj.chm2332
 f1_keywords:
 - vbapj.chm2332
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CheckOut
 ms.assetid: 36e19455-a77d-46d5-c5c0-60f07feeba13

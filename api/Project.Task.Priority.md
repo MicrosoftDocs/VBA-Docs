@@ -1,6 +1,6 @@
 ---
 title: Task.Priority property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Priority
 ms.assetid: 8680e903-a03e-cf83-70e7-fc856297dae2

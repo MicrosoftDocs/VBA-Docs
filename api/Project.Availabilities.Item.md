@@ -1,6 +1,6 @@
 ---
 title: Availabilities.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Availabilities.Item
 ms.assetid: b5add9ff-6468-1896-a6d1-3e9aac433ffb

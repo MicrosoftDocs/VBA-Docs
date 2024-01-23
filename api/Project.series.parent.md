@@ -1,6 +1,6 @@
 ---
 title: Series.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 7da70a09-8226-48bd-8fb3-0faba687ac09
 ms.date: 06/08/2017
 ms.localizationpriority: medium

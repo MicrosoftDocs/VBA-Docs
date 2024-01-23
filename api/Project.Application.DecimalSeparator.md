@@ -1,6 +1,6 @@
 ---
 title: Application.DecimalSeparator property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DecimalSeparator
 ms.assetid: c331d9fa-c389-16d7-b09b-1a17bba5b3c0

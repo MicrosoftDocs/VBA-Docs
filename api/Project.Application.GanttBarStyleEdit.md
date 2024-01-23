@@ -3,7 +3,7 @@ title: Application.GanttBarStyleEdit method (Project)
 keywords: vbapj.chm2060
 f1_keywords:
 - vbapj.chm2060
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarStyleEdit
 ms.assetid: a955c65c-5579-bd76-150e-d98b5045302d

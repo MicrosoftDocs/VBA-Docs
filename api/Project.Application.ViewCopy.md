@@ -3,7 +3,7 @@ title: Application.ViewCopy method (Project)
 keywords: vbapj.chm300
 f1_keywords:
 - vbapj.chm300
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewCopy
 ms.assetid: b1ed6b3e-ad95-15f4-80bd-054d608ef9a1

@@ -3,7 +3,7 @@ title: Application.SpellCheckField method (Project)
 keywords: vbapj.chm2252
 f1_keywords:
 - vbapj.chm2252
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SpellCheckField
 ms.assetid: 4c5cc4c9-b947-c237-7f7e-0d703bd34352

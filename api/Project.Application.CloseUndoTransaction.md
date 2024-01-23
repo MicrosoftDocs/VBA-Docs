@@ -3,7 +3,7 @@ title: Application.CloseUndoTransaction method (Project)
 keywords: vbapj.chm131794
 f1_keywords:
 - vbapj.chm131794
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CloseUndoTransaction
 ms.assetid: 704bde43-803d-fd63-68a6-7b4058e5d3b1

@@ -3,7 +3,7 @@ title: Application.AppMove method (Project)
 keywords: vbapj.chm2010
 f1_keywords:
 - vbapj.chm2010
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AppMove
 ms.assetid: 73ab96b7-4985-b25f-d202-89e6230e6e4e

@@ -1,6 +1,6 @@
 ---
 title: Project.AskForCompletedWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.AskForCompletedWork
 ms.assetid: 54380c01-ae6f-a378-a46b-bfe0064fbc5f
