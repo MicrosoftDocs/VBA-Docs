@@ -3,7 +3,6 @@ title: UPDATEOWNER (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277494
 f1_keywords:
 - jetsql40.chm5277494
-ms.prod: access
 ms.assetid: 51b7fab4-d8dc-69cd-7f0c-e548407619a8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

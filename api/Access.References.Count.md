@@ -3,7 +3,6 @@ title: References.Count property (Access)
 keywords: vbaac10.chm12641
 f1_keywords:
 - vbaac10.chm12641
-ms.prod: access
 api_name:
 - Access.References.Count
 ms.assetid: 185e5a96-96c9-74ec-c70d-7eb982249217

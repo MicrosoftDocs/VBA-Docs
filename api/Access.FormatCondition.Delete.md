@@ -3,7 +3,6 @@ title: FormatCondition.Delete method (Access)
 keywords: vbaac10.chm10063
 f1_keywords:
 - vbaac10.chm10063
-ms.prod: access
 api_name:
 - Access.FormatCondition.Delete
 ms.assetid: 651e6954-eac9-0095-9d52-30df4f6f23cd

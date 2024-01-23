@@ -3,7 +3,6 @@ title: FormatConditions.Add method (Access)
 keywords: vbaac10.chm10071
 f1_keywords:
 - vbaac10.chm10071
-ms.prod: access
 api_name:
 - Access.FormatConditions.Add
 ms.assetid: 6066d3ee-7e47-b090-ea64-ccf95e4ecc89

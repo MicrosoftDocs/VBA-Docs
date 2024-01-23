@@ -3,7 +3,6 @@ title: OptionButton.ColumnHidden property (Access)
 keywords: vbaac10.chm10597
 f1_keywords:
 - vbaac10.chm10597
-ms.prod: access
 api_name:
 - Access.OptionButton.ColumnHidden
 ms.assetid: 962a7bf7-8898-d2e5-f26a-691b8c9b5d71

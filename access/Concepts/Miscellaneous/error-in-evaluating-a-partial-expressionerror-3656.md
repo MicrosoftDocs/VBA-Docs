@@ -1,6 +1,5 @@
 ---
 title: Error in evaluating a partial expression. (Error 3656)
-ms.prod: access
 ms.assetid: 4426220f-f086-8bd6-3a61-452e95c0b3da
 ms.date: 06/08/2019
 ms.localizationpriority: medium

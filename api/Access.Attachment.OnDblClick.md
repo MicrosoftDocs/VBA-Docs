@@ -3,7 +3,6 @@ title: Attachment.OnDblClick property (Access)
 keywords: vbaac10.chm13946
 f1_keywords:
 - vbaac10.chm13946
-ms.prod: access
 api_name:
 - Access.Attachment.OnDblClick
 ms.assetid: 5bfe9633-dd3a-d1d5-450b-eafbc1a607c1

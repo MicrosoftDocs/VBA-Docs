@@ -3,7 +3,6 @@ title: ListBox.TopPadding property (Access)
 keywords: vbaac10.chm11307
 f1_keywords:
 - vbaac10.chm11307
-ms.prod: access
 api_name:
 - Access.ListBox.TopPadding
 ms.assetid: b453cfc4-d059-395a-7c62-ae07f12e1677

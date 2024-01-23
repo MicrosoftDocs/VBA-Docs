@@ -3,7 +3,6 @@ title: BoundObjectFrame.GridlineWidthLeft property (Access)
 keywords: vbaac10.chm11003
 f1_keywords:
 - vbaac10.chm11003
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineWidthLeft
 ms.assetid: 0a29f26d-b2b7-67f5-ef8e-a76bd603e462

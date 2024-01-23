@@ -3,7 +3,6 @@ title: SubForm.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: access
 api_name:
 - Access.SubForm.GridlineTint
 ms.assetid: 7dcae803-f8ff-831e-0d30-b829b37ddaa7

@@ -3,7 +3,6 @@ title: NavigationButton.RightPadding property (Access)
 keywords: vbaac10.chm10526
 f1_keywords:
 - vbaac10.chm10526
-ms.prod: access
 api_name:
 - Access.NavigationButton.RightPadding
 ms.assetid: 16a951da-7b28-7013-9183-b79d903dbad5

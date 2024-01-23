@@ -3,7 +3,6 @@ title: Image.OldBorderStyle property (Access)
 keywords: vbaac10.chm10384
 f1_keywords:
 - vbaac10.chm10384
-ms.prod: access
 api_name:
 - Access.Image.OldBorderStyle
 ms.assetid: ab5295d3-9e24-4604-a541-ac5bba837c0b

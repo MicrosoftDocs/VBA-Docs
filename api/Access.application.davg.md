@@ -3,7 +3,6 @@ title: Application.DAvg method (Access)
 keywords: vbaac10.chm12528
 f1_keywords:
 - vbaac10.chm12528
-ms.prod: access
 ms.assetid: 966cd884-8693-d1d2-b35b-567e71b7e56d
 ms.date: 02/05/2019
 ms.localizationpriority: medium

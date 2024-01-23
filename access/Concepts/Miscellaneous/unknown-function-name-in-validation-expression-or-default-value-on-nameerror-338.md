@@ -3,7 +3,6 @@ title: Unknown function <name> in validation expression or default value on <nam
 keywords: jeterr40.chm5003388
 f1_keywords:
 - jeterr40.chm5003388
-ms.prod: access
 ms.assetid: 337f381f-5117-9d8f-e8f3-fcb015435c5b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

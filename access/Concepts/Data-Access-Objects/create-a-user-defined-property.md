@@ -1,6 +1,5 @@
 ---
 title: Create a user-defined property
-ms.prod: access
 ms.assetid: 49d2fede-2fb5-0b1b-42cd-6147756ea1ca
 ms.date: 09/21/2018
 ms.localizationpriority: medium

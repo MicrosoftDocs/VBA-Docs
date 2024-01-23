@@ -3,7 +3,6 @@ title: Chart.HasTitle property (Access)
 keywords: vbaac10.chm6110
 f1_keywords:
 - vbaac10.chm6110
-ms.prod: access
 api_name:
 - Access.Chart.HasTitle
 ms.date: 11/28/2018

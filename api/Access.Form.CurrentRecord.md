@@ -3,7 +3,6 @@ title: Form.CurrentRecord property (Access)
 keywords: vbaac10.chm13473
 f1_keywords:
 - vbaac10.chm13473
-ms.prod: access
 api_name:
 - Access.Form.CurrentRecord
 ms.assetid: a682d187-0b9a-2fc3-3443-f2dcd6df4ca2

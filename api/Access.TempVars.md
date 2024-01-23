@@ -3,7 +3,6 @@ title: TempVars object (Access)
 keywords: vbaac10.chm14073
 f1_keywords:
 - vbaac10.chm14073
-ms.prod: access
 api_name:
 - Access.TempVars
 ms.assetid: aa81b18b-5e9f-ae44-cbcf-55cf6e37b7f6

@@ -3,7 +3,6 @@ title: ComboBox.ItemData property (Access)
 keywords: vbaac10.chm11362
 f1_keywords:
 - vbaac10.chm11362
-ms.prod: access
 api_name:
 - Access.ComboBox.ItemData
 ms.assetid: 9e9a6aab-472a-5715-f7f4-5957b1dcf717

@@ -3,7 +3,6 @@ title: NavigationButton.ControlTipText property (Access)
 keywords: vbaac10.chm10480
 f1_keywords:
 - vbaac10.chm10480
-ms.prod: access
 api_name:
 - Access.NavigationButton.ControlTipText
 ms.assetid: 25ffbfdf-58e6-0bc0-a2b8-c4e94f85b864

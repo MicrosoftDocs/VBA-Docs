@@ -3,7 +3,6 @@ title: ToggleButton.Move method (Access)
 keywords: vbaac10.chm11763
 f1_keywords:
 - vbaac10.chm11763
-ms.prod: access
 api_name:
 - Access.ToggleButton.Move
 ms.assetid: 98cdc2e0-63b7-ed59-0fca-3d4db5f1cf4b

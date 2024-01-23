@@ -3,7 +3,6 @@ title: Rectangle.Application property (Access)
 keywords: vbaac10.chm10274
 f1_keywords:
 - vbaac10.chm10274
-ms.prod: access
 api_name:
 - Access.Rectangle.Application
 ms.assetid: 0e15e9ea-3a67-a256-0629-f9a2b698fe7c

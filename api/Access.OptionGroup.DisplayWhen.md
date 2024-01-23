@@ -3,7 +3,6 @@ title: OptionGroup.DisplayWhen property (Access)
 keywords: vbaac10.chm10828
 f1_keywords:
 - vbaac10.chm10828
-ms.prod: access
 api_name:
 - Access.OptionGroup.DisplayWhen
 ms.assetid: a69b8fd5-d388-7277-d0de-5cf0ab620a33

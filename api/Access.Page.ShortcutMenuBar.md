@@ -3,7 +3,6 @@ title: Page.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm12159
 f1_keywords:
 - vbaac10.chm12159
-ms.prod: access
 api_name:
 - Access.Page.ShortcutMenuBar
 ms.assetid: eb9a1075-27c3-4b37-1ebb-7693afd6ba5e

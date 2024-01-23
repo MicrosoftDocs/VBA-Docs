@@ -3,7 +3,6 @@ title: CodeProject.Properties property (Access)
 keywords: vbaac10.chm12721
 f1_keywords:
 - vbaac10.chm12721
-ms.prod: access
 api_name:
 - Access.CodeProject.Properties
 ms.assetid: 47617f8c-6c87-ec70-5661-51204ef44cdf

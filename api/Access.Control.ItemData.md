@@ -3,7 +3,6 @@ title: Control.ItemData property (Access)
 keywords: vbaac10.chm10141
 f1_keywords:
 - vbaac10.chm10141
-ms.prod: access
 api_name:
 - Access.Control.ItemData
 ms.assetid: 5eb23c40-566e-33bb-9b73-0ecc701ea5e5

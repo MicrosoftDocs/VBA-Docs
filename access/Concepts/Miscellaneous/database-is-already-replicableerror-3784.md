@@ -1,6 +1,5 @@
 ---
 title: Database is already replicable. (Error 3784)
-ms.prod: access
 ms.assetid: 218c219b-4e16-f031-b7e8-8a22f0b83ea6
 ms.date: 06/08/2019
 ms.localizationpriority: medium

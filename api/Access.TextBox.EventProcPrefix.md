@@ -3,7 +3,6 @@ title: TextBox.EventProcPrefix property (Access)
 keywords: vbaac10.chm11040
 f1_keywords:
 - vbaac10.chm11040
-ms.prod: access
 api_name:
 - Access.TextBox.EventProcPrefix
 ms.assetid: a8cd7cdc-605b-473c-95b1-9d1736e0ec96

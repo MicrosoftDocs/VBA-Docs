@@ -3,7 +3,6 @@ title: Message in dropbox folder belongs to the wrong Synchronizer. (Error 3567)
 keywords: jeterr40.chm5003567
 f1_keywords:
 - jeterr40.chm5003567
-ms.prod: access
 ms.assetid: 970e1d7f-d7ad-0f33-c905-68bed98801ec
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Restrict data to a subset of records
 keywords: vbaac10.chm5187973
 f1_keywords:
 - vbaac10.chm5187973
-ms.prod: access
 ms.assetid: f3310e1f-9987-785a-9ae2-a2eb375a35c2
 ms.date: 09/21/2018
 ms.localizationpriority: medium

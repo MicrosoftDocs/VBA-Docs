@@ -3,7 +3,6 @@ title: BoundObjectFrame.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackShade
 ms.assetid: 17c2e087-d4c7-f27d-a3a0-01470aa2b348

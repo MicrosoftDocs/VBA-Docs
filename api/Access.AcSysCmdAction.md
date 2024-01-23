@@ -3,7 +3,6 @@ title: AcSysCmdAction enumeration (Access)
 keywords: vbaac10.chm10027
 f1_keywords:
 - vbaac10.chm10027
-ms.prod: access
 api_name:
 - Access.AcSysCmdAction
 ms.assetid: a2879d50-9845-40b0-9e51-a022340c664b

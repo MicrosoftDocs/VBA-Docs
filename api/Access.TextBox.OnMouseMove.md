@@ -3,7 +3,6 @@ title: TextBox.OnMouseMove property (Access)
 keywords: vbaac10.chm11125
 f1_keywords:
 - vbaac10.chm11125
-ms.prod: access
 api_name:
 - Access.TextBox.OnMouseMove
 ms.assetid: 7201a61b-5b69-c13f-63bf-a2a5f329ecc5

@@ -3,7 +3,6 @@ title: ObjectFrame.ColumnCount property (Access)
 keywords: vbaac10.chm11577
 f1_keywords:
 - vbaac10.chm11577
-ms.prod: access
 api_name:
 - Access.ObjectFrame.ColumnCount
 ms.assetid: be9b3121-e9ea-eb78-5165-0a9d5f209b32

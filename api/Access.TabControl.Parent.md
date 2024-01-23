@@ -3,7 +3,6 @@ title: TabControl.Parent property (Access)
 keywords: vbaac10.chm12066
 f1_keywords:
 - vbaac10.chm12066
-ms.prod: access
 api_name:
 - Access.TabControl.Parent
 ms.assetid: 6bbfdd6b-7646-9fcd-1cac-f58d98004df7

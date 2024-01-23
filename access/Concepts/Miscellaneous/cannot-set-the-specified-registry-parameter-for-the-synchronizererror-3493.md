@@ -3,7 +3,6 @@ title: Cannot set the specified Registry parameter for the Synchronizer. (Error 
 keywords: jeterr40.chm5003493
 f1_keywords:
 - jeterr40.chm5003493
-ms.prod: access
 ms.assetid: 7b2ca701-ac2e-4abf-084f-86c310e9de40
 ms.date: 06/08/2019
 ms.localizationpriority: medium

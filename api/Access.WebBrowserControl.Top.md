@@ -3,7 +3,6 @@ title: WebBrowserControl.Top property (Access)
 keywords: vbaac10.chm14371
 f1_keywords:
 - vbaac10.chm14371
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Top
 ms.assetid: af18145b-aa73-2ebe-f387-e2cce62a1051

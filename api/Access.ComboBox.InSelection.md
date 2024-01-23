@@ -3,7 +3,6 @@ title: ComboBox.InSelection property (Access)
 keywords: vbaac10.chm11446
 f1_keywords:
 - vbaac10.chm11446
-ms.prod: access
 api_name:
 - Access.ComboBox.InSelection
 ms.assetid: 0e0bf471-8d24-52a8-c14c-3e4441a2fc8d

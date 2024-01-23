@@ -3,7 +3,6 @@ title: NavigationControl.DblClick event (Access)
 keywords: vbaac10.chm14202
 f1_keywords:
 - vbaac10.chm14202
-ms.prod: access
 api_name:
 - Access.NavigationControl.DblClick
 ms.assetid: f8f4f4d1-fbb7-e6aa-513b-fe434e50caa9

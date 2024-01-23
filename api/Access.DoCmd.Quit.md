@@ -3,7 +3,6 @@ title: DoCmd.Quit method (Access)
 keywords: vbaac10.chm4167
 f1_keywords:
 - vbaac10.chm4167
-ms.prod: access
 api_name:
 - Access.DoCmd.Quit
 ms.assetid: 2644084a-fd24-6271-7679-46c5f1b206d5

@@ -1,6 +1,5 @@
 ---
 title: Stream (ADO for Visual C++ syntax)
-ms.prod: access
 ms.assetid: e1482f15-9ef6-9485-06c2-1123762afc9f
 ms.date: 02/06/2022
 ms.localizationpriority: medium

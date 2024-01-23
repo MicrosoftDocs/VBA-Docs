@@ -3,7 +3,6 @@ title: Form.WindowTop property (Access)
 keywords: vbaac10.chm13516
 f1_keywords:
 - vbaac10.chm13516
-ms.prod: access
 api_name:
 - Access.Form.WindowTop
 ms.assetid: 1257fe21-3983-bd51-4683-e0778b59a975

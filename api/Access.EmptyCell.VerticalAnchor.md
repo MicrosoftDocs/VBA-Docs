@@ -3,7 +3,6 @@ title: EmptyCell.VerticalAnchor property (Access)
 keywords: vbaac10.chm14325
 f1_keywords:
 - vbaac10.chm14325
-ms.prod: access
 api_name:
 - Access.EmptyCell.VerticalAnchor
 ms.assetid: 191310d9-3c46-41fb-40cf-ab5d74e8483a

@@ -3,7 +3,6 @@ title: OptionButton.ReadingOrder property (Access)
 keywords: vbaac10.chm10622
 f1_keywords:
 - vbaac10.chm10622
-ms.prod: access
 api_name:
 - Access.OptionButton.ReadingOrder
 ms.assetid: 52dab78d-5c67-4031-06b4-f7fa43207f4c

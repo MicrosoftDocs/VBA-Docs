@@ -3,7 +3,6 @@ title: Form.OnClose property (Access)
 keywords: vbaac10.chm13444
 f1_keywords:
 - vbaac10.chm13444
-ms.prod: access
 api_name:
 - Access.Form.OnClose
 ms.assetid: af4a7532-f12a-5194-9636-a09f9221f465

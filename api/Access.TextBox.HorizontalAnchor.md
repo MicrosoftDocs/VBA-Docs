@@ -3,7 +3,6 @@ title: TextBox.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11165
 f1_keywords:
 - vbaac10.chm11165
-ms.prod: access
 api_name:
 - Access.TextBox.HorizontalAnchor
 ms.assetid: 85dc54b2-7a20-4667-ade9-47202f77d524

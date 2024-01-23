@@ -3,7 +3,6 @@ title: Label.DblClick event (Access)
 keywords: vbaac10.chm14285
 f1_keywords:
 - vbaac10.chm14285
-ms.prod: access
 api_name:
 - Access.Label.DblClick
 ms.assetid: 0cb6512b-cb04-c586-dc8a-ab9208791475

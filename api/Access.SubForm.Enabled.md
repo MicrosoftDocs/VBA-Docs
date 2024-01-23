@@ -3,7 +3,6 @@ title: SubForm.Enabled property (Access)
 keywords: vbaac10.chm11932
 f1_keywords:
 - vbaac10.chm11932
-ms.prod: access
 api_name:
 - Access.SubForm.Enabled
 ms.assetid: 62bbd5f7-03f1-a634-f239-1126b0515a82

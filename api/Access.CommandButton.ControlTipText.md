@@ -3,7 +3,6 @@ title: CommandButton.ControlTipText property (Access)
 keywords: vbaac10.chm10480
 f1_keywords:
 - vbaac10.chm10480
-ms.prod: access
 api_name:
 - Access.CommandButton.ControlTipText
 ms.assetid: 394aecbe-0053-d114-1804-c4ee6a9749d0

@@ -3,7 +3,6 @@ title: SmartTagActions.Application property (Access)
 keywords: vbaac10.chm13297
 f1_keywords:
 - vbaac10.chm13297
-ms.prod: access
 api_name:
 - Access.SmartTagActions.Application
 ms.assetid: 51c4f3b3-e1a9-2f69-146a-2d9d2cac7e5c

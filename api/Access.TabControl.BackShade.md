@@ -3,7 +3,6 @@ title: TabControl.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.TabControl.BackShade
 ms.assetid: ed983b5b-ee19-078b-69a8-88cb034a1467

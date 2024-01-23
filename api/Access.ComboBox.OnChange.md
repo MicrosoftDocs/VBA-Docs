@@ -3,7 +3,6 @@ title: ComboBox.OnChange property (Access)
 keywords: vbaac10.chm11449
 f1_keywords:
 - vbaac10.chm11449
-ms.prod: access
 api_name:
 - Access.ComboBox.OnChange
 ms.assetid: e3c26738-a14f-e379-d909-f4919bb37a20

@@ -3,7 +3,6 @@ title: Report.TimerInterval property (Access)
 keywords: vbaac10.chm13825
 f1_keywords:
 - vbaac10.chm13825
-ms.prod: access
 api_name:
 - Access.Report.TimerInterval
 ms.assetid: 272fb1f6-2aca-60c2-1f0f-d901e0da91ac

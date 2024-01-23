@@ -3,7 +3,6 @@ title: WebBrowserControl.InSelection property (Access)
 keywords: vbaac10.chm14529
 f1_keywords:
 - vbaac10.chm14529
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.InSelection
 ms.assetid: 32362d58-5fa1-8410-6a7f-522ddef843c1

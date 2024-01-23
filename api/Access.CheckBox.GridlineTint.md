@@ -3,7 +3,6 @@ title: CheckBox.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: access
 api_name:
 - Access.CheckBox.GridlineTint
 ms.assetid: 710894e8-4271-069f-7e3e-46d39da22daa

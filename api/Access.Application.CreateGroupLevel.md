@@ -3,7 +3,6 @@ title: Application.CreateGroupLevel method (Access)
 keywords: vbaac10.chm12524
 f1_keywords:
 - vbaac10.chm12524
-ms.prod: access
 api_name:
 - Access.Application.CreateGroupLevel
 ms.assetid: 880c1e36-b7b5-7ea4-a2ca-d7c3f0a5a7be

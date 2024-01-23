@@ -3,7 +3,6 @@ title: Attachment.DisplayWhen property (Access)
 keywords: vbaac10.chm13919
 f1_keywords:
 - vbaac10.chm13919
-ms.prod: access
 api_name:
 - Access.Attachment.DisplayWhen
 ms.assetid: 7029a8ef-6672-7a30-deb4-581f4f66ce7f

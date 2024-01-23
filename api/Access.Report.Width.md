@@ -3,7 +3,6 @@ title: Report.Width property (Access)
 keywords: vbaac10.chm13703
 f1_keywords:
 - vbaac10.chm13703
-ms.prod: access
 api_name:
 - Access.Report.Width
 ms.assetid: f6631a47-79a0-3b8e-e0f0-11aab5b1b477

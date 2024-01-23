@@ -3,7 +3,6 @@ title: ListBox.LeftPadding property (Access)
 keywords: vbaac10.chm11306
 f1_keywords:
 - vbaac10.chm11306
-ms.prod: access
 api_name:
 - Access.ListBox.LeftPadding
 ms.assetid: 63a94bd3-7929-c204-3612-080bbb5869bc

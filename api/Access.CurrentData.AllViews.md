@@ -3,7 +3,6 @@ title: CurrentData.AllViews property (Access)
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
-ms.prod: access
 api_name:
 - Access.CurrentData.AllViews
 ms.assetid: fab56178-86bd-18fa-8742-1749fd1c7707

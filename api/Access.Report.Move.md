@@ -3,7 +3,6 @@ title: Report.Move method (Access)
 keywords: vbaac10.chm13808
 f1_keywords:
 - vbaac10.chm13808
-ms.prod: access
 api_name:
 - Access.Report.Move
 ms.assetid: 169ac85a-394f-5db2-7b55-b6ca5fd03546

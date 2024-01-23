@@ -3,7 +3,6 @@ title: Page.PictureData property (Access)
 keywords: vbaac10.chm12172
 f1_keywords:
 - vbaac10.chm12172
-ms.prod: access
 api_name:
 - Access.Page.PictureData
 ms.assetid: e7af4493-ddf8-7f17-46fa-dddf4a1dc1a0

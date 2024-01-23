@@ -3,7 +3,6 @@ title: TextBox.ColumnHidden property (Access)
 keywords: vbaac10.chm11097
 f1_keywords:
 - vbaac10.chm11097
-ms.prod: access
 api_name:
 - Access.TextBox.ColumnHidden
 ms.assetid: 4014ea78-92f8-f1a8-6d73-ae7b2c5088cb

@@ -3,7 +3,6 @@ title: Printer.Duplex property (Access)
 keywords: vbaac10.chm12861
 f1_keywords:
 - vbaac10.chm12861
-ms.prod: access
 api_name:
 - Access.Printer.Duplex
 ms.assetid: 9b683f3c-5971-b60c-8482-833b6521c40d

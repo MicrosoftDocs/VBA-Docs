@@ -3,7 +3,6 @@ title: Form.DatasheetColumnHeaderUnderlineStyle property (Access)
 keywords: vbaac10.chm13513
 f1_keywords:
 - vbaac10.chm13513
-ms.prod: access
 api_name:
 - Access.Form.DatasheetColumnHeaderUnderlineStyle
 ms.assetid: 9e689097-f3ed-bcda-9cc5-d423a3b92806

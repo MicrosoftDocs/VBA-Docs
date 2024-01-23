@@ -3,7 +3,6 @@ title: Form.OnKeyUp property (Access)
 keywords: vbaac10.chm13455
 f1_keywords:
 - vbaac10.chm13455
-ms.prod: access
 api_name:
 - Access.Form.OnKeyUp
 ms.assetid: 18cc6617-082d-584d-518b-f89e4c71f8eb

@@ -3,7 +3,6 @@ title: Report.PictureData property (Access)
 keywords: vbaac10.chm13772
 f1_keywords:
 - vbaac10.chm13772
-ms.prod: access
 api_name:
 - Access.Report.PictureData
 ms.assetid: b9100f5e-5734-ca30-1cbf-45f8afaadd75

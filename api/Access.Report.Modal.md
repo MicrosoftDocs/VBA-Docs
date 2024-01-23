@@ -3,7 +3,6 @@ title: Report.Modal property (Access)
 keywords: vbaac10.chm13799
 f1_keywords:
 - vbaac10.chm13799
-ms.prod: access
 api_name:
 - Access.Report.Modal
 ms.assetid: 654ff830-c8d9-5bd9-1ec6-61ee6546b4db

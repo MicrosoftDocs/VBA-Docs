@@ -3,7 +3,6 @@ title: CheckBox.ColumnOrder property (Access)
 keywords: vbaac10.chm10723
 f1_keywords:
 - vbaac10.chm10723
-ms.prod: access
 api_name:
 - Access.CheckBox.ColumnOrder
 ms.assetid: b485afc6-b19a-cd0a-990e-9de14f6f9104

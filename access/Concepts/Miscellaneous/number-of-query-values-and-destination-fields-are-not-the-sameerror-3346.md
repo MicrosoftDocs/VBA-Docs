@@ -3,7 +3,6 @@ title: Number of query values and destination fields are not the same. (Error 33
 keywords: jeterr40.chm5003346
 f1_keywords:
 - jeterr40.chm5003346
-ms.prod: access
 ms.assetid: ef5fbd52-06c6-04a3-9064-7c11f0ec063f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

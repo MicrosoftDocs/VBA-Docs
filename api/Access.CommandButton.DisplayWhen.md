@@ -3,7 +3,6 @@ title: CommandButton.DisplayWhen property (Access)
 keywords: vbaac10.chm10463
 f1_keywords:
 - vbaac10.chm10463
-ms.prod: access
 api_name:
 - Access.CommandButton.DisplayWhen
 ms.assetid: 3775036c-c483-1c2d-6845-cd999104925d

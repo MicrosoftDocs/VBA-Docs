@@ -3,7 +3,6 @@ title: Page.Visible property (Access)
 keywords: vbaac10.chm12153
 f1_keywords:
 - vbaac10.chm12153
-ms.prod: access
 api_name:
 - Access.Page.Visible
 ms.assetid: d01a5c26-18ee-2533-38d7-98a7bb84a971

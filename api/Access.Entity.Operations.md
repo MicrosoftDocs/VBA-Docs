@@ -3,7 +3,6 @@ title: Entity.Operations property (Access)
 keywords: vbaac10.chm14568
 f1_keywords:
 - vbaac10.chm14568
-ms.prod: access
 api_name:
 - Access.Entity.Operations
 ms.assetid: 13113ff7-0f9d-cb50-c603-fede2aea910c

@@ -3,7 +3,6 @@ title: OptionGroup.BeforeUpdate property (Access)
 keywords: vbaac10.chm10862
 f1_keywords:
 - vbaac10.chm10862
-ms.prod: access
 api_name:
 - Access.OptionGroup.BeforeUpdate
 ms.assetid: 0ea86e13-03ba-9f56-ef42-e8147fa70064

@@ -3,7 +3,6 @@ title: BoundObjectFrame.OnKeyPress property (Access)
 keywords: vbaac10.chm10975
 f1_keywords:
 - vbaac10.chm10975
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnKeyPress
 ms.assetid: fd4c6208-d311-64dd-8683-d106d33cffc0

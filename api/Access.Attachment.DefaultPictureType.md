@@ -3,7 +3,6 @@ title: Attachment.DefaultPictureType property (Access)
 keywords: vbaac10.chm10452
 f1_keywords:
 - vbaac10.chm10452
-ms.prod: access
 api_name:
 - Access.Attachment.DefaultPictureType
 ms.assetid: 77032908-5b98-7072-1e53-520485580746

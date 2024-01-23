@@ -3,7 +3,6 @@ title: Form.UniqueTable property (Access)
 keywords: vbaac10.chm13485
 f1_keywords:
 - vbaac10.chm13485
-ms.prod: access
 api_name:
 - Access.Form.UniqueTable
 ms.assetid: 25f543fd-d636-db47-ef83-97f4409e74c2

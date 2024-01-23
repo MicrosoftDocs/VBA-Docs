@@ -3,7 +3,6 @@ title: CommandButton.OnExit property (Access)
 keywords: vbaac10.chm10494
 f1_keywords:
 - vbaac10.chm10494
-ms.prod: access
 api_name:
 - Access.CommandButton.OnExit
 ms.assetid: 8ff969a9-bb7c-9185-dba3-3259647fddbd

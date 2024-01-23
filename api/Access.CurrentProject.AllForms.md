@@ -3,7 +3,6 @@ title: CurrentProject.AllForms property (Access)
 keywords: vbaac10.chm12707
 f1_keywords:
 - vbaac10.chm12707
-ms.prod: access
 api_name:
 - Access.CurrentProject.AllForms
 ms.assetid: 4933a409-0d15-16ee-69a3-d78b0f2685c7

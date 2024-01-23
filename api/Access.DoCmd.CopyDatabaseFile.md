@@ -3,7 +3,6 @@ title: DoCmd.CopyDatabaseFile method (Access)
 keywords: vbaac10.chm5088
 f1_keywords:
 - vbaac10.chm5088
-ms.prod: access
 api_name:
 - Access.DoCmd.CopyDatabaseFile
 ms.assetid: 15a820d9-fbcb-d803-d58a-5718924e6c73

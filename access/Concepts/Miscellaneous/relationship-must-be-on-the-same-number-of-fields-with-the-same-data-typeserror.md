@@ -3,7 +3,6 @@ title: Relationship must be on the same number of fields with the same data type
 keywords: jeterr40.chm5003368
 f1_keywords:
 - jeterr40.chm5003368
-ms.prod: access
 ms.assetid: 84b5de59-bfcb-5b10-23b6-13acec8b87ce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

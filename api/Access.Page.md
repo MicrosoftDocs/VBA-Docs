@@ -3,7 +3,6 @@ title: Page object (Access)
 keywords: vbaac10.chm10124
 f1_keywords:
 - vbaac10.chm10124
-ms.prod: access
 api_name:
 - Access.Page
 ms.assetid: 6351b0ea-bd07-5ee6-ea20-0d410e09d939

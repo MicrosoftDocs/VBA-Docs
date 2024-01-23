@@ -3,7 +3,6 @@ title: ObjectFrame.OnMouseDown property (Access)
 keywords: vbaac10.chm11621
 f1_keywords:
 - vbaac10.chm11621
-ms.prod: access
 api_name:
 - Access.ObjectFrame.OnMouseDown
 ms.assetid: de03fb25-bf9b-4365-3540-68505f58048c

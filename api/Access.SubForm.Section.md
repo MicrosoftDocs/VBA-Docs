@@ -3,7 +3,6 @@ title: SubForm.Section property (Access)
 keywords: vbaac10.chm11953
 f1_keywords:
 - vbaac10.chm11953
-ms.prod: access
 api_name:
 - Access.SubForm.Section
 ms.assetid: 0b3ff299-9919-5a81-69fc-9907d576bbdb

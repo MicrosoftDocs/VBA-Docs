@@ -3,7 +3,6 @@ title: WebBrowserControl.Dirty event (Access)
 keywords: vbaac10.chm143128
 f1_keywords:
 - vbaac10.chm143128
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Dirty
 ms.assetid: 33ed56a4-6027-b369-7210-9fadf44adf2c

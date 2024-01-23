@@ -3,7 +3,6 @@ title: ObjectFrame.Left property (Access)
 keywords: vbaac10.chm11588
 f1_keywords:
 - vbaac10.chm11588
-ms.prod: access
 api_name:
 - Access.ObjectFrame.Left
 ms.assetid: 30af95f2-7643-d3a1-2d6f-69ea98a227f9

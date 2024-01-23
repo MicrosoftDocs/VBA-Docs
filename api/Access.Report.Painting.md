@@ -3,7 +3,6 @@ title: Report.Painting property (Access)
 keywords: vbaac10.chm13736
 f1_keywords:
 - vbaac10.chm13736
-ms.prod: access
 api_name:
 - Access.Report.Painting
 ms.assetid: 82c5a5e6-9d87-7293-e0f5-8ee950f3b85f

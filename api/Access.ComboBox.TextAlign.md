@@ -3,7 +3,6 @@ title: ComboBox.TextAlign property (Access)
 keywords: vbaac10.chm11420
 f1_keywords:
 - vbaac10.chm11420
-ms.prod: access
 api_name:
 - Access.ComboBox.TextAlign
 ms.assetid: c5de59ad-f41f-8f19-6056-16ca88a1937d

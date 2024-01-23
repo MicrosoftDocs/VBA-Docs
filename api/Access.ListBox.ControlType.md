@@ -3,7 +3,6 @@ title: ListBox.ControlType property (Access)
 keywords: vbaac10.chm11220
 f1_keywords:
 - vbaac10.chm11220
-ms.prod: access
 api_name:
 - Access.ListBox.ControlType
 ms.assetid: 3002d198-961a-69d4-58b5-c0b096747232

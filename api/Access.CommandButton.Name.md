@@ -3,7 +3,6 @@ title: CommandButton.Name property (Access)
 keywords: vbaac10.chm10506
 f1_keywords:
 - vbaac10.chm10506
-ms.prod: access
 api_name:
 - Access.CommandButton.Name
 ms.assetid: 1e0f700c-9114-4add-4a0a-4f93266951d5

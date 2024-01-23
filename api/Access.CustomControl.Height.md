@@ -3,7 +3,6 @@ title: CustomControl.Height property (Access)
 keywords: vbaac10.chm12023
 f1_keywords:
 - vbaac10.chm12023
-ms.prod: access
 api_name:
 - Access.CustomControl.Height
 ms.assetid: 1e482282-30f7-139e-dd89-40cf89139a2e

@@ -3,7 +3,6 @@ title: SmartTag.Delete method (Access)
 keywords: vbaac10.chm13324
 f1_keywords:
 - vbaac10.chm13324
-ms.prod: access
 api_name:
 - Access.SmartTag.Delete
 ms.assetid: 2dc8208d-27e6-446e-8595-fa3228187e0c

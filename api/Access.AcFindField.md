@@ -3,7 +3,6 @@ title: AcFindField enumeration (Access)
 keywords: vbaac10.chm10016
 f1_keywords:
 - vbaac10.chm10016
-ms.prod: access
 api_name:
 - Access.AcFindField
 ms.assetid: 81849a41-1dd0-bf11-0bd7-e0ca21bc6abd

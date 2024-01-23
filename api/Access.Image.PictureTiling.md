@@ -3,7 +3,6 @@ title: Image.PictureTiling property (Access)
 keywords: vbaac10.chm10371
 f1_keywords:
 - vbaac10.chm10371
-ms.prod: access
 api_name:
 - Access.Image.PictureTiling
 ms.assetid: 9be8cde0-4632-197e-ea3a-8db5846b8920

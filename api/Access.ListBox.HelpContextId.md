@@ -3,7 +3,6 @@ title: ListBox.HelpContextId property (Access)
 keywords: vbaac10.chm11262
 f1_keywords:
 - vbaac10.chm11262
-ms.prod: access
 api_name:
 - Access.ListBox.HelpContextId
 ms.assetid: df459501-09ff-cdae-4903-526d62e1c05b

@@ -3,7 +3,6 @@ title: NavigationControl.OnDblClick property (Access)
 keywords: vbaac10.chm11123
 f1_keywords:
 - vbaac10.chm11123
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnDblClick
 ms.assetid: 19b575b9-a727-85e0-f5c3-c4ebe3bbd987

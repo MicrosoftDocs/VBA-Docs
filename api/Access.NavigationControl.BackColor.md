@@ -3,7 +3,6 @@ title: NavigationControl.BackColor property (Access)
 keywords: vbaac10.chm11076
 f1_keywords:
 - vbaac10.chm11076
-ms.prod: access
 api_name:
 - Access.NavigationControl.BackColor
 ms.assetid: d765586f-9454-756d-b6eb-b61bdde9ea16

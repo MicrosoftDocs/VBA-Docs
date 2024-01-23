@@ -3,7 +3,6 @@ title: OptionButton.Exit event (Access)
 keywords: vbaac10.chm14137
 f1_keywords:
 - vbaac10.chm14137
-ms.prod: access
 api_name:
 - Access.OptionButton.Exit
 ms.assetid: 2be3f0b3-73a1-e1e9-28ca-ee0cbe92e040

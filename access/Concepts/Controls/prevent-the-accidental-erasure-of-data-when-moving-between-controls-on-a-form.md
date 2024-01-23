@@ -1,6 +1,5 @@
 ---
 title: Prevent the accidental erasure of data when moving between controls on a form
-ms.prod: access
 ms.assetid: 1733caa5-5067-e6d9-b614-51053180f22e
 ms.date: 09/21/2018
 ms.localizationpriority: medium

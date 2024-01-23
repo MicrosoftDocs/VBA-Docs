@@ -3,7 +3,6 @@ title: OptionGroup.LabelY property (Access)
 keywords: vbaac10.chm10855
 f1_keywords:
 - vbaac10.chm10855
-ms.prod: access
 api_name:
 - Access.OptionGroup.LabelY
 ms.assetid: 5044ac6f-630d-1a09-1e8e-5eae3c38c3c4

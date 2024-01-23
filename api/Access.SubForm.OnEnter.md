@@ -3,7 +3,6 @@ title: SubForm.OnEnter property (Access)
 keywords: vbaac10.chm11958
 f1_keywords:
 - vbaac10.chm11958
-ms.prod: access
 api_name:
 - Access.SubForm.OnEnter
 ms.assetid: 381870d2-b3f2-d914-bdd5-0a120e1f28da

@@ -3,7 +3,6 @@ title: NavigationButton.HoverForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.NavigationButton.HoverForeColor
 ms.assetid: c36924aa-8d94-36af-ecf8-c44cfb777ef0

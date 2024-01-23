@@ -1,6 +1,5 @@
 ---
 title: Change the filter or sort order of a form or report
-ms.prod: access
 ms.assetid: 9888dbcd-7409-f334-115e-a318131ebca4
 ms.date: 09/25/2018
 ms.localizationpriority: medium

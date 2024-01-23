@@ -3,7 +3,6 @@ title: ReturnVars object (Access)
 keywords: vbaac10.chm14688
 f1_keywords:
 - vbaac10.chm14688
-ms.prod: access
 api_name:
 - Access.ReturnVars
 ms.assetid: 3cc16825-665f-4bd8-a606-6b3b93594659

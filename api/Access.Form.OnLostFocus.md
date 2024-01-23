@@ -3,7 +3,6 @@ title: Form.OnLostFocus property (Access)
 keywords: vbaac10.chm13448
 f1_keywords:
 - vbaac10.chm13448
-ms.prod: access
 api_name:
 - Access.Form.OnLostFocus
 ms.assetid: 2bbc34d2-e4e6-7133-ef9e-d112514ace92

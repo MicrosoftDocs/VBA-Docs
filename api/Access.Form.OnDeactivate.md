@@ -3,7 +3,6 @@ title: Form.OnDeactivate property (Access)
 keywords: vbaac10.chm13446
 f1_keywords:
 - vbaac10.chm13446
-ms.prod: access
 api_name:
 - Access.Form.OnDeactivate
 ms.assetid: c241c3cc-377b-7407-87f3-3003edb3ff8f

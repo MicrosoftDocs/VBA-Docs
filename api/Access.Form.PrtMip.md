@@ -3,7 +3,6 @@ title: Form.PrtMip property (Access)
 keywords: vbaac10.chm13417
 f1_keywords:
 - vbaac10.chm13417
-ms.prod: access
 api_name:
 - Access.Form.PrtMip
 ms.assetid: 0b87f955-638c-5cd2-95b1-5aec870350ff

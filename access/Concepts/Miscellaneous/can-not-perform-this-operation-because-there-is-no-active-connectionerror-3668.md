@@ -3,7 +3,6 @@ title: Can not perform this operation because there is no active connection. (Er
 keywords: jeterr40.chm5003668
 f1_keywords:
 - jeterr40.chm5003668
-ms.prod: access
 ms.assetid: 157fd0eb-053f-c46e-4cbe-0286c463fad8
 ms.date: 06/08/2019
 ms.localizationpriority: medium

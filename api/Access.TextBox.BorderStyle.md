@@ -3,7 +3,6 @@ title: TextBox.BorderStyle property (Access)
 keywords: vbaac10.chm11078
 f1_keywords:
 - vbaac10.chm11078
-ms.prod: access
 api_name:
 - Access.TextBox.BorderStyle
 ms.assetid: 783c9424-669f-fcc7-b23d-6f5de03bad79

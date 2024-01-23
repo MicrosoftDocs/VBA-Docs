@@ -3,7 +3,6 @@ title: Form.BeforeInsert event (Access)
 keywords: vbaac10.chm13635
 f1_keywords:
 - vbaac10.chm13635
-ms.prod: access
 api_name:
 - Access.Form.BeforeInsert
 ms.assetid: de0f6b1a-fc11-4000-2c0c-b0ad9ccfccc2

@@ -3,7 +3,6 @@ title: WebBrowserControl.ScrollTop property (Access)
 keywords: vbaac10.chm14365,vbaac10.chm5909
 f1_keywords:
 - vbaac10.chm14365,vbaac10.chm5909
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.ScrollTop
 ms.assetid: adc0ee0f-1262-373f-a0db-de7bba917e13

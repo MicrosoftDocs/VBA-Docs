@@ -3,7 +3,6 @@ title: Cannot import password-protected spreadsheet. (Error 3244)
 keywords: jeterr40.chm5003244
 f1_keywords:
 - jeterr40.chm5003244
-ms.prod: access
 ms.assetid: 0e46b9fa-ea31-4c13-9529-77ed01558cef
 ms.date: 06/08/2019
 ms.localizationpriority: medium

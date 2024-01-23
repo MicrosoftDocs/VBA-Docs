@@ -3,7 +3,6 @@ title: Action Query
 keywords: vbaac10.chm5186637
 f1_keywords:
 - vbaac10.chm5186637
-ms.prod: access
 ms.assetid: a59c517e-00f4-fc1b-3fef-ac13f00e2317
 ms.date: 08/15/2022
 ms.localizationpriority: medium

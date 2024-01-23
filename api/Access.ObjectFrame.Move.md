@@ -3,7 +3,6 @@ title: ObjectFrame.Move method (Access)
 keywords: vbaac10.chm11625
 f1_keywords:
 - vbaac10.chm11625
-ms.prod: access
 api_name:
 - Access.ObjectFrame.Move
 ms.assetid: 63b05ea6-d761-adfa-5aa6-25d16ae5ed3c

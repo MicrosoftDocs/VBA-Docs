@@ -3,7 +3,6 @@ title: ComboBox.OnKeyPress property (Access)
 keywords: vbaac10.chm11462
 f1_keywords:
 - vbaac10.chm11462
-ms.prod: access
 api_name:
 - Access.ComboBox.OnKeyPress
 ms.assetid: ddd9e200-5578-3269-d2c8-5352684e5fab

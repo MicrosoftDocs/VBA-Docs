@@ -3,7 +3,6 @@ title: TextBox.ValidationRule property (Access)
 keywords: vbaac10.chm11051
 f1_keywords:
 - vbaac10.chm11051
-ms.prod: access
 api_name:
 - Access.TextBox.ValidationRule
 ms.assetid: e481fba1-7e08-f8da-b644-5e38c2bf445e

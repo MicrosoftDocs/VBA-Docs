@@ -3,7 +3,6 @@ title: Image.LayoutID property (Access)
 keywords: vbaac10.chm10428
 f1_keywords:
 - vbaac10.chm10428
-ms.prod: access
 api_name:
 - Access.Image.LayoutID
 ms.assetid: ae6e765b-a349-f16e-ce78-671ac7f6ca1b

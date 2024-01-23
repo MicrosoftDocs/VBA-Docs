@@ -3,7 +3,6 @@ title: ObjectFrame.VarOleObject property (Access)
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
-ms.prod: access
 api_name:
 - Access.ObjectFrame.VarOleObject
 ms.assetid: e04e769d-07fb-dacc-aa70-ddd3a064d785

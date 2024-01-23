@@ -3,7 +3,6 @@ title: Screen object (Access)
 keywords: vbaac10.chm12484
 f1_keywords:
 - vbaac10.chm12484
-ms.prod: access
 api_name:
 - Access.Screen
 ms.assetid: 00743775-071b-9ccd-7687-f3b992e9346e

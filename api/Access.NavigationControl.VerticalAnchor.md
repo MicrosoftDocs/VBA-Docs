@@ -3,7 +3,6 @@ title: NavigationControl.VerticalAnchor property (Access)
 keywords: vbaac10.chm11166
 f1_keywords:
 - vbaac10.chm11166
-ms.prod: access
 api_name:
 - Access.NavigationControl.VerticalAnchor
 ms.assetid: 0018fcea-2b3b-3e57-8055-4aaef922f999

@@ -3,7 +3,6 @@ title: Operations.Item property (Access)
 keywords: vbaac10.chm14571
 f1_keywords:
 - vbaac10.chm14571
-ms.prod: access
 api_name:
 - Access.Operations.Item
 ms.assetid: 292f3492-ca44-21e3-245a-aaf0f9167e4d

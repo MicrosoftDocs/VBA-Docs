@@ -3,7 +3,6 @@ title: CommandButton.FontSize property (Access)
 keywords: vbaac10.chm10473
 f1_keywords:
 - vbaac10.chm10473
-ms.prod: access
 api_name:
 - Access.CommandButton.FontSize
 ms.assetid: 3ceff45a-fe5d-f692-7ad3-ab20143e12fc

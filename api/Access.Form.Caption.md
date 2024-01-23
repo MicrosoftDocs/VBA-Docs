@@ -3,7 +3,6 @@ title: Form.Caption property (Access)
 keywords: vbaac10.chm13351
 f1_keywords:
 - vbaac10.chm13351
-ms.prod: access
 api_name:
 - Access.Form.Caption
 ms.assetid: 44dcd309-7a07-c4b3-2d85-d1bc09f98843

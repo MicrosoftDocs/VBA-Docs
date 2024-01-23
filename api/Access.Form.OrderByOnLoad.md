@@ -3,7 +3,6 @@ title: Form.OrderByOnLoad property (Access)
 keywords: vbaac10.chm13562
 f1_keywords:
 - vbaac10.chm13562
-ms.prod: access
 api_name:
 - Access.Form.OrderByOnLoad
 ms.assetid: 8acb931e-d0fc-4a17-cd89-1f802af4e4d1

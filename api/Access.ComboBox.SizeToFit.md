@@ -3,7 +3,6 @@ title: ComboBox.SizeToFit method (Access)
 keywords: vbaac10.chm11364
 f1_keywords:
 - vbaac10.chm11364
-ms.prod: access
 api_name:
 - Access.ComboBox.SizeToFit
 ms.assetid: 720b5380-d673-4cc0-9425-fc6ae5ae7fb5

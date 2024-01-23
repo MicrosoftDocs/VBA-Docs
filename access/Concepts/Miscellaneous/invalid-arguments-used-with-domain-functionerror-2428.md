@@ -1,6 +1,5 @@
 ---
 title: Invalid arguments used with domain function. (Error 2428)
-ms.prod: access
 ms.assetid: 1aa10a2c-68fc-8daa-736f-a6898517c1e3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

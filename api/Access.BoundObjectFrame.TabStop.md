@@ -3,7 +3,6 @@ title: BoundObjectFrame.TabStop property (Access)
 keywords: vbaac10.chm10925
 f1_keywords:
 - vbaac10.chm10925
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.TabStop
 ms.assetid: 9bcec2a4-c1b1-88db-e7b4-15e744c1e340

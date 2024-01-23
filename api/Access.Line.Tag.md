@@ -3,7 +3,6 @@ title: Line.Tag property (Access)
 keywords: vbaac10.chm10344
 f1_keywords:
 - vbaac10.chm10344
-ms.prod: access
 api_name:
 - Access.Line.Tag
 ms.assetid: 6823d960-37e3-4597-7cb0-656d38c4cf6b

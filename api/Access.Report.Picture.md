@@ -3,7 +3,6 @@ title: Report.Picture property (Access)
 keywords: vbaac10.chm13704
 f1_keywords:
 - vbaac10.chm13704
-ms.prod: access
 api_name:
 - Access.Report.Picture
 ms.assetid: 18c914c4-0c6d-6ab3-49e0-0e68a9b60ce0

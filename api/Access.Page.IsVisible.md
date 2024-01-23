@@ -3,7 +3,6 @@ title: Page.IsVisible property (Access)
 keywords: vbaac10.chm12165
 f1_keywords:
 - vbaac10.chm12165
-ms.prod: access
 api_name:
 - Access.Page.IsVisible
 ms.assetid: dae9781d-b640-47b8-3266-364678590119

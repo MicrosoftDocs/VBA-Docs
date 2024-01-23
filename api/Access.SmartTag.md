@@ -3,7 +3,6 @@ title: SmartTag object (Access)
 keywords: vbaac10.chm13316
 f1_keywords:
 - vbaac10.chm13316
-ms.prod: access
 api_name:
 - Access.SmartTag
 ms.assetid: ec396ef0-65a4-41bc-ab59-1160e6ef1813

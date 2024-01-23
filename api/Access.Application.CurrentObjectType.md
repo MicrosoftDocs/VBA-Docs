@@ -3,7 +3,6 @@ title: Application.CurrentObjectType property (Access)
 keywords: vbaac10.chm12501
 f1_keywords:
 - vbaac10.chm12501
-ms.prod: access
 api_name:
 - Access.Application.CurrentObjectType
 ms.assetid: 10065578-b218-8b83-f210-056922a57c4b

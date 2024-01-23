@@ -3,7 +3,6 @@ title: CustomControl.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.CustomControl.BorderTint
 ms.assetid: 30e29d2f-df31-457d-eb2d-520d6e6bb9a4

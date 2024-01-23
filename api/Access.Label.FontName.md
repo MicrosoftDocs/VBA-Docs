@@ -3,7 +3,6 @@ title: Label.FontName property (Access)
 keywords: vbaac10.chm10210
 f1_keywords:
 - vbaac10.chm10210
-ms.prod: access
 api_name:
 - Access.Label.FontName
 ms.assetid: 2b91768e-390d-ad74-5805-62b3111d4fc6

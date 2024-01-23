@@ -3,7 +3,6 @@ title: Image.MouseMove event (Access)
 keywords: vbaac10.chm14169
 f1_keywords:
 - vbaac10.chm14169
-ms.prod: access
 api_name:
 - Access.Image.MouseMove
 ms.assetid: 651525b5-0a71-0e54-d4ed-3802e672b4c2

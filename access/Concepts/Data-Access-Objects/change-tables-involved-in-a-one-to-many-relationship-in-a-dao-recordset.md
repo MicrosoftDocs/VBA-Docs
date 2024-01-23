@@ -1,6 +1,5 @@
 ---
 title: Change tables involved in a one-to-many relationship in a DAO Recordset
-ms.prod: access
 ms.assetid: d859066f-dfb5-e3b5-0cc8-fed38c3adb26
 ms.date: 09/21/2018
 ms.localizationpriority: medium

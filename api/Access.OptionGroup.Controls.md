@@ -3,7 +3,6 @@ title: OptionGroup.Controls property (Access)
 keywords: vbaac10.chm10817
 f1_keywords:
 - vbaac10.chm10817
-ms.prod: access
 api_name:
 - Access.OptionGroup.Controls
 ms.assetid: e252c2b0-ab71-ed95-da04-62cec990f63e

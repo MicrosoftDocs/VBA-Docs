@@ -3,7 +3,6 @@ title: Report.ApplyFilter event (Access)
 keywords: vbaac10.chm13899
 f1_keywords:
 - vbaac10.chm13899
-ms.prod: access
 api_name:
 - Access.Report.ApplyFilter
 ms.assetid: 46cbe83d-4395-d9e6-3187-c51152269e62

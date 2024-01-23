@@ -3,7 +3,6 @@ title: <Name> is not an index in this table. (Error 3800)
 keywords: jeterr40.chm5003800
 f1_keywords:
 - jeterr40.chm5003800
-ms.prod: access
 ms.assetid: 4464e67d-a4df-ec17-6acb-49af09d702a6
 ms.date: 06/08/2019
 ms.localizationpriority: high

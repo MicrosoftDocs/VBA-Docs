@@ -3,7 +3,6 @@ title: OptionButton.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: access
 api_name:
 - Access.OptionButton.BorderShade
 ms.assetid: b0bf4c1f-f3e9-ee11-4a53-d834c40a7c63

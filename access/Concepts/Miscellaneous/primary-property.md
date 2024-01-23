@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm4470
 f1_keywords:
 - vbaac10.chm4470
-ms.prod: access
 api_name:
 - Access.Primary
 ms.assetid: 782e3341-f47a-2054-9884-1feb2e68496c

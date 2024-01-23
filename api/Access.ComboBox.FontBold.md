@@ -3,7 +3,6 @@ title: ComboBox.FontBold property (Access)
 keywords: vbaac10.chm11421
 f1_keywords:
 - vbaac10.chm11421
-ms.prod: access
 api_name:
 - Access.ComboBox.FontBold
 ms.assetid: c125e323-8e4a-4814-3dd6-cc5bef6ebf96

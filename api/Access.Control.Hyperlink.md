@@ -3,7 +3,6 @@ title: Control.Hyperlink property (Access)
 keywords: vbaac10.chm10151
 f1_keywords:
 - vbaac10.chm10151
-ms.prod: access
 api_name:
 - Access.Control.Hyperlink
 ms.assetid: f27ac8cc-f5ba-cbc5-4153-7b24ce199679

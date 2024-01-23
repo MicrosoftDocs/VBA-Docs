@@ -3,7 +3,6 @@ title: SubForm.Exit event (Access)
 keywords: vbaac10.chm14230
 f1_keywords:
 - vbaac10.chm14230
-ms.prod: access
 api_name:
 - Access.SubForm.Exit
 ms.assetid: f925a6da-33cd-a1dd-1ad7-b11504c574fd

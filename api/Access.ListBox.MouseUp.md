@@ -3,7 +3,6 @@ title: ListBox.MouseUp event (Access)
 keywords: vbaac10.chm14181
 f1_keywords:
 - vbaac10.chm14181
-ms.prod: access
 api_name:
 - Access.ListBox.MouseUp
 ms.assetid: 8d2d5ca3-e93f-9021-341c-769948432d2a

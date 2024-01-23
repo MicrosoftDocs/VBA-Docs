@@ -3,7 +3,6 @@ title: AllModules object (Access)
 keywords: vbaac10.chm12686
 f1_keywords:
 - vbaac10.chm12686
-ms.prod: access
 api_name:
 - Access.AllModules
 ms.assetid: 322815ae-3afd-f299-0ce9-2e9dbbb8536a

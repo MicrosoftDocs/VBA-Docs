@@ -3,7 +3,6 @@ title: Report.Scale method (Access)
 keywords: vbaac10.chm13785
 f1_keywords:
 - vbaac10.chm13785
-ms.prod: access
 api_name:
 - Access.Report.Scale
 ms.assetid: 6a261d1d-9474-7374-f399-4d46e404058b

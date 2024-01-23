@@ -3,7 +3,6 @@ title: SmartTagAction.Parent property (Access)
 keywords: vbaac10.chm13291
 f1_keywords:
 - vbaac10.chm13291
-ms.prod: access
 api_name:
 - Access.SmartTagAction.Parent
 ms.assetid: 78891948-dd77-3b20-526c-8130972aeb85

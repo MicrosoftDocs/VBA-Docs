@@ -3,7 +3,6 @@ title: ListBox.ControlSource property (Access)
 keywords: vbaac10.chm11221
 f1_keywords:
 - vbaac10.chm11221
-ms.prod: access
 api_name:
 - Access.ListBox.ControlSource
 ms.assetid: 3122f8ec-d7d6-18b2-5a68-2c175d2b0d85

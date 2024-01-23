@@ -3,7 +3,6 @@ title: OptionButton.SpecialEffect property (Access)
 keywords: vbaac10.chm10586
 f1_keywords:
 - vbaac10.chm10586
-ms.prod: access
 api_name:
 - Access.OptionButton.SpecialEffect
 ms.assetid: 33dd01c0-0ee0-640d-d8f3-f7c3590aeb90

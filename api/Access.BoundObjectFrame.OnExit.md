@@ -3,7 +3,6 @@ title: BoundObjectFrame.OnExit property (Access)
 keywords: vbaac10.chm10965
 f1_keywords:
 - vbaac10.chm10965
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnExit
 ms.assetid: aec13583-19c6-b5a6-2bc1-0a46e23e9459

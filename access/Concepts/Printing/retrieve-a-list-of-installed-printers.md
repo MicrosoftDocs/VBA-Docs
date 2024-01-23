@@ -1,6 +1,5 @@
 ---
 title: Retrieve a list of installed printers
-ms.prod: access
 ms.assetid: e3162c3e-6b5b-77c3-32f9-1fdfa64cdefc
 ms.date: 09/26/2018
 ms.localizationpriority: medium

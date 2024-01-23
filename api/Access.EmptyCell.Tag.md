@@ -3,7 +3,6 @@ title: EmptyCell.Tag property (Access)
 keywords: vbaac10.chm14320
 f1_keywords:
 - vbaac10.chm14320
-ms.prod: access
 api_name:
 - Access.EmptyCell.Tag
 ms.assetid: 3590b561-e233-eacf-fa0a-b401c5fd64a4

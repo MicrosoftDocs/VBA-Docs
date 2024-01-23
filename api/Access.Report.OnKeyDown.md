@@ -3,7 +3,6 @@ title: Report.OnKeyDown property (Access)
 keywords: vbaac10.chm13866
 f1_keywords:
 - vbaac10.chm13866
-ms.prod: access
 api_name:
 - Access.Report.OnKeyDown
 ms.assetid: 22be1d11-abbd-81ff-d83c-66aa2884560a

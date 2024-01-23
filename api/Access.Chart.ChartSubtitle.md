@@ -3,7 +3,6 @@ title: Chart.ChartSubtitle property (Access)
 keywords: vbaac10.chm6157
 f1_keywords:
 - vbaac10.chm6157
-ms.prod: access
 api_name:
 - Access.Chart.ChartSubtitle
 ms.date: 11/28/2018

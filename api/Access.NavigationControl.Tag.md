@@ -3,7 +3,6 @@ title: NavigationControl.Tag property (Access)
 keywords: vbaac10.chm11105
 f1_keywords:
 - vbaac10.chm11105
-ms.prod: access
 api_name:
 - Access.NavigationControl.Tag
 ms.assetid: 6bec7ae8-556c-77b1-19cf-aae36dc646ec

@@ -3,7 +3,6 @@ title: DoCmd.OpenReport method (Access)
 keywords: vbaac10.chm4163
 f1_keywords:
 - vbaac10.chm4163
-ms.prod: access
 api_name:
 - Access.DoCmd.OpenReport
 ms.assetid: 3c08755a-5116-f085-d498-725dc12e62f1

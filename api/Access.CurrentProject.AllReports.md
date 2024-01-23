@@ -3,7 +3,6 @@ title: CurrentProject.AllReports property (Access)
 keywords: vbaac10.chm12708
 f1_keywords:
 - vbaac10.chm12708
-ms.prod: access
 api_name:
 - Access.CurrentProject.AllReports
 ms.assetid: dda91007-88ef-5660-f67f-4cc9c6f5dbb3

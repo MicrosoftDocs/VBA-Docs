@@ -3,7 +3,6 @@ title: The decimal field's precision is too small to accept the numeric you atte
 keywords: jeterr40.chm5003761
 f1_keywords:
 - jeterr40.chm5003761
-ms.prod: access
 ms.assetid: a7a8ca41-6aff-b990-bf00-9d144a5b2e50
 ms.date: 06/08/2017
 ms.localizationpriority: medium

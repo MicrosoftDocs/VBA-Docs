@@ -3,7 +3,6 @@ title: TextBox.Dirty event (Access)
 keywords: vbaac10.chm14209
 f1_keywords:
 - vbaac10.chm14209
-ms.prod: access
 api_name:
 - Access.TextBox.Dirty
 ms.assetid: d6073892-7618-8e23-1fb1-795d3c76c2b6

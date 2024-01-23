@@ -3,7 +3,6 @@ title: ORDER BY clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277571
 f1_keywords:
 - jetsql40.chm5277571
-ms.prod: access
 ms.assetid: 9e5e6911-1117-b220-7f11-1ae7f87cbdc0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

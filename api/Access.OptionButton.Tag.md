@@ -3,7 +3,6 @@ title: OptionButton.Tag property (Access)
 keywords: vbaac10.chm10605
 f1_keywords:
 - vbaac10.chm10605
-ms.prod: access
 api_name:
 - Access.OptionButton.Tag
 ms.assetid: 147ddd8e-6fe2-d59d-2f83-71c7cdfcd263

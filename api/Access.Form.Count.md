@@ -3,7 +3,6 @@ title: Form.Count property (Access)
 keywords: vbaac10.chm13409
 f1_keywords:
 - vbaac10.chm13409
-ms.prod: access
 api_name:
 - Access.Form.Count
 ms.assetid: df11357c-b734-92b0-5793-aa64b4d960ef

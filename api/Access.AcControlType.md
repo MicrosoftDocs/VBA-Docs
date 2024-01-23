@@ -3,7 +3,6 @@ title: AcControlType enumeration (Access)
 keywords: vbaac10.chm10011
 f1_keywords:
 - vbaac10.chm10011
-ms.prod: access
 api_name:
 - Access.AcControlType
 ms.assetid: 562ecad2-5cb5-7624-8f5a-236f42bd0104

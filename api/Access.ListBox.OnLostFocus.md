@@ -3,7 +3,6 @@ title: ListBox.OnLostFocus property (Access)
 keywords: vbaac10.chm11283
 f1_keywords:
 - vbaac10.chm11283
-ms.prod: access
 api_name:
 - Access.ListBox.OnLostFocus
 ms.assetid: ce4b1917-c986-3059-69cb-830345c5f25a

@@ -3,7 +3,6 @@ title: ListBox.BoundColumn property (Access)
 keywords: vbaac10.chm11227
 f1_keywords:
 - vbaac10.chm11227
-ms.prod: access
 api_name:
 - Access.ListBox.BoundColumn
 ms.assetid: f6a742a4-40ff-bb83-8946-7e8bb71e5690

@@ -3,7 +3,6 @@ title: ListBox.Recordset property (Access)
 keywords: vbaac10.chm11300
 f1_keywords:
 - vbaac10.chm11300
-ms.prod: access
 api_name:
 - Access.ListBox.Recordset
 ms.assetid: ead14d35-eb76-6487-ac9e-329b5d38366c

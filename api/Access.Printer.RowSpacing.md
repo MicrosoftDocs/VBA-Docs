@@ -3,7 +3,6 @@ title: Printer.RowSpacing property (Access)
 keywords: vbaac10.chm12873
 f1_keywords:
 - vbaac10.chm12873
-ms.prod: access
 api_name:
 - Access.Printer.RowSpacing
 ms.assetid: 78d6a87d-53ae-9c35-3ca6-3b66cb162ecf

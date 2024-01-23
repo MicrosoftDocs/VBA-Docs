@@ -3,7 +3,6 @@ title: Report.Tag property (Access)
 keywords: vbaac10.chm13760
 f1_keywords:
 - vbaac10.chm13760
-ms.prod: access
 api_name:
 - Access.Report.Tag
 ms.assetid: 7e67170b-0058-bdd8-161b-806f732fbca4

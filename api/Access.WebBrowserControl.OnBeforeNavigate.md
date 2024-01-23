@@ -3,7 +3,6 @@ title: WebBrowserControl.OnBeforeNavigate property (Access)
 keywords: vbaac10.chm14413
 f1_keywords:
 - vbaac10.chm14413
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnBeforeNavigate
 ms.assetid: 89b73b25-a815-f286-7777-bd19cb39b402

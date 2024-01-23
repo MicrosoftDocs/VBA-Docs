@@ -3,7 +3,6 @@ title: Improvements in compilation performance
 keywords: vbaac10.chm5187335
 f1_keywords:
 - vbaac10.chm5187335
-ms.prod: access
 ms.assetid: 122a8429-ad31-4e4b-2f68-d9d07c1deeeb
 ms.date: 09/21/2018
 ms.localizationpriority: medium

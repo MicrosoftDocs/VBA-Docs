@@ -3,7 +3,6 @@ title: ObjectFrame.ObjectVerbsCount property (Access)
 keywords: vbaac10.chm11609
 f1_keywords:
 - vbaac10.chm11609
-ms.prod: access
 api_name:
 - Access.ObjectFrame.ObjectVerbsCount
 ms.assetid: 8c7a6302-cdf0-5997-7b71-65cfb6f0a7d3

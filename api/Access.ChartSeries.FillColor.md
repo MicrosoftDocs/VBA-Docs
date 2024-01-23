@@ -3,7 +3,6 @@ title: ChartSeries.FillColor property (Access)
 keywords: vbaac10.chm14785
 f1_keywords:
 - vbaac10.chm14785
-ms.prod: access
 api_name:
 - Access.ChartSeries.FillColor
 ms.date: 11/28/2018

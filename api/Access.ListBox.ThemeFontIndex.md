@@ -3,7 +3,6 @@ title: ListBox.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: access
 api_name:
 - Access.ListBox.ThemeFontIndex
 ms.assetid: 7fa3a5ef-c59b-8ce5-1d7f-6b00991dc12b

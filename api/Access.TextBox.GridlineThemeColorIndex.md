@@ -3,7 +3,6 @@ title: TextBox.GridlineThemeColorIndex property (Access)
 keywords: vbaac10.chm14635
 f1_keywords:
 - vbaac10.chm14635
-ms.prod: access
 api_name:
 - Access.TextBox.GridlineThemeColorIndex
 ms.assetid: 2c67d4b5-47d6-5430-cac0-bc05c3151305

@@ -3,7 +3,6 @@ title: Report.CloseButton property (Access)
 keywords: vbaac10.chm13803
 f1_keywords:
 - vbaac10.chm13803
-ms.prod: access
 api_name:
 - Access.Report.CloseButton
 ms.assetid: dad15f66-4787-a4eb-dbbe-d698faaa0917

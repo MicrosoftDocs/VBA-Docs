@@ -3,7 +3,6 @@ title: NavigationButton.Click event (Access)
 keywords: vbaac10.chm14077
 f1_keywords:
 - vbaac10.chm14077
-ms.prod: access
 api_name:
 - Access.NavigationButton.Click
 ms.assetid: b3a11a9a-41ae-625b-1fa2-c771039957b1

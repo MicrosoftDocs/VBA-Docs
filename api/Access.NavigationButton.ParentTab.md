@@ -3,7 +3,6 @@ title: NavigationButton.ParentTab property (Access)
 keywords: vbaac10.chm14645
 f1_keywords:
 - vbaac10.chm14645
-ms.prod: access
 api_name:
 - Access.NavigationButton.ParentTab
 ms.assetid: a699e444-c520-2d07-dc84-34111659bd97

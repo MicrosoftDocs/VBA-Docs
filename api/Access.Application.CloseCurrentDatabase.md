@@ -3,7 +3,6 @@ title: Application.CloseCurrentDatabase method (Access)
 keywords: vbaac10.chm12506
 f1_keywords:
 - vbaac10.chm12506
-ms.prod: access
 api_name:
 - Access.Application.CloseCurrentDatabase
 ms.assetid: f5dec73c-54b4-c5ea-7cb9-25b5997f539e

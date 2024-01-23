@@ -3,7 +3,6 @@ title: ListBox.LostFocus event (Access)
 keywords: vbaac10.chm14176
 f1_keywords:
 - vbaac10.chm14176
-ms.prod: access
 api_name:
 - Access.ListBox.LostFocus
 ms.assetid: 075bb519-5f53-88b2-f46a-b2c5eb067150

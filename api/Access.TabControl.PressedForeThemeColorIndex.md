@@ -3,7 +3,6 @@ title: TabControl.PressedForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14624
 f1_keywords:
 - vbaac10.chm14624
-ms.prod: access
 api_name:
 - Access.TabControl.PressedForeThemeColorIndex
 ms.assetid: c7fed49b-7d46-f278-da70-2e3995554af4

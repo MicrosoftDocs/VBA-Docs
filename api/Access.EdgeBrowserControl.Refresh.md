@@ -3,7 +3,6 @@ title: EdgeBrowserControl.Refresh method (Access)
 keywords: vbaac10.chm6170
 f1_keywords:
 - vbaac10.chm6170
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.Refresh
 ms.assetid: dd1f3029-62c0-48c7-8a22-2a56d994458d

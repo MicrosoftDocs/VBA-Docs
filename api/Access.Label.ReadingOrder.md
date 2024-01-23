@@ -3,7 +3,6 @@ title: Label.ReadingOrder property (Access)
 keywords: vbaac10.chm10231
 f1_keywords:
 - vbaac10.chm10231
-ms.prod: access
 api_name:
 - Access.Label.ReadingOrder
 ms.assetid: f6d9642b-b482-8300-e66a-5f320547fdfa

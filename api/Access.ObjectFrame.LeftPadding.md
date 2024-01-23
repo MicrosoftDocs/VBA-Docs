@@ -3,7 +3,6 @@ title: ObjectFrame.LeftPadding property (Access)
 keywords: vbaac10.chm11639
 f1_keywords:
 - vbaac10.chm11639
-ms.prod: access
 api_name:
 - Access.ObjectFrame.LeftPadding
 ms.assetid: b146f062-bf23-32d6-335a-2583b6171006

@@ -1,6 +1,5 @@
 ---
 title: Hide a subform if the main form contains no records
-ms.prod: access
 ms.assetid: 20482340-0c86-71c9-3ba1-b9f515397fbc
 ms.date: 09/21/2018
 ms.localizationpriority: medium

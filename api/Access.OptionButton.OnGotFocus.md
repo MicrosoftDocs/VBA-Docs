@@ -3,7 +3,6 @@ title: OptionButton.OnGotFocus property (Access)
 keywords: vbaac10.chm10612
 f1_keywords:
 - vbaac10.chm10612
-ms.prod: access
 api_name:
 - Access.OptionButton.OnGotFocus
 ms.assetid: 04c44e84-0a60-cef5-16eb-0a9ec90015ec

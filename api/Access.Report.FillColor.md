@@ -3,7 +3,6 @@ title: Report.FillColor property (Access)
 keywords: vbaac10.chm13756
 f1_keywords:
 - vbaac10.chm13756
-ms.prod: access
 api_name:
 - Access.Report.FillColor
 ms.assetid: 04fa1376-fddb-a4b3-04fd-d562f0567136

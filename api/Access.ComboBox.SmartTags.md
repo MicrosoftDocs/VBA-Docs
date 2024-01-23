@@ -3,7 +3,6 @@ title: ComboBox.SmartTags property (Access)
 keywords: vbaac10.chm11478
 f1_keywords:
 - vbaac10.chm11478
-ms.prod: access
 api_name:
 - Access.ComboBox.SmartTags
 ms.assetid: b86a8460-48c6-92ad-602b-1d736bb2c38c

@@ -3,7 +3,6 @@ title: BoundObjectFrame.Enter event (Access)
 keywords: vbaac10.chm14092
 f1_keywords:
 - vbaac10.chm14092
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Enter
 ms.assetid: aec0a8ad-b85f-e39a-ede7-79d63a384f00

@@ -3,7 +3,6 @@ title: Form.FilterOnLoad property (Access)
 keywords: vbaac10.chm13561
 f1_keywords:
 - vbaac10.chm13561
-ms.prod: access
 api_name:
 - Access.Form.FilterOnLoad
 ms.assetid: 546f367f-fbe5-355f-ad48-784ac5f28c8d

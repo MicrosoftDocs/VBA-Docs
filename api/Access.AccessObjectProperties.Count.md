@@ -3,7 +3,6 @@ title: AccessObjectProperties.Count property (Access)
 keywords: vbaac10.chm12702
 f1_keywords:
 - vbaac10.chm12702
-ms.prod: access
 api_name:
 - Access.AccessObjectProperties.Count
 ms.assetid: f7fe194e-17d9-d197-b6e6-5ae964be7783

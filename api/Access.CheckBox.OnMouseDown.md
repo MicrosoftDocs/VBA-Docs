@@ -3,7 +3,6 @@ title: CheckBox.OnMouseDown property (Access)
 keywords: vbaac10.chm10743
 f1_keywords:
 - vbaac10.chm10743
-ms.prod: access
 api_name:
 - Access.CheckBox.OnMouseDown
 ms.assetid: 236c9263-4238-ec07-d239-2481575ab8c6

@@ -3,7 +3,6 @@ title: NavigationControl.BorderWidth property (Access)
 keywords: vbaac10.chm11081
 f1_keywords:
 - vbaac10.chm11081
-ms.prod: access
 api_name:
 - Access.NavigationControl.BorderWidth
 ms.assetid: a0a39f30-18c5-2073-b463-1ffcb385357c

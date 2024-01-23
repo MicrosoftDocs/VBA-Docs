@@ -3,7 +3,6 @@ title: ImportExportSpecification.Delete method (Access)
 keywords: vbaac10.chm13332
 f1_keywords:
 - vbaac10.chm13332
-ms.prod: access
 api_name:
 - Access.ImportExportSpecification.Delete
 ms.assetid: cc91c51e-1b2e-1d6e-b236-61a538843ce4

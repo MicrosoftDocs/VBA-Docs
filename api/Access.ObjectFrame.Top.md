@@ -3,7 +3,6 @@ title: ObjectFrame.Top property (Access)
 keywords: vbaac10.chm11589
 f1_keywords:
 - vbaac10.chm11589
-ms.prod: access
 api_name:
 - Access.ObjectFrame.Top
 ms.assetid: b9a6e2fc-7b71-580c-1483-69ff799c0f0f

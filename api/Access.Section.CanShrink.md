@@ -3,7 +3,6 @@ title: Section.CanShrink property (Access)
 keywords: vbaac10.chm12198
 f1_keywords:
 - vbaac10.chm12198
-ms.prod: access
 api_name:
 - Access.Section.CanShrink
 ms.assetid: e6d48c05-e2a4-8913-c9a4-0d5dbfb68adc

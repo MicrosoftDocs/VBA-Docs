@@ -3,7 +3,6 @@ title: CommandButton.OnEnter property (Access)
 keywords: vbaac10.chm10493
 f1_keywords:
 - vbaac10.chm10493
-ms.prod: access
 api_name:
 - Access.CommandButton.OnEnter
 ms.assetid: 6d8f659f-a8aa-4671-509c-c82ae5dead0c

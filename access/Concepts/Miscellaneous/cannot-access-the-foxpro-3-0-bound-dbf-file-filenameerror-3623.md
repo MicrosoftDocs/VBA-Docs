@@ -3,7 +3,6 @@ title: Cannot access the FoxPro 3.0 bound DBF file <filename>. (Error 3623)
 keywords: jeterr40.chm5003623
 f1_keywords:
 - jeterr40.chm5003623
-ms.prod: access
 ms.assetid: 51b01150-07a2-73d4-9bda-e55d8cddf7cc
 ms.date: 06/08/2019
 ms.localizationpriority: medium

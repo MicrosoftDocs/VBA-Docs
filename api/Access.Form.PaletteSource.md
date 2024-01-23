@@ -3,7 +3,6 @@ title: Form.PaletteSource property (Access)
 keywords: vbaac10.chm13424
 f1_keywords:
 - vbaac10.chm13424
-ms.prod: access
 api_name:
 - Access.Form.PaletteSource
 ms.assetid: 91276931-0aa6-7e54-09eb-1747f036aa7c

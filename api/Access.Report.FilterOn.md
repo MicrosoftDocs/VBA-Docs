@@ -3,7 +3,6 @@ title: Report.FilterOn property (Access)
 keywords: vbaac10.chm13691
 f1_keywords:
 - vbaac10.chm13691
-ms.prod: access
 api_name:
 - Access.Report.FilterOn
 ms.assetid: 94751217-8b8b-0979-b4f8-c9af9f38ae69

@@ -3,7 +3,6 @@ title: Report.Application property (Access)
 keywords: vbaac10.chm13778
 f1_keywords:
 - vbaac10.chm13778
-ms.prod: access
 api_name:
 - Access.Report.Application
 ms.assetid: 2fb2ca56-bbc9-e689-08f3-d42fa97f21d2

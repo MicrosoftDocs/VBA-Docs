@@ -3,7 +3,6 @@ title: Form.PivotTableChange event (Access)
 keywords: vbaac10.chm13669
 f1_keywords:
 - vbaac10.chm13669
-ms.prod: access
 api_name:
 - Access.Form.PivotTableChange
 ms.assetid: 8b4a8c9a-c8a3-648d-968d-edcb7cb94956

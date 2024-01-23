@@ -3,7 +3,6 @@ title: OptionGroup.OnMouseDown property (Access)
 keywords: vbaac10.chm10868
 f1_keywords:
 - vbaac10.chm10868
-ms.prod: access
 api_name:
 - Access.OptionGroup.OnMouseDown
 ms.assetid: 313ac392-639a-b9c6-b0f3-64f7d34fe839

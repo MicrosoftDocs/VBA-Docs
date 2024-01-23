@@ -3,7 +3,6 @@ title: Form.SplitFormSize property (Access)
 keywords: vbaac10.chm13630
 f1_keywords:
 - vbaac10.chm13630
-ms.prod: access
 api_name:
 - Access.Form.SplitFormSize
 ms.assetid: 2fb63076-aebe-23ef-2a11-1c7b1b82ccb1

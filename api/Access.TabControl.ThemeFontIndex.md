@@ -3,7 +3,6 @@ title: TabControl.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: access
 api_name:
 - Access.TabControl.ThemeFontIndex
 ms.assetid: b3de7b94-dd76-82ee-dfe5-7c2b7e956a34

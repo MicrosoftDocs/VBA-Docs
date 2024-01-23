@@ -3,7 +3,6 @@ title: EmptyCell.HelpContextId property (Access)
 keywords: vbaac10.chm14314
 f1_keywords:
 - vbaac10.chm14314
-ms.prod: access
 api_name:
 - Access.EmptyCell.HelpContextId
 ms.assetid: f5e6a8ac-bcdd-64e4-24e8-d68cfab6ec4a

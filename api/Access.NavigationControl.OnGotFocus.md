@@ -3,7 +3,6 @@ title: NavigationControl.OnGotFocus property (Access)
 keywords: vbaac10.chm11120
 f1_keywords:
 - vbaac10.chm11120
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnGotFocus
 ms.assetid: 62e5608d-c002-cc2b-305c-90b9ba68b527

@@ -3,7 +3,6 @@ title: ComboBox.Click event (Access)
 keywords: vbaac10.chm14219
 f1_keywords:
 - vbaac10.chm14219
-ms.prod: access
 api_name:
 - Access.ComboBox.Click
 ms.assetid: 7d5d4a8f-a447-8d55-1517-8ffa71f0a123

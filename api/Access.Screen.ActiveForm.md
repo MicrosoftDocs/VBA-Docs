@@ -3,7 +3,6 @@ title: Screen.ActiveForm property (Access)
 keywords: vbaac10.chm12490
 f1_keywords:
 - vbaac10.chm12490
-ms.prod: access
 api_name:
 - Access.Screen.ActiveForm
 ms.assetid: 5cf41661-656e-e62f-530e-0d2fa5466146

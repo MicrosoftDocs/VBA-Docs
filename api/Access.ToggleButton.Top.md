@@ -3,7 +3,6 @@ title: ToggleButton.Top property (Access)
 keywords: vbaac10.chm11719
 f1_keywords:
 - vbaac10.chm11719
-ms.prod: access
 api_name:
 - Access.ToggleButton.Top
 ms.assetid: 31f8d2d5-6372-9241-9f30-3bc1d140ae3d

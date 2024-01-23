@@ -3,7 +3,6 @@ title: AllStoredProcedures.Parent property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: access
 api_name:
 - Access.AllStoredProcedures.Parent
 ms.assetid: c3078759-8f32-f7b9-1b71-1cd3f55578b1

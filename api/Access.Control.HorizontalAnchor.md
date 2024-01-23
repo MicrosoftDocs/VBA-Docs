@@ -3,7 +3,6 @@ title: Control.HorizontalAnchor property (Access)
 keywords: vbaac10.chm10169
 f1_keywords:
 - vbaac10.chm10169
-ms.prod: access
 api_name:
 - Access.Control.HorizontalAnchor
 ms.assetid: e81daacc-3c0b-608c-aea1-e01bc162b6b3

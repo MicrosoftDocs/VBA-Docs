@@ -3,7 +3,6 @@ title: Module.Find method (Access)
 keywords: vbaac10.chm12286
 f1_keywords:
 - vbaac10.chm12286
-ms.prod: access
 api_name:
 - Access.Module.Find
 ms.assetid: 6b8fcd1a-a490-19a0-1692-fb01f213c639

@@ -3,7 +3,6 @@ title: CustomControl.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm10528
 f1_keywords:
 - vbaac10.chm10528
-ms.prod: access
 api_name:
 - Access.CustomControl.GridlineStyleLeft
 ms.assetid: 594c56fb-d8d5-a9af-dc40-d29a9dffd02d

@@ -3,7 +3,6 @@ title: EmptyCell.EventProcPrefix property (Access)
 keywords: vbaac10.chm14302
 f1_keywords:
 - vbaac10.chm14302
-ms.prod: access
 api_name:
 - Access.EmptyCell.EventProcPrefix
 ms.assetid: b8efbef8-4eaa-abb7-19c9-311af8448821

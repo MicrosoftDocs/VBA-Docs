@@ -3,7 +3,6 @@ title: ListBox.Move method (Access)
 keywords: vbaac10.chm11299
 f1_keywords:
 - vbaac10.chm11299
-ms.prod: access
 api_name:
 - Access.ListBox.Move
 ms.assetid: a16304f5-891c-b80c-80b3-1f75692cb30f

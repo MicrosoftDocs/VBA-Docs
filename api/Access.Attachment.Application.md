@@ -3,7 +3,6 @@ title: Attachment.Application property (Access)
 keywords: vbaac10.chm13903
 f1_keywords:
 - vbaac10.chm13903
-ms.prod: access
 api_name:
 - Access.Attachment.Application
 ms.assetid: db88250d-da59-300c-6f0c-3768c1bb8a7f

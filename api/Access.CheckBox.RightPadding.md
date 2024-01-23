@@ -3,7 +3,6 @@ title: CheckBox.RightPadding property (Access)
 keywords: vbaac10.chm10770
 f1_keywords:
 - vbaac10.chm10770
-ms.prod: access
 api_name:
 - Access.CheckBox.RightPadding
 ms.assetid: 669e17f4-586f-1ea3-a239-c72902970f89

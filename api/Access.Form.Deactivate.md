@@ -3,7 +3,6 @@ title: Form.Deactivate event (Access)
 keywords: vbaac10.chm13647
 f1_keywords:
 - vbaac10.chm13647
-ms.prod: access
 api_name:
 - Access.Form.Deactivate
 ms.assetid: 8702b30b-d38e-fcb6-141e-0ac4e53c63ad

@@ -3,7 +3,6 @@ title: ComboBox.OnMouseDown property (Access)
 keywords: vbaac10.chm11457
 f1_keywords:
 - vbaac10.chm11457
-ms.prod: access
 api_name:
 - Access.ComboBox.OnMouseDown
 ms.assetid: b0078538-a6b2-fcce-56f4-d38260694faa

@@ -3,7 +3,6 @@ title: CustomControl.TabIndex property (Access)
 keywords: vbaac10.chm12019
 f1_keywords:
 - vbaac10.chm12019
-ms.prod: access
 api_name:
 - Access.CustomControl.TabIndex
 ms.assetid: 2240626f-2aa8-be76-ce5a-b706bcb70de6

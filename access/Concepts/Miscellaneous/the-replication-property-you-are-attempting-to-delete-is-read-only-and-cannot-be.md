@@ -3,7 +3,6 @@ title: The replication property you are attempting to delete is read-only and ca
 keywords: jeterr40.chm5003607
 f1_keywords:
 - jeterr40.chm5003607
-ms.prod: access
 ms.assetid: e93d3266-7d22-75fc-f808-e2ab42b2b5a2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

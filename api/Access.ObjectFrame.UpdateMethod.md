@@ -3,7 +3,6 @@ title: ObjectFrame.UpdateMethod property (Access)
 keywords: vbaac10.chm11582
 f1_keywords:
 - vbaac10.chm11582
-ms.prod: access
 api_name:
 - Access.ObjectFrame.UpdateMethod
 ms.assetid: 3c29df53-33cd-d645-2c45-6ff49fe4068e

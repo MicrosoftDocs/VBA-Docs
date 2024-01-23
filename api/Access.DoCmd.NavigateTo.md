@@ -3,7 +3,6 @@ title: DoCmd.NavigateTo method (Access)
 keywords: vbaac10.chm5689
 f1_keywords:
 - vbaac10.chm5689
-ms.prod: access
 api_name:
 - Access.DoCmd.NavigateTo
 ms.assetid: 27a6e4ee-1c03-2652-3c5a-73c45f3109df

@@ -3,7 +3,6 @@ title: Application.EuroConvert method (Access)
 keywords: vbaac10.chm12591
 f1_keywords:
 - vbaac10.chm12591
-ms.prod: access
 api_name:
 - Access.Application.EuroConvert
 ms.assetid: 35893059-c6cd-d359-f618-94701a50a049

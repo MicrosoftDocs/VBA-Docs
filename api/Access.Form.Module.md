@@ -3,7 +3,6 @@ title: Form.Module property (Access)
 keywords: vbaac10.chm13500
 f1_keywords:
 - vbaac10.chm13500
-ms.prod: access
 api_name:
 - Access.Form.Module
 ms.assetid: f4583bc6-a412-811e-a428-cfa10a911d35

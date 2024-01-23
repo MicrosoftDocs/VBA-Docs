@@ -3,7 +3,6 @@ title: Label.OnMouseDown property (Access)
 keywords: vbaac10.chm10226
 f1_keywords:
 - vbaac10.chm10226
-ms.prod: access
 api_name:
 - Access.Label.OnMouseDown
 ms.assetid: ff172b24-f9e7-bfb9-89f2-1e747a82be76

@@ -3,7 +3,6 @@ title: TextBox.FuriganaControl property (Access)
 keywords: vbaac10.chm11049
 f1_keywords:
 - vbaac10.chm11049
-ms.prod: access
 api_name:
 - Access.TextBox.FuriganaControl
 ms.assetid: 7d70cffa-06bb-fa9d-686a-0031558aa5a3

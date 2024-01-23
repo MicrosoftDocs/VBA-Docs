@@ -3,7 +3,6 @@ title: CustomControl.GridlineWidthTop property (Access)
 keywords: vbaac10.chm10533
 f1_keywords:
 - vbaac10.chm10533
-ms.prod: access
 api_name:
 - Access.CustomControl.GridlineWidthTop
 ms.assetid: 9cecf573-f2d5-5e5e-e507-1920ede22d0b

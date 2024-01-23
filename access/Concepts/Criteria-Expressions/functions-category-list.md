@@ -1,6 +1,5 @@
 ---
 title: Functions (category list)
-ms.prod: access
 ms.assetid: f6095ed0-465d-6447-321f-4bc1c7c543c5
 ms.date: 09/21/2018
 ms.localizationpriority: medium

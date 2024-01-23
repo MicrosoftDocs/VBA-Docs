@@ -3,7 +3,6 @@ title: CheckBox.GridlineColor property (Access)
 keywords: vbaac10.chm10780
 f1_keywords:
 - vbaac10.chm10780
-ms.prod: access
 api_name:
 - Access.CheckBox.GridlineColor
 ms.assetid: 6d3343aa-3505-dbb9-7e61-6b5c8d67b9f5

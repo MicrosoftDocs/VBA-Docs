@@ -3,7 +3,6 @@ title: Dropbox address <name> is syntactically invalid. (Error 3477)
 keywords: jeterr40.chm5003477
 f1_keywords:
 - jeterr40.chm5003477
-ms.prod: access
 ms.assetid: a33a8c56-7c1b-6b98-9634-f09882a71dd6
 ms.date: 06/08/2019
 ms.localizationpriority: medium

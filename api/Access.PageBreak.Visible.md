@@ -3,7 +3,6 @@ title: PageBreak.Visible property (Access)
 keywords: vbaac10.chm11678
 f1_keywords:
 - vbaac10.chm11678
-ms.prod: access
 api_name:
 - Access.PageBreak.Visible
 ms.assetid: bce10ac3-a7a5-5d0e-df76-b8222aa64267

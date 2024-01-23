@@ -3,7 +3,6 @@ title: NavigationButton.LostFocus event (Access)
 keywords: vbaac10.chm14081
 f1_keywords:
 - vbaac10.chm14081
-ms.prod: access
 api_name:
 - Access.NavigationButton.LostFocus
 ms.assetid: ddb4d588-bcfc-2639-6b90-05a72c943a5f

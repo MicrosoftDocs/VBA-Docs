@@ -3,7 +3,6 @@ title: Attachment.OnChange property (Access)
 keywords: vbaac10.chm13942
 f1_keywords:
 - vbaac10.chm13942
-ms.prod: access
 api_name:
 - Access.Attachment.OnChange
 ms.assetid: c2c12032-463a-2e3e-f434-defce71c8138

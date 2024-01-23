@@ -3,7 +3,6 @@ title: ComboBox.CanShrink property (Access)
 keywords: vbaac10.chm11497
 f1_keywords:
 - vbaac10.chm11497
-ms.prod: access
 api_name:
 - Access.ComboBox.CanShrink
 ms.assetid: 6f74e442-0b65-1d15-b247-6e12b9a08f1e

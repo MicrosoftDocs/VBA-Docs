@@ -3,7 +3,6 @@ title: NavigationButton.HoverTint property (Access)
 keywords: vbaac10.chm14613
 f1_keywords:
 - vbaac10.chm14613
-ms.prod: access
 api_name:
 - Access.NavigationButton.HoverTint
 ms.assetid: 90ecba49-8922-193a-7fde-228b342b4eff

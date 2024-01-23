@@ -3,7 +3,6 @@ title: TextBox.Left property (Access)
 keywords: vbaac10.chm11071
 f1_keywords:
 - vbaac10.chm11071
-ms.prod: access
 api_name:
 - Access.TextBox.Left
 ms.assetid: a184b336-215d-ffe0-d7ce-92f1fdc3b656

@@ -3,7 +3,6 @@ title: ToggleButton.ThemeFontIndex property (Access)
 keywords: vbaac10.chm14610
 f1_keywords:
 - vbaac10.chm14610
-ms.prod: access
 api_name:
 - Access.ToggleButton.ThemeFontIndex
 ms.assetid: c85eef50-220f-372d-9a86-2107a8447053

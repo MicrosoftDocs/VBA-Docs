@@ -3,7 +3,6 @@ title: Form.AfterDelConfirm property (Access)
 keywords: vbaac10.chm13439,vbaac10.chm4085
 f1_keywords:
 - vbaac10.chm13439,vbaac10.chm4085
-ms.prod: access
 api_name:
 - Access.Form.AfterDelConfirm
 ms.assetid: fcc1585b-ddb9-7b39-aa21-07de0e50ac00

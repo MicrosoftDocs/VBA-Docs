@@ -1,6 +1,5 @@
 ---
 title: Use the status bar progress meter
-ms.prod: access
 ms.assetid: 1ced64d3-56e4-064e-3dd2-d6b5e4dbdd8a
 ROBOTS: INDEX
 ms.date: 06/08/2017

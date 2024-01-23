@@ -3,7 +3,6 @@ title: Form.CurrentSectionLeft property (Access)
 keywords: vbaac10.chm13468
 f1_keywords:
 - vbaac10.chm13468
-ms.prod: access
 api_name:
 - Access.Form.CurrentSectionLeft
 ms.assetid: 5c856f2a-f82c-2b67-6fc6-1773fc5ebe06

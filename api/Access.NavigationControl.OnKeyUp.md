@@ -3,7 +3,6 @@ title: NavigationControl.OnKeyUp property (Access)
 keywords: vbaac10.chm11128
 f1_keywords:
 - vbaac10.chm11128
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnKeyUp
 ms.assetid: ac069657-a9de-79f2-2e7c-92e151228f2a

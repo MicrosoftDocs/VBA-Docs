@@ -3,7 +3,6 @@ title: TabControl.OnChange property (Access)
 keywords: vbaac10.chm12104
 f1_keywords:
 - vbaac10.chm12104
-ms.prod: access
 api_name:
 - Access.TabControl.OnChange
 ms.assetid: 373307d6-0106-af99-bf0e-5e4c155252ec

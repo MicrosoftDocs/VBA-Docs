@@ -3,7 +3,6 @@ title: Section.OnRetreat property (Access)
 keywords: vbaac10.chm12206,vbaac10.chm4105
 f1_keywords:
 - vbaac10.chm12206,vbaac10.chm4105
-ms.prod: access
 api_name:
 - Access.Section.OnRetreat
 ms.assetid: 0da552f0-72bc-3886-2708-a8c4180f4903

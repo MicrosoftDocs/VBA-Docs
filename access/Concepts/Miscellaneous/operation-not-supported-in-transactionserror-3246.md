@@ -3,7 +3,6 @@ title: Operation not supported in transactions. (Error 3246)
 keywords: jeterr40.chm5003246
 f1_keywords:
 - jeterr40.chm5003246
-ms.prod: access
 ms.assetid: bc69ec6a-0f3c-adaa-3cf6-fb0a5d8e8bdb
 ms.date: 06/08/2019
 ms.localizationpriority: medium

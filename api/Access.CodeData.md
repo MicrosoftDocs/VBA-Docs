@@ -3,7 +3,6 @@ title: CodeData object (Access)
 keywords: vbaac10.chm12742
 f1_keywords:
 - vbaac10.chm12742
-ms.prod: access
 api_name:
 - Access.CodeData
 ms.assetid: fc207136-4d18-2c7d-ffe6-0e1ad7c2fc32

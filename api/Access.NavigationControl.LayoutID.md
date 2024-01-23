@@ -3,7 +3,6 @@ title: NavigationControl.LayoutID property (Access)
 keywords: vbaac10.chm11182
 f1_keywords:
 - vbaac10.chm11182
-ms.prod: access
 api_name:
 - Access.NavigationControl.LayoutID
 ms.assetid: 2fd85cf8-90c3-9b00-6d2a-9078be79f668

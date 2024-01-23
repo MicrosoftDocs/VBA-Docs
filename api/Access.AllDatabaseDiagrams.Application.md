@@ -3,7 +3,6 @@ title: AllDatabaseDiagrams.Application property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: access
 api_name:
 - Access.AllDatabaseDiagrams.Application
 ms.assetid: bd277b20-f6a3-b819-1ca7-4736b77f897f

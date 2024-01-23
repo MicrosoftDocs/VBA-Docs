@@ -3,7 +3,6 @@ title: TextBox.ValidationText property (Access)
 keywords: vbaac10.chm11052
 f1_keywords:
 - vbaac10.chm11052
-ms.prod: access
 api_name:
 - Access.TextBox.ValidationText
 ms.assetid: 5d3ab2a3-9166-714f-a0c2-d56d42b19ebc

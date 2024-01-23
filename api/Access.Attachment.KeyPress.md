@@ -3,7 +3,6 @@ title: Attachment.KeyPress event (Access)
 keywords: vbaac10.chm14033
 f1_keywords:
 - vbaac10.chm14033
-ms.prod: access
 api_name:
 - Access.Attachment.KeyPress
 ms.assetid: fc54afea-35ca-e354-1223-c7f3d5cf00b0

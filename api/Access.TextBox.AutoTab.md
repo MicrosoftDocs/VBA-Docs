@@ -3,7 +3,6 @@ title: TextBox.AutoTab property (Access)
 keywords: vbaac10.chm11063,vbaac10.chm4278
 f1_keywords:
 - vbaac10.chm11063,vbaac10.chm4278
-ms.prod: access
 api_name:
 - Access.TextBox.AutoTab
 ms.assetid: 27b17921-cd58-e243-e091-2686c64a7c02

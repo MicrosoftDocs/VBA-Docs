@@ -3,7 +3,6 @@ title: TabControl.HelpContextId property (Access)
 keywords: vbaac10.chm12098
 f1_keywords:
 - vbaac10.chm12098
-ms.prod: access
 api_name:
 - Access.TabControl.HelpContextId
 ms.assetid: d06814d5-7281-d313-844b-fbff296a858d

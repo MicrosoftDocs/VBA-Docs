@@ -3,7 +3,6 @@ title: Screen.Application property (Access)
 keywords: vbaac10.chm12485
 f1_keywords:
 - vbaac10.chm12485
-ms.prod: access
 api_name:
 - Access.Screen.Application
 ms.assetid: 1d2fe0bb-5c08-8c16-2d09-9ed515d9eb43

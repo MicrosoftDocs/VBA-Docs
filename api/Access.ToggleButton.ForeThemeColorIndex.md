@@ -3,7 +3,6 @@ title: ToggleButton.ForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: access
 api_name:
 - Access.ToggleButton.ForeThemeColorIndex
 ms.assetid: 8358b6c4-960d-e414-a6c4-657700caeeb0

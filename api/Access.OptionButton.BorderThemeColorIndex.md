@@ -3,7 +3,6 @@ title: OptionButton.BorderThemeColorIndex property (Access)
 keywords: vbaac10.chm14634
 f1_keywords:
 - vbaac10.chm14634
-ms.prod: access
 api_name:
 - Access.OptionButton.BorderThemeColorIndex
 ms.assetid: 19717679-b20e-f5ac-fac9-5349b4227e62

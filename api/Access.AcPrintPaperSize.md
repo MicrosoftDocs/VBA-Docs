@@ -3,7 +3,6 @@ title: AcPrintPaperSize enumeration (Access)
 keywords: vbaac10.chm13247
 f1_keywords:
 - vbaac10.chm13247
-ms.prod: access
 api_name:
 - Access.AcPrintPaperSize
 ms.assetid: 16730547-b26d-852d-88d2-39a7a66a5463

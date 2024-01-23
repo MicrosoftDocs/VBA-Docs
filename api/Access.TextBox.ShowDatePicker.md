@@ -3,7 +3,6 @@ title: TextBox.ShowDatePicker property (Access)
 keywords: vbaac10.chm14293
 f1_keywords:
 - vbaac10.chm14293
-ms.prod: access
 api_name:
 - Access.TextBox.ShowDatePicker
 ms.assetid: 5d65938b-ac7b-abbd-2e50-41f41c0b1558

@@ -3,7 +3,6 @@ title: Page.SetTabOrder method (Access)
 keywords: vbaac10.chm14294
 f1_keywords:
 - vbaac10.chm14294
-ms.prod: access
 api_name:
 - Access.Page.SetTabOrder
 ms.assetid: 446762c2-00b0-5b60-5e32-c2703681a753

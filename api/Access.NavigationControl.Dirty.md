@@ -3,7 +3,6 @@ title: NavigationControl.Dirty event (Access)
 keywords: vbaac10.chm14209
 f1_keywords:
 - vbaac10.chm14209
-ms.prod: access
 api_name:
 - Access.NavigationControl.Dirty
 ms.assetid: 6125891b-c0cf-0b0e-0678-146404b2ed31

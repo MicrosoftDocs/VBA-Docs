@@ -3,7 +3,6 @@ title: CheckBox.ValidationRule property (Access)
 keywords: vbaac10.chm10698
 f1_keywords:
 - vbaac10.chm10698
-ms.prod: access
 api_name:
 - Access.CheckBox.ValidationRule
 ms.assetid: 4ebb1371-acd0-2227-49e9-ec646a0daaad

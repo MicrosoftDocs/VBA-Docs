@@ -3,7 +3,6 @@ title: CodeProject.AllModules property (Access)
 keywords: vbaac10.chm12710
 f1_keywords:
 - vbaac10.chm12710
-ms.prod: access
 api_name:
 - Access.CodeProject.AllModules
 ms.assetid: 73d2919a-f486-db85-5df4-70b5fd9d8564

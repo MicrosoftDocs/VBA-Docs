@@ -3,7 +3,6 @@ title: Line.Name property (Access)
 keywords: vbaac10.chm10347
 f1_keywords:
 - vbaac10.chm10347
-ms.prod: access
 api_name:
 - Access.Line.Name
 ms.assetid: 0193e272-0d6a-307b-caf7-5b26d39e6e1a

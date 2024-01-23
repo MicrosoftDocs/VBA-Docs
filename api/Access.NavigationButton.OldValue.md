@@ -3,7 +3,6 @@ title: NavigationButton.OldValue property (Access)
 keywords: vbaac10.chm10440
 f1_keywords:
 - vbaac10.chm10440
-ms.prod: access
 api_name:
 - Access.NavigationButton.OldValue
 ms.assetid: 9152ce56-8ac6-ebb4-f940-8baa1a5c10c3

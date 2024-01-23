@@ -3,7 +3,6 @@ title: ToggleButton.DblClick event (Access)
 keywords: vbaac10.chm14154
 f1_keywords:
 - vbaac10.chm14154
-ms.prod: access
 api_name:
 - Access.ToggleButton.DblClick
 ms.assetid: d73ef157-6399-8a0c-6ec3-c329567f3d5a

@@ -3,7 +3,6 @@ title: SubForm.Tag property (Access)
 keywords: vbaac10.chm11955
 f1_keywords:
 - vbaac10.chm11955
-ms.prod: access
 api_name:
 - Access.SubForm.Tag
 ms.assetid: 80eef251-9b7e-c15d-ffab-e131edae90c1

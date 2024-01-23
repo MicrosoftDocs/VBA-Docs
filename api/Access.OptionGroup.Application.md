@@ -3,7 +3,6 @@ title: OptionGroup.Application property (Access)
 keywords: vbaac10.chm10809
 f1_keywords:
 - vbaac10.chm10809
-ms.prod: access
 api_name:
 - Access.OptionGroup.Application
 ms.assetid: 21d0325e-4552-699e-4972-1fc5ee157b21

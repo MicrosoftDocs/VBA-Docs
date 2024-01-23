@@ -3,7 +3,6 @@ title: Attachment.Enabled property (Access)
 keywords: vbaac10.chm14015
 f1_keywords:
 - vbaac10.chm14015
-ms.prod: access
 api_name:
 - Access.Attachment.Enabled
 ms.assetid: d0838624-4ed8-6099-8aac-ea947de2f56e

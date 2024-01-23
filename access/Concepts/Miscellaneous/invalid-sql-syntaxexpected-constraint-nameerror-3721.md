@@ -1,6 +1,5 @@
 ---
 title: Invalid SQL syntax - expected CONSTRAINT name. (Error 3721)
-ms.prod: access
 ms.assetid: 14da04b2-b7d0-3e23-20fe-20e42ef4b3d7
 ms.date: 02/14/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ToggleButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
-ms.prod: access
 api_name:
 - Access.ToggleButton.Bevel
 ms.assetid: 91cfaa50-944b-23c0-2e3b-d8b8a1cb1e34

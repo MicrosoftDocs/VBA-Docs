@@ -3,7 +3,6 @@ title: Reference.GUID property (Access)
 keywords: vbaac10.chm12631
 f1_keywords:
 - vbaac10.chm12631
-ms.prod: access
 api_name:
 - Access.Reference.Guid
 ms.assetid: a5419b60-f113-2c56-ff74-62c9ff8cc868

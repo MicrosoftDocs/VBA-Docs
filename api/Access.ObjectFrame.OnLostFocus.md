@@ -3,7 +3,6 @@ title: ObjectFrame.OnLostFocus property (Access)
 keywords: vbaac10.chm11618
 f1_keywords:
 - vbaac10.chm11618
-ms.prod: access
 api_name:
 - Access.ObjectFrame.OnLostFocus
 ms.assetid: 47f336d6-2a89-4824-55c3-c632d2fbf2f2

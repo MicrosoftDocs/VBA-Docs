@@ -3,7 +3,6 @@ title: Form.AfterInsert event (Access)
 keywords: vbaac10.chm13636
 f1_keywords:
 - vbaac10.chm13636
-ms.prod: access
 api_name:
 - Access.Form.AfterInsert
 ms.assetid: 07140c13-ce7c-91f2-7451-d7f834653ef2

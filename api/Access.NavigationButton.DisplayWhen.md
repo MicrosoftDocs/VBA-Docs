@@ -3,7 +3,6 @@ title: NavigationButton.DisplayWhen property (Access)
 keywords: vbaac10.chm10463
 f1_keywords:
 - vbaac10.chm10463
-ms.prod: access
 api_name:
 - Access.NavigationButton.DisplayWhen
 ms.assetid: 58e02cb9-b161-3116-4905-5989ce9a1f75

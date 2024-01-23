@@ -3,7 +3,6 @@ title: ListBox.MultiSelect property (Access)
 keywords: vbaac10.chm11237,vbaac10.chm4432
 f1_keywords:
 - vbaac10.chm11237,vbaac10.chm4432
-ms.prod: access
 api_name:
 - Access.ListBox.MultiSelect
 ms.assetid: 7115a913-1696-03b4-c88b-0626da1d587a

@@ -3,7 +3,6 @@ title: NavigationControl.OnMouseMove property (Access)
 keywords: vbaac10.chm11125
 f1_keywords:
 - vbaac10.chm11125
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnMouseMove
 ms.assetid: 12259131-0b06-e01f-4a94-05dabaf0e53c

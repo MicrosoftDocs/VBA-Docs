@@ -1,6 +1,5 @@
 ---
 title: Field (Visual C++ syntax index with import)
-ms.prod: access
 ms.assetid: 7d70d127-76a3-4ede-08ff-9699b2c200b8
 ms.date: 10/12/2018
 ms.localizationpriority: medium

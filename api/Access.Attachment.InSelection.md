@@ -3,7 +3,6 @@ title: Attachment.InSelection property (Access)
 keywords: vbaac10.chm13972
 f1_keywords:
 - vbaac10.chm13972
-ms.prod: access
 api_name:
 - Access.Attachment.InSelection
 ms.assetid: e17586b5-0619-e713-e1fa-f27c9e26b561

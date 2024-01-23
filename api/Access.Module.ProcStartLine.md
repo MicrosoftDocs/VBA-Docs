@@ -3,7 +3,6 @@ title: Module.ProcStartLine property (Access)
 keywords: vbaac10.chm12280
 f1_keywords:
 - vbaac10.chm12280
-ms.prod: access
 api_name:
 - Access.Module.ProcStartLine
 ms.assetid: ef9a1ab4-f992-5077-b52b-d16cba10f697

@@ -3,7 +3,6 @@ title: ComboBox.LabelX property (Access)
 keywords: vbaac10.chm11430
 f1_keywords:
 - vbaac10.chm11430
-ms.prod: access
 api_name:
 - Access.ComboBox.LabelX
 ms.assetid: 3878f4b3-6f0d-a857-1988-9fae59c0302b

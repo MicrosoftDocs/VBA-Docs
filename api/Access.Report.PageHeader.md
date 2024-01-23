@@ -3,7 +3,6 @@ title: Report.PageHeader property (Access)
 keywords: vbaac10.chm13697,vbaac10.chm5495
 f1_keywords:
 - vbaac10.chm13697,vbaac10.chm5495
-ms.prod: access
 api_name:
 - Access.Report.PageHeader
 ms.assetid: 9f9fe114-b5a5-39c7-d2c0-39453948ace6

@@ -3,7 +3,6 @@ title: ListBox.Exit event (Access)
 keywords: vbaac10.chm14174
 f1_keywords:
 - vbaac10.chm14174
-ms.prod: access
 api_name:
 - Access.ListBox.Exit
 ms.assetid: 6a95f727-673a-0f8f-fc61-435398c35195

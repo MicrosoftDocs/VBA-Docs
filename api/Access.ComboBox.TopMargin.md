@@ -3,7 +3,6 @@ title: ComboBox.TopMargin property (Access)
 keywords: vbaac10.chm11521
 f1_keywords:
 - vbaac10.chm11521
-ms.prod: access
 api_name:
 - Access.ComboBox.TopMargin
 ms.assetid: fe3a17d8-c345-6dc6-5b26-5fc6f06632ac

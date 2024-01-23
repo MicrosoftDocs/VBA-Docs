@@ -1,6 +1,5 @@
 ---
 title: Perform joins using Access SQL
-ms.prod: access
 ms.assetid: 1a19bc56-afd3-3917-b503-44b77078483d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: TextBox.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: access
 api_name:
 - Access.TextBox.ForeShade
 ms.assetid: b8437ede-edd1-7d86-1c2f-78d4ed1c3d0e

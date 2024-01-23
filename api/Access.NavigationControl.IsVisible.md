@@ -3,7 +3,6 @@ title: NavigationControl.IsVisible property (Access)
 keywords: vbaac10.chm11113
 f1_keywords:
 - vbaac10.chm11113
-ms.prod: access
 api_name:
 - Access.NavigationControl.IsVisible
 ms.assetid: 659d5713-a385-bead-68a0-501a724e9210

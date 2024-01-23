@@ -3,7 +3,6 @@ title: ObjectFrame.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: access
 api_name:
 - Access.ObjectFrame.BackThemeColorIndex
 ms.assetid: 9c4cbfee-2026-2caa-922d-d7345cc026f5

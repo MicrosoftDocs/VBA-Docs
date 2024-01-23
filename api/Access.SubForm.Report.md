@@ -3,7 +3,6 @@ title: SubForm.Report property (Access)
 keywords: vbaac10.chm11917
 f1_keywords:
 - vbaac10.chm11917
-ms.prod: access
 api_name:
 - Access.SubForm.Report
 ms.assetid: c7c76bef-92cc-b9e4-bdcb-11046611effd

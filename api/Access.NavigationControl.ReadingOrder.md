@@ -3,7 +3,6 @@ title: NavigationControl.ReadingOrder property (Access)
 keywords: vbaac10.chm11130
 f1_keywords:
 - vbaac10.chm11130
-ms.prod: access
 api_name:
 - Access.NavigationControl.ReadingOrder
 ms.assetid: ecd7522a-3a16-2a18-a3c1-0798dba1baec

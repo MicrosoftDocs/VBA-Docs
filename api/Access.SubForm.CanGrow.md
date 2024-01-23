@@ -3,7 +3,6 @@ title: SubForm.CanGrow property (Access)
 keywords: vbaac10.chm11936
 f1_keywords:
 - vbaac10.chm11936
-ms.prod: access
 api_name:
 - Access.SubForm.CanGrow
 ms.assetid: d80f18b7-9b96-b01a-26a8-186607d3faa4

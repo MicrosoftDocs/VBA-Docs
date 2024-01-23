@@ -3,7 +3,6 @@ title: Chart.SecondaryValuesAxisFormat property (Access)
 keywords: vbaac10.chm6165
 f1_keywords:
 - vbaac10.chm6165
-ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisFormat
 ms.date: 11/28/2018

@@ -3,7 +3,6 @@ title: Form.DatasheetAlternateBackColor property (Access)
 keywords: vbaac10.chm13628
 f1_keywords:
 - vbaac10.chm13628
-ms.prod: access
 api_name:
 - Access.Form.DatasheetAlternateBackColor
 ms.assetid: d2a63a1f-0604-be80-5eef-67af92104bc2

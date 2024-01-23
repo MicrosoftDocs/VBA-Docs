@@ -3,7 +3,6 @@ title: TextBox.Application property (Access)
 keywords: vbaac10.chm11028
 f1_keywords:
 - vbaac10.chm11028
-ms.prod: access
 api_name:
 - Access.TextBox.Application
 ms.assetid: 84a7ea86-f31c-775d-2383-5ac8751dd0f1

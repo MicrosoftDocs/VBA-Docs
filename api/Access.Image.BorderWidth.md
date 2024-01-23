@@ -3,7 +3,6 @@ title: Image.BorderWidth property (Access)
 keywords: vbaac10.chm10386
 f1_keywords:
 - vbaac10.chm10386
-ms.prod: access
 api_name:
 - Access.Image.BorderWidth
 ms.assetid: 6a8d8d2a-0cfe-2557-585b-ab9e42a313bf

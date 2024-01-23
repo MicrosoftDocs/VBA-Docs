@@ -3,7 +3,6 @@ title: EmptyCell.GridlineStyleRight property (Access)
 keywords: vbaac10.chm14333
 f1_keywords:
 - vbaac10.chm14333
-ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineStyleRight
 ms.assetid: 76cf1ade-fd42-db2c-cdce-64577779e7b2

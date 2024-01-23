@@ -3,7 +3,6 @@ title: CommandButton.OnDblClick property (Access)
 keywords: vbaac10.chm10498
 f1_keywords:
 - vbaac10.chm10498
-ms.prod: access
 api_name:
 - Access.CommandButton.OnDblClick
 ms.assetid: 465d95b4-64e3-1d1b-e388-5c96bfd2e5c9

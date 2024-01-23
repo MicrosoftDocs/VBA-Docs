@@ -3,7 +3,6 @@ title: Label.HelpContextId property (Access)
 keywords: vbaac10.chm10219
 f1_keywords:
 - vbaac10.chm10219
-ms.prod: access
 api_name:
 - Access.Label.HelpContextId
 ms.assetid: fab43591-bf88-901d-0f19-ca4fda93a578

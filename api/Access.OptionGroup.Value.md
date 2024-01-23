@@ -3,7 +3,6 @@ title: OptionGroup.Value property (Access)
 keywords: vbaac10.chm10818
 f1_keywords:
 - vbaac10.chm10818
-ms.prod: access
 api_name:
 - Access.OptionGroup.Value
 ms.assetid: add35170-c02e-ac1d-211d-b2b46cd19c9c

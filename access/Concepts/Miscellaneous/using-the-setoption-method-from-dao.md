@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: acmain11.chm1032171
 f1_keywords:
 - acmain11.chm1032171
-ms.prod: access
 ms.assetid: 5a722d52-f41f-07a6-8197-7b73841a2fad
 ms.date: 06/08/2017
 ms.localizationpriority: medium

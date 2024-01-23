@@ -3,7 +3,6 @@ title: Image.ControlType property (Access)
 keywords: vbaac10.chm10365
 f1_keywords:
 - vbaac10.chm10365
-ms.prod: access
 api_name:
 - Access.Image.ControlType
 ms.assetid: 6f84953b-a408-a741-a2a9-18eff2406abc

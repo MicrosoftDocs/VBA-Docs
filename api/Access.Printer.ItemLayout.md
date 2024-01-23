@@ -3,7 +3,6 @@ title: Printer.ItemLayout property (Access)
 keywords: vbaac10.chm12878
 f1_keywords:
 - vbaac10.chm12878
-ms.prod: access
 api_name:
 - Access.Printer.ItemLayout
 ms.assetid: 5e90c2fb-cc1a-48fb-d3c3-914c89737c74

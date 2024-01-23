@@ -3,7 +3,6 @@ title: TextBox.PostalAddress property (Access)
 keywords: vbaac10.chm11050
 f1_keywords:
 - vbaac10.chm11050
-ms.prod: access
 api_name:
 - Access.TextBox.PostalAddress
 ms.assetid: 04fb29c5-909c-a0b8-a4aa-7701abc07037

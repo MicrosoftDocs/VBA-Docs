@@ -3,7 +3,6 @@ title: CheckBox.BorderShade property (Access)
 keywords: vbaac10.chm14603
 f1_keywords:
 - vbaac10.chm14603
-ms.prod: access
 api_name:
 - Access.CheckBox.BorderShade
 ms.assetid: 4be270c7-a093-0315-71ba-7fd8a6ec26a3

@@ -3,7 +3,6 @@ title: CommandButton.PressedForeColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.CommandButton.PressedForeColor
 ms.assetid: b3174fa6-d89a-906f-ef4d-19b489734dfa

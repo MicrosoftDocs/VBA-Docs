@@ -3,7 +3,6 @@ title: WebBrowserControl.GridlineWidthRight property (Access)
 keywords: vbaac10.chm14400
 f1_keywords:
 - vbaac10.chm14400
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineWidthRight
 ms.assetid: 7c5a6b1e-48ba-c322-153b-3723b2074f1e

@@ -3,7 +3,6 @@ title: WebBrowserControl.GridlineColor property (Access)
 keywords: vbaac10.chm143144
 f1_keywords:
 - vbaac10.chm143144
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.GridlineColor
 ms.assetid: 9859d2e9-e58e-003d-9349-a0bec21ed25a

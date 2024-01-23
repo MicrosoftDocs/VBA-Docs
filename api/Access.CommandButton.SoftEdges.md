@@ -3,7 +3,6 @@ title: CommandButton.SoftEdges property (Access)
 keywords: vbaac10.chm14639
 f1_keywords:
 - vbaac10.chm14639
-ms.prod: access
 api_name:
 - Access.CommandButton.SoftEdges
 ms.assetid: a970945c-a8d7-4888-8408-33bfc803d73d

@@ -3,7 +3,6 @@ title: OptionGroup.AfterUpdate property (Access)
 keywords: vbaac10.chm10863
 f1_keywords:
 - vbaac10.chm10863
-ms.prod: access
 api_name:
 - Access.OptionGroup.AfterUpdate
 ms.assetid: 30d35bfd-6128-0d68-12c8-56ad6f19c342

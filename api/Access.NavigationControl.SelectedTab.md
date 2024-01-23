@@ -3,7 +3,6 @@ title: NavigationControl.SelectedTab property (Access)
 keywords: vbaac10.chm14644
 f1_keywords:
 - vbaac10.chm14644
-ms.prod: access
 api_name:
 - Access.NavigationControl.SelectedTab
 ms.assetid: 8e6da4b2-eada-51db-b198-da8213c647ac

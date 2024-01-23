@@ -3,7 +3,6 @@ title: OptionButton.OnKeyDown property (Access)
 keywords: vbaac10.chm10619
 f1_keywords:
 - vbaac10.chm10619
-ms.prod: access
 api_name:
 - Access.OptionButton.OnKeyDown
 ms.assetid: 631cb13b-cbee-e5eb-2be8-260aa08c441b

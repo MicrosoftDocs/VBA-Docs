@@ -3,7 +3,6 @@ title: CurrentProject.IsConnected property (Access)
 keywords: vbaac10.chm12714
 f1_keywords:
 - vbaac10.chm12714
-ms.prod: access
 api_name:
 - Access.CurrentProject.IsConnected
 ms.assetid: 04e1123b-ad18-9ebc-3dec-f49bcc16d5a0

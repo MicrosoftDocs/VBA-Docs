@@ -3,7 +3,6 @@ title: ComboBox.BottomMargin property (Access)
 keywords: vbaac10.chm11523
 f1_keywords:
 - vbaac10.chm11523
-ms.prod: access
 api_name:
 - Access.ComboBox.BottomMargin
 ms.assetid: aaabb534-e328-fb1d-92bc-4cbab0e0469f

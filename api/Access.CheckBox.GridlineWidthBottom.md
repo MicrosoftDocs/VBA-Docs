@@ -3,7 +3,6 @@ title: CheckBox.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10779
 f1_keywords:
 - vbaac10.chm10779
-ms.prod: access
 api_name:
 - Access.CheckBox.GridlineWidthBottom
 ms.assetid: 04495e96-0ee3-399e-4718-d372cdb3bc4d

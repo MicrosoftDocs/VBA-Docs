@@ -3,7 +3,6 @@ title: TextBox.RunningSum property (Access)
 keywords: vbaac10.chm11070
 f1_keywords:
 - vbaac10.chm11070
-ms.prod: access
 api_name:
 - Access.TextBox.RunningSum
 ms.assetid: 8918a58c-8c07-84dc-f43c-2486d54cd677

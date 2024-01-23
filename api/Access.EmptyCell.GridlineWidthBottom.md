@@ -3,7 +3,6 @@ title: EmptyCell.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm14338
 f1_keywords:
 - vbaac10.chm14338
-ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineWidthBottom
 ms.assetid: 21356489-3048-d5b1-a816-749f39708cd7

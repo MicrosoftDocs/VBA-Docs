@@ -3,7 +3,6 @@ title: Form.FitToScreen property (Access)
 keywords: vbaac10.chm14290,vbaac10.chm5882
 f1_keywords:
 - vbaac10.chm14290,vbaac10.chm5882
-ms.prod: access
 api_name:
 - Access.Form.FitToScreen
 ms.assetid: 5ef37719-ff3b-1f3d-1521-423633ceccc0

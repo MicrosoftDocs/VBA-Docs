@@ -3,7 +3,6 @@ title: AcAggregateType enumeration (Access)
 keywords: vbaac10.chm14799
 f1_keywords:
 - vbaac10.chm14799
-ms.prod: access
 api_name:
 - Access.AcAggregateType
 ms.date: 11/28/2018

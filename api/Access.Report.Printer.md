@@ -3,7 +3,6 @@ title: Report.Printer property (Access)
 keywords: vbaac10.chm13810
 f1_keywords:
 - vbaac10.chm13810
-ms.prod: access
 api_name:
 - Access.Report.Printer
 ms.assetid: 9e21b583-5539-bc24-49a0-c248e7f9aafb
