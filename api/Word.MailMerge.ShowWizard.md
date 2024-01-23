@@ -3,7 +3,6 @@ title: MailMerge.ShowWizard method (Word)
 keywords: vbawd10.chm153092210
 f1_keywords:
 - vbawd10.chm153092210
-ms.prod: word
 api_name:
 - Word.MailMerge.ShowWizard
 ms.assetid: 002e6582-4600-c897-f475-546375416cf4

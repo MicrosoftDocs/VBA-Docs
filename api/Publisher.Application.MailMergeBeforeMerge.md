@@ -3,7 +3,6 @@ title: Application.MailMergeBeforeMerge event (Publisher)
 keywords: vbapb10.chm268435473
 f1_keywords:
 - vbapb10.chm268435473
-ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeBeforeMerge
 ms.assetid: 735ef282-e99f-b3f2-c509-b180bea30d36

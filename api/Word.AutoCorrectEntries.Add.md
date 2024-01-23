@@ -3,7 +3,6 @@ title: AutoCorrectEntries.Add method (Word)
 keywords: vbawd10.chm155713637
 f1_keywords:
 - vbawd10.chm155713637
-ms.prod: word
 api_name:
 - Word.AutoCorrectEntries.Add
 ms.assetid: 670539d8-02f4-dcc9-79bd-20290766b029

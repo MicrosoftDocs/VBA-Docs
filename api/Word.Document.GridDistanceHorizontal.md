@@ -3,7 +3,6 @@ title: Document.GridDistanceHorizontal property (Word)
 keywords: vbawd10.chm158007598
 f1_keywords:
 - vbawd10.chm158007598
-ms.prod: word
 api_name:
 - Word.Document.GridDistanceHorizontal
 ms.assetid: dabff5b7-420c-ffb7-1812-eeadbdacc864

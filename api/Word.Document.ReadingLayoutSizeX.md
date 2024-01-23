@@ -3,7 +3,6 @@ title: Document.ReadingLayoutSizeX property (Word)
 keywords: vbawd10.chm158007787
 f1_keywords:
 - vbawd10.chm158007787
-ms.prod: word
 api_name:
 - Word.Document.ReadingLayoutSizeX
 ms.assetid: 1b77f914-ca27-8ebf-7794-3ce49f2e117b

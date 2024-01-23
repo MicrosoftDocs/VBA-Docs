@@ -3,7 +3,6 @@ title: Range.End property (Word)
 keywords: vbawd10.chm157155332
 f1_keywords:
 - vbawd10.chm157155332
-ms.prod: word
 api_name:
 - Word.Range.End
 ms.assetid: fe90f321-c7b5-bea2-fa60-e6b750b33cf7

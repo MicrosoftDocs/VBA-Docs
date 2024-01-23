@@ -3,7 +3,6 @@ title: Document.AutoHyphenation property (Word)
 keywords: vbawd10.chm158007307
 f1_keywords:
 - vbawd10.chm158007307
-ms.prod: word
 api_name:
 - Word.Document.AutoHyphenation
 ms.assetid: 17e53212-3717-c8a1-7f39-464622a6cd65

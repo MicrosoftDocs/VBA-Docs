@@ -3,7 +3,6 @@ title: OMathFrac.Type property (Word)
 keywords: vbawd10.chm158597225
 f1_keywords:
 - vbawd10.chm158597225
-ms.prod: word
 api_name:
 - Word.OMathFrac.Type
 ms.assetid: 12b88f31-485d-d43b-939e-2ada5c125e0b

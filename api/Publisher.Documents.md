@@ -3,7 +3,6 @@ title: Documents object (Publisher)
 keywords: vbapb10.chm8716287
 f1_keywords:
 - vbapb10.chm8716287
-ms.prod: publisher
 api_name:
 - Publisher.Documents
 ms.assetid: 855b1677-4072-1e17-c22c-6db08e0c7569

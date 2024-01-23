@@ -3,7 +3,6 @@ title: Global.PortraitFontNames property (Word)
 keywords: vbawd10.chm163119117
 f1_keywords:
 - vbawd10.chm163119117
-ms.prod: word
 api_name:
 - Word.Global.PortraitFontNames
 ms.assetid: 07627cb8-a47f-14c9-b630-de9318e9e3d6

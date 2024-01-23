@@ -1,6 +1,5 @@
 ---
 title: WdRevisionsBalloonWidthType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonWidthType
 ms.assetid: 68594c33-db35-ca64-7d82-6f2815729d71

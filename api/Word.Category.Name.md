@@ -3,7 +3,6 @@ title: Category.Name property (Word)
 keywords: vbawd10.chm190709762
 f1_keywords:
 - vbawd10.chm190709762
-ms.prod: word
 api_name:
 - Word.Category.Name
 ms.assetid: ea36b5cf-3f6b-7e95-9a91-2e4c0bc0b26f

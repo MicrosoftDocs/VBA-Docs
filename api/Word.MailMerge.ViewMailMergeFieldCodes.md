@@ -3,7 +3,6 @@ title: MailMerge.ViewMailMergeFieldCodes property (Word)
 keywords: vbawd10.chm153092102
 f1_keywords:
 - vbawd10.chm153092102
-ms.prod: word
 api_name:
 - Word.MailMerge.ViewMailMergeFieldCodes
 ms.assetid: f39e93d8-bc80-8a3d-8bfc-5d6fbb0162f4

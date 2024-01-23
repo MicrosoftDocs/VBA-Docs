@@ -3,7 +3,6 @@ title: Cell.ID property (Word)
 keywords: vbawd10.chm156106867
 f1_keywords:
 - vbawd10.chm156106867
-ms.prod: word
 api_name:
 - Word.Cell.Id
 ms.assetid: 46c973be-38d4-18b3-ea4e-0d29d89313d7

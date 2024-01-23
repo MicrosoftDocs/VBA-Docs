@@ -3,7 +3,6 @@ title: Options.PathForPictures property (Publisher)
 keywords: vbapb10.chm1048596
 f1_keywords:
 - vbapb10.chm1048596
-ms.prod: publisher
 api_name:
 - Publisher.Options.PathForPictures
 ms.assetid: e66c8c86-f049-0f32-0a0d-60fd37470708

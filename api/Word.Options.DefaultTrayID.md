@@ -3,7 +3,6 @@ title: Options.DefaultTrayID property (Word)
 keywords: vbawd10.chm162988072
 f1_keywords:
 - vbawd10.chm162988072
-ms.prod: word
 api_name:
 - Word.Options.DefaultTrayID
 ms.assetid: 3a6c265b-f178-318b-bd29-944873c6b036

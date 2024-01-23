@@ -3,7 +3,6 @@ title: Options.RevisedLinesColor property (Word)
 keywords: vbawd10.chm162988094
 f1_keywords:
 - vbawd10.chm162988094
-ms.prod: word
 api_name:
 - Word.Options.RevisedLinesColor
 ms.assetid: bc8cd36f-49ac-119a-4f9f-f2e9b20f9bd6

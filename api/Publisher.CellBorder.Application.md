@@ -3,7 +3,6 @@ title: CellBorder.Application property (Publisher)
 keywords: vbapb10.chm5242881
 f1_keywords:
 - vbapb10.chm5242881
-ms.prod: publisher
 api_name:
 - Publisher.CellBorder.Application
 ms.assetid: 7e2bfcdc-8a95-7703-0299-b4f1d90fa498

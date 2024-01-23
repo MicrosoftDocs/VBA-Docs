@@ -3,7 +3,6 @@ title: Document.Close event (Word)
 keywords: vbawd10.chm4001006
 f1_keywords:
 - vbawd10.chm4001006
-ms.prod: word
 api_name:
 - Word.Document.Close
 ms.assetid: 7758dbae-b624-d3b0-f42c-1404d40ecc78

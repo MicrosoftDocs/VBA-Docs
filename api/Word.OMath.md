@@ -3,7 +3,6 @@ title: OMath object (Word)
 keywords: vbawd10.chm2691
 f1_keywords:
 - vbawd10.chm2691
-ms.prod: word
 api_name:
 - Word.OMath
 ms.assetid: 82f2f81b-e2d5-140f-bdcc-8b52b821b24d

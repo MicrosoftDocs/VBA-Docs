@@ -3,7 +3,6 @@ title: Language.ActiveThesaurusDictionary property (Word)
 keywords: vbawd10.chm158138384
 f1_keywords:
 - vbawd10.chm158138384
-ms.prod: word
 api_name:
 - Word.Language.ActiveThesaurusDictionary
 ms.assetid: 2fedc56e-e694-56a7-0ce9-7ff45c6cbed1

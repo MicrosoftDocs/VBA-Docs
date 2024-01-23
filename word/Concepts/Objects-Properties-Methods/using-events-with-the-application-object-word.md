@@ -3,7 +3,6 @@ title: Using events with the Application object (Word)
 keywords: vbawd10.chm5214014
 f1_keywords:
 - vbawd10.chm5214014
-ms.prod: word
 ms.assetid: 784c4c61-7e47-3dbf-46f6-da655f786ca1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

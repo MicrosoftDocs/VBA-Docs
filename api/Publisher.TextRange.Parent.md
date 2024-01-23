@@ -3,7 +3,6 @@ title: TextRange.Parent property (Publisher)
 keywords: vbapb10.chm5308418
 f1_keywords:
 - vbapb10.chm5308418
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Parent
 ms.assetid: 1919f251-04ae-c521-34fa-aeff0d9177c1

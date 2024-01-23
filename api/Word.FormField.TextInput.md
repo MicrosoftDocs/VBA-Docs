@@ -3,7 +3,6 @@ title: FormField.TextInput property (Word)
 keywords: vbawd10.chm153616395
 f1_keywords:
 - vbawd10.chm153616395
-ms.prod: word
 api_name:
 - Word.FormField.TextInput
 ms.assetid: 9a547325-344a-96ca-d22c-72c466d2522f

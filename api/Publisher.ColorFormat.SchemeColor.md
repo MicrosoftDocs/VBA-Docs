@@ -3,7 +3,6 @@ title: ColorFormat.SchemeColor property (Publisher)
 keywords: vbapb10.chm2555910
 f1_keywords:
 - vbapb10.chm2555910
-ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.SchemeColor
 ms.assetid: 8b02c85c-a976-7b10-c4ea-6f881d702b55

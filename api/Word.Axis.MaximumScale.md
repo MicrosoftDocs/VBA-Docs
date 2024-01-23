@@ -3,7 +3,6 @@ title: Axis.MaximumScale property (Word)
 keywords: vbawd10.chm113049628
 f1_keywords:
 - vbawd10.chm113049628
-ms.prod: word
 api_name:
 - Word.Axis.MaximumScale
 ms.assetid: cfd12a67-ef8b-d92c-a9c1-74353754498e

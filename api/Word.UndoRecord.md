@@ -3,7 +3,6 @@ title: UndoRecord object (Word)
 keywords: vbawd10.chm856
 f1_keywords:
 - vbawd10.chm856
-ms.prod: word
 api_name:
 - Word.UndoRecord
 ms.assetid: 77bf9801-e940-e661-6bbe-20a8714d5dbd

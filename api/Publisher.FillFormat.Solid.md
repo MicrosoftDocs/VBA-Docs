@@ -3,7 +3,6 @@ title: FillFormat.Solid method (Publisher)
 keywords: vbapb10.chm2359317
 f1_keywords:
 - vbapb10.chm2359317
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Solid
 ms.assetid: e34f6bc0-308b-4f86-5ce9-87e05c4a2089

@@ -3,7 +3,6 @@ title: Series.Shadow property (Word)
 keywords: vbawd10.chm123732071
 f1_keywords:
 - vbawd10.chm123732071
-ms.prod: word
 api_name:
 - Word.Series.Shadow
 ms.assetid: cdab1ef9-6a84-6f46-9a45-4f6ec6c307b5

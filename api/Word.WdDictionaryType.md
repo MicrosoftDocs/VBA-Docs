@@ -1,6 +1,5 @@
 ---
 title: WdDictionaryType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdDictionaryType
 ms.assetid: eeabf89d-561e-e631-8dd8-ccd1765a81fa

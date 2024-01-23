@@ -3,7 +3,6 @@ title: Style.NoProofing property (Word)
 keywords: vbawd10.chm153878546
 f1_keywords:
 - vbawd10.chm153878546
-ms.prod: word
 api_name:
 - Word.Style.NoProofing
 ms.assetid: dbfc95ea-160a-bda9-e7e8-b73ae2314228

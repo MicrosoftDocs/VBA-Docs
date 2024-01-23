@@ -3,7 +3,6 @@ title: Selection.ClearParagraphStyle method (Word)
 keywords: vbawd10.chm158663686
 f1_keywords:
 - vbawd10.chm158663686
-ms.prod: word
 api_name:
 - Word.Selection.ClearParagraphStyle
 ms.assetid: cfbafeac-99e1-5fae-a9a0-8cf8836add94

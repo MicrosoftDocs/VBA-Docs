@@ -1,6 +1,5 @@
 ---
 title: WdLockType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdLockType
 ms.assetid: 2c861165-b6b7-5518-1569-628469b099cd

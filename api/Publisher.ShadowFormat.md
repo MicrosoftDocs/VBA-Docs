@@ -3,7 +3,6 @@ title: ShadowFormat object (Publisher)
 keywords: vbapb10.chm3735551
 f1_keywords:
 - vbapb10.chm3735551
-ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat
 ms.assetid: b23ab92e-5e49-8d8d-69d5-93d391a9edb2

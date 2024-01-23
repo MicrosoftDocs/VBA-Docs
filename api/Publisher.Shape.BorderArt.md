@@ -3,7 +3,6 @@ title: Shape.BorderArt property (Publisher)
 keywords: vbapb10.chm5308675
 f1_keywords:
 - vbapb10.chm5308675
-ms.prod: publisher
 api_name:
 - Publisher.Shape.BorderArt
 ms.assetid: dcc0ceb4-ef69-ffd3-e510-13dcb8d06832

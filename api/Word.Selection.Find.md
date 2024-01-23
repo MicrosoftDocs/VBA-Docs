@@ -3,7 +3,6 @@ title: Selection.Find property (Word)
 keywords: vbawd10.chm158662918
 f1_keywords:
 - vbawd10.chm158662918
-ms.prod: word
 api_name:
 - Word.Selection.Find
 ms.assetid: 66004412-4da2-586d-887c-6f9867e06ea6

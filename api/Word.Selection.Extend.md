@@ -3,7 +3,6 @@ title: Selection.Extend method (Word)
 keywords: vbawd10.chm158662956
 f1_keywords:
 - vbawd10.chm158662956
-ms.prod: word
 api_name:
 - Word.Selection.Extend
 ms.assetid: 7f9108a1-9b23-bc45-61f5-49aca9979932

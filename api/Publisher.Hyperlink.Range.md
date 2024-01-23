@@ -3,7 +3,6 @@ title: Hyperlink.Range property (Publisher)
 keywords: vbapb10.chm4587526
 f1_keywords:
 - vbapb10.chm4587526
-ms.prod: publisher
 api_name:
 - Publisher.Hyperlink.Range
 ms.assetid: ff105ffe-cb48-0f6a-99ff-eaac0500938f

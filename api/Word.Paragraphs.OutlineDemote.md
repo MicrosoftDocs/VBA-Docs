@@ -3,7 +3,6 @@ title: Paragraphs.OutlineDemote method (Word)
 keywords: vbawd10.chm156762437
 f1_keywords:
 - vbawd10.chm156762437
-ms.prod: word
 api_name:
 - Word.Paragraphs.OutlineDemote
 ms.assetid: 24650317-73a4-67a3-d7f4-dfc25bd75d2a

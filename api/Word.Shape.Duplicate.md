@@ -3,7 +3,6 @@ title: Shape.Duplicate method (Word)
 keywords: vbawd10.chm161480716
 f1_keywords:
 - vbawd10.chm161480716
-ms.prod: word
 api_name:
 - Word.Shape.Duplicate
 ms.assetid: 8734d0f7-62fa-01eb-7aa8-9f959d36d195

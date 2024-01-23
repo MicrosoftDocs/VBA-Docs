@@ -3,7 +3,6 @@ title: Application.SpecialMode property (Word)
 keywords: vbawd10.chm158335006
 f1_keywords:
 - vbawd10.chm158335006
-ms.prod: word
 api_name:
 - Word.Application.SpecialMode
 ms.assetid: aa60d4dc-4abe-e461-12c9-fc8e890536ca

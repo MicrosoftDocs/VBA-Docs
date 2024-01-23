@@ -3,7 +3,6 @@ title: ContentControlListEntry.MoveUp method (Word)
 keywords: vbawd10.chm147456107
 f1_keywords:
 - vbawd10.chm147456107
-ms.prod: word
 api_name:
 - Word.ContentControlListEntry.MoveUp
 ms.assetid: e67c7c3c-fdf0-64b4-7e93-7e6f7a47c9bd

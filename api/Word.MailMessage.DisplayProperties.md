@@ -3,7 +3,6 @@ title: MailMessage.DisplayProperties method (Word)
 keywords: vbawd10.chm163184977
 f1_keywords:
 - vbawd10.chm163184977
-ms.prod: word
 api_name:
 - Word.MailMessage.DisplayProperties
 ms.assetid: fa660e11-5329-5167-ddc3-0d90ee820251

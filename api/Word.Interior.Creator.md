@@ -3,7 +3,6 @@ title: Interior.Creator property (Word)
 keywords: vbawd10.chm2818197
 f1_keywords:
 - vbawd10.chm2818197
-ms.prod: word
 api_name:
 - Word.Interior.Creator
 ms.assetid: 1a086cf3-9fe4-8ef4-4d9d-77d99fa8d4e2

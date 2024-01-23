@@ -3,7 +3,6 @@ title: TableStyle.RowStripe property (Word)
 keywords: vbawd10.chm244776977
 f1_keywords:
 - vbawd10.chm244776977
-ms.prod: word
 api_name:
 - Word.TableStyle.RowStripe
 ms.assetid: 4ffb0d84-d2a6-bf22-39e0-bd24d9a41ef0

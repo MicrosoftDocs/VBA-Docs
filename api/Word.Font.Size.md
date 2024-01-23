@@ -3,7 +3,6 @@ title: Font.Size property (Word)
 keywords: vbawd10.chm156369037
 f1_keywords:
 - vbawd10.chm156369037
-ms.prod: word
 api_name:
 - Word.Font.Size
 ms.assetid: 95041c0a-43d0-368c-1c75-e2d6c1821119

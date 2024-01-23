@@ -3,7 +3,6 @@ title: Index.Parent property (Word)
 keywords: vbawd10.chm159187946
 f1_keywords:
 - vbawd10.chm159187946
-ms.prod: word
 api_name:
 - Word.Index.Parent
 ms.assetid: 5e44d144-569a-425d-ec01-264d168530c2

@@ -3,7 +3,6 @@ title: Window.PageScroll method (Word)
 keywords: vbawd10.chm157417580
 f1_keywords:
 - vbawd10.chm157417580
-ms.prod: word
 api_name:
 - Word.Window.PageScroll
 ms.assetid: e3287c43-b759-e72f-5dd5-ec7f1af2bebc

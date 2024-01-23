@@ -3,7 +3,6 @@ title: Options.Overtype property (Word)
 keywords: vbawd10.chm162988098
 f1_keywords:
 - vbawd10.chm162988098
-ms.prod: word
 api_name:
 - Word.Options.Overtype
 ms.assetid: 2538fee5-3571-3fae-06d0-f6c3533bb121

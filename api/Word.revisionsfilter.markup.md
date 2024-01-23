@@ -1,6 +1,5 @@
 ---
 title: RevisionsFilter.Markup property (Word)
-ms.prod: word
 ms.assetid: 90b90dd8-ead3-8e3c-f27e-a4614d12798c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

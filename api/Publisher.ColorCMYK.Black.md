@@ -3,7 +3,6 @@ title: ColorCMYK.Black property (Publisher)
 keywords: vbapb10.chm2621442
 f1_keywords:
 - vbapb10.chm2621442
-ms.prod: publisher
 api_name:
 - Publisher.ColorCMYK.Black
 ms.assetid: f404ee43-45e1-6c6d-75cc-b868fdedcd86

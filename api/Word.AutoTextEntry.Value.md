@@ -3,7 +3,6 @@ title: AutoTextEntry.Value property (Word)
 keywords: vbawd10.chm154533888
 f1_keywords:
 - vbawd10.chm154533888
-ms.prod: word
 api_name:
 - Word.AutoTextEntry.Value
 ms.assetid: 0b8b92d7-955b-3f4c-8bbd-924786b3aa9c

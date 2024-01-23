@@ -3,7 +3,6 @@ title: MailMergeDataField.Index property (Word)
 keywords: vbawd10.chm152633346
 f1_keywords:
 - vbawd10.chm152633346
-ms.prod: word
 api_name:
 - Word.MailMergeDataField.Index
 ms.assetid: c1202db6-1235-fcad-6bdf-9ca85a889a87

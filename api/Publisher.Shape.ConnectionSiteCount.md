@@ -3,7 +3,6 @@ title: Shape.ConnectionSiteCount property (Publisher)
 keywords: vbapb10.chm2228276
 f1_keywords:
 - vbapb10.chm2228276
-ms.prod: publisher
 api_name:
 - Publisher.Shape.ConnectionSiteCount
 ms.assetid: 00c32910-96b6-6981-8359-de4a71852934

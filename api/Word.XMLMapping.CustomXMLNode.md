@@ -3,7 +3,6 @@ title: XMLMapping.CustomXMLNode property (Word)
 keywords: vbawd10.chm199688194
 f1_keywords:
 - vbawd10.chm199688194
-ms.prod: word
 api_name:
 - Word.XMLMapping.CustomXMLNode
 ms.assetid: c28e3a1e-1bc3-fbe7-7ff8-78adef326bbd

@@ -3,7 +3,6 @@ title: MailMergeDataSources.Item method (Publisher)
 keywords: vbapb10.chm7143427
 f1_keywords:
 - vbapb10.chm7143427
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources.Item
 ms.assetid: a65fedf6-aae5-64ef-e7d0-6bbc3d5b733c

@@ -3,7 +3,6 @@ title: KeyBindings.Add method (Word)
 keywords: vbawd10.chm160825445
 f1_keywords:
 - vbawd10.chm160825445
-ms.prod: word
 api_name:
 - Word.KeyBindings.Add
 ms.assetid: b73a8af4-6e8f-7613-a8a5-b0c9f7c995ae

@@ -1,6 +1,5 @@
 ---
 title: WdMailMergeMailFormat enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMailMergeMailFormat
 ms.assetid: c8b08c29-eef3-e8bc-e3ba-395d57d37445

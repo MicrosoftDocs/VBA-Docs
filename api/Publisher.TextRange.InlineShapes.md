@@ -3,7 +3,6 @@ title: TextRange.InlineShapes property (Publisher)
 keywords: vbapb10.chm5308498
 f1_keywords:
 - vbapb10.chm5308498
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.InlineShapes
 ms.assetid: ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44

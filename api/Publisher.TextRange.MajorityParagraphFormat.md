@@ -3,7 +3,6 @@ title: TextRange.MajorityParagraphFormat property (Publisher)
 keywords: vbapb10.chm5308468
 f1_keywords:
 - vbapb10.chm5308468
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.MajorityParagraphFormat
 ms.assetid: d67e81fe-ab9b-8bfd-c31d-76feb1b6e15b

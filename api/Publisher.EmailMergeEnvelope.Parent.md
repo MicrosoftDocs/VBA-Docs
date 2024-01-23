@@ -3,7 +3,6 @@ title: EmailMergeEnvelope.Parent property (Publisher)
 keywords: vbapb10.chm9043970
 f1_keywords:
 - vbapb10.chm9043970
-ms.prod: publisher
 api_name:
 - Publisher.EmailMergeEnvelope.Parent
 ms.assetid: b1005a1d-6a64-e621-bcc0-ac26ebfb75ff

@@ -3,7 +3,6 @@ title: ShapeRange.Model3D property (Word)
 keywords: vbaxl10.chm162857168
 f1_keywords:
 - vbaxl10.chm162857168
-ms.prod: word
 api_name:
 - Word.ShapeRange.Model3D
 ms.date: 04/01/2019

@@ -3,7 +3,6 @@ title: Application.SnapToGuides property (Publisher)
 keywords: vbapb10.chm131110
 f1_keywords:
 - vbapb10.chm131110
-ms.prod: publisher
 api_name:
 - Publisher.Application.SnapToGuides
 ms.assetid: 09894c02-3193-cd14-ff55-45920e461af9

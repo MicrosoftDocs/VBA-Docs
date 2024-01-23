@@ -3,7 +3,6 @@ title: Font.TrackingPreset property (Publisher)
 keywords: vbapb10.chm5373986
 f1_keywords:
 - vbapb10.chm5373986
-ms.prod: publisher
 api_name:
 - Publisher.Font.TrackingPreset
 ms.assetid: 818e6efd-a1b3-1ccd-1dc1-29c0a8ded7f2

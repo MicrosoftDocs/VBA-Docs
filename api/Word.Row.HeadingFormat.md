@@ -3,7 +3,6 @@ title: Row.HeadingFormat property (Word)
 keywords: vbawd10.chm156237829
 f1_keywords:
 - vbawd10.chm156237829
-ms.prod: word
 api_name:
 - Word.Row.HeadingFormat
 ms.assetid: 18b0161c-ad04-57a2-02fb-870fabed158b

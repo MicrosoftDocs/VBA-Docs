@@ -3,7 +3,6 @@ title: ThreeDFormat.LightAngle property (Word)
 keywords: vbawd10.chm164626558
 f1_keywords:
 - vbawd10.chm164626558
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.LightAngle
 ms.assetid: 61094082-32b6-14a4-4b03-d853c5710e01

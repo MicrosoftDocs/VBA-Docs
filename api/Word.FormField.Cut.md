@@ -3,7 +3,6 @@ title: FormField.Cut method (Word)
 keywords: vbawd10.chm153616486
 f1_keywords:
 - vbawd10.chm153616486
-ms.prod: word
 api_name:
 - Word.FormField.Cut
 ms.assetid: 92b8862d-6463-0bbd-cffd-8e76f5add5b4

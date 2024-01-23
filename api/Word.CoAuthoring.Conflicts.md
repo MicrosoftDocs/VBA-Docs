@@ -3,7 +3,6 @@ title: CoAuthoring.Conflicts property (Word)
 keywords: vbawd10.chm254869511
 f1_keywords:
 - vbawd10.chm254869511
-ms.prod: word
 api_name:
 - Word.CoAuthoring.Conflicts
 ms.assetid: bd6aab5d-5342-ee1b-c5af-1f67753d55fc

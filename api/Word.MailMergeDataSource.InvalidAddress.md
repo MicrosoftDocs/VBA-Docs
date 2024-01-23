@@ -3,7 +3,6 @@ title: MailMergeDataSource.InvalidAddress property (Word)
 keywords: vbawd10.chm152895502
 f1_keywords:
 - vbawd10.chm152895502
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.InvalidAddress
 ms.assetid: ac84a87e-2125-851d-90ab-42359898edcc

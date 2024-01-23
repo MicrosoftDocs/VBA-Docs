@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.UseOnlyPublicationFonts property (Publisher)
 keywords: vbapb10.chm7077894
 f1_keywords:
 - vbapb10.chm7077894
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
 ms.assetid: f5973b32-37f3-8f65-1437-a465aa488ef4

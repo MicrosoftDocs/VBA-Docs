@@ -3,7 +3,6 @@ title: Document.ContentControlBeforeDelete event (Word)
 keywords: vbawd10.chm4001011
 f1_keywords:
 - vbawd10.chm4001011
-ms.prod: word
 api_name:
 - Word.Document.ContentControlBeforeDelete
 ms.assetid: a690fb97-0de3-de0e-7e84-edaaea756e83

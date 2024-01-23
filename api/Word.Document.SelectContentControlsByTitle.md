@@ -3,7 +3,6 @@ title: Document.SelectContentControlsByTitle method (Word)
 keywords: vbawd10.chm158007847
 f1_keywords:
 - vbawd10.chm158007847
-ms.prod: word
 api_name:
 - Word.Document.SelectContentControlsByTitle
 ms.assetid: 8e5fc6a8-ac06-3dee-fb83-67328765fab4

@@ -3,7 +3,6 @@ title: Axis.MajorUnitScale property (Word)
 keywords: vbawd10.chm113049661
 f1_keywords:
 - vbawd10.chm113049661
-ms.prod: word
 api_name:
 - Word.Axis.MajorUnitScale
 ms.assetid: cfc87c90-7aa5-86b8-1639-9b2db98ab56a

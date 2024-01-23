@@ -3,7 +3,6 @@ title: Application.ProtectedViewWindowBeforeEdit event (Word)
 keywords: vbawd10.chm4000031
 f1_keywords:
 - vbawd10.chm4000031
-ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowBeforeEdit
 ms.assetid: 1ea33944-1b2f-f914-f04a-81751cc750f8

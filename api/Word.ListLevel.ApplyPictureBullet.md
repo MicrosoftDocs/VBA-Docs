@@ -3,7 +3,6 @@ title: ListLevel.ApplyPictureBullet method (Word)
 keywords: vbawd10.chm160235520
 f1_keywords:
 - vbawd10.chm160235520
-ms.prod: word
 api_name:
 - Word.ListLevel.ApplyPictureBullet
 ms.assetid: 9d91b047-c91b-60e1-2b57-aaa16491d212

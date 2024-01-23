@@ -3,7 +3,6 @@ title: Pane.Zooms property (Word)
 keywords: vbawd10.chm157286407
 f1_keywords:
 - vbawd10.chm157286407
-ms.prod: word
 api_name:
 - Word.Pane.Zooms
 ms.assetid: 6a09981c-cc68-2468-f750-18cb8524767c

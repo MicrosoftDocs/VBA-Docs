@@ -3,7 +3,6 @@ title: View.Zoom property (Word)
 keywords: vbawd10.chm161808394
 f1_keywords:
 - vbawd10.chm161808394
-ms.prod: word
 api_name:
 - Word.View.Zoom
 ms.assetid: 587c2f80-461a-76f8-35b8-a14f73fb80ef

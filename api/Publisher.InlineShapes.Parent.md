@@ -3,7 +3,6 @@ title: InlineShapes.Parent property (Publisher)
 keywords: vbapb10.chm5767170
 f1_keywords:
 - vbapb10.chm5767170
-ms.prod: publisher
 api_name:
 - Publisher.InlineShapes.Parent
 ms.assetid: e60b1f80-60f0-930d-2a81-90b2187d31ef

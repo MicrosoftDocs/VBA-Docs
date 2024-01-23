@@ -3,7 +3,6 @@ title: WebNavigationBarSets.Parent property (Publisher)
 keywords: vbapb10.chm8454146
 f1_keywords:
 - vbapb10.chm8454146
-ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSets.Parent
 ms.assetid: e5adefa5-8670-14c4-70a6-59100e745889

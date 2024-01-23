@@ -1,6 +1,5 @@
 ---
 title: WdContentControlType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdContentControlType
 ms.assetid: 6bf57b23-d12f-b942-4a30-cd1deed09407

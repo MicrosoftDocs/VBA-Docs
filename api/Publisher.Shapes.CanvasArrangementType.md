@@ -3,7 +3,6 @@ title: Shapes.CanvasArrangementType property (Publisher)
 keywords: vbapb10.chm2162758
 f1_keywords:
 - vbapb10.chm2162758
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.CanvasArrangementType
 ms.assetid: d86ee471-0c23-e6fc-d38c-b65e8c14d4c4

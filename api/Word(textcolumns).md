@@ -3,7 +3,7 @@ title: TextColumns object (Word)
 keywords: vbawd10.chm2419
 f1_keywords:
 - vbawd10.chm2419
-ms.prod: word
+ms.service: word
 ms.assetid: 00b62c93-db7d-00b9-cc84-9a21e427d0cd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

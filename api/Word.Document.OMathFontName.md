@@ -3,7 +3,6 @@ title: Document.OMathFontName property (Word)
 keywords: vbawd10.chm158007851
 f1_keywords:
 - vbawd10.chm158007851
-ms.prod: word
 api_name:
 - Word.Document.OMathFontName
 ms.assetid: 3a1c93fd-20d7-1eb9-96d5-3d13ccdde735

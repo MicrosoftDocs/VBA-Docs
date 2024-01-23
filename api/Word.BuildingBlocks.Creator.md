@@ -1,6 +1,5 @@
 ---
 title: BuildingBlocks.Creator property (Word)
-ms.prod: word
 api_name:
 - Word.BuildingBlocks.Creator
 ms.assetid: 42d378dc-d442-e8e2-382c-ea82b71ffcf8

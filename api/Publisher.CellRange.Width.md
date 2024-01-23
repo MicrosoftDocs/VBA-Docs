@@ -3,7 +3,6 @@ title: CellRange.Width property (Publisher)
 keywords: vbapb10.chm5177351
 f1_keywords:
 - vbapb10.chm5177351
-ms.prod: publisher
 api_name:
 - Publisher.CellRange.Width
 ms.assetid: 336b3627-08a1-6f37-3425-3c55cd0a7f8a

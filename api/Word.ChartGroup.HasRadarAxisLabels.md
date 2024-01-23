@@ -3,7 +3,6 @@ title: ChartGroup.HasRadarAxisLabels property (Word)
 keywords: vbawd10.chm263454734
 f1_keywords:
 - vbawd10.chm263454734
-ms.prod: word
 api_name:
 - Word.ChartGroup.HasRadarAxisLabels
 ms.assetid: 0b086c3c-1eaa-1e65-fcb1-969c8b2c64c7

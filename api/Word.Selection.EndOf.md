@@ -3,7 +3,6 @@ title: Selection.EndOf method (Word)
 keywords: vbawd10.chm158662764
 f1_keywords:
 - vbawd10.chm158662764
-ms.prod: word
 api_name:
 - Word.Selection.EndOf
 ms.assetid: 33aa094b-17f9-3572-f66f-59692c57dc01

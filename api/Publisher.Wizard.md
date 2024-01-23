@@ -3,7 +3,6 @@ title: Wizard object (Publisher)
 keywords: vbapb10.chm1507327
 f1_keywords:
 - vbapb10.chm1507327
-ms.prod: publisher
 api_name:
 - Publisher.Wizard
 ms.assetid: c0a64ee9-d1fa-6dc7-5221-ff2d32874ea0

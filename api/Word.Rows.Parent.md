@@ -3,7 +3,6 @@ title: Rows.Parent property (Word)
 keywords: vbawd10.chm155976682
 f1_keywords:
 - vbawd10.chm155976682
-ms.prod: word
 api_name:
 - Word.Rows.Parent
 ms.assetid: 5f36062a-4c45-11a7-8b19-213919fa001a

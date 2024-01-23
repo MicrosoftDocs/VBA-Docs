@@ -3,7 +3,6 @@ title: Document.Application property (Word)
 keywords: vbawd10.chm158007297
 f1_keywords:
 - vbawd10.chm158007297
-ms.prod: word
 api_name:
 - Word.Document.Application
 ms.assetid: 8cd9178c-637a-60e3-be60-57f88e9bfc0d

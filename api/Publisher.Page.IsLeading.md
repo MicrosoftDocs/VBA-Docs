@@ -3,7 +3,6 @@ title: Page.IsLeading property (Publisher)
 keywords: vbapb10.chm131102
 f1_keywords:
 - vbapb10.chm131102
-ms.prod: publisher
 api_name:
 - Publisher.Page.IsLeading
 ms.assetid: 5a65f1fe-442d-f352-bea6-b732771008d8

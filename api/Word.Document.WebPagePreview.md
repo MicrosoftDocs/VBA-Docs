@@ -3,7 +3,6 @@ title: Document.WebPagePreview method (Word)
 keywords: vbawd10.chm158007621
 f1_keywords:
 - vbawd10.chm158007621
-ms.prod: word
 api_name:
 - Word.Document.WebPagePreview
 ms.assetid: 9e348439-3098-fe59-e501-308ad413950e

@@ -3,7 +3,6 @@ title: Options.ShowBasicColors property (Publisher)
 keywords: vbapb10.chm1048601
 f1_keywords:
 - vbapb10.chm1048601
-ms.prod: publisher
 api_name:
 - Publisher.Options.ShowBasicColors
 ms.assetid: d04504fa-5627-b66b-bd6e-30556155632c

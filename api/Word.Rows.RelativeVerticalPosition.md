@@ -3,7 +3,6 @@ title: Rows.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm155975699
 f1_keywords:
 - vbawd10.chm155975699
-ms.prod: word
 api_name:
 - Word.Rows.RelativeVerticalPosition
 ms.assetid: 2aee8b37-3d84-c376-b09b-5b86909bdaaa

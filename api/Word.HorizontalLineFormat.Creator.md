@@ -3,7 +3,6 @@ title: HorizontalLineFormat.Creator property (Word)
 keywords: vbawd10.chm165544937
 f1_keywords:
 - vbawd10.chm165544937
-ms.prod: word
 api_name:
 - Word.HorizontalLineFormat.Creator
 ms.assetid: ecbfac32-9cf2-286d-4c7a-ca74056b8d40

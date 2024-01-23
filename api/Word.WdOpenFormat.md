@@ -1,6 +1,5 @@
 ---
 title: WdOpenFormat enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdOpenFormat
 ms.assetid: 48727357-ff8a-5516-9f45-09f0282ca89f

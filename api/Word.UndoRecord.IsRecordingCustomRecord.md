@@ -3,7 +3,6 @@ title: UndoRecord.IsRecordingCustomRecord property (Word)
 keywords: vbawd10.chm56098819
 f1_keywords:
 - vbawd10.chm56098819
-ms.prod: word
 api_name:
 - Word.UndoRecord.IsRecordingCustomRecord
 ms.assetid: 08693e04-4a76-f7ab-9671-cdad35ac87ea

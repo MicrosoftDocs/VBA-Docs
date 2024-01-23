@@ -3,7 +3,6 @@ title: Document.Saved property (Word)
 keywords: vbawd10.chm158007336
 f1_keywords:
 - vbawd10.chm158007336
-ms.prod: word
 api_name:
 - Word.Document.Saved
 ms.assetid: 45bfc77d-2f8e-078c-57c1-ed3ae9f15932

@@ -1,6 +1,5 @@
 ---
 title: WdArrangeStyle enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdArrangeStyle
 ms.assetid: f2c62067-d9bd-64f0-3711-d925b12a385e

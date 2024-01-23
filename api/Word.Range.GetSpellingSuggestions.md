@@ -3,7 +3,6 @@ title: Range.GetSpellingSuggestions method (Word)
 keywords: vbawd10.chm157155537
 f1_keywords:
 - vbawd10.chm157155537
-ms.prod: word
 api_name:
 - Word.Range.GetSpellingSuggestions
 ms.assetid: 5ab65e3e-65d8-4e49-2874-609b1974888e

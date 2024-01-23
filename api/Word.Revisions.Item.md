@@ -3,7 +3,6 @@ title: Revisions.Item method (Word)
 keywords: vbawd10.chm159383552
 f1_keywords:
 - vbawd10.chm159383552
-ms.prod: word
 api_name:
 - Word.Revisions.Item
 ms.assetid: fa549b87-e19d-7439-4ff7-09c9a3378bb0

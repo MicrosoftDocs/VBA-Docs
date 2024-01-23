@@ -3,7 +3,6 @@ title: InlineShapes.AddPictureBullet method (Word)
 keywords: vbawd10.chm162070634
 f1_keywords:
 - vbawd10.chm162070634
-ms.prod: word
 api_name:
 - Word.InlineShapes.AddPictureBullet
 ms.assetid: 39e6ea87-eddf-5c08-07bf-52bd13de1117

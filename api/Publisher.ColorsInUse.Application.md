@@ -3,7 +3,6 @@ title: ColorsInUse.Application property (Publisher)
 keywords: vbapb10.chm2949121
 f1_keywords:
 - vbapb10.chm2949121
-ms.prod: publisher
 api_name:
 - Publisher.ColorsInUse.Application
 ms.assetid: 726ef603-5f79-ac5b-e399-cbfe85773ba2

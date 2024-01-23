@@ -3,7 +3,6 @@ title: Window.Activate method (Publisher)
 keywords: vbapb10.chm262162
 f1_keywords:
 - vbapb10.chm262162
-ms.prod: publisher
 api_name:
 - Publisher.Window.Activate
 ms.assetid: 9bd17970-d038-33de-18ad-139bd9fdb8e8

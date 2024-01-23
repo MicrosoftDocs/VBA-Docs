@@ -3,7 +3,6 @@ title: CaptionLabel.Separator property (Word)
 keywords: vbawd10.chm158924806
 f1_keywords:
 - vbawd10.chm158924806
-ms.prod: word
 api_name:
 - Word.CaptionLabel.Separator
 ms.assetid: b49e1c5d-737e-2084-ec33-71c3a0fa58bc

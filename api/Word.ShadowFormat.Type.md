@@ -3,7 +3,6 @@ title: ShadowFormat.Type property (Word)
 keywords: vbawd10.chm164364393
 f1_keywords:
 - vbawd10.chm164364393
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Type
 ms.assetid: b5ef2cb6-983c-0d4f-731c-54340f5142df

@@ -3,7 +3,6 @@ title: Editor.Parent property (Word)
 keywords: vbawd10.chm225575914
 f1_keywords:
 - vbawd10.chm225575914
-ms.prod: word
 api_name:
 - Word.Editor.Parent
 ms.assetid: 756b7e35-e80f-f200-cfb9-27077e66d3f1

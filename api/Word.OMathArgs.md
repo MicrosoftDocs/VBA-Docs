@@ -1,6 +1,5 @@
 ---
 title: OMathArgs object (Word)
-ms.prod: word
 api_name:
 - Word.OMathArgs
 ms.assetid: 5e4d542b-11c3-8cb8-be2a-5b990e777290

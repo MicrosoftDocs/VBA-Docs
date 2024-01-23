@@ -3,7 +3,6 @@ title: Cell.Split method (Publisher)
 keywords: vbapb10.chm5111844
 f1_keywords:
 - vbapb10.chm5111844
-ms.prod: publisher
 api_name:
 - Publisher.Cell.Split
 ms.assetid: 99bc34df-c8dc-90e5-4262-dbe0a9c9b61d

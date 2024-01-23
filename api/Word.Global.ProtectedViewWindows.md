@@ -3,7 +3,6 @@ title: Global.ProtectedViewWindows property (Word)
 keywords: vbawd10.chm163119218
 f1_keywords:
 - vbawd10.chm163119218
-ms.prod: word
 api_name:
 - Word.Global.ProtectedViewWindows
 ms.assetid: cac3b7a5-ace5-85c4-2626-4b5b7c421414

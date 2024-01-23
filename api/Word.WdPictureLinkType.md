@@ -1,6 +1,5 @@
 ---
 title: WdPictureLinkType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdPictureLinkType
 ms.assetid: 25c45db2-b745-20e2-0a34-0e11ef894257

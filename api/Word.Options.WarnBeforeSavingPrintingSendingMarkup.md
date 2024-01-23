@@ -3,7 +3,6 @@ title: Options.WarnBeforeSavingPrintingSendingMarkup property (Word)
 keywords: vbawd10.chm162988478
 f1_keywords:
 - vbawd10.chm162988478
-ms.prod: word
 api_name:
 - Word.Options.WarnBeforeSavingPrintingSendingMarkup
 ms.assetid: 3d507ad6-5d8f-f20e-eefe-2499f0507b6f

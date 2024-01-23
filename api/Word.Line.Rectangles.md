@@ -3,7 +3,6 @@ title: Line.Rectangles property (Word)
 keywords: vbawd10.chm49610760
 f1_keywords:
 - vbawd10.chm49610760
-ms.prod: word
 api_name:
 - Word.Line.Rectangles
 ms.assetid: 2cc7988f-de81-5461-5fd0-a0ce29fdadaa

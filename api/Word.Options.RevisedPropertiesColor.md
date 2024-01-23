@@ -3,7 +3,6 @@ title: Options.RevisedPropertiesColor property (Word)
 keywords: vbawd10.chm162988109
 f1_keywords:
 - vbawd10.chm162988109
-ms.prod: word
 api_name:
 - Word.Options.RevisedPropertiesColor
 ms.assetid: 00b04099-0cb2-31e1-dc34-ad9203919f52

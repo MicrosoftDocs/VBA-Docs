@@ -3,7 +3,6 @@ title: Sentences.Creator property (Word)
 keywords: vbawd10.chm156959721
 f1_keywords:
 - vbawd10.chm156959721
-ms.prod: word
 api_name:
 - Word.Sentences.Creator
 ms.assetid: 69465368-9258-cfc2-f469-69b27940e24e

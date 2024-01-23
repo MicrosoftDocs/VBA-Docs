@@ -3,7 +3,6 @@ title: CalloutFormat.CustomLength method (Publisher)
 keywords: vbapb10.chm2490386
 f1_keywords:
 - vbapb10.chm2490386
-ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.CustomLength
 ms.assetid: 855df4af-a02f-fff3-9b12-af886a9788bc

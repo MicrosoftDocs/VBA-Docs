@@ -3,7 +3,6 @@ title: ShapeRange.IsInline property (Publisher)
 keywords: vbapb10.chm2294022
 f1_keywords:
 - vbapb10.chm2294022
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.IsInline
 ms.assetid: 32e038cc-5837-93b4-de54-9bcd0549f1d4

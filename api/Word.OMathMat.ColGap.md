@@ -3,7 +3,6 @@ title: OMathMat.ColGap property (Word)
 keywords: vbawd10.chm176029808
 f1_keywords:
 - vbawd10.chm176029808
-ms.prod: word
 api_name:
 - Word.OMathMat.ColGap
 ms.assetid: 14789751-5c22-dd1a-17c4-3d517c7bc951

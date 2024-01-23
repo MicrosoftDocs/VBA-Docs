@@ -3,7 +3,6 @@ title: Pages.Creator property (Word)
 keywords: vbawd10.chm67240937
 f1_keywords:
 - vbawd10.chm67240937
-ms.prod: word
 api_name:
 - Word.Pages.Creator
 ms.assetid: 0f449de7-653d-34fb-20be-cb9bf089ce88

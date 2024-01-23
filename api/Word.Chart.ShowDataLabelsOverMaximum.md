@@ -3,7 +3,6 @@ title: Chart.ShowDataLabelsOverMaximum property (Word)
 keywords: vbawd10.chm79364183
 f1_keywords:
 - vbawd10.chm79364183
-ms.prod: word
 api_name:
 - Word.Chart.ShowDataLabelsOverMaximum
 ms.assetid: 3a460343-126c-5d83-38c2-c7fe7d2c59d1

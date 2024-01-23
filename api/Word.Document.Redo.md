@@ -3,7 +3,6 @@ title: Document.Redo method (Word)
 keywords: vbawd10.chm158007413
 f1_keywords:
 - vbawd10.chm158007413
-ms.prod: word
 api_name:
 - Word.Document.Redo
 ms.assetid: 0fb5671e-c933-50e6-e1fa-fe146666ad80

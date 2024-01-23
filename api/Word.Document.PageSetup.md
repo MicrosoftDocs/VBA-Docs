@@ -3,7 +3,6 @@ title: Document.PageSetup property (Word)
 keywords: vbawd10.chm158008397
 f1_keywords:
 - vbawd10.chm158008397
-ms.prod: word
 api_name:
 - Word.Document.PageSetup
 ms.assetid: ddc90b56-f18b-3a30-23d3-24f95d9af8a6

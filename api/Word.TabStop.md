@@ -3,7 +3,6 @@ title: TabStop object (Word)
 keywords: vbawd10.chm2388
 f1_keywords:
 - vbawd10.chm2388
-ms.prod: word
 api_name:
 - Word.TabStop
 ms.assetid: 5290ae79-f728-24a8-6bb0-267072cd0288

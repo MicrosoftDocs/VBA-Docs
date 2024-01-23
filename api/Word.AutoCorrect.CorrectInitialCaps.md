@@ -3,7 +3,6 @@ title: AutoCorrect.CorrectInitialCaps property (Word)
 keywords: vbawd10.chm155779074
 f1_keywords:
 - vbawd10.chm155779074
-ms.prod: word
 api_name:
 - Word.AutoCorrect.CorrectInitialCaps
 ms.assetid: 5f24b0a7-8b5a-3688-7dbf-7e7ad7adec3b

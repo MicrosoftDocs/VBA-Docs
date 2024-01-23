@@ -3,7 +3,6 @@ title: Paragraph.TabHangingIndent method (Word)
 keywords: vbawd10.chm156696880
 f1_keywords:
 - vbawd10.chm156696880
-ms.prod: word
 api_name:
 - Word.Paragraph.TabHangingIndent
 ms.assetid: bb29f459-4e38-e31d-ee18-ba061e5c116e

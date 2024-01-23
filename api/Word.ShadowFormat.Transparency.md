@@ -3,7 +3,6 @@ title: ShadowFormat.Transparency property (Word)
 keywords: vbawd10.chm164364392
 f1_keywords:
 - vbawd10.chm164364392
-ms.prod: word
 api_name:
 - Word.ShadowFormat.Transparency
 ms.assetid: 0bcfcbd7-ffde-4dc0-628a-203c322cf573

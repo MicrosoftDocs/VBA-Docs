@@ -3,7 +3,6 @@ title: Cell.Split method (Word)
 keywords: vbawd10.chm156106957
 f1_keywords:
 - vbawd10.chm156106957
-ms.prod: word
 api_name:
 - Word.Cell.Split
 ms.assetid: c7eb0d00-ff7e-a737-2083-e16f46ead256

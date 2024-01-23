@@ -1,6 +1,5 @@
 ---
 title: WdExportItem enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdExportItem
 ms.assetid: 7b8259e7-1f80-25e9-fe5c-c7c2535c6ca4

@@ -3,7 +3,6 @@ title: Document.SetCompatibilityMode method (Word)
 keywords: vbawd10.chm158007867
 f1_keywords:
 - vbawd10.chm158007867
-ms.prod: word
 api_name:
 - Word.SetCompatibilityMode
 ms.assetid: f167a640-340e-56ed-34c0-0c3dbff8575a

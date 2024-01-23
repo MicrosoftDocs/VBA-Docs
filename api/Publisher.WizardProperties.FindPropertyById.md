@@ -3,7 +3,6 @@ title: WizardProperties.FindPropertyById method (Publisher)
 keywords: vbapb10.chm1507332
 f1_keywords:
 - vbapb10.chm1507332
-ms.prod: publisher
 api_name:
 - Publisher.WizardProperties.FindPropertyById
 ms.assetid: 9d13ffa2-f251-0e7d-2f36-c747413143d0

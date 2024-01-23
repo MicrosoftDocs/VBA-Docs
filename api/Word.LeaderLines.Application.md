@@ -3,7 +3,6 @@ title: LeaderLines.Application property (Word)
 keywords: vbawd10.chm207749268
 f1_keywords:
 - vbawd10.chm207749268
-ms.prod: word
 api_name:
 - Word.LeaderLines.Application
 ms.assetid: bb9ac536-6057-73b7-48e1-aab636732d24

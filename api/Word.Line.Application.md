@@ -3,7 +3,6 @@ title: Line.Application property (Word)
 keywords: vbawd10.chm49611752
 f1_keywords:
 - vbawd10.chm49611752
-ms.prod: word
 api_name:
 - Word.Line.Application
 ms.assetid: b102c3c8-d569-aea4-7779-f34dce0abf9b

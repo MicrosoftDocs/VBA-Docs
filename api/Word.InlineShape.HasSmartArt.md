@@ -3,7 +3,6 @@ title: InlineShape.HasSmartArt property (Word)
 keywords: vbawd10.chm162005147
 f1_keywords:
 - vbawd10.chm162005147
-ms.prod: word
 api_name:
 - Word.InlineShape.HasSmartArt
 ms.assetid: fd53f446-d0f9-5d67-7369-b2fdd241da4e

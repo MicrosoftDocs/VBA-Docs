@@ -3,7 +3,6 @@ title: Range.CheckSpelling method (Word)
 keywords: vbawd10.chm157155533
 f1_keywords:
 - vbawd10.chm157155533
-ms.prod: word
 api_name:
 - Word.Range.CheckSpelling
 ms.assetid: 41873962-8cac-84a4-4e01-712985513cd4

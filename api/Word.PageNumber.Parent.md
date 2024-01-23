@@ -1,6 +1,5 @@
 ---
 title: PageNumber.Parent property (Word)
-ms.prod: word
 api_name:
 - Word.PageNumber.Parent
 ms.assetid: 8edfbfc0-6755-fa3b-8f0d-1790f317001c

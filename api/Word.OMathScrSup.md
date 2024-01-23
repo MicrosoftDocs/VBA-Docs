@@ -3,7 +3,6 @@ title: OMathScrSup object (Word)
 keywords: vbawd10.chm1830
 f1_keywords:
 - vbawd10.chm1830
-ms.prod: word
 api_name:
 - Word.OMathScrSup
 ms.assetid: 70adf652-d78c-4ca3-604f-57ca109e8109

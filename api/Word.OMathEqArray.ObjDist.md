@@ -3,7 +3,6 @@ title: OMathEqArray.ObjDist property (Word)
 keywords: vbawd10.chm174129257
 f1_keywords:
 - vbawd10.chm174129257
-ms.prod: word
 api_name:
 - Word.OMathEqArray.ObjDist
 ms.assetid: eb381b5c-5449-159d-7f0f-ad523d4c352f

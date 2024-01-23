@@ -3,7 +3,6 @@ title: Document.CodeName property (Word)
 keywords: vbawd10.chm158007558
 f1_keywords:
 - vbawd10.chm158007558
-ms.prod: word
 api_name:
 - Word.Document.CodeName
 ms.assetid: 684f885d-9468-9bc9-d381-ef73286330ff

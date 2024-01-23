@@ -3,7 +3,6 @@ title: Document.Undo method (Publisher)
 keywords: vbapb10.chm196704
 f1_keywords:
 - vbapb10.chm196704
-ms.prod: publisher
 api_name:
 - Publisher.Document.Undo
 ms.assetid: 8cfd09a0-8a0d-2870-f833-a35ff1fc21b4

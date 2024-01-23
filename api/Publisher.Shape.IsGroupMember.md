@@ -3,7 +3,6 @@ title: Shape.IsGroupMember property (Publisher)
 keywords: vbapb10.chm2228337
 f1_keywords:
 - vbapb10.chm2228337
-ms.prod: publisher
 api_name:
 - Publisher.Shape.IsGroupMember
 ms.assetid: bbd9b662-b47d-d5cf-6858-e208c44f88a0

@@ -3,7 +3,6 @@ title: Bibliography.GenerateUniqueTag method (Word)
 keywords: vbawd10.chm101646440
 f1_keywords:
 - vbawd10.chm101646440
-ms.prod: word
 api_name:
 - Word.Bibliography.GenerateUniqueTag
 ms.assetid: e57f59bb-82fe-c142-b0c1-7b78533525a7

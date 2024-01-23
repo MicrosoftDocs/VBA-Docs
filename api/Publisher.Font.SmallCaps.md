@@ -3,7 +3,6 @@ title: Font.SmallCaps property (Publisher)
 keywords: vbapb10.chm5373971
 f1_keywords:
 - vbapb10.chm5373971
-ms.prod: publisher
 api_name:
 - Publisher.Font.SmallCaps
 ms.assetid: ab50b850-f371-7d8e-0c19-00ad68e700f0

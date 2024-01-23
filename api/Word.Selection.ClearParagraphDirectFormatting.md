@@ -3,7 +3,6 @@ title: Selection.ClearParagraphDirectFormatting method (Word)
 keywords: vbawd10.chm158663696
 f1_keywords:
 - vbawd10.chm158663696
-ms.prod: word
 api_name:
 - Word.Selection.ClearParagraphDirectFormatting
 ms.assetid: 66df2319-f02e-7cd9-4cef-fda6468dcd67

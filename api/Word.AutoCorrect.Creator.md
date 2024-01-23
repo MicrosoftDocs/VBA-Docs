@@ -3,7 +3,6 @@ title: AutoCorrect.Creator property (Word)
 keywords: vbawd10.chm155780073
 f1_keywords:
 - vbawd10.chm155780073
-ms.prod: word
 api_name:
 - Word.AutoCorrect.Creator
 ms.assetid: 604ad446-445d-9f66-e30c-ae3e5e4fbc25

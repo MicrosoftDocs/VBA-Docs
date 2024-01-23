@@ -3,7 +3,6 @@ title: Options.MatchFuzzyTC property (Word)
 keywords: vbawd10.chm162988352
 f1_keywords:
 - vbawd10.chm162988352
-ms.prod: word
 api_name:
 - Word.Options.MatchFuzzyTC
 ms.assetid: 9dc9eb01-d530-f2ac-0bb7-27630ca3ad60

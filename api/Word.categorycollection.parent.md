@@ -3,7 +3,6 @@ title: CategoryCollection.Parent property (Word)
 keywords: vbawd10.chm204275862
 f1_keywords:
 - vbawd10.chm204275862
-ms.prod: word
 ms.assetid: d5e28924-66d6-c322-84b1-fb417da3b45e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

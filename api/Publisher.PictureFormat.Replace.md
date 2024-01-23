@@ -3,7 +3,6 @@ title: PictureFormat.Replace method (Publisher)
 keywords: vbapb10.chm3604786
 f1_keywords:
 - vbapb10.chm3604786
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.Replace
 ms.assetid: b2bce79a-5c46-1473-601d-a4a25176edeb

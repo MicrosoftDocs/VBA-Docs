@@ -3,7 +3,6 @@ title: OMathScrSup.E property (Word)
 keywords: vbawd10.chm119930983
 f1_keywords:
 - vbawd10.chm119930983
-ms.prod: word
 api_name:
 - Word.OMathScrSup.E
 ms.assetid: e1d2e079-ed57-4e0e-852b-0eabde6c6e0b

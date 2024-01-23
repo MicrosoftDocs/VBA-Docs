@@ -3,7 +3,6 @@ title: Template.OpenAsDocument method (Word)
 keywords: vbawd10.chm157941860
 f1_keywords:
 - vbawd10.chm157941860
-ms.prod: word
 api_name:
 - Word.Template.OpenAsDocument
 ms.assetid: 3e73bddd-a5af-5c58-cd66-3271271633dd

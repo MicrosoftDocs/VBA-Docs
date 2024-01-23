@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.PrintRegistrationMarks property (Publisher)
 keywords: vbapb10.chm7077896
 f1_keywords:
 - vbapb10.chm7077896
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.PrintRegistrationMarks
 ms.assetid: 24928459-0158-b7a9-46c0-c1a6116518d5

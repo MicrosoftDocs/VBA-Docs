@@ -3,7 +3,6 @@ title: FillFormat.PresetTextured method (Publisher)
 keywords: vbapb10.chm2359316
 f1_keywords:
 - vbapb10.chm2359316
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.PresetTextured
 ms.assetid: 971eac34-4e29-c898-93c8-9e71bd92238d

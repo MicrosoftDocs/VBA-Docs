@@ -3,7 +3,6 @@ title: Find.Style property (Word)
 keywords: vbawd10.chm162529299
 f1_keywords:
 - vbawd10.chm162529299
-ms.prod: word
 api_name:
 - Word.Find.Style
 ms.assetid: 1f749b24-9fad-6909-8bed-165ac41f88f8

@@ -3,7 +3,6 @@ title: Trendline.Backward2 property (Word)
 keywords: vbawd10.chm26348122
 f1_keywords:
 - vbawd10.chm26348122
-ms.prod: word
 api_name:
 - Word.Trendline.Backward2
 ms.assetid: 41655a35-671d-363b-e980-589a1d53ffe1

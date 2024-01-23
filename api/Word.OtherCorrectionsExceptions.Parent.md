@@ -3,7 +3,6 @@ title: OtherCorrectionsExceptions.Parent property (Word)
 keywords: vbawd10.chm165610474
 f1_keywords:
 - vbawd10.chm165610474
-ms.prod: word
 api_name:
 - Word.OtherCorrectionsExceptions.Parent
 ms.assetid: 1b6f3e1f-408c-03b8-f84e-0d7806524747

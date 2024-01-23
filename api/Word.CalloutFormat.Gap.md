@@ -3,7 +3,6 @@ title: CalloutFormat.Gap property (Word)
 keywords: vbawd10.chm163905643
 f1_keywords:
 - vbawd10.chm163905643
-ms.prod: word
 api_name:
 - Word.CalloutFormat.Gap
 ms.assetid: 0541a8a6-7eac-d03b-8438-c6d2918237fd

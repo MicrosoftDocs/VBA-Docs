@@ -3,7 +3,6 @@ title: Paragraph.KeepTogether property (Word)
 keywords: vbawd10.chm156696678
 f1_keywords:
 - vbawd10.chm156696678
-ms.prod: word
 api_name:
 - Word.Paragraph.KeepTogether
 ms.assetid: 9f97bd22-29ef-fb5e-3b9b-43fd085f494e

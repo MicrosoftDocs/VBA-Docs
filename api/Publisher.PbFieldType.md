@@ -3,7 +3,6 @@ title: PbFieldType enumeration (Publisher)
 keywords: vbapb10.chm65559
 f1_keywords:
 - vbapb10.chm65559
-ms.prod: publisher
 api_name:
 - Publisher.PbFieldType
 ms.assetid: 24fd37d5-a9ae-7098-a19a-a0ce7eee1b5a

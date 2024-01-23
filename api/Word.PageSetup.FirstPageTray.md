@@ -3,7 +3,6 @@ title: PageSetup.FirstPageTray property (Word)
 keywords: vbawd10.chm158400620
 f1_keywords:
 - vbawd10.chm158400620
-ms.prod: word
 api_name:
 - Word.PageSetup.FirstPageTray
 ms.assetid: 60e26cae-2543-adc4-916f-0a0249179990

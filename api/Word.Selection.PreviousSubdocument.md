@@ -3,7 +3,6 @@ title: Selection.PreviousSubdocument method (Word)
 keywords: vbawd10.chm158663171
 f1_keywords:
 - vbawd10.chm158663171
-ms.prod: word
 api_name:
 - Word.Selection.PreviousSubdocument
 ms.assetid: 135932fa-c165-56d1-97c7-f04fd7108ab2

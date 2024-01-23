@@ -3,7 +3,6 @@ title: Window.Move method (Publisher)
 keywords: vbapb10.chm262163
 f1_keywords:
 - vbapb10.chm262163
-ms.prod: publisher
 api_name:
 - Publisher.Window.Move
 ms.assetid: a33b213b-6549-abf7-0217-041b469b798a

@@ -3,7 +3,6 @@ title: Application.DefaultLegalBlackline property (Word)
 keywords: vbawd10.chm158335435
 f1_keywords:
 - vbawd10.chm158335435
-ms.prod: word
 api_name:
 - Word.Application.DefaultLegalBlackline
 ms.assetid: a22afc29-1f7d-73af-75c2-7ce2fbe2250f

@@ -3,7 +3,6 @@ title: MailMergeDataSource.ActiveRecord property (Word)
 keywords: vbawd10.chm152895495
 f1_keywords:
 - vbawd10.chm152895495
-ms.prod: word
 api_name:
 - Word.MailMergeDataSource.ActiveRecord
 ms.assetid: bbac1bf4-e11a-887c-8502-0bc95c57bcf9

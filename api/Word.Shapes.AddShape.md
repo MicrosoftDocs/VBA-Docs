@@ -3,7 +3,6 @@ title: Shapes.AddShape method (Word)
 keywords: vbawd10.chm161415185
 f1_keywords:
 - vbawd10.chm161415185
-ms.prod: word
 api_name:
 - Word.Shapes.AddShape
 ms.assetid: a0f1ce85-a641-5e9f-eb3c-4ebf01fdc32a

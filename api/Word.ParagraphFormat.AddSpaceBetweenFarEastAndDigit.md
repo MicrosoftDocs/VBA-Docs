@@ -3,7 +3,6 @@ title: ParagraphFormat.AddSpaceBetweenFarEastAndDigit property (Word)
 keywords: vbawd10.chm156434554
 f1_keywords:
 - vbawd10.chm156434554
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.AddSpaceBetweenFarEastAndDigit
 ms.assetid: 9792aa0e-bb31-463b-ef7c-99847f587c19

@@ -3,7 +3,6 @@ title: Rows.WrapAroundText property (Word)
 keywords: vbawd10.chm155975692
 f1_keywords:
 - vbawd10.chm155975692
-ms.prod: word
 api_name:
 - Word.Rows.WrapAroundText
 ms.assetid: 6d899cb2-f8af-1b20-3d8e-4ef353d4b762

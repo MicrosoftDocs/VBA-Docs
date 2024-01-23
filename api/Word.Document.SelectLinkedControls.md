@@ -3,7 +3,6 @@ title: Document.SelectLinkedControls method (Word)
 keywords: vbawd10.chm158007845
 f1_keywords:
 - vbawd10.chm158007845
-ms.prod: word
 api_name:
 - Word.Document.SelectLinkedControls
 ms.assetid: cae4e00c-a34f-8581-07f9-b58722ec399e

@@ -3,7 +3,6 @@ title: Document.RemoveTheme method (Word)
 keywords: vbawd10.chm158007619
 f1_keywords:
 - vbawd10.chm158007619
-ms.prod: word
 api_name:
 - Word.Document.RemoveTheme
 ms.assetid: d9a7726b-f113-fb48-f269-f877becf0f19

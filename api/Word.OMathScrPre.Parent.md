@@ -3,7 +3,6 @@ title: OMathScrPre.Parent property (Word)
 keywords: vbawd10.chm202244198
 f1_keywords:
 - vbawd10.chm202244198
-ms.prod: word
 api_name:
 - Word.OMathScrPre.Parent
 ms.assetid: c5d2b43a-f293-20ab-e9d0-f0fd8c74d86f

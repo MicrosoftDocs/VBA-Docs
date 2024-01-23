@@ -3,7 +3,6 @@ title: Application.DefaultWebOptions method (Word)
 keywords: vbawd10.chm158335381
 f1_keywords:
 - vbawd10.chm158335381
-ms.prod: word
 api_name:
 - Word.Application.DefaultWebOptions
 ms.assetid: ee683d3c-b331-cccd-27ec-b3258b42961e

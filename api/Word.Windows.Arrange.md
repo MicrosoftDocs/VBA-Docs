@@ -3,7 +3,6 @@ title: Windows.Arrange method (Word)
 keywords: vbawd10.chm157351947
 f1_keywords:
 - vbawd10.chm157351947
-ms.prod: word
 api_name:
 - Word.Windows.Arrange
 ms.assetid: 11325f30-7d28-84f5-4e39-fec34509201e

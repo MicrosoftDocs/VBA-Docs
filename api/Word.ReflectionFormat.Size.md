@@ -3,7 +3,6 @@ title: ReflectionFormat.Size property (Word)
 keywords: vbawd10.chm67043331
 f1_keywords:
 - vbawd10.chm67043331
-ms.prod: word
 api_name:
 - Word.ReflectionFormat.Size
 ms.assetid: 7a493aee-7967-1930-ece9-2cf86baf81e6

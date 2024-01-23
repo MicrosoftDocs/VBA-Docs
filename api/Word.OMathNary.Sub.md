@@ -3,7 +3,6 @@ title: OMathNary.Sub property (Word)
 keywords: vbawd10.chm25428071
 f1_keywords:
 - vbawd10.chm25428071
-ms.prod: word
 api_name:
 - Word.OMathNary.Sub
 ms.assetid: 18aac12d-0f76-6b3e-f7f6-857766012e13

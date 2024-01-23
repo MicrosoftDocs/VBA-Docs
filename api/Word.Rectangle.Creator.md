@@ -3,7 +3,6 @@ title: Rectangle.Creator property (Word)
 keywords: vbawd10.chm234030057
 f1_keywords:
 - vbawd10.chm234030057
-ms.prod: word
 api_name:
 - Word.Rectangle.Creator
 ms.assetid: 7e98193d-e9a5-ab8a-93f4-d2703e93d118

@@ -3,7 +3,6 @@ title: TextRange.Length property (Publisher)
 keywords: vbapb10.chm5308432
 f1_keywords:
 - vbapb10.chm5308432
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Length
 ms.assetid: 003b4ad1-2c09-17c9-279b-b1cf2ebdb40a

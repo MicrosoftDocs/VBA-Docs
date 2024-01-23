@@ -3,7 +3,6 @@ title: Shape.AlternativeText property (Word)
 keywords: vbawd10.chm161480835
 f1_keywords:
 - vbawd10.chm161480835
-ms.prod: word
 api_name:
 - Word.Shape.AlternativeText
 ms.assetid: b591896a-9d6f-5b17-57ad-ef53d2f55196

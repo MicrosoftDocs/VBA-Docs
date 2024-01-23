@@ -3,7 +3,6 @@ title: View.ShowHeading method (Word)
 keywords: vbawd10.chm161808488
 f1_keywords:
 - vbawd10.chm161808488
-ms.prod: word
 api_name:
 - Word.View.ShowHeading
 ms.assetid: b459e936-13fa-f2f4-33e6-f25d21a6f77c

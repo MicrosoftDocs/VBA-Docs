@@ -3,7 +3,6 @@ title: Zoom object (Word)
 keywords: vbawd10.chm2470
 f1_keywords:
 - vbawd10.chm2470
-ms.prod: word
 api_name:
 - Word.Zoom
 ms.assetid: 9a07fe91-fe6c-21f8-7022-1c56676b89ef

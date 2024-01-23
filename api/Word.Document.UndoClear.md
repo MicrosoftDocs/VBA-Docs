@@ -3,7 +3,6 @@ title: Document.UndoClear method (Word)
 keywords: vbawd10.chm158007550
 f1_keywords:
 - vbawd10.chm158007550
-ms.prod: word
 api_name:
 - Word.Document.UndoClear
 ms.assetid: 4ff5856a-ee8d-a9c8-a0a5-1d9c0a0dc9e9

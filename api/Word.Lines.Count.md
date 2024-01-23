@@ -3,7 +3,6 @@ title: Lines.Count property (Word)
 keywords: vbawd10.chm67108866
 f1_keywords:
 - vbawd10.chm67108866
-ms.prod: word
 api_name:
 - Word.Lines.Count
 ms.assetid: d9823263-690c-f3b2-c4d2-87dda38faad3

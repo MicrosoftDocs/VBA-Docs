@@ -3,7 +3,6 @@ title: Window.DocumentMap property (Word)
 keywords: vbawd10.chm157417497
 f1_keywords:
 - vbawd10.chm157417497
-ms.prod: word
 api_name:
 - Word.Window.DocumentMap
 ms.assetid: e7f084f8-303b-d710-00fc-522eab6e3814

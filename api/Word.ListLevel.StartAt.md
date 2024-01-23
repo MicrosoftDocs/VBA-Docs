@@ -3,7 +3,6 @@ title: ListLevel.StartAt property (Word)
 keywords: vbawd10.chm160235530
 f1_keywords:
 - vbawd10.chm160235530
-ms.prod: word
 api_name:
 - Word.ListLevel.StartAt
 ms.assetid: 7331be7c-952e-cd3e-82c0-06712082e6d7

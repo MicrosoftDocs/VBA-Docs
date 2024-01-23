@@ -3,7 +3,6 @@ title: ThreeDFormat.RotationY property (Publisher)
 keywords: vbapb10.chm3801360
 f1_keywords:
 - vbapb10.chm3801360
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.RotationY
 ms.assetid: 571f090b-71a8-c92e-b4d8-4f21a4c383ed

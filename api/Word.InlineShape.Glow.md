@@ -3,7 +3,6 @@ title: InlineShape.Glow property (Word)
 keywords: vbawd10.chm162005145
 f1_keywords:
 - vbawd10.chm162005145
-ms.prod: word
 api_name:
 - Word.InlineShape.Glow
 ms.assetid: 6ac6a364-be80-60f5-ac4b-37bde872f2c6

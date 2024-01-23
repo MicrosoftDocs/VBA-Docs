@@ -3,7 +3,6 @@ title: XMLNode.RemoveChild method (Word)
 keywords: vbawd10.chm37748838
 f1_keywords:
 - vbawd10.chm37748838
-ms.prod: word
 api_name:
 - Word.XMLNode.RemoveChild
 ms.assetid: 9c4d0e0a-ab58-7c9f-9fc2-f07a28281c29

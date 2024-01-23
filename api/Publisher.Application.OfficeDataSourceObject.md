@@ -3,7 +3,6 @@ title: Application.OfficeDataSourceObject property (Publisher)
 keywords: vbapb10.chm131123
 f1_keywords:
 - vbapb10.chm131123
-ms.prod: publisher
 api_name:
 - Publisher.Application.OfficeDataSourceObject
 ms.assetid: d7262328-d5b6-6f55-d8c1-e6c072e29e3f

@@ -3,7 +3,6 @@ title: ThreeDFormat.IncrementRotationY method (Publisher)
 keywords: vbapb10.chm3801105
 f1_keywords:
 - vbapb10.chm3801105
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.IncrementRotationY
 ms.assetid: 54260253-c914-6600-60ef-17bdde12be59

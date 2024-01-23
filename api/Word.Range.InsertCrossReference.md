@@ -3,7 +3,6 @@ title: Range.InsertCrossReference method (Word)
 keywords: vbawd10.chm157155746
 f1_keywords:
 - vbawd10.chm157155746
-ms.prod: word
 api_name:
 - Word.Range.InsertCrossReference
 ms.assetid: 5899db5b-254c-17ac-4c4b-943a5a5b44cb

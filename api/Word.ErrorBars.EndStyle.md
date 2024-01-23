@@ -3,7 +3,6 @@ title: ErrorBars.EndStyle property (Word)
 keywords: vbawd10.chm74843236
 f1_keywords:
 - vbawd10.chm74843236
-ms.prod: word
 api_name:
 - Word.ErrorBars.EndStyle
 ms.assetid: e0396671-1c83-c844-2ec3-e205ffda6ddf

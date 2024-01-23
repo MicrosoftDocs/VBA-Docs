@@ -3,7 +3,6 @@ title: Tasks.Count property (Word)
 keywords: vbawd10.chm159580161
 f1_keywords:
 - vbawd10.chm159580161
-ms.prod: word
 api_name:
 - Word.Tasks.Count
 ms.assetid: 7013acbb-c2ff-a989-a182-83c55b596ec6

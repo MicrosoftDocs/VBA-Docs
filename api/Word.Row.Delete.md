@@ -3,7 +3,6 @@ title: Row.Delete method (Word)
 keywords: vbawd10.chm156238024
 f1_keywords:
 - vbawd10.chm156238024
-ms.prod: word
 api_name:
 - Word.Row.Delete
 ms.assetid: d75ccfb7-5c03-0259-dae5-a5e238c742ff

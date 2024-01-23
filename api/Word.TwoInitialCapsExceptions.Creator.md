@@ -3,7 +3,6 @@ title: TwoInitialCapsExceptions.Creator property (Word)
 keywords: vbawd10.chm155452393
 f1_keywords:
 - vbawd10.chm155452393
-ms.prod: word
 api_name:
 - Word.TwoInitialCapsExceptions.Creator
 ms.assetid: b3a43d7e-0deb-f15e-7faa-7de37c90d5b8

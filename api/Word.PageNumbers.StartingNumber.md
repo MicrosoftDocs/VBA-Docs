@@ -3,7 +3,6 @@ title: PageNumbers.StartingNumber property (Word)
 keywords: vbawd10.chm159776775
 f1_keywords:
 - vbawd10.chm159776775
-ms.prod: word
 api_name:
 - Word.PageNumbers.StartingNumber
 ms.assetid: 7b526500-2251-dedd-3972-52d4f036d3bc

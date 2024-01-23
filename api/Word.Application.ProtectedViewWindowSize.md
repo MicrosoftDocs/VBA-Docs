@@ -1,6 +1,5 @@
 ---
 title: Application.ProtectedViewWindowSize event (Word)
-ms.prod: word
 api_name:
 - Word.Application.ProtectedViewWindowSize
 ms.assetid: b28d53f9-783f-6d68-2080-a0b1d8484c43

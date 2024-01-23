@@ -3,7 +3,6 @@ title: Font.Shrink method (Publisher)
 keywords: vbapb10.chm5373991
 f1_keywords:
 - vbapb10.chm5373991
-ms.prod: publisher
 api_name:
 - Publisher.Font.Shrink
 ms.assetid: c5626ef2-5351-ab49-bf86-690587daed1f

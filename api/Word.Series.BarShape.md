@@ -3,7 +3,6 @@ title: Series.BarShape property (Word)
 keywords: vbawd10.chm123733371
 f1_keywords:
 - vbawd10.chm123733371
-ms.prod: word
 api_name:
 - Word.Series.BarShape
 ms.assetid: da27d6a0-360f-dafa-3049-d9fdc2ee43ff

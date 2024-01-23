@@ -3,7 +3,6 @@ title: Style.LanguageID property (Word)
 keywords: vbawd10.chm153878540
 f1_keywords:
 - vbawd10.chm153878540
-ms.prod: word
 api_name:
 - Word.Style.LanguageID
 ms.assetid: 83c4bebe-4c8a-cd38-5083-4a227c09a07d

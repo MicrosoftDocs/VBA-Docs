@@ -3,7 +3,6 @@ title: Envelope.ReturnAddressFromLeft property (Word)
 keywords: vbawd10.chm152567823
 f1_keywords:
 - vbawd10.chm152567823
-ms.prod: word
 api_name:
 - Word.Envelope.ReturnAddressFromLeft
 ms.assetid: ab0a068b-0b66-481b-ca07-25bb17e2abcf

@@ -3,7 +3,6 @@ title: InlineShape.Range property (Word)
 keywords: vbawd10.chm162004994
 f1_keywords:
 - vbawd10.chm162004994
-ms.prod: word
 api_name:
 - Word.InlineShape.Range
 ms.assetid: f0ae56c2-ec15-995f-e244-44ada7814d54

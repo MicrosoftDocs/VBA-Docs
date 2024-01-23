@@ -3,7 +3,6 @@ title: Range object (Word)
 keywords: vbawd10.chm2398
 f1_keywords:
 - vbawd10.chm2398
-ms.prod: word
 api_name:
 - Word.Range
 ms.assetid: 15a7a1c4-5f3f-5b6e-60e9-29688de3f274

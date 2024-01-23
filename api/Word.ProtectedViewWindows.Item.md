@@ -3,7 +3,6 @@ title: ProtectedViewWindows.Item method (Word)
 keywords: vbawd10.chm82313216
 f1_keywords:
 - vbawd10.chm82313216
-ms.prod: word
 api_name:
 - Word.ProtectedViewWindows.Item
 ms.assetid: 89e90388-c6fa-098e-6d49-0ca68955951a

@@ -3,7 +3,6 @@ title: OMathNary.Sup property (Word)
 keywords: vbawd10.chm25428072
 f1_keywords:
 - vbawd10.chm25428072
-ms.prod: word
 api_name:
 - Word.OMathNary.Sup
 ms.assetid: 4b0b984e-bb64-9a40-d86c-c4d4645d2cae

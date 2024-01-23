@@ -3,7 +3,6 @@ title: OMathGroupChar.AlignTop property (Word)
 keywords: vbawd10.chm213123178
 f1_keywords:
 - vbawd10.chm213123178
-ms.prod: word
 api_name:
 - Word.OMathGroupChar.AlignTop
 ms.assetid: 2c1b723b-a5b0-6d63-a2e8-d0122fef1f00

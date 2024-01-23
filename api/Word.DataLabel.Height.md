@@ -3,7 +3,6 @@ title: DataLabel.Height property (Word)
 keywords: vbawd10.chm233898040
 f1_keywords:
 - vbawd10.chm233898040
-ms.prod: word
 api_name:
 - Word.DataLabel.Height
 ms.assetid: 70232f9e-eb30-6e3e-fe12-82ec941d9261

@@ -3,7 +3,6 @@ title: Column.Next property (Word)
 keywords: vbawd10.chm156172391
 f1_keywords:
 - vbawd10.chm156172391
-ms.prod: word
 api_name:
 - Word.Column.Next
 ms.assetid: fa2953dc-f5a6-ff58-9a64-42f865725ac7

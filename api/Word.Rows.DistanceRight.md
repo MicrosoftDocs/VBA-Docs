@@ -3,7 +3,6 @@ title: Rows.DistanceRight property (Word)
 keywords: vbawd10.chm155975701
 f1_keywords:
 - vbawd10.chm155975701
-ms.prod: word
 api_name:
 - Word.Rows.DistanceRight
 ms.assetid: 68e37feb-bb0a-7a74-9fbd-ee4a8d9e7dca

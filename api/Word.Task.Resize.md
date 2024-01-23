@@ -3,7 +3,6 @@ title: Task.Resize method (Word)
 keywords: vbawd10.chm159514637
 f1_keywords:
 - vbawd10.chm159514637
-ms.prod: word
 api_name:
 - Word.Task.Resize
 ms.assetid: e4176266-c511-3f4c-f22c-ec5617cd41d9

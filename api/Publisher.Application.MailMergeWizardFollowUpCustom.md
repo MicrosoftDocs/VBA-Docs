@@ -3,7 +3,6 @@ title: Application.MailMergeWizardFollowUpCustom event (Publisher)
 keywords: vbapb10.chm268435490
 f1_keywords:
 - vbapb10.chm268435490
-ms.prod: publisher
 api_name:
 - Publisher.Application.MailMergeWizardFollowUpCustom
 ms.assetid: ac8cb695-69a4-83f7-8e13-66762f52f611

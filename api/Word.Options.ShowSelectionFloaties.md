@@ -3,7 +3,6 @@ title: Options.ShowSelectionFloaties property (Word)
 keywords: vbawd10.chm162988500
 f1_keywords:
 - vbawd10.chm162988500
-ms.prod: word
 api_name:
 - Word.Options.ShowSelectionFloaties
 ms.assetid: 25cb0481-db93-b7e8-0a1a-3916fea9ac87

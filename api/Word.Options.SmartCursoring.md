@@ -3,7 +3,6 @@ title: Options.SmartCursoring property (Word)
 keywords: vbawd10.chm162988491
 f1_keywords:
 - vbawd10.chm162988491
-ms.prod: word
 api_name:
 - Word.Options.SmartCursoring
 ms.assetid: 254a0a6d-ba83-3ca0-e7a7-38dea9b16436

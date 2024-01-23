@@ -3,7 +3,6 @@ title: Task.Close method (Word)
 keywords: vbawd10.chm159514635
 f1_keywords:
 - vbawd10.chm159514635
-ms.prod: word
 api_name:
 - Word.Task.Close
 ms.assetid: 455a51bd-90f5-b14b-497e-618fe4df5406

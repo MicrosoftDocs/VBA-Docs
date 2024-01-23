@@ -3,7 +3,6 @@ title: Paragraph.RightIndent property (Word)
 keywords: vbawd10.chm156696682
 f1_keywords:
 - vbawd10.chm156696682
-ms.prod: word
 api_name:
 - Word.Paragraph.RightIndent
 ms.assetid: 238c2942-14a9-4295-49ed-d4ada5aebd0f

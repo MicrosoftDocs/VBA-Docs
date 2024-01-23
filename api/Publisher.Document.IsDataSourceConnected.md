@@ -3,7 +3,6 @@ title: Document.IsDataSourceConnected property (Publisher)
 keywords: vbapb10.chm196722
 f1_keywords:
 - vbapb10.chm196722
-ms.prod: publisher
 api_name:
 - Publisher.Document.IsDataSourceConnected
 ms.assetid: b62422ab-12f7-1151-d8d1-1cb32de18160

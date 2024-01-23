@@ -3,7 +3,6 @@ title: TickLabels.Delete method (Word)
 keywords: vbawd10.chm167051265
 f1_keywords:
 - vbawd10.chm167051265
-ms.prod: word
 api_name:
 - Word.TickLabels.Delete
 ms.assetid: befdccaa-31fb-0752-bb88-f250364c41a9

@@ -3,7 +3,6 @@ title: Document.FitToPages method (Word)
 keywords: vbawd10.chm158007400
 f1_keywords:
 - vbawd10.chm158007400
-ms.prod: word
 api_name:
 - Word.Document.FitToPages
 ms.assetid: 8935d286-61b7-432e-ed79-b85708dd1a01

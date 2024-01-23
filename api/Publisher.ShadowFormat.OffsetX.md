@@ -3,7 +3,6 @@ title: ShadowFormat.OffsetX property (Publisher)
 keywords: vbapb10.chm3670274
 f1_keywords:
 - vbapb10.chm3670274
-ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.OffsetX
 ms.assetid: 2b34ace8-5c3b-002b-df96-43c8aef2fbd2

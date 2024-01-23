@@ -3,7 +3,6 @@ title: Bookmarks.ShowHidden property (Word)
 keywords: vbawd10.chm157745156
 f1_keywords:
 - vbawd10.chm157745156
-ms.prod: word
 api_name:
 - Word.Bookmarks.ShowHidden
 ms.assetid: 35f9a36c-ea29-93f0-1b39-c52dd3718ee8

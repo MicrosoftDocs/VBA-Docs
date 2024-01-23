@@ -3,7 +3,6 @@ title: ListFormat object (Word)
 keywords: vbawd10.chm2496
 f1_keywords:
 - vbawd10.chm2496
-ms.prod: word
 api_name:
 - Word.ListFormat
 ms.assetid: 74773fd6-b713-34d4-b7be-f543c983008d

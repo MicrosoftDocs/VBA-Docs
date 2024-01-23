@@ -3,7 +3,6 @@ title: Application.GetSpellingSuggestions method (Word)
 keywords: vbawd10.chm158335303
 f1_keywords:
 - vbawd10.chm158335303
-ms.prod: word
 api_name:
 - Word.Application.GetSpellingSuggestions
 ms.assetid: 9ddf8aa8-10cc-8dd3-bc87-cdd5ccd214b5

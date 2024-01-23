@@ -3,7 +3,6 @@ title: TickLabels.NumberFormatLocal property (Word)
 keywords: vbawd10.chm167051272
 f1_keywords:
 - vbawd10.chm167051272
-ms.prod: word
 api_name:
 - Word.TickLabels.NumberFormatLocal
 ms.assetid: 39ada10b-e539-4be3-9aed-20a86085615f

@@ -3,7 +3,6 @@ title: OMathBorderBox.Application property (Word)
 keywords: vbawd10.chm116260964
 f1_keywords:
 - vbawd10.chm116260964
-ms.prod: word
 api_name:
 - Word.OMathBorderBox.Application
 ms.assetid: b95f9ef7-e90e-9aa8-8478-0bf170d1b6e4

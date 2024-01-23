@@ -3,7 +3,6 @@ title: Document.ExportAsFixedFormat method (Publisher)
 keywords: vbapb10.chm196758
 f1_keywords:
 - vbapb10.chm196758
-ms.prod: publisher
 api_name:
 - Publisher.Document.ExportAsFixedFormat
 ms.assetid: 8bb5b64f-57b2-cf87-344c-be1e2741a59c

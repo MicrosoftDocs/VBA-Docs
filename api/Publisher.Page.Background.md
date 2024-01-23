@@ -3,7 +3,6 @@ title: Page.Background property (Publisher)
 keywords: vbapb10.chm393249
 f1_keywords:
 - vbapb10.chm393249
-ms.prod: publisher
 api_name:
 - Publisher.Page.Background
 ms.assetid: 1bba32dc-0e7e-40ca-0f29-b67be6be518d

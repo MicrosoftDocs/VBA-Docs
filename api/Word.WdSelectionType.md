@@ -1,6 +1,5 @@
 ---
 title: WdSelectionType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSelectionType
 ms.assetid: c99831f8-1e0b-f4cb-15b1-831c4142bc1f

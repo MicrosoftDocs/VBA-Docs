@@ -3,7 +3,6 @@ title: Document.MailMerge property (Word)
 keywords: vbawd10.chm158007323
 f1_keywords:
 - vbawd10.chm158007323
-ms.prod: word
 api_name:
 - Word.Document.MailMerge
 ms.assetid: 71c144ab-b1fb-c031-2e8d-54e9802fab5d

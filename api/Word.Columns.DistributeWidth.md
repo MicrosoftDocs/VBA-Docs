@@ -3,7 +3,6 @@ title: Columns.DistributeWidth method (Word)
 keywords: vbawd10.chm155910347
 f1_keywords:
 - vbawd10.chm155910347
-ms.prod: word
 api_name:
 - Word.Columns.DistributeWidth
 ms.assetid: 91123d8e-faf0-79e5-ecc4-fabe68911b6c

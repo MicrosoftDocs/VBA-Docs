@@ -3,7 +3,6 @@ title: TablesOfAuthorities.MarkAllCitations method (Word)
 keywords: vbawd10.chm152174694
 f1_keywords:
 - vbawd10.chm152174694
-ms.prod: word
 api_name:
 - Word.TablesOfAuthorities.MarkAllCitations
 ms.assetid: 5f07956b-2e51-f88e-f758-a2ee055d7a36

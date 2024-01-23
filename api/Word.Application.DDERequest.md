@@ -3,7 +3,6 @@ title: Application.DDERequest method (Word)
 keywords: vbawd10.chm158335289
 f1_keywords:
 - vbawd10.chm158335289
-ms.prod: word
 api_name:
 - Word.Application.DDERequest
 ms.assetid: beed4867-0e2d-15be-82ae-1aba11f0a21a

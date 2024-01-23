@@ -3,7 +3,6 @@ title: ContentControlListEntry.Select method (Word)
 keywords: vbawd10.chm147456109
 f1_keywords:
 - vbawd10.chm147456109
-ms.prod: word
 api_name:
 - Word.ContentControlListEntry.Select
 ms.assetid: f600e267-39d9-238d-c6d2-9efba6b4044d

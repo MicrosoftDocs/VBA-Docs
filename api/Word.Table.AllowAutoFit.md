@@ -3,7 +3,6 @@ title: Table.AllowAutoFit property (Word)
 keywords: vbawd10.chm156303470
 f1_keywords:
 - vbawd10.chm156303470
-ms.prod: word
 api_name:
 - Word.Table.AllowAutoFit
 ms.assetid: e8894734-68b3-60bb-7623-9497e4e99e10

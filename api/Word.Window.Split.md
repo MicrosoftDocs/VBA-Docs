@@ -3,7 +3,6 @@ title: Window.Split property (Word)
 keywords: vbawd10.chm157417481
 f1_keywords:
 - vbawd10.chm157417481
-ms.prod: word
 api_name:
 - Word.Window.Split
 ms.assetid: 97631d2f-577f-1a19-18e9-ae0ba92da054

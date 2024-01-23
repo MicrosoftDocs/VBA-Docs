@@ -3,7 +3,6 @@ title: Window.ScrollIntoView method (Word)
 keywords: vbawd10.chm157417583
 f1_keywords:
 - vbawd10.chm157417583
-ms.prod: word
 api_name:
 - Word.Window.ScrollIntoView
 ms.assetid: b16afab5-8645-dfd6-2b4b-8924fe49916a

@@ -3,7 +3,6 @@ title: Subdocument.Name property (Word)
 keywords: vbawd10.chm159973379
 f1_keywords:
 - vbawd10.chm159973379
-ms.prod: word
 api_name:
 - Word.Subdocument.Name
 ms.assetid: 54d8a23b-d373-bd30-fb2d-ed31d7d3f175

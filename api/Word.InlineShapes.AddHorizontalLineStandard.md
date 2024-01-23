@@ -3,7 +3,6 @@ title: InlineShapes.AddHorizontalLineStandard method (Word)
 keywords: vbawd10.chm162070633
 f1_keywords:
 - vbawd10.chm162070633
-ms.prod: word
 api_name:
 - Word.InlineShapes.AddHorizontalLineStandard
 ms.assetid: de9d4613-4e64-9df8-aa9a-890335eb648d

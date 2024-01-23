@@ -3,7 +3,6 @@ title: ThreeDFormat.Z property (Word)
 keywords: vbawd10.chm164626545
 f1_keywords:
 - vbawd10.chm164626545
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.Z
 ms.assetid: 050fd0e2-2d05-a963-57f4-c9fe90f26002

@@ -3,7 +3,6 @@ title: Columns.Count property (Publisher)
 keywords: vbapb10.chm5046274
 f1_keywords:
 - vbapb10.chm5046274
-ms.prod: publisher
 api_name:
 - Publisher.Columns.Count
 ms.assetid: 2f7fdb6a-6cd0-2ede-bd34-6954ef23c1a0

@@ -3,7 +3,6 @@ title: Application.Quit event (Publisher)
 keywords: vbapb10.chm268435461
 f1_keywords:
 - vbapb10.chm268435461
-ms.prod: publisher
 api_name:
 - Publisher.Application.Quit
 ms.assetid: 79948040-4848-b8e7-a70c-d23c1f416bac

@@ -3,7 +3,6 @@ title: DisplayUnitLabel object (Word)
 keywords: vbawd10.chm1443
 f1_keywords:
 - vbawd10.chm1443
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel
 ms.assetid: 9b028f6c-fd66-f767-f3d1-09de0fbdc148

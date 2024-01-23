@@ -3,7 +3,6 @@ title: Shapes.AddGroupWizard method (Publisher)
 keywords: vbapb10.chm2162727
 f1_keywords:
 - vbapb10.chm2162727
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddGroupWizard
 ms.assetid: 5a84f055-7f30-0757-f507-40ee34b214f4

@@ -3,7 +3,6 @@ title: FontNames.Creator property (Word)
 keywords: vbawd10.chm158270441
 f1_keywords:
 - vbawd10.chm158270441
-ms.prod: word
 api_name:
 - Word.FontNames.Creator
 ms.assetid: b73a1ce0-0e6e-cce9-5432-aa66cb76f8dd

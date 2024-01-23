@@ -3,7 +3,6 @@ title: Document.TablesOfFigures property (Word)
 keywords: vbawd10.chm158007321
 f1_keywords:
 - vbawd10.chm158007321
-ms.prod: word
 api_name:
 - Word.Document.TablesOfFigures
 ms.assetid: 1c386611-82f9-0a0d-71ce-dfe006d8eab5

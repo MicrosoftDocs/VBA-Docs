@@ -3,7 +3,6 @@ title: DropLines.Application property (Word)
 keywords: vbawd10.chm104988820
 f1_keywords:
 - vbawd10.chm104988820
-ms.prod: word
 api_name:
 - Word.DropLines.Application
 ms.assetid: 95392a32-3a29-40f8-1a83-4c0701567179

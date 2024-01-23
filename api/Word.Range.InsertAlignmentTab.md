@@ -3,7 +3,6 @@ title: Range.InsertAlignmentTab method (Word)
 keywords: vbawd10.chm157155828
 f1_keywords:
 - vbawd10.chm157155828
-ms.prod: word
 api_name:
 - Word.Range.InsertAlignmentTab
 ms.assetid: 1ca21f95-ca53-e911-c789-b0203d7bf0c7

@@ -3,7 +3,6 @@ title: FreeformBuilder object (Word)
 keywords: vbawd10.chm2505
 f1_keywords:
 - vbawd10.chm2505
-ms.prod: word
 api_name:
 - Word.FreeformBuilder
 ms.assetid: 31e89628-4b50-ff72-ce3d-dc7c161dad3e

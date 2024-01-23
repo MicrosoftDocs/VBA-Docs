@@ -3,7 +3,6 @@ title: Range.PreviousBookmarkID property (Word)
 keywords: vbawd10.chm157155637
 f1_keywords:
 - vbawd10.chm157155637
-ms.prod: word
 api_name:
 - Word.Range.PreviousBookmarkID
 ms.assetid: 19aab6c4-bc86-3f65-4fbc-206fdf3dbb3a

@@ -3,7 +3,6 @@ title: Options.MonthNames property (Word)
 keywords: vbawd10.chm162988434
 f1_keywords:
 - vbawd10.chm162988434
-ms.prod: word
 api_name:
 - Word.Options.MonthNames
 ms.assetid: 265bee60-26ac-a6f5-4950-494ce6eff215

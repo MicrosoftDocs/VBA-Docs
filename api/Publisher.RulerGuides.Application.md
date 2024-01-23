@@ -3,7 +3,6 @@ title: RulerGuides.Application property (Publisher)
 keywords: vbapb10.chm720897
 f1_keywords:
 - vbapb10.chm720897
-ms.prod: publisher
 api_name:
 - Publisher.RulerGuides.Application
 ms.assetid: a62d705f-35d3-65af-fbe8-d0c0a336dffc

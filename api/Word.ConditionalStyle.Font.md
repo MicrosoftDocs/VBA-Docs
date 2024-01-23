@@ -3,7 +3,6 @@ title: ConditionalStyle.Font property (Word)
 keywords: vbawd10.chm91029514
 f1_keywords:
 - vbawd10.chm91029514
-ms.prod: word
 api_name:
 - Word.ConditionalStyle.Font
 ms.assetid: a811b570-d5cf-3411-ecb3-f0424b9a7005

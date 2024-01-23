@@ -3,7 +3,6 @@ title: ChartCharacters.Application property (Word)
 keywords: vbawd10.chm250740884
 f1_keywords:
 - vbawd10.chm250740884
-ms.prod: word
 api_name:
 - Word.ChartCharacters.Application
 ms.assetid: eeeb9510-d6ef-e0f7-820c-0cebb738bed5

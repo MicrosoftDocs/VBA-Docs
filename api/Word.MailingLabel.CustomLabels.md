@@ -3,7 +3,6 @@ title: MailingLabel.CustomLabels property (Word)
 keywords: vbawd10.chm152502280
 f1_keywords:
 - vbawd10.chm152502280
-ms.prod: word
 api_name:
 - Word.MailingLabel.CustomLabels
 ms.assetid: c4bad9e7-8da9-d469-4d49-a3b43c5cc4de

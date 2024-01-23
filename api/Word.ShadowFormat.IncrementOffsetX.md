@@ -3,7 +3,6 @@ title: ShadowFormat.IncrementOffsetX method (Word)
 keywords: vbawd10.chm164364298
 f1_keywords:
 - vbawd10.chm164364298
-ms.prod: word
 api_name:
 - Word.ShadowFormat.IncrementOffsetX
 ms.assetid: 0d564836-550d-30fa-e519-c6dc571d538d

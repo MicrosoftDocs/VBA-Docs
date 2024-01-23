@@ -1,6 +1,5 @@
 ---
 title: Using events with the Application object (Publisher)
-ms.prod: publisher
 ms.assetid: 29b60d3c-3049-2ba9-8688-e46c4323e9ba
 ms.date: 06/04/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: WdVerticalAlignment enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdVerticalAlignment
 ms.assetid: 0c1c76f0-2dc7-4801-74b7-64e983492753

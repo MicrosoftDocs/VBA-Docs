@@ -3,7 +3,6 @@ title: TableOfFigures.TableID property (Word)
 keywords: vbawd10.chm153157642
 f1_keywords:
 - vbawd10.chm153157642
-ms.prod: word
 api_name:
 - Word.TableOfFigures.TableID
 ms.assetid: b7154038-2af5-2542-e1d8-c4002ec96cdf

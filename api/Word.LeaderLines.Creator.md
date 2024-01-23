@@ -3,7 +3,6 @@ title: LeaderLines.Creator property (Word)
 keywords: vbawd10.chm207749269
 f1_keywords:
 - vbawd10.chm207749269
-ms.prod: word
 api_name:
 - Word.LeaderLines.Creator
 ms.assetid: 2e23e29b-6008-d534-9160-10ec27c21b98

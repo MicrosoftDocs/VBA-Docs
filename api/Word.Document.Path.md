@@ -3,7 +3,6 @@ title: Document.Path property (Word)
 keywords: vbawd10.chm158007299
 f1_keywords:
 - vbawd10.chm158007299
-ms.prod: word
 api_name:
 - Word.Document.Path
 ms.assetid: 809b41fb-c410-5bcb-c808-780ad5232e6f

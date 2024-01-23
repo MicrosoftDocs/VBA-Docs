@@ -3,7 +3,6 @@ title: Range.TopLevelTables property (Word)
 keywords: vbawd10.chm157155652
 f1_keywords:
 - vbawd10.chm157155652
-ms.prod: word
 api_name:
 - Word.Range.TopLevelTables
 ms.assetid: 43cd13b8-f779-69cd-ee60-d4ba734008f0

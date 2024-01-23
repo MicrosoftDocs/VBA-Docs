@@ -3,7 +3,6 @@ title: Document.GetWorkflowTemplates method (Word)
 keywords: vbawd10.chm158007808
 f1_keywords:
 - vbawd10.chm158007808
-ms.prod: word
 api_name:
 - Word.Document.GetWorkflowTemplates
 ms.assetid: 091003dc-0a26-8665-d552-0f4354313367

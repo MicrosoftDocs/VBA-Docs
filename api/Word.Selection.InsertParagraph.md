@@ -3,7 +3,6 @@ title: Selection.InsertParagraph method (Word)
 keywords: vbawd10.chm158662816
 f1_keywords:
 - vbawd10.chm158662816
-ms.prod: word
 api_name:
 - Word.Selection.InsertParagraph
 ms.assetid: bceda293-7294-8769-75fe-4792199439c1

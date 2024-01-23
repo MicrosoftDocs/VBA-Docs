@@ -1,6 +1,5 @@
 ---
 title: WdPrintOutItem enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdPrintOutItem
 ms.assetid: e0c496a4-7f56-942d-c2c5-db116f095d1a

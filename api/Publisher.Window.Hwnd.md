@@ -3,7 +3,6 @@ title: Window.hWnd property (Publisher)
 keywords: vbapb10.chm262161
 f1_keywords:
 - vbapb10.chm262161
-ms.prod: publisher
 api_name:
 - Publisher.Window.Hwnd
 ms.assetid: e0fe9b33-0839-a2a5-f939-9906e46f9632

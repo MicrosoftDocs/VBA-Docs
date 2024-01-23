@@ -3,7 +3,6 @@ title: Options.ArabicNumeral property (Word)
 keywords: vbawd10.chm162988433
 f1_keywords:
 - vbawd10.chm162988433
-ms.prod: word
 api_name:
 - Word.Options.ArabicNumeral
 ms.assetid: d2dbb820-4b96-96ca-70d1-cd905190281a

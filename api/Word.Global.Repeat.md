@@ -3,7 +3,6 @@ title: Global.Repeat method (Word)
 keywords: vbawd10.chm163119409
 f1_keywords:
 - vbawd10.chm163119409
-ms.prod: word
 api_name:
 - Word.Global.Repeat
 ms.assetid: 23e2e300-cc01-cd9d-f761-0113a07267bd

@@ -3,7 +3,6 @@ title: PhoneticGuide.Alignment property (Publisher)
 keywords: vbapb10.chm6160390
 f1_keywords:
 - vbapb10.chm6160390
-ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.Alignment
 ms.assetid: a3cf0d48-d695-4162-1ed1-23efe15a5358

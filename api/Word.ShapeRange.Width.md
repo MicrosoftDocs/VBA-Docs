@@ -3,7 +3,6 @@ title: ShapeRange.Width property (Word)
 keywords: vbawd10.chm162857088
 f1_keywords:
 - vbawd10.chm162857088
-ms.prod: word
 api_name:
 - Word.ShapeRange.Width
 ms.assetid: 8925e4f8-d85a-98c8-499e-ae102dced440

@@ -3,7 +3,6 @@ title: LegendEntry.Application property (Word)
 keywords: vbawd10.chm4784276
 f1_keywords:
 - vbawd10.chm4784276
-ms.prod: word
 api_name:
 - Word.LegendEntry.Application
 ms.assetid: 38f25efa-9c44-bdb0-906a-6cd67d5ee2d7

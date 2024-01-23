@@ -3,7 +3,6 @@ title: XMLNode.ChildNodes property (Word)
 keywords: vbawd10.chm37748749
 f1_keywords:
 - vbawd10.chm37748749
-ms.prod: word
 api_name:
 - Word.XMLNode.ChildNodes
 ms.assetid: 79d5e434-be1a-6420-ac82-ecf9c7c49e32

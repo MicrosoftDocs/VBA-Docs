@@ -3,7 +3,6 @@ title: XMLNode object (Word)
 keywords: vbawd10.chm576
 f1_keywords:
 - vbawd10.chm576
-ms.prod: word
 api_name:
 - Word.XMLNode
 ms.assetid: fe305ba9-7375-ad4f-6036-155add17a9d0

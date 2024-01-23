@@ -3,7 +3,6 @@ title: Version.Application property (Word)
 keywords: vbawd10.chm162792424
 f1_keywords:
 - vbawd10.chm162792424
-ms.prod: word
 api_name:
 - Word.Version.Application
 ms.assetid: 651bd0b8-3b83-e24b-fbff-6996cf9ff7e1

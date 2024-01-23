@@ -3,7 +3,6 @@ title: Style object (Word)
 keywords: vbawd10.chm2348
 f1_keywords:
 - vbawd10.chm2348
-ms.prod: word
 api_name:
 - Word.Style
 ms.assetid: 473f8f41-2cba-769e-c0da-441d9d85b009

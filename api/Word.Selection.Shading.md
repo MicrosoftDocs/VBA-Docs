@@ -3,7 +3,6 @@ title: Selection.Shading property (Word)
 keywords: vbawd10.chm158662717
 f1_keywords:
 - vbawd10.chm158662717
-ms.prod: word
 api_name:
 - Word.Selection.Shading
 ms.assetid: 1e259969-7a0a-aaf3-af6c-81e0b37b6f79

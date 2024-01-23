@@ -3,7 +3,6 @@ title: Shape.Select method (Word)
 keywords: vbawd10.chm161480725
 f1_keywords:
 - vbawd10.chm161480725
-ms.prod: word
 api_name:
 - Word.Shape.Select
 ms.assetid: 048a85d5-a0c2-4e64-f0a9-0c3f6d42814a

@@ -3,7 +3,6 @@ title: Point.Explosion property (Word)
 keywords: vbawd10.chm262144182
 f1_keywords:
 - vbawd10.chm262144182
-ms.prod: word
 api_name:
 - Word.Point.Explosion
 ms.assetid: e5305b4c-0ec5-79b3-6c71-2226fc3635ee

@@ -3,7 +3,6 @@ title: Shape.AutoShapeType property (Publisher)
 keywords: vbapb10.chm2228274
 f1_keywords:
 - vbapb10.chm2228274
-ms.prod: publisher
 api_name:
 - Publisher.Shape.AutoShapeType
 ms.assetid: f469dc31-a620-5561-ce57-fbff8a5536c0

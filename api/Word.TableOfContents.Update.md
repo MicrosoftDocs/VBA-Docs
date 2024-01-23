@@ -3,7 +3,6 @@ title: TableOfContents.Update method (Word)
 keywords: vbawd10.chm152240230
 f1_keywords:
 - vbawd10.chm152240230
-ms.prod: word
 api_name:
 - Word.TableOfContents.Update
 ms.assetid: ad6a762e-7076-c559-59c1-dce7fc7a3538

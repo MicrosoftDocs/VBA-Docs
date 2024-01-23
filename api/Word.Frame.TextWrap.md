@@ -3,7 +3,6 @@ title: Frame.TextWrap property (Word)
 keywords: vbawd10.chm153747468
 f1_keywords:
 - vbawd10.chm153747468
-ms.prod: word
 api_name:
 - Word.Frame.TextWrap
 ms.assetid: 457175c6-4b32-539a-c78d-889647459724

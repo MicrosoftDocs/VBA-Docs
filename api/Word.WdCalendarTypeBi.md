@@ -1,6 +1,5 @@
 ---
 title: WdCalendarTypeBi enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdCalendarTypeBi
 ms.assetid: c4c4d9fc-dc7a-2948-d1a2-be6de8c4ef54

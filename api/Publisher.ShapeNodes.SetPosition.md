@@ -3,7 +3,6 @@ title: ShapeNodes.SetPosition method (Publisher)
 keywords: vbapb10.chm3473428
 f1_keywords:
 - vbapb10.chm3473428
-ms.prod: publisher
 api_name:
 - Publisher.ShapeNodes.SetPosition
 ms.assetid: f1a3bf8c-9778-b994-9c79-55987c6fa632

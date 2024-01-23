@@ -3,7 +3,6 @@ title: ChartBorder.Creator property (Word)
 keywords: vbawd10.chm61014165
 f1_keywords:
 - vbawd10.chm61014165
-ms.prod: word
 api_name:
 - Word.ChartBorder.Creator
 ms.assetid: 02de457e-2834-d302-c6cc-228000fe307b

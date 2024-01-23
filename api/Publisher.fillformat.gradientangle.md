@@ -3,7 +3,6 @@ title: FillFormat.GradientAngle property (Publisher)
 keywords: vbapb10.chm2359587
 f1_keywords:
 - vbapb10.chm2359587
-ms.prod: publisher
 ms.assetid: c43df0d0-1bb8-4e61-64d3-fb5f76daa6dd
 ms.date: 06/07/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: List.ApplyListTemplateWithLevel method (Word)
 keywords: vbawd10.chm160563307
 f1_keywords:
 - vbawd10.chm160563307
-ms.prod: word
 api_name:
 - Word.List.ApplyListTemplateWithLevel
 ms.assetid: 19c380d0-0599-72e2-b8ee-56ac7536d16c

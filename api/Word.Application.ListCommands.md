@@ -3,7 +3,6 @@ title: Application.ListCommands method (Word)
 keywords: vbawd10.chm158335322
 f1_keywords:
 - vbawd10.chm158335322
-ms.prod: word
 api_name:
 - Word.Application.ListCommands
 ms.assetid: 425abd0f-c9c4-c4ab-b308-e7876ace5778

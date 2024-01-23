@@ -3,7 +3,6 @@ title: Options.PasteMergeFromPPT property (Word)
 keywords: vbawd10.chm162988465
 f1_keywords:
 - vbawd10.chm162988465
-ms.prod: word
 api_name:
 - Word.Options.PasteMergeFromPPT
 ms.assetid: 5e0b04ba-5dce-a3cf-9bc8-672f55b5b10e

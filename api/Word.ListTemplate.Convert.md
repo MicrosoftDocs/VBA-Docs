@@ -3,7 +3,6 @@ title: ListTemplate.Convert method (Word)
 keywords: vbawd10.chm160366693
 f1_keywords:
 - vbawd10.chm160366693
-ms.prod: word
 api_name:
 - Word.ListTemplate.Convert
 ms.assetid: 5b25c80e-a39c-3bcb-5c5f-bb9001e1ca86

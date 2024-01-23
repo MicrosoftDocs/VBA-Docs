@@ -3,7 +3,6 @@ title: WrapFormat.DistanceRight property (Publisher)
 keywords: vbapb10.chm786441
 f1_keywords:
 - vbapb10.chm786441
-ms.prod: publisher
 api_name:
 - Publisher.WrapFormat.DistanceRight
 ms.assetid: f7d15011-c4a8-98ca-8303-690f88f564b1

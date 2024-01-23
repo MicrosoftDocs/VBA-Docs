@@ -3,7 +3,6 @@ title: ColorSchemes object (Publisher)
 keywords: vbapb10.chm2818047
 f1_keywords:
 - vbapb10.chm2818047
-ms.prod: publisher
 api_name:
 - Publisher.ColorSchemes
 ms.assetid: f5002de1-5e91-fc92-eedb-0e13dce57802

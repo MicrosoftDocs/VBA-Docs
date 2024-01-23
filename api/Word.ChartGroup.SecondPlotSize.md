@@ -3,7 +3,6 @@ title: ChartGroup.SecondPlotSize property (Word)
 keywords: vbawd10.chm263454764
 f1_keywords:
 - vbawd10.chm263454764
-ms.prod: word
 api_name:
 - Word.ChartGroup.SecondPlotSize
 ms.assetid: 68f4d170-62c8-eb34-26a2-693aa96fc5f1

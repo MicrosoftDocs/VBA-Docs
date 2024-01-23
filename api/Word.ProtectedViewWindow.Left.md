@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Left property (Word)
 keywords: vbawd10.chm231735298
 f1_keywords:
 - vbawd10.chm231735298
-ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Left
 ms.assetid: 55ca42b8-bed4-3b7e-fd0b-66dc2ea936c3

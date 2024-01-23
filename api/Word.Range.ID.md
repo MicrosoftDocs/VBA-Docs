@@ -3,7 +3,6 @@ title: Range.ID property (Word)
 keywords: vbawd10.chm157155733
 f1_keywords:
 - vbawd10.chm157155733
-ms.prod: word
 api_name:
 - Word.Range.ID
 ms.assetid: 5b2145f3-b21f-5550-e058-9c81ccdaa0e3

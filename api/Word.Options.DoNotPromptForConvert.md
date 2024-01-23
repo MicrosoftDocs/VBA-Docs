@@ -3,7 +3,6 @@ title: Options.DoNotPromptForConvert property (Word)
 keywords: vbawd10.chm162988525
 f1_keywords:
 - vbawd10.chm162988525
-ms.prod: word
 api_name:
 - Word.Options.DoNotPromptForConvert
 ms.assetid: 967d5b68-b1ae-2a85-41d8-171863cb139e

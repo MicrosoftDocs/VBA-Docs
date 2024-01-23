@@ -3,7 +3,6 @@ title: ParagraphFormat.TabIndent method (Word)
 keywords: vbawd10.chm156434738
 f1_keywords:
 - vbawd10.chm156434738
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.TabIndent
 ms.assetid: db62f9c2-e205-4f57-5baf-2c06bbd30644

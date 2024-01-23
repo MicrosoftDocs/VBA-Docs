@@ -3,7 +3,6 @@ title: Chart.HeightPercent property (Word)
 keywords: vbawd10.chm79364106
 f1_keywords:
 - vbawd10.chm79364106
-ms.prod: word
 api_name:
 - Word.Chart.HeightPercent
 ms.assetid: b05873d9-a7b9-8980-28e7-057a90f7bb94

@@ -3,7 +3,6 @@ title: ParagraphFormat.LeftIndent property (Publisher)
 keywords: vbapb10.chm5439494
 f1_keywords:
 - vbapb10.chm5439494
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.LeftIndent
 ms.assetid: f9cc3a86-d382-92d7-ec24-d13fc5e3d844

@@ -3,7 +3,6 @@ title: ReadabilityStatistics.Parent property (Word)
 keywords: vbawd10.chm162399210
 f1_keywords:
 - vbawd10.chm162399210
-ms.prod: word
 api_name:
 - Word.ReadabilityStatistics.Parent
 ms.assetid: 96037597-e5e9-fd84-245b-c5476fc2b3bb

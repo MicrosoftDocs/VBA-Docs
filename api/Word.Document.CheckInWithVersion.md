@@ -3,7 +3,6 @@ title: Document.CheckInWithVersion method (Word)
 keywords: vbawd10.chm158007797
 f1_keywords:
 - vbawd10.chm158007797
-ms.prod: word
 api_name:
 - Word.Document.CheckInWithVersion
 ms.assetid: fc041188-438e-6fab-d096-7883074a6879

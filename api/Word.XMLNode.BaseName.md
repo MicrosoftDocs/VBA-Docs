@@ -3,7 +3,6 @@ title: XMLNode.BaseName property (Word)
 keywords: vbawd10.chm37748736
 f1_keywords:
 - vbawd10.chm37748736
-ms.prod: word
 api_name:
 - Word.XMLNode.BaseName
 ms.assetid: 770e276b-8bf5-9f0d-64bd-e7df29a71233

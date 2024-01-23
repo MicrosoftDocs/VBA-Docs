@@ -3,7 +3,6 @@ title: Document.ClosePrintPreview method (Word)
 keywords: vbawd10.chm158007554
 f1_keywords:
 - vbawd10.chm158007554
-ms.prod: word
 api_name:
 - Word.Document.ClosePrintPreview
 ms.assetid: 8b4beae3-1893-5dbf-4463-bbce0c63b8ee

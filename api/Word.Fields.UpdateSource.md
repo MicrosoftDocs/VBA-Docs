@@ -3,7 +3,6 @@ title: Fields.UpdateSource method (Word)
 keywords: vbawd10.chm154140776
 f1_keywords:
 - vbawd10.chm154140776
-ms.prod: word
 api_name:
 - Word.Fields.UpdateSource
 ms.assetid: 497229e6-b41c-e8a2-4a6a-8034eba2296b

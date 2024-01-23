@@ -1,6 +1,5 @@
 ---
 title: WdParagraphAlignment enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdParagraphAlignment
 ms.assetid: a722ce45-ced8-fe7c-4e37-4a917f1630e3

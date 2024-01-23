@@ -3,7 +3,6 @@ title: Selection.ItalicRun method (Word)
 keywords: vbawd10.chm158663259
 f1_keywords:
 - vbawd10.chm158663259
-ms.prod: word
 api_name:
 - Word.Selection.ItalicRun
 ms.assetid: 0d36eff1-7308-7695-7058-be79455836ee

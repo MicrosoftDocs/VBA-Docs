@@ -3,7 +3,6 @@ title: Hyperlink.Name property (Word)
 keywords: vbawd10.chm161285099
 f1_keywords:
 - vbawd10.chm161285099
-ms.prod: word
 api_name:
 - Word.Hyperlink.Name
 ms.assetid: e49493bf-d8bb-9ccf-2963-c8d71cf15936

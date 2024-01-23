@@ -3,7 +3,6 @@ title: LegendKey.MarkerSize property (Word)
 keywords: vbawd10.chm266207463
 f1_keywords:
 - vbawd10.chm266207463
-ms.prod: word
 api_name:
 - Word.LegendKey.MarkerSize
 ms.assetid: 6828b06b-1ec2-9205-4618-f0fc46411226

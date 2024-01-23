@@ -3,7 +3,6 @@ title: Paragraph.ListNumberOriginal property (Word)
 keywords: vbawd10.chm156696713
 f1_keywords:
 - vbawd10.chm156696713
-ms.prod: word
 api_name:
 - Word.Paragraph.ListNumberOriginal
 ms.assetid: f217acb4-bc12-032a-5419-7ff717ee0e97

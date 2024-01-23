@@ -3,7 +3,6 @@ title: Section.Index property (Word)
 keywords: vbawd10.chm156827772
 f1_keywords:
 - vbawd10.chm156827772
-ms.prod: word
 api_name:
 - Word.Section.Index
 ms.assetid: 4ae60df8-3d8f-fbcd-9a50-ba9f72ffbd60

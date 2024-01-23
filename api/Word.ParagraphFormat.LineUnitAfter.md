@@ -3,7 +3,6 @@ title: ParagraphFormat.LineUnitAfter property (Word)
 keywords: vbawd10.chm156434562
 f1_keywords:
 - vbawd10.chm156434562
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.LineUnitAfter
 ms.assetid: 243cde4f-8bcb-1be6-0885-ffaf0bbe83d1

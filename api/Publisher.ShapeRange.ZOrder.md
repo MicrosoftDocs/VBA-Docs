@@ -3,7 +3,6 @@ title: ShapeRange.ZOrder method (Publisher)
 keywords: vbapb10.chm2293808
 f1_keywords:
 - vbapb10.chm2293808
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.ZOrder
 ms.assetid: 2043f78c-ab83-e719-c3b5-5d75edcf1593

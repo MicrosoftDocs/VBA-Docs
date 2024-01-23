@@ -3,7 +3,6 @@ title: Document.FormattingShowClear property (Word)
 keywords: vbawd10.chm158007745
 f1_keywords:
 - vbawd10.chm158007745
-ms.prod: word
 api_name:
 - Word.Document.FormattingShowClear
 ms.assetid: e6a25cc8-29be-0ba4-21ba-763676cc2f90

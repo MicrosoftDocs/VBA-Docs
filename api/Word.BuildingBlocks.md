@@ -1,6 +1,5 @@
 ---
 title: BuildingBlocks object (Word)
-ms.prod: word
 api_name:
 - Word.BuildingBlocks
 ms.assetid: be5bba4a-b06c-0074-20bd-bbeb40e03d1c

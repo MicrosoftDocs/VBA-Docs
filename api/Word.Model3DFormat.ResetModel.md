@@ -3,7 +3,6 @@ title: Model3DFormat.ResetModel method (Word)
 keywords: vbawd10.chm151584879
 f1_keywords:
 - vbawd10.chm151584879
-ms.prod: word
 api_name:
 - Word.Model3DFormat.ResetModel
 ms.date: 04/11/2019

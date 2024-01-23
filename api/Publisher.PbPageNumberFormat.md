@@ -3,7 +3,6 @@ title: PbPageNumberFormat enumeration (Publisher)
 keywords: vbapb10.chm65618
 f1_keywords:
 - vbapb10.chm65618
-ms.prod: publisher
 api_name:
 - Publisher.PbPageNumberFormat
 ms.assetid: 0c23a61f-4267-fb6e-7483-ef366fd0c772

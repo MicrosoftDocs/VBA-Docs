@@ -3,7 +3,6 @@ title: FillFormat.TextureHorizontalScale property (Publisher)
 keywords: vbapb10.chm2359576
 f1_keywords:
 - vbapb10.chm2359576
-ms.prod: publisher
 ms.assetid: acb45b6d-5e2f-dabb-4ba5-58955fcd4eb1
 ms.date: 06/07/2019
 ms.localizationpriority: medium

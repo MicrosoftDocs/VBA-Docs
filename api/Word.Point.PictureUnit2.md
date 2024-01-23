@@ -3,7 +3,6 @@ title: Point.PictureUnit2 property (Word)
 keywords: vbawd10.chm262146649
 f1_keywords:
 - vbawd10.chm262146649
-ms.prod: word
 api_name:
 - Word.Point.PictureUnit2
 ms.assetid: eada77df-2d39-2a71-163c-367ceeda6405

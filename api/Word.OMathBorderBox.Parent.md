@@ -3,7 +3,6 @@ title: OMathBorderBox.Parent property (Word)
 keywords: vbawd10.chm116260966
 f1_keywords:
 - vbawd10.chm116260966
-ms.prod: word
 api_name:
 - Word.OMathBorderBox.Parent
 ms.assetid: a09461d0-be33-5723-1d6d-288f5ba3d159

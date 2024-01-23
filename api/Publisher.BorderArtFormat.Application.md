@@ -3,7 +3,6 @@ title: BorderArtFormat.Application property (Publisher)
 keywords: vbapb10.chm7602177
 f1_keywords:
 - vbapb10.chm7602177
-ms.prod: publisher
 api_name:
 - Publisher.BorderArtFormat.Application
 ms.assetid: 329de5c7-c469-b7c0-1398-cecbbc6107b2

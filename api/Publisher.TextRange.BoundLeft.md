@@ -3,7 +3,6 @@ title: TextRange.BoundLeft property (Publisher)
 keywords: vbapb10.chm5308435
 f1_keywords:
 - vbapb10.chm5308435
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.BoundLeft
 ms.assetid: 1ad36906-3dbf-9158-173b-b9047910f6d2

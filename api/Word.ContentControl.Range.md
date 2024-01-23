@@ -3,7 +3,6 @@ title: ContentControl.Range property (Word)
 keywords: vbawd10.chm266534913
 f1_keywords:
 - vbawd10.chm266534913
-ms.prod: word
 api_name:
 - Word.ContentControl.Range
 ms.assetid: e83efa5d-edd7-2cdc-ee6f-925db82e3d40

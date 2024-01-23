@@ -3,7 +3,6 @@ title: MailMergeDataSource.Parent property (Publisher)
 keywords: vbapb10.chm6291458
 f1_keywords:
 - vbapb10.chm6291458
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.Parent
 ms.assetid: e3e421ad-7c13-7b1a-363b-8e0fb659cb4c

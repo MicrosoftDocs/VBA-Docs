@@ -3,7 +3,6 @@ title: WebOptions.Encoding property (Publisher)
 keywords: vbapb10.chm8257540
 f1_keywords:
 - vbapb10.chm8257540
-ms.prod: publisher
 api_name:
 - Publisher.WebOptions.Encoding
 ms.assetid: 0aad6082-0ee4-3be0-14a0-73e219f254a0

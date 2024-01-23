@@ -3,7 +3,6 @@ title: CustomProperties.Creator property (Word)
 keywords: vbawd10.chm232850409
 f1_keywords:
 - vbawd10.chm232850409
-ms.prod: word
 api_name:
 - Word.CustomProperties.Creator
 ms.assetid: 52c96a6e-b649-e861-fd69-055f526b6f7a

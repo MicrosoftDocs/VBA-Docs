@@ -3,7 +3,6 @@ title: FillFormat.TwoColorGradient method (Word)
 keywords: vbawd10.chm164102160
 f1_keywords:
 - vbawd10.chm164102160
-ms.prod: word
 api_name:
 - Word.FillFormat.TwoColorGradient
 ms.assetid: 38a8a57c-0f5f-e54a-999e-87e0977196b8

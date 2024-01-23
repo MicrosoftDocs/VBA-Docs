@@ -3,7 +3,6 @@ title: Application.DisplayRecentFiles property (Word)
 keywords: vbawd10.chm158335032
 f1_keywords:
 - vbawd10.chm158335032
-ms.prod: word
 api_name:
 - Word.Application.DisplayRecentFiles
 ms.assetid: d8c96e18-7bbc-baa0-66ae-af91ee631a26

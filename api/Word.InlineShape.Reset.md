@@ -3,7 +3,6 @@ title: InlineShape.Reset method (Word)
 keywords: vbawd10.chm162005093
 f1_keywords:
 - vbawd10.chm162005093
-ms.prod: word
 api_name:
 - Word.InlineShape.Reset
 ms.assetid: c7c7c01a-7c62-7d2f-24e6-d20c02c8dbb3

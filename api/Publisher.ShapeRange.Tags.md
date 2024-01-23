@@ -3,7 +3,6 @@ title: ShapeRange.Tags property (Publisher)
 keywords: vbapb10.chm2293865
 f1_keywords:
 - vbapb10.chm2293865
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Tags
 ms.assetid: 792e3505-2c40-26e7-53c6-d50d84df22bb

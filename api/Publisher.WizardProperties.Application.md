@@ -3,7 +3,6 @@ title: WizardProperties.Application property (Publisher)
 keywords: vbapb10.chm1507329
 f1_keywords:
 - vbapb10.chm1507329
-ms.prod: publisher
 api_name:
 - Publisher.WizardProperties.Application
 ms.assetid: 2532d645-f317-90cb-6d78-d631bc116582

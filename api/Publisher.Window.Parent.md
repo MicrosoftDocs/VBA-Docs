@@ -3,7 +3,6 @@ title: Window.Parent property (Publisher)
 keywords: vbapb10.chm262147
 f1_keywords:
 - vbapb10.chm262147
-ms.prod: publisher
 api_name:
 - Publisher.Window.Parent
 ms.assetid: 9c148786-0199-f780-33bd-f2750fb51ebb

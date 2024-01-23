@@ -3,7 +3,6 @@ title: Application.BuildKeyCode method (Word)
 keywords: vbawd10.chm158335292
 f1_keywords:
 - vbawd10.chm158335292
-ms.prod: word
 api_name:
 - Word.Application.BuildKeyCode
 ms.assetid: 0bbc515d-5f39-fed8-2b86-99979af928a9

@@ -3,7 +3,6 @@ title: PictureFormat.RecoloredPictureColor property (Publisher)
 keywords: vbapb10.chm3604790
 f1_keywords:
 - vbapb10.chm3604790
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.RecoloredPictureColor
 ms.assetid: 8483c951-965d-e78d-52ff-90a16c76a5ca

@@ -3,7 +3,6 @@ title: Index.Application property (Word)
 keywords: vbawd10.chm159187944
 f1_keywords:
 - vbawd10.chm159187944
-ms.prod: word
 api_name:
 - Word.Index.Application
 ms.assetid: b06aa1c7-a7a8-eda6-dbd2-ad408f273f91

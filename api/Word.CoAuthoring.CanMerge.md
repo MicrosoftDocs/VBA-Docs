@@ -3,7 +3,6 @@ title: CoAuthoring.CanMerge property (Word)
 keywords: vbawd10.chm254869513
 f1_keywords:
 - vbawd10.chm254869513
-ms.prod: word
 api_name:
 - Word.CoAuthoring.CanMerge
 ms.assetid: c74efdfe-9f8b-e524-14fb-7866ae0e34ae

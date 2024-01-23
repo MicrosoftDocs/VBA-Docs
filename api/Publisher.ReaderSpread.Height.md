@@ -3,7 +3,6 @@ title: ReaderSpread.Height property (Publisher)
 keywords: vbapb10.chm524296
 f1_keywords:
 - vbapb10.chm524296
-ms.prod: publisher
 api_name:
 - Publisher.ReaderSpread.Height
 ms.assetid: dfb84798-da3f-516b-22cd-0ba2a63ff39d

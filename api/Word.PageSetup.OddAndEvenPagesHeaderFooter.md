@@ -3,7 +3,6 @@ title: PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 keywords: vbawd10.chm158400627
 f1_keywords:
 - vbawd10.chm158400627
-ms.prod: word
 api_name:
 - Word.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: 82b6d6f1-30fe-2946-241a-cdb0077cabf6

@@ -3,7 +3,6 @@ title: Editor.ID property (Word)
 keywords: vbawd10.chm225575012
 f1_keywords:
 - vbawd10.chm225575012
-ms.prod: word
 api_name:
 - Word.Editor.ID
 ms.assetid: 53033208-2deb-904d-78cd-26abb546d0b0

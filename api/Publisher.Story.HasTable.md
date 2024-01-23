@@ -3,7 +3,6 @@ title: Story.HasTable property (Publisher)
 keywords: vbapb10.chm5832707
 f1_keywords:
 - vbapb10.chm5832707
-ms.prod: publisher
 api_name:
 - Publisher.Story.HasTable
 ms.assetid: bc4912e2-f521-c6b5-b5a6-a49952014966

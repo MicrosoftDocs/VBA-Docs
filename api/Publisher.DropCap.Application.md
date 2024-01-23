@@ -3,7 +3,6 @@ title: DropCap.Application property (Publisher)
 keywords: vbapb10.chm5505025
 f1_keywords:
 - vbapb10.chm5505025
-ms.prod: publisher
 api_name:
 - Publisher.DropCap.Application
 ms.assetid: 220b269c-66ba-b7f3-309a-7d6614215b72

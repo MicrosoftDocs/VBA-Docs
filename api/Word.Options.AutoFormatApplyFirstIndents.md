@@ -3,7 +3,6 @@ title: Options.AutoFormatApplyFirstIndents property (Word)
 keywords: vbawd10.chm162988323
 f1_keywords:
 - vbawd10.chm162988323
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatApplyFirstIndents
 ms.assetid: c55fa4eb-9ef4-9061-b2be-cbe2da8ce3bf

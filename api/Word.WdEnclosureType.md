@@ -1,6 +1,5 @@
 ---
 title: WdEnclosureType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdEnclosureType
 ms.assetid: e7347434-539e-5d3f-6ff0-c32054a773a3

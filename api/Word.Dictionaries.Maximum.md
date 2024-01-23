@@ -3,7 +3,6 @@ title: Dictionaries.Maximum property (Word)
 keywords: vbawd10.chm162267138
 f1_keywords:
 - vbawd10.chm162267138
-ms.prod: word
 api_name:
 - Word.Dictionaries.Maximum
 ms.assetid: fa9f31e0-1965-5d96-568b-e0b8049127e3

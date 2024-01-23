@@ -3,7 +3,6 @@ title: EmailOptions.RelyOnCSS property (Word)
 keywords: vbawd10.chm165347634
 f1_keywords:
 - vbawd10.chm165347634
-ms.prod: word
 api_name:
 - Word.EmailOptions.RelyOnCSS
 ms.assetid: 4c1d89df-cb96-2463-e884-3f6571dfff6e

@@ -3,7 +3,6 @@ title: PictureFormat.OriginalIsTrueColor property (Publisher)
 keywords: vbapb10.chm3604775
 f1_keywords:
 - vbapb10.chm3604775
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalIsTrueColor
 ms.assetid: 837109d4-3479-2500-a1fa-b4c00e0f8672

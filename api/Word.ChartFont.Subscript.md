@@ -3,7 +3,6 @@ title: ChartFont.Subscript property (Word)
 keywords: vbawd10.chm255918102
 f1_keywords:
 - vbawd10.chm255918102
-ms.prod: word
 api_name:
 - Word.ChartFont.Subscript
 ms.assetid: d46ee830-a4d0-3812-eca0-5b6fa86511b2

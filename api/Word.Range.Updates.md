@@ -3,7 +3,6 @@ title: Range.Updates property (Word)
 keywords: vbawd10.chm157155833
 f1_keywords:
 - vbawd10.chm157155833
-ms.prod: word
 api_name:
 - Word.Range.Updates
 ms.assetid: 584c9a40-0975-75d9-e3d4-32e857fb62e5

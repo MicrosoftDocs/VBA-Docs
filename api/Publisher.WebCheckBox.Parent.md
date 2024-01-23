@@ -3,7 +3,6 @@ title: WebCheckBox.Parent property (Publisher)
 keywords: vbapb10.chm4325378
 f1_keywords:
 - vbapb10.chm4325378
-ms.prod: publisher
 api_name:
 - Publisher.WebCheckBox.Parent
 ms.assetid: 93d8ddd1-838b-852f-d3ce-6c64a51f87dd

@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetLightingSoftness property (Word)
 keywords: vbawd10.chm164626538
 f1_keywords:
 - vbawd10.chm164626538
-ms.prod: word
 api_name:
 - Word.ThreeDFormat.PresetLightingSoftness
 ms.assetid: 3f33ad34-5779-63a0-fe50-a8bd0fcabe54

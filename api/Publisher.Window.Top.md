@@ -3,7 +3,6 @@ title: Window.Top property (Publisher)
 keywords: vbapb10.chm262148
 f1_keywords:
 - vbapb10.chm262148
-ms.prod: publisher
 api_name:
 - Publisher.Window.Top
 ms.assetid: 22fe0170-7433-a917-87ca-f418c2aefc70

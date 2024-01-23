@@ -3,7 +3,6 @@ title: AddIn.Installed property (Word)
 keywords: vbawd10.chm159252484
 f1_keywords:
 - vbawd10.chm159252484
-ms.prod: word
 api_name:
 - Word.AddIn.Installed
 ms.assetid: 5bca123c-c75f-23f0-15d1-cf9f662de8da

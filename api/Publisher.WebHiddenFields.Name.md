@@ -3,7 +3,6 @@ title: WebHiddenFields.Name method (Publisher)
 keywords: vbapb10.chm3997703
 f1_keywords:
 - vbapb10.chm3997703
-ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Name
 ms.assetid: 9dade2c9-6f6b-8686-90fa-a41c8bb6dfa2

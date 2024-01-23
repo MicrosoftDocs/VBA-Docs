@@ -3,7 +3,6 @@ title: Columns.Select method (Word)
 keywords: vbawd10.chm155910343
 f1_keywords:
 - vbawd10.chm155910343
-ms.prod: word
 api_name:
 - Word.Columns.Select
 ms.assetid: 383cd7d9-3b29-4f6d-c841-dfd20e979023

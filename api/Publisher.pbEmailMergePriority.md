@@ -3,7 +3,6 @@ title: PbEmailMergePriority enumeration (Publisher)
 keywords: vbapb10.chm65638
 f1_keywords:
 - vbapb10.chm65638
-ms.prod: publisher
 api_name:
 - Publisher.pbEmailMergePriority
 ms.assetid: 448c946d-b984-a370-171c-0980e44497a9

@@ -3,7 +3,6 @@ title: Options.MatchFuzzySmallKana property (Word)
 keywords: vbawd10.chm162988344
 f1_keywords:
 - vbawd10.chm162988344
-ms.prod: word
 api_name:
 - Word.Options.MatchFuzzySmallKana
 ms.assetid: 743fdfa1-01da-32ee-22cf-c30852f382bf

@@ -3,7 +3,6 @@ title: Range.HTMLDivisions property (Word)
 keywords: vbawd10.chm157155734
 f1_keywords:
 - vbawd10.chm157155734
-ms.prod: word
 api_name:
 - Word.Range.HTMLDivisions
 ms.assetid: 4712d81f-7028-357b-a7ff-dc4f382cc5e3

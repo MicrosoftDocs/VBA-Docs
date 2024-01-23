@@ -3,7 +3,6 @@ title: Document.OpenEncoding property (Word)
 keywords: vbawd10.chm158007628
 f1_keywords:
 - vbawd10.chm158007628
-ms.prod: word
 api_name:
 - Word.Document.OpenEncoding
 ms.assetid: a147f531-de42-47c5-1a74-12ea65e64b8b

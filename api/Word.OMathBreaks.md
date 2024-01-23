@@ -3,7 +3,6 @@ title: OMathBreaks object (Word)
 keywords: vbawd10.chm935
 f1_keywords:
 - vbawd10.chm935
-ms.prod: word
 api_name:
 - Word.OMathBreaks
 ms.assetid: fa01cd62-b8ad-52bf-f36a-f5d1548d3d1e

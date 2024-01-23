@@ -3,7 +3,6 @@ title: Legend.Shadow property (Word)
 keywords: vbawd10.chm147193959
 f1_keywords:
 - vbawd10.chm147193959
-ms.prod: word
 api_name:
 - Word.Legend.Shadow
 ms.assetid: 575cf67f-648c-20b3-dcfe-48546b6b4b9b

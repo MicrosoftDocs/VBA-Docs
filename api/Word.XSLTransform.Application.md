@@ -3,7 +3,6 @@ title: XSLTransform.Application property (Word)
 keywords: vbawd10.chm76743656
 f1_keywords:
 - vbawd10.chm76743656
-ms.prod: word
 api_name:
 - Word.XSLTransform.Application
 ms.assetid: 6fcbf0cf-bbae-847b-3cd3-8ba7edbdc877

@@ -3,7 +3,6 @@ title: ShapeRange.Height property (Word)
 keywords: vbawd10.chm162857069
 f1_keywords:
 - vbawd10.chm162857069
-ms.prod: word
 api_name:
 - Word.ShapeRange.Height
 ms.assetid: a11515c7-19d1-b113-cce9-b8c94c6ccbc7

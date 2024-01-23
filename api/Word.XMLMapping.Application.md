@@ -3,7 +3,6 @@ title: XMLMapping.Application property (Word)
 keywords: vbawd10.chm199689192
 f1_keywords:
 - vbawd10.chm199689192
-ms.prod: word
 api_name:
 - Word.XMLMapping.Application
 ms.assetid: cce5a8cb-eacf-5bd7-2b63-d3aed4a8cff5

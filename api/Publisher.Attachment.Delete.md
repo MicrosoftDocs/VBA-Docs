@@ -3,7 +3,6 @@ title: Attachment.Delete method (Publisher)
 keywords: vbapb10.chm573441
 f1_keywords:
 - vbapb10.chm573441
-ms.prod: publisher
 api_name:
 - Publisher.Attachment.Delete
 ms.assetid: 935fa9e7-9d40-b820-e386-1a1960845da1

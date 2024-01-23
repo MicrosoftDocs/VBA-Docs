@@ -3,7 +3,6 @@ title: XMLSchemaReferences.HideValidationErrors property (Word)
 keywords: vbawd10.chm116129797
 f1_keywords:
 - vbawd10.chm116129797
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.HideValidationErrors
 ms.assetid: a31185b6-f179-acf8-d5ee-57311dca4c34

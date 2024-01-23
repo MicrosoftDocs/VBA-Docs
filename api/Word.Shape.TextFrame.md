@@ -3,7 +3,6 @@ title: Shape.TextFrame property (Word)
 keywords: vbawd10.chm161480825
 f1_keywords:
 - vbawd10.chm161480825
-ms.prod: word
 api_name:
 - Word.Shape.TextFrame
 ms.assetid: c9ee1782-ecee-e83b-2014-62d0509237b7

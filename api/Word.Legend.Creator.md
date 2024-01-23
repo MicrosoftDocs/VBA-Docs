@@ -3,7 +3,6 @@ title: Legend.Creator property (Word)
 keywords: vbawd10.chm147194005
 f1_keywords:
 - vbawd10.chm147194005
-ms.prod: word
 api_name:
 - Word.Legend.Creator
 ms.assetid: 568358ae-42bd-6f49-e7c5-75e3e318aed8

@@ -3,7 +3,6 @@ title: Dialog.Update method (Word)
 keywords: vbawd10.chm163053870
 f1_keywords:
 - vbawd10.chm163053870
-ms.prod: word
 api_name:
 - Word.Dialog.Update
 ms.assetid: 7adf7403-77eb-85da-8a5a-092d1c8c548f

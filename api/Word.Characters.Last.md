@@ -3,7 +3,6 @@ title: Characters.Last property (Word)
 keywords: vbawd10.chm157089796
 f1_keywords:
 - vbawd10.chm157089796
-ms.prod: word
 api_name:
 - Word.Characters.Last
 ms.assetid: 465bc555-2310-4309-79fb-f5b1e560f54f

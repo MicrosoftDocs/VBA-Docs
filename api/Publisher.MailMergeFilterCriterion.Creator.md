@@ -1,6 +1,5 @@
 ---
 title: MailMergeFilterCriterion.Creator property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilterCriterion.Creator
 ms.assetid: 064ef96c-870e-9028-c00f-c19da43034c8

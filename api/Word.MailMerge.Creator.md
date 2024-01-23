@@ -3,7 +3,6 @@ title: MailMerge.Creator property (Word)
 keywords: vbawd10.chm153093097
 f1_keywords:
 - vbawd10.chm153093097
-ms.prod: word
 api_name:
 - Word.MailMerge.Creator
 ms.assetid: b72970e2-160d-3b8d-4ada-a78957ff1e73

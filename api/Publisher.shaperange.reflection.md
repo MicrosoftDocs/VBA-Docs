@@ -1,6 +1,5 @@
 ---
 title: ShapeRange.Reflection property (Publisher)
-ms.prod: publisher
 ms.assetid: db9ef973-39b9-7fe3-8b21-3ed1b74bb690
 ms.date: 06/14/2019
 ms.localizationpriority: medium

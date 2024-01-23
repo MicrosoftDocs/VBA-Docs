@@ -3,7 +3,6 @@ title: LegendKey.Smooth property (Word)
 keywords: vbawd10.chm266207395
 f1_keywords:
 - vbawd10.chm266207395
-ms.prod: word
 api_name:
 - Word.LegendKey.Smooth
 ms.assetid: c6781541-3115-b957-4219-2badc0922019

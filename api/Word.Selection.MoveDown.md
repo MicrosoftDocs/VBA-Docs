@@ -3,7 +3,6 @@ title: Selection.MoveDown method (Word)
 keywords: vbawd10.chm158663159
 f1_keywords:
 - vbawd10.chm158663159
-ms.prod: word
 api_name:
 - Word.Selection.MoveDown
 ms.assetid: d3ea31e8-04a5-c342-24ca-c93ac1a1258e

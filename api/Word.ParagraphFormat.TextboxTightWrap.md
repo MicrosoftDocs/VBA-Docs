@@ -3,7 +3,6 @@ title: ParagraphFormat.TextboxTightWrap property (Word)
 keywords: vbawd10.chm156434567
 f1_keywords:
 - vbawd10.chm156434567
-ms.prod: word
 api_name:
 - Word.ParagraphFormat.TextboxTightWrap
 ms.assetid: 0831db5c-4454-75ca-e52b-1ba79efd40be

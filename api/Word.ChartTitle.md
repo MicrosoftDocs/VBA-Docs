@@ -3,7 +3,6 @@ title: ChartTitle object (Word)
 keywords: vbawd10.chm996
 f1_keywords:
 - vbawd10.chm996
-ms.prod: word
 api_name:
 - Word.ChartTitle
 ms.assetid: fc8ca540-0a29-123b-2fdf-b16aaa1f940c

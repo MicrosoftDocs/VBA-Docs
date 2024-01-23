@@ -1,6 +1,5 @@
 ---
 title: Shapes.Add3DModel method (Word)
-ms.prod: word
 api_name:
 - Word.Shapes.Add3DModel
 ms.date: 04/12/2019

@@ -3,7 +3,6 @@ title: CanvasShapes.AddConnector method (Word)
 keywords: vbawd10.chm7536651
 f1_keywords:
 - vbawd10.chm7536651
-ms.prod: word
 api_name:
 - Word.CanvasShapes.AddConnector
 ms.assetid: 0bfb15ae-0d0d-1864-bdf3-941e22090696

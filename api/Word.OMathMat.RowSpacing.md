@@ -3,7 +3,6 @@ title: OMathMat.RowSpacing property (Word)
 keywords: vbawd10.chm176029805
 f1_keywords:
 - vbawd10.chm176029805
-ms.prod: word
 api_name:
 - Word.OMathMat.RowSpacing
 ms.assetid: d5719ecb-206b-368b-939b-0115ec84269f

@@ -3,7 +3,6 @@ title: Document.PresentIt method (Word)
 keywords: vbawd10.chm158007551
 f1_keywords:
 - vbawd10.chm158007551
-ms.prod: word
 api_name:
 - Word.Document.PresentIt
 ms.assetid: 2565f8a5-d99d-0b40-aea6-2ad20f9ed07f

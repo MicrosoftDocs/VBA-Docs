@@ -3,7 +3,6 @@ title: Selection.End property (Word)
 keywords: vbawd10.chm158662660
 f1_keywords:
 - vbawd10.chm158662660
-ms.prod: word
 api_name:
 - Word.Selection.End
 ms.assetid: 99e3bd79-a8f1-8057-1ac2-b9e76eab99ff

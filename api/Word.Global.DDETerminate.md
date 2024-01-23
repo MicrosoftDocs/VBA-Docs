@@ -3,7 +3,6 @@ title: Global.DDETerminate method (Word)
 keywords: vbawd10.chm163119418
 f1_keywords:
 - vbawd10.chm163119418
-ms.prod: word
 api_name:
 - Word.Global.DDETerminate
 ms.assetid: 2502d0a7-c90b-1169-7b7b-a5d2b26445a6

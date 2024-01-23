@@ -3,7 +3,6 @@ title: Cells.Merge method (Word)
 keywords: vbawd10.chm155844812
 f1_keywords:
 - vbawd10.chm155844812
-ms.prod: word
 api_name:
 - Word.Cells.Merge
 ms.assetid: 064d405e-00a1-205a-184c-4f46ab463a63

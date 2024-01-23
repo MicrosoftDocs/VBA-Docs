@@ -3,7 +3,6 @@ title: Window.Next property (Word)
 keywords: vbawd10.chm157417488
 f1_keywords:
 - vbawd10.chm157417488
-ms.prod: word
 api_name:
 - Word.Window.Next
 ms.assetid: 28587dfe-dd49-88b7-0261-b4e42a12eeac

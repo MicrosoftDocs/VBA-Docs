@@ -3,7 +3,6 @@ title: Dictionaries.Add method (Word)
 keywords: vbawd10.chm162267237
 f1_keywords:
 - vbawd10.chm162267237
-ms.prod: word
 api_name:
 - Word.Dictionaries.Add
 ms.assetid: aacd7041-e34f-b6e4-d895-925dad575d40

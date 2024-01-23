@@ -3,7 +3,6 @@ title: Version.Comment property (Word)
 keywords: vbawd10.chm162792428
 f1_keywords:
 - vbawd10.chm162792428
-ms.prod: word
 api_name:
 - Word.Version.Comment
 ms.assetid: 52ca9077-0295-3059-b699-6fa97ad45991

@@ -3,7 +3,6 @@ title: Font.UnderlineColor property (Word)
 keywords: vbawd10.chm156369062
 f1_keywords:
 - vbawd10.chm156369062
-ms.prod: word
 api_name:
 - Word.Font.UnderlineColor
 ms.assetid: f0da061c-0948-1214-ecdc-80f9c482f468

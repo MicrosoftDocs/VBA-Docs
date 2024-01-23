@@ -3,7 +3,6 @@ title: WizardValue object (Publisher)
 keywords: vbapb10.chm2162687
 f1_keywords:
 - vbapb10.chm2162687
-ms.prod: publisher
 api_name:
 - Publisher.WizardValue
 ms.assetid: 15b60632-d1b1-c62b-0264-72d65bd1fe82

@@ -3,7 +3,6 @@ title: ShapeRange.Delete method (Word)
 keywords: vbawd10.chm162856972
 f1_keywords:
 - vbawd10.chm162856972
-ms.prod: word
 api_name:
 - Word.ShapeRange.Delete
 ms.assetid: 7496b5f6-3d3a-f948-6663-81f8acc4a188

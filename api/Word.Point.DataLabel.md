@@ -3,7 +3,6 @@ title: Point.DataLabel property (Word)
 keywords: vbawd10.chm262144158
 f1_keywords:
 - vbawd10.chm262144158
-ms.prod: word
 api_name:
 - Word.Point.DataLabel
 ms.assetid: d84afe14-7c11-8ccf-baf0-687b72f25314

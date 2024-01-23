@@ -3,7 +3,6 @@ title: Find.Format property (Word)
 keywords: vbawd10.chm162529308
 f1_keywords:
 - vbawd10.chm162529308
-ms.prod: word
 api_name:
 - Word.Find.Format
 ms.assetid: 999041b0-e1eb-8155-405b-62475cb57f9d

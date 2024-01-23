@@ -3,7 +3,6 @@ title: WebOptions.ScreenSize property (Word)
 keywords: vbawd10.chm165937160
 f1_keywords:
 - vbawd10.chm165937160
-ms.prod: word
 api_name:
 - Word.WebOptions.ScreenSize
 ms.assetid: 4398a153-6932-17ef-b449-a532363fb428

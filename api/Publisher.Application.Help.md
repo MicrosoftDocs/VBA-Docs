@@ -3,7 +3,6 @@ title: Application.Help method (Publisher)
 keywords: vbapb10.chm131125
 f1_keywords:
 - vbapb10.chm131125
-ms.prod: publisher
 api_name:
 - Publisher.Application.Help
 ms.assetid: 37b51399-5897-4003-a0a9-9829a8adf8ed

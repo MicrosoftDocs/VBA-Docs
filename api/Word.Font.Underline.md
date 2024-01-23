@@ -3,7 +3,6 @@ title: Font.Underline property (Word)
 keywords: vbawd10.chm156369036
 f1_keywords:
 - vbawd10.chm156369036
-ms.prod: word
 api_name:
 - Word.Font.Underline
 ms.assetid: 3fbcecb6-c38c-746e-671a-1339aa855b15

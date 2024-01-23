@@ -3,7 +3,6 @@ title: Cell.TopPadding property (Word)
 keywords: vbawd10.chm156106863
 f1_keywords:
 - vbawd10.chm156106863
-ms.prod: word
 api_name:
 - Word.Cell.TopPadding
 ms.assetid: 03c8bd07-dde2-6ad3-1291-7b0c0ada424a

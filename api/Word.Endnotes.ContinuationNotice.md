@@ -3,7 +3,6 @@ title: Endnotes.ContinuationNotice property (Word)
 keywords: vbawd10.chm155254890
 f1_keywords:
 - vbawd10.chm155254890
-ms.prod: word
 api_name:
 - Word.Endnotes.ContinuationNotice
 ms.assetid: 3d2007df-756e-17f9-ce7c-269fa633503b

@@ -3,7 +3,6 @@ title: Selection.TopLevelTables property (Word)
 keywords: vbawd10.chm158663662
 f1_keywords:
 - vbawd10.chm158663662
-ms.prod: word
 api_name:
 - Word.Selection.TopLevelTables
 ms.assetid: 7ab1b2a3-85a8-8892-53b9-dc85ff747078

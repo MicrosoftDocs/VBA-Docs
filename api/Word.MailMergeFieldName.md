@@ -3,7 +3,6 @@ title: MailMergeFieldName object (Word)
 keywords: vbawd10.chm2331
 f1_keywords:
 - vbawd10.chm2331
-ms.prod: word
 api_name:
 - Word.MailMergeFieldName
 ms.assetid: f4e09d1e-0da2-2f0f-1747-566a4ae443b6

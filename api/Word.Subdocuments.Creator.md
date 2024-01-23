@@ -3,7 +3,6 @@ title: Subdocuments.Creator property (Word)
 keywords: vbawd10.chm159908841
 f1_keywords:
 - vbawd10.chm159908841
-ms.prod: word
 api_name:
 - Word.Subdocuments.Creator
 ms.assetid: 6419c182-d35b-eafa-8f1d-17fe297c6037

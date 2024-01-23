@@ -3,7 +3,6 @@ title: SeriesCollection.Count property (Word)
 keywords: vbawd10.chm150405238
 f1_keywords:
 - vbawd10.chm150405238
-ms.prod: word
 api_name:
 - Word.SeriesCollection.Count
 ms.assetid: 9a79979f-2cd8-c5f9-92aa-f7a9ed80089e

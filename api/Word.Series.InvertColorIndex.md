@@ -3,7 +3,6 @@ title: Series.InvertColorIndex property (Word)
 keywords: vbawd10.chm123734853
 f1_keywords:
 - vbawd10.chm123734853
-ms.prod: word
 api_name:
 - Word.Series.InvertColorIndex
 ms.assetid: 20fb51b7-2c75-09ac-b0d7-3ae1c868f014

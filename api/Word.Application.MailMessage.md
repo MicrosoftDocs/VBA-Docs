@@ -3,7 +3,6 @@ title: Application.MailMessage property (Word)
 keywords: vbawd10.chm158335324
 f1_keywords:
 - vbawd10.chm158335324
-ms.prod: word
 api_name:
 - Word.Application.MailMessage
 ms.assetid: 82bca039-0b6b-4489-27bf-18746dc639d2

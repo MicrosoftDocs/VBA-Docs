@@ -3,7 +3,6 @@ title: Options.TypeNReplace property (Publisher)
 keywords: vbapb10.chm1048626
 f1_keywords:
 - vbapb10.chm1048626
-ms.prod: publisher
 api_name:
 - Publisher.Options.TypeNReplace
 ms.assetid: 0eb378d2-3554-6a46-8b6b-4a990b4638db

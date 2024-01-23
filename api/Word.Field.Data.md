@@ -3,7 +3,6 @@ title: Field.Data property (Word)
 keywords: vbawd10.chm154075141
 f1_keywords:
 - vbawd10.chm154075141
-ms.prod: word
 api_name:
 - Word.Field.Data
 ms.assetid: b6dfba02-c469-4f8e-e48b-fc69d29673be

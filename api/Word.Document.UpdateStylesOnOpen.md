@@ -3,7 +3,6 @@ title: Document.UpdateStylesOnOpen property (Word)
 keywords: vbawd10.chm158007362
 f1_keywords:
 - vbawd10.chm158007362
-ms.prod: word
 api_name:
 - Word.Document.UpdateStylesOnOpen
 ms.assetid: 7b126a45-2347-8140-25b8-861672dcc8b5

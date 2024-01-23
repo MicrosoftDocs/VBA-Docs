@@ -3,7 +3,6 @@ title: Selection.InsertDateTime method (Word)
 keywords: vbawd10.chm158663100
 f1_keywords:
 - vbawd10.chm158663100
-ms.prod: word
 api_name:
 - Word.Selection.InsertDateTime
 ms.assetid: f9cfca41-e0f2-4656-5fa2-2463c50af1f5

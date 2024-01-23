@@ -3,7 +3,6 @@ title: HeaderFooter.LinkToPrevious property (Word)
 keywords: vbawd10.chm159711238
 f1_keywords:
 - vbawd10.chm159711238
-ms.prod: word
 api_name:
 - Word.HeaderFooter.LinkToPrevious
 ms.assetid: edb4dbeb-bb06-e41a-aa26-f29317bb6e01

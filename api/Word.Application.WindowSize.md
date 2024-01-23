@@ -3,7 +3,6 @@ title: Application.WindowSize event (Word)
 keywords: vbawd10.chm4000024
 f1_keywords:
 - vbawd10.chm4000024
-ms.prod: word
 api_name:
 - Word.Application.WindowSize
 ms.assetid: 96d55786-52c8-68a9-b9e9-b29c320a435a

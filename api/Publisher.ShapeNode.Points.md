@@ -3,7 +3,6 @@ title: ShapeNode.Points property (Publisher)
 keywords: vbapb10.chm3539201
 f1_keywords:
 - vbapb10.chm3539201
-ms.prod: publisher
 api_name:
 - Publisher.ShapeNode.Points
 ms.assetid: 30235d5a-9f05-4cc4-f62f-ac3cf4916e0d

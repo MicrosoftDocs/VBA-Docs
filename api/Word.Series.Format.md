@@ -3,7 +3,6 @@ title: Series.Format property (Word)
 keywords: vbawd10.chm123732050
 f1_keywords:
 - vbawd10.chm123732050
-ms.prod: word
 api_name:
 - Word.Series.Format
 ms.assetid: dfa9ca4c-67bc-71e6-38f8-e04aff693968

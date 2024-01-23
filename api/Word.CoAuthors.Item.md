@@ -3,7 +3,6 @@ title: CoAuthors.Item method (Word)
 keywords: vbawd10.chm179961856
 f1_keywords:
 - vbawd10.chm179961856
-ms.prod: word
 api_name:
 - Word.CoAuthors.Item
 ms.assetid: b487afa7-0f49-1cdb-997e-ca9bf384d486

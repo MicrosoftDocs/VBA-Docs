@@ -3,7 +3,6 @@ title: Field object (Word)
 keywords: vbawd10.chm2351
 f1_keywords:
 - vbawd10.chm2351
-ms.prod: word
 api_name:
 - Word.Field
 ms.assetid: 75139aa4-89f4-2ffb-b964-8dc805b9a32b

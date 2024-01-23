@@ -3,7 +3,6 @@ title: Cells.Shading property (Word)
 keywords: vbawd10.chm155844709
 f1_keywords:
 - vbawd10.chm155844709
-ms.prod: word
 api_name:
 - Word.Cells.Shading
 ms.assetid: ea9f4c8a-254d-6197-0f90-fa79465f940f

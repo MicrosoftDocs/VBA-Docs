@@ -3,7 +3,6 @@ title: Footnote.Range property (Word)
 keywords: vbawd10.chm155123716
 f1_keywords:
 - vbawd10.chm155123716
-ms.prod: word
 api_name:
 - Word.Footnote.Range
 ms.assetid: 108c228d-b593-ae58-8abb-7e7ac16177b8

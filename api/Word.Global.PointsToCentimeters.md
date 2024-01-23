@@ -3,7 +3,6 @@ title: Global.PointsToCentimeters method (Word)
 keywords: vbawd10.chm163119485
 f1_keywords:
 - vbawd10.chm163119485
-ms.prod: word
 api_name:
 - Word.Global.PointsToCentimeters
 ms.assetid: 82f64aa2-3c9c-a3e0-5326-8d4227cee170

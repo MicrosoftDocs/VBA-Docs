@@ -3,7 +3,6 @@ title: Document.RemoveDateAndTime property (Word)
 keywords: vbawd10.chm158007780
 f1_keywords:
 - vbawd10.chm158007780
-ms.prod: word
 api_name:
 - Word.Document.RemoveDateAndTime
 ms.assetid: 43520dad-0374-06c9-184e-da71de304360

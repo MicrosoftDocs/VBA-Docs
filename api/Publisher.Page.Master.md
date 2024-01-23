@@ -3,7 +3,6 @@ title: Page.Master property (Publisher)
 keywords: vbapb10.chm393222
 f1_keywords:
 - vbapb10.chm393222
-ms.prod: publisher
 api_name:
 - Publisher.Page.Master
 ms.assetid: f206b4f1-cde3-458d-f26c-a970ad3bd21b

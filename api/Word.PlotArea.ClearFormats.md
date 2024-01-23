@@ -3,7 +3,6 @@ title: PlotArea.ClearFormats method (Word)
 keywords: vbawd10.chm53477488
 f1_keywords:
 - vbawd10.chm53477488
-ms.prod: word
 api_name:
 - Word.PlotArea.ClearFormats
 ms.assetid: 7ba23f9d-5701-4b00-de88-66293ec6046a

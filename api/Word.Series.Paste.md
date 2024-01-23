@@ -3,7 +3,6 @@ title: Series.Paste method (Word)
 keywords: vbawd10.chm123732179
 f1_keywords:
 - vbawd10.chm123732179
-ms.prod: word
 api_name:
 - Word.Series.Paste
 ms.assetid: cef0e06e-fc4d-b63f-aea6-4cd325c3e0b9

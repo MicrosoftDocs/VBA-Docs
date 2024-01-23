@@ -3,7 +3,6 @@ title: ChartFont.ColorIndex property (Word)
 keywords: vbawd10.chm255918086
 f1_keywords:
 - vbawd10.chm255918086
-ms.prod: word
 api_name:
 - Word.ChartFont.ColorIndex
 ms.assetid: 50f2415c-ff1f-cc16-371f-24f29373f96d

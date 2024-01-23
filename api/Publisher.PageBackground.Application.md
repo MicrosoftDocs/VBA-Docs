@@ -3,7 +3,6 @@ title: PageBackground.Application property (Publisher)
 keywords: vbapb10.chm8126465
 f1_keywords:
 - vbapb10.chm8126465
-ms.prod: publisher
 api_name:
 - Publisher.PageBackground.Application
 ms.assetid: 92925f1a-9247-ad37-232b-6e16f33a7aae

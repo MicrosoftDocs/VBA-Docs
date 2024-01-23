@@ -3,7 +3,6 @@ title: Document.Compatibility property (Word)
 keywords: vbawd10.chm158007351
 f1_keywords:
 - vbawd10.chm158007351
-ms.prod: word
 api_name:
 - Word.Document.Compatibility
 ms.assetid: f41979a3-8650-1807-9cf0-d1e5fdf3a49b

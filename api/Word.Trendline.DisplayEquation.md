@@ -3,7 +3,6 @@ title: Trendline.DisplayEquation property (Word)
 keywords: vbawd10.chm26345662
 f1_keywords:
 - vbawd10.chm26345662
-ms.prod: word
 api_name:
 - Word.Trendline.DisplayEquation
 ms.assetid: c5534224-f7ff-2899-0d45-2c9fca8afbd8

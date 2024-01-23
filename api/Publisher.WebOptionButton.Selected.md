@@ -3,7 +3,6 @@ title: WebOptionButton.Selected property (Publisher)
 keywords: vbapb10.chm4259844
 f1_keywords:
 - vbapb10.chm4259844
-ms.prod: publisher
 api_name:
 - Publisher.WebOptionButton.Selected
 ms.assetid: 039f057c-28f1-ea6b-1fdc-3ee601472fd7

@@ -3,7 +3,6 @@ title: BorderArts.Item method (Publisher)
 keywords: vbapb10.chm7733248
 f1_keywords:
 - vbapb10.chm7733248
-ms.prod: publisher
 api_name:
 - Publisher.BorderArts.Item
 ms.assetid: 64c79cf8-dfbf-9979-27d9-367603f5bf9a

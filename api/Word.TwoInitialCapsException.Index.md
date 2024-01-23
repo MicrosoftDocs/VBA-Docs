@@ -3,7 +3,6 @@ title: TwoInitialCapsException.Index property (Word)
 keywords: vbawd10.chm155385857
 f1_keywords:
 - vbawd10.chm155385857
-ms.prod: word
 api_name:
 - Word.TwoInitialCapsException.Index
 ms.assetid: e49dfa05-1c54-19a3-6621-029536fa91dd

@@ -3,7 +3,6 @@ title: FileConverter.Parent property (Word)
 keywords: vbawd10.chm161022954
 f1_keywords:
 - vbawd10.chm161022954
-ms.prod: word
 api_name:
 - Word.FileConverter.Parent
 ms.assetid: 4b877ed9-a5a1-635b-e02b-528ad55ef769

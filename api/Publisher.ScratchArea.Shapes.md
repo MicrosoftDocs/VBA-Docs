@@ -3,7 +3,6 @@ title: ScratchArea.Shapes property (Publisher)
 keywords: vbapb10.chm1179651
 f1_keywords:
 - vbapb10.chm1179651
-ms.prod: publisher
 api_name:
 - Publisher.ScratchArea.Shapes
 ms.assetid: 0d867fec-42f4-fd61-c6c3-745be955e5d2

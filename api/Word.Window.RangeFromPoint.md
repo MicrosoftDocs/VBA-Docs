@@ -3,7 +3,6 @@ title: Window.RangeFromPoint method (Word)
 keywords: vbawd10.chm157417582
 f1_keywords:
 - vbawd10.chm157417582
-ms.prod: word
 api_name:
 - Word.Window.RangeFromPoint
 ms.assetid: 27c6ed94-0b47-3e0d-701f-09e72b115910

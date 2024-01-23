@@ -3,7 +3,6 @@ title: Document.Variables property (Word)
 keywords: vbawd10.chm158007322
 f1_keywords:
 - vbawd10.chm158007322
-ms.prod: word
 api_name:
 - Word.Document.Variables
 ms.assetid: 93af7b84-f172-6ebd-2147-e7ebc92449c5

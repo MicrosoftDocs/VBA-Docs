@@ -1,6 +1,5 @@
 ---
 title: CoAuthLocks object (Word)
-ms.prod: word
 api_name:
 - Word.CoAuthLocks
 ms.assetid: 589763ed-8463-6988-3817-9c2152506d16

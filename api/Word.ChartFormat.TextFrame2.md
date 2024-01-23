@@ -3,7 +3,6 @@ title: ChartFormat.TextFrame2 property (Word)
 keywords: vbawd10.chm203030535
 f1_keywords:
 - vbawd10.chm203030535
-ms.prod: word
 api_name:
 - Word.ChartFormat.TextFrame2
 ms.assetid: 5fec4ae4-e059-2c2f-3689-c97c4e083c4d

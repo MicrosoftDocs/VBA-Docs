@@ -3,7 +3,6 @@ title: Selection.ToggleCharacterCode method (Word)
 keywords: vbawd10.chm158663668
 f1_keywords:
 - vbawd10.chm158663668
-ms.prod: word
 api_name:
 - Word.Selection.ToggleCharacterCode
 ms.assetid: e59774bc-cdd5-577b-8175-f988a18c0538

@@ -3,7 +3,6 @@ title: ListFormat.CanContinuePreviousList method (Word)
 keywords: vbawd10.chm163578040
 f1_keywords:
 - vbawd10.chm163578040
-ms.prod: word
 api_name:
 - Word.ListFormat.CanContinuePreviousList
 ms.assetid: 5c9a91e4-999e-d976-126d-673831f2ecaf

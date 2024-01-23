@@ -3,7 +3,6 @@ title: ChartGroup.DownBars property (Word)
 keywords: vbawd10.chm263454724
 f1_keywords:
 - vbawd10.chm263454724
-ms.prod: word
 api_name:
 - Word.ChartGroup.DownBars
 ms.assetid: ee556f66-cce6-aa8d-a837-ee8b0b93ba89

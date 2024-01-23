@@ -3,7 +3,6 @@ title: OMathMatRow.RowIndex property (Word)
 keywords: vbawd10.chm196477032
 f1_keywords:
 - vbawd10.chm196477032
-ms.prod: word
 api_name:
 - Word.OMathMatRow.RowIndex
 ms.assetid: 93a38972-06ad-b3f3-9886-67003e5206a8

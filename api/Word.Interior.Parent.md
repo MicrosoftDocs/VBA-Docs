@@ -3,7 +3,6 @@ title: Interior.Parent property (Word)
 keywords: vbawd10.chm2818198
 f1_keywords:
 - vbawd10.chm2818198
-ms.prod: word
 api_name:
 - Word.Interior.Parent
 ms.assetid: 3772346e-e485-7d0d-60b6-dd1f006c9031

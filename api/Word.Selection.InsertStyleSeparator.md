@@ -3,7 +3,6 @@ title: Selection.InsertStyleSeparator method (Word)
 keywords: vbawd10.chm158663676
 f1_keywords:
 - vbawd10.chm158663676
-ms.prod: word
 api_name:
 - Word.Selection.InsertStyleSeparator
 ms.assetid: cbfd7a55-4048-0e16-eeb2-e8d8d167a769

@@ -3,7 +3,6 @@ title: ShapeRange.Parent property (Publisher)
 keywords: vbapb10.chm2293762
 f1_keywords:
 - vbapb10.chm2293762
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Parent
 ms.assetid: 3dd8c1bf-e204-422a-2719-12ace0550702

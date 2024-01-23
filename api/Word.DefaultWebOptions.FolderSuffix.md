@@ -3,7 +3,6 @@ title: DefaultWebOptions.FolderSuffix property (Word)
 keywords: vbawd10.chm165871632
 f1_keywords:
 - vbawd10.chm165871632
-ms.prod: word
 api_name:
 - Word.DefaultWebOptions.FolderSuffix
 ms.assetid: 3690ef57-7c06-6884-e7ac-3ef0a088e4f0

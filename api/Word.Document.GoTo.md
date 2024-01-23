@@ -3,7 +3,6 @@ title: Document.GoTo method (Word)
 keywords: vbawd10.chm158007411
 f1_keywords:
 - vbawd10.chm158007411
-ms.prod: word
 api_name:
 - Word.Document.GoTo
 ms.assetid: b03156a8-71a3-af2a-958e-79e1307e1af3

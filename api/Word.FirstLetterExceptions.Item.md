@@ -3,7 +3,6 @@ title: FirstLetterExceptions.Item method (Word)
 keywords: vbawd10.chm155582464
 f1_keywords:
 - vbawd10.chm155582464
-ms.prod: word
 api_name:
 - Word.FirstLetterExceptions.Item
 ms.assetid: 082d4a00-d73f-1793-261d-417a9435e674

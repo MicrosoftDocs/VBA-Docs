@@ -3,7 +3,6 @@ title: Styles.Item method (Word)
 keywords: vbawd10.chm153944064
 f1_keywords:
 - vbawd10.chm153944064
-ms.prod: word
 api_name:
 - Word.Styles.Item
 ms.assetid: efe843f3-d2d1-3bdc-c5d5-1255d50f8d95

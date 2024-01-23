@@ -3,7 +3,6 @@ title: Document.ListParagraphs property (Word)
 keywords: vbawd10.chm158007380
 f1_keywords:
 - vbawd10.chm158007380
-ms.prod: word
 api_name:
 - Word.Document.ListParagraphs
 ms.assetid: 6e34e592-e745-95cd-8ffc-cd25f75db956

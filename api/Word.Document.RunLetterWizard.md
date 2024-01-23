@@ -3,7 +3,6 @@ title: Document.RunLetterWizard method (Word)
 keywords: vbawd10.chm158007419
 f1_keywords:
 - vbawd10.chm158007419
-ms.prod: word
 api_name:
 - Word.Document.RunLetterWizard
 ms.assetid: 7da6e2b9-607a-0d3e-7d0d-762a8900a486

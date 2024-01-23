@@ -3,7 +3,6 @@ title: TableOfFigures.IncludePageNumbers property (Word)
 keywords: vbawd10.chm153157639
 f1_keywords:
 - vbawd10.chm153157639
-ms.prod: word
 api_name:
 - Word.TableOfFigures.IncludePageNumbers
 ms.assetid: cc363160-c1bd-b6a2-75e0-4c201db57ded

@@ -3,7 +3,6 @@ title: FindReplace.Forward property (Publisher)
 keywords: vbapb10.chm8323078
 f1_keywords:
 - vbapb10.chm8323078
-ms.prod: publisher
 api_name:
 - Publisher.FindReplace.Forward
 ms.assetid: a1a0046c-81be-62d6-8739-5dc843d249bc

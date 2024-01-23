@@ -3,7 +3,6 @@ title: HTMLDivision.RightIndent property (Word)
 keywords: vbawd10.chm166133764
 f1_keywords:
 - vbawd10.chm166133764
-ms.prod: word
 api_name:
 - Word.HTMLDivision.RightIndent
 ms.assetid: d691b48c-343f-5b4a-666b-83cae994b8b9

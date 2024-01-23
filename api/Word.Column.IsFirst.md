@@ -3,7 +3,6 @@ title: Column.IsFirst property (Word)
 keywords: vbawd10.chm156172292
 f1_keywords:
 - vbawd10.chm156172292
-ms.prod: word
 api_name:
 - Word.Column.IsFirst
 ms.assetid: 415048d5-b7a8-67e5-674b-19ca8ba93d8a

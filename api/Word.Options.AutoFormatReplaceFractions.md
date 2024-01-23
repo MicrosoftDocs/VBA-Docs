@@ -3,7 +3,6 @@ title: Options.AutoFormatReplaceFractions property (Word)
 keywords: vbawd10.chm162988289
 f1_keywords:
 - vbawd10.chm162988289
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatReplaceFractions
 ms.assetid: e6ee4446-6ec0-766d-cb73-1fdbdb755118

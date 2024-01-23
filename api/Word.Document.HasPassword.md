@@ -3,7 +3,6 @@ title: Document.HasPassword property (Word)
 keywords: vbawd10.chm158007383
 f1_keywords:
 - vbawd10.chm158007383
-ms.prod: word
 api_name:
 - Word.Document.HasPassword
 ms.assetid: 4234b91c-b82c-605a-5d6c-ff18aadc3689

@@ -3,7 +3,6 @@ title: Font.Application property (Publisher)
 keywords: vbapb10.chm5373953
 f1_keywords:
 - vbapb10.chm5373953
-ms.prod: publisher
 api_name:
 - Publisher.Font.Application
 ms.assetid: e4721e0f-c591-3ac6-319d-2e753f1b375a

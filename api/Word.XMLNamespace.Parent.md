@@ -3,7 +3,6 @@ title: XMLNamespace.Parent property (Word)
 keywords: vbawd10.chm2294762
 f1_keywords:
 - vbawd10.chm2294762
-ms.prod: word
 api_name:
 - Word.XMLNamespace.Parent
 ms.assetid: 32c43c04-e5cd-9fdd-d489-4f0339112991

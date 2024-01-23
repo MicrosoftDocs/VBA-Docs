@@ -1,6 +1,5 @@
 ---
 title: WdMailMergeState enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdMailMergeState
 ms.assetid: b8968e19-07fc-cd5f-fbf4-3204f4946f34

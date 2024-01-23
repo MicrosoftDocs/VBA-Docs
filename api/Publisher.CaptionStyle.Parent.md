@@ -1,6 +1,5 @@
 ---
 title: CaptionStyle.Parent property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.CaptionStyle.Parent
 ms.assetid: b159947a-fe70-0737-e156-a5f9b413796c

@@ -3,7 +3,6 @@ title: Border.ArtStyle property (Word)
 keywords: vbawd10.chm154861573
 f1_keywords:
 - vbawd10.chm154861573
-ms.prod: word
 api_name:
 - Word.Border.ArtStyle
 ms.assetid: 999569c0-96de-0c6c-462c-ec32804f8801

@@ -3,7 +3,6 @@ title: Application.MergeDocuments method (Word)
 keywords: vbawd10.chm158335447
 f1_keywords:
 - vbawd10.chm158335447
-ms.prod: word
 api_name:
 - Word.Application.MergeDocuments
 ms.assetid: 445fe4df-a41a-6be0-f646-d310c71ec25e

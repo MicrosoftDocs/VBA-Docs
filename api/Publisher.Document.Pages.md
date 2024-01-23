@@ -3,7 +3,6 @@ title: Document.Pages property (Publisher)
 keywords: vbapb10.chm196631
 f1_keywords:
 - vbapb10.chm196631
-ms.prod: publisher
 api_name:
 - Publisher.Document.Pages
 ms.assetid: 2bb3e529-a459-b37c-c9ae-4cc059954a63

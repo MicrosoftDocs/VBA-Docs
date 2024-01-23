@@ -3,7 +3,6 @@ title: PrintableRect.Height property (Publisher)
 keywords: vbapb10.chm7536646
 f1_keywords:
 - vbapb10.chm7536646
-ms.prod: publisher
 api_name:
 - Publisher.PrintableRect.Height
 ms.assetid: 55d07c00-ee9f-c177-3277-9355618dce6d

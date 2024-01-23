@@ -3,7 +3,6 @@ title: TickLabels.Depth property (Word)
 keywords: vbawd10.chm167051281
 f1_keywords:
 - vbawd10.chm167051281
-ms.prod: word
 api_name:
 - Word.TickLabels.Depth
 ms.assetid: d242d37a-a056-4833-2257-8c6c42e48d52

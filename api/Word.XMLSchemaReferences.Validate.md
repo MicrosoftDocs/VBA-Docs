@@ -3,7 +3,6 @@ title: XMLSchemaReferences.Validate method (Word)
 keywords: vbawd10.chm116129892
 f1_keywords:
 - vbawd10.chm116129892
-ms.prod: word
 api_name:
 - Word.XMLSchemaReferences.Validate
 ms.assetid: 66e4ea2d-e26c-be4c-fe1d-d240449f30f3

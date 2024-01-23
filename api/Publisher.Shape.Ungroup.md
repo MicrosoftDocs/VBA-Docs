@@ -3,7 +3,6 @@ title: Shape.Ungroup method (Publisher)
 keywords: vbapb10.chm2228265
 f1_keywords:
 - vbapb10.chm2228265
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Ungroup
 ms.assetid: 2edd16fc-d607-856f-0524-bdef1e58a9da

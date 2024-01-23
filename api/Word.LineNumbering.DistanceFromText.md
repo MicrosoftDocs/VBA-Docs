@@ -3,7 +3,6 @@ title: LineNumbering.DistanceFromText property (Word)
 keywords: vbawd10.chm158466150
 f1_keywords:
 - vbawd10.chm158466150
-ms.prod: word
 api_name:
 - Word.LineNumbering.DistanceFromText
 ms.assetid: cc541a06-5216-1a7a-9db1-172c94272d31

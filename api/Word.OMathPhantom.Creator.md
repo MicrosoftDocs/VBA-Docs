@@ -3,7 +3,6 @@ title: OMathPhantom.Creator property (Word)
 keywords: vbawd10.chm88146021
 f1_keywords:
 - vbawd10.chm88146021
-ms.prod: word
 api_name:
 - Word.OMathPhantom.Creator
 ms.assetid: 26dc4410-91c5-2892-fac5-4001c900f24b

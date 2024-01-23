@@ -3,7 +3,6 @@ title: Document.BeginCustomUndoAction method (Publisher)
 keywords: vbapb10.chm196709
 f1_keywords:
 - vbapb10.chm196709
-ms.prod: publisher
 api_name:
 - Publisher.Document.BeginCustomUndoAction
 ms.assetid: 316f443e-6782-594b-b955-f5ab60140f6a

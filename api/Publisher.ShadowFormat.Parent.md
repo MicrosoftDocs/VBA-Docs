@@ -3,7 +3,6 @@ title: ShadowFormat.Parent property (Publisher)
 keywords: vbapb10.chm3670018
 f1_keywords:
 - vbapb10.chm3670018
-ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.Parent
 ms.assetid: 3533c15f-413c-eaf8-a6b0-374b197ef97b

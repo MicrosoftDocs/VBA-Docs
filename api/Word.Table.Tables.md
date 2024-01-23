@@ -3,7 +3,6 @@ title: Table.Tables property (Word)
 keywords: vbawd10.chm156303467
 f1_keywords:
 - vbawd10.chm156303467
-ms.prod: word
 api_name:
 - Word.Table.Tables
 ms.assetid: aba332ae-49aa-4575-8f33-66ca0c647d26

@@ -3,7 +3,6 @@ title: Shape.TextWrap property (Publisher)
 keywords: vbapb10.chm2228352
 f1_keywords:
 - vbapb10.chm2228352
-ms.prod: publisher
 api_name:
 - Publisher.Shape.TextWrap
 ms.assetid: e641d9a5-5b63-06d0-a0c3-d3feb1910159

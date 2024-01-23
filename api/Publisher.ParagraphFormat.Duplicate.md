@@ -3,7 +3,6 @@ title: ParagraphFormat.Duplicate method (Publisher)
 keywords: vbapb10.chm5439510
 f1_keywords:
 - vbapb10.chm5439510
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.Duplicate
 ms.assetid: 83156999-7867-05c2-9e85-4cc0f580ac6e

@@ -3,7 +3,6 @@ title: LinkFormat.Application property (Publisher)
 keywords: vbapb10.chm4390913
 f1_keywords:
 - vbapb10.chm4390913
-ms.prod: publisher
 api_name:
 - Publisher.LinkFormat.Application
 ms.assetid: 36f7d150-9777-f4d2-f077-867a8dc0ef42

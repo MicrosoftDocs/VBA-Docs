@@ -3,7 +3,6 @@ title: UpBars.Format property (Word)
 keywords: vbawd10.chm180944903
 f1_keywords:
 - vbawd10.chm180944903
-ms.prod: word
 api_name:
 - Word.UpBars.Format
 ms.assetid: 98e8bcf9-ad87-701e-36c4-f71c9b23c9ec

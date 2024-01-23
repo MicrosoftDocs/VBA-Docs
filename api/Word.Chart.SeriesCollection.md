@@ -1,6 +1,5 @@
 ---
 title: Chart.SeriesCollection method (Word)
-ms.prod: word
 api_name:
 - Word.Chart.SeriesCollection
 ms.assetid: b9688aef-839a-b45b-1596-d8f02225aa05

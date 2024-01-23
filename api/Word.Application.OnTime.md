@@ -3,7 +3,6 @@ title: Application.OnTime method (Word)
 keywords: vbawd10.chm158335326
 f1_keywords:
 - vbawd10.chm158335326
-ms.prod: word
 api_name:
 - Word.Application.OnTime
 ms.assetid: 732d03cc-9dd6-5961-9763-048f72dea4d2

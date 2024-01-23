@@ -3,7 +3,6 @@ title: Shape.HasTable property (Publisher)
 keywords: vbapb10.chm2228321
 f1_keywords:
 - vbapb10.chm2228321
-ms.prod: publisher
 api_name:
 - Publisher.Shape.HasTable
 ms.assetid: 6f544d9c-00a4-3047-fbfb-6f1835bbe2c6

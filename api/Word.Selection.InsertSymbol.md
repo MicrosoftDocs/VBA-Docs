@@ -3,7 +3,6 @@ title: Selection.InsertSymbol method (Word)
 keywords: vbawd10.chm158662820
 f1_keywords:
 - vbawd10.chm158662820
-ms.prod: word
 api_name:
 - Word.Selection.InsertSymbol
 ms.assetid: 13f18c60-89e7-3ba7-1c4c-928b28f5e72a

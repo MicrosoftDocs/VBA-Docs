@@ -3,7 +3,6 @@ title: Document.DeleteAllEditableRanges method (Word)
 keywords: vbawd10.chm158007765
 f1_keywords:
 - vbawd10.chm158007765
-ms.prod: word
 api_name:
 - Word.Document.DeleteAllEditableRanges
 ms.assetid: 021456eb-516c-5616-3e32-19d0b9908aef

@@ -3,7 +3,6 @@ title: Tasks.ExitWindows method (Word)
 keywords: vbawd10.chm159580163
 f1_keywords:
 - vbawd10.chm159580163
-ms.prod: word
 api_name:
 - Word.Tasks.ExitWindows
 ms.assetid: c2af5fdf-948d-c9cb-1a6a-8cde29ab630c

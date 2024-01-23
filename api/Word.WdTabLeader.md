@@ -1,6 +1,5 @@
 ---
 title: WdTabLeader enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdTabLeader
 ms.assetid: 055e8d2d-86ec-cca6-6d73-6c65559974b8

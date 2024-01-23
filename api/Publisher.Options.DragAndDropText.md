@@ -3,7 +3,6 @@ title: Options.DragAndDropText property (Publisher)
 keywords: vbapb10.chm1048584
 f1_keywords:
 - vbapb10.chm1048584
-ms.prod: publisher
 api_name:
 - Publisher.Options.DragAndDropText
 ms.assetid: 55fb68e8-4ddc-6866-00d8-bdd6a1e25ec3

@@ -3,7 +3,6 @@ title: LetterContent.RecipientGender property (Word)
 keywords: vbawd10.chm161546367
 f1_keywords:
 - vbawd10.chm161546367
-ms.prod: word
 api_name:
 - Word.LetterContent.RecipientGender
 ms.assetid: 6997df77-8869-9136-4115-13c9d3928cd5

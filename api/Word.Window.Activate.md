@@ -3,7 +3,6 @@ title: Window.Activate method (Word)
 keywords: vbawd10.chm157417572
 f1_keywords:
 - vbawd10.chm157417572
-ms.prod: word
 api_name:
 - Word.Window.Activate
 ms.assetid: d068e7a1-edb8-b244-a315-be1f92471f4c

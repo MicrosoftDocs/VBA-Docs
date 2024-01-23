@@ -3,7 +3,6 @@ title: TwoInitialCapsExceptions.Count property (Word)
 keywords: vbawd10.chm155451393
 f1_keywords:
 - vbawd10.chm155451393
-ms.prod: word
 api_name:
 - Word.TwoInitialCapsExceptions.Count
 ms.assetid: a8963741-2021-64e6-2ebe-e8d118d65fb9

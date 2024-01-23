@@ -3,7 +3,6 @@ title: ChartBorder.ColorIndex property (Word)
 keywords: vbawd10.chm61014018
 f1_keywords:
 - vbawd10.chm61014018
-ms.prod: word
 api_name:
 - Word.ChartBorder.ColorIndex
 ms.assetid: e9457184-7100-9482-398e-cc7f11e4b05c

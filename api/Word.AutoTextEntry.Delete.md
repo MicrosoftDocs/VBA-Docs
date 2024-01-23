@@ -3,7 +3,6 @@ title: AutoTextEntry.Delete method (Word)
 keywords: vbawd10.chm154533989
 f1_keywords:
 - vbawd10.chm154533989
-ms.prod: word
 api_name:
 - Word.AutoTextEntry.Delete
 ms.assetid: 066f15d5-48e5-e33d-2ad2-d575f33b7ae0

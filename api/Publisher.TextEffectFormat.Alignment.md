@@ -3,7 +3,6 @@ title: TextEffectFormat.Alignment property (Publisher)
 keywords: vbapb10.chm3735808
 f1_keywords:
 - vbapb10.chm3735808
-ms.prod: publisher
 api_name:
 - Publisher.TextEffectFormat.Alignment
 ms.assetid: f569ea7c-9a9f-f50e-e88c-610da0adf153

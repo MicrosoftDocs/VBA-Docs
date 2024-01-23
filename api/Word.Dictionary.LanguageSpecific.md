@@ -3,7 +3,6 @@ title: Dictionary.LanguageSpecific property (Word)
 keywords: vbawd10.chm162332677
 f1_keywords:
 - vbawd10.chm162332677
-ms.prod: word
 api_name:
 - Word.Dictionary.LanguageSpecific
 ms.assetid: 479eefb9-bd50-298b-635d-945ee7848600

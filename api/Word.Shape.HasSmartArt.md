@@ -3,7 +3,6 @@ title: Shape.HasSmartArt property (Word)
 keywords: vbawd10.chm161480910
 f1_keywords:
 - vbawd10.chm161480910
-ms.prod: word
 api_name:
 - Word.Shape.HasSmartArt
 ms.assetid: 83aba591-2a42-3ba3-3e73-48ba249b2f7c

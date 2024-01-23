@@ -3,7 +3,6 @@ title: CustomLabel.SideMargin property (Word)
 keywords: vbawd10.chm152371204
 f1_keywords:
 - vbawd10.chm152371204
-ms.prod: word
 api_name:
 - Word.CustomLabel.SideMargin
 ms.assetid: bd511d0e-36fc-0fd1-57a2-47d9f0a911dc

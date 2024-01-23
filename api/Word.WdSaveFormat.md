@@ -1,6 +1,5 @@
 ---
 title: WdSaveFormat enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdSaveFormat
 ms.assetid: eb8d5689-9b4b-8d09-321c-1a3c1ee777e9

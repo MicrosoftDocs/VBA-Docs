@@ -3,7 +3,6 @@ title: CoAuthors.Count property (Word)
 keywords: vbawd10.chm179961857
 f1_keywords:
 - vbawd10.chm179961857
-ms.prod: word
 api_name:
 - Word.CoAuthors.Count
 ms.assetid: 452917e0-133f-9bba-0e17-041370e0cb12

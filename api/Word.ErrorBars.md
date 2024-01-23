@@ -3,7 +3,6 @@ title: ErrorBars object (Word)
 keywords: vbawd10.chm1142
 f1_keywords:
 - vbawd10.chm1142
-ms.prod: word
 api_name:
 - Word.ErrorBars
 ms.assetid: 33949dd1-48fd-9fff-0bec-1439b65d8e04

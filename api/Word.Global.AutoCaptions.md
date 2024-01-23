@@ -3,7 +3,6 @@ title: Global.AutoCaptions property (Word)
 keywords: vbawd10.chm163119125
 f1_keywords:
 - vbawd10.chm163119125
-ms.prod: word
 api_name:
 - Word.Global.AutoCaptions
 ms.assetid: 88fac2d9-ac54-6f8a-aefd-100438a0ae1e

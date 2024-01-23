@@ -3,7 +3,6 @@ title: Characters.Item method (Word)
 keywords: vbawd10.chm157089792
 f1_keywords:
 - vbawd10.chm157089792
-ms.prod: word
 api_name:
 - Word.Characters.Item
 ms.assetid: 43b5513c-401c-fde6-2816-c7ad674c9829

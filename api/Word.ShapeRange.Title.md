@@ -3,7 +3,6 @@ title: ShapeRange.Title property (Word)
 keywords: vbawd10.chm162857166
 f1_keywords:
 - vbawd10.chm162857166
-ms.prod: word
 api_name:
 - Word.ShapeRange.Title
 ms.assetid: 0ee66d0b-9c32-7975-2e50-3205a15730a5

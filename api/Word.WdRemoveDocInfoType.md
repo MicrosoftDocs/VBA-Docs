@@ -1,6 +1,5 @@
 ---
 title: WdRemoveDocInfoType enumeration (Word)
-ms.prod: word
 api_name:
 - Word.WdRemoveDocInfoType
 ms.assetid: 5c3fb81d-3db9-2e9c-5b46-efe074b948c1

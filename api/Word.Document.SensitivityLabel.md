@@ -1,6 +1,5 @@
 ---
 title: Document.SensitivityLabel property (Word)
-ms.prod: word
 api_name:
 - Word.Document.SensitivityLabel
 ms.assetid: 89054432-f25e-4861-aee5-ce5468ed78c5

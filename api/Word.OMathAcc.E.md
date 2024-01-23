@@ -3,7 +3,6 @@ title: OMathAcc.E property (Word)
 keywords: vbawd10.chm235208807
 f1_keywords:
 - vbawd10.chm235208807
-ms.prod: word
 api_name:
 - Word.OMathAcc.E
 ms.assetid: 84ce8134-3c49-deeb-2702-0bd6b2528b29

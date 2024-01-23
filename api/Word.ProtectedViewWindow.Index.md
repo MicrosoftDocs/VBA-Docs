@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Index property (Word)
 keywords: vbawd10.chm231735304
 f1_keywords:
 - vbawd10.chm231735304
-ms.prod: word
 api_name:
 - Word.ProtectedViewWindow.Index
 ms.assetid: cc31eca5-3617-1117-4dac-da1e5d0fcd9b

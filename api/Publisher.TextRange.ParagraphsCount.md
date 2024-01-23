@@ -3,7 +3,6 @@ title: TextRange.ParagraphsCount property (Publisher)
 keywords: vbapb10.chm5308501
 f1_keywords:
 - vbapb10.chm5308501
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.ParagraphsCount
 ms.assetid: ba9cf774-b10f-3585-fc11-4b9ab6dc602d

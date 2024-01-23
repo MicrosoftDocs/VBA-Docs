@@ -3,7 +3,6 @@ title: CalloutFormat.Drop property (Word)
 keywords: vbawd10.chm163905641
 f1_keywords:
 - vbawd10.chm163905641
-ms.prod: word
 api_name:
 - Word.CalloutFormat.Drop
 ms.assetid: e68a15a5-a976-bb70-f11f-f7eec126bb0a

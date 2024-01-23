@@ -3,7 +3,6 @@ title: Category.Parent property (Word)
 keywords: vbawd10.chm190710762
 f1_keywords:
 - vbawd10.chm190710762
-ms.prod: word
 api_name:
 - Word.Category.Parent
 ms.assetid: 0b7c28a3-0969-2871-e433-f0e34f7ed2b0

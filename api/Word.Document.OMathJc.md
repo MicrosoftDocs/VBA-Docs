@@ -3,7 +3,6 @@ title: Document.OMathJc property (Word)
 keywords: vbawd10.chm158007826
 f1_keywords:
 - vbawd10.chm158007826
-ms.prod: word
 api_name:
 - Word.Document.OMathJc
 ms.assetid: 5ad290b1-4787-1390-d2fa-0b2e0fc0eabc

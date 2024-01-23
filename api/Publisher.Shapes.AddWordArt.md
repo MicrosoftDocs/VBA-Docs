@@ -3,7 +3,6 @@ title: Shapes.AddWordArt method (Publisher)
 keywords: vbapb10.chm2162761
 f1_keywords:
 - vbapb10.chm2162761
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddWordArt
 ms.assetid: 8ff83baa-5d88-5f80-3a69-5f712ba5e583

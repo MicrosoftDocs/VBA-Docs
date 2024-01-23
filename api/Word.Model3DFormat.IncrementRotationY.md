@@ -3,7 +3,6 @@ title: Model3DFormat.IncrementRotationY method (Word)
 keywords: vbawd10.chm151584881
 f1_keywords:
 - vbawd10.chm151584881
-ms.prod: word
 api_name:
 - Word.Model3DFormat.IncrementRotationY
 ms.date: 04/11/2019

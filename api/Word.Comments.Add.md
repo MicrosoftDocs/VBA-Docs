@@ -3,7 +3,6 @@ title: Comments.Add method (Word)
 keywords: vbawd10.chm155189252
 f1_keywords:
 - vbawd10.chm155189252
-ms.prod: word
 api_name:
 - Word.Comments.Add
 ms.assetid: bf3e2f9b-b7d6-f669-c82a-70ff58aaedfe

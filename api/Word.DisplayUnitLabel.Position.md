@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Position property (Word)
 keywords: vbawd10.chm94570119
 f1_keywords:
 - vbawd10.chm94570119
-ms.prod: word
 api_name:
 - Word.DisplayUnitLabel.Position
 ms.assetid: d3be656e-2b79-3fba-f8d4-9f3ce381c4b4

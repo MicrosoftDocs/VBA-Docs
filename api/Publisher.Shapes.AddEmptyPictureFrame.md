@@ -3,7 +3,6 @@ title: Shapes.AddEmptyPictureFrame method (Publisher)
 keywords: vbapb10.chm2162757
 f1_keywords:
 - vbapb10.chm2162757
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddEmptyPictureFrame
 ms.assetid: e473dea8-6d94-e9e4-ddb6-27c1fc8930e8

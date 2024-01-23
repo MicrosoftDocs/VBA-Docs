@@ -3,7 +3,6 @@ title: PictureFormat.FitFrame method (Publisher)
 keywords: vbapb10.chm3604805
 f1_keywords:
 - vbapb10.chm3604805
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.FitFrame
 ms.assetid: d43376ea-fd04-c8a1-011c-b2ea1be644d3

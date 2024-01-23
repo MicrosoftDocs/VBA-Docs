@@ -3,7 +3,6 @@ title: Bookmark.StoryType property (Word)
 keywords: vbawd10.chm157810694
 f1_keywords:
 - vbawd10.chm157810694
-ms.prod: word
 api_name:
 - Word.Bookmark.StoryType
 ms.assetid: 378a37f5-9ffd-1d11-4a59-b7f54f65e96b

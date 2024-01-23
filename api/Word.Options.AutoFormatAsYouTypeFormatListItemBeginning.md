@@ -3,7 +3,6 @@ title: Options.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 keywords: vbawd10.chm162988301
 f1_keywords:
 - vbawd10.chm162988301
-ms.prod: word
 api_name:
 - Word.Options.AutoFormatAsYouTypeFormatListItemBeginning
 ms.assetid: 7fc572d7-59f2-cb23-4609-c5ba6af9065c

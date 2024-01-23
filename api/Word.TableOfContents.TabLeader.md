@@ -3,7 +3,6 @@ title: TableOfContents.TabLeader property (Word)
 keywords: vbawd10.chm152240138
 f1_keywords:
 - vbawd10.chm152240138
-ms.prod: word
 api_name:
 - Word.TableOfContents.TabLeader
 ms.assetid: aba91b67-33c6-fe8c-0a13-4d5692256091

@@ -3,7 +3,6 @@ title: XSLTransforms.Application property (Word)
 keywords: vbawd10.chm99222504
 f1_keywords:
 - vbawd10.chm99222504
-ms.prod: word
 ms.assetid: fcbeb849-da2d-d85c-ea67-4bafe9a7dd6c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

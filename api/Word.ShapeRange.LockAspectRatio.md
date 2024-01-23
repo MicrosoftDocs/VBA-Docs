@@ -3,7 +3,6 @@ title: ShapeRange.LockAspectRatio property (Word)
 keywords: vbawd10.chm162857073
 f1_keywords:
 - vbawd10.chm162857073
-ms.prod: word
 api_name:
 - Word.ShapeRange.LockAspectRatio
 ms.assetid: a46aad1a-9e70-a312-37e3-7c272dc98045

@@ -3,7 +3,6 @@ title: Range.AutoFormat method (Word)
 keywords: vbawd10.chm157155523
 f1_keywords:
 - vbawd10.chm157155523
-ms.prod: word
 api_name:
 - Word.Range.AutoFormat
 ms.assetid: 09d53c59-bcd7-6d7a-cc48-9b50017a5912

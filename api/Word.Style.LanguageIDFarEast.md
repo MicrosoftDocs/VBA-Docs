@@ -3,7 +3,6 @@ title: Style.LanguageIDFarEast property (Word)
 keywords: vbawd10.chm153878544
 f1_keywords:
 - vbawd10.chm153878544
-ms.prod: word
 api_name:
 - Word.Style.LanguageIDFarEast
 ms.assetid: f36c06a7-82e8-f934-9566-4c1275ed3e8c

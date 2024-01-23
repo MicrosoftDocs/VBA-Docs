@@ -3,7 +3,6 @@ title: Selection.CopyAsPicture method (Word)
 keywords: vbawd10.chm158662823
 f1_keywords:
 - vbawd10.chm158662823
-ms.prod: word
 api_name:
 - Word.Selection.CopyAsPicture
 ms.assetid: f5c73e30-1601-62a7-ec0e-2dc49c6f51fe

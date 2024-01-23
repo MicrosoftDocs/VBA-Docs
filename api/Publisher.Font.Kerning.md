@@ -3,7 +3,6 @@ title: Font.Kerning property (Publisher)
 keywords: vbapb10.chm5373976
 f1_keywords:
 - vbapb10.chm5373976
-ms.prod: publisher
 api_name:
 - Publisher.Font.Kerning
 ms.assetid: 756fe3fa-9bf3-be16-2dd1-5b8fb0ec6496

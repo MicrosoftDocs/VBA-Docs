@@ -3,7 +3,6 @@ title: Chart.ChartWizard method (Word)
 keywords: vbawd10.chm79364162
 f1_keywords:
 - vbawd10.chm79364162
-ms.prod: word
 api_name:
 - Word.Chart.ChartWizard
 ms.assetid: 5c4c4cb1-3ef7-e3c3-d441-6f92cb8e7771

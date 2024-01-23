@@ -3,7 +3,6 @@ title: CustomProperty.Parent property (Word)
 keywords: vbawd10.chm232784874
 f1_keywords:
 - vbawd10.chm232784874
-ms.prod: word
 api_name:
 - Word.CustomProperty.Parent
 ms.assetid: 132addb3-7981-f26c-b5e6-dfd48a4eab15

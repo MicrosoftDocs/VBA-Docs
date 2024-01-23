@@ -3,7 +3,6 @@ title: TextRange.Copy method (Publisher)
 keywords: vbapb10.chm5308480
 f1_keywords:
 - vbapb10.chm5308480
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Copy
 ms.assetid: e0d92492-fa0e-9424-471d-09866402702c

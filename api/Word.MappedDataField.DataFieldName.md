@@ -3,7 +3,6 @@ title: MappedDataField.DataFieldName property (Word)
 keywords: vbawd10.chm107544578
 f1_keywords:
 - vbawd10.chm107544578
-ms.prod: word
 api_name:
 - Word.MappedDataField.DataFieldName
 ms.assetid: 10356bc7-1635-8c83-984c-72a332740d89

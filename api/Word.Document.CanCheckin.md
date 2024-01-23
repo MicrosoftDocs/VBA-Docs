@@ -3,7 +3,6 @@ title: Document.CanCheckin method (Word)
 keywords: vbawd10.chm158007647
 f1_keywords:
 - vbawd10.chm158007647
-ms.prod: word
 api_name:
 - Word.Document.CanCheckin
 ms.assetid: 7021b14b-3e45-9850-bc59-d76c267f2934

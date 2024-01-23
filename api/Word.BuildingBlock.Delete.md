@@ -3,7 +3,6 @@ title: BuildingBlock.Delete method (Word)
 keywords: vbawd10.chm203620453
 f1_keywords:
 - vbawd10.chm203620453
-ms.prod: word
 api_name:
 - Word.BuildingBlock.Delete
 ms.assetid: 8aac9cbb-67d6-e915-82ac-e3abd6f15985

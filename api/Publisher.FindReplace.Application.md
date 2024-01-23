@@ -3,7 +3,6 @@ title: FindReplace.Application property (Publisher)
 keywords: vbapb10.chm8323073
 f1_keywords:
 - vbapb10.chm8323073
-ms.prod: publisher
 api_name:
 - Publisher.FindReplace.Application
 ms.assetid: 9712b527-a24d-a5fd-122b-12846973692c
