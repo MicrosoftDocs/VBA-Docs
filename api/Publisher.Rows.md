@@ -3,7 +3,6 @@ title: Rows object (Publisher)
 keywords: vbapb10.chm4980735
 f1_keywords:
 - vbapb10.chm4980735
-ms.prod: publisher
 api_name:
 - Publisher.Rows
 ms.assetid: 31b04a41-9005-8f51-87ab-426af0e901ed

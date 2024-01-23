@@ -3,7 +3,6 @@ title: LayoutGuides.HorizontalBaseLineOffset property (Publisher)
 keywords: vbapb10.chm1114131
 f1_keywords:
 - vbapb10.chm1114131
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineOffset
 ms.assetid: b80d2114-8132-db13-a50d-ce904dbe5919

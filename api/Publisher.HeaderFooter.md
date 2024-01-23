@@ -3,7 +3,6 @@ title: HeaderFooter object (Publisher)
 keywords: vbapb10.chm7536639
 f1_keywords:
 - vbapb10.chm7536639
-ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter
 ms.assetid: d38e5e7e-45d7-667b-b6f2-9ad8e764af79

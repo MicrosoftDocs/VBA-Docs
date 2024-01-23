@@ -3,7 +3,6 @@ title: ShapeRange.OLEFormat property (Publisher)
 keywords: vbapb10.chm2293863
 f1_keywords:
 - vbapb10.chm2293863
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.OLEFormat
 ms.assetid: 237b51e8-dced-3e21-d257-410121107a63

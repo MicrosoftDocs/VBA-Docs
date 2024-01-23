@@ -3,7 +3,6 @@ title: ColorFormat.TintAndShade property (Publisher)
 keywords: vbapb10.chm2555912
 f1_keywords:
 - vbapb10.chm2555912
-ms.prod: publisher
 api_name:
 - Publisher.ColorFormat.TintAndShade
 ms.assetid: 1c4897e0-ac55-08a8-8c43-dbd25d097ecc

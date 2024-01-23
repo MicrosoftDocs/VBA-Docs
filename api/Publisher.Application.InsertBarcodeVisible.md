@@ -3,7 +3,6 @@ title: Application.InsertBarcodeVisible property (Publisher)
 keywords: vbapb10.chm131187
 f1_keywords:
 - vbapb10.chm131187
-ms.prod: publisher
 api_name:
 - Publisher.Application.InsertBarcodeVisible
 ms.assetid: 27b7f2aa-e7d7-5024-6c4a-75f2f275e924

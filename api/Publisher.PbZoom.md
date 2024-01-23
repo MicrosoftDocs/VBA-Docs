@@ -3,7 +3,6 @@ title: PbZoom enumeration (Publisher)
 keywords: vbapb10.chm65545
 f1_keywords:
 - vbapb10.chm65545
-ms.prod: publisher
 api_name:
 - Publisher.PbZoom
 ms.assetid: 05728fea-d9a1-0385-b31f-55e73ff5240b

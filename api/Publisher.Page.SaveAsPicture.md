@@ -3,7 +3,6 @@ title: Page.SaveAsPicture method (Publisher)
 keywords: vbapb10.chm393272
 f1_keywords:
 - vbapb10.chm393272
-ms.prod: publisher
 api_name:
 - Publisher.Page.SaveAsPicture
 ms.assetid: 9b118126-e072-9516-9863-14ea60264f01

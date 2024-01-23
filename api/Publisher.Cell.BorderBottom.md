@@ -3,7 +3,6 @@ title: Cell.BorderBottom property (Publisher)
 keywords: vbapb10.chm5111811
 f1_keywords:
 - vbapb10.chm5111811
-ms.prod: publisher
 api_name:
 - Publisher.Cell.BorderBottom
 ms.assetid: 78892893-a1c9-5151-fb7b-1449c01e0bd4

@@ -3,7 +3,6 @@ title: MasterPages.Add method (Publisher)
 keywords: vbapb10.chm589828
 f1_keywords:
 - vbapb10.chm589828
-ms.prod: publisher
 api_name:
 - Publisher.MasterPages.Add
 ms.assetid: af237acb-9e4c-f9d8-685c-c86d58e9ee01

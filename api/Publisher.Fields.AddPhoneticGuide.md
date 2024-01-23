@@ -3,7 +3,6 @@ title: Fields.AddPhoneticGuide method (Publisher)
 keywords: vbapb10.chm6029320
 f1_keywords:
 - vbapb10.chm6029320
-ms.prod: publisher
 api_name:
 - Publisher.Fields.AddPhoneticGuide
 ms.assetid: 9b64e505-3aa7-040f-f791-f2dbeaf6860e

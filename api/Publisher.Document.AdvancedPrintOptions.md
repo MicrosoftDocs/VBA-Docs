@@ -3,7 +3,6 @@ title: Document.AdvancedPrintOptions property (Publisher)
 keywords: vbapb10.chm196713
 f1_keywords:
 - vbapb10.chm196713
-ms.prod: publisher
 api_name:
 - Publisher.Document.AdvancedPrintOptions
 ms.assetid: 33c075e0-f813-9bb4-e199-96e5e9ed4ba8

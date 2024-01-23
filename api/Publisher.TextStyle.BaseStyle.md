@@ -3,7 +3,6 @@ title: TextStyle.BaseStyle property (Publisher)
 keywords: vbapb10.chm5963783
 f1_keywords:
 - vbapb10.chm5963783
-ms.prod: publisher
 api_name:
 - Publisher.TextStyle.BaseStyle
 ms.assetid: c8d1665c-c232-ecdf-3c1c-f614c7374c1e

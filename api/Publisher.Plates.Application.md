@@ -3,7 +3,6 @@ title: Plates.Application property (Publisher)
 keywords: vbapb10.chm2818049
 f1_keywords:
 - vbapb10.chm2818049
-ms.prod: publisher
 api_name:
 - Publisher.Plates.Application
 ms.assetid: 02d5f0de-1cfd-ff95-b7fc-14437ffe5daf

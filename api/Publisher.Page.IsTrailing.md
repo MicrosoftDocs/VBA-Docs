@@ -3,7 +3,6 @@ title: Page.IsTrailing property (Publisher)
 keywords: vbapb10.chm131101
 f1_keywords:
 - vbapb10.chm131101
-ms.prod: publisher
 api_name:
 - Publisher.Page.IsTrailing
 ms.assetid: e0ed15dc-d2e8-d6b7-913d-4e72b2817e88

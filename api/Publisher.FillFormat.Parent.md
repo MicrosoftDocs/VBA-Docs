@@ -3,7 +3,6 @@ title: FillFormat.Parent property (Publisher)
 keywords: vbapb10.chm2359298
 f1_keywords:
 - vbapb10.chm2359298
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.Parent
 ms.assetid: 5a12812d-88f9-ff97-eab9-e0a8085c47eb

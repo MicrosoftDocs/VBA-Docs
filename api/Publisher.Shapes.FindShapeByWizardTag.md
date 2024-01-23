@@ -3,7 +3,6 @@ title: Shapes.FindShapeByWizardTag method (Publisher)
 keywords: vbapb10.chm2162728
 f1_keywords:
 - vbapb10.chm2162728
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.FindShapeByWizardTag
 ms.assetid: f1018f3a-4f8f-2686-ac58-6eee8827c743

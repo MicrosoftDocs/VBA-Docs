@@ -3,7 +3,6 @@ title: PbSubmitDataRetrievalMethodType enumeration (Publisher)
 keywords: vbapb10.chm65591
 f1_keywords:
 - vbapb10.chm65591
-ms.prod: publisher
 api_name:
 - Publisher.PbSubmitDataRetrievalMethodType
 ms.assetid: c6fd1a98-f77b-5a03-4a33-cc4b401f55a2

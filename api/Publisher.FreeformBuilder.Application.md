@@ -3,7 +3,6 @@ title: FreeformBuilder.Application property (Publisher)
 keywords: vbapb10.chm3276801
 f1_keywords:
 - vbapb10.chm3276801
-ms.prod: publisher
 api_name:
 - Publisher.FreeformBuilder.Application
 ms.assetid: 1b0a2ffc-8727-5b99-fc8f-955588316394

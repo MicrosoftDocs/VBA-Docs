@@ -3,7 +3,6 @@ title: LineFormat.ForeColor property (Publisher)
 keywords: vbapb10.chm3408136
 f1_keywords:
 - vbapb10.chm3408136
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.ForeColor
 ms.assetid: 192314ba-dbca-cce0-25c4-6e276a4f268b

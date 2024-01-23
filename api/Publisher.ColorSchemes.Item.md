@@ -3,7 +3,6 @@ title: ColorSchemes.Item property (Publisher)
 keywords: vbapb10.chm2752512
 f1_keywords:
 - vbapb10.chm2752512
-ms.prod: publisher
 api_name:
 - Publisher.ColorSchemes.Item
 ms.assetid: 5a66a0ae-b552-0979-d3ac-7b1d7bec96f7

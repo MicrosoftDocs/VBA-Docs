@@ -3,7 +3,6 @@ title: PictureFormat.OriginalWidth property (Publisher)
 keywords: vbapb10.chm3604777
 f1_keywords:
 - vbapb10.chm3604777
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.OriginalWidth
 ms.assetid: 3c418f3f-b2af-3176-9a37-a548b15fb4bc

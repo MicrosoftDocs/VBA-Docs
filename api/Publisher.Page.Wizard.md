@@ -3,7 +3,6 @@ title: Page.Wizard property (Publisher)
 keywords: vbapb10.chm393234
 f1_keywords:
 - vbapb10.chm393234
-ms.prod: publisher
 api_name:
 - Publisher.Page.Wizard
 ms.assetid: 05cf1482-bde5-9ea2-4099-69a56a2dc61a

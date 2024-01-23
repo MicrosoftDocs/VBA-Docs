@@ -3,7 +3,6 @@ title: TextRange.Start property (Publisher)
 keywords: vbapb10.chm5308433
 f1_keywords:
 - vbapb10.chm5308433
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Start
 ms.assetid: 40604058-7c3e-b4c7-c793-bbf09091b4c1

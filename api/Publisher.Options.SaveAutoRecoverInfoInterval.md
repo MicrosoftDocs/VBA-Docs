@@ -3,7 +3,6 @@ title: Options.SaveAutoRecoverInfoInterval property (Publisher)
 keywords: vbapb10.chm1048600
 f1_keywords:
 - vbapb10.chm1048600
-ms.prod: publisher
 api_name:
 - Publisher.Options.SaveAutoRecoverInfoInterval
 ms.assetid: 3d6a6c4f-7e2b-18ff-67a4-20dee4fbcf5b

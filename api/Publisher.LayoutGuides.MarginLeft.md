@@ -3,7 +3,6 @@ title: LayoutGuides.MarginLeft property (Publisher)
 keywords: vbapb10.chm1114116
 f1_keywords:
 - vbapb10.chm1114116
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides.MarginLeft
 ms.assetid: 02d1a544-3e41-3875-3027-61bdc465e89b

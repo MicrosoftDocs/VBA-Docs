@@ -3,7 +3,6 @@ title: MailMergeDataSource.EverValidated property (Publisher)
 keywords: vbapb10.chm6291496
 f1_keywords:
 - vbapb10.chm6291496
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSource.EverValidated
 ms.assetid: f87980c8-d327-9313-fa6d-efdfaecb0e35

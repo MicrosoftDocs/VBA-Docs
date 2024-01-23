@@ -3,7 +3,6 @@ title: WebCommandButton.EmailSubject property (Publisher)
 keywords: vbapb10.chm3932168
 f1_keywords:
 - vbapb10.chm3932168
-ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton.EmailSubject
 ms.assetid: 4d29dacd-0da6-c706-515e-219daf5e349d

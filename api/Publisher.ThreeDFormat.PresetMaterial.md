@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetMaterial property (Publisher)
 keywords: vbapb10.chm3801351
 f1_keywords:
 - vbapb10.chm3801351
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.PresetMaterial
 ms.assetid: 5f12fb22-f596-0d59-1f02-63ce8d4bd927

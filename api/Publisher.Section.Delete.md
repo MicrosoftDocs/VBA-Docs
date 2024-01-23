@@ -3,7 +3,6 @@ title: Section.Delete method (Publisher)
 keywords: vbapb10.chm7405576
 f1_keywords:
 - vbapb10.chm7405576
-ms.prod: publisher
 api_name:
 - Publisher.Section.Delete
 ms.assetid: f3127265-b989-e357-0a2c-161af98adb34

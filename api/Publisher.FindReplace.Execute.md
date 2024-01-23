@@ -3,7 +3,6 @@ title: FindReplace.Execute method (Publisher)
 keywords: vbapb10.chm8323086
 f1_keywords:
 - vbapb10.chm8323086
-ms.prod: publisher
 api_name:
 - Publisher.FindReplace.Execute
 ms.assetid: 351a64ab-3c6c-c9c9-7ffe-b60b73d390ae

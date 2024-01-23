@@ -3,7 +3,6 @@ title: ShapeRange.Height property (Publisher)
 keywords: vbapb10.chm2293817
 f1_keywords:
 - vbapb10.chm2293817
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Height
 ms.assetid: de6a638d-c197-a35b-130e-a9507d1b918e

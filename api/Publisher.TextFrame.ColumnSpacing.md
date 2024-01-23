@@ -3,7 +3,6 @@ title: TextFrame.ColumnSpacing property (Publisher)
 keywords: vbapb10.chm3866633
 f1_keywords:
 - vbapb10.chm3866633
-ms.prod: publisher
 api_name:
 - Publisher.TextFrame.ColumnSpacing
 ms.assetid: 3b650d29-3716-e9b1-eaf0-92bdc0b77c5f

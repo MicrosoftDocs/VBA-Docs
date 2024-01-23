@@ -3,7 +3,6 @@ title: TextRange.Delete method (Publisher)
 keywords: vbapb10.chm5308481
 f1_keywords:
 - vbapb10.chm5308481
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.Delete
 ms.assetid: 3062b5ea-fdb7-6632-0838-02e2c9c1c906

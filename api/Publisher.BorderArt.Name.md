@@ -3,7 +3,6 @@ title: BorderArt.Name property (Publisher)
 keywords: vbapb10.chm7667715
 f1_keywords:
 - vbapb10.chm7667715
-ms.prod: publisher
 api_name:
 - Publisher.BorderArt.Name
 ms.assetid: 71e68f08-6bf1-7f4d-5da2-9f4ce4f63021

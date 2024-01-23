@@ -3,7 +3,6 @@ title: FillFormat.GradientStyle property (Publisher)
 keywords: vbapb10.chm2359556
 f1_keywords:
 - vbapb10.chm2359556
-ms.prod: publisher
 api_name:
 - Publisher.FillFormat.GradientStyle
 ms.assetid: 38a38de1-4ed3-7919-421f-474b0b5d7b2f

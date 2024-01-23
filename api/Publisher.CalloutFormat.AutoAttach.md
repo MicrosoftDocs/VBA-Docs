@@ -3,7 +3,6 @@ title: CalloutFormat.AutoAttach property (Publisher)
 keywords: vbapb10.chm2490626
 f1_keywords:
 - vbapb10.chm2490626
-ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.AutoAttach
 ms.assetid: 893303d8-97fe-9eea-8d6e-d9110c75ee84

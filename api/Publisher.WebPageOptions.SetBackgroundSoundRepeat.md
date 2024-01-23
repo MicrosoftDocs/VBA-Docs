@@ -3,7 +3,6 @@ title: WebPageOptions.SetBackgroundSoundRepeat method (Publisher)
 keywords: vbapb10.chm544777
 f1_keywords:
 - vbapb10.chm544777
-ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.SetBackgroundSoundRepeat
 ms.assetid: a699fa92-a36a-6722-431d-a0ce8413cfcf

@@ -3,7 +3,6 @@ title: InlineShapes object (Publisher)
 keywords: vbapb10.chm5832703
 f1_keywords:
 - vbapb10.chm5832703
-ms.prod: publisher
 api_name:
 - Publisher.InlineShapes
 ms.assetid: 1a6d1e8f-0be0-102e-af6c-a1cee53eae02

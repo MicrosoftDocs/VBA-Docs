@@ -3,7 +3,6 @@ title: WebOptions.AlwaysSaveInDefaultEncoding property (Publisher)
 keywords: vbapb10.chm8257539
 f1_keywords:
 - vbapb10.chm8257539
-ms.prod: publisher
 api_name:
 - Publisher.WebOptions.AlwaysSaveInDefaultEncoding
 ms.assetid: e37ff08f-5c09-0a71-27e1-e2a332147087

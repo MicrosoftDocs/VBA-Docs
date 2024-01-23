@@ -3,7 +3,6 @@ title: MailMergeFilters.Count property (Publisher)
 keywords: vbapb10.chm6750209
 f1_keywords:
 - vbapb10.chm6750209
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeFilters.Count
 ms.assetid: 6ed658be-d3d0-ae5c-548d-ea724c9a8434

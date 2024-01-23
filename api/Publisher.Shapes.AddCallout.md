@@ -3,7 +3,6 @@ title: Shapes.AddCallout method (Publisher)
 keywords: vbapb10.chm2162704
 f1_keywords:
 - vbapb10.chm2162704
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.AddCallout
 ms.assetid: bbf5f913-fcf0-b700-0c7e-9f0bdc7c6aea

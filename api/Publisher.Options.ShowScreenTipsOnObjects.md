@@ -3,7 +3,6 @@ title: Options.ShowScreenTipsOnObjects property (Publisher)
 keywords: vbapb10.chm1048608
 f1_keywords:
 - vbapb10.chm1048608
-ms.prod: publisher
 api_name:
 - Publisher.Options.ShowScreenTipsOnObjects
 ms.assetid: b5503200-31fd-72ac-de28-ace55a7123b3

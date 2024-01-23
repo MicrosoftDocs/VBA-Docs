@@ -3,7 +3,6 @@ title: TextRange.LanguageID property (Publisher)
 keywords: vbapb10.chm5308471
 f1_keywords:
 - vbapb10.chm5308471
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.LanguageID
 ms.assetid: 1007c821-cafd-0cb3-94f4-4ac25decad30

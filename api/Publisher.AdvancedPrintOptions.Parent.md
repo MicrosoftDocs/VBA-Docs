@@ -3,7 +3,6 @@ title: AdvancedPrintOptions.Parent property (Publisher)
 keywords: vbapb10.chm7077889
 f1_keywords:
 - vbapb10.chm7077889
-ms.prod: publisher
 api_name:
 - Publisher.AdvancedPrintOptions.Parent
 ms.assetid: bcf57d6a-534b-3fcd-8c88-d22bb1ae388c

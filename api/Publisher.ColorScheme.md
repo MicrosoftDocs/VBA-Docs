@@ -3,7 +3,6 @@ title: ColorScheme object (Publisher)
 keywords: vbapb10.chm2752511
 f1_keywords:
 - vbapb10.chm2752511
-ms.prod: publisher
 api_name:
 - Publisher.ColorScheme
 ms.assetid: b4e554ef-f043-c963-e175-b7d5ba95c636

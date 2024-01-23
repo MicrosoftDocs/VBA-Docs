@@ -3,7 +3,6 @@ title: TextRange.InsertBarcode method (Publisher)
 keywords: vbapb10.chm5308502
 f1_keywords:
 - vbapb10.chm5308502
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertBarcode
 ms.assetid: ad613ca7-f056-55b0-1a96-51167555ce6f

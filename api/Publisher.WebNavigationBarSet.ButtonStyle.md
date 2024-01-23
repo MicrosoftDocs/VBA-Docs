@@ -3,7 +3,6 @@ title: WebNavigationBarSet.ButtonStyle property (Publisher)
 keywords: vbapb10.chm8519685
 f1_keywords:
 - vbapb10.chm8519685
-ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarSet.ButtonStyle
 ms.assetid: 39251032-d51e-3895-af18-cb4b613a38f4

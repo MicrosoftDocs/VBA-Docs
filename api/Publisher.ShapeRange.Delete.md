@@ -3,7 +3,6 @@ title: ShapeRange.Delete method (Publisher)
 keywords: vbapb10.chm2293779
 f1_keywords:
 - vbapb10.chm2293779
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Delete
 ms.assetid: fc9a7c2d-1bfc-d373-9d10-59df687b6fbf

@@ -3,7 +3,6 @@ title: Options.DefaultTextFlowDirection property (Publisher)
 keywords: vbapb10.chm1048628
 f1_keywords:
 - vbapb10.chm1048628
-ms.prod: publisher
 api_name:
 - Publisher.Options.DefaultTextFlowDirection
 ms.assetid: 7c17768a-cd9c-704d-fa27-f0dfd7648054

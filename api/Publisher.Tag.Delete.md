@@ -3,7 +3,6 @@ title: Tag.Delete method (Publisher)
 keywords: vbapb10.chm4718597
 f1_keywords:
 - vbapb10.chm4718597
-ms.prod: publisher
 api_name:
 - Publisher.Tag.Delete
 ms.assetid: 9b881e23-3c40-3dc8-a0db-0963a51f6e02

@@ -3,7 +3,6 @@ title: BuildingBlock object (Publisher)
 keywords: vbapb10.chm9568255
 f1_keywords:
 - vbapb10.chm9568255
-ms.prod: publisher
 api_name:
 - Publisher.BuildingBlock
 ms.assetid: e0ffded4-2fc7-b163-a12b-a06cf75c2826

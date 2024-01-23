@@ -3,7 +3,6 @@ title: Application.PointsToCentimeters method (Publisher)
 keywords: vbapb10.chm131155
 f1_keywords:
 - vbapb10.chm131155
-ms.prod: publisher
 api_name:
 - Publisher.Application.PointsToCentimeters
 ms.assetid: 9a734d3d-78d2-1e27-63b3-2ad1074e16c1

@@ -3,7 +3,6 @@ title: HeaderFooter.Delete method (Publisher)
 keywords: vbapb10.chm7471107
 f1_keywords:
 - vbapb10.chm7471107
-ms.prod: publisher
 api_name:
 - Publisher.HeaderFooter.Delete
 ms.assetid: e656928f-188e-e029-a256-ef703c57d8f3

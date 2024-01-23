@@ -3,7 +3,6 @@ title: Shape.ID property (Publisher)
 keywords: vbapb10.chm2228325
 f1_keywords:
 - vbapb10.chm2228325
-ms.prod: publisher
 api_name:
 - Publisher.Shape.ID
 ms.assetid: df4ccd93-e3fa-eeef-b5ea-e99aa0dde199

@@ -3,7 +3,6 @@ title: TabStops.ClearAll method (Publisher)
 keywords: vbapb10.chm5570564
 f1_keywords:
 - vbapb10.chm5570564
-ms.prod: publisher
 api_name:
 - Publisher.TabStops.ClearAll
 ms.assetid: bb7e2a0e-c044-872d-aa74-2683886e77a6

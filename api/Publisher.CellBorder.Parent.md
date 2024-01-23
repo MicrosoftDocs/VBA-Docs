@@ -3,7 +3,6 @@ title: CellBorder.Parent property (Publisher)
 keywords: vbapb10.chm5242883
 f1_keywords:
 - vbapb10.chm5242883
-ms.prod: publisher
 api_name:
 - Publisher.CellBorder.Parent
 ms.assetid: acff8f02-c784-a12f-0fe0-a132699ee886

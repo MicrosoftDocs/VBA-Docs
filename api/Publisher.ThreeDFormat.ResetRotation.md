@@ -3,7 +3,6 @@ title: ThreeDFormat.ResetRotation method (Publisher)
 keywords: vbapb10.chm3801106
 f1_keywords:
 - vbapb10.chm3801106
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.ResetRotation
 ms.assetid: 91e3943a-0087-fcb9-e33f-d41b60b869a7

@@ -3,7 +3,6 @@ title: ThreeDFormat.SetExtrusionDirection method (Publisher)
 keywords: vbapb10.chm3801108
 f1_keywords:
 - vbapb10.chm3801108
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.SetExtrusionDirection
 ms.assetid: ac01d31d-7775-8e33-3b68-6e53f952fdda

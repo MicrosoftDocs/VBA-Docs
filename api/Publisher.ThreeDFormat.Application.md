@@ -3,7 +3,6 @@ title: ThreeDFormat.Application property (Publisher)
 keywords: vbapb10.chm3801089
 f1_keywords:
 - vbapb10.chm3801089
-ms.prod: publisher
 api_name:
 - Publisher.ThreeDFormat.Application
 ms.assetid: 3e7db8a5-230f-f80d-f69f-95f978fb99ac

@@ -3,7 +3,6 @@ title: Tag.Name property (Publisher)
 keywords: vbapb10.chm4718595
 f1_keywords:
 - vbapb10.chm4718595
-ms.prod: publisher
 api_name:
 - Publisher.Tag.Name
 ms.assetid: a35e8c51-e4c8-2554-eb44-8f202795fbc7

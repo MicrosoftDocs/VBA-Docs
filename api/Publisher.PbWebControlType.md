@@ -3,7 +3,6 @@ title: PbWebControlType enumeration (Publisher)
 keywords: vbapb10.chm65625
 f1_keywords:
 - vbapb10.chm65625
-ms.prod: publisher
 api_name:
 - Publisher.PbWebControlType
 ms.assetid: cceb2659-42de-7cf1-e1fd-dba992d4551f

@@ -3,7 +3,6 @@ title: CatalogMergeShapes.Item method (Publisher)
 keywords: vbapb10.chm8388608
 f1_keywords:
 - vbapb10.chm8388608
-ms.prod: publisher
 api_name:
 - Publisher.CatalogMergeShapes.Item
 ms.assetid: 0892aa01-0f15-4078-ef51-047c950c135d

@@ -3,7 +3,6 @@ title: TabStop.Application property (Publisher)
 keywords: vbapb10.chm5636097
 f1_keywords:
 - vbapb10.chm5636097
-ms.prod: publisher
 api_name:
 - Publisher.TabStop.Application
 ms.assetid: 189ea579-7859-1db7-c4c1-9616660d49d9

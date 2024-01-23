@@ -3,7 +3,6 @@ title: TextRange.InsertBefore method (Publisher)
 keywords: vbapb10.chm5308449
 f1_keywords:
 - vbapb10.chm5308449
-ms.prod: publisher
 api_name:
 - Publisher.TextRange.InsertBefore
 ms.assetid: b0e4355b-b1bc-ae78-08ad-000d577fd7db

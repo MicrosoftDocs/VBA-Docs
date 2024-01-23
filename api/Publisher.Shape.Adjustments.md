@@ -3,7 +3,6 @@ title: Shape.Adjustments property (Publisher)
 keywords: vbapb10.chm2228273
 f1_keywords:
 - vbapb10.chm2228273
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Adjustments
 ms.assetid: 14794cba-c671-51e3-0aac-52e885a4ba7f

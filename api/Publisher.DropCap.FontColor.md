@@ -3,7 +3,6 @@ title: DropCap.FontColor property (Publisher)
 keywords: vbapb10.chm5505028
 f1_keywords:
 - vbapb10.chm5505028
-ms.prod: publisher
 api_name:
 - Publisher.DropCap.FontColor
 ms.assetid: 0c740ec7-05ac-b1fc-875c-cfd5a934c403

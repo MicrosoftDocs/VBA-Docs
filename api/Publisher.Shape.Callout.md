@@ -3,7 +3,6 @@ title: Shape.Callout property (Publisher)
 keywords: vbapb10.chm2228275
 f1_keywords:
 - vbapb10.chm2228275
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Callout
 ms.assetid: e0682bb4-1129-fa58-b28c-46d7ce2fad0c

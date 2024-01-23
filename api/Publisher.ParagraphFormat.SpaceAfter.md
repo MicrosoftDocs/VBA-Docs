@@ -3,7 +3,6 @@ title: ParagraphFormat.SpaceAfter property (Publisher)
 keywords: vbapb10.chm5439496
 f1_keywords:
 - vbapb10.chm5439496
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.SpaceAfter
 ms.assetid: 52f65636-862d-442e-e66f-5ff5c79ee7b0

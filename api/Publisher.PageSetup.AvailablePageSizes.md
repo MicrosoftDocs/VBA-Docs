@@ -3,7 +3,6 @@ title: PageSetup.AvailablePageSizes property (Publisher)
 keywords: vbapb10.chm6946849
 f1_keywords:
 - vbapb10.chm6946849
-ms.prod: publisher
 api_name:
 - Publisher.PageSetup.AvailablePageSizes
 ms.assetid: 5ad79ee6-6d32-6c46-c02e-a9ab252267cf

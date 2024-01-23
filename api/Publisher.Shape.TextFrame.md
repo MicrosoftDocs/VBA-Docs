@@ -3,7 +3,6 @@ title: Shape.TextFrame property (Publisher)
 keywords: vbapb10.chm2228304
 f1_keywords:
 - vbapb10.chm2228304
-ms.prod: publisher
 api_name:
 - Publisher.Shape.TextFrame
 ms.assetid: fc654905-d56b-9a6c-28fa-4b54bf2a8686

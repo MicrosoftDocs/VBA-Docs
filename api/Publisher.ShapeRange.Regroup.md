@@ -3,7 +3,6 @@ title: ShapeRange.Regroup method (Publisher)
 keywords: vbapb10.chm2294019
 f1_keywords:
 - vbapb10.chm2294019
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Regroup
 ms.assetid: 29342a78-9425-2356-963c-36a62a7f3091

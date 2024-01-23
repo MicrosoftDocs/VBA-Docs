@@ -3,7 +3,6 @@ title: WebPageOptions.IncludePageOnNewWebNavigationBars property (Publisher)
 keywords: vbapb10.chm544773
 f1_keywords:
 - vbapb10.chm544773
-ms.prod: publisher
 api_name:
 - Publisher.WebPageOptions.IncludePageOnNewWebNavigationBars
 ms.assetid: 5e2f60d0-e812-8ca1-e54b-33a1f9eedf84

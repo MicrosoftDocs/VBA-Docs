@@ -3,7 +3,6 @@ title: FillFormat.TextureAlignment property (Publisher)
 keywords: vbapb10.chm2359575
 f1_keywords:
 - vbapb10.chm2359575
-ms.prod: publisher
 ms.assetid: 39fed9f2-f624-f978-3297-6b89a2dc3789
 ms.date: 06/07/2019
 ms.localizationpriority: medium

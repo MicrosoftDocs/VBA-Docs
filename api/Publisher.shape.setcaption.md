@@ -1,6 +1,5 @@
 ---
 title: Shape.SetCaption method (Publisher)
-ms.prod: publisher
 ms.assetid: dd3ca08b-06c7-4a12-b51c-5d76ce1601b5
 ms.date: 06/13/2019
 ms.localizationpriority: medium

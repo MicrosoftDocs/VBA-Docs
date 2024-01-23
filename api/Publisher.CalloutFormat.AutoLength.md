@@ -3,7 +3,6 @@ title: CalloutFormat.AutoLength property (Publisher)
 keywords: vbapb10.chm2490627
 f1_keywords:
 - vbapb10.chm2490627
-ms.prod: publisher
 api_name:
 - Publisher.CalloutFormat.AutoLength
 ms.assetid: ed874ec4-d4ce-5e3f-771a-8b3158f40707

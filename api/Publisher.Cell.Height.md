@@ -3,7 +3,6 @@ title: Cell.Height property (Publisher)
 keywords: vbapb10.chm5111825
 f1_keywords:
 - vbapb10.chm5111825
-ms.prod: publisher
 api_name:
 - Publisher.Cell.Height
 ms.assetid: ced71ac0-eca8-0939-8812-fe0e79a47cba

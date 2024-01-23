@@ -3,7 +3,6 @@ title: Font.Reset method (Publisher)
 keywords: vbapb10.chm5373993
 f1_keywords:
 - vbapb10.chm5373993
-ms.prod: publisher
 api_name:
 - Publisher.Font.Reset
 ms.assetid: 7a81d7f9-4db9-3ce1-188d-2b4719b57fff

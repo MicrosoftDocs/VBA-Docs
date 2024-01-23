@@ -3,7 +3,6 @@ title: ShapeRange.IncrementLeft method (Publisher)
 keywords: vbapb10.chm2293792
 f1_keywords:
 - vbapb10.chm2293792
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.IncrementLeft
 ms.assetid: 1b760b5d-9879-5f64-c4c5-c9834a7928ff

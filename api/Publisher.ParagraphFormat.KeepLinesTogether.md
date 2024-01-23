@@ -3,7 +3,6 @@ title: ParagraphFormat.KeepLinesTogether property (Publisher)
 keywords: vbapb10.chm5439537
 f1_keywords:
 - vbapb10.chm5439537
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.KeepLinesTogether
 ms.assetid: a0f3f2f0-d986-4928-3c4f-0665711a6876

@@ -3,7 +3,6 @@ title: Document.Selection property (Publisher)
 keywords: vbapb10.chm196658
 f1_keywords:
 - vbapb10.chm196658
-ms.prod: publisher
 api_name:
 - Publisher.Document.Selection
 ms.assetid: b1098cdb-8fb7-0906-b193-6dc572ac2993

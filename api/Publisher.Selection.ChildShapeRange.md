@@ -3,7 +3,6 @@ title: Selection.ChildShapeRange property (Publisher)
 keywords: vbapb10.chm851973
 f1_keywords:
 - vbapb10.chm851973
-ms.prod: publisher
 api_name:
 - Publisher.Selection.ChildShapeRange
 ms.assetid: 8ef96e85-2f25-7b3a-4465-7e22fdbbaa9a

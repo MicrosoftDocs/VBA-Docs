@@ -3,7 +3,6 @@ title: LayoutGuides object (Publisher)
 keywords: vbapb10.chm1179647
 f1_keywords:
 - vbapb10.chm1179647
-ms.prod: publisher
 api_name:
 - Publisher.LayoutGuides
 ms.assetid: 7430c1c4-c7f5-d9b6-cea8-b21fe9e2905f

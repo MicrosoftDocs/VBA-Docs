@@ -3,7 +3,6 @@ title: Shape.PictureFormat property (Publisher)
 keywords: vbapb10.chm2228295
 f1_keywords:
 - vbapb10.chm2228295
-ms.prod: publisher
 api_name:
 - Publisher.Shape.PictureFormat
 ms.assetid: 2a812ba3-18e4-fc42-6d07-535511a79650

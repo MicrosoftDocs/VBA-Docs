@@ -3,7 +3,6 @@ title: ShapeRange.Wizard property (Publisher)
 keywords: vbapb10.chm2294021
 f1_keywords:
 - vbapb10.chm2294021
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Wizard
 ms.assetid: 43e24fbc-2dad-5fa6-9db8-a52ce86daab3

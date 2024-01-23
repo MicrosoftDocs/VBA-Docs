@@ -3,7 +3,6 @@ title: Application.AfterPrint event (Publisher)
 keywords: vbapb10.chm268435492
 f1_keywords:
 - vbapb10.chm268435492
-ms.prod: publisher
 api_name:
 - Publisher.Application.AfterPrint
 ms.assetid: ddd5a1a4-8130-9e75-039c-e069a37390e8

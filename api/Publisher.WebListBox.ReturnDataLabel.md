@@ -3,7 +3,6 @@ title: WebListBox.ReturnDataLabel property (Publisher)
 keywords: vbapb10.chm4063237
 f1_keywords:
 - vbapb10.chm4063237
-ms.prod: publisher
 api_name:
 - Publisher.WebListBox.ReturnDataLabel
 ms.assetid: 0c9a6942-1cc7-92b6-116e-836e79560084

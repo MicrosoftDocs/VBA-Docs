@@ -3,7 +3,6 @@ title: Shape.IsInline property (Publisher)
 keywords: vbapb10.chm5308692
 f1_keywords:
 - vbapb10.chm5308692
-ms.prod: publisher
 api_name:
 - Publisher.Shape.IsInline
 ms.assetid: 5c5c6181-070f-2a66-8d70-2d6372cb365e

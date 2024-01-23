@@ -3,7 +3,6 @@ title: Plates object (Publisher)
 keywords: vbapb10.chm2883583
 f1_keywords:
 - vbapb10.chm2883583
-ms.prod: publisher
 api_name:
 - Publisher.Plates
 ms.assetid: 7da44b06-c94f-dadc-da91-09b757d5a076

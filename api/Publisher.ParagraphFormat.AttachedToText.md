@@ -3,7 +3,6 @@ title: ParagraphFormat.AttachedToText property (Publisher)
 keywords: vbapb10.chm5439512
 f1_keywords:
 - vbapb10.chm5439512
-ms.prod: publisher
 api_name:
 - Publisher.ParagraphFormat.AttachedToText
 ms.assetid: 1bfb902c-d728-1f97-513c-dcee54ce57a8

@@ -3,7 +3,6 @@ title: Window.WindowState property (Publisher)
 keywords: vbapb10.chm262160
 f1_keywords:
 - vbapb10.chm262160
-ms.prod: publisher
 api_name:
 - Publisher.Window.WindowState
 ms.assetid: 063ede5e-f279-09e3-5672-b634c752b927

@@ -3,7 +3,6 @@ title: Plates.Count property (Publisher)
 keywords: vbapb10.chm2818050
 f1_keywords:
 - vbapb10.chm2818050
-ms.prod: publisher
 api_name:
 - Publisher.Plates.Count
 ms.assetid: f042ff71-c649-e4a9-eb69-9d2b084b6e56

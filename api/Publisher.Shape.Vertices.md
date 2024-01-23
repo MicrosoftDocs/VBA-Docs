@@ -3,7 +3,6 @@ title: Shape.Vertices property (Publisher)
 keywords: vbapb10.chm2228309
 f1_keywords:
 - vbapb10.chm2228309
-ms.prod: publisher
 api_name:
 - Publisher.Shape.Vertices
 ms.assetid: 40b4800f-b17c-eff4-cb87-1e2d44d53ee3

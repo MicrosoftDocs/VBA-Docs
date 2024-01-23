@@ -3,7 +3,6 @@ title: ShapeRange.PickUp method (Publisher)
 keywords: vbapb10.chm2293795
 f1_keywords:
 - vbapb10.chm2293795
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.PickUp
 ms.assetid: ebd62b6e-807a-821c-d8ea-ed9be289c433

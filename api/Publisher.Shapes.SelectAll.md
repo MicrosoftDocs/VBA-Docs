@@ -3,7 +3,6 @@ title: Shapes.SelectAll method (Publisher)
 keywords: vbapb10.chm2162726
 f1_keywords:
 - vbapb10.chm2162726
-ms.prod: publisher
 api_name:
 - Publisher.Shapes.SelectAll
 ms.assetid: 67b88529-814d-c029-1bde-e5dade87636a

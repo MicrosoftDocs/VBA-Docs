@@ -3,7 +3,6 @@ title: PbPlacementType enumeration (Publisher)
 keywords: vbapb10.chm65572
 f1_keywords:
 - vbapb10.chm65572
-ms.prod: publisher
 api_name:
 - Publisher.PbPlacementType
 ms.assetid: b70286c7-5731-fc10-b1b1-2b1f0612f36f

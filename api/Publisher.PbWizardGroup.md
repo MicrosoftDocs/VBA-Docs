@@ -3,7 +3,6 @@ title: PbWizardGroup enumeration (Publisher)
 keywords: vbapb10.chm65602
 f1_keywords:
 - vbapb10.chm65602
-ms.prod: publisher
 api_name:
 - Publisher.PbWizardGroup
 ms.assetid: e033ffde-0124-8c46-9ffc-3eefdfcdd436

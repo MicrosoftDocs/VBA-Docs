@@ -3,7 +3,6 @@ title: Cell.TextRange property (Publisher)
 keywords: vbapb10.chm5111833
 f1_keywords:
 - vbapb10.chm5111833
-ms.prod: publisher
 api_name:
 - Publisher.Cell.TextRange
 ms.assetid: 31aa92d1-852f-3742-defa-94485411bcc3

@@ -3,7 +3,6 @@ title: LinkFormat.Parent property (Publisher)
 keywords: vbapb10.chm4390914
 f1_keywords:
 - vbapb10.chm4390914
-ms.prod: publisher
 api_name:
 - Publisher.LinkFormat.Parent
 ms.assetid: 634b98bf-0383-3656-b1cc-452b4fd11f80

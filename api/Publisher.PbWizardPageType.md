@@ -3,7 +3,6 @@ title: PbWizardPageType enumeration (Publisher)
 keywords: vbapb10.chm65603
 f1_keywords:
 - vbapb10.chm65603
-ms.prod: publisher
 api_name:
 - Publisher.PbWizardPageType
 ms.assetid: 8b34efb9-0091-e30f-9bb9-02310edccbb6

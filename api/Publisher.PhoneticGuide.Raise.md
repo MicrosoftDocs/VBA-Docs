@@ -3,7 +3,6 @@ title: PhoneticGuide.Raise property (Publisher)
 keywords: vbapb10.chm6160389
 f1_keywords:
 - vbapb10.chm6160389
-ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.Raise
 ms.assetid: 8c7bd7e9-1b63-ded0-5021-99995296ad08

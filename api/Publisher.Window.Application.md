@@ -3,7 +3,6 @@ title: Window.Application property (Publisher)
 keywords: vbapb10.chm262145
 f1_keywords:
 - vbapb10.chm262145
-ms.prod: publisher
 api_name:
 - Publisher.Window.Application
 ms.assetid: d82073f9-793e-12e2-6d23-674bd0af4f73

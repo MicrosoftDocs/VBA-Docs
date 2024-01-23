@@ -3,7 +3,6 @@ title: LineFormat.Visible property (Publisher)
 keywords: vbapb10.chm3408146
 f1_keywords:
 - vbapb10.chm3408146
-ms.prod: publisher
 api_name:
 - Publisher.LineFormat.Visible
 ms.assetid: 508560d2-e143-2d0d-93e7-49141e44b521

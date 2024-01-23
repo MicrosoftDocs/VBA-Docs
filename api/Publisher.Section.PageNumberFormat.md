@@ -3,7 +3,6 @@ title: Section.PageNumberFormat property (Publisher)
 keywords: vbapb10.chm7405573
 f1_keywords:
 - vbapb10.chm7405573
-ms.prod: publisher
 api_name:
 - Publisher.Section.PageNumberFormat
 ms.assetid: 5b64a352-2fd8-9e19-3425-a7984dd67edd

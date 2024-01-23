@@ -3,7 +3,6 @@ title: ShapeRange.Duplicate method (Publisher)
 keywords: vbapb10.chm2293780
 f1_keywords:
 - vbapb10.chm2293780
-ms.prod: publisher
 api_name:
 - Publisher.ShapeRange.Duplicate
 ms.assetid: e940e551-4307-aa33-5713-80f77fade8af

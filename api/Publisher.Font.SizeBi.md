@@ -3,7 +3,6 @@ title: Font.SizeBi property (Publisher)
 keywords: vbapb10.chm5373958
 f1_keywords:
 - vbapb10.chm5373958
-ms.prod: publisher
 api_name:
 - Publisher.Font.SizeBi
 ms.assetid: 1e9100e7-efa4-a7aa-69af-39c550a0b046

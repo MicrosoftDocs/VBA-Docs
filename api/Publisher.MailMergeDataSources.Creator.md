@@ -1,6 +1,5 @@
 ---
 title: MailMergeDataSources.Creator property (Publisher)
-ms.prod: publisher
 api_name:
 - Publisher.MailMergeDataSources.Creator
 ms.assetid: 700b716d-f86d-be25-bdd0-effb669ea553

@@ -3,7 +3,6 @@ title: WebNavigationBarHyperlinks.Add method (Publisher)
 keywords: vbapb10.chm8585220
 f1_keywords:
 - vbapb10.chm8585220
-ms.prod: publisher
 api_name:
 - Publisher.WebNavigationBarHyperlinks.Add
 ms.assetid: 6cd0c43a-fec1-c9b8-dc86-00e1cc314087

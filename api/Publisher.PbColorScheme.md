@@ -3,7 +3,6 @@ title: PbColorScheme enumeration (Publisher)
 keywords: vbapb10.chm65580
 f1_keywords:
 - vbapb10.chm65580
-ms.prod: publisher
 api_name:
 - Publisher.PbColorScheme
 ms.assetid: c6b745c0-2233-0dce-fb58-57c42f90b918

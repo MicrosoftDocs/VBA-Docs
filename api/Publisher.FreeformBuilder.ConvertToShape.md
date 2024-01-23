@@ -3,7 +3,6 @@ title: FreeformBuilder.ConvertToShape method (Publisher)
 keywords: vbapb10.chm3276817
 f1_keywords:
 - vbapb10.chm3276817
-ms.prod: publisher
 api_name:
 - Publisher.FreeformBuilder.ConvertToShape
 ms.assetid: 1cb490af-40be-b03f-2f8d-04b1015fbde3

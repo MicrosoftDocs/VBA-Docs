@@ -3,7 +3,6 @@ title: WebCommandButton object (Publisher)
 keywords: vbapb10.chm3997695
 f1_keywords:
 - vbapb10.chm3997695
-ms.prod: publisher
 api_name:
 - Publisher.WebCommandButton
 ms.assetid: 86605945-eca1-ab80-1a1a-f8a5977d9282

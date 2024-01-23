@@ -3,7 +3,6 @@ title: PictureFormat.EffectiveResolution property (Publisher)
 keywords: vbapb10.chm3604755
 f1_keywords:
 - vbapb10.chm3604755
-ms.prod: publisher
 api_name:
 - Publisher.PictureFormat.EffectiveResolution
 ms.assetid: 33e5323f-5e10-b2ed-62eb-03ecbbb1e893

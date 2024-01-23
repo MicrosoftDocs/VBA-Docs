@@ -1,7 +1,7 @@
 ---
 title: Enumerations (Publisher)
 description: Documentation for the enumerations in the VBA Publisher object model.
-ms.prod: publisher
+ms.service: publisher
 ms.assetid: d12a88c8-0c90-4a40-bf25-7e31457f4a20
 ms.date: 09/05/2018
 ms.localizationpriority: medium

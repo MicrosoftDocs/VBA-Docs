@@ -3,7 +3,6 @@ title: ShadowFormat.Visible property (Publisher)
 keywords: vbapb10.chm3670278
 f1_keywords:
 - vbapb10.chm3670278
-ms.prod: publisher
 api_name:
 - Publisher.ShadowFormat.Visible
 ms.assetid: aac38753-320b-7c09-548c-318c8562e393

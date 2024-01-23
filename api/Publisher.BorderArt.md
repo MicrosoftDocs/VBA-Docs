@@ -3,7 +3,6 @@ title: BorderArt object (Publisher)
 keywords: vbapb10.chm7733247
 f1_keywords:
 - vbapb10.chm7733247
-ms.prod: publisher
 api_name:
 - Publisher.BorderArt
 ms.assetid: 464bec0f-7912-ab27-9593-7f1cb53da342

@@ -3,7 +3,6 @@ title: TabStop.Alignment property (Publisher)
 keywords: vbapb10.chm5636100
 f1_keywords:
 - vbapb10.chm5636100
-ms.prod: publisher
 api_name:
 - Publisher.TabStop.Alignment
 ms.assetid: 59b35d9a-d53b-88cd-952b-6324d1ee7c01

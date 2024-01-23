@@ -3,7 +3,6 @@ title: WebListBox.MultiSelect property (Publisher)
 keywords: vbapb10.chm4063236
 f1_keywords:
 - vbapb10.chm4063236
-ms.prod: publisher
 api_name:
 - Publisher.WebListBox.MultiSelect
 ms.assetid: cc81682f-5212-0912-d979-16567c2dc42b

@@ -3,7 +3,6 @@ title: PbPageType enumeration (Publisher)
 keywords: vbapb10.chm65539
 f1_keywords:
 - vbapb10.chm65539
-ms.prod: publisher
 api_name:
 - Publisher.PbPageType
 ms.assetid: 65a7defe-2249-f600-fd2c-a998bed76c46

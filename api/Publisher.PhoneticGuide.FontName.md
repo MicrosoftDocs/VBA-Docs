@@ -3,7 +3,6 @@ title: PhoneticGuide.FontName property (Publisher)
 keywords: vbapb10.chm6160387
 f1_keywords:
 - vbapb10.chm6160387
-ms.prod: publisher
 api_name:
 - Publisher.PhoneticGuide.FontName
 ms.assetid: d343ebdc-419d-2256-7e07-4e697e8df34b

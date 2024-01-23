@@ -3,7 +3,6 @@ title: WebHiddenFields.Count property (Publisher)
 keywords: vbapb10.chm3997699
 f1_keywords:
 - vbapb10.chm3997699
-ms.prod: publisher
 api_name:
 - Publisher.WebHiddenFields.Count
 ms.assetid: 167c4c58-10cf-4dbb-5dfc-d60ab3856357
