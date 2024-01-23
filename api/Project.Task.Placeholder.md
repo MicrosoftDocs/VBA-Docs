@@ -3,7 +3,7 @@ title: Task.Placeholder property (Project)
 keywords: vbapj.chm132502
 f1_keywords:
 - vbapj.chm132502
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Placeholder
 ms.assetid: aceb419b-58de-11b2-4610-c1aeb41890d5

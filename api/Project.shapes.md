@@ -1,6 +1,6 @@
 ---
 title: Shapes object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 6e42040c-dd5a-de4c-afa8-f9e33d1e5054
 ms.date: 06/08/2017
 ms.localizationpriority: medium

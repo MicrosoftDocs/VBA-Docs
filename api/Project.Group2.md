@@ -1,6 +1,6 @@
 ---
 title: Group2 object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group2
 ms.assetid: a7a61fa4-e752-006e-a47e-03987b04f01c

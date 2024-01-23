@@ -3,7 +3,7 @@ title: Application.TaskDeliverableCreate method (Project)
 keywords: vbapj.chm92
 f1_keywords:
 - vbapj.chm92
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TaskDeliverableCreate
 ms.assetid: 61bd8608-8a5f-3555-b769-5ee951f8ebd7

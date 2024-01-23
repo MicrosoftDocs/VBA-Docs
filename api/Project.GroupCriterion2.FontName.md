@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.FontName property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion2.FontName
 ms.assetid: 230086d5-c14c-0150-faad-5ebe05f3a956

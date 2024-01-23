@@ -3,7 +3,7 @@ title: Application.UsageViewEntryEx method (Project)
 keywords: vbapj.chm2163
 f1_keywords:
 - vbapj.chm2163
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.UsageViewEntryEx
 ms.assetid: 2aac9824-ab5c-006d-99d2-07e019e6409d

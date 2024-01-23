@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.RequiredCode property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.OutlineCode.RequiredCode
 ms.assetid: 39ecd7fd-20d9-c849-c0ef-923dcbe38e4b

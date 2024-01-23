@@ -1,6 +1,6 @@
 ---
 title: Assignment.Work property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Work
 ms.assetid: fe7b1700-2dc4-fcbb-a288-ef3e540319d4

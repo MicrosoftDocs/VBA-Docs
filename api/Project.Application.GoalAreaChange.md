@@ -3,7 +3,7 @@ title: Application.GoalAreaChange method (Project)
 keywords: vbapj.chm51
 f1_keywords:
 - vbapj.chm51
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GoalAreaChange
 ms.assetid: 84341db8-3f8e-44f3-4b34-e702ee2841dd

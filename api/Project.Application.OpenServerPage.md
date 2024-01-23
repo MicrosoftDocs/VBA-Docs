@@ -3,7 +3,7 @@ title: Application.OpenServerPage method (Project)
 keywords: vbapj.chm636
 f1_keywords:
 - vbapj.chm636
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.OpenServerPage
 ms.assetid: 6b7e18fd-2ae1-47a0-45fb-58d6b6e27074

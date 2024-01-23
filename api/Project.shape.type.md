@@ -1,6 +1,6 @@
 ---
 title: Shape.Type property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 3d64d2c5-5b93-dce7-a8b7-3e789550816a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline9Cost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Baseline9Cost
 ms.assetid: fbcd0b8e-e153-6e1e-efa4-877dca6d70c0

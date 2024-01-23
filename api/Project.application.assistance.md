@@ -1,6 +1,6 @@
 ---
 title: Application.Assistance property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: f53bf107-9fd1-78f9-f8db-0b8c2acc5f72
 ms.date: 06/08/2017
 ms.localizationpriority: medium

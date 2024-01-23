@@ -1,6 +1,6 @@
 ---
 title: Application.IsFunctionalitySupported event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.IsFunctionalitySupported
 ms.assetid: f6462a3b-5a36-3b2e-79bd-78cce567aed8

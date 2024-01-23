@@ -3,7 +3,7 @@ title: Application.AddProgressLine method (Project)
 keywords: vbapj.chm252
 f1_keywords:
 - vbapj.chm252
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AddProgressLine
 ms.assetid: f7a780f6-63af-e495-9fce-f3f1031bdfa0

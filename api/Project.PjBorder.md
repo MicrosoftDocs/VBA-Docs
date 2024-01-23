@@ -1,6 +1,6 @@
 ---
 title: PjBorder enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBorder
 ms.assetid: 84a62523-8bde-3a24-1a94-cea940ca96e6

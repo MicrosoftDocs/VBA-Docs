@@ -1,6 +1,6 @@
 ---
 title: GroupCriteria2.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriteria2.Count
 ms.assetid: bc6cbef6-3921-a0e5-a6a3-c5f116d2c64a

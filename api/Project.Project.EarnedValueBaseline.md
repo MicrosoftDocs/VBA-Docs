@@ -3,7 +3,7 @@ title: Project.EarnedValueBaseline property (Project)
 keywords: vbapj.chm131083
 f1_keywords:
 - vbapj.chm131083
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.EarnedValueBaseline
 ms.assetid: 72351358-32e7-1421-df8b-417e395c624e

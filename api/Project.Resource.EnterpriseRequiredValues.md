@@ -3,7 +3,7 @@ title: Resource.EnterpriseRequiredValues property (Project)
 keywords: vbapj.chm132119
 f1_keywords:
 - vbapj.chm132119
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseRequiredValues
 ms.assetid: be6d061b-0327-8262-da89-0b2433d19bff

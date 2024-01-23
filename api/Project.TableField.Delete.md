@@ -3,7 +3,7 @@ title: TableField.Delete method (Project)
 keywords: vbapj.chm132686
 f1_keywords:
 - vbapj.chm132686
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TableField.Delete
 ms.assetid: b8bd5b48-4c64-898b-70d4-5b0ef5c02f19

@@ -3,7 +3,7 @@ title: Project.AcceptNewExternalData property (Project)
 keywords: vbapj.chm131365
 f1_keywords:
 - vbapj.chm131365
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.AcceptNewExternalData
 ms.assetid: 6060d7df-9da5-520c-8293-f7ef2a1597d0

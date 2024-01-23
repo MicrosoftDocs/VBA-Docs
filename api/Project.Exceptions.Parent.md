@@ -1,6 +1,6 @@
 ---
 title: Exceptions.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exceptions.Parent
 ms.assetid: d9e45347-9488-f1f6-c74b-bbf64c008cf3

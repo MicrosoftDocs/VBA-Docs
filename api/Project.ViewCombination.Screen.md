@@ -1,6 +1,6 @@
 ---
 title: ViewCombination.Screen property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewCombination.Screen
 ms.assetid: 69cdee63-88eb-1c6e-f73e-627b8b896904

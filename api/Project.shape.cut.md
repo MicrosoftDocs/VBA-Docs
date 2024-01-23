@@ -1,6 +1,6 @@
 ---
 title: Shape.Cut method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: f7deb163-3f43-206b-a8d4-2b0519d27e0e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

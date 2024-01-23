@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValue.Clear method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TimeScaleValue.Clear
 ms.assetid: 3ed3a584-5496-cdf4-eafa-e0ecdd01edfd

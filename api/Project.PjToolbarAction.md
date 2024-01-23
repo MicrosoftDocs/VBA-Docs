@@ -1,6 +1,6 @@
 ---
 title: PjToolbarAction enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjToolbarAction
 ms.assetid: 36ace776-5c15-643a-a82b-a2347c20ffc8

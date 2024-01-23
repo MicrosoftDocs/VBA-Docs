@@ -3,7 +3,7 @@ title: Application.InsertResource method (Project)
 keywords: vbapj.chm2179
 f1_keywords:
 - vbapj.chm2179
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertResource
 ms.assetid: e3e62534-3a78-28a2-fb87-ed017b83f9fb

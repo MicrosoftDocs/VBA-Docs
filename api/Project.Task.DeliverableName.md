@@ -1,6 +1,6 @@
 ---
 title: Task.DeliverableName property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.DeliverableName
 ms.assetid: 7ef9faef-d0e4-8f9d-5029-2f2a80489b95

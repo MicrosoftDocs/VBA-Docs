@@ -3,7 +3,7 @@ title: Application.AutoCorrect method (Project)
 keywords: vbapj.chm627
 f1_keywords:
 - vbapj.chm627
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AutoCorrect
 ms.assetid: 5d509f1c-2dba-0cd1-540f-3a6aa2a9c1c4

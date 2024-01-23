@@ -3,7 +3,7 @@ title: Project.Template property (Project)
 keywords: vbapj.chm132720
 f1_keywords:
 - vbapj.chm132720
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.Template
 ms.assetid: 8f73cf7a-e900-2951-6491-edc0ef78c0f5

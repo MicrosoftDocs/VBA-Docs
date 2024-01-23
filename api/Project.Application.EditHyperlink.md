@@ -3,7 +3,7 @@ title: Application.EditHyperlink method (Project)
 keywords: vbapj.chm1310
 f1_keywords:
 - vbapj.chm1310
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EditHyperlink
 ms.assetid: d652ccc4-207e-933f-c281-a2d5d7db0b76

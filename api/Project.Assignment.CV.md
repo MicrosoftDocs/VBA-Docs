@@ -1,6 +1,6 @@
 ---
 title: Assignment.CV property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.CV
 ms.assetid: 15028dc8-1226-333f-e4f4-9e31f9970481

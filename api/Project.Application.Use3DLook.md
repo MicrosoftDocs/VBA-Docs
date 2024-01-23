@@ -1,6 +1,6 @@
 ---
 title: Application.Use3DLook property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Use3DLook
 ms.assetid: df4fce68-5ce1-5a99-3001-597a19871b1c

@@ -1,6 +1,6 @@
 ---
 title: Resource.Flag12 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Flag12
 ms.assetid: 1ba606df-3606-b358-77b6-874551429cf4

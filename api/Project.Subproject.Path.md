@@ -1,6 +1,6 @@
 ---
 title: Subproject.Path property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Subproject.Path
 ms.assetid: 57bd6c44-5a2e-a2c8-c733-4c46e32be780

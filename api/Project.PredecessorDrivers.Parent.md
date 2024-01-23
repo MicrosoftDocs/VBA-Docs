@@ -1,6 +1,6 @@
 ---
 title: PredecessorDrivers.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PredecessorDrivers.Parent
 ms.assetid: ef4efae1-c5d7-4fe0-0841-2506a2b1a4db

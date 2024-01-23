@@ -3,7 +3,7 @@ title: Application.InsertTask method (Project)
 keywords: vbapj.chm2167
 f1_keywords:
 - vbapj.chm2167
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertTask
 ms.assetid: fe4676bf-8d9a-d6e9-2d5e-74fd047c3944

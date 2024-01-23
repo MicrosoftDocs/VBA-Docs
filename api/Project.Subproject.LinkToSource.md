@@ -1,6 +1,6 @@
 ---
 title: Subproject.LinkToSource property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Subproject.LinkToSource
 ms.assetid: 8055fc21-1de2-dbd1-c28d-2200e8bc781d

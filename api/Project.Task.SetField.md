@@ -1,6 +1,6 @@
 ---
 title: Task.SetField method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.SetField
 ms.assetid: f25de144-79f0-9c19-500a-94708a1b29a1

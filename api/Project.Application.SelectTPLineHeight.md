@@ -3,7 +3,7 @@ title: Application.SelectTPLineHeight method (Project)
 keywords: vbapj.chm70
 f1_keywords:
 - vbapj.chm70
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectTPLineHeight
 ms.assetid: f637032a-ede4-6164-e796-716bf5f556f1

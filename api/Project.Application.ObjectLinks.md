@@ -3,7 +3,7 @@ title: Application.ObjectLinks method (Project)
 keywords: vbapj.chm238
 f1_keywords:
 - vbapj.chm238
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ObjectLinks
 ms.assetid: fd83706e-cbdf-fcab-9e64-1867952800f8

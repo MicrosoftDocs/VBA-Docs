@@ -3,7 +3,7 @@ title: Application.TimelineGotoSelectedTask method (Project)
 keywords: vbapj.chm61
 f1_keywords:
 - vbapj.chm61
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TimelineGotoSelectedTask
 ms.assetid: 62353aab-b850-bcf9-1d16-c7c794643318

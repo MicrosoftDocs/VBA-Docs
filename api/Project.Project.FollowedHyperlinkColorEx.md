@@ -3,7 +3,7 @@ title: Project.FollowedHyperlinkColorEx property (Project)
 keywords: vbapj.chm132288
 f1_keywords:
 - vbapj.chm132288
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.FollowedHyperlinkColorEx
 ms.assetid: 72683515-81d3-915b-6da0-2593fbca0d00

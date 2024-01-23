@@ -1,6 +1,6 @@
 ---
 title: Resource.Baseline4BudgetCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Baseline4BudgetCost
 ms.assetid: 708ea542-3f45-3e41-0b0b-6172f0f0136f

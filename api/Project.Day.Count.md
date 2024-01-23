@@ -1,6 +1,6 @@
 ---
 title: Day.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Day.Count
 ms.assetid: 2f5c33fb-b744-6c50-5337-da693d93f28b

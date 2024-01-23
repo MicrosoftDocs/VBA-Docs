@@ -3,7 +3,7 @@ title: Task.IgnoreWarnings property (Project)
 keywords: vbapj.chm132350
 f1_keywords:
 - vbapj.chm132350
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.IgnoreWarnings
 ms.assetid: 066439e9-c100-80fc-cba3-f9cadc0ef563

@@ -1,6 +1,6 @@
 ---
 title: Task.LevelingCanSplit property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.LevelingCanSplit
 ms.assetid: 493c8e67-08c1-ccf9-6887-8f7315358f67

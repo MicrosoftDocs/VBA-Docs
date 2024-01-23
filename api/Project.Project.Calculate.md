@@ -1,6 +1,6 @@
 ---
 title: Project.Calculate event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.Calculate
 ms.assetid: cba7feb3-c0e4-96ec-d2fa-eaccfa640c5a

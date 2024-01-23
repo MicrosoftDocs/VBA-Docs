@@ -3,7 +3,7 @@ title: Application.EnterpriseAllowLocalBaseCalendars property (Project)
 keywords: vbapj.chm131812
 f1_keywords:
 - vbapj.chm131812
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EnterpriseAllowLocalBaseCalendars
 ms.assetid: 91c15501-a321-47fb-7c9a-ebe894ead50a

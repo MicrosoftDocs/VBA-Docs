@@ -3,7 +3,7 @@ title: Application.GlobalTaskFilters property (Project)
 keywords: vbapj.chm132265
 f1_keywords:
 - vbapj.chm132265
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GlobalTaskFilters
 ms.assetid: 1f85f0c7-9cb8-e531-c690-6ea795ebaa94

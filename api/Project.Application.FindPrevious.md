@@ -3,7 +3,7 @@ title: Application.FindPrevious method (Project)
 keywords: vbapj.chm2033
 f1_keywords:
 - vbapj.chm2033
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FindPrevious
 ms.assetid: 424d20d6-ecec-f46c-62b1-b44f40a40043

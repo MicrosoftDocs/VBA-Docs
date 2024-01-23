@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.ShowInMenu property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.ShowInMenu
 ms.assetid: b04dd225-7dfa-9cfa-5d0f-c9f0e54b64b7

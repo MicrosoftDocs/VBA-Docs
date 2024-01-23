@@ -1,6 +1,6 @@
 ---
 title: PjTaskLinkType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjTaskLinkType
 ms.assetid: 141a1145-0eb5-3664-4755-394584aec8ac

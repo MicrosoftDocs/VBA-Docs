@@ -3,7 +3,7 @@ title: Project.ViewsCombination property (Project)
 keywords: vbapj.chm132806
 f1_keywords:
 - vbapj.chm132806
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ViewsCombination
 ms.assetid: 4d4d1fb0-e0c4-e572-56b5-165e1cb20432

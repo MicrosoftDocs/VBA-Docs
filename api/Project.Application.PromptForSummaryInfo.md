@@ -1,6 +1,6 @@
 ---
 title: Application.PromptForSummaryInfo property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.PromptForSummaryInfo
 ms.assetid: c1ce90ec-e52b-397f-640c-4a8da1e17a7f

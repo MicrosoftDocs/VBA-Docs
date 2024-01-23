@@ -3,7 +3,7 @@ title: Application.ViewShowPeakUnits method (Project)
 keywords: vbapj.chm923
 f1_keywords:
 - vbapj.chm923
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowPeakUnits
 ms.assetid: d2027dc0-f763-1e26-c036-d6cc130072c5

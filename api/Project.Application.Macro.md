@@ -3,7 +3,7 @@ title: Application.Macro method (Project)
 keywords: vbapj.chm1001
 f1_keywords:
 - vbapj.chm1001
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Macro
 ms.assetid: e07686b6-3c38-7413-692b-aac8fb9bf526

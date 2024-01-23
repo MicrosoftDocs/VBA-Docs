@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text10 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Text10
 ms.assetid: 5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f

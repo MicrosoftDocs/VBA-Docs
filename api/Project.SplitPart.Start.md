@@ -1,6 +1,6 @@
 ---
 title: SplitPart.Start property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.SplitPart.Start
 ms.assetid: 7871b157-de76-db1a-b3e9-577669a8dd6d

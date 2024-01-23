@@ -3,7 +3,7 @@ title: Resource.EnterpriseIsCheckedOut property (Project)
 keywords: vbapj.chm131855
 f1_keywords:
 - vbapj.chm131855
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseIsCheckedOut
 ms.assetid: b85956e0-1c7f-850d-9566-a8e139fcf570

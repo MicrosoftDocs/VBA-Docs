@@ -3,7 +3,7 @@ title: Application.ResourceSharingPoolUpdate method (Project)
 keywords: vbapj.chm248
 f1_keywords:
 - vbapj.chm248
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceSharingPoolUpdate
 ms.assetid: 1ebcf06f-fce3-7403-2adb-56f60ab73259

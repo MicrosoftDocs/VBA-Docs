@@ -1,6 +1,6 @@
 ---
 title: PjExceptionItem enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjExceptionItem
 ms.assetid: 9fe09ca8-953d-da52-3c55-ee87ece1eab6

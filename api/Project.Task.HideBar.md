@@ -1,6 +1,6 @@
 ---
 title: Task.HideBar property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.HideBar
 ms.assetid: 07c255e9-dccc-9f67-6bcb-cf5671e32f4a

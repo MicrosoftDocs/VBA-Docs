@@ -3,7 +3,7 @@ title: Application.CalendarBarStylesEdit method (Project)
 keywords: vbapj.chm2339
 f1_keywords:
 - vbapj.chm2339
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CalendarBarStylesEdit
 ms.assetid: 6ae39422-20bb-dd77-0d0b-0d130dfdbfe5

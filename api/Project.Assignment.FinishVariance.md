@@ -1,6 +1,6 @@
 ---
 title: Assignment.FinishVariance property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.FinishVariance
 ms.assetid: 3ec68258-b79b-9c19-63e9-e018bb506dc4

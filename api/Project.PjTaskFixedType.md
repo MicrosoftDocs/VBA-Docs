@@ -1,6 +1,6 @@
 ---
 title: PjTaskFixedType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjTaskFixedType
 ms.assetid: 6fa3e67c-eee6-0402-a176-63d7f87a058f

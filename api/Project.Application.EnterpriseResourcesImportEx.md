@@ -3,7 +3,7 @@ title: Application.EnterpriseResourcesImportEx method (Project)
 keywords: vbapj.chm2090
 f1_keywords:
 - vbapj.chm2090
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EnterpriseResourcesImportEx
 ms.assetid: 58b92ff5-da61-07cc-daca-b56e4270a8a4

@@ -1,6 +1,6 @@
 ---
 title: ActualStartDrivers.TotalDetectedCount property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ActualStartDrivers.TotalDetectedCount
 ms.assetid: 188d79e3-3a1b-a0ed-e11b-3998334d6a17

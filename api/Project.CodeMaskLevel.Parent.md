@@ -1,6 +1,6 @@
 ---
 title: CodeMaskLevel.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CodeMaskLevel.Parent
 ms.assetid: de0d7817-c13b-d17e-6550-937b9219db65

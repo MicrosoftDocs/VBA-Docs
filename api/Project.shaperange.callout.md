@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Callout property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 3cfdd18a-e1ca-9137-7551-0c2df33f3471
 ms.date: 06/08/2017
 ms.localizationpriority: medium

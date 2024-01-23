@@ -1,6 +1,6 @@
 ---
 title: ViewCombination.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewCombination.Index
 ms.assetid: 3a9ebd6e-a2c6-1a90-4d41-e31bd8455611

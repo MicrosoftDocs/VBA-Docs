@@ -1,6 +1,6 @@
 ---
 title: Resource.Initials property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Initials
 ms.assetid: b74494c1-955d-2984-9c3c-4271d382deb1

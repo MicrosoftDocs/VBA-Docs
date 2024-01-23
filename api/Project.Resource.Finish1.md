@@ -1,6 +1,6 @@
 ---
 title: Resource.Finish1 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Finish1
 ms.assetid: c8fecd76-6303-534a-801c-c7245a81a5aa

@@ -3,7 +3,7 @@ title: Resource.EnterpriseCheckedOutBy property (Project)
 keywords: vbapj.chm131814
 f1_keywords:
 - vbapj.chm131814
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseCheckedOutBy
 ms.assetid: 9e741c85-ffc7-6d49-18ea-bfdcafe23934

@@ -1,6 +1,6 @@
 ---
 title: Report object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 38ef993e-e5cd-b451-06aa-41eb0e93450e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

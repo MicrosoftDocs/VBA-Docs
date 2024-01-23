@@ -3,7 +3,7 @@ title: Application.RecurringTaskInsert method (Project)
 keywords: vbapj.chm2303
 f1_keywords:
 - vbapj.chm2303
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RecurringTaskInsert
 ms.assetid: 3e993c50-54e3-7373-8459-05706eca72c6

@@ -3,7 +3,7 @@ title: Project.ProjectGuideUseDefaultFunctionalLayoutPage property (Project)
 keywords: vbapj.chm131089
 f1_keywords:
 - vbapj.chm131089
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectGuideUseDefaultFunctionalLayoutPage
 ms.assetid: d3d3e2f9-cdc6-5df2-e050-11e1f12f245e

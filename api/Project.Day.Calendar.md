@@ -1,6 +1,6 @@
 ---
 title: Day.Calendar property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Day.Calendar
 ms.assetid: 9c7d31af-8b0c-cf54-dace-581b0f6ea92a

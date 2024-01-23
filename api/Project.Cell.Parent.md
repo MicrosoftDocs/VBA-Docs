@@ -1,6 +1,6 @@
 ---
 title: Cell.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.Parent
 ms.assetid: 8e2f9a5d-b914-f9e1-b922-ade8fb7ade01

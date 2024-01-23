@@ -1,6 +1,6 @@
 ---
 title: PayRate.CostPerUse property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PayRate.CostPerUse
 ms.assetid: 7925d309-afb9-a0f8-7d40-9c2388fdaa1d

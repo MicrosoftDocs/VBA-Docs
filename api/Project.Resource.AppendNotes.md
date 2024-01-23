@@ -1,6 +1,6 @@
 ---
 title: Resource.AppendNotes method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.AppendNotes
 ms.assetid: b11bc28f-147f-0591-056b-87e9f6c2db71

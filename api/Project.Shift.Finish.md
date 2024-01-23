@@ -1,6 +1,6 @@
 ---
 title: Shift.Finish property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Shift.Finish
 ms.assetid: f91768b9-fb9b-d557-31a4-5284fb037237

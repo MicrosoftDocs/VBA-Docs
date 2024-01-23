@@ -3,7 +3,7 @@ title: Project.WriteReserved property (Project)
 keywords: vbapj.chm132834
 f1_keywords:
 - vbapj.chm132834
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.WriteReserved
 ms.assetid: 0899e9ec-f7ce-5be8-400a-183172b5d4b5

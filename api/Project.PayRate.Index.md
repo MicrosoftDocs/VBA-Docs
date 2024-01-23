@@ -1,6 +1,6 @@
 ---
 title: PayRate.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PayRate.Index
 ms.assetid: 03973d46-650b-bdf6-52c7-0e71d1b78ea1

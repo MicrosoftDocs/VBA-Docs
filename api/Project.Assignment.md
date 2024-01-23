@@ -1,6 +1,6 @@
 ---
 title: Assignment object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment
 ms.assetid: bfb9a505-7818-0a86-9d4b-f19a0ff465d3

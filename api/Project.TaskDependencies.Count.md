@@ -1,6 +1,6 @@
 ---
 title: TaskDependencies.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskDependencies.Count
 ms.assetid: 499ae3c9-b99a-be2b-2d57-7f3dcb28d683

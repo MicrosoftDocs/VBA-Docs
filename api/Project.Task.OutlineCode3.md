@@ -1,6 +1,6 @@
 ---
 title: Task.OutlineCode3 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.OutlineCode3
 ms.assetid: 25bd9ac0-8c49-b328-b69e-0a2a38e22be4

@@ -1,6 +1,6 @@
 ---
 title: ChildDrivers.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ChildDrivers.Parent
 ms.assetid: f1d873ca-7231-03c9-c33e-51388cbce223

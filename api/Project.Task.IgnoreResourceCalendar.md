@@ -3,7 +3,7 @@ title: Task.IgnoreResourceCalendar property (Project)
 keywords: vbapj.chm132349
 f1_keywords:
 - vbapj.chm132349
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.IgnoreResourceCalendar
 ms.assetid: fd182f46-b30b-0ecc-bc1e-05427d35da45

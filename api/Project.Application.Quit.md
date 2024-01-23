@@ -3,7 +3,7 @@ title: Application.Quit method (Project)
 keywords: vbapj.chm131252
 f1_keywords:
 - vbapj.chm131252
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Quit
 ms.assetid: 0aaba635-6d6a-c4a3-fab3-03451659021b

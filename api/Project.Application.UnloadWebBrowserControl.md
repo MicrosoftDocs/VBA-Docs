@@ -1,6 +1,6 @@
 ---
 title: Application.UnloadWebBrowserControl method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.UnloadWebBrowserControl
 ms.assetid: beccb5ae-102c-4c68-595b-47ff08da72ab

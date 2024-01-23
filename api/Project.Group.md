@@ -1,6 +1,6 @@
 ---
 title: Group object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group
 ms.assetid: e3756818-f051-1ae4-5402-0398e568ebfc

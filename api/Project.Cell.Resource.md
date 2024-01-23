@@ -1,6 +1,6 @@
 ---
 title: Cell.Resource property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.Resource
 ms.assetid: 17514412-363a-dd2d-f0b5-97b8fb5d41cc

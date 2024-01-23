@@ -1,6 +1,6 @@
 ---
 title: Application.MailLogoff method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MailLogoff
 ms.assetid: e8634331-404c-6e01-4ce9-2dac8dcf364c

@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforePrint event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectBeforePrint
 ms.assetid: 7cc8de23-c3e3-81df-ae26-37c4e639dd81

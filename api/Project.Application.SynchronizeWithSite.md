@@ -3,7 +3,7 @@ title: Application.SynchronizeWithSite method (Project)
 keywords: vbapj.chm2287
 f1_keywords:
 - vbapj.chm2287
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SynchronizeWithSite
 ms.assetid: 1bd749d2-fe3f-ee86-dc27-5e39267901bc

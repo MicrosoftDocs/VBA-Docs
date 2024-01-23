@@ -3,7 +3,7 @@ title: Application.PasteDestFormatting method (Project)
 keywords: vbapj.chm140
 f1_keywords:
 - vbapj.chm140
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 4a56bb42-d3d7-fcad-d361-63135e23fc3a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

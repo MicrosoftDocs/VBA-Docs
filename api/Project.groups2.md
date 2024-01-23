@@ -1,6 +1,6 @@
 ---
 title: Groups2 object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: b2b83868-3366-4fb0-fed9-16d4c5eaff87
 ms.date: 06/08/2017
 ms.localizationpriority: medium

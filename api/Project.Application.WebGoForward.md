@@ -3,7 +3,7 @@ title: Application.WebGoForward method (Project)
 keywords: vbapj.chm1301
 f1_keywords:
 - vbapj.chm1301
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WebGoForward
 ms.assetid: 2692d709-58e3-cf21-2dce-f056e6144c7e

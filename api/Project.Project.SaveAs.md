@@ -3,7 +3,7 @@ title: Project.SaveAs method (Project)
 keywords: vbapj.chm132597
 f1_keywords:
 - vbapj.chm132597
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.SaveAs
 ms.assetid: 947fb1f9-0abd-7423-2c22-96bb91f2dc6e

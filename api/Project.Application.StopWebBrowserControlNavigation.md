@@ -3,7 +3,7 @@ title: Application.StopWebBrowserControlNavigation method (Project)
 keywords: vbapj.chm55
 f1_keywords:
 - vbapj.chm55
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.StopWebBrowserControlNavigation
 ms.assetid: 6f3e0fbd-607e-905e-94ef-b34b2187a515

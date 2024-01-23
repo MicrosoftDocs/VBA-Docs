@@ -1,6 +1,6 @@
 ---
 title: PjBoxStyle enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBoxStyle
 ms.assetid: c057bee9-5c28-f32a-2c0c-db8b56e9dc52

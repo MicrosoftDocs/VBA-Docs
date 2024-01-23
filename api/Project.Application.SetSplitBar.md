@@ -3,7 +3,7 @@ title: Application.SetSplitBar method (Project)
 keywords: vbapj.chm31
 f1_keywords:
 - vbapj.chm31
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetSplitBar
 ms.assetid: caf26a56-43ad-1714-79e4-cab013a55f3c

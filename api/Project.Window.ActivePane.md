@@ -3,7 +3,7 @@ title: Window.ActivePane property (Project)
 keywords: vbapj.chm131376
 f1_keywords:
 - vbapj.chm131376
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.ActivePane
 ms.assetid: 25cb8cf3-c313-304a-f69e-6797b04dcac8

@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeTaskChange2 event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectBeforeTaskChange2
 ms.assetid: 00992e39-dcbd-3826-4ce6-e2be55dc9c2c

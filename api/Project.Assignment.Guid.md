@@ -1,6 +1,6 @@
 ---
 title: Assignment.Guid property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Guid
 ms.assetid: c6db05fe-e2f1-edb7-e622-5b2d5e791237

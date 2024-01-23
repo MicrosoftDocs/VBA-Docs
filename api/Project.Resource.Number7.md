@@ -1,6 +1,6 @@
 ---
 title: Resource.Number7 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Number7
 ms.assetid: fa480ff7-3ab2-7c46-7360-d7a8455910ef

@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Width property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: f19e494e-8210-9ecb-338a-0134de53fc09
 ms.date: 06/08/2017
 ms.localizationpriority: medium

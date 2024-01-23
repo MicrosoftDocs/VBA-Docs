@@ -3,7 +3,7 @@ title: Application.ViewShowResourcesPredecessors method (Project)
 keywords: vbapj.chm915
 f1_keywords:
 - vbapj.chm915
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowResourcesPredecessors
 ms.assetid: 3f7d0a36-cc1b-f3f2-8e25-d6b898d19afe

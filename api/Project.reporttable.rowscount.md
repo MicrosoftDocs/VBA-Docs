@@ -1,6 +1,6 @@
 ---
 title: ReportTable.RowsCount property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 313837bd-c929-ab9c-1b2f-93e2cfb38d7d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

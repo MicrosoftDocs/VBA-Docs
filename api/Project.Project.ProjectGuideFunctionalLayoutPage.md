@@ -3,7 +3,7 @@ title: Project.ProjectGuideFunctionalLayoutPage property (Project)
 keywords: vbapj.chm131088
 f1_keywords:
 - vbapj.chm131088
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectGuideFunctionalLayoutPage
 ms.assetid: 87a9e383-6b91-669e-86e4-e55b7030b861

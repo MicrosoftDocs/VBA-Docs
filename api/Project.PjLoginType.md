@@ -1,6 +1,6 @@
 ---
 title: PjLoginType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLoginType
 ms.assetid: 974e4384-da46-b7e2-299f-9821cf88c1fb

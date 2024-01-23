@@ -3,7 +3,7 @@ title: Application.WindowPrev method (Project)
 keywords: vbapj.chm2006
 f1_keywords:
 - vbapj.chm2006
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowPrev
 ms.assetid: f95cf733-fc5c-e454-55b6-11f704dee431

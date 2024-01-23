@@ -3,7 +3,7 @@ title: Application.InactivateTaskToggle method (Project)
 keywords: vbapj.chm91
 f1_keywords:
 - vbapj.chm91
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InactivateTaskToggle
 ms.assetid: af937c95-b434-95b8-7ea4-848c25ca30bc

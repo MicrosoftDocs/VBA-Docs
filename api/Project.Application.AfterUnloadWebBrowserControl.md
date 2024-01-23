@@ -1,6 +1,6 @@
 ---
 title: Application.AfterUnloadWebBrowserControl method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AfterUnloadWebBrowserControl
 ms.assetid: 794718d0-2f23-06ad-1d14-19fb7e946a1f

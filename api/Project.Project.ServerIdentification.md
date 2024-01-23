@@ -1,6 +1,6 @@
 ---
 title: Project.ServerIdentification property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ServerIdentification
 ms.assetid: e424eafb-c763-18e1-871c-626eae6f2036

@@ -1,6 +1,6 @@
 ---
 title: Exceptions.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exceptions.Add
 ms.assetid: a20cbcdf-d764-de46-d57f-0cc283665129

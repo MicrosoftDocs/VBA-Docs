@@ -1,6 +1,6 @@
 ---
 title: Assignment.FixedMaterialAssignment property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.FixedMaterialAssignment
 ms.assetid: 16593466-1d5e-27b3-110d-e5cfeb165355

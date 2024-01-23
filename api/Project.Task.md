@@ -3,7 +3,7 @@ title: Task object (Project)
 keywords: vbapj.chm131335
 f1_keywords:
 - vbapj.chm131335
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task
 ms.assetid: bc6bb4a5-95a6-9d1f-3e28-92b9548a544a

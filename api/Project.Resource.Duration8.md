@@ -1,6 +1,6 @@
 ---
 title: Resource.Duration8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Duration8
 ms.assetid: 7305d9da-68d2-25e8-b83f-593f5c3ed861

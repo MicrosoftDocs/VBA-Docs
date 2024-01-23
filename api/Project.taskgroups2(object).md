@@ -1,6 +1,6 @@
 ---
 title: TaskGroups2 object (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 08346fd5-3dbd-23ea-9dc8-c2361ce043f4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

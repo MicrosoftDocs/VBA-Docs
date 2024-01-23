@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline1Work property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Baseline1Work
 ms.assetid: 6584b8d7-96f0-905b-9b22-19917c1452ae

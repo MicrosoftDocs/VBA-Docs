@@ -1,6 +1,6 @@
 ---
 title: PjDateLabel enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjDateLabel
 ms.assetid: ece69c4d-35fc-a795-8acb-1ff79df9fe1c

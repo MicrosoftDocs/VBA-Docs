@@ -1,6 +1,6 @@
 ---
 title: Shift.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Shift.Application
 ms.assetid: 59c941ed-2cb4-4cf8-5526-e9489abd619a

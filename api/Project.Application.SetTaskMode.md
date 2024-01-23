@@ -3,7 +3,7 @@ title: Application.SetTaskMode method (Project)
 keywords: vbapj.chm90
 f1_keywords:
 - vbapj.chm90
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetTaskMode
 ms.assetid: 0d800877-9cd9-97e0-6912-6a8d5f596276

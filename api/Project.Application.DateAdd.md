@@ -1,6 +1,6 @@
 ---
 title: Application.DateAdd method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DateAdd
 ms.assetid: df0da054-495c-c224-ebc8-b47acb78e2af

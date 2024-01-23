@@ -1,6 +1,6 @@
 ---
 title: Resource.ActualWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.ActualWork
 ms.assetid: 1f4e3558-17c7-506b-3ff1-41da110aeec3

@@ -1,6 +1,6 @@
 ---
 title: PjField enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjField
 ms.assetid: f0df0929-921c-1f33-ab42-192efdaeb64d

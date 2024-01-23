@@ -3,7 +3,7 @@ title: Application.VisualReportsSaveDatabase method (Project)
 keywords: vbapj.chm2138
 f1_keywords:
 - vbapj.chm2138
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.VisualReportsSaveDatabase
 ms.assetid: edcbaff5-beb1-ba11-fb65-ec26a24ab23d

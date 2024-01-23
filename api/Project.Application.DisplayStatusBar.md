@@ -3,7 +3,7 @@ title: Application.DisplayStatusBar property (Project)
 keywords: vbapj.chm131752
 f1_keywords:
 - vbapj.chm131752
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DisplayStatusBar
 ms.assetid: 9764173e-6ea3-29d1-5b79-fb763986584b

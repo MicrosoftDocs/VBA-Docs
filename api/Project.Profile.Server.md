@@ -3,7 +3,7 @@ title: Profile.Server property (Project)
 keywords: vbapj.chm132511
 f1_keywords:
 - vbapj.chm132511
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profile.Server
 ms.assetid: 325bd44a-d106-d3be-3a6e-d59f354e72c5

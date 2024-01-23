@@ -3,7 +3,7 @@ title: Application.FileSaveWorkspace method (Project)
 keywords: vbapj.chm108
 f1_keywords:
 - vbapj.chm108
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FileSaveWorkspace
 ms.assetid: f7c524e5-aa9e-e1a2-6f32-defb7cc23f04

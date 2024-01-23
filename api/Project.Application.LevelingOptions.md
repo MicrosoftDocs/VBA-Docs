@@ -3,7 +3,7 @@ title: Application.LevelingOptions method (Project)
 keywords: vbapj.chm608
 f1_keywords:
 - vbapj.chm608
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LevelingOptions
 ms.assetid: 388a2315-e44b-3890-a16a-92ea5a778bbd

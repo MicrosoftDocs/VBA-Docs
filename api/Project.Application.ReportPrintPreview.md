@@ -3,7 +3,7 @@ title: Application.ReportPrintPreview method (Project)
 keywords: vbapj.chm112
 f1_keywords:
 - vbapj.chm112
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ReportPrintPreview
 ms.assetid: f93003ee-c25e-9581-191e-478bb30314f0

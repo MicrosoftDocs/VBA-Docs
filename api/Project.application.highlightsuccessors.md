@@ -3,7 +3,7 @@ title: Application.HighlightSuccessors method (Project)
 keywords: vbapj.chm149
 f1_keywords:
 - vbapj.chm149
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 7a72cc0a-49f0-c95d-23cc-35d7ee077539
 ms.date: 06/08/2017
 ms.localizationpriority: medium

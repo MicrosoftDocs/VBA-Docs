@@ -3,7 +3,7 @@ title: Application.GroupNew method (Project)
 keywords: vbapj.chm514
 f1_keywords:
 - vbapj.chm514
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GroupNew
 ms.assetid: 28db77c8-209a-9833-eb52-f77c23e6dc8c

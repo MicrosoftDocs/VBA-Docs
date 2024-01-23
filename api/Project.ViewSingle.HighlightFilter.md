@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.HighlightFilter property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.HighlightFilter
 ms.assetid: 0288340c-69b9-de45-2303-ed4b8632eeff

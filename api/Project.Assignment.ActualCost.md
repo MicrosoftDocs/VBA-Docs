@@ -1,6 +1,6 @@
 ---
 title: Assignment.ActualCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.ActualCost
 ms.assetid: 45bf4d44-bce7-474a-7093-ff0c97d3b7f6

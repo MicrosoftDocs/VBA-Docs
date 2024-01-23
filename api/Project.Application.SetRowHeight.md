@@ -3,7 +3,7 @@ title: Application.SetRowHeight method (Project)
 keywords: vbapj.chm2118
 f1_keywords:
 - vbapj.chm2118
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetRowHeight
 ms.assetid: bfa4a87b-9e9f-9937-4b9d-a7b26576a5da

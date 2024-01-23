@@ -1,6 +1,6 @@
 ---
 title: CodeMask.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CodeMask.Count
 ms.assetid: ba33b1a1-f40a-4483-a551-c18d7dbe6797

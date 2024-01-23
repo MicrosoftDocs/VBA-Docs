@@ -1,6 +1,6 @@
 ---
 title: Window.BottomPane property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.BottomPane
 ms.assetid: 5b165c3d-6316-8e9c-782c-c350fb768cda

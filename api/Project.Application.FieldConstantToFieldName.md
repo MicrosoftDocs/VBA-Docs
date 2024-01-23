@@ -1,6 +1,6 @@
 ---
 title: Application.FieldConstantToFieldName method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FieldConstantToFieldName
 ms.assetid: b8e55035-64e8-fda5-4ad6-9f5e51a55181

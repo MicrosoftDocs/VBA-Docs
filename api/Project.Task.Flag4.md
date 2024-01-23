@@ -1,6 +1,6 @@
 ---
 title: Task.Flag4 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Flag4
 ms.assetid: 8fe98757-39f1-2ca8-237f-6675fec7bd99

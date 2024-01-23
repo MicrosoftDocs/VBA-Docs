@@ -1,6 +1,6 @@
 ---
 title: WeekDays.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WeekDays.Parent
 ms.assetid: 0282a021-d2a8-84c7-1030-0b7845cf42f3

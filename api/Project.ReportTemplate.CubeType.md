@@ -3,7 +3,7 @@ title: ReportTemplate.CubeType property (Project)
 keywords: vbapj.chm131079
 f1_keywords:
 - vbapj.chm131079
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ReportTemplate.CubeType
 ms.assetid: 069e2b60-9812-ad99-4ef5-5b2606814628

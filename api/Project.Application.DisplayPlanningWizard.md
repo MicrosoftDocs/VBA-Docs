@@ -1,6 +1,6 @@
 ---
 title: Application.DisplayPlanningWizard property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DisplayPlanningWizard
 ms.assetid: eac1ac6f-8d2d-6c4a-fe7c-fadab773a624

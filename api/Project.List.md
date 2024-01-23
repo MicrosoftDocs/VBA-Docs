@@ -1,6 +1,6 @@
 ---
 title: List object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.List
 ms.assetid: 3934c2e8-d810-6571-9a33-1d41edbab87a

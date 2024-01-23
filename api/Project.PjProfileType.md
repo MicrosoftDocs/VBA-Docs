@@ -1,6 +1,6 @@
 ---
 title: PjProfileType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjProfileType
 ms.assetid: 37b5faa0-bd06-09e7-7185-44444daec348

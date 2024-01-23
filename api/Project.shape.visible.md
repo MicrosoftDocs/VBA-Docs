@@ -1,6 +1,6 @@
 ---
 title: Shape.Visible property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 646a7ea2-b644-0ee8-3587-50dbaa19ab36
 ms.date: 06/08/2017
 ms.localizationpriority: medium

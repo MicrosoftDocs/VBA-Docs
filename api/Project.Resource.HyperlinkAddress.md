@@ -1,6 +1,6 @@
 ---
 title: Resource.HyperlinkAddress property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.HyperlinkAddress
 ms.assetid: 44de3c24-ff9d-49dc-d942-8167a73b9ef6

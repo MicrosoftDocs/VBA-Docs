@@ -3,7 +3,7 @@ title: Application.CreateProjectSite method (Project)
 keywords: vbapj.chm142
 f1_keywords:
 - vbapj.chm142
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 79c77f3c-0ea6-eed7-762c-f364dc7f3ab7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

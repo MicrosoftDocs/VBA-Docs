@@ -3,7 +3,7 @@ title: Application.LoadWebBrowserControlEx method (Project)
 keywords: vbapj.chm54
 f1_keywords:
 - vbapj.chm54
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LoadWebBrowserControlEx
 ms.assetid: 2dca75d3-30ad-ecd0-a465-1190234b9b9b

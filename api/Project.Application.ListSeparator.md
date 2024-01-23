@@ -3,7 +3,7 @@ title: Application.ListSeparator property (Project)
 keywords: vbapj.chm132385
 f1_keywords:
 - vbapj.chm132385
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ListSeparator
 ms.assetid: 86659bb7-d205-2205-9cd5-e825cdef64ce

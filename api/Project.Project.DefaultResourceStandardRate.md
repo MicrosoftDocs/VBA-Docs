@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultResourceStandardRate property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DefaultResourceStandardRate
 ms.assetid: 39c5fc04-5710-2a6b-38af-cfc547f3c970

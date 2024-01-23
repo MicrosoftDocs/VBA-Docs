@@ -3,7 +3,7 @@ title: Project.ResourceErrorCount method (Project)
 keywords: vbapj.chm131110
 f1_keywords:
 - vbapj.chm131110
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ResourceErrorCount
 ms.assetid: 36c489a4-1839-b5a7-c534-5694e67ec026

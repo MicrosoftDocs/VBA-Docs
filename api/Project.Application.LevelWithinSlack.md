@@ -1,6 +1,6 @@
 ---
 title: Application.LevelWithinSlack property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LevelWithinSlack
 ms.assetid: 08c7a6ea-fe7d-c5c5-42b4-66940019aa0b

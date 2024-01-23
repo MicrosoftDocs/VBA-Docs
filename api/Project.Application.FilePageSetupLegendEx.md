@@ -3,7 +3,7 @@ title: Application.FilePageSetupLegendEx method (Project)
 keywords: vbapj.chm2161
 f1_keywords:
 - vbapj.chm2161
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FilePageSetupLegendEx
 ms.assetid: 5cc6c6c1-2228-9c12-3ba6-fd124852a7aa

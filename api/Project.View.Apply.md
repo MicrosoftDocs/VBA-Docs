@@ -1,6 +1,6 @@
 ---
 title: View.Apply method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.View.Apply
 ms.assetid: 958801ba-9ede-c60c-de79-bd2024615979

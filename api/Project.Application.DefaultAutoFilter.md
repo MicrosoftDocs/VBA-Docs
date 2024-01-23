@@ -1,6 +1,6 @@
 ---
 title: Application.DefaultAutoFilter property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DefaultAutoFilter
 ms.assetid: ef2301d0-6a57-7d88-75ee-6b57909317e9

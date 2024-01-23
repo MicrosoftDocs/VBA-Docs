@@ -1,6 +1,6 @@
 ---
 title: Project.Container property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.Container
 ms.assetid: 34969587-b74d-3425-0f4f-af7d90221b10

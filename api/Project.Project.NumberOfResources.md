@@ -3,7 +3,7 @@ title: Project.NumberOfResources property (Project)
 keywords: vbapj.chm132442
 f1_keywords:
 - vbapj.chm132442
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.NumberOfResources
 ms.assetid: a65ece0e-0285-a0d4-fb45-3f4d730ddd3d

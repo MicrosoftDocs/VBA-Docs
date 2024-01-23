@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverableLinkToProject method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverableLinkToProject
 ms.assetid: aa78de59-13b2-98f8-45e7-2c40edfaeb25

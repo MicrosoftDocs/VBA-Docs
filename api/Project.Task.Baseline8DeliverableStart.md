@@ -3,7 +3,7 @@ title: Task.Baseline8DeliverableStart property (Project)
 keywords: vbapj.chm131543
 f1_keywords:
 - vbapj.chm131543
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline8DeliverableStart
 ms.assetid: c9a0191d-a3ae-7793-ebff-bd40101bb985

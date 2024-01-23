@@ -1,6 +1,6 @@
 ---
 title: SplitPart.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.SplitPart.Delete
 ms.assetid: 6d09354b-3cda-fe22-0e6f-157f509ce026

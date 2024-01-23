@@ -1,6 +1,6 @@
 ---
 title: PjNonWorkingPlacement enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjNonWorkingPlacement
 ms.assetid: a7ddaf84-c69d-4b2d-0bbe-94525b3b7082

@@ -1,6 +1,6 @@
 ---
 title: WorkWeeks.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeeks.Count
 ms.assetid: d8360e75-7dbe-955b-dd95-20fb3bf465e3

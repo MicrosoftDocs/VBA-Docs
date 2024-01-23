@@ -1,6 +1,6 @@
 ---
 title: Profiles.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profiles.Count
 ms.assetid: 309a89a9-9478-242f-6108-7054e4526253

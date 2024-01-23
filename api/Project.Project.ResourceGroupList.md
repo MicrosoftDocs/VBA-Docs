@@ -3,7 +3,7 @@ title: Project.ResourceGroupList property (Project)
 keywords: vbapj.chm132565
 f1_keywords:
 - vbapj.chm132565
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ResourceGroupList
 ms.assetid: a64fe8c8-e75f-3cab-e77a-54fc6c1bf0a5

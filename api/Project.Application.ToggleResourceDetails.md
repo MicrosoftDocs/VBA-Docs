@@ -3,7 +3,7 @@ title: Application.ToggleResourceDetails method (Project)
 keywords: vbapj.chm2299
 f1_keywords:
 - vbapj.chm2299
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ToggleResourceDetails
 ms.assetid: b8fe41db-b808-cf3d-2ee9-36afca3cd269

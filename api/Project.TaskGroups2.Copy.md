@@ -1,6 +1,6 @@
 ---
 title: TaskGroups2.Copy method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskGroups2.Copy
 ms.assetid: 7afc3518-e5bb-52be-0a45-edb436381250

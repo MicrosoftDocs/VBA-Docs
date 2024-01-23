@@ -3,7 +3,7 @@ title: Task.SVPercent property (Project)
 keywords: vbapj.chm132596
 f1_keywords:
 - vbapj.chm132596
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.SVPercent
 ms.assetid: 96d96b8f-0b8d-ecb9-1281-059d759cf443

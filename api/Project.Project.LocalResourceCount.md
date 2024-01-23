@@ -3,7 +3,7 @@ title: Project.LocalResourceCount method (Project)
 keywords: vbapj.chm131112
 f1_keywords:
 - vbapj.chm131112
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.LocalResourceCount
 ms.assetid: 391b10bc-f738-7b10-cdf3-5b3838b289ef

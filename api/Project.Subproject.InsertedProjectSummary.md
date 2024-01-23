@@ -1,6 +1,6 @@
 ---
 title: Subproject.InsertedProjectSummary property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Subproject.InsertedProjectSummary
 ms.assetid: a98d0c9c-2c9d-d15e-2716-ed27ee9273c2

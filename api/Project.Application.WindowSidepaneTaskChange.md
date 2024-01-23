@@ -1,6 +1,6 @@
 ---
 title: Application.WindowSidepaneTaskChange event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowSidepaneTaskChange
 ms.assetid: 674a8134-1e34-2658-6c67-5eb92c628ed8

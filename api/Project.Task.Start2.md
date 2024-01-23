@@ -1,6 +1,6 @@
 ---
 title: Task.Start2 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Start2
 ms.assetid: 9b62fb95-cdef-58e6-5495-6be382a95899

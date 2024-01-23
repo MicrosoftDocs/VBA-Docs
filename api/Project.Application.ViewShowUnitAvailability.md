@@ -3,7 +3,7 @@ title: Application.ViewShowUnitAvailability method (Project)
 keywords: vbapj.chm931
 f1_keywords:
 - vbapj.chm931
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowUnitAvailability
 ms.assetid: 900af4b4-dd2d-483e-b207-6d199c51092b

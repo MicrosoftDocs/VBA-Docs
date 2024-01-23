@@ -1,6 +1,6 @@
 ---
 title: Resource.BaseCalendar property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.BaseCalendar
 ms.assetid: f6893deb-6faa-2d36-6633-5186f2af5765

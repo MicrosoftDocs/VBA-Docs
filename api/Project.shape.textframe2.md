@@ -1,6 +1,6 @@
 ---
 title: Shape.TextFrame2 property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 9f79d3a3-780c-e0b8-1255-e74e027b9902
 ms.date: 06/08/2017
 ms.localizationpriority: medium

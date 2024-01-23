@@ -3,7 +3,7 @@ title: Application.WindowUnhide method (Project)
 keywords: vbapj.chm704
 f1_keywords:
 - vbapj.chm704
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowUnhide
 ms.assetid: 438693a7-5b99-e373-6d28-9a42dfcda7d1

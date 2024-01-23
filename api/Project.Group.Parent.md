@@ -1,6 +1,6 @@
 ---
 title: Group.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group.Parent
 ms.assetid: 8e137984-2557-a406-b2d4-392607c12353

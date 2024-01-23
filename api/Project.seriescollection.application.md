@@ -1,6 +1,6 @@
 ---
 title: SeriesCollection.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 5cdae2e9-9e50-332c-89df-4a91263a6e27
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: GroupCriteria2.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriteria2.Add
 ms.assetid: c10914c1-eda2-128e-0c5d-056ee51a9076

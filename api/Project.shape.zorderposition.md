@@ -1,6 +1,6 @@
 ---
 title: Shape.ZOrderPosition property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: ebbd573a-4cf0-a3af-7dff-de67d321d9d2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

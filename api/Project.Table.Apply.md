@@ -3,7 +3,7 @@ title: Table.Apply method (Project)
 keywords: vbapj.chm132680
 f1_keywords:
 - vbapj.chm132680
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Table.Apply
 ms.assetid: 05452633-fb60-b8c1-ac75-83351682df99

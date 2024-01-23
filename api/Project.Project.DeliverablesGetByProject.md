@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverablesGetByProject method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverablesGetByProject
 ms.assetid: bbf626e8-a43e-dd06-dd2a-3d29aa1f0b6b

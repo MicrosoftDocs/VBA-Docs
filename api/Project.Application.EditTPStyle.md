@@ -3,7 +3,7 @@ title: Application.EditTPStyle method (Project)
 keywords: vbapj.chm57
 f1_keywords:
 - vbapj.chm57
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EditTPStyle
 ms.assetid: 71252516-31b5-1184-97f8-da27558620f1

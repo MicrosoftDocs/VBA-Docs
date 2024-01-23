@@ -3,7 +3,7 @@ title: WorkWeek object (Project)
 keywords: vbapj.chm131359
 f1_keywords:
 - vbapj.chm131359
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeek
 ms.assetid: d2dc3a0a-a869-2675-5e1c-971157a9d499

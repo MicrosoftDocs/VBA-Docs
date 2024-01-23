@@ -1,6 +1,6 @@
 ---
 title: GroupCriteria.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriteria.Application
 ms.assetid: 81c556a9-1e18-8d5f-8cdf-ca069146e959

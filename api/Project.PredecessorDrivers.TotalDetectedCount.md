@@ -1,6 +1,6 @@
 ---
 title: PredecessorDrivers.TotalDetectedCount property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PredecessorDrivers.TotalDetectedCount
 ms.assetid: 479cc962-5156-6f30-b304-5f4a6bc3abea

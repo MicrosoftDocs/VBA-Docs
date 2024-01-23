@@ -3,7 +3,7 @@ title: CodeMask.Add method (Project)
 keywords: vbapj.chm131648
 f1_keywords:
 - vbapj.chm131648
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CodeMask.Add
 ms.assetid: 78a7afaa-1a19-6d64-1341-63955aaff7e3

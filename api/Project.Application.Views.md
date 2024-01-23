@@ -3,7 +3,7 @@ title: Application.Views method (Project)
 keywords: vbapj.chm301
 f1_keywords:
 - vbapj.chm301
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Views
 ms.assetid: 76f29c4c-1854-e136-2d72-d50fe786c26b

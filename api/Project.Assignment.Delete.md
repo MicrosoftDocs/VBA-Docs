@@ -1,6 +1,6 @@
 ---
 title: Assignment.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Delete
 ms.assetid: 3147c0e0-239c-75d2-cae9-c299412190e2

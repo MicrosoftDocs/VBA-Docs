@@ -3,7 +3,7 @@ title: Task.Baseline7DurationEstimated property (Project)
 keywords: vbapj.chm131530
 f1_keywords:
 - vbapj.chm131530
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline7DurationEstimated
 ms.assetid: c6a8970b-b62f-a011-3b99-a170e4204e54

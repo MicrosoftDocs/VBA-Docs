@@ -3,7 +3,7 @@ title: Application.TimelineInsertTask method (Project)
 keywords: vbapj.chm65
 f1_keywords:
 - vbapj.chm65
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TimelineInsertTask
 ms.assetid: 4a1833a4-ddbb-577d-fe58-5907644fd127

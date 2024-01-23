@@ -1,6 +1,6 @@
 ---
 title: PjIsCommandEnabled enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjIsCommandEnabled
 ms.assetid: 20df5250-67be-34fb-6c1f-d64c9a8430bb

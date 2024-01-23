@@ -1,6 +1,6 @@
 ---
 title: Application.DefaultView property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DefaultView
 ms.assetid: 19f3cc23-6267-0b1f-7db5-7783d6936533

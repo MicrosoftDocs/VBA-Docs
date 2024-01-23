@@ -1,6 +1,6 @@
 ---
 title: Task.RemainingOvertimeCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.RemainingOvertimeCost
 ms.assetid: 6e8d72fd-efac-ed22-9549-950bba1cfc84

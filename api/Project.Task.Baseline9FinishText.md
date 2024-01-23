@@ -3,7 +3,7 @@ title: Task.Baseline9FinishText property (Project)
 keywords: vbapj.chm131563
 f1_keywords:
 - vbapj.chm131563
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline9FinishText
 ms.assetid: e12d7bdf-c7ff-092c-6907-3fe83d26daae

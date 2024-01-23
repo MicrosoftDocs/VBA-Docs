@@ -1,6 +1,6 @@
 ---
 title: ViewCombination.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewCombination.Delete
 ms.assetid: ae00027a-684a-907f-1555-c128e2b88a23

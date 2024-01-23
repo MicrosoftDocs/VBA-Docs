@@ -1,6 +1,6 @@
 ---
 title: Assignment.Number9 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Number9
 ms.assetid: 656b64f7-a08c-2d4a-9b3c-01cbd7f02885

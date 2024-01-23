@@ -1,6 +1,6 @@
 ---
 title: Shift.Clear method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Shift.Clear
 ms.assetid: 89243732-8c83-ba1e-01ff-fdbfa4d4c4d2

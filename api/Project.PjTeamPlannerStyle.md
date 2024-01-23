@@ -1,6 +1,6 @@
 ---
 title: PjTeamPlannerStyle enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjTeamPlannerStyle
 ms.assetid: 75cdc9ed-241e-c420-192b-2452fa66ae8c

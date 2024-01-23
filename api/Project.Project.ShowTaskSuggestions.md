@@ -1,6 +1,6 @@
 ---
 title: Project.ShowTaskSuggestions property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ShowTaskSuggestions
 ms.assetid: af4403d9-4c3f-60dc-c081-7e63b7da4738

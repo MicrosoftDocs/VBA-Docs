@@ -1,6 +1,6 @@
 ---
 title: ViewCombination.BottomView property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewCombination.BottomView
 ms.assetid: f0888ba4-f875-37e4-4842-a62efd6f65e3

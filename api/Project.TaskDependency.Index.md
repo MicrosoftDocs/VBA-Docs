@@ -1,6 +1,6 @@
 ---
 title: TaskDependency.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TaskDependency.Index
 ms.assetid: 709c6af8-e383-8d41-e4d5-2e928d450905

@@ -1,6 +1,6 @@
 ---
 title: Application.GetCacheStatusForProject property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 71ab8ee0-83fc-c80f-3583-ce66b167d044
 ms.date: 06/08/2017
 ms.localizationpriority: medium

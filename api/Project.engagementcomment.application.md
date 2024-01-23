@@ -2,7 +2,7 @@
 title: EngagementComment.Application property (Project)
 ms.assetid: 7c74fa87-932a-6f46-72cd-3f0ad3dfa245
 ms.date: 06/08/2017
-ms.prod: project-server
+ms.service: project-server
 ms.localizationpriority: medium
 ---
 

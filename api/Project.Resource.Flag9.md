@@ -1,6 +1,6 @@
 ---
 title: Resource.Flag9 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Flag9
 ms.assetid: f01bb999-4b23-cd2e-a817-141ec157ad7e

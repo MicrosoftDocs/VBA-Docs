@@ -1,6 +1,6 @@
 ---
 title: LookupTable.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.LookupTable.Parent
 ms.assetid: e49d283d-6c5c-29b4-a5b8-84c770a303ef

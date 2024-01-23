@@ -1,6 +1,6 @@
 ---
 title: Selection.Resources property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Selection.Resources
 ms.assetid: f51d3c00-13a6-8584-4088-521671873184

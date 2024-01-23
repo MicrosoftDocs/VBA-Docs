@@ -1,6 +1,6 @@
 ---
 title: Application.MailLogon method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MailLogon
 ms.assetid: 0047a6ea-ea36-498c-e744-c4c88a08baae

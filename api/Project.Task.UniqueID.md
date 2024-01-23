@@ -1,6 +1,6 @@
 ---
 title: Task.UniqueID property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.UniqueID
 ms.assetid: 7a36cb8c-5715-c0cb-5584-ae48874f2ab9

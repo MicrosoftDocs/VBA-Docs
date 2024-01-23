@@ -1,6 +1,6 @@
 ---
 title: Shape.Callout property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: b6ee3e73-6b50-0cbb-9208-006e9a856ed6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

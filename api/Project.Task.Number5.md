@@ -1,6 +1,6 @@
 ---
 title: Task.Number5 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Number5
 ms.assetid: da7d7c45-b202-8e2c-af6a-c1bf0b1c605e

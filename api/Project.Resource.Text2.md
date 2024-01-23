@@ -1,6 +1,6 @@
 ---
 title: Resource.Text2 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Text2
 ms.assetid: d0bcfa29-151f-6426-58c6-27f54ead2286

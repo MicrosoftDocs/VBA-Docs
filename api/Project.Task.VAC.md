@@ -1,6 +1,6 @@
 ---
 title: Task.VAC property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.VAC
 ms.assetid: 0d72b0a0-0020-cd8b-648b-e86593cbaeef

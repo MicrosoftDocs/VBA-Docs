@@ -1,6 +1,6 @@
 ---
 title: Month.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Month.Index
 ms.assetid: 630e35b0-1940-9290-6587-9f30669c4846

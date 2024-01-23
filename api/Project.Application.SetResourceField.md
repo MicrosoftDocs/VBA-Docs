@@ -3,7 +3,7 @@ title: Application.SetResourceField method (Project)
 keywords: vbapj.chm5
 f1_keywords:
 - vbapj.chm5
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetResourceField
 ms.assetid: fbf71bbe-86cc-c53c-a0c3-0df288e2b480

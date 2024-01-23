@@ -1,6 +1,6 @@
 ---
 title: PjScheduleProjectFrom enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjScheduleProjectFrom
 ms.assetid: 4b08cc45-ea84-7578-90b7-994908800a1a

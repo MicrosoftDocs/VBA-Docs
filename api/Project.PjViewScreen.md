@@ -1,6 +1,6 @@
 ---
 title: PjViewScreen enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjViewScreen
 ms.assetid: a345e016-ef13-0605-7b2a-5e91c748743e

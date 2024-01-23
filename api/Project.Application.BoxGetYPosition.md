@@ -3,7 +3,7 @@ title: Application.BoxGetYPosition method (Project)
 keywords: vbapj.chm131247
 f1_keywords:
 - vbapj.chm131247
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BoxGetYPosition
 ms.assetid: 8284181f-b677-8cc4-8311-23d50987239c

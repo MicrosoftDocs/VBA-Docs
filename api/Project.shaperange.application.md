@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 74ea0734-cce0-2c60-75fc-e10d3d582551
 ms.date: 06/08/2017
 ms.localizationpriority: medium

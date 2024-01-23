@@ -1,6 +1,6 @@
 ---
 title: PjFillPattern enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjFillPattern
 ms.assetid: 4f6af32c-5efd-42b6-4017-20a1497c1b6d

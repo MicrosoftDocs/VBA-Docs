@@ -3,7 +3,7 @@ title: Application.SelectResourceCell method (Project)
 keywords: vbapj.chm2069
 f1_keywords:
 - vbapj.chm2069
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectResourceCell
 ms.assetid: 3bae94f3-5661-63ef-47a6-12824d5426d0

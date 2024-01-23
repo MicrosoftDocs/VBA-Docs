@@ -1,6 +1,6 @@
 ---
 title: PjCalendarType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCalendarType
 ms.assetid: c95af1e5-ec5d-230e-ea1c-572a70881985

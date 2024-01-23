@@ -1,6 +1,6 @@
 ---
 title: Application.PathSeparator property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.PathSeparator
 ms.assetid: 6daeb9c9-40e1-1da6-1123-50983dd4d8c2

@@ -1,6 +1,6 @@
 ---
 title: PjBoxSet enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBoxSet
 ms.assetid: 7eea02e0-3bac-cd80-4f19-fc8ce7e1da5c

@@ -1,6 +1,6 @@
 ---
 title: PjIMEMode enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjIMEMode
 ms.assetid: 1839bec7-3244-1b3b-a72f-c96f44034695

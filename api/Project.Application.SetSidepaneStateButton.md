@@ -1,6 +1,6 @@
 ---
 title: Application.SetSidepaneStateButton method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetSidepaneStateButton
 ms.assetid: 21603c44-d9f3-96b6-ee42-df17eb58287a

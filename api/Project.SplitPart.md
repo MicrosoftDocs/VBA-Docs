@@ -1,6 +1,6 @@
 ---
 title: SplitPart object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.SplitPart
 ms.assetid: 7eb80010-7b5a-3833-a5c5-b02d0c0bea5c

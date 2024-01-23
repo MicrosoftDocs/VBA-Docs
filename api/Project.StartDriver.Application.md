@@ -1,6 +1,6 @@
 ---
 title: StartDriver.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.StartDriver.Application
 ms.assetid: 8c2f9095-da3f-2d72-9974-5b98fdf9fca7

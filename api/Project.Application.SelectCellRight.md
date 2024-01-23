@@ -3,7 +3,7 @@ title: Application.SelectCellRight method (Project)
 keywords: vbapj.chm2048
 f1_keywords:
 - vbapj.chm2048
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectCellRight
 ms.assetid: 3753531a-5459-eb25-a9b9-2e9f748a0518

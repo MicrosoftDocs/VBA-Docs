@@ -1,6 +1,6 @@
 ---
 title: PjLegacyFileFormats enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLegacyFileFormats
 ms.assetid: 6c037bf7-2991-fb29-5649-e79547d4e2b8

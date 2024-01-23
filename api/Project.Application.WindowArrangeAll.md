@@ -3,7 +3,7 @@ title: Application.WindowArrangeAll method (Project)
 keywords: vbapj.chm702
 f1_keywords:
 - vbapj.chm702
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowArrangeAll
 ms.assetid: 504db965-27ea-d0f5-5830-927555ac801c

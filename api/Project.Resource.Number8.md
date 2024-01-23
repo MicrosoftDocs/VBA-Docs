@@ -1,6 +1,6 @@
 ---
 title: Resource.Number8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Number8
 ms.assetid: 34735564-398a-83e4-e05a-e66d5a0b668f

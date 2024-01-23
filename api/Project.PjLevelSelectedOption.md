@@ -1,6 +1,6 @@
 ---
 title: PjLevelSelectedOption enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLevelSelectedOption
 ms.assetid: 6d465e8c-b41e-de33-43e7-66fb92901651

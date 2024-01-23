@@ -3,7 +3,7 @@ title: Application.RegisterProject method (Project)
 keywords: vbapj.chm131250
 f1_keywords:
 - vbapj.chm131250
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RegisterProject
 ms.assetid: 66cc4443-2adc-ff66-976e-da52c6d4f7ff

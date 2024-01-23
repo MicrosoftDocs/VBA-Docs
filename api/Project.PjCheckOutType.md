@@ -1,6 +1,6 @@
 ---
 title: PjCheckOutType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCheckOutType
 ms.assetid: be859384-3cb3-aa76-233e-5638ec9feef5

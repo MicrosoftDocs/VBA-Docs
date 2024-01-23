@@ -3,7 +3,7 @@ title: Application.SelectCellLeft method (Project)
 keywords: vbapj.chm2047
 f1_keywords:
 - vbapj.chm2047
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectCellLeft
 ms.assetid: 39bcb2db-cf65-0dc4-2594-9b3c58c4c7c9

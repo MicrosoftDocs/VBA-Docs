@@ -1,6 +1,6 @@
 ---
 title: Report.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 3a0ccb0f-443e-ea35-4766-b79f97fef84a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

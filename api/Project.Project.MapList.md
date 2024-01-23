@@ -3,7 +3,7 @@ title: Project.MapList property (Project)
 keywords: vbapj.chm132404
 f1_keywords:
 - vbapj.chm132404
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.MapList
 ms.assetid: b124f86e-fec6-ab92-93ff-5db4eff16892

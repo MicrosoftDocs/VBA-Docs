@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultWorkUnits property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DefaultWorkUnits
 ms.assetid: e44985b3-b6b9-88cc-1ded-a5269b44d127

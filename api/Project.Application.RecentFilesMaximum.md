@@ -3,7 +3,7 @@ title: Application.RecentFilesMaximum property (Project)
 keywords: vbapj.chm132538
 f1_keywords:
 - vbapj.chm132538
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RecentFilesMaximum
 ms.assetid: 005c7c09-1fbf-b807-ebe6-601c55e56c97

@@ -1,6 +1,6 @@
 ---
 title: Resource.PeakUnits property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.PeakUnits
 ms.assetid: fc42afac-5488-41be-580f-1ac5a0d885fe

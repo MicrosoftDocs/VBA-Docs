@@ -3,7 +3,7 @@ title: Project.DocumentLibraryVersions property (Project)
 keywords: vbapj.chm132594
 f1_keywords:
 - vbapj.chm132594
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DocumentLibraryVersions
 ms.assetid: 62203de2-cff4-0af7-944c-9df79710dbc8

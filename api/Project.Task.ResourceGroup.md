@@ -1,6 +1,6 @@
 ---
 title: Task.ResourceGroup property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ResourceGroup
 ms.assetid: 3ff88223-3b9c-cf5a-559c-7e41d7ed2e33

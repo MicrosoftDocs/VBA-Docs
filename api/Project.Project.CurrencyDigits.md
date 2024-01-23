@@ -3,7 +3,7 @@ title: Project.CurrencyDigits property (Project)
 keywords: vbapj.chm131696
 f1_keywords:
 - vbapj.chm131696
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CurrencyDigits
 ms.assetid: ca22d390-d3ff-6796-b43d-409d118eae53

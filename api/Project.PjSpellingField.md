@@ -1,6 +1,6 @@
 ---
 title: PjSpellingField enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjSpellingField
 ms.assetid: d3fc331d-f24d-84c4-d03c-6fcc06757718

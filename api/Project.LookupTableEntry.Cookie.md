@@ -3,7 +3,7 @@ title: LookupTableEntry.Cookie property (Project)
 keywords: vbapj.chm132388
 f1_keywords:
 - vbapj.chm132388
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.LookupTableEntry.Cookie
 ms.assetid: ed45ebc1-cae8-e350-8462-0b2fc69498a0

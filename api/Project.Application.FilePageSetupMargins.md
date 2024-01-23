@@ -3,7 +3,7 @@ title: Application.FilePageSetupMargins method (Project)
 keywords: vbapj.chm2356
 f1_keywords:
 - vbapj.chm2356
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FilePageSetupMargins
 ms.assetid: c36099a7-4ed2-0f0c-c3bb-9af35c88eb35

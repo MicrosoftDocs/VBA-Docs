@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline7StartText property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline7StartText
 ms.assetid: 684af7b4-b7e5-bf33-1492-feb4004d6cad

@@ -3,7 +3,7 @@ title: Project.MoveCompleted property (Project)
 keywords: vbapj.chm131106
 f1_keywords:
 - vbapj.chm131106
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.MoveCompleted
 ms.assetid: 83ecef23-b57b-3b7e-2563-6e26a14f18f5

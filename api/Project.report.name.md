@@ -1,6 +1,6 @@
 ---
 title: Report.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: da13696d-313a-3d78-2f1b-34d5fea4c2a9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

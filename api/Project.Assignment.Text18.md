@@ -1,6 +1,6 @@
 ---
 title: Assignment.Text18 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Text18
 ms.assetid: a346d796-70cf-213f-4b0e-6083803215b5

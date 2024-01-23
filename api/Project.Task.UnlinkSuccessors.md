@@ -1,6 +1,6 @@
 ---
 title: Task.UnlinkSuccessors method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.UnlinkSuccessors
 ms.assetid: ad3148f3-604c-aea9-f592-1f76372dffee

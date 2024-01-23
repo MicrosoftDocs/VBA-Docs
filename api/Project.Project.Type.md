@@ -1,6 +1,6 @@
 ---
 title: Project.Type property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.Type
 ms.assetid: 13393b8e-283d-d816-283e-f363b83eac91

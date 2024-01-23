@@ -1,6 +1,6 @@
 ---
 title: Application.EnterpriseMakeServerURLTrusted method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EnterpriseMakeServerURLTrusted
 ms.assetid: c91df8a2-370c-5f56-c6b4-44239d613ba6

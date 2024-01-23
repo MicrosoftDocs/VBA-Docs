@@ -1,6 +1,6 @@
 ---
 title: Project.HasPassword property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.HasPassword
 ms.assetid: 2c00e008-94d9-5d0a-d3b9-dcb57af04a19

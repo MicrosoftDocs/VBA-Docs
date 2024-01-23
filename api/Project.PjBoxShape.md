@@ -1,6 +1,6 @@
 ---
 title: PjBoxShape enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBoxShape
 ms.assetid: eb3ce053-24bd-39ec-e990-00bc1046d2f3

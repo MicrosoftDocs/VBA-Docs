@@ -3,7 +3,7 @@ title: Application.ViewShowCost method (Project)
 keywords: vbapj.chm921
 f1_keywords:
 - vbapj.chm921
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowCost
 ms.assetid: 37f4ca8b-f544-281d-6870-360bc763a400

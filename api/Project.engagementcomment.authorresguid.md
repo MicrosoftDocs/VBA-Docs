@@ -2,7 +2,7 @@
 title: EngagementComment.AuthorResGuid property (Project)
 ms.assetid: 551e1ae2-346a-aac5-7fca-ac92f6983cc6
 ms.date: 06/08/2017
-ms.prod: project-server
+ms.service: project-server
 ms.localizationpriority: medium
 ---
 

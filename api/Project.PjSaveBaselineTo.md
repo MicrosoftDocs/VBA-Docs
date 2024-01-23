@@ -1,6 +1,6 @@
 ---
 title: PjSaveBaselineTo enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjSaveBaselineTo
 ms.assetid: 2a10214f-dc7d-a427-c3a2-6a2efd147441

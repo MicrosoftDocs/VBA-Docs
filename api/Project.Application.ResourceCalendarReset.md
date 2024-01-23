@@ -3,7 +3,7 @@ title: Application.ResourceCalendarReset method (Project)
 keywords: vbapj.chm621
 f1_keywords:
 - vbapj.chm621
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ResourceCalendarReset
 ms.assetid: 3dd5a235-c855-0d65-a664-655c9c1fa7b0

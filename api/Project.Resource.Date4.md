@@ -1,6 +1,6 @@
 ---
 title: Resource.Date4 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Date4
 ms.assetid: 24e4be8e-1fea-0763-d69a-158fc1c21ea0

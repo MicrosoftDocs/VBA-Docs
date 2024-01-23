@@ -2,7 +2,7 @@
 title: Engagement.ProposedMaxUnits property (Project)
 ms.assetid: e0cee0d4-b9b8-9368-18dc-d39733996ec8
 ms.date: 06/08/2017
-ms.prod: project-server
+ms.service: project-server
 ms.localizationpriority: medium
 ---
 

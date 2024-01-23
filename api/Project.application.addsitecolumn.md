@@ -3,7 +3,7 @@ title: Application.AddSiteColumn method (Project)
 keywords: vbapj.chm1012
 f1_keywords:
 - vbapj.chm1012
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 0ec78b0b-b4bf-3dea-0ed6-af78798bd7cd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

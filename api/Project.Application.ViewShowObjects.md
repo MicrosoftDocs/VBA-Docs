@@ -3,7 +3,7 @@ title: Application.ViewShowObjects method (Project)
 keywords: vbapj.chm920
 f1_keywords:
 - vbapj.chm920
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowObjects
 ms.assetid: 2bbe735e-b024-5f28-18bd-ef8335995ca2

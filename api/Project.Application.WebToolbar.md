@@ -3,7 +3,7 @@ title: Application.WebToolbar method (Project)
 keywords: vbapj.chm1321
 f1_keywords:
 - vbapj.chm1321
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WebToolbar
 ms.assetid: ff0f557f-ec63-0acd-da89-bc06c857524d

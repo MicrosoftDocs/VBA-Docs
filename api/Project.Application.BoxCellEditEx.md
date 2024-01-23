@@ -3,7 +3,7 @@ title: Application.BoxCellEditEx method (Project)
 keywords: vbapj.chm2156
 f1_keywords:
 - vbapj.chm2156
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BoxCellEditEx
 ms.assetid: 86405780-ea5f-d32b-b2e5-3d3999c1877d

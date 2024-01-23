@@ -1,6 +1,6 @@
 ---
 title: Pane.Close method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Pane.Close
 ms.assetid: 9bd722fd-cd92-9d59-7cdb-9aa40911120a

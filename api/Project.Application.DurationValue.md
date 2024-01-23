@@ -1,6 +1,6 @@
 ---
 title: Application.DurationValue method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DurationValue
 ms.assetid: 745acbd3-600c-1179-1d61-be0dab88cdf5

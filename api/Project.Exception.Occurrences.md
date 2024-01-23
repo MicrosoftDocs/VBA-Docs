@@ -1,6 +1,6 @@
 ---
 title: Exception.Occurrences property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exception.Occurrences
 ms.assetid: 08f613d2-adf0-fc45-e74a-4de98ea79f9d

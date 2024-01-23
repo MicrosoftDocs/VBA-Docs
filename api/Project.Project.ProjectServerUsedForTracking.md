@@ -3,7 +3,7 @@ title: Project.ProjectServerUsedForTracking property (Project)
 keywords: vbapj.chm131116
 f1_keywords:
 - vbapj.chm131116
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectServerUsedForTracking
 ms.assetid: bbaaf811-7d4c-1e40-dc44-2563117576f5

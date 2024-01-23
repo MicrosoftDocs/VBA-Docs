@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Adjustments property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 2b2a71a6-0a5d-f987-cdee-d5dc46a8506f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

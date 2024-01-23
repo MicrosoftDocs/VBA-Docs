@@ -1,6 +1,6 @@
 ---
 title: Resource.SV property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.SV
 ms.assetid: 176f083f-677a-fc38-b7e5-f51868fb5a27

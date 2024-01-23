@@ -1,6 +1,6 @@
 ---
 title: Application.OpenXML method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.OpenXML
 ms.assetid: dcf3dd0e-78ec-b95c-b890-dca5507acd92

@@ -3,7 +3,7 @@ title: Application.LinkTasksEdit method (Project)
 keywords: vbapj.chm2052
 f1_keywords:
 - vbapj.chm2052
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LinkTasksEdit
 ms.assetid: 51c1d75e-afb6-ae8c-162d-15e24c81bd06

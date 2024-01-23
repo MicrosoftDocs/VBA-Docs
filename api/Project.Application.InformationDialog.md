@@ -3,7 +3,7 @@ title: Application.InformationDialog method (Project)
 keywords: vbapj.chm217
 f1_keywords:
 - vbapj.chm217
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InformationDialog
 ms.assetid: 644b39d6-be73-5a07-4376-02df25d31a02

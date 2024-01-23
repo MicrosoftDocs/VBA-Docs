@@ -1,6 +1,6 @@
 ---
 title: Project.ProjectStart property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectStart
 ms.assetid: e29a67b8-fd54-b7ed-3eb0-da4adfa66b6a

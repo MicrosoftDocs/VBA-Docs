@@ -1,6 +1,6 @@
 ---
 title: Project.LevelEntireProject property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.LevelEntireProject
 ms.assetid: e9b1f708-cb83-223e-9cb3-0885a5824f5f

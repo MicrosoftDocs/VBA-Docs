@@ -1,6 +1,6 @@
 ---
 title: Task.Cost8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Cost8
 ms.assetid: 41fa705d-1a57-16ab-0494-2b19b78f09f3

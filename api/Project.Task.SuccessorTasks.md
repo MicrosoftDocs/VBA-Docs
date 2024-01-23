@@ -3,7 +3,7 @@ title: Task.SuccessorTasks property (Project)
 keywords: vbapj.chm132673
 f1_keywords:
 - vbapj.chm132673
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.SuccessorTasks
 ms.assetid: 1bd0f9df-9daa-37c0-c60d-6414fc8c87bb

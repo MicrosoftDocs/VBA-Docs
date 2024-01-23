@@ -1,6 +1,6 @@
 ---
 title: Project.ShowExternalPredecessors property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ShowExternalPredecessors
 ms.assetid: d452003a-3890-5b84-dc08-37ba1f657b92

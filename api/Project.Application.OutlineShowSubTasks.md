@@ -3,7 +3,7 @@ title: Application.OutlineShowSubTasks method (Project)
 keywords: vbapj.chm2021
 f1_keywords:
 - vbapj.chm2021
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.OutlineShowSubTasks
 ms.assetid: f4a1d5c0-f848-e614-cfe5-0142f88d498d

@@ -1,6 +1,6 @@
 ---
 title: Project.CurrencyCode property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CurrencyCode
 ms.assetid: 12085e58-5520-600e-1a00-2822474303fe

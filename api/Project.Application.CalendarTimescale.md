@@ -3,7 +3,7 @@ title: Application.CalendarTimescale method (Project)
 keywords: vbapj.chm2345
 f1_keywords:
 - vbapj.chm2345
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CalendarTimescale
 ms.assetid: 4a3cbf04-974b-b83b-b552-572b7c48e31b

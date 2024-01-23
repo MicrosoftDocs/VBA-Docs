@@ -3,7 +3,7 @@ title: Application.SupportsMultipleDocuments property (Project)
 keywords: vbapj.chm132676
 f1_keywords:
 - vbapj.chm132676
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SupportsMultipleDocuments
 ms.assetid: d5f1daf1-21b0-3c6c-44b2-8e3f665c7055

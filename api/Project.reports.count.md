@@ -1,6 +1,6 @@
 ---
 title: Reports.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 8f3d802e-bfeb-fc6f-f3ea-83e70c1b13b6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

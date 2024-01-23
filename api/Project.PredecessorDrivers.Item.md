@@ -1,6 +1,6 @@
 ---
 title: PredecessorDrivers.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PredecessorDrivers.Item
 ms.assetid: 4ed85587-a5a9-f684-2835-50ef8a1833bd

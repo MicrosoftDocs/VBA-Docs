@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.Pattern property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion.Pattern
 ms.assetid: 51553308-48a9-16cf-7bb9-0f142fd535f4

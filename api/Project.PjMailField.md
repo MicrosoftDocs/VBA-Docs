@@ -1,6 +1,6 @@
 ---
 title: PjMailField enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjMailField
 ms.assetid: 431e1115-431d-aab2-0f48-c55aa655284e

@@ -3,7 +3,7 @@ title: Application.ZoomOut method (Project)
 keywords: vbapj.chm2035
 f1_keywords:
 - vbapj.chm2035
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ZoomOut
 ms.assetid: d72dae84-638c-76c7-2de1-4b02b0a0a731

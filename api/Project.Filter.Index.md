@@ -3,7 +3,7 @@ title: Filter.Index property (Project)
 keywords: vbapj.chm132212
 f1_keywords:
 - vbapj.chm132212
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Filter.Index
 ms.assetid: 35851222-9da9-6668-462f-90db6be0e2d5

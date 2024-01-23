@@ -3,7 +3,7 @@ title: Task.FixedCost property (Project)
 keywords: vbapj.chm132231
 f1_keywords:
 - vbapj.chm132231
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.FixedCost
 ms.assetid: 09fb9edb-00b6-d084-b0da-0b0fc5463960

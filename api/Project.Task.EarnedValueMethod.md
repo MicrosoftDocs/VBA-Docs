@@ -3,7 +3,7 @@ title: Task.EarnedValueMethod property (Project)
 keywords: vbapj.chm131788
 f1_keywords:
 - vbapj.chm131788
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.EarnedValueMethod
 ms.assetid: 3882a1aa-4226-b9f9-3d01-529fe9274399
