@@ -1,6 +1,6 @@
 ---
 title: Application.PaneActivate event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.PaneActivate
 ms.assetid: 8230c818-6df3-bbdc-5e71-0e6e6b03e172

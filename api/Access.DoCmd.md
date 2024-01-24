@@ -3,7 +3,6 @@ title: DoCmd object (Access)
 keywords: vbaac10.chm4241
 f1_keywords:
 - vbaac10.chm4241
-ms.prod: access
 api_name:
 - Access.DoCmd
 ms.assetid: 3ce44cca-9979-0a1e-9787-079a52ce528f

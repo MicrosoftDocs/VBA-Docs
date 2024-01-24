@@ -3,7 +3,7 @@ title: Application.WebOpenFavorites method (Project)
 keywords: vbapj.chm1320
 f1_keywords:
 - vbapj.chm1320
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WebOpenFavorites
 ms.assetid: cb32f74e-ceba-0651-1b17-a61e6bce1bf8

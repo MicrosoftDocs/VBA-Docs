@@ -3,7 +3,6 @@ title: DataColumns.ObjectType property (Visio)
 keywords: vis_sdr.chm16613960
 f1_keywords:
 - vis_sdr.chm16613960
-ms.prod: visio
 api_name:
 - Visio.DataColumns.ObjectType
 ms.assetid: 37673ca1-f0d3-7756-d1a1-a2a06f6042e0

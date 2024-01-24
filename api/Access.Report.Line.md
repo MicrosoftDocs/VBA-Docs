@@ -3,7 +3,6 @@ title: Report.Line method (Access)
 keywords: vbaac10.chm13783
 f1_keywords:
 - vbaac10.chm13783
-ms.prod: access
 api_name:
 - Access.Report.Line
 ms.assetid: 9e640e37-c055-3dc3-b70e-0805cdc13561

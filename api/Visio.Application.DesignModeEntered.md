@@ -1,6 +1,5 @@
 ---
 title: Application.DesignModeEntered event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.DesignModeEntered
 ms.assetid: 312f0bda-1375-e176-f5c5-4ebd3c9c8b6d

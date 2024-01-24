@@ -3,7 +3,6 @@ title: Rectangle.Click event (Access)
 keywords: vbaac10.chm14161
 f1_keywords:
 - vbaac10.chm14161
-ms.prod: access
 api_name:
 - Access.Rectangle.Click
 ms.assetid: 959cbabf-ac13-f449-e313-50beadd2d83d

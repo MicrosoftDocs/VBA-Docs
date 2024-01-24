@@ -3,7 +3,6 @@ title: DoCmd.SearchForRecord method (Access)
 keywords: vbaac10.chm5765
 f1_keywords:
 - vbaac10.chm5765
-ms.prod: access
 api_name:
 - Access.DoCmd.SearchForRecord
 ms.assetid: eb7a82b0-1ecb-cbfe-94b0-e2d6742de8b4

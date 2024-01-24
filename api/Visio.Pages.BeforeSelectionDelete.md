@@ -3,7 +3,6 @@ title: Pages.BeforeSelectionDelete event (Visio)
 keywords: vis_sdr.chm11019060
 f1_keywords:
 - vis_sdr.chm11019060
-ms.prod: visio
 api_name:
 - Visio.Pages.BeforeSelectionDelete
 ms.assetid: 2c0ad4cf-f734-f5f2-1fea-c5ce846cfd05

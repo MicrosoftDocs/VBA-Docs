@@ -3,7 +3,6 @@ title: NavigationControl.MouseMove event (Access)
 keywords: vbaac10.chm14204
 f1_keywords:
 - vbaac10.chm14204
-ms.prod: access
 api_name:
 - Access.NavigationControl.MouseMove
 ms.assetid: a5676866-db8b-078d-70dc-ee159c66671c

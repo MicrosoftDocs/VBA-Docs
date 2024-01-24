@@ -3,7 +3,6 @@ title: CommandButton.Bevel property (Access)
 keywords: vbaac10.chm14629
 f1_keywords:
 - vbaac10.chm14629
-ms.prod: access
 api_name:
 - Access.CommandButton.Bevel
 ms.assetid: b9bd9082-75b3-e249-a477-ce402bff1e43

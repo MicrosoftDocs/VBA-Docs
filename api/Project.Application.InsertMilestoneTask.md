@@ -3,7 +3,7 @@ title: Application.InsertMilestoneTask method (Project)
 keywords: vbapj.chm2170
 f1_keywords:
 - vbapj.chm2170
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertMilestoneTask
 ms.assetid: a90ebcc2-b779-0c78-124d-f2c0a9ccd2ca

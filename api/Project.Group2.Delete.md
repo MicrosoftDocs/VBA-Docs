@@ -1,6 +1,6 @@
 ---
 title: Group2.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group2.Delete
 ms.assetid: eca2163c-03a4-a349-6db8-8d43a7351548

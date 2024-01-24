@@ -3,7 +3,7 @@ title: Application.WBSCodeRenumber method (Project)
 keywords: vbapj.chm629
 f1_keywords:
 - vbapj.chm629
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WBSCodeRenumber
 ms.assetid: c71f6dd3-5ea5-de60-7cd5-09134fa5a278

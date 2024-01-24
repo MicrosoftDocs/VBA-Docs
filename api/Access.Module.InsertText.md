@@ -3,7 +3,6 @@ title: Module.InsertText method (Access)
 keywords: vbaac10.chm12271
 f1_keywords:
 - vbaac10.chm12271
-ms.prod: access
 api_name:
 - Access.Module.InsertText
 ms.assetid: 105c77fe-29a3-ef93-3d01-8420f7725325

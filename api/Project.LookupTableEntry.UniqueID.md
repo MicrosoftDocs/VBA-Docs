@@ -3,7 +3,7 @@ title: LookupTableEntry.UniqueID property (Project)
 keywords: vbapj.chm132364
 f1_keywords:
 - vbapj.chm132364
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.LookupTableEntry.UniqueID
 ms.assetid: 0f242d35-2e88-5c05-1186-feda68e3a58a

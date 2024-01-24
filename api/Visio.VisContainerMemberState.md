@@ -3,7 +3,6 @@ title: VisContainerMemberState enumeration (Visio)
 keywords: vis_sdr.chm70605
 f1_keywords:
 - vis_sdr.chm70605
-ms.prod: visio
 api_name:
 - Visio.VisContainerMemberState
 ms.assetid: 41b5c521-79b7-d7ce-38b3-17841815d429

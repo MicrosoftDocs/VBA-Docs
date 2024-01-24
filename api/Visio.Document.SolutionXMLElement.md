@@ -3,7 +3,6 @@ title: Document.SolutionXMLElement property (Visio)
 keywords: vis_sdr.chm10550855
 f1_keywords:
 - vis_sdr.chm10550855
-ms.prod: visio
 api_name:
 - Visio.Document.SolutionXMLElement
 ms.assetid: 44e9daa6-96dc-3041-ed50-dd4670298b6a

@@ -3,7 +3,6 @@ title: Document.EmailRoutingData property (Visio)
 keywords: vis_sdr.chm10550570
 f1_keywords:
 - vis_sdr.chm10550570
-ms.prod: visio
 api_name:
 - Visio.Document.EmailRoutingData
 ms.assetid: 28dfec3c-d929-efe4-bbac-2816e6b70f0e

@@ -3,7 +3,6 @@ title: CodeProject.AccessConnection property (Access)
 keywords: vbaac10.chm12726
 f1_keywords:
 - vbaac10.chm12726
-ms.prod: access
 api_name:
 - Access.CodeProject.AccessConnection
 ms.assetid: 04b389d0-b87f-9eb9-f067-6b5e0d68e3f8

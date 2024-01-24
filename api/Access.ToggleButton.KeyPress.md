@@ -3,7 +3,6 @@ title: ToggleButton.KeyPress event (Access)
 keywords: vbaac10.chm14159
 f1_keywords:
 - vbaac10.chm14159
-ms.prod: access
 api_name:
 - Access.ToggleButton.KeyPress
 ms.assetid: 2f4d96de-5d2e-5a52-9df2-94262ad7def2

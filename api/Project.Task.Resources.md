@@ -1,6 +1,6 @@
 ---
 title: Task.Resources property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Resources
 ms.assetid: 72f4535f-39f1-81eb-7400-47fbca9cccd4

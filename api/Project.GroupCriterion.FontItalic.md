@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion.FontItalic property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion.FontItalic
 ms.assetid: db176109-6a39-e129-933e-1a5a1ce8c78a

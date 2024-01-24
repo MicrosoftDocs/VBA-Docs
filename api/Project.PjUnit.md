@@ -1,6 +1,6 @@
 ---
 title: PjUnit enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjUnit
 ms.assetid: 5b50960f-cc02-3d6f-b095-82deadd11295

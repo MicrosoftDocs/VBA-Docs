@@ -3,7 +3,6 @@ title: Application.Version property (Visio)
 keywords: vis_sdr.chm10014640
 f1_keywords:
 - vis_sdr.chm10014640
-ms.prod: visio
 api_name:
 - Visio.Application.Version
 ms.assetid: c2e3b022-507d-c73c-6fa4-9689cc5600f3

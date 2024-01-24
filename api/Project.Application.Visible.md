@@ -1,6 +1,6 @@
 ---
 title: Application.Visible property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Visible
 ms.assetid: 43bf25de-4908-1fad-e5d5-9fba21e8b03c

@@ -3,7 +3,6 @@ title: VisUIBarPosition enumeration (Visio)
 keywords: vis_sdr.chm70285
 f1_keywords:
 - vis_sdr.chm70285
-ms.prod: visio
 ms.assetid: 6009361a-5ccb-d7a1-f7d0-16119aa05a85
 ms.date: 06/08/2017
 ms.localizationpriority: medium

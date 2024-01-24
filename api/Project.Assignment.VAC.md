@@ -1,6 +1,6 @@
 ---
 title: Assignment.VAC property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.VAC
 ms.assetid: 27188491-ee6a-f9cf-60d9-ec2876b0c528

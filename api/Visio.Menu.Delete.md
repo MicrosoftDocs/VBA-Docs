@@ -3,7 +3,6 @@ title: Menu.Delete method (Visio)
 keywords: vis_sdr.chm13116165
 f1_keywords:
 - vis_sdr.chm13116165
-ms.prod: visio
 api_name:
 - Visio.Menu.Delete
 ms.assetid: 101d8e92-b0e6-9f36-035d-79c241210426

@@ -3,7 +3,6 @@ title: Page object (Visio)
 keywords: vis_sdr.chm10190
 f1_keywords:
 - vis_sdr.chm10190
-ms.prod: visio
 api_name:
 - Visio.Page
 ms.assetid: 7a7f37ab-b448-eb70-b4f1-c185dfbd511e

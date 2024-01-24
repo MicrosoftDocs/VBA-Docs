@@ -1,6 +1,6 @@
 ---
 title: Task.PathDrivenSuccessor property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: ec77b34e-a98c-142e-14ba-868ff93deaad
 ms.date: 06/08/2017
 ms.localizationpriority: medium

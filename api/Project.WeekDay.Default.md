@@ -1,6 +1,6 @@
 ---
 title: WeekDay.Default method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WeekDay.Default
 ms.assetid: 4d2ad943-7ffc-5727-5715-a98a46d98660

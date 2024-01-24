@@ -3,7 +3,6 @@ title: Report.ScaleWidth property (Access)
 keywords: vbaac10.chm13747
 f1_keywords:
 - vbaac10.chm13747
-ms.prod: access
 api_name:
 - Access.Report.ScaleWidth
 ms.assetid: b6bdab85-d0d0-99d1-af59-b0b0fe48ab1e

@@ -3,7 +3,7 @@ title: Chart.ClearToMatchColorStyle method (Project)
 keywords: vbapj.chm131615
 f1_keywords:
 - vbapj.chm131615
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: b2592ff4-8410-fa5c-a270-d03d47156607
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Label.ForeTint property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: access
 api_name:
 - Access.Label.ForeTint
 ms.assetid: cce432e8-44eb-d30c-04e2-b4e3861ecec7

@@ -1,6 +1,6 @@
 ---
 title: Resource object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource
 ms.assetid: eb83ed2f-2415-3f5d-3856-f4451a73a128

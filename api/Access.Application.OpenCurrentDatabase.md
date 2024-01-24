@@ -3,7 +3,6 @@ title: Application.OpenCurrentDatabase method (Access)
 keywords: vbaac10.chm12601
 f1_keywords:
 - vbaac10.chm12601
-ms.prod: access
 api_name:
 - Access.Application.OpenCurrentDatabase
 ms.assetid: fd214849-02ac-eaa6-7525-9aee42b92f3d

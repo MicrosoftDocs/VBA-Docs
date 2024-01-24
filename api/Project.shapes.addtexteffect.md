@@ -1,6 +1,6 @@
 ---
 title: Shapes.AddTextEffect method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 5510367c-7f8d-3266-642f-61f3d45a18cf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

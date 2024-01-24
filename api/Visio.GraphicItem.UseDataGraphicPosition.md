@@ -3,7 +3,6 @@ title: GraphicItem.UseDataGraphicPosition property (Visio)
 keywords: vis_sdr.chm16960450
 f1_keywords:
 - vis_sdr.chm16960450
-ms.prod: visio
 api_name:
 - Visio.GraphicItem.UseDataGraphicPosition
 ms.assetid: d463eefb-8103-3701-fd8a-604c65f74713

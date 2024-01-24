@@ -3,7 +3,6 @@ title: Master.GetFormulas method (Visio)
 keywords: vis_sdr.chm10716310
 f1_keywords:
 - vis_sdr.chm10716310
-ms.prod: visio
 api_name:
 - Visio.Master.GetFormulas
 ms.assetid: 09ee33a3-41fc-3ac2-4f5e-1e857f685049

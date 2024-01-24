@@ -3,7 +3,6 @@ title: Form.DataChange property (Access)
 keywords: vbaac10.chm13554
 f1_keywords:
 - vbaac10.chm13554
-ms.prod: access
 api_name:
 - Access.Form.DataChange
 ms.assetid: 14fd4c9c-eb18-8f4d-ebd9-6f389523c4cf

@@ -3,7 +3,6 @@ title: ComboBox.LabelY property (Access)
 keywords: vbaac10.chm11431
 f1_keywords:
 - vbaac10.chm11431
-ms.prod: access
 api_name:
 - Access.ComboBox.LabelY
 ms.assetid: 8577bdf8-b941-688a-fae3-a74aba173996

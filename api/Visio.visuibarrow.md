@@ -3,7 +3,6 @@ title: VisUIBarRow enumeration (Visio)
 keywords: vis_sdr.chm70301
 f1_keywords:
 - vis_sdr.chm70301
-ms.prod: visio
 ms.assetid: dfd3a026-e18f-cfd0-fada-e1c9ac0676f3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

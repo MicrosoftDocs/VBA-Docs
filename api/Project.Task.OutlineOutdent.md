@@ -1,6 +1,6 @@
 ---
 title: Task.OutlineOutdent method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.OutlineOutdent
 ms.assetid: fb7af00b-f802-5991-9cd6-35ba3dc6bcc5

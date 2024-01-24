@@ -3,7 +3,6 @@ title: Cell.EventList property (Visio)
 keywords: vis_sdr.chm10113480
 f1_keywords:
 - vis_sdr.chm10113480
-ms.prod: visio
 api_name:
 - Visio.Cell.EventList
 ms.assetid: d88186f6-ecf6-c645-5250-46e07862a745

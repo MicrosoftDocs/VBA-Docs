@@ -1,6 +1,6 @@
 ---
 title: Resource.TimeScaleData method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.TimeScaleData
 ms.assetid: 51649bc3-8224-15cd-dc9b-af37a1cc4d8b

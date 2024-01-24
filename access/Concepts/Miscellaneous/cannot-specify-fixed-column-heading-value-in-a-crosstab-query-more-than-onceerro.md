@@ -3,7 +3,6 @@ title: Cannot specify fixed column heading <value> in a crosstab query more than
 keywords: jeterr40.chm5003104
 f1_keywords:
 - jeterr40.chm5003104
-ms.prod: access
 ms.assetid: dd05602d-e5e1-6bba-2722-3ee94bf32c71
 ms.date: 06/08/2019
 ms.localizationpriority: medium

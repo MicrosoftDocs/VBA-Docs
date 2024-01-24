@@ -1,6 +1,6 @@
 ---
 title: Assignment.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Application
 ms.assetid: c6dbff13-0f33-7f78-b603-fa7084889bed

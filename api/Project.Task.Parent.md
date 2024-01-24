@@ -1,6 +1,6 @@
 ---
 title: Task.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Parent
 ms.assetid: 809a2efc-6cce-65cb-fbb1-433dedc29841

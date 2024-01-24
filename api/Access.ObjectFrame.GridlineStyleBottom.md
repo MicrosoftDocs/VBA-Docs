@@ -3,7 +3,6 @@ title: ObjectFrame.GridlineStyleBottom property (Access)
 keywords: vbaac10.chm11646
 f1_keywords:
 - vbaac10.chm11646
-ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineStyleBottom
 ms.assetid: 692feea8-ab41-e695-c388-38b9f7f9bf26

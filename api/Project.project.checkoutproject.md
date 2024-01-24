@@ -3,7 +3,7 @@ title: Project.CheckoutProject method (Project)
 keywords: vbapj.chm131078
 f1_keywords:
 - vbapj.chm131078
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 7b70a7c6-0f26-27b4-9a2d-b16f828864f3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

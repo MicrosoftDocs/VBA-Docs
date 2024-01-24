@@ -3,7 +3,6 @@ title: Printer.PrintQuality property (Access)
 keywords: vbaac10.chm12866
 f1_keywords:
 - vbaac10.chm12866
-ms.prod: access
 api_name:
 - Access.Printer.PrintQuality
 ms.assetid: 730121d7-c07e-8acd-6a9c-4ba499e5d786

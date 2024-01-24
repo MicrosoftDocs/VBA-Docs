@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.ShapeDataGraphicChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShapeDataGraphicChanged
 ms.assetid: 32e81d8b-d3a8-69c5-09fb-51cd40b1caa6

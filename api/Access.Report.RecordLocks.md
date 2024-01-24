@@ -3,7 +3,6 @@ title: Report.RecordLocks property (Access)
 keywords: vbaac10.chm13696
 f1_keywords:
 - vbaac10.chm13696
-ms.prod: access
 api_name:
 - Access.Report.RecordLocks
 ms.assetid: 21f8d145-e417-a7a1-e697-b1e07434c760

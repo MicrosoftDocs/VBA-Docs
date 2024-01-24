@@ -3,7 +3,7 @@ title: Application.SelectColumn method (Project)
 keywords: vbapj.chm2046
 f1_keywords:
 - vbapj.chm2046
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectColumn
 ms.assetid: 5bb674e9-253e-355f-a501-d0aeaef56535

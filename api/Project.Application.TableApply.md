@@ -3,7 +3,7 @@ title: Application.TableApply method (Project)
 keywords: vbapj.chm402
 f1_keywords:
 - vbapj.chm402
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TableApply
 ms.assetid: 3d335475-a0b7-dd61-1c93-a668a878d347

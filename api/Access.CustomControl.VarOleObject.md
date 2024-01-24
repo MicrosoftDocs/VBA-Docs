@@ -3,7 +3,6 @@ title: CustomControl.VarOleObject property (Access)
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
-ms.prod: access
 api_name:
 - Access.CustomControl.VarOleObject
 ms.assetid: 7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd

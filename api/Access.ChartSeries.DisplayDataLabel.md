@@ -3,7 +3,6 @@ title: ChartSeries.DisplayDataLabel property (Access)
 keywords: vbaac10.chm14783
 f1_keywords:
 - vbaac10.chm14783
-ms.prod: access
 api_name:
 - Access.ChartSeries.DisplayDataLabel
 ms.date: 11/28/2018

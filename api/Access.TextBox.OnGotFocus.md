@@ -3,7 +3,6 @@ title: TextBox.OnGotFocus property (Access)
 keywords: vbaac10.chm11120
 f1_keywords:
 - vbaac10.chm11120
-ms.prod: access
 api_name:
 - Access.TextBox.OnGotFocus
 ms.assetid: 3a180b9a-d415-b124-f884-9ce64dba8358

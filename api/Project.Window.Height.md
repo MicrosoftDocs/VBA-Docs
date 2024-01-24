@@ -1,6 +1,6 @@
 ---
 title: Window.Height property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Height
 ms.assetid: 4ed45f1f-c325-8a51-333c-28160d6b5f26

@@ -3,7 +3,7 @@ title: Application.BaseCalendars method (Project)
 keywords: vbapj.chm604
 f1_keywords:
 - vbapj.chm604
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BaseCalendars
 ms.assetid: 5ae675d2-1be3-eb98-6c35-ff36c3fccf30

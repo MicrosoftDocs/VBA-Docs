@@ -3,7 +3,6 @@ title: CurrentProject.AllModules property (Access)
 keywords: vbaac10.chm12710
 f1_keywords:
 - vbaac10.chm12710
-ms.prod: access
 api_name:
 - Access.CurrentProject.AllModules
 ms.assetid: 2d6f5786-c431-9c1a-b581-56fb969fb947

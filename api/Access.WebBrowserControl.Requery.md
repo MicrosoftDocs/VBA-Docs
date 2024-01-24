@@ -3,7 +3,6 @@ title: WebBrowserControl.Requery method (Access)
 keywords: vbaac10.chm14353
 f1_keywords:
 - vbaac10.chm14353
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Requery
 ms.assetid: 7c59af0e-2358-154e-a57a-9ad8bed723bc

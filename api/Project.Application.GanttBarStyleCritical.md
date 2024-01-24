@@ -3,7 +3,7 @@ title: Application.GanttBarStyleCritical method (Project)
 keywords: vbapj.chm80
 f1_keywords:
 - vbapj.chm80
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarStyleCritical
 ms.assetid: 2db96bf5-2a33-2894-8fcb-dcb4842bba4c

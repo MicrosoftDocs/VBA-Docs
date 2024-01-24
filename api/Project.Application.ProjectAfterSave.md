@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectAfterSave event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectAfterSave
 ms.assetid: e0dbe6de-0b5e-1b4a-2b30-8c228249b491

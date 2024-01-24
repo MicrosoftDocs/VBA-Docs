@@ -3,7 +3,6 @@ title: Attachment.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: access
 api_name:
 - Access.Attachment.GridlineTint
 ms.assetid: c1730e7b-88ae-3810-1a6c-9a0ff17b95b1

@@ -3,7 +3,6 @@ title: ComboBox.Move method (Access)
 keywords: vbaac10.chm11472
 f1_keywords:
 - vbaac10.chm11472
-ms.prod: access
 api_name:
 - Access.ComboBox.Move
 ms.assetid: 74581db7-0039-e59b-4371-9457c198e39d

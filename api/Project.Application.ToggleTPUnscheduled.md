@@ -3,7 +3,7 @@ title: Application.ToggleTPUnscheduled method (Project)
 keywords: vbapj.chm1507
 f1_keywords:
 - vbapj.chm1507
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ToggleTPUnscheduled
 ms.assetid: f2a44cc5-b11f-f22d-4856-f91d5f67d1c0

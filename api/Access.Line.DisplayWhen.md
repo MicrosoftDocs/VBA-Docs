@@ -3,7 +3,6 @@ title: Line.DisplayWhen property (Access)
 keywords: vbaac10.chm10331
 f1_keywords:
 - vbaac10.chm10331
-ms.prod: access
 api_name:
 - Access.Line.DisplayWhen
 ms.assetid: b5d425f8-744b-89e6-1929-f1ef9b187b0c

@@ -3,7 +3,6 @@ title: TabControl.StatusBarText property (Access)
 keywords: vbaac10.chm12075
 f1_keywords:
 - vbaac10.chm12075
-ms.prod: access
 api_name:
 - Access.TabControl.StatusBarText
 ms.assetid: ce358992-5dd9-d90a-83bf-b8b099315786

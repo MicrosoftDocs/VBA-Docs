@@ -3,7 +3,6 @@ title: IVBUndoUnit.UnitTypeLong property (Visio)
 keywords: vis_sdr.chm17360175
 f1_keywords:
 - vis_sdr.chm17360175
-ms.prod: visio
 api_name:
 - Visio.IVBUndoUnit.UnitTypeLong
 ms.assetid: 4fb63748-baf1-3360-f143-52de4c24c16d

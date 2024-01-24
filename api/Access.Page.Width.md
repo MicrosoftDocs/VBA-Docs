@@ -3,7 +3,6 @@ title: Page.Width property (Access)
 keywords: vbaac10.chm12157
 f1_keywords:
 - vbaac10.chm12157
-ms.prod: access
 api_name:
 - Access.Page.Width
 ms.assetid: 86b8bc5a-664f-5a62-16a8-87a685f7e293

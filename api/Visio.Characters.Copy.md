@@ -3,7 +3,6 @@ title: Characters.Copy method (Visio)
 keywords: vis_sdr.chm10216145
 f1_keywords:
 - vis_sdr.chm10216145
-ms.prod: visio
 api_name:
 - Visio.Characters.Copy
 ms.assetid: afa21cde-4f1e-cdec-149c-8be7aa88935e

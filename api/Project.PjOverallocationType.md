@@ -1,6 +1,6 @@
 ---
 title: PjOverallocationType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjOverallocationType
 ms.assetid: b2eaea51-6884-194c-9a68-75669fcc8283

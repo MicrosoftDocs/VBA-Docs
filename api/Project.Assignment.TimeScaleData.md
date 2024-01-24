@@ -1,6 +1,6 @@
 ---
 title: Assignment.TimeScaleData method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.TimeScaleData
 ms.assetid: ff948754-cc0e-8bf0-31e8-30b19dbcb08d

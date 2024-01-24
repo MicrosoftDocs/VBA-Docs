@@ -3,7 +3,6 @@ title: AllDatabaseDiagrams object (Access)
 keywords: vbaac10.chm12692
 f1_keywords:
 - vbaac10.chm12692
-ms.prod: access
 api_name:
 - Access.AllDatabaseDiagrams
 ms.assetid: 417427aa-1783-29da-30c9-66a7032a0088

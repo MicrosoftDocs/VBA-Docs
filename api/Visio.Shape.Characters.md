@@ -3,7 +3,6 @@ title: Shape.Characters property (Visio)
 keywords: vis_sdr.chm11213215
 f1_keywords:
 - vis_sdr.chm11213215
-ms.prod: visio
 api_name:
 - Visio.Shape.Characters
 ms.assetid: dcb7fa7b-61ff-df09-8128-2d1ef4e17770

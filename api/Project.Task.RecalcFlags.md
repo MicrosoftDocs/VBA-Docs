@@ -1,6 +1,6 @@
 ---
 title: Task.RecalcFlags property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.RecalcFlags
 ms.assetid: d5a5989e-b134-240b-fd37-11f4999e74bc

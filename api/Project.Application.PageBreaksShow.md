@@ -3,7 +3,7 @@ title: Application.PageBreaksShow method (Project)
 keywords: vbapj.chm933
 f1_keywords:
 - vbapj.chm933
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.PageBreaksShow
 ms.assetid: 320e8ddf-6ded-8f64-0de8-a4cc1275e462

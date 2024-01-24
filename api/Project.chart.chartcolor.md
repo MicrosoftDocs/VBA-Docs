@@ -1,6 +1,6 @@
 ---
 title: Chart.ChartColor property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: bd8b5b9c-abfe-761b-a4bd-2978c43b9565
 ms.date: 06/08/2017
 ms.localizationpriority: medium

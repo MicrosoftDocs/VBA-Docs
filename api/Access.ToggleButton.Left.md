@@ -3,7 +3,6 @@ title: ToggleButton.Left property (Access)
 keywords: vbaac10.chm11718
 f1_keywords:
 - vbaac10.chm11718
-ms.prod: access
 api_name:
 - Access.ToggleButton.Left
 ms.assetid: da08e677-2d2c-6f06-fde9-899b82349ec2

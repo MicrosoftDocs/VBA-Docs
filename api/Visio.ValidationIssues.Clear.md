@@ -3,7 +3,6 @@ title: ValidationIssues.Clear method (Visio)
 keywords: vis_sdr.chm18562410
 f1_keywords:
 - vis_sdr.chm18562410
-ms.prod: visio
 api_name:
 - Visio.ValidationIssues.Clear
 ms.assetid: e3792e98-a47e-2ce2-e1ff-995ccbf645eb

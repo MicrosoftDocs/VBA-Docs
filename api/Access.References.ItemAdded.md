@@ -3,7 +3,6 @@ title: References.ItemAdded event (Access)
 keywords: vbaac10.chm12646
 f1_keywords:
 - vbaac10.chm12646
-ms.prod: access
 api_name:
 - Access.References.ItemAdded
 ms.assetid: c84b2bd3-42ce-be34-8a5c-ad3cdf1c3f63

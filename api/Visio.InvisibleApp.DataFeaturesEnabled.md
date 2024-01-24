@@ -3,7 +3,6 @@ title: InvisibleApp.DataFeaturesEnabled property (Visio)
 keywords: vis_sdr.chm17560055
 f1_keywords:
 - vis_sdr.chm17560055
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DataFeaturesEnabled
 ms.assetid: e8603042-2b3d-be0d-6790-911c92ec37b6

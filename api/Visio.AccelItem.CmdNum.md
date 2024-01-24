@@ -3,7 +3,6 @@ title: AccelItem.CmdNum property (Visio)
 keywords: vis_sdr.chm14513255
 f1_keywords:
 - vis_sdr.chm14513255
-ms.prod: visio
 api_name:
 - Visio.AccelItem.CmdNum
 ms.assetid: fb12e22d-671d-1f40-475c-714599fe0e37

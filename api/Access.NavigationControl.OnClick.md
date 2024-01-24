@@ -3,7 +3,6 @@ title: NavigationControl.OnClick property (Access)
 keywords: vbaac10.chm11122
 f1_keywords:
 - vbaac10.chm11122
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnClick
 ms.assetid: 41352c03-f034-a882-9ef1-05b06c2f51af

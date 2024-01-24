@@ -1,6 +1,6 @@
 ---
 title: PjListOrder enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjListOrder
 ms.assetid: 925b0e86-5f77-995c-18a9-96786f46bfcd

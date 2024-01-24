@@ -3,7 +3,6 @@ title: Section.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.Section.BackTint
 ms.assetid: c1e978c6-660c-8e2d-4bff-fe1f86db571d

@@ -1,6 +1,6 @@
 ---
 title: Resource.LinkedFields property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.LinkedFields
 ms.assetid: e25f2bfc-ec5d-e3b2-14ec-b0c43ea79499

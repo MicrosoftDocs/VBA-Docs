@@ -3,7 +3,6 @@ title: BoundObjectFrame.Scaling property (Access)
 keywords: vbaac10.chm10957
 f1_keywords:
 - vbaac10.chm10957
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Scaling
 ms.assetid: 290104f8-663b-7865-9ac9-6dc6feb5b92f

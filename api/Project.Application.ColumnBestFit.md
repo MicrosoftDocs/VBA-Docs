@@ -3,7 +3,7 @@ title: Application.ColumnBestFit method (Project)
 keywords: vbapj.chm2037
 f1_keywords:
 - vbapj.chm2037
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ColumnBestFit
 ms.assetid: 51f96761-33ab-d2e3-7a1e-c8266bdaa7a1

@@ -1,6 +1,6 @@
 ---
 title: Application.StatusBar property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.StatusBar
 ms.assetid: c88965a0-302c-e0ce-ca5b-06fc2d21ff2d

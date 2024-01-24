@@ -3,7 +3,7 @@ title: Application.GanttBarFormat method (Project)
 keywords: vbapj.chm938
 f1_keywords:
 - vbapj.chm938
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarFormat
 ms.assetid: 2b3b3933-1993-d4cf-f4ff-475c4b003514

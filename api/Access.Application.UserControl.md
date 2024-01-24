@@ -3,7 +3,6 @@ title: Application.UserControl property (Access)
 keywords: vbaac10.chm12514
 f1_keywords:
 - vbaac10.chm12514
-ms.prod: access
 api_name:
 - Access.Application.UserControl
 ms.assetid: e82213ac-bd7b-2669-3001-330f40cfdaaa

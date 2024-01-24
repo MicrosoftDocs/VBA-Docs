@@ -3,7 +3,6 @@ title: CodeProject.AllMacros property (Access)
 keywords: vbaac10.chm12709
 f1_keywords:
 - vbaac10.chm12709
-ms.prod: access
 api_name:
 - Access.CodeProject.AllMacros
 ms.assetid: 493a515a-667d-ade9-bdd3-17305126d6ee

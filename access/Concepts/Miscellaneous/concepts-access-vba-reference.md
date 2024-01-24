@@ -1,6 +1,5 @@
 ---
 title: Concepts (Access VBA reference)
-ms.prod: access
 ms.assetid: 916138ba-fc88-54ab-75bc-0476c700c0f7
 ms.date: 10/10/2018
 ms.localizationpriority: medium

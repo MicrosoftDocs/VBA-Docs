@@ -3,7 +3,6 @@ title: ObjectFrame.MouseMove event (Access)
 keywords: vbaac10.chm14112
 f1_keywords:
 - vbaac10.chm14112
-ms.prod: access
 api_name:
 - Access.ObjectFrame.MouseMove
 ms.assetid: aad412fd-96ba-803d-848c-a8788fa1e0ae

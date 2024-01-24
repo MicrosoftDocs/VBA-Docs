@@ -1,6 +1,6 @@
 ---
 title: Availability object (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Availability
 ms.assetid: 2b832aed-2b58-f020-2a2c-8756ec7ec1a4

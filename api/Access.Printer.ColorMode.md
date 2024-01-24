@@ -3,7 +3,6 @@ title: Printer.ColorMode property (Access)
 keywords: vbaac10.chm12857
 f1_keywords:
 - vbaac10.chm12857
-ms.prod: access
 api_name:
 - Access.Printer.ColorMode
 ms.assetid: 5c54604b-ee6a-2d6a-1a3e-3fea397a2fa0

@@ -1,6 +1,6 @@
 ---
 title: Shape.IncrementTop method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 69804932-00eb-b446-aa99-1b83174d004d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

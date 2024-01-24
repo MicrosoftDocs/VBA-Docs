@@ -3,7 +3,6 @@ title: ApplicationSettings.UserInitials property (Visio)
 keywords: vis_sdr.chm16251485
 f1_keywords:
 - vis_sdr.chm16251485
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.UserInitials
 ms.assetid: cb134c38-52aa-53ef-cfc8-708d3b4a7887

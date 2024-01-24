@@ -1,6 +1,5 @@
 ---
 title: KeyboardEvent.Application property (Visio)
-ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.Application
 ms.assetid: 7765db2a-8287-b2cc-5868-49b69fbfacac

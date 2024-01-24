@@ -3,7 +3,6 @@ title: Document.ProgID property (Visio)
 keywords: vis_sdr.chm10514160
 f1_keywords:
 - vis_sdr.chm10514160
-ms.prod: visio
 api_name:
 - Visio.Document.ProgID
 ms.assetid: a3ae063b-8054-a5c7-4afd-2dac64ea6537

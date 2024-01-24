@@ -3,7 +3,6 @@ title: TextBox.BeforeUpdate property (Access)
 keywords: vbaac10.chm11115
 f1_keywords:
 - vbaac10.chm11115
-ms.prod: access
 api_name:
 - Access.TextBox.BeforeUpdate
 ms.assetid: de841054-a98a-7108-0d7d-020175edb1ce

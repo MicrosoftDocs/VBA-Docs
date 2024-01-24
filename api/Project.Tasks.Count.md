@@ -1,6 +1,6 @@
 ---
 title: Tasks.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Tasks.Count
 ms.assetid: 23238c44-1cf0-8dfc-40b3-6def228d5a7a

@@ -3,7 +3,6 @@ title: Form.MenuBar property (Access)
 keywords: vbaac10.chm13385
 f1_keywords:
 - vbaac10.chm13385
-ms.prod: access
 api_name:
 - Access.Form.MenuBar
 ms.assetid: b9e6b6f6-5e60-271d-67c4-6697cb294671

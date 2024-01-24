@@ -3,7 +3,6 @@ title: Shape.RowCount property (Visio)
 keywords: vis_sdr.chm11214245
 f1_keywords:
 - vis_sdr.chm11214245
-ms.prod: visio
 api_name:
 - Visio.Shape.RowCount
 ms.assetid: 358f07c8-f72a-134a-53d8-9b70f2400484

@@ -3,7 +3,6 @@ title: ToggleButton.DisplayWhen property (Access)
 keywords: vbaac10.chm11711
 f1_keywords:
 - vbaac10.chm11711
-ms.prod: access
 api_name:
 - Access.ToggleButton.DisplayWhen
 ms.assetid: 881f7a17-be3d-436f-1511-d6af5a7f4c6e

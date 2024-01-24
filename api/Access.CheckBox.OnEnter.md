@@ -3,7 +3,6 @@ title: CheckBox.OnEnter property (Access)
 keywords: vbaac10.chm10737
 f1_keywords:
 - vbaac10.chm10737
-ms.prod: access
 api_name:
 - Access.CheckBox.OnEnter
 ms.assetid: 54894c2c-e0ab-8679-a55a-df44af856f8a

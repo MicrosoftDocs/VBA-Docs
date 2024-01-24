@@ -3,7 +3,7 @@ title: Task.Baseline1DeliverableStart property (Project)
 keywords: vbapj.chm131438
 f1_keywords:
 - vbapj.chm131438
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline1DeliverableStart
 ms.assetid: a475958c-aa69-cde2-78b3-d1c3e4095fc3

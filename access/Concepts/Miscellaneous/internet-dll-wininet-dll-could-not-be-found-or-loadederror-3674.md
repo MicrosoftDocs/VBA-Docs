@@ -3,7 +3,6 @@ title: Internet dll (wininet.dll) could not be found or loaded. (Error 3674)
 keywords: jeterr40.chm5003674
 f1_keywords:
 - jeterr40.chm5003674
-ms.prod: access
 ms.assetid: 0fdf0606-2e68-d47e-e1c9-716db3d3feb0
 ms.date: 06/08/2019
 ms.localizationpriority: medium

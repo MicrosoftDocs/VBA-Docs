@@ -3,7 +3,6 @@ title: MenuSet.Protection property (Visio)
 keywords: vis_sdr.chm13314180
 f1_keywords:
 - vis_sdr.chm13314180
-ms.prod: visio
 api_name:
 - Visio.MenuSet.Protection
 ms.assetid: 266b1ec8-0d30-538a-bad2-13f2dbcabddf

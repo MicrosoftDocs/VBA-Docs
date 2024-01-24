@@ -1,6 +1,6 @@
 ---
 title: Profile.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profile.Name
 ms.assetid: 98e1ca12-ecaa-aaae-de48-352301c28e50

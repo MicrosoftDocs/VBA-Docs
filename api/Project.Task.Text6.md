@@ -1,6 +1,6 @@
 ---
 title: Task.Text6 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Text6
 ms.assetid: 5e0eaeea-595c-3514-0d7a-75d4cc3ac433

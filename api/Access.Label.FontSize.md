@@ -3,7 +3,6 @@ title: Label.FontSize property (Access)
 keywords: vbaac10.chm10211
 f1_keywords:
 - vbaac10.chm10211
-ms.prod: access
 api_name:
 - Access.Label.FontSize
 ms.assetid: 9b669364-ba6e-8b1a-7750-bf0c25b42e40

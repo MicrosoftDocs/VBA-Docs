@@ -1,6 +1,6 @@
 ---
 title: PjResourceGraphPattern enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjResourceGraphPattern
 ms.assetid: d852fc68-d1c1-4df7-b3e4-6bead6e2c09f

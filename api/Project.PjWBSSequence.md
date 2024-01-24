@@ -1,6 +1,6 @@
 ---
 title: PjWBSSequence enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjWBSSequence
 ms.assetid: 4110c7a4-e9d9-9f48-1340-20f0ddf86139

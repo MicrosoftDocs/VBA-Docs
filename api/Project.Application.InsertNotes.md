@@ -3,7 +3,7 @@ title: Application.InsertNotes method (Project)
 keywords: vbapj.chm2078
 f1_keywords:
 - vbapj.chm2078
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.InsertNotes
 ms.assetid: aa57d3c7-31d6-c7b2-7cda-576368a686a1

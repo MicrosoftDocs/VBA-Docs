@@ -1,6 +1,6 @@
 ---
 title: Calendars.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Calendars.Count
 ms.assetid: a7652285-5694-4439-5cd9-ff691d29a6a2

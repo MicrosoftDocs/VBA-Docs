@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValue.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TimeScaleValue.Delete
 ms.assetid: ebe03270-1713-77f9-1ac9-97922b2aa612

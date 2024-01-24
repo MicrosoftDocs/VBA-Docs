@@ -3,7 +3,6 @@ title: ObjectFrame.TabStop property (Access)
 keywords: vbaac10.chm11586
 f1_keywords:
 - vbaac10.chm11586
-ms.prod: access
 api_name:
 - Access.ObjectFrame.TabStop
 ms.assetid: 2930cfb8-22be-1d39-7514-fe864b2f9373

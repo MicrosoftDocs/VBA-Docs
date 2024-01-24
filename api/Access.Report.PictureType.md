@@ -3,7 +3,6 @@ title: Report.PictureType property (Access)
 keywords: vbaac10.chm13705
 f1_keywords:
 - vbaac10.chm13705
-ms.prod: access
 api_name:
 - Access.Report.PictureType
 ms.assetid: 96a8ab1c-42d2-2322-927f-4b2cf8822c56

@@ -1,6 +1,6 @@
 ---
 title: Shape.Nodes property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: ab95781b-069b-012a-caf5-3c16f54800fd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

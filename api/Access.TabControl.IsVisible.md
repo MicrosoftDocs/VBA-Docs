@@ -3,7 +3,6 @@ title: TabControl.IsVisible property (Access)
 keywords: vbaac10.chm12102
 f1_keywords:
 - vbaac10.chm12102
-ms.prod: access
 api_name:
 - Access.TabControl.IsVisible
 ms.assetid: ddc5e22d-f426-a685-ab94-a1ae7c00e53a

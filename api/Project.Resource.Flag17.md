@@ -1,6 +1,6 @@
 ---
 title: Resource.Flag17 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Flag17
 ms.assetid: bbac9764-5ee9-bdb8-adf3-61ddc0390957

@@ -3,7 +3,6 @@ title: Selection.FillStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11113530
 f1_keywords:
 - vis_sdr.chm11113530
-ms.prod: visio
 api_name:
 - Visio.Selection.FillStyleKeepFmt
 ms.assetid: e4034e7d-3a81-3fe6-0fb5-61549942c8cb

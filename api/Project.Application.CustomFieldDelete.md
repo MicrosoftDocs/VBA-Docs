@@ -3,7 +3,7 @@ title: Application.CustomFieldDelete method (Project)
 keywords: vbapj.chm2132
 f1_keywords:
 - vbapj.chm2132
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CustomFieldDelete
 ms.assetid: 8778f6ee-61bb-b4d0-8846-8c16717cd494

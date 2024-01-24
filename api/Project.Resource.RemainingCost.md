@@ -1,6 +1,6 @@
 ---
 title: Resource.RemainingCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.RemainingCost
 ms.assetid: 60e68cce-9335-6800-6075-9d3e6945a6b0

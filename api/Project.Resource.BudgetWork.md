@@ -1,6 +1,6 @@
 ---
 title: Resource.BudgetWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.BudgetWork
 ms.assetid: fc46fced-dd05-5c56-bdeb-7d50c3070500

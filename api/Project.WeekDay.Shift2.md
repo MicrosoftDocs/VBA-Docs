@@ -1,6 +1,6 @@
 ---
 title: WeekDay.Shift2 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WeekDay.Shift2
 ms.assetid: cc686169-6b7d-099a-6602-9381418fa0de

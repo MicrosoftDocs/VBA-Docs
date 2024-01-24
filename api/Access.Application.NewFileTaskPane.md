@@ -3,7 +3,6 @@ title: Application.NewFileTaskPane property (Access)
 keywords: vbaac10.chm12605
 f1_keywords:
 - vbaac10.chm12605
-ms.prod: access
 api_name:
 - Access.Application.NewFileTaskPane
 ms.assetid: 22b069c2-9c3a-7ee1-e47f-4916a24b32d0

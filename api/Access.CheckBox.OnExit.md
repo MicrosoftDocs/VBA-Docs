@@ -3,7 +3,6 @@ title: CheckBox.OnExit property (Access)
 keywords: vbaac10.chm10738
 f1_keywords:
 - vbaac10.chm10738
-ms.prod: access
 api_name:
 - Access.CheckBox.OnExit
 ms.assetid: fd52a8c3-7d49-9504-9afd-f6132f138690

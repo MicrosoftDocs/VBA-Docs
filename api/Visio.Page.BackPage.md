@@ -3,7 +3,6 @@ title: Page.BackPage property (Visio)
 keywords: vis_sdr.chm10913115
 f1_keywords:
 - vis_sdr.chm10913115
-ms.prod: visio
 api_name:
 - Visio.Page.BackPage
 ms.assetid: cef2dac4-cf12-d692-cbbc-a6023f2d78e0

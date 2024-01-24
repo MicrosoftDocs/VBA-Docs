@@ -1,6 +1,6 @@
 ---
 title: Resource.Level method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Level
 ms.assetid: b6c7f694-0854-2ec0-48ec-91721cef993c

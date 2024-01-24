@@ -3,7 +3,7 @@ title: Tables.Copy method (Project)
 keywords: vbapj.chm132701
 f1_keywords:
 - vbapj.chm132701
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Tables.Copy
 ms.assetid: dfc2f25b-e60c-ef25-9e7c-2808ce76a4ba

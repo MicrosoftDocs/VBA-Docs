@@ -3,7 +3,6 @@ title: Cell.Column property (Visio)
 keywords: vis_sdr.chm10113275
 f1_keywords:
 - vis_sdr.chm10113275
-ms.prod: visio
 api_name:
 - Visio.Cell.Column
 ms.assetid: 4850bc13-96dc-bb68-8c92-476fc430d969

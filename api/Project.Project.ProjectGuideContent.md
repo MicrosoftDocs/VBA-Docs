@@ -3,7 +3,7 @@ title: Project.ProjectGuideContent property (Project)
 keywords: vbapj.chm131091
 f1_keywords:
 - vbapj.chm131091
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectGuideContent
 ms.assetid: 26ae4b6c-2541-b175-62d8-a4d4c015c6f5

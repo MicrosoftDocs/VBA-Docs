@@ -3,7 +3,6 @@ title: Attachment.OnMouseDown property (Access)
 keywords: vbaac10.chm13947
 f1_keywords:
 - vbaac10.chm13947
-ms.prod: access
 api_name:
 - Access.Attachment.OnMouseDown
 ms.assetid: 71ba8a45-7814-4939-b8cf-9b07d9e04b4d

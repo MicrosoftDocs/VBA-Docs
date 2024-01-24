@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Index
 ms.assetid: a4f5a6fa-b013-473c-4400-70a40be955c5

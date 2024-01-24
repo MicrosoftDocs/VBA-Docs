@@ -3,7 +3,6 @@ title: Image.GridlineWidthRight property (Access)
 keywords: vbaac10.chm10423
 f1_keywords:
 - vbaac10.chm10423
-ms.prod: access
 api_name:
 - Access.Image.GridlineWidthRight
 ms.assetid: 046f4bb2-2cb3-b383-8ff9-2fd304e84fd4

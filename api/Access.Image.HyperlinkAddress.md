@@ -3,7 +3,6 @@ title: Image.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10372
 f1_keywords:
 - vbaac10.chm10372
-ms.prod: access
 api_name:
 - Access.Image.HyperlinkAddress
 ms.assetid: e92e7d7e-8447-9c9d-4d17-55c479d13228

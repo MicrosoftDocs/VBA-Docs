@@ -3,7 +3,6 @@ title: Selection.IterationMode property (Visio)
 keywords: vis_sdr.chm11113785
 f1_keywords:
 - vis_sdr.chm11113785
-ms.prod: visio
 api_name:
 - Visio.Selection.IterationMode
 ms.assetid: e4cd372c-a156-364d-f051-d9a8c618bd2c

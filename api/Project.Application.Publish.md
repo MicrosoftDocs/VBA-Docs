@@ -3,7 +3,7 @@ title: Application.Publish method (Project)
 keywords: vbapj.chm2278
 f1_keywords:
 - vbapj.chm2278
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Publish
 ms.assetid: 8605f6c9-8710-0c08-79c8-8dec2bedfe18

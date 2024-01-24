@@ -1,6 +1,6 @@
 ---
 title: Period.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Period.Count
 ms.assetid: 8b1caae6-2ae1-12c4-1f94-b52dcececd45

@@ -3,7 +3,7 @@ title: Application.GanttBarStyleLate method (Project)
 keywords: vbapj.chm82
 f1_keywords:
 - vbapj.chm82
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarStyleLate
 ms.assetid: 824760ce-0692-de6a-cf50-90307d94f82a

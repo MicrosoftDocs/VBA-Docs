@@ -3,7 +3,7 @@ title: Application.TaskDependencySync method (Project)
 keywords: vbapj.chm94
 f1_keywords:
 - vbapj.chm94
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TaskDependencySync
 ms.assetid: 4b6ed7a4-9bde-0600-3715-fc3d25501a5a

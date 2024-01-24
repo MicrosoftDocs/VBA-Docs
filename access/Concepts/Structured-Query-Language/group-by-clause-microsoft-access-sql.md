@@ -3,7 +3,6 @@ title: GROUP BY clause (Microsoft Access SQL)
 keywords: jetsql40.chm5277569
 f1_keywords:
 - jetsql40.chm5277569
-ms.prod: access
 ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 ms.date: 06/08/2017
 ms.localizationpriority: medium

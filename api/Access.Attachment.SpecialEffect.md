@@ -3,7 +3,6 @@ title: Attachment.SpecialEffect property (Access)
 keywords: vbaac10.chm13926
 f1_keywords:
 - vbaac10.chm13926
-ms.prod: access
 api_name:
 - Access.Attachment.SpecialEffect
 ms.assetid: 4c2a07d1-99b4-1558-7956-d4a8d4fa157d

@@ -3,7 +3,7 @@ title: Application.WindowNewWindow method (Project)
 keywords: vbapj.chm701
 f1_keywords:
 - vbapj.chm701
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowNewWindow
 ms.assetid: fe0c2bcb-7bee-3bec-9c47-3015938ae75d

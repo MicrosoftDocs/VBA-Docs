@@ -1,6 +1,6 @@
 ---
 title: Application.JobCompleted event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.JobCompleted
 ms.assetid: 44f7987c-92e0-a302-a775-7e62dab2ef86

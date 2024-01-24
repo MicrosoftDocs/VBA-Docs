@@ -3,7 +3,6 @@ title: Module.ProcCountLines property (Access)
 keywords: vbaac10.chm12281
 f1_keywords:
 - vbaac10.chm12281
-ms.prod: access
 api_name:
 - Access.Module.ProcCountLines
 ms.assetid: d85cacb5-127a-68a1-3bff-cc13a8a7e9ed

@@ -3,7 +3,7 @@ title: Application.ViewShowOverallocation method (Project)
 keywords: vbapj.chm925
 f1_keywords:
 - vbapj.chm925
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ViewShowOverallocation
 ms.assetid: e8389cd8-6312-e7a1-ac90-e0c52139695c

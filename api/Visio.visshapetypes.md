@@ -3,7 +3,6 @@ title: VisShapeTypes enumeration (Visio)
 keywords: vis_sdr.chm70010
 f1_keywords:
 - vis_sdr.chm70010
-ms.prod: visio
 ms.assetid: aa65da44-c6f4-bb14-e58b-43222fc066f5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

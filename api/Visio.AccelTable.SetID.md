@@ -3,7 +3,6 @@ title: AccelTable.SetID property (Visio)
 keywords: vis_sdr.chm14714315
 f1_keywords:
 - vis_sdr.chm14714315
-ms.prod: visio
 api_name:
 - Visio.AccelTable.SetID
 ms.assetid: d73787cc-0145-845e-6675-906d4d2aaa78

@@ -3,7 +3,6 @@ title: CommandButton.LabelX property (Access)
 keywords: vbaac10.chm10484
 f1_keywords:
 - vbaac10.chm10484
-ms.prod: access
 api_name:
 - Access.CommandButton.LabelX
 ms.assetid: 04582d98-dbc6-4aed-e42b-f8d6638ba4ae

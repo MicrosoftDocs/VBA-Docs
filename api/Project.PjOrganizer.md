@@ -1,6 +1,6 @@
 ---
 title: PjOrganizer enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjOrganizer
 ms.assetid: d176be88-4df9-3826-c806-f7f650fffb39

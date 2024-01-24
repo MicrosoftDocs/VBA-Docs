@@ -3,7 +3,6 @@ title: Form.BeforeUpdate event (Access)
 keywords: vbaac10.chm13637
 f1_keywords:
 - vbaac10.chm13637
-ms.prod: access
 api_name:
 - Access.Form.BeforeUpdate
 ms.assetid: b783fcab-f697-a464-820c-712eac46cb4b

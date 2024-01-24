@@ -1,6 +1,6 @@
 ---
 title: Application.Height property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Height
 ms.assetid: e980a85d-218c-b82d-1043-9670cab23560

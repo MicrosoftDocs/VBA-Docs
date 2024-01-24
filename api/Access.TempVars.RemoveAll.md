@@ -3,7 +3,6 @@ title: TempVars.RemoveAll method (Access)
 keywords: vbaac10.chm14071
 f1_keywords:
 - vbaac10.chm14071
-ms.prod: access
 api_name:
 - Access.TempVars.RemoveAll
 ms.assetid: 1b278bda-9f28-8fd7-0408-3a2a4d3e1a74

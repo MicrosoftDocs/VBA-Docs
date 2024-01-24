@@ -3,7 +3,6 @@ title: Style.PersistsEvents property (Visio)
 keywords: vis_sdr.chm11414080
 f1_keywords:
 - vis_sdr.chm11414080
-ms.prod: visio
 api_name:
 - Visio.Style.PersistsEvents
 ms.assetid: cfff3dfa-cf5b-e57b-5b49-f19a50af9436

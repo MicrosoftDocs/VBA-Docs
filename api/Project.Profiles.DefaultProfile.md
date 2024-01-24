@@ -1,6 +1,6 @@
 ---
 title: Profiles.DefaultProfile property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profiles.DefaultProfile
 ms.assetid: 8c40d73c-43e3-7a01-c208-ef0d507888d5

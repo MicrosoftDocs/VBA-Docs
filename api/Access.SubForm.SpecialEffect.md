@@ -3,7 +3,6 @@ title: SubForm.SpecialEffect property (Access)
 keywords: vbaac10.chm11942
 f1_keywords:
 - vbaac10.chm11942
-ms.prod: access
 api_name:
 - Access.SubForm.SpecialEffect
 ms.assetid: b2959ab7-c66d-99a4-e7df-716556ec56b1

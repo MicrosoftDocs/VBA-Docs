@@ -3,7 +3,6 @@ title: MenuItem.IsHierarchical property (Visio)
 keywords: vis_sdr.chm12913740
 f1_keywords:
 - vis_sdr.chm12913740
-ms.prod: visio
 api_name:
 - Visio.MenuItem.IsHierarchical
 ms.assetid: d8643162-6d8a-4558-d4e0-c563af680cb3

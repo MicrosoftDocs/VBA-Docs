@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.DocumentOpened event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.DocumentOpened
 ms.assetid: f791954d-fd9e-8e45-ddec-2743e90faedf

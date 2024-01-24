@@ -1,6 +1,6 @@
 ---
 title: Profiles.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profiles.Item
 ms.assetid: 67716296-1a8c-dd6a-3dd5-beb0a23dd78a

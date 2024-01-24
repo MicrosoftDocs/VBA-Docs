@@ -3,7 +3,6 @@ title: OptionGroup.ControlTipText property (Access)
 keywords: vbaac10.chm10847
 f1_keywords:
 - vbaac10.chm10847
-ms.prod: access
 api_name:
 - Access.OptionGroup.ControlTipText
 ms.assetid: 21069dcf-9841-6548-6c5d-3793b73af1e3

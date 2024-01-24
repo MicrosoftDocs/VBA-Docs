@@ -1,6 +1,6 @@
 ---
 title: Tables.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Tables.Count
 ms.assetid: 065fe62c-ae3c-8502-7010-9b76560ee60b

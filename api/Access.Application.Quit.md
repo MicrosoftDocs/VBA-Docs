@@ -3,7 +3,6 @@ title: Application.Quit method (Access)
 keywords: vbaac10.chm12507
 f1_keywords:
 - vbaac10.chm12507
-ms.prod: access
 api_name:
 - Access.Application.Quit
 ms.assetid: 075ad885-f25d-ea2d-bf74-8ec915265c63

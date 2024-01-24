@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeAssignmentDelete2 event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectBeforeAssignmentDelete2
 ms.assetid: 2753a140-e01b-b2c1-233f-f9f265737b47

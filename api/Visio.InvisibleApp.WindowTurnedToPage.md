@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.WindowTurnedToPage event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.WindowTurnedToPage
 ms.assetid: a31992e8-7b3e-2986-a9e8-01cae1ae1fa5

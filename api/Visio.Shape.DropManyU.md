@@ -3,7 +3,6 @@ title: Shape.DropManyU method (Visio)
 keywords: vis_sdr.chm11251930
 f1_keywords:
 - vis_sdr.chm11251930
-ms.prod: visio
 api_name:
 - Visio.Shape.DropManyU
 ms.assetid: b3e18874-bb90-334f-e633-3e20133242a1

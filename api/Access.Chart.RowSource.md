@@ -3,7 +3,6 @@ title: Chart.RowSource property (Access)
 keywords: vbaac10.chm14758
 f1_keywords:
 - vbaac10.chm14758
-ms.prod: access
 api_name:
 - Access.Chart.RowSource
 ms.date: 11/28/2018

@@ -3,7 +3,6 @@ title: ListBox.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.ListBox.BackTint
 ms.assetid: 822bb0ff-5439-8150-5c3d-1738160ae654

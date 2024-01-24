@@ -1,6 +1,6 @@
 ---
 title: Task.UpdateNeeded property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.UpdateNeeded
 ms.assetid: 414c3d6c-f627-bf8e-4436-2dce9af3885f

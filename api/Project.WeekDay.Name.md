@@ -1,6 +1,6 @@
 ---
 title: WeekDay.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WeekDay.Name
 ms.assetid: f6a04bce-54b4-3d6d-3e11-b1c58b9bef44

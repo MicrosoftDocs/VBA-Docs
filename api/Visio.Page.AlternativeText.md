@@ -1,6 +1,5 @@
 ---
 title: Page.AlternativeText property (Visio)
-ms.prod: visio
 api_name:
 - Visio.Page.AlternativeText
 ms.date: 05/08/2019

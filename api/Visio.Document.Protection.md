@@ -3,7 +3,6 @@ title: Document.Protection property (Visio)
 keywords: vis_sdr.chm10550785
 f1_keywords:
 - vis_sdr.chm10550785
-ms.prod: visio
 api_name:
 - Visio.Document.Protection
 ms.assetid: f80cd284-e0e3-0663-c505-88311ffc9d3b

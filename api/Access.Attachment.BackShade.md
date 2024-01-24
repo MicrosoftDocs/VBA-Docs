@@ -3,7 +3,6 @@ title: Attachment.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.Attachment.BackShade
 ms.assetid: 23a28b72-b30c-4b2c-77c9-51bb0099efe9

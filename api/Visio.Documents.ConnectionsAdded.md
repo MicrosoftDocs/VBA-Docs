@@ -3,7 +3,6 @@ title: Documents.ConnectionsAdded event (Visio)
 keywords: vis_sdr.chm10619095
 f1_keywords:
 - vis_sdr.chm10619095
-ms.prod: visio
 api_name:
 - Visio.Documents.ConnectionsAdded
 ms.assetid: db864aa5-527d-9007-364f-f90c944ddda6

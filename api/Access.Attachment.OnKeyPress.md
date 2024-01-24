@@ -3,7 +3,6 @@ title: Attachment.OnKeyPress property (Access)
 keywords: vbaac10.chm13952
 f1_keywords:
 - vbaac10.chm13952
-ms.prod: access
 api_name:
 - Access.Attachment.OnKeyPress
 ms.assetid: 9f3213eb-9c37-f550-6c14-e6dd85d030a5

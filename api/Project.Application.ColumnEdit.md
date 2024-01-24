@@ -3,7 +3,7 @@ title: Application.ColumnEdit method (Project)
 keywords: vbapj.chm2038
 f1_keywords:
 - vbapj.chm2038
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ColumnEdit
 ms.assetid: 16fbcb23-419f-9e25-9f3b-271b0d5eda3d

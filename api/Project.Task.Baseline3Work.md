@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline3Work property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline3Work
 ms.assetid: 2d9c9f47-d96f-8986-c609-fcb5292521b7

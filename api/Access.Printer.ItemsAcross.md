@@ -3,7 +3,6 @@ title: Printer.ItemsAcross property (Access)
 keywords: vbaac10.chm12872
 f1_keywords:
 - vbaac10.chm12872
-ms.prod: access
 api_name:
 - Access.Printer.ItemsAcross
 ms.assetid: 6fe60a67-00a0-8551-73e9-d27f358a7e8e

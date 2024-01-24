@@ -3,7 +3,6 @@ title: WebBrowserControl.Hyperlink property (Access)
 keywords: vbaac10.chm14356
 f1_keywords:
 - vbaac10.chm14356
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Hyperlink
 ms.assetid: 0f82426e-3bc6-b9ab-7587-ff43978ceec1

@@ -3,7 +3,6 @@ title: Window.SelectedValidationIssue property (Visio)
 keywords: vis_sdr.chm11662490
 f1_keywords:
 - vis_sdr.chm11662490
-ms.prod: visio
 api_name:
 - Visio.Window.SelectedValidationIssue
 ms.assetid: 7955338a-2a54-2726-a17a-81acc6bcfce7

@@ -3,7 +3,6 @@ title: Report.Top property (Access)
 keywords: vbaac10.chm13728
 f1_keywords:
 - vbaac10.chm13728
-ms.prod: access
 api_name:
 - Access.Report.Top
 ms.assetid: badaa1a0-44ef-c2cd-64fa-8450add21d69

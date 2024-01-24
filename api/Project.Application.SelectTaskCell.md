@@ -3,7 +3,7 @@ title: Application.SelectTaskCell method (Project)
 keywords: vbapj.chm2068
 f1_keywords:
 - vbapj.chm2068
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SelectTaskCell
 ms.assetid: 824be785-faa8-b274-bc4c-b830f828528d

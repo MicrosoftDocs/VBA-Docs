@@ -3,7 +3,6 @@ title: Page.OnMouseMove property (Access)
 keywords: vbaac10.chm12170
 f1_keywords:
 - vbaac10.chm12170
-ms.prod: access
 api_name:
 - Access.Page.OnMouseMove
 ms.assetid: aa52fc17-d3b3-516a-ccad-f8471faf427d

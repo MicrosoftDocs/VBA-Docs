@@ -3,7 +3,7 @@ title: Application.ServiceOptionsDialog method (Project)
 keywords: vbapj.chm2370
 f1_keywords:
 - vbapj.chm2370
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ServiceOptionsDialog
 ms.assetid: 089c6989-4d46-5930-c0d5-ca6c0a66aa21

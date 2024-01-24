@@ -1,6 +1,6 @@
 ---
 title: PjCustomizeMailAction enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCustomizeMailAction
 ms.assetid: 3bbce645-f4a5-01e0-0b6f-f41fe7dbab2c

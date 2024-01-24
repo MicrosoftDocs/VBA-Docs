@@ -3,7 +3,6 @@ title: Cannot group on Memo or OLE Object <clause>. (Error 3119)
 keywords: jeterr40.chm5003119
 f1_keywords:
 - jeterr40.chm5003119
-ms.prod: access
 ms.assetid: 1669a6be-11e6-e1fa-ed0a-fef554884342
 ms.date: 06/08/2019
 ms.localizationpriority: medium

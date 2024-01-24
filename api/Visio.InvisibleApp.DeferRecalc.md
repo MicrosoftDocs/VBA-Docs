@@ -3,7 +3,6 @@ title: InvisibleApp.DeferRecalc property (Visio)
 keywords: vis_sdr.chm17513400
 f1_keywords:
 - vis_sdr.chm17513400
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.DeferRecalc
 ms.assetid: 88bbd653-4ffe-ff36-e20b-f6e238795f9f

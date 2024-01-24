@@ -3,7 +3,6 @@ title: KeyboardEvent.ObjectType property (Visio)
 keywords: vis_sdr.chm17013960
 f1_keywords:
 - vis_sdr.chm17013960
-ms.prod: visio
 api_name:
 - Visio.KeyboardEvent.ObjectType
 ms.assetid: 09b5a80e-e76b-6847-8501-61278904029c

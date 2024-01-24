@@ -3,7 +3,6 @@ title: TextBox.IMEHold property (Access)
 keywords: vbaac10.chm11048
 f1_keywords:
 - vbaac10.chm11048
-ms.prod: access
 api_name:
 - Access.TextBox.IMEHold
 ms.assetid: 0cb93c85-07ff-a10f-5cd0-dc4045ce1079

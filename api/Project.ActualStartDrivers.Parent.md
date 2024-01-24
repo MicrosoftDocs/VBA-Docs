@@ -1,6 +1,6 @@
 ---
 title: ActualStartDrivers.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ActualStartDrivers.Parent
 ms.assetid: d824cf8d-2297-d6cb-f6a4-9c3fd36a7521

@@ -1,6 +1,6 @@
 ---
 title: PjComparison enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjComparison
 ms.assetid: 80a06c71-4cb7-a83c-16bb-36fb97bbc495

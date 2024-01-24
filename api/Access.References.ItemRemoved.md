@@ -3,7 +3,6 @@ title: References.ItemRemoved event (Access)
 keywords: vbaac10.chm12647
 f1_keywords:
 - vbaac10.chm12647
-ms.prod: access
 api_name:
 - Access.References.ItemRemoved
 ms.assetid: 19498b96-5e92-8a7a-512a-95a89b878eb2

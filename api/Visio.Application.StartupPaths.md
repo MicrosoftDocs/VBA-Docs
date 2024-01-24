@@ -3,7 +3,6 @@ title: Application.StartupPaths property (Visio)
 keywords: vis_sdr.chm10014415
 f1_keywords:
 - vis_sdr.chm10014415
-ms.prod: visio
 api_name:
 - Visio.Application.StartupPaths
 ms.assetid: 966a91d9-9ada-d0e1-9886-271ea47faaf9

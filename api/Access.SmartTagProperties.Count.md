@@ -3,7 +3,6 @@ title: SmartTagProperties.Count property (Access)
 keywords: vbaac10.chm13311
 f1_keywords:
 - vbaac10.chm13311
-ms.prod: access
 api_name:
 - Access.SmartTagProperties.Count
 ms.assetid: 992c649f-4cd0-5de0-3127-033cd5851fdd

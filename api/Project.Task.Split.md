@@ -1,6 +1,6 @@
 ---
 title: Task.Split method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Split
 ms.assetid: 847c5cfd-a10f-ea6a-aa49-2e2e88d1840e

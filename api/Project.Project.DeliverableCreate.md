@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverableCreate method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverableCreate
 ms.assetid: 538f8143-0c0d-b9fa-9219-5405f4bd5046

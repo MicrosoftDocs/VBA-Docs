@@ -3,7 +3,6 @@ title: Selection.GetCallouts method (Visio)
 keywords: vis_sdr.chm11162170
 f1_keywords:
 - vis_sdr.chm11162170
-ms.prod: visio
 api_name:
 - Visio.Selection.GetCallouts
 ms.assetid: 29adcbbc-d5a9-a284-c025-785ad1ccf2c8

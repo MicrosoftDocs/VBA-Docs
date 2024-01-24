@@ -3,7 +3,6 @@ title: NavigationControl.OldValue property (Access)
 keywords: vbaac10.chm11031
 f1_keywords:
 - vbaac10.chm11031
-ms.prod: access
 api_name:
 - Access.NavigationControl.OldValue
 ms.assetid: ddee64e6-38cf-d033-4963-76529744ef81

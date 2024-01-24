@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.Reflection property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 3807b9c1-7ab8-0b56-0cdc-80ef7abfa1b3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

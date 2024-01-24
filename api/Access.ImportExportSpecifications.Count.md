@@ -3,7 +3,6 @@ title: ImportExportSpecifications.Count property (Access)
 keywords: vbaac10.chm13338
 f1_keywords:
 - vbaac10.chm13338
-ms.prod: access
 api_name:
 - Access.ImportExportSpecifications.Count
 ms.assetid: e3c722f8-0ccd-bd0a-7e2a-f873413caa93

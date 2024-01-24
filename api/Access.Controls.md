@@ -3,7 +3,6 @@ title: Controls object (Access)
 keywords: vbaac10.chm10176
 f1_keywords:
 - vbaac10.chm10176
-ms.prod: access
 api_name:
 - Access.Controls
 ms.assetid: 26771888-86e8-28c3-6668-f793474cbb5b

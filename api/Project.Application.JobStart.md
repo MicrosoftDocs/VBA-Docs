@@ -1,6 +1,6 @@
 ---
 title: Application.JobStart event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.JobStart
 ms.assetid: 874b35cb-bb90-b8dc-3c22-84c8809c3177

@@ -3,7 +3,6 @@ title: Chart.ChartTitleFontColor property (Access)
 keywords: vbaac10.chm6145
 f1_keywords:
 - vbaac10.chm6145
-ms.prod: access
 api_name:
 - Access.Chart.ChartTitleFontColor
 ms.date: 11/28/2018

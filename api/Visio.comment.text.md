@@ -1,6 +1,5 @@
 ---
 title: Comment.Text property (Visio)
-ms.prod: visio
 ms.assetid: 3ec63034-de5f-d9f2-16a5-e06a56883867
 ms.date: 06/08/2017
 ms.localizationpriority: medium

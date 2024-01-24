@@ -1,6 +1,6 @@
 ---
 title: Project.ResourceTableList property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ResourceTableList
 ms.assetid: 3d6c7995-4527-1597-ec56-c75d59be131a

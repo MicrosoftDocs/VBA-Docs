@@ -3,7 +3,6 @@ title: ObjectFrame.BorderWidth property (Access)
 keywords: vbaac10.chm11598
 f1_keywords:
 - vbaac10.chm11598
-ms.prod: access
 api_name:
 - Access.ObjectFrame.BorderWidth
 ms.assetid: 2f95633a-dea1-08a6-3c0e-1fb52f453c06

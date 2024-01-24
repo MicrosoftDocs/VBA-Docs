@@ -3,7 +3,6 @@ title: ObjectFrame.SizeToFit method (Access)
 keywords: vbaac10.chm11553
 f1_keywords:
 - vbaac10.chm11553
-ms.prod: access
 api_name:
 - Access.ObjectFrame.SizeToFit
 ms.assetid: f1511d4f-367e-85e4-cc5c-cdb0f8a72d8b

@@ -3,7 +3,6 @@ title: Shape.DrawBezier method (Visio)
 keywords: vis_sdr.chm11216195
 f1_keywords:
 - vis_sdr.chm11216195
-ms.prod: visio
 api_name:
 - Visio.Shape.DrawBezier
 ms.assetid: d38b56a5-2366-e418-206f-db39bd8e2c82

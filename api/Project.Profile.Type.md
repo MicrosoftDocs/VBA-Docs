@@ -1,6 +1,6 @@
 ---
 title: Profile.Type property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Profile.Type
 ms.assetid: ff5c3939-cfa6-c098-5fc4-180a4573ecb0

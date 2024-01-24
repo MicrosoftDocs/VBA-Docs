@@ -3,7 +3,6 @@ title: AccelItem object (Visio)
 keywords: vis_sdr.chm10010
 f1_keywords:
 - vis_sdr.chm10010
-ms.prod: visio
 api_name:
 - Visio.AccelItem
 ms.assetid: 43701480-d125-4589-d208-a30731c71681

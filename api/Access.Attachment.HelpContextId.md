@@ -3,7 +3,6 @@ title: Attachment.HelpContextId property (Access)
 keywords: vbaac10.chm13933
 f1_keywords:
 - vbaac10.chm13933
-ms.prod: access
 api_name:
 - Access.Attachment.HelpContextId
 ms.assetid: a9eceafb-48b4-8bcd-bec1-6a16c71b4850

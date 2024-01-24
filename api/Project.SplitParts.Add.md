@@ -1,6 +1,6 @@
 ---
 title: SplitParts.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.SplitParts.Add
 ms.assetid: 91f6a47e-fdd9-b826-8b2c-776406c2f276

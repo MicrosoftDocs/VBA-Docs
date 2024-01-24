@@ -3,7 +3,6 @@ title: TabControl.FontBold property (Access)
 keywords: vbaac10.chm12096
 f1_keywords:
 - vbaac10.chm12096
-ms.prod: access
 api_name:
 - Access.TabControl.FontBold
 ms.assetid: a76c23ea-b15c-8d2a-cc27-f082c6d81ca9

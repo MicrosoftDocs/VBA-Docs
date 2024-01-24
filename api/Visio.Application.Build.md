@@ -3,7 +3,6 @@ title: Application.Build property (Visio)
 keywords: vis_sdr.chm10050515
 f1_keywords:
 - vis_sdr.chm10050515
-ms.prod: visio
 api_name:
 - Visio.Application.Build
 ms.assetid: 92fcdbe9-dfb1-cd20-4700-796bf7ca17f1

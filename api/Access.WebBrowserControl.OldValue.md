@@ -3,7 +3,6 @@ title: WebBrowserControl.OldValue property (Access)
 keywords: vbaac10.chm14350
 f1_keywords:
 - vbaac10.chm14350
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.OldValue
 ms.assetid: 2da6794c-74ed-757e-9a1c-108841ff1296

@@ -3,7 +3,6 @@ title: Cannot input from internal report query <name>. (Error 3124)
 keywords: jeterr40.chm5003124
 f1_keywords:
 - jeterr40.chm5003124
-ms.prod: access
 ms.assetid: bf2fefc9-7ae1-da2c-4013-401ac756b2c3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

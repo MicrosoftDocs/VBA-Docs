@@ -3,7 +3,6 @@ title: CommandButton.ForeThemeColorIndex property (Access)
 keywords: vbaac10.chm14604
 f1_keywords:
 - vbaac10.chm14604
-ms.prod: access
 api_name:
 - Access.CommandButton.ForeThemeColorIndex
 ms.assetid: 4831634a-6988-57ec-0e47-6c16a6c832a0

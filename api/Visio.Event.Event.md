@@ -3,7 +3,6 @@ title: Event.Event property (Visio)
 keywords: vis_sdr.chm12613470
 f1_keywords:
 - vis_sdr.chm12613470
-ms.prod: visio
 api_name:
 - Visio.Event.Event
 ms.assetid: 7b7783c3-2451-752e-6f40-ce25bd3fd696

@@ -3,7 +3,6 @@ title: Report.OpenArgs property (Access)
 keywords: vbaac10.chm13809
 f1_keywords:
 - vbaac10.chm13809
-ms.prod: access
 api_name:
 - Access.Report.OpenArgs
 ms.assetid: 91dcbf42-6bb8-73e5-744c-de82d8668f9c

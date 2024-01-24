@@ -3,7 +3,6 @@ title: Application.DataFeaturesEnabled property (Visio)
 keywords: vis_sdr.chm10060055
 f1_keywords:
 - vis_sdr.chm10060055
-ms.prod: visio
 api_name:
 - Visio.Application.DataFeaturesEnabled
 ms.assetid: 3ff6eb4e-1ea8-3f53-c86b-133d4960516e

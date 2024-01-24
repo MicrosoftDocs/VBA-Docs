@@ -3,7 +3,6 @@ title: ObjectFrame.Action property (Access)
 keywords: vbaac10.chm11610
 f1_keywords:
 - vbaac10.chm11610
-ms.prod: access
 api_name:
 - Access.ObjectFrame.Action
 ms.assetid: 042d3418-fe67-c4cc-60b1-dc3b373b8d4f

@@ -3,7 +3,6 @@ title: Global.Windows property (Visio)
 keywords: vis_sdr.chm12814665
 f1_keywords:
 - vis_sdr.chm12814665
-ms.prod: visio
 api_name:
 - Visio.Global.Windows
 ms.assetid: d86b6db0-702c-9058-03a7-b457388ebfd3

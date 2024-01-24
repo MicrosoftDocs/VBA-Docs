@@ -3,7 +3,7 @@ title: Task.ConstraintType property (Project)
 keywords: vbapj.chm131667
 f1_keywords:
 - vbapj.chm131667
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ConstraintType
 ms.assetid: cdcd6a0d-a996-646d-130e-1a5ed2c93705

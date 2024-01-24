@@ -3,7 +3,6 @@ title: ComboBox.AfterUpdate event (Access)
 keywords: vbaac10.chm14212
 f1_keywords:
 - vbaac10.chm14212
-ms.prod: access
 api_name:
 - Access.ComboBox.AfterUpdate
 ms.assetid: 89b45f0c-5ab1-889e-bd26-a34281b49b9e

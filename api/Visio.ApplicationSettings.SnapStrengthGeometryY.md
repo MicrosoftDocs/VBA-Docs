@@ -3,7 +3,6 @@ title: ApplicationSettings.SnapStrengthGeometryY property (Visio)
 keywords: vis_sdr.chm16251580
 f1_keywords:
 - vis_sdr.chm16251580
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.SnapStrengthGeometryY
 ms.assetid: 8e5b3bf3-4cb6-af1c-1812-863c247608b9

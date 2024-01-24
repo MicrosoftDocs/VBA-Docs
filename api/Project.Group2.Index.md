@@ -1,6 +1,6 @@
 ---
 title: Group2.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group2.Index
 ms.assetid: a7d4ec3e-825b-87c8-d7bb-a61984ba7ace

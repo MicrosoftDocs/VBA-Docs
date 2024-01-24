@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.AlternativeText property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: fea86cf2-e0aa-c08c-ae40-f071a67624f4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

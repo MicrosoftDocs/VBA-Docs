@@ -3,7 +3,6 @@ title: Cannot open replication system table <name> because the table is already 
 keywords: jeterr40.chm5003581
 f1_keywords:
 - jeterr40.chm5003581
-ms.prod: access
 ms.assetid: 15ab6982-0154-085e-ba59-b464e61c7bec
 ms.date: 06/08/2019
 ms.localizationpriority: medium

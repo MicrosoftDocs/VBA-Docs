@@ -1,6 +1,6 @@
 ---
 title: Window.Activate method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Activate
 ms.assetid: 95b97794-89d4-2e0f-b9b1-12cddb38ffbb

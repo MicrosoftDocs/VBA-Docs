@@ -3,7 +3,6 @@ title: Report.DisplayOnSharePointSite property (Access)
 keywords: vbaac10.chm13873
 f1_keywords:
 - vbaac10.chm13873
-ms.prod: access
 api_name:
 - Access.Report.DisplayOnSharePointSite
 ms.assetid: 4e13b1e9-3b79-d073-fb51-848fdc2dcada

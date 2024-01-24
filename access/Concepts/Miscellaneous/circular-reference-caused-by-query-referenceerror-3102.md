@@ -3,7 +3,6 @@ title: Circular reference caused by <query reference>. (Error 3102)
 keywords: jeterr40.chm5003102
 f1_keywords:
 - jeterr40.chm5003102
-ms.prod: access
 ms.assetid: f3ff3f1b-8a2f-7038-57f8-0abadde1c3cf
 ms.date: 06/08/2019
 ms.localizationpriority: medium

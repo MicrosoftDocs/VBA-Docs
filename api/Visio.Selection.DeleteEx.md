@@ -3,7 +3,6 @@ title: Selection.DeleteEx method (Visio)
 keywords: vis_sdr.chm11162730
 f1_keywords:
 - vis_sdr.chm11162730
-ms.prod: visio
 api_name:
 - Visio.Selection.DeleteEx
 ms.assetid: 8935a2de-2fab-0b2e-1595-a78d3dc2fd90

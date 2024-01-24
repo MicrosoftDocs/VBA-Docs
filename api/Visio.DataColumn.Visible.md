@@ -3,7 +3,6 @@ title: DataColumn.Visible property (Visio)
 keywords: vis_sdr.chm16714650
 f1_keywords:
 - vis_sdr.chm16714650
-ms.prod: visio
 api_name:
 - Visio.DataColumn.Visible
 ms.assetid: c540f37d-abbd-4831-e43b-653b228735a2

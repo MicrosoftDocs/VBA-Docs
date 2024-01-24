@@ -3,7 +3,7 @@ title: Project.ImportResourceErrorCount method (Project)
 keywords: vbapj.chm131111
 f1_keywords:
 - vbapj.chm131111
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ImportResourceErrorCount
 ms.assetid: 4366d326-5888-4846-5ea0-a1e5349d03ee

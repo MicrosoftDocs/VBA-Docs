@@ -3,7 +3,7 @@ title: Application.TimescaleFinish property (Project)
 keywords: vbapj.chm132757
 f1_keywords:
 - vbapj.chm132757
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TimescaleFinish
 ms.assetid: 66c07ebc-ee68-bf4c-9af1-c894d4617e44

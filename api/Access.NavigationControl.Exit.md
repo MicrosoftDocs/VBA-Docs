@@ -3,7 +3,6 @@ title: NavigationControl.Exit event (Access)
 keywords: vbaac10.chm14198
 f1_keywords:
 - vbaac10.chm14198
-ms.prod: access
 api_name:
 - Access.NavigationControl.Exit
 ms.assetid: 501b17c7-0039-7418-e31c-7c61c49691dd

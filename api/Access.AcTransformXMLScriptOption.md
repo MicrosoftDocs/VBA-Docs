@@ -3,7 +3,6 @@ title: AcTransformXMLScriptOption enumeration (Access)
 keywords: vbaac10.chm13252
 f1_keywords:
 - vbaac10.chm13252
-ms.prod: access
 api_name:
 - Access.AcTransformXMLScriptOption
 ms.assetid: c4607d48-d352-6aa4-b576-b2077ad67cfa

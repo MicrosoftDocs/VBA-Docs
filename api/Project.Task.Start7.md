@@ -1,6 +1,6 @@
 ---
 title: Task.Start7 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Start7
 ms.assetid: 334c8fd2-44a1-b0dd-4681-170dfcb03864

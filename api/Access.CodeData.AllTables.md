@@ -3,7 +3,6 @@ title: CodeData.AllTables property (Access)
 keywords: vbaac10.chm12732
 f1_keywords:
 - vbaac10.chm12732
-ms.prod: access
 api_name:
 - Access.CodeData.AllTables
 ms.assetid: d7feab36-aa71-6085-f395-a23571460d25

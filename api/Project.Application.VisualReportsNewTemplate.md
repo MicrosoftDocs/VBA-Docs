@@ -3,7 +3,7 @@ title: Application.VisualReportsNewTemplate method (Project)
 keywords: vbapj.chm2140
 f1_keywords:
 - vbapj.chm2140
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.VisualReportsNewTemplate
 ms.assetid: 46fbe1f2-a79a-a0e2-ccfb-2c02ed46b184

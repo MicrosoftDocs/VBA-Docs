@@ -3,7 +3,7 @@ title: Project.CurrencySymbolPosition property (Project)
 keywords: vbapj.chm131698
 f1_keywords:
 - vbapj.chm131698
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CurrencySymbolPosition
 ms.assetid: 1ac5a154-370f-53f9-0deb-17ee36ec2ad2

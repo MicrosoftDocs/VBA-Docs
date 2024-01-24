@@ -3,7 +3,7 @@ title: Project.ProjectGuideUseDefaultContent property (Project)
 keywords: vbapj.chm131090
 f1_keywords:
 - vbapj.chm131090
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectGuideUseDefaultContent
 ms.assetid: 6105b6f4-1508-8289-32e2-4dcbbf4dd4d1

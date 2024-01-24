@@ -3,7 +3,7 @@ title: Application.MacroSecurity method (Project)
 keywords: vbapj.chm2396
 f1_keywords:
 - vbapj.chm2396
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MacroSecurity
 ms.assetid: 5b2fc876-50b2-e30b-ab2b-aa3dc3bddc13

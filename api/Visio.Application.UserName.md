@@ -3,7 +3,6 @@ title: Application.UserName property (Visio)
 keywords: vis_sdr.chm10014625
 f1_keywords:
 - vis_sdr.chm10014625
-ms.prod: visio
 api_name:
 - Visio.Application.UserName
 ms.assetid: 2f122cb1-735f-ceb8-76db-5b7a80bce080

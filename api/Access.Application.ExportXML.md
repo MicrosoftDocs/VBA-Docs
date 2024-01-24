@@ -3,7 +3,6 @@ title: Application.ExportXML method (Access)
 keywords: vbaac10.chm12609
 f1_keywords:
 - vbaac10.chm12609
-ms.prod: access
 api_name:
 - Access.Application.ExportXML
 ms.assetid: 47627677-d311-c2e1-7532-e8a8a9beef29

@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverableDelete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverableDelete
 ms.assetid: 6dabff69-1cd0-862e-91f3-2d722484308c

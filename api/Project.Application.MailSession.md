@@ -1,6 +1,6 @@
 ---
 title: Application.MailSession method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MailSession
 ms.assetid: 00f67414-eb0d-6b2a-d557-26812aaee04c

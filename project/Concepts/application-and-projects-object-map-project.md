@@ -1,6 +1,6 @@
 ---
 title: Application and Projects object map (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 608f1291-ce25-8a5f-f0ba-7c1e823a12f4
 ms.date: 06/08/2019
 ms.localizationpriority: medium

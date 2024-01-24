@@ -3,7 +3,7 @@ title: Application.ComAddInsDialog method (Project)
 keywords: vbapj.chm2395
 f1_keywords:
 - vbapj.chm2395
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ComAddInsDialog
 ms.assetid: 06889c2c-2c3a-355d-34c9-ca1d3c31ed2b

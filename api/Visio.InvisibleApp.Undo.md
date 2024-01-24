@@ -3,7 +3,6 @@ title: InvisibleApp.Undo method (Visio)
 keywords: vis_sdr.chm17516620
 f1_keywords:
 - vis_sdr.chm17516620
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Undo
 ms.assetid: 29b5012e-ff19-1cdc-88f9-eadc6683a3b9

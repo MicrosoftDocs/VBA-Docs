@@ -3,7 +3,6 @@ title: Page.PasteToLocation method (Visio)
 keywords: vis_sdr.chm10962120
 f1_keywords:
 - vis_sdr.chm10962120
-ms.prod: visio
 api_name:
 - Visio.Page.PasteToLocation
 ms.assetid: d24cc1b3-c0c7-d529-b94f-0fea82d124ef

@@ -3,7 +3,6 @@ title: Selection.Distribute method (Visio)
 keywords: vis_sdr.chm11151420
 f1_keywords:
 - vis_sdr.chm11151420
-ms.prod: visio
 api_name:
 - Visio.Selection.Distribute
 ms.assetid: 7750167b-b4ef-c1b6-68f4-1f40ab1fd33e

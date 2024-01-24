@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.ShutDownBehavior property (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.ShutDownBehavior
 ms.assetid: 19c3e160-4b1d-40f1-b41d-69f21fca1d0d

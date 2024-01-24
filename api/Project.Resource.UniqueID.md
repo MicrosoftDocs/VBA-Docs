@@ -1,6 +1,6 @@
 ---
 title: Resource.UniqueID property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.UniqueID
 ms.assetid: f2b93da7-081e-66bb-97e3-65ac0ea304d0

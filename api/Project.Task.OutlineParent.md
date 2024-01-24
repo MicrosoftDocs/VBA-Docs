@@ -1,6 +1,6 @@
 ---
 title: Task.OutlineParent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.OutlineParent
 ms.assetid: 54dc7d2a-feb0-da23-5116-decf0f4388e9

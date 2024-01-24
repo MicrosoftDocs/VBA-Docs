@@ -3,7 +3,6 @@ title: Form.AllowLayoutView property (Access)
 keywords: vbaac10.chm13627
 f1_keywords:
 - vbaac10.chm13627
-ms.prod: access
 api_name:
 - Access.Form.AllowLayoutView
 ms.assetid: 70b273ef-60fa-00b8-b262-3c45e691ed42

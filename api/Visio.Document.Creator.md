@@ -3,7 +3,6 @@ title: Document.Creator property (Visio)
 keywords: vis_sdr.chm10513335
 f1_keywords:
 - vis_sdr.chm10513335
-ms.prod: visio
 api_name:
 - Visio.Document.Creator
 ms.assetid: c1dea222-796c-1231-bb9b-9d258450b142

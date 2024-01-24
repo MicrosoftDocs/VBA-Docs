@@ -3,7 +3,6 @@ title: NavigationControl.HorizontalAnchor property (Access)
 keywords: vbaac10.chm11165
 f1_keywords:
 - vbaac10.chm11165
-ms.prod: access
 api_name:
 - Access.NavigationControl.HorizontalAnchor
 ms.assetid: 2e6142a7-1d9b-ec43-5ee2-0388f5d401f4

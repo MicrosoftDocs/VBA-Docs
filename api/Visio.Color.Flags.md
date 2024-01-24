@@ -3,7 +3,6 @@ title: Color.Flags property (Visio)
 keywords: vis_sdr.chm12213540
 f1_keywords:
 - vis_sdr.chm12213540
-ms.prod: visio
 api_name:
 - Visio.Color.Flags
 ms.assetid: 61289973-af74-4eca-f4ac-becb9ca35ed4

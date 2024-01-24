@@ -3,7 +3,6 @@ title: MenuSet.Position property (Visio)
 keywords: vis_sdr.chm13314095
 f1_keywords:
 - vis_sdr.chm13314095
-ms.prod: visio
 api_name:
 - Visio.MenuSet.Position
 ms.assetid: 2e970661-b8d6-a886-ad26-89759272af9d

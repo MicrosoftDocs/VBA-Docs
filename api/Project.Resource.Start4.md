@@ -1,6 +1,6 @@
 ---
 title: Resource.Start4 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Start4
 ms.assetid: 3be36f5d-cc31-d3c8-82ae-0857a7a9183a

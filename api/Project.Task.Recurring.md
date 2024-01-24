@@ -1,6 +1,6 @@
 ---
 title: Task.Recurring property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Recurring
 ms.assetid: e7d5aef4-3fac-976f-a3d1-7f5bd4c870cd

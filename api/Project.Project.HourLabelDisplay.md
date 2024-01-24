@@ -3,7 +3,7 @@ title: Project.HourLabelDisplay property (Project)
 keywords: vbapj.chm132338
 f1_keywords:
 - vbapj.chm132338
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.HourLabelDisplay
 ms.assetid: 6dc5f65b-d509-5d4a-a550-52c92b43534e

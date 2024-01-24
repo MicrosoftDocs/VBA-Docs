@@ -1,6 +1,6 @@
 ---
 title: Application.WindowDeactivate event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WindowDeactivate
 ms.assetid: 141940d7-f117-d3a8-2aa5-83679a5fbfd4

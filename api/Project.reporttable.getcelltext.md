@@ -3,7 +3,7 @@ title: ReportTable.GetCellText method (Project)
 keywords: vbapj.chm132692
 f1_keywords:
 - vbapj.chm132692
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: dcdcbd8d-28e8-eb4e-e0cd-8caac511ade3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

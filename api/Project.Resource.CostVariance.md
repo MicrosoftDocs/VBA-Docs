@@ -1,6 +1,6 @@
 ---
 title: Resource.CostVariance property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.CostVariance
 ms.assetid: ae706493-fb99-74db-3e43-a1cda4632f21

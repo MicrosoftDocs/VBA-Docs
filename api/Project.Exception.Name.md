@@ -1,6 +1,6 @@
 ---
 title: Exception.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exception.Name
 ms.assetid: ef3e1418-e297-d0c5-4423-f53497a6031b

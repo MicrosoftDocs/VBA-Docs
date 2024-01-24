@@ -1,6 +1,6 @@
 ---
 title: Task.Flag18 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Flag18
 ms.assetid: bb7e3f3f-6d07-f1dc-7ca0-6aa1415e1612

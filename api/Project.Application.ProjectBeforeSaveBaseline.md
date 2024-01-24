@@ -1,6 +1,6 @@
 ---
 title: Application.ProjectBeforeSaveBaseline event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ProjectBeforeSaveBaseline
 ms.assetid: bcdd2134-03dd-e26d-66db-095bda6a7162

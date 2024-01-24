@@ -1,6 +1,6 @@
 ---
 title: Shapes.Background property (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 9199c72e-d692-6a9c-2ff2-06fe9e445bef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

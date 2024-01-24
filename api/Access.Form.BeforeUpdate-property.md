@@ -3,7 +3,6 @@ title: Form.BeforeUpdate property (Access)
 keywords: vbaac10.chm13434
 f1_keywords:
 - vbaac10.chm13434
-ms.prod: access
 api_name:
 - Access.Form.BeforeUpdate
 ms.assetid: b4b39ab8-e37c-8803-b6c3-032707342c92

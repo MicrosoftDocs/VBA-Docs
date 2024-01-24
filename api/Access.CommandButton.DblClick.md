@@ -3,7 +3,6 @@ title: CommandButton.DblClick event (Access)
 keywords: vbaac10.chm14082
 f1_keywords:
 - vbaac10.chm14082
-ms.prod: access
 api_name:
 - Access.CommandButton.DblClick
 ms.assetid: 0bce5cae-67d8-3acd-2029-be72f511e250

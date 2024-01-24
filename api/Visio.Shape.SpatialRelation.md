@@ -3,7 +3,6 @@ title: Shape.SpatialRelation property (Visio)
 keywords: vis_sdr.chm11214400
 f1_keywords:
 - vis_sdr.chm11214400
-ms.prod: visio
 api_name:
 - Visio.Shape.SpatialRelation
 ms.assetid: 7e9f26b5-2887-493f-01c1-5e3900ea8c05

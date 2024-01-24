@@ -3,7 +3,6 @@ title: Cell.ResultFromIntForce property (Visio)
 keywords: vis_sdr.chm10114210
 f1_keywords:
 - vis_sdr.chm10114210
-ms.prod: visio
 api_name:
 - Visio.Cell.ResultFromIntForce
 ms.assetid: e22b2479-a55f-c08b-4d2b-18f8225900fa

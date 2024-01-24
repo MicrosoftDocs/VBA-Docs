@@ -3,7 +3,6 @@ title: CurrentData.AllTables property (Access)
 keywords: vbaac10.chm12732
 f1_keywords:
 - vbaac10.chm12732
-ms.prod: access
 api_name:
 - Access.CurrentData.AllTables
 ms.assetid: 7d3216da-6db1-5ca1-4163-56f354185337

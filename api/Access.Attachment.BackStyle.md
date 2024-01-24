@@ -3,7 +3,6 @@ title: Attachment.BackStyle property (Access)
 keywords: vbaac10.chm13924
 f1_keywords:
 - vbaac10.chm13924
-ms.prod: access
 api_name:
 - Access.Attachment.BackStyle
 ms.assetid: 7e86f99d-a74a-8153-64ef-fe7cea81d218

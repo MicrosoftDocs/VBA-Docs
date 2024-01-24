@@ -3,7 +3,7 @@ title: Project.ProjectNotes property (Project)
 keywords: vbapj.chm132524
 f1_keywords:
 - vbapj.chm132524
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ProjectNotes
 ms.assetid: 2a9dcdbe-50f2-544a-8aba-c2db0d6762bc

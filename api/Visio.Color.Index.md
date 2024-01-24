@@ -3,7 +3,6 @@ title: Color.Index property (Visio)
 keywords: vis_sdr.chm12213695
 f1_keywords:
 - vis_sdr.chm12213695
-ms.prod: visio
 api_name:
 - Visio.Color.Index
 ms.assetid: 2a569a48-67df-5c6a-0863-0af7052544fb

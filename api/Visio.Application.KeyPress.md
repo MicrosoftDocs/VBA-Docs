@@ -1,6 +1,5 @@
 ---
 title: Application.KeyPress event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.KeyPress
 ms.assetid: d044400a-e552-6615-ce2c-1d0aec723b6f

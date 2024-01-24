@@ -3,7 +3,6 @@ title: BoundObjectFrame.IsVisible property (Access)
 keywords: vbaac10.chm10959
 f1_keywords:
 - vbaac10.chm10959
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.IsVisible
 ms.assetid: e750fe64-ee9a-5b42-2f5b-da8017002960

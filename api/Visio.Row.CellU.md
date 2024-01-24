@@ -3,7 +3,6 @@ title: Row.CellU property (Visio)
 keywords: vis_sdr.chm15851960
 f1_keywords:
 - vis_sdr.chm15851960
-ms.prod: visio
 api_name:
 - Visio.Row.CellU
 ms.assetid: 1fd467e1-9c5e-238a-b7d6-253668f94882

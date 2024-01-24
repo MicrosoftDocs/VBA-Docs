@@ -3,7 +3,6 @@ title: ToggleButton.Requery method (Access)
 keywords: vbaac10.chm11693
 f1_keywords:
 - vbaac10.chm11693
-ms.prod: access
 api_name:
 - Access.ToggleButton.Requery
 ms.assetid: 117bca69-466d-028c-b943-3a5f8517b53a

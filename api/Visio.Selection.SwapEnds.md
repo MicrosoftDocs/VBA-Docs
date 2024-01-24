@@ -3,7 +3,6 @@ title: Selection.SwapEnds method (Visio)
 keywords: vis_sdr.chm11150895
 f1_keywords:
 - vis_sdr.chm11150895
-ms.prod: visio
 api_name:
 - Visio.Selection.SwapEnds
 ms.assetid: 515580db-4018-30b3-0ed6-cb3a412b62c7

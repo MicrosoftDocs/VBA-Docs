@@ -1,6 +1,6 @@
 ---
 title: Assignment.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Index
 ms.assetid: eea6d62f-e896-7a5e-dd33-dadc15d5ce03

@@ -3,7 +3,6 @@ title: Window.WindowChanged event (Visio)
 keywords: vis_sdr.chm11619275
 f1_keywords:
 - vis_sdr.chm11619275
-ms.prod: visio
 api_name:
 - Visio.Window.WindowChanged
 ms.assetid: ee7e4871-26ca-ea4e-1c7b-2e597d92e143

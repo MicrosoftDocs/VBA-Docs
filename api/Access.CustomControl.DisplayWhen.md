@@ -3,7 +3,6 @@ title: CustomControl.DisplayWhen property (Access)
 keywords: vbaac10.chm12014
 f1_keywords:
 - vbaac10.chm12014
-ms.prod: access
 api_name:
 - Access.CustomControl.DisplayWhen
 ms.assetid: 5d53befd-6210-12b6-7397-2e1eea8bc5d3

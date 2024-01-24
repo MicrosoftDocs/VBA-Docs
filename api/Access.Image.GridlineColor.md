@@ -3,7 +3,6 @@ title: Image.GridlineColor property (Access)
 keywords: vbaac10.chm10425
 f1_keywords:
 - vbaac10.chm10425
-ms.prod: access
 api_name:
 - Access.Image.GridlineColor
 ms.assetid: bb355521-48f5-6a6f-df05-ff5be9cc1e65

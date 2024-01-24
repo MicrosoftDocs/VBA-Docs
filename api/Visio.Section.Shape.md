@@ -3,7 +3,6 @@ title: Section.Shape property (Visio)
 keywords: vis_sdr.chm15714320
 f1_keywords:
 - vis_sdr.chm15714320
-ms.prod: visio
 api_name:
 - Visio.Section.Shape
 ms.assetid: 5b951fa1-507c-416c-a3a4-fdfa32d43fca

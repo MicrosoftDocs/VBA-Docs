@@ -3,7 +3,7 @@ title: Application.BarBoxFormat method (Project)
 keywords: vbapj.chm2389
 f1_keywords:
 - vbapj.chm2389
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BarBoxFormat
 ms.assetid: 4c491952-533a-21a9-49fc-ccb7a3342370

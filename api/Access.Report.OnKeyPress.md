@@ -3,7 +3,6 @@ title: Report.OnKeyPress property (Access)
 keywords: vbaac10.chm13868
 f1_keywords:
 - vbaac10.chm13868
-ms.prod: access
 api_name:
 - Access.Report.OnKeyPress
 ms.assetid: 9f6dcc2e-b2b1-56bc-2c3a-c7be498eda72

@@ -3,7 +3,7 @@ title: Application.GetUndoListCount method (Project)
 keywords: vbapj.chm131096
 f1_keywords:
 - vbapj.chm131096
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GetUndoListCount
 ms.assetid: f152c08c-293a-edd4-5d72-49ba1178715c

@@ -3,7 +3,6 @@ title: Document.ExecuteLine method (Visio)
 keywords: vis_sdr.chm10516260
 f1_keywords:
 - vis_sdr.chm10516260
-ms.prod: visio
 api_name:
 - Visio.Document.ExecuteLine
 ms.assetid: 0443c879-b569-c35b-e28c-77d0bf4b23ba

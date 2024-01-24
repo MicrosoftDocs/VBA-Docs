@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.DispScreenRes property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.DispScreenRes
 ms.assetid: ec62976a-4a92-f904-b7de-1e9470dc5411

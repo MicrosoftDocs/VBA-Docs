@@ -3,7 +3,6 @@ title: The size of a field is too long. (Error 3017)
 keywords: jeterr40.chm5003017
 f1_keywords:
 - jeterr40.chm5003017
-ms.prod: access
 ms.assetid: c793a9d4-755e-6a0c-0f41-24851a23cb0f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

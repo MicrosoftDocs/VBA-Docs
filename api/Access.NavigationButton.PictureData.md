@@ -3,7 +3,6 @@ title: NavigationButton.PictureData property (Access)
 keywords: vbaac10.chm10453
 f1_keywords:
 - vbaac10.chm10453
-ms.prod: access
 api_name:
 - Access.NavigationButton.PictureData
 ms.assetid: 3154933c-0945-81b8-272b-3e37fa819b05

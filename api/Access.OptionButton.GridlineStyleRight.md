@@ -3,7 +3,6 @@ title: OptionButton.GridlineStyleRight property (Access)
 keywords: vbaac10.chm10647
 f1_keywords:
 - vbaac10.chm10647
-ms.prod: access
 api_name:
 - Access.OptionButton.GridlineStyleRight
 ms.assetid: 9ae532dd-48f9-720b-91fe-ba5d67d39176

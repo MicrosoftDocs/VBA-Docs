@@ -3,7 +3,7 @@ title: Task.ExternalTask property (Project)
 keywords: vbapj.chm132236
 f1_keywords:
 - vbapj.chm132236
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ExternalTask
 ms.assetid: 5f79cc58-1464-f036-da9a-e7484dd4de62

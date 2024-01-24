@@ -3,7 +3,6 @@ title: ToggleButton.ForeColor property (Access)
 keywords: vbaac10.chm11722
 f1_keywords:
 - vbaac10.chm11722
-ms.prod: access
 api_name:
 - Access.ToggleButton.ForeColor
 ms.assetid: 89eac6c0-5989-40ba-276e-53f1de2d2ed8

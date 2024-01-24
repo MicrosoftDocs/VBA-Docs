@@ -3,7 +3,6 @@ title: Fonts.ObjectType property (Visio)
 keywords: vis_sdr.chm12113960
 f1_keywords:
 - vis_sdr.chm12113960
-ms.prod: visio
 api_name:
 - Visio.Fonts.ObjectType
 ms.assetid: 2b3a0a23-3134-3042-98d8-01a5ff786e67

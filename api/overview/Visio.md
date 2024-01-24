@@ -1,6 +1,6 @@
 ---
 title: Visio Visual Basic for Applications (VBA) reference
-ms.prod: visio
+ms.service: visio
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Visio solutions.
 ms.date: 10/10/2018
 ms.localizationpriority: medium

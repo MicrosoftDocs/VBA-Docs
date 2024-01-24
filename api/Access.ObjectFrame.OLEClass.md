@@ -3,7 +3,6 @@ title: ObjectFrame.OLEClass property (Access)
 keywords: vbaac10.chm11561
 f1_keywords:
 - vbaac10.chm11561
-ms.prod: access
 api_name:
 - Access.ObjectFrame.OLEClass
 ms.assetid: ed32f15c-77da-0bd6-46da-38373ea37cc1

@@ -3,7 +3,7 @@ title: Application.TimelineShowHide method (Project)
 keywords: vbapj.chm62
 f1_keywords:
 - vbapj.chm62
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.TimelineShowHide
 ms.assetid: 237052c0-445b-db78-9a74-10e8742a493d

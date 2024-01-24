@@ -3,7 +3,6 @@ title: Style.GetFormulas method (Visio)
 keywords: vis_sdr.chm11416310
 f1_keywords:
 - vis_sdr.chm11416310
-ms.prod: visio
 api_name:
 - Visio.Style.GetFormulas
 ms.assetid: cd4f08b4-bac8-2b98-c220-0a6f56408464

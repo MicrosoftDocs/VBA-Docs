@@ -3,7 +3,6 @@ title: DrawingControl.NegotiateMenus property (Visio)
 keywords: vis_sdr.chm52005
 f1_keywords:
 - vis_sdr.chm52005
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.NegotiateMenus
 ms.assetid: 03a9ee41-1116-101f-fdbe-16b8fcd98866

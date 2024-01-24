@@ -3,7 +3,6 @@ title: DoCmd.GoToRecord method (Access)
 keywords: vbaac10.chm4154
 f1_keywords:
 - vbaac10.chm4154
-ms.prod: access
 api_name:
 - Access.DoCmd.GoToRecord
 ms.assetid: 5494b6fc-112f-e944-9072-873b00271ab1

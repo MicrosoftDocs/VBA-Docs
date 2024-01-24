@@ -3,7 +3,6 @@ title: Document.DiagramServicesEnabled property (Visio)
 keywords: vis_sdr.chm10562435
 f1_keywords:
 - vis_sdr.chm10562435
-ms.prod: visio
 api_name:
 - Visio.Document.DiagramServicesEnabled
 ms.assetid: 1a492029-31c8-85bb-0843-31c0a1200055

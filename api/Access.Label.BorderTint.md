@@ -3,7 +3,6 @@ title: Label.BorderTint property (Access)
 keywords: vbaac10.chm14602
 f1_keywords:
 - vbaac10.chm14602
-ms.prod: access
 api_name:
 - Access.Label.BorderTint
 ms.assetid: 7d095dcf-b8f9-15c5-36f2-5a20134ab98b

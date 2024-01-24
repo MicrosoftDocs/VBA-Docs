@@ -3,7 +3,6 @@ title: Document.DataRecordsets property (Visio)
 keywords: vis_sdr.chm10560070
 f1_keywords:
 - vis_sdr.chm10560070
-ms.prod: visio
 api_name:
 - Visio.Document.DataRecordsets
 ms.assetid: d15182ba-27e7-ab0e-6ac0-c23515848032

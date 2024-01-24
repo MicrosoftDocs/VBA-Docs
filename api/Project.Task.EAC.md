@@ -3,7 +3,7 @@ title: Task.EAC property (Project)
 keywords: vbapj.chm131784
 f1_keywords:
 - vbapj.chm131784
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.EAC
 ms.assetid: 942bba8d-2be5-31bc-a64a-d4ba07366db0

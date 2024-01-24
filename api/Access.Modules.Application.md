@@ -3,7 +3,6 @@ title: Modules.Application property (Access)
 keywords: vbaac10.chm12290
 f1_keywords:
 - vbaac10.chm12290
-ms.prod: access
 api_name:
 - Access.Modules.Application
 ms.assetid: 24c19f63-09a6-e602-017e-45d804d6a298

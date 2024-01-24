@@ -3,7 +3,6 @@ title: Masters.Document property (Visio)
 keywords: vis_sdr.chm10813430
 f1_keywords:
 - vis_sdr.chm10813430
-ms.prod: visio
 api_name:
 - Visio.Masters.Document
 ms.assetid: 51130b43-b795-eb51-41c2-c7bd60f03766

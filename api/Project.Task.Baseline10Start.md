@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline10Start property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline10Start
 ms.assetid: f11f9b5b-42f1-abf1-8a1c-1e2a7c8b0922

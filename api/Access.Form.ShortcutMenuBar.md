@@ -3,7 +3,6 @@ title: Form.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm13388
 f1_keywords:
 - vbaac10.chm13388
-ms.prod: access
 api_name:
 - Access.Form.ShortcutMenuBar
 ms.assetid: b45a1673-292e-8ae0-8936-7d3f7b052d1f

@@ -3,7 +3,7 @@ title: Series.Values property (Project)
 keywords: vbapj.chm132608
 f1_keywords:
 - vbapj.chm132608
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 23d63c1a-99f1-45d5-b582-9cdaf37572e3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

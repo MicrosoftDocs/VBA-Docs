@@ -3,7 +3,7 @@ title: Project.CanCheckIn property (Project)
 keywords: vbapj.chm132590
 f1_keywords:
 - vbapj.chm132590
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CanCheckIn
 ms.assetid: ce36a90d-f2ad-e37a-eba4-fdb2e391f6be

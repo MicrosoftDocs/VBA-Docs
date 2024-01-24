@@ -1,6 +1,5 @@
 ---
 title: Application.ShapeParentChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.ShapeParentChanged
 ms.assetid: 321f937c-27e0-be80-9d6a-78e4e85629ec

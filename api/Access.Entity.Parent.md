@@ -3,7 +3,6 @@ title: Entity.Parent property (Access)
 keywords: vbaac10.chm14566
 f1_keywords:
 - vbaac10.chm14566
-ms.prod: access
 api_name:
 - Access.Entity.Parent
 ms.assetid: afe74519-f2b7-eb78-7e5d-255fb25e9dee

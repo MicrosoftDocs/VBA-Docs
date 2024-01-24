@@ -1,6 +1,5 @@
 ---
 title: Connection (Visual C++ syntax index with import)
-ms.prod: access
 ms.assetid: 3217a7d7-1c70-89f7-74a4-172371521358
 ms.date: 10/12/2018
 ms.localizationpriority: medium

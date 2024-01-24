@@ -3,7 +3,6 @@ title: Addons.Count property (Visio)
 keywords: vis_sdr.chm12513330
 f1_keywords:
 - vis_sdr.chm12513330
-ms.prod: visio
 api_name:
 - Visio.Addons.Count
 ms.assetid: 06a4d0b5-1ec9-afbc-0be7-b03fe48bd2f9

@@ -1,6 +1,6 @@
 ---
 title: Task.HyperlinkScreenTip property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.HyperlinkScreenTip
 ms.assetid: 71178d98-60ce-63ed-8e67-57b3fdacdad9

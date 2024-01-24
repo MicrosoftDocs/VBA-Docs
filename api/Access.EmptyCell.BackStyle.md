@@ -3,7 +3,6 @@ title: EmptyCell.BackStyle property (Access)
 keywords: vbaac10.chm14311
 f1_keywords:
 - vbaac10.chm14311
-ms.prod: access
 api_name:
 - Access.EmptyCell.BackStyle
 ms.assetid: 8ee86ae2-c554-8825-0faf-b3f5056fba0f

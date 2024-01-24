@@ -3,7 +3,7 @@ title: Application.HelpTechnicalSupport method (Project)
 keywords: vbapj.chm812
 f1_keywords:
 - vbapj.chm812
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.HelpTechnicalSupport
 ms.assetid: bbc15d5b-ef91-3899-3ae2-cce5fbb3d328

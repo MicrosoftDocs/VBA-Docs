@@ -3,7 +3,6 @@ title: Properties.Application property (Access)
 keywords: vbaac10.chm10047
 f1_keywords:
 - vbaac10.chm10047
-ms.prod: access
 api_name:
 - Access.Properties.Application
 ms.assetid: 4522077b-225d-1f89-6689-acc32b43b94a

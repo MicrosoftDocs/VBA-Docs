@@ -3,7 +3,6 @@ title: CustomControl.Locked property (Access)
 keywords: vbaac10.chm12016
 f1_keywords:
 - vbaac10.chm12016
-ms.prod: access
 api_name:
 - Access.CustomControl.Locked
 ms.assetid: e6b42627-6560-2fab-ecb0-e9ff32d3fe4e

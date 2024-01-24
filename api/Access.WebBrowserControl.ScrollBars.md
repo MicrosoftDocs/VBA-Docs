@@ -3,7 +3,6 @@ title: WebBrowserControl.ScrollBars property (Access)
 keywords: vbaac10.chm14364
 f1_keywords:
 - vbaac10.chm14364
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.ScrollBars
 ms.assetid: 7f886ed1-32d1-5f0c-022f-e310046f75e0

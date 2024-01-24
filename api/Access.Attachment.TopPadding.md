@@ -3,7 +3,6 @@ title: Attachment.TopPadding property (Access)
 keywords: vbaac10.chm13989
 f1_keywords:
 - vbaac10.chm13989
-ms.prod: access
 api_name:
 - Access.Attachment.TopPadding
 ms.assetid: 18c89f2e-e276-6c9f-b317-5fa931dd7003

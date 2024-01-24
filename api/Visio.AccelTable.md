@@ -3,7 +3,6 @@ title: AccelTable object (Visio)
 keywords: vis_sdr.chm10020
 f1_keywords:
 - vis_sdr.chm10020
-ms.prod: visio
 api_name:
 - Visio.AccelTable
 ms.assetid: 44957aab-54aa-29b5-886f-374931824909

@@ -1,6 +1,6 @@
 ---
 title: CostRateTable.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CostRateTable.Index
 ms.assetid: 9ee17707-fffe-8e8c-3501-dc6eeedd7870

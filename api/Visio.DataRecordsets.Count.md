@@ -3,7 +3,6 @@ title: DataRecordsets.Count property (Visio)
 keywords: vis_sdr.chm16313330
 f1_keywords:
 - vis_sdr.chm16313330
-ms.prod: visio
 api_name:
 - Visio.DataRecordsets.Count
 ms.assetid: 0908ddb2-2b09-f57e-114a-38d4ed26ff6d

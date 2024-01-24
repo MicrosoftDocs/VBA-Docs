@@ -3,7 +3,6 @@ title: TextBox.ControlType property (Access)
 keywords: vbaac10.chm11042
 f1_keywords:
 - vbaac10.chm11042
-ms.prod: access
 api_name:
 - Access.TextBox.ControlType
 ms.assetid: 4cc842d9-2985-b65e-e259-697cedaa56fc

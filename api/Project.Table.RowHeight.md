@@ -3,7 +3,7 @@ title: Table.RowHeight property (Project)
 keywords: vbapj.chm132696
 f1_keywords:
 - vbapj.chm132696
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Table.RowHeight
 ms.assetid: 923379b4-5c36-cd84-43a0-48f334758855

@@ -1,6 +1,6 @@
 ---
 title: Task.Start3 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Start3
 ms.assetid: 042482f4-f70e-7bf9-f54f-e8b14d64bb98

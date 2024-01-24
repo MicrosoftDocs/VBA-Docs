@@ -3,7 +3,7 @@ title: Project.SetCustomUI method (Project)
 keywords: vbapj.chm131080
 f1_keywords:
 - vbapj.chm131080
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.SetCustomUI
 ms.assetid: d4dd1b08-8f74-1d55-bc53-dc44744415af

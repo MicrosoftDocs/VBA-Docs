@@ -1,6 +1,5 @@
 ---
 title: Application.AfterReplaceShapes event (Visio)
-ms.prod: visio
 ms.assetid: b02de031-086a-41cc-d832-5434b8096444
 ms.date: 06/24/2019
 ms.localizationpriority: medium

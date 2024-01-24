@@ -3,7 +3,6 @@ title: NavigationButton.HyperlinkAddress property (Access)
 keywords: vbaac10.chm10460
 f1_keywords:
 - vbaac10.chm10460
-ms.prod: access
 api_name:
 - Access.NavigationButton.HyperlinkAddress
 ms.assetid: 4696efa1-b42b-eb4b-77eb-f0df10c9d131

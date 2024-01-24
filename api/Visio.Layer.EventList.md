@@ -3,7 +3,6 @@ title: Layer.EventList property (Visio)
 keywords: vis_sdr.chm11813480
 f1_keywords:
 - vis_sdr.chm11813480
-ms.prod: visio
 api_name:
 - Visio.Layer.EventList
 ms.assetid: cab89bdc-011c-3b2b-a372-9bbbce13c8da

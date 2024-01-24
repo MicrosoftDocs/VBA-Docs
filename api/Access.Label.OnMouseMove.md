@@ -3,7 +3,6 @@ title: Label.OnMouseMove property (Access)
 keywords: vbaac10.chm10227
 f1_keywords:
 - vbaac10.chm10227
-ms.prod: access
 api_name:
 - Access.Label.OnMouseMove
 ms.assetid: 31d14519-05c4-687f-af51-8ca198f5c7de

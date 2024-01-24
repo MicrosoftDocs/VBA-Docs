@@ -3,7 +3,6 @@ title: Toolbar.Visible property (Visio)
 keywords: vis_sdr.chm13714650
 f1_keywords:
 - vis_sdr.chm13714650
-ms.prod: visio
 api_name:
 - Visio.Toolbar.Visible
 ms.assetid: f6d0771a-c40f-b11b-1355-50510506b98f

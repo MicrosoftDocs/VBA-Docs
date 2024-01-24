@@ -1,6 +1,6 @@
 ---
 title: Availability.AvailableUnit property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Availability.AvailableUnit
 ms.assetid: a22d2325-e512-08c5-608f-0fadce9d33e5

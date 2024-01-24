@@ -1,6 +1,6 @@
 ---
 title: Assignment.StartVariance property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.StartVariance
 ms.assetid: 080f4dea-76aa-5438-e44a-ab71732b30b1

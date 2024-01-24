@@ -3,7 +3,7 @@ title: ReportTemplates.Count property (Project)
 keywords: vbapj.chm131121
 f1_keywords:
 - vbapj.chm131121
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ReportTemplates.Count
 ms.assetid: fcd124b1-b194-a54c-2910-7d4cd0b87055

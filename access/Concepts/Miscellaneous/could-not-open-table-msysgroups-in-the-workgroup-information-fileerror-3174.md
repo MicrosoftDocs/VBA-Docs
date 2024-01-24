@@ -3,7 +3,6 @@ title: Could not open table 'MSysGroups' in the workgroup information file. (Err
 keywords: jeterr40.chm5003174
 f1_keywords:
 - jeterr40.chm5003174
-ms.prod: access
 ms.assetid: 38d7c1d4-9c61-9d62-df07-a9f59be4703f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

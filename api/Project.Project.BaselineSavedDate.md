@@ -1,6 +1,6 @@
 ---
 title: Project.BaselineSavedDate property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.BaselineSavedDate
 ms.assetid: 780c5190-68bb-1c10-0dbb-612e5606184e

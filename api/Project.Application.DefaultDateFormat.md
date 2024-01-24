@@ -1,6 +1,6 @@
 ---
 title: Application.DefaultDateFormat property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DefaultDateFormat
 ms.assetid: 01f20463-2d23-0e65-ab54-cc23673509da

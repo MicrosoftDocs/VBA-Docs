@@ -1,6 +1,6 @@
 ---
 title: Resource.BCWS property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.BCWS
 ms.assetid: d435545b-4abc-e7cb-08d5-0b6874bbd2e5

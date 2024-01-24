@@ -3,7 +3,6 @@ title: InvisibleApp.Redo method (Visio)
 keywords: vis_sdr.chm17516465
 f1_keywords:
 - vis_sdr.chm17516465
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.Redo
 ms.assetid: a72c916c-cf52-d9f3-b2ee-e0225f4b6940

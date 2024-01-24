@@ -3,7 +3,6 @@ title: InvisibleApp.IsUndoingOrRedoing property (Visio)
 keywords: vis_sdr.chm17513760
 f1_keywords:
 - vis_sdr.chm17513760
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.IsUndoingOrRedoing
 ms.assetid: 2c13c2d7-0c22-c9f2-44e6-bb442acb2ca4

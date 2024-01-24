@@ -1,6 +1,6 @@
 ---
 title: Resource.Guid property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Guid
 ms.assetid: ff5bd208-b6eb-3226-8935-b25e2635a278

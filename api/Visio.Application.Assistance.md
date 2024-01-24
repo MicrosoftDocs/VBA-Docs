@@ -3,7 +3,6 @@ title: Application.Assistance property (Visio)
 keywords: vis_sdr.chm10060060
 f1_keywords:
 - vis_sdr.chm10060060
-ms.prod: visio
 api_name:
 - Visio.Application.Assistance
 ms.assetid: d2ac6782-7b80-8760-b7a1-27503182c85a

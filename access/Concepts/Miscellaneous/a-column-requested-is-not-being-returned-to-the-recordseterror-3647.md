@@ -3,7 +3,6 @@ title: A column requested is not being returned to the Recordset. (Error 3647)
 keywords: jeterr40.chm5003647
 f1_keywords:
 - jeterr40.chm5003647
-ms.prod: access
 ms.assetid: 6575c7ae-f65c-fbc6-96b6-b9365c26f96b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: Comment.AuthorInitials property (Visio)
-ms.prod: visio
 ms.assetid: abc07100-8c5c-9982-674d-40b58c096816
 ms.date: 06/08/2017
 ms.localizationpriority: medium

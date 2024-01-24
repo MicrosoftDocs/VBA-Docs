@@ -3,7 +3,6 @@ title: Attachment.Click event (Access)
 keywords: vbaac10.chm14027
 f1_keywords:
 - vbaac10.chm14027
-ms.prod: access
 api_name:
 - Access.Attachment.Click
 ms.assetid: cdeff1db-5d95-dab5-79ae-d02ac25d5659

@@ -3,7 +3,6 @@ title: Rectangle.Height property (Access)
 keywords: vbaac10.chm10286
 f1_keywords:
 - vbaac10.chm10286
-ms.prod: access
 api_name:
 - Access.Rectangle.Height
 ms.assetid: 1446cfaa-c8ca-8572-ff73-ef2d6a631788

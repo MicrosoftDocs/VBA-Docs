@@ -1,6 +1,6 @@
 ---
 title: Window.Left property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Left
 ms.assetid: 9be4d384-a908-8c92-c5dd-14575b1a3662

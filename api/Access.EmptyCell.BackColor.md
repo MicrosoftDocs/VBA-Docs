@@ -3,7 +3,6 @@ title: EmptyCell.BackColor property (Access)
 keywords: vbaac10.chm14312
 f1_keywords:
 - vbaac10.chm14312
-ms.prod: access
 api_name:
 - Access.EmptyCell.BackColor
 ms.assetid: 412b99b5-5f9d-0f31-a5fe-40439d840b89

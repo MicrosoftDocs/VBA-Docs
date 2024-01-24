@@ -3,7 +3,6 @@ title: ComboBox.Section property (Access)
 keywords: vbaac10.chm11433
 f1_keywords:
 - vbaac10.chm11433
-ms.prod: access
 api_name:
 - Access.ComboBox.Section
 ms.assetid: fbf2993a-5360-10dd-1edd-2ab7ac2f567c

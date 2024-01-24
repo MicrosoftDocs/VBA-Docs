@@ -4,7 +4,6 @@ ROBOTS: INDEX
 keywords: vbaac10.chm5692
 f1_keywords:
 - vbaac10.chm5692
-ms.prod: access
 ms.assetid: 09d23b9f-214b-e45b-f8c2-08af26bec247
 ms.date: 06/08/2017
 ms.localizationpriority: medium

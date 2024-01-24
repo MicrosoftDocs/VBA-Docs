@@ -3,7 +3,6 @@ title: TextBox.OnExit property (Access)
 keywords: vbaac10.chm11119
 f1_keywords:
 - vbaac10.chm11119
-ms.prod: access
 api_name:
 - Access.TextBox.OnExit
 ms.assetid: 2489acdf-4cf5-8b49-e9fe-fc78c07a87f3

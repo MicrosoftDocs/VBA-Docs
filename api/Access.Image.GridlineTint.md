@@ -3,7 +3,6 @@ title: Image.GridlineTint property (Access)
 keywords: vbaac10.chm14636
 f1_keywords:
 - vbaac10.chm14636
-ms.prod: access
 api_name:
 - Access.Image.GridlineTint
 ms.assetid: 40b394db-e64d-f63b-a1a2-e234dc76581b

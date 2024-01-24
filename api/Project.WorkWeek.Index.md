@@ -1,6 +1,6 @@
 ---
 title: WorkWeek.Index property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeek.Index
 ms.assetid: ad73f3b3-64a4-2d17-d0ff-37fc0c098381

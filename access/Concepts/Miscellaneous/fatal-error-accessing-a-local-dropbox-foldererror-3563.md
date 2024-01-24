@@ -1,6 +1,5 @@
 ---
 title: Fatal error accessing a local dropbox folder. (Error 3563)
-ms.prod: access
 ms.assetid: 094a1dac-3014-822a-5849-09d4682d2d18
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Invalid field name <name> in definition of index or relationship. (Error 
 keywords: jeterr40.chm5003409
 f1_keywords:
 - jeterr40.chm5003409
-ms.prod: access
 ms.assetid: 2db13b44-3082-db1e-1544-c01925ee58c1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

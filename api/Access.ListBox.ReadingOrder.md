@@ -3,7 +3,6 @@ title: ListBox.ReadingOrder property (Access)
 keywords: vbaac10.chm11292
 f1_keywords:
 - vbaac10.chm11292
-ms.prod: access
 api_name:
 - Access.ListBox.ReadingOrder
 ms.assetid: 9af8afab-e253-01d4-f79c-01bfa9d8e60b

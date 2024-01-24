@@ -1,6 +1,6 @@
 ---
 title: Application.GlobalViews property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GlobalViews
 ms.assetid: 6f85147a-cc5c-dd8a-c091-68af6c3d5c98

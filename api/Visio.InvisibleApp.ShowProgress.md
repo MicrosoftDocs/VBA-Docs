@@ -3,7 +3,6 @@ title: InvisibleApp.ShowProgress property (Visio)
 keywords: vis_sdr.chm17514370
 f1_keywords:
 - vis_sdr.chm17514370
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.ShowProgress
 ms.assetid: ab756913-7ecc-5565-98dd-c52b5edbee7b

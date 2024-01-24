@@ -3,7 +3,6 @@ title: ComboBox.IMEHold property (Access)
 keywords: vbaac10.chm11390
 f1_keywords:
 - vbaac10.chm11390
-ms.prod: access
 api_name:
 - Access.ComboBox.IMEHold
 ms.assetid: ab128652-1de6-e4a2-4bc5-99936b3fee7f

@@ -3,7 +3,6 @@ title: TextBox.HideDuplicates property (Access)
 keywords: vbaac10.chm11067
 f1_keywords:
 - vbaac10.chm11067
-ms.prod: access
 api_name:
 - Access.TextBox.HideDuplicates
 ms.assetid: a625d232-07d8-23d9-a28a-d01c70aa3a95

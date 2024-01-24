@@ -1,6 +1,6 @@
 ---
 title: Assignment.Baseline2BudgetWork property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Baseline2BudgetWork
 ms.assetid: aeda3d79-e129-78db-c6b9-38a5fdd7a1fc

@@ -3,7 +3,6 @@ title: Windows.Add method (Visio)
 keywords: vis_sdr.chm11716685
 f1_keywords:
 - vis_sdr.chm11716685
-ms.prod: visio
 api_name:
 - Visio.Windows.Add
 ms.assetid: a4180d23-0333-046a-2c23-1a1f1b16240b

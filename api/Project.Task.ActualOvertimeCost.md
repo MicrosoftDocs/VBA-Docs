@@ -1,6 +1,6 @@
 ---
 title: Task.ActualOvertimeCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ActualOvertimeCost
 ms.assetid: 7e3b409e-3249-4fe1-b5a1-1b65646519b3

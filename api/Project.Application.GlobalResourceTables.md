@@ -3,7 +3,7 @@ title: Application.GlobalResourceTables property (Project)
 keywords: vbapj.chm132297
 f1_keywords:
 - vbapj.chm132297
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GlobalResourceTables
 ms.assetid: 8cf96f98-b0d0-2ae8-e472-6f74b62f6411

@@ -3,7 +3,6 @@ title: Shape.SendToBack method (Visio)
 keywords: vis_sdr.chm11216545
 f1_keywords:
 - vis_sdr.chm11216545
-ms.prod: visio
 api_name:
 - Visio.Shape.SendToBack
 ms.assetid: faa9cab5-0b2f-8331-e0df-8b4f4be1e69f

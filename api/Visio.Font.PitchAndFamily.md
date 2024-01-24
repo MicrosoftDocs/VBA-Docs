@@ -3,7 +3,6 @@ title: Font.PitchAndFamily property (Visio)
 keywords: vis_sdr.chm12014085
 f1_keywords:
 - vis_sdr.chm12014085
-ms.prod: visio
 api_name:
 - Visio.Font.PitchAndFamily
 ms.assetid: 1902eb17-9be5-7337-bfdc-7804c66555ad

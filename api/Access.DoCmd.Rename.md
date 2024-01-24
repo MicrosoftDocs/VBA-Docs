@@ -3,7 +3,6 @@ title: DoCmd.Rename method (Access)
 keywords: vbaac10.chm4168
 f1_keywords:
 - vbaac10.chm4168
-ms.prod: access
 api_name:
 - Access.DoCmd.Rename
 ms.assetid: c9286727-a172-b7c5-c8b4-6e63012db98a

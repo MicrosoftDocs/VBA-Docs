@@ -3,7 +3,6 @@ title: Rectangle.Tag property (Access)
 keywords: vbaac10.chm10297
 f1_keywords:
 - vbaac10.chm10297
-ms.prod: access
 api_name:
 - Access.Rectangle.Tag
 ms.assetid: 5d69a71f-0b68-0f2d-d2fc-80de9544bd06

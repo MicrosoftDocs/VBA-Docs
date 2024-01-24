@@ -3,7 +3,6 @@ title: ComboBox.BeforeUpdate event (Access)
 keywords: vbaac10.chm14211
 f1_keywords:
 - vbaac10.chm14211
-ms.prod: access
 api_name:
 - Access.ComboBox.BeforeUpdate
 ms.assetid: 4c4513e2-8596-fc44-a333-ae6ea9dce937

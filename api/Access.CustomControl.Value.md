@@ -3,7 +3,6 @@ title: CustomControl.Value property (Access)
 keywords: vbaac10.chm12005
 f1_keywords:
 - vbaac10.chm12005
-ms.prod: access
 api_name:
 - Access.CustomControl.Value
 ms.assetid: 3661428e-b852-e87d-2758-618c293f4c92

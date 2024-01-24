@@ -3,7 +3,6 @@ title: ImportExportSpecifications object (Access)
 keywords: vbaac10.chm13336
 f1_keywords:
 - vbaac10.chm13336
-ms.prod: access
 api_name:
 - Access.ImportExportSpecifications
 ms.assetid: 9ddb9b30-36f3-5efb-8b15-69762c660338

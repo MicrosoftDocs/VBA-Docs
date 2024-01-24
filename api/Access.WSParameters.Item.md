@@ -3,7 +3,6 @@ title: WSParameters.Item property (Access)
 keywords: vbaac10.chm14579
 f1_keywords:
 - vbaac10.chm14579
-ms.prod: access
 api_name:
 - Access.WSParameters.Item
 ms.assetid: fe40b7f4-58e6-c632-0303-0925ab3a56c2

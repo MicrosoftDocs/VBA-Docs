@@ -3,7 +3,7 @@ title: Task.Active property (Project)
 keywords: vbapj.chm131367
 f1_keywords:
 - vbapj.chm131367
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Active
 ms.assetid: 74ee6808-e9c4-69cc-da3d-ec6802daf410

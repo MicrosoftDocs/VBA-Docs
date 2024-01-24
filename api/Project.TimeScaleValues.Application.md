@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValues.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TimeScaleValues.Application
 ms.assetid: 58c5a8ae-0646-2f47-ad79-687ec8d41d4e

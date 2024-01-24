@@ -3,7 +3,6 @@ title: OptionButton.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm10592
 f1_keywords:
 - vbaac10.chm10592
-ms.prod: access
 api_name:
 - Access.OptionButton.ShortcutMenuBar
 ms.assetid: 735575cf-fccd-5de8-875b-8718b60892dc

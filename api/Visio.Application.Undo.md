@@ -3,7 +3,6 @@ title: Application.Undo method (Visio)
 keywords: vis_sdr.chm10016620
 f1_keywords:
 - vis_sdr.chm10016620
-ms.prod: visio
 api_name:
 - Visio.Application.Undo
 ms.assetid: 728d9af0-c9f2-c3ff-5ed3-a20e8a507a6a

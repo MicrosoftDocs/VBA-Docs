@@ -3,7 +3,6 @@ title: TextBox.ForeColor property (Access)
 keywords: vbaac10.chm11083
 f1_keywords:
 - vbaac10.chm11083
-ms.prod: access
 api_name:
 - Access.TextBox.ForeColor
 ms.assetid: 125bc04a-b747-6397-33ff-31de47004633

@@ -1,6 +1,6 @@
 ---
 title: ShapeRange.MergeShapes method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: c470a800-6010-111b-831d-023e480fca31
 ms.date: 06/08/2017
 ms.localizationpriority: medium

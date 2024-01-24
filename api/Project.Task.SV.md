@@ -1,6 +1,6 @@
 ---
 title: Task.SV property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.SV
 ms.assetid: 306b7f8e-2da6-a898-c3e9-904c843b7046

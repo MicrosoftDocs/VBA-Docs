@@ -3,7 +3,7 @@ title: Image Control (Misc)
 keywords: vbaac10.chm5186617
 f1_keywords:
 - vbaac10.chm5186617
-ms.prod: access
+ms.service: access
 ms.assetid: 1f938a6e-7aea-7787-d959-e21edaa9342c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

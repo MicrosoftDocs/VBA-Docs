@@ -3,7 +3,6 @@ title: Addons object (Visio)
 keywords: vis_sdr.chm10035
 f1_keywords:
 - vis_sdr.chm10035
-ms.prod: visio
 api_name:
 - Visio.Addons
 ms.assetid: c58bd4f5-20f6-6eae-d0d2-2ddb6a5a45e6

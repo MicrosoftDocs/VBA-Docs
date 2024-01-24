@@ -1,6 +1,6 @@
 ---
 title: Application.ShowEstimatedDuration property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ShowEstimatedDuration
 ms.assetid: c32670b7-a2e8-a46b-f91d-88b20749fa46

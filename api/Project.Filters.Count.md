@@ -1,6 +1,6 @@
 ---
 title: Filters.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Filters.Count
 ms.assetid: d081c4e1-47ef-d388-a222-a2bdc958729f

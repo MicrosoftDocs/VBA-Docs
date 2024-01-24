@@ -3,7 +3,6 @@ title: Validation.Document property (Visio)
 keywords: vis_sdr.chm18013430
 f1_keywords:
 - vis_sdr.chm18013430
-ms.prod: visio
 api_name:
 - Visio.Validation.Document
 ms.assetid: 606f61ee-5096-782a-cb46-8314c5d2245e

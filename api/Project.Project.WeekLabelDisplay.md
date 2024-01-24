@@ -3,7 +3,7 @@ title: Project.WeekLabelDisplay property (Project)
 keywords: vbapj.chm132820
 f1_keywords:
 - vbapj.chm132820
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.WeekLabelDisplay
 ms.assetid: d21cd816-06a3-89b0-b56a-9c1b56151209

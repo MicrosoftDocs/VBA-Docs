@@ -3,7 +3,6 @@ title: Menu.CntrlType property (Visio)
 keywords: vis_sdr.chm13113265
 f1_keywords:
 - vis_sdr.chm13113265
-ms.prod: visio
 api_name:
 - Visio.Menu.CntrlType
 ms.assetid: 993b58b9-1bc3-d99c-606c-2c39658819bd

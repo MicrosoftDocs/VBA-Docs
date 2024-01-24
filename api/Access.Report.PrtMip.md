@@ -3,7 +3,6 @@ title: Report.PrtMip property (Access)
 keywords: vbaac10.chm13737
 f1_keywords:
 - vbaac10.chm13737
-ms.prod: access
 api_name:
 - Access.Report.PrtMip
 ms.assetid: f2a3eb10-04d5-c1fc-5ca3-0dc588db18ff

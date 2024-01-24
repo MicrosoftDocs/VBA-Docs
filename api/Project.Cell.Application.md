@@ -1,6 +1,6 @@
 ---
 title: Cell.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Cell.Application
 ms.assetid: c6d238cf-390c-c2b4-dc62-75e597d3f2b8

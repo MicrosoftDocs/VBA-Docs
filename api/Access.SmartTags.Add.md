@@ -3,7 +3,6 @@ title: SmartTags.Add method (Access)
 keywords: vbaac10.chm13286
 f1_keywords:
 - vbaac10.chm13286
-ms.prod: access
 api_name:
 - Access.SmartTags.Add
 ms.assetid: 880e9543-a8f9-ed5f-4cc5-692979774972

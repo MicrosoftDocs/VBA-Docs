@@ -1,6 +1,6 @@
 ---
 title: PjCalendarShading enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCalendarShading
 ms.assetid: 25105c70-bde0-2a54-ae39-c0a256716e34

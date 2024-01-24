@@ -1,6 +1,6 @@
 ---
 title: Resource.Overallocated property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Overallocated
 ms.assetid: 4cb06be7-0140-1bd0-3314-2a6b50d5a51b

@@ -3,7 +3,6 @@ title: ToolbarItems.Count property (Visio)
 keywords: vis_sdr.chm13613330
 f1_keywords:
 - vis_sdr.chm13613330
-ms.prod: visio
 api_name:
 - Visio.ToolbarItems.Count
 ms.assetid: 69e2a514-a54f-2528-9ea0-594a76ac01c3

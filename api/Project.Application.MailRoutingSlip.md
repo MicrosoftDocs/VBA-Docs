@@ -3,7 +3,7 @@ title: Application.MailRoutingSlip method (Project)
 keywords: vbapj.chm125
 f1_keywords:
 - vbapj.chm125
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.MailRoutingSlip
 ms.assetid: 1ac860a4-b3fc-9305-5b9f-bf0f8b4ea6e1

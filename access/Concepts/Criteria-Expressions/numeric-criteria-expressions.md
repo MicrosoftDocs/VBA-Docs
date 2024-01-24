@@ -3,7 +3,6 @@ title: Numeric criteria expressions
 keywords: vbaac10.chm5187729
 f1_keywords:
 - vbaac10.chm5187729
-ms.prod: access
 ms.assetid: ff497f13-7251-9131-459f-9bd2b189816b
 ms.date: 09/21/2018
 ms.localizationpriority: medium

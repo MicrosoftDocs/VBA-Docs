@@ -3,7 +3,6 @@ title: CheckBox.ControlTipText property (Access)
 keywords: vbaac10.chm10720
 f1_keywords:
 - vbaac10.chm10720
-ms.prod: access
 api_name:
 - Access.CheckBox.ControlTipText
 ms.assetid: b37aaf1a-a436-636c-f529-85720810aec0

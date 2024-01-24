@@ -3,7 +3,6 @@ title: Image.SizeMode property (Access)
 keywords: vbaac10.chm10369
 f1_keywords:
 - vbaac10.chm10369
-ms.prod: access
 api_name:
 - Access.Image.SizeMode
 ms.assetid: feaa8002-7d5c-6ce8-dd07-49f6a7330b17

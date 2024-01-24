@@ -3,7 +3,6 @@ title: EventList.AddAdvise method (Visio)
 keywords: vis_sdr.chm12716010
 f1_keywords:
 - vis_sdr.chm12716010
-ms.prod: visio
 api_name:
 - Visio.EventList.AddAdvise
 ms.assetid: b58e086f-59d2-9e63-5df3-3001b58bb2c1

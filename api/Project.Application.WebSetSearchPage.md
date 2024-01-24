@@ -3,7 +3,7 @@ title: Application.WebSetSearchPage method (Project)
 keywords: vbapj.chm1318
 f1_keywords:
 - vbapj.chm1318
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.WebSetSearchPage
 ms.assetid: 57d23181-92ae-2f45-a2c4-20059a085e8b

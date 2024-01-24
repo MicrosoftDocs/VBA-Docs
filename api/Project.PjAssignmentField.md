@@ -1,6 +1,6 @@
 ---
 title: PjAssignmentField enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjAssignmentField
 ms.assetid: 99281262-c41e-b115-0975-da21e3d524c3

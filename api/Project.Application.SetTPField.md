@@ -3,7 +3,7 @@ title: Application.SetTPField method (Project)
 keywords: vbapj.chm1513
 f1_keywords:
 - vbapj.chm1513
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetTPField
 ms.assetid: 66867c0a-e5a7-9492-463b-0cb955f020df

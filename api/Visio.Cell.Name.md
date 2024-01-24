@@ -3,7 +3,6 @@ title: Cell.Name property (Visio)
 keywords: vis_sdr.chm10113930
 f1_keywords:
 - vis_sdr.chm10113930
-ms.prod: visio
 api_name:
 - Visio.Cell.Name
 ms.assetid: 293cfa05-7eb8-98d2-0080-378df17a4408

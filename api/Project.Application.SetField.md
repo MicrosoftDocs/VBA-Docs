@@ -3,7 +3,7 @@ title: Application.SetField method (Project)
 keywords: vbapj.chm3
 f1_keywords:
 - vbapj.chm3
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetField
 ms.assetid: 9f0670a9-b7e3-0bb6-40fc-0dcae63a3c19

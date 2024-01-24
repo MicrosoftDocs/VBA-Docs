@@ -3,7 +3,6 @@ title: SubForm.Parent property (Access)
 keywords: vbaac10.chm11915
 f1_keywords:
 - vbaac10.chm11915
-ms.prod: access
 api_name:
 - Access.SubForm.Parent
 ms.assetid: 6d40d3c3-aea4-782f-157a-a063d60a76f4

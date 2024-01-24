@@ -3,7 +3,6 @@ title: Window.MouseDown event (Visio)
 keywords: vis_sdr.chm11651310
 f1_keywords:
 - vis_sdr.chm11651310
-ms.prod: visio
 api_name:
 - Visio.Window.MouseDown
 ms.assetid: 9bffeab4-9df5-a100-2b30-00ea445e6650

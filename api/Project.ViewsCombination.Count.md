@@ -1,6 +1,6 @@
 ---
 title: ViewsCombination.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewsCombination.Count
 ms.assetid: ccef1e93-e797-0789-484c-8df5db3ce6ae

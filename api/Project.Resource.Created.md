@@ -1,6 +1,6 @@
 ---
 title: Resource.Created property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Created
 ms.assetid: 1a28da71-73d7-4ac8-9099-179a52962a46

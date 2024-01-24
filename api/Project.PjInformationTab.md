@@ -1,6 +1,6 @@
 ---
 title: PjInformationTab enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjInformationTab
 ms.assetid: 6d66b730-d4b7-7718-59d1-6af49465b7d5

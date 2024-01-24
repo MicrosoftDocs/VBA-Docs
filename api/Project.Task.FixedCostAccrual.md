@@ -1,6 +1,6 @@
 ---
 title: Task.FixedCostAccrual property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.FixedCostAccrual
 ms.assetid: 22a76efc-de26-3687-6ffe-674478c48767

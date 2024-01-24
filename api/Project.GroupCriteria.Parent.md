@@ -1,6 +1,6 @@
 ---
 title: GroupCriteria.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriteria.Parent
 ms.assetid: ffd2aca5-2244-6138-6168-c0d115ab9adf

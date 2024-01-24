@@ -3,7 +3,7 @@ title: Task.TCPI property (Project)
 keywords: vbapj.chm132678
 f1_keywords:
 - vbapj.chm132678
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.TCPI
 ms.assetid: 378d13d2-8fc4-3166-316b-a3e347e2e206

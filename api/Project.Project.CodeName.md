@@ -1,6 +1,6 @@
 ---
 title: Project.CodeName property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.CodeName
 ms.assetid: 78c63fe2-30ad-bee7-1901-2fa0e293c7b4

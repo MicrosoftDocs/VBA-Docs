@@ -3,7 +3,6 @@ title: Form.GridY property (Access)
 keywords: vbaac10.chm13390
 f1_keywords:
 - vbaac10.chm13390
-ms.prod: access
 api_name:
 - Access.Form.GridY
 ms.assetid: d767e7de-e3eb-0523-8782-26770f22a013

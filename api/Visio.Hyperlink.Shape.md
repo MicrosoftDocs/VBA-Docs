@@ -3,7 +3,6 @@ title: Hyperlink.Shape property (Visio)
 keywords: vis_sdr.chm15014320
 f1_keywords:
 - vis_sdr.chm15014320
-ms.prod: visio
 api_name:
 - Visio.Hyperlink.Shape
 ms.assetid: 554b5282-d7dd-1aca-c579-ab11daf42837

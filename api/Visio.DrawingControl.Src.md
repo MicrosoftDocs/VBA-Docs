@@ -3,7 +3,6 @@ title: DrawingControl.Src property (Visio)
 keywords: vis_sdr.chm51015
 f1_keywords:
 - vis_sdr.chm51015
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.Src
 ms.assetid: 396fd4cc-c408-4fa5-7089-e5658593cae5

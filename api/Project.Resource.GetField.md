@@ -1,6 +1,6 @@
 ---
 title: Resource.GetField method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.GetField
 ms.assetid: 36fbbc13-272e-72f4-ebbe-2c13f67abbe7

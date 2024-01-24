@@ -3,7 +3,7 @@ title: TableField.Width property (Project)
 keywords: vbapj.chm132690
 f1_keywords:
 - vbapj.chm132690
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TableField.Width
 ms.assetid: ff691a5d-9d39-3ba2-f277-bebd56272a94

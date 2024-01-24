@@ -3,7 +3,6 @@ title: NavigationControl.OnMouseUp property (Access)
 keywords: vbaac10.chm11126
 f1_keywords:
 - vbaac10.chm11126
-ms.prod: access
 api_name:
 - Access.NavigationControl.OnMouseUp
 ms.assetid: fc251872-bc0b-d3a3-1426-fdb121b24145

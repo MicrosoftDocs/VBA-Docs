@@ -1,6 +1,6 @@
 ---
 title: Task.StartSlack property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.StartSlack
 ms.assetid: 0a777363-9535-31b3-c24b-729a53b83190

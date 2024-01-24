@@ -3,7 +3,6 @@ title: AcPrintRange enumeration (Access)
 keywords: vbaac10.chm10024
 f1_keywords:
 - vbaac10.chm10024
-ms.prod: access
 api_name:
 - Access.AcPrintRange
 ms.assetid: 78d5a3d5-a94d-fb8c-45dd-5ba757576194

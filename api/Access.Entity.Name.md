@@ -3,7 +3,6 @@ title: Entity.Name property (Access)
 keywords: vbaac10.chm14567
 f1_keywords:
 - vbaac10.chm14567
-ms.prod: access
 api_name:
 - Access.Entity.Name
 ms.assetid: a72be228-43e2-d275-5b17-c9831f763ff7

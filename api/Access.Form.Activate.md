@@ -3,7 +3,6 @@ title: Form.Activate event (Access)
 keywords: vbaac10.chm13646
 f1_keywords:
 - vbaac10.chm13646
-ms.prod: access
 api_name:
 - Access.Form.Activate
 ms.assetid: 1409c52b-8a77-0e0d-1a26-7dc4ce8bb320

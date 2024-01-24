@@ -3,7 +3,6 @@ title: Form.RecordSource property (Access)
 keywords: vbaac10.chm13345
 f1_keywords:
 - vbaac10.chm13345
-ms.prod: access
 api_name:
 - Access.Form.RecordSource
 ms.assetid: a473695a-7645-744d-bf69-760e1f2b9fb1

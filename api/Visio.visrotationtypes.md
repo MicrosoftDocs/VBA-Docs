@@ -3,7 +3,6 @@ title: VisRotationTypes enumeration (Visio)
 keywords: vis_sdr.chm70380
 f1_keywords:
 - vis_sdr.chm70380
-ms.prod: visio
 ms.assetid: 03131f93-7f04-1255-85b5-b22c76587e1f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

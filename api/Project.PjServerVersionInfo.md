@@ -1,6 +1,6 @@
 ---
 title: PjServerVersionInfo enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjServerVersionInfo
 ms.assetid: 15c0e139-c56b-9fd4-1398-6bbe6f05b6ea

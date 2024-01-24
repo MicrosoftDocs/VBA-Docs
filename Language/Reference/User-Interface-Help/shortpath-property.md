@@ -24,7 +24,7 @@ The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.
 
 ## Remarks
 
-The following code illustrates the use of the **ShortName** property with a **File** object.
+The following code illustrates the use of the **ShortPath** property with a **File** object.
 
 ```vb
 Sub ShowShortPath(filespec)

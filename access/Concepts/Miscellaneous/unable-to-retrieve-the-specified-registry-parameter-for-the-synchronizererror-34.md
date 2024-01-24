@@ -3,7 +3,6 @@ title: Unable to retrieve the specified Registry parameter for the Synchronizer.
 keywords: jeterr40.chm5003494
 f1_keywords:
 - jeterr40.chm5003494
-ms.prod: access
 ms.assetid: defe40ff-f138-b4ea-ac97-f23fd3955cef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

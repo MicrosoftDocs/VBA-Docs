@@ -1,6 +1,6 @@
 ---
 title: Period.Calendar property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Period.Calendar
 ms.assetid: 906ad2e8-e057-9a69-0184-06f298858b8a

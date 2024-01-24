@@ -3,7 +3,6 @@ title: Master.ExportIcon method (Visio)
 keywords: vis_sdr.chm10716270
 f1_keywords:
 - vis_sdr.chm10716270
-ms.prod: visio
 api_name:
 - Visio.Master.ExportIcon
 ms.assetid: 8b13f92f-537a-1efb-b2b0-531a8054e89b

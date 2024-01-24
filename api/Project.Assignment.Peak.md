@@ -1,6 +1,6 @@
 ---
 title: Assignment.Peak property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Peak
 ms.assetid: 52b5d301-6034-b207-c5ae-dfadb56ecd73

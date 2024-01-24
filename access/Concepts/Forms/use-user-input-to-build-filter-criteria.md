@@ -1,6 +1,5 @@
 ---
 title: Use user input to build filter criteria
-ms.prod: access
 ms.assetid: 0ce3417e-3527-ded4-0940-691c5c81352c
 ms.date: 09/25/2018
 ms.localizationpriority: medium

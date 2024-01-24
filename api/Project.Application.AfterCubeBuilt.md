@@ -1,6 +1,6 @@
 ---
 title: Application.AfterCubeBuilt event (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AfterCubeBuilt
 ms.assetid: f57a3391-dbbe-42eb-cf99-205b754c7cc1

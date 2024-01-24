@@ -1,6 +1,6 @@
 ---
 title: Resource.OutlineCode9 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.OutlineCode9
 ms.assetid: 4474c02e-5d7d-6dc9-1716-8df77af54e0c

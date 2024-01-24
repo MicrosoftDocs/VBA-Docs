@@ -1,6 +1,6 @@
 ---
 title: WorkWeek.Finish property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeek.Finish
 ms.assetid: d66fac85-0644-4f7d-445f-c4712aee6dbe

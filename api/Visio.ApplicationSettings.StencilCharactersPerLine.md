@@ -3,7 +3,6 @@ title: ApplicationSettings.StencilCharactersPerLine property (Visio)
 keywords: vis_sdr.chm16251525
 f1_keywords:
 - vis_sdr.chm16251525
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.StencilCharactersPerLine
 ms.assetid: e69c1c58-6383-f614-fcd4-d32505f53206

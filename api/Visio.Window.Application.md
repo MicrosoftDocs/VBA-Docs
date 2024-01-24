@@ -3,7 +3,6 @@ title: Window.Application property (Visio)
 keywords: vis_sdr.chm11613090
 f1_keywords:
 - vis_sdr.chm11613090
-ms.prod: visio
 api_name:
 - Visio.Window.Application
 ms.assetid: 2cde63bb-7e4b-c4e7-5be4-ba55d31c5545

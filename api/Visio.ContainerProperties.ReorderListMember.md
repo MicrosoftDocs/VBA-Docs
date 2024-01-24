@@ -3,7 +3,6 @@ title: ContainerProperties.ReorderListMember method (Visio)
 keywords: vis_sdr.chm17662340
 f1_keywords:
 - vis_sdr.chm17662340
-ms.prod: visio
 api_name:
 - Visio.ContainerProperties.ReorderListMember
 ms.assetid: 6bcb8928-750d-bea6-bee8-1a4f18cfd08e

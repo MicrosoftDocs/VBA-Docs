@@ -1,6 +1,5 @@
 ---
 title: Viewer.ShapeName property (Visio Viewer)
-ms.prod: visio
 api_name:
 - Visio.Viewer.ShapeName
 ms.assetid: cde3d4f0-5e45-1236-1d6d-227b93cdaa64

@@ -3,7 +3,7 @@ title: Application.FontUnderLine method (Project)
 keywords: vbapj.chm2324
 f1_keywords:
 - vbapj.chm2324
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FontUnderLine
 ms.assetid: a093b42b-6b4a-b775-ad81-f85cb940ab88

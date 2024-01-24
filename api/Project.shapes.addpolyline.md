@@ -1,6 +1,6 @@
 ---
 title: Shapes.AddPolyline method (Project)
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: c61cbaf3-b687-b137-e4a2-8f9061dfc0f0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: Application.Width property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Width
 ms.assetid: ee52fc37-ff4e-5e86-77ac-7d60b65397ef

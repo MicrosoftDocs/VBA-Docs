@@ -3,7 +3,6 @@ title: WebBrowserControl.Undo method (Access)
 keywords: vbaac10.chm14349
 f1_keywords:
 - vbaac10.chm14349
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Undo
 ms.assetid: 9a239dd8-7e5f-f1b3-4c06-9a8430e9f381

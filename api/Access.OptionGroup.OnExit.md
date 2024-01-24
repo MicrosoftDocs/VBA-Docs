@@ -3,7 +3,6 @@ title: OptionGroup.OnExit property (Access)
 keywords: vbaac10.chm10865
 f1_keywords:
 - vbaac10.chm10865
-ms.prod: access
 api_name:
 - Access.OptionGroup.OnExit
 ms.assetid: 48a64bc3-df50-6fd7-8784-1413a5bb88ac

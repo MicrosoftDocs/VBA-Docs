@@ -3,7 +3,6 @@ title: SubForm.SizeToFit method (Access)
 keywords: vbaac10.chm11919
 f1_keywords:
 - vbaac10.chm11919
-ms.prod: access
 api_name:
 - Access.SubForm.SizeToFit
 ms.assetid: 86f00466-3457-ded7-bfca-a4cb587f10a5

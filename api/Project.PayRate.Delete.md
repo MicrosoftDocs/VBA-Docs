@@ -1,6 +1,6 @@
 ---
 title: PayRate.Delete method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PayRate.Delete
 ms.assetid: fa9184ec-59ea-aa74-7d25-51ffd0ce5471

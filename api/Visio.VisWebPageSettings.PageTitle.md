@@ -1,6 +1,5 @@
 ---
 title: VisWebPageSettings.PageTitle property (Visio Save As Web)
-ms.prod: visio
 api_name:
 - Visio.VisWebPageSettings.PageTitle
 ms.assetid: 418ee175-bca5-0d3b-6460-091e9b8dd199

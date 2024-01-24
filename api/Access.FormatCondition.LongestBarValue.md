@@ -3,7 +3,6 @@ title: FormatCondition.LongestBarValue property (Access)
 keywords: vbaac10.chm14533
 f1_keywords:
 - vbaac10.chm14533
-ms.prod: access
 api_name:
 - Access.FormatCondition.LongestBarValue
 ms.assetid: bff378d6-138a-31bf-4587-d0f4ce827240

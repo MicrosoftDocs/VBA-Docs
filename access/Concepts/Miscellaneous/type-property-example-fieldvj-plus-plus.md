@@ -1,7 +1,6 @@
 ---
 title: Type property example (Field) (VJ++)
 ROBOTS: INDEX
-ms.prod: access
 ms.assetid: ee010723-d429-e190-e8e2-b1d8c2cfcb3a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

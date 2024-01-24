@@ -3,7 +3,6 @@ title: OLEObject.ClassID property (Visio)
 keywords: vis_sdr.chm15213240
 f1_keywords:
 - vis_sdr.chm15213240
-ms.prod: visio
 api_name:
 - Visio.OLEObject.ClassID
 ms.assetid: 9241135d-6c02-046b-02b4-f8d4b308878d

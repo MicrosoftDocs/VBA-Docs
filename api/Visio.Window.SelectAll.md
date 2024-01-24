@@ -3,7 +3,6 @@ title: Window.SelectAll method (Visio)
 keywords: vis_sdr.chm11616535
 f1_keywords:
 - vis_sdr.chm11616535
-ms.prod: visio
 api_name:
 - Visio.Window.SelectAll
 ms.assetid: 81c32217-3336-3017-ecdc-cfa0f6048fc2

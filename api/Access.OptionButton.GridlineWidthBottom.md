@@ -3,7 +3,6 @@ title: OptionButton.GridlineWidthBottom property (Access)
 keywords: vbaac10.chm10652
 f1_keywords:
 - vbaac10.chm10652
-ms.prod: access
 api_name:
 - Access.OptionButton.GridlineWidthBottom
 ms.assetid: b0a50d2f-25b2-22a9-4cf2-219348ec8daa

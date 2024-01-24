@@ -3,7 +3,6 @@ title: TabControl.ControlType property (Access)
 keywords: vbaac10.chm12074
 f1_keywords:
 - vbaac10.chm12074
-ms.prod: access
 api_name:
 - Access.TabControl.ControlType
 ms.assetid: dc4afea4-aa64-ef37-a930-4ecdf5f4ae3a

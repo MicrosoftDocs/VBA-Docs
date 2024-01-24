@@ -3,7 +3,6 @@ title: OptionButton.BorderWidth property (Access)
 keywords: vbaac10.chm10589
 f1_keywords:
 - vbaac10.chm10589
-ms.prod: access
 api_name:
 - Access.OptionButton.BorderWidth
 ms.assetid: cd4a5e9d-6444-7cac-aa04-c62b42887a16

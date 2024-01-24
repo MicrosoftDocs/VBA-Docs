@@ -3,7 +3,6 @@ title: EdgeBrowserControl.Navigate method (Access)
 keywords: vbaac10.chm6168
 f1_keywords:
 - vbaac10.chm6168
-ms.prod: access
 api_name:
 - Access.EdgeBrowserControl.Navigate
 ms.assetid: 15be4097-14b3-4716-a9b2-722f76909b99

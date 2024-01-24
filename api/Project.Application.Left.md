@@ -1,6 +1,6 @@
 ---
 title: Application.Left property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Left
 ms.assetid: 5a1b51ca-1621-798d-7bbe-75b565d694fe

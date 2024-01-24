@@ -1,6 +1,6 @@
 ---
 title: Exceptions.Count property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exceptions.Count
 ms.assetid: 33103731-ed2b-48b7-2952-522c366abc0c

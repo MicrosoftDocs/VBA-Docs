@@ -3,7 +3,6 @@ title: AcExportXMLObjectType enumeration (Access)
 keywords: vbaac10.chm13239
 f1_keywords:
 - vbaac10.chm13239
-ms.prod: access
 api_name:
 - Access.AcExportXMLObjectType
 ms.assetid: f84c49ca-bb99-705c-97ac-47f847fe060a

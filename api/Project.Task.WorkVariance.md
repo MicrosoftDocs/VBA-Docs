@@ -1,6 +1,6 @@
 ---
 title: Task.WorkVariance property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.WorkVariance
 ms.assetid: 93e1222d-3df6-4a45-d908-339320106449

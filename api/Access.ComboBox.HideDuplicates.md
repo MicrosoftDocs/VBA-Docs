@@ -3,7 +3,6 @@ title: ComboBox.HideDuplicates property (Access)
 keywords: vbaac10.chm11400
 f1_keywords:
 - vbaac10.chm11400
-ms.prod: access
 api_name:
 - Access.ComboBox.HideDuplicates
 ms.assetid: 79b64a87-d98e-76a1-e3c7-57796cb1c173

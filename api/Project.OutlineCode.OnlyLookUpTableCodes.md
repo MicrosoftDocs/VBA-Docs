@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.OnlyLookUpTableCodes property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.OutlineCode.OnlyLookUpTableCodes
 ms.assetid: 172aeac5-98ed-9599-e9d3-cc0afde6b940

@@ -1,6 +1,6 @@
 ---
 title: ChildDrivers.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ChildDrivers.Item
 ms.assetid: dd79c6c2-feef-a1fe-c91f-9b354832150c

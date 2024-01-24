@@ -1,6 +1,6 @@
 ---
 title: Task.OutlineIndent method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.OutlineIndent
 ms.assetid: 84a1a3c4-8511-03d2-df2a-ebdc8defabe9

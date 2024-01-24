@@ -3,7 +3,7 @@ title: Application.AutoSaveToGlobal method (Project)
 keywords: vbapj.chm1500
 f1_keywords:
 - vbapj.chm1500
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.AutoSaveToGlobal
 ms.assetid: 8b8d0169-a1c1-8771-bc90-503a17e00b26

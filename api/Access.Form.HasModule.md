@@ -3,7 +3,6 @@ title: Form.HasModule property (Access)
 keywords: vbaac10.chm13478
 f1_keywords:
 - vbaac10.chm13478
-ms.prod: access
 api_name:
 - Access.Form.HasModule
 ms.assetid: ba43a8c8-89f2-e744-ed99-082510dc8f3a

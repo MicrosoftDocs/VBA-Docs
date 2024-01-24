@@ -3,7 +3,7 @@ title: Resource.EnterpriseNameUsed property (Project)
 keywords: vbapj.chm131899
 f1_keywords:
 - vbapj.chm131899
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseNameUsed
 ms.assetid: 635e8f91-248c-86cf-30b9-b4f385d5042f

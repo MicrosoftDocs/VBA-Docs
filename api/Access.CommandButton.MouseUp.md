@@ -3,7 +3,6 @@ title: CommandButton.MouseUp event (Access)
 keywords: vbaac10.chm14085
 f1_keywords:
 - vbaac10.chm14085
-ms.prod: access
 api_name:
 - Access.CommandButton.MouseUp
 ms.assetid: 92cbef4e-deee-1c5f-ec0e-10bc5e6ebd5b

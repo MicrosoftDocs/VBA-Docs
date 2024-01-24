@@ -3,7 +3,6 @@ title: CheckBox.SizeToFit method (Access)
 keywords: vbaac10.chm10687
 f1_keywords:
 - vbaac10.chm10687
-ms.prod: access
 api_name:
 - Access.CheckBox.SizeToFit
 ms.assetid: 79309619-c2f7-d43a-5f92-ef2c4d1af208

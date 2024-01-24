@@ -3,7 +3,6 @@ title: Characters.PersistsEvents property (Visio)
 keywords: vis_sdr.chm10214080
 f1_keywords:
 - vis_sdr.chm10214080
-ms.prod: visio
 api_name:
 - Visio.Characters.PersistsEvents
 ms.assetid: 3cff9c46-6558-322e-8040-7b24218d94a3

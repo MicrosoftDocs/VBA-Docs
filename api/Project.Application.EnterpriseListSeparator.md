@@ -3,7 +3,7 @@ title: Application.EnterpriseListSeparator property (Project)
 keywords: vbapj.chm131809
 f1_keywords:
 - vbapj.chm131809
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EnterpriseListSeparator
 ms.assetid: 973201dd-0c1c-88d5-052a-94028584f6d5

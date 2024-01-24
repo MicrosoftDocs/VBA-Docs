@@ -3,7 +3,6 @@ title: WebBrowserControl.DblClick event (Access)
 keywords: vbaac10.chm143133
 f1_keywords:
 - vbaac10.chm143133
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.DblClick
 ms.assetid: e22f8c94-0208-b463-635d-f28c5f20e9fa

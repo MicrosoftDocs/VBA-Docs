@@ -3,7 +3,7 @@ title: Project.GetWinprojURLs method (Project)
 keywords: vbapj.chm131098
 f1_keywords:
 - vbapj.chm131098
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.GetWinprojURLs
 ms.assetid: 4ea8b044-9397-d17f-b057-d39105d83cf8

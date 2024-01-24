@@ -3,7 +3,6 @@ title: Masters.Drop method (Visio)
 keywords: vis_sdr.chm10816235
 f1_keywords:
 - vis_sdr.chm10816235
-ms.prod: visio
 api_name:
 - Visio.Masters.Drop
 ms.assetid: aff32258-755c-cce3-5f46-e611de6c8f5a

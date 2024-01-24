@@ -3,7 +3,7 @@ title: Application.ReminderSet method (Project)
 keywords: vbapj.chm2383
 f1_keywords:
 - vbapj.chm2383
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.ReminderSet
 ms.assetid: 5e9305ad-ae42-14e9-8e20-f3068d994200

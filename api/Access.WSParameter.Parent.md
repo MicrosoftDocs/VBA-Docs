@@ -3,7 +3,6 @@ title: WSParameter.Parent property (Access)
 keywords: vbaac10.chm14583
 f1_keywords:
 - vbaac10.chm14583
-ms.prod: access
 api_name:
 - Access.WSParameter.Parent
 ms.assetid: cca02c62-a749-3eb3-3e24-6812be24892a

@@ -3,7 +3,6 @@ title: Line.SpecialEffect property (Access)
 keywords: vbaac10.chm10336
 f1_keywords:
 - vbaac10.chm10336
-ms.prod: access
 api_name:
 - Access.Line.SpecialEffect
 ms.assetid: 42d493be-128b-fe5e-6d96-d963ee3870cf

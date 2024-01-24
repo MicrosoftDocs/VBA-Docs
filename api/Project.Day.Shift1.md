@@ -1,6 +1,6 @@
 ---
 title: Day.Shift1 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Day.Shift1
 ms.assetid: f57a5d81-85a6-0464-943a-0556b9521755

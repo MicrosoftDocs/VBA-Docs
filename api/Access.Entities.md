@@ -3,7 +3,6 @@ title: Entities object (Access)
 keywords: vbaac10.chm14560
 f1_keywords:
 - vbaac10.chm14560
-ms.prod: access
 api_name:
 - Access.Entities
 ms.assetid: 8d91418d-ab38-77b1-e767-250b0eb57cb1

@@ -3,7 +3,6 @@ title: ToggleButton.RightPadding property (Access)
 keywords: vbaac10.chm11782
 f1_keywords:
 - vbaac10.chm11782
-ms.prod: access
 api_name:
 - Access.ToggleButton.RightPadding
 ms.assetid: 36e38e77-104a-0cac-9c89-1bd0958ad55a

@@ -3,7 +3,6 @@ title: MenuItem.BuiltIn property (Visio)
 keywords: vis_sdr.chm12913155
 f1_keywords:
 - vis_sdr.chm12913155
-ms.prod: visio
 api_name:
 - Visio.MenuItem.BuiltIn
 ms.assetid: c25e122d-172e-36f3-d22f-68ebaa038644

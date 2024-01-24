@@ -1,6 +1,6 @@
 ---
 title: CalendarDrivers.TotalDetectedCount property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.CalendarDrivers.TotalDetectedCount
 ms.assetid: 4795fd3b-ed28-651a-ac86-abe055489832

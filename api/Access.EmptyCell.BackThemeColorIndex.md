@@ -3,7 +3,6 @@ title: EmptyCell.BackThemeColorIndex property (Access)
 keywords: vbaac10.chm14631
 f1_keywords:
 - vbaac10.chm14631
-ms.prod: access
 api_name:
 - Access.EmptyCell.BackThemeColorIndex
 ms.assetid: 066e08aa-7f83-fb6f-195c-a212355b7b1d

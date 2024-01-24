@@ -1,6 +1,5 @@
 ---
 title: Set options from Visual Basic
-ms.prod: access
 ms.assetid: c85ab081-6522-f851-a0d7-3d6612af26ab
 ms.date: 09/26/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: AllDatabaseDiagrams.Parent property (Access)
 keywords: vbaac10.chm12679
 f1_keywords:
 - vbaac10.chm12679
-ms.prod: access
 api_name:
 - Access.AllDatabaseDiagrams.Parent
 ms.assetid: 51b83a15-7da5-a6dd-ec04-28b00f368ea0

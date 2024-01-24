@@ -1,6 +1,6 @@
 ---
 title: Task.ID property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.ID
 ms.assetid: ce9b7773-77ae-c2ab-be11-08c20b57813e

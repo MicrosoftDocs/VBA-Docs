@@ -3,7 +3,6 @@ title: Window.SubType property (Visio)
 keywords: vis_sdr.chm11614470
 f1_keywords:
 - vis_sdr.chm11614470
-ms.prod: visio
 api_name:
 - Visio.Window.SubType
 ms.assetid: 3e20338f-a63b-462c-731f-4790042b76cb

@@ -3,7 +3,6 @@ title: TextBox.LeftPadding property (Access)
 keywords: vbaac10.chm11152
 f1_keywords:
 - vbaac10.chm11152
-ms.prod: access
 api_name:
 - Access.TextBox.LeftPadding
 ms.assetid: 0ceae1bc-f075-2e5f-48bf-7f749bae0630

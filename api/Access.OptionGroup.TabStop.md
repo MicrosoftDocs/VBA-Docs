@@ -3,7 +3,6 @@ title: OptionGroup.TabStop property (Access)
 keywords: vbaac10.chm10831
 f1_keywords:
 - vbaac10.chm10831
-ms.prod: access
 api_name:
 - Access.OptionGroup.TabStop
 ms.assetid: cce6547b-9e55-2216-9f00-ba9147849e21

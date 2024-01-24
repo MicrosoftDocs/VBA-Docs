@@ -3,7 +3,7 @@ title: Project.VersionName property (Project)
 keywords: vbapj.chm132790
 f1_keywords:
 - vbapj.chm132790
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.VersionName
 ms.assetid: a1ad4584-39df-6897-c08d-d6cb94ee3cf4

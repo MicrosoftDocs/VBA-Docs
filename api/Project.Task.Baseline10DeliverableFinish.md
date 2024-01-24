@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline10DeliverableFinish property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline10DeliverableFinish
 ms.assetid: 8a17356e-0c83-74bb-b41d-cc9c4188f491

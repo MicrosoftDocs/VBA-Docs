@@ -3,7 +3,7 @@ title: Application.UpdateProject method (Project)
 keywords: vbapj.chm611
 f1_keywords:
 - vbapj.chm611
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.UpdateProject
 ms.assetid: a6f80334-7faf-ca95-b5ed-0a9fba516169

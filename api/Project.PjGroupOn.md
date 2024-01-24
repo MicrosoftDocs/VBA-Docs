@@ -1,6 +1,6 @@
 ---
 title: PjGroupOn enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjGroupOn
 ms.assetid: 72b06ac4-6028-2845-7bac-d4cde3c79c33

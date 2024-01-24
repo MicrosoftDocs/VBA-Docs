@@ -3,7 +3,7 @@ title: Application.SetMatchingField method (Project)
 keywords: vbapj.chm11
 f1_keywords:
 - vbapj.chm11
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.SetMatchingField
 ms.assetid: fcd57c26-6463-8821-481f-0c38d072118a

@@ -1,6 +1,6 @@
 ---
 title: Resource.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Name
 ms.assetid: d9c03e1b-194c-b9b0-53f7-efeabb297c7d

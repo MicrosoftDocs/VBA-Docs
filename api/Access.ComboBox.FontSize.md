@@ -3,7 +3,6 @@ title: ComboBox.FontSize property (Access)
 keywords: vbaac10.chm11415
 f1_keywords:
 - vbaac10.chm11415
-ms.prod: access
 api_name:
 - Access.ComboBox.FontSize
 ms.assetid: 6dcd4b7e-01ec-a44d-4ceb-eecaa02ed1d7

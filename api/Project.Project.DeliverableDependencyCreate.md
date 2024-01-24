@@ -1,6 +1,6 @@
 ---
 title: Project.DeliverableDependencyCreate method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DeliverableDependencyCreate
 ms.assetid: 31ce58fe-3a6a-6151-ebce-b2458728f384

@@ -3,7 +3,7 @@ title: Application.Groups method (Project)
 keywords: vbapj.chm511
 f1_keywords:
 - vbapj.chm511
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.Groups
 ms.assetid: 28a1a91f-16e8-16de-9d8b-baee6d67c840

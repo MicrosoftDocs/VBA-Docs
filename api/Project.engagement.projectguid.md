@@ -2,7 +2,7 @@
 title: Engagement.ProjectGuid property (Project)
 ms.assetid: 93dfc0f4-06ad-7c4b-de6b-e224a5151689
 ms.date: 06/08/2017
-ms.prod: project-server
+ms.service: project-server
 ms.localizationpriority: medium
 ---
 

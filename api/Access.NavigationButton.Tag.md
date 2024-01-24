@@ -3,7 +3,6 @@ title: NavigationButton.Tag property (Access)
 keywords: vbaac10.chm10489
 f1_keywords:
 - vbaac10.chm10489
-ms.prod: access
 api_name:
 - Access.NavigationButton.Tag
 ms.assetid: bd477752-2259-190d-cd3a-6c803ebb81ba

@@ -3,7 +3,7 @@ title: Assignment.WorkContour property (Project)
 keywords: vbapj.chm132828
 f1_keywords:
 - vbapj.chm132828
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.WorkContour
 ms.assetid: a47a3012-7e5e-febb-d023-368c7c01e065

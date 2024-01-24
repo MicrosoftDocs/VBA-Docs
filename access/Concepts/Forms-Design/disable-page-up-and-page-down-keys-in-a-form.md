@@ -1,6 +1,5 @@
 ---
 title: Disable PAGE UP and PAGE DOWN keys in a form
-ms.prod: access
 ms.assetid: 998e1d00-f9d3-fcca-4535-390b0fd0d482
 ms.date: 09/25/2018
 ms.localizationpriority: medium

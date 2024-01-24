@@ -3,7 +3,6 @@ title: ComboBox.ListCount property (Access)
 keywords: vbaac10.chm11443
 f1_keywords:
 - vbaac10.chm11443
-ms.prod: access
 api_name:
 - Access.ComboBox.ListCount
 ms.assetid: 5363c040-1845-6e5c-7306-e48f392f0da9

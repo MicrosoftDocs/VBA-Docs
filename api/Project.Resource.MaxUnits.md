@@ -1,6 +1,6 @@
 ---
 title: Resource.MaxUnits property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.MaxUnits
 ms.assetid: 1c698f41-9bd2-8673-af5c-6dce48a75511

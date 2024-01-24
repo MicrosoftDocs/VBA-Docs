@@ -1,6 +1,6 @@
 ---
 title: OutlineCode.OnlyLeaves property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.OutlineCode.OnlyLeaves
 ms.assetid: cc477127-c784-fdea-53b1-7399d18d6b8b

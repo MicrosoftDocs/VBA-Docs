@@ -3,7 +3,6 @@ title: TextBox.ScrollBarAlign property (Access)
 keywords: vbaac10.chm11133
 f1_keywords:
 - vbaac10.chm11133
-ms.prod: access
 api_name:
 - Access.TextBox.ScrollBarAlign
 ms.assetid: 5a8a77df-571a-7294-8be8-0ff2c4546131

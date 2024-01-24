@@ -3,7 +3,6 @@ title: NavigationButton.OnExit property (Access)
 keywords: vbaac10.chm10494
 f1_keywords:
 - vbaac10.chm10494
-ms.prod: access
 api_name:
 - Access.NavigationButton.OnExit
 ms.assetid: f452b2c7-4d4e-2df4-da47-30d64b6e5e71

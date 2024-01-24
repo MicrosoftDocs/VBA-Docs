@@ -3,7 +3,6 @@ title: AllTables.Application property (Access)
 keywords: vbaac10.chm12678
 f1_keywords:
 - vbaac10.chm12678
-ms.prod: access
 api_name:
 - Access.AllTables.Application
 ms.assetid: 2c5c5433-abca-1c36-af82-3b5dbf12c793

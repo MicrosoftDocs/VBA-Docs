@@ -3,7 +3,6 @@ title: Window.ZoomLock property (Visio)
 keywords: vis_sdr.chm11651460
 f1_keywords:
 - vis_sdr.chm11651460
-ms.prod: visio
 api_name:
 - Visio.Window.ZoomLock
 ms.assetid: 9f962982-27e0-a427-de5f-ed4d3ee04e73

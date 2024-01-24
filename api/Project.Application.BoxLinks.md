@@ -3,7 +3,7 @@ title: Application.BoxLinks method (Project)
 keywords: vbapj.chm44
 f1_keywords:
 - vbapj.chm44
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BoxLinks
 ms.assetid: da12c972-9647-9e1f-2909-1e0a18aff32b

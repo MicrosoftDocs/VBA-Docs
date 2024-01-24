@@ -3,7 +3,6 @@ title: Style.IncludesText property (Visio)
 keywords: vis_sdr.chm11413690
 f1_keywords:
 - vis_sdr.chm11413690
-ms.prod: visio
 api_name:
 - Visio.Style.IncludesText
 ms.assetid: c23baaba-716d-398c-3c58-d47623be6752

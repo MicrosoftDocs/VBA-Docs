@@ -3,7 +3,6 @@ title: CommandButton.VerticalAnchor property (Access)
 keywords: vbaac10.chm10538
 f1_keywords:
 - vbaac10.chm10538
-ms.prod: access
 api_name:
 - Access.CommandButton.VerticalAnchor
 ms.assetid: e0da1883-eec3-39fa-2bff-1410d79a7b2a

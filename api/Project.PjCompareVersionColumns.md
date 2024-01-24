@@ -1,6 +1,6 @@
 ---
 title: PjCompareVersionColumns enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjCompareVersionColumns
 ms.assetid: ae18b349-d77d-b292-306b-357b99acaefe

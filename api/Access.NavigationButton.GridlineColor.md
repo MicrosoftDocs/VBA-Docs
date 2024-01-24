@@ -3,7 +3,6 @@ title: NavigationButton.GridlineColor property (Access)
 keywords: vbaac10.chm10536
 f1_keywords:
 - vbaac10.chm10536
-ms.prod: access
 api_name:
 - Access.NavigationButton.GridlineColor
 ms.assetid: 2f332449-f34d-f290-096a-95f6d4109c4c

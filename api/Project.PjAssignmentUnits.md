@@ -1,6 +1,6 @@
 ---
 title: PjAssignmentUnits enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjAssignmentUnits
 ms.assetid: 12bbd0c9-e728-3055-240b-898e15e40439

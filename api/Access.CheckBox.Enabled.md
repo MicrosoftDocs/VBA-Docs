@@ -3,7 +3,6 @@ title: CheckBox.Enabled property (Access)
 keywords: vbaac10.chm10703
 f1_keywords:
 - vbaac10.chm10703
-ms.prod: access
 api_name:
 - Access.CheckBox.Enabled
 ms.assetid: 48bf27fa-f08e-6fc9-ad92-6ec489b80801

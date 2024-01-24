@@ -3,7 +3,6 @@ title: OptionGroup.OldBorderStyle property (Access)
 keywords: vbaac10.chm10842
 f1_keywords:
 - vbaac10.chm10842
-ms.prod: access
 api_name:
 - Access.OptionGroup.OldBorderStyle
 ms.assetid: d26a3888-a7c3-39f4-ca3e-484e9c3826b7

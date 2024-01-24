@@ -3,7 +3,6 @@ title: ChartAxis object (Access)
 keywords: vbaac10.chm14752
 f1_keywords:
 - vbaac10.chm14752
-ms.prod: access
 api_name:
 - Access.ChartAxis
 ms.date: 11/28/2018

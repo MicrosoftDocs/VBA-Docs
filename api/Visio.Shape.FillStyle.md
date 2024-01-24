@@ -3,7 +3,6 @@ title: Shape.FillStyle property (Visio)
 keywords: vis_sdr.chm11213525
 f1_keywords:
 - vis_sdr.chm11213525
-ms.prod: visio
 api_name:
 - Visio.Shape.FillStyle
 ms.assetid: f674da21-deac-4636-608c-c26241a7b125

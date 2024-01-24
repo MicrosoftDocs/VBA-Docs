@@ -1,6 +1,6 @@
 ---
 title: Selection.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Selection.Application
 ms.assetid: daa8c969-7cae-94e2-407e-efedb07584c6

@@ -3,7 +3,6 @@ title: Connects.ObjectType property (Visio)
 keywords: vis_sdr.chm10413960
 f1_keywords:
 - vis_sdr.chm10413960
-ms.prod: visio
 api_name:
 - Visio.Connects.ObjectType
 ms.assetid: 1d27b1c5-89f0-493c-b90c-9be46fc93ca0

@@ -3,7 +3,6 @@ title: ToggleButton.BorderColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.ToggleButton.BorderColor
 ms.assetid: 0ef018d1-397f-f7e8-317e-639e85de0e98

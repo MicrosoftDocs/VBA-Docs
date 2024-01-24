@@ -3,7 +3,6 @@ title: Application.ConnectorToolDataObject property (Visio)
 keywords: vis_sdr.chm10051835
 f1_keywords:
 - vis_sdr.chm10051835
-ms.prod: visio
 api_name:
 - Visio.Application.ConnectorToolDataObject
 ms.assetid: 7b1eedad-3d62-c2a1-5ba7-200a594ba32f

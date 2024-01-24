@@ -1,6 +1,6 @@
 ---
 title: Project.ManuallyScheduledTasksAutoRespectLinks property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.ManuallyScheduledTasksAutoRespectLinks
 ms.assetid: 158b13c8-5829-8e68-804f-fd96913e295d

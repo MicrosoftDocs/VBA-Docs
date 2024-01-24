@@ -1,6 +1,6 @@
 ---
 title: Task.Baseline8BudgetCost property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.Baseline8BudgetCost
 ms.assetid: c7a21b32-2992-42b6-3db0-3c9ebae0c636

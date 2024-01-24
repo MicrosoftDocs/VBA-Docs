@@ -3,7 +3,7 @@ title: Application.LookUpTableAddEx method (Project)
 keywords: vbapj.chm635
 f1_keywords:
 - vbapj.chm635
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LookUpTableAddEx
 ms.assetid: 5f316f1e-de4b-2fe4-6d3e-84a9944adaed

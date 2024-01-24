@@ -3,7 +3,6 @@ title: DataRecordsetChangedEvent object (Visio)
 keywords: vis_sdr.chm61025
 f1_keywords:
 - vis_sdr.chm61025
-ms.prod: visio
 api_name:
 - Visio.DataRecordsetChangedEvent
 ms.assetid: 3575c6f6-081d-4632-d720-efad1c977a9a

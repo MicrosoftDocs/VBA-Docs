@@ -1,6 +1,6 @@
 ---
 title: ResourceGroups.Copy method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ResourceGroups.Copy
 ms.assetid: 0cf50d60-889b-b599-55be-288aa64f23ee

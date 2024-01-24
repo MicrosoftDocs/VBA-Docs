@@ -3,7 +3,6 @@ title: Shape.RemoveFromContainers method (Visio)
 keywords: vis_sdr.chm11262220
 f1_keywords:
 - vis_sdr.chm11262220
-ms.prod: visio
 api_name:
 - Visio.Shape.RemoveFromContainers
 ms.assetid: b9dbf604-01f0-675a-a0e1-7b30841ec5c5

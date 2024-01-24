@@ -3,7 +3,6 @@ title: ObjectFrame.MouseUp event (Access)
 keywords: vbaac10.chm14113
 f1_keywords:
 - vbaac10.chm14113
-ms.prod: access
 api_name:
 - Access.ObjectFrame.MouseUp
 ms.assetid: 0f818329-7817-d62f-2ccd-a35232cf67dc

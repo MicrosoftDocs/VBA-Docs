@@ -1,6 +1,6 @@
 ---
 title: Assignment.Finish8 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Finish8
 ms.assetid: 3609260a-515a-734f-4eaf-d7b55d20963e

@@ -1,6 +1,6 @@
 ---
 title: PjLayoutMode enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjLayoutMode
 ms.assetid: bf57fb95-efde-ddf7-c869-29fe547be412

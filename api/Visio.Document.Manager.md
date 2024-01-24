@@ -3,7 +3,6 @@ title: Document.Manager property (Visio)
 keywords: vis_sdr.chm10513865
 f1_keywords:
 - vis_sdr.chm10513865
-ms.prod: visio
 api_name:
 - Visio.Document.Manager
 ms.assetid: 6aa5bcfc-55b5-88ce-a9a8-d0f6a73ee69f

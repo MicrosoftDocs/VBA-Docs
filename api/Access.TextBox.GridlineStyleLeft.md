@@ -3,7 +3,6 @@ title: TextBox.GridlineStyleLeft property (Access)
 keywords: vbaac10.chm11156
 f1_keywords:
 - vbaac10.chm11156
-ms.prod: access
 api_name:
 - Access.TextBox.GridlineStyleLeft
 ms.assetid: f1c71748-a37c-d0d0-5d8e-9899cf1efba5

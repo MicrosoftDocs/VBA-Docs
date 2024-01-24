@@ -3,7 +3,6 @@ title: Cannot replicate the table; the number of columns exceeds the maximum all
 keywords: jeterr40.chm5003585
 f1_keywords:
 - jeterr40.chm5003585
-ms.prod: access
 ms.assetid: 311786f2-9f76-4817-3ba0-d41af920ffde
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: Define relationships between tables using Access SQL
-ms.prod: access
 ms.assetid: 24159c8a-c4ba-79a9-2490-007a82163f55
 ms.date: 06/08/2017
 ms.localizationpriority: medium

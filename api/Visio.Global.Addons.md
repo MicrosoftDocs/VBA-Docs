@@ -3,7 +3,6 @@ title: Global.Addons property (Visio)
 keywords: vis_sdr.chm12813060
 f1_keywords:
 - vis_sdr.chm12813060
-ms.prod: visio
 api_name:
 - Visio.Global.Addons
 ms.assetid: 4d1cc9ae-5a9f-1a84-7550-6fe5271b88a3

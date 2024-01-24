@@ -3,7 +3,6 @@ title: Form.OnDblClick property (Access)
 keywords: vbaac10.chm13450
 f1_keywords:
 - vbaac10.chm13450
-ms.prod: access
 api_name:
 - Access.Form.OnDblClick
 ms.assetid: 8e38c442-f2b2-b125-e006-b507765fefd4

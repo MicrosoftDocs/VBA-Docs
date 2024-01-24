@@ -3,7 +3,6 @@ title: NavigationButton.ControlType property (Access)
 keywords: vbaac10.chm10449
 f1_keywords:
 - vbaac10.chm10449
-ms.prod: access
 api_name:
 - Access.NavigationButton.ControlType
 ms.assetid: 3603e03e-5cb1-6a2d-8239-e06212573a36

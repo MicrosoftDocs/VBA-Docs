@@ -3,7 +3,6 @@ title: SubForm.Left property (Access)
 keywords: vbaac10.chm11938
 f1_keywords:
 - vbaac10.chm11938
-ms.prod: access
 api_name:
 - Access.SubForm.Left
 ms.assetid: 8be83578-029b-0690-bafe-3e57296cf247

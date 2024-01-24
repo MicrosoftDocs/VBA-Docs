@@ -3,7 +3,6 @@ title: NavigationControl.Parent property (Access)
 keywords: vbaac10.chm11029
 f1_keywords:
 - vbaac10.chm11029
-ms.prod: access
 api_name:
 - Access.NavigationControl.Parent
 ms.assetid: e6b36fe8-b4d3-6571-0965-f27ac611fd29

@@ -3,7 +3,6 @@ title: CustomControl.GridlineStyleTop property (Access)
 keywords: vbaac10.chm10529
 f1_keywords:
 - vbaac10.chm10529
-ms.prod: access
 api_name:
 - Access.CustomControl.GridlineStyleTop
 ms.assetid: 5d04ce0c-648f-894b-dd67-06fcc9e4afe4

@@ -3,7 +3,6 @@ title: AdditionalData.Name property (Access)
 keywords: vbaac10.chm13255
 f1_keywords:
 - vbaac10.chm13255
-ms.prod: access
 api_name:
 - Access.AdditionalData.Name
 ms.assetid: cd54396d-e885-d765-8242-81aef07d0927

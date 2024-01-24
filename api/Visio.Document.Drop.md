@@ -3,7 +3,6 @@ title: Document.Drop method (Visio)
 keywords: vis_sdr.chm10516235
 f1_keywords:
 - vis_sdr.chm10516235
-ms.prod: visio
 api_name:
 - Visio.Document.Drop
 ms.assetid: 1e6b2d14-71c2-4adc-a9d7-ec123b2b7f31

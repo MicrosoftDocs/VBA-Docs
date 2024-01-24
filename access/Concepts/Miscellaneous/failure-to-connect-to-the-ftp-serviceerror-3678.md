@@ -3,7 +3,6 @@ title: Failure to connect to the FTP service. (Error 3678)
 keywords: jeterr40.chm5003678
 f1_keywords:
 - jeterr40.chm5003678
-ms.prod: access
 ms.assetid: cca97640-956e-4fef-5cc4-5a4d5e2d25fa
 ms.date: 06/08/2019
 ms.localizationpriority: medium

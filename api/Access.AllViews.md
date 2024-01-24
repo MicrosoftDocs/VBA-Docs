@@ -3,7 +3,6 @@ title: AllViews object (Access)
 keywords: vbaac10.chm12690
 f1_keywords:
 - vbaac10.chm12690
-ms.prod: access
 api_name:
 - Access.AllViews
 ms.assetid: f56bee24-a972-fbdf-f74a-0ac83825e3bb

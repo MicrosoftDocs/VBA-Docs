@@ -1,6 +1,6 @@
 ---
 title: PjRecalcDriverType enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjRecalcDriverType
 ms.assetid: eb201345-75d8-d3bb-2b23-c4d293833980

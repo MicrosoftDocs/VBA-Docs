@@ -3,7 +3,6 @@ title: VisResizeDirection enumeration (Visio)
 keywords: vis_sdr.chm70655
 f1_keywords:
 - vis_sdr.chm70655
-ms.prod: visio
 api_name:
 - Visio.VisResizeDirection
 ms.assetid: 912ad752-b614-b195-11fd-2c49b9dd5795

@@ -3,7 +3,7 @@ title: Application.FindNext method (Project)
 keywords: vbapj.chm2032
 f1_keywords:
 - vbapj.chm2032
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.FindNext
 ms.assetid: 005d4cf9-0262-b485-348c-9feb4d7ab389

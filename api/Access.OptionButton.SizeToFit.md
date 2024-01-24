@@ -3,7 +3,6 @@ title: OptionButton.SizeToFit method (Access)
 keywords: vbaac10.chm10560
 f1_keywords:
 - vbaac10.chm10560
-ms.prod: access
 api_name:
 - Access.OptionButton.SizeToFit
 ms.assetid: 6b436216-a814-62ab-d87a-6608959365e7

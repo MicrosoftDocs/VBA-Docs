@@ -3,7 +3,6 @@ title: AcPrintPaperBin enumeration (Access)
 keywords: vbaac10.chm13246
 f1_keywords:
 - vbaac10.chm13246
-ms.prod: access
 api_name:
 - Access.AcPrintPaperBin
 ms.assetid: b1543cc0-bc70-49cb-ceac-76f4368d6445

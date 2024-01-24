@@ -3,7 +3,7 @@ title: Application.DocumentLibraryVersionsDialog method (Project)
 keywords: vbapj.chm2342
 f1_keywords:
 - vbapj.chm2342
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DocumentLibraryVersionsDialog
 ms.assetid: 650b9b22-91e0-c565-16c3-b7b72c8bb473

@@ -1,6 +1,6 @@
 ---
 title: Resource.EnterpriseTeamMember method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseTeamMember
 ms.assetid: a89acb10-02c3-0e2d-66b2-2d448514d919

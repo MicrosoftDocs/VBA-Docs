@@ -1,6 +1,5 @@
 ---
 title: DrawingControl.StyleChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.DrawingControl.StyleChanged
 ms.assetid: 750c621a-d392-a17f-fced-f98a36f82951

@@ -3,7 +3,6 @@ title: TextBox.FormatConditions property (Access)
 keywords: vbaac10.chm11038
 f1_keywords:
 - vbaac10.chm11038
-ms.prod: access
 api_name:
 - Access.TextBox.FormatConditions
 ms.assetid: 6c643d8b-9b90-2b50-2ba0-c46bb821d38d

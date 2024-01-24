@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Application
 ms.assetid: 1f35443c-2392-f72d-498b-540456a6eacc

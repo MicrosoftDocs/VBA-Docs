@@ -1,6 +1,6 @@
 ---
 title: WorkWeeks.Add method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.WorkWeeks.Add
 ms.assetid: 46469e7b-8309-4e77-c89f-2115b9498c7a

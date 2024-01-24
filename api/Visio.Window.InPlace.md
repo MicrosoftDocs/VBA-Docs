@@ -3,7 +3,6 @@ title: Window.InPlace property (Visio)
 keywords: vis_sdr.chm11613705
 f1_keywords:
 - vis_sdr.chm11613705
-ms.prod: visio
 api_name:
 - Visio.Window.InPlace
 ms.assetid: 2784b807-0d66-e1db-4936-1b552c06d46b

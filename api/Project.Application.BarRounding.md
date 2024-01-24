@@ -3,7 +3,7 @@ title: Application.BarRounding method (Project)
 keywords: vbapj.chm2080
 f1_keywords:
 - vbapj.chm2080
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BarRounding
 ms.assetid: 6f776070-0a37-a72b-8cf8-ea3fd2c3fd06

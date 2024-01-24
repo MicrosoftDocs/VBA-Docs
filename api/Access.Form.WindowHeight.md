@@ -3,7 +3,6 @@ title: Form.WindowHeight property (Access)
 keywords: vbaac10.chm13465
 f1_keywords:
 - vbaac10.chm13465
-ms.prod: access
 api_name:
 - Access.Form.WindowHeight
 ms.assetid: 53af4131-a174-c0c3-db29-f0f0cabb4b05

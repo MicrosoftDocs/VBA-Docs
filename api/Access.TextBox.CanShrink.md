@@ -3,7 +3,6 @@ title: TextBox.CanShrink property (Access)
 keywords: vbaac10.chm11069
 f1_keywords:
 - vbaac10.chm11069
-ms.prod: access
 api_name:
 - Access.TextBox.CanShrink
 ms.assetid: d4ac842c-18ea-a3be-a90a-5dd9d10d7b8f

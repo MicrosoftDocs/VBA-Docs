@@ -3,7 +3,6 @@ title: Label.Height property (Access)
 keywords: vbaac10.chm10200
 f1_keywords:
 - vbaac10.chm10200
-ms.prod: access
 api_name:
 - Access.Label.Height
 ms.assetid: 492a0e79-b1db-0d5b-3e34-d0e80ca1e6b3

@@ -3,7 +3,6 @@ title: ObjectFrame object (Access)
 keywords: vbaac10.chm11665
 f1_keywords:
 - vbaac10.chm11665
-ms.prod: access
 api_name:
 - Access.ObjectFrame
 ms.assetid: 0eb85477-58d7-249a-2bf7-f2f3960a45a9

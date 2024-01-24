@@ -3,7 +3,6 @@ title: Set a reference to a Visual Basic project in another Access database or p
 keywords: vbaac10.chm102162
 f1_keywords:
 - vbaac10.chm102162
-ms.prod: access
 ms.assetid: a919be67-84ee-e9de-1cfd-17a456f4d929
 ms.date: 09/26/2018
 ms.localizationpriority: medium

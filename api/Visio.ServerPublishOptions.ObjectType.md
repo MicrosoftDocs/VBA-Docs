@@ -3,7 +3,6 @@ title: ServerPublishOptions.ObjectType property (Visio)
 keywords: vis_sdr.chm17913960
 f1_keywords:
 - vis_sdr.chm17913960
-ms.prod: visio
 api_name:
 - Visio.ServerPublishOptions.ObjectType
 ms.assetid: f129c679-9d68-b041-561f-d199ca9c50a5

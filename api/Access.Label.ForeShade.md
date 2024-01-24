@@ -3,7 +3,6 @@ title: Label.ForeShade property (Access)
 keywords: vbaac10.chm14606
 f1_keywords:
 - vbaac10.chm14606
-ms.prod: access
 api_name:
 - Access.Label.ForeShade
 ms.assetid: 4ccc09f9-533a-e70f-7194-75b3934f97ff

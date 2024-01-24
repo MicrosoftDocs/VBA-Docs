@@ -3,7 +3,6 @@ title: AcWindowMode enumeration (Access)
 keywords: vbaac10.chm10030
 f1_keywords:
 - vbaac10.chm10030
-ms.prod: access
 api_name:
 - Access.AcWindowMode
 ms.assetid: 70335c3c-78a1-b3e3-cbda-bd7f7a99abd4

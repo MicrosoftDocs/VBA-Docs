@@ -1,6 +1,6 @@
 ---
 title: Windows.Item property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Windows.Item
 ms.assetid: c0f8bffd-5e91-721a-d47e-f4daa4d0bf80

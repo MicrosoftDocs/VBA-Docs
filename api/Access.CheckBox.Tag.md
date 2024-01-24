@@ -3,7 +3,6 @@ title: CheckBox.Tag property (Access)
 keywords: vbaac10.chm10732
 f1_keywords:
 - vbaac10.chm10732
-ms.prod: access
 api_name:
 - Access.CheckBox.Tag
 ms.assetid: 3aa44f1b-9373-86df-fd78-ac9f5e3f8108

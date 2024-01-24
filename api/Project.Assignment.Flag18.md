@@ -1,6 +1,6 @@
 ---
 title: Assignment.Flag18 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Assignment.Flag18
 ms.assetid: 46e6a314-ef73-8db8-1422-340e7dd05d1d

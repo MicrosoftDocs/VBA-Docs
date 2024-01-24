@@ -1,6 +1,6 @@
 ---
 title: Exception.Period property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Exception.Period
 ms.assetid: 357d1a65-a5c4-3ddb-d42a-f7c2e26298a3

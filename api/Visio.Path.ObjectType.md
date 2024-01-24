@@ -3,7 +3,6 @@ title: Path.ObjectType property (Visio)
 keywords: vis_sdr.chm15413960
 f1_keywords:
 - vis_sdr.chm15413960
-ms.prod: visio
 api_name:
 - Visio.Path.ObjectType
 ms.assetid: 5833e2bb-7ee6-d2a6-1698-1cb599d57785

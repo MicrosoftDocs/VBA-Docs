@@ -1,7 +1,6 @@
 ---
 title: ReadyState property example (VBScript)
 ROBOTS: INDEX
-ms.prod: access
 ms.assetid: 0deacb21-4503-cee5-ea8c-6b30af903ab5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: Project.UpdateProjOnSave property (Project)
 keywords: vbapj.chm132776
 f1_keywords:
 - vbapj.chm132776
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.UpdateProjOnSave
 ms.assetid: c799b1e6-ea33-0261-88d6-de502197ac4c

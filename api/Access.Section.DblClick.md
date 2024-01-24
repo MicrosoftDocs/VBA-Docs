@@ -3,7 +3,6 @@ title: Section.DblClick event (Access)
 keywords: vbaac10.chm14234
 f1_keywords:
 - vbaac10.chm14234
-ms.prod: access
 api_name:
 - Access.Section.DblClick
 ms.assetid: 6523062c-887d-de9a-a17b-b47768eb5ad0

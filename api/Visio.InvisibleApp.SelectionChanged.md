@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.SelectionChanged event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.SelectionChanged
 ms.assetid: 6b621a79-9e12-ce5a-7cd0-9a2e6643d957

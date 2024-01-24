@@ -3,7 +3,6 @@ title: ApplicationSettings.FreeformDrawingPrecision property (Visio)
 keywords: vis_sdr.chm16251790
 f1_keywords:
 - vis_sdr.chm16251790
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.FreeformDrawingPrecision
 ms.assetid: 3822238b-cd63-1883-88a6-894b289765d7

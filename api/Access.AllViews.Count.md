@@ -3,7 +3,6 @@ title: AllViews.Count property (Access)
 keywords: vbaac10.chm12681
 f1_keywords:
 - vbaac10.chm12681
-ms.prod: access
 api_name:
 - Access.AllViews.Count
 ms.assetid: 8e576778-48d9-d14f-da4a-5f0c9ca97008

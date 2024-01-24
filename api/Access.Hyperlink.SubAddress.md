@@ -3,7 +3,6 @@ title: Hyperlink.SubAddress property (Access)
 keywords: vbaac10.chm10114
 f1_keywords:
 - vbaac10.chm10114
-ms.prod: access
 api_name:
 - Access.Hyperlink.SubAddress
 ms.assetid: b281fa9e-502b-59b4-749e-3c96913e4d14

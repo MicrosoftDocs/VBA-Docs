@@ -3,7 +3,6 @@ title: Section.NewRowOrCol property (Access)
 keywords: vbaac10.chm12193,vbaac10.chm4436
 f1_keywords:
 - vbaac10.chm12193,vbaac10.chm4436
-ms.prod: access
 api_name:
 - Access.Section.NewRowOrCol
 ms.assetid: c14c669a-9aff-6fc1-9bcc-b7bf011abed1

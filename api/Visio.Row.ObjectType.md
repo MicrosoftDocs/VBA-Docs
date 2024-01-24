@@ -3,7 +3,6 @@ title: Row.ObjectType property (Visio)
 keywords: vis_sdr.chm15813960
 f1_keywords:
 - vis_sdr.chm15813960
-ms.prod: visio
 api_name:
 - Visio.Row.ObjectType
 ms.assetid: 03feef55-8326-5412-631b-4a084b557501

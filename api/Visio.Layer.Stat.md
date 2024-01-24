@@ -3,7 +3,6 @@ title: Layer.Stat property (Visio)
 keywords: vis_sdr.chm11814420
 f1_keywords:
 - vis_sdr.chm11814420
-ms.prod: visio
 api_name:
 - Visio.Layer.Stat
 ms.assetid: f561aba4-b6be-642c-490d-a4cd137c3607

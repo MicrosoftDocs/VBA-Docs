@@ -3,7 +3,6 @@ title: ReturnVars.Count property (Access)
 keywords: vbaac10.chm14696
 f1_keywords:
 - vbaac10.chm14696
-ms.prod: access
 api_name:
 - Access.ReturnVars.Count
 ms.assetid: 48522383-2cc5-4c44-be92-d51bd87e935a

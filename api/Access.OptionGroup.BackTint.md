@@ -3,7 +3,6 @@ title: OptionGroup.BackTint property (Access)
 keywords: vbaac10.chm14632
 f1_keywords:
 - vbaac10.chm14632
-ms.prod: access
 api_name:
 - Access.OptionGroup.BackTint
 ms.assetid: 4e33a712-af8f-bffa-f6c8-0502fb292813

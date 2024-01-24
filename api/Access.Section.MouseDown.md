@@ -3,7 +3,6 @@ title: Section.MouseDown event (Access)
 keywords: vbaac10.chm14235
 f1_keywords:
 - vbaac10.chm14235
-ms.prod: access
 api_name:
 - Access.Section.MouseDown
 ms.assetid: e262213a-cf22-bb6f-b3b0-bcbdba33e61d

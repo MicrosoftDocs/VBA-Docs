@@ -1,6 +1,6 @@
 ---
 title: Resource.Start10 property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.Start10
 ms.assetid: 72e9a525-9e00-e671-1eba-b6a334269075

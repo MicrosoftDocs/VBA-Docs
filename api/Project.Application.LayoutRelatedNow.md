@@ -3,7 +3,7 @@ title: Application.LayoutRelatedNow method (Project)
 keywords: vbapj.chm30
 f1_keywords:
 - vbapj.chm30
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.LayoutRelatedNow
 ms.assetid: a76cca88-86ad-3fb8-82c6-5ce64a074d54

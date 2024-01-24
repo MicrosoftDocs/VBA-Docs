@@ -1,6 +1,6 @@
 ---
 title: PjYesNoAutomatic enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjYesNoAutomatic
 ms.assetid: 4ffbee27-56d7-abe1-38fb-288e1716913e

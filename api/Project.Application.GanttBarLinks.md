@@ -3,7 +3,7 @@ title: Application.GanttBarLinks method (Project)
 keywords: vbapj.chm2071
 f1_keywords:
 - vbapj.chm2071
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GanttBarLinks
 ms.assetid: 80f8fdaa-e08f-3c5e-64dc-43d3dccd7f86

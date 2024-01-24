@@ -3,7 +3,6 @@ title: AdditionalData object (Access)
 keywords: vbaac10.chm13253
 f1_keywords:
 - vbaac10.chm13253
-ms.prod: access
 api_name:
 - Access.AdditionalData
 ms.assetid: 2677072b-c2ca-3bcd-fef4-f6b1cadb0379

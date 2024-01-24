@@ -1,6 +1,6 @@
 ---
 title: Project.SetObjectMatchingID method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.SetObjectMatchingID
 ms.assetid: d0d79e0a-bfec-9882-bfe9-72f7c51f0baf

@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.Single property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Single
 ms.assetid: 7af38429-2767-7660-000f-bbfa48edab96

@@ -3,7 +3,7 @@ title: Application.BoxCellEdit method (Project)
 keywords: vbapj.chm2393
 f1_keywords:
 - vbapj.chm2393
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.BoxCellEdit
 ms.assetid: 27063852-3dc4-57b2-c82a-6210674810ca

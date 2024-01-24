@@ -1,6 +1,6 @@
 ---
 title: Window.Visible property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Window.Visible
 ms.assetid: 470b7c57-3a5c-73da-d584-d757e6071001

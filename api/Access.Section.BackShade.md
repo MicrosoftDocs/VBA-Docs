@@ -3,7 +3,6 @@ title: Section.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.Section.BackShade
 ms.assetid: 36d9b31e-f632-cd7e-0ecf-6ea6de57e1a4

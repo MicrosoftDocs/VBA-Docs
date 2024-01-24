@@ -3,7 +3,6 @@ title: TabControl.PressedColor property (Access)
 keywords: vbaac10.chm10839
 f1_keywords:
 - vbaac10.chm10839
-ms.prod: access
 api_name:
 - Access.TabControl.PressedColor
 ms.assetid: 63df3f05-fa03-013c-78f0-c72c97e72ea6

@@ -1,6 +1,5 @@
 ---
 title: InvisibleApp.AppObjActivated event (Visio)
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.AppObjActivated
 ms.assetid: d37d2b3b-4d60-75e3-6b29-18d60e911c8f

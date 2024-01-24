@@ -3,7 +3,6 @@ title: Attachment.BeforeUpdate property (Access)
 keywords: vbaac10.chm13937
 f1_keywords:
 - vbaac10.chm13937
-ms.prod: access
 api_name:
 - Access.Attachment.BeforeUpdate
 ms.assetid: 44a17114-bbb6-8ec9-89b5-db09cf60de98

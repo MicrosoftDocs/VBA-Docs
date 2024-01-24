@@ -3,7 +3,7 @@ title: Application.GetThemedColor method (Project)
 keywords: vbapj.chm131095
 f1_keywords:
 - vbapj.chm131095
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GetThemedColor
 ms.assetid: d7d464cd-a6d0-72b9-33cd-d5d9e7f30b80

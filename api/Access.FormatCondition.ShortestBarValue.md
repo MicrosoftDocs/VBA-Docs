@@ -3,7 +3,6 @@ title: FormatCondition.ShortestBarValue property (Access)
 keywords: vbaac10.chm14531
 f1_keywords:
 - vbaac10.chm14531
-ms.prod: access
 api_name:
 - Access.FormatCondition.ShortestBarValue
 ms.assetid: b262c385-0c12-87cc-45cc-83a658a61510

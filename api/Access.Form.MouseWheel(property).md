@@ -3,7 +3,6 @@ title: Form.MouseWheel property (Access)
 keywords: vbaac10.chm13552
 f1_keywords:
 - vbaac10.chm13552
-ms.prod: access
 api_name:
 - Access.Form.MouseWheel
 ms.assetid: 364f7854-d7d5-5fe2-effa-6154e86376b4

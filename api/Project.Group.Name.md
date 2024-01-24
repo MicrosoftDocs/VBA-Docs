@@ -1,6 +1,6 @@
 ---
 title: Group.Name property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Group.Name
 ms.assetid: c5961e6f-0736-74c5-0da8-a7ebeea3f33c

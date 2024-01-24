@@ -3,7 +3,6 @@ title: OptionButton.Enabled property (Access)
 keywords: vbaac10.chm10576
 f1_keywords:
 - vbaac10.chm10576
-ms.prod: access
 api_name:
 - Access.OptionButton.Enabled
 ms.assetid: ff1a1ee6-c92f-4106-b49f-25d6a17088d7

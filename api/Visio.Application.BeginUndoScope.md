@@ -3,7 +3,6 @@ title: Application.BeginUndoScope method (Visio)
 keywords: vis_sdr.chm10016085
 f1_keywords:
 - vis_sdr.chm10016085
-ms.prod: visio
 api_name:
 - Visio.Application.BeginUndoScope
 ms.assetid: 7e3a4e34-6796-4277-1dc4-7252ee2b6720

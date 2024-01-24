@@ -3,7 +3,7 @@ title: Application.RowDelete method (Project)
 keywords: vbapj.chm231
 f1_keywords:
 - vbapj.chm231
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.RowDelete
 ms.assetid: 71a512ff-4b2f-971c-2c11-a468b3b7afad

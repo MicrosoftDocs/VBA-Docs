@@ -3,7 +3,6 @@ title: GroupLevel.SortOrder property (Access)
 keywords: vbaac10.chm12240
 f1_keywords:
 - vbaac10.chm12240
-ms.prod: access
 api_name:
 - Access.GroupLevel.SortOrder
 ms.assetid: 2c58785c-4ddb-a581-b438-5f6390f544dd

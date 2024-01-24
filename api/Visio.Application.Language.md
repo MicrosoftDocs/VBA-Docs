@@ -3,7 +3,6 @@ title: Application.Language property (Visio)
 keywords: vis_sdr.chm10013800
 f1_keywords:
 - vis_sdr.chm10013800
-ms.prod: visio
 api_name:
 - Visio.Application.Language
 ms.assetid: 78dc3295-16bd-28fd-43d7-4e6d7924e3be

@@ -3,7 +3,6 @@ title: References.AddFromFile method (Access)
 keywords: vbaac10.chm12643
 f1_keywords:
 - vbaac10.chm12643
-ms.prod: access
 api_name:
 - Access.References.AddFromFile
 ms.assetid: 23934c34-2315-b109-57ae-ed2dae347307

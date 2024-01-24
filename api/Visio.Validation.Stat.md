@@ -3,7 +3,6 @@ title: Validation.Stat property (Visio)
 keywords: vis_sdr.chm18014420
 f1_keywords:
 - vis_sdr.chm18014420
-ms.prod: visio
 api_name:
 - Visio.Validation.Stat
 ms.assetid: abf46f37-4e0f-39c7-9368-6201b4bd5cf4

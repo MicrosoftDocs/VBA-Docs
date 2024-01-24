@@ -3,7 +3,6 @@ title: AcNewDatabaseFormat enumeration (Access)
 keywords: vbaac10.chm14075
 f1_keywords:
 - vbaac10.chm14075
-ms.prod: access
 api_name:
 - Access.AcNewDatabaseFormat
 ms.assetid: 9eafb980-dd9b-c5ce-a7d2-e6d128c82d6e

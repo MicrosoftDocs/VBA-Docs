@@ -3,7 +3,6 @@ title: NavigationControl.BackShade property (Access)
 keywords: vbaac10.chm14633
 f1_keywords:
 - vbaac10.chm14633
-ms.prod: access
 api_name:
 - Access.NavigationControl.BackShade
 ms.assetid: 3c3de7b4-9b86-6148-69af-f4a3ccb648ff

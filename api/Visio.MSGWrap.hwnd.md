@@ -3,7 +3,6 @@ title: MSGWrap.hWnd property (Visio)
 keywords: vis_sdr.chm16150660
 f1_keywords:
 - vis_sdr.chm16150660
-ms.prod: visio
 api_name:
 - Visio.MSGWrap.hWnd
 ms.assetid: 9e114e2d-06ae-38ee-f6a2-825cd0a4bb0c

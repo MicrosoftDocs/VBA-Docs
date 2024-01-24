@@ -3,7 +3,7 @@ title: Application.DDETerminate method (Project)
 keywords: vbapj.chm1203
 f1_keywords:
 - vbapj.chm1203
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.DDETerminate
 ms.assetid: 92753522-dad8-4312-eef0-49fd075cea3f

@@ -3,7 +3,6 @@ title: Page.Layers property (Visio)
 keywords: vis_sdr.chm10913820
 f1_keywords:
 - vis_sdr.chm10913820
-ms.prod: visio
 api_name:
 - Visio.Page.Layers
 ms.assetid: 62e3aae6-1cb1-695e-81ec-eabdd6b44ef9

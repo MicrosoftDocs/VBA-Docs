@@ -3,7 +3,7 @@ title: Resource.EnterpriseGeneric property (Project)
 keywords: vbapj.chm131885
 f1_keywords:
 - vbapj.chm131885
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.EnterpriseGeneric
 ms.assetid: 2d84434e-8b75-b5e5-4c4b-80d2ff2a2dbd

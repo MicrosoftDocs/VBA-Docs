@@ -3,7 +3,6 @@ title: ToggleButton.HoverForeTint property (Access)
 keywords: vbaac10.chm14617
 f1_keywords:
 - vbaac10.chm14617
-ms.prod: access
 api_name:
 - Access.ToggleButton.HoverForeTint
 ms.assetid: 81b67e89-3ae9-941f-4830-fcdbf02afd9e

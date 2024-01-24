@@ -3,7 +3,6 @@ title: CustomControl.Properties property (Access)
 keywords: vbaac10.chm12000
 f1_keywords:
 - vbaac10.chm12000
-ms.prod: access
 api_name:
 - Access.CustomControl.Properties
 ms.assetid: d2da3527-c234-3c3b-e0ac-45c324c39a1a

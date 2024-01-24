@@ -3,7 +3,6 @@ title: BoundObjectFrame.OnMouseDown property (Access)
 keywords: vbaac10.chm10970
 f1_keywords:
 - vbaac10.chm10970
-ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnMouseDown
 ms.assetid: cf1eac07-1e0f-ad7b-05c4-405867b1be71

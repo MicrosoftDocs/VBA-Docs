@@ -1,6 +1,6 @@
 ---
 title: ViewSingle.Apply method (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.ViewSingle.Apply
 ms.assetid: eafd9cdd-bb4f-51c1-4639-d852dec3f3f8

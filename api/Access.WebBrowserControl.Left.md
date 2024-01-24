@@ -3,7 +3,6 @@ title: WebBrowserControl.Left property (Access)
 keywords: vbaac10.chm14370
 f1_keywords:
 - vbaac10.chm14370
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Left
 ms.assetid: 4e14da0d-2b92-73b3-d942-06211e1f5e59

@@ -3,7 +3,6 @@ title: Windows.ViewChanged event (Visio)
 keywords: vis_sdr.chm11719260
 f1_keywords:
 - vis_sdr.chm11719260
-ms.prod: visio
 api_name:
 - Visio.Windows.ViewChanged
 ms.assetid: 0c504d9d-3664-38fc-33ad-cc7ec41589e2

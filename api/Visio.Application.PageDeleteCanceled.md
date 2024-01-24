@@ -1,6 +1,5 @@
 ---
 title: Application.PageDeleteCanceled event (Visio)
-ms.prod: visio
 api_name:
 - Visio.Application.PageDeleteCanceled
 ms.assetid: 1efbd64c-365b-c967-59bb-8314a0fa6f34

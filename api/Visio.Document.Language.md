@@ -3,7 +3,6 @@ title: Document.Language property (Visio)
 keywords: vis_sdr.chm10551705
 f1_keywords:
 - vis_sdr.chm10551705
-ms.prod: visio
 api_name:
 - Visio.Document.Language
 ms.assetid: 76f995fd-8b4d-7292-50c1-8dcb6448c2ec

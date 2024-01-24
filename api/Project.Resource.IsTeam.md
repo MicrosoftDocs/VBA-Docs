@@ -1,6 +1,6 @@
 ---
 title: Resource.IsTeam property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Resource.IsTeam
 ms.assetid: 99e87250-d167-d13d-b622-f7e88379fe50

@@ -1,6 +1,6 @@
 ---
 title: Task.BCWP property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.BCWP
 ms.assetid: b21fdd25-7e81-8e26-963f-dd4a8035bb75

@@ -3,7 +3,6 @@ title: OptionGroup.OnDblClick property (Access)
 keywords: vbaac10.chm10867
 f1_keywords:
 - vbaac10.chm10867
-ms.prod: access
 api_name:
 - Access.OptionGroup.OnDblClick
 ms.assetid: f1dfb135-716f-4db3-1d4a-89c4b28b40f8

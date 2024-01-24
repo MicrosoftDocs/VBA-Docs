@@ -3,7 +3,6 @@ title: CheckBox.LabelX property (Access)
 keywords: vbaac10.chm10727
 f1_keywords:
 - vbaac10.chm10727
-ms.prod: access
 api_name:
 - Access.CheckBox.LabelX
 ms.assetid: 5067374b-9e37-3e13-003c-c3688812221f

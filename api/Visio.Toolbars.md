@@ -3,7 +3,6 @@ title: Toolbars object (Visio)
 keywords: vis_sdr.chm10285
 f1_keywords:
 - vis_sdr.chm10285
-ms.prod: visio
 api_name:
 - Visio.Toolbars
 ms.assetid: 05a7736a-4655-de35-14fe-32e32fd1784d

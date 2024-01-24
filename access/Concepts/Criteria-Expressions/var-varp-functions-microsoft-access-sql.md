@@ -3,7 +3,6 @@ title: Var, VarP functions (Microsoft Access SQL)
 keywords: jetsql40.chm5278829
 f1_keywords:
 - jetsql40.chm5278829
-ms.prod: access
 ms.assetid: 2cac402d-8384-0b33-c203-f493281a95f1
 ms.date: 09/21/2018
 ms.localizationpriority: medium

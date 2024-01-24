@@ -3,7 +3,6 @@ title: CREATE (Microsoft Access SQL reserved word)
 keywords: jetsql40.chm5277609
 f1_keywords:
 - jetsql40.chm5277609
-ms.prod: access
 ms.assetid: 366689fb-62dd-4f28-cbd3-65a6403e8de0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

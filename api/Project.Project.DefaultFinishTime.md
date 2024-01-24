@@ -1,6 +1,6 @@
 ---
 title: Project.DefaultFinishTime property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.DefaultFinishTime
 ms.assetid: 25c6bcc1-6543-b4b4-780b-d924189054de

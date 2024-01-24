@@ -3,7 +3,6 @@ title: Chart.PrimaryValuesAxisFontSize property (Access)
 keywords: vbaac10.chm6129
 f1_keywords:
 - vbaac10.chm6129
-ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisFontSize
 ms.date: 11/28/2018

@@ -3,7 +3,6 @@ title: AccessObject.IsWeb property (Access)
 keywords: vbaac10.chm14678
 f1_keywords:
 - vbaac10.chm14678
-ms.prod: access
 api_name:
 - Access.AccessObject.IsWeb
 ms.assetid: 57fa0b00-6f1b-b865-a697-b6d3fdd03f82

@@ -1,6 +1,6 @@
 ---
 title: Day.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Day.Parent
 ms.assetid: b736b2ef-28ac-5191-450f-b516c350ad6d

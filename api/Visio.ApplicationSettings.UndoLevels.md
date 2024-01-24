@@ -3,7 +3,6 @@ title: ApplicationSettings.UndoLevels property (Visio)
 keywords: vis_sdr.chm16251490
 f1_keywords:
 - vis_sdr.chm16251490
-ms.prod: visio
 api_name:
 - Visio.ApplicationSettings.UndoLevels
 ms.assetid: 5d4ad370-254d-3b99-21d9-2cbdf60842a6

@@ -3,7 +3,6 @@ title: Unable to change Column Level Tracking Property on objects that are alrea
 keywords: jeterr40.chm5003779
 f1_keywords:
 - jeterr40.chm5003779
-ms.prod: access
 ms.assetid: 7ca36ccb-16fe-17b5-d751-b73b0492a433
 ms.date: 06/08/2017
 ms.localizationpriority: medium

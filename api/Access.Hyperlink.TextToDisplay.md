@@ -3,7 +3,6 @@ title: Hyperlink.TextToDisplay property (Access)
 keywords: vbaac10.chm10120
 f1_keywords:
 - vbaac10.chm10120
-ms.prod: access
 api_name:
 - Access.Hyperlink.TextToDisplay
 ms.assetid: 61417274-e124-be4c-1b80-9d4600021326

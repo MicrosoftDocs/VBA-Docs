@@ -3,7 +3,6 @@ title: DoCmd.SingleStep method (Access)
 keywords: vbaac10.chm5766
 f1_keywords:
 - vbaac10.chm5766
-ms.prod: access
 api_name:
 - Access.DoCmd.SingleStep
 ms.assetid: fa355661-9605-9477-15f6-10f0a163ba67

@@ -3,7 +3,6 @@ title: CommandButton.EventProcPrefix property (Access)
 keywords: vbaac10.chm10447
 f1_keywords:
 - vbaac10.chm10447
-ms.prod: access
 api_name:
 - Access.CommandButton.EventProcPrefix
 ms.assetid: 89611b46-0c56-d855-9e4d-d1a301f300ae

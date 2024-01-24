@@ -3,7 +3,7 @@ title: Application.OptionsSchedule method (Project)
 keywords: vbapj.chm644
 f1_keywords:
 - vbapj.chm644
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.OptionsSchedule
 ms.assetid: 24035b34-0364-e830-864a-801150e2668d

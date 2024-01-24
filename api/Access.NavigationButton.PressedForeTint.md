@@ -3,7 +3,6 @@ title: NavigationButton.PressedForeTint property (Access)
 keywords: vbaac10.chm14625
 f1_keywords:
 - vbaac10.chm14625
-ms.prod: access
 api_name:
 - Access.NavigationButton.PressedForeTint
 ms.assetid: 70267cd4-ed42-9533-4cb6-e4338fa38fc1

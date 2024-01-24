@@ -1,6 +1,6 @@
 ---
 title: GroupCriterion2.GroupInterval property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.GroupCriterion2.GroupInterval
 ms.assetid: 89360f92-5c8c-1533-033a-288d0690e9bb

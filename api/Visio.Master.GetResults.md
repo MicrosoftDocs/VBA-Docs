@@ -3,7 +3,6 @@ title: Master.GetResults method (Visio)
 keywords: vis_sdr.chm10716320
 f1_keywords:
 - vis_sdr.chm10716320
-ms.prod: visio
 api_name:
 - Visio.Master.GetResults
 ms.assetid: d532a2ed-2246-8c90-2d77-df2df05a395f

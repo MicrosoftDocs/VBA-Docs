@@ -3,7 +3,6 @@ title: TextBox.ForeTint property (Access)
 keywords: vbaac10.chm14605
 f1_keywords:
 - vbaac10.chm14605
-ms.prod: access
 api_name:
 - Access.TextBox.ForeTint
 ms.assetid: 8229f864-5ed3-309e-ba29-6a45bf9d59a8

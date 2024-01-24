@@ -3,7 +3,7 @@ title: Application.EditPasteAsHyperlink method (Project)
 keywords: vbapj.chm1308
 f1_keywords:
 - vbapj.chm1308
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.EditPasteAsHyperlink
 ms.assetid: 7a2c31dc-43a4-0dc0-2d5c-ee4de18263e4

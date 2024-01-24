@@ -1,6 +1,6 @@
 ---
 title: StartDriver.CalendarDrivers property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.StartDriver.CalendarDrivers
 ms.assetid: 4a75e2ef-f65a-8310-210b-4918a1aea907

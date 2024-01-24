@@ -3,7 +3,7 @@ title: Application.ZoomReport method (Project)
 keywords: vbapj.chm2196
 f1_keywords:
 - vbapj.chm2196
-ms.prod: project-server
+ms.service: project-server
 ms.assetid: 05a0ec6e-1329-2545-df89-5d87af88a454
 ms.date: 06/08/2017
 ms.localizationpriority: medium

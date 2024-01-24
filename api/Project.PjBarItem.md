@@ -1,6 +1,6 @@
 ---
 title: PjBarItem enumeration (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.PjBarItem
 ms.assetid: f00c9e4d-fed3-3de8-e672-fb64e871f0d2

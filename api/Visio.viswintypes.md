@@ -3,7 +3,6 @@ title: VisWinTypes enumeration (Visio)
 keywords: vis_sdr.chm70005
 f1_keywords:
 - vis_sdr.chm70005
-ms.prod: visio
 ms.assetid: 9d5ecb3f-baf8-8d9b-608a-8b9661b04ec9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

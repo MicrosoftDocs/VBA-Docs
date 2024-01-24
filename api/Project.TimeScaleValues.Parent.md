@@ -1,6 +1,6 @@
 ---
 title: TimeScaleValues.Parent property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.TimeScaleValues.Parent
 ms.assetid: 1235dcdf-1cb0-23d3-f943-4e7acf513b40

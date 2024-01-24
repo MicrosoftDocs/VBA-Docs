@@ -3,7 +3,6 @@ title: Document.Company property (Visio)
 keywords: vis_sdr.chm10513285
 f1_keywords:
 - vis_sdr.chm10513285
-ms.prod: visio
 api_name:
 - Visio.Document.Company
 ms.assetid: b55e23dc-3b58-c062-1738-74d2f50fa39d

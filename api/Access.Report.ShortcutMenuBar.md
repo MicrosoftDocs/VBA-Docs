@@ -3,7 +3,6 @@ title: Report.ShortcutMenuBar property (Access)
 keywords: vbaac10.chm13712
 f1_keywords:
 - vbaac10.chm13712
-ms.prod: access
 api_name:
 - Access.Report.ShortcutMenuBar
 ms.assetid: 2773dcb2-b122-6502-66f6-ecd412fb75d0

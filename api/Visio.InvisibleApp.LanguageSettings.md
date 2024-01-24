@@ -3,7 +3,6 @@ title: InvisibleApp.LanguageSettings property (Visio)
 keywords: vis_sdr.chm17560035
 f1_keywords:
 - vis_sdr.chm17560035
-ms.prod: visio
 api_name:
 - Visio.InvisibleApp.LanguageSettings
 ms.assetid: 0aff05cd-7655-0671-9c43-e45988c5a172

@@ -3,7 +3,6 @@ title: TabControl.FontItalic property (Access)
 keywords: vbaac10.chm12093
 f1_keywords:
 - vbaac10.chm12093
-ms.prod: access
 api_name:
 - Access.TabControl.FontItalic
 ms.assetid: 7147f297-b88b-c0b0-94eb-73977c1809ba

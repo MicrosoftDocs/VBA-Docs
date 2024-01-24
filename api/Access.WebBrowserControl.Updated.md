@@ -3,7 +3,6 @@ title: WebBrowserControl.Updated event (Access)
 keywords: vbaac10.chm143123
 f1_keywords:
 - vbaac10.chm143123
-ms.prod: access
 api_name:
 - Access.WebBrowserControl.Updated
 ms.assetid: 844fb989-98a5-6588-77e3-789bb9a7112c

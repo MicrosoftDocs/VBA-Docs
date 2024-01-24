@@ -3,7 +3,6 @@ title: Report.Open event (Access)
 keywords: vbaac10.chm13876
 f1_keywords:
 - vbaac10.chm13876
-ms.prod: access
 api_name:
 - Access.Report.Open
 ms.assetid: d170b67d-3123-6f51-6cf8-38433736f104

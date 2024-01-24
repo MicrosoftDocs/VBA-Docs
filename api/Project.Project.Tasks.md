@@ -1,6 +1,6 @@
 ---
 title: Project.Tasks property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Project.Tasks
 ms.assetid: 08bfaadd-9cce-84a2-0ff3-c4b29d9e18cd

@@ -1,6 +1,6 @@
 ---
 title: OverAllocatedAssignments.Application property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.OverAllocatedAssignments.Application
 ms.assetid: 5b52e3da-1fbb-7f0e-be9e-8bcf0f449378

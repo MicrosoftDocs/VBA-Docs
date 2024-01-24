@@ -3,7 +3,7 @@ title: Application.CalendarLayout method (Project)
 keywords: vbapj.chm2346
 f1_keywords:
 - vbapj.chm2346
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.CalendarLayout
 ms.assetid: c948c118-c50f-493d-ba3a-e43ee0d50fa3

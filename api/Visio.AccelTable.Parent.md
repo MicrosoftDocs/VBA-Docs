@@ -3,7 +3,6 @@ title: AccelTable.Parent property (Visio)
 keywords: vis_sdr.chm14714040
 f1_keywords:
 - vis_sdr.chm14714040
-ms.prod: visio
 api_name:
 - Visio.AccelTable.Parent
 ms.assetid: 45254ae1-86b2-5b5b-e371-7d05a7b00fac

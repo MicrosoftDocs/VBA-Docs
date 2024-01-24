@@ -3,7 +3,7 @@ title: Application.GridlinesEditEx method (Project)
 keywords: vbapj.chm2152
 f1_keywords:
 - vbapj.chm2152
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Application.GridlinesEditEx
 ms.assetid: fad3c4cc-2643-4af1-ca6b-f376b24a97bb

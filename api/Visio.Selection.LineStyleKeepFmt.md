@@ -3,7 +3,6 @@ title: Selection.LineStyleKeepFmt property (Visio)
 keywords: vis_sdr.chm11113850
 f1_keywords:
 - vis_sdr.chm11113850
-ms.prod: visio
 api_name:
 - Visio.Selection.LineStyleKeepFmt
 ms.assetid: 63703d4e-34b6-9b53-c2c1-b7503d0c3986

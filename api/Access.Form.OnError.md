@@ -3,7 +3,6 @@ title: Form.OnError property (Access)
 keywords: vbaac10.chm13458
 f1_keywords:
 - vbaac10.chm13458
-ms.prod: access
 api_name:
 - Access.Form.OnError
 ms.assetid: f89366ad-7d68-cb0f-0b17-c6b4f4eb3f3c

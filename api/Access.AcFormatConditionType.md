@@ -3,7 +3,6 @@ title: AcFormatConditionType enumeration (Access)
 keywords: vbaac10.chm10039
 f1_keywords:
 - vbaac10.chm10039
-ms.prod: access
 api_name:
 - Access.AcFormatConditionType
 ms.assetid: 69fdf7ff-7af5-8489-f78b-372859b515cd

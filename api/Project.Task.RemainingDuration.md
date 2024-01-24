@@ -1,6 +1,6 @@
 ---
 title: Task.RemainingDuration property (Project)
-ms.prod: project-server
+ms.service: project-server
 api_name:
 - Project.Task.RemainingDuration
 ms.assetid: 32d0129e-1f25-016a-b012-419407f17ad1
