@@ -1,7 +1,7 @@
 ---
 title: Excel performance - Improving calculation performance
 description: Discover how to improve workbook performance by focusing on calculation improvements in Excel 2016.
-ms.date: 10/06/2017 
+ms.date: 01/24/2024
 author: FastExcel
 ms.localizationpriority: high
 ---
@@ -27,10 +27,10 @@ Excel has two main calculation modes that let you control when calculation occur
 - **Automatic calculation** - Formulas are automatically recalculated when you make a change.
 
 - **Manual calculation** - Formulas are recalculated only when you request it (for example, by pressing F9).
-    
+
 For calculation times of less than about a tenth of a second, users feel that the system is responding instantly. They can use automatic calculation even when they enter data.
 
-Between a tenth of a second and one second, users can successfully keep a train of thought going, although they will notice the response time delay. 
+Between a tenth of a second and one second, users can successfully keep a train of thought going, although they will notice the response time delay.
   
 As calculation time increases (usually between 1 and 10 seconds), users must switch to manual calculation when they enter data. User errors and annoyance levels start to increase, especially for repetitive tasks, and it becomes difficult to maintain a train of thought.
 
@@ -44,7 +44,7 @@ To improve the calculation performance in Excel, you must understand both the av
 
 The smart recalculation engine in Excel tries to minimize calculation time by continuously tracking both the precedents and dependencies for each formula (the cells referenced by the formula) and any changes that were made since the last calculation. At the next recalculation, Excel recalculates only the following:
 
-- Cells, formulas, values, or names that have changed or are flagged as needing recalculation. 
+- Cells, formulas, values, or names that have changed or are flagged as needing recalculation.
 
 - Cells dependent on other cells, formulas, names, or values that need recalculation.
 
@@ -53,7 +53,7 @@ The smart recalculation engine in Excel tries to minimize calculation time by co
 Excel continues calculating cells that depend on previously calculated cells even if the value of the previously calculated cell does not change when it is calculated.
 
 Because you change only part of the input data or a few formulas between calculations in most cases, this smart recalculation usually takes only a fraction of the time that a full calculation of all the formulas would take.
- 
+
 In manual calculation mode, you can trigger this smart recalculation by pressing F9. You can force a full calculation of all the formulas by pressing Ctrl+Alt+F9, or you can force a complete rebuild of the dependencies and a full calculation by pressing Shift+Ctrl+Alt+F9.
 
 ### Calculation process
@@ -69,8 +69,8 @@ Excel has distinct calculation phases:
 3. Calculate all formulas. As a part of the calculation process, Excel reorders and restructures the calculation chain to optimize future recalculations.
 
 4. Update the visible parts of the Excel windows.
-    
-The third phase executes at each calculation or recalculation. Excel tries to calculate each formula in the calculation chain in turn, but if a formula depends on one or more formulas that have not yet been calculated, the formula is sent down the chain to be calculated again later. This means that a formula can be calculated multiple times per recalculation. 
+
+The third phase executes at each calculation or recalculation. Excel tries to calculate each formula in the calculation chain in turn, but if a formula depends on one or more formulas that have not yet been calculated, the formula is sent down the chain to be calculated again later. This means that a formula can be calculated multiple times per recalculation.
 
 The second time that you calculate a workbook is often significantly faster than the first time. This occurs for several reasons:
 
@@ -92,18 +92,20 @@ Each recalculation and full calculation calculates all the workbooks that are cu
 
 ### Calculate selected worksheets
 
-You can also recalculate only the selected worksheets by using Shift+F9. This does *not* resolve any dependencies between worksheets, and does *not* reset dirty cells as calculated.
+You can also recalculate only the selected worksheets by using **Shift+F9**. This resolves dependencies for the worksheet and resets all previously uncalculated (dirty) cells as calculated.
+
+In previous versions of Excel, the behavior was different and dirty cells were not set as calculated after the calculation completed. If user-defined functions relied on this behavior, these functions should be made volatile instead, as explained in the [Volatile functions](#volatile-functions) section in this article.
 
 ### Calculate a range of cells
 
-Excel also allows for the calculation of a range of cells by using the Visual Basic for Applications (VBA) methods **Range.CalculateRowMajorOrder** and **Range.Calculate**: 
+Excel also allows for the calculation of a range of cells by using the Visual Basic for Applications (VBA) methods **Range.CalculateRowMajorOrder** and **Range.Calculate**:
 
 - **Range.CalculateRowMajorOrder** calculates the range left to right and top to bottom, ignoring all dependencies.
 
 - **Range.Calculate** calculates the range resolving all dependencies within the range.
-    
-Because **CalculateRowMajorOrder** does not resolve any dependencies within the range that is being calculated, it is usually significantly faster than **Range.Calculate**. However, it should be used with care because it may not give the same results as **Range.Calculate**. 
-    
+
+Because **CalculateRowMajorOrder** does not resolve any dependencies within the range that is being calculated, it is usually significantly faster than **Range.Calculate**. However, it should be used with care because it may not give the same results as **Range.Calculate**.
+
 **Range.Calculate** is one of the most useful tools in Excel for performance optimization because you can use it to time and compare the calculation speed of different formulas.
 
 For more information, see [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
@@ -144,16 +146,16 @@ A formula is flagged as uncalculated when it refers to (depends on) a cell or fo
 - It's in an AutoFilter list, and the criteria drop-down list was enabled.
 - It's flagged as uncalculated.
 
-A formula that is flagged as uncalculated is evaluated when the worksheet, workbook, or Excel instance that contains it is calculated or recalculated. 
+A formula that is flagged as uncalculated is evaluated when the worksheet, workbook, or Excel instance that contains it is calculated or recalculated.
 
 The circumstances that cause a defined name to be evaluated differ from those for a formula in a cell:
 
-- A defined name is evaluated every time that a formula that refers to it is evaluated so that using a name in multiple formulas can cause the name to be evaluated multiple times. 
-- Names that are not referred to by any formula are not calculated even by a full calculation. 
+- A defined name is evaluated every time that a formula that refers to it is evaluated so that using a name in multiple formulas can cause the name to be evaluated multiple times.
+- Names that are not referred to by any formula are not calculated even by a full calculation.
 
 ### Data tables
 
-Excel data tables (**Data** tab > **Data Tools** group > **What-If Analysis** > **Data Table**) should not be confused with the table feature (**Home** tab > **Styles** group > **Format as Table**, or, **Insert** tab > **Tables** group > **Table**). Excel data tables do multiple recalculations of the workbook, each driven by the different values in the table. Excel first calculates the workbook normally. For each pair of row and column values, it then substitutes the values, does a single-threaded recalculation, and stores the results in the data table. 
+Excel data tables (**Data** tab > **Data Tools** group > **What-If Analysis** > **Data Table**) should not be confused with the table feature (**Home** tab > **Styles** group > **Format as Table**, or, **Insert** tab > **Tables** group > **Table**). Excel data tables do multiple recalculations of the workbook, each driven by the different values in the table. Excel first calculates the workbook normally. For each pair of row and column values, it then substitutes the values, does a single-threaded recalculation, and stores the results in the data table.
 
 *Data table recalculation always uses only a single processor.*
 
@@ -166,14 +168,14 @@ Excel has a range of options that enable you to control the way it calculates. Y
 *Figure 1. Calculation group on the Formulas tab*
 
 ![Calculation options on the Formulas tab](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig01.jpg)
-    
+
 To see more Excel calculation options, on the **File** tab, click **Options**. In the **Excel Options** dialog box, click the **Formulas** tab.
 
 *Figure 2. Calculation options on the Formulas tab in Excel Options*
 
 ![Calculation options in backstage view](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig02.jpg)
 
-Many calculation options (**Automatic**, **Automatic except for data tables**, **Manual**, **Recalculate workbook before saving**) and the iteration settings (**Enable iterative calculation**, **Maximum Iterations**, **Maximum Change**) operate at the application level instead of at the workbook level (they are the same for all open workbooks). 
+Many calculation options (**Automatic**, **Automatic except for data tables**, **Manual**, **Recalculate workbook before saving**) and the iteration settings (**Enable iterative calculation**, **Maximum Iterations**, **Maximum Change**) operate at the application level instead of at the workbook level (they are the same for all open workbooks).
 
 To find advanced calculation options, on the **File** tab, click **Options**. In the **Excel Options** dialog box, click **Advanced**. Under the **Formulas** section, set calculation options.
 
@@ -192,20 +194,20 @@ You might notice this calculation when you open a workbook in a later version of
 ### Manual calculation
 
 Manual calculation mode means that Excel recalculates all open workbooks only when you request it by pressing F9 or Ctrl+Alt+F9, or when you save a workbook. For workbooks that take more than a fraction of a second to recalculate, you must set calculation to manual mode to avoid a delay when you make changes.
- 
-Excel tells you when a workbook in manual mode needs recalculation by displaying **Calculate** in the status bar. The status bar also displays **Calculate** if your workbook contains circular references and the iteration option is selected. 
+
+Excel tells you when a workbook in manual mode needs recalculation by displaying **Calculate** in the status bar. The status bar also displays **Calculate** if your workbook contains circular references and the iteration option is selected.
 
 ### Iteration settings
 
 If you have intentional circular references in your workbook, the iteration settings enable you to control the maximum number of times the workbook is recalculated (iterations) and the convergence criteria (maximum change: when to stop). Clear the iteration box so that if you have accidental circular references, Excel will warn you and will not try to solve them.
-    
+
 ### Workbook ForceFullCalculation property
 
 When you set this workbook property to True, Excel's Smart Recalculation is turned off and every recalculation recalculates all the formulas in all the open workbooks. For some complex workbooks, the time taken to build and maintain the dependency trees needed for Smart Recalculation is larger than the time saved by Smart Recalculation.
 
 If your workbook takes an excessively long time to open, or making small changes takes a long time even in manual calculation mode, it may be worth trying ForceFullCalculation.
 
-**Calculate** will appear in the status bar if the workbook **ForceFullCalculation** property has been set to True. 
+**Calculate** will appear in the status bar if the workbook **ForceFullCalculation** property has been set to True.
 
 You can control this setting using the **VBE** (Alt+F11), selecting **ThisWorkbook** in the **Project Explorer** (Ctrl+R) and showing the **Properties Window** (F4).
 
@@ -219,21 +221,21 @@ Use the following steps and methods to make your workbooks calculate faster.
 
 ### Processor speed and multiple cores
 
-For most versions of Excel, a faster processor will, of course, enable faster Excel calculation. The multithreaded calculation engine introduced in Excel 2007 enables Excel to make excellent use of multiprocessor systems, and you can expect significant performance gains with most workbooks. 
+For most versions of Excel, a faster processor will, of course, enable faster Excel calculation. The multithreaded calculation engine introduced in Excel 2007 enables Excel to make excellent use of multiprocessor systems, and you can expect significant performance gains with most workbooks.
   
 For most large workbooks, the calculation performance gains from multiple processors scale almost linearly with the number of physical processors. However, hyper-threading of physical processors only produces a small performance gain.
-    
+
 For more information, see [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
 
 ### RAM
 
 Paging to a virtual-memory paging file is slow. You must have enough physical RAM for the operating system, Excel, and your workbooks. If you have more than occasional hard disk activity during calculation, and you are not running user-defined functions that trigger disk activity, you need more RAM.
 
-As mentioned, recent versions of Excel can make effective use of large amounts of memory, and the 32-bit version of Excel 2007 and Excel 2010 can handle a single workbook or a combination of workbooks using up to 2 GB of memory. 
+As mentioned, recent versions of Excel can make effective use of large amounts of memory, and the 32-bit version of Excel 2007 and Excel 2010 can handle a single workbook or a combination of workbooks using up to 2 GB of memory.
 
 The 32-bit versions of Excel 2013 and Excel 2016 that use the Large Address Aware (LAA) feature can use up to 3 or 4 GB of  memory, depending on the version of Windows installed. The 64-bit version of Excel can handle larger workbooks. For more information, see the "Large data sets, LAA, and 64-bit Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
 
-A rough guideline for efficient calculation is to have enough RAM to hold the largest set of workbooks that you need to have open at the same time, plus 1 to 2 GB for Excel and the operating system, plus additional RAM for any other running applications. 
+A rough guideline for efficient calculation is to have enough RAM to hold the largest set of workbooks that you need to have open at the same time, plus 1 to 2 GB for Excel and the operating system, plus additional RAM for any other running applications.
 
 ### Measuring calculation time
 
@@ -246,11 +248,12 @@ For more information about how the Visual Basic Editor can significantly affect 
     Private Declare PtrSafe Function getFrequency Lib "kernel32" Alias _
         "QueryPerformanceFrequency" (cyFrequency As Currency) As Long
     Private Declare PtrSafe Function getTickCount Lib "kernel32" Alias _
-         "QueryPerformanceCounter" (cyTickCount As Currency) As Long
+        "QueryPerformanceCounter" (cyTickCount As Currency) As Long
 #Else
-    Private Declare Function getFrequency Lib "kernel32" Alias _                                         	"QueryPerformanceFrequency" (cyFrequency As Currency) As Long
+    Private Declare Function getFrequency Lib "kernel32" Alias _
+        "QueryPerformanceFrequency" (cyFrequency As Currency) As Long
     Private Declare Function getTickCount Lib "kernel32" Alias _
-    	"QueryPerformanceCounter" (cyTickCount As Currency) As Long
+        "QueryPerformanceCounter" (cyTickCount As Currency) As Long
 #End If
 Function MicroTimer() As Double
 '
@@ -276,8 +279,8 @@ To measure calculation time, you must call the appropriate calculation method. T
 
 Copy all these subroutines and functions into a standard VBA module. To open the VBA editor, press Alt+F11. On the **Insert** menu, select **Module**, and then copy the code into the module.
 
-
 ```vb
+
 Sub RangeTimer()
     DoCalcTimer 1
 End Sub
@@ -401,7 +404,7 @@ To run the subroutines in Excel, press Alt+F8. Select the subroutine you want, a
 *Figure 5. The Excel Macro window showing the calculation timers*
 
 ![Excel macro window](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig05.jpg)
- 
+
 ## Finding and prioritizing calculation obstructions
 
 Most slow-calculating workbooks have only a few problem areas or obstructions that consume most of the calculation time. If you don't already know where they are, use the drill-down approach outlined in this section to find them. If you do know where they are, you must measure the calculation time that is used by each obstruction so that you can prioritize your work to remove them.
@@ -409,7 +412,7 @@ Most slow-calculating workbooks have only a few problem areas or obstructions th
 ### Drill-down approach to finding obstructions
 
 The drill-down approach starts by timing the calculation of the workbook, the calculation of each worksheet, and the blocks of formulas on slow-calculating sheets. Do each step in order and note the calculation times.
- 
+
 #### To find obstructions using the drill-down approach
 
 1. Ensure that you have only one workbook open and no other tasks are running.
@@ -420,34 +423,34 @@ The drill-down approach starts by timing the calculation of the workbook, the ca
 
 4. Open the workbook that contains the Calculation Timers macros, or add them to the workbook.
 
-5. Check the used range by pressing Ctrl+End on each worksheet in turn. 
-    
+5. Check the used range by pressing Ctrl+End on each worksheet in turn.
+
     This shows where the last used cell is. If this is beyond where you expect it to be, consider deleting the excess columns and rows and saving the workbook. For more information, see the "Minimizing the used range" section in [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md).
   
 6. Run the **FullCalcTimer** macro.
-    
+
     The time to calculate all the formulas in the workbook is usually the worst-case time.
-    
+
 7. Run the **RecalcTimer** macro.
-    
+
     A recalculation immediately after a full calculation usually gives you the best-case time.
-    
-8. Calculate workbook volatility as the ratio of recalculation time to full calculation time. 
-    
+
+8. Calculate workbook volatility as the ratio of recalculation time to full calculation time.
+
     This measures the extent to which volatile formulas and the evaluation of the calculation chain are obstructions.
-    
+
 9. Activate each sheet and run the **SheetTimer** macro in turn.
-    
+
     Because you just recalculated the workbook, this gives you the recalculate time for each worksheet. This should enable you to determine which ones are the problem worksheets.
-    
+
 10. Run the **RangeTimer** macro on selected blocks of formulas.
-    
+
 11. For each problem worksheet, divide the columns or rows into a small number of blocks.
-    
+
 12. Select each block in turn, and then run the **RangeTimer** macro on the block.
-    
+
 13. If necessary, drill down further by subdividing each block into a smaller number of blocks.
-    
+
 14. Prioritize the obstructions.
 
 ### Speeding up calculations and reducing obstructions
@@ -464,7 +467,7 @@ Look for duplicated, repeated, and unnecessary calculations, and figure out appr
 
 Usually this involves one or more of the following steps:
 
-- Reduce the number of references in each formula. 
+- Reduce the number of references in each formula.
 
 - Move the repeated calculations to one or more helper cells, and then reference the helper cells from the original formulas.
 
@@ -472,16 +475,16 @@ Usually this involves one or more of the following steps:
 
 #### Second rule: Use the most efficient function possible
 
-When you find an obstruction that involves a function or array formulas, determine whether there is a more efficient way to achieve the same result. For example: 
+When you find an obstruction that involves a function or array formulas, determine whether there is a more efficient way to achieve the same result. For example:
 
 - Lookups on sorted data can be tens or hundreds of times more efficient than lookups on unsorted data.
-     
+
 - VBA user-defined functions are usually slower than the built-in functions in Excel (although carefully written VBA functions can be fast).
-    
+
 - Minimize the number of used cells in functions like **SUM** and **SUMIF**. Calculation time is proportional to the number of used cells (unused cells are ignored).
-    
+
 - Consider replacing slow array formulas with user-defined functions.
-    
+
 #### Third rule: Make good use of smart recalculation and multithreaded calculation
 
 The better use you make of smart recalculation and multithreaded calculation in Excel, the less processing has to be done every time that Excel recalculates, so:
@@ -489,9 +492,9 @@ The better use you make of smart recalculation and multithreaded calculation in 
 - Avoid volatile functions such as **INDIRECT** and **OFFSET** where you can, unless they are significantly more efficient than the alternatives. (Well-designed use of **OFFSET** is often fast.)  
   
 - Minimize the size of the ranges that you are using in array formulas and functions.
-    
+
 - Break array formulas and mega-formulas out into separate helper columns and rows.
-    
+
 - Avoid single-threaded functions:
 
   - PHONETIC
@@ -523,7 +526,7 @@ Some of the changes that you make might surprise you, either by not giving the a
 
 3. Time the changed formula by using the **RangeTimer** macro.
 
-4. Check that the changed formula still gives the correct answer. 
+4. Check that the changed formula still gives the correct answer.
 
 ### Rule examples
 
@@ -543,7 +546,7 @@ You could write the formula using **SUM**, which is an efficient function.
 *Figure 6. Example of period-to-date SUM formulas*
 
 ![Period to date SUM formula example](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig06.jpg)
-   
+
 Copy the formula down to B2000.
 
 How many cell references are added up by **SUM** in total? B1 refers to one cell, and B2000 refers to 2,000 cells. The average is 1,000 references per cell, so the total number of references is 2 million. Selecting the 2,000 formulas and using the **RangeTimer** macro shows you that the 2,000 formulas in column B calculate in 80 milliseconds. Most of these calculations are duplicated many times: **SUM** adds A1 to A2 in each formula from B2:B2000.
@@ -556,8 +559,8 @@ You can eliminate this duplication if you write the formulas as follows.
 ```
 
 Copy this formula down to C2000.
-   
-Now how many cell references are added up in total? Each formula, except the first formula, uses two cell references. Therefore, the total is 1999*2+1=3999. This is a factor of 500 fewer cell references. 
+
+Now how many cell references are added up in total? Each formula, except the first formula, uses two cell references. Therefore, the total is 1999*2+1=3999. This is a factor of 500 fewer cell references.
 
  **RangeTimer** indicates that the 2,000 formulas in column C calculate in 3.7 milliseconds compared to the 80 milliseconds for column B. This change has a performance improvement factor of only 80/3.7=22 instead of 500 because there is a small overhead per formula.
 
@@ -566,23 +569,23 @@ Now how many cell references are added up in total? Each formula, except the fir
 If you have a calculation-intensive formula where you want the result to be shown as zero if there is an error (this frequently occurs with exact match lookups), you can write this in several ways.
 
 - You can write it as a single formula, which is slow:
-    
+
     `B1=IF(ISERROR(time expensive formula),0,time expensive formula)`
 
 - You can write it as two formulas, which is fast:
-    
+
     `A1=time expensive formula`
-    
+
     `B1=IF(ISERROR(A1),0,A1)`
 
 - Or you can use the **IFERROR** function, which is designed to be fast and simple, and is a single formula:
-    
+
     `B1=IFERROR(time expensive formula,0)`
 
 #### Dynamic count unique
 
 *Figure 7. Example list of data for count unique*
- 
+
 ![Count unique data example](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig07.jpg)
 
 If you have a list of 11,000 rows of data in column A, which frequently changes, and you need a formula that dynamically calculates the number of unique items in the list, ignoring blanks, following are several possible solutions.
@@ -625,7 +628,7 @@ If you have a list of 11,000 rows of data in column A, which frequently changes,
     End Function
     ```
 
-- **Adding a column of formulas**. If you look at the previous sample of the data, you can see that it is sorted (Excel takes 0.5 seconds to sort the 11,000 rows). You can exploit this by adding a column of formulas that checks if the data in this row is the same as the data in the previous row. If it is different, the formula returns 1. Otherwise, it returns 0. 
+- **Adding a column of formulas**. If you look at the previous sample of the data, you can see that it is sorted (Excel takes 0.5 seconds to sort the 11,000 rows). You can exploit this by adding a column of formulas that checks if the data in this row is the same as the data in the previous row. If it is different, the formula returns 1. Otherwise, it returns 0.
 
     Add this formula to cell B2.
 
@@ -649,8 +652,8 @@ By using a straightforward set of techniques, you can speed up most slow-calcula
 
 ## See also
 
--  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)      
--  [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)    
--  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
+- [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)
+- [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)
+- [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
