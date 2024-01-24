@@ -1,7 +1,7 @@
 ---
 title: Excel performance - Performance and limit improvements
 description: Find out about performance improvements in Excel 2016 and Excel 2010. 
-ms.date: 08/06/2020
+ms.date: 01/24/2024
 author: FastExcel
 ms.localizationpriority: high
 ---
@@ -14,7 +14,7 @@ Excel M365 introduces new features that you can use to improve performance when 
 
 ## SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, MINIFS Improvements
 
-In Office 365 version 2005 monthly channel and later, Excel's SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS as well as their singular counterparts SUMIF, AVERAGEIF, and COUNTIF are much faster than Excel 2010 aggregating string data in the spreadsheet. These functions now create an internal cached index for the range being searched in each expression. This cached index is reused in any subsequent aggregations that are pulling from the same range. 
+In Office 365 version 2005 monthly channel and later, Excel's SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS as well as their singular counterparts SUMIF, AVERAGEIF, and COUNTIF are much faster than Excel 2010 aggregating string data in the spreadsheet. These functions now create an internal cached index for the range being searched in each expression. This cached index is reused in any subsequent aggregations that are pulling from the same range.
 
 The effect is dramatic: For example calculating 1200 SUMIFS, AVERAGEIFS, and COUNTIFS formulas aggregating data from 1 million cells on a 4 core 2 GHz CPU that took 20 seconds to calculate using Excel 2010, now takes 8 seconds only, on Excel M365 2006.
 
@@ -26,7 +26,7 @@ For example simulating 125,000 RTD updates for stock topics like "Last Price", "
 
 Another positive effect of making RTD function thread-safe, is that [Multithreaded recalculation (MTR)](/office/client-developer/excel/multithreaded-recalculation-in-excel) doesn't need to be paused to run RTD function anymore. This improves performance noticeably when running RTD along with lots of other calculations.  
 
-For example, we ran a workbook with 10,000 RTD and 10,000 VLOOKUP functions, with each VLOOKUP depending on an RTD function result. Without thread-safe RTD full recalcuation  took 10.20 seconds and with thread-safe RTD it took 5.84 seconds. 
+For example, we ran a workbook with 10,000 RTD and 10,000 VLOOKUP functions, with each VLOOKUP depending on an RTD function result. Without thread-safe RTD full recalcuation  took 10.20 seconds and with thread-safe RTD it took 5.84 seconds.
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 
@@ -35,6 +35,7 @@ In Office 365 version 1809 and later, Excel's VLOOKUP, HLOOKUP, and MATCH for ex
 These lookup functions now create an internal cached index for the column range being searched. This cached index is reused in any subsequent lookups that are pulling from the same row (VLOOKUP and MATCH) or column (HLOOKUP). The effect is dramatic: lookups on 5 different columns in the same table range can be up to 4 times faster than the same lookups using Excel 2010 or Excel 2016, and the improvement is larger as more columns are looked up.
 
 *For example calculating 100 rows of these 5 VLOOKUP formulas took 37 seconds to calculate using Excel 2010 and only 12 seconds using Excel 2016.*
+
 ```excel
     =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
@@ -42,6 +43,7 @@ These lookup functions now create an internal cached index for the column range 
     =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
     =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
 ```
+
 ## LAA memory improvement for 32-bit Excel
 
 Although the 64-bit version of Excel has large virtual memory limits, the 32-bit version has only 2 GBs of virtual memory. Some customers use the 32-bit version because some third-party add-ins and controls are not available in the 64-bit version.
@@ -56,10 +58,10 @@ To download a tool that shows how much virtual memory is available and how much 
 
 ## Full column references
 
-In earlier versions of Excel, workbooks using large numbers of full column references and multiple worksheets (for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`) might use large amounts of memory and CPU when opened or when rows were deleted. 
+In earlier versions of Excel, workbooks using large numbers of full column references and multiple worksheets (for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`) might use large amounts of memory and CPU when opened or when rows were deleted.
 
 Excel 2016 Build 16.0.8212.1000 reduces the memory and CPU used in these circumstances.
- 
+
 *In a sample test on a workbook with 6 million formulas, using full column references failed with an out-of-memory message at 4 GB of virtual memory with Excel 2013 LAA and with Excel 2010, but only used 2 GB of virtual memory with Excel 2016*.
 
 ## Structured references
@@ -72,13 +74,14 @@ In Excel 2013 and earlier versions, editing tables where formulas in the workboo
 
 We've made a number of improvements to the response time when filtering, sorting, and copy/pasting in large workbooks.
 
-In Excel 2013, after filtering, sorting, or copy/pasting many rows, Excel could be slow responding or would hang. Performance was dependent on the count of all rows between the top visible row and the bottom visible row. These operations are much faster after we improved the internal calculation of vertical user interface positions in Build 16.0.8431.2058. 
+In Excel 2013, after filtering, sorting, or copy/pasting many rows, Excel could be slow responding or would hang. Performance was dependent on the count of all rows between the top visible row and the bottom visible row. These operations are much faster after we improved the internal calculation of vertical user interface positions in Build 16.0.8431.2058.
 
 Opening a workbook with many filtered or hidden rows, merged cells, or outlines could cause high CPU load. We introduced a fix in this area in Build 16.0.8229.1000.
 
 After pasting a copied column of cells from a table with filtered rows where the filter resulted in a large number of separate blocks of rows, the response time was very slow. This has been improved in Build 16.0.8327.1000.
 
 *A sample test on copy/pasting 22,000 rows filtered from 44,000 rows showed a dramatic improvement:*
+
 - *For a table, the time went from 39 seconds in Excel 2013 and 18 seconds in Excel 2010 to 2 seconds in Excel 2016.*
 - *For a range, the time went from 30 seconds in Excel 2013 and 13 seconds in Excel 2010 to instantaneous in Excel 2016.*
 
@@ -87,6 +90,7 @@ After pasting a copied column of cells from a table with filtered rows where the
 In Excel 2013, copy/pasting cells containing conditional formats could be slow. This has been significantly improved in Excel 2016 Build 16.0.8229.0.
 
 *A sample test on copying 44,000 cells with a total of 386,000 conditional format rules showed a substantial improvement:*
+
 - *Excel 2010: 70 seconds*
 - *Excel 2013: 68 seconds*
 - *Excel 2016: 7 seconds*
@@ -106,7 +110,6 @@ Excel 2016 Build 16.0.7920.1000 introduces several useful worksheet functions:
 
 For more details about the month-by-month improvements to Excel 2016, see [What's new in Excel 2016 for Windows](https://support.office.com/article/what-s-new-in-excel-for-office-365-5fdb9208-ff33-45b6-9e08-1f5cdb3a6c73?ui=en-US&rs=en-US&ad=US).
 
-
 ## Excel 2010 performance improvements
 
 Based on user feedback about Excel 2007, Excel 2010 introduces improvements to several features.
@@ -119,18 +122,19 @@ Based on user feedback about Excel 2007, Excel 2010 introduces improvements to s
 
 ### Large data sets and the 64-bit version of Excel
 
-The 64-bit version of Excel 2010 is not constrained to 2 GB of RAM like the 32-bit version applications nor upto 4 GB of RAM like the Large Address Aware 32-bit version applications. Therefore, the 64-bit version of Excel 2010 enables users to create much larger workbooks. The 64-bit version of Windows enables a larger addressable memory capacity, and Excel is designed to take advantage of that capacity. For example, users are able to fill more of the grid with data than was possible in previous versions of Excel. As more RAM is added to the computer, Excel uses that additional memory, allows larger and larger workbooks, and scales with the amount of RAM available.
+The 64-bit version of Excel 2010 is not constrained to 2 GB of RAM like the 32-bit version applications nor up to 4 GB of RAM like the Large Address Aware 32-bit version applications. Therefore, the 64-bit version of Excel 2010 enables users to create much larger workbooks. The 64-bit version of Windows enables a larger addressable memory capacity, and Excel is designed to take advantage of that capacity. For example, users are able to fill more of the grid with data than was possible in previous versions of Excel. As more RAM is added to the computer, Excel uses that additional memory, allows larger and larger workbooks, and scales with the amount of RAM available.
 
-In addition, because the 64-bit version of Excel enables larger data sets, both the 32-bit and 64-bit versions of Excel 2010 introduce improvements to common large data set tasks such as entering and filling down data, sorting, filtering, and copying and pasting data. Memory usage is also optimized to be more efficient in both the 32-bit and 64-bit versions of Excel. 
+In addition, because the 64-bit version of Excel enables larger data sets, both the 32-bit and 64-bit versions of Excel 2010 introduce improvements to common large data set tasks such as entering and filling down data, sorting, filtering, and copying and pasting data. Memory usage is also optimized to be more efficient in both the 32-bit and 64-bit versions of Excel.
 
 For more information about the 64-bit version of Office 2010, see [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](../../../api/overview/Excel.md) and for choosing between 64-bit and 32-bit, see [Choose between the 64-bit or 32-bit version of Office](https://support.office.com/article/Choose-between-the-64-bit-or-32-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#32or64Bit&32or64Bit).
 
 ### Shapes
+
 <a name="Shapes"> </a>
 
-Excel 2010 introduces significant improvements in the performance of graphics in Excel. At a high level, these improvements are in two areas: scalability and rendering. 
+Excel 2010 introduces significant improvements in the performance of graphics in Excel. At a high level, these improvements are in two areas: scalability and rendering.
 
-The scalability improvements have a large impact in Excel scenarios because of the large number of graphics contained on worksheets. Often, this large number of shapes is created accidentally by copying and pasting data from a website, or by commonly run automation that creates shapes, but never removes them. This large number of graphics, combined with the way that graphics relate to the data grid in Excel, presents several unique performance challenges. Improvements in Excel 2010 increase the performance speed for worksheets that contain many shapes. 
+The scalability improvements have a large impact in Excel scenarios because of the large number of graphics contained on worksheets. Often, this large number of shapes is created accidentally by copying and pasting data from a website, or by commonly run automation that creates shapes, but never removes them. This large number of graphics, combined with the way that graphics relate to the data grid in Excel, presents several unique performance challenges. Improvements in Excel 2010 increase the performance speed for worksheets that contain many shapes.
 
 In addition, starting in Excel 2010, support for hardware acceleration improves rendering. Excel 2010 also introduces performance improvements to the **Select** method of the **Shape** object in the VBA object model.
 
@@ -141,17 +145,16 @@ In addition, starting in Excel 2010, support for hardware acceleration improves 
 |**Big Grid** <br/> |Starting in Excel 2007, the size of the grid expanded from 65,000 rows to over one million rows. This increase caused some performance and rendering issues when working with graphics objects in the new regions of the larger grid. Starting in Excel 2010, Excel optimizes functionality that relies on using the top left of the grid as the origin to improve the experience of working with graphics in the new regions of the grid. Rendering fidelity and performance are improved relative to Excel 2007.  <br/> |
 |**Rendering: Hardware acceleration** <br/> |Starting in Excel 2010, improvements were made to the graphics platform by adding support for hardware acceleration when rendering 3-D objects. While the GPU can render these objects faster than the CPU, the experience in Excel 2010 depends on the content on your worksheet. If you have a sheet full of 3-D shapes, you'll see more benefit from the hardware acceleration improvements than on a worksheet with only 2-D shapes (which don't leverage the GPU).  <br/> |
 
- 
 ### Calculation improvements
 
-Starting in Excel 2007, multithreaded calculation improved calculation performance. 
+Starting in Excel 2007, multithreaded calculation improved calculation performance.
 
 Starting in Excel 2010, additional performance improvements were made to further increase calculation speed. Excel 2010 can call user-defined functions asynchronously. Calling functions asynchronously improves performance by allowing several calculations to run at the same time. When you run user-defined functions on a compute cluster, calling functions asynchronously enables several computers to be used to complete the calculations. For more information, see [Asynchronous User-Defined Functions](../../../api/overview/Excel.md).
 
 ### Multi-core processing
 
 Excel 2010 made additional investments to take advantage of multi-core processors and increase performance for routine tasks. Starting in Excel 2010, the following features use multi-core processors: saving a file, opening a file, refreshing a PivotTable (for external data sources, except OLAP and SharePoint), sorting a cell table, sorting a PivotTable, and auto-sizing a column.
- 
+
 For operations that involve reading and loading or writing data, such as opening a file, saving a file, or refreshing data, splitting the operation into two processes increases performance speed. The first process gets the data, and the second process loads the data into the appropriate structure in memory or writes the data to a file. In this way, as soon as the first process begins reading a portion of data, the second process can immediately start loading or writing that data, while the first process continues to read the next portion of data. Previously, the first process had to finish reading all the data in a certain section before the second process could load that section of the data into memory or write the data to a file.
 
 ### PowerPivot
@@ -165,21 +168,22 @@ For more information about PowerPivot, see  [PowerPivot Overview](../../../api/o
 ### HPC Services for Excel 2010
 
 With a wealth of statistical analysis functions, support for constructing complex analyses, and broad extensibility, Excel 2010 is the tool of choice for analyzing business data. As models grow larger and workbooks become more complex, the value of the information generated increases. However, more complex workbooks also require more time to calculate. For complex analyses, it is common for users to spend hours, days, or even weeks completing such complex workbooks.
- 
-One solution is to use Windows HPC Server 2008 to scale out Excel calculations across multiple nodes in a Windows high-performance computing (HPC) cluster in parallel. There are three methods for running Excel 2010 calculations in a Windows HPC Server 2008 based cluster: running Excel workbooks in a cluster, running Excel user-defined functions (UDFs) in a cluster, and using Excel as a cluster service-oriented architecture (SOA) client. 
+
+One solution is to use Windows HPC Server 2008 to scale out Excel calculations across multiple nodes in a Windows high-performance computing (HPC) cluster in parallel. There are three methods for running Excel 2010 calculations in a Windows HPC Server 2008 based cluster: running Excel workbooks in a cluster, running Excel user-defined functions (UDFs) in a cluster, and using Excel as a cluster service-oriented architecture (SOA) client.
 
 For more information about HPC Services for Excel 2010, see [Accelerating Excel 2010 with Windows HPC Server 2008 R2](https://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=a48ac6fe-7ea0-4314-97c7-d6875bc895c5).
 
 ## Conclusion
+
 <a name="office2016excelperf_Conclusion"> </a>
 
 Excel 2016 introduces performance and limitation improvements focused on increasing Excel's ability to efficiently handle large and complex workbooks. These improvements allow Excel to scale along with hardware, improving performance as the CPU and RAM capacity of computers expand.
 
 ## See also
 
-- [Excel performance: Improving calculation performance](excel-improving-calculation-performance.md)   
-- [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
-- [Excel Developer Portal](https://developer.microsoft.com/excel)   
+- [Excel performance: Improving calculation performance](excel-improving-calculation-performance.md)
+- [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)
+- [Excel Developer Portal](https://developer.microsoft.com/excel)
 - [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://insider.office.com/join?redirectSourcePath=%252farticle%252fChanges-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
