@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.Copy method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.Copy
 ms.assetid: 4314de01-8a25-0ab4-582f-7a61f62f8a18

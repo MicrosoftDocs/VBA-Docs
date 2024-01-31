@@ -3,7 +3,6 @@ title: SignatureSetup.AllowComments property (Office)
 keywords: vbaof11.chm285008
 f1_keywords:
 - vbaof11.chm285008
-ms.prod: office
 api_name:
 - Office.SignatureSetup.AllowComments
 ms.assetid: 18e47357-7f3f-98d9-54fd-97ac81bfbde6

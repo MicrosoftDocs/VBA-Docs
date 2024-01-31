@@ -3,7 +3,7 @@ title: ViewCombination Object, Project [vbapj.chm131342]
 keywords: vbapj.chm131342
 f1_keywords:
 - vbapj.chm131342
-ms.prod: office
+ms.service: office
 ms.assetid: e0b41b0f-800e-49b0-9e97-a479655c1c70
 ms.date: 06/08/2017
 ms.localizationpriority: medium

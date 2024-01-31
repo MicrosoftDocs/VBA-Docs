@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Visible property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Visible
 ms.assetid: d3fa2bfe-10ea-70d7-40f9-bf757fff6e27

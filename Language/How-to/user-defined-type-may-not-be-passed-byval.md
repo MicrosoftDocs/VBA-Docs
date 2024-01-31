@@ -3,7 +3,6 @@ title: User-defined type may not be passed ByVal (VBA)
 keywords: vblr6.chm1040140
 f1_keywords:
 - vblr6.chm1040140
-ms.prod: office
 ms.assetid: 1fbfeef6-b92d-03ca-aeec-4cf4c0d8d972
 ms.date: 12/27/2018
 ms.localizationpriority: medium

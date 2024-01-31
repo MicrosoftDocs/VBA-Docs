@@ -1,6 +1,5 @@
 ---
 title: TextRange2.ParagraphFormat property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.ParagraphFormat
 ms.assetid: 68818c1a-9503-4f3f-77e1-28ac6b049c3b

@@ -1,6 +1,5 @@
 ---
 title: SharedWorkspaceFiles.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles.Creator
 ms.assetid: e5d5aff6-e658-daff-da59-c7e74b727eba

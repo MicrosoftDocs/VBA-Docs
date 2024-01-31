@@ -3,7 +3,6 @@ title: DocumentLibraryVersions.IsVersioningEnabled property (Office)
 keywords: vbaof11.chm277030
 f1_keywords:
 - vbaof11.chm277030
-ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions.IsVersioningEnabled
 ms.assetid: 8f3035d5-9720-f87c-3b74-ef37f61b28bc

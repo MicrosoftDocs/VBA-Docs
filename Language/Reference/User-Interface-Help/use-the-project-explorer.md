@@ -3,7 +3,6 @@ title: Use the Project Explorer (VBA)
 keywords: vbhw6.chm1107718
 f1_keywords:
 - vbhw6.chm1107718
-ms.prod: office
 ms.assetid: 3033b704-db2b-1a2b-fce3-b273707a0bbd
 ms.date: 12/27/2018
 ms.localizationpriority: medium

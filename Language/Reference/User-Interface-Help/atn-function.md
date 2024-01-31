@@ -3,7 +3,6 @@ title: Atn function (Visual Basic for Applications)
 keywords: vblr6.chm1008860
 f1_keywords:
 - vblr6.chm1008860
-ms.prod: office
 ms.assetid: ab5272cf-b372-8665-28c6-ee0318aa9bac
 ms.date: 12/11/2018
 ms.localizationpriority: medium

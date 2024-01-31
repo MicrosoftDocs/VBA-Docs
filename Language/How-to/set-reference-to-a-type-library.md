@@ -3,7 +3,6 @@ title: Set reference to a type library (VBA)
 keywords: vbhw6.chm1105230
 f1_keywords:
 - vbhw6.chm1105230
-ms.prod: office
 ms.assetid: 5b695bf5-5ab3-977e-b037-13aea3097b9c
 ms.date: 12/27/2018
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: PickerField members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 8d64bb41-6d02-056a-2a76-f86d6713e584
 ms.date: 01/30/2019
 ms.localizationpriority: medium

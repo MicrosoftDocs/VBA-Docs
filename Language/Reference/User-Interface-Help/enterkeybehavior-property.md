@@ -3,7 +3,6 @@ title: EnterKeyBehavior property
 keywords: fm20.chm5225037
 f1_keywords:
 - fm20.chm5225037
-ms.prod: office
 api_name:
 - Office.EnterKeyBehavior
 ms.assetid: 720a6b10-f021-e623-7f63-f52081bcafd1

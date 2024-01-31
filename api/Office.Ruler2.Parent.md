@@ -1,6 +1,5 @@
 ---
 title: Ruler2.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.Ruler2.Parent
 ms.assetid: d4ca107d-c71f-fc80-96b4-b33d28d658f6

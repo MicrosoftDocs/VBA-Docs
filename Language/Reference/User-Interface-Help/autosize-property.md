@@ -3,7 +3,6 @@ title: AutoSize property
 keywords: fm20.chm5225003
 f1_keywords:
 - fm20.chm5225003
-ms.prod: office
 api_name:
 - Office.AutoSize
 ms.assetid: 581fd371-1ab4-78fd-1f04-e775bc576125

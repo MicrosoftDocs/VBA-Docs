@@ -3,7 +3,6 @@ title: SharedWorkspaceTask.Save method (Office)
 keywords: vbaof11.chm2640011
 f1_keywords:
 - vbaof11.chm2640011
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Save
 ms.assetid: ebddddd5-f42d-5790-7bca-693554982edc

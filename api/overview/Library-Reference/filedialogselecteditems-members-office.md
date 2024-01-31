@@ -1,6 +1,6 @@
 ---
 title: FileDialogSelectedItems members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: de8a51f1-0860-5b32-4795-3269ee64c3a5
 ms.date: 01/30/2019
 ms.localizationpriority: medium

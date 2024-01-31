@@ -3,7 +3,6 @@ title: Value property example
 keywords: fm20.chm5225132
 f1_keywords:
 - fm20.chm5225132
-ms.prod: office
 ms.assetid: 7d98bbfa-9f19-b554-b327-554b12508b70
 ms.date: 11/14/2018
 ms.localizationpriority: medium

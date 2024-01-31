@@ -3,7 +3,6 @@ title: FileTypes.Count property (Office)
 keywords: vbaof11.chm257002
 f1_keywords:
 - vbaof11.chm257002
-ms.prod: office
 api_name:
 - Office.FileTypes.Count
 ms.assetid: e286f224-9186-6198-717e-30604829287c

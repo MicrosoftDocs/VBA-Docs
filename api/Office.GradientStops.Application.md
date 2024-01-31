@@ -1,6 +1,5 @@
 ---
 title: GradientStops.Application property (Office)
-ms.prod: office
 api_name:
 - Office.GradientStops.Application
 ms.assetid: f4c9ca0c-9796-8290-438f-8ce0a174cb18

@@ -1,6 +1,6 @@
 ---
 title: CommandBarPopup members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 8ec16deb-bb74-2871-d837-f706c7a58f2b
 ms.date: 01/30/2019
 ms.localizationpriority: medium

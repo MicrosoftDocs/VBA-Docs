@@ -3,7 +3,6 @@ title: Things you can do with control groups
 keywords: fm20.chm5225248
 f1_keywords:
 - fm20.chm5225248
-ms.prod: office
 ms.assetid: b475b7e9-570e-216c-c240-b4f191861846
 ms.date: 12/29/2018
 ms.localizationpriority: medium

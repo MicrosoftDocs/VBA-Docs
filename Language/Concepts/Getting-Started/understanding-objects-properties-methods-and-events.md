@@ -3,7 +3,6 @@ title: Understanding objects, methods, properties, and events (VBA)
 keywords: vbcn6.chm1076676
 f1_keywords:
 - vbcn6.chm1076676
-ms.prod: office
 ms.assetid: 98f2fdcf-f4af-9b18-6164-7252c0a7c668
 ms.date: 12/26/2018
 ms.localizationpriority: high

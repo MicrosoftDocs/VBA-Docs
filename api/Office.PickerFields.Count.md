@@ -1,6 +1,5 @@
 ---
 title: PickerFields.Count property (Office)
-ms.prod: office
 api_name:
 - Office.PickerFields.Count
 ms.assetid: 7f994f90-4870-cae8-d7bf-99f48dd08ba1

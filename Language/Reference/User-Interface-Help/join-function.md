@@ -3,7 +3,6 @@ title: Join function (Visual Basic for Applications)
 keywords: vblr6.chm1008915
 f1_keywords:
 - vblr6.chm1008915
-ms.prod: office
 ms.assetid: 2c7a6ee5-ea52-1f93-1f16-20e333804b23
 ms.date: 12/13/2018
 ms.localizationpriority: medium

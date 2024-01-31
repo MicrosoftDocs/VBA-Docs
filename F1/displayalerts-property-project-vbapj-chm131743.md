@@ -3,7 +3,7 @@ title: DisplayAlerts Property, Project [vbapj.chm131743]
 keywords: vbapj.chm131743
 f1_keywords:
 - vbapj.chm131743
-ms.prod: office
+ms.service: office
 ms.assetid: 58704111-e731-48d2-b0de-67f056b715be
 ms.date: 06/08/2017
 ms.localizationpriority: medium

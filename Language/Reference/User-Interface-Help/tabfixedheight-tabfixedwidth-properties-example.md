@@ -3,7 +3,6 @@ title: TabFixedHeight, TabFixedWidth properties example
 keywords: fm20.chm5225126
 f1_keywords:
 - fm20.chm5225126
-ms.prod: office
 ms.assetid: b856840c-1855-b871-33cc-e210489ce499
 ms.date: 11/14/2018
 ms.localizationpriority: medium

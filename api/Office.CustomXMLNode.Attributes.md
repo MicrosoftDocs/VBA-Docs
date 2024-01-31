@@ -3,7 +3,6 @@ title: CustomXMLNode.Attributes property (Office)
 keywords: vbaof11.chm294002
 f1_keywords:
 - vbaof11.chm294002
-ms.prod: office
 api_name:
 - Office.CustomXMLNode.Attributes
 ms.assetid: 406847e4-25e4-77c6-883c-9cc85f781c73

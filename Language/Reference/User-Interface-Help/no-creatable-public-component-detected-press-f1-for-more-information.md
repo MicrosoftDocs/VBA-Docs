@@ -3,7 +3,6 @@ title: No creatable public component detected. Press F1 for more information.
 keywords: vblr6.chm50243
 f1_keywords:
 - vblr6.chm50243
-ms.prod: office
 ms.assetid: 6be775e9-1a08-f566-baea-4d2efc3c8e48
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ReadAll method (Visual Basic for Applications)
 keywords: vblr6.chm2182077
 f1_keywords:
 - vblr6.chm2182077
-ms.prod: office
 api_name:
 - Office.ReadAll
 ms.assetid: 2e461101-12ec-0472-2719-53e714632698

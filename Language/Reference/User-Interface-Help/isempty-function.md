@@ -3,7 +3,6 @@ title: IsEmpty function (Visual Basic for Applications)
 keywords: vblr6.chm1008952
 f1_keywords:
 - vblr6.chm1008952
-ms.prod: office
 ms.assetid: 3fcfe5c2-cc97-17b9-28ca-a47d871a5f1a
 ms.date: 12/13/2018
 ms.localizationpriority: medium

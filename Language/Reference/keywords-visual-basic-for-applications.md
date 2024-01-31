@@ -1,6 +1,5 @@
 ---
 title: Keywords (Visual Basic for Applications)
-ms.prod: office
 ms.assetid: 77a07966-3587-4773-9631-0ea3e265c0ee
 ms.date: 12/03/2018
 ms.localizationpriority: high

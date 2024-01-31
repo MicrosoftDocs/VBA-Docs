@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabel.SetLabel method (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabel.SetLabel
 ms.assetid: 836356a3-e9c4-46c6-a4c3-03f338ac343b

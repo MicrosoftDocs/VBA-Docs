@@ -3,7 +3,6 @@ title: SignatureSetup.AdditionalXml property (Office)
 keywords: vbaof11.chm285010
 f1_keywords:
 - vbaof11.chm285010
-ms.prod: office
 api_name:
 - Office.SignatureSetup.AdditionalXml
 ms.assetid: dd091bd0-f690-7a13-258d-6a4a811d56b6

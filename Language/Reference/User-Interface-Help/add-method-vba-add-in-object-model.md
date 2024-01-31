@@ -3,7 +3,6 @@ title: Add method (VBA Add-In Object Model)
 keywords: vbob6.chm1014017
 f1_keywords:
 - vbob6.chm1014017
-ms.prod: office
 ms.assetid: 95f4b970-0b0a-a41d-6a7b-8ede6626da67
 ms.date: 12/06/2018
 ms.localizationpriority: medium

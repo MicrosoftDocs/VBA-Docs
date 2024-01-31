@@ -3,7 +3,6 @@ title: EncryptionProvider.NewSession method (Office)
 keywords: vbaof11.chm327002
 f1_keywords:
 - vbaof11.chm327002
-ms.prod: office
 api_name:
 - Office.EncryptionProvider.NewSession
 ms.assetid: b90f842a-6eb3-3e95-7175-c3ca9c3ce138

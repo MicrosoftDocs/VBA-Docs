@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Parent
 ms.assetid: 1bb8a043-1ad2-28d2-8c48-8426ef24579e

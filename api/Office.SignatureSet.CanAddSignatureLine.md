@@ -3,7 +3,6 @@ title: SignatureSet.CanAddSignatureLine property (Office)
 keywords: vbaof11.chm247007
 f1_keywords:
 - vbaof11.chm247007
-ms.prod: office
 api_name:
 - Office.SignatureSet.CanAddSignatureLine
 ms.assetid: e5b54883-4ac5-b239-b17c-efbdcd4bc849

@@ -3,7 +3,6 @@ title: Understanding conditional compilation (VBA)
 keywords: vbcn6.chm1076725
 f1_keywords:
 - vbcn6.chm1076725
-ms.prod: office
 ms.assetid: d79bb580-f77e-b9fc-5548-3ee2b193947b
 ms.date: 12/21/2018
 ms.localizationpriority: medium

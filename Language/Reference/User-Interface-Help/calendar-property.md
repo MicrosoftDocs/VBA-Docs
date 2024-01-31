@@ -3,7 +3,6 @@ title: Calendar property (Visual Basic for Applications)
 keywords: vblr6.chm1117202
 f1_keywords:
 - vblr6.chm1117202
-ms.prod: office
 api_name:
 - Office.Calendar
 ms.assetid: ca321712-934e-2aee-46b8-b2895be362ea

@@ -3,7 +3,7 @@ title: Number15 Property, Project [vbapj.chm132428]
 keywords: vbapj.chm132428
 f1_keywords:
 - vbapj.chm132428
-ms.prod: office
+ms.service: office
 ms.assetid: 5176550e-fdf2-4554-b899-a8f107529966
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: BulletFormat2.Picture method (Office)
-ms.prod: office
 api_name:
 - Office.BulletFormat2.Picture
 ms.assetid: 15fb748b-9fb5-b867-2ef3-9876d1260eed

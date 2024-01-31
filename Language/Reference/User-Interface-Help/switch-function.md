@@ -3,7 +3,6 @@ title: Switch function (Visual Basic for Applications)
 keywords: vblr6.chm1010096
 f1_keywords:
 - vblr6.chm1010096
-ms.prod: office
 ms.assetid: 458ebfcb-af87-1c3b-3f4b-5f308aefa7d9
 ms.date: 12/13/2018
 ms.localizationpriority: medium

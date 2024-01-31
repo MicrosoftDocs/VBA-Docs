@@ -1,6 +1,6 @@
 ---
 title: LanguageSettings members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 068383c2-78f1-2299-2087-9eaa3409e6fe
 ms.date: 01/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Can't record into running module
 keywords: vblr6.chm1040242
 f1_keywords:
 - vblr6.chm1040242
-ms.prod: office
 ms.assetid: deebf97c-e531-8635-6419-2e3dc4a20e66
 ms.date: 06/08/2017
 ms.localizationpriority: medium

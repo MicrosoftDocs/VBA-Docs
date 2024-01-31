@@ -3,7 +3,6 @@ title: Permission.Count property (Office)
 keywords: vbaof11.chm261002
 f1_keywords:
 - vbaof11.chm261002
-ms.prod: office
 api_name:
 - Office.Permission.Count
 ms.assetid: fdef7ae3-00d1-ab53-0ddf-212883e1858a

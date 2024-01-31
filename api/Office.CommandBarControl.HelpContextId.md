@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.HelpContextId property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.HelpContextId
 ms.assetid: 56f41107-92ad-7cb5-f522-7a338f0d8cf9

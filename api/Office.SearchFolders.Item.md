@@ -3,7 +3,6 @@ title: SearchFolders.Item property (Office)
 keywords: vbaof11.chm258001
 f1_keywords:
 - vbaof11.chm258001
-ms.prod: office
 api_name:
 - Office.SearchFolders.Item
 ms.assetid: e3ea4b1a-648e-1266-8a88-ef0cbd978989

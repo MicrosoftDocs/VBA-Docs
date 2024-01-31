@@ -1,6 +1,5 @@
 ---
 title: IDocumentInspector.Inspect method (Office)
-ms.prod: office
 api_name:
 - Office.IDocumentInspector.Inspect
 ms.assetid: 33c767c7-5f28-9cba-6511-513a2efda1a3

@@ -3,7 +3,7 @@ title: DeliverableName Property, Project [vbapj.chm131740]
 keywords: vbapj.chm131740
 f1_keywords:
 - vbapj.chm131740
-ms.prod: office
+ms.service: office
 ms.assetid: f5cf2bdb-2253-473a-9c90-ae61c341ed70
 ms.date: 06/08/2017
 ms.localizationpriority: medium

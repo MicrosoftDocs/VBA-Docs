@@ -3,7 +3,6 @@ title: Invalid ordinal (Error 452)
 keywords: vblr6.chm1000452
 f1_keywords:
 - vblr6.chm1000452
-ms.prod: office
 ms.assetid: 10f033c8-d76e-710d-4014-ba2d171745a9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

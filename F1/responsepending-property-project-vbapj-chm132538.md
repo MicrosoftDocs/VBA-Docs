@@ -3,7 +3,7 @@ title: ResponsePending Property, Project [vbapj.chm132538]
 keywords: vbapj.chm132538
 f1_keywords:
 - vbapj.chm132538
-ms.prod: office
+ms.service: office
 ms.assetid: a3139a6a-ebdd-4228-a943-bdc53d05ea73
 ms.date: 06/08/2017
 ms.localizationpriority: medium

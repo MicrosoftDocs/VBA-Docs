@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.Parent
 ms.assetid: 9b4209c1-805e-dcd6-4915-1469b7cf058d

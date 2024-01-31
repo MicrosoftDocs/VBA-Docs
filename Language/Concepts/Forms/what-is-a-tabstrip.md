@@ -3,7 +3,6 @@ title: What is a TabStrip?
 keywords: fm20.chm5225197
 f1_keywords:
 - fm20.chm5225197
-ms.prod: office
 ms.assetid: 47152752-e49c-a3f2-81b2-0c17d3fc5ce7
 ms.date: 12/29/2018
 ms.localizationpriority: medium

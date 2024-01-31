@@ -3,7 +3,6 @@ title: SignatureProvider.GetProviderDetail method (Office)
 keywords: vbaof11.chm287008
 f1_keywords:
 - vbaof11.chm287008
-ms.prod: office
 api_name:
 - Office.SignatureProvider.GetProviderDetail
 ms.assetid: a8cc567e-be67-3a5e-d719-40da6d294fb4

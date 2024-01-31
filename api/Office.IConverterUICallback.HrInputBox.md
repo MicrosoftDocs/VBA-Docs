@@ -3,7 +3,6 @@ title: IConverterUICallback.HrInputBox method (Office)
 keywords: vbaof11.chm332003
 f1_keywords:
 - vbaof11.chm332003
-ms.prod: office
 api_name:
 - Office.IConverterUICallback.HrInputBox
 ms.assetid: 5767b5cc-98f4-3855-796d-dfc4ccc77f9a

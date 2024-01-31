@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Creator
 ms.assetid: 14af9c69-394c-9547-ac79-6bc1bc7f01c1

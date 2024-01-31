@@ -3,7 +3,6 @@ title: Page Order dialog box
 keywords: vbui6.chm1086172
 f1_keywords:
 - vbui6.chm1086172
-ms.prod: office
 ms.assetid: 40612d0c-84f0-77ac-be8b-122b81aed11f
 ms.date: 11/27/2018
 ms.localizationpriority: medium

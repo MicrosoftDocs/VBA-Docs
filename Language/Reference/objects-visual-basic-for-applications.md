@@ -1,6 +1,5 @@
 ---
 title: Objects (Visual Basic for Applications)
-ms.prod: office
 ms.assetid: 0ef50c11-1bdc-4bc6-86b3-33367400af86
 ms.date: 09/17/2018
 ms.localizationpriority: medium

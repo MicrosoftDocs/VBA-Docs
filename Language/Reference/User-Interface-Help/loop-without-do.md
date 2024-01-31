@@ -3,7 +3,6 @@ title: Loop without Do
 keywords: vblr6.chm1011212
 f1_keywords:
 - vblr6.chm1011212
-ms.prod: office
 ms.assetid: ebdad433-3f78-c9e3-1806-51ac75e134bb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

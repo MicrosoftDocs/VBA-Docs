@@ -3,7 +3,6 @@ title: OpenTextFile method (Visual Basic for Applications)
 keywords: vblr6.chm2182061
 f1_keywords:
 - vblr6.chm2182061
-ms.prod: office
 api_name:
 - Office.OpenTextFile
 ms.assetid: f44f7bc5-e48b-05f2-eb22-5b02701d449e

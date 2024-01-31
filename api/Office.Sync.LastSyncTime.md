@@ -3,7 +3,6 @@ title: Sync.LastSyncTime property (Office)
 keywords: vbaof11.chm277003
 f1_keywords:
 - vbaof11.chm277003
-ms.prod: office
 api_name:
 - Office.Sync.LastSyncTime
 ms.assetid: d85af059-a39e-e100-c81a-06265b43cade

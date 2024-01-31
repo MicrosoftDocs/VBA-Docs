@@ -3,7 +3,6 @@ title: On Error statement (VBA)
 keywords: vblr6.chm1008985
 f1_keywords:
 - vblr6.chm1008985
-ms.prod: office
 ms.assetid: 5f723da4-34bd-0a29-11b6-f6986d701570
 ms.date: 12/03/2018
 ms.localizationpriority: medium

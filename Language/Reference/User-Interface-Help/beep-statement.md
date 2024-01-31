@@ -3,7 +3,6 @@ title: Beep statement (VBA)
 keywords: vblr6.chm1008861
 f1_keywords:
 - vblr6.chm1008861
-ms.prod: office
 ms.assetid: 61328fce-c26c-2758-436a-474da9aac8b7
 ms.date: 12/03/2018
 ms.localizationpriority: medium

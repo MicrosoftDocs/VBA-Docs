@@ -3,7 +3,6 @@ title: InsideHeight, InsideWidth properties example
 keywords: fm20.chm5225139
 f1_keywords:
 - fm20.chm5225139
-ms.prod: office
 ms.assetid: 5b6c7176-0838-33da-1111-9591f961641e
 ms.date: 11/14/2018
 ms.localizationpriority: medium

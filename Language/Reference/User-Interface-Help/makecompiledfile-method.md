@@ -3,7 +3,6 @@ title: MakeCompiledFile method (VBA)
 keywords: vbob6.chm102018
 f1_keywords:
 - vbob6.chm102018
-ms.prod: office
 api_name:
 - Office.MakeCompiledFile
 ms.assetid: c6b2501f-1ae3-c1e7-4df3-ea139ea4d1b0

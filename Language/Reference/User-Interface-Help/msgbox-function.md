@@ -3,7 +3,6 @@ title: MsgBox function (Visual Basic for Applications)
 keywords: vblr6.chm1008978
 f1_keywords:
 - vblr6.chm1008978
-ms.prod: office
 ms.assetid: 715595a7-4286-a0cb-dec9-2d2e79bda102
 ms.date: 08/14/2019
 ms.localizationpriority: high

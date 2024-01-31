@@ -1,7 +1,7 @@
 ---
 title: PickerResult members (Office)
 description: Represents a resolved or selected item of data.
-ms.prod: office
+ms.service: office
 ms.assetid: 3d04c242-a306-c3f6-34e4-6c5a590a369f
 ms.date: 01/30/2019
 ms.localizationpriority: medium

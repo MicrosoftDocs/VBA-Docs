@@ -3,7 +3,6 @@ title: DocumentInspector.Name property (Office)
 keywords: vbaof11.chm279001
 f1_keywords:
 - vbaof11.chm279001
-ms.prod: office
 api_name:
 - Office.DocumentInspector.Name
 ms.assetid: 7d475d21-435a-a322-e8f4-0694828bba43

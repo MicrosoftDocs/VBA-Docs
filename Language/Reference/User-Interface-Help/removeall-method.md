@@ -3,7 +3,6 @@ title: RemoveAll method (Visual Basic for Applications)
 keywords: vblr6.chm2181953
 f1_keywords:
 - vblr6.chm2181953
-ms.prod: office
 api_name:
 - Office.RemoveAll
 ms.assetid: 70edc5db-1f44-cfa5-cf22-13a9ce33a954

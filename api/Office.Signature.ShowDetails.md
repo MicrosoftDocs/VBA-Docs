@@ -3,7 +3,6 @@ title: Signature.ShowDetails method (Office)
 keywords: vbaof11.chm248014
 f1_keywords:
 - vbaof11.chm248014
-ms.prod: office
 api_name:
 - Office.Signature.ShowDetails
 ms.assetid: 278b84b3-c500-6357-310b-537355ad20fd

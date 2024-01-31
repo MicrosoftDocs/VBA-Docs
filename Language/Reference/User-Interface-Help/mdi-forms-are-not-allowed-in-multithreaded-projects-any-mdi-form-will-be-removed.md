@@ -3,7 +3,6 @@ title: MDI forms are not allowed in multithreaded projects. Any MDI form will be
 keywords: vblr6.chm60143
 f1_keywords:
 - vblr6.chm60143
-ms.prod: office
 ms.assetid: 7a15f307-83e6-8327-a381-0b3c3b0cfa27
 ms.date: 06/08/2017
 ms.localizationpriority: medium

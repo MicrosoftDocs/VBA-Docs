@@ -3,7 +3,6 @@ title: SpecialFolder constants
 keywords: vblr6.chm1019268
 f1_keywords:
 - vblr6.chm1019268
-ms.prod: office
 ms.assetid: f783e1af-45ab-2e9a-07a6-1cf5b869d7bb
 ms.date: 12/11/2018
 ms.localizationpriority: medium

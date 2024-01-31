@@ -1,7 +1,7 @@
 ---
 title: Signature members (Office)
 description: Represents a digital signature attached to a document. Signature objects are contained in the SignatureSet collection of the Document object.
-ms.prod: office
+ms.service: office
 ms.assetid: 1054db23-fe1c-f81f-e44b-d8c2c82ca7fa
 ms.date: 01/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Show or hide the grid
 keywords: fm20.chm5225240
 f1_keywords:
 - fm20.chm5225240
-ms.prod: office
 ms.assetid: da540967-ee4d-ffc2-ac52-ac6910b7a4e9
 ms.date: 12/29/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: SharedWorkspaceLink.Delete method (Office)
 keywords: vbaof11.chm270009
 f1_keywords:
 - vbaof11.chm270009
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.Delete
 ms.assetid: 8db5de1e-7dc3-ebcc-1853-69b6f382d19d

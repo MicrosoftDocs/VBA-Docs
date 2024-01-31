@@ -3,7 +3,6 @@ title: Continue code execution (VBA)
 keywords: vbhw6.chm1008878
 f1_keywords:
 - vbhw6.chm1008878
-ms.prod: office
 ms.assetid: 61035245-f12f-dea4-fa8e-5904f34d1bf3
 ms.date: 12/27/2018
 ms.localizationpriority: medium

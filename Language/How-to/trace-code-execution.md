@@ -3,7 +3,6 @@ title: Trace code execution (VBA)
 keywords: vbhw6.chm1009047
 f1_keywords:
 - vbhw6.chm1009047
-ms.prod: office
 ms.assetid: 1eccc024-5317-3f74-2259-1a8c6dd5a785
 ms.date: 12/27/2018
 ms.localizationpriority: medium

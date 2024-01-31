@@ -1,6 +1,5 @@
 ---
 title: 64-bit Visual Basic for Applications overview
-ms.prod: office
 ms.assetid: a44e016f-1019-300e-5150-916ff32f70c1
 ms.date: 12/21/2018
 ms.localizationpriority: high

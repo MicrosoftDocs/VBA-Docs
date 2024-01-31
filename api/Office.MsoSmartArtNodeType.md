@@ -1,6 +1,5 @@
 ---
 title: MsoSmartArtNodeType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoSmartArtNodeType
 ms.assetid: 0b1369d2-0090-dc12-5990-d8ec5965b39f

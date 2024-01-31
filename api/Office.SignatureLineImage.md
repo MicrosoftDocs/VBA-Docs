@@ -1,6 +1,5 @@
 ---
 title: SignatureLineImage enumeration (Office)
-ms.prod: office
 api_name:
 - Office.SignatureLineImage
 ms.assetid: b96fd39b-4f31-207a-8a19-3ef5a6877522

@@ -3,7 +3,6 @@ title: TextStream object
 keywords: vblr6.chm2181930
 f1_keywords:
 - vblr6.chm2181930
-ms.prod: office
 api_name:
 - Office.TextStream
 ms.assetid: b1b78d3a-78b3-aee5-2efc-1e208e0858ac

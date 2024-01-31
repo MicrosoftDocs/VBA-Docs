@@ -3,7 +3,6 @@ title: FileDialog.InitialView property (Office)
 keywords: vbaof11.chm256007
 f1_keywords:
 - vbaof11.chm256007
-ms.prod: office
 api_name:
 - Office.FileDialog.InitialView
 ms.assetid: 17950503-6511-8159-7f9f-406dd22e4fca

@@ -3,7 +3,6 @@ title: Private statement (VBA)
 keywords: vblr6.chm1010962
 f1_keywords:
 - vblr6.chm1010962
-ms.prod: office
 ms.assetid: f578a258-aac1-3dc5-ab1d-e74baaaf7244
 ms.date: 12/03/2018
 ms.localizationpriority: medium

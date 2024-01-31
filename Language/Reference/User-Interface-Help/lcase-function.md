@@ -3,7 +3,6 @@ title: LCase function (Visual Basic for Applications)
 keywords: vblr6.chm1011360
 f1_keywords:
 - vblr6.chm1011360
-ms.prod: office
 ms.assetid: aeccc222-c9c7-85e9-fa03-8ac99bcfe9dd
 ms.date: 12/13/2018
 ms.localizationpriority: medium

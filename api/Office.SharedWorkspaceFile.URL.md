@@ -3,7 +3,6 @@ title: SharedWorkspaceFile.URL property (Office)
 keywords: vbaof11.chm266001
 f1_keywords:
 - vbaof11.chm266001
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.URL
 ms.assetid: cbdcb807-235b-2904-8407-0cb276c6d342

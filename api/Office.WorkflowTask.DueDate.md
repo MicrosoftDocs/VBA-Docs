@@ -3,7 +3,6 @@ title: WorkflowTask.DueDate property (Office)
 keywords: vbaof11.chm280008
 f1_keywords:
 - vbaof11.chm280008
-ms.prod: office
 api_name:
 - Office.WorkflowTask.DueDate
 ms.assetid: 885e8317-8874-1b1e-7d8c-861e6755823a

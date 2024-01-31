@@ -3,7 +3,6 @@ title: Edit a watch expression (VBA)
 keywords: vbhw6.chm1010977
 f1_keywords:
 - vbhw6.chm1010977
-ms.prod: office
 ms.assetid: 612dcf5c-1764-f306-d6a9-d24792be861b
 ms.date: 12/27/2018
 ms.localizationpriority: medium

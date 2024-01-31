@@ -3,7 +3,6 @@ title: MsoEnvelope object (Office)
 keywords: vbaof11.chm245000
 f1_keywords:
 - vbaof11.chm245000
-ms.prod: office
 api_name:
 - Office.MsoEnvelope
 ms.assetid: 64cfde6b-cd71-1d7b-0e8f-1181d88d9457

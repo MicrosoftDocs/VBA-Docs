@@ -3,7 +3,6 @@ title: SharedWorkspaceTasks.Parent property (Office)
 keywords: vbaof11.chm265004
 f1_keywords:
 - vbaof11.chm265004
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Parent
 ms.assetid: 6180c0e7-0493-fa21-5461-8f5a38e13fae

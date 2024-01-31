@@ -3,7 +3,6 @@ title: IsNull function (Visual Basic for Applications)
 keywords: vblr6.chm1008953
 f1_keywords:
 - vblr6.chm1008953
-ms.prod: office
 ms.assetid: 875909ba-289e-aba9-0462-9327efe0bc46
 ms.date: 12/13/2018
 ms.localizationpriority: medium

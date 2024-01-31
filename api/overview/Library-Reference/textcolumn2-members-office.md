@@ -1,7 +1,7 @@
 ---
 title: TextColumn2 members (Office)
 description: Represents a single text column. The TextColumn2 object is a member of the TextColumns2 collection.
-ms.prod: office
+ms.service: office
 ms.assetid: adfe4540-26e2-b315-6396-313169d503c6
 ms.date: 01/30/2019
 ms.localizationpriority: medium

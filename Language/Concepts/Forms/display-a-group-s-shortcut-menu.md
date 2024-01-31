@@ -3,7 +3,6 @@ title: Display a group's shortcut menu
 keywords: fm20.chm5225268
 f1_keywords:
 - fm20.chm5225268
-ms.prod: office
 ms.assetid: fffa181f-6a0c-5910-525c-4b3acac700a9
 ms.date: 12/29/2018
 ms.localizationpriority: medium

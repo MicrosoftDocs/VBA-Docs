@@ -3,7 +3,6 @@ title: ListBox control, ColumnCount, ColumnWidths properties example
 keywords: fm20.chm5225185
 f1_keywords:
 - fm20.chm5225185
-ms.prod: office
 ms.assetid: f2f6e0f7-504d-1565-4dcb-d8bd2ff129c7
 ms.date: 11/14/2018
 ms.localizationpriority: medium

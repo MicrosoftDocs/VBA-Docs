@@ -3,7 +3,6 @@ title: PPmt function (Visual Basic for Applications)
 keywords: vblr6.chm1009286
 f1_keywords:
 - vblr6.chm1009286
-ms.prod: office
 ms.assetid: cb2a9f92-f1c3-b991-9d0f-42df652debcd
 ms.date: 12/13/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: DateDiff function (Visual Basic for Applications)
 keywords: vblr6.chm1012950
 f1_keywords:
 - vblr6.chm1012950
-ms.prod: office
 ms.assetid: 15c9df5f-1403-b6a5-71b9-611e9820d804
 ms.date: 12/12/2018
 ms.localizationpriority: high

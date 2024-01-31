@@ -3,7 +3,6 @@ title: Add a customized control to the **\[Toolbox](../../reference/user-interfa
 keywords: fm20.chm5225206
 f1_keywords:
 - fm20.chm5225206
-ms.prod: office
 ms.assetid: b6f764a1-58b2-f065-1d33-235a0c6e96cb
 ms.date: 12/29/2018
 ms.localizationpriority: medium

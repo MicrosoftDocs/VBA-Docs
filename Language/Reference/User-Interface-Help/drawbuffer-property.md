@@ -3,7 +3,6 @@ title: DrawBuffer property
 keywords: fm20.chm5225033
 f1_keywords:
 - fm20.chm5225033
-ms.prod: office
 api_name:
 - Office.DrawBuffer
 ms.assetid: 6f859070-13c0-5da3-40e6-51f6676cec3b

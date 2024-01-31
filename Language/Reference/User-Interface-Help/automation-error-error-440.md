@@ -3,7 +3,6 @@ title: Automation error (Error 440)
 keywords: vblr6.chm1000440
 f1_keywords:
 - vblr6.chm1000440
-ms.prod: office
 ms.assetid: 7b4be799-038b-8f70-d893-848fcfa92993
 ms.date: 08/14/2019
 ms.localizationpriority: high

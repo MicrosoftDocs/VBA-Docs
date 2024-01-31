@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabel.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabel.Creator
 ms.assetid: dabf24c7-b1d4-4f96-b830-2630b3ea5f20

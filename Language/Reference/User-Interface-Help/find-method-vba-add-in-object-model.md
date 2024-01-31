@@ -3,7 +3,6 @@ title: Find method (VBA Add-In Object Model)
 keywords: vbob6.chm1098972
 f1_keywords:
 - vbob6.chm1098972
-ms.prod: office
 ms.assetid: cf7a4b4e-89e7-91ea-2f9b-880384cd3339
 ms.date: 12/06/2018
 ms.localizationpriority: medium

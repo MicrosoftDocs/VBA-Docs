@@ -3,7 +3,6 @@ title: Expected procedure, not project or library
 keywords: vblr6.chm1035017
 f1_keywords:
 - vblr6.chm1035017
-ms.prod: office
 ms.assetid: 0611e2e0-0c23-0e6e-86ac-d7a86af2c933
 ms.date: 06/08/2017
 ms.localizationpriority: medium

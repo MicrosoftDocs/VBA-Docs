@@ -3,7 +3,6 @@ title: Add method (Visual Basic for Applications - VBA)
 keywords: vblr6.chm2182086
 f1_keywords:
 - vblr6.chm2182086
-ms.prod: office
 api_name:
 - Office.AddFolders
 ms.assetid: 4750c3af-6eb4-d100-fbba-29945108a018

@@ -3,7 +3,6 @@ title: SharedWorkspaceTask.Delete method (Office)
 keywords: vbaof11.chm263012
 f1_keywords:
 - vbaof11.chm263012
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Delete
 ms.assetid: 6383a6bc-8a1c-744e-0639-dda06af97a1e

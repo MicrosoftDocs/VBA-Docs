@@ -1,6 +1,5 @@
 ---
 title: Toolbars
-ms.prod: office
 ms.date: 11/26/2018
 ms.localizationpriority: medium
 ---

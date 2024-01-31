@@ -3,7 +3,6 @@ title: AppActivate statement (VBA)
 keywords: vblr6.chm1008855
 f1_keywords:
 - vblr6.chm1008855
-ms.prod: office
 ms.assetid: 8af4340f-e249-6806-044e-a68bf06ff3f6
 ms.date: 12/03/2018
 ms.localizationpriority: medium

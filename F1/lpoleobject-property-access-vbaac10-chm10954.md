@@ -3,7 +3,7 @@ title: LpOleObject Property, Access [vbaac10.chm10954]
 keywords: vbaac10.chm10954
 f1_keywords:
 - vbaac10.chm10954
-ms.prod: office
+ms.service: office
 ms.assetid: f3c3535d-e651-452c-bc40-130a1c7c3800
 ms.date: 06/08/2017
 ms.localizationpriority: medium

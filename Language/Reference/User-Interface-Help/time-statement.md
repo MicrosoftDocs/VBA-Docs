@@ -3,7 +3,6 @@ title: Time statement (VBA)
 keywords: vblr6.chm1009042
 f1_keywords:
 - vblr6.chm1009042
-ms.prod: office
 ms.assetid: 9c11edf2-5eac-207a-985e-1e990f3e1b12
 ms.date: 12/03/2018
 ms.localizationpriority: medium

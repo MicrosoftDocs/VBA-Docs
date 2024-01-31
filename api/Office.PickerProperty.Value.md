@@ -3,7 +3,6 @@ title: PickerProperty.Value property (Office)
 keywords: vbaof11.chm336002
 f1_keywords:
 - vbaof11.chm336002
-ms.prod: office
 api_name:
 - Office.PickerProperty.Value
 ms.assetid: 653dbf4b-cccf-4c06-f9cc-7d2c69ec106c

@@ -3,7 +3,6 @@ title: Image control
 keywords: fm20.chm5224981
 f1_keywords:
 - fm20.chm5224981
-ms.prod: office
 ms.assetid: 47c73dbb-21d6-0aef-6df4-a8b8a69a9e5d
 ms.date: 11/15/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Minus (-) operator
 keywords: vblr6.chm1008852
 f1_keywords:
 - vblr6.chm1008852
-ms.prod: office
 ms.assetid: db8adf52-58a9-9ba8-b5ae-5cdf59f56598
 ms.date: 11/19/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Using arrays (VBA)
 keywords: vbcn6.chm1076800
 f1_keywords:
 - vbcn6.chm1076800
-ms.prod: office
 ms.assetid: 23244a15-4c53-1f39-fdd5-d1fc2b394382
 ms.date: 12/26/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Use the Object Browser (VBA)
 keywords: vbhw6.chm1108756
 f1_keywords:
 - vbhw6.chm1108756
-ms.prod: office
 ms.assetid: 5e980271-8639-c6cb-1934-bf8034e67e4b
 ms.date: 12/27/2018
 ms.localizationpriority: medium

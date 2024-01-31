@@ -3,7 +3,6 @@ title: SharedWorkspaceFiles object (Office)
 keywords: vbaof11.chm267000
 f1_keywords:
 - vbaof11.chm267000
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles
 ms.assetid: 5e2937f7-f794-dffb-a1ec-69ea9a9e3546

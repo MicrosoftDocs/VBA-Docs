@@ -1,6 +1,5 @@
 ---
 title: WorkflowTasks.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.WorkflowTasks.Creator
 ms.assetid: 9554018d-322d-dc5d-787a-c0b0e9f9da44

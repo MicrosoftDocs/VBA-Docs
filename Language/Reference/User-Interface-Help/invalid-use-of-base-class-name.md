@@ -1,6 +1,5 @@
 ---
 title: Invalid use of base class name
-ms.prod: office
 ms.assetid: 67c2bc6c-5717-450c-b80a-3217fee436ed
 ms.date: 06/08/2017
 ms.localizationpriority: medium

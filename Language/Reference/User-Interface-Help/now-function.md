@@ -3,7 +3,6 @@ title: Now function (Visual Basic for Applications)
 keywords: vblr6.chm1008982
 f1_keywords:
 - vblr6.chm1008982
-ms.prod: office
 ms.assetid: 8f324994-2518-0c83-76c7-22cd67033b36
 ms.date: 12/13/2018
 ms.localizationpriority: medium

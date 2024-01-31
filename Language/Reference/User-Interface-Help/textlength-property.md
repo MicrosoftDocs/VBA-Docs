@@ -3,7 +3,6 @@ title: TextLength property
 keywords: fm20.chm2002100
 f1_keywords:
 - fm20.chm2002100
-ms.prod: office
 api_name:
 - Office.TextLength
 ms.assetid: 9276412c-7c64-34c2-59d8-f0b8f21dc98a

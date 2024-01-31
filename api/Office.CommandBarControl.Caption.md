@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.Caption property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.Caption
 ms.assetid: 6e625a77-60a9-eaa5-1d75-f5d8b6688180

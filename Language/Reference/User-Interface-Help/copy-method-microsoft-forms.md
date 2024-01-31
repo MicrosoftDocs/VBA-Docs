@@ -3,7 +3,6 @@ title: Copy method (Microsoft Forms)
 keywords: fm20.chm2000280
 f1_keywords:
 - fm20.chm2000280
-ms.prod: office
 ms.assetid: debe6ebb-e382-acd8-d8f3-c7808a47bccd
 ms.date: 11/15/2018
 ms.localizationpriority: medium

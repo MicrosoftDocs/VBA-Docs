@@ -3,7 +3,6 @@ title: Remove method (Visual Basic for Applications)
 keywords: vblr6.chm1014020
 f1_keywords:
 - vblr6.chm1014020
-ms.prod: office
 ms.assetid: ad45eba6-eb95-3cdc-03c2-7c94e8a38d48
 ms.date: 12/14/2018
 ms.localizationpriority: medium

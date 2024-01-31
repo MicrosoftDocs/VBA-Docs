@@ -3,7 +3,6 @@ title: IConverterUICallback.HrMessageBox method (Office)
 keywords: vbaof11.chm332002
 f1_keywords:
 - vbaof11.chm332002
-ms.prod: office
 api_name:
 - Office.IConverterUICallback.HrMessageBox
 ms.assetid: 41174ca5-0248-6f1b-23ce-54183a52ae48

@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabel.GetLabel method (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabel.GetLabel
 ms.assetid: e91a2e48-feff-4468-8c45-d3738b6bd0d8

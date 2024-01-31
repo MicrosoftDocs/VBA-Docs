@@ -1,6 +1,5 @@
 ---
 title: PictureEffect.Position property (Office)
-ms.prod: office
 api_name:
 - Office.PictureEffect.Position
 ms.assetid: 29c2d136-777f-5984-3018-3dae2721ed76

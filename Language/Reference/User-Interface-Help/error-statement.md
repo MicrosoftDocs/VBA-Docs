@@ -3,7 +3,6 @@ title: Error statement (VBA)
 keywords: vblr6.chm1008913
 f1_keywords:
 - vblr6.chm1008913
-ms.prod: office
 ms.assetid: b657920d-b28c-0c6b-8020-9d37e9f10f6c
 ms.date: 12/03/2018
 ms.localizationpriority: medium

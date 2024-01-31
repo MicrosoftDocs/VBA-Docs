@@ -3,7 +3,6 @@ title: WeekdayName function (Visual Basic for Applications)
 keywords: vblr6.chm1008932
 f1_keywords:
 - vblr6.chm1008932
-ms.prod: office
 ms.assetid: 84a92bec-1e65-4f97-fdf9-cd524dd04081
 ms.date: 12/13/2018
 ms.localizationpriority: medium

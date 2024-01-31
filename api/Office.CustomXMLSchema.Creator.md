@@ -1,6 +1,5 @@
 ---
 title: CustomXMLSchema.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Creator
 ms.assetid: ceabfabc-81c8-ee20-af58-986c32aee275

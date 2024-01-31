@@ -3,7 +3,6 @@ title: Permission.Add method (Office)
 keywords: vbaof11.chm261004
 f1_keywords:
 - vbaof11.chm261004
-ms.prod: office
 api_name:
 - Office.Permission.Add
 ms.assetid: 9674440f-8b0f-c611-3a02-f0ba1e92be94

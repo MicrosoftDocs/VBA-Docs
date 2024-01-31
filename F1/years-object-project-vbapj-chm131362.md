@@ -3,7 +3,7 @@ title: Years Object, Project [vbapj.chm131362]
 keywords: vbapj.chm131362
 f1_keywords:
 - vbapj.chm131362
-ms.prod: office
+ms.service: office
 ms.assetid: 303d7631-cb63-4525-bca7-e3231a7e9570
 ms.date: 06/08/2017
 ms.localizationpriority: medium

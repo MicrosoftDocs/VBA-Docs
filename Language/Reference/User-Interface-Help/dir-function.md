@@ -3,7 +3,6 @@ title: Dir function (Visual Basic for Applications)
 keywords: vblr6.chm1008898
 f1_keywords:
 - vblr6.chm1008898
-ms.prod: office
 ms.assetid: eaf6fe6e-342a-5038-3914-bb5e58fcad5a
 ms.date: 12/12/2018
 ms.localizationpriority: high

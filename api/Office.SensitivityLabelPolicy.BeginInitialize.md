@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelPolicy.BeginInitialize method (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelPolicy.BeginInitialize
 ms.assetid: 45009ace-eaad-4366-9a38-af49a026d05f

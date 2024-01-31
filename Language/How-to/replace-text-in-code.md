@@ -3,7 +3,6 @@ title: Replace text in code (VBA)
 keywords: vbhw6.chm1009001
 f1_keywords:
 - vbhw6.chm1009001
-ms.prod: office
 ms.assetid: 00012763-3da0-2623-6add-231b8fbf2273
 ms.date: 12/27/2018
 ms.localizationpriority: medium

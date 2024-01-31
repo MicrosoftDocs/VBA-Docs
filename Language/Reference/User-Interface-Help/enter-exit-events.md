@@ -3,7 +3,6 @@ title: Enter, Exit events
 keywords: fm20.chm2000160
 f1_keywords:
 - fm20.chm2000160
-ms.prod: office
 ms.assetid: 4dc74a16-eead-48e5-2031-eaf5730bd857
 ms.date: 11/15/2018
 ms.localizationpriority: medium

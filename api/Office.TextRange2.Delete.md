@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Delete method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Delete
 ms.assetid: 876c315d-4b97-1489-9d12-f1f0f1fecb74

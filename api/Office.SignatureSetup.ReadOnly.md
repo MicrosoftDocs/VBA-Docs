@@ -3,7 +3,6 @@ title: SignatureSetup.ReadOnly property (Office)
 keywords: vbaof11.chm285001
 f1_keywords:
 - vbaof11.chm285001
-ms.prod: office
 api_name:
 - Office.SignatureSetup.ReadOnly
 ms.assetid: 240ee346-2272-a600-d6ef-c573a138265f

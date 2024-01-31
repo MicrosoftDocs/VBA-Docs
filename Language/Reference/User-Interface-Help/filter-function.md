@@ -3,7 +3,6 @@ title: Filter function (Visual Basic for Applications)
 keywords: vblr6.chm1008912
 f1_keywords:
 - vblr6.chm1008912
-ms.prod: office
 ms.assetid: 00630b25-e7b8-5c32-b6d1-9816f01c3a0f
 ms.date: 12/12/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.HasText property (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.HasText
 ms.assetid: 4783db2d-8dd5-f9d5-5cfd-8e119868c57e

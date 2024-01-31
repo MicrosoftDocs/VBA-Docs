@@ -3,7 +3,6 @@ title: Spc function (Visual Basic for Applications)
 keywords: vblr6.chm1009027
 f1_keywords:
 - vblr6.chm1009027
-ms.prod: office
 ms.assetid: a7f2d6f4-6d27-fca5-80ad-648fbf46c002
 ms.date: 12/13/2018
 ms.localizationpriority: medium

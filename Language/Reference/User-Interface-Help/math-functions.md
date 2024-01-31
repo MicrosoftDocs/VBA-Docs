@@ -3,7 +3,6 @@ title: Math functions (Visual Basic for Applications)
 keywords: vblr6.chm1008971
 f1_keywords:
 - vblr6.chm1008971
-ms.prod: office
 ms.assetid: bd20e3cd-f10b-90d5-94b9-12c78b568b74
 ms.date: 12/13/2018
 ms.localizationpriority: medium

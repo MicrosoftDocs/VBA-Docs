@@ -3,7 +3,7 @@ title: CurrentTable Property, Project [vbapj.chm131702]
 keywords: vbapj.chm131702
 f1_keywords:
 - vbapj.chm131702
-ms.prod: office
+ms.service: office
 ms.assetid: 5ea4221f-400a-4089-8770-58c639f5e633
 ms.date: 06/08/2017
 ms.localizationpriority: medium

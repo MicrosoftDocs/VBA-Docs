@@ -1,6 +1,6 @@
 ---
 title: DocumentProperties members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: bb388713-3029-796e-3328-6193eb14d1bf
 ms.date: 01/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Seek statement (VBA)
 keywords: vblr6.chm1009013
 f1_keywords:
 - vblr6.chm1009013
-ms.prod: office
 ms.assetid: 08fff310-85a2-d860-2198-3a0b032c77bc
 ms.date: 12/03/2018
 ms.localizationpriority: medium

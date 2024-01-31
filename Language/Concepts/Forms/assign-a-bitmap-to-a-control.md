@@ -3,7 +3,6 @@ title: Assign a bitmap to a control
 keywords: fm20.chm5225262
 f1_keywords:
 - fm20.chm5225262
-ms.prod: office
 ms.assetid: 66f50814-b63c-f4e3-dd23-23b79d67aa43
 ms.date: 12/29/2018
 ms.localizationpriority: medium

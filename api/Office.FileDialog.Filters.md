@@ -3,7 +3,6 @@ title: FileDialog.Filters property (Office)
 keywords: vbaof11.chm256002
 f1_keywords:
 - vbaof11.chm256002
-ms.prod: office
 api_name:
 - Office.FileDialog.Filters
 ms.assetid: 0aef7760-a618-c20c-0816-98be1b93e564

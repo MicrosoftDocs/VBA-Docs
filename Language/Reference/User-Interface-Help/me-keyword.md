@@ -3,7 +3,6 @@ title: Me keyword (VBA)
 keywords: vblr6.chm1008868
 f1_keywords:
 - vblr6.chm1008868
-ms.prod: office
 ms.assetid: 6d062019-bb49-7acb-5f03-7bb5a2a09681
 ms.date: 12/03/2018
 ms.localizationpriority: medium

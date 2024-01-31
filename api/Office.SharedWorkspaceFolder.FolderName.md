@@ -3,7 +3,6 @@ title: SharedWorkspaceFolder.FolderName property (Office)
 keywords: vbaof11.chm268001
 f1_keywords:
 - vbaof11.chm268001
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.FolderName
 ms.assetid: 1a5df8fc-0e9a-3e4e-675d-dff3fd3e7f2a

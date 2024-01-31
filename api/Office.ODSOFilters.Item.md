@@ -3,7 +3,6 @@ title: ODSOFilters.Item method (Office)
 keywords: vbaof11.chm241003
 f1_keywords:
 - vbaof11.chm241003
-ms.prod: office
 api_name:
 - Office.ODSOFilters.Item
 ms.assetid: eff21bc3-dc55-82a4-d405-2d4842c8bfa0

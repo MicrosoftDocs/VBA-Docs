@@ -3,7 +3,6 @@ title: Options dialog box
 keywords: vbui6.chm181037
 f1_keywords:
 - vbui6.chm181037
-ms.prod: office
 ms.assetid: 2d6c72a2-ba81-727e-4578-dabbad50c92b
 ms.date: 11/27/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Form constants
 keywords: vblr6.chm915167
 f1_keywords:
 - vblr6.chm915167
-ms.prod: office
 ms.assetid: ed5817aa-1233-24c4-cb87-7747699ae899
 ms.date: 12/11/2018
 ms.localizationpriority: medium

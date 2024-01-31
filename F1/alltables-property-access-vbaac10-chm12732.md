@@ -3,7 +3,7 @@ title: AllTables Property, Access [vbaac10.chm12732]
 keywords: vbaac10.chm12732
 f1_keywords:
 - vbaac10.chm12732
-ms.prod: office
+ms.service: office
 ms.assetid: 6b8d627e-c1f7-4119-b2dc-4dc641eae024
 ms.date: 06/08/2017
 ms.localizationpriority: medium

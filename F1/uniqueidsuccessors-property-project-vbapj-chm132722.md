@@ -3,7 +3,7 @@ title: UniqueIDSuccessors Property, Project [vbapj.chm132722]
 keywords: vbapj.chm132722
 f1_keywords:
 - vbapj.chm132722
-ms.prod: office
+ms.service: office
 ms.assetid: ee832953-65ab-4c8f-8229-2edb8b9b3a34
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelPolicy.CreateSensitivityLabelInitInfo method (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelPolicy.CreateSensitivityLabelInitInfo
 ms.assetid: 98d78182-a1d1-46f3-9aca-f43606fdc1b0

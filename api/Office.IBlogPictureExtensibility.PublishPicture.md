@@ -3,7 +3,6 @@ title: IBlogPictureExtensibility.PublishPicture method (Office)
 keywords: vbaof11.chm329003
 f1_keywords:
 - vbaof11.chm329003
-ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility.PublishPicture
 ms.assetid: b8adbff6-a446-047d-59cd-359e69960d22

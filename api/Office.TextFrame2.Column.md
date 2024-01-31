@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.Column property (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.Column
 ms.assetid: a9573a4c-db61-ac40-a931-8e32460d1450

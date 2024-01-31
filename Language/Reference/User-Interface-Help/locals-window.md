@@ -1,6 +1,5 @@
 ---
 title: Locals window
-ms.prod: office
 ms.assetid: 32e88a9a-853c-e0ec-37ba-364706cf2958
 ms.date: 11/21/2018
 ms.localizationpriority: medium

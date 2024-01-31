@@ -3,7 +3,6 @@ title: GetFile method (Visual Basic for Applications)
 keywords: vblr6.chm2182054
 f1_keywords:
 - vblr6.chm2182054
-ms.prod: office
 api_name:
 - Office.GetFile
 ms.assetid: bdb2737e-7836-4dac-9216-6f1bd8f92aa8

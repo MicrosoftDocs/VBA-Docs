@@ -3,7 +3,6 @@ title: Default property (Microsoft Forms)
 keywords: fm20.chm2001070
 f1_keywords:
 - fm20.chm2001070
-ms.prod: office
 ms.assetid: d3c3a54c-5147-3ef5-545f-a1aece88d366
 ms.date: 11/16/2018
 ms.localizationpriority: medium

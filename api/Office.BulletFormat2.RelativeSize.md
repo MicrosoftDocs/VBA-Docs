@@ -1,6 +1,5 @@
 ---
 title: BulletFormat2.RelativeSize property (Office)
-ms.prod: office
 api_name:
 - Office.BulletFormat2.RelativeSize
 ms.assetid: 91c5b349-008a-b4bc-befb-1b8e188d7e2f

@@ -1,6 +1,5 @@
 ---
 title: EffectParameters.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.EffectParameters.Creator
 ms.assetid: 9a2695cf-781f-a2d0-86a6-c825a712c9b7

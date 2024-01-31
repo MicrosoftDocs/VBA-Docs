@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.SpaceBefore property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.SpaceBefore
 ms.assetid: 2e028be2-72d2-0101-a148-038957851cf2

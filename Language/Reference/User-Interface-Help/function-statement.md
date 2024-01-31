@@ -3,7 +3,6 @@ title: Function statement (VBA)
 keywords: vblr6.chm1008927
 f1_keywords:
 - vblr6.chm1008927
-ms.prod: office
 ms.assetid: 407a6e70-b3e4-f13a-bda9-59296b288287
 ms.date: 12/03/2018
 ms.localizationpriority: medium

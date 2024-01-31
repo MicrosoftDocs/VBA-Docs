@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.Larger method (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.Larger
 ms.assetid: d3fba84c-679c-a1bb-4ea5-85b790b6012e

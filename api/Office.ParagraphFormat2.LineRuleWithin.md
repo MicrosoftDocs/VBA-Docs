@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.LineRuleWithin property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleWithin
 ms.assetid: 356a02e9-cc99-9ab6-4ba3-36b0a6d07542

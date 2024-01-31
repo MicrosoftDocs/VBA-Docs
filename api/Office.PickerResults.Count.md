@@ -3,7 +3,6 @@ title: PickerResults.Count property (Office)
 keywords: vbaof11.chm339002
 f1_keywords:
 - vbaof11.chm339002
-ms.prod: office
 api_name:
 - Office.PickerResults.Count
 ms.assetid: e5085585-9f4d-938c-0b0c-895e11d7f44c

@@ -3,7 +3,7 @@ title: NumeralShapes Property, Access [vbaac10.chm5007]
 keywords: vbaac10.chm5007
 f1_keywords:
 - vbaac10.chm5007
-ms.prod: office
+ms.service: office
 ms.assetid: 1b85b921-b455-4e17-b8d0-dc62a48e6773
 ms.date: 06/08/2017
 ms.localizationpriority: medium

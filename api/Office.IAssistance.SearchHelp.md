@@ -1,6 +1,5 @@
 ---
 title: IAssistance.SearchHelp method (Office)
-ms.prod: office
 api_name:
 - Office.IAssistance.SearchHelp
 ms.assetid: 807128e9-5125-1650-d53f-cbd50d3e318a

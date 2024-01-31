@@ -1,6 +1,6 @@
 ---
 title: CommandBarButton members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 69fe57fe-dabc-9379-283c-d0a51a775592
 ms.date: 01/30/2019
 ms.localizationpriority: medium

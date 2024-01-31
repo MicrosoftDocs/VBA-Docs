@@ -3,7 +3,6 @@ title: Avoiding naming conflicts (VBA)
 keywords: vbcn6.chm1076671
 f1_keywords:
 - vbcn6.chm1076671
-ms.prod: office
 ms.assetid: bdeffd46-cdbc-4702-472a-e28df9507bb1
 ms.date: 12/21/2018
 ms.localizationpriority: medium

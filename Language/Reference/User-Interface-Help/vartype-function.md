@@ -3,7 +3,6 @@ title: VarType function (Visual Basic for Applications)
 keywords: vblr6.chm1009057
 f1_keywords:
 - vblr6.chm1009057
-ms.prod: office
 ms.assetid: 7422fba5-7ea9-1d91-fc0e-5694c352d2d0
 ms.date: 04/17/2019
 ms.localizationpriority: medium

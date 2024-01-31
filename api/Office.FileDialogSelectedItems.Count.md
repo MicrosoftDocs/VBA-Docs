@@ -3,7 +3,6 @@ title: FileDialogSelectedItems.Count property (Office)
 keywords: vbaof11.chm253002
 f1_keywords:
 - vbaof11.chm253002
-ms.prod: office
 api_name:
 - Office.FileDialogSelectedItems.Count
 ms.assetid: c571c03e-02de-f0a3-0e3f-1fdf9f0d221c

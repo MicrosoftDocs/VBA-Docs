@@ -3,7 +3,6 @@ title: Tools menu
 keywords: vbui6.chm2057563
 f1_keywords:
 - vbui6.chm2057563
-ms.prod: office
 ms.assetid: dd4368a8-d7d6-5705-cce1-907a69a77422
 ms.date: 11/24/2018
 ms.localizationpriority: medium

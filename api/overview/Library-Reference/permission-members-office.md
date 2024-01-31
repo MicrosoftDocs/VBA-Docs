@@ -1,6 +1,6 @@
 ---
 title: Permission members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 75614d24-cd47-ef9b-aba5-112206daa358
 ms.date: 06/01/2022
 ms.localizationpriority: medium

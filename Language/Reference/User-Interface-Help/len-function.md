@@ -3,7 +3,6 @@ title: Len function (Visual Basic for Applications)
 keywords: vblr6.chm1011065
 f1_keywords:
 - vblr6.chm1011065
-ms.prod: office
 ms.assetid: 5b5b8789-90cc-ac2c-e6a7-1da1d684bd81
 ms.date: 12/13/2018
 ms.localizationpriority: medium

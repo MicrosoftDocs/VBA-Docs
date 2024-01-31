@@ -3,7 +3,6 @@ title: WorkflowTask object (Office)
 keywords: vbaof11.chm280000
 f1_keywords:
 - vbaof11.chm280000
-ms.prod: office
 api_name:
 - Office.WorkflowTask
 ms.assetid: 9d17947e-f12a-2f97-7888-8d5ec9f85011

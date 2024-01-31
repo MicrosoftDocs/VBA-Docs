@@ -3,7 +3,6 @@ title: Add a control to the **\[Toolbox](../../reference/user-interface-help/too
 keywords: fm20.chm5225208
 f1_keywords:
 - fm20.chm5225208
-ms.prod: office
 ms.assetid: 1c7c6233-5e89-7642-4a98-d8cba475153c
 ms.date: 12/29/2018
 ms.localizationpriority: medium

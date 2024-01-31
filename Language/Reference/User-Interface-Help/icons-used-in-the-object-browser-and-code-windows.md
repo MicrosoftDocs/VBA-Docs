@@ -3,7 +3,6 @@ title: Code window and Object Browser icons
 keywords: vbui6.chm1106455
 f1_keywords:
 - vbui6.chm1106455
-ms.prod: office
 ms.assetid: b7d94080-73b0-d64c-100a-dce3a81cda21
 ms.date: 11/21/2018
 ms.localizationpriority: medium

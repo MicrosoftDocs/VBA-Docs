@@ -3,7 +3,7 @@ title: Work Property, Project [vbapj.chm132776]
 keywords: vbapj.chm132776
 f1_keywords:
 - vbapj.chm132776
-ms.prod: office
+ms.service: office
 ms.assetid: a9185891-a626-435a-af42-3dc9bb2480c2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

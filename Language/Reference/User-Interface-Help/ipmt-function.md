@@ -3,7 +3,6 @@ title: IPmt function (Visual Basic for Applications)
 keywords: vblr6.chm1009281
 f1_keywords:
 - vblr6.chm1009281
-ms.prod: office
 ms.assetid: ee1db73e-9121-8451-8780-d4681f1f42dd
 ms.date: 12/13/2018
 ms.localizationpriority: medium

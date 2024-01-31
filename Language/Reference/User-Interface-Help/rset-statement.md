@@ -3,7 +3,6 @@ title: RSet statement (VBA)
 keywords: vblr6.chm1009009
 f1_keywords:
 - vblr6.chm1009009
-ms.prod: office
 ms.assetid: 07a4f730-ef85-cbeb-30ac-ea51d161f27f
 ms.date: 12/03/2018
 ms.localizationpriority: medium

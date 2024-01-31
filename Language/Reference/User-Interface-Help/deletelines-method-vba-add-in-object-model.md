@@ -3,7 +3,6 @@ title: DeleteLines method (VBA Add-In Object Model)
 keywords: vbob6.chm104014
 f1_keywords:
 - vbob6.chm104014
-ms.prod: office
 ms.assetid: b6e1bd5d-23b2-0bc4-bcc6-b7e371df4b93
 ms.date: 12/06/2018
 ms.localizationpriority: medium

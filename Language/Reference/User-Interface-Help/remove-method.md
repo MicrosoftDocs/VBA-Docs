@@ -3,7 +3,6 @@ title: Remove method (Microsoft Forms)
 keywords: fm20.chm2000360
 f1_keywords:
 - fm20.chm2000360
-ms.prod: office
 api_name:
 - Office.Remove
 ms.assetid: 16ee4145-3e1e-9e44-7af1-2ecd3a92c9e3

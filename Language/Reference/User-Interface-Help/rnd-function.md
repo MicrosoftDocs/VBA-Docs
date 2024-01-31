@@ -3,7 +3,6 @@ title: Rnd function (Visual Basic for Applications)
 keywords: vblr6.chm1009008
 f1_keywords:
 - vblr6.chm1009008
-ms.prod: office
 ms.assetid: 57b9e8f9-6e3e-e68b-f5a4-c9c312b74426
 ms.date: 12/13/2018
 ms.localizationpriority: medium

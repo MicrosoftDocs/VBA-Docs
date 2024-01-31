@@ -3,7 +3,6 @@ title: PickerDialog object (Office)
 keywords: vbaof11.chm340000
 f1_keywords:
 - vbaof11.chm340000
-ms.prod: office
 api_name:
 - Office.PickerDialog
 ms.assetid: 279b1a6a-f09d-a0e7-89c9-aac6c581439f

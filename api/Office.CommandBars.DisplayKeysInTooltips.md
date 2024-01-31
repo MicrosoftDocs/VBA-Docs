@@ -3,7 +3,6 @@ title: CommandBars.DisplayKeysInTooltips property (Office)
 keywords: vbaof11.chm2006
 f1_keywords:
 - vbaof11.chm2006
-ms.prod: office
 api_name:
 - Office.CommandBars.DisplayKeysInTooltips
 ms.assetid: de132c5f-bc9f-c335-28ff-b9459c912b2c

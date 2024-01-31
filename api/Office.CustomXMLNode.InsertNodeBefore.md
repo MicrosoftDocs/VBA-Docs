@@ -3,7 +3,6 @@ title: CustomXMLNode.InsertNodeBefore method (Office)
 keywords: vbaof11.chm294023
 f1_keywords:
 - vbaof11.chm294023
-ms.prod: office
 api_name:
 - Office.CustomXMLNode.InsertNodeBefore
 ms.assetid: b2805906-16b7-aebd-ccde-ded736a1b69b

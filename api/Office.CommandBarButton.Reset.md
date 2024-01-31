@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.Reset method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Reset
 ms.assetid: 0e39c960-3928-f91a-cf7e-1df5a2fd217b

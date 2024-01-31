@@ -3,7 +3,6 @@ title: "Seek failed: can't read/write from the disk"
 keywords: vblr6.chm1011272
 f1_keywords:
 - vblr6.chm1011272
-ms.prod: office
 ms.assetid: b91ba9ad-672d-a2a8-ffa2-4f19cdf2119e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

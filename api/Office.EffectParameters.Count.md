@@ -1,6 +1,5 @@
 ---
 title: EffectParameters.Count property (Office)
-ms.prod: office
 api_name:
 - Office.EffectParameters.Count
 ms.assetid: 19f2caa5-a393-4164-9b3e-560be1ccdf34

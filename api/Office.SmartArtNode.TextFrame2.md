@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.TextFrame2 property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.TextFrame2
 ms.assetid: 550a5bd1-bb9d-3ffb-ed14-4687dfcc3f62

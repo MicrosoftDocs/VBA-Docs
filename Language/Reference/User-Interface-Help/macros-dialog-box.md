@@ -3,7 +3,6 @@ title: Macros dialog box
 keywords: vbui6.chm1078151
 f1_keywords:
 - vbui6.chm1078151
-ms.prod: office
 ms.assetid: 1746e7a5-fbe9-0738-c366-fc7e0687a98f
 ms.date: 11/27/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: UserPermission.Application property (Office)
-ms.prod: office
 api_name:
 - Office.UserPermission.Application
 ms.assetid: 03d02785-db83-061c-4039-f235ba15b2f1

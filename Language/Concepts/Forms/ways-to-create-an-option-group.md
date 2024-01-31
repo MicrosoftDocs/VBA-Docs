@@ -3,7 +3,6 @@ title: Create an option group
 keywords: fm20.chm5225256
 f1_keywords:
 - fm20.chm5225256
-ms.prod: office
 ms.assetid: 03e01236-e877-11a1-5de7-52d6307185e7
 ms.date: 12/29/2018
 ms.localizationpriority: medium

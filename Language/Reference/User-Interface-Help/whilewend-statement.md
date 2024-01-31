@@ -3,7 +3,6 @@ title: While...Wend statement (VBA)
 keywords: vblr6.chm1008811
 f1_keywords:
 - vblr6.chm1008811
-ms.prod: office
 ms.assetid: c905a6a3-fa70-42df-5ef0-c4e3193c2e10
 ms.date: 12/03/2018
 ms.localizationpriority: medium

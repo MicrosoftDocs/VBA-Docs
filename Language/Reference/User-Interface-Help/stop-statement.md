@@ -3,7 +3,6 @@ title: Stop statement (VBA)
 keywords: vblr6.chm1009033
 f1_keywords:
 - vblr6.chm1009033
-ms.prod: office
 ms.assetid: 9b6b5394-9b19-8f18-216c-ac64b165218f
 ms.date: 12/03/2018
 ms.localizationpriority: medium

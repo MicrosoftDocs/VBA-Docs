@@ -3,7 +3,6 @@ title: CustomXMLSchemaCollection.Item property (Office)
 keywords: vbaof11.chm292003
 f1_keywords:
 - vbaof11.chm292003
-ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Item
 ms.assetid: 1a361a57-70c7-04dc-9dcc-f801c8b187f7

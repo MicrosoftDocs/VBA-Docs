@@ -3,7 +3,6 @@ title: CommandBars.Count property (Office)
 keywords: vbaof11.chm2004
 f1_keywords:
 - vbaof11.chm2004
-ms.prod: office
 api_name:
 - Office.CommandBars.Count
 ms.assetid: 10b19483-f9a0-dd0d-512f-74afc1ddfe8b

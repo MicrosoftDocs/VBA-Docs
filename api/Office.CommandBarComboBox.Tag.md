@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Tag property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Tag
 ms.assetid: 0bc1957b-aa17-aaa6-e416-26db0a34f342

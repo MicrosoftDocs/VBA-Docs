@@ -1,6 +1,5 @@
 ---
 title: WebPageFonts.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.WebPageFonts.Creator
 ms.assetid: 3d21d127-a563-0faf-ae26-b971d1257f2b

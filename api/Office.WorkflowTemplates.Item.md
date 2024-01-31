@@ -3,7 +3,6 @@ title: WorkflowTemplates.Item property (Office)
 keywords: vbaof11.chm283001
 f1_keywords:
 - vbaof11.chm283001
-ms.prod: office
 ms.assetid: 78502845-f000-96e6-dbd0-f144cc8a6f32
 ms.date: 01/29/2019
 ms.localizationpriority: medium

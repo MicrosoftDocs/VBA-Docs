@@ -1,6 +1,5 @@
 ---
 title: GlowFormat.Radius property (Office)
-ms.prod: office
 api_name:
 - Office.GlowFormat.Radius
 ms.assetid: 3609b6c7-656f-2d69-ef5d-86cfd94605af

@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.BuiltIn property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.BuiltIn
 ms.assetid: 0a159c65-99d1-efdf-ec5c-f4e51060dd09

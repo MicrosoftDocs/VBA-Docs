@@ -3,7 +3,6 @@ title: DocumentInspectors.Parent property (Office)
 keywords: vbaof11.chm278003
 f1_keywords:
 - vbaof11.chm278003
-ms.prod: office
 api_name:
 - Office.DocumentInspectors.Parent
 ms.assetid: 0d1f3b49-10ca-844c-6408-82d54842044e

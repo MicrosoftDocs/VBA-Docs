@@ -3,7 +3,7 @@ title: Number10 Property, Project [vbapj.chm132423]
 keywords: vbapj.chm132423
 f1_keywords:
 - vbapj.chm132423
-ms.prod: office
+ms.service: office
 ms.assetid: e883466d-fbfd-48b8-9257-249ed29642f4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

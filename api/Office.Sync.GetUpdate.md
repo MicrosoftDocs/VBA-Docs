@@ -3,7 +3,6 @@ title: Sync.GetUpdate method (Office)
 keywords: vbaof11.chm277007
 f1_keywords:
 - vbaof11.chm277007
-ms.prod: office
 api_name:
 - Office.GetUpdate
 ms.assetid: a92c0096-fcf2-2754-31e6-2b20a5841463

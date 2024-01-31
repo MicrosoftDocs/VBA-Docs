@@ -3,7 +3,6 @@ title: String data type
 keywords: vblr6.chm1009036
 f1_keywords:
 - vblr6.chm1009036
-ms.prod: office
 ms.assetid: 1c16e27a-ea31-cdbd-adbf-c9a7c81cc81c
 ms.date: 11/19/2018
 ms.localizationpriority: medium

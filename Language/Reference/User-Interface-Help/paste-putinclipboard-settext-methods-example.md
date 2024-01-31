@@ -3,7 +3,6 @@ title: Paste, PutInClipboard, SetText methods example
 keywords: fm20.chm5225164
 f1_keywords:
 - fm20.chm5225164
-ms.prod: office
 ms.assetid: d7045eb8-3b79-a490-91a8-b6f5369bbf8c
 ms.date: 11/14/2018
 ms.localizationpriority: medium

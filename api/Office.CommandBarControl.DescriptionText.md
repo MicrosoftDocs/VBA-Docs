@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.DescriptionText property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.DescriptionText
 ms.assetid: 4f7b8e0d-1f3a-f751-86a7-3378f21ecf3d

@@ -3,7 +3,6 @@ title: Paste method (Microsoft Forms)
 keywords: fm20.chm2000330
 f1_keywords:
 - fm20.chm2000330
-ms.prod: office
 ms.assetid: 6812d686-7f6f-c59f-5892-c377f3c33f66
 ms.date: 11/15/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ScrollBars property
 keywords: fm20.chm2001780
 f1_keywords:
 - fm20.chm2001780
-ms.prod: office
 api_name:
 - Office.ScrollBars
 ms.assetid: cf925c0d-45ac-a724-6149-2aed7725b593

@@ -3,7 +3,7 @@ title: DateFormat Property, Project [vbapj.chm132632]
 keywords: vbapj.chm132632
 f1_keywords:
 - vbapj.chm132632
-ms.prod: office
+ms.service: office
 ms.assetid: 4b23976c-ca4e-4d10-86c6-56b3007cff53
 ms.date: 06/08/2017
 ms.localizationpriority: medium

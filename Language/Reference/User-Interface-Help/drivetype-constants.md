@@ -1,6 +1,5 @@
 ---
 title: DriveType constants
-ms.prod: office
 ms.assetid: d3e1fec9-927e-8c8d-911b-864e930801bb
 ms.date: 12/11/2018
 ms.localizationpriority: medium

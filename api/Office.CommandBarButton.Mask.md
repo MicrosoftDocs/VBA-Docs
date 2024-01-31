@@ -3,7 +3,6 @@ title: CommandBarButton.Mask property (Office)
 keywords: vbaof11.chm6010
 f1_keywords:
 - vbaof11.chm6010
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Mask
 ms.assetid: de7179ac-6b39-2323-d84a-23abe3ed3167

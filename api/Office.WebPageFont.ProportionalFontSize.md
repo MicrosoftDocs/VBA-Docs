@@ -3,7 +3,6 @@ title: WebPageFont.ProportionalFontSize property (Office)
 keywords: vbaof11.chm224002
 f1_keywords:
 - vbaof11.chm224002
-ms.prod: office
 api_name:
 - Office.WebPageFont.ProportionalFontSize
 ms.assetid: b51333ff-5017-8533-ea74-3a104ed67dd8

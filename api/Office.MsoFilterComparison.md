@@ -1,6 +1,5 @@
 ---
 title: MsoFilterComparison enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoFilterComparison
 ms.assetid: 12650101-777b-2142-e985-cc34d5e2fb16

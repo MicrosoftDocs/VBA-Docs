@@ -3,7 +3,6 @@ title: Max, Min, Zoom properties, Frame, ScrollBar controls example
 keywords: fm20.chm5225158
 f1_keywords:
 - fm20.chm5225158
-ms.prod: office
 ms.assetid: 87bb60ba-4d1c-3160-b3d8-2e70019ec590
 ms.date: 11/14/2018
 ms.localizationpriority: medium

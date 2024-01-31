@@ -3,7 +3,6 @@ title: MouseDown, MouseUp events
 keywords: fm20.chm5224947
 f1_keywords:
 - fm20.chm5224947
-ms.prod: office
 ms.assetid: 760c2492-4a33-8d17-eeef-e52da662d4c4
 ms.date: 11/15/2018
 ms.localizationpriority: medium

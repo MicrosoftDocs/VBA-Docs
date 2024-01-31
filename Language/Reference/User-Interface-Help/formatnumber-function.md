@@ -3,7 +3,6 @@ title: FormatNumber function (Visual Basic for Applications)
 keywords: vblr6.chm1008937
 f1_keywords:
 - vblr6.chm1008937
-ms.prod: office
 ms.assetid: ab4012b3-efed-bc06-9c5e-416c9200ffed
 ms.date: 12/12/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: GetDriveName method (Visual Basic for Applications)
 keywords: vblr6.chm2182049
 f1_keywords:
 - vblr6.chm2182049
-ms.prod: office
 api_name:
 - Office.GetDriveName
 ms.assetid: cbd31a00-c593-defe-71ad-d1ddde377737

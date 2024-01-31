@@ -1,6 +1,5 @@
 ---
 title: CustomXMLPrefixMapping object (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping
 ms.assetid: a657a760-cc52-5762-108e-2e95e9dba48f

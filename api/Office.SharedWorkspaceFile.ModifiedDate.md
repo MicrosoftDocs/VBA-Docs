@@ -3,7 +3,6 @@ title: SharedWorkspaceFile.ModifiedDate property (Office)
 keywords: vbaof11.chm266005
 f1_keywords:
 - vbaof11.chm266005
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.ModifiedDate
 ms.assetid: c4d0f54c-db16-8a1e-a5d0-56ec9d5287fa

@@ -1,6 +1,5 @@
 ---
 title: MsoAlignCmd enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoAlignCmd
 ms.assetid: d4c62376-bb88-65e1-8922-ced2e5256ff7

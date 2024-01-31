@@ -3,7 +3,6 @@ title: On...GoSub, On...GoTo statements (VBA)
 keywords: vblr6.chm1008986
 f1_keywords:
 - vblr6.chm1008986
-ms.prod: office
 ms.assetid: 9c182e3e-55ba-0d0e-b66c-6ae00189fec5
 ms.date: 12/03/2018
 ms.localizationpriority: medium

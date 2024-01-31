@@ -1,6 +1,5 @@
 ---
 title: MsoCommandBarButtonHyperlinkType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoCommandBarButtonHyperlinkType
 ms.assetid: 24d14e60-52ad-f79e-9cd8-2a8bdac8caaa

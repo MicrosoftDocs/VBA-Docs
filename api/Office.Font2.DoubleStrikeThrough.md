@@ -1,6 +1,5 @@
 ---
 title: Font2.DoubleStrikeThrough property (Office)
-ms.prod: office
 api_name:
 - Office.Font2.DoubleStrikeThrough
 ms.assetid: 494bc4ab-8de5-d63b-c508-8ed0aa4fca6c

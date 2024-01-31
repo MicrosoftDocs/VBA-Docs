@@ -3,7 +3,6 @@ title: SharedWorkspaceMembers.Count property (Office)
 keywords: vbaof11.chm273002
 f1_keywords:
 - vbaof11.chm273002
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers.Count
 ms.assetid: 4a981755-bde1-c8d0-8571-4b3a90ea3b23

@@ -1,7 +1,7 @@
 ---
 title: ThemeFonts members (Office)
 description: Represents a collection of major and minor fonts in the font scheme of a Microsoft Office theme.
-ms.prod: office
+ms.service: office
 ms.assetid: 3ee20de9-c245-4432-e352-857326e08561
 ms.date: 01/30/2019
 ms.localizationpriority: medium

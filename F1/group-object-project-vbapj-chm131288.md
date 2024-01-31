@@ -3,7 +3,7 @@ title: Group Object, Project [vbapj.chm131288]
 keywords: vbapj.chm131288
 f1_keywords:
 - vbapj.chm131288
-ms.prod: office
+ms.service: office
 ms.assetid: 68774ca8-8912-4ef2-8724-44f8152b2ff0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

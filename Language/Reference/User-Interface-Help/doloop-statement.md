@@ -3,7 +3,6 @@ title: Do...Loop statement (VBA)
 keywords: vblr6.chm1008790
 f1_keywords:
 - vblr6.chm1008790
-ms.prod: office
 ms.assetid: f1ac3901-238d-3e38-45dc-f659fd88c23b
 ms.date: 12/03/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: MoveFile method (Visual Basic for Applications)
 keywords: vblr6.chm2182059
 f1_keywords:
 - vblr6.chm2182059
-ms.prod: office
 api_name:
 - Office.MoveFile
 ms.assetid: 1b5dec21-8333-1bc6-0088-6999051beaa4

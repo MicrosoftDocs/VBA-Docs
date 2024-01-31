@@ -3,7 +3,7 @@ title: Flag10 Property, Project [vbapj.chm132236]
 keywords: vbapj.chm132236
 f1_keywords:
 - vbapj.chm132236
-ms.prod: office
+ms.service: office
 ms.assetid: 3b322733-945d-4e00-b588-2141543fea00
 ms.date: 06/08/2017
 ms.localizationpriority: medium

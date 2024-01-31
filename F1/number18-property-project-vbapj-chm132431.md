@@ -3,7 +3,7 @@ title: Number18 Property, Project [vbapj.chm132431]
 keywords: vbapj.chm132431
 f1_keywords:
 - vbapj.chm132431
-ms.prod: office
+ms.service: office
 ms.assetid: 9c677c5b-0cd9-41d3-8744-242323c69589
 ms.date: 06/08/2017
 ms.localizationpriority: medium

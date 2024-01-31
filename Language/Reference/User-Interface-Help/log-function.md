@@ -3,7 +3,6 @@ title: Log function (Visual Basic for Applications)
 keywords: vblr6.chm1008966
 f1_keywords:
 - vblr6.chm1008966
-ms.prod: office
 ms.assetid: 09ff0a30-0138-cfad-6cb8-2172c8ff37f2
 ms.date: 12/13/2018
 ms.localizationpriority: medium

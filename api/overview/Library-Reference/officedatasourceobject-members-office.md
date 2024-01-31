@@ -1,6 +1,6 @@
 ---
 title: OfficeDataSourceObject members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff
 ms.date: 01/30/2019
 ms.localizationpriority: medium

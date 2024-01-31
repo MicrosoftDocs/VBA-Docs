@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.WordWrap property (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.WordWrap
 ms.assetid: 479e5798-70fa-f9e4-0901-51cb32915a07

@@ -3,7 +3,6 @@ title: Shell function (Visual Basic for Applications)
 keywords: vblr6.chm1009023
 f1_keywords:
 - vblr6.chm1009023
-ms.prod: office
 ms.assetid: 033bffb0-540f-2c17-2aed-d25d10bedd8c
 ms.date: 12/29/2020
 ms.localizationpriority: high

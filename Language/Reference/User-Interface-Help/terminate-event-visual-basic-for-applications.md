@@ -3,7 +3,6 @@ title: Terminate event (Visual Basic for Applications)
 keywords: vblr6.chm1107499
 f1_keywords:
 - vblr6.chm1107499
-ms.prod: office
 ms.assetid: f386e522-fc8a-f073-668d-e804dca9de49
 ms.date: 12/11/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: TextRange2.RotatedBounds method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.RotatedBounds
 ms.assetid: e8e1b0dc-426f-c804-e91a-8cd5345186de

@@ -3,7 +3,6 @@ title: Bad record length (Error 59)
 keywords: vblr6.chm1000059
 f1_keywords:
 - vblr6.chm1000059
-ms.prod: office
 ms.assetid: 4fd56cfa-a45c-1ac9-5ef0-3ccec2004d48
 ms.date: 06/08/2017
 ms.localizationpriority: medium

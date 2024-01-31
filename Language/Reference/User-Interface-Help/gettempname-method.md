@@ -3,7 +3,6 @@ title: GetTempName method (Visual Basic for Applications)
 keywords: vblr6.chm2182058
 f1_keywords:
 - vblr6.chm2182058
-ms.prod: office
 api_name:
 - Office.GetTempName
 ms.assetid: 43d8a9b2-b8ea-3ef8-f0ea-84ddb5467f0a

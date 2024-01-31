@@ -3,7 +3,6 @@ title: This array is fixed or temporarily locked (Error 10)
 keywords: vblr6.chm1019365
 f1_keywords:
 - vblr6.chm1019365
-ms.prod: office
 ms.assetid: 075c8897-c6e6-839f-a372-1e2249fc99e8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

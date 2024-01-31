@@ -3,7 +3,6 @@ title: FileDialogFilters.Delete method (Office)
 keywords: vbaof11.chm255004
 f1_keywords:
 - vbaof11.chm255004
-ms.prod: office
 api_name:
 - Office.FileDialogFilters.Delete
 ms.assetid: 708b934e-c391-6a35-3524-6aa1b318b224

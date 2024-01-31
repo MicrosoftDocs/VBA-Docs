@@ -3,7 +3,6 @@ title: IRibbonExtensibility.GetCustomUI method (Office)
 keywords: vbaof11.chm289001
 f1_keywords:
 - vbaof11.chm289001
-ms.prod: office
 api_name:
 - Office.IRibbonExtensibility.GetCustomUI
 ms.assetid: a0106415-999e-94da-379c-70fb7aa6119f

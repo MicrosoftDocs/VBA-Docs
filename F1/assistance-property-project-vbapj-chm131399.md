@@ -3,7 +3,7 @@ title: Assistance Property, Project [vbapj.chm131399]
 keywords: vbapj.chm131399
 f1_keywords:
 - vbapj.chm131399
-ms.prod: office
+ms.service: office
 ms.assetid: 2fd72821-50d1-4dbc-ba9c-3fa0990373b4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

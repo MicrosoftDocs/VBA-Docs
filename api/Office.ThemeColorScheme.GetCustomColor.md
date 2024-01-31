@@ -1,6 +1,5 @@
 ---
 title: ThemeColorScheme.GetCustomColor method (Office)
-ms.prod: office
 api_name:
 - Office.ThemeColorScheme.GetCustomColor
 ms.assetid: 67ac156e-19ab-245e-b6f8-03514f802acb

@@ -3,7 +3,6 @@ title: CallType constants
 keywords: vblr6.chm1012533
 f1_keywords:
 - vblr6.chm1012533
-ms.prod: office
 ms.assetid: 299443d0-3268-ffae-3492-88d5155cae54
 ms.date: 12/11/2018
 ms.localizationpriority: medium

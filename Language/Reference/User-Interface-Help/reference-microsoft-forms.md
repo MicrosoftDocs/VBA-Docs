@@ -1,6 +1,5 @@
 ---
 title: Microsoft Forms reference
-ms.prod: office
 ms.assetid: 01b19147-650c-4e20-84d7-06ab2fd746f7
 ms.date: 12/29/2018
 ms.localizationpriority: medium
