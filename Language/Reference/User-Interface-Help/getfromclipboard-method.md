@@ -3,7 +3,6 @@ title: GetFromClipboard method (Microsoft Forms)
 keywords: fm20.chm5224960
 f1_keywords:
 - fm20.chm5224960
-ms.prod: office
 api_name:
 - Office.GetFromClipboard
 ms.assetid: 8a034bf7-b6cf-ed9f-2e1c-2a4325494970

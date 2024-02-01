@@ -3,7 +3,6 @@ title: SharedWorkspaceFile.CreatedBy property (Office)
 keywords: vbaof11.chm266002
 f1_keywords:
 - vbaof11.chm266002
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.CreatedBy
 ms.assetid: e16e3e87-7188-7650-db58-d26e7a98d4eb

@@ -1,6 +1,5 @@
 ---
 title: MailFormat enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MailFormat
 ms.assetid: 78024af9-94d0-512a-cadd-9fd2c7af273d

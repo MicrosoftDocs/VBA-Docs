@@ -3,7 +3,6 @@ title: FileDialog.Show method (Office)
 keywords: vbaof11.chm256012
 f1_keywords:
 - vbaof11.chm256012
-ms.prod: office
 api_name:
 - Office.FileDialog.Show
 ms.assetid: e67f7fc3-326d-12d0-fe44-e20048ff6abf

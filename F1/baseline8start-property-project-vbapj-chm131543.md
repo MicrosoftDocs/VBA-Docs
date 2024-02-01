@@ -3,7 +3,7 @@ title: Baseline8Start Property, Project [vbapj.chm131543]
 keywords: vbapj.chm131543
 f1_keywords:
 - vbapj.chm131543
-ms.prod: office
+ms.service: office
 ms.assetid: a6c6918e-7f6d-46ef-89aa-3a3aa452435a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

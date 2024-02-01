@@ -1,6 +1,5 @@
 ---
 title: GlowFormat.Transparency property (Office)
-ms.prod: office
 api_name:
 - Office.GlowFormat.Transparency
 ms.assetid: 708b5fcf-aaca-8968-9a12-1b3b53f5cb86

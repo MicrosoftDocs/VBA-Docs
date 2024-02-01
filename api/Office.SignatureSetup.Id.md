@@ -1,6 +1,5 @@
 ---
 title: SignatureSetup.Id property (Office)
-ms.prod: office
 api_name:
 - Office.SignatureSetup.Id
 ms.assetid: 9520a91b-288e-1456-9661-84d76248d43e

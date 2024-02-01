@@ -3,7 +3,6 @@ title: WorkflowTask.ListID property (Office)
 keywords: vbaof11.chm280002
 f1_keywords:
 - vbaof11.chm280002
-ms.prod: office
 api_name:
 - Office.WorkflowTask.ListID
 ms.assetid: 012540e6-ed54-8bcd-9d43-5f83cc782b21

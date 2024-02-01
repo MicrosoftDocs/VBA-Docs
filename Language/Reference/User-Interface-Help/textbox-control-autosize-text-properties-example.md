@@ -3,7 +3,6 @@ title: TextBox control, AutoSize, Text properties example
 keywords: fm20.chm5225181
 f1_keywords:
 - fm20.chm5225181
-ms.prod: office
 ms.assetid: a54a63a4-7428-2067-3eaa-aecf20d64428
 ms.date: 11/14/2018
 ms.localizationpriority: medium

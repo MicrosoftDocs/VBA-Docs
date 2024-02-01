@@ -3,7 +3,6 @@ title: Object library's language setting incompatible with current project
 keywords: vblr6.chm1040340
 f1_keywords:
 - vblr6.chm1040340
-ms.prod: office
 ms.assetid: 4427c8c1-9990-0761-5f5b-2c58ba6eb329
 ms.date: 06/08/2017
 ms.localizationpriority: medium

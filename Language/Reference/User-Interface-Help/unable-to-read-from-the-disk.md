@@ -3,7 +3,6 @@ title: Unable to read from the disk
 keywords: vblr6.chm1011259
 f1_keywords:
 - vblr6.chm1011259
-ms.prod: office
 ms.assetid: fe112760-1d3d-5e3e-ff0b-8e555d9489b1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

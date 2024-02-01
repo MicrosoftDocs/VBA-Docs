@@ -3,7 +3,6 @@ title: SignatureSetup.SignatureProvider property (Office)
 keywords: vbaof11.chm285003
 f1_keywords:
 - vbaof11.chm285003
-ms.prod: office
 api_name:
 - Office.SignatureSetup.SignatureProvider
 ms.assetid: ad332561-a49f-a830-7f3a-2e8df4730765

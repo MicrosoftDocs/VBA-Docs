@@ -1,6 +1,5 @@
 ---
 title: MsoEncoding enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoEncoding
 ms.assetid: 286bed6e-6028-a252-5e4f-b505234d9d34

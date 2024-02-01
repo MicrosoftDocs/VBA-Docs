@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Copy method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Copy
 ms.assetid: 15eb757c-bb07-cd98-ff9e-1810db4f475c

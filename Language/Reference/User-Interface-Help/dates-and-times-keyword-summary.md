@@ -1,6 +1,5 @@
 ---
 title: Dates and times keyword summary
-ms.prod: office
 ms.assetid: 34f9d4b6-f1b1-83fd-4f6a-4cc7fed76861
 ms.date: 11/29/2018
 ms.localizationpriority: medium

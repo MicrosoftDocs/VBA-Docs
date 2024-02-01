@@ -3,7 +3,7 @@ title: UserName Property, Project [vbapj.chm132732]
 keywords: vbapj.chm132732
 f1_keywords:
 - vbapj.chm132732
-ms.prod: office
+ms.service: office
 ms.assetid: 0cdd7c4f-eed6-465c-b071-b39fa11c4dfb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: ReflectionFormat.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.ReflectionFormat.Creator
 ms.assetid: a2e8bf4f-55a5-fb34-2cdf-438ab3948ba1

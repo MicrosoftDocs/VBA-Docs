@@ -1,6 +1,5 @@
 ---
 title: CustomXMLParts.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLParts.Creator
 ms.assetid: b230333f-1bf4-95d6-71d5-089ce884df98

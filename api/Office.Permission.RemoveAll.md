@@ -3,7 +3,6 @@ title: Permission.RemoveAll method (Office)
 keywords: vbaof11.chm261007
 f1_keywords:
 - vbaof11.chm261007
-ms.prod: office
 api_name:
 - Office.Permission.RemoveAll
 ms.assetid: 33dc3f62-c92f-03b0-e164-98c366bbdb32

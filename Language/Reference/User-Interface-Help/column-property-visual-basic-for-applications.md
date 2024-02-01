@@ -3,7 +3,6 @@ title: Column property (Visual Basic for Applications)
 keywords: vblr6.chm2182073
 f1_keywords:
 - vblr6.chm2182073
-ms.prod: office
 ms.assetid: 5733f4a5-cf81-632f-8a29-df71951d0c7e
 ms.date: 12/19/2018
 ms.localizationpriority: medium

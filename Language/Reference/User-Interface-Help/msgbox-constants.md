@@ -3,7 +3,6 @@ title: MsgBox constants
 keywords: vblr6.chm1012528
 f1_keywords:
 - vblr6.chm1012528
-ms.prod: office
 ms.assetid: c07bba5c-b724-0a63-b829-5efd8798734f
 ms.date: 12/11/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: MouseMove event
 keywords: fm20.chm2000180
 f1_keywords:
 - fm20.chm2000180
-ms.prod: office
 api_name:
 - Office.MouseMove
 ms.assetid: 0bbb767d-c113-2a65-7ca1-a3f98f4a3cce

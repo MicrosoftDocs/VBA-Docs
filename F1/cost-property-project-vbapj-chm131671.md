@@ -3,7 +3,7 @@ title: Cost Property, Project - [vbapj.chm131671]
 keywords: vbapj.chm131671
 f1_keywords:
 - vbapj.chm131671
-ms.prod: office
+ms.service: office
 ms.assetid: 119a0ebc-0676-4b6d-9cc2-fc77e553f6e0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

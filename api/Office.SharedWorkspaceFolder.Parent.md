@@ -3,7 +3,6 @@ title: SharedWorkspaceFolder.Parent property (Office)
 keywords: vbaof11.chm268007
 f1_keywords:
 - vbaof11.chm268007
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.Parent
 ms.assetid: bdebe4de-c521-eae9-46e6-7c06dfe60581

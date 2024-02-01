@@ -1,6 +1,5 @@
 ---
 title: WebPageFont.Application property (Office)
-ms.prod: office
 api_name:
 - Office.WebPageFont.Application
 ms.assetid: 2a08b467-e9e2-41fe-cb57-e7d4dc465c5d

@@ -3,7 +3,7 @@ title: TooltipText Property, Office Shared [vbaof11.chm5024]
 keywords: vbaof11.chm5024
 f1_keywords:
 - vbaof11.chm5024
-ms.prod: office
+ms.service: office
 ms.assetid: 5ef75417-01ac-43cd-a466-76f1a6ee2d6d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

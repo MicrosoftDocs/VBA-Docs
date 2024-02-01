@@ -1,6 +1,5 @@
 ---
 title: CustomXMLNodes.Application property (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLNodes.Application
 ms.assetid: e336d63b-b484-b2dc-8308-ff66327d2376

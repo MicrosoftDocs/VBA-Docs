@@ -3,7 +3,6 @@ title: TabIndex property example
 keywords: fm20.chm5225127
 f1_keywords:
 - fm20.chm5225127
-ms.prod: office
 ms.assetid: 8329d3f8-0cbd-c520-9659-ff257e4c18d2
 ms.date: 11/14/2018
 ms.localizationpriority: medium

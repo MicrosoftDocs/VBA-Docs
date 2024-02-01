@@ -1,6 +1,5 @@
 ---
 title: Events (Microsoft Forms)
-ms.prod: office
 ms.assetid: 248411ff-6063-41d6-bac9-656afad0b63d
 ms.date: 09/17/2018
 ms.localizationpriority: medium

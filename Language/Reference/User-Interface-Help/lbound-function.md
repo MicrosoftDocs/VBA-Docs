@@ -3,7 +3,6 @@ title: LBound function (Visual Basic for Applications)
 keywords: vblr6.chm1008956
 f1_keywords:
 - vblr6.chm1008956
-ms.prod: office
 ms.assetid: 49520e9d-305b-4f5b-3ae6-df92f875d1eb
 ms.date: 12/13/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: TextBox control, SetFocus method, EnterFieldBehavior, HideSelection, Mult
 keywords: fm20.chm5225188
 f1_keywords:
 - fm20.chm5225188
-ms.prod: office
 ms.assetid: 144cad11-7ddb-0f46-96fe-8b4da3f665e4
 ms.date: 11/14/2018
 ms.localizationpriority: medium

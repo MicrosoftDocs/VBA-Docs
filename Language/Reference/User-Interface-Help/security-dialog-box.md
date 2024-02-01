@@ -3,7 +3,6 @@ title: Security dialog box
 keywords: vbui6.chm181080
 f1_keywords:
 - vbui6.chm181080
-ms.prod: office
 ms.assetid: 2006719b-0e6f-47dc-4831-72a6ff205eb2
 ms.date: 11/27/2018 
 ms.localizationpriority: medium

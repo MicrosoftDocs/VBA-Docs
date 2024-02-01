@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Paragraphs property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Paragraphs
 ms.assetid: 15479f9e-f261-7ea6-0460-861ccea08440

@@ -3,7 +3,6 @@ title: OfficeDataSourceObject.Columns property (Office)
 keywords: vbaof11.chm232004
 f1_keywords:
 - vbaof11.chm232004
-ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Columns
 ms.assetid: 02a3eb37-df7a-923a-6a98-dbb980b413f7

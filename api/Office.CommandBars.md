@@ -3,7 +3,6 @@ title: CommandBars object (Office)
 keywords: vbaof11.chm242000
 f1_keywords:
 - vbaof11.chm242000
-ms.prod: office
 api_name:
 - Office.CommandBars
 ms.assetid: 0e312e21-14ee-5055-d604-b66e61c53b47

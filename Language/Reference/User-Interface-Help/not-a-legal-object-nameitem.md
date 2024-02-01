@@ -3,7 +3,6 @@ title: "Not a legal object name: 'item"
 keywords: vblr6.chm1117784
 f1_keywords:
 - vblr6.chm1117784
-ms.prod: office
 ms.assetid: 0ec65ee1-c70a-18d5-ca54-3ce69d782a5e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

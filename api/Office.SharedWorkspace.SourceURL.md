@@ -3,7 +3,6 @@ title: SharedWorkspace.SourceURL property (Office)
 keywords: vbaof11.chm276014
 f1_keywords:
 - vbaof11.chm276014
-ms.prod: office
 api_name:
 - Office.SharedWorkspace.SourceURL
 ms.assetid: 2c5de79b-ef91-4135-2caf-e05cfd138c82

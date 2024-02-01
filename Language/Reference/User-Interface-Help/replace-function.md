@@ -3,7 +3,6 @@ title: Replace function (Visual Basic for Applications)
 keywords: vblr6.chm1008930
 f1_keywords:
 - vblr6.chm1008930
-ms.prod: office
 ms.assetid: a24e3da4-fc94-56e7-d718-f4c2d0a31072
 ms.date: 12/13/2018
 ms.localizationpriority: medium

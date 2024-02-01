@@ -3,7 +3,6 @@ title: UserForm toolbar
 keywords: vbui6.chm181040
 f1_keywords:
 - vbui6.chm181040
-ms.prod: office
 ms.assetid: 26670f57-ae27-0410-d4ca-5ab6ac3aaecd
 ms.date: 11/26/2018
 ms.localizationpriority: medium

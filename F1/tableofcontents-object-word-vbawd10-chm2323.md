@@ -3,7 +3,7 @@ title: TableOfContents Object, Word [vbawd10.chm2323]
 keywords: vbawd10.chm2323
 f1_keywords:
 - vbawd10.chm2323
-ms.prod: office
+ms.service: office
 ms.assetid: 683fd053-9f61-459e-903c-3b35558b2a50
 ms.date: 06/08/2017
 ms.localizationpriority: medium

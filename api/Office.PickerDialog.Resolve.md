@@ -3,7 +3,6 @@ title: PickerDialog.Resolve method (Office)
 keywords: vbaof11.chm340006
 f1_keywords:
 - vbaof11.chm340006
-ms.prod: office
 api_name:
 - Office.PickerDialog.Resolve
 ms.assetid: 50b1792a-ecf0-ab66-6a9d-7f72c788d859

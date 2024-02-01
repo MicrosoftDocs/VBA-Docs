@@ -3,7 +3,6 @@ title: GetObject function (Visual Basic for Applications)
 keywords: vblr6.chm1010959
 f1_keywords:
 - vblr6.chm1010959
-ms.prod: office
 ms.assetid: 6c313a4c-dac9-9115-95db-3fde52a5e888
 ms.date: 12/12/2018
 ms.localizationpriority: medium

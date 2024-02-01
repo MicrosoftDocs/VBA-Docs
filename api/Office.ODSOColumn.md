@@ -3,7 +3,6 @@ title: ODSOColumn object (Office)
 keywords: vbaof11.chm233000
 f1_keywords:
 - vbaof11.chm233000
-ms.prod: office
 api_name:
 - Office.ODSOColumn
 ms.assetid: f8fe41bd-c9bd-fb5b-8ca7-27940c9c0996

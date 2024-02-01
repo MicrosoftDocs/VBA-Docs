@@ -3,7 +3,6 @@ title: Keycode constants
 keywords: vblr6.chm1106124
 f1_keywords:
 - vblr6.chm1106124
-ms.prod: office
 ms.assetid: 9014afdc-a5ab-8f25-529f-45c9adf27eef
 ms.date: 12/11/2018
 ms.localizationpriority: medium

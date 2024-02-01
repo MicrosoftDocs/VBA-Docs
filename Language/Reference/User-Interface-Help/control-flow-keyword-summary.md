@@ -1,6 +1,5 @@
 ---
 title: Control flow keyword summary
-ms.prod: office
 ms.assetid: c3ef0042-fba5-413b-936c-f9d4ba879d05
 ms.date: 11/29/2018
 ms.localizationpriority: medium

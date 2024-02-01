@@ -3,7 +3,6 @@ title: ICustomTaskPaneConsumer object (Office)
 keywords: vbaof11.chm305000
 f1_keywords:
 - vbaof11.chm305000
-ms.prod: office
 api_name:
 - Office.ICustomTaskPaneConsumer
 ms.assetid: 54be3f78-4e5d-8595-d369-0724df0debf7

@@ -1,7 +1,7 @@
 ---
 title: SharedWorkspaceLinks members (Office)
 description: A collection of the SharedWorkspaceLink objects in the current shared workspace.
-ms.prod: office
+ms.service: office
 ms.assetid: 49c747c3-fcf9-9452-a391-6062666c3205
 ms.date: 01/30/2019
 ms.localizationpriority: medium

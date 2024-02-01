@@ -3,7 +3,6 @@ title: CustomTaskPane.DockPositionStateChange event (Office)
 keywords: vbaof11.chm302002
 f1_keywords:
 - vbaof11.chm302002
-ms.prod: office
 api_name:
 - Office.CustomTaskPane.DockPositionStateChange
 ms.assetid: fd22407b-4926-2de5-ec1d-aad1a13fe269

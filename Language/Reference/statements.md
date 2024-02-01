@@ -1,6 +1,5 @@
 ---
 title: Statements
-ms.prod: office
 ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
 ms.date: 09/17/2018
 ms.localizationpriority: medium

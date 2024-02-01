@@ -1,6 +1,5 @@
 ---
 title: MsoExtrusionColorType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoExtrusionColorType
 ms.assetid: 6acf7f2b-3d7b-15e3-f468-7dcb20865dc1

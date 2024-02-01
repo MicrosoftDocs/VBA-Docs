@@ -3,7 +3,6 @@ title: FileDialog.Parent property (Office)
 keywords: vbaof11.chm256001
 f1_keywords:
 - vbaof11.chm256001
-ms.prod: office
 api_name:
 - Office.FileDialog.Parent
 ms.assetid: c305bcd3-dc42-f84e-abc2-1ee4a1092ef8

@@ -3,7 +3,6 @@ title: PickerDialog.CreatePickerResults method (Office)
 keywords: vbaof11.chm340004
 f1_keywords:
 - vbaof11.chm340004
-ms.prod: office
 api_name:
 - Office.PickerDialog.CreatePickerResults
 ms.assetid: 39954f3e-53ef-f33c-9e90-a2247fd7882a

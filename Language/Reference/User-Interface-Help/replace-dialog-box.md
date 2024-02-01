@@ -3,7 +3,6 @@ title: Replace dialog box
 keywords: vbui6.chm2007519
 f1_keywords:
 - vbui6.chm2007519
-ms.prod: office
 ms.date: 11/24/2018
 ms.localizationpriority: medium
 ---

@@ -3,7 +3,6 @@ title: DateValue function (Visual Basic for Applications)
 keywords: vblr6.chm1008889
 f1_keywords:
 - vblr6.chm1008889
-ms.prod: office
 ms.assetid: 8c9bd3d6-1614-eeb0-0714-4730eeeb1b95
 ms.date: 12/12/2018
 ms.localizationpriority: medium

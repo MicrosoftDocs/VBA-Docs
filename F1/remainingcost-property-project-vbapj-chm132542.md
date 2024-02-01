@@ -3,7 +3,7 @@ title: RemainingCost Property, Project [vbapj.chm132542]
 keywords: vbapj.chm132542
 f1_keywords:
 - vbapj.chm132542
-ms.prod: office
+ms.service: office
 ms.assetid: f9a068bd-53b4-43fd-a822-b97f770d3bd5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

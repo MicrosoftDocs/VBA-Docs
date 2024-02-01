@@ -1,6 +1,5 @@
 ---
 title: MsoTextDirection enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoTextDirection
 ms.assetid: 75c1fbc6-87dd-20b1-450c-8b76c0185818

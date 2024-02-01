@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Reset method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Reset
 ms.assetid: 28609b13-8036-a956-095a-1a6a748f00ad

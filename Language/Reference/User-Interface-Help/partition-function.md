@@ -3,7 +3,6 @@ title: Partition function (Visual Basic for Applications)
 keywords: vblr6.chm1010095
 f1_keywords:
 - vblr6.chm1010095
-ms.prod: office
 ms.assetid: a9565bfc-640f-4550-455f-7d50d110df43
 ms.date: 01/14/2019
 ms.localizationpriority: medium

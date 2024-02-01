@@ -3,7 +3,6 @@ title: Implements statement (VBA)
 keywords: vblr6.chm1103517
 f1_keywords:
 - vblr6.chm1103517
-ms.prod: office
 ms.assetid: 9d0fe592-e945-649a-d277-fe882fe8cf67
 ms.date: 12/03/2018
 ms.localizationpriority: medium

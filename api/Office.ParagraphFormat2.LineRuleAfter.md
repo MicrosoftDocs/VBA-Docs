@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.LineRuleAfter property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleAfter
 ms.assetid: f26c1375-13de-eb0b-3446-fb2ce173caad

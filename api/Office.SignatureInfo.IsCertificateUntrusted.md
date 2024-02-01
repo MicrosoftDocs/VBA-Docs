@@ -3,7 +3,6 @@ title: SignatureInfo.IsCertificateUntrusted property (Office)
 keywords: vbaof11.chm286013
 f1_keywords:
 - vbaof11.chm286013
-ms.prod: office
 api_name:
 - Office.SignatureInfo.IsCertificateUntrusted
 ms.assetid: c52041d5-2522-7656-5a40-4b0f3035005d

@@ -1,6 +1,5 @@
 ---
 title: TextRange2.RemovePeriods method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.RemovePeriods
 ms.assetid: 581c9be1-94f4-d73b-c274-16b2575cac60

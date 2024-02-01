@@ -3,7 +3,6 @@ title: End statement (VBA)
 keywords: vblr6.chm1008904
 f1_keywords:
 - vblr6.chm1008904
-ms.prod: office
 ms.assetid: 5cbb1c20-2afa-782e-52bb-7aafc604a927
 ms.date: 12/03/2018
 ms.localizationpriority: medium

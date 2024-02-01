@@ -3,7 +3,6 @@ title: Properties window
 keywords: vbui6.chm2008002
 f1_keywords:
 - vbui6.chm2008002
-ms.prod: office
 ms.assetid: f6057449-d96f-6db3-5519-67ae5738b06d
 ms.date: 11/21/2018
 ms.localizationpriority: medium

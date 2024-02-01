@@ -3,7 +3,7 @@ title: ExportAsFixedFormat method, Excel
 keywords: vbaxl10.chm199260
 f1_keywords:
 - vbaxl10.chm199260
-ms.prod: office
+ms.service: office
 ms.date: 04/16/2019
 ms.localizationpriority: medium
 ---

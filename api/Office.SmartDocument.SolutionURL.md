@@ -3,7 +3,6 @@ title: SmartDocument.SolutionURL property (Office)
 keywords: vbaof11.chm262002
 f1_keywords:
 - vbaof11.chm262002
-ms.prod: office
 api_name:
 - Office.SmartDocument.SolutionURL
 ms.assetid: f4e8af50-9c14-bcc1-ef61-9af3a7c8c65d

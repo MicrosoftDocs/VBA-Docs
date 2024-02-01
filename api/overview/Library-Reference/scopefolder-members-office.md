@@ -1,6 +1,6 @@
 ---
 title: ScopeFolder members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: fff43b61-3635-48cf-1960-38ac5ec666d8
 ms.date: 01/30/2019
 ms.localizationpriority: medium

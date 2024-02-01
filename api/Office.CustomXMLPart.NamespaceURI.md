@@ -3,7 +3,6 @@ title: CustomXMLPart.NamespaceURI property (Office)
 keywords: vbaof11.chm295004
 f1_keywords:
 - vbaof11.chm295004
-ms.prod: office
 api_name:
 - Office.CustomXMLPart.NamespaceURI
 ms.assetid: 1d495cd6-ff62-7db6-dbcf-c3afff8cde0b

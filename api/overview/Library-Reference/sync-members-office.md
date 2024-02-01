@@ -1,7 +1,7 @@
 ---
 title: Sync members (Office)
 description: The Sync property of the Document object in Word, the Workbook object in Excel, and the Presentation object in PowerPoint returns a Sync object.
-ms.prod: office
+ms.service: office
 ms.assetid: 748726bd-83de-425a-5af8-177c34e3a013
 ms.date: 01/30/2019
 ms.localizationpriority: medium

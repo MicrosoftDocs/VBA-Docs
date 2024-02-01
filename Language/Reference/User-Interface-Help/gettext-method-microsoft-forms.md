@@ -3,7 +3,6 @@ title: GetText method (Microsoft Forms)
 keywords: fm20.chm2012320
 f1_keywords:
 - fm20.chm2012320
-ms.prod: office
 ms.assetid: 7d714405-4d3e-23e3-cedb-8a6a7fd07269
 ms.date: 11/15/2018
 ms.localizationpriority: medium

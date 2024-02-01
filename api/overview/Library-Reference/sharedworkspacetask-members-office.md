@@ -1,7 +1,7 @@
 ---
 title: SharedWorkspaceTask members (Office)
 description: The SharedWorkspaceTask object represents a task in a shared document workspace. Member of the  SharedWorkspaceTasks collection.
-ms.prod: office
+ms.service: office
 ms.assetid: 5b5589d1-f907-7357-f930-eede569d2021
 ms.date: 01/30/2019
 ms.localizationpriority: medium

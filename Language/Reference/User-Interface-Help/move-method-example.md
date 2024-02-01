@@ -3,7 +3,6 @@ title: Move method example
 keywords: fm20.chm5225194
 f1_keywords:
 - fm20.chm5225194
-ms.prod: office
 ms.assetid: c5444339-b059-9b55-a3a4-9e5b4e2573f6
 ms.date: 11/14/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: BackColor property (Microsoft Forms)
 keywords: fm20.chm2000770
 f1_keywords:
 - fm20.chm2000770
-ms.prod: office
 ms.assetid: 70549eaf-d785-67e7-3f04-76151864d850
 ms.date: 11/15/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Type not supported in Visual Basic
 keywords: vblr6.chm1015664
 f1_keywords:
 - vblr6.chm1015664
-ms.prod: office
 ms.assetid: 59add4f9-d15a-7342-e7fc-4b21420a5e41
 ms.date: 06/08/2017
 ms.localizationpriority: medium

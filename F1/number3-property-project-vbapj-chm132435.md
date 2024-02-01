@@ -3,7 +3,7 @@ title: Number3 Property, Project [vbapj.chm132435]
 keywords: vbapj.chm132435
 f1_keywords:
 - vbapj.chm132435
-ms.prod: office
+ms.service: office
 ms.assetid: a5dda267-75f2-4a02-b468-1f07a774f5d1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,7 +1,7 @@
 ---
 title: TabStop2 members (Office)
 description: Represents a single tab stop. The TabStop2 object is a member of the TabStops2 collection.
-ms.prod: office
+ms.service: office
 ms.assetid: e917b4b4-3df3-93a1-3cf8-ce65edc5f18e
 ms.date: 01/30/2019
 ms.localizationpriority: medium

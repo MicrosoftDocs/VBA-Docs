@@ -3,7 +3,6 @@ title: GetFormat, GetText, SetText methods example
 keywords: fm20.chm5225166
 f1_keywords:
 - fm20.chm5225166
-ms.prod: office
 ms.assetid: b17140cb-ab27-0073-8d7f-47eb91e31364
 ms.date: 11/14/2018
 ms.localizationpriority: medium

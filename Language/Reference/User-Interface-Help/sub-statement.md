@@ -3,7 +3,6 @@ title: Sub statement (VBA)
 keywords: vblr6.chm1009038
 f1_keywords:
 - vblr6.chm1009038
-ms.prod: office
 ms.assetid: 7931d739-a61a-78ba-5b33-960c1bf908ce
 ms.date: 12/03/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: MsoFilterConjunction enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoFilterConjunction
 ms.assetid: b111c84f-eff0-aa97-8b9c-3b0c7849f695

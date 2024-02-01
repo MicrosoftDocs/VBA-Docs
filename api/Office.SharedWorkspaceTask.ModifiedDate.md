@@ -3,7 +3,6 @@ title: SharedWorkspaceTask.ModifiedDate property (Office)
 keywords: vbaof11.chm264010
 f1_keywords:
 - vbaof11.chm264010
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.ModifiedDate
 ms.assetid: 26b96d4d-b3ee-a9cc-2a00-73457820b3e1

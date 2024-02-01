@@ -1,7 +1,6 @@
 ---
 title: Object Browser (Visual Basic for Applications)
 description: Displays the classes, properties, methods, events, and constants available from object libraries and the procedures in your project, along with Help for modules and enumerations.
-ms.prod: office
 keywords: vbui6.chm181036
 f1_keywords:
 - vblr6.chm1018983

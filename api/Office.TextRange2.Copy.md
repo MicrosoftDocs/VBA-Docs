@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Copy method (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Copy
 ms.assetid: ad247113-31b4-424c-b62d-ab427081b46c

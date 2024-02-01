@@ -1,6 +1,5 @@
 ---
 title: MsoCalloutDropType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoCalloutDropType
 ms.assetid: 0923e0a7-beb6-224f-6a87-85111f58ae3b

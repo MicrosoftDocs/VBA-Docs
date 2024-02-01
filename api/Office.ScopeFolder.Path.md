@@ -3,7 +3,6 @@ title: ScopeFolder.Path property (Office)
 keywords: vbaof11.chm259002
 f1_keywords:
 - vbaof11.chm259002
-ms.prod: office
 api_name:
 - Office.ScopeFolder.Path
 ms.assetid: 744d1d00-ecbf-b0ad-e119-8f4267f5f7c5

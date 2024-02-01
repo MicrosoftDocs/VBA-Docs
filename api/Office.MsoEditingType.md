@@ -1,6 +1,5 @@
 ---
 title: MsoEditingType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoEditingType
 ms.assetid: 5fe5c4f6-6467-c6a7-197c-ff700c384b92

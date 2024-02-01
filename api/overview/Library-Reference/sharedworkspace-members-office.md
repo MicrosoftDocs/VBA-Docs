@@ -1,6 +1,6 @@
 ---
 title: SharedWorkspace members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: e4c2b518-d955-27e1-3e73-173d3c4f961d
 ms.date: 01/30/2019
 ms.localizationpriority: medium

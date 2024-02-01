@@ -3,7 +3,6 @@ title: WhatsThisMode method (Visual Basic for Applications)
 keywords: vblr6.chm1100685
 f1_keywords:
 - vblr6.chm1100685
-ms.prod: office
 api_name:
 - Office.WhatsThisMode
 ms.assetid: e71fb00c-b323-2b43-94ec-07079e66337f

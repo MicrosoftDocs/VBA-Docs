@@ -3,7 +3,6 @@ title: ChDir statement (VBA)
 keywords: vblr6.chm1008864
 f1_keywords:
 - vblr6.chm1008864
-ms.prod: office
 ms.assetid: a2ad61c8-5b69-8096-3176-52e7670f58ab
 ms.date: 12/03/2018
 ms.localizationpriority: medium

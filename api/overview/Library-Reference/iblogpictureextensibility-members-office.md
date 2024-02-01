@@ -1,6 +1,6 @@
 ---
 title: IBlogPictureExtensibility members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 29f8fdcc-669f-95db-3cc9-bfdd26fb9a7d
 ms.date: 01/30/2019
 ms.localizationpriority: medium

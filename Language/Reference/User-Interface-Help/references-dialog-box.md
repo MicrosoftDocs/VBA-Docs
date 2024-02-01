@@ -3,7 +3,6 @@ title: References dialog box
 keywords: vbui6.chm2016020
 f1_keywords:
 - vbui6.chm2016020
-ms.prod: office
 ms.assetid: 0fe6d98f-b047-a0c4-9451-e1821ad3a05a
 ms.date: 11/27/2018 
 ms.localizationpriority: medium

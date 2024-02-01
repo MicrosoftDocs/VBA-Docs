@@ -3,7 +3,6 @@ title: CommandBar.Delete method (Office)
 keywords: vbaof11.chm3004
 f1_keywords:
 - vbaof11.chm3004
-ms.prod: office
 api_name:
 - Office.CommandBar.Delete
 ms.assetid: 6976f273-dbd4-5f3d-52ef-0d6d5cc886c9

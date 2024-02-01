@@ -3,7 +3,6 @@ title: ProportionalThumb property
 keywords: fm20.chm2001750
 f1_keywords:
 - fm20.chm2001750
-ms.prod: office
 api_name:
 - Office.ProportionalThumb
 ms.assetid: da2890ca-12b9-8d91-5e94-9c86492f0101

@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Font property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Font
 ms.assetid: 005fa6bf-2dd5-32ec-18e8-30ff6260e55d

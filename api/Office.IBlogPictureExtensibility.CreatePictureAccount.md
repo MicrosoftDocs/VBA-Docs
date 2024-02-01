@@ -3,7 +3,6 @@ title: IBlogPictureExtensibility.CreatePictureAccount method (Office)
 keywords: vbaof11.chm329002
 f1_keywords:
 - vbaof11.chm329002
-ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility.CreatePictureAccount
 ms.assetid: 8012b234-b8c1-cfc7-7413-b43300fdab76

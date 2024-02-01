@@ -3,7 +3,6 @@ title: MsoEnvelope.Item property (Office)
 keywords: vbaof11.chm11003
 f1_keywords:
 - vbaof11.chm11003
-ms.prod: office
 api_name:
 - Office.MsoEnvelope.Item
 ms.assetid: cc13343c-dea5-152f-b123-441a4120c22c

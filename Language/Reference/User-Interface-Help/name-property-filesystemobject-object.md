@@ -3,7 +3,6 @@ title: Name property (FileSystemObject object)
 keywords: vblr6.chm2181996
 f1_keywords:
 - vblr6.chm2181996
-ms.prod: office
 ms.assetid: 1e2c7813-74da-fd24-4e2f-4855f2d57015
 ms.date: 12/19/2018
 ms.localizationpriority: medium

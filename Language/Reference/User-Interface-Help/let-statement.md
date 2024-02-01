@@ -3,7 +3,6 @@ title: Let statement (VBA)
 keywords: vblr6.chm1008960
 f1_keywords:
 - vblr6.chm1008960
-ms.prod: office
 ms.assetid: da1ec875-3c6a-b66d-a85f-bbf33f9a307a
 ms.date: 12/03/2018
 ms.localizationpriority: medium

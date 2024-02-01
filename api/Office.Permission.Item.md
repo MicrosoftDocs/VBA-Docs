@@ -3,7 +3,6 @@ title: Permission.Item property (Office)
 keywords: vbaof11.chm261001
 f1_keywords:
 - vbaof11.chm261001
-ms.prod: office
 api_name:
 - Office.Permission.Item
 ms.assetid: 2a030e3d-2233-0e91-be3b-759d25d5788b

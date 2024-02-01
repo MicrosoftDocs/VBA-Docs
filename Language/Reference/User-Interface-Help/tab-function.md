@@ -3,7 +3,6 @@ title: Tab function (Visual Basic for Applications)
 keywords: vblr6.chm1009039
 f1_keywords:
 - vblr6.chm1009039
-ms.prod: office
 ms.assetid: 609036b5-08c8-fb5c-4959-3e1a4e108f8d
 ms.date: 12/13/2018
 ms.localizationpriority: medium

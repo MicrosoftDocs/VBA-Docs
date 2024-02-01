@@ -3,7 +3,6 @@ title: Unable to write Designer cache file 'item'; will just use regular files o
 keywords: vblr6.chm50060
 f1_keywords:
 - vblr6.chm50060
-ms.prod: office
 ms.assetid: 7fdb8eab-775d-efb4-51d8-e476c8a33d71
 ms.date: 06/08/2017
 ms.localizationpriority: medium

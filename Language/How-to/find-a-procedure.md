@@ -3,7 +3,6 @@ title: Find a procedure (VBA)
 keywords: vbhw6.chm1105194
 f1_keywords:
 - vbhw6.chm1105194
-ms.prod: office
 ms.assetid: 0f954ac5-66ee-06e4-4cbd-50823268822a
 ms.date: 12/27/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: CustomTaskPane.Height property (Office)
 keywords: vbaof11.chm301006
 f1_keywords:
 - vbaof11.chm301006
-ms.prod: office
 api_name:
 - Office.CustomTaskPane.Height
 ms.assetid: 0397ab5b-82d8-cc3c-190a-d23443677f24

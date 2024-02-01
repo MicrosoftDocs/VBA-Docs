@@ -3,7 +3,6 @@ title: IRibbonExtensibility object (Office)
 keywords: vbaof11.chm289000
 f1_keywords:
 - vbaof11.chm289000
-ms.prod: office
 api_name:
 - Office.IRibbonExtensibility
 ms.assetid: b27a7576-b6f5-031e-e307-78ef5f8507e0

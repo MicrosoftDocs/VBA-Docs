@@ -3,7 +3,7 @@ title: Successors Property, Project [vbapj.chm132625]
 keywords: vbapj.chm132625
 f1_keywords:
 - vbapj.chm132625
-ms.prod: office
+ms.service: office
 ms.assetid: 76286024-7fb7-40c0-af40-768918874898
 ms.date: 06/08/2017
 ms.localizationpriority: medium

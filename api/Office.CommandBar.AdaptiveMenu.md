@@ -3,7 +3,6 @@ title: CommandBar.AdaptiveMenu property (Office)
 keywords: vbaof11.chm3022
 f1_keywords:
 - vbaof11.chm3022
-ms.prod: office
 api_name:
 - Office.CommandBar.AdaptiveMenu
 ms.assetid: 1e6920bb-af66-951c-e689-399d9cf5d662

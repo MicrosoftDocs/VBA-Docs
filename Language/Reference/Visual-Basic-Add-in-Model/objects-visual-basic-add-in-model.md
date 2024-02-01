@@ -1,6 +1,5 @@
 ---
 title: Objects (Visual Basic Add-In Model)
-ms.prod: office
 keywords: vbob6.chm100000
 f1_keywords:
 - vbob6.chm100000

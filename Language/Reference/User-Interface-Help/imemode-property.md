@@ -3,7 +3,6 @@ title: IMEMode property
 keywords: fm20.chm5225043
 f1_keywords:
 - fm20.chm5225043
-ms.prod: office
 api_name:
 - Office.IMEMode
 ms.assetid: b47dd67c-f058-ad85-97ae-17efe46875ed

@@ -3,7 +3,7 @@ title: WeekDays Property, Project [vbapj.chm132768]
 keywords: vbapj.chm132768
 f1_keywords:
 - vbapj.chm132768
-ms.prod: office
+ms.service: office
 ms.assetid: 87a23325-394b-4a52-9e07-6d26521ab22b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

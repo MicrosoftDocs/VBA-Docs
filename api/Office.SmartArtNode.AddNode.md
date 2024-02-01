@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.AddNode method (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.AddNode
 ms.assetid: f3022423-4416-ab89-ff89-e6c46d65f42c

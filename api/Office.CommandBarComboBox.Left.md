@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Left property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Left
 ms.assetid: 01dc5c7c-4fc6-a2fe-fa27-c24ed0802dd6

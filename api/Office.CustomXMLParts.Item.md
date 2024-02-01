@@ -3,7 +3,6 @@ title: CustomXMLParts.Item property (Office)
 keywords: vbaof11.chm298003
 f1_keywords:
 - vbaof11.chm298003
-ms.prod: office
 api_name:
 - Office.CustomXMLParts.Item
 ms.assetid: 801a4462-ccf9-8aa7-f894-4ed89ae09c62

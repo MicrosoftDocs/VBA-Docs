@@ -3,7 +3,6 @@ title: AutoSize, MultiLine, WordWrap, ScrollBars properties, TextBox control exa
 keywords: fm20.chm5225173
 f1_keywords:
 - fm20.chm5225173
-ms.prod: office
 ms.assetid: aeac8985-2fe9-9fe8-6ad1-74e5322bc180
 ms.date: 11/14/2018
 ms.localizationpriority: medium

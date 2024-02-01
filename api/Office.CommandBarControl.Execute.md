@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.Execute method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.Execute
 ms.assetid: 5b95846f-99c6-93b3-2167-6bd7acf5d508

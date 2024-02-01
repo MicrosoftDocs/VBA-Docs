@@ -1,6 +1,5 @@
 ---
 title: ScopeFolders.Application property (Office)
-ms.prod: office
 api_name:
 - Office.ScopeFolders.Application
 ms.assetid: 7dc9464e-1572-5fdb-cde5-1ffc185917b9

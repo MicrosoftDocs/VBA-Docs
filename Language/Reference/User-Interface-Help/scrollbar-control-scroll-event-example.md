@@ -3,7 +3,6 @@ title: ScrollBar control, Scroll event example
 keywords: fm20.chm5225168
 f1_keywords:
 - fm20.chm5225168
-ms.prod: office
 ms.assetid: e4180c7f-d14e-b76e-fd7a-b1cf354b0fd0
 ms.date: 11/14/2018
 ms.localizationpriority: medium

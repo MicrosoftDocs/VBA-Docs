@@ -3,7 +3,6 @@ title: Understanding named arguments and optional arguments (VBA)
 keywords: vbcn6.chm1076747
 f1_keywords:
 - vbcn6.chm1076747
-ms.prod: office
 ms.assetid: 207fa305-56cf-4b44-d23e-dcc3b104b2dd
 ms.date: 12/21/2018
 ms.localizationpriority: medium

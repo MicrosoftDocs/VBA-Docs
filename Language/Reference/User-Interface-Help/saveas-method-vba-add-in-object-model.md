@@ -3,7 +3,6 @@ title: SaveAs method (VBA Add-In Object Model)
 keywords: vbob6.chm102017
 f1_keywords:
 - vbob6.chm102017
-ms.prod: office
 ms.assetid: 622aa652-8093-be64-4128-9ad2c7fd1fe8
 ms.date: 12/06/2018
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: ObjectType Property, Visio [vis_sdr.chm16313430]
 keywords: vis_sdr.chm16313430
 f1_keywords:
 - vis_sdr.chm16313430
-ms.prod: office
+ms.service: office
 ms.assetid: 5ef0c928-dcaf-49ef-b3d5-afb22b23bb91
 ms.date: 06/08/2017
 ms.localizationpriority: medium

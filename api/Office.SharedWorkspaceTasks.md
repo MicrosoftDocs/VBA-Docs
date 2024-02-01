@@ -3,7 +3,6 @@ title: SharedWorkspaceTasks object (Office)
 keywords: vbaof11.chm265000
 f1_keywords:
 - vbaof11.chm265000
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks
 ms.assetid: de26341f-44d1-131e-1dbe-e31f3f68e312

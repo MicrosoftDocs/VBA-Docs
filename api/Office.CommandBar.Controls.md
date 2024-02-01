@@ -3,7 +3,6 @@ title: CommandBar.Controls property (Office)
 keywords: vbaof11.chm3003
 f1_keywords:
 - vbaof11.chm3003
-ms.prod: office
 api_name:
 - Office.CommandBar.Controls
 ms.assetid: 5c025bc5-9266-18a2-21ee-6aee478fb322

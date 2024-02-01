@@ -3,7 +3,7 @@ title: Flag14 Property, Project [vbapj.chm132240]
 keywords: vbapj.chm132240
 f1_keywords:
 - vbapj.chm132240
-ms.prod: office
+ms.service: office
 ms.assetid: 29a3deb6-a207-4a9c-9bf0-3bfdd2d39cd1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

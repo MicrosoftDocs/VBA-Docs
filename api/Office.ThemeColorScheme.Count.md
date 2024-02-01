@@ -1,6 +1,5 @@
 ---
 title: ThemeColorScheme.Count property (Office)
-ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Count
 ms.assetid: 49b37985-28bc-ea71-1f1d-59eaea3314a4

@@ -3,7 +3,6 @@ title: OldLeft, OldTop properties
 keywords: fm20.chm2001630
 f1_keywords:
 - fm20.chm2001630
-ms.prod: office
 ms.assetid: 034354a8-6a04-a3cc-c28a-3af3cdf2ed65
 ms.date: 11/16/2018
 ms.localizationpriority: medium

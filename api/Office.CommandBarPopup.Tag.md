@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Tag property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Tag
 ms.assetid: 161b54b5-e7e6-123b-1d68-244d2b64230e

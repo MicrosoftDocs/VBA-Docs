@@ -3,7 +3,7 @@ title: DesignModeEntered Event, Visio [vis_sdr.chm10519110]
 keywords: vis_sdr.chm10519110
 f1_keywords:
 - vis_sdr.chm10519110
-ms.prod: office
+ms.service: office
 ms.assetid: 5abb4948-f349-4fff-bb65-87002004e9eb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: IBlogPictureExtensibility.BlogPictureProviderProperties method (Office)
 keywords: vbaof11.chm329001
 f1_keywords:
 - vbaof11.chm329001
-ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility.BlogPictureProviderProperties
 ms.assetid: 2650ef1f-4c72-b4ae-921c-843febae3247

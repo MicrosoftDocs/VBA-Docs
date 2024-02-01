@@ -3,7 +3,6 @@ title: Creating recursive procedures (VBA)
 keywords: vbcn6.chm1010995
 f1_keywords:
 - vbcn6.chm1010995
-ms.prod: office
 ms.assetid: 5458afe3-63ec-d2c2-8278-f6b5ce1734d3
 ms.date: 12/21/2018
 ms.localizationpriority: medium

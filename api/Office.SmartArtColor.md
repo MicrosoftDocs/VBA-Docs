@@ -1,6 +1,5 @@
 ---
 title: SmartArtColor object (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtColor
 ms.assetid: 5aca0209-20d3-c16f-fdfd-184f3464e00b

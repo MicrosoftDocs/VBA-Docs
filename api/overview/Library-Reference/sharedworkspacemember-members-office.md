@@ -1,7 +1,7 @@
 ---
 title: SharedWorkspaceMember members (Office)
 description: Represents a user who has rights in a shared document workspace site.
-ms.prod: office
+ms.service: office
 ms.assetid: d2519ac4-a9a3-0480-c7c3-dbd98c514692
 ms.date: 01/30/2019
 ms.localizationpriority: medium

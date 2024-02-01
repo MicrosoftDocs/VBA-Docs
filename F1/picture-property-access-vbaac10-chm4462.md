@@ -3,7 +3,7 @@ title: Picture Property, Access [vbaac10.chm4462]
 keywords: vbaac10.chm4462
 f1_keywords:
 - vbaac10.chm4462
-ms.prod: office
+ms.service: office
 ms.assetid: eaab7ade-13b7-4392-aa36-2c36a55af7cd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: ScopeFolder.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.ScopeFolder.Creator
 ms.assetid: ac093f1c-1d54-58f2-f8f1-55ecf69f54b0

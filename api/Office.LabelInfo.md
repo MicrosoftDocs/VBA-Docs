@@ -1,6 +1,5 @@
 ---
 title: LabelInfo object (Office)
-ms.prod: office
 api_name:
 - Office.LabelInfo
 ms.assetid: 99e55f38-0884-4458-8c9d-a12fadd7a52d

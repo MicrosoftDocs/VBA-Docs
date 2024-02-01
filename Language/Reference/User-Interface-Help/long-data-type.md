@@ -3,7 +3,6 @@ title: Long data type
 keywords: vblr6.chm1008968
 f1_keywords:
 - vblr6.chm1008968
-ms.prod: office
 ms.assetid: 41802b5f-1d45-f586-dddd-acb6cced581b
 ms.date: 11/19/2018
 ms.localizationpriority: medium

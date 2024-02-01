@@ -3,7 +3,6 @@ title: Set the ToolTip for a Toolbox page
 keywords: fm20.chm5225213
 f1_keywords:
 - fm20.chm5225213
-ms.prod: office
 ms.assetid: 5bbb6d90-96da-ed41-dc6d-c7735d71338f
 ms.date: 12/29/2018
 ms.localizationpriority: medium

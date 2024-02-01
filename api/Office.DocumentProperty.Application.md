@@ -3,7 +3,6 @@ title: DocumentProperty.Application property (Office)
 keywords: vbaof11.chm250015
 f1_keywords:
 - vbaof11.chm250015
-ms.prod: office
 api_name:
 - Office.DocumentProperty.Application
 ms.assetid: 7ab10408-c796-92de-8603-ce67c5f0af34

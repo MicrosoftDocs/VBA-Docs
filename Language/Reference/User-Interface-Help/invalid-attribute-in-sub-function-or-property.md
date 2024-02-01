@@ -3,7 +3,6 @@ title: Invalid attribute in sub, function, or property
 keywords: vblr6.chm1011196
 f1_keywords:
 - vblr6.chm1011196
-ms.prod: office
 ms.assetid: 86a5ff38-4f00-060f-5087-453758f27e68
 ms.date: 06/08/2017
 ms.localizationpriority: medium

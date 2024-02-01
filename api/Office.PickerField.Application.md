@@ -1,6 +1,5 @@
 ---
 title: PickerField.Application property (Office)
-ms.prod: office
 api_name:
 - Office.PickerField.Application
 ms.assetid: 66713504-a4cf-c2f6-0e20-b76071659e37

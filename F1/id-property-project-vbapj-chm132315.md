@@ -3,7 +3,7 @@ title: ID Property, Project [vbapj.chm132315]
 keywords: vbapj.chm132315
 f1_keywords:
 - vbapj.chm132315
-ms.prod: office
+ms.service: office
 ms.assetid: f83f1a22-9247-4a99-909d-8e26ee99555a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

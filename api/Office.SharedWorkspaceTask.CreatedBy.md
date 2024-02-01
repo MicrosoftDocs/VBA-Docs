@@ -3,7 +3,6 @@ title: SharedWorkspaceTask.CreatedBy property (Office)
 keywords: vbaof11.chm264007
 f1_keywords:
 - vbaof11.chm264007
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.CreatedBy
 ms.assetid: cfc16e77-0412-2a55-68b5-cee2abef5058

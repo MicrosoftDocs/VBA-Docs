@@ -3,7 +3,6 @@ title: Understanding parameter arrays (VBA)
 keywords: vbcn6.chm1076759
 f1_keywords:
 - vbcn6.chm1076759
-ms.prod: office
 ms.assetid: 42438a68-37a8-85d0-6404-1df4266fe33d
 ms.date: 12/26/2018
 ms.localizationpriority: medium

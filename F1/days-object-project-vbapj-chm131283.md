@@ -3,7 +3,7 @@ title: Days Object, Project [vbapj.chm131283]
 keywords: vbapj.chm131283
 f1_keywords:
 - vbapj.chm131283
-ms.prod: office
+ms.service: office
 ms.assetid: e0f1ad72-f629-4841-9210-35a9916a291e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

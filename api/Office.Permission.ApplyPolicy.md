@@ -3,7 +3,6 @@ title: Permission.ApplyPolicy method (Office)
 keywords: vbaof11.chm261005
 f1_keywords:
 - vbaof11.chm261005
-ms.prod: office
 api_name:
 - Office.Permission.ApplyPolicy
 ms.assetid: d1904d11-d212-de2f-19cb-78911136ccd7

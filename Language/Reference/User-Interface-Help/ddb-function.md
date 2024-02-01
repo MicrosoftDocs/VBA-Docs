@@ -3,7 +3,6 @@ title: DDB function (Visual Basic for Applications)
 keywords: vblr6.chm1009279
 f1_keywords:
 - vblr6.chm1009279
-ms.prod: office
 ms.assetid: e6ae2093-222c-01cd-86bc-73a3cb79d075
 ms.date: 12/12/2018
 ms.localizationpriority: medium

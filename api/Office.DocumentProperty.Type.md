@@ -3,7 +3,6 @@ title: DocumentProperty.Type property (Office)
 keywords: vbaof11.chm250007
 f1_keywords:
 - vbaof11.chm250007
-ms.prod: office
 api_name:
 - Office.DocumentProperty.Type
 ms.assetid: a6a18498-7a71-b2fb-f037-195bddd70573

@@ -3,7 +3,6 @@ title: AddCustom method
 keywords: vbob6.chm102179
 f1_keywords:
 - vbob6.chm102179
-ms.prod: office
 api_name:
 - Office.AddCustom
 ms.assetid: 70b74aa5-9cf9-75c0-b107-903a05461510

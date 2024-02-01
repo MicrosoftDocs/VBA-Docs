@@ -3,7 +3,7 @@ title: OutlineCode2 Property, Project [vbapj.chm132412]
 keywords: vbapj.chm132412
 f1_keywords:
 - vbapj.chm132412
-ms.prod: office
+ms.service: office
 ms.assetid: 54648404-a45f-4004-9241-3308a9a06946
 ms.date: 06/08/2017
 ms.localizationpriority: medium

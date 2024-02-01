@@ -1,7 +1,7 @@
 ---
 title: COMAddIns members (Office)
 description: A collection of COMAddIn objects that provide information about a COM add-in registered in the Windows registry.
-ms.prod: office
+ms.service: office
 ms.assetid: 0fc908fa-0846-07ca-d2a2-4c87525ae719
 ms.date: 01/30/2019
 ms.localizationpriority: medium

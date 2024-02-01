@@ -3,7 +3,7 @@ title: PressedThemeColorIndex Property, Access [vbaac10.chm14620]
 keywords: vbaac10.chm14620
 f1_keywords:
 - vbaac10.chm14620
-ms.prod: office
+ms.service: office
 ms.assetid: f5dcb248-fda7-4b1f-8a30-687b7562d364
 ms.date: 06/08/2017
 ms.localizationpriority: medium

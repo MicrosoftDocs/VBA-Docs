@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Width property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Width
 ms.assetid: a80aaeb8-c633-215b-bd28-8d25fa97dcc9

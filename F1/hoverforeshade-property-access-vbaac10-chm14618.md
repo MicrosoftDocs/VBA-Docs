@@ -3,7 +3,7 @@ title: HoverForeShade Property, Access [vbaac10.chm14618]
 keywords: vbaac10.chm14618
 f1_keywords:
 - vbaac10.chm14618
-ms.prod: office
+ms.service: office
 ms.assetid: 6eedd20d-c755-4b72-9627-c32e82ff15d6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

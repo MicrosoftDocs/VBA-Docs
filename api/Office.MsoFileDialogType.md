@@ -1,6 +1,5 @@
 ---
 title: MsoFileDialogType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoFileDialogType
 ms.assetid: ee445a67-1193-f446-4bd2-963c07fba5ae

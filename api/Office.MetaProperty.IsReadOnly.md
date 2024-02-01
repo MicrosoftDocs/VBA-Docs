@@ -3,7 +3,6 @@ title: MetaProperty.IsReadOnly property (Office)
 keywords: vbaof11.chm275004
 f1_keywords:
 - vbaof11.chm275004
-ms.prod: office
 api_name:
 - Office.MetaProperty.IsReadOnly
 ms.assetid: 433dd92f-7791-7fe9-db2a-b290992175b5

@@ -1,6 +1,5 @@
 ---
 title: PickerField.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.PickerField.Creator
 ms.assetid: 1f55ec91-3106-047b-28b4-64792830c331

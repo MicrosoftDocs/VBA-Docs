@@ -3,7 +3,7 @@ title: Shift4 Property, Project [vbapj.chm132572]
 keywords: vbapj.chm132572
 f1_keywords:
 - vbapj.chm132572
-ms.prod: office
+ms.service: office
 ms.assetid: 33f71570-ff90-4a4f-a3a2-19833db8626f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

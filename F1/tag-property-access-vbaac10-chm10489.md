@@ -3,7 +3,7 @@ title: Tag Property, Access [vbaac10.chm10489]
 keywords: vbaac10.chm10489
 f1_keywords:
 - vbaac10.chm10489
-ms.prod: office
+ms.service: office
 ms.assetid: 9facbba1-ec13-42bf-a49d-f82985e1758b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

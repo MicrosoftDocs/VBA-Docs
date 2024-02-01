@@ -3,7 +3,6 @@ title: AtEndOfLine property (Visual Basic for Applications)
 keywords: vblr6.chm2182071
 f1_keywords:
 - vblr6.chm2182071
-ms.prod: office
 api_name:
 - Office.AtEndOfLine
 ms.assetid: a5b02fc7-362c-474d-7238-64c0783277ce

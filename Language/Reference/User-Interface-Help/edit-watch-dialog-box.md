@@ -3,7 +3,6 @@ title: Edit Watch dialog box
 keywords: vbui6.chm181027
 f1_keywords:
 - vbui6.chm181027
-ms.prod: office
 ms.assetid: 2847eff9-7246-c828-42cd-827bb6fd3464
 ms.date: 11/27/2018
 ms.localizationpriority: medium

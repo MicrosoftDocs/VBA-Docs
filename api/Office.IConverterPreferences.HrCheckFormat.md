@@ -3,7 +3,6 @@ title: IConverterPreferences.HrCheckFormat method (Office)
 keywords: vbaof11.chm330002
 f1_keywords:
 - vbaof11.chm330002
-ms.prod: office
 api_name:
 - Office.IConverterPreferences.HrCheckFormat
 ms.assetid: fe68ef42-c50b-e27b-2080-3f80d0204ec3

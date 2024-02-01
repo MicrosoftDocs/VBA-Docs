@@ -3,7 +3,6 @@ title: Visual Basic naming rules (VBA)
 keywords: vbcn6.chm1076688
 f1_keywords:
 - vbcn6.chm1076688
-ms.prod: office
 ms.assetid: d3e2b5d5-ac45-a1e0-9935-3630fd033a7d
 ms.date: 12/26/2018
 ms.localizationpriority: medium

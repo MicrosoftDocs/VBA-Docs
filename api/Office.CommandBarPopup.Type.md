@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Type property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Type
 ms.assetid: 1ef5e542-7fa6-1527-26d0-cf8a6c755979

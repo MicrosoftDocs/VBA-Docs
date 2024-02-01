@@ -3,7 +3,6 @@ title: Using Do...Loop statements (VBA)
 keywords: vbcn6.chm1076681
 f1_keywords:
 - vbcn6.chm1076681
-ms.prod: office
 ms.assetid: aa3322b6-80a6-d3c6-86b7-4ea6151f0616
 ms.date: 12/26/2018
 ms.localizationpriority: medium

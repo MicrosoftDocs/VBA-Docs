@@ -1,6 +1,5 @@
 ---
 title: Events (Visual Basic for Applications)
-ms.prod: office
 ms.assetid: b5cad0fb-0e27-4cce-8998-eba61b07dad3
 ms.date: 12/11/2018
 ms.localizationpriority: medium

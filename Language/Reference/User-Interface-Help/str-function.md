@@ -3,7 +3,6 @@ title: Str function (Visual Basic for Applications)
 keywords: vblr6.chm1011369
 f1_keywords:
 - vblr6.chm1011369
-ms.prod: office
 ms.assetid: bb9c4e8c-c3ea-5021-aa4c-473e30b64902
 ms.date: 12/12/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: CustomTaskPane.Delete method (Office)
 keywords: vbaof11.chm301010
 f1_keywords:
 - vbaof11.chm301010
-ms.prod: office
 api_name:
 - Office.CustomTaskPane.Delete
 ms.assetid: 6db4b7ba-3dd8-7249-07dc-511516b1a16c

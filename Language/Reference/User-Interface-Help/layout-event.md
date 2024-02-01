@@ -3,7 +3,6 @@ title: Layout event
 keywords: fm20.chm5224946
 f1_keywords:
 - fm20.chm5224946
-ms.prod: office
 api_name:
 - Office.Layout
 ms.assetid: ae4e356a-3283-e6a0-ac29-25327ff7c3df

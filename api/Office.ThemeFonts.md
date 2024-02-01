@@ -1,6 +1,5 @@
 ---
 title: ThemeFonts object (Office)
-ms.prod: office
 api_name:
 - Office.ThemeFonts
 ms.assetid: 393865af-f008-d26c-5b82-9ae79766e511

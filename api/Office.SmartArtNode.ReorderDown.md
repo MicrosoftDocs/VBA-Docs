@@ -1,6 +1,5 @@
 ---
 title: SmartArtNode.ReorderDown method (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtNode.ReorderDown
 ms.assetid: 0e927b37-08b4-639d-dab3-936d1d473d20

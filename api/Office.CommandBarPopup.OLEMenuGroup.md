@@ -3,7 +3,6 @@ title: CommandBarPopup.OLEMenuGroup property (Office)
 keywords: vbaof11.chm7003
 f1_keywords:
 - vbaof11.chm7003
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.OLEMenuGroup
 ms.assetid: 32b1bc39-19bc-d0ed-59b5-2e7fa03f329e

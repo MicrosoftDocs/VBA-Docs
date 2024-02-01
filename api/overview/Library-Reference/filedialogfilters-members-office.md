@@ -1,6 +1,6 @@
 ---
 title: FileDialogFilters members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: badd8f49-3f59-837f-ed20-a4a849910d4c
 ms.date: 01/30/2019
 ms.localizationpriority: medium

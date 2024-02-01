@@ -1,6 +1,6 @@
 ---
 title: IConverter members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: c8396dba-f980-18a2-0b17-29164446dc5b
 ms.date: 01/30/2019
 ms.localizationpriority: medium

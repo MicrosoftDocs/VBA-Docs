@@ -3,7 +3,6 @@ title: ServerPolicy.Parent property (Office)
 keywords: vbaof11.chm278019
 f1_keywords:
 - vbaof11.chm278019
-ms.prod: office
 api_name:
 - Office.ServerPolicy.Parent
 ms.assetid: cab80a1e-f5e0-232f-c75b-14277f8a9022

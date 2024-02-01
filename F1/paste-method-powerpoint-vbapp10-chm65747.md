@@ -3,7 +3,7 @@ title: Paste Method, PowerPoint [vbapp10.chm65747]
 keywords: vbapp10.chm65747
 f1_keywords:
 - vbapp10.chm65747
-ms.prod: office
+ms.service: office
 ms.assetid: a527630a-b9bc-4d5c-96ef-27ee78b5de62
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: Font2.BaselineOffset property (Office)
-ms.prod: office
 api_name:
 - Office.Font2.BaselineOffset
 ms.assetid: 93062fdc-25fd-3fe2-1b12-5301057bb1a7

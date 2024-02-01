@@ -3,7 +3,7 @@ title: ShowEstimatedDuration Property, Project [vbapj.chm132623]
 keywords: vbapj.chm132623
 f1_keywords:
 - vbapj.chm132623
-ms.prod: office
+ms.service: office
 ms.assetid: 47a61981-0f0a-4774-9f26-d006d6bcee4a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

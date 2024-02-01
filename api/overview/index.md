@@ -1,6 +1,6 @@
 ---
 title: Office Visual Basic for Applications (VBA) reference
-ms.prod: office
+ms.service: office
 description: This reference is for experienced Office users who want to learn about VBA and who want some insight into how programming can help them to customize Office.
 ms.date: 06/11/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.Enabled property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.Enabled
 ms.assetid: 74105bf5-96a0-09ea-bb00-ef102705372c

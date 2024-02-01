@@ -3,7 +3,7 @@ title: HangulHanjaConversionDictionaries Object, Word [vbawd10.chm2528]
 keywords: vbawd10.chm2528
 f1_keywords:
 - vbawd10.chm2528
-ms.prod: office
+ms.service: office
 ms.assetid: 688541bc-ebbf-4910-b9ca-f7b9df812dbb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

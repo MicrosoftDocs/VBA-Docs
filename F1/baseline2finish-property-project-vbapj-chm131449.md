@@ -3,7 +3,7 @@ title: Baseline2Finish Property, Project - [vbapj.chm131449]
 keywords: vbapj.chm131449
 f1_keywords:
 - vbapj.chm131449
-ms.prod: office
+ms.service: office
 ms.assetid: ed207478-c50f-41be-a090-009a888107fe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

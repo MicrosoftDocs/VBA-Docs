@@ -1,6 +1,6 @@
 ---
 title: CustomXMLSchema members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 1b7613ff-e53d-2e6a-09a9-a5b427f3792f
 ms.date: 01/30/2019
 ms.localizationpriority: medium

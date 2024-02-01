@@ -1,6 +1,6 @@
 ---
 title: ParagraphFormat2 members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: c0580593-7efb-659f-02a2-67dce512ee09
 ms.date: 01/30/2019
 ms.localizationpriority: medium

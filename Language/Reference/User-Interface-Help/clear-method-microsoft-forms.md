@@ -3,7 +3,6 @@ title: Clear method (Microsoft Forms)
 keywords: fm20.chm5224955
 f1_keywords:
 - fm20.chm5224955
-ms.prod: office
 ms.assetid: c0fe2f8c-1af1-6977-e794-38f9fa40deac
 ms.date: 11/15/2018
 ms.localizationpriority: medium

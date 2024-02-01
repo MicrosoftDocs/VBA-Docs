@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Enabled property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Enabled
 ms.assetid: d56d2e1d-27b3-f375-95aa-9efa3aa4d734

@@ -3,7 +3,6 @@ title: COMAddIns.Item method (Office)
 keywords: vbaof11.chm220001
 f1_keywords:
 - vbaof11.chm220001
-ms.prod: office
 api_name:
 - Office.COMAddIns.Item
 ms.assetid: bc9f4f41-fe52-1ba0-160c-0b1926194806

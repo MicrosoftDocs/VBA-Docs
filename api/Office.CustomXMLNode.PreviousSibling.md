@@ -3,7 +3,6 @@ title: CustomXMLNode.PreviousSibling property (Office)
 keywords: vbaof11.chm294013
 f1_keywords:
 - vbaof11.chm294013
-ms.prod: office
 api_name:
 - Office.CustomXMLNode.PreviousSibling
 ms.assetid: 511e6dfd-7027-220a-9d3e-e998a43e7239

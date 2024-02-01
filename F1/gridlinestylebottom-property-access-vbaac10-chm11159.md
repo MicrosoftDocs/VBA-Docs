@@ -3,7 +3,7 @@ title: GridlineStyleBottom Property, Access [vbaac10.chm11159]
 keywords: vbaac10.chm11159
 f1_keywords:
 - vbaac10.chm11159
-ms.prod: office
+ms.service: office
 ms.assetid: 38b411cf-e2c2-46d8-81c6-dfd9a02054b9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

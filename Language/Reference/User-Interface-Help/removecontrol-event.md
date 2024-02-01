@@ -3,7 +3,6 @@ title: RemoveControl event
 keywords: fm20.chm2000200
 f1_keywords:
 - fm20.chm2000200
-ms.prod: office
 api_name:
 - Office.RemoveControl
 ms.assetid: 6e6abe85-4c0c-8fc9-668c-009e6f1a3d76

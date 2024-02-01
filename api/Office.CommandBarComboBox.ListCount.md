@@ -3,7 +3,6 @@ title: CommandBarComboBox.ListCount property (Office)
 keywords: vbaof11.chm8006
 f1_keywords:
 - vbaof11.chm8006
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.ListCount
 ms.assetid: 3ab55501-b82e-0380-d805-e4386c399131

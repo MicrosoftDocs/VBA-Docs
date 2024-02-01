@@ -3,7 +3,6 @@ title: PictureAlignment property
 keywords: fm20.chm5225078
 f1_keywords:
 - fm20.chm5225078
-ms.prod: office
 api_name:
 - Office.PictureAlignment
 ms.assetid: 5d497e60-7106-6278-a5c0-06ef06d6177f

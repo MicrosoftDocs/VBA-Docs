@@ -3,7 +3,7 @@ title: Shift2 Property, Project [vbapj.chm132570]
 keywords: vbapj.chm132570
 f1_keywords:
 - vbapj.chm132570
-ms.prod: office
+ms.service: office
 ms.assetid: e4c0edb6-8101-4a63-8bbb-a43b31e3dd45
 ms.date: 06/08/2017
 ms.localizationpriority: medium

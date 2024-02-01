@@ -3,7 +3,6 @@ title: LineCount property
 keywords: fm20.chm2001390
 f1_keywords:
 - fm20.chm2001390
-ms.prod: office
 api_name:
 - Office.LineCount
 ms.assetid: a7dd67ca-ef98-6a7b-d703-344765328eda

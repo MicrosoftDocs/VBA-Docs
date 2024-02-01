@@ -3,7 +3,6 @@ title: Font dialog box
 keywords: vbui6.chm1105309
 f1_keywords:
 - vbui6.chm1105309
-ms.prod: office
 ms.assetid: fd938101-f619-9f8f-855d-b67d50e24682
 ms.date: 11/27/2018
 ms.localizationpriority: medium

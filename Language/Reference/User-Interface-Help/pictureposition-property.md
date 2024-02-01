@@ -3,7 +3,6 @@ title: PicturePosition property
 keywords: fm20.chm5225079
 f1_keywords:
 - fm20.chm5225079
-ms.prod: office
 api_name:
 - Office.PicturePosition
 ms.assetid: dee7f263-90a9-cdeb-981f-65dd5e118a18

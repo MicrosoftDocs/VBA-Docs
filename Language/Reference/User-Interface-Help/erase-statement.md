@@ -3,7 +3,6 @@ title: Erase statement (VBA)
 keywords: vblr6.chm1008910
 f1_keywords:
 - vblr6.chm1008910
-ms.prod: office
 ms.assetid: b051ba13-3669-57e5-b023-cc4d52ec93f6
 ms.date: 12/03/2018
 ms.localizationpriority: medium

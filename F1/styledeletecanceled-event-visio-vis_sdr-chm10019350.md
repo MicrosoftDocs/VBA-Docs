@@ -3,7 +3,7 @@ title: StyleDeleteCanceled Event, Visio [vis_sdr.chm10019350]
 keywords: vis_sdr.chm10019350
 f1_keywords:
 - vis_sdr.chm10019350
-ms.prod: office
+ms.service: office
 ms.assetid: 061a8727-9986-4cc7-9854-e3ea4b2fad85
 ms.date: 06/08/2017
 ms.localizationpriority: medium

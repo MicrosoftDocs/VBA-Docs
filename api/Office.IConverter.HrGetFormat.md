@@ -3,7 +3,6 @@ title: IConverter.HrGetFormat method (Office)
 keywords: vbaof11.chm333005
 f1_keywords:
 - vbaof11.chm333005
-ms.prod: office
 api_name:
 - Office.IConverter.HrGetFormat
 ms.assetid: bdee0e57-d87b-f1ec-950e-d8b676fd91db

@@ -3,7 +3,6 @@ title: EnterKeyBehavior, MultiLine properties example
 keywords: fm20.chm5225144
 f1_keywords:
 - fm20.chm5225144
-ms.prod: office
 ms.assetid: 06f7eb5f-cb91-6231-ccf5-1dcdf57fb3c1
 ms.date: 11/14/2018
 ms.localizationpriority: medium

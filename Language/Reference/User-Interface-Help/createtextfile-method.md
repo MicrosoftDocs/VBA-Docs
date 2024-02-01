@@ -3,7 +3,6 @@ title: CreateTextFile method (Visual Basic for Applications)
 keywords: vblr6.chm2182035
 f1_keywords:
 - vblr6.chm2182035
-ms.prod: office
 api_name:
 - Office.CreateTextFile
 ms.assetid: be538862-92a8-0386-ea4f-1809fc465cb9

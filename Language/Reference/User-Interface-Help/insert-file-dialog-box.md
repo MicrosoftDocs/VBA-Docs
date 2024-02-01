@@ -3,7 +3,6 @@ title: Insert File dialog box
 keywords: vbui6.chm181042
 f1_keywords:
 - vbui6.chm181042
-ms.prod: office
 ms.assetid: 24548fe6-6671-70fa-c21c-4fb4e939e630
 ms.date: 11/27/2018
 ms.localizationpriority: medium

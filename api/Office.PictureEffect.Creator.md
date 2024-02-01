@@ -1,6 +1,5 @@
 ---
 title: PictureEffect.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.PictureEffect.Creator
 ms.assetid: 4d001927-b503-34a9-0776-bb186a22cb96

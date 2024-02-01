@@ -1,6 +1,5 @@
 ---
 title: MsoArrowheadStyle enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoArrowheadStyle
 ms.assetid: e598631e-dad9-649b-767b-99e7e7ea83da

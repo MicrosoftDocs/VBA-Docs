@@ -3,7 +3,6 @@ title: RGB function (Visual Basic for Applications)
 keywords: vblr6.chm1009005
 f1_keywords:
 - vblr6.chm1009005
-ms.prod: office
 ms.assetid: 5e9956de-ba18-56cd-0556-715774055cf4
 ms.date: 12/13/2018
 ms.localizationpriority: medium

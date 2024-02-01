@@ -3,7 +3,6 @@ title: ODSOFilter.CompareTo property (Office)
 keywords: vbaof11.chm240005
 f1_keywords:
 - vbaof11.chm240005
-ms.prod: office
 api_name:
 - Office.ODSOFilter.CompareTo
 ms.assetid: dc14c506-1315-d0f9-edcd-38c395feab63

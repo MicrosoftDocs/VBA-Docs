@@ -3,7 +3,6 @@ title: IMEStatus function (Visual Basic for Applications)
 keywords: vblr6.chm1011064
 f1_keywords:
 - vblr6.chm1011064
-ms.prod: office
 ms.assetid: 8fb525b1-0243-79c8-32fc-4eb8d634e351
 ms.date: 12/13/2018
 ms.localizationpriority: medium

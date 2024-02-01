@@ -3,7 +3,6 @@ title: VolumeName property (Visual Basic for Applications)
 keywords: vblr6.chm2181965
 f1_keywords:
 - vblr6.chm2181965
-ms.prod: office
 api_name:
 - Office.VolumeName
 ms.assetid: 8592ae63-f36e-e87a-8286-72419d7781d0

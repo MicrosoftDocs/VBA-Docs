@@ -3,7 +3,7 @@ title: Verb Property, Access [vbaac10.chm4537]
 keywords: vbaac10.chm4537
 f1_keywords:
 - vbaac10.chm4537
-ms.prod: office
+ms.service: office
 ms.assetid: 57caaeaf-d6dd-49fb-bd89-1ba49f430a27
 ms.date: 06/08/2017
 ms.localizationpriority: medium

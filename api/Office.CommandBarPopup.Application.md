@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Application property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Application
 ms.assetid: 2a247386-f2f3-5901-038a-677a4906cb82

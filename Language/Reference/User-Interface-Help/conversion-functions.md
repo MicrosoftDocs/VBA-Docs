@@ -1,6 +1,5 @@
 ---
 title: Conversion functions (Visual Basic for Applications)
-ms.prod: office
 ms.assetid: c7548597-105e-77f0-0ec0-59dc5f89b7aa
 ms.date: 12/11/2018
 ms.localizationpriority: medium

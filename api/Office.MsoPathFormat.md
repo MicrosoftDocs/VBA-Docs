@@ -1,6 +1,5 @@
 ---
 title: MsoPathFormat enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoPathFormat
 ms.assetid: 744f8ecf-7a08-4bd3-eb8d-1dde193d71b4

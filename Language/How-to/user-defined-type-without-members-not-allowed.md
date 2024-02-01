@@ -3,7 +3,6 @@ title: User-defined type without members not allowed (VBA)
 keywords: vblr6.chm1011305
 f1_keywords:
 - vblr6.chm1011305
-ms.prod: office
 ms.assetid: 22579906-b485-695f-924c-12779f30430c
 ms.date: 12/27/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: KeyDown event, TextBox control, CurLine, CurTargetX, CurX, Text propertie
 keywords: fm20.chm5225187
 f1_keywords:
 - fm20.chm5225187
-ms.prod: office
 ms.assetid: 696c6429-7a62-9eeb-d7c3-a883e888da09
 ms.date: 11/14/2018
 ms.localizationpriority: medium

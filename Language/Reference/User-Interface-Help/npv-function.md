@@ -3,7 +3,6 @@ title: NPV function (Visual Basic for Applications)
 keywords: vblr6.chm1009284
 f1_keywords:
 - vblr6.chm1009284
-ms.prod: office
 ms.assetid: 9f444237-9f5a-834d-1aec-a2d016dfb325
 ms.date: 12/13/2018
 ms.localizationpriority: medium

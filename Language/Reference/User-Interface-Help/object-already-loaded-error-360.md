@@ -3,7 +3,6 @@ title: Object already loaded (Error 360)
 keywords: vblr6.chm1117810
 f1_keywords:
 - vblr6.chm1117810
-ms.prod: office
 ms.assetid: e492bbbc-572d-af2f-111f-1879c7b35ea3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

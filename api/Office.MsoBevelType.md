@@ -1,6 +1,5 @@
 ---
 title: MsoBevelType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoBevelType
 ms.assetid: 2404d6cf-0c64-fca5-59bc-098847018f99

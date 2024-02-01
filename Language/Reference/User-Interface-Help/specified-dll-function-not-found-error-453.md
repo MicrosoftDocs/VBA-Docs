@@ -3,7 +3,6 @@ title: Specified DLL function not found (Error 453)
 keywords: vblr6.chm1011197
 f1_keywords:
 - vblr6.chm1011197
-ms.prod: office
 ms.assetid: 5065c4a8-e5fb-2c47-0c8b-25afcbe2c2f3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

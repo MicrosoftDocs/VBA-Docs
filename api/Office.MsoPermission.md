@@ -1,6 +1,5 @@
 ---
 title: MsoPermission enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoPermission
 ms.assetid: 7450861f-8adf-dceb-5d5f-6f20bda60abf

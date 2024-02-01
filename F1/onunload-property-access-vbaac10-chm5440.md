@@ -3,7 +3,7 @@ title: OnUnload Property, Access [vbaac10.chm5440]
 keywords: vbaac10.chm5440
 f1_keywords:
 - vbaac10.chm5440
-ms.prod: office
+ms.service: office
 ms.assetid: b905f34b-5ad4-4e74-87c3-b8877702d149
 ms.date: 06/08/2017
 ms.localizationpriority: medium

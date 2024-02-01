@@ -1,6 +1,5 @@
 ---
 title: IMsoContactCard.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.IMsoContactCard.Creator
 ms.assetid: b08671d9-07cb-e72b-dff0-76d596b8f98c

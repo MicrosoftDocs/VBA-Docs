@@ -1,6 +1,5 @@
 ---
 title: Unexpected compile error
-ms.prod: office
 ms.assetid: b86ea0d8-6f24-43c1-9212-59777a93ccbb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

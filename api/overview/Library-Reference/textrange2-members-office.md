@@ -1,7 +1,7 @@
 ---
 title: TextRange2 members (Office)
 description: Learn how TextRange2 members represents the text frame in a Shape or ShapeRange object with supporting terms and descriptions.
-ms.prod: office
+ms.service: office
 ms.assetid: 26daffff-b9ef-fd94-f5b7-ed3a09840cb6
 ms.date: 01/30/2019
 ms.localizationpriority: medium

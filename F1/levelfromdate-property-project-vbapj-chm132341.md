@@ -3,7 +3,7 @@ title: LevelFromDate Property, Project [vbapj.chm132341]
 keywords: vbapj.chm132341
 f1_keywords:
 - vbapj.chm132341
-ms.prod: office
+ms.service: office
 ms.assetid: c5c09c15-aa64-4e7d-87b5-de76c4f24fa9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

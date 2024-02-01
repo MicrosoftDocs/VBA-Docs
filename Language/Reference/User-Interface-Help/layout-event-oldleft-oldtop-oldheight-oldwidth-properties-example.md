@@ -3,7 +3,6 @@ title: Layout event, OldLeft, OldTop, OldHeight, OldWidth properties example
 keywords: fm20.chm5225125
 f1_keywords:
 - fm20.chm5225125
-ms.prod: office
 ms.assetid: de288917-b1f5-0681-d31f-5847c81b6f29
 ms.date: 11/14/2018
 ms.localizationpriority: medium

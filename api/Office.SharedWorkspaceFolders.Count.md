@@ -3,7 +3,6 @@ title: SharedWorkspaceFolders.Count property (Office)
 keywords: vbaof11.chm269002
 f1_keywords:
 - vbaof11.chm269002
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolders.Count
 ms.assetid: f13cb73e-6fce-4aca-43cc-76930b3bc3fc

@@ -3,7 +3,6 @@ title: CommandBars.GetLabelMso method (Office)
 keywords: vbaof11.chm2022
 f1_keywords:
 - vbaof11.chm2022
-ms.prod: office
 api_name:
 - Office.CommandBars.GetLabelMso
 ms.assetid: 1ab6f700-e3c3-a89d-790f-10c27a6b495c

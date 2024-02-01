@@ -1,7 +1,7 @@
 ---
 title: SmartArtLayouts members (Office)
 description: Represents a collection of SmartArt layout diagrams.
-ms.prod: office
+ms.service: office
 ms.assetid: 29154639-17b7-7999-a9e1-b16cf9b2ada6
 ms.date: 01/30/2019
 ms.localizationpriority: medium

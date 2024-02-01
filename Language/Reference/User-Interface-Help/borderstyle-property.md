@@ -3,7 +3,6 @@ title: BorderStyle property
 keywords: fm20.chm5225010
 f1_keywords:
 - fm20.chm5225010
-ms.prod: office
 api_name:
 - Office.BorderStyle
 ms.assetid: 211ffd49-cf3a-8fff-1f00-58a97b833580

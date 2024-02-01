@@ -1,6 +1,5 @@
 ---
 title: SharedWorkspaceMembers.Application property (Office)
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers.Application
 ms.assetid: dc694dd4-b3b9-0d30-729e-d7fdfcdbe2f5

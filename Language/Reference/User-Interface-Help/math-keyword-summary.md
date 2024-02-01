@@ -3,7 +3,6 @@ title: Math keyword summary
 keywords: vblr6.chm1009065
 f1_keywords:
 - vblr6.chm1009065
-ms.prod: office
 ms.assetid: 43bea94c-d513-f799-fde5-42a15915a9d5
 ms.date: 11/29/2018
 ms.localizationpriority: medium

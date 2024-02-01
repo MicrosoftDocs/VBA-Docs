@@ -3,7 +3,6 @@ title: KeepScrollBarsVisible property
 keywords: fm20.chm5225048
 f1_keywords:
 - fm20.chm5225048
-ms.prod: office
 api_name:
 - Office.KeepScrollBarsVisible
 ms.assetid: e138df9f-5a8f-efcb-48db-9c8d22a7951f

@@ -3,7 +3,6 @@ title: SharedWorkspaceTask.Priority property (Office)
 keywords: vbaof11.chm264004
 f1_keywords:
 - vbaof11.chm264004
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Priority
 ms.assetid: 8e0224a3-9c0c-5c0f-92e8-d7b945236886

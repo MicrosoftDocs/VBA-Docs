@@ -3,7 +3,6 @@ title: Can't execute code in break mode
 keywords: vblr6.chm1113223
 f1_keywords:
 - vblr6.chm1113223
-ms.prod: office
 ms.assetid: 315e15ea-b33b-4f62-4112-f84b5e845393
 ms.date: 06/08/2017
 ms.localizationpriority: high

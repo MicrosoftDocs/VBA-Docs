@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.TooltipText property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.TooltipText
 ms.assetid: 65bfb3ff-a36e-dfd5-4ae0-4d2ccfb69000

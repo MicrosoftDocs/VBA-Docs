@@ -3,7 +3,6 @@ title: FileCopy statement (VBA)
 keywords: vblr6.chm1008920
 f1_keywords:
 - vblr6.chm1008920
-ms.prod: office
 ms.assetid: 9da94e6e-f8c4-70cd-40b5-501668cbfd71
 ms.date: 12/03/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Static statement (VBA)
 keywords: vblr6.chm1009031
 f1_keywords:
 - vblr6.chm1009031
-ms.prod: office
 ms.assetid: 56b817bc-7324-cc0b-10ec-7ffea364b91e
 ms.date: 12/03/2018
 ms.localizationpriority: medium

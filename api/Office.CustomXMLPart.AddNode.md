@@ -3,7 +3,6 @@ title: CustomXMLPart.AddNode method (Office)
 keywords: vbaof11.chm295008
 f1_keywords:
 - vbaof11.chm295008
-ms.prod: office
 api_name:
 - Office.CustomXMLPart.AddNode
 ms.assetid: c316ebd0-e7e8-0ac2-603e-c298da23444d

@@ -3,7 +3,6 @@ title: ^ operator
 keywords: vblr6.chm1008849
 f1_keywords:
 - vblr6.chm1008849
-ms.prod: office
 ms.assetid: 9a2f874a-bf55-ae06-cf93-951d774eff0a
 ms.date: 03/12/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: PictureEffects.Count property (Office)
-ms.prod: office
 api_name:
 - Office.PictureEffects.Count
 ms.assetid: 3832dfbd-8c4c-fbee-613d-f31d2b1c9387

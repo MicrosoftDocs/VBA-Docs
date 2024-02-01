@@ -3,7 +3,6 @@ title: Mid statement (VBA)
 keywords: vblr6.chm1011353
 f1_keywords:
 - vblr6.chm1011353
-ms.prod: office
 ms.assetid: a9923853-55d5-5b50-d422-57cba84d9f47
 ms.date: 12/03/2018
 ms.localizationpriority: medium

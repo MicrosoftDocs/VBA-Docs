@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.IsPriorityDropped property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.IsPriorityDropped
 ms.assetid: 2f4846a0-d435-df3c-903c-050b0e31d19d

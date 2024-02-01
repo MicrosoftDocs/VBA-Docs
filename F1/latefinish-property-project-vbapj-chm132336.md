@@ -3,7 +3,7 @@ title: LateFinish Property, Project [vbapj.chm132336]
 keywords: vbapj.chm132336
 f1_keywords:
 - vbapj.chm132336
-ms.prod: office
+ms.service: office
 ms.assetid: f23ec497-156d-44eb-8412-6c1f237c2676
 ms.date: 06/08/2017
 ms.localizationpriority: medium

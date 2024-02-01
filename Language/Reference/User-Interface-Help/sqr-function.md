@@ -3,7 +3,6 @@ title: Sqr function (Visual Basic for Applications)
 keywords: vblr6.chm1009029
 f1_keywords:
 - vblr6.chm1009029
-ms.prod: office
 ms.assetid: ce2add56-f943-9470-0caa-befda14d124a
 ms.date: 12/13/2018
 ms.localizationpriority: medium

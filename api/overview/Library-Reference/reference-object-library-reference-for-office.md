@@ -1,6 +1,6 @@
 ---
 title: Reference (Object library reference for Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 499c789a-aba2-0fad-649a-0ea964cd3b5e
 ms.date: 01/22/2020
 ms.localizationpriority: high

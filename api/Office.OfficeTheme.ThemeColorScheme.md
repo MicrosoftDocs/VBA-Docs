@@ -1,6 +1,5 @@
 ---
 title: OfficeTheme.ThemeColorScheme property (Office)
-ms.prod: office
 api_name:
 - Office.OfficeTheme.ThemeColorScheme
 ms.assetid: 149df201-1355-bb65-a3b1-56d2d07fefb1

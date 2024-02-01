@@ -3,7 +3,6 @@ title: Using data types efficiently (VBA)
 keywords: vbcn6.chm1009792
 f1_keywords:
 - vbcn6.chm1009792
-ms.prod: office
 ms.assetid: 8777099a-623e-4fce-ef3b-beecf10cb603
 ms.date: 12/26/2018
 ms.localizationpriority: medium

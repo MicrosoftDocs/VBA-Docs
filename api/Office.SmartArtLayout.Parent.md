@@ -1,6 +1,5 @@
 ---
 title: SmartArtLayout.Parent property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtLayout.Parent
 ms.assetid: d7d8c5b0-63de-bda1-8376-5587abbf971f

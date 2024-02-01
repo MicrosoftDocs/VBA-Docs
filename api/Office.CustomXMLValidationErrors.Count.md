@@ -3,7 +3,6 @@ title: CustomXMLValidationErrors.Count property (Office)
 keywords: vbaof11.chm308002
 f1_keywords:
 - vbaof11.chm308002
-ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Count
 ms.assetid: 49381924-8fe9-5bc6-92b5-340765931ef2

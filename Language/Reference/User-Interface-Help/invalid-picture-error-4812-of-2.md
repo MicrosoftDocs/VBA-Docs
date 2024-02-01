@@ -3,7 +3,6 @@ title: Invalid picture (Error 481) [2 of 2]
 keywords: vblr6.chm1000481
 f1_keywords:
 - vblr6.chm1000481
-ms.prod: office
 ms.assetid: 62a82f46-b34d-cc07-7705-9fc30224e42a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

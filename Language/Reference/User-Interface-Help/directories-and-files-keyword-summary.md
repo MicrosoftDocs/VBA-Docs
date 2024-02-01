@@ -1,6 +1,5 @@
 ---
 title: Directories and files keyword summary
-ms.prod: office
 ms.assetid: 2749d5cc-48b2-8311-0383-e24115452cd7
 ms.date: 11/29/2018
 ms.localizationpriority: medium

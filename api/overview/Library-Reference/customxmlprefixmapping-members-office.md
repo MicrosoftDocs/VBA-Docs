@@ -1,6 +1,6 @@
 ---
 title: CustomXMLPrefixMapping members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: c06ef133-3b0d-d1b3-f488-bc46a49018d4
 ms.date: 01/30/2019
 ms.localizationpriority: medium

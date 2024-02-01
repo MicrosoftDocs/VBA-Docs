@@ -1,6 +1,5 @@
 ---
 title: CustomXMLPrefixMapping.NamespaceURI property (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.NamespaceURI
 ms.assetid: f7f26169-3f29-2706-9a29-7e79ad123b53

@@ -3,7 +3,6 @@ title: SignatureInfo.SelectCertificateDetailByThumbprint method (Office)
 keywords: vbaof11.chm286016
 f1_keywords:
 - vbaof11.chm286016
-ms.prod: office
 api_name:
 - Office.SignatureInfo.SelectCertificateDetailByThumbprint
 ms.assetid: 997010ee-330f-433d-c62c-bf211b8351d6

@@ -1,6 +1,5 @@
 ---
 title: SmartArtColor.Id property (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtColor.Id
 ms.assetid: 8fc72fa0-b896-50d4-eeba-eedca08be21c

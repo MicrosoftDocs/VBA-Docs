@@ -3,7 +3,6 @@ title: FreeSpace property (Visual Basic for Applications)
 keywords: vblr6.chm2181958
 f1_keywords:
 - vblr6.chm2181958
-ms.prod: office
 api_name:
 - Office.FreeSpace
 ms.assetid: 6bb743ca-d196-a5ab-2cff-3dd6ecff6e0b

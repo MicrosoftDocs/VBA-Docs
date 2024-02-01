@@ -3,7 +3,6 @@ title: ComboBox control
 keywords: fm20.chm5224978
 f1_keywords:
 - fm20.chm5224978
-ms.prod: office
 ms.assetid: 8a38a969-9b8c-4ba0-292c-5a3d71ce4553
 ms.date: 11/15/2018
 ms.localizationpriority: medium

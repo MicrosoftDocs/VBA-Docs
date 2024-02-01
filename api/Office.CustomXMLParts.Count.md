@@ -3,7 +3,6 @@ title: CustomXMLParts.Count property (Office)
 keywords: vbaof11.chm298002
 f1_keywords:
 - vbaof11.chm298002
-ms.prod: office
 api_name:
 - Office.CustomXMLParts.Count
 ms.assetid: e5c8962f-3f93-8d2c-c5cf-8b485c1b2664

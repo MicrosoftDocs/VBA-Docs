@@ -3,7 +3,6 @@ title: This action will reset your project, proceed anyway?
 keywords: vblr6.chm1040364
 f1_keywords:
 - vblr6.chm1040364
-ms.prod: office
 ms.assetid: a93bfddc-4c74-5edc-bbdd-52a91a9c4f3f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

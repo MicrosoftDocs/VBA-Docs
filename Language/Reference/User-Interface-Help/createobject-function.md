@@ -3,7 +3,6 @@ title: CreateObject function (Visual Basic for Applications)
 keywords: vblr6.chm1010851
 f1_keywords:
 - vblr6.chm1010851
-ms.prod: office
 ms.assetid: d887c3d3-5c60-09a1-6856-49f7c4cc05ba
 ms.date: 12/11/2018
 ms.localizationpriority: high
