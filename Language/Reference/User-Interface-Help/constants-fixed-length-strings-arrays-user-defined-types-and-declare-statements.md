@@ -3,7 +3,6 @@ title: Constants, fixed-length strings, arrays, user-defined types, and Declare 
 keywords: vblr6.chm1015643
 f1_keywords:
 - vblr6.chm1015643
-ms.prod: office
 ms.assetid: e89fa990-3b88-da3c-961d-a5554eb78ee5
 ms.date: 03/14/2022
 ms.localizationpriority: medium

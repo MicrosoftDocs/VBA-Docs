@@ -2,7 +2,7 @@
 title: MsoLineCapStyle enumeration (Office)
 ms.assetid: e2adcc46-2f4e-7e63-0063-04e57ee3e1dd
 ms.date: 01/31/2019
-ms.prod: office
+ms.service: office
 ms.localizationpriority: medium
 ---
 

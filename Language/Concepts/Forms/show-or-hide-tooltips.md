@@ -3,7 +3,6 @@ title: Show or hide ToolTips
 keywords: fm20.chm5225254
 f1_keywords:
 - fm20.chm5225254
-ms.prod: office
 ms.assetid: 3586b564-83ee-0186-e775-8b259609c5e1
 ms.date: 12/29/2018
 ms.localizationpriority: medium

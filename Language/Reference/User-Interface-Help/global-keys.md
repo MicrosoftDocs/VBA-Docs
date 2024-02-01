@@ -3,7 +3,6 @@ title: Global keys
 keywords: vbui6.chm2008015
 f1_keywords:
 - vbui6.chm2008015
-ms.prod: office
 ms.assetid: a7e63d91-afdb-c9a9-9818-ce71d062a944
 ms.date: 11/21/2018
 ms.localizationpriority: medium

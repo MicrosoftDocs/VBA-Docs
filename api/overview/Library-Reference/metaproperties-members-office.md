@@ -1,6 +1,6 @@
 ---
 title: MetaProperties members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 0e2efa13-130c-59ad-07ee-8499f502064a
 ms.date: 01/30/2019
 ms.localizationpriority: medium

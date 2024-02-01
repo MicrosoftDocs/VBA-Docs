@@ -3,7 +3,6 @@ title: Invalid use of object
 keywords: vblr6.chm1011117
 f1_keywords:
 - vblr6.chm1011117
-ms.prod: office
 ms.assetid: 63d3d9ba-3521-af29-9484-7c8aa6e65364
 ms.date: 06/08/2017
 ms.localizationpriority: medium

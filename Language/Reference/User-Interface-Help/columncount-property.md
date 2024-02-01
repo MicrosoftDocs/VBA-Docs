@@ -3,7 +3,6 @@ title: ColumnCount property (Microsoft Forms)
 keywords: fm20.chm2000940
 f1_keywords:
 - fm20.chm2000940
-ms.prod: office
 api_name:
 - Office.ColumnCount
 ms.assetid: ba998cac-3e31-eb81-8f35-fe7fee133e63

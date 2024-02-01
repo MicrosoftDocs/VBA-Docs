@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.Height property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Height
 ms.assetid: b374ae8b-cce2-7562-1247-32ea90dc3c68

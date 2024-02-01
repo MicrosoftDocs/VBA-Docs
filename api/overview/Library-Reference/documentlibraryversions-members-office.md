@@ -1,6 +1,6 @@
 ---
 title: DocumentLibraryVersions members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: c7f34212-6ee3-de3e-d6a7-11271093c622
 ms.date: 01/30/2019
 ms.localizationpriority: medium

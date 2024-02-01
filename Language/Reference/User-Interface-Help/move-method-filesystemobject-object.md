@@ -3,7 +3,6 @@ title: Move method (FileSystemObject object)
 keywords: vblr6.chm2182006
 f1_keywords:
 - vblr6.chm2182006
-ms.prod: office
 ms.assetid: 9191e310-2b92-fd13-f04a-e34ca2743b7e
 ms.date: 12/14/2018
 ms.localizationpriority: medium

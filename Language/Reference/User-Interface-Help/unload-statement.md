@@ -3,7 +3,6 @@ title: Unload statement (VBA)
 keywords: vblr6.chm1100684
 f1_keywords:
 - vblr6.chm1100684
-ms.prod: office
 ms.assetid: 5fa03dfb-686d-b266-18ba-e4c50afd63ea
 ms.date: 12/03/2018
 ms.localizationpriority: medium

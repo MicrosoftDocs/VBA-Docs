@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.TextDirection property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.TextDirection
 ms.assetid: e1a1ce25-0a6f-7c02-ed11-4af6f44a55f6

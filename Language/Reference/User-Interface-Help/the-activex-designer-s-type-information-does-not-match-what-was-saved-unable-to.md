@@ -3,7 +3,6 @@ title: The ActiveX Designer's Type Information does not match what was saved. Un
 keywords: vblr6.chm1000370
 f1_keywords:
 - vblr6.chm1000370
-ms.prod: office
 ms.assetid: 6c581d1a-752b-2548-b83c-e590340ac2cd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

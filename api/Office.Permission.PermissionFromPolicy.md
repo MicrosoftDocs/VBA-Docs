@@ -3,7 +3,6 @@ title: Permission.PermissionFromPolicy property (Office)
 keywords: vbaof11.chm261014
 f1_keywords:
 - vbaof11.chm261014
-ms.prod: office
 api_name:
 - Office.Permission.PermissionFromPolicy
 ms.assetid: aa6be9a8-a351-f9bb-99f8-a547583f2e62

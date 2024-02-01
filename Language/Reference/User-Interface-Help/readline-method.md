@@ -3,7 +3,6 @@ title: ReadLine method (Visual Basic for Applications)
 keywords: vblr6.chm2182078
 f1_keywords:
 - vblr6.chm2182078
-ms.prod: office
 api_name:
 - Office.ReadLine
 ms.assetid: efee2e9c-59ec-7e65-3019-4a796ad59762

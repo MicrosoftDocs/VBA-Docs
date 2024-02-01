@@ -4,7 +4,6 @@ description: How to get Help on Office on Macintosh keywords
 keywords: vbaof11.chm5251628
 f1_keywords:
 - vbaof11.chm5251628
-ms.prod: office
 ms.assetid: 5aaffe18-8b58-46bc-6c68-7b4862aa8fba
 ms.date: 09/07/2021
 ms.localizationpriority: medium

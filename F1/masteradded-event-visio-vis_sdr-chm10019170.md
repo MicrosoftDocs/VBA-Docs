@@ -3,7 +3,7 @@ title: MasterAdded Event, Visio [vis_sdr.chm10019170]
 keywords: vis_sdr.chm10019170
 f1_keywords:
 - vis_sdr.chm10019170
-ms.prod: office
+ms.service: office
 ms.assetid: a0a58ea9-d075-4958-bb2f-797ac70aea10
 ms.date: 06/08/2017
 ms.localizationpriority: medium

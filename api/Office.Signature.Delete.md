@@ -3,7 +3,6 @@ title: Signature.Delete method (Office)
 keywords: vbaof11.chm248006
 f1_keywords:
 - vbaof11.chm248006
-ms.prod: office
 api_name:
 - Office.Signature.Delete
 ms.assetid: c75a2200-081a-7f5c-ae02-ab7be845c003

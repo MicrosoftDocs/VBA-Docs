@@ -1,6 +1,5 @@
 ---
 title: SharedWorkspaceTask.Application property (Office)
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Application
 ms.assetid: 079e2584-dfc6-4a89-0507-168b12709bc7

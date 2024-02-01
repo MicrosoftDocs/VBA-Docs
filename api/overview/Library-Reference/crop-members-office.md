@@ -1,6 +1,6 @@
 ---
 title: Crop members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: bd31aced-3364-657b-a5cd-1edf21d67029
 ms.date: 01/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Creating object variables (VBA)
 keywords: vbcn6.chm1011337
 f1_keywords:
 - vbcn6.chm1011337
-ms.prod: office
 ms.assetid: 6cff962e-4a3e-dfc3-8491-d31a308b1c55
 ms.date: 12/21/2018
 ms.localizationpriority: medium

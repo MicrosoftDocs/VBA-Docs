@@ -3,7 +3,6 @@ title: OfficeDataSourceObject.Filters property (Office)
 keywords: vbaof11.chm232010
 f1_keywords:
 - vbaof11.chm232010
-ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Filters
 ms.assetid: 1c2f15a8-d8ba-b331-b68d-4a220619182e

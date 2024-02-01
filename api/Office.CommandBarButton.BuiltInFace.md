@@ -3,7 +3,6 @@ title: CommandBarButton.BuiltInFace property (Office)
 keywords: vbaof11.chm6001
 f1_keywords:
 - vbaof11.chm6001
-ms.prod: office
 api_name:
 - Office.CommandBarButton.BuiltInFace
 ms.assetid: 47c82878-17ea-b6ff-e841-c9f07342c8a3

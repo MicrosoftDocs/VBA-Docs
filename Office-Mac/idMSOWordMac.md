@@ -1,6 +1,5 @@
 ---
 title: idMSOs supported in Word for Mac
-ms.prod: office
 ms.date: 06/08/2017
 ms.localizationpriority: medium
 ---

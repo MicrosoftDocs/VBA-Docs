@@ -3,7 +3,7 @@ title: DeliverableGuid Property, Project [vbapj.chm131725]
 keywords: vbapj.chm131725
 f1_keywords:
 - vbapj.chm131725
-ms.prod: office
+ms.service: office
 ms.assetid: 318c3f42-26d0-4981-82e5-1d0eedef38b8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

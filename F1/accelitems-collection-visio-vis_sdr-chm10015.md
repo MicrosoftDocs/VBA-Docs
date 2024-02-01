@@ -3,7 +3,7 @@ title: AccelItems Collection, Visio - [vis_sdr.chm10015]
 keywords: vis_sdr.chm10015
 f1_keywords:
 - vis_sdr.chm10015
-ms.prod: office
+ms.service: office
 ms.assetid: 73bffaf8-3c2a-4cb1-9fb4-a00d09d0a58b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: OfficeDataSourceObject.Move method (Office)
 keywords: vbaof11.chm232006
 f1_keywords:
 - vbaof11.chm232006
-ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Move
 ms.assetid: cf732e6c-58b3-94a7-5081-3f1350800fd0

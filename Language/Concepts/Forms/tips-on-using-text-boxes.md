@@ -3,7 +3,6 @@ title: Tips on using text boxes
 keywords: fm20.chm5225199
 f1_keywords:
 - fm20.chm5225199
-ms.prod: office
 ms.assetid: 4f2c565a-50ba-0295-d8bf-92d316ea25af
 ms.date: 09/19/2021
 ms.localizationpriority: medium

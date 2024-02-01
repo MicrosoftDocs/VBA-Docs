@@ -3,7 +3,6 @@ title: Miscellaneous constants
 keywords: vblr6.chm1092146
 f1_keywords:
 - vblr6.chm1092146
-ms.prod: office
 ms.assetid: ef7f52d8-5707-c7db-ca47-e7eaec37276d
 ms.date: 12/11/2018
 ms.localizationpriority: medium

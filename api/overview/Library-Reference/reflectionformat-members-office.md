@@ -1,6 +1,6 @@
 ---
 title: ReflectionFormat members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 040424e8-2903-8416-c294-872d872d5277
 ms.date: 01/30/2019
 ms.localizationpriority: medium

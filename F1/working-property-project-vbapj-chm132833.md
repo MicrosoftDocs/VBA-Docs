@@ -3,7 +3,7 @@ title: Working Property, Project [vbapj.chm132833]
 keywords: vbapj.chm132833
 f1_keywords:
 - vbapj.chm132833
-ms.prod: office
+ms.service: office
 ms.assetid: 713c213f-d3c5-4f32-896b-1ad11d4ff4ce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

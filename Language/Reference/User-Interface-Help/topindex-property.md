@@ -3,7 +3,6 @@ title: TopIndex property (Microsoft Forms)
 keywords: fm20.chm5225107
 f1_keywords:
 - fm20.chm5225107
-ms.prod: office
 api_name:
 - Office.TopIndex
 ms.assetid: fc4866ba-ee1c-ddd5-cf3d-562792cf97d9

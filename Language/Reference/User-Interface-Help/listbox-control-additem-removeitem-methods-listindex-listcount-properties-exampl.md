@@ -3,7 +3,6 @@ title: ListBox control, AddItem, RemoveItem methods, ListIndex, ListCount proper
 keywords: fm20.chm5225178
 f1_keywords:
 - fm20.chm5225178
-ms.prod: office
 ms.assetid: 70bc2f0c-79a5-89f2-e987-84f673d4bf97
 ms.date: 11/14/2018
 ms.localizationpriority: medium

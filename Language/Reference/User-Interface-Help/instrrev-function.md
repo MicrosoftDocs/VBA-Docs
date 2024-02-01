@@ -3,7 +3,6 @@ title: InStrRev function (Visual Basic for Applications)
 keywords: vblr6.chm1008911
 f1_keywords:
 - vblr6.chm1008911
-ms.prod: office
 ms.assetid: 2677e5dc-a128-1bf4-dd72-304469b46cc2
 ms.date: 12/13/2018
 ms.localizationpriority: high

@@ -3,7 +3,7 @@ title: Shadow Property, Access [vbaac10.chm14638]
 keywords: vbaac10.chm14638
 f1_keywords:
 - vbaac10.chm14638
-ms.prod: office
+ms.service: office
 ms.assetid: 6dccd8af-7eef-410b-acae-83d64296acd3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

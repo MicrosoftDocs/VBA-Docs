@@ -3,7 +3,6 @@ title: Call statement (VBA)
 keywords: vblr6.chm1008863
 f1_keywords:
 - vblr6.chm1008863
-ms.prod: office
 ms.assetid: 6232c5cd-8bfe-2316-a0f6-6323db933357
 ms.date: 12/03/2018
 ms.localizationpriority: medium

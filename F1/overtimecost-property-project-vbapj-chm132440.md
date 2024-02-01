@@ -3,7 +3,7 @@ title: OvertimeCost Property, Project [vbapj.chm132440]
 keywords: vbapj.chm132440
 f1_keywords:
 - vbapj.chm132440
-ms.prod: office
+ms.service: office
 ms.assetid: 73148ca3-752b-4921-ada8-d39994c6ff07
 ms.date: 06/08/2017
 ms.localizationpriority: medium

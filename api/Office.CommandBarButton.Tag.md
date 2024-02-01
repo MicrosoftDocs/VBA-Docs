@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.Tag property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Tag
 ms.assetid: c73a12a8-8b20-1e32-ad98-ae0bb3b1daed

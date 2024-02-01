@@ -1,6 +1,5 @@
 ---
 title: Ruler2.TabStops property (Office)
-ms.prod: office
 api_name:
 - Office.Ruler2.TabStops
 ms.assetid: d0531071-e789-1506-061f-debecdd2c1d7

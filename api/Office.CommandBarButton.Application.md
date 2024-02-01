@@ -1,6 +1,5 @@
 ---
 title: CommandBarButton.Application property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarButton.Application
 ms.assetid: c15d6f7e-c728-0e8a-9c56-c8b4cd59822a

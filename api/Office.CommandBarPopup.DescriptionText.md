@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.DescriptionText property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.DescriptionText
 ms.assetid: 81a6b11d-40ea-d17d-4a28-ca423a3e29ec

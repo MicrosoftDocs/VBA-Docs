@@ -3,7 +3,6 @@ title: ODSOFilters.Count property (Office)
 keywords: vbaof11.chm241001
 f1_keywords:
 - vbaof11.chm241001
-ms.prod: office
 api_name:
 - Office.ODSOFilters.Count
 ms.assetid: 2612b227-07e4-2be7-a6e1-a67f6d560af0

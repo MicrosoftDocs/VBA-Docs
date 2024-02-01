@@ -3,7 +3,6 @@ title: Rename Toolbar dialog box
 keywords: vbui6.chm2100897
 f1_keywords:
 - vbui6.chm2100897
-ms.prod: office
 ms.assetid: c3afc5d9-a676-7657-6d5b-77c04a01798a
 ms.date: 11/27/2018 
 ms.localizationpriority: medium

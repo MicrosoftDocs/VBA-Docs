@@ -3,7 +3,6 @@ title: "'item' is a single-threaded component and cannot be used in multi-thread
 keywords: vblr6.chm1000725
 f1_keywords:
 - vblr6.chm1000725
-ms.prod: office
 ms.assetid: 2b3055e6-d800-4e76-0e16-751a67f49ffb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

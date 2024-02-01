@@ -3,7 +3,7 @@ title: QueryCancelSelectionDelete Event, Visio [vis_sdr.chm10519320]
 keywords: vis_sdr.chm10519320
 f1_keywords:
 - vis_sdr.chm10519320
-ms.prod: office
+ms.service: office
 ms.assetid: c4271236-20bd-4abc-b278-4d0de4206022
 ms.date: 06/08/2017
 ms.localizationpriority: medium

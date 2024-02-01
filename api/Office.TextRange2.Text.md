@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Text property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Text
 ms.assetid: b071a9fb-f657-0bc2-9c07-6b1ef604a525

@@ -3,7 +3,7 @@ title: Application property, Excel - [vbaxl10.chm1001]
 keywords: vbaxl10.chm1001
 f1_keywords:
 - vbaxl10.chm1001
-ms.prod: office
+ms.service: office
 ms.assetid: 8f244710-451c-4bc8-b222-c37455c34608
 ms.date: 06/08/2017
 ms.localizationpriority: medium

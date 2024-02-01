@@ -3,7 +3,6 @@ title: ListBox styles
 keywords: fm20.chm5225202
 f1_keywords:
 - fm20.chm5225202
-ms.prod: office
 ms.assetid: bb75796b-d2ce-269c-da8f-c879b8b8da03
 ms.date: 12/29/2018
 ms.localizationpriority: medium

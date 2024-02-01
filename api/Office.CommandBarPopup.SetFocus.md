@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.SetFocus method (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.SetFocus
 ms.assetid: ce132a0d-aa1f-c8b1-2697-1cfe78b99123

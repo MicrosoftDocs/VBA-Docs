@@ -3,7 +3,6 @@ title: Invalid Access mode
 keywords: vblr6.chm1040061
 f1_keywords:
 - vblr6.chm1040061
-ms.prod: office
 ms.assetid: a9bb907d-a3e7-993b-9964-d8e6dc163acc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

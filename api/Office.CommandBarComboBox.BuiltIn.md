@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.BuiltIn property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.BuiltIn
 ms.assetid: 4dc0232c-94dd-ce40-95cd-7700fdd9a427

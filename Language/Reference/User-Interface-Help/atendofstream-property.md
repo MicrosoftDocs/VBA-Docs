@@ -3,7 +3,6 @@ title: AtEndOfStream property (Visual Basic for Applications)
 keywords: vblr6.chm2182072
 f1_keywords:
 - vblr6.chm2182072
-ms.prod: office
 api_name:
 - Office.AtEndOfStream
 ms.assetid: 157b18dc-fdfb-a9f6-1368-aaf4654a2ef5

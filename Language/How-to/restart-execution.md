@@ -3,7 +3,6 @@ title: Restart execution (VBA)
 keywords: vbhw6.chm1009003
 f1_keywords:
 - vbhw6.chm1009003
-ms.prod: office
 ms.assetid: ab681d1b-db56-e360-7fb8-1fa66e3c5842
 ms.date: 12/27/2018
 ms.localizationpriority: medium

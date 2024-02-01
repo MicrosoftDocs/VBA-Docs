@@ -1,6 +1,5 @@
 ---
 title: EncryptionProviderDetail enumeration (Office)
-ms.prod: office
 api_name:
 - Office.EncryptionProviderDetail
 ms.assetid: 4992510d-b693-4961-fd53-fdb618541e7f

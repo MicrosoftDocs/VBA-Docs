@@ -1,6 +1,5 @@
 ---
 title: Visual Basic conceptual topics
-ms.prod: office
 ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
 ms.date: 08/14/2019
 ms.localizationpriority: medium

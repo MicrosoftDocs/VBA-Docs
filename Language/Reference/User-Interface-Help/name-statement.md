@@ -3,7 +3,6 @@ title: Name statement (VBA)
 keywords: vblr6.chm1008979
 f1_keywords:
 - vblr6.chm1008979
-ms.prod: office
 ms.assetid: c248e962-1265-b871-3ef7-36effb070d2b
 ms.date: 12/03/2018
 ms.localizationpriority: medium

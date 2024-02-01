@@ -3,7 +3,6 @@ title: Const statement (VBA)
 keywords: vblr6.chm1008877
 f1_keywords:
 - vblr6.chm1008877
-ms.prod: office
 ms.assetid: 99e2d1e1-ed30-77d3-3366-6438e9373308
 ms.date: 12/03/2018
 ms.localizationpriority: medium

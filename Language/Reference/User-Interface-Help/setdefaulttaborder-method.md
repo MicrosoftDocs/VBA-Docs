@@ -3,7 +3,6 @@ title: SetDefaultTabOrder method (Microsoft Forms)
 keywords: fm20.chm2000420
 f1_keywords:
 - fm20.chm2000420
-ms.prod: office
 api_name:
 - Office.SetDefaultTabOrder
 ms.assetid: fd4661ee-a995-1872-509b-edffa6dbbf80

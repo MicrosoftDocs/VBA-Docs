@@ -3,7 +3,6 @@ title: SignatureProvider.HashStream method (Office)
 keywords: vbaof11.chm287009
 f1_keywords:
 - vbaof11.chm287009
-ms.prod: office
 api_name:
 - Office.SignatureProvider.HashStream
 ms.assetid: 63f40d22-d49e-d6e8-80d0-7b5c19951b92

@@ -3,7 +3,6 @@ title: GetSetting function (Visual Basic for Applications)
 keywords: vblr6.chm1020902
 f1_keywords:
 - vblr6.chm1020902
-ms.prod: office
 ms.assetid: 025f1d5d-6fc9-31ff-e59c-f5bcf47e3313
 ms.date: 12/12/2018
 ms.localizationpriority: medium

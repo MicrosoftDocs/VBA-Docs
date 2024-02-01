@@ -3,7 +3,6 @@ title: Assign an accelerator key for a Page or Tab
 keywords: fm20.chm5225224
 f1_keywords:
 - fm20.chm5225224
-ms.prod: office
 ms.assetid: e8f574e7-6d3b-97c3-7c67-b9f9996b796e
 ms.date: 12/29/2018
 ms.localizationpriority: medium

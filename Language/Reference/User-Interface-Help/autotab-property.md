@@ -3,7 +3,6 @@ title: AutoTab property
 keywords: fm20.chm2000750
 f1_keywords:
 - fm20.chm2000750
-ms.prod: office
 api_name:
 - Office.AutoTab
 ms.assetid: 36af6755-72d8-439a-2999-fc4224760529

@@ -3,7 +3,6 @@ title: RaiseEvent statement (VBA)
 keywords: vblr6.chm1103516
 f1_keywords:
 - vblr6.chm1103516
-ms.prod: office
 ms.assetid: 4de2ad26-cb93-19b1-9f44-e6c1b5d619f3
 ms.date: 12/03/2018
 ms.localizationpriority: medium

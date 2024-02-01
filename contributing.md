@@ -1,6 +1,6 @@
 ---
 title: Contribute to VBA-docs
-ms.prod: office
+ms.service: office
 ms.date: 09/18/2021
 ms.localizationpriority: medium
 ---

@@ -3,7 +3,6 @@ title: Style property example
 keywords: fm20.chm5225123
 f1_keywords:
 - fm20.chm5225123
-ms.prod: office
 ms.assetid: ca09e7da-1b5f-f106-96c8-ec1a7b4ef2a0
 ms.date: 11/14/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: TypeName function (Visual Basic for Applications)
 keywords: vblr6.chm1010100
 f1_keywords:
 - vblr6.chm1010100
-ms.prod: office
 ms.assetid: 9353f1d5-5b64-9cad-5cc3-e1487bdd3afd
 ms.date: 12/13/2018
 ms.localizationpriority: medium

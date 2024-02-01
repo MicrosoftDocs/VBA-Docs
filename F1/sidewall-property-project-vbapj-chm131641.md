@@ -3,7 +3,7 @@ title: SideWall Property, Project [vbapj.chm131641]
 keywords: vbapj.chm131641
 f1_keywords:
 - vbapj.chm131641
-ms.prod: office
+ms.service: office
 ms.assetid: b078ccbd-0e1e-4bd1-bbb4-ed8c5e137671
 ms.date: 06/08/2017
 ms.localizationpriority: medium

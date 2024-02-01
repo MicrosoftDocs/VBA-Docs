@@ -3,7 +3,6 @@ title: SharedWorkspace.LastRefreshed property (Office)
 keywords: vbaof11.chm276013
 f1_keywords:
 - vbaof11.chm276013
-ms.prod: office
 api_name:
 - Office.SharedWorkspace.LastRefreshed
 ms.assetid: 426c53dd-3f3a-c638-2559-c02f62f374ff

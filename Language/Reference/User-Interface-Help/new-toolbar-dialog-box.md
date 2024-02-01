@@ -3,7 +3,6 @@ title: New Toolbar dialog box
 keywords: vbui6.chm1103853
 f1_keywords:
 - vbui6.chm1103853
-ms.prod: office
 ms.assetid: 3985cef6-85ff-b5fe-053c-43316911b88a
 ms.date: 11/27/2018
 ms.localizationpriority: medium

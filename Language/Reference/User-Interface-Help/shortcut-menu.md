@@ -3,7 +3,6 @@ title: Shortcut menu
 keywords: vbui6.chm2057558
 f1_keywords:
 - vbui6.chm2057558
-ms.prod: office
 ms.date: 11/24/2018
 ms.localizationpriority: medium
 ---

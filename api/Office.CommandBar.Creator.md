@@ -1,6 +1,5 @@
 ---
 title: CommandBar.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBar.Creator
 ms.assetid: 7de5e3d3-9a02-536f-1afb-58afe017cd44

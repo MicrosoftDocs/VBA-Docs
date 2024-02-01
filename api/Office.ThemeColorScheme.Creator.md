@@ -1,6 +1,5 @@
 ---
 title: ThemeColorScheme.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Creator
 ms.assetid: 1eefc62c-94c5-d74d-4b52-e522dc56975b

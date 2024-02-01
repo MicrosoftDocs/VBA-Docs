@@ -3,7 +3,6 @@ title: Permission denied (Error 70)
 keywords: vblr6.chm50029
 f1_keywords:
 - vblr6.chm50029
-ms.prod: office
 ms.assetid: b6822e40-c7e7-13e1-575e-632a99ad9926
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,6 +1,6 @@
 ---
 title: EffectParameters members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: 220226ed-74d2-b95f-1efc-48d09b9aaf86
 ms.date: 01/30/2019
 ms.localizationpriority: medium

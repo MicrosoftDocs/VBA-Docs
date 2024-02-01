@@ -3,7 +3,6 @@ title: Exists method (Visual Basic for Applications)
 keywords: vblr6.chm2181949
 f1_keywords:
 - vblr6.chm2181949
-ms.prod: office
 api_name:
 - Office.Exists
 ms.assetid: 2892065c-f892-5337-c789-e1e5b556768b

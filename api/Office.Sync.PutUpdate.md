@@ -3,7 +3,6 @@ title: Sync.PutUpdate method (Office)
 keywords: vbaof11.chm277008
 f1_keywords:
 - vbaof11.chm277008
-ms.prod: office
 api_name:
 - Office.Sync.PutUpdate
 ms.assetid: 2197cb71-e4d3-e89f-768b-7fd76f92a2d2

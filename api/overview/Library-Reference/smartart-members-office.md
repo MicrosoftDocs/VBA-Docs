@@ -1,7 +1,7 @@
 ---
 title: SmartArt members (Office)
 description: The top level class for interacting with a SmartArt graphic.
-ms.prod: office
+ms.service: office
 ms.assetid: 60a9e7bf-8948-2c30-f206-61e7c46c1928
 ms.date: 01/30/2019
 ms.localizationpriority: medium

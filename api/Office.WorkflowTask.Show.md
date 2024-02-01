@@ -3,7 +3,6 @@ title: WorkflowTask.Show method (Office)
 keywords: vbaof11.chm280010
 f1_keywords:
 - vbaof11.chm280010
-ms.prod: office
 api_name:
 - Office.WorkflowTask.Show
 ms.assetid: a7256356-c935-e9ce-e510-6798ebd5563f

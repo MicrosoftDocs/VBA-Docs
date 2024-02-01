@@ -3,7 +3,7 @@ title: DateOrder Property, Project [vbapj.chm131701]
 keywords: vbapj.chm131701
 f1_keywords:
 - vbapj.chm131701
-ms.prod: office
+ms.service: office
 ms.assetid: ceac6ca0-98fd-4ffd-a354-fa45fb46e383
 ms.date: 06/08/2017
 ms.localizationpriority: medium

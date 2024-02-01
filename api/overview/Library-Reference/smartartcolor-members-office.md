@@ -1,7 +1,7 @@
 ---
 title: SmartArtColor members (Office)
 description: Chooses the color scheme for the SmartArt diagram.
-ms.prod: office
+ms.service: office
 ms.assetid: b1a82f2e-ccd5-c98e-36a6-74642bc63e68
 ms.date: 01/30/2019
 ms.localizationpriority: medium

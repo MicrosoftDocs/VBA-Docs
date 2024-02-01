@@ -1,6 +1,5 @@
 ---
 title: DocumentInspector.Application property (Office)
-ms.prod: office
 api_name:
 - Office.DocumentInspector.Application
 ms.assetid: 7ad91b98-c139-6700-d8cb-d52581266296

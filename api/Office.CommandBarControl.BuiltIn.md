@@ -1,6 +1,5 @@
 ---
 title: CommandBarControl.BuiltIn property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarControl.BuiltIn
 ms.assetid: 4b3904dc-3376-28e0-6c93-4acff8101e6f

@@ -3,7 +3,6 @@ title: SendKeys statement (VBA)
 keywords: vblr6.chm1009015
 f1_keywords:
 - vblr6.chm1009015
-ms.prod: office
 ms.assetid: 8da3e83d-333a-444f-a660-917350fe2bc6
 ms.date: 12/03/2018
 ms.localizationpriority: medium

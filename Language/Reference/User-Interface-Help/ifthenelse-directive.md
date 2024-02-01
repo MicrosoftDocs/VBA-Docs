@@ -3,7 +3,6 @@ title: If...Then...Else directive
 keywords: vblr6.chm1014461
 f1_keywords:
 - vblr6.chm1014461
-ms.prod: office
 ms.assetid: cdda62a6-f9e4-237e-c8b7-a2076e16ff7d
 ms.date: 01/09/2019
 ms.localizationpriority: medium

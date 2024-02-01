@@ -1,6 +1,5 @@
 ---
 title: MsoShapeType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoShapeType
 ms.assetid: 21ab1915-9885-5837-02db-65e60b91322b

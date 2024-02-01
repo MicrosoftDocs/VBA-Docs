@@ -3,7 +3,6 @@ title: EncryptionProvider.Authenticate method (Office)
 keywords: vbaof11.chm327003
 f1_keywords:
 - vbaof11.chm327003
-ms.prod: office
 api_name:
 - Office.EncryptionProvider.Authenticate
 ms.assetid: cb0ecd48-2d37-389c-d041-947b4d9d752a

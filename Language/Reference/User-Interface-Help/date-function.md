@@ -3,7 +3,6 @@ title: Date function (Visual Basic for Applications)
 keywords: vblr6.chm1008886
 f1_keywords:
 - vblr6.chm1008886
-ms.prod: office
 ms.assetid: 8afd02c8-c5b5-f8f3-ff8e-9a2ac0ea94b9
 ms.date: 12/12/2018
 ms.localizationpriority: medium

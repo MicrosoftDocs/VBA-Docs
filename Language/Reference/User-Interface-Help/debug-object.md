@@ -3,7 +3,6 @@ title: Debug object
 keywords: vblr6.chm1008891
 f1_keywords:
 - vblr6.chm1008891
-ms.prod: office
 api_name:
 - Office.Debug
 ms.assetid: f95d394f-fbed-8d64-143d-a51368df158c

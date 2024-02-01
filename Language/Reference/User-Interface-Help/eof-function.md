@@ -3,7 +3,6 @@ title: EOF function (Visual Basic for Applications)
 keywords: vblr6.chm1008908
 f1_keywords:
 - vblr6.chm1008908
-ms.prod: office
 ms.assetid: 593d065e-635a-8e9f-9623-fc223eab1afa
 ms.date: 12/12/2018
 ms.localizationpriority: medium

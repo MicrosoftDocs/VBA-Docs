@@ -3,7 +3,6 @@ title: Menus and commands
 keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
-ms.prod: office
 ms.date: 11/26/2018
 ms.localizationpriority: medium
 ---

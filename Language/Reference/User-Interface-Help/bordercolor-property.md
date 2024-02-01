@@ -3,7 +3,6 @@ title: BorderColor property
 keywords: fm20.chm5225009
 f1_keywords:
 - fm20.chm5225009
-ms.prod: office
 api_name:
 - Office.BorderColor
 ms.assetid: f5718e93-55fa-e3c6-5359-c9ccc7c7a76c

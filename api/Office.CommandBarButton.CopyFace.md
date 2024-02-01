@@ -3,7 +3,6 @@ title: CommandBarButton.CopyFace method (Office)
 keywords: vbaof11.chm6002
 f1_keywords:
 - vbaof11.chm6002
-ms.prod: office
 api_name:
 - Office.CommandBarButton.CopyFace
 ms.assetid: 09f09dbd-b70f-8b7d-1af7-7e43bffe3030

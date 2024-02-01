@@ -3,7 +3,6 @@ title: Property Set statement (VBA)
 keywords: vblr6.chm1009539
 f1_keywords:
 - vblr6.chm1009539
-ms.prod: office
 ms.assetid: 462c3a14-bd67-eed7-9b5b-396283952b0b
 ms.date: 12/03/2018
 ms.localizationpriority: medium

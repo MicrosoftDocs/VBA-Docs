@@ -3,7 +3,6 @@ title: WorkflowTasks.Count property (Office)
 keywords: vbaof11.chm281002
 f1_keywords:
 - vbaof11.chm281002
-ms.prod: office
 api_name:
 - Office.WorkflowTasks.Count
 ms.assetid: 0c1dafe0-d89e-d7b4-1461-5c78db47cae9

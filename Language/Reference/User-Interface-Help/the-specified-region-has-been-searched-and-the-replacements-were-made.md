@@ -3,7 +3,6 @@ title: The specified region has been searched and the replacements were made
 keywords: vblr6.chm1057006
 f1_keywords:
 - vblr6.chm1057006
-ms.prod: office
 ms.assetid: 8ac62279-3e60-859d-af77-515cb3caeead
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: COMAddIn.Object property (Office)
 keywords: vbaof11.chm219007
 f1_keywords:
 - vbaof11.chm219007
-ms.prod: office
 api_name:
 - Office.COMAddIn.Object
 ms.assetid: 20dd8eca-6f8e-7445-ec0c-a29b29409c58

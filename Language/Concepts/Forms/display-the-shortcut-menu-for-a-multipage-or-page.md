@@ -3,7 +3,6 @@ title: Display the shortcut menu for a MultiPage or Page
 keywords: fm20.chm5225270
 f1_keywords:
 - fm20.chm5225270
-ms.prod: office
 ms.assetid: 05e59ba6-60f4-146b-bc7b-3158c7c5ca33
 ms.date: 12/29/2018
 ms.localizationpriority: medium

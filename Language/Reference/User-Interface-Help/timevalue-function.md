@@ -3,7 +3,6 @@ title: TimeValue function (Visual Basic for Applications)
 keywords: vblr6.chm1009045
 f1_keywords:
 - vblr6.chm1009045
-ms.prod: office
 ms.assetid: 02ce264a-aa6b-2249-da37-dee3522c2db7
 ms.date: 12/13/2018
 ms.localizationpriority: medium

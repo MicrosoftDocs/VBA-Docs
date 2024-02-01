@@ -3,7 +3,7 @@ title: ShowTableStyleLastColumn Property, Excel [vbaxl10.chm235172]
 keywords: vbaxl10.chm235172
 f1_keywords:
 - vbaxl10.chm235172
-ms.prod: office
+ms.service: office
 ms.assetid: f53ff601-8261-4ab9-bdd7-05761d00e701
 ms.date: 06/08/2017
 ms.localizationpriority: medium

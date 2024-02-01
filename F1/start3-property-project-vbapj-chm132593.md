@@ -3,7 +3,7 @@ title: Start3 Property, Project [vbapj.chm132593]
 keywords: vbapj.chm132593
 f1_keywords:
 - vbapj.chm132593
-ms.prod: office
+ms.service: office
 ms.assetid: dd3b27b6-a935-451e-b2cb-ae2e2a3bdfb2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

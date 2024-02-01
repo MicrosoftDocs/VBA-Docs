@@ -3,7 +3,6 @@ title: Array already dimensioned
 keywords: vblr6.chm1040055
 f1_keywords:
 - vblr6.chm1040055
-ms.prod: office
 ms.assetid: fcf3762f-3f3f-6182-a7c9-4f055991d2c1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: ListParagraphs Object, Word [vbawd10.chm2449]
 keywords: vbawd10.chm2449
 f1_keywords:
 - vbawd10.chm2449
-ms.prod: office
+ms.service: office
 ms.assetid: c3370034-82e9-4260-8fbd-73ae58047186
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Export method (VBA Add-In Object Model)
 keywords: vbob6.chm102194
 f1_keywords:
 - vbob6.chm102194
-ms.prod: office
 ms.assetid: 46cab37a-4390-219c-68f8-05cbb59c0450
 ms.date: 12/06/2018
 ms.localizationpriority: medium

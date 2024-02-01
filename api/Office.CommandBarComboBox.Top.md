@@ -1,6 +1,5 @@
 ---
 title: CommandBarComboBox.Top property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Top
 ms.assetid: f49930ca-9dba-9d9b-b7bb-93de87cdfcf8

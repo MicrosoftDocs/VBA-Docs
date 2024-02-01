@@ -3,7 +3,6 @@ title: Call Stack dialog box
 keywords: vbui6.chm181029
 f1_keywords:
 - vbui6.chm181029
-ms.prod: office
 ms.assetid: 304c94c2-4aea-d11d-892f-5cadd24aef8a
 ms.date: 11/26/2018
 ms.localizationpriority: medium

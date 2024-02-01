@@ -3,7 +3,7 @@ title: PressedTint Property, Access [vbaac10.chm14621]
 keywords: vbaac10.chm14621
 f1_keywords:
 - vbaac10.chm14621
-ms.prod: office
+ms.service: office
 ms.assetid: 88b6b0ef-be38-4dfc-9494-09fe7b0b5211
 ms.date: 06/08/2017
 ms.localizationpriority: medium

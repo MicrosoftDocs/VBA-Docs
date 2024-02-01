@@ -3,7 +3,6 @@ title: ListStyle, MultiSelect properties example
 keywords: fm20.chm5225142
 f1_keywords:
 - fm20.chm5225142
-ms.prod: office
 ms.assetid: 8a5ea21b-fadb-994c-6df8-e40e29094f42
 ms.date: 11/14/2018
 ms.localizationpriority: medium

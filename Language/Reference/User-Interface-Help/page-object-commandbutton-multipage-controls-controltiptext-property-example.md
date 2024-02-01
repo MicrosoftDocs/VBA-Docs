@@ -3,7 +3,6 @@ title: Page object, CommandButton, MultiPage controls, ControlTipText property e
 keywords: fm20.chm5225186
 f1_keywords:
 - fm20.chm5225186
-ms.prod: office
 ms.assetid: b7b8aac6-353c-1af9-de6b-e3de110c55ff
 ms.date: 11/14/2018
 ms.localizationpriority: medium

@@ -3,7 +3,7 @@ title: AllViews Property, Access [vbaac10.chm12734]
 keywords: vbaac10.chm12734
 f1_keywords:
 - vbaac10.chm12734
-ms.prod: office
+ms.service: office
 ms.assetid: 2bdff0e7-ef9c-4045-b975-68edae95b033
 ms.date: 06/08/2017
 ms.localizationpriority: medium

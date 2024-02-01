@@ -1,6 +1,5 @@
 ---
 title: PictureEffects.Application property (Office)
-ms.prod: office
 api_name:
 - Office.PictureEffects.Application
 ms.assetid: 3aa0b57d-2bf7-8d54-3b2e-e23bef0f20af

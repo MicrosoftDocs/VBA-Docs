@@ -3,7 +3,6 @@ title: SignatureSet.AddSignatureLine method (Office)
 keywords: vbaof11.chm247008
 f1_keywords:
 - vbaof11.chm247008
-ms.prod: office
 api_name:
 - Office.SignatureSet.AddSignatureLine
 ms.assetid: e887431f-8a01-99d7-6c9b-21aaf3d9198d

@@ -1,6 +1,5 @@
 ---
 title: ThemeFonts.Count property (Office)
-ms.prod: office
 api_name:
 - Office.ThemeFonts.Count
 ms.assetid: 5943cecd-8e4f-95e2-be07-dc79d7f5626d

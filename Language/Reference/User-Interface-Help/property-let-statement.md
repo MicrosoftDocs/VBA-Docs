@@ -3,7 +3,6 @@ title: Property Let statement (VBA)
 keywords: vblr6.chm1009540
 f1_keywords:
 - vblr6.chm1009540
-ms.prod: office
 ms.assetid: ecc8c277-ca44-add3-81c9-262219b1f7d6
 ms.date: 12/03/2018
 ms.localizationpriority: medium

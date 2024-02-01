@@ -1,6 +1,5 @@
 ---
 title: SensitivityLabelPolicy.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SensitivityLabelPolicy.Creator
 ms.assetid: 634d6a3f-595b-4b15-babe-95a391f729dd

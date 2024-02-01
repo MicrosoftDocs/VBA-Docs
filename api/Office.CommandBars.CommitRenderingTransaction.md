@@ -3,7 +3,6 @@ title: CommandBars.CommitRenderingTransaction method (Office)
 keywords: vbaof11.chm2026
 f1_keywords:
 - vbaof11.chm2026
-ms.prod: office
 api_name:
 - Office.CommandBars.CommitRenderingTransaction
 ms.assetid: a3174734-305b-03dc-2da1-3d25fd74185d

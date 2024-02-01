@@ -3,7 +3,7 @@ title: Parent Property, Access [vbaac10.chm11029]
 keywords: vbaac10.chm11029
 f1_keywords:
 - vbaac10.chm11029
-ms.prod: office
+ms.service: office
 ms.assetid: 1932b29c-eb1c-4665-9a8e-32a2c83a58cb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: FileDialog.ButtonName property (Office)
 keywords: vbaof11.chm256005
 f1_keywords:
 - vbaof11.chm256005
-ms.prod: office
 api_name:
 - Office.FileDialog.ButtonName
 ms.assetid: 9f9a4f26-bd96-6e8d-099d-df15ed5e585f

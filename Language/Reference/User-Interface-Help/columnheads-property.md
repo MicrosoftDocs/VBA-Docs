@@ -3,7 +3,6 @@ title: ColumnHeads property
 keywords: fm20.chm5225021
 f1_keywords:
 - fm20.chm5225021
-ms.prod: office
 api_name:
 - Office.ColumnHeads
 ms.assetid: 55cd26ad-8ef3-8e65-f655-315af620658d

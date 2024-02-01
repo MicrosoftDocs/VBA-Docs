@@ -1,6 +1,5 @@
 ---
 title: Properties (Visual Basic Add-In Model)
-ms.prod: office
 keywords: vbob6.chm100096
 f1_keywords:
 - vbob6.chm100096

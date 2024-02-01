@@ -3,7 +3,6 @@ title: ListRows property example
 keywords: fm20.chm5225140
 f1_keywords:
 - fm20.chm5225140
-ms.prod: office
 ms.assetid: 2161f9e6-a524-b804-79de-acefbeb12180
 ms.date: 11/14/2018
 ms.localizationpriority: medium

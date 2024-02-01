@@ -3,7 +3,6 @@ title: Editor toolbar
 keywords: vbui6.chm2057579
 f1_keywords:
 - vbui6.chm2057579
-ms.prod: office
 ms.assetid: 9ee48fbb-c090-89e2-e880-f859dd105e50
 ms.date: 11/26/2018
 ms.localizationpriority: medium

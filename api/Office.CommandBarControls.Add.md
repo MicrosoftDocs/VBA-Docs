@@ -3,7 +3,6 @@ title: CommandBarControls.Add method (Office)
 keywords: vbaof11.chm4001
 f1_keywords:
 - vbaof11.chm4001
-ms.prod: office
 api_name:
 - Office.CommandBarControls.Add
 ms.assetid: 53e2b0b9-b11a-bf52-a1a3-523aae2c35d8

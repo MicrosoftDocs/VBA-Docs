@@ -3,7 +3,6 @@ title: Align text in a control
 keywords: fm20.chm5225239
 f1_keywords:
 - fm20.chm5225239
-ms.prod: office
 ms.assetid: 0ed2c881-a76b-8242-b2ef-d8d87d7792bb
 ms.date: 12/29/2018
 ms.localizationpriority: medium

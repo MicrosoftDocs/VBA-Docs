@@ -3,7 +3,6 @@ title: OLE programmatic identifiers (Office)
 keywords: vbaof11.chm5221270
 f1_keywords:
 - vbaof11.chm5221270
-ms.prod: office
 ms.assetid: e27f70fd-9e04-a8d0-d4e8-d57076ecf9b3
 ms.date: 01/02/2019
 ms.localizationpriority: medium

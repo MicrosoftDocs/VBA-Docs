@@ -3,7 +3,6 @@ title: Permission.Parent property (Office)
 keywords: vbaof11.chm261006
 f1_keywords:
 - vbaof11.chm261006
-ms.prod: office
 api_name:
 - Office.Permission.Parent
 ms.assetid: 417def02-2281-a53c-61ee-5b157fa53e90

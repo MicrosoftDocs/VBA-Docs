@@ -3,7 +3,6 @@ title: Window menu
 keywords: vbui6.chm2051180
 f1_keywords:
 - vbui6.chm2051180
-ms.prod: office
 ms.assetid: 0073c9ac-58cc-a4b4-588c-ff53b9ce6efc
 ms.date: 11/24/2018
 ms.localizationpriority: medium

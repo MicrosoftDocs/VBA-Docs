@@ -1,6 +1,5 @@
 ---
 title: MsoLightRigType enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoLightRigType
 ms.assetid: 54a42ee8-a029-0580-eddc-adc305f34d0d

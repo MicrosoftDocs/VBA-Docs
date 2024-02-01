@@ -3,7 +3,6 @@ title: NPer function (Visual Basic for Applications)
 keywords: vblr6.chm1009446
 f1_keywords:
 - vblr6.chm1009446
-ms.prod: office
 ms.assetid: c4043308-390e-f8bd-800b-ca00e99214d1
 ms.date: 12/13/2018
 ms.localizationpriority: medium

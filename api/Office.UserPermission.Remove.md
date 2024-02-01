@@ -3,7 +3,6 @@ title: UserPermission.Remove method (Office)
 keywords: vbaof11.chm260005
 f1_keywords:
 - vbaof11.chm260005
-ms.prod: office
 api_name:
 - Office.UserPermission.Remove
 ms.assetid: d4c8778f-dc1b-7d5b-6a7a-65b91909bfe3

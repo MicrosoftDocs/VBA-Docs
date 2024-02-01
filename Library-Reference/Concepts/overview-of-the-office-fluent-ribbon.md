@@ -1,6 +1,5 @@
 ---
 title: Overview of the Office Fluent ribbon
-ms.prod: office
 ms.assetid: 773c202c-f5f9-c4f6-f833-0dd56eb21a8f
 ms.date: 02/07/2022
 ms.localizationpriority: medium

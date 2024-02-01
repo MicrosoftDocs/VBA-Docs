@@ -1,6 +1,5 @@
 ---
 title: COMAddIn.Application property (Office)
-ms.prod: office
 api_name:
 - Office.COMAddIn.Application
 ms.assetid: 7566c80d-a63b-2ea0-7a53-21c532039172

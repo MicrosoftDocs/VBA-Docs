@@ -3,7 +3,7 @@ title: Finish8 Property, Project [vbapj.chm132226]
 keywords: vbapj.chm132226
 f1_keywords:
 - vbapj.chm132226
-ms.prod: office
+ms.service: office
 ms.assetid: a34d519a-dd7c-4550-ad44-a6141381d9bb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTo
 keywords: fm20.chm5225172
 f1_keywords:
 - fm20.chm5225172
-ms.prod: office
 ms.assetid: 26dd7b87-09f1-6f80-0966-913bc39635bd
 ms.date: 11/14/2018
 ms.localizationpriority: medium

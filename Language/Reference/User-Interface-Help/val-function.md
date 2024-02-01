@@ -3,7 +3,6 @@ title: Val function (Visual Basic for Applications)
 keywords: vblr6.chm1009055
 f1_keywords:
 - vblr6.chm1009055
-ms.prod: office
 ms.assetid: 49909fd8-07bf-3b94-4c6c-85ad595d6fcb
 ms.date: 12/12/2018
 ms.localizationpriority: medium

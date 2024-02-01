@@ -3,7 +3,6 @@ title: Data type summary
 keywords: vblr6.chm1008885
 f1_keywords:
 - vblr6.chm1008885
-ms.prod: office
 ms.assetid: 24723bdf-8454-f661-7914-d731e74d2e7b
 ms.date: 11/19/2018 
 ms.localizationpriority: high

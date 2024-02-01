@@ -3,7 +3,6 @@ title: SharedWorkspaceMember.Name property (Office)
 keywords: vbaof11.chm272002
 f1_keywords:
 - vbaof11.chm272002
-ms.prod: office
 api_name:
 - Office.SharedWorkspaceMember.Name
 ms.assetid: 6a7918a0-6029-4fe1-6c55-d100a360eddc

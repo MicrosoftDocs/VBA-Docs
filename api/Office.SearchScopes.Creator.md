@@ -1,6 +1,5 @@
 ---
 title: SearchScopes.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SearchScopes.Creator
 ms.assetid: 9750ca39-de4f-8326-f937-4417de783c01

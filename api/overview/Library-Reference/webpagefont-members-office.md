@@ -1,7 +1,7 @@
 ---
 title: WebPageFont members (Office)
 description: Represents the default font used when documents are saved as webpages for a particular character set.
-ms.prod: office
+ms.service: office
 ms.assetid: 82843862-c4b8-db92-d9a7-da36908a0b5e
 ms.date: 01/30/2019
 ms.localizationpriority: medium

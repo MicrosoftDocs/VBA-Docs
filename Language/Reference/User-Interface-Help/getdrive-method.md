@@ -3,7 +3,6 @@ title: GetDrive method (Visual Basic for Applications)
 keywords: vblr6.chm2182048
 f1_keywords:
 - vblr6.chm2182048
-ms.prod: office
 api_name:
 - Office.GetDrive
 ms.assetid: bd11dc26-b806-864c-b30b-6c74b7701901

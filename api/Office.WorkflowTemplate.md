@@ -3,7 +3,6 @@ title: WorkflowTemplate object (Office)
 keywords: vbaof11.chm282000
 f1_keywords:
 - vbaof11.chm282000
-ms.prod: office
 api_name:
 - Office.WorkflowTemplate
 ms.assetid: 965d0474-dd51-9b0e-b34c-a11f921ff410

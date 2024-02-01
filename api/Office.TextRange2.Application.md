@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Application property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Application
 ms.assetid: 3883561f-229b-92f9-eaea-83f00ac33f06

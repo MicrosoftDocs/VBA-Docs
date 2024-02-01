@@ -3,7 +3,6 @@ title: CommandBars.ActiveMenuBar property (Office)
 keywords: vbaof11.chm2002
 f1_keywords:
 - vbaof11.chm2002
-ms.prod: office
 api_name:
 - Office.CommandBars.ActiveMenuBar
 ms.assetid: 8f341f53-418c-6d05-ac0b-e45a6b2baa0d

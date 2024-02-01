@@ -3,7 +3,6 @@ title: QueryClose constants
 keywords: vblr6.chm1106127
 f1_keywords:
 - vblr6.chm1106127
-ms.prod: office
 ms.assetid: 0e7ca25d-316c-53bb-4213-1b0c8d529de4
 ms.date: 12/11/2018
 ms.localizationpriority: medium

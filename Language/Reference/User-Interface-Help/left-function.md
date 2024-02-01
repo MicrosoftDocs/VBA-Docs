@@ -3,7 +3,6 @@ title: Left function (Visual Basic for Applications)
 keywords: vblr6.chm1011361
 f1_keywords:
 - vblr6.chm1011361
-ms.prod: office
 ms.assetid: 2835aa57-6273-8f72-4ee8-ec19df26c5d9
 ms.date: 12/13/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.PathFormat property (Office)
-ms.prod: office
 api_name:
 - Office.TextFrame2.PathFormat
 ms.assetid: 66148447-5bb8-5e15-0959-e2282fb4bd00

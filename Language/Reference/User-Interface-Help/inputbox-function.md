@@ -3,7 +3,6 @@ title: InputBox function (Visual Basic for Applications)
 keywords: vblr6.chm1008945
 f1_keywords:
 - vblr6.chm1008945
-ms.prod: office
 ms.assetid: 701fb7bb-3663-93ae-df74-a2fd401215f6
 ms.date: 12/13/2018
 ms.localizationpriority: medium

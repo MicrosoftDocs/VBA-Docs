@@ -1,6 +1,5 @@
 ---
 title: CustomXMLNodes.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.CustomXMLNodes.Creator
 ms.assetid: ceb5f69f-3785-ea7f-df04-05ac19140b6b

@@ -3,7 +3,6 @@ title: CommandBars.LargeButtons property (Office)
 keywords: vbaof11.chm2009
 f1_keywords:
 - vbaof11.chm2009
-ms.prod: office
 api_name:
 - Office.CommandBars.LargeButtons
 ms.assetid: bcacab92-9779-5061-f68a-69722210e14e

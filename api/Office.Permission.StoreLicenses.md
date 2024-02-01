@@ -3,7 +3,6 @@ title: Permission.StoreLicenses property (Office)
 keywords: vbaof11.chm261012
 f1_keywords:
 - vbaof11.chm261012
-ms.prod: office
 api_name:
 - Office.Permission.StoreLicenses
 ms.assetid: c08e088c-8cdf-baa0-56e4-3d4d6f3caab8

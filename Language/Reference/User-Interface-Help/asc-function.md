@@ -3,7 +3,6 @@ title: Asc function (Visual Basic for Applications)
 keywords: vblr6.chm1009247
 f1_keywords:
 - vblr6.chm1009247
-ms.prod: office
 ms.assetid: 4c5775f4-792f-f9d0-6eff-41d6fff9048c
 ms.date: 12/11/2018
 ms.localizationpriority: medium

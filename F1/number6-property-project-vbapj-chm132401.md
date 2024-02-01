@@ -3,7 +3,7 @@ title: Number6 Property, Project [vbapj.chm132401]
 keywords: vbapj.chm132401
 f1_keywords:
 - vbapj.chm132401
-ms.prod: office
+ms.service: office
 ms.assetid: 4f85ddab-4920-41ac-8e11-fceb59fec62b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

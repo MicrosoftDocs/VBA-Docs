@@ -3,7 +3,6 @@ title: EncryptionProvider.GetProviderDetail method (Office)
 keywords: vbaof11.chm327001
 f1_keywords:
 - vbaof11.chm327001
-ms.prod: office
 api_name:
 - Office.EncryptionProvider.GetProviderDetail
 ms.assetid: d6bd91dc-ed35-bc75-9849-8caf989608d8

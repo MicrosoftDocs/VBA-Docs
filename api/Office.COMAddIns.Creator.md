@@ -1,6 +1,5 @@
 ---
 title: COMAddIns.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.COMAddIns.Creator
 ms.assetid: dedee4b9-f340-d8fa-2285-3f32a1c4f00a

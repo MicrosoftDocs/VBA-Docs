@@ -1,6 +1,5 @@
 ---
 title: TabStop2.Clear method (Office)
-ms.prod: office
 api_name:
 - Office.TabStop2.Clear
 ms.assetid: 18087f5f-5886-d349-b002-6830739ff883

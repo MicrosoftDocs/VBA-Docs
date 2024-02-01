@@ -3,7 +3,6 @@ title: Calendar constants
 keywords: vblr6.chm1113365
 f1_keywords:
 - vblr6.chm1113365
-ms.prod: office
 ms.assetid: 992ce86c-d7ab-0111-bcb3-4115c3d99646
 ms.date: 12/11/2018
 ms.localizationpriority: medium

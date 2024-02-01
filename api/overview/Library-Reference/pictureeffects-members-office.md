@@ -1,6 +1,6 @@
 ---
 title: PictureEffects members (Office)
-ms.prod: office
+ms.service: office
 ms.assetid: fe7a9f46-f5fa-8ab9-5fb6-c88d283e4663
 ms.date: 01/30/2019
 ms.localizationpriority: medium

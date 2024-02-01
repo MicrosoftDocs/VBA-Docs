@@ -1,6 +1,5 @@
 ---
 title: Visual Basic how-to topics
-ms.prod: office
 ms.assetid: ca0cc8c7-69eb-45a3-aefc-5df69d64cd22
 ms.date: 08/14/2019
 ms.localizationpriority: medium

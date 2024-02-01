@@ -3,7 +3,6 @@ title: Remove method (Dictionary object)
 keywords: vblr6.chm2181952
 f1_keywords:
 - vblr6.chm2181952
-ms.prod: office
 ms.assetid: dc895fae-17aa-4c51-4a35-8c3d3fd0e6fc
 ms.date: 04/18/2019
 ms.localizationpriority: medium

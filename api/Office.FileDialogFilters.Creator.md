@@ -1,6 +1,5 @@
 ---
 title: FileDialogFilters.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.FileDialogFilters.Creator
 ms.assetid: 07ff91ce-25e2-530b-9e6a-04bf6a3de0c0

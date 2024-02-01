@@ -3,7 +3,6 @@ title: Font object, Bold, Italic, Size, StrikeThrough, Underline, Weight propert
 keywords: fm20.chm5225182
 f1_keywords:
 - fm20.chm5225182
-ms.prod: office
 ms.assetid: b7fc7c3e-b7ef-9ff3-1dde-06792abf4c51
 ms.date: 11/14/2018
 ms.localizationpriority: medium

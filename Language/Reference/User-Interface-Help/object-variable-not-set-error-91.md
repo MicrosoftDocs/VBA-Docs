@@ -3,7 +3,6 @@ title: Object variable not set (Error 91)
 keywords: vblr6.chm1000091
 f1_keywords:
 - vblr6.chm1000091
-ms.prod: office
 ms.assetid: db8be8b0-9437-d53e-18b9-1d646b40ea66
 ms.date: 08/14/2019
 ms.localizationpriority: medium

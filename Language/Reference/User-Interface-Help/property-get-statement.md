@@ -3,7 +3,6 @@ title: Property Get statement (VBA)
 keywords: vblr6.chm1009538
 f1_keywords:
 - vblr6.chm1009538
-ms.prod: office
 ms.assetid: 39d1fb20-653e-a174-7a98-e2b33f260d39
 ms.date: 12/03/2018
 ms.localizationpriority: medium

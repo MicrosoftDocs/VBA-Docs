@@ -1,6 +1,5 @@
 ---
 title: Constants (Visual Basic for Applications)
-ms.prod: office
 keywords: vblr6.chm1011027
 f1_keywords:
 - vblr6.chm1011027

@@ -1,7 +1,7 @@
 ---
 title: SignatureSet members (Office)
 description: A collection of Signature objects that correspond to the digital signature attached to a document.
-ms.prod: office
+ms.service: office
 ms.assetid: abe810a3-ffe4-ee26-8df7-d68cfbf3bf1e
 ms.date: 01/30/2019
 ms.localizationpriority: medium

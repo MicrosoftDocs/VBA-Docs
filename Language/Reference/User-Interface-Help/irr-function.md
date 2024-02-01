@@ -3,7 +3,6 @@ title: IRR function (Visual Basic for Applications)
 keywords: vblr6.chm1009282
 f1_keywords:
 - vblr6.chm1009282
-ms.prod: office
 ms.assetid: 4bb0cec8-6e11-9afd-d4f8-2cda2e9d103a
 ms.date: 12/13/2018
 ms.localizationpriority: medium

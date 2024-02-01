@@ -3,7 +3,6 @@ title: Text property (Microsoft Forms)
 keywords: fm20.chm2002070
 f1_keywords:
 - fm20.chm2002070
-ms.prod: office
 ms.assetid: 493a251a-3e7b-3a4b-a800-4e9b94d19b4f
 ms.date: 11/16/2018
 ms.localizationpriority: medium

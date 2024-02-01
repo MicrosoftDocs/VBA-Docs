@@ -3,7 +3,6 @@ title: Sync.ResolveConflict method (Office)
 keywords: vbaof11.chm277010
 f1_keywords:
 - vbaof11.chm277010
-ms.prod: office
 api_name:
 - Office.Sync.ResolveConflict
 ms.assetid: d127ccab-644c-a2e3-68d1-57138ca200df

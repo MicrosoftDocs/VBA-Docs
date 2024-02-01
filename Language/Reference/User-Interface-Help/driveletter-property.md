@@ -3,7 +3,6 @@ title: DriveLetter property (Visual Basic for Applications)
 keywords: vblr6.chm2181955
 f1_keywords:
 - vblr6.chm2181955
-ms.prod: office
 api_name:
 - Office.DriveLetter
 ms.assetid: 29bf179a-8bf7-56de-3cf5-53fd0d2151e0

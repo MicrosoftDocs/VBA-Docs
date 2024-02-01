@@ -3,7 +3,7 @@ title: FilterOnLoad Property, Access [vbaac10.chm5622]
 keywords: vbaac10.chm5622
 f1_keywords:
 - vbaac10.chm5622
-ms.prod: office
+ms.service: office
 ms.assetid: 07c650af-21b4-4022-a58f-7cb894b54471
 ms.date: 06/08/2017
 ms.localizationpriority: medium

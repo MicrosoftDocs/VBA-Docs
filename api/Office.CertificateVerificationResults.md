@@ -1,6 +1,5 @@
 ---
 title: CertificateVerificationResults enumeration (Office)
-ms.prod: office
 api_name:
 - Office.CertificateVerificationResults
 ms.assetid: e6d4708a-ff3d-805b-d5da-455283eb297a

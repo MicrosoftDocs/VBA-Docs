@@ -1,6 +1,5 @@
 ---
 title: IDocumentInspector.GetInfo method (Office)
-ms.prod: office
 api_name:
 - Office.IDocumentInspector.GetInfo
 ms.assetid: 7242cce4-1b36-107f-ec7c-2512b2e1fba7

@@ -3,7 +3,6 @@ title: Ampersand (&) operator
 keywords: vblr6.chm1008852
 f1_keywords:
 - vblr6.chm1008852
-ms.prod: office
 ms.assetid: 9abc8a5d-0f53-bbbf-a4b5-7f034609923d
 ms.date: 11/19/2018
 ms.localizationpriority: medium

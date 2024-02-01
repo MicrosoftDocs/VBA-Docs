@@ -3,7 +3,6 @@ title: Enum statement (VBA)
 keywords: vblr6.chm1103514
 f1_keywords:
 - vblr6.chm1103514
-ms.prod: office
 ms.assetid: 22dbc78e-5ce7-f6ea-21dd-67d5db0d64d8
 ms.date: 12/03/2018
 ms.localizationpriority: medium

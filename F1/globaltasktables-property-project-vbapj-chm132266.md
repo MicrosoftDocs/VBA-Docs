@@ -3,7 +3,7 @@ title: GlobalTaskTables Property, Project [vbapj.chm132266]
 keywords: vbapj.chm132266
 f1_keywords:
 - vbapj.chm132266
-ms.prod: office
+ms.service: office
 ms.assetid: 6b7c594f-57b7-490e-8287-fb61efc2137c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

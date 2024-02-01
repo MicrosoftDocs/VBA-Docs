@@ -1,7 +1,7 @@
 ---
 title: ThemeFontScheme members (Office)
 description: Represents the font scheme of a Microsoft Office theme.
-ms.prod: office
+ms.service: office
 ms.assetid: 47a1e519-0bf8-363b-3270-6080580da137
 ms.date: 01/30/2019
 ms.localizationpriority: medium

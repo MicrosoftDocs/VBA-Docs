@@ -1,6 +1,5 @@
 ---
 title: GlowFormat.Application property (Office)
-ms.prod: office
 api_name:
 - Office.GlowFormat.Application
 ms.assetid: 561823d4-9b41-b9ca-71f4-ccb2a12e3ce9

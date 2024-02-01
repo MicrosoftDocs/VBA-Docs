@@ -3,7 +3,6 @@ title: Drives property (Visual Basic for Applications)
 keywords: vblr6.chm2182030
 f1_keywords:
 - vblr6.chm2182030
-ms.prod: office
 api_name:
 - Office.Drives
 ms.assetid: 23534228-121c-23df-6ea6-c4715f86e312

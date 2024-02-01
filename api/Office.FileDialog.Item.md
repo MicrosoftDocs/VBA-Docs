@@ -3,7 +3,6 @@ title: FileDialog.Item property (Office)
 keywords: vbaof11.chm256011
 f1_keywords:
 - vbaof11.chm256011
-ms.prod: office
 api_name:
 - Office.FileDialog.Item
 ms.assetid: e29dab4e-4226-32bf-f4c2-3afaeb0e3616

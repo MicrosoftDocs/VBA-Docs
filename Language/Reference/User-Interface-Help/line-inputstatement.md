@@ -3,7 +3,6 @@ title: Line Input statement (VBA)
 keywords: vblr6.chm1008962
 f1_keywords:
 - vblr6.chm1008962
-ms.prod: office
 ms.assetid: 30cfc57e-0d28-b53e-c5cd-0ed99957e25d
 ms.date: 12/03/2018
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: TextColumn2 object (Office)
-ms.prod: office
 api_name:
 - Office.TextColumn2
 ms.assetid: 631387c1-2b7a-6c98-d05f-c054434c8b9d

@@ -3,7 +3,6 @@ title: Code window navigation keys
 keywords: vbui6.chm1075334
 f1_keywords:
 - vbui6.chm1075334
-ms.prod: office
 ms.assetid: 71da4560-a359-a8ee-9258-7a022abdf589
 ms.date: 11/21/2018
 ms.localizationpriority: medium

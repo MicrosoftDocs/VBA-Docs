@@ -1,6 +1,5 @@
 ---
 title: SmartArtQuickStyle object (Office)
-ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle
 ms.assetid: e128920b-7adc-71e2-928b-84285f24d574

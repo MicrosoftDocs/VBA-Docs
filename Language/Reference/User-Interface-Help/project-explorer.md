@@ -3,7 +3,6 @@ title: Project Explorer
 keywords: vbui6.chm2016032
 f1_keywords:
 - vbui6.chm2016032
-ms.prod: office
 ms.assetid: 318bb305-6d3e-36c6-f6f7-c96d70242279
 ms.date: 11/26/2018
 ms.localizationpriority: medium

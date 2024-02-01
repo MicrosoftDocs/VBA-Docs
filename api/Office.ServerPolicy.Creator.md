@@ -1,6 +1,5 @@
 ---
 title: ServerPolicy.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.ServerPolicy.Creator
 ms.assetid: 4acaac16-3611-ae19-9c6c-347ee67f6488

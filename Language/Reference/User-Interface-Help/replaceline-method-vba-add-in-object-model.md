@@ -3,7 +3,6 @@ title: ReplaceLine method (VBA Add-In Object Model)
 keywords: vbob6.chm1098990
 f1_keywords:
 - vbob6.chm1098990
-ms.prod: office
 ms.assetid: ac215802-f730-05d8-c4fb-7f70544d1576
 ms.date: 12/06/2018
 ms.localizationpriority: medium

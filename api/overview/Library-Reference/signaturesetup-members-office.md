@@ -1,7 +1,7 @@
 ---
 title: SignatureSetup members (Office)
 description: Represents the information used to set up a signature packet.
-ms.prod: office
+ms.service: office
 ms.assetid: 30bec290-276c-6a64-ca46-dc9dd145e3dd
 ms.date: 01/30/2019
 ms.localizationpriority: medium

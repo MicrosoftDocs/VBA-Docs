@@ -3,7 +3,6 @@ title: Using With statements (VBA)
 keywords: vbcn6.chm1076687
 f1_keywords:
 - vbcn6.chm1076687
-ms.prod: office
 ms.assetid: ae7f6296-f151-1a1d-a273-a4b80b18b367
 ms.date: 12/26/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Undo and Redo in Microsoft Forms
 keywords: fm20.chm5225275
 f1_keywords:
 - fm20.chm5225275
-ms.prod: office
 ms.assetid: 197ef09a-520c-6d0b-c54e-3e5134fbce56
 ms.date: 12/29/2018
 ms.localizationpriority: medium

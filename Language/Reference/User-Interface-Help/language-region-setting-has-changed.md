@@ -3,7 +3,6 @@ title: Language/region setting has changed
 keywords: vblr6.chm1040199
 f1_keywords:
 - vblr6.chm1040199
-ms.prod: office
 ms.assetid: 0a89b54a-6829-a104-bf3e-1841c204c1dd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

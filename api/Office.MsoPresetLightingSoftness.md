@@ -1,6 +1,5 @@
 ---
 title: MsoPresetLightingSoftness enumeration (Office)
-ms.prod: office
 api_name:
 - Office.MsoPresetLightingSoftness
 ms.assetid: da5b4779-fca6-59cd-4cfe-599c3033c5d0

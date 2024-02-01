@@ -1,6 +1,5 @@
 ---
 title: SearchFolders.Creator property (Office)
-ms.prod: office
 api_name:
 - Office.SearchFolders.Creator
 ms.assetid: 3c1866a1-7ced-b731-0f8e-4afff6d0e071

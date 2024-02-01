@@ -1,6 +1,5 @@
 ---
 title: EffectParameters.Application property (Office)
-ms.prod: office
 api_name:
 - Office.EffectParameters.Application
 ms.assetid: ed37618a-e40d-6e0a-27c5-9d306725f06a

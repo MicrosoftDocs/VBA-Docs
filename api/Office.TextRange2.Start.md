@@ -1,6 +1,5 @@
 ---
 title: TextRange2.Start property (Office)
-ms.prod: office
 api_name:
 - Office.TextRange2.Start
 ms.assetid: 53f7731d-2e98-28c7-981e-64b2e6616636

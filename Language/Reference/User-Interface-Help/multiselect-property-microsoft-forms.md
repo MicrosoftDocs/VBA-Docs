@@ -3,7 +3,6 @@ title: MultiSelect property (Microsoft Forms)
 keywords: fm20.chm5225069
 f1_keywords:
 - fm20.chm5225069
-ms.prod: office
 ms.assetid: 4c8102d4-abbb-a7f7-8dd3-0a0695752fa8
 ms.date: 11/16/2018
 ms.localizationpriority: medium

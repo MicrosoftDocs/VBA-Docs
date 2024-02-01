@@ -3,7 +3,7 @@ title: Resources Property, Project [vbapj.chm132537]
 keywords: vbapj.chm132537
 f1_keywords:
 - vbapj.chm132537
-ms.prod: office
+ms.service: office
 ms.assetid: 39182f06-dfc4-454e-b49e-d9e000481288
 ms.date: 06/08/2017
 ms.localizationpriority: medium

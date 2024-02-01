@@ -3,7 +3,6 @@ title: Customize Control dialog box
 keywords: vbui6.chm1086173
 f1_keywords:
 - vbui6.chm1086173
-ms.prod: office
 ms.assetid: 679a0121-f3a3-976e-a534-2cbf66ae2c80
 ms.date: 11/26/2018
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Item method (Visual Basic for Applications)
 keywords: vblr6.chm1014019
 f1_keywords:
 - vblr6.chm1014019
-ms.prod: office
 ms.assetid: 6850a534-f6cc-e4be-3fc9-4975d1cff775
 ms.date: 12/14/2018
 ms.localizationpriority: medium

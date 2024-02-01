@@ -3,7 +3,7 @@ title: FilterLookup Property, Access [vbaac10.chm11062]
 keywords: vbaac10.chm11062
 f1_keywords:
 - vbaac10.chm11062
-ms.prod: office
+ms.service: office
 ms.assetid: e997b141-1311-45bd-826c-07a60f30ab07
 ms.date: 06/08/2017
 ms.localizationpriority: medium

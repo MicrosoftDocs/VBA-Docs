@@ -3,7 +3,6 @@ title: ICTPFactory.CreateCTP method (Office)
 keywords: vbaof11.chm304001
 f1_keywords:
 - vbaof11.chm304001
-ms.prod: office
 api_name:
 - Office.ICTPFactory.CreateCTP
 ms.assetid: 17be1aa2-5045-2c89-151b-6f00d1bae6c1

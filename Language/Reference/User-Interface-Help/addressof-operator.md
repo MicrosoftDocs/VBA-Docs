@@ -3,7 +3,6 @@ title: AddressOf operator
 keywords: vblr6.chm1103681
 f1_keywords:
 - vblr6.chm1103681
-ms.prod: office
 ms.assetid: 2c966af2-ad6d-5eab-9202-0a2b7780baf4
 ms.date: 11/19/2018
 ms.localizationpriority: medium

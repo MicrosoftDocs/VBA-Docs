@@ -3,7 +3,6 @@ title: Check or add an object library reference (VBA)
 keywords: vbhw6.chm1107739
 f1_keywords:
 - vbhw6.chm1107739
-ms.prod: office
 ms.assetid: a04227a8-80e0-2eb3-52bb-f992d8bb5e68
 ms.date: 12/27/2018
 ms.localizationpriority: high

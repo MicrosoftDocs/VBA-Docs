@@ -1,6 +1,5 @@
 ---
 title: ParagraphFormat2.RightIndent property (Office)
-ms.prod: office
 api_name:
 - Office.ParagraphFormat2.RightIndent
 ms.assetid: 7d5f3301-ab4e-5c68-c37b-8cd51d9715e5

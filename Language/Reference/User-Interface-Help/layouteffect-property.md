@@ -3,7 +3,6 @@ title: LayoutEffect property
 keywords: fm20.chm5225050
 f1_keywords:
 - fm20.chm5225050
-ms.prod: office
 api_name:
 - Office.LayoutEffect
 ms.assetid: 74e19b13-605c-caa8-4a12-e877d638d316

@@ -3,7 +3,6 @@ title: Cycle property example
 keywords: fm20.chm5225193
 f1_keywords:
 - fm20.chm5225193
-ms.prod: office
 ms.assetid: cf7a4e93-842e-5def-d7f7-214b6b37c180
 ms.date: 11/14/2018
 ms.localizationpriority: medium

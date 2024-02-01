@@ -1,6 +1,5 @@
 ---
 title: Examples (Microsoft Forms)
-ms.prod: office
 ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
 ms.date: 09/17/2018
 ms.localizationpriority: medium

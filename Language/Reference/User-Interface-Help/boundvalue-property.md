@@ -3,7 +3,6 @@ title: BoundValue property
 keywords: fm20.chm5225012
 f1_keywords:
 - fm20.chm5225012
-ms.prod: office
 api_name:
 - Office.BoundValue
 ms.assetid: a064f85f-981c-f710-393c-05f14c00249d

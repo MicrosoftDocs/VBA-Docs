@@ -1,6 +1,5 @@
 ---
 title: CommandBarPopup.Id property (Office)
-ms.prod: office
 api_name:
 - Office.CommandBarPopup.Id
 ms.assetid: 7bddc643-ec4f-7fa5-d5e4-a4677cf564fa

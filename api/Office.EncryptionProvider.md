@@ -3,7 +3,6 @@ title: EncryptionProvider object (Office)
 keywords: vbaof11.chm327000
 f1_keywords:
 - vbaof11.chm327000
-ms.prod: office
 api_name:
 - Office.EncryptionProvider
 ms.assetid: 9f5cc550-6bcb-2748-14a7-696cf8ef021b
