@@ -70,7 +70,7 @@ The preceding guidelines also apply when you are setting properties of shapes th
 
 ## Looping through a Shapes or ShapeRange collection
 
-Even if you cannot perform an operation on several shapes in the user interface at the same time by selecting them and then using a command, you can perform the equivalent action programmatically by looping through the **Shapes** collection or through a **ShapeRange** collection that contains the shapes you want to work with, and applying the appropriate properties and methods to the individual **Shape** objects in the collection. The following example loops through all the shapes on `myDocument` and adds text to each shape that is an AutoShape. and adds text to each shape that is an AutoShape. 
+Even if you cannot perform an operation on several shapes in the user interface at the same time by selecting them and then using a command, you can perform the equivalent action programmatically by looping through the **Shapes** collection or through a **ShapeRange** collection that contains the shapes you want to work with, and applying the appropriate properties and methods to the individual **Shape** objects in the collection. The following example loops through all the shapes on `myDocument` and adds text to each shape that is an AutoShape. 
 ```vb
 Set myDocument = ActivePresentation.Slides(1) 
 For Each sh In myDocument.Shapes 
