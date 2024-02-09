@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Shape.OneD property (Visio)
 
-Determines whether an object behaves as a one-dimensional (1D) object. Read-only.
+Determines whether an object behaves as a one-dimensional (1D) object. Read/write.
 
 
 ## Syntax
