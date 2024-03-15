@@ -3,7 +3,6 @@ title: JournalItem.Actions property (Outlook)
 keywords: vbaol11.chm1231
 f1_keywords:
 - vbaol11.chm1231
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Actions
 ms.assetid: 65e4bad4-dd89-3190-1444-ec772549b7e6

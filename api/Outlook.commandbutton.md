@@ -3,7 +3,6 @@ title: CommandButton object (Outlook Forms Script)
 keywords: olfm10.chm2000490
 f1_keywords:
 - olfm10.chm2000490
-ms.prod: outlook
 ms.assetid: bb2bcfaa-e7a5-cedc-2ed7-bcc17a4d8fb6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

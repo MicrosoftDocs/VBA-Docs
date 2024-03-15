@@ -3,7 +3,6 @@ title: SimpleItems.Item method (Outlook)
 keywords: vbaol11.chm3398
 f1_keywords:
 - vbaol11.chm3398
-ms.prod: outlook
 api_name:
 - Outlook.SimpleItems.Item
 ms.assetid: 0b56d8a7-2bf5-a2e2-a269-b2d7377d2901

@@ -3,7 +3,6 @@ title: MeetingItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3472
 f1_keywords:
 - vbaol11.chm3472
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ConversationID
 ms.assetid: 67a28933-1f89-8f1d-9217-bacd61aa85b9

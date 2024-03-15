@@ -3,7 +3,6 @@ title: TaskRequestAcceptItem.Copy method (Outlook)
 keywords: vbaol11.chm1801
 f1_keywords:
 - vbaol11.chm1801
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Copy
 ms.assetid: 1d8c86a1-8b80-46f4-52f6-9118c0b9cb41

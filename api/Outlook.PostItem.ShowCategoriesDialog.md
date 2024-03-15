@@ -3,7 +3,6 @@ title: PostItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm1560
 f1_keywords:
 - vbaol11.chm1560
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.ShowCategoriesDialog
 ms.assetid: 00483040-7c23-e920-3d97-1ac456c25b05

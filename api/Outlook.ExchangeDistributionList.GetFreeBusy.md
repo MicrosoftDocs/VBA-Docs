@@ -3,7 +3,6 @@ title: ExchangeDistributionList.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2122
 f1_keywords:
 - vbaol11.chm2122
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.GetFreeBusy
 ms.assetid: b7b5ac5a-3973-a9ed-e716-50491cd5d9da

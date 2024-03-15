@@ -3,7 +3,6 @@ title: TableView.RowFont property (Outlook)
 keywords: vbaol11.chm2533
 f1_keywords:
 - vbaol11.chm2533
-ms.prod: outlook
 api_name:
 - Outlook.TableView.RowFont
 ms.assetid: 691be8dc-8811-64d0-7473-93a0fe8b4749

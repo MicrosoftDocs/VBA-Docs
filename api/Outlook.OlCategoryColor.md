@@ -3,7 +3,6 @@ title: OlCategoryColor enumeration (Outlook)
 keywords: vbaol11.chm3119
 f1_keywords:
 - vbaol11.chm3119
-ms.prod: outlook
 api_name:
 - Outlook.OlCategoryColor
 ms.assetid: 048bbc6b-c49f-68a3-ac59-b61204e5ef78

@@ -3,7 +3,6 @@ title: OlkComboBox.Style property (Outlook)
 keywords: vbaol11.chm1000214
 f1_keywords:
 - vbaol11.chm1000214
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Style
 ms.assetid: 442acfef-795c-f41a-a19e-197a3b1ca12b

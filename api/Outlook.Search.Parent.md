@@ -3,7 +3,6 @@ title: Search.Parent property (Outlook)
 keywords: vbaol11.chm2252
 f1_keywords:
 - vbaol11.chm2252
-ms.prod: outlook
 api_name:
 - Outlook.Search.Parent
 ms.assetid: edd9777f-a764-8e35-4a66-05a0f838de0e

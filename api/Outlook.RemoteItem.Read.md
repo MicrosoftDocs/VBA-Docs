@@ -1,6 +1,5 @@
 ---
 title: RemoteItem.Read event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Read
 ms.assetid: 78ad2650-7108-f617-6a04-74d7db8db4d7
