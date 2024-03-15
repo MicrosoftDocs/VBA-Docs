@@ -3,7 +3,6 @@ title: SharingItem.Send method (Outlook)
 keywords: vbaol11.chm672
 f1_keywords:
 - vbaol11.chm672
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Send
 ms.assetid: 54f92175-0e99-f96a-56de-5fc66d97d80f

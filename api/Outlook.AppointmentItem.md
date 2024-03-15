@@ -3,7 +3,6 @@ title: AppointmentItem object (Outlook)
 keywords: vbaol11.chm2988
 f1_keywords:
 - vbaol11.chm2988
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem
 ms.assetid: 204a409d-654e-27aa-643a-8344c631b82d

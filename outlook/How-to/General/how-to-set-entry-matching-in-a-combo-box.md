@@ -3,7 +3,6 @@ title: "How to: Set Entry Matching in a Combo Box"
 keywords: olfm10.chm3077213
 f1_keywords:
 - olfm10.chm3077213
-ms.prod: outlook
 ms.assetid: 1e47c76a-a152-30a4-96a6-f95122209ff1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

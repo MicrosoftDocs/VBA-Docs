@@ -3,7 +3,6 @@ title: View.Delete method (Outlook)
 keywords: vbaol11.chm2486
 f1_keywords:
 - vbaol11.chm2486
-ms.prod: outlook
 api_name:
 - Outlook.View.Delete
 ms.assetid: 6d332021-6e93-7665-2a5b-526c927621de

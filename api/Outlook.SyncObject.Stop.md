@@ -3,7 +3,6 @@ title: SyncObject.Stop method (Outlook)
 keywords: vbaol11.chm109
 f1_keywords:
 - vbaol11.chm109
-ms.prod: outlook
 api_name:
 - Outlook.SyncObject.Stop
 ms.assetid: ce74230f-6da7-953e-5a70-157900f4e84d

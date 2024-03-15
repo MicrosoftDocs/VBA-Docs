@@ -3,7 +3,6 @@ title: TableView.ShowConversationSendersAboveSubject property (Outlook)
 keywords: vbaol11.chm3557
 f1_keywords:
 - vbaol11.chm3557
-ms.prod: outlook
 api_name:
 - Outlook.TableView.ShowConversationSendersAboveSubject
 ms.assetid: fa7514c1-a9e1-0bc3-9c94-d537d7d73e00

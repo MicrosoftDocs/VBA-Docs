@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000514
 f1_keywords:
 - vbaol11.chm1000514
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.DropDown
 ms.assetid: 47b8d231-d3dc-4f10-a8ab-ead1853bad0f

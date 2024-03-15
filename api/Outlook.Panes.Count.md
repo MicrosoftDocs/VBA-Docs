@@ -3,7 +3,6 @@ title: Panes.Count property (Outlook)
 keywords: vbaol11.chm78
 f1_keywords:
 - vbaol11.chm78
-ms.prod: outlook
 api_name:
 - Outlook.Panes.Count
 ms.assetid: 381a7d3f-9d39-4df2-55bb-cc799aa5ea8e

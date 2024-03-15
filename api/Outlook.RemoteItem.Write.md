@@ -1,6 +1,5 @@
 ---
 title: RemoteItem.Write event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Write
 ms.assetid: a38eef6b-23da-ba10-ad94-cc63e2bf60c2

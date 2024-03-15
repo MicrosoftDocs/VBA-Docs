@@ -1,6 +1,5 @@
 ---
 title: Categorize Your Outlook Items
-ms.prod: outlook
 ms.assetid: e8cfb450-b8b0-bee6-fdf0-d0a92bf9af56
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Application.Explorers property (Outlook)
 keywords: vbaol11.chm720
 f1_keywords:
 - vbaol11.chm720
-ms.prod: outlook
 api_name:
 - Outlook.Application.Explorers
 ms.assetid: bbbdbd6e-a238-8108-fbbd-5f7d7821aaa7

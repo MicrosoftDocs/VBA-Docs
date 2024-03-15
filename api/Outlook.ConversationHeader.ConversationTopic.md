@@ -3,7 +3,6 @@ title: ConversationHeader.ConversationTopic property (Outlook)
 keywords: vbaol11.chm3543
 f1_keywords:
 - vbaol11.chm3543
-ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.ConversationTopic
 ms.assetid: 49cd8069-ed6f-3749-1d55-41a457e1e7eb

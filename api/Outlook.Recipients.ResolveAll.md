@@ -3,7 +3,6 @@ title: Recipients.ResolveAll method (Outlook)
 keywords: vbaol11.chm234
 f1_keywords:
 - vbaol11.chm234
-ms.prod: outlook
 api_name:
 - Outlook.Recipients.ResolveAll
 ms.assetid: 82404dc6-af4e-f32d-68b2-9451328b5ca6

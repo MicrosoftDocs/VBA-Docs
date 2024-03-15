@@ -3,7 +3,6 @@ title: OlkLabel.AutoSize property (Outlook)
 keywords: vbaol11.chm1000087
 f1_keywords:
 - vbaol11.chm1000087
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.AutoSize
 ms.assetid: ed1e472f-3e61-13d0-591d-c640786159fc

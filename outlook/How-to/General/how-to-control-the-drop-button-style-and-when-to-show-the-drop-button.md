@@ -3,7 +3,6 @@ title: "How to: Control the Drop Button Style and When to Show the Drop Button"
 keywords: olfm10.chm3077182
 f1_keywords:
 - olfm10.chm3077182
-ms.prod: outlook
 ms.assetid: 899b839e-f67e-1533-c0b6-28206e9af74a
 ms.date: 06/08/2019
 ms.localizationpriority: medium

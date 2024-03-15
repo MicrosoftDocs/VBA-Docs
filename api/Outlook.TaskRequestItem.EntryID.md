@@ -3,7 +3,6 @@ title: TaskRequestItem.EntryID property (Outlook)
 keywords: vbaol11.chm1881
 f1_keywords:
 - vbaol11.chm1881
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.EntryID
 ms.assetid: a0ba17ea-4a4d-18fe-30c7-9ba4cc651a47
