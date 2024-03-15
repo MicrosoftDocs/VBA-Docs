@@ -3,7 +3,6 @@ title: JournalModule.Session property (Outlook)
 keywords: vbaol11.chm2864
 f1_keywords:
 - vbaol11.chm2864
-ms.prod: outlook
 api_name:
 - Outlook.JournalModule.Session
 ms.assetid: 416b232d-bed3-fcf5-db47-2946b5a8d244

@@ -3,7 +3,6 @@ title: MailItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1304
 f1_keywords:
 - vbaol11.chm1304
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.FormDescription
 ms.assetid: 06043d0c-c56f-2f87-6018-4a4fa0b0735e

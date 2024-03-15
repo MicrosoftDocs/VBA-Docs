@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.Session property (Outlook)
 keywords: vbaol11.chm1821
 f1_keywords:
 - vbaol11.chm1821
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Session
 ms.assetid: ca771a84-1cc6-b1ef-2dbf-ed05541b96d5

@@ -3,7 +3,6 @@ title: Application.GetObjectReference method (Outlook)
 keywords: vbaol11.chm734
 f1_keywords:
 - vbaol11.chm734
-ms.prod: outlook
 api_name:
 - Outlook.Application.GetObjectReference
 ms.assetid: 426ade68-155b-9076-b3f8-4108f44688b0

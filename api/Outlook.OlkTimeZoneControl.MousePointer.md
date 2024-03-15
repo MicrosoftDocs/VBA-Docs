@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.MousePointer property (Outlook)
 keywords: vbaol11.chm1000507
 f1_keywords:
 - vbaol11.chm1000507
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.MousePointer
 ms.assetid: 10a026ed-8587-469a-dc78-e1fd4fc0fbfc

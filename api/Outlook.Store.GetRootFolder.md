@@ -3,7 +3,6 @@ title: Store.GetRootFolder method (Outlook)
 keywords: vbaol11.chm806
 f1_keywords:
 - vbaol11.chm806
-ms.prod: outlook
 api_name:
 - Outlook.Store.GetRootFolder
 ms.assetid: 09da4d57-c33d-6946-cc21-7233e89efb10

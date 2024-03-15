@@ -3,7 +3,6 @@ title: ContactItem.Anniversary property (Outlook)
 keywords: vbaol11.chm965
 f1_keywords:
 - vbaol11.chm965
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Anniversary
 ms.assetid: c1e9a355-9776-0baa-90b6-743cea99b4e6

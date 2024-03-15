@@ -3,7 +3,6 @@ title: OlkCommandButton.TextAlign property (Outlook)
 keywords: vbaol11.chm1000117
 f1_keywords:
 - vbaol11.chm1000117
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.TextAlign
 ms.assetid: 4e4f1814-3060-f59c-3360-b84827ea7b80

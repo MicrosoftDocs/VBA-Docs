@@ -2,7 +2,6 @@
 title: MeetingItem.ReadComplete event (Outlook)
 ms.assetid: 17ef8085-38ac-7e32-7704-54a2f2224e87
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 

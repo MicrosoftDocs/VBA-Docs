@@ -3,7 +3,6 @@ title: TaskItem.CancelResponseState method (Outlook)
 keywords: vbaol11.chm1750
 f1_keywords:
 - vbaol11.chm1750
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.CancelResponseState
 ms.assetid: 564b37c5-f686-8e4d-aa3e-6d41a989b1be

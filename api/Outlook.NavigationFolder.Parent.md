@@ -3,7 +3,6 @@ title: NavigationFolder.Parent property (Outlook)
 keywords: vbaol11.chm2903
 f1_keywords:
 - vbaol11.chm2903
-ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.Parent
 ms.assetid: a257247d-1308-fa8b-a07c-33b41c0740ca

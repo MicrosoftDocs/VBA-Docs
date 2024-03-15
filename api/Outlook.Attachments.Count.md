@@ -3,7 +3,6 @@ title: Attachments.Count property (Outlook)
 keywords: vbaol11.chm174
 f1_keywords:
 - vbaol11.chm174
-ms.prod: outlook
 api_name:
 - Outlook.Attachments.Count
 ms.assetid: f25a85a0-298e-457d-b2b6-7f7ec18c6921

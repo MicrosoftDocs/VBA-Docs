@@ -3,7 +3,6 @@ title: OrderField.IsDescending property (Outlook)
 keywords: vbaol11.chm2689
 f1_keywords:
 - vbaol11.chm2689
-ms.prod: outlook
 api_name:
 - Outlook.OrderField.IsDescending
 ms.assetid: 941f7144-748a-7b57-35f1-3e29077b926d

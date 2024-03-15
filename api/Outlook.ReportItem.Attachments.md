@@ -3,7 +3,6 @@ title: ReportItem.Attachments property (Outlook)
 keywords: vbaol11.chm1639
 f1_keywords:
 - vbaol11.chm1639
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Attachments
 ms.assetid: d7d93015-1d16-c217-cbc0-5e866c1ba89b

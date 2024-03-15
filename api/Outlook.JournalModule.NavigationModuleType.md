@@ -3,7 +3,6 @@ title: JournalModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3246
 f1_keywords:
 - vbaol11.chm3246
-ms.prod: outlook
 api_name:
 - Outlook.JournalModule.NavigationModuleType
 ms.assetid: 0ecb29aa-f4c8-bbff-8b96-696ffbc45416
