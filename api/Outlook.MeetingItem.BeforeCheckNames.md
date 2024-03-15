@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeCheckNames
 ms.assetid: 451d1b1b-3411-1f0a-69f7-14a1fc9071d9

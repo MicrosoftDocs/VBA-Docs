@@ -3,7 +3,6 @@ title: Inspector.Top property (Outlook)
 keywords: vbaol11.chm2976
 f1_keywords:
 - vbaol11.chm2976
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.Top
 ms.assetid: 71e3d291-185e-6d98-70d2-80de4c008506

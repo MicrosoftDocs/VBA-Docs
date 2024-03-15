@@ -3,7 +3,6 @@ title: Panes.Session property (Outlook)
 keywords: vbaol11.chm76
 f1_keywords:
 - vbaol11.chm76
-ms.prod: outlook
 api_name:
 - Outlook.Panes.Session
 ms.assetid: 3f0eeae2-e02e-d7f1-70de-6c9d869756d9

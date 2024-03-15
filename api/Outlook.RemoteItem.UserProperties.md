@@ -3,7 +3,6 @@ title: RemoteItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1611
 f1_keywords:
 - vbaol11.chm1611
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.UserProperties
 ms.assetid: 5146ade0-1ed8-4875-574f-511feae78b22

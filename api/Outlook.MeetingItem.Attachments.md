@@ -3,7 +3,6 @@ title: MeetingItem.Attachments property (Outlook)
 keywords: vbaol11.chm1403
 f1_keywords:
 - vbaol11.chm1403
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Attachments
 ms.assetid: 7399ae31-606a-816a-6049-7bd5778b829b

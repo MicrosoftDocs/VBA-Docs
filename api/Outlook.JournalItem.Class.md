@@ -3,7 +3,6 @@ title: JournalItem.Class property (Outlook)
 keywords: vbaol11.chm1228
 f1_keywords:
 - vbaol11.chm1228
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Class
 ms.assetid: 8cebe94e-eb83-6ace-7baf-65c217b6b399

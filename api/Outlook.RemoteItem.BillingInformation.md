@@ -3,7 +3,6 @@ title: RemoteItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1588
 f1_keywords:
 - vbaol11.chm1588
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BillingInformation
 ms.assetid: c8761455-f050-a205-6bf2-869ea326cb59

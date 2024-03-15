@@ -3,7 +3,6 @@ title: MeetingItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm1447
 f1_keywords:
 - vbaol11.chm1447
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReminderTime
 ms.assetid: c34a0a59-79f6-e1ee-7e69-762e6a6de731

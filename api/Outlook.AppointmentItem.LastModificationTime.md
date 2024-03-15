@@ -3,7 +3,6 @@ title: AppointmentItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm855
 f1_keywords:
 - vbaol11.chm855
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.LastModificationTime
 ms.assetid: 723d152c-cd71-6038-1eed-06de4c96c32c

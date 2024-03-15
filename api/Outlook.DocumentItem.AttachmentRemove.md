@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.AttachmentRemove event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.AttachmentRemove
 ms.assetid: c921bdd1-f922-8cd4-a31c-fd880b447099

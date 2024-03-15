@@ -3,7 +3,6 @@ title: PostItem.Attachments property (Outlook)
 keywords: vbaol11.chm1514
 f1_keywords:
 - vbaol11.chm1514
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Attachments
 ms.assetid: 62fb3f0a-6de7-11cf-936d-f9bf080129d0
