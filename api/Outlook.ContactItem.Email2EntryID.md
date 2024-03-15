@@ -3,7 +3,6 @@ title: ContactItem.Email2EntryID property (Outlook)
 keywords: vbaol11.chm998
 f1_keywords:
 - vbaol11.chm998
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Email2EntryID
 ms.assetid: 0c5691bb-e112-763b-d126-2bcc2c52ccce

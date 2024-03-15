@@ -3,7 +3,6 @@ title: NameSpace.GetSharedDefaultFolder method (Outlook)
 keywords: vbaol11.chm765
 f1_keywords:
 - vbaol11.chm765
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.GetSharedDefaultFolder
 ms.assetid: e2196423-e4f2-2797-c16c-dc54e2c0f7d2

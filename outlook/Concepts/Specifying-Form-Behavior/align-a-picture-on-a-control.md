@@ -1,6 +1,5 @@
 ---
 title: Align a Picture on a Control
-ms.prod: outlook
 ms.assetid: ab07c970-b0df-f080-b3a8-ba2486179c7b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

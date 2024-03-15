@@ -3,7 +3,6 @@ title: AppointmentItem.OptionalAttendees property (Outlook)
 keywords: vbaol11.chm888
 f1_keywords:
 - vbaol11.chm888
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.OptionalAttendees
 ms.assetid: 019262e6-34cd-8138-0237-13e7b99e51d7

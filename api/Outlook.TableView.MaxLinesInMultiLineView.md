@@ -3,7 +3,6 @@ title: TableView.MaxLinesInMultiLineView property (Outlook)
 keywords: vbaol11.chm2520
 f1_keywords:
 - vbaol11.chm2520
-ms.prod: outlook
 api_name:
 - Outlook.TableView.MaxLinesInMultiLineView
 ms.assetid: e9001b61-bae4-72f2-4aa2-6d1c1e4fc086

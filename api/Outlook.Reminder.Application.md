@@ -3,7 +3,6 @@ title: Reminder.Application property (Outlook)
 keywords: vbaol11.chm554
 f1_keywords:
 - vbaol11.chm554
-ms.prod: outlook
 api_name:
 - Outlook.Reminder.Application
 ms.assetid: cfbb4642-250b-96b9-492a-508f8309b867

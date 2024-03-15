@@ -3,7 +3,6 @@ title: AppointmentItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm844
 f1_keywords:
 - vbaol11.chm844
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BillingInformation
 ms.assetid: f6d1c066-dfda-0267-e4b9-ca65345bcc6e
