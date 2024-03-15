@@ -3,7 +3,6 @@ title: Store.GetDefaultFolder method (Outlook)
 keywords: vbaol11.chm3437
 f1_keywords:
 - vbaol11.chm3437
-ms.prod: outlook
 api_name:
 - Outlook.Store.GetDefaultFolder
 ms.assetid: f3e87528-6de8-dc59-8d27-f19f6b344044

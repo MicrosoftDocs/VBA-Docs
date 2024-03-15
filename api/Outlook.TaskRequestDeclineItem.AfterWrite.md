@@ -1,6 +1,5 @@
 ---
 title: TaskRequestDeclineItem.AfterWrite event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AfterWrite
 ms.assetid: 0f60bfa3-0a15-a6dd-d71b-139979938f5d

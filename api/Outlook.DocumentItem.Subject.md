@@ -3,7 +3,6 @@ title: DocumentItem.Subject property (Outlook)
 keywords: vbaol11.chm1206
 f1_keywords:
 - vbaol11.chm1206
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Subject
 ms.assetid: ab1927fa-3d1c-d7b8-4e08-f05095a5efda

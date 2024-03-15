@@ -3,7 +3,6 @@ title: SharingItem.CC property (Outlook)
 keywords: vbaol11.chm634
 f1_keywords:
 - vbaol11.chm634
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.CC
 ms.assetid: ac3e12ea-6e3d-71c8-ecb4-c7d54d669cee

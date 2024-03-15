@@ -3,7 +3,6 @@ title: NavigationModules.Application property (Outlook)
 keywords: vbaol11.chm2795
 f1_keywords:
 - vbaol11.chm2795
-ms.prod: outlook
 api_name:
 - Outlook.NavigationModules.Application
 ms.assetid: e805379e-a98d-7f2b-d7b5-61af040de12b

@@ -3,7 +3,6 @@ title: TaskRequestItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1893
 f1_keywords:
 - vbaol11.chm1893
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Sensitivity
 ms.assetid: 6dfa7268-f799-9d57-a496-f94be1e0e439

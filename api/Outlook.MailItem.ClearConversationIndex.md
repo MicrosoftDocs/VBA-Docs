@@ -3,7 +3,6 @@ title: MailItem.ClearConversationIndex method (Outlook)
 keywords: vbaol11.chm1365
 f1_keywords:
 - vbaol11.chm1365
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.ClearConversationIndex
 ms.assetid: 5246a0ac-d4e3-4c3b-8362-f5b65e1a28ab

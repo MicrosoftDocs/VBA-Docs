@@ -3,7 +3,6 @@ title: Exception object (Outlook)
 keywords: vbaol11.chm296
 f1_keywords:
 - vbaol11.chm296
-ms.prod: outlook
 api_name:
 - Outlook.Exception
 ms.assetid: 010552b0-9ba6-c81b-1e3a-fd6a681e5163

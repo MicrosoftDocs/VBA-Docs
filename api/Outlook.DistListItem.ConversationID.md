@@ -3,7 +3,6 @@ title: DistListItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3510
 f1_keywords:
 - vbaol11.chm3510
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ConversationID
 ms.assetid: 8acbf4e8-d3ec-713c-7987-ba254e2373fb

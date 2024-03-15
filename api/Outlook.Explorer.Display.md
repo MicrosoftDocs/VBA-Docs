@@ -3,7 +3,6 @@ title: Explorer.Display method (Outlook)
 keywords: vbaol11.chm2764
 f1_keywords:
 - vbaol11.chm2764
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Display
 ms.assetid: 3d93be5a-90af-af60-c16a-ec15d87f4d97

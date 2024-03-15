@@ -3,7 +3,6 @@ title: RuleActions.NotifyDelivery property (Outlook)
 keywords: vbaol11.chm2188
 f1_keywords:
 - vbaol11.chm2188
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.NotifyDelivery
 ms.assetid: fd5e3831-6181-8452-10e5-17ff48d54ba7
