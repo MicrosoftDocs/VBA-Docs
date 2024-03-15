@@ -3,7 +3,6 @@ title: AppointmentItem.Respond method (Outlook)
 keywords: vbaol11.chm906
 f1_keywords:
 - vbaol11.chm906
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Respond
 ms.assetid: 060d1fcb-0011-bea0-5c6b-fa3538ff9a2d

@@ -3,7 +3,6 @@ title: RuleConditions.RecipientAddress property (Outlook)
 keywords: vbaol11.chm2317
 f1_keywords:
 - vbaol11.chm2317
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.RecipientAddress
 ms.assetid: 1b8f361e-0481-75dc-e66e-2bc69228773a

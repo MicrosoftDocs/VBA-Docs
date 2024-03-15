@@ -1,6 +1,5 @@
 ---
 title: Access Exchange User or Distribution List Information from the Address Book
-ms.prod: outlook
 ms.assetid: 077a8666-09c5-e641-0b9b-7d83133d931f
 ms.date: 09/08/2021
 ms.localizationpriority: medium

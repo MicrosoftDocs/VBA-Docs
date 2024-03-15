@@ -2,7 +2,6 @@
 title: PostItem.ReadComplete event (Outlook)
 ms.assetid: 7b7a8d3d-95ef-fdaa-ae13-aae5dd33a9a4
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 

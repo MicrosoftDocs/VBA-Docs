@@ -3,7 +3,6 @@ title: TaskItem.Respond method (Outlook)
 keywords: vbaol11.chm1754
 f1_keywords:
 - vbaol11.chm1754
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Respond
 ms.assetid: 1befabf7-262f-897a-d1dc-49be4e7ddf9b

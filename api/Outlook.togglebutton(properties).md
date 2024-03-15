@@ -1,6 +1,5 @@
 ---
 title: ToggleButton Properties (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 839179dc-a24d-4251-b465-aea60f3e354a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

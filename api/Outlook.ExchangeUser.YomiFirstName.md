@@ -3,7 +3,6 @@ title: ExchangeUser.YomiFirstName property (Outlook)
 keywords: vbaol11.chm2103
 f1_keywords:
 - vbaol11.chm2103
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.YomiFirstName
 ms.assetid: b44094df-af5a-21fd-0c09-ada48e51cfd8
