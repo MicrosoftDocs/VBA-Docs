@@ -3,7 +3,6 @@ title: OlDragBehavior enumeration (Outlook)
 keywords: vbaol11.chm1000024
 f1_keywords:
 - vbaol11.chm1000024
-ms.prod: outlook
 api_name:
 - Outlook.OlDragBehavior
 ms.assetid: 1e8c29d4-7800-663f-fb5f-aebc2a6b89fe

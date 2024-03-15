@@ -3,7 +3,6 @@ title: OlkLabel.Click event (Outlook)
 keywords: vbaol11.chm1000102
 f1_keywords:
 - vbaol11.chm1000102
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.Click
 ms.assetid: b710b1dd-d8d7-9236-5217-6059d2623393

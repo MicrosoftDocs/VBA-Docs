@@ -1,6 +1,5 @@
 ---
 title: ViewCtl.ExpandGroup Method (Outlook View Control)
-ms.prod: outlook
 ms.assetid: 5cb0afbe-763c-2afb-5760-ea64c6f16637
 ms.date: 06/08/2017
 ms.localizationpriority: medium

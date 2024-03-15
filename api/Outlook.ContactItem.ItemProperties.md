@@ -3,7 +3,6 @@ title: ContactItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1081
 f1_keywords:
 - vbaol11.chm1081
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ItemProperties
 ms.assetid: 44d2bc7e-30f1-0b74-f9e2-0e3db5d6212a

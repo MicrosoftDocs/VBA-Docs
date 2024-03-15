@@ -3,7 +3,6 @@ title: Creating a New Item
 keywords: olfm10.chm3077112
 f1_keywords:
 - olfm10.chm3077112
-ms.prod: outlook
 ms.assetid: 3e7e5c7d-d0f8-36f4-c126-9f4ef73057a3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

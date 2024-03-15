@@ -3,7 +3,6 @@ title: Items.Remove method (Outlook)
 keywords: vbaol11.chm68
 f1_keywords:
 - vbaol11.chm68
-ms.prod: outlook
 api_name:
 - Outlook.Items.Remove
 ms.assetid: d2838c82-d0ac-82cc-eed0-c34d55c67d63

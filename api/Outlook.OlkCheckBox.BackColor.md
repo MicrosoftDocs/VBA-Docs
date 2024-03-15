@@ -3,7 +3,6 @@ title: OlkCheckBox.BackColor property (Outlook)
 keywords: vbaol11.chm1000136
 f1_keywords:
 - vbaol11.chm1000136
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.BackColor
 ms.assetid: be19b158-e81e-0979-40e2-e6b98480f416

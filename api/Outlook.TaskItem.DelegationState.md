@@ -3,7 +3,6 @@ title: TaskItem.DelegationState property (Outlook)
 keywords: vbaol11.chm1726
 f1_keywords:
 - vbaol11.chm1726
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.DelegationState
 ms.assetid: 345321d9-1142-5d6c-dd6a-304b9a4ec4cc

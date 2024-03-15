@@ -1,6 +1,5 @@
 ---
 title: ComboBox.Enabled Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: fd502ed4-3208-9bfb-947d-ae7d367ec0b9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

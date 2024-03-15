@@ -3,7 +3,6 @@ title: NameSpace.Parent property (Outlook)
 keywords: vbaol11.chm755
 f1_keywords:
 - vbaol11.chm755
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Parent
 ms.assetid: d03ca579-3739-a8ef-fda7-650aa7d7d2d1

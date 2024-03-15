@@ -3,7 +3,6 @@ title: AutoFormatRules.Remove method (Outlook)
 keywords: vbaol11.chm2721
 f1_keywords:
 - vbaol11.chm2721
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Remove
 ms.assetid: 91db9890-c8cd-81bd-fd10-4137072ca2b5

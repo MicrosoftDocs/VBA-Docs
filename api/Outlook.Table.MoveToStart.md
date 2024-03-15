@@ -3,7 +3,6 @@ title: Table.MoveToStart method (Outlook)
 keywords: vbaol11.chm2233
 f1_keywords:
 - vbaol11.chm2233
-ms.prod: outlook
 api_name:
 - Outlook.Table.MoveToStart
 ms.assetid: af499471-dd21-9374-7399-3ce977368015

@@ -3,7 +3,6 @@ title: DistListItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3529
 f1_keywords:
 - vbaol11.chm3529
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.RTFBody
 ms.assetid: 0ae5956c-df1e-9ef4-116e-869b69fc11e6

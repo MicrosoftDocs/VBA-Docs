@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.Click event (Outlook)
 keywords: vbaol11.chm1000516
 f1_keywords:
 - vbaol11.chm1000516
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Click
 ms.assetid: 4eebdefa-e947-6210-201f-6106f6587c1f

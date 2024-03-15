@@ -3,7 +3,6 @@ title: CalendarView.Reset method (Outlook)
 keywords: vbaol11.chm2614
 f1_keywords:
 - vbaol11.chm2614
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Reset
 ms.assetid: 222b2537-4d70-6a12-97f2-5034a262655b
