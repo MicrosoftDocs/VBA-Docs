@@ -3,7 +3,6 @@ title: OlkCommandButton.AutoSize property (Outlook)
 keywords: vbaol11.chm1000110
 f1_keywords:
 - vbaol11.chm1000110
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.AutoSize
 ms.assetid: 7212c7d1-27d9-25f2-e486-e18bc26d77f5

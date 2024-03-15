@@ -3,7 +3,6 @@ title: AddressEntries.Add method (Outlook)
 keywords: vbaol11.chm32
 f1_keywords:
 - vbaol11.chm32
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.Add
 ms.assetid: b4c37547-8fbd-b1e4-40f3-5cba3cffd6e9

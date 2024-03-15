@@ -1,6 +1,5 @@
 ---
 title: ViewCtl.OutlookApplication Property (Outlook View Control)
-ms.prod: outlook
 ms.assetid: f4bc700f-6045-6ef4-b3ea-7962a56b37fb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: StorageItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2150
 f1_keywords:
 - vbaol11.chm2150
-ms.prod: outlook
 api_name:
 - Outlook.StorageItem.PropertyAccessor
 ms.assetid: 36891e1c-a543-bbe5-c4db-b9d75cf38833

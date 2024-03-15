@@ -3,7 +3,6 @@ title: SolutionsModule.Parent property (Outlook)
 keywords: vbaol11.chm3363
 f1_keywords:
 - vbaol11.chm3363
-ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Parent
 ms.assetid: 096faefb-74d2-7ab2-add7-84ffc4d9d7f8

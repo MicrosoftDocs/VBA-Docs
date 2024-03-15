@@ -3,7 +3,6 @@ title: "How to: Move Controls on a Page"
 keywords: olfm10.chm3077219
 f1_keywords:
 - olfm10.chm3077219
-ms.prod: outlook
 ms.assetid: d50e7b95-016d-9ee7-533a-4a101e2316eb
 ms.date: 06/08/2019
 ms.localizationpriority: medium

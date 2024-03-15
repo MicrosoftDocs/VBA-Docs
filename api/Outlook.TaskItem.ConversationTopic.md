@@ -3,7 +3,6 @@ title: TaskItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1693
 f1_keywords:
 - vbaol11.chm1693
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ConversationTopic
 ms.assetid: ca1eb42a-22b8-8ef9-cf7b-63a96e4910cf

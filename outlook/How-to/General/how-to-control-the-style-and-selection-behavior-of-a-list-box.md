@@ -3,7 +3,6 @@ title: "How to: Control the Style and Selection Behavior of a List Box"
 keywords: olfm10.chm3077208
 f1_keywords:
 - olfm10.chm3077208
-ms.prod: outlook
 ms.assetid: f4b7c003-55c4-4908-77d0-d6184f6ec786
 ms.date: 06/08/2019
 ms.localizationpriority: medium
