@@ -3,7 +3,6 @@ title: OlkComboBox.TextAlign property (Outlook)
 keywords: vbaol11.chm1000216
 f1_keywords:
 - vbaol11.chm1000216
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.TextAlign
 ms.assetid: 5dccf4c9-cef1-2f7c-4ab4-730d3c767a8e

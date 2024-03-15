@@ -3,7 +3,6 @@ title: Results.GetPrevious method (Outlook)
 keywords: vbaol11.chm508
 f1_keywords:
 - vbaol11.chm508
-ms.prod: outlook
 api_name:
 - Outlook.Results.GetPrevious
 ms.assetid: be9877c4-602d-7e2d-a00b-edb4aead7441

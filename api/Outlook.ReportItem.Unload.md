@@ -1,6 +1,5 @@
 ---
 title: ReportItem.Unload event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Unload
 ms.assetid: 934c4793-0809-65dc-4805-de28a54634cf

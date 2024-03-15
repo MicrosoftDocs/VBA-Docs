@@ -3,7 +3,6 @@ title: NavigationGroup.NavigationFolders property (Outlook)
 keywords: vbaol11.chm2887
 f1_keywords:
 - vbaol11.chm2887
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroup.NavigationFolders
 ms.assetid: 06e58adc-99d7-dd84-4d23-7f845850ff98

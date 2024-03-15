@@ -3,7 +3,6 @@ title: DistListItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3035
 f1_keywords:
 - vbaol11.chm3035
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.MarkAsTask
 ms.assetid: a8f5a666-95d6-9a97-14bb-ca0b6481e7a8

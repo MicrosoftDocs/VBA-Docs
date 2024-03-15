@@ -3,7 +3,6 @@ title: TaskItem.Class property (Outlook)
 keywords: vbaol11.chm1683
 f1_keywords:
 - vbaol11.chm1683
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Class
 ms.assetid: 978a3ca8-a444-49ec-593d-370c0deb7710

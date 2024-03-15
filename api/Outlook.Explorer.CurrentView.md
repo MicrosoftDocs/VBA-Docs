@@ -3,7 +3,6 @@ title: Explorer.CurrentView property (Outlook)
 keywords: vbaol11.chm2766
 f1_keywords:
 - vbaol11.chm2766
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.CurrentView
 ms.assetid: 177e6387-9ccb-cb71-bbe5-332c25485848

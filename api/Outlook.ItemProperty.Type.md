@@ -3,7 +3,6 @@ title: ItemProperty.Type property (Outlook)
 keywords: vbaol11.chm524
 f1_keywords:
 - vbaol11.chm524
-ms.prod: outlook
 api_name:
 - Outlook.ItemProperty.Type
 ms.assetid: 12129828-ad07-08b9-9b32-d8b19aba7b6e

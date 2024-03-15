@@ -3,7 +3,6 @@ title: PostItem.ReceivedTime property (Outlook)
 keywords: vbaol11.chm1549
 f1_keywords:
 - vbaol11.chm1549
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.ReceivedTime
 ms.assetid: 91e5ca72-195c-7502-e257-c6772be946e8

@@ -3,7 +3,6 @@ title: RuleAction object (Outlook)
 keywords: vbaol11.chm3163
 f1_keywords:
 - vbaol11.chm3163
-ms.prod: outlook
 api_name:
 - Outlook.RuleAction
 ms.assetid: 6451788f-e5ed-239c-a34d-b564b52d8955

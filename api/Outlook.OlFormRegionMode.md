@@ -3,7 +3,6 @@ title: OlFormRegionMode enumeration (Outlook)
 keywords: vbaol11.chm3103
 f1_keywords:
 - vbaol11.chm3103
-ms.prod: outlook
 api_name:
 - Outlook.OlFormRegionMode
 ms.assetid: 6fea8606-7465-0fdf-204d-f3562b6cc916

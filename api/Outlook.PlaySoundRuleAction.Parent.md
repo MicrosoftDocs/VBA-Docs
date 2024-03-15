@@ -3,7 +3,6 @@ title: PlaySoundRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2274
 f1_keywords:
 - vbaol11.chm2274
-ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction.Parent
 ms.assetid: cac44be6-e790-6863-4462-cf9b1382bbb0

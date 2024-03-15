@@ -3,7 +3,6 @@ title: Recipient.TrackingStatus property (Outlook)
 keywords: vbaol11.chm2353
 f1_keywords:
 - vbaol11.chm2353
-ms.prod: outlook
 api_name:
 - Outlook.Recipient.TrackingStatus
 ms.assetid: 15787403-de2c-ee9f-4f8b-587cf1ee6087

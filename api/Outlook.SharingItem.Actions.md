@@ -3,7 +3,6 @@ title: SharingItem.Actions property (Outlook)
 keywords: vbaol11.chm597
 f1_keywords:
 - vbaol11.chm597
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Actions
 ms.assetid: e98fb0dc-7013-3c43-4929-058d4b2cb889

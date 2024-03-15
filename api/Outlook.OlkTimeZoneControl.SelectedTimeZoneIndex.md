@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.SelectedTimeZoneIndex property (Outlook)
 keywords: vbaol11.chm1000533
 f1_keywords:
 - vbaol11.chm1000533
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.SelectedTimeZoneIndex
 ms.assetid: 1e95e436-66b2-2dac-84af-098dacd3a8d9
