@@ -3,7 +3,6 @@ title: TaskRequestItem.Saved property (Outlook)
 keywords: vbaol11.chm1892
 f1_keywords:
 - vbaol11.chm1892
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Saved
 ms.assetid: 599d72eb-c82b-e9e9-5443-b1009cf05a1d

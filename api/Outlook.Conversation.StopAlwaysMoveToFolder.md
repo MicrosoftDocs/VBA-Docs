@@ -3,7 +3,6 @@ title: Conversation.StopAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3433
 f1_keywords:
 - vbaol11.chm3433
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.StopAlwaysMoveToFolder
 ms.assetid: 3be830e9-ceea-369c-1f7b-966c68cfb8fd

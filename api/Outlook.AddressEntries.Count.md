@@ -3,7 +3,6 @@ title: AddressEntries.Count property (Outlook)
 keywords: vbaol11.chm29
 f1_keywords:
 - vbaol11.chm29
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.Count
 ms.assetid: 24b5bdb3-174d-1366-b2f5-c8243c71fa9d

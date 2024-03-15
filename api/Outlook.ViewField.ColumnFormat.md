@@ -3,7 +3,6 @@ title: ViewField.ColumnFormat property (Outlook)
 keywords: vbaol11.chm2544
 f1_keywords:
 - vbaol11.chm2544
-ms.prod: outlook
 api_name:
 - Outlook.ViewField.ColumnFormat
 ms.assetid: 0014f1d8-5380-3301-558a-7fd8d49afff9

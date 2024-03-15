@@ -3,7 +3,6 @@ title: MailItem.TaskSubject property (Outlook)
 keywords: vbaol11.chm1392
 f1_keywords:
 - vbaol11.chm1392
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.TaskSubject
 ms.assetid: f7e4629f-ad47-b455-9fee-b5e537602a34

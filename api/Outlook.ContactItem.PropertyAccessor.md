@@ -3,7 +3,6 @@ title: ContactItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1093
 f1_keywords:
 - vbaol11.chm1093
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PropertyAccessor
 ms.assetid: e69b37ce-1d3c-7cef-591c-83e12c76733c

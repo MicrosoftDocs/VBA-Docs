@@ -3,7 +3,6 @@ title: AppointmentItem.EntryID property (Outlook)
 keywords: vbaol11.chm851
 f1_keywords:
 - vbaol11.chm851
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.EntryID
 ms.assetid: 8f4160de-0840-902a-589e-bce80797b6f5
