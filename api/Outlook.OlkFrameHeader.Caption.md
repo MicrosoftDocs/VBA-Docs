@@ -3,7 +3,6 @@ title: OlkFrameHeader.Caption property (Outlook)
 keywords: vbaol11.chm1000462
 f1_keywords:
 - vbaol11.chm1000462
-ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.Caption
 ms.assetid: 8a401eba-5a69-1590-0b83-4356cc0e7a03

@@ -3,7 +3,6 @@ title: OlkListBox.MultiSelect property (Outlook)
 keywords: vbaol11.chm1000261
 f1_keywords:
 - vbaol11.chm1000261
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.MultiSelect
 ms.assetid: 33bd205a-9ed8-a20f-c1dd-796563476ed5

@@ -3,7 +3,6 @@ title: Explorer.Close event (Outlook)
 keywords: vbaol11.chm456
 f1_keywords:
 - vbaol11.chm456
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Close
 ms.assetid: 20586ee0-35b5-02f9-327b-8431f6083cca

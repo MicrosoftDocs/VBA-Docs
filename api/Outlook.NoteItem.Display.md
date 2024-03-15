@@ -3,7 +3,6 @@ title: NoteItem.Display method (Outlook)
 keywords: vbaol11.chm1495
 f1_keywords:
 - vbaol11.chm1495
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Display
 ms.assetid: 1a8c3999-45d4-b4a1-dacf-371a7e711eb2

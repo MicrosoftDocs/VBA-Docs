@@ -3,7 +3,6 @@ title: CalendarView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2639
 f1_keywords:
 - vbaol11.chm2639
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.AutoFormatRules
 ms.assetid: c104eaaa-0716-df59-df07-e0398c42c527

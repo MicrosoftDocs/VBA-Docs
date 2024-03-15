@@ -3,7 +3,6 @@ title: RecurrencePattern.DayOfMonth property (Outlook)
 keywords: vbaol11.chm273
 f1_keywords:
 - vbaol11.chm273
-ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.DayOfMonth
 ms.assetid: d89a9a55-060c-d25d-4bf6-21e345da36d1

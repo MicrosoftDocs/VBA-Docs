@@ -3,7 +3,6 @@ title: AutoFormatRules.Insert method (Outlook)
 keywords: vbaol11.chm2720
 f1_keywords:
 - vbaol11.chm2720
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Insert
 ms.assetid: fb2f4c41-b4f7-fa70-3f44-ee6b818a46ee

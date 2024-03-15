@@ -3,7 +3,6 @@ title: SharingItem.RequestedFolder property (Outlook)
 keywords: vbaol11.chm702
 f1_keywords:
 - vbaol11.chm702
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RequestedFolder
 ms.assetid: 429f14d7-9e33-a988-2d64-7eda720399ca

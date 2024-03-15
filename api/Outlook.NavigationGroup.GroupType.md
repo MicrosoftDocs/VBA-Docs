@@ -3,7 +3,6 @@ title: NavigationGroup.GroupType property (Outlook)
 keywords: vbaol11.chm2886
 f1_keywords:
 - vbaol11.chm2886
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroup.GroupType
 ms.assetid: 98cad024-903c-35a1-2e30-a0f96a74a4b2

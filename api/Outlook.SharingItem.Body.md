@@ -3,7 +3,6 @@ title: SharingItem.Body property (Outlook)
 keywords: vbaol11.chm600
 f1_keywords:
 - vbaol11.chm600
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Body
 ms.assetid: 116b133a-b8fd-3752-d8ec-6d906a4a64eb
