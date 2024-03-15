@@ -3,7 +3,6 @@ title: TaskRequestAcceptItem.Actions property (Outlook)
 keywords: vbaol11.chm1774
 f1_keywords:
 - vbaol11.chm1774
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Actions
 ms.assetid: e7530202-d812-b6ef-cf7b-3867d6da553d

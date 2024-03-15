@@ -3,7 +3,6 @@ title: OutlookBarShortcut.SetIcon method (Outlook)
 keywords: vbaol11.chm344
 f1_keywords:
 - vbaol11.chm344
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcut.SetIcon
 ms.assetid: d54a60b5-e667-e030-0724-d61be3ad3745

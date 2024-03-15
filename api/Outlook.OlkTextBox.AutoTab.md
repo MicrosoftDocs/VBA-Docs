@@ -3,7 +3,6 @@ title: OlkTextBox.AutoTab property (Outlook)
 keywords: vbaol11.chm1000036
 f1_keywords:
 - vbaol11.chm1000036
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.AutoTab
 ms.assetid: 9aacb807-1814-ae92-196d-e6a7ed8d1b82

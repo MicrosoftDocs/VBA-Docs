@@ -3,7 +3,6 @@ title: Attachment.BlockLevel property (Outlook)
 keywords: vbaol11.chm3262
 f1_keywords:
 - vbaol11.chm3262
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.BlockLevel
 ms.assetid: 036d535e-33e0-3f61-7966-72f92860efa0

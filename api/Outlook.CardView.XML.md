@@ -3,7 +3,6 @@ title: CardView.XML property (Outlook)
 keywords: vbaol11.chm2594
 f1_keywords:
 - vbaol11.chm2594
-ms.prod: outlook
 api_name:
 - Outlook.CardView.XML
 ms.assetid: a2be1e50-ae77-785c-0dc3-2b56c3a47cc7

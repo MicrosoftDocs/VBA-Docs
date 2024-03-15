@@ -1,9 +1,9 @@
 ---
 title: Outlook Visual Basic for Applications (VBA) reference
-ms.prod: outlook
 description: Conceptual overviews, programming tasks, samples, and references to help you develop Outlook solutions.
 ms.date: 10/10/2018
 ms.localizationpriority: medium
+ms.service: outlook
 ---
 
 # Outlook VBA reference

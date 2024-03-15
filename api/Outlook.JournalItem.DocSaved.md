@@ -3,7 +3,6 @@ title: JournalItem.DocSaved property (Outlook)
 keywords: vbaol11.chm1269
 f1_keywords:
 - vbaol11.chm1269
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.DocSaved
 ms.assetid: 9649e336-4941-40e3-6d30-677ffaa8455c

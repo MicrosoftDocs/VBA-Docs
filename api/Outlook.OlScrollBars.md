@@ -3,7 +3,6 @@ title: OlScrollBars enumeration (Outlook)
 keywords: vbaol11.chm1000020
 f1_keywords:
 - vbaol11.chm1000020
-ms.prod: outlook
 api_name:
 - Outlook.OlScrollBars
 ms.assetid: 22832728-5d27-ff6b-9ef2-ed6a8e1c9d5c

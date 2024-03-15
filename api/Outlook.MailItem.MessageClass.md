@@ -3,7 +3,6 @@ title: MailItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1309
 f1_keywords:
 - vbaol11.chm1309
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.MessageClass
 ms.assetid: 93194a21-dbec-ebfa-ae5d-d4f287ebb2bd

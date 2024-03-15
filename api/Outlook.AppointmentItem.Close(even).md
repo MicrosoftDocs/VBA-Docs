@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Close
 ms.assetid: 1af9cc71-36d1-e759-5151-401c899ae13b
