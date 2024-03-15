@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.PropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.PropertyChange
 ms.assetid: ec757f98-db44-585e-1a4a-5b3044428dec

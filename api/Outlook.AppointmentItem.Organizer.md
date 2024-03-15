@@ -3,7 +3,6 @@ title: AppointmentItem.Organizer property (Outlook)
 keywords: vbaol11.chm889
 f1_keywords:
 - vbaol11.chm889
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Organizer
 ms.assetid: 20fac1d5-0d40-918d-909d-a86069e6ed1d

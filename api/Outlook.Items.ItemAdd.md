@@ -3,7 +3,6 @@ title: Items.ItemAdd event (Outlook)
 keywords: vbaol11.chm314
 f1_keywords:
 - vbaol11.chm314
-ms.prod: outlook
 api_name:
 - Outlook.Items.ItemAdd
 ms.assetid: e46f5958-aff8-3a6b-b3df-5c4352b6c3d9

@@ -1,6 +1,5 @@
 ---
 title: DistListItem.ReplyAll event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ReplyAll
 ms.assetid: 63944f0e-230f-1613-f67b-943ff6bf5253

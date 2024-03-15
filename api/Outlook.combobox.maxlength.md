@@ -3,7 +3,6 @@ title: ComboBox.MaxLength Property (Outlook Forms Script)
 keywords: olfm10.chm2001520
 f1_keywords:
 - olfm10.chm2001520
-ms.prod: outlook
 ms.assetid: 81de6855-a108-c1c4-7fb6-df18b3236218
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: AddressEntry.Application property (Outlook)
 keywords: vbaol11.chm2038
 f1_keywords:
 - vbaol11.chm2038
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Application
 ms.assetid: 76593413-e1f0-0311-abe2-7efa7570edbb

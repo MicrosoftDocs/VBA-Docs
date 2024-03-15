@@ -3,7 +3,6 @@ title: ExchangeDistributionList.GetContact method (Outlook)
 keywords: vbaol11.chm2125
 f1_keywords:
 - vbaol11.chm2125
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.GetContact
 ms.assetid: ed3cf7ab-32b9-6dad-66d5-a4cd2ad9a9f4

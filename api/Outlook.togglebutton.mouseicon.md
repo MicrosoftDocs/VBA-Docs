@@ -1,6 +1,5 @@
 ---
 title: ToggleButton.MouseIcon Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 38d523a1-a91d-24b0-ee8b-ebbf61a7c0f4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

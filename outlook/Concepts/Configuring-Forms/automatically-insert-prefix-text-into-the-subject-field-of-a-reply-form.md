@@ -1,6 +1,5 @@
 ---
 title: Automatically Insert Prefix Text into the Subject Field of a Reply Form
-ms.prod: outlook
 ms.assetid: 8e35cbd6-1ce2-7a73-4365-9082b1c745e1
 ms.date: 06/08/2019
 ms.localizationpriority: medium
