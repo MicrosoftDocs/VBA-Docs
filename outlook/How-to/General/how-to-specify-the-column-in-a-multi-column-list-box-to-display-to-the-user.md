@@ -3,7 +3,6 @@ title: "How to: Specify the Column in a Multi-Column List Box to Display to the 
 keywords: olfm10.chm3077255
 f1_keywords:
 - olfm10.chm3077255
-ms.prod: outlook
 ms.assetid: f56b48b4-8ea7-8b77-99a1-0b522f0c9db3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

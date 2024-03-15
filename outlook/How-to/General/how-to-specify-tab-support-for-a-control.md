@@ -3,7 +3,6 @@ title: "How to: Specify Tab Support for a Control"
 keywords: olfm10.chm3077251
 f1_keywords:
 - olfm10.chm3077251
-ms.prod: outlook
 ms.assetid: e4b453a2-a0e2-63f0-3d93-a46e842fbbd6
 ms.date: 06/08/2019
 ms.localizationpriority: medium

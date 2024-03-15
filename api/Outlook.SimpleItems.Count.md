@@ -3,7 +3,6 @@ title: SimpleItems.Count property (Outlook)
 keywords: vbaol11.chm3397
 f1_keywords:
 - vbaol11.chm3397
-ms.prod: outlook
 api_name:
 - Outlook.SimpleItems.Count
 ms.assetid: 2656676b-ee82-aad0-21b9-8ca963cb57d2

@@ -3,7 +3,6 @@ title: NameSpace.CreateContactCard method (Outlook)
 keywords: vbaol11.chm3536
 f1_keywords:
 - vbaol11.chm3536
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.CreateContactCard
 ms.assetid: d050e0e3-3c0d-bd01-f008-2628056625d1

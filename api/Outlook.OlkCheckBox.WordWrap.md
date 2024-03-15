@@ -3,7 +3,6 @@ title: OlkCheckBox.WordWrap property (Outlook)
 keywords: vbaol11.chm1000146
 f1_keywords:
 - vbaol11.chm1000146
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.WordWrap
 ms.assetid: 755dc62b-93c0-30ec-dbe3-1126f1d38d11

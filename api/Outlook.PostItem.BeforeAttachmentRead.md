@@ -1,6 +1,5 @@
 ---
 title: PostItem.BeforeAttachmentRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.BeforeAttachmentRead
 ms.assetid: c4e83a89-5ae9-ece3-b884-8f19adbdcc40

@@ -3,7 +3,6 @@ title: OlNavigationModuleType enumeration (Outlook)
 keywords: vbaol11.chm3145
 f1_keywords:
 - vbaol11.chm3145
-ms.prod: outlook
 api_name:
 - Outlook.OlNavigationModuleType
 ms.assetid: 2140a094-6bee-aba1-03cd-71fa2c55842e

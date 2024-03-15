@@ -3,7 +3,6 @@ title: OlkTextBox.Text property (Outlook)
 keywords: vbaol11.chm1000058
 f1_keywords:
 - vbaol11.chm1000058
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Text
 ms.assetid: 1dc8c0ec-00d1-5066-f204-68f7e6b30a42

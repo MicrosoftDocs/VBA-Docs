@@ -3,7 +3,6 @@ title: FormRegion.FormRegionMode property (Outlook)
 keywords: vbaol11.chm2395
 f1_keywords:
 - vbaol11.chm2395
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.FormRegionMode
 ms.assetid: 8c6971a0-eddc-7e98-5f32-1a27b44d56ed

@@ -3,7 +3,6 @@ title: OlkControl.EnableAutoLayout property (Outlook)
 keywords: vbaol11.chm1000543
 f1_keywords:
 - vbaol11.chm1000543
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.EnableAutoLayout
 ms.assetid: 929f07f1-db56-9b31-910e-e0c83b57afde

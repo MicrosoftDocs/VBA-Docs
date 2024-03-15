@@ -3,7 +3,6 @@ title: AppointmentItem.ResponseRequested property (Outlook)
 keywords: vbaol11.chm900
 f1_keywords:
 - vbaol11.chm900
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ResponseRequested
 ms.assetid: a96727b8-1a8a-6ab6-d8a0-4ca9c9409aff

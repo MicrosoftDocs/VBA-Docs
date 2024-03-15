@@ -3,7 +3,6 @@ title: SelectNamesDialog object (Outlook)
 keywords: vbaol11.chm3156
 f1_keywords:
 - vbaol11.chm3156
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog
 ms.assetid: 1522736a-3cad-9f1c-4da9-b52a3a01731c

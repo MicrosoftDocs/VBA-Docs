@@ -3,7 +3,6 @@ title: FormRegionStartup object (Outlook)
 keywords: vbaol11.chm3213
 f1_keywords:
 - vbaol11.chm3213
-ms.prod: outlook
 ms.assetid: 948ea6b7-2962-57e7-618d-fa0977b65651
 ms.date: 06/08/2017
 ms.localizationpriority: medium

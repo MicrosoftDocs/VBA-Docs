@@ -3,7 +3,6 @@ title: Accounts.Session property (Outlook)
 keywords: vbaol11.chm747
 f1_keywords:
 - vbaol11.chm747
-ms.prod: outlook
 api_name:
 - Outlook.Accounts.Session
 ms.assetid: 65be5604-6dcf-b26e-1abc-41d1a8813e90

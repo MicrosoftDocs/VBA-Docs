@@ -3,7 +3,6 @@ title: RecurrencePattern.MonthOfYear property (Outlook)
 keywords: vbaol11.chm280
 f1_keywords:
 - vbaol11.chm280
-ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.MonthOfYear
 ms.assetid: 14112950-1e2a-a99a-7c48-3e76358de645
