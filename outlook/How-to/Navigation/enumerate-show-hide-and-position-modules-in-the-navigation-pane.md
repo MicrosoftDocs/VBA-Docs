@@ -1,6 +1,5 @@
 ---
 title: Enumerate, Show, Hide, and Position Modules in the Navigation Pane
-ms.prod: outlook
 ms.assetid: 3e510798-3a31-6ec6-6c45-8e0d1759ca1b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: SharingItem.Attachments property (Outlook)
 keywords: vbaol11.chm598
 f1_keywords:
 - vbaol11.chm598
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Attachments
 ms.assetid: cb87f406-8ea3-ca48-837a-2ad3c6f188fe

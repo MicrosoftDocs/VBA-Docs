@@ -3,7 +3,6 @@ title: ContactItem.CompanyAndFullName property (Outlook)
 keywords: vbaol11.chm983
 f1_keywords:
 - vbaol11.chm983
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CompanyAndFullName
 ms.assetid: 99a9087d-c511-f274-f506-b07a26cb9050

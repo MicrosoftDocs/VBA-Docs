@@ -3,7 +3,6 @@ title: Recipients.Item method (Outlook)
 keywords: vbaol11.chm231
 f1_keywords:
 - vbaol11.chm231
-ms.prod: outlook
 api_name:
 - Outlook.Recipients.Item
 ms.assetid: 7cfad374-519e-4312-9050-8a8b66b3911e

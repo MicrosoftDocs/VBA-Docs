@@ -3,7 +3,6 @@ title: ContactItem.LastFirstNoSpaceCompany property (Outlook)
 keywords: vbaol11.chm1029
 f1_keywords:
 - vbaol11.chm1029
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastFirstNoSpaceCompany
 ms.assetid: 52e60375-954d-ff0d-d06e-9b0fe8823184

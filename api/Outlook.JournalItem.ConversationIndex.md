@@ -3,7 +3,6 @@ title: JournalItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1237
 f1_keywords:
 - vbaol11.chm1237
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.ConversationIndex
 ms.assetid: 16e60593-0919-47ac-b064-8d57357a45a8

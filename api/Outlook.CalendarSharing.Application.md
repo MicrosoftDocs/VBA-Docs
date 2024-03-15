@@ -3,7 +3,6 @@ title: CalendarSharing.Application property (Outlook)
 keywords: vbaol11.chm2407
 f1_keywords:
 - vbaol11.chm2407
-ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.Application
 ms.assetid: 79e3b412-dd45-d1c4-5338-7b7af4025df9

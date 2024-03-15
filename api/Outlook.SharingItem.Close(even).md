@@ -1,6 +1,5 @@
 ---
 title: SharingItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Close
 ms.assetid: 0d7aa2c4-d80d-5111-7b83-ae0693991260

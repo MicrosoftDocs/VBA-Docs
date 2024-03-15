@@ -3,7 +3,6 @@ title: DocumentItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1208
 f1_keywords:
 - vbaol11.chm1208
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.UserProperties
 ms.assetid: c2253136-5b4d-4f27-e7b5-93ed96b0f76f

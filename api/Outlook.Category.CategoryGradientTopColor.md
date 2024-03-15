@@ -3,7 +3,6 @@ title: Category.CategoryGradientTopColor property (Outlook)
 keywords: vbaol11.chm3267
 f1_keywords:
 - vbaol11.chm3267
-ms.prod: outlook
 api_name:
 - Outlook.Category.CategoryGradientTopColor
 ms.assetid: deb7a986-8afd-465c-ed8e-3cf669f96a35

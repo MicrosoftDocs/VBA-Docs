@@ -3,7 +3,6 @@ title: OlkControl.ControlProperty property (Outlook)
 keywords: vbaol11.chm1000503
 f1_keywords:
 - vbaol11.chm1000503
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.ControlProperty
 ms.assetid: 6bb723ae-5e4e-3b49-71ba-f56c15a24111

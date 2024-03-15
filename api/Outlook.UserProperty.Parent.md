@@ -3,7 +3,6 @@ title: UserProperty.Parent property (Outlook)
 keywords: vbaol11.chm216
 f1_keywords:
 - vbaol11.chm216
-ms.prod: outlook
 api_name:
 - Outlook.UserProperty.Parent
 ms.assetid: 8d584074-d3b0-ecbd-430e-afa083369773

@@ -1,6 +1,5 @@
 ---
 title: ReportItem.Reply event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Reply
 ms.assetid: e2f835e3-9f25-8cbb-3ba7-5b0e7e495c63

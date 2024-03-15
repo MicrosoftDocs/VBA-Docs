@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.Saved property (Outlook)
 keywords: vbaol11.chm1941
 f1_keywords:
 - vbaol11.chm1941
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Saved
 ms.assetid: c07deaad-2b93-671d-26aa-ec9d1a5a884e
