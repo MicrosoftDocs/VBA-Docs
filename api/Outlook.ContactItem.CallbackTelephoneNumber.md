@@ -3,7 +3,6 @@ title: ContactItem.CallbackTelephoneNumber property (Outlook)
 keywords: vbaol11.chm980
 f1_keywords:
 - vbaol11.chm980
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CallbackTelephoneNumber
 ms.assetid: 2750a396-a88d-c7f2-a353-ab7de2715339

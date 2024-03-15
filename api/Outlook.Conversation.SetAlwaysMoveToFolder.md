@@ -3,7 +3,6 @@ title: Conversation.SetAlwaysMoveToFolder method (Outlook)
 keywords: vbaol11.chm3430
 f1_keywords:
 - vbaol11.chm3430
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.SetAlwaysMoveToFolder
 ms.assetid: 52658b6d-c22c-a0e4-3743-4fe742bfbf9e

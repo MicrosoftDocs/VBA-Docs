@@ -3,7 +3,6 @@ title: AddressList.ResolutionOrder property (Outlook)
 keywords: vbaol11.chm2034
 f1_keywords:
 - vbaol11.chm2034
-ms.prod: outlook
 api_name:
 - Outlook.AddressList.ResolutionOrder
 ms.assetid: e92bd83f-349b-d6e7-a5fb-7a6d893406a0

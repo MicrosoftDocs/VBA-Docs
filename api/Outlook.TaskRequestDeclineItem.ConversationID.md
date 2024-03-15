@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3503
 f1_keywords:
 - vbaol11.chm3503
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.ConversationID
 ms.assetid: 14638aa8-8e39-bde9-19d1-3f082f57c9e2

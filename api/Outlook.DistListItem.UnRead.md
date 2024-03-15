@@ -3,7 +3,6 @@ title: DistListItem.UnRead property (Outlook)
 keywords: vbaol11.chm1138
 f1_keywords:
 - vbaol11.chm1138
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.UnRead
 ms.assetid: b9503cfa-03c8-d881-daf3-1d1d4256ab6f

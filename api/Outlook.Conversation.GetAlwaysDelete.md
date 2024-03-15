@@ -3,7 +3,6 @@ title: Conversation.GetAlwaysDelete method (Outlook)
 keywords: vbaol11.chm3440
 f1_keywords:
 - vbaol11.chm3440
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.GetAlwaysDelete
 ms.assetid: 95843bf3-7fff-fab0-ca7b-014ba290d718

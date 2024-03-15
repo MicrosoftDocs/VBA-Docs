@@ -3,7 +3,6 @@ title: Folders.Add method (Outlook)
 keywords: vbaol11.chm46
 f1_keywords:
 - vbaol11.chm46
-ms.prod: outlook
 api_name:
 - Outlook.Folders.Add
 ms.assetid: 20ced7ad-779c-a9b0-267e-6d729c0eb822

@@ -3,7 +3,6 @@ title: TimelineView.MaxLabelWidth property (Outlook)
 keywords: vbaol11.chm2665
 f1_keywords:
 - vbaol11.chm2665
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.MaxLabelWidth
 ms.assetid: b97e4104-89d8-c8a6-598e-7397cf47f320
