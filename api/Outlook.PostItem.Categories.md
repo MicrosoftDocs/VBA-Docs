@@ -3,7 +3,6 @@ title: PostItem.Categories property (Outlook)
 keywords: vbaol11.chm1517
 f1_keywords:
 - vbaol11.chm1517
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Categories
 ms.assetid: 6ecad980-eedd-b27a-1677-f8027adb6de8

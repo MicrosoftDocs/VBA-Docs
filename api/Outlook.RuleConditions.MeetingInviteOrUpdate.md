@@ -3,7 +3,6 @@ title: RuleConditions.MeetingInviteOrUpdate property (Outlook)
 keywords: vbaol11.chm2305
 f1_keywords:
 - vbaol11.chm2305
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.MeetingInviteOrUpdate
 ms.assetid: 0204dfdb-bf93-db11-3550-3b23fdec47c9

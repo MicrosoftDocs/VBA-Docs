@@ -3,7 +3,6 @@ title: OLE Programmatic Identifiers (Outlook)
 keywords: vbaol11.chm5247509
 f1_keywords:
 - vbaol11.chm5247509
-ms.prod: outlook
 ms.assetid: 4dc61073-a674-b786-418e-60b46c79d0c6
 ms.date: 06/08/2019
 ms.localizationpriority: medium

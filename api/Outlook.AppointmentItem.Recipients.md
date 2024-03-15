@@ -3,7 +3,6 @@ title: AppointmentItem.Recipients property (Outlook)
 keywords: vbaol11.chm890
 f1_keywords:
 - vbaol11.chm890
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Recipients
 ms.assetid: 4fc824fb-b046-558c-7aa7-28586cd11a7d

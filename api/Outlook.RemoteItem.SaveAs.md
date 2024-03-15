@@ -3,7 +3,6 @@ title: RemoteItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1619
 f1_keywords:
 - vbaol11.chm1619
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.SaveAs
 ms.assetid: 1c2c7b68-5239-05f8-4291-d2584fe95194

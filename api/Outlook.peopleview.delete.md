@@ -5,7 +5,6 @@ f1_keywords:
 - vbaol11.chm3575
 ms.assetid: 1acbfeb6-672c-899f-c02c-c7fa818af8a4
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 
