@@ -3,7 +3,6 @@ title: TaskItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1762
 f1_keywords:
 - vbaol11.chm1762
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.InternetCodepage
 ms.assetid: a9186d58-a6b3-8269-56ab-105456883283

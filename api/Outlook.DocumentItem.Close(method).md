@@ -3,7 +3,6 @@ title: DocumentItem.Close method (Outlook)
 keywords: vbaol11.chm1209
 f1_keywords:
 - vbaol11.chm1209
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Close
 ms.assetid: 400d28a9-bdae-0885-8eac-98e4ff6eac4b

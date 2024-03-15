@@ -3,7 +3,6 @@ title: ContactItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1104
 f1_keywords:
 - vbaol11.chm1104
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReminderOverrideDefault
 ms.assetid: 08e77dff-b325-c565-746a-e47e4d66ed77

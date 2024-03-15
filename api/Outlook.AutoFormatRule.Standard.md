@@ -3,7 +3,6 @@ title: AutoFormatRule.Standard property (Outlook)
 keywords: vbaol11.chm2711
 f1_keywords:
 - vbaol11.chm2711
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRule.Standard
 ms.assetid: 11ba1f61-132a-11ba-529e-b38f7cb6ec57

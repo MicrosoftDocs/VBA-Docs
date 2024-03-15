@@ -3,7 +3,6 @@ title: SharingItem.FormDescription property (Outlook)
 keywords: vbaol11.chm607
 f1_keywords:
 - vbaol11.chm607
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.FormDescription
 ms.assetid: 4dad7fc2-8652-f887-5523-60cd7cad1229

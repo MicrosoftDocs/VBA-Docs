@@ -3,7 +3,6 @@ title: Conversation.GetChildren method (Outlook)
 keywords: vbaol11.chm3391
 f1_keywords:
 - vbaol11.chm3391
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.GetChildren
 ms.assetid: bc68ccd6-9d3c-c404-72b0-a21dbc99ed63

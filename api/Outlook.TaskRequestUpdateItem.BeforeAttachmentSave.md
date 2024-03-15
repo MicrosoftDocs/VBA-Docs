@@ -1,6 +1,5 @@
 ---
 title: TaskRequestUpdateItem.BeforeAttachmentSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.BeforeAttachmentSave
 ms.assetid: 2d036604-6ca6-32b7-177d-e735714a01ad
