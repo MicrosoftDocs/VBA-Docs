@@ -3,7 +3,6 @@ title: OutlookBarPane.Parent property (Outlook)
 keywords: vbaol11.chm362
 f1_keywords:
 - vbaol11.chm362
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.Parent
 ms.assetid: a5287c13-2c7d-4e1c-0752-57367cfcb4b8

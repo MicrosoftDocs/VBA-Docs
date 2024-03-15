@@ -3,7 +3,6 @@ title: Columns.Count property (Outlook)
 keywords: vbaol11.chm2739
 f1_keywords:
 - vbaol11.chm2739
-ms.prod: outlook
 api_name:
 - Outlook.Columns.Count
 ms.assetid: 5e39029a-7918-8e6e-3cda-6ebd976d87de

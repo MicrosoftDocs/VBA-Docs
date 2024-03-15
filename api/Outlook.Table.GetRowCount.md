@@ -3,7 +3,6 @@ title: Table.GetRowCount method (Outlook)
 keywords: vbaol11.chm2232
 f1_keywords:
 - vbaol11.chm2232
-ms.prod: outlook
 api_name:
 - Outlook.Table.GetRowCount
 ms.assetid: 06014c43-700a-8502-bad7-b3f93a22e870

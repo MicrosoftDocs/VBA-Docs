@@ -3,7 +3,6 @@ title: ReportItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1644
 f1_keywords:
 - vbaol11.chm1644
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.ConversationIndex
 ms.assetid: c70ebc07-c07d-963c-b757-01035ded7be9

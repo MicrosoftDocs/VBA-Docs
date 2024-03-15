@@ -1,6 +1,5 @@
 ---
 title: Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders
-ms.prod: outlook
 ms.assetid: e579e026-bd10-37bb-eb3e-5c9f042fa0fa
 ms.date: 06/08/2019
 ms.localizationpriority: medium

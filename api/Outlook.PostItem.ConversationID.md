@@ -3,7 +3,6 @@ title: PostItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3473
 f1_keywords:
 - vbaol11.chm3473
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.ConversationID
 ms.assetid: 102f64a0-2188-3731-eb13-95bc41da4e37

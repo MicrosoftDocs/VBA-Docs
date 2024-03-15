@@ -3,7 +3,6 @@ title: OlSelectionContents enumeration (Outlook)
 keywords: vbaol11.chm3530
 f1_keywords:
 - vbaol11.chm3530
-ms.prod: outlook
 api_name:
 - Outlook.OlSelectionContents
 ms.assetid: bb755f39-ec6b-38e7-5fc3-472ee4af7f85

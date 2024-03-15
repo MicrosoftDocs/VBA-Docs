@@ -3,7 +3,6 @@ title: AutoFormatRule.Enabled property (Outlook)
 keywords: vbaol11.chm2709
 f1_keywords:
 - vbaol11.chm2709
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRule.Enabled
 ms.assetid: b3a99916-83b8-68b8-5541-e4db7d0c9bb1

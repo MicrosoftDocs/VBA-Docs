@@ -3,7 +3,6 @@ title: SyncObject.Parent property (Outlook)
 keywords: vbaol11.chm106
 f1_keywords:
 - vbaol11.chm106
-ms.prod: outlook
 api_name:
 - Outlook.SyncObject.Parent
 ms.assetid: 9fa0ab25-581a-44f3-0cc3-67e2d83f313d

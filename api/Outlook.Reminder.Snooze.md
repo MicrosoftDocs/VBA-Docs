@@ -3,7 +3,6 @@ title: Reminder.Snooze method (Outlook)
 keywords: vbaol11.chm559
 f1_keywords:
 - vbaol11.chm559
-ms.prod: outlook
 api_name:
 - Outlook.Reminder.Snooze
 ms.assetid: bb417d32-d69b-7f9d-4ca3-b85888421e7b

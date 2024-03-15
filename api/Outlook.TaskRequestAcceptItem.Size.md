@@ -3,7 +3,6 @@ title: TaskRequestAcceptItem.Size property (Outlook)
 keywords: vbaol11.chm1796
 f1_keywords:
 - vbaol11.chm1796
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.Size
 ms.assetid: 84a6b5dd-bab6-e5e0-74e4-27c76999ec12

@@ -3,7 +3,6 @@ title: Account.AutoDiscoverXml property (Outlook)
 keywords: vbaol11.chm3422
 f1_keywords:
 - vbaol11.chm3422
-ms.prod: outlook
 api_name:
 - Outlook.Account.AutoDiscoverXml
 ms.assetid: 201c5aba-5cff-0934-a750-b4ac0cb30860

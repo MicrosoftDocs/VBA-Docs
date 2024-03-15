@@ -3,7 +3,6 @@ title: SelectNamesDialog.CcLabel property (Outlook)
 keywords: vbaol11.chm829
 f1_keywords:
 - vbaol11.chm829
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.CcLabel
 ms.assetid: b28def6f-725c-ba65-cf7f-4abbc7ba3cb8

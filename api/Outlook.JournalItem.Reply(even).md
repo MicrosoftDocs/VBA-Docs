@@ -1,6 +1,5 @@
 ---
 title: JournalItem.Reply event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Reply
 ms.assetid: 168dd186-a2e0-b267-6b81-4f1f5714b554

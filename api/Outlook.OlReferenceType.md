@@ -3,7 +3,6 @@ title: OlReferenceType enumeration (Outlook)
 keywords: vbaol11.chm3149
 f1_keywords:
 - vbaol11.chm3149
-ms.prod: outlook
 api_name:
 - Outlook.OlReferenceType
 ms.assetid: 514402d6-bc10-e2f3-303c-ced983206db6

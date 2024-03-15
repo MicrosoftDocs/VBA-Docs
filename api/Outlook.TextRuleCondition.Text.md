@@ -3,7 +3,6 @@ title: TextRuleCondition.Text property (Outlook)
 keywords: vbaol11.chm2478
 f1_keywords:
 - vbaol11.chm2478
-ms.prod: outlook
 api_name:
 - Outlook.TextRuleCondition.Text
 ms.assetid: 615f47e9-2c43-a473-33f6-46765ccd3903
