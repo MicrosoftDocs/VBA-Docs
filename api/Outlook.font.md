@@ -1,6 +1,5 @@
 ---
 title: Font object (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 490830cf-9278-eb83-5c4b-82b03c91761b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

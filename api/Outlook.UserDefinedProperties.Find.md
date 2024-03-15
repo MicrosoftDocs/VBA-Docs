@@ -3,7 +3,6 @@ title: UserDefinedProperties.Find method (Outlook)
 keywords: vbaol11.chm589
 f1_keywords:
 - vbaol11.chm589
-ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Find
 ms.assetid: 1f4ddf1f-b36d-e852-17ff-700708893a30

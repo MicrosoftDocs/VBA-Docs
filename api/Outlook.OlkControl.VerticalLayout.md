@@ -3,7 +3,6 @@ title: OlkControl.VerticalLayout property (Outlook)
 keywords: vbaol11.chm1000541
 f1_keywords:
 - vbaol11.chm1000541
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.VerticalLayout
 ms.assetid: 1e718012-f00b-24c5-386d-59d5ac5eedf7

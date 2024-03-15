@@ -1,6 +1,5 @@
 ---
 title: ContactItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeCheckNames
 ms.assetid: 7ad6f4cd-d993-2c5b-ebce-8a3561c39a54

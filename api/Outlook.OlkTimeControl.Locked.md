@@ -3,7 +3,6 @@ title: OlkTimeControl.Locked property (Outlook)
 keywords: vbaol11.chm1000388
 f1_keywords:
 - vbaol11.chm1000388
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.Locked
 ms.assetid: 3e448a76-c4cd-1f39-0989-b8bba93e719b

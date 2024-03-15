@@ -1,6 +1,5 @@
 ---
 title: Disable a Standard Reply Form
-ms.prod: outlook
 ms.assetid: b1a3f8fc-6400-9ae8-dab2-a4875ccaf92b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

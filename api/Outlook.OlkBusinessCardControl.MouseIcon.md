@@ -3,7 +3,6 @@ title: OlkBusinessCardControl.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000324
 f1_keywords:
 - vbaol11.chm1000324
-ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl.MouseIcon
 ms.assetid: 374e68c6-d4bd-3588-aa34-0c5577297d58
