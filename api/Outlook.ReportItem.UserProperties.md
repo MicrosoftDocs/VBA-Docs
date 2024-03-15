@@ -3,7 +3,6 @@ title: ReportItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1663
 f1_keywords:
 - vbaol11.chm1663
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.UserProperties
 ms.assetid: a42224a1-ab82-7533-2c75-882f99f49e8b

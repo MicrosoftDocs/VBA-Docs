@@ -3,7 +3,6 @@ title: TaskItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm1737
 f1_keywords:
 - vbaol11.chm1737
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ReminderPlaySound
 ms.assetid: 22698193-bc36-c2fb-3ee1-d04d1e3a15a6

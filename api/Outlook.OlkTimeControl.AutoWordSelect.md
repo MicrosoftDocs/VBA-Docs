@@ -3,7 +3,6 @@ title: OlkTimeControl.AutoWordSelect property (Outlook)
 keywords: vbaol11.chm1000379
 f1_keywords:
 - vbaol11.chm1000379
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.AutoWordSelect
 ms.assetid: 272102e8-d40e-faf1-e91e-6e1b74b8f9bd

@@ -3,7 +3,6 @@ title: Row.Application property (Outlook)
 keywords: vbaol11.chm2239
 f1_keywords:
 - vbaol11.chm2239
-ms.prod: outlook
 api_name:
 - Outlook.Row.Application
 ms.assetid: f4a44df2-b431-c821-d697-778b9a899073

@@ -3,7 +3,6 @@ title: UserDefinedProperties.Count property (Outlook)
 keywords: vbaol11.chm586
 f1_keywords:
 - vbaol11.chm586
-ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Count
 ms.assetid: 675c5b77-75cc-05ca-ae78-a7c8154ca5dd

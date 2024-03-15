@@ -3,7 +3,6 @@ title: Results.ItemChange event (Outlook)
 keywords: vbaol11.chm515
 f1_keywords:
 - vbaol11.chm515
-ms.prod: outlook
 api_name:
 - Outlook.Results.ItemChange
 ms.assetid: 14c96a47-00b8-6160-f1aa-386947ef50d1

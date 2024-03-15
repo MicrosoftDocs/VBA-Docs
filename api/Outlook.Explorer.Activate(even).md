@@ -3,7 +3,6 @@ title: Explorer.Activate event (Outlook)
 keywords: vbaol11.chm449
 f1_keywords:
 - vbaol11.chm449
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Activate
 ms.assetid: 8543d347-baf5-cdc9-2366-11c9917e035e

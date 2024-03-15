@@ -3,7 +3,6 @@ title: Category.Class property (Outlook)
 keywords: vbaol11.chm2423
 f1_keywords:
 - vbaol11.chm2423
-ms.prod: outlook
 api_name:
 - Outlook.Category.Class
 ms.assetid: 8150d12a-82af-9e5c-5d43-5084b0d6b364

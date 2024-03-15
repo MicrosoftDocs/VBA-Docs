@@ -3,7 +3,6 @@ title: PostItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1528
 f1_keywords:
 - vbaol11.chm1528
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.MessageClass
 ms.assetid: 4f5064a7-0de0-025b-56f9-3c29c4741e5a

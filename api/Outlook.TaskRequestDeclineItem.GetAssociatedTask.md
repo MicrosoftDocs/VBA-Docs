@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.GetAssociatedTask method (Outlook)
 keywords: vbaol11.chm1857
 f1_keywords:
 - vbaol11.chm1857
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.GetAssociatedTask
 ms.assetid: 4d92d092-b8b8-4378-1193-8b7f17b9dacb

@@ -3,7 +3,6 @@ title: NameSpace.ExchangeMailboxServerVersion property (Outlook)
 keywords: vbaol11.chm792
 f1_keywords:
 - vbaol11.chm792
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.ExchangeMailboxServerVersion
 ms.assetid: 01e83a30-f574-1ff6-34de-85c14ecc09c1

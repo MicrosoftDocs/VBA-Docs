@@ -3,7 +3,6 @@ title: OlkLabel.MouseMove event (Outlook)
 keywords: vbaol11.chm1000105
 f1_keywords:
 - vbaol11.chm1000105
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.MouseMove
 ms.assetid: b956ea54-96cb-d5d1-e542-ea9f464117c7

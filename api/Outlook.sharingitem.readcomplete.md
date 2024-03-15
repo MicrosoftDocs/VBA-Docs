@@ -2,7 +2,6 @@
 title: SharingItem.ReadComplete event (Outlook)
 ms.assetid: 2ba4a409-74ab-9514-552c-c62a78457b8e
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 

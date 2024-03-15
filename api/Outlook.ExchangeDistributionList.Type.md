@@ -3,7 +3,6 @@ title: ExchangeDistributionList.Type property (Outlook)
 keywords: vbaol11.chm2119
 f1_keywords:
 - vbaol11.chm2119
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Type
 ms.assetid: df302cef-7dcb-805d-3739-4dce32cfee59

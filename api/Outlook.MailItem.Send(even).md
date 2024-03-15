@@ -1,6 +1,5 @@
 ---
 title: MailItem.Send event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Send
 ms.assetid: 5acd0507-a96e-7235-e6a5-f31a4c0b7420

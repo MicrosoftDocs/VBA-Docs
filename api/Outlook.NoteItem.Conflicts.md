@@ -3,7 +3,6 @@ title: NoteItem.Conflicts property (Outlook)
 keywords: vbaol11.chm1506
 f1_keywords:
 - vbaol11.chm1506
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Conflicts
 ms.assetid: bbdc6f58-c3ed-1690-818a-d26cef6479dc

@@ -3,7 +3,6 @@ title: Application.Version property (Outlook)
 keywords: vbaol11.chm711
 f1_keywords:
 - vbaol11.chm711
-ms.prod: outlook
 api_name:
 - Outlook.Application.Version
 ms.assetid: 08a74ab8-7e02-3956-1827-4b6690acdec1

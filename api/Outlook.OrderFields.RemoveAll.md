@@ -3,7 +3,6 @@ title: OrderFields.RemoveAll method (Outlook)
 keywords: vbaol11.chm2680
 f1_keywords:
 - vbaol11.chm2680
-ms.prod: outlook
 api_name:
 - Outlook.OrderFields.RemoveAll
 ms.assetid: 181c99a5-e7bd-ed9f-fae7-6d68de500b01

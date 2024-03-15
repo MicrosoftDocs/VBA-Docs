@@ -3,7 +3,6 @@ title: OlkTextBox.EnterFieldBehavior property (Outlook)
 keywords: vbaol11.chm1000043
 f1_keywords:
 - vbaol11.chm1000043
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.EnterFieldBehavior
 ms.assetid: ac3b1285-baa0-403b-eebd-6207ea0ef4fd

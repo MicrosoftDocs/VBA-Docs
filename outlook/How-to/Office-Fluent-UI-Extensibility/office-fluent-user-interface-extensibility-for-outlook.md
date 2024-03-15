@@ -1,6 +1,5 @@
 ---
 title: Office Fluent User Interface Extensibility for Outlook
-ms.prod: outlook
 ms.assetid: 8496c52e-1f9d-16ef-2fd8-c1bca1a96816
 ms.date: 06/08/2019
 ms.localizationpriority: medium

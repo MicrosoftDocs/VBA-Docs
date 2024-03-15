@@ -3,7 +3,6 @@ title: OlkDateControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000359
 f1_keywords:
 - vbaol11.chm1000359
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.DropDown
 ms.assetid: 7668e185-ced8-6ca9-d89c-493f08d542c9

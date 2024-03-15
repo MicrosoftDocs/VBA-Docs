@@ -3,7 +3,6 @@ title: Explorer.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm458
 f1_keywords:
 - vbaol11.chm458
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeMinimize
 ms.assetid: 999b2bc3-99de-6dc8-81a2-dd25c8bc71c6

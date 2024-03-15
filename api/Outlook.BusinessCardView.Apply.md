@@ -3,7 +3,6 @@ title: BusinessCardView.Apply method (Outlook)
 keywords: vbaol11.chm2921
 f1_keywords:
 - vbaol11.chm2921
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Apply
 ms.assetid: 4a64b59e-0d52-8439-30bb-32d0624cf28a

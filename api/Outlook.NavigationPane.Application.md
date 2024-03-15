@@ -3,7 +3,6 @@ title: NavigationPane.Application property (Outlook)
 keywords: vbaol11.chm2786
 f1_keywords:
 - vbaol11.chm2786
-ms.prod: outlook
 api_name:
 - Outlook.NavigationPane.Application
 ms.assetid: 04c4060d-2e49-2369-db58-462e7464bedc

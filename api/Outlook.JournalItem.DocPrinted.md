@@ -3,7 +3,6 @@ title: JournalItem.DocPrinted property (Outlook)
 keywords: vbaol11.chm1267
 f1_keywords:
 - vbaol11.chm1267
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.DocPrinted
 ms.assetid: 3c3e16d2-42bd-587b-0f5c-8c1074dbe9a8

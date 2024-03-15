@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.KeyPress event (Outlook)
 keywords: vbaol11.chm1000524
 f1_keywords:
 - vbaol11.chm1000524
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.KeyPress
 ms.assetid: 4b6f04be-85c2-70f8-001f-30f008fb9b4a

@@ -3,7 +3,6 @@ title: Exception.Application property (Outlook)
 keywords: vbaol11.chm297
 f1_keywords:
 - vbaol11.chm297
-ms.prod: outlook
 api_name:
 - Outlook.Exception.Application
 ms.assetid: e720c87d-0ad7-fd28-8ba0-58fa0f72a6f4

@@ -3,7 +3,6 @@ title: OlkTimeControl.AutoSize property (Outlook)
 keywords: vbaol11.chm1000378
 f1_keywords:
 - vbaol11.chm1000378
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.AutoSize
 ms.assetid: 13b23cae-3e15-5ed2-aa0e-bab7f1a6e3ea

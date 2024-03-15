@@ -3,7 +3,6 @@ title: Height Property (Outlook Controls)
 keywords: olfm10.chm2001250
 f1_keywords:
 - olfm10.chm2001250
-ms.prod: outlook
 ms.assetid: 370ce19c-d0d7-3445-9e20-4f6120c40a44
 ms.date: 06/08/2019
 ms.localizationpriority: medium

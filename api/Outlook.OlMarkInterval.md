@@ -3,7 +3,6 @@ title: OlMarkInterval enumeration (Outlook)
 keywords: vbaol11.chm3115
 f1_keywords:
 - vbaol11.chm3115
-ms.prod: outlook
 api_name:
 - Outlook.OlMarkInterval
 ms.assetid: a653146c-8a28-72dd-4ca7-98d8454c6f1f

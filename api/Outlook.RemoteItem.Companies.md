@@ -3,7 +3,6 @@ title: RemoteItem.Companies property (Outlook)
 keywords: vbaol11.chm1591
 f1_keywords:
 - vbaol11.chm1591
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Companies
 ms.assetid: f1394ba5-c9e8-8cc0-587e-efb1bd39d81a

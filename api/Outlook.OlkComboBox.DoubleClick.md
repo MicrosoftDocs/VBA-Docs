@@ -3,7 +3,6 @@ title: OlkComboBox.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000236
 f1_keywords:
 - vbaol11.chm1000236
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.DoubleClick
 ms.assetid: 0cafb918-e787-325a-f9ac-45cf0d8ff5d9

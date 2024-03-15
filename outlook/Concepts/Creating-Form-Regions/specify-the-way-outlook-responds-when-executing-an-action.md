@@ -1,6 +1,5 @@
 ---
 title: Specify the Way Outlook Responds When Executing an Action
-ms.prod: outlook
 ms.assetid: a2ea8dc3-728c-141b-42af-9b0a3c764a4a
 ms.date: 09/08/2021
 ms.localizationpriority: medium

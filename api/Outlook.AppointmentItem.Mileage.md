@@ -3,7 +3,6 @@ title: AppointmentItem.Mileage property (Outlook)
 keywords: vbaol11.chm858
 f1_keywords:
 - vbaol11.chm858
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Mileage
 ms.assetid: 4562097b-3489-768c-f808-84249e030aab

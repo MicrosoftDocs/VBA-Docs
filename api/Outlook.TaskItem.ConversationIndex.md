@@ -3,7 +3,6 @@ title: TaskItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1692
 f1_keywords:
 - vbaol11.chm1692
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ConversationIndex
 ms.assetid: d64f52ce-6657-67bc-a3d6-d2a90155d013

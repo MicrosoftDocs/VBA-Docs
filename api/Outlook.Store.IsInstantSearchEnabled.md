@@ -3,7 +3,6 @@ title: Store.IsInstantSearchEnabled property (Outlook)
 keywords: vbaol11.chm3264
 f1_keywords:
 - vbaol11.chm3264
-ms.prod: outlook
 api_name:
 - Outlook.Store.IsInstantSearchEnabled
 ms.assetid: 0fba75cc-c506-157b-7dfa-ec438e932f5c

@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.ReplyAll event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ReplyAll
 ms.assetid: d93bd51d-a169-0007-4188-4fff829dbb1e

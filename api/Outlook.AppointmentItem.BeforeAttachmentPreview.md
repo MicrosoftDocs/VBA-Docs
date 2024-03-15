@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.BeforeAttachmentPreview event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAttachmentPreview
 ms.assetid: 8a78394e-cc83-f965-4c28-83c574282c44

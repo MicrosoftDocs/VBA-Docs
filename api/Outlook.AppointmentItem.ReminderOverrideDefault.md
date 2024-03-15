@@ -3,7 +3,6 @@ title: AppointmentItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm893
 f1_keywords:
 - vbaol11.chm893
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReminderOverrideDefault
 ms.assetid: 08c20608-6065-1e4a-8c89-8aa35c682c77

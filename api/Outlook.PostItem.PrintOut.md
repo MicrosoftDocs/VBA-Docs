@@ -3,7 +3,6 @@ title: PostItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1544
 f1_keywords:
 - vbaol11.chm1544
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.PrintOut
 ms.assetid: 0df3d786-a687-68c2-1226-20648f7f5179

@@ -3,7 +3,6 @@ title: Column.Application property (Outlook)
 keywords: vbaol11.chm2745
 f1_keywords:
 - vbaol11.chm2745
-ms.prod: outlook
 api_name:
 - Outlook.Column.Application
 ms.assetid: e44db439-005b-9e9e-2781-79ffcf94be85

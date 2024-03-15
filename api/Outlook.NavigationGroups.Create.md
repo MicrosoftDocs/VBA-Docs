@@ -3,7 +3,6 @@ title: NavigationGroups.Create method (Outlook)
 keywords: vbaol11.chm2858
 f1_keywords:
 - vbaol11.chm2858
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.Create
 ms.assetid: 5f2bdcfc-4748-4170-7214-bcadc9e3dc36

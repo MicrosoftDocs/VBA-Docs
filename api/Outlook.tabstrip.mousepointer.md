@@ -1,6 +1,5 @@
 ---
 title: TabStrip.MousePointer Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 03e90301-49a7-535f-e047-814ebe4f1fe4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

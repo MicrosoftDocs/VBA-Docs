@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAutoSave
 ms.assetid: 59de272e-a36a-e842-a962-03ebe2befa26

@@ -1,6 +1,5 @@
 ---
 title: TaskItem.Send event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Send
 ms.assetid: f634105e-5351-6941-e915-ec63cd703b67

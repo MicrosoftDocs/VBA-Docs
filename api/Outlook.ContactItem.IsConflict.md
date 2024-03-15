@@ -3,7 +3,6 @@ title: ContactItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1087
 f1_keywords:
 - vbaol11.chm1087
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.IsConflict
 ms.assetid: 35ff3a52-2d2a-458f-3e16-4a8f674bb0fa

@@ -1,6 +1,5 @@
 ---
 title: ReportItem.CustomPropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.CustomPropertyChange
 ms.assetid: 8b75f239-a3c2-01fc-1b94-84b2b680a420

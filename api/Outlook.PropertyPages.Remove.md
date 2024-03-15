@@ -3,7 +3,6 @@ title: PropertyPages.Remove method (Outlook)
 keywords: vbaol11.chm168
 f1_keywords:
 - vbaol11.chm168
-ms.prod: outlook
 api_name:
 - Outlook.PropertyPages.Remove
 ms.assetid: 5d728d8c-d95e-5e14-743b-6890de5b542c

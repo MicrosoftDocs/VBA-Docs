@@ -3,7 +3,6 @@ title: SelectNamesDialog.AllowMultipleSelection property (Outlook)
 keywords: vbaol11.chm831
 f1_keywords:
 - vbaol11.chm831
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.AllowMultipleSelection
 ms.assetid: e8b67f2a-b6c1-16af-6762-801536d4f93f

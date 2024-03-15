@@ -3,7 +3,6 @@ title: MailModule.Visible property (Outlook)
 keywords: vbaol11.chm2819
 f1_keywords:
 - vbaol11.chm2819
-ms.prod: outlook
 api_name:
 - Outlook.MailModule.Visible
 ms.assetid: 6e1d07fe-1551-e5db-13b6-76d07c965a99

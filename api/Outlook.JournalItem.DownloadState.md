@@ -3,7 +3,6 @@ title: JournalItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1281
 f1_keywords:
 - vbaol11.chm1281
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.DownloadState
 ms.assetid: 15e33864-45fc-4c92-2a73-fc2b2956337d

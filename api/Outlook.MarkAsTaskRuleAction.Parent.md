@@ -3,7 +3,6 @@ title: MarkAsTaskRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2282
 f1_keywords:
 - vbaol11.chm2282
-ms.prod: outlook
 api_name:
 - Outlook.MarkAsTaskRuleAction.Parent
 ms.assetid: 60ba1752-bffb-46b6-8f23-c67faf7b2917

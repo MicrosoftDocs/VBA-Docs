@@ -3,7 +3,6 @@ title: Attachment.PathName property (Outlook)
 keywords: vbaol11.chm2369
 f1_keywords:
 - vbaol11.chm2369
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.PathName
 ms.assetid: 19ecbb05-11f0-2e35-eb3d-f60bce6b1357

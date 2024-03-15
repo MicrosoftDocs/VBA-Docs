@@ -3,7 +3,6 @@ title: Results.GetLast method (Outlook)
 keywords: vbaol11.chm506
 f1_keywords:
 - vbaol11.chm506
-ms.prod: outlook
 api_name:
 - Outlook.Results.GetLast
 ms.assetid: 90a50739-b9a9-92de-516b-1cd9f3fe8d50

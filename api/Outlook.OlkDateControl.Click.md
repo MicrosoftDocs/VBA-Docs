@@ -3,7 +3,6 @@ title: OlkDateControl.Click event (Outlook)
 keywords: vbaol11.chm1000362
 f1_keywords:
 - vbaol11.chm1000362
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.Click
 ms.assetid: ec2483b8-0fe1-de86-dc01-9cafbde31e44

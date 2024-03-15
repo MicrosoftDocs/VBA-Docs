@@ -3,7 +3,6 @@ title: OlkComboBox.Cut method (Outlook)
 keywords: vbaol11.chm1000226
 f1_keywords:
 - vbaol11.chm1000226
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Cut
 ms.assetid: 4a0a5362-6b85-65e6-797d-9c34652c0980

@@ -3,7 +3,6 @@ title: DocumentItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1221
 f1_keywords:
 - vbaol11.chm1221
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.MarkForDownload
 ms.assetid: df0bbb89-0fb9-b536-aa8f-1ab074578b3e

@@ -3,7 +3,6 @@ title: JournalItem.Reply method (Outlook)
 keywords: vbaol11.chm1276
 f1_keywords:
 - vbaol11.chm1276
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Reply
 ms.assetid: de74bf54-a365-4d41-bfe9-abb3def52ece

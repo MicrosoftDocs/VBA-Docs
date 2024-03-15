@@ -3,7 +3,6 @@ title: MailItem.NoAging property (Outlook)
 keywords: vbaol11.chm1311
 f1_keywords:
 - vbaol11.chm1311
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.NoAging
 ms.assetid: d8559f9a-b0e5-03ce-febd-e2bd2ca033c9

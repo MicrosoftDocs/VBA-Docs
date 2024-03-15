@@ -3,7 +3,6 @@ title: ContactItem.PrimaryTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1060
 f1_keywords:
 - vbaol11.chm1060
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.PrimaryTelephoneNumber
 ms.assetid: be4fb227-597f-99ba-09b1-fdc4dbd5f60a

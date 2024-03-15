@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeAutoSave
 ms.assetid: 3aaf57a3-bcc2-d0ba-6fd9-d801452dc4ca

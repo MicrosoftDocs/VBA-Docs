@@ -3,7 +3,6 @@ title: ToOrFromRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2458
 f1_keywords:
 - vbaol11.chm2458
-ms.prod: outlook
 api_name:
 - Outlook.ToOrFromRuleCondition.Session
 ms.assetid: e2d878c2-ad46-c111-f2e6-9f9af04c1ca5

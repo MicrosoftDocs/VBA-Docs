@@ -3,7 +3,6 @@ title: RuleAction.Class property (Outlook)
 keywords: vbaol11.chm2202
 f1_keywords:
 - vbaol11.chm2202
-ms.prod: outlook
 api_name:
 - Outlook.RuleAction.Class
 ms.assetid: 7aa17ecc-c09d-292a-1fa8-fd5f05419ee3

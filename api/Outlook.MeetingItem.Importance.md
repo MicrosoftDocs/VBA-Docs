@@ -3,7 +3,6 @@ title: MeetingItem.Importance property (Outlook)
 keywords: vbaol11.chm1414
 f1_keywords:
 - vbaol11.chm1414
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Importance
 ms.assetid: f8dd738d-efd5-730d-f976-2f582b932db2

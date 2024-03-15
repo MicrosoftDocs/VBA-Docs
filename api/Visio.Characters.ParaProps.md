@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Characters.ParaProps property (Visio)
 
-Sets the paragraph property of a **Characters** object to a new value. Read/write.
+Sets the paragraph property of a **Characters** object to a new value. Write-only.
 
 
 ## Syntax

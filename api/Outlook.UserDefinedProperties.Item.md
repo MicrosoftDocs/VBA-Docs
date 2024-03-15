@@ -3,7 +3,6 @@ title: UserDefinedProperties.Item method (Outlook)
 keywords: vbaol11.chm587
 f1_keywords:
 - vbaol11.chm587
-ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperties.Item
 ms.assetid: 45f5ec00-00c6-2e90-68bc-6bcab79cada6

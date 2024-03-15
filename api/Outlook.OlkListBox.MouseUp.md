@@ -3,7 +3,6 @@ title: OlkListBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000284
 f1_keywords:
 - vbaol11.chm1000284
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.MouseUp
 ms.assetid: fe780997-6e80-2ea3-8510-125cc58edd6b

@@ -3,7 +3,6 @@ title: OlDefaultSelectNamesDisplayMode enumeration (Outlook)
 keywords: vbaol11.chm3107
 f1_keywords:
 - vbaol11.chm3107
-ms.prod: outlook
 api_name:
 - Outlook.OlDefaultSelectNamesDisplayMode
 ms.assetid: 4a9c2183-c704-fc4d-e3c8-32c53b9688bb

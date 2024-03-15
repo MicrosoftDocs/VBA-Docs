@@ -3,7 +3,6 @@ title: NoteItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1502
 f1_keywords:
 - vbaol11.chm1502
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.ItemProperties
 ms.assetid: a1e80257-4960-b650-23f6-8369e9e8684c

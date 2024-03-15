@@ -3,7 +3,6 @@ title: ViewFields.Class property (Outlook)
 keywords: vbaol11.chm2547
 f1_keywords:
 - vbaol11.chm2547
-ms.prod: outlook
 api_name:
 - Outlook.ViewFields.Class
 ms.assetid: 92780544-f851-1896-abdc-87bc754a6bdd

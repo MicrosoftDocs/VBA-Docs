@@ -3,7 +3,6 @@ title: OlkListBox.Click event (Outlook)
 keywords: vbaol11.chm1000280
 f1_keywords:
 - vbaol11.chm1000280
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Click
 ms.assetid: 69867870-0e4c-c0d4-57ad-28661cce95df

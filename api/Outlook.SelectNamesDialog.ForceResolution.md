@@ -3,7 +3,6 @@ title: SelectNamesDialog.ForceResolution property (Outlook)
 keywords: vbaol11.chm832
 f1_keywords:
 - vbaol11.chm832
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.ForceResolution
 ms.assetid: f859e464-8d06-f44c-e388-f6b6427bec1a

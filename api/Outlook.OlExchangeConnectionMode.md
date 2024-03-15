@@ -3,7 +3,6 @@ title: OlExchangeConnectionMode enumeration (Outlook)
 keywords: vbaol11.chm3098
 f1_keywords:
 - vbaol11.chm3098
-ms.prod: outlook
 api_name:
 - Outlook.OlExchangeConnectionMode
 ms.assetid: ab43999d-f578-65ab-1f3d-455c66022901

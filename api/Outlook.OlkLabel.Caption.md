@@ -3,7 +3,6 @@ title: OlkLabel.Caption property (Outlook)
 keywords: vbaol11.chm1000091
 f1_keywords:
 - vbaol11.chm1000091
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.Caption
 ms.assetid: 5ae233e4-e49f-9e2d-3542-fe36f6acd43a

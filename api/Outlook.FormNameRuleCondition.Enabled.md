@@ -3,7 +3,6 @@ title: FormNameRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2452
 f1_keywords:
 - vbaol11.chm2452
-ms.prod: outlook
 api_name:
 - Outlook.FormNameRuleCondition.Enabled
 ms.assetid: ddf66e35-05d0-4bda-c204-018a5c4b716b

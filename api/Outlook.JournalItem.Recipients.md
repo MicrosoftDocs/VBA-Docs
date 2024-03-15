@@ -3,7 +3,6 @@ title: JournalItem.Recipients property (Outlook)
 keywords: vbaol11.chm1273
 f1_keywords:
 - vbaol11.chm1273
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Recipients
 ms.assetid: a50275db-644a-48d3-f257-fec541d6b8b6

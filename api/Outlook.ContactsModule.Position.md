@@ -3,7 +3,6 @@ title: ContactsModule.Position property (Outlook)
 keywords: vbaol11.chm2838
 f1_keywords:
 - vbaol11.chm2838
-ms.prod: outlook
 api_name:
 - Outlook.ContactsModule.Position
 ms.assetid: 2e71509d-1e6a-f736-2560-40c1de67711c

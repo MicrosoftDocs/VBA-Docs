@@ -3,7 +3,6 @@ title: NavigationModules object (Outlook)
 keywords: vbaol11.chm3192
 f1_keywords:
 - vbaol11.chm3192
-ms.prod: outlook
 api_name:
 - Outlook.NavigationModules
 ms.assetid: 4b0743d3-0a21-488c-27b2-31ae07129a61

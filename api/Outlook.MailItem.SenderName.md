@@ -3,7 +3,6 @@ title: MailItem.SenderName property (Outlook)
 keywords: vbaol11.chm1357
 f1_keywords:
 - vbaol11.chm1357
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.SenderName
 ms.assetid: e3c133e6-c7a8-9004-969d-aa2a466f8486

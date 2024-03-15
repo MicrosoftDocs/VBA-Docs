@@ -3,7 +3,6 @@ title: Inspector.NewFormRegion method (Outlook)
 keywords: vbaol11.chm2981
 f1_keywords:
 - vbaol11.chm2981
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.NewFormRegion
 ms.assetid: a8f3c116-6e90-ce85-d160-2b48798b45cf

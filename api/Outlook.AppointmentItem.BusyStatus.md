@@ -3,7 +3,6 @@ title: AppointmentItem.BusyStatus property (Outlook)
 keywords: vbaol11.chm877
 f1_keywords:
 - vbaol11.chm877
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BusyStatus
 ms.assetid: 38a07f42-121d-86a4-68fe-0c508ddb265a

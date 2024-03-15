@@ -3,7 +3,6 @@ title: OlMultiLine enumeration (Outlook)
 keywords: vbaol11.chm3122
 f1_keywords:
 - vbaol11.chm3122
-ms.prod: outlook
 api_name:
 - Outlook.OlMultiLine
 ms.assetid: 9af600cc-7a46-64d2-7e78-958a8aafbe66

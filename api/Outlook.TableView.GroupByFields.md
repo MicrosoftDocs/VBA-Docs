@@ -3,7 +3,6 @@ title: TableView.GroupByFields property (Outlook)
 keywords: vbaol11.chm2518
 f1_keywords:
 - vbaol11.chm2518
-ms.prod: outlook
 api_name:
 - Outlook.TableView.GroupByFields
 ms.assetid: 42071d7b-0e41-c959-cb54-c49307d22a87

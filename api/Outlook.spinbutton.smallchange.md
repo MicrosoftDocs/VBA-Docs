@@ -1,6 +1,5 @@
 ---
 title: SpinButton.SmallChange Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 77e920e5-87ad-cad0-0c14-ac63cf5aa118
 ms.date: 06/08/2017
 ms.localizationpriority: medium

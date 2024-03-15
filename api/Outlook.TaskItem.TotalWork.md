@@ -3,7 +3,6 @@ title: TaskItem.TotalWork property (Outlook)
 keywords: vbaol11.chm1748
 f1_keywords:
 - vbaol11.chm1748
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.TotalWork
 ms.assetid: 3b940a69-f2b4-30d1-0027-49450f547b01

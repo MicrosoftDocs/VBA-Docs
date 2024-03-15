@@ -3,7 +3,6 @@ title: RemoteItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1601
 f1_keywords:
 - vbaol11.chm1601
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.MessageClass
 ms.assetid: cdb17ebc-ea8a-31b1-ef32-e9e4dda872c7

@@ -3,7 +3,6 @@ title: UserProperties.Count property (Outlook)
 keywords: vbaol11.chm207
 f1_keywords:
 - vbaol11.chm207
-ms.prod: outlook
 api_name:
 - Outlook.UserProperties.Count
 ms.assetid: 6e316d8a-68b5-f25a-c3d2-4d72a054b027

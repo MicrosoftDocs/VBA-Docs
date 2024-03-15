@@ -3,7 +3,6 @@ title: AppointmentItem.UserProperties property (Outlook)
 keywords: vbaol11.chm867
 f1_keywords:
 - vbaol11.chm867
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.UserProperties
 ms.assetid: d1245b91-62e9-78b8-9012-85c11959166c

@@ -3,7 +3,6 @@ title: ContactItem.MailingAddressStreet property (Outlook)
 keywords: vbaol11.chm1040
 f1_keywords:
 - vbaol11.chm1040
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.MailingAddressStreet
 ms.assetid: 8487bbf4-0d48-4224-9370-e4e78f100d09

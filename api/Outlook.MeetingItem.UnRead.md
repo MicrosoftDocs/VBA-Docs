@@ -3,7 +3,6 @@ title: MeetingItem.UnRead property (Outlook)
 keywords: vbaol11.chm1426
 f1_keywords:
 - vbaol11.chm1426
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.UnRead
 ms.assetid: 5d556f3d-96bd-fa20-cc96-37c98150079a

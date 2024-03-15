@@ -3,7 +3,6 @@ title: AppointmentItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm917
 f1_keywords:
 - vbaol11.chm917
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.MarkForDownload
 ms.assetid: 63fe552b-2721-2a9c-5fec-ad0d666065b6

@@ -3,7 +3,6 @@ title: TasksModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3245
 f1_keywords:
 - vbaol11.chm3245
-ms.prod: outlook
 api_name:
 - Outlook.TasksModule.NavigationModuleType
 ms.assetid: 6ca2b925-e526-08d2-8c87-fc3d041bec1a

@@ -3,7 +3,6 @@ title: TaskItem.Status property (Outlook)
 keywords: vbaol11.chm1744
 f1_keywords:
 - vbaol11.chm1744
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Status
 ms.assetid: fc575f57-0651-f620-89df-3bbaa89e019d

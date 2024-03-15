@@ -3,7 +3,6 @@ title: BusinessCardView.XML property (Outlook)
 keywords: vbaol11.chm2932
 f1_keywords:
 - vbaol11.chm2932
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.XML
 ms.assetid: da381070-28e8-bace-b15f-1c01a35491b8

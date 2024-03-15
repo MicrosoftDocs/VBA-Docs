@@ -3,7 +3,6 @@ title: CalendarView.Parent property (Outlook)
 keywords: vbaol11.chm2610
 f1_keywords:
 - vbaol11.chm2610
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Parent
 ms.assetid: 1510ebaf-a446-cedb-d910-0deddc18e664

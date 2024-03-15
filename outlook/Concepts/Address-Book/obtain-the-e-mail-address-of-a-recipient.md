@@ -1,6 +1,5 @@
 ---
 title: Obtain the Email Address of a Recipient
-ms.prod: outlook
 ms.assetid: b645c227-a7d2-2861-3bf7-4190a19abe81
 ms.date: 06/08/2019
 ms.localizationpriority: medium

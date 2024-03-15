@@ -3,7 +3,6 @@ title: Accounts.Application property (Outlook)
 keywords: vbaol11.chm745
 f1_keywords:
 - vbaol11.chm745
-ms.prod: outlook
 api_name:
 - Outlook.Accounts.Application
 ms.assetid: 2075d49d-c300-439f-96b5-8b69531be328

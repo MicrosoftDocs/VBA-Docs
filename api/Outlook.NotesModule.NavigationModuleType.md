@@ -3,7 +3,6 @@ title: NotesModule.NavigationModuleType property (Outlook)
 keywords: vbaol11.chm3235
 f1_keywords:
 - vbaol11.chm3235
-ms.prod: outlook
 api_name:
 - Outlook.NotesModule.NavigationModuleType
 ms.assetid: a22b7348-a2ed-76c4-f05b-e93e93cffce8

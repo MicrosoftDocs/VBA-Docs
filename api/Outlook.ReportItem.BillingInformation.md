@@ -3,7 +3,6 @@ title: ReportItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1640
 f1_keywords:
 - vbaol11.chm1640
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BillingInformation
 ms.assetid: 3241eac3-d93f-3686-2f2d-5619c967b7c2

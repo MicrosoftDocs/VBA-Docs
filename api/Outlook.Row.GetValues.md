@@ -3,7 +3,6 @@ title: Row.GetValues method (Outlook)
 keywords: vbaol11.chm2244
 f1_keywords:
 - vbaol11.chm2244
-ms.prod: outlook
 api_name:
 - Outlook.Row.GetValues
 ms.assetid: 1f92e0ab-9ba8-9cc6-51e8-05cc145a93bf

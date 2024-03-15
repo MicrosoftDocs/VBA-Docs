@@ -3,7 +3,6 @@ title: ContactItem.NetMeetingAlias property (Outlook)
 keywords: vbaol11.chm1044
 f1_keywords:
 - vbaol11.chm1044
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.NetMeetingAlias
 ms.assetid: ee7b35bb-7006-04f3-c98e-93d393630532

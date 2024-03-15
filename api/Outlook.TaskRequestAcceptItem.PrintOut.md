@@ -3,7 +3,6 @@ title: TaskRequestAcceptItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1805
 f1_keywords:
 - vbaol11.chm1805
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.PrintOut
 ms.assetid: e50ddde9-f81b-1f84-ef1e-8d4b71c7cb00

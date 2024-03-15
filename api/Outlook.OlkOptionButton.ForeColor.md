@@ -3,7 +3,6 @@ title: OlkOptionButton.ForeColor property (Outlook)
 keywords: vbaol11.chm1000171
 f1_keywords:
 - vbaol11.chm1000171
-ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.ForeColor
 ms.assetid: fbbbe118-42e3-d230-6c38-592b9bbb3cab

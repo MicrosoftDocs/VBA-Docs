@@ -1,6 +1,5 @@
 ---
 title: Change the Icons Associated with your Form
-ms.prod: outlook
 ms.assetid: 2c13a1ad-b901-cda4-9f14-ce3357ab98e3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.AttachmentRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.AttachmentRead
 ms.assetid: 50ec1cf8-98cc-390b-0080-74d6e145524d

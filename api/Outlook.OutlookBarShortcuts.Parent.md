@@ -3,7 +3,6 @@ title: OutlookBarShortcuts.Parent property (Outlook)
 keywords: vbaol11.chm332
 f1_keywords:
 - vbaol11.chm332
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.Parent
 ms.assetid: 3981b828-1286-2bbf-4edb-fd297f9540ce

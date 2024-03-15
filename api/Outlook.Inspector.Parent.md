@@ -3,7 +3,6 @@ title: Inspector.Parent property (Outlook)
 keywords: vbaol11.chm2960
 f1_keywords:
 - vbaol11.chm2960
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.Parent
 ms.assetid: 671b4d39-001f-6fca-6910-842932780def

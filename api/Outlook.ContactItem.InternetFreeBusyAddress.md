@@ -3,7 +3,6 @@ title: ContactItem.InternetFreeBusyAddress property (Outlook)
 keywords: vbaol11.chm1022
 f1_keywords:
 - vbaol11.chm1022
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.InternetFreeBusyAddress
 ms.assetid: b45fdf0f-1474-5a67-b628-f74e3c1aabb8

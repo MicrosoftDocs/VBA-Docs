@@ -3,7 +3,6 @@ title: MailItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3554
 f1_keywords:
 - vbaol11.chm3554
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.RTFBody
 ms.assetid: 93bfda4f-08fb-9527-6946-625546d7fb49

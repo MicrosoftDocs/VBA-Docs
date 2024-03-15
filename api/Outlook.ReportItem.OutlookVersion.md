@@ -3,7 +3,6 @@ title: ReportItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1657
 f1_keywords:
 - vbaol11.chm1657
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.OutlookVersion
 ms.assetid: 85b79531-6475-5403-8974-0c3cf836018b

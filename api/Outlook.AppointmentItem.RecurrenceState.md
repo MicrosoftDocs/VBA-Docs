@@ -3,7 +3,6 @@ title: AppointmentItem.RecurrenceState property (Outlook)
 keywords: vbaol11.chm891
 f1_keywords:
 - vbaol11.chm891
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.RecurrenceState
 ms.assetid: dd435d09-8cb0-8efe-c947-88c90951f64e

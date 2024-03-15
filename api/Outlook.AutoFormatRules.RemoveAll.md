@@ -3,7 +3,6 @@ title: AutoFormatRules.RemoveAll method (Outlook)
 keywords: vbaol11.chm2722
 f1_keywords:
 - vbaol11.chm2722
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.RemoveAll
 ms.assetid: 90039cda-a486-c855-32bc-a7d9f256a996

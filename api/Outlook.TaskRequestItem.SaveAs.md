@@ -3,7 +3,6 @@ title: TaskRequestItem.SaveAs method (Outlook)
 keywords: vbaol11.chm1905
 f1_keywords:
 - vbaol11.chm1905
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.SaveAs
 ms.assetid: 7a765ae6-6657-af34-c3ea-11348c2d501d

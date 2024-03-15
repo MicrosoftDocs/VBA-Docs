@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000528
 f1_keywords:
 - vbaol11.chm1000528
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.AfterUpdate
 ms.assetid: b34419cd-3df9-6855-032a-8ed7193a82fb

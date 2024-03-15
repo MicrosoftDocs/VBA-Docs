@@ -3,7 +3,6 @@ title: Recipient.Parent property (Outlook)
 keywords: vbaol11.chm2343
 f1_keywords:
 - vbaol11.chm2343
-ms.prod: outlook
 api_name:
 - Outlook.Recipient.Parent
 ms.assetid: fa37d562-af43-26f7-b446-fccf510e925a

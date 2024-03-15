@@ -3,7 +3,6 @@ title: RuleActions.MoveToFolder property (Outlook)
 keywords: vbaol11.chm2191
 f1_keywords:
 - vbaol11.chm2191
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.MoveToFolder
 ms.assetid: 6d9c577d-e022-72fc-45f2-bdda7a8761de

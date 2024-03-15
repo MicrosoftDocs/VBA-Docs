@@ -3,7 +3,6 @@ title: DistListItem.RemoveMember method (Outlook)
 keywords: vbaol11.chm1160
 f1_keywords:
 - vbaol11.chm1160
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.RemoveMember
 ms.assetid: 3c0984f9-69b9-42e1-a9c2-75c60c0d0e3a

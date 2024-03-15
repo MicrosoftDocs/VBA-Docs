@@ -1,6 +1,5 @@
 ---
 title: JournalItem.BeforeRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeRead
 ms.assetid: 698f28ba-04f4-e26e-e281-869b96563f56

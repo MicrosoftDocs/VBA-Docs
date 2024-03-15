@@ -3,7 +3,6 @@ title: NavigationFolder.IsRemovable property (Outlook)
 keywords: vbaol11.chm2908
 f1_keywords:
 - vbaol11.chm2908
-ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.IsRemovable
 ms.assetid: 9fff5f32-2ac4-5ed3-c6d5-10962de8b34f

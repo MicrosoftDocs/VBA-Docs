@@ -3,7 +3,6 @@ title: JournalItem.Body property (Outlook)
 keywords: vbaol11.chm1234
 f1_keywords:
 - vbaol11.chm1234
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Body
 ms.assetid: c6936b83-b0b0-9b05-eedd-1d32793ef1c9

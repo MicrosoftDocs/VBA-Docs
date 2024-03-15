@@ -3,7 +3,6 @@ title: OutlookBarPane.Name property (Outlook)
 keywords: vbaol11.chm365
 f1_keywords:
 - vbaol11.chm365
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.Name
 ms.assetid: fc948c3e-1029-b426-c906-bc66231fa653

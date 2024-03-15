@@ -3,7 +3,6 @@ title: NavigationGroups.Count property (Outlook)
 keywords: vbaol11.chm2856
 f1_keywords:
 - vbaol11.chm2856
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.Count
 ms.assetid: 6ce1885f-4269-0db6-5f99-00c8126fd52e

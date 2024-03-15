@@ -3,7 +3,6 @@ title: OlMailRecipientType enumeration (Outlook)
 keywords: vbaol11.chm3067
 f1_keywords:
 - vbaol11.chm3067
-ms.prod: outlook
 api_name:
 - Outlook.OlMailRecipientType
 ms.assetid: 5f3f584b-c188-5c93-20c3-4dde6f2cfc3b

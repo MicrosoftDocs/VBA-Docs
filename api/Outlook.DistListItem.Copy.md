@@ -3,7 +3,6 @@ title: DistListItem.Copy method (Outlook)
 keywords: vbaol11.chm1141
 f1_keywords:
 - vbaol11.chm1141
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Copy
 ms.assetid: c6d41be4-9c8f-a25e-9379-ef24876b6e9d

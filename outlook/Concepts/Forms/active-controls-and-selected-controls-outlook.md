@@ -1,6 +1,5 @@
 ---
 title: Active Controls and Selected Controls (Outlook)
-ms.prod: outlook
 ms.assetid: 3ce5a242-b950-0272-4a34-b1f84fc5a011
 ms.date: 02/07/2022
 ms.localizationpriority: medium

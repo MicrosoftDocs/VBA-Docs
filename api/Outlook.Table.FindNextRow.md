@@ -3,7 +3,6 @@ title: Table.FindNextRow method (Outlook)
 keywords: vbaol11.chm2229
 f1_keywords:
 - vbaol11.chm2229
-ms.prod: outlook
 api_name:
 - Outlook.Table.FindNextRow
 ms.assetid: e09019ca-e4bb-2597-7b9e-a56c1b5fce6c

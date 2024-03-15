@@ -3,7 +3,6 @@ title: Account.AccountType property (Outlook)
 keywords: vbaol11.chm740
 f1_keywords:
 - vbaol11.chm740
-ms.prod: outlook
 api_name:
 - Outlook.Account.AccountType
 ms.assetid: 7e59f240-512d-eb20-69b2-b88ee52a9d27

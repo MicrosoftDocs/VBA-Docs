@@ -3,7 +3,6 @@ title: Conversation.MarkAsUnread method (Outlook)
 keywords: vbaol11.chm3443
 f1_keywords:
 - vbaol11.chm3443
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.MarkAsUnread
 ms.assetid: a8f580cb-a518-c5ca-778c-7d52ec22d2da

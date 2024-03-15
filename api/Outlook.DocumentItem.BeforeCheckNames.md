@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeCheckNames
 ms.assetid: 0798f1bc-4a7e-7f85-0719-31f5f937cfc3

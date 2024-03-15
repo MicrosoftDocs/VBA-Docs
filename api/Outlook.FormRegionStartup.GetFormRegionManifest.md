@@ -3,7 +3,6 @@ title: FormRegionStartup.GetFormRegionManifest method (Outlook)
 keywords: vbaol11.chm3305
 f1_keywords:
 - vbaol11.chm3305
-ms.prod: outlook
 api_name:
 - Outlook.FormRegionStartup.GetFormRegionManifest
 ms.assetid: de752c6f-423a-ee2f-aa7e-d1107cf406a2

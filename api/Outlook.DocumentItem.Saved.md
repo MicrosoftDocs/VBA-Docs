@@ -3,7 +3,6 @@ title: DocumentItem.Saved property (Outlook)
 keywords: vbaol11.chm1203
 f1_keywords:
 - vbaol11.chm1203
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Saved
 ms.assetid: 79678d75-9ebc-b1d8-75ed-512da0e41cd0

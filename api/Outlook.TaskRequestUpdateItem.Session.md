@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.Session property (Outlook)
 keywords: vbaol11.chm1919
 f1_keywords:
 - vbaol11.chm1919
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Session
 ms.assetid: 12e7fa2c-1067-4faa-c827-b1b1f8dc4238

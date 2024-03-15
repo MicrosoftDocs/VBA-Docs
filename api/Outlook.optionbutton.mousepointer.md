@@ -1,6 +1,5 @@
 ---
 title: OptionButton.MousePointer Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 4123275c-6d9d-59ec-053e-074204e2bae0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

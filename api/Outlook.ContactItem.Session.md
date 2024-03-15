@@ -3,7 +3,6 @@ title: ContactItem.Session property (Outlook)
 keywords: vbaol11.chm928
 f1_keywords:
 - vbaol11.chm928
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Session
 ms.assetid: b67eb0d4-9b97-2be7-fc24-ecdd58fb01ca

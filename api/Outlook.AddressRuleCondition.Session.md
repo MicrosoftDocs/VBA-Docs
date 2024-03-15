@@ -3,7 +3,6 @@ title: AddressRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm2951
 f1_keywords:
 - vbaol11.chm2951
-ms.prod: outlook
 api_name:
 - Outlook.AddressRuleCondition.Session
 ms.assetid: c5134be6-7ce4-dc65-8bde-9c725ef3ba8c

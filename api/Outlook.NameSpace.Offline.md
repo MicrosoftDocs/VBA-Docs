@@ -3,7 +3,6 @@ title: NameSpace.Offline property (Outlook)
 keywords: vbaol11.chm773
 f1_keywords:
 - vbaol11.chm773
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Offline
 ms.assetid: c62112d5-e50f-bd6a-bb3b-7c1818752d8b

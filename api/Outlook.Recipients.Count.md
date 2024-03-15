@@ -3,7 +3,6 @@ title: Recipients.Count property (Outlook)
 keywords: vbaol11.chm230
 f1_keywords:
 - vbaol11.chm230
-ms.prod: outlook
 api_name:
 - Outlook.Recipients.Count
 ms.assetid: 3e96321d-a329-7460-0d25-4dc928de0441

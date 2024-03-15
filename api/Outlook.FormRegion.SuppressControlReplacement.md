@@ -3,7 +3,6 @@ title: FormRegion.SuppressControlReplacement property (Outlook)
 keywords: vbaol11.chm3024
 f1_keywords:
 - vbaol11.chm3024
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.SuppressControlReplacement
 ms.assetid: 714ccca2-f454-61dc-5ff2-bdbd5331f3f6

@@ -3,7 +3,6 @@ title: ReportItem.Parent property (Outlook)
 keywords: vbaol11.chm1637
 f1_keywords:
 - vbaol11.chm1637
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Parent
 ms.assetid: b8663e30-f169-9050-a5ab-cf8573053e40

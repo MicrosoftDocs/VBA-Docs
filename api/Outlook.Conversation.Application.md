@@ -3,7 +3,6 @@ title: Conversation.Application property (Outlook)
 keywords: vbaol11.chm3383
 f1_keywords:
 - vbaol11.chm3383
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.Application
 ms.assetid: d251a99d-96bc-e51b-02f0-fb61f2803f65

@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.BeforeAttachmentWriteToTempFile event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 26bbc5fc-4a65-101b-9693-f8d9ed9421c9

@@ -3,7 +3,6 @@ title: JournalItem.IsConflict property (Outlook)
 keywords: vbaol11.chm1285
 f1_keywords:
 - vbaol11.chm1285
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.IsConflict
 ms.assetid: 0390d347-959b-0dac-4f8b-7a714c4bdf6e

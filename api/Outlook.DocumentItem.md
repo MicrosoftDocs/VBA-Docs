@@ -3,7 +3,6 @@ title: DocumentItem object (Outlook)
 keywords: vbaol11.chm2994
 f1_keywords:
 - vbaol11.chm2994
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem
 ms.assetid: 7b0a6af0-6632-3ff6-841f-5b081d0d68d8

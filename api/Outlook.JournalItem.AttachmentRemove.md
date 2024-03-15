@@ -1,6 +1,5 @@
 ---
 title: JournalItem.AttachmentRemove event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AttachmentRemove
 ms.assetid: 6cf2673d-a328-7649-e5f3-e171ff8354e1

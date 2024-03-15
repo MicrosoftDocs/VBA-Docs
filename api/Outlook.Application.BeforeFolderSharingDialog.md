@@ -3,7 +3,6 @@ title: Application.BeforeFolderSharingDialog event (Outlook)
 keywords: vbaol11.chm447
 f1_keywords:
 - vbaol11.chm447
-ms.prod: outlook
 api_name:
 - Outlook.Application.BeforeFolderSharingDialog
 ms.assetid: e06257eb-f2d9-63cf-1220-dda55ee0ea14

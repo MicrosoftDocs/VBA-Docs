@@ -3,7 +3,6 @@ title: Tabs.Count Property (Outlook Forms Script)
 keywords: olfm10.chm2001000
 f1_keywords:
 - olfm10.chm2001000
-ms.prod: outlook
 ms.assetid: 1424d686-d082-26f8-8312-942aad178813
 ms.date: 06/08/2017
 ms.localizationpriority: medium

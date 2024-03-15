@@ -3,7 +3,6 @@ title: SharingItem.ReplyAll method (Outlook)
 keywords: vbaol11.chm671
 f1_keywords:
 - vbaol11.chm671
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReplyAll
 ms.assetid: 4b187ecf-c2a6-0f4a-77df-dcf86a31f3a4

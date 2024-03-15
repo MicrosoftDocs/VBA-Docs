@@ -3,7 +3,6 @@ title: AccountSelector object (Outlook)
 keywords: vbaol11.chm3456
 f1_keywords:
 - vbaol11.chm3456
-ms.prod: outlook
 api_name:
 - Outlook.AccountSelector
 ms.assetid: 846f176e-5680-a214-7624-75f3a524c989

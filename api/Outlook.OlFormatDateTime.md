@@ -3,7 +3,6 @@ title: OlFormatDateTime enumeration (Outlook)
 keywords: vbaol11.chm3133
 f1_keywords:
 - vbaol11.chm3133
-ms.prod: outlook
 api_name:
 - Outlook.OlFormatDateTime
 ms.assetid: b176f40b-cc51-95cc-1b82-accb1cefaa7f

@@ -3,7 +3,6 @@ title: AddressEntry.Session property (Outlook)
 keywords: vbaol11.chm2040
 f1_keywords:
 - vbaol11.chm2040
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.Session
 ms.assetid: e2fdc0ed-a470-eca7-0709-ea7938df3516

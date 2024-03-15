@@ -3,7 +3,6 @@ title: StorageItem.Save method (Outlook)
 keywords: vbaol11.chm2144
 f1_keywords:
 - vbaol11.chm2144
-ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Save
 ms.assetid: 9462a342-294a-175e-7e8f-d416f0959f69

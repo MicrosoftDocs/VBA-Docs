@@ -3,7 +3,6 @@ title: ContactItem.ShowBusinessCardEditor method (Outlook)
 keywords: vbaol11.chm1095
 f1_keywords:
 - vbaol11.chm1095
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ShowBusinessCardEditor
 ms.assetid: 96db2b87-02b2-f97e-cff4-9d852fc875d6

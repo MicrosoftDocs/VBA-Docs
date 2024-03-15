@@ -1,6 +1,5 @@
 ---
 title: Tab.Enabled Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 1829c0da-297a-bdeb-db35-ecf0cc447461
 ms.date: 06/08/2017
 ms.localizationpriority: medium

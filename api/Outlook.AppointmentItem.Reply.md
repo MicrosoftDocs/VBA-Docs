@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.Reply event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Reply
 ms.assetid: bc3ea8eb-15eb-ef97-e292-e74799cce150

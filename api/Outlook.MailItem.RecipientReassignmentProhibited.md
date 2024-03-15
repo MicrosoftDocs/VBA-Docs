@@ -3,7 +3,6 @@ title: MailItem.RecipientReassignmentProhibited property (Outlook)
 keywords: vbaol11.chm1346
 f1_keywords:
 - vbaol11.chm1346
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.RecipientReassignmentProhibited
 ms.assetid: f7c7dfbe-d752-c83f-19aa-6eb2f93a85ae

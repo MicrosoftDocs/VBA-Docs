@@ -3,7 +3,6 @@ title: Frame.KeepScrollBarsVisible Property (Outlook Forms Script)
 keywords: olfm10.chm2001350
 f1_keywords:
 - olfm10.chm2001350
-ms.prod: outlook
 ms.assetid: adc2bda2-6e7f-cd02-c6ca-f2976250fd60
 ms.date: 06/08/2017
 ms.localizationpriority: medium

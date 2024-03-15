@@ -3,7 +3,6 @@ title: JournalItem.Save method (Outlook)
 keywords: vbaol11.chm1263
 f1_keywords:
 - vbaol11.chm1263
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Save
 ms.assetid: 27e0e034-8f59-8c6c-f3af-4624e78f1e74

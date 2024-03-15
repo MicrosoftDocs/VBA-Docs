@@ -3,7 +3,6 @@ title: OlkTextBox.SelStart property (Outlook)
 keywords: vbaol11.chm1000062
 f1_keywords:
 - vbaol11.chm1000062
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.SelStart
 ms.assetid: cca8ffc2-4c68-72f5-7e09-6f8845d72e35

@@ -3,7 +3,6 @@ title: SharingItem.AlternateRecipientAllowed property (Outlook)
 keywords: vbaol11.chm631
 f1_keywords:
 - vbaol11.chm631
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.AlternateRecipientAllowed
 ms.assetid: b18736f9-b2c4-1400-7dd4-3537a50f7276

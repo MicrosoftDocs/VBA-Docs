@@ -1,6 +1,5 @@
 ---
 title: SharingItem.BeforeDelete event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BeforeDelete
 ms.assetid: 60726a1b-2d74-c7a6-fef8-b26f5f5e7d01

@@ -3,7 +3,6 @@ title: CalendarSharing.SaveAsICal method (Outlook)
 keywords: vbaol11.chm2411
 f1_keywords:
 - vbaol11.chm2411
-ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.SaveAsICal
 ms.assetid: 2314f751-77c5-9b95-05fb-c3075f512508

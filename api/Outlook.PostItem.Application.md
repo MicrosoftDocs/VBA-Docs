@@ -3,7 +3,6 @@ title: PostItem.Application property (Outlook)
 keywords: vbaol11.chm1509
 f1_keywords:
 - vbaol11.chm1509
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Application
 ms.assetid: 3d25f738-d432-87c5-349f-972681a71e1a

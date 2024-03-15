@@ -3,7 +3,6 @@ title: TimeZones.Class property (Outlook)
 keywords: vbaol11.chm3292
 f1_keywords:
 - vbaol11.chm3292
-ms.prod: outlook
 api_name:
 - Outlook.TimeZones.Class
 ms.assetid: 531ba223-649f-8fbe-35de-240680ffabc1

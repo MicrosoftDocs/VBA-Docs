@@ -3,7 +3,6 @@ title: OlkDateControl.AutoWordSelect property (Outlook)
 keywords: vbaol11.chm1000342
 f1_keywords:
 - vbaol11.chm1000342
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.AutoWordSelect
 ms.assetid: cd26e65e-d25f-26e3-5b6c-736beefb0742

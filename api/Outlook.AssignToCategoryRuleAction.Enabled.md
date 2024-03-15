@@ -3,7 +3,6 @@ title: AssignToCategoryRuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2267
 f1_keywords:
 - vbaol11.chm2267
-ms.prod: outlook
 api_name:
 - Outlook.AssignToCategoryRuleAction.Enabled
 ms.assetid: c6f4558d-fb2a-b732-cfeb-a30f447f0989

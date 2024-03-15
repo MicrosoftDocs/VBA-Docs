@@ -3,7 +3,6 @@ title: SenderInAddressListRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2468
 f1_keywords:
 - vbaol11.chm2468
-ms.prod: outlook
 api_name:
 - Outlook.SenderInAddressListRuleCondition.Enabled
 ms.assetid: 8c3f9e08-d803-9f19-9607-61c6f4ac1418

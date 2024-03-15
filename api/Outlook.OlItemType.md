@@ -3,7 +3,6 @@ title: OlItemType enumeration (Outlook)
 keywords: vbaol11.chm3064
 f1_keywords:
 - vbaol11.chm3064
-ms.prod: outlook
 api_name:
 - Outlook.OlItemType
 ms.assetid: d42959b8-6c91-4d9e-98db-7226780f9995

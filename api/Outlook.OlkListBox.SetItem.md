@@ -3,7 +3,6 @@ title: OlkListBox.SetItem method (Outlook)
 keywords: vbaol11.chm1000269
 f1_keywords:
 - vbaol11.chm1000269
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.SetItem
 ms.assetid: 95232643-c547-f553-1d92-0f3fead18de9

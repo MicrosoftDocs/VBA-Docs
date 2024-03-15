@@ -3,7 +3,6 @@ title: RuleAction.Enabled property (Outlook)
 keywords: vbaol11.chm2205
 f1_keywords:
 - vbaol11.chm2205
-ms.prod: outlook
 api_name:
 - Outlook.RuleAction.Enabled
 ms.assetid: bea1a0e4-4fad-acc4-0b48-b2f64d996941

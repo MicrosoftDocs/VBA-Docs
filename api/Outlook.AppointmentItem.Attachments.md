@@ -3,7 +3,6 @@ title: AppointmentItem.Attachments property (Outlook)
 keywords: vbaol11.chm843
 f1_keywords:
 - vbaol11.chm843
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Attachments
 ms.assetid: 4d2eb321-84c7-5613-35cc-9df3e872541d

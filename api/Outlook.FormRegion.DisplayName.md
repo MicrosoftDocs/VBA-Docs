@@ -3,7 +3,6 @@ title: FormRegion.DisplayName property (Outlook)
 keywords: vbaol11.chm2399
 f1_keywords:
 - vbaol11.chm2399
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.DisplayName
 ms.assetid: fcdc938b-9845-bf6f-f0db-cd6dd100d9de

@@ -3,7 +3,6 @@ title: OlAlignment enumeration (Outlook)
 keywords: vbaol11.chm1000026
 f1_keywords:
 - vbaol11.chm1000026
-ms.prod: outlook
 api_name:
 - Outlook.OlAlignment
 ms.assetid: 3a3eae47-c92a-8d67-327e-33d902f23abd

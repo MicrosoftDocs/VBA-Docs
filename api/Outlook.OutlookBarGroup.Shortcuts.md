@@ -3,7 +3,6 @@ title: OutlookBarGroup.Shortcuts property (Outlook)
 keywords: vbaol11.chm326
 f1_keywords:
 - vbaol11.chm326
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroup.Shortcuts
 ms.assetid: a6a5031e-4ca2-4b4f-00b3-298af2361cec

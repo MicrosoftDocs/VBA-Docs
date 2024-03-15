@@ -3,7 +3,6 @@ title: OlkOptionButton.KeyPress event (Outlook)
 keywords: vbaol11.chm1000187
 f1_keywords:
 - vbaol11.chm1000187
-ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.KeyPress
 ms.assetid: ce52b457-46c0-99d5-955c-e468abec0211

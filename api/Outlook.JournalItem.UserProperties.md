@@ -3,7 +3,6 @@ title: JournalItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1256
 f1_keywords:
 - vbaol11.chm1256
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.UserProperties
 ms.assetid: 68a650f0-2898-b38e-5af9-1a052d74e0d1

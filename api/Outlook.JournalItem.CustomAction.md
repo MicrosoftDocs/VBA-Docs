@@ -1,6 +1,5 @@
 ---
 title: JournalItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.CustomAction
 ms.assetid: 45fcaa76-8139-8731-62b4-efd4a4e0014a

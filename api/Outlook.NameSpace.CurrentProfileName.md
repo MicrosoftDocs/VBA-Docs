@@ -3,7 +3,6 @@ title: NameSpace.CurrentProfileName property (Outlook)
 keywords: vbaol11.chm779
 f1_keywords:
 - vbaol11.chm779
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.CurrentProfileName
 ms.assetid: 731df710-cb42-eb68-8fbc-790b74468491

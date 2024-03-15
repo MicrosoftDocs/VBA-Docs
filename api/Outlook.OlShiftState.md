@@ -3,7 +3,6 @@ title: OlShiftState enumeration (Outlook)
 keywords: vbaol11.chm1000032
 f1_keywords:
 - vbaol11.chm1000032
-ms.prod: outlook
 api_name:
 - Outlook.OlShiftState
 ms.assetid: f71dd27d-6930-1450-e8e9-11ab1eace6ca

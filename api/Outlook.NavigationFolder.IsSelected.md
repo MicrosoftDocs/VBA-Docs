@@ -3,7 +3,6 @@ title: NavigationFolder.IsSelected property (Outlook)
 keywords: vbaol11.chm2905
 f1_keywords:
 - vbaol11.chm2905
-ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.IsSelected
 ms.assetid: a8fb9430-0477-2417-0dba-e30e9f8ebe8d

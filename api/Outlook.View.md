@@ -3,7 +3,6 @@ title: View object (Outlook)
 keywords: vbaol11.chm2479
 f1_keywords:
 - vbaol11.chm2479
-ms.prod: outlook
 api_name:
 - Outlook.View
 ms.assetid: 41c8d149-9912-1685-4c8b-3c849cc6f1ed

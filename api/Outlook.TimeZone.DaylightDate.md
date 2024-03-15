@@ -3,7 +3,6 @@ title: TimeZone.DaylightDate property (Outlook)
 keywords: vbaol11.chm3289
 f1_keywords:
 - vbaol11.chm3289
-ms.prod: outlook
 api_name:
 - Outlook.TimeZone.DaylightDate
 ms.assetid: a653b0ec-1462-165f-36e3-1be57513a2c7

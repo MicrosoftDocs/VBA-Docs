@@ -3,7 +3,6 @@ title: OlkCommandButton.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000121
 f1_keywords:
 - vbaol11.chm1000121
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.DoubleClick
 ms.assetid: e3578807-1e67-3bc7-d6b0-743c784335aa

@@ -3,7 +3,6 @@ title: Exceptions.Session property (Outlook)
 keywords: vbaol11.chm292
 f1_keywords:
 - vbaol11.chm292
-ms.prod: outlook
 api_name:
 - Outlook.Exceptions.Session
 ms.assetid: a0674664-e087-3df7-b80a-419863255160

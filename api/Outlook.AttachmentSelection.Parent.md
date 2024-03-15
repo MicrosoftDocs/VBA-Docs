@@ -3,7 +3,6 @@ title: AttachmentSelection.Parent property (Outlook)
 keywords: vbaol11.chm2942
 f1_keywords:
 - vbaol11.chm2942
-ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.Parent
 ms.assetid: 1c80c1fd-b7bd-288c-d017-8159ddcbd037

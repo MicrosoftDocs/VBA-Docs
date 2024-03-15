@@ -3,7 +3,6 @@ title: Frame.PictureSizeMode Property (Outlook Forms Script)
 keywords: olfm10.chm2001730
 f1_keywords:
 - olfm10.chm2001730
-ms.prod: outlook
 ms.assetid: cc4ac909-de5c-4505-ead2-5a7d209a35a0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

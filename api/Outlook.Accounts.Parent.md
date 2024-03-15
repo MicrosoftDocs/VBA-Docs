@@ -3,7 +3,6 @@ title: Accounts.Parent property (Outlook)
 keywords: vbaol11.chm748
 f1_keywords:
 - vbaol11.chm748
-ms.prod: outlook
 api_name:
 - Outlook.Accounts.Parent
 ms.assetid: 9d17887f-8c13-c589-21a5-b8c61a7adf3b

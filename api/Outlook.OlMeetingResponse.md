@@ -3,7 +3,6 @@ title: OlMeetingResponse enumeration (Outlook)
 keywords: vbaol11.chm3069
 f1_keywords:
 - vbaol11.chm3069
-ms.prod: outlook
 api_name:
 - Outlook.OlMeetingResponse
 ms.assetid: 8a396dd0-5037-bf8e-52a0-caad52999df5

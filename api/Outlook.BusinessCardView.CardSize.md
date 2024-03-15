@@ -3,7 +3,6 @@ title: BusinessCardView.CardSize property (Outlook)
 keywords: vbaol11.chm2937
 f1_keywords:
 - vbaol11.chm2937
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.CardSize
 ms.assetid: 0a1cbe6d-cc1a-1701-fe43-8704002b2212

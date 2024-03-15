@@ -3,7 +3,6 @@ title: SelectNamesDialog.ToLabel property (Outlook)
 keywords: vbaol11.chm830
 f1_keywords:
 - vbaol11.chm830
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.ToLabel
 ms.assetid: 1c2f15fd-57c6-e0a5-923c-2b3b217bb7a0

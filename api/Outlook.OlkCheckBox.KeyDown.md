@@ -3,7 +3,6 @@ title: OlkCheckBox.KeyDown event (Outlook)
 keywords: vbaol11.chm1000156
 f1_keywords:
 - vbaol11.chm1000156
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.KeyDown
 ms.assetid: d8679dab-c3bf-8494-a91d-3c107596c8ce

@@ -3,7 +3,6 @@ title: OlkCheckBox.Exit event (Outlook)
 keywords: vbaol11.chm1000155
 f1_keywords:
 - vbaol11.chm1000155
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Exit
 ms.assetid: a89b3d32-c540-ea72-b018-fabc9b9760f3

@@ -3,7 +3,6 @@ title: OlWindowState enumeration (Outlook)
 keywords: vbaol11.chm3090
 f1_keywords:
 - vbaol11.chm3090
-ms.prod: outlook
 api_name:
 - Outlook.OlWindowState
 ms.assetid: cc9860c4-9de6-4dd3-05e5-5b87e6b4bd88

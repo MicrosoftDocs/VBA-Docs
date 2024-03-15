@@ -3,7 +3,6 @@ title: Explorer.Panes property (Outlook)
 keywords: vbaol11.chm2769
 f1_keywords:
 - vbaol11.chm2769
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Panes
 ms.assetid: b7ec51bd-c8e0-f31e-1f15-42a7514cb433

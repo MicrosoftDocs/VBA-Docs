@@ -1,6 +1,5 @@
 ---
 title: PostItem.Unload event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Unload
 ms.assetid: 42dea931-c3dd-b8ff-5ace-0744b17650e0

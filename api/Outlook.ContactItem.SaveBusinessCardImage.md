@@ -3,7 +3,6 @@ title: ContactItem.SaveBusinessCardImage method (Outlook)
 keywords: vbaol11.chm1096
 f1_keywords:
 - vbaol11.chm1096
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.SaveBusinessCardImage
 ms.assetid: 889728f2-2c17-6b83-a858-bb32ef5845e6

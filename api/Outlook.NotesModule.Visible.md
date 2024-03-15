@@ -3,7 +3,6 @@ title: NotesModule.Visible property (Outlook)
 keywords: vbaol11.chm2879
 f1_keywords:
 - vbaol11.chm2879
-ms.prod: outlook
 api_name:
 - Outlook.NotesModule.Visible
 ms.assetid: f416ec38-8469-4352-21fd-ebb01f5915eb

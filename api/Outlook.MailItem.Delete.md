@@ -3,7 +3,6 @@ title: MailItem.Delete method (Outlook)
 keywords: vbaol11.chm1322
 f1_keywords:
 - vbaol11.chm1322
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Delete
 ms.assetid: 342c6003-e7c5-7314-453c-151fc51d5b2d

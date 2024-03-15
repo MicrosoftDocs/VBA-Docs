@@ -3,7 +3,6 @@ title: AutoFormatRules.Class property (Outlook)
 keywords: vbaol11.chm2714
 f1_keywords:
 - vbaol11.chm2714
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Class
 ms.assetid: 0ab30259-f469-efea-c068-39c161d7ab04

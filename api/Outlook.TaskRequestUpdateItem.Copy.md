@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.Copy method (Outlook)
 keywords: vbaol11.chm1948
 f1_keywords:
 - vbaol11.chm1948
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Copy
 ms.assetid: 62156006-91dc-cb92-dfab-01a055e2761c

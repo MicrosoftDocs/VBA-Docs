@@ -3,7 +3,6 @@ title: ExchangeUser.StateOrProvince property (Outlook)
 keywords: vbaol11.chm2099
 f1_keywords:
 - vbaol11.chm2099
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.StateOrProvince
 ms.assetid: abac4889-800a-5573-5851-095f5b5176c5

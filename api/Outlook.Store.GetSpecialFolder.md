@@ -3,7 +3,6 @@ title: Store.GetSpecialFolder method (Outlook)
 keywords: vbaol11.chm812
 f1_keywords:
 - vbaol11.chm812
-ms.prod: outlook
 api_name:
 - Outlook.Store.GetSpecialFolder
 ms.assetid: 8f768a43-1589-5659-76f3-43afa4b745b6

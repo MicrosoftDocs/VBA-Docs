@@ -3,7 +3,6 @@ title: CardView.Application property (Outlook)
 keywords: vbaol11.chm2579
 f1_keywords:
 - vbaol11.chm2579
-ms.prod: outlook
 api_name:
 - Outlook.CardView.Application
 ms.assetid: 909d419d-4496-7cb2-1308-f571fddc94e3

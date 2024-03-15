@@ -3,7 +3,6 @@ title: RemoteItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3494
 f1_keywords:
 - vbaol11.chm3494
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.GetConversation
 ms.assetid: 0da0ef2e-c3d2-5a5f-c031-4226719f87f7

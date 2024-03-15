@@ -3,7 +3,6 @@ title: ExchangeDistributionList.Parent property (Outlook)
 keywords: vbaol11.chm2111
 f1_keywords:
 - vbaol11.chm2111
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Parent
 ms.assetid: 793f1f22-d788-587d-0ae7-894b44f236ed

@@ -3,7 +3,6 @@ title: MailItem.RemoteStatus property (Outlook)
 keywords: vbaol11.chm1353
 f1_keywords:
 - vbaol11.chm1353
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.RemoteStatus
 ms.assetid: f68f2176-0725-2cdf-572e-3b9f7bea8cb4

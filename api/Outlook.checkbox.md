@@ -3,7 +3,6 @@ title: CheckBox object (Outlook Forms Script)
 keywords: olfm10.chm2000470
 f1_keywords:
 - olfm10.chm2000470
-ms.prod: outlook
 ms.assetid: 1834855b-f96c-aaa1-24ce-81d1e4e4e1db
 ms.date: 09/26/2019
 ms.localizationpriority: medium

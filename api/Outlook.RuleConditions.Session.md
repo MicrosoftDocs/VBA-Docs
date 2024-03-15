@@ -3,7 +3,6 @@ title: RuleConditions.Session property (Outlook)
 keywords: vbaol11.chm2298
 f1_keywords:
 - vbaol11.chm2298
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.Session
 ms.assetid: 0a214009-1bd1-9631-a80c-e942680ae878

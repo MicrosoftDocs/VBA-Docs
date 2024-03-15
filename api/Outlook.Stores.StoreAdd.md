@@ -3,7 +3,6 @@ title: Stores.StoreAdd event (Outlook)
 keywords: vbaol11.chm2755
 f1_keywords:
 - vbaol11.chm2755
-ms.prod: outlook
 api_name:
 - Outlook.Stores.StoreAdd
 ms.assetid: 26e7eddc-9c5a-ffff-d574-afa48e5953d8

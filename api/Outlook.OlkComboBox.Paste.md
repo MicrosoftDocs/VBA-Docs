@@ -3,7 +3,6 @@ title: OlkComboBox.Paste method (Outlook)
 keywords: vbaol11.chm1000228
 f1_keywords:
 - vbaol11.chm1000228
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Paste
 ms.assetid: bfee86bb-622e-0b24-aa24-abb1dce79b86

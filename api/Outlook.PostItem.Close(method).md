@@ -3,7 +3,6 @@ title: PostItem.Close method (Outlook)
 keywords: vbaol11.chm1539
 f1_keywords:
 - vbaol11.chm1539
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Close
 ms.assetid: fd80ee3c-2ee1-20ff-1f43-d706695b128c

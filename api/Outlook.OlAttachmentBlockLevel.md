@@ -3,7 +3,6 @@ title: OlAttachmentBlockLevel enumeration (Outlook)
 keywords: vbaol11.chm3261
 f1_keywords:
 - vbaol11.chm3261
-ms.prod: outlook
 api_name:
 - Outlook.OlAttachmentBlockLevel
 ms.assetid: 651fced7-9853-255e-66ed-7aa5f52c1b9c

@@ -3,7 +3,6 @@ title: FromRssFeedRuleCondition.Session property (Outlook)
 keywords: vbaol11.chm3255
 f1_keywords:
 - vbaol11.chm3255
-ms.prod: outlook
 api_name:
 - Outlook.FromRssFeedRuleCondition.Session
 ms.assetid: 72939751-3012-fdc9-dfb7-60306bc522cd

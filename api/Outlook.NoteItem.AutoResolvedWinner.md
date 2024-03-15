@@ -3,7 +3,6 @@ title: NoteItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1505
 f1_keywords:
 - vbaol11.chm1505
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.AutoResolvedWinner
 ms.assetid: c5ded563-e104-0c03-5601-a27692445b24

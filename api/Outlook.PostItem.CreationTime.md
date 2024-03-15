@@ -3,7 +3,6 @@ title: PostItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1521
 f1_keywords:
 - vbaol11.chm1521
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.CreationTime
 ms.assetid: c344793b-cfdc-efcc-d001-08af0ba653b0

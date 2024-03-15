@@ -3,7 +3,6 @@ title: OlGridLineStyle enumeration (Outlook)
 keywords: vbaol11.chm3123
 f1_keywords:
 - vbaol11.chm3123
-ms.prod: outlook
 api_name:
 - Outlook.OlGridLineStyle
 ms.assetid: ca89d3fc-eaa2-990f-641e-76a394f22e42

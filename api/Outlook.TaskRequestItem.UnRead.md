@@ -3,7 +3,6 @@ title: TaskRequestItem.UnRead property (Outlook)
 keywords: vbaol11.chm1896
 f1_keywords:
 - vbaol11.chm1896
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.UnRead
 ms.assetid: 43e92c55-6ebb-f877-c0e5-43ea1124ced3

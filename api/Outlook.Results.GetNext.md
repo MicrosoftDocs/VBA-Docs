@@ -3,7 +3,6 @@ title: Results.GetNext method (Outlook)
 keywords: vbaol11.chm507
 f1_keywords:
 - vbaol11.chm507
-ms.prod: outlook
 api_name:
 - Outlook.Results.GetNext
 ms.assetid: 3667738a-fcae-b786-e8d4-e478b1614c8c

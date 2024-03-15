@@ -3,7 +3,6 @@ title: OrderFields.Session property (Outlook)
 keywords: vbaol11.chm2674
 f1_keywords:
 - vbaol11.chm2674
-ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Session
 ms.assetid: cf1ea6e2-a4fb-0d54-268a-fae589448129

@@ -3,7 +3,6 @@ title: MailModule.Position property (Outlook)
 keywords: vbaol11.chm2818
 f1_keywords:
 - vbaol11.chm2818
-ms.prod: outlook
 api_name:
 - Outlook.MailModule.Position
 ms.assetid: 46cfff8e-07ac-f929-94be-c7b39980daa8

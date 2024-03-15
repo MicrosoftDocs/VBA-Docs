@@ -3,7 +3,6 @@ title: ExchangeDistributionList.GetMemberOfList method (Outlook)
 keywords: vbaol11.chm2130
 f1_keywords:
 - vbaol11.chm2130
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.GetMemberOfList
 ms.assetid: daacad93-1cf4-3455-54ff-919dc4a9935e

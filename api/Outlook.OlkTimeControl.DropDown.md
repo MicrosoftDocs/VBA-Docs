@@ -3,7 +3,6 @@ title: OlkTimeControl.DropDown method (Outlook)
 keywords: vbaol11.chm1000398
 f1_keywords:
 - vbaol11.chm1000398
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.DropDown
 ms.assetid: 88a5aeb6-31d7-83d3-ca4c-f4efbda7ac90

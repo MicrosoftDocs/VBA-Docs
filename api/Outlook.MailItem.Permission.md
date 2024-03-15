@@ -3,7 +3,6 @@ title: MailItem.Permission property (Outlook)
 keywords: vbaol11.chm1386
 f1_keywords:
 - vbaol11.chm1386
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Permission
 ms.assetid: 394173d4-344a-148a-1628-b4ca47d4ef2d

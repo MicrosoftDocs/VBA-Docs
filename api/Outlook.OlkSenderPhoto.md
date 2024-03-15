@@ -3,7 +3,6 @@ title: OlkSenderPhoto object (Outlook)
 keywords: vbaol11.chm1000498
 f1_keywords:
 - vbaol11.chm1000498
-ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto
 ms.assetid: 07934c3a-404c-7f99-49a8-540701d31cef

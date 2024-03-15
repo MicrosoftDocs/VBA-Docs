@@ -3,7 +3,6 @@ title: ExchangeUser.Address property (Outlook)
 keywords: vbaol11.chm2065
 f1_keywords:
 - vbaol11.chm2065
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Address
 ms.assetid: b3a36b16-e652-9e3f-86fd-7cea0c72d78c

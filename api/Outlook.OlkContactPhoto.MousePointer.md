@@ -3,7 +3,6 @@ title: OlkContactPhoto.MousePointer property (Outlook)
 keywords: vbaol11.chm1000308
 f1_keywords:
 - vbaol11.chm1000308
-ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.MousePointer
 ms.assetid: 425657b7-6496-1803-6d05-302b11b9b894

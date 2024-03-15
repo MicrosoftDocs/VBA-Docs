@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1932
 f1_keywords:
 - vbaol11.chm1932
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.GetInspector
 ms.assetid: 9542e72b-9b9d-be7a-5c2f-1c4a653be4d7

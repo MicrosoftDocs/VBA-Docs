@@ -1,6 +1,5 @@
 ---
 title: Send a Sharing Invitation for an RSS Feed
-ms.prod: outlook
 ms.assetid: 0b5b8ff5-d990-d869-7f80-15bbdcbec5a2
 ms.date: 02/08/2022
 ms.localizationpriority: medium

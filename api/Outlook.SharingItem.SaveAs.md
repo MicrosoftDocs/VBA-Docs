@@ -3,7 +3,6 @@ title: SharingItem.SaveAs method (Outlook)
 keywords: vbaol11.chm630
 f1_keywords:
 - vbaol11.chm630
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SaveAs
 ms.assetid: b18fae0e-b8be-9846-2f97-15b25f5f053b

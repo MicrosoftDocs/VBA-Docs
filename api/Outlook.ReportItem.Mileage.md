@@ -3,7 +3,6 @@ title: ReportItem.Mileage property (Outlook)
 keywords: vbaol11.chm1654
 f1_keywords:
 - vbaol11.chm1654
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Mileage
 ms.assetid: bd3b3dfe-6368-6ba7-c609-8b0e3ea97a27

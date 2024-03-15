@@ -3,7 +3,6 @@ title: MeetingItem.Forward method (Outlook)
 keywords: vbaol11.chm1454
 f1_keywords:
 - vbaol11.chm1454
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Forward
 ms.assetid: ca456d91-43db-3f94-133b-913fd50ef4bc

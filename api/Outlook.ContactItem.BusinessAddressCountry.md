@@ -3,7 +3,6 @@ title: ContactItem.BusinessAddressCountry property (Outlook)
 keywords: vbaol11.chm972
 f1_keywords:
 - vbaol11.chm972
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessAddressCountry
 ms.assetid: cd5b1640-ddbd-9fca-062c-f03ed39f7821

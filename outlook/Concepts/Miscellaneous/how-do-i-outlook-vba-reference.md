@@ -1,6 +1,5 @@
 ---
 title: How do I... (Outlook VBA reference)
-ms.prod: outlook
 ms.assetid: 3c33646d-e5c2-3103-b219-487ffe23357f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

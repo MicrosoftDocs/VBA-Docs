@@ -3,7 +3,6 @@ title: OlkBusinessCardControl.MouseUp event (Outlook)
 keywords: vbaol11.chm1000332
 f1_keywords:
 - vbaol11.chm1000332
-ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl.MouseUp
 ms.assetid: 877e7ab8-6b5e-f06a-db9a-9e9079110e9a

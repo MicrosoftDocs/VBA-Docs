@@ -3,7 +3,6 @@ title: JournalItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1286
 f1_keywords:
 - vbaol11.chm1286
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AutoResolvedWinner
 ms.assetid: 9a0fa7a4-aeeb-c616-47cc-cc28dfdaa35c

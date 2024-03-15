@@ -3,7 +3,6 @@ title: SharingItem.RemoteStatus property (Outlook)
 keywords: vbaol11.chm656
 f1_keywords:
 - vbaol11.chm656
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RemoteStatus
 ms.assetid: 3503113b-ad1d-2569-b39e-2383d5a22362

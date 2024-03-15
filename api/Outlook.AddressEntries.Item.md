@@ -3,7 +3,6 @@ title: AddressEntries.Item method (Outlook)
 keywords: vbaol11.chm30
 f1_keywords:
 - vbaol11.chm30
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.Item
 ms.assetid: 42156250-3e72-c82c-7038-12cfa02f5f0a

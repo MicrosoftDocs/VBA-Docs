@@ -3,7 +3,6 @@ title: Views.Session property (Outlook)
 keywords: vbaol11.chm543
 f1_keywords:
 - vbaol11.chm543
-ms.prod: outlook
 api_name:
 - Outlook.Views.Session
 ms.assetid: 677d7b97-b138-3506-7b45-26d091f9ba6e

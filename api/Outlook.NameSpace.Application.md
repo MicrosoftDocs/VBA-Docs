@@ -3,7 +3,6 @@ title: NameSpace.Application property (Outlook)
 keywords: vbaol11.chm752
 f1_keywords:
 - vbaol11.chm752
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Application
 ms.assetid: c7730473-4109-4052-08eb-7cd7d3c1909f

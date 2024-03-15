@@ -3,7 +3,6 @@ title: SharingItem.RetentionExpirationDate property (Outlook)
 keywords: vbaol11.chm3565
 f1_keywords:
 - vbaol11.chm3565
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RetentionExpirationDate
 ms.assetid: 29a7456d-4c2d-a418-699f-3e3984d5d0a2

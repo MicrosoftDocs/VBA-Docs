@@ -3,7 +3,6 @@ title: MailModule object (Outlook)
 keywords: vbaol11.chm3193
 f1_keywords:
 - vbaol11.chm3193
-ms.prod: outlook
 api_name:
 - Outlook.MailModule
 ms.assetid: df20efe5-be5c-952d-c6b7-20c20a83fda0

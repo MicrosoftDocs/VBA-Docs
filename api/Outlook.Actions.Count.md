@@ -3,7 +3,6 @@ title: Actions.Count property (Outlook)
 keywords: vbaol11.chm149
 f1_keywords:
 - vbaol11.chm149
-ms.prod: outlook
 api_name:
 - Outlook.Actions.Count
 ms.assetid: 0ba24d51-b057-9960-18e0-cb88a5edcdd5

@@ -3,7 +3,6 @@ title: SelectNamesDialog.SetDefaultDisplayMode method (Outlook)
 keywords: vbaol11.chm836
 f1_keywords:
 - vbaol11.chm836
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.SetDefaultDisplayMode
 ms.assetid: d6df1ad3-22b1-bda1-532a-a3bd34aa4ad1

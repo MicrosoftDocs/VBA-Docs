@@ -3,7 +3,6 @@ title: Explorers object (Outlook)
 keywords: vbaol11.chm2995
 f1_keywords:
 - vbaol11.chm2995
-ms.prod: outlook
 api_name:
 - Outlook.Explorers
 ms.assetid: 8398532a-1fad-7390-6778-109ac5e6c67c

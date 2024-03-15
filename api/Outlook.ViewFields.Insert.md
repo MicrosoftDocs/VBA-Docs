@@ -3,7 +3,6 @@ title: ViewFields.Insert method (Outlook)
 keywords: vbaol11.chm2553
 f1_keywords:
 - vbaol11.chm2553
-ms.prod: outlook
 api_name:
 - Outlook.ViewFields.Insert
 ms.assetid: a975a030-76c9-e877-8df7-601094998fd1

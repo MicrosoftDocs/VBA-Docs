@@ -3,7 +3,6 @@ title: View.ViewType property (Outlook)
 keywords: vbaol11.chm2494
 f1_keywords:
 - vbaol11.chm2494
-ms.prod: outlook
 api_name:
 - Outlook.View.ViewType
 ms.assetid: db44b9ec-cb55-c9f4-d621-32d2f46598dd

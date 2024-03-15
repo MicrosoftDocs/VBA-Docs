@@ -3,7 +3,6 @@ title: AppointmentItem.NoAging property (Outlook)
 keywords: vbaol11.chm859
 f1_keywords:
 - vbaol11.chm859
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.NoAging
 ms.assetid: f2e1844f-638a-259e-4ed6-e814da9a1330

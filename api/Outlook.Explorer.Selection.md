@@ -3,7 +3,6 @@ title: Explorer.Selection property (Outlook)
 keywords: vbaol11.chm2770
 f1_keywords:
 - vbaol11.chm2770
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Selection
 ms.assetid: 11002043-9dab-a5ad-b36e-52ddb04c1859

@@ -3,7 +3,6 @@ title: CalendarModule.Visible property (Outlook)
 keywords: vbaol11.chm2829
 f1_keywords:
 - vbaol11.chm2829
-ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.Visible
 ms.assetid: e34a7247-59aa-0a7f-fe8c-b439f683b22c

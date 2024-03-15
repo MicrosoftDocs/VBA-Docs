@@ -1,6 +1,5 @@
 ---
 title: TaskRequestItem.Forward event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Forward
 ms.assetid: 3d2ec601-a76a-0ef8-ee29-89cef70e489d

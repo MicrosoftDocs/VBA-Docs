@@ -3,7 +3,6 @@ title: TaskRequestAcceptItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3532
 f1_keywords:
 - vbaol11.chm3532
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestAcceptItem.RTFBody
 ms.assetid: 0fb15595-c166-d12b-21cb-a9dc89b41120

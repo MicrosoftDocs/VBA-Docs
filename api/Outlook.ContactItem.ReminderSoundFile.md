@@ -3,7 +3,6 @@ title: ContactItem.ReminderSoundFile property (Outlook)
 keywords: vbaol11.chm1107
 f1_keywords:
 - vbaol11.chm1107
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ReminderSoundFile
 ms.assetid: aafbdc5b-816f-3605-d265-5da349e9e791

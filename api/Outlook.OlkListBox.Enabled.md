@@ -3,7 +3,6 @@ title: OlkListBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000253
 f1_keywords:
 - vbaol11.chm1000253
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Enabled
 ms.assetid: 7d8e8f3c-9abe-98ef-a91e-9232036696e2

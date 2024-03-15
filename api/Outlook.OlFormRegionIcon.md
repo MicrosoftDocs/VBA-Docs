@@ -3,7 +3,6 @@ title: OlFormRegionIcon enumeration (Outlook)
 keywords: vbaol11.chm3306
 f1_keywords:
 - vbaol11.chm3306
-ms.prod: outlook
 api_name:
 - Outlook.OlFormRegionIcon
 ms.assetid: 22a9e2aa-e264-8392-b1ad-a2ab995b6440

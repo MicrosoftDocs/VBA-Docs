@@ -3,7 +3,6 @@ title: ContactItem.HomeTelephoneNumber property (Outlook)
 keywords: vbaol11.chm1020
 f1_keywords:
 - vbaol11.chm1020
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeTelephoneNumber
 ms.assetid: d8e6ffa0-2d1b-384a-070f-2511be2a7a90

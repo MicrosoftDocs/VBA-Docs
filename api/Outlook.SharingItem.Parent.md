@@ -3,7 +3,6 @@ title: SharingItem.Parent property (Outlook)
 keywords: vbaol11.chm596
 f1_keywords:
 - vbaol11.chm596
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Parent
 ms.assetid: 78d6d287-9623-0ed0-eab6-75a0a57d0c6c

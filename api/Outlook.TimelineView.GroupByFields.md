@@ -3,7 +3,6 @@ title: TimelineView.GroupByFields property (Outlook)
 keywords: vbaol11.chm2662
 f1_keywords:
 - vbaol11.chm2662
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.GroupByFields
 ms.assetid: 2f748d18-b28e-16c4-353f-10c41c5bb5c2

@@ -3,7 +3,6 @@ title: NameSpace.AddStore method (Outlook)
 keywords: vbaol11.chm771
 f1_keywords:
 - vbaol11.chm771
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.AddStore
 ms.assetid: c9390982-2408-fda5-a14d-de6f0daaadf1

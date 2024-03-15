@@ -3,7 +3,6 @@ title: OlkTextBox.SelText property (Outlook)
 keywords: vbaol11.chm1000064
 f1_keywords:
 - vbaol11.chm1000064
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.SelText
 ms.assetid: ba529e92-8a28-1c50-bf0a-0e67ae3645bc

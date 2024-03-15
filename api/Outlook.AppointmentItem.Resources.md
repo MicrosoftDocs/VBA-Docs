@@ -3,7 +3,6 @@ title: AppointmentItem.Resources property (Outlook)
 keywords: vbaol11.chm899
 f1_keywords:
 - vbaol11.chm899
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Resources
 ms.assetid: 9b989d76-6897-cd2d-9156-fd7391dad8c1

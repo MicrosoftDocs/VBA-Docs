@@ -3,7 +3,6 @@ title: OutlookBarShortcut object (Outlook)
 keywords: vbaol11.chm337
 f1_keywords:
 - vbaol11.chm337
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcut
 ms.assetid: fae05770-1b06-1ddd-e2db-8428e64bd1e2

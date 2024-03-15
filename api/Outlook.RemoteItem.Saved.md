@@ -3,7 +3,6 @@ title: RemoteItem.Saved property (Outlook)
 keywords: vbaol11.chm1606
 f1_keywords:
 - vbaol11.chm1606
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Saved
 ms.assetid: 381d9981-12fd-fa0e-fb11-0d7e41d694c1

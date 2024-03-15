@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.Write event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Write
 ms.assetid: 22a52e41-cbc5-ced7-a942-ae06035aebbb

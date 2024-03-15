@@ -3,7 +3,6 @@ title: MoveOrCopyRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2210
 f1_keywords:
 - vbaol11.chm2210
-ms.prod: outlook
 api_name:
 - Outlook.MoveOrCopyRuleAction.Session
 ms.assetid: a77c9ccf-6f8d-92de-f6d4-1f3d7e92c810

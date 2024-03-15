@@ -3,7 +3,6 @@ title: SharingItem.Allow method (Outlook)
 keywords: vbaol11.chm691
 f1_keywords:
 - vbaol11.chm691
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Allow
 ms.assetid: 8f47e300-86d0-b90c-a41d-05bddec743f4

@@ -3,7 +3,6 @@ title: MailItem.AlternateRecipientAllowed property (Outlook)
 keywords: vbaol11.chm1328
 f1_keywords:
 - vbaol11.chm1328
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.AlternateRecipientAllowed
 ms.assetid: 9ec44a9d-e1e3-ca25-7dc1-a524d1fbfafc

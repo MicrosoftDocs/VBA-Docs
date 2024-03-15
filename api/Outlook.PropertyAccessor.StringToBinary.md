@@ -3,7 +3,6 @@ title: PropertyAccessor.StringToBinary method (Outlook)
 keywords: vbaol11.chm1976
 f1_keywords:
 - vbaol11.chm1976
-ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.StringToBinary
 ms.assetid: 1ea95601-a21f-47d2-7a3c-166c4984fc25

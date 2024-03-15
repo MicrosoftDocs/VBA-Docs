@@ -3,7 +3,6 @@ title: OutlookBarPane.Contents property (Outlook)
 keywords: vbaol11.chm363
 f1_keywords:
 - vbaol11.chm363
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.Contents
 ms.assetid: ec7b8c50-7bf5-50d5-6c0b-32091106350e

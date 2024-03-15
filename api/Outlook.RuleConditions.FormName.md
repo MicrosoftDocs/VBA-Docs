@@ -3,7 +3,6 @@ title: RuleConditions.FormName property (Outlook)
 keywords: vbaol11.chm2314
 f1_keywords:
 - vbaol11.chm2314
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.FormName
 ms.assetid: 9f292443-1af7-500e-2959-1fce4c7d4824

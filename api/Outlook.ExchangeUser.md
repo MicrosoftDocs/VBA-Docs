@@ -3,7 +3,6 @@ title: ExchangeUser object (Outlook)
 keywords: vbaol11.chm3158
 f1_keywords:
 - vbaol11.chm3158
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser
 ms.assetid: 6ec117d1-7fdb-aa36-b567-1242f8238df0

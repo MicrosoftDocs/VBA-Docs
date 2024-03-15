@@ -3,7 +3,6 @@ title: OlkContactPhoto.Click event (Outlook)
 keywords: vbaol11.chm1000311
 f1_keywords:
 - vbaol11.chm1000311
-ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.Click
 ms.assetid: 42c2bd28-26ee-f1a9-2b01-3fb5f6a2e23a

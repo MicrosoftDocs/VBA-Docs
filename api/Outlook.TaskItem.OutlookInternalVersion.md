@@ -3,7 +3,6 @@ title: TaskItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1704
 f1_keywords:
 - vbaol11.chm1704
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.OutlookInternalVersion
 ms.assetid: 5b7a31be-0c9f-b8f3-7cc3-0c117aa0f809

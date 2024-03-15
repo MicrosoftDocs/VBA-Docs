@@ -3,7 +3,6 @@ title: FormDescription.CategorySub property (Outlook)
 keywords: vbaol11.chm184
 f1_keywords:
 - vbaol11.chm184
-ms.prod: outlook
 api_name:
 - Outlook.FormDescription.CategorySub
 ms.assetid: 84bc3890-eab7-7ad4-7d7a-fe90e520412a

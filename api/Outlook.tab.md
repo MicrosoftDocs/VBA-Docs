@@ -1,6 +1,5 @@
 ---
 title: Tab object (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: b5571953-0e47-a994-3e82-4e439a77afa8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

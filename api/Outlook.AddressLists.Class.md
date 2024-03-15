@@ -3,7 +3,6 @@ title: AddressLists.Class property (Outlook)
 keywords: vbaol11.chm89
 f1_keywords:
 - vbaol11.chm89
-ms.prod: outlook
 api_name:
 - Outlook.AddressLists.Class
 ms.assetid: 5e2a57fd-fa31-099a-457b-69259ae280c3

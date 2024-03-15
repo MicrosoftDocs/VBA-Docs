@@ -3,7 +3,6 @@ title: Store.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm811
 f1_keywords:
 - vbaol11.chm811
-ms.prod: outlook
 api_name:
 - Outlook.Store.PropertyAccessor
 ms.assetid: 4c3ccfc9-8f8a-aa2b-f7f5-5945ffe55f31

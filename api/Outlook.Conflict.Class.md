@@ -3,7 +3,6 @@ title: Conflict.Class property (Outlook)
 keywords: vbaol11.chm412
 f1_keywords:
 - vbaol11.chm412
-ms.prod: outlook
 api_name:
 - Outlook.Conflict.Class
 ms.assetid: dec03590-e169-2ff3-f205-20c347e80693

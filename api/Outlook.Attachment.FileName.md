@@ -3,7 +3,6 @@ title: Attachment.FileName property (Outlook)
 keywords: vbaol11.chm2366
 f1_keywords:
 - vbaol11.chm2366
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.FileName
 ms.assetid: 8ed74b00-3905-85d3-d6ea-57c063766146

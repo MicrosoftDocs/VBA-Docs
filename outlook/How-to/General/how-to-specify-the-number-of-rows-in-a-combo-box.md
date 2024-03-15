@@ -3,7 +3,6 @@ title: "How to: Specify the Number of Rows in a Combo Box"
 keywords: olfm10.chm3077207
 f1_keywords:
 - olfm10.chm3077207
-ms.prod: outlook
 ms.assetid: 53486763-8dbf-dddf-7108-fe187f06b593
 ms.date: 06/08/2019
 ms.localizationpriority: medium

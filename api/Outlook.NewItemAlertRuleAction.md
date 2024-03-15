@@ -3,7 +3,6 @@ title: NewItemAlertRuleAction object (Outlook)
 keywords: vbaol11.chm3171
 f1_keywords:
 - vbaol11.chm3171
-ms.prod: outlook
 api_name:
 - Outlook.NewItemAlertRuleAction
 ms.assetid: 01d30816-50aa-ff23-69a0-4aa627b3d7e4
