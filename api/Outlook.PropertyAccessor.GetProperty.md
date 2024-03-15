@@ -3,7 +3,6 @@ title: PropertyAccessor.GetProperty method (Outlook)
 keywords: vbaol11.chm1970
 f1_keywords:
 - vbaol11.chm1970
-ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.GetProperty
 ms.assetid: a5f3493b-f302-c7b6-f442-23a7605be1c1

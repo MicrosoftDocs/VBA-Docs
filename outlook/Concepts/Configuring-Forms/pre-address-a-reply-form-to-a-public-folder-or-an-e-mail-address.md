@@ -1,6 +1,5 @@
 ---
 title: Pre-address a Reply Form to a Public Folder or an Email Address
-ms.prod: outlook
 ms.assetid: f6986661-b42b-0421-cf08-cecad4e0e7b1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

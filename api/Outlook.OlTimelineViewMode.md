@@ -3,7 +3,6 @@ title: OlTimelineViewMode enumeration (Outlook)
 keywords: vbaol11.chm3128
 f1_keywords:
 - vbaol11.chm3128
-ms.prod: outlook
 api_name:
 - Outlook.OlTimelineViewMode
 ms.assetid: 66d8d00b-3c6b-d9dc-4d8c-fc8170bdd879

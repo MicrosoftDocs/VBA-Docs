@@ -3,7 +3,6 @@ title: AppointmentItem.ReminderMinutesBeforeStart property (Outlook)
 keywords: vbaol11.chm892
 f1_keywords:
 - vbaol11.chm892
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReminderMinutesBeforeStart
 ms.assetid: d83269fc-b706-d285-d8ec-23fed4952955

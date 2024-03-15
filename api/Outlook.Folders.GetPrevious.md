@@ -3,7 +3,6 @@ title: Folders.GetPrevious method (Outlook)
 keywords: vbaol11.chm50
 f1_keywords:
 - vbaol11.chm50
-ms.prod: outlook
 api_name:
 - Outlook.Folders.GetPrevious
 ms.assetid: 8e7af763-e1a9-6912-c5a4-bf1ce6f73a9f

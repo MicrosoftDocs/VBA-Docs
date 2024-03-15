@@ -3,7 +3,6 @@ title: MailItem.PermissionTemplateGuid property (Outlook)
 keywords: vbaol11.chm3507
 f1_keywords:
 - vbaol11.chm3507
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.PermissionTemplateGuid
 ms.assetid: 33436080-1a1c-dee2-5048-83392c241e86

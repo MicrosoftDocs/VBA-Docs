@@ -3,7 +3,6 @@ title: OlkTextBox.AutoSize property (Outlook)
 keywords: vbaol11.chm1000035
 f1_keywords:
 - vbaol11.chm1000035
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.AutoSize
 ms.assetid: 2445da74-24ff-8f22-a55a-b6f39a79129b

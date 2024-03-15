@@ -3,7 +3,6 @@ title: ReportItem.Sensitivity property (Outlook)
 keywords: vbaol11.chm1659
 f1_keywords:
 - vbaol11.chm1659
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Sensitivity
 ms.assetid: a5d225a9-5667-43df-a580-8c20cf69438a

@@ -3,7 +3,6 @@ title: Referencing Controls on an Outlook Form
 keywords: olfm10.chm3077115
 f1_keywords:
 - olfm10.chm3077115
-ms.prod: outlook
 ms.assetid: 1393bd23-de16-4a59-e656-f0fcc6583a3e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

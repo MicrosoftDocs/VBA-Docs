@@ -3,7 +3,6 @@ title: CalendarView.DaysInMultiDayMode property (Outlook)
 keywords: vbaol11.chm2640
 f1_keywords:
 - vbaol11.chm2640
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.DaysInMultiDayMode
 ms.assetid: 1dcb2a69-93b9-432e-56ca-7e39b040dc6f

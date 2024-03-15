@@ -3,7 +3,6 @@ title: Items object (Outlook)
 keywords: vbaol11.chm2998
 f1_keywords:
 - vbaol11.chm2998
-ms.prod: outlook
 api_name:
 - Outlook.Items
 ms.assetid: 3a99730b-e62a-5ca6-f6ec-911c95173242
