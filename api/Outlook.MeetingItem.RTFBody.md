@@ -3,7 +3,6 @@ title: MeetingItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3526
 f1_keywords:
 - vbaol11.chm3526
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.RTFBody
 ms.assetid: 4bf67ee1-f0bc-92b8-948f-2de7807a1dd3

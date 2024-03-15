@@ -3,7 +3,6 @@ title: DocumentItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1220
 f1_keywords:
 - vbaol11.chm1220
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.ItemProperties
 ms.assetid: 33d37d27-e35a-2855-d3f8-167ff3dbd8da

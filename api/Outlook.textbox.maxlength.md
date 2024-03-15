@@ -1,6 +1,5 @@
 ---
 title: TextBox.MaxLength Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 4e13335e-120e-e669-181b-9cef7f42f99d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

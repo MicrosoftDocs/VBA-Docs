@@ -3,7 +3,6 @@ title: ContactItem.LastFirstNoSpaceAndSuffix property (Outlook)
 keywords: vbaol11.chm1082
 f1_keywords:
 - vbaol11.chm1082
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastFirstNoSpaceAndSuffix
 ms.assetid: 15c9527b-3837-d4a0-0249-2cd751e4379f

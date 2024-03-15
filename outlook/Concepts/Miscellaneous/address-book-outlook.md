@@ -1,6 +1,5 @@
 ---
 title: Address Book (Outlook)
-ms.prod: outlook
 ms.assetid: 23cb44fa-2ff1-40df-a830-4c95f5652e20
 ms.date: 06/08/2019
 ms.localizationpriority: medium

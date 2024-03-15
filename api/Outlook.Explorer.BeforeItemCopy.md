@@ -3,7 +3,6 @@ title: Explorer.BeforeItemCopy event (Outlook)
 keywords: vbaol11.chm461
 f1_keywords:
 - vbaol11.chm461
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeItemCopy
 ms.assetid: 05ae7be8-5528-5560-f8ce-73f0afbf4cde

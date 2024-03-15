@@ -3,7 +3,6 @@ title: TaskRequestItem.Importance property (Outlook)
 keywords: vbaol11.chm1884
 f1_keywords:
 - vbaol11.chm1884
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.Importance
 ms.assetid: dec6da14-82f8-f519-82be-5ec73762504e

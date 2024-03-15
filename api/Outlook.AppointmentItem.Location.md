@@ -3,7 +3,6 @@ title: AppointmentItem.Location property (Outlook)
 keywords: vbaol11.chm882
 f1_keywords:
 - vbaol11.chm882
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Location
 ms.assetid: bde4d455-15de-bb29-c27e-99c34836bd46

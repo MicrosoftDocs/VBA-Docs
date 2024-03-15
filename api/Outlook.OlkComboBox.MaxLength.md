@@ -3,7 +3,6 @@ title: OlkComboBox.MaxLength property (Outlook)
 keywords: vbaol11.chm1000210
 f1_keywords:
 - vbaol11.chm1000210
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MaxLength
 ms.assetid: 87248b73-a6c5-0cc1-a711-13922195f406

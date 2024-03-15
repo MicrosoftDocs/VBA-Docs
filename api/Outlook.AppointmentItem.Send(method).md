@@ -3,7 +3,6 @@ title: AppointmentItem.Send method (Outlook)
 keywords: vbaol11.chm907
 f1_keywords:
 - vbaol11.chm907
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Send
 ms.assetid: 72f2e997-55ef-b98b-fdd1-7f3b810a28ed

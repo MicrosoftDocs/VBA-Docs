@@ -3,7 +3,6 @@ title: PostItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1562
 f1_keywords:
 - vbaol11.chm1562
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.MarkForDownload
 ms.assetid: 1b263e7f-923b-89ba-a63c-18af6efa7d38
