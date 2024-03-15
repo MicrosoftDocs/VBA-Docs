@@ -3,7 +3,6 @@ title: TaskItem.Categories property (Outlook)
 keywords: vbaol11.chm1690
 f1_keywords:
 - vbaol11.chm1690
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Categories
 ms.assetid: c4099fe0-23af-a4cb-dfef-92cbe0c6e600

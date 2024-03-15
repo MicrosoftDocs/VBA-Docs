@@ -3,7 +3,6 @@ title: About the Object Environment
 keywords: olfm10.chm3077351
 f1_keywords:
 - olfm10.chm3077351
-ms.prod: outlook
 ms.assetid: 03aa62d6-23be-8a2e-73e2-b1ff6307545d
 ms.date: 06/08/2019
 ms.localizationpriority: medium

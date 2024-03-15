@@ -3,7 +3,6 @@ title: OlkTimeZoneControl.Enabled property (Outlook)
 keywords: vbaol11.chm1000537
 f1_keywords:
 - vbaol11.chm1000537
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeZoneControl.Enabled
 ms.assetid: a9c461b6-3ecb-bb12-b886-31b7d1d5c36f

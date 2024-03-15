@@ -3,7 +3,6 @@ title: OlkListBox.KeyUp event (Outlook)
 keywords: vbaol11.chm1000289
 f1_keywords:
 - vbaol11.chm1000289
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.KeyUp
 ms.assetid: 78a6ce9e-ee5c-977c-44fe-6438d34e845d

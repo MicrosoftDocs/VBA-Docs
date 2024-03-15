@@ -3,7 +3,6 @@ title: NameSpace.Type property (Outlook)
 keywords: vbaol11.chm758
 f1_keywords:
 - vbaol11.chm758
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Type
 ms.assetid: a6872028-0588-94b6-086a-03cf830cd339

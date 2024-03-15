@@ -3,7 +3,6 @@ title: ViewFont.ExtendedColor property (Outlook)
 keywords: vbaol11.chm3491
 f1_keywords:
 - vbaol11.chm3491
-ms.prod: outlook
 api_name:
 - Outlook.ViewFont.ExtendedColor
 ms.assetid: 6d7c33a6-e69a-3449-1ede-d3919d774791

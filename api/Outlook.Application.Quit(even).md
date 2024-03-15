@@ -3,7 +3,6 @@ title: Application.Quit event (Outlook)
 keywords: vbaol11.chm434
 f1_keywords:
 - vbaol11.chm434
-ms.prod: outlook
 api_name:
 - Outlook.Application.Quit
 ms.assetid: ecf0b50b-db6f-7eaf-90bd-bae942bf9287

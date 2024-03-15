@@ -3,7 +3,6 @@ title: Panes object (Outlook)
 keywords: vbaol11.chm73
 f1_keywords:
 - vbaol11.chm73
-ms.prod: outlook
 api_name:
 - Outlook.Panes
 ms.assetid: 657d1adf-41e0-858f-c734-e435153ae9ad

@@ -3,7 +3,6 @@ title: SharingItem.Conflicts property (Outlook)
 keywords: vbaol11.chm685
 f1_keywords:
 - vbaol11.chm685
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Conflicts
 ms.assetid: e149163f-e6fa-7e86-7d8d-a2952af9c8c5

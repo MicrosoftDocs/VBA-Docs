@@ -3,7 +3,6 @@ title: OlkCheckBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000141
 f1_keywords:
 - vbaol11.chm1000141
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.ForeColor
 ms.assetid: 1c38bdb4-8256-4db7-5f95-68e4e31303a7
