@@ -3,7 +3,6 @@ title: OlkInfoBar.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000295
 f1_keywords:
 - vbaol11.chm1000295
-ms.prod: outlook
 api_name:
 - Outlook.OlkInfoBar.MouseIcon
 ms.assetid: 4459fbcc-52e5-4402-4b04-6be28e7ff7fe

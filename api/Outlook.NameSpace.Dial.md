@@ -3,7 +3,6 @@ title: NameSpace.Dial method (Outlook)
 keywords: vbaol11.chm774
 f1_keywords:
 - vbaol11.chm774
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Dial
 ms.assetid: 1fd29ed8-e983-c668-c48f-f642c56bfcd2

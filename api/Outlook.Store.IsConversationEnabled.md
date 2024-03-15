@@ -3,7 +3,6 @@ title: Store.IsConversationEnabled property (Outlook)
 keywords: vbaol11.chm3518
 f1_keywords:
 - vbaol11.chm3518
-ms.prod: outlook
 api_name:
 - Outlook.Store.IsConversationEnabled
 ms.assetid: ce333881-a5f3-2115-0ae4-296d15c4bead

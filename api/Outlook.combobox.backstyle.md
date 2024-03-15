@@ -1,6 +1,5 @@
 ---
 title: ComboBox.BackStyle Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 8b14c77c-9e95-ae17-d919-d586415a89a4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

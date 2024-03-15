@@ -3,7 +3,6 @@ title: OlkComboBox.Clear method (Outlook)
 keywords: vbaol11.chm1000229
 f1_keywords:
 - vbaol11.chm1000229
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Clear
 ms.assetid: e81ed068-2418-a362-a6ed-946a7f9012d1

@@ -3,7 +3,6 @@ title: Explorer.Activate method (Outlook)
 keywords: vbaol11.chm2774
 f1_keywords:
 - vbaol11.chm2774
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Activate
 ms.assetid: 53f33d64-7a33-6772-4abc-fe328d3abb57

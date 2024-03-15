@@ -3,7 +3,6 @@ title: SendRuleAction.Parent property (Outlook)
 keywords: vbaol11.chm2219
 f1_keywords:
 - vbaol11.chm2219
-ms.prod: outlook
 api_name:
 - Outlook.SendRuleAction.Parent
 ms.assetid: 67c8a668-95b2-c70a-ae14-2d01363e5b2d

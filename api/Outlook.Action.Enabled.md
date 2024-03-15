@@ -3,7 +3,6 @@ title: Action.Enabled property (Outlook)
 keywords: vbaol11.chm15
 f1_keywords:
 - vbaol11.chm15
-ms.prod: outlook
 api_name:
 - Outlook.Action.Enabled
 ms.assetid: 090b5fdf-42fb-4da8-fb8f-74accaf1dc80

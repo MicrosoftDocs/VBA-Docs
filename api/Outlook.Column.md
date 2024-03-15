@@ -3,7 +3,6 @@ title: Column object (Outlook)
 keywords: vbaol11.chm3191
 f1_keywords:
 - vbaol11.chm3191
-ms.prod: outlook
 api_name:
 - Outlook.Column
 ms.assetid: b7eb6916-2d80-57c3-2077-47a2a4c73185

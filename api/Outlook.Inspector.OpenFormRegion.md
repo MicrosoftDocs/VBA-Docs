@@ -3,7 +3,6 @@ title: Inspector.OpenFormRegion method (Outlook)
 keywords: vbaol11.chm2982
 f1_keywords:
 - vbaol11.chm2982
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.OpenFormRegion
 ms.assetid: c574d034-6c8e-388b-f93f-cf899db24ae6
