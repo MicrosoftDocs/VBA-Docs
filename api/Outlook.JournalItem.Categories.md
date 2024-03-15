@@ -3,7 +3,6 @@ title: JournalItem.Categories property (Outlook)
 keywords: vbaol11.chm1235
 f1_keywords:
 - vbaol11.chm1235
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Categories
 ms.assetid: 640caa61-a29f-e6d4-8833-a3d263b2d00e

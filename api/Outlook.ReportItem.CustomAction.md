@@ -1,6 +1,5 @@
 ---
 title: ReportItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.CustomAction
 ms.assetid: 33212db2-878f-1672-1fc9-90ddd4800f0c

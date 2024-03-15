@@ -3,7 +3,6 @@ title: OlViewType enumeration (Outlook)
 keywords: vbaol11.chm3096
 f1_keywords:
 - vbaol11.chm3096
-ms.prod: outlook
 api_name:
 - Outlook.OlViewType
 ms.assetid: f2fec9d0-55c2-0991-0e1b-4dd653fdf09d

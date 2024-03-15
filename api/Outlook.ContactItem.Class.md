@@ -3,7 +3,6 @@ title: ContactItem.Class property (Outlook)
 keywords: vbaol11.chm927
 f1_keywords:
 - vbaol11.chm927
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Class
 ms.assetid: 7c08cb72-fdbb-aac8-2691-382bfdae22c8

@@ -3,7 +3,6 @@ title: StorageItem.Creator property (Outlook)
 keywords: vbaol11.chm2152
 f1_keywords:
 - vbaol11.chm2152
-ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Creator
 ms.assetid: c89c777c-5f4b-f672-ff74-d34db3bcd790

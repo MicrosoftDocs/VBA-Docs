@@ -1,6 +1,5 @@
 ---
 title: Filtering Items Using Query Keywords
-ms.prod: outlook
 ms.assetid: d7e6b169-c5fd-7acc-f077-658a153a921f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

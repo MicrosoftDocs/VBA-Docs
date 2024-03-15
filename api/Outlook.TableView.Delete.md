@@ -3,7 +3,6 @@ title: TableView.Delete method (Outlook)
 keywords: vbaol11.chm2505
 f1_keywords:
 - vbaol11.chm2505
-ms.prod: outlook
 api_name:
 - Outlook.TableView.Delete
 ms.assetid: 17ff648a-bfbd-4284-b049-39f0d23df45d

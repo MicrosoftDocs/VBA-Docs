@@ -3,7 +3,6 @@ title: SelectNamesDialog.Session property (Outlook)
 keywords: vbaol11.chm823
 f1_keywords:
 - vbaol11.chm823
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Session
 ms.assetid: 99f445e8-190b-fa26-319f-ff7783b27795

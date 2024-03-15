@@ -3,7 +3,6 @@ title: OlkControl.Format property (Outlook)
 keywords: vbaol11.chm1000542
 f1_keywords:
 - vbaol11.chm1000542
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.Format
 ms.assetid: f2fbaf25-ae06-b954-0de2-a368ce023fb0
