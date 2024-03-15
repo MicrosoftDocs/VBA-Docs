@@ -3,7 +3,6 @@ title: AddressEntry.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2052
 f1_keywords:
 - vbaol11.chm2052
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.GetFreeBusy
 ms.assetid: 8f3c7cbe-a4b5-ef5c-d7d3-1b38273f6f59

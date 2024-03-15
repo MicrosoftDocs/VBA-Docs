@@ -3,7 +3,6 @@ title: Conflict.Parent property (Outlook)
 keywords: vbaol11.chm414
 f1_keywords:
 - vbaol11.chm414
-ms.prod: outlook
 api_name:
 - Outlook.Conflict.Parent
 ms.assetid: b8ec7387-0940-3ba8-6012-ca867a796625

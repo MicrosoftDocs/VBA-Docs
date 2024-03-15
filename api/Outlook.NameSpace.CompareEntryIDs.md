@@ -3,7 +3,6 @@ title: NameSpace.CompareEntryIDs method (Outlook)
 keywords: vbaol11.chm794
 f1_keywords:
 - vbaol11.chm794
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.CompareEntryIDs
 ms.assetid: 4e935803-9c73-03d2-17c9-dcaf169fdbbe

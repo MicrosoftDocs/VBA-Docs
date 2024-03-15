@@ -3,7 +3,6 @@ title: Attachments.Add method (Outlook)
 keywords: vbaol11.chm176
 f1_keywords:
 - vbaol11.chm176
-ms.prod: outlook
 api_name:
 - Outlook.Attachments.Add
 ms.assetid: e11980fd-e1fc-a0c3-cdd0-0e598988d3c2

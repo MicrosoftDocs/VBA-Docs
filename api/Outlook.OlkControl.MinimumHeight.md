@@ -3,7 +3,6 @@ title: OlkControl.MinimumHeight property (Outlook)
 keywords: vbaol11.chm1000508
 f1_keywords:
 - vbaol11.chm1000508
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.MinimumHeight
 ms.assetid: f1d5f220-47c4-675b-2be9-5c3d5e8e1a20

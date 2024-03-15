@@ -3,7 +3,6 @@ title: OlkComboBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000200
 f1_keywords:
 - vbaol11.chm1000200
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Enabled
 ms.assetid: cee71271-8733-07ce-9c68-cc847ecb070e

@@ -3,7 +3,6 @@ title: SelectNamesDialog.Application property (Outlook)
 keywords: vbaol11.chm821
 f1_keywords:
 - vbaol11.chm821
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Application
 ms.assetid: 8474d790-cb56-ad0a-800d-e1d138767b28

@@ -1,6 +1,5 @@
 ---
 title: ReportItem.AttachmentAdd event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AttachmentAdd
 ms.assetid: e57a3f9b-f5a5-e345-aca7-1ab0a1c141e3

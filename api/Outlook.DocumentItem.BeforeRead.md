@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.BeforeRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeRead
 ms.assetid: 5b494a75-3d56-ee3f-8415-b44bca720440

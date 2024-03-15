@@ -3,7 +3,6 @@ title: PropertyAccessor.DeleteProperties method (Outlook)
 keywords: vbaol11.chm1979
 f1_keywords:
 - vbaol11.chm1979
-ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.DeleteProperties
 ms.assetid: e9c11799-cb75-fd8c-0c98-aca46796bb46

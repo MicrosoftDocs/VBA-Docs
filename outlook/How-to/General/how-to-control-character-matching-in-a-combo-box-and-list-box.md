@@ -3,7 +3,6 @@ title: "How to: Control Character Matching in a Combo Box and List Box"
 keywords: olfm10.chm3077212
 f1_keywords:
 - olfm10.chm3077212
-ms.prod: outlook
 ms.assetid: 09557015-d581-a09f-499e-86bd4211588e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

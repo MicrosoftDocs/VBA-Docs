@@ -3,7 +3,6 @@ title: UserProperty.ValidationText property (Outlook)
 keywords: vbaol11.chm221
 f1_keywords:
 - vbaol11.chm221
-ms.prod: outlook
 api_name:
 - Outlook.UserProperty.ValidationText
 ms.assetid: f2defd65-2c48-a24a-8cdc-a05b752cde53

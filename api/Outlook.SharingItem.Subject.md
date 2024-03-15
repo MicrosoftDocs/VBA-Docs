@@ -3,7 +3,6 @@ title: SharingItem.Subject property (Outlook)
 keywords: vbaol11.chm620
 f1_keywords:
 - vbaol11.chm620
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Subject
 ms.assetid: f774ec0f-226a-f2f8-6865-4457b26fdacc

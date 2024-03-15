@@ -3,7 +3,6 @@ title: MailItem.VotingOptions property (Outlook)
 keywords: vbaol11.chm1363
 f1_keywords:
 - vbaol11.chm1363
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.VotingOptions
 ms.assetid: 696b6dfe-1840-d43b-e6ec-e410a387665c

@@ -3,7 +3,6 @@ title: ContactItem.Spouse property (Outlook)
 keywords: vbaol11.chm1065
 f1_keywords:
 - vbaol11.chm1065
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Spouse
 ms.assetid: 4ca95e03-ec75-702a-3d7a-f2f36822d3b7

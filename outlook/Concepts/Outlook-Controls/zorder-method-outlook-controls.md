@@ -3,7 +3,6 @@ title: ZOrder Method (Outlook Controls)
 keywords: olfm10.chm2000460
 f1_keywords:
 - olfm10.chm2000460
-ms.prod: outlook
 ms.assetid: 62bf7af1-8935-fd5e-da70-1b93408e015e
 ms.date: 06/08/2019
 ms.localizationpriority: medium
