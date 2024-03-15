@@ -3,7 +3,6 @@ title: TimelineView.Delete method (Outlook)
 keywords: vbaol11.chm2648
 f1_keywords:
 - vbaol11.chm2648
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Delete
 ms.assetid: d376fc7e-d702-bb64-962d-ea5186fce5ab

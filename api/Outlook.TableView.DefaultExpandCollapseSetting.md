@@ -3,7 +3,6 @@ title: TableView.DefaultExpandCollapseSetting property (Outlook)
 keywords: vbaol11.chm2522
 f1_keywords:
 - vbaol11.chm2522
-ms.prod: outlook
 api_name:
 - Outlook.TableView.DefaultExpandCollapseSetting
 ms.assetid: 16b30b8b-6c51-1b14-f5e2-0dff68461b7a

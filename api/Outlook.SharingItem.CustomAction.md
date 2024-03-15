@@ -1,6 +1,5 @@
 ---
 title: SharingItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.CustomAction
 ms.assetid: 6b10bd1f-c67b-ad31-a62b-8c6255ba4518

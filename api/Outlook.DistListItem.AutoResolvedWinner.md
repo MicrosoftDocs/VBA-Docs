@@ -3,7 +3,6 @@ title: DistListItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1164
 f1_keywords:
 - vbaol11.chm1164
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AutoResolvedWinner
 ms.assetid: cb43f885-07b0-aa7c-a055-7eb8027ee766

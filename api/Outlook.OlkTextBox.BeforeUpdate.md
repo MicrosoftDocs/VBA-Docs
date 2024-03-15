@@ -3,7 +3,6 @@ title: OlkTextBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000083
 f1_keywords:
 - vbaol11.chm1000083
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.BeforeUpdate
 ms.assetid: bf65f754-abcd-8a0a-53de-2c2ee76d27f8

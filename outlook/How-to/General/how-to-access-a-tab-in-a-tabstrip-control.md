@@ -3,7 +3,6 @@ title: "How to: Access a Tab in a TabStrip Control"
 keywords: olfm10.chm3077151
 f1_keywords:
 - olfm10.chm3077151
-ms.prod: outlook
 ms.assetid: 29aba68e-7123-2c41-795f-7bdba8d1b89f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

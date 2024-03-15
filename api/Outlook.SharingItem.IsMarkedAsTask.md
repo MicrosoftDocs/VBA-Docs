@@ -3,7 +3,6 @@ title: SharingItem.IsMarkedAsTask property (Outlook)
 keywords: vbaol11.chm3225
 f1_keywords:
 - vbaol11.chm3225
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.IsMarkedAsTask
 ms.assetid: d71f55d2-d613-d922-dead-14d3b6916a2e

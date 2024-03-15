@@ -3,7 +3,6 @@ title: NoteItem object (Outlook)
 keywords: vbaol11.chm3001
 f1_keywords:
 - vbaol11.chm3001
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem
 ms.assetid: ddf5baaa-6e13-a6fb-96e8-311e7761fa98
