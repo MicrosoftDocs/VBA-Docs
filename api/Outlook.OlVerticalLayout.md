@@ -3,7 +3,6 @@ title: OlVerticalLayout enumeration (Outlook)
 keywords: vbaol11.chm1000539
 f1_keywords:
 - vbaol11.chm1000539
-ms.prod: outlook
 api_name:
 - Outlook.OlVerticalLayout
 ms.assetid: 4b94eee9-65a7-c2ad-323d-f321a6a716af

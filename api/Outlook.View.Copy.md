@@ -3,7 +3,6 @@ title: View.Copy method (Outlook)
 keywords: vbaol11.chm2485
 f1_keywords:
 - vbaol11.chm2485
-ms.prod: outlook
 api_name:
 - Outlook.View.Copy
 ms.assetid: dfa82ef6-94f1-5c7d-eea5-600f992992d3

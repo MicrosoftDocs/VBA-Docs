@@ -3,7 +3,6 @@ title: PostItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm1576
 f1_keywords:
 - vbaol11.chm1576
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.ReminderOverrideDefault
 ms.assetid: ee8e8003-7aac-563d-992e-f3cd09901318

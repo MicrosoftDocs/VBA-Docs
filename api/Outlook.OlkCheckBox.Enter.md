@@ -3,7 +3,6 @@ title: OlkCheckBox.Enter event (Outlook)
 keywords: vbaol11.chm1000154
 f1_keywords:
 - vbaol11.chm1000154
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Enter
 ms.assetid: 2e06439a-7888-d970-7fa7-9893af2aab69

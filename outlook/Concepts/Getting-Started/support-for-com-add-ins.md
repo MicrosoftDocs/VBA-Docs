@@ -3,7 +3,6 @@ title: Support for COM Add-ins
 keywords: vbaol11.chm5268746
 f1_keywords:
 - vbaol11.chm5268746
-ms.prod: outlook
 ms.assetid: ba62d71d-7ec3-c2b8-8f81-6fded20ff9e3
 ms.date: 06/08/2019
 ms.localizationpriority: medium

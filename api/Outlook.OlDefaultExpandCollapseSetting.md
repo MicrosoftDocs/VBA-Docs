@@ -3,7 +3,6 @@ title: OlDefaultExpandCollapseSetting enumeration (Outlook)
 keywords: vbaol11.chm3121
 f1_keywords:
 - vbaol11.chm3121
-ms.prod: outlook
 api_name:
 - Outlook.OlDefaultExpandCollapseSetting
 ms.assetid: b05310dc-0bb6-2f78-d3f2-56c02402bbf9

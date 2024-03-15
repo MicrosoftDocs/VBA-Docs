@@ -3,7 +3,6 @@ title: OlkTextBox.Change event (Outlook)
 keywords: vbaol11.chm1000081
 f1_keywords:
 - vbaol11.chm1000081
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Change
 ms.assetid: c97e90c1-f105-001d-d5ed-f632f6a42636

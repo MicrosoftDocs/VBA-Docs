@@ -3,7 +3,6 @@ title: MailItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3468
 f1_keywords:
 - vbaol11.chm3468
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.ConversationID
 ms.assetid: 97532cd6-397b-303e-b265-7923b371bf9d
