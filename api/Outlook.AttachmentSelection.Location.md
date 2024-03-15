@@ -3,7 +3,6 @@ title: AttachmentSelection.Location property (Outlook)
 keywords: vbaol11.chm3482
 f1_keywords:
 - vbaol11.chm3482
-ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.Location
 ms.assetid: 2d42bdb6-28c4-b923-e0da-645582a764f8

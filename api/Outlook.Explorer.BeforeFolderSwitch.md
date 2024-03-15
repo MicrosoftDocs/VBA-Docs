@@ -3,7 +3,6 @@ title: Explorer.BeforeFolderSwitch event (Outlook)
 keywords: vbaol11.chm451
 f1_keywords:
 - vbaol11.chm451
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeFolderSwitch
 ms.assetid: ae65c073-6b4a-ac81-c4ae-691118b19df0

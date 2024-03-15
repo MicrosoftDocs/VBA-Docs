@@ -3,7 +3,6 @@ title: DocumentItem.Companies property (Outlook)
 keywords: vbaol11.chm1188
 f1_keywords:
 - vbaol11.chm1188
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Companies
 ms.assetid: 0087f608-61cf-39b4-47cf-6b002aab6466

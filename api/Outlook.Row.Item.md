@@ -3,7 +3,6 @@ title: Row.Item method (Outlook)
 keywords: vbaol11.chm2245
 f1_keywords:
 - vbaol11.chm2245
-ms.prod: outlook
 api_name:
 - Outlook.Row.Item
 ms.assetid: fa9a6b26-ddfe-f306-5f45-140756f398c9

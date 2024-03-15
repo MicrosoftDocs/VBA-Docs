@@ -3,7 +3,6 @@ title: DocumentItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1191
 f1_keywords:
 - vbaol11.chm1191
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.CreationTime
 ms.assetid: 83269f49-59a7-d3e0-932e-5ca697977614

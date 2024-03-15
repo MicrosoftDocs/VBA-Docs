@@ -3,7 +3,6 @@ title: PostItem.DownloadState property (Outlook)
 keywords: vbaol11.chm1559
 f1_keywords:
 - vbaol11.chm1559
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.DownloadState
 ms.assetid: e1b4a5d4-2b2b-fbe6-f8c7-154b80d7ec28

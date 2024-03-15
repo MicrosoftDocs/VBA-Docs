@@ -3,7 +3,6 @@ title: OlkTimeControl.EnterFieldBehavior property (Outlook)
 keywords: vbaol11.chm1000384
 f1_keywords:
 - vbaol11.chm1000384
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.EnterFieldBehavior
 ms.assetid: 72e4d3a1-10cc-23a6-7bad-1ddca73c9db3

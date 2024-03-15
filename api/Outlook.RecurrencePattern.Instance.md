@@ -3,7 +3,6 @@ title: RecurrencePattern.Instance property (Outlook)
 keywords: vbaol11.chm278
 f1_keywords:
 - vbaol11.chm278
-ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.Instance
 ms.assetid: 3458aeff-97b7-02f8-e352-203ecc92dedd

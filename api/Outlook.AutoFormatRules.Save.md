@@ -3,7 +3,6 @@ title: AutoFormatRules.Save method (Outlook)
 keywords: vbaol11.chm3214
 f1_keywords:
 - vbaol11.chm3214
-ms.prod: outlook
 api_name:
 - Outlook.AutoFormatRules.Save
 ms.assetid: b8e50ee5-a9c4-0af4-4cb8-5953cf29a915

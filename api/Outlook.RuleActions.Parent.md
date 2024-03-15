@@ -3,7 +3,6 @@ title: RuleActions.Parent property (Outlook)
 keywords: vbaol11.chm2181
 f1_keywords:
 - vbaol11.chm2181
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.Parent
 ms.assetid: 697b3625-f184-b6d7-9788-bf74377d636b
