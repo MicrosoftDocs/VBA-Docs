@@ -3,7 +3,6 @@ title: ReportItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1675
 f1_keywords:
 - vbaol11.chm1675
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.ItemProperties
 ms.assetid: ec1ea335-6ccd-2b9e-398b-f4b44d017c41

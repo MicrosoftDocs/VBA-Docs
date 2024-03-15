@@ -3,7 +3,6 @@ title: ExchangeDistributionList.Class property (Outlook)
 keywords: vbaol11.chm2109
 f1_keywords:
 - vbaol11.chm2109
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Class
 ms.assetid: 41846448-04be-4917-5910-f0499da889d0

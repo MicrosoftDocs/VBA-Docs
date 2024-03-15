@@ -2,7 +2,6 @@
 title: TaskRequestDeclineItem.ReadComplete event (Outlook)
 ms.assetid: 7f161f3d-c915-8355-977b-03b1d15ac8b5
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 

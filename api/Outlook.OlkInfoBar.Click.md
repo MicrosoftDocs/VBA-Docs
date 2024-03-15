@@ -3,7 +3,6 @@ title: OlkInfoBar.Click event (Outlook)
 keywords: vbaol11.chm1000299
 f1_keywords:
 - vbaol11.chm1000299
-ms.prod: outlook
 api_name:
 - Outlook.OlkInfoBar.Click
 ms.assetid: 05d1cc58-f7be-d653-7450-cae2eb5b4809

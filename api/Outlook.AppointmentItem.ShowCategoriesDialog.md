@@ -3,7 +3,6 @@ title: AppointmentItem.ShowCategoriesDialog method (Outlook)
 keywords: vbaol11.chm915
 f1_keywords:
 - vbaol11.chm915
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ShowCategoriesDialog
 ms.assetid: 5b79f252-ffce-a59d-873f-48efe467df3b

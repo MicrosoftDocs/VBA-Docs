@@ -3,7 +3,6 @@ title: TableView.AutoPreviewFont property (Outlook)
 keywords: vbaol11.chm2535
 f1_keywords:
 - vbaol11.chm2535
-ms.prod: outlook
 api_name:
 - Outlook.TableView.AutoPreviewFont
 ms.assetid: 988e7bc4-9957-f611-b89e-1eb7a14fbfcc

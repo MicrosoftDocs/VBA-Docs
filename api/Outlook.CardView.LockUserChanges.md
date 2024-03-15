@@ -3,7 +3,6 @@ title: CardView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2589
 f1_keywords:
 - vbaol11.chm2589
-ms.prod: outlook
 api_name:
 - Outlook.CardView.LockUserChanges
 ms.assetid: a9fea66c-36b3-6c72-8aee-dc77ca8ae215

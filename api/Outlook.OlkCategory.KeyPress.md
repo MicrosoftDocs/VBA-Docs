@@ -3,7 +3,6 @@ title: OlkCategory.KeyPress event (Outlook)
 keywords: vbaol11.chm1000457
 f1_keywords:
 - vbaol11.chm1000457
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.KeyPress
 ms.assetid: 15a26c77-d82f-f734-f294-54d38a657af3

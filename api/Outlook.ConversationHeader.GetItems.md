@@ -3,7 +3,6 @@ title: ConversationHeader.GetItems method (Outlook)
 keywords: vbaol11.chm3544
 f1_keywords:
 - vbaol11.chm3544
-ms.prod: outlook
 api_name:
 - Outlook.ConversationHeader.GetItems
 ms.assetid: 018fab26-3cdc-cd39-4a16-fb2a26ae237f
