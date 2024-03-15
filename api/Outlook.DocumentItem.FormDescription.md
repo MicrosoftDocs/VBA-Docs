@@ -3,7 +3,6 @@ title: DocumentItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1193
 f1_keywords:
 - vbaol11.chm1193
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.FormDescription
 ms.assetid: d86f50bf-3c9e-c81f-93b5-f6c888f7ee38

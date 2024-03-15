@@ -3,7 +3,6 @@ title: Using Visual Basic with Outlook
 keywords: olfm10.chm3077137
 f1_keywords:
 - olfm10.chm3077137
-ms.prod: outlook
 ms.assetid: ddcdada6-7dc1-1c7d-0165-27f8b353662e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

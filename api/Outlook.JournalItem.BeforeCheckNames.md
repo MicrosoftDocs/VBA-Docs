@@ -1,6 +1,5 @@
 ---
 title: JournalItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeCheckNames
 ms.assetid: b26250e1-5edc-b79e-5e80-eff3d0ca8d57

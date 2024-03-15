@@ -3,7 +3,6 @@ title: SharingItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3564
 f1_keywords:
 - vbaol11.chm3564
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RetentionPolicyName
 ms.assetid: 6b8327ef-4e34-23fb-cd3e-3d6820b6b42e

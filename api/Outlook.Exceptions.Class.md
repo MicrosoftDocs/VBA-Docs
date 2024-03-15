@@ -3,7 +3,6 @@ title: Exceptions.Class property (Outlook)
 keywords: vbaol11.chm291
 f1_keywords:
 - vbaol11.chm291
-ms.prod: outlook
 api_name:
 - Outlook.Exceptions.Class
 ms.assetid: 7cdcc82a-0b30-2c52-3ff3-4d575baa04dd

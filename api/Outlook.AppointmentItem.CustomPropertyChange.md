@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.CustomPropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.CustomPropertyChange
 ms.assetid: f40abc41-efb5-d36e-229b-0b9fbbcf63cd

@@ -3,7 +3,6 @@ title: ExchangeDistributionList.Session property (Outlook)
 keywords: vbaol11.chm2110
 f1_keywords:
 - vbaol11.chm2110
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Session
 ms.assetid: 9488e161-d297-d999-538d-a8b295380701

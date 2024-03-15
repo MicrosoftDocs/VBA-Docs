@@ -1,6 +1,5 @@
 ---
 title: DistListItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Close
 ms.assetid: aaa6dced-cfc7-4dd1-4437-b49d2d3f883e

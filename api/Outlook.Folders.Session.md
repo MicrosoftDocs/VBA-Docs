@@ -3,7 +3,6 @@ title: Folders.Session property (Outlook)
 keywords: vbaol11.chm41
 f1_keywords:
 - vbaol11.chm41
-ms.prod: outlook
 api_name:
 - Outlook.Folders.Session
 ms.assetid: 1f8d8e11-d4d9-6769-37af-5c97e1413023

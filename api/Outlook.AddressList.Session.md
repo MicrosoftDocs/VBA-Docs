@@ -3,7 +3,6 @@ title: AddressList.Session property (Outlook)
 keywords: vbaol11.chm2025
 f1_keywords:
 - vbaol11.chm2025
-ms.prod: outlook
 api_name:
 - Outlook.AddressList.Session
 ms.assetid: ac7d208a-49c8-fe1a-ea33-f7c6d8a700d7

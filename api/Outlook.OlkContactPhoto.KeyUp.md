@@ -3,7 +3,6 @@ title: OlkContactPhoto.KeyUp event (Outlook)
 keywords: vbaol11.chm1000320
 f1_keywords:
 - vbaol11.chm1000320
-ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto.KeyUp
 ms.assetid: ee99874f-e44a-4d76-73d1-66a994444005

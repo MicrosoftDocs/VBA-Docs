@@ -3,7 +3,6 @@ title: AppointmentItem.ForceUpdateToAllAttendees property (Outlook)
 keywords: vbaol11.chm3226
 f1_keywords:
 - vbaol11.chm3226
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ForceUpdateToAllAttendees
 ms.assetid: fe926820-2694-9aa3-8359-cc2ed3ac2f32

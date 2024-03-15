@@ -3,7 +3,6 @@ title: OlkCategory.Enabled property (Outlook)
 keywords: vbaol11.chm1000442
 f1_keywords:
 - vbaol11.chm1000442
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.Enabled
 ms.assetid: 79b761c4-10d2-c797-99bd-5bb60fd7200f

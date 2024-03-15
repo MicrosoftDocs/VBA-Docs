@@ -3,7 +3,6 @@ title: MailItem.TaskDueDate property (Outlook)
 keywords: vbaol11.chm1393
 f1_keywords:
 - vbaol11.chm1393
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.TaskDueDate
 ms.assetid: 161ed0ed-0e3f-2e4c-7e63-daad4e918dd6
