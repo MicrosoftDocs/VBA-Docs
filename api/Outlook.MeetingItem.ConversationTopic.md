@@ -3,7 +3,6 @@ title: MeetingItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm1409
 f1_keywords:
 - vbaol11.chm1409
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ConversationTopic
 ms.assetid: 89b43466-1ac3-3323-235f-2231ae6656b6

@@ -3,7 +3,6 @@ title: OlFormatNumber enumeration (Outlook)
 keywords: vbaol11.chm3137
 f1_keywords:
 - vbaol11.chm3137
-ms.prod: outlook
 api_name:
 - Outlook.OlFormatNumber
 ms.assetid: bffcd79c-2822-6cd8-89f9-0e1361d9bed0

@@ -3,7 +3,6 @@ title: ReportItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1646
 f1_keywords:
 - vbaol11.chm1646
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.CreationTime
 ms.assetid: 5c7665b6-fb36-8e5e-4f90-6997fa108fd3

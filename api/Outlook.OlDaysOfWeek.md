@@ -3,7 +3,6 @@ title: OlDaysOfWeek enumeration (Outlook)
 keywords: vbaol11.chm3054
 f1_keywords:
 - vbaol11.chm3054
-ms.prod: outlook
 api_name:
 - Outlook.OlDaysOfWeek
 ms.assetid: 49712ccf-4ff7-bfdc-c023-94bcd0d97046

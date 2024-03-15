@@ -3,7 +3,6 @@ title: Attachment.GetTemporaryFilePath method (Outlook)
 keywords: vbaol11.chm3522
 f1_keywords:
 - vbaol11.chm3522
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.GetTemporaryFilePath
 ms.assetid: 3313582b-6241-7a59-0c03-b8af36a17d3d

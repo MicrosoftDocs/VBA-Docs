@@ -3,7 +3,6 @@ title: MeetingItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1417
 f1_keywords:
 - vbaol11.chm1417
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.MessageClass
 ms.assetid: 0e7f893f-4de3-06c6-32e0-c815f9af35d5
