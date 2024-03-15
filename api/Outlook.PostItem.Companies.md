@@ -3,7 +3,6 @@ title: PostItem.Companies property (Outlook)
 keywords: vbaol11.chm1518
 f1_keywords:
 - vbaol11.chm1518
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Companies
 ms.assetid: 6242b7a9-9203-1f6c-6f0f-f4222fdcf605

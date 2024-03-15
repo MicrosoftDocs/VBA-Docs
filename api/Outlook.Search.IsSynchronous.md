@@ -3,7 +3,6 @@ title: Search.IsSynchronous property (Outlook)
 keywords: vbaol11.chm2254
 f1_keywords:
 - vbaol11.chm2254
-ms.prod: outlook
 api_name:
 - Outlook.Search.IsSynchronous
 ms.assetid: e240cc55-26c3-a560-4ee2-84b15da95e52

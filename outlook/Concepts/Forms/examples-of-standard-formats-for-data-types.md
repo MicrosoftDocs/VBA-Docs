@@ -1,6 +1,5 @@
 ---
 title: Examples of Standard Formats for Data Types
-ms.prod: outlook
 ms.assetid: 89896082-194c-5532-6ebd-afb445390bb2
 ms.date: 06/08/2019
 ms.localizationpriority: medium

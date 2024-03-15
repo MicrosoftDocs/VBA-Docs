@@ -1,6 +1,5 @@
 ---
 title: MailItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.CustomAction
 ms.assetid: 2068586f-bdab-a786-d933-4e32117bb4f8

@@ -3,7 +3,6 @@ title: SharingItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm599
 f1_keywords:
 - vbaol11.chm599
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BillingInformation
 ms.assetid: 9e5263c0-2065-8fe5-768d-1370e053b51c

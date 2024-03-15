@@ -3,7 +3,6 @@ title: OlkTextBox.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000072
 f1_keywords:
 - vbaol11.chm1000072
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.DoubleClick
 ms.assetid: 1a1b1088-c8f1-8b62-e31f-4e5f79bb0a85

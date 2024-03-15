@@ -3,7 +3,6 @@ title: TableView.Class property (Outlook)
 keywords: vbaol11.chm2500
 f1_keywords:
 - vbaol11.chm2500
-ms.prod: outlook
 api_name:
 - Outlook.TableView.Class
 ms.assetid: 856343d9-2afa-4392-fb13-9abc77873e8b

@@ -3,7 +3,6 @@ title: OlViewSaveOption enumeration (Outlook)
 keywords: vbaol11.chm3095
 f1_keywords:
 - vbaol11.chm3095
-ms.prod: outlook
 api_name:
 - Outlook.OlViewSaveOption
 ms.assetid: c08bab4d-ecdd-a2ac-1cdc-fa910f9585e0

@@ -3,7 +3,6 @@ title: OlkTimeControl.BackStyle property (Outlook)
 keywords: vbaol11.chm1000381
 f1_keywords:
 - vbaol11.chm1000381
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.BackStyle
 ms.assetid: b83a0080-4eba-ba03-f61e-9a13b511292c

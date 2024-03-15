@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3502
 f1_keywords:
 - vbaol11.chm3502
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.GetConversation
 ms.assetid: 2c6cdc44-3fb0-5cbc-dae4-a14ae2ed1fda
