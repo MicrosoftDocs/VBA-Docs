@@ -3,7 +3,6 @@ title: OlkSenderPhoto.Click event (Outlook)
 keywords: vbaol11.chm1000485
 f1_keywords:
 - vbaol11.chm1000485
-ms.prod: outlook
 api_name:
 - Outlook.OlkSenderPhoto.Click
 ms.assetid: 046eccf2-5efa-9302-d356-9cb168133b13

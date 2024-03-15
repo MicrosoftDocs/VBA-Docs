@@ -3,7 +3,6 @@ title: TableView.GetTable method (Outlook)
 keywords: vbaol11.chm3315
 f1_keywords:
 - vbaol11.chm3315
-ms.prod: outlook
 api_name:
 - Outlook.TableView.GetTable
 ms.assetid: 4f20a3cc-5ec9-a58b-8fcf-00e86f160493

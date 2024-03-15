@@ -3,7 +3,6 @@ title: Pages.Count property (Outlook)
 keywords: vbaol11.chm395
 f1_keywords:
 - vbaol11.chm395
-ms.prod: outlook
 api_name:
 - Outlook.Pages.Count
 ms.assetid: f10f8e83-81b5-0c08-1cac-4754d8b43fa9

@@ -3,7 +3,6 @@ title: OlkTimeControl.ForeColor property (Outlook)
 keywords: vbaol11.chm1000386
 f1_keywords:
 - vbaol11.chm1000386
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.ForeColor
 ms.assetid: 5c174c63-889f-77d4-3482-607e4be5ba3b

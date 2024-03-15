@@ -3,7 +3,6 @@ title: Table.GetArray method (Outlook)
 keywords: vbaol11.chm2230
 f1_keywords:
 - vbaol11.chm2230
-ms.prod: outlook
 api_name:
 - Outlook.Table.GetArray
 ms.assetid: 2594bb2e-290f-8e88-52d1-cd2b2191bbe3

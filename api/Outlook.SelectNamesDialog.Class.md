@@ -3,7 +3,6 @@ title: SelectNamesDialog.Class property (Outlook)
 keywords: vbaol11.chm822
 f1_keywords:
 - vbaol11.chm822
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Class
 ms.assetid: 6bc88878-6ef2-773f-3351-f6efa0adaef8

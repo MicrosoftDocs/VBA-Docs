@@ -3,7 +3,6 @@ title: OlkListBox.Locked property (Outlook)
 keywords: vbaol11.chm1000257
 f1_keywords:
 - vbaol11.chm1000257
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Locked
 ms.assetid: bd11db49-2cbe-da87-9a6e-213d867668cb

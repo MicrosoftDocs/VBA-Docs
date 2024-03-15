@@ -3,7 +3,6 @@ title: Explorer.ShowPane method (Outlook)
 keywords: vbaol11.chm2776
 f1_keywords:
 - vbaol11.chm2776
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.ShowPane
 ms.assetid: 3d2c9dd5-b660-e160-36db-73c23f95a7a2

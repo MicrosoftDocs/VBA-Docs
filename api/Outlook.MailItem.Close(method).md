@@ -3,7 +3,6 @@ title: MailItem.Close method (Outlook)
 keywords: vbaol11.chm1320
 f1_keywords:
 - vbaol11.chm1320
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Close
 ms.assetid: 00a8a4e8-9bdc-d1bc-cb61-c6d925fb754f

@@ -3,7 +3,6 @@ title: IconView.SortFields property (Outlook)
 keywords: vbaol11.chm2575
 f1_keywords:
 - vbaol11.chm2575
-ms.prod: outlook
 api_name:
 - Outlook.IconView.SortFields
 ms.assetid: 1fcc81e9-e224-3795-f534-b9df4633aaec

@@ -3,7 +3,6 @@ title: OlMatchEntry enumeration (Outlook)
 keywords: vbaol11.chm1000029
 f1_keywords:
 - vbaol11.chm1000029
-ms.prod: outlook
 api_name:
 - Outlook.OlMatchEntry
 ms.assetid: b4c8aa72-747a-df06-4b92-5f54461164a3
