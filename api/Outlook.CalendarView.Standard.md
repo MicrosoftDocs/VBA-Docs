@@ -3,7 +3,6 @@ title: CalendarView.Standard property (Outlook)
 keywords: vbaol11.chm2620
 f1_keywords:
 - vbaol11.chm2620
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Standard
 ms.assetid: 7d4ac52a-8a3d-25b1-6900-3799fe0fde70

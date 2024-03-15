@@ -3,7 +3,6 @@ title: OlSaveAsType enumeration (Outlook)
 keywords: vbaol11.chm3080
 f1_keywords:
 - vbaol11.chm3080
-ms.prod: outlook
 api_name:
 - Outlook.OlSaveAsType
 ms.assetid: d1d3a914-6548-ddbf-6ce7-8cf86fa84960

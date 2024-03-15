@@ -3,7 +3,6 @@ title: OrderField.Class property (Outlook)
 keywords: vbaol11.chm2684
 f1_keywords:
 - vbaol11.chm2684
-ms.prod: outlook
 api_name:
 - Outlook.OrderField.Class
 ms.assetid: c358b625-6e96-84dc-c4c3-5a5cc96577ad

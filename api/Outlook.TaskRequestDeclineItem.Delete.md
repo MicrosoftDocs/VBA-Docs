@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.Delete method (Outlook)
 keywords: vbaol11.chm1851
 f1_keywords:
 - vbaol11.chm1851
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Delete
 ms.assetid: 063c26d7-c98c-25d8-9722-e94e5902c449

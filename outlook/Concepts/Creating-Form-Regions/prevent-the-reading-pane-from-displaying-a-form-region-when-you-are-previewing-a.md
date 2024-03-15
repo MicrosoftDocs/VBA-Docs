@@ -1,6 +1,5 @@
 ---
 title: Prevent the Reading Pane from Displaying a Form Region When You are Previewing a Message
-ms.prod: outlook
 ms.assetid: 46de8d3a-f430-248f-b208-63fee3e9b275
 ms.date: 06/08/2019
 ms.localizationpriority: medium

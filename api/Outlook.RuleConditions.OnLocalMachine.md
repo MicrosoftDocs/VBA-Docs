@@ -3,7 +3,6 @@ title: RuleConditions.OnLocalMachine property (Outlook)
 keywords: vbaol11.chm2322
 f1_keywords:
 - vbaol11.chm2322
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.OnLocalMachine
 ms.assetid: 747de02c-d76d-9da3-c582-50719e618eb4

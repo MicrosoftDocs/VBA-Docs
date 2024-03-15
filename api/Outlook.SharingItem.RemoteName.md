@@ -3,7 +3,6 @@ title: SharingItem.RemoteName property (Outlook)
 keywords: vbaol11.chm694
 f1_keywords:
 - vbaol11.chm694
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.RemoteName
 ms.assetid: 3c7fa798-cace-5748-3184-8055bf0f2958

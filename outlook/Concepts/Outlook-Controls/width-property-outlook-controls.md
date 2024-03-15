@@ -3,7 +3,6 @@ title: Width Property (Outlook Controls)
 keywords: olfm10.chm2002220
 f1_keywords:
 - olfm10.chm2002220
-ms.prod: outlook
 ms.assetid: 4457662c-930b-3849-d924-1607b35d8338
 ms.date: 06/08/2019
 ms.localizationpriority: medium

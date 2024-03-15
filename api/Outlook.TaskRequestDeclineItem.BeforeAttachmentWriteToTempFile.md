@@ -1,6 +1,5 @@
 ---
 title: TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile
 ms.assetid: c9564849-ecb2-a5a2-1c7e-f7cfea5ce34d
