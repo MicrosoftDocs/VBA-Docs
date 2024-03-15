@@ -3,7 +3,6 @@ title: ContactItem.Department property (Outlook)
 keywords: vbaol11.chm990
 f1_keywords:
 - vbaol11.chm990
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Department
 ms.assetid: 661beecc-f6aa-7215-ba01-b075209f2ad3

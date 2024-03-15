@@ -3,7 +3,6 @@ title: NavigationPane.IsCollapsed property (Outlook)
 keywords: vbaol11.chm2790
 f1_keywords:
 - vbaol11.chm2790
-ms.prod: outlook
 api_name:
 - Outlook.NavigationPane.IsCollapsed
 ms.assetid: 0297c5d3-4c5f-32a4-49eb-85fe0408db60

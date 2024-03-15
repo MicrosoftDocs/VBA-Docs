@@ -3,7 +3,6 @@ title: SharingItem.ReminderTime property (Outlook)
 keywords: vbaol11.chm655
 f1_keywords:
 - vbaol11.chm655
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReminderTime
 ms.assetid: a1b58623-01b5-7eb3-5c6e-3fffca8a7d9c

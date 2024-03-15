@@ -3,7 +3,6 @@ title: Action.MessageClass property (Outlook)
 keywords: vbaol11.chm16
 f1_keywords:
 - vbaol11.chm16
-ms.prod: outlook
 api_name:
 - Outlook.Action.MessageClass
 ms.assetid: a1a1eaeb-2772-babc-18ba-28ce9a66500b

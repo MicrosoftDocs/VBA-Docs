@@ -3,7 +3,6 @@ title: OlGroupType enumeration (Outlook)
 keywords: vbaol11.chm3144
 f1_keywords:
 - vbaol11.chm3144
-ms.prod: outlook
 api_name:
 - Outlook.OlGroupType
 ms.assetid: 2a5ee820-41fa-91fc-2ce0-46d97fc4bf11

@@ -3,7 +3,6 @@ title: OlkDateControl.Date property (Outlook)
 keywords: vbaol11.chm1000345
 f1_keywords:
 - vbaol11.chm1000345
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.Date
 ms.assetid: f1c1a454-4c1f-7ae6-2fbd-f3875beb6cea

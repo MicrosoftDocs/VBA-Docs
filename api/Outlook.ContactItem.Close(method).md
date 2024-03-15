@@ -3,7 +3,6 @@ title: ContactItem.Close method (Outlook)
 keywords: vbaol11.chm956
 f1_keywords:
 - vbaol11.chm956
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Close
 ms.assetid: 17cd04b5-1bf1-5df1-b1f4-f6e488d00fd5

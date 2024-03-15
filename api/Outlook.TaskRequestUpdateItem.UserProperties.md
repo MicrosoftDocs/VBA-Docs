@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1946
 f1_keywords:
 - vbaol11.chm1946
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.UserProperties
 ms.assetid: 76664a4c-c45c-1d5a-1ee0-6946aa199976

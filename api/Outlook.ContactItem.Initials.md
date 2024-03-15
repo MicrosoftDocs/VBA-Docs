@@ -3,7 +3,6 @@ title: ContactItem.Initials property (Outlook)
 keywords: vbaol11.chm1021
 f1_keywords:
 - vbaol11.chm1021
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Initials
 ms.assetid: f1daa747-1c53-f244-6a08-cd6147a02ff3

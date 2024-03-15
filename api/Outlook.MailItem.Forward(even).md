@@ -1,6 +1,5 @@
 ---
 title: MailItem.Forward event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Forward
 ms.assetid: 29426284-471b-95bb-be67-a3ca3f9a0d79

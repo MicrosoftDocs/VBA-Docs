@@ -3,7 +3,6 @@ title: SharingItem.ReplyRecipients property (Outlook)
 keywords: vbaol11.chm658
 f1_keywords:
 - vbaol11.chm658
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReplyRecipients
 ms.assetid: 6c1a49bd-899b-93f1-f8b9-64051fd16c35

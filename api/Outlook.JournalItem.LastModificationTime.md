@@ -3,7 +3,6 @@ title: JournalItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1244
 f1_keywords:
 - vbaol11.chm1244
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.LastModificationTime
 ms.assetid: 8819609b-3cfb-d5bb-9a5c-469e05715e67

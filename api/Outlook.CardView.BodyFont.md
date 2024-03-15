@@ -3,7 +3,6 @@ title: CardView.BodyFont property (Outlook)
 keywords: vbaol11.chm2604
 f1_keywords:
 - vbaol11.chm2604
-ms.prod: outlook
 api_name:
 - Outlook.CardView.BodyFont
 ms.assetid: 8ac8c38b-999b-439e-266c-249770d946c7
