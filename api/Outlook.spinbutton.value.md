@@ -1,6 +1,5 @@
 ---
 title: SpinButton.Value Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: f0369b53-9e9c-003b-4345-2da9e469a338
 ms.date: 06/08/2017
 ms.localizationpriority: medium

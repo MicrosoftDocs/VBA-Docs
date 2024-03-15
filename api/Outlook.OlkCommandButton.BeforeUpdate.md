@@ -3,7 +3,6 @@ title: OlkCommandButton.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000131
 f1_keywords:
 - vbaol11.chm1000131
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.BeforeUpdate
 ms.assetid: 5d3cd45b-2f27-f162-a198-bcabf766591e

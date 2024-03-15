@@ -3,7 +3,6 @@ title: ExchangeUser.GetFreeBusy method (Outlook)
 keywords: vbaol11.chm2075
 f1_keywords:
 - vbaol11.chm2075
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetFreeBusy
 ms.assetid: 0dcd36af-e9d7-ca1e-334f-c540c46254f7

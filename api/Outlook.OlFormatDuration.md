@@ -3,7 +3,6 @@ title: OlFormatDuration enumeration (Outlook)
 keywords: vbaol11.chm3134
 f1_keywords:
 - vbaol11.chm3134
-ms.prod: outlook
 api_name:
 - Outlook.OlFormatDuration
 ms.assetid: f33355da-3e85-5f69-b928-ae04fdb28a18

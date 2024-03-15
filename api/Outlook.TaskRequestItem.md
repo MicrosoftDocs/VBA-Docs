@@ -3,7 +3,6 @@ title: TaskRequestItem object (Outlook)
 keywords: vbaol11.chm3010
 f1_keywords:
 - vbaol11.chm3010
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem
 ms.assetid: 2908a28a-634c-e786-aa53-f3e32038b727

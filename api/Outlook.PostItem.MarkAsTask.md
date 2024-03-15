@@ -3,7 +3,6 @@ title: PostItem.MarkAsTask method (Outlook)
 keywords: vbaol11.chm3043
 f1_keywords:
 - vbaol11.chm3043
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.MarkAsTask
 ms.assetid: 78ead34b-3861-0204-1bc3-687a2c25ab73

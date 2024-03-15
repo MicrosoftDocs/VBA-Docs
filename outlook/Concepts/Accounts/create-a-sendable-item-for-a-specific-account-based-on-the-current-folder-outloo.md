@@ -1,6 +1,5 @@
 ---
 title: Create a Sendable Item for a Specific Account Based on the Current Folder (Outlook)
-ms.prod: outlook
 ms.assetid: 758e2e9c-3633-2e77-b9e0-14bb8078cf0b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

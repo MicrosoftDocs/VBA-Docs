@@ -1,6 +1,5 @@
 ---
 title: MailItem.Write event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Write
 ms.assetid: b4c5fc80-e197-8d82-ebb0-148675ea7cdd

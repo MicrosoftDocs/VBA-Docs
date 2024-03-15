@@ -1,6 +1,5 @@
 ---
 title: Create a Validation Formula and Message
-ms.prod: outlook
 ms.assetid: d96d09fa-4bb9-019b-1f3c-4cda7a8ab091
 ms.date: 02/06/2022
 ms.localizationpriority: medium

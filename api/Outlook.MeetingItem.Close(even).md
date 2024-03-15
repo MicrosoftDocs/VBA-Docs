@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Close
 ms.assetid: 9af94b62-d992-39e8-ddce-507db6a2febb

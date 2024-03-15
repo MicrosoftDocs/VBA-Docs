@@ -1,6 +1,5 @@
 ---
 title: ReportItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Close
 ms.assetid: d20e50a8-c73d-d866-0cd0-d6085a3b6eb6

@@ -1,6 +1,5 @@
 ---
 title: JournalItem.AfterWrite event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.AfterWrite
 ms.assetid: ba3bbc09-8f12-3f20-88ea-c9ed601e3ce0
