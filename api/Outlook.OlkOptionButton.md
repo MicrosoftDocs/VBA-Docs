@@ -3,7 +3,6 @@ title: OlkOptionButton object (Outlook)
 keywords: vbaol11.chm1000192
 f1_keywords:
 - vbaol11.chm1000192
-ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton
 ms.assetid: a7aab427-a2f0-a153-f558-c13559610c99

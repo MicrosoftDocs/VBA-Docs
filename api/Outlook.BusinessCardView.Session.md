@@ -3,7 +3,6 @@ title: BusinessCardView.Session property (Outlook)
 keywords: vbaol11.chm2919
 f1_keywords:
 - vbaol11.chm2919
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.Session
 ms.assetid: 18e5fb02-1d57-3c47-74ed-0409d734b4cb

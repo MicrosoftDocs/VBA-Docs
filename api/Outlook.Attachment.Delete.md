@@ -3,7 +3,6 @@ title: Attachment.Delete method (Outlook)
 keywords: vbaol11.chm2372
 f1_keywords:
 - vbaol11.chm2372
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.Delete
 ms.assetid: 6c1b8048-2985-9fc1-dc67-79762bcafd58

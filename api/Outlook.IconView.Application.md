@@ -3,7 +3,6 @@ title: IconView.Application property (Outlook)
 keywords: vbaol11.chm2557
 f1_keywords:
 - vbaol11.chm2557
-ms.prod: outlook
 api_name:
 - Outlook.IconView.Application
 ms.assetid: faf2c585-ebfd-f823-c73c-f820e34d27d9

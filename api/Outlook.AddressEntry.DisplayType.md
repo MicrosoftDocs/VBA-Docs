@@ -3,7 +3,6 @@ title: AddressEntry.DisplayType property (Outlook)
 keywords: vbaol11.chm2043
 f1_keywords:
 - vbaol11.chm2043
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.DisplayType
 ms.assetid: d61f5e35-d4d7-17c7-08e3-c0c1e3ce3f1f

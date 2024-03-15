@@ -3,7 +3,6 @@ title: TimelineView.ShowWeekNumbers property (Outlook)
 keywords: vbaol11.chm2664
 f1_keywords:
 - vbaol11.chm2664
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.ShowWeekNumbers
 ms.assetid: c4c5a7e5-bc4a-e30a-90c4-89aa3d23368a

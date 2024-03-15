@@ -3,7 +3,6 @@ title: TaskItem.Role property (Outlook)
 keywords: vbaol11.chm1741
 f1_keywords:
 - vbaol11.chm1741
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Role
 ms.assetid: 122d18ee-6a60-4a40-1b3e-66b8bd1c8a9d

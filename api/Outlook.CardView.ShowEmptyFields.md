@@ -3,7 +3,6 @@ title: CardView.ShowEmptyFields property (Outlook)
 keywords: vbaol11.chm2599
 f1_keywords:
 - vbaol11.chm2599
-ms.prod: outlook
 api_name:
 - Outlook.CardView.ShowEmptyFields
 ms.assetid: d2f4f4dd-3002-ab60-9aa5-c1cc70431523

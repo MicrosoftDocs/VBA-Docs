@@ -3,7 +3,6 @@ title: ContactItem.Profession property (Outlook)
 keywords: vbaol11.chm1061
 f1_keywords:
 - vbaol11.chm1061
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Profession
 ms.assetid: 4aeadd8a-d227-7a51-ba01-c67fd94ed3a3

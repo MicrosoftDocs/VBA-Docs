@@ -3,7 +3,6 @@ title: AppointmentItem.Companies property (Outlook)
 keywords: vbaol11.chm847
 f1_keywords:
 - vbaol11.chm847
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Companies
 ms.assetid: 79ed2563-1dc8-a6c5-d715-a11940cb9176

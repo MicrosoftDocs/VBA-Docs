@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.Reply event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Reply
 ms.assetid: 5b1ffaf2-f2ad-081a-423c-85c16a38e68b

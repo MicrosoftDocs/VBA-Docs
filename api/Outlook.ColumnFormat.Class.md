@@ -3,7 +3,6 @@ title: ColumnFormat.Class property (Outlook)
 keywords: vbaol11.chm2725
 f1_keywords:
 - vbaol11.chm2725
-ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Class
 ms.assetid: 655dd5a1-8ea6-469d-e53f-f56b8760fff1

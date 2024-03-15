@@ -3,7 +3,6 @@ title: AssignToCategoryRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2265
 f1_keywords:
 - vbaol11.chm2265
-ms.prod: outlook
 api_name:
 - Outlook.AssignToCategoryRuleAction.Session
 ms.assetid: 4ee91dde-9f5d-101f-f259-98192e45a76d

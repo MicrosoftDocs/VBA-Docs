@@ -3,7 +3,6 @@ title: PostItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3527
 f1_keywords:
 - vbaol11.chm3527
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.RTFBody
 ms.assetid: 79d197b0-d994-374f-ff25-ed7146352ba9
