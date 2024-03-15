@@ -3,7 +3,6 @@ title: MailItem.Categories property (Outlook)
 keywords: vbaol11.chm1298
 f1_keywords:
 - vbaol11.chm1298
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Categories
 ms.assetid: 049396c0-193b-6c80-9eb0-f55480ffc37a

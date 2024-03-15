@@ -3,7 +3,6 @@ title: OlkComboBox.Enter event (Outlook)
 keywords: vbaol11.chm1000240
 f1_keywords:
 - vbaol11.chm1000240
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.Enter
 ms.assetid: 7d2e2d3a-2750-b9aa-d913-fcb06da2c05f

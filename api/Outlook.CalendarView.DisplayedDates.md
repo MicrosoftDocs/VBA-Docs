@@ -3,7 +3,6 @@ title: CalendarView.DisplayedDates property (Outlook)
 keywords: vbaol11.chm3028
 f1_keywords:
 - vbaol11.chm3028
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.DisplayedDates
 ms.assetid: 45d77ff9-b93e-4439-3594-ff9dcf1f180b

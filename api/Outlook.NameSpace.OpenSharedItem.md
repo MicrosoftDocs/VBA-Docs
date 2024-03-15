@@ -3,7 +3,6 @@ title: NameSpace.OpenSharedItem method (Outlook)
 keywords: vbaol11.chm789
 f1_keywords:
 - vbaol11.chm789
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.OpenSharedItem
 ms.assetid: ebfed85c-0af5-eb72-7a58-ae9e8b655347

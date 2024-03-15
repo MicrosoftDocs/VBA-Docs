@@ -3,7 +3,6 @@ title: OlkTextBox.MultiLine property (Outlook)
 keywords: vbaol11.chm1000053
 f1_keywords:
 - vbaol11.chm1000053
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Multiline
 ms.assetid: 5a9af630-baf1-7e8e-7dcb-038d7b0c3333

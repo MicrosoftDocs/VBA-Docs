@@ -3,7 +3,6 @@ title: ContactItem.Suffix property (Outlook)
 keywords: vbaol11.chm1066
 f1_keywords:
 - vbaol11.chm1066
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Suffix
 ms.assetid: edb92ed2-c42d-9f0d-b67a-e58ccd72ea0f

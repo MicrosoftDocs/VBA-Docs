@@ -3,7 +3,6 @@ title: ToOrFromRuleCondition object (Outlook)
 keywords: vbaol11.chm3181
 f1_keywords:
 - vbaol11.chm3181
-ms.prod: outlook
 api_name:
 - Outlook.ToOrFromRuleCondition
 ms.assetid: ec5cae2a-cde8-5681-6a49-74e2f0226a4f

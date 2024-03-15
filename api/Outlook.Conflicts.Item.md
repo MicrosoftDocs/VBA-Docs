@@ -3,7 +3,6 @@ title: Conflicts.Item method (Outlook)
 keywords: vbaol11.chm405
 f1_keywords:
 - vbaol11.chm405
-ms.prod: outlook
 api_name:
 - Outlook.Conflicts.Item
 ms.assetid: efd74c23-31fb-1a3c-aebc-27ce22f1c3bf

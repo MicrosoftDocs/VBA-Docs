@@ -3,7 +3,6 @@ title: Application.LanguageSettings property (Outlook)
 keywords: vbaol11.chm722
 f1_keywords:
 - vbaol11.chm722
-ms.prod: outlook
 api_name:
 - Outlook.Application.LanguageSettings
 ms.assetid: 8367a51a-629f-3349-fe0b-a978b2bbc9a5

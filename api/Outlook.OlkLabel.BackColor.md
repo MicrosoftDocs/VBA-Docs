@@ -3,7 +3,6 @@ title: OlkLabel.BackColor property (Outlook)
 keywords: vbaol11.chm1000088
 f1_keywords:
 - vbaol11.chm1000088
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.BackColor
 ms.assetid: eeffd887-7e73-a023-6f70-2b54149b8bd4

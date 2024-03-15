@@ -1,6 +1,5 @@
 ---
 title: Control Toolbox Tasks
-ms.prod: outlook
 ms.assetid: 7ac02e95-187f-4814-8df9-c614b20e471b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

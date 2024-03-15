@@ -3,7 +3,6 @@ title: Folder.FolderPath property (Outlook)
 keywords: vbaol11.chm2006
 f1_keywords:
 - vbaol11.chm2006
-ms.prod: outlook
 api_name:
 - Outlook.Folder.FolderPath
 ms.assetid: 40a588fa-0962-bc01-f8ac-39f0bab2092c

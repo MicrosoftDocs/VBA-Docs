@@ -3,7 +3,6 @@ title: CardView.Width property (Outlook)
 keywords: vbaol11.chm2600
 f1_keywords:
 - vbaol11.chm2600
-ms.prod: outlook
 api_name:
 - Outlook.CardView.Width
 ms.assetid: 6140719b-1094-0991-a1d1-8d47e59bd25a
