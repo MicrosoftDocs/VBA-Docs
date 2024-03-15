@@ -1,6 +1,5 @@
 ---
 title: Extending a Form Region with an Add-in
-ms.prod: outlook
 ms.assetid: b1a28a20-a0b8-cc57-7672-da51ec8bb097
 ms.date: 02/06/2022
 ms.localizationpriority: medium

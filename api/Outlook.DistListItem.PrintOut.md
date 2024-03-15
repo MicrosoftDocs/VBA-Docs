@@ -3,7 +3,6 @@ title: DistListItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1145
 f1_keywords:
 - vbaol11.chm1145
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.PrintOut
 ms.assetid: 4e5ed0a5-a5b4-82c7-640d-c6286b6a8ed1

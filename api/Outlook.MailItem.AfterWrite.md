@@ -1,6 +1,5 @@
 ---
 title: MailItem.AfterWrite event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.AfterWrite
 ms.assetid: e8face1d-06bd-2799-5afd-53048bb03acd

@@ -3,7 +3,6 @@ title: Working with EntryIDs and StoreIDs
 keywords: vbaol11.chm5274174
 f1_keywords:
 - vbaol11.chm5274174
-ms.prod: outlook
 ms.assetid: b27fbb05-1149-c6ae-dfbf-bae8c6c2e93f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

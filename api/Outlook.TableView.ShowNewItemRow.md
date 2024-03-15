@@ -3,7 +3,6 @@ title: TableView.ShowNewItemRow property (Outlook)
 keywords: vbaol11.chm2527
 f1_keywords:
 - vbaol11.chm2527
-ms.prod: outlook
 api_name:
 - Outlook.TableView.ShowNewItemRow
 ms.assetid: 2e389bb6-9d1f-6c9d-0cdc-b177705d620b

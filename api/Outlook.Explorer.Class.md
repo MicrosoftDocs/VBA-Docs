@@ -3,7 +3,6 @@ title: Explorer.Class property (Outlook)
 keywords: vbaol11.chm2758
 f1_keywords:
 - vbaol11.chm2758
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Class
 ms.assetid: 12873732-cb5f-e6ca-1328-05cf908038e5

@@ -3,7 +3,6 @@ title: ReportItem.RetentionPolicyName property (Outlook)
 keywords: vbaol11.chm3562
 f1_keywords:
 - vbaol11.chm3562
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.RetentionPolicyName
 ms.assetid: 054e4a80-a00e-62c1-f442-50d5340eb36e

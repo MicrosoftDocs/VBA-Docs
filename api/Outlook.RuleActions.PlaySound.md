@@ -3,7 +3,6 @@ title: RuleActions.PlaySound property (Outlook)
 keywords: vbaol11.chm2197
 f1_keywords:
 - vbaol11.chm2197
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.PlaySound
 ms.assetid: 43a79f2d-9e7b-7053-6901-40e815220ac0

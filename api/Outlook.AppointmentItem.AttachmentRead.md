@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.AttachmentRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.AttachmentRead
 ms.assetid: 69ea3ad0-5cb6-a832-8e46-9ed86c59c3b2

@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.CreationTime property (Outlook)
 keywords: vbaol11.chm1929
 f1_keywords:
 - vbaol11.chm1929
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.CreationTime
 ms.assetid: 74263b58-90e8-00ac-0ee4-8d64293eb872

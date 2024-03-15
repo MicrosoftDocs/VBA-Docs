@@ -3,7 +3,6 @@ title: TaskItem.Companies property (Outlook)
 keywords: vbaol11.chm1691
 f1_keywords:
 - vbaol11.chm1691
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Companies
 ms.assetid: 57c71235-ad01-1976-fa5e-2fa2bcfb2d4e

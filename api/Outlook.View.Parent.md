@@ -3,7 +3,6 @@ title: View.Parent property (Outlook)
 keywords: vbaol11.chm2483
 f1_keywords:
 - vbaol11.chm2483
-ms.prod: outlook
 api_name:
 - Outlook.View.Parent
 ms.assetid: 96260360-b686-f60a-442e-38eeaaa1d429

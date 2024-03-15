@@ -3,7 +3,6 @@ title: DistListItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm1171
 f1_keywords:
 - vbaol11.chm1171
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.TaskCompletedDate
 ms.assetid: 2ed811dd-4603-8bb1-7bc7-451b6df145ca

@@ -1,6 +1,5 @@
 ---
 title: TaskRequestDeclineItem.Write event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Write
 ms.assetid: e0abe283-c3f4-fd1a-7a41-8b1dd0f6c161
