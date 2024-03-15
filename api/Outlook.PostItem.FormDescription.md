@@ -3,7 +3,6 @@ title: PostItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1523
 f1_keywords:
 - vbaol11.chm1523
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.FormDescription
 ms.assetid: dc0aee3c-ec49-e0d4-43bc-0e09f3d34a3f

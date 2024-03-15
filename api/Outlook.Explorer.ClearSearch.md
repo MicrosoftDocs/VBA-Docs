@@ -3,7 +3,6 @@ title: Explorer.ClearSearch method (Outlook)
 keywords: vbaol11.chm2783
 f1_keywords:
 - vbaol11.chm2783
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.ClearSearch
 ms.assetid: 644b6012-0b87-b4cb-6104-6f05b5c4dcc5

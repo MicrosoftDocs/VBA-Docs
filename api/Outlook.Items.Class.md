@@ -3,7 +3,6 @@ title: Items.Class property (Outlook)
 keywords: vbaol11.chm54
 f1_keywords:
 - vbaol11.chm54
-ms.prod: outlook
 api_name:
 - Outlook.Items.Class
 ms.assetid: 783ed46a-fd40-c848-b440-8ea3c5d0e6b9

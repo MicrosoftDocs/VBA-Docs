@@ -3,7 +3,6 @@ title: OlkCommandButton.AfterUpdate event (Outlook)
 keywords: vbaol11.chm1000130
 f1_keywords:
 - vbaol11.chm1000130
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.AfterUpdate
 ms.assetid: 2f968ed1-7043-a3de-8219-927c27e12832

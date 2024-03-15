@@ -3,7 +3,6 @@ title: TaskItem.Move method (Outlook)
 keywords: vbaol11.chm1716
 f1_keywords:
 - vbaol11.chm1716
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Move
 ms.assetid: cc071e73-d165-6082-4016-7ab9d63689d0

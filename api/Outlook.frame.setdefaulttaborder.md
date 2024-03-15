@@ -3,7 +3,6 @@ title: Frame.SetDefaultTabOrder Method (Outlook Forms Script)
 keywords: olfm10.chm2000420
 f1_keywords:
 - olfm10.chm2000420
-ms.prod: outlook
 ms.assetid: 1ad6e645-58ea-00d8-37a7-aac91a3badb0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

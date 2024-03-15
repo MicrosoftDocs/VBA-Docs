@@ -1,6 +1,5 @@
 ---
 title: TaskRequestItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BeforeAutoSave
 ms.assetid: 0907ec19-5b94-619e-dcd1-8c458294194f

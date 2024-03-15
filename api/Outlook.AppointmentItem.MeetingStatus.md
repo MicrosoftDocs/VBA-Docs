@@ -3,7 +3,6 @@ title: AppointmentItem.MeetingStatus property (Outlook)
 keywords: vbaol11.chm883
 f1_keywords:
 - vbaol11.chm883
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.MeetingStatus
 ms.assetid: cfd970cd-df6c-4537-0a17-b5adab3b667f

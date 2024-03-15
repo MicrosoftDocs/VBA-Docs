@@ -3,7 +3,6 @@ title: Application.AdvancedSearchStopped event (Outlook)
 keywords: vbaol11.chm436
 f1_keywords:
 - vbaol11.chm436
-ms.prod: outlook
 api_name:
 - Outlook.Application.AdvancedSearchStopped
 ms.assetid: a1a4ec9f-c0e3-6acd-b63c-89194ed70efd

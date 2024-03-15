@@ -1,6 +1,5 @@
 ---
 title: ContactItem.BeforeAttachmentPreview event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentPreview
 ms.assetid: 7451778c-801a-15a9-203d-1a1c61ebc155

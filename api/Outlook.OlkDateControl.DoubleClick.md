@@ -3,7 +3,6 @@ title: OlkDateControl.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000363
 f1_keywords:
 - vbaol11.chm1000363
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.DoubleClick
 ms.assetid: 190ba56e-f4b2-ff11-0df9-1e98cdcef655

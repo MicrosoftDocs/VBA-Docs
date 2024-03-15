@@ -3,7 +3,6 @@ title: Explorers.Count property (Outlook)
 keywords: vbaol11.chm120
 f1_keywords:
 - vbaol11.chm120
-ms.prod: outlook
 api_name:
 - Outlook.Explorers.Count
 ms.assetid: 48d8d345-5745-c378-f136-7b90ed499ef2
