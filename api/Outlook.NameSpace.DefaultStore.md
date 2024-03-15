@@ -3,7 +3,6 @@ title: NameSpace.DefaultStore property (Outlook)
 keywords: vbaol11.chm783
 f1_keywords:
 - vbaol11.chm783
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.DefaultStore
 ms.assetid: 4080e227-bd76-3168-7bc7-93fe04023a3b

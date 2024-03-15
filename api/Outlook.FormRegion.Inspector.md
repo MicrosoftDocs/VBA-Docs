@@ -3,7 +3,6 @@ title: FormRegion.Inspector property (Outlook)
 keywords: vbaol11.chm2394
 f1_keywords:
 - vbaol11.chm2394
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.Inspector
 ms.assetid: e4a38be7-dd93-ad69-2e3e-0cc8132458f8

@@ -3,7 +3,6 @@ title: Explorer.AddToSelection method (Outlook)
 keywords: vbaol11.chm3309
 f1_keywords:
 - vbaol11.chm3309
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.AddToSelection
 ms.assetid: b85ad121-9e26-0782-3c5e-7651499f8e66

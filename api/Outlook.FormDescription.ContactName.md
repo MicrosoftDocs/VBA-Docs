@@ -3,7 +3,6 @@ title: FormDescription.ContactName property (Outlook)
 keywords: vbaol11.chm186
 f1_keywords:
 - vbaol11.chm186
-ms.prod: outlook
 api_name:
 - Outlook.FormDescription.ContactName
 ms.assetid: 86e66f49-cd7f-91ed-45a2-2fe9a237bc0d

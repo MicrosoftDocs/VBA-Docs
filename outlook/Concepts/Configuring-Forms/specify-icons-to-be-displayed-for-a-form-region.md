@@ -1,6 +1,5 @@
 ---
 title: Specify icons to be displayed for a form region
-ms.prod: outlook
 ms.assetid: 9ffb9f46-a3b9-d90c-6771-9cd9f9b2e04a
 ms.date: 09/18/2021
 ms.localizationpriority: medium

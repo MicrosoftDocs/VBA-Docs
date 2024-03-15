@@ -3,7 +3,6 @@ title: Changing the Form Used by Existing Items in a Folder
 keywords: olfm10.chm3077111
 f1_keywords:
 - olfm10.chm3077111
-ms.prod: outlook
 ms.assetid: cfe2d03e-68ff-e16a-5daf-5eb8bdef17e2
 ms.date: 06/08/2019
 ms.localizationpriority: medium

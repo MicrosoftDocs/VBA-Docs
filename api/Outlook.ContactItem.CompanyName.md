@@ -3,7 +3,6 @@ title: ContactItem.CompanyName property (Outlook)
 keywords: vbaol11.chm987
 f1_keywords:
 - vbaol11.chm987
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CompanyName
 ms.assetid: 076cd6f7-7faa-ab1c-254c-3307c40520ee

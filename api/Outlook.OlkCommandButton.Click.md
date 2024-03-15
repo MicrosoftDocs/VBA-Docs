@@ -3,7 +3,6 @@ title: OlkCommandButton.Click event (Outlook)
 keywords: vbaol11.chm1000120
 f1_keywords:
 - vbaol11.chm1000120
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Click
 ms.assetid: 3644d443-d319-d0ce-1576-f99c9fbc1152

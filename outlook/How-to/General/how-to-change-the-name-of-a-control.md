@@ -3,7 +3,6 @@ title: "How to: Change the Name of a Control"
 keywords: olmain11.chm1045891
 f1_keywords:
 - olmain11.chm1045891
-ms.prod: outlook
 ms.assetid: cc3adf8b-526b-9eed-aabd-34991be2a85e
 ms.date: 06/08/2019
 ms.localizationpriority: medium

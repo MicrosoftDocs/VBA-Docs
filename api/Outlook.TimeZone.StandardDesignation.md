@@ -3,7 +3,6 @@ title: TimeZone.StandardDesignation property (Outlook)
 keywords: vbaol11.chm3284
 f1_keywords:
 - vbaol11.chm3284
-ms.prod: outlook
 api_name:
 - Outlook.TimeZone.StandardDesignation
 ms.assetid: e6f505ed-3ca8-17fb-985f-51feccc668eb

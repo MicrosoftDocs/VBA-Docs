@@ -1,6 +1,5 @@
 ---
 title: ToggleButton.TripleState Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: a82cbddf-3273-db90-57f7-26d12dac0c23
 ms.date: 06/08/2017
 ms.localizationpriority: medium
