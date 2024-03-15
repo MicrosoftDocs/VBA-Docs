@@ -3,7 +3,6 @@ title: PlaySoundRuleAction.Session property (Outlook)
 keywords: vbaol11.chm2273
 f1_keywords:
 - vbaol11.chm2273
-ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction.Session
 ms.assetid: 8d3e9f6e-848d-9879-61a8-7662858674d4

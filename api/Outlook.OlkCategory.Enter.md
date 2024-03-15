@@ -3,7 +3,6 @@ title: OlkCategory.Enter event (Outlook)
 keywords: vbaol11.chm1000454
 f1_keywords:
 - vbaol11.chm1000454
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.Enter
 ms.assetid: e8414759-46a7-3697-5fae-9a9e3fb29104

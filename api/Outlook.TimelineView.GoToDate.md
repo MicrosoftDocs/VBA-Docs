@@ -3,7 +3,6 @@ title: TimelineView.GoToDate method (Outlook)
 keywords: vbaol11.chm2658
 f1_keywords:
 - vbaol11.chm2658
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.GoToDate
 ms.assetid: 99983956-0a2f-ab4b-f656-ea6847185e67

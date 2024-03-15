@@ -1,6 +1,5 @@
 ---
 title: Getting the Value of a Property
-ms.prod: outlook
 ms.assetid: fbdda3e8-4089-c68c-ab27-9529cc6fd163
 ms.date: 06/08/2019
 ms.localizationpriority: medium

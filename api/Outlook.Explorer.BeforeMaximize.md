@@ -3,7 +3,6 @@ title: Explorer.BeforeMaximize event (Outlook)
 keywords: vbaol11.chm457
 f1_keywords:
 - vbaol11.chm457
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeMaximize
 ms.assetid: 4d55aa87-44c6-4660-c2bf-579d3b9dc376

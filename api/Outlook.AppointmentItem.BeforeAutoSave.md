@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeAutoSave
 ms.assetid: c24e39d1-39e5-6422-78ff-9d4e391ea2ae

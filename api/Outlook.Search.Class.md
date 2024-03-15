@@ -3,7 +3,6 @@ title: Search.Class property (Outlook)
 keywords: vbaol11.chm2250
 f1_keywords:
 - vbaol11.chm2250
-ms.prod: outlook
 api_name:
 - Outlook.Search.Class
 ms.assetid: 178d0f62-75f9-20bd-d6dc-bcf04ae37422

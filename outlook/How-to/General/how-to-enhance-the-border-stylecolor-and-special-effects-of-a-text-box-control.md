@@ -3,7 +3,6 @@ title: "How to: Enhance the Border Style, Color, and Special Effects of a Text B
 keywords: olfm10.chm3077159
 f1_keywords:
 - olfm10.chm3077159
-ms.prod: outlook
 ms.assetid: 250de388-e1e8-98a6-95bd-df3ff3eb6a0a
 ms.date: 02/07/2022
 ms.localizationpriority: medium

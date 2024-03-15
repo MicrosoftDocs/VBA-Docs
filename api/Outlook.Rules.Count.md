@@ -3,7 +3,6 @@ title: Rules.Count property (Outlook)
 keywords: vbaol11.chm2158
 f1_keywords:
 - vbaol11.chm2158
-ms.prod: outlook
 api_name:
 - Outlook.Rules.Count
 ms.assetid: b1753709-5693-9f2a-cd11-0e3c4e5e0982

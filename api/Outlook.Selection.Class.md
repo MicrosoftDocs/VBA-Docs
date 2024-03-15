@@ -3,7 +3,6 @@ title: Selection.Class property (Outlook)
 keywords: vbaol11.chm82
 f1_keywords:
 - vbaol11.chm82
-ms.prod: outlook
 api_name:
 - Outlook.Selection.Class
 ms.assetid: a05de32a-2a2a-3579-bc47-545efaf92a8d

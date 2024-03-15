@@ -3,7 +3,6 @@ title: NoteItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1482
 f1_keywords:
 - vbaol11.chm1482
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.GetInspector
 ms.assetid: 80e5bdc5-8161-afa7-6aab-65356fc5d2ea

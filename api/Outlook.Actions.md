@@ -3,7 +3,6 @@ title: Actions object (Outlook)
 keywords: vbaol11.chm144
 f1_keywords:
 - vbaol11.chm144
-ms.prod: outlook
 api_name:
 - Outlook.Actions
 ms.assetid: b0903aa4-9b75-5311-d0a5-5ff4a5e29c79

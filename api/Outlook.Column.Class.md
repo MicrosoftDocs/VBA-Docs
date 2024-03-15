@@ -3,7 +3,6 @@ title: Column.Class property (Outlook)
 keywords: vbaol11.chm2746
 f1_keywords:
 - vbaol11.chm2746
-ms.prod: outlook
 api_name:
 - Outlook.Column.Class
 ms.assetid: c032c360-7a05-08fb-315a-cf5a95ef08fc

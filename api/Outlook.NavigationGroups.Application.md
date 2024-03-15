@@ -3,7 +3,6 @@ title: NavigationGroups.Application property (Outlook)
 keywords: vbaol11.chm2852
 f1_keywords:
 - vbaol11.chm2852
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.Application
 ms.assetid: 825f8cef-44de-9ad8-77f2-fe7427cfae4c
