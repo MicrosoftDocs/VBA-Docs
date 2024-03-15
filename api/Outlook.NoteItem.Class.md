@@ -3,7 +3,6 @@ title: NoteItem.Class property (Outlook)
 keywords: vbaol11.chm1474
 f1_keywords:
 - vbaol11.chm1474
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Class
 ms.assetid: 5091430f-84e2-6009-9382-d6ec098de37c

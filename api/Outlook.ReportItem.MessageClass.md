@@ -3,7 +3,6 @@ title: ReportItem.MessageClass property (Outlook)
 keywords: vbaol11.chm1653
 f1_keywords:
 - vbaol11.chm1653
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.MessageClass
 ms.assetid: 096bfebc-20eb-ea36-cff8-a96a514b5903

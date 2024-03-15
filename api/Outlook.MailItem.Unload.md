@@ -1,6 +1,5 @@
 ---
 title: MailItem.Unload event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Unload
 ms.assetid: afae1238-d09f-c934-d363-9b13b733c558

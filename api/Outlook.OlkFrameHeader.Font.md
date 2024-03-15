@@ -3,7 +3,6 @@ title: OlkFrameHeader.Font property (Outlook)
 keywords: vbaol11.chm1000463
 f1_keywords:
 - vbaol11.chm1000463
-ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.Font
 ms.assetid: 1d11e2b4-6c8c-c79c-dd52-7ed5024cb0bd

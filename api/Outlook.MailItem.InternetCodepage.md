@@ -3,7 +3,6 @@ title: MailItem.InternetCodepage property (Outlook)
 keywords: vbaol11.chm1375
 f1_keywords:
 - vbaol11.chm1375
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.InternetCodepage
 ms.assetid: 09d80bb8-7677-d9b5-1585-c933af5a7b2d

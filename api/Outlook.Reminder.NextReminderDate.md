@@ -3,7 +3,6 @@ title: Reminder.NextReminderDate property (Outlook)
 keywords: vbaol11.chm563
 f1_keywords:
 - vbaol11.chm563
-ms.prod: outlook
 api_name:
 - Outlook.Reminder.NextReminderDate
 ms.assetid: c88a2606-fe30-d8c1-b16f-fd07b5596895

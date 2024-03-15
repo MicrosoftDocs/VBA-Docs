@@ -3,7 +3,6 @@ title: OlkCategory.BackColor property (Outlook)
 keywords: vbaol11.chm1000440
 f1_keywords:
 - vbaol11.chm1000440
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.BackColor
 ms.assetid: 0485ae9a-6b03-a77c-0a70-331210cc039a

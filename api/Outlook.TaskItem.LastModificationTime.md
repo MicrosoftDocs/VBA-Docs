@@ -3,7 +3,6 @@ title: TaskItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm1699
 f1_keywords:
 - vbaol11.chm1699
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.LastModificationTime
 ms.assetid: d59018c1-2d32-9081-9e65-8a4627c62ab4

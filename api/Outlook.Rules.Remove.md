@@ -3,7 +3,6 @@ title: Rules.Remove method (Outlook)
 keywords: vbaol11.chm2162
 f1_keywords:
 - vbaol11.chm2162
-ms.prod: outlook
 api_name:
 - Outlook.Rules.Remove
 ms.assetid: 6d4bb971-b38a-0434-1b6a-8892689549d6

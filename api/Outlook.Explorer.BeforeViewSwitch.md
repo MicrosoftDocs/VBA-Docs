@@ -3,7 +3,6 @@ title: Explorer.BeforeViewSwitch event (Outlook)
 keywords: vbaol11.chm453
 f1_keywords:
 - vbaol11.chm453
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeViewSwitch
 ms.assetid: 5b7ac070-ba4d-6fa8-94e5-20370efe7343

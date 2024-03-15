@@ -3,7 +3,6 @@ title: ExchangeUser.Application property (Outlook)
 keywords: vbaol11.chm2061
 f1_keywords:
 - vbaol11.chm2061
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.Application
 ms.assetid: 17331aa1-d926-ada9-a782-02291cd6f720

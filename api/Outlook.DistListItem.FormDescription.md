@@ -3,7 +3,6 @@ title: DistListItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1124
 f1_keywords:
 - vbaol11.chm1124
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.FormDescription
 ms.assetid: 2dc87e7c-4abf-c7db-e51e-6761bdf78de0

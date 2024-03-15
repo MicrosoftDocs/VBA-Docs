@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.Size property (Outlook)
 keywords: vbaol11.chm1845
 f1_keywords:
 - vbaol11.chm1845
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Size
 ms.assetid: 5de20024-9ebe-32ff-5391-35a2d1ffd2f7
