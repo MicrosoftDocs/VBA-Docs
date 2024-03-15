@@ -3,7 +3,6 @@ title: MeetingItem.EntryID property (Outlook)
 keywords: vbaol11.chm1411
 f1_keywords:
 - vbaol11.chm1411
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.EntryID
 ms.assetid: 03d2684e-9608-f631-284d-ed63ce11c85a

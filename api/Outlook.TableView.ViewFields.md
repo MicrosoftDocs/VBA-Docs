@@ -3,7 +3,6 @@ title: TableView.ViewFields property (Outlook)
 keywords: vbaol11.chm2517
 f1_keywords:
 - vbaol11.chm2517
-ms.prod: outlook
 api_name:
 - Outlook.TableView.ViewFields
 ms.assetid: c4c6257e-fdbe-c187-86c5-34bee3eb0bd3

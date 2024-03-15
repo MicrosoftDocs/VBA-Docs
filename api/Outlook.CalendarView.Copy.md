@@ -3,7 +3,6 @@ title: CalendarView.Copy method (Outlook)
 keywords: vbaol11.chm2612
 f1_keywords:
 - vbaol11.chm2612
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.Copy
 ms.assetid: ed33fd43-f36a-99e2-db61-9482423a9558

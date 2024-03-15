@@ -3,7 +3,6 @@ title: ExchangeUser.OfficeLocation property (Outlook)
 keywords: vbaol11.chm2096
 f1_keywords:
 - vbaol11.chm2096
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.OfficeLocation
 ms.assetid: b37d5622-27ba-b2c4-cfd3-6aa1e9e9296b

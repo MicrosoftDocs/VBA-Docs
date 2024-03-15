@@ -3,7 +3,6 @@ title: Table.Restrict method (Outlook)
 keywords: vbaol11.chm2234
 f1_keywords:
 - vbaol11.chm2234
-ms.prod: outlook
 api_name:
 - Outlook.Table.Restrict
 ms.assetid: ecdd30f6-e12c-8025-3ded-592d2fad2bb8

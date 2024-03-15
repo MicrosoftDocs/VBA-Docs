@@ -3,7 +3,6 @@ title: CardView.AllowInCellEditing property (Outlook)
 keywords: vbaol11.chm2598
 f1_keywords:
 - vbaol11.chm2598
-ms.prod: outlook
 api_name:
 - Outlook.CardView.AllowInCellEditing
 ms.assetid: e33da36e-d56e-6001-41e1-d923c0d3e450

@@ -3,7 +3,6 @@ title: SharingItem.Move method (Outlook)
 keywords: vbaol11.chm627
 f1_keywords:
 - vbaol11.chm627
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Move
 ms.assetid: a589900b-bbcc-c39b-d804-842246046bb8

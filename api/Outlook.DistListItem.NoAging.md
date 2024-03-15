@@ -3,7 +3,6 @@ title: DistListItem.NoAging property (Outlook)
 keywords: vbaol11.chm1131
 f1_keywords:
 - vbaol11.chm1131
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.NoAging
 ms.assetid: d1b9d359-86e9-1f90-6f32-f6cd3efa111a

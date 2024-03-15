@@ -3,7 +3,6 @@ title: SharingItem.SentOnBehalfOfName property (Outlook)
 keywords: vbaol11.chm663
 f1_keywords:
 - vbaol11.chm663
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.SentOnBehalfOfName
 ms.assetid: 40d6fcd0-acba-bdfb-8bc3-115c1d3511ef

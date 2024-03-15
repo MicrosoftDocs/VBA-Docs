@@ -3,7 +3,6 @@ title: Exception.OriginalDate property (Outlook)
 keywords: vbaol11.chm303
 f1_keywords:
 - vbaol11.chm303
-ms.prod: outlook
 api_name:
 - Outlook.Exception.OriginalDate
 ms.assetid: 0777de75-b32d-fe23-03d8-bb3deb18a69e

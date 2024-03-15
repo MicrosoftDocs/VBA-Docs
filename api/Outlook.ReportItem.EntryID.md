@@ -3,7 +3,6 @@ title: ReportItem.EntryID property (Outlook)
 keywords: vbaol11.chm1647
 f1_keywords:
 - vbaol11.chm1647
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.EntryID
 ms.assetid: 00dc7cb0-aa06-1e08-74c8-3cb5e3540a03

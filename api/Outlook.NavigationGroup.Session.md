@@ -3,7 +3,6 @@ title: NavigationGroup.Session property (Outlook)
 keywords: vbaol11.chm2884
 f1_keywords:
 - vbaol11.chm2884
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroup.Session
 ms.assetid: 8be45a52-1a91-2b89-567d-051e1a99178c
