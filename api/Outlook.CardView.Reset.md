@@ -3,7 +3,6 @@ title: CardView.Reset method (Outlook)
 keywords: vbaol11.chm2586
 f1_keywords:
 - vbaol11.chm2586
-ms.prod: outlook
 api_name:
 - Outlook.CardView.Reset
 ms.assetid: 47d6e16a-e789-2224-ec11-0569f199f787

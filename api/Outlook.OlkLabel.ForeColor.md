@@ -3,7 +3,6 @@ title: OlkLabel.ForeColor property (Outlook)
 keywords: vbaol11.chm1000094
 f1_keywords:
 - vbaol11.chm1000094
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.ForeColor
 ms.assetid: 0d857918-6cce-9bb7-e238-7bef026f494f

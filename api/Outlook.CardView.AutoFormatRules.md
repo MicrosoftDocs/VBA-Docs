@@ -3,7 +3,6 @@ title: CardView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2605
 f1_keywords:
 - vbaol11.chm2605
-ms.prod: outlook
 api_name:
 - Outlook.CardView.AutoFormatRules
 ms.assetid: 241c93c1-32bf-3a33-4de3-110ad7ee7a1c

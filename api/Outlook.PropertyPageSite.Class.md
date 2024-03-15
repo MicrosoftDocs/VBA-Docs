@@ -3,7 +3,6 @@ title: PropertyPageSite.Class property (Outlook)
 keywords: vbaol11.chm386
 f1_keywords:
 - vbaol11.chm386
-ms.prod: outlook
 api_name:
 - Outlook.PropertyPageSite.Class
 ms.assetid: 4235397e-40d0-a903-1de4-9ef28bf53aa0

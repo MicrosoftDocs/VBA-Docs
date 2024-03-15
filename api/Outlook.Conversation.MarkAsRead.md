@@ -3,7 +3,6 @@ title: Conversation.MarkAsRead method (Outlook)
 keywords: vbaol11.chm3442
 f1_keywords:
 - vbaol11.chm3442
-ms.prod: outlook
 api_name:
 - Outlook.Conversation.MarkAsRead
 ms.assetid: 94e764c8-e67a-0b8b-1f60-f892e3320e29

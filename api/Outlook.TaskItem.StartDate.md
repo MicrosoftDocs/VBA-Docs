@@ -3,7 +3,6 @@ title: TaskItem.StartDate property (Outlook)
 keywords: vbaol11.chm1743
 f1_keywords:
 - vbaol11.chm1743
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.StartDate
 ms.assetid: 0ec17958-78cd-3a2e-05c3-cbc8e367e3df

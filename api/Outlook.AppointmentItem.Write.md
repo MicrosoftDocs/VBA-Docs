@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.Write event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Write
 ms.assetid: 55539ad2-d53e-b28e-06f4-13c5f545a89b

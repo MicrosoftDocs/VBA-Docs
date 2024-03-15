@@ -3,7 +3,6 @@ title: SharingItem.Copy method (Outlook)
 keywords: vbaol11.chm624
 f1_keywords:
 - vbaol11.chm624
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Copy
 ms.assetid: 36e91b53-2c10-63d7-59d7-98ccbbd3a190

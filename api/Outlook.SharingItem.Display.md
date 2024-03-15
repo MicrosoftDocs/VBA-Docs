@@ -3,7 +3,6 @@ title: SharingItem.Display method (Outlook)
 keywords: vbaol11.chm626
 f1_keywords:
 - vbaol11.chm626
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Display
 ms.assetid: f243424e-06d7-8953-a19d-13f4f44dcabe

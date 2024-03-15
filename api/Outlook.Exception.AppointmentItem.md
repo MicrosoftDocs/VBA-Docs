@@ -3,7 +3,6 @@ title: Exception.AppointmentItem property (Outlook)
 keywords: vbaol11.chm301
 f1_keywords:
 - vbaol11.chm301
-ms.prod: outlook
 api_name:
 - Outlook.Exception.AppointmentItem
 ms.assetid: 35541126-99c0-6eaa-18a2-2d13519f03e7

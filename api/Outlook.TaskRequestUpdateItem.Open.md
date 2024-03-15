@@ -1,6 +1,5 @@
 ---
 title: TaskRequestUpdateItem.Open event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Open
 ms.assetid: 6a92ed2f-44a7-79ad-9b7d-caba455fa27a

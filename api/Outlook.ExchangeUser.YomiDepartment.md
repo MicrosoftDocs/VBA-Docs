@@ -3,7 +3,6 @@ title: ExchangeUser.YomiDepartment property (Outlook)
 keywords: vbaol11.chm2106
 f1_keywords:
 - vbaol11.chm2106
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.YomiDepartment
 ms.assetid: 6bc06cf2-7dee-fa50-7380-73df8022ff18

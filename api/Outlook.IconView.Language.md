@@ -3,7 +3,6 @@ title: IconView.Language property (Outlook)
 keywords: vbaol11.chm2566
 f1_keywords:
 - vbaol11.chm2566
-ms.prod: outlook
 api_name:
 - Outlook.IconView.Language
 ms.assetid: 7b35d1ce-991f-00c6-c225-a5fcf3b7f888
