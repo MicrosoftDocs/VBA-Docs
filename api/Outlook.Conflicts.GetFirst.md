@@ -3,7 +3,6 @@ title: Conflicts.GetFirst method (Outlook)
 keywords: vbaol11.chm406
 f1_keywords:
 - vbaol11.chm406
-ms.prod: outlook
 api_name:
 - Outlook.Conflicts.GetFirst
 ms.assetid: f257a9f1-d9ec-c13a-62f7-0228d55342da

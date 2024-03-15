@@ -1,6 +1,5 @@
 ---
 title: AppointmentItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.BeforeCheckNames
 ms.assetid: e68833b3-c585-725a-aa71-bbba9ffbad16

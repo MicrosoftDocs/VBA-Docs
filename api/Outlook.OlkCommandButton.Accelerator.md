@@ -3,7 +3,6 @@ title: OlkCommandButton.Accelerator property (Outlook)
 keywords: vbaol11.chm1000109
 f1_keywords:
 - vbaol11.chm1000109
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Accelerator
 ms.assetid: c66b26b7-f17f-ce2f-c871-49f0eac12913

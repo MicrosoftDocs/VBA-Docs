@@ -3,7 +3,6 @@ title: Action.ResponseStyle property (Outlook)
 keywords: vbaol11.chm20
 f1_keywords:
 - vbaol11.chm20
-ms.prod: outlook
 api_name:
 - Outlook.Action.ResponseStyle
 ms.assetid: 6c20276c-51c1-3164-a28f-ac415c911cbb

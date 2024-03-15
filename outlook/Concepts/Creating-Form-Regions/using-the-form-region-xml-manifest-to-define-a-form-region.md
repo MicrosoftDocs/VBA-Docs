@@ -1,6 +1,5 @@
 ---
 title: Using the Form Region XML Manifest to Define a Form Region
-ms.prod: outlook
 ms.assetid: a1c150b1-a6ee-6f16-9798-82d253cbcc6a
 ms.date: 09/08/2021
 ms.localizationpriority: medium

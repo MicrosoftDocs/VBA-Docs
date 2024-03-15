@@ -3,7 +3,6 @@ title: OlkLabel.MousePointer property (Outlook)
 keywords: vbaol11.chm1000096
 f1_keywords:
 - vbaol11.chm1000096
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.MousePointer
 ms.assetid: f4b0e7ca-fa1d-7eb3-f6b6-70802ad6d5a5

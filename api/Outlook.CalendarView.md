@@ -3,7 +3,6 @@ title: CalendarView object (Outlook)
 keywords: vbaol11.chm3208
 f1_keywords:
 - vbaol11.chm3208
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView
 ms.assetid: 37e078b9-9fc6-5894-b043-06d7257666a8

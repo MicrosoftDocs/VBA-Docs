@@ -3,7 +3,6 @@ title: CategoryRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm2443
 f1_keywords:
 - vbaol11.chm2443
-ms.prod: outlook
 api_name:
 - Outlook.CategoryRuleCondition.Parent
 ms.assetid: bcfb86b5-7904-6cc0-044b-da3ba4e551bd
