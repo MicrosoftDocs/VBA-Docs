@@ -3,7 +3,6 @@ title: Research.Query method (Excel)
 keywords: vbaxl10.chm849073
 f1_keywords:
 - vbaxl10.chm849073
-ms.prod: excel
 api_name:
 - Excel.Research.Query
 ms.assetid: ea3b90ba-9cb4-2682-e092-6e3dd7d40aaf

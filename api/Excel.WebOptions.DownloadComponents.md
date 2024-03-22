@@ -3,7 +3,6 @@ title: WebOptions.DownloadComponents property (Excel)
 keywords: vbaxl10.chm662076
 f1_keywords:
 - vbaxl10.chm662076
-ms.prod: excel
 api_name:
 - Excel.WebOptions.DownloadComponents
 ms.assetid: d9f103f8-e41e-ee8b-0e02-8cda514f04c9

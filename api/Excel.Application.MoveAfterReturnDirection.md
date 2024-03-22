@@ -3,7 +3,6 @@ title: Application.MoveAfterReturnDirection property (Excel)
 keywords: vbaxl10.chm133169
 f1_keywords:
 - vbaxl10.chm133169
-ms.prod: excel
 api_name:
 - Excel.Application.MoveAfterReturnDirection
 ms.assetid: c11d8e36-755e-c911-de44-8b630b549418

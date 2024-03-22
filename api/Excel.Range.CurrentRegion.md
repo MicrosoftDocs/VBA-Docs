@@ -3,7 +3,6 @@ title: Range.CurrentRegion property (Excel)
 keywords: vbaxl10.chm144111
 f1_keywords:
 - vbaxl10.chm144111
-ms.prod: excel
 api_name:
 - Excel.Range.CurrentRegion
 ms.assetid: 39277cc5-07ff-8453-7330-b272b365f9dc

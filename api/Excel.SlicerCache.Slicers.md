@@ -3,7 +3,6 @@ title: SlicerCache.Slicers property (Excel)
 keywords: vbaxl10.chm897077
 f1_keywords:
 - vbaxl10.chm897077
-ms.prod: excel
 api_name:
 - Excel.SlicerCache.Slicers
 ms.assetid: 9a1f257a-433b-1b8b-366b-5e89c5d4c955

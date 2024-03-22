@@ -3,7 +3,6 @@ title: Range.CopyFromRecordset method (Excel)
 keywords: vbaxl10.chm144105
 f1_keywords:
 - vbaxl10.chm144105
-ms.prod: excel
 api_name:
 - Excel.Range.CopyFromRecordset
 ms.assetid: cec7fded-f4e0-1b1c-5374-8a860828c9cc

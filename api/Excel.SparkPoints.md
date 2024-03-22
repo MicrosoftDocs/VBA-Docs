@@ -3,7 +3,6 @@ title: SparkPoints object (Excel)
 keywords: vbaxl10.chm872072
 f1_keywords:
 - vbaxl10.chm872072
-ms.prod: excel
 api_name:
 - Excel.SparkPoints
 ms.assetid: 382bf292-7824-179f-e254-1b72dfb557b2

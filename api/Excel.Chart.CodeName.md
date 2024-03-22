@@ -3,7 +3,6 @@ title: Chart.CodeName property (Excel)
 keywords: vbaxl10.chm148076
 f1_keywords:
 - vbaxl10.chm148076
-ms.prod: excel
 api_name:
 - Excel.Chart.CodeName
 ms.assetid: 88872dad-53b2-580a-9bbc-6a29066352a6

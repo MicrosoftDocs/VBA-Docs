@@ -3,7 +3,6 @@ title: Worksheet.SetBackgroundPicture method (Excel)
 keywords: vbaxl10.chm175076
 f1_keywords:
 - vbaxl10.chm175076
-ms.prod: excel
 api_name:
 - Excel.Worksheet.SetBackgroundPicture
 ms.assetid: 5cff4730-24ba-6147-76c9-e1f9eb970989

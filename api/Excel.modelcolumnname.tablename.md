@@ -3,7 +3,6 @@ title: ModelColumnName.TableName property (Excel)
 keywords: vbaxl10.chm962073
 f1_keywords:
 - vbaxl10.chm962073
-ms.prod: excel
 ms.assetid: e6d4237b-ce80-00c1-a67f-794fedb8b05f
 ms.date: 05/01/2019
 ms.localizationpriority: medium

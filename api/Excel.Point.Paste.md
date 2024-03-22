@@ -3,7 +3,6 @@ title: Point.Paste method (Excel)
 keywords: vbaxl10.chm576090
 f1_keywords:
 - vbaxl10.chm576090
-ms.prod: excel
 api_name:
 - Excel.Point.Paste
 ms.assetid: 0a984f1c-54de-d49f-8677-43d513a0f9fc

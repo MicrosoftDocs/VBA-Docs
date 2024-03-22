@@ -3,7 +3,6 @@ title: DataBar.ShowValue property (Excel)
 keywords: vbaxl10.chm810081
 f1_keywords:
 - vbaxl10.chm810081
-ms.prod: excel
 api_name:
 - Excel.DataBar.ShowValue
 ms.assetid: d8a366b9-78c3-cdfa-27f5-f27082832828

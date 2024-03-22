@@ -3,7 +3,6 @@ title: UserAccessList.DeleteAll method (Excel)
 keywords: vbaxl10.chm726076
 f1_keywords:
 - vbaxl10.chm726076
-ms.prod: excel
 api_name:
 - Excel.UserAccessList.DeleteAll
 ms.assetid: c162c9cf-8257-e97a-ebe8-ab1d700924ca

@@ -3,7 +3,6 @@ title: Workbook.SendFaxOverInternet method (Excel)
 keywords: vbaxl10.chm199223
 f1_keywords:
 - vbaxl10.chm199223
-ms.prod: excel
 api_name:
 - Excel.Workbook.SendFaxOverInternet
 ms.assetid: e7d91ac4-90d2-7555-af96-dc28736da769

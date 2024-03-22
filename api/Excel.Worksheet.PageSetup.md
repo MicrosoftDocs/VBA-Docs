@@ -3,7 +3,6 @@ title: Worksheet.PageSetup property (Excel)
 keywords: vbaxl10.chm174085
 f1_keywords:
 - vbaxl10.chm174085
-ms.prod: excel
 api_name:
 - Excel.Worksheet.PageSetup
 ms.assetid: 50310e49-49d0-c8c6-ed23-0eacae6355b5

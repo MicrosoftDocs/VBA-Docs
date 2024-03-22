@@ -3,7 +3,6 @@ title: PivotCache.WorkbookConnection property (Excel)
 keywords: vbaxl10.chm227107
 f1_keywords:
 - vbaxl10.chm227107
-ms.prod: excel
 api_name:
 - Excel.PivotCache.WorkbookConnection
 ms.assetid: cb4de0b8-6706-f1e3-4e2d-42b38b93c601

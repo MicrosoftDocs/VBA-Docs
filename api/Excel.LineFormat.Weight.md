@@ -3,7 +3,6 @@ title: LineFormat.Weight property (Excel)
 keywords: vbaxl10.chm110015
 f1_keywords:
 - vbaxl10.chm110015
-ms.prod: excel
 api_name:
 - Excel.LineFormat.Weight
 ms.assetid: e875fbac-10a5-4285-3565-0b9f05c83d42

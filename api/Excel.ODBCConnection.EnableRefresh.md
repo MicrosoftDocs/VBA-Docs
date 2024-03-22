@@ -3,7 +3,6 @@ title: ODBCConnection.EnableRefresh property (Excel)
 keywords: vbaxl10.chm796078
 f1_keywords:
 - vbaxl10.chm796078
-ms.prod: excel
 api_name:
 - Excel.ODBCConnection.EnableRefresh
 ms.assetid: 7d10e758-e92c-90c6-2f12-60b7b5f531ea

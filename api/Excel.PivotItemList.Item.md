@@ -3,7 +3,6 @@ title: PivotItemList.Item method (Excel)
 keywords: vbaxl10.chm721074
 f1_keywords:
 - vbaxl10.chm721074
-ms.prod: excel
 api_name:
 - Excel.PivotItemList.Item
 ms.assetid: 69d0c71b-aa5a-b6cd-41d7-825197af869e

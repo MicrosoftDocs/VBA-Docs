@@ -3,7 +3,6 @@ title: Interior.Color property (Excel)
 keywords: vbaxl10.chm551073
 f1_keywords:
 - vbaxl10.chm551073
-ms.prod: excel
 api_name:
 - Excel.Interior.Color
 ms.assetid: eb19fc67-51b8-d6f0-d6e3-a02e3a90b4e1

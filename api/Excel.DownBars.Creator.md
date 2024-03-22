@@ -3,7 +3,6 @@ title: DownBars.Creator property (Excel)
 keywords: vbaxl10.chm609074
 f1_keywords:
 - vbaxl10.chm609074
-ms.prod: excel
 api_name:
 - Excel.DownBars.Creator
 ms.assetid: 157413a9-f3f7-8d98-294c-8580dfabdd2b

@@ -3,7 +3,6 @@ title: Shape.Locked property (Excel)
 keywords: vbaxl10.chm636121
 f1_keywords:
 - vbaxl10.chm636121
-ms.prod: excel
 api_name:
 - Excel.Shape.Locked
 ms.assetid: ead4e049-c358-7d77-f715-be9f8cfcdd4a

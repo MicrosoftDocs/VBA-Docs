@@ -3,7 +3,6 @@ title: Workbook.ReloadAs method (Excel)
 keywords: vbaxl10.chm199189
 f1_keywords:
 - vbaxl10.chm199189
-ms.prod: excel
 api_name:
 - Excel.Workbook.ReloadAs
 ms.assetid: ce6a9d1a-7945-3dca-ff2d-a42289c2ccf9

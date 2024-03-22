@@ -3,7 +3,6 @@ title: SlicerCache.ClearAllFilters method (Excel)
 keywords: vbaxl10.chm897092
 f1_keywords:
 - vbaxl10.chm897092
-ms.prod: excel
 ms.assetid: 525cb7ab-3371-b4a0-45de-55725273527a
 ms.date: 05/16/2019
 ms.localizationpriority: medium

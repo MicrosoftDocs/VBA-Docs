@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.BevelTopDepth property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelTopDepth
 ms.assetid: 41fb90c9-3109-8029-66a6-2ac3fabbbdff

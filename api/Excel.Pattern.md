@@ -3,7 +3,6 @@ title: Pattern property (Excel Graph)
 keywords: vbagr10.chm65631
 f1_keywords:
 - vbagr10.chm65631
-ms.prod: excel
 api_name:
 - Excel.Pattern
 ms.assetid: 3cc8475d-dc65-b2eb-e1ba-2bd95c5c0b03

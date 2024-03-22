@@ -3,7 +3,6 @@ title: SpellingOptions.ArabicStrictAlefHamza property (Excel)
 keywords: vbaxl10.chm717085
 f1_keywords:
 - vbaxl10.chm717085
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.ArabicStrictAlefHamza
 ms.assetid: 0e144aee-eb66-173f-2ee0-69ad433fcd25

@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.CameraPositionZ property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat.CameraPositionZ
 ms.date: 04/11/2019

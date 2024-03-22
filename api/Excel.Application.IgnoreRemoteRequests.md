@@ -3,7 +3,6 @@ title: Application.IgnoreRemoteRequests property (Excel)
 keywords: vbaxl10.chm133147
 f1_keywords:
 - vbaxl10.chm133147
-ms.prod: excel
 api_name:
 - Excel.Application.IgnoreRemoteRequests
 ms.assetid: 94515401-eb26-a2d8-5013-33f1f38b884f

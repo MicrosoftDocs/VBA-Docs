@@ -3,7 +3,6 @@ title: WorksheetFunction.Permut method (Excel)
 keywords: vbaxl10.chm137203
 f1_keywords:
 - vbaxl10.chm137203
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Permut
 ms.assetid: dbef7a0f-bab9-83c0-9840-bb5948114b5e

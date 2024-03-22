@@ -3,7 +3,6 @@ title: Worksheets.Select method (Excel)
 keywords: vbaxl10.chm470083
 f1_keywords:
 - vbaxl10.chm470083
-ms.prod: excel
 api_name:
 - Excel.Worksheets.Select
 ms.assetid: f6c6c3df-d902-2a88-740b-00d2f5757fc6

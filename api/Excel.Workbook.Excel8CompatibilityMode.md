@@ -3,7 +3,6 @@ title: Workbook.Excel8CompatibilityMode property (Excel)
 keywords: vbaxl10.chm199256
 f1_keywords:
 - vbaxl10.chm199256
-ms.prod: excel
 api_name:
 - Excel.Workbook.Excel8CompatibilityMode
 ms.assetid: 8471493b-8733-cddf-75fa-42d3d1719300

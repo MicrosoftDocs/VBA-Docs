@@ -3,7 +3,6 @@ title: Creator property (Excel Graph)
 keywords: vbagr10.chm65685
 f1_keywords:
 - vbagr10.chm65685
-ms.prod: excel
 api_name:
 - Excel.Creator
 ms.assetid: 79d72908-f141-1d3a-d8db-c10db7b33537

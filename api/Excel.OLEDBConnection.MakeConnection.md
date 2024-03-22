@@ -3,7 +3,6 @@ title: OLEDBConnection.MakeConnection method (Excel)
 keywords: vbaxl10.chm794082
 f1_keywords:
 - vbaxl10.chm794082
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.MakeConnection
 ms.assetid: ff618eae-1593-aabc-dbcb-427291caf923

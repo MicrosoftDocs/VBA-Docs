@@ -3,7 +3,6 @@ title: Border.Parent property (Excel)
 keywords: vbaxl10.chm546075
 f1_keywords:
 - vbaxl10.chm546075
-ms.prod: excel
 api_name:
 - Excel.Border.Parent
 ms.assetid: c2d140bc-ad37-958b-5a9f-9709e03f1e2f

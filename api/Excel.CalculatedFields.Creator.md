@@ -3,7 +3,6 @@ title: CalculatedFields.Creator property (Excel)
 keywords: vbaxl10.chm243074
 f1_keywords:
 - vbaxl10.chm243074
-ms.prod: excel
 api_name:
 - Excel.CalculatedFields.Creator
 ms.assetid: 95b69698-d77f-eec9-fd74-09d630ca4ae5

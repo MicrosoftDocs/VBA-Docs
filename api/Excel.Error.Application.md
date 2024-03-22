@@ -3,7 +3,6 @@ title: Error.Application property (Excel)
 keywords: vbaxl10.chm701073
 f1_keywords:
 - vbaxl10.chm701073
-ms.prod: excel
 api_name:
 - Excel.Error.Application
 ms.assetid: baa1fcf7-3919-cef5-b280-3c1d64cf3093

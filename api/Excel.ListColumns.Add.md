@@ -3,7 +3,6 @@ title: ListColumns.Add method (Excel)
 keywords: vbaxl10.chm736073
 f1_keywords:
 - vbaxl10.chm736073
-ms.prod: excel
 api_name:
 - Excel.ListColumns.Add
 ms.assetid: a1127989-f1e0-3c0a-e2c9-24b166c5e001

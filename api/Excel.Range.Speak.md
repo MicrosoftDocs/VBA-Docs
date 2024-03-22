@@ -3,7 +3,6 @@ title: Range.Speak method (Excel)
 keywords: vbaxl10.chm144237
 f1_keywords:
 - vbaxl10.chm144237
-ms.prod: excel
 api_name:
 - Excel.Range.Speak
 ms.assetid: 12928814-9534-c9f0-e351-7d26f77869e0

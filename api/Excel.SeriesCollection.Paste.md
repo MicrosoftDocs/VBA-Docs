@@ -3,7 +3,6 @@ title: SeriesCollection.Paste method (Excel)
 keywords: vbaxl10.chm580079
 f1_keywords:
 - vbaxl10.chm580079
-ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Paste
 ms.assetid: 460644ba-e682-d4dd-4832-f9f18fb6389b

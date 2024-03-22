@@ -3,7 +3,6 @@ title: Range.FormulaR1C1Local property (Excel)
 keywords: vbaxl10.chm144138
 f1_keywords:
 - vbaxl10.chm144138
-ms.prod: excel
 api_name:
 - Excel.Range.FormulaR1C1Local
 ms.assetid: be0e3270-43fd-e6c7-1209-11ed3204e563

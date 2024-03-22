@@ -3,7 +3,6 @@ title: SlicerCache.SortItems property (Excel)
 keywords: vbaxl10.chm897085
 f1_keywords:
 - vbaxl10.chm897085
-ms.prod: excel
 api_name:
 - Excel.SlicerCache.SortItems
 ms.assetid: da8fd267-5c4d-c333-fb21-bb3c4305747c

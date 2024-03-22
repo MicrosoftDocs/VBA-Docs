@@ -3,7 +3,6 @@ title: Chart.CheckSpelling method (Excel)
 keywords: vbaxl10.chm149092
 f1_keywords:
 - vbaxl10.chm149092
-ms.prod: excel
 api_name:
 - Excel.Chart.CheckSpelling
 ms.assetid: 9c39b0f1-4401-1399-58fa-444c9fa9fab4

@@ -3,7 +3,6 @@ title: Workbook.GetWorkflowTemplates method (Excel)
 keywords: vbaxl10.chm199243
 f1_keywords:
 - vbaxl10.chm199243
-ms.prod: excel
 api_name:
 - Excel.Workbook.GetWorkflowTemplates
 ms.assetid: adff72bb-39ab-69ed-8a9b-defe75a5fede

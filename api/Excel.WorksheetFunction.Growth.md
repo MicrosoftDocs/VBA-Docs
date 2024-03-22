@@ -3,7 +3,6 @@ title: WorksheetFunction.Growth method (Excel)
 keywords: vbaxl10.chm137106
 f1_keywords:
 - vbaxl10.chm137106
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Growth
 ms.assetid: ecc3ffcc-9739-860a-60a6-366ef7133a33

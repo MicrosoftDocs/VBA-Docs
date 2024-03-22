@@ -3,7 +3,6 @@ title: FileExportConverters.Count property (Excel)
 keywords: vbaxl10.chm865073
 f1_keywords:
 - vbaxl10.chm865073
-ms.prod: excel
 api_name:
 - Excel.FileExportConverters.Count
 ms.assetid: b1c0d01d-104f-b92d-55c8-4bce5d96d097

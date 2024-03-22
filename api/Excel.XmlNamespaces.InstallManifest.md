@@ -3,7 +3,6 @@ title: XmlNamespaces.InstallManifest method (Excel)
 keywords: vbaxl10.chm746078
 f1_keywords:
 - vbaxl10.chm746078
-ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.InstallManifest
 ms.assetid: e462d627-d4d1-b3e9-4d6c-ae7ed91665ad

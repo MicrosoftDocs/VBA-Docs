@@ -3,7 +3,6 @@ title: SlicerItems.Creator property (Excel)
 keywords: vbaxl10.chm908074
 f1_keywords:
 - vbaxl10.chm908074
-ms.prod: excel
 api_name:
 - Excel.SlicerItems.Creator
 ms.assetid: d7002e14-3c07-3255-6b01-556fc1d3c503

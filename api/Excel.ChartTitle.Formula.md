@@ -3,7 +3,6 @@ title: ChartTitle.Formula property (Excel)
 keywords: vbaxl10.chm563097
 f1_keywords:
 - vbaxl10.chm563097
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.Formula
 ms.assetid: 658a6f79-466f-e9f0-702e-af95b154cef2

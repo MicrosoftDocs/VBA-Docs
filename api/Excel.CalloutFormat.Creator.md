@@ -1,6 +1,5 @@
 ---
 title: CalloutFormat.Creator property (Excel)
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Creator
 ms.assetid: b9c90a53-613e-7b00-401c-991f12946da5

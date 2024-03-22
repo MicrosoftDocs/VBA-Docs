@@ -3,7 +3,6 @@ title: Window.Selection property (Excel)
 keywords: vbaxl10.chm356109
 f1_keywords:
 - vbaxl10.chm356109
-ms.prod: excel
 api_name:
 - Excel.Window.Selection
 ms.assetid: 852ca473-28c6-6315-f793-1a12e7f239a4

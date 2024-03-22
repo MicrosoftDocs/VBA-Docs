@@ -3,7 +3,6 @@ title: Slicer.Left property (Excel)
 keywords: vbaxl10.chm905076
 f1_keywords:
 - vbaxl10.chm905076
-ms.prod: excel
 api_name:
 - Excel.Slicer.Left
 ms.assetid: e9099a6b-b2f0-e7c4-c9fd-d47ffbf279f4

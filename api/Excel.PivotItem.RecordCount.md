@@ -3,7 +3,6 @@ title: PivotItem.RecordCount property (Excel)
 keywords: vbaxl10.chm246088
 f1_keywords:
 - vbaxl10.chm246088
-ms.prod: excel
 api_name:
 - Excel.PivotItem.RecordCount
 ms.assetid: 2ba8ceff-5c9c-ed27-7b32-b9f9e7bd7ff0

@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.WordWrap property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.WordWrap
 ms.assetid: ed768819-89f9-7d8d-1ed2-706de15ad8e7

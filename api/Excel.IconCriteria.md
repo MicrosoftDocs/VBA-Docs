@@ -3,7 +3,6 @@ title: IconCriteria object (Excel)
 keywords: vbaxl10.chm813072
 f1_keywords:
 - vbaxl10.chm813072
-ms.prod: excel
 api_name:
 - Excel.IconCriteria
 ms.assetid: c3b0480a-6def-c315-32ed-137b64708810

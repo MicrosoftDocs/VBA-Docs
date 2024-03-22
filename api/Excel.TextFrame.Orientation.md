@@ -3,7 +3,6 @@ title: TextFrame.Orientation property (Excel)
 keywords: vbaxl10.chm644077
 f1_keywords:
 - vbaxl10.chm644077
-ms.prod: excel
 api_name:
 - Excel.TextFrame.Orientation
 ms.assetid: bd1cc9ec-6a12-7d3b-e160-6371ce09171b

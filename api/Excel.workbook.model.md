@@ -3,7 +3,6 @@ title: Workbook.Model property (Excel)
 keywords: vbaxl10.chm199276
 f1_keywords:
 - vbaxl10.chm199276
-ms.prod: excel
 ms.assetid: 43ccdaa8-4a12-e745-88db-9db8a328ee5e
 ms.date: 05/29/2019
 ms.localizationpriority: medium

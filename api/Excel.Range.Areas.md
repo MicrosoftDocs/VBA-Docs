@@ -3,7 +3,6 @@ title: Range.Areas property (Excel)
 keywords: vbaxl10.chm144081
 f1_keywords:
 - vbaxl10.chm144081
-ms.prod: excel
 api_name:
 - Excel.Range.Areas
 ms.assetid: 31fc03b4-25b6-27ae-2350-b34c6c6ba255

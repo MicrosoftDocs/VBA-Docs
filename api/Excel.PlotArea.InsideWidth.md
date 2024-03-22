@@ -3,7 +3,6 @@ title: PlotArea.InsideWidth property (Excel)
 keywords: vbaxl10.chm618090
 f1_keywords:
 - vbaxl10.chm618090
-ms.prod: excel
 api_name:
 - Excel.PlotArea.InsideWidth
 ms.assetid: 2ebad523-2f25-28c1-5d6e-56517e2690b7

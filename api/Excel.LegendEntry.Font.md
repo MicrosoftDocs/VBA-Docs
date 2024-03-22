@@ -3,7 +3,6 @@ title: LegendEntry.Font property (Excel)
 keywords: vbaxl10.chm586075
 f1_keywords:
 - vbaxl10.chm586075
-ms.prod: excel
 api_name:
 - Excel.LegendEntry.Font
 ms.assetid: 4bb7ab38-aa33-4574-3190-e3c229e3c644

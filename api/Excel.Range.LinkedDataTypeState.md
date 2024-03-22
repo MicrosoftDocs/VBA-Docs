@@ -3,7 +3,6 @@ title: Range.LinkedDataTypeState property (Excel)
 keywords: vbaxl10.chm144264
 f1_keywords:
 - vbaxl10.chm144264
-ms.prod: excel
 api_name:
 - Excel.Range.LinkedDataTypeState
 ms.date: 05/11/2019

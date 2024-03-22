@@ -3,7 +3,6 @@ title: Author.Parent property (Excel)
 keywords: vbaxl10.chm1011075
 f1_keywords:
 - vbaxl10.chm1011075
-ms.prod: excel
 api_name:
 - Excel.Author.Parent
 ms.date: 05/15/2019

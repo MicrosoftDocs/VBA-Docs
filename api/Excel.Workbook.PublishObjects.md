@@ -3,7 +3,6 @@ title: Workbook.PublishObjects property (Excel)
 keywords: vbaxl10.chm199187
 f1_keywords:
 - vbaxl10.chm199187
-ms.prod: excel
 api_name:
 - Excel.Workbook.PublishObjects
 ms.assetid: b6418f80-5154-6e3f-7313-222e6438c0e1

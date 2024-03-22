@@ -3,7 +3,6 @@ title: Chart.OLEObjects method (Excel)
 keywords: vbaxl10.chm149126
 f1_keywords:
 - vbaxl10.chm149126
-ms.prod: excel
 api_name:
 - Excel.Chart.OLEObjects
 ms.assetid: e42150c1-8661-75b4-f1e8-fec8cc82f59b

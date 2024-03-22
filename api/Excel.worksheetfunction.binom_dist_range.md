@@ -3,7 +3,6 @@ title: WorksheetFunction.Binom_Dist_Range method (Excel)
 keywords: vbaxl10.chm137447
 f1_keywords:
 - vbaxl10.chm137447
-ms.prod: excel
 ms.assetid: 389223fe-9c1e-8aa7-8437-0ef09cbbfc3d
 ms.date: 05/22/2019
 ms.localizationpriority: medium

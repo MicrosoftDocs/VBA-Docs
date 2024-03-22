@@ -3,7 +3,6 @@ title: Borders.Item property (Excel)
 keywords: vbaxl10.chm181076
 f1_keywords:
 - vbaxl10.chm181076
-ms.prod: excel
 api_name:
 - Excel.Borders.Item
 ms.assetid: 19184379-d551-396e-8cb6-ff240e3c85fa

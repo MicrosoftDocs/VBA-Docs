@@ -3,7 +3,6 @@ title: Chart.Rotation property (Excel)
 keywords: vbaxl10.chm149139
 f1_keywords:
 - vbaxl10.chm149139
-ms.prod: excel
 api_name:
 - Excel.Chart.Rotation
 ms.assetid: bf271f86-18c9-ac74-12ab-f90f4353f71d

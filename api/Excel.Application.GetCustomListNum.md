@@ -3,7 +3,6 @@ title: Application.GetCustomListNum method (Excel)
 keywords: vbaxl10.chm133141
 f1_keywords:
 - vbaxl10.chm133141
-ms.prod: excel
 api_name:
 - Excel.Application.GetCustomListNum
 ms.assetid: c4a97a96-333a-1021-7324-5cca4f0d9f3c

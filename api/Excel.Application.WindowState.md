@@ -3,7 +3,6 @@ title: Application.WindowState property (Excel)
 keywords: vbaxl10.chm133234
 f1_keywords:
 - vbaxl10.chm133234
-ms.prod: excel
 api_name:
 - Excel.Application.WindowState
 ms.assetid: f53d2bb8-b862-c55f-d9d5-68e705ca3415

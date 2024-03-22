@@ -3,7 +3,6 @@ title: ListObject.DisplayName property (Excel)
 keywords: vbaxl10.chm734097
 f1_keywords:
 - vbaxl10.chm734097
-ms.prod: excel
 api_name:
 - Excel.ListObject.DisplayName
 ms.assetid: 02c30c2b-5296-d996-1045-e867bdf41eb1

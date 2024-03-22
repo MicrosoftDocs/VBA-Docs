@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.IncrementRotationX method (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat.IncrementRotationX
 ms.date: 04/11/2019

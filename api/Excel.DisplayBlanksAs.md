@@ -3,7 +3,6 @@ title: DisplayBlanksAs property (Excel Graph)
 keywords: vbagr10.chm3077021
 f1_keywords:
 - vbagr10.chm3077021
-ms.prod: excel
 api_name:
 - Excel.DisplayBlanksAs
 ms.assetid: c2669ad5-9532-ea7c-120c-bc8a15878864

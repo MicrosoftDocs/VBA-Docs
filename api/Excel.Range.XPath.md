@@ -3,7 +3,6 @@ title: Range.XPath property (Excel)
 keywords: vbaxl10.chm144241
 f1_keywords:
 - vbaxl10.chm144241
-ms.prod: excel
 api_name:
 - Excel.Range.XPath
 ms.assetid: 90a353d7-7222-b387-558a-044cb17f09b9

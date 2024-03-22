@@ -1,6 +1,5 @@
 ---
 title: ColorFormat.Application property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ColorFormat.Application
 ms.assetid: e9b68987-dceb-8bd6-13af-be60076e3e73

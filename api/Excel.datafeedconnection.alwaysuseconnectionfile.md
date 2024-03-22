@@ -3,7 +3,6 @@ title: DataFeedConnection.AlwaysUseConnectionFile property (Excel)
 keywords: vbaxl10.chm928073
 f1_keywords:
 - vbaxl10.chm928073
-ms.prod: excel
 ms.assetid: 97fea940-2682-3d0d-cb49-4ad8a178ea4f
 ms.date: 03/28/2019
 ms.localizationpriority: medium

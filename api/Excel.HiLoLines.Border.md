@@ -3,7 +3,6 @@ title: HiLoLines.Border property (Excel)
 keywords: vbaxl10.chm600076
 f1_keywords:
 - vbaxl10.chm600076
-ms.prod: excel
 api_name:
 - Excel.HiLoLines.Border
 ms.assetid: debd41a7-b43d-a6d6-e843-fb6f8cf57a72

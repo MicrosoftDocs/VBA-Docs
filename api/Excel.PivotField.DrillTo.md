@@ -3,7 +3,6 @@ title: PivotField.DrillTo method (Excel)
 keywords: vbaxl10.chm240138
 f1_keywords:
 - vbaxl10.chm240138
-ms.prod: excel
 api_name:
 - Excel.PivotField.DrillTo
 ms.assetid: a00fe83a-136d-45a3-d3aa-f7ea4d434001

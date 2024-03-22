@@ -3,7 +3,6 @@ title: PivotTable.Tag property (Excel)
 keywords: vbaxl10.chm235127
 f1_keywords:
 - vbaxl10.chm235127
-ms.prod: excel
 api_name:
 - Excel.PivotTable.Tag
 ms.assetid: 7ef25e2e-6c89-3654-4045-2937fcf47121

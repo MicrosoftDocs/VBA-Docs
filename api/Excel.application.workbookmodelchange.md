@@ -3,7 +3,6 @@ title: Application.WorkbookModelChange event (Excel)
 keywords: vbaxl10.chm504118
 f1_keywords:
 - vbaxl10.chm504118
-ms.prod: excel
 ms.assetid: 62a32a29-e052-e812-82a7-58bdabadd80f
 ms.date: 04/05/2019
 ms.localizationpriority: medium

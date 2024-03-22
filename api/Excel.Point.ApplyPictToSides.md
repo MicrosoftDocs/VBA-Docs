@@ -3,7 +3,6 @@ title: Point.ApplyPictToSides property (Excel)
 keywords: vbaxl10.chm576094
 f1_keywords:
 - vbaxl10.chm576094
-ms.prod: excel
 api_name:
 - Excel.Point.ApplyPictToSides
 ms.assetid: 46513ac1-9a83-a6cf-ef09-f5075b2df66f

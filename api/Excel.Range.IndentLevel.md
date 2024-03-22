@@ -3,7 +3,6 @@ title: Range.IndentLevel property (Excel)
 keywords: vbaxl10.chm144147
 f1_keywords:
 - vbaxl10.chm144147
-ms.prod: excel
 api_name:
 - Excel.Range.IndentLevel
 ms.assetid: f4d5af31-904a-27eb-fb2d-e5ae38a7ebb9

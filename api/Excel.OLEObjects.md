@@ -3,7 +3,6 @@ title: OLEObjects object (Excel)
 keywords: vbaxl10.chm418072
 f1_keywords:
 - vbaxl10.chm418072
-ms.prod: excel
 api_name:
 - Excel.OLEObjects
 ms.assetid: e3fcf4bd-7c96-ecb3-dc04-551f7f7348f9

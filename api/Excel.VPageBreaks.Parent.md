@@ -3,7 +3,6 @@ title: VPageBreaks.Parent property (Excel)
 keywords: vbaxl10.chm166075
 f1_keywords:
 - vbaxl10.chm166075
-ms.prod: excel
 api_name:
 - Excel.VPageBreaks.Parent
 ms.assetid: 894fe457-62e7-4561-387c-3ca5bd9f6a8c

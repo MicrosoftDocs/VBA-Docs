@@ -3,7 +3,6 @@ title: ShapeRange.Duplicate method (Excel)
 keywords: vbaxl10.chm640081
 f1_keywords:
 - vbaxl10.chm640081
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Duplicate
 ms.assetid: 60171379-00c6-d6e1-b2a5-543926d0b5d6

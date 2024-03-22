@@ -3,7 +3,6 @@ title: RectangularGradient.RectangleTop property (Excel)
 keywords: vbaxl10.chm857074
 f1_keywords:
 - vbaxl10.chm857074
-ms.prod: excel
 api_name:
 - Excel.RectangularGradient.RectangleTop
 ms.assetid: ecdfba38-50da-7e85-f75a-caa5301b4330

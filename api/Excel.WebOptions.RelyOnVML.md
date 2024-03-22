@@ -3,7 +3,6 @@ title: WebOptions.RelyOnVML property (Excel)
 keywords: vbaxl10.chm662077
 f1_keywords:
 - vbaxl10.chm662077
-ms.prod: excel
 api_name:
 - Excel.WebOptions.RelyOnVML
 ms.assetid: 4c21c4df-64b4-05e0-d4b1-54caa861f5a4

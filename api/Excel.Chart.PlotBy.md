@@ -3,7 +3,6 @@ title: Chart.PlotBy property (Excel)
 keywords: vbaxl10.chm149155
 f1_keywords:
 - vbaxl10.chm149155
-ms.prod: excel
 api_name:
 - Excel.Chart.PlotBy
 ms.assetid: 69ff0fbe-7954-6808-68fa-cc92b2851dd8

@@ -3,7 +3,6 @@ title: Range.Style property (Excel)
 keywords: vbaxl10.chm144204
 f1_keywords:
 - vbaxl10.chm144204
-ms.prod: excel
 api_name:
 - Excel.Range.Style
 ms.assetid: 78c536c9-7fda-3171-2a93-5c4e57bb8207

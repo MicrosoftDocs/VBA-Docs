@@ -3,7 +3,6 @@ title: WorksheetFunction.Sln method (Excel)
 keywords: vbaxl10.chm137133
 f1_keywords:
 - vbaxl10.chm137133
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Sln
 ms.assetid: 33898239-4501-5467-382b-747087f7cde3

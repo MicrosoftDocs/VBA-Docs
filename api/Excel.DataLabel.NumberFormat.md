@@ -3,7 +3,6 @@ title: DataLabel.NumberFormat property (Excel)
 keywords: vbaxl10.chm582093
 f1_keywords:
 - vbaxl10.chm582093
-ms.prod: excel
 api_name:
 - Excel.DataLabel.NumberFormat
 ms.assetid: 1be10810-da25-588c-9c04-ce572069cf42

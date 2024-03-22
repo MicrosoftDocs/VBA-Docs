@@ -3,7 +3,6 @@ title: Charts.Creator property (Excel)
 keywords: vbaxl10.chm216074
 f1_keywords:
 - vbaxl10.chm216074
-ms.prod: excel
 api_name:
 - Excel.Charts.Creator
 ms.assetid: 520db104-5cf3-c130-4590-e92b6b5e0d3e

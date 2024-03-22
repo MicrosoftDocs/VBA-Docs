@@ -3,7 +3,6 @@ title: TextFrame.ReadingOrder property (Excel)
 keywords: vbaxl10.chm644082
 f1_keywords:
 - vbaxl10.chm644082
-ms.prod: excel
 api_name:
 - Excel.TextFrame.ReadingOrder
 ms.assetid: 9c6c6b10-3837-fc47-1021-cfadb31cfcbc

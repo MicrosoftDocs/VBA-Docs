@@ -3,7 +3,6 @@ title: SpellingOptions.ArabicModes property (Excel)
 keywords: vbaxl10.chm717084
 f1_keywords:
 - vbaxl10.chm717084
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.ArabicModes
 ms.assetid: 0b4fb37e-e5f4-318b-27c1-a90adf39938e

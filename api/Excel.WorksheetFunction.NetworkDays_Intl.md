@@ -3,7 +3,6 @@ title: WorksheetFunction.NetworkDays_Intl method (Excel)
 keywords: vbaxl10.chm137391
 f1_keywords:
 - vbaxl10.chm137391
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NetworkDays_Intl
 ms.assetid: 04f1b585-396c-f981-9491-70d1b7948e6e

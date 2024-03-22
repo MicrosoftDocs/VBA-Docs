@@ -3,7 +3,6 @@ title: DataBarBorder.Creator property (Excel)
 keywords: vbaxl10.chm884074
 f1_keywords:
 - vbaxl10.chm884074
-ms.prod: excel
 api_name:
 - Excel.DataBarBorder.Creator
 ms.assetid: 2d240406-f29b-6014-4cc0-06085c9573d8

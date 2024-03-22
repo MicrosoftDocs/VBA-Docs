@@ -3,7 +3,6 @@ title: Application.EnableSound property (Excel)
 keywords: vbaxl10.chm133132
 f1_keywords:
 - vbaxl10.chm133132
-ms.prod: excel
 api_name:
 - Excel.Application.EnableSound
 ms.assetid: 8372b9dd-2929-6b5d-f51b-4409349dd6e6

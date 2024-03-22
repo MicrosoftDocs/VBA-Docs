@@ -3,7 +3,6 @@ title: ListColumn object (Excel)
 keywords: vbaxl10.chm737072
 f1_keywords:
 - vbaxl10.chm737072
-ms.prod: excel
 api_name:
 - Excel.ListColumn
 ms.assetid: c2060e4a-2340-c606-f272-1e4dad6964d0

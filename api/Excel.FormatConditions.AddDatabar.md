@@ -3,7 +3,6 @@ title: FormatConditions.AddDatabar method (Excel)
 keywords: vbaxl10.chm510080
 f1_keywords:
 - vbaxl10.chm510080
-ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddDatabar
 ms.assetid: 4e22e749-860b-4224-b983-ba6dbbc7096a

@@ -3,7 +3,6 @@ title: BarGroups method (Excel Graph)
 keywords: vbagr10.chm65546
 f1_keywords:
 - vbagr10.chm65546
-ms.prod: excel
 api_name:
 - Excel.BarGroups
 ms.assetid: a00e484e-05ec-2eaa-cc33-05b77a4af0b5

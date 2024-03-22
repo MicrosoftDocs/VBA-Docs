@@ -3,7 +3,6 @@ title: SpellingOptions.SpanishModes property (Excel)
 keywords: vbaxl10.chm717089
 f1_keywords:
 - vbaxl10.chm717089
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.SpanishModes
 ms.assetid: 07782cb9-2f36-00d7-0a66-f1549cf45fdd

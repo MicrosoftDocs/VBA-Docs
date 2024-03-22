@@ -3,7 +3,6 @@ title: Workbook.HighlightChangesOptions method (Excel)
 keywords: vbaxl10.chm199172
 f1_keywords:
 - vbaxl10.chm199172
-ms.prod: excel
 api_name:
 - Excel.Workbook.HighlightChangesOptions
 ms.assetid: ac69ee3e-c5ea-5ac0-418a-0b94d56a8777

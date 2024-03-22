@@ -3,7 +3,6 @@ title: PivotField.HiddenItemsList property (Excel)
 keywords: vbaxl10.chm240129
 f1_keywords:
 - vbaxl10.chm240129
-ms.prod: excel
 api_name:
 - Excel.PivotField.HiddenItemsList
 ms.assetid: 279eeb80-75cd-c758-98b5-668754417482

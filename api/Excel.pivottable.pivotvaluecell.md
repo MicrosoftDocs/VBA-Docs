@@ -3,7 +3,6 @@ title: PivotTable.PivotValueCell method (Excel)
 keywords: vbaxl10.chm235203
 f1_keywords:
 - vbaxl10.chm235203
-ms.prod: excel
 ms.assetid: 9edb96f1-f728-de21-bcc2-e8f0e9110b74
 ms.date: 05/09/2019
 ms.localizationpriority: medium

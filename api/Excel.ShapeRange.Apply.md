@@ -3,7 +3,6 @@ title: ShapeRange.Apply method (Excel)
 keywords: vbaxl10.chm640078
 f1_keywords:
 - vbaxl10.chm640078
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Apply
 ms.assetid: 34acef44-7075-ffc1-199c-3396e17caafe

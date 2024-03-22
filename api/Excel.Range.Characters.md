@@ -3,7 +3,6 @@ title: Range.Characters property (Excel)
 keywords: vbaxl10.chm144092
 f1_keywords:
 - vbaxl10.chm144092
-ms.prod: excel
 api_name:
 - Excel.Range.Characters
 ms.assetid: 5011b6d3-23ab-e2a8-9616-c4c73d3ae60e

@@ -3,7 +3,6 @@ title: CubeField.Position property (Excel)
 keywords: vbaxl10.chm668078
 f1_keywords:
 - vbaxl10.chm668078
-ms.prod: excel
 api_name:
 - Excel.CubeField.Position
 ms.assetid: ff8a045d-2ac0-adea-5a71-189e42c6b609

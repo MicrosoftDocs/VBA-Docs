@@ -3,7 +3,6 @@ title: CommentThreaded.Date property (Excel)
 keywords: vbaxl10.chm1010078
 f1_keywords:
 - vbaxl10.chm1010078
-ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Parent
 ms.date: 06/27/2019

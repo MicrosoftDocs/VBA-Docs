@@ -3,7 +3,6 @@ title: WorksheetFunction.Disc method (Excel)
 keywords: vbaxl10.chm137312
 f1_keywords:
 - vbaxl10.chm137312
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Disc
 ms.assetid: cd7959e7-9cb5-ff5b-b212-10e0dfd84dbe

@@ -3,7 +3,6 @@ title: Chart.Copy method (Excel)
 keywords: vbaxl10.chm148074
 f1_keywords:
 - vbaxl10.chm148074
-ms.prod: excel
 api_name:
 - Excel.Chart.Copy
 ms.assetid: c7294fd6-286a-774d-9dd8-4db33a59b10f

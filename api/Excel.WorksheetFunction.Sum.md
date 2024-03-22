@@ -3,7 +3,6 @@ title: WorksheetFunction.Sum method (Excel)
 keywords: vbaxl10.chm137077
 f1_keywords:
 - vbaxl10.chm137077
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Sum
 ms.assetid: bbaf28fa-ca79-4b2d-4ace-153ca931a8c4

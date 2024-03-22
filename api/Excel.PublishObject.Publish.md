@@ -3,7 +3,6 @@ title: PublishObject.Publish method (Excel)
 keywords: vbaxl10.chm652074
 f1_keywords:
 - vbaxl10.chm652074
-ms.prod: excel
 api_name:
 - Excel.PublishObject.Publish
 ms.assetid: 3bb70102-c440-8e49-1734-d72945324d5c

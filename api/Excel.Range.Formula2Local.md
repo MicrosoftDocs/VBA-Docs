@@ -3,7 +3,6 @@ title: Range.Formula2Local property (Excel)
 keywords: ???
 f1_keywords:
 - ???
-ms.prod: excel
 api_name:
 - Excel.Range.Formula2Local
 ms.assetid: ???

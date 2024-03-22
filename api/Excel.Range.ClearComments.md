@@ -3,7 +3,6 @@ title: Range.ClearComments method (Excel)
 keywords: vbaxl10.chm144224
 f1_keywords:
 - vbaxl10.chm144224
-ms.prod: excel
 api_name:
 - Excel.Range.ClearComments
 ms.assetid: 736fd51f-a7cd-02cf-eb45-47e3f3132800

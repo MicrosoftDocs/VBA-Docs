@@ -3,7 +3,6 @@ title: Trendlines.Creator property (Excel)
 keywords: vbaxl10.chm591074
 f1_keywords:
 - vbaxl10.chm591074
-ms.prod: excel
 api_name:
 - Excel.Trendlines.Creator
 ms.assetid: 5163fb1c-4f90-52f7-fd3b-48a509abf10a

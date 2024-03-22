@@ -3,7 +3,6 @@ title: Axis.TickLabelPosition property (Excel)
 keywords: vbaxl10.chm561099
 f1_keywords:
 - vbaxl10.chm561099
-ms.prod: excel
 api_name:
 - Excel.Axis.TickLabelPosition
 ms.assetid: 50e27107-6dc5-9097-74f7-331642fb52ac

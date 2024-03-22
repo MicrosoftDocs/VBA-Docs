@@ -1,6 +1,5 @@
 ---
 title: XlSearchDirection enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSearchDirection
 ms.assetid: fc53fda7-d01c-c407-ccdb-d12004a4dcee

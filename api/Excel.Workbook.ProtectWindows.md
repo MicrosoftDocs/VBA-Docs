@@ -3,7 +3,6 @@ title: Workbook.ProtectWindows property (Excel)
 keywords: vbaxl10.chm199132
 f1_keywords:
 - vbaxl10.chm199132
-ms.prod: excel
 api_name:
 - Excel.Workbook.ProtectWindows
 ms.assetid: 0f285fbe-2545-5c7d-9e3d-f08d57e78092

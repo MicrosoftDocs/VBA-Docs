@@ -3,7 +3,6 @@ title: LeaderLines object (Excel Graph)
 keywords: vbagr10.chm5207590
 f1_keywords:
 - vbagr10.chm5207590
-ms.prod: excel
 api_name:
 - Excel.LeaderLines
 ms.assetid: 9704f195-dbbc-6979-c57d-8ced3557cdde

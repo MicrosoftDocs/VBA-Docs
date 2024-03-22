@@ -3,7 +3,6 @@ title: ChartObject.PrintObject property (Excel)
 keywords: vbaxl10.chm494089
 f1_keywords:
 - vbaxl10.chm494089
-ms.prod: excel
 api_name:
 - Excel.ChartObject.PrintObject
 ms.assetid: 504f4a82-6129-cb38-ea2f-f9b29e14d036

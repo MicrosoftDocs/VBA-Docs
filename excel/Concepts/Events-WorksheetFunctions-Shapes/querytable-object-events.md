@@ -3,7 +3,6 @@ title: QueryTable object events
 keywords: vbaxl10.chm5255038
 f1_keywords:
 - vbaxl10.chm5255038
-ms.prod: excel
 ms.assetid: 70a68226-6040-f762-119c-37db4b3e34d6
 ms.date: 11/13/2018
 ms.localizationpriority: medium

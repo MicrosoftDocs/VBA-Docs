@@ -3,7 +3,6 @@ title: PivotTable.InnerDetail property (Excel)
 keywords: vbaxl10.chm235084
 f1_keywords:
 - vbaxl10.chm235084
-ms.prod: excel
 api_name:
 - Excel.PivotTable.InnerDetail
 ms.assetid: 385449ab-fbe2-8b69-374e-a5d374a3f76f

@@ -3,7 +3,6 @@ title: ListObject.Comment property (Excel)
 keywords: vbaxl10.chm734106
 f1_keywords:
 - vbaxl10.chm734106
-ms.prod: excel
 api_name:
 - Excel.ListObject.Comment
 ms.assetid: 675b47c5-37da-c3c5-b473-d7df14463c09

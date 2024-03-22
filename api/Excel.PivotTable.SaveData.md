@@ -3,7 +3,6 @@ title: PivotTable.SaveData property (Excel)
 keywords: vbaxl10.chm235096
 f1_keywords:
 - vbaxl10.chm235096
-ms.prod: excel
 api_name:
 - Excel.PivotTable.SaveData
 ms.assetid: f8f788cf-b8a2-4694-1a52-f48e00e6471c

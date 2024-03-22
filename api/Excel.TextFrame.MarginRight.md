@@ -3,7 +3,6 @@ title: TextFrame.MarginRight property (Excel)
 keywords: vbaxl10.chm644075
 f1_keywords:
 - vbaxl10.chm644075
-ms.prod: excel
 api_name:
 - Excel.TextFrame.MarginRight
 ms.assetid: 27a62328-c4bd-f456-8a63-68e41f307b5a

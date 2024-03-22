@@ -3,7 +3,6 @@ title: Range.PrintPreview method (Excel)
 keywords: vbaxl10.chm144182
 f1_keywords:
 - vbaxl10.chm144182
-ms.prod: excel
 api_name:
 - Excel.Range.PrintPreview
 ms.assetid: b429a45c-864f-1c48-0775-1cf240f6e7ac

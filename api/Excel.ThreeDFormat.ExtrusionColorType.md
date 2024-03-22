@@ -3,7 +3,6 @@ title: ThreeDFormat.ExtrusionColorType property (Excel)
 keywords: vbaxl10.chm119007
 f1_keywords:
 - vbaxl10.chm119007
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ExtrusionColorType
 ms.assetid: cb463711-c8a3-5ac4-c81c-83d7b2d6b824

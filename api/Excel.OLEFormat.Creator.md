@@ -3,7 +3,6 @@ title: OLEFormat.Creator property (Excel)
 keywords: vbaxl10.chm631074
 f1_keywords:
 - vbaxl10.chm631074
-ms.prod: excel
 api_name:
 - Excel.OLEFormat.Creator
 ms.assetid: f7a0e432-0eda-0f6b-93da-1dcc1d9fc267

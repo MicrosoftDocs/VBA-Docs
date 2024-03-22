@@ -3,7 +3,6 @@ title: XmlSchema.XML property (Excel)
 keywords: vbaxl10.chm750074
 f1_keywords:
 - vbaxl10.chm750074
-ms.prod: excel
 api_name:
 - Excel.XmlSchema.XML
 ms.assetid: 1291eecc-71a8-bcfd-44d2-5f4d92dc8b77

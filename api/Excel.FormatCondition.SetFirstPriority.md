@@ -3,7 +3,6 @@ title: FormatCondition.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm512091
 f1_keywords:
 - vbaxl10.chm512091
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.SetFirstPriority
 ms.assetid: 53870387-996e-48e3-5159-7d5bb4614bcf

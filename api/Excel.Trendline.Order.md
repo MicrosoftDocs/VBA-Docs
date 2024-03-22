@@ -3,7 +3,6 @@ title: Trendline.Order property (Excel)
 keywords: vbaxl10.chm594087
 f1_keywords:
 - vbaxl10.chm594087
-ms.prod: excel
 api_name:
 - Excel.Trendline.Order
 ms.assetid: 7c7db73c-2351-fb1d-a24f-854d99ed7756

@@ -3,7 +3,6 @@ title: PlotArea.ClearFormats method (Excel)
 keywords: vbaxl10.chm618077
 f1_keywords:
 - vbaxl10.chm618077
-ms.prod: excel
 api_name:
 - Excel.PlotArea.ClearFormats
 ms.assetid: f56616c8-aefe-3973-05fc-b410d5521c36

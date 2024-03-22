@@ -3,7 +3,6 @@ title: OLEObject.GotFocus event (Excel)
 keywords: vbaxl10.chm501073
 f1_keywords:
 - vbaxl10.chm501073
-ms.prod: excel
 api_name:
 - Excel.OLEObject.GotFocus
 ms.assetid: 2bd9a3d8-9305-2354-5ddd-262f4720b444

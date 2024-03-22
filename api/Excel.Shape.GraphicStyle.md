@@ -3,7 +3,6 @@ title: Shape.GraphicStyle property (Excel)
 keywords: vbaxl10.chm636157
 f1_keywords:
 - vbaxl10.chm636157
-ms.prod: excel
 api_name:
 - Excel.Shape.GraphicStyle
 ms.date: 05/14/2019

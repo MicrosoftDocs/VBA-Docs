@@ -1,6 +1,5 @@
 ---
 title: Excel.XlGeoMappingLevel enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlGeoMappingLevel
 ms.date: 10/29/2019

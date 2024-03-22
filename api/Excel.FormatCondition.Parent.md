@@ -3,7 +3,6 @@ title: FormatCondition.Parent property (Excel)
 keywords: vbaxl10.chm511075
 f1_keywords:
 - vbaxl10.chm511075
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.Parent
 ms.assetid: 06618d2d-3ba9-9701-96f5-1927b8c7b5b1

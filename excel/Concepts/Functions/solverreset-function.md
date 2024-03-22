@@ -3,7 +3,6 @@ title: SolverReset Function
 keywords: vbaxl10.chm5205232
 f1_keywords:
 - vbaxl10.chm5205232
-ms.prod: excel
 ms.assetid: 5c8f99e7-9451-3e72-1d93-4fcd72fc3e71
 ms.date: 06/08/2017
 ms.localizationpriority: medium

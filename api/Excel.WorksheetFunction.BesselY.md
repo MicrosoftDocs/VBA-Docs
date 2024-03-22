@@ -3,7 +3,6 @@ title: WorksheetFunction.BesselY method (Excel)
 keywords: vbaxl10.chm137304
 f1_keywords:
 - vbaxl10.chm137304
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BesselY
 ms.assetid: ed8e06b9-982f-b012-b6bc-ba01a6dc2fec

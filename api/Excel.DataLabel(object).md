@@ -3,7 +3,6 @@ title: DataLabel object (Excel)
 keywords: vbaxl10.chm581072
 f1_keywords:
 - vbaxl10.chm581072
-ms.prod: excel
 api_name:
 - Excel.DataLabel
 ms.assetid: bb342572-8761-b326-548a-98455172f9a8

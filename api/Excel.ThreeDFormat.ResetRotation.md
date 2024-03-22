@@ -3,7 +3,6 @@ title: ThreeDFormat.ResetRotation method (Excel)
 keywords: vbaxl10.chm119002
 f1_keywords:
 - vbaxl10.chm119002
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ResetRotation
 ms.assetid: 55173d20-2d13-d3a8-39db-6b1a161c6ea6

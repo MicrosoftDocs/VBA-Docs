@@ -3,7 +3,6 @@ title: Validation.AlertStyle property (Excel)
 keywords: vbaxl10.chm532074
 f1_keywords:
 - vbaxl10.chm532074
-ms.prod: excel
 api_name:
 - Excel.Validation.AlertStyle
 ms.assetid: de844f58-be45-c4a6-af49-67f669abb626

@@ -3,7 +3,6 @@ title: DisplayFormat.FormulaHidden property (Excel)
 keywords: vbaxl10.chm893078
 f1_keywords:
 - vbaxl10.chm893078
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.FormulaHidden
 ms.assetid: 3db0fd6b-da1b-f19a-e859-a949b5f4d2b3

@@ -3,7 +3,6 @@ title: LegendEntry.Delete method (Excel)
 keywords: vbaxl10.chm586074
 f1_keywords:
 - vbaxl10.chm586074
-ms.prod: excel
 api_name:
 - Excel.LegendEntry.Delete
 ms.assetid: 1967ac14-e375-9308-bd53-fbfd1e71ac69

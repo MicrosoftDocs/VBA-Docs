@@ -3,7 +3,6 @@ title: Application.EnableAutoComplete property (Excel)
 keywords: vbaxl10.chm133130
 f1_keywords:
 - vbaxl10.chm133130
-ms.prod: excel
 api_name:
 - Excel.Application.EnableAutoComplete
 ms.assetid: eb5ccf8e-3e2d-2438-4dcf-d113cfdc3971

@@ -3,7 +3,6 @@ title: SparklineGroup.Count property (Excel)
 keywords: vbaxl10.chm871073
 f1_keywords:
 - vbaxl10.chm871073
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Count
 ms.assetid: aa4de7e0-20e9-2602-dcf3-c14ae1c63cec

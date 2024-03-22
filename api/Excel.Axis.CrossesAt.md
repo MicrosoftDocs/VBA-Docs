@@ -3,7 +3,6 @@ title: Axis.CrossesAt property (Excel)
 keywords: vbaxl10.chm561079
 f1_keywords:
 - vbaxl10.chm561079
-ms.prod: excel
 api_name:
 - Excel.Axis.CrossesAt
 ms.assetid: 1cacde6c-567a-d877-9bf1-cec6292e3544

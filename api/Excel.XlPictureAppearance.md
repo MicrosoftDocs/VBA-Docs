@@ -1,6 +1,5 @@
 ---
 title: XlPictureAppearance enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPictureAppearance
 ms.assetid: 5fd97feb-a976-2c1c-4051-f2c99d0fa793

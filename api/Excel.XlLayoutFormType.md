@@ -1,6 +1,5 @@
 ---
 title: XlLayoutFormType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlLayoutFormType
 ms.assetid: 20f810db-2b16-d61f-1971-9ac39e521690

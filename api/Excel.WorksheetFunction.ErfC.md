@@ -3,7 +3,6 @@ title: WorksheetFunction.ErfC method (Excel)
 keywords: vbaxl10.chm137301
 f1_keywords:
 - vbaxl10.chm137301
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ErfC
 ms.assetid: 7579d8fb-7cad-bb5a-7fb9-0895ef096858

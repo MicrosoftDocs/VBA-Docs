@@ -2,7 +2,6 @@
 title: Range.Formula2 property (Excel)
 keywords: 
 f1_keywords:
-ms.prod: excel
 api_name:
 - Excel.Range.Formula2
 ms.assetid: 

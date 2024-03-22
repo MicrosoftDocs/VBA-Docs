@@ -3,7 +3,6 @@ title: Window.Application property (Excel)
 keywords: vbaxl10.chm355073
 f1_keywords:
 - vbaxl10.chm355073
-ms.prod: excel
 api_name:
 - Excel.Window.Application
 ms.assetid: 42761d92-76de-f4c2-edcf-cef514ab0ee4

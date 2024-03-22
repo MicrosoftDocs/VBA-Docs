@@ -3,7 +3,6 @@ title: ListObject.HeaderRowRange property (Excel)
 keywords: vbaxl10.chm734084
 f1_keywords:
 - vbaxl10.chm734084
-ms.prod: excel
 api_name:
 - Excel.ListObject.HeaderRowRange
 ms.assetid: af7ca1d5-f72f-f369-9946-c64eb0cf9da0

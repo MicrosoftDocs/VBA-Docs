@@ -3,7 +3,6 @@ title: ModelConnection.ADOConnection property (Excel)
 keywords: vbaxl10.chm922075
 f1_keywords:
 - vbaxl10.chm922075
-ms.prod: excel
 ms.assetid: 36922296-6971-c42c-7d00-8d43ac1f328b
 ms.date: 05/01/2019
 ms.localizationpriority: medium

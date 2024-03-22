@@ -3,7 +3,6 @@ title: Shape.Fill property (Excel)
 keywords: vbaxl10.chm636096
 f1_keywords:
 - vbaxl10.chm636096
-ms.prod: excel
 api_name:
 - Excel.Shape.Fill
 ms.assetid: b533b463-51c5-f59e-c3ba-cfe7512daa53

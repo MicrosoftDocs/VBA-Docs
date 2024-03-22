@@ -3,7 +3,6 @@ title: Application.RegisterXLL method (Excel)
 keywords: vbaxl10.chm133199
 f1_keywords:
 - vbaxl10.chm133199
-ms.prod: excel
 api_name:
 - Excel.Application.RegisterXLL
 ms.assetid: b0d97511-bb81-7c6a-7bbb-3f87c4364e95

@@ -3,7 +3,6 @@ title: Range.Cells property (Excel)
 keywords: vbaxl10.chm144091
 f1_keywords:
 - vbaxl10.chm144091
-ms.prod: excel
 api_name:
 - Excel.Range.Cells
 ms.assetid: 32a6ecc7-2366-2cec-1feb-0966241a435d

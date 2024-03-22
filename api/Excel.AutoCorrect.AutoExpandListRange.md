@@ -3,7 +3,6 @@ title: AutoCorrect.AutoExpandListRange property (Excel)
 keywords: vbaxl10.chm545082
 f1_keywords:
 - vbaxl10.chm545082
-ms.prod: excel
 api_name:
 - Excel.AutoCorrect.AutoExpandListRange
 ms.assetid: c91d1e8f-aea2-5db0-a79c-b43eff1e31e4

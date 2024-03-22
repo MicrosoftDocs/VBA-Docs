@@ -3,7 +3,6 @@ title: Application.SheetPivotTableAfterValueChange event (Excel)
 keywords: vbaxl10.chm504104
 f1_keywords:
 - vbaxl10.chm504104
-ms.prod: excel
 api_name:
 - Excel.Application.SheetPivotTableAfterValueChange
 ms.assetid: 07cab356-1a13-a839-7344-a4de99dba55e

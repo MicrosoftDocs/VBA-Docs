@@ -3,7 +3,6 @@ title: OLEObjects.Item method (Excel)
 keywords: vbaxl10.chm422090
 f1_keywords:
 - vbaxl10.chm422090
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Item
 ms.assetid: 781b29f3-dcac-2679-72c2-a8d5d6280661

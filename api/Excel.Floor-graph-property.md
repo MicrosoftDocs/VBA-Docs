@@ -3,7 +3,6 @@ title: Floor property (Excel Graph)
 keywords: vbagr10.chm65619
 f1_keywords:
 - vbagr10.chm65619
-ms.prod: excel
 api_name:
 - Excel.Floor
 ms.assetid: 1c82553e-7285-c759-416d-4537efd1c9ec

@@ -3,7 +3,6 @@ title: SeriesCollection method (Excel Graph)
 keywords: vbagr10.chm65604
 f1_keywords:
 - vbagr10.chm65604
-ms.prod: excel
 api_name:
 - Excel.SeriesCollection
 ms.assetid: 9de760ab-0a6d-7cab-e378-b7f341f5b87d

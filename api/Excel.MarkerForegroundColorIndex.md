@@ -3,7 +3,6 @@ title: MarkerForegroundColorIndex property (Excel Graph)
 keywords: vbagr10.chm65612
 f1_keywords:
 - vbagr10.chm65612
-ms.prod: excel
 api_name:
 - Excel.MarkerForegroundColorIndex
 ms.assetid: 82f8a746-821d-1349-be7a-89211387a97e

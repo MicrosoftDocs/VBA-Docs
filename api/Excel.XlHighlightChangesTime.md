@@ -1,6 +1,5 @@
 ---
 title: XlHighlightChangesTime enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlHighlightChangesTime
 ms.assetid: 89c317df-f24c-51ae-b07d-3c4367daf640

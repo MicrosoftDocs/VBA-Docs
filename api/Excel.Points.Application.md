@@ -3,7 +3,6 @@ title: Points.Application property (Excel)
 keywords: vbaxl10.chm573073
 f1_keywords:
 - vbaxl10.chm573073
-ms.prod: excel
 api_name:
 - Excel.Points.Application
 ms.assetid: fff99658-0c49-59a4-30c5-b3b351289248

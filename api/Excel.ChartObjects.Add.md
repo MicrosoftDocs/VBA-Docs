@@ -3,7 +3,6 @@ title: ChartObjects.Add method (Excel)
 keywords: vbaxl10.chm497103
 f1_keywords:
 - vbaxl10.chm497103
-ms.prod: excel
 api_name:
 - Excel.ChartObjects.Add
 ms.assetid: 46f28b34-83a5-b3d9-c19b-a1dc8e05dff7

@@ -3,7 +3,6 @@ title: WorkbookConnection.RefreshWithRefreshAll property (Excel)
 keywords: vbaxl10.chm774084
 f1_keywords:
 - vbaxl10.chm774084
-ms.prod: excel
 ms.assetid: d49fef1b-6b34-270d-65c2-28a3b2b02211
 ms.date: 05/18/2019
 ms.localizationpriority: medium

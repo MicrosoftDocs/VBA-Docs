@@ -3,7 +3,6 @@ title: Workbook.Reply method (Excel)
 keywords: vbaxl10.chm199136
 f1_keywords:
 - vbaxl10.chm199136
-ms.prod: excel
 api_name:
 - Excel.Workbook.Reply
 ms.assetid: 557bb3a4-c817-e942-10cf-ba252b0db498

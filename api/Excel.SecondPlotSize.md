@@ -3,7 +3,6 @@ title: SecondPlotSize property (Excel Graph)
 keywords: vbagr10.chm5207961
 f1_keywords:
 - vbagr10.chm5207961
-ms.prod: excel
 api_name:
 - Excel.SecondPlotSize
 ms.assetid: 43d450e1-0ef0-fd51-fbf1-b07742217fc9

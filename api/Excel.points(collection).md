@@ -3,7 +3,6 @@ title: Points collection (Excel Graph)
 keywords: vbagr10.chm5207812
 f1_keywords:
 - vbagr10.chm5207812
-ms.prod: excel
 ms.assetid: b41c8f08-880e-1f4a-0456-3f77c0741bc6
 ms.date: 04/06/2019
 ms.localizationpriority: medium

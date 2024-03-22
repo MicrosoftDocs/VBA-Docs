@@ -3,7 +3,6 @@ title: MinimumScaleIsAuto property (Excel Graph)
 keywords: vbagr10.chm5207691
 f1_keywords:
 - vbagr10.chm5207691
-ms.prod: excel
 api_name:
 - Excel.MinimumScaleIsAuto
 ms.assetid: 95ed7a2b-efda-b05a-da2e-789a166a97c8

@@ -3,7 +3,6 @@ title: Slicers.Creator property (Excel)
 keywords: vbaxl10.chm902074
 f1_keywords:
 - vbaxl10.chm902074
-ms.prod: excel
 api_name:
 - Excel.Slicers.Creator
 ms.assetid: c02ffedb-014b-1fd2-544c-5cd6dc83912a

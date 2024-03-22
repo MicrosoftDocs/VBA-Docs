@@ -3,7 +3,6 @@ title: XmlSchemas object (Excel)
 keywords: vbaxl10.chm751072
 f1_keywords:
 - vbaxl10.chm751072
-ms.prod: excel
 api_name:
 - Excel.XmlSchemas
 ms.assetid: 1e6a4371-7163-572d-b435-7dc9a2865338

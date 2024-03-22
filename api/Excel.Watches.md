@@ -3,7 +3,6 @@ title: Watches object (Excel)
 keywords: vbaxl10.chm687072
 f1_keywords:
 - vbaxl10.chm687072
-ms.prod: excel
 api_name:
 - Excel.Watches
 ms.assetid: de403bcc-b927-90f6-75d7-9c936c7f58f7

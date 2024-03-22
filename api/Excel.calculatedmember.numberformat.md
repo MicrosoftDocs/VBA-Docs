@@ -3,7 +3,6 @@ title: CalculatedMember.NumberFormat property (Excel)
 keywords: vbaxl10.chm686088
 f1_keywords:
 - vbaxl10.chm686088
-ms.prod: excel
 ms.assetid: 26d99f37-07bb-f378-7e6d-330b5a8092c9
 ms.date: 04/13/2019
 ms.localizationpriority: medium

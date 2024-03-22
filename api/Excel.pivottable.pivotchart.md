@@ -3,7 +3,6 @@ title: PivotTable.PivotChart property (Excel)
 keywords: vbaxl10.chm235205
 f1_keywords:
 - vbaxl10.chm235205
-ms.prod: excel
 ms.assetid: 1cc9d9ba-1867-614e-a2be-fea31eb71b1f
 ms.date: 05/09/2019
 ms.localizationpriority: medium

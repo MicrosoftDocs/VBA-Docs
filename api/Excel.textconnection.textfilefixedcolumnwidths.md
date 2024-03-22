@@ -3,7 +3,6 @@ title: TextConnection.TextFileFixedColumnWidths property (Excel)
 keywords: vbaxl10.chm926079
 f1_keywords:
 - vbaxl10.chm926079
-ms.prod: excel
 ms.assetid: 2c9e7a66-722b-3863-f297-ada8548fe857
 ms.date: 05/17/2019
 ms.localizationpriority: medium

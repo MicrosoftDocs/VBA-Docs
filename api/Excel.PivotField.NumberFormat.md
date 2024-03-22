@@ -3,7 +3,6 @@ title: PivotField.NumberFormat property (Excel)
 keywords: vbaxl10.chm240086
 f1_keywords:
 - vbaxl10.chm240086
-ms.prod: excel
 api_name:
 - Excel.PivotField.NumberFormat
 ms.assetid: 22c58eaa-ad1c-ea73-f3da-2922da5327de

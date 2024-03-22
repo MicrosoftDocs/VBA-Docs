@@ -3,7 +3,6 @@ title: XmlMap.ImportXml method (Excel)
 keywords: vbaxl10.chm754088
 f1_keywords:
 - vbaxl10.chm754088
-ms.prod: excel
 api_name:
 - Excel.XmlMap.ImportXml
 ms.assetid: 07db07d3-cd0f-08fe-3463-04ca72d084d1

@@ -3,7 +3,6 @@ title: Delete method (Excel Graph)
 keywords: vbagr10.chm3077617
 f1_keywords:
 - vbagr10.chm3077617
-ms.prod: excel
 ms.assetid: f5bc861f-67e4-05e9-765f-d9ed34e0e936
 ms.date: 04/09/2019
 ms.localizationpriority: medium

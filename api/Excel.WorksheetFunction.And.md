@@ -3,7 +3,6 @@ title: WorksheetFunction.And method (Excel)
 keywords: vbaxl10.chm137092
 f1_keywords:
 - vbaxl10.chm137092
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.And
 ms.assetid: 562be888-b001-5855-dfab-02cd066b1f12

@@ -3,7 +3,6 @@ title: ThreeDFormat.Perspective property (Excel)
 keywords: vbaxl10.chm119008
 f1_keywords:
 - vbaxl10.chm119008
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Perspective
 ms.assetid: 9f31508e-c723-e55a-07a9-cef1bc526136

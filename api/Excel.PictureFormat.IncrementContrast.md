@@ -3,7 +3,6 @@ title: PictureFormat.IncrementContrast method (Excel)
 keywords: vbaxl10.chm113021
 f1_keywords:
 - vbaxl10.chm113021
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.IncrementContrast
 ms.assetid: 6bb72eed-c291-fac2-f4ca-4ca847bd8458

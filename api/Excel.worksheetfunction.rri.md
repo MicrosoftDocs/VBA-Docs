@@ -3,7 +3,6 @@ title: WorksheetFunction.Rri method (Excel)
 keywords: vbaxl10.chm137452
 f1_keywords:
 - vbaxl10.chm137452
-ms.prod: excel
 ms.assetid: 522c93cf-f68f-6e6f-7e87-59a92016d219
 ms.date: 05/25/2019
 ms.localizationpriority: medium

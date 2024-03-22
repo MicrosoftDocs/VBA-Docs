@@ -3,7 +3,6 @@ title: Caption property (Excel Graph)
 keywords: vbagr10.chm3076968
 f1_keywords:
 - vbagr10.chm3076968
-ms.prod: excel
 ms.assetid: 37d9afab-873c-c026-fb76-33987aa103b8
 ms.date: 04/10/2019
 ms.localizationpriority: medium

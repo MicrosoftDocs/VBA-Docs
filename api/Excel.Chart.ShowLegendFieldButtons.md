@@ -3,7 +3,6 @@ title: Chart.ShowLegendFieldButtons property (Excel)
 keywords: vbaxl10.chm149190
 f1_keywords:
 - vbaxl10.chm149190
-ms.prod: excel
 api_name:
 - Excel.Chart.ShowLegendFieldButtons
 ms.assetid: 44f1554c-145b-8600-07c4-40b6891dab2d

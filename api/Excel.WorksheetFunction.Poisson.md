@@ -3,7 +3,6 @@ title: WorksheetFunction.Poisson method (Excel)
 keywords: vbaxl10.chm137204
 f1_keywords:
 - vbaxl10.chm137204
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Poisson
 ms.assetid: a0c811b7-30e3-b50f-fb81-7553bb322ec1

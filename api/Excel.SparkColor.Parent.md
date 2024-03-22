@@ -3,7 +3,6 @@ title: SparkColor.Parent property (Excel)
 keywords: vbaxl10.chm882075
 f1_keywords:
 - vbaxl10.chm882075
-ms.prod: excel
 api_name:
 - Excel.SparkColor.Parent
 ms.assetid: d19a836e-3d73-b8ea-6c5f-0d7f085ce614

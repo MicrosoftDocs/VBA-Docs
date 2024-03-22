@@ -3,7 +3,6 @@ title: Using events with the Application object
 keywords: vbaxl10.chm5205784
 f1_keywords:
 - vbaxl10.chm5205784
-ms.prod: excel
 ms.assetid: 0063feba-47fd-29be-d2d5-8fcf47e70cbc
 ms.date: 11/13/2018
 ms.localizationpriority: medium

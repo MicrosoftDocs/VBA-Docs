@@ -3,7 +3,6 @@ title: CellFormat.Interior property (Excel)
 keywords: vbaxl10.chm676075
 f1_keywords:
 - vbaxl10.chm676075
-ms.prod: excel
 api_name:
 - Excel.CellFormat.Interior
 ms.assetid: aa11d693-0713-1f0c-0ef0-87bb81f705bd

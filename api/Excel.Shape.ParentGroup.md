@@ -3,7 +3,6 @@ title: Shape.ParentGroup property (Excel)
 keywords: vbaxl10.chm636139
 f1_keywords:
 - vbaxl10.chm636139
-ms.prod: excel
 api_name:
 - Excel.Shape.ParentGroup
 ms.assetid: 6c43979d-fe16-4093-9eb2-78863230e6d2

@@ -3,7 +3,6 @@ title: AreaGroups method (Excel Graph)
 keywords: vbagr10.chm3077607
 f1_keywords:
 - vbagr10.chm3077607
-ms.prod: excel
 api_name:
 - Excel.AreaGroups
 ms.assetid: ec2a4a28-2f10-4f4f-bd91-642bf1b8ebe2

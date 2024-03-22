@@ -3,7 +3,6 @@ title: WorksheetFunction.AverageIf method (Excel)
 keywords: vbaxl10.chm137355
 f1_keywords:
 - vbaxl10.chm137355
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AverageIf
 ms.assetid: 5409428c-ee42-8a36-42f2-f6d4ca8030d9

@@ -3,7 +3,6 @@ title: Chart.DepthPercent property (Excel)
 keywords: vbaxl10.chm149099
 f1_keywords:
 - vbaxl10.chm149099
-ms.prod: excel
 api_name:
 - Excel.Chart.DepthPercent
 ms.assetid: 3b53544f-8800-c1c9-6615-c601d213daee

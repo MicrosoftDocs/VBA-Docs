@@ -3,7 +3,6 @@ title: Range.Dirty method (Excel)
 keywords: vbaxl10.chm144234
 f1_keywords:
 - vbaxl10.chm144234
-ms.prod: excel
 api_name:
 - Excel.Range.Dirty
 ms.assetid: c3f177ef-19b9-07e7-a42f-978874528207

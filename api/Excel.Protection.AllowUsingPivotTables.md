@@ -3,7 +3,6 @@ title: Protection.AllowUsingPivotTables property (Excel)
 keywords: vbaxl10.chm719083
 f1_keywords:
 - vbaxl10.chm719083
-ms.prod: excel
 api_name:
 - Excel.Protection.AllowUsingPivotTables
 ms.assetid: 42968839-1d82-3c0e-172b-1389c772f9a1

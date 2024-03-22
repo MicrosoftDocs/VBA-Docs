@@ -3,7 +3,6 @@ title: FillFormat.GradientColorType property (Excel)
 keywords: vbaxl10.chm115013
 f1_keywords:
 - vbaxl10.chm115013
-ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientColorType
 ms.assetid: f8652224-753c-5491-a190-5f50d3736be1

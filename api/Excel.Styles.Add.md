@@ -3,7 +3,6 @@ title: Styles.Add method (Excel)
 keywords: vbaxl10.chm179073
 f1_keywords:
 - vbaxl10.chm179073
-ms.prod: excel
 api_name:
 - Excel.Styles.Add
 ms.assetid: 623ed34e-d79d-2f16-475a-0c58aef04aa4

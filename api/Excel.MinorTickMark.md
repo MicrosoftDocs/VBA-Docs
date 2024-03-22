@@ -3,7 +3,6 @@ title: MinorTickMark property (Excel Graph)
 keywords: vbagr10.chm65563
 f1_keywords:
 - vbagr10.chm65563
-ms.prod: excel
 api_name:
 - Excel.MinorTickMark
 ms.assetid: cbb515d8-fdae-2546-f13b-80ed75cc4192

@@ -3,7 +3,6 @@ title: Mailer.Enclosures property (Excel)
 keywords: vbaxl10.chm499075
 f1_keywords:
 - vbaxl10.chm499075
-ms.prod: excel
 api_name:
 - Excel.Mailer.Enclosures
 ms.assetid: 04f93d28-737a-eadf-7ed6-c5517a020805

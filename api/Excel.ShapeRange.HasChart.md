@@ -3,7 +3,6 @@ title: ShapeRange.HasChart property (Excel)
 keywords: vbaxl10.chm640139
 f1_keywords:
 - vbaxl10.chm640139
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.HasChart
 ms.assetid: 7b1d5428-3e86-0d92-bf36-9617be0c240c

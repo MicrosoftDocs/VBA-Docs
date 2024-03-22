@@ -3,7 +3,6 @@ title: Separator property (Excel Graph)
 keywords: vbagr10.chm3077086
 f1_keywords:
 - vbagr10.chm3077086
-ms.prod: excel
 api_name:
 - Excel.Separator
 ms.assetid: d83c68fc-5948-a65f-b3bb-09e3a3884163

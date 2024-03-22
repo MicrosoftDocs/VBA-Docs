@@ -3,7 +3,6 @@ title: Application.PromptForSummaryInfo property (Excel)
 keywords: vbaxl10.chm133193
 f1_keywords:
 - vbaxl10.chm133193
-ms.prod: excel
 api_name:
 - Excel.Application.PromptForSummaryInfo
 ms.assetid: 6a7799d7-327f-fdea-9c01-da48cf85655b

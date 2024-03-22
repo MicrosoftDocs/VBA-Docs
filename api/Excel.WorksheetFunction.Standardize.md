@@ -3,7 +3,6 @@ title: WorksheetFunction.Standardize method (Excel)
 keywords: vbaxl10.chm137201
 f1_keywords:
 - vbaxl10.chm137201
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Standardize
 ms.assetid: b268e2f8-e206-37a6-93a1-fdff7b88d4db

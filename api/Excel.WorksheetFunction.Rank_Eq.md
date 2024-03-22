@@ -3,7 +3,6 @@ title: WorksheetFunction.Rank_Eq method (Excel)
 keywords: vbaxl10.chm137380
 f1_keywords:
 - vbaxl10.chm137380
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Rank_Eq
 ms.assetid: 8c2d2544-a948-7b38-e489-803cb6616066

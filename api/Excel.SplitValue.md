@@ -3,7 +3,6 @@ title: SplitValue property (Excel Graph)
 keywords: vbagr10.chm5208024
 f1_keywords:
 - vbagr10.chm5208024
-ms.prod: excel
 api_name:
 - Excel.SplitValue
 ms.assetid: 3200801a-9464-6bde-59a2-0a8baafcb8ff

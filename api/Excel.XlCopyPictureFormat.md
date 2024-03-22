@@ -1,6 +1,5 @@
 ---
 title: XlCopyPictureFormat enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlCopyPictureFormat
 ms.assetid: a764bd52-1c2b-9395-7774-1daceb6a8415

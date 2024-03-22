@@ -3,7 +3,6 @@ title: Application property (Excel Graph)
 keywords: vbagr10.chm3076941
 f1_keywords:
 - vbagr10.chm3076941
-ms.prod: excel
 api_name:
 - Excel.Application
 ms.assetid: df183c1c-8db3-e85c-c390-977cf54db7c5

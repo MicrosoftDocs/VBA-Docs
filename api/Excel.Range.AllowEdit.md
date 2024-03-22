@@ -3,7 +3,6 @@ title: Range.AllowEdit property (Excel)
 keywords: vbaxl10.chm144239
 f1_keywords:
 - vbaxl10.chm144239
-ms.prod: excel
 api_name:
 - Excel.Range.AllowEdit
 ms.assetid: 9f03054c-190f-ce3b-54db-bc6e19b7e1c6

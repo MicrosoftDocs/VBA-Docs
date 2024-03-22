@@ -3,7 +3,6 @@ title: ControlFormat.SmallChange property (Excel)
 keywords: vbaxl10.chm630089
 f1_keywords:
 - vbaxl10.chm630089
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.SmallChange
 ms.assetid: 5c2c668a-3d4d-ac01-e08b-0db6278ddffd

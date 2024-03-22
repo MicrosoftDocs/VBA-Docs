@@ -3,7 +3,6 @@ title: WorksheetFunction.PercentRank_Inc method (Excel)
 keywords: vbaxl10.chm137375
 f1_keywords:
 - vbaxl10.chm137375
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.PercentRank_Inc
 ms.assetid: 589a4d54-d7ca-84ea-2b62-dccb5e6e3ad0

@@ -3,7 +3,6 @@ title: Application.MailLogoff method (Excel)
 keywords: vbaxl10.chm133157
 f1_keywords:
 - vbaxl10.chm133157
-ms.prod: excel
 api_name:
 - Excel.Application.MailLogoff
 ms.assetid: 5265e9c1-6c04-3591-7133-5274e5b56347

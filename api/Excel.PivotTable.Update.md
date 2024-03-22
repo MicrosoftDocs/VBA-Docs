@@ -3,7 +3,6 @@ title: PivotTable.Update method (Excel)
 keywords: vbaxl10.chm235128
 f1_keywords:
 - vbaxl10.chm235128
-ms.prod: excel
 api_name:
 - Excel.PivotTable.Update
 ms.assetid: 379e948b-0d2d-501e-d23f-207579716d65

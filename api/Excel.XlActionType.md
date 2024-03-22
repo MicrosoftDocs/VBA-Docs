@@ -1,6 +1,5 @@
 ---
 title: XlActionType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlActionType
 ms.assetid: 9a4489d3-6342-f86d-5eec-f9db2852f7c0

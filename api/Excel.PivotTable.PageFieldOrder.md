@@ -3,7 +3,6 @@ title: PivotTable.PageFieldOrder property (Excel)
 keywords: vbaxl10.chm235119
 f1_keywords:
 - vbaxl10.chm235119
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PageFieldOrder
 ms.assetid: 0c8a6473-f2ee-f357-b840-aaf61cee1fa0

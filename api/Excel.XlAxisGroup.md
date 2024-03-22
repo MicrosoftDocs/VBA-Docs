@@ -1,6 +1,5 @@
 ---
 title: XlAxisGroup enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlAxisGroup
 ms.assetid: 30e0b817-547f-70f8-6e27-4a14031d1d79

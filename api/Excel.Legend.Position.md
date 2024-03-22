@@ -3,7 +3,6 @@ title: Legend.Position property (Excel)
 keywords: vbaxl10.chm622080
 f1_keywords:
 - vbaxl10.chm622080
-ms.prod: excel
 api_name:
 - Excel.Legend.Position
 ms.assetid: 6256617d-d78f-8b2e-dd27-96c71cd2a84f

@@ -2,7 +2,6 @@
 title: PivotTable.ShowTableStyleLastColumn property (Excel)
 ms.assetid: 4e266260-dae7-46af-bdb7-0972b186b382
 ms.date: 05/09/2019
-ms.prod: excel
 ms.localizationpriority: medium
 ---
 # PivotTable.ShowTableStyleLastColumn property (Excel)

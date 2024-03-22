@@ -3,7 +3,6 @@ title: ListObject.Range property (Excel)
 keywords: vbaxl10.chm734090
 f1_keywords:
 - vbaxl10.chm734090
-ms.prod: excel
 api_name:
 - Excel.ListObject.Range
 ms.assetid: d19e35b9-2409-7a95-c6d1-ad2c17cd47a7

@@ -3,7 +3,6 @@ title: Point.Creator property (Excel)
 keywords: vbaxl10.chm575074
 f1_keywords:
 - vbaxl10.chm575074
-ms.prod: excel
 api_name:
 - Excel.Point.Creator
 ms.assetid: d56c42cb-316f-429e-e251-71db4176d278

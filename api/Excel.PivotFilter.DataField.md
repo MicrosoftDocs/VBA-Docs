@@ -3,7 +3,6 @@ title: PivotFilter.DataField property (Excel)
 keywords: vbaxl10.chm770080
 f1_keywords:
 - vbaxl10.chm770080
-ms.prod: excel
 api_name:
 - Excel.PivotFilter.DataField
 ms.assetid: 33757882-60d0-2473-c5b9-fe8cc7fc8221

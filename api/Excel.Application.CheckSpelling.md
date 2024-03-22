@@ -3,7 +3,6 @@ title: Application.CheckSpelling method (Excel)
 keywords: vbaxl10.chm133091
 f1_keywords:
 - vbaxl10.chm133091
-ms.prod: excel
 api_name:
 - Excel.Application.CheckSpelling
 ms.assetid: dfae0789-4635-5ec5-5146-c5a1acefa306

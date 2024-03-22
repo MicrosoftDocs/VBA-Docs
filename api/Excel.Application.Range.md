@@ -3,7 +3,6 @@ title: Application.Range property (Excel)
 keywords: vbaxl10.chm183103
 f1_keywords:
 - vbaxl10.chm183103
-ms.prod: excel
 api_name:
 - Excel.Application.Range
 ms.assetid: fec5050e-e6d9-6736-a9bc-b3e7d213a755

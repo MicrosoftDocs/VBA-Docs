@@ -3,7 +3,6 @@ title: Workbook.BeforeXmlImport event (Excel)
 keywords: vbaxl10.chm503097
 f1_keywords:
 - vbaxl10.chm503097
-ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeXmlImport
 ms.assetid: a0a589c6-15f9-5599-c0b6-c6f881816ad6

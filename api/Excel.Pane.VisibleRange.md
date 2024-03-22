@@ -3,7 +3,6 @@ title: Pane.VisibleRange property (Excel)
 keywords: vbaxl10.chm360079
 f1_keywords:
 - vbaxl10.chm360079
-ms.prod: excel
 api_name:
 - Excel.Pane.VisibleRange
 ms.assetid: 03853894-ca83-1672-21bb-15099bab03d8

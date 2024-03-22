@@ -3,7 +3,6 @@ title: DialogSheetView.Parent property (Excel)
 keywords: vbaxl10.chm786075
 f1_keywords:
 - vbaxl10.chm786075
-ms.prod: excel
 api_name:
 - Excel.DialogSheetView.Parent
 ms.assetid: bb749cec-fc61-9460-01bd-0a76a2184404

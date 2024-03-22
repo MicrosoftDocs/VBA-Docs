@@ -3,7 +3,6 @@ title: ColorScale.StopIfTrue property (Excel)
 keywords: vbaxl10.chm806074
 f1_keywords:
 - vbaxl10.chm806074
-ms.prod: excel
 api_name:
 - Excel.ColorScale.StopIfTrue
 ms.assetid: 56dbc42b-da4d-775a-f321-d21193e12b06

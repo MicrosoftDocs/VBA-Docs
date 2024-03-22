@@ -1,6 +1,5 @@
 ---
 title: XlTableStyleElementType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlTableStyleElementType
 ms.assetid: 3b3da46a-b71c-1254-a4ae-ed573f6a891b

@@ -3,7 +3,6 @@ title: WorksheetFunction.Slope method (Excel)
 keywords: vbaxl10.chm137219
 f1_keywords:
 - vbaxl10.chm137219
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Slope
 ms.assetid: 26191331-d4eb-d054-b124-c57ebf4fef13

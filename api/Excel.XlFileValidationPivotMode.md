@@ -1,6 +1,5 @@
 ---
 title: XlFileValidationPivotMode enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlFileValidationPivotMode
 ms.assetid: 8ca2047c-be0f-5ecd-3762-f5c294b9542c

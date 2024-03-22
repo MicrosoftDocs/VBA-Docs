@@ -3,7 +3,6 @@ title: FreeformBuilder.AddNodes method (Excel)
 keywords: vbaxl10.chm648073
 f1_keywords:
 - vbaxl10.chm648073
-ms.prod: excel
 api_name:
 - Excel.FreeformBuilder.AddNodes
 ms.assetid: 8fff188d-1c47-87f0-8388-2b12534e82c2

@@ -1,6 +1,5 @@
 ---
 title: XlParameterDataType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlParameterDataType
 ms.assetid: ddf44b7b-9fbd-321a-55fb-5d6942e1169a

@@ -3,7 +3,6 @@ title: Range.FormulaLocal property (Excel)
 keywords: vbaxl10.chm144136
 f1_keywords:
 - vbaxl10.chm144136
-ms.prod: excel
 api_name:
 - Excel.Range.FormulaLocal
 ms.assetid: c69325d9-d35d-c15a-ae49-7bde2b628428

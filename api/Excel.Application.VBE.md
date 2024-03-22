@@ -3,7 +3,6 @@ title: Application.VBE property (Excel)
 keywords: vbaxl10.chm133227
 f1_keywords:
 - vbaxl10.chm133227
-ms.prod: excel
 api_name:
 - Excel.Application.VBE
 ms.assetid: e75dc57a-f9de-beb2-c50c-58445e47d63a

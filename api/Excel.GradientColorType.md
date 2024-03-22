@@ -3,7 +3,6 @@ title: GradientColorType property (Excel Graph)
 keywords: vbagr10.chm3077036
 f1_keywords:
 - vbagr10.chm3077036
-ms.prod: excel
 api_name:
 - Excel.GradientColorType
 ms.assetid: 78a2bd69-e8a5-1c43-4c75-9715de4202c0

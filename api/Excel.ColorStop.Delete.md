@@ -3,7 +3,6 @@ title: ColorStop.Delete method (Excel)
 keywords: vbaxl10.chm851073
 f1_keywords:
 - vbaxl10.chm851073
-ms.prod: excel
 api_name:
 - Excel.ColorStop.Delete
 ms.assetid: 3ca053f6-74f7-e2c0-6db4-7daed73cca39

@@ -3,7 +3,6 @@ title: Application.AfterCalculate event (Excel)
 keywords: vbaxl10.chm504103
 f1_keywords:
 - vbaxl10.chm504103
-ms.prod: excel
 api_name:
 - Excel.Application.AfterCalculate
 ms.assetid: ed76a36f-1b52-4464-da44-e64c81fb8d38

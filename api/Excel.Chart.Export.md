@@ -3,7 +3,6 @@ title: Chart.Export method (Excel)
 keywords: vbaxl10.chm149163
 f1_keywords:
 - vbaxl10.chm149163
-ms.prod: excel
 api_name:
 - Excel.Chart.Export
 ms.assetid: 4dc7dea6-9be8-ccd4-8198-7726b8fad024

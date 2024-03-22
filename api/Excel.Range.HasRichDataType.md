@@ -3,7 +3,6 @@ title: Range.HasRichDataType property (Excel)
 keywords: vbaxl10.chm144257
 f1_keywords:
 - vbaxl10.chm144257
-ms.prod: excel
 api_name:
 - Excel.Range.HasRichDataType
 ms.date: 05/11/2019

@@ -3,7 +3,6 @@ title: ErrorBars.Select method (Excel)
 keywords: vbaxl10.chm624075
 f1_keywords:
 - vbaxl10.chm624075
-ms.prod: excel
 api_name:
 - Excel.ErrorBars.Select
 ms.assetid: 699994c5-e3b0-7eae-47c8-cac5bfab29af

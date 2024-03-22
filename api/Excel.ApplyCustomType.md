@@ -3,7 +3,6 @@ title: ApplyCustomType method (Excel Graph)
 keywords: vbagr10.chm66937
 f1_keywords:
 - vbagr10.chm66937
-ms.prod: excel
 api_name:
 - Excel.ApplyCustomType
 ms.assetid: 5385d195-96ce-bdd3-e84d-596fd4236904

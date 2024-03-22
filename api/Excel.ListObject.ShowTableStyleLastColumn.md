@@ -3,7 +3,6 @@ title: ListObject.ShowTableStyleLastColumn property (Excel)
 keywords: vbaxl10.chm734102
 f1_keywords:
 - vbaxl10.chm734102
-ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleLastColumn
 ms.assetid: 5808ce55-d7a2-aac4-eb5a-6b24b1052332

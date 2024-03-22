@@ -3,7 +3,6 @@ title: TextEffectFormat.PresetTextEffect property (Excel)
 keywords: vbaxl10.chm118010
 f1_keywords:
 - vbaxl10.chm118010
-ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.PresetTextEffect
 ms.assetid: 13ff8b1a-d12e-47c1-6f82-0b3b9b5a7bf4

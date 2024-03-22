@@ -3,7 +3,6 @@ title: HPageBreaks.Add method (Excel)
 keywords: vbaxl10.chm165076
 f1_keywords:
 - vbaxl10.chm165076
-ms.prod: excel
 api_name:
 - Excel.HPageBreaks.Add
 ms.assetid: 58aabcbf-7a9f-96a5-c91e-7311e397cffe

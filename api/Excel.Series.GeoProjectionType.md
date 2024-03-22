@@ -1,6 +1,5 @@
 ---
 title: Series.GeoProjectionType method (Excel)
-ms.prod: excel
 api_name:
 - Excel.Series.GeoProjectionType
 ms.date: 10/29/2019

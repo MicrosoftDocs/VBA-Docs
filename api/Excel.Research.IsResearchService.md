@@ -3,7 +3,6 @@ title: Research.IsResearchService method (Excel)
 keywords: vbaxl10.chm849074
 f1_keywords:
 - vbaxl10.chm849074
-ms.prod: excel
 api_name:
 - Excel.Research.IsResearchService
 ms.assetid: 35f741d2-438b-01b8-5dcb-b632737e627e

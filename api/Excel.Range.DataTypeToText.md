@@ -3,7 +3,6 @@ title: Range.DataTypeToText method (Excel)
 keywords: vbaxl10.chm144266
 f1_keywords:
 - vbaxl10.chm144266
-ms.prod: excel
 api_name:
 - Excel.Range.DataTypeToText
 ms.date: 05/10/2019

@@ -3,7 +3,6 @@ title: DataLabel.FormulaR1C1 property (Excel)
 keywords: vbaxl10.chm582109
 f1_keywords:
 - vbaxl10.chm582109
-ms.prod: excel
 api_name:
 - Excel.DataLabel.FormulaR1C1
 ms.assetid: eb1d3ac2-638f-e622-5fd5-68584a3259ab

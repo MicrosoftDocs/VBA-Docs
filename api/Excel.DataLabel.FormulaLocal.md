@@ -3,7 +3,6 @@ title: DataLabel.FormulaLocal property (Excel)
 keywords: vbaxl10.chm582110
 f1_keywords:
 - vbaxl10.chm582110
-ms.prod: excel
 api_name:
 - Excel.DataLabel.FormulaLocal
 ms.assetid: 57712204-895c-43c7-7182-56b1e72e7ce5

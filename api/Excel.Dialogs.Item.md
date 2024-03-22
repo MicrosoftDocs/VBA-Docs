@@ -3,7 +3,6 @@ title: Dialogs.Item property (Excel)
 keywords: vbaxl10.chm254074
 f1_keywords:
 - vbaxl10.chm254074
-ms.prod: excel
 api_name:
 - Excel.Dialogs.Item
 ms.assetid: f9200ca3-711b-92ee-81b2-7c9cf1d104af

@@ -1,6 +1,5 @@
 ---
 title: XlArrangeStyle enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlArrangeStyle
 ms.assetid: 35ba7045-cde8-7dcc-bdcb-d35af8c10d66

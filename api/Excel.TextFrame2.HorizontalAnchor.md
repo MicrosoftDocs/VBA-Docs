@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.HorizontalAnchor property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.HorizontalAnchor
 ms.assetid: 204b744c-a19e-dbf1-2143-3bfcef3caa0c

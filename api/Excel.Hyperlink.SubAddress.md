@@ -3,7 +3,6 @@ title: Hyperlink.SubAddress property (Excel)
 keywords: vbaxl10.chm536077
 f1_keywords:
 - vbaxl10.chm536077
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.SubAddress
 ms.assetid: e83633c1-66b7-02f1-0e05-0397dc4f41ae

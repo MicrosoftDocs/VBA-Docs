@@ -3,7 +3,6 @@ title: Point object (Excel Graph)
 keywords: vbagr10.chm131114
 f1_keywords:
 - vbagr10.chm131114
-ms.prod: excel
 api_name:
 - Excel.Point
 ms.assetid: 944d5edb-b1e7-7aed-5ead-bde3878b26e5

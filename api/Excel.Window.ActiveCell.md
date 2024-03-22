@@ -3,7 +3,6 @@ title: Window.ActiveCell property (Excel)
 keywords: vbaxl10.chm356076
 f1_keywords:
 - vbaxl10.chm356076
-ms.prod: excel
 api_name:
 - Excel.Window.ActiveCell
 ms.assetid: 07ae9613-94b4-b3b9-c645-8acdabfebe86

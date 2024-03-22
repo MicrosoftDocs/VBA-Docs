@@ -3,7 +3,6 @@ title: Comment.Shape property (Excel)
 keywords: vbaxl10.chm516074
 f1_keywords:
 - vbaxl10.chm516074
-ms.prod: excel
 api_name:
 - Excel.Comment.Shape
 ms.assetid: f3e5f713-69b3-9cd8-81fa-9c677ed26869

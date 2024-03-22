@@ -3,7 +3,6 @@ title: Application.EnableEvents property (Excel)
 keywords: vbaxl10.chm133240
 f1_keywords:
 - vbaxl10.chm133240
-ms.prod: excel
 api_name:
 - Excel.Application.EnableEvents
 ms.assetid: 5e14ce7b-02f6-03d4-2dfc-1df05a032301

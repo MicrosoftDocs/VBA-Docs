@@ -3,7 +3,6 @@ title: ConditionValue.Parent property (Excel)
 keywords: vbaxl10.chm803075
 f1_keywords:
 - vbaxl10.chm803075
-ms.prod: excel
 api_name:
 - Excel.ConditionValue.Parent
 ms.assetid: d6e61746-ae2e-3704-a37a-ab755198772b

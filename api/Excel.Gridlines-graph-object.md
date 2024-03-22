@@ -3,7 +3,6 @@ title: Gridlines object (Excel Graph)
 keywords: vbagr10.chm131203
 f1_keywords:
 - vbagr10.chm131203
-ms.prod: excel
 api_name:
 - Excel.Gridlines
 ms.assetid: 8879cdea-609f-5994-3fb6-3a9d5fa849b4

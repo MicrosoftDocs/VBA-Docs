@@ -3,7 +3,6 @@ title: Axis.Border property (Excel)
 keywords: vbaxl10.chm561076
 f1_keywords:
 - vbaxl10.chm561076
-ms.prod: excel
 api_name:
 - Excel.Axis.Border
 ms.assetid: 1836a73a-305e-0e7a-840b-9364bffdb79a

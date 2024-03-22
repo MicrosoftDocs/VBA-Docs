@@ -3,7 +3,6 @@ title: Legend.Left property (Excel)
 keywords: vbaxl10.chm622086
 f1_keywords:
 - vbaxl10.chm622086
-ms.prod: excel
 api_name:
 - Excel.Legend.Left
 ms.assetid: 803b886b-59a8-8516-d7d1-a5432c16ae2e

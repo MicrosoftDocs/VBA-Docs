@@ -3,7 +3,6 @@ title: DataLabels.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm584089
 f1_keywords:
 - vbaxl10.chm584089
-ms.prod: excel
 api_name:
 - Excel.DataLabels.VerticalAlignment
 ms.assetid: fac981a5-11a2-aef2-0f23-a163299c8a73

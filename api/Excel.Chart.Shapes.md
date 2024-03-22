@@ -3,7 +3,6 @@ title: Chart.Shapes property (Excel)
 keywords: vbaxl10.chm148097
 f1_keywords:
 - vbaxl10.chm148097
-ms.prod: excel
 api_name:
 - Excel.Chart.Shapes
 ms.assetid: 73f72671-ac6a-bc11-44cc-a748171d7777

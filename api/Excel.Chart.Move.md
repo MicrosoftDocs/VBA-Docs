@@ -3,7 +3,6 @@ title: Chart.Move method (Excel)
 keywords: vbaxl10.chm148079
 f1_keywords:
 - vbaxl10.chm148079
-ms.prod: excel
 api_name:
 - Excel.Chart.Move
 ms.assetid: ec8c8eae-17a8-20a0-a87c-81f31b21d735

@@ -3,7 +3,6 @@ title: Application.GenerateTableRefs property (Excel)
 keywords: vbaxl10.chm133308
 f1_keywords:
 - vbaxl10.chm133308
-ms.prod: excel
 api_name:
 - Excel.Application.GenerateTableRefs
 ms.assetid: 3529fb4d-d311-6f92-9bf8-6b9f04d82ba8

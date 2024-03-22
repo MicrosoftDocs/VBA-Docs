@@ -3,7 +3,6 @@ title: WorksheetFunction.Skew_p method (Excel)
 keywords: vbaxl10.chm137451
 f1_keywords:
 - vbaxl10.chm137451
-ms.prod: excel
 ms.assetid: 04152ef3-2c01-8795-a2ca-9ced4b814e7e
 ms.date: 05/25/2019
 ms.localizationpriority: medium

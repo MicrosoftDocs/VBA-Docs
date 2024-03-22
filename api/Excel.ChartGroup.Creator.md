@@ -3,7 +3,6 @@ title: ChartGroup.Creator property (Excel)
 keywords: vbaxl10.chm567074
 f1_keywords:
 - vbaxl10.chm567074
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.Creator
 ms.assetid: 5f1ce433-8248-47d6-ea1b-90c7c8aac75e

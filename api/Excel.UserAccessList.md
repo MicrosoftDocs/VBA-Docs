@@ -3,7 +3,6 @@ title: UserAccessList object (Excel)
 keywords: vbaxl10.chm726072
 f1_keywords:
 - vbaxl10.chm726072
-ms.prod: excel
 api_name:
 - Excel.UserAccessList
 ms.assetid: 8b753ffc-e4d5-0824-e465-a3bdb9ed9202

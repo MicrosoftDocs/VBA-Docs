@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetLightingDirection property (Excel)
 keywords: vbaxl10.chm119010
 f1_keywords:
 - vbaxl10.chm119010
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetLightingDirection
 ms.assetid: 5aea55a7-1718-a741-fc9b-f3e402469651

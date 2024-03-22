@@ -3,7 +3,6 @@ title: ListDataFormat object (Excel)
 keywords: vbaxl10.chm757072
 f1_keywords:
 - vbaxl10.chm757072
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat
 ms.assetid: d972f320-6865-a684-0f46-8c34b2eea482

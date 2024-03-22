@@ -3,7 +3,6 @@ title: ControlFormat.MultiSelect property (Excel)
 keywords: vbaxl10.chm630087
 f1_keywords:
 - vbaxl10.chm630087
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.MultiSelect
 ms.assetid: 5ec1e5b6-37ab-465b-bf81-4955f6fd0f31

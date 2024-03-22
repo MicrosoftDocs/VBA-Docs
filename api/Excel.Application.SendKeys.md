@@ -3,7 +3,6 @@ title: Application.SendKeys method (Excel)
 keywords: vbaxl10.chm183108
 f1_keywords:
 - vbaxl10.chm183108
-ms.prod: excel
 api_name:
 - Excel.Application.SendKeys
 ms.assetid: 585666b9-adbc-5d04-c480-58e55ea7fb9d

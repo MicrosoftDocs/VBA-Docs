@@ -3,7 +3,6 @@ title: Speech.Speak method (Excel)
 keywords: vbaxl10.chm718073
 f1_keywords:
 - vbaxl10.chm718073
-ms.prod: excel
 api_name:
 - Excel.Speech.Speak
 ms.assetid: d17dcf63-c837-a5b5-8267-44767b38700a

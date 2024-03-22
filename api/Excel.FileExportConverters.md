@@ -3,7 +3,6 @@ title: FileExportConverters object (Excel)
 keywords: vbaxl10.chm864072
 f1_keywords:
 - vbaxl10.chm864072
-ms.prod: excel
 api_name:
 - Excel.FileExportConverters
 ms.assetid: f4b0500e-308a-42e7-a9eb-4a511b8ca754

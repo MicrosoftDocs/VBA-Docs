@@ -3,7 +3,6 @@ title: WorksheetView.DisplayFormulas property (Excel)
 keywords: vbaxl10.chm779074
 f1_keywords:
 - vbaxl10.chm779074
-ms.prod: excel
 api_name:
 - Excel.WorksheetView.DisplayFormulas
 ms.assetid: 91973484-79ad-dc07-ed9f-65d20d4e82ba

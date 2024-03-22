@@ -3,7 +3,6 @@ title: CubeFields.Application property (Excel)
 keywords: vbaxl10.chm669073
 f1_keywords:
 - vbaxl10.chm669073
-ms.prod: excel
 api_name:
 - Excel.CubeFields.Application
 ms.assetid: f78d387b-e44a-4376-3704-2bc2d55bdb5d

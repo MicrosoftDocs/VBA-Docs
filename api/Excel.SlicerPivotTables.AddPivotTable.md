@@ -3,7 +3,6 @@ title: SlicerPivotTables.AddPivotTable method (Excel)
 keywords: vbaxl10.chm911077
 f1_keywords:
 - vbaxl10.chm911077
-ms.prod: excel
 api_name:
 - Excel.SlicerPivotTables.AddPivotTable
 ms.assetid: c5fc95c6-0fb9-1c8f-5b12-8a4c0f9f10c7

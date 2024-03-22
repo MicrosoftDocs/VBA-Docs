@@ -3,7 +3,6 @@ title: Point.MarkerSize property (Excel)
 keywords: vbaxl10.chm576088
 f1_keywords:
 - vbaxl10.chm576088
-ms.prod: excel
 api_name:
 - Excel.Point.MarkerSize
 ms.assetid: eb7d0875-6751-d40d-9ae4-401227fb6021

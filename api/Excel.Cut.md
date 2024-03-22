@@ -3,7 +3,6 @@ title: Cut method (Excel Graph)
 keywords: vbagr10.chm5207276
 f1_keywords:
 - vbagr10.chm5207276
-ms.prod: excel
 api_name:
 - Excel.Cut
 ms.assetid: a0e35a76-9789-b661-e12b-04f11db84e3c

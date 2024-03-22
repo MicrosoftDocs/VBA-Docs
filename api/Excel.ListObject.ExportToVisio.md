@@ -3,7 +3,6 @@ title: ListObject.ExportToVisio method (Excel)
 keywords: vbaxl10.chm734107
 f1_keywords:
 - vbaxl10.chm734107
-ms.prod: excel
 api_name:
 - Excel.ListObject.ExportToVisio
 ms.assetid: 2f4f1079-9971-d7ac-5bf5-3bcc4e68e804

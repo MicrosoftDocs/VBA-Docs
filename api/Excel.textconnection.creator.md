@@ -3,7 +3,6 @@ title: TextConnection.Creator property (Excel)
 keywords: vbaxl10.chm925074
 f1_keywords:
 - vbaxl10.chm925074
-ms.prod: excel
 ms.assetid: 64293b6f-41c7-54a5-9fcb-f4d19d60b0e6
 ms.date: 05/17/2019
 ms.localizationpriority: medium

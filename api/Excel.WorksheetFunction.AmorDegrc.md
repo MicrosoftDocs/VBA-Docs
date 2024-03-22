@@ -3,7 +3,6 @@ title: WorksheetFunction.AmorDegrc method (Excel)
 keywords: vbaxl10.chm137342
 f1_keywords:
 - vbaxl10.chm137342
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AmorDegrc
 ms.assetid: 1abf060a-e68f-1155-28c3-3d257fd4fbcf

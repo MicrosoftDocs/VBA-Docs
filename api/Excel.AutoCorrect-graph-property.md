@@ -3,7 +3,6 @@ title: AutoCorrect property (Excel Graph)
 keywords: vbagr10.chm5207061
 f1_keywords:
 - vbagr10.chm5207061
-ms.prod: excel
 api_name:
 - Excel.AutoCorrect
 ms.assetid: f05a4ff5-4245-ff2e-1082-f48e130d0741

@@ -1,6 +1,5 @@
 ---
 title: XlErrorBarDirection enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlErrorBarDirection
 ms.assetid: 843da2a6-04e7-4029-db90-52eaeda93cfa

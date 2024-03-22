@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.Creator property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Creator
 ms.assetid: adae19fb-0ef7-6366-e70d-ff43b443419a

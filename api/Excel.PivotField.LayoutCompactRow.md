@@ -3,7 +3,6 @@ title: PivotField.LayoutCompactRow property (Excel)
 keywords: vbaxl10.chm240144
 f1_keywords:
 - vbaxl10.chm240144
-ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutCompactRow
 ms.assetid: f4969f85-9278-517f-f367-b0d58b3daafb

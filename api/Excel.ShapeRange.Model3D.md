@@ -3,7 +3,6 @@ title: ShapeRange.Model3D property (Excel)
 keywords: vbaxl10.chm640148
 f1_keywords:
 - vbaxl10.chm640148
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Model3D
 ms.date: 05/14/2019

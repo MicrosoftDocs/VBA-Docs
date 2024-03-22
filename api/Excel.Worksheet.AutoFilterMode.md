@@ -3,7 +3,6 @@ title: Worksheet.AutoFilterMode property (Excel)
 keywords: vbaxl10.chm175075
 f1_keywords:
 - vbaxl10.chm175075
-ms.prod: excel
 api_name:
 - Excel.Worksheet.AutoFilterMode
 ms.assetid: 63f33ea5-c9a5-0096-0191-1590cda9d0e1

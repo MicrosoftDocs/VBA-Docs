@@ -1,6 +1,5 @@
 ---
 title: XlSortDataOption enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSortDataOption
 ms.assetid: 58315709-300e-76f7-5e3f-f888ae60dc56

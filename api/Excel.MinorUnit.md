@@ -3,7 +3,6 @@ title: MinorUnit property (Excel Graph)
 keywords: vbagr10.chm3077551
 f1_keywords:
 - vbagr10.chm3077551
-ms.prod: excel
 api_name:
 - Excel.MinorUnit
 ms.assetid: 9da86e1c-dfc2-49c8-e6bd-1e5529b2da33

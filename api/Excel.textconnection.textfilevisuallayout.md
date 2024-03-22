@@ -3,7 +3,6 @@ title: TextConnection.TextFileVisualLayout property (Excel)
 keywords: vbaxl10.chm926091
 f1_keywords:
 - vbaxl10.chm926091
-ms.prod: excel
 ms.assetid: a70fa8fe-8a0a-1308-34e5-71af17892862
 ms.date: 05/17/2019
 ms.localizationpriority: medium

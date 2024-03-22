@@ -3,7 +3,6 @@ title: PivotTable.SubtotalLocation method (Excel)
 keywords: vbaxl10.chm235167
 f1_keywords:
 - vbaxl10.chm235167
-ms.prod: excel
 api_name:
 - Excel.PivotTable.SubtotalLocation
 ms.assetid: df2655d8-9e5f-e9d2-ba88-f92a1d843dfb

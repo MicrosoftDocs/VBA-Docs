@@ -3,7 +3,6 @@ title: WorksheetFunction.Poisson_Dist method (Excel)
 keywords: vbaxl10.chm137376
 f1_keywords:
 - vbaxl10.chm137376
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Poisson_Dist
 ms.assetid: 338193e2-6b52-417a-97b9-d6ba12a1275e

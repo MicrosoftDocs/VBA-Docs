@@ -3,7 +3,6 @@ title: Shape.Left property (Excel)
 keywords: vbaxl10.chm636100
 f1_keywords:
 - vbaxl10.chm636100
-ms.prod: excel
 api_name:
 - Excel.Shape.Left
 ms.assetid: 4bd1971f-8669-adcf-3b79-8a7985b17d7a

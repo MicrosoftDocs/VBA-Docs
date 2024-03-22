@@ -3,7 +3,6 @@ title: Ranges.Creator property (Excel)
 keywords: vbaxl10.chm827074
 f1_keywords:
 - vbaxl10.chm827074
-ms.prod: excel
 api_name:
 - Excel.Ranges.Creator
 ms.assetid: a44c830a-4164-6fa5-b316-399019ed77ab

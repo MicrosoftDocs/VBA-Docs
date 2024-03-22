@@ -3,7 +3,6 @@ title: DataLabel.ShowPercentage property (Excel)
 keywords: vbaxl10.chm582102
 f1_keywords:
 - vbaxl10.chm582102
-ms.prod: excel
 api_name:
 - Excel.DataLabel.ShowPercentage
 ms.assetid: 9d084502-545d-7a9a-1b6d-e12d4e2b34e6

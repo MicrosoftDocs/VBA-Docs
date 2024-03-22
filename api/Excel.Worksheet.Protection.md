@@ -3,7 +3,6 @@ title: Worksheet.Protection property (Excel)
 keywords: vbaxl10.chm175154
 f1_keywords:
 - vbaxl10.chm175154
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Protection
 ms.assetid: 46bf2025-46cf-81ae-4864-2d6266dab173

@@ -3,7 +3,6 @@ title: Hyperlink.AddToFavorites method (Excel)
 keywords: vbaxl10.chm536080
 f1_keywords:
 - vbaxl10.chm536080
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.AddToFavorites
 ms.assetid: ac234164-9c20-451d-1146-199e44d07a87

@@ -3,7 +3,6 @@ title: ValueChange.AllocationValue property (Excel)
 keywords: vbaxl10.chm889078
 f1_keywords:
 - vbaxl10.chm889078
-ms.prod: excel
 api_name:
 - Excel.ValueChange.AllocationValue
 ms.assetid: 932cfa66-3664-5e23-85b7-769ac710669e

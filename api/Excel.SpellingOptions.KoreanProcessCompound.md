@@ -3,7 +3,6 @@ title: SpellingOptions.KoreanProcessCompound property (Excel)
 keywords: vbaxl10.chm717082
 f1_keywords:
 - vbaxl10.chm717082
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.KoreanProcessCompound
 ms.assetid: c6bb9d79-d464-1644-4873-5f3ccf84e487

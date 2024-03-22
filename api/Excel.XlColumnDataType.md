@@ -1,6 +1,5 @@
 ---
 title: XlColumnDataType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlColumnDataType
 ms.assetid: 034f6011-c860-0887-9661-857821f630e4

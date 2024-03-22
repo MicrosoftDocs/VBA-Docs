@@ -3,7 +3,6 @@ title: WorksheetFunction.PriceDisc method (Excel)
 keywords: vbaxl10.chm137313
 f1_keywords:
 - vbaxl10.chm137313
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.PriceDisc
 ms.assetid: 973cf0b8-4bb5-bc0b-f32b-59d46b8474ef

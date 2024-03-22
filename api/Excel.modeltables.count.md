@@ -3,7 +3,6 @@ title: ModelTables.Count property (Excel)
 keywords: vbaxl10.chm936073
 f1_keywords:
 - vbaxl10.chm936073
-ms.prod: excel
 ms.assetid: 6dbafd52-96ec-0391-ca07-4b2a61f5b6c0
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ChartArea.ClearContents method (Excel)
 keywords: vbaxl10.chm620078
 f1_keywords:
 - vbaxl10.chm620078
-ms.prod: excel
 api_name:
 - Excel.ChartArea.ClearContents
 ms.assetid: 3c3c07a0-9dc1-6019-5262-e1acba7917a1

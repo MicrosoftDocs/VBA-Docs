@@ -3,7 +3,6 @@ title: WorksheetFunction.Subtotal method (Excel)
 keywords: vbaxl10.chm137240
 f1_keywords:
 - vbaxl10.chm137240
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Subtotal
 ms.assetid: ec854287-1b12-8195-6b30-9101140d642e
