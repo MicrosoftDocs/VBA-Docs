@@ -3,7 +3,6 @@ title: ShapeRange.Left property (Excel)
 keywords: vbaxl10.chm640107
 f1_keywords:
 - vbaxl10.chm640107
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Left
 ms.assetid: 3e6dd9e4-c5c8-3f06-4af5-e245d1b10ec8

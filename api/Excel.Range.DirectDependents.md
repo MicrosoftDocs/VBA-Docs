@@ -3,7 +3,6 @@ title: Range.DirectDependents property (Excel)
 keywords: vbaxl10.chm144118
 f1_keywords:
 - vbaxl10.chm144118
-ms.prod: excel
 api_name:
 - Excel.Range.DirectDependents
 ms.assetid: 266b054e-6838-ffe7-14e2-e712a149e5be

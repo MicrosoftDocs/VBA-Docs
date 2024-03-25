@@ -3,7 +3,6 @@ title: PivotTable.CacheIndex property (Excel)
 keywords: vbaxl10.chm235102
 f1_keywords:
 - vbaxl10.chm235102
-ms.prod: excel
 api_name:
 - Excel.PivotTable.CacheIndex
 ms.assetid: fe1a88b7-dfd0-e031-e739-0b5781de1c0d

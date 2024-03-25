@@ -3,7 +3,6 @@ title: CommentsThreaded.Application property (Excel)
 keywords: vbaxl10.chm1007073
 f1_keywords:
 - vbaxl10.chm1007073
-ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Application
 ms.date: 05/15/2019

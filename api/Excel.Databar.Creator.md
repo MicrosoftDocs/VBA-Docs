@@ -3,7 +3,6 @@ title: DataBar.Creator property (Excel)
 keywords: vbaxl10.chm809074
 f1_keywords:
 - vbaxl10.chm809074
-ms.prod: excel
 api_name:
 - Excel.DataBar.Creator
 ms.assetid: 68f1b65d-7bc3-89ba-e314-3103fa40ad44

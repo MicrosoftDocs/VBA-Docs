@@ -3,7 +3,6 @@ title: Application.RegisteredFunctions property (Excel)
 keywords: vbaxl10.chm133198
 f1_keywords:
 - vbaxl10.chm133198
-ms.prod: excel
 api_name:
 - Excel.Application.RegisteredFunctions
 ms.assetid: c8922122-7de8-ebbb-0dfd-1dfe3974278e

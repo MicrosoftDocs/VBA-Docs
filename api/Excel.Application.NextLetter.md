@@ -3,7 +3,6 @@ title: Application.NextLetter method (Excel)
 keywords: vbaxl10.chm133172
 f1_keywords:
 - vbaxl10.chm133172
-ms.prod: excel
 api_name:
 - Excel.Application.NextLetter
 ms.assetid: 002ace38-48f1-cac2-6bbb-428b119c8ed0

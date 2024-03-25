@@ -3,7 +3,6 @@ title: DisplayFormat.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm893079
 f1_keywords:
 - vbaxl10.chm893079
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.HorizontalAlignment
 ms.assetid: 601042fa-3bc9-4a5c-573a-fdf9e9a5717a

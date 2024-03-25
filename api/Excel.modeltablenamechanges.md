@@ -3,7 +3,6 @@ title: ModelTableNameChanges object (Excel)
 keywords: vbaxl10.chm957072
 f1_keywords:
 - vbaxl10.chm957072
-ms.prod: excel
 ms.assetid: 78ecf42b-7ce5-b00a-a9c1-ba3fdc5b5731
 ms.date: 03/30/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: SortFields.Add2 method (Excel)
 keywords: vbaxl10.chm152090
 f1_keywords:
 - vbaxl10.chm152090
-ms.prod: excel
 api_name:
 - Excel.SortFields.Add2
 ms.date: 05/16/2019

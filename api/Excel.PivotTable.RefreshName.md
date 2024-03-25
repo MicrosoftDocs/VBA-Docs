@@ -3,7 +3,6 @@ title: PivotTable.RefreshName property (Excel)
 keywords: vbaxl10.chm235091
 f1_keywords:
 - vbaxl10.chm235091
-ms.prod: excel
 api_name:
 - Excel.PivotTable.RefreshName
 ms.assetid: 488d5e0c-61f9-0c85-ac1b-16dc98360bb4

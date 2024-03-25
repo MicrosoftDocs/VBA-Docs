@@ -1,6 +1,5 @@
 ---
 title: XlLinkedDataTypeState enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlLinkedDataTypeState
 ms.date: 09/12/2018

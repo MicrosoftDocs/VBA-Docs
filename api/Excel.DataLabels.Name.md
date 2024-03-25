@@ -3,7 +3,6 @@ title: DataLabels.Name property (Excel)
 keywords: vbaxl10.chm584074
 f1_keywords:
 - vbaxl10.chm584074
-ms.prod: excel
 api_name:
 - Excel.DataLabels.Name
 ms.assetid: beaa2c1d-1b41-f17a-a105-c833dfe1b796

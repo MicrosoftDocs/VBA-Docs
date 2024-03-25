@@ -3,7 +3,6 @@ title: Worksheet object (Excel)
 keywords: vbaxl10.chm173072
 f1_keywords:
 - vbaxl10.chm173072
-ms.prod: excel
 api_name:
 - Excel.Worksheet
 ms.assetid: 182b705e-854a-81cc-a4b0-59b942de55ae

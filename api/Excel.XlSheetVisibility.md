@@ -1,6 +1,5 @@
 ---
 title: XlSheetVisibility enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSheetVisibility
 ms.assetid: 615955a4-2ab9-b95f-de7c-6fb3e59d25bf

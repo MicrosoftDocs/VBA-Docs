@@ -3,7 +3,6 @@ title: Worksheet.ClearCircles method (Excel)
 keywords: vbaxl10.chm175141
 f1_keywords:
 - vbaxl10.chm175141
-ms.prod: excel
 api_name:
 - Excel.Worksheet.ClearCircles
 ms.assetid: 74795226-886b-5922-5448-b93355415bd1

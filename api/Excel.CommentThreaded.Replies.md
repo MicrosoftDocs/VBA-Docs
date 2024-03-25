@@ -3,7 +3,6 @@ title: CommentThreaded.Replies property (Excel)
 keywords: vbaxl10.chm1010076
 f1_keywords:
 - vbaxl10.chm1010076
-ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Replies
 ms.date: 05/15/2019

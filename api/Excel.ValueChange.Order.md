@@ -3,7 +3,6 @@ title: ValueChange.Order property (Excel)
 keywords: vbaxl10.chm889073
 f1_keywords:
 - vbaxl10.chm889073
-ms.prod: excel
 api_name:
 - Excel.ValueChange.Order
 ms.assetid: f64f8739-212b-6aca-3ddc-09c68c44978c

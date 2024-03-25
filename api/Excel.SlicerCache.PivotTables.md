@@ -3,7 +3,6 @@ title: SlicerCache.PivotTables property (Excel)
 keywords: vbaxl10.chm897078
 f1_keywords:
 - vbaxl10.chm897078
-ms.prod: excel
 api_name:
 - Excel.SlicerCache.PivotTables
 ms.assetid: 73fc8935-3c88-0a79-b0a1-05af99f14bc8

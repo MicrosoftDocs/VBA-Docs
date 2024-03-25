@@ -1,6 +1,5 @@
 ---
 title: XlArabicModes enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlArabicModes
 ms.assetid: 1d78776a-04c2-9b1d-34d8-36d9b2b47941

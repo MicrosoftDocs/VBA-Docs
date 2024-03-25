@@ -3,7 +3,6 @@ title: Name.RefersToRange property (Excel)
 keywords: vbaxl10.chm490088
 f1_keywords:
 - vbaxl10.chm490088
-ms.prod: excel
 api_name:
 - Excel.Name.RefersToRange
 ms.assetid: 81c0e2fe-8ce6-0df9-9ffa-0931b87487e7

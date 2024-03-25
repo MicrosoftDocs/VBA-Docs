@@ -3,7 +3,6 @@ title: AutoScaling property (Excel Graph)
 keywords: vbagr10.chm65643
 f1_keywords:
 - vbagr10.chm65643
-ms.prod: excel
 api_name:
 - Excel.AutoScaling
 ms.assetid: f132291c-e356-eea5-0ef5-0e4def8d4832

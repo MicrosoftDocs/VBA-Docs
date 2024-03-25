@@ -3,7 +3,6 @@ title: Name.ShortcutKey property (Excel)
 keywords: vbaxl10.chm490081
 f1_keywords:
 - vbaxl10.chm490081
-ms.prod: excel
 api_name:
 - Excel.Name.ShortcutKey
 ms.assetid: ff763568-4c18-9414-45a7-bcf75b597261

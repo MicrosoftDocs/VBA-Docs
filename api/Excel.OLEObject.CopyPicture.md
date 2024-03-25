@@ -3,7 +3,6 @@ title: OLEObject.CopyPicture method (Excel)
 keywords: vbaxl10.chm415077
 f1_keywords:
 - vbaxl10.chm415077
-ms.prod: excel
 api_name:
 - Excel.OLEObject.CopyPicture
 ms.assetid: 2a4d8e14-5dfe-74f1-6ffe-7501c46e90ca

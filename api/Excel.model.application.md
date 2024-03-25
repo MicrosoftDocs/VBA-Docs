@@ -3,7 +3,6 @@ title: Model.Application property (Excel)
 keywords: vbaxl10.chm941073
 f1_keywords:
 - vbaxl10.chm941073
-ms.prod: excel
 ms.assetid: 201e79d9-8e9b-0ff4-5f6e-dcdd3911b08a
 ms.date: 04/30/2019
 ms.localizationpriority: medium

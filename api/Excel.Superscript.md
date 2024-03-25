@@ -3,7 +3,6 @@ title: Superscript property (Excel Graph)
 keywords: vbagr10.chm5208035
 f1_keywords:
 - vbagr10.chm5208035
-ms.prod: excel
 api_name:
 - Excel.Superscript
 ms.assetid: 5c9b6173-29a9-8a48-125e-673a935b33e2

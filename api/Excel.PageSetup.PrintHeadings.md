@@ -3,7 +3,6 @@ title: PageSetup.PrintHeadings property (Excel)
 keywords: vbaxl10.chm473094
 f1_keywords:
 - vbaxl10.chm473094
-ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintHeadings
 ms.assetid: 027441c6-da40-f518-a166-adb54da02a27

@@ -3,7 +3,6 @@ title: PivotCell.Range property (Excel)
 keywords: vbaxl10.chm692080
 f1_keywords:
 - vbaxl10.chm692080
-ms.prod: excel
 api_name:
 - Excel.PivotCell.Range
 ms.assetid: b0b52ca0-a73b-acc3-25a8-330da27e4f92

@@ -3,7 +3,6 @@ title: SparklineGroup.Item property (Excel)
 keywords: vbaxl10.chm871074
 f1_keywords:
 - vbaxl10.chm871074
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Item
 ms.assetid: 2eb9aeb5-6b66-5947-7cdf-6376511e6935

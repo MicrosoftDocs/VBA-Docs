@@ -3,7 +3,6 @@ title: Range.FillRight method (Excel)
 keywords: vbaxl10.chm144126
 f1_keywords:
 - vbaxl10.chm144126
-ms.prod: excel
 api_name:
 - Excel.Range.FillRight
 ms.assetid: b0b9a3a5-5f8c-327e-fb41-dec5c1a2f2b3

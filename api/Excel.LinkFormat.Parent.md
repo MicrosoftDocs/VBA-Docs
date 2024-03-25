@@ -3,7 +3,6 @@ title: LinkFormat.Parent property (Excel)
 keywords: vbaxl10.chm633075
 f1_keywords:
 - vbaxl10.chm633075
-ms.prod: excel
 api_name:
 - Excel.LinkFormat.Parent
 ms.assetid: 37d31c34-01a7-0995-ccf0-6b18c623ebae

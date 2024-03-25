@@ -3,7 +3,6 @@ title: Application.WindowResize event (Excel)
 keywords: vbaxl10.chm504090
 f1_keywords:
 - vbaxl10.chm504090
-ms.prod: excel
 api_name:
 - Excel.Application.WindowResize
 ms.assetid: 937c4b8f-3b37-ada7-ee72-0ad4707c2e2b

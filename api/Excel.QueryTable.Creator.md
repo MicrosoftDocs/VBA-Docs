@@ -3,7 +3,6 @@ title: QueryTable.Creator property (Excel)
 keywords: vbaxl10.chm517074
 f1_keywords:
 - vbaxl10.chm517074
-ms.prod: excel
 api_name:
 - Excel.QueryTable.Creator
 ms.assetid: 6384b8d4-295c-1566-9405-a7450551b4f1

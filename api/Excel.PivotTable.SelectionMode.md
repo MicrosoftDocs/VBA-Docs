@@ -3,7 +3,6 @@ title: PivotTable.SelectionMode property (Excel)
 keywords: vbaxl10.chm235125
 f1_keywords:
 - vbaxl10.chm235125
-ms.prod: excel
 api_name:
 - Excel.PivotTable.SelectionMode
 ms.assetid: 692c31b9-01a4-2a49-65c9-66c14ab6aa7c

@@ -1,6 +1,5 @@
 ---
 title: Series.RegionLabelOptions method (Excel)
-ms.prod: excel
 api_name:
 - Excel.Series.RegionLabelOptions
 ms.date: 10/29/2019

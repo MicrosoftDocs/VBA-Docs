@@ -3,7 +3,6 @@ title: ModelTableNameChanges.Creator property (Excel)
 keywords: vbaxl10.chm957074
 f1_keywords:
 - vbaxl10.chm957074
-ms.prod: excel
 ms.assetid: 42ed6b08-659d-3cec-c619-2def633ae2f9
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: XmlNamespace.Prefix property (Excel)
 keywords: vbaxl10.chm744075
 f1_keywords:
 - vbaxl10.chm744075
-ms.prod: excel
 api_name:
 - Excel.XmlNamespace.Prefix
 ms.assetid: d9242695-7db0-5d8a-1692-ca53597168a2

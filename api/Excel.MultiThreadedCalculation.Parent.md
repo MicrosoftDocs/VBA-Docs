@@ -3,7 +3,6 @@ title: MultiThreadedCalculation.Parent property (Excel)
 keywords: vbaxl10.chm858075
 f1_keywords:
 - vbaxl10.chm858075
-ms.prod: excel
 api_name:
 - Excel.MultiThreadedCalculation.Parent
 ms.assetid: 756fb6b4-5292-751c-0933-894f38758399

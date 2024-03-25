@@ -3,7 +3,6 @@ title: SparkPoints.Highpoint property (Excel)
 keywords: vbaxl10.chm873075
 f1_keywords:
 - vbaxl10.chm873075
-ms.prod: excel
 api_name:
 - Excel.SparkPoints.Highpoint
 ms.assetid: 357a154d-f30e-1457-60a9-c448b6b04479

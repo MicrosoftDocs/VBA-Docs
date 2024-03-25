@@ -3,7 +3,6 @@ title: WorksheetFunction.Beta_Inv method (Excel)
 keywords: vbaxl10.chm137397
 f1_keywords:
 - vbaxl10.chm137397
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Beta_Inv
 ms.assetid: f652b2b8-a966-1b1e-bfcd-1554923c1740

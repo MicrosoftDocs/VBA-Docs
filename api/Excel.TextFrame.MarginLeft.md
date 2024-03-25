@@ -3,7 +3,6 @@ title: TextFrame.MarginLeft property (Excel)
 keywords: vbaxl10.chm644074
 f1_keywords:
 - vbaxl10.chm644074
-ms.prod: excel
 api_name:
 - Excel.TextFrame.MarginLeft
 ms.assetid: 2fe49452-981a-3aff-ae75-cb6ed6dde83f

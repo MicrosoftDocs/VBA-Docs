@@ -3,7 +3,6 @@ title: ErrorCheckingOptions object (Excel)
 keywords: vbaxl10.chm697072
 f1_keywords:
 - vbaxl10.chm697072
-ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions
 ms.assetid: f62d3b08-a08f-d028-8e33-4bfd8799dc44

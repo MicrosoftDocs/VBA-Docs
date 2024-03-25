@@ -3,7 +3,6 @@ title: ServerViewableItems.Application property (Excel)
 keywords: vbaxl10.chm832073
 f1_keywords:
 - vbaxl10.chm832073
-ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.Application
 ms.assetid: 60cd4946-d68a-cf52-754e-41c325c756fe

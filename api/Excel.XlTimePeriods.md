@@ -1,6 +1,5 @@
 ---
 title: XlTimePeriods enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlTimePeriods
 ms.assetid: 11bb49fe-7807-5a61-cd61-9bb69d7052c8

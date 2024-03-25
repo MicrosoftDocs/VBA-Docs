@@ -3,7 +3,6 @@ title: Shape.Creator property (Excel)
 keywords: vbaxl10.chm635074
 f1_keywords:
 - vbaxl10.chm635074
-ms.prod: excel
 api_name:
 - Excel.Shape.Creator
 ms.assetid: cfe75d7d-a265-5b08-35a2-58470473df39

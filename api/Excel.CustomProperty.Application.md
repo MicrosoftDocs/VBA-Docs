@@ -3,7 +3,6 @@ title: CustomProperty.Application property (Excel)
 keywords: vbaxl10.chm681073
 f1_keywords:
 - vbaxl10.chm681073
-ms.prod: excel
 api_name:
 - Excel.CustomProperty.Application
 ms.assetid: c62cc90e-f672-01be-da63-0cdb842adbec

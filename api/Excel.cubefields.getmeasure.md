@@ -3,7 +3,6 @@ title: CubeFields.GetMeasure method (Excel)
 keywords: vbaxl10.chm670078
 f1_keywords:
 - vbaxl10.chm670078
-ms.prod: excel
 ms.assetid: 26647294-66df-4691-fa8e-d14cb869145b
 ms.date: 04/23/2019
 ms.localizationpriority: medium

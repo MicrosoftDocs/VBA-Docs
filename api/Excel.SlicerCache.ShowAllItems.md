@@ -3,7 +3,6 @@ title: SlicerCache.ShowAllItems property (Excel)
 keywords: vbaxl10.chm897088
 f1_keywords:
 - vbaxl10.chm897088
-ms.prod: excel
 api_name:
 - Excel.SlicerCache.ShowAllItems
 ms.assetid: 72622510-b644-db1b-2905-4eaba53b0ecb

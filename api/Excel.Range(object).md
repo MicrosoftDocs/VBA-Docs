@@ -3,7 +3,6 @@ title: Range object (Excel)
 keywords: vbaxl10.chm143072
 f1_keywords:
 - vbaxl10.chm143072
-ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: b8207778-0dcc-4570-1234-f130532cc8cd

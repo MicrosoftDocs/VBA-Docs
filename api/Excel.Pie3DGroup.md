@@ -3,7 +3,6 @@ title: Pie3DGroup property (Excel Graph)
 keywords: vbagr10.chm5207791
 f1_keywords:
 - vbagr10.chm5207791
-ms.prod: excel
 api_name:
 - Excel.Pie3DGroup
 ms.assetid: 85e3866d-a38e-9749-c732-1e2d95a76c21

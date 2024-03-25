@@ -3,7 +3,6 @@ title: Worksheet.PrintPreview method (Excel)
 keywords: vbaxl10.chm174088
 f1_keywords:
 - vbaxl10.chm174088
-ms.prod: excel
 api_name:
 - Excel.Worksheet.PrintPreview
 ms.assetid: e7065877-2ec9-01ba-4672-4b5a0a8459d2

@@ -3,7 +3,6 @@ title: CalculatedMember.Type property (Excel)
 keywords: vbaxl10.chm686080
 f1_keywords:
 - vbaxl10.chm686080
-ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Type
 ms.assetid: 7533bd2f-6e3b-12de-e01b-13e5fa1d78eb

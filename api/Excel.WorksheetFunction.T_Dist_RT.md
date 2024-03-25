@@ -3,7 +3,6 @@ title: WorksheetFunction.T_Dist_RT method (Excel)
 keywords: vbaxl10.chm137385
 f1_keywords:
 - vbaxl10.chm137385
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.T_Dist_RT
 ms.assetid: 2f512dbc-09bc-c14c-c5eb-c7283afb0147

@@ -3,7 +3,6 @@ title: Series.Paste method (Excel)
 keywords: vbaxl10.chm578100
 f1_keywords:
 - vbaxl10.chm578100
-ms.prod: excel
 api_name:
 - Excel.Series.Paste
 ms.assetid: 73e689cb-b2aa-61d7-e84c-113091d09a44

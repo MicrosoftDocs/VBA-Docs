@@ -1,6 +1,5 @@
 ---
 title: FillFormat.PictureEffects property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.PictureEffects
 ms.assetid: bb5e8d9d-a878-c8c4-b198-ef7269f837f0

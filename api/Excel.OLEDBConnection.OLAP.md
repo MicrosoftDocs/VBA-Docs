@@ -3,7 +3,6 @@ title: OLEDBConnection.OLAP property (Excel)
 keywords: vbaxl10.chm794093
 f1_keywords:
 - vbaxl10.chm794093
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.OLAP
 ms.assetid: 6ebbea3a-b4f1-bc80-f425-ce837182b299

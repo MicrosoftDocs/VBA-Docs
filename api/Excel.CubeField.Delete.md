@@ -3,7 +3,6 @@ title: CubeField.Delete method (Excel)
 keywords: vbaxl10.chm668093
 f1_keywords:
 - vbaxl10.chm668093
-ms.prod: excel
 api_name:
 - Excel.CubeField.Delete
 ms.assetid: bcbe57bc-879d-b6a4-27ae-ec87153b1111

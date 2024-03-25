@@ -3,7 +3,6 @@ title: OLEDBConnection.ServerSSOApplicationID property (Excel)
 keywords: vbaxl10.chm794098
 f1_keywords:
 - vbaxl10.chm794098
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerSSOApplicationID
 ms.assetid: 7feb84b6-cd30-86f2-a9af-31bca655f05d

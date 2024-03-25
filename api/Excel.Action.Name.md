@@ -3,7 +3,6 @@ title: Action.Name property (Excel)
 keywords: vbaxl10.chm798073
 f1_keywords:
 - vbaxl10.chm798073
-ms.prod: excel
 api_name:
 - Excel.Action.Name
 ms.assetid: 7ea3758d-1fd2-5b90-6fe8-66291fdb58d2

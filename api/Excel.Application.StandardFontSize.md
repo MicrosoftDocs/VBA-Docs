@@ -3,7 +3,6 @@ title: Application.StandardFontSize property (Excel)
 keywords: vbaxl10.chm133211
 f1_keywords:
 - vbaxl10.chm133211
-ms.prod: excel
 api_name:
 - Excel.Application.StandardFontSize
 ms.assetid: 368ae001-7471-d104-573a-fc97d761f75e

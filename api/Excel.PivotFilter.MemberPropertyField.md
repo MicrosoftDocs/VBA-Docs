@@ -3,7 +3,6 @@ title: PivotFilter.MemberPropertyField property (Excel)
 keywords: vbaxl10.chm770084
 f1_keywords:
 - vbaxl10.chm770084
-ms.prod: excel
 api_name:
 - Excel.PivotFilter.MemberPropertyField
 ms.assetid: 7150f189-5aee-b77b-0406-f35c8cc3c2eb

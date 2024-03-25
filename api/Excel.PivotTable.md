@@ -3,7 +3,6 @@ title: PivotTable object (Excel)
 keywords: vbaxl10.chm234072
 f1_keywords:
 - vbaxl10.chm234072
-ms.prod: excel
 api_name:
 - Excel.PivotTable
 ms.assetid: a9c1d4a0-78a9-f9a6-6daf-91cb63e45842

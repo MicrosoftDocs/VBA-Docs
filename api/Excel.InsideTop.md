@@ -3,7 +3,6 @@ title: InsideTop property (Excel Graph)
 keywords: vbagr10.chm67204
 f1_keywords:
 - vbagr10.chm67204
-ms.prod: excel
 api_name:
 - Excel.InsideTop
 ms.assetid: c91d9788-0eb4-02ed-48f0-2118d317b1ec

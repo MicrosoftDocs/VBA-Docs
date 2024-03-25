@@ -3,7 +3,6 @@ title: ListColumns.Creator property (Excel)
 keywords: vbaxl10.chm735074
 f1_keywords:
 - vbaxl10.chm735074
-ms.prod: excel
 api_name:
 - Excel.ListColumns.Creator
 ms.assetid: ef3305a9-c284-c008-d65f-68c7272da801

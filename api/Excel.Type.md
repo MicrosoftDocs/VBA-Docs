@@ -3,7 +3,6 @@ title: Type property (Excel Graph)
 keywords: vbagr10.chm3077596
 f1_keywords:
 - vbagr10.chm3077596
-ms.prod: excel
 api_name:
 - Excel.Type
 ms.assetid: 467e47f2-3c6e-d52d-0fc7-26f3bca7c6f2

@@ -3,7 +3,6 @@ title: CalloutFormat.Type property (Excel)
 keywords: vbaxl10.chm104015
 f1_keywords:
 - vbaxl10.chm104015
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Type
 ms.assetid: f357bfcb-2875-4d2b-b303-c0cd03f2645d

@@ -3,7 +3,6 @@ title: Top10.TopBottom property (Excel)
 keywords: vbaxl10.chm822076
 f1_keywords:
 - vbaxl10.chm822076
-ms.prod: excel
 api_name:
 - Excel.Top10.TopBottom
 ms.assetid: 8ab43085-677e-1883-5f88-4194f4027f2b

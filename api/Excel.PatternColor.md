@@ -3,7 +3,6 @@ title: PatternColor property (Excel Graph)
 keywords: vbagr10.chm5207763
 f1_keywords:
 - vbagr10.chm5207763
-ms.prod: excel
 api_name:
 - Excel.PatternColor
 ms.assetid: f57dafd5-7690-67cd-013e-1cf31c26b570

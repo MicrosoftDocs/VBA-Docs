@@ -3,7 +3,6 @@ title: Mailer.BCCRecipients property (Excel)
 keywords: vbaxl10.chm499073
 f1_keywords:
 - vbaxl10.chm499073
-ms.prod: excel
 api_name:
 - Excel.Mailer.BCCRecipients
 ms.assetid: 68ddc18b-d96e-4e88-1123-8b3d94fb9209

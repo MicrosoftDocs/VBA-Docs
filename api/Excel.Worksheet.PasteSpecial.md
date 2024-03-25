@@ -3,7 +3,6 @@ title: Worksheet.PasteSpecial method (Excel)
 keywords: vbaxl10.chm175155
 f1_keywords:
 - vbaxl10.chm175155
-ms.prod: excel
 api_name:
 - Excel.Worksheet.PasteSpecial
 ms.assetid: 8fa41a45-e3d1-29e0-3968-877bcfdf4b57

@@ -3,7 +3,6 @@ title: WebOptions.ScreenSize property (Excel)
 keywords: vbaxl10.chm662079
 f1_keywords:
 - vbaxl10.chm662079
-ms.prod: excel
 api_name:
 - Excel.WebOptions.ScreenSize
 ms.assetid: aa1e98a6-57ca-f39d-157f-78156f3bad0d

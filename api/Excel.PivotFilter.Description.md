@@ -3,7 +3,6 @@ title: PivotFilter.Description property (Excel)
 keywords: vbaxl10.chm770076
 f1_keywords:
 - vbaxl10.chm770076
-ms.prod: excel
 api_name:
 - Excel.PivotFilter.Description
 ms.assetid: b49950e5-3ed9-e11c-66b6-a11d615b9ab0

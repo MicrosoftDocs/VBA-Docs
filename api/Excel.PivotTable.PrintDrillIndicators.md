@@ -3,7 +3,6 @@ title: PivotTable.PrintDrillIndicators property (Excel)
 keywords: vbaxl10.chm235159
 f1_keywords:
 - vbaxl10.chm235159
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PrintDrillIndicators
 ms.assetid: d0b90ecf-46f9-a85b-48af-d03eadbad090

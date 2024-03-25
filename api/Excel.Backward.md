@@ -3,7 +3,6 @@ title: Backward property (Excel Graph)
 keywords: vbagr10.chm65721
 f1_keywords:
 - vbagr10.chm65721
-ms.prod: excel
 api_name:
 - Excel.Backward
 ms.assetid: a92f33cb-45cd-baea-57e1-d76f44b041cb

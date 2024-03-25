@@ -1,6 +1,5 @@
 ---
 title: XlPlatform enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPlatform
 ms.assetid: 4713eb61-5228-b5ce-b8dc-23964d948285

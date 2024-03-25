@@ -3,7 +3,6 @@ title: WorksheetFunction.FTest method (Excel)
 keywords: vbaxl10.chm137214
 f1_keywords:
 - vbaxl10.chm137214
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FTest
 ms.assetid: e1f01a38-2957-a97c-d84b-f6efdec88631

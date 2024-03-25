@@ -3,7 +3,6 @@ title: WorksheetFunction.Bitrshift method (Excel)
 keywords: vbaxl10.chm137439
 f1_keywords:
 - vbaxl10.chm137439
-ms.prod: excel
 ms.assetid: f24a99b8-79aa-ce4d-5dff-d69a4b46e0bd
 ms.date: 05/22/2019
 ms.localizationpriority: medium

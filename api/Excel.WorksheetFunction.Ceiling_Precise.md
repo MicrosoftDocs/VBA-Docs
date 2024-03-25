@@ -3,7 +3,6 @@ title: WorksheetFunction.Ceiling_Precise method (Excel)
 keywords: vbaxl10.chm137419
 f1_keywords:
 - vbaxl10.chm137419
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ceiling_Precise
 ms.assetid: 638b4577-fd80-bd94-9a31-84fe4f3ff9d0

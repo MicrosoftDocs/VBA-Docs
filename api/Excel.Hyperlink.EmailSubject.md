@@ -3,7 +3,6 @@ title: Hyperlink.EmailSubject property (Excel)
 keywords: vbaxl10.chm536083
 f1_keywords:
 - vbaxl10.chm536083
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.EmailSubject
 ms.assetid: 3fe6d6a1-8184-8ef5-eb6e-b96ce9732dbd

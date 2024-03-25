@@ -3,7 +3,6 @@ title: IconCriterion.Operator property (Excel)
 keywords: vbaxl10.chm814076
 f1_keywords:
 - vbaxl10.chm814076
-ms.prod: excel
 api_name:
 - Excel.IconCriterion.Operator
 ms.assetid: 8c6cb2ee-5ff7-8119-028d-c95505524705

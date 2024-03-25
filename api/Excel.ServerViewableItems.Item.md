@@ -3,7 +3,6 @@ title: ServerViewableItems.Item method (Excel)
 keywords: vbaxl10.chm833077
 f1_keywords:
 - vbaxl10.chm833077
-ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.Item
 ms.assetid: ea1a01ef-7b2f-485d-2526-0b1025a9b9fd

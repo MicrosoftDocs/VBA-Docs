@@ -3,7 +3,6 @@ title: Application.FileDialog property (Excel)
 keywords: vbaxl10.chm133270
 f1_keywords:
 - vbaxl10.chm133270
-ms.prod: excel
 api_name:
 - Excel.Application.FileDialog
 ms.assetid: 96a6fdc5-1bde-68dd-2493-9d8a92915afb

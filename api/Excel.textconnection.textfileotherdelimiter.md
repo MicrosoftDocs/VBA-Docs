@@ -3,7 +3,6 @@ title: TextConnection.TextFileOtherDelimiter property (Excel)
 keywords: vbaxl10.chm926080
 f1_keywords:
 - vbaxl10.chm926080
-ms.prod: excel
 ms.assetid: 1d3447d6-223b-1aec-291d-01b19622879d
 ms.date: 05/17/2019
 ms.localizationpriority: medium

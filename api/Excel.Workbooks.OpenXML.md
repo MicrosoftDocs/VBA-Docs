@@ -3,7 +3,6 @@ title: Workbooks.OpenXML method (Excel)
 keywords: vbaxl10.chm203088
 f1_keywords:
 - vbaxl10.chm203088
-ms.prod: excel
 api_name:
 - Excel.Workbooks.OpenXML
 ms.assetid: c16a7842-19e9-6731-146e-038322c248ba

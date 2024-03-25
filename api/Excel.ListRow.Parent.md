@@ -3,7 +3,6 @@ title: ListRow.Parent property (Excel)
 keywords: vbaxl10.chm741075
 f1_keywords:
 - vbaxl10.chm741075
-ms.prod: excel
 api_name:
 - Excel.ListRow.Parent
 ms.assetid: fd49742d-66ad-3aa5-e66e-818d0897d510

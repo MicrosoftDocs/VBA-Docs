@@ -3,7 +3,6 @@ title: ThreeDFormat.SetExtrusionDirection method (Excel)
 keywords: vbaxl10.chm119004
 f1_keywords:
 - vbaxl10.chm119004
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.SetExtrusionDirection
 ms.assetid: 363c3150-fa6d-fcb3-d61d-00a36b528387

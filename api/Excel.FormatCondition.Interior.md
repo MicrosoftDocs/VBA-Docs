@@ -3,7 +3,6 @@ title: FormatCondition.Interior property (Excel)
 keywords: vbaxl10.chm512078
 f1_keywords:
 - vbaxl10.chm512078
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.Interior
 ms.assetid: 3d1dab0b-719e-791c-c22a-61b273f2ade0

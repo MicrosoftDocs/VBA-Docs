@@ -3,7 +3,6 @@ title: PivotField.LayoutForm property (Excel)
 keywords: vbaxl10.chm240122
 f1_keywords:
 - vbaxl10.chm240122
-ms.prod: excel
 api_name:
 - Excel.PivotField.LayoutForm
 ms.assetid: 5e0fee89-111f-0bd4-e880-72cc0925c364

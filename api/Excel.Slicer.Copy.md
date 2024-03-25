@@ -3,7 +3,6 @@ title: Slicer.Copy method (Excel)
 keywords: vbaxl10.chm905091
 f1_keywords:
 - vbaxl10.chm905091
-ms.prod: excel
 api_name:
 - Excel.Slicer.Copy
 ms.assetid: 265e7819-db8b-deab-5ab1-2cc9782cd800

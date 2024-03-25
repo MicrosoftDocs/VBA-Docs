@@ -3,7 +3,6 @@ title: Application.DDEInitiate method (Excel)
 keywords: vbaxl10.chm132090
 f1_keywords:
 - vbaxl10.chm132090
-ms.prod: excel
 api_name:
 - Excel.Application.DDEInitiate
 ms.assetid: 4b14e2ee-d7b0-a028-42a7-0809fa381f7e

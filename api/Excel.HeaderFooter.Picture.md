@@ -3,7 +3,6 @@ title: HeaderFooter.Picture property (Excel)
 keywords: vbaxl10.chm829074
 f1_keywords:
 - vbaxl10.chm829074
-ms.prod: excel
 api_name:
 - Excel.HeaderFooter.Picture
 ms.assetid: 53a27cb0-510e-1893-a759-d8cd976d35a3

@@ -3,7 +3,6 @@ title: WorksheetFunction.Floor_Precise method (Excel)
 keywords: vbaxl10.chm137420
 f1_keywords:
 - vbaxl10.chm137420
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Floor_Precise
 ms.assetid: 003159fa-9397-a648-67aa-5751c93e3c92

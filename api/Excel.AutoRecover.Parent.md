@@ -3,7 +3,6 @@ title: AutoRecover.Parent property (Excel)
 keywords: vbaxl10.chm695075
 f1_keywords:
 - vbaxl10.chm695075
-ms.prod: excel
 api_name:
 - Excel.AutoRecover.Parent
 ms.assetid: 8e145467-47d2-0038-808d-a7c6765bab6b

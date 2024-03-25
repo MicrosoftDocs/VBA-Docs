@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.PathFormat property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.PathFormat
 ms.assetid: 176d0ca9-c633-2056-a83a-c5db70fd0fcf

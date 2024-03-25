@@ -3,7 +3,6 @@ title: Trendline.NameIsAuto property (Excel)
 keywords: vbaxl10.chm594086
 f1_keywords:
 - vbaxl10.chm594086
-ms.prod: excel
 api_name:
 - Excel.Trendline.NameIsAuto
 ms.assetid: 4e14cc52-a9f5-3dda-8be9-7afd97d79583

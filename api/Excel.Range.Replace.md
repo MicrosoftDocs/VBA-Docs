@@ -3,7 +3,6 @@ title: Range.Replace method (Excel)
 keywords: vbaxl10.chm144186
 f1_keywords:
 - vbaxl10.chm144186
-ms.prod: excel
 api_name:
 - Excel.Range.Replace
 ms.assetid: 12647334-f911-69e4-de31-b4df2722eff3

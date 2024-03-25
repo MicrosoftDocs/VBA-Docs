@@ -3,7 +3,6 @@ title: XmlDataBinding.Creator property (Excel)
 keywords: vbaxl10.chm747074
 f1_keywords:
 - vbaxl10.chm747074
-ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.Creator
 ms.assetid: 1d03c514-abed-3987-0f5a-652f5befe972

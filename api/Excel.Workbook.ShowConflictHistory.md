@@ -3,7 +3,6 @@ title: Workbook.ShowConflictHistory property (Excel)
 keywords: vbaxl10.chm199153
 f1_keywords:
 - vbaxl10.chm199153
-ms.prod: excel
 api_name:
 - Excel.Workbook.ShowConflictHistory
 ms.assetid: d8588b9e-3e4b-6224-aaa7-ce0b63ff0607

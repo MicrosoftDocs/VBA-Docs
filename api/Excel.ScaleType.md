@@ -3,7 +3,6 @@ title: ScaleType property (Excel Graph)
 keywords: vbagr10.chm3077583
 f1_keywords:
 - vbagr10.chm3077583
-ms.prod: excel
 api_name:
 - Excel.ScaleType
 ms.assetid: 500fa5e4-4e19-bdd4-fa28-4dcba763c8a7

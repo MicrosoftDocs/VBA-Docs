@@ -3,7 +3,6 @@ title: Axis.AxisBetweenCategories property (Excel)
 keywords: vbaxl10.chm561073
 f1_keywords:
 - vbaxl10.chm561073
-ms.prod: excel
 api_name:
 - Excel.Axis.AxisBetweenCategories
 ms.assetid: 03a2d87b-1fbd-470d-01d2-e4156dae55e2

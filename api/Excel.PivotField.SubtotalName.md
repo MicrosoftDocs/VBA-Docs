@@ -3,7 +3,6 @@ title: PivotField.SubtotalName property (Excel)
 keywords: vbaxl10.chm240123
 f1_keywords:
 - vbaxl10.chm240123
-ms.prod: excel
 api_name:
 - Excel.PivotField.SubtotalName
 ms.assetid: db2f8366-75a4-edca-f46f-f0bff083ccbe

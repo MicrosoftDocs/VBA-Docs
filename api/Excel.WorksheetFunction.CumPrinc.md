@@ -3,7 +3,6 @@ title: WorksheetFunction.CumPrinc method (Excel)
 keywords: vbaxl10.chm137323
 f1_keywords:
 - vbaxl10.chm137323
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CumPrinc
 ms.assetid: 6e561b97-97e2-11d8-0240-86fe374044ca

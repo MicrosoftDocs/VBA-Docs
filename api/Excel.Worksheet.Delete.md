@@ -3,7 +3,6 @@ title: Worksheet.Delete method (Excel)
 keywords: vbaxl10.chm174075
 f1_keywords:
 - vbaxl10.chm174075
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Delete
 ms.assetid: a51e1673-e09d-824f-1acc-dda18c120204

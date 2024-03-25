@@ -3,7 +3,6 @@ title: Style.ShrinkToFit property (Excel)
 keywords: vbaxl10.chm177095
 f1_keywords:
 - vbaxl10.chm177095
-ms.prod: excel
 api_name:
 - Excel.Style.ShrinkToFit
 ms.assetid: c55d2aae-8289-5617-9eab-1877b8b0a6c7

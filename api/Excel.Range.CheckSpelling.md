@@ -3,7 +3,6 @@ title: Range.CheckSpelling method (Excel)
 keywords: vbaxl10.chm144093
 f1_keywords:
 - vbaxl10.chm144093
-ms.prod: excel
 api_name:
 - Excel.Range.CheckSpelling
 ms.assetid: 22540515-0b0f-ce3c-0145-e46d477d1b5f

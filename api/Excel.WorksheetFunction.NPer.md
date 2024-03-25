@@ -3,7 +3,6 @@ title: WorksheetFunction.NPer method (Excel)
 keywords: vbaxl10.chm137109
 f1_keywords:
 - vbaxl10.chm137109
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NPer
 ms.assetid: ea610791-bed5-d2d3-6405-6372f46e28d8

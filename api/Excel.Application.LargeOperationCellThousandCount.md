@@ -3,7 +3,6 @@ title: Application.LargeOperationCellThousandCount property (Excel)
 keywords: vbaxl10.chm133312
 f1_keywords:
 - vbaxl10.chm133312
-ms.prod: excel
 api_name:
 - Excel.Application.LargeOperationCellThousandCount
 ms.assetid: f6140665-a5ec-bf17-c290-9e52686f605b

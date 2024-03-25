@@ -3,7 +3,6 @@ title: PivotTable.Parent property (Excel)
 keywords: vbaxl10.chm234075
 f1_keywords:
 - vbaxl10.chm234075
-ms.prod: excel
 api_name:
 - Excel.PivotTable.Parent
 ms.assetid: 2010af74-3a20-144b-c7ae-11acdb060e9d

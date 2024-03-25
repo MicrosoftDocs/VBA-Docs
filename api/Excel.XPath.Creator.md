@@ -3,7 +3,6 @@ title: XPath.Creator property (Excel)
 keywords: vbaxl10.chm759074
 f1_keywords:
 - vbaxl10.chm759074
-ms.prod: excel
 api_name:
 - Excel.XPath.Creator
 ms.assetid: 845511a6-088b-0bba-a17c-3adf9baf65d8

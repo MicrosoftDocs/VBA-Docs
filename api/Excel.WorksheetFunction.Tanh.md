@@ -3,7 +3,6 @@ title: WorksheetFunction.Tanh method (Excel)
 keywords: vbaxl10.chm137166
 f1_keywords:
 - vbaxl10.chm137166
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Tanh
 ms.assetid: a44229a8-a682-9ecf-74be-d5a6820e4fef

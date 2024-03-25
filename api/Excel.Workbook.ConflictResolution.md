@@ -3,7 +3,6 @@ title: Workbook.ConflictResolution property (Excel)
 keywords: vbaxl10.chm199091
 f1_keywords:
 - vbaxl10.chm199091
-ms.prod: excel
 api_name:
 - Excel.Workbook.ConflictResolution
 ms.assetid: 5142c848-0731-14d9-5913-bbaa67bf308f

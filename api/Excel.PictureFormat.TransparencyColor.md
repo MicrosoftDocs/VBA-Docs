@@ -3,7 +3,6 @@ title: PictureFormat.TransparencyColor property (Excel)
 keywords: vbaxl10.chm113009
 f1_keywords:
 - vbaxl10.chm113009
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.TransparencyColor
 ms.assetid: c3a7a247-0cc2-adc8-e13f-a1f4ff728ba0

@@ -3,7 +3,6 @@ title: Validation.Value property (Excel)
 keywords: vbaxl10.chm532090
 f1_keywords:
 - vbaxl10.chm532090
-ms.prod: excel
 api_name:
 - Excel.Validation.Value
 ms.assetid: 8c1e3946-ea57-4aa7-5f1d-be9e6a2c8f77

@@ -5,7 +5,6 @@ f1_keywords:
 - vbaxl10.chm992073
 ms.assetid: 70cf2e5b-d7e1-d259-a7b8-188dfa0387d1
 ms.date: 05/01/2019
-ms.prod: excel
 ms.localizationpriority: medium
 ---
 

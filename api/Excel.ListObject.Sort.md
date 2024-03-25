@@ -3,7 +3,6 @@ title: ListObject.Sort property (Excel)
 keywords: vbaxl10.chm734105
 f1_keywords:
 - vbaxl10.chm734105
-ms.prod: excel
 api_name:
 - Excel.ListObject.Sort
 ms.assetid: 92c96e0f-354f-231a-ccff-8ff1a3049ddf

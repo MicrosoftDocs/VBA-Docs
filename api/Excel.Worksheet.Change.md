@@ -3,7 +3,6 @@ title: Worksheet.Change event (Excel)
 keywords: vbaxl10.chm502079
 f1_keywords:
 - vbaxl10.chm502079
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Change
 ms.assetid: d9e11d08-41ba-f0a8-dc55-6c6cd4e76dd0

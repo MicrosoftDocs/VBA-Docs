@@ -3,7 +3,6 @@ title: Protection.AllowDeletingRows property (Excel)
 keywords: vbaxl10.chm719080
 f1_keywords:
 - vbaxl10.chm719080
-ms.prod: excel
 api_name:
 - Excel.Protection.AllowDeletingRows
 ms.assetid: da418f4e-ca3e-b0f2-4b12-fe578b0bf20b

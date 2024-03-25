@@ -3,7 +3,6 @@ title: ControlFormat.ListFillRange property (Excel)
 keywords: vbaxl10.chm630082
 f1_keywords:
 - vbaxl10.chm630082
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.ListFillRange
 ms.assetid: 1004b4a7-9315-7736-a71b-1d94d229fd7e

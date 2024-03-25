@@ -3,7 +3,6 @@ title: Parameter.RefreshOnChange property (Excel)
 keywords: vbaxl10.chm523080
 f1_keywords:
 - vbaxl10.chm523080
-ms.prod: excel
 api_name:
 - Excel.Parameter.RefreshOnChange
 ms.assetid: 60e01ae1-82bd-e4eb-6ac7-805ffd05a811

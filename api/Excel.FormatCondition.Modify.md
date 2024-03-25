@@ -3,7 +3,6 @@ title: FormatCondition.Modify method (Excel)
 keywords: vbaxl10.chm512082
 f1_keywords:
 - vbaxl10.chm512082
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.Modify
 ms.assetid: a0dec05c-898d-87c9-9413-9182d31f6ed0

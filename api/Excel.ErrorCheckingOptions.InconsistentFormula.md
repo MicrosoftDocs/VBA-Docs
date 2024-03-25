@@ -3,7 +3,6 @@ title: ErrorCheckingOptions.InconsistentFormula property (Excel)
 keywords: vbaxl10.chm698078
 f1_keywords:
 - vbaxl10.chm698078
-ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.InconsistentFormula
 ms.assetid: 84e482f8-9995-eb26-c4c2-8b258ac1ef9c

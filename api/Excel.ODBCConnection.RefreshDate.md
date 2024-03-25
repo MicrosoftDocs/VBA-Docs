@@ -3,7 +3,6 @@ title: ODBCConnection.RefreshDate property (Excel)
 keywords: vbaxl10.chm796080
 f1_keywords:
 - vbaxl10.chm796080
-ms.prod: excel
 api_name:
 - Excel.ODBCConnection.RefreshDate
 ms.assetid: aba86ae7-f160-6d41-f2f4-17fcac66972f

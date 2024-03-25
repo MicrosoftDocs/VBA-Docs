@@ -3,7 +3,6 @@ title: Walls.Thickness property (Excel)
 keywords: vbaxl10.chm614083
 f1_keywords:
 - vbaxl10.chm614083
-ms.prod: excel
 api_name:
 - Excel.Walls.Thickness
 ms.assetid: b26340d2-e6fc-88cf-47af-b0e0250c492e

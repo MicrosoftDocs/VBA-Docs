@@ -1,6 +1,5 @@
 ---
 title: XlDupeUnique enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlDupeUnique
 ms.assetid: 73c1d82e-3932-aa1e-bf34-d01373c4c264

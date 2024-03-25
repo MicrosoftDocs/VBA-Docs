@@ -3,7 +3,6 @@ title: Range.EntireColumn property (Excel)
 keywords: vbaxl10.chm144122
 f1_keywords:
 - vbaxl10.chm144122
-ms.prod: excel
 api_name:
 - Excel.Range.EntireColumn
 ms.assetid: 7be55670-75fd-fb02-dc1a-9d70e3a9d80d

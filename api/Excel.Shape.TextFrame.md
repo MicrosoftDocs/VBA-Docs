@@ -3,7 +3,6 @@ title: Shape.TextFrame property (Excel)
 keywords: vbaxl10.chm636090
 f1_keywords:
 - vbaxl10.chm636090
-ms.prod: excel
 api_name:
 - Excel.Shape.TextFrame
 ms.assetid: cc2fbe92-e0c4-f0d5-52a3-a675d4baf573

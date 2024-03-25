@@ -3,7 +3,6 @@ title: Worksheet.XmlMapQuery method (Excel)
 keywords: vbaxl10.chm175159
 f1_keywords:
 - vbaxl10.chm175159
-ms.prod: excel
 api_name:
 - Excel.Worksheet.XmlMapQuery
 ms.assetid: ac1d20f4-92ad-110e-00be-0fe4e098cb35

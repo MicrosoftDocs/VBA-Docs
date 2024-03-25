@@ -3,7 +3,6 @@ title: DataBar.ScopeType property (Excel)
 keywords: vbaxl10.chm810089
 f1_keywords:
 - vbaxl10.chm810089
-ms.prod: excel
 api_name:
 - Excel.DataBar.ScopeType
 ms.assetid: 48beed57-26f0-3846-65f0-3d8edd44a8a2

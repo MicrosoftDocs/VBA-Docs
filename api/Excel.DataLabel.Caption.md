@@ -3,7 +3,6 @@ title: DataLabel.Caption property (Excel)
 keywords: vbaxl10.chm582080
 f1_keywords:
 - vbaxl10.chm582080
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Caption
 ms.assetid: d67910da-d357-39c1-83f0-471eda2ee0fc

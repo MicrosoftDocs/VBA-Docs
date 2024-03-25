@@ -3,7 +3,6 @@ title: Worksheet.CircleInvalid method (Excel)
 keywords: vbaxl10.chm175142
 f1_keywords:
 - vbaxl10.chm175142
-ms.prod: excel
 api_name:
 - Excel.Worksheet.CircleInvalid
 ms.assetid: d0e697a4-0c8a-bf2a-06a1-e162696a64dd

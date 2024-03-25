@@ -3,7 +3,6 @@ title: PivotItem.Position property (Excel)
 keywords: vbaxl10.chm246081
 f1_keywords:
 - vbaxl10.chm246081
-ms.prod: excel
 api_name:
 - Excel.PivotItem.Position
 ms.assetid: 07e78622-f869-40d0-276a-b015ebe7a90f

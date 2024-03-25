@@ -3,7 +3,6 @@ title: IRTDUpdateEvent.UpdateNotify method (Excel)
 keywords: vbaxl10.chm500001
 f1_keywords:
 - vbaxl10.chm500001
-ms.prod: excel
 api_name:
 - Excel.IRTDUpdateEvent.UpdateNotify
 ms.assetid: e3ae5a7e-4d8c-9eba-62ab-a24d1045bc77

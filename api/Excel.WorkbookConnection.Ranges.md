@@ -3,7 +3,6 @@ title: WorkbookConnection.Ranges property (Excel)
 keywords: vbaxl10.chm774079
 f1_keywords:
 - vbaxl10.chm774079
-ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Ranges
 ms.assetid: 639d15c2-44ae-6f6c-c876-1514e3ab7bb0

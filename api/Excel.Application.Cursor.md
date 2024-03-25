@@ -3,7 +3,6 @@ title: Application.Cursor property (Excel)
 keywords: vbaxl10.chm133099
 f1_keywords:
 - vbaxl10.chm133099
-ms.prod: excel
 api_name:
 - Excel.Application.Cursor
 ms.assetid: 5137b89d-aba9-3e5f-b6c4-cd2264a7bd7f

@@ -1,6 +1,5 @@
 ---
 title: XlGenerateTableRefs enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlGenerateTableRefs
 ms.assetid: da4ce34c-3d2c-1d03-ac1e-e2e1236160f5

@@ -1,6 +1,5 @@
 ---
 title: Model.CreateModelWorkbookConnection method (Excel)
-ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
 ms.date: 04/30/2019
 ms.localizationpriority: medium

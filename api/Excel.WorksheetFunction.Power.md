@@ -3,7 +3,6 @@ title: WorksheetFunction.Power method (Excel)
 keywords: vbaxl10.chm137237
 f1_keywords:
 - vbaxl10.chm137237
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Power
 ms.assetid: 5c8b0c32-1afb-8bc3-923f-8f71eb88d43f

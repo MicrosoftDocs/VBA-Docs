@@ -3,7 +3,6 @@ title: Window.Visible property (Excel)
 keywords: vbaxl10.chm356121
 f1_keywords:
 - vbaxl10.chm356121
-ms.prod: excel
 api_name:
 - Excel.Window.Visible
 ms.assetid: c075d99a-eebd-f70d-51a0-e2b8d60457ec

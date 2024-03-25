@@ -3,7 +3,6 @@ title: DataBar.MaxPoint property (Excel)
 keywords: vbaxl10.chm810077
 f1_keywords:
 - vbaxl10.chm810077
-ms.prod: excel
 api_name:
 - Excel.DataBar.MaxPoint
 ms.assetid: d4b149f8-c245-40fa-bb89-a32d07354679

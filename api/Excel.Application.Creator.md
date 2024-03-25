@@ -3,7 +3,6 @@ title: Application.Creator property (Excel)
 keywords: vbaxl10.chm182074
 f1_keywords:
 - vbaxl10.chm182074
-ms.prod: excel
 api_name:
 - Excel.Application.Creator
 ms.assetid: 92ceed4a-4e47-18d5-6023-f1018eefd071

@@ -3,7 +3,6 @@ title: CommentThreaded.AddReply method (Excel)
 keywords: vbaxl10.chm1010073
 f1_keywords:
 - vbaxl10.chm1010073
-ms.prod: excel
 api_name:
 - Excel.CommentThreaded.AddReply
 ms.date: 06/27/2019

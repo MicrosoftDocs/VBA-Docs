@@ -3,7 +3,6 @@ title: SurfaceGroup property (Excel Graph)
 keywords: vbagr10.chm65558
 f1_keywords:
 - vbagr10.chm65558
-ms.prod: excel
 api_name:
 - Excel.SurfaceGroup
 ms.assetid: f22bfac3-6c3c-0c82-8ca5-e167dd01e132

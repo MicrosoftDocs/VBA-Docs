@@ -3,7 +3,6 @@ title: Chart.ApplyLayout method (Excel)
 keywords: vbaxl10.chm149174
 f1_keywords:
 - vbaxl10.chm149174
-ms.prod: excel
 api_name:
 - Excel.Chart.ApplyLayout
 ms.assetid: 0e07936d-c179-9b38-a6d4-1d71d1c5af3b

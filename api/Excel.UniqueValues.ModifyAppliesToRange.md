@@ -3,7 +3,6 @@ title: UniqueValues.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm826085
 f1_keywords:
 - vbaxl10.chm826085
-ms.prod: excel
 api_name:
 - Excel.UniqueValues.ModifyAppliesToRange
 ms.assetid: cde80c4b-747a-9bc8-d09f-748d57999bac

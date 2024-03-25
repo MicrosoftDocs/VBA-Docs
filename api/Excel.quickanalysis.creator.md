@@ -3,7 +3,6 @@ title: QuickAnalysis.Creator property (Excel)
 keywords: vbaxl10.chm919074
 f1_keywords:
 - vbaxl10.chm919074
-ms.prod: excel
 ms.assetid: 85a25f1f-7018-9c9b-6ae4-0fd052971b70
 ms.date: 05/10/2019
 ms.localizationpriority: medium

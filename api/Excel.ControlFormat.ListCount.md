@@ -3,7 +3,6 @@ title: ControlFormat.ListCount property (Excel)
 keywords: vbaxl10.chm630081
 f1_keywords:
 - vbaxl10.chm630081
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.ListCount
 ms.assetid: 9f7b60aa-8bf9-a7ec-c198-0a6f6316cc3c

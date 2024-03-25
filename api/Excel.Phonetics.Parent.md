@@ -3,7 +3,6 @@ title: Phonetics.Parent property (Excel)
 keywords: vbaxl10.chm657075
 f1_keywords:
 - vbaxl10.chm657075
-ms.prod: excel
 api_name:
 - Excel.Phonetics.Parent
 ms.assetid: 59535bff-bcd4-f928-7cc1-798e56f7b343

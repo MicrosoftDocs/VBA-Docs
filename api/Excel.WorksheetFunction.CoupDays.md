@@ -3,7 +3,6 @@ title: WorksheetFunction.CoupDays method (Excel)
 keywords: vbaxl10.chm137329
 f1_keywords:
 - vbaxl10.chm137329
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CoupDays
 ms.assetid: 74749ba5-884c-2c13-30ab-fe9b6fb456ca

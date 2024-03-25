@@ -3,7 +3,6 @@ title: Connections.Item method (Excel)
 keywords: vbaxl10.chm776076
 f1_keywords:
 - vbaxl10.chm776076
-ms.prod: excel
 api_name:
 - Excel.Connections.Item
 ms.assetid: b3739d85-7677-0afe-b81a-1b9987cfb903

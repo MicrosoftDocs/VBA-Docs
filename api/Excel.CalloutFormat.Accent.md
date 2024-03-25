@@ -3,7 +3,6 @@ title: CalloutFormat.Accent property (Excel)
 keywords: vbaxl10.chm104006
 f1_keywords:
 - vbaxl10.chm104006
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Accent
 ms.assetid: 9dce6821-47df-174d-c7f3-7edad9fcf77d

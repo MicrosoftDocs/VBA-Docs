@@ -3,7 +3,6 @@ title: ShowValue property (Excel Graph)
 keywords: vbagr10.chm67468
 f1_keywords:
 - vbagr10.chm67468
-ms.prod: excel
 api_name:
 - Excel.ShowValue
 ms.assetid: 43e4380c-8e28-627e-6211-f1bd96d9d47f

@@ -3,7 +3,6 @@ title: Working with shapes (drawing objects)
 keywords: vbaxl10.chm5206010
 f1_keywords:
 - vbaxl10.chm5206010
-ms.prod: excel
 ms.assetid: aef5dc81-d54f-a01a-f949-a30688a3cf23
 ms.date: 11/13/2018
 ms.localizationpriority: medium

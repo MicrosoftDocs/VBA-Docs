@@ -3,7 +3,6 @@ title: TickLabels object (Excel)
 keywords: vbaxl10.chm615072
 f1_keywords:
 - vbaxl10.chm615072
-ms.prod: excel
 api_name:
 - Excel.TickLabels
 ms.assetid: fcb02bc5-fcdc-db32-168b-2d40e5552991

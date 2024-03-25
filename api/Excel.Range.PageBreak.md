@@ -3,7 +3,6 @@ title: Range.PageBreak property (Excel)
 keywords: vbaxl10.chm144172
 f1_keywords:
 - vbaxl10.chm144172
-ms.prod: excel
 api_name:
 - Excel.Range.PageBreak
 ms.assetid: 0bec0bba-c2c3-33cd-b39e-55971177c2c8

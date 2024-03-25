@@ -3,7 +3,6 @@ title: Chart.HasDataTable property (Excel)
 keywords: vbaxl10.chm149114
 f1_keywords:
 - vbaxl10.chm149114
-ms.prod: excel
 api_name:
 - Excel.Chart.HasDataTable
 ms.assetid: c29e7606-086e-8549-2259-332d30c1846a

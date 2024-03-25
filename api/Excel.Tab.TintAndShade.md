@@ -3,7 +3,6 @@ title: Tab.TintAndShade property (Excel)
 keywords: vbaxl10.chm723076
 f1_keywords:
 - vbaxl10.chm723076
-ms.prod: excel
 api_name:
 - Excel.Tab.TintAndShade
 ms.assetid: be8ee335-fcf0-2091-89c1-973f54aba2c4

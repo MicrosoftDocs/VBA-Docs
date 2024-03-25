@@ -3,7 +3,6 @@ title: ServerViewableItems.Creator property (Excel)
 keywords: vbaxl10.chm832074
 f1_keywords:
 - vbaxl10.chm832074
-ms.prod: excel
 api_name:
 - Excel.ServerViewableItems.Creator
 ms.assetid: ebc56118-1d24-45ee-b2a1-2fc59095a4e7

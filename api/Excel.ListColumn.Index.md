@@ -3,7 +3,6 @@ title: ListColumn.Index property (Excel)
 keywords: vbaxl10.chm738076
 f1_keywords:
 - vbaxl10.chm738076
-ms.prod: excel
 api_name:
 - Excel.ListColumn.Index
 ms.assetid: 11e15859-c690-84c0-21de-73834d8738e4

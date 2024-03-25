@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Delete method (Excel)
 keywords: vbaxl10.chm673076
 f1_keywords:
 - vbaxl10.chm673076
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Delete
 ms.assetid: 8f1200ad-ceba-c761-3abd-d2ac1ac1f4e2

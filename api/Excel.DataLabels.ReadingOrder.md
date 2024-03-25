@@ -3,7 +3,6 @@ title: DataLabels.ReadingOrder property (Excel)
 keywords: vbaxl10.chm584090
 f1_keywords:
 - vbaxl10.chm584090
-ms.prod: excel
 api_name:
 - Excel.DataLabels.ReadingOrder
 ms.assetid: 84ed6973-54e4-b1ff-1aa4-b6032ca528a4

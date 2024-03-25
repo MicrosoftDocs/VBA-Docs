@@ -3,7 +3,6 @@ title: Scenarios.CreateSummary method (Excel)
 keywords: vbaxl10.chm362075
 f1_keywords:
 - vbaxl10.chm362075
-ms.prod: excel
 api_name:
 - Excel.Scenarios.CreateSummary
 ms.assetid: b223ad02-cd11-7adc-2144-5c6dd1683427

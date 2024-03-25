@@ -3,7 +3,6 @@ title: Adjustments object (Excel)
 keywords: vbaxl10.chm103000
 f1_keywords:
 - vbaxl10.chm103000
-ms.prod: excel
 api_name:
 - Excel.Adjustments
 ms.assetid: c69c4bbf-5687-f453-e238-28d4b98d4808

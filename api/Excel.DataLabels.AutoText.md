@@ -3,7 +3,6 @@ title: DataLabels.AutoText property (Excel)
 keywords: vbaxl10.chm584092
 f1_keywords:
 - vbaxl10.chm584092
-ms.prod: excel
 api_name:
 - Excel.DataLabels.AutoText
 ms.assetid: 3155a424-b25d-8f0c-f252-d371203f52fa

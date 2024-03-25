@@ -3,7 +3,6 @@ title: Worksheet.ClearArrows method (Excel)
 keywords: vbaxl10.chm175085
 f1_keywords:
 - vbaxl10.chm175085
-ms.prod: excel
 api_name:
 - Excel.Worksheet.ClearArrows
 ms.assetid: 32b99665-1ac9-9b5d-f009-211a668d6fa6

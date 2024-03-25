@@ -3,7 +3,6 @@ title: LegendKey.Delete method (Excel)
 keywords: vbaxl10.chm590076
 f1_keywords:
 - vbaxl10.chm590076
-ms.prod: excel
 api_name:
 - Excel.LegendKey.Delete
 ms.assetid: b93ad1e1-48d2-8076-7151-b43b27faa773

@@ -3,7 +3,6 @@ title: ChartObject.ShapeRange property (Excel)
 keywords: vbaxl10.chm494097
 f1_keywords:
 - vbaxl10.chm494097
-ms.prod: excel
 api_name:
 - Excel.ChartObject.ShapeRange
 ms.assetid: 12ad4077-1687-2bb9-41cf-fd8f1e02adc0

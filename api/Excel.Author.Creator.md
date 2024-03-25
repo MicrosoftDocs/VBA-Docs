@@ -3,7 +3,6 @@ title: Author.Creator property (Excel)
 keywords: vbaxl10.chm1011074
 f1_keywords:
 - vbaxl10.chm1011074
-ms.prod: excel
 api_name:
 - Excel.Author.Creator
 ms.date: 05/15/2019

@@ -3,7 +3,6 @@ title: DataLabels.ShowValue property (Excel)
 keywords: vbaxl10.chm584101
 f1_keywords:
 - vbaxl10.chm584101
-ms.prod: excel
 api_name:
 - Excel.DataLabels.ShowValue
 ms.assetid: e078ade5-d3d0-5b5c-8b40-667e69e38793

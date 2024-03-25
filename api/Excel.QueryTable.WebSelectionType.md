@@ -3,7 +3,6 @@ title: QueryTable.WebSelectionType property (Excel)
 keywords: vbaxl10.chm518122
 f1_keywords:
 - vbaxl10.chm518122
-ms.prod: excel
 api_name:
 - Excel.QueryTable.WebSelectionType
 ms.assetid: f0068811-96f8-55c6-a18d-29af4ae3a0e2

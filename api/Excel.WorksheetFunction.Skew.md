@@ -3,7 +3,6 @@ title: WorksheetFunction.Skew method (Excel)
 keywords: vbaxl10.chm137227
 f1_keywords:
 - vbaxl10.chm137227
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Skew
 ms.assetid: cf10325a-0cb3-4779-d792-af365a830af9

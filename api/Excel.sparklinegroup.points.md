@@ -3,7 +3,6 @@ title: SparklineGroup.Points property (Excel)
 keywords: vbaxl10.chm871086
 f1_keywords:
 - vbaxl10.chm871086
-ms.prod: excel
 ms.assetid: 8891e8f6-811b-9540-b4d3-0651206013e2
 ms.date: 05/16/2019
 ms.localizationpriority: medium

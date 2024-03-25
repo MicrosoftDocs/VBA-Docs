@@ -3,7 +3,6 @@ title: FormatCondition.TextOperator property (Excel)
 keywords: vbaxl10.chm512084
 f1_keywords:
 - vbaxl10.chm512084
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.TextOperator
 ms.assetid: 4bc198c9-7895-2f3d-67c1-0d71f0119e9a

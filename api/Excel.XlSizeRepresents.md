@@ -1,6 +1,5 @@
 ---
 title: XlSizeRepresents enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSizeRepresents
 ms.assetid: f763619b-99ae-3b7b-0b81-72a1e2b51fa7

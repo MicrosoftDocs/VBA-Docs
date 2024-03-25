@@ -3,7 +3,6 @@ title: Application.Columns property (Excel)
 keywords: vbaxl10.chm183087
 f1_keywords:
 - vbaxl10.chm183087
-ms.prod: excel
 api_name:
 - Excel.Application.Columns
 ms.assetid: 242d9112-9352-c3a6-e23e-59aec3d8f68f

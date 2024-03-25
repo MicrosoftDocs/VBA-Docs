@@ -3,7 +3,6 @@ title: PivotValueCell.ServerActions property (Excel)
 keywords: vbaxl10.chm918076
 f1_keywords:
 - vbaxl10.chm918076
-ms.prod: excel
 ms.assetid: df114dd7-0e19-521b-d17c-e1e0dc8f4599
 ms.date: 05/07/2019
 ms.localizationpriority: medium

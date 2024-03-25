@@ -3,7 +3,6 @@ title: Axis.LogBase property (Excel)
 keywords: vbaxl10.chm561117
 f1_keywords:
 - vbaxl10.chm561117
-ms.prod: excel
 api_name:
 - Excel.Axis.LogBase
 ms.assetid: 8b346323-3a2a-15fc-d9e5-fc39761e7c0e

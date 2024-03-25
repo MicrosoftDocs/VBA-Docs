@@ -3,7 +3,6 @@ title: Validation.Parent property (Excel)
 keywords: vbaxl10.chm531075
 f1_keywords:
 - vbaxl10.chm531075
-ms.prod: excel
 api_name:
 - Excel.Validation.Parent
 ms.assetid: d89954da-a334-e1ea-5dda-2b06e0c44b6e

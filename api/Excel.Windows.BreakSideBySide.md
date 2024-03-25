@@ -3,7 +3,6 @@ title: Windows.BreakSideBySide method (Excel)
 keywords: vbaxl10.chm354079
 f1_keywords:
 - vbaxl10.chm354079
-ms.prod: excel
 api_name:
 - Excel.Windows.BreakSideBySide
 ms.assetid: be32b6a4-5541-8c4b-ef24-cf34c9035f1c

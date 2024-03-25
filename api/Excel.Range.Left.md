@@ -3,7 +3,6 @@ title: Range.Left property (Excel)
 keywords: vbaxl10.chm144153
 f1_keywords:
 - vbaxl10.chm144153
-ms.prod: excel
 api_name:
 - Excel.Range.Left
 ms.assetid: 634fa7b8-3565-6178-f564-3c5d24c16d26

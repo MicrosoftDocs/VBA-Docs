@@ -3,7 +3,6 @@ title: AboveAverage.Parent property (Excel)
 keywords: vbaxl10.chm823075
 f1_keywords:
 - vbaxl10.chm823075
-ms.prod: excel
 api_name:
 - Excel.AboveAverage.Parent
 ms.assetid: 75338daa-fe08-b026-1181-9d1df7fc4e98

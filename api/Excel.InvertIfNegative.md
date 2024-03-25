@@ -3,7 +3,6 @@ title: InvertIfNegative property (Excel Graph)
 keywords: vbagr10.chm65668
 f1_keywords:
 - vbagr10.chm65668
-ms.prod: excel
 api_name:
 - Excel.InvertIfNegative
 ms.assetid: 0b75c2af-85f5-86bb-ab7e-3eed3f88940e

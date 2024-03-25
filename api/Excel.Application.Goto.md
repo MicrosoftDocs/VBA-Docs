@@ -3,7 +3,6 @@ title: Application.Goto method (Excel)
 keywords: vbaxl10.chm133144
 f1_keywords:
 - vbaxl10.chm133144
-ms.prod: excel
 api_name:
 - Excel.Application.Goto
 ms.assetid: ce60e6d4-18e5-056c-229e-8c0b730109ae

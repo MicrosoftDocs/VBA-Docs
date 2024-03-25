@@ -3,7 +3,6 @@ title: GroupShapes.Item method (Excel)
 keywords: vbaxl10.chm642074
 f1_keywords:
 - vbaxl10.chm642074
-ms.prod: excel
 api_name:
 - Excel.GroupShapes.Item
 ms.assetid: 2f664b81-d870-7936-6dff-0eef163c2e03

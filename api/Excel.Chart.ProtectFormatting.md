@@ -3,7 +3,6 @@ title: Chart.ProtectFormatting property (Excel)
 keywords: vbaxl10.chm149157
 f1_keywords:
 - vbaxl10.chm149157
-ms.prod: excel
 api_name:
 - Excel.Chart.ProtectFormatting
 ms.assetid: 71630b7f-6c89-869d-cd5b-d0a7bacd904a

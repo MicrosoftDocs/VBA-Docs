@@ -3,7 +3,6 @@ title: Graphic.Parent property (Excel)
 keywords: vbaxl10.chm693075
 f1_keywords:
 - vbaxl10.chm693075
-ms.prod: excel
 api_name:
 - Excel.Graphic.Parent
 ms.assetid: b3592a6c-e7e3-a95a-9b7b-393c35dbba76

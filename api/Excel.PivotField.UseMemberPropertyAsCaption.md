@@ -3,7 +3,6 @@ title: PivotField.UseMemberPropertyAsCaption property (Excel)
 keywords: vbaxl10.chm240139
 f1_keywords:
 - vbaxl10.chm240139
-ms.prod: excel
 api_name:
 - Excel.PivotField.UseMemberPropertyAsCaption
 ms.assetid: 4e5e9a53-c746-25db-78c0-115282851829

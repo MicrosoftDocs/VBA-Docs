@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.Z property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Z
 ms.assetid: 7f4de241-5544-ac97-3bb6-0d84751c1cf7

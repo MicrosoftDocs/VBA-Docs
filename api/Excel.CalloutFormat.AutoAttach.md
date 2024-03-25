@@ -3,7 +3,6 @@ title: CalloutFormat.AutoAttach property (Excel)
 keywords: vbaxl10.chm104008
 f1_keywords:
 - vbaxl10.chm104008
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.AutoAttach
 ms.assetid: 80f5bf63-072d-1245-d564-1b54af0f85b5

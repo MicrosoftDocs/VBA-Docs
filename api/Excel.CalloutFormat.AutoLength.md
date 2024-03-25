@@ -3,7 +3,6 @@ title: CalloutFormat.AutoLength property (Excel)
 keywords: vbaxl10.chm104009
 f1_keywords:
 - vbaxl10.chm104009
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.AutoLength
 ms.assetid: aadce7bf-e4b3-b56d-8a10-cf8183282149

@@ -3,7 +3,6 @@ title: WorkbookConnection.Delete method (Excel)
 keywords: vbaxl10.chm774080
 f1_keywords:
 - vbaxl10.chm774080
-ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Delete
 ms.assetid: d1312b91-04d7-2695-0c20-c18a31776fb0

@@ -3,7 +3,6 @@ title: Series.InvertColorIndex property (Excel)
 keywords: vbaxl10.chm578127
 f1_keywords:
 - vbaxl10.chm578127
-ms.prod: excel
 api_name:
 - Excel.Series.InvertColorIndex
 ms.assetid: fa2e87a4-57ad-395d-b631-fbca99560dae

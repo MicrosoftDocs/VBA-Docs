@@ -3,7 +3,6 @@ title: Chart.ShowValueFieldButtons property (Excel)
 keywords: vbaxl10.chm149192
 f1_keywords:
 - vbaxl10.chm149192
-ms.prod: excel
 api_name:
 - Excel.Chart.ShowValueFieldButtons
 ms.assetid: 7997b313-ce87-95eb-3d1e-b9b7b6eda84b

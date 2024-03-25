@@ -3,7 +3,6 @@ title: Worksheet.QueryTables property (Excel)
 keywords: vbaxl10.chm175137
 f1_keywords:
 - vbaxl10.chm175137
-ms.prod: excel
 api_name:
 - Excel.Worksheet.QueryTables
 ms.assetid: 1228c6e0-f8d9-87a3-2fbf-1526f5229f1b

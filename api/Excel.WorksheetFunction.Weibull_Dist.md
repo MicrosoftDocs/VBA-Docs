@@ -3,7 +3,6 @@ title: WorksheetFunction.Weibull_Dist method (Excel)
 keywords: vbaxl10.chm137390
 f1_keywords:
 - vbaxl10.chm137390
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Weibull_Dist
 ms.assetid: 17e5c39f-0808-2c84-a732-801fa0e342d8

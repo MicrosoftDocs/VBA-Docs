@@ -3,7 +3,6 @@ title: QueryTable.WebDisableRedirections property (Excel)
 keywords: vbaxl10.chm518129
 f1_keywords:
 - vbaxl10.chm518129
-ms.prod: excel
 api_name:
 - Excel.QueryTable.WebDisableRedirections
 ms.assetid: 36aec986-de9c-2c7e-a07c-ae77d75d4c7c

@@ -3,7 +3,6 @@ title: ConnectorFormat.BeginConnected property (Excel)
 keywords: vbaxl10.chm646077
 f1_keywords:
 - vbaxl10.chm646077
-ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginConnected
 ms.assetid: 2ebc4d15-e6f3-a0c9-056e-78004465c60c

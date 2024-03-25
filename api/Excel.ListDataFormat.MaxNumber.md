@@ -3,7 +3,6 @@ title: ListDataFormat.MaxNumber property (Excel)
 keywords: vbaxl10.chm758080
 f1_keywords:
 - vbaxl10.chm758080
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat.MaxNumber
 ms.assetid: 61262a29-7a35-e351-71fa-0b217285e2b3

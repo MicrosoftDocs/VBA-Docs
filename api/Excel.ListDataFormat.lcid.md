@@ -3,7 +3,6 @@ title: ListDataFormat.lcid property (Excel)
 keywords: vbaxl10.chm758078
 f1_keywords:
 - vbaxl10.chm758078
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat.lcid
 ms.assetid: 954812f2-d50e-8eff-429d-37da5cd8cff1

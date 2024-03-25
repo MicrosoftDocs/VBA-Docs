@@ -3,7 +3,6 @@ title: CommentsThreaded.Creator property (Excel)
 keywords: vbaxl10.chm1007074
 f1_keywords:
 - vbaxl10.chm1007074
-ms.prod: excel
 api_name:
 - Excel.CommentsThreaded.Creator
 ms.date: 05/15/2019

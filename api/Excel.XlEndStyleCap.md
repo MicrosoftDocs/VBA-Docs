@@ -1,6 +1,5 @@
 ---
 title: XlEndStyleCap enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlEndStyleCap
 ms.assetid: ad512f22-a2f5-9334-b724-ea1185394c20

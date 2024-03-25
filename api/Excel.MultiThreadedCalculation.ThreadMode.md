@@ -3,7 +3,6 @@ title: MultiThreadedCalculation.ThreadMode property (Excel)
 keywords: vbaxl10.chm859074
 f1_keywords:
 - vbaxl10.chm859074
-ms.prod: excel
 api_name:
 - Excel.MultiThreadedCalculation.ThreadMode
 ms.assetid: af69bb6f-262a-a726-c6eb-9927de0dbb1a

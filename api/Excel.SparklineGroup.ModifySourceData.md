@@ -3,7 +3,6 @@ title: SparklineGroup.ModifySourceData method (Excel)
 keywords: vbaxl10.chm871080
 f1_keywords:
 - vbaxl10.chm871080
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.ModifySourceData
 ms.assetid: 35c1c1ed-b61d-2412-961f-8eb74b5563a2

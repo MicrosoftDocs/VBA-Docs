@@ -3,7 +3,6 @@ title: Application.CommandUnderlines property (Excel)
 keywords: vbaxl10.chm133095
 f1_keywords:
 - vbaxl10.chm133095
-ms.prod: excel
 api_name:
 - Excel.Application.CommandUnderlines
 ms.assetid: 07d3ea82-6ef4-db6f-f3cf-bef992664408

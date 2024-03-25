@@ -3,7 +3,6 @@ title: Hyperlink.TextToDisplay property (Excel)
 keywords: vbaxl10.chm536085
 f1_keywords:
 - vbaxl10.chm536085
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.TextToDisplay
 ms.assetid: b7b8e4ef-2a37-1733-f9a0-2bd6e7367f8d

@@ -3,7 +3,6 @@ title: TimelineViewState.Application property (Excel)
 keywords: vbaxl10.chm951073
 f1_keywords:
 - vbaxl10.chm951073
-ms.prod: excel
 ms.assetid: b00518cc-b584-c562-0ae3-cf1e24844bdd
 ms.date: 05/18/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Point.Height property (Excel)
 keywords: vbaxl10.chm576104
 f1_keywords:
 - vbaxl10.chm576104
-ms.prod: excel
 api_name:
 - Excel.Point.Height
 ms.assetid: 450a3805-bd5a-f0c1-3854-d61e6079286d

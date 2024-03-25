@@ -3,7 +3,6 @@ title: WorksheetFunction.Pearson method (Excel)
 keywords: vbaxl10.chm137216
 f1_keywords:
 - vbaxl10.chm137216
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Pearson
 ms.assetid: 43ffbf17-1b1f-6949-052d-5e36862c7d7f

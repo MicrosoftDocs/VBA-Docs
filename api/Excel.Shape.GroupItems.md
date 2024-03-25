@@ -3,7 +3,6 @@ title: Shape.GroupItems property (Excel)
 keywords: vbaxl10.chm636097
 f1_keywords:
 - vbaxl10.chm636097
-ms.prod: excel
 api_name:
 - Excel.Shape.GroupItems
 ms.assetid: 4b065113-df60-7348-a2da-898aece10f01

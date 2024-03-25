@@ -3,7 +3,6 @@ title: Floor.PictureType property (Excel)
 keywords: vbaxl10.chm612080
 f1_keywords:
 - vbaxl10.chm612080
-ms.prod: excel
 api_name:
 - Excel.Floor.PictureType
 ms.assetid: 73ddeb38-15b6-1da3-8059-42153a73c118

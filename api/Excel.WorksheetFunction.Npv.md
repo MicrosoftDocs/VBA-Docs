@@ -3,7 +3,6 @@ title: WorksheetFunction.Npv method (Excel)
 keywords: vbaxl10.chm137081
 f1_keywords:
 - vbaxl10.chm137081
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Npv
 ms.assetid: c191e00d-20e1-1648-efe9-73fab00f28db

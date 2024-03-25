@@ -3,7 +3,6 @@ title: DisplayFormat.NumberFormat property (Excel)
 keywords: vbaxl10.chm893084
 f1_keywords:
 - vbaxl10.chm893084
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.NumberFormat
 ms.assetid: 516faa6b-177a-7166-8526-10ebba5531a5

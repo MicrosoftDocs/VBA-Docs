@@ -3,7 +3,6 @@ title: CalculatedItems.Count property (Excel)
 keywords: vbaxl10.chm250073
 f1_keywords:
 - vbaxl10.chm250073
-ms.prod: excel
 api_name:
 - Excel.CalculatedItems.Count
 ms.assetid: 85876ce3-df54-65d5-984c-ad0469a114f9

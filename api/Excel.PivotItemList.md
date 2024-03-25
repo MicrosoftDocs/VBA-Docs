@@ -3,7 +3,6 @@ title: PivotItemList object (Excel)
 keywords: vbaxl10.chm720072
 f1_keywords:
 - vbaxl10.chm720072
-ms.prod: excel
 api_name:
 - Excel.PivotItemList
 ms.assetid: 2b0fc8e5-6073-9cb1-2217-1e8715cddb1e

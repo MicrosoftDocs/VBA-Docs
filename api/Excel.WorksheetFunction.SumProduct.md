@@ -3,7 +3,6 @@ title: WorksheetFunction.SumProduct method (Excel)
 keywords: vbaxl10.chm137163
 f1_keywords:
 - vbaxl10.chm137163
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumProduct
 ms.assetid: 26562c80-1575-3019-f98c-9c974a9b863f

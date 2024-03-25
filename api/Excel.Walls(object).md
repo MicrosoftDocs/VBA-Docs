@@ -3,7 +3,6 @@ title: Walls object (Excel)
 keywords: vbaxl10.chm613072
 f1_keywords:
 - vbaxl10.chm613072
-ms.prod: excel
 api_name:
 - Excel.Walls
 ms.assetid: 9c6f0c5b-dbb8-7d71-44b7-29987e750cd3

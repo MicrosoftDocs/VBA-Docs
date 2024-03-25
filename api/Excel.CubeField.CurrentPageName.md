@@ -3,7 +3,6 @@ title: CubeField.CurrentPageName property (Excel)
 keywords: vbaxl10.chm668100
 f1_keywords:
 - vbaxl10.chm668100
-ms.prod: excel
 api_name:
 - Excel.CubeField.CurrentPageName
 ms.assetid: fe74106a-e8d5-cc2d-ad1f-0c2c3517cfdd

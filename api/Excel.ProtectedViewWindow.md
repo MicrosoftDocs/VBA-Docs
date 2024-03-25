@@ -3,7 +3,6 @@ title: ProtectedViewWindow object (Excel)
 keywords: vbaxl10.chm914072
 f1_keywords:
 - vbaxl10.chm914072
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow
 ms.assetid: 6a32240c-c90b-c51a-6f8e-c3ff496b9855

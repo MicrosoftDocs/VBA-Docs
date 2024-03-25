@@ -3,7 +3,6 @@ title: FileExportConverter.Extensions property (Excel)
 keywords: vbaxl10.chm863073
 f1_keywords:
 - vbaxl10.chm863073
-ms.prod: excel
 api_name:
 - Excel.FileExportConverter.Extensions
 ms.assetid: 448fdc36-4f11-1dff-98c1-797339e04ddb

@@ -3,7 +3,6 @@ title: Range.EditionOptions method (Excel)
 keywords: vbaxl10.chm144120
 f1_keywords:
 - vbaxl10.chm144120
-ms.prod: excel
 api_name:
 - Excel.Range.EditionOptions
 ms.assetid: 5997563b-7f39-6f2d-9265-c72a2d138548

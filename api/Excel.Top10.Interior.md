@@ -3,7 +3,6 @@ title: Top10.Interior property (Excel)
 keywords: vbaxl10.chm822079
 f1_keywords:
 - vbaxl10.chm822079
-ms.prod: excel
 api_name:
 - Excel.Top10.Interior
 ms.assetid: aa973e08-b2c8-2b67-96ed-1e4d3f350d0e

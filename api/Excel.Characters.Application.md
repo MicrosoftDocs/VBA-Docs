@@ -3,7 +3,6 @@ title: Characters.Application property (Excel)
 keywords: vbaxl10.chm251073
 f1_keywords:
 - vbaxl10.chm251073
-ms.prod: excel
 api_name:
 - Excel.Characters.Application
 ms.assetid: b67b835c-9324-04ed-4d7f-e1756e6fe7f8

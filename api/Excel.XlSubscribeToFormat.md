@@ -1,6 +1,5 @@
 ---
 title: XlSubscribeToFormat enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSubscribeToFormat
 ms.assetid: 86dbfc91-fde8-d829-3377-fac14f9da9bd

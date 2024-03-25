@@ -3,7 +3,6 @@ title: PivotField.RepeatLabels property (Excel)
 keywords: vbaxl10.chm240160
 f1_keywords:
 - vbaxl10.chm240160
-ms.prod: excel
 api_name:
 - Excel.PivotField.RepeatLabels
 ms.assetid: abc7e5f7-4633-38b3-d5a8-41bfa463077d

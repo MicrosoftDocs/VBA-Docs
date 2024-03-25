@@ -3,7 +3,6 @@ title: WorksheetFunction.ExponDist method (Excel)
 keywords: vbaxl10.chm137184
 f1_keywords:
 - vbaxl10.chm137184
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ExponDist
 ms.assetid: 4e940718-309f-8194-7395-5abcf3adeae3

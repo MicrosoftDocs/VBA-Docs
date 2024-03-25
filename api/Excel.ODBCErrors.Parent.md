@@ -3,7 +3,6 @@ title: ODBCErrors.Parent property (Excel)
 keywords: vbaxl10.chm528075
 f1_keywords:
 - vbaxl10.chm528075
-ms.prod: excel
 api_name:
 - Excel.ODBCErrors.Parent
 ms.assetid: 8e34809a-b780-f700-9809-7939f8b640e5

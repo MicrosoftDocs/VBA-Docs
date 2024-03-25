@@ -3,7 +3,6 @@ title: Slicer.Height property (Excel)
 keywords: vbaxl10.chm905079
 f1_keywords:
 - vbaxl10.chm905079
-ms.prod: excel
 api_name:
 - Excel.Slicer.Height
 ms.assetid: 00eb1b27-7a0c-4edb-dc66-dc80d62ea60c

@@ -3,7 +3,6 @@ title: CubeField.DragToRow property (Excel)
 keywords: vbaxl10.chm668083
 f1_keywords:
 - vbaxl10.chm668083
-ms.prod: excel
 api_name:
 - Excel.CubeField.DragToRow
 ms.assetid: 10d3a156-d8a6-9f3a-34bd-4f1e470c3efe

@@ -3,7 +3,6 @@ title: WorksheetFunction.Effect method (Excel)
 keywords: vbaxl10.chm137322
 f1_keywords:
 - vbaxl10.chm137322
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Effect
 ms.assetid: cbd5be5b-a1ee-addf-f0d9-01c4e4e0273b

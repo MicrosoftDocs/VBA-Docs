@@ -3,7 +3,6 @@ title: Strikethrough property (Excel Graph)
 keywords: vbagr10.chm3077589
 f1_keywords:
 - vbagr10.chm3077589
-ms.prod: excel
 api_name:
 - Excel.Strikethrough
 ms.assetid: 62aff502-2f8e-df3b-f185-a44262bdaa64

@@ -3,7 +3,6 @@ title: ODBCError.SqlState property (Excel)
 keywords: vbaxl10.chm527073
 f1_keywords:
 - vbaxl10.chm527073
-ms.prod: excel
 api_name:
 - Excel.ODBCError.SqlState
 ms.assetid: 772a4e82-e661-5568-5fea-49a2925cb156

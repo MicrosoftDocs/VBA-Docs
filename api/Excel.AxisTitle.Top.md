@@ -3,7 +3,6 @@ title: AxisTitle.Top property (Excel)
 keywords: vbaxl10.chm565086
 f1_keywords:
 - vbaxl10.chm565086
-ms.prod: excel
 api_name:
 - Excel.AxisTitle.Top
 ms.assetid: 4981d1e5-d9ac-66fe-d61d-0d4a681aed7f

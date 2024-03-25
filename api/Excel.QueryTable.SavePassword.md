@@ -3,7 +3,6 @@ title: QueryTable.SavePassword property (Excel)
 keywords: vbaxl10.chm518085
 f1_keywords:
 - vbaxl10.chm518085
-ms.prod: excel
 api_name:
 - Excel.QueryTable.SavePassword
 ms.assetid: c17250b1-9f80-12ed-1cbf-9f54a05ebaf3

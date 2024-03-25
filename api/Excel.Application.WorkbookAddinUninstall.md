@@ -3,7 +3,6 @@ title: Application.WorkbookAddinUninstall event (Excel)
 keywords: vbaxl10.chm504089
 f1_keywords:
 - vbaxl10.chm504089
-ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAddinUninstall
 ms.assetid: 8c02eb17-e966-703d-36ed-30ce43a56275

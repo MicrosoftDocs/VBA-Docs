@@ -3,7 +3,6 @@ title: ShapeRange.Child property (Excel)
 keywords: vbaxl10.chm640130
 f1_keywords:
 - vbaxl10.chm640130
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Child
 ms.assetid: ce25e66e-6446-1c43-1ab5-0ec486311ef2

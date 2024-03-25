@@ -3,7 +3,6 @@ title: Font object (Excel)
 keywords: vbaxl10.chm558072
 f1_keywords:
 - vbaxl10.chm558072
-ms.prod: excel
 api_name:
 - Excel.Font
 ms.assetid: f4788ba4-1c4c-2f03-4d73-194bc9316825

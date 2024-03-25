@@ -3,7 +3,6 @@ title: QueryTable.TextFileThousandsSeparator property (Excel)
 keywords: vbaxl10.chm518119
 f1_keywords:
 - vbaxl10.chm518119
-ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileThousandsSeparator
 ms.assetid: 8eaa9285-9936-2ba1-44d2-9745150b999e

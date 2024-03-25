@@ -3,7 +3,6 @@ title: ShapeRange.Shadow property (Excel)
 keywords: vbaxl10.chm640114
 f1_keywords:
 - vbaxl10.chm640114
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Shadow
 ms.assetid: b5bbbb48-a061-d9c3-84e8-5bbe05b86007

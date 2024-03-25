@@ -3,7 +3,6 @@ title: Application.Path property (Excel)
 keywords: vbaxl10.chm133189
 f1_keywords:
 - vbaxl10.chm133189
-ms.prod: excel
 api_name:
 - Excel.Application.Path
 ms.assetid: 0ef5d0fc-f46a-c133-232a-8a20cf2d4034

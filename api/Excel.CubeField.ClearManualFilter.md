@@ -3,7 +3,6 @@ title: CubeField.ClearManualFilter method (Excel)
 keywords: vbaxl10.chm668098
 f1_keywords:
 - vbaxl10.chm668098
-ms.prod: excel
 api_name:
 - Excel.CubeField.ClearManualFilter
 ms.assetid: 2dac2695-ae2c-eba9-7b22-57f21d87925a

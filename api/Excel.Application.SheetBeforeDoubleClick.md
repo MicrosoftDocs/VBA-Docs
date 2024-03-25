@@ -3,7 +3,6 @@ title: Application.SheetBeforeDoubleClick event (Excel)
 keywords: vbaxl10.chm504075
 f1_keywords:
 - vbaxl10.chm504075
-ms.prod: excel
 api_name:
 - Excel.Application.SheetBeforeDoubleClick
 ms.assetid: 969394a3-2c87-36a5-2d64-521bad8849be

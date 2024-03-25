@@ -3,7 +3,6 @@ title: Actions.Creator property (Excel)
 keywords: vbaxl10.chm799074
 f1_keywords:
 - vbaxl10.chm799074
-ms.prod: excel
 api_name:
 - Excel.Actions.Creator
 ms.assetid: 453bcc61-d054-47b8-3447-f2896c343699

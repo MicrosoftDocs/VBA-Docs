@@ -3,7 +3,6 @@ title: Application.DisplayClipboardWindow property (Excel)
 keywords: vbaxl10.chm133093
 f1_keywords:
 - vbaxl10.chm133093
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayClipboardWindow
 ms.assetid: 16686caf-39ed-90fa-4a61-92b3f825cc6c

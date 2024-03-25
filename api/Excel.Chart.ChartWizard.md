@@ -3,7 +3,6 @@ title: Chart.ChartWizard method (Excel)
 keywords: vbaxl10.chm149090
 f1_keywords:
 - vbaxl10.chm149090
-ms.prod: excel
 api_name:
 - Excel.Chart.ChartWizard
 ms.assetid: c47588d9-6969-d6bb-cbbc-4941198d78b4

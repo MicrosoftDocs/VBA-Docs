@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat object (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat
 ms.date: 04/11/2019

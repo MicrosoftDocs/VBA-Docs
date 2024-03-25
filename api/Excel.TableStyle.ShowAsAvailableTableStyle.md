@@ -3,7 +3,6 @@ title: TableStyle.ShowAsAvailableTableStyle property (Excel)
 keywords: vbaxl10.chm839078
 f1_keywords:
 - vbaxl10.chm839078
-ms.prod: excel
 api_name:
 - Excel.TableStyle.ShowAsAvailableTableStyle
 ms.assetid: cf5c7b9c-6ed9-e26e-4b31-614ede2a4a12

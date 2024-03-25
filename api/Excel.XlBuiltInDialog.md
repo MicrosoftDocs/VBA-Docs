@@ -1,6 +1,5 @@
 ---
 title: XlBuiltInDialog enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlBuiltInDialog
 ms.assetid: 18f10073-3793-f7e8-4361-72011e60cd4c

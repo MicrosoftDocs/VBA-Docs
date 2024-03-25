@@ -3,7 +3,6 @@ title: Application.ProtectedViewWindowDeactivate event (Excel)
 keywords: vbaxl10.chm504113
 f1_keywords:
 - vbaxl10.chm504113
-ms.prod: excel
 api_name:
 - Excel.Application.ProtectedViewWindowDeactivate
 ms.assetid: 39df50ca-53e0-784a-a803-e9ac6f456d11

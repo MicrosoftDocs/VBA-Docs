@@ -3,7 +3,6 @@ title: Borders.ColorIndex property (Excel)
 keywords: vbaxl10.chm181074
 f1_keywords:
 - vbaxl10.chm181074
-ms.prod: excel
 api_name:
 - Excel.Borders.ColorIndex
 ms.assetid: fe0a7b5e-254d-c773-88cc-70728db44840

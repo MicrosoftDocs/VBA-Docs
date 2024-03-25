@@ -3,7 +3,6 @@ title: DisplayUnitCustom property (Excel Graph)
 keywords: vbagr10.chm5241525
 f1_keywords:
 - vbagr10.chm5241525
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitCustom
 ms.assetid: 18e2e0ae-13a9-3e45-6c93-90946ad98ebc

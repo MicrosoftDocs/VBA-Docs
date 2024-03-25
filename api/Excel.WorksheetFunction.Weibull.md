@@ -3,7 +3,6 @@ title: WorksheetFunction.Weibull method (Excel)
 keywords: vbaxl10.chm137206
 f1_keywords:
 - vbaxl10.chm137206
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Weibull
 ms.assetid: 2636d646-d867-a66b-ceba-b180e4ae69fa

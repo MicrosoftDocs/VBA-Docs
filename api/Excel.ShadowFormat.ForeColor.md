@@ -3,7 +3,6 @@ title: ShadowFormat.ForeColor property (Excel)
 keywords: vbaxl10.chm114002
 f1_keywords:
 - vbaxl10.chm114002
-ms.prod: excel
 api_name:
 - Excel.ShadowFormat.ForeColor
 ms.assetid: af89408d-a354-d277-c8f3-4e10213ce563

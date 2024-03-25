@@ -3,7 +3,6 @@ title: Application.WorkbookAfterRemoteChange event (Excel)
 keywords: vbaxl10.chm503114
 f1_keywords:
 - vbaxl10.chm503114
-ms.prod: excel
 api_name:
 - Excel.Application.WorkbookAfterRemoteChange
 ms.date: 04/05/2019

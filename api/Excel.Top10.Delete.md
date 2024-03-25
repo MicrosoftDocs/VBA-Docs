@@ -3,7 +3,6 @@ title: Top10.Delete method (Excel)
 keywords: vbaxl10.chm822086
 f1_keywords:
 - vbaxl10.chm822086
-ms.prod: excel
 api_name:
 - Excel.Top10.Delete
 ms.assetid: 3c406d8c-85b2-d820-3646-8c5649f155c1

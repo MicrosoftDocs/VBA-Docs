@@ -3,7 +3,6 @@ title: Chart.ProtectionMode property (Excel)
 keywords: vbaxl10.chm148092
 f1_keywords:
 - vbaxl10.chm148092
-ms.prod: excel
 api_name:
 - Excel.Chart.ProtectionMode
 ms.assetid: 5a9afe8c-df46-cbfe-d692-d4be8f2e505b

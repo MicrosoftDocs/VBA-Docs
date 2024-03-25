@@ -3,7 +3,6 @@ title: PlotArea.Format property (Excel)
 keywords: vbaxl10.chm618093
 f1_keywords:
 - vbaxl10.chm618093
-ms.prod: excel
 api_name:
 - Excel.PlotArea.Format
 ms.assetid: 03047465-a4b9-91e8-15f4-3feb498078ab

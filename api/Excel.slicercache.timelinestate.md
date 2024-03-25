@@ -3,7 +3,6 @@ title: SlicerCache.TimelineState property (Excel)
 keywords: vbaxl10.chm897091
 f1_keywords:
 - vbaxl10.chm897091
-ms.prod: excel
 ms.assetid: f7802d4e-39f6-11bb-2285-7cf012bed3ef
 ms.date: 05/16/2019
 ms.localizationpriority: medium

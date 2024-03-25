@@ -3,7 +3,6 @@ title: Axis.TickLabels property (Excel)
 keywords: vbaxl10.chm561100
 f1_keywords:
 - vbaxl10.chm561100
-ms.prod: excel
 api_name:
 - Excel.Axis.TickLabels
 ms.assetid: e8a6edf9-2fdd-d8e9-0de9-5c4aa921c6b1

@@ -3,7 +3,6 @@ title: Dialog.Parent property (Excel)
 keywords: vbaxl10.chm255075
 f1_keywords:
 - vbaxl10.chm255075
-ms.prod: excel
 api_name:
 - Excel.Dialog.Parent
 ms.assetid: 12464db0-07df-f752-6000-3a46b01d2919

@@ -3,7 +3,6 @@ title: ShapeRange.BlackWhiteMode property (Excel)
 keywords: vbaxl10.chm640124
 f1_keywords:
 - vbaxl10.chm640124
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.BlackWhiteMode
 ms.assetid: df88d789-6686-2f02-1e69-54c8ab47060c

@@ -3,7 +3,6 @@ title: FormatConditions.AddTop10 method (Excel)
 keywords: vbaxl10.chm510082
 f1_keywords:
 - vbaxl10.chm510082
-ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddTop10
 ms.assetid: e6998652-fb2c-201e-5334-298297d4b41e

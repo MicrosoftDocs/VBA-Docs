@@ -3,7 +3,6 @@ title: PageSetup.BottomMargin property (Excel)
 keywords: vbaxl10.chm473074
 f1_keywords:
 - vbaxl10.chm473074
-ms.prod: excel
 api_name:
 - Excel.PageSetup.BottomMargin
 ms.assetid: 4c1cd3e0-0ba6-9d2d-4d5a-69d9ee811704

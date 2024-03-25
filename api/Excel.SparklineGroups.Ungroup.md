@@ -3,7 +3,6 @@ title: SparklineGroups.Ungroup method (Excel)
 keywords: vbaxl10.chm869081
 f1_keywords:
 - vbaxl10.chm869081
-ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Ungroup
 ms.assetid: c67c54f4-d5d1-5f12-2413-671db612a954

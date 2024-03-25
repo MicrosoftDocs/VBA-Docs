@@ -3,7 +3,6 @@ title: TickMarkSpacing property (Excel Graph)
 keywords: vbagr10.chm5208067
 f1_keywords:
 - vbagr10.chm5208067
-ms.prod: excel
 api_name:
 - Excel.TickMarkSpacing
 ms.assetid: 5c8abc42-b0bc-882d-ebdf-7125a92b121b

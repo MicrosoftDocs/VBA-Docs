@@ -3,7 +3,6 @@ title: ChartGroup.SecondPlotSize property (Excel)
 keywords: vbaxl10.chm568099
 f1_keywords:
 - vbaxl10.chm568099
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.SecondPlotSize
 ms.assetid: 231541fa-0353-3533-6b4b-0653b6157568

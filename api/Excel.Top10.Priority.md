@@ -3,7 +3,6 @@ title: Top10.Priority property (Excel)
 keywords: vbaxl10.chm822073
 f1_keywords:
 - vbaxl10.chm822073
-ms.prod: excel
 api_name:
 - Excel.Top10.Priority
 ms.assetid: 0f54585a-2390-dfde-d4c2-5f0c1e9f8ff7

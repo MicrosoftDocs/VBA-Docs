@@ -3,7 +3,6 @@ title: SparkVerticalAxis.CustomMinScaleValue property (Excel)
 keywords: vbaxl10.chm881074
 f1_keywords:
 - vbaxl10.chm881074
-ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.CustomMinScaleValue
 ms.assetid: 1d5e7efa-1747-e871-1504-c917a4666d5c

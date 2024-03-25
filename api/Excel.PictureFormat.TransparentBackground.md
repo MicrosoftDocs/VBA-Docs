@@ -3,7 +3,6 @@ title: PictureFormat.TransparentBackground property (Excel)
 keywords: vbaxl10.chm113010
 f1_keywords:
 - vbaxl10.chm113010
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.TransparentBackground
 ms.assetid: 9b7cc5b5-610a-821b-cf99-e2af5c4ecf61

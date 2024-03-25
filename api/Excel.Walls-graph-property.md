@@ -3,7 +3,6 @@ title: Walls property (Excel Graph)
 keywords: vbagr10.chm65622
 f1_keywords:
 - vbagr10.chm65622
-ms.prod: excel
 api_name:
 - Excel.Walls
 ms.assetid: 74da4bfa-7b53-80d9-a673-42a67ffab787

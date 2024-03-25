@@ -3,7 +3,6 @@ title: WorksheetFunction.CoupNum method (Excel)
 keywords: vbaxl10.chm137332
 f1_keywords:
 - vbaxl10.chm137332
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CoupNum
 ms.assetid: 6859fd93-9616-6330-e77b-0135d9d90c1d

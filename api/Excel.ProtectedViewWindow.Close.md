@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Close method (Excel)
 keywords: vbaxl10.chm914086
 f1_keywords:
 - vbaxl10.chm914086
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Close
 ms.assetid: 3deaea3c-3c73-76c9-0ca1-ce1bb452c6c2

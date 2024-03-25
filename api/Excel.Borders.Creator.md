@@ -3,7 +3,6 @@ title: Borders.Creator property (Excel)
 keywords: vbaxl10.chm180074
 f1_keywords:
 - vbaxl10.chm180074
-ms.prod: excel
 api_name:
 - Excel.Borders.Creator
 ms.assetid: 00a52b71-0faa-e52c-ad65-f33e684187f9

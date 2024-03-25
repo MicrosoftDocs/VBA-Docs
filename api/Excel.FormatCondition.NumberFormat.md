@@ -3,7 +3,6 @@ title: FormatCondition.NumberFormat property (Excel)
 keywords: vbaxl10.chm512086
 f1_keywords:
 - vbaxl10.chm512086
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.NumberFormat
 ms.assetid: 544b8f1a-f75a-979d-c2fb-aa324bdcf614

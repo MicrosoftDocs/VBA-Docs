@@ -3,7 +3,6 @@ title: Characters.PhoneticCharacters property (Excel)
 keywords: vbaxl10.chm252079
 f1_keywords:
 - vbaxl10.chm252079
-ms.prod: excel
 api_name:
 - Excel.Characters.PhoneticCharacters
 ms.assetid: 05e5cfa5-aef8-c413-29e4-3c608bd4f953

@@ -1,6 +1,5 @@
 ---
 title: XlSparkScale enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSparkScale
 ms.assetid: 6fe94fa8-1d81-e177-332f-7a85120d0e44

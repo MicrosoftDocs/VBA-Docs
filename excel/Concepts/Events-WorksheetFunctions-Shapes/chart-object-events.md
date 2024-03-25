@@ -3,7 +3,6 @@ title: Chart object events
 keywords: vbaxl10.chm5199755
 f1_keywords:
 - vbaxl10.chm5199755
-ms.prod: excel
 ms.assetid: 6808dfde-94d0-afb0-b245-44d8d1d6241e
 ms.date: 11/13/2018
 ms.localizationpriority: medium

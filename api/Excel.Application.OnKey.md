@@ -3,7 +3,6 @@ title: Application.OnKey method (Excel)
 keywords: vbaxl10.chm133180
 f1_keywords:
 - vbaxl10.chm133180
-ms.prod: excel
 api_name:
 - Excel.Application.OnKey
 ms.assetid: 43662d8b-19e2-2b4a-4c3a-c64be4007643

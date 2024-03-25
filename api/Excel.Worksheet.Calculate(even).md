@@ -3,7 +3,6 @@ title: Worksheet.Calculate event (Excel)
 keywords: vbaxl10.chm502078
 f1_keywords:
 - vbaxl10.chm502078
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Calculate
 ms.assetid: c54b75d0-79dd-3e14-0669-447e740e134b

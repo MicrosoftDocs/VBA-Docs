@@ -3,7 +3,6 @@ title: Workbook.DeleteNumberFormat method (Excel)
 keywords: vbaxl10.chm199096
 f1_keywords:
 - vbaxl10.chm199096
-ms.prod: excel
 api_name:
 - Excel.Workbook.DeleteNumberFormat
 ms.assetid: d56c2e4c-5de2-fecf-6a1f-a9fdc79943cb

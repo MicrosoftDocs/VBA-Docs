@@ -3,7 +3,6 @@ title: Font.ColorIndex property (Excel)
 keywords: vbaxl10.chm559076
 f1_keywords:
 - vbaxl10.chm559076
-ms.prod: excel
 api_name:
 - Excel.Font.ColorIndex
 ms.assetid: e5fa27eb-b905-dd5d-a3b5-69a94492a6c4

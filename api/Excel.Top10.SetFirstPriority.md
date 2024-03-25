@@ -3,7 +3,6 @@ title: Top10.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm822084
 f1_keywords:
 - vbaxl10.chm822084
-ms.prod: excel
 api_name:
 - Excel.Top10.SetFirstPriority
 ms.assetid: 3523bdae-87ab-54f5-e6ff-a684592b88b7

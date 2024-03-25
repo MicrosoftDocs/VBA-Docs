@@ -3,7 +3,6 @@ title: PivotField.ParentField property (Excel)
 keywords: vbaxl10.chm240089
 f1_keywords:
 - vbaxl10.chm240089
-ms.prod: excel
 api_name:
 - Excel.PivotField.ParentField
 ms.assetid: 4b609a86-9a25-f292-7446-2a65ea1f90a0

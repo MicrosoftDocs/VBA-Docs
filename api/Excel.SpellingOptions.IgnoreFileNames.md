@@ -3,7 +3,6 @@ title: SpellingOptions.IgnoreFileNames property (Excel)
 keywords: vbaxl10.chm717078
 f1_keywords:
 - vbaxl10.chm717078
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.IgnoreFileNames
 ms.assetid: 346b454b-b501-9836-4d45-dbe551f4c2cb

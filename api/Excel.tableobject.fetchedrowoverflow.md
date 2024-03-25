@@ -3,7 +3,6 @@ title: TableObject.FetchedRowOverflow property (Excel)
 keywords: vbaxl10.chm916074
 f1_keywords:
 - vbaxl10.chm916074
-ms.prod: excel
 ms.assetid: d11d528d-f82a-b7a1-066f-afaa6a2646e3
 ms.date: 04/19/2019
 ms.localizationpriority: medium

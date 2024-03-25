@@ -3,7 +3,6 @@ title: DropLines.Name property (Excel)
 keywords: vbaxl10.chm604074
 f1_keywords:
 - vbaxl10.chm604074
-ms.prod: excel
 api_name:
 - Excel.DropLines.Name
 ms.assetid: 44f4ee52-a001-775f-619e-21199ce395a9

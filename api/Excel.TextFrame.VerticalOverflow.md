@@ -3,7 +3,6 @@ title: TextFrame.VerticalOverflow property (Excel)
 keywords: vbaxl10.chm644084
 f1_keywords:
 - vbaxl10.chm644084
-ms.prod: excel
 api_name:
 - Excel.TextFrame.VerticalOverflow
 ms.assetid: a516ed25-e555-e00b-1a0f-61a5ac5954af

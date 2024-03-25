@@ -3,7 +3,6 @@ title: Range.FormatConditions property (Excel)
 keywords: vbaxl10.chm144226
 f1_keywords:
 - vbaxl10.chm144226
-ms.prod: excel
 api_name:
 - Excel.Range.FormatConditions
 ms.assetid: 676ffcc6-f08d-9f91-78af-7b98f8b77dca

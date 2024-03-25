@@ -3,7 +3,6 @@ title: DataTable.ShowLegendKey property (Excel)
 keywords: vbaxl10.chm626073
 f1_keywords:
 - vbaxl10.chm626073
-ms.prod: excel
 api_name:
 - Excel.DataTable.ShowLegendKey
 ms.assetid: e22275bb-f401-433e-4e1f-812a54cc60e8

@@ -3,7 +3,6 @@ title: ModelTables.Application property (Excel)
 keywords: vbaxl10.chm935073
 f1_keywords:
 - vbaxl10.chm935073
-ms.prod: excel
 ms.assetid: 8d44b48b-47ed-02db-161f-449a166be50e
 ms.date: 05/01/2019
 ms.localizationpriority: medium

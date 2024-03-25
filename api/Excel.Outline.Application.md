@@ -3,7 +3,6 @@ title: Outline.Application property (Excel)
 keywords: vbaxl10.chm454073
 f1_keywords:
 - vbaxl10.chm454073
-ms.prod: excel
 api_name:
 - Excel.Outline.Application
 ms.assetid: e0c04b79-8de0-90fb-6574-073baae00dd8

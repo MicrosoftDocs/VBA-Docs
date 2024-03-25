@@ -3,7 +3,6 @@ title: ChartFormat.PictureFormat property (Excel)
 keywords: vbaxl10.chm861076
 f1_keywords:
 - vbaxl10.chm861076
-ms.prod: excel
 api_name:
 - Excel.ChartFormat.PictureFormat
 ms.assetid: 820a6c0d-a400-a842-e69d-0524666f6de5

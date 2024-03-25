@@ -3,7 +3,6 @@ title: Hyperlink.Name property (Excel)
 keywords: vbaxl10.chm536074
 f1_keywords:
 - vbaxl10.chm536074
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.Name
 ms.assetid: 2b414d28-807f-bdf5-f2e3-b3034717006f

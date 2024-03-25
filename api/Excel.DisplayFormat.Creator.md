@@ -3,7 +3,6 @@ title: DisplayFormat.Creator property (Excel)
 keywords: vbaxl10.chm892074
 f1_keywords:
 - vbaxl10.chm892074
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Creator
 ms.assetid: 6e3749be-adec-bb6c-dc24-232e5046ef12

@@ -3,7 +3,6 @@ title: WorksheetFunction.Floor_Math method (Excel)
 keywords: vbaxl10.chm137462
 f1_keywords:
 - vbaxl10.chm137462
-ms.prod: excel
 ms.assetid: 6e821665-baba-d0b9-cd3e-434f713b3bcc
 ms.date: 05/22/2019
 ms.localizationpriority: medium

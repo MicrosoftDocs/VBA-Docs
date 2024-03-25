@@ -3,7 +3,6 @@ title: ControlFormat.Value property (Excel)
 keywords: vbaxl10.chm630091
 f1_keywords:
 - vbaxl10.chm630091
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.Value
 ms.assetid: f719882f-a01a-3eb9-c86d-e9a59bf6c356

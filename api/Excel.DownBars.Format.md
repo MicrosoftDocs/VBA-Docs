@@ -3,7 +3,6 @@ title: DownBars.Format property (Excel)
 keywords: vbaxl10.chm610080
 f1_keywords:
 - vbaxl10.chm610080
-ms.prod: excel
 api_name:
 - Excel.DownBars.Format
 ms.assetid: 90092655-43b1-ce9c-8a33-3df80bbc8300

@@ -3,7 +3,6 @@ title: Worksheet.UsedRange property (Excel)
 keywords: vbaxl10.chm175134
 f1_keywords:
 - vbaxl10.chm175134
-ms.prod: excel
 api_name:
 - Excel.Worksheet.UsedRange
 ms.assetid: f004b93c-d785-de19-1fb4-bbe0b2e9b6cd

@@ -3,7 +3,6 @@ title: AddIn.CLSID property (Excel)
 keywords: vbaxl10.chm185083
 f1_keywords:
 - vbaxl10.chm185083
-ms.prod: excel
 api_name:
 - Excel.AddIn.CLSID
 ms.assetid: 3a8e7eeb-29f8-b05e-e0f8-9ee69a88356c

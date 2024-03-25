@@ -3,7 +3,6 @@ title: Range.End property (Excel)
 keywords: vbaxl10.chm144121
 f1_keywords:
 - vbaxl10.chm144121
-ms.prod: excel
 api_name:
 - Excel.Range.End
 ms.assetid: d46d75c9-b152-e93d-82c3-f59f0e7f69da

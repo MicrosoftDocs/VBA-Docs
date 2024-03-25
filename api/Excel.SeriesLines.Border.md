@@ -3,7 +3,6 @@ title: SeriesLines.Border property (Excel)
 keywords: vbaxl10.chm598076
 f1_keywords:
 - vbaxl10.chm598076
-ms.prod: excel
 api_name:
 - Excel.SeriesLines.Border
 ms.assetid: 51c10ec3-5736-ade7-480e-c984932deb3c

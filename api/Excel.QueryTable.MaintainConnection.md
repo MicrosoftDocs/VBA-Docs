@@ -3,7 +3,6 @@ title: QueryTable.MaintainConnection property (Excel)
 keywords: vbaxl10.chm518117
 f1_keywords:
 - vbaxl10.chm518117
-ms.prod: excel
 api_name:
 - Excel.QueryTable.MaintainConnection
 ms.assetid: e27fcb2d-115c-37c2-ba70-3f4a01dbb8b2

@@ -3,7 +3,6 @@ title: XmlMap.ExportXml method (Excel)
 keywords: vbaxl10.chm754090
 f1_keywords:
 - vbaxl10.chm754090
-ms.prod: excel
 api_name:
 - Excel.XmlMap.ExportXml
 ms.assetid: ffb4e656-157e-e5f3-1ddd-314172ba5839

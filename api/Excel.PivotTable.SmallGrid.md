@@ -3,7 +3,6 @@ title: PivotTable.SmallGrid property (Excel)
 keywords: vbaxl10.chm235134
 f1_keywords:
 - vbaxl10.chm235134
-ms.prod: excel
 api_name:
 - Excel.PivotTable.SmallGrid
 ms.assetid: ade36fce-e511-f95c-db92-e64271646687

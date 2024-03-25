@@ -3,7 +3,6 @@ title: PictureFormat.CropBottom property (Excel)
 keywords: vbaxl10.chm113005
 f1_keywords:
 - vbaxl10.chm113005
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.CropBottom
 ms.assetid: b2c3168f-37db-80a8-815c-b6a2c5a74047

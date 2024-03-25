@@ -3,7 +3,6 @@ title: ColorIndex property (Excel Graph)
 keywords: vbagr10.chm5207225
 f1_keywords:
 - vbagr10.chm5207225
-ms.prod: excel
 api_name:
 - Excel.ColorIndex
 ms.assetid: e9a9c9de-8a42-0f61-be25-4c158709df68

@@ -3,7 +3,6 @@ title: DataLabel.Select method (Excel)
 keywords: vbaxl10.chm582075
 f1_keywords:
 - vbaxl10.chm582075
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Select
 ms.assetid: 0e3e0020-12d1-d150-bd52-991dadebeb64

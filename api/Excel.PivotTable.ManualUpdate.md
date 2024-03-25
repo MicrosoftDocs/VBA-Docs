@@ -3,7 +3,6 @@ title: PivotTable.ManualUpdate property (Excel)
 keywords: vbaxl10.chm235112
 f1_keywords:
 - vbaxl10.chm235112
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ManualUpdate
 ms.assetid: 7686a4d0-720c-949a-d6a1-ba2fdea82340

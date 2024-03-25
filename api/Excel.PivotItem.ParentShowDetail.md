@@ -3,7 +3,6 @@ title: PivotItem.ParentShowDetail property (Excel)
 keywords: vbaxl10.chm246080
 f1_keywords:
 - vbaxl10.chm246080
-ms.prod: excel
 api_name:
 - Excel.PivotItem.ParentShowDetail
 ms.assetid: 7700aa5c-e90a-864f-b907-a84656ecdaaa

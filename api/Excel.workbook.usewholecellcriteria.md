@@ -3,7 +3,6 @@ title: Workbook.UseWholeCellCriteria property (Excel)
 keywords: vbaxl10.chm199273
 f1_keywords:
 - vbaxl10.chm199273
-ms.prod: excel
 ms.assetid: b65093aa-37ca-2aa1-4f18-c90bc7536f74
 ms.date: 05/29/2019
 ms.localizationpriority: medium

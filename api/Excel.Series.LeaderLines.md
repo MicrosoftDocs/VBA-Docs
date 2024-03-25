@@ -3,7 +3,6 @@ title: Series.LeaderLines property (Excel)
 keywords: vbaxl10.chm578121
 f1_keywords:
 - vbaxl10.chm578121
-ms.prod: excel
 api_name:
 - Excel.Series.LeaderLines
 ms.assetid: d08a982c-8ac0-3f72-3f94-d72b3081f013

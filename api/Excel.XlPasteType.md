@@ -1,6 +1,5 @@
 ---
 title: XlPasteType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPasteType
 ms.assetid: a60202d9-b380-ed88-b7d8-66bf34e032a5

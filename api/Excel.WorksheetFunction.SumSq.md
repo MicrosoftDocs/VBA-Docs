@@ -3,7 +3,6 @@ title: WorksheetFunction.SumSq method (Excel)
 keywords: vbaxl10.chm137225
 f1_keywords:
 - vbaxl10.chm137225
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumSq
 ms.assetid: 63e68e24-459a-d8bb-21b2-e9905a3c14ff

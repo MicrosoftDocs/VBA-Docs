@@ -3,7 +3,6 @@ title: Gridlines.Parent property (Excel)
 keywords: vbaxl10.chm602073
 f1_keywords:
 - vbaxl10.chm602073
-ms.prod: excel
 api_name:
 - Excel.Gridlines.Parent
 ms.assetid: 78d616e6-0eb1-3a9a-31b0-ce368df620a2

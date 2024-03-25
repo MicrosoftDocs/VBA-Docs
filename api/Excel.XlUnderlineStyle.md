@@ -1,6 +1,5 @@
 ---
 title: XlUnderlineStyle enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlUnderlineStyle
 ms.assetid: 4b847715-a0eb-6db0-f358-870b4012b242

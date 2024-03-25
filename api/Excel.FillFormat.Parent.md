@@ -3,7 +3,6 @@ title: FillFormat.Parent property (Excel)
 keywords: vbaxl10.chm115001
 f1_keywords:
 - vbaxl10.chm115001
-ms.prod: excel
 api_name:
 - Excel.FillFormat.Parent
 ms.assetid: 6398c299-776a-3b69-7131-74ed43c79723

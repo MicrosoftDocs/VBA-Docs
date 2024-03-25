@@ -3,7 +3,6 @@ title: AddIn.FullName property (Excel)
 keywords: vbaxl10.chm185075
 f1_keywords:
 - vbaxl10.chm185075
-ms.prod: excel
 api_name:
 - Excel.AddIn.FullName
 ms.assetid: d5e0672e-0595-16f7-9364-f8aee9d9388e

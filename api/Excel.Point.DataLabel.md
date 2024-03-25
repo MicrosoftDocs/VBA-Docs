@@ -3,7 +3,6 @@ title: Point.DataLabel property (Excel)
 keywords: vbaxl10.chm576078
 f1_keywords:
 - vbaxl10.chm576078
-ms.prod: excel
 api_name:
 - Excel.Point.DataLabel
 ms.assetid: 2f860d46-c6b5-50cf-b0af-4c46d9f7b2ac

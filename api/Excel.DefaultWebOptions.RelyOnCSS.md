@@ -3,7 +3,6 @@ title: DefaultWebOptions.RelyOnCSS property (Excel)
 keywords: vbaxl10.chm660073
 f1_keywords:
 - vbaxl10.chm660073
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.RelyOnCSS
 ms.assetid: 7700b648-9313-db23-bf27-5b73f21e5bce

@@ -3,7 +3,6 @@ title: LegendEntry.Creator property (Excel)
 keywords: vbaxl10.chm585074
 f1_keywords:
 - vbaxl10.chm585074
-ms.prod: excel
 api_name:
 - Excel.LegendEntry.Creator
 ms.assetid: fbccd29b-fac2-1fb7-665d-7243987a16be
