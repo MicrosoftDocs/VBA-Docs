@@ -3,7 +3,6 @@ title: WorksheetFunction.RTD method (Excel)
 keywords: vbaxl10.chm137260
 f1_keywords:
 - vbaxl10.chm137260
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.RTD
 ms.assetid: 1c3603d3-4f45-bd67-17f5-167685e3297c

@@ -3,7 +3,6 @@ title: QueryTable.CancelRefresh method (Excel)
 keywords: vbaxl10.chm518082
 f1_keywords:
 - vbaxl10.chm518082
-ms.prod: excel
 api_name:
 - Excel.QueryTable.CancelRefresh
 ms.assetid: be9491bd-9b42-4b88-ddb9-554cf431e779

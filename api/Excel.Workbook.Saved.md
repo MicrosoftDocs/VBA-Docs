@@ -3,7 +3,6 @@ title: Workbook.Saved property (Excel)
 keywords: vbaxl10.chm199147
 f1_keywords:
 - vbaxl10.chm199147
-ms.prod: excel
 api_name:
 - Excel.Workbook.Saved
 ms.assetid: 37eb8e08-2bfa-8065-2520-a71e291ab50c

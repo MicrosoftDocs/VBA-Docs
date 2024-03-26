@@ -3,7 +3,6 @@ title: PivotTable.DiscardChanges method (Excel)
 keywords: vbaxl10.chm235193
 f1_keywords:
 - vbaxl10.chm235193
-ms.prod: excel
 api_name:
 - Excel.PivotTable.DiscardChanges
 ms.assetid: 9ee2905f-7dd1-81d2-7075-7fdc78ad6f1c

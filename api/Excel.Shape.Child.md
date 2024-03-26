@@ -3,7 +3,6 @@ title: Shape.Child property (Excel)
 keywords: vbaxl10.chm636138
 f1_keywords:
 - vbaxl10.chm636138
-ms.prod: excel
 api_name:
 - Excel.Shape.Child
 ms.assetid: fa3a7f15-8f55-3c7f-4d4f-5af3744fe022

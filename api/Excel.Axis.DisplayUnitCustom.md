@@ -3,7 +3,6 @@ title: Axis.DisplayUnitCustom property (Excel)
 keywords: vbaxl10.chm561114
 f1_keywords:
 - vbaxl10.chm561114
-ms.prod: excel
 api_name:
 - Excel.Axis.DisplayUnitCustom
 ms.assetid: 77c660cc-dfb7-d4f7-6a8a-52522e026299

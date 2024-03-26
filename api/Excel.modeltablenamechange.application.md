@@ -3,7 +3,6 @@ title: ModelTableNameChange.Application property (Excel)
 keywords: vbaxl10.chm955073
 f1_keywords:
 - vbaxl10.chm955073
-ms.prod: excel
 ms.assetid: d393786f-8f33-ed78-42a3-436e92c2b704
 ms.date: 05/01/2019
 ms.localizationpriority: medium

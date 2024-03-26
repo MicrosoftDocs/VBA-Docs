@@ -3,7 +3,6 @@ title: Application.Caption property (Excel)
 keywords: vbaxl10.chm133088
 f1_keywords:
 - vbaxl10.chm133088
-ms.prod: excel
 api_name:
 - Excel.Application.Caption
 ms.assetid: 618f5623-2eb7-4b7e-2f15-c30a0c2e0fe2

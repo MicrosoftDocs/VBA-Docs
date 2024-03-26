@@ -3,7 +3,6 @@ title: Using events with embedded charts
 keywords: vbaxl10.chm5205779
 f1_keywords:
 - vbaxl10.chm5205779
-ms.prod: excel
 ms.assetid: 1202370e-2e24-5b02-e52f-6f7c84facdd2
 ms.date: 11/13/2018
 ms.localizationpriority: medium

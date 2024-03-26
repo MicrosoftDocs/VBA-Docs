@@ -3,7 +3,6 @@ title: FillFormat.TwoColorGradient method (Excel)
 keywords: vbaxl10.chm115008
 f1_keywords:
 - vbaxl10.chm115008
-ms.prod: excel
 api_name:
 - Excel.FillFormat.TwoColorGradient
 ms.assetid: 52b66d42-3489-365a-7c9e-368c27f45488

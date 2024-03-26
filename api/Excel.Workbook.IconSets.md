@@ -3,7 +3,6 @@ title: Workbook.IconSets property (Excel)
 keywords: vbaxl10.chm199261
 f1_keywords:
 - vbaxl10.chm199261
-ms.prod: excel
 api_name:
 - Excel.Workbook.IconSets
 ms.assetid: c837d2a8-d21d-7432-a409-f49426368556

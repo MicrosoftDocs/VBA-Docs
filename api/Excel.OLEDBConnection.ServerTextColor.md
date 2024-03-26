@@ -3,7 +3,6 @@ title: OLEDBConnection.ServerTextColor property (Excel)
 keywords: vbaxl10.chm794103
 f1_keywords:
 - vbaxl10.chm794103
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerTextColor
 ms.assetid: e2613e27-2d8f-8568-1018-b6910c7f7bba

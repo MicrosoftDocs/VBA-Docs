@@ -3,7 +3,6 @@ title: ConnectorFormat.Parent property (Excel)
 keywords: vbaxl10.chm645075
 f1_keywords:
 - vbaxl10.chm645075
-ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.Parent
 ms.assetid: d9f8adf3-739b-9bca-9725-12733feb2547

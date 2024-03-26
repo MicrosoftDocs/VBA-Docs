@@ -3,7 +3,6 @@ title: Gridlines.Delete method (Excel)
 keywords: vbaxl10.chm602077
 f1_keywords:
 - vbaxl10.chm602077
-ms.prod: excel
 api_name:
 - Excel.Gridlines.Delete
 ms.assetid: 8c9a3ef3-c99c-05be-0503-27469d44623e

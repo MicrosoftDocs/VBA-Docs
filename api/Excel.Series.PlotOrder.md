@@ -3,7 +3,6 @@ title: Series.PlotOrder property (Excel)
 keywords: vbaxl10.chm578103
 f1_keywords:
 - vbaxl10.chm578103
-ms.prod: excel
 api_name:
 - Excel.Series.PlotOrder
 ms.assetid: c74ba422-ca4d-db60-02aa-7b512bdd0241

@@ -3,7 +3,6 @@ title: Window.ScrollRow property (Excel)
 keywords: vbaxl10.chm356106
 f1_keywords:
 - vbaxl10.chm356106
-ms.prod: excel
 api_name:
 - Excel.Window.ScrollRow
 ms.assetid: 5fd21ea8-a173-e502-042d-57903bcd43e5

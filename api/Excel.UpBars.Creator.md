@@ -3,7 +3,6 @@ title: UpBars.Creator property (Excel)
 keywords: vbaxl10.chm607074
 f1_keywords:
 - vbaxl10.chm607074
-ms.prod: excel
 api_name:
 - Excel.UpBars.Creator
 ms.assetid: 0cfa8ef1-fd09-073c-8156-f2c684894b90

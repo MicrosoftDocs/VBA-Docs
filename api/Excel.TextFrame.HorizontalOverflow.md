@@ -3,7 +3,6 @@ title: TextFrame.HorizontalOverflow property (Excel)
 keywords: vbaxl10.chm644085
 f1_keywords:
 - vbaxl10.chm644085
-ms.prod: excel
 api_name:
 - Excel.TextFrame.HorizontalOverflow
 ms.assetid: 363f7e44-1f2e-78fb-38f6-5b89cd0d707d

@@ -3,7 +3,6 @@ title: Shape.Height property (Excel)
 keywords: vbaxl10.chm636098
 f1_keywords:
 - vbaxl10.chm636098
-ms.prod: excel
 api_name:
 - Excel.Shape.Height
 ms.assetid: b0b7ee95-509d-edff-f371-e57685ac2ddc

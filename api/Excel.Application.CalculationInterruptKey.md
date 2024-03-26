@@ -3,7 +3,6 @@ title: Application.CalculationInterruptKey property (Excel)
 keywords: vbaxl10.chm133266
 f1_keywords:
 - vbaxl10.chm133266
-ms.prod: excel
 api_name:
 - Excel.Application.CalculationInterruptKey
 ms.assetid: 1187c122-0498-a82c-5479-1595c7f06448

@@ -3,7 +3,6 @@ title: Name.Visible property (Excel)
 keywords: vbaxl10.chm490083
 f1_keywords:
 - vbaxl10.chm490083
-ms.prod: excel
 api_name:
 - Excel.Name.Visible
 ms.assetid: 078a949c-ff27-c62d-10b0-7d83b190da13

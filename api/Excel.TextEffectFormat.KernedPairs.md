@@ -3,7 +3,6 @@ title: TextEffectFormat.KernedPairs property (Excel)
 keywords: vbaxl10.chm118007
 f1_keywords:
 - vbaxl10.chm118007
-ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.KernedPairs
 ms.assetid: 107889be-57eb-7fcf-17a1-6a1393009701

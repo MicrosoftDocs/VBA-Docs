@@ -1,6 +1,5 @@
 ---
 title: XlYesNoGuess enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlYesNoGuess
 ms.assetid: c4c8e9b1-ad12-5c63-da32-60d410915452

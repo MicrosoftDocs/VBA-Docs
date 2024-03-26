@@ -3,7 +3,6 @@ title: WorksheetFunction.StEyx method (Excel)
 keywords: vbaxl10.chm137218
 f1_keywords:
 - vbaxl10.chm137218
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.StEyx
 ms.assetid: 6a637f86-3ef6-dc6a-fe21-51693c814159

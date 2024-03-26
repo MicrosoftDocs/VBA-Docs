@@ -3,7 +3,6 @@ title: SparklineGroups.Add method (Excel)
 keywords: vbaxl10.chm869073
 f1_keywords:
 - vbaxl10.chm869073
-ms.prod: excel
 api_name:
 - Excel.SparklineGroups.Add
 ms.assetid: ae41a572-c073-5251-b2c1-884e832e8ae5

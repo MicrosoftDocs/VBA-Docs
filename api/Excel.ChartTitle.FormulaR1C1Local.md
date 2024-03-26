@@ -3,7 +3,6 @@ title: ChartTitle.FormulaR1C1Local property (Excel)
 keywords: vbaxl10.chm563100
 f1_keywords:
 - vbaxl10.chm563100
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.FormulaR1C1Local
 ms.assetid: 7f1fcf73-a8a3-3a93-abeb-73f964784942

@@ -3,7 +3,6 @@ title: NumberFormat property (Excel Graph)
 keywords: vbagr10.chm65729
 f1_keywords:
 - vbagr10.chm65729
-ms.prod: excel
 api_name:
 - Excel.NumberFormat
 ms.assetid: 0a8b652a-6c8d-d4bd-4e93-e62ca86e6053

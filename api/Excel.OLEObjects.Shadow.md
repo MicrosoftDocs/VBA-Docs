@@ -3,7 +3,6 @@ title: OLEObjects.Shadow property (Excel)
 keywords: vbaxl10.chm420075
 f1_keywords:
 - vbaxl10.chm420075
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Shadow
 ms.assetid: 6c918a13-b982-70c4-9bf5-03873f8cea79

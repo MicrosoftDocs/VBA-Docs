@@ -3,7 +3,6 @@ title: XmlDataBinding.ClearSettings method (Excel)
 keywords: vbaxl10.chm748076
 f1_keywords:
 - vbaxl10.chm748076
-ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.ClearSettings
 ms.assetid: 3dbfa0df-4629-5b4b-2938-dafe79f9dedc

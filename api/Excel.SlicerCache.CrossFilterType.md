@@ -3,7 +3,6 @@ title: SlicerCache.CrossFilterType property (Excel)
 keywords: vbaxl10.chm897084
 f1_keywords:
 - vbaxl10.chm897084
-ms.prod: excel
 api_name:
 - Excel.SlicerCache.CrossFilterType
 ms.assetid: 8a29b376-c999-472d-0853-2e2f4a0949a0

@@ -3,7 +3,6 @@ title: Range.Orientation property (Excel)
 keywords: vbaxl10.chm144170
 f1_keywords:
 - vbaxl10.chm144170
-ms.prod: excel
 api_name:
 - Excel.Range.Orientation
 ms.assetid: 4f0588b6-2570-fe2f-0cbe-09868b77cff3

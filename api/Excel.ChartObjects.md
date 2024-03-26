@@ -3,7 +3,6 @@ title: ChartObjects object (Excel)
 keywords: vbaxl10.chm495072
 f1_keywords:
 - vbaxl10.chm495072
-ms.prod: excel
 api_name:
 - Excel.ChartObjects
 ms.assetid: 67cf2d82-ed9b-b23d-836f-19b106bcc5ed

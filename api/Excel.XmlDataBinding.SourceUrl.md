@@ -3,7 +3,6 @@ title: XmlDataBinding.SourceUrl property (Excel)
 keywords: vbaxl10.chm748077
 f1_keywords:
 - vbaxl10.chm748077
-ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.SourceUrl
 ms.assetid: 0c6f07c8-43db-eca4-ada2-5919f1e3160e

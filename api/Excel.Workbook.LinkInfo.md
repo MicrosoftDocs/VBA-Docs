@@ -3,7 +3,6 @@ title: Workbook.LinkInfo method (Excel)
 keywords: vbaxl10.chm199108
 f1_keywords:
 - vbaxl10.chm199108
-ms.prod: excel
 api_name:
 - Excel.Workbook.LinkInfo
 ms.assetid: 016295a3-72c1-95b3-c259-8f286b12b73c

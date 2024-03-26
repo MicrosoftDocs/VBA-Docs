@@ -1,6 +1,5 @@
 ---
 title: XlBordersIndex enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlBordersIndex
 ms.assetid: 91ab77e7-c54f-266d-fc61-7ce0bed1bd8c

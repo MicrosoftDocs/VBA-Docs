@@ -3,7 +3,6 @@ title: UsedObjects.Item property (Excel)
 keywords: vbaxl10.chm678076
 f1_keywords:
 - vbaxl10.chm678076
-ms.prod: excel
 api_name:
 - Excel.UsedObjects.Item
 ms.assetid: 1a1c36df-ef2e-6f0f-119c-b3f9e09acbb1

@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Edit method (Excel)
 keywords: vbaxl10.chm914087
 f1_keywords:
 - vbaxl10.chm914087
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Edit
 ms.assetid: bdb626b2-ed4a-06d2-076c-5d242d23a162

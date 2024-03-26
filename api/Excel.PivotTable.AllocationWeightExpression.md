@@ -3,7 +3,6 @@ title: PivotTable.AllocationWeightExpression property (Excel)
 keywords: vbaxl10.chm235190
 f1_keywords:
 - vbaxl10.chm235190
-ms.prod: excel
 api_name:
 - Excel.PivotTable.AllocationWeightExpression
 ms.assetid: 983f4819-5b3f-6f9d-667f-84feaf13bba5

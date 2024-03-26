@@ -3,7 +3,6 @@ title: ListObject.ShowAutoFilterDropDown property (Excel)
 keywords: vbaxl10.chm734112
 f1_keywords:
 - vbaxl10.chm734112
-ms.prod: excel
 ms.assetid: a264824e-3997-21b7-0c4b-ae417d1249b5
 ms.date: 04/30/2019
 ms.localizationpriority: medium

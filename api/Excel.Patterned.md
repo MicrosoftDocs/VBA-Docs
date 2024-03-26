@@ -3,7 +3,6 @@ title: Patterned method (Excel Graph)
 keywords: vbagr10.chm67164
 f1_keywords:
 - vbagr10.chm67164
-ms.prod: excel
 api_name:
 - Excel.Patterned
 ms.assetid: a492f089-cd6e-e7c3-2b25-7bcfadde4319

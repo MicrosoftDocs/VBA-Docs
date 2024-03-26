@@ -3,7 +3,6 @@ title: Workbook.ResetColors method (Excel)
 keywords: vbaxl10.chm199180
 f1_keywords:
 - vbaxl10.chm199180
-ms.prod: excel
 api_name:
 - Excel.Workbook.ResetColors
 ms.assetid: 1b56a4e9-0645-fa1e-55cc-09069c6a0ff1

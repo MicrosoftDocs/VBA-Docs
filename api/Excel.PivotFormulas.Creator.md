@@ -3,7 +3,6 @@ title: PivotFormulas.Creator property (Excel)
 keywords: vbaxl10.chm232074
 f1_keywords:
 - vbaxl10.chm232074
-ms.prod: excel
 api_name:
 - Excel.PivotFormulas.Creator
 ms.assetid: 23be5a99-984e-1c8b-ceb3-17e101b442d5

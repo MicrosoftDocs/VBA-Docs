@@ -3,7 +3,6 @@ title: Phonetics.Alignment property (Excel)
 keywords: vbaxl10.chm658078
 f1_keywords:
 - vbaxl10.chm658078
-ms.prod: excel
 api_name:
 - Excel.Phonetics.Alignment
 ms.assetid: 20573e0b-37d4-1600-dcc8-8f05e6a31bb1

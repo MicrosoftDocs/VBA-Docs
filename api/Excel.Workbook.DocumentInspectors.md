@@ -3,7 +3,6 @@ title: Workbook.DocumentInspectors property (Excel)
 keywords: vbaxl10.chm199241
 f1_keywords:
 - vbaxl10.chm199241
-ms.prod: excel
 api_name:
 - Excel.Workbook.DocumentInspectors
 ms.assetid: 26d2575f-6e61-4509-6a67-45ae576bc9fe

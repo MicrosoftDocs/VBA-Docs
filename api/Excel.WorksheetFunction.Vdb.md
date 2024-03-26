@@ -3,7 +3,6 @@ title: WorksheetFunction.Vdb method (Excel)
 keywords: vbaxl10.chm137161
 f1_keywords:
 - vbaxl10.chm137161
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Vdb
 ms.assetid: 601a57eb-56da-c3e5-4e6c-3029202c317d

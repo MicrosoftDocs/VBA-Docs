@@ -3,7 +3,6 @@ title: Filter.Application property (Excel)
 keywords: vbaxl10.chm541073
 f1_keywords:
 - vbaxl10.chm541073
-ms.prod: excel
 api_name:
 - Excel.Filter.Application
 ms.assetid: 92bb8fa0-ba2a-1dd5-c497-8e4a6d351365

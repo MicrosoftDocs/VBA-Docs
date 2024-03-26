@@ -1,6 +1,5 @@
 ---
 title: Adjustments.Creator property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Adjustments.Creator
 ms.assetid: 5038c1f3-8110-197b-c0f0-31c2e71bf003

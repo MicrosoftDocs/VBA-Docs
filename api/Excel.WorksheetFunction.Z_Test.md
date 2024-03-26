@@ -3,7 +3,6 @@ title: WorksheetFunction.Z_Test method (Excel)
 keywords: vbaxl10.chm137413
 f1_keywords:
 - vbaxl10.chm137413
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Z_Test
 ms.assetid: 86c2af95-965f-f249-7775-65ff5c41785d

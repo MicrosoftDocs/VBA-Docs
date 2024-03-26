@@ -3,7 +3,6 @@ title: Comment.Delete method (Excel)
 keywords: vbaxl10.chm516077
 f1_keywords:
 - vbaxl10.chm516077
-ms.prod: excel
 api_name:
 - Excel.Comment.Delete
 ms.assetid: c0289c56-cf93-5c86-b62f-cb33083c2c1d

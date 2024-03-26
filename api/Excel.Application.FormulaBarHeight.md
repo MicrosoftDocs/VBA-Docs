@@ -3,7 +3,6 @@ title: Application.FormulaBarHeight property (Excel)
 keywords: vbaxl10.chm133306
 f1_keywords:
 - vbaxl10.chm133306
-ms.prod: excel
 api_name:
 - Excel.Application.FormulaBarHeight
 ms.assetid: ff377046-06cb-9cf7-32f5-773da447c184

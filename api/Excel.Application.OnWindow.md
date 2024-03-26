@@ -3,7 +3,6 @@ title: Application.OnWindow property (Excel)
 keywords: vbaxl10.chm133186
 f1_keywords:
 - vbaxl10.chm133186
-ms.prod: excel
 api_name:
 - Excel.Application.OnWindow
 ms.assetid: 73ae5d34-66e6-3c1e-07f8-08850d13a4f5

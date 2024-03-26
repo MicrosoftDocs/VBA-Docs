@@ -3,7 +3,6 @@ title: Application.DisplayRecentFiles property (Excel)
 keywords: vbaxl10.chm133125
 f1_keywords:
 - vbaxl10.chm133125
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayRecentFiles
 ms.assetid: 006a38f4-11dd-1aad-8f5a-3771d4ab1ffc

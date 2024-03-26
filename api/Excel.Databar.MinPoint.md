@@ -3,7 +3,6 @@ title: DataBar.MinPoint property (Excel)
 keywords: vbaxl10.chm810076
 f1_keywords:
 - vbaxl10.chm810076
-ms.prod: excel
 api_name:
 - Excel.DataBar.MinPoint
 ms.assetid: d9a0a554-50e8-24a1-e10b-c4ee4cdbc159

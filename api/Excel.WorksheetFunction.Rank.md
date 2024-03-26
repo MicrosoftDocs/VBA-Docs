@@ -3,7 +3,6 @@ title: WorksheetFunction.Rank method (Excel)
 keywords: vbaxl10.chm137159
 f1_keywords:
 - vbaxl10.chm137159
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Rank
 ms.assetid: e75cabc4-1d97-b8fd-4e7d-3b12ab6a53c5

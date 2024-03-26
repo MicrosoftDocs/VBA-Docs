@@ -3,7 +3,6 @@ title: Chart.FullSeriesCollection method (Excel)
 keywords: vbaxl10.chm149194
 f1_keywords:
 - vbaxl10.chm149194
-ms.prod: excel
 ms.assetid: 875c18cf-064f-6b2f-2650-f5d07c16bc4d
 ms.date: 04/16/2019
 ms.localizationpriority: medium

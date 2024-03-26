@@ -3,7 +3,6 @@ title: Count property (Excel Graph)
 keywords: vbagr10.chm65654
 f1_keywords:
 - vbagr10.chm65654
-ms.prod: excel
 ms.assetid: 35eab4b7-6b48-c037-6d25-1d3a0016a528
 ms.date: 04/10/2019
 ms.localizationpriority: medium

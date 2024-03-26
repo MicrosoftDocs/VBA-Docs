@@ -3,7 +3,6 @@ title: SheetViews.Item property (Excel)
 keywords: vbaxl10.chm792075
 f1_keywords:
 - vbaxl10.chm792075
-ms.prod: excel
 api_name:
 - Excel.SheetViews.Item
 ms.assetid: 5a2c1646-8786-74d0-a421-93a3c59dc257

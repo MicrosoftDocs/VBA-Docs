@@ -3,7 +3,6 @@ title: Comments.Item method (Excel)
 keywords: vbaxl10.chm514074
 f1_keywords:
 - vbaxl10.chm514074
-ms.prod: excel
 api_name:
 - Excel.Comments.Item
 ms.assetid: 87f0ecf0-9261-ffaf-39ca-4cdbc5712368

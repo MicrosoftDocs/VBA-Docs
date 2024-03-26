@@ -3,7 +3,6 @@ title: ModelChanges object (Excel)
 keywords: vbaxl10.chm959072
 f1_keywords:
 - vbaxl10.chm959072
-ms.prod: excel
 ms.assetid: fd2388eb-48ab-c238-2ffa-8c3f6d20fe36
 ms.date: 03/30/2019
 ms.localizationpriority: medium

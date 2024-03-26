@@ -3,7 +3,6 @@ title: ControlFormat.Application property (Excel)
 keywords: vbaxl10.chm629073
 f1_keywords:
 - vbaxl10.chm629073
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.Application
 ms.assetid: 6330abcc-bb92-358d-f690-bdb5eee357bd

@@ -3,7 +3,6 @@ title: PivotFields.Item method (Excel)
 keywords: vbaxl10.chm242075
 f1_keywords:
 - vbaxl10.chm242075
-ms.prod: excel
 api_name:
 - Excel.PivotFields.Item
 ms.assetid: 497c8536-30cb-8c7b-8d83-62ae94a37a7f

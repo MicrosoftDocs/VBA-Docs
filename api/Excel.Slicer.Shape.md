@@ -3,7 +3,6 @@ title: Slicer.Shape property (Excel)
 keywords: vbaxl10.chm905087
 f1_keywords:
 - vbaxl10.chm905087
-ms.prod: excel
 api_name:
 - Excel.Slicer.Shape
 ms.assetid: 60fd5911-592e-a12a-8244-b6eaddd248ba

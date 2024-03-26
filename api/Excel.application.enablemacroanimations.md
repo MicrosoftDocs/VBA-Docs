@@ -3,7 +3,6 @@ title: Application.EnableMacroAnimations property (Excel)
 keywords: vbaxl10.chm133340
 f1_keywords:
 - vbaxl10.chm133340
-ms.prod: excel
 ms.assetid: b1befccc-4f27-862b-8ab3-c862b5cb79b3
 ms.date: 04/04/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ShapeRange.Decorative property (Excel)
 keywords: vbaxl10.chm636159
 f1_keywords:
 - vbaxl10.chm636159
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Decorative
 ms.assetid: 2DF8D04C-5BFA-101B-BDE5-00AA0044DE52

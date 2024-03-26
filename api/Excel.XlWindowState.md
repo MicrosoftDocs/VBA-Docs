@@ -1,6 +1,5 @@
 ---
 title: XlWindowState enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlWindowState
 ms.assetid: 80d2ba14-7644-6998-5bff-d8a651502226

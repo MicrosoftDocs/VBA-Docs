@@ -3,7 +3,6 @@ title: Parameter.Creator property (Excel)
 keywords: vbaxl10.chm522074
 f1_keywords:
 - vbaxl10.chm522074
-ms.prod: excel
 api_name:
 - Excel.Parameter.Creator
 ms.assetid: 3af59d13-b371-3e9f-b6d2-62452a2cba98

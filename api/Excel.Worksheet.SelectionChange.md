@@ -3,7 +3,6 @@ title: Worksheet.SelectionChange event (Excel)
 keywords: vbaxl10.chm502073
 f1_keywords:
 - vbaxl10.chm502073
-ms.prod: excel
 api_name:
 - Excel.Worksheet.SelectionChange
 ms.assetid: 183e2ca7-06b2-f689-1f77-182dbfbf1e1d

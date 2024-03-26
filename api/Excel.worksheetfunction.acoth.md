@@ -3,7 +3,6 @@ title: WorksheetFunction.Acoth method (Excel)
 keywords: vbaxl10.chm137422
 f1_keywords:
 - vbaxl10.chm137422
-ms.prod: excel
 ms.assetid: 05c3d305-b838-753a-fc8c-409b049f10ed
 ms.date: 05/22/2019
 ms.localizationpriority: medium

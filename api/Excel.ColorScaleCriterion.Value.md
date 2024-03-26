@@ -3,7 +3,6 @@ title: ColorScaleCriterion.Value property (Excel)
 keywords: vbaxl10.chm808075
 f1_keywords:
 - vbaxl10.chm808075
-ms.prod: excel
 api_name:
 - Excel.ColorScaleCriterion.Value
 ms.assetid: 829e876f-ca11-855d-bda5-a1c7f86eeb0f

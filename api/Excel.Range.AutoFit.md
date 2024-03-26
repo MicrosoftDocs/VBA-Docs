@@ -3,7 +3,6 @@ title: Range.AutoFit method (Excel)
 keywords: vbaxl10.chm144085
 f1_keywords:
 - vbaxl10.chm144085
-ms.prod: excel
 api_name:
 - Excel.Range.AutoFit
 ms.assetid: 53a35cd3-00e7-f9f5-2cd2-8492d7814a11

@@ -3,7 +3,6 @@ title: ListRow object (Excel)
 keywords: vbaxl10.chm741072
 f1_keywords:
 - vbaxl10.chm741072
-ms.prod: excel
 api_name:
 - Excel.ListRow
 ms.assetid: ba3e4215-14b6-3dca-82d0-0951f9f2fc3e

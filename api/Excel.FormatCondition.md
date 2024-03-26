@@ -3,7 +3,6 @@ title: FormatCondition object (Excel)
 keywords: vbaxl10.chm511072
 f1_keywords:
 - vbaxl10.chm511072
-ms.prod: excel
 api_name:
 - Excel.FormatCondition
 ms.assetid: 38a2bca9-9b28-3ef2-8c7a-4d35a27229ec

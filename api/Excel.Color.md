@@ -3,7 +3,6 @@ title: Color property (Excel Graph)
 keywords: vbagr10.chm3077003
 f1_keywords:
 - vbagr10.chm3077003
-ms.prod: excel
 api_name:
 - Excel.Color
 ms.assetid: ef81e12e-1cf7-4935-e2ea-975cc8252d53

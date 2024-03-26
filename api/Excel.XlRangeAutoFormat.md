@@ -1,6 +1,5 @@
 ---
 title: XlRangeAutoFormat enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlRangeAutoFormat
 ms.assetid: d151846e-9e0a-126f-6c20-a81e54519550

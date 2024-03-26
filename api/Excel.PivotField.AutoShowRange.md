@@ -3,7 +3,6 @@ title: PivotField.AutoShowRange property (Excel)
 keywords: vbaxl10.chm240116
 f1_keywords:
 - vbaxl10.chm240116
-ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowRange
 ms.assetid: b554867d-a78a-f26a-24b0-405f2d8a7c54

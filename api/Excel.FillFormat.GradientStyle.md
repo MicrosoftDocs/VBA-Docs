@@ -3,7 +3,6 @@ title: FillFormat.GradientStyle property (Excel)
 keywords: vbaxl10.chm115015
 f1_keywords:
 - vbaxl10.chm115015
-ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientStyle
 ms.assetid: f5c5da88-ee2a-5d1b-eb00-c85134c8f36b

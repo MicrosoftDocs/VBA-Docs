@@ -3,7 +3,6 @@ title: ChartFormat.SoftEdge property (Excel)
 keywords: vbaxl10.chm861078
 f1_keywords:
 - vbaxl10.chm861078
-ms.prod: excel
 api_name:
 - Excel.ChartFormat.SoftEdge
 ms.assetid: daeff636-bd76-b11e-0fe6-d7cf85df28c7

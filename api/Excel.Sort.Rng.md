@@ -3,7 +3,6 @@ title: Sort.Rng property (Excel)
 keywords: vbaxl10.chm847073
 f1_keywords:
 - vbaxl10.chm847073
-ms.prod: excel
 api_name:
 - Excel.Sort.Rng
 ms.assetid: 5767a84c-ee1b-fc2b-a391-97ca318c455b

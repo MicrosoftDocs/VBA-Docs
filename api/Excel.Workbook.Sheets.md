@@ -3,7 +3,6 @@ title: Workbook.Sheets property (Excel)
 keywords: vbaxl10.chm199152
 f1_keywords:
 - vbaxl10.chm199152
-ms.prod: excel
 api_name:
 - Excel.Workbook.Sheets
 ms.assetid: 45e4e19e-55ea-9615-231d-9435ba6d5a63

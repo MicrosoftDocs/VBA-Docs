@@ -3,7 +3,6 @@ title: Application.SheetTableUpdate event (Excel)
 keywords: vbaxl10.chm504117
 f1_keywords:
 - vbaxl10.chm504117
-ms.prod: excel
 ms.assetid: 6b8a5015-d715-0921-2292-be373670f82e
 ms.date: 04/05/2019
 ms.localizationpriority: medium

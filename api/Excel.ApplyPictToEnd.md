@@ -3,7 +3,6 @@ title: ApplyPictToEnd property (Excel Graph)
 keywords: vbagr10.chm67197
 f1_keywords:
 - vbagr10.chm67197
-ms.prod: excel
 api_name:
 - Excel.ApplyPictToEnd
 ms.assetid: a063278c-9dc5-a28e-49c7-3045b8927c2e

@@ -3,7 +3,6 @@ title: ListObject.Unlist method (Excel)
 keywords: vbaxl10.chm734077
 f1_keywords:
 - vbaxl10.chm734077
-ms.prod: excel
 api_name:
 - Excel.ListObject.Unlist
 ms.assetid: 030f8f78-08e1-8a49-ee06-a7b4254aa5fc

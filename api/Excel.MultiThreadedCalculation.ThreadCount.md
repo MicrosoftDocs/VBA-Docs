@@ -3,7 +3,6 @@ title: MultiThreadedCalculation.ThreadCount property (Excel)
 keywords: vbaxl10.chm859075
 f1_keywords:
 - vbaxl10.chm859075
-ms.prod: excel
 api_name:
 - Excel.MultiThreadedCalculation.ThreadCount
 ms.assetid: 213ee475-51f1-b7bd-47ec-ec8893c77668

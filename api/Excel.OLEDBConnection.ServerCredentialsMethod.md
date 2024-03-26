@@ -3,7 +3,6 @@ title: OLEDBConnection.ServerCredentialsMethod property (Excel)
 keywords: vbaxl10.chm794097
 f1_keywords:
 - vbaxl10.chm794097
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerCredentialsMethod
 ms.assetid: 8c7a3e49-50a8-3211-6824-de91fd476182

@@ -3,7 +3,6 @@ title: Range.ShowCard method (Excel)
 keywords: vbaxl10.chm144258
 f1_keywords:
 - vbaxl10.chm144258
-ms.prod: excel
 api_name:
 - Excel.Range.ShowCard
 ms.date: 05/11/2019

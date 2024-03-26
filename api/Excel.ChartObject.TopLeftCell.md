@@ -3,7 +3,6 @@ title: ChartObject.TopLeftCell property (Excel)
 keywords: vbaxl10.chm494093
 f1_keywords:
 - vbaxl10.chm494093
-ms.prod: excel
 api_name:
 - Excel.ChartObject.TopLeftCell
 ms.assetid: 582879c6-528d-3979-c52e-13c738ba6902

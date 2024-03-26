@@ -3,7 +3,6 @@ title: Trendline object (Excel Graph)
 keywords: vbagr10.chm131198
 f1_keywords:
 - vbagr10.chm131198
-ms.prod: excel
 api_name:
 - Excel.Trendline
 ms.assetid: 227bc97a-1bdf-f90b-9bef-f9f611c643af

@@ -3,7 +3,6 @@ title: PivotTable.RowGrand property (Excel)
 keywords: vbaxl10.chm235094
 f1_keywords:
 - vbaxl10.chm235094
-ms.prod: excel
 api_name:
 - Excel.PivotTable.RowGrand
 ms.assetid: 9d016b8d-4c2b-86a3-bcf1-a9a7356b825d

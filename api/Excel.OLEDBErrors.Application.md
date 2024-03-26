@@ -3,7 +3,6 @@ title: OLEDBErrors.Application property (Excel)
 keywords: vbaxl10.chm655073
 f1_keywords:
 - vbaxl10.chm655073
-ms.prod: excel
 api_name:
 - Excel.OLEDBErrors.Application
 ms.assetid: eff6b776-cc64-e531-fb4a-1bd14456aae0

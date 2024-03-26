@@ -3,7 +3,6 @@ title: Worksheet.Tab property (Excel)
 keywords: vbaxl10.chm175149
 f1_keywords:
 - vbaxl10.chm175149
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Tab
 ms.assetid: 386edcb0-868e-3f24-b4f0-8e52b9fcffcb

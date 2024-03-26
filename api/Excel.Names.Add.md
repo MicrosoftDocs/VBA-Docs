@@ -3,7 +3,6 @@ title: Names.Add method (Excel)
 keywords: vbaxl10.chm488073
 f1_keywords:
 - vbaxl10.chm488073
-ms.prod: excel
 api_name:
 - Excel.Names.Add
 ms.assetid: 89a888bc-20b1-dd63-ede9-b3ba1d5ffab0

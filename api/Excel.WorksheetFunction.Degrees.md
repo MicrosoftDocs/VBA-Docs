@@ -3,7 +3,6 @@ title: WorksheetFunction.Degrees method (Excel)
 keywords: vbaxl10.chm137239
 f1_keywords:
 - vbaxl10.chm137239
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Degrees
 ms.assetid: 3f66157e-0d2d-f746-1d73-ee7093e6c759

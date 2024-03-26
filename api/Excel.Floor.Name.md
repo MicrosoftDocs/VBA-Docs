@@ -3,7 +3,6 @@ title: Floor.Name property (Excel)
 keywords: vbaxl10.chm612074
 f1_keywords:
 - vbaxl10.chm612074
-ms.prod: excel
 api_name:
 - Excel.Floor.Name
 ms.assetid: cf57bae9-531d-74b1-d0c8-80c2d164efea

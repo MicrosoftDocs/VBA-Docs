@@ -3,7 +3,6 @@ title: SetEchoOn method (Excel Graph)
 keywords: vbagr10.chm3077084
 f1_keywords:
 - vbagr10.chm3077084
-ms.prod: excel
 api_name:
 - Excel.SetEchoOn
 ms.assetid: 48490f33-63ef-aef1-8e54-51ac5d8f35e5

@@ -3,7 +3,6 @@ title: PivotTable.CommitChanges method (Excel)
 keywords: vbaxl10.chm235192
 f1_keywords:
 - vbaxl10.chm235192
-ms.prod: excel
 api_name:
 - Excel.PivotTable.CommitChanges
 ms.assetid: f64031c6-8309-7c8a-5786-949d2ec10dea

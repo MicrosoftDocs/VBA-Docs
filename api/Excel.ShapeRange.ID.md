@@ -3,7 +3,6 @@ title: ShapeRange.ID property (Excel)
 keywords: vbaxl10.chm640133
 f1_keywords:
 - vbaxl10.chm640133
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.ID
 ms.assetid: b95dd429-333c-59e6-23b1-dde9ee0eac4c

@@ -3,7 +3,6 @@ title: ListObject.ShowHeaders property (Excel)
 keywords: vbaxl10.chm734098
 f1_keywords:
 - vbaxl10.chm734098
-ms.prod: excel
 api_name:
 - Excel.ListObject.ShowHeaders
 ms.assetid: 9b22396b-766d-7ff3-6d18-a6e5bf4bcc57

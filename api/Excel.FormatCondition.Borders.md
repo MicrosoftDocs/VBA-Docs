@@ -3,7 +3,6 @@ title: FormatCondition.Borders property (Excel)
 keywords: vbaxl10.chm512079
 f1_keywords:
 - vbaxl10.chm512079
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.Borders
 ms.assetid: 2f165a74-0b95-6643-5bd2-6a778523a411

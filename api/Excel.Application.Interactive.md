@@ -3,7 +3,6 @@ title: Application.Interactive property (Excel)
 keywords: vbaxl10.chm133150
 f1_keywords:
 - vbaxl10.chm133150
-ms.prod: excel
 api_name:
 - Excel.Application.Interactive
 ms.assetid: fe69429e-8715-770c-3e7a-c06a10a8e850

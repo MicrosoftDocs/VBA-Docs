@@ -3,7 +3,6 @@ title: ColorStop.Position property (Excel)
 keywords: vbaxl10.chm851077
 f1_keywords:
 - vbaxl10.chm851077
-ms.prod: excel
 api_name:
 - Excel.ColorStop.Position
 ms.assetid: 788dfbf4-3274-d05f-1613-c52feab150b1

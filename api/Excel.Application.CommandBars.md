@@ -3,7 +3,6 @@ title: Application.CommandBars property (Excel)
 keywords: vbaxl10.chm183088
 f1_keywords:
 - vbaxl10.chm183088
-ms.prod: excel
 api_name:
 - Excel.Application.CommandBars
 ms.assetid: b1884d43-557b-47be-1cef-20404069b576

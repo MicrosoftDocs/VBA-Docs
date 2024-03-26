@@ -3,7 +3,6 @@ title: AxisTitle object (Excel)
 keywords: vbaxl10.chm564072
 f1_keywords:
 - vbaxl10.chm564072
-ms.prod: excel
 api_name:
 - Excel.AxisTitle
 ms.assetid: 563d3ba5-aa77-b6fc-236a-7838d75eaa53

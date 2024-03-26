@@ -3,7 +3,6 @@ title: Series.PictureUnit2 property (Excel)
 keywords: vbaxl10.chm578123
 f1_keywords:
 - vbaxl10.chm578123
-ms.prod: excel
 api_name:
 - Excel.Series.PictureUnit2
 ms.assetid: 6c29fd60-2e42-3f7a-1fc0-67309ea75a3a

@@ -3,7 +3,6 @@ title: Workbook.ServerViewableItems property (Excel)
 keywords: vbaxl10.chm199245
 f1_keywords:
 - vbaxl10.chm199245
-ms.prod: excel
 api_name:
 - Excel.Workbook.ServerViewableItems
 ms.assetid: 2c10a647-2b2c-0640-9990-109b89444cd2

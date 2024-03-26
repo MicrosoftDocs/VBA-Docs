@@ -3,7 +3,6 @@ title: WorksheetFunction.Acosh method (Excel)
 keywords: vbaxl10.chm137168
 f1_keywords:
 - vbaxl10.chm137168
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Acosh
 ms.assetid: 919150e6-cab9-5470-f68d-fd69a4abf388

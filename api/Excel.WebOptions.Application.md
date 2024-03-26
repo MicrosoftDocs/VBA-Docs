@@ -3,7 +3,6 @@ title: WebOptions.Application property (Excel)
 keywords: vbaxl10.chm661073
 f1_keywords:
 - vbaxl10.chm661073
-ms.prod: excel
 api_name:
 - Excel.WebOptions.Application
 ms.assetid: 563c8930-837f-6caa-e2c8-02bb3b816f4a

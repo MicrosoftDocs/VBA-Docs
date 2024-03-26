@@ -3,7 +3,6 @@ title: SlicerItem.Parent property (Excel)
 keywords: vbaxl10.chm907073
 f1_keywords:
 - vbaxl10.chm907073
-ms.prod: excel
 api_name:
 - Excel.SlicerItem.Parent
 ms.assetid: 825bf5c7-755c-4916-f367-de96faf9843a

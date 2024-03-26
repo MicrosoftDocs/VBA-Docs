@@ -3,7 +3,6 @@ title: ModelRelationship.ForeignKeyColumn property (Excel)
 keywords: vbaxl10.chm938074
 f1_keywords:
 - vbaxl10.chm938074
-ms.prod: excel
 ms.assetid: bb1ac5e8-1de7-5ccc-890e-691a924fbb77
 ms.date: 04/20/2019
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: FormatCondition.DateOperator property (Excel)
 keywords: vbaxl10.chm512085
 f1_keywords:
 - vbaxl10.chm512085
-ms.prod: excel
 api_name:
 - Excel.FormatCondition.DateOperator
 ms.assetid: 57c62797-5b82-4581-2afe-1cd03f36a91e

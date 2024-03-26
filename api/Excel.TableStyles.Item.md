@@ -3,7 +3,6 @@ title: TableStyles.Item method (Excel)
 keywords: vbaxl10.chm841075
 f1_keywords:
 - vbaxl10.chm841075
-ms.prod: excel
 api_name:
 - Excel.TableStyles.Item
 ms.assetid: 32d7fb2e-5755-0e1a-5e9a-8f85a706acee

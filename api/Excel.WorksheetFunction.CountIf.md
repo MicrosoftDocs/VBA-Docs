@@ -3,7 +3,6 @@ title: WorksheetFunction.CountIf method (Excel)
 keywords: vbaxl10.chm137242
 f1_keywords:
 - vbaxl10.chm137242
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.CountIf
 ms.assetid: d0251b63-cc9e-a58c-1862-adbd58004126

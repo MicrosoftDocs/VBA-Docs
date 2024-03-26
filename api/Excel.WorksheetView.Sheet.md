@@ -3,7 +3,6 @@ title: WorksheetView.Sheet property (Excel)
 keywords: vbaxl10.chm778073
 f1_keywords:
 - vbaxl10.chm778073
-ms.prod: excel
 api_name:
 - Excel.WorksheetView.Sheet
 ms.assetid: 78fc5918-fcd8-d98a-7cc1-df8734127900

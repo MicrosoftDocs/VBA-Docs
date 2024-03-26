@@ -3,7 +3,6 @@ title: WorksheetFunction.T_Dist_2T method (Excel)
 keywords: vbaxl10.chm137384
 f1_keywords:
 - vbaxl10.chm137384
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.T_Dist_2T
 ms.assetid: e4927634-d94c-5bcc-7bef-ad35a315bc69

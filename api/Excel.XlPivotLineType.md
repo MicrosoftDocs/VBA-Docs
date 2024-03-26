@@ -1,6 +1,5 @@
 ---
 title: XlPivotLineType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPivotLineType
 ms.assetid: c66f7b11-cfef-c752-afc2-317fe4a6ec17

@@ -3,7 +3,6 @@ title: Range.AddComment method (Excel)
 keywords: vbaxl10.chm144222
 f1_keywords:
 - vbaxl10.chm144222
-ms.prod: excel
 api_name:
 - Excel.Range.AddComment
 ms.assetid: 89bbacad-4655-bcc1-8010-2ab367cc7b31

@@ -3,7 +3,6 @@ title: ThreeDFormat.SetThreeDFormat method (Excel)
 keywords: vbaxl10.chm119003
 f1_keywords:
 - vbaxl10.chm119003
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.SetThreeDFormat
 ms.assetid: 64315607-991a-426e-e931-78432558832e

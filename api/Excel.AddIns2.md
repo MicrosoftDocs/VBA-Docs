@@ -3,7 +3,6 @@ title: AddIns2 object (Excel)
 keywords: vbaxl10.chm866072
 f1_keywords:
 - vbaxl10.chm866072
-ms.prod: excel
 api_name:
 - Excel.AddIns2
 ms.assetid: ca4bff78-8ddb-6bc3-b95a-a06a9f75dd88

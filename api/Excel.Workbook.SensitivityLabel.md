@@ -1,6 +1,5 @@
 ---
 title: Workbook.SensitivityLabel property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Workbook.Reply
 ms.assetid: a59e2890-9795-4a78-bf94-31ec8fd17b3e

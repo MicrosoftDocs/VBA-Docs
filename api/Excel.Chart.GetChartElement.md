@@ -3,7 +3,6 @@ title: Chart.GetChartElement method (Excel)
 keywords: vbaxl10.chm149161
 f1_keywords:
 - vbaxl10.chm149161
-ms.prod: excel
 api_name:
 - Excel.Chart.GetChartElement
 ms.assetid: a4888d1b-f73b-43cd-5318-95c1d63944fa

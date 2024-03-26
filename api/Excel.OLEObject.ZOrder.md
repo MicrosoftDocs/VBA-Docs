@@ -3,7 +3,6 @@ title: OLEObject.ZOrder property (Excel)
 keywords: vbaxl10.chm415096
 f1_keywords:
 - vbaxl10.chm415096
-ms.prod: excel
 api_name:
 - Excel.OLEObject.ZOrder
 ms.assetid: dd7c2c81-6582-5de9-d254-66061d4345ef

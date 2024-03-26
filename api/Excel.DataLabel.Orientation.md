@@ -3,7 +3,6 @@ title: DataLabel.Orientation property (Excel)
 keywords: vbaxl10.chm582085
 f1_keywords:
 - vbaxl10.chm582085
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Orientation
 ms.assetid: 72debe2d-12fe-9a42-95c6-e8c8e4d90530

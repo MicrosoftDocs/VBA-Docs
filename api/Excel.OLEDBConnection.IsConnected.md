@@ -3,7 +3,6 @@ title: OLEDBConnection.IsConnected property (Excel)
 keywords: vbaxl10.chm794096
 f1_keywords:
 - vbaxl10.chm794096
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.IsConnected
 ms.assetid: 3538c8bd-5027-8f48-d6b5-b18de0db4159

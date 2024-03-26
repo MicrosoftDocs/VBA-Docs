@@ -3,7 +3,6 @@ title: AboveAverage object (Excel)
 keywords: vbaxl10.chm823072
 f1_keywords:
 - vbaxl10.chm823072
-ms.prod: excel
 api_name:
 - Excel.AboveAverage
 ms.assetid: dd4ea82f-7986-5d6f-2b0e-fe0ca38226e2

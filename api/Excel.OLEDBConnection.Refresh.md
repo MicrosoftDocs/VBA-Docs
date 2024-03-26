@@ -3,7 +3,6 @@ title: OLEDBConnection.Refresh method (Excel)
 keywords: vbaxl10.chm794083
 f1_keywords:
 - vbaxl10.chm794083
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.Refresh
 ms.assetid: c28e9443-81e2-dfec-a3fb-a127c3fa2918

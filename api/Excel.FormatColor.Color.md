@@ -3,7 +3,6 @@ title: FormatColor.Color property (Excel)
 keywords: vbaxl10.chm802073
 f1_keywords:
 - vbaxl10.chm802073
-ms.prod: excel
 api_name:
 - Excel.FormatColor.Color
 ms.assetid: c084cdbc-068c-bd0c-2f35-987964286be2

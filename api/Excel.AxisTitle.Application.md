@@ -3,7 +3,6 @@ title: AxisTitle.Application property (Excel)
 keywords: vbaxl10.chm564073
 f1_keywords:
 - vbaxl10.chm564073
-ms.prod: excel
 api_name:
 - Excel.AxisTitle.Application
 ms.assetid: 55ed4030-8cb3-554b-2514-2560c3b74e1f

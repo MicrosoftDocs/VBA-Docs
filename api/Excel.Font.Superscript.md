@@ -3,7 +3,6 @@ title: Font.Superscript property (Excel)
 keywords: vbaxl10.chm559085
 f1_keywords:
 - vbaxl10.chm559085
-ms.prod: excel
 api_name:
 - Excel.Font.Superscript
 ms.assetid: 23a5d707-d92a-6591-beaf-8fc62f4d3237

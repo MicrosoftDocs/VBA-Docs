@@ -3,7 +3,6 @@ title: MajorUnitScale property (Excel Graph)
 keywords: vbagr10.chm67185
 f1_keywords:
 - vbagr10.chm67185
-ms.prod: excel
 api_name:
 - Excel.MajorUnitScale
 ms.assetid: b2a54ca7-6eac-5552-6de7-ee0ab59e1ddb

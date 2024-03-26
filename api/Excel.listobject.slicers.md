@@ -3,7 +3,6 @@ title: ListObject.Slicers property (Excel)
 keywords: vbaxl10.chm734111
 f1_keywords:
 - vbaxl10.chm734111
-ms.prod: excel
 ms.assetid: 9f144c90-461f-04d7-9b26-512d394f4e0a
 ms.date: 04/30/2019
 ms.localizationpriority: medium

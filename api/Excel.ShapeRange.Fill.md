@@ -3,7 +3,6 @@ title: ShapeRange.Fill property (Excel)
 keywords: vbaxl10.chm640103
 f1_keywords:
 - vbaxl10.chm640103
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Fill
 ms.assetid: 90cdad1e-ecc5-e5be-4270-51c28666b0f4

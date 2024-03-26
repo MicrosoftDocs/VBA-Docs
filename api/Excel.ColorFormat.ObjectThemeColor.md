@@ -3,7 +3,6 @@ title: ColorFormat.ObjectThemeColor property (Excel)
 keywords: vbaxl10.chm0
 f1_keywords:
 - vbaxl10.chm0
-ms.prod: excel
 api_name:
 - Excel.ColorFormat.ObjectThemeColor
 ms.assetid: 0143043a-bb1d-bca9-372f-d0dbdfefb793

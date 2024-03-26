@@ -3,7 +3,6 @@ title: ModelTable.Name property (Excel)
 keywords: vbaxl10.chm934073
 f1_keywords:
 - vbaxl10.chm934073
-ms.prod: excel
 ms.assetid: 47dd37e5-b309-7b1b-bcd8-7a2b08d3801d
 ms.date: 05/01/2019
 ms.localizationpriority: medium

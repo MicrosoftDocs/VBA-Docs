@@ -3,7 +3,6 @@ title: HasAxis property (Excel Graph)
 keywords: vbagr10.chm65588
 f1_keywords:
 - vbagr10.chm65588
-ms.prod: excel
 api_name:
 - Excel.HasAxis
 ms.assetid: 2de3c3a1-7b9c-a4d9-40cb-906fd5d6f4cb

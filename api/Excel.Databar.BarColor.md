@@ -3,7 +3,6 @@ title: DataBar.BarColor property (Excel)
 keywords: vbaxl10.chm810080
 f1_keywords:
 - vbaxl10.chm810080
-ms.prod: excel
 api_name:
 - Excel.DataBar.BarColor
 ms.assetid: 68c823f7-93ca-a64a-43ea-bc5bcffa7bb4

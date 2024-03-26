@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Characters property (Excel)
 keywords: vbaxl10.chm673080
 f1_keywords:
 - vbaxl10.chm673080
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Characters
 ms.assetid: a136b4c9-be4a-9b17-20f6-c8b694202e9e

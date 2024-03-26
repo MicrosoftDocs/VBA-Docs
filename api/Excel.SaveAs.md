@@ -3,7 +3,6 @@ title: SaveAs method (Excel Graph)
 keywords: vbagr10.chm3077082
 f1_keywords:
 - vbagr10.chm3077082
-ms.prod: excel
 api_name:
 - Excel.SaveAs
 ms.assetid: d8b3e963-e50a-3307-9abf-4ea37c46f114

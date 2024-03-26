@@ -3,7 +3,6 @@ title: Style.IncludeAlignment property (Excel)
 keywords: vbaxl10.chm177080
 f1_keywords:
 - vbaxl10.chm177080
-ms.prod: excel
 api_name:
 - Excel.Style.IncludeAlignment
 ms.assetid: 4b58251d-cf1f-3301-a597-3e2c756144fe

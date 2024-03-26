@@ -3,7 +3,6 @@ title: Application.Iteration property (Excel)
 keywords: vbaxl10.chm133152
 f1_keywords:
 - vbaxl10.chm133152
-ms.prod: excel
 api_name:
 - Excel.Application.Iteration
 ms.assetid: 51e5bd34-844b-3367-951a-6f2f8f9acf90

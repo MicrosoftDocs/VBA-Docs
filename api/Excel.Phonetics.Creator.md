@@ -3,7 +3,6 @@ title: Phonetics.Creator property (Excel)
 keywords: vbaxl10.chm657074
 f1_keywords:
 - vbaxl10.chm657074
-ms.prod: excel
 api_name:
 - Excel.Phonetics.Creator
 ms.assetid: 7419d5c6-88f4-f07b-083a-ea15fdda3765

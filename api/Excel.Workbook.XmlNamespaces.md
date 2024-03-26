@@ -3,7 +3,6 @@ title: Workbook.XmlNamespaces property (Excel)
 keywords: vbaxl10.chm199224
 f1_keywords:
 - vbaxl10.chm199224
-ms.prod: excel
 api_name:
 - Excel.Workbook.XmlNamespaces
 ms.assetid: b93aba02-f831-6321-1c0d-2a30d417e57f

@@ -3,7 +3,6 @@ title: PatternColorIndex property (Excel Graph)
 keywords: vbagr10.chm3077568
 f1_keywords:
 - vbagr10.chm3077568
-ms.prod: excel
 api_name:
 - Excel.PatternColorIndex
 ms.assetid: d11aa18c-b46d-950c-78ef-e58dd1c751fb

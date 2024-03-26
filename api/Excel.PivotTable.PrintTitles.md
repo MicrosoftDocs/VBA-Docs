@@ -3,7 +3,6 @@ title: PivotTable.PrintTitles property (Excel)
 keywords: vbaxl10.chm235131
 f1_keywords:
 - vbaxl10.chm235131
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PrintTitles
 ms.assetid: a8138146-bfe9-1af9-c101-0c095c4a91a5

@@ -3,7 +3,6 @@ title: Validation.Application property (Excel)
 keywords: vbaxl10.chm531073
 f1_keywords:
 - vbaxl10.chm531073
-ms.prod: excel
 api_name:
 - Excel.Validation.Application
 ms.assetid: a332399a-3112-a3b8-905f-163437f6e195

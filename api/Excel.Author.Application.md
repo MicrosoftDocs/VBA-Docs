@@ -3,7 +3,6 @@ title: Author.Application property (Excel)
 keywords: vbaxl10.chm1011073
 f1_keywords:
 - vbaxl10.chm1011073
-ms.prod: excel
 api_name:
 - Excel.Author.Application
 ms.date: 05/15/2019

@@ -3,7 +3,6 @@ title: ChartArea.Top property (Excel)
 keywords: vbaxl10.chm620087
 f1_keywords:
 - vbaxl10.chm620087
-ms.prod: excel
 api_name:
 - Excel.ChartArea.Top
 ms.assetid: 2bca96fd-af61-2253-9acc-3c5567146477

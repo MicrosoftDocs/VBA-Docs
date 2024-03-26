@@ -3,7 +3,6 @@ title: Worksheets.Item property (Excel)
 keywords: vbaxl10.chm470078
 f1_keywords:
 - vbaxl10.chm470078
-ms.prod: excel
 api_name:
 - Excel.Worksheets.Item
 ms.assetid: 66099ca2-54a0-f8ae-58ab-07791bbf5e7c

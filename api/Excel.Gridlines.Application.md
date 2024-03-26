@@ -3,7 +3,6 @@ title: Gridlines.Application property (Excel)
 keywords: vbaxl10.chm601073
 f1_keywords:
 - vbaxl10.chm601073
-ms.prod: excel
 api_name:
 - Excel.Gridlines.Application
 ms.assetid: 083bedb3-6122-a23e-c718-aad001e1946d

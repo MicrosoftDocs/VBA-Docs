@@ -3,7 +3,6 @@ title: PivotTableChangeList.Parent property (Excel)
 keywords: vbaxl10.chm890075
 f1_keywords:
 - vbaxl10.chm890075
-ms.prod: excel
 api_name:
 - Excel.PivotTableChangeList.Parent
 ms.assetid: 27a1c04f-91d3-77f6-0efb-8262c7816f6e

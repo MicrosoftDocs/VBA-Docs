@@ -3,7 +3,6 @@ title: Range.Summary property (Excel)
 keywords: vbaxl10.chm144207
 f1_keywords:
 - vbaxl10.chm144207
-ms.prod: excel
 api_name:
 - Excel.Range.Summary
 ms.assetid: f9e18651-20b6-1094-2ee5-7cd23559498e

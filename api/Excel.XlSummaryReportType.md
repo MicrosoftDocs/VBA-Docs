@@ -1,6 +1,5 @@
 ---
 title: XlSummaryReportType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSummaryReportType
 ms.assetid: 4bb471df-e3e5-c9c0-a054-2bbcf1dbbc0b

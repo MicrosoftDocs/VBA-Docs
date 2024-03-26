@@ -3,7 +3,6 @@ title: Range.CountLarge property (Excel)
 keywords: vbaxl10.chm144247
 f1_keywords:
 - vbaxl10.chm144247
-ms.prod: excel
 api_name:
 - Excel.Range.CountLarge
 ms.assetid: 3a46ef6d-a339-b15e-990d-b11f462fb602

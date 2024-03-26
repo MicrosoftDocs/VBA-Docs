@@ -3,7 +3,6 @@ title: Axis.Format property (Excel)
 keywords: vbaxl10.chm561119
 f1_keywords:
 - vbaxl10.chm561119
-ms.prod: excel
 api_name:
 - Excel.Axis.Format
 ms.assetid: e7fe3b22-231c-bc54-483b-4151a865056b

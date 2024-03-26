@@ -3,7 +3,6 @@ title: WorksheetFunction.Creator property (Excel)
 keywords: vbaxl10.chm136074
 f1_keywords:
 - vbaxl10.chm136074
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Creator
 ms.assetid: 142d1b93-b4cf-2d69-c2c3-48072e31032b

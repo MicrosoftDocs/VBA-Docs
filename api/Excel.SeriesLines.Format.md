@@ -3,7 +3,6 @@ title: SeriesLines.Format property (Excel)
 keywords: vbaxl10.chm598078
 f1_keywords:
 - vbaxl10.chm598078
-ms.prod: excel
 api_name:
 - Excel.SeriesLines.Format
 ms.assetid: 2451c441-91b9-fbcf-3ada-3a9484205c2b

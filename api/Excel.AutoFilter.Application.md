@@ -3,7 +3,6 @@ title: AutoFilter.Application property (Excel)
 keywords: vbaxl10.chm537073
 f1_keywords:
 - vbaxl10.chm537073
-ms.prod: excel
 api_name:
 - Excel.AutoFilter.Application
 ms.assetid: 2eb42f8c-6b69-9379-48f1-11f4f4e02b24

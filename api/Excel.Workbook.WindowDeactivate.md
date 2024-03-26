@@ -3,7 +3,6 @@ title: Workbook.WindowDeactivate event (Excel)
 keywords: vbaxl10.chm503084
 f1_keywords:
 - vbaxl10.chm503084
-ms.prod: excel
 api_name:
 - Excel.Workbook.WindowDeactivate
 ms.assetid: d84f0819-00df-585f-ea31-e4ab5a72950e

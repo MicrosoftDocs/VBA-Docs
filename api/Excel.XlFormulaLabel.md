@@ -1,6 +1,5 @@
 ---
 title: XlFormulaLabel enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlFormulaLabel
 ms.assetid: 12918960-20e2-5485-2a62-cd044221039f

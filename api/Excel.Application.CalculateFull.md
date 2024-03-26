@@ -3,7 +3,6 @@ title: Application.CalculateFull method (Excel)
 keywords: vbaxl10.chm133255
 f1_keywords:
 - vbaxl10.chm133255
-ms.prod: excel
 api_name:
 - Excel.Application.CalculateFull
 ms.assetid: 11be6386-a5de-817f-0624-b7e7fd502ed3

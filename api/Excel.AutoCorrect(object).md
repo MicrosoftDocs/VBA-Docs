@@ -3,7 +3,6 @@ title: AutoCorrect object (Excel)
 keywords: vbaxl10.chm544072
 f1_keywords:
 - vbaxl10.chm544072
-ms.prod: excel
 api_name:
 - Excel.AutoCorrect
 ms.assetid: 2594722a-2ff9-7175-4d35-0da0ad413b0d

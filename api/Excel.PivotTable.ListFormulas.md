@@ -3,7 +3,6 @@ title: PivotTable.ListFormulas method (Excel)
 keywords: vbaxl10.chm235111
 f1_keywords:
 - vbaxl10.chm235111
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ListFormulas
 ms.assetid: 48e2ac3c-25c7-2e41-177a-97954569d3ee

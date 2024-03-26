@@ -3,7 +3,6 @@ title: SparkAxes.Vertical property (Excel)
 keywords: vbaxl10.chm877073
 f1_keywords:
 - vbaxl10.chm877073
-ms.prod: excel
 api_name:
 - Excel.SparkAxes.Vertical
 ms.assetid: fba4852b-3477-aaa4-9b56-7bbe4abacd98

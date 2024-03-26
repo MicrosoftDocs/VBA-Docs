@@ -3,7 +3,6 @@ title: XPath.SetValue method (Excel)
 keywords: vbaxl10.chm760076
 f1_keywords:
 - vbaxl10.chm760076
-ms.prod: excel
 api_name:
 - Excel.XPath.SetValue
 ms.assetid: 9d7e9eea-0962-cff8-6909-b31d349eb78a

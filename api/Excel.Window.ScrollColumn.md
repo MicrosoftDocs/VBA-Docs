@@ -3,7 +3,6 @@ title: Window.ScrollColumn property (Excel)
 keywords: vbaxl10.chm356105
 f1_keywords:
 - vbaxl10.chm356105
-ms.prod: excel
 api_name:
 - Excel.Window.ScrollColumn
 ms.assetid: 3068b3f9-0e5e-b841-4241-7f0c060a5c25

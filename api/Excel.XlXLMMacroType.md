@@ -1,6 +1,5 @@
 ---
 title: XlXLMMacroType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlXLMMacroType
 ms.assetid: 30054f35-b29a-96cf-bb7b-3fe3b9bf7e9d

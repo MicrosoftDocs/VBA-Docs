@@ -3,7 +3,6 @@ title: Worksheets.FillAcrossSheets method (Excel)
 keywords: vbaxl10.chm470077
 f1_keywords:
 - vbaxl10.chm470077
-ms.prod: excel
 api_name:
 - Excel.Worksheets.FillAcrossSheets
 ms.assetid: c006cee2-67a1-2f24-3061-a2eb32ee9ecf

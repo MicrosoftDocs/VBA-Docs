@@ -3,7 +3,6 @@ title: PageSetup.CenterHorizontally property (Excel)
 keywords: vbaxl10.chm473077
 f1_keywords:
 - vbaxl10.chm473077
-ms.prod: excel
 api_name:
 - Excel.PageSetup.CenterHorizontally
 ms.assetid: 6b3e97fd-6b05-6863-c642-b085ea9ddd33

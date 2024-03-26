@@ -3,7 +3,6 @@ title: XmlNamespaces.Value property (Excel)
 keywords: vbaxl10.chm746076
 f1_keywords:
 - vbaxl10.chm746076
-ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Value
 ms.assetid: 68eeae19-06d9-27c4-e256-e383999c3d9c

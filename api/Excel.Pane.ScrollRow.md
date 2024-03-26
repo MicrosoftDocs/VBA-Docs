@@ -3,7 +3,6 @@ title: Pane.ScrollRow property (Excel)
 keywords: vbaxl10.chm360077
 f1_keywords:
 - vbaxl10.chm360077
-ms.prod: excel
 api_name:
 - Excel.Pane.ScrollRow
 ms.assetid: eb1f55b8-6726-00b6-845f-1cbf47cf6b13

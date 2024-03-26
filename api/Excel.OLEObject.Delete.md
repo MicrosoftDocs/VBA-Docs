@@ -3,7 +3,6 @@ title: OLEObject.Delete method (Excel)
 keywords: vbaxl10.chm415079
 f1_keywords:
 - vbaxl10.chm415079
-ms.prod: excel
 api_name:
 - Excel.OLEObject.Delete
 ms.assetid: fef1973c-af98-0f3b-454b-023c181ee11d

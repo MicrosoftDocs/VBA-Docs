@@ -3,7 +3,6 @@ title: Filter.Count property (Excel)
 keywords: vbaxl10.chm542078
 f1_keywords:
 - vbaxl10.chm542078
-ms.prod: excel
 api_name:
 - Excel.Filter.Count
 ms.assetid: 873bd62a-85a1-32d5-92b9-6959499d57e9

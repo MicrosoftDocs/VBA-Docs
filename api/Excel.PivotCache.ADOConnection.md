@@ -3,7 +3,6 @@ title: PivotCache.ADOConnection property (Excel)
 keywords: vbaxl10.chm227097
 f1_keywords:
 - vbaxl10.chm227097
-ms.prod: excel
 api_name:
 - Excel.PivotCache.ADOConnection
 ms.assetid: 410a3eee-0dda-4be1-45c4-809893de624e

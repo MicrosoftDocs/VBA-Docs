@@ -3,7 +3,6 @@ title: Crosses property (Excel Graph)
 keywords: vbagr10.chm3076987
 f1_keywords:
 - vbagr10.chm3076987
-ms.prod: excel
 api_name:
 - Excel.Crosses
 ms.assetid: 60c2ae55-87ad-f28d-5739-cbd51c8144be

@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Width property (Excel)
 keywords: vbaxl10.chm673094
 f1_keywords:
 - vbaxl10.chm673094
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Width
 ms.assetid: 092eb5e0-2f9f-9ea2-2fb0-759a781b771b

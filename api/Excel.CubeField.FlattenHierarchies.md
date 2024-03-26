@@ -3,7 +3,6 @@ title: CubeField.FlattenHierarchies property (Excel)
 keywords: vbaxl10.chm668103
 f1_keywords:
 - vbaxl10.chm668103
-ms.prod: excel
 api_name:
 - Excel.CubeField.FlattenHierarchies
 ms.assetid: bb97acc3-199b-6c40-e5b5-d411eb40b7e6

@@ -3,7 +3,6 @@ title: Chart.ShowAxisFieldButtons property (Excel)
 keywords: vbaxl10.chm149191
 f1_keywords:
 - vbaxl10.chm149191
-ms.prod: excel
 api_name:
 - Excel.Chart.ShowAxisFieldButtons
 ms.assetid: 05eff4ce-c06b-b866-b0d7-8733cb51605a

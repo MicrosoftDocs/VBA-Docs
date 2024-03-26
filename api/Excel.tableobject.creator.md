@@ -3,7 +3,6 @@ title: TableObject.Creator property (Excel)
 keywords: vbaxl10.chm915074
 f1_keywords:
 - vbaxl10.chm915074
-ms.prod: excel
 ms.assetid: 978051f8-395f-a80b-b62f-ece1e78298f8
 ms.date: 04/19/2019
 ms.localizationpriority: medium

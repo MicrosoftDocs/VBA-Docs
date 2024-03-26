@@ -3,7 +3,6 @@ title: ChartGroup.CategoryCollection method (Excel)
 keywords: vbaxl10.chm568102
 f1_keywords:
 - vbaxl10.chm568102
-ms.prod: excel
 ms.assetid: e65cc293-c559-5868-efb9-0a52b2afb373
 ms.date: 04/20/2019
 ms.localizationpriority: medium

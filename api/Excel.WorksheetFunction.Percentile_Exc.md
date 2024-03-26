@@ -3,7 +3,6 @@ title: WorksheetFunction.Percentile_Exc method (Excel)
 keywords: vbaxl10.chm137372
 f1_keywords:
 - vbaxl10.chm137372
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Percentile_Exc
 ms.assetid: 56a7f7eb-c69c-0baa-c64b-68fb128c4861

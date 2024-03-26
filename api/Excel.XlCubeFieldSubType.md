@@ -1,6 +1,5 @@
 ---
 title: XlCubeFieldSubType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlCubeFieldSubType
 ms.assetid: 5c5f2390-9bbb-dc46-4aef-5dd47e256c59

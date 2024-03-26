@@ -3,7 +3,6 @@ title: PageSetup.FitToPagesWide property (Excel)
 keywords: vbaxl10.chm473083
 f1_keywords:
 - vbaxl10.chm473083
-ms.prod: excel
 api_name:
 - Excel.PageSetup.FitToPagesWide
 ms.assetid: 162bd2d2-35fa-8133-ab1c-27dcfc173317

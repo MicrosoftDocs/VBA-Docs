@@ -3,7 +3,6 @@ title: Names.Creator property (Excel)
 keywords: vbaxl10.chm487074
 f1_keywords:
 - vbaxl10.chm487074
-ms.prod: excel
 api_name:
 - Excel.Names.Creator
 ms.assetid: 7584df14-1683-a80d-ec09-2354bdb4e71d

@@ -3,7 +3,6 @@ title: Application.DisplayExcel4Menus property (Excel)
 keywords: vbaxl10.chm133124
 f1_keywords:
 - vbaxl10.chm133124
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayExcel4Menus
 ms.assetid: c281499a-cc84-5937-6436-78ecc8230a1d

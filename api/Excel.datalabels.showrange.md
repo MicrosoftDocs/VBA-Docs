@@ -3,7 +3,6 @@ title: DataLabels.ShowRange property (Excel)
 keywords: vbaxl10.chm584111
 f1_keywords:
 - vbaxl10.chm584111
-ms.prod: excel
 ms.assetid: 5915da64-a019-bd6e-1b5a-ce523e9906c3
 ms.date: 04/23/2019
 ms.localizationpriority: medium

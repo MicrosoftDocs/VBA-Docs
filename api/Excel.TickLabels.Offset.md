@@ -3,7 +3,6 @@ title: TickLabels.Offset property (Excel)
 keywords: vbaxl10.chm616085
 f1_keywords:
 - vbaxl10.chm616085
-ms.prod: excel
 api_name:
 - Excel.TickLabels.Offset
 ms.assetid: a353b803-34a3-0ff9-83d2-3318c308ec35

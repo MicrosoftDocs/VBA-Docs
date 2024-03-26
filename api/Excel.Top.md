@@ -3,7 +3,6 @@ title: Top property (Excel Graph)
 keywords: vbagr10.chm65662
 f1_keywords:
 - vbagr10.chm65662
-ms.prod: excel
 api_name:
 - Excel.Top
 ms.assetid: 57938f4c-cd1f-b420-154d-fe4a8775c826

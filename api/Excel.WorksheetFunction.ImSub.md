@@ -3,7 +3,6 @@ title: WorksheetFunction.ImSub method (Excel)
 keywords: vbaxl10.chm137273
 f1_keywords:
 - vbaxl10.chm137273
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImSub
 ms.assetid: bf3d6ea1-46e2-b6d3-66e0-40576db5be2f

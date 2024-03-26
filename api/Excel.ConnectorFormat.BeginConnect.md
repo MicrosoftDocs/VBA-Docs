@@ -3,7 +3,6 @@ title: ConnectorFormat.BeginConnect method (Excel)
 keywords: vbaxl10.chm646073
 f1_keywords:
 - vbaxl10.chm646073
-ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginConnect
 ms.assetid: f2539299-1b35-7cf9-d315-9df76299fc8b

@@ -3,7 +3,6 @@ title: SparklineGroup.Modify method (Excel)
 keywords: vbaxl10.chm871081
 f1_keywords:
 - vbaxl10.chm871081
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Modify
 ms.assetid: 596cdecb-dd03-0a63-e2b8-9aa459ff719c

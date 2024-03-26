@@ -3,7 +3,6 @@ title: WorksheetFunction.Oct2Dec method (Excel)
 keywords: vbaxl10.chm137269
 f1_keywords:
 - vbaxl10.chm137269
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Oct2Dec
 ms.assetid: 08694db9-136b-9bfe-7939-436f4773bffb

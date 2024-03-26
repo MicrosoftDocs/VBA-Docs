@@ -3,7 +3,6 @@ title: QueryTable.PreserveColumnInfo property (Excel)
 keywords: vbaxl10.chm518110
 f1_keywords:
 - vbaxl10.chm518110
-ms.prod: excel
 api_name:
 - Excel.QueryTable.PreserveColumnInfo
 ms.assetid: 736b5b43-17f5-84ca-6e79-e9eca12fe077

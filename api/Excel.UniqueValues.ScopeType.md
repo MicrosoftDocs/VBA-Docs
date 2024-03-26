@@ -3,7 +3,6 @@ title: UniqueValues.ScopeType property (Excel)
 keywords: vbaxl10.chm826087
 f1_keywords:
 - vbaxl10.chm826087
-ms.prod: excel
 api_name:
 - Excel.UniqueValues.ScopeType
 ms.assetid: a0c3b6ad-3ec4-465c-f3ab-806451e7cf1f

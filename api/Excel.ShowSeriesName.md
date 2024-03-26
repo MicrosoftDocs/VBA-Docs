@@ -3,7 +3,6 @@ title: ShowSeriesName property (Excel Graph)
 keywords: vbagr10.chm67466
 f1_keywords:
 - vbagr10.chm67466
-ms.prod: excel
 api_name:
 - Excel.ShowSeriesName
 ms.assetid: 73374913-f0b9-501c-7516-4497d6b85977

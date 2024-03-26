@@ -3,7 +3,6 @@ title: Chart.PivotLayout property (Excel)
 keywords: vbaxl10.chm149165
 f1_keywords:
 - vbaxl10.chm149165
-ms.prod: excel
 api_name:
 - Excel.Chart.PivotLayout
 ms.assetid: b621dc49-5321-5426-35cc-386cac251920

@@ -3,7 +3,6 @@ title: Speech.SpeakCellOnEnter property (Excel)
 keywords: vbaxl10.chm718075
 f1_keywords:
 - vbaxl10.chm718075
-ms.prod: excel
 api_name:
 - Excel.Speech.SpeakCellOnEnter
 ms.assetid: a176820a-85ef-338c-b507-9ffb9d744631

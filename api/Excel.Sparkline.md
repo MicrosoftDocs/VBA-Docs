@@ -3,7 +3,6 @@ title: Sparkline object (Excel)
 keywords: vbaxl10.chm874072
 f1_keywords:
 - vbaxl10.chm874072
-ms.prod: excel
 api_name:
 - Excel.Sparkline
 ms.assetid: 46951c4f-0eaa-9ce6-9703-eb3c632ea9b1

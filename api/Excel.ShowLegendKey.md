@@ -3,7 +3,6 @@ title: ShowLegendKey property (Excel Graph)
 keywords: vbagr10.chm65707
 f1_keywords:
 - vbagr10.chm65707
-ms.prod: excel
 api_name:
 - Excel.ShowLegendKey
 ms.assetid: 508fe969-30fc-f313-2406-213b5d8594ff

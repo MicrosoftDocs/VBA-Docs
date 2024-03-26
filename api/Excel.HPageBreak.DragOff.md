@@ -3,7 +3,6 @@ title: HPageBreak.DragOff method (Excel)
 keywords: vbaxl10.chm159075
 f1_keywords:
 - vbaxl10.chm159075
-ms.prod: excel
 api_name:
 - Excel.HPageBreak.DragOff
 ms.assetid: 80065224-c53d-3f45-8d94-c644502dac22

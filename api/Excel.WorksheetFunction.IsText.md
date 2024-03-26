@@ -3,7 +3,6 @@ title: WorksheetFunction.IsText method (Excel)
 keywords: vbaxl10.chm137131
 f1_keywords:
 - vbaxl10.chm137131
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.IsText
 ms.assetid: 40bfbcb3-f5ae-e32c-02b3-a25acb35622d

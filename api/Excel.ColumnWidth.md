@@ -3,7 +3,6 @@ title: ColumnWidth property (Excel Graph)
 keywords: vbagr10.chm65778
 f1_keywords:
 - vbagr10.chm65778
-ms.prod: excel
 api_name:
 - Excel.ColumnWidth
 ms.assetid: fffb3493-4b40-7a0b-f3ad-d191baebb87f

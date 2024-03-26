@@ -3,7 +3,6 @@ title: XmlMap.AdjustColumnWidth property (Excel)
 keywords: vbaxl10.chm754078
 f1_keywords:
 - vbaxl10.chm754078
-ms.prod: excel
 api_name:
 - Excel.XmlMap.AdjustColumnWidth
 ms.assetid: d302f23f-3ef4-ce22-916b-4772ea686cbc

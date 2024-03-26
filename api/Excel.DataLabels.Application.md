@@ -3,7 +3,6 @@ title: DataLabels.Application property (Excel)
 keywords: vbaxl10.chm583073
 f1_keywords:
 - vbaxl10.chm583073
-ms.prod: excel
 api_name:
 - Excel.DataLabels.Application
 ms.assetid: bce06e3c-8375-48cb-0873-9a8eeaecfe1e

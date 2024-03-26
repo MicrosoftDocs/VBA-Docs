@@ -3,7 +3,6 @@ title: InsideLeft property (Excel Graph)
 keywords: vbagr10.chm5207555
 f1_keywords:
 - vbagr10.chm5207555
-ms.prod: excel
 api_name:
 - Excel.InsideLeft
 ms.assetid: 04c9291b-efbf-4deb-d6b4-373473531ba6

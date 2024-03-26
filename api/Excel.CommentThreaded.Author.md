@@ -3,7 +3,6 @@ title: CommentThreaded.Author property (Excel)
 keywords: vbaxl10.chm1010077
 f1_keywords:
 - vbaxl10.chm1010077
-ms.prod: excel
 api_name:
 - Excel.CommentThread.Author
 ms.date: 05/15/2019

@@ -3,7 +3,6 @@ title: Application.SpellingOptions property (Excel)
 keywords: vbaxl10.chm133284
 f1_keywords:
 - vbaxl10.chm133284
-ms.prod: excel
 api_name:
 - Excel.Application.SpellingOptions
 ms.assetid: c3d1970b-1276-9af7-88d6-e8e77bc32095

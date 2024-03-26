@@ -3,7 +3,6 @@ title: Worksheet.PivotTableBeforeAllocateChanges event (Excel)
 keywords: vbaxl10.chm502083
 f1_keywords:
 - vbaxl10.chm502083
-ms.prod: excel
 api_name:
 - Excel.Worksheet.PivotTableBeforeAllocateChanges
 ms.assetid: 220729d9-2da4-53fb-2910-26cc8f835da7

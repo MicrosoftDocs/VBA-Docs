@@ -3,7 +3,6 @@ title: WorksheetFunction.DAverage method (Excel)
 keywords: vbaxl10.chm137096
 f1_keywords:
 - vbaxl10.chm137096
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DAverage
 ms.assetid: eb94e5a1-625b-796d-74ca-1864c135dfdf

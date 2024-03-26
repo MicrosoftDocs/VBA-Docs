@@ -3,7 +3,6 @@ title: DeleteReplacement method (Excel Graph)
 keywords: vbagr10.chm66683
 f1_keywords:
 - vbagr10.chm66683
-ms.prod: excel
 api_name:
 - Excel.DeleteReplacement
 ms.assetid: d82693f6-5275-2473-55e8-2b3cc156d702

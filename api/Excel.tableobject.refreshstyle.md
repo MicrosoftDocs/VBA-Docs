@@ -3,7 +3,6 @@ title: TableObject.RefreshStyle property (Excel)
 keywords: vbaxl10.chm916075
 f1_keywords:
 - vbaxl10.chm916075
-ms.prod: excel
 ms.assetid: bd01f56f-35a9-f397-ce00-574b97b4b401
 ms.date: 04/19/2019
 ms.localizationpriority: medium

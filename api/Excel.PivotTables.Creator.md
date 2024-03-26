@@ -3,7 +3,6 @@ title: PivotTables.Creator property (Excel)
 keywords: vbaxl10.chm237074
 f1_keywords:
 - vbaxl10.chm237074
-ms.prod: excel
 api_name:
 - Excel.PivotTables.Creator
 ms.assetid: 7af2b706-9464-765b-2653-f275ab485fe8

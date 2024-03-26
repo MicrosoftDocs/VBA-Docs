@@ -3,7 +3,6 @@ title: ControlFormat.Enabled property (Excel)
 keywords: vbaxl10.chm630077
 f1_keywords:
 - vbaxl10.chm630077
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.Enabled
 ms.assetid: feda368f-6f00-1a3b-ea39-179f76178c61

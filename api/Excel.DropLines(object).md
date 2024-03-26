@@ -3,7 +3,6 @@ title: DropLines object (Excel)
 keywords: vbaxl10.chm603072
 f1_keywords:
 - vbaxl10.chm603072
-ms.prod: excel
 api_name:
 - Excel.DropLines
 ms.assetid: 88fdf5f5-2842-2d68-a073-18d05fd2fa38

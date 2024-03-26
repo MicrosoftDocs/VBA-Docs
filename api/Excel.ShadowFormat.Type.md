@@ -3,7 +3,6 @@ title: ShadowFormat.Type property (Excel)
 keywords: vbaxl10.chm114007
 f1_keywords:
 - vbaxl10.chm114007
-ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Type
 ms.assetid: cbbdfda7-a193-9fb8-8cc3-393e03a1f335

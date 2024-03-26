@@ -3,7 +3,6 @@ title: ChartTitle.Height property (Excel)
 keywords: vbaxl10.chm563095
 f1_keywords:
 - vbaxl10.chm563095
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.Height
 ms.assetid: 45a2fe9b-47f1-e2ed-8a7c-702e52a52ac8

@@ -3,7 +3,6 @@ title: ChartGroup.SeriesCollection method (Excel)
 keywords: vbaxl10.chm568088
 f1_keywords:
 - vbaxl10.chm568088
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.SeriesCollection
 ms.assetid: 7da987dc-5629-1b7d-9269-cadbec2f8c46

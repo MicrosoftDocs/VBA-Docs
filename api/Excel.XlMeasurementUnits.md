@@ -1,6 +1,5 @@
 ---
 title: XlMeasurementUnits enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlMeasurementUnits
 ms.assetid: c0cdf10e-c0dc-a04c-5000-80c086bcdac6

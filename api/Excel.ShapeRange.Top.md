@@ -3,7 +3,6 @@ title: ShapeRange.Top property (Excel)
 keywords: vbaxl10.chm640117
 f1_keywords:
 - vbaxl10.chm640117
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Top
 ms.assetid: ab6d693b-c9c2-c317-7e60-08a6dfe1c7aa

@@ -3,7 +3,6 @@ title: DataSheet object (Excel Graph)
 keywords: vbagr10.chm131221
 f1_keywords:
 - vbagr10.chm131221
-ms.prod: excel
 api_name:
 - Excel.DataSheet
 ms.assetid: 370da200-e725-ac0f-fe3a-f919c7c7cc8e

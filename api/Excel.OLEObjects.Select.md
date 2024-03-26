@@ -3,7 +3,6 @@ title: OLEObjects.Select method (Excel)
 keywords: vbaxl10.chm419087
 f1_keywords:
 - vbaxl10.chm419087
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Select
 ms.assetid: bdad0692-8cc3-e644-80b0-34619f9113cd

@@ -3,7 +3,6 @@ title: CellFormat object (Excel)
 keywords: vbaxl10.chm675072
 f1_keywords:
 - vbaxl10.chm675072
-ms.prod: excel
 api_name:
 - Excel.CellFormat
 ms.assetid: da4e50b9-6d5b-22e1-3113-0d1ea6686272

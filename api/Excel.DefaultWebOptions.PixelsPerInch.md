@@ -3,7 +3,6 @@ title: DefaultWebOptions.PixelsPerInch property (Excel)
 keywords: vbaxl10.chm660084
 f1_keywords:
 - vbaxl10.chm660084
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.PixelsPerInch
 ms.assetid: 9264ea44-cfc7-8640-4606-71a17b806a48

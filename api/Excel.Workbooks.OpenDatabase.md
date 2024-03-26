@@ -3,7 +3,6 @@ title: Workbooks.OpenDatabase method (Excel)
 keywords: vbaxl10.chm203084
 f1_keywords:
 - vbaxl10.chm203084
-ms.prod: excel
 api_name:
 - Excel.Workbooks.OpenDatabase
 ms.assetid: 09f38ddb-48f9-91af-4b0f-4087c9139ab9

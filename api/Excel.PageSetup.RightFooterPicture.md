@@ -3,7 +3,6 @@ title: PageSetup.RightFooterPicture property (Excel)
 keywords: vbaxl10.chm473111
 f1_keywords:
 - vbaxl10.chm473111
-ms.prod: excel
 api_name:
 - Excel.PageSetup.RightFooterPicture
 ms.assetid: f33bbfb1-91d0-6724-0944-2b63c6720d86

@@ -3,7 +3,6 @@ title: WorksheetFunction.Dec2Hex method (Excel)
 keywords: vbaxl10.chm137265
 f1_keywords:
 - vbaxl10.chm137265
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Dec2Hex
 ms.assetid: 32e8f754-9d67-1b99-08d3-1eee27237369

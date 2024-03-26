@@ -5,7 +5,6 @@ f1_keywords:
 - vbaxl10.chm133344
 ms.assetid: e518aec5-a261-47ba-a3fd-1da480c82612
 ms.date: 04/04/2019
-ms.prod: excel
 ms.localizationpriority: medium
 ---
 

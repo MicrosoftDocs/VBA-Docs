@@ -3,7 +3,6 @@ title: Shape.Flip method (Excel)
 keywords: vbaxl10.chm636077
 f1_keywords:
 - vbaxl10.chm636077
-ms.prod: excel
 api_name:
 - Excel.Shape.Flip
 ms.assetid: 6ba41c89-878e-d9e1-5594-0cf45411b608

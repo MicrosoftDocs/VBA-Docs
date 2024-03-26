@@ -3,7 +3,6 @@ title: Workbook.RowsetComplete event (Excel)
 keywords: vbaxl10.chm503101
 f1_keywords:
 - vbaxl10.chm503101
-ms.prod: excel
 api_name:
 - Excel.Workbook.RowsetComplete
 ms.assetid: 05bdddba-6716-4bba-01b6-863f27623821

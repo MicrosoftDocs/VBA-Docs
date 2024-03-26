@@ -3,7 +3,6 @@ title: PivotAxis.Creator property (Excel)
 keywords: vbaxl10.chm767074
 f1_keywords:
 - vbaxl10.chm767074
-ms.prod: excel
 api_name:
 - Excel.PivotAxis.Creator
 ms.assetid: 4fa167dd-6cc3-f296-7d34-15dc835d7310

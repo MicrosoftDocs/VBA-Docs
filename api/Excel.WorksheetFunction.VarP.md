@@ -3,7 +3,6 @@ title: WorksheetFunction.VarP method (Excel)
 keywords: vbaxl10.chm137148
 f1_keywords:
 - vbaxl10.chm137148
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.VarP
 ms.assetid: 76cc9e8e-166e-694e-c8f3-af1689861c55

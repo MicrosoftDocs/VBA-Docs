@@ -3,7 +3,6 @@ title: ShapeRange.AlternativeText property (Excel)
 keywords: vbaxl10.chm640125
 f1_keywords:
 - vbaxl10.chm640125
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.AlternativeText
 ms.assetid: 8485fffc-b1db-d93f-8945-2f871211fc5d

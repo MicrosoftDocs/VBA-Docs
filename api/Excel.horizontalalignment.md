@@ -3,7 +3,6 @@ title: HorizontalAlignment property (Excel Graph)
 keywords: vbagr10.chm65672
 f1_keywords:
 - vbagr10.chm65672
-ms.prod: excel
 ms.assetid: 7af45990-24df-8dbf-92ec-a06b9f718f9e
 ms.date: 04/11/2019
 ms.localizationpriority: medium

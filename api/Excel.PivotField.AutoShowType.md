@@ -3,7 +3,6 @@ title: PivotField.AutoShowType property (Excel)
 keywords: vbaxl10.chm240115
 f1_keywords:
 - vbaxl10.chm240115
-ms.prod: excel
 api_name:
 - Excel.PivotField.AutoShowType
 ms.assetid: a8146e5c-b1b4-7ff4-d2d7-bc98b863681d

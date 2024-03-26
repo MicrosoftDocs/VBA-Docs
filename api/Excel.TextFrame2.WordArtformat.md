@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.WordArtformat property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.WordArtformat
 ms.assetid: 66944f16-1a5e-a7f5-942e-9007107a7fbf

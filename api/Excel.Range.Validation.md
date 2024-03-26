@@ -3,7 +3,6 @@ title: Range.Validation property (Excel)
 keywords: vbaxl10.chm144215
 f1_keywords:
 - vbaxl10.chm144215
-ms.prod: excel
 api_name:
 - Excel.Range.Validation
 ms.assetid: d1cad7e6-bbfa-e280-33e7-048733efc0bc

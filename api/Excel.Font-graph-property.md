@@ -3,7 +3,6 @@ title: Font property (Excel Graph)
 keywords: vbagr10.chm65682
 f1_keywords:
 - vbagr10.chm65682
-ms.prod: excel
 api_name:
 - Excel.Font
 ms.assetid: 0bc46ec4-998e-043e-0713-9a381ec2b6ad

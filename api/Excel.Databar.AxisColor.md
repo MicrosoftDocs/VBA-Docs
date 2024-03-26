@@ -3,7 +3,6 @@ title: DataBar.AxisColor property (Excel)
 keywords: vbaxl10.chm810093
 f1_keywords:
 - vbaxl10.chm810093
-ms.prod: excel
 api_name:
 - Excel.DataBar.AxisColor
 ms.assetid: 0c7dd109-001e-b5b7-69c8-c7a1e665e6ac

@@ -3,7 +3,6 @@ title: PivotTable.PageFieldStyle property (Excel)
 keywords: vbaxl10.chm235120
 f1_keywords:
 - vbaxl10.chm235120
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PageFieldStyle
 ms.assetid: 8871fad2-211f-8c25-efe8-09d385c02a4e

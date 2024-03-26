@@ -3,7 +3,6 @@ title: PlotArea.InsideTop property (Excel)
 keywords: vbaxl10.chm618089
 f1_keywords:
 - vbaxl10.chm618089
-ms.prod: excel
 api_name:
 - Excel.PlotArea.InsideTop
 ms.assetid: 33d609cd-8764-ef95-2864-10aee1e161b1

@@ -3,7 +3,6 @@ title: PivotCache.EnableRefresh property (Excel)
 keywords: vbaxl10.chm227075
 f1_keywords:
 - vbaxl10.chm227075
-ms.prod: excel
 api_name:
 - Excel.PivotCache.EnableRefresh
 ms.assetid: 5919198f-bb4a-eb54-1a28-41033b525fa1

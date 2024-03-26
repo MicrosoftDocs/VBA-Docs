@@ -3,7 +3,6 @@ title: PictureFormat.CropRight property (Excel)
 keywords: vbaxl10.chm113007
 f1_keywords:
 - vbaxl10.chm113007
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.CropRight
 ms.assetid: 9cf71268-5d63-4f66-6245-968786db14a8

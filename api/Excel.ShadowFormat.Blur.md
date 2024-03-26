@@ -3,7 +3,6 @@ title: ShadowFormat.Blur property (Excel)
 keywords: vbaxl10.chm114010
 f1_keywords:
 - vbaxl10.chm114010
-ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Blur
 ms.assetid: 4c17b7b6-922f-804f-a6c5-1c427df8bf79

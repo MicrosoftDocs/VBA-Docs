@@ -3,7 +3,6 @@ title: Application.SheetSelectionChange event (Excel)
 keywords: vbaxl10.chm504074
 f1_keywords:
 - vbaxl10.chm504074
-ms.prod: excel
 api_name:
 - Excel.Application.SheetSelectionChange
 ms.assetid: c98203c2-b306-d8b7-b75f-1304be7b5751

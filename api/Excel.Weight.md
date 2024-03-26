@@ -3,7 +3,6 @@ title: Weight property (Excel Graph)
 keywords: vbagr10.chm65656
 f1_keywords:
 - vbagr10.chm65656
-ms.prod: excel
 api_name:
 - Excel.Weight
 ms.assetid: 59a3b106-5811-f082-d9cf-c21f2945da31

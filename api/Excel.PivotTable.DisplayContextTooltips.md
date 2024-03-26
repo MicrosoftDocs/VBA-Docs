@@ -3,7 +3,6 @@ title: PivotTable.DisplayContextTooltips property (Excel)
 keywords: vbaxl10.chm235161
 f1_keywords:
 - vbaxl10.chm235161
-ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayContextTooltips
 ms.assetid: cbc9835a-0c1c-dd26-c5f1-1bbe8f7aaefe

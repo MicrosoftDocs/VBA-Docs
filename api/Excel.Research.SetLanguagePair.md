@@ -3,7 +3,6 @@ title: Research.SetLanguagePair method (Excel)
 keywords: vbaxl10.chm849075
 f1_keywords:
 - vbaxl10.chm849075
-ms.prod: excel
 api_name:
 - Excel.Research.SetLanguagePair
 ms.assetid: 0e4d0c7b-91e2-bbe6-8da0-f0ad6c2e51cb

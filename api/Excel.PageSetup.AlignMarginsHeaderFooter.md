@@ -3,7 +3,6 @@ title: PageSetup.AlignMarginsHeaderFooter property (Excel)
 keywords: vbaxl10.chm473115
 f1_keywords:
 - vbaxl10.chm473115
-ms.prod: excel
 api_name:
 - Excel.PageSetup.AlignMarginsHeaderFooter
 ms.assetid: b5fde8f6-3e77-e3f1-422b-af88ec31d6ea

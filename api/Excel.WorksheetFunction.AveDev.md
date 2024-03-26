@@ -3,7 +3,6 @@ title: WorksheetFunction.AveDev method (Excel)
 keywords: vbaxl10.chm137173
 f1_keywords:
 - vbaxl10.chm137173
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.AveDev
 ms.assetid: 8fb937b3-4291-e257-f96a-7e52e6714b00

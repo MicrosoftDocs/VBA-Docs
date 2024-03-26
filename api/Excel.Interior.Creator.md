@@ -3,7 +3,6 @@ title: Interior.Creator property (Excel)
 keywords: vbaxl10.chm550074
 f1_keywords:
 - vbaxl10.chm550074
-ms.prod: excel
 api_name:
 - Excel.Interior.Creator
 ms.assetid: e1cc823c-b673-7598-cb6f-d7aa66b66798

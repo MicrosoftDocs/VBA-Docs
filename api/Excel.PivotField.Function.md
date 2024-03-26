@@ -3,7 +3,6 @@ title: PivotField.Function property (Excel)
 keywords: vbaxl10.chm240081
 f1_keywords:
 - vbaxl10.chm240081
-ms.prod: excel
 api_name:
 - Excel.PivotField.Function
 ms.assetid: 855334f6-dd6d-c09f-7732-c621751374a9

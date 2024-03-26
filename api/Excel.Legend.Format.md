@@ -3,7 +3,6 @@ title: Legend.Format property (Excel)
 keywords: vbaxl10.chm622091
 f1_keywords:
 - vbaxl10.chm622091
-ms.prod: excel
 api_name:
 - Excel.Legend.Format
 ms.assetid: ecaddfd4-0ce1-7fbc-0a61-6534e4bc413c

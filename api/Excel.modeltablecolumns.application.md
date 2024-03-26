@@ -3,7 +3,6 @@ title: ModelTableColumns.Application property (Excel)
 keywords: vbaxl10.chm931073
 f1_keywords:
 - vbaxl10.chm931073
-ms.prod: excel
 ms.assetid: cb086ea8-fcce-8c36-a92c-d006b774ff82
 ms.date: 05/01/2019
 ms.localizationpriority: medium

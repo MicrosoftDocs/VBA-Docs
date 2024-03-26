@@ -1,6 +1,5 @@
 ---
 title: XlCellType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlCellType
 ms.assetid: 9b0dedec-60a4-6004-0049-4dda1009ef22

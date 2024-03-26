@@ -3,7 +3,6 @@ title: UsedObjects.Creator property (Excel)
 keywords: vbaxl10.chm677074
 f1_keywords:
 - vbaxl10.chm677074
-ms.prod: excel
 api_name:
 - Excel.UsedObjects.Creator
 ms.assetid: 18526467-0a48-b372-bb34-6a810da25ce2

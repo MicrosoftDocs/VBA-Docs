@@ -1,6 +1,5 @@
 ---
 title: XlCalculationState enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlCalculationState
 ms.assetid: b0c7a454-e78f-17cc-4e5c-f7742a9857f6

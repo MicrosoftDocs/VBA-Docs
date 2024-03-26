@@ -3,7 +3,6 @@ title: WorksheetFunction.Substitute method (Excel)
 keywords: vbaxl10.chm137128
 f1_keywords:
 - vbaxl10.chm137128
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Substitute
 ms.assetid: 1e02eb86-6902-0073-33ea-8d9f08b4eb14

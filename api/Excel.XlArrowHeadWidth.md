@@ -1,6 +1,5 @@
 ---
 title: XlArrowHeadWidth enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlArrowHeadWidth
 ms.assetid: dbb6ad81-ea76-cfa4-82a4-8f03d183998a

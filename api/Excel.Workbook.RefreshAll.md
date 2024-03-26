@@ -3,7 +3,6 @@ title: Workbook.RefreshAll method (Excel)
 keywords: vbaxl10.chm199135
 f1_keywords:
 - vbaxl10.chm199135
-ms.prod: excel
 api_name:
 - Excel.Workbook.RefreshAll
 ms.assetid: c1a956dc-263c-5c24-3b51-fc4af22dcd33

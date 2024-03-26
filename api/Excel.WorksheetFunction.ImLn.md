@@ -3,7 +3,6 @@ title: WorksheetFunction.ImLn method (Excel)
 keywords: vbaxl10.chm137278
 f1_keywords:
 - vbaxl10.chm137278
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImLn
 ms.assetid: a2542e7d-f46b-bb01-67a6-655a92f782c9

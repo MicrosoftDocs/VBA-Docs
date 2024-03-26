@@ -3,7 +3,6 @@ title: PivotCache.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm227103
 f1_keywords:
 - vbaxl10.chm227103
-ms.prod: excel
 api_name:
 - Excel.PivotCache.SourceConnectionFile
 ms.assetid: 87755bde-3c43-3520-24f7-2c778a225b18

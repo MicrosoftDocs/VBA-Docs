@@ -3,7 +3,6 @@ title: Application.ActiveEncryptionSession property (Excel)
 keywords: vbaxl10.chm133316
 f1_keywords:
 - vbaxl10.chm133316
-ms.prod: excel
 api_name:
 - Excel.Application.ActiveEncryptionSession
 ms.assetid: a13b5785-5b27-6276-1df5-f213a419446d

@@ -3,7 +3,6 @@ title: Icon.Creator property (Excel)
 keywords: vbaxl10.chm815074
 f1_keywords:
 - vbaxl10.chm815074
-ms.prod: excel
 api_name:
 - Excel.Icon.Creator
 ms.assetid: 5cdaa402-b79a-735e-0413-b48fb037b510

@@ -3,7 +3,6 @@ title: Slicers.Application property (Excel)
 keywords: vbaxl10.chm902073
 f1_keywords:
 - vbaxl10.chm902073
-ms.prod: excel
 api_name:
 - Excel.Slicers.Application
 ms.assetid: f3878abf-c107-8248-31cb-c1df60f52cef

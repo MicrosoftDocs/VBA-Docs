@@ -3,7 +3,6 @@ title: Range.TextToColumns method (Excel)
 keywords: vbaxl10.chm144210
 f1_keywords:
 - vbaxl10.chm144210
-ms.prod: excel
 api_name:
 - Excel.Range.TextToColumns
 ms.assetid: 0b0bf329-ab99-7edc-1b8f-aad03513abde

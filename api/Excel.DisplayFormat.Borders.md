@@ -3,7 +3,6 @@ title: DisplayFormat.Borders property (Excel)
 keywords: vbaxl10.chm893073
 f1_keywords:
 - vbaxl10.chm893073
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Borders
 ms.assetid: 2768a8b7-b11f-fe44-5b2a-c47fb18c5a09

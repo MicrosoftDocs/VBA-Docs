@@ -3,7 +3,6 @@ title: FormatConditions.Application property (Excel)
 keywords: vbaxl10.chm509073
 f1_keywords:
 - vbaxl10.chm509073
-ms.prod: excel
 api_name:
 - Excel.FormatConditions.Application
 ms.assetid: 22ac56ea-bd8b-6482-c669-08630bc69031

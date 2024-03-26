@@ -3,7 +3,6 @@ title: ErrorCheckingOptions.UnlockedFormulaCells property (Excel)
 keywords: vbaxl10.chm698080
 f1_keywords:
 - vbaxl10.chm698080
-ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions.UnlockedFormulaCells
 ms.assetid: 0b7c038d-41d8-aeb8-3e15-3105d6e65c02

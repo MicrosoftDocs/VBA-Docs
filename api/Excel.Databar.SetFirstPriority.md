@@ -3,7 +3,6 @@ title: DataBar.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm810084
 f1_keywords:
 - vbaxl10.chm810084
-ms.prod: excel
 api_name:
 - Excel.DataBar.SetFirstPriority
 ms.assetid: 73ec6aa8-dc0d-7f80-0975-fdf75bd9a0a2

@@ -3,7 +3,6 @@ title: ThreeDFormat.PresetMaterial property (Excel)
 keywords: vbaxl10.chm119012
 f1_keywords:
 - vbaxl10.chm119012
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetMaterial
 ms.assetid: f9dd825a-7fb3-5d59-77d1-8ef861b9adc8

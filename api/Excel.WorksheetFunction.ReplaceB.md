@@ -3,7 +3,6 @@ title: WorksheetFunction.ReplaceB method (Excel)
 keywords: vbaxl10.chm137156
 f1_keywords:
 - vbaxl10.chm137156
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ReplaceB
 ms.assetid: 8853dcdd-6cd0-6ac5-1a71-27054f2a4776

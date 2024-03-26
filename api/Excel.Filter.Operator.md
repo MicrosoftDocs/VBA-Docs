@@ -3,7 +3,6 @@ title: Filter.Operator property (Excel)
 keywords: vbaxl10.chm542077
 f1_keywords:
 - vbaxl10.chm542077
-ms.prod: excel
 api_name:
 - Excel.Filter.Operator
 ms.assetid: 98f56294-f36b-3766-5a4c-b416f2f85399

@@ -3,7 +3,6 @@ title: WorksheetFunction.Ceiling method (Excel)
 keywords: vbaxl10.chm137192
 f1_keywords:
 - vbaxl10.chm137192
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Ceiling
 ms.assetid: 4994e7d0-e626-bca4-64fc-77946438f4ed

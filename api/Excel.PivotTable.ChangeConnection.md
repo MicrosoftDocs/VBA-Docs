@@ -3,7 +3,6 @@ title: PivotTable.ChangeConnection method (Excel)
 keywords: vbaxl10.chm235183
 f1_keywords:
 - vbaxl10.chm235183
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ChangeConnection
 ms.assetid: 189c7ccc-d31c-dae8-f203-d590d1e46b82

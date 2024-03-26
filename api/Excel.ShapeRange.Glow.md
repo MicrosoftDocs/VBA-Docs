@@ -3,7 +3,6 @@ title: ShapeRange.Glow property (Excel)
 keywords: vbaxl10.chm640144
 f1_keywords:
 - vbaxl10.chm640144
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Glow
 ms.assetid: d2b7670f-2715-51f6-1c67-434e3ab39a67

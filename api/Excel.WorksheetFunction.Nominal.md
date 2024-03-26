@@ -3,7 +3,6 @@ title: WorksheetFunction.Nominal method (Excel)
 keywords: vbaxl10.chm137321
 f1_keywords:
 - vbaxl10.chm137321
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Nominal
 ms.assetid: 4ba61f10-233b-400b-76e1-90147fd7f503

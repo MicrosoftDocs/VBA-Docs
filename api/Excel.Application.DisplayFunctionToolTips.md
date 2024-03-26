@@ -3,7 +3,6 @@ title: Application.DisplayFunctionToolTips property (Excel)
 keywords: vbaxl10.chm133268
 f1_keywords:
 - vbaxl10.chm133268
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayFunctionToolTips
 ms.assetid: cc294f6d-3e81-9fdc-b758-0a581b03ba9c

@@ -3,7 +3,6 @@ title: ShapeRange.Height property (Excel)
 keywords: vbaxl10.chm640105
 f1_keywords:
 - vbaxl10.chm640105
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Height
 ms.assetid: e31a804a-4702-5892-fa5f-fbd87544968e

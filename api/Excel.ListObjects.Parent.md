@@ -3,7 +3,6 @@ title: ListObjects.Parent property (Excel)
 keywords: vbaxl10.chm731075
 f1_keywords:
 - vbaxl10.chm731075
-ms.prod: excel
 api_name:
 - Excel.ListObjects.Parent
 ms.assetid: 479a6593-702e-f834-a944-a68df8cba69f

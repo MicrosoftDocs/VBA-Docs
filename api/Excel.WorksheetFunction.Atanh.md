@@ -3,7 +3,6 @@ title: WorksheetFunction.Atanh method (Excel)
 keywords: vbaxl10.chm137169
 f1_keywords:
 - vbaxl10.chm137169
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Atanh
 ms.assetid: 4399ebf8-5eff-9ec0-421e-1fe3f5fdc5c1

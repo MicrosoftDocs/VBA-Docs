@@ -3,7 +3,6 @@ title: QueryTable.WebFormatting property (Excel)
 keywords: vbaxl10.chm518123
 f1_keywords:
 - vbaxl10.chm518123
-ms.prod: excel
 api_name:
 - Excel.QueryTable.WebFormatting
 ms.assetid: 3ba96959-1c50-8cc0-0025-b5006b1ad62c

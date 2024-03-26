@@ -3,7 +3,6 @@ title: ConnectorFormat.BeginConnectionSite property (Excel)
 keywords: vbaxl10.chm646079
 f1_keywords:
 - vbaxl10.chm646079
-ms.prod: excel
 api_name:
 - Excel.ConnectorFormat.BeginConnectionSite
 ms.assetid: 606f6e75-3375-da45-b177-63318ef5f594

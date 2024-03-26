@@ -3,7 +3,6 @@ title: ColorScale.Type property (Excel)
 keywords: vbaxl10.chm806077
 f1_keywords:
 - vbaxl10.chm806077
-ms.prod: excel
 api_name:
 - Excel.ColorScale.Type
 ms.assetid: 9923c1e3-e69b-823b-5cf2-a9a96e2b5053

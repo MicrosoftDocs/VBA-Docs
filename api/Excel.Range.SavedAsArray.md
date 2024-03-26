@@ -3,7 +3,6 @@ title: Range.SavedAsArray property (Excel)
 keywords: ????
 f1_keywords:
 - ???
-ms.prod: excel
 api_name:
 - Excel.Range.SavedAsArray
 ms.assetid: ????

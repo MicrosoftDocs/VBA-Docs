@@ -3,7 +3,6 @@ title: UniqueValues.Type property (Excel)
 keywords: vbaxl10.chm826080
 f1_keywords:
 - vbaxl10.chm826080
-ms.prod: excel
 api_name:
 - Excel.UniqueValues.Type
 ms.assetid: 42260fd6-693f-0da7-8f2b-5ffbc7823b8f

@@ -3,7 +3,6 @@ title: QueryTable object (Excel)
 keywords: vbaxl10.chm517072
 f1_keywords:
 - vbaxl10.chm517072
-ms.prod: excel
 api_name:
 - Excel.QueryTable
 ms.assetid: 505b84ea-64b3-b4fe-741a-de6884eb69eb

@@ -3,7 +3,6 @@ title: Windows.Arrange method (Excel)
 keywords: vbaxl10.chm354073
 f1_keywords:
 - vbaxl10.chm354073
-ms.prod: excel
 api_name:
 - Excel.Windows.Arrange
 ms.assetid: 6b5088ea-6a75-b0df-941f-2032c9cc34a7

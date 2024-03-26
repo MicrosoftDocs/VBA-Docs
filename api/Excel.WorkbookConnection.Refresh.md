@@ -3,7 +3,6 @@ title: WorkbookConnection.Refresh method (Excel)
 keywords: vbaxl10.chm774081
 f1_keywords:
 - vbaxl10.chm774081
-ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Refresh
 ms.assetid: 5e6f045f-6625-857c-eb55-ac52f70e8fb9

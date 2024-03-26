@@ -3,7 +3,6 @@ title: WorksheetFunction.Complex method (Excel)
 keywords: vbaxl10.chm137288
 f1_keywords:
 - vbaxl10.chm137288
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Complex
 ms.assetid: 4ea29dda-7f01-1f48-5cda-f1bc7a0a52f2

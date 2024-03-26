@@ -3,7 +3,6 @@ title: SparklineGroup.LineWeight property (Excel)
 keywords: vbaxl10.chm871090
 f1_keywords:
 - vbaxl10.chm871090
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.LineWeight
 ms.assetid: 5fabc5d1-dcb4-e786-998f-9a44da0f5a28

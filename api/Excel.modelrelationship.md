@@ -3,7 +3,6 @@ title: ModelRelationship object (Excel)
 keywords: vbaxl10.chm937072
 f1_keywords:
 - vbaxl10.chm937072
-ms.prod: excel
 ms.assetid: 8b0a7fad-06a5-178d-c5b2-96fc5528a3cc
 ms.date: 03/30/2019
 ms.localizationpriority: medium

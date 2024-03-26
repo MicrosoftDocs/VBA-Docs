@@ -3,7 +3,6 @@ title: WorksheetFunction.ImSinh method (Excel)
 keywords: vbaxl10.chm137463
 f1_keywords:
 - vbaxl10.chm137463
-ms.prod: excel
 ms.assetid: b6c2a2ba-d3e4-9188-f2fa-a69821df024e
 ms.date: 05/23/2019
 ms.localizationpriority: medium

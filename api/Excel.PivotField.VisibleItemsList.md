@@ -3,7 +3,6 @@ title: PivotField.VisibleItemsList property (Excel)
 keywords: vbaxl10.chm240146
 f1_keywords:
 - vbaxl10.chm240146
-ms.prod: excel
 api_name:
 - Excel.PivotField.VisibleItemsList
 ms.assetid: ddcc2dce-30bf-ba50-22fa-a4baf41129f5

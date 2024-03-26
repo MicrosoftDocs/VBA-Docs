@@ -3,7 +3,6 @@ title: ColorScaleCriteria.Count property (Excel)
 keywords: vbaxl10.chm807073
 f1_keywords:
 - vbaxl10.chm807073
-ms.prod: excel
 api_name:
 - Excel.ColorScaleCriteria.Count
 ms.assetid: 2ebfccab-0aa8-5f7e-7e66-9a01ecff082b

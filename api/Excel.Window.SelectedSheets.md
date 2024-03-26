@@ -3,7 +3,6 @@ title: Window.SelectedSheets property (Excel)
 keywords: vbaxl10.chm356108
 f1_keywords:
 - vbaxl10.chm356108
-ms.prod: excel
 api_name:
 - Excel.Window.SelectedSheets
 ms.assetid: 3be18be3-895b-131b-7416-270536b84e23

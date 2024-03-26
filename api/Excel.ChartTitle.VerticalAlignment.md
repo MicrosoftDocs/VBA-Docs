@@ -3,7 +3,6 @@ title: ChartTitle.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm563089
 f1_keywords:
 - vbaxl10.chm563089
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.VerticalAlignment
 ms.assetid: 9d675a02-b84e-84e0-6ccf-adb47b876c12

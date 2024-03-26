@@ -3,7 +3,6 @@ title: Range.Name property (Excel)
 keywords: vbaxl10.chm144162
 f1_keywords:
 - vbaxl10.chm144162
-ms.prod: excel
 api_name:
 - Excel.Range.Name
 ms.assetid: 39d1a326-e123-443c-29c0-453f7b4a8760

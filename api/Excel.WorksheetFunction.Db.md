@@ -3,7 +3,6 @@ title: WorksheetFunction.Db method (Excel)
 keywords: vbaxl10.chm137171
 f1_keywords:
 - vbaxl10.chm137171
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Db
 ms.assetid: 09c56126-ab90-1bb2-44e9-3d5346ddc72d

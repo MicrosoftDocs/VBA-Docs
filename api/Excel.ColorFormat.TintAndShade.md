@@ -3,7 +3,6 @@ title: ColorFormat.TintAndShade property (Excel)
 keywords: vbaxl10.chm105006
 f1_keywords:
 - vbaxl10.chm105006
-ms.prod: excel
 api_name:
 - Excel.ColorFormat.TintAndShade
 ms.assetid: b548b2ad-da3d-0d02-249e-2ab37271a5c6

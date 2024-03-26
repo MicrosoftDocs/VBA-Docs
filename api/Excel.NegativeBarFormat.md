@@ -3,7 +3,6 @@ title: NegativeBarFormat object (Excel)
 keywords: vbaxl10.chm886072
 f1_keywords:
 - vbaxl10.chm886072
-ms.prod: excel
 api_name:
 - Excel.NegativeBarFormat
 ms.assetid: 25daa644-29af-a7c1-1d11-be9c72cfff7a

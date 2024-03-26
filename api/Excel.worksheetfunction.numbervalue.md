@@ -3,7 +3,6 @@ title: WorksheetFunction.NumberValue method (Excel)
 keywords: vbaxl10.chm137458
 f1_keywords:
 - vbaxl10.chm137458
-ms.prod: excel
 ms.assetid: 3ab36c6d-c110-1897-44af-ec093aab432e
 ms.date: 08/14/2019
 ms.localizationpriority: medium

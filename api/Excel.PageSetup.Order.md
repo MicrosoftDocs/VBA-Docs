@@ -3,7 +3,6 @@ title: PageSetup.Order property (Excel)
 keywords: vbaxl10.chm473089
 f1_keywords:
 - vbaxl10.chm473089
-ms.prod: excel
 api_name:
 - Excel.PageSetup.Order
 ms.assetid: cb39c83a-3ab2-cab9-531c-762db4ab6770

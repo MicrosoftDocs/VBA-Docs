@@ -3,7 +3,6 @@ title: Shape.HasSmartArt property (Excel)
 keywords: vbaxl10.chm636154
 f1_keywords:
 - vbaxl10.chm636154
-ms.prod: excel
 api_name:
 - Excel.Shape.HasSmartArt
 ms.assetid: 147ec440-a1d5-204c-6a4f-d161b6436b62
