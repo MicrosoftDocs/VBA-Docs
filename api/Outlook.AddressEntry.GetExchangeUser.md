@@ -3,7 +3,6 @@ title: AddressEntry.GetExchangeUser method (Outlook)
 keywords: vbaol11.chm2056
 f1_keywords:
 - vbaol11.chm2056
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntry.GetExchangeUser
 ms.assetid: eaaafd52-42c9-7f6b-1acb-0b987496d604

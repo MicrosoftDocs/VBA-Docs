@@ -3,7 +3,6 @@ title: ContactItem.HomeAddress property (Outlook)
 keywords: vbaol11.chm1012
 f1_keywords:
 - vbaol11.chm1012
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.HomeAddress
 ms.assetid: c7ba836b-4b55-cedb-35f6-e6540bdf2c58

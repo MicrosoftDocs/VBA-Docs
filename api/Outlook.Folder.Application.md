@@ -3,7 +3,6 @@ title: Folder.Application property (Outlook)
 keywords: vbaol11.chm1981
 f1_keywords:
 - vbaol11.chm1981
-ms.prod: outlook
 api_name:
 - Outlook.Folder.Application
 ms.assetid: 525cac55-6eb7-a7c5-8949-a17cf6e6bc33

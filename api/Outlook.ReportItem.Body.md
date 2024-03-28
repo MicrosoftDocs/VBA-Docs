@@ -3,7 +3,6 @@ title: ReportItem.Body property (Outlook)
 keywords: vbaol11.chm1641
 f1_keywords:
 - vbaol11.chm1641
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Body
 ms.assetid: f10b5de0-1b2b-b401-b5fd-4486ed2fd4ed

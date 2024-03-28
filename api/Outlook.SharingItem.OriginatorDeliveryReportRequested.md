@@ -3,7 +3,6 @@ title: SharingItem.OriginatorDeliveryReportRequested property (Outlook)
 keywords: vbaol11.chm642
 f1_keywords:
 - vbaol11.chm642
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.OriginatorDeliveryReportRequested
 ms.assetid: 7864b388-fa76-14cd-1f1c-f9f2958ec1bb

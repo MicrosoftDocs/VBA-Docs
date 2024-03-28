@@ -3,7 +3,6 @@ title: AccountRuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2381
 f1_keywords:
 - vbaol11.chm2381
-ms.prod: outlook
 api_name:
 - Outlook.AccountRuleCondition.Enabled
 ms.assetid: 834b45ee-f140-7e02-47ea-00e68ae6580c

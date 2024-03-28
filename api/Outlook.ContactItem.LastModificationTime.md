@@ -3,7 +3,6 @@ title: ContactItem.LastModificationTime property (Outlook)
 keywords: vbaol11.chm943
 f1_keywords:
 - vbaol11.chm943
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.LastModificationTime
 ms.assetid: 14962429-bbf6-a814-647a-70be1dad339d

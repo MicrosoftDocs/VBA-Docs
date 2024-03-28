@@ -3,7 +3,6 @@ title: TableView.AutomaticColumnSizing property (Outlook)
 keywords: vbaol11.chm2523
 f1_keywords:
 - vbaol11.chm2523
-ms.prod: outlook
 api_name:
 - Outlook.TableView.AutomaticColumnSizing
 ms.assetid: b599fec1-a6a4-fc12-0d95-bae9491c40d1

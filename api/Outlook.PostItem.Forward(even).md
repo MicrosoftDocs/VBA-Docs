@@ -1,6 +1,5 @@
 ---
 title: PostItem.Forward event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Forward
 ms.assetid: e5e9ab75-af39-dcaf-b343-eb679419dfbd

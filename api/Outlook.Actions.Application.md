@@ -3,7 +3,6 @@ title: Actions.Application property (Outlook)
 keywords: vbaol11.chm145
 f1_keywords:
 - vbaol11.chm145
-ms.prod: outlook
 api_name:
 - Outlook.Actions.Application
 ms.assetid: 823b9111-fb73-581b-18e0-68f34a71fa3e

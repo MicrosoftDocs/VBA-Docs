@@ -3,7 +3,6 @@ title: SharingItem.Mileage property (Outlook)
 keywords: vbaol11.chm613
 f1_keywords:
 - vbaol11.chm613
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Mileage
 ms.assetid: af849fec-b11e-855f-1eea-d9f98079b8ef

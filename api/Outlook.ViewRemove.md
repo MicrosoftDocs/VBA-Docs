@@ -3,7 +3,6 @@ title: Views.ViewRemove event (Outlook)
 keywords: vbaol11.chm552
 f1_keywords:
 - vbaol11.chm552
-ms.prod: outlook
 api_name:
 - Outlook.ViewRemove
 ms.assetid: a0d405fd-aa57-c333-8e33-aa482019d9c8

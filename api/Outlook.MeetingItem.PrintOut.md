@@ -3,7 +3,6 @@ title: MeetingItem.PrintOut method (Outlook)
 keywords: vbaol11.chm1433
 f1_keywords:
 - vbaol11.chm1433
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.PrintOut
 ms.assetid: fe53eccd-cd6b-ecf5-2fa4-c56de616686d

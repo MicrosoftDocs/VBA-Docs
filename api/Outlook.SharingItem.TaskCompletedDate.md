@@ -3,7 +3,6 @@ title: SharingItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm3221
 f1_keywords:
 - vbaol11.chm3221
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.TaskCompletedDate
 ms.assetid: 4e255fd1-5a67-da55-e1e0-2ac8a63231ab

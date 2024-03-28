@@ -3,7 +3,6 @@ title: OlkTextBox.KeyPress event (Outlook)
 keywords: vbaol11.chm1000079
 f1_keywords:
 - vbaol11.chm1000079
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.KeyPress
 ms.assetid: 3e022736-2d09-e5ee-4902-09b71d2c9bcc

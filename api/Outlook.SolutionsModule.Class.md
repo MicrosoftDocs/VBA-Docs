@@ -3,7 +3,6 @@ title: SolutionsModule.Class property (Outlook)
 keywords: vbaol11.chm3361
 f1_keywords:
 - vbaol11.chm3361
-ms.prod: outlook
 api_name:
 - Outlook.SolutionsModule.Class
 ms.assetid: d8b49f72-3810-9f29-a716-d37766454295

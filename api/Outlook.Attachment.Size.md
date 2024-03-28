@@ -3,7 +3,6 @@ title: Attachment.Size property (Outlook)
 keywords: vbaol11.chm2375
 f1_keywords:
 - vbaol11.chm2375
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.Size
 ms.assetid: 7a300b59-3d58-c2d0-afa3-c3e7ef6450b7

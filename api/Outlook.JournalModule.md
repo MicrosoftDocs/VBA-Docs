@@ -3,7 +3,6 @@ title: JournalModule object (Outlook)
 keywords: vbaol11.chm3197
 f1_keywords:
 - vbaol11.chm3197
-ms.prod: outlook
 api_name:
 - Outlook.JournalModule
 ms.assetid: 5a696d10-8a10-c01d-cf65-f8a65718f120

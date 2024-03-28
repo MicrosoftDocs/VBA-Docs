@@ -3,7 +3,6 @@ title: RemoteItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1632
 f1_keywords:
 - vbaol11.chm1632
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.PropertyAccessor
 ms.assetid: e0988d4f-6837-fb26-b920-5a4fc29d9869

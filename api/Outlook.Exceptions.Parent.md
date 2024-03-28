@@ -3,7 +3,6 @@ title: Exceptions.Parent property (Outlook)
 keywords: vbaol11.chm293
 f1_keywords:
 - vbaol11.chm293
-ms.prod: outlook
 api_name:
 - Outlook.Exceptions.Parent
 ms.assetid: 87528398-f219-d9e0-d640-3b0b0505cc8b

@@ -3,7 +3,6 @@ title: RemoteItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3495
 f1_keywords:
 - vbaol11.chm3495
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.ConversationID
 ms.assetid: 7cef33a7-99f8-63f6-a987-6dce94fa3120

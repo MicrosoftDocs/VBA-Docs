@@ -1,6 +1,5 @@
 ---
 title: Label.TextAlign Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 43988801-c95f-f94f-4388-63b6e7bff65b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

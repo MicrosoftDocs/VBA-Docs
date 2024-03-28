@@ -3,7 +3,6 @@ title: AddressEntries.GetNext method (Outlook)
 keywords: vbaol11.chm35
 f1_keywords:
 - vbaol11.chm35
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.GetNext
 ms.assetid: 7579909c-90a2-660f-6cf5-039a441ccc93
