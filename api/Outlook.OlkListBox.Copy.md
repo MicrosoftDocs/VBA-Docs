@@ -3,7 +3,6 @@ title: OlkListBox.Copy method (Outlook)
 keywords: vbaol11.chm1000273
 f1_keywords:
 - vbaol11.chm1000273
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.Copy
 ms.assetid: 17bf32c1-cafa-86ad-7d13-fac403b1d1cd

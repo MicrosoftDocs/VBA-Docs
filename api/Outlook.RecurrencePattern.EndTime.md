@@ -3,7 +3,6 @@ title: RecurrencePattern.EndTime property (Outlook)
 keywords: vbaol11.chm276
 f1_keywords:
 - vbaol11.chm276
-ms.prod: outlook
 api_name:
 - Outlook.RecurrencePattern.EndTime
 ms.assetid: 7babda13-9e57-4c80-1ab3-56025753ed9d

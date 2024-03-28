@@ -3,7 +3,6 @@ title: CalendarView.CalendarViewMode property (Outlook)
 keywords: vbaol11.chm2627
 f1_keywords:
 - vbaol11.chm2627
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.CalendarViewMode
 ms.assetid: 144e46ed-984f-fac0-fad3-0ff5ac9f2996
