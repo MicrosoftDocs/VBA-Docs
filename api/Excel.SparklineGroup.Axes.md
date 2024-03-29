@@ -3,7 +3,6 @@ title: SparklineGroup.Axes property (Excel)
 keywords: vbaxl10.chm871087
 f1_keywords:
 - vbaxl10.chm871087
-ms.prod: excel
 api_name:
 - Excel.SparklineGroup.Axes
 ms.assetid: 9692d9bb-e5f5-860f-d9b4-264ff7ada6b2

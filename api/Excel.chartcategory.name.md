@@ -3,7 +3,6 @@ title: ChartCategory.Name property (Excel)
 keywords: vbaxl10.chm946074
 f1_keywords:
 - vbaxl10.chm946074
-ms.prod: excel
 ms.assetid: 74134ec0-7715-47ce-2000-b60c4d73683e
 ms.date: 04/20/2019
 ms.localizationpriority: medium

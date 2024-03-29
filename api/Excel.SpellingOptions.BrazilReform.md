@@ -3,7 +3,6 @@ title: SpellingOptions.BrazilReform property (Excel)
 keywords: vbaxl10.chm717091
 f1_keywords:
 - vbaxl10.chm717091
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.BrazilReform
 ms.assetid: cafc2331-aa68-367a-7b88-c95edb9191ec

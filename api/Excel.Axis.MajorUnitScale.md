@@ -3,7 +3,6 @@ title: Axis.MajorUnitScale property (Excel)
 keywords: vbaxl10.chm561106
 f1_keywords:
 - vbaxl10.chm561106
-ms.prod: excel
 api_name:
 - Excel.Axis.MajorUnitScale
 ms.assetid: f0f4b179-f166-4fe6-f333-365edc5bc4f7

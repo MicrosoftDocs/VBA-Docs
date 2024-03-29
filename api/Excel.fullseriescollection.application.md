@@ -3,7 +3,6 @@ title: FullSeriesCollection.Application property (Excel)
 keywords: vbaxl10.chm943073
 f1_keywords:
 - vbaxl10.chm943073
-ms.prod: excel
 ms.assetid: 52dfb5aa-c6fb-201c-c1ed-880aff1efb45
 ms.date: 04/26/2019
 ms.localizationpriority: medium

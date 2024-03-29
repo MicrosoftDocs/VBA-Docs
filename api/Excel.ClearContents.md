@@ -3,7 +3,6 @@ title: ClearContents method (Excel Graph)
 keywords: vbagr10.chm65649
 f1_keywords:
 - vbagr10.chm65649
-ms.prod: excel
 api_name:
 - Excel.ClearContents
 ms.assetid: 8bf70623-e644-e45e-1b1e-565fe6acd223

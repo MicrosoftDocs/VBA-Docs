@@ -3,7 +3,6 @@ title: Slicers.Add method (Excel)
 keywords: vbaxl10.chm903077
 f1_keywords:
 - vbaxl10.chm903077
-ms.prod: excel
 api_name:
 - Excel.Slicers.Add
 ms.assetid: f2632dee-e8fb-440c-cad8-2dd2f7e37739

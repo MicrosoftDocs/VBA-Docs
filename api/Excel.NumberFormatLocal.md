@@ -3,7 +3,6 @@ title: NumberFormatLocal property (Excel Graph)
 keywords: vbagr10.chm66633
 f1_keywords:
 - vbagr10.chm66633
-ms.prod: excel
 api_name:
 - Excel.NumberFormatLocal
 ms.assetid: 186aee6a-dd66-39a7-cebc-546c3e156d6d

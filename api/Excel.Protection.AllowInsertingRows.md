@@ -3,7 +3,6 @@ title: Protection.AllowInsertingRows property (Excel)
 keywords: vbaxl10.chm719077
 f1_keywords:
 - vbaxl10.chm719077
-ms.prod: excel
 api_name:
 - Excel.Protection.AllowInsertingRows
 ms.assetid: 481fb5d0-31c9-9c28-c5a0-3f3abc48ad3a

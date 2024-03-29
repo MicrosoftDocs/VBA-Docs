@@ -3,7 +3,6 @@ title: TextEffectFormat.FontSize property (Excel)
 keywords: vbaxl10.chm118006
 f1_keywords:
 - vbaxl10.chm118006
-ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.FontSize
 ms.assetid: b78fa323-4fcb-c12a-4166-f1689d9f0a93

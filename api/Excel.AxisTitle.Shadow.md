@@ -3,7 +3,6 @@ title: AxisTitle.Shadow property (Excel)
 keywords: vbaxl10.chm565084
 f1_keywords:
 - vbaxl10.chm565084
-ms.prod: excel
 api_name:
 - Excel.AxisTitle.Shadow
 ms.assetid: afeb6964-2900-d0e3-3d4a-35cd829ee992

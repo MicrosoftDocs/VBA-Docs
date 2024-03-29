@@ -3,7 +3,6 @@ title: Top10.Creator property (Excel)
 keywords: vbaxl10.chm821074
 f1_keywords:
 - vbaxl10.chm821074
-ms.prod: excel
 api_name:
 - Excel.Top10.Creator
 ms.assetid: 47d808f6-27f5-c8d9-97ab-1d135d25e4f7

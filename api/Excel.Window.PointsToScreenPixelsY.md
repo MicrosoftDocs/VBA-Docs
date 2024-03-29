@@ -3,7 +3,6 @@ title: Window.PointsToScreenPixelsY method (Excel)
 keywords: vbaxl10.chm356130
 f1_keywords:
 - vbaxl10.chm356130
-ms.prod: excel
 api_name:
 - Excel.Window.PointsToScreenPixelsY
 ms.assetid: ec25e6d4-22c1-2444-9582-37187901ae02

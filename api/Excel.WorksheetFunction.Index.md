@@ -3,7 +3,6 @@ title: WorksheetFunction.Index method (Excel)
 keywords: vbaxl10.chm137090
 f1_keywords:
 - vbaxl10.chm137090
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Index
 ms.assetid: 4656985a-2864-93ed-31c7-e7a551d68e96

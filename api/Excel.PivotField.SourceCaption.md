@@ -3,7 +3,6 @@ title: PivotField.SourceCaption property (Excel)
 keywords: vbaxl10.chm240158
 f1_keywords:
 - vbaxl10.chm240158
-ms.prod: excel
 api_name:
 - Excel.PivotField.SourceCaption
 ms.assetid: a430eda8-5e05-fea9-69ba-d05b369a9859

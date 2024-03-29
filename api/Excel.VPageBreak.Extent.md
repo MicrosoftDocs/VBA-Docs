@@ -3,7 +3,6 @@ title: VPageBreak.Extent property (Excel)
 keywords: vbaxl10.chm156077
 f1_keywords:
 - vbaxl10.chm156077
-ms.prod: excel
 api_name:
 - Excel.VPageBreak.Extent
 ms.assetid: 5ad74c42-16dd-86d4-723f-d8d316b70285

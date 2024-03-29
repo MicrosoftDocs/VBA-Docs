@@ -1,6 +1,5 @@
 ---
 title: FillFormat.TextureTile property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureTile
 ms.assetid: 581322d3-0e54-c214-2f95-dc95e9961fab

@@ -3,7 +3,6 @@ title: XmlNamespaces object (Excel)
 keywords: vbaxl10.chm745072
 f1_keywords:
 - vbaxl10.chm745072
-ms.prod: excel
 api_name:
 - Excel.XmlNamespaces
 ms.assetid: 430f6773-2be5-8312-cd67-afb703ab0782

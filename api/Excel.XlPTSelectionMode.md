@@ -1,6 +1,5 @@
 ---
 title: XlPTSelectionMode enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPTSelectionMode
 ms.assetid: 28f4b6ba-a37e-16e7-2dd5-543d5ca2751c

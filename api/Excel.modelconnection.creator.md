@@ -3,7 +3,6 @@ title: ModelConnection.Creator property (Excel)
 keywords: vbaxl10.chm921074
 f1_keywords:
 - vbaxl10.chm921074
-ms.prod: excel
 ms.assetid: f0761a07-6c55-ad1a-570f-d811403a510a
 ms.date: 05/01/2019
 ms.localizationpriority: medium

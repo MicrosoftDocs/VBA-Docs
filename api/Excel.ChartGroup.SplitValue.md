@@ -3,7 +3,6 @@ title: ChartGroup.SplitValue property (Excel)
 keywords: vbaxl10.chm568098
 f1_keywords:
 - vbaxl10.chm568098
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.SplitValue
 ms.assetid: a7cab670-1510-5334-f11b-12dc8cc13570

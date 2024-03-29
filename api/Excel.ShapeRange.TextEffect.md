@@ -3,7 +3,6 @@ title: ShapeRange.TextEffect property (Excel)
 keywords: vbaxl10.chm640115
 f1_keywords:
 - vbaxl10.chm640115
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.TextEffect
 ms.assetid: 95c2ab5d-061e-f50e-fc2b-7c44ffca7ce9

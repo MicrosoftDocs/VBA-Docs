@@ -3,7 +3,6 @@ title: PivotField.AutoSortCustomSubtotal property (Excel)
 keywords: vbaxl10.chm240149
 f1_keywords:
 - vbaxl10.chm240149
-ms.prod: excel
 api_name:
 - Excel.PivotField.AutoSortCustomSubtotal
 ms.assetid: 9f930467-25ca-bf09-da3e-da7d3c9e6b70

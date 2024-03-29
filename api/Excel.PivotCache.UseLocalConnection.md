@@ -3,7 +3,6 @@ title: PivotCache.UseLocalConnection property (Excel)
 keywords: vbaxl10.chm227096
 f1_keywords:
 - vbaxl10.chm227096
-ms.prod: excel
 api_name:
 - Excel.PivotCache.UseLocalConnection
 ms.assetid: ce54adf2-22f3-f4dc-8b97-276d6ca53478

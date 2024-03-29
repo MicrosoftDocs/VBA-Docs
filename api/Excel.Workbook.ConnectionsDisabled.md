@@ -3,7 +3,6 @@ title: Workbook.ConnectionsDisabled property (Excel)
 keywords: vbaxl10.chm199257
 f1_keywords:
 - vbaxl10.chm199257
-ms.prod: excel
 api_name:
 - Excel.Workbook.ConnectionsDisabled
 ms.assetid: afd53cc5-12d8-4b22-3186-1359c14f662e

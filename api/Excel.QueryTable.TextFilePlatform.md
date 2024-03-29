@@ -3,7 +3,6 @@ title: QueryTable.TextFilePlatform property (Excel)
 keywords: vbaxl10.chm518098
 f1_keywords:
 - vbaxl10.chm518098
-ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFilePlatform
 ms.assetid: 2fb3dbb5-919e-2e27-9fbf-8feaa107c2a7

@@ -1,6 +1,5 @@
 ---
 title: XlTickMark enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlTickMark
 ms.assetid: 0f66ac7b-0ff0-3574-2df0-ad8084a6b5cf

@@ -3,7 +3,6 @@ title: DataFeedConnection.SourceDataFile property (Excel)
 keywords: vbaxl10.chm928085
 f1_keywords:
 - vbaxl10.chm928085
-ms.prod: excel
 ms.assetid: d8776dd0-c370-6311-9118-74230956a37d
 ms.date: 03/28/2019
 ms.localizationpriority: medium

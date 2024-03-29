@@ -3,7 +3,6 @@ title: MultiThreadedCalculation.Creator property (Excel)
 keywords: vbaxl10.chm858074
 f1_keywords:
 - vbaxl10.chm858074
-ms.prod: excel
 api_name:
 - Excel.MultiThreadedCalculation.Creator
 ms.assetid: 4121064b-2a70-e46c-c4e0-dc72cb894edf

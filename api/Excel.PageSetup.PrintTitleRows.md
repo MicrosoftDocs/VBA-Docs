@@ -3,7 +3,6 @@ title: PageSetup.PrintTitleRows property (Excel)
 keywords: vbaxl10.chm473098
 f1_keywords:
 - vbaxl10.chm473098
-ms.prod: excel
 api_name:
 - Excel.PageSetup.PrintTitleRows
 ms.assetid: de01a1a9-a6f5-9eb4-5785-2993475c1a02

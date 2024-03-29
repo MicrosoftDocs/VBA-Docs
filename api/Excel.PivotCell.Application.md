@@ -3,7 +3,6 @@ title: PivotCell.Application property (Excel)
 keywords: vbaxl10.chm691073
 f1_keywords:
 - vbaxl10.chm691073
-ms.prod: excel
 api_name:
 - Excel.PivotCell.Application
 ms.assetid: 63a2a460-a72f-086a-8401-2e029847ee39

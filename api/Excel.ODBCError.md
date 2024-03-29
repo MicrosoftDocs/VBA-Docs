@@ -3,7 +3,6 @@ title: ODBCError object (Excel)
 keywords: vbaxl10.chm526072
 f1_keywords:
 - vbaxl10.chm526072
-ms.prod: excel
 api_name:
 - Excel.ODBCError
 ms.assetid: a256d466-7fa1-4b0f-fe01-c2640743e7e9

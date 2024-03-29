@@ -3,7 +3,6 @@ title: ShapeNodes.SetPosition method (Excel)
 keywords: vbaxl10.chm112010
 f1_keywords:
 - vbaxl10.chm112010
-ms.prod: excel
 api_name:
 - Excel.ShapeNodes.SetPosition
 ms.assetid: ad76e3d9-51d2-51fd-2af1-9eee7b62e52c

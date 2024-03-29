@@ -3,7 +3,6 @@ title: CalculatedMembers.Application property (Excel)
 keywords: vbaxl10.chm683073
 f1_keywords:
 - vbaxl10.chm683073
-ms.prod: excel
 api_name:
 - Excel.CalculatedMembers.Application
 ms.assetid: eafa8e3d-d640-8621-c720-034f1773bb14

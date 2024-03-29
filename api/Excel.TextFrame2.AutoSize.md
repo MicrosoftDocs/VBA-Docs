@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.AutoSize property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.AutoSize
 ms.assetid: 8c2659b2-a315-18c3-23f3-7b1488ce8107

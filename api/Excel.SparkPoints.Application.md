@@ -3,7 +3,6 @@ title: SparkPoints.Application property (Excel)
 keywords: vbaxl10.chm872073
 f1_keywords:
 - vbaxl10.chm872073
-ms.prod: excel
 api_name:
 - Excel.SparkPoints.Application
 ms.assetid: 4aca021f-94cc-e59d-4dfb-223fda675209

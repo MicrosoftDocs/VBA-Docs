@@ -3,7 +3,6 @@ title: QueryTable.TextFileFixedColumnWidths property (Excel)
 keywords: vbaxl10.chm518109
 f1_keywords:
 - vbaxl10.chm518109
-ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileFixedColumnWidths
 ms.assetid: adfc63a2-3594-5b36-dccf-28a1cd99c84d

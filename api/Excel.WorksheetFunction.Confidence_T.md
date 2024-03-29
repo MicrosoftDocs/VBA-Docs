@@ -3,7 +3,6 @@ title: WorksheetFunction.Confidence_T method (Excel)
 keywords: vbaxl10.chm137360
 f1_keywords:
 - vbaxl10.chm137360
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Confidence_T
 ms.assetid: b4e497b6-bf5a-5630-3092-d806012e0c97

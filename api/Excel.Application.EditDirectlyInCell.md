@@ -3,7 +3,6 @@ title: Application.EditDirectlyInCell property (Excel)
 keywords: vbaxl10.chm133129
 f1_keywords:
 - vbaxl10.chm133129
-ms.prod: excel
 api_name:
 - Excel.Application.EditDirectlyInCell
 ms.assetid: e867a786-5a34-2e12-e7c6-0637650611c0

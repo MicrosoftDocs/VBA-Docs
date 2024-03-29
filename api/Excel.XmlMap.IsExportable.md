@@ -3,7 +3,6 @@ title: XmlMap.IsExportable property (Excel)
 keywords: vbaxl10.chm754075
 f1_keywords:
 - vbaxl10.chm754075
-ms.prod: excel
 api_name:
 - Excel.XmlMap.IsExportable
 ms.assetid: 4f26b59c-14da-3646-c051-88f4d173a861

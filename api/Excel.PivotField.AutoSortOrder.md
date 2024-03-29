@@ -3,7 +3,6 @@ title: PivotField.AutoSortOrder property (Excel)
 keywords: vbaxl10.chm240113
 f1_keywords:
 - vbaxl10.chm240113
-ms.prod: excel
 api_name:
 - Excel.PivotField.AutoSortOrder
 ms.assetid: b2be072b-305a-5cdb-0602-368a67bed56f

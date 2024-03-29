@@ -3,7 +3,6 @@ title: ColorScale.Delete method (Excel)
 keywords: vbaxl10.chm806080
 f1_keywords:
 - vbaxl10.chm806080
-ms.prod: excel
 api_name:
 - Excel.ColorScale.Delete
 ms.assetid: 57976564-37a4-929b-528f-276668e899e1

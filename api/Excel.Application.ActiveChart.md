@@ -3,7 +3,6 @@ title: Application.ActiveChart property (Excel)
 keywords: vbaxl10.chm183075
 f1_keywords:
 - vbaxl10.chm183075
-ms.prod: excel
 api_name:
 - Excel.Application.ActiveChart
 ms.assetid: 37b1901c-a9c2-4a86-ce05-22f3989bc9d8

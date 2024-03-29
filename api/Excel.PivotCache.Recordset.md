@@ -3,7 +3,6 @@ title: PivotCache.Recordset property (Excel)
 keywords: vbaxl10.chm227092
 f1_keywords:
 - vbaxl10.chm227092
-ms.prod: excel
 api_name:
 - Excel.PivotCache.Recordset
 ms.assetid: 25f2eb4f-d78c-21e2-9d26-c8ebc3404607

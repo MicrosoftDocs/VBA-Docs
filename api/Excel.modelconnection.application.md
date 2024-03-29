@@ -3,7 +3,6 @@ title: ModelConnection.Application property (Excel)
 keywords: vbaxl10.chm921073
 f1_keywords:
 - vbaxl10.chm921073
-ms.prod: excel
 ms.assetid: 6d0ff59e-4d5d-c06c-4af8-33a69739f9e1
 ms.date: 05/01/2019
 ms.localizationpriority: medium

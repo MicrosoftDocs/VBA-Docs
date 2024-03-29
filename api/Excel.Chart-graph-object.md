@@ -3,7 +3,6 @@ title: Chart object (Excel Graph)
 keywords: vbagr10.chm131079
 f1_keywords:
 - vbagr10.chm131079
-ms.prod: excel
 api_name:
 - Excel.Chart
 ms.assetid: 2c67873d-dcb3-d320-16cd-694798aebd9d

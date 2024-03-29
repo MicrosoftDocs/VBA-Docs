@@ -1,6 +1,5 @@
 ---
 title: XlPrintLocation enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPrintLocation
 ms.assetid: dee0a0f7-85aa-b511-b43d-f90948e77901

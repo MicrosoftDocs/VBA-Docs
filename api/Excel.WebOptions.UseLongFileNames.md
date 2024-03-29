@@ -3,7 +3,6 @@ title: WebOptions.UseLongFileNames property (Excel)
 keywords: vbaxl10.chm662075
 f1_keywords:
 - vbaxl10.chm662075
-ms.prod: excel
 api_name:
 - Excel.WebOptions.UseLongFileNames
 ms.assetid: f30c4954-d691-3a36-1540-f280eea370d8

@@ -3,7 +3,6 @@ title: Range.Ungroup method (Excel)
 keywords: vbaxl10.chm144212
 f1_keywords:
 - vbaxl10.chm144212
-ms.prod: excel
 api_name:
 - Excel.Range.Ungroup
 ms.assetid: ac20c780-1a8e-2709-13c4-a6ca8220fb0a

@@ -3,7 +3,6 @@ title: PivotTable.TableStyle2 property (Excel)
 keywords: vbaxl10.chm235171
 f1_keywords:
 - vbaxl10.chm235171
-ms.prod: excel
 api_name:
 - Excel.PivotTable.TableStyle2
 ms.assetid: d2d79fc6-2ead-91a9-f304-92248584f4b2

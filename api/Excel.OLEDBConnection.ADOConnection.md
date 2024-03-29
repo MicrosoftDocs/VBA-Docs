@@ -3,7 +3,6 @@ title: OLEDBConnection.ADOConnection property (Excel)
 keywords: vbaxl10.chm794073
 f1_keywords:
 - vbaxl10.chm794073
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ADOConnection
 ms.assetid: 918dd5eb-a9af-7466-92df-cae4e34676be
