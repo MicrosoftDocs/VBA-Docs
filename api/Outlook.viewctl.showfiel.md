@@ -1,6 +1,5 @@
 ---
 title: ViewCtl.ShowFields Method (Outlook View Control)
-ms.prod: outlook
 ms.assetid: a0275990-9a17-23dc-8f61-e1116c6ccb91
 ms.date: 06/08/2017
 ms.localizationpriority: medium

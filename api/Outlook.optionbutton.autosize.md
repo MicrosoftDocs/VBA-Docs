@@ -1,6 +1,5 @@
 ---
 title: OptionButton.AutoSize Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 14f2dbc7-09e1-40a6-317d-b920c9290815
 ms.date: 06/08/2017
 ms.localizationpriority: medium

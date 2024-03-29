@@ -3,7 +3,6 @@ title: ContactItem.BusinessAddressPostOfficeBox property (Outlook)
 keywords: vbaol11.chm974
 f1_keywords:
 - vbaol11.chm974
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessAddressPostOfficeBox
 ms.assetid: 447b3e5d-7f8f-372f-d5a6-843ba65a72b7

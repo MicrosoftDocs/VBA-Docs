@@ -3,7 +3,6 @@ title: Attachments.Parent property (Outlook)
 keywords: vbaol11.chm173
 f1_keywords:
 - vbaol11.chm173
-ms.prod: outlook
 api_name:
 - Outlook.Attachments.Parent
 ms.assetid: c8f54089-14b8-b8e2-8483-53e76b12aaf4

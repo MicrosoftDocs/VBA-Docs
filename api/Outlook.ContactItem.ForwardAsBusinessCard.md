@@ -3,7 +3,6 @@ title: ContactItem.ForwardAsBusinessCard method (Outlook)
 keywords: vbaol11.chm1094
 f1_keywords:
 - vbaol11.chm1094
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.ForwardAsBusinessCard
 ms.assetid: 2f1a74c3-86f0-a054-75e2-272dbb261fb7

@@ -3,7 +3,6 @@ title: Recipient object (Outlook)
 keywords: vbaol11.chm2339
 f1_keywords:
 - vbaol11.chm2339
-ms.prod: outlook
 api_name:
 - Outlook.Recipient
 ms.assetid: 8cee4d79-ec55-52a4-710b-6456944ca86d

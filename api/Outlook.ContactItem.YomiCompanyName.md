@@ -3,7 +3,6 @@ title: ContactItem.YomiCompanyName property (Outlook)
 keywords: vbaol11.chm1076
 f1_keywords:
 - vbaol11.chm1076
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.YomiCompanyName
 ms.assetid: 23316fb2-4211-6b1e-4ead-dadcb35965dd
