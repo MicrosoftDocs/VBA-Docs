@@ -3,7 +3,6 @@ title: ModelRelationship.Application property (Excel)
 keywords: vbaxl10.chm937073
 f1_keywords:
 - vbaxl10.chm937073
-ms.prod: excel
 ms.assetid: fc6832ad-4100-e1ac-f286-6f0cbe11c983
 ms.date: 04/20/2019
 ms.localizationpriority: medium

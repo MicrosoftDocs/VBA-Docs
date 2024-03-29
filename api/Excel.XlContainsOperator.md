@@ -1,6 +1,5 @@
 ---
 title: XlContainsOperator enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlContainsOperator
 ms.assetid: 644304da-c475-4220-f767-5bca330c043b

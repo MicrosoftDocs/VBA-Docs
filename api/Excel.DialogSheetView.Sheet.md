@@ -3,7 +3,6 @@ title: DialogSheetView.Sheet property (Excel)
 keywords: vbaxl10.chm787073
 f1_keywords:
 - vbaxl10.chm787073
-ms.prod: excel
 api_name:
 - Excel.DialogSheetView.Sheet
 ms.assetid: 57a6cbc4-c603-281e-6738-e144fa8f429e

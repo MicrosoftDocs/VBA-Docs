@@ -1,6 +1,5 @@
 ---
 title: XlCVError enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlCVError
 ms.assetid: 652a8f26-b80d-a555-6ff2-58da3f219090

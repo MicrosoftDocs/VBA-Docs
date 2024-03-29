@@ -3,7 +3,6 @@ title: ProtectedViewWindows.Open method (Excel)
 keywords: vbaxl10.chm913077
 f1_keywords:
 - vbaxl10.chm913077
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindows.Open
 ms.assetid: bb003d53-949e-842a-f6f1-3ca30f396837

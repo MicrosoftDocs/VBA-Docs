@@ -3,7 +3,6 @@ title: FormatConditions.AddIconSetCondition method (Excel)
 keywords: vbaxl10.chm510081
 f1_keywords:
 - vbaxl10.chm510081
-ms.prod: excel
 api_name:
 - Excel.FormatConditions.AddIconSetCondition
 ms.assetid: eb23b1b1-da7f-013e-aef3-5f690f5cb4ff

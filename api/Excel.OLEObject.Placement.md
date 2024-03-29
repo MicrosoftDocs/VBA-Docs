@@ -3,7 +3,6 @@ title: OLEObject.Placement property (Excel)
 keywords: vbaxl10.chm415088
 f1_keywords:
 - vbaxl10.chm415088
-ms.prod: excel
 api_name:
 - Excel.OLEObject.Placement
 ms.assetid: 03cc3dc9-7e91-3410-be95-29e62b09331d

@@ -3,7 +3,6 @@ title: ReplacementList property (Excel Graph)
 keywords: vbagr10.chm3077085
 f1_keywords:
 - vbagr10.chm3077085
-ms.prod: excel
 api_name:
 - Excel.ReplacementList
 ms.assetid: 14209e45-f0e9-a166-7970-ecf3ca79e570

@@ -3,7 +3,6 @@ title: TextEffectFormat.FontItalic property (Excel)
 keywords: vbaxl10.chm118004
 f1_keywords:
 - vbaxl10.chm118004
-ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.FontItalic
 ms.assetid: 5c1f9cd5-e994-3bed-f8ad-ab2ee2d64e7a

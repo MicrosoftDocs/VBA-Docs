@@ -3,7 +3,6 @@ title: Graphic.Height property (Excel)
 keywords: vbaxl10.chm694081
 f1_keywords:
 - vbaxl10.chm694081
-ms.prod: excel
 api_name:
 - Excel.Graphic.Height
 ms.assetid: 38ee74b8-45ea-cf1b-157b-e4dd850ee8ff

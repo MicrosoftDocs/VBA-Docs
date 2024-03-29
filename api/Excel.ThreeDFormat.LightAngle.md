@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.LightAngle property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.LightAngle
 ms.assetid: 07b676ce-11df-282f-34ff-6625db0114f6

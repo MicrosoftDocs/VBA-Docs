@@ -1,6 +1,5 @@
 ---
 title: Shapes.Add3DModel method (Excel)
-ms.prod: excel
 api_name:
 - Excel.Shapes.Add3DModel
 ms.date: 04/12/2019

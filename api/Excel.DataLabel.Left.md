@@ -3,7 +3,6 @@ title: DataLabel.Left property (Excel)
 keywords: vbaxl10.chm582084
 f1_keywords:
 - vbaxl10.chm582084
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Left
 ms.assetid: 61b2d1ca-cc30-18cb-1bcf-463048be408f

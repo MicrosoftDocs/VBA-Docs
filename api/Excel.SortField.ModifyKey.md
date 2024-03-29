@@ -3,7 +3,6 @@ title: SortField.ModifyKey method (Excel)
 keywords: vbaxl10.chm843081
 f1_keywords:
 - vbaxl10.chm843081
-ms.prod: excel
 api_name:
 - Excel.SortField.ModifyKey
 ms.assetid: 40227e28-a19e-2130-ae9d-8b87109815f5

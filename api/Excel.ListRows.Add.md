@@ -3,7 +3,6 @@ title: ListRows.Add method (Excel)
 keywords: vbaxl10.chm740078
 f1_keywords:
 - vbaxl10.chm740078
-ms.prod: excel
 api_name:
 - Excel.ListRows.Add
 ms.assetid: 32213e09-fd25-3787-3ab8-45ee1249ca1c

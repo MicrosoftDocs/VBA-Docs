@@ -3,7 +3,6 @@ title: Floor.Thickness property (Excel)
 keywords: vbaxl10.chm612082
 f1_keywords:
 - vbaxl10.chm612082
-ms.prod: excel
 api_name:
 - Excel.Floor.Thickness
 ms.assetid: 96d1e08c-0b1b-7e0b-12b0-a9db33e08ac3

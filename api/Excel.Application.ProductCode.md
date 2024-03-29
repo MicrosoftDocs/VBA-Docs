@@ -3,7 +3,6 @@ title: Application.ProductCode property (Excel)
 keywords: vbaxl10.chm133248
 f1_keywords:
 - vbaxl10.chm133248
-ms.prod: excel
 api_name:
 - Excel.Application.ProductCode
 ms.assetid: 5fd20091-4c74-f39c-9842-a5a032048edd

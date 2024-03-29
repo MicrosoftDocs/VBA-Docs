@@ -3,7 +3,6 @@ title: DisplayFormat.Characters property (Excel)
 keywords: vbaxl10.chm893074
 f1_keywords:
 - vbaxl10.chm893074
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Characters
 ms.assetid: 42e0518f-204d-c0cd-2401-dd1fb8f142e4

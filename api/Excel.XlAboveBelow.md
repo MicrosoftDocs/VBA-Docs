@@ -1,6 +1,5 @@
 ---
 title: XlAboveBelow enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlAboveBelow
 ms.assetid: 234b7c1c-c06f-94dd-df89-61911353a727

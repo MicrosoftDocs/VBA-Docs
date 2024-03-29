@@ -3,7 +3,6 @@ title: Worksheet.CheckSpelling method (Excel)
 keywords: vbaxl10.chm175083
 f1_keywords:
 - vbaxl10.chm175083
-ms.prod: excel
 api_name:
 - Excel.Worksheet.CheckSpelling
 ms.assetid: 145c7604-5524-b8a2-888c-c3195118cb08

@@ -3,7 +3,6 @@ title: DisplayFormat.Orientation property (Excel)
 keywords: vbaxl10.chm893086
 f1_keywords:
 - vbaxl10.chm893086
-ms.prod: excel
 api_name:
 - Excel.DisplayFormat.Orientation
 ms.assetid: e60e9ee7-814e-9649-7eb4-fb7847eaa008

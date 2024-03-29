@@ -3,7 +3,6 @@ title: Application.ActivePrinter property (Excel)
 keywords: vbaxl10.chm183078
 f1_keywords:
 - vbaxl10.chm183078
-ms.prod: excel
 api_name:
 - Excel.Application.ActivePrinter
 ms.assetid: 72c4a525-27ab-f109-64d3-bcc7a12df505

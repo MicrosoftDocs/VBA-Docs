@@ -3,7 +3,6 @@ title: AddIns.Item property (Excel)
 keywords: vbaxl10.chm187075
 f1_keywords:
 - vbaxl10.chm187075
-ms.prod: excel
 api_name:
 - Excel.AddIns.Item
 ms.assetid: 417987d5-322c-2784-c51e-18a1fa7578d1

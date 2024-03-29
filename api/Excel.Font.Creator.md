@@ -3,7 +3,6 @@ title: Font.Creator property (Excel)
 keywords: vbaxl10.chm558074
 f1_keywords:
 - vbaxl10.chm558074
-ms.prod: excel
 api_name:
 - Excel.Font.Creator
 ms.assetid: fa8aa768-c71d-8a34-2f3c-907fa2abaccc

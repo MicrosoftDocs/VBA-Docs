@@ -3,7 +3,6 @@ title: ListDataFormat.DecimalPlaces property (Excel)
 keywords: vbaxl10.chm758075
 f1_keywords:
 - vbaxl10.chm758075
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat.DecimalPlaces
 ms.assetid: 49c11876-2f79-5ca1-bdba-27e659dadc98

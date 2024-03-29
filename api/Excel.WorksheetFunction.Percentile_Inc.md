@@ -3,7 +3,6 @@ title: WorksheetFunction.Percentile_Inc method (Excel)
 keywords: vbaxl10.chm137373
 f1_keywords:
 - vbaxl10.chm137373
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Percentile_Inc
 ms.assetid: f2c56deb-636f-7549-af70-92fc7cef3623

@@ -3,7 +3,6 @@ title: ChartArea.Copy method (Excel)
 keywords: vbaxl10.chm620079
 f1_keywords:
 - vbaxl10.chm620079
-ms.prod: excel
 api_name:
 - Excel.ChartArea.Copy
 ms.assetid: cd96e7bb-ced8-08a6-000f-7926c37d5af2

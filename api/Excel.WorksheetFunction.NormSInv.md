@@ -3,7 +3,6 @@ title: WorksheetFunction.NormSInv method (Excel)
 keywords: vbaxl10.chm137200
 f1_keywords:
 - vbaxl10.chm137200
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.NormSInv
 ms.assetid: 88b209e4-3dc0-7c21-e175-55c1f133919e

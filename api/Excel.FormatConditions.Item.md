@@ -3,7 +3,6 @@ title: FormatConditions.Item method (Excel)
 keywords: vbaxl10.chm510074
 f1_keywords:
 - vbaxl10.chm510074
-ms.prod: excel
 api_name:
 - Excel.FormatConditions.Item
 ms.assetid: 62b8bef8-94ae-5cfa-0af7-bd6a311f9cb2

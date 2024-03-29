@@ -3,7 +3,6 @@ title: IconCriteria.Count property (Excel)
 keywords: vbaxl10.chm813073
 f1_keywords:
 - vbaxl10.chm813073
-ms.prod: excel
 api_name:
 - Excel.IconCriteria.Count
 ms.assetid: 1a4db597-70fa-b12a-4755-7cb71009d8a8

@@ -3,7 +3,6 @@ title: UniqueValues.StopIfTrue property (Excel)
 keywords: vbaxl10.chm826074
 f1_keywords:
 - vbaxl10.chm826074
-ms.prod: excel
 api_name:
 - Excel.UniqueValues.StopIfTrue
 ms.assetid: d739e671-af5c-d41e-4bd6-e343818afa3f

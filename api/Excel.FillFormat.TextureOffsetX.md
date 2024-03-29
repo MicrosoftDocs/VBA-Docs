@@ -1,6 +1,5 @@
 ---
 title: FillFormat.TextureOffsetX property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureOffsetX
 ms.assetid: c2f8f9d1-815c-cadc-e21b-041cb0eeea3c

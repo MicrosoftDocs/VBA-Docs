@@ -1,6 +1,5 @@
 ---
 title: XlTopBottom enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlTopBottom
 ms.assetid: f398b424-6150-0aa8-be99-218ba2d913b9

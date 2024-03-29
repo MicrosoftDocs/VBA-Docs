@@ -3,7 +3,6 @@ title: Shape.Duplicate method (Excel)
 keywords: vbaxl10.chm636076
 f1_keywords:
 - vbaxl10.chm636076
-ms.prod: excel
 api_name:
 - Excel.Shape.Duplicate
 ms.assetid: d4e32396-5d9e-2e10-3111-e0ceda52643e

@@ -3,7 +3,6 @@ title: Application.COMAddIns property (Excel)
 keywords: vbaxl10.chm133246
 f1_keywords:
 - vbaxl10.chm133246
-ms.prod: excel
 api_name:
 - Excel.Application.COMAddIns
 ms.assetid: d51f3373-ba5d-20b4-7557-246a6fcf89c3

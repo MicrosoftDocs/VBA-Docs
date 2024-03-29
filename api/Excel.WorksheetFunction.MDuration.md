@@ -3,7 +3,6 @@ title: WorksheetFunction.MDuration method (Excel)
 keywords: vbaxl10.chm137335
 f1_keywords:
 - vbaxl10.chm137335
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MDuration
 ms.assetid: 80b2aba4-6c9f-4c2a-510a-e024ec6149fd

@@ -3,7 +3,6 @@ title: PivotField.ServerBased property (Excel)
 keywords: vbaxl10.chm240110
 f1_keywords:
 - vbaxl10.chm240110
-ms.prod: excel
 api_name:
 - Excel.PivotField.ServerBased
 ms.assetid: 8c97a617-e852-b21e-7acf-f0d31363adf3

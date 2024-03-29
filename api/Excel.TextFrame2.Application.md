@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.Application property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.Application
 ms.assetid: bb5aeb3a-f8d7-3752-27a5-ff1eedd7d4db

@@ -3,7 +3,6 @@ title: ShapeRange.PictureFormat property (Excel)
 keywords: vbaxl10.chm640113
 f1_keywords:
 - vbaxl10.chm640113
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.PictureFormat
 ms.assetid: b7d8ec5c-b0b3-3628-475d-16939c467ad6

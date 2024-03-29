@@ -3,7 +3,6 @@ title: ODBCConnection.AlwaysUseConnectionFile property (Excel)
 keywords: vbaxl10.chm796092
 f1_keywords:
 - vbaxl10.chm796092
-ms.prod: excel
 api_name:
 - Excel.ODBCConnection.AlwaysUseConnectionFile
 ms.assetid: 445c7371-0ac6-b6f3-1a78-a406922d106f

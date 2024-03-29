@@ -3,7 +3,6 @@ title: Range object (Excel Graph)
 keywords: vbagr10.chm5207906
 f1_keywords:
 - vbagr10.chm5207906
-ms.prod: excel
 api_name:
 - Excel.Range
 ms.assetid: 8bc4841b-72f7-34b5-a299-3357bf8f457b

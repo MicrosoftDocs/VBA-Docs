@@ -3,7 +3,6 @@ title: Shape.AlternativeText property (Excel)
 keywords: vbaxl10.chm636132
 f1_keywords:
 - vbaxl10.chm636132
-ms.prod: excel
 api_name:
 - Excel.Shape.AlternativeText
 ms.assetid: 40b53b31-c4e2-0fd8-1a37-fa1e88ccd2be

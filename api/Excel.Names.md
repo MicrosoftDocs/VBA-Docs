@@ -3,7 +3,6 @@ title: Names object (Excel)
 keywords: vbaxl10.chm487072
 f1_keywords:
 - vbaxl10.chm487072
-ms.prod: excel
 api_name:
 - Excel.Names
 ms.assetid: ffecf89d-7bae-c470-8e37-608857a9de2a

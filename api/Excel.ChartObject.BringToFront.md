@@ -3,7 +3,6 @@ title: ChartObject.BringToFront method (Excel)
 keywords: vbaxl10.chm494075
 f1_keywords:
 - vbaxl10.chm494075
-ms.prod: excel
 api_name:
 - Excel.ChartObject.BringToFront
 ms.assetid: 2b9d6071-41e4-cd8b-2a4c-ddfbbfbb4348

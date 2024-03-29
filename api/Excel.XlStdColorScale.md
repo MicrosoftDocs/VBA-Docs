@@ -1,6 +1,5 @@
 ---
 title: XlStdColorScale enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlStdColorScale
 ms.assetid: 6c08f3dc-3677-ad94-3664-d1874d84aadc

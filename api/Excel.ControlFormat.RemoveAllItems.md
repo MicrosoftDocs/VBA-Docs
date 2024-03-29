@@ -3,7 +3,6 @@ title: ControlFormat.RemoveAllItems method (Excel)
 keywords: vbaxl10.chm630074
 f1_keywords:
 - vbaxl10.chm630074
-ms.prod: excel
 api_name:
 - Excel.ControlFormat.RemoveAllItems
 ms.assetid: de8e1721-45e1-eca9-d35d-7d72c32dc0bf

@@ -3,7 +3,6 @@ title: AutoCorrect.Creator property (Excel)
 keywords: vbaxl10.chm544074
 f1_keywords:
 - vbaxl10.chm544074
-ms.prod: excel
 api_name:
 - Excel.AutoCorrect.Creator
 ms.assetid: 25c3b228-cfac-8703-acd9-533cf86387cb

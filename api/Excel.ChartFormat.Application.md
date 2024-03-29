@@ -3,7 +3,6 @@ title: ChartFormat.Application property (Excel)
 keywords: vbaxl10.chm860073
 f1_keywords:
 - vbaxl10.chm860073
-ms.prod: excel
 api_name:
 - Excel.ChartFormat.Application
 ms.assetid: 72b6e73c-19d8-98c0-bf75-a7b0e95e0996

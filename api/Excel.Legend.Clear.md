@@ -3,7 +3,6 @@ title: Legend.Clear method (Excel)
 keywords: vbaxl10.chm622082
 f1_keywords:
 - vbaxl10.chm622082
-ms.prod: excel
 api_name:
 - Excel.Legend.Clear
 ms.assetid: 9026a3db-880e-c8d5-cbc1-b813c252bd8a

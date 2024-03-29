@@ -3,7 +3,6 @@ title: LineFormat.BeginArrowheadWidth property (Excel)
 keywords: vbaxl10.chm110005
 f1_keywords:
 - vbaxl10.chm110005
-ms.prod: excel
 api_name:
 - Excel.LineFormat.BeginArrowheadWidth
 ms.assetid: 82d9b8fe-4aa5-3292-f792-c14332c2103d

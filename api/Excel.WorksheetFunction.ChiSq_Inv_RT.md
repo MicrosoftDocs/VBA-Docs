@@ -3,7 +3,6 @@ title: WorksheetFunction.ChiSq_Inv_RT method (Excel)
 keywords: vbaxl10.chm137401
 f1_keywords:
 - vbaxl10.chm137401
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiSq_Inv_RT
 ms.assetid: 4c92ac86-6f3b-6bdb-cae9-5790db659e2a

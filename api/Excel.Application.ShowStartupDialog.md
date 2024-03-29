@@ -3,7 +3,6 @@ title: Application.ShowStartupDialog property (Excel)
 keywords: vbaxl10.chm133287
 f1_keywords:
 - vbaxl10.chm133287
-ms.prod: excel
 api_name:
 - Excel.Application.ShowStartupDialog
 ms.assetid: 8ea751c4-a4b1-a84a-9566-c4de8c5b9f67

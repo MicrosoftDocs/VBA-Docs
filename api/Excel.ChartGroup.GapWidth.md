@@ -3,7 +3,6 @@ title: ChartGroup.GapWidth property (Excel)
 keywords: vbaxl10.chm568078
 f1_keywords:
 - vbaxl10.chm568078
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.GapWidth
 ms.assetid: 2bf93d07-9181-f43c-5a0f-9350fc1ebd62

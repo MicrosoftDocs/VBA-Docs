@@ -3,7 +3,6 @@ title: Range.ListHeaderRows property (Excel)
 keywords: vbaxl10.chm144154
 f1_keywords:
 - vbaxl10.chm144154
-ms.prod: excel
 api_name:
 - Excel.Range.ListHeaderRows
 ms.assetid: d71a9b28-cd5d-677c-9ce1-f8de2b350e5f

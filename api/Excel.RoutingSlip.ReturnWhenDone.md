@@ -3,7 +3,6 @@ title: RoutingSlip.ReturnWhenDone property (Excel)
 keywords: vbaxl10.chm453077
 f1_keywords:
 - vbaxl10.chm453077
-ms.prod: excel
 api_name:
 - Excel.RoutingSlip.ReturnWhenDone
 ms.assetid: fd2efb86-476f-faa8-d7f4-db5be000ea24

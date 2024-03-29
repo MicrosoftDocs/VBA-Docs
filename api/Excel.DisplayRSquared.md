@@ -3,7 +3,6 @@ title: DisplayRSquared property (Excel Graph)
 keywords: vbagr10.chm5207314
 f1_keywords:
 - vbagr10.chm5207314
-ms.prod: excel
 api_name:
 - Excel.DisplayRSquared
 ms.assetid: cc8ac282-19b1-00d8-14a7-738f5574f1cb

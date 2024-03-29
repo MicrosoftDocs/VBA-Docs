@@ -3,7 +3,6 @@ title: TimelineViewState.Parent property (Excel)
 keywords: vbaxl10.chm951075
 f1_keywords:
 - vbaxl10.chm951075
-ms.prod: excel
 ms.assetid: 8f1c8975-f8b1-a793-0246-7d266ac4eabe
 ms.date: 05/18/2019
 ms.localizationpriority: medium

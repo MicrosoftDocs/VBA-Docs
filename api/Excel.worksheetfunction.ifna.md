@@ -3,7 +3,6 @@ title: WorksheetFunction.IfNa method (Excel)
 keywords: vbaxl10.chm137460
 f1_keywords:
 - vbaxl10.chm137460
-ms.prod: excel
 ms.assetid: c257e779-e28f-e729-526a-52805f98e3a9
 ms.date: 05/23/2019
 ms.localizationpriority: medium

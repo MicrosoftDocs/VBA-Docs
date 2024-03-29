@@ -3,7 +3,6 @@ title: Shapes.AddPolyline method (Excel)
 keywords: vbaxl10.chm638083
 f1_keywords:
 - vbaxl10.chm638083
-ms.prod: excel
 api_name:
 - Excel.Shapes.AddPolyline
 ms.assetid: b9caacf9-c87c-224e-c948-a96aceb3a0ee

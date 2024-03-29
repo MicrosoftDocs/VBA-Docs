@@ -3,7 +3,6 @@ title: Application.OnRepeat method (Excel)
 keywords: vbaxl10.chm133181
 f1_keywords:
 - vbaxl10.chm133181
-ms.prod: excel
 api_name:
 - Excel.Application.OnRepeat
 ms.assetid: 7d535e14-c779-af87-60eb-68ec8e651459

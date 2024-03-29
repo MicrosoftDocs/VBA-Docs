@@ -3,7 +3,6 @@ title: FillFormat.PresetGradientType property (Excel)
 keywords: vbaxl10.chm115018
 f1_keywords:
 - vbaxl10.chm115018
-ms.prod: excel
 api_name:
 - Excel.FillFormat.PresetGradientType
 ms.assetid: e9cb1ba6-9c40-3fef-7014-68069be4da1f

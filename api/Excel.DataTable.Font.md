@@ -3,7 +3,6 @@ title: DataTable.Font property (Excel)
 keywords: vbaxl10.chm626078
 f1_keywords:
 - vbaxl10.chm626078
-ms.prod: excel
 api_name:
 - Excel.DataTable.Font
 ms.assetid: d3497de8-c1ee-4b62-b5c1-a3084f66f11e

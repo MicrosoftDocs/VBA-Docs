@@ -3,7 +3,6 @@ title: Refer to Cells by Using Shortcut Notation
 keywords: vbaxl10.chm5204430
 f1_keywords:
 - vbaxl10.chm5204430
-ms.prod: excel
 ms.assetid: 32426c8d-a2f6-dae5-7507-ff19582fa170
 ms.date: 06/08/2017
 ms.localizationpriority: medium

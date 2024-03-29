@@ -3,7 +3,6 @@ title: Workbook.EnvelopeVisible property (Excel)
 keywords: vbaxl10.chm199191
 f1_keywords:
 - vbaxl10.chm199191
-ms.prod: excel
 api_name:
 - Excel.Workbook.EnvelopeVisible
 ms.assetid: d511a75a-ddd1-64f5-a09b-720657f64c09

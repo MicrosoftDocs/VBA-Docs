@@ -3,7 +3,6 @@ title: ChartGroup.HasHiLoLines property (Excel)
 keywords: vbaxl10.chm568080
 f1_keywords:
 - vbaxl10.chm568080
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.HasHiLoLines
 ms.assetid: ea743b83-8a3c-7ce1-6659-9a25ebb8eeae

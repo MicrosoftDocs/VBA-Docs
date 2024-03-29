@@ -3,7 +3,6 @@ title: Chart.MouseDown event (Excel)
 keywords: vbaxl10.chm500076
 f1_keywords:
 - vbaxl10.chm500076
-ms.prod: excel
 api_name:
 - Excel.Chart.MouseDown
 ms.assetid: 6c4ef5ce-560e-a7d5-c602-99a999fb5535

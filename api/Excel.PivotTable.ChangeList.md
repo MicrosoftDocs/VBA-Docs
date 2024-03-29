@@ -3,7 +3,6 @@ title: PivotTable.ChangeList property (Excel)
 keywords: vbaxl10.chm235196
 f1_keywords:
 - vbaxl10.chm235196
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ChangeList
 ms.assetid: 21b933d1-1db0-23a3-9002-b13bd572f97d
