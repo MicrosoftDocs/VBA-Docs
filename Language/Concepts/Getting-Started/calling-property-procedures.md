@@ -15,13 +15,16 @@ The following table lists the syntax for calling [property procedures](../../Glo
 
 |Property procedure|Syntax|
 |:-----|:-----|
-|**[Property Get](../../reference/user-interface-help/property-get-statement.md)**|[**Set** \|[**Let** ]] _varname_ = [ _object_.] _propname_ [( [_arguments_] )]|
-|**[Property Let](../../reference/user-interface-help/property-let-statement.md)**|[**Let** ] [ _object_.] _propname_ [( [_arguments_] )] = _argument_|
+|**[Property Get](../../reference/user-interface-help/property-get-statement.md)**| [**Set** ] _varname_ = [ _object_.] _propname_ [( [_arguments_] )]|
+|**[Property Let](../../reference/user-interface-help/property-let-statement.md)**|[**Let**] [ _object_.] _propname_ [( [_arguments_] )] = _argument_|
 |**[Property Set](../../reference/user-interface-help/property-set-statement.md)**| **Set** [ _object_.] _propname_ [( [_arguments_] )] = _objectArg_|
 
-When you call a **Property Let** or **Property Set** procedure, one [argument](../../Glossary/vbe-glossary.md#argument) always appears on the right side of the [assignment (**=**) operator](../../Reference/User-Interface-Help/equals-operator.md).
+Property procedures calls require at least one argument, the [assignment (**=**) operator](../../Reference/User-Interface-Help/equals-operator.md), and the property procedure name.
 
-If a property procedure's declaration has multiple [parameters](../../Glossary/vbe-glossary.md#parameter), calling **Property Let** or **Property Set** passes the argument on the right-side of the [assignment operator](../../Reference/User-Interface-Help/equals-operator.md) to the last [parameter](../../Glossary/vbe-glossary.md#parameter) of the **Property Let** or **Property Set** procedure.
+- In a call with the property name on the right-side of the [assignment operator](../../Reference/User-Interface-Help/equals-operator.md), Visual Basic calls **Property Get** to return information from the class/object.
+- In a call with the property name on the left-side of [assignment operator](../../Reference/User-Interface-Help/equals-operator.md), Visual Basic calls **Property Let** or **Property Set** to update information within the class object.
+
+If a property procedure's declaration has multiple [parameters](../../Glossary/vbe-glossary.md#parameter), calling **Property Let** or **Property Set**, passes the argument on the right-side of the [assignment operator](../../Reference/User-Interface-Help/equals-operator.md) to the last [parameter](../../Glossary/vbe-glossary.md#parameter) to the **Property Let** or **Property Set** procedures.
 
 For example, the following diagram uses **Property Let** to show how arguments in the property procedure call (on top) relate to parameters in the declaration (on bottom):
 
